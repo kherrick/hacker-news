@@ -1,0 +1,37 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "description": "Hacker News",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build:html:base": "bin/build-html-base.sh",
+    "build:html": "bin/build-html.js",
+    "build:manifest-json": "node bin/build-manifest-json.js",
+    "build:md": "bin/build-md.sh",
+    "build:index-json": "node bin/build-index-json.js",
+    "build:service-worker": "workbox generateSW ./service-worker/workbox-config.cjs",
+    "init": "npm install",
+    "serve": "serve --single .",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kherrick/hacker-news.git"
+  },
+  "license": "AGPL-3.0",
+  "homepage": "https://kherrick.github.io/hacker-news/",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.2",
+    "cssnano": "^5.1.7",
+    "htmlnano": "^2.0.2",
+    "postcss": "^8.4.12",
+    "posthtml-cli": "^0.10.0",
+    "prettier": "^2.6.2",
+    "sanitize-html": "^2.7.0",
+    "serve": "^13.0.2",
+    "svgo": "^2.8.0",
+    "universal-fetch": "^1.0.0",
+    "workbox-cli": "^6.5.3"
+  }
+}

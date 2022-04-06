@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+      name="viewport"
+    />
+    <meta name="description" content="Hacker News" />
+    <meta name="theme-color" content="#fff" />
+    <title>Hacker News</title>
+    <link rel="manifest" href="manifest.json" />
+    <link
+      href="data:image/x-icon;base64,AAABAAEAAQECAAEAAQA4AAAAFgAAACgAAAABAAAAAgAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAQECAAEAAQA4AAAAFgAAACgAAAABAAAAAgAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      rel="icon"
+      type="image/x-icon"
+    />
+    <link
+      href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAA1BMVEUAAACnej3aAAAANklEQVR42u3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8G4IAAAFjdVCkAAAAAElFTkSuQmCC"
+      rel="apple-touch-icon"
+    />
+    <style>
+      /*<!--*/
+      body {
+        color: rgb(25, 25, 25);
+        font-family: Verdana, Geneva, sans-serif;
+        margin: 0;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      a:link,
+      a:focus,
+      a:hover,
+      a:active {
+        color: rgb(75, 75, 125);
+      }
+
+      a:visited {
+        color: rgb(25, 25, 25);
+      }
+
+      h1 > a,
+      h1 > a:link,
+      h1 > a:focus,
+      h1 > a:hover,
+      h1 > a:active,
+      h1 > a:visited,
+      h2 > a,
+      h2 > a:link,
+      h2 > a:focus,
+      h2 > a:hover,
+      h2 > a:active,
+      h2 > a:visited {
+        color: rgb(25, 25, 25);
+      }
+
+      h1 {
+        background-color: rgb(255, 102, 0);
+        margin: 0;
+        padding: 1rem;
+      }
+
+      h2 {
+        background-color: rgb(200, 200, 200);
+        margin: 1rem 0;
+        padding: 0.5rem 0.5rem 0.5rem 1rem;
+      }
+
+      #latest > section,
+      #archives > section {
+        margin: 0 1rem 1rem 1rem;
+        padding-bottom: 1rem;
+      }
+
+      #latest > section:not(:last-child),
+      #archives > section:not(:last-child) {
+        border-bottom: 1px dotted rgb(200, 200, 200);
+      }
+
+      section > h3 {
+        margin: 0 0 0.5rem 0;
+      }
+
+      section > h4 {
+        font-weight: normal;
+        margin: 0 0 0 1rem;
+      }
+
+      .descendants-container,
+      .points-container {
+        align-items: center;
+        border-left: 1px solid #333;
+        display: inline-flex;
+        margin-left: 0.5rem;
+        padding-left: 0.5rem;
+        text-align: center;
+      }
+
+      .points {
+        align-items: center;
+        display: inline-flex;
+        height: 1rem;
+        margin-left: 1ch;
+        min-width: 3ch;
+      }
+
+      .text {
+        line-height: 1.5rem;
+        margin: 1rem 1rem 0 1rem;
+        overflow: auto;
+      }
+
+      .text > p:first-child {
+        margin-top: 1rem;
+      }
+
+      .text > p:last-child {
+        margin-bottom: 0;
+      }
+      /*-->*/
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
+      <section id="latest">
+        <h2>Latest</h2>
+      </section>
+      <section id="archives">
+        <h2>
+          <a
+            href="https://github.com/kherrick/hacker-news/blob/main/archives/index.md"
+            >Archives</a
+          >
+        </h2>
+      </section>
+    </main>
+    <script type="module">
+      import { buildDescendants } from "./lib/build-html-descendants.js";
+      import { buildNextItem } from "./lib/build-html-next-item.js";
+      import { getNextDateTime } from "./lib/date-time.js";
+
+      const updateSectionById = (id) =>
+        fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(
+          (result) =>
+            result.json().then(({ descendants, id, score, text, type }) => {
+              const currentItem = document.getElementById(id);
+
+              if (score) {
+                currentItem.querySelector(".points").textContent = score;
+              }
+
+              if (descendants && (type === "poll" || type === "story")) {
+                const currentDescendants =
+                  currentItem.querySelector(".descendants");
+
+                if (currentDescendants) {
+                  currentDescendants.textContent = `: ${descendants}`;
+                } else {
+                  const comments = buildDescendants(
+                    document,
+                    descendants,
+                    `https://news.ycombinator.com/item?id=${id}`
+                  );
+
+                  currentItem.querySelector("h4").appendChild(comments);
+                }
+              }
+
+              if (text) {
+                const currentText = currentItem.querySelector(".text");
+
+                if (currentText) {
+                  currentText.innerHTML = text.replace(/\0/g, "");
+                } else {
+                  const content = document.createElement("div");
+                  content.innerHTML = text.replace(/\0/g, "");
+                  content.setAttribute("class", "text");
+
+                  currentItem.appendChild(content);
+                }
+              }
+            })
+        );
+
+      class UpdateQueue {
+        constructor() {
+          this._ids = [];
+          this._isUpdating = false;
+        }
+
+        addItemById(id) {
+          this._ids.push(id);
+        }
+
+        async flush() {
+          const id = this._ids.shift();
+
+          if (id) {
+            this._isUpdating = true;
+
+            await updateSectionById(id);
+            await this.flush();
+          } else {
+            this._isUpdating = false;
+
+            setTimeout(async () => {
+              if (!this._isUpdating && this._ids && this._ids.length) {
+                await this.flush();
+              }
+            }, 0);
+          }
+        }
+      }
+
+      // get latest data
+      const latestSection = document.getElementById("latest");
+
+      for (let item of latestSection.querySelectorAll("section[id]")) {
+        updateSectionById(item.getAttribute("id"));
+      }
+
+      if ("IntersectionObserver" in window) {
+        window.hackerNewsState = { index: [], nextTimeIndex: -1 };
+
+        const addNewsItem = async (newsItem, queue) => {
+          try {
+            const { date, time, itemComments, itemTitle, itemLink } = newsItem;
+            const section = await buildNextItem({
+              document,
+              dateTime: `${date}, ${time}`,
+              itemComments,
+              itemLink,
+              itemTitle: new DOMParser().parseFromString(
+                itemTitle.replace(/\\/g, ""),
+                "text/html"
+              ).documentElement.textContent,
+              fetchItemDetails: false,
+            });
+
+            // display loading indicator for section
+            section.querySelector(".points-container").innerHTML =
+              'Points: <span class="points"><img style="height: 100%;" src="lib/images/loading.svg" /></span>';
+
+            const id = section.getAttribute("id");
+            if (!document.getElementById(id)) {
+              document.getElementById("latest").appendChild(section);
+
+              queue.addItemById(id);
+            }
+          } catch (error) {}
+        };
+
+        const buildArchiveIndex = async (lastDateTime) => {
+          const nextDate = lastDateTime.slice(0, 10);
+          const nextYear = nextDate.slice(0, 4);
+
+          return (
+            await (
+              await fetch(
+                `https://raw.githubusercontent.com/kherrick/hacker-news/main/archives/${nextYear}/${nextDate}/index.md`
+              )
+            ).text()
+          )
+            .split("\n")
+            .filter((line) => line.match(new RegExp("^\\* \\[")))
+            .map((line) => {
+              const segment = line.replace("* ", "").split("](");
+              const pubDate = segment[0].slice(1);
+
+              const itemComments = segment[1].split(") - [")[0];
+              const itemTitle = segment[1].split(") - [")[1];
+              const itemLink = segment[2].slice(0, -1);
+              const date = pubDate.slice(0, 10);
+              const time = pubDate.slice(-8);
+
+              return {
+                date,
+                itemComments,
+                itemLink,
+                itemTitle,
+                time,
+              };
+            });
+        };
+
+        const handleIntersectingEntry = async (entry, queue) => {
+          if (entry.isIntersecting) {
+            const lastDateTime = document
+              .getElementById("latest")
+              .querySelector(
+                "section:last-child > section > h4 > span"
+              ).textContent;
+
+            const nextDateTime = getNextDateTime(lastDateTime ?? "", -1);
+            const archiveIndex = await buildArchiveIndex(nextDateTime);
+            const nextTimeIndex = archiveIndex.findIndex(
+              ({ time }) => time === nextDateTime.slice(-8)
+            );
+
+            const handleIndexUpdate = (index, existingIndexValues = []) => {
+              index.forEach((i) => {
+                existingIndexValues.push(i);
+              });
+              return existingIndexValues;
+            };
+
+            window.hackerNewsState = {
+              index: handleIndexUpdate(
+                archiveIndex,
+                window.hackerNewsState.index
+              ),
+              nextTimeIndex,
+            };
+
+            let currentTimeIndex = nextTimeIndex + 1;
+            const items = Object.values(window.hackerNewsState.index);
+            for (let item of items) {
+              if (currentTimeIndex < window.hackerNewsState.index.length) {
+                addNewsItem(items[currentTimeIndex], queue);
+
+                currentTimeIndex = currentTimeIndex + 1;
+              }
+            }
+
+            queue.flush();
+          }
+        };
+
+        const archives = document.getElementById("archives");
+        const archivesObserver = new IntersectionObserver(
+          (entries) => {
+            const queue = new UpdateQueue();
+
+            entries.forEach((entry) => handleIntersectingEntry(entry, queue));
+          },
+          {
+            root: null,
+            rootMargin: "0px",
+            threshold: 0,
+          }
+        );
+
+        archivesObserver.observe(archives);
+
+        let latestSectionsExpanded = true;
+        const handleLatestHeaderClick = () => {
+          latestSectionsExpanded = !latestSectionsExpanded;
+
+          if (latestSectionsExpanded) {
+            archivesObserver.observe(archives);
+          } else {
+            archivesObserver.disconnect(archives);
+          }
+
+          for (let section of document.querySelectorAll("#latest > section")) {
+            section.style.display = latestSectionsExpanded ? "block" : "none";
+          }
+        };
+
+        const latestHeader = document.querySelector("#latest > h2");
+        latestHeader.style.cursor = "pointer";
+        latestHeader.addEventListener("click", handleLatestHeaderClick);
+      }
+    </script>
+    <script type="module">
+      import { Workbox } from "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-window.prod.mjs";
+
+      if ("serviceWorker" in navigator) {
+        const base = document.querySelector("base");
+        const serviceWorkerPath = `${
+          base ? base.href.replace(/\/$/, "") : ""
+        }/service-worker.js`;
+
+        const wb = new Workbox(serviceWorkerPath);
+
+        // setup event listeners
+        wb.addEventListener("waiting", (event) => {
+          wb.addEventListener("controlling", () => {
+            window.location.reload();
+          });
+
+          wb.messageSkipWaiting();
+        });
+
+        wb.register();
+      }
+    </script>
+  </body>
+</html>
