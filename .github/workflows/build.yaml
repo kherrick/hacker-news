@@ -1,0 +1,67 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron:  '*/5 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+        cache: 'npm'
+    - name: Setup git
+      run: |-
+        git config user.name "Karl Herrick"
+        git config user.email "me@karlherrick.com"
+    - name: Init app
+      run: |-
+        npm run init
+    - name: Write Markdown and JSON
+      run: |-
+        npm -s start > README.md
+    - name: Commit and push latest data
+      run: |-
+        git add index.json
+        timestamp="$(date -u)"
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+    - name: Build Archives
+      run: |-
+        npm run build:md
+    - name: Commit and push archives
+      run: |-
+        git add --all
+        timestamp="$(date -u)"
+        git commit -m "Build Archives: ${timestamp}" || exit 0
+        git push
+    - name: Build HTML
+      run: |-
+        npm run build:html
+    - name: Commit and push HTML
+      run: |-
+        git add --all
+        timestamp="$(date -u)"
+        git commit -m "Build HTML: ${timestamp}" || exit 0
+        git push
+    - name: Build gh-pages
+      run: |-
+        npm run build:html:base
+        npm run build:index-json
+        npm run build:manifest-json
+        npm run build:service-worker
+    - name: Commit and push gh-pages
+      run: |-
+        git add --all
+        timestamp="$(date -u)"
+        git commit -m "Build gh-pages: ${timestamp}" || exit 0
+        git checkout -b gh-pages
+        git push --force --set-upstream origin gh-pages

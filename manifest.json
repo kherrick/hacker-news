@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "description": "Hacker News",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hacker News",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hacker News",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "sizes": "512x512",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAA1BMVEUAAACnej3aAAAANklEQVR42u3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8G4IAAAFjdVCkAAAAAElFTkSuQmCC",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
