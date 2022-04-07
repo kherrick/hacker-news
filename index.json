@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-04-07, 18:11:17",
-      "https://news.ycombinator.com/item?id=30948255"
+      "2022-04-07, 18:25:53",
+      "https://news.ycombinator.com/item?id=30948461"
     ],
     [
-      "Mantle – Serverless Maps Using Lambda or Cloudflare Workers",
-      "https://protomaps.com/blog/serverless-self-hosted-maps/"
+      "Researchers Found Puberty Blockers Didn’t Improve Trans Kids’ Mental Health",
+      "https://jessesingal.substack.com/p/researchers-found-puberty-blockers"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 18:11:34",
+      "https://news.ycombinator.com/item?id=30948260"
+    ],
+    [
+      "Newly Measured Particle Seems Heavy Enough to Break Known Physics",
+      "https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2022-04-07, 12:09:35",
-      "https://news.ycombinator.com/item?id=30943370"
+      "2022-04-07, 11:28:35",
+      "https://news.ycombinator.com/item?id=30943107"
     ],
     [
-      "Brain charts: mapping the rapid growth and slow decline of the brain over life",
-      "https://www.cam.ac.uk/stories/BrainCharts"
+      "Filenames with Accents (2011)",
+      "https://nedbatchelder.com/blog/201106/filenames_with_accents.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I thought I’d have accomplished a lot more today and also before I was 35 (2020)",
       "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
-    ]
-  ],
-  [
-    [
-      "2022-04-07, 03:13:41",
-      "https://news.ycombinator.com/item?id=30940251"
-    ],
-    [
-      "Show HN: Codestat.dev – Stats from 2M open-source repositories",
-      "https://codestat.dev/"
     ]
   ]
 ]
