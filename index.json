@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-04-07, 17:01:44",
-      "https://news.ycombinator.com/item?id=30947266"
+      "2022-04-07, 17:29:43",
+      "https://news.ycombinator.com/item?id=30947680"
     ],
     [
-      "Robot scientist finds less than one third of scientific results are reproducible",
-      "https://www.cam.ac.uk/research/news/robot-scientist-eve-finds-that-less-than-one-third-of-scientific-results-are-reproducible"
+      "TypeScript as Fast as Rust: TypeScript++",
+      "https://zaplib.com/docs/blog_ts++.html"
     ]
   ],
   [
@@ -45,18 +45,8 @@
       "https://news.ycombinator.com/item?id=30947082"
     ],
     [
-      "Redesigning an App, One Day a Week at a Time",
+      "Redesigning an app, one day a week at a time",
       "http://pketh.org/redesigning-an-app.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-07, 16:50:15",
-      "https://news.ycombinator.com/item?id=30947075"
-    ],
-    [
-      "Governments are failing to understand global catastrophic risks (2019)",
-      "https://www.cam.ac.uk/research/news/governments-are-failing-to-understand-global-catastrophic-risks-and-need-to-take-urgent-action-says"
     ]
   ],
   [
@@ -71,12 +61,32 @@
   ],
   [
     [
+      "2022-04-07, 15:37:48",
+      "https://news.ycombinator.com/item?id=30945929"
+    ],
+    [
+      "The physicalization of metamathematics and the implications for its foundations",
+      "https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/"
+    ]
+  ],
+  [
+    [
       "2022-04-07, 15:37:41",
       "https://news.ycombinator.com/item?id=30945926"
     ],
     [
       "Tree-sitter grammar for org-mode",
       "https://github.com/milisims/tree-sitter-org"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 15:35:04",
+      "https://news.ycombinator.com/item?id=30945878"
+    ],
+    [
+      "Smelly snails and deep purple: Ancient dye (2020)",
+      "https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-04-07, 14:53:12",
-      "https://news.ycombinator.com/item?id=30945199"
-    ],
-    [
-      "Tell HN: Dropbox user age verification feature can lock your account",
-      "https://news.ycombinator.com/item?id=30945199"
-    ]
-  ],
-  [
-    [
       "2022-04-07, 14:30:16",
       "https://news.ycombinator.com/item?id=30944881"
     ],
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2022-04-07, 13:14:44",
-      "https://news.ycombinator.com/item?id=30943996"
+      "2022-04-07, 13:53:36",
+      "https://news.ycombinator.com/item?id=30944438"
     ],
     [
-      "Invitation to Europe",
-      "https://novayagazeta.eu/"
+      "Using Windows after 15 years on Linux",
+      "https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=30943478"
     ],
     [
-      "Use Git Tactically",
+      "Use Git tactically",
       "https://stackoverflow.blog/2022/04/06/use-git-tactically/"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=30943466"
     ],
     [
-      "FAA, Do Your Damn Job",
+      "FAA, do your damn job",
       "https://www.avweb.com/insider/faa-do-your-damn-job/"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=30943132"
     ],
     [
-      "Free Ways to Practice Sign Language Online",
+      "Free ways to practice sign language online",
       "https://www.wired.com/story/how-to-learn-sign-language-free/"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-04-07, 06:21:33",
+      "https://news.ycombinator.com/item?id=30941228"
+    ],
+    [
+      "How Is PyPy Tested?",
+      "https://www.pypy.org/posts/2022/04/how-is-pypy-tested.html"
+    ]
+  ],
+  [
+    [
       "2022-04-07, 06:00:39",
       "https://news.ycombinator.com/item?id=30941097"
     ],
@@ -257,16 +267,6 @@
     [
       "I thought I’d have accomplished a lot more today and also before I was 35 (2020)",
       "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
-    ]
-  ],
-  [
-    [
-      "2022-04-07, 05:08:26",
-      "https://news.ycombinator.com/item?id=30940813"
-    ],
-    [
-      "We’ve got a science opportunity overload: Launching the Wolfram Institute",
-      "https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=30926433"
     ],
     [
-      "Scientists Peek into the Kitchen of the Bronze Age Indus Valley Civilization",
+      "Scientists peek into the kitchen of the Bronze Age Indus Valley civilization",
       "https://archaeologynewsnetwork.blogspot.com/2022/03/leftovers-in-prehistoric-pots-let.html"
     ]
   ]
