@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-04-06, 18:24:26",
-      "https://news.ycombinator.com/item?id=30935683"
-    ],
-    [
-      "MIPS provides highly scalable RISC processor IP",
-      "https://www.mips.com/"
-    ]
-  ],
-  [
-    [
       "2022-04-06, 18:20:19",
       "https://news.ycombinator.com/item?id=30935633"
     ],
@@ -297,6 +287,16 @@
     [
       "The remarkable brain of a carpet cleaner who speaks 24 languages",
       "https://www.washingtonpost.com/dc-md-va/interactive/2022/multilingual-hyperpolyglot-brain-languages/"
+    ]
+  ],
+  [
+    [
+      "2022-04-04, 19:21:30",
+      "https://news.ycombinator.com/item?id=30910893"
+    ],
+    [
+      "TruffleHog v3 – Detect and automatically verify over 600 credential types",
+      "https://github.com/trufflesecurity/trufflehog"
     ]
   ]
 ]
