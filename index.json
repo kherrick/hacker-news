@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-07, 12:26:19",
+      "https://news.ycombinator.com/item?id=30943530"
+    ],
+    [
+      "Would a universal basic income lead to inflation?",
+      "https://news.ycombinator.com/item?id=30943530"
+    ]
+  ],
+  [
+    [
       "2022-04-07, 12:19:15",
       "https://news.ycombinator.com/item?id=30943466"
     ],
@@ -131,32 +141,22 @@
   ],
   [
     [
-      "2022-04-06, 21:18:00",
-      "https://news.ycombinator.com/item?id=30937515"
-    ],
-    [
-      "My website is one binary",
-      "https://j3s.sh/thought/my-website-is-one-binary.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-06, 20:39:05",
-      "https://news.ycombinator.com/item?id=30937201"
-    ],
-    [
-      "Ask HN: Why is visual programming so popular for game programming?",
-      "https://news.ycombinator.com/item?id=30937201"
-    ]
-  ],
-  [
-    [
       "2022-04-06, 17:46:47",
       "https://news.ycombinator.com/item?id=30935254"
     ],
     [
       "Using initial images with VQGAN and Clip",
       "https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqgan-clip.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-06, 17:01:46",
+      "https://news.ycombinator.com/item?id=30934721"
+    ],
+    [
+      "The existence of true one-way functions depends on Kolmogorov complexity",
+      "https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/"
     ]
   ],
   [
