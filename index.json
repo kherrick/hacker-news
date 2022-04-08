@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-04-08, 02:58:32",
-      "https://news.ycombinator.com/item?id=30952871"
-    ],
-    [
-      "Cohere: The world’s most powerful NLP toolkit",
-      "https://cohere.ai"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 01:17:40",
       "https://news.ycombinator.com/item?id=30952256"
     ],
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2022-04-07, 21:52:50",
-      "https://news.ycombinator.com/item?id=30950780"
+      "2022-04-07, 19:17:56",
+      "https://news.ycombinator.com/item?id=30949132"
     ],
     [
-      "Birds make better bipedal bots than humans do",
-      "https://www.scientificamerican.com/article/birds-make-better-bipedal-bots-than-humans-do/"
+      "Raspberry Pi update removes the default user",
+      "http://deepaqua.me/2022/04/07/the-pi-user-is-dead-long-life-the-pi-user/"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2022-04-07, 09:54:24",
-      "https://news.ycombinator.com/item?id=30942556"
-    ],
-    [
-      "You Can Throw() Anything in JavaScript – and Other Async/Await Considerations",
-      "https://www.bennadel.com/blog/4210-you-can-throw-anything-in-javascript-and-other-async-await-considerations.htm"
-    ]
-  ],
-  [
-    [
       "2022-04-07, 09:08:46",
       "https://news.ycombinator.com/item?id=30942269"
     ],
@@ -257,6 +237,16 @@
     [
       "3M Cuts Output of PFAS Used in Chip Production",
       "https://www.eetimes.com/3m-cuts-output-of-hazardous-material-used-in-chip-production/"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 06:59:26",
+      "https://news.ycombinator.com/item?id=30941482"
+    ],
+    [
+      "What a Math Party Game Tells Us About Graph Theory",
+      "https://www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "86Box: Why Not Pentium III?",
       "https://86box.net/2022/03/21/why-not-p3.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-06, 14:09:04",
+      "https://news.ycombinator.com/item?id=30932095"
+    ],
+    [
+      "Dall-E 2",
+      "https://openai.com/dall-e-2/"
     ]
   ]
 ]
