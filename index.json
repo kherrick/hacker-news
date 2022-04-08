@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-08, 23:20:34",
+      "https://news.ycombinator.com/item?id=30963686"
+    ],
+    [
+      "RIP Bill Jolitz (1957 – 2022), co-author of 386BSD",
+      "https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-08, 23:08:39",
+      "https://news.ycombinator.com/item?id=30963600"
+    ],
+    [
+      "NPM package event-source-polyfill compromised by political activists",
+      "https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js"
+    ]
+  ],
+  [
+    [
       "2022-04-08, 21:09:44",
       "https://news.ycombinator.com/item?id=30962559"
     ],
@@ -27,16 +47,6 @@
     [
       "Finley (YC W21) Is a B2B Fintech Hiring in Engineering and Finance (US Remote)",
       "https://www.finleycms.com/work-at-finley"
-    ]
-  ],
-  [
-    [
-      "2022-04-08, 20:35:14",
-      "https://news.ycombinator.com/item?id=30962199"
-    ],
-    [
-      "The true purpose of propaganda",
-      "https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "DHL B752 at San Jose on Apr 7 2022 hydraulic failure results in runway excursion",
       "https://avherald.com/h?article=4f719c2d"
-    ]
-  ],
-  [
-    [
-      "2022-04-08, 18:52:23",
-      "https://news.ycombinator.com/item?id=30961061"
-    ],
-    [
-      "Bongard Problems",
-      "http://www.foundalis.com/res/bps/bpidx.htm"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-04-08, 14:31:26",
-      "https://news.ycombinator.com/item?id=30957273"
-    ],
-    [
-      "Old C code – how to upgrade it?",
-      "https://news.ycombinator.com/item?id=30957273"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 14:24:27",
       "https://news.ycombinator.com/item?id=30957156"
     ],
@@ -267,6 +257,16 @@
     [
       "Horse-riding astronaut is a milestone in AI’s journey to make sense of the world",
       "https://www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-ai-agi-multimodal-image-generation/"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 18:28:22",
+      "https://news.ycombinator.com/item?id=30948497"
+    ],
+    [
+      "Apollo 10 1/2 Reanimated Houston’s Lost Memories of the ’60s",
+      "https://www.vulture.com/2022/04/richard-linklater-on-the-apollo-10-1-2-animation-process.html"
     ]
   ],
   [
