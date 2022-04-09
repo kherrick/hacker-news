@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-04-09, 09:52:56",
-      "https://news.ycombinator.com/item?id=30966582"
-    ],
-    [
-      "Ask HN: Why is there no Linux distro that “just works” like macOS?",
-      "https://news.ycombinator.com/item?id=30966582"
-    ]
-  ],
-  [
-    [
       "2022-04-09, 09:04:28",
       "https://news.ycombinator.com/item?id=30966378"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2022-04-08, 05:26:02",
-      "https://news.ycombinator.com/item?id=30953607"
+      "2022-04-08, 15:59:33",
+      "https://news.ycombinator.com/item?id=30958870"
     ],
     [
-      "Secret Colors: A Gentle Introduction to Cryptography",
-      "https://roundrobin.pub/pages/secret-colors-announcement"
+      "Twitter accounts dropping “.eth” from usernames",
+      "https://gist.github.com/travisbrown/ddea062402cc22cc2aba78bff4d9c95f"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Provisioning and Automating High Availability Postgres",
       "https://www.youtube.com/watch?v=KHPo9G6NCq4"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 22:43:52",
+      "https://news.ycombinator.com/item?id=30951215"
+    ],
+    [
+      "Pwning the Bcm61650",
+      "https://blog.xilokar.info/pwning-the-bcm61650.html"
     ]
   ],
   [
