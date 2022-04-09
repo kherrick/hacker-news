@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-09, 05:32:03",
+      "https://news.ycombinator.com/item?id=30965485"
+    ],
+    [
+      "Ask HN: Why Blog at All?",
+      "https://news.ycombinator.com/item?id=30965485"
+    ]
+  ],
+  [
+    [
       "2022-04-09, 05:06:30",
       "https://news.ycombinator.com/item?id=30965402"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-04-08, 18:19:14",
-      "https://news.ycombinator.com/item?id=30960668"
-    ],
-    [
-      "Astronomers just discovered the farthest object in the known universe",
-      "https://www.livescience.com/farthest-astronomical-object-ever-seen"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 18:16:06",
       "https://news.ycombinator.com/item?id=30960632"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-04-07, 09:54:14",
+      "https://news.ycombinator.com/item?id=30942555"
+    ],
+    [
+      "Reliably Send an HTTP Request as a User Leaves a Page",
+      "https://css-tricks.com/send-an-http-request-on-page-exit/"
+    ]
+  ],
+  [
+    [
       "2022-04-07, 09:44:37",
       "https://news.ycombinator.com/item?id=30942489"
     ],
@@ -287,16 +297,6 @@
     [
       "rand() may call malloc()",
       "https://www.thingsquare.com/blog/articles/rand-may-call-malloc/"
-    ]
-  ],
-  [
-    [
-      "2022-04-06, 01:52:04",
-      "https://news.ycombinator.com/item?id=30927557"
-    ],
-    [
-      "Representation and Uncertainty",
-      "https://desystemize.substack.com/p/representation-and-uncertainty"
     ]
   ]
 ]
