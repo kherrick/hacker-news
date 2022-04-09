@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-04-08, 18:16:06",
-      "https://news.ycombinator.com/item?id=30960632"
-    ],
-    [
-      "Vancouver Zoning Map",
-      "https://maps.nicholsonroad.com/zones/"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 18:09:06",
       "https://news.ycombinator.com/item?id=30960544"
     ],
@@ -297,6 +287,16 @@
     [
       "rand() may call malloc()",
       "https://www.thingsquare.com/blog/articles/rand-may-call-malloc/"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 08:35:20",
+      "https://news.ycombinator.com/item?id=30942074"
+    ],
+    [
+      "Show HN: Glicol - A Graph-Oriented Live Coding Language/DSP Lib Written in Rust",
+      "https://github.com/chaosprint/glicol"
     ]
   ]
 ]
