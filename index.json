@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-09, 16:07:35",
+      "https://news.ycombinator.com/item?id=30969234"
+    ],
+    [
+      "Visi On by VisiCorp – The obscure first full GUI for the IBM PC",
+      "http://toastytech.com/guis/vision.html"
+    ]
+  ],
+  [
+    [
       "2022-04-09, 15:13:49",
       "https://news.ycombinator.com/item?id=30968721"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2022-04-09, 14:49:03",
-      "https://news.ycombinator.com/item?id=30968495"
+      "2022-04-09, 15:02:18",
+      "https://news.ycombinator.com/item?id=30968614"
     ],
     [
-      "Identifying fraudulent PPP loans through network analysis",
-      "https://www.tylerjamesjones.com/ppp_network/"
+      "Proposed bill would shorten California workweek to 32 hours",
+      "https://www.fisherphillips.com/news-insights/california-employees-4-day-workweek.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The ordering operators",
       "http://blogs.perl.org/users/aristotle/2022/04/ordering-ops.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-07, 09:44:37",
-      "https://news.ycombinator.com/item?id=30942489"
-    ],
-    [
-      "Nsh, a unified router style CLI for OpenBSD",
-      "https://github.com/yellowman/nsh"
     ]
   ],
   [
