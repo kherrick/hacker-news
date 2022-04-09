@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-09, 03:06:04",
+      "https://news.ycombinator.com/item?id=30964949"
+    ],
+    [
+      "Deciphering an English Exorcism Manual",
+      "https://blogs.bl.uk/digitisedmanuscripts/2022/03/exorcism-manual.html"
+    ]
+  ],
+  [
+    [
       "2022-04-08, 23:26:19",
       "https://news.ycombinator.com/item?id=30963723"
     ],
@@ -17,16 +27,6 @@
     [
       "Bill Jolitz has died",
       "https://minnie.tuhs.org/pipermail/tuhs/2022-April/025643.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-08, 23:08:39",
-      "https://news.ycombinator.com/item?id=30963600"
-    ],
-    [
-      "NPM package event-source-polyfill compromised by political activists",
-      "https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-04-08, 15:43:31",
-      "https://news.ycombinator.com/item?id=30958653"
-    ],
-    [
-      "Turborepo 1.2: High-performance build system for monorepos",
-      "https://turborepo.org/blog/turbo-1-2-0"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 15:06:01",
       "https://news.ycombinator.com/item?id=30957966"
     ],
@@ -297,6 +287,16 @@
     [
       "A Botanical Mystery Solved, After 146 Years",
       "https://www.atlasobscura.com/articles/marianne-north-chassalia-northiana"
+    ]
+  ],
+  [
+    [
+      "2022-04-06, 01:52:04",
+      "https://news.ycombinator.com/item?id=30927557"
+    ],
+    [
+      "Representation and Uncertainty",
+      "https://desystemize.substack.com/p/representation-and-uncertainty"
     ]
   ]
 ]
