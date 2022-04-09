@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-04-08, 15:43:31",
-      "https://news.ycombinator.com/item?id=30958653"
-    ],
-    [
-      "Turborepo 1.2: High-performance build system for monorepos",
-      "https://turborepo.org/blog/turbo-1-2-0"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 15:06:01",
       "https://news.ycombinator.com/item?id=30957966"
     ],
@@ -277,6 +267,16 @@
     [
       "Money Stuff is Linear-ish",
       "https://danielstone.substack.com/p/money-stuff-is-linear-ish"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 08:47:37",
+      "https://news.ycombinator.com/item?id=30942146"
+    ],
+    [
+      "rand() may call malloc()",
+      "https://www.thingsquare.com/blog/articles/rand-may-call-malloc/"
     ]
   ],
   [
