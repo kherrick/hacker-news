@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-09, 08:51:56",
+      "https://news.ycombinator.com/item?id=30966323"
+    ],
+    [
+      "Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?",
+      "https://www.fatherly.com/play/frank-oz-says-sesame-street-has-gone-downhill-is-he-right/"
+    ]
+  ],
+  [
+    [
       "2022-04-09, 08:05:34",
       "https://news.ycombinator.com/item?id=30966099"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-04-08, 18:06:18",
-      "https://news.ycombinator.com/item?id=30960509"
-    ],
-    [
-      "Show HN: Zaplib – Speed up your webapp with Rust+Wasm",
-      "https://zaplib.com/docs/"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 18:03:35",
       "https://news.ycombinator.com/item?id=30960470"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-04-08, 15:59:33",
-      "https://news.ycombinator.com/item?id=30958870"
-    ],
-    [
-      "Twitter accounts dropping “.eth” from usernames",
-      "https://gist.github.com/travisbrown/ddea062402cc22cc2aba78bff4d9c95f"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 05:26:02",
       "https://news.ycombinator.com/item?id=30953607"
     ],
     [
       "Secret Colors: A Gentle Introduction to Cryptography",
       "https://roundrobin.pub/pages/secret-colors-announcement"
+    ]
+  ],
+  [
+    [
+      "2022-04-08, 04:43:19",
+      "https://news.ycombinator.com/item?id=30953394"
+    ],
+    [
+      "Provisioning and Automating High Availability Postgres",
+      "https://www.youtube.com/watch?v=KHPo9G6NCq4"
     ]
   ],
   [
