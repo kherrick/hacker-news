@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-09, 12:24:01",
+      "https://news.ycombinator.com/item?id=30967427"
+    ],
+    [
+      "Patina and Intimacy",
+      "https://simonsarris.substack.com/p/patina-and-intimacy"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 12:15:25",
+      "https://news.ycombinator.com/item?id=30967375"
+    ],
+    [
+      "MIT graduate students vote to unionize",
+      "https://thetech.com/2022/04/08/grad-students-unionize"
+    ]
+  ],
+  [
+    [
       "2022-04-09, 12:00:37",
       "https://news.ycombinator.com/item?id=30967273"
     ],
@@ -17,16 +37,6 @@
     [
       "An Account of the Shanghai Lockdown",
       "https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 08:51:56",
-      "https://news.ycombinator.com/item?id=30966323"
-    ],
-    [
-      "Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?",
-      "https://www.fatherly.com/play/frank-oz-says-sesame-street-has-gone-downhill-is-he-right/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-04-08, 15:59:33",
-      "https://news.ycombinator.com/item?id=30958870"
-    ],
-    [
-      "Twitter accounts dropping “.eth” from usernames",
-      "https://gist.github.com/travisbrown/ddea062402cc22cc2aba78bff4d9c95f"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 10:27:10",
       "https://news.ycombinator.com/item?id=30955318"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-04-07, 09:57:10",
-      "https://news.ycombinator.com/item?id=30942574"
-    ],
-    [
-      "Money Stuff is Linear-ish",
-      "https://danielstone.substack.com/p/money-stuff-is-linear-ish"
-    ]
-  ],
-  [
-    [
       "2022-04-07, 09:54:14",
       "https://news.ycombinator.com/item?id=30942555"
     ],
     [
       "Reliably Send an HTTP Request as a User Leaves a Page",
       "https://css-tricks.com/send-an-http-request-on-page-exit/"
+    ]
+  ],
+  [
+    [
+      "2022-04-07, 09:52:49",
+      "https://news.ycombinator.com/item?id=30942540"
+    ],
+    [
+      "The Ordering Operators",
+      "http://blogs.perl.org/users/aristotle/2022/04/ordering-ops.html"
     ]
   ],
   [
