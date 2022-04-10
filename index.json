@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-10, 07:01:01",
+      "https://news.ycombinator.com/item?id=30975005"
+    ],
+    [
+      "Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)",
+      "https://deepnote.com/join-us"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 06:03:18",
       "https://news.ycombinator.com/item?id=30974775"
     ],
@@ -111,22 +121,22 @@
   ],
   [
     [
-      "2022-04-09, 21:01:04",
-      "https://news.ycombinator.com/item?id=30972014"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Head of Infra and Platform and a VP of Engineering",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
       "2022-04-09, 20:27:33",
       "https://news.ycombinator.com/item?id=30971704"
     ],
     [
       "m.u.g.e.n. 2D Fighting Game Engine",
       "http://www.elecbyte.com/mugendocs-11b1/mugen.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 20:18:06",
+      "https://news.ycombinator.com/item?id=30971626"
+    ],
+    [
+      "Ham Biscuit on (2021)",
+      "https://ericwbailey.design/writing/ham-biscuit-on/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Bore: A simple CLI tool for making tunnels to localhost",
       "https://github.com/ekzhang/bore"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 18:24:35",
-      "https://news.ycombinator.com/item?id=30970599"
-    ],
-    [
-      "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
-      "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-04-08, 10:02:52",
-      "https://news.ycombinator.com/item?id=30955203"
-    ],
-    [
-      "How to control the metacognition process of programming?",
-      "https://lambdaisland.com/blog/2022-02-17-the-fg-command"
-    ]
-  ],
-  [
-    [
       "2022-04-08, 09:29:16",
       "https://news.ycombinator.com/item?id=30955002"
     ],
@@ -297,6 +287,16 @@
     [
       "What happens in your dog’s brain when you speak",
       "https://www.science.org/content/article/here-s-what-happens-your-dog-s-brain-when-you-speak"
+    ]
+  ],
+  [
+    [
+      "2022-04-08, 07:08:47",
+      "https://news.ycombinator.com/item?id=30954165"
+    ],
+    [
+      "Killing the Command message: should we use Events or Documents? (2007)",
+      "http://vanguardea.com/killing-the-command-message-should-we-use-events-or-documents/"
     ]
   ]
 ]
