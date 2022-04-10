@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-04-10, 12:59:29",
+      "https://news.ycombinator.com/item?id=30976594"
+    ],
+    [
+      "Ask HN: What are the next internet infra problems?",
+      "https://news.ycombinator.com/item?id=30976594"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 12:10:04",
       "https://news.ycombinator.com/item?id=30976337"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2022-04-10, 05:00:01",
+      "https://news.ycombinator.com/item?id=30974585"
+    ],
+    [
+      "Ask HN: Why do password managers have TOTP?",
+      "https://news.ycombinator.com/item?id=30974585"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 04:46:12",
       "https://news.ycombinator.com/item?id=30974544"
     ],
@@ -151,72 +171,12 @@
   ],
   [
     [
-      "2022-04-09, 21:47:23",
-      "https://news.ycombinator.com/item?id=30972389"
-    ],
-    [
-      "A basic introduction to NumPy's einsum",
-      "https://ajcr.net/Basic-guide-to-einsum/"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 21:08:37",
-      "https://news.ycombinator.com/item?id=30972073"
-    ],
-    [
-      "Quaise Energy – Unlocking the true power of clean geothermal energy",
-      "https://www.quaise.energy"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 20:27:33",
-      "https://news.ycombinator.com/item?id=30971704"
-    ],
-    [
-      "m.u.g.e.n. 2D Fighting Game Engine",
-      "http://www.elecbyte.com/mugendocs-11b1/mugen.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 20:08:19",
-      "https://news.ycombinator.com/item?id=30971542"
-    ],
-    [
-      "Turn Photos into 3D Models",
-      "https://www.r3dphoto.app/"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 19:38:43",
-      "https://news.ycombinator.com/item?id=30971282"
-    ],
-    [
-      "Starting Your Computer Music Journey with Clojure and Overtone in Emacs",
-      "https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/"
-    ]
-  ],
-  [
-    [
       "2022-04-09, 19:00:34",
       "https://news.ycombinator.com/item?id=30970934"
     ],
     [
       "Heaps: A free, open-source and cross-platform game engine",
       "https://heaps.io/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 18:38:49",
-      "https://news.ycombinator.com/item?id=30970720"
-    ],
-    [
-      "Bore: A simple CLI tool for making tunnels to localhost",
-      "https://github.com/ekzhang/bore"
     ]
   ],
   [
@@ -237,6 +197,26 @@
     [
       "3D Software Rendering Technology of 1998's Thief: The Dark Project (2011)",
       "https://nothings.org/gamedev/thief_rendering.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 05:23:19",
+      "https://news.ycombinator.com/item?id=30965459"
+    ],
+    [
+      "The Unravelling of an Expert on Serial Killers",
+      "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 04:52:09",
+      "https://news.ycombinator.com/item?id=30965352"
+    ],
+    [
+      "Persepolis of ancient Persia rendered in WebGL",
+      "https://persepolis.getty.edu"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2022-04-08, 11:44:11",
+      "https://news.ycombinator.com/item?id=30955745"
+    ],
+    [
+      "Developer's confession: Why Philae crashed (2018)",
+      "https://publications.computer.org/computer-magazine/2018/11/15/philae-rosetta-crash-landing-churyumov-gerasimenko-comet-six-lessons/"
+    ]
+  ],
+  [
+    [
       "2022-04-08, 11:13:58",
       "https://news.ycombinator.com/item?id=30955568"
     ],
@@ -297,6 +287,16 @@
     [
       "What happens in your dog’s brain when you speak",
       "https://www.science.org/content/article/here-s-what-happens-your-dog-s-brain-when-you-speak"
+    ]
+  ],
+  [
+    [
+      "2022-04-08, 07:08:47",
+      "https://news.ycombinator.com/item?id=30954165"
+    ],
+    [
+      "Killing the Command message: should we use Events or Documents? (2007)",
+      "http://vanguardea.com/killing-the-command-message-should-we-use-events-or-documents/"
     ]
   ]
 ]
