@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-04-10, 05:00:01",
-      "https://news.ycombinator.com/item?id=30974585"
-    ],
-    [
-      "Ask HN: Why do password managers have TOTP?",
-      "https://news.ycombinator.com/item?id=30974585"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 04:46:12",
       "https://news.ycombinator.com/item?id=30974544"
     ],
@@ -167,6 +157,16 @@
     [
       "Bore: A simple CLI tool for making tunnels to localhost",
       "https://github.com/ekzhang/bore"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 18:24:35",
+      "https://news.ycombinator.com/item?id=30970599"
+    ],
+    [
+      "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
+      "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html"
     ]
   ],
   [
