@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-04-10, 17:21:01",
-      "https://news.ycombinator.com/item?id=30979295"
+      "2022-04-10, 17:36:49",
+      "https://news.ycombinator.com/item?id=30979484"
     ],
     [
-      "HN Replies – Email Notifications for Hacker News Comment Replies",
-      "https://hnreplies.com/"
+      "What Is Rust's Unsafe?",
+      "https://nora.codes/post/what-is-rusts-unsafe/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=30979225"
     ],
     [
-      "ThorCon: Powering up our world with cheap, reliable, CO2-free electric power",
+      "ThorCon: Cheap, reliable, CO2-free electric power",
       "https://thorconpower.com/economics/"
     ]
   ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-04-10, 16:05:26",
-      "https://news.ycombinator.com/item?id=30978393"
-    ],
-    [
-      "Chinese inmates had hearts or lungs removed during executions, study says",
-      "https://www.businessinsider.co.za/death-row-inmates-china-hearts-lungs-before-declared-dead-2022-4"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 15:41:46",
       "https://news.ycombinator.com/item?id=30978074"
     ],
@@ -121,11 +111,21 @@
   ],
   [
     [
+      "2022-04-10, 15:29:59",
+      "https://news.ycombinator.com/item?id=30977920"
+    ],
+    [
+      "New Chinese GPU Maker Moore Threads Unveils the MTT S60 GPU",
+      "https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 15:27:07",
       "https://news.ycombinator.com/item?id=30977883"
     ],
     [
-      "Tell HN: Startups Harvesting GitHub Commit Emails for Marketing Purposes",
+      "Tell HN: Startups harvesting GitHub commit emails for marketing purposes",
       "https://news.ycombinator.com/item?id=30977883"
     ]
   ],
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2022-04-10, 14:20:32",
-      "https://news.ycombinator.com/item?id=30977112"
+      "2022-04-10, 13:37:00",
+      "https://news.ycombinator.com/item?id=30976831"
     ],
     [
-      "Ask HN: How do you keep up with replies to comment threads on HN?",
-      "https://news.ycombinator.com/item?id=30977112"
+      "Amtrak is streaming an empty railroad on Twitch",
+      "https://www.vice.com/en/article/k7w9n9/amtrak-is-streaming-an-empty-railroad-on-twitch-to-beef-with-freight-rail-companies"
     ]
   ],
   [
     [
-      "2022-04-10, 13:02:37",
-      "https://news.ycombinator.com/item?id=30976616"
+      "2022-04-10, 12:59:29",
+      "https://news.ycombinator.com/item?id=30976594"
     ],
     [
-      "Erik Naggum",
-      "https://en.wikiquote.org/wiki/Erik_Naggum"
+      "Ask HN: What are the next internet infra problems?",
+      "https://news.ycombinator.com/item?id=30976594"
     ]
   ],
   [
@@ -195,18 +195,8 @@
       "https://news.ycombinator.com/item?id=30976040"
     ],
     [
-      "PSA: React 18 calls code twice in strict mode to detect unintended side effects",
+      "PSA: React 18 calls code twice in strict dev mode to detect side effects",
       "https://reactjs.org/docs/strict-mode.html#detecting-unexpected-side-effects"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 09:27:03",
-      "https://news.ycombinator.com/item?id=30975586"
-    ],
-    [
-      "Ask HN: What Happened to Evernote?",
-      "https://news.ycombinator.com/item?id=30975586"
     ]
   ],
   [
@@ -227,16 +217,6 @@
     [
       "How Intelligent Are Cats? (2004)",
       "http://messybeast.com/intelligence.htm"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 06:28:57",
-      "https://news.ycombinator.com/item?id=30974880"
-    ],
-    [
-      "Zim – The Zsh configuration framework with blazing speed and modular extensions",
-      "https://zimfw.sh/"
     ]
   ],
   [
@@ -271,22 +251,42 @@
   ],
   [
     [
+      "2022-04-09, 08:08:40",
+      "https://news.ycombinator.com/item?id=30966116"
+    ],
+    [
+      "On the Idea of an Adirondack Mountains National Park",
+      "https://www.adirondackalmanack.com/2021/11/on-the-idea-of-an-adirondack-mountains-national-park.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 06:51:05",
+      "https://news.ycombinator.com/item?id=30965772"
+    ],
+    [
+      "Eero Pro 6E and Eero 6 Review: Fast and Easy",
+      "https://evanmccann.net/blog/2022/4/eero-6-plus-and-eero-pro-6e-review"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 05:57:53",
+      "https://news.ycombinator.com/item?id=30965572"
+    ],
+    [
+      "Why Compilers Don’t Autocorrect “Obvious” Parse Errors",
+      "https://chelseatroy.com/2022/03/11/why-compilers-dont-autocorrect-obvious-parse-errors/"
+    ]
+  ],
+  [
+    [
       "2022-04-09, 04:49:24",
       "https://news.ycombinator.com/item?id=30965343"
     ],
     [
       "My Org Roam Notes Workflow (2021)",
       "https://hugocisneros.com/blog/my-org-roam-notes-workflow/"
-    ]
-  ],
-  [
-    [
-      "2022-04-08, 16:30:55",
-      "https://news.ycombinator.com/item?id=30959215"
-    ],
-    [
-      "Vague Standards Are Trouble",
-      "https://www.os2museum.com/wp/vague-standards-are-trouble/"
     ]
   ],
   [
