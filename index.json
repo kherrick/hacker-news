@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-04-10, 11:03:48",
+      "https://news.ycombinator.com/item?id=30976040"
+    ],
+    [
+      "PSA: React 18 calls code twice in strict mode to detect unintended side effects",
+      "https://reactjs.org/docs/strict-mode.html#detecting-unexpected-side-effects"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 09:27:03",
       "https://news.ycombinator.com/item?id=30975586"
     ],
@@ -247,16 +257,6 @@
     [
       "3D Software Rendering Technology of 1998's Thief: The Dark Project (2011)",
       "https://nothings.org/gamedev/thief_rendering.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 06:51:05",
-      "https://news.ycombinator.com/item?id=30965772"
-    ],
-    [
-      "Eero Pro 6E and Eero 6 Review: Fast and Easy",
-      "https://evanmccann.net/blog/2022/4/eero-6-plus-and-eero-pro-6e-review"
     ]
   ],
   [
