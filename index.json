@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-04-10, 20:47:54",
+      "https://news.ycombinator.com/item?id=30981549"
+    ],
+    [
+      "C72: A port of the earliest C compiler to x86",
+      "https://github.com/vegesm/c72"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 20:19:33",
       "https://news.ycombinator.com/item?id=30981280"
     ],
     [
       "Pinry: A Selfhosted Alternative to Pinterest",
       "https://github.com/pinry/pinry"
+    ]
+  ],
+  [
+    [
+      "2022-04-10, 20:17:03",
+      "https://news.ycombinator.com/item?id=30981254"
+    ],
+    [
+      "Am I too old to become a professional programmer?",
+      "https://ehmatthes.github.io/pcc_2e/finding_employment/age_in_tech/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-04-10, 08:41:23",
-      "https://news.ycombinator.com/item?id=30975378"
-    ],
-    [
-      "How Intelligent Are Cats? (2004)",
-      "http://messybeast.com/intelligence.htm"
-    ]
-  ],
-  [
-    [
       "2022-04-09, 14:53:05",
       "https://news.ycombinator.com/item?id=30968534"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-04-09, 09:46:41",
-      "https://news.ycombinator.com/item?id=30966556"
+      "2022-04-09, 08:35:40",
+      "https://news.ycombinator.com/item?id=30966244"
     ],
     [
-      "Counting Sheets Is More Complex Than It Seems: On Origami Classification Part II",
-      "https://origami.kosmulski.org/blog/2022-04-07-origami-classification-part-ii"
+      "USB receiver for the IBM SK-8807 Infrared-only keyboard",
+      "https://github.com/brandonwu/sk-8807-teensy"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Eero Pro 6E and Eero 6 Review: Fast and Easy",
       "https://evanmccann.net/blog/2022/4/eero-6-plus-and-eero-pro-6e-review"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 05:57:53",
-      "https://news.ycombinator.com/item?id=30965572"
-    ],
-    [
-      "Why Compilers Don’t Autocorrect “Obvious” Parse Errors",
-      "https://chelseatroy.com/2022/03/11/why-compilers-dont-autocorrect-obvious-parse-errors/"
     ]
   ]
 ]
