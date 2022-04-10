@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-10, 20:51:26",
+      "https://news.ycombinator.com/item?id=30981592"
+    ],
+    [
+      "My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing",
+      "https://castel.dev/post/research-workflow/"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 20:19:33",
       "https://news.ycombinator.com/item?id=30981280"
     ],
@@ -287,16 +297,6 @@
     [
       "Why Compilers Don’t Autocorrect “Obvious” Parse Errors",
       "https://chelseatroy.com/2022/03/11/why-compilers-dont-autocorrect-obvious-parse-errors/"
-    ]
-  ],
-  [
-    [
-      "2022-04-08, 09:31:44",
-      "https://news.ycombinator.com/item?id=30955023"
-    ],
-    [
-      "How Swipe Typing Works",
-      "https://www.fleksy.com/blog/how-swipe-typing-works/"
     ]
   ]
 ]
