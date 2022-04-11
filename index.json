@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-04-11, 17:00:29",
+      "https://news.ycombinator.com/item?id=30991676"
+    ],
+    [
+      "Pachyderm Is Hiring SDET&Build/Release Eng to Power the Data-Centric AI Platform",
+      "https://www.pachyderm.com/careers/#positions"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 16:44:26",
       "https://news.ycombinator.com/item?id=30991392"
     ],
     [
       "How FAANG etc. architect their recommendation systems at scale",
       "https://blog.fennel.ai/p/real-world-recommendation-system"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 16:35:00",
+      "https://news.ycombinator.com/item?id=30991235"
+    ],
+    [
+      "Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework",
+      "https://github.com/ern0/howto-wasm-minimal"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More",
       "https://payloadspace.com/qa-peter-beck/"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 14:45:54",
-      "https://news.ycombinator.com/item?id=30989515"
-    ],
-    [
-      "Finland and Sweden set to join NATO as soon as summer",
-      "https://www.thetimes.co.uk/article/finland-sweden-set-to-join-nato-war-ukraine-latest-7m8bn6mf8"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-04-11, 12:00:04",
-      "https://news.ycombinator.com/item?id=30987506"
-    ],
-    [
-      "Basis (YC S21) is hiring our first dev/designer to build Figma for data",
-      "https://www.workatastartup.com/companies/basis-2"
-    ]
-  ],
-  [
-    [
       "2022-04-11, 11:14:07",
       "https://news.ycombinator.com/item?id=30987122"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-04-11, 02:07:53",
-      "https://news.ycombinator.com/item?id=30983770"
-    ],
-    [
-      "Conflict-Free Replicated Data Types (CRDT)",
-      "https://crdt.tech/"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 11:36:46",
       "https://news.ycombinator.com/item?id=30976200"
     ],
@@ -297,6 +287,16 @@
     [
       "The Power of Narrative",
       "https://nautil.us/the-power-of-narrative-15975/"
+    ]
+  ],
+  [
+    [
+      "2022-04-08, 11:57:32",
+      "https://news.ycombinator.com/item?id=30955838"
+    ],
+    [
+      "Show HN: A poem inside HTTP response headers",
+      "https://ja.cob.land/http2-204-a-poem"
     ]
   ]
 ]
