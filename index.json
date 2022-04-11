@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-11, 21:32:43",
+      "https://news.ycombinator.com/item?id=30995382"
+    ],
+    [
+      "Why we’ve canceled flights, and what we are doing to get back on track",
+      "https://news.alaskaair.com/alaska-airlines/operations/spring-operation-update/"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 21:07:05",
       "https://news.ycombinator.com/item?id=30995051"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=30995029"
     ],
     [
-      "Get Familiar with Go Workspaces",
+      "Get familiar with workspaces",
       "https://go.dev/blog/get-familiar-with-workspaces"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Europe is investing heavily in trains",
       "https://www.nytimes.com/2022/04/05/travel/europe-trains.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 19:35:50",
-      "https://news.ycombinator.com/item?id=30993653"
-    ],
-    [
-      "How to Pursue a Career in Brain-Based AI",
-      "https://numenta.com/blog/2022/04/11/how-to-pursue-career-in-brain-based-ai"
     ]
   ],
   [
@@ -111,12 +111,22 @@
   ],
   [
     [
-      "2022-04-11, 17:56:24",
-      "https://news.ycombinator.com/item?id=30992409"
+      "2022-04-11, 17:48:52",
+      "https://news.ycombinator.com/item?id=30992322"
     ],
     [
-      "Is my advice too mercenary?",
-      "https://jacobian.org/2022/apr/11/mercenary/"
+      "Why the past 10 years of American life have been uniquely stupid",
+      "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 17:11:22",
+      "https://news.ycombinator.com/item?id=30991834"
+    ],
+    [
+      "-h –Help -help Help –? –?",
+      "https://blog.craftyguy.net/cmdline-help/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-04-11, 15:11:42",
-      "https://news.ycombinator.com/item?id=30989905"
-    ],
-    [
-      "A Convo with Rocket Lab’s Peter Beck on Reusability, Launch Demand, and More",
-      "https://payloadspace.com/qa-peter-beck/"
-    ]
-  ],
-  [
-    [
       "2022-04-11, 14:35:54",
       "https://news.ycombinator.com/item?id=30989344"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-04-11, 13:29:43",
+      "https://news.ycombinator.com/item?id=30988390"
+    ],
+    [
+      "I liked the idea of carbon offsets until I tried to explain it",
+      "https://climateer.substack.com/p/avoided-emissions"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 13:07:57",
       "https://news.ycombinator.com/item?id=30988120"
     ],
@@ -257,16 +267,6 @@
     [
       "DeepMind’s New Language Model, Chinchilla",
       "https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 06:55:28",
-      "https://news.ycombinator.com/item?id=30985514"
-    ],
-    [
-      "I must announce the immediate end of service of SSLPing",
-      "https://sslping.com"
     ]
   ],
   [
