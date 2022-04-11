@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-04-10, 22:54:39",
-      "https://news.ycombinator.com/item?id=30982564"
+      "2022-04-11, 24:38:04",
+      "https://news.ycombinator.com/item?id=30983274"
     ],
     [
-      "Watermarked ReRAM: A Technique to Prevent Counterfeit Memory Chips",
-      "https://arxiv.org/abs/2204.02104"
+      "Noise Pollution Hurts the Heart",
+      "https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 24:37:24",
+      "https://news.ycombinator.com/item?id=30983269"
+    ],
+    [
+      "The $11BN Tunnel Connecting Scandinavia to the Mediterranean",
+      "https://www.youtube.com/watch?v=30foJiPUrBA"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 24:33:57",
+      "https://news.ycombinator.com/item?id=30983245"
+    ],
+    [
+      "What I learned from making a DNS client in Rust",
+      "https://blog.adamchalmers.com/making-a-dns-client/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 24:00:25",
+      "https://news.ycombinator.com/item?id=30983024"
+    ],
+    [
+      "Iced – A cross-platform GUI library for Rust, inspired by Elm",
+      "https://github.com/iced-rs/iced"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 01:57:54",
+      "https://news.ycombinator.com/item?id=30983714"
+    ],
+    [
+      "Van life (cancer edition) finale",
+      "https://imgur.com/gallery/prUy1Kt"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 01:23:58",
+      "https://news.ycombinator.com/item?id=30983517"
+    ],
+    [
+      "Ask HN: What hyper-focused industry newsletters do you enjoy?",
+      "https://news.ycombinator.com/item?id=30983517"
     ]
   ],
   [
@@ -141,6 +191,16 @@
   ],
   [
     [
+      "2022-04-10, 17:15:31",
+      "https://news.ycombinator.com/item?id=30979225"
+    ],
+    [
+      "ThorCon: Cheap, reliable, CO2-free electric power",
+      "https://thorconpower.com/economics/"
+    ]
+  ],
+  [
+    [
       "2022-04-10, 17:04:37",
       "https://news.ycombinator.com/item?id=30979085"
     ],
@@ -157,16 +217,6 @@
     [
       "Zeit Medical (YC S21) is hiring a Senior Software Engineer to improve stroke care",
       "https://www.ycombinator.com/companies/zeit-medical/jobs/A0DoXtp-sr-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 16:58:47",
-      "https://news.ycombinator.com/item?id=30979009"
-    ],
-    [
-      "Estimating PaLM's Training Cost",
-      "https://blog.heim.xyz/palm-training-cost/"
     ]
   ],
   [
@@ -211,52 +261,12 @@
   ],
   [
     [
-      "2022-04-10, 14:27:23",
-      "https://news.ycombinator.com/item?id=30977164"
-    ],
-    [
-      "Restored F80 compiler code for CP/M",
-      "https://github.com/nikitinprior/dF80"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 14:25:02",
       "https://news.ycombinator.com/item?id=30977147"
     ],
     [
       "Heresy",
       "http://paulgraham.com/heresy.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 12:59:29",
-      "https://news.ycombinator.com/item?id=30976594"
-    ],
-    [
-      "Ask HN: What are the next internet infra problems?",
-      "https://news.ycombinator.com/item?id=30976594"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 12:10:04",
-      "https://news.ycombinator.com/item?id=30976337"
-    ],
-    [
-      "∑ Xah Code",
-      "http://xahlee.info/"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 11:03:48",
-      "https://news.ycombinator.com/item?id=30976040"
-    ],
-    [
-      "PSA: React 18 calls code twice in strict dev mode to detect side effects",
-      "https://reactjs.org/docs/strict-mode.html#detecting-unexpected-side-effects"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "USB receiver for the IBM SK-8807 Infrared-only keyboard",
       "https://github.com/brandonwu/sk-8807-teensy"
-    ]
-  ],
-  [
-    [
-      "2022-04-09, 08:08:40",
-      "https://news.ycombinator.com/item?id=30966116"
-    ],
-    [
-      "On the Idea of an Adirondack Mountains National Park (2021)",
-      "https://www.adirondackalmanack.com/2021/11/on-the-idea-of-an-adirondack-mountains-national-park.html"
     ]
   ],
   [
