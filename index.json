@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2022-04-11, 16:44:26",
+      "https://news.ycombinator.com/item?id=30991392"
+    ],
+    [
+      "How FAANG etc. architect their recommendation systems at scale",
+      "https://blog.fennel.ai/p/real-world-recommendation-system"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 16:14:08",
       "https://news.ycombinator.com/item?id=30990874"
     ],
     [
       "Elementary Audio: a modern platform for writing high performance audio software",
       "https://www.elementary.audio/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 16:03:19",
+      "https://news.ycombinator.com/item?id=30990697"
+    ],
+    [
+      "Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks",
+      "https://twitter.com/kjartanmuller/status/1513462616030683138"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "How and why Daily is using Rust for our WebRTC APIs",
       "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 15:34:26",
+      "https://news.ycombinator.com/item?id=30990224"
+    ],
+    [
+      "One of the most popular activities in non-industrial societies: doing nothing",
+      "https://twitter.com/mnvrsngh/status/1510978995269029888"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Researchers home in on possible “day zero” for Antikythera mechanism",
       "https://arstechnica.com/science/2022/04/researchers-home-in-on-possible-day-zero-for-antikythera-mechanism/"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 14:16:08",
-      "https://news.ycombinator.com/item?id=30989034"
-    ],
-    [
-      "Taking Pictures the Hard Way",
-      "https://blog.brixit.nl/getting-into-analog-photography/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-04-11, 09:05:31",
-      "https://news.ycombinator.com/item?id=30986329"
-    ],
-    [
-      "Human genes renamed to stop Microsoft Excel from misreading them as dates (2020)",
-      "https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates"
-    ]
-  ],
-  [
-    [
       "2022-04-11, 07:48:27",
       "https://news.ycombinator.com/item?id=30985843"
     ],
@@ -267,16 +277,6 @@
     [
       "Conflict-Free Replicated Data Types (CRDT)",
       "https://crdt.tech/"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 01:57:54",
-      "https://news.ycombinator.com/item?id=30983714"
-    ],
-    [
-      "Van life (cancer edition) finale",
-      "https://imgur.com/gallery/prUy1Kt"
     ]
   ],
   [
