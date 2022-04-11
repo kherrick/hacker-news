@@ -21,12 +21,52 @@
   ],
   [
     [
+      "2022-04-11, 12:57:26",
+      "https://news.ycombinator.com/item?id=30988034"
+    ],
+    [
+      "Node.js packages don't deserve your trust",
+      "https://josephg.com/blog/node-sandbox/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 12:41:08",
+      "https://news.ycombinator.com/item?id=30987885"
+    ],
+    [
+      "DeepMind’s New Language Model,Chinchilla(70B Parameters),Which Outperforms GPT-3",
+      "https://www.marktechpost.com/2022/04/09/check-out-this-deepminds-new-language-model-chinchilla-70b-parameters-which-significantly-outperforms-gopher-280b-and-gpt-3-175b-on-a-large-range-of-downstream-evaluation-tasks/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 12:28:15",
+      "https://news.ycombinator.com/item?id=30987770"
+    ],
+    [
+      "Ask HN: Editing remote code locally: Best practices?",
+      "https://news.ycombinator.com/item?id=30987770"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 12:00:04",
       "https://news.ycombinator.com/item?id=30987506"
     ],
     [
       "Basis (YC S21) is hiring our first dev/designer to build Figma for data",
       "https://www.workatastartup.com/companies/basis-2"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 11:57:26",
+      "https://news.ycombinator.com/item?id=30987472"
+    ],
+    [
+      "An Open Letter from the CEO of Puppet: Puppet and Perforce",
+      "https://puppet.com/blog/an-open-letter-from-the-ceo-of-puppet//"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Senior EU officials were targeted with Israeli spyware",
       "https://www.reuters.com/technology/exclusive-senior-eu-officials-were-targeted-with-israeli-spyware-sources-2022-04-11/"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 11:16:34",
-      "https://news.ycombinator.com/item?id=30987140"
-    ],
-    [
-      "Killing Robots and Just War Theory",
-      "https://oleg.nu/bkGqcAmKdfS3e2?repost"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-04-11, 03:59:53",
-      "https://news.ycombinator.com/item?id=30984499"
-    ],
-    [
-      "Zugzwang in Chess, Math and Pizzas",
-      "https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/"
-    ]
-  ],
-  [
-    [
       "2022-04-11, 03:18:42",
       "https://news.ycombinator.com/item?id=30984215"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-04-10, 22:08:18",
-      "https://news.ycombinator.com/item?id=30982211"
-    ],
-    [
-      "Internet Mail 2000",
-      "https://cr.yp.to/im2000.html"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 20:51:26",
       "https://news.ycombinator.com/item?id=30981592"
     ],
     [
       "My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing",
       "https://castel.dev/post/research-workflow/"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 20:19:33",
-      "https://news.ycombinator.com/item?id=30981280"
-    ],
-    [
-      "Pinry: A Selfhosted Alternative to Pinterest",
-      "https://github.com/pinry/pinry"
     ]
   ],
   [
