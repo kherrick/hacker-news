@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-04-10, 16:58:19",
-      "https://news.ycombinator.com/item?id=30979002"
-    ],
-    [
-      "Locutus: A platform for building decentralized apps, from the creator of Freenet",
-      "https://github.com/freenet/locutus"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 16:51:52",
       "https://news.ycombinator.com/item?id=30978927"
     ],
@@ -297,6 +287,16 @@
     [
       "Wanderwort",
       "https://en.wikipedia.org/wiki/Wanderwort"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 08:35:40",
+      "https://news.ycombinator.com/item?id=30966244"
+    ],
+    [
+      "USB receiver for the IBM SK-8807 Infrared-only keyboard",
+      "https://github.com/brandonwu/sk-8807-teensy"
     ]
   ]
 ]
