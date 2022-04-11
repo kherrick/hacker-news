@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=30986732"
     ],
     [
-      "Atlassian successfully restores just over 1 out of 3 affected customers data",
+      "Incident Report for Confluence",
       "https://confluence.status.atlassian.com/incidents/hf1xxft08nj5"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-04-11, 03:59:53",
+      "https://news.ycombinator.com/item?id=30984499"
+    ],
+    [
+      "Zugzwang in Chess, Math and Pizzas",
+      "https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 03:18:42",
       "https://news.ycombinator.com/item?id=30984215"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2022-04-10, 20:47:54",
-      "https://news.ycombinator.com/item?id=30981549"
+      "2022-04-10, 20:19:33",
+      "https://news.ycombinator.com/item?id=30981280"
     ],
     [
-      "C72: A port of the earliest C compiler to x86 (2021)",
-      "https://github.com/vegesm/c72"
+      "Pinry: A Selfhosted Alternative to Pinterest",
+      "https://github.com/pinry/pinry"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Achievement unlocked: rustc segfault",
       "https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 19:39:34",
-      "https://news.ycombinator.com/item?id=30980893"
-    ],
-    [
-      "How did I get so unhappy working in tech?",
-      "https://thebuffgopher.substack.com/p/how-did-i-get-so-unhappy-working"
     ]
   ],
   [
