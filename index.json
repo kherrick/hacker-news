@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-04-12, 20:56:15",
+      "https://news.ycombinator.com/item?id=31008141"
+    ],
+    [
+      "When to Use Generics",
+      "https://go.dev/blog/when-generics"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 20:11:52",
       "https://news.ycombinator.com/item?id=31007694"
     ],
@@ -177,16 +187,6 @@
     [
       "A tiny Docker image to serve static websites",
       "https://lipanski.com/posts/smallest-docker-image-static-website"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 14:20:44",
-      "https://news.ycombinator.com/item?id=31003111"
-    ],
-    [
-      "Show HN: AV1 and WebRTC",
-      "https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1"
     ]
   ],
   [
