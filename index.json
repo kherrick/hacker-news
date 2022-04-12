@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2022-04-12, 06:09:05",
-      "https://news.ycombinator.com/item?id=30999189"
-    ],
-    [
-      "Plastic bottle instead of a gas tank: UAV Orlan 10 Russian tech",
-      "https://mezha.media/en/2022/04/11/plastic-bottle-instead-of-a-gas-tank-uav-orlan-10-incredible-russian-technologies/"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 05:41:08",
       "https://news.ycombinator.com/item?id=30999008"
     ],
     [
       "Privacy-Respecting Software",
       "https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 04:32:37",
+      "https://news.ycombinator.com/item?id=30998651"
+    ],
+    [
+      "Implementation of DALL-E 2 in PyTorch",
+      "https://github.com/lucidrains/DALLE2-pytorch"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-04-11, 14:35:54",
-      "https://news.ycombinator.com/item?id=30989344"
-    ],
-    [
-      "Etsy Strike",
-      "https://etsystrike.org/"
-    ]
-  ],
-  [
-    [
       "2022-04-10, 10:24:01",
       "https://news.ycombinator.com/item?id=30975849"
     ],
@@ -297,6 +287,16 @@
     [
       "The Evolution of Indoor Climate",
       "https://constructionphysics.substack.com/p/the-evolution-of-indoor-climate-part"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 05:51:08",
+      "https://news.ycombinator.com/item?id=30965550"
+    ],
+    [
+      "Xor Swap Trick",
+      "http://cottonvibes.blogspot.com/2010/07/xor-swap-trick-and-addsub-swap-trick.html"
     ]
   ]
 ]
