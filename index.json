@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-12, 06:29:35",
+      "https://news.ycombinator.com/item?id=30999322"
+    ],
+    [
+      "Hexagonal Architecture and Domain Driven Design",
+      "https://towardsdev.com/hexagonal-architecture-and-domain-driven-design-bc2525dbc05f"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 05:41:08",
       "https://news.ycombinator.com/item?id=30999008"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=30997735"
     ],
     [
-      "Google announced its free ACME server",
+      "Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)",
       "https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api"
     ]
   ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2022-04-11, 16:35:00",
-      "https://news.ycombinator.com/item?id=30991235"
-    ],
-    [
-      "Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework",
-      "https://github.com/ern0/howto-wasm-minimal"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 16:14:08",
-      "https://news.ycombinator.com/item?id=30990874"
-    ],
-    [
-      "Elementary Audio: a modern platform for writing high performance audio software",
-      "https://www.elementary.audio/"
-    ]
-  ],
-  [
-    [
       "2022-04-11, 15:57:00",
       "https://news.ycombinator.com/item?id=30990575"
     ],
     [
       "Weightless cats – Do space cats land on their feet? (2011) [video]",
       "https://www.youtube.com/watch?v=O9XtK6R1QAk"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 14:35:54",
+      "https://news.ycombinator.com/item?id=30989344"
+    ],
+    [
+      "Etsy Strike",
+      "https://etsystrike.org/"
     ]
   ],
   [
