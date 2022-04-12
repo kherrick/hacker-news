@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-12, 12:01:06",
+      "https://news.ycombinator.com/item?id=31001404"
+    ],
+    [
+      "Ambition (YC W14) Is Hiring a Full Stack Engineer (Tennessee HQ, Remote)",
+      "https://apply.workable.com/ambition/j/D9869311FD/"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 11:31:36",
       "https://news.ycombinator.com/item?id=31001155"
     ],
     [
-      "Ask HN: When Did Tech Stop Being Cool?",
+      "Ask HN: When did tech stop being cool?",
       "https://news.ycombinator.com/item?id=31001155"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 10:48:51",
+      "https://news.ycombinator.com/item?id=31000876"
+    ],
+    [
+      "Qt 6.3 Released",
+      "https://www.qt.io/blog/qt-6.3-released"
     ]
   ],
   [
@@ -67,26 +87,6 @@
     [
       "We decided to move 90% of our workload from the cloud to on-prem infrastructure",
       "https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 08:47:43",
-      "https://news.ycombinator.com/item?id=31000124"
-    ],
-    [
-      "EU is building an $11B tunnel connecting Scandinavia to Italy",
-      "https://www.designboom.com/technology/brenner-base-rail-tunnel-scandinavia-mediterranean-04-11-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 07:00:44",
-      "https://news.ycombinator.com/item?id=30999510"
-    ],
-    [
-      "Our World in Data (YC W19) Is Hiring an Ops Officer",
-      "https://ourworldindata.org/ops-admin-officer"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2022-04-11, 21:07:05",
-      "https://news.ycombinator.com/item?id=30995051"
+      "2022-04-11, 19:15:04",
+      "https://news.ycombinator.com/item?id=30993350"
     ],
     [
-      "The Apple-1's shift-register memory",
-      "https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 21:06:09",
-      "https://news.ycombinator.com/item?id=30995029"
-    ],
-    [
-      "Get familiar with workspaces",
-      "https://go.dev/blog/get-familiar-with-workspaces"
+      "Impressions from a first-time Mac user",
+      "https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The journey of the electronic plastic bottle (2020)",
       "https://www.wired.com/story/the-incredible-journey-of-the-electronic-plastic-bottle/"
+    ]
+  ],
+  [
+    [
+      "2022-04-10, 05:22:54",
+      "https://news.ycombinator.com/item?id=30974668"
+    ],
+    [
+      "William Gaddis: Below Deck on the Ship of Fools",
+      "https://bookbrat.substack.com/p/william-gaddis-below-deck-on-the"
     ]
   ],
   [
