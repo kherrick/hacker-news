@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-04-12, 09:22:42",
-      "https://news.ycombinator.com/item?id=31000355"
+      "2022-04-12, 09:39:19",
+      "https://news.ycombinator.com/item?id=31000450"
     ],
     [
-      "Show HN: I bought a short domain name. What should I do with it?",
-      "https://hb.sbs"
+      "We decided to move 90% of our workload from the cloud to on-prem infrastructure",
+      "https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 08:47:43",
+      "https://news.ycombinator.com/item?id=31000124"
+    ],
+    [
+      "EU is building an $11B tunnel connecting Scandinavia to Italy",
+      "https://www.designboom.com/technology/brenner-base-rail-tunnel-scandinavia-mediterranean-04-11-2022/"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2022-04-11, 17:56:24",
+      "https://news.ycombinator.com/item?id=30992409"
+    ],
+    [
+      "Is my advice too mercenary?",
+      "https://jacobian.org/2022/apr/11/mercenary/"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 17:48:52",
       "https://news.ycombinator.com/item?id=30992322"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-04-11, 16:44:26",
-      "https://news.ycombinator.com/item?id=30991392"
-    ],
-    [
-      "Real World Recommendation System",
-      "https://blog.fennel.ai/p/real-world-recommendation-system"
-    ]
-  ],
-  [
-    [
       "2022-04-11, 14:35:54",
       "https://news.ycombinator.com/item?id=30989344"
     ],
     [
       "Etsy Strike",
       "https://etsystrike.org/"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 06:55:28",
-      "https://news.ycombinator.com/item?id=30985514"
-    ],
-    [
-      "I must announce the immediate end of service of SSLPing",
-      "https://sslping.com"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=30965550"
     ],
     [
-      "Xor Swap Trick (2010)",
+      "Xor swap trick and add/sub swap trick (2010)",
       "http://cottonvibes.blogspot.com/2010/07/xor-swap-trick-and-addsub-swap-trick.html"
     ]
   ]
