@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-04-12, 15:55:43",
+      "https://news.ycombinator.com/item?id=31004363"
+    ],
+    [
+      "Amazon workers at 100 more facilities want to unionize: Amazon Labor Union",
+      "https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 15:27:22",
+      "https://news.ycombinator.com/item?id=31003973"
+    ],
+    [
+      "Mullvad Privacy Companion is now open source",
+      "https://mullvad.net/en/blog/2022/3/22/mullvad-privacy-companion-now-open-source/"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 14:56:05",
       "https://news.ycombinator.com/item?id=31003573"
     ],
     [
       "Covid Smell Loss Linked to Damage in Brain, Study Finds",
       "https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 14:42:46",
+      "https://news.ycombinator.com/item?id=31003395"
+    ],
+    [
+      "A Tiny Docker image to serve static websites",
+      "https://lipanski.com/posts/smallest-docker-image-static-website"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31002179"
     ],
     [
-      "Human Brain Compresses Working Memories into Low-Res ‘Summaries’",
+      "Human brain compresses working memories into low-res ‘summaries’",
       "https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/"
     ]
   ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-04-12, 11:31:36",
-      "https://news.ycombinator.com/item?id=31001155"
-    ],
-    [
-      "Ask HN: When did tech stop being cool?",
-      "https://news.ycombinator.com/item?id=31001155"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 11:21:19",
       "https://news.ycombinator.com/item?id=31001073"
     ],
@@ -147,16 +167,6 @@
     [
       "Qt 6.3",
       "https://www.qt.io/blog/qt-6.3-released"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 10:37:03",
-      "https://news.ycombinator.com/item?id=31000803"
-    ],
-    [
-      "Over 15% of world population has a headache on any given day",
-      "https://english.elpais.com/science-tech/2022-04-12/over-15-of-world-population-has-a-headache-on-any-given-day-new-global-estimate-finds.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Mizu – API traffic viewer for Kubernetes",
       "https://github.com/up9inc/mizu"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 04:59:24",
-      "https://news.ycombinator.com/item?id=30974581"
-    ],
-    [
-      "How the TypeScript Compiler Compiles",
-      "https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles"
     ]
   ]
 ]
