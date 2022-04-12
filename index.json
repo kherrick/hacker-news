@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-12, 17:48:44",
+      "https://news.ycombinator.com/item?id=31006003"
+    ],
+    [
+      "Eden",
+      "https://github.com/facebookexperimental/eden"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 17:32:55",
+      "https://news.ycombinator.com/item?id=31005770"
+    ],
+    [
+      "RaidForums Get Raided, Alleged Admin Arrested",
+      "https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 17:28:33",
+      "https://news.ycombinator.com/item?id=31005708"
+    ],
+    [
+      "Top Mac App Store dev abuses Free with In-App Purchase for bait-and-switch apps",
+      "https://twitter.com/lapcatsoftware/status/1513672378236166149"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 17:06:00",
       "https://news.ycombinator.com/item?id=31005399"
     ],
@@ -97,16 +127,6 @@
     [
       "Mullvad Privacy Companion is now open source",
       "https://mullvad.net/en/blog/2022/3/22/mullvad-privacy-companion-now-open-source/"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 15:10:01",
-      "https://news.ycombinator.com/item?id=31003729"
-    ],
-    [
-      "Big cuts coming for CNN+ after slow start",
-      "https://www.axios.com/cnn-plus-cuts-warner-brothers-discovery-1be0ac3a-6952-4af0-b8e2-03dd6ae0839c.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Differences between Moon’s near and far sides linked to colossal ancient impact",
       "https://www.brown.edu/news/2022-04-08/moonfaces"
-    ]
-  ],
-  [
-    [
-      "2022-04-11, 04:12:04",
-      "https://news.ycombinator.com/item?id=30984577"
-    ],
-    [
-      "Revealing Prints at the British Library",
-      "https://blogs.bl.uk/untoldlives/2022/03/revealing-prints-at-the-british-library.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-10, 12:01:32",
-      "https://news.ycombinator.com/item?id=30976293"
-    ],
-    [
-      "Mizu – API traffic viewer for Kubernetes",
-      "https://github.com/up9inc/mizu"
     ]
   ]
 ]
