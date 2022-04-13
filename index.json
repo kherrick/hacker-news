@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-04-13, 18:14:10",
-      "https://news.ycombinator.com/item?id=31018171"
-    ],
-    [
-      "Frontend Component Architecture",
-      "https://gos.si/blog/frontend-component-architecture/"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 18:00:41",
       "https://news.ycombinator.com/item?id=31017965"
     ],
@@ -47,6 +37,16 @@
     [
       "A Modern Self-Referential Weight Matrix That Learns to Modify Itself",
       "https://arxiv.org/abs/2202.05780"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 16:09:58",
+      "https://news.ycombinator.com/item?id=31016414"
+    ],
+    [
+      "Learning garment manipulation policies toward robot-assisted dressing",
+      "https://www.science.org/doi/10.1126/scirobotics.abm6010"
     ]
   ],
   [
