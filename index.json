@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-13, 08:48:03",
+      "https://news.ycombinator.com/item?id=31012462"
+    ],
+    [
+      "Insider Trading at Coinbase",
+      "https://twitter.com/cobie/status/1513874972552355846"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 08:12:14",
+      "https://news.ycombinator.com/item?id=31012269"
+    ],
+    [
+      "Create hand-drawn GIFs on paper",
+      "https://www.eatmy.art/"
+    ]
+  ],
+  [
+    [
       "2022-04-13, 07:00:28",
       "https://news.ycombinator.com/item?id=31011920"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-04-12, 17:06:00",
-      "https://news.ycombinator.com/item?id=31005399"
-    ],
-    [
-      "Apple introduces new version of iMovie featuring Storyboards and Magic Movie",
-      "https://www.apple.com/newsroom/2022/04/apple-introduces-new-version-of-imovie-featuring-storyboards-and-magic-movie/"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 16:54:12",
       "https://news.ycombinator.com/item?id=31005209"
     ],
@@ -161,42 +171,12 @@
   ],
   [
     [
-      "2022-04-12, 16:34:57",
-      "https://news.ycombinator.com/item?id=31004928"
+      "2022-04-12, 13:11:48",
+      "https://news.ycombinator.com/item?id=31002179"
     ],
     [
-      "The complete guide to protecting your APIs with OAuth2",
-      "https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 16:25:43",
-      "https://news.ycombinator.com/item?id=31004783"
-    ],
-    [
-      "Actuarial Life Table",
-      "https://www.ssa.gov/oact/STATS/table4c6.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 16:02:21",
-      "https://news.ycombinator.com/item?id=31004437"
-    ],
-    [
-      "Are film critics losing sync with audiences?",
-      "https://stephenfollows.com/are-film-critics-becoming-out-of-sync-with-audiences/"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 14:42:46",
-      "https://news.ycombinator.com/item?id=31003395"
-    ],
-    [
-      "A tiny Docker image to serve static websites",
-      "https://lipanski.com/posts/smallest-docker-image-static-website"
+      "Human brain compresses working memories into low-res ‘summaries’",
+      "https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2022-04-11, 11:11:25",
+      "https://news.ycombinator.com/item?id=30987106"
+    ],
+    [
+      "A System-Witch’s Package Manager Murder Mystery",
+      "https://artemis.sh/2022/04/11/package-manager-murder-mystery.html"
+    ]
+  ],
+  [
+    [
       "2022-04-11, 10:56:51",
       "https://news.ycombinator.com/item?id=30986999"
     ],
@@ -297,6 +287,16 @@
     [
       "Harder Drive: Hard drives we didn't want or need [video]",
       "https://www.youtube.com/watch?v=JcJSW7Rprio"
+    ]
+  ],
+  [
+    [
+      "2022-04-09, 18:58:35",
+      "https://news.ycombinator.com/item?id=30970911"
+    ],
+    [
+      "Show HN: I made a website for you to travel the world in first-person POV",
+      "https://www.explordle.com/map/wor"
     ]
   ]
 ]
