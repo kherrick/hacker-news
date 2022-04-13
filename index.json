@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-13, 15:12:28",
+      "https://news.ycombinator.com/item?id=31015636"
+    ],
+    [
+      "Psilocybin Rewires the Brain for People with Depression",
+      "https://www.ucsf.edu/news/2022/04/422606/psilocybin-rewires-brain-people-depression"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 14:42:56",
+      "https://news.ycombinator.com/item?id=31015242"
+    ],
+    [
+      "K-Nearest Neighbors",
+      "https://www.pinecone.io/learn/k-nearest-neighbor/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 14:29:20",
+      "https://news.ycombinator.com/item?id=31015055"
+    ],
+    [
+      "What's next for AlphaFold and the AI protein-folding revolution",
+      "https://www.nature.com/articles/d41586-022-00997-5"
+    ]
+  ],
+  [
+    [
       "2022-04-13, 14:24:55",
       "https://news.ycombinator.com/item?id=31014998"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31014656"
     ],
     [
-      "Principles for Dealing with the Changing World Order",
+      "Principles for Dealing with the Changing World Order [video]",
       "https://www.youtube.com/watch?v=xguam0TKMw8"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31014160"
     ],
     [
-      "Open source robot lawn mower",
+      "Open source robot lawn mower [video]",
       "https://www.youtube.com/watch?v=BSF04i3zNGw"
     ]
   ],
@@ -191,32 +221,22 @@
   ],
   [
     [
-      "2022-04-13, 03:58:51",
-      "https://news.ycombinator.com/item?id=31011083"
-    ],
-    [
-      "Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote",
-      "https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 00:02:29",
-      "https://news.ycombinator.com/item?id=31009675"
-    ],
-    [
-      "Git security vulnerability announced",
-      "https://github.blog/2022-04-12-git-security-vulnerability-announced/"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 11:27:59",
       "https://news.ycombinator.com/item?id=31001126"
     ],
     [
       "A Dotfile History",
       "https://myme.no/posts/2022-04-11-a-dotfile-history.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 10:21:14",
+      "https://news.ycombinator.com/item?id=31000709"
+    ],
+    [
+      "Differentiable Programming – A Simple Introduction",
+      "https://www.assemblyai.com/blog/differentiable-programming-a-simple-introduction/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-04-12, 06:11:22",
-      "https://news.ycombinator.com/item?id=30999207"
-    ],
-    [
-      "Command Line Programs for the Blind",
-      "http://www.eklhad.net/philosophy.html"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 05:12:46",
       "https://news.ycombinator.com/item?id=30998872"
     ],
     [
       "Mgmt – Next generation distributed, event-driven, parallel config management",
       "https://github.com/purpleidea/mgmt"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 04:40:38",
-      "https://news.ycombinator.com/item?id=30998693"
-    ],
-    [
-      "Shine: A super fast fixed-point MP3 encoder",
-      "https://github.com/toots/shine"
     ]
   ],
   [
