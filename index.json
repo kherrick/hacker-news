@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-04-13, 24:02:29",
+      "https://news.ycombinator.com/item?id=31009675"
+    ],
+    [
+      "Git 2.30.3 will not operate in non-owned directories",
+      "https://github.com/git/git/commit/8959555cee7ec045958f9b6dd62e541affb7e7d9"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 23:08:52",
       "https://news.ycombinator.com/item?id=31009313"
     ],
     [
-      "A list of new(ish) command line tools – Julia Evans",
+      "A list of new(ish) command line tools",
       "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "When to use generics",
       "https://go.dev/blog/when-generics"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 20:11:52",
-      "https://news.ycombinator.com/item?id=31007694"
-    ],
-    [
-      "Organization Discussions – GitHub Changelog",
-      "https://github.blog/changelog/2022-04-12-organization-discussions/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "WireGuard multihop available in the Mullvad app",
       "https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 16:38:06",
-      "https://news.ycombinator.com/item?id=31004973"
-    ],
-    [
-      "Show HN: Add live runnable code to your dev docs",
-      "https://www.usedevbook.com/"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2022-04-12, 09:26:13",
-      "https://news.ycombinator.com/item?id=31000380"
+      "2022-04-12, 08:37:32",
+      "https://news.ycombinator.com/item?id=31000063"
     ],
     [
-      "Understanding Anonymity vs. Privacy (2021)",
-      "https://protonmail.com/blog/anonymity-vs-privacy/"
+      "Collision hotspots for migrating birds revealed in new study",
+      "https://phys.org/news/2022-04-collision-hotspots-migrating-birds-revealed.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 04:40:38",
+      "https://news.ycombinator.com/item?id=30998693"
+    ],
+    [
+      "Shine: A super fast fixed-point MP3 encoder",
+      "https://github.com/toots/shine"
     ]
   ],
   [
