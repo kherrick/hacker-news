@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-04-13, 24:02:29",
-      "https://news.ycombinator.com/item?id=31009675"
-    ],
-    [
-      "Git 2.30.3 will not operate in non-owned directories",
-      "https://github.com/git/git/commit/8959555cee7ec045958f9b6dd62e541affb7e7d9"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 02:12:11",
       "https://news.ycombinator.com/item?id=31010501"
     ],
     [
       "Update on the Atlassian outage affecting some customers",
       "https://www.atlassian.com/engineering/april-2022-outage-update"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 00:02:29",
+      "https://news.ycombinator.com/item?id=31009675"
+    ],
+    [
+      "Git security vulnerability announced",
+      "https://github.blog/2022-04-12-git-security-vulnerability-announced/"
     ]
   ],
   [
@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=31009129"
     ],
     [
-      "A few things I learned about using DALL·E",
+      "A few things to try with DALL·E",
       "https://www.bramadams.dev/projects/dalle-tricks"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 22:09:37",
-      "https://news.ycombinator.com/item?id=31008860"
-    ],
-    [
-      "Mexico truckers protest new Texas inspections, halt trade at border bridges",
-      "https://www.texastribune.org/2022/04/11/texas-border-inspections-truckers-protest/"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "When to use generics",
       "https://go.dev/blog/when-generics"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 18:46:39",
+      "https://news.ycombinator.com/item?id=31006765"
+    ],
+    [
+      "A Case of Plagarism in Machine Learning Research",
+      "https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-04-12, 09:43:07",
-      "https://news.ycombinator.com/item?id=31000473"
-    ],
-    [
-      "Recap of the funding experiment (2019)",
-      "https://feross.org/funding-experiment-recap/"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 04:40:38",
       "https://news.ycombinator.com/item?id=30998693"
     ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=30997385"
     ],
     [
-      "The World’s Largest Bee and the Cautionary Tale of Its Rediscovery",
+      "The world’s largest bee and the cautionary tale of its rediscovery",
       "https://www.atlasobscura.com/articles/worlds-largest-bee"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Playing with DALL-E 2",
       "https://www.lesswrong.com/posts/r99tazGiLgzqFX7ka/playing-with-dall-e-2"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 10:56:51",
+      "https://news.ycombinator.com/item?id=30986999"
+    ],
+    [
+      "Broadband cables to be routed through water pipes in new trial",
+      "https://eandt.theiet.org/content/articles/2022/04/broadband-cables-to-be-routed-through-water-pipes-in-new-trial/"
     ]
   ],
   [
