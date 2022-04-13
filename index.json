@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-04-13, 02:12:11",
-      "https://news.ycombinator.com/item?id=31010501"
-    ],
-    [
-      "Update on the Atlassian outage affecting some customers",
-      "https://www.atlassian.com/engineering/april-2022-outage-update"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 00:02:29",
       "https://news.ycombinator.com/item?id=31009675"
     ],
@@ -157,6 +147,16 @@
     [
       "WireGuard multihop available in the Mullvad app",
       "https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 16:38:06",
+      "https://news.ycombinator.com/item?id=31004973"
+    ],
+    [
+      "Show HN: Add live runnable code to your dev docs",
+      "https://www.usedevbook.com/"
     ]
   ],
   [
