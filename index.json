@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-04-13, 07:10:44",
-      "https://news.ycombinator.com/item?id=31011968"
-    ],
-    [
-      "A Tour of Apple’s External (LCD) Displays",
-      "https://512pixels.net/2022/04/a-tour-of-apples-external-lcd-displays/"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 07:00:28",
       "https://news.ycombinator.com/item?id=31011920"
     ],
@@ -287,6 +277,16 @@
     [
       "Broadband cables to be routed through water pipes in new trial",
       "https://eandt.theiet.org/content/articles/2022/04/broadband-cables-to-be-routed-through-water-pipes-in-new-trial/"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 09:24:03",
+      "https://news.ycombinator.com/item?id=30986433"
+    ],
+    [
+      "Minimalist dependency injection in Python (2021)",
+      "https://oddbit.dev/post/python/di-python/"
     ]
   ],
   [
