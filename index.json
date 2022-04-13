@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-13, 18:14:10",
+      "https://news.ycombinator.com/item?id=31018171"
+    ],
+    [
+      "Frontend Component Architecture",
+      "https://gos.si/blog/frontend-component-architecture/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 18:00:41",
+      "https://news.ycombinator.com/item?id=31017965"
+    ],
+    [
+      "Measuring Goodhart’s Law",
+      "https://openai.com/blog/measuring-goodharts-law/"
+    ]
+  ],
+  [
+    [
       "2022-04-13, 17:01:10",
       "https://news.ycombinator.com/item?id=31017120"
     ],
@@ -27,16 +47,6 @@
     [
       "A Modern Self-Referential Weight Matrix That Learns to Modify Itself",
       "https://arxiv.org/abs/2202.05780"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 16:09:58",
-      "https://news.ycombinator.com/item?id=31016414"
-    ],
-    [
-      "Learning garment manipulation policies toward robot-assisted dressing",
-      "https://www.science.org/doi/10.1126/scirobotics.abm6010"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-04-13, 14:24:55",
-      "https://news.ycombinator.com/item?id=31014998"
-    ],
-    [
-      "Ask HN: What happened to Apple's self service repair program?",
-      "https://news.ycombinator.com/item?id=31014998"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 13:56:37",
       "https://news.ycombinator.com/item?id=31014701"
     ],
@@ -167,16 +167,6 @@
     [
       "Apple unveils the best photos from the Shot on iPhone Macro Challenge",
       "https://www.apple.com/newsroom/2022/04/apple-unveils-the-best-photos-from-the-shot-on-iphone-macro-challenge/"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 12:49:56",
-      "https://news.ycombinator.com/item?id=31013994"
-    ],
-    [
-      "Dutch scandal serves as a warning for Europe over risks of using algorithms",
-      "https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Create hand-drawn GIFs on paper",
       "https://www.eatmy.art/"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 10:44:28",
+      "https://news.ycombinator.com/item?id=31000852"
+    ],
+    [
+      "Insect Hotel",
+      "https://en.wikipedia.org/wiki/Insect_hotel"
     ]
   ],
   [
