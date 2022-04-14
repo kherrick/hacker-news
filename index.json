@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-04-14, 17:43:01",
-      "https://news.ycombinator.com/item?id=31030425"
-    ],
-    [
-      "Show HN: GPT-3 powered Ouija spirit board that moves your mouse",
-      "https://ouija.attejuvonen.fi/"
-    ]
-  ],
-  [
-    [
       "2022-04-14, 17:06:38",
       "https://news.ycombinator.com/item?id=31029845"
     ],
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2022-04-14, 16:04:55",
-      "https://news.ycombinator.com/item?id=31028795"
-    ],
-    [
-      "Tell HN: Turned 44 today and I'm lost",
-      "https://news.ycombinator.com/item?id=31028795"
-    ]
-  ],
-  [
-    [
       "2022-04-14, 14:51:19",
       "https://news.ycombinator.com/item?id=31027766"
     ],
@@ -115,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31027619"
     ],
     [
-      "The elimination of leaded gasoline",
+      "The history of the elimination of leaded gasoline",
       "https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/"
     ]
   ],
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31027299"
     ],
     [
-      "Small Neural networks in Julia 5x faster than PyTorch",
+      "Doing small network scientific machine learning in Julia faster than PyTorch",
       "https://julialang.org/blog/2022/04/simple-chains/"
     ]
   ],
@@ -177,16 +157,6 @@
     [
       "iViewed your API keys",
       "https://wale.id.au/posts/iviewed-your-api-keys/"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 11:58:51",
-      "https://news.ycombinator.com/item?id=31025701"
-    ],
-    [
-      "An argument for a return to Web 1.0",
-      "https://vhsoverdrive.neocities.org/essays/oldweb.html"
     ]
   ],
   [
@@ -221,26 +191,6 @@
   ],
   [
     [
-      "2022-04-14, 07:52:59",
-      "https://news.ycombinator.com/item?id=31024363"
-    ],
-    [
-      "Why Ruby Has Symbols",
-      "https://dmitrytsepelev.dev/why-has-ruby-symbols"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 07:03:36",
-      "https://news.ycombinator.com/item?id=31024127"
-    ],
-    [
-      "Making Rust a Better Fit for Cheri and Other Platforms",
-      "https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html"
-    ]
-  ],
-  [
-    [
       "2022-04-14, 06:16:48",
       "https://news.ycombinator.com/item?id=31023907"
     ],
@@ -251,11 +201,71 @@
   ],
   [
     [
+      "2022-04-13, 23:31:54",
+      "https://news.ycombinator.com/item?id=31021611"
+    ],
+    [
+      "Youtube.js – full-featured wrapper around YouTube's private API",
+      "https://github.com/LuanRT/YouTube.js"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 21:13:18",
+      "https://news.ycombinator.com/item?id=31020355"
+    ],
+    [
+      "The man who invented relaxation (2015)",
+      "https://www.bbc.com/news/magazine-34714591"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 18:48:19",
+      "https://news.ycombinator.com/item?id=31018600"
+    ],
+    [
+      "Ninjam is open source software to allow people to make real music together",
+      "https://www.cockos.com/ninjam/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 17:01:54",
+      "https://news.ycombinator.com/item?id=31017135"
+    ],
+    [
+      "Abandoned railroad routes in North America",
+      "https://www.abandonedrails.com/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 16:56:44",
+      "https://news.ycombinator.com/item?id=31017057"
+    ],
+    [
+      "Zuo: A Tiny Racket for Scripting",
+      "https://github.com/racket/zuo"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 16:18:55",
+      "https://news.ycombinator.com/item?id=31016532"
+    ],
+    [
+      "Python App in the Browser",
+      "https://gradio.app/"
+    ]
+  ],
+  [
+    [
       "2022-04-13, 11:28:09",
       "https://news.ycombinator.com/item?id=31013406"
     ],
     [
-      "My Summer at Bell Labs (2018)",
+      "My summer at Bell Labs (2018)",
       "https://akapugs.blog/2018/05/16/belllabspart1/"
     ]
   ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2022-04-12, 20:03:16",
-      "https://news.ycombinator.com/item?id=31007610"
-    ],
-    [
-      "UX and the Civilizing Process",
-      "https://meltingasphalt.com/ux-and-the-civilizing-process/"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 11:48:19",
       "https://news.ycombinator.com/item?id=31001296"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-04-12, 10:01:13",
-      "https://news.ycombinator.com/item?id=31000595"
+      "2022-04-11, 23:41:07",
+      "https://news.ycombinator.com/item?id=30996665"
     ],
     [
-      "The Low Base Rate Problem (2014)",
-      "https://www.evanmiller.org/the-low-base-rate-problem.html"
+      "NASA will test SpinLaunch's ability to fling satellites into orbit",
+      "https://newatlas.com/space/spinlaunch-nasa/"
     ]
   ]
 ]
