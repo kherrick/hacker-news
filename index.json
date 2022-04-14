@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-04-13, 22:15:45",
-      "https://news.ycombinator.com/item?id=31020977"
+      "2022-04-14, 01:00:01",
+      "https://news.ycombinator.com/item?id=31022239"
     ],
     [
-      "Obfuscated Obfuscation",
-      "https://blog.lexfo.fr/dexguard.html"
+      "Regology (YC S18) Is Hiring",
+      "https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 23:37:21",
+      "https://news.ycombinator.com/item?id=31021652"
+    ],
+    [
+      "Badmodems No Longer Exists",
+      "https://badmodems.com/Why.htm"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 21:24:41",
+      "https://news.ycombinator.com/item?id=31020484"
+    ],
+    [
+      "Apple's M1 Ultra comes with a 32MB TLB bottleneck",
+      "https://twitter.com/VadimYuryev/status/1514295682777059329"
     ]
   ],
   [
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2022-04-13, 21:01:12",
-      "https://news.ycombinator.com/item?id=31020206"
+      "2022-04-13, 20:22:51",
+      "https://news.ycombinator.com/item?id=31019778"
     ],
     [
-      "Generally Intelligent (YC S17) is hiring machine learning research engineers",
-      "https://news.ycombinator.com/item?id=31020206"
+      "Facebook open sources Lexical, an extensible text editor library",
+      "https://lexical.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 20:16:46",
+      "https://news.ycombinator.com/item?id=31019720"
+    ],
+    [
+      "What Lies Beneath",
+      "https://reallifemag.com/what-lies-beneath/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Ask HN: Have you created programs for only your personal use?",
       "https://news.ycombinator.com/item?id=31018836"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 18:47:35",
-      "https://news.ycombinator.com/item?id=31018585"
-    ],
-    [
-      "Due Dates Are a Lazy Way to Gain Commitment",
-      "https://tristanhood.substack.com/p/due-dates-are-a-lazy-way-to-gain"
     ]
   ],
   [
@@ -131,62 +151,12 @@
   ],
   [
     [
-      "2022-04-13, 14:52:01",
-      "https://news.ycombinator.com/item?id=31015363"
+      "2022-04-13, 13:08:33",
+      "https://news.ycombinator.com/item?id=31014160"
     ],
     [
-      "Show HN: Program Synthesis for Ruby",
-      "https://github.com/ngsankha/rbsyn"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 14:42:56",
-      "https://news.ycombinator.com/item?id=31015242"
-    ],
-    [
-      "K-Nearest Neighbors",
-      "https://www.pinecone.io/learn/k-nearest-neighbor/"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 14:29:20",
-      "https://news.ycombinator.com/item?id=31015055"
-    ],
-    [
-      "What's next for AlphaFold and the AI protein-folding revolution",
-      "https://www.nature.com/articles/d41586-022-00997-5"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 13:56:37",
-      "https://news.ycombinator.com/item?id=31014701"
-    ],
-    [
-      "Logarithms yearning to be free",
-      "https://www.johndcook.com/blog/2022/04/13/logarithms-yearning-to-be-free/"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 13:20:24",
-      "https://news.ycombinator.com/item?id=31014306"
-    ],
-    [
-      "Linux Hardware Database",
-      "http://linux-hardware.org/"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 13:12:15",
-      "https://news.ycombinator.com/item?id=31014194"
-    ],
-    [
-      "Apple unveils the best photos from the Shot on iPhone Macro Challenge",
-      "https://www.apple.com/newsroom/2022/04/apple-unveils-the-best-photos-from-the-shot-on-iphone-macro-challenge/"
+      "OpenMower – Open-source robot lawn mower [video]",
+      "https://www.youtube.com/watch?v=BSF04i3zNGw"
     ]
   ],
   [
@@ -197,26 +167,6 @@
     [
       "The most popular chess streamer on Twitch",
       "https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 12:12:01",
-      "https://news.ycombinator.com/item?id=31013707"
-    ],
-    [
-      "File transfers via the parallel port on DOS using LapLink",
-      "https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 11:15:25",
-      "https://news.ycombinator.com/item?id=31013326"
-    ],
-    [
-      "Show HN: I made a website to search for half loaves of bread",
-      "https://halfloafnear.me/"
     ]
   ],
   [
@@ -241,11 +191,21 @@
   ],
   [
     [
+      "2022-04-12, 18:42:40",
+      "https://news.ycombinator.com/item?id=31006720"
+    ],
+    [
+      "The state of static analysis in the GCC 12 compiler",
+      "https://developers.redhat.com/articles/2022/04/12/state-static-analysis-gcc-12-compiler"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 17:58:38",
       "https://news.ycombinator.com/item?id=31006144"
     ],
     [
-      "What the World’s Most Remote Islands Were Like Before Humans Arrived",
+      "What the world’s most remote islands were like before humans arrived",
       "https://www.atlasobscura.com/articles/marquesas-islands-environment"
     ]
   ],
@@ -297,6 +257,46 @@
     [
       "Push Options: Control Gitlab CI/CD and Merges with Git Push",
       "https://docs.gitlab.com/ee/user/project/push_options.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 09:47:23",
+      "https://news.ycombinator.com/item?id=30986566"
+    ],
+    [
+      "The “fifth wheel” parallel parking tool that never hit it big (2018)",
+      "https://www.hagerty.com/media/automotive-history/parallel-parking-made-easy-1930s-style/"
+    ]
+  ],
+  [
+    [
+      "2022-04-10, 21:12:56",
+      "https://news.ycombinator.com/item?id=30981759"
+    ],
+    [
+      "Selfies before ‘selfie’",
+      "https://www.sciencemuseumgroup.org.uk/blog/the-whole-picture-selfies-before-selfie/"
+    ]
+  ],
+  [
+    [
+      "2022-04-10, 15:30:40",
+      "https://news.ycombinator.com/item?id=30977931"
+    ],
+    [
+      "Scientists are worried about the W Boson: 'Something is amiss'",
+      "https://www.cnet.com/science/why-scientists-are-worried-about-the-w-boson-something-is-amiss/"
+    ]
+  ],
+  [
+    [
+      "2022-04-10, 00:03:52",
+      "https://news.ycombinator.com/item?id=30973324"
+    ],
+    [
+      "The gambler's fallacy is not a fallacy?",
+      "https://www.kevindorst.com/stranger_apologies/the-gamblers-fallacy-is-not-a-fallacy"
     ]
   ]
 ]
