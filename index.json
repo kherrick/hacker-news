@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-04-13, 18:34:50",
-      "https://news.ycombinator.com/item?id=31018436"
-    ],
-    [
-      "Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography",
-      "https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 16:59:20",
       "https://news.ycombinator.com/item?id=31017098"
     ],
@@ -277,6 +267,16 @@
     [
       "Push Options: Control Gitlab CI/CD and Merges with Git Push",
       "https://docs.gitlab.com/ee/user/project/push_options.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-11, 18:28:11",
+      "https://news.ycombinator.com/item?id=30992719"
+    ],
+    [
+      "How EEx Turns Your Template into HTML",
+      "https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/"
     ]
   ],
   [
