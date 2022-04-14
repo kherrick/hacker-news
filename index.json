@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-14, 07:03:36",
+      "https://news.ycombinator.com/item?id=31024127"
+    ],
+    [
+      "Making Rust a Better Fit for Cheri and Other Platforms",
+      "https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 07:00:45",
+      "https://news.ycombinator.com/item?id=31024111"
+    ],
+    [
+      "Sturdy (YC W21) Is Hiring Senior Engineers (Stockholm, Sweden)",
+      "https://getsturdy.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 06:17:14",
+      "https://news.ycombinator.com/item?id=31023909"
+    ],
+    [
+      "Large-Scale Matrix Factorization on TPUs",
+      "https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html"
+    ]
+  ],
+  [
+    [
       "2022-04-14, 05:27:24",
       "https://news.ycombinator.com/item?id=31023695"
     ],
@@ -37,26 +67,6 @@
     [
       "My Life as a Mentalist",
       "https://www.zocalopublicsquare.org/2022/04/07/where-i-go-my-life-as-a-mentalist/chronicles/where-i-go/"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 01:38:25",
-      "https://news.ycombinator.com/item?id=31022479"
-    ],
-    [
-      "Computers Can Be Understood (2020)",
-      "https://blog.nelhage.com/post/computers-can-be-understood/"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 01:00:01",
-      "https://news.ycombinator.com/item?id=31022239"
-    ],
-    [
-      "Regology (YC S18) Is Hiring",
-      "https://www.ycombinator.com/companies/regology/jobs/WmLGnHI-product-marketing-manager"
     ]
   ],
   [
@@ -107,6 +117,16 @@
     [
       "Tailscale Authentication for Minecraft",
       "https://tailscale.com/blog/tailscale-auth-minecraft/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 19:47:01",
+      "https://news.ycombinator.com/item?id=31019349"
+    ],
+    [
+      "Jimmy Carter's White House Solar Panels (2019)",
+      "https://www.powerhome.com/the-journey-of-jimmy-carters-solar-panels/"
     ]
   ],
   [
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2022-04-13, 14:29:20",
-      "https://news.ycombinator.com/item?id=31015055"
+      "2022-04-13, 14:49:33",
+      "https://news.ycombinator.com/item?id=31015328"
     ],
     [
-      "What's next for AlphaFold and the AI protein-folding revolution",
-      "https://www.nature.com/articles/d41586-022-00997-5"
+      "Video games are kinda boring",
+      "https://sandyuraz.com/blogs/games/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-04-12, 17:58:38",
-      "https://news.ycombinator.com/item?id=31006144"
-    ],
-    [
-      "What the world’s most remote islands were like before humans arrived",
-      "https://www.atlasobscura.com/articles/marquesas-islands-environment"
-    ]
-  ],
-  [
-    [
       "2022-04-12, 10:44:28",
       "https://news.ycombinator.com/item?id=31000852"
     ],
     [
       "Insect Hotel",
       "https://en.wikipedia.org/wiki/Insect_hotel"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 10:21:14",
-      "https://news.ycombinator.com/item?id=31000709"
-    ],
-    [
-      "Differentiable Programming – A Simple Introduction",
-      "https://www.assemblyai.com/blog/differentiable-programming-a-simple-introduction/"
     ]
   ],
   [
