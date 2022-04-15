@@ -15,8 +15,8 @@
       "https://news.ycombinator.com/item?id=31046791"
     ],
     [
-      "Some Salesforce private GitHub repos stolen",
-      "https://status.heroku.com/incidents/2413"
+      "Attack campaign involving stolen OAuth tokens issued to third-party integrators",
+      "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-04-15, 11:35:23",
-      "https://news.ycombinator.com/item?id=31038996"
-    ],
-    [
-      "Generate Python extensions using Nim language",
-      "https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 10:49:38",
       "https://news.ycombinator.com/item?id=31038660"
     ],
@@ -247,6 +237,16 @@
     [
       "We lost 54k GitHub stars",
       "https://httpie.io/blog/stardust"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 14:30:42",
+      "https://news.ycombinator.com/item?id=31027532"
+    ],
+    [
+      "On Env Shebangs",
+      "https://scriptingosx.com/2022/04/on-env-shebangs/"
     ]
   ],
   [
