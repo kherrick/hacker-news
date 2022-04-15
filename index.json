@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-15, 19:16:41",
+      "https://news.ycombinator.com/item?id=31044510"
+    ],
+    [
+      "The History of Franz and Lisp",
+      "https://ieeexplore.ieee.org/document/9740557"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 18:53:38",
+      "https://news.ycombinator.com/item?id=31044211"
+    ],
+    [
+      "Two-qubit silicon quantum processor with operation fidelity exceeding 99%",
+      "https://www.science.org/doi/10.1126/sciadv.abn5130"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 18:23:03",
+      "https://news.ycombinator.com/item?id=31043766"
+    ],
+    [
+      "How to Draw Sub Cutaways in MS Paint",
+      "http://www.hisutton.com/How%20to%20draw%20sub%20cutaways%20in%20MS%20Paint.html"
+    ]
+  ],
+  [
+    [
       "2022-04-15, 18:16:35",
       "https://news.ycombinator.com/item?id=31043668"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-04-15, 13:58:04",
-      "https://news.ycombinator.com/item?id=31040301"
-    ],
-    [
-      "Wikipedia globally blocks Apple Private Relay IP ranges from editing",
-      "https://meta.wikimedia.org/wiki/Talk:Apple_iCloud_Private_Relay"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 13:14:01",
       "https://news.ycombinator.com/item?id=31039849"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-04-14, 10:24:06",
-      "https://news.ycombinator.com/item?id=31025061"
-    ],
-    [
-      "Elon Musk makes $43B unsolicited bid to take Twitter private",
-      "https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter"
-    ]
-  ],
-  [
-    [
       "2022-04-14, 07:44:41",
       "https://news.ycombinator.com/item?id=31024333"
     ],
@@ -287,16 +297,6 @@
     [
       "Why Vendor Software Has Holes",
       "https://michaeldehaan.substack.com/p/why-vendor-software-has-holes"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 16:10:25",
-      "https://news.ycombinator.com/item?id=31004563"
-    ],
-    [
-      "The fastest tool for querying large JSON files is written in Python (benchmark)",
-      "https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb"
     ]
   ]
 ]
