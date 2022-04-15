@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-15, 16:43:02",
+      "https://news.ycombinator.com/item?id=31042383"
+    ],
+    [
+      "Employee’s unwanted birthday party nets him $450k after lawsuit",
+      "https://www.kentucky.com/news/state/kentucky/article260445977.html"
+    ]
+  ],
+  [
+    [
       "2022-04-15, 15:58:38",
       "https://news.ycombinator.com/item?id=31041711"
     ],
     [
-      "Ask HN: Has anyone successfully renegotiated an AWS non-compete",
+      "Ask HN: Has anyone successfully renegotiated an AWS non-compete?",
       "https://news.ycombinator.com/item?id=31041711"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 15:51:34",
+      "https://news.ycombinator.com/item?id=31041612"
+    ],
+    [
+      "Researchers control brain circuits from a distance using infrared light",
+      "https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light"
     ]
   ],
   [
@@ -27,26 +47,6 @@
     [
       "Primer: Statistical [Tank] Armour",
       "https://www.tanknology.co.uk/post/statistical-armour"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 14:49:20",
-      "https://news.ycombinator.com/item?id=31040875"
-    ],
-    [
-      "Billionaires eye parallel media universe",
-      "https://www.axios.com/elon-musk-twitter-billionaires-free-speech-social-media-c74547a6-e51d-48fa-b2bd-3d7458f2adb4.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 14:41:12",
-      "https://news.ycombinator.com/item?id=31040798"
-    ],
-    [
-      "When Your “Public Square” Is a Private Company, Any Sulky Billionaire Can Buy It",
-      "https://lithub.com/when-your-public-square-is-a-private-company-any-sulky-billionaire-can-buy-it/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-04-12, 19:21:28",
+      "https://news.ycombinator.com/item?id=31007126"
+    ],
+    [
+      "Why Vendor Software Has Holes",
+      "https://michaeldehaan.substack.com/p/why-vendor-software-has-holes"
+    ]
+  ],
+  [
+    [
       "2022-04-12, 16:10:25",
       "https://news.ycombinator.com/item?id=31004563"
     ],
     [
       "The fastest tool for querying large JSON files is written in Python (benchmark)",
       "https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb"
-    ]
-  ],
-  [
-    [
-      "2022-04-12, 13:11:39",
-      "https://news.ycombinator.com/item?id=31002174"
-    ],
-    [
-      "Sorry, Wrong Number: Debugging a Crash Under Wine",
-      "https://blog.jchw.io/wrong-number/"
     ]
   ]
 ]
