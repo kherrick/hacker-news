@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-15, 08:16:53",
+      "https://news.ycombinator.com/item?id=31037729"
+    ],
+    [
+      "It’s Still Stupidly, Difficult to Buy a ‘Dumb’ TV",
+      "https://www.techdirt.com/2022/04/14/its-still-stupidly-ridiculously-difficult-to-buy-a-dumb-tv/"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 08:15:51",
+      "https://news.ycombinator.com/item?id=31037724"
+    ],
+    [
+      "Cultural Anorexia: The Pursuit of Thicker Desires in a Thinning World",
+      "https://read.lukeburgis.com/p/cultural-anorexia"
+    ]
+  ],
+  [
+    [
       "2022-04-15, 06:56:23",
       "https://news.ycombinator.com/item?id=31037273"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2022-04-15, 05:21:39",
+      "https://news.ycombinator.com/item?id=31036817"
+    ],
+    [
+      "Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males",
+      "https://www.atlasobscura.com/articles/fossil-record-prefers-males"
+    ]
+  ],
+  [
+    [
       "2022-04-15, 03:19:18",
       "https://news.ycombinator.com/item?id=31036328"
     ],
     [
       "Reddit Announces Comment Search",
       "https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 03:19:03",
+      "https://news.ycombinator.com/item?id=31036327"
+    ],
+    [
+      "Sunken Moskva Could Be the Biggest Naval Combat Loss in 40 Years",
+      "https://www.thedrive.com/the-war-zone/sinking-a-warship-is-a-truly-rare-event-in-modern-naval-warfare"
     ]
   ],
   [
@@ -91,22 +131,32 @@
   ],
   [
     [
+      "2022-04-14, 19:05:25",
+      "https://news.ycombinator.com/item?id=31031771"
+    ],
+    [
+      "A Gripe about the Los Angeles Metro Bike App",
+      "https://veryla.io/stories/metro-bike-app-los-angeles"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 18:50:49",
+      "https://news.ycombinator.com/item?id=31031528"
+    ],
+    [
+      "The Irrelevance of Porter’s Five Forces for the B2B Software Industry",
+      "https://jhcblog.juliehuntconsulting.com/2012/12/the-irrelevance-of-porters-five-forces-for-the-b2b-software-industry.html"
+    ]
+  ],
+  [
+    [
       "2022-04-14, 18:02:49",
       "https://news.ycombinator.com/item?id=31030761"
     ],
     [
       "Link: Simple, secure one-click payments by Stripe",
       "https://link.co/"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 17:06:38",
-      "https://news.ycombinator.com/item?id=31029845"
-    ],
-    [
-      "Browser in the Dark: flashlights with CSS and canvas",
-      "https://voussoir.net/writing/browser_in_the_dark"
     ]
   ],
   [
@@ -127,46 +177,6 @@
     [
       "Fennel: A Practical Lisp",
       "https://www.mattroelle.com/fennel-the-practical-lisp"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 16:43:08",
-      "https://news.ycombinator.com/item?id=31029443"
-    ],
-    [
-      "Can You Insert Hardware Trojan Spyware IP into an IC at the Fab? Yes",
-      "https://www.eejournal.com/article/can-you-insert-hardware-trojan-spyware-ip-into-an-ic-at-the-fab-yes-you-can/"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 14:30:01",
-      "https://news.ycombinator.com/item?id=31027526"
-    ],
-    [
-      "Ask HN: Why isn't there a standard network audio protocol?",
-      "https://news.ycombinator.com/item?id=31027526"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 14:19:25",
-      "https://news.ycombinator.com/item?id=31027384"
-    ],
-    [
-      "Heatsink Skiving (2021) [video]",
-      "https://www.youtube.com/watch?v=6PUk0m3bISI"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 13:58:32",
-      "https://news.ycombinator.com/item?id=31027104"
-    ],
-    [
-      "License to Use JSLint for Evil",
-      "https://web.archive.org/web/20130203112329/http://dev.hasenj.org/post/3272592502"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-04-13, 18:48:19",
-      "https://news.ycombinator.com/item?id=31018600"
-    ],
-    [
-      "Ninjam is open source software to allow people to make real music together",
-      "https://www.cockos.com/ninjam/"
-    ]
-  ],
-  [
-    [
       "2022-04-13, 17:01:54",
       "https://news.ycombinator.com/item?id=31017135"
     ],
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2022-04-13, 16:56:44",
-      "https://news.ycombinator.com/item?id=31017057"
+      "2022-04-13, 15:27:38",
+      "https://news.ycombinator.com/item?id=31015813"
     ],
     [
-      "Zuo: A Tiny Racket for Scripting",
-      "https://github.com/racket/zuo"
-    ]
-  ],
-  [
-    [
-      "2022-04-13, 09:53:23",
-      "https://news.ycombinator.com/item?id=31012806"
-    ],
-    [
-      "DALL-E, the Metaverse, and Zero Marginal Content",
-      "https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/"
+      "Inside the longest Atlassian outage",
+      "https://newsletter.pragmaticengineer.com/p/scoop-atlassian"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "She was missing a chunk of her brain – it didn’t matter",
       "https://www.wired.co.uk/article/she-was-missing-a-chunk-of-her-brain-it-didnt-matter"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 18:10:03",
+      "https://news.ycombinator.com/item?id=31006305"
+    ],
+    [
+      "Re-viewing Pompeian domestic space through VR-based eye tracking and 3D GIS",
+      "https://www.cambridge.org/core/journals/antiquity/article/reviewing-pompeian-domestic-space-through-combined-virtual-realitybased-eye-tracking-and-3d-gis/E82035C72C580D9602CCF00D625BC65D"
     ]
   ],
   [
