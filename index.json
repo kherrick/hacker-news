@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-15, 22:44:23",
+      "https://news.ycombinator.com/item?id=31046849"
+    ],
+    [
+      "Former employee downloaded Cash App account info of 8.2M users (SEC Form 8k)",
+      "https://www.sec.gov/ix?doc=/Archives/edgar/data/1512673/000119312522095215/d343042d8k.htm"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 22:39:16",
+      "https://news.ycombinator.com/item?id=31046791"
+    ],
+    [
+      "Some Salesforce private GitHub repos stolen",
+      "https://status.heroku.com/incidents/2413"
+    ]
+  ],
+  [
+    [
       "2022-04-15, 21:36:55",
       "https://news.ycombinator.com/item?id=31046184"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-04-15, 15:51:34",
-      "https://news.ycombinator.com/item?id=31041612"
-    ],
-    [
-      "Researchers control brain circuits from a distance using infrared light",
-      "https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 15:19:57",
       "https://news.ycombinator.com/item?id=31041205"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-04-15, 10:42:31",
-      "https://news.ycombinator.com/item?id=31038614"
-    ],
-    [
-      "Migrating from SQLite to PostgreSQL",
-      "https://bytebase.com/blog/database-migration-sqlite-to-postgresql"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 10:01:15",
       "https://news.ycombinator.com/item?id=31038364"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-04-14, 14:20:26",
-      "https://news.ycombinator.com/item?id=31027403"
-    ],
-    [
-      "More Control with Idempotency",
-      "https://buttondown.email/krcah/archive/more-control-with-idempotency/"
-    ]
-  ],
-  [
-    [
       "2022-04-14, 08:43:27",
       "https://news.ycombinator.com/item?id=31024600"
     ],
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2022-04-14, 07:44:41",
+      "https://news.ycombinator.com/item?id=31024333"
+    ],
+    [
+      "Clojure Isn’t for Me",
+      "https://swlkr.com/posts/clojure-isnt-for-me/"
+    ]
+  ],
+  [
+    [
       "2022-04-13, 23:06:09",
       "https://news.ycombinator.com/item?id=31021417"
     ],
     [
-      "The accidental experiment that saved 700 lives",
+      "An accidental experiment that saved 700 lives",
       "https://statmodeling.stat.columbia.edu/2022/04/13/the-accidental-experiment-that-saved-700-lives/"
     ]
   ],
