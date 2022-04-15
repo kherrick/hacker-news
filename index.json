@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-04-15, 05:21:39",
-      "https://news.ycombinator.com/item?id=31036817"
-    ],
-    [
-      "Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males",
-      "https://www.atlasobscura.com/articles/fossil-record-prefers-males"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 03:19:18",
       "https://news.ycombinator.com/item?id=31036328"
     ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2022-04-14, 14:19:25",
+      "https://news.ycombinator.com/item?id=31027384"
+    ],
+    [
+      "Heatsink Skiving (2021) [video]",
+      "https://www.youtube.com/watch?v=6PUk0m3bISI"
+    ]
+  ],
+  [
+    [
       "2022-04-14, 13:58:32",
       "https://news.ycombinator.com/item?id=31027104"
     ],
@@ -187,16 +187,6 @@
     [
       "Elon Musk makes $43B unsolicited bid to take Twitter private",
       "https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 06:06:50",
-      "https://news.ycombinator.com/item?id=31023860"
-    ],
-    [
-      "Writing a Mutation Engine and Breaking Aimware",
-      "https://back.engineering/13/04/2022/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "She was missing a chunk of her brain – it didn’t matter",
       "https://www.wired.co.uk/article/she-was-missing-a-chunk-of-her-brain-it-didnt-matter"
+    ]
+  ],
+  [
+    [
+      "2022-04-12, 16:10:25",
+      "https://news.ycombinator.com/item?id=31004563"
+    ],
+    [
+      "The fastest tool for querying large JSON files is written in Python (benchmark)",
+      "https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb"
     ]
   ],
   [
