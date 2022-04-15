@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-04-15, 12:33:51",
-      "https://news.ycombinator.com/item?id=31039451"
+      "2022-04-15, 12:45:47",
+      "https://news.ycombinator.com/item?id=31039569"
     ],
     [
-      "Tax the Land",
-      "https://www.vox.com/policy-and-politics/22951092/land-tax-housing-crisis"
+      "Neovim 0.7 Released",
+      "https://github.com/neovim/neovim/releases/tag/v0.7.0"
     ]
   ],
   [
@@ -45,8 +45,18 @@
       "https://news.ycombinator.com/item?id=31038660"
     ],
     [
-      "Shirky.com is gone (important essays, the history of the Web, is disappearing)",
+      "Shirky.com is gone",
       "https://web.archive.org/web/20060208093032/http://www.shirky.com/writings/powerlaw_weblog.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 10:42:31",
+      "https://news.ycombinator.com/item?id=31038614"
+    ],
+    [
+      "Migrating from SQLite to PostgreSQL",
+      "https://bytebase.com/blog/database-migration-sqlite-to-postgresql"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Cultural Anorexia: The Pursuit of Thicker Desires in a Thinning World",
       "https://read.lukeburgis.com/p/cultural-anorexia"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 05:21:39",
-      "https://news.ycombinator.com/item?id=31036817"
-    ],
-    [
-      "Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males",
-      "https://www.atlasobscura.com/articles/fossil-record-prefers-males"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=31031929"
     ],
     [
-      "How a film camera superimposes the date onto photos",
+      "How a film camera superimposes the date onto photos [video]",
       "https://www.youtube.com/watch?v=ezME4_xMMnk"
     ]
   ],
