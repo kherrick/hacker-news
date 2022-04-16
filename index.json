@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-04-16, 11:32:16",
-      "https://news.ycombinator.com/item?id=31051509"
-    ],
-    [
-      "Apple’s risky, yearslong effort to design its own silicon is paying off",
-      "https://www.wsj.com/articles/the-chips-that-rebooted-the-mac-11650081649"
-    ]
-  ],
-  [
-    [
       "2022-04-16, 11:25:00",
       "https://news.ycombinator.com/item?id=31051481"
     ],
@@ -157,6 +147,16 @@
     [
       "When hiring developers, have the candidate read existing code",
       "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 22:39:16",
+      "https://news.ycombinator.com/item?id=31046791"
+    ],
+    [
+      "Attack campaign involving stolen OAuth tokens issued to third-party integrators",
+      "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/"
     ]
   ],
   [
