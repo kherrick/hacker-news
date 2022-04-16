@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-04-15, 23:11:48",
-      "https://news.ycombinator.com/item?id=31047082"
-    ],
-    [
-      "XHTTP: An HTTP server library in a single C file",
-      "https://github.com/cozis/xHTTP"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 22:39:16",
       "https://news.ycombinator.com/item?id=31046791"
     ],
@@ -277,6 +267,16 @@
     [
       "Clojure isn’t for me (2020)",
       "https://swlkr.com/posts/clojure-isnt-for-me/"
+    ]
+  ],
+  [
+    [
+      "2022-04-13, 10:24:58",
+      "https://news.ycombinator.com/item?id=31012999"
+    ],
+    [
+      "Summoning Cthulhu by Parsing HTML with Regular Expressions (2021)",
+      "https://talbrenev.com/2021/05/26/html-regex.html"
     ]
   ],
   [
