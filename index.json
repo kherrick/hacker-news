@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-04-16, 18:13:57",
-      "https://news.ycombinator.com/item?id=31054646"
+      "2022-04-16, 18:30:26",
+      "https://news.ycombinator.com/item?id=31054796"
     ],
     [
-      "DuckDuckGo's Privacy Abuses",
-      "https://lemmy.ml/post/31321"
+      "Using SBCL Common Lisp as a Dynamic Library",
+      "https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Virginia police routinely use secret GPS pings to track people’s cell phones",
       "https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-16, 17:24:02",
-      "https://news.ycombinator.com/item?id=31054163"
-    ],
-    [
-      "Nuclear weapons are not as destructive as you think",
-      "https://www.navalgazing.net/Nuclear-Weapon-Destructiveness"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Seashore: Easy to use Mac OS X image editing application for the rest of us",
       "https://github.com/robaho/seashore"
+    ]
+  ],
+  [
+    [
+      "2022-04-16, 12:02:34",
+      "https://news.ycombinator.com/item?id=31051635"
+    ],
+    [
+      "Calculating Pi on the 4004",
+      "https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/"
     ]
   ],
   [
