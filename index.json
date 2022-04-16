@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-04-16, 12:09:27",
+      "https://news.ycombinator.com/item?id=31051662"
+    ],
+    [
+      "Brendan Gregg is leaving Netflix",
+      "https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-16, 12:02:34",
+      "https://news.ycombinator.com/item?id=31051635"
+    ],
+    [
+      "Calculating Pi on the 4004",
+      "https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/"
+    ]
+  ],
+  [
+    [
+      "2022-04-16, 12:00:37",
+      "https://news.ycombinator.com/item?id=31051627"
+    ],
+    [
+      "Bristle (YC W21) is hiring engineers to prevent gum disease and bad breath",
+      "https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722"
+    ]
+  ],
+  [
+    [
+      "2022-04-16, 11:41:04",
+      "https://news.ycombinator.com/item?id=31051540"
+    ],
+    [
+      "The Principles of Deep Learning Theory",
+      "https://arxiv.org/abs/2106.10165"
+    ]
+  ],
+  [
+    [
       "2022-04-16, 08:24:26",
       "https://news.ycombinator.com/item?id=31050650"
     ],
@@ -111,42 +151,12 @@
   ],
   [
     [
-      "2022-04-15, 19:22:11",
-      "https://news.ycombinator.com/item?id=31044587"
-    ],
-    [
-      "DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results",
-      "https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 19:16:41",
       "https://news.ycombinator.com/item?id=31044510"
     ],
     [
       "The History of Franz and Lisp",
       "https://ieeexplore.ieee.org/document/9740557"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 18:53:38",
-      "https://news.ycombinator.com/item?id=31044211"
-    ],
-    [
-      "Two-qubit silicon quantum processor with operation fidelity exceeding 99%",
-      "https://www.science.org/doi/10.1126/sciadv.abn5130"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 18:23:03",
-      "https://news.ycombinator.com/item?id=31043766"
-    ],
-    [
-      "How to draw sub cutaways in MS Paint (2015)",
-      "http://www.hisutton.com/How%20to%20draw%20sub%20cutaways%20in%20MS%20Paint.html"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2022-04-15, 15:19:57",
-      "https://news.ycombinator.com/item?id=31041205"
-    ],
-    [
-      "Show HN: A small Hypercard stack running as a PWA",
-      "https://hypercardsimulator.com/Account/Coffee"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 14:22:41",
       "https://news.ycombinator.com/item?id=31040588"
     ],
     [
       "One-line drawings",
       "https://schollz.com/blog/one-line/"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 12:33:51",
-      "https://news.ycombinator.com/item?id=31039451"
-    ],
-    [
-      "Tax the Land",
-      "https://www.vox.com/policy-and-politics/22951092/land-tax-housing-crisis"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Attribution Stack: How to Make Budget Decisions in a Post-iOS14 World",
       "https://www.reforge.com/blog/marketing-attribution-stack-after-ios14"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 08:43:27",
+      "https://news.ycombinator.com/item?id=31024600"
+    ],
+    [
+      "Overengineered Japanese Mechanical Pencils [video]",
+      "https://www.youtube.com/watch?v=PESa3Du3udY"
     ]
   ]
 ]
