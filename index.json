@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-04-15, 23:11:48",
+      "https://news.ycombinator.com/item?id=31047082"
+    ],
+    [
+      "XHTTP: An HTTP server library in a single C file",
+      "https://github.com/cozis/xHTTP"
+    ]
+  ],
+  [
+    [
       "2022-04-15, 22:39:16",
       "https://news.ycombinator.com/item?id=31046791"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2022-04-15, 14:29:55",
-      "https://news.ycombinator.com/item?id=31040669"
-    ],
-    [
-      "The Colorado Safety Stop is the law of the land",
-      "https://www.bicyclecolorado.org/bike-news/colorado-safety-stop-becomes-law/"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 14:22:41",
       "https://news.ycombinator.com/item?id=31040588"
     ],
     [
       "One-line drawings",
       "https://schollz.com/blog/one-line/"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 14:21:16",
-      "https://news.ycombinator.com/item?id=31040571"
-    ],
-    [
-      "Elliptic Curve Cryptography: A Basic Introduction",
-      "https://blog.boot.dev/cryptography/elliptic-curve-cryptography/"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2022-04-14, 11:40:41",
-      "https://news.ycombinator.com/item?id=31025547"
+      "2022-04-14, 14:30:42",
+      "https://news.ycombinator.com/item?id=31027532"
     ],
     [
-      "How to sign off an email. Epistolary etiquette for the 21st century",
-      "https://www.economist.com/business/2022/04/16/how-to-sign-off-an-email"
+      "On env Shebangs",
+      "https://scriptingosx.com/2022/04/on-env-shebangs/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Overengineered Japanese Mechanical Pencils [video]",
       "https://www.youtube.com/watch?v=PESa3Du3udY"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 07:44:41",
+      "https://news.ycombinator.com/item?id=31024333"
+    ],
+    [
+      "Clojure isn’t for me (2020)",
+      "https://swlkr.com/posts/clojure-isnt-for-me/"
     ]
   ],
   [
