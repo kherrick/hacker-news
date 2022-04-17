@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2022-04-17, 06:15:33",
+      "https://news.ycombinator.com/item?id=31058910"
+    ],
+    [
+      "Hello V-Lang",
+      "https://blog.hackersreboot.tech/hello-v-lang"
+    ]
+  ],
+  [
+    [
       "2022-04-17, 03:44:01",
       "https://news.ycombinator.com/item?id=31058283"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31037988"
     ],
     [
-      "Algorithms and Data Structures – Transition systems [pdf]",
+      "Algorithms and Data Structures – Transition systems (2004) [pdf]",
       "https://cs.au.dk/~gerth/dADS1-12/daimi-fn64.pdf"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Crossbeam – Tools for concurrent programming in Rust",
       "https://github.com/crossbeam-rs/crossbeam"
-    ]
-  ],
-  [
-    [
-      "2022-04-15, 08:56:01",
-      "https://news.ycombinator.com/item?id=31037944"
-    ],
-    [
-      "Dropbox Backup",
-      "https://blog.dropbox.com/topics/product/new-ways-to-do-more-with-digital-content"
     ]
   ],
   [
