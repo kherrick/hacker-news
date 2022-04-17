@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-04-17, 07:02:02",
-      "https://news.ycombinator.com/item?id=31059075"
-    ],
-    [
-      "Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)",
-      "https://raycast.com/careersttps://www.raycast.com/blog/why-we-pay-equal-salaries-wherever-you-work/"
-    ]
-  ],
-  [
-    [
       "2022-04-17, 06:22:52",
       "https://news.ycombinator.com/item?id=31058930"
     ],
@@ -157,6 +147,16 @@
     [
       "Operating Systems: CPU Scheduling",
       "https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-16, 15:51:27",
+      "https://news.ycombinator.com/item?id=31053274"
+    ],
+    [
+      "Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming",
+      "https://github.com/AlexEidt/Vidio"
     ]
   ],
   [
