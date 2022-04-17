@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31057464"
     ],
     [
-      "Sorry, collectibles are terrible investments",
+      "Collectibles are terrible investments",
       "https://fullstackeconomics.com/sorry-collectibles-are-terrible-investments/"
     ]
   ],
@@ -67,6 +67,16 @@
     [
       "The 'Batman Effect': How having an alter ego empowers you",
       "https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-16, 20:01:14",
+      "https://news.ycombinator.com/item?id=31055611"
+    ],
+    [
+      "New Racket Build System",
+      "https://racket.discourse.group/t/new-build-system-pushed-to-git-repo/873"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Zig self hosted compiler is now capable of building itself",
       "https://github.com/ziglang/zig/pull/11442"
-    ]
-  ],
-  [
-    [
-      "2022-04-16, 11:41:04",
-      "https://news.ycombinator.com/item?id=31051540"
-    ],
-    [
-      "The Principles of Deep Learning Theory",
-      "https://arxiv.org/abs/2106.10165"
     ]
   ],
   [
