@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-04-17, 02:17:35",
+      "https://news.ycombinator.com/item?id=31057873"
+    ],
+    [
+      "The u-root CPU command",
+      "http://book.linuxboot.org/cpu/"
+    ]
+  ],
+  [
+    [
       "2022-04-17, 01:26:17",
       "https://news.ycombinator.com/item?id=31057615"
     ],
@@ -287,16 +297,6 @@
     [
       "My mate is making a tool for DnD players to quickly visualise scenarios",
       "https://doodlegrid.com"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 08:26:43",
-      "https://news.ycombinator.com/item?id=31024514"
-    ],
-    [
-      "Transitional Architecture",
-      "https://martinfowler.com/articles/patterns-legacy-displacement/transitional-architecture.html"
     ]
   ]
 ]
