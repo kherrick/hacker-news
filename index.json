@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-17, 01:26:17",
+      "https://news.ycombinator.com/item?id=31057615"
+    ],
+    [
+      "The Freedom Phone is not great at privacy",
+      "https://mjg59.dreamwidth.org/59479.html"
+    ]
+  ],
+  [
+    [
       "2022-04-17, 00:55:24",
       "https://news.ycombinator.com/item?id=31057464"
     ],
@@ -97,16 +107,6 @@
     [
       "Using SBCL Common Lisp as a Dynamic Library",
       "https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-16, 17:54:43",
-      "https://news.ycombinator.com/item?id=31054432"
-    ],
-    [
-      "Virginia police routinely use secret GPS pings to track people’s cell phones",
-      "https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-04-15, 22:27:10",
-      "https://news.ycombinator.com/item?id=31046675"
-    ],
-    [
-      "Vectorflow: Minimalist neural network library faster than TensorFlow in D",
-      "https://github.com/Netflix/vectorflow"
-    ]
-  ],
-  [
-    [
       "2022-04-15, 17:41:12",
       "https://news.ycombinator.com/item?id=31043179"
     ],
@@ -277,6 +267,16 @@
     [
       "SUSE Linux Enterprise Opens Its Development Model to the Public",
       "https://linuxiac.com/suse-linux-enterprise-alp/"
+    ]
+  ],
+  [
+    [
+      "2022-04-15, 09:00:26",
+      "https://news.ycombinator.com/item?id=31037971"
+    ],
+    [
+      "Crossbeam – Tools for concurrent programming in Rust",
+      "https://github.com/crossbeam-rs/crossbeam"
     ]
   ],
   [
