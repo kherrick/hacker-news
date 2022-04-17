@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-04-16, 17:00:57",
-      "https://news.ycombinator.com/item?id=31053959"
-    ],
-    [
-      "Ribbon (YC S17) is hiring a Director of Engineering to help simplify healthcare",
-      "https://www.ribbonhealth.com/open-roles/?gh_jid=4153956004"
-    ]
-  ],
-  [
-    [
       "2022-04-16, 16:34:49",
       "https://news.ycombinator.com/item?id=31053734"
     ],
@@ -297,6 +287,16 @@
     [
       "My mate is making a tool for DnD players to quickly visualise scenarios",
       "https://doodlegrid.com"
+    ]
+  ],
+  [
+    [
+      "2022-04-14, 08:26:43",
+      "https://news.ycombinator.com/item?id=31024514"
+    ],
+    [
+      "Transitional Architecture",
+      "https://martinfowler.com/articles/patterns-legacy-displacement/transitional-architecture.html"
     ]
   ]
 ]
