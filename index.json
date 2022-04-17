@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-17, 04:57:48",
+      "https://news.ycombinator.com/item?id=31058636"
+    ],
+    [
+      "The chicken you are eating has increased 364% in size over the last 50 years",
+      "https://twitter.com/MrSollozzo/status/1515324097223225345"
+    ]
+  ],
+  [
+    [
       "2022-04-17, 03:44:01",
       "https://news.ycombinator.com/item?id=31058283"
     ],
@@ -127,16 +137,6 @@
     [
       "Operating Systems: CPU Scheduling",
       "https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-16, 15:51:27",
-      "https://news.ycombinator.com/item?id=31053274"
-    ],
-    [
-      "Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming",
-      "https://github.com/AlexEidt/Vidio"
     ]
   ],
   [
