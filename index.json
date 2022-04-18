@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-04-18, 13:18:03",
+      "https://news.ycombinator.com/item?id=31070141"
+    ],
+    [
+      "Americans Are Drowning in Spam",
+      "https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 12:32:08",
+      "https://news.ycombinator.com/item?id=31069795"
+    ],
+    [
+      "Toyota Warns About Rushing into Electrification",
+      "https://www.motorious.com/articles/news/toyota-warns-about-rushing-electrification/"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 12:31:53",
+      "https://news.ycombinator.com/item?id=31069791"
+    ],
+    [
+      "Infowars files for bankruptcy",
+      "https://www.cbsnews.com/news/alex-jones-infowars-bankruptcy-filing-defamation-suits-sandy-hook-massacre/"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 12:06:28",
+      "https://news.ycombinator.com/item?id=31069604"
+    ],
+    [
+      "Seize the Means of Computation",
+      "https://www.promarket.org/2022/04/15/seize-the-means-of-computation/"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 12:00:39",
       "https://news.ycombinator.com/item?id=31069571"
     ],
     [
       "QuestDB (YC S20) Is Hiring a Cloud Engineer (K8s, Argocd, Terraform))",
       "https://questdb.io/careers/senior-cloud-engineer/"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 11:54:19",
-      "https://news.ycombinator.com/item?id=31069534"
-    ],
-    [
-      "The rise and fall of crypto culture",
-      "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9"
     ]
   ],
   [
@@ -31,12 +61,32 @@
   ],
   [
     [
+      "2022-04-18, 11:31:08",
+      "https://news.ycombinator.com/item?id=31069390"
+    ],
+    [
+      "InfoWars files for bankruptcy in U.S. court",
+      "https://www.reuters.com/business/media-telecom/alex-jones-infowars-files-bankruptcy-us-court-2022-04-18/"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 10:04:34",
       "https://news.ycombinator.com/item?id=31068985"
     ],
     [
       "Security experts declare all Proton apps secure after security audit",
       "https://protonmail.com/blog/security-audit-all-proton-apps/"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 10:01:00",
+      "https://news.ycombinator.com/item?id=31068966"
+    ],
+    [
+      "The chicken you are eating has increased 364% in size over the last 50 years",
+      "https://twitter.com/mrsollozzo/status/1515324097223225345"
     ]
   ],
   [
@@ -171,26 +221,6 @@
   ],
   [
     [
-      "2022-04-17, 20:55:07",
-      "https://news.ycombinator.com/item?id=31064423"
-    ],
-    [
-      "Show HN: \"q\", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH",
-      "https://github.com/natesales/q"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 20:55:05",
-      "https://news.ycombinator.com/item?id=31064421"
-    ],
-    [
-      "The New Old Way of Learning Languages (2008)",
-      "https://theamericanscholar.org/the-new-old-way-of-learning-languages/"
-    ]
-  ],
-  [
-    [
       "2022-04-17, 20:19:58",
       "https://news.ycombinator.com/item?id=31064080"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2022-04-17, 18:01:05",
-      "https://news.ycombinator.com/item?id=31062799"
+      "2022-04-17, 12:23:43",
+      "https://news.ycombinator.com/item?id=31060362"
     ],
     [
-      "Ask HN: Internet magically gets faster when opening speedtest?",
-      "https://news.ycombinator.com/item?id=31062799"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 17:00:06",
-      "https://news.ycombinator.com/item?id=31062301"
-    ],
-    [
-      "Run end-to-end tests faster with Firecracker",
-      "https://webapp.io/blog/github-actions-10x-faster-with-firecracker/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 16:52:39",
-      "https://news.ycombinator.com/item?id=31062237"
-    ],
-    [
-      "Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi",
-      "https://github.com/probonopd/MiniDexed"
+      "How to write more clearly, think more clearly, and learn complex material [pdf]",
+      "http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ancient tombs and statues unearthed beneath Notre Dame Cathedral",
       "https://www.theguardian.com/world/2022/apr/14/ancient-tombs-statues-notre-dame-cathedral-archaeological-dig"
-    ]
-  ],
-  [
-    [
-      "2022-04-14, 22:08:20",
-      "https://news.ycombinator.com/item?id=31033936"
-    ],
-    [
-      "Archaeologists unearth ancient Sumerian riverboat in Iraq",
-      "https://arstechnica.com/science/2022/04/archaeologists-unearth-ancient-sumerian-riverboat-in-iraq/"
     ]
   ]
 ]
