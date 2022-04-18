@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-18, 16:51:44",
+      "https://news.ycombinator.com/item?id=31073266"
+    ],
+    [
+      "The Learjet era ends with a final delivery",
+      "https://www.flyingmag.com/the-learjet-era-ends-with-a-final-delivery/"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 16:44:42",
       "https://news.ycombinator.com/item?id=31073154"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2022-04-18, 16:43:45",
+      "https://news.ycombinator.com/item?id=31073145"
+    ],
+    [
+      "Where Linux's load average comes from in the kernel",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 16:30:21",
       "https://news.ycombinator.com/item?id=31072931"
     ],
     [
       "Ask HN: Why has DMCA Circumvention Prohibition not been repealed?",
       "https://news.ycombinator.com/item?id=31072931"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 16:27:55",
-      "https://news.ycombinator.com/item?id=31072884"
-    ],
-    [
-      "The American socialist worldview is just broken",
-      "https://noahpinion.substack.com/p/the-american-socialist-worldview"
     ]
   ],
   [
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2022-04-18, 15:59:11",
-      "https://news.ycombinator.com/item?id=31072465"
-    ],
-    [
-      "Ask HN: I burned out but I don't want to let my team down",
-      "https://news.ycombinator.com/item?id=31072465"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 15:43:38",
       "https://news.ycombinator.com/item?id=31072224"
     ],
     [
       "Google's Pathways Language Model and Chain-of-Thought",
       "https://vaclavkosar.com/ml/googles-pathways-language-model-and-chain-of-thought"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 15:42:03",
+      "https://news.ycombinator.com/item?id=31072202"
+    ],
+    [
+      "TurboTax’s fight against free tax filing",
+      "https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html"
     ]
   ],
   [
@@ -121,21 +131,11 @@
   ],
   [
     [
-      "2022-04-18, 14:44:26",
-      "https://news.ycombinator.com/item?id=31071326"
-    ],
-    [
-      "North Korea Diversifies into Ethereum via Record Crypto Hack",
-      "https://www.thismorningonchain.com/articles/defi/north-korea-diversifies-crypto-portfolio-via-largest-crypto-hack/"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 14:16:12",
       "https://news.ycombinator.com/item?id=31070914"
     ],
     [
-      "When You Get Locked Out of Your Google Account, What Do You Do? (2021)",
+      "When you get locked out of your Google account, what do you do? (2021)",
       "https://www.linkedin.com/pulse/when-you-get-locked-out-your-google-account-what-do-desirea-calvillo"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "No one knows why the most used spacecraft propulsion system works",
       "https://twitter.com/lougrims/status/1516013489722216450"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 13:56:23",
-      "https://news.ycombinator.com/item?id=31070624"
-    ],
-    [
-      "Simple Sabotage Field Manual",
-      "https://www.openculture.com/2015/12/simple-sabotage-field-manual.html"
     ]
   ],
   [
@@ -181,11 +171,31 @@
   ],
   [
     [
+      "2022-04-18, 12:21:13",
+      "https://news.ycombinator.com/item?id=31069715"
+    ],
+    [
+      "Can synthetic data help train your AI model?",
+      "https://www.theregister.com/2022/04/18/fake_ai_data/"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 12:06:28",
+      "https://news.ycombinator.com/item?id=31069604"
+    ],
+    [
+      "Subvert network effects and encourage adversarial interoperability",
+      "https://www.promarket.org/2022/04/15/seize-the-means-of-computation/"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 11:36:03",
       "https://news.ycombinator.com/item?id=31069422"
     ],
     [
-      "Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru",
+      "CatalanGate: Spyware operation against Catalans using Pegasus and Candiru",
       "https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/"
     ]
   ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2022-04-18, 01:54:15",
-      "https://news.ycombinator.com/item?id=31066478"
+      "2022-04-17, 12:23:50",
+      "https://news.ycombinator.com/item?id=31060363"
     ],
     [
-      "Cytopia: Open-source city simulator with pixel-art graphics",
-      "https://github.com/CytopiaTeam/Cytopia"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 22:34:08",
-      "https://news.ycombinator.com/item?id=31065143"
-    ],
-    [
-      "The best engineering interview question I've ever gotten",
-      "https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"
+      "How to code, build, and deploy from an iPad using Gitlab and Gitpod",
+      "https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/"
     ]
   ],
   [
