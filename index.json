@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-04-18, 20:04:43",
-      "https://news.ycombinator.com/item?id=31075753"
+      "2022-04-18, 20:27:31",
+      "https://news.ycombinator.com/item?id=31076036"
     ],
     [
-      "Why Biology Is Not Destiny",
-      "https://www.nybooks.com/articles/2022/04/21/why-biology-is-not-destiny-genetic-lottery-kathryn-harden/"
+      "Smartphones are shit: the case for LineageOS and the PinePhone",
+      "https://jleightcap.srht.site/blog/openphone.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 20:25:49",
+      "https://news.ycombinator.com/item?id=31076009"
+    ],
+    [
+      "CVE-2022-1271: arbitrary file write vulnerability in GNU gzip's zgrep utility",
+      "https://access.redhat.com/security/cve/cve-2022-1271"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 19:49:57",
+      "https://news.ycombinator.com/item?id=31075558"
+    ],
+    [
+      "UAE Suspected of Hacking UK Prime Minister's Office (+FCO) with Pegasus Spyware",
+      "https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "The Lezer Parser System",
       "https://lezer.codemirror.net"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 17:24:32",
-      "https://news.ycombinator.com/item?id=31073754"
-    ],
-    [
-      "Ask HN: How does Apple achieve both secrecy and quality for a release?",
-      "https://news.ycombinator.com/item?id=31073754"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How to code, build, and deploy from an iPad using Gitlab and Gitpod",
       "https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 11:49:22",
-      "https://news.ycombinator.com/item?id=31060210"
-    ],
-    [
-      "A New Golden Age for Computer Architecture (2020) [video]",
-      "https://www.youtube.com/watch?v=kFT54hO1X8M"
     ]
   ],
   [
