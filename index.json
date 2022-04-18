@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-04-18, 11:52:03",
-      "https://news.ycombinator.com/item?id=31069521"
-    ],
-    [
-      "Can We Build Less Biased Medical Bots?",
-      "https://reasonstobecheerful.world/can-we-build-less-biased-medical-bots/"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 11:36:03",
       "https://news.ycombinator.com/item?id=31069422"
     ],
@@ -147,6 +137,16 @@
     [
       "Security experts declare all Proton apps secure after security audit",
       "https://protonmail.com/blog/security-audit-all-proton-apps/"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 09:51:44",
+      "https://news.ycombinator.com/item?id=31068919"
+    ],
+    [
+      "Nexe: Create a single executable out of your Node.js apps",
+      "https://github.com/nexe/nexe"
     ]
   ],
   [
