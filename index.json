@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-04-18, 21:01:42",
-      "https://news.ycombinator.com/item?id=31076495"
-    ],
-    [
-      "Why the Arrest of a Lebanese Doctor Should Terrify Every Visitor to the UAE",
-      "https://insidearabia.com/why-the-arrest-of-a-lebanese-doctor-should-terrify-every-visitor-to-the-uae/"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 21:01:07",
       "https://news.ycombinator.com/item?id=31076487"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31076009"
     ],
     [
-      "CVE-2022-1271: arbitrary file write vulnerability in GNU gzip's zgrep utility",
+      "Arbitrary file write vulnerability in GNU gzip's zgrep utility",
       "https://access.redhat.com/security/cve/cve-2022-1271"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "Ask HN: What Happened to Lambda-the-Ultimate.org?",
       "https://news.ycombinator.com/item?id=31073922"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 17:27:56",
+      "https://news.ycombinator.com/item?id=31073800"
+    ],
+    [
+      "The Lezer Parser System",
+      "https://lezer.codemirror.net"
     ]
   ],
   [
