@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-18, 17:37:06",
+      "https://news.ycombinator.com/item?id=31073922"
+    ],
+    [
+      "Ask HN: What Happened to Lambda-the-Ultimate.org?",
+      "https://news.ycombinator.com/item?id=31073922"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 17:27:56",
       "https://news.ycombinator.com/item?id=31073800"
     ],
     [
       "The Lezer Parser System",
       "https://lezer.codemirror.net"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 17:24:32",
+      "https://news.ycombinator.com/item?id=31073754"
+    ],
+    [
+      "How does Apple achieve both secrecy and quality for a release?",
+      "https://news.ycombinator.com/item?id=31073754"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-04-18, 13:18:03",
-      "https://news.ycombinator.com/item?id=31070141"
-    ],
-    [
-      "Americans are drowning in spam",
-      "https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 12:21:13",
       "https://news.ycombinator.com/item?id=31069715"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-04-18, 08:59:22",
-      "https://news.ycombinator.com/item?id=31068659"
-    ],
-    [
-      "Space Math",
-      "https://aimath.org/~farmer/spacemath/"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 08:20:21",
       "https://news.ycombinator.com/item?id=31068479"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-04-18, 07:54:31",
-      "https://news.ycombinator.com/item?id=31068374"
-    ],
-    [
-      "The 1936-1937 Purge of Soviet Astronomers (1991)",
-      "https://www.jstor.org/stable/2500602"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 02:05:38",
       "https://news.ycombinator.com/item?id=31066534"
     ],
     [
       "Twitter takeover battle: Elon Musk and Jack Dorsey turn up pressure on board",
       "https://www.forbes.com/sites/abrambrown/2022/04/17/twitter-takeover-musk-dorsey-board-tweets/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 23:00:16",
+      "https://news.ycombinator.com/item?id=31065361"
+    ],
+    [
+      "Castor: A C++ library to code “à la Matlab”",
+      "https://github.com/leprojetcastor/castor"
     ]
   ],
   [
