@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-19, 15:19:09",
+      "https://news.ycombinator.com/item?id=31084312"
+    ],
+    [
+      "How DALL-E 2 Works",
+      "https://www.assemblyai.com/blog/how-dall-e-2-actually-works/"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 15:15:05",
+      "https://news.ycombinator.com/item?id=31084264"
+    ],
+    [
+      "Ajax Battle: XMLHttpRequest vs. the Fetch API",
+      "https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api/"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 15:07:10",
       "https://news.ycombinator.com/item?id=31084147"
     ],
@@ -17,6 +37,16 @@
     [
       "Cheat Engine contains GPL-licensed code but disallows commercial use",
       "https://github.com/cheat-engine/cheat-engine/pull/1872"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 14:50:31",
+      "https://news.ycombinator.com/item?id=31083921"
+    ],
+    [
+      "All IoT devices Bricked after Insteon shuts down",
+      "https://twitter.com/doctorow/status/1516144514984923139"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-04-18, 19:49:57",
-      "https://news.ycombinator.com/item?id=31075558"
-    ],
-    [
-      "UK Government Officials Infected with Pegasus",
-      "https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 16:00:09",
       "https://news.ycombinator.com/item?id=31072485"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-04-17, 20:01:49",
-      "https://news.ycombinator.com/item?id=31063913"
-    ],
-    [
-      "Pulsating Panorama of a Complex Decade",
-      "https://thecritic.co.uk/issues/april-2022/pulsating-panorama-of-a-complex-decade/"
-    ]
-  ],
-  [
-    [
       "2022-04-17, 14:52:55",
       "https://news.ycombinator.com/item?id=31061249"
     ],
@@ -277,16 +287,6 @@
     [
       "Rewriting Sysctl(8) in Rust: Systeroid",
       "https://blog.orhun.dev/rewriting-sysctl-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 12:26:27",
-      "https://news.ycombinator.com/item?id=31060377"
-    ],
-    [
-      "LED mounted in a contact lens for possible VR/AR displays (2011)",
-      "https://benkrasnow.blogspot.com/2011/12/led-mounted-in-contact-lens-for.html"
     ]
   ],
   [
