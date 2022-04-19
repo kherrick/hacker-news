@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-19, 13:19:07",
+      "https://news.ycombinator.com/item?id=31082687"
+    ],
+    [
+      "Everyone gets numbers wrong, even the New York Times",
+      "https://climateer.substack.com/p/numbers"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 12:23:16",
+      "https://news.ycombinator.com/item?id=31082144"
+    ],
+    [
+      "California considers a shortened, 32-hour workweek for larger companies",
+      "https://www.cnbc.com/2022/04/12/california-considers-a-32-hour-workweek-for-larger-companies.html"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 12:10:15",
       "https://news.ycombinator.com/item?id=31082046"
     ],
@@ -45,8 +65,18 @@
       "https://news.ycombinator.com/item?id=31081312"
     ],
     [
-      "Japan invents ‘electric’ chopsticks that make food seem more salty",
+      "Researchers have developed chopsticks that artificially create the taste of salt",
       "https://www.theguardian.com/world/2022/apr/19/saline-solution-japan-invents-electric-chopsticks-that-make-food-seem-more-salty"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 09:57:58",
+      "https://news.ycombinator.com/item?id=31081272"
+    ],
+    [
+      "Yandex Open-Sources YDB",
+      "https://ydb.tech"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-04-19, 07:06:39",
-      "https://news.ycombinator.com/item?id=31080379"
-    ],
-    [
-      "Dilution of whisky – the molecular perspective (2017)",
-      "https://www.nature.com/articles/s41598-017-06423-5"
-    ]
-  ],
-  [
-    [
       "2022-04-19, 02:34:00",
       "https://news.ycombinator.com/item?id=31079253"
     ],
@@ -141,42 +161,12 @@
   ],
   [
     [
-      "2022-04-18, 21:49:18",
-      "https://news.ycombinator.com/item?id=31077047"
+      "2022-04-18, 23:57:53",
+      "https://news.ycombinator.com/item?id=31078244"
     ],
     [
-      "Introducing a16z START",
-      "https://a16z.com/2022/04/18/introducing-a6z-start/"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 21:34:23",
-      "https://news.ycombinator.com/item?id=31076886"
-    ],
-    [
-      "SDF Public Access Unix System",
-      "https://sdf.org"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 20:27:31",
-      "https://news.ycombinator.com/item?id=31076036"
-    ],
-    [
-      "The case for LineageOS and the PinePhone",
-      "https://jleightcap.srht.site/blog/openphone.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 20:25:49",
-      "https://news.ycombinator.com/item?id=31076009"
-    ],
-    [
-      "Arbitrary file write vulnerability in GNU gzip's zgrep utility",
-      "https://access.redhat.com/security/cve/cve-2022-1271"
+      "Opinion: Another species of hominin may still be alive",
+      "https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2022-04-18, 19:37:55",
-      "https://news.ycombinator.com/item?id=31075396"
+      "2022-04-18, 16:07:12",
+      "https://news.ycombinator.com/item?id=31072590"
     ],
     [
-      "Web scraping is legal, US appeals court reaffirms",
-      "https://techcrunch.com/2022/04/18/web-scraping-legal-court/"
+      "James Webb telescope's coldest instrument reaches operating temperature",
+      "https://phys.org/news/2022-04-james-webb-telescope-coldest-instrument.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Scallop: A Neurosymbolic Programming Language",
       "https://scallop-lang.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 11:05:20",
+      "https://news.ycombinator.com/item?id=31060005"
+    ],
+    [
+      "Social animals seek power in surprisingly complex ways",
+      "https://www.scientificamerican.com/article/social-animals-seek-power-in-surprisingly-complex-ways/"
     ]
   ]
 ]
