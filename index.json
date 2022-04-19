@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-04-19, 10:52:32",
+      "https://news.ycombinator.com/item?id=31081529"
+    ],
+    [
+      "Lowering sodium intake doesn’t help heart patients",
+      "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00369-5/fulltext"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 10:29:24",
       "https://news.ycombinator.com/item?id=31081417"
     ],
@@ -97,6 +107,16 @@
     [
       "Increasing the Rate of Experimentation",
       "https://arkid.substack.com/p/increasing-rate-of-experimentation"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 09:47:36",
+      "https://news.ycombinator.com/item?id=31081227"
+    ],
+    [
+      "ESP32 SSH Server – Connect to Tx/Rx Pins on ESP32 UART via Remote SSH",
+      "https://github.com/gojimmypi/wolfssh/tree/ESP32_Development/examples/ESP32-SSH-Server"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-04-18, 16:07:12",
-      "https://news.ycombinator.com/item?id=31072590"
-    ],
-    [
-      "James Webb telescope's coldest instrument reaches operating temperature",
-      "https://phys.org/news/2022-04-james-webb-telescope-coldest-instrument.html"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 16:00:09",
       "https://news.ycombinator.com/item?id=31072485"
     ],
@@ -257,16 +267,6 @@
     [
       "Rewriting Sysctl(8) in Rust: Systeroid",
       "https://blog.orhun.dev/rewriting-sysctl-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 12:58:27",
-      "https://news.ycombinator.com/item?id=31060526"
-    ],
-    [
-      "3M tape with anisotropic z-axis electrical conductivity",
-      "https://www.3m.com/3M/en_US/p/d/b10167835/"
     ]
   ],
   [
