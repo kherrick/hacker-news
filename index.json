@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-19, 02:34:00",
+      "https://news.ycombinator.com/item?id=31079253"
+    ],
+    [
+      "Debian & Firmware – what are we going to do about it?",
+      "https://blog.einval.com/2022/04/19#firmware-what-do-we-do"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 00:58:36",
       "https://news.ycombinator.com/item?id=31078663"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31078244"
     ],
     [
-      "Another species of hominin may still be alive",
+      "Opinion: Another species of hominin may still be alive",
       "https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31077070"
     ],
     [
-      "As Lithium Drilling Advances at the Salton Sea, Researchers Work Out the Details",
+      "Lithium drilling advances at the Salton Sea",
       "https://www.kcet.org/news-community/as-lithium-drilling-advances-at-the-salton-sea-researchers-work-out-the-details"
     ]
   ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2022-04-18, 20:27:31",
-      "https://news.ycombinator.com/item?id=31076036"
+      "2022-04-18, 20:52:38",
+      "https://news.ycombinator.com/item?id=31076381"
     ],
     [
-      "The case for LineageOS and the PinePhone",
-      "https://jleightcap.srht.site/blog/openphone.html"
+      "Synchronous Processors (2016)",
+      "https://www.yodaiken.com/2016/05/11/synchronous-processors/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "UK Government Officials Infected with Pegasus",
       "https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 19:46:21",
-      "https://news.ycombinator.com/item?id=31075505"
-    ],
-    [
-      "Mastodon for Android app is officially released",
-      "https://play.google.com/store/apps/details?id=org.joinmastodon.android&hl=en_US&gl=US"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-04-18, 15:42:03",
-      "https://news.ycombinator.com/item?id=31072202"
-    ],
-    [
-      "TurboTax’s fight against free tax filing",
-      "https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 15:41:59",
       "https://news.ycombinator.com/item?id=31072198"
     ],
@@ -257,6 +247,16 @@
     [
       "Hard truths about scaling data intensive applications",
       "https://aiven.io/blog/5-hard-truths-about-scaling-data-intensive-applications"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 19:53:56",
+      "https://news.ycombinator.com/item?id=31063850"
+    ],
+    [
+      "Mousai: Identify Songs",
+      "https://github.com/SeaDve/Mousai"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31060005"
     ],
     [
-      "Social Animals Seek Power in Surprisingly Complex Ways",
+      "Social animals seek power in surprisingly complex ways",
       "https://www.scientificamerican.com/article/social-animals-seek-power-in-surprisingly-complex-ways/"
     ]
   ]
