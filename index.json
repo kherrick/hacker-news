@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-04-19, 15:50:33",
-      "https://news.ycombinator.com/item?id=31084779"
-    ],
-    [
-      "Hathora: Multiplayer Made Easy",
-      "https://blog.hathora.dev/introducing-hathora/"
-    ]
-  ],
-  [
-    [
       "2022-04-19, 15:25:31",
       "https://news.ycombinator.com/item?id=31084401"
     ],
@@ -127,16 +117,6 @@
     [
       "Netlify Edge Functions: A new serverless runtime powered by Deno",
       "https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 15:15:05",
-      "https://news.ycombinator.com/item?id=31084264"
-    ],
-    [
-      "Ajax Battle: XMLHttpRequest vs. the Fetch API",
-      "https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api/"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2022-04-19, 01:45:35",
+      "https://news.ycombinator.com/item?id=31078969"
+    ],
+    [
+      "The x86 architecture is the weirdo (2004)",
+      "https://devblogs.microsoft.com/oldnewthing/20040914-00/?p=37873"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 08:53:27",
       "https://news.ycombinator.com/item?id=31068635"
     ],
     [
       "Processing Audio with the RP2040",
       "https://hackaday.com/2022/04/17/processing-audio-with-the-rp2040/"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 08:42:19",
+      "https://news.ycombinator.com/item?id=31068580"
+    ],
+    [
+      "Team Metrics in Depth",
+      "https://leanagileintelligenceservices.com/blog-original/team-metrics-in-depth"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-04-17, 14:52:55",
-      "https://news.ycombinator.com/item?id=31061249"
+      "2022-04-17, 18:02:33",
+      "https://news.ycombinator.com/item?id=31062815"
     ],
     [
-      "Commodore 64 – We Are Stardust",
-      "https://megastyle.itch.io/we-are-stardust"
+      "Show HN: Employees.fyi – Easily compare U.S. workforce demographic data",
+      "https://employees.fyi"
     ]
   ]
 ]
