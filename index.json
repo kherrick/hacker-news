@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-19, 07:00:48",
+      "https://news.ycombinator.com/item?id=31080344"
+    ],
+    [
+      "UserGems (YC S14) Is Hiring a VP of Engineering (Europe / East Coast)",
+      "https://www.usergems.com/careers/vp-of-engineering"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 03:43:47",
       "https://news.ycombinator.com/item?id=31079574"
     ],
@@ -67,16 +77,6 @@
     [
       "SDF Public Access Unix System",
       "https://sdf.org"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 21:01:07",
-      "https://news.ycombinator.com/item?id=31076487"
-    ],
-    [
-      "Motion (YC W20) Is Hiring Full Stack Engineers",
-      "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-04-18, 16:23:10",
-      "https://news.ycombinator.com/item?id=31072816"
-    ],
-    [
-      "SVG passthrough precision",
-      "https://bjango.com/articles/svgpassthroughprecision/"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 16:07:12",
       "https://news.ycombinator.com/item?id=31072590"
     ],
@@ -247,6 +237,16 @@
     [
       "The Missing Kubernetes Type System",
       "https://danielmangum.com/posts/the-missing-kubernetes-type-system/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 16:39:04",
+      "https://news.ycombinator.com/item?id=31062107"
+    ],
+    [
+      "The State of Zero Trust Security [pdf]",
+      "https://www.okta.com/sites/default/files/2021-07/WPR-2021-ZeroTrust-070821.pdf"
     ]
   ],
   [
