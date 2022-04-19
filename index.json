@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-19, 12:10:15",
+      "https://news.ycombinator.com/item?id=31082046"
+    ],
+    [
+      "The tank is dead: Long live the javelin, the switchblade, the ... ?",
+      "https://warontherocks.com/2022/04/the-tank-is-dead-long-live-the-javelin-the-switchblade-the/"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 12:01:12",
       "https://news.ycombinator.com/item?id=31081990"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31081261"
     ],
     [
-      "Persuasion and the Prestige Paradox",
+      "Persuasion and the Prestige Paradox (2021)",
       "https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Increasing the Rate of Experimentation",
       "https://arkid.substack.com/p/increasing-rate-of-experimentation"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 09:15:00",
+      "https://news.ycombinator.com/item?id=31081049"
+    ],
+    [
+      "A blog that is a single executable binary",
+      "https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Nixery – Docker images on the fly with Nix",
       "https://nixery.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 23:57:53",
-      "https://news.ycombinator.com/item?id=31078244"
-    ],
-    [
-      "Opinion: Another species of hominin may still be alive",
-      "https://www.the-scientist.com/magazine-issue/opinion-another-species-of-hominin-may-still-be-alive-69869"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2022-04-17, 20:01:49",
+      "https://news.ycombinator.com/item?id=31063913"
+    ],
+    [
+      "Pulsating Panorama of a Complex Decade",
+      "https://thecritic.co.uk/issues/april-2022/pulsating-panorama-of-a-complex-decade/"
+    ]
+  ],
+  [
+    [
       "2022-04-17, 17:08:41",
       "https://news.ycombinator.com/item?id=31062370"
     ],
@@ -225,7 +245,7 @@
       "https://news.ycombinator.com/item?id=31062107"
     ],
     [
-      "The State of Zero Trust Security [pdf]",
+      "The State of Zero Trust Security (2021) [pdf]",
       "https://www.okta.com/sites/default/files/2021-07/WPR-2021-ZeroTrust-070821.pdf"
     ]
   ],
@@ -237,16 +257,6 @@
     [
       "“Long term support” Unixes and versions of software in them",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/LTSVersusSoftwareVersions"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 16:04:04",
-      "https://news.ycombinator.com/item?id=31061814"
-    ],
-    [
-      "Running macOS on the Amiga in the 80s",
-      "https://www.youtube.com/watch?v=8v4BaWwoyA0"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Scallop: A Neurosymbolic Programming Language",
       "https://scallop-lang.github.io/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 11:05:20",
-      "https://news.ycombinator.com/item?id=31060005"
-    ],
-    [
-      "Social animals seek power in surprisingly complex ways",
-      "https://www.scientificamerican.com/article/social-animals-seek-power-in-surprisingly-complex-ways/"
     ]
   ]
 ]
