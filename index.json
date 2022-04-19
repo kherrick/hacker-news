@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-19, 21:19:28",
+      "https://news.ycombinator.com/item?id=31089363"
+    ],
+    [
+      "Jepsen testing rqlite, the distributed database built on Raft and SQLite",
+      "https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 21:00:52",
       "https://news.ycombinator.com/item?id=31089071"
     ],
@@ -107,16 +117,6 @@
     [
       "There’s more to mathematics than rigour and proofs (2007)",
       "https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 17:46:20",
-      "https://news.ycombinator.com/item?id=31086363"
-    ],
-    [
-      "Writing McCLIM backends – SVG case study",
-      "http://turtleware.eu/posts/McCLIM-backends---Part-2-Stream-Output-Protocol.html"
     ]
   ],
   [
