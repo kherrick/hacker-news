@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-04-18, 16:07:12",
-      "https://news.ycombinator.com/item?id=31072590"
-    ],
-    [
-      "James Webb telescope's coldest instrument reaches operating temperature",
-      "https://phys.org/news/2022-04-james-webb-telescope-coldest-instrument.html"
-    ]
-  ],
-  [
-    [
       "2022-04-18, 16:00:09",
       "https://news.ycombinator.com/item?id=31072485"
     ],
@@ -267,6 +257,16 @@
     [
       "“Long term support” Unixes and versions of software in them",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/LTSVersusSoftwareVersions"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 14:11:52",
+      "https://news.ycombinator.com/item?id=31060939"
+    ],
+    [
+      "Rewriting Sysctl(8) in Rust: Systeroid",
+      "https://blog.orhun.dev/rewriting-sysctl-in-rust/"
     ]
   ],
   [
