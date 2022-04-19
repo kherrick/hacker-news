@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-19, 07:06:39",
+      "https://news.ycombinator.com/item?id=31080379"
+    ],
+    [
+      "Dilution of whisky – the molecular perspective (2017)",
+      "https://www.nature.com/articles/s41598-017-06423-5"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 07:00:48",
       "https://news.ycombinator.com/item?id=31080344"
     ],
@@ -97,16 +107,6 @@
     [
       "Arbitrary file write vulnerability in GNU gzip's zgrep utility",
       "https://access.redhat.com/security/cve/cve-2022-1271"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 19:54:42",
-      "https://news.ycombinator.com/item?id=31075626"
-    ],
-    [
-      "Tri-County becomes the first electric co-op in Florida to tackle FTTH",
-      "https://www.fiercetelecom.com/broadband/tri-county-becomes-first-electric-co-op-florida-tackle-ftth"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-04-17, 17:45:48",
-      "https://news.ycombinator.com/item?id=31062666"
-    ],
-    [
-      "The Missing Kubernetes Type System",
-      "https://danielmangum.com/posts/the-missing-kubernetes-type-system/"
-    ]
-  ],
-  [
-    [
       "2022-04-17, 16:39:04",
       "https://news.ycombinator.com/item?id=31062107"
     ],
@@ -287,6 +277,16 @@
     [
       "3M tape with anisotropic z-axis electrical conductivity",
       "https://www.3m.com/3M/en_US/p/d/b10167835/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 11:58:50",
+      "https://news.ycombinator.com/item?id=31060265"
+    ],
+    [
+      "Scallop: A Neurosymbolic Programming Language",
+      "https://scallop-lang.github.io/"
     ]
   ],
   [
