@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-04-19, 18:49:04",
+      "https://news.ycombinator.com/item?id=31087248"
+    ],
+    [
+      "Ask HN: Which email app can be trusted with my data?",
+      "https://news.ycombinator.com/item?id=31087248"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 18:30:21",
       "https://news.ycombinator.com/item?id=31086970"
     ],
     [
-      "There’s more to mathematics than rigour and proofs",
+      "There’s more to mathematics than rigour and proofs (2007)",
       "https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/"
     ]
   ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=31086310"
     ],
     [
-      "Google Docs will “warn you away from inappropriate words”",
+      "Google Docs will “warn you away from inappropriate words”?",
       "https://twitter.com/pmarca/status/1516463416885399554"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 17:36:29",
+      "https://news.ycombinator.com/item?id=31086217"
+    ],
+    [
+      "WebAssembly 2.0 First Working Draft",
+      "https://www.w3.org/TR/wasm-core-2/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-04-19, 14:50:31",
-      "https://news.ycombinator.com/item?id=31083921"
-    ],
-    [
-      "All IoT devices Bricked after Insteon shuts down",
-      "https://twitter.com/doctorow/status/1516144514984923139"
-    ]
-  ],
-  [
-    [
       "2022-04-19, 14:20:56",
       "https://news.ycombinator.com/item?id=31083515"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=31083042"
     ],
     [
-      "Interactive Videos to Explain Quaternions",
+      "Visualizing quaternions: an explorable video series (2018)",
       "https://eater.net/quaternions"
     ]
   ],
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=31061249"
     ],
     [
-      "Commodore 64 – We Are Stardust [video]",
-      "https://www.youtube.com/watch?v=llXa9iBMlkE"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 14:11:52",
-      "https://news.ycombinator.com/item?id=31060939"
-    ],
-    [
-      "Rewriting Sysctl(8) in Rust: Systeroid",
-      "https://blog.orhun.dev/rewriting-sysctl-in-rust/"
+      "Commodore 64 – We Are Stardust",
+      "https://megastyle.itch.io/we-are-stardust"
     ]
   ],
   [
