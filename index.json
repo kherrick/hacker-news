@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31094479"
     ],
     [
-      "On Anti-Crypto Toxicity",
+      "On anti-crypto toxicity",
       "https://blog.mollywhite.net/anti-crypto-toxicity/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31094361"
     ],
     [
-      "Ask HN: What's a good laptop for software development in –$2000 range",
+      "Ask HN: What’s a good laptop for software development at around $2k",
       "https://news.ycombinator.com/item?id=31094361"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31093564"
     ],
     [
-      "QEMU Version 7.0.0 Released",
+      "QEMU 7.0",
       "https://www.qemu.org/2022/04/19/qemu-7-0-0/"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31093376"
     ],
     [
-      "Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery",
+      "Faster Geospatial Enrichment",
       "https://tech.marksblogg.com/faster-geospatial-enrichment.html"
     ]
   ],
@@ -141,36 +141,6 @@
   ],
   [
     [
-      "2022-04-19, 19:30:58",
-      "https://news.ycombinator.com/item?id=31087795"
-    ],
-    [
-      "The absurd complexity of server-side rendering",
-      "https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 19:26:26",
-      "https://news.ycombinator.com/item?id=31087726"
-    ],
-    [
-      "Minisleep – A Tiny Wiki Engine",
-      "http://halestrom.net/darksleep/software/minisleep/"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 19:13:57",
-      "https://news.ycombinator.com/item?id=31087533"
-    ],
-    [
-      "Bad but interesting mathematical notation idea",
-      "https://blog.plover.com/math/se/notation.html"
-    ]
-  ],
-  [
-    [
       "2022-04-19, 18:50:35",
       "https://news.ycombinator.com/item?id=31087262"
     ],
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2022-04-19, 17:36:29",
+      "https://news.ycombinator.com/item?id=31086217"
+    ],
+    [
+      "WebAssembly 2.0 First Working Draft",
+      "https://www.w3.org/TR/wasm-core-2/"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 17:24:54",
       "https://news.ycombinator.com/item?id=31086087"
     ],
@@ -207,6 +187,26 @@
     [
       "De-AMP: Cutting out Google and enhancing privacy",
       "https://brave.com/privacy-updates/18-de-amp/"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 14:15:23",
+      "https://news.ycombinator.com/item?id=31083432"
+    ],
+    [
+      "Show HN: Make your PDF look scanned in browser",
+      "https://lookscanned.io"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 13:52:15",
+      "https://news.ycombinator.com/item?id=31083093"
+    ],
+    [
+      "Show HN: I built a simulator for personal finance",
+      "https://projectionlab.com"
     ]
   ],
   [
