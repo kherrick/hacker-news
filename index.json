@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-04-20, 10:39:03",
-      "https://news.ycombinator.com/item?id=31094958"
-    ],
-    [
-      "Le Corbusier's project Plan Voisin – a radical urban design for Paris from 1925",
-      "https://www.clemensgritl.com/video"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 10:14:53",
       "https://news.ycombinator.com/item?id=31094773"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2022-04-19, 19:38:13",
-      "https://news.ycombinator.com/item?id=31087923"
-    ],
-    [
-      "Can you be sure to clear a line at Tetris?",
-      "https://a3nm.net/blog/adversarial_tetris.html"
-    ]
-  ],
-  [
-    [
       "2022-04-19, 18:43:03",
       "https://news.ycombinator.com/item?id=31087175"
     ],
@@ -297,6 +277,26 @@
     [
       "Shortwave radio: can you hear me now?",
       "https://mountainrunner.substack.com/p/shortwave-radio-can-you-hear-me-now"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 17:08:41",
+      "https://news.ycombinator.com/item?id=31062369"
+    ],
+    [
+      "The Early History of Smalltalk (1993)",
+      "http://worrydream.com/EarlyHistoryOfSmalltalk/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 14:51:23",
+      "https://news.ycombinator.com/item?id=31061232"
+    ],
+    [
+      "Septum: Context-based code search tool",
+      "https://github.com/pyjarrett/septum"
     ]
   ]
 ]
