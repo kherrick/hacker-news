@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-20, 19:54:19",
+      "https://news.ycombinator.com/item?id=31102089"
+    ],
+    [
+      "Memray is a memory profiler for Python by Bloomberg",
+      "https://github.com/bloomberg/memray"
+    ]
+  ],
+  [
+    [
       "2022-04-20, 19:18:38",
       "https://news.ycombinator.com/item?id=31101622"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2022-04-20, 19:04:29",
-      "https://news.ycombinator.com/item?id=31101449"
-    ],
-    [
-      "Linux on the Framework Laptop",
-      "https://frame.work/linux"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 18:50:22",
       "https://news.ycombinator.com/item?id=31101271"
     ],
@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2022-04-20, 18:34:09",
-      "https://news.ycombinator.com/item?id=31101082"
-    ],
-    [
-      "Guido van Rossum: Let Web3 die in a flaming ball of fire",
-      "https://twitter.com/gvanrossum/status/1508959260905918465"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 17:50:54",
       "https://news.ycombinator.com/item?id=31100521"
     ],
     [
-      "BCI lets completely “locked-in” man communicate with his son, ask for a beer",
+      "BCI lets completely “locked-in” man communicate",
       "https://arstechnica.com/science/2022/04/bci-lets-completely-locked-in-man-communicate-with-his-son-ask-for-a-beer/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31100023"
     ],
     [
-      "State Machine Replication, and Why You Should Care",
+      "State machine replication, and why you should care",
       "https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31099872"
     ],
     [
-      "Daily (YC W16) Is Hiring a Technical Product Marketing Manager",
+      "Daily (YC W16) is hiring a technical product marketing manager",
       "https://boards.greenhouse.io/daily/jobs/4356195004"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=31078006"
     ],
     [
-      "400k Lessons",
+      "A few concrete arguments for e-bikes",
       "https://www.tbray.org/ongoing/When/202x/2022/04/18/E-Bike"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 11:38:46",
+      "https://news.ycombinator.com/item?id=31069439"
+    ],
+    [
+      "As Creation Stories Go, the Big Bang Is a Good One",
+      "https://nautil.us/as-creation-stories-go-the-big-bang-is-a-good-one-16149/"
     ]
   ],
   [
