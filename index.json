@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-04-20, 12:10:09",
-      "https://news.ycombinator.com/item?id=31095709"
+      "2022-04-20, 13:07:21",
+      "https://news.ycombinator.com/item?id=31096301"
     ],
     [
-      "Ask HN: What gives Cloudflare the right to takedown apps revealing site real IP?",
-      "https://news.ycombinator.com/item?id=31095709"
+      "Marriage Markets (and Muscularity)",
+      "https://robkhenderson.substack.com/p/marriage-markets-and-muscularity"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 12:57:06",
+      "https://news.ycombinator.com/item?id=31096184"
+    ],
+    [
+      "Java 15 introduced a cryptographic vulnerability",
+      "https://www.itnews.com.au/news/java-15-introduced-a-cryptographic-vulnerability-578958"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Shortwave radio: can you hear me now?",
       "https://mountainrunner.substack.com/p/shortwave-radio-can-you-hear-me-now"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 12:26:05",
-      "https://news.ycombinator.com/item?id=31060376"
-    ],
-    [
-      "Chaff Bugs: Deterring Attackers by Making Software Buggier (2018)",
-      "https://arxiv.org/abs/1808.00659"
     ]
   ]
 ]
