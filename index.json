@@ -5,18 +5,18 @@
       "https://news.ycombinator.com/item?id=31102930"
     ],
     [
-      "Help Dover (YC S19) build the next-gen recruiting platform",
+      "Dover (YC S19) is hiring to build a next-gen recruiting platform",
       "https://www.dover.com/open-roles/software-engineer"
     ]
   ],
   [
     [
-      "2022-04-20, 20:19:01",
-      "https://news.ycombinator.com/item?id=31102418"
+      "2022-04-20, 19:58:54",
+      "https://news.ycombinator.com/item?id=31102152"
     ],
     [
-      "Show HN: PyInpaint, a lightweight image inpainting tool written in Python",
-      "https://github.com/aGIToz/PyInpaint"
+      "Ask HN: Why does this image look 3D?",
+      "https://news.ycombinator.com/item?id=31102152"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation",
       "https://github.com/NASA-SW-VnV/ikos"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 17:45:34",
-      "https://news.ycombinator.com/item?id=31100439"
-    ],
-    [
-      "Crypto bug of the year: ECDSA signatures broken in Java",
-      "https://twitter.com/tqbf/status/1516570590211153922"
     ]
   ],
   [
@@ -241,22 +231,32 @@
   ],
   [
     [
+      "2022-04-20, 08:18:30",
+      "https://news.ycombinator.com/item?id=31094130"
+    ],
+    [
+      "Ruby YJIT Ported to Rust",
+      "https://github.com/ruby/ruby/pull/5826"
+    ]
+  ],
+  [
+    [
+      "2022-04-19, 21:09:34",
+      "https://news.ycombinator.com/item?id=31089216"
+    ],
+    [
+      "Psychic Signatures in Java",
+      "https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 19:23:37",
       "https://news.ycombinator.com/item?id=31087676"
     ],
     [
       "Declared Extinct, the Yaghan Rise in the Land of Fire",
       "https://hakaimagazine.com/features/declared-dead-the-yaghan-rise-in-the-land-of-fire/"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 23:26:08",
-      "https://news.ycombinator.com/item?id=31078006"
-    ],
-    [
-      "A few concrete arguments for e-bikes",
-      "https://www.tbray.org/ongoing/When/202x/2022/04/18/E-Bike"
     ]
   ],
   [
