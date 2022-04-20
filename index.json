@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-04-20, 10:53:49",
-      "https://news.ycombinator.com/item?id=31095056"
+      "2022-04-20, 10:57:30",
+      "https://news.ycombinator.com/item?id=31095078"
     ],
     [
-      "That Time Sony Installed Rootkit Software on Hundreds of Thousands of Computers",
-      "https://www.youtube.com/watch?v=imMRzBzQm1U"
+      "Netflix hints at password sharing crackdown as subscribers fall",
+      "https://www.bbc.co.uk/news/business-61153252"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 10:14:53",
+      "https://news.ycombinator.com/item?id=31094773"
+    ],
+    [
+      "Uranus should be NASA’s top planetary target, influential report finds",
+      "https://www.science.org/content/article/uranus-should-be-nasa-s-top-planetary-target-influential-report-finds"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2022-04-19, 18:50:35",
-      "https://news.ycombinator.com/item?id=31087262"
+      "2022-04-19, 19:30:58",
+      "https://news.ycombinator.com/item?id=31087795"
     ],
     [
-      "Leaked Game Boy emulators for Switch were made by Nintendo, experts suggest",
-      "https://arstechnica.com/gaming/2022/04/leaked-game-boy-emulators-for-switch-were-made-by-nintendo-experts-suggest/"
+      "The absurd complexity of server-side rendering",
+      "https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "HackerRank (YC S11) DMCA'ed the SymPy Docs",
       "https://github.com/sympy/sympy_doc"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 17:36:29",
-      "https://news.ycombinator.com/item?id=31086217"
-    ],
-    [
-      "WebAssembly 2.0 First Working Draft",
-      "https://www.w3.org/TR/wasm-core-2/"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "De-AMP: Cutting out Google and enhancing privacy",
       "https://brave.com/privacy-updates/18-de-amp/"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 14:15:23",
-      "https://news.ycombinator.com/item?id=31083432"
-    ],
-    [
-      "Show HN: Make your PDF look scanned in browser",
-      "https://lookscanned.io"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Broadcom introduces Wi-Fi 7 chipset solutions",
       "https://linuxgizmos.com/broadcom-introduces-worlds-first-wi-fi-7-chipset-solutions/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 12:26:05",
+      "https://news.ycombinator.com/item?id=31060376"
+    ],
+    [
+      "Chaff Bugs: Deterring Attackers by Making Software Buggier (2018)",
+      "https://arxiv.org/abs/1808.00659"
     ]
   ]
 ]
