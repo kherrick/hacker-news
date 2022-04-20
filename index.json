@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-04-17, 20:30:49",
-      "https://news.ycombinator.com/item?id=31064172"
-    ],
-    [
-      "Predicting Startup Funding from Freely, Publicly Available Web Information",
-      "https://arxiv.org/abs/2204.06479"
-    ]
-  ],
-  [
-    [
       "2022-04-17, 19:33:22",
       "https://news.ycombinator.com/item?id=31063637"
     ],
@@ -297,6 +287,16 @@
     [
       "The Early History of Smalltalk (1993)",
       "http://worrydream.com/EarlyHistoryOfSmalltalk/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 14:51:23",
+      "https://news.ycombinator.com/item?id=31061232"
+    ],
+    [
+      "Septum: Context-based code search tool",
+      "https://github.com/pyjarrett/septum"
     ]
   ]
 ]
