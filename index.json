@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-04-20, 10:58:13",
-      "https://news.ycombinator.com/item?id=31095084"
+      "2022-04-20, 12:10:09",
+      "https://news.ycombinator.com/item?id=31095709"
     ],
     [
-      "Fastest growing open-source startups in Q1 2022",
-      "https://runacap.com/ross-index/q1-2022/"
+      "Ask HN: What gives Cloudflare the right to takedown apps revealing site real IP?",
+      "https://news.ycombinator.com/item?id=31095709"
     ]
   ],
   [
     [
-      "2022-04-20, 10:57:30",
-      "https://news.ycombinator.com/item?id=31095078"
+      "2022-04-20, 12:00:56",
+      "https://news.ycombinator.com/item?id=31095640"
     ],
     [
-      "Netflix hints at password sharing crackdown as subscribers fall",
-      "https://www.bbc.co.uk/news/business-61153252"
+      "Fly.io (YC W20) Is Hiring Platform Engineers",
+      "https://fly.io/jobs/platform-product-engineer/"
     ]
   ],
   [
@@ -55,8 +55,28 @@
       "https://news.ycombinator.com/item?id=31094773"
     ],
     [
-      "Uranus should be NASA’s top planetary target, influential report finds",
+      "Uranus should be NASA’s top planetary target – report",
       "https://www.science.org/content/article/uranus-should-be-nasa-s-top-planetary-target-influential-report-finds"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 09:24:24",
+      "https://news.ycombinator.com/item?id=31094479"
+    ],
+    [
+      "On anti-crypto toxicity",
+      "https://blog.mollywhite.net/anti-crypto-toxicity/"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 09:20:39",
+      "https://news.ycombinator.com/item?id=31094459"
+    ],
+    [
+      "Increase in hepatitis of unknown origin in children",
+      "https://www.rte.ie/news/ireland/2022/0419/1293155-hepatitis-children/"
     ]
   ],
   [
@@ -77,26 +97,6 @@
     [
       "Ruby YJIT Ported to Rust",
       "https://github.com/ruby/ruby/pull/5826"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 07:42:46",
-      "https://news.ycombinator.com/item?id=31093910"
-    ],
-    [
-      "Ask HN: Which new skills for a data science career?",
-      "https://news.ycombinator.com/item?id=31093910"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 07:00:36",
-      "https://news.ycombinator.com/item?id=31093663"
-    ],
-    [
-      "Opvia (YC S20) Is Hiring in London",
-      "https://airtable.com/shrhv1yYtcMtPskra"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-04-18, 10:41:18",
+      "https://news.ycombinator.com/item?id=31069149"
+    ],
+    [
+      "South Africa is running out of Marmite",
+      "https://www.economist.com/middle-east-and-africa/2022/04/16/why-south-africa-is-running-out-of-marmite"
+    ]
+  ],
+  [
+    [
       "2022-04-18, 02:28:31",
       "https://news.ycombinator.com/item?id=31066656"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-04-17, 13:39:53",
-      "https://news.ycombinator.com/item?id=31060723"
+      "2022-04-17, 14:51:23",
+      "https://news.ycombinator.com/item?id=31061232"
     ],
     [
-      "Economy and distribution of land rents in Singapore (1996)",
-      "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1006&context=soe_research"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 12:41:29",
-      "https://news.ycombinator.com/item?id=31060452"
-    ],
-    [
-      "Broadcom introduces Wi-Fi 7 chipset solutions",
-      "https://linuxgizmos.com/broadcom-introduces-worlds-first-wi-fi-7-chipset-solutions/"
+      "Septum: Context-based code search tool",
+      "https://github.com/pyjarrett/septum"
     ]
   ],
   [
