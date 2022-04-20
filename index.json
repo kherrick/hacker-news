@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-20, 17:48:56",
+      "https://news.ycombinator.com/item?id=31100483"
+    ],
+    [
+      "IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation",
+      "https://github.com/NASA-SW-VnV/ikos"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 17:45:34",
+      "https://news.ycombinator.com/item?id=31100439"
+    ],
+    [
+      "Crypto bug of the year: ECDSA signatures broken in Java",
+      "https://twitter.com/tqbf/status/1516570590211153922"
+    ]
+  ],
+  [
+    [
       "2022-04-20, 17:13:12",
       "https://news.ycombinator.com/item?id=31100023"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2022-04-20, 16:45:00",
+      "https://news.ycombinator.com/item?id=31099655"
+    ],
+    [
+      "Are You the Asshole? – AI Powered AITA Answer Bot",
+      "https://areyoutheasshole.com/"
+    ]
+  ],
+  [
+    [
       "2022-04-20, 16:32:17",
       "https://news.ycombinator.com/item?id=31099450"
     ],
     [
       "Discussions in Brave Search: real human answers in search results",
       "https://brave.com/discussions-in-brave-search/"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 16:26:54",
+      "https://news.ycombinator.com/item?id=31099366"
+    ],
+    [
+      "Show HN: I created a collection of insanely useful websites from around the web",
+      "https://www.insanelyusefulwebsites.com"
     ]
   ],
   [
@@ -45,18 +85,8 @@
       "https://news.ycombinator.com/item?id=31098822"
     ],
     [
-      "Changing std:sort at Google’s Scale and Beyond",
+      "Changing std:sort at Google’s scale and beyond",
       "https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 15:28:42",
-      "https://news.ycombinator.com/item?id=31098347"
-    ],
-    [
-      "U.S. forgives 40k student loans",
-      "https://www.reuters.com/world/us/us-forgives-40000-student-loans-provides-aid-millions-more-2022-04-19/"
     ]
   ],
   [
@@ -87,6 +117,16 @@
     [
       "Show HN: I built a website to find nearby cafes to work remotely from",
       "https://workmode.co"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 13:58:47",
+      "https://news.ycombinator.com/item?id=31097034"
+    ],
+    [
+      "Go Developer Survey 2021 Results",
+      "https://go.dev/blog/survey2021-results"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2022-04-20, 06:41:24",
-      "https://news.ycombinator.com/item?id=31093564"
-    ],
-    [
-      "QEMU 7.0",
-      "https://www.qemu.org/2022/04/19/qemu-7-0-0/"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 06:28:38",
       "https://news.ycombinator.com/item?id=31093499"
     ],
@@ -231,12 +261,12 @@
   ],
   [
     [
-      "2022-04-18, 16:57:38",
-      "https://news.ycombinator.com/item?id=31073352"
+      "2022-04-18, 10:54:43",
+      "https://news.ycombinator.com/item?id=31069230"
     ],
     [
-      "Automation is the serialization of understanding",
-      "https://changelog.com/posts/automation-is-the-serialization-of-understanding"
+      "On leaving Turkey (2021)",
+      "https://ahmetomer.net/on-leaving-turkey/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-04-17, 19:51:51",
-      "https://news.ycombinator.com/item?id=31063830"
-    ],
-    [
-      "The reason high school bullies get back in touch later in life (2019)",
-      "https://mashable.com/article/high-school-bullies-getting-in-touch"
-    ]
-  ],
-  [
-    [
       "2022-04-17, 17:08:41",
       "https://news.ycombinator.com/item?id=31062369"
     ],
     [
       "The Early History of Smalltalk (1993)",
       "http://worrydream.com/EarlyHistoryOfSmalltalk/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 16:09:56",
-      "https://news.ycombinator.com/item?id=31061868"
-    ],
-    [
-      "Modeling Earth's Magnetosphere in the Laboratory",
-      "https://publishing.aip.org/publications/latest-content/modeling-earths-magnetosphere-in-the-laboratory/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 14:51:23",
-      "https://news.ycombinator.com/item?id=31061232"
-    ],
-    [
-      "Septum: Context-based code search tool",
-      "https://github.com/pyjarrett/septum"
     ]
   ]
 ]
