@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31109071"
     ],
     [
-      "Embedding Information in Text Documents Using Glyph Perturbation",
+      "FontCode: Embedding information in text documents using glyph perturbation",
       "https://dl.acm.org/doi/pdf/10.1145/3152823"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-04-21, 07:38:48",
-      "https://news.ycombinator.com/item?id=31106892"
-    ],
-    [
-      "Neobrutalism Is Taking over the Web",
-      "https://hype4.academy/articles/design/neubrutalism-is-taking-over-web"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 05:30:23",
       "https://news.ycombinator.com/item?id=31106274"
     ],
@@ -227,6 +217,16 @@
     [
       "In defense of swap: common misconceptions (2018)",
       "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 19:54:19",
+      "https://news.ycombinator.com/item?id=31102089"
+    ],
+    [
+      "Memray: a memory profiler for Python",
+      "https://github.com/bloomberg/memray"
     ]
   ],
   [
