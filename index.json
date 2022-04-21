@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-04-21, 12:00:45",
+      "https://news.ycombinator.com/item?id=31108333"
+    ],
+    [
+      "Supabase (YC S20) Is Hiring Site Reliability Engineers",
+      "https://boards.greenhouse.io/supabase/jobs/4307459004"
+    ]
+  ],
+  [
+    [
       "2022-04-21, 10:34:08",
       "https://news.ycombinator.com/item?id=31107768"
     ],
     [
-      "ASML is buying washing machines to rip out the chips and reuse them",
+      "Chip manufacturers are buying washing machines to rip the chips and reuse them",
       "https://www.protocol.com/bulletins/chip-shortage-washing-machines"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-04-20, 21:30:16",
-      "https://news.ycombinator.com/item?id=31103275"
-    ],
-    [
-      "California grid set record of 97% renewable power on April 3",
-      "https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 21:17:21",
       "https://news.ycombinator.com/item?id=31103133"
     ],
@@ -167,16 +167,6 @@
     [
       "Memray: a memory profiler for Python",
       "https://github.com/bloomberg/memray"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 18:41:03",
-      "https://news.ycombinator.com/item?id=31101156"
-    ],
-    [
-      "Simular VR: Lenses and Schematics",
-      "https://simulavr.com/blog/lenses-and-vxr-schematics/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]",
       "https://www.youtube.com/watch?v=t_rzYnXEQlE"
+    ]
+  ],
+  [
+    [
+      "2022-04-18, 16:29:00",
+      "https://news.ycombinator.com/item?id=31072902"
+    ],
+    [
+      "Penmanship",
+      "https://jaredgorski.org/writing/penmanship/"
     ]
   ]
 ]
