@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-04-21, 22:22:38",
-      "https://news.ycombinator.com/item?id=31115906"
-    ],
-    [
-      "5G is a joke and the iPhone is the well-timed punchline",
-      "https://www.macworld.com/article/633236/macalope-5g-iphone-late.html"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 22:05:06",
       "https://news.ycombinator.com/item?id=31115755"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31115492"
     ],
     [
-      "How Postgres Chooses Which Index to Use for a Query",
+      "How Postgres chooses which index to use for a query",
       "https://pganalyze.com/blog/how-postgres-chooses-index"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "ISPs can’t find any judges who will block California net neutrality law",
       "https://arstechnica.com/p3/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 20:05:35",
+      "https://news.ycombinator.com/item?id=31114554"
+    ],
+    [
+      "Python’s “type hints” are a bit of a disappointment to me",
+      "https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html"
     ]
   ],
   [
