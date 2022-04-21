@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-21, 21:12:25",
+      "https://news.ycombinator.com/item?id=31115254"
+    ],
+    [
+      "Uyuni – open-source release of SUSE Manager",
+      "https://www.uyuni-project.org/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 21:11:11",
+      "https://news.ycombinator.com/item?id=31115238"
+    ],
+    [
+      "Art Bits from Hypercard",
+      "http://archives.somnolescent.net/web/hypercard/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 21:09:26",
+      "https://news.ycombinator.com/item?id=31115221"
+    ],
+    [
+      "New blog about my journey to develop a Common Lisp 3D software",
+      "https://kaveh808.medium.com"
+    ]
+  ],
+  [
+    [
       "2022-04-21, 21:01:11",
       "https://news.ycombinator.com/item?id=31115125"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31114554"
     ],
     [
-      "Python’s “Type Hints” are a bit of a disappointment to me",
+      "Python’s “type hints” are a bit of a disappointment to me",
       "https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html"
     ]
   ],
@@ -261,41 +291,11 @@
   ],
   [
     [
-      "2022-04-19, 21:48:02",
-      "https://news.ycombinator.com/item?id=31089723"
-    ],
-    [
-      "SCRU128: Sortable, Clock and Random number-based Unique identifier",
-      "https://github.com/scru128/spec"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 14:40:31",
-      "https://news.ycombinator.com/item?id=31083778"
-    ],
-    [
-      "SpinQ Gemini: a desktop quantum computing platform for education and research [pdf]",
-      "https://epjquantumtechnology.springeropen.com/track/pdf/10.1140/epjqt/s40507-021-00109-8.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 13:48:05",
-      "https://news.ycombinator.com/item?id=31083030"
-    ],
-    [
-      "The new golden age of wildlife in New England",
-      "https://www.bostonglobe.com/2022/04/17/metro/new-golden-age-wildlife-new-england/"
-    ]
-  ],
-  [
-    [
       "2022-04-19, 07:41:24",
       "https://news.ycombinator.com/item?id=31080545"
     ],
     [
-      "Panic Playdate Review: The Weirdest, Best Fidget Game Console Ever",
+      "Panic Playdate Review",
       "https://www.cnet.com/tech/gaming/panic-playdate-review-the-weirdest-best-fidget-game-console-ever/"
     ]
   ]
