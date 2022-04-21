@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-21, 10:08:35",
+      "https://news.ycombinator.com/item?id=31107643"
+    ],
+    [
+      "Web color is still broken",
+      "https://webcolorisstillbroken.com/"
+    ]
+  ],
+  [
+    [
       "2022-04-21, 08:54:42",
       "https://news.ycombinator.com/item?id=31107262"
     ],
     [
       "Fedora considers deprecating legacy BIOS",
       "https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 08:34:47",
+      "https://news.ycombinator.com/item?id=31107178"
+    ],
+    [
+      "Ask HN: Buying a domain previously owned by a now deceased person",
+      "https://news.ycombinator.com/item?id=31107178"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2022-04-20, 21:50:49",
+      "https://news.ycombinator.com/item?id=31103510"
+    ],
+    [
+      "Emilie (2010)",
+      "https://themillions.com/2010/04/emilie.html"
+    ]
+  ],
+  [
+    [
       "2022-04-20, 21:30:16",
       "https://news.ycombinator.com/item?id=31103275"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-04-20, 21:00:05",
-      "https://news.ycombinator.com/item?id=31102930"
-    ],
-    [
-      "Dover (YC S19) is hiring to build a next-gen recruiting platform",
-      "https://www.dover.com/open-roles/software-engineer"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 20:53:36",
       "https://news.ycombinator.com/item?id=31102862"
     ],
@@ -147,6 +167,16 @@
     [
       "Memray: a memory profiler for Python",
       "https://github.com/bloomberg/memray"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 18:41:03",
+      "https://news.ycombinator.com/item?id=31101156"
+    ],
+    [
+      "Simular VR: Lenses and Schematics",
+      "https://simulavr.com/blog/lenses-and-vxr-schematics/"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2022-04-20, 15:00:25",
-      "https://news.ycombinator.com/item?id=31097930"
+      "2022-04-20, 02:12:04",
+      "https://news.ycombinator.com/item?id=31091984"
     ],
     [
-      "The swimming of a dead fish (2018)",
-      "https://fyfluiddynamics.com/2018/07/when-i-was-a-child-my-father-would-take-me-trout/"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 14:36:12",
-      "https://news.ycombinator.com/item?id=31097578"
-    ],
-    [
-      "A 4-year-old can run errands alone and not just on reality TV",
-      "https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 13:48:46",
-      "https://news.ycombinator.com/item?id=31096914"
-    ],
-    [
-      "Rooms and mazes: A procedural dungeon generator (2014)",
-      "https://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/"
+      "A downtick is coming for online advertising",
+      "https://www.wsj.com/articles/a-downtick-is-coming-for-online-advertising-11650294985"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]",
       "https://www.youtube.com/watch?v=t_rzYnXEQlE"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 19:53:24",
-      "https://news.ycombinator.com/item?id=31075608"
-    ],
-    [
-      "Take the pain out of Git conflict resolution: use diff3 (2017)",
-      "https://blog.nilbus.com/take-the-pain-out-of-git-conflict-resolution-use-diff3/"
     ]
   ]
 ]
