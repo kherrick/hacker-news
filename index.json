@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-21, 02:39:23",
+      "https://news.ycombinator.com/item?id=31105513"
+    ],
+    [
+      "HUDS and GUIs: an inspiration resource site featuring Future User Interfaces",
+      "https://www.hudsandguis.com"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 02:38:19",
+      "https://news.ycombinator.com/item?id=31105507"
+    ],
+    [
+      "Cog: Containers for Machine Learning",
+      "https://github.com/replicate/cog"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 02:04:41",
+      "https://news.ycombinator.com/item?id=31105320"
+    ],
+    [
+      "Turning scrap copper into beautiful crystals",
+      "https://crystalverse.com/copper-acetate-crystals/"
+    ]
+  ],
+  [
+    [
       "2022-04-21, 00:14:32",
       "https://news.ycombinator.com/item?id=31104691"
     ],
@@ -17,16 +47,6 @@
     [
       "In defense of swap: common misconceptions",
       "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 21:53:46",
-      "https://news.ycombinator.com/item?id=31103543"
-    ],
-    [
-      "A plastic bag’s 2000-mile journey",
-      "https://www.bloomberg.com/graphics/2022-tesco-recycle-plastic-waste-pledge-falls-short/"
     ]
   ],
   [
@@ -117,6 +137,16 @@
     [
       "State machine replication, and why you should care",
       "https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 16:55:01",
+      "https://news.ycombinator.com/item?id=31099791"
+    ],
+    [
+      "If founders treated investors the way they treat employees",
+      "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     ]
   ],
   [
@@ -221,6 +251,16 @@
   ],
   [
     [
+      "2022-04-20, 02:12:04",
+      "https://news.ycombinator.com/item?id=31091984"
+    ],
+    [
+      "A Downtick Is Coming for Online Advertising",
+      "https://www.wsj.com/articles/a-downtick-is-coming-for-online-advertising-11650294985"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 21:09:34",
       "https://news.ycombinator.com/item?id=31089216"
     ],
@@ -257,46 +297,6 @@
     [
       "Take the pain out of Git conflict resolution: use diff3 (2017)",
       "https://blog.nilbus.com/take-the-pain-out-of-git-conflict-resolution-use-diff3/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 19:46:03",
-      "https://news.ycombinator.com/item?id=31063775"
-    ],
-    [
-      "Things to know about raising debt for startups",
-      "https://a16z.com/2022/04/15/16-things-to-know-about-raising-debt-for-startups/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 17:08:41",
-      "https://news.ycombinator.com/item?id=31062369"
-    ],
-    [
-      "The Early History of Smalltalk (1993)",
-      "http://worrydream.com/EarlyHistoryOfSmalltalk/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 16:39:14",
-      "https://news.ycombinator.com/item?id=31062110"
-    ],
-    [
-      "The Green Book Redux",
-      "https://99percentinvisible.org/episode/the-green-book-redux/"
-    ]
-  ],
-  [
-    [
-      "2022-04-17, 12:18:19",
-      "https://news.ycombinator.com/item?id=31060341"
-    ],
-    [
-      "ClojureDart: Differences with Clojure",
-      "https://github.com/Tensegritics/ClojureDart/blob/main/doc/differences.md"
     ]
   ]
 ]
