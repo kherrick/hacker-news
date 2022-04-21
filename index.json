@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-04-20, 23:00:20",
-      "https://news.ycombinator.com/item?id=31104157"
+      "2022-04-21, 00:14:32",
+      "https://news.ycombinator.com/item?id=31104691"
     ],
     [
-      "US Capitol evacuated due to possible aircraft threat",
-      "https://www.airlive.net/breaking-us-capitol-evacuated-due-to-to-possible-aircraft-threat/amp/"
+      "A YouTuber Purposely Crashed His Plane in California, FAA Says",
+      "https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 22:56:55",
+      "https://news.ycombinator.com/item?id=31104126"
+    ],
+    [
+      "In defense of swap: common misconceptions",
+      "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
     ]
   ],
   [
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2022-04-20, 21:48:34",
-      "https://news.ycombinator.com/item?id=31103488"
-    ],
-    [
-      "Serra's Verbs",
-      "https://www.nplusonemag.com/online-only/online-only/serras-verbs/"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 21:30:16",
       "https://news.ycombinator.com/item?id=31103275"
     ],
     [
       "California grid set record of 97% renewable power on April 3",
       "https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 21:17:21",
+      "https://news.ycombinator.com/item?id=31103133"
+    ],
+    [
+      "The Unreasonable Fight for Municipal Broadband",
+      "https://tylercipriani.com/blog/2022/04/20/the-unreasonable-fight-for-municipal-broadband/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Simular VR: Lenses and Schematics",
       "https://simulavr.com/blog/lenses-and-vxr-schematics/"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 17:50:54",
-      "https://news.ycombinator.com/item?id=31100521"
-    ],
-    [
-      "BCI lets completely “locked-in” man communicate",
-      "https://arstechnica.com/science/2022/04/bci-lets-completely-locked-in-man-communicate-with-his-son-ask-for-a-beer/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-04-20, 14:10:34",
-      "https://news.ycombinator.com/item?id=31097195"
-    ],
-    [
-      "Show HN: I built a website to find nearby cafes to work remotely from",
-      "https://workmode.co"
-    ]
-  ],
-  [
-    [
       "2022-04-20, 13:48:46",
       "https://news.ycombinator.com/item?id=31096914"
     ],
@@ -297,6 +287,16 @@
     [
       "The Early History of Smalltalk (1993)",
       "http://worrydream.com/EarlyHistoryOfSmalltalk/"
+    ]
+  ],
+  [
+    [
+      "2022-04-17, 12:18:19",
+      "https://news.ycombinator.com/item?id=31060341"
+    ],
+    [
+      "ClojureDart: Differences with Clojure",
+      "https://github.com/Tensegritics/ClojureDart/blob/main/doc/differences.md"
     ]
   ]
 ]
