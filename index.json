@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-21, 17:39:02",
+      "https://news.ycombinator.com/item?id=31112659"
+    ],
+    [
+      "K-9 Mail 6.000",
+      "https://k9mail.app/2022/04/18/K-9-Mail-6.000.html"
+    ]
+  ],
+  [
+    [
       "2022-04-21, 17:37:34",
       "https://news.ycombinator.com/item?id=31112639"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-04-21, 13:56:55",
-      "https://news.ycombinator.com/item?id=31109466"
-    ],
-    [
-      "OpenBSD 7.1: fan noise and high temperature solution",
-      "https://dataswamp.org/~solene/2022-04-21-openbsd-71-fan-noise-temperature.html"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 13:56:09",
       "https://news.ycombinator.com/item?id=31109456"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-04-21, 13:26:20",
+      "https://news.ycombinator.com/item?id=31109071"
+    ],
+    [
+      "Embedding information in text documents using glyph perturbation (2018) [pdf]",
+      "https://dl.acm.org/doi/pdf/10.1145/3152823"
+    ]
+  ],
+  [
+    [
       "2022-04-21, 12:31:16",
       "https://news.ycombinator.com/item?id=31108565"
     ],
@@ -227,16 +237,6 @@
     [
       "Fedora considers deprecating legacy BIOS",
       "https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 05:00:19",
-      "https://news.ycombinator.com/item?id=31106157"
-    ],
-    [
-      "Go will use pdqsort in next release",
-      "https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"
     ]
   ],
   [
