@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-04-22, 13:32:53",
+      "https://news.ycombinator.com/item?id=31121341"
+    ],
+    [
+      "Analyzing Mariupol's damage using SAR satalite data and algorithmic models",
+      "https://www.economist.com/graphic-detail/2022/04/23/nearly-half-of-mariupol-has-suffered-grave-damage"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 13:30:03",
+      "https://news.ycombinator.com/item?id=31121319"
+    ],
+    [
+      "Jane Street magic-trace",
+      "https://github.com/janestreet/magic-trace"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 13:23:41",
+      "https://news.ycombinator.com/item?id=31121245"
+    ],
+    [
+      "Ask HN: CNN+ Software Engineers",
+      "https://news.ycombinator.com/item?id=31121245"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 13:11:50",
+      "https://news.ycombinator.com/item?id=31121159"
+    ],
+    [
+      "Leaked Chats Show Lapsus$ Stole T-Mobile Source Code",
+      "https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code/"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 13:06:16",
+      "https://news.ycombinator.com/item?id=31121117"
+    ],
+    [
+      "Ancient Roman Coins: How Were They Made?",
+      "https://www.thecollector.com/ancient-roman-coins-how-were-they-made/"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 13:05:01",
+      "https://news.ycombinator.com/item?id=31121105"
+    ],
+    [
+      "Lenovo Forums stores plaintext password as a cookie",
+      "https://forums.lenovo.com/t5/Forum-Housekeeping/Lenovo-forums-do-store-user-password-in-a-cookie/m-p/5124794"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 13:02:46",
+      "https://news.ycombinator.com/item?id=31121089"
+    ],
+    [
+      "Over 1900 pixel-perfect icons for web design",
+      "https://tabler-icons.io/"
+    ]
+  ],
+  [
+    [
       "2022-04-22, 12:00:05",
       "https://news.ycombinator.com/item?id=31120544"
     ],
@@ -71,36 +141,6 @@
   ],
   [
     [
-      "2022-04-22, 04:47:20",
-      "https://news.ycombinator.com/item?id=31118314"
-    ],
-    [
-      "Venmo forces binding arbitration unless you opt out by mail before June 22",
-      "https://help.venmo.com/hc/en-us/articles/360062640153"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 02:05:53",
-      "https://news.ycombinator.com/item?id=31117436"
-    ],
-    [
-      "Syntakt – 12 Track Drum Computer and Synthesizer",
-      "https://www.elektron.se/products/syntakt/"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 00:31:49",
-      "https://news.ycombinator.com/item?id=31116861"
-    ],
-    [
-      "Ask HN: People who use different emails everywhere, who sold you to spammers?",
-      "https://news.ycombinator.com/item?id=31116861"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 22:17:38",
       "https://news.ycombinator.com/item?id=31115857"
     ],
@@ -137,36 +177,6 @@
     [
       "How Postgres chooses which index to use for a query",
       "https://pganalyze.com/blog/how-postgres-chooses-index"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 21:11:11",
-      "https://news.ycombinator.com/item?id=31115238"
-    ],
-    [
-      "Art Bits from Hypercard",
-      "http://archives.somnolescent.net/web/hypercard/"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 21:09:26",
-      "https://news.ycombinator.com/item?id=31115221"
-    ],
-    [
-      "New blog about my journey to develop a Common Lisp 3D software",
-      "https://kaveh808.medium.com"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 21:02:13",
-      "https://news.ycombinator.com/item?id=31115136"
-    ],
-    [
-      "Why is inflammation a dangerous necessity?",
-      "https://www.quantamagazine.org/why-is-inflammation-a-dangerous-necessity-20220420/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-04-21, 08:44:46",
-      "https://news.ycombinator.com/item?id=31107231"
-    ],
-    [
-      "Open Source SQL Parsers",
-      "https://tokern.io/blog/open-source-sql-parsers/"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 05:08:32",
       "https://news.ycombinator.com/item?id=31106190"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2022-04-20, 00:12:36",
+      "https://news.ycombinator.com/item?id=31091118"
+    ],
+    [
+      "Discovering Boccaccio Manuscripts Online",
+      "https://blogs.bl.uk/digitisedmanuscripts/2022/04/boccaccio.html"
+    ]
+  ],
+  [
+    [
       "2022-04-19, 21:51:50",
       "https://news.ycombinator.com/item?id=31089768"
     ],
     [
       "How to Build Your Own Quantum Entanglement Experiment (2013)",
       "https://blogs.scientificamerican.com/critical-opalescence/how-to-build-your-own-quantum-entanglement-experiment-part-1-of-2/"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 20:01:09",
-      "https://news.ycombinator.com/item?id=31088216"
-    ],
-    [
-      "Emeryville, California, and the challenge of cleaning up poisoned land",
-      "https://slate.com/technology/2022/04/emeryville-california-brownfields-program-cottage-cheese.html"
     ]
   ],
   [
