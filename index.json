@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-04-22, 13:05:01",
+      "https://news.ycombinator.com/item?id=31121105"
+    ],
+    [
+      "Lenovo Forums stores plaintext password as a cookie",
+      "https://forums.lenovo.com/t5/Forum-Housekeeping/Lenovo-forums-do-store-user-password-in-a-cookie/m-p/5124794"
+    ]
+  ],
+  [
+    [
       "2022-04-22, 13:02:46",
       "https://news.ycombinator.com/item?id=31121089"
     ],
@@ -187,6 +197,16 @@
     [
       "The Chaotic Collapse of CNN+",
       "https://www.axios.com/cnn-plus-discovery-zucker-zaslav-fc031cfe-0b1a-45d8-9242-cb1d497c8bc7.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 11:55:25",
+      "https://news.ycombinator.com/item?id=31120498"
+    ],
+    [
+      "Drone Interceptor with a Net Gun",
+      "https://lamat.me/works/interceptor.html"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-04-19, 21:51:50",
-      "https://news.ycombinator.com/item?id=31089768"
+      "2022-04-20, 06:11:38",
+      "https://news.ycombinator.com/item?id=31093430"
     ],
     [
-      "How to Build Your Own Quantum Entanglement Experiment (2013)",
-      "https://blogs.scientificamerican.com/critical-opalescence/how-to-build-your-own-quantum-entanglement-experiment-part-1-of-2/"
-    ]
-  ],
-  [
-    [
-      "2022-04-19, 16:25:29",
-      "https://news.ycombinator.com/item?id=31085330"
-    ],
-    [
-      "Quantenkoffer: Quantum Physics Science Kit",
-      "http://www.quantenkoffer.com/en/"
-    ]
-  ],
-  [
-    [
-      "2022-04-18, 23:14:47",
-      "https://news.ycombinator.com/item?id=31077912"
-    ],
-    [
-      "The x86 architecture is the weirdo, part 2",
-      "https://devblogs.microsoft.com/oldnewthing/20220418-00/?p=106489"
+      "What's new in CPUs since the 80s?",
+      "https://danluu.com/new-cpu-features/"
     ]
   ]
 ]
