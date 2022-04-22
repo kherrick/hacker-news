@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-04-22, 14:05:34",
-      "https://news.ycombinator.com/item?id=31121676"
-    ],
-    [
-      "Show HN: Augmented reality apps made hands-on interactive",
-      "https://portalble.cs.brown.edu/"
-    ]
-  ],
-  [
-    [
       "2022-04-22, 13:35:06",
       "https://news.ycombinator.com/item?id=31121361"
     ],
@@ -201,31 +191,11 @@
   ],
   [
     [
-      "2022-04-22, 08:42:11",
-      "https://news.ycombinator.com/item?id=31119470"
-    ],
-    [
-      "London’s Lost Ringways",
-      "https://www.worksinprogress.co/issue/londons-lost-ringways/"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 00:07:33",
-      "https://news.ycombinator.com/item?id=31116710"
-    ],
-    [
-      "A Man in Transit: The Many Lives of Billy Wilder",
-      "https://www.thenation.com/article/culture/billy-wilder-biography/"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 22:35:54",
       "https://news.ycombinator.com/item?id=31116024"
     ],
     [
-      "It is physically impossible to exceed the weight limit for a USPS flat rate box",
+      "It is impossible to exceed the weight limit for a small USPS flat rate box",
       "https://twitter.com/PaulMSherman/status/1516936733769801734"
     ]
   ],
@@ -237,6 +207,16 @@
     [
       "Handy Mnemonics: The Five-Fingered Memory Machine",
       "https://publicdomainreview.org/essay/handy-mnemonics/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 18:02:56",
+      "https://news.ycombinator.com/item?id=31113011"
+    ],
+    [
+      "An overview of version control in programming",
+      "https://lemire.me/blog/2022/04/21/an-overview-of-version-control-in-programming/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2022-04-20, 13:39:31",
+      "https://news.ycombinator.com/item?id=31096771"
+    ],
+    [
+      "Ribbit Scheme bootstraps with Posix shell while supporting TCO, call/cc and GC",
+      "https://github.com/udem-dlteam/ribbit/commit/14077d111425c8472dd5a0e865462dea70a8d206"
+    ]
+  ],
+  [
+    [
       "2022-04-20, 11:32:33",
       "https://news.ycombinator.com/item?id=31095360"
     ],
@@ -277,6 +267,16 @@
     [
       "The Front-End Developer's Guide to the Terminal",
       "https://www.joshwcomeau.com/javascript/terminal-for-js-devs/"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 08:49:24",
+      "https://news.ycombinator.com/item?id=31094301"
+    ],
+    [
+      "How to Build a Homelab",
+      "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     ]
   ],
   [
