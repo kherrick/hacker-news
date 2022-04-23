@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-23, 19:04:31",
+      "https://news.ycombinator.com/item?id=31137324"
+    ],
+    [
+      "AI Does Not Exist",
+      "https://thisaidoesnotexist.com/"
+    ]
+  ],
+  [
+    [
       "2022-04-23, 18:40:34",
       "https://news.ycombinator.com/item?id=31137060"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-04-23, 17:06:05",
-      "https://news.ycombinator.com/item?id=31136059"
-    ],
-    [
-      "Rethinking submarine fibre cable projects in the South Pacific",
-      "https://blog.apnic.net/2022/04/20/rethinking-submarine-fibre-cable-projects-south-pacific/"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 17:01:16",
       "https://news.ycombinator.com/item?id=31136015"
     ],
@@ -81,6 +81,26 @@
   ],
   [
     [
+      "2022-04-23, 16:16:46",
+      "https://news.ycombinator.com/item?id=31135603"
+    ],
+    [
+      "The Gettysburg PowerPoint Presentation (2000)",
+      "http://www.norvig.com/Gettysburg/index.htm"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 15:40:39",
+      "https://news.ycombinator.com/item?id=31135216"
+    ],
+    [
+      "Elon Musk texts Larry Page about investing in Tesla (2018)",
+      "https://twitter.com/techemails/status/1517869345770115072"
+    ]
+  ],
+  [
+    [
       "2022-04-23, 14:53:06",
       "https://news.ycombinator.com/item?id=31134749"
     ],
@@ -101,32 +121,22 @@
   ],
   [
     [
+      "2022-04-23, 13:52:12",
+      "https://news.ycombinator.com/item?id=31134269"
+    ],
+    [
+      "VCR Virus Fake VHS Copy-Protection Warning Label (2016)",
+      "https://whyimnotanartist.net/2016/03/08/vcr-virus-fake-vhs-copy-protection-warning-label/"
+    ]
+  ],
+  [
+    [
       "2022-04-23, 13:43:59",
       "https://news.ycombinator.com/item?id=31134201"
     ],
     [
       "Making open source hardware design a reality",
       "https://github.com/aolofsson/awesome-hardware-tools"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 13:37:38",
-      "https://news.ycombinator.com/item?id=31134154"
-    ],
-    [
-      "$34M permanently locked into AkuDreams contract forever due to bad code",
-      "https://twitter.com/0xfoobar/status/1517680400142716929"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 13:34:32",
-      "https://news.ycombinator.com/item?id=31134121"
-    ],
-    [
-      "DevOps for the Sinclair Spectrum",
-      "http://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/"
     ]
   ],
   [
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2022-04-23, 12:42:17",
-      "https://news.ycombinator.com/item?id=31133775"
-    ],
-    [
-      "Braess Paradox",
-      "https://rjlipton.wpcomstaging.com/2022/04/22/a-paradox/"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 12:21:35",
       "https://news.ycombinator.com/item?id=31133661"
     ],
     [
       "Data Reliability (1975)",
       "https://dl.acm.org/doi/pdf/10.1145/800027.808476"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 12:13:20",
-      "https://news.ycombinator.com/item?id=31133600"
-    ],
-    [
-      "Creating a GPU With C++ and an FPGA (2021)",
-      "https://www.youtube.com/watch?v=P7sNVvwhMJA"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2022-04-23, 10:49:23",
-      "https://news.ycombinator.com/item?id=31133082"
+      "2022-04-23, 10:21:18",
+      "https://news.ycombinator.com/item?id=31132863"
     ],
     [
-      "Is XMPP any good? Also, let's write a client in Tcl, maybe",
-      "https://wusspuss.neocities.org/xmpp.html"
+      "How to read an RFC (2018)",
+      "https://www.ietf.org/blog/how-read-rfc/"
     ]
   ],
   [
@@ -211,32 +201,52 @@
   ],
   [
     [
-      "2022-04-23, 08:22:02",
-      "https://news.ycombinator.com/item?id=31132417"
-    ],
-    [
-      "EU DSA: Industry and government interests prevail over citizens’ digital rights",
-      "https://www.patrick-breyer.de/en/eu-digital-services-act-industry-and-government-interests-prevail-over-citizens-digital-rights/"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 07:53:45",
-      "https://news.ycombinator.com/item?id=31132313"
-    ],
-    [
-      "Introducing Threads in Beta",
-      "https://element.io/blog/introducing-threads-in-beta/"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 07:12:43",
       "https://news.ycombinator.com/item?id=31132115"
     ],
     [
       "Celebrating 40 years of ZX Spectrum",
       "https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 04:57:04",
+      "https://news.ycombinator.com/item?id=31131533"
+    ],
+    [
+      "When No-Code Stops Scaling (2020)",
+      "https://head.ai/content/when-no-code-stops-scaling"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 21:17:16",
+      "https://news.ycombinator.com/item?id=31128267"
+    ],
+    [
+      "US Navy wirelessly beams 1.6 kW of power a kilometer using microwaves",
+      "https://newatlas.com/energy/us-navy-beams-1-6-kw-power-kilometer-microwaves/"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 17:45:02",
+      "https://news.ycombinator.com/item?id=31125269"
+    ],
+    [
+      "Include debugging in the interview process",
+      "https://www.zhenghao.io/posts/debugging-interview"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 15:53:10",
+      "https://news.ycombinator.com/item?id=31123214"
+    ],
+    [
+      "The Carnivorous Plant Guild Welcomes a New Member (2021)",
+      "https://www.indefenseofplants.com/blog/2021/8/10/the-carnivorous-plant-guild-welcomes-a-new-member"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Utterly Unpersuasive: Formal Methods and Law (2019)",
       "https://roundtablelaw.medium.com/utterly-unpersuasive-formal-methods-and-law-bb8ecf048374"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 08:26:37",
-      "https://news.ycombinator.com/item?id=31107128"
-    ],
-    [
-      "Monetizing hobbies",
-      "https://tegowerk.eu/posts/monetizing-hobbies/"
     ]
   ],
   [
