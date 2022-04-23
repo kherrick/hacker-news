@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-04-23, 02:00:18",
+      "https://news.ycombinator.com/item?id=31130672"
+    ],
+    [
+      "DALL·E 2 and The Origin of Vibe Shifts",
+      "https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts"
+    ]
+  ],
+  [
+    [
       "2022-04-23, 01:33:36",
       "https://news.ycombinator.com/item?id=31130511"
     ],
     [
       "Funding decentralised/local-first applications for GNOME",
       "https://blog.ergaster.org/post/20220422-decentralised-local-first-applications/"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 01:00:02",
+      "https://news.ycombinator.com/item?id=31130272"
+    ],
+    [
+      "Interfaces for Ambient Computing",
+      "https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 00:35:06",
+      "https://news.ycombinator.com/item?id=31130067"
+    ],
+    [
+      "Lazarus – Professional Free Pascal Rad IDE",
+      "https://www.lazarus-ide.org/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Thinner on Paper",
       "https://thelampmagazine.com/2022/04/21/thinner-on-paper/"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 20:09:42",
-      "https://news.ycombinator.com/item?id=31127385"
-    ],
-    [
-      "Should I Use a Carousel?",
-      "https://shouldiuseacarousel.com/"
     ]
   ],
   [
@@ -161,36 +181,6 @@
   ],
   [
     [
-      "2022-04-22, 11:44:52",
-      "https://news.ycombinator.com/item?id=31120439"
-    ],
-    [
-      "Silicon Zoo: Tiny artwork on CPU dies",
-      "https://micro.magnet.fsu.edu/creatures/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 11:31:06",
-      "https://news.ycombinator.com/item?id=31120359"
-    ],
-    [
-      "Common Lisp Resources",
-      "https://lisp-journey.gitlab.io/resources/"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 10:45:53",
-      "https://news.ycombinator.com/item?id=31120094"
-    ],
-    [
-      "The bottom is dropping out of Netflix",
-      "https://www.pajiba.com/tv_reviews/the-bottom-is-dropping-out-of-netflix.php"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 22:35:54",
       "https://news.ycombinator.com/item?id=31116024"
     ],
@@ -237,6 +227,16 @@
     [
       "JavaScript Garbage Collection with WebAssembly Is Possible Today",
       "https://jott.live/markdown/js_gc_in_wasm"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 09:29:22",
+      "https://news.ycombinator.com/item?id=31107446"
+    ],
+    [
+      "Restoring Vintage Computers",
+      "https://www.curiousmarc.com/"
     ]
   ],
   [
