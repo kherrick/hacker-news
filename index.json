@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-23, 12:47:42",
+      "https://news.ycombinator.com/item?id=31133807"
+    ],
+    [
+      "A day after he bought electric scooter, man killed in battery explosion",
+      "https://indianexpress.com/article/cities/hyderabad/vijayawada-man-killed-in-electric-scooter-battery-explosion-7883920/"
+    ]
+  ],
+  [
+    [
       "2022-04-23, 12:33:37",
       "https://news.ycombinator.com/item?id=31133721"
     ],
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=31132659"
     ],
     [
-      "Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster",
+      "Show HN: Fleet – Experimental build tool for Rust that’s up to 5x faster",
       "https://news.ycombinator.com/item?id=31132659"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 09:18:53",
-      "https://news.ycombinator.com/item?id=31132610"
-    ],
-    [
-      "Ask HN: Am I going insane or is there genuinely no value in blockchain tech?",
-      "https://news.ycombinator.com/item?id=31132610"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=31129936"
     ],
     [
-      "Tcl, the misunderstood: Why Tcl is not a toy language, but a powerful one",
+      "Tcl the Misunderstood (2006)",
       "http://antirez.com/articoli/tclmisunderstood.html"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-04-21, 10:00:46",
-      "https://news.ycombinator.com/item?id=31107591"
-    ],
-    [
-      "JavaScript Garbage Collection with WebAssembly Is Possible Today",
-      "https://jott.live/markdown/js_gc_in_wasm"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 09:29:22",
       "https://news.ycombinator.com/item?id=31107446"
     ],
@@ -267,6 +257,16 @@
     [
       "Monetizing Hobbies",
       "https://tegowerk.eu/posts/monetizing-hobbies/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 01:01:06",
+      "https://news.ycombinator.com/item?id=31104959"
+    ],
+    [
+      "Build a Spring Reverb (2017)",
+      "https://web.archive.org/web/20180304003126/https://tapeop.com/interviews/119/build-your-own-spring-reverb/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31094354"
     ],
     [
-      "Electric Scooter Revival – Adam Zeloof (2019)",
+      "Electric Scooter Revival (2019)",
       "https://adam.zeloof.xyz/2019/01/09/electric-scooter-revival/"
     ]
   ]
