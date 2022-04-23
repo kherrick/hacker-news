@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-04-22, 00:58:46",
-      "https://news.ycombinator.com/item?id=31117044"
-    ],
-    [
-      "Intelligent Agent: How Pattie Maes Almost Invented Social Media",
-      "https://hiddenheroes.netguru.com/pattie-maes"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 22:35:54",
       "https://news.ycombinator.com/item?id=31116024"
     ],
@@ -257,6 +247,16 @@
     [
       "Being Poor-Ish Revisited: Reader Questions",
       "https://www.residentcontrarian.com/p/being-poor-ish-revisited-reader-questions"
+    ]
+  ],
+  [
+    [
+      "2022-04-20, 13:39:31",
+      "https://news.ycombinator.com/item?id=31096771"
+    ],
+    [
+      "Ribbit Scheme bootstraps with Posix shell while supporting TCO, call/cc and GC",
+      "https://github.com/udem-dlteam/ribbit/commit/14077d111425c8472dd5a0e865462dea70a8d206"
     ]
   ],
   [
