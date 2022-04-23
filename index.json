@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-04-23, 17:27:26",
-      "https://news.ycombinator.com/item?id=31136262"
-    ],
-    [
-      "Google, Western Digital, Seagate quietly devolping an open source root of trust",
-      "https://github.com/lowRISC/opentitan"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 17:10:21",
       "https://news.ycombinator.com/item?id=31136100"
     ],
@@ -267,6 +257,16 @@
     [
       "I'm Using SNI Proxying and IPv6 to Share Port 443 Between Webapps",
       "https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443"
+    ]
+  ],
+  [
+    [
+      "2022-04-22, 08:04:18",
+      "https://news.ycombinator.com/item?id=31119322"
+    ],
+    [
+      "The three line single binary compiler free blog",
+      "https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog"
     ]
   ],
   [
