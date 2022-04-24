@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-24, 14:05:17",
+      "https://news.ycombinator.com/item?id=31144106"
+    ],
+    [
+      "Patching an Embedded Synthesiser OS from 1996 with Ghidra",
+      "http://blog.petersobot.com/patching-the-k2500"
+    ]
+  ],
+  [
+    [
       "2022-04-24, 13:14:59",
       "https://news.ycombinator.com/item?id=31143636"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-04-24, 08:06:22",
-      "https://news.ycombinator.com/item?id=31142132"
-    ],
-    [
-      "Energy Trends UK, October to December 2021 [pdf]",
-      "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1064799/Energy_Trends_March_2022.pdf"
-    ]
-  ],
-  [
-    [
       "2022-04-24, 07:41:19",
       "https://news.ycombinator.com/item?id=31142025"
     ],
@@ -127,6 +127,16 @@
     [
       "New artificial enamel is harder and more durable than the real thing",
       "https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 04:59:27",
+      "https://news.ycombinator.com/item?id=31141415"
+    ],
+    [
+      "The temptation of writing shell scripts, illustrated",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-04-23, 23:45:15",
-      "https://news.ycombinator.com/item?id=31139829"
-    ],
-    [
-      "Cryptocurrency as a cybersecurity alarm",
-      "https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 23:14:28",
       "https://news.ycombinator.com/item?id=31139610"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2022-04-23, 14:25:22",
-      "https://news.ycombinator.com/item?id=31134534"
-    ],
-    [
-      "My upgrade to 25 Gbit/s Fiber To The Home",
-      "https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 10:23:25",
       "https://news.ycombinator.com/item?id=31132881"
     ],
     [
       "Shokunin and Devotion (2018)",
       "https://www.kyotojournal.org/culture-arts/shokunin-and-devotion/"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 10:21:18",
+      "https://news.ycombinator.com/item?id=31132863"
+    ],
+    [
+      "How to read an RFC (2018)",
+      "https://www.ietf.org/blog/how-read-rfc/"
     ]
   ],
   [
