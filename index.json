@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-23, 23:45:15",
+      "https://news.ycombinator.com/item?id=31139829"
+    ],
+    [
+      "Cryptocurrency as a Cybersecurity Alarm",
+      "https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 23:14:28",
+      "https://news.ycombinator.com/item?id=31139610"
+    ],
+    [
+      "Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)",
+      "https://atp.fm/205-chris-lattner-interview-transcript#gc"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 22:42:21",
+      "https://news.ycombinator.com/item?id=31139376"
+    ],
+    [
+      "Arizona’s dry future begins as Colorado River shrinks",
+      "https://www.wsj.com/articles/arizonas-dry-future-begins-as-colorado-river-shrinks-11650718801"
+    ]
+  ],
+  [
+    [
       "2022-04-23, 21:00:01",
       "https://news.ycombinator.com/item?id=31138491"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31138228"
     ],
     [
-      "Inventing Postscript, the Tech That Took the Pain Out of Printing (1988)",
+      "Inventing PostScript, the tech that took the pain out of printing (1988)",
       "https://spectrum.ieee.org/adobe-postscript"
     ]
   ],
@@ -55,18 +85,8 @@
       "https://news.ycombinator.com/item?id=31137324"
     ],
     [
-      "This AI Does Not Exist",
+      "Show HN: This AI Does Not Exist",
       "https://thisaidoesnotexist.com/"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 17:57:53",
-      "https://news.ycombinator.com/item?id=31136586"
-    ],
-    [
-      "Android loses 8% of its global OS market share in five years",
-      "https://stockapps.com/blog/android-loses-8-of-its-global-os-market-share-in-five-years/"
     ]
   ],
   [
@@ -171,22 +191,12 @@
   ],
   [
     [
-      "2022-04-23, 09:56:48",
-      "https://news.ycombinator.com/item?id=31132769"
+      "2022-04-23, 04:57:04",
+      "https://news.ycombinator.com/item?id=31131533"
     ],
     [
-      "Google, Meta, others will have to explain algorithms under new EU legislation",
-      "https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 21:17:28",
-      "https://news.ycombinator.com/item?id=31128272"
-    ],
-    [
-      "“Multiple personality disorder” probably doesn't exist",
-      "https://freddiedeboer.substack.com/p/multiple-personality-disorder-probably"
+      "When No-Code Stops Scaling (2020)",
+      "https://head.ai/content/when-no-code-stops-scaling"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "US Navy wirelessly beams 1.6 kW of power a kilometer using microwaves",
       "https://newatlas.com/energy/us-navy-beams-1-6-kw-power-kilometer-microwaves/"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 17:45:02",
-      "https://news.ycombinator.com/item?id=31125269"
-    ],
-    [
-      "Include debugging in the interview process",
-      "https://www.zhenghao.io/posts/debugging-interview"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-04-22, 00:58:46",
-      "https://news.ycombinator.com/item?id=31117044"
-    ],
-    [
-      "Pattie Maes and the foundations of social networks",
-      "https://hiddenheroes.netguru.com/pattie-maes"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 13:24:48",
       "https://news.ycombinator.com/item?id=31109059"
     ],
     [
       "Placemark: Create, edit, and convert the data that powers maps",
       "https://www.placemark.io/"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 12:15:00",
+      "https://news.ycombinator.com/item?id=31108445"
+    ],
+    [
+      "The 1950s Miracle Kitchen of the future",
+      "https://indyweek.com/food-and-drink/news/secrets-behind-1950s-miracle-kitchen-future/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31094373"
     ],
     [
-      "Manager's Handbook",
+      "Manager's Handbook (2020)",
       "https://themanagershandbook.com/"
     ]
   ]
