@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-24, 04:38:10",
+      "https://news.ycombinator.com/item?id=31141339"
+    ],
+    [
+      "Exposure to 835 MHz RF-EMF induces hyperactivity and demyelination in mice",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5247706/"
+    ]
+  ],
+  [
+    [
       "2022-04-24, 03:22:08",
       "https://news.ycombinator.com/item?id=31141042"
     ],
@@ -27,6 +37,16 @@
     [
       "Will Japan run on ammonia? Major chemical firms want to build the infrastructure",
       "https://cen.acs.org/business/petrochemicals/Japan-run-ammonia/100/i14"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 23:53:32",
+      "https://news.ycombinator.com/item?id=31139884"
+    ],
+    [
+      "The Curse of Systems Thinkers",
+      "https://blog.relyabilit.ie/the-curse-of-systems-thinkers/"
     ]
   ],
   [
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2022-04-23, 13:43:59",
-      "https://news.ycombinator.com/item?id=31134201"
-    ],
-    [
-      "Making open source hardware design a reality",
-      "https://github.com/aolofsson/awesome-hardware-tools"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 13:28:21",
-      "https://news.ycombinator.com/item?id=31134074"
-    ],
-    [
-      "I stopped working on black hole information loss",
-      "http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 12:21:35",
       "https://news.ycombinator.com/item?id=31133661"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-04-22, 10:52:19",
-      "https://news.ycombinator.com/item?id=31120137"
+      "2022-04-21, 15:41:54",
+      "https://news.ycombinator.com/item?id=31110928"
     ],
     [
-      "Using SNI proxying and IPv6 to share port 443 between webapps",
-      "https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443"
+      "Practising Programming",
+      "https://tratt.net/laurie/blog/2022/practising_programming.html"
     ]
   ],
   [
