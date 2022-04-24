@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-24, 13:14:59",
+      "https://news.ycombinator.com/item?id=31143636"
+    ],
+    [
+      "UK-Morocco 10GW Renewable Electricity Interconnector Planned",
+      "https://xlinks.co/morocco-uk-power-project/"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 12:52:53",
+      "https://news.ycombinator.com/item?id=31143482"
+    ],
+    [
+      "Transparently running binaries from any architecture in Linux (2018)",
+      "https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 12:15:36",
+      "https://news.ycombinator.com/item?id=31143327"
+    ],
+    [
+      "TUI in webapp design language(CSS) and pattern(check the demo, it’s next level)",
+      "https://www.textualize.io/"
+    ]
+  ],
+  [
+    [
       "2022-04-24, 12:07:16",
       "https://news.ycombinator.com/item?id=31143279"
     ],
@@ -17,6 +47,16 @@
     [
       "Tesorio (YC S15) Is Hiring a Head of Infra and Platform and a VP of Engineering",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 11:12:26",
+      "https://news.ycombinator.com/item?id=31142959"
+    ],
+    [
+      "The surprising afterlife of used hotel soap",
+      "https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Ultra-light liquid hydrogen tanks promise to make jet fuel obsolete",
       "https://newatlas.com/aircraft/hypoint-gtl-lightweight-liquid-hydrogen-tank/"
-    ]
-  ],
-  [
-    [
-      "2022-04-24, 08:25:09",
-      "https://news.ycombinator.com/item?id=31142209"
-    ],
-    [
-      "Ask HN: Why are there so few fanless laptops with Intel/AMD?",
-      "https://news.ycombinator.com/item?id=31142209"
     ]
   ],
   [
@@ -201,36 +231,6 @@
   ],
   [
     [
-      "2022-04-23, 13:28:21",
-      "https://news.ycombinator.com/item?id=31134074"
-    ],
-    [
-      "I stopped working on black hole information loss",
-      "http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 12:08:49",
-      "https://news.ycombinator.com/item?id=31133562"
-    ],
-    [
-      "John Cage Organ Project in Halberstadt",
-      "https://universes.art/en/specials/john-cage-organ-project-halberstadt"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 10:40:49",
-      "https://news.ycombinator.com/item?id=31133023"
-    ],
-    [
-      "History of roff",
-      "https://man7.org/linux/man-pages/man7/roff.7.html#History"
-    ]
-  ],
-  [
-    [
       "2022-04-23, 10:23:25",
       "https://news.ycombinator.com/item?id=31132881"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-04-22, 00:06:05",
-      "https://news.ycombinator.com/item?id=31116700"
-    ],
-    [
-      "Drugs, planes, bail: The wild story of George Jones’s lost recordings [video]",
-      "https://www.nytimes.com/2022/04/21/arts/music/george-jones-lost-tapes.html"
-    ]
-  ],
-  [
-    [
       "2022-04-21, 20:26:17",
       "https://news.ycombinator.com/item?id=31114742"
     ],
@@ -287,6 +277,16 @@
     [
       "Practising Programming",
       "https://tratt.net/laurie/blog/2022/practising_programming.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-21, 09:12:49",
+      "https://news.ycombinator.com/item?id=31107372"
+    ],
+    [
+      "The x86 architecture is the weirdo, part 2",
+      "https://devblogs.microsoft.com/oldnewthing/20220418-00/?p=106489"
     ]
   ],
   [
