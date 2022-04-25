@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-25, 14:42:14",
+      "https://news.ycombinator.com/item?id=31155542"
+    ],
+    [
+      "Launch HN: Echoes HQ (YC S21) – Developer-friendly activity reports",
+      "https://news.ycombinator.com/item?id=31155542"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 14:16:58",
       "https://news.ycombinator.com/item?id=31155137"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2022-04-25, 00:07:39",
+      "https://news.ycombinator.com/item?id=31149463"
+    ],
+    [
+      "BYOT: Bring your own team for new-grads",
+      "https://byot.app/#byot"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 00:01:36",
       "https://news.ycombinator.com/item?id=31149427"
     ],
@@ -207,26 +227,6 @@
     [
       "Show HN: I'm making a dynamic language in Rust",
       "https://github.com/mwerezak/sphinx-lang"
-    ]
-  ],
-  [
-    [
-      "2022-04-24, 22:54:03",
-      "https://news.ycombinator.com/item?id=31149038"
-    ],
-    [
-      "Maximum Flow and Minimum-Cost Flow in Almost-Linear Time",
-      "https://arxiv.org/abs/2203.00671"
-    ]
-  ],
-  [
-    [
-      "2022-04-24, 22:17:20",
-      "https://news.ycombinator.com/item?id=31148839"
-    ],
-    [
-      "How easy is it in 2022 to find a SHA1 collision?",
-      "https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision"
     ]
   ],
   [
