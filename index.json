@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-25, 16:31:06",
+      "https://news.ycombinator.com/item?id=31157181"
+    ],
+    [
+      "LightPC: A Resilient System Using Only Non-Volatile Memory",
+      "https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=20111&skey=&sval=&list_s_date=&list_e_date=&GotoPage=1"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 16:25:14",
+      "https://news.ycombinator.com/item?id=31157088"
+    ],
+    [
+      "New Lidar System Promises 3D Vision for Cameras, Cars, and Bots",
+      "https://spectrum.ieee.org/solid-state-lidar-2657187384"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 16:04:54",
+      "https://news.ycombinator.com/item?id=31156799"
+    ],
+    [
+      "Free Open Source Tailwind CSS Components",
+      "https://www.hyperui.dev/"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 15:13:36",
       "https://news.ycombinator.com/item?id=31156018"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-04-25, 07:50:08",
-      "https://news.ycombinator.com/item?id=31151624"
-    ],
-    [
-      "Resumes are dangerous?",
-      "https://blog.alexmaccaw.com/resumes-are-dangerous/"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 07:35:57",
       "https://news.ycombinator.com/item?id=31151546"
     ],
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2022-04-25, 02:17:46",
-      "https://news.ycombinator.com/item?id=31150190"
-    ],
-    [
-      "Storytelling on Stage: Proposal Writing for Procrastinators (2021)",
-      "https://blog.gopheracademy.com/storytelling-on-stage-proposal-writing-for-procrastinators/"
-    ]
-  ],
-  [
-    [
-      "2022-04-24, 07:31:13",
-      "https://news.ycombinator.com/item?id=31141991"
-    ],
-    [
-      "The candy stores of Oxford Street",
-      "http://diamondgeezer.blogspot.com/2022/03/the-candy-stores-of-oxford-street.html"
-    ]
-  ],
-  [
-    [
       "2022-04-24, 06:51:00",
       "https://news.ycombinator.com/item?id=31141836"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-04-23, 09:47:25",
+      "https://news.ycombinator.com/item?id=31132735"
+    ],
+    [
+      "Simple Ways to Be Less Divisive",
+      "https://staysaasy.com/management/2021/07/17/Less-Divisive.html"
+    ]
+  ],
+  [
+    [
       "2022-04-20, 09:22:19",
       "https://news.ycombinator.com/item?id=31094468"
     ],
     [
       "Forced colors explained",
       "https://polypane.app/blog/forced-colors-explained-a-practical-guide/"
-    ]
-  ],
-  [
-    [
-      "2022-04-20, 05:18:35",
-      "https://news.ycombinator.com/item?id=31093092"
-    ],
-    [
-      "The Applesoft Compiler (TASC): We have the source code, in a sense",
-      "https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496"
     ]
   ]
 ]
