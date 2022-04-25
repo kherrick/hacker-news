@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-04-25, 00:01:36",
-      "https://news.ycombinator.com/item?id=31149427"
+      "2022-04-25, 01:00:17",
+      "https://news.ycombinator.com/item?id=31149751"
     ],
     [
-      "Ask HN: What's the most stable form of digital storage?",
-      "https://news.ycombinator.com/item?id=31149427"
+      "Web 2.0 sucks sharp rocks and canal water through a dirty straw",
+      "https://stormrider.io/blog/20220424.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 00:07:39",
+      "https://news.ycombinator.com/item?id=31149463"
+    ],
+    [
+      "BYOT: Bring your own team for new-grads",
+      "https://byot.app/#byot"
     ]
   ],
   [
@@ -16,7 +26,7 @@
     ],
     [
       "Show HN: I'm making a dynamic language in Rust",
-      "https://news.ycombinator.com/item?id=31149332"
+      "https://github.com/mwerezak/sphinx-lang"
     ]
   ],
   [
@@ -241,12 +251,22 @@
   ],
   [
     [
-      "2022-04-24, 11:12:26",
-      "https://news.ycombinator.com/item?id=31142959"
+      "2022-04-24, 09:15:43",
+      "https://news.ycombinator.com/item?id=31142413"
     ],
     [
-      "The afterlife of used hotel soap",
-      "https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/"
+      "Buttons on BL602 NuttX",
+      "https://www.robertlipe.com/buttons-on-bl602-nuttx/"
+    ]
+  ],
+  [
+    [
+      "2022-04-23, 21:05:03",
+      "https://news.ycombinator.com/item?id=31138539"
+    ],
+    [
+      "Entangled photon apparatus for the undergraduate laboratory (2002)",
+      "https://arxiv.org/abs/quant-ph/0205172"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-04-23, 03:47:57",
-      "https://news.ycombinator.com/item?id=31131193"
-    ],
-    [
-      "Exhibition of Pompeii’s sex scenes aims to decode erotica",
-      "https://www.theguardian.com/science/2022/apr/17/pompeii-sex-scenes-hint-what-happened-erotic-art-ancient"
-    ]
-  ],
-  [
-    [
       "2022-04-22, 19:53:53",
       "https://news.ycombinator.com/item?id=31127207"
     ],
     [
       "My lazy Wordle strategy: same words every time",
       "https://i-kh.net/2022/04/22/my-lazy-wordle-strategy/"
-    ]
-  ],
-  [
-    [
-      "2022-04-22, 18:55:12",
-      "https://news.ycombinator.com/item?id=31126402"
-    ],
-    [
-      "How to Build a BVH (Bounding Volume Hierarchy) on the CPU",
-      "https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/"
     ]
   ]
 ]
