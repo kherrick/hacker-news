@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-25, 13:00:33",
+      "https://news.ycombinator.com/item?id=31153857"
+    ],
+    [
+      "Long-term risks of surgery: ‘It gives people’s brains a hard time’",
+      "https://www.theguardian.com/science/2022/apr/24/the-hidden-long-term-risks-of-surgery-it-give-peoples-brains-a-hard-time"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 12:49:30",
+      "https://news.ycombinator.com/item?id=31153698"
+    ],
+    [
+      "Whats New in PHP 8.2",
+      "https://stitcher.io/blog/new-in-php-82"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 12:21:18",
+      "https://news.ycombinator.com/item?id=31153434"
+    ],
+    [
+      "Low-Latency, High-Throughput Garbage Collection [pdf]",
+      "https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 12:06:11",
       "https://news.ycombinator.com/item?id=31153333"
     ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31152403"
     ],
     [
-      "GitHub Packages and Pages Down",
+      "Incident with GitHub Packages and GitHub Pages",
       "https://www.githubstatus.com/incidents/b40k7ckrs7sp"
     ]
   ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-04-25, 07:04:30",
-      "https://news.ycombinator.com/item?id=31151392"
-    ],
-    [
-      "Ask HN: My annual plea for dark mode",
-      "https://news.ycombinator.com/item?id=31151392"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 05:44:03",
       "https://news.ycombinator.com/item?id=31151048"
     ],
@@ -127,26 +147,6 @@
     [
       "Swedish slow TV: The great moose migration [video]",
       "https://www.svtplay.se/video/34674835/den-stora-algvandringen/den-stora-algvandringen-sasong-4-24-apr-00-00"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 04:34:47",
-      "https://news.ycombinator.com/item?id=31150788"
-    ],
-    [
-      "Some things that make shell scripts have performance issues",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsAndSpeed"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 04:06:53",
-      "https://news.ycombinator.com/item?id=31150646"
-    ],
-    [
-      "When elites reject data: marriage stability at the UN",
-      "https://publica.org.au/marriage-beliefs-un/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31141854"
     ],
     [
-      "Science in the Age of Selfies",
+      "Science in the age of selfies (2016)",
       "https://www.pnas.org/doi/10.1073/pnas.1609793113"
     ]
   ],
