@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-25, 21:15:53",
+      "https://news.ycombinator.com/item?id=31160722"
+    ],
+    [
+      "Running prettier 40x faster than prettier CLI using dprint",
+      "https://david.deno.dev/posts/faster-prettier-with-dprint/"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 21:01:53",
       "https://news.ycombinator.com/item?id=31160546"
     ],
@@ -17,16 +27,6 @@
     [
       "HireArt (YC W12) Is Hiring a Product Designer",
       "https://www.hireart.com/jobs/0e40a78f/apply?utm_source=hackernews"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 18:47:29",
-      "https://news.ycombinator.com/item?id=31159036"
-    ],
-    [
-      "Writing a Linux Kernel Remote in 2022",
-      "https://blog.immunityinc.com/p/writing-a-linux-kernel-remote-in-2022/"
     ]
   ],
   [
