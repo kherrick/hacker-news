@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-26, 12:00:28",
+      "https://news.ycombinator.com/item?id=31166421"
+    ],
+    [
+      "Firezone (YC W22) Is Hiring Engineers to Build an Open-Source Security Platform",
+      "https://www.ycombinator.com/companies/firezone/jobs"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 11:53:30",
+      "https://news.ycombinator.com/item?id=31166346"
+    ],
+    [
+      "LineageOS 19",
+      "https://lineageos.org/Changelog-26/"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 11:40:33",
       "https://news.ycombinator.com/item?id=31166225"
     ],
@@ -111,26 +131,6 @@
   ],
   [
     [
-      "2022-04-26, 01:00:21",
-      "https://news.ycombinator.com/item?id=31162794"
-    ],
-    [
-      "Manara (YC W21) Is Hiring a senior front end engineer",
-      "https://manara.breezy.hr/p/1cebbb12d138"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 00:33:16",
-      "https://news.ycombinator.com/item?id=31162623"
-    ],
-    [
-      "Domain Driven Design Reference (2015) [pdf]",
-      "https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 00:25:49",
       "https://news.ycombinator.com/item?id=31162576"
     ],
@@ -177,6 +177,16 @@
     [
       "Speeding up Prettier locally and on your CI with dprint",
       "https://david.deno.dev/posts/faster-prettier-with-dprint/"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 18:40:47",
+      "https://news.ycombinator.com/item?id=31158951"
+    ],
+    [
+      "Things I sort of believe about making music",
+      "https://www.johnwhiles.com/posts/music-production-lessons.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Functional programming with bananas, lenses, envelopes and barbed wire [pdf] (1991)",
       "https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 09:52:07",
-      "https://news.ycombinator.com/item?id=31152385"
-    ],
-    [
-      "Beginners Guide to 0day/CVE AppSec Research",
-      "https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html"
     ]
   ],
   [
