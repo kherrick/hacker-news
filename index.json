@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2022-04-25, 18:45:47",
+      "https://news.ycombinator.com/item?id=31159010"
+    ],
+    [
+      "Sorbet and 100% cov makes Ruby refactoring possible",
+      "https://brandur.org/fragments/large-scale-ruby-refactoring"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 18:21:15",
       "https://news.ycombinator.com/item?id=31158717"
     ],
@@ -257,16 +267,6 @@
     [
       "Functional programming with bananas, lenses, envelopes and barbed wire [pdf]",
       "https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 10:00:34",
-      "https://news.ycombinator.com/item?id=31152452"
-    ],
-    [
-      "AI can't tell you it's lying if it thinks it's telling the truth",
-      "https://www.theregister.com/2022/04/25/machine_learning_verification/"
     ]
   ],
   [
