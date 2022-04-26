@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-04-26, 14:47:18",
-      "https://news.ycombinator.com/item?id=31168134"
+      "2022-04-26, 15:26:46",
+      "https://news.ycombinator.com/item?id=31168668"
     ],
     [
-      "Sell Bitcoin, Save Lives: Some Bitcoin Simulators",
-      "https://www.sellbitcoinsavelives.org/"
+      "Let's talk about supply chain attacks and backdoored dependencies",
+      "https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 15:25:15",
+      "https://news.ycombinator.com/item?id=31168646"
+    ],
+    [
+      "macOS 8 running entirely in the browser",
+      "https://macos8.app/"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 15:21:13",
+      "https://news.ycombinator.com/item?id=31168586"
+    ],
+    [
+      "Indigenous Myth and Science: From Egypt to New Zealand",
+      "https://lawrencekrauss.substack.com/p/indigenous-myth-and-science-from"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31168069"
     ],
     [
-      "Reloadium – Hot Reloading for Python (a.k.a. Edit and Continue)",
+      "Reloadium – Advanced hot reloading for Python",
       "https://github.com/reloadware/reloadium"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-04-26, 07:01:29",
-      "https://news.ycombinator.com/item?id=31164799"
-    ],
-    [
-      "Show HN: thin.dev, back end for making realtime, typesafe React Apps",
-      "https://thin.dev/"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 04:13:04",
       "https://news.ycombinator.com/item?id=31163871"
     ],
@@ -207,16 +217,6 @@
     [
       "Learn Go with Tests",
       "https://quii.gitbook.io/learn-go-with-tests/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 01:47:10",
-      "https://news.ycombinator.com/item?id=31163083"
-    ],
-    [
-      "Hush, a modern shell scripting language",
-      "https://hush-shell.github.io/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-04-25, 02:21:22",
-      "https://news.ycombinator.com/item?id=31150209"
+      "2022-04-25, 02:16:06",
+      "https://news.ycombinator.com/item?id=31150180"
     ],
     [
-      "Default Arguments and Label-Based Overloading",
-      "https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/"
+      "Howdy – Windows Hello style facial authentication for Linux",
+      "https://github.com/boltgolt/howdy"
     ]
   ],
   [
