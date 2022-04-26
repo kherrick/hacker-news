@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-04-26, 01:47:10",
+      "https://news.ycombinator.com/item?id=31163083"
+    ],
+    [
+      "Hush, a modern shell scripting language",
+      "https://hush-shell.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 01:45:17",
+      "https://news.ycombinator.com/item?id=31163077"
+    ],
+    [
+      "Show HN: We launched a new web browser",
+      "https://news.ycombinator.com/item?id=31163077"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 01:05:32",
+      "https://news.ycombinator.com/item?id=31162829"
+    ],
+    [
+      "PSA: Git.io links will stop working in 3 days (29 of April 2022)",
+      "https://github.blog/changelog/2022-04-25-git-io-deprecation/"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 01:00:21",
       "https://news.ycombinator.com/item?id=31162794"
     ],
@@ -11,12 +41,32 @@
   ],
   [
     [
+      "2022-04-26, 00:33:16",
+      "https://news.ycombinator.com/item?id=31162623"
+    ],
+    [
+      "Domain Driven Design Reference (2015) [pdf]",
+      "https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 00:25:49",
       "https://news.ycombinator.com/item?id=31162576"
     ],
     [
       "Elegant six-page proof reveals the emergence of random structure",
       "https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 00:00:27",
+      "https://news.ycombinator.com/item?id=31162434"
+    ],
+    [
+      "Stunner – tool to test and exploit STUN, TURN and TURN over TCP servers",
+      "https://github.com/firefart/stunner"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2022-04-25, 21:40:21",
-      "https://news.ycombinator.com/item?id=31161034"
-    ],
-    [
-      "Show HN: PyNeuraLogic: Python Differentiable Logic Programs",
-      "https://github.com/LukasZahradnik/PyNeuraLogic"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 21:15:53",
       "https://news.ycombinator.com/item?id=31160722"
     ],
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2022-04-25, 18:13:27",
-      "https://news.ycombinator.com/item?id=31158621"
-    ],
-    [
-      "Multimodal Art",
-      "https://multimodal.art/"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 17:22:21",
       "https://news.ycombinator.com/item?id=31157969"
     ],
     [
       "Ask HN: What happened to Twitter poison pill?",
       "https://news.ycombinator.com/item?id=31157969"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 16:58:38",
-      "https://news.ycombinator.com/item?id=31157626"
-    ],
-    [
-      "C++20 Ranges Algorithms – 7 Non-Modifying Operations",
-      "https://www.cppstories.com/2022/ranges-alg-part-one/"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Best Font for Online Reading: No Single Answer",
       "https://www.nngroup.com/articles/best-font-for-online-reading/"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 14:59:44",
-      "https://news.ycombinator.com/item?id=31155801"
-    ],
-    [
-      "Cryogenic CO2 could end rail delays caused by leaves on the line",
-      "https://www.sheffield.ac.uk/news/leaf-busting-tech-could-end-rail-delays-caused-leaves-line"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-04-25, 11:30:09",
-      "https://news.ycombinator.com/item?id=31153062"
-    ],
-    [
-      "Apple’s Private Relay can cause the system to ignore firewall rules",
-      "https://mullvad.net/en/blog/2022/4/25/apples-private-relay-can-cause-the-system-to-ignore-firewall-rules/"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 10:00:34",
       "https://news.ycombinator.com/item?id=31152452"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-04-25, 09:48:34",
-      "https://news.ycombinator.com/item?id=31152365"
+      "2022-04-25, 09:52:07",
+      "https://news.ycombinator.com/item?id=31152385"
     ],
     [
-      "Japan's Hometown Tax (2018)",
-      "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/"
+      "Beginners Guide to 0day/CVE AppSec Research",
+      "https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html"
     ]
   ],
   [
     [
-      "2022-04-25, 02:17:05",
-      "https://news.ycombinator.com/item?id=31150186"
+      "2022-04-25, 05:46:54",
+      "https://news.ycombinator.com/item?id=31151056"
     ],
     [
-      "tcpcp - passing TCP connections between hosts (2005)",
-      "http://tcpcp.sourceforge.net/"
+      "Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing",
+      "https://phorhum.github.io/"
     ]
   ],
   [
