@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-04-26, 01:00:21",
+      "https://news.ycombinator.com/item?id=31162794"
+    ],
+    [
+      "Manara (YC W21) Is Hiring a senior front end engineer",
+      "https://manara.breezy.hr/p/1cebbb12d138"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 00:25:49",
+      "https://news.ycombinator.com/item?id=31162576"
+    ],
+    [
+      "Elegant six-page proof reveals the emergence of random structure",
+      "https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 23:28:43",
+      "https://news.ycombinator.com/item?id=31162193"
+    ],
+    [
+      "Manganese could be the secret behind truly mass-market EVs",
+      "https://spectrum.ieee.org/manganese-ev-batteries"
+    ]
+  ],
+  [
+    [
       "2022-04-25, 23:17:05",
       "https://news.ycombinator.com/item?id=31162093"
     ],
     [
-      "European Wind-Energy Sector Hit in Wave of Hacks",
+      "European wind-energy sector hit in wave of hacks",
       "https://www.wsj.com/articles/european-wind-energy-sector-hit-in-wave-of-hacks-11650879000"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 23:13:36",
+      "https://news.ycombinator.com/item?id=31162070"
+    ],
+    [
+      "WebAuthn Browser Support",
+      "https://developers.yubico.com/WebAuthn/WebAuthn_Browser_Support/"
     ]
   ],
   [
@@ -35,18 +75,8 @@
       "https://news.ycombinator.com/item?id=31160722"
     ],
     [
-      "Running prettier 40x faster than prettier CLI using dprint",
+      "Speeding up Prettier locally and on your CI with dprint",
       "https://david.deno.dev/posts/faster-prettier-with-dprint/"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 21:01:38",
-      "https://news.ycombinator.com/item?id=31160541"
-    ],
-    [
-      "HireArt (YC W12) Is Hiring a Product Designer",
-      "https://www.hireart.com/jobs/0e40a78f/apply?utm_source=hackernews"
     ]
   ],
   [
@@ -121,21 +151,11 @@
   ],
   [
     [
-      "2022-04-25, 16:04:54",
-      "https://news.ycombinator.com/item?id=31156799"
-    ],
-    [
-      "Free Open Source Tailwind CSS Components",
-      "https://www.hyperui.dev/"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 15:13:36",
       "https://news.ycombinator.com/item?id=31156018"
     ],
     [
-      "Study for best font for online reading: no single answer",
+      "Best Font for Online Reading: No Single Answer",
       "https://www.nngroup.com/articles/best-font-for-online-reading/"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-04-25, 12:06:11",
-      "https://news.ycombinator.com/item?id=31153333"
-    ],
-    [
-      "Show HN: Voxel Lunar Lander in the Browser",
-      "https://github.com/EngineersNeedArt/Mooncraft2000"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 11:58:20",
       "https://news.ycombinator.com/item?id=31153277"
     ],
@@ -227,6 +237,16 @@
     [
       "Apple’s Private Relay can cause the system to ignore firewall rules",
       "https://mullvad.net/en/blog/2022/4/25/apples-private-relay-can-cause-the-system-to-ignore-firewall-rules/"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 10:00:34",
+      "https://news.ycombinator.com/item?id=31152452"
+    ],
+    [
+      "AI can't tell you it's lying if it thinks it's telling the truth",
+      "https://www.theregister.com/2022/04/25/machine_learning_verification/"
     ]
   ],
   [
@@ -251,22 +271,22 @@
   ],
   [
     [
-      "2022-04-24, 22:33:02",
-      "https://news.ycombinator.com/item?id=31148923"
-    ],
-    [
-      "Bricks Might Save Clicks",
-      "https://www.wsj.com/articles/how-bricks-might-save-clicks-11650619815"
-    ]
-  ],
-  [
-    [
       "2022-04-24, 06:51:00",
       "https://news.ycombinator.com/item?id=31141836"
     ],
     [
-      "Good genes are nice, but joy is better",
+      "Good genes are nice, but joy is better (2017)",
       "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 04:33:44",
+      "https://news.ycombinator.com/item?id=31141320"
+    ],
+    [
+      "Magnum: Lightweight, modular C++11 graphics middleware for games/visualization",
+      "https://github.com/mosra/magnum"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Postcards from the Southern End of the World",
       "https://www.postcrossing.com/blog/2022/04/08/postcards-from-the-southern-end-of-the-world"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 17:05:26",
-      "https://news.ycombinator.com/item?id=31112115"
-    ],
-    [
-      "Ask HN: Was this a phishing attempt?",
-      "https://news.ycombinator.com/item?id=31112115"
-    ]
-  ],
-  [
-    [
-      "2022-04-21, 12:14:25",
-      "https://news.ycombinator.com/item?id=31108439"
-    ],
-    [
-      "When Americans dreamed of kitchen computers (2021)",
-      "https://www.atlasobscura.com/articles/kitchen-computers"
     ]
   ]
 ]
