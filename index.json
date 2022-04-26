@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-04-26, 17:35:26",
-      "https://news.ycombinator.com/item?id=31170481"
-    ],
-    [
-      "Ask HN: Is Ruby on Rails still relevant?",
-      "https://news.ycombinator.com/item?id=31170481"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 17:31:48",
       "https://news.ycombinator.com/item?id=31170441"
     ],
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2022-04-26, 16:47:15",
-      "https://news.ycombinator.com/item?id=31169758"
-    ],
-    [
-      "The frenzied world of rare watches",
-      "https://www.vanityfair.com/style/2022/03/inside-the-frenzied-world-of-rare-watches"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 16:16:21",
       "https://news.ycombinator.com/item?id=31169332"
     ],
     [
       "Type-Based Optimizations in the JIT",
       "https://www.erlang.org/blog/type-based-optimizations-in-the-jit/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 16:01:04",
-      "https://news.ycombinator.com/item?id=31169132"
-    ],
-    [
-      "Apple's grip on iOS browser engines disallowed under latest draft EU rules",
-      "https://www.theregister.com/2022/04/26/apple_ios_browser/"
     ]
   ],
   [
@@ -231,12 +201,22 @@
   ],
   [
     [
-      "2022-04-26, 11:53:30",
-      "https://news.ycombinator.com/item?id=31166346"
+      "2022-04-26, 12:52:11",
+      "https://news.ycombinator.com/item?id=31166843"
     ],
     [
-      "LineageOS 19",
-      "https://lineageos.org/Changelog-26/"
+      "High-Security Mechanical Locks (2020)",
+      "https://swiftsilentdeadly.com/high-security-mechanical-locks/"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 11:10:45",
+      "https://news.ycombinator.com/item?id=31166026"
+    ],
+    [
+      "Rotary Un-Smartphone Kit",
+      "https://skysedge.com/unsmartphones/RUSP/index.html"
     ]
   ],
   [
@@ -257,6 +237,16 @@
     [
       "Compile time evaluation in Nim, Zig, Rust and C++",
       "https://castillodel.github.io/compile-time-evaluation/"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 18:40:47",
+      "https://news.ycombinator.com/item?id=31158951"
+    ],
+    [
+      "Things I sort of believe about making music",
+      "https://www.johnwhiles.com/posts/music-production-lessons.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Implementing a Transputer system using RasPi Pico and RAM expansion",
       "http://trochilidae.blogspot.com/2021/07/stack-based-with-os-in-hardware.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 07:47:05",
+      "https://news.ycombinator.com/item?id=31142051"
+    ],
+    [
+      "Making 3D printing truly 3D",
+      "https://phys.org/news/2022-04-3d.html"
     ]
   ]
 ]
