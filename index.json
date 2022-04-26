@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-26, 20:03:09",
+      "https://news.ycombinator.com/item?id=31172475"
+    ],
+    [
+      "Alphabet Announces First Quarter 2022 Results",
+      "https://abc.xyz/investor/static/pdf/2022Q1_alphabet_earnings_release.pdf?cache=d9e9d97"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 18:32:42",
       "https://news.ycombinator.com/item?id=31171288"
     ],
     [
       "Why Pessimism Sounds Smart",
       "https://rootsofprogress.org/why-pessimism-sounds-smart"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 18:18:40",
+      "https://news.ycombinator.com/item?id=31171097"
+    ],
+    [
+      "I received a patent infringement email for my weekend project (2010)",
+      "https://www.royvanrijn.com/blog/2010/07/patent-infringement/"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Type-Based Optimizations in the JIT",
       "https://www.erlang.org/blog/type-based-optimizations-in-the-jit/"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 15:40:39",
+      "https://news.ycombinator.com/item?id=31168882"
+    ],
+    [
+      "Show HN: Linen – Make your Slack community Google-searchable",
+      "https://news.ycombinator.com/item?id=31168882"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2022-04-26, 13:44:28",
-      "https://news.ycombinator.com/item?id=31167374"
-    ],
-    [
-      "Indian cows and buffaloes are going online",
-      "https://www.economist.com/asia/2022/04/21/indian-cows-and-buffaloes-are-going-online"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 13:43:54",
       "https://news.ycombinator.com/item?id=31167368"
     ],
     [
       "Launch HN: Kraftful (YC S19) – UX Analytics for IoT Products",
       "https://news.ycombinator.com/item?id=31167368"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 13:39:27",
-      "https://news.ycombinator.com/item?id=31167325"
-    ],
-    [
-      "To improve medical trials, justify exclusion criteria",
-      "https://trevorklee.substack.com/p/one-neat-trick-for-instantly-improving"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "High-Security Mechanical Locks (2020)",
       "https://swiftsilentdeadly.com/high-security-mechanical-locks/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 11:10:45",
-      "https://news.ycombinator.com/item?id=31166026"
-    ],
-    [
-      "Rotary Un-Smartphone Kit",
-      "https://skysedge.com/unsmartphones/RUSP/index.html"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Compile time evaluation in Nim, Zig, Rust and C++",
       "https://castillodel.github.io/compile-time-evaluation/"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 18:40:47",
-      "https://news.ycombinator.com/item?id=31158951"
-    ],
-    [
-      "Things I sort of believe about making music",
-      "https://www.johnwhiles.com/posts/music-production-lessons.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Howdy – Windows Hello style facial authentication for Linux",
       "https://github.com/boltgolt/howdy"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 01:07:40",
+      "https://news.ycombinator.com/item?id=31149808"
+    ],
+    [
+      "Against Bayesianism – David Deutsch",
+      "https://josephnoelwalker.com/139-david-deutsch/"
     ]
   ],
   [
