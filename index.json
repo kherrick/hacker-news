@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-04-26, 17:39:03",
-      "https://news.ycombinator.com/item?id=31170535"
+      "2022-04-26, 18:32:42",
+      "https://news.ycombinator.com/item?id=31171288"
     ],
     [
-      "What's New in Neovim 0.7",
-      "https://neovim.io/news/2022/04"
+      "Why Pessimism Sounds Smart",
+      "https://rootsofprogress.org/why-pessimism-sounds-smart"
     ]
   ],
   [
@@ -21,12 +21,42 @@
   ],
   [
     [
+      "2022-04-26, 17:35:26",
+      "https://news.ycombinator.com/item?id=31170481"
+    ],
+    [
+      "Ask HN: Is Ruby on Rails still relevant?",
+      "https://news.ycombinator.com/item?id=31170481"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 17:31:48",
+      "https://news.ycombinator.com/item?id=31170441"
+    ],
+    [
+      "Prototyping a Logo programming environment inside natto.dev [video]",
+      "https://www.youtube.com/watch?v=XmS0QGan_Qs"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 17:30:50",
       "https://news.ycombinator.com/item?id=31170431"
     ],
     [
       "An update on the campaign to defend serious math education in California",
       "https://scottaaronson.blog/?p=6389"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 17:26:56",
+      "https://news.ycombinator.com/item?id=31170370"
+    ],
+    [
+      "Slack’s Incident on 2-22-22",
+      "https://slack.engineering/slacks-incident-on-2-22-22/"
     ]
   ],
   [
@@ -41,21 +71,11 @@
   ],
   [
     [
-      "2022-04-26, 17:11:01",
-      "https://news.ycombinator.com/item?id=31170152"
-    ],
-    [
-      "OneLogin Outage",
-      "https://www.onelogin.com/status"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 17:00:54",
       "https://news.ycombinator.com/item?id=31169959"
     ],
     [
-      "Runops is fixing security tech from the 80s and hiring dev advocate",
+      "Runops (YC W21) is hiring a dev advocate to help fix security tech",
       "https://www.ycombinator.com/companies/runops/jobs/4S6TgVQ-data-privacy-devops-advocate"
     ]
   ],
@@ -81,11 +101,31 @@
   ],
   [
     [
+      "2022-04-26, 16:16:21",
+      "https://news.ycombinator.com/item?id=31169332"
+    ],
+    [
+      "Type-Based Optimizations in the JIT",
+      "https://www.erlang.org/blog/type-based-optimizations-in-the-jit/"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 16:01:04",
+      "https://news.ycombinator.com/item?id=31169132"
+    ],
+    [
+      "Apple's grip on iOS browser engines disallowed under latest draft EU rules",
+      "https://www.theregister.com/2022/04/26/apple_ios_browser/"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 15:38:51",
       "https://news.ycombinator.com/item?id=31168862"
     ],
     [
-      "3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work",
+      "3,200-year-old Egyptian tablet records excuses for why people missed work",
       "https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html"
     ]
   ],
@@ -97,16 +137,6 @@
     [
       "Incremental Learning",
       "http://www.super-memory.com/help/il.htm"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 15:26:46",
-      "https://news.ycombinator.com/item?id=31168668"
-    ],
-    [
-      "Let's talk about supply chain attacks and backdoored dependencies",
-      "https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "GraalVM 22.1: Developer experience improvements, Apple Silicon builds, and more",
       "https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 14:31:48",
-      "https://news.ycombinator.com/item?id=31167935"
-    ],
-    [
-      "Effective Go",
-      "https://go.dev/doc/effective_go"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=31167325"
     ],
     [
-      "Justify Your Exclusion Criteria",
+      "To improve medical trials, justify exclusion criteria",
       "https://trevorklee.substack.com/p/one-neat-trick-for-instantly-improving"
     ]
   ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-04-25, 12:23:48",
-      "https://news.ycombinator.com/item?id=31153453"
-    ],
-    [
-      "CRT Manufacturing",
-      "https://vintagetek.org/crt-manufacturing/"
-    ]
-  ],
-  [
-    [
       "2022-04-25, 10:09:25",
       "https://news.ycombinator.com/item?id=31152511"
     ],
@@ -287,16 +297,6 @@
     [
       "Howdy – Windows Hello style facial authentication for Linux",
       "https://github.com/boltgolt/howdy"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 01:29:09",
-      "https://news.ycombinator.com/item?id=31149934"
-    ],
-    [
-      "New clues shed light on ‘pivotal’ moment in the great Pacific migration",
-      "https://www.theguardian.com/world/2022/apr/23/new-clues-shed-light-on-pivotal-moment-in-the-great-pacific-migration"
     ]
   ]
 ]
