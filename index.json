@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-26, 18:02:26",
+      "https://news.ycombinator.com/item?id=31170883"
+    ],
+    [
+      "Book Review: A Clinical Introduction to Lacanian Psychoanalysis",
+      "https://astralcodexten.substack.com/p/book-review-a-clinical-introduction"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 17:38:37",
       "https://news.ycombinator.com/item?id=31170528"
     ],
@@ -87,16 +97,6 @@
     [
       "The frenzied world of rare watches",
       "https://www.vanityfair.com/style/2022/03/inside-the-frenzied-world-of-rare-watches"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 16:25:34",
-      "https://news.ycombinator.com/item?id=31169455"
-    ],
-    [
-      "Twitter owner transition: Temporary ban on product updates after Elon Musk deal",
-      "https://www.bloomberg.com/news/articles/2022-04-25/twitter-locks-down-product-changes-after-agreeing-to-musk-bid"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2022-04-26, 13:45:11",
+      "https://news.ycombinator.com/item?id=31167383"
+    ],
+    [
+      "The Problem with Mechanical Switch Reviews (2016)",
+      "https://input.club/the-problem-with-mechanical-switch-reviews/"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 13:44:28",
       "https://news.ycombinator.com/item?id=31167374"
     ],
@@ -221,42 +231,12 @@
   ],
   [
     [
-      "2022-04-26, 13:00:01",
-      "https://news.ycombinator.com/item?id=31166924"
-    ],
-    [
-      "Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps",
-      "https://www.flycode.com/developers"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 12:52:11",
-      "https://news.ycombinator.com/item?id=31166843"
-    ],
-    [
-      "High-Security Mechanical Locks (2020)",
-      "https://swiftsilentdeadly.com/high-security-mechanical-locks/"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 11:53:30",
       "https://news.ycombinator.com/item?id=31166346"
     ],
     [
       "LineageOS 19",
       "https://lineageos.org/Changelog-26/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 11:10:45",
-      "https://news.ycombinator.com/item?id=31166026"
-    ],
-    [
-      "Rotary Un-Smartphone Kit",
-      "https://skysedge.com/unsmartphones/RUSP/index.html"
     ]
   ],
   [
@@ -271,12 +251,22 @@
   ],
   [
     [
-      "2022-04-25, 18:40:47",
-      "https://news.ycombinator.com/item?id=31158951"
+      "2022-04-25, 20:34:26",
+      "https://news.ycombinator.com/item?id=31160234"
     ],
     [
-      "Things I sort of believe about making music",
-      "https://www.johnwhiles.com/posts/music-production-lessons.html"
+      "Compile time evaluation in Nim, Zig, Rust and C++",
+      "https://castillodel.github.io/compile-time-evaluation/"
+    ]
+  ],
+  [
+    [
+      "2022-04-25, 14:47:00",
+      "https://news.ycombinator.com/item?id=31155625"
+    ],
+    [
+      "We unplugged a data center to test our disaster readiness",
+      "https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Howdy – Windows Hello style facial authentication for Linux",
       "https://github.com/boltgolt/howdy"
+    ]
+  ],
+  [
+    [
+      "2022-04-24, 21:42:09",
+      "https://news.ycombinator.com/item?id=31148607"
+    ],
+    [
+      "Implementing a Transputer system using RasPi Pico and RAM expansion",
+      "http://trochilidae.blogspot.com/2021/07/stack-based-with-os-in-hardware.html"
     ]
   ]
 ]
