@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-27, 12:10:20",
+      "https://news.ycombinator.com/item?id=31178908"
+    ],
+    [
+      "Google almost convinced me to spend $400 on useless laser treatments",
+      "https://blog.tjcx.me/p/google-terrible-health-information"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 12:00:04",
       "https://news.ycombinator.com/item?id=31178817"
     ],
@@ -57,6 +67,16 @@
     [
       "Statistical Analysis shows Echos process voice to serve ads",
       "https://arxiv.org/abs/2204.10920"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 07:43:34",
+      "https://news.ycombinator.com/item?id=31177376"
+    ],
+    [
+      "Yacht – A web interface for managing Docker containers",
+      "https://yacht.sh/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "How to write a Git commit message (2014)",
       "https://cbea.ms/git-commit/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 20:20:26",
-      "https://news.ycombinator.com/item?id=31172653"
-    ],
-    [
-      "HTML event handler attributes: down the rabbit hole",
-      "https://datastation.multiprocess.io/blog/2022-04-26-event-handler-attributes.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Datalog in JavaScript",
       "https://www.instantdb.dev/essays/datalogjs"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 12:49:48",
-      "https://news.ycombinator.com/item?id=31153702"
-    ],
-    [
-      "The Mysteries of Lisp (2015)",
-      "https://arxiv.org/abs/1505.07375"
     ]
   ]
 ]
