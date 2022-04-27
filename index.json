@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-27, 19:57:07",
+      "https://news.ycombinator.com/item?id=31184957"
+    ],
+    [
+      "The Kia Instrument",
+      "https://www.kia.com/us/en/movement/our-instrument"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 19:44:44",
       "https://news.ycombinator.com/item?id=31184825"
     ],
@@ -117,16 +127,6 @@
     [
       "Running Containers on AWS Lambda",
       "https://earthly.dev/blog/aws-lambda-docker/"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 16:15:29",
-      "https://news.ycombinator.com/item?id=31181898"
-    ],
-    [
-      "Show HN: gq – like jq or zq, but you use Go",
-      "https://github.com/hherman1/gq"
     ]
   ],
   [
