@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-04-27, 16:28:08",
+      "https://news.ycombinator.com/item?id=31182099"
+    ],
+    [
+      "Running Containers on AWS Lambda",
+      "https://earthly.dev/blog/aws-lambda-docker/"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 16:15:29",
+      "https://news.ycombinator.com/item?id=31181898"
+    ],
+    [
+      "Show HN: gq – like jq or zq, but you use Go",
+      "https://github.com/hherman1/gq"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 16:02:11",
+      "https://news.ycombinator.com/item?id=31181735"
+    ],
+    [
+      "Heatwave in India breaks records, still worsening",
+      "https://earthsky.org/earth/heatwave-in-india-breaks-records/"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 15:55:13",
+      "https://news.ycombinator.com/item?id=31181595"
+    ],
+    [
+      "So Long Surrogates: How We Moved to UTF-8 in Haskell",
+      "https://www.channable.com/tech/so-long-surrogatesa"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 15:32:12",
       "https://news.ycombinator.com/item?id=31181237"
     ],
@@ -67,16 +107,6 @@
     [
       "Gitlab New Logo: DevOps Is at the Center of Gitlab",
       "https://about.gitlab.com/blog/2022/04/27/devops-is-at-the-center-of-gitlab/"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 12:15:16",
-      "https://news.ycombinator.com/item?id=31178950"
-    ],
-    [
-      "Central African Republic Adopts Bitcoin as Legal Tender",
-      "https://www.coindesk.com/business/2022/04/27/central-african-republic-adopts-bitcoin-as-legal-tender/"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2022-04-26, 19:52:17",
-      "https://news.ycombinator.com/item?id=31172330"
-    ],
-    [
-      "How did the Enigma Machine work? (2021) [video]",
-      "https://www.youtube.com/watch?v=ybkkiGtJmkM"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 14:40:21",
-      "https://news.ycombinator.com/item?id=31168052"
-    ],
-    [
-      "Reversing a 2.4GHz Remote Control",
-      "https://xakcop.com/post/re-2.4ghz/"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 11:47:21",
       "https://news.ycombinator.com/item?id=31166274"
     ],
@@ -287,16 +297,6 @@
     [
       "Datalog in JavaScript",
       "https://www.instantdb.dev/essays/datalogjs"
-    ]
-  ],
-  [
-    [
-      "2022-04-23, 19:00:52",
-      "https://news.ycombinator.com/item?id=31137283"
-    ],
-    [
-      "Facebook Is Pulling Back from Its Foray into Podcasting",
-      "https://www.bloomberg.com/news/articles/2022-04-14/facebook-is-pulling-back-from-its-foray-into-podcasting"
     ]
   ]
 ]
