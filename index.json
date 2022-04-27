@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-04-27, 02:18:26",
-      "https://news.ycombinator.com/item?id=31175527"
+      "2022-04-27, 04:00:36",
+      "https://news.ycombinator.com/item?id=31176138"
     ],
     [
-      "Twitter buyout puts Mastodon into spotlight",
-      "https://blog.joinmastodon.org/2022/04/twitter-buyout-puts-mastodon-into-spotlight/"
+      "SELinux is unmanageable; just turn it off if it gets in your way",
+      "https://www.ctrl.blog/entry/selinux-unmanageable.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 03:46:10",
+      "https://news.ycombinator.com/item?id=31176071"
+    ],
+    [
+      "Code licensed under the AGPL must not be used at Google",
+      "https://opensource.google/documentation/reference/using/agpl-policy"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 03:43:29",
+      "https://news.ycombinator.com/item?id=31176054"
+    ],
+    [
+      "The Datasette Ecosystem",
+      "https://docs.datasette.io/en/stable/ecosystem.html"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2022-04-26, 20:19:23",
-      "https://news.ycombinator.com/item?id=31172645"
-    ],
-    [
-      "Non-interactive Elements with the inert attribute",
-      "https://webkit.org/blog/12578/non-interactive-elements-with-the-inert-attribute/"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 17:57:00",
       "https://news.ycombinator.com/item?id=31170815"
     ],
     [
       "Spacedrive – A File Explorer from the Future",
       "https://www.spacedrive.app"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 17:30:50",
-      "https://news.ycombinator.com/item?id=31170431"
-    ],
-    [
-      "An update on the campaign to defend serious math education in California",
-      "https://scottaaronson.blog/?p=6389"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2022-04-26, 15:27:36",
+      "https://news.ycombinator.com/item?id=31168681"
+    ],
+    [
+      "Programmatically modifying ancient fonts",
+      "https://blog.ty-porter.dev/development/raspberry%20pi/2022/04/26/modifying-ancient-fonts.html"
+    ]
+  ],
+  [
+    [
       "2022-04-26, 15:25:15",
       "https://news.ycombinator.com/item?id=31168646"
     ],
@@ -181,22 +191,12 @@
   ],
   [
     [
-      "2022-04-26, 13:02:59",
-      "https://news.ycombinator.com/item?id=31166956"
+      "2022-04-26, 06:57:45",
+      "https://news.ycombinator.com/item?id=31164769"
     ],
     [
-      "Zq: An easier and faster alternative to jq",
-      "https://www.brimdata.io/blog/introducing-zq/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 05:56:42",
-      "https://news.ycombinator.com/item?id=31164412"
-    ],
-    [
-      "More unit testing with Excel Lambdas",
-      "https://paul-samuels.com/blog/2022/04/25/more-unit-testing-with-excel-lambdas/"
+      "What’s Behind the Naming of TBD54566975?",
+      "https://blog.concannon.tech/tech-talk/tbd54566975/"
     ]
   ],
   [
