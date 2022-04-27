@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-27, 06:59:35",
+      "https://news.ycombinator.com/item?id=31177098"
+    ],
+    [
+      "FFmpeg now supports JPEG XL",
+      "https://git.videolan.org/?p=ffmpeg.git;a=commit;h=0008c159562b877700cd9b7c96f941de4ee69af5"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 06:21:47",
       "https://news.ycombinator.com/item?id=31176910"
     ],
     [
       "Four Eras of JavaScript Frameworks",
       "https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 06:15:09",
+      "https://news.ycombinator.com/item?id=31176883"
+    ],
+    [
+      "Translate a message 10 times into different languages and back",
+      "https://loneliness.one/translate"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-04-26, 15:38:51",
-      "https://news.ycombinator.com/item?id=31168862"
-    ],
-    [
-      "3,200-year-old Egyptian tablet records excuses for why people missed work",
-      "https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 15:27:36",
       "https://news.ycombinator.com/item?id=31168681"
     ],
@@ -287,16 +297,6 @@
     [
       "The Mysteries of Lisp (2015)",
       "https://arxiv.org/abs/1505.07375"
-    ]
-  ],
-  [
-    [
-      "2022-04-24, 20:55:47",
-      "https://news.ycombinator.com/item?id=31148247"
-    ],
-    [
-      "Robert and Virginia Heinlein's Colorado Springs House",
-      "https://www.nitrosyncretic.com/rah/pm652-art-hi.html"
     ]
   ]
 ]
