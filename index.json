@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-28, 05:00:59",
+      "https://news.ycombinator.com/item?id=31188923"
+    ],
+    [
+      "The SymPy/HackerRank DMCA Incident",
+      "https://www.asmeurer.com/blog/posts/the-sympy-hackerrank-dmca-incident/"
+    ]
+  ],
+  [
+    [
       "2022-04-28, 04:15:27",
       "https://news.ycombinator.com/item?id=31188672"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-04-27, 16:28:08",
-      "https://news.ycombinator.com/item?id=31182099"
-    ],
-    [
-      "Running Containers on AWS Lambda",
-      "https://earthly.dev/blog/aws-lambda-docker/"
-    ]
-  ],
-  [
-    [
       "2022-04-27, 15:55:13",
       "https://news.ycombinator.com/item?id=31181595"
     ],
@@ -207,16 +207,6 @@
     [
       "I got a computer science degree in 3 months for less than $5000 (2020)",
       "https://miguelrochefort.com/blog/cs-degree/"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 15:01:09",
-      "https://news.ycombinator.com/item?id=31180737"
-    ],
-    [
-      "Fintech App Switch Leaks Users’ Transactions and Personal IDs",
-      "https://vpnoverview.com/news/fintech-app-switch-leaks-users-transactions-personal-ids/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Show HN: Xlibe – A serverless Xlib (X11) compatibility layer for Haiku",
       "https://github.com/waddlesplash/xlibe"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 10:55:39",
+      "https://news.ycombinator.com/item?id=31165916"
+    ],
+    [
+      "Lasers and the sad state of online health information",
+      "https://blog.tjcx.me/p/lasers-and-the-sad-state-of-online"
     ]
   ],
   [
