@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-04-28, 09:57:16",
+      "https://news.ycombinator.com/item?id=31190641"
+    ],
+    [
+      "An automatic theorem proving project",
+      "https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/"
+    ]
+  ],
+  [
+    [
       "2022-04-28, 09:50:07",
       "https://news.ycombinator.com/item?id=31190586"
     ],
     [
-      "Implementing a decentralized cluster membership with failure detection in rust",
+      "Decentralized cluster membership in Rust",
       "https://quickwit.io/blog/chitchat/"
     ]
   ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=31190247"
     ],
     [
-      "Measuring TCP performance over Fibre, geostationary satellite and Starlink",
+      "Using LEOs and GEOs",
       "https://www.potaroo.net/ispcol/2022-04/leogeo.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 08:28:34",
-      "https://news.ycombinator.com/item?id=31190062"
-    ],
-    [
-      "Blockchain Is Dangerous Nonsense",
-      "https://www.eisfunke.com/article/blockchain-technology.html"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31189504"
     ],
     [
-      "Scientists: Japan's Plan to Dump Nuclear Waste into the Pacific Ocean Not Safe",
+      "Japan’s plan to dump nuclear waste into the pacific ocean may not be safe",
       "https://www.civilbeat.org/2022/04/scientists-japans-plan-to-dump-nuclear-waste-into-the-pacific-ocean-may-not-be-safe/"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=31185727"
     ],
     [
-      "Meta earnings presentation q1 2022\u0000\u0000 [pdf]",
+      "Meta earnings presentation Q1 2022 [pdf]",
       "https://s21.q4cdn.com/399680738/files/doc_financials/2022/q1/Q1-2022_Earnings-Presentation_Final.pdf"
     ]
   ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-04-27, 11:57:59",
+      "https://news.ycombinator.com/item?id=31178808"
+    ],
+    [
+      "Flash Synth (2019)",
+      "https://mitxela.com/projects/flash_synth"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 10:36:37",
       "https://news.ycombinator.com/item?id=31178312"
     ],
@@ -237,16 +247,6 @@
     [
       "Abusing RPi GPIO pins as a radio controller",
       "https://www.riveducha.com/raspberry-pi-gpio-send-radio-signals"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 02:14:37",
-      "https://news.ycombinator.com/item?id=31175498"
-    ],
-    [
-      "Unknown Values: The Secret to Terraform Plan",
-      "https://log.martinatkins.me/2021/06/14/terraform-plan-unknown-values/"
     ]
   ],
   [
