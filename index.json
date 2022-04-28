@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-04-28, 12:31:19",
-      "https://news.ycombinator.com/item?id=31191700"
-    ],
-    [
-      "I Want Off Mr. Golang's Wild Ride",
-      "https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride"
-    ]
-  ],
-  [
-    [
       "2022-04-28, 12:00:12",
       "https://news.ycombinator.com/item?id=31191470"
     ],
@@ -277,6 +267,16 @@
     [
       "Cap is Only Part of the Story, we need PACELC",
       "https://inelpandzic.com/articles/cap-is-only-part-of-the-story-we-need-pacelc/"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 07:56:47",
+      "https://news.ycombinator.com/item?id=31177456"
+    ],
+    [
+      "Abusing RPi GPIO pins as a radio controller",
+      "https://www.riveducha.com/raspberry-pi-gpio-send-radio-signals"
     ]
   ],
   [
