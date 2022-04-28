@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-04-28, 04:15:27",
+      "https://news.ycombinator.com/item?id=31188672"
+    ],
+    [
+      "I Earned $160k in Passive Income from Writing Programming Books",
+      "https://greglim81.medium.com/how-i-earned-160-000-in-passion-income-from-writing-non-fiction-books-8ce26b6e2635"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 03:39:20",
+      "https://news.ycombinator.com/item?id=31188489"
+    ],
+    [
+      "Testing my System Code in /usr/ Without Modifying /usr/",
+      "https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 03:15:03",
+      "https://news.ycombinator.com/item?id=31188376"
+    ],
+    [
+      "Using LSP in Emacs and Debian",
+      "https://anarc.at/blog/2022-04-27-lsp-in-debian/"
+    ]
+  ],
+  [
+    [
       "2022-04-28, 02:38:54",
       "https://news.ycombinator.com/item?id=31188215"
     ],
     [
       "Few-Shot Head Swapping in the Wild",
       "https://jmliu88.github.io/HeSer/"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 02:22:00",
+      "https://news.ycombinator.com/item?id=31188133"
+    ],
+    [
+      "The Effect of Folder Structure on Personal File Navigation",
+      "https://www.researchgate.net/publication/220432870_The_Effect_of_Folder_Structure_on_Personal_File_Navigation"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 02:21:58",
+      "https://news.ycombinator.com/item?id=31188132"
+    ],
+    [
+      "Do developers think Web3 will build a better internet?",
+      "https://stackoverflow.blog/2022/04/20/new-data-developers-web3/"
     ]
   ],
   [
@@ -131,32 +181,12 @@
   ],
   [
     [
-      "2022-04-27, 17:03:05",
-      "https://news.ycombinator.com/item?id=31182645"
-    ],
-    [
-      "Making Faster B-Trees with Go Generics",
-      "https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/"
-    ]
-  ],
-  [
-    [
       "2022-04-27, 16:50:24",
       "https://news.ycombinator.com/item?id=31182449"
     ],
     [
       "The Lost Art of C Structure Packing (2014)",
       "http://www.catb.org/esr/structure-packing/"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 16:28:08",
-      "https://news.ycombinator.com/item?id=31182099"
-    ],
-    [
-      "Running Containers on AWS Lambda",
-      "https://earthly.dev/blog/aws-lambda-docker/"
     ]
   ],
   [
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2022-04-27, 12:07:49",
-      "https://news.ycombinator.com/item?id=31178887"
+      "2022-04-27, 07:56:47",
+      "https://news.ycombinator.com/item?id=31177456"
     ],
     [
-      "Apple’s Self Service Repair now available",
-      "https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 06:15:09",
-      "https://news.ycombinator.com/item?id=31176883"
-    ],
-    [
-      "Translate a message 10 times into different languages and back",
-      "https://loneliness.one/translate"
+      "Abusing RPi GPIO pins as a radio controller",
+      "https://www.riveducha.com/raspberry-pi-gpio-send-radio-signals"
     ]
   ],
   [
@@ -231,22 +251,22 @@
   ],
   [
     [
-      "2022-04-27, 01:48:23",
-      "https://news.ycombinator.com/item?id=31175336"
-    ],
-    [
-      "Product Analytics from Scratch",
-      "https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 21:26:08",
       "https://news.ycombinator.com/item?id=31173399"
     ],
     [
       "Goals of Care",
       "https://jamanetwork.com/journals/jama/fullarticle/2791218"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 14:07:59",
+      "https://news.ycombinator.com/item?id=31167652"
+    ],
+    [
+      "How I learned electronics [video]",
+      "https://www.youtube.com/watch?v=Bgrubw6B_us"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "It took me 10 years to understand entropy",
       "https://www.cantorsparadise.com/it-took-me-10-years-to-understand-entropy-here-is-what-i-learned-b2d51e8ccd4c"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 01:54:10",
-      "https://news.ycombinator.com/item?id=31163131"
-    ],
-    [
-      "John Darnielle wants to tell you a story",
-      "https://www.newyorker.com/culture/the-new-yorker-interview/john-darnielle-wants-to-tell-you-a-story"
-    ]
-  ],
-  [
-    [
-      "2022-04-25, 20:29:18",
-      "https://news.ycombinator.com/item?id=31160168"
-    ],
-    [
-      "Can you use a WebP file as an Open Graph Protocol image?",
-      "https://www.ctrl.blog/entry/webp-ogp.html"
     ]
   ]
 ]
