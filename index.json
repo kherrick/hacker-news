@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-04-27, 23:47:33",
-      "https://news.ycombinator.com/item?id=31187215"
+      "2022-04-28, 02:38:54",
+      "https://news.ycombinator.com/item?id=31188215"
     ],
     [
-      "My first-ever attempt to create a meme",
-      "https://scottaaronson.blog/?p=6405"
+      "Few-Shot Head Swapping in the Wild",
+      "https://jmliu88.github.io/HeSer/"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 01:00:27",
+      "https://news.ycombinator.com/item?id=31187695"
+    ],
+    [
+      "Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers",
+      "https://news.ycombinator.com/item?id=31187695"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 00:42:22",
+      "https://news.ycombinator.com/item?id=31187572"
+    ],
+    [
+      "The death rate for children has dropped dramatically",
+      "https://www.npr.org/sections/goatsandsoda/2022/04/27/1093856457/the-death-rate-for-children-has-dropped-dramatically-yet-theres-cause-for-alarm"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 00:16:11",
+      "https://news.ycombinator.com/item?id=31187391"
+    ],
+    [
+      "Terraform Provider for Spotify",
+      "https://github.com/conradludgate/terraform-provider-spotify"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "How I put my whole life into a single database",
       "https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 21:00:26",
-      "https://news.ycombinator.com/item?id=31185730"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring Remote",
-      "https://www.easypost.com/careers"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-04-27, 14:31:52",
-      "https://news.ycombinator.com/item?id=31180379"
-    ],
-    [
-      "Ask HN: Why can't I host my own email?",
-      "https://news.ycombinator.com/item?id=31180379"
-    ]
-  ],
-  [
-    [
       "2022-04-27, 12:07:49",
       "https://news.ycombinator.com/item?id=31178887"
     ],
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2022-04-27, 11:48:32",
-      "https://news.ycombinator.com/item?id=31178737"
-    ],
-    [
-      "Tutorial Series to learn Common Lisp quickly",
-      "https://github.com/rabbibotton/clog/blob/main/LEARN.md"
-    ]
-  ],
-  [
-    [
-      "2022-04-27, 09:34:39",
-      "https://news.ycombinator.com/item?id=31178022"
-    ],
-    [
-      "MIT researchers develop a paper thin loudspeaker",
-      "https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"
-    ]
-  ],
-  [
-    [
       "2022-04-27, 06:15:09",
       "https://news.ycombinator.com/item?id=31176883"
     ],
     [
       "Translate a message 10 times into different languages and back",
       "https://loneliness.one/translate"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 02:14:37",
+      "https://news.ycombinator.com/item?id=31175498"
+    ],
+    [
+      "Unknown Values: The Secret to Terraform Plan",
+      "https://log.martinatkins.me/2021/06/14/terraform-plan-unknown-values/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-04-26, 14:48:27",
-      "https://news.ycombinator.com/item?id=31168150"
-    ],
-    [
-      "Be careful with that thing, it's a confidential coffee maker",
-      "https://devblogs.microsoft.com/oldnewthing/20220426-00/?p=106528"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 14:00:33",
       "https://news.ycombinator.com/item?id=31167562"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: A tool to seed your dev database with real data",
       "https://news.ycombinator.com/item?id=31165538"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 06:50:31",
+      "https://news.ycombinator.com/item?id=31164725"
+    ],
+    [
+      "It took me 10 years to understand entropy",
+      "https://www.cantorsparadise.com/it-took-me-10-years-to-understand-entropy-here-is-what-i-learned-b2d51e8ccd4c"
     ]
   ],
   [
