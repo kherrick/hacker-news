@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-04-29, 01:00:42",
+      "https://news.ycombinator.com/item?id=31200134"
+    ],
+    [
+      "DeepSource (YC W20) Is Hiring Senior Site Reliability Engineers",
+      "https://deepsource.io/jobs/listing/senior-site-reliability-engineer/4289150004/"
+    ]
+  ],
+  [
+    [
       "2022-04-28, 23:00:50",
       "https://news.ycombinator.com/item?id=31199300"
     ],
     [
       "Bits of Advice I Wish I Had Known",
       "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 22:23:00",
+      "https://news.ycombinator.com/item?id=31198956"
+    ],
+    [
+      "The Twelve-Factor App (2011)",
+      "https://12factor.net/"
     ]
   ],
   [
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2022-04-28, 21:00:41",
-      "https://news.ycombinator.com/item?id=31198152"
-    ],
-    [
-      "Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)",
-      "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
       "2022-04-28, 20:35:57",
       "https://news.ycombinator.com/item?id=31197897"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2022-04-28, 20:33:23",
-      "https://news.ycombinator.com/item?id=31197855"
-    ],
-    [
-      "Apple Reports Second Quarter Results",
-      "https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/"
-    ]
-  ],
-  [
-    [
       "2022-04-28, 20:02:55",
       "https://news.ycombinator.com/item?id=31197505"
     ],
     [
       "Hacking attractiveness biases in hiring? The role of beautifying photo-filters",
       "https://www.emerald.com/insight/content/doi/10.1108/MD-06-2021-0747/full/html"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 19:33:40",
+      "https://news.ycombinator.com/item?id=31197170"
+    ],
+    [
+      "I built an open-source, AI-powered solar panel that's 95% optimal",
+      "https://www.jackogrady.me/reinforcement-learning-solar/research-summary"
     ]
   ],
   [
@@ -81,32 +91,12 @@
   ],
   [
     [
-      "2022-04-28, 19:21:13",
-      "https://news.ycombinator.com/item?id=31197006"
-    ],
-    [
-      "Pet Airways",
-      "https://petairways.com/pets-are-not-luggage/"
-    ]
-  ],
-  [
-    [
       "2022-04-28, 18:26:10",
       "https://news.ycombinator.com/item?id=31196271"
     ],
     [
       "Core dumps, feedback loops, and a game of telephone",
       "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 18:12:16",
-      "https://news.ycombinator.com/item?id=31196063"
-    ],
-    [
-      "Inform 7 v10.1.0 is now open-source",
-      "https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674"
     ]
   ],
   [
@@ -137,16 +127,6 @@
     [
       "Snap launches its first drone",
       "https://pixy.com/"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 15:17:00",
-      "https://news.ycombinator.com/item?id=31193521"
-    ],
-    [
-      "Tackling multiple tasks with a single visual language model",
-      "https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model"
     ]
   ],
   [
@@ -241,6 +221,26 @@
   ],
   [
     [
+      "2022-04-28, 01:54:26",
+      "https://news.ycombinator.com/item?id=31187977"
+    ],
+    [
+      "Adversarial Pair Programming",
+      "https://stakedy.com/long/adversarial-pair-programming.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 00:20:35",
+      "https://news.ycombinator.com/item?id=31187423"
+    ],
+    [
+      "What is a molten salt reactor?",
+      "https://www.thmsr.com/en/overview/"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 11:22:55",
       "https://news.ycombinator.com/item?id=31178577"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-04-27, 05:58:08",
-      "https://news.ycombinator.com/item?id=31176807"
-    ],
-    [
-      "Earth Clock",
-      "http://earthclock.cwandt.com/"
-    ]
-  ],
-  [
-    [
       "2022-04-26, 11:05:34",
       "https://news.ycombinator.com/item?id=31165988"
     ],
     [
       "Compostable fungi-based replacement for styrofoam",
       "https://www.soma.eco/our-materials"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 10:15:30",
+      "https://news.ycombinator.com/item?id=31165688"
+    ],
+    [
+      "Show HN: Searchable offline archive of browser history",
+      "https://github.com/crisdosyago/Diskernet"
     ]
   ],
   [
