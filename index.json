@@ -31,6 +31,26 @@
   ],
   [
     [
+      "2022-04-29, 14:51:19",
+      "https://news.ycombinator.com/item?id=31205918"
+    ],
+    [
+      "Ask HN: Did Plivo silently abandon open sourcing their software?",
+      "https://news.ycombinator.com/item?id=31205918"
+    ]
+  ],
+  [
+    [
+      "2022-04-29, 14:36:12",
+      "https://news.ycombinator.com/item?id=31205708"
+    ],
+    [
+      "Tell HN: Gmail flagged my Firefox account MFA email as “dangerous”",
+      "https://news.ycombinator.com/item?id=31205708"
+    ]
+  ],
+  [
+    [
       "2022-04-29, 14:23:29",
       "https://news.ycombinator.com/item?id=31205519"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31204302"
     ],
     [
-      "It Took Me 6 Months, but I Finally Understand Methane Lifetimes",
+      "I finally understand methane lifetimes",
       "https://climateer.substack.com/p/methane-lifetime"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-04-29, 03:16:22",
-      "https://news.ycombinator.com/item?id=31200989"
-    ],
-    [
-      "You Should Compile Your Python and Here’s Why",
-      "https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 02:43:04",
       "https://news.ycombinator.com/item?id=31200793"
     ],
@@ -187,26 +197,6 @@
     [
       "Airbnb’s design to live and work anywhere",
       "https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/"
-    ]
-  ],
-  [
-    [
-      "2022-04-29, 01:38:42",
-      "https://news.ycombinator.com/item?id=31200391"
-    ],
-    [
-      "Crafting Interpreters",
-      "https://craftinginterpreters.com/the-lox-language.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 23:00:50",
-      "https://news.ycombinator.com/item?id=31199300"
-    ],
-    [
-      "Bits of advice I wish I had known",
-      "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=31177988"
     ],
     [
-      "Big Wind Is the Meanest Firefighting Tank You Ever Saw (2021)",
+      "Big Wind is the meanest firefighting tank you ever saw (2021)",
       "https://hackaday.com/2021/12/06/big-wind-is-the-meanest-firefighting-tank-you-ever-saw/"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Alibaba Cloud gets more of Android working on RISC-V silicon",
       "https://www.theregister.com/2022/04/27/alibaba_cloud_android_risc_v_port/"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 05:36:23",
+      "https://news.ycombinator.com/item?id=31176695"
+    ],
+    [
+      "Myia: A new differentiable programming language",
+      "https://github.com/mila-iqia/myia"
     ]
   ],
   [
