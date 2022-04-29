@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-04-29, 15:29:07",
-      "https://news.ycombinator.com/item?id=31206411"
-    ],
-    [
-      "The “New Chronology” of Anatoly Fomenko",
-      "https://nathangoldwag.wordpress.com/2021/04/03/the-glorious-stupidity-of-fomenkos-new-chronology/"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 14:50:21",
       "https://news.ycombinator.com/item?id=31205909"
     ],
@@ -287,6 +277,16 @@
     [
       "Building a JavaScript Bundler",
       "https://cpojer.net/posts/building-a-javascript-bundler"
+    ]
+  ],
+  [
+    [
+      "2022-04-26, 09:00:29",
+      "https://news.ycombinator.com/item?id=31165364"
+    ],
+    [
+      "Beats – The Lightweight Shippers of the Elastic Stack",
+      "https://github.com/elastic/beats"
     ]
   ],
   [
