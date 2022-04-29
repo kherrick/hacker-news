@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-29, 17:34:56",
+      "https://news.ycombinator.com/item?id=31208295"
+    ],
+    [
+      "Maslow never proposed a pyramid",
+      "https://twitter.com/p_millerd/status/1509323819600732160"
+    ]
+  ],
+  [
+    [
       "2022-04-29, 17:03:33",
       "https://news.ycombinator.com/item?id=31207773"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2022-04-27, 05:36:23",
-      "https://news.ycombinator.com/item?id=31176695"
+      "2022-04-26, 11:56:01",
+      "https://news.ycombinator.com/item?id=31166368"
     ],
     [
-      "Myia: A new differentiable programming language",
-      "https://github.com/mila-iqia/myia"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 07:51:00",
-      "https://news.ycombinator.com/item?id=31165045"
-    ],
-    [
-      "There Is No CD Revival",
-      "https://dadadrummer.substack.com/p/there-is-no-cd-revival"
+      "Implementing a safe garbage collector in Rust",
+      "https://coredumped.dev/2022/04/11/implementing-a-safe-garbage-collector-in-rust/"
     ]
   ],
   [
