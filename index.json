@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-04-29, 18:06:42",
+      "https://news.ycombinator.com/item?id=31208696"
+    ],
+    [
+      "We fixed f-string bugs in 69 of the most popular Python repos in only 1 day",
+      "https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/"
+    ]
+  ],
+  [
+    [
+      "2022-04-29, 17:54:10",
+      "https://news.ycombinator.com/item?id=31208556"
+    ],
+    [
+      "Math augmentations – 16 visual design practices to enhance formulas [pdf]",
+      "https://andrewhead.info/assets/pdf/augmented-formulas.pdf"
+    ]
+  ],
+  [
+    [
       "2022-04-29, 17:34:56",
       "https://news.ycombinator.com/item?id=31208295"
     ],
@@ -77,16 +97,6 @@
     [
       "The Glorious Stupidity of Fomenko’s New Chronology",
       "https://nathangoldwag.wordpress.com/2021/04/03/the-glorious-stupidity-of-fomenkos-new-chronology/"
-    ]
-  ],
-  [
-    [
-      "2022-04-29, 15:14:58",
-      "https://news.ycombinator.com/item?id=31206206"
-    ],
-    [
-      "Today’s CEOs are essentially carnival barkers (2021)",
-      "https://prospect.org/culture/books/hucksters-on-parade-todays-ceos/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Implementing a safe garbage collector in Rust",
       "https://coredumped.dev/2022/04/11/implementing-a-safe-garbage-collector-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 07:51:00",
-      "https://news.ycombinator.com/item?id=31165045"
-    ],
-    [
-      "There Is No CD Revival",
-      "https://dadadrummer.substack.com/p/there-is-no-cd-revival"
     ]
   ],
   [
