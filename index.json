@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-29, 14:00:30",
+      "https://news.ycombinator.com/item?id=31205181"
+    ],
+    [
+      "Qualcomm’s M1-class laptop chips will be ready for PCs in “late 2023”",
+      "https://arstechnica.com/gadgets/2022/04/qualcomms-m1-class-laptop-chips-will-be-ready-for-pcs-in-late-2023/"
+    ]
+  ],
+  [
+    [
       "2022-04-29, 13:41:25",
       "https://news.ycombinator.com/item?id=31204960"
     ],
@@ -107,16 +117,6 @@
     [
       "Show HN: Joyride: script VSCode like Emacs but using Clojure",
       "https://news.ycombinator.com/item?id=31203024"
-    ]
-  ],
-  [
-    [
-      "2022-04-29, 08:37:00",
-      "https://news.ycombinator.com/item?id=31202808"
-    ],
-    [
-      "MirBFT is a consensus library implementing the Mir consensus protocol",
-      "https://github.com/hyperledger-labs/mirbft"
     ]
   ],
   [
