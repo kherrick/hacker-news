@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-04-29, 10:45:30",
-      "https://news.ycombinator.com/item?id=31203557"
-    ],
-    [
-      "Git.io deprecation: Active links to be maintained in a read-only state",
-      "https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 09:06:11",
       "https://news.ycombinator.com/item?id=31203024"
     ],
@@ -257,6 +247,16 @@
     [
       "Alibaba Cloud gets more of Android working on RISC-V silicon",
       "https://www.theregister.com/2022/04/27/alibaba_cloud_android_risc_v_port/"
+    ]
+  ],
+  [
+    [
+      "2022-04-27, 05:22:44",
+      "https://news.ycombinator.com/item?id=31176619"
+    ],
+    [
+      "Using Actual Code for IaC",
+      "https://nitric.io/blog/config-as-code"
     ]
   ],
   [
