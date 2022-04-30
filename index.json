@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-04-30, 21:54:35",
+      "https://news.ycombinator.com/item?id=31219754"
+    ],
+    [
+      "GnuCash",
+      "https://www.gnucash.org/"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 20:49:49",
       "https://news.ycombinator.com/item?id=31219194"
     ],
     [
       "Let’s Authenticate: Automated Certificates for User Authentication [pdf]",
       "https://www.ndss-symposium.org/wp-content/uploads/2022-272-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 19:58:43",
-      "https://news.ycombinator.com/item?id=31218779"
-    ],
-    [
-      "Effects of fexofenadine, diphenhydramine, and alcohol on driving performance",
-      "https://pubmed.ncbi.nlm.nih.gov/10691585/"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2022-04-30, 08:07:42",
-      "https://news.ycombinator.com/item?id=31214253"
+      "2022-04-30, 09:12:16",
+      "https://news.ycombinator.com/item?id=31214521"
     ],
     [
-      "Achieving 5M persistent connections with Project Loom virtual threads",
-      "https://github.com/ebarlas/project-loom-c5m"
+      "Zaplib post-mortem",
+      "https://zaplib.com/docs/blog_post_mortem.html"
     ]
   ],
   [
