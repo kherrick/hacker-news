@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-04-30, 13:51:46",
+      "https://news.ycombinator.com/item?id=31216080"
+    ],
+    [
+      "A Rust match made in hell",
+      "https://fasterthanli.me/articles/a-rust-match-made-in-hell"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 13:43:58",
       "https://news.ycombinator.com/item?id=31216026"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2022-04-29, 14:34:13",
-      "https://news.ycombinator.com/item?id=31205689"
+      "2022-04-29, 10:11:36",
+      "https://news.ycombinator.com/item?id=31203384"
     ],
     [
-      "Why train when you can optimize?",
-      "https://justinmeiners.github.io/why-train-when-you-can-optimize/"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 23:34:11",
-      "https://news.ycombinator.com/item?id=31199551"
-    ],
-    [
-      "Founding Uber SRE",
-      "https://lethain.com/founding-uber-sre/"
+      "Doctree",
+      "https://github.com/sourcegraph/doctree"
     ]
   ],
   [
@@ -257,16 +257,6 @@
     [
       "Counting set bits in an interesting way",
       "http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 09:45:37",
-      "https://news.ycombinator.com/item?id=31190547"
-    ],
-    [
-      "Show HN: Alternative Google Analytics Dashboard",
-      "https://gaclient.com"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Create a positive feedback loop to become motivated",
       "https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 06:37:55",
+      "https://news.ycombinator.com/item?id=31189380"
+    ],
+    [
+      "Union and intersection contracts are hard",
+      "https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/"
     ]
   ],
   [
