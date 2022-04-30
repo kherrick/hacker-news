@@ -1,22 +1,62 @@
 [
   [
     [
+      "2022-04-30, 12:01:13",
+      "https://news.ycombinator.com/item?id=31215364"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement",
+      "https://onesignal.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 11:42:19",
+      "https://news.ycombinator.com/item?id=31215247"
+    ],
+    [
+      "Tobii Pro Glasses 3",
+      "https://www.tobiipro.com/product-listing/tobii-pro-glasses-3/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 11:30:49",
+      "https://news.ycombinator.com/item?id=31215180"
+    ],
+    [
+      "Top Navy Admiral Wants Rust-Free Ships",
+      "https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 11:24:32",
+      "https://news.ycombinator.com/item?id=31215149"
+    ],
+    [
+      "How do you power a rocket engine?",
+      "https://everydayastronaut.com/rocket-engine-cycles/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 11:20:43",
+      "https://news.ycombinator.com/item?id=31215123"
+    ],
+    [
+      "Privacy Friendly Apps – improved privacy protection on the smartphone",
+      "https://secuso.aifb.kit.edu/english/105.php"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 09:32:38",
       "https://news.ycombinator.com/item?id=31214604"
     ],
     [
       "Natural Language Processing with Prolog in the IBM Watson System (2011)",
       "https://www.cs.nmsu.edu/ALP/2011/03/natural-language-processing-with-prolog-in-the-ibm-watson-system/"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 09:31:40",
-      "https://news.ycombinator.com/item?id=31214599"
-    ],
-    [
-      "Ask HN: What's on your learning list?",
-      "https://news.ycombinator.com/item?id=31214599"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-04-30, 04:26:26",
-      "https://news.ycombinator.com/item?id=31213335"
-    ],
-    [
-      "A cross-account database vulnerability in Azure PostgreSQL",
-      "https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 04:11:44",
       "https://news.ycombinator.com/item?id=31213281"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-04-30, 01:06:38",
-      "https://news.ycombinator.com/item?id=31212413"
-    ],
-    [
-      "Rpilocator – find in stock Raspberry Pi",
-      "https://rpilocator.com/"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 21:18:47",
       "https://news.ycombinator.com/item?id=31210680"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2022-04-29, 20:53:31",
-      "https://news.ycombinator.com/item?id=31210466"
-    ],
-    [
-      "Ask HN: What are some interesting examples of Prolog?",
-      "https://news.ycombinator.com/item?id=31210466"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 19:32:05",
       "https://news.ycombinator.com/item?id=31209679"
     ],
     [
       "You can now ask Google to remove your phone number, email or address from search",
       "https://krebsonsecurity.com/2022/04/you-can-now-ask-google-to-remove-your-phone-number-email-or-address-from-search-results/"
-    ]
-  ],
-  [
-    [
-      "2022-04-29, 15:39:19",
-      "https://news.ycombinator.com/item?id=31206536"
-    ],
-    [
-      "Actual is going open-source",
-      "https://actualbudget.com/open-source"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-04-28, 10:27:41",
-      "https://news.ycombinator.com/item?id=31190841"
+      "2022-04-28, 16:42:26",
+      "https://news.ycombinator.com/item?id=31194765"
     ],
     [
-      "PranaDB – A distributed streaming database, designed to be horizontally scalable",
-      "https://github.com/cashapp/pranadb"
+      "Counting set bits in an interesting way",
+      "http://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt"
     ]
   ],
   [
