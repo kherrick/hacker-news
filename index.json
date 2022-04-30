@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-04-30, 19:54:15",
+      "https://news.ycombinator.com/item?id=31218747"
+    ],
+    [
+      "Small cars are getting larger – are fuel economy regulations to blame?",
+      "https://www.thedrive.com/news/small-cars-are-getting-huge-are-fuel-economy-regulations-to-blame"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 18:58:39",
       "https://news.ycombinator.com/item?id=31218309"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31217977"
     ],
     [
-      "GitBOM: Enabling Universal Artifact Traceability in Software Supply Chains",
+      "GitBOM: Enabling universal artifact traceability in software supply chains",
       "https://gitbom.dev/resources/whitepaper/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31217920"
     ],
     [
-      "What Was Wrong with SML?",
+      "What was wrong with SML?",
       "https://blog.plover.com/prog/haskell/sml-defects.html"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31217782"
     ],
     [
-      "Holy Duck! Fast Analysis with DuckDB and Pyarrow",
+      "Fast analysis with DuckDB and Pyarrow",
       "https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31217448"
     ],
     [
-      "UIs Are Streaming Dags",
+      "UIs are streaming DAGs [video]",
       "https://www.hytradboi.com/2022/uis-are-streaming-dags"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31217439"
     ],
     [
-      "The Five Secrets for Getting Hired After Fifty",
+      "Getting hired after fifty",
       "https://www.aarp.org/work/job-search/getting-hired-after-50/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31217337"
     ],
     [
-      "Run Python in Your HTML via Pyodide",
+      "PyScript: Run Python in your HTML",
       "https://pyscript.net/"
     ]
   ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-04-30, 08:17:34",
-      "https://news.ycombinator.com/item?id=31214294"
-    ],
-    [
-      "ClojureRS – Clojure interpreter implemented in Rust",
-      "https://github.com/clojure-rs/ClojureRS"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 08:07:42",
       "https://news.ycombinator.com/item?id=31214253"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-04-29, 23:19:42",
+      "https://news.ycombinator.com/item?id=31211725"
+    ],
+    [
+      "Limb lengthening surgery is becoming more popular",
+      "https://www.buzzfeednews.com/article/elaminabdelmahmoud/limb-lengthening-surgery-height-stigma-short-kings"
+    ]
+  ],
+  [
+    [
       "2022-04-29, 11:53:03",
       "https://news.ycombinator.com/item?id=31203994"
     ],
@@ -277,16 +287,6 @@
     [
       "Automatically filing issues when tracked file content changes",
       "https://simonwillison.net/2022/Apr/28/issue-on-changes/"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 09:24:03",
-      "https://news.ycombinator.com/item?id=31190376"
-    ],
-    [
-      "Explorer – A library to bring dataframes to Elixir",
-      "https://www.cigrainger.com/posts/introducing-explorer/"
     ]
   ],
   [
