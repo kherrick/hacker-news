@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-04-30, 14:06:35",
+      "https://news.ycombinator.com/item?id=31216179"
+    ],
+    [
+      "Indirect ownership, shallow borrow and self-referential data structures in Rust",
+      "https://yoyo-code.com/indirect-ownership-and-self-borrow/"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 13:43:58",
       "https://news.ycombinator.com/item?id=31216026"
     ],
@@ -17,6 +27,16 @@
     [
       "Did the W-boson just “break the standard model”?",
       "http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 13:14:45",
+      "https://news.ycombinator.com/item?id=31215843"
+    ],
+    [
+      "ZX Spectrum: Q&A with some of the folks who worked on legendary PC",
+      "https://www.theregister.com/2022/04/30/zx_at_40/"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31214253"
     ],
     [
-      "Experiment to achieve 5M persistent connections with Project Loom (Java)",
+      "Achieving 5M persistent connections with Project Loom virtual threads",
       "https://github.com/ebarlas/project-loom-c5m"
     ]
   ],
@@ -177,16 +197,6 @@
     [
       "Programming Languages: Application and Interpretation",
       "http://cs.brown.edu/courses/cs173/2012/book/"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 04:11:44",
-      "https://news.ycombinator.com/item?id=31213281"
-    ],
-    [
-      "Paris suspends electric bus fleet after two fires",
-      "https://www.lemonde.fr/en/france/article/2022/04/29/paris-suspends-electric-bus-fleet-after-two-fires_5981956_7.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Create a positive feedback loop to become motivated",
       "https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated"
-    ]
-  ],
-  [
-    [
-      "2022-04-28, 06:37:55",
-      "https://news.ycombinator.com/item?id=31189380"
-    ],
-    [
-      "Union and intersection contracts are hard",
-      "https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/"
     ]
   ],
   [
