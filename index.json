@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-04-30, 16:34:23",
-      "https://news.ycombinator.com/item?id=31217209"
+      "2022-04-30, 17:50:42",
+      "https://news.ycombinator.com/item?id=31217782"
     ],
     [
-      "On Twitter, briefly",
-      "https://theconvivialsociety.substack.com/p/on-twitter-briefly"
+      "Holy Duck! Fast Analysis with DuckDB and Pyarrow",
+      "https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 17:07:27",
+      "https://news.ycombinator.com/item?id=31217439"
+    ],
+    [
+      "The Five Secrets for Getting Hired After Fifty",
+      "https://www.aarp.org/work/job-search/getting-hired-after-50/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 16:52:00",
+      "https://news.ycombinator.com/item?id=31217337"
+    ],
+    [
+      "Run Python in Your HTML via Pyodide",
+      "https://pyscript.net/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-04-30, 11:30:49",
-      "https://news.ycombinator.com/item?id=31215180"
-    ],
-    [
-      "Top navy admiral wants rust-free ships",
-      "https://gcaptain.com/rusting-fleet-top-us-navy-admiral-cno-rust/"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 11:24:32",
       "https://news.ycombinator.com/item?id=31215149"
     ],
@@ -197,16 +207,6 @@
     [
       "Achieving 5M persistent connections with Project Loom virtual threads",
       "https://github.com/ebarlas/project-loom-c5m"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 08:04:53",
-      "https://news.ycombinator.com/item?id=31214239"
-    ],
-    [
-      "Optimization solvers: missing link for fully open-source energy system modeling",
-      "https://drive.google.com/file/d/1uwkf_b9WQU2PogcWL_ST7xkn4EMCPz9s/view"
     ]
   ],
   [
