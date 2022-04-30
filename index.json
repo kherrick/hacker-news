@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2022-04-30, 05:55:29",
-      "https://news.ycombinator.com/item?id=31213711"
+      "2022-04-30, 07:05:15",
+      "https://news.ycombinator.com/item?id=31214018"
     ],
     [
-      "Pictoprime: Generate Prime Numbers from Pictures",
-      "https://github.com/TotalTechGeek/pictoprime"
+      "Programming Languages: Application and Interpretation",
+      "http://cs.brown.edu/courses/cs173/2012/book/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 06:59:26",
+      "https://news.ycombinator.com/item?id=31213995"
+    ],
+    [
+      "Nearly the hottest place on Earth, India swelters under intense heat wave",
+      "https://www.accuweather.com/en/weather-forecasts/nearly-the-hottest-place-on-earth-india-swelters-amid-brutal-heat-wave/1179824"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-04-29, 17:03:33",
-      "https://news.ycombinator.com/item?id=31207773"
-    ],
-    [
-      "Anna: A key-value store for any scale",
-      "http://muratbuffalo.blogspot.com/2022/04/anna-key-value-store-for-any-scale.html"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 15:39:19",
       "https://news.ycombinator.com/item?id=31206536"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-04-27, 15:10:08",
+      "https://news.ycombinator.com/item?id=31180860"
+    ],
+    [
+      "Climate Change, Whaling, and Conflict in the Seventeenth-Century Arctic",
+      "https://academic.oup.com/ahr/article/127/1/62/6573704"
+    ]
+  ],
+  [
+    [
       "2022-04-27, 12:08:25",
       "https://news.ycombinator.com/item?id=31178889"
     ],
@@ -267,16 +277,6 @@
     [
       "The gruesome history of eating corpses as medicine (2012)",
       "https://www.smithsonianmag.com/history/the-gruesome-history-of-eating-corpses-as-medicine-82360284/"
-    ]
-  ],
-  [
-    [
-      "2022-04-26, 11:56:01",
-      "https://news.ycombinator.com/item?id=31166368"
-    ],
-    [
-      "Implementing a safe garbage collector in Rust",
-      "https://coredumped.dev/2022/04/11/implementing-a-safe-garbage-collector-in-rust/"
     ]
   ],
   [
