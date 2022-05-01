@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-01, 13:12:44",
+      "https://news.ycombinator.com/item?id=31224756"
+    ],
+    [
+      "Removing characters from strings faster with AVX-512",
+      "https://lemire.me/blog/2022/04/28/removing-characters-from-strings-faster-with-avx-512/"
+    ]
+  ],
+  [
+    [
       "2022-05-01, 12:04:24",
       "https://news.ycombinator.com/item?id=31224341"
     ],
@@ -207,16 +217,6 @@
     [
       "GnuCash",
       "https://www.gnucash.org/"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 20:18:44",
-      "https://news.ycombinator.com/item?id=31218915"
-    ],
-    [
-      "Limitations of DALL-E",
-      "https://twitter.com/benjamin_hilton/status/1520032772072607747"
     ]
   ],
   [
