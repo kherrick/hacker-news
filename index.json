@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-01, 03:23:03",
+      "https://news.ycombinator.com/item?id=31221898"
+    ],
+    [
+      "Show HN: I'm building the “chess.com” of speed cubing",
+      "https://www.cubedesk.io/home"
+    ]
+  ],
+  [
+    [
       "2022-05-01, 01:34:12",
       "https://news.ycombinator.com/item?id=31221260"
     ],
@@ -131,22 +141,22 @@
   ],
   [
     [
+      "2022-04-30, 17:07:27",
+      "https://news.ycombinator.com/item?id=31217439"
+    ],
+    [
+      "Getting hired after fifty",
+      "https://www.aarp.org/work/job-search/getting-hired-after-50/"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 16:52:00",
       "https://news.ycombinator.com/item?id=31217337"
     ],
     [
       "PyScript: Run Python in your HTML",
       "https://pyscript.net/"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 16:07:21",
-      "https://news.ycombinator.com/item?id=31217032"
-    ],
-    [
-      "Experience Report: 6 months of Go",
-      "https://typesanitizer.com/blog/go-experience-report.html"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=31212542"
     ],
     [
-      "Principles of Distributed Computing (lecture collection)",
+      "Principles of Distributed Computing (2016)",
       "https://disco.ethz.ch/courses/podc_allstars/"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-04-29, 19:50:26",
-      "https://news.ycombinator.com/item?id=31209867"
-    ],
-    [
-      "Cambridge University study finds Anglo-Saxon kings were mostly vegetarian",
-      "https://www.bbc.com/news/uk-england-cambridgeshire-61178452"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 11:53:03",
       "https://news.ycombinator.com/item?id=31203994"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-04-29, 07:14:44",
-      "https://news.ycombinator.com/item?id=31202292"
-    ],
-    [
-      "The Brilliance of “nil” in Objective-C",
-      "https://collindonnell.com/2022/04/28/the-brilliance-of-nil-in-objective-c/"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 01:27:22",
       "https://news.ycombinator.com/item?id=31200319"
     ],
@@ -287,6 +277,16 @@
     [
       "Cool things people do with their blogs",
       "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 23:03:04",
+      "https://news.ycombinator.com/item?id=31199317"
+    ],
+    [
+      "dprint – Code Formatter",
+      "https://dprint.dev/"
     ]
   ],
   [
