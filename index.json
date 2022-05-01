@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-01, 10:00:22",
+      "https://news.ycombinator.com/item?id=31223614"
+    ],
+    [
+      "The Niche Programmer",
+      "https://ano.ee/blog/the-niche-programmer"
+    ]
+  ],
+  [
+    [
       "2022-05-01, 07:36:07",
       "https://news.ycombinator.com/item?id=31222968"
     ],
     [
       "Disney's writer wage theft, a year on",
       "https://pluralistic.net/2022/04/30/disney-still-must-pay/"
+    ]
+  ],
+  [
+    [
+      "2022-05-01, 07:09:45",
+      "https://news.ycombinator.com/item?id=31222857"
+    ],
+    [
+      "Adopting Matrix at the Gnome Foundation",
+      "https://blog.ergaster.org/post/20220425-adopting-matrix/"
     ]
   ],
   [
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2022-05-01, 01:14:46",
+      "https://news.ycombinator.com/item?id=31221142"
+    ],
+    [
+      "Recommendation for the mom of a soon to be college aged “tech geared” student?",
+      "https://news.ycombinator.com/item?id=31221142"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 23:37:42",
       "https://news.ycombinator.com/item?id=31220553"
     ],
@@ -151,42 +181,22 @@
   ],
   [
     [
-      "2022-04-30, 18:10:36",
-      "https://news.ycombinator.com/item?id=31217920"
-    ],
-    [
-      "What was wrong with SML?",
-      "https://blog.plover.com/prog/haskell/sml-defects.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 17:08:38",
-      "https://news.ycombinator.com/item?id=31217448"
-    ],
-    [
-      "UIs are streaming DAGs [video]",
-      "https://www.hytradboi.com/2022/uis-are-streaming-dags"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 17:07:27",
-      "https://news.ycombinator.com/item?id=31217439"
-    ],
-    [
-      "Getting hired after fifty",
-      "https://www.aarp.org/work/job-search/getting-hired-after-50/"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 16:52:00",
       "https://news.ycombinator.com/item?id=31217337"
     ],
     [
       "PyScript: Run Python in your HTML",
       "https://pyscript.net/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 04:37:22",
+      "https://news.ycombinator.com/item?id=31213379"
+    ],
+    [
+      "Inspired by prehistoric creatures, researchers make record-setting lenses",
+      "https://phys.org/news/2022-04-prehistoric-creatures-record-setting-lenses.html"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-04-29, 21:54:41",
-      "https://news.ycombinator.com/item?id=31211002"
-    ],
-    [
-      "Writing for Engineers",
-      "https://www.heinrichhartmann.com/posts/writing/"
-    ]
-  ],
-  [
-    [
-      "2022-04-29, 20:53:39",
-      "https://news.ycombinator.com/item?id=31210469"
-    ],
-    [
-      "Post-incident review on the Atlassian April 2022 outage",
-      "https://www.atlassian.com/engineering/post-incident-review-april-2022-outage"
-    ]
-  ],
-  [
-    [
       "2022-04-29, 17:43:25",
       "https://news.ycombinator.com/item?id=31208423"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2022-04-29, 00:35:14",
-      "https://news.ycombinator.com/item?id=31199973"
+      "2022-04-29, 11:06:55",
+      "https://news.ycombinator.com/item?id=31203687"
     ],
     [
-      "Cool things people do with their blogs",
-      "https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/"
+      "Mapping the “catscape” formed by a population of pet cats with outdoor access",
+      "https://www.nature.com/articles/s41598-022-09694-9"
+    ]
+  ],
+  [
+    [
+      "2022-04-28, 23:03:04",
+      "https://news.ycombinator.com/item?id=31199317"
+    ],
+    [
+      "dprint – Code Formatter",
+      "https://dprint.dev/"
     ]
   ],
   [
