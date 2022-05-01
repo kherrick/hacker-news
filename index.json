@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-01, 16:00:21",
+      "https://news.ycombinator.com/item?id=31226100"
+    ],
+    [
+      "90% of software engineering done today is integrating poorly documented APIs",
+      "https://twitter.com/Austen/status/1520792630853918722"
+    ]
+  ],
+  [
+    [
       "2022-05-01, 15:49:46",
       "https://news.ycombinator.com/item?id=31226010"
     ],
     [
       "Remote Pseudoterminals",
       "https://github.com/TimeToogo/remote-pty"
+    ]
+  ],
+  [
+    [
+      "2022-05-01, 15:32:25",
+      "https://news.ycombinator.com/item?id=31225845"
+    ],
+    [
+      "SDLang – Simple Declarative Language",
+      "https://sdlang.org/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-05-01, 05:22:51",
-      "https://news.ycombinator.com/item?id=31222421"
-    ],
-    [
-      "1974 Sinclair Scientific Calculator Repair and Restoration",
-      "https://retrorepairsandrefurbs.com/2022/04/29/1974-sinclair-scientific-calculator-repair-restoration/"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 03:23:03",
       "https://news.ycombinator.com/item?id=31221898"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2022-04-30, 19:17:07",
-      "https://news.ycombinator.com/item?id=31218434"
+      "2022-04-30, 15:39:24",
+      "https://news.ycombinator.com/item?id=31216847"
     ],
     [
-      "Noto emoji, a new black and white emoji font with less color",
-      "https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 05:16:17",
-      "https://news.ycombinator.com/item?id=31213530"
-    ],
-    [
-      "Pseudo-Random Number Generation Using Generative Adversarial Networks (2018)",
-      "https://arxiv.org/abs/1810.00378"
+      "The Programming Paradigm to Find One Solution Among 8,080,104 Candidates",
+      "https://mlabonne.github.io/blog/constraintprogramming/"
     ]
   ],
   [
