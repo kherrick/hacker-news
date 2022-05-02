@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2022-05-02, 15:57:58",
-      "https://news.ycombinator.com/item?id=31236840"
+      "2022-05-02, 15:49:15",
+      "https://news.ycombinator.com/item?id=31236715"
     ],
     [
-      "CSS to browse the Washington Post without its insufferably self-righteous slogan",
-      "https://gist.github.com/cmoog/e1ef9bce9a8b5b82d81b110a1fcd16e3"
+      "Clues into a Sleep Mystery",
+      "https://hms.harvard.edu/news/clues-sleep-mystery"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Zero Trust Hosting and Reverse Proxy via Cloudflare, Swag and Authelia",
       "https://www.linuxserver.io/blog/zero-trust-hosting-and-reverse-proxy-via-cloudflare-swag-and-authelia"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 15:22:48",
+      "https://news.ycombinator.com/item?id=31236303"
+    ],
+    [
+      "A case study of Toyota unintended acceleration and software safety (2014) [pdf]",
+      "https://course.ece.cmu.edu/~ece642/lectures/10_koopman_public_toyota_talk.pdf"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Ask HN: Who is hiring? (May 2022)",
       "https://news.ycombinator.com/item?id=31235968"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 15:01:37",
-      "https://news.ycombinator.com/item?id=31235967"
-    ],
-    [
-      "Ask HN: Freelancer? Seeking freelancer? (May 2022)",
-      "https://news.ycombinator.com/item?id=31235967"
     ]
   ],
   [
@@ -171,26 +171,6 @@
   ],
   [
     [
-      "2022-05-02, 12:34:56",
-      "https://news.ycombinator.com/item?id=31234316"
-    ],
-    [
-      "The Golden Egg Circus",
-      "https://jacquesmattheij.com/the-golden-egg-circus/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 12:17:53",
-      "https://news.ycombinator.com/item?id=31234147"
-    ],
-    [
-      "Starbeam – A library for building reactive data systems",
-      "https://github.com/wycats/starbeam"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 11:36:00",
       "https://news.ycombinator.com/item?id=31233798"
     ],
@@ -231,22 +211,42 @@
   ],
   [
     [
-      "2022-05-01, 13:44:42",
-      "https://news.ycombinator.com/item?id=31224962"
+      "2022-05-02, 02:47:42",
+      "https://news.ycombinator.com/item?id=31230903"
     ],
     [
-      "Incentive Flipping",
-      "https://aditya.rs/2022/05/01/incentive-flipping/"
+      "Ask HN: What are your favorite examples of elegant software?",
+      "https://news.ycombinator.com/item?id=31230903"
     ]
   ],
   [
     [
-      "2022-05-01, 12:13:57",
-      "https://news.ycombinator.com/item?id=31224395"
+      "2022-05-01, 04:32:06",
+      "https://news.ycombinator.com/item?id=31222204"
     ],
     [
-      "Speedsolving Rubik's Cube: 8355 Method",
-      "https://www.speedsolving.com/wiki/index.php/8355_Method"
+      "Orra White Hitchcock’s Scientific Illustrations for the Classroom (1828–40)",
+      "https://publicdomainreview.org/collection/hitchcock-illustrations/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 23:17:12",
+      "https://news.ycombinator.com/item?id=31220424"
+    ],
+    [
+      "Trial: A game engine written in Common Lisp",
+      "https://github.com/Shirakumo/trial"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 23:04:04",
+      "https://news.ycombinator.com/item?id=31220330"
+    ],
+    [
+      "X-ray tech that reveals chip designs",
+      "https://spectrum.ieee.org/chip-x-ray"
     ]
   ],
   [
