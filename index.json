@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-02, 17:01:27",
+      "https://news.ycombinator.com/item?id=31237755"
+    ],
+    [
+      "SimpleHash (YC W22) Is Hiring a Senior Back End Engineer to Build NFT APIs",
+      "https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 15:58:35",
       "https://news.ycombinator.com/item?id=31236855"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2022-05-02, 15:49:15",
+      "https://news.ycombinator.com/item?id=31236715"
+    ],
+    [
+      "Clues into a Sleep Mystery",
+      "https://hms.harvard.edu/news/clues-sleep-mystery"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 15:29:09",
       "https://news.ycombinator.com/item?id=31236389"
     ],
     [
       "Zero Trust Hosting and Reverse Proxy via Cloudflare, Swag and Authelia",
       "https://www.linuxserver.io/blog/zero-trust-hosting-and-reverse-proxy-via-cloudflare-swag-and-authelia"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 15:22:48",
-      "https://news.ycombinator.com/item?id=31236303"
-    ],
-    [
-      "Toyota Unintended Acceleration and Software Safety [pdf]",
-      "https://course.ece.cmu.edu/~ece642/lectures/10_koopman_public_toyota_talk.pdf"
     ]
   ],
   [
@@ -66,7 +76,7 @@
     ],
     [
       "Launch HN: Meticulous (YC S21) – Catch JavaScript errors before they hit prod",
-      "https://meticulous.ai/"
+      "https://news.ycombinator.com/item?id=31236066"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2022-05-02, 07:00:17",
-      "https://news.ycombinator.com/item?id=31232140"
+      "2022-05-02, 06:43:33",
+      "https://news.ycombinator.com/item?id=31232067"
     ],
     [
-      "June (YC W21) is hiring a founding engineer",
-      "https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-founding-engineer"
+      "Show HN: How did I live without Pipe Watch?",
+      "https://www.kylheku.com/cgit/pw/about/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Software Development, the Pareto Principle, and the 80% Solution",
       "https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 14:36:40",
-      "https://news.ycombinator.com/item?id=31216393"
-    ],
-    [
-      "Online Identity",
-      "https://ja3k.com/blog/onid.html"
     ]
   ]
 ]
