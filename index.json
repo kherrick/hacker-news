@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-05-02, 01:22:19",
-      "https://news.ycombinator.com/item?id=31230434"
-    ],
-    [
-      "Indian Agency Seeks to Flush Highly Toxic Pesticides into South African Sea",
-      "https://gcaptain.com/indian-agency-seeks-to-flush-highly-toxic-pesticides-into-south-african-sea/"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 01:10:25",
       "https://news.ycombinator.com/item?id=31230364"
     ],
@@ -277,6 +267,16 @@
     [
       "Distributed Systems Shibboleths",
       "https://jolynch.github.io/posts/distsys_shibboleths/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 17:10:10",
+      "https://news.ycombinator.com/item?id=31217464"
+    ],
+    [
+      "WARaft: An Erlang implementation of RAFT",
+      "https://github.com/WhatsApp/waraft"
     ]
   ],
   [
