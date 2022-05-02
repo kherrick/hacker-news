@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-02, 21:00:30",
+      "https://news.ycombinator.com/item?id=31240865"
+    ],
+    [
+      "Queenly (YC W21) Is Hiring",
+      "https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 20:43:07",
       "https://news.ycombinator.com/item?id=31240652"
     ],
     [
       "An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser",
       "https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 20:33:18",
+      "https://news.ycombinator.com/item?id=31240536"
+    ],
+    [
+      "The Elondrop",
+      "https://balajis.com/elondrop/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Show HN: PostgresML, now with analytics and project management",
       "https://postgresml.org"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 17:01:27",
-      "https://news.ycombinator.com/item?id=31237755"
-    ],
-    [
-      "SimpleHash (YC W22) Is Hiring a Senior Back End Engineer to Build NFT APIs",
-      "https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The appeal of using plain HTML pages",
       "https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 16:40:20",
-      "https://news.ycombinator.com/item?id=31217253"
-    ],
-    [
-      "Software Development, the Pareto Principle, and the 80% Solution",
-      "https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution"
     ]
   ]
 ]
