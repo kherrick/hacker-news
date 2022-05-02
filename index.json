@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-05-02, 14:00:26",
-      "https://news.ycombinator.com/item?id=31235209"
-    ],
-    [
-      "A preliminary analysis of DALL-E 2 (Marcus, Davis, Aaronson)",
-      "https://arxiv.org/abs/2204.13807"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 13:51:28",
       "https://news.ycombinator.com/item?id=31235109"
     ],
@@ -267,6 +257,16 @@
     [
       "Mars’s Soundscape Is Strangely Beautiful",
       "https://www.theatlantic.com/science/archive/2022/04/nasa-perseverance-mars-sounds/629706/"
+    ]
+  ],
+  [
+    [
+      "2022-05-01, 02:33:02",
+      "https://news.ycombinator.com/item?id=31221615"
+    ],
+    [
+      "Consfigurator 1.0: Common Lisp based declarative configuration management system",
+      "https://spwhitton.name//blog/entry/consfigurator_1.0.0/"
     ]
   ],
   [
