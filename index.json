@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-02, 15:58:35",
+      "https://news.ycombinator.com/item?id=31236855"
+    ],
+    [
+      "Project Loom preview ships in JDK 19",
+      "https://mail.openjdk.java.net/pipermail/jdk-dev/2022-April/006530.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 15:29:09",
+      "https://news.ycombinator.com/item?id=31236389"
+    ],
+    [
+      "Zero Trust Hosting and Reverse Proxy via Cloudflare, Swag and Authelia",
+      "https://www.linuxserver.io/blog/zero-trust-hosting-and-reverse-proxy-via-cloudflare-swag-and-authelia"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 15:22:48",
       "https://news.ycombinator.com/item?id=31236303"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31236157"
     ],
     [
-      "Brendan Intel.com",
+      "Brendan at Intel.com",
       "https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Ask HN: Freelancer? Seeking freelancer? (May 2022)",
       "https://news.ycombinator.com/item?id=31235967"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 15:01:37",
-      "https://news.ycombinator.com/item?id=31235966"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (May 2022)",
-      "https://news.ycombinator.com/item?id=31235966"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-05-02, 01:27:25",
-      "https://news.ycombinator.com/item?id=31230457"
-    ],
-    [
-      "I won free load testing",
-      "https://fasterthanli.me/articles/i-won-free-load-testing"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 00:41:58",
-      "https://news.ycombinator.com/item?id=31230181"
-    ],
-    [
-      "Occlusion Grotesque Experimental Typeface (2021)",
-      "https://bjoernkarmann.dk/occlusion-grotesque"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 12:13:57",
       "https://news.ycombinator.com/item?id=31224395"
     ],
@@ -267,6 +257,16 @@
     [
       "Why Innovation Prizes Fail",
       "https://www.worksinprogress.co/issue/why-innovation-prizes-fail/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 17:07:16",
+      "https://news.ycombinator.com/item?id=31217434"
+    ],
+    [
+      "The appeal of using plain HTML pages",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal"
     ]
   ],
   [
