@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-02, 14:18:19",
+      "https://news.ycombinator.com/item?id=31235427"
+    ],
+    [
+      "Practical bruteforce of military grade AES-1024",
+      "https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 14:17:03",
+      "https://news.ycombinator.com/item?id=31235408"
+    ],
+    [
+      "Making graphics in 4 kilobytes (2008) [pdf]",
+      "http://web.archive.org/web/20210826120419/https://iquilezles.org/www/articles/proceduralgfx/inspire2008.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 14:07:29",
+      "https://news.ycombinator.com/item?id=31235289"
+    ],
+    [
+      "Stop Using Todo for Everything",
+      "https://goldin.io/blog/stop-using-todo"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 13:53:25",
       "https://news.ycombinator.com/item?id=31235132"
     ],
@@ -17,16 +47,6 @@
     [
       "Fritzing is an open-source electronic design tool",
       "https://fritzing.org/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 13:17:16",
-      "https://news.ycombinator.com/item?id=31234740"
-    ],
-    [
-      "Kotlin Asynchronous Framework, Ktor 2.0, Released",
-      "https://www.infoq.com/news/2022/05/ktor-kotlin-framework/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2022-05-02, 11:57:04",
+      "https://news.ycombinator.com/item?id=31233949"
+    ],
+    [
+      "Anomaly Six claims it can track the movements of ~3B devices in real time",
+      "https://twitter.com/samfbiddle/status/1517528390437199873"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 11:46:27",
       "https://news.ycombinator.com/item?id=31233865"
     ],
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2022-05-02, 11:36:00",
+      "https://news.ycombinator.com/item?id=31233798"
+    ],
+    [
+      "PinePhone multi-distro demo image (megi's 15-in-1 multi boot image)",
+      "https://xnux.eu/p-boot-demo/"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 11:05:50",
       "https://news.ycombinator.com/item?id=31233600"
     ],
@@ -97,16 +137,6 @@
     [
       "Don’t Trust Activity Monitor on M1 Macs",
       "https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 09:17:31",
-      "https://news.ycombinator.com/item?id=31232814"
-    ],
-    [
-      "Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security",
-      "https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2022-05-02, 01:10:25",
-      "https://news.ycombinator.com/item?id=31230364"
-    ],
-    [
-      "Strengths, weaknesses, opportunities, and threats facing the GNU Autotools",
-      "https://www.owlfolio.org/development/autoconf-swot/"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 00:41:58",
       "https://news.ycombinator.com/item?id=31230181"
     ],
@@ -227,36 +247,6 @@
     [
       "Fonoster: The open-source alternative to Twilio",
       "https://github.com/fonoster/fonoster"
-    ]
-  ],
-  [
-    [
-      "2022-05-01, 22:50:20",
-      "https://news.ycombinator.com/item?id=31229504"
-    ],
-    [
-      "My experience getting a tech job with no degree or relevant work experience",
-      "https://lowlyswe.substack.com/p/my-experience-getting-a-tech-job"
-    ]
-  ],
-  [
-    [
-      "2022-05-01, 22:41:42",
-      "https://news.ycombinator.com/item?id=31229435"
-    ],
-    [
-      "Oil Wells Hidden in Plain Sight in L.A",
-      "https://www.lamag.com/citythinkblog/hidden-oil-wells/"
-    ]
-  ],
-  [
-    [
-      "2022-05-01, 21:12:12",
-      "https://news.ycombinator.com/item?id=31228710"
-    ],
-    [
-      "DALL-E 2 open source implementation",
-      "https://github.com/lucidrains/DALLE2-pytorch"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Qb – Zero-configuration build system to quickly build C/C++ projects",
       "https://github.com/codecat/qb"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 14:36:40",
+      "https://news.ycombinator.com/item?id=31216393"
+    ],
+    [
+      "Online Identity",
+      "https://ja3k.com/blog/onid.html"
     ]
   ]
 ]
