@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-02, 12:34:56",
+      "https://news.ycombinator.com/item?id=31234316"
+    ],
+    [
+      "The Golden Egg Circus",
+      "https://jacquesmattheij.com/the-golden-egg-circus/"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 12:22:41",
       "https://news.ycombinator.com/item?id=31234190"
     ],
     [
-      "Nearly all of the West is in drought and it's not even summer yet",
+      "Nearly all of the Western USA is in drought and it's not even summer yet",
       "https://www.cbsnews.com/news/west-climate-change-water/"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Apple hit with EU antitrust charge over its payment technology",
       "https://www.reuters.com/technology/apple-hit-with-eu-antitrust-charge-over-its-payment-technology-2022-05-02/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 11:05:50",
+      "https://news.ycombinator.com/item?id=31233600"
+    ],
+    [
+      "Tell HN: 3 years of running a minimal blogging platform",
+      "https://news.ycombinator.com/item?id=31233600"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-05-01, 21:16:58",
-      "https://news.ycombinator.com/item?id=31228738"
-    ],
-    [
-      "Mental illness, attention deficit disorder, and suffering",
-      "https://blog.plover.com/brain/add.html"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 21:12:12",
       "https://news.ycombinator.com/item?id=31228710"
     ],
@@ -247,16 +257,6 @@
     [
       "Speedsolving Rubik's Cube: 8355 Method",
       "https://www.speedsolving.com/wiki/index.php/8355_Method"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 22:59:26",
-      "https://news.ycombinator.com/item?id=31220292"
-    ],
-    [
-      "Did J.J. Thomson Discover the Electron?",
-      "https://spectrum.ieee.org/discovery-of-the-electron"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-04-30, 17:52:55",
-      "https://news.ycombinator.com/item?id=31217802"
+      "2022-04-30, 16:53:47",
+      "https://news.ycombinator.com/item?id=31217350"
     ],
     [
-      "Distributed Systems Shibboleths",
-      "https://jolynch.github.io/posts/distsys_shibboleths/"
+      "Underwater power cables make lobsters larvae bad swimmers",
+      "https://www.hw.ac.uk/news/articles/2022/underwater-power-cables-make-lobsters-bad.htm"
     ]
   ],
   [
