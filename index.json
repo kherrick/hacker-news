@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2022-05-02, 18:35:46",
+      "https://news.ycombinator.com/item?id=31239017"
+    ],
+    [
+      "Two workers are quadratically better than one (2020)",
+      "https://www.hillelwayne.com/post/queueing-prism/"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 18:31:47",
       "https://news.ycombinator.com/item?id=31238958"
     ],
     [
       "Show HN: I am building a free version of Strava",
       "https://mtbx.bike?page=hangtime"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 18:30:57",
+      "https://news.ycombinator.com/item?id=31238942"
+    ],
+    [
+      "An O(1) Generic Blog Post About Rust",
+      "https://peterkos.me/rust-const-generics/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-05-02, 06:21:28",
-      "https://news.ycombinator.com/item?id=31231968"
-    ],
-    [
-      "Lenovo ThinkPad P1 Gen3 Review – with Linux",
-      "https://ernestas.me/lenovo-thinkpad-p1-gen3"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 02:47:42",
       "https://news.ycombinator.com/item?id=31230903"
     ],
@@ -257,16 +267,6 @@
     [
       "Mars’s Soundscape Is Strangely Beautiful",
       "https://www.theatlantic.com/science/archive/2022/04/nasa-perseverance-mars-sounds/629706/"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 23:17:12",
-      "https://news.ycombinator.com/item?id=31220424"
-    ],
-    [
-      "Trial: A game engine written in Common Lisp",
-      "https://github.com/Shirakumo/trial"
     ]
   ],
   [
