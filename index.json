@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-05-03, 07:17:55",
-      "https://news.ycombinator.com/item?id=31245621"
-    ],
-    [
-      "To Code or to Nocode?",
-      "https://getparthenon.com/blog/to-code-or-to-nocode/"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 05:59:39",
       "https://news.ycombinator.com/item?id=31245163"
     ],
@@ -67,16 +57,6 @@
     [
       "Using QGIS to apply a 1777 style to today's OpenStreetMap data",
       "https://manuelclaeysbouuaert.be/projects/ferrargis.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 04:55:02",
-      "https://news.ycombinator.com/item?id=31244792"
-    ],
-    [
-      "Why I’m skeptical of “steelmanning”",
-      "https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/"
     ]
   ],
   [
@@ -191,12 +171,22 @@
   ],
   [
     [
-      "2022-05-02, 17:50:45",
-      "https://news.ycombinator.com/item?id=31238423"
+      "2022-05-02, 18:35:46",
+      "https://news.ycombinator.com/item?id=31239017"
     ],
     [
-      "An illustrated guide to plastic straws (2021)",
-      "https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws"
+      "Two workers are quadratically better than one (2020)",
+      "https://www.hillelwayne.com/post/queueing-prism/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 18:31:47",
+      "https://news.ycombinator.com/item?id=31238958"
+    ],
+    [
+      "Show HN: I am building a free version of Strava",
+      "https://mtbx.bike?page=hangtime"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The tragic case of the wrong Thomas James is finally righted",
       "https://www.gq.com/story/thomas-james-innocent"
+    ]
+  ],
+  [
+    [
+      "2022-05-01, 02:33:02",
+      "https://news.ycombinator.com/item?id=31221615"
+    ],
+    [
+      "Consfigurator 1.0: Common Lisp based declarative configuration management system",
+      "https://spwhitton.name//blog/entry/consfigurator_1.0.0/"
     ]
   ],
   [
