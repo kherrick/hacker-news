@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-05-02, 23:59:51",
-      "https://news.ycombinator.com/item?id=31242669"
+      "2022-05-03, 02:03:27",
+      "https://news.ycombinator.com/item?id=31243569"
     ],
     [
-      "California’s demography is at odds with the old California Dream",
-      "https://www.economist.com/united-states/californias-demography-is-at-odds-with-the-old-california-dream/21809086"
+      "Meta announces a GPT3-size language model you can download",
+      "https://arxiv.org/abs/2205.01068"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 01:59:07",
+      "https://news.ycombinator.com/item?id=31243532"
+    ],
+    [
+      "A first for Canada: New type of nuclear plant opening by 2028",
+      "https://www.theweathernetwork.com/en/news/climate/solutions/a-first-for-canada-new-type-of-nuclear-plant-opening-by-2028"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 01:19:39",
+      "https://news.ycombinator.com/item?id=31243189"
+    ],
+    [
+      "How to Compare Images Fairly (2017)",
+      "https://kornel.ski/en/faircomparison"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 01:00:54",
+      "https://news.ycombinator.com/item?id=31243063"
+    ],
+    [
+      "Padlet is hiring engineers in Singapore to build software for a good education",
+      "https://jobs.lever.co/padlet?location=Singapore"
     ]
   ],
   [
@@ -17,26 +47,6 @@
     [
       "The Negative Link Between Extraversion and Perceived Listening",
       "https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 21:52:48",
-      "https://news.ycombinator.com/item?id=31241444"
-    ],
-    [
-      "SF Conservancy now accepting copyright assignment for any GPL software",
-      "https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 21:00:30",
-      "https://news.ycombinator.com/item?id=31240865"
-    ],
-    [
-      "Queenly (YC W21) Is Hiring",
-      "https://www.ycombinator.com/companies/queenly/jobs/ZVQO8R7-head-of-operations"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2022-05-02, 18:15:47",
-      "https://news.ycombinator.com/item?id=31238738"
-    ],
-    [
-      "Show HN: Kontxt – Social web layer with CMS and social network",
-      "https://www.kontxt.io"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 17:50:45",
       "https://news.ycombinator.com/item?id=31238423"
     ],
@@ -107,16 +107,6 @@
     [
       "Show HN: PostgresML, now with analytics and project management",
       "https://postgresml.org"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 15:58:35",
-      "https://news.ycombinator.com/item?id=31236855"
-    ],
-    [
-      "JEP proposed to target JDK 19: 425: Virtual Threads (Preview)",
-      "https://mail.openjdk.java.net/pipermail/jdk-dev/2022-April/006530.html"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31221757"
     ],
     [
-      "The Tragic Case of the Wrong Thomas James Is Finally Righted",
+      "The tragic case of the wrong Thomas James is finally righted",
       "https://www.gq.com/story/thomas-james-innocent"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Consfigurator 1.0: Common Lisp based declarative configuration management system",
       "https://spwhitton.name//blog/entry/consfigurator_1.0.0/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 20:45:21",
+      "https://news.ycombinator.com/item?id=31219155"
+    ],
+    [
+      "How product teams should set deadlines",
+      "https://dana11235.medium.com/how-product-teams-should-set-deadlines-88df1024ad90"
     ]
   ],
   [
