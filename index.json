@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-03, 09:08:39",
+      "https://news.ycombinator.com/item?id=31246224"
+    ],
+    [
+      "Wolvic (Igalia’s Stewardship of Firefox Reality)",
+      "https://wolvic.com/"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 07:18:36",
       "https://news.ycombinator.com/item?id=31245625"
     ],
     [
       "Ask HN: The middle ground for email self-hosting?",
       "https://news.ycombinator.com/item?id=31245625"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 06:53:20",
+      "https://news.ycombinator.com/item?id=31245462"
+    ],
+    [
+      "React Native On-Device Machine Learning with Google ML Kit",
+      "https://github.com/a7med-mahmoud/react-native-ml-kit"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2022-05-02, 18:36:54",
-      "https://news.ycombinator.com/item?id=31239033"
-    ],
-    [
-      "The $440M software error at Knight Capital (2019)",
-      "https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 17:50:45",
-      "https://news.ycombinator.com/item?id=31238423"
-    ],
-    [
-      "An illustrated guide to plastic straws (2021)",
-      "https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 17:48:38",
       "https://news.ycombinator.com/item?id=31238396"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-05-01, 02:33:02",
-      "https://news.ycombinator.com/item?id=31221615"
-    ],
-    [
-      "Consfigurator 1.0: Common Lisp based declarative configuration management system",
-      "https://spwhitton.name//blog/entry/consfigurator_1.0.0/"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 22:04:11",
       "https://news.ycombinator.com/item?id=31219829"
     ],
@@ -297,6 +287,16 @@
     [
       "Deep Learning in Neuroimaging",
       "https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 16:29:36",
+      "https://news.ycombinator.com/item?id=31217171"
+    ],
+    [
+      "The Most Shameful RPG Dice (2009)",
+      "https://www.toplessrobot.com/2009/04/the_10_most_shameful_rpg_dice.php"
     ]
   ]
 ]
