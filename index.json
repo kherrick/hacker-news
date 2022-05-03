@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31245625"
     ],
     [
-      "Ask HN: The middle ground for email selfhosting",
+      "Ask HN: The middle ground for email self-hosting?",
       "https://news.ycombinator.com/item?id=31245625"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31244792"
     ],
     [
-      "Why I’m Skeptical of “Steelmanning”",
+      "Why I’m skeptical of “steelmanning”",
       "https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31244448"
     ],
     [
-      "Pitivi is a Free video editor with a beautiful and intuitive user interface",
+      "Pitivi, a free and open source video editor for Linux",
       "https://pitivi.org/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "A minimal C compiler in x86 assembly",
       "https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 02:20:03",
-      "https://news.ycombinator.com/item?id=31243674"
-    ],
-    [
-      "India reveals RISC-V CPU roadmap, expects product by 2023",
-      "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31243569"
     ],
     [
-      "Meta announces a GPT3-size language model you can download",
+      "OPT: Open Pre-trained Transformer Language Models",
       "https://arxiv.org/abs/2205.01068"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "The $440M software error at Knight Capital (2019)",
       "https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 18:35:46",
+      "https://news.ycombinator.com/item?id=31239017"
+    ],
+    [
+      "Two workers are quadratically better than one (2020)",
+      "https://www.hillelwayne.com/post/queueing-prism/"
     ]
   ],
   [
