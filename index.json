@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-03, 11:47:49",
+      "https://news.ycombinator.com/item?id=31247149"
+    ],
+    [
+      "11 Companies That Use Haskell in Production",
+      "https://serokell.io/blog/top-software-written-in-haskell"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 11:44:08",
+      "https://news.ycombinator.com/item?id=31247117"
+    ],
+    [
+      "Purism Librem 14 review (part 1): The ethical flagship",
+      "https://tuxphones.com/purism-librem-14-ethical-linux-privacy-laptop-review/"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 11:34:39",
+      "https://news.ycombinator.com/item?id=31247053"
+    ],
+    [
+      "Why Hy?",
+      "https://docs.hylang.org/en/alpha/whyhy.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 11:27:14",
+      "https://news.ycombinator.com/item?id=31247002"
+    ],
+    [
+      "One gotty(1) Web terminal per user",
+      "https://jpmens.net/2022/05/03/one-gotty-per-user/"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 10:07:42",
       "https://news.ycombinator.com/item?id=31246530"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-05-03, 01:55:13",
-      "https://news.ycombinator.com/item?id=31243501"
-    ],
-    [
-      "I replaced my native iOS app with a cross platform web app and no-one noticed",
-      "https://medium.com/@ChrisNielsen123/i-replaced-my-native-ios-app-with-a-cross-platform-web-app-and-no-one-noticed-1653901ce244"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 01:00:54",
       "https://news.ycombinator.com/item?id=31243063"
     ],
@@ -177,26 +207,6 @@
     [
       "The Negative Link Between Extraversion and Perceived Listening",
       "https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 20:43:07",
-      "https://news.ycombinator.com/item?id=31240652"
-    ],
-    [
-      "An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser",
-      "https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 17:48:38",
-      "https://news.ycombinator.com/item?id=31238396"
-    ],
-    [
-      "Show HN: PostgresML, now with analytics and project management",
-      "https://postgresml.org"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-05-01, 13:29:56",
-      "https://news.ycombinator.com/item?id=31224870"
-    ],
-    [
-      "Rites of Passage",
-      "https://www2.palomar.edu/anthro/social/soc_4.htm"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 02:57:34",
       "https://news.ycombinator.com/item?id=31221757"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-04-30, 22:04:11",
-      "https://news.ycombinator.com/item?id=31219829"
-    ],
-    [
-      "Message Eating Null (2000)",
-      "http://wiki.squeak.org/squeak/5962"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 21:28:44",
       "https://news.ycombinator.com/item?id=31219552"
     ],
     [
       "What I wish I knew when learning OCaml (2018)",
       "https://baturin.org/docs/ocaml-faq/"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 20:55:37",
+      "https://news.ycombinator.com/item?id=31219253"
+    ],
+    [
+      "Ask HN: How can I learn macroeconomics properly?",
+      "https://news.ycombinator.com/item?id=31219253"
     ]
   ],
   [
