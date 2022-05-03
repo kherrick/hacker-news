@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-02, 23:59:51",
+      "https://news.ycombinator.com/item?id=31242669"
+    ],
+    [
+      "California’s demography is at odds with the old California Dream",
+      "https://www.economist.com/united-states/californias-demography-is-at-odds-with-the-old-california-dream/21809086"
+    ]
+  ],
+  [
+    [
       "2022-05-02, 23:00:44",
       "https://news.ycombinator.com/item?id=31242245"
     ],
@@ -37,16 +47,6 @@
     [
       "An engineered barley plant that ‘orders’ soil bacteria to manufacture fertiliser",
       "https://www.slcu.cam.ac.uk/news/engineered-barley-plant-orders-soil-bacteria-manufacture-ammonia-fertiliser"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 20:05:14",
-      "https://news.ycombinator.com/item?id=31240185"
-    ],
-    [
-      "Single Page Applications using Rust (with WASM)",
-      "https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-05-02, 09:17:31",
-      "https://news.ycombinator.com/item?id=31232814"
-    ],
-    [
-      "Historic fertilizer crunch threatens food security",
-      "https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 02:47:42",
       "https://news.ycombinator.com/item?id=31230903"
     ],
@@ -257,6 +247,16 @@
     [
       "Pre-Code Hollywood",
       "https://pre-code.com/what-is-pre-code-hollywood/"
+    ]
+  ],
+  [
+    [
+      "2022-05-01, 09:19:53",
+      "https://news.ycombinator.com/item?id=31223420"
+    ],
+    [
+      "Notes on an Observability Team",
+      "https://ericmustin.substack.com/p/notes-on-an-observability-team"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31217434"
     ],
     [
-      "The appeal of using plain HTML pages",
+      "The appeal of using plain HTML pages (2019)",
       "https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal"
     ]
   ]
