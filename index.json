@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-03, 02:20:03",
+      "https://news.ycombinator.com/item?id=31243674"
+    ],
+    [
+      "India reveals RISC-V CPU roadmap, expects product by 2023",
+      "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 02:03:27",
       "https://news.ycombinator.com/item?id=31243569"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2022-05-03, 01:19:39",
-      "https://news.ycombinator.com/item?id=31243189"
+      "2022-05-03, 01:55:13",
+      "https://news.ycombinator.com/item?id=31243501"
     ],
     [
-      "How to Compare Images Fairly (2017)",
-      "https://kornel.ski/en/faircomparison"
+      "I replaced my native iOS app with a cross platform web app and no-one noticed",
+      "https://medium.com/@ChrisNielsen123/i-replaced-my-native-ios-app-with-a-cross-platform-web-app-and-no-one-noticed-1653901ce244"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-01, 20:06:42",
-      "https://news.ycombinator.com/item?id=31228195"
-    ],
-    [
-      "Pre-Code Hollywood",
-      "https://pre-code.com/what-is-pre-code-hollywood/"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 09:19:53",
       "https://news.ycombinator.com/item?id=31223420"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-04-30, 22:04:11",
+      "https://news.ycombinator.com/item?id=31219829"
+    ],
+    [
+      "Message Eating Null (2000)",
+      "http://wiki.squeak.org/squeak/5962"
+    ]
+  ],
+  [
+    [
       "2022-04-30, 20:45:21",
       "https://news.ycombinator.com/item?id=31219155"
     ],
     [
       "How product teams should set deadlines",
       "https://dana11235.medium.com/how-product-teams-should-set-deadlines-88df1024ad90"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 19:22:54",
-      "https://news.ycombinator.com/item?id=31218488"
-    ],
-    [
-      "WebDNN: Fast DNN running framework on Web Browser",
-      "https://mil-tokyo.github.io/webdnn/"
     ]
   ],
   [
