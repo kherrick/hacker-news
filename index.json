@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-05-03, 12:23:44",
+      "https://news.ycombinator.com/item?id=31247407"
+    ],
+    [
+      "A Single Memory Is Stored Across Many Connected Brain Regions",
+      "https://news.mit.edu/2022/single-memory-stored-across-many-connected-brain-regions-0502"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 12:22:03",
+      "https://news.ycombinator.com/item?id=31247392"
+    ],
+    [
+      "Buttondown is a small, elegant tool for producing newsletters",
+      "https://buttondown.email/"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 12:21:18",
+      "https://news.ycombinator.com/item?id=31247387"
+    ],
+    [
+      "Will Hare replace C? Or Rust? Or Zig? Or anything else?",
+      "https://harelang.org/blog/2022-05-02-what-is-hares-scope/"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 12:10:00",
+      "https://news.ycombinator.com/item?id=31247312"
+    ],
+    [
+      "Show HN: Find the 10 highest and 10 lowest correlations to any stock",
+      "https://betagainst.fun/"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 12:07:19",
+      "https://news.ycombinator.com/item?id=31247296"
+    ],
+    [
+      "Postmark acquired by marketing firm ActiveCampaign",
+      "https://wildbit.com/blog/postmark-has-been-acquired-by-activecampaign"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 11:47:49",
       "https://news.ycombinator.com/item?id=31247149"
     ],
     [
-      "11 Companies That Use Haskell in Production",
+      "Companies That Use Haskell in Production",
       "https://serokell.io/blog/top-software-written-in-haskell"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 11:47:16",
+      "https://news.ycombinator.com/item?id=31247145"
+    ],
+    [
+      "Fediverse",
+      "https://fediverse.party"
     ]
   ],
   [
@@ -31,12 +91,32 @@
   ],
   [
     [
+      "2022-05-03, 11:27:35",
+      "https://news.ycombinator.com/item?id=31247006"
+    ],
+    [
+      "RDF 1.1 Primer (2014)",
+      "https://www.w3.org/TR/rdf11-primer/"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 11:27:14",
       "https://news.ycombinator.com/item?id=31247002"
     ],
     [
       "One gotty(1) Web terminal per user",
       "https://jpmens.net/2022/05/03/one-gotty-per-user/"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 10:29:36",
+      "https://news.ycombinator.com/item?id=31246662"
+    ],
+    [
+      "Mullvad VPN now accepts Monero payments",
+      "https://mullvad.net/en/blog/2022/5/3/we-now-accept-monero/"
     ]
   ],
   [
@@ -71,26 +151,6 @@
   ],
   [
     [
-      "2022-05-03, 06:53:20",
-      "https://news.ycombinator.com/item?id=31245462"
-    ],
-    [
-      "React Native On-Device Machine Learning with Google ML Kit",
-      "https://github.com/a7med-mahmoud/react-native-ml-kit"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 05:59:39",
-      "https://news.ycombinator.com/item?id=31245163"
-    ],
-    [
-      "Cellular Landscapes: Protein Synthesis",
-      "https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 05:55:11",
       "https://news.ycombinator.com/item?id=31245118"
     ],
@@ -111,32 +171,12 @@
   ],
   [
     [
-      "2022-05-03, 05:46:55",
-      "https://news.ycombinator.com/item?id=31245066"
-    ],
-    [
-      "FreeDV – Digital Voice mode for HF radio",
-      "https://freedv.org/"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 05:34:34",
       "https://news.ycombinator.com/item?id=31245005"
     ],
     [
       "Using QGIS to apply a 1777 style to today's OpenStreetMap data",
       "https://manuelclaeysbouuaert.be/projects/ferrargis.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 04:55:02",
-      "https://news.ycombinator.com/item?id=31244792"
-    ],
-    [
-      "Why I’m skeptical of “steelmanning”",
-      "https://statmodeling.stat.columbia.edu/2022/04/28/the-challenge-of-bending-over-backward-to-see-things-from-the-other-persons-point-of-view/"
     ]
   ],
   [
@@ -201,26 +241,6 @@
   ],
   [
     [
-      "2022-05-02, 23:00:44",
-      "https://news.ycombinator.com/item?id=31242245"
-    ],
-    [
-      "The Negative Link Between Extraversion and Perceived Listening",
-      "https://journals.sagepub.com/doi/abs/10.1177/01461672211072815?journalCode=pspc&"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 15:06:49",
-      "https://news.ycombinator.com/item?id=31236066"
-    ],
-    [
-      "Launch HN: Meticulous (YC S21) – Catch JavaScript errors before they hit prod",
-      "https://news.ycombinator.com/item?id=31236066"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 14:11:57",
       "https://news.ycombinator.com/item?id=31225147"
     ],
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2022-05-01, 02:57:34",
-      "https://news.ycombinator.com/item?id=31221757"
+      "2022-04-30, 22:35:07",
+      "https://news.ycombinator.com/item?id=31220115"
     ],
     [
-      "The tragic case of the wrong Thomas James is finally righted",
-      "https://www.gq.com/story/thomas-james-innocent"
+      "Onyx BOOX Leaf: 7-inch eReader with Android 10",
+      "https://liliputing.com/2022/04/onyx-boox-leaf-is-a-7-inch-ereader-with-android-10.html"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-04-30, 20:45:21",
-      "https://news.ycombinator.com/item?id=31219155"
-    ],
-    [
-      "How product teams should set deadlines",
-      "https://dana11235.medium.com/how-product-teams-should-set-deadlines-88df1024ad90"
-    ]
-  ],
-  [
-    [
       "2022-04-30, 19:52:54",
       "https://news.ycombinator.com/item?id=31218737"
     ],
     [
       "The PalmOS powered wristwatch from Fossil",
       "https://lunduke.substack.com/p/the-palmos-powered-wristwatch-from"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 17:37:29",
-      "https://news.ycombinator.com/item?id=31217651"
-    ],
-    [
-      "Deep Learning in Neuroimaging",
-      "https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/"
     ]
   ],
   [
