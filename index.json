@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-03, 03:21:52",
+      "https://news.ycombinator.com/item?id=31244150"
+    ],
+    [
+      "A minimal C compiler in x86 assembly",
+      "https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 02:20:03",
       "https://news.ycombinator.com/item?id=31243674"
     ],
@@ -37,6 +47,16 @@
     [
       "I replaced my native iOS app with a cross platform web app and no-one noticed",
       "https://medium.com/@ChrisNielsen123/i-replaced-my-native-ios-app-with-a-cross-platform-web-app-and-no-one-noticed-1653901ce244"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 01:19:39",
+      "https://news.ycombinator.com/item?id=31243189"
+    ],
+    [
+      "How to Compare Images Fairly (2017)",
+      "https://kornel.ski/en/faircomparison"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-05-02, 15:22:48",
-      "https://news.ycombinator.com/item?id=31236303"
-    ],
-    [
-      "A case study of Toyota unintended acceleration and software safety (2014) [pdf]",
-      "https://course.ece.cmu.edu/~ece642/lectures/10_koopman_public_toyota_talk.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 15:21:06",
       "https://news.ycombinator.com/item?id=31236274"
     ],
@@ -187,16 +197,6 @@
     [
       "Ask HN: Who wants to be hired? (May 2022)",
       "https://news.ycombinator.com/item?id=31235966"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 14:18:19",
-      "https://news.ycombinator.com/item?id=31235427"
-    ],
-    [
-      "Practical bruteforce of military grade AES-1024 (2021) [video]",
-      "https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024"
     ]
   ],
   [
