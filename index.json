@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-04, 15:29:08",
+      "https://news.ycombinator.com/item?id=31261861"
+    ],
+    [
+      "Backblaze Drive Stats for Q1 2022",
+      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2022/"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 15:16:27",
       "https://news.ycombinator.com/item?id=31261671"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2022-05-04, 15:12:18",
+      "https://news.ycombinator.com/item?id=31261611"
+    ],
+    [
+      "The need to reform the National Institutes of Health (NIH) funding process",
+      "https://newscience.org/nih/"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 15:11:00",
       "https://news.ycombinator.com/item?id=31261591"
     ],
     [
-      "Founder's Choice of VCs",
+      "Founder’s Choice",
       "https://founderschoicevc.com/"
     ]
   ],
@@ -37,6 +57,16 @@
     [
       "The Google Incentive Mismatch: Problems with Promotion-Oriented Cultures",
       "https://www.warp.dev/blog/problems-with-promotion-oriented-cultures"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 14:10:19",
+      "https://news.ycombinator.com/item?id=31260665"
+    ],
+    [
+      "100 Pages of raw notes released with the language model OPT-175",
+      "https://twitter.com/schrep/status/1521850083792154624"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-05-03, 05:31:11",
-      "https://news.ycombinator.com/item?id=31244988"
-    ],
-    [
-      "How to play tabletop RPGs by yourself: A beginner's guide to solo roleplaying",
-      "https://www.dicebreaker.com/categories/roleplaying-game/how-to/how-to-play-tabletop-rpgs-by-yourself"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 00:18:54",
       "https://news.ycombinator.com/item?id=31242800"
     ],
@@ -251,42 +271,22 @@
   ],
   [
     [
-      "2022-05-01, 23:05:45",
-      "https://news.ycombinator.com/item?id=31229605"
-    ],
-    [
-      "The Curious Case of August Engelhardt, Leader of a Coconut-Obsessed Cult (2017)",
-      "https://www.atlasobscura.com/articles/august-engelhardt-coconut-cult"
-    ]
-  ],
-  [
-    [
-      "2022-05-01, 21:40:47",
-      "https://news.ycombinator.com/item?id=31228957"
-    ],
-    [
-      "Sway Tower, the Tallest Unreinforced Concrete Structure (2020)",
-      "https://www.amusingplanet.com/2020/08/sway-tower-14-story-folly-and-world.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-01, 13:59:55",
-      "https://news.ycombinator.com/item?id=31225059"
-    ],
-    [
-      "The Pro-Per Meaning of “Proper”",
-      "https://blog.poisson.chat/posts/2022-04-07-pro-per-proper.html"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 12:40:31",
       "https://news.ycombinator.com/item?id=31224545"
     ],
     [
       "Software Engineering at Google (2020) [pdf]",
       "https://abseil.io/resources/swe_at_google.2.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-04-30, 19:07:55",
+      "https://news.ycombinator.com/item?id=31218376"
+    ],
+    [
+      "Axzez Interceptor carrier board for RPi CM4 gets 8-port PoE+ board",
+      "https://www.cnx-software.com/2022/04/27/axzez-interceptor-carrier-board-for-rpi-cm4-gets-8-port-poe-board/"
     ]
   ],
   [
