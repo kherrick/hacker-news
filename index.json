@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-04, 18:48:01",
+      "https://news.ycombinator.com/item?id=31264328"
+    ],
+    [
+      "What we can deduce from a leaked PDF",
+      "https://matthewbutterick.com/chron/what-we-can-deduce-from-a-leaked-pdf.html"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 17:56:32",
       "https://news.ycombinator.com/item?id=31263729"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-05-04, 10:39:57",
-      "https://news.ycombinator.com/item?id=31258679"
-    ],
-    [
-      "Clojure/Script mode for CodeMirror 6",
-      "https://nextjournal.github.io/clojure-mode/"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 09:59:08",
       "https://news.ycombinator.com/item?id=31258469"
     ],
@@ -217,6 +217,16 @@
     [
       "Microsoft 3D Movie Maker Source Code",
       "https://github.com/microsoft/Microsoft-3D-Movie-Maker"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 14:06:15",
+      "https://news.ycombinator.com/item?id=31248469"
+    ],
+    [
+      "Running tasks on E cores can use a third of the energy of P cores",
+      "https://eclecticlight.co/2022/05/03/running-tasks-on-e-cores-can-use-a-third-of-the-energy-of-p-cores/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "At the boundaries, applications aren't functional",
       "https://blog.ploeh.dk/2022/05/02/at-the-boundaries-applications-arent-functional/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 10:47:42",
-      "https://news.ycombinator.com/item?id=31233473"
-    ],
-    [
-      "What birds listen for in birdsong",
-      "https://www.scientificamerican.com/article/what-birds-really-listen-for-in-birdsong-its-not-what-you-think/"
     ]
   ],
   [
