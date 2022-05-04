@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-04, 16:05:55",
+      "https://news.ycombinator.com/item?id=31262361"
+    ],
+    [
+      "Stripe Financial Connections",
+      "https://stripe.com/financial-connections"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 15:29:08",
       "https://news.ycombinator.com/item?id=31261861"
     ],
@@ -77,6 +87,16 @@
     [
       "The Google Incentive Mismatch: Problems with Promotion-Oriented Cultures",
       "https://www.warp.dev/blog/problems-with-promotion-oriented-cultures"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 14:10:19",
+      "https://news.ycombinator.com/item?id=31260665"
+    ],
+    [
+      "100 Pages of raw notes released with the language model OPT-175",
+      "https://twitter.com/schrep/status/1521850083792154624"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-05-04, 11:49:32",
-      "https://news.ycombinator.com/item?id=31259206"
-    ],
-    [
-      "Ask HN: Have we screwed ourselves as software engineers?",
-      "https://news.ycombinator.com/item?id=31259206"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 10:39:57",
       "https://news.ycombinator.com/item?id=31258679"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-05-04, 04:17:23",
-      "https://news.ycombinator.com/item?id=31256704"
-    ],
-    [
-      "Sqldiff: SQLite Database Difference Utility",
-      "https://www.sqlite.org/sqldiff.html"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 04:13:32",
       "https://news.ycombinator.com/item?id=31256676"
     ],
@@ -237,6 +237,16 @@
     [
       "100-year-old Brazilian breaks record after 84 years at same company",
       "https://www.guinnessworldrecords.com/news/2022/4/100-year-old-brazilian-breaks-record-after-84-years-at-same-company-701664"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 09:47:24",
+      "https://news.ycombinator.com/item?id=31246438"
+    ],
+    [
+      "History of the browser user-agent string",
+      "https://webaim.org/blog/user-agent-string-history/"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31233473"
     ],
     [
-      "What Birds Listen for in Birdsong",
+      "What birds listen for in birdsong",
       "https://www.scientificamerican.com/article/what-birds-really-listen-for-in-birdsong-its-not-what-you-think/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Axzez Interceptor carrier board for RPi CM4 gets 8-port PoE+ board",
       "https://www.cnx-software.com/2022/04/27/axzez-interceptor-carrier-board-for-rpi-cm4-gets-8-port-poe-board/"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 16:56:45",
-      "https://news.ycombinator.com/item?id=31217370"
-    ],
-    [
-      "Nature has enormous emotional and cognitive benefits on people",
-      "https://www.npr.org/2022/04/14/1092822560/get-outside-enjoy-nature"
     ]
   ]
 ]
