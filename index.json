@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-04, 07:20:15",
-      "https://news.ycombinator.com/item?id=31257672"
-    ],
-    [
-      "SnappyMail – Modern, lightweight and fast web-based email client",
-      "https://snappymail.eu/"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 05:55:00",
       "https://news.ycombinator.com/item?id=31257156"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2022-05-03, 16:45:29",
+      "https://news.ycombinator.com/item?id=31250448"
+    ],
+    [
+      "Intel: Meteor Lake Chiplet SoC Up and Running",
+      "https://www.anandtech.com/show/17366/intel-meteor-lake-client-soc-up-and-running"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 16:30:25",
       "https://news.ycombinator.com/item?id=31250254"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-05-03, 07:31:43",
-      "https://news.ycombinator.com/item?id=31245690"
-    ],
-    [
-      "Neural Network Follies (2003)",
-      "https://neil.fraser.name/writing/tank/"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 07:14:38",
       "https://news.ycombinator.com/item?id=31245598"
     ],
@@ -197,6 +187,16 @@
     [
       "How to play tabletop RPGs by yourself: A beginner's guide to solo roleplaying",
       "https://www.dicebreaker.com/categories/roleplaying-game/how-to/how-to-play-tabletop-rpgs-by-yourself"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 01:52:40",
+      "https://news.ycombinator.com/item?id=31243481"
+    ],
+    [
+      "How I hunt down and fix errors in production",
+      "https://mattsegal.dev/prod-bug-hunt.html"
     ]
   ],
   [
