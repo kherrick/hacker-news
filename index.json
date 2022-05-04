@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-04, 17:36:49",
+      "https://news.ycombinator.com/item?id=31263516"
+    ],
+    [
+      "Jax vs. Julia (Vs PyTorch)",
+      "https://kidger.site/thoughts/jax-vs-julia/"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 17:18:38",
       "https://news.ycombinator.com/item?id=31263305"
     ],
@@ -287,16 +297,6 @@
     [
       "An O(1) Generic Blog Post About Rust",
       "https://peterkos.me/rust-const-generics/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 11:00:05",
-      "https://news.ycombinator.com/item?id=31233566"
-    ],
-    [
-      "At the boundaries, applications aren't functional",
-      "https://blog.ploeh.dk/2022/05/02/at-the-boundaries-applications-arent-functional/"
     ]
   ]
 ]
