@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-05-04, 12:23:08",
-      "https://news.ycombinator.com/item?id=31259468"
+      "2022-05-04, 13:17:20",
+      "https://news.ycombinator.com/item?id=31259950"
     ],
     [
-      "Ask HN: Why encourage creativity in school given most employers don't reward it?",
-      "https://news.ycombinator.com/item?id=31259468"
+      "Tailscale raises $100M to fix the Internet",
+      "https://tailscale.com/blog/series-b/"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 13:07:35",
+      "https://news.ycombinator.com/item?id=31259845"
+    ],
+    [
+      "Bitwarden: Generate a Username",
+      "https://bitwarden.com/help/generator/#generate-a-username"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 13:04:00",
+      "https://news.ycombinator.com/item?id=31259811"
+    ],
+    [
+      "Pinker vs. the AAAS on the politicization of climate change",
+      "https://whyevolutionistrue.com/2022/05/03/pinker-vs-the-aaas-on-the-politicization-of-climate-change/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "UpEquity (YC S19) Is Hiring a Software Engineer in Austin",
       "https://www.ycombinator.com/companies/upequity/jobs/ca50OPP-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 11:49:32",
+      "https://news.ycombinator.com/item?id=31259206"
+    ],
+    [
+      "Ask HN: Have we screwed ourselves as software engineers?",
+      "https://news.ycombinator.com/item?id=31259206"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-05-04, 03:27:14",
-      "https://news.ycombinator.com/item?id=31256421"
-    ],
-    [
-      "Practical advises on recommendation systems in production",
-      "https://arkid.substack.com/p/recommendation-systems-not-so-discussed"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 01:58:05",
       "https://news.ycombinator.com/item?id=31255939"
     ],
@@ -157,26 +177,6 @@
     [
       "Heroku resetting passwords for “a portion” of their users immediately",
       "https://news.ycombinator.com/item?id=31255450"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 21:45:56",
-      "https://news.ycombinator.com/item?id=31254005"
-    ],
-    [
-      "Go's Concurrency Examples in Java 19",
-      "https://mccue.dev/pages/5-2-22-go-concurrency-in-java"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 18:48:14",
-      "https://news.ycombinator.com/item?id=31251974"
-    ],
-    [
-      "The strange business of hole-in-one insurance",
-      "https://thehustle.co/the-strange-business-of-hole-in-one-insurance/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-05-03, 01:52:40",
-      "https://news.ycombinator.com/item?id=31243481"
-    ],
-    [
-      "How I hunt down and fix errors in production",
-      "https://mattsegal.dev/prod-bug-hunt.html"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 00:43:06",
       "https://news.ycombinator.com/item?id=31242957"
     ],
@@ -247,6 +237,16 @@
     [
       "Every Age Gets the Mythology It Deserves",
       "https://lareviewofbooks.org/article/every-age-gets-the-mythology-it-deserves/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 10:47:42",
+      "https://news.ycombinator.com/item?id=31233473"
+    ],
+    [
+      "What Birds Listen for in Birdsong",
+      "https://www.scientificamerican.com/article/what-birds-really-listen-for-in-birdsong-its-not-what-you-think/"
     ]
   ],
   [
