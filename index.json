@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2022-05-04, 15:16:27",
-      "https://news.ycombinator.com/item?id=31261671"
-    ],
-    [
-      "Firecracker: Lightweight Virtualization for Serverless Applications (2020)",
-      "https://www.usenix.org/conference/nsdi20/presentation/agache"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 15:12:18",
       "https://news.ycombinator.com/item?id=31261611"
     ],
@@ -197,6 +187,16 @@
     [
       "Perl, the first postmodern computer language (1999)",
       "http://www.wall.org/~larry/pm.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 10:39:57",
+      "https://news.ycombinator.com/item?id=31258679"
+    ],
+    [
+      "Clojure/Script mode for CodeMirror 6",
+      "https://nextjournal.github.io/clojure-mode/"
     ]
   ],
   [
