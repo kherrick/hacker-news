@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2022-05-04, 03:27:14",
+      "https://news.ycombinator.com/item?id=31256421"
+    ],
+    [
+      "Practical advises on recommendation systems in production",
+      "https://arkid.substack.com/p/recommendation-systems-not-so-discussed"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 01:58:05",
       "https://news.ycombinator.com/item?id=31255939"
     ],
@@ -127,6 +137,16 @@
     [
       "Go's Concurrency Examples in Java 19",
       "https://mccue.dev/pages/5-2-22-go-concurrency-in-java"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 21:45:15",
+      "https://news.ycombinator.com/item?id=31253999"
+    ],
+    [
+      "Sigstore - A new standard for signing, verifying and protecting software",
+      "https://www.sigstore.dev/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-05-01, 17:54:32",
-      "https://news.ycombinator.com/item?id=31227080"
-    ],
-    [
-      "Bunnymark GL in Jai – 200k sprites at 200fps [video]",
-      "https://www.youtube.com/watch?v=m-v2Zjn_xuU"
-    ]
-  ],
-  [
-    [
       "2022-05-01, 15:40:54",
       "https://news.ycombinator.com/item?id=31225921"
     ],
@@ -277,16 +287,6 @@
     [
       "Software Engineering at Google (2020) [pdf]",
       "https://abseil.io/resources/swe_at_google.2.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-04-30, 21:02:05",
-      "https://news.ycombinator.com/item?id=31219324"
-    ],
-    [
-      "Ultorg: A user interface for relational databases [video]",
-      "https://www.hytradboi.com/2022/ultorg-a-user-interface-for-relational-databases"
     ]
   ],
   [
