@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-04, 04:17:23",
+      "https://news.ycombinator.com/item?id=31256704"
+    ],
+    [
+      "Sqldiff: SQLite Database Difference Utility",
+      "https://www.sqlite.org/sqldiff.html"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 04:13:32",
       "https://news.ycombinator.com/item?id=31256676"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-05-03, 13:58:06",
-      "https://news.ycombinator.com/item?id=31248379"
-    ],
-    [
-      "Kaketsugi – A technique for repairing holes or tears in fabric (2021) [video]",
-      "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/5003184/"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 07:31:43",
       "https://news.ycombinator.com/item?id=31245690"
     ],
@@ -207,16 +207,6 @@
     [
       "How I hunt down and fix errors in production",
       "https://mattsegal.dev/prod-bug-hunt.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 22:39:02",
-      "https://news.ycombinator.com/item?id=31242010"
-    ],
-    [
-      "Show HN: Color Orbs (Generative Art)",
-      "https://www.dannyking.uk/artwork/colororbs"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Twelve-factor app anno 2022",
       "https://xenitab.github.io/blog/2022/02/23/12factor/"
+    ]
+  ],
+  [
+    [
+      "2022-05-01, 12:40:31",
+      "https://news.ycombinator.com/item?id=31224545"
+    ],
+    [
+      "Software Engineering at Google (2020) [pdf]",
+      "https://abseil.io/resources/swe_at_google.2.pdf"
     ]
   ],
   [
