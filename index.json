@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-04, 22:26:23",
+      "https://news.ycombinator.com/item?id=31266661"
+    ],
+    [
+      "Ask HN: Why is the PDF format so inaccessible?",
+      "https://news.ycombinator.com/item?id=31266661"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 21:00:19",
       "https://news.ycombinator.com/item?id=31265796"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-05-04, 14:05:48",
-      "https://news.ycombinator.com/item?id=31260597"
-    ],
-    [
-      "Introducing ArcticDB: A Database for Observability",
-      "https://www.polarsignals.com/blog/posts/2022/05/04/introducing-arcticdb/"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 13:27:42",
       "https://news.ycombinator.com/item?id=31260061"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2022-05-04, 12:05:42",
+      "https://news.ycombinator.com/item?id=31259332"
+    ],
+    [
+      "Perl, the first postmodern computer language (1999)",
+      "http://www.wall.org/~larry/pm.html"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 10:37:40",
       "https://news.ycombinator.com/item?id=31258670"
     ],
@@ -227,16 +237,6 @@
     [
       "Keycloak: Open-Source Identity and Access Management",
       "https://www.keycloak.org/"
-    ]
-  ],
-  [
-    [
-      "2022-05-04, 03:40:46",
-      "https://news.ycombinator.com/item?id=31256487"
-    ],
-    [
-      "Refactoring Restaurants",
-      "https://www.thediff.co/p/refactoring-restaurants"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-05-03, 14:06:15",
-      "https://news.ycombinator.com/item?id=31248469"
-    ],
-    [
-      "Running tasks on E cores can use a third of the energy of P cores",
-      "https://eclecticlight.co/2022/05/03/running-tasks-on-e-cores-can-use-a-third-of-the-energy-of-p-cores/"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 10:22:27",
       "https://news.ycombinator.com/item?id=31246627"
     ],
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2022-05-03, 09:47:24",
-      "https://news.ycombinator.com/item?id=31246438"
+      "2022-05-03, 03:06:55",
+      "https://news.ycombinator.com/item?id=31244033"
     ],
     [
-      "History of the browser user-agent string",
-      "https://webaim.org/blog/user-agent-string-history/"
+      "Z80 Special Reset (2014)",
+      "http://www.primrosebank.net/computers/z80/z80_special_reset.htm"
     ]
   ],
   [
     [
-      "2022-05-02, 18:30:57",
-      "https://news.ycombinator.com/item?id=31238942"
+      "2022-05-02, 10:32:49",
+      "https://news.ycombinator.com/item?id=31233374"
     ],
     [
-      "An O(1) Generic Blog Post About Rust",
-      "https://peterkos.me/rust-const-generics/"
+      "Making traditional light switches smart",
+      "https://www.jamesridgway.co.uk/making-traditional-light-switches-smart/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 04:37:27",
+      "https://news.ycombinator.com/item?id=31231519"
+    ],
+    [
+      "A Worthy Cause?",
+      "https://www.historytoday.com/archive/feature/worthy-cause"
     ]
   ]
 ]
