@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-05-03, 16:07:57",
-      "https://news.ycombinator.com/item?id=31250001"
-    ],
-    [
-      "How to Walk (12 miles a day)",
-      "https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 14:35:04",
       "https://news.ycombinator.com/item?id=31248833"
     ],
@@ -217,6 +207,16 @@
     [
       "How I hunt down and fix errors in production",
       "https://mattsegal.dev/prod-bug-hunt.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 19:04:12",
+      "https://news.ycombinator.com/item?id=31239382"
+    ],
+    [
+      "Disassembly of Apple II DeskTop a “Finder”-Like GUI for 8-Bit Apples",
+      "https://github.com/a2stuff/a2d"
     ]
   ],
   [
