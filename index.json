@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-05, 16:11:13",
+      "https://news.ycombinator.com/item?id=31275178"
+    ],
+    [
+      "In Defence of the Single Page Application",
+      "https://williamkennedy.ninja/javascript/2022/05/03/in-defence-of-the-single-page-application/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 15:24:57",
+      "https://news.ycombinator.com/item?id=31274544"
+    ],
+    [
+      "Tailscale Authentication for Nginx",
+      "https://tailscale.com/blog/tailscale-auth-nginx/"
+    ]
+  ],
+  [
+    [
       "2022-05-05, 14:53:43",
       "https://news.ycombinator.com/item?id=31274137"
     ],
@@ -17,6 +37,16 @@
     [
       "Please, stop disabling zoom",
       "https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 14:35:56",
+      "https://news.ycombinator.com/item?id=31273893"
+    ],
+    [
+      "Moving a macOS window by clicking anywhere on it",
+      "https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-05-05, 10:03:54",
-      "https://news.ycombinator.com/item?id=31271477"
-    ],
-    [
-      "OpenAlex: The Promising Alternative to Microsoft Academic Graph",
-      "https://library.smu.edu.sg/topics-insights/openalex-promising-alternative-microsoft-academic-graph"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 10:00:04",
       "https://news.ycombinator.com/item?id=31271451"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-05-04, 03:26:50",
-      "https://news.ycombinator.com/item?id=31256419"
-    ],
-    [
-      "The future will have to wait (2006)",
-      "https://longnow.org/essays/omega-glory/"
-    ]
-  ],
-  [
-    [
       "2022-05-03, 19:36:16",
       "https://news.ycombinator.com/item?id=31252515"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-05-03, 16:21:02",
-      "https://news.ycombinator.com/item?id=31250141"
+      "2022-04-30, 23:07:57",
+      "https://news.ycombinator.com/item?id=31220364"
     ],
     [
-      "Modularizing GHC [pdf]",
-      "https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 14:10:44",
-      "https://news.ycombinator.com/item?id=31248512"
-    ],
-    [
-      "Spinoza's Religion",
-      "https://blog.apaonline.org/2022/03/11/philosophy-and-the-mirror-of-technology-spinozas-religion-interview-with-clare-carlisle/"
+      "Amiga Transputer Project",
+      "http://www.bambi-amiga.co.uk/amigahistory/prototypes/transputer.html"
     ]
   ]
 ]
