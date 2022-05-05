@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-05, 00:20:54",
+      "https://news.ycombinator.com/item?id=31267727"
+    ],
+    [
+      "Bluesky – Authenticated Data EXperiment",
+      "https://github.com/bluesky-social/adx"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 00:15:53",
+      "https://news.ycombinator.com/item?id=31267685"
+    ],
+    [
+      "What Game Are You Playing?",
+      "https://www.autodidacts.io/what-game-are-you-playing/"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 23:53:56",
+      "https://news.ycombinator.com/item?id=31267481"
+    ],
+    [
+      "After the First Tech Job",
+      "https://lowlyswe.substack.com/p/after-the-first-tech-job"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 23:29:04",
       "https://news.ycombinator.com/item?id=31267218"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-05-04, 14:08:49",
-      "https://news.ycombinator.com/item?id=31260643"
-    ],
-    [
-      "Writing a book for O'Reilly",
-      "http://www.thecodepainter.co.uk/blog/20220503/writeabook01.html"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 13:27:42",
       "https://news.ycombinator.com/item?id=31260061"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-05-04, 13:13:08",
-      "https://news.ycombinator.com/item?id=31259905"
-    ],
-    [
-      "Where are the low level system engineers?",
-      "https://twitter.com/kelseyhightower/status/1521611408885960705"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 12:05:42",
       "https://news.ycombinator.com/item?id=31259332"
     ],
@@ -225,28 +235,8 @@
       "https://news.ycombinator.com/item?id=31258670"
     ],
     [
-      "The NHL rule that allows a fan to play goalie",
+      "EBUG: The NHL's emergency backup goalie rule",
       "https://whyisthisinteresting.substack.com/p/the-ebug-edition"
-    ]
-  ],
-  [
-    [
-      "2022-05-04, 09:59:08",
-      "https://news.ycombinator.com/item?id=31258469"
-    ],
-    [
-      "Keycloak: Open-Source Identity and Access Management",
-      "https://www.keycloak.org/"
-    ]
-  ],
-  [
-    [
-      "2022-05-03, 20:41:13",
-      "https://news.ycombinator.com/item?id=31253306"
-    ],
-    [
-      "Airbnb Q1",
-      "https://twitter.com/bchesky/status/1521582440783007745"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-05-03, 09:42:13",
+      "https://news.ycombinator.com/item?id=31246405"
+    ],
+    [
+      "Show HN: Nests and Insects – A roguelike tabletop roleplaying game",
+      "https://github.com/stassa/nests-and-insects"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 03:06:55",
       "https://news.ycombinator.com/item?id=31244033"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-05-02, 10:32:49",
-      "https://news.ycombinator.com/item?id=31233374"
+      "2022-05-02, 17:18:13",
+      "https://news.ycombinator.com/item?id=31237983"
     ],
     [
-      "Making traditional light switches smart",
-      "https://www.jamesridgway.co.uk/making-traditional-light-switches-smart/"
+      "Tracing a single operation in distributed systems",
+      "https://hazelcast.com/blog/tracing-a-single-operation-in-distributed-systems/"
     ]
   ],
   [
