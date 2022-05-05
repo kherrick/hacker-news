@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-05, 13:44:50",
+      "https://news.ycombinator.com/item?id=31273229"
+    ],
+    [
+      "GitHub will require 2FA by the end of 2023",
+      "https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/"
+    ]
+  ],
+  [
+    [
       "2022-05-05, 13:35:57",
       "https://news.ycombinator.com/item?id=31273124"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-05-05, 04:33:53",
-      "https://news.ycombinator.com/item?id=31269515"
-    ],
-    [
-      "Zero downtime migrations",
-      "https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 03:28:26",
       "https://news.ycombinator.com/item?id=31269062"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-05-04, 03:59:19",
-      "https://news.ycombinator.com/item?id=31256581"
-    ],
-    [
-      "Reframing the Tin Book",
-      "https://blogs.bl.uk/european/2022/04/reframing-the-tin-book.html"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 03:26:50",
       "https://news.ycombinator.com/item?id=31256419"
     ],
@@ -287,6 +277,16 @@
     [
       "Misusing TypeScript assertion functions for fun and profit",
       "https://v5.chriskrycho.com/journal/misusing-typescript-assertion-functions-for-fun-and-profit/"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 16:21:02",
+      "https://news.ycombinator.com/item?id=31250141"
+    ],
+    [
+      "Modularizing GHC [pdf]",
+      "https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf"
     ]
   ],
   [
