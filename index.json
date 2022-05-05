@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-05-05, 18:40:56",
-      "https://news.ycombinator.com/item?id=31277008"
+      "2022-05-05, 18:55:42",
+      "https://news.ycombinator.com/item?id=31277158"
     ],
     [
-      "US sees largest productivity drop since 1947 [pdf]",
-      "https://www.bls.gov/news.release/pdf/prod2.pdf"
+      "Knowledge is like a house of cards",
+      "https://fhur.me/posts/collapsing-knowledge"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 18:40:29",
+      "https://news.ycombinator.com/item?id=31277002"
+    ],
+    [
+      "Lirebird – a simple and powerful voice changer for Linux, written in GTK 3",
+      "https://github.com/lyrebird-voice-changer/lyrebird"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Themes from Real World Crypto 2022",
       "https://blog.trailofbits.com/2022/05/03/themes-from-real-world-crypto-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 18:22:17",
+      "https://news.ycombinator.com/item?id=31276822"
+    ],
+    [
+      "The Great Pterodacty Project (1986) [pdf]",
+      "https://calteches.library.caltech.edu/596/2/MacCready.pdf"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "GitHub will require 2FA by the end of 2023",
       "https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/"
-    ]
-  ],
-  [
-    [
-      "2022-05-05, 13:35:57",
-      "https://news.ycombinator.com/item?id=31273124"
-    ],
-    [
-      "UML Diagrams Designer via Code",
-      "https://sequencediagram.org/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-05-04, 16:19:22",
-      "https://news.ycombinator.com/item?id=31262542"
-    ],
-    [
-      "JavaScript Containers",
-      "https://tinyclouds.org/javascript_containers"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 15:06:41",
       "https://news.ycombinator.com/item?id=31261533"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-04-30, 23:07:57",
-      "https://news.ycombinator.com/item?id=31220364"
+      "2022-05-01, 02:18:38",
+      "https://news.ycombinator.com/item?id=31221516"
     ],
     [
-      "Amiga Transputer Project",
-      "http://www.bambi-amiga.co.uk/amigahistory/prototypes/transputer.html"
+      "FOSS and Crafts 44: Celebrating a Decade of Guix [audio]",
+      "https://fossandcrafts.org/episodes/44-celebrating-a-decade-of-guix.html"
     ]
   ]
 ]
