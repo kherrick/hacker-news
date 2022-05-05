@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-05, 04:33:53",
+      "https://news.ycombinator.com/item?id=31269515"
+    ],
+    [
+      "Zero downtime migrations",
+      "https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html"
+    ]
+  ],
+  [
+    [
       "2022-05-05, 03:28:26",
       "https://news.ycombinator.com/item?id=31269062"
     ],
     [
-      "On April 7, 2022, a threat actor obtained access to a Heroku database",
+      "Heroku Security Notification",
       "https://status.heroku.com/incidents/2413?updated"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31268861"
     ],
     [
-      "Swarming drones autonomously navigate a dense forest (and chase a human)",
+      "Swarming drones autonomously navigate a dense forest",
       "https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31268760"
     ],
     [
-      "Never-ending nightmare: Boeing lost 1.2B in 2022 first quarter",
+      "Boeing lost 1.2B in 2022 first quarter",
       "https://www.aviacionline.com/2022/04/never-ending-nightmare-boeing-lost-1-2-billion-in-2022-first-quarter/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31268222"
     ],
     [
-      "Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]",
+      "Teen mental health is plummeting and social media is a major contributing cause [pdf]",
       "https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31267685"
     ],
     [
-      "What Game Are You Playing?",
+      "What game are you playing?",
       "https://www.autodidacts.io/what-game-are-you-playing/"
     ]
   ],
@@ -55,18 +65,8 @@
       "https://news.ycombinator.com/item?id=31267481"
     ],
     [
-      "After the First Tech Job",
+      "After the first tech job",
       "https://lowlyswe.substack.com/p/after-the-first-tech-job"
-    ]
-  ],
-  [
-    [
-      "2022-05-04, 23:33:39",
-      "https://news.ycombinator.com/item?id=31267273"
-    ],
-    [
-      "Android 13’s new sideloading restriction of Accessibility APIs",
-      "https://blog.esper.io/android-13-sideloading-restriction-harder-malware-abuse-accessibility-apis/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Mighty (YC S19) is hiring software engineers to build a better browser",
       "https://www.notion.so/Mighty-is-hiring-945d3168d3e34a37883ca4d823ed734f"
-    ]
-  ],
-  [
-    [
-      "2022-05-04, 20:56:28",
-      "https://news.ycombinator.com/item?id=31265764"
-    ],
-    [
-      "Walkthrough of UHC’s claim reimbursement form game",
-      "https://github.com/MyUHCAdventure/MyUHCAdventure.github.io"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31264388"
     ],
     [
-      "Dude, Where's My Fuel?",
+      "Dude, where's my fuel?",
       "https://www.prometheusfuels.com/news/dude-wheres-my-fuel"
     ]
   ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2022-05-04, 13:27:42",
-      "https://news.ycombinator.com/item?id=31260061"
-    ],
-    [
-      "What are your most used self-hosted applications?",
-      "https://noted.lol/what-are-your-most-used-self-hosted-applications/"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 13:17:20",
       "https://news.ycombinator.com/item?id=31259950"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2022-05-03, 20:41:13",
+      "https://news.ycombinator.com/item?id=31253306"
+    ],
+    [
+      "Airbnb Q1",
+      "https://twitter.com/bchesky/status/1521582440783007745"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 20:40:54",
       "https://news.ycombinator.com/item?id=31253301"
     ],
     [
       "Postgres and Parquet in the data lake",
       "https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 19:36:16",
+      "https://news.ycombinator.com/item?id=31252515"
+    ],
+    [
+      "Who invented modern political satire?",
+      "https://newramblerreview.com/book-reviews/literary-studies/who-invented-modern-political-satire"
     ]
   ],
   [
