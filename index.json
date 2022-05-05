@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-05, 01:23:49",
+      "https://news.ycombinator.com/item?id=31268222"
+    ],
+    [
+      "Teen Mental Health Is Plummeting, and Social Media Is a Major Contributing Cause [pdf]",
+      "https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf"
+    ]
+  ],
+  [
+    [
       "2022-05-05, 00:20:54",
       "https://news.ycombinator.com/item?id=31267727"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2022-05-04, 23:33:39",
+      "https://news.ycombinator.com/item?id=31267273"
+    ],
+    [
+      "Android 13’s new sideloading restriction of Accessibility APIs",
+      "https://blog.esper.io/android-13-sideloading-restriction-harder-malware-abuse-accessibility-apis/"
+    ]
+  ],
+  [
+    [
       "2022-05-04, 23:29:04",
       "https://news.ycombinator.com/item?id=31267218"
     ],
     [
       "Former Facebook, WhatsApp employees lead new push to fix social media",
       "https://www.wsj.com/articles/social-media-startups-take-aim-at-facebook-and-elon-musk-11651656600"
-    ]
-  ],
-  [
-    [
-      "2022-05-04, 22:26:23",
-      "https://news.ycombinator.com/item?id=31266661"
-    ],
-    [
-      "Ask HN: Why is the PDF format so inaccessible?",
-      "https://news.ycombinator.com/item?id=31266661"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2022-05-04, 12:05:42",
-      "https://news.ycombinator.com/item?id=31259332"
-    ],
-    [
-      "Perl, the first postmodern computer language (1999)",
-      "http://www.wall.org/~larry/pm.html"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 10:37:40",
       "https://news.ycombinator.com/item?id=31258670"
     ],
     [
       "EBUG: The NHL's emergency backup goalie rule",
       "https://whyisthisinteresting.substack.com/p/the-ebug-edition"
+    ]
+  ],
+  [
+    [
+      "2022-05-03, 20:40:54",
+      "https://news.ycombinator.com/item?id=31253301"
+    ],
+    [
+      "Postgres and Parquet in the data lake",
+      "https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-05-03, 05:58:34",
+      "https://news.ycombinator.com/item?id=31245152"
+    ],
+    [
+      "Canon Camera Museum",
+      "https://global.canon/en/c-museum/"
+    ]
+  ],
+  [
+    [
       "2022-05-03, 03:06:55",
       "https://news.ycombinator.com/item?id=31244033"
     ],
     [
       "Z80 Special Reset (2014)",
       "http://www.primrosebank.net/computers/z80/z80_special_reset.htm"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 17:18:13",
-      "https://news.ycombinator.com/item?id=31237983"
-    ],
-    [
-      "Tracing a single operation in distributed systems",
-      "https://hazelcast.com/blog/tracing-a-single-operation-in-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2022-05-01, 03:18:32",
-      "https://news.ycombinator.com/item?id=31221872"
-    ],
-    [
-      "Booting the HP 1000E Vintage Computer at the Computerarium [video]",
-      "https://www.youtube.com/watch?v=8afoxnf_r1s"
     ]
   ]
 ]
