@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-05-05, 07:18:54",
-      "https://news.ycombinator.com/item?id=31270543"
-    ],
-    [
-      "V86: x86 virtualization in the browser, recompiling x86 to WASM on the fly",
-      "https://github.com/copy/v86"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 23:28:45",
       "https://news.ycombinator.com/item?id=31267214"
     ],
@@ -277,6 +267,16 @@
     [
       "Mechanical Watch",
       "https://ciechanow.ski/mechanical-watch/"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 12:42:48",
+      "https://news.ycombinator.com/item?id=31259627"
+    ],
+    [
+      "Ordering CSS Declarations",
+      "https://blog.jim-nielsen.com/2022/ordering-css-delcarations/"
     ]
   ],
   [
