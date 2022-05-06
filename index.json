@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-06, 17:39:08",
+      "https://news.ycombinator.com/item?id=31287850"
+    ],
+    [
+      "Apple Intentionally Disabled HiDPI on M1 Macs to Push 4K Monitors Sales",
+      "https://www.madrau.com/support/support/faq_files/ns_Why_isnt_there_any_HiDPI_resolu.html"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 17:12:08",
       "https://news.ycombinator.com/item?id=31287565"
     ],
@@ -287,16 +297,6 @@
     [
       "Congestion Control Arrives in Tor 0.4.7-stable",
       "https://blog.torproject.org/congestion-contrl-047/"
-    ]
-  ],
-  [
-    [
-      "2022-05-04, 15:06:41",
-      "https://news.ycombinator.com/item?id=31261533"
-    ],
-    [
-      "Mechanical Watch",
-      "https://ciechanow.ski/mechanical-watch/"
     ]
   ]
 ]
