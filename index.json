@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-05-06, 10:39:34",
+      "https://news.ycombinator.com/item?id=31283601"
+    ],
+    [
+      "Sentry.io outage",
+      "https://status.sentry.io"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 10:27:04",
       "https://news.ycombinator.com/item?id=31283524"
     ],
@@ -287,16 +297,6 @@
     [
       "Congestion Control Arrives in Tor 0.4.7-stable",
       "https://blog.torproject.org/congestion-contrl-047/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 08:43:31",
-      "https://news.ycombinator.com/item?id=31232672"
-    ],
-    [
-      "Color Code",
-      "https://github.com/igr/color-code"
     ]
   ]
 ]
