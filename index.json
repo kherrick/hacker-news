@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2022-05-06, 13:33:05",
-      "https://news.ycombinator.com/item?id=31284873"
+      "2022-05-06, 13:29:54",
+      "https://news.ycombinator.com/item?id=31284846"
     ],
     [
-      "Show HN: Recipe search engine, built in vanilla PHP",
-      "https://recipehunt.app/"
+      "GraphQL Is a Trap?",
+      "https://xuorig.medium.com/graphql-is-a-trap-e83ca380aa8f"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "You say “cave dweller debugging”, I say debug logging",
       "https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 10:39:34",
-      "https://news.ycombinator.com/item?id=31283601"
-    ],
-    [
-      "Sentry.io outage",
-      "https://status.sentry.io"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Bars Alcohol and Spatial Framing of Everyday Political Practice in Fascist Italy",
       "https://journals.sagepub.com/doi/full/10.1177/02656914221085131"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 07:15:22",
+      "https://news.ycombinator.com/item?id=31232218"
+    ],
+    [
+      "Integer vs. Linear Programming in Python",
+      "https://mlabonne.github.io/blog/linearoptimization/"
     ]
   ]
 ]
