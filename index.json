@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-05-06, 17:39:08",
-      "https://news.ycombinator.com/item?id=31287850"
+      "2022-05-06, 17:20:13",
+      "https://news.ycombinator.com/item?id=31287652"
     ],
     [
-      "Apple Intentionally Disabled HiDPI on M1 Macs to Push 4K Monitors Sales",
-      "https://www.madrau.com/support/support/faq_files/ns_Why_isnt_there_any_HiDPI_resolu.html"
+      "The piranha problem in social psychology / behavioral economics (2017)",
+      "https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-05-06, 17:01:39",
+      "https://news.ycombinator.com/item?id=31287442"
+    ],
+    [
+      "Demystifying Database Performance for Developers",
+      "https://www.crunchydata.com/blog/demystifying-database-performance-for-developers"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 17:00:51",
       "https://news.ycombinator.com/item?id=31287431"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2022-05-06, 16:35:45",
+      "https://news.ycombinator.com/item?id=31287142"
+    ],
+    [
+      "Faecal transplants reverse hallmarks of ageing",
+      "https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 16:01:04",
       "https://news.ycombinator.com/item?id=31286729"
     ],
@@ -67,16 +87,6 @@
     [
       "Deploying Kubernetes clusters in increasingly absurd languages",
       "https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 15:13:41",
-      "https://news.ycombinator.com/item?id=31286126"
-    ],
-    [
-      "Show HN: Videobug – The time travel debugger for JVM",
-      "https://news.ycombinator.com/item?id=31286126"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-05-06, 08:04:26",
-      "https://news.ycombinator.com/item?id=31282602"
-    ],
-    [
-      "Ali, what’s up",
-      "https://huntingbears.nl/2022/05/05/ali-whats-up/"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 07:05:49",
       "https://news.ycombinator.com/item?id=31282195"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-05-06, 01:52:07",
-      "https://news.ycombinator.com/item?id=31280350"
-    ],
-    [
-      "How many radioactive bananas would you need to power a house?",
-      "https://what-if.xkcd.com/158/"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 21:11:19",
       "https://news.ycombinator.com/item?id=31278460"
     ],
@@ -297,6 +287,16 @@
     [
       "Congestion Control Arrives in Tor 0.4.7-stable",
       "https://blog.torproject.org/congestion-contrl-047/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 10:53:13",
+      "https://news.ycombinator.com/item?id=31233516"
+    ],
+    [
+      "Research answers what Bronze Age daggers were used for",
+      "https://phys.org/news/2022-04-bronze-age-daggers.html"
     ]
   ]
 ]
