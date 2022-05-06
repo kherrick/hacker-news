@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-06, 04:36:37",
+      "https://news.ycombinator.com/item?id=31281371"
+    ],
+    [
+      "PHP RFC: Deprecate ${} string interpolation",
+      "https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 03:50:25",
       "https://news.ycombinator.com/item?id=31281107"
     ],
@@ -107,16 +117,6 @@
     [
       "Abletone Learning Synth",
       "https://learningsynths.ableton.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-05, 23:29:12",
-      "https://news.ycombinator.com/item?id=31279481"
-    ],
-    [
-      "Mygov is a ‘huge disappointment,’ key architect despairs",
-      "https://www.innovationaus.com/mygov-is-a-huge-disappointment-key-architect-despairs/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-05-05, 15:24:57",
-      "https://news.ycombinator.com/item?id=31274544"
-    ],
-    [
-      "Tailscale Authentication for Nginx",
-      "https://tailscale.com/blog/tailscale-auth-nginx/"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 14:53:41",
       "https://news.ycombinator.com/item?id=31274135"
     ],
@@ -287,6 +277,16 @@
     [
       "Mechanical Watch",
       "https://ciechanow.ski/mechanical-watch/"
+    ]
+  ],
+  [
+    [
+      "2022-05-04, 12:53:49",
+      "https://news.ycombinator.com/item?id=31259732"
+    ],
+    [
+      "How I learned to program",
+      "https://alexcwatt.com/learning-to-program/"
     ]
   ],
   [
