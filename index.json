@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-06, 18:32:29",
-      "https://news.ycombinator.com/item?id=31288367"
-    ],
-    [
-      "Fclones – an efficient duplicate file finder and remover",
-      "https://github.com/pkolaczk/fclones"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 17:29:43",
       "https://news.ycombinator.com/item?id=31287746"
     ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Tetris, but silly",
       "https://unit520.net/deadtrees/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 06:13:16",
+      "https://news.ycombinator.com/item?id=31270142"
+    ],
+    [
+      "A Faster Lexer in Go",
+      "https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/"
     ]
   ],
   [
