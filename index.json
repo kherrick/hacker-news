@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-06, 21:00:57",
+      "https://news.ycombinator.com/item?id=31289574"
+    ],
+    [
+      "Meticulous is building the future of testing, join us",
+      "https://news.ycombinator.com/item?id=31289574"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 19:49:08",
       "https://news.ycombinator.com/item?id=31289019"
     ],
     [
       "Mercedes-Benz Says Self-Driving Option Ready to Roll",
       "https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 18:32:29",
+      "https://news.ycombinator.com/item?id=31288367"
+    ],
+    [
+      "Fclones – an efficient duplicate file finder and remover",
+      "https://github.com/pkolaczk/fclones"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Demystifying Database Performance for Developers",
       "https://www.crunchydata.com/blog/demystifying-database-performance-for-developers"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 17:00:51",
-      "https://news.ycombinator.com/item?id=31287431"
-    ],
-    [
-      "Emerge Tools is building the future of mobile performance tooling, come join us",
-      "https://www.workatastartup.com/jobs/47879"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-05-06, 12:27:52",
-      "https://news.ycombinator.com/item?id=31284335"
-    ],
-    [
-      "OpenVMS on x86",
-      "https://vmssoftware.com/about/openvmsx86/"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 11:50:22",
       "https://news.ycombinator.com/item?id=31284031"
     ],
@@ -187,16 +187,6 @@
     [
       "You say “cave dweller debugging”, I say debug logging",
       "https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 10:39:34",
-      "https://news.ycombinator.com/item?id=31283601"
-    ],
-    [
-      "Sentry.io outage",
-      "https://status.sentry.io"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Why the wheels of human history seemed to turn faster for some",
       "https://www.washingtonpost.com/outlook/2022/04/29/why-wheels-human-history-seemed-turn-faster-some/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 08:43:31",
+      "https://news.ycombinator.com/item?id=31232672"
+    ],
+    [
+      "Color Code",
+      "https://github.com/igr/color-code"
     ]
   ]
 ]
