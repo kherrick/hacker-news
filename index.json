@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-06, 17:12:08",
+      "https://news.ycombinator.com/item?id=31287565"
+    ],
+    [
+      "Double detonation: from Type a Ia supernova explosion to its supernova remnant",
+      "https://arxiv.org/abs/2202.04268"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 17:07:52",
+      "https://news.ycombinator.com/item?id=31287511"
+    ],
+    [
+      "Recognize Digits Using ML in Elixir",
+      "https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 17:00:51",
       "https://news.ycombinator.com/item?id=31287431"
     ],
@@ -17,26 +37,6 @@
     [
       "Implementing a Merkle Tree for an Immutable Verifiable Log",
       "https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 16:35:45",
-      "https://news.ycombinator.com/item?id=31287142"
-    ],
-    [
-      "Faecal transplants reverse hallmarks of ageing",
-      "https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 16:12:40",
-      "https://news.ycombinator.com/item?id=31286869"
-    ],
-    [
-      "Admission Announcement",
-      "https://admission.princeton.edu/admission-announcement"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-05-05, 08:54:04",
-      "https://news.ycombinator.com/item?id=31271101"
+      "2022-05-05, 05:49:37",
+      "https://news.ycombinator.com/item?id=31269993"
     ],
     [
-      "Unpaywall: An open database of 31,903,705 free scholarly articles",
-      "https://unpaywall.org/"
+      "Congestion Control Arrives in Tor 0.4.7-stable",
+      "https://blog.torproject.org/congestion-contrl-047/"
     ]
   ],
   [
