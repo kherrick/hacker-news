@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-06, 15:26:24",
+      "https://news.ycombinator.com/item?id=31286279"
+    ],
+    [
+      "Deploying Kubernetes clusters in increasingly absurd languages",
+      "https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 15:13:41",
       "https://news.ycombinator.com/item?id=31286126"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31285969"
     ],
     [
-      "Why do you waste so much time on the internet",
+      "Why do you waste so much time on the internet?",
       "https://zan.bearblog.dev/why-i-waste-time/"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-05-06, 08:10:10",
-      "https://news.ycombinator.com/item?id=31282642"
-    ],
-    [
-      "Where Do Space, Time and Gravity Come From?",
-      "https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 08:04:26",
       "https://news.ycombinator.com/item?id=31282602"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=31282195"
     ],
     [
-      "Rad Basic – Compatible with Visual Basic 6 projects",
+      "RAD Basic – Compatible with Visual Basic 6 projects",
       "https://www.radbasic.dev/"
     ]
   ],
