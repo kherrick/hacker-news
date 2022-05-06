@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-05-06, 03:05:05",
-      "https://news.ycombinator.com/item?id=31280833"
+      "2022-05-06, 03:17:04",
+      "https://news.ycombinator.com/item?id=31280912"
     ],
     [
-      "CA Appeals Court Rules San Francisco Cannot Ban Tenderloin Drug Dealers",
-      "https://californiaglobe.com/articles/ca-appeals-court-rules-san-francisco-cannot-ban-tenderloin-drug-dealers/"
+      "Rustc: Add do yeet expressions to allow experimentation in nightly",
+      "https://github.com/rust-lang/rust/pull/96376"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2022-05-05, 18:54:56",
+      "https://news.ycombinator.com/item?id=31277149"
+    ],
+    [
+      "On Repl-Driven Programming (2020)",
+      "https://mikelevins.github.io/posts/2020-12-18-repl-driven/"
+    ]
+  ],
+  [
+    [
       "2022-05-05, 18:40:29",
       "https://news.ycombinator.com/item?id=31277002"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2022-05-05, 13:04:52",
-      "https://news.ycombinator.com/item?id=31272793"
+      "2022-05-05, 09:13:22",
+      "https://news.ycombinator.com/item?id=31271207"
     ],
     [
-      "Windmill.dev",
-      "https://docs.windmill.dev"
-    ]
-  ],
-  [
-    [
-      "2022-05-05, 12:50:28",
-      "https://news.ycombinator.com/item?id=31272681"
-    ],
-    [
-      "Modern Python Performance Considerations",
-      "https://lwn.net/SubscriberLink/893686/8978976335696804/"
+      "Grant: Paving the way to use GSM/GPRS technology on amateur radio bands",
+      "https://www.ampr.org/grants/grant-paving-the-way-to-use-gsm-gprs-technology-on-amateur-radio-bands/"
     ]
   ],
   [
