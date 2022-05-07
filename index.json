@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-07, 08:37:54",
+      "https://news.ycombinator.com/item?id=31293032"
+    ],
+    [
+      "Unix command line conventions over time",
+      "https://blog.liw.fi/posts/2022/05/07/unix-cli/"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 07:21:01",
       "https://news.ycombinator.com/item?id=31292768"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2022-05-07, 02:33:06",
+      "https://news.ycombinator.com/item?id=31291691"
+    ],
+    [
+      "Using a RaspberryPi as a Display Adapter",
+      "https://gwolf.org/2022/05/using-a-rpi-as-a-display-adapter.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 01:20:23",
       "https://news.ycombinator.com/item?id=31291322"
     ],
@@ -47,6 +67,16 @@
     [
       "Roll a Lisp in C – Evaluation",
       "https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 00:29:50",
+      "https://news.ycombinator.com/item?id=31291065"
+    ],
+    [
+      "Heroku: We’ve Heard Your Feedback",
+      "https://blog.heroku.com/we-heard-your-feedback"
     ]
   ],
   [
@@ -121,42 +151,12 @@
   ],
   [
     [
-      "2022-05-06, 17:29:43",
-      "https://news.ycombinator.com/item?id=31287746"
+      "2022-05-06, 17:20:13",
+      "https://news.ycombinator.com/item?id=31287652"
     ],
     [
-      "The joys and sorrows of maintaining a personal website",
-      "https://cheapskatesguide.org/articles/joys-and-sorrows.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 17:01:39",
-      "https://news.ycombinator.com/item?id=31287442"
-    ],
-    [
-      "Demystifying Database Performance for Developers",
-      "https://www.crunchydata.com/blog/demystifying-database-performance-for-developers"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 16:45:08",
-      "https://news.ycombinator.com/item?id=31287254"
-    ],
-    [
-      "Implementing a Merkle Tree for an Immutable Verifiable Log",
-      "https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 16:35:45",
-      "https://news.ycombinator.com/item?id=31287142"
-    ],
-    [
-      "Faecal transplants reverse hallmarks of ageing",
-      "https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing"
+      "The piranha problem in social psychology / behavioral economics (2017)",
+      "https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/"
     ]
   ],
   [
@@ -187,6 +187,16 @@
     [
       "Repeal the Foreign Dredge Act of 1906",
       "https://thezvi.substack.com/p/repeal-the-foreign-dredge-act-of"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 08:21:18",
+      "https://news.ycombinator.com/item?id=31282722"
+    ],
+    [
+      "Go: Story of TryLock Function",
+      "https://medium.com/a-journey-with-go/go-story-of-trylock-function-a69ef6dbb410"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-05-05, 05:49:37",
-      "https://news.ycombinator.com/item?id=31269993"
-    ],
-    [
-      "Congestion Control Arrives in Tor 0.4.7-stable",
-      "https://blog.torproject.org/congestion-contrl-047/"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 05:46:41",
       "https://news.ycombinator.com/item?id=31269972"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-05-02, 21:50:21",
-      "https://news.ycombinator.com/item?id=31241407"
+      "2022-05-02, 08:06:19",
+      "https://news.ycombinator.com/item?id=31232487"
     ],
     [
-      "A wild turkey is attacking people in D.C.",
-      "https://www.wsj.com/articles/wild-turkey-attack-washington-dc-11651414703"
+      "My adventures in cheap and expensive ideas, and why this is changing",
+      "https://craigburgess.substack.com/p/my-adventures-in-cheap-and-expensive"
     ]
   ],
   [
