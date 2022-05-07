@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-05-06, 23:21:13",
-      "https://news.ycombinator.com/item?id=31290566"
+      "2022-05-07, 00:29:50",
+      "https://news.ycombinator.com/item?id=31291065"
     ],
     [
-      "UK is over the edge: archive.org blocked at the telecom level",
-      "https://virtuallyfun.com/wordpress/2022/05/06/uk-is-over-the-edge-archive-org-blocked-at-the-telecom-level/"
+      "Heroku: We’ve Heard Your Feedback",
+      "https://blog.heroku.com/we-heard-your-feedback"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 00:03:26",
+      "https://news.ycombinator.com/item?id=31290862"
+    ],
+    [
+      "Roboto but Make It Flex",
+      "https://material.io/blog/roboto-flex"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 23:54:08",
+      "https://news.ycombinator.com/item?id=31290789"
+    ],
+    [
+      "MenuetOS",
+      "http://www.menuetos.net/index.htm"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31290421"
     ],
     [
-      "The Diminishing Returns of Productivity Culture",
+      "The diminishing returns of productivity culture",
       "https://annehelen.substack.com/p/the-diminishing-returns-of-productivity"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31289963"
     ],
     [
-      "Why I’ve spent my Easter break customizing Neovim",
+      "I’ve spent my Easter break customizing Neovim",
       "https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/"
     ]
   ],
@@ -45,28 +65,8 @@
       "https://news.ycombinator.com/item?id=31289854"
     ],
     [
-      "Sun-like star found in the region of the sky that has most radio signals",
+      "An approximation to determine the source of the WOW! Signal",
       "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 21:31:16",
-      "https://news.ycombinator.com/item?id=31289800"
-    ],
-    [
-      "Like Facebook, but smaller and “private” and “free” with no “ads”",
-      "https://www.halloapp.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 21:15:12",
-      "https://news.ycombinator.com/item?id=31289676"
-    ],
-    [
-      "Second large Hetzner outage in a week caused by DDoS attack",
-      "https://status.hetzner.com/incident/ea9ed47d-ecfa-49bd-a961-fdfbdaf026e0"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-05-06, 14:50:37",
-      "https://news.ycombinator.com/item?id=31285827"
-    ],
-    [
-      "TRPC: End-to-end typesafe APIs made easy",
-      "https://trpc.io/"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 14:10:50",
       "https://news.ycombinator.com/item?id=31285302"
     ],
@@ -201,42 +191,22 @@
   ],
   [
     [
-      "2022-05-06, 13:29:54",
-      "https://news.ycombinator.com/item?id=31284846"
-    ],
-    [
-      "GraphQL Is a Trap?",
-      "https://xuorig.medium.com/graphql-is-a-trap-e83ca380aa8f"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 11:34:49",
-      "https://news.ycombinator.com/item?id=31283918"
-    ],
-    [
-      "You say “cave dweller debugging”, I say debug logging",
-      "https://www.sicpers.info/2022/05/you-say-cave-dweller-debugging-i-say-debug-logging/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 09:10:53",
-      "https://news.ycombinator.com/item?id=31283026"
-    ],
-    [
-      "When negotiating a price, never bid with a round number (2016)",
-      "https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 08:10:10",
       "https://news.ycombinator.com/item?id=31282642"
     ],
     [
       "Where do space, time and gravity come from?",
       "https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 04:36:37",
+      "https://news.ycombinator.com/item?id=31281371"
+    ],
+    [
+      "PHP RFC: Deprecate ${} string interpolation",
+      "https://wiki.php.net/rfc/deprecate_dollar_brace_string_interpolation"
     ]
   ],
   [
@@ -257,6 +227,26 @@
     [
       "Show HN: Tetris, but silly",
       "https://unit520.net/deadtrees/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 10:41:59",
+      "https://news.ycombinator.com/item?id=31271681"
+    ],
+    [
+      "Byredo’s New Diffuser Works Like a Speaker, Only for Fragrances",
+      "https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 10:01:15",
+      "https://news.ycombinator.com/item?id=31271457"
+    ],
+    [
+      "Safari _img_ tag solving the wrong problem",
+      "https://lapcatsoftware.com/articles/img1.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Sokrates – a lightweight (yet powerful) software documentation and analysis tool",
       "https://www.sokrates.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 21:50:21",
+      "https://news.ycombinator.com/item?id=31241407"
+    ],
+    [
+      "A wild turkey is attacking people in D.C.",
+      "https://www.wsj.com/articles/wild-turkey-attack-washington-dc-11651414703"
     ]
   ],
   [
