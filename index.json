@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-07, 18:17:11",
+      "https://news.ycombinator.com/item?id=31297069"
+    ],
+    [
+      "The Architecture of Open Source Applications",
+      "https://aosabook.org/en/index.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 18:15:46",
       "https://news.ycombinator.com/item?id=31297057"
     ],
     [
-      "Deletionpedia: Rescuing Articles from Wikipedia's Deletionism",
+      "Deletionpedia: Rescuing articles from Wikipedia's deletionism",
       "https://deletionpedia.org/en/Main_Page"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31296084"
     ],
     [
-      "Amazon Abruptly Fires Senior Managers Tied to Unionized Warehouse",
+      "Amazon abruptly fires senior managers tied to unionized warehouse",
       "https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html"
     ]
   ],
@@ -61,21 +71,11 @@
   ],
   [
     [
-      "2022-05-07, 14:53:44",
-      "https://news.ycombinator.com/item?id=31294983"
-    ],
-    [
-      "Lufthansa’s European Union Strasbourg “shuttle”",
-      "https://onemileatatime.com/news/lufthansa-strasbourg-shuttle/"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 14:48:14",
       "https://news.ycombinator.com/item?id=31294927"
     ],
     [
-      "Dive into Systems: A Free, Online Textbook for Introducing Computer Systems",
+      "Dive into Systems: A free, online textbook for introducing computer systems",
       "https://dl.acm.org/doi/abs/10.1145/3408877.3432514"
     ]
   ],
@@ -101,11 +101,21 @@
   ],
   [
     [
+      "2022-05-07, 13:35:55",
+      "https://news.ycombinator.com/item?id=31294316"
+    ],
+    [
+      "Your phone may soon replace many of your passwords",
+      "https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 13:26:07",
       "https://news.ycombinator.com/item?id=31294269"
     ],
     [
-      "The Record Player From The Engine Bay Of An 80’s Datsun Car [video]",
+      "The record player from the engine bay of an 80’s Datsun car [video]",
       "https://www.youtube.com/watch?v=n3EuP7vZRSo"
     ]
   ],
@@ -151,22 +161,22 @@
   ],
   [
     [
+      "2022-05-07, 11:38:02",
+      "https://news.ycombinator.com/item?id=31293747"
+    ],
+    [
+      "The hyped and distorted claims of psychedelic marketing",
+      "https://www.psymposia.com/magazine/psychedelic-online-advertisements-marketing/"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 11:35:16",
       "https://news.ycombinator.com/item?id=31293727"
     ],
     [
       "I made a virtual bookshelf",
       "https://petargyurov.com/bookshelf/"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 11:32:52",
-      "https://news.ycombinator.com/item?id=31293716"
-    ],
-    [
-      "TatSu takes grammars in variation of EBNF, outputs memoizing Python PEG parsers",
-      "https://github.com/neogeny/TatSu"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31283991"
     ],
     [
-      "Learning Modern Linux: A Handbook for the Cloud Native Practitioner",
+      "Learning modern Linux: A handbook for the cloud native practitioner",
       "https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Home Made TPM2.0 Module",
       "https://diy.viktak.com/2022/04/home-made-tpm2-0-module.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 04:24:06",
-      "https://news.ycombinator.com/item?id=31281305"
-    ],
-    [
-      "Base 2048",
-      "https://github.com/qntm/base2048"
     ]
   ]
 ]
