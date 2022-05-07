@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-07, 19:09:11",
+      "https://news.ycombinator.com/item?id=31297550"
+    ],
+    [
+      "Xilem: An Architecture for UI in Rust",
+      "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 18:17:11",
       "https://news.ycombinator.com/item?id=31297069"
     ],
@@ -287,16 +297,6 @@
     [
       "AMD doubles the number of CPU cores it offers to Chromebooks",
       "https://arstechnica.com/gadgets/2022/05/hp-acer-chromebooks-claim-multitasking-boost-with-new-core-heavy-amd-cpus/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 04:24:06",
-      "https://news.ycombinator.com/item?id=31281305"
-    ],
-    [
-      "Base 2048",
-      "https://github.com/qntm/base2048"
     ]
   ]
 ]
