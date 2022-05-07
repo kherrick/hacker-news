@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-07, 17:35:44",
+      "https://news.ycombinator.com/item?id=31296699"
+    ],
+    [
+      "Meta-Perceptual Helmets",
+      "http://www.connolly-cleary.com/Home/helmets.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 17:02:29",
       "https://news.ycombinator.com/item?id=31296390"
     ],
@@ -277,16 +287,6 @@
     [
       "Base 2048",
       "https://github.com/qntm/base2048"
-    ]
-  ],
-  [
-    [
-      "2022-05-05, 07:18:05",
-      "https://news.ycombinator.com/item?id=31270536"
-    ],
-    [
-      "Merlin: Context sensitive completion for OCaml in Vim and Emacs",
-      "https://github.com/ocaml/merlin"
     ]
   ],
   [
