@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-07, 15:46:49",
-      "https://news.ycombinator.com/item?id=31295496"
-    ],
-    [
-      "Ask HN: How to Make Passive Income?",
-      "https://news.ycombinator.com/item?id=31295496"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 15:17:22",
       "https://news.ycombinator.com/item?id=31295211"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31294153"
     ],
     [
-      "Shaving Is Too Expensive",
+      "Shaving is an example of how consumer products extract more money",
       "https://www.johnwhiles.com/posts/shaving.html"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Unix command line conventions over time",
       "https://blog.liw.fi/posts/2022/05/07/unix-cli/"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 13:07:18",
+      "https://news.ycombinator.com/item?id=31284651"
+    ],
+    [
+      "How to profile your PHP applications with Xdebug",
+      "https://www.vincentbroute.fr/blog/how-to-profile-your-php-applications-with-xdebug/"
     ]
   ],
   [
