@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-07, 01:20:23",
+      "https://news.ycombinator.com/item?id=31291322"
+    ],
+    [
+      "It’s time we fix the unethical design of cookie consent windows",
+      "https://uxdesign.cc/unethical-design-of-cookie-consent-windows-857ef68f1bd6?gi=d060c7b22ab"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 01:01:03",
+      "https://news.ycombinator.com/item?id=31291215"
+    ],
+    [
+      "Roll a Lisp in C – Evaluation",
+      "https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 00:29:50",
       "https://news.ycombinator.com/item?id=31291065"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-05-06, 17:07:52",
-      "https://news.ycombinator.com/item?id=31287511"
-    ],
-    [
-      "Recognize Digits Using ML in Elixir",
-      "https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 17:01:39",
       "https://news.ycombinator.com/item?id=31287442"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2022-05-06, 08:10:10",
-      "https://news.ycombinator.com/item?id=31282642"
+      "2022-05-06, 09:12:53",
+      "https://news.ycombinator.com/item?id=31283037"
     ],
     [
-      "Where do space, time and gravity come from?",
-      "https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/"
+      "Prism – Probabilistic Symbolic Model Checker",
+      "http://www.prismmodelchecker.org/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-05, 10:41:59",
-      "https://news.ycombinator.com/item?id=31271681"
-    ],
-    [
-      "Byredo’s New Diffuser Works Like a Speaker, Only for Fragrances",
-      "https://robbreport.com/gear/gadgets/byredo-ojas-room-diffuser-speaker-design-1234659357/"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 10:01:15",
       "https://news.ycombinator.com/item?id=31271457"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-05-05, 05:31:55",
-      "https://news.ycombinator.com/item?id=31269881"
-    ],
-    [
-      "Sokrates – a lightweight (yet powerful) software documentation and analysis tool",
-      "https://www.sokrates.dev/"
-    ]
-  ],
-  [
-    [
       "2022-05-02, 21:50:21",
       "https://news.ycombinator.com/item?id=31241407"
     ],
@@ -297,6 +287,16 @@
     [
       "Integer vs. Linear Programming in Python",
       "https://mlabonne.github.io/blog/linearoptimization/"
+    ]
+  ],
+  [
+    [
+      "2022-05-02, 06:11:54",
+      "https://news.ycombinator.com/item?id=31231923"
+    ],
+    [
+      "Use Fast Data Algorithms",
+      "https://jolynch.github.io/posts/use_fast_data_algorithms/"
     ]
   ]
 ]
