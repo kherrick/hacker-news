@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-07, 07:46:19",
-      "https://news.ycombinator.com/item?id=31292857"
-    ],
-    [
-      "Top 5 Worst Programming Languages",
-      "https://catonmat.net/5-worst-programming-languages"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 07:21:01",
       "https://news.ycombinator.com/item?id=31292768"
     ],
@@ -247,6 +237,16 @@
     [
       "A Faster Lexer in Go",
       "https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 05:49:37",
+      "https://news.ycombinator.com/item?id=31269993"
+    ],
+    [
+      "Congestion Control Arrives in Tor 0.4.7-stable",
+      "https://blog.torproject.org/congestion-contrl-047/"
     ]
   ],
   [
