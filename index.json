@@ -1,12 +1,82 @@
 [
   [
     [
+      "2022-05-07, 12:01:16",
+      "https://news.ycombinator.com/item?id=31293853"
+    ],
+    [
+      "DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers",
+      "https://devcycle.com/company/careers"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 11:58:41",
+      "https://news.ycombinator.com/item?id=31293840"
+    ],
+    [
+      "AI software clears high hurdles on IQ tests but still makes dumb mistakes",
+      "https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 11:47:31",
+      "https://news.ycombinator.com/item?id=31293784"
+    ],
+    [
+      "Critique of Techno-Feudal Reason",
+      "https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 11:38:40",
+      "https://news.ycombinator.com/item?id=31293750"
+    ],
+    [
+      "TodoMVC App Written in Vanilla JavaScript",
+      "https://github.com/1Marc/todomvc-vanillajs-2022"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 11:38:02",
+      "https://news.ycombinator.com/item?id=31293747"
+    ],
+    [
+      "The Hyped and Distorted Claims of Psychedelic Marketing",
+      "https://www.psymposia.com/magazine/psychedelic-online-advertisements-marketing/"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 11:35:16",
       "https://news.ycombinator.com/item?id=31293727"
     ],
     [
       "Show HN: I Made a Virtual Bookshelf",
       "https://petargyurov.com/bookshelf/"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 11:32:52",
+      "https://news.ycombinator.com/item?id=31293716"
+    ],
+    [
+      "TatSu takes grammars in variation of EBNF, outputs memoizing Python PEG parsers",
+      "https://github.com/neogeny/TatSu"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 11:25:42",
+      "https://news.ycombinator.com/item?id=31293686"
+    ],
+    [
+      "Bytebeat Composer",
+      "https://dollchan.net/bytebeat/#v3b64q1ZKzk9JVbJSKtHSKFEzNDO2MLE3szLV1NIw0dUwVCuxs7PQ1LSz0zBW0wWyLTVrgKSZUi0A"
     ]
   ],
   [
@@ -81,52 +151,12 @@
   ],
   [
     [
-      "2022-05-07, 08:42:14",
-      "https://news.ycombinator.com/item?id=31293046"
-    ],
-    [
-      "Traces vs. Snapshots: Print Statements and Debuggers",
-      "https://www.scott-a-s.com/traces-vs-snapshots/"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 08:37:54",
       "https://news.ycombinator.com/item?id=31293032"
     ],
     [
       "Unix command line conventions over time",
       "https://blog.liw.fi/posts/2022/05/07/unix-cli/"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 07:21:01",
-      "https://news.ycombinator.com/item?id=31292768"
-    ],
-    [
-      "Ask HN: How to Monetize Open-Source Software?",
-      "https://news.ycombinator.com/item?id=31292768"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 07:00:54",
-      "https://news.ycombinator.com/item?id=31292706"
-    ],
-    [
-      "Stacker (YC S20) Is Hiring for Product Engineers",
-      "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 01:01:03",
-      "https://news.ycombinator.com/item?id=31291215"
-    ],
-    [
-      "Roll a Lisp in C – Evaluation",
-      "https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "The diminishing returns of productivity culture (2021)",
       "https://annehelen.substack.com/p/the-diminishing-returns-of-productivity"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 21:38:30",
-      "https://news.ycombinator.com/item?id=31289854"
-    ],
-    [
-      "An approximation to determine the source of the WOW! Signal",
-      "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-05-05, 06:31:15",
-      "https://news.ycombinator.com/item?id=31270242"
-    ],
-    [
-      "How to Do Hard Things",
-      "https://every.to/superorganizers/how-to-do-hard-things"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 05:46:41",
       "https://news.ycombinator.com/item?id=31269972"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-05-04, 22:48:49",
-      "https://news.ycombinator.com/item?id=31266874"
+      "2022-05-05, 00:38:34",
+      "https://news.ycombinator.com/item?id=31267874"
     ],
     [
-      "Discovering ancient cave art using 3D photogrammetry",
-      "https://www.cambridge.org/core/journals/antiquity/article/discovering-ancient-cave-art-using-3d-photogrammetry-precontact-native-american-mud-glyphs-from-19th-unnamed-cave-alabama/695DFD2980B69D520A56A320D6549E76"
+      "Weighing Up the Evidence",
+      "https://www.historytoday.com/archive/great-debates/weighing-evidence"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "My adventures in cheap and expensive ideas, and why this is changing",
       "https://craigburgess.substack.com/p/my-adventures-in-cheap-and-expensive"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 07:15:22",
-      "https://news.ycombinator.com/item?id=31232218"
-    ],
-    [
-      "Integer vs. Linear Programming in Python",
-      "https://mlabonne.github.io/blog/linearoptimization/"
     ]
   ],
   [
