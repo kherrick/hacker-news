@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=31281384"
     ],
     [
-      "Google Is 2B Lines of Code–and It's All in One Place (2015)",
+      "Google is 2B lines of code and it's all in one place (2015)",
       "https://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-05-05, 11:06:33",
-      "https://news.ycombinator.com/item?id=31271842"
-    ],
-    [
-      "Startup Trail",
-      "https://startuptrail.engine.is/"
-    ]
-  ],
-  [
-    [
       "2022-05-05, 06:13:16",
       "https://news.ycombinator.com/item?id=31270142"
     ],
@@ -257,6 +247,16 @@
     [
       "Congestion Control Arrives in Tor 0.4.7-stable",
       "https://blog.torproject.org/congestion-contrl-047/"
+    ]
+  ],
+  [
+    [
+      "2022-05-05, 05:46:41",
+      "https://news.ycombinator.com/item?id=31269972"
+    ],
+    [
+      "NixOS on Btrfs+tmpfs",
+      "https://cnx.srht.site/blog/butter/index.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31231923"
     ],
     [
-      "Use Fast Data Algorithms",
+      "Use fast data algorithms (2021)",
       "https://jolynch.github.io/posts/use_fast_data_algorithms/"
     ]
   ]
