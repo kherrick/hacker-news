@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-07, 13:00:43",
+      "https://news.ycombinator.com/item?id=31294153"
+    ],
+    [
+      "Shaving Is Too Expensive. Also the world is out to get you",
+      "https://www.johnwhiles.com/posts/shaving.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 12:01:16",
       "https://news.ycombinator.com/item?id=31293853"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2022-05-07, 01:01:03",
+      "https://news.ycombinator.com/item?id=31291215"
+    ],
+    [
+      "Roll a Lisp in C – Evaluation",
+      "https://swatson555.github.io/posts/2022-05-06-make-a-lisp-2.html"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 00:03:26",
       "https://news.ycombinator.com/item?id=31290862"
     ],
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2022-05-05, 23:14:20",
+      "https://news.ycombinator.com/item?id=31279390"
+    ],
+    [
+      "Understanding the Bards",
+      "https://drb.ie/articles/understanding-the-bards/"
+    ]
+  ],
+  [
+    [
       "2022-05-05, 07:18:05",
       "https://news.ycombinator.com/item?id=31270536"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-05-05, 00:38:34",
-      "https://news.ycombinator.com/item?id=31267874"
-    ],
-    [
-      "Weighing Up the Evidence",
-      "https://www.historytoday.com/archive/great-debates/weighing-evidence"
-    ]
-  ],
-  [
-    [
       "2022-05-04, 15:06:41",
       "https://news.ycombinator.com/item?id=31261533"
     ],
     [
       "Mechanical Watch",
       "https://ciechanow.ski/mechanical-watch/"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 08:06:19",
-      "https://news.ycombinator.com/item?id=31232487"
-    ],
-    [
-      "My adventures in cheap and expensive ideas, and why this is changing",
-      "https://craigburgess.substack.com/p/my-adventures-in-cheap-and-expensive"
-    ]
-  ],
-  [
-    [
-      "2022-05-02, 06:11:54",
-      "https://news.ycombinator.com/item?id=31231923"
-    ],
-    [
-      "Use fast data algorithms (2021)",
-      "https://jolynch.github.io/posts/use_fast_data_algorithms/"
     ]
   ]
 ]
