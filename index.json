@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-08, 18:57:25",
+      "https://news.ycombinator.com/item?id=31307006"
+    ],
+    [
+      "RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]",
+      "https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf"
+    ]
+  ],
+  [
+    [
       "2022-05-08, 18:09:53",
       "https://news.ycombinator.com/item?id=31306507"
     ],
@@ -237,16 +247,6 @@
     [
       "Donald Knuth was framed (2020)",
       "https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 14:46:03",
-      "https://news.ycombinator.com/item?id=31294907"
-    ],
-    [
-      "Solving Tetris in C (2011)",
-      "https://qntm.org/tetris"
     ]
   ],
   [
