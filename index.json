@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-08, 21:00:51",
+      "https://news.ycombinator.com/item?id=31308099"
+    ],
+    [
+      "Use fzf for tmux session switching",
+      "https://waylonwalker.com/tmux-fzf-session-jump/"
+    ]
+  ],
+  [
+    [
       "2022-05-08, 20:37:55",
       "https://news.ycombinator.com/item?id=31307925"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-08, 07:46:53",
-      "https://news.ycombinator.com/item?id=31302086"
-    ],
-    [
-      "(Yet Another) Lisp in Go",
-      "http://johnj.com/posts/l1/"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 09:27:24",
       "https://news.ycombinator.com/item?id=31293198"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-05-06, 16:34:56",
-      "https://news.ycombinator.com/item?id=31287135"
-    ],
-    [
-      "Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics",
-      "https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 14:31:53",
       "https://news.ycombinator.com/item?id=31285569"
     ],
     [
       "Behold GoldenEye 007 with four screens – dream come true or travesty?",
       "https://www.theverge.com/2022/5/5/23058787/goldeneye-007-nintendo-64-no-screen-cheating-museum-computing-history"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 13:30:59",
+      "https://news.ycombinator.com/item?id=31284853"
+    ],
+    [
+      "Umami: Own Your Website Analytics",
+      "https://umami.is/"
     ]
   ],
   [
