@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-08, 14:15:15",
+      "https://news.ycombinator.com/item?id=31304178"
+    ],
+    [
+      "Scapy: Low level packet hacking toolkit for Python",
+      "https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 13:38:17",
+      "https://news.ycombinator.com/item?id=31303850"
+    ],
+    [
+      "Edward Snowden in Hindsight",
+      "https://www.zdziarski.com/blog/?p=11127"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 13:31:26",
+      "https://news.ycombinator.com/item?id=31303799"
+    ],
+    [
+      "Show HN: Automedia – a tool for managing bitrot and formats in media libraries",
+      "https://github.com/mmastrac/automedia"
+    ]
+  ],
+  [
+    [
       "2022-05-08, 13:14:31",
       "https://news.ycombinator.com/item?id=31303704"
     ],
@@ -37,16 +67,6 @@
     [
       "Multiple assignment and tuple unpacking improve Python code readability",
       "https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 12:16:28",
-      "https://news.ycombinator.com/item?id=31303369"
-    ],
-    [
-      "While I’m on a tech rant – who invented this piece of pure sadism?",
-      "https://twitter.com/hackedoffhugh/status/1523250148725637125"
     ]
   ],
   [
@@ -175,18 +195,8 @@
       "https://news.ycombinator.com/item?id=31301777"
     ],
     [
-      "Donald Knuth Was Framed (2020)",
+      "Donald Knuth was framed (2020)",
       "https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 05:40:00",
-      "https://news.ycombinator.com/item?id=31301646"
-    ],
-    [
-      "Layoffs.fyi",
-      "https://layoffs.fyi/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-05-06, 13:13:44",
-      "https://news.ycombinator.com/item?id=31284710"
-    ],
-    [
-      "The science behind ultrasonic motion sensing for Echo",
-      "https://www.amazon.science/blog/the-science-behind-ultrasonic-motion-sensing-for-echo"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 12:53:28",
       "https://news.ycombinator.com/item?id=31284539"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31284522"
     ],
     [
-      "Dashy: The Homepage for Your Homelab",
+      "Dashy: Homepage for Your Homelab",
       "https://dashy.to/"
     ]
   ],
