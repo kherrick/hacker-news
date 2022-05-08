@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-08, 17:13:03",
+      "https://news.ycombinator.com/item?id=31305945"
+    ],
+    [
+      "Toddler-Killer Quietly Moved to New York Women’s Prison",
+      "https://reduxx.info/toddler-killer-quietly-moved-to-new-york-womens-prison/"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 17:01:41",
+      "https://news.ycombinator.com/item?id=31305826"
+    ],
+    [
+      "Courier (YC S19) is hiring software engineers to fix bad product notifications",
+      "https://jobs.lever.co/trycourier"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 16:58:33",
+      "https://news.ycombinator.com/item?id=31305798"
+    ],
+    [
+      "Equality is prevented by the misperception that it harms advantaged groups",
+      "https://www.science.org/doi/10.1126/sciadv.abm2385"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 16:44:26",
+      "https://news.ycombinator.com/item?id=31305672"
+    ],
+    [
+      "What happens if Twitter gets encrypted DMs?",
+      "https://getsession.org/blog"
+    ]
+  ],
+  [
+    [
       "2022-05-08, 16:21:13",
       "https://news.ycombinator.com/item?id=31305446"
     ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31304777"
     ],
     [
-      "PowerToys – 11 features Microsoft won’t add to Windows",
+      "PowerToys – open-source Windows utilities",
       "https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows"
     ]
   ],
@@ -115,28 +155,8 @@
       "https://news.ycombinator.com/item?id=31303463"
     ],
     [
-      "Multiple assignment and tuple unpacking improve Python code readability",
+      "Multiple assignment and tuple unpacking improve Python code readability (2018)",
       "https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 12:09:00",
-      "https://news.ycombinator.com/item?id=31303327"
-    ],
-    [
-      "Show HN: Prof Simon Wright [Captain Future] – In Your Raspberry Pi",
-      "https://dck-one.medium.com/professor-simon-wright-726a7003b226"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 12:00:04",
-      "https://news.ycombinator.com/item?id=31303271"
-    ],
-    [
-      "Kable (YC W22) Is Hiring Founding Engineers (Remote)",
-      "https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Pixabay has royalty free music you can use for free",
       "https://pixabay.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 10:39:18",
-      "https://news.ycombinator.com/item?id=31302869"
-    ],
-    [
-      "What is parallelism, anyhow? (2009)",
-      "https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-05-06, 18:02:10",
-      "https://news.ycombinator.com/item?id=31288101"
-    ],
-    [
-      "Pryrite: Interactively execute shell code blocks in a Markdown file",
-      "https://github.com/1xyz/pryrite"
-    ]
-  ],
-  [
-    [
       "2022-05-06, 17:31:45",
       "https://news.ycombinator.com/item?id=31287765"
     ],
@@ -261,11 +261,21 @@
   ],
   [
     [
+      "2022-05-06, 16:34:56",
+      "https://news.ycombinator.com/item?id=31287135"
+    ],
+    [
+      "Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics",
+      "https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 13:17:43",
       "https://news.ycombinator.com/item?id=31284747"
     ],
     [
-      "Why half a million people watch me study on TikTok",
+      "Half a million people watch me study on TikTok",
       "https://www.bbc.com/news/education-61305442"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Dashy: Homepage for Your Homelab",
       "https://dashy.to/"
-    ]
-  ],
-  [
-    [
-      "2022-05-06, 12:47:01",
-      "https://news.ycombinator.com/item?id=31284482"
-    ],
-    [
-      "Rowing Across the Atlantic Ocean; My Experience (2021)",
-      "https://onestep4ward.com/rowing-across-the-atlantic-ocean/"
     ]
   ]
 ]
