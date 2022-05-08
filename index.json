@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-05-07, 20:48:35",
-      "https://news.ycombinator.com/item?id=31298435"
-    ],
-    [
-      "Unauthorized gem takeover for some gems",
-      "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 20:33:43",
       "https://news.ycombinator.com/item?id=31298313"
     ],
@@ -147,6 +137,16 @@
     [
       "Triangle frenzy",
       "https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 19:48:46",
+      "https://news.ycombinator.com/item?id=31297917"
+    ],
+    [
+      "Show HN: Weron – A Peer-to-Peer VPN Based on WebRTC Written in Go",
+      "https://github.com/pojntfx/weron"
     ]
   ],
   [
