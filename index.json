@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-08, 00:03:21",
-      "https://news.ycombinator.com/item?id=31299841"
-    ],
-    [
-      "New Assembly Like Programming Language?",
-      "https://github.com/wellang/well"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 23:40:16",
       "https://news.ycombinator.com/item?id=31299716"
     ],
@@ -21,21 +11,11 @@
   ],
   [
     [
-      "2022-05-07, 23:38:23",
-      "https://news.ycombinator.com/item?id=31299707"
-    ],
-    [
-      "Sorry iPhone Fans, Android Users Are Safer Drivers",
-      "https://getjerry.com/studies/sorry-iphone-fans-android-users-are-safer-drivers"
-    ]
-  ],
-  [
-    [
       "2022-05-07, 23:28:44",
       "https://news.ycombinator.com/item?id=31299641"
     ],
     [
-      "California Targets Loud Exhaust with Sound Activated Cameras",
+      "California targets loud exhaust with sound activated cameras",
       "https://www.autoweek.com/news/technology/a39906304/california-targets-loud-exhaust-with-sound-activated-camera-enforcement/"
     ]
   ],
@@ -45,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31298899"
     ],
     [
-      "Robots Are Writing Poetry, and Many People Can’t Tell the Difference",
+      "Robots are writing poetry, and many people can’t tell the difference",
       "https://thewalrus.ca/ai-poetry/"
     ]
   ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31298313"
     ],
     [
-      "Apple's Director of Machine Learning Resigns Due to Return to Office Work",
+      "Apple's director of machine learning resigns due to return to office work",
       "https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/"
     ]
   ],
@@ -137,16 +117,6 @@
     [
       "Show HN: I made a browser-based RTS game",
       "https://www.battle-of-flags.com"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 16:32:51",
-      "https://news.ycombinator.com/item?id=31296084"
-    ],
-    [
-      "Amazon abruptly fires senior managers tied to unionized warehouse",
-      "https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html"
     ]
   ],
   [
@@ -241,11 +211,21 @@
   ],
   [
     [
+      "2022-05-06, 17:03:54",
+      "https://news.ycombinator.com/item?id=31287464"
+    ],
+    [
+      "When buying the dip doesn’t work: An analysis of the dot-com crash",
+      "https://endlessmetrics.substack.com/p/when-buying-the-dip-doesnt-work-an"
+    ]
+  ],
+  [
+    [
       "2022-05-06, 16:14:47",
       "https://news.ycombinator.com/item?id=31286890"
     ],
     [
-      "Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability",
+      "Flash Boys 2.0: Frontrunning, transaction reordering, and consensus instability",
       "https://arxiv.org/abs/1904.05234"
     ]
   ],
@@ -265,7 +245,7 @@
       "https://news.ycombinator.com/item?id=31285143"
     ],
     [
-      "How many Linux commands can 7 year old learn?",
+      "How many Linux commands can a 7 year old learn?",
       "https://thejavaguy.org/posts/008-my-kid-learned-bash-in-one-hour/"
     ]
   ],
@@ -287,6 +267,26 @@
     [
       "Learning modern Linux: A handbook for the cloud native practitioner",
       "https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 08:55:02",
+      "https://news.ycombinator.com/item?id=31282949"
+    ],
+    [
+      "AMD doubles the number of CPU cores it offers to Chromebooks",
+      "https://arstechnica.com/gadgets/2022/05/hp-acer-chromebooks-claim-multitasking-boost-with-new-core-heavy-amd-cpus/"
+    ]
+  ],
+  [
+    [
+      "2022-05-06, 06:27:14",
+      "https://news.ycombinator.com/item?id=31281937"
+    ],
+    [
+      "Exporting Data from Old Gear Through LCD Sniffing",
+      "https://hackaday.com/2022/05/05/exporting-data-from-old-gear-through-lcd-sniffing/"
     ]
   ],
   [
