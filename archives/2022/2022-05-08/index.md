@@ -19,6 +19,7 @@
 * [2022-05-08, 18:09:53](https://news.ycombinator.com/item?id=31306507) - [Ask HN: WFH – will I be outsourced?](https://news.ycombinator.com/item?id=31306507)
 * [2022-05-08, 17:53:22](https://news.ycombinator.com/item?id=31306340) - [Show HN: Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
 * [2022-05-08, 17:51:07](https://news.ycombinator.com/item?id=31306315) - [Feeling uncomfortable when leaving phone at home shouldn't be normal](https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/)
+* [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
 * [2022-05-08, 17:34:58](https://news.ycombinator.com/item?id=31306177) - [Vitamin D and Depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
 * [2022-05-08, 17:31:11](https://news.ycombinator.com/item?id=31306135) - [Tidbyt hardware display device: a review](https://macwright.com/2022/03/11/tidbyt-review.html)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
