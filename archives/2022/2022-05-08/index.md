@@ -52,6 +52,7 @@
 * [2022-05-08, 12:03:40](https://news.ycombinator.com/item?id=31303293) - [Hundreds of suicidal teens sleep in emergency rooms](https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html)
 * [2022-05-08, 12:00:04](https://news.ycombinator.com/item?id=31303271) - [Kable (YC W22) Is Hiring Founding Engineers (Remote)](https://www.ycombinator.com/companies/kable/jobs/7YUZkyG-founding-full-stack-software-engineer)
 * [2022-05-08, 11:57:58](https://news.ycombinator.com/item?id=31303257) - [The Internet Is Worth Exploring Again](https://www.tolusnotes.com/the-internet-is-worth-exploring-again/)
+* [2022-05-08, 11:55:55](https://news.ycombinator.com/item?id=31303237) - [Configuring My Machines with Bashtard](https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/)
 * [2022-05-08, 11:51:22](https://news.ycombinator.com/item?id=31303216) - [Pixabay has royalty free music you can use for free](https://pixabay.com/)
 * [2022-05-08, 10:44:27](https://news.ycombinator.com/item?id=31302898) - [The Beer Game (1992)](https://web.mit.edu/jsterman/www/SDG/beergame.html)
 * [2022-05-08, 10:39:18](https://news.ycombinator.com/item?id=31302869) - [What the $ Is Parallelism, Anyhow?](https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/)
