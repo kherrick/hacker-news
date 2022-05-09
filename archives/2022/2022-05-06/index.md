@@ -35,6 +35,7 @@
 * [2022-05-06, 16:45:08](https://news.ycombinator.com/item?id=31287254) - [Implementing a Merkle Tree for an Immutable Verifiable Log](https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/)
 * [2022-05-06, 16:35:45](https://news.ycombinator.com/item?id=31287142) - [Faecal transplants reverse hallmarks of ageing](https://www.uea.ac.uk/news/-/article/faecal-transplants-reverse-hallmarks-of-ageing)
 * [2022-05-06, 16:34:56](https://news.ycombinator.com/item?id=31287135) - [Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics](https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html)
+* [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
 * [2022-05-06, 16:14:47](https://news.ycombinator.com/item?id=31286890) - [Flash Boys 2: Frontrunning, transaction reordering, consensus instability (2019)](https://arxiv.org/abs/1904.05234)
 * [2022-05-06, 16:12:40](https://news.ycombinator.com/item?id=31286869) - [Admission Announcement](https://admission.princeton.edu/admission-announcement)
 * [2022-05-06, 16:01:04](https://news.ycombinator.com/item?id=31286729) - [Half Baked](https://seths.blog/2022/05/half-baked/?via=thomas.me)
