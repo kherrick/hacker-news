@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu: The End of Hot Metal Typesetting at the NY Times (1978)](https://archive.org/details/FarewellEtaoinShrdlu)
+* [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 08:31:22](https://news.ycombinator.com/item?id=31311826) - [I'm a fucking webmaster](https://justinjackson.ca/webmaster/)
 * [2022-05-09, 07:37:11](https://news.ycombinator.com/item?id=31311573) - [So You Wanna Be a Chef – By Bourdain (2010)](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
 * [2022-05-09, 07:01:39](https://news.ycombinator.com/item?id=31311400) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
