@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 22:29:21](https://news.ycombinator.com/item?id=31320703) - [Food Deserts in America](https://moveforhunger.org/harsh-reality-food-deserts-america)
 * [2022-05-09, 22:21:25](https://news.ycombinator.com/item?id=31320610) - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
 * [2022-05-09, 21:18:10](https://news.ycombinator.com/item?id=31319885) - [AV1 Video Codec](https://aomedia.org/av1/)
@@ -29,7 +30,6 @@
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 11:55:55](https://news.ycombinator.com/item?id=31303237) - [Configuring My Machines with Bashtard](https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/)
 * [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
-* [2022-05-07, 07:46:49](https://news.ycombinator.com/item?id=31292858) - [Introduction to Variable Fonts on the Web](https://web.dev/variable-fonts/)
 
 ## [Archives](archives/index.md)
 

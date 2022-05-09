@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 22:29:21](https://news.ycombinator.com/item?id=31320703) - [Food Deserts in America](https://moveforhunger.org/harsh-reality-food-deserts-america)
 * [2022-05-09, 22:21:25](https://news.ycombinator.com/item?id=31320610) - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
 * [2022-05-09, 21:18:10](https://news.ycombinator.com/item?id=31319885) - [AV1 Video Codec](https://aomedia.org/av1/)
