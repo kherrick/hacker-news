@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
-* [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 08:31:22](https://news.ycombinator.com/item?id=31311826) - [I'm a fucking webmaster](https://justinjackson.ca/webmaster/)
