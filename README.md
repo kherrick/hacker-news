@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
-* [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
+* [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (2009)](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
 * [2022-05-09, 18:33:29](https://news.ycombinator.com/item?id=31317989) - [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
 * [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond message passing: A physics-inspired paradigm for graph neural networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
