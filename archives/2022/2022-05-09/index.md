@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
 * [2022-05-09, 17:00:15](https://news.ycombinator.com/item?id=31316643) - [Relationship Hero (YC S17) Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
 * [2022-05-09, 16:57:21](https://news.ycombinator.com/item?id=31316602) - [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
 * [2022-05-09, 16:47:22](https://news.ycombinator.com/item?id=31316473) - [Ask HN: APC adding monthly fees / remotely defeaturing existing UPS's?](https://news.ycombinator.com/item?id=31316473)
@@ -14,6 +15,7 @@
 * [2022-05-09, 16:22:47](https://news.ycombinator.com/item?id=31316107) - [The Turkish drone that changed the nature of warfare](https://www.newyorker.com/magazine/2022/05/16/the-turkish-drone-that-changed-the-nature-of-warfare)
 * [2022-05-09, 16:13:37](https://news.ycombinator.com/item?id=31315971) - [Virtual offices are not remote-friendly workplaces](https://mycodingtales.com/stop-pretending-your-company-is-remote/)
 * [2022-05-09, 15:59:29](https://news.ycombinator.com/item?id=31315803) - [Illinois college, hit by ransomware attack, to shut down](https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905)
+* [2022-05-09, 15:52:53](https://news.ycombinator.com/item?id=31315717) - [Syncing files between browser and disk using Yjs and the File System Access API](https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api)
 * [2022-05-09, 15:38:18](https://news.ycombinator.com/item?id=31315516) - [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
 * [2022-05-09, 15:28:17](https://news.ycombinator.com/item?id=31315389) - [Scripting COM components in Haskell (1998) [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
 * [2022-05-09, 15:18:30](https://news.ycombinator.com/item?id=31315237) - [Knitters got knotted in a purity spiral (2020)](https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/)
@@ -31,6 +33,7 @@
 * [2022-05-09, 14:00:24](https://news.ycombinator.com/item?id=31314077) - [Longer elected terms would lead to better government](https://demodexio.substack.com/p/longer-elected-terms-lead-to-better)
 * [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
 * [2022-05-09, 13:56:08](https://news.ycombinator.com/item?id=31314026) - [We Raised $100M for Open and Collaborative Machine Learning](https://huggingface.co/blog/series-c)
+* [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 13:54:00](https://news.ycombinator.com/item?id=31314002) - [eBay Robbed This Man of $4700 and Suspended His Account When He Asked Questions](https://reddit.com/r/iamatotalpieceofshit/comments/uleq7s/ebay_robbed_this_man_of_4700_dollars_and/)
 * [2022-05-09, 13:54:00](https://news.ycombinator.com/item?id=31314002) - [eBay Robbed This Man of $4700 and Suspended His Account When He Asked Questions](https://old.reddit.com/r/iamatotalpieceofshit/comments/uleq7s/ebay_robbed_this_man_of_4700_dollars_and/)
 * [2022-05-09, 13:43:27](https://news.ycombinator.com/item?id=31313894) - [Ten Reasons MVC frameworks aren't dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)

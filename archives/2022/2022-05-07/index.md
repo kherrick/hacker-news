@@ -24,6 +24,7 @@
 * [2022-05-07, 16:32:51](https://news.ycombinator.com/item?id=31296084) - [Amazon Abruptly Fires Senior Managers Tied to Unionized Warehouse](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
 * [2022-05-07, 16:26:27](https://news.ycombinator.com/item?id=31296019) - [15M people have died in the pandemic, WHO says](https://www.nature.com/articles/d41586-022-01245-6)
 * [2022-05-07, 15:46:49](https://news.ycombinator.com/item?id=31295496) - [Ask HN: How to Make Passive Income?](https://news.ycombinator.com/item?id=31295496)
+* [2022-05-07, 15:42:22](https://news.ycombinator.com/item?id=31295452) - [Tony Fadell: The Nest Thermostat Disrupted My Life](https://spectrum.ieee.org/nest-thermostat)
 * [2022-05-07, 15:17:22](https://news.ycombinator.com/item?id=31295211) - [Japan's population falls by record 644,000 to 125.5M in 2021](https://english.kyodonews.net/news/2022/04/2682851af82b-breaking-news-tokyos-population-shrinks-for-1st-time-in-26-yrs-govt-data.html)
 * [2022-05-07, 15:11:07](https://news.ycombinator.com/item?id=31295154) - [Is there a good “blog search” out there?](https://news.ycombinator.com/item?id=31295154)
 * [2022-05-07, 15:04:50](https://news.ycombinator.com/item?id=31295086) - [Final year medical students 'can't afford to pay rent'](https://www.bbc.co.uk/news/uk-england-61302377)
