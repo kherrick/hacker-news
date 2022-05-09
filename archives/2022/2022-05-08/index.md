@@ -27,6 +27,7 @@
 * [2022-05-08, 17:01:41](https://news.ycombinator.com/item?id=31305826) - [Courier (YC S19) is hiring software engineers to fix bad product notifications](https://jobs.lever.co/trycourier)
 * [2022-05-08, 16:58:33](https://news.ycombinator.com/item?id=31305798) - [Equality is prevented by the misperception that it harms advantaged groups](https://www.science.org/doi/10.1126/sciadv.abm2385)
 * [2022-05-08, 16:44:26](https://news.ycombinator.com/item?id=31305672) - [What happens if Twitter gets encrypted DMs?](https://getsession.org/blog)
+* [2022-05-08, 16:44:04](https://news.ycombinator.com/item?id=31305663) - [The shame industrial complex is booming](https://www.nytimes.com/2022/03/26/books/review/cathy-oneil-the-shame-machine.html)
 * [2022-05-08, 16:21:13](https://news.ycombinator.com/item?id=31305446) - [Ask HN: Are there any good poverty simulator games?](https://news.ycombinator.com/item?id=31305446)
 * [2022-05-08, 16:11:02](https://news.ycombinator.com/item?id=31305341) - [Tell HN: I was permanently banned from eBay in one hour](https://news.ycombinator.com/item?id=31305341)
 * [2022-05-08, 15:25:03](https://news.ycombinator.com/item?id=31304897) - [Show HN: CaskDB – project to teach you building a key value store](https://github.com/avinassh/py-caskdb)
