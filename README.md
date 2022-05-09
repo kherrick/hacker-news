@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu: The End of Hot Metal Typesetting at the NY Times (1978)](https://archive.org/details/FarewellEtaoinShrdlu)
+* [2022-05-09, 08:31:22](https://news.ycombinator.com/item?id=31311826) - [I'm a Fucking Webmaster](https://justinjackson.ca/webmaster/)
 * [2022-05-09, 07:01:39](https://news.ycombinator.com/item?id=31311400) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-05-09, 06:27:10](https://news.ycombinator.com/item?id=31311218) - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
 * [2022-05-09, 04:17:27](https://news.ycombinator.com/item?id=31310564) - [Short URLs: Why and How](https://sive.rs/su)
@@ -17,7 +18,6 @@
 * [2022-05-08, 20:37:55](https://news.ycombinator.com/item?id=31307925) - [Compiling an OpenBSD kernel 50% faster](https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster)
 * [2022-05-08, 20:27:16](https://news.ycombinator.com/item?id=31307846) - [Kiss Linux (2020)](https://web.archive.org/web/20200528200318/https://k1ss.org/)
 * [2022-05-08, 18:57:25](https://news.ycombinator.com/item?id=31307006) - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
-* [2022-05-08, 17:53:22](https://news.ycombinator.com/item?id=31306340) - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
 * [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
 * [2022-05-08, 17:31:11](https://news.ycombinator.com/item?id=31306135) - [Tidbyt hardware display device: a review](https://macwright.com/2022/03/11/tidbyt-review.html)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
