@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
 * [2022-05-09, 18:33:29](https://news.ycombinator.com/item?id=31317989) - [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
 * [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond Message Passing: A Physics-Inspired Paradigm for Graph Neural Networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
@@ -34,6 +35,7 @@
 * [2022-05-09, 14:14:59](https://news.ycombinator.com/item?id=31314253) - [The New Cncf.io](https://www.cncf.io/blog/2022/05/09/introducing-the-new-cncf-io/)
 * [2022-05-09, 14:05:15](https://news.ycombinator.com/item?id=31314130) - [An Apple-FedEx debacle had a local man caught in the middle](https://www.bostonglobe.com/2022/05/09/business/an-apple-fedex-debacle-had-local-man-caught-middle-batted-back-forth/)
 * [2022-05-09, 14:03:45](https://news.ycombinator.com/item?id=31314120) - [Dark Pattern: How YouTube Makes Sure You Don’t Always “Skip Ad”](https://blog.prototypr.io/dark-pattern-how-youtube-makes-sure-you-dont-always-skip-ad-e6ab2117e3b5?gi=b69a2bb0a65b)
+* [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
 * [2022-05-09, 14:00:24](https://news.ycombinator.com/item?id=31314077) - [Longer elected terms would lead to better government](https://demodexio.substack.com/p/longer-elected-terms-lead-to-better)
 * [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
 * [2022-05-09, 13:56:08](https://news.ycombinator.com/item?id=31314026) - [We Raised $100M for Open and Collaborative Machine Learning](https://huggingface.co/blog/series-c)
