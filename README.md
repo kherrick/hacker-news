@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond Message Passing: A Physics-Inspired Paradigm for Graph Neural Networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
 * [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
 * [2022-05-09, 17:00:15](https://news.ycombinator.com/item?id=31316643) - [Relationship Hero (YC S17) Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
@@ -27,7 +28,6 @@
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 10:44:27](https://news.ycombinator.com/item?id=31302898) - [The Beer Game (1992)](https://web.mit.edu/jsterman/www/SDG/beergame.html)
 * [2022-05-08, 06:01:17](https://news.ycombinator.com/item?id=31301723) - [This Interview is a Mistake: A Conversation with R.U. Sirius](https://spikeartmagazine.com/?q=articles/interview-mistake)
-* [2022-05-08, 04:50:52](https://news.ycombinator.com/item?id=31301405) - [Luhn algorithm using SWAR and SIMD](https://nullprogram.com/blog/2022/04/30/)
 * [2022-05-07, 15:42:22](https://news.ycombinator.com/item?id=31295452) - [Tony Fadell: The Nest Thermostat Disrupted My Life](https://spectrum.ieee.org/nest-thermostat)
 * [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
 
