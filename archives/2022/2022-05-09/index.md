@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 14:24:28](https://news.ycombinator.com/item?id=31314379) - [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
+* [2022-05-09, 14:05:15](https://news.ycombinator.com/item?id=31314130) - [An Apple-FedEx debacle had a local man caught in the middle](https://www.bostonglobe.com/2022/05/09/business/an-apple-fedex-debacle-had-local-man-caught-middle-batted-back-forth/)
+* [2022-05-09, 14:03:45](https://news.ycombinator.com/item?id=31314120) - [Dark Pattern: How YouTube Makes Sure You Don’t Always “Skip Ad”](https://blog.prototypr.io/dark-pattern-how-youtube-makes-sure-you-dont-always-skip-ad-e6ab2117e3b5?gi=b69a2bb0a65b)
+* [2022-05-09, 14:00:24](https://news.ycombinator.com/item?id=31314077) - [Longer elected terms would lead to better government](https://demodexio.substack.com/p/longer-elected-terms-lead-to-better)
 * [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
+* [2022-05-09, 13:43:27](https://news.ycombinator.com/item?id=31313894) - [Ten Reasons MVC frameworks aren't dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
 * [2022-05-09, 13:32:52](https://news.ycombinator.com/item?id=31313789) - [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
 * [2022-05-09, 13:32:20](https://news.ycombinator.com/item?id=31313779) - [Ask HN: Is Heroku Being Sunset?](https://news.ycombinator.com/item?id=31313779)
 * [2022-05-09, 13:17:49](https://news.ycombinator.com/item?id=31313644) - [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
