@@ -38,6 +38,7 @@
 * [2022-05-06, 16:14:47](https://news.ycombinator.com/item?id=31286890) - [Flash Boys 2: Frontrunning, transaction reordering, consensus instability (2019)](https://arxiv.org/abs/1904.05234)
 * [2022-05-06, 16:12:40](https://news.ycombinator.com/item?id=31286869) - [Admission Announcement](https://admission.princeton.edu/admission-announcement)
 * [2022-05-06, 16:01:04](https://news.ycombinator.com/item?id=31286729) - [Half Baked](https://seths.blog/2022/05/half-baked/?via=thomas.me)
+* [2022-05-06, 15:59:41](https://news.ycombinator.com/item?id=31286707) - [Cohort Succession Explains Most Change in Literary Culture](https://sociologicalscience.com/articles-v9-8-184/)
 * [2022-05-06, 15:26:24](https://news.ycombinator.com/item?id=31286279) - [Deploying Kubernetes clusters in increasingly absurd languages](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages)
 * [2022-05-06, 15:13:41](https://news.ycombinator.com/item?id=31286126) - [Show HN: Videobug – The time travel debugger for JVM](https://news.ycombinator.com/item?id=31286126)
 * [2022-05-06, 15:11:25](https://news.ycombinator.com/item?id=31286103) - [My vision for Open Source pro support](https://xcp-ng.org/blog/2022/05/06/my-vision-for-open-source-pro-support/)
