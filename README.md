@@ -3,8 +3,8 @@
 * [2022-05-09, 22:21:25](https://news.ycombinator.com/item?id=31320610) - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
 * [2022-05-09, 21:18:10](https://news.ycombinator.com/item?id=31319885) - [AV1 Video Codec](https://aomedia.org/av1/)
+* [2022-05-09, 21:07:53](https://news.ycombinator.com/item?id=31319768) - [Webb Telescope Image Sharpness Check](https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus)
 * [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport Is Still Hiring](https://flexport.com/careers)
-* [2022-05-09, 20:43:22](https://news.ycombinator.com/item?id=31319450) - [2022 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2022)
 * [2022-05-09, 20:18:15](https://news.ycombinator.com/item?id=31319179) - [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
@@ -25,11 +25,11 @@
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 13:43:27](https://news.ycombinator.com/item?id=31313894) - [MVC frameworks aren't dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [The Making Of Grand Theft Auto (1996) [video]](https://www.youtube.com/watch?v=7vWSi44ZTSw)
+* [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 11:55:55](https://news.ycombinator.com/item?id=31303237) - [Configuring My Machines with Bashtard](https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/)
 * [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
 * [2022-05-07, 07:46:49](https://news.ycombinator.com/item?id=31292858) - [Introduction to Variable Fonts on the Web](https://web.dev/variable-fonts/)
-* [2022-05-07, 06:07:14](https://news.ycombinator.com/item?id=31292504) - [History of the Salvator Mundi](https://salvatormundirevisited.com/History-of-the-Salvator-Mundi)
 
 ## [Archives](archives/index.md)
 
