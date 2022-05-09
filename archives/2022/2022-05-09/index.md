@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 17:00:15](https://news.ycombinator.com/item?id=31316643) - [Relationship Hero (YC S17) Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
+* [2022-05-09, 16:47:22](https://news.ycombinator.com/item?id=31316473) - [Ask HN: APC adding monthly fees / remotely defeaturing existing UPS's?](https://news.ycombinator.com/item?id=31316473)
 * [2022-05-09, 16:46:51](https://news.ycombinator.com/item?id=31316464) - [U.S. takes unprecedented steps to replenish Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
+* [2022-05-09, 16:40:03](https://news.ycombinator.com/item?id=31316379) - [The impotence of the long-distance trillionaire](http://www.antipope.org/charlie/blog-static/2022/05/the-impotence-of-the-long-dist.html)
+* [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
 * [2022-05-09, 16:13:37](https://news.ycombinator.com/item?id=31315971) - [Virtual offices are not remote-friendly workplaces](https://mycodingtales.com/stop-pretending-your-company-is-remote/)
+* [2022-05-09, 15:59:29](https://news.ycombinator.com/item?id=31315803) - [Illinois college, hit by ransomware attack, to shut down](https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905)
 * [2022-05-09, 15:38:18](https://news.ycombinator.com/item?id=31315516) - [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
 * [2022-05-09, 15:28:17](https://news.ycombinator.com/item?id=31315389) - [Scripting COM components in Haskell (1998) [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
 * [2022-05-09, 15:18:30](https://news.ycombinator.com/item?id=31315237) - [Knitters got knotted in a purity spiral (2020)](https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/)
