@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu: The End of Hot Metal Typesetting at the NY Times (1978)](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 07:01:39](https://news.ycombinator.com/item?id=31311400) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-05-09, 06:27:10](https://news.ycombinator.com/item?id=31311218) - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
 * [2022-05-09, 04:17:27](https://news.ycombinator.com/item?id=31310564) - [Short URLs: Why and How](https://sive.rs/su)
@@ -18,7 +19,6 @@
 * [2022-05-08, 18:57:25](https://news.ycombinator.com/item?id=31307006) - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
 * [2022-05-08, 17:53:22](https://news.ycombinator.com/item?id=31306340) - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
 * [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
-* [2022-05-08, 17:34:58](https://news.ycombinator.com/item?id=31306177) - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
 * [2022-05-08, 17:31:11](https://news.ycombinator.com/item?id=31306135) - [Tidbyt hardware display device: a review](https://macwright.com/2022/03/11/tidbyt-review.html)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 * [2022-05-08, 15:12:31](https://news.ycombinator.com/item?id=31304777) - [PowerToys – open-source Windows utilities](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
