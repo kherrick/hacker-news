@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
+* [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 08:31:22](https://news.ycombinator.com/item?id=31311826) - [I'm a fucking webmaster](https://justinjackson.ca/webmaster/)
@@ -23,7 +24,6 @@
 * [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 * [2022-05-08, 15:12:31](https://news.ycombinator.com/item?id=31304777) - [PowerToys – open-source Windows utilities](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
-* [2022-05-08, 13:10:45](https://news.ycombinator.com/item?id=31303687) - [The New Old Book Collectors](https://www.nytimes.com/2022/05/07/style/rare-used-book-collectors.html)
 * [2022-05-08, 04:50:34](https://news.ycombinator.com/item?id=31301401) - [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [video]](https://www.youtube.com/watch?v=0me3guauqOU)
 * [2022-05-07, 13:48:22](https://news.ycombinator.com/item?id=31294407) - [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide/)
 * [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
