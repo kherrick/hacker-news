@@ -64,6 +64,7 @@
 * [2022-05-08, 08:32:24](https://news.ycombinator.com/item?id=31302280) - [Why You Should Think Twice About Wanting to Work on Weekends](https://www.wsj.com/articles/why-want-work-weekend-11651256000)
 * [2022-05-08, 08:06:38](https://news.ycombinator.com/item?id=31302174) - [Jeffrey Snower was originally demoted over PowerShell](https://twitter.com/jsnover/status/1523010444570419200)
 * [2022-05-08, 07:46:53](https://news.ycombinator.com/item?id=31302086) - [(Yet Another) Lisp in Go](http://johnj.com/posts/l1/)
+* [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
 * [2022-05-08, 06:16:43](https://news.ycombinator.com/item?id=31301777) - [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
 * [2022-05-08, 06:01:17](https://news.ycombinator.com/item?id=31301723) - [A Conversation with R.U.Sirius](https://spikeartmagazine.com/?q=articles/interview-mistake)
 * [2022-05-08, 05:40:00](https://news.ycombinator.com/item?id=31301646) - [Layoffs.fyi](https://layoffs.fyi/)

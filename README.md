@@ -27,7 +27,7 @@
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 10:44:27](https://news.ycombinator.com/item?id=31302898) - [The Beer Game (1992)](https://web.mit.edu/jsterman/www/SDG/beergame.html)
-* [2022-05-08, 06:01:17](https://news.ycombinator.com/item?id=31301723) - [This Interview is a Mistake: A Conversation with R.U. Sirius](https://spikeartmagazine.com/?q=articles/interview-mistake)
+* [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
 * [2022-05-07, 06:07:14](https://news.ycombinator.com/item?id=31292504) - [History of the Salvator Mundi](https://salvatormundirevisited.com/History-of-the-Salvator-Mundi)
 * [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
 
