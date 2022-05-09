@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
 * [2022-05-09, 18:33:29](https://news.ycombinator.com/item?id=31317989) - [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
