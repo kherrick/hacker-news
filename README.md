@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
+* [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 08:31:22](https://news.ycombinator.com/item?id=31311826) - [I'm a fucking webmaster](https://justinjackson.ca/webmaster/)
 * [2022-05-09, 07:37:11](https://news.ycombinator.com/item?id=31311573) - [So You Wanna Be a Chef – By Bourdain (2010)](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
@@ -18,7 +20,6 @@
 * [2022-05-08, 20:37:55](https://news.ycombinator.com/item?id=31307925) - [Compiling an OpenBSD kernel 50% faster](https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster)
 * [2022-05-08, 20:27:16](https://news.ycombinator.com/item?id=31307846) - [Kiss Linux (2020)](https://web.archive.org/web/20200528200318/https://k1ss.org/)
 * [2022-05-08, 18:57:25](https://news.ycombinator.com/item?id=31307006) - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
-* [2022-05-08, 17:53:22](https://news.ycombinator.com/item?id=31306340) - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
 * [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 * [2022-05-08, 15:12:31](https://news.ycombinator.com/item?id=31304777) - [PowerToys – open-source Windows utilities](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
@@ -27,7 +28,6 @@
 * [2022-05-07, 13:48:22](https://news.ycombinator.com/item?id=31294407) - [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide/)
 * [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
 * [2022-05-06, 15:59:41](https://news.ycombinator.com/item?id=31286707) - [Cohort Succession Explains Most Change in Literary Culture](https://sociologicalscience.com/articles-v9-8-184/)
-* [2022-05-06, 14:31:53](https://news.ycombinator.com/item?id=31285569) - [Behold GoldenEye 007 with four screens – dream come true or travesty?](https://www.theverge.com/2022/5/5/23058787/goldeneye-007-nintendo-64-no-screen-cheating-museum-computing-history)
 * [2022-05-06, 12:49:50](https://news.ycombinator.com/item?id=31284512) - [PikaPods – Instant Open Source App Hosting](https://www.pikapods.com/)
 * [2022-05-06, 06:44:12](https://news.ycombinator.com/item?id=31282035) - [Japanese Words in Neuromancer](https://jrogel.com/neuromancer-japanese-words/)
 

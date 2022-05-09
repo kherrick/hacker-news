@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
+* [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu: The End of Hot Metal Typesetting at the NY Times (1978)](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 08:31:22](https://news.ycombinator.com/item?id=31311826) - [I'm a Fucking Webmaster](https://justinjackson.ca/webmaster/)
 * [2022-05-09, 07:37:11](https://news.ycombinator.com/item?id=31311573) - [So You Wanna Be a Chef – By Bourdain (2010)](https://web.archive.org/web/20210225165109/https://ruhlman.com/so-you-wanna-be-a-chef-by-bourdain-2/)
