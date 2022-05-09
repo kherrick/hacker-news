@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 13:32:52](https://news.ycombinator.com/item?id=31313789) - [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
+* [2022-05-09, 13:32:20](https://news.ycombinator.com/item?id=31313779) - [Ask HN: Is Heroku Being Sunset?](https://news.ycombinator.com/item?id=31313779)
 * [2022-05-09, 13:17:49](https://news.ycombinator.com/item?id=31313644) - [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
 * [2022-05-09, 13:11:23](https://news.ycombinator.com/item?id=31313584) - [Addiction and Balance](https://jesperbylund.com/2022/05/09/addiction-and-balance/)
 * [2022-05-09, 13:08:50](https://news.ycombinator.com/item?id=31313560) - [The Pop Song That’s Uniting India and Pakistan](https://www.newyorker.com/culture/culture-desk/the-pop-song-thats-uniting-india-and-pakistan)

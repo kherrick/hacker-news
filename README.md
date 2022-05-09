@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 13:32:52](https://news.ycombinator.com/item?id=31313789) - [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
+* [2022-05-09, 13:32:20](https://news.ycombinator.com/item?id=31313779) - [Ask HN: Is Heroku Being Sunset?](https://news.ycombinator.com/item?id=31313779)
 * [2022-05-09, 13:17:49](https://news.ycombinator.com/item?id=31313644) - [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
-* [2022-05-09, 13:11:23](https://news.ycombinator.com/item?id=31313584) - [Addiction and Balance](https://jesperbylund.com/2022/05/09/addiction-and-balance/)
 * [2022-05-09, 13:08:50](https://news.ycombinator.com/item?id=31313560) - [The Pop Song That’s Uniting India and Pakistan](https://www.newyorker.com/culture/culture-desk/the-pop-song-thats-uniting-india-and-pakistan)
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [Grand Theft Auto 1996 Making Of – GTA – – Retro Gaming – BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
 * [2022-05-09, 12:33:27](https://news.ycombinator.com/item?id=31313306) - [Babylonian astronomers calculated Jupiter position from area under time-velocity](https://www.science.org/doi/10.1126/science.aad8085)
@@ -20,7 +21,6 @@
 * [2022-05-09, 02:03:06](https://news.ycombinator.com/item?id=31309729) - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
 * [2022-05-09, 01:36:08](https://news.ycombinator.com/item?id=31309616) - [Making a falling sand simulator](https://jason.today/falling-sand)
 * [2022-05-09, 01:31:54](https://news.ycombinator.com/item?id=31309595) - [I saw a cool truck today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
-* [2022-05-08, 22:39:00](https://news.ycombinator.com/item?id=31308721) - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 * [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 * [2022-05-08, 15:12:31](https://news.ycombinator.com/item?id=31304777) - [PowerToys – open-source Windows utilities](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
