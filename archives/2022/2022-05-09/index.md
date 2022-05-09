@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 14:40:29](https://news.ycombinator.com/item?id=31314602) - [Twitter Circle](https://twitter.com/TwitterSafety/status/1521540727557218309)
+* [2022-05-09, 14:25:27](https://news.ycombinator.com/item?id=31314392) - [A Note About Today’s Wordle Game](https://www.nytimes.com/2022/05/09/crosswords/a-note-about-todays-wordle-game.html)
 * [2022-05-09, 14:25:19](https://news.ycombinator.com/item?id=31314389) - [“It Is Getting Worse. People Are Leaving”](https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/)
 * [2022-05-09, 14:24:28](https://news.ycombinator.com/item?id=31314379) - [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
 * [2022-05-09, 14:16:57](https://news.ycombinator.com/item?id=31314274) - [Is Erlang an albatross to Elixir adoption?](https://news.ycombinator.com/item?id=31314274)
+* [2022-05-09, 14:14:59](https://news.ycombinator.com/item?id=31314253) - [The New Cncf.io](https://www.cncf.io/blog/2022/05/09/introducing-the-new-cncf-io/)
 * [2022-05-09, 14:05:15](https://news.ycombinator.com/item?id=31314130) - [An Apple-FedEx debacle had a local man caught in the middle](https://www.bostonglobe.com/2022/05/09/business/an-apple-fedex-debacle-had-local-man-caught-middle-batted-back-forth/)
 * [2022-05-09, 14:03:45](https://news.ycombinator.com/item?id=31314120) - [Dark Pattern: How YouTube Makes Sure You Don’t Always “Skip Ad”](https://blog.prototypr.io/dark-pattern-how-youtube-makes-sure-you-dont-always-skip-ad-e6ab2117e3b5?gi=b69a2bb0a65b)
 * [2022-05-09, 14:00:24](https://news.ycombinator.com/item?id=31314077) - [Longer elected terms would lead to better government](https://demodexio.substack.com/p/longer-elected-terms-lead-to-better)
 * [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
+* [2022-05-09, 13:56:08](https://news.ycombinator.com/item?id=31314026) - [We Raised $100M for Open and Collaborative Machine Learning](https://huggingface.co/blog/series-c)
+* [2022-05-09, 13:54:00](https://news.ycombinator.com/item?id=31314002) - [eBay Robbed This Man of $4700 and Suspended His Account When He Asked Questions](https://reddit.com/r/iamatotalpieceofshit/comments/uleq7s/ebay_robbed_this_man_of_4700_dollars_and/)
 * [2022-05-09, 13:54:00](https://news.ycombinator.com/item?id=31314002) - [eBay Robbed This Man of $4700 and Suspended His Account When He Asked Questions](https://old.reddit.com/r/iamatotalpieceofshit/comments/uleq7s/ebay_robbed_this_man_of_4700_dollars_and/)
 * [2022-05-09, 13:43:27](https://news.ycombinator.com/item?id=31313894) - [Ten Reasons MVC frameworks aren't dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
 * [2022-05-09, 13:32:52](https://news.ycombinator.com/item?id=31313789) - [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
