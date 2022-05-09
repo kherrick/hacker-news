@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 07:01:39](https://news.ycombinator.com/item?id=31311400) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2022-05-09, 06:27:10](https://news.ycombinator.com/item?id=31311218) - [Parsing / Recursive Descent Parser](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser)
 * [2022-05-09, 05:40:50](https://news.ycombinator.com/item?id=31310985) - [How to Build a Modern House in Minecraft (Minecraft House Tutorial)](https://video.link/w/Qrkrd)
 * [2022-05-09, 04:17:27](https://news.ycombinator.com/item?id=31310564) - [Short URLs: Why and How](https://sive.rs/su)
 * [2022-05-09, 04:16:56](https://news.ycombinator.com/item?id=31310561) - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
