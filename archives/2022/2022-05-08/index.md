@@ -64,6 +64,7 @@
 * [2022-05-08, 06:16:43](https://news.ycombinator.com/item?id=31301777) - [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
 * [2022-05-08, 05:40:00](https://news.ycombinator.com/item?id=31301646) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2022-05-08, 05:00:15](https://news.ycombinator.com/item?id=31301454) - [Boquila trifoliolata mimics leaves of an artificial plastic host plant](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.1977530)
+* [2022-05-08, 04:50:34](https://news.ycombinator.com/item?id=31301401) - [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [video]](https://www.youtube.com/watch?v=0me3guauqOU)
 * [2022-05-08, 04:19:21](https://news.ycombinator.com/item?id=31301257) - [Political Deletionism at Wikipedia](https://kirkegaard.substack.com/p/political-deletionism-at-wikipedia)
 * [2022-05-08, 04:02:57](https://news.ycombinator.com/item?id=31301176) - [Russia's economy is back on its feet](https://www.economist.com/finance-and-economics/2022/05/07/russias-economy-is-back-on-its-feet)
 * [2022-05-08, 03:19:50](https://news.ycombinator.com/item?id=31300954) - [Star Citizen is doing 'bedsheet deformation' physics now](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is/)
