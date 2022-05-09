@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
 * [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport Is Still Hiring](https://flexport.com/careers)
+* [2022-05-09, 20:43:22](https://news.ycombinator.com/item?id=31319450) - [2022 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2022)
 * [2022-05-09, 20:18:15](https://news.ycombinator.com/item?id=31319179) - [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
@@ -14,7 +16,6 @@
 * [2022-05-09, 16:46:51](https://news.ycombinator.com/item?id=31316464) - [U.S. takes unprecedented steps to replenish Colorado River's Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
 * [2022-05-09, 15:59:29](https://news.ycombinator.com/item?id=31315803) - [Illinois college, hit by ransomware attack, to shut down](https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905)
-* [2022-05-09, 15:52:53](https://news.ycombinator.com/item?id=31315717) - [Syncing files between browser and disk using Yjs and the File System Access API](https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api)
 * [2022-05-09, 15:38:18](https://news.ycombinator.com/item?id=31315516) - [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
 * [2022-05-09, 15:18:30](https://news.ycombinator.com/item?id=31315237) - [Knitters got knotted in a purity spiral (2020)](https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/)
 * [2022-05-09, 15:11:44](https://news.ycombinator.com/item?id=31315110) - [Preview, the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
@@ -29,7 +30,6 @@
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
 * [2022-05-07, 06:07:14](https://news.ycombinator.com/item?id=31292504) - [History of the Salvator Mundi](https://salvatormundirevisited.com/History-of-the-Salvator-Mundi)
-* [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
 
 ## [Archives](archives/index.md)
 
