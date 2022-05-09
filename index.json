@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-09, 18:04:59",
+      "https://news.ycombinator.com/item?id=31317596"
+    ],
+    [
+      "Beyond Message Passing: A Physics-Inspired Paradigm for Graph Neural Networks",
+      "https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/"
+    ]
+  ],
+  [
+    [
       "2022-05-09, 17:50:48",
       "https://news.ycombinator.com/item?id=31317372"
     ],
@@ -27,16 +37,6 @@
     [
       "I’m going to miss you, but I am taking a sabbatical",
       "https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 16:47:22",
-      "https://news.ycombinator.com/item?id=31316473"
-    ],
-    [
-      "Ask HN: APC adding monthly fees / remotely defeaturing existing UPS's?",
-      "https://news.ycombinator.com/item?id=31316473"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-05-09, 09:14:49",
-      "https://news.ycombinator.com/item?id=31312064"
-    ],
-    [
-      "Tesseract.js wraps an Emscripten port of the Tesseract OCR Engine",
-      "https://github.com/naptha/tesseract.js"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 09:10:17",
       "https://news.ycombinator.com/item?id=31312035"
     ],
@@ -277,6 +267,16 @@
     [
       "This Interview is a Mistake: A Conversation with R.U. Sirius",
       "https://spikeartmagazine.com/?q=articles/interview-mistake"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 04:50:52",
+      "https://news.ycombinator.com/item?id=31301405"
+    ],
+    [
+      "Luhn algorithm using SWAR and SIMD",
+      "https://nullprogram.com/blog/2022/04/30/"
     ]
   ],
   [
