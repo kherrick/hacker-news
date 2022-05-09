@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-08](index.md)
 
+* [2022-05-08, 23:44:41](https://news.ycombinator.com/item?id=31309075) - [Monsanto’s Ghostwriting to Influence Science and Media](https://disinformationchronicle.substack.com/p/monsantos-ghostwriting-to-influence)
+* [2022-05-08, 23:16:17](https://news.ycombinator.com/item?id=31308911) - [Chart: Lithium prices are through the roof this year](https://www.canarymedia.com/articles/batteries/chart-lithium-prices-are-through-the-roof-this-year)
 * [2022-05-08, 22:39:00](https://news.ycombinator.com/item?id=31308721) - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 * [2022-05-08, 21:58:51](https://news.ycombinator.com/item?id=31308489) - [A Case for an Open Source CS Curriculum [pdf]](https://homes.cs.washington.edu/~tom/talks/edslides.pdf)
 * [2022-05-08, 21:49:07](https://news.ycombinator.com/item?id=31308423) - [“I don't know the numbers”: a math puzzle](https://alexanderell.is/posts/numbers-game/)

@@ -34,6 +34,7 @@
 * [2022-05-07, 14:16:28](https://news.ycombinator.com/item?id=31294659) - [I made an app to find great food trucks near you](https://www.sizzzle.app/)
 * [2022-05-07, 14:07:29](https://news.ycombinator.com/item?id=31294580) - [Okular – Universal document viewer](https://okular.kde.org/)
 * [2022-05-07, 13:49:32](https://news.ycombinator.com/item?id=31294414) - [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html)
+* [2022-05-07, 13:48:22](https://news.ycombinator.com/item?id=31294407) - [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide/)
 * [2022-05-07, 13:35:55](https://news.ycombinator.com/item?id=31294316) - [Your phone may soon replace many of your passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/)
 * [2022-05-07, 13:33:11](https://news.ycombinator.com/item?id=31294306) - [Show HN: I made Ankify that converts notes to Anki cards](https://ankify.krxiang.com/)
 * [2022-05-07, 13:26:07](https://news.ycombinator.com/item?id=31294269) - [Why Did 1980s Datsuns Have Tiny Vinyl Record Players in Them?](https://blog.adafruit.com/2022/04/27/why-did-1980s-datsuns-have-tiny-vinyl-record-players-in-them/)
