@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 15:28:17](https://news.ycombinator.com/item?id=31315389) - [Scripting COM components in Haskell (1998) [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
 * [2022-05-09, 15:11:44](https://news.ycombinator.com/item?id=31315110) - [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
 * [2022-05-09, 14:44:23](https://news.ycombinator.com/item?id=31314666) - [Show HN: YouBarter – A Nonprofit Bartering Platform](https://news.ycombinator.com/item?id=31314666)
+* [2022-05-09, 14:43:25](https://news.ycombinator.com/item?id=31314654) - [The Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
 * [2022-05-09, 14:40:29](https://news.ycombinator.com/item?id=31314602) - [Twitter Circle](https://twitter.com/TwitterSafety/status/1521540727557218309)
 * [2022-05-09, 14:25:27](https://news.ycombinator.com/item?id=31314392) - [A Note About Today’s Wordle Game](https://www.nytimes.com/2022/05/09/crosswords/a-note-about-todays-wordle-game.html)
 * [2022-05-09, 14:25:19](https://news.ycombinator.com/item?id=31314389) - [“It Is Getting Worse. People Are Leaving”](https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/)
