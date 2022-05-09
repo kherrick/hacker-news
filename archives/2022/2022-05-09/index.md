@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 13:17:49](https://news.ycombinator.com/item?id=31313644) - [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
+* [2022-05-09, 13:11:23](https://news.ycombinator.com/item?id=31313584) - [Addiction and Balance](https://jesperbylund.com/2022/05/09/addiction-and-balance/)
+* [2022-05-09, 13:08:50](https://news.ycombinator.com/item?id=31313560) - [The Pop Song That’s Uniting India and Pakistan](https://www.newyorker.com/culture/culture-desk/the-pop-song-thats-uniting-india-and-pakistan)
+* [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [Grand Theft Auto 1996 Making Of – GTA – – Retro Gaming – BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
+* [2022-05-09, 12:33:27](https://news.ycombinator.com/item?id=31313306) - [Babylonian astronomers calculated Jupiter position from area under time-velocity](https://www.science.org/doi/10.1126/science.aad8085)
 * [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 * [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
@@ -18,6 +23,7 @@
 * [2022-05-09, 04:16:56](https://news.ycombinator.com/item?id=31310561) - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
 * [2022-05-09, 04:15:21](https://news.ycombinator.com/item?id=31310552) - [Humanity’s broken risk perception is reversing global progress](https://www.undrr.org/news/humanitys-broken-risk-perception-reversing-global-progress-spiral-self-destruction-finds-new)
 * [2022-05-09, 03:38:07](https://news.ycombinator.com/item?id=31310326) - [Nvidia LHR Lock Officially Cracked Bringing Full Crypto Mining Speeds](https://www.forbes.com/sites/antonyleather/2022/05/07/nvidia-lhr-lock-officially-cracked-bringing-full-crypto-mining-speeds/)
+* [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-09, 02:08:15](https://news.ycombinator.com/item?id=31309748) - [Colleges where everyone works and there's no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
 * [2022-05-09, 02:03:06](https://news.ycombinator.com/item?id=31309729) - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
 * [2022-05-09, 01:56:15](https://news.ycombinator.com/item?id=31309700) - [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
