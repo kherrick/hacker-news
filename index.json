@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-09, 17:50:48",
+      "https://news.ycombinator.com/item?id=31317372"
+    ],
+    [
+      "Reincarnating the 6502 Using Flexible TFT Tech for IoT",
+      "https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/"
+    ]
+  ],
+  [
+    [
       "2022-05-09, 17:00:15",
       "https://news.ycombinator.com/item?id=31316643"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-05-09, 16:40:03",
-      "https://news.ycombinator.com/item?id=31316379"
-    ],
-    [
-      "The impotence of the long-distance trillionaire",
-      "http://www.antipope.org/charlie/blog-static/2022/05/the-impotence-of-the-long-dist.html"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 16:39:35",
       "https://news.ycombinator.com/item?id=31316372"
     ],
@@ -77,6 +77,16 @@
     [
       "Illinois college, hit by ransomware attack, to shut down",
       "https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905"
+    ]
+  ],
+  [
+    [
+      "2022-05-09, 15:52:53",
+      "https://news.ycombinator.com/item?id=31315717"
+    ],
+    [
+      "Syncing files between browser and disk using Yjs and the File System Access API",
+      "https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-05-09, 14:16:57",
-      "https://news.ycombinator.com/item?id=31314274"
-    ],
-    [
-      "Ask HN: Is Erlang an albatross to Elixir adoption?",
-      "https://news.ycombinator.com/item?id=31314274"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 13:58:18",
       "https://news.ycombinator.com/item?id=31314051"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2022-05-09, 13:56:08",
-      "https://news.ycombinator.com/item?id=31314026"
+      "2022-05-09, 13:54:18",
+      "https://news.ycombinator.com/item?id=31314006"
     ],
     [
-      "We raised $100M for open and collaborative machine learning",
-      "https://huggingface.co/blog/series-c"
+      "Using Java's Project Loom to build more reliable distributed systems",
+      "https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/"
     ]
   ],
   [
@@ -201,22 +201,12 @@
   ],
   [
     [
-      "2022-05-09, 13:06:11",
-      "https://news.ycombinator.com/item?id=31313540"
+      "2022-05-09, 12:53:56",
+      "https://news.ycombinator.com/item?id=31313449"
     ],
     [
-      "The Web-Interoperable Runtimes Community Group",
-      "https://deno.com/blog/announcing-wintercg"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 12:33:27",
-      "https://news.ycombinator.com/item?id=31313306"
-    ],
-    [
-      "Use of geometrical methods in Babylonian mathematical astronomy (2016)",
-      "https://www.science.org/doi/10.1126/science.aad8085"
+      "The Making Of Grand Theft Auto (1996) [video]",
+      "https://www.youtube.com/watch?v=7vWSi44ZTSw"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=31313292"
     ],
     [
-      "Forcing citizens through Google/Apple for online identity verification",
+      "Dutch digital identity system crisis",
       "https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/"
     ]
   ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2022-05-09, 04:17:27",
-      "https://news.ycombinator.com/item?id=31310564"
+      "2022-05-09, 02:39:07",
+      "https://news.ycombinator.com/item?id=31309900"
     ],
     [
-      "Short URLs: Why and How",
-      "https://sive.rs/su"
+      "The Beautiful Diablo 2 Resurrected Machine",
+      "https://fabiensanglard.net/d2r/index.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "This Interview is a Mistake: A Conversation with R.U. Sirius",
       "https://spikeartmagazine.com/?q=articles/interview-mistake"
+    ]
+  ],
+  [
+    [
+      "2022-05-07, 15:42:22",
+      "https://news.ycombinator.com/item?id=31295452"
+    ],
+    [
+      "Tony Fadell: The Nest Thermostat Disrupted My Life",
+      "https://spectrum.ieee.org/nest-thermostat"
     ]
   ],
   [
