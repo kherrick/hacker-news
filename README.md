@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-05-09, 20:18:15](https://news.ycombinator.com/item?id=31319179) - [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
@@ -9,7 +10,6 @@
 * [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond message passing: A physics-inspired paradigm for graph neural networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
 * [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
 * [2022-05-09, 17:16:44](https://news.ycombinator.com/item?id=31316867) - [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
-* [2022-05-09, 17:00:15](https://news.ycombinator.com/item?id=31316643) - [Relationship Hero (YC S17) Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
 * [2022-05-09, 16:57:21](https://news.ycombinator.com/item?id=31316602) - [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
 * [2022-05-09, 16:46:51](https://news.ycombinator.com/item?id=31316464) - [U.S. takes unprecedented steps to replenish Colorado River's Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
