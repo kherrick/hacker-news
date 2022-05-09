@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
 * [2022-05-09, 13:32:52](https://news.ycombinator.com/item?id=31313789) - [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
 * [2022-05-09, 13:32:20](https://news.ycombinator.com/item?id=31313779) - [Ask HN: Is Heroku Being Sunset?](https://news.ycombinator.com/item?id=31313779)
 * [2022-05-09, 13:17:49](https://news.ycombinator.com/item?id=31313644) - [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
@@ -12,6 +13,7 @@
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [Grand Theft Auto 1996 Making Of – GTA – – Retro Gaming – BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
 * [2022-05-09, 12:33:27](https://news.ycombinator.com/item?id=31313306) - [Babylonian astronomers calculated Jupiter position from area under time-velocity](https://www.science.org/doi/10.1126/science.aad8085)
 * [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
+* [2022-05-09, 11:48:26](https://news.ycombinator.com/item?id=31312981) - [What Dinner Will Look Like in the Next 100 Years, According to Scientists](https://www.bonappetit.com/story/plates-of-the-future)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 * [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)

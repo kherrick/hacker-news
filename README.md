@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
 * [2022-05-09, 13:32:52](https://news.ycombinator.com/item?id=31313789) - [Ask HN: What is the most compelling reason young people should learn to program?](https://news.ycombinator.com/item?id=31313789)
 * [2022-05-09, 13:32:20](https://news.ycombinator.com/item?id=31313779) - [Ask HN: Is Heroku Being Sunset?](https://news.ycombinator.com/item?id=31313779)
 * [2022-05-09, 13:17:49](https://news.ycombinator.com/item?id=31313644) - [Ask HN: Teach a 5-year-old math and science over the summer?](https://news.ycombinator.com/item?id=31313644)
@@ -7,6 +8,7 @@
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [Grand Theft Auto 1996 Making Of – GTA – – Retro Gaming – BBC Archive](https://www.youtube.com/watch?v=7vWSi44ZTSw)
 * [2022-05-09, 12:33:27](https://news.ycombinator.com/item?id=31313306) - [Babylonian astronomers calculated Jupiter position from area under time-velocity](https://www.science.org/doi/10.1126/science.aad8085)
 * [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
+* [2022-05-09, 11:48:26](https://news.ycombinator.com/item?id=31312981) - [What Dinner Will Look Like in the Next 100 Years, According to Scientists](https://www.bonappetit.com/story/plates-of-the-future)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
@@ -22,12 +24,10 @@
 * [2022-05-09, 01:36:08](https://news.ycombinator.com/item?id=31309616) - [Making a falling sand simulator](https://jason.today/falling-sand)
 * [2022-05-09, 01:31:54](https://news.ycombinator.com/item?id=31309595) - [I saw a cool truck today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
 * [2022-05-08, 17:40:36](https://news.ycombinator.com/item?id=31306232) - [Adding Side Effects to Spreadsheets (2019)](https://www.notion.so/Adding-side-effects-to-spreadsheets-3ae38e988cb4402abf2031d5c0d1bd11)
-* [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 * [2022-05-08, 15:12:31](https://news.ycombinator.com/item?id=31304777) - [PowerToys – open-source Windows utilities](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
 * [2022-05-08, 04:50:34](https://news.ycombinator.com/item?id=31301401) - [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [video]](https://www.youtube.com/watch?v=0me3guauqOU)
 * [2022-05-07, 13:48:22](https://news.ycombinator.com/item?id=31294407) - [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide/)
 * [2022-05-06, 16:33:38](https://news.ycombinator.com/item?id=31287112) - [Everything with a battery should have an off switch](https://twitter.com/Foone/status/1522599896066396161)
-* [2022-05-06, 15:59:41](https://news.ycombinator.com/item?id=31286707) - [Cohort Succession Explains Most Change in Literary Culture](https://sociologicalscience.com/articles-v9-8-184/)
 * [2022-05-06, 12:49:50](https://news.ycombinator.com/item?id=31284512) - [PikaPods – Instant Open Source App Hosting](https://www.pikapods.com/)
 * [2022-05-06, 06:44:12](https://news.ycombinator.com/item?id=31282035) - [Japanese Words in Neuromancer](https://jrogel.com/neuromancer-japanese-words/)
 
