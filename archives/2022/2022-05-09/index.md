@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 14:25:19](https://news.ycombinator.com/item?id=31314389) - [“It Is Getting Worse. People Are Leaving”](https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/)
 * [2022-05-09, 14:24:28](https://news.ycombinator.com/item?id=31314379) - [A most vexing parse, but for Python packaging](https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging)
 * [2022-05-09, 14:16:57](https://news.ycombinator.com/item?id=31314274) - [Is Erlang an albatross to Elixir adoption?](https://news.ycombinator.com/item?id=31314274)
 * [2022-05-09, 14:05:15](https://news.ycombinator.com/item?id=31314130) - [An Apple-FedEx debacle had a local man caught in the middle](https://www.bostonglobe.com/2022/05/09/business/an-apple-fedex-debacle-had-local-man-caught-middle-batted-back-forth/)
@@ -23,6 +24,7 @@
 * [2022-05-09, 12:33:27](https://news.ycombinator.com/item?id=31313306) - [Babylonian astronomers calculated Jupiter position from area under time-velocity](https://www.science.org/doi/10.1126/science.aad8085)
 * [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
 * [2022-05-09, 11:48:26](https://news.ycombinator.com/item?id=31312981) - [What Dinner Will Look Like in the Next 100 Years, According to Scientists](https://www.bonappetit.com/story/plates-of-the-future)
+* [2022-05-09, 11:29:30](https://news.ycombinator.com/item?id=31312858) - [SageMath is a free open-source mathematics software system](https://www.sagemath.org/)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 * [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
