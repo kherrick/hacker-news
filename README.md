@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-09, 22:21:25](https://news.ycombinator.com/item?id=31320610) - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
 * [2022-05-09, 21:18:10](https://news.ycombinator.com/item?id=31319885) - [AV1 Video Codec](https://aomedia.org/av1/)
 * [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport Is Still Hiring](https://flexport.com/careers)
@@ -17,7 +18,6 @@
 * [2022-05-09, 16:46:51](https://news.ycombinator.com/item?id=31316464) - [U.S. takes unprecedented steps to replenish Colorado River's Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
 * [2022-05-09, 15:59:29](https://news.ycombinator.com/item?id=31315803) - [Illinois college, hit by ransomware attack, to shut down](https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905)
-* [2022-05-09, 15:52:53](https://news.ycombinator.com/item?id=31315717) - [Syncing files between browser and disk using Yjs and the File System Access API](https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api)
 * [2022-05-09, 15:18:30](https://news.ycombinator.com/item?id=31315237) - [Knitters got knotted in a purity spiral (2020)](https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/)
 * [2022-05-09, 14:43:25](https://news.ycombinator.com/item?id=31314654) - [A Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
@@ -25,10 +25,10 @@
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 13:43:27](https://news.ycombinator.com/item?id=31313894) - [MVC frameworks aren't dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [The Making Of Grand Theft Auto (1996) [video]](https://www.youtube.com/watch?v=7vWSi44ZTSw)
-* [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 11:55:55](https://news.ycombinator.com/item?id=31303237) - [Configuring My Machines with Bashtard](https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/)
 * [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
+* [2022-05-07, 07:46:49](https://news.ycombinator.com/item?id=31292858) - [Introduction to Variable Fonts on the Web](https://web.dev/variable-fonts/)
 * [2022-05-07, 06:07:14](https://news.ycombinator.com/item?id=31292504) - [History of the Salvator Mundi](https://salvatormundirevisited.com/History-of-the-Salvator-Mundi)
 
 ## [Archives](archives/index.md)

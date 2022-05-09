@@ -61,6 +61,7 @@
 * [2022-05-07, 08:48:12](https://news.ycombinator.com/item?id=31293066) - [Eve Online is getting Microsoft Excel support](https://www.theverge.com/2022/5/6/23059064/eve-online-fanfest-microsoft-excel)
 * [2022-05-07, 08:42:14](https://news.ycombinator.com/item?id=31293046) - [Traces vs. Snapshots: Print Statements and Debuggers](https://www.scott-a-s.com/traces-vs-snapshots/)
 * [2022-05-07, 08:37:54](https://news.ycombinator.com/item?id=31293032) - [Unix command line conventions over time](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
+* [2022-05-07, 07:46:49](https://news.ycombinator.com/item?id=31292858) - [Introduction to Variable Fonts on the Web](https://web.dev/variable-fonts/)
 * [2022-05-07, 07:46:19](https://news.ycombinator.com/item?id=31292857) - [Top 5 Worst Programming Languages](https://catonmat.net/5-worst-programming-languages)
 * [2022-05-07, 07:35:22](https://news.ycombinator.com/item?id=31292814) - [Ask HN: We Already Pivoted](https://news.ycombinator.com/item?id=31292814)
 * [2022-05-07, 07:21:01](https://news.ycombinator.com/item?id=31292768) - [Ask HN: How to Monetize Open-Source Software?](https://news.ycombinator.com/item?id=31292768)
