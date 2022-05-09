@@ -65,6 +65,7 @@
 * [2022-05-06, 12:53:28](https://news.ycombinator.com/item?id=31284539) - [How Apple overcame its culture of secrecy to create AirPods Pro](https://www.fastcompany.com/90748492/apple-airpods-pro-creation)
 * [2022-05-06, 12:53:21](https://news.ycombinator.com/item?id=31284537) - [Ask HN: Has social media reached its saturation point?](https://news.ycombinator.com/item?id=31284537)
 * [2022-05-06, 12:51:16](https://news.ycombinator.com/item?id=31284522) - [Dashy: The Homepage for Your Homelab](https://dashy.to/)
+* [2022-05-06, 12:49:50](https://news.ycombinator.com/item?id=31284512) - [PikaPods – Instant Open Source App Hosting](https://www.pikapods.com/)
 * [2022-05-06, 12:47:01](https://news.ycombinator.com/item?id=31284482) - [Rowing Across The Atlantic Ocean; My Honest Experience](https://onestep4ward.com/rowing-across-the-atlantic-ocean/)
 * [2022-05-06, 12:46:42](https://news.ycombinator.com/item?id=31284477) - [Inkdrop: Organizing your Markdown notes made simple](https://www.inkdrop.app/)
 * [2022-05-06, 12:39:59](https://news.ycombinator.com/item?id=31284430) - [Leveraging AI in Photonics and Beyond](https://www.mdpi.com/2304-6732/9/2/75)
