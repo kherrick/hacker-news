@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
+* [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
 * [2022-05-09, 18:33:29](https://news.ycombinator.com/item?id=31317989) - [Ask HN: Why does nobody support h.265/HEVC anymore?](https://news.ycombinator.com/item?id=31317989)
 * [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond message passing: A physics-inspired paradigm for graph neural networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
@@ -23,7 +24,6 @@
 * [2022-05-09, 13:43:27](https://news.ycombinator.com/item?id=31313894) - [MVC frameworks aren't dinosaurs but sharks](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
 * [2022-05-09, 13:15:57](https://news.ycombinator.com/item?id=31313628) - [Adding code to an existing ELF file](https://dropbear.sh/blog/elf-patching.html)
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [The Making Of Grand Theft Auto (1996) [video]](https://www.youtube.com/watch?v=7vWSi44ZTSw)
-* [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Dutch digital identity system crisis](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell Etaoin Shrdlu (1978) [video]](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2022-05-09, 02:39:07](https://news.ycombinator.com/item?id=31309900) - [The Beautiful Diablo 2 Resurrected Machine](https://fabiensanglard.net/d2r/index.html)
 * [2022-05-08, 10:44:27](https://news.ycombinator.com/item?id=31302898) - [The Beer Game (1992)](https://web.mit.edu/jsterman/www/SDG/beergame.html)
