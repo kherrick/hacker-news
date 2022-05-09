@@ -19,7 +19,7 @@
 * [2022-05-08, 20:27:16](https://news.ycombinator.com/item?id=31307846) - [Kiss Linux (2020)](https://web.archive.org/web/20200528200318/https://k1ss.org/)
 * [2022-05-08, 18:57:25](https://news.ycombinator.com/item?id=31307006) - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
 * [2022-05-08, 17:53:22](https://news.ycombinator.com/item?id=31306340) - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html)
-* [2022-05-08, 17:34:58](https://news.ycombinator.com/item?id=31306177) - [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
+* [2022-05-08, 17:31:11](https://news.ycombinator.com/item?id=31306135) - [Tidbyt hardware display device: a review](https://macwright.com/2022/03/11/tidbyt-review.html)
 * [2022-05-08, 17:18:15](https://news.ycombinator.com/item?id=31306000) - [Emerging evidence that mindfulness can sometimes increase selfish tendencies](https://www.bbc.com/worklife/article/20220302-how-mindfulness-can-make-you-a-darker-person)
 * [2022-05-08, 15:12:31](https://news.ycombinator.com/item?id=31304777) - [PowerToys – open-source Windows utilities](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
 * [2022-05-08, 13:10:45](https://news.ycombinator.com/item?id=31303687) - [The New Old Book Collectors](https://www.nytimes.com/2022/05/07/style/rare-used-book-collectors.html)
