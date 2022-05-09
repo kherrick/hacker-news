@@ -64,6 +64,7 @@
 * [2022-05-08, 08:06:38](https://news.ycombinator.com/item?id=31302174) - [Jeffrey Snower was originally demoted over PowerShell](https://twitter.com/jsnover/status/1523010444570419200)
 * [2022-05-08, 07:46:53](https://news.ycombinator.com/item?id=31302086) - [(Yet Another) Lisp in Go](http://johnj.com/posts/l1/)
 * [2022-05-08, 06:16:43](https://news.ycombinator.com/item?id=31301777) - [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)
+* [2022-05-08, 06:01:17](https://news.ycombinator.com/item?id=31301723) - [A Conversation with R.U.Sirius](https://spikeartmagazine.com/?q=articles/interview-mistake)
 * [2022-05-08, 05:40:00](https://news.ycombinator.com/item?id=31301646) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2022-05-08, 05:00:15](https://news.ycombinator.com/item?id=31301454) - [Boquila trifoliolata mimics leaves of an artificial plastic host plant](https://www.tandfonline.com/doi/full/10.1080/15592324.2021.1977530)
 * [2022-05-08, 04:50:34](https://news.ycombinator.com/item?id=31301401) - [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach [video]](https://www.youtube.com/watch?v=0me3guauqOU)

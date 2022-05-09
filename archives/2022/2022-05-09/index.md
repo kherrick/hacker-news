@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-09](index.md)
 
+* [2022-05-09, 16:46:51](https://news.ycombinator.com/item?id=31316464) - [U.S. takes unprecedented steps to replenish Lake Powell](https://www.reuters.com/world/us/us-takes-unprecedented-steps-replenish-colorado-rivers-lake-powell-2022-05-03/)
+* [2022-05-09, 16:13:37](https://news.ycombinator.com/item?id=31315971) - [Virtual offices are not remote-friendly workplaces](https://mycodingtales.com/stop-pretending-your-company-is-remote/)
+* [2022-05-09, 15:38:18](https://news.ycombinator.com/item?id=31315516) - [The golden rule of software distributions](https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html)
 * [2022-05-09, 15:28:17](https://news.ycombinator.com/item?id=31315389) - [Scripting COM components in Haskell (1998) [pdf]](https://cmpct.info/~calvin/Papers/com.pdf)
+* [2022-05-09, 15:18:30](https://news.ycombinator.com/item?id=31315237) - [Knitters got knotted in a purity spiral (2020)](https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/)
 * [2022-05-09, 15:11:44](https://news.ycombinator.com/item?id=31315110) - [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
 * [2022-05-09, 14:44:23](https://news.ycombinator.com/item?id=31314666) - [Show HN: YouBarter – A Nonprofit Bartering Platform](https://news.ycombinator.com/item?id=31314666)
 * [2022-05-09, 14:43:25](https://news.ycombinator.com/item?id=31314654) - [The Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
