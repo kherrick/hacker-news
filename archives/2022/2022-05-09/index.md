@@ -6,6 +6,7 @@
 
 * [2022-05-09, 05:40:50](https://news.ycombinator.com/item?id=31310985) - [How to Build a Modern House in Minecraft (Minecraft House Tutorial)](https://video.link/w/Qrkrd)
 * [2022-05-09, 04:17:27](https://news.ycombinator.com/item?id=31310564) - [Short URLs: Why and How](https://sive.rs/su)
+* [2022-05-09, 04:16:56](https://news.ycombinator.com/item?id=31310561) - [Agile and the Long Crisis of Software](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/)
 * [2022-05-09, 03:38:07](https://news.ycombinator.com/item?id=31310326) - [Nvidia LHR Lock Officially Cracked Bringing Full Crypto Mining Speeds](https://www.forbes.com/sites/antonyleather/2022/05/07/nvidia-lhr-lock-officially-cracked-bringing-full-crypto-mining-speeds/)
 * [2022-05-09, 02:08:15](https://news.ycombinator.com/item?id=31309748) - [Colleges where everyone works and there's no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
 * [2022-05-09, 02:03:06](https://news.ycombinator.com/item?id=31309729) - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
