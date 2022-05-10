@@ -17,6 +17,7 @@
 * [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-05-09, 20:43:22](https://news.ycombinator.com/item?id=31319450) - [2022 Pulitzer Prizes](https://www.pulitzer.org/prize-winners-by-year/2022)
 * [2022-05-09, 20:18:15](https://news.ycombinator.com/item?id=31319179) - [NY Senate Bill S5474 proposing a universal single payer health plan for NYers](https://www.nysenate.gov/legislation/bills/2021/S5474)
+* [2022-05-09, 19:44:35](https://news.ycombinator.com/item?id=31318809) - [Exgrasia: RPG-style sandbox game where every tile is a player-made contract](https://twitter.com/exgrasia/status/1523727062896300034)
 * [2022-05-09, 19:38:00](https://news.ycombinator.com/item?id=31318733) - [Zsh-autoquoter makes shell quoting slightly less annoying](https://ianthehenry.com/posts/zsh-autoquoter/)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [Fly.io buys Litestream](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)

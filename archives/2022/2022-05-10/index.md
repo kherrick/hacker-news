@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 13:10:50](https://news.ycombinator.com/item?id=31326672) - [Welcome to Hotel Elsevier: you can check-out any time you like not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
 * [2022-05-10, 12:51:16](https://news.ycombinator.com/item?id=31326460) - [Air-breathing electric propulsion for long-term orbital stability](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
 * [2022-05-10, 12:41:29](https://news.ycombinator.com/item?id=31326353) - [After losing contact with its helicopter, NASA put the Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/)
+* [2022-05-10, 12:31:12](https://news.ycombinator.com/item?id=31326276) - [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
 * [2022-05-10, 12:08:46](https://news.ycombinator.com/item?id=31326093) - [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 * [2022-05-10, 12:03:38](https://news.ycombinator.com/item?id=31326052) - [Managing Python Versions with Pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
 * [2022-05-10, 12:00:42](https://news.ycombinator.com/item?id=31326022) - [Poll Everywhere (YC S08) Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
