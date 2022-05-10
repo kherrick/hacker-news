@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-10, 00:21:46",
+      "https://news.ycombinator.com/item?id=31321732"
+    ],
+    [
+      "Coinbase stock lost over 75% value",
+      "https://www.google.com/search?q=coinbase+stock"
+    ]
+  ],
+  [
+    [
       "2022-05-09, 23:26:56",
       "https://news.ycombinator.com/item?id=31321246"
     ],
@@ -17,16 +27,6 @@
     [
       "UST Stablecoin Loses Dollar Peg",
       "https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 22:29:21",
-      "https://news.ycombinator.com/item?id=31320703"
-    ],
-    [
-      "Food Deserts in America",
-      "https://moveforhunger.org/harsh-reality-food-deserts-america"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31319677"
     ],
     [
-      "Flexport Is Still Hiring",
+      "Flexport (YC W14) Is Hiring",
       "https://flexport.com/careers"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31318708"
     ],
     [
-      "Fly.io buys Litestream",
+      "I'm all-in on server-side SQLite",
       "https://fly.io/blog/all-in-on-sqlite-litestream/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "The Radioactive Boy Scout (2009)",
       "https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 18:33:29",
-      "https://news.ycombinator.com/item?id=31317989"
-    ],
-    [
-      "Ask HN: Why does nobody support h.265/HEVC anymore?",
-      "https://news.ycombinator.com/item?id=31317989"
     ]
   ],
   [
@@ -181,12 +171,32 @@
   ],
   [
     [
+      "2022-05-09, 15:52:53",
+      "https://news.ycombinator.com/item?id=31315717"
+    ],
+    [
+      "Syncing files between browser and disk using Yjs and the File System Access API",
+      "https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api"
+    ]
+  ],
+  [
+    [
       "2022-05-09, 15:18:30",
       "https://news.ycombinator.com/item?id=31315237"
     ],
     [
       "Knitters got knotted in a purity spiral (2020)",
       "https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/"
+    ]
+  ],
+  [
+    [
+      "2022-05-09, 15:11:44",
+      "https://news.ycombinator.com/item?id=31315110"
+    ],
+    [
+      "Preview, the Mac app people forget about",
+      "https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2022-05-09, 13:43:27",
+      "https://news.ycombinator.com/item?id=31313894"
+    ],
+    [
+      "MVC frameworks aren't dinosaurs but sharks",
+      "https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks"
+    ]
+  ],
+  [
+    [
       "2022-05-09, 12:53:56",
       "https://news.ycombinator.com/item?id=31313449"
     ],
     [
       "The Making Of Grand Theft Auto (1996) [video]",
       "https://www.youtube.com/watch?v=7vWSi44ZTSw"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 12:20:06",
-      "https://news.ycombinator.com/item?id=31313202"
-    ],
-    [
-      "Bridging Web 2 and Web 3: an identity perspective",
-      "https://yenkel.dev/posts/bridging-web-2-and-web-3-an-identity-perspective"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-05-08, 20:05:46",
+      "https://news.ycombinator.com/item?id=31307646"
+    ],
+    [
+      "Project Denver",
+      "https://en.wikipedia.org/wiki/Project_Denver"
+    ]
+  ],
+  [
+    [
       "2022-05-08, 11:55:55",
       "https://news.ycombinator.com/item?id=31303237"
     ],
     [
       "Configuring My Machines with Bashtard",
       "https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 07:47:00",
-      "https://news.ycombinator.com/item?id=31302087"
-    ],
-    [
-      "Rust is hard, yes, but does it matter?",
-      "https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 06:38:58",
-      "https://news.ycombinator.com/item?id=31301865"
-    ],
-    [
-      "Maps All Through the Ages",
-      "https://www.geospatialworld.net/prime/maps-all-through-the-ages/"
     ]
   ]
 ]
