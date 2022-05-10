@@ -2,10 +2,10 @@
 
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:17:04](https://news.ycombinator.com/item?id=31323397) - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
+* [2022-05-10, 04:16:59](https://news.ycombinator.com/item?id=31323396) - [The Opportunity Atlas](https://www.opportunityatlas.org/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
 * [2022-05-10, 04:02:46](https://news.ycombinator.com/item?id=31323313) - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
 * [2022-05-10, 03:48:03](https://news.ycombinator.com/item?id=31323227) - [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
-* [2022-05-10, 03:20:52](https://news.ycombinator.com/item?id=31323055) - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
 * [2022-05-10, 03:16:47](https://news.ycombinator.com/item?id=31323032) - [If Programming Languages Were Futurama Characters](https://www.netmeister.org/blog/futurama.html)
 * [2022-05-10, 01:42:25](https://news.ycombinator.com/item?id=31322379) - [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
 * [2022-05-10, 01:11:50](https://news.ycombinator.com/item?id=31322136) - [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
@@ -21,7 +21,6 @@
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (1998)](https://harpers.org/archive/1998/11/the-radioactive-boy-scout/)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
-* [2022-05-09, 14:43:25](https://news.ycombinator.com/item?id=31314654) - [A Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
 * [2022-05-09, 14:04:02](https://news.ycombinator.com/item?id=31314122) - [Patenting Your Perpetual Motion Machine](https://unmakeme.com/2022/05/09/patenting-your-perpetual-motion-machine/)
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
@@ -29,6 +28,7 @@
 * [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 * [2022-05-08, 07:51:12](https://news.ycombinator.com/item?id=31302113) - [Silicom PE2G6I35-R Review 6-port Intel i350 NIC (2021)](https://www.servethehome.com/silicom-pe2g6i35-review-intel-i350-nic/)
+* [2022-05-08, 05:36:19](https://news.ycombinator.com/item?id=31301627) - [What Is JSON Patch?](http://jsonpatch.com/)
 * [2022-05-07, 08:36:49](https://news.ycombinator.com/item?id=31293030) - [Steps to Organizational Change Without the Drama](https://medium.com/glia-tech/four-steps-to-organizational-change-without-the-drama-4790fd6b8c72)
 
 ## [Archives](archives/index.md)
