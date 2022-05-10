@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:04:05](https://news.ycombinator.com/item?id=31329512) - [Apple discontinues the iPod after 20 years](https://www.theverge.com/2022/5/10/23065412/apple-ipod-touch-canceled-discontinued)
 * [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2022-05-10, 16:54:01](https://news.ycombinator.com/item?id=31329368) - [Chat control: EU Commission presents mass surveillance plan on May 11](https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%ef%bf%bc/)
@@ -23,7 +24,6 @@
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – A better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
-* [2022-05-10, 04:17:04](https://news.ycombinator.com/item?id=31323397) - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
 * [2022-05-10, 04:02:46](https://news.ycombinator.com/item?id=31323313) - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
 * [2022-05-09, 19:38:00](https://news.ycombinator.com/item?id=31318733) - [Zsh-autoquoter makes shell quoting slightly less annoying](https://ianthehenry.com/posts/zsh-autoquoter/)
 * [2022-05-09, 08:29:14](https://news.ycombinator.com/item?id=31311811) - [How to Multiply Roman Numerals](https://rbutterworth.nfshost.com/Tables/romanmult/)
