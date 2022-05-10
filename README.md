@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 20:35:38](https://news.ycombinator.com/item?id=31332334) - [Upside-Down-Ternet (2007)](http://www.ex-parrot.com/pete/upside-down-ternet.html)
+* [2022-05-10, 20:25:49](https://news.ycombinator.com/item?id=31332207) - [Coinbase Q1/22 Shareholder Letter [pdf]](https://s27.q4cdn.com/397450999/files/doc_financials/2022/q1/Coinbase-Q122-Shareholder-Letter.pdf)
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences (2019)](https://milan.cvitkovic.net/writing/rules_for_conferences/)
-* [2022-05-10, 18:07:15](https://news.ycombinator.com/item?id=31330342) - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA changes course on eVTOL certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 * [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
@@ -23,7 +24,6 @@
 * [2022-05-10, 12:08:46](https://news.ycombinator.com/item?id=31326093) - [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Show HN: Peridot – A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
-* [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – A better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-09, 08:29:14](https://news.ycombinator.com/item?id=31311811) - [How to Multiply Roman Numerals](https://rbutterworth.nfshost.com/Tables/romanmult/)
 * [2022-05-08, 08:36:31](https://news.ycombinator.com/item?id=31302296) - [Human-Free Construction (2018)](https://www.forconstructionpros.com/profit-matters/article/20987766/countdown-to-humanfree-construction-in-less-than-10-years)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)

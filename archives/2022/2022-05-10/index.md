@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 20:35:38](https://news.ycombinator.com/item?id=31332334) - [Upside-Down-Ternet (2007)](http://www.ex-parrot.com/pete/upside-down-ternet.html)
+* [2022-05-10, 20:25:49](https://news.ycombinator.com/item?id=31332207) - [Coinbase Q1/22 Shareholder Letter [pdf]](https://s27.q4cdn.com/397450999/files/doc_financials/2022/q1/Coinbase-Q122-Shareholder-Letter.pdf)
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
 * [2022-05-10, 19:16:40](https://news.ycombinator.com/item?id=31331339) - [You shouldn't invest in the crypto currency?](https://rohitgupta.bearblog.dev/why-you-shouldnt-invest-in-the-crypto-currency/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
