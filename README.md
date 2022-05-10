@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:17:04](https://news.ycombinator.com/item?id=31323397) - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
@@ -25,7 +26,6 @@
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 02:46:29](https://news.ycombinator.com/item?id=31309960) - [The Two Generals Problem](https://haydenjames.io/the-two-generals-problem/)
-* [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 * [2022-05-08, 05:36:19](https://news.ycombinator.com/item?id=31301627) - [What Is JSON Patch?](http://jsonpatch.com/)
 * [2022-05-07, 08:36:49](https://news.ycombinator.com/item?id=31293030) - [Steps to Organizational Change Without the Drama](https://medium.com/glia-tech/four-steps-to-organizational-change-without-the-drama-4790fd6b8c72)
