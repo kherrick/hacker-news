@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-10, 13:10:50](https://news.ycombinator.com/item?id=31326672) - [Welcome to Hotel Elsevier: you can check-out any time you like – not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
+* [2022-05-10, 13:09:13](https://news.ycombinator.com/item?id=31326658) - [Why Executives Like the Office (2021)](https://www.economist.com/business/2021/11/06/why-executives-like-the-office)
 * [2022-05-10, 12:51:16](https://news.ycombinator.com/item?id=31326460) - [Air-breathing electric propulsion for long-term orbital stability (2021)](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
 * [2022-05-10, 12:41:29](https://news.ycombinator.com/item?id=31326353) - [After losing contact with its helicopter, NASA put the Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/)
 * [2022-05-10, 12:31:12](https://news.ycombinator.com/item?id=31326276) - [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
@@ -19,7 +20,6 @@
 * [2022-05-10, 04:02:46](https://news.ycombinator.com/item?id=31323313) - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
 * [2022-05-10, 01:42:25](https://news.ycombinator.com/item?id=31322379) - [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
 * [2022-05-10, 01:11:50](https://news.ycombinator.com/item?id=31322136) - [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
-* [2022-05-10, 00:25:53](https://news.ycombinator.com/item?id=31321768) - [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
 * [2022-05-09, 23:01:57](https://news.ycombinator.com/item?id=31321021) - [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
 * [2022-05-09, 19:44:35](https://news.ycombinator.com/item?id=31318809) - [Exgrasia: RPG-style sandbox game where every tile is a player-made contract](https://twitter.com/exgrasia/status/1523727062896300034)
 * [2022-05-09, 19:38:00](https://news.ycombinator.com/item?id=31318733) - [Zsh-autoquoter makes shell quoting slightly less annoying](https://ianthehenry.com/posts/zsh-autoquoter/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
 * [2022-05-10, 13:10:50](https://news.ycombinator.com/item?id=31326672) - [Welcome to Hotel Elsevier: you can check-out any time you like not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
+* [2022-05-10, 13:09:13](https://news.ycombinator.com/item?id=31326658) - [Why Executives Like the Office (2021)](https://www.economist.com/business/2021/11/06/why-executives-like-the-office)
 * [2022-05-10, 12:51:16](https://news.ycombinator.com/item?id=31326460) - [Air-breathing electric propulsion for long-term orbital stability](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
 * [2022-05-10, 12:41:29](https://news.ycombinator.com/item?id=31326353) - [After losing contact with its helicopter, NASA put the Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/)
 * [2022-05-10, 12:31:12](https://news.ycombinator.com/item?id=31326276) - [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
