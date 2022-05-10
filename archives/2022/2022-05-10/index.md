@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
 * [2022-05-10, 09:44:03](https://news.ycombinator.com/item?id=31325191) - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
+* [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
 * [2022-05-10, 08:48:37](https://news.ycombinator.com/item?id=31324917) - [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
 * [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)

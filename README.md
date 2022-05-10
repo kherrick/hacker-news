@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-10, 09:44:03](https://news.ycombinator.com/item?id=31325191) - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
+* [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
 * [2022-05-10, 08:48:37](https://news.ycombinator.com/item?id=31324917) - [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
 * [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
@@ -19,7 +20,6 @@
 * [2022-05-09, 21:18:10](https://news.ycombinator.com/item?id=31319885) - [AV1 Video Codec](https://aomedia.org/av1/)
 * [2022-05-09, 21:07:53](https://news.ycombinator.com/item?id=31319768) - [Webb Telescope Image Sharpness Check](https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
-* [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (1998)](https://harpers.org/archive/1998/11/the-radioactive-boy-scout/)
 * [2022-05-09, 17:27:27](https://news.ycombinator.com/item?id=31317037) - [Hacks for Engineering Estimates](https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
