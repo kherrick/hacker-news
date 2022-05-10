@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
 * [2022-05-10, 03:48:03](https://news.ycombinator.com/item?id=31323227) - [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
 * [2022-05-10, 03:20:52](https://news.ycombinator.com/item?id=31323055) - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
@@ -8,7 +9,6 @@
 * [2022-05-10, 01:11:50](https://news.ycombinator.com/item?id=31322136) - [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
 * [2022-05-10, 00:25:53](https://news.ycombinator.com/item?id=31321768) - [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
 * [2022-05-10, 00:21:46](https://news.ycombinator.com/item?id=31321732) - [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
-* [2022-05-09, 23:26:56](https://news.ycombinator.com/item?id=31321246) - [On Creating a Social Network](https://0xff.nu/social-network)
 * [2022-05-09, 23:01:57](https://news.ycombinator.com/item?id=31321021) - [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
 * [2022-05-09, 22:21:25](https://news.ycombinator.com/item?id=31320610) - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2022-05-09, 22:13:42](https://news.ycombinator.com/item?id=31320519) - [How to have a billion dollar exit with zero capital gains tax](https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/)
@@ -19,7 +19,6 @@
 * [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (1998)](https://harpers.org/archive/1998/11/the-radioactive-boy-scout/)
-* [2022-05-09, 16:57:21](https://news.ycombinator.com/item?id=31316602) - [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
 * [2022-05-09, 14:43:25](https://news.ycombinator.com/item?id=31314654) - [A Dutch city testing the future of urban life](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
 * [2022-05-09, 14:04:02](https://news.ycombinator.com/item?id=31314122) - [Patenting Your Perpetual Motion Machine](https://unmakeme.com/2022/05/09/patenting-your-perpetual-motion-machine/)
@@ -30,6 +29,7 @@
 * [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 * [2022-05-08, 07:51:12](https://news.ycombinator.com/item?id=31302113) - [Silicom PE2G6I35-R Review 6-port Intel i350 NIC (2021)](https://www.servethehome.com/silicom-pe2g6i35-review-intel-i350-nic/)
+* [2022-05-07, 08:36:49](https://news.ycombinator.com/item?id=31293030) - [Steps to Organizational Change Without the Drama](https://medium.com/glia-tech/four-steps-to-organizational-change-without-the-drama-4790fd6b8c72)
 
 ## [Archives](archives/index.md)
 

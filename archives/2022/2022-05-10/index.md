@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
 * [2022-05-10, 03:48:03](https://news.ycombinator.com/item?id=31323227) - [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
 * [2022-05-10, 03:20:52](https://news.ycombinator.com/item?id=31323055) - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
