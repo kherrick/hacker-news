@@ -63,6 +63,7 @@
 * [2022-05-08, 08:59:28](https://news.ycombinator.com/item?id=31302391) - [Ask HN: How do I get my Google account back?](https://news.ycombinator.com/item?id=31302391)
 * [2022-05-08, 08:42:43](https://news.ycombinator.com/item?id=31302314) - [Show HN: Thanks to BeAware, Deaf iPhone users have a free alerting device (OSS)](https://www.deafassistant.com/)
 * [2022-05-08, 08:41:17](https://news.ycombinator.com/item?id=31302310) - [No Fixed Address Bank Account](https://www.hsbc.co.uk/help/money-worries/no-fixed-address/)
+* [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 * [2022-05-08, 08:32:24](https://news.ycombinator.com/item?id=31302280) - [Why You Should Think Twice About Wanting to Work on Weekends](https://www.wsj.com/articles/why-want-work-weekend-11651256000)
 * [2022-05-08, 08:06:38](https://news.ycombinator.com/item?id=31302174) - [Jeffrey Snower was originally demoted over PowerShell](https://twitter.com/jsnover/status/1523010444570419200)
 * [2022-05-08, 07:47:00](https://news.ycombinator.com/item?id=31302087) - [Rust is hard, yes, but does it matter?](https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html)

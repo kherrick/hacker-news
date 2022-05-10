@@ -8,6 +8,7 @@
 * [2022-05-09, 23:01:57](https://news.ycombinator.com/item?id=31321021) - [UST Stablecoin Loses Dollar Peg](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/)
 * [2022-05-09, 22:29:21](https://news.ycombinator.com/item?id=31320703) - [Food Deserts in America](https://moveforhunger.org/harsh-reality-food-deserts-america)
 * [2022-05-09, 22:21:25](https://news.ycombinator.com/item?id=31320610) - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
+* [2022-05-09, 22:13:42](https://news.ycombinator.com/item?id=31320519) - [How to have a billion dollar exit with zero capital gains tax](https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/)
 * [2022-05-09, 21:57:24](https://news.ycombinator.com/item?id=31320335) - [Show HN: A Spatial Environment for Python](https://python.natto.dev/)
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day trader army loses all the money it made in meme-stock era](https://www.bloomberg.com/news/articles/2022-05-08/day-trader-army-loses-all-the-money-it-made-in-meme-stock-era)
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day Trader Army Loses All the Money It Made in Meme-Stock Era](https://www.bloomberg.com/tosv2.html?vid=&uuid=0ba7046d-cfde-11ec-978a-494a4b575069&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wOC9kYXktdHJhZGVyLWFybXktbG9zZXMtYWxsLXRoZS1tb25leS1pdC1tYWRlLWluLW1lbWUtc3RvY2stZXJh)
