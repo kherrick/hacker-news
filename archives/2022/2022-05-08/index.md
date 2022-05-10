@@ -73,6 +73,7 @@
 * [2022-05-08, 07:51:12](https://news.ycombinator.com/item?id=31302113) - [Silicom PE2G6I35-R Review 6-port Intel i350 NIC (2021)](https://www.servethehome.com/silicom-pe2g6i35-review-intel-i350-nic/)
 * [2022-05-08, 07:47:00](https://news.ycombinator.com/item?id=31302087) - [Rust is hard, yes, but does it matter?](https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html)
 * [2022-05-08, 07:46:53](https://news.ycombinator.com/item?id=31302086) - [(Yet Another) Lisp in Go](http://johnj.com/posts/l1/)
+* [2022-05-08, 07:29:45](https://news.ycombinator.com/item?id=31302024) - [ILOQ: Physical lock with AES 256 support](https://www.iloq.com/en/single_product/oval-cylinder-c5s-1-sb-se/)
 * [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
 * [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
 * [2022-05-08, 06:16:43](https://news.ycombinator.com/item?id=31301777) - [Donald Knuth Was Framed](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/)

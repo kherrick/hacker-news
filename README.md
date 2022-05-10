@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 22:50:43](https://news.ycombinator.com/item?id=31333685) - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
 * [2022-05-10, 21:46:55](https://news.ycombinator.com/item?id=31333146) - [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
@@ -13,7 +14,6 @@
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA changes course on eVTOL certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 * [2022-05-10, 17:14:46](https://news.ycombinator.com/item?id=31329615) - [Query serving systems: An emerging category of data systems](http://petereliaskraft.net/blog/query-serving-systems)
-* [2022-05-10, 16:45:59](https://news.ycombinator.com/item?id=31329269) - [EA and the Current Funding Situation](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation)
 * [2022-05-10, 16:44:53](https://news.ycombinator.com/item?id=31329247) - [The ACLU Has Lost Its Way](https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808/)
 * [2022-05-10, 16:33:06](https://news.ycombinator.com/item?id=31329076) - [Yahoo Japan's password-free authentication reduced inquiries, sped up sign-in](https://web.dev/yahoo-japan-identity-case-study/)
 * [2022-05-10, 16:08:43](https://news.ycombinator.com/item?id=31328783) - [Supabase (YC S20) raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
@@ -27,8 +27,8 @@
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Show HN: Peridot – A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
 * [2022-05-08, 08:36:31](https://news.ycombinator.com/item?id=31302296) - [Human-Free Construction (2018)](https://www.forconstructionpros.com/profit-matters/article/20987766/countdown-to-humanfree-construction-in-less-than-10-years)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
+* [2022-05-08, 07:29:45](https://news.ycombinator.com/item?id=31302024) - [ILOQ: Physical lock with AES 256 support](https://www.iloq.com/en/single_product/oval-cylinder-c5s-1-sb-se/)
 * [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
-* [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 
 ## [Archives](archives/index.md)
