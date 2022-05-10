@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 17:04:05](https://news.ycombinator.com/item?id=31329512) - [Apple discontinues the iPod after 20 years](https://www.theverge.com/2022/5/10/23065412/apple-ipod-touch-canceled-discontinued)
 * [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2022-05-10, 16:54:01](https://news.ycombinator.com/item?id=31329368) - [Chat control: EU Commission presents mass surveillance plan on May 11](https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%ef%bf%bc/)
 * [2022-05-10, 16:45:59](https://news.ycombinator.com/item?id=31329269) - [EA and the Current Funding Situation](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation)
@@ -10,7 +11,7 @@
 * [2022-05-10, 15:37:08](https://news.ycombinator.com/item?id=31328385) - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
 * [2022-05-10, 15:22:35](https://news.ycombinator.com/item?id=31328205) - [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
 * [2022-05-10, 15:03:51](https://news.ycombinator.com/item?id=31327966) - [Someone wrote a PhD thesis on bells](https://www.hibberts.co.uk/)
-* [2022-05-10, 14:47:59](https://news.ycombinator.com/item?id=31327766) - [Give me back my monolith](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+* [2022-05-10, 14:47:59](https://news.ycombinator.com/item?id=31327766) - [Give me back my monolith (2019)](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 * [2022-05-10, 14:12:32](https://news.ycombinator.com/item?id=31327353) - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
 * [2022-05-10, 14:10:20](https://news.ycombinator.com/item?id=31327328) - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We Need a Middle Class for Startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
@@ -26,7 +27,6 @@
 * [2022-05-10, 04:02:46](https://news.ycombinator.com/item?id=31323313) - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
 * [2022-05-09, 19:38:00](https://news.ycombinator.com/item?id=31318733) - [Zsh-autoquoter makes shell quoting slightly less annoying](https://ianthehenry.com/posts/zsh-autoquoter/)
 * [2022-05-09, 08:29:14](https://news.ycombinator.com/item?id=31311811) - [How to Multiply Roman Numerals](https://rbutterworth.nfshost.com/Tables/romanmult/)
-* [2022-05-08, 09:00:27](https://news.ycombinator.com/item?id=31302395) - [Sugar – Candy Machine Rust CLI](https://github.com/metaplex-foundation/sugar)
 * [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 * [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
