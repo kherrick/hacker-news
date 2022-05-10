@@ -2,6 +2,7 @@
 
 * [2022-05-10, 03:20:52](https://news.ycombinator.com/item?id=31323055) - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
 * [2022-05-10, 01:42:25](https://news.ycombinator.com/item?id=31322379) - [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
+* [2022-05-10, 01:11:50](https://news.ycombinator.com/item?id=31322136) - [Kornia: Differential Computer Vision](https://github.com/kornia/kornia)
 * [2022-05-10, 00:25:53](https://news.ycombinator.com/item?id=31321768) - [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
 * [2022-05-10, 00:21:46](https://news.ycombinator.com/item?id=31321732) - [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
 * [2022-05-09, 23:26:56](https://news.ycombinator.com/item?id=31321246) - [On Creating a Social Network](https://0xff.nu/social-network)
@@ -24,7 +25,6 @@
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
 * [2022-05-09, 13:58:18](https://news.ycombinator.com/item?id=31314051) - [Differentiable Signed Distance Function Rendering](http://rgl.epfl.ch/publications/Vicini2022SDF)
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
-* [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [The Making Of Grand Theft Auto (1996) [video]](https://www.youtube.com/watch?v=7vWSi44ZTSw)
 * [2022-05-09, 02:46:29](https://news.ycombinator.com/item?id=31309960) - [The Two Generals Problem](https://haydenjames.io/the-two-generals-problem/)
 * [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 20:05:46](https://news.ycombinator.com/item?id=31307646) - [Project Denver](https://en.wikipedia.org/wiki/Project_Denver)
