@@ -69,6 +69,7 @@
 * [2022-05-07, 07:21:01](https://news.ycombinator.com/item?id=31292768) - [Ask HN: How to Monetize Open-Source Software?](https://news.ycombinator.com/item?id=31292768)
 * [2022-05-07, 07:00:54](https://news.ycombinator.com/item?id=31292706) - [Stacker (YC S20) Is Hiring for Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 * [2022-05-07, 06:07:14](https://news.ycombinator.com/item?id=31292504) - [History of the Salvator Mundi](https://salvatormundirevisited.com/History-of-the-Salvator-Mundi)
+* [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 * [2022-05-07, 04:56:16](https://news.ycombinator.com/item?id=31292267) - [Is Mark Twain’s old age best forgotten?](https://www.spectator.co.uk/article/is-mark-twain-s-old-age-best-forgotten-)
 * [2022-05-07, 04:34:01](https://news.ycombinator.com/item?id=31292161) - [The Spy Among Us (2015)](https://magazine.utoronto.ca/campus/history/the-spy-among-us-pat-bayly-camp-x/)
 * [2022-05-07, 03:54:29](https://news.ycombinator.com/item?id=31292031) - [Oral History of Chuck Peddle [video]](https://www.youtube.com/watch?v=enHF9lMseP8)
