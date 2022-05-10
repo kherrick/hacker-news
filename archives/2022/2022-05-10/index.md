@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 21:46:55](https://news.ycombinator.com/item?id=31333146) - [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
+* [2022-05-10, 21:30:09](https://news.ycombinator.com/item?id=31332982) - [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
 * [2022-05-10, 21:01:14](https://news.ycombinator.com/item?id=31332660) - [Tesorio (YC S15) Is Hiring Senior Quality Engineers and Product Managers](https://www.tesorio.com/careers#job-openings)
 * [2022-05-10, 20:55:03](https://news.ycombinator.com/item?id=31332590) - [Red Hat In-Vehicle Operating System in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
 * [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
@@ -17,6 +19,7 @@
 * [2022-05-10, 18:04:11](https://news.ycombinator.com/item?id=31330281) - [Web3.0 Must Be Destroyed](https://webtwoboomer.com/web3-0-must-be-destroyed-57803329ee47?gi=3d95f2f722db)
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
+* [2022-05-10, 17:14:46](https://news.ycombinator.com/item?id=31329615) - [Query serving systems: An emerging category of data systems](http://petereliaskraft.net/blog/query-serving-systems)
 * [2022-05-10, 17:04:05](https://news.ycombinator.com/item?id=31329512) - [Apple discontinues the iPod after 20 years](https://www.theverge.com/2022/5/10/23065412/apple-ipod-touch-canceled-discontinued)
 * [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2022-05-10, 16:54:01](https://news.ycombinator.com/item?id=31329368) - [Chat control: EU Commission presents mass surveillance plan on May 11](https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%ef%bf%bc/)
