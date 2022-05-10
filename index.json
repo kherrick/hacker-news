@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-10, 01:42:25",
+      "https://news.ycombinator.com/item?id=31322379"
+    ],
+    [
+      "Cloud TPU VMs are generally available",
+      "https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 00:25:53",
+      "https://news.ycombinator.com/item?id=31321768"
+    ],
+    [
+      "The White House’s weirdly hip record collection",
+      "https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/"
+    ]
+  ],
+  [
+    [
       "2022-05-10, 00:21:46",
       "https://news.ycombinator.com/item?id=31321732"
     ],
@@ -37,6 +57,16 @@
     [
       "A CEO's Guide to Emacs (2015)",
       "https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-09, 22:13:42",
+      "https://news.ycombinator.com/item?id=31320519"
+    ],
+    [
+      "How to have a billion dollar exit with zero capital gains tax",
+      "https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-05-09, 18:27:05",
-      "https://news.ycombinator.com/item?id=31317911"
-    ],
-    [
-      "Show HN: Pythondocs.xyz – Live search for Python documentation",
-      "https://pythondocs.xyz/"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 18:04:59",
       "https://news.ycombinator.com/item?id=31317596"
     ],
@@ -167,26 +187,6 @@
     [
       "Yep, I created the new Avatar font",
       "https://swelltype.com/yep-i-created-the-new-avatar-font/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 15:52:53",
-      "https://news.ycombinator.com/item?id=31315717"
-    ],
-    [
-      "Syncing files between browser and disk using Yjs and the File System Access API",
-      "https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 15:18:30",
-      "https://news.ycombinator.com/item?id=31315237"
-    ],
-    [
-      "Knitters got knotted in a purity spiral (2020)",
-      "https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-05-09, 13:43:27",
-      "https://news.ycombinator.com/item?id=31313894"
-    ],
-    [
-      "MVC frameworks aren't dinosaurs but sharks",
-      "https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 12:53:56",
       "https://news.ycombinator.com/item?id=31313449"
     ],
@@ -297,6 +287,16 @@
     [
       "Configuring My Machines with Bashtard",
       "https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 08:36:57",
+      "https://news.ycombinator.com/item?id=31302297"
+    ],
+    [
+      "Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe",
+      "https://github.com/equant/apple2idiot"
     ]
   ]
 ]
