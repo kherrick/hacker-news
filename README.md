@@ -23,13 +23,13 @@
 * [2022-05-10, 12:12:36](https://news.ycombinator.com/item?id=31326123) - [Deno.js in Production. Key Takeaways.](https://medium.com/@sdesalas/deno-js-in-production-main-takeaways-247a2fd2d198)
 * [2022-05-10, 12:08:46](https://news.ycombinator.com/item?id=31326093) - [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Peridot: A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
-* [2022-05-10, 09:44:03](https://news.ycombinator.com/item?id=31325191) - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-09, 08:29:14](https://news.ycombinator.com/item?id=31311811) - [How to Multiply Roman Numerals](https://rbutterworth.nfshost.com/Tables/romanmult/)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane Accidentally Flew Around the World (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
+* [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 
 ## [Archives](archives/index.md)
 
