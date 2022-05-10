@@ -11,7 +11,6 @@
 * [2022-05-10, 20:09:27](https://news.ycombinator.com/item?id=31332018) - [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences (2019)](https://milan.cvitkovic.net/writing/rules_for_conferences/)
-* [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA changes course on eVTOL certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 * [2022-05-10, 17:14:46](https://news.ycombinator.com/item?id=31329615) - [Query serving systems: An emerging category of data systems](http://petereliaskraft.net/blog/query-serving-systems)
 * [2022-05-10, 16:44:53](https://news.ycombinator.com/item?id=31329247) - [The ACLU Has Lost Its Way](https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808/)
@@ -29,6 +28,7 @@
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-08, 07:29:45](https://news.ycombinator.com/item?id=31302024) - [ILOQ: Physical lock with AES 256 support](https://www.iloq.com/en/single_product/oval-cylinder-c5s-1-sb-se/)
 * [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
+* [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 
 ## [Archives](archives/index.md)
