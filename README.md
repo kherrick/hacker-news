@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
 * [2022-05-10, 21:46:55](https://news.ycombinator.com/item?id=31333146) - [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
 * [2022-05-10, 21:30:09](https://news.ycombinator.com/item?id=31332982) - [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
@@ -24,7 +25,6 @@
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We need a middle class for startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 * [2022-05-10, 12:31:12](https://news.ycombinator.com/item?id=31326276) - [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Show HN: Peridot – A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
-* [2022-05-09, 05:40:22](https://news.ycombinator.com/item?id=31310983) - [The Scientists Fighting for Parasite Conservation](https://www.scientificamerican.com/article/the-scientists-fighting-for-parasite-conservation/)
 * [2022-05-08, 08:36:31](https://news.ycombinator.com/item?id=31302296) - [Human-Free Construction (2018)](https://www.forconstructionpros.com/profit-matters/article/20987766/countdown-to-humanfree-construction-in-less-than-10-years)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
