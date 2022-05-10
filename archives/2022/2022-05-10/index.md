@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 16:08:43](https://news.ycombinator.com/item?id=31328783) - [Supabase (YC S20) raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
+* [2022-05-10, 16:04:44](https://news.ycombinator.com/item?id=31328740) - [Apple discontinues iPod touch, ending 20 year run of iconic ‘iPod’ brand](https://9to5mac.com/2022/05/10/apple-discontinues-ipod-touch/)
+* [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [The Music Lives On](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
+* [2022-05-10, 15:49:41](https://news.ycombinator.com/item?id=31328542) - [Intel’s Core i9-12950HX has 16 cores and 55 watts of power](https://www.theverge.com/2022/5/10/23065131/intel-core-i9-12950hx-mobile-laptop-processor-16-cores-55-watts)
 * [2022-05-10, 15:37:08](https://news.ycombinator.com/item?id=31328385) - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
 * [2022-05-10, 15:22:35](https://news.ycombinator.com/item?id=31328205) - [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
 * [2022-05-10, 15:03:51](https://news.ycombinator.com/item?id=31327966) - [Someone wrote a PhD thesis on bells](https://www.hibberts.co.uk/)
