@@ -61,6 +61,7 @@
 * [2022-05-08, 09:40:59](https://news.ycombinator.com/item?id=31302572) - [Lessons learned from the recent job hunt](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/)
 * [2022-05-08, 09:28:14](https://news.ycombinator.com/item?id=31302508) - [Creating a Culture of Innovation](https://changelog.com/practicalai/170)
 * [2022-05-08, 09:26:10](https://news.ycombinator.com/item?id=31302494) - [Ask HN: Why is Hacker News so anti-crypto?](https://twitter.com/wireless_anon/status/1523225951655448577)
+* [2022-05-08, 09:00:27](https://news.ycombinator.com/item?id=31302395) - [Sugar – Candy Machine Rust CLI](https://github.com/metaplex-foundation/sugar)
 * [2022-05-08, 08:59:28](https://news.ycombinator.com/item?id=31302391) - [Ask HN: How do I get my Google account back?](https://news.ycombinator.com/item?id=31302391)
 * [2022-05-08, 08:42:43](https://news.ycombinator.com/item?id=31302314) - [Show HN: Thanks to BeAware, Deaf iPhone users have a free alerting device (OSS)](https://www.deafassistant.com/)
 * [2022-05-08, 08:41:17](https://news.ycombinator.com/item?id=31302310) - [No Fixed Address Bank Account](https://www.hsbc.co.uk/help/money-worries/no-fixed-address/)
