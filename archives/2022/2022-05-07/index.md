@@ -49,6 +49,7 @@
 * [2022-05-07, 11:35:16](https://news.ycombinator.com/item?id=31293727) - [Show HN: I Made a Virtual Bookshelf](https://petargyurov.com/bookshelf/)
 * [2022-05-07, 11:32:52](https://news.ycombinator.com/item?id=31293716) - [TatSu takes grammars in variation of EBNF, outputs memoizing Python PEG parsers](https://github.com/neogeny/TatSu)
 * [2022-05-07, 11:25:42](https://news.ycombinator.com/item?id=31293686) - [Bytebeat Composer](https://dollchan.net/bytebeat/#v3b64q1ZKzk9JVbJSKtHSKFEzNDO2MLE3szLV1NIw0dUwVCuxs7PQ1LSz0zBW0wWyLTVrgKSZUi0A)
+* [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 11:21:31](https://news.ycombinator.com/item?id=31293668) - [Roland TR-808 Cowbell Rebuild](http://www.frisnit.com/roland-tr-808-cowbell-rebuild/)
 * [2022-05-07, 10:40:22](https://news.ycombinator.com/item?id=31293488) - [RSS Feed Best Practices](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
 * [2022-05-07, 10:31:31](https://news.ycombinator.com/item?id=31293451) - [Ask HN: What should I use instead of Heroku?](https://news.ycombinator.com/item?id=31293451)
