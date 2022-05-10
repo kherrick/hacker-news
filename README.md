@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
+* [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:17:04](https://news.ycombinator.com/item?id=31323397) - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
@@ -16,7 +17,6 @@
 * [2022-05-09, 21:21:50](https://news.ycombinator.com/item?id=31319920) - [Day trader army loses all the money it made in meme-stock era](https://www.bloomberg.com/news/articles/2022-05-08/day-trader-army-loses-all-the-money-it-made-in-meme-stock-era)
 * [2022-05-09, 21:18:10](https://news.ycombinator.com/item?id=31319885) - [AV1 Video Codec](https://aomedia.org/av1/)
 * [2022-05-09, 21:07:53](https://news.ycombinator.com/item?id=31319768) - [Webb Telescope Image Sharpness Check](https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus)
-* [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (1998)](https://harpers.org/archive/1998/11/the-radioactive-boy-scout/)
 * [2022-05-09, 17:27:27](https://news.ycombinator.com/item?id=31317037) - [Hacks for Engineering Estimates](https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/)
