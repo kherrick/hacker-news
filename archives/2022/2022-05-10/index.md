@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 12:51:16](https://news.ycombinator.com/item?id=31326460) - [Air-breathing electric propulsion for long-term orbital stability](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
+* [2022-05-10, 12:41:29](https://news.ycombinator.com/item?id=31326353) - [After losing contact with its helicopter, NASA put the Mars mission on hold](https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/)
+* [2022-05-10, 12:08:46](https://news.ycombinator.com/item?id=31326093) - [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 * [2022-05-10, 12:03:38](https://news.ycombinator.com/item?id=31326052) - [Managing Python Versions with Pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
 * [2022-05-10, 12:00:42](https://news.ycombinator.com/item?id=31326022) - [Poll Everywhere (YC S08) Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
 * [2022-05-10, 11:44:41](https://news.ycombinator.com/item?id=31325907) - [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
 * [2022-05-10, 11:43:24](https://news.ycombinator.com/item?id=31325893) - [Ask HN: How many computers you got?](https://news.ycombinator.com/item?id=31325893)
+* [2022-05-10, 11:01:20](https://news.ycombinator.com/item?id=31325614) - [Tech Industry Warns That More Remote-Work Jobs Are Headed Out of U.S.](https://www.wsj.com/articles/tech-industry-warns-that-more-remote-work-jobs-are-headed-out-of-u-s-11652175000)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Peridot: A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
 * [2022-05-10, 09:44:03](https://news.ycombinator.com/item?id=31325191) - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)

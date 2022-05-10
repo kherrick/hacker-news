@@ -30,6 +30,7 @@
 * [2022-05-08, 16:44:26](https://news.ycombinator.com/item?id=31305672) - [What happens if Twitter gets encrypted DMs?](https://getsession.org/blog)
 * [2022-05-08, 16:44:04](https://news.ycombinator.com/item?id=31305663) - [The shame industrial complex is booming](https://www.nytimes.com/2022/03/26/books/review/cathy-oneil-the-shame-machine.html)
 * [2022-05-08, 16:21:13](https://news.ycombinator.com/item?id=31305446) - [Ask HN: Are there any good poverty simulator games?](https://news.ycombinator.com/item?id=31305446)
+* [2022-05-08, 16:13:16](https://news.ycombinator.com/item?id=31305368) - [Pinball Takes Buttons: Building a Controller for Panic Road](https://nicole.express/2022/panic-at-the-road.html)
 * [2022-05-08, 16:11:02](https://news.ycombinator.com/item?id=31305341) - [Tell HN: I was permanently banned from eBay in one hour](https://news.ycombinator.com/item?id=31305341)
 * [2022-05-08, 15:25:03](https://news.ycombinator.com/item?id=31304897) - [Show HN: CaskDB – project to teach you building a key value store](https://github.com/avinassh/py-caskdb)
 * [2022-05-08, 15:17:19](https://news.ycombinator.com/item?id=31304808) - [Ask HN: Any Open Library Memberships?](https://news.ycombinator.com/item?id=31304808)
