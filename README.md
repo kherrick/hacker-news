@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
+* [2022-05-10, 18:07:15](https://news.ycombinator.com/item?id=31330342) - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
+* [2022-05-10, 18:04:11](https://news.ycombinator.com/item?id=31330281) - [Web3.0 Must Be Destroyed](https://webtwoboomer.com/web3-0-must-be-destroyed-57803329ee47?gi=3d95f2f722db)
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 * [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
@@ -23,13 +26,10 @@
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Peridot: A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
 * [2022-05-10, 09:44:03](https://news.ycombinator.com/item?id=31325191) - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
-* [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – A better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
-* [2022-05-09, 19:38:00](https://news.ycombinator.com/item?id=31318733) - [Zsh-autoquoter makes shell quoting slightly less annoying](https://ianthehenry.com/posts/zsh-autoquoter/)
 * [2022-05-09, 08:29:14](https://news.ycombinator.com/item?id=31311811) - [How to Multiply Roman Numerals](https://rbutterworth.nfshost.com/Tables/romanmult/)
 * [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
-* [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 
 ## [Archives](archives/index.md)
 

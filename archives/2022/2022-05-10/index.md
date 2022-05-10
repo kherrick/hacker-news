@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
+* [2022-05-10, 18:07:15](https://news.ycombinator.com/item?id=31330342) - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
+* [2022-05-10, 18:04:11](https://news.ycombinator.com/item?id=31330281) - [Web3.0 Must Be Destroyed](https://webtwoboomer.com/web3-0-must-be-destroyed-57803329ee47?gi=3d95f2f722db)
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 * [2022-05-10, 17:04:05](https://news.ycombinator.com/item?id=31329512) - [Apple discontinues the iPod after 20 years](https://www.theverge.com/2022/5/10/23065412/apple-ipod-touch-canceled-discontinued)
