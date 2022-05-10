@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 03:20:52](https://news.ycombinator.com/item?id=31323055) - [Show HN: A CLI to kick-start any language](https://news.ycombinator.com/item?id=31323055)
 * [2022-05-10, 01:42:25](https://news.ycombinator.com/item?id=31322379) - [Cloud TPU VMs are generally available](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available)
 * [2022-05-10, 00:25:53](https://news.ycombinator.com/item?id=31321768) - [The White House’s weirdly hip record collection](https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/)
 * [2022-05-10, 00:21:46](https://news.ycombinator.com/item?id=31321732) - [Coinbase stock lost over 75% value](https://www.google.com/search?q=coinbase+stock)
@@ -15,7 +16,6 @@
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (2009)](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
-* [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
 * [2022-05-09, 16:57:21](https://news.ycombinator.com/item?id=31316602) - [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
