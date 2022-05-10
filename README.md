@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 23:38:01](https://news.ycombinator.com/item?id=31334034) - [The problem with “doing your own research”](https://thinkingispower.com/the-problem-with-doing-your-own-research/)
+* [2022-05-10, 23:29:35](https://news.ycombinator.com/item?id=31333981) - [Why do USB-C hubs still have USB 2.0 ports?](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
 * [2022-05-10, 22:50:43](https://news.ycombinator.com/item?id=31333685) - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
@@ -7,6 +9,7 @@
 * [2022-05-10, 21:30:09](https://news.ycombinator.com/item?id=31332982) - [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
 * [2022-05-10, 21:01:14](https://news.ycombinator.com/item?id=31332660) - [Tesorio (YC S15) Is Hiring Senior Quality Engineers and Product Managers](https://www.tesorio.com/careers#job-openings)
 * [2022-05-10, 20:55:03](https://news.ycombinator.com/item?id=31332590) - [Red Hat in-vehicle operating system in modern and future vehicles](https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles)
+* [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
 * [2022-05-10, 20:35:38](https://news.ycombinator.com/item?id=31332334) - [Upside-Down-Ternet (2007)](http://www.ex-parrot.com/pete/upside-down-ternet.html)
 * [2022-05-10, 20:09:27](https://news.ycombinator.com/item?id=31332018) - [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
@@ -23,12 +26,9 @@
 * [2022-05-10, 14:12:32](https://news.ycombinator.com/item?id=31327353) - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We need a middle class for startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 * [2022-05-10, 12:31:12](https://news.ycombinator.com/item?id=31326276) - [No Damned Computer Is Going to Tell Me What to Do – Story of Naval Data System](https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS)
-* [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Show HN: Peridot – A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
-* [2022-05-08, 08:36:31](https://news.ycombinator.com/item?id=31302296) - [Human-Free Construction (2018)](https://www.forconstructionpros.com/profit-matters/article/20987766/countdown-to-humanfree-construction-in-less-than-10-years)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-08, 07:29:45](https://news.ycombinator.com/item?id=31302024) - [ILOQ: Physical lock with AES 256 support](https://www.iloq.com/en/single_product/oval-cylinder-c5s-1-sb-se/)
 * [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
-* [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 
 ## [Archives](archives/index.md)
