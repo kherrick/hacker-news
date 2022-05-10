@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 23:39:59](https://news.ycombinator.com/item?id=31334044) - [Why “Staying Out of It” Backfires in Moral and Political Disagreements[pdf]](https://static1.squarespace.com/static/594d74ab1b631b0c28cdf456/t/6263a5367b211a35fe6c968c/1650697530782/2022-54630-001.pdf)
 * [2022-05-10, 23:38:01](https://news.ycombinator.com/item?id=31334034) - [The problem with “doing your own research”](https://thinkingispower.com/the-problem-with-doing-your-own-research/)
 * [2022-05-10, 23:29:35](https://news.ycombinator.com/item?id=31333981) - [Why do USB-C hubs still have USB 2.0 ports?](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
+* [2022-05-10, 23:03:10](https://news.ycombinator.com/item?id=31333783) - [Slik: A data processing and modelling Python library](https://slik-wrangler.medium.com/introducing-slik-a-data-processing-and-modelling-python-library-5cfd837ce01b)
 * [2022-05-10, 22:50:43](https://news.ycombinator.com/item?id=31333685) - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)

@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 23:39:59](https://news.ycombinator.com/item?id=31334044) - [Why “Staying Out of It” Backfires in Moral and Political Disagreements[pdf]](https://static1.squarespace.com/static/594d74ab1b631b0c28cdf456/t/6263a5367b211a35fe6c968c/1650697530782/2022-54630-001.pdf)
 * [2022-05-10, 23:38:01](https://news.ycombinator.com/item?id=31334034) - [The problem with “doing your own research”](https://thinkingispower.com/the-problem-with-doing-your-own-research/)
 * [2022-05-10, 23:29:35](https://news.ycombinator.com/item?id=31333981) - [Why do USB-C hubs still have USB 2.0 ports?](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
+* [2022-05-10, 23:03:10](https://news.ycombinator.com/item?id=31333783) - [Slik: A data processing and modelling Python library](https://slik-wrangler.medium.com/introducing-slik-a-data-processing-and-modelling-python-library-5cfd837ce01b)
 * [2022-05-10, 22:50:43](https://news.ycombinator.com/item?id=31333685) - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
@@ -12,7 +14,6 @@
 * [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
 * [2022-05-10, 20:35:38](https://news.ycombinator.com/item?id=31332334) - [Upside-Down-Ternet (2007)](http://www.ex-parrot.com/pete/upside-down-ternet.html)
 * [2022-05-10, 20:09:27](https://news.ycombinator.com/item?id=31332018) - [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
-* [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences (2019)](https://milan.cvitkovic.net/writing/rules_for_conferences/)
 * [2022-05-10, 17:31:27](https://news.ycombinator.com/item?id=31329834) - [The day I discovered that Apple Maps is Kind of Good now](https://xkcd.com/2617/)
 * [2022-05-10, 17:14:46](https://news.ycombinator.com/item?id=31329615) - [Query serving systems: An emerging category of data systems](http://petereliaskraft.net/blog/query-serving-systems)
@@ -29,7 +30,6 @@
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-08, 07:29:45](https://news.ycombinator.com/item?id=31302024) - [ILOQ: Physical lock with AES 256 support](https://www.iloq.com/en/single_product/oval-cylinder-c5s-1-sb-se/)
 * [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
-* [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 
 ## [Archives](archives/index.md)
 
