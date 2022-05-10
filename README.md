@@ -14,7 +14,6 @@
 * [2022-05-09, 21:07:53](https://news.ycombinator.com/item?id=31319768) - [Webb Telescope Image Sharpness Check](https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus)
 * [2022-05-09, 21:00:19](https://news.ycombinator.com/item?id=31319677) - [Flexport (YC W14) Is Hiring](https://flexport.com/careers)
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
-* [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (2009)](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
 * [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
 * [2022-05-09, 16:57:21](https://news.ycombinator.com/item?id=31316602) - [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
@@ -30,6 +29,7 @@
 * [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 20:05:46](https://news.ycombinator.com/item?id=31307646) - [Project Denver](https://en.wikipedia.org/wiki/Project_Denver)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
+* [2022-05-08, 07:51:12](https://news.ycombinator.com/item?id=31302113) - [Silicom PE2G6I35-R Review 6-port Intel i350 NIC (2021)](https://www.servethehome.com/silicom-pe2g6i35-review-intel-i350-nic/)
 
 ## [Archives](archives/index.md)
 

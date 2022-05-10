@@ -66,6 +66,7 @@
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 * [2022-05-08, 08:32:24](https://news.ycombinator.com/item?id=31302280) - [Why You Should Think Twice About Wanting to Work on Weekends](https://www.wsj.com/articles/why-want-work-weekend-11651256000)
 * [2022-05-08, 08:06:38](https://news.ycombinator.com/item?id=31302174) - [Jeffrey Snower was originally demoted over PowerShell](https://twitter.com/jsnover/status/1523010444570419200)
+* [2022-05-08, 07:51:12](https://news.ycombinator.com/item?id=31302113) - [Silicom PE2G6I35-R Review 6-port Intel i350 NIC (2021)](https://www.servethehome.com/silicom-pe2g6i35-review-intel-i350-nic/)
 * [2022-05-08, 07:47:00](https://news.ycombinator.com/item?id=31302087) - [Rust is hard, yes, but does it matter?](https://jmmv.dev/2022/05/rust-is-hard-but-does-it-matter.html)
 * [2022-05-08, 07:46:53](https://news.ycombinator.com/item?id=31302086) - [(Yet Another) Lisp in Go](http://johnj.com/posts/l1/)
 * [2022-05-08, 06:38:58](https://news.ycombinator.com/item?id=31301865) - [Maps All Through the Ages](https://www.geospatialworld.net/prime/maps-all-through-the-ages/)
