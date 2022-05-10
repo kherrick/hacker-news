@@ -14,6 +14,7 @@
 * [2022-05-08, 21:00:51](https://news.ycombinator.com/item?id=31308099) - [Use fzf for tmux session switching](https://waylonwalker.com/tmux-fzf-session-jump/)
 * [2022-05-08, 20:37:55](https://news.ycombinator.com/item?id=31307925) - [Compiling an OpenBSD kernel 50% faster](https://flak.tedunangst.com/post/compiling-an-openbsd-kernel-50-faster)
 * [2022-05-08, 20:27:16](https://news.ycombinator.com/item?id=31307846) - [Kiss Linux](https://web.archive.org/web/20200528200318/https://k1ss.org/)
+* [2022-05-08, 20:05:46](https://news.ycombinator.com/item?id=31307646) - [Project Denver](https://en.wikipedia.org/wiki/Project_Denver)
 * [2022-05-08, 19:06:48](https://news.ycombinator.com/item?id=31307123) - [Regex Vis – regular expression visualizer](https://regex-vis.com/?r=%5E%28%28%5BhH%5Dacker%29%5B+%5D%3F%28%5BnN%5Dews%7Cnewsletter%29%29%24)
 * [2022-05-08, 18:57:25](https://news.ycombinator.com/item?id=31307006) - [RustBelt: Securing the Foundations of the Rust Programming Language (2018) [pdf]](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
 * [2022-05-08, 18:09:53](https://news.ycombinator.com/item?id=31306507) - [Ask HN: WFH – will I be outsourced?](https://news.ycombinator.com/item?id=31306507)
