@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
+* [2022-05-10, 19:16:40](https://news.ycombinator.com/item?id=31331339) - [You shouldn't invest in the crypto currency?](https://rohitgupta.bearblog.dev/why-you-shouldnt-invest-in-the-crypto-currency/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
 * [2022-05-10, 18:07:15](https://news.ycombinator.com/item?id=31330342) - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 * [2022-05-10, 18:04:11](https://news.ycombinator.com/item?id=31330281) - [Web3.0 Must Be Destroyed](https://webtwoboomer.com/web3-0-must-be-destroyed-57803329ee47?gi=3d95f2f722db)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
+* [2022-05-10, 19:16:40](https://news.ycombinator.com/item?id=31331339) - [You shouldn't invest in the crypto currency?](https://rohitgupta.bearblog.dev/why-you-shouldnt-invest-in-the-crypto-currency/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
 * [2022-05-10, 18:07:15](https://news.ycombinator.com/item?id=31330342) - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
@@ -13,7 +14,7 @@
 * [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [The Music Lives On](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
 * [2022-05-10, 15:37:08](https://news.ycombinator.com/item?id=31328385) - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
 * [2022-05-10, 15:22:35](https://news.ycombinator.com/item?id=31328205) - [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
-* [2022-05-10, 15:03:51](https://news.ycombinator.com/item?id=31327966) - [Someone wrote a PhD thesis on bells](https://www.hibberts.co.uk/)
+* [2022-05-10, 15:03:51](https://news.ycombinator.com/item?id=31327966) - [The Sound of Bells – The acoustics, sound, tuning and history of church bells](https://www.hibberts.co.uk/)
 * [2022-05-10, 14:47:59](https://news.ycombinator.com/item?id=31327766) - [Give me back my monolith (2019)](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 * [2022-05-10, 14:12:32](https://news.ycombinator.com/item?id=31327353) - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
 * [2022-05-10, 14:10:20](https://news.ycombinator.com/item?id=31327328) - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)
@@ -29,7 +30,6 @@
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane Accidentally Flew Around the World (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
-* [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 
 ## [Archives](archives/index.md)
 
