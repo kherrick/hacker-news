@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
 * [2022-05-10, 20:35:38](https://news.ycombinator.com/item?id=31332334) - [Upside-Down-Ternet (2007)](http://www.ex-parrot.com/pete/upside-down-ternet.html)
 * [2022-05-10, 20:25:49](https://news.ycombinator.com/item?id=31332207) - [Coinbase Q1/22 Shareholder Letter [pdf]](https://s27.q4cdn.com/397450999/files/doc_financials/2022/q1/Coinbase-Q122-Shareholder-Letter.pdf)
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
@@ -29,7 +30,6 @@
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
-* [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 
 ## [Archives](archives/index.md)
 
