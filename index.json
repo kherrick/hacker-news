@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-05-10, 09:44:03",
-      "https://news.ycombinator.com/item?id=31325191"
+      "2022-05-10, 12:03:38",
+      "https://news.ycombinator.com/item?id=31326052"
     ],
     [
-      "Can a laptop from 2012 be a viable home server?",
-      "https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/"
+      "Managing Python Versions with Pyenv",
+      "https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 12:00:42",
+      "https://news.ycombinator.com/item?id=31326022"
+    ],
+    [
+      "Poll Everywhere (YC S08) Is Hiring Rails/Turbo Engineers",
+      "https://jobs.lever.co/polleverywhere"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 11:44:41",
+      "https://news.ycombinator.com/item?id=31325907"
+    ],
+    [
+      "2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine",
+      "https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 11:43:24",
+      "https://news.ycombinator.com/item?id=31325893"
+    ],
+    [
+      "Ask HN: How many computers you got?",
+      "https://news.ycombinator.com/item?id=31325893"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 10:56:04",
+      "https://news.ycombinator.com/item?id=31325581"
+    ],
+    [
+      "Peridot: A functional language based on two-level type theory",
+      "https://github.com/eashanhatti/peridot"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Kornia: Differential Computer Vision",
       "https://github.com/kornia/kornia"
-    ]
-  ],
-  [
-    [
-      "2022-05-10, 00:25:53",
-      "https://news.ycombinator.com/item?id=31321768"
-    ],
-    [
-      "The White House’s weirdly hip record collection",
-      "https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2022-05-09, 14:01:31",
-      "https://news.ycombinator.com/item?id=31314093"
-    ],
-    [
-      "Writing HTML sucks and No-code doesn't help",
-      "https://rogovoy.me/blog/writing-html-sucks"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 13:54:18",
       "https://news.ycombinator.com/item?id=31314006"
     ],
     [
       "Using Java's Project Loom to build more reliable distributed systems",
       "https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 02:46:29",
-      "https://news.ycombinator.com/item?id=31309960"
-    ],
-    [
-      "The Two Generals Problem",
-      "https://haydenjames.io/the-two-generals-problem/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 08:36:57",
-      "https://news.ycombinator.com/item?id=31302297"
-    ],
-    [
-      "Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe",
-      "https://github.com/equant/apple2idiot"
     ]
   ],
   [
