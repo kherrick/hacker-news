@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-10, 21:46:55",
+      "https://news.ycombinator.com/item?id=31333146"
+    ],
+    [
+      "A Simple Hash for Perlin Noise",
+      "https://marcospereira.me/a-simple-hash-for-perlin-noise/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 21:30:09",
+      "https://news.ycombinator.com/item?id=31332982"
+    ],
+    [
+      "Show HN: A Swiss army knife for testing HTTP from the terminal",
+      "https://news.ycombinator.com/item?id=31332982"
+    ]
+  ],
+  [
+    [
       "2022-05-10, 21:01:14",
       "https://news.ycombinator.com/item?id=31332660"
     ],
@@ -77,6 +97,16 @@
     [
       "The day I discovered that Apple Maps is Kind of Good now",
       "https://xkcd.com/2617/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 17:14:46",
+      "https://news.ycombinator.com/item?id=31329615"
+    ],
+    [
+      "Query serving systems: An emerging category of data systems",
+      "http://petereliaskraft.net/blog/query-serving-systems"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-05-10, 12:51:16",
-      "https://news.ycombinator.com/item?id=31326460"
-    ],
-    [
-      "Air-breathing electric propulsion for long-term orbital stability (2021)",
-      "https://www.sciencedirect.com/science/article/pii/S009457652100607X"
-    ]
-  ],
-  [
-    [
       "2022-05-10, 12:31:12",
       "https://news.ycombinator.com/item?id=31326276"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-05-10, 12:08:46",
-      "https://news.ycombinator.com/item?id=31326093"
-    ],
-    [
-      "Global decline in ocean memory over the 21st century",
-      "https://www.science.org/doi/10.1126/sciadv.abm3468"
-    ]
-  ],
-  [
-    [
       "2022-05-10, 10:56:04",
       "https://news.ycombinator.com/item?id=31325581"
     ],
     [
       "Show HN: Peridot – A functional language based on two-level type theory",
       "https://github.com/eashanhatti/peridot"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 08:29:14",
-      "https://news.ycombinator.com/item?id=31311811"
-    ],
-    [
-      "How to Multiply Roman Numerals",
-      "https://rbutterworth.nfshost.com/Tables/romanmult/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-05-08, 06:40:51",
+      "https://news.ycombinator.com/item?id=31301876"
+    ],
+    [
+      "LeoVue",
+      "https://kaleguy.github.io/leovue/#/t/2"
+    ]
+  ],
+  [
+    [
       "2022-05-07, 11:24:54",
       "https://news.ycombinator.com/item?id=31293682"
     ],
@@ -287,16 +297,6 @@
     [
       "Eve Online fans cheer Microsoft Excel features at annual Fanfest",
       "https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/"
-    ]
-  ],
-  [
-    [
-      "2022-05-07, 05:35:50",
-      "https://news.ycombinator.com/item?id=31292388"
-    ],
-    [
-      "Hacking F-117A",
-      "https://github.com/debugcom/Hacking-F117A"
     ]
   ]
 ]
