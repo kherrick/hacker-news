@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-10, 12:51:16",
+      "https://news.ycombinator.com/item?id=31326460"
+    ],
+    [
+      "Air-breathing electric propulsion for long-term orbital stability",
+      "https://www.sciencedirect.com/science/article/pii/S009457652100607X"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 12:41:29",
+      "https://news.ycombinator.com/item?id=31326353"
+    ],
+    [
+      "After losing contact with its helicopter, NASA put the Mars mission on hold",
+      "https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 12:08:46",
+      "https://news.ycombinator.com/item?id=31326093"
+    ],
+    [
+      "Global decline in ocean memory over the 21st century",
+      "https://www.science.org/doi/10.1126/sciadv.abm3468"
+    ]
+  ],
+  [
+    [
       "2022-05-10, 12:03:38",
       "https://news.ycombinator.com/item?id=31326052"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2022-05-10, 11:43:24",
-      "https://news.ycombinator.com/item?id=31325893"
+      "2022-05-10, 11:01:20",
+      "https://news.ycombinator.com/item?id=31325614"
     ],
     [
-      "Ask HN: How many computers you got?",
-      "https://news.ycombinator.com/item?id=31325893"
+      "Tech Industry Warns That More Remote-Work Jobs Are Headed Out of U.S.",
+      "https://www.wsj.com/articles/tech-industry-warns-that-more-remote-work-jobs-are-headed-out-of-u-s-11652175000"
     ]
   ],
   [
@@ -151,6 +181,16 @@
   ],
   [
     [
+      "2022-05-10, 00:25:53",
+      "https://news.ycombinator.com/item?id=31321768"
+    ],
+    [
+      "The White House’s weirdly hip record collection",
+      "https://www.washingtonian.com/2022/05/03/the-untold-story-of-the-white-houses-weirdly-hip-record-collection/"
+    ]
+  ],
+  [
+    [
       "2022-05-09, 23:01:57",
       "https://news.ycombinator.com/item?id=31321021"
     ],
@@ -161,62 +201,12 @@
   ],
   [
     [
-      "2022-05-09, 22:21:25",
-      "https://news.ycombinator.com/item?id=31320610"
-    ],
-    [
-      "A CEO's Guide to Emacs (2015)",
-      "https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 22:13:42",
-      "https://news.ycombinator.com/item?id=31320519"
-    ],
-    [
-      "How to have a billion dollar exit with zero capital gains tax",
-      "https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 21:57:24",
       "https://news.ycombinator.com/item?id=31320335"
     ],
     [
       "Show HN: A Spatial Environment for Python",
       "https://python.natto.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 21:21:50",
-      "https://news.ycombinator.com/item?id=31319920"
-    ],
-    [
-      "Day trader army loses all the money it made in meme-stock era",
-      "https://www.bloomberg.com/news/articles/2022-05-08/day-trader-army-loses-all-the-money-it-made-in-meme-stock-era"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 21:18:10",
-      "https://news.ycombinator.com/item?id=31319885"
-    ],
-    [
-      "AV1 Video Codec",
-      "https://aomedia.org/av1/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 21:07:53",
-      "https://news.ycombinator.com/item?id=31319768"
-    ],
-    [
-      "Webb Telescope Image Sharpness Check",
-      "https://www.esa.int/ESA_Multimedia/Images/2022/04/Webb_in_full_focus"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2022-05-09, 13:54:18",
-      "https://news.ycombinator.com/item?id=31314006"
+      "2022-05-08, 16:13:16",
+      "https://news.ycombinator.com/item?id=31305368"
     ],
     [
-      "Using Java's Project Loom to build more reliable distributed systems",
-      "https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/"
+      "Pinball Takes Buttons: Building a Controller for Panic Road",
+      "https://nicole.express/2022/panic-at-the-road.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 08:36:57",
+      "https://news.ycombinator.com/item?id=31302297"
+    ],
+    [
+      "Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe",
+      "https://github.com/equant/apple2idiot"
     ]
   ],
   [
