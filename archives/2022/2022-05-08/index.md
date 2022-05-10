@@ -66,6 +66,7 @@
 * [2022-05-08, 08:42:43](https://news.ycombinator.com/item?id=31302314) - [Show HN: Thanks to BeAware, Deaf iPhone users have a free alerting device (OSS)](https://www.deafassistant.com/)
 * [2022-05-08, 08:41:17](https://news.ycombinator.com/item?id=31302310) - [No Fixed Address Bank Account](https://www.hsbc.co.uk/help/money-worries/no-fixed-address/)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
+* [2022-05-08, 08:36:31](https://news.ycombinator.com/item?id=31302296) - [Human-Free Construction (2018)](https://www.forconstructionpros.com/profit-matters/article/20987766/countdown-to-humanfree-construction-in-less-than-10-years)
 * [2022-05-08, 08:32:24](https://news.ycombinator.com/item?id=31302280) - [Why You Should Think Twice About Wanting to Work on Weekends](https://www.wsj.com/articles/why-want-work-weekend-11651256000)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane Accidentally Flew Around the World (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-08, 08:06:38](https://news.ycombinator.com/item?id=31302174) - [Jeffrey Snower was originally demoted over PowerShell](https://twitter.com/jsnover/status/1523010444570419200)
