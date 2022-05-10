@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-10, 19:24:02](https://news.ycombinator.com/item?id=31331438) - [Eurovision Diaries](https://m-m-pr.com/eurovision-diaries/)
-* [2022-05-10, 19:16:40](https://news.ycombinator.com/item?id=31331339) - [You shouldn't invest in the crypto currency?](https://rohitgupta.bearblog.dev/why-you-shouldnt-invest-in-the-crypto-currency/)
 * [2022-05-10, 18:27:23](https://news.ycombinator.com/item?id=31330643) - [Rules for Conferences](https://milan.cvitkovic.net/writing/rules_for_conferences/)
 * [2022-05-10, 18:07:15](https://news.ycombinator.com/item?id=31330342) - [AltTab – Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 * [2022-05-10, 17:46:10](https://news.ycombinator.com/item?id=31330035) - [FAA Changes Course on EVTOL Certification](https://theaircurrent.com/aircraft-development/faa-changes-course-on-evtol-certification/)
@@ -9,9 +8,10 @@
 * [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2022-05-10, 16:45:59](https://news.ycombinator.com/item?id=31329269) - [EA and the Current Funding Situation](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation)
 * [2022-05-10, 16:44:53](https://news.ycombinator.com/item?id=31329247) - [The ACLU Has Lost Its Way](https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808/)
+* [2022-05-10, 16:33:06](https://news.ycombinator.com/item?id=31329076) - [Yahoo Japan's password-free authentication reduced inquiries by 25%, sped up](https://web.dev/yahoo-japan-identity-case-study/)
 * [2022-05-10, 16:08:43](https://news.ycombinator.com/item?id=31328783) - [Supabase (YC S20) raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
 * [2022-05-10, 16:04:44](https://news.ycombinator.com/item?id=31328740) - [Apple discontinues iPod touch, ending 20 year run of iconic ‘iPod’ brand](https://9to5mac.com/2022/05/10/apple-discontinues-ipod-touch/)
-* [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [The Music Lives On](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
+* [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [Apple is discontinuing the iPod](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
 * [2022-05-10, 15:37:08](https://news.ycombinator.com/item?id=31328385) - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
 * [2022-05-10, 15:22:35](https://news.ycombinator.com/item?id=31328205) - [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
 * [2022-05-10, 15:03:51](https://news.ycombinator.com/item?id=31327966) - [The Sound of Bells – The acoustics, sound, tuning and history of church bells](https://www.hibberts.co.uk/)
@@ -25,11 +25,11 @@
 * [2022-05-10, 12:08:46](https://news.ycombinator.com/item?id=31326093) - [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Peridot: A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
-* [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-09, 08:29:14](https://news.ycombinator.com/item?id=31311811) - [How to Multiply Roman Numerals](https://rbutterworth.nfshost.com/Tables/romanmult/)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane Accidentally Flew Around the World (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 * [2022-05-07, 11:24:54](https://news.ycombinator.com/item?id=31293682) - [3D Animated Rollercoaster in Excel (2011)](https://www.youtube.com/watch?v=IrVA1BBHFHw)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
+* [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 
 ## [Archives](archives/index.md)
 
