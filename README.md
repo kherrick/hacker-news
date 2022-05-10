@@ -25,9 +25,9 @@
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 02:46:29](https://news.ycombinator.com/item?id=31309960) - [The Two Generals Problem](https://haydenjames.io/the-two-generals-problem/)
+* [2022-05-09, 00:59:10](https://news.ycombinator.com/item?id=31309434) - [Auguste Deter](https://en.wikipedia.org/wiki/Auguste_Deter)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 * [2022-05-08, 05:36:19](https://news.ycombinator.com/item?id=31301627) - [What Is JSON Patch?](http://jsonpatch.com/)
-* [2022-05-07, 08:36:49](https://news.ycombinator.com/item?id=31293030) - [Steps to Organizational Change Without the Drama](https://medium.com/glia-tech/four-steps-to-organizational-change-without-the-drama-4790fd6b8c72)
 * [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 * [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 
