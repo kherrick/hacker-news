@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-10](index.md)
 
+* [2022-05-10, 17:01:11](https://news.ycombinator.com/item?id=31329460) - [GiveCampus (YC S15) Is Hiring US-remote software engineers to benefit education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2022-05-10, 16:54:01](https://news.ycombinator.com/item?id=31329368) - [Chat control: EU Commission presents mass surveillance plan on May 11](https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%ef%bf%bc/)
+* [2022-05-10, 16:45:59](https://news.ycombinator.com/item?id=31329269) - [EA and the Current Funding Situation](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation)
+* [2022-05-10, 16:44:53](https://news.ycombinator.com/item?id=31329247) - [The ACLU Has Lost Its Way](https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808/)
 * [2022-05-10, 16:08:43](https://news.ycombinator.com/item?id=31328783) - [Supabase (YC S20) raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
 * [2022-05-10, 16:04:44](https://news.ycombinator.com/item?id=31328740) - [Apple discontinues iPod touch, ending 20 year run of iconic ‘iPod’ brand](https://9to5mac.com/2022/05/10/apple-discontinues-ipod-touch/)
 * [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [The Music Lives On](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
