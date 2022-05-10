@@ -2,7 +2,6 @@
 
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:17:04](https://news.ycombinator.com/item?id=31323397) - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
-* [2022-05-10, 04:16:59](https://news.ycombinator.com/item?id=31323396) - [The Opportunity Atlas](https://www.opportunityatlas.org/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
 * [2022-05-10, 04:02:46](https://news.ycombinator.com/item?id=31323313) - [Long-Chain Omega-3 Fatty Acids Improve Brain Function, Structure in Older Adults (2014)](https://academic.oup.com/cercor/article/24/11/3059/304487)
 * [2022-05-10, 03:48:03](https://news.ycombinator.com/item?id=31323227) - [The Problem with Slack at Scale](https://liorn.substack.com/p/the-problem-with-slack)
@@ -29,6 +28,7 @@
 * [2022-05-09, 02:46:29](https://news.ycombinator.com/item?id=31309960) - [The Two Generals Problem](https://haydenjames.io/the-two-generals-problem/)
 * [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
+* [2022-05-08, 07:51:12](https://news.ycombinator.com/item?id=31302113) - [Silicom PE2G6I35-R Review 6-port Intel i350 NIC (2021)](https://www.servethehome.com/silicom-pe2g6i35-review-intel-i350-nic/)
 * [2022-05-07, 08:36:49](https://news.ycombinator.com/item?id=31293030) - [Steps to Organizational Change Without the Drama](https://medium.com/glia-tech/four-steps-to-organizational-change-without-the-drama-4790fd6b8c72)
 
 ## [Archives](archives/index.md)
