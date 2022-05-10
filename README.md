@@ -15,7 +15,7 @@
 * [2022-05-09, 19:35:41](https://news.ycombinator.com/item?id=31318708) - [I'm all-in on server-side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2022-05-09, 19:24:38](https://news.ycombinator.com/item?id=31318574) - [Flares from black hole binaries: black hole shadows via light-curve tomography](https://arxiv.org/abs/2112.05829)
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (2009)](https://talesfromthenuclearage.wordpress.com/2009/12/13/the-radioactive-boy-scout/)
-* [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond message passing: A physics-inspired paradigm for graph neural networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
+* [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – Live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
 * [2022-05-09, 16:57:21](https://news.ycombinator.com/item?id=31316602) - [I’m going to miss you, but I am taking a sabbatical](https://kottke.org/22/05/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
@@ -27,8 +27,8 @@
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 12:53:56](https://news.ycombinator.com/item?id=31313449) - [The Making Of Grand Theft Auto (1996) [video]](https://www.youtube.com/watch?v=7vWSi44ZTSw)
 * [2022-05-09, 02:46:29](https://news.ycombinator.com/item?id=31309960) - [The Two Generals Problem](https://haydenjames.io/the-two-generals-problem/)
+* [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-08, 20:05:46](https://news.ycombinator.com/item?id=31307646) - [Project Denver](https://en.wikipedia.org/wiki/Project_Denver)
-* [2022-05-08, 11:55:55](https://news.ycombinator.com/item?id=31303237) - [Configuring My Machines with Bashtard](https://www.tyil.nl/post/2022/05/07/configuring-my-machines-with-bashtard/)
 * [2022-05-08, 08:36:57](https://news.ycombinator.com/item?id=31302297) - [Apple2idiot: A general purpose ESP32 IoT board for the Apple IIe](https://github.com/equant/apple2idiot)
 
 ## [Archives](archives/index.md)

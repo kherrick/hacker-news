@@ -90,6 +90,7 @@
 * [2022-05-09, 02:08:15](https://news.ycombinator.com/item?id=31309748) - [Colleges where everyone works and there's no tuition](https://www.newsnationnow.com/us-news/education/no-tuition-free-work-colleges-us/)
 * [2022-05-09, 02:03:06](https://news.ycombinator.com/item?id=31309729) - [Ask HN: Is DBA still a good job?](https://news.ycombinator.com/item?id=31309729)
 * [2022-05-09, 01:56:15](https://news.ycombinator.com/item?id=31309700) - [Boston University Undergraduate Costs Reach $80k](https://www.bu.edu/admissions/tuition-aid/tuition/)
+* [2022-05-09, 01:36:48](https://news.ycombinator.com/item?id=31309622) - [Bone and tooth objects from the Late Bronze Age ‘shaman's grave’ in Poland](https://www.cambridge.org/core/journals/antiquity/article/manufacture-and-use-bone-and-tooth-objects-from-the-late-bronze-age-shamans-grave-at-przeczyce-poland/49EE698F82178DB2485CCA6FD82399C6)
 * [2022-05-09, 01:36:08](https://news.ycombinator.com/item?id=31309616) - [Show HN: Making a Falling Sand Simulator](https://jason.today/falling-sand)
 * [2022-05-09, 01:31:54](https://news.ycombinator.com/item?id=31309595) - [I Saw a Cool Truck Today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
 * [2022-05-09, 00:47:17](https://news.ycombinator.com/item?id=31309376) - [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
