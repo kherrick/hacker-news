@@ -68,6 +68,7 @@
 * [2022-05-07, 07:35:22](https://news.ycombinator.com/item?id=31292814) - [Ask HN: We Already Pivoted](https://news.ycombinator.com/item?id=31292814)
 * [2022-05-07, 07:21:01](https://news.ycombinator.com/item?id=31292768) - [Ask HN: How to Monetize Open-Source Software?](https://news.ycombinator.com/item?id=31292768)
 * [2022-05-07, 07:00:54](https://news.ycombinator.com/item?id=31292706) - [Stacker (YC S20) Is Hiring for Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+* [2022-05-07, 06:32:46](https://news.ycombinator.com/item?id=31292593) - [Eve Online fans cheer Microsoft Excel features at annual Fanfest](https://arstechnica.com/gaming/2022/05/eve-onlines-ms-excel-partnership-makes-spreadsheets-in-space-official/)
 * [2022-05-07, 06:07:14](https://news.ycombinator.com/item?id=31292504) - [History of the Salvator Mundi](https://salvatormundirevisited.com/History-of-the-Salvator-Mundi)
 * [2022-05-07, 05:35:50](https://news.ycombinator.com/item?id=31292388) - [Hacking F-117A](https://github.com/debugcom/Hacking-F117A)
 * [2022-05-07, 04:56:16](https://news.ycombinator.com/item?id=31292267) - [Is Mark Twain’s old age best forgotten?](https://www.spectator.co.uk/article/is-mark-twain-s-old-age-best-forgotten-)
