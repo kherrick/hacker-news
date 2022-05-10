@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-10, 08:48:37](https://news.ycombinator.com/item?id=31324917) - [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
 * [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
@@ -21,7 +22,6 @@
 * [2022-05-09, 18:54:38](https://news.ycombinator.com/item?id=31318248) - [The Radioactive Boy Scout (1998)](https://harpers.org/archive/1998/11/the-radioactive-boy-scout/)
 * [2022-05-09, 17:27:27](https://news.ycombinator.com/item?id=31317037) - [Hacks for Engineering Estimates](https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/)
 * [2022-05-09, 16:39:35](https://news.ycombinator.com/item?id=31316372) - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/)
-* [2022-05-09, 14:04:02](https://news.ycombinator.com/item?id=31314122) - [Patenting Your Perpetual Motion Machine](https://unmakeme.com/2022/05/09/patenting-your-perpetual-motion-machine/)
 * [2022-05-09, 14:01:31](https://news.ycombinator.com/item?id=31314093) - [Writing HTML sucks and No-code doesn't help](https://rogovoy.me/blog/writing-html-sucks)
 * [2022-05-09, 13:54:18](https://news.ycombinator.com/item?id=31314006) - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
 * [2022-05-09, 02:46:29](https://news.ycombinator.com/item?id=31309960) - [The Two Generals Problem](https://haydenjames.io/the-two-generals-problem/)
