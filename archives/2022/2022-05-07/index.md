@@ -64,6 +64,7 @@
 * [2022-05-07, 08:36:49](https://news.ycombinator.com/item?id=31293030) - [Steps to Organizational Change Without the Drama](https://medium.com/glia-tech/four-steps-to-organizational-change-without-the-drama-4790fd6b8c72)
 * [2022-05-07, 07:46:49](https://news.ycombinator.com/item?id=31292858) - [Introduction to Variable Fonts on the Web](https://web.dev/variable-fonts/)
 * [2022-05-07, 07:46:19](https://news.ycombinator.com/item?id=31292857) - [Top 5 Worst Programming Languages](https://catonmat.net/5-worst-programming-languages)
+* [2022-05-07, 07:35:55](https://news.ycombinator.com/item?id=31292818) - [Color Stippling (2013)](http://www.joesfer.com/?p=149)
 * [2022-05-07, 07:35:22](https://news.ycombinator.com/item?id=31292814) - [Ask HN: We Already Pivoted](https://news.ycombinator.com/item?id=31292814)
 * [2022-05-07, 07:21:01](https://news.ycombinator.com/item?id=31292768) - [Ask HN: How to Monetize Open-Source Software?](https://news.ycombinator.com/item?id=31292768)
 * [2022-05-07, 07:00:54](https://news.ycombinator.com/item?id=31292706) - [Stacker (YC S20) Is Hiring for Product Engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
