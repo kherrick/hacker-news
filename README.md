@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 11:28:35](https://news.ycombinator.com/item?id=31338358) - [Neoliberalism has resulted in preference for greater income inequality](https://www.nyu.edu/about/news-publications/news/2022/may/neoliberal-policies--institutions-have-prompted-preference-for-g.html)
 * [2022-05-11, 10:17:34](https://news.ycombinator.com/item?id=31337889) - [Smishing](https://zitadel.ch/blog/smishing)
 * [2022-05-11, 09:18:55](https://news.ycombinator.com/item?id=31337563) - [A multi-parameter persistence framework for mathematical morphology](https://www.nature.com/articles/s41598-022-09464-7)
 * [2022-05-11, 08:18:57](https://news.ycombinator.com/item?id=31337229) - [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
@@ -20,7 +21,6 @@
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
 * [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
-* [2022-05-10, 20:09:27](https://news.ycombinator.com/item?id=31332018) - [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
 * [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [Apple is discontinuing the iPod](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
 * [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
