@@ -12,6 +12,7 @@
 * [2022-05-11, 20:41:23](https://news.ycombinator.com/item?id=31345478) - [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
 * [2022-05-11, 20:38:34](https://news.ycombinator.com/item?id=31345439) - [Nvidia Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
 * [2022-05-11, 20:15:38](https://news.ycombinator.com/item?id=31345163) - [Some Notes on 'Asshat'](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
+* [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
 * [2022-05-11, 19:12:58](https://news.ycombinator.com/item?id=31344426) - [Minnesota Wants to Ban Under-18s from User-Generated Content Services](https://blog.ericgoldman.org/archives/2022/05/minnesota-wants-to-ban-under-18s-from-user-generated-content-services.htm)

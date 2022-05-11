@@ -63,6 +63,7 @@
 * [2022-05-10, 11:43:24](https://news.ycombinator.com/item?id=31325893) - [Ask HN: How many computers you got?](https://news.ycombinator.com/item?id=31325893)
 * [2022-05-10, 11:01:20](https://news.ycombinator.com/item?id=31325614) - [Tech Industry Warns That More Remote-Work Jobs Are Headed Out of U.S.](https://www.wsj.com/articles/tech-industry-warns-that-more-remote-work-jobs-are-headed-out-of-u-s-11652175000)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Peridot: A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
+* [2022-05-10, 10:32:04](https://news.ycombinator.com/item?id=31325447) - [Programming Style Influences](https://tratt.net/laurie/blog/2022/programming_style_influences.html)
 * [2022-05-10, 09:44:03](https://news.ycombinator.com/item?id=31325191) - [Can a laptop from 2012 be a viable home server?](https://ounapuu.ee/posts/2022/05/10/thinkpad-as-a-home-server/)
 * [2022-05-10, 09:38:12](https://news.ycombinator.com/item?id=31325154) - [NPM Vulnerability Discussion on Twitter](https://www.solipsys.co.uk/Chartter/1523831884786151424.svg)
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
