@@ -28,6 +28,7 @@
 * [2022-05-09, 18:27:05](https://news.ycombinator.com/item?id=31317911) - [Show HN: Pythondocs.xyz – live search for Python documentation](https://pythondocs.xyz/)
 * [2022-05-09, 18:04:59](https://news.ycombinator.com/item?id=31317596) - [Beyond Message Passing: A Physics-Inspired Paradigm for Graph Neural Networks](https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/)
 * [2022-05-09, 17:50:48](https://news.ycombinator.com/item?id=31317372) - [Reincarnating the 6502 Using Flexible TFT Tech for IoT](https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/)
+* [2022-05-09, 17:38:01](https://news.ycombinator.com/item?id=31317185) - [Misperceptions of the opponent fringe and miscalibration of political contempt](https://psyarxiv.com/cr23g/)
 * [2022-05-09, 17:27:27](https://news.ycombinator.com/item?id=31317037) - [Hacks for Engineering Estimates](https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/)
 * [2022-05-09, 17:16:44](https://news.ycombinator.com/item?id=31316867) - [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
 * [2022-05-09, 17:00:15](https://news.ycombinator.com/item?id=31316643) - [Relationship Hero (YC S17) Is Hiring Couples Coaches – Remote](https://relationshiphero.com/careers?role=coach)
