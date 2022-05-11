@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 17:00:33](https://news.ycombinator.com/item?id=31342721) - [Snippyly (YC W22) is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
+* [2022-05-11, 16:43:16](https://news.ycombinator.com/item?id=31342443) - [On $600B of Y Combinator startup success](https://jaredheyman.medium.com/on-600b-of-y-combinator-startup-success-fc85b2076d0d)
+* [2022-05-11, 16:42:44](https://news.ycombinator.com/item?id=31342436) - [Ask HN: Options for handling state at the edge?](https://news.ycombinator.com/item?id=31342436)
+* [2022-05-11, 16:42:09](https://news.ycombinator.com/item?id=31342425) - [Meta Is Transferring Jest to the OpenJS Foundation](https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/)
 * [2022-05-11, 16:13:12](https://news.ycombinator.com/item?id=31341997) - [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
 * [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
 * [2022-05-11, 15:50:04](https://news.ycombinator.com/item?id=31341693) - [Simons Institute 10th Anniversary Symposium](https://simons.berkeley.edu/workshops/simons-institute-10th-anniversary-symposium)
 * [2022-05-11, 15:29:52](https://news.ycombinator.com/item?id=31341442) - [Why I Quit Google’s WebAssembly Team, and How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
+* [2022-05-11, 15:26:55](https://news.ycombinator.com/item?id=31341393) - [Cameras and Open Source Smartphones: It’s Complicated](https://puri.sm/posts/cameras-its-complicated/)
 * [2022-05-11, 15:19:13](https://news.ycombinator.com/item?id=31341250) - [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
 * [2022-05-11, 15:19:11](https://news.ycombinator.com/item?id=31341249) - [European Commission prefers breaking privacy to protecting kids](https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Stripe Open Sources Markdoc](https://markdoc.io)
