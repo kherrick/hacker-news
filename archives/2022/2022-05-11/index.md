@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 16:13:12](https://news.ycombinator.com/item?id=31341997) - [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
+* [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
+* [2022-05-11, 15:50:04](https://news.ycombinator.com/item?id=31341693) - [Simons Institute 10th Anniversary Symposium](https://simons.berkeley.edu/workshops/simons-institute-10th-anniversary-symposium)
 * [2022-05-11, 15:29:52](https://news.ycombinator.com/item?id=31341442) - [Why I Quit Google’s WebAssembly Team, and How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
 * [2022-05-11, 15:19:13](https://news.ycombinator.com/item?id=31341250) - [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
+* [2022-05-11, 15:19:11](https://news.ycombinator.com/item?id=31341249) - [European Commission prefers breaking privacy to protecting kids](https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Stripe Open Sources Markdoc](https://markdoc.io)
 * [2022-05-11, 14:24:22](https://news.ycombinator.com/item?id=31340399) - [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
 * [2022-05-11, 13:43:43](https://news.ycombinator.com/item?id=31339826) - [My story on “worse is better”](https://www.sigbus.info/worse-is-better)
