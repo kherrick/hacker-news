@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 18:41:07](https://news.ycombinator.com/item?id=31344065) - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
 * [2022-05-11, 18:30:38](https://news.ycombinator.com/item?id=31343944) - [Show HN: Catchy melodies made with a diffusion-based neural net assistant](https://www.youtube.com/playlist?list=PLoCzMRqh5SkFwkumE578YO4qa1NTkmMi4)
-* [2022-05-11, 18:18:12](https://news.ycombinator.com/item?id=31343793) - [Concepts of the Text Editor Lara (1985)](https://dl.acm.org/doi/pdf/10.1145/4284.4288)
 * [2022-05-11, 17:53:39](https://news.ycombinator.com/item?id=31343463) - [I/O 2022](https://blog.google/technology/developers/io-2022/)
+* [2022-05-11, 17:53:28](https://news.ycombinator.com/item?id=31343461) - [Windows Terminal Source Code](https://github.com/microsoft/terminal)
 * [2022-05-11, 17:49:08](https://news.ycombinator.com/item?id=31343409) - [Show HN: Vessel – Your Passport for the Internet](https://www.vessel.xyz/)
 * [2022-05-11, 17:40:52](https://news.ycombinator.com/item?id=31343294) - [HugoConf 2022 – The free, online conference for everything Hugo](https://hugoconf.io/)
 * [2022-05-11, 17:11:07](https://news.ycombinator.com/item?id=31342877) - [When Greenswashing Backfires – Thank You North Face](https://www.thankyounorthface.com/)
@@ -21,7 +22,6 @@
 * [2022-05-11, 13:19:29](https://news.ycombinator.com/item?id=31339552) - [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
 * [2022-05-11, 12:59:49](https://news.ycombinator.com/item?id=31339299) - [D1: Our SQL database](https://blog.cloudflare.com/introducing-d1)
 * [2022-05-11, 11:56:55](https://news.ycombinator.com/item?id=31338591) - [Ask HN: How do you deal with rude interviewers?](https://news.ycombinator.com/item?id=31338591)
-* [2022-05-11, 11:19:01](https://news.ycombinator.com/item?id=31338304) - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)
 * [2022-05-11, 10:43:56](https://news.ycombinator.com/item?id=31338090) - [Mysterious Memset](https://vector-of-bool.github.io/2022/05/11/char8-memset.html)
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 * [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
