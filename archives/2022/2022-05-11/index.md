@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 10:17:34](https://news.ycombinator.com/item?id=31337889) - [Smishing](https://zitadel.ch/blog/smishing)
+* [2022-05-11, 09:18:55](https://news.ycombinator.com/item?id=31337563) - [A multi-parameter persistence framework for mathematical morphology](https://www.nature.com/articles/s41598-022-09464-7)
 * [2022-05-11, 09:12:40](https://news.ycombinator.com/item?id=31337525) - [Which housing markets are most exposed to the coming interest-rate storm?](https://www.economist.com/finance-and-economics/which-housing-markets-are-most-exposed/21809217)
 * [2022-05-11, 08:18:57](https://news.ycombinator.com/item?id=31337229) - [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
