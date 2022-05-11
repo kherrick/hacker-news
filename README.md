@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 06:36:55](https://news.ycombinator.com/item?id=31336515) - [Tell HN: Don't Use Cloudflare](https://news.ycombinator.com/item?id=31336515)
+* [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2022-05-11, 05:18:23](https://news.ycombinator.com/item?id=31336086) - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
 * [2022-05-11, 04:30:35](https://news.ycombinator.com/item?id=31335872) - [Ballerina: A Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/)
@@ -13,7 +15,6 @@
 * [2022-05-10, 23:21:45](https://news.ycombinator.com/item?id=31333933) - [Show HN: Prefixed, dual-token, base58 encoded API Keys](https://github.com/seamapi/prefixed-api-key)
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
-* [2022-05-10, 21:46:55](https://news.ycombinator.com/item?id=31333146) - [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
 * [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
 * [2022-05-10, 20:09:27](https://news.ycombinator.com/item?id=31332018) - [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
 * [2022-05-10, 20:08:00](https://news.ycombinator.com/item?id=31332002) - [Why is a registry file called a “hive”? (2003)](https://devblogs.microsoft.com/oldnewthing/20030808-00/?p=42943)
@@ -26,7 +27,6 @@
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
 * [2022-05-10, 08:38:15](https://news.ycombinator.com/item?id=31324853) - [Factory: Fast Contact for Robotic Assembly](https://sites.google.com/nvidia.com/factory/)
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
-* [2022-05-09, 07:15:31](https://news.ycombinator.com/item?id=31311476) - [GNU Regression, Econometrics and Time-Series Library](http://gretl.sourceforge.net/)
 * [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
 * [2022-05-08, 13:11:33](https://news.ycombinator.com/item?id=31303690) - [The Rich New York Women Who Love Their Fake Birkins](https://www.thecut.com/2022/04/repladies-fake-luxury-bags.html)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)

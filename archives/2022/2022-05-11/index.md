@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 06:36:55](https://news.ycombinator.com/item?id=31336515) - [Tell HN: Don't Use Cloudflare](https://news.ycombinator.com/item?id=31336515)
+* [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2022-05-11, 05:18:23](https://news.ycombinator.com/item?id=31336086) - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 * [2022-05-11, 04:56:30](https://news.ycombinator.com/item?id=31335979) - [The Copyright Clause Restoration Act [pdf]](https://www.hawley.senate.gov/sites/default/files/2022-05/Copyright%20Clause%20Restoration%20Act.pdf)
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
