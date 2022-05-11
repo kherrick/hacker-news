@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-05-10, 23:39:59",
-      "https://news.ycombinator.com/item?id=31334044"
+      "2022-05-11, 01:46:29",
+      "https://news.ycombinator.com/item?id=31334941"
     ],
     [
-      "Why “Staying Out of It” Backfires in Moral and Political Disagreements[pdf]",
-      "https://static1.squarespace.com/static/594d74ab1b631b0c28cdf456/t/6263a5367b211a35fe6c968c/1650697530782/2022-54630-001.pdf"
+      "Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund",
+      "https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/"
     ]
   ],
   [
     [
-      "2022-05-10, 23:38:01",
-      "https://news.ycombinator.com/item?id=31334034"
+      "2022-05-11, 01:16:22",
+      "https://news.ycombinator.com/item?id=31334753"
     ],
     [
-      "The problem with “doing your own research”",
-      "https://thinkingispower.com/the-problem-with-doing-your-own-research/"
+      "Why I left Google: work-life balance",
+      "https://www.scottkennedy.us/balance.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 01:01:16",
+      "https://news.ycombinator.com/item?id=31334645"
+    ],
+    [
+      "Firezone (YC W22) Is Hiring a Senior Release Engineer (Remote Anywhere)",
+      "https://www.ycombinator.com/companies/firezone/jobs/UCIGxy5-senior-release-engineer"
     ]
   ],
   [
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=31333981"
     ],
     [
-      "Why do USB-C hubs still have USB 2.0 ports?",
+      "Why do USB-C hubs still have USB 2.0 ports? (2021)",
       "https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 23:21:45",
+      "https://news.ycombinator.com/item?id=31333933"
+    ],
+    [
+      "Show HN: Prefixed, dual-token, base58 encoded API Keys",
+      "https://github.com/seamapi/prefixed-api-key"
     ]
   ],
   [
@@ -91,26 +111,6 @@
   ],
   [
     [
-      "2022-05-10, 21:01:14",
-      "https://news.ycombinator.com/item?id=31332660"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring Senior Quality Engineers and Product Managers",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2022-05-10, 20:55:03",
-      "https://news.ycombinator.com/item?id=31332590"
-    ],
-    [
-      "Red Hat in-vehicle operating system in modern and future vehicles",
-      "https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles"
-    ]
-  ],
-  [
-    [
       "2022-05-10, 20:47:34",
       "https://news.ycombinator.com/item?id=31332495"
     ],
@@ -141,32 +141,22 @@
   ],
   [
     [
+      "2022-05-10, 20:08:00",
+      "https://news.ycombinator.com/item?id=31332002"
+    ],
+    [
+      "Why is a registry file called a “hive”? (2003)",
+      "https://devblogs.microsoft.com/oldnewthing/20030808-00/?p=42943"
+    ]
+  ],
+  [
+    [
       "2022-05-10, 18:27:23",
       "https://news.ycombinator.com/item?id=31330643"
     ],
     [
       "Rules for Conferences (2019)",
       "https://milan.cvitkovic.net/writing/rules_for_conferences/"
-    ]
-  ],
-  [
-    [
-      "2022-05-10, 17:31:27",
-      "https://news.ycombinator.com/item?id=31329834"
-    ],
-    [
-      "The day I discovered that Apple Maps is Kind of Good now",
-      "https://xkcd.com/2617/"
-    ]
-  ],
-  [
-    [
-      "2022-05-10, 17:14:46",
-      "https://news.ycombinator.com/item?id=31329615"
-    ],
-    [
-      "Query serving systems: An emerging category of data systems",
-      "http://petereliaskraft.net/blog/query-serving-systems"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2022-05-10, 08:38:15",
+      "https://news.ycombinator.com/item?id=31324853"
+    ],
+    [
+      "Factory: Fast Contact for Robotic Assembly",
+      "https://sites.google.com/nvidia.com/factory/"
+    ]
+  ],
+  [
+    [
+      "2022-05-09, 07:15:31",
+      "https://news.ycombinator.com/item?id=31311476"
+    ],
+    [
+      "GNU Regression, Econometrics and Time-Series Library",
+      "http://gretl.sourceforge.net/"
+    ]
+  ],
+  [
+    [
       "2022-05-08, 08:29:30",
       "https://news.ycombinator.com/item?id=31302269"
     ],
     [
       "Plane accidentally flew around the world (2018)",
       "https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 07:29:45",
-      "https://news.ycombinator.com/item?id=31302024"
-    ],
-    [
-      "ILOQ: Physical lock with AES 256 support",
-      "https://www.iloq.com/en/single_product/oval-cylinder-c5s-1-sb-se/"
     ]
   ],
   [
