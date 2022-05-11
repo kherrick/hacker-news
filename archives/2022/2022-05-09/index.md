@@ -103,4 +103,5 @@
 * [2022-05-09, 01:36:08](https://news.ycombinator.com/item?id=31309616) - [Show HN: Making a Falling Sand Simulator](https://jason.today/falling-sand)
 * [2022-05-09, 01:31:54](https://news.ycombinator.com/item?id=31309595) - [I Saw a Cool Truck Today](https://theap.substack.com/p/i-saw-a-cool-truck-today)
 * [2022-05-09, 00:59:10](https://news.ycombinator.com/item?id=31309434) - [Auguste Deter](https://en.wikipedia.org/wiki/Auguste_Deter)
+* [2022-05-09, 00:56:28](https://news.ycombinator.com/item?id=31309415) - [The Plastic Paradise of Tokyo’s Famous Kitchen Town](https://www.nytimes.com/interactive/2022/04/20/magazine/tokyo-replica-food.html)
 * [2022-05-09, 00:47:17](https://news.ycombinator.com/item?id=31309376) - [The quest to explore Colombia’s untouched jungle](https://www.bbc.com/future/article/20180712-the-quest-to-explore-colombias-untouched-jungles)
