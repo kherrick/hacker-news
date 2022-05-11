@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 14:24:22](https://news.ycombinator.com/item?id=31340399) - [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
 * [2022-05-11, 13:43:43](https://news.ycombinator.com/item?id=31339826) - [My story on “worse is better”](https://www.sigbus.info/worse-is-better)
 * [2022-05-11, 13:19:29](https://news.ycombinator.com/item?id=31339552) - [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
 * [2022-05-11, 13:04:49](https://news.ycombinator.com/item?id=31339359) - [Airbnb May 2022 Release](https://www.airbnb.com/2022-summer)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 14:24:22](https://news.ycombinator.com/item?id=31340399) - [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
 * [2022-05-11, 13:43:43](https://news.ycombinator.com/item?id=31339826) - [My story on “worse is better”](https://www.sigbus.info/worse-is-better)
 * [2022-05-11, 13:19:29](https://news.ycombinator.com/item?id=31339552) - [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
 * [2022-05-11, 13:04:49](https://news.ycombinator.com/item?id=31339359) - [Airbnb May 2022 Release](https://www.airbnb.com/2022-summer)
@@ -22,7 +23,6 @@
 * [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [Solid-state cells will cut EV charging time and increase volumetric density](https://electrek.co/2022/04/26/quantumscape-updates-q1-2022-report-includes-new-16-layer-solid-state-cell-and-scaled-manufacturing/)
 * [2022-05-11, 02:15:30](https://news.ycombinator.com/item?id=31335105) - [‘Machine Scientists’ Distill the Laws of Physics from Raw Data](https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/)
 * [2022-05-11, 01:16:22](https://news.ycombinator.com/item?id=31334753) - [Why I left Google: work-life balance](https://www.scottkennedy.us/balance.html)
-* [2022-05-10, 23:29:35](https://news.ycombinator.com/item?id=31333981) - [Why do USB-C hubs still have USB 2.0 ports? (2021)](https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/)
 * [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-09, 19:49:10](https://news.ycombinator.com/item?id=31318865) - [Automatic Differentiation: Forward and Reverse](https://jingnanshi.com/blog/autodiff.html)
