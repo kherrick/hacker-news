@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 19:07:50](https://news.ycombinator.com/item?id=31344372) - [Google I/O 2022: Advancing knowledge and computing](https://blog.google/technology/developers/io-2022-keynote/)
 * [2022-05-11, 19:00:31](https://news.ycombinator.com/item?id=31344293) - [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
 * [2022-05-11, 18:41:07](https://news.ycombinator.com/item?id=31344065) - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
 * [2022-05-11, 18:30:38](https://news.ycombinator.com/item?id=31343944) - [Show HN: Catchy melodies made with a diffusion-based neural net assistant](https://www.youtube.com/playlist?list=PLoCzMRqh5SkFwkumE578YO4qa1NTkmMi4)
