@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 18:30:38](https://news.ycombinator.com/item?id=31343944) - [Show HN: Catchy melodies made with a diffusion-based neural net assistant](https://www.youtube.com/playlist?list=PLoCzMRqh5SkFwkumE578YO4qa1NTkmMi4)
+* [2022-05-11, 18:18:12](https://news.ycombinator.com/item?id=31343793) - [Concepts of the Text Editor Lara (1985)](https://dl.acm.org/doi/pdf/10.1145/4284.4288)
 * [2022-05-11, 17:53:39](https://news.ycombinator.com/item?id=31343463) - [I/O 2022](https://blog.google/technology/developers/io-2022/)
 * [2022-05-11, 17:49:08](https://news.ycombinator.com/item?id=31343409) - [Show HN: Vessel – Your Passport for the Internet](https://www.vessel.xyz/)
 * [2022-05-11, 17:40:52](https://news.ycombinator.com/item?id=31343294) - [HugoConf 2022 – The free, online conference for everything Hugo](https://hugoconf.io/)
