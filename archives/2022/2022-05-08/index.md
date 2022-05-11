@@ -45,6 +45,7 @@
 * [2022-05-08, 13:37:39](https://news.ycombinator.com/item?id=31303846) - [Specific Brain Cells Linked to Parkinson's Disease](https://www.the-scientist.com/news-opinion/specific-brain-cells-linked-to-parkinson-s-disease-69988)
 * [2022-05-08, 13:31:26](https://news.ycombinator.com/item?id=31303799) - [Show HN: Automedia – a tool for managing bitrot and formats in media libraries](https://github.com/mmastrac/automedia)
 * [2022-05-08, 13:14:31](https://news.ycombinator.com/item?id=31303704) - [Thieves in London target digital investors by taking phones](https://www.theguardian.com/technology/2022/may/08/crypto-muggings-thieves-in-london-target-digital-investors-by-taking-phones)
+* [2022-05-08, 13:11:33](https://news.ycombinator.com/item?id=31303690) - [The Rich New York Women Who Love Their Fake Birkins](https://www.thecut.com/2022/04/repladies-fake-luxury-bags.html)
 * [2022-05-08, 13:10:45](https://news.ycombinator.com/item?id=31303687) - [The New Old Book Collectors](https://www.nytimes.com/2022/05/07/style/rare-used-book-collectors.html)
 * [2022-05-08, 13:06:33](https://news.ycombinator.com/item?id=31303660) - [65k fake students enrolled in the California junior college system](https://openthebooks.substack.com/p/65000-fake-students-enrolled-in-the)
 * [2022-05-08, 12:53:58](https://news.ycombinator.com/item?id=31303583) - [Wealthy Americans are buying second passports as a 'plan B'](https://www.businessinsider.com/wealthy-americans-buy-second-passports-amid-covid-politics-climate-change-2022-5)
