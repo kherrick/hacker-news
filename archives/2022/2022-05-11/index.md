@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 * [2022-05-11, 06:36:55](https://news.ycombinator.com/item?id=31336515) - [Tell HN: Don't Use Cloudflare](https://news.ycombinator.com/item?id=31336515)
 * [2022-05-11, 06:33:14](https://news.ycombinator.com/item?id=31336498) - [UST “Stablecoin” at $.39](https://coinmarketcap.com/currencies/terrausd/)
 * [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)

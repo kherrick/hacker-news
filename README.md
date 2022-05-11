@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-11, 06:33:14](https://news.ycombinator.com/item?id=31336498) - [UST “Stablecoin” at $.39](https://coinmarketcap.com/currencies/terrausd/)
+* [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
+* [2022-05-11, 06:33:14](https://news.ycombinator.com/item?id=31336498) - [UST “Stablecoin” at $.31](https://coinmarketcap.com/currencies/terrausd/)
 * [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2022-05-11, 05:18:23](https://news.ycombinator.com/item?id=31336086) - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
@@ -21,7 +22,6 @@
 * [2022-05-10, 16:45:59](https://news.ycombinator.com/item?id=31329269) - [Effective altruism and the current funding situation](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation)
 * [2022-05-10, 16:33:06](https://news.ycombinator.com/item?id=31329076) - [Yahoo Japan's password-free authentication reduced inquiries, sped up sign-in](https://web.dev/yahoo-japan-identity-case-study/)
 * [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [Apple is discontinuing the iPod](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
-* [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We need a middle class for startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 * [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
 * [2022-05-10, 08:38:15](https://news.ycombinator.com/item?id=31324853) - [Factory: Fast Contact for Robotic Assembly](https://sites.google.com/nvidia.com/factory/)
