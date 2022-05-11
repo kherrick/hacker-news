@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 17:11:07](https://news.ycombinator.com/item?id=31342877) - [When Greenswashing Backfires – Thank You North Face](https://www.thankyounorthface.com/)
+* [2022-05-11, 17:03:30](https://news.ycombinator.com/item?id=31342766) - [Ask HN: Is it possible to train and improve your memory and recall?](https://news.ycombinator.com/item?id=31342766)
 * [2022-05-11, 17:00:33](https://news.ycombinator.com/item?id=31342721) - [Snippyly (YC W22) is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
 * [2022-05-11, 16:43:16](https://news.ycombinator.com/item?id=31342443) - [On $600B of Y Combinator startup success](https://jaredheyman.medium.com/on-600b-of-y-combinator-startup-success-fc85b2076d0d)
 * [2022-05-11, 16:42:44](https://news.ycombinator.com/item?id=31342436) - [Ask HN: Options for handling state at the edge?](https://news.ycombinator.com/item?id=31342436)
