@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
 * [2022-05-11, 21:22:37](https://news.ycombinator.com/item?id=31345972) - [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
+* [2022-05-11, 21:14:33](https://news.ycombinator.com/item?id=31345872) - [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
+* [2022-05-11, 21:05:18](https://news.ycombinator.com/item?id=31345749) - [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)
 * [2022-05-11, 21:00:40](https://news.ycombinator.com/item?id=31345703) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2022-05-11, 20:41:23](https://news.ycombinator.com/item?id=31345478) - [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
 * [2022-05-11, 20:38:34](https://news.ycombinator.com/item?id=31345439) - [Nvidia Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
