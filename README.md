@@ -19,7 +19,6 @@
 * [2022-05-11, 12:59:49](https://news.ycombinator.com/item?id=31339299) - [D1: Our SQL database](https://blog.cloudflare.com/introducing-d1)
 * [2022-05-11, 11:56:55](https://news.ycombinator.com/item?id=31338591) - [Ask HN: How do you deal with rude interviewers?](https://news.ycombinator.com/item?id=31338591)
 * [2022-05-11, 11:28:18](https://news.ycombinator.com/item?id=31338355) - [Coinbase warns that bankruptcy could wipe out user funds](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/)
-* [2022-05-11, 11:24:06](https://news.ycombinator.com/item?id=31338329) - [18 Years – My Journey Through the American Immigration System as an Engineer](https://software.rajivprab.com/2022/05/10/18-years-a-transient/)
 * [2022-05-11, 11:19:01](https://news.ycombinator.com/item?id=31338304) - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)
 * [2022-05-11, 10:43:56](https://news.ycombinator.com/item?id=31338090) - [Mysterious Memset](https://vector-of-bool.github.io/2022/05/11/char8-memset.html)
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
@@ -28,6 +27,7 @@
 * [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2022-05-11, 05:18:23](https://news.ycombinator.com/item?id=31336086) - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 * [2022-05-10, 19:25:39](https://news.ycombinator.com/item?id=31331463) - [IBM 5150 POST – 'Manufacturing Test' mode](http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test%20mode.htm)
+* [2022-05-09, 17:38:01](https://news.ycombinator.com/item?id=31317185) - [Misperceptions of the opponent fringe and miscalibration of political contempt](https://psyarxiv.com/cr23g/)
 * [2022-05-09, 06:14:14](https://news.ycombinator.com/item?id=31311150) - [Master of Orion](https://www.filfre.net/2020/01/master-of-orion/)
 * [2022-05-08, 06:59:56](https://news.ycombinator.com/item?id=31301928) - [Soil: The secret world beneath our feet is mind-blowing](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future)
 
