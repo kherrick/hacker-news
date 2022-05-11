@@ -71,6 +71,7 @@
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-10, 06:30:41](https://news.ycombinator.com/item?id=31324112) - [’Why Am I Not Rich and Famous?’ The Delusion of Our Times](https://dariusforoux.com/rich-and-famous/)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
+* [2022-05-10, 04:26:36](https://news.ycombinator.com/item?id=31323446) - [The Ghost Writer’s Mistress](https://www.tabletmag.com/sections/arts-letters/articles/ghost-writers-mistress)
 * [2022-05-10, 04:17:04](https://news.ycombinator.com/item?id=31323397) - [Apple, Google, and Microsoft commit to expanded support for FIDO standard](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
 * [2022-05-10, 04:16:59](https://news.ycombinator.com/item?id=31323396) - [The Opportunity Atlas](https://www.opportunityatlas.org/)
 * [2022-05-10, 04:05:20](https://news.ycombinator.com/item?id=31323334) - [Catalog of Elixir-specific code smells](https://github.com/lucasvegi/Elixir-Code-Smells)
