@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 20:15:38](https://news.ycombinator.com/item?id=31345163) - [Some Notes on 'Asshat'](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
+* [2022-05-11, 19:12:58](https://news.ycombinator.com/item?id=31344426) - [Minnesota Wants to Ban Under-18s from User-Generated Content Services](https://blog.ericgoldman.org/archives/2022/05/minnesota-wants-to-ban-under-18s-from-user-generated-content-services.htm)
 * [2022-05-11, 19:07:50](https://news.ycombinator.com/item?id=31344372) - [Google I/O 2022: Advancing knowledge and computing](https://blog.google/technology/developers/io-2022-keynote/)
 * [2022-05-11, 19:00:31](https://news.ycombinator.com/item?id=31344293) - [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
 * [2022-05-11, 18:41:07](https://news.ycombinator.com/item?id=31344065) - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
@@ -22,6 +24,7 @@
 * [2022-05-11, 16:43:16](https://news.ycombinator.com/item?id=31342443) - [On $600B of Y Combinator startup success](https://jaredheyman.medium.com/on-600b-of-y-combinator-startup-success-fc85b2076d0d)
 * [2022-05-11, 16:42:44](https://news.ycombinator.com/item?id=31342436) - [Ask HN: Options for handling state at the edge?](https://news.ycombinator.com/item?id=31342436)
 * [2022-05-11, 16:42:09](https://news.ycombinator.com/item?id=31342425) - [Meta Is Transferring Jest to the OpenJS Foundation](https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/)
+* [2022-05-11, 16:40:47](https://news.ycombinator.com/item?id=31342409) - [AI-engineered enzyme eats entire plastic containers](https://www.chemistryworld.com/news/ai-engineered-enzyme-eats-entire-plastic-containers/4015620.article)
 * [2022-05-11, 16:13:12](https://news.ycombinator.com/item?id=31341997) - [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
 * [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
 * [2022-05-11, 15:50:04](https://news.ycombinator.com/item?id=31341693) - [Simons Institute 10th Anniversary Symposium](https://simons.berkeley.edu/workshops/simons-institute-10th-anniversary-symposium)
