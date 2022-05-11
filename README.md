@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 * [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 * [2022-05-11, 06:41:12](https://news.ycombinator.com/item?id=31336535) - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
 * [2022-05-11, 06:33:14](https://news.ycombinator.com/item?id=31336498) - [UST “Stablecoin” at $.43](https://coinmarketcap.com/currencies/terrausd/)
@@ -23,7 +24,6 @@
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We need a middle class for startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 * [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
-* [2022-05-10, 08:38:15](https://news.ycombinator.com/item?id=31324853) - [Factory: Fast Contact for Robotic Assembly](https://sites.google.com/nvidia.com/factory/)
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-09, 19:49:10](https://news.ycombinator.com/item?id=31318865) - [Automatic Differentiation: Forward and Reverse](https://jingnanshi.com/blog/autodiff.html)
 * [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
