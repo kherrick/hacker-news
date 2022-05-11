@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
+* [2022-05-11, 08:04:59](https://news.ycombinator.com/item?id=31337126) - [FIFA will be rebranded as EA Sports FC in 2023](https://www.gamedeveloper.com/business/fifa-will-be-rebranded-as-ea-sports-fc-in-2023)
 * [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 * [2022-05-11, 06:41:12](https://news.ycombinator.com/item?id=31336535) - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
 * [2022-05-11, 06:33:14](https://news.ycombinator.com/item?id=31336498) - [UST “Stablecoin” at $.43](https://coinmarketcap.com/currencies/terrausd/)
@@ -27,7 +28,6 @@
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-09, 19:49:10](https://news.ycombinator.com/item?id=31318865) - [Automatic Differentiation: Forward and Reverse](https://jingnanshi.com/blog/autodiff.html)
 * [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
-* [2022-05-08, 13:11:33](https://news.ycombinator.com/item?id=31303690) - [The Rich New York Women Who Love Their Fake Birkins](https://www.thecut.com/2022/04/repladies-fake-luxury-bags.html)
 * [2022-05-08, 11:36:05](https://news.ycombinator.com/item?id=31303138) - [Digital Pollution (2019)](https://sive.rs/polut)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
 
