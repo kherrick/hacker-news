@@ -65,6 +65,7 @@
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
 * [2022-05-10, 08:48:37](https://news.ycombinator.com/item?id=31324917) - [No Dislikes has officially ruined YouTube for me](https://news.ycombinator.com/item?id=31324917)
 * [2022-05-10, 08:38:15](https://news.ycombinator.com/item?id=31324853) - [Factory: Fast Contact for Robotic Assembly](https://sites.google.com/nvidia.com/factory/)
+* [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
 * [2022-05-10, 06:30:41](https://news.ycombinator.com/item?id=31324112) - [’Why Am I Not Rich and Famous?’ The Delusion of Our Times](https://dariusforoux.com/rich-and-famous/)

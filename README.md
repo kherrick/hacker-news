@@ -26,10 +26,10 @@
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We need a middle class for startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 * [2022-05-10, 08:49:20](https://news.ycombinator.com/item?id=31324922) - [Monet: The Water Lily Pond](https://artsandculture.google.com/story/SgUR72lKcegxJQ)
 * [2022-05-10, 08:38:15](https://news.ycombinator.com/item?id=31324853) - [Factory: Fast Contact for Robotic Assembly](https://sites.google.com/nvidia.com/factory/)
+* [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-09, 07:15:31](https://news.ycombinator.com/item?id=31311476) - [GNU Regression, Econometrics and Time-Series Library](http://gretl.sourceforge.net/)
 * [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
 * [2022-05-08, 08:29:30](https://news.ycombinator.com/item?id=31302269) - [Plane accidentally flew around the world (2018)](https://medium.com/s/story/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb)
-* [2022-05-08, 06:40:51](https://news.ycombinator.com/item?id=31301876) - [LeoVue](https://kaleguy.github.io/leovue/#/t/2)
 
 ## [Archives](archives/index.md)
 
