@@ -10,6 +10,7 @@
 * [2022-05-11, 08:18:57](https://news.ycombinator.com/item?id=31337229) - [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 * [2022-05-11, 08:04:59](https://news.ycombinator.com/item?id=31337126) - [FIFA will be rebranded as EA Sports FC in 2023](https://www.gamedeveloper.com/business/fifa-will-be-rebranded-as-ea-sports-fc-in-2023)
+* [2022-05-11, 08:00:52](https://news.ycombinator.com/item?id=31337091) - [The Mitto AG surveillanve case – or why we must never backdoor encryption](https://tutanota.com/blog/posts/mitto-ag-surveillance/)
 * [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 * [2022-05-11, 06:41:12](https://news.ycombinator.com/item?id=31336535) - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
 * [2022-05-11, 06:36:55](https://news.ycombinator.com/item?id=31336515) - [Tell HN: Don't Use Cloudflare](https://news.ycombinator.com/item?id=31336515)

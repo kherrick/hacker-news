@@ -2,9 +2,9 @@
 
 * [2022-05-11, 10:17:34](https://news.ycombinator.com/item?id=31337889) - [Smishing](https://zitadel.ch/blog/smishing)
 * [2022-05-11, 09:18:55](https://news.ycombinator.com/item?id=31337563) - [A multi-parameter persistence framework for mathematical morphology](https://www.nature.com/articles/s41598-022-09464-7)
-* [2022-05-11, 09:12:40](https://news.ycombinator.com/item?id=31337525) - [Which housing markets are most exposed to the coming interest-rate storm?](https://www.economist.com/finance-and-economics/which-housing-markets-are-most-exposed/21809217)
 * [2022-05-11, 08:18:57](https://news.ycombinator.com/item?id=31337229) - [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
+* [2022-05-11, 08:00:52](https://news.ycombinator.com/item?id=31337091) - [The Mitto AG surveillanve case – or why we must never backdoor encryption](https://tutanota.com/blog/posts/mitto-ag-surveillance/)
 * [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
 * [2022-05-11, 06:41:12](https://news.ycombinator.com/item?id=31336535) - [Animated Sequence Diagrams](https://observablehq.com/@tomlarkworthy/animated-sequence-diagrams)
 * [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
