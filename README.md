@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
 * [2022-05-11, 19:00:31](https://news.ycombinator.com/item?id=31344293) - [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
 * [2022-05-11, 18:41:07](https://news.ycombinator.com/item?id=31344065) - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
 * [2022-05-11, 17:53:39](https://news.ycombinator.com/item?id=31343463) - [I/O 2022](https://blog.google/technology/developers/io-2022/)
 * [2022-05-11, 17:53:28](https://news.ycombinator.com/item?id=31343461) - [Windows Terminal Source Code](https://github.com/microsoft/terminal)
-* [2022-05-11, 17:49:08](https://news.ycombinator.com/item?id=31343409) - [Show HN: Vessel – Your Passport for the Internet](https://www.vessel.xyz/)
 * [2022-05-11, 17:40:52](https://news.ycombinator.com/item?id=31343294) - [HugoConf 2022 – The free, online conference for everything Hugo](https://hugoconf.io/)
 * [2022-05-11, 17:00:33](https://news.ycombinator.com/item?id=31342721) - [Snippyly (YC W22) is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
 * [2022-05-11, 16:43:16](https://news.ycombinator.com/item?id=31342443) - [On $600B of Y Combinator startup success](https://jaredheyman.medium.com/on-600b-of-y-combinator-startup-success-fc85b2076d0d)

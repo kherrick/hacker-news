@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
 * [2022-05-11, 19:07:50](https://news.ycombinator.com/item?id=31344372) - [Google I/O 2022: Advancing knowledge and computing](https://blog.google/technology/developers/io-2022-keynote/)
 * [2022-05-11, 19:00:31](https://news.ycombinator.com/item?id=31344293) - [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
