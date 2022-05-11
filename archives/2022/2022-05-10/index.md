@@ -46,6 +46,7 @@
 * [2022-05-10, 14:12:32](https://news.ycombinator.com/item?id=31327353) - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
 * [2022-05-10, 14:10:20](https://news.ycombinator.com/item?id=31327328) - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We Need a Middle Class for Startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
+* [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 * [2022-05-10, 13:10:50](https://news.ycombinator.com/item?id=31326672) - [Welcome to Hotel Elsevier: you can check-out any time you like not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)
 * [2022-05-10, 13:09:13](https://news.ycombinator.com/item?id=31326658) - [Why Executives Like the Office (2021)](https://www.economist.com/business/2021/11/06/why-executives-like-the-office)
 * [2022-05-10, 12:51:16](https://news.ycombinator.com/item?id=31326460) - [Air-breathing electric propulsion for long-term orbital stability](https://www.sciencedirect.com/science/article/pii/S009457652100607X)
