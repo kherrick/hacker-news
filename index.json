@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-11, 15:19:13",
+      "https://news.ycombinator.com/item?id=31341250"
+    ],
+    [
+      "BERTopic: The Future of Topic Modeling",
+      "https://www.pinecone.io/learn/bertopic/"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 15:07:45",
+      "https://news.ycombinator.com/item?id=31341083"
+    ],
+    [
+      "Stripe Open Sources Markdoc",
+      "https://markdoc.io"
+    ]
+  ],
+  [
+    [
       "2022-05-11, 14:24:22",
       "https://news.ycombinator.com/item?id=31340399"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31339826"
     ],
     [
-      "My story on “worse is better”",
+      "My story on “worse is better” (2018)",
       "https://www.sigbus.info/worse-is-better"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31339299"
     ],
     [
-      "D1: Cloudflare’s First SQL Database",
+      "D1: Our SQL database",
       "https://blog.cloudflare.com/introducing-d1"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31338282"
     ],
     [
-      "Thousands of Popular Websites See What You Type–Before You Hit Submit",
+      "Many popular websites see what you type before you hit submit",
       "https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/"
     ]
   ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-05-11, 02:15:30",
-      "https://news.ycombinator.com/item?id=31335105"
-    ],
-    [
-      "‘Machine Scientists’ Distill the Laws of Physics from Raw Data",
-      "https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/"
-    ]
-  ],
-  [
-    [
-      "2022-05-11, 01:16:22",
-      "https://news.ycombinator.com/item?id=31334753"
-    ],
-    [
-      "Why I left Google: work-life balance",
-      "https://www.scottkennedy.us/balance.html"
-    ]
-  ],
-  [
-    [
       "2022-05-10, 13:48:08",
       "https://news.ycombinator.com/item?id=31327070"
     ],
@@ -261,21 +261,11 @@
   ],
   [
     [
-      "2022-05-09, 17:38:01",
-      "https://news.ycombinator.com/item?id=31317185"
-    ],
-    [
-      "Misperceptions of the opponent fringe and miscalibration of political contempt",
-      "https://psyarxiv.com/cr23g/"
-    ]
-  ],
-  [
-    [
       "2022-05-09, 11:23:44",
       "https://news.ycombinator.com/item?id=31312821"
     ],
     [
-      "Stamp Design Errors (2017)",
+      "Stamp Design Errors (2013)",
       "https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The Plastic Paradise of Tokyo’s Famous Kitchen Town",
       "https://www.nytimes.com/interactive/2022/04/20/magazine/tokyo-replica-food.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-08, 13:11:33",
+      "https://news.ycombinator.com/item?id=31303690"
+    ],
+    [
+      "Among a certain set, counterfeit luxury bags may be more popular real ones",
+      "https://www.thecut.com/2022/04/repladies-fake-luxury-bags.html"
     ]
   ]
 ]
