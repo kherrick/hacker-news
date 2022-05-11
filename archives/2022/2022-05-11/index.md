@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 13:04:49](https://news.ycombinator.com/item?id=31339359) - [Airbnb May 2022 Release](https://www.airbnb.com/2022-summer)
+* [2022-05-11, 12:59:49](https://news.ycombinator.com/item?id=31339299) - [D1: Cloudflare’s First SQL Database](https://blog.cloudflare.com/introducing-d1)
 * [2022-05-11, 12:00:46](https://news.ycombinator.com/item?id=31338632) - [Jack Dorsey says he agrees with reversing Trump's Twitter ban](https://www.axios.com/2022/05/10/jack-dorsey-trump-twitter-ban)
 * [2022-05-11, 12:00:06](https://news.ycombinator.com/item?id=31338625) - [Join YC's Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
+* [2022-05-11, 11:56:55](https://news.ycombinator.com/item?id=31338591) - [Ask HN: How do you deal with rude interviewers?](https://news.ycombinator.com/item?id=31338591)
 * [2022-05-11, 11:28:35](https://news.ycombinator.com/item?id=31338358) - [Neoliberalism has resulted in preference for greater income inequality](https://www.nyu.edu/about/news-publications/news/2022/may/neoliberal-policies--institutions-have-prompted-preference-for-g.html)
 * [2022-05-11, 11:28:18](https://news.ycombinator.com/item?id=31338355) - [Coinbase warns that bankruptcy could wipe out user funds](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/)
 * [2022-05-11, 11:14:27](https://news.ycombinator.com/item?id=31338282) - [Thousands of Popular Websites See What You Type–Before You Hit Submit](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/)
@@ -27,6 +30,7 @@
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
 * [2022-05-11, 04:33:40](https://news.ycombinator.com/item?id=31335887) - [The no-code blog builder Notion users have dreamed of](https://blogic.so)
 * [2022-05-11, 04:30:35](https://news.ycombinator.com/item?id=31335872) - [Ballerina: A Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/)
+* [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [Solid-state cells will cut EV charging time and increase volumetric density](https://electrek.co/2022/04/26/quantumscape-updates-q1-2022-report-includes-new-16-layer-solid-state-cell-and-scaled-manufacturing/)
 * [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 * [2022-05-11, 02:15:30](https://news.ycombinator.com/item?id=31335105) - [‘Machine Scientists’ Distill the Laws of Physics from Raw Data](https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/)
 * [2022-05-11, 01:46:29](https://news.ycombinator.com/item?id=31334941) - [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
