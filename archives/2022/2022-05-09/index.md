@@ -78,6 +78,7 @@
 * [2022-05-09, 12:20:06](https://news.ycombinator.com/item?id=31313202) - [Bridging Web 2 and Web 3: an identity perspective](https://yenkel.dev/posts/bridging-web-2-and-web-3-an-identity-perspective)
 * [2022-05-09, 11:48:26](https://news.ycombinator.com/item?id=31312981) - [What Dinner Will Look Like in the Next 100 Years, According to Scientists](https://www.bonappetit.com/story/plates-of-the-future)
 * [2022-05-09, 11:29:30](https://news.ycombinator.com/item?id=31312858) - [SageMath is a free open-source mathematics software system](https://www.sagemath.org/)
+* [2022-05-09, 11:23:44](https://news.ycombinator.com/item?id=31312821) - [Stamp Design Errors (2017)](https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 * [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)

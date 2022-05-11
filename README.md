@@ -6,7 +6,6 @@
 * [2022-05-11, 12:59:49](https://news.ycombinator.com/item?id=31339299) - [D1: Cloudflare’s First SQL Database](https://blog.cloudflare.com/introducing-d1)
 * [2022-05-11, 12:00:06](https://news.ycombinator.com/item?id=31338625) - [Join YC's Career Expo June 8 to meet YC founders and find open roles](https://news.ycombinator.com/item?id=31338625)
 * [2022-05-11, 11:56:55](https://news.ycombinator.com/item?id=31338591) - [Ask HN: How do you deal with rude interviewers?](https://news.ycombinator.com/item?id=31338591)
-* [2022-05-11, 11:42:17](https://news.ycombinator.com/item?id=31338451) - [How Curiosity's radioisotope power system works (2018)](https://www.planetary.org/articles/0514-book-excerpt-curiosity-mmrtg)
 * [2022-05-11, 11:28:18](https://news.ycombinator.com/item?id=31338355) - [Coinbase warns that bankruptcy could wipe out user funds](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/)
 * [2022-05-11, 11:24:06](https://news.ycombinator.com/item?id=31338329) - [18 Years – My Journey Through the American Immigration System as an Engineer](https://software.rajivprab.com/2022/05/10/18-years-a-transient/)
 * [2022-05-11, 11:19:01](https://news.ycombinator.com/item?id=31338304) - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)
@@ -28,6 +27,7 @@
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-09, 19:49:10](https://news.ycombinator.com/item?id=31318865) - [Automatic Differentiation: Forward and Reverse](https://jingnanshi.com/blog/autodiff.html)
 * [2022-05-09, 17:38:01](https://news.ycombinator.com/item?id=31317185) - [Misperceptions of the opponent fringe and miscalibration of political contempt](https://psyarxiv.com/cr23g/)
+* [2022-05-09, 11:23:44](https://news.ycombinator.com/item?id=31312821) - [Stamp Design Errors (2017)](https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php)
 * [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
 * [2022-05-09, 00:56:28](https://news.ycombinator.com/item?id=31309415) - [The Plastic Paradise of Tokyo’s Famous Kitchen Town](https://www.nytimes.com/interactive/2022/04/20/magazine/tokyo-replica-food.html)
 
