@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 15:29:52](https://news.ycombinator.com/item?id=31341442) - [Why I Quit Google’s WebAssembly Team, and How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
 * [2022-05-11, 15:19:13](https://news.ycombinator.com/item?id=31341250) - [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Stripe Open Sources Markdoc](https://markdoc.io)
 * [2022-05-11, 14:24:22](https://news.ycombinator.com/item?id=31340399) - [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
@@ -27,7 +28,6 @@
 * [2022-05-09, 19:49:10](https://news.ycombinator.com/item?id=31318865) - [Automatic Differentiation: Forward and Reverse](https://jingnanshi.com/blog/autodiff.html)
 * [2022-05-09, 17:38:01](https://news.ycombinator.com/item?id=31317185) - [Misperceptions of the opponent fringe and miscalibration of political contempt](https://psyarxiv.com/cr23g/)
 * [2022-05-09, 11:23:44](https://news.ycombinator.com/item?id=31312821) - [Stamp Design Errors (2013)](https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php)
-* [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
 * [2022-05-09, 00:56:28](https://news.ycombinator.com/item?id=31309415) - [The Plastic Paradise of Tokyo’s Famous Kitchen Town](https://www.nytimes.com/interactive/2022/04/20/magazine/tokyo-replica-food.html)
 * [2022-05-08, 06:59:56](https://news.ycombinator.com/item?id=31301928) - [Soil: The secret world beneath our feet is mind-blowing](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future)
 

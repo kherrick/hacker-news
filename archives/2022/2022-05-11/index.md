@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 15:29:52](https://news.ycombinator.com/item?id=31341442) - [Why I Quit Google’s WebAssembly Team, and How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
 * [2022-05-11, 15:19:13](https://news.ycombinator.com/item?id=31341250) - [BERTopic: The Future of Topic Modeling](https://www.pinecone.io/learn/bertopic/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Stripe Open Sources Markdoc](https://markdoc.io)
 * [2022-05-11, 14:24:22](https://news.ycombinator.com/item?id=31340399) - [Record-breaking camera keeps everything between 3 cm and 1.7 km in focus](https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/)
