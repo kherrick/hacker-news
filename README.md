@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 22:04:23](https://news.ycombinator.com/item?id=31346467) - [When Did the Medieval Period End?](https://www.historytoday.com/archive/head-head/when-did-medieval-period-end)
 * [2022-05-11, 21:22:37](https://news.ycombinator.com/item?id=31345972) - [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
 * [2022-05-11, 21:14:33](https://news.ycombinator.com/item?id=31345872) - [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
 * [2022-05-11, 21:05:18](https://news.ycombinator.com/item?id=31345749) - [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)
@@ -10,7 +11,6 @@
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
 * [2022-05-11, 19:12:58](https://news.ycombinator.com/item?id=31344426) - [Minnesota Wants to Ban Under-18s from User-Generated Content Services](https://blog.ericgoldman.org/archives/2022/05/minnesota-wants-to-ban-under-18s-from-user-generated-content-services.htm)
-* [2022-05-11, 19:00:31](https://news.ycombinator.com/item?id=31344293) - [Master at Arms Merit Badge – Boy Scouts Hand to Hand Combat [pdf]](https://web.archive.org/web/20211101051546if_/http://bsatroop883.com/wp-content/uploads/2015/11/Master-at-Arms.pdf)
 * [2022-05-11, 18:41:07](https://news.ycombinator.com/item?id=31344065) - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
 * [2022-05-11, 17:53:39](https://news.ycombinator.com/item?id=31343463) - [I/O 2022](https://blog.google/technology/developers/io-2022/)
 * [2022-05-11, 17:53:28](https://news.ycombinator.com/item?id=31343461) - [Windows Terminal Source Code](https://github.com/microsoft/terminal)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 22:04:23](https://news.ycombinator.com/item?id=31346467) - [When Did the Medieval Period End?](https://www.historytoday.com/archive/head-head/when-did-medieval-period-end)
 * [2022-05-11, 21:22:37](https://news.ycombinator.com/item?id=31345972) - [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
 * [2022-05-11, 21:14:33](https://news.ycombinator.com/item?id=31345872) - [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
 * [2022-05-11, 21:05:18](https://news.ycombinator.com/item?id=31345749) - [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)
