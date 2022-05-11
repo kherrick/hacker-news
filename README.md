@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-11, 21:00:40](https://news.ycombinator.com/item?id=31345703) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2022-05-11, 20:41:23](https://news.ycombinator.com/item?id=31345478) - [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
 * [2022-05-11, 20:38:34](https://news.ycombinator.com/item?id=31345439) - [Nvidia Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
 * [2022-05-11, 20:15:38](https://news.ycombinator.com/item?id=31345163) - [Some Notes on 'Asshat'](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
@@ -10,10 +12,10 @@
 * [2022-05-11, 17:53:39](https://news.ycombinator.com/item?id=31343463) - [I/O 2022](https://blog.google/technology/developers/io-2022/)
 * [2022-05-11, 17:53:28](https://news.ycombinator.com/item?id=31343461) - [Windows Terminal Source Code](https://github.com/microsoft/terminal)
 * [2022-05-11, 17:40:52](https://news.ycombinator.com/item?id=31343294) - [HugoConf 2022 – The free, online conference for everything Hugo](https://hugoconf.io/)
-* [2022-05-11, 17:00:33](https://news.ycombinator.com/item?id=31342721) - [Snippyly (YC W22) is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)
 * [2022-05-11, 16:43:16](https://news.ycombinator.com/item?id=31342443) - [On $600B of Y Combinator startup success](https://jaredheyman.medium.com/on-600b-of-y-combinator-startup-success-fc85b2076d0d)
 * [2022-05-11, 16:42:44](https://news.ycombinator.com/item?id=31342436) - [Ask HN: Options for handling state at the edge?](https://news.ycombinator.com/item?id=31342436)
 * [2022-05-11, 16:42:09](https://news.ycombinator.com/item?id=31342425) - [Meta Is Transferring Jest to the OpenJS Foundation](https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/)
+* [2022-05-11, 16:40:47](https://news.ycombinator.com/item?id=31342409) - [AI-engineered enzyme eats entire plastic containers](https://www.chemistryworld.com/news/ai-engineered-enzyme-eats-entire-plastic-containers/4015620.article)
 * [2022-05-11, 16:13:12](https://news.ycombinator.com/item?id=31341997) - [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
 * [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
 * [2022-05-11, 15:29:52](https://news.ycombinator.com/item?id=31341442) - [Why I Quit Google’s WebAssembly Team, and How It Made Me Sick](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
@@ -23,13 +25,11 @@
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Markdoc: Stripe's Markdown-based authoring framework](https://markdoc.io)
 * [2022-05-11, 13:43:43](https://news.ycombinator.com/item?id=31339826) - [My story on “worse is better” (2018)](https://www.sigbus.info/worse-is-better)
 * [2022-05-11, 13:19:29](https://news.ycombinator.com/item?id=31339552) - [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
-* [2022-05-11, 12:59:49](https://news.ycombinator.com/item?id=31339299) - [D1: Our SQL database](https://blog.cloudflare.com/introducing-d1)
 * [2022-05-11, 06:15:01](https://news.ycombinator.com/item?id=31336396) - [Understanding the bin, sbin, usr/bin, usr/sbin split (2010)](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [2022-05-10, 11:46:18](https://news.ycombinator.com/item?id=31325921) - [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
 * [2022-05-10, 00:24:13](https://news.ycombinator.com/item?id=31321750) - [Hard to See: How trauma became synonymous with authenticity](https://reallifemag.com/hard-to-see/)
 * [2022-05-09, 06:14:14](https://news.ycombinator.com/item?id=31311150) - [Master of Orion](https://www.filfre.net/2020/01/master-of-orion/)
 * [2022-05-08, 06:59:56](https://news.ycombinator.com/item?id=31301928) - [Soil: The world beneath our feet](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future)
-* [2022-05-07, 11:44:16](https://news.ycombinator.com/item?id=31293772) - [Moving House](https://mha.mun.ca/mha/resettlement/moving_house_1.php)
 
 ## [Archives](archives/index.md)
 

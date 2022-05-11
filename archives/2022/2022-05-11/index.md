@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 21:00:40](https://news.ycombinator.com/item?id=31345703) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2022-05-11, 20:41:23](https://news.ycombinator.com/item?id=31345478) - [How to get rid of gerrymandering: the math is surprising](https://demodexio.substack.com/p/how-to-get-rid-of-gerrymandering)
 * [2022-05-11, 20:38:34](https://news.ycombinator.com/item?id=31345439) - [Nvidia Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
 * [2022-05-11, 20:15:38](https://news.ycombinator.com/item?id=31345163) - [Some Notes on 'Asshat'](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel-modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
