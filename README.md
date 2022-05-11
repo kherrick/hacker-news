@@ -23,13 +23,13 @@
 * [2022-05-11, 05:18:23](https://news.ycombinator.com/item?id=31336086) - [Tech Salaries in 2022: Why the Six Figure Pay Makes Techies Feel Underpaid](https://www.toolbox.com/tech/it-careers-skills/articles/tech-salaries-why-techies-feel-underpaid/)
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
 * [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [Solid-state cells will cut EV charging time and increase volumetric density](https://electrek.co/2022/04/26/quantumscape-updates-q1-2022-report-includes-new-16-layer-solid-state-cell-and-scaled-manufacturing/)
-* [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-09, 19:49:10](https://news.ycombinator.com/item?id=31318865) - [Automatic Differentiation: Forward and Reverse](https://jingnanshi.com/blog/autodiff.html)
+* [2022-05-09, 17:38:01](https://news.ycombinator.com/item?id=31317185) - [Misperceptions of the opponent fringe and miscalibration of political contempt](https://psyarxiv.com/cr23g/)
 * [2022-05-09, 11:23:44](https://news.ycombinator.com/item?id=31312821) - [Stamp Design Errors (2013)](https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php)
 * [2022-05-09, 07:13:51](https://news.ycombinator.com/item?id=31311463) - [Viz Studio: code-based live animation editor](https://viz.intelligence.rocks/)
 * [2022-05-09, 00:56:28](https://news.ycombinator.com/item?id=31309415) - [The Plastic Paradise of Tokyo’s Famous Kitchen Town](https://www.nytimes.com/interactive/2022/04/20/magazine/tokyo-replica-food.html)
-* [2022-05-08, 13:11:33](https://news.ycombinator.com/item?id=31303690) - [Among a certain set, counterfeit luxury bags may be more popular real ones](https://www.thecut.com/2022/04/repladies-fake-luxury-bags.html)
+* [2022-05-08, 06:59:56](https://news.ycombinator.com/item?id=31301928) - [Soil: The secret world beneath our feet is mind-blowing](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future)
 
 ## [Archives](archives/index.md)
 
