@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
-* [2022-05-11, 04:33:40](https://news.ycombinator.com/item?id=31335887) - [The no-code blog builder Notion users have dreamed of](https://blogic.so)
 * [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 * [2022-05-11, 02:15:30](https://news.ycombinator.com/item?id=31335105) - [‘Machine Scientists’ Distill the Laws of Physics from Raw Data](https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/)
 * [2022-05-11, 01:46:29](https://news.ycombinator.com/item?id=31334941) - [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
@@ -21,6 +20,7 @@
 * [2022-05-10, 16:33:06](https://news.ycombinator.com/item?id=31329076) - [Yahoo Japan's password-free authentication reduced inquiries, sped up sign-in](https://web.dev/yahoo-japan-identity-case-study/)
 * [2022-05-10, 16:08:43](https://news.ycombinator.com/item?id=31328783) - [Supabase (YC S20) raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
 * [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [Apple is discontinuing the iPod](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
+* [2022-05-10, 15:37:08](https://news.ycombinator.com/item?id=31328385) - [Goldman Sachs shrinking its SPAC business amid regulatory crackdown](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
 * [2022-05-10, 15:22:35](https://news.ycombinator.com/item?id=31328205) - [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
 * [2022-05-10, 14:01:25](https://news.ycombinator.com/item?id=31327219) - [We need a middle class for startups](https://neilthanedar.com/we-need-a-middle-class-for-startups/)
 * [2022-05-10, 13:48:08](https://news.ycombinator.com/item?id=31327070) - [Channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
