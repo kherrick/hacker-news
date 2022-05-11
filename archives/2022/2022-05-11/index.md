@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 17:53:39](https://news.ycombinator.com/item?id=31343463) - [I/O 2022](https://blog.google/technology/developers/io-2022/)
 * [2022-05-11, 17:49:08](https://news.ycombinator.com/item?id=31343409) - [Show HN: Vessel – Your Passport for the Internet](https://www.vessel.xyz/)
+* [2022-05-11, 17:40:52](https://news.ycombinator.com/item?id=31343294) - [HugoConf 2022 – The free, online conference for everything Hugo](https://hugoconf.io/)
+* [2022-05-11, 17:31:05](https://news.ycombinator.com/item?id=31343167) - [Man and kote. Monument to Yuri Knorozov. Humble genius and his cats](https://hkls.ru/en/dizajjner/chelovek-i-kote-pamyatnik-yuriyu-knorozovu-yurii-knorozov-skromnyi-genii-i-ego.html)
 * [2022-05-11, 17:11:07](https://news.ycombinator.com/item?id=31342877) - [When Greenswashing Backfires – Thank You North Face](https://www.thankyounorthface.com/)
 * [2022-05-11, 17:03:30](https://news.ycombinator.com/item?id=31342766) - [Ask HN: Is it possible to train and improve your memory and recall?](https://news.ycombinator.com/item?id=31342766)
 * [2022-05-11, 17:00:33](https://news.ycombinator.com/item?id=31342721) - [Snippyly (YC W22) is hiring software engineers to make the internet multiplayer](https://www.ycombinator.com/companies/snippyly/jobs)

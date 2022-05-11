@@ -44,6 +44,7 @@
 * [2022-05-07, 11:58:41](https://news.ycombinator.com/item?id=31293840) - [AI software clears high hurdles on IQ tests but still makes dumb mistakes](https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help)
 * [2022-05-07, 11:50:26](https://news.ycombinator.com/item?id=31293801) - [2022 Predictions from 2012](https://shkspr.mobi/blog/2022/05/my-2022-predictions-from-2012/)
 * [2022-05-07, 11:47:31](https://news.ycombinator.com/item?id=31293784) - [Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason)
+* [2022-05-07, 11:44:16](https://news.ycombinator.com/item?id=31293772) - [Moving House](https://mha.mun.ca/mha/resettlement/moving_house_1.php)
 * [2022-05-07, 11:38:40](https://news.ycombinator.com/item?id=31293750) - [TodoMVC App Written in Vanilla JavaScript](https://github.com/1Marc/todomvc-vanillajs-2022)
 * [2022-05-07, 11:38:02](https://news.ycombinator.com/item?id=31293747) - [The Hyped and Distorted Claims of Psychedelic Marketing](https://www.psymposia.com/magazine/psychedelic-online-advertisements-marketing/)
 * [2022-05-07, 11:35:16](https://news.ycombinator.com/item?id=31293727) - [Show HN: I Made a Virtual Bookshelf](https://petargyurov.com/bookshelf/)
