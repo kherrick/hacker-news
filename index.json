@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-11, 22:45:58",
+      "https://news.ycombinator.com/item?id=31346924"
+    ],
+    [
+      "My Experience at Community College",
+      "https://sporks.space/2022/05/11/my-experience-at-community-college/"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 22:37:31",
+      "https://news.ycombinator.com/item?id=31346838"
+    ],
+    [
+      "Blocking Inflammation May Lead to Chronic Pain",
+      "https://www.science.org/doi/10.1126/scitranslmed.abj9954"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 22:34:32",
+      "https://news.ycombinator.com/item?id=31346817"
+    ],
+    [
+      "Ellen Ullman: We Have to Demystify Code (2017)",
+      "https://lithub.com/ellen-ullman-we-have-to-demystify-code/"
+    ]
+  ],
+  [
+    [
       "2022-05-11, 21:22:37",
       "https://news.ycombinator.com/item?id=31345972"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31344981"
     ],
     [
-      "Nvidia releases open-source GPU kernel-modules",
+      "Nvidia transitioning to official, open-source Linux GPU kernel driver",
       "https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1"
     ]
   ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-05-11, 17:53:39",
-      "https://news.ycombinator.com/item?id=31343463"
-    ],
-    [
-      "I/O 2022",
-      "https://blog.google/technology/developers/io-2022/"
-    ]
-  ],
-  [
-    [
       "2022-05-11, 17:53:28",
       "https://news.ycombinator.com/item?id=31343461"
     ],
@@ -137,16 +157,6 @@
     [
       "Meta Is Transferring Jest to the OpenJS Foundation",
       "https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/"
-    ]
-  ],
-  [
-    [
-      "2022-05-11, 16:40:47",
-      "https://news.ycombinator.com/item?id=31342409"
-    ],
-    [
-      "AI-engineered enzyme eats entire plastic containers",
-      "https://www.chemistryworld.com/news/ai-engineered-enzyme-eats-entire-plastic-containers/4015620.article"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Cameras and Open Source Smartphones: It’s Complicated",
       "https://puri.sm/posts/cameras-its-complicated/"
-    ]
-  ],
-  [
-    [
-      "2022-05-11, 15:19:13",
-      "https://news.ycombinator.com/item?id=31341250"
-    ],
-    [
-      "BERTopic: The Future of Topic Modeling",
-      "https://www.pinecone.io/learn/bertopic/"
     ]
   ],
   [
