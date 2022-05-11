@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 09:12:40](https://news.ycombinator.com/item?id=31337525) - [Which housing markets are most exposed to the coming interest-rate storm?](https://www.economist.com/finance-and-economics/which-housing-markets-are-most-exposed/21809217)
+* [2022-05-11, 08:18:57](https://news.ycombinator.com/item?id=31337229) - [El Salvador expected to default as Bitcoin plummets](https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html)
 * [2022-05-11, 08:18:28](https://news.ycombinator.com/item?id=31337222) - [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
 * [2022-05-11, 08:04:59](https://news.ycombinator.com/item?id=31337126) - [FIFA will be rebranded as EA Sports FC in 2023](https://www.gamedeveloper.com/business/fifa-will-be-rebranded-as-ea-sports-fc-in-2023)
 * [2022-05-11, 06:49:17](https://news.ycombinator.com/item?id=31336593) - [W3C Proposes the Creation of a WebView Community Group](https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html)
