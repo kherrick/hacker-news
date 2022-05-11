@@ -57,6 +57,7 @@
 * [2022-05-07, 10:19:52](https://news.ycombinator.com/item?id=31293416) - [UK’s first full-sized autonomous bus takes to the roads of Scotland](https://www.fusionproc.com/uks-first-full-sized-autonomous-bus-takes-to-the-roads-of-scotland-for-the-first-time/)
 * [2022-05-07, 09:45:33](https://news.ycombinator.com/item?id=31293270) - [Wi-Fi may be coming soon to a lamppost near you](https://www.nist.gov/news-events/news/2022/05/wi-fi-may-be-coming-soon-lamppost-near-you)
 * [2022-05-07, 09:27:24](https://news.ycombinator.com/item?id=31293198) - [The triple dot syntax (` `) in JavaScript: rest vs. spread](https://2ality.com/2022/05/rest-vs-spread.html)
+* [2022-05-07, 09:25:16](https://news.ycombinator.com/item?id=31293189) - [Single electrons trapped on solid neon potentially act as stable qubits](https://spectrum.ieee.org/neon-qubit)
 * [2022-05-07, 09:12:08](https://news.ycombinator.com/item?id=31293141) - [South African Citizens reject proposed SA law linking biometrics to SIM cards](https://www.itweb.co.za/content/GxwQD71DVelvlPVo)
 * [2022-05-07, 08:51:02](https://news.ycombinator.com/item?id=31293076) - [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x)
 * [2022-05-07, 08:50:16](https://news.ycombinator.com/item?id=31293073) - [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)

@@ -25,11 +25,11 @@
 * [2022-05-11, 13:19:29](https://news.ycombinator.com/item?id=31339552) - [When old historic maps overlap with modern political maps](https://twitter.com/Valen10Francois/status/1524040709862576131)
 * [2022-05-11, 11:24:06](https://news.ycombinator.com/item?id=31338329) - [My journey through the American immigration system as a computer engineer](https://software.rajivprab.com/2022/05/10/18-years-a-transient/)
 * [2022-05-10, 11:46:18](https://news.ycombinator.com/item?id=31325921) - [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
-* [2022-05-10, 10:32:04](https://news.ycombinator.com/item?id=31325447) - [Programming Style Influences](https://tratt.net/laurie/blog/2022/programming_style_influences.html)
 * [2022-05-10, 00:24:13](https://news.ycombinator.com/item?id=31321750) - [Hard to See: How trauma became synonymous with authenticity](https://reallifemag.com/hard-to-see/)
 * [2022-05-09, 10:37:57](https://news.ycombinator.com/item?id=31312530) - [We're all living on it. But what is The Edge?](https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/)
 * [2022-05-09, 06:14:14](https://news.ycombinator.com/item?id=31311150) - [Master of Orion](https://www.filfre.net/2020/01/master-of-orion/)
 * [2022-05-08, 06:59:56](https://news.ycombinator.com/item?id=31301928) - [Soil: The world beneath our feet](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future)
+* [2022-05-07, 09:25:16](https://news.ycombinator.com/item?id=31293189) - [Single electrons trapped on solid neon potentially act as stable qubits](https://spectrum.ieee.org/neon-qubit)
 
 ## [Archives](archives/index.md)
 
