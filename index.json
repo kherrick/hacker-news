@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-05-12, 22:33:05",
-      "https://news.ycombinator.com/item?id=31360884"
+      "2022-05-12, 22:47:39",
+      "https://news.ycombinator.com/item?id=31361023"
     ],
     [
-      "Finding wisdom in Charles Baudelaire’s mad scribblings",
-      "https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/"
+      "Ngn/k (free K implementation)",
+      "https://codeberg.org/ngn/k"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Infrastructure From Code",
       "https://www.shuttle.rs/blog/2022/05/09/ifc"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 22:16:17",
-      "https://news.ycombinator.com/item?id=31360765"
-    ],
-    [
-      "Reflections on Birdwatch",
-      "https://www.newslettr.com/p/reflections-on-birdwatch-week-1"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Nvidia releases open-source GPU kernel modules",
       "https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 18:18:12",
+      "https://news.ycombinator.com/item?id=31343793"
+    ],
+    [
+      "Concepts of the Text Editor Lara (1985)",
+      "https://dl.acm.org/doi/pdf/10.1145/4284.4288"
     ]
   ],
   [
