@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-11](index.md)
 
+* [2022-05-11, 23:46:16](https://news.ycombinator.com/item?id=31347478) - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/info/rfc9250)
 * [2022-05-11, 22:45:58](https://news.ycombinator.com/item?id=31346924) - [My Experience at Community College](https://sporks.space/2022/05/11/my-experience-at-community-college/)
 * [2022-05-11, 22:37:31](https://news.ycombinator.com/item?id=31346838) - [Blocking Inflammation May Lead to Chronic Pain](https://www.science.org/doi/10.1126/scitranslmed.abj9954)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 * [2022-05-11, 22:04:23](https://news.ycombinator.com/item?id=31346467) - [When Did the Medieval Period End?](https://www.historytoday.com/archive/head-head/when-did-medieval-period-end)
+* [2022-05-11, 21:40:36](https://news.ycombinator.com/item?id=31346190) - [Earn $200K by fuzzing for a weekend: Part 1](https://secret.club/2022/05/11/fuzzing-solana.html)
 * [2022-05-11, 21:22:37](https://news.ycombinator.com/item?id=31345972) - [Regina Rexx Interpreter](https://regina-rexx.sourceforge.io/)
 * [2022-05-11, 21:14:33](https://news.ycombinator.com/item?id=31345872) - [Red Hat RHEL 9 release](https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9)
 * [2022-05-11, 21:05:18](https://news.ycombinator.com/item?id=31345749) - [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)
