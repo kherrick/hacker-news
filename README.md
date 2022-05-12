@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
 * [2022-05-12, 17:29:02](https://news.ycombinator.com/item?id=31357221) - [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
 * [2022-05-12, 17:10:12](https://news.ycombinator.com/item?id=31356896) - [Ask HN: Who decided copy+paste should copy styling/formatting?](https://news.ycombinator.com/item?id=31356896)
 * [2022-05-12, 17:00:53](https://news.ycombinator.com/item?id=31356785) - [Fieldguide (YC S20) Is Hiring](https://www.ycombinator.com/companies/fieldguide/jobs/hiGbcFx-senior-software-engineer)
@@ -27,7 +28,6 @@
 * [2022-05-12, 08:38:50](https://news.ycombinator.com/item?id=31350896) - [OP-1 field](https://teenage.engineering/)
 * [2022-05-12, 08:19:26](https://news.ycombinator.com/item?id=31350746) - [Please don’t let anyone Americanise it (1992)](https://news.lettersofnote.com/p/please-dont-let-anyone-americanise)
 * [2022-05-12, 07:50:08](https://news.ycombinator.com/item?id=31350550) - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
-* [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-10, 07:13:54](https://news.ycombinator.com/item?id=31324408) - [Announcing the PyOxy Python Runner, a single file (C)Python distribution](https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/)
 
