@@ -2,8 +2,8 @@
 
 * [2022-05-12, 13:40:43](https://news.ycombinator.com/item?id=31353995) - [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
+* [2022-05-12, 13:01:22](https://news.ycombinator.com/item?id=31353474) - [Milky Way Results from the Event Horizon Telescope(EHT)](https://beta.nsf.gov/blackholes)
 * [2022-05-12, 12:59:56](https://news.ycombinator.com/item?id=31353452) - [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
-* [2022-05-12, 12:41:49](https://news.ycombinator.com/item?id=31353170) - [Learning Rust – Day 4 – Understanding Modules](https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html)
 * [2022-05-12, 12:38:02](https://news.ycombinator.com/item?id=31353130) - [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
 * [2022-05-12, 12:00:44](https://news.ycombinator.com/item?id=31352710) - [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
 * [2022-05-12, 11:54:48](https://news.ycombinator.com/item?id=31352655) - [Swimlanes for Trello](https://www.bluecatreports.com/swimlanes/)
@@ -28,8 +28,8 @@
 * [2022-05-09, 11:02:21](https://news.ycombinator.com/item?id=31312680) - [Storing State in the URL](https://antonz.org/storing-state/)
 * [2022-05-09, 10:18:18](https://news.ycombinator.com/item?id=31312411) - [I learned Hungarian late in life (2011)](https://hungarianreview.com/article/the_angel_s_son_why_i_learned_hungarian_late_in_life/)
 * [2022-05-09, 09:36:12](https://news.ycombinator.com/item?id=31312175) - [Fast bitset decoding using Intel AVX-512](https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/)
+* [2022-05-09, 09:05:48](https://news.ycombinator.com/item?id=31312006) - [Waterbear is a toolkit for making programming more accessible and fun](https://waterbearlang.com/)
 * [2022-05-08, 16:43:39](https://news.ycombinator.com/item?id=31305658) - [Burning Crops to Capture Carbon?](https://www.wired.com/story/burning-crops-to-capture-carbon-good-luck-finding-water/)
-* [2022-05-07, 12:04:18](https://news.ycombinator.com/item?id=31293871) - [No 1. The Art of Failure – Jon Batiste](https://www.theisolationjournals.com/blog/jon-batiste)
 
 ## [Archives](archives/index.md)
 
