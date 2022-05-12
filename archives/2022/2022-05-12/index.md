@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 04:24:05](https://news.ycombinator.com/item?id=31349266) - [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
 * [2022-05-12, 02:55:30](https://news.ycombinator.com/item?id=31348772) - [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
 * [2022-05-12, 02:41:41](https://news.ycombinator.com/item?id=31348681) - [Euro Is at $1.05–The Lowest It’s Been in Years](https://www.afar.com/magazine/the-dollar-and-euro-are-almost-equal-right-now)
 * [2022-05-12, 02:22:05](https://news.ycombinator.com/item?id=31348529) - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
