@@ -57,6 +57,7 @@
 * [2022-05-10, 12:08:46](https://news.ycombinator.com/item?id=31326093) - [Global decline in ocean memory over the 21st century](https://www.science.org/doi/10.1126/sciadv.abm3468)
 * [2022-05-10, 12:03:38](https://news.ycombinator.com/item?id=31326052) - [Managing Python Versions with Pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
 * [2022-05-10, 12:00:42](https://news.ycombinator.com/item?id=31326022) - [Poll Everywhere (YC S08) Is Hiring Rails/Turbo Engineers](https://jobs.lever.co/polleverywhere)
+* [2022-05-10, 11:52:03](https://news.ycombinator.com/item?id=31325956) - [From Cyberpunk to Solarpunk: Technics and the Cities of the Future](https://bluelabyrinths.com/2022/01/10/from-cyberpunk-to-solarpunk-technics-and-the-cities-of-the-future/)
 * [2022-05-10, 11:49:50](https://news.ycombinator.com/item?id=31325941) - [No, America is not collapsing](https://noahpinion.substack.com/p/no-america-is-not-collapsing)
 * [2022-05-10, 11:46:18](https://news.ycombinator.com/item?id=31325921) - [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
 * [2022-05-10, 11:44:41](https://news.ycombinator.com/item?id=31325907) - [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
