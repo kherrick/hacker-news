@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-12, 07:00:08](https://news.ycombinator.com/item?id=31350141) - [Enso (YC S21) Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
-* [2022-05-12, 06:38:34](https://news.ycombinator.com/item?id=31350013) - [USDT Becoming Untethered](https://www.google.com/search?q=usdt&rlz=1CDGOYI_enUS900US900&hl=en-US&prmd=nibv&source=lnms&sa=X&ved=0ahUKEwjiiYOprNn3AhWFJX0KHTwfCa0Q_AUIFCgA&biw=320&bih=524&dpr=3)
 * [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-12, 04:24:05](https://news.ycombinator.com/item?id=31349266) - [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
 * [2022-05-12, 02:55:30](https://news.ycombinator.com/item?id=31348772) - [How many melodies are there? (2014)](https://plus.maths.org/content/how-many-melodies-are-there)
@@ -22,6 +21,7 @@
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
 * [2022-05-11, 18:41:07](https://news.ycombinator.com/item?id=31344065) - [Our Experience Porting the YJIT Ruby Compiler to Rust](https://shopify.engineering/porting-yjit-ruby-compiler-to-rust)
+* [2022-05-11, 17:53:28](https://news.ycombinator.com/item?id=31343461) - [Windows Terminal Source Code](https://github.com/microsoft/terminal)
 * [2022-05-11, 16:42:09](https://news.ycombinator.com/item?id=31342425) - [Meta Is Transferring Jest to the OpenJS Foundation](https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/)
 * [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Markdoc: Stripe's Markdown-based authoring framework](https://markdoc.io)
