@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 23:01:52](https://news.ycombinator.com/item?id=31361127) - [Advice: Startup Failure and Debt](https://news.ycombinator.com/item?id=31361127)
 * [2022-05-12, 22:47:39](https://news.ycombinator.com/item?id=31361023) - [Ngn/k (free K implementation)](https://codeberg.org/ngn/k)
 * [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
 * [2022-05-12, 22:16:54](https://news.ycombinator.com/item?id=31360776) - [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
