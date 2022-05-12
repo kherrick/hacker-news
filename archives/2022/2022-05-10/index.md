@@ -44,6 +44,7 @@
 * [2022-05-10, 15:37:08](https://news.ycombinator.com/item?id=31328385) - [Goldman Sachs shrinking its SPAC business](https://www.cnbc.com/2022/05/09/goldman-sachs-is-shrinking-its-spac-business-amid-regulatory-crackdown-and-market-turmoil.html)
 * [2022-05-10, 15:22:35](https://news.ycombinator.com/item?id=31328205) - [Bubble Tea: fun, functional and stateful way to build terminal apps](https://github.com/charmbracelet/bubbletea)
 * [2022-05-10, 15:03:51](https://news.ycombinator.com/item?id=31327966) - [Someone wrote a PhD thesis on bells](https://www.hibberts.co.uk/)
+* [2022-05-10, 14:56:22](https://news.ycombinator.com/item?id=31327870) - [Embedding Truffle Languages](https://nirvdrum.com/2022/05/09/truffle-language-embedding.html)
 * [2022-05-10, 14:47:59](https://news.ycombinator.com/item?id=31327766) - [Give me back my monolith](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 * [2022-05-10, 14:12:32](https://news.ycombinator.com/item?id=31327353) - [A common sunscreen ingredient turns toxic in the sea – anemones suggest why](https://www.nature.com/articles/d41586-022-01271-4)
 * [2022-05-10, 14:10:20](https://news.ycombinator.com/item?id=31327328) - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing)

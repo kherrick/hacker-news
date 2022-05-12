@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 * [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
+* [2022-05-12, 18:15:28](https://news.ycombinator.com/item?id=31357993) - [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
 * [2022-05-12, 17:29:02](https://news.ycombinator.com/item?id=31357221) - [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
 * [2022-05-12, 17:10:12](https://news.ycombinator.com/item?id=31356896) - [Ask HN: Who decided copy+paste should copy styling/formatting?](https://news.ycombinator.com/item?id=31356896)
 * [2022-05-12, 17:00:53](https://news.ycombinator.com/item?id=31356785) - [Fieldguide (YC S20) Is Hiring](https://www.ycombinator.com/companies/fieldguide/jobs/hiGbcFx-senior-software-engineer)
