@@ -29,6 +29,7 @@
 * [2022-05-08, 16:58:33](https://news.ycombinator.com/item?id=31305798) - [Equality is prevented by the misperception that it harms advantaged groups](https://www.science.org/doi/10.1126/sciadv.abm2385)
 * [2022-05-08, 16:44:26](https://news.ycombinator.com/item?id=31305672) - [What happens if Twitter gets encrypted DMs?](https://getsession.org/blog)
 * [2022-05-08, 16:44:04](https://news.ycombinator.com/item?id=31305663) - [The shame industrial complex is booming](https://www.nytimes.com/2022/03/26/books/review/cathy-oneil-the-shame-machine.html)
+* [2022-05-08, 16:43:39](https://news.ycombinator.com/item?id=31305658) - [Burning Crops to Capture Carbon?](https://www.wired.com/story/burning-crops-to-capture-carbon-good-luck-finding-water/)
 * [2022-05-08, 16:21:13](https://news.ycombinator.com/item?id=31305446) - [Ask HN: Are there any good poverty simulator games?](https://news.ycombinator.com/item?id=31305446)
 * [2022-05-08, 16:13:16](https://news.ycombinator.com/item?id=31305368) - [Pinball Takes Buttons: Building a Controller for Panic Road](https://nicole.express/2022/panic-at-the-road.html)
 * [2022-05-08, 16:11:02](https://news.ycombinator.com/item?id=31305341) - [Tell HN: I was permanently banned from eBay in one hour](https://news.ycombinator.com/item?id=31305341)

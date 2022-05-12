@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 13:17:44](https://news.ycombinator.com/item?id=31353692) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
+* [2022-05-12, 12:59:56](https://news.ycombinator.com/item?id=31353452) - [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
+* [2022-05-12, 12:41:49](https://news.ycombinator.com/item?id=31353170) - [Learning Rust – Day 4 – Understanding Modules](https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html)
+* [2022-05-12, 12:38:02](https://news.ycombinator.com/item?id=31353130) - [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
 * [2022-05-12, 12:00:44](https://news.ycombinator.com/item?id=31352710) - [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
 * [2022-05-12, 11:54:48](https://news.ycombinator.com/item?id=31352655) - [Show HN: Swimlanes for Trello (at last!)](https://www.bluecatreports.com/swimlanes/)
 * [2022-05-12, 10:53:58](https://news.ycombinator.com/item?id=31352108) - [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
