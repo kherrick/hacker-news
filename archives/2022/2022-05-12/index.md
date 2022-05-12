@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 07:50:08](https://news.ycombinator.com/item?id=31350550) - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 * [2022-05-12, 07:00:08](https://news.ycombinator.com/item?id=31350141) - [Enso (YC S21) Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
 * [2022-05-12, 06:38:34](https://news.ycombinator.com/item?id=31350013) - [USDT Becoming Untethered](https://www.google.com/search?q=usdt&rlz=1CDGOYI_enUS900US900&hl=en-US&prmd=nibv&source=lnms&sa=X&ved=0ahUKEwjiiYOprNn3AhWFJX0KHTwfCa0Q_AUIFCgA&biw=320&bih=524&dpr=3)
