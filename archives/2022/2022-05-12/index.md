@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 10:53:58](https://news.ycombinator.com/item?id=31352108) - [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [2022-05-12, 10:37:21](https://news.ycombinator.com/item?id=31351936) - [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
 * [2022-05-12, 08:52:10](https://news.ycombinator.com/item?id=31351013) - [New Twitter TOS](https://www.diffchecker.com/N1cAYuis)
 * [2022-05-12, 08:39:45](https://news.ycombinator.com/item?id=31350906) - [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
