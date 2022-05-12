@@ -10,6 +10,7 @@
 * [2022-05-12, 16:55:45](https://news.ycombinator.com/item?id=31356719) - [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
 * [2022-05-12, 16:45:51](https://news.ycombinator.com/item?id=31356579) - [Ask HN: Is anyone else glad the crypto market is crashing?](https://news.ycombinator.com/item?id=31356579)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter’s head of consumer product fired](https://twitter.com/kayvz/status/1524787801757126656)
+* [2022-05-12, 16:27:56](https://news.ycombinator.com/item?id=31356377) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://www.sciencedirect.com/science/article/pii/S2352396422002225)
 * [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
 * [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:44:13](https://news.ycombinator.com/item?id=31355812) - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)

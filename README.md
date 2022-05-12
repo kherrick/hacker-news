@@ -6,6 +6,7 @@
 * [2022-05-12, 16:55:45](https://news.ycombinator.com/item?id=31356719) - [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
 * [2022-05-12, 16:45:51](https://news.ycombinator.com/item?id=31356579) - [Ask HN: Is anyone else glad the crypto market is crashing?](https://news.ycombinator.com/item?id=31356579)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter’s head of consumer product fired](https://twitter.com/kayvz/status/1524787801757126656)
+* [2022-05-12, 16:27:56](https://news.ycombinator.com/item?id=31356377) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://www.sciencedirect.com/science/article/pii/S2352396422002225)
 * [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
 * [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:44:13](https://news.ycombinator.com/item?id=31355812) - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
@@ -28,7 +29,6 @@
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 * [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
-* [2022-05-10, 20:11:44](https://news.ycombinator.com/item?id=31332049) - [Two More Pyramids and a Sphinx (2019)](https://analog-antiquarian.net/2019/09/13/chapter-17-two-more-pyramids-and-a-sphinx/)
 * [2022-05-10, 07:13:54](https://news.ycombinator.com/item?id=31324408) - [Announcing the PyOxy Python Runner, a single file (C)Python distribution](https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/)
 
 ## [Archives](archives/index.md)
