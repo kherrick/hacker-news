@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 02:55:30](https://news.ycombinator.com/item?id=31348772) - [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
+* [2022-05-12, 01:55:01](https://news.ycombinator.com/item?id=31348316) - [Nota: A Document Language for the Browser](https://nota-lang.org/)
+* [2022-05-12, 01:51:50](https://news.ycombinator.com/item?id=31348297) - [IntelliJ D Language – support for the D language within IntelliJ IDEA](https://intellij-dlanguage.github.io/)
 * [2022-05-12, 01:42:13](https://news.ycombinator.com/item?id=31348217) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
+* [2022-05-12, 01:25:18](https://news.ycombinator.com/item?id=31348097) - [Python Language Summit: Python Without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
 * [2022-05-12, 01:17:10](https://news.ycombinator.com/item?id=31348052) - [Bitcoin Is Acting Like Just Another Tech Stock](https://www.nytimes.com/2022/05/11/technology/bitcoin-price-crashing-stocks.html)
 * [2022-05-12, 01:02:50](https://news.ycombinator.com/item?id=31347983) - [Cryptocurreny retailer BitPrime closes trading after running out of money](https://www.bitprime.co.nz/important-notice-for-all-customers/)
 * [2022-05-12, 01:00:42](https://news.ycombinator.com/item?id=31347969) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31347969)

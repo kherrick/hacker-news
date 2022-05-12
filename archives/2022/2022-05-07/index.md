@@ -40,6 +40,7 @@
 * [2022-05-07, 13:33:11](https://news.ycombinator.com/item?id=31294306) - [Show HN: I made Ankify that converts notes to Anki cards](https://ankify.krxiang.com/)
 * [2022-05-07, 13:26:07](https://news.ycombinator.com/item?id=31294269) - [Why Did 1980s Datsuns Have Tiny Vinyl Record Players in Them?](https://blog.adafruit.com/2022/04/27/why-did-1980s-datsuns-have-tiny-vinyl-record-players-in-them/)
 * [2022-05-07, 13:00:43](https://news.ycombinator.com/item?id=31294153) - [Shaving Is Too Expensive](https://www.johnwhiles.com/posts/shaving.html)
+* [2022-05-07, 12:04:18](https://news.ycombinator.com/item?id=31293871) - [No 1. The Art of Failure – Jon Batiste](https://www.theisolationjournals.com/blog/jon-batiste)
 * [2022-05-07, 12:01:16](https://news.ycombinator.com/item?id=31293853) - [DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers](https://devcycle.com/company/careers)
 * [2022-05-07, 11:58:41](https://news.ycombinator.com/item?id=31293840) - [AI software clears high hurdles on IQ tests but still makes dumb mistakes](https://www.science.org/content/article/computers-ace-iq-tests-still-make-dumb-mistakes-can-different-tests-help)
 * [2022-05-07, 11:50:26](https://news.ycombinator.com/item?id=31293801) - [2022 Predictions from 2012](https://shkspr.mobi/blog/2022/05/my-2022-predictions-from-2012/)
