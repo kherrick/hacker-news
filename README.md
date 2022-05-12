@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-12, 08:39:45](https://news.ycombinator.com/item?id=31350906) - [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
 * [2022-05-12, 07:50:08](https://news.ycombinator.com/item?id=31350550) - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 * [2022-05-12, 07:00:08](https://news.ycombinator.com/item?id=31350141) - [Enso (YC S21) Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
@@ -13,7 +14,6 @@
 * [2022-05-12, 01:02:50](https://news.ycombinator.com/item?id=31347983) - [Cryptocurreny retailer BitPrime closes trading after running out of money](https://www.bitprime.co.nz/important-notice-for-all-customers/)
 * [2022-05-12, 00:24:28](https://news.ycombinator.com/item?id=31347740) - [Cheap technology for making optic lenses that could help 2.5B people and NASA](https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996)
 * [2022-05-11, 23:24:01](https://news.ycombinator.com/item?id=31347286) - [Show HN: Paperd.ink – an open-source e-paper development board](https://paperd.ink)
-* [2022-05-11, 22:45:58](https://news.ycombinator.com/item?id=31346924) - [My experience at community college](https://sporks.space/2022/05/11/my-experience-at-community-college/)
 * [2022-05-11, 22:37:31](https://news.ycombinator.com/item?id=31346838) - [Blocking inflammation may lead to chronic pain](https://www.science.org/doi/10.1126/scitranslmed.abj9954)
 * [2022-05-11, 21:40:36](https://news.ycombinator.com/item?id=31346190) - [Earn $200K by fuzzing for a weekend: Part 1](https://secret.club/2022/05/11/fuzzing-solana.html)
 * [2022-05-11, 21:05:18](https://news.ycombinator.com/item?id=31345749) - [WordPress’ market share is shrinking](https://joost.blog/wordpress-market-share-shrinking/)

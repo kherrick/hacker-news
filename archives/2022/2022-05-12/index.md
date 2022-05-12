@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 08:39:45](https://news.ycombinator.com/item?id=31350906) - [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
 * [2022-05-12, 07:50:08](https://news.ycombinator.com/item?id=31350550) - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 * [2022-05-12, 07:00:08](https://news.ycombinator.com/item?id=31350141) - [Enso (YC S21) Is Hiring Rust Developer](https://www.ycombinator.com/companies/enso/jobs/5AhkHFF-senior-rust-developer)
