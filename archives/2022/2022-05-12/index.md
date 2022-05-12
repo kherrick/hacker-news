@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 19:40:36](https://news.ycombinator.com/item?id=31359271) - [Practical bruteforce of AES-1024 military grade encryption](https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/)
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 * [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
 * [2022-05-12, 18:15:28](https://news.ycombinator.com/item?id=31357993) - [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
+* [2022-05-12, 18:02:25](https://news.ycombinator.com/item?id=31357778) - [Zig Programming Language](https://ziglang.org/)
 * [2022-05-12, 17:35:06](https://news.ycombinator.com/item?id=31357314) - [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
 * [2022-05-12, 17:29:02](https://news.ycombinator.com/item?id=31357221) - [Show HN: I built a service to help companies reduce AWS spend by 50%](https://news.ycombinator.com/item?id=31357221)
 * [2022-05-12, 17:10:12](https://news.ycombinator.com/item?id=31356896) - [Ask HN: Who decided copy+paste should copy styling/formatting?](https://news.ycombinator.com/item?id=31356896)
