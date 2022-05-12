@@ -25,7 +25,7 @@
 * [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Markdoc: Stripe's Markdown-based authoring framework](https://markdoc.io)
 * [2022-05-11, 03:56:55](https://news.ycombinator.com/item?id=31335682) - [Georgian Slave to Safavid Master: Additions to the Corpus of Siyavush Beg Gurji](https://blogs.bl.uk/asian-and-african/2022/05/from-georgian-slave-to-safavid-master.html)
-* [2022-05-09, 19:24:10](https://news.ycombinator.com/item?id=31318570) - [Gifted Children, Youth Culture, and Individualism in 1970s and 1980s Britain](https://www.cambridge.org/core/journals/historical-journal/article/gifted-children-youth-culture-and-popular-individualism-in-1970s-and-1980s-britain/EB6BD4D18EB077ABBDA7F19D20324D84)
+* [2022-05-09, 11:23:41](https://news.ycombinator.com/item?id=31312820) - [Ask HN: Important nonobvious startup/business lessons you've learned?](https://news.ycombinator.com/item?id=31312820)
 * [2022-05-09, 11:02:21](https://news.ycombinator.com/item?id=31312680) - [Storing State in the URL](https://antonz.org/storing-state/)
 * [2022-05-09, 09:36:12](https://news.ycombinator.com/item?id=31312175) - [Fast bitset decoding using Intel AVX-512](https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/)
 * [2022-05-07, 12:04:18](https://news.ycombinator.com/item?id=31293871) - [No 1. The Art of Failure – Jon Batiste](https://www.theisolationjournals.com/blog/jon-batiste)

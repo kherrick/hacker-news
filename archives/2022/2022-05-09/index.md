@@ -81,6 +81,7 @@
 * [2022-05-09, 11:48:26](https://news.ycombinator.com/item?id=31312981) - [What Dinner Will Look Like in the Next 100 Years, According to Scientists](https://www.bonappetit.com/story/plates-of-the-future)
 * [2022-05-09, 11:29:30](https://news.ycombinator.com/item?id=31312858) - [SageMath is a free open-source mathematics software system](https://www.sagemath.org/)
 * [2022-05-09, 11:23:44](https://news.ycombinator.com/item?id=31312821) - [Stamp Design Errors (2017)](https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php)
+* [2022-05-09, 11:23:41](https://news.ycombinator.com/item?id=31312820) - [Ask HN: Important nonobvious startup/business lessons you've learned?](https://news.ycombinator.com/item?id=31312820)
 * [2022-05-09, 11:02:21](https://news.ycombinator.com/item?id=31312680) - [Storing State in the URL](https://antonz.org/storing-state/)
 * [2022-05-09, 10:57:00](https://news.ycombinator.com/item?id=31312651) - [Lemon Squeezy: Sell digital products the easy-peasy way](https://www.lemonsqueezy.com/)
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
