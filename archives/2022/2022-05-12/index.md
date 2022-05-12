@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 14:50:35](https://news.ycombinator.com/item?id=31355050) - [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
 * [2022-05-12, 14:20:12](https://news.ycombinator.com/item?id=31354623) - [I stopped to watch kids playing at recess. Security was called](https://reason.com/2022/05/11/kids-playing-at-recess-security-school-safety/)
 * [2022-05-12, 13:40:43](https://news.ycombinator.com/item?id=31353995) - [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
 * [2022-05-12, 13:17:44](https://news.ycombinator.com/item?id=31353692) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
@@ -14,6 +15,7 @@
 * [2022-05-12, 12:38:02](https://news.ycombinator.com/item?id=31353130) - [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
 * [2022-05-12, 12:00:44](https://news.ycombinator.com/item?id=31352710) - [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
 * [2022-05-12, 11:54:48](https://news.ycombinator.com/item?id=31352655) - [Show HN: Swimlanes for Trello (at last!)](https://www.bluecatreports.com/swimlanes/)
+* [2022-05-12, 11:04:57](https://news.ycombinator.com/item?id=31352213) - [DEA Investigating Breach of Law Enforcement Data Portal](https://krebsonsecurity.com/2022/05/dea-investigating-breach-of-law-enforcement-data-portal/)
 * [2022-05-12, 10:53:58](https://news.ycombinator.com/item?id=31352108) - [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [2022-05-12, 10:43:25](https://news.ycombinator.com/item?id=31351993) - [Benchmarking Container Scaling on AWS](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
 * [2022-05-12, 10:37:21](https://news.ycombinator.com/item?id=31351936) - [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
