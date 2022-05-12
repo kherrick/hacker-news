@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-12, 02:55:30](https://news.ycombinator.com/item?id=31348772) - [How many melodies are there? (2014)](https://plus.maths.org/content/how-many-melodies-are-there)
 * [2022-05-12, 02:22:05](https://news.ycombinator.com/item?id=31348529) - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
 * [2022-05-12, 02:14:14](https://news.ycombinator.com/item?id=31348463) - [Volume of an n-ball](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
@@ -23,7 +24,6 @@
 * [2022-05-11, 16:42:09](https://news.ycombinator.com/item?id=31342425) - [Meta Is Transferring Jest to the OpenJS Foundation](https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/)
 * [2022-05-11, 16:13:12](https://news.ycombinator.com/item?id=31341997) - [Android Chrome 99 expands Certificate Transparency, breaking all MitM dev tools](https://httptoolkit.tech/blog/chrome-android-certificate-transparency/)
 * [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
-* [2022-05-11, 15:19:11](https://news.ycombinator.com/item?id=31341249) - [European Commission prefers breaking privacy to protecting kids](https://www.lightbluetouchpaper.org/2022/05/11/european-commission-prefers-breaking-privacy-to-protecting-kids/)
 * [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Markdoc: Stripe's Markdown-based authoring framework](https://markdoc.io)
 * [2022-05-09, 19:13:46](https://news.ycombinator.com/item?id=31318465) - [Butcher’s Knives, Treason and Plot](https://literaryreview.co.uk/butchers-knives-treason-and-plot)
 * [2022-05-09, 09:36:12](https://news.ycombinator.com/item?id=31312175) - [Fast bitset decoding using Intel AVX-512](https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/)
