@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-05-12, 14:50:35",
+      "https://news.ycombinator.com/item?id=31355050"
+    ],
+    [
+      "Friendlier SQL with DuckDB",
+      "https://duckdb.org/2022/05/04/friendlier-sql.html"
+    ]
+  ],
+  [
+    [
       "2022-05-12, 14:20:12",
       "https://news.ycombinator.com/item?id=31354623"
     ],
     [
       "I stopped to watch kids playing at recess. Security was called",
       "https://reason.com/2022/05/11/kids-playing-at-recess-security-school-safety/"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 13:40:43",
-      "https://news.ycombinator.com/item?id=31353995"
-    ],
-    [
-      "Ask HN: What are some good inspirational and uplifting books?",
-      "https://news.ycombinator.com/item?id=31353995"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-05-12, 12:41:49",
+      "https://news.ycombinator.com/item?id=31353170"
+    ],
+    [
+      "Learning Rust – Day 4 – Understanding Modules",
+      "https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html"
+    ]
+  ],
+  [
+    [
       "2022-05-12, 12:38:02",
       "https://news.ycombinator.com/item?id=31353130"
     ],
@@ -77,6 +87,16 @@
     [
       "Swimlanes for Trello",
       "https://www.bluecatreports.com/swimlanes/"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 11:04:57",
+      "https://news.ycombinator.com/item?id=31352213"
+    ],
+    [
+      "DEA Investigating Breach of Law Enforcement Data Portal",
+      "https://krebsonsecurity.com/2022/05/dea-investigating-breach-of-law-enforcement-data-portal/"
     ]
   ],
   [
@@ -171,12 +191,32 @@
   ],
   [
     [
+      "2022-05-12, 02:55:30",
+      "https://news.ycombinator.com/item?id=31348772"
+    ],
+    [
+      "How many melodies are there? (2014)",
+      "https://plus.maths.org/content/how-many-melodies-are-there"
+    ]
+  ],
+  [
+    [
       "2022-05-12, 02:22:05",
       "https://news.ycombinator.com/item?id=31348529"
     ],
     [
       "I Miss Heroku's DevEx",
       "https://christine.website/blog/heroku-devex-2022-05-12"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 02:14:14",
+      "https://news.ycombinator.com/item?id=31348463"
+    ],
+    [
+      "Volume of an n-ball",
+      "https://en.wikipedia.org/wiki/Volume_of_an_n-ball"
     ]
   ],
   [
@@ -211,6 +251,16 @@
   ],
   [
     [
+      "2022-05-12, 00:22:52",
+      "https://news.ycombinator.com/item?id=31347725"
+    ],
+    [
+      "Is there a housing shortage or not?",
+      "https://constructionphysics.substack.com/p/is-there-a-housing-shortage-or-not"
+    ]
+  ],
+  [
+    [
       "2022-05-11, 23:24:01",
       "https://news.ycombinator.com/item?id=31347286"
     ],
@@ -231,72 +281,22 @@
   ],
   [
     [
+      "2022-05-11, 15:50:39",
+      "https://news.ycombinator.com/item?id=31341698"
+    ],
+    [
+      "Passenger with “no idea how to fly” lands plane after pilot incapacitated",
+      "https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/"
+    ]
+  ],
+  [
+    [
       "2022-05-10, 11:52:03",
       "https://news.ycombinator.com/item?id=31325956"
     ],
     [
       "From Cyberpunk to Solarpunk: Technics and the Cities of the Future",
       "https://bluelabyrinths.com/2022/01/10/from-cyberpunk-to-solarpunk-technics-and-the-cities-of-the-future/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 11:23:41",
-      "https://news.ycombinator.com/item?id=31312820"
-    ],
-    [
-      "Ask HN: Important nonobvious startup/business lessons you've learned?",
-      "https://news.ycombinator.com/item?id=31312820"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 11:02:21",
-      "https://news.ycombinator.com/item?id=31312680"
-    ],
-    [
-      "Storing State in the URL",
-      "https://antonz.org/storing-state/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 10:18:18",
-      "https://news.ycombinator.com/item?id=31312411"
-    ],
-    [
-      "I learned Hungarian late in life (2011)",
-      "https://hungarianreview.com/article/the_angel_s_son_why_i_learned_hungarian_late_in_life/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 09:36:12",
-      "https://news.ycombinator.com/item?id=31312175"
-    ],
-    [
-      "Fast bitset decoding using Intel AVX-512",
-      "https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/"
-    ]
-  ],
-  [
-    [
-      "2022-05-09, 09:05:48",
-      "https://news.ycombinator.com/item?id=31312006"
-    ],
-    [
-      "Waterbear is a toolkit for making programming more accessible and fun",
-      "https://waterbearlang.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-08, 16:43:39",
-      "https://news.ycombinator.com/item?id=31305658"
-    ],
-    [
-      "Burning Crops to Capture Carbon?",
-      "https://www.wired.com/story/burning-crops-to-capture-carbon-good-luck-finding-water/"
     ]
   ]
 ]
