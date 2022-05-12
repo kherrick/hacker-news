@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-12, 08:39:45](https://news.ycombinator.com/item?id=31350906) - [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
 * [2022-05-12, 08:38:50](https://news.ycombinator.com/item?id=31350896) - [OP-1 field](https://teenage.engineering/)
 * [2022-05-12, 07:50:08](https://news.ycombinator.com/item?id=31350550) - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
@@ -30,6 +29,7 @@
 * [2022-05-09, 11:02:21](https://news.ycombinator.com/item?id=31312680) - [Storing State in the URL](https://antonz.org/storing-state/)
 * [2022-05-09, 09:36:12](https://news.ycombinator.com/item?id=31312175) - [Fast bitset decoding using Intel AVX-512](https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/)
 * [2022-05-07, 12:04:18](https://news.ycombinator.com/item?id=31293871) - [No 1. The Art of Failure – Jon Batiste](https://www.theisolationjournals.com/blog/jon-batiste)
+* [2022-05-07, 09:25:16](https://news.ycombinator.com/item?id=31293189) - [Single electrons trapped on solid neon potentially act as stable qubits](https://spectrum.ieee.org/neon-qubit)
 
 ## [Archives](archives/index.md)
 
