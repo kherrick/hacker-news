@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 14:20:12](https://news.ycombinator.com/item?id=31354623) - [I stopped to watch kids playing at recess. Security was called](https://reason.com/2022/05/11/kids-playing-at-recess-security-school-safety/)
 * [2022-05-12, 13:40:43](https://news.ycombinator.com/item?id=31353995) - [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
 * [2022-05-12, 13:17:44](https://news.ycombinator.com/item?id=31353692) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)

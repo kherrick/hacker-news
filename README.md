@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-12, 14:20:12](https://news.ycombinator.com/item?id=31354623) - [I stopped to watch kids playing at recess. Security was called](https://reason.com/2022/05/11/kids-playing-at-recess-security-school-safety/)
 * [2022-05-12, 13:40:43](https://news.ycombinator.com/item?id=31353995) - [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
 * [2022-05-12, 13:01:22](https://news.ycombinator.com/item?id=31353474) - [Milky Way Results from the Event Horizon Telescope(EHT)](https://beta.nsf.gov/blackholes)
@@ -17,7 +18,6 @@
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 * [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-12, 02:22:05](https://news.ycombinator.com/item?id=31348529) - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
-* [2022-05-12, 02:14:14](https://news.ycombinator.com/item?id=31348463) - [Volume of an n-ball](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
 * [2022-05-12, 01:55:01](https://news.ycombinator.com/item?id=31348316) - [Nota: A Document Language for the Browser](https://nota-lang.org/)
 * [2022-05-12, 01:25:18](https://news.ycombinator.com/item?id=31348097) - [Python Language Summit: Python Without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
 * [2022-05-12, 00:24:28](https://news.ycombinator.com/item?id=31347740) - [Cheap technology for making optic lenses that could help 2.5B people and NASA](https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996)
