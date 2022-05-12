@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 13:40:43](https://news.ycombinator.com/item?id=31353995) - [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
 * [2022-05-12, 13:17:44](https://news.ycombinator.com/item?id=31353692) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
+* [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
 * [2022-05-12, 12:59:56](https://news.ycombinator.com/item?id=31353452) - [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
 * [2022-05-12, 12:41:49](https://news.ycombinator.com/item?id=31353170) - [Learning Rust – Day 4 – Understanding Modules](https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html)
 * [2022-05-12, 12:38:02](https://news.ycombinator.com/item?id=31353130) - [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
