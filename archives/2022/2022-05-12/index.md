@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 15:00:48](https://news.ycombinator.com/item?id=31355214) - [Bitcoin Price Rebounds After Fall Below $26k](https://www.wsj.com/articles/bitcoin-falls-to-26-000-as-crypto-selloff-intensifies-11652340653)
 * [2022-05-12, 14:50:35](https://news.ycombinator.com/item?id=31355050) - [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
+* [2022-05-12, 14:49:21](https://news.ycombinator.com/item?id=31355029) - [Kea 3.0 – State Management via Logic Builders](https://keajs.org/blog/kea-3.0/)
 * [2022-05-12, 14:20:12](https://news.ycombinator.com/item?id=31354623) - [I stopped to watch kids playing at recess. Security was called](https://reason.com/2022/05/11/kids-playing-at-recess-security-school-safety/)
+* [2022-05-12, 13:49:02](https://news.ycombinator.com/item?id=31354130) - [Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2022-05-12, 13:40:43](https://news.ycombinator.com/item?id=31353995) - [Ask HN: What are some good inspirational and uplifting books?](https://news.ycombinator.com/item?id=31353995)
+* [2022-05-12, 13:39:55](https://news.ycombinator.com/item?id=31353978) - [Photos: 50 years of Japanese concept cars (2010)](http://pinktentacle.com/2010/09/photos-50-years-of-japanese-concept-cars/)
 * [2022-05-12, 13:17:44](https://news.ycombinator.com/item?id=31353692) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://www.eso.org/public/news/eso2208-eht-mw/)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
 * [2022-05-12, 13:01:22](https://news.ycombinator.com/item?id=31353474) - [Milky Way Results from the Event Horizon Telescope(EHT)](https://beta.nsf.gov/blackholes)
