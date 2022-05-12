@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-12, 19:40:36](https://news.ycombinator.com/item?id=31359271) - [Practical bruteforce of AES-1024 military grade encryption](https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/)
+* [2022-05-12, 19:10:48](https://news.ycombinator.com/item?id=31358855) - [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 * [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
 * [2022-05-12, 18:15:28](https://news.ycombinator.com/item?id=31357993) - [Sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
@@ -29,7 +30,6 @@
 * [2022-05-12, 07:50:08](https://news.ycombinator.com/item?id=31350550) - [Modernizing AWK, a 45-year old language, by adding CSV support](https://benhoyt.com/writings/goawk-csv/?m)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-10, 18:24:06](https://news.ycombinator.com/item?id=31330567) - [How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)](https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/)
-* [2022-05-10, 07:13:54](https://news.ycombinator.com/item?id=31324408) - [Announcing the PyOxy Python Runner, a single file (C)Python distribution](https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/)
 
 ## [Archives](archives/index.md)
 
