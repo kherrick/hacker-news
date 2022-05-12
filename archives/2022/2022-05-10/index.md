@@ -19,6 +19,7 @@
 * [2022-05-10, 20:47:34](https://news.ycombinator.com/item?id=31332495) - [Pages that didn't make it into “How DNS Works”](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/)
 * [2022-05-10, 20:35:38](https://news.ycombinator.com/item?id=31332334) - [Upside-Down-Ternet (2007)](http://www.ex-parrot.com/pete/upside-down-ternet.html)
 * [2022-05-10, 20:25:49](https://news.ycombinator.com/item?id=31332207) - [Coinbase Q1/22 Shareholder Letter [pdf]](https://s27.q4cdn.com/397450999/files/doc_financials/2022/q1/Coinbase-Q122-Shareholder-Letter.pdf)
+* [2022-05-10, 20:11:44](https://news.ycombinator.com/item?id=31332049) - [Two More Pyramids and a Sphinx (2019)](https://analog-antiquarian.net/2019/09/13/chapter-17-two-more-pyramids-and-a-sphinx/)
 * [2022-05-10, 20:09:27](https://news.ycombinator.com/item?id=31332018) - [PyCon US 2022 Highlights](https://ehmatthes.com/blog/pycon_2022_highlights/)
 * [2022-05-10, 20:08:00](https://news.ycombinator.com/item?id=31332002) - [Why is a registry file called a “hive”? (2003)](https://devblogs.microsoft.com/oldnewthing/20030808-00/?p=42943)
 * [2022-05-10, 19:25:39](https://news.ycombinator.com/item?id=31331463) - [IBM 5150 POST – 'Manufacturing Test' mode](http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test%20mode.htm)

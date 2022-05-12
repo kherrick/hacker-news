@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 17:00:53](https://news.ycombinator.com/item?id=31356785) - [Fieldguide (YC S20) Is Hiring](https://www.ycombinator.com/companies/fieldguide/jobs/hiGbcFx-senior-software-engineer)
+* [2022-05-12, 16:56:40](https://news.ycombinator.com/item?id=31356730) - [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
+* [2022-05-12, 16:45:51](https://news.ycombinator.com/item?id=31356579) - [Ask HN: Is anyone else glad the crypto market is crashing?](https://news.ycombinator.com/item?id=31356579)
+* [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter’s head of consumer product fired](https://twitter.com/kayvz/status/1524787801757126656)
 * [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
 * [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:44:13](https://news.ycombinator.com/item?id=31355812) - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
