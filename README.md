@@ -9,7 +9,7 @@
 * [2022-05-12, 01:02:50](https://news.ycombinator.com/item?id=31347983) - [Cryptocurreny retailer BitPrime closes trading after running out of money](https://www.bitprime.co.nz/important-notice-for-all-customers/)
 * [2022-05-12, 01:00:42](https://news.ycombinator.com/item?id=31347969) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31347969)
 * [2022-05-12, 00:24:28](https://news.ycombinator.com/item?id=31347740) - [Cheap technology for making optic lenses that could help 2.5B people and NASA](https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996)
-* [2022-05-12, 00:22:52](https://news.ycombinator.com/item?id=31347725) - [Is there a housing shortage or not?](https://constructionphysics.substack.com/p/is-there-a-housing-shortage-or-not)
+* [2022-05-11, 23:24:01](https://news.ycombinator.com/item?id=31347286) - [Show HN: Paperd.ink – an open-source e-paper development board](https://paperd.ink)
 * [2022-05-11, 22:45:58](https://news.ycombinator.com/item?id=31346924) - [My Experience at Community College](https://sporks.space/2022/05/11/my-experience-at-community-college/)
 * [2022-05-11, 22:37:31](https://news.ycombinator.com/item?id=31346838) - [Blocking Inflammation May Lead to Chronic Pain](https://www.science.org/doi/10.1126/scitranslmed.abj9954)
 * [2022-05-11, 21:40:36](https://news.ycombinator.com/item?id=31346190) - [Earn $200K by fuzzing for a weekend: Part 1](https://secret.club/2022/05/11/fuzzing-solana.html)
