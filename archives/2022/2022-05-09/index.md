@@ -79,6 +79,7 @@
 * [2022-05-09, 12:32:00](https://news.ycombinator.com/item?id=31313292) - [Forcing citizens through Google/Apple for online identity verification](https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/)
 * [2022-05-09, 12:20:06](https://news.ycombinator.com/item?id=31313202) - [Bridging Web 2 and Web 3: an identity perspective](https://yenkel.dev/posts/bridging-web-2-and-web-3-an-identity-perspective)
 * [2022-05-09, 11:48:26](https://news.ycombinator.com/item?id=31312981) - [What Dinner Will Look Like in the Next 100 Years, According to Scientists](https://www.bonappetit.com/story/plates-of-the-future)
+* [2022-05-09, 11:47:45](https://news.ycombinator.com/item?id=31312978) - [Wait, Trader Joe was a real guy?](https://www.cnn.com/2022/05/07/business/trader-joes-history-joe-coulombe/index.html)
 * [2022-05-09, 11:29:30](https://news.ycombinator.com/item?id=31312858) - [SageMath is a free open-source mathematics software system](https://www.sagemath.org/)
 * [2022-05-09, 11:23:44](https://news.ycombinator.com/item?id=31312821) - [Stamp Design Errors (2017)](https://web.archive.org/web/20170204014346/http://www.edbmb.net/stamps/index-1A.php)
 * [2022-05-09, 11:23:41](https://news.ycombinator.com/item?id=31312820) - [Ask HN: Important nonobvious startup/business lessons you've learned?](https://news.ycombinator.com/item?id=31312820)

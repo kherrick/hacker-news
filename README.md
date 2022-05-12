@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-12, 10:37:21](https://news.ycombinator.com/item?id=31351936) - [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
 * [2022-05-12, 08:52:10](https://news.ycombinator.com/item?id=31351013) - [New Twitter TOS](https://www.diffchecker.com/N1cAYuis)
 * [2022-05-12, 08:39:45](https://news.ycombinator.com/item?id=31350906) - [The Day George Soros Broke the Bank of England to Make $1.1B](https://historyofyesterday.com/the-day-george-soros-broke-the-bank-of-england-to-make-1-1b-4834df0605d1?gi=1b81186c18c9)
 * [2022-05-12, 08:38:50](https://news.ycombinator.com/item?id=31350896) - [OP-1 field](https://teenage.engineering/)
@@ -22,10 +23,9 @@
 * [2022-05-11, 20:15:38](https://news.ycombinator.com/item?id=31345163) - [Some notes on 'asshat' (2018)](https://www.merriam-webster.com/words-at-play/some-notes-on-asshat-word-history)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 19:50:06](https://news.ycombinator.com/item?id=31344863) - [Flutter 3](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release)
-* [2022-05-11, 15:50:39](https://news.ycombinator.com/item?id=31341698) - [Passenger with “no idea how to fly” lands plane after pilot incapacitated](https://www.cbsnews.com/news/passenger-lands-plane-palm-beach-airport-pilot-medical-emergency/)
-* [2022-05-11, 15:07:45](https://news.ycombinator.com/item?id=31341083) - [Markdoc: Stripe's Markdown-based authoring framework](https://markdoc.io)
 * [2022-05-11, 03:56:55](https://news.ycombinator.com/item?id=31335682) - [Georgian Slave to Safavid Master: Additions to the Corpus of Siyavush Beg Gurji](https://blogs.bl.uk/asian-and-african/2022/05/from-georgian-slave-to-safavid-master.html)
 * [2022-05-10, 11:52:03](https://news.ycombinator.com/item?id=31325956) - [From Cyberpunk to Solarpunk: Technics and the Cities of the Future](https://bluelabyrinths.com/2022/01/10/from-cyberpunk-to-solarpunk-technics-and-the-cities-of-the-future/)
+* [2022-05-09, 11:47:45](https://news.ycombinator.com/item?id=31312978) - [Wait, Trader Joe was a real guy?](https://www.cnn.com/2022/05/07/business/trader-joes-history-joe-coulombe/index.html)
 * [2022-05-09, 11:23:41](https://news.ycombinator.com/item?id=31312820) - [Ask HN: Important nonobvious startup/business lessons you've learned?](https://news.ycombinator.com/item?id=31312820)
 * [2022-05-09, 11:02:21](https://news.ycombinator.com/item?id=31312680) - [Storing State in the URL](https://antonz.org/storing-state/)
 * [2022-05-09, 09:36:12](https://news.ycombinator.com/item?id=31312175) - [Fast bitset decoding using Intel AVX-512](https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/)
