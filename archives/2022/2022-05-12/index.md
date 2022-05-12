@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 15:44:13](https://news.ycombinator.com/item?id=31355812) - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+* [2022-05-12, 15:31:57](https://news.ycombinator.com/item?id=31355638) - [A Generalist Agent [pdf]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
 * [2022-05-12, 15:00:48](https://news.ycombinator.com/item?id=31355214) - [Bitcoin Price Rebounds After Fall Below $26k](https://www.wsj.com/articles/bitcoin-falls-to-26-000-as-crypto-selloff-intensifies-11652340653)
 * [2022-05-12, 14:50:35](https://news.ycombinator.com/item?id=31355050) - [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
 * [2022-05-12, 14:49:21](https://news.ycombinator.com/item?id=31355029) - [Kea 3.0 – State Management via Logic Builders](https://keajs.org/blog/kea-3.0/)
