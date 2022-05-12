@@ -61,6 +61,7 @@
 * [2022-05-10, 11:46:18](https://news.ycombinator.com/item?id=31325921) - [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
 * [2022-05-10, 11:44:41](https://news.ycombinator.com/item?id=31325907) - [2022 Pulitzer Prize Winner in Explanatory Reporting: Staff of Quanta Magazine](https://www.pulitzer.org/winners/staff-quanta-magazine-new-york-ny-notably-natalie-wolchover)
 * [2022-05-10, 11:43:24](https://news.ycombinator.com/item?id=31325893) - [Ask HN: How many computers you got?](https://news.ycombinator.com/item?id=31325893)
+* [2022-05-10, 11:25:24](https://news.ycombinator.com/item?id=31325788) - [Yalc, a NPM link which works](https://www.sbegaudeau.com/2022/05/05/yalc-the-npm-link-which-works.html)
 * [2022-05-10, 11:01:20](https://news.ycombinator.com/item?id=31325614) - [Tech Industry Warns That More Remote-Work Jobs Are Headed Out of U.S.](https://www.wsj.com/articles/tech-industry-warns-that-more-remote-work-jobs-are-headed-out-of-u-s-11652175000)
 * [2022-05-10, 10:56:04](https://news.ycombinator.com/item?id=31325581) - [Peridot: A functional language based on two-level type theory](https://github.com/eashanhatti/peridot)
 * [2022-05-10, 10:32:04](https://news.ycombinator.com/item?id=31325447) - [Programming Style Influences](https://tratt.net/laurie/blog/2022/programming_style_influences.html)

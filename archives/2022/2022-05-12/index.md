@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
 * [2022-05-12, 02:55:30](https://news.ycombinator.com/item?id=31348772) - [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
+* [2022-05-12, 02:41:41](https://news.ycombinator.com/item?id=31348681) - [Euro Is at $1.05–The Lowest It’s Been in Years](https://www.afar.com/magazine/the-dollar-and-euro-are-almost-equal-right-now)
+* [2022-05-12, 02:22:05](https://news.ycombinator.com/item?id=31348529) - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
+* [2022-05-12, 02:14:14](https://news.ycombinator.com/item?id=31348463) - [Volume of an n-ball tends to a limiting value of 0 as n goes to infinity](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
 * [2022-05-12, 01:55:01](https://news.ycombinator.com/item?id=31348316) - [Nota: A Document Language for the Browser](https://nota-lang.org/)
 * [2022-05-12, 01:51:50](https://news.ycombinator.com/item?id=31348297) - [IntelliJ D Language – support for the D language within IntelliJ IDEA](https://intellij-dlanguage.github.io/)
 * [2022-05-12, 01:42:13](https://news.ycombinator.com/item?id=31348217) - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
