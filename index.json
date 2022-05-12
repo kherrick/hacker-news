@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-05-12, 18:02:25",
-      "https://news.ycombinator.com/item?id=31357778"
-    ],
-    [
-      "Zig Programming Language",
-      "https://ziglang.org/"
-    ]
-  ],
-  [
-    [
       "2022-05-12, 17:35:06",
       "https://news.ycombinator.com/item?id=31357314"
     ],
@@ -277,6 +267,16 @@
     [
       "Modernizing AWK, a 45-year old language, by adding CSV support",
       "https://benhoyt.com/writings/goawk-csv/?m"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 19:59:46",
+      "https://news.ycombinator.com/item?id=31344981"
+    ],
+    [
+      "Nvidia releases open-source GPU kernel modules",
+      "https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"
     ]
   ],
   [
