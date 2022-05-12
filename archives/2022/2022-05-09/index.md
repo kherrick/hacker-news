@@ -88,6 +88,7 @@
 * [2022-05-09, 10:44:10](https://news.ycombinator.com/item?id=31312561) - [The realtime web: evolution of the user experience](https://ably.com/blog/the-realtime-web-evolution-of-the-user-experience)
 * [2022-05-09, 10:37:57](https://news.ycombinator.com/item?id=31312530) - [We're all living on it. But what is The Edge?](https://whitep4nth3r.com/blog/what-is-the-edge-serverless-functions/)
 * [2022-05-09, 10:34:03](https://news.ycombinator.com/item?id=31312516) - [Two-way writeups: Coda’s secret to shipping fast](https://coda.io/@lshackleton/two-way-writeups-coda-s-secret-to-shipping-fast)
+* [2022-05-09, 10:18:18](https://news.ycombinator.com/item?id=31312411) - [I learned Hungarian late in life](https://hungarianreview.com/article/the_angel_s_son_why_i_learned_hungarian_late_in_life/)
 * [2022-05-09, 09:36:12](https://news.ycombinator.com/item?id=31312175) - [Fast bitset decoding using Intel AVX-512](https://lemire.me/blog/2022/05/06/fast-bitset-decoding-using-intel-avx-512/)
 * [2022-05-09, 09:14:49](https://news.ycombinator.com/item?id=31312064) - [Tesseract.js – Pure JavaScript OCR](https://github.com/naptha/tesseract.js)
 * [2022-05-09, 09:10:17](https://news.ycombinator.com/item?id=31312035) - [Farewell, Etaoin Shrdlu: The End of Hot Metal Typesetting at the NY Times (1978)](https://archive.org/details/FarewellEtaoinShrdlu)
