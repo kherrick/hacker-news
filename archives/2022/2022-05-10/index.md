@@ -74,6 +74,7 @@
 * [2022-05-10, 08:00:21](https://news.ycombinator.com/item?id=31324641) - [Separate Your Billing from Entitlements](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
 * [2022-05-10, 07:49:59](https://news.ycombinator.com/item?id=31324589) - [Welcome to the era of the hyper-surveilled office](https://www.economist.com/business/welcome-to-the-era-of-the-hyper-surveilled-office/21809219)
 * [2022-05-10, 07:19:12](https://news.ycombinator.com/item?id=31324439) - [Bzip3 – a better and stronger spiritual successor to bzip2](https://github.com/kspalaiologos/bzip3)
+* [2022-05-10, 07:13:54](https://news.ycombinator.com/item?id=31324408) - [Announcing the PyOxy Python Runner, a single file (C)Python distribution](https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/)
 * [2022-05-10, 06:30:41](https://news.ycombinator.com/item?id=31324112) - [’Why Am I Not Rich and Famous?’ The Delusion of Our Times](https://dariusforoux.com/rich-and-famous/)
 * [2022-05-10, 04:39:54](https://news.ycombinator.com/item?id=31323508) - [Oxygen Candles: Providing Emergency Air](https://minearc.com/oxygen-candles-providing-emergency-air/)
 * [2022-05-10, 04:26:36](https://news.ycombinator.com/item?id=31323446) - [The Ghost Writer’s Mistress](https://www.tabletmag.com/sections/arts-letters/articles/ghost-writers-mistress)

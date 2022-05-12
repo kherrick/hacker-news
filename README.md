@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
+* [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:44:13](https://news.ycombinator.com/item?id=31355812) - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+* [2022-05-12, 15:33:35](https://news.ycombinator.com/item?id=31355657) - [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 * [2022-05-12, 15:31:57](https://news.ycombinator.com/item?id=31355638) - [A Generalist Agent [pdf]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
 * [2022-05-12, 15:30:46](https://news.ycombinator.com/item?id=31355619) - [Transfusion of brain fluid from young mice improves memory in old mice](https://www.statnews.com/2022/05/11/transfusion-of-young-cerebrospinal-fluid-is-memory-elevating-elixir/)
 * [2022-05-12, 14:50:35](https://news.ycombinator.com/item?id=31355050) - [Friendlier SQL with DuckDB](https://duckdb.org/2022/05/04/friendlier-sql.html)
@@ -9,7 +12,6 @@
 * [2022-05-12, 13:39:55](https://news.ycombinator.com/item?id=31353978) - [50+ years of Japanese concept cars (2010)](http://pinktentacle.com/2010/09/photos-50-years-of-japanese-concept-cars/)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
 * [2022-05-12, 13:01:22](https://news.ycombinator.com/item?id=31353474) - [Milky Way Results from the Event Horizon Telescope(EHT)](https://beta.nsf.gov/blackholes)
-* [2022-05-12, 12:59:56](https://news.ycombinator.com/item?id=31353452) - [Cloudflare Pub/Sub: Programmable MQTT Message Brokers](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/)
 * [2022-05-12, 12:41:49](https://news.ycombinator.com/item?id=31353170) - [Learning Rust – Day 4 – Understanding Modules](https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html)
 * [2022-05-12, 12:38:02](https://news.ycombinator.com/item?id=31353130) - [WorkOS – Building blocks for quickly adding enterprise features to an app](https://workos.com)
 * [2022-05-12, 12:00:44](https://news.ycombinator.com/item?id=31352710) - [Pachyderm Is Hiring Data Science Product Managers to Pioneer Reproducible MLOps](https://www.pachyderm.com/careers/#positions)
@@ -24,12 +26,10 @@
 * [2022-05-12, 07:10:09](https://news.ycombinator.com/item?id=31350216) - [Finland will seek NATO membership immediately](https://www.presidentti.fi/tiedote/tasavallan-presidentin-ja-paaministerin-yhteislausunto-suomen-nato-jasenyydesta/)
 * [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-12, 02:22:05](https://news.ycombinator.com/item?id=31348529) - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
-* [2022-05-12, 02:14:14](https://news.ycombinator.com/item?id=31348463) - [Volume of an n-ball](https://en.wikipedia.org/wiki/Volume_of_an_n-ball)
-* [2022-05-12, 01:55:01](https://news.ycombinator.com/item?id=31348316) - [Nota: A Document Language for the Browser](https://nota-lang.org/)
-* [2022-05-12, 01:25:18](https://news.ycombinator.com/item?id=31348097) - [Python Language Summit: Python Without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
 * [2022-05-11, 23:24:01](https://news.ycombinator.com/item?id=31347286) - [Show HN: Paperd.ink – an open-source e-paper development board](https://paperd.ink)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-10, 11:52:03](https://news.ycombinator.com/item?id=31325956) - [From Cyberpunk to Solarpunk: Technics and the Cities of the Future](https://bluelabyrinths.com/2022/01/10/from-cyberpunk-to-solarpunk-technics-and-the-cities-of-the-future/)
+* [2022-05-10, 07:13:54](https://news.ycombinator.com/item?id=31324408) - [Announcing the PyOxy Python Runner, a single file (C)Python distribution](https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
+* [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:44:13](https://news.ycombinator.com/item?id=31355812) - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+* [2022-05-12, 15:33:35](https://news.ycombinator.com/item?id=31355657) - [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 * [2022-05-12, 15:31:57](https://news.ycombinator.com/item?id=31355638) - [A Generalist Agent [pdf]](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
 * [2022-05-12, 15:30:46](https://news.ycombinator.com/item?id=31355619) - [Transfusion of brain fluid from young mice improves memory in old mice](https://www.statnews.com/2022/05/11/transfusion-of-young-cerebrospinal-fluid-is-memory-elevating-elixir/)
 * [2022-05-12, 15:00:48](https://news.ycombinator.com/item?id=31355214) - [Bitcoin Price Rebounds After Fall Below $26k](https://www.wsj.com/articles/bitcoin-falls-to-26-000-as-crypto-selloff-intensifies-11652340653)
