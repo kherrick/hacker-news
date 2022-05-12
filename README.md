@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
+* [2022-05-12, 22:47:39](https://news.ycombinator.com/item?id=31361023) - [Ngn/k (free K implementation)](https://codeberg.org/ngn/k)
 * [2022-05-12, 22:16:54](https://news.ycombinator.com/item?id=31360776) - [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
-* [2022-05-12, 22:16:17](https://news.ycombinator.com/item?id=31360765) - [Reflections on Birdwatch](https://www.newslettr.com/p/reflections-on-birdwatch-week-1)
 * [2022-05-12, 19:10:48](https://news.ycombinator.com/item?id=31358855) - [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 * [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
@@ -29,6 +28,7 @@
 * [2022-05-12, 08:38:50](https://news.ycombinator.com/item?id=31350896) - [OP-1 field](https://teenage.engineering/)
 * [2022-05-12, 08:19:26](https://news.ycombinator.com/item?id=31350746) - [Please don’t let anyone Americanise it (1992)](https://news.lettersofnote.com/p/please-dont-let-anyone-americanise)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
+* [2022-05-11, 18:18:12](https://news.ycombinator.com/item?id=31343793) - [Concepts of the Text Editor Lara (1985)](https://dl.acm.org/doi/pdf/10.1145/4284.4288)
 * [2022-05-10, 18:24:06](https://news.ycombinator.com/item?id=31330567) - [How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)](https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/)
 
 ## [Archives](archives/index.md)
