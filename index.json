@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-12, 16:06:25",
+      "https://news.ycombinator.com/item?id=31356109"
+    ],
+    [
+      "Fastest-ever logic gates could make computers a million times faster",
+      "https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 15:48:05",
+      "https://news.ycombinator.com/item?id=31355857"
+    ],
+    [
+      "Improved Process Isolation in Firefox 100",
+      "https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/"
+    ]
+  ],
+  [
+    [
       "2022-05-12, 15:44:13",
       "https://news.ycombinator.com/item?id=31355812"
     ],
     [
       "Introduction to Diffusion Models for Machine Learning",
       "https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 15:33:35",
+      "https://news.ycombinator.com/item?id=31355657"
+    ],
+    [
+      "DeepMind: A Generalist Agent",
+      "https://www.deepmind.com/publications/a-generalist-agent"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Milky Way Results from the Event Horizon Telescope(EHT)",
       "https://beta.nsf.gov/blackholes"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 12:59:56",
-      "https://news.ycombinator.com/item?id=31353452"
-    ],
-    [
-      "Cloudflare Pub/Sub: Programmable MQTT Message Brokers",
-      "https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/"
     ]
   ],
   [
@@ -241,36 +261,6 @@
   ],
   [
     [
-      "2022-05-12, 02:14:14",
-      "https://news.ycombinator.com/item?id=31348463"
-    ],
-    [
-      "Volume of an n-ball",
-      "https://en.wikipedia.org/wiki/Volume_of_an_n-ball"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 01:55:01",
-      "https://news.ycombinator.com/item?id=31348316"
-    ],
-    [
-      "Nota: A Document Language for the Browser",
-      "https://nota-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 01:25:18",
-      "https://news.ycombinator.com/item?id=31348097"
-    ],
-    [
-      "Python Language Summit: Python Without the GIL",
-      "https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html"
-    ]
-  ],
-  [
-    [
       "2022-05-11, 23:24:01",
       "https://news.ycombinator.com/item?id=31347286"
     ],
@@ -297,6 +287,16 @@
     [
       "From Cyberpunk to Solarpunk: Technics and the Cities of the Future",
       "https://bluelabyrinths.com/2022/01/10/from-cyberpunk-to-solarpunk-technics-and-the-cities-of-the-future/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 07:13:54",
+      "https://news.ycombinator.com/item?id=31324408"
+    ],
+    [
+      "Announcing the PyOxy Python Runner, a single file (C)Python distribution",
+      "https://gregoryszorc.com/blog/2022/05/10/announcing-the-pyoxy-python-runner/"
     ]
   ]
 ]
