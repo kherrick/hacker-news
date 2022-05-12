@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 11:54:48](https://news.ycombinator.com/item?id=31352655) - [Show HN: Swimlanes for Trello (at last!)](https://www.bluecatreports.com/swimlanes/)
 * [2022-05-12, 10:53:58](https://news.ycombinator.com/item?id=31352108) - [The saddest “just ship it” story ever](https://kitze.io/posts/saddest-just-ship-it-story-ever)
 * [2022-05-12, 10:43:25](https://news.ycombinator.com/item?id=31351993) - [Benchmarking Container Scaling on AWS](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
 * [2022-05-12, 10:37:21](https://news.ycombinator.com/item?id=31351936) - [EU Commission is planning automatic CSAM scanning of your private communication](https://tutanota.com/blog/posts/eu-surveillance-csam/)
