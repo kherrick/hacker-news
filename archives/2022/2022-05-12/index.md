@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-12](index.md)
 
+* [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
+* [2022-05-12, 22:16:54](https://news.ycombinator.com/item?id=31360776) - [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
 * [2022-05-12, 19:40:36](https://news.ycombinator.com/item?id=31359271) - [Practical bruteforce of AES-1024 military grade encryption](https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/)
 * [2022-05-12, 19:10:48](https://news.ycombinator.com/item?id=31358855) - [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
