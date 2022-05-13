@@ -64,6 +64,7 @@
 * [2022-05-11, 11:24:06](https://news.ycombinator.com/item?id=31338329) - [18 Years – My Journey Through the American Immigration System as an Engineer](https://software.rajivprab.com/2022/05/10/18-years-a-transient/)
 * [2022-05-11, 11:19:01](https://news.ycombinator.com/item?id=31338304) - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)
 * [2022-05-11, 11:14:27](https://news.ycombinator.com/item?id=31338282) - [Thousands of Popular Websites See What You Type–Before You Hit Submit](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/)
+* [2022-05-11, 11:02:02](https://news.ycombinator.com/item?id=31338205) - [Dictionary Facts: Oxford English Dictionary](https://www.oed.com/page/facts/loginpage)
 * [2022-05-11, 10:43:56](https://news.ycombinator.com/item?id=31338090) - [Mysterious Memset](https://vector-of-bool.github.io/2022/05/11/char8-memset.html)
 * [2022-05-11, 10:17:34](https://news.ycombinator.com/item?id=31337889) - [Smishing](https://zitadel.ch/blog/smishing)
 * [2022-05-11, 09:18:55](https://news.ycombinator.com/item?id=31337563) - [A multi-parameter persistence framework for mathematical morphology](https://www.nature.com/articles/s41598-022-09464-7)
