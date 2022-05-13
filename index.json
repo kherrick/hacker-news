@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-05-13, 03:39:03",
+      "https://news.ycombinator.com/item?id=31363027"
+    ],
+    [
+      "Cities with Nice Weather",
+      "https://jdonland.github.io/city_temperatures/index.html"
+    ]
+  ],
+  [
+    [
       "2022-05-13, 01:49:04",
       "https://news.ycombinator.com/item?id=31362321"
     ],
     [
       "BBC Basic for SDL 2.0",
       "https://www.bbcbasic.co.uk/bbcsdl/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 01:30:23",
-      "https://news.ycombinator.com/item?id=31362208"
-    ],
-    [
-      "Expats are moving to Portugal, taking gentrification with them",
-      "https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-05-13, 01:00:14",
-      "https://news.ycombinator.com/item?id=31361974"
-    ],
-    [
-      "macOS Multi-Monitor Problems",
-      "https://www.lautman.net/dan/blog/post/macosmonitorissues/"
-    ]
-  ],
-  [
-    [
       "2022-05-13, 00:42:06",
       "https://news.ycombinator.com/item?id=31361858"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31361705"
     ],
     [
-      "Why a Meeting Costs More Than a MacBook Pro",
+      "The business case for fewer developers in meetings",
       "https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/"
     ]
   ],
@@ -157,16 +147,6 @@
     [
       "Apple Maps location scan spikes WiFi latency every 60 seconds",
       "https://twitter.com/benskuhn/status/1524791658381910023"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 16:55:45",
-      "https://news.ycombinator.com/item?id=31356719"
-    ],
-    [
-      "Scarcity Truthers",
-      "https://philo.substack.com/p/scarcity-truthers"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Astronomers reveal first image of the black hole at the heart of our galaxy",
       "https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 23:09:13",
+      "https://news.ycombinator.com/item?id=31347151"
+    ],
+    [
+      "Not Another MFA Essay",
+      "https://joukovsky.substack.com/p/not-another-mfa-essay?s=r"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 19:59:46",
+      "https://news.ycombinator.com/item?id=31344981"
+    ],
+    [
+      "Nvidia releases open-source GPU kernel modules",
+      "https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"
     ]
   ],
   [
