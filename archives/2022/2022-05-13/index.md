@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
 * [2022-05-13, 07:00:41](https://news.ycombinator.com/item?id=31364267) - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+* [2022-05-13, 06:41:08](https://news.ycombinator.com/item?id=31364151) - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
 * [2022-05-13, 05:38:36](https://news.ycombinator.com/item?id=31363738) - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 * [2022-05-13, 04:59:51](https://news.ycombinator.com/item?id=31363510) - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
