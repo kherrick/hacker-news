@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
+* [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
 * [2022-05-13, 15:14:45](https://news.ycombinator.com/item?id=31368713) - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
 * [2022-05-13, 15:01:51](https://news.ycombinator.com/item?id=31368556) - [The scourge of Rec dot gov (2021)](https://pmags.com/the-scourge-of-rec-dot-gov)
 * [2022-05-13, 14:57:42](https://news.ycombinator.com/item?id=31368509) - [Safari Technology Preview Release 145 –:has() and container queries](https://developer.apple.com/safari/technology-preview/release-notes/)
