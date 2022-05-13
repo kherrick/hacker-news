@@ -80,6 +80,7 @@
 * [2022-05-11, 04:37:59](https://news.ycombinator.com/item?id=31335904) - [Show HN: 1,900 remote company profiles with tech stacks and employee benefits](https://himalayas.app/companies)
 * [2022-05-11, 04:33:40](https://news.ycombinator.com/item?id=31335887) - [The no-code blog builder Notion users have dreamed of](https://blogic.so)
 * [2022-05-11, 04:30:35](https://news.ycombinator.com/item?id=31335872) - [Ballerina: A Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/)
+* [2022-05-11, 04:21:48](https://news.ycombinator.com/item?id=31335817) - [How Queer Was Ludwig Wittgenstein?](https://www.newyorker.com/magazine/2022/05/16/how-queer-was-ludwig-wittgenstein)
 * [2022-05-11, 03:56:55](https://news.ycombinator.com/item?id=31335682) - [Georgian Slave to Safavid Master: Additions to the Corpus of Siyavush Beg Gurji](https://blogs.bl.uk/asian-and-african/2022/05/from-georgian-slave-to-safavid-master.html)
 * [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [Solid-state cells will cut EV charging time and increase volumetric density](https://electrek.co/2022/04/26/quantumscape-updates-q1-2022-report-includes-new-16-layer-solid-state-cell-and-scaled-manufacturing/)
 * [2022-05-11, 03:40:08](https://news.ycombinator.com/item?id=31335609) - [First commercially viable lithium solid state battery charges to 80% in 15 mins](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
