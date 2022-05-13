@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-13, 19:01:03",
+      "https://news.ycombinator.com/item?id=31371340"
+    ],
+    [
+      "Show HN: A Full-Stack Web Framework for Go",
+      "https://github.com/livebud/bud"
+    ]
+  ],
+  [
+    [
       "2022-05-13, 18:43:58",
       "https://news.ycombinator.com/item?id=31371155"
     ],
@@ -27,16 +37,6 @@
     [
       "Henry George's Progress and Poverty Reviewed",
       "https://gameofrent.com/content/progress-and-poverty-review"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 17:14:16",
-      "https://news.ycombinator.com/item?id=31370215"
-    ],
-    [
-      "A Man Who Controls Computers with His Mind",
-      "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31368209"
     ],
     [
-      "23k Devices Shipped. Quick Start Guide for Flipper Zero",
+      "Quick Start Guide for Flipper Zero",
       "https://blog.flipperzero.one/quick-start-guide-and-shipping-update/"
     ]
   ],
