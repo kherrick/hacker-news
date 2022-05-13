@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
 * [2022-05-13, 09:57:58](https://news.ycombinator.com/item?id=31365307) - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
+* [2022-05-13, 09:15:22](https://news.ycombinator.com/item?id=31365053) - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 * [2022-05-13, 09:01:56](https://news.ycombinator.com/item?id=31364983) - [Show HN: Fruits – sell digital products in less than 2 minutes](https://fruits.de/en)
 * [2022-05-13, 08:53:28](https://news.ycombinator.com/item?id=31364945) - [Luna Founder Requests Police Protection as Investors Are Visiting His House](https://news.mt.co.kr/mtview.php?no=2022051308574726920)
 * [2022-05-13, 08:49:44](https://news.ycombinator.com/item?id=31364916) - [Show HN: React Routing in 120 lines (including comments)](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)

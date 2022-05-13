@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-13, 09:57:58](https://news.ycombinator.com/item?id=31365307) - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
+* [2022-05-13, 09:15:22](https://news.ycombinator.com/item?id=31365053) - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 * [2022-05-13, 09:01:56](https://news.ycombinator.com/item?id=31364983) - [Show HN: Fruits – sell digital products in less than 2 minutes](https://fruits.de/en)
 * [2022-05-13, 08:53:28](https://news.ycombinator.com/item?id=31364945) - [Luna Founder Requests Police Protection as Investors Are Visiting His House](https://news.mt.co.kr/mtview.php?no=2022051308574726920)
 * [2022-05-13, 08:49:44](https://news.ycombinator.com/item?id=31364916) - [Show HN: React Routing in 120 lines (including comments)](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)
@@ -29,7 +30,6 @@
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 18:41:48](https://news.ycombinator.com/item?id=31344068) - [A Cattle Trader’s Formula](https://www.texasmonthly.com/news-politics/cattle-trading-capitol-schwertner/)
 * [2022-05-11, 18:41:35](https://news.ycombinator.com/item?id=31344066) - [The Washington Post's open-source design system](https://build.washingtonpost.com/)
-* [2022-05-10, 18:24:06](https://news.ycombinator.com/item?id=31330567) - [How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)](https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/)
 
 ## [Archives](archives/index.md)
 
