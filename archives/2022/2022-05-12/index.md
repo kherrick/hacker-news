@@ -27,6 +27,7 @@
 * [2022-05-12, 16:41:32](https://news.ycombinator.com/item?id=31356537) - [Beautiful Racket – Online Book for Racket Lang](https://beautifulracket.com/)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter’s head of consumer product fired](https://twitter.com/kayvz/status/1524787801757126656)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter CEO fires two top executives, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
+* [2022-05-12, 16:30:02](https://news.ycombinator.com/item?id=31356405) - [After roasting Apple about headphone jacks, Google dumps it from Pixel 6A](https://www.theverge.com/2022/5/11/23067702/google-pixel-6a-headphone-jack)
 * [2022-05-12, 16:27:56](https://news.ycombinator.com/item?id=31356377) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://www.sciencedirect.com/science/article/pii/S2352396422002225)
 * [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
 * [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
