@@ -22,14 +22,14 @@
 * [2022-05-12, 16:55:45](https://news.ycombinator.com/item?id=31356719) - [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
 * [2022-05-12, 16:41:32](https://news.ycombinator.com/item?id=31356537) - [Beautiful Racket (2016)](https://beautifulracket.com/)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter CEO fires two top executives, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
-* [2022-05-12, 16:30:02](https://news.ycombinator.com/item?id=31356405) - [After roasting Apple about headphone jacks, Google dumps it from Pixel 6A](https://www.theverge.com/2022/5/11/23067702/google-pixel-6a-headphone-jack)
-* [2022-05-12, 16:06:25](https://news.ycombinator.com/item?id=31356109) - [Fastest-ever logic gates could make computers a million times faster](https://newatlas.com/electronics/fastest-ever-logic-gates-computers-million-times-faster-petahertz/)
 * [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:33:35](https://news.ycombinator.com/item?id=31355657) - [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 * [2022-05-12, 13:49:02](https://news.ycombinator.com/item?id=31354130) - [Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
+* [2022-05-11, 23:09:13](https://news.ycombinator.com/item?id=31347151) - [Not Another MFA Essay](https://joukovsky.substack.com/p/not-another-mfa-essay?s=r)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-10, 18:24:06](https://news.ycombinator.com/item?id=31330567) - [How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)](https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/)
+* [2022-05-10, 16:07:45](https://news.ycombinator.com/item?id=31328769) - [The Difficulty of DMs](https://www.withcardinal.com/blog/2022-05-10-the-difficulty-of-dms)
 
 ## [Archives](archives/index.md)
 
