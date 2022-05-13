@@ -6,6 +6,7 @@
 
 * [2022-05-11, 23:46:16](https://news.ycombinator.com/item?id=31347478) - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/info/rfc9250)
 * [2022-05-11, 23:24:01](https://news.ycombinator.com/item?id=31347286) - [Show HN: Paperd.ink – an open-source e-paper development board](https://paperd.ink)
+* [2022-05-11, 23:09:13](https://news.ycombinator.com/item?id=31347151) - [Not Another MFA Essay](https://joukovsky.substack.com/p/not-another-mfa-essay?s=r)
 * [2022-05-11, 22:45:58](https://news.ycombinator.com/item?id=31346924) - [My Experience at Community College](https://sporks.space/2022/05/11/my-experience-at-community-college/)
 * [2022-05-11, 22:37:31](https://news.ycombinator.com/item?id=31346838) - [Blocking Inflammation May Lead to Chronic Pain](https://www.science.org/doi/10.1126/scitranslmed.abj9954)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)

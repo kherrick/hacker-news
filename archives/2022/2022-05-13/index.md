@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 01:49:04](https://news.ycombinator.com/item?id=31362321) - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2022-05-13, 01:30:23](https://news.ycombinator.com/item?id=31362208) - [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
 * [2022-05-13, 01:09:26](https://news.ycombinator.com/item?id=31362049) - [Tokay Programming Language](https://tokay.dev/)
