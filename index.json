@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-05-12, 18:55:20",
-      "https://news.ycombinator.com/item?id=31358609"
-    ],
-    [
-      "Plants grown in Apollo lunar regolith",
-      "https://www.nature.com/articles/s42003-022-03334-8"
-    ]
-  ],
-  [
-    [
       "2022-05-12, 17:35:06",
       "https://news.ycombinator.com/item?id=31357314"
     ],
@@ -247,6 +237,16 @@
     [
       "Twitter CEO fires two top executives, freezes hiring",
       "https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 13:49:02",
+      "https://news.ycombinator.com/item?id=31354130"
+    ],
+    [
+      "Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs",
+      "https://github.com/alufers/mitmproxy2swagger"
     ]
   ],
   [
