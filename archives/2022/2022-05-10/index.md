@@ -39,6 +39,7 @@
 * [2022-05-10, 16:44:53](https://news.ycombinator.com/item?id=31329247) - [The ACLU Has Lost Its Way](https://www.theatlantic.com/ideas/archive/2022/05/aclu-johnny-depp-amber-heard-trial/629808/)
 * [2022-05-10, 16:33:06](https://news.ycombinator.com/item?id=31329076) - [Yahoo Japan's password-free authentication reduced inquiries by 25%, sped up](https://web.dev/yahoo-japan-identity-case-study/)
 * [2022-05-10, 16:08:43](https://news.ycombinator.com/item?id=31328783) - [Supabase (YC S20) raises $80M Series B](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
+* [2022-05-10, 16:07:45](https://news.ycombinator.com/item?id=31328769) - [The Difficulty of DMs](https://www.withcardinal.com/blog/2022-05-10-the-difficulty-of-dms)
 * [2022-05-10, 16:04:44](https://news.ycombinator.com/item?id=31328740) - [Apple discontinues iPod touch, ending 20 year run of iconic ‘iPod’ brand](https://9to5mac.com/2022/05/10/apple-discontinues-ipod-touch/)
 * [2022-05-10, 16:02:26](https://news.ycombinator.com/item?id=31328703) - [The Music Lives On](https://www.apple.com/newsroom/2022/05/the-music-lives-on/)
 * [2022-05-10, 15:49:41](https://news.ycombinator.com/item?id=31328542) - [Intel’s Core i9-12950HX has 16 cores and 55 watts of power](https://www.theverge.com/2022/5/10/23065131/intel-core-i9-12950hx-mobile-laptop-processor-16-cores-55-watts)
