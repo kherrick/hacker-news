@@ -6,6 +6,7 @@
 * [2022-05-13, 09:15:22](https://news.ycombinator.com/item?id=31365053) - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 * [2022-05-13, 09:01:56](https://news.ycombinator.com/item?id=31364983) - [Show HN: Fruits – sell digital products in less than 2 minutes](https://fruits.de/en)
 * [2022-05-13, 08:49:44](https://news.ycombinator.com/item?id=31364916) - [Show HN: React Routing in 120 lines (including comments)](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)
+* [2022-05-13, 08:39:19](https://news.ycombinator.com/item?id=31364849) - [When Wireless Malware Stays on After Turning Off iPhones [pdf]](https://arxiv.org/abs/2205.06114)
 * [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 * [2022-05-13, 07:00:41](https://news.ycombinator.com/item?id=31364267) - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
 * [2022-05-13, 06:44:32](https://news.ycombinator.com/item?id=31364166) - [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
@@ -27,7 +28,6 @@
 * [2022-05-12, 16:56:40](https://news.ycombinator.com/item?id=31356730) - [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter CEO fires two top executives, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
-* [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 18:41:35](https://news.ycombinator.com/item?id=31344066) - [The Washington Post's open-source design system](https://build.washingtonpost.com/)
 * [2022-05-10, 17:11:38](https://news.ycombinator.com/item?id=31329587) - [Building a musical instrument with the Web Audio API](https://www.taniarascia.com/musical-instrument-web-audio-api/)
 
