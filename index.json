@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-05-13, 15:14:45",
+      "https://news.ycombinator.com/item?id=31368713"
+    ],
+    [
+      "Talking with the Moon: Inside Apollo's premodulation processor",
+      "http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 15:01:51",
+      "https://news.ycombinator.com/item?id=31368556"
+    ],
+    [
+      "The scourge of Rec dot gov (2021)",
+      "https://pmags.com/the-scourge-of-rec-dot-gov"
+    ]
+  ],
+  [
+    [
       "2022-05-13, 14:57:42",
       "https://news.ycombinator.com/item?id=31368509"
     ],
     [
-      "Safari Technology Preview Release 145 –:has() and container queries",
+      "Safari Technology Preview Release Notes",
       "https://developer.apple.com/safari/technology-preview/release-notes/"
     ]
   ],
@@ -15,8 +35,18 @@
       "https://news.ycombinator.com/item?id=31368212"
     ],
     [
-      "Jonesforth – A sometimes minimal FORTH compiler and tutorial (2007)",
+      "Jonesforth – A sometimes minimal Forth compiler and tutorial (2007)",
       "https://github.com/nornagon/jonesforth/blob/master/jonesforth.S"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 14:36:08",
+      "https://news.ycombinator.com/item?id=31368209"
+    ],
+    [
+      "23,000 Flipper Zero Shipped",
+      "https://blog.flipperzero.one/quick-start-guide-and-shipping-update/"
     ]
   ],
   [
@@ -237,36 +267,6 @@
     [
       "BBC Basic for SDL 2.0",
       "https://www.bbcbasic.co.uk/bbcsdl/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 00:20:17",
-      "https://news.ycombinator.com/item?id=31361705"
-    ],
-    [
-      "The business case for fewer developers in meetings",
-      "https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 00:09:43",
-      "https://news.ycombinator.com/item?id=31361631"
-    ],
-    [
-      "Why does pepperoni curl? (2019)",
-      "https://www.seriouseats.com/the-pizza-lab-why-does-pepperoni-curl"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 00:07:15",
-      "https://news.ycombinator.com/item?id=31361617"
-    ],
-    [
-      "We asked 100 humans to draw the DALL·E prompts",
-      "https://www.surgehq.ai//blog/humans-vs-dall-e"
     ]
   ],
   [
