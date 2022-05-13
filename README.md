@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 * [2022-05-13, 08:02:02](https://news.ycombinator.com/item?id=31364638) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
 * [2022-05-13, 07:00:41](https://news.ycombinator.com/item?id=31364267) - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
 * [2022-05-13, 06:44:32](https://news.ycombinator.com/item?id=31364166) - [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
@@ -23,13 +24,12 @@
 * [2022-05-12, 17:35:06](https://news.ycombinator.com/item?id=31357314) - [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
 * [2022-05-12, 16:56:40](https://news.ycombinator.com/item?id=31356730) - [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter CEO fires two top executives, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
-* [2022-05-12, 15:33:35](https://news.ycombinator.com/item?id=31355657) - [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 * [2022-05-12, 13:49:02](https://news.ycombinator.com/item?id=31354130) - [Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
+* [2022-05-11, 18:41:48](https://news.ycombinator.com/item?id=31344068) - [A Cattle Trader’s Formula](https://www.texasmonthly.com/news-politics/cattle-trading-capitol-schwertner/)
 * [2022-05-11, 18:41:35](https://news.ycombinator.com/item?id=31344066) - [The Washington Post's open-source design system](https://build.washingtonpost.com/)
 * [2022-05-10, 18:24:06](https://news.ycombinator.com/item?id=31330567) - [How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)](https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/)
-* [2022-05-10, 16:07:45](https://news.ycombinator.com/item?id=31328769) - [The Difficulty of DMs](https://www.withcardinal.com/blog/2022-05-10-the-difficulty-of-dms)
 
 ## [Archives](archives/index.md)
 

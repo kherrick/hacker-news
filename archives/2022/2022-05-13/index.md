@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 * [2022-05-13, 08:02:02](https://news.ycombinator.com/item?id=31364638) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
 * [2022-05-13, 07:00:41](https://news.ycombinator.com/item?id=31364267) - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
 * [2022-05-13, 06:44:32](https://news.ycombinator.com/item?id=31364166) - [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
