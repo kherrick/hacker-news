@@ -13,6 +13,7 @@
 * [2022-05-13, 06:41:08](https://news.ycombinator.com/item?id=31364151) - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
 * [2022-05-13, 05:38:36](https://news.ycombinator.com/item?id=31363738) - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
+* [2022-05-13, 04:59:51](https://news.ycombinator.com/item?id=31363510) - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
 * [2022-05-13, 03:57:53](https://news.ycombinator.com/item?id=31363153) - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 01:49:04](https://news.ycombinator.com/item?id=31362321) - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
@@ -27,7 +28,6 @@
 * [2022-05-12, 16:56:40](https://news.ycombinator.com/item?id=31356730) - [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter CEO fires two top executives, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
-* [2022-05-11, 18:41:48](https://news.ycombinator.com/item?id=31344068) - [A Cattle Trader’s Formula](https://www.texasmonthly.com/news-politics/cattle-trading-capitol-schwertner/)
 * [2022-05-11, 18:41:35](https://news.ycombinator.com/item?id=31344066) - [The Washington Post's open-source design system](https://build.washingtonpost.com/)
 * [2022-05-10, 17:11:38](https://news.ycombinator.com/item?id=31329587) - [Building a musical instrument with the Web Audio API](https://www.taniarascia.com/musical-instrument-web-audio-api/)
 
