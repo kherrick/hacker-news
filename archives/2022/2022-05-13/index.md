@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
+* [2022-05-13, 13:27:14](https://news.ycombinator.com/item?id=31367302) - [A Simple Ratio Came to Influence Military Strategy](https://www.wsj.com/articles/how-a-simple-ratio-came-to-influence-military-strategy-11652434202)
+* [2022-05-13, 12:33:22](https://news.ycombinator.com/item?id=31366715) - [Chainless electric drive system “Free Drive” for bicycles (2021)](https://www.schaeffler.de/en/news_media/press_releases/press_releases_detail.jsp?id=87716736)
 * [2022-05-13, 12:28:35](https://news.ycombinator.com/item?id=31366660) - [Germany: Crypto held for more than a year will not get taxed](https://www.vanticatrading.com/post/germany-crypto-held-for-more-than-a-year-will-not-get-taxed)
 * [2022-05-13, 12:01:00](https://news.ycombinator.com/item?id=31366406) - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
 * [2022-05-13, 11:43:26](https://news.ycombinator.com/item?id=31366214) - [Ex-eBay exec pleads guilty to terrorizing couple with spiders, funeral wreaths](https://www.theguardian.com/technology/2022/may/12/ebay-executive-guilty-boston-couple-harassment)
