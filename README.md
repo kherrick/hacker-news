@@ -18,7 +18,6 @@
 * [2022-05-13, 01:09:26](https://news.ycombinator.com/item?id=31362049) - [Tokay Programming Language](https://tokay.dev/)
 * [2022-05-13, 00:42:06](https://news.ycombinator.com/item?id=31361858) - [Ask HN: Asynchronous FPGAs and flowchart programming](https://news.ycombinator.com/item?id=31361858)
 * [2022-05-13, 00:20:17](https://news.ycombinator.com/item?id=31361705) - [The business case for fewer developers in meetings](https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/)
-* [2022-05-13, 00:09:43](https://news.ycombinator.com/item?id=31361631) - [Why Does Pepperoni Curl?](https://www.seriouseats.com/the-pizza-lab-why-does-pepperoni-curl)
 * [2022-05-13, 00:07:15](https://news.ycombinator.com/item?id=31361617) - [We asked 100 humans to draw the DALL·E prompts](https://www.surgehq.ai//blog/humans-vs-dall-e)
 * [2022-05-12, 22:47:39](https://news.ycombinator.com/item?id=31361023) - [Ngn/k (free K implementation)](https://codeberg.org/ngn/k)
 * [2022-05-12, 22:01:16](https://news.ycombinator.com/item?id=31360653) - [Reversing Myopia: A Human-Friendly Primer](https://www.losetheglasses.org/)
@@ -30,6 +29,7 @@
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-11, 18:41:48](https://news.ycombinator.com/item?id=31344068) - [A Cattle Trader’s Formula](https://www.texasmonthly.com/news-politics/cattle-trading-capitol-schwertner/)
 * [2022-05-11, 18:41:35](https://news.ycombinator.com/item?id=31344066) - [The Washington Post's open-source design system](https://build.washingtonpost.com/)
+* [2022-05-10, 17:11:38](https://news.ycombinator.com/item?id=31329587) - [Building a musical instrument with the Web Audio API](https://www.taniarascia.com/musical-instrument-web-audio-api/)
 
 ## [Archives](archives/index.md)
 
