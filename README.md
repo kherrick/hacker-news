@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-13, 18:17:53](https://news.ycombinator.com/item?id=31370881) - [Would You Take Out a Loan for a Pair of Jeans? (2017)](https://www.racked.com/2017/11/29/16710502/affirm-loan-shopping)
 * [2022-05-13, 17:00:03](https://news.ycombinator.com/item?id=31370032) - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 * [2022-05-13, 16:40:29](https://news.ycombinator.com/item?id=31369779) - [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
 * [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
@@ -29,7 +30,6 @@
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 02:18:20](https://news.ycombinator.com/item?id=31362519) - [How does a cowbird learn to be a cowbird? (2016)](https://www.audubon.org/news/how-does-cowbird-learn-be-cowbird)
 * [2022-05-13, 00:38:47](https://news.ycombinator.com/item?id=31361832) - [Hiring technical talent: An exercise in clarity, patience, and preparation](https://github.com/readme/guides/hiring-technical-talent)
-* [2022-05-11, 11:02:02](https://news.ycombinator.com/item?id=31338205) - [Dictionary Facts: Oxford English Dictionary](https://www.oed.com/page/facts/loginpage)
 
 ## [Archives](archives/index.md)
 
