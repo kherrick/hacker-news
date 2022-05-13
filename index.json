@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-13, 01:49:04",
+      "https://news.ycombinator.com/item?id=31362321"
+    ],
+    [
+      "BBC Basic for SDL 2.0",
+      "https://www.bbcbasic.co.uk/bbcsdl/index.html"
+    ]
+  ],
+  [
+    [
       "2022-05-13, 01:30:23",
       "https://news.ycombinator.com/item?id=31362208"
     ],
@@ -31,6 +41,36 @@
   ],
   [
     [
+      "2022-05-13, 01:00:14",
+      "https://news.ycombinator.com/item?id=31361974"
+    ],
+    [
+      "macOS Multi-Monitor Problems",
+      "https://www.lautman.net/dan/blog/post/macosmonitorissues/"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 00:42:06",
+      "https://news.ycombinator.com/item?id=31361858"
+    ],
+    [
+      "Ask HN: Asynchronous FPGAs and flowchart programming",
+      "https://news.ycombinator.com/item?id=31361858"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 00:20:17",
+      "https://news.ycombinator.com/item?id=31361705"
+    ],
+    [
+      "Why a Meeting Costs More Than a MacBook Pro",
+      "https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/"
+    ]
+  ],
+  [
+    [
       "2022-05-13, 00:09:43",
       "https://news.ycombinator.com/item?id=31361631"
     ],
@@ -41,12 +81,12 @@
   ],
   [
     [
-      "2022-05-12, 23:54:50",
-      "https://news.ycombinator.com/item?id=31361529"
+      "2022-05-13, 00:07:15",
+      "https://news.ycombinator.com/item?id=31361617"
     ],
     [
-      "Shared success in building a safer open-source community",
-      "https://blog.google/technology/safety-security/shared-success-in-building-a-safer-open-source-community/"
+      "We asked 100 humans to draw the DALL·E prompts",
+      "https://www.surgehq.ai//blog/humans-vs-dall-e"
     ]
   ],
   [
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31358855"
     ],
     [
-      "Wireless Is a Trap",
+      "Wireless is a trap",
       "https://www.benkuhn.net/wireless/"
     ]
   ],
@@ -97,16 +137,6 @@
     [
       "Plants grown in Apollo lunar regolith",
       "https://www.nature.com/articles/s42003-022-03334-8"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 18:15:28",
-      "https://news.ycombinator.com/item?id=31357993"
-    ],
-    [
-      "Sccache – Shared Compilation Cache",
-      "https://github.com/mozilla/sccache"
     ]
   ],
   [
@@ -161,6 +191,16 @@
   ],
   [
     [
+      "2022-05-12, 16:30:02",
+      "https://news.ycombinator.com/item?id=31356405"
+    ],
+    [
+      "After roasting Apple about headphone jacks, Google dumps it from Pixel 6A",
+      "https://www.theverge.com/2022/5/11/23067702/google-pixel-6a-headphone-jack"
+    ]
+  ],
+  [
+    [
       "2022-05-12, 16:06:25",
       "https://news.ycombinator.com/item?id=31356109"
     ],
@@ -177,16 +217,6 @@
     [
       "Improved Process Isolation in Firefox 100",
       "https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 15:44:13",
-      "https://news.ycombinator.com/item?id=31355812"
-    ],
-    [
-      "Introduction to Diffusion Models for Machine Learning",
-      "https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2022-05-12, 13:39:55",
-      "https://news.ycombinator.com/item?id=31353978"
-    ],
-    [
-      "50+ years of Japanese concept cars (2010)",
-      "http://pinktentacle.com/2010/09/photos-50-years-of-japanese-concept-cars/"
-    ]
-  ],
-  [
-    [
       "2022-05-12, 13:16:41",
       "https://news.ycombinator.com/item?id=31353677"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2022-05-12, 10:53:58",
-      "https://news.ycombinator.com/item?id=31352108"
-    ],
-    [
-      "The saddest “just ship it” story (2020)",
-      "https://kitze.io/posts/saddest-just-ship-it-story-ever"
-    ]
-  ],
-  [
-    [
-      "2022-05-11, 19:59:46",
-      "https://news.ycombinator.com/item?id=31344981"
-    ],
-    [
-      "Nvidia releases open-source GPU kernel modules",
-      "https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/"
-    ]
-  ],
-  [
-    [
-      "2022-05-11, 18:18:12",
-      "https://news.ycombinator.com/item?id=31343793"
-    ],
-    [
-      "Concepts of the Text Editor Lara (1985)",
-      "https://dl.acm.org/doi/pdf/10.1145/4284.4288"
-    ]
-  ],
-  [
-    [
       "2022-05-10, 18:24:06",
       "https://news.ycombinator.com/item?id=31330567"
     ],
     [
       "How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)",
       "https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 14:56:22",
+      "https://news.ycombinator.com/item?id=31327870"
+    ],
+    [
+      "Embedding Truffle Languages",
+      "https://nirvdrum.com/2022/05/09/truffle-language-embedding.html"
     ]
   ]
 ]
