@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 14:57:42](https://news.ycombinator.com/item?id=31368509) - [Safari Technology Preview Release 145 –:has() and container queries](https://developer.apple.com/safari/technology-preview/release-notes/)
+* [2022-05-13, 14:36:14](https://news.ycombinator.com/item?id=31368212) - [Jonesforth – A sometimes minimal FORTH compiler and tutorial (2007)](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [2022-05-13, 14:02:57](https://news.ycombinator.com/item?id=31367745) - [Algae-Powered Computing](https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae)
 * [2022-05-13, 14:00:19](https://news.ycombinator.com/item?id=31367697) - [The Biggest Potential Water Disaster in the United States](https://www.newyorker.com/news/dispatch/the-biggest-potential-water-disaster-in-the-united-states)
 * [2022-05-13, 13:47:28](https://news.ycombinator.com/item?id=31367543) - [FormKit: Form building framework for Vue 3](https://formkit.com)
