@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 * [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
 * [2022-05-13, 15:14:45](https://news.ycombinator.com/item?id=31368713) - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
@@ -14,7 +15,6 @@
 * [2022-05-13, 12:33:22](https://news.ycombinator.com/item?id=31366715) - [Chainless electric drive system “Free Drive” for bicycles (2021)](https://www.schaeffler.de/en/news_media/press_releases/press_releases_detail.jsp?id=87716736)
 * [2022-05-13, 12:28:35](https://news.ycombinator.com/item?id=31366660) - [Germany: Crypto held for more than a year will not get taxed](https://www.vanticatrading.com/post/germany-crypto-held-for-more-than-a-year-will-not-get-taxed)
 * [2022-05-13, 12:01:00](https://news.ycombinator.com/item?id=31366406) - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-* [2022-05-13, 11:43:26](https://news.ycombinator.com/item?id=31366214) - [Ex-eBay exec pleads guilty to harassing Ina and David Steiner](https://www.theguardian.com/technology/2022/may/12/ebay-executive-guilty-boston-couple-harassment)
 * [2022-05-13, 10:17:18](https://news.ycombinator.com/item?id=31365437) - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 * [2022-05-13, 09:57:58](https://news.ycombinator.com/item?id=31365307) - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
 * [2022-05-13, 09:45:55](https://news.ycombinator.com/item?id=31365224) - [Notes on Virtual Threads and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
@@ -28,8 +28,8 @@
 * [2022-05-13, 05:38:36](https://news.ycombinator.com/item?id=31363738) - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 02:18:20](https://news.ycombinator.com/item?id=31362519) - [How does a cowbird learn to be a cowbird? (2016)](https://www.audubon.org/news/how-does-cowbird-learn-be-cowbird)
+* [2022-05-13, 02:02:43](https://news.ycombinator.com/item?id=31362413) - [Going to the ends of the earth](https://thecritic.co.uk/issues/may-2022/going-to-the-ends-of-the-earth/)
 * [2022-05-11, 11:02:02](https://news.ycombinator.com/item?id=31338205) - [Dictionary Facts: Oxford English Dictionary](https://www.oed.com/page/facts/loginpage)
-* [2022-05-10, 17:11:38](https://news.ycombinator.com/item?id=31329587) - [Building a musical instrument with the Web Audio API](https://www.taniarascia.com/musical-instrument-web-audio-api/)
 
 ## [Archives](archives/index.md)
 

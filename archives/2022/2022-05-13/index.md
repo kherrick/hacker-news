@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 * [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
 * [2022-05-13, 15:14:45](https://news.ycombinator.com/item?id=31368713) - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
@@ -42,6 +43,7 @@
 * [2022-05-13, 03:57:53](https://news.ycombinator.com/item?id=31363153) - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 02:18:20](https://news.ycombinator.com/item?id=31362519) - [How does a cowbird learn to be a cowbird?](https://www.audubon.org/news/how-does-cowbird-learn-be-cowbird)
+* [2022-05-13, 02:02:43](https://news.ycombinator.com/item?id=31362413) - [Going to the ends of the earth](https://thecritic.co.uk/issues/may-2022/going-to-the-ends-of-the-earth/)
 * [2022-05-13, 01:49:04](https://news.ycombinator.com/item?id=31362321) - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2022-05-13, 01:30:23](https://news.ycombinator.com/item?id=31362208) - [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
 * [2022-05-13, 01:09:26](https://news.ycombinator.com/item?id=31362049) - [Tokay Programming Language](https://tokay.dev/)
