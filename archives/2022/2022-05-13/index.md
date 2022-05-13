@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 19:45:49](https://news.ycombinator.com/item?id=31371824) - [Dev snapshot: Godot 4.0 alpha 8](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-8)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 18:43:58](https://news.ycombinator.com/item?id=31371155) - [The Nature of the Firm](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 * [2022-05-13, 18:34:18](https://news.ycombinator.com/item?id=31371050) - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
