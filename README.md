@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-13, 08:02:02](https://news.ycombinator.com/item?id=31364638) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
 * [2022-05-13, 07:00:41](https://news.ycombinator.com/item?id=31364267) - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
 * [2022-05-13, 06:41:08](https://news.ycombinator.com/item?id=31364151) - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
@@ -20,9 +21,8 @@
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 * [2022-05-12, 17:35:06](https://news.ycombinator.com/item?id=31357314) - [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
 * [2022-05-12, 16:56:40](https://news.ycombinator.com/item?id=31356730) - [Apple Maps location scan spikes WiFi latency every 60 seconds](https://twitter.com/benskuhn/status/1524791658381910023)
-* [2022-05-12, 16:55:45](https://news.ycombinator.com/item?id=31356719) - [Scarcity Truthers](https://philo.substack.com/p/scarcity-truthers)
-* [2022-05-12, 16:41:32](https://news.ycombinator.com/item?id=31356537) - [Beautiful Racket (2016)](https://beautifulracket.com/)
 * [2022-05-12, 16:40:39](https://news.ycombinator.com/item?id=31356525) - [Twitter CEO fires two top executives, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
+* [2022-05-12, 15:48:05](https://news.ycombinator.com/item?id=31355857) - [Improved Process Isolation in Firefox 100](https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/)
 * [2022-05-12, 15:33:35](https://news.ycombinator.com/item?id=31355657) - [DeepMind: A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 * [2022-05-12, 13:49:02](https://news.ycombinator.com/item?id=31354130) - [Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
