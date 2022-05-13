@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 14:02:57](https://news.ycombinator.com/item?id=31367745) - [Algae-Powered Computing](https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae)
+* [2022-05-13, 14:00:19](https://news.ycombinator.com/item?id=31367697) - [The Biggest Potential Water Disaster in the United States](https://www.newyorker.com/news/dispatch/the-biggest-potential-water-disaster-in-the-united-states)
+* [2022-05-13, 13:47:28](https://news.ycombinator.com/item?id=31367543) - [FormKit: Form building framework for Vue 3](https://formkit.com)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-13, 13:27:14](https://news.ycombinator.com/item?id=31367302) - [A Simple Ratio Came to Influence Military Strategy](https://www.wsj.com/articles/how-a-simple-ratio-came-to-influence-military-strategy-11652434202)
 * [2022-05-13, 12:33:22](https://news.ycombinator.com/item?id=31366715) - [Chainless electric drive system “Free Drive” for bicycles (2021)](https://www.schaeffler.de/en/news_media/press_releases/press_releases_detail.jsp?id=87716736)
