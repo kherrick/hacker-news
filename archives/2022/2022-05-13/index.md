@@ -6,6 +6,7 @@
 
 * [2022-05-13, 08:02:02](https://news.ycombinator.com/item?id=31364638) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
 * [2022-05-13, 07:00:41](https://news.ycombinator.com/item?id=31364267) - [Jiga (YC W21) Is Hiring a full stack engineer](https://www.workatastartup.com/jobs/44310)
+* [2022-05-13, 06:44:32](https://news.ycombinator.com/item?id=31364166) - [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
 * [2022-05-13, 06:41:08](https://news.ycombinator.com/item?id=31364151) - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
 * [2022-05-13, 05:38:36](https://news.ycombinator.com/item?id=31363738) - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
