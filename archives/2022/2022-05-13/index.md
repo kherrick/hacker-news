@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 12:28:35](https://news.ycombinator.com/item?id=31366660) - [Germany: Crypto held for more than a year will not get taxed](https://www.vanticatrading.com/post/germany-crypto-held-for-more-than-a-year-will-not-get-taxed)
+* [2022-05-13, 12:01:00](https://news.ycombinator.com/item?id=31366406) - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+* [2022-05-13, 11:43:26](https://news.ycombinator.com/item?id=31366214) - [Ex-eBay exec pleads guilty to terrorizing couple with spiders, funeral wreaths](https://www.theguardian.com/technology/2022/may/12/ebay-executive-guilty-boston-couple-harassment)
 * [2022-05-13, 10:17:18](https://news.ycombinator.com/item?id=31365437) - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 * [2022-05-13, 09:57:58](https://news.ycombinator.com/item?id=31365307) - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
 * [2022-05-13, 09:49:01](https://news.ycombinator.com/item?id=31365251) - [In Defense of Proof of Work](https://neptune.cash/blog/in-defense-of-proof-of-work/)
@@ -23,6 +26,7 @@
 * [2022-05-13, 04:59:51](https://news.ycombinator.com/item?id=31363510) - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
 * [2022-05-13, 03:57:53](https://news.ycombinator.com/item?id=31363153) - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
+* [2022-05-13, 02:18:20](https://news.ycombinator.com/item?id=31362519) - [How does a cowbird learn to be a cowbird?](https://www.audubon.org/news/how-does-cowbird-learn-be-cowbird)
 * [2022-05-13, 01:49:04](https://news.ycombinator.com/item?id=31362321) - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2022-05-13, 01:30:23](https://news.ycombinator.com/item?id=31362208) - [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
 * [2022-05-13, 01:09:26](https://news.ycombinator.com/item?id=31362049) - [Tokay Programming Language](https://tokay.dev/)
