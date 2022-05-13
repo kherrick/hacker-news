@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-13, 21:22:52](https://news.ycombinator.com/item?id=31372675) - [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
 * [2022-05-13, 21:17:16](https://news.ycombinator.com/item?id=31372630) - [Finding and fixing regressions in Lyft's data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
 * [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
@@ -15,7 +16,6 @@
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 * [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
 * [2022-05-13, 15:14:45](https://news.ycombinator.com/item?id=31368713) - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
-* [2022-05-13, 15:01:51](https://news.ycombinator.com/item?id=31368556) - [The scourge of Rec dot gov (2021)](https://pmags.com/the-scourge-of-rec-dot-gov)
 * [2022-05-13, 14:57:42](https://news.ycombinator.com/item?id=31368509) - [Safari Technology Preview Release Notes](https://developer.apple.com/safari/technology-preview/release-notes/)
 * [2022-05-13, 14:36:14](https://news.ycombinator.com/item?id=31368212) - [Jonesforth – A sometimes minimal Forth compiler and tutorial (2007)](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [2022-05-13, 14:36:08](https://news.ycombinator.com/item?id=31368209) - [Quick Start Guide for Flipper Zero](https://blog.flipperzero.one/quick-start-guide-and-shipping-update/)
@@ -24,12 +24,12 @@
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-13, 12:33:22](https://news.ycombinator.com/item?id=31366715) - [Chainless electric drive system “Free Drive” for bicycles (2021)](https://www.schaeffler.de/en/news_media/press_releases/press_releases_detail.jsp?id=87716736)
 * [2022-05-13, 10:17:18](https://news.ycombinator.com/item?id=31365437) - [The other kind of staff software engineer](https://earthly.dev/blog/line-staff/)
-* [2022-05-13, 09:57:58](https://news.ycombinator.com/item?id=31365307) - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
 * [2022-05-13, 09:15:22](https://news.ycombinator.com/item?id=31365053) - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 * [2022-05-13, 09:01:56](https://news.ycombinator.com/item?id=31364983) - [Show HN: Fruits – Sell digital products via your website, newsletter, etc](https://fruits.de/en)
 * [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 * [2022-05-13, 00:38:47](https://news.ycombinator.com/item?id=31361832) - [Hiring technical talent: An exercise in clarity, patience, and preparation](https://github.com/readme/guides/hiring-technical-talent)
 * [2022-05-12, 08:20:47](https://news.ycombinator.com/item?id=31350756) - [“Computers”, BSA Merit Badge Series (1973)](https://archive.org/details/BoyScoutsComputers)
+* [2022-05-10, 17:14:46](https://news.ycombinator.com/item?id=31329615) - [Query serving systems: An emerging category of data systems](http://petereliaskraft.net/blog/query-serving-systems)
 
 ## [Archives](archives/index.md)
 
