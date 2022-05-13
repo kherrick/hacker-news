@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:45:49](https://news.ycombinator.com/item?id=31371824) - [Dev snapshot: Godot 4.0 alpha 8](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-8)
 * [2022-05-13, 19:19:09](https://news.ycombinator.com/item?id=31371540) - [ICE now operates as a domestic surveillance agency](https://americandragnet.org/)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)

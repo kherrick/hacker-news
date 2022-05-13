@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-13, 19:19:09](https://news.ycombinator.com/item?id=31371540) - [ICE now operates as a domestic surveillance agency](https://americandragnet.org/)
+* [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 18:43:58](https://news.ycombinator.com/item?id=31371155) - [The Nature of the Firm (1937)](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 * [2022-05-13, 18:34:18](https://news.ycombinator.com/item?id=31371050) - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
@@ -28,8 +28,8 @@
 * [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 * [2022-05-13, 06:41:08](https://news.ycombinator.com/item?id=31364151) - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
-* [2022-05-13, 04:04:01](https://news.ycombinator.com/item?id=31363183) - [Building the world’s most realistic robot](https://www.theverge.com/23054881/engineered-arts-robotic-humanoid-ai-ameca-artificial-intelligence)
 * [2022-05-13, 00:38:47](https://news.ycombinator.com/item?id=31361832) - [Hiring technical talent: An exercise in clarity, patience, and preparation](https://github.com/readme/guides/hiring-technical-talent)
+* [2022-05-12, 08:20:47](https://news.ycombinator.com/item?id=31350756) - [“Computers”, BSA Merit Badge Series (1973)](https://archive.org/details/BoyScoutsComputers)
 
 ## [Archives](archives/index.md)
 
