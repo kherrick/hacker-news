@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-13, 18:43:58](https://news.ycombinator.com/item?id=31371155) - [The Nature of the Firm](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
+* [2022-05-13, 18:34:18](https://news.ycombinator.com/item?id=31371050) - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
 * [2022-05-13, 18:17:53](https://news.ycombinator.com/item?id=31370881) - [Would You Take Out a Loan for a Pair of Jeans? (2017)](https://www.racked.com/2017/11/29/16710502/affirm-loan-shopping)
-* [2022-05-13, 17:14:16](https://news.ycombinator.com/item?id=31370215) - [A Man Who Controls Computers with His Mind](https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html)
+* [2022-05-13, 18:11:45](https://news.ycombinator.com/item?id=31370824) - [Henry George's Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
 * [2022-05-13, 17:00:03](https://news.ycombinator.com/item?id=31370032) - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 * [2022-05-13, 16:40:29](https://news.ycombinator.com/item?id=31369779) - [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
 * [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
@@ -25,10 +26,9 @@
 * [2022-05-13, 09:15:22](https://news.ycombinator.com/item?id=31365053) - [Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act](https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination)
 * [2022-05-13, 09:01:56](https://news.ycombinator.com/item?id=31364983) - [Show HN: Fruits – Sell digital products via your website, newsletter, etc](https://fruits.de/en)
 * [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
-* [2022-05-13, 06:44:32](https://news.ycombinator.com/item?id=31364166) - [SQLite in Go, with and Without Cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
 * [2022-05-13, 06:41:08](https://news.ycombinator.com/item?id=31364151) - [Police claims to have fingerprinted computer based on printed document](https://www.nrk.no/norge/nye-opplysninger-om-trusselbrevet-i-forsvinningssaken_-_-vet-vi-sa-a-si-alt-om-dette-dokumentet-1.15965322)
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
-* [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
+* [2022-05-13, 04:04:01](https://news.ycombinator.com/item?id=31363183) - [Building the world’s most realistic robot](https://www.theverge.com/23054881/engineered-arts-robotic-humanoid-ai-ameca-artificial-intelligence)
 * [2022-05-13, 00:38:47](https://news.ycombinator.com/item?id=31361832) - [Hiring technical talent: An exercise in clarity, patience, and preparation](https://github.com/readme/guides/hiring-technical-talent)
 
 ## [Archives](archives/index.md)
