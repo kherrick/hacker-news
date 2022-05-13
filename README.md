@@ -2,6 +2,7 @@
 
 * [2022-05-13, 17:00:03](https://news.ycombinator.com/item?id=31370032) - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 * [2022-05-13, 16:40:29](https://news.ycombinator.com/item?id=31369779) - [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
+* [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
 * [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 * [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
@@ -13,7 +14,6 @@
 * [2022-05-13, 14:02:57](https://news.ycombinator.com/item?id=31367745) - [Algae-Powered Computing](https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae)
 * [2022-05-13, 13:47:28](https://news.ycombinator.com/item?id=31367543) - [FormKit: Form building framework for Vue 3](https://formkit.com)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
-* [2022-05-13, 13:27:14](https://news.ycombinator.com/item?id=31367302) - [A Simple Ratio Came to Influence Military Strategy](https://www.wsj.com/articles/how-a-simple-ratio-came-to-influence-military-strategy-11652434202)
 * [2022-05-13, 12:33:22](https://news.ycombinator.com/item?id=31366715) - [Chainless electric drive system “Free Drive” for bicycles (2021)](https://www.schaeffler.de/en/news_media/press_releases/press_releases_detail.jsp?id=87716736)
 * [2022-05-13, 12:28:35](https://news.ycombinator.com/item?id=31366660) - [Germany: Crypto held for more than a year will not get taxed](https://www.vanticatrading.com/post/germany-crypto-held-for-more-than-a-year-will-not-get-taxed)
 * [2022-05-13, 10:17:18](https://news.ycombinator.com/item?id=31365437) - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
@@ -28,8 +28,8 @@
 * [2022-05-13, 05:38:36](https://news.ycombinator.com/item?id=31363738) - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 02:18:20](https://news.ycombinator.com/item?id=31362519) - [How does a cowbird learn to be a cowbird? (2016)](https://www.audubon.org/news/how-does-cowbird-learn-be-cowbird)
+* [2022-05-13, 00:38:47](https://news.ycombinator.com/item?id=31361832) - [Hiring technical talent: An exercise in clarity, patience, and preparation](https://github.com/readme/guides/hiring-technical-talent)
 * [2022-05-11, 11:02:02](https://news.ycombinator.com/item?id=31338205) - [Dictionary Facts: Oxford English Dictionary](https://www.oed.com/page/facts/loginpage)
-* [2022-05-10, 20:48:24](https://news.ycombinator.com/item?id=31332504) - [Winning with Flaky Test Automation (2016) [pdf]](http://uploads.pnsqc.org/2016/papers/12.WinningWithFlakyTestAutomation.pdf)
 
 ## [Archives](archives/index.md)
 

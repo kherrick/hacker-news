@@ -6,6 +6,7 @@
 
 * [2022-05-13, 17:00:03](https://news.ycombinator.com/item?id=31370032) - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 * [2022-05-13, 16:40:29](https://news.ycombinator.com/item?id=31369779) - [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
+* [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
 * [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 * [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
@@ -52,6 +53,7 @@
 * [2022-05-13, 01:00:53](https://news.ycombinator.com/item?id=31361983) - [Ziina (YC W21) Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)
 * [2022-05-13, 01:00:14](https://news.ycombinator.com/item?id=31361974) - [macOS Multi-Monitor Problems](https://www.lautman.net/dan/blog/post/macosmonitorissues/)
 * [2022-05-13, 00:42:06](https://news.ycombinator.com/item?id=31361858) - [Ask HN: Asynchronous FPGAs and flowchart programming](https://news.ycombinator.com/item?id=31361858)
+* [2022-05-13, 00:38:47](https://news.ycombinator.com/item?id=31361832) - [Hiring technical talent: An exercise in clarity, patience, and preparation](https://github.com/readme/guides/hiring-technical-talent)
 * [2022-05-13, 00:20:17](https://news.ycombinator.com/item?id=31361705) - [Why a Meeting Costs More Than a MacBook Pro](https://blog.shimin.io/the-business-case-for-fewer-developer-meetings/)
 * [2022-05-13, 00:09:43](https://news.ycombinator.com/item?id=31361631) - [Why Does Pepperoni Curl?](https://www.seriouseats.com/the-pizza-lab-why-does-pepperoni-curl)
 * [2022-05-13, 00:07:15](https://news.ycombinator.com/item?id=31361617) - [We asked 100 humans to draw the DALL·E prompts](https://www.surgehq.ai//blog/humans-vs-dall-e)
