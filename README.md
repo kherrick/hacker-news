@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-13, 03:57:53](https://news.ycombinator.com/item?id=31363153) - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
 * [2022-05-13, 01:49:04](https://news.ycombinator.com/item?id=31362321) - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2022-05-13, 01:09:26](https://news.ycombinator.com/item?id=31362049) - [Tokay Programming Language](https://tokay.dev/)
@@ -26,7 +27,6 @@
 * [2022-05-12, 14:20:12](https://news.ycombinator.com/item?id=31354623) - [I stopped to watch kids playing at recess – security was called](https://reason.com/2022/05/11/kids-playing-at-recess-security-school-safety/)
 * [2022-05-12, 13:49:02](https://news.ycombinator.com/item?id=31354130) - [Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2022-05-12, 13:16:41](https://news.ycombinator.com/item?id=31353677) - [Astronomers reveal first image of the black hole at the heart of our galaxy](https://public.nrao.edu/news/astronomers-reveal-first-image-of-the-black-hole-at-the-heart-of-our-galaxy/)
-* [2022-05-11, 23:09:13](https://news.ycombinator.com/item?id=31347151) - [Not Another MFA Essay](https://joukovsky.substack.com/p/not-another-mfa-essay?s=r)
 * [2022-05-11, 19:59:46](https://news.ycombinator.com/item?id=31344981) - [Nvidia releases open-source GPU kernel modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [2022-05-10, 18:24:06](https://news.ycombinator.com/item?id=31330567) - [How we did it: SNL – “The Midnight Coterie of Sinister Intruders” (2013)](https://www.alex-buono.com/how-we-did-it-snl-the-midnight-coterie-of-sinister-intruders/)
 * [2022-05-10, 14:56:22](https://news.ycombinator.com/item?id=31327870) - [Embedding Truffle Languages](https://nirvdrum.com/2022/05/09/truffle-language-embedding.html)
