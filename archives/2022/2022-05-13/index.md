@@ -17,6 +17,7 @@
 * [2022-05-13, 17:14:16](https://news.ycombinator.com/item?id=31370215) - [A Man Who Controls Computers with His Mind](https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html)
 * [2022-05-13, 17:00:03](https://news.ycombinator.com/item?id=31370032) - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 * [2022-05-13, 16:51:41](https://news.ycombinator.com/item?id=31369925) - [Ideas That Created the Future: Classic Papers of Computer Science](https://direct.mit.edu/books/book/5003/Ideas-That-Created-the-FutureClassic-Papers-of)
+* [2022-05-13, 16:47:38](https://news.ycombinator.com/item?id=31369878) - [Heroku Pipeline Still Broken – 30 Days After Customer Credentials Stolen](https://status.heroku.com/incidents/2413?date=2022-05-13)
 * [2022-05-13, 16:40:29](https://news.ycombinator.com/item?id=31369779) - [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
 * [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
 * [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
