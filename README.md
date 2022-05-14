@@ -27,7 +27,7 @@
 * [2022-05-13, 14:36:14](https://news.ycombinator.com/item?id=31368212) - [Jonesforth – A sometimes minimal Forth compiler and tutorial (2007)](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [2022-05-13, 14:36:08](https://news.ycombinator.com/item?id=31368209) - [Quick Start Guide for Flipper Zero](https://blog.flipperzero.one/quick-start-guide-and-shipping-update/)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
-* [2022-05-13, 02:23:07](https://news.ycombinator.com/item?id=31362549) - [Robert Southey and the Three Bears](https://www.berfrois.com/2022/05/samuel-jay-keyser-the-story-of-the-three-bears/)
+* [2022-05-12, 23:17:16](https://news.ycombinator.com/item?id=31361244) - [Soundies](https://en.wikipedia.org/wiki/Soundies)
 * [2022-05-12, 05:16:55](https://news.ycombinator.com/item?id=31349552) - [The Birth of Anchor Books](https://theamericanscholar.org/the-birth-of-the-egghead-paperback/)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 
