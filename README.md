@@ -26,9 +26,9 @@
 * [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
 * [2022-05-14, 09:12:04](https://news.ycombinator.com/item?id=31376241) - [Dokku – Free Heroku Alternative](https://dokku.com/)
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
-* [2022-05-14, 06:49:25](https://news.ycombinator.com/item?id=31375646) - [Tilde.town is a computer meant for sharing](https://tilde.town/)
 * [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
 * [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
+* [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
 * [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 
 ## [Archives](archives/index.md)
