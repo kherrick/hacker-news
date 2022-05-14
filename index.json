@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-14, 01:46:49",
+      "https://news.ycombinator.com/item?id=31374364"
+    ],
+    [
+      "Cursor Dance Party",
+      "https://www.cursordanceparty.com/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 01:43:02",
+      "https://news.ycombinator.com/item?id=31374352"
+    ],
+    [
+      "The First Image of Earth Taken from Outer Space",
+      "https://www.vintag.es/2022/02/first-photo-from-space.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 00:51:05",
+      "https://news.ycombinator.com/item?id=31374081"
+    ],
+    [
+      "Ask HN: DJI possibly providing location of Ukranian drones",
+      "https://news.ycombinator.com/item?id=31374081"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 00:20:33",
+      "https://news.ycombinator.com/item?id=31373903"
+    ],
+    [
+      "A portable wind turbine the size of a water bottle",
+      "https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/"
+    ]
+  ],
+  [
+    [
       "2022-05-14, 00:01:07",
       "https://news.ycombinator.com/item?id=31373801"
     ],
@@ -15,8 +55,28 @@
       "https://news.ycombinator.com/item?id=31373643"
     ],
     [
-      "The web is in need of some reinvention",
+      "A clean start for the web (2020)",
       "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 22:55:18",
+      "https://news.ycombinator.com/item?id=31373386"
+    ],
+    [
+      "Why Dopamine Makes People More Impulsive (2016)",
+      "https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 22:25:35",
+      "https://news.ycombinator.com/item?id=31373170"
+    ],
+    [
+      "Google Online SRE Books",
+      "https://sre.google/books/"
     ]
   ],
   [
@@ -31,32 +91,12 @@
   ],
   [
     [
-      "2022-05-13, 21:17:16",
-      "https://news.ycombinator.com/item?id=31372630"
-    ],
-    [
-      "Finding and fixing regressions in Lyft's data infrastructure",
-      "https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9"
-    ]
-  ],
-  [
-    [
       "2022-05-13, 19:53:33",
       "https://news.ycombinator.com/item?id=31371900"
     ],
     [
-      "Luna Cryptocurrency Collapse: How UST Broke and Why It Matters",
+      "Luna Cryptocurrency Collapse: How UST Broke",
       "https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 19:05:45",
-      "https://news.ycombinator.com/item?id=31371387"
-    ],
-    [
-      "Ask HN: Any other self taught devs terrified of interviewing these days?",
-      "https://news.ycombinator.com/item?id=31371387"
     ]
   ],
   [
@@ -111,22 +151,22 @@
   ],
   [
     [
-      "2022-05-13, 16:47:38",
-      "https://news.ycombinator.com/item?id=31369878"
-    ],
-    [
-      "Heroku Pipeline Still Broken – 30 Days After Customer Credentials Stolen",
-      "https://status.heroku.com/incidents/2413?date=2022-05-13"
-    ]
-  ],
-  [
-    [
       "2022-05-13, 16:40:29",
       "https://news.ycombinator.com/item?id=31369779"
     ],
     [
       "Open DNS resolvers, from bad to worse",
       "https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/"
+    ]
+  ],
+  [
+    [
+      "2022-05-13, 16:37:22",
+      "https://news.ycombinator.com/item?id=31369739"
+    ],
+    [
+      "Random Restaurant",
+      "https://twitter.com/_restaurant_bot"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2022-05-13, 14:57:42",
-      "https://news.ycombinator.com/item?id=31368509"
-    ],
-    [
-      "Safari Technology Preview Release Notes",
-      "https://developer.apple.com/safari/technology-preview/release-notes/"
-    ]
-  ],
-  [
-    [
       "2022-05-13, 14:36:14",
       "https://news.ycombinator.com/item?id=31368212"
     ],
@@ -197,16 +227,6 @@
     [
       "Quick Start Guide for Flipper Zero",
       "https://blog.flipperzero.one/quick-start-guide-and-shipping-update/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 14:02:57",
-      "https://news.ycombinator.com/item?id=31367745"
-    ],
-    [
-      "Algae-Powered Computing",
-      "https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae"
     ]
   ],
   [
@@ -241,42 +261,12 @@
   ],
   [
     [
-      "2022-05-13, 10:17:18",
-      "https://news.ycombinator.com/item?id=31365437"
+      "2022-05-12, 22:33:05",
+      "https://news.ycombinator.com/item?id=31360884"
     ],
     [
-      "The other kind of staff software engineer",
-      "https://earthly.dev/blog/line-staff/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 09:15:22",
-      "https://news.ycombinator.com/item?id=31365053"
-    ],
-    [
-      "Employers’ Use of AI Tools Can Violate the Americans with Disabilities Act",
-      "https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 04:08:51",
-      "https://news.ycombinator.com/item?id=31363214"
-    ],
-    [
-      "The Cold War’s Organization Man (2009)",
-      "https://www.neh.gov/humanities/2009/septemberoctober/feature/the-cold-war%E2%80%99s-organization-man"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 00:38:47",
-      "https://news.ycombinator.com/item?id=31361832"
-    ],
-    [
-      "Hiring technical talent: An exercise in clarity, patience, and preparation",
-      "https://github.com/readme/guides/hiring-technical-talent"
+      "Finding wisdom in Charles Baudelaire’s mad scribblings",
+      "https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-05-10, 17:14:46",
-      "https://news.ycombinator.com/item?id=31329615"
+      "2022-05-12, 05:16:55",
+      "https://news.ycombinator.com/item?id=31349552"
     ],
     [
-      "Query serving systems: An emerging category of data systems",
-      "http://petereliaskraft.net/blog/query-serving-systems"
+      "The Birth of the Egghead Paperback",
+      "https://theamericanscholar.org/the-birth-of-the-egghead-paperback/"
+    ]
+  ],
+  [
+    [
+      "2022-05-11, 22:34:32",
+      "https://news.ycombinator.com/item?id=31346817"
+    ],
+    [
+      "Ellen Ullman: We Have to Demystify Code (2017)",
+      "https://lithub.com/ellen-ullman-we-have-to-demystify-code/"
     ]
   ]
 ]
