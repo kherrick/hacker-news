@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 21:34:58](https://news.ycombinator.com/item?id=31382779) - [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
 * [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
@@ -20,7 +21,6 @@
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:27:37](https://news.ycombinator.com/item?id=31378878) - [Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
-* [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [2022-05-14, 12:21:21](https://news.ycombinator.com/item?id=31377262) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md)
 * [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
