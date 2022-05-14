@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 10:43:15](https://news.ycombinator.com/item?id=31376634) - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
 * [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
 * [2022-05-14, 08:56:26](https://news.ycombinator.com/item?id=31376192) - [Why All Cryptocurrency Should Die in a Fire](https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/)
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
@@ -28,7 +29,6 @@
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-12, 23:17:16](https://news.ycombinator.com/item?id=31361244) - [Soundies](https://en.wikipedia.org/wiki/Soundies)
 * [2022-05-12, 08:20:47](https://news.ycombinator.com/item?id=31350756) - [“Computers”, BSA Merit Badge Series (1973)](https://archive.org/details/BoyScoutsComputers)
-* [2022-05-12, 05:16:55](https://news.ycombinator.com/item?id=31349552) - [The Birth of Anchor Books](https://theamericanscholar.org/the-birth-of-the-egghead-paperback/)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 
 ## [Archives](archives/index.md)
