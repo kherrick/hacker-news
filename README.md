@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:10:56](https://news.ycombinator.com/item?id=31378710) - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
 * [2022-05-14, 14:43:21](https://news.ycombinator.com/item?id=31378415) - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
@@ -7,7 +8,6 @@
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Former employee blows whistle on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
 * [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides Book](https://0xax.gitbooks.io/linux-insides/content/)
-* [2022-05-14, 13:40:46](https://news.ycombinator.com/item?id=31377824) - [The strange detention of EU diplomats returning from Tehran](https://responsiblestatecraft.org/2022/05/14/the-strange-detention-of-eu-diplomats-returning-from-tehran/)
 * [2022-05-14, 13:21:24](https://news.ycombinator.com/item?id=31377672) - [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
 * [2022-05-14, 12:45:47](https://news.ycombinator.com/item?id=31377405) - [Coffeezilla, a YouTuber Exposing Crypto Scams](https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams)
 * [2022-05-14, 12:43:46](https://news.ycombinator.com/item?id=31377395) - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
@@ -26,7 +26,7 @@
 * [2022-05-14, 01:48:46](https://news.ycombinator.com/item?id=31374373) - [ZFS Without a Server Using the Nvidia BlueField-2 DPU](https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/)
 * [2022-05-14, 01:46:49](https://news.ycombinator.com/item?id=31374364) - [Cursor Dance Party](https://www.cursordanceparty.com/)
 * [2022-05-14, 01:43:02](https://news.ycombinator.com/item?id=31374352) - [The first image of Earth taken from outer space](https://www.vintag.es/2022/02/first-photo-from-space.html)
-* [2022-05-14, 00:01:07](https://news.ycombinator.com/item?id=31373801) - [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
+* [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 * [2022-05-10, 19:55:24](https://news.ycombinator.com/item?id=31331849) - [Zero-downtime Django migrations](https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html)
