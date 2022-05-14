@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 05:36:07](https://news.ycombinator.com/item?id=31375352) - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
+* [2022-05-14, 04:48:16](https://news.ycombinator.com/item?id=31375169) - [Curl Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
+* [2022-05-14, 04:10:50](https://news.ycombinator.com/item?id=31375013) - [A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]](http://lab6.com/1)
 * [2022-05-14, 03:31:38](https://news.ycombinator.com/item?id=31374855) - [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
+* [2022-05-14, 03:19:08](https://news.ycombinator.com/item?id=31374812) - [Why do those with higher IQs live longer? A new study points to answers](https://www.statnews.com/2017/06/28/high-iq-children-longevity-study/)
 * [2022-05-14, 02:59:01](https://news.ycombinator.com/item?id=31374720) - [Scientists Prove That Plants Can Grow in Soil from the Moon](https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/)
 * [2022-05-14, 02:44:12](https://news.ycombinator.com/item?id=31374648) - [Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard](https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted)
 * [2022-05-14, 01:48:46](https://news.ycombinator.com/item?id=31374373) - [ZFS Without a Server Using the Nvidia BlueField-2 DPU](https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/)

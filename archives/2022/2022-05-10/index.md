@@ -12,6 +12,7 @@
 * [2022-05-10, 22:50:43](https://news.ycombinator.com/item?id=31333685) - [“Shuwa-Shuwa” is an illustrated book of Japanese onomatopoeia](https://www.spoon-tamago.com/2021/02/22/japanese-onomatopoeia-book-shuwa-shuwa/)
 * [2022-05-10, 22:39:29](https://news.ycombinator.com/item?id=31333603) - [World record 477-mile-long lightning ‘megaflash’ confirmed over U.S.](https://www.washingtonpost.com/weather/2022/01/31/world-record-lightning-megaflash-us/)
 * [2022-05-10, 22:21:44](https://news.ycombinator.com/item?id=31333436) - [Show HN: Oldest Search – Search for the oldest result on internet](https://www.oldestsearch.com/)
+* [2022-05-10, 22:02:26](https://news.ycombinator.com/item?id=31333284) - [Summary of Various Versions of Security Descriptor Definition Language (SDDL)](https://devblogs.microsoft.com/oldnewthing/20220510-00/?p=106640)
 * [2022-05-10, 21:46:55](https://news.ycombinator.com/item?id=31333146) - [A Simple Hash for Perlin Noise](https://marcospereira.me/a-simple-hash-for-perlin-noise/)
 * [2022-05-10, 21:30:09](https://news.ycombinator.com/item?id=31332982) - [Show HN: A Swiss army knife for testing HTTP from the terminal](https://news.ycombinator.com/item?id=31332982)
 * [2022-05-10, 21:01:14](https://news.ycombinator.com/item?id=31332660) - [Tesorio (YC S15) Is Hiring Senior Quality Engineers and Product Managers](https://www.tesorio.com/careers#job-openings)
