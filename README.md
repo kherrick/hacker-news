@@ -2,6 +2,7 @@
 
 * [2022-05-14, 17:00:48](https://news.ycombinator.com/item?id=31379925) - [Navattic (YC W21) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 * [2022-05-14, 16:41:45](https://news.ycombinator.com/item?id=31379722) - [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
+* [2022-05-14, 16:37:49](https://news.ycombinator.com/item?id=31379665) - [“Blown Away Guy”: The Most Iconic Music Image of All Time](https://www.vintag.es/2022/02/blown-away-guy.html)
 * [2022-05-14, 16:24:32](https://news.ycombinator.com/item?id=31379537) - [You can create a great looking websites while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
 * [2022-05-14, 16:12:11](https://news.ycombinator.com/item?id=31379383) - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
 * [2022-05-14, 16:08:16](https://news.ycombinator.com/item?id=31379344) - [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
@@ -13,7 +14,6 @@
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Former employee blows whistle on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
 * [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
-* [2022-05-14, 13:21:24](https://news.ycombinator.com/item?id=31377672) - [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
 * [2022-05-14, 12:45:47](https://news.ycombinator.com/item?id=31377405) - [Coffeezilla, a YouTuber Exposing Crypto Scams](https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams)
 * [2022-05-14, 12:43:46](https://news.ycombinator.com/item?id=31377395) - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
 * [2022-05-14, 12:21:21](https://news.ycombinator.com/item?id=31377262) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md)
