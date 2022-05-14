@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
 * [2022-05-14, 10:43:15](https://news.ycombinator.com/item?id=31376634) - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
+* [2022-05-14, 10:42:25](https://news.ycombinator.com/item?id=31376628) - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 * [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
 * [2022-05-14, 09:45:41](https://news.ycombinator.com/item?id=31376386) - [Milestone thermophotovoltaic cell converts 40% of heat energy to electricity](https://www.designboom.com/technology/thermophotovoltaic-cell-converts-40-percent-heat-energy-to-electricity-05-13-2022/)
 * [2022-05-14, 08:56:27](https://news.ycombinator.com/item?id=31376193) - [Lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)

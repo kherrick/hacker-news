@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-14, 10:43:15](https://news.ycombinator.com/item?id=31376634) - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
+* [2022-05-14, 10:42:25](https://news.ycombinator.com/item?id=31376628) - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 * [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
 * [2022-05-14, 08:56:26](https://news.ycombinator.com/item?id=31376192) - [Why All Cryptocurrency Should Die in a Fire](https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/)
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
 * [2022-05-14, 06:49:25](https://news.ycombinator.com/item?id=31375646) - [Tilde.town is a computer meant for sharing](https://tilde.town/)
-* [2022-05-14, 06:49:03](https://news.ycombinator.com/item?id=31375643) - [Russian toops are proving that cell phones in war zones are a bad idea](https://taskandpurpose.com/analysis/russia-ukraine-cell-phones-track-combat/)
 * [2022-05-14, 06:06:16](https://news.ycombinator.com/item?id=31375463) - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
 * [2022-05-14, 05:36:07](https://news.ycombinator.com/item?id=31375352) - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
 * [2022-05-14, 04:48:16](https://news.ycombinator.com/item?id=31375169) - [Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
