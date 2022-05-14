@@ -2,6 +2,7 @@
 
 * [2022-05-14, 12:01:44](https://news.ycombinator.com/item?id=31377132) - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
 * [2022-05-14, 11:45:07](https://news.ycombinator.com/item?id=31377025) - [Safer Enums in Go](https://npf.io/2022/05/safer-enums/)
+* [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
 * [2022-05-14, 10:43:15](https://news.ycombinator.com/item?id=31376634) - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
 * [2022-05-14, 10:42:25](https://news.ycombinator.com/item?id=31376628) - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 * [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
@@ -11,7 +12,6 @@
 * [2022-05-14, 06:49:25](https://news.ycombinator.com/item?id=31375646) - [Tilde.town is a computer meant for sharing](https://tilde.town/)
 * [2022-05-14, 06:06:16](https://news.ycombinator.com/item?id=31375463) - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
 * [2022-05-14, 05:36:07](https://news.ycombinator.com/item?id=31375352) - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
-* [2022-05-14, 04:48:16](https://news.ycombinator.com/item?id=31375169) - [Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
 * [2022-05-14, 04:10:50](https://news.ycombinator.com/item?id=31375013) - [A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]](http://lab6.com/1)
 * [2022-05-14, 03:31:38](https://news.ycombinator.com/item?id=31374855) - [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
 * [2022-05-14, 01:48:46](https://news.ycombinator.com/item?id=31374373) - [ZFS Without a Server Using the Nvidia BlueField-2 DPU](https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/)
@@ -21,7 +21,6 @@
 * [2022-05-14, 00:01:07](https://news.ycombinator.com/item?id=31373801) - [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
 * [2022-05-13, 23:32:34](https://news.ycombinator.com/item?id=31373643) - [A clean start for the web (2020)](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
 * [2022-05-13, 22:55:18](https://news.ycombinator.com/item?id=31373386) - [Why Dopamine Makes People More Impulsive (2016)](https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/)
-* [2022-05-13, 21:22:52](https://news.ycombinator.com/item?id=31372675) - [Why did Heroku fail?](https://matt-rickard.com/why-did-heroku-fail/)
 * [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:42:19](https://news.ycombinator.com/item?id=31371792) - [Breakthrough discovery of the one-way superconductor?](https://scitechdaily.com/breakthrough-discovery-of-the-one-way-superconductor-thought-to-be-impossible/)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
@@ -29,6 +28,7 @@
 * [2022-05-13, 14:36:08](https://news.ycombinator.com/item?id=31368209) - [Quick Start Guide for Flipper Zero](https://blog.flipperzero.one/quick-start-guide-and-shipping-update/)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-12, 23:17:16](https://news.ycombinator.com/item?id=31361244) - [Soundies](https://en.wikipedia.org/wiki/Soundies)
+* [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 
 ## [Archives](archives/index.md)

@@ -15,6 +15,7 @@
 * [2022-05-12, 19:40:36](https://news.ycombinator.com/item?id=31359271) - [Practical bruteforce of AES-1024 military grade encryption](https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/)
 * [2022-05-12, 19:10:48](https://news.ycombinator.com/item?id=31358855) - [Wireless Is a Trap](https://www.benkuhn.net/wireless/)
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
+* [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 * [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
 * [2022-05-12, 18:15:28](https://news.ycombinator.com/item?id=31357993) - [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
 * [2022-05-12, 18:02:25](https://news.ycombinator.com/item?id=31357778) - [Zig Programming Language](https://ziglang.org/)

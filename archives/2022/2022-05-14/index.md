@@ -6,6 +6,7 @@
 
 * [2022-05-14, 12:01:44](https://news.ycombinator.com/item?id=31377132) - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
 * [2022-05-14, 11:45:07](https://news.ycombinator.com/item?id=31377025) - [Safer Enums in Go](https://npf.io/2022/05/safer-enums/)
+* [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
 * [2022-05-14, 10:43:15](https://news.ycombinator.com/item?id=31376634) - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
 * [2022-05-14, 10:42:25](https://news.ycombinator.com/item?id=31376628) - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 * [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
