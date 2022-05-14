@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use destroys neural connections in the brain](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
@@ -70,4 +71,5 @@
 * [2022-05-14, 01:43:02](https://news.ycombinator.com/item?id=31374352) - [The First Image of Earth Taken from Outer Space](https://www.vintag.es/2022/02/first-photo-from-space.html)
 * [2022-05-14, 00:51:05](https://news.ycombinator.com/item?id=31374081) - [Ask HN: DJI possibly providing location of Ukranian drones](https://news.ycombinator.com/item?id=31374081)
 * [2022-05-14, 00:20:33](https://news.ycombinator.com/item?id=31373903) - [A portable wind turbine the size of a water bottle](https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/)
+* [2022-05-14, 00:01:38](https://news.ycombinator.com/item?id=31373806) - [Book Review: Consciousness and the Brain](https://astralcodexten.substack.com/p/your-book-review-consciousness-and)
 * [2022-05-14, 00:01:07](https://news.ycombinator.com/item?id=31373801) - [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)

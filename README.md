@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
-* [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel](https://www.youtube.com/watch?v=K-3cTsvI7ss)
+* [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use causes synapse loss and cognitive deficits in mice](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 20:04:49](https://news.ycombinator.com/item?id=31381812) - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)
@@ -21,15 +22,14 @@
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
-* [2022-05-14, 12:43:46](https://news.ycombinator.com/item?id=31377395) - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
 * [2022-05-14, 12:21:21](https://news.ycombinator.com/item?id=31377262) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md)
 * [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
 * [2022-05-14, 09:12:04](https://news.ycombinator.com/item?id=31376241) - [Dokku – Free Heroku Alternative](https://dokku.com/)
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
+* [2022-05-14, 00:01:38](https://news.ycombinator.com/item?id=31373806) - [Book Review: Consciousness and the Brain](https://astralcodexten.substack.com/p/your-book-review-consciousness-and)
 * [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
 * [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
 * [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
-* [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 
 ## [Archives](archives/index.md)
 
