@@ -28,6 +28,7 @@
 * [2022-05-13, 16:37:22](https://news.ycombinator.com/item?id=31369739) - [Random Restaurant](https://twitter.com/_restaurant_bot)
 * [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
 * [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
+* [2022-05-13, 15:31:35](https://news.ycombinator.com/item?id=31368925) - [The Woman Who Brought Female Representation to Games](https://gamehistory.org/wabbit/)
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
 * [2022-05-13, 15:18:31](https://news.ycombinator.com/item?id=31368747) - [Nanobots Can Swim Around a Wound and Kill Bacteria](https://www.wired.com/story/these-nanobots-can-swim-around-a-wound-and-kill-bacteria/)
 * [2022-05-13, 15:14:45](https://news.ycombinator.com/item?id=31368713) - [Talking with the Moon: Inside Apollo's premodulation processor](http://www.righto.com/2022/05/talking-with-moon-inside-apollos.html)
