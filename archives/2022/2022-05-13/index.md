@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
+* [2022-05-13, 23:32:34](https://news.ycombinator.com/item?id=31373643) - [The web is in need of some reinvention](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
 * [2022-05-13, 21:22:52](https://news.ycombinator.com/item?id=31372675) - [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
 * [2022-05-13, 21:17:16](https://news.ycombinator.com/item?id=31372630) - [Finding and fixing regressions in Lyft's data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
 * [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:45:49](https://news.ycombinator.com/item?id=31371824) - [Dev snapshot: Godot 4.0 alpha 8](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-8)
 * [2022-05-13, 19:19:09](https://news.ycombinator.com/item?id=31371540) - [ICE now operates as a domestic surveillance agency](https://americandragnet.org/)
+* [2022-05-13, 19:05:45](https://news.ycombinator.com/item?id=31371387) - [Ask HN: Any other self taught devs terrified of interviewing these days?](https://news.ycombinator.com/item?id=31371387)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 18:43:58](https://news.ycombinator.com/item?id=31371155) - [The Nature of the Firm](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 * [2022-05-13, 18:34:18](https://news.ycombinator.com/item?id=31371050) - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
@@ -57,6 +59,7 @@
 * [2022-05-13, 06:30:24](https://news.ycombinator.com/item?id=31364081) - [Show HN: A Visual IDE for React](https://dev.aspect.app)
 * [2022-05-13, 05:38:36](https://news.ycombinator.com/item?id=31363738) - [A guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 * [2022-05-13, 04:59:51](https://news.ycombinator.com/item?id=31363510) - [EverQuest players break sacred MMO code by waking up 20-year-old dragon](https://www.pcgamer.com/everquest-players-break-sacred-mmo-code-by-waking-up-20-year-old-dragon/)
+* [2022-05-13, 04:08:51](https://news.ycombinator.com/item?id=31363214) - [The Cold War’s Organization Man (2009)](https://www.neh.gov/humanities/2009/septemberoctober/feature/the-cold-war%E2%80%99s-organization-man)
 * [2022-05-13, 04:04:01](https://news.ycombinator.com/item?id=31363183) - [Building the world’s most realistic robot](https://www.theverge.com/23054881/engineered-arts-robotic-humanoid-ai-ameca-artificial-intelligence)
 * [2022-05-13, 03:57:53](https://news.ycombinator.com/item?id=31363153) - [Is it true that any community that grows big enough, gets ruined?](https://news.ycombinator.com/item?id=31363153)
 * [2022-05-13, 03:39:03](https://news.ycombinator.com/item?id=31363027) - [Cities with Nice Weather](https://jdonland.github.io/city_temperatures/index.html)
