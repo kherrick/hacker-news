@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-05-13](index.md)
 
 * [2022-05-13, 23:32:34](https://news.ycombinator.com/item?id=31373643) - [The web is in need of some reinvention](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+* [2022-05-13, 22:55:18](https://news.ycombinator.com/item?id=31373386) - [Why Dopamine Makes People More Impulsive (2016)](https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/)
+* [2022-05-13, 22:25:35](https://news.ycombinator.com/item?id=31373170) - [Google Online SRE Books](https://sre.google/books/)
 * [2022-05-13, 21:22:52](https://news.ycombinator.com/item?id=31372675) - [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
 * [2022-05-13, 21:17:16](https://news.ycombinator.com/item?id=31372630) - [Finding and fixing regressions in Lyft's data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
 * [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
@@ -22,6 +24,7 @@
 * [2022-05-13, 16:51:41](https://news.ycombinator.com/item?id=31369925) - [Ideas That Created the Future: Classic Papers of Computer Science](https://direct.mit.edu/books/book/5003/Ideas-That-Created-the-FutureClassic-Papers-of)
 * [2022-05-13, 16:47:38](https://news.ycombinator.com/item?id=31369878) - [Heroku Pipeline Still Broken – 30 Days After Customer Credentials Stolen](https://status.heroku.com/incidents/2413?date=2022-05-13)
 * [2022-05-13, 16:40:29](https://news.ycombinator.com/item?id=31369779) - [Open DNS resolvers, from bad to worse](https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/)
+* [2022-05-13, 16:37:22](https://news.ycombinator.com/item?id=31369739) - [Random Restaurant](https://twitter.com/_restaurant_bot)
 * [2022-05-13, 16:18:43](https://news.ycombinator.com/item?id=31369488) - [Show HN: Watermelon – open-source VSC ext. to document code and view Git blame](https://github.com/watermelontools/wm-extension)
 * [2022-05-13, 15:44:17](https://news.ycombinator.com/item?id=31369091) - [Tech bubbles are bursting all over the place](https://www.economist.com/business/2022/05/14/tech-bubbles-are-bursting-all-over-the-place)
 * [2022-05-13, 15:19:06](https://news.ycombinator.com/item?id=31368753) - [Sliderland – Creative coding with 64 HTML sliders](https://sliderland.blinry.org/)
