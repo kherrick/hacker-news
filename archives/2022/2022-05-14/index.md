@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
+* [2022-05-14, 14:43:21](https://news.ycombinator.com/item?id=31378415) - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
 * [2022-05-14, 14:31:54](https://news.ycombinator.com/item?id=31378283) - [Ask HN: How do you manage – and remember to manage – your to-do list in 2022?](https://news.ycombinator.com/item?id=31378283)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:19:14](https://news.ycombinator.com/item?id=31378151) - [Online Confessions, deleted after 200 views](https://loneliness.one/confession)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Whistleblower on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
+* [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides Book](https://0xax.gitbooks.io/linux-insides/content/)
 * [2022-05-14, 13:40:56](https://news.ycombinator.com/item?id=31377826) - [Ask HN: What are examples of companies that died by the hands of Big Tech?](https://news.ycombinator.com/item?id=31377826)
 * [2022-05-14, 13:40:46](https://news.ycombinator.com/item?id=31377824) - [The strange detention of EU diplomats returning from Tehran](https://responsiblestatecraft.org/2022/05/14/the-strange-detention-of-eu-diplomats-returning-from-tehran/)
 * [2022-05-14, 13:21:24](https://news.ycombinator.com/item?id=31377672) - [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
