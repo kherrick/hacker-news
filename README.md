@@ -11,10 +11,10 @@
 * [2022-05-14, 16:12:13](https://news.ycombinator.com/item?id=31379386) - [How Bad Government Policy Is Fueling the Infant Formula Shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
 * [2022-05-14, 16:12:11](https://news.ycombinator.com/item?id=31379383) - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
 * [2022-05-14, 16:08:16](https://news.ycombinator.com/item?id=31379344) - [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
+* [2022-05-14, 15:52:45](https://news.ycombinator.com/item?id=31379173) - [The Antikythera Mechanism Episode 11 – Inscribing the Back Plate – Part 1](https://www.youtube.com/watch?v=iBRCL090PxA)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:27:37](https://news.ycombinator.com/item?id=31378878) - [Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
-* [2022-05-14, 14:43:21](https://news.ycombinator.com/item?id=31378415) - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
 * [2022-05-14, 14:33:21](https://news.ycombinator.com/item?id=31378302) - [Edge Lane Roads a.k.a. Advisory Bike Lanes](https://www.advisorybikelanes.com/)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Former employee blows whistle on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
@@ -26,10 +26,10 @@
 * [2022-05-14, 09:12:04](https://news.ycombinator.com/item?id=31376241) - [Dokku – Free Heroku Alternative](https://dokku.com/)
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
 * [2022-05-14, 06:49:25](https://news.ycombinator.com/item?id=31375646) - [Tilde.town is a computer meant for sharing](https://tilde.town/)
+* [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
 * [2022-05-13, 15:31:35](https://news.ycombinator.com/item?id=31368925) - [The Woman Who Brought Female Representation to Games](https://gamehistory.org/wabbit/)
 * [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 * [2022-05-12, 03:19:57](https://news.ycombinator.com/item?id=31348910) - [A Messy Table, a Map of the World](https://www.nytimes.com/interactive/2022/05/08/arts/design/dutch-still-life.html)
-* [2022-05-10, 19:55:24](https://news.ycombinator.com/item?id=31331849) - [Zero-downtime Django migrations](https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html)
 
 ## [Archives](archives/index.md)
 

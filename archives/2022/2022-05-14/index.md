@@ -15,6 +15,7 @@
 * [2022-05-14, 16:12:13](https://news.ycombinator.com/item?id=31379386) - [How Bad Government Policy Is Fueling the Infant Formula Shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
 * [2022-05-14, 16:12:11](https://news.ycombinator.com/item?id=31379383) - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
 * [2022-05-14, 16:08:16](https://news.ycombinator.com/item?id=31379344) - [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
+* [2022-05-14, 15:52:45](https://news.ycombinator.com/item?id=31379173) - [The Antikythera Mechanism Episode 11 – Inscribing the Back Plate – Part 1](https://www.youtube.com/watch?v=iBRCL090PxA)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:27:37](https://news.ycombinator.com/item?id=31378878) - [Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
 * [2022-05-14, 15:10:56](https://news.ycombinator.com/item?id=31378710) - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)

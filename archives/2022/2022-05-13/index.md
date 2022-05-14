@@ -9,6 +9,7 @@
 * [2022-05-13, 22:25:35](https://news.ycombinator.com/item?id=31373170) - [Google Online SRE Books](https://sre.google/books/)
 * [2022-05-13, 21:22:52](https://news.ycombinator.com/item?id=31372675) - [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
 * [2022-05-13, 21:17:16](https://news.ycombinator.com/item?id=31372630) - [Finding and fixing regressions in Lyft's data infrastructure](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?gi=e68fb0b17fc9)
+* [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
 * [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:45:49](https://news.ycombinator.com/item?id=31371824) - [Dev snapshot: Godot 4.0 alpha 8](https://godotengine.org/article/dev-snapshot-godot-4-0-alpha-8)
 * [2022-05-13, 19:42:19](https://news.ycombinator.com/item?id=31371792) - [Breakthrough discovery of the one-way superconductor?](https://scitechdaily.com/breakthrough-discovery-of-the-one-way-superconductor-thought-to-be-impossible/)
