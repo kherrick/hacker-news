@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-14, 22:39:40](https://news.ycombinator.com/item?id=31383388) - [Mattel debuts first Barbie with hearing aids](https://www.cbsnews.com/news/barnie-hearing-aid-mattel/)
+* [2022-05-14, 22:54:02](https://news.ycombinator.com/item?id=31383504) - [Formalizing a Proof of God by Leibniz](https://timlabs.org/leibniz/)
 * [2022-05-14, 21:34:58](https://news.ycombinator.com/item?id=31382779) - [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
 * [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
@@ -27,8 +27,8 @@
 * [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)
 * [2022-05-14, 09:12:04](https://news.ycombinator.com/item?id=31376241) - [Dokku – Free Heroku Alternative](https://dokku.com/)
 * [2022-05-14, 00:01:38](https://news.ycombinator.com/item?id=31373806) - [Book Review: Consciousness and the Brain](https://astralcodexten.substack.com/p/your-book-review-consciousness-and)
-* [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
 * [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
+* [2022-05-13, 07:09:07](https://news.ycombinator.com/item?id=31364321) - [What’s behind China’s boom in company formation?](https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/)
 * [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
 
 ## [Archives](archives/index.md)

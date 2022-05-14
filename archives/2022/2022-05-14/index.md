@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 22:54:02](https://news.ycombinator.com/item?id=31383504) - [Formalizing a Proof of God by Leibniz](https://timlabs.org/leibniz/)
 * [2022-05-14, 22:39:40](https://news.ycombinator.com/item?id=31383388) - [Mattel debuts first Barbie with hearing aids](https://www.cbsnews.com/news/barnie-hearing-aid-mattel/)
 * [2022-05-14, 21:34:58](https://news.ycombinator.com/item?id=31382779) - [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
 * [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
