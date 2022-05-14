@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 12:01:44](https://news.ycombinator.com/item?id=31377132) - [OneSignal (YC S11) Is Hiring Engineers to Democratize Mobile Customer Engagement](https://onesignal.com/careers)
+* [2022-05-14, 11:45:07](https://news.ycombinator.com/item?id=31377025) - [Safer Enums in Go](https://npf.io/2022/05/safer-enums/)
 * [2022-05-14, 10:43:15](https://news.ycombinator.com/item?id=31376634) - [IQ scores are falling and have been for decades](https://www.cnn.com/2018/06/13/health/falling-iq-scores-study-intl/index.html)
 * [2022-05-14, 10:42:25](https://news.ycombinator.com/item?id=31376628) - [Ask HN: Why is Google Premium not a thing?](https://news.ycombinator.com/item?id=31376628)
 * [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
@@ -12,7 +14,6 @@
 * [2022-05-14, 04:48:16](https://news.ycombinator.com/item?id=31375169) - [Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
 * [2022-05-14, 04:10:50](https://news.ycombinator.com/item?id=31375013) - [A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]](http://lab6.com/1)
 * [2022-05-14, 03:31:38](https://news.ycombinator.com/item?id=31374855) - [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
-* [2022-05-14, 03:19:08](https://news.ycombinator.com/item?id=31374812) - [Why do those with higher IQs live longer? A new study points to answers](https://www.statnews.com/2017/06/28/high-iq-children-longevity-study/)
 * [2022-05-14, 01:48:46](https://news.ycombinator.com/item?id=31374373) - [ZFS Without a Server Using the Nvidia BlueField-2 DPU](https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/)
 * [2022-05-14, 01:46:49](https://news.ycombinator.com/item?id=31374364) - [Cursor Dance Party](https://www.cursordanceparty.com/)
 * [2022-05-14, 01:43:02](https://news.ycombinator.com/item?id=31374352) - [The first image of Earth taken from outer space](https://www.vintag.es/2022/02/first-photo-from-space.html)
@@ -28,7 +29,6 @@
 * [2022-05-13, 14:36:08](https://news.ycombinator.com/item?id=31368209) - [Quick Start Guide for Flipper Zero](https://blog.flipperzero.one/quick-start-guide-and-shipping-update/)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-12, 23:17:16](https://news.ycombinator.com/item?id=31361244) - [Soundies](https://en.wikipedia.org/wiki/Soundies)
-* [2022-05-12, 05:16:55](https://news.ycombinator.com/item?id=31349552) - [The Birth of Anchor Books](https://theamericanscholar.org/the-birth-of-the-egghead-paperback/)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 
 ## [Archives](archives/index.md)
