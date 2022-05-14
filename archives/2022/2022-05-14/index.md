@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 16:41:45](https://news.ycombinator.com/item?id=31379722) - [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
+* [2022-05-14, 16:24:32](https://news.ycombinator.com/item?id=31379537) - [You can create a great looking websites while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:10:56](https://news.ycombinator.com/item?id=31378710) - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)

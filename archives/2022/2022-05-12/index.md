@@ -69,6 +69,7 @@
 * [2022-05-12, 06:33:36](https://news.ycombinator.com/item?id=31349988) - [Tether starting to lose its peg too, after Terra did](https://community.intercoin.org/t/what-backs-a-currency-terra-luna-drops-nearly-100/2518)
 * [2022-05-12, 05:16:55](https://news.ycombinator.com/item?id=31349552) - [The Birth of the Egghead Paperback](https://theamericanscholar.org/the-birth-of-the-egghead-paperback/)
 * [2022-05-12, 04:24:05](https://news.ycombinator.com/item?id=31349266) - [Does anyone care anymore what Google demos in IO?](https://news.ycombinator.com/item?id=31349266)
+* [2022-05-12, 03:19:57](https://news.ycombinator.com/item?id=31348910) - [A Messy Table, a Map of the World](https://www.nytimes.com/interactive/2022/05/08/arts/design/dutch-still-life.html)
 * [2022-05-12, 02:55:30](https://news.ycombinator.com/item?id=31348772) - [How many melodies are there?](https://plus.maths.org/content/how-many-melodies-are-there)
 * [2022-05-12, 02:41:41](https://news.ycombinator.com/item?id=31348681) - [Euro Is at $1.05–The Lowest It’s Been in Years](https://www.afar.com/magazine/the-dollar-and-euro-are-almost-equal-right-now)
 * [2022-05-12, 02:22:05](https://news.ycombinator.com/item?id=31348529) - [I Miss Heroku's DevEx](https://christine.website/blog/heroku-devex-2022-05-12)
