@@ -3,7 +3,7 @@
 * [2022-05-14, 19:12:10](https://news.ycombinator.com/item?id=31381315) - [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 * [2022-05-14, 18:31:10](https://news.ycombinator.com/item?id=31380874) - [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
-* [2022-05-14, 18:04:23](https://news.ycombinator.com/item?id=31380613) - [The Texas electric grid can barely keep the lights on and it’s not even hot yet](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
+* [2022-05-14, 18:04:23](https://news.ycombinator.com/item?id=31380613) - [The Texas electric grid can barely keep the lights on](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
 * [2022-05-14, 17:00:48](https://news.ycombinator.com/item?id=31379925) - [Navattic (YC W21) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 * [2022-05-14, 16:41:45](https://news.ycombinator.com/item?id=31379722) - [Eight hundred employees resign after WhiteHat Jr asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
 * [2022-05-14, 16:37:49](https://news.ycombinator.com/item?id=31379665) - [“Blown Away Guy”: Iconic music image](https://www.vintag.es/2022/02/blown-away-guy.html)
@@ -29,7 +29,7 @@
 * [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
 * [2022-05-13, 15:31:35](https://news.ycombinator.com/item?id=31368925) - [Finding Van Tran, who brought female representation to games](https://gamehistory.org/wabbit/)
 * [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
-* [2022-05-12, 03:19:57](https://news.ycombinator.com/item?id=31348910) - [A Messy Table, a Map of the World](https://www.nytimes.com/interactive/2022/05/08/arts/design/dutch-still-life.html)
+* [2022-05-12, 18:25:03](https://news.ycombinator.com/item?id=31358152) - [When Iris Murdoch Met Jean-Paul Sartre](https://lithub.com/when-iris-murdoch-met-jean-paul-sartre/)
 
 ## [Archives](archives/index.md)
 

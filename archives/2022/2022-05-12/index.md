@@ -17,6 +17,7 @@
 * [2022-05-12, 18:55:20](https://news.ycombinator.com/item?id=31358609) - [Plants grown in Apollo lunar regolith](https://www.nature.com/articles/s42003-022-03334-8)
 * [2022-05-12, 18:53:34](https://news.ycombinator.com/item?id=31358590) - [Ultimaker and Makerbot merge to form new 3D printing company](https://press.ultimaker.com/makerbot-and-ultimaker-agree-to-merge-to-accelerate-global-adoption-of-additive-manufacturing/)
 * [2022-05-12, 18:42:22](https://news.ycombinator.com/item?id=31358405) - [Charming Cobras with Bubbletea – Part 1](https://elewis.dev/charming-cobras-with-bubbletea-part-1)
+* [2022-05-12, 18:25:03](https://news.ycombinator.com/item?id=31358152) - [When Iris Murdoch Met Jean-Paul Sartre](https://lithub.com/when-iris-murdoch-met-jean-paul-sartre/)
 * [2022-05-12, 18:15:28](https://news.ycombinator.com/item?id=31357993) - [sccache – Shared Compilation Cache](https://github.com/mozilla/sccache)
 * [2022-05-12, 18:02:25](https://news.ycombinator.com/item?id=31357778) - [Zig Programming Language](https://ziglang.org/)
 * [2022-05-12, 17:35:06](https://news.ycombinator.com/item?id=31357314) - [Map of Reddit](https://anvaka.github.io/map-of-reddit/)
