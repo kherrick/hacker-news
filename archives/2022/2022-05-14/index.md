@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 14:31:54](https://news.ycombinator.com/item?id=31378283) - [Ask HN: How do you manage – and remember to manage – your to-do list in 2022?](https://news.ycombinator.com/item?id=31378283)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:19:14](https://news.ycombinator.com/item?id=31378151) - [Online Confessions, deleted after 200 views](https://loneliness.one/confession)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Whistleblower on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)

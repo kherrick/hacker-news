@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 14:31:54](https://news.ycombinator.com/item?id=31378283) - [Ask HN: How do you manage – and remember to manage – your to-do list in 2022?](https://news.ycombinator.com/item?id=31378283)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:19:14](https://news.ycombinator.com/item?id=31378151) - [Online Confessions, deleted after 200 views](https://loneliness.one/confession)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Former employee blows whistle on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
@@ -23,7 +24,6 @@
 * [2022-05-14, 01:46:49](https://news.ycombinator.com/item?id=31374364) - [Cursor Dance Party](https://www.cursordanceparty.com/)
 * [2022-05-14, 01:43:02](https://news.ycombinator.com/item?id=31374352) - [The first image of Earth taken from outer space](https://www.vintag.es/2022/02/first-photo-from-space.html)
 * [2022-05-14, 00:01:07](https://news.ycombinator.com/item?id=31373801) - [T cells block nerve cell regeneration with age, but can be reversed – mice study](https://www.imperial.ac.uk/news/236418/cells-block-nerve-cell-regeneration-with/)
-* [2022-05-13, 19:53:33](https://news.ycombinator.com/item?id=31371900) - [Luna Cryptocurrency Collapse: How UST Broke](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/)
 * [2022-05-13, 19:42:19](https://news.ycombinator.com/item?id=31371792) - [Breakthrough discovery of the one-way superconductor?](https://scitechdaily.com/breakthrough-discovery-of-the-one-way-superconductor-thought-to-be-impossible/)
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
