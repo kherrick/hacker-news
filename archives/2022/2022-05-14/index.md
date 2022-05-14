@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
+* [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Whistleblower on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
+* [2022-05-14, 13:40:56](https://news.ycombinator.com/item?id=31377826) - [Ask HN: What are examples of companies that died by the hands of Big Tech?](https://news.ycombinator.com/item?id=31377826)
+* [2022-05-14, 13:40:46](https://news.ycombinator.com/item?id=31377824) - [The strange detention of EU diplomats returning from Tehran](https://responsiblestatecraft.org/2022/05/14/the-strange-detention-of-eu-diplomats-returning-from-tehran/)
 * [2022-05-14, 13:21:24](https://news.ycombinator.com/item?id=31377672) - [Shell to install 100K charge points in the UK by 2030](https://www.electrive.com/2022/05/12/shell-to-install-100k-charge-points-in-the-uk-by-2030/)
 * [2022-05-14, 12:45:47](https://news.ycombinator.com/item?id=31377405) - [Coffeezilla, the YouTuber Exposing Crypto Scams](https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams)
 * [2022-05-14, 12:43:46](https://news.ycombinator.com/item?id=31377395) - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
