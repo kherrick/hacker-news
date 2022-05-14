@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
+* [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use destroys neural connections in the brain](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 20:04:49](https://news.ycombinator.com/item?id=31381812) - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)

@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
+* [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use destroys neural connections in the brain](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 20:04:49](https://news.ycombinator.com/item?id=31381812) - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)
-* [2022-05-14, 19:26:32](https://news.ycombinator.com/item?id=31381461) - [Shaquille Zuckerberg](https://stakedy.com/long/shaquille-zuckerberg.html)
 * [2022-05-14, 19:21:52](https://news.ycombinator.com/item?id=31381410) - [You're Not Losing Fat Because You're Eating Too Damn Much (2016)](https://physiqonomics.com/eating-too-much/)
 * [2022-05-14, 19:12:10](https://news.ycombinator.com/item?id=31381315) - [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
@@ -19,7 +20,6 @@
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:27:37](https://news.ycombinator.com/item?id=31378878) - [Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
-* [2022-05-14, 14:33:21](https://news.ycombinator.com/item?id=31378302) - [Edge Lane Roads a.k.a. Advisory Bike Lanes](https://www.advisorybikelanes.com/)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [2022-05-14, 12:43:46](https://news.ycombinator.com/item?id=31377395) - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
@@ -29,7 +29,7 @@
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy (2008)](http://www.paulgraham.com/badeconomy.html)
 * [2022-05-14, 06:49:25](https://news.ycombinator.com/item?id=31375646) - [Tilde.town is a computer meant for sharing](https://tilde.town/)
 * [2022-05-13, 20:07:31](https://news.ycombinator.com/item?id=31372023) - [Executable Examples for Programming Problem Comprehension [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf)
-* [2022-05-12, 18:25:03](https://news.ycombinator.com/item?id=31358152) - [When Iris Murdoch Met Jean-Paul Sartre](https://lithub.com/when-iris-murdoch-met-jean-paul-sartre/)
+* [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
 
 ## [Archives](archives/index.md)
 

@@ -21,6 +21,7 @@
 * [2022-05-13, 18:17:53](https://news.ycombinator.com/item?id=31370881) - [Would You Take Out a Loan for a Pair of Jeans? (2017)](https://www.racked.com/2017/11/29/16710502/affirm-loan-shopping)
 * [2022-05-13, 18:11:45](https://news.ycombinator.com/item?id=31370824) - [Henry George's Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
 * [2022-05-13, 18:11:45](https://news.ycombinator.com/item?id=31370824) - [Book Review: Progress and Poverty](http://gameofrent.com/content/progress-and-poverty-review)
+* [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
 * [2022-05-13, 17:14:16](https://news.ycombinator.com/item?id=31370215) - [A Man Who Controls Computers with His Mind](https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html)
 * [2022-05-13, 17:00:03](https://news.ycombinator.com/item?id=31370032) - [Build better healthcare for your parents](https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065)
 * [2022-05-13, 16:51:41](https://news.ycombinator.com/item?id=31369925) - [Ideas That Created the Future: Classic Papers of Computer Science](https://direct.mit.edu/books/book/5003/Ideas-That-Created-the-FutureClassic-Papers-of)
