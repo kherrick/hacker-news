@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 03:31:38](https://news.ycombinator.com/item?id=31374855) - [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts/)
+* [2022-05-14, 02:59:01](https://news.ycombinator.com/item?id=31374720) - [Scientists Prove That Plants Can Grow in Soil from the Moon](https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/)
+* [2022-05-14, 02:44:12](https://news.ycombinator.com/item?id=31374648) - [Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard](https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted)
+* [2022-05-14, 01:48:46](https://news.ycombinator.com/item?id=31374373) - [ZFS Without a Server Using the Nvidia BlueField-2 DPU](https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/)
 * [2022-05-14, 01:46:49](https://news.ycombinator.com/item?id=31374364) - [Cursor Dance Party](https://www.cursordanceparty.com/)
 * [2022-05-14, 01:43:02](https://news.ycombinator.com/item?id=31374352) - [The First Image of Earth Taken from Outer Space](https://www.vintag.es/2022/02/first-photo-from-space.html)
 * [2022-05-14, 00:51:05](https://news.ycombinator.com/item?id=31374081) - [Ask HN: DJI possibly providing location of Ukranian drones](https://news.ycombinator.com/item?id=31374081)
