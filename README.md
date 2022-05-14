@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 * [2022-05-14, 18:31:10](https://news.ycombinator.com/item?id=31380874) - [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
 * [2022-05-14, 18:25:55](https://news.ycombinator.com/item?id=31380826) - [Ask HN: Food Addiction](https://news.ycombinator.com/item?id=31380826)
 * [2022-05-14, 18:17:13](https://news.ycombinator.com/item?id=31380741) - [Photos of Escaped Slave Gordon at a Medical Examination, Louisiana, 1863](https://www.vintag.es/2022/05/scourged-back.html)
@@ -19,7 +20,6 @@
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:00:46](https://news.ycombinator.com/item?id=31377991) - [Former employee blows whistle on baby formula production plant tied to outbreak](https://www.foodsafetynews.com/2022/04/former-employee-blows-whistle-on-baby-formula-production-plant-tied-to-outbreak/)
 * [2022-05-14, 13:50:30](https://news.ycombinator.com/item?id=31377904) - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
-* [2022-05-14, 12:45:47](https://news.ycombinator.com/item?id=31377405) - [Coffeezilla, a YouTuber Exposing Crypto Scams](https://www.newyorker.com/news/letter-from-the-southwest/coffeezilla-the-youtuber-exposing-crypto-scams)
 * [2022-05-14, 12:43:46](https://news.ycombinator.com/item?id=31377395) - [Can we make a black hole? And if we could, what could we do with it?](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html)
 * [2022-05-14, 12:21:21](https://news.ycombinator.com/item?id=31377262) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md)
 * [2022-05-14, 10:49:27](https://news.ycombinator.com/item?id=31376679) - [Comparing the C FFI overhead on various languages](https://github.com/dyu/ffi-overhead)

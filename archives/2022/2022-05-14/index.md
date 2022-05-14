@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 * [2022-05-14, 18:31:10](https://news.ycombinator.com/item?id=31380874) - [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
 * [2022-05-14, 18:25:55](https://news.ycombinator.com/item?id=31380826) - [Ask HN: Food Addiction](https://news.ycombinator.com/item?id=31380826)
 * [2022-05-14, 18:17:13](https://news.ycombinator.com/item?id=31380741) - [Photos of Escaped Slave Gordon at a Medical Examination, Louisiana, 1863](https://www.vintag.es/2022/05/scourged-back.html)
