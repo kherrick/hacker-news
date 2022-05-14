@@ -8,6 +8,7 @@
 * [2022-05-14, 16:41:45](https://news.ycombinator.com/item?id=31379722) - [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
 * [2022-05-14, 16:37:49](https://news.ycombinator.com/item?id=31379665) - [“Blown Away Guy”: The Most Iconic Music Image of All Time](https://www.vintag.es/2022/02/blown-away-guy.html)
 * [2022-05-14, 16:24:32](https://news.ycombinator.com/item?id=31379537) - [You can create a great looking websites while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
+* [2022-05-14, 16:12:13](https://news.ycombinator.com/item?id=31379386) - [How Bad Government Policy Is Fueling the Infant Formula Shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
 * [2022-05-14, 16:12:11](https://news.ycombinator.com/item?id=31379383) - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
 * [2022-05-14, 16:08:16](https://news.ycombinator.com/item?id=31379344) - [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
