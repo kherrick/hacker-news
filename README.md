@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 19:12:10](https://news.ycombinator.com/item?id=31381315) - [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 * [2022-05-14, 18:31:10](https://news.ycombinator.com/item?id=31380874) - [867-5309 in All US and Canadian Area Codes](https://telephoneworld.org/landline-telephone-history/867-5309-jenny-in-all-us-and-canadian-area-codes/)
-* [2022-05-14, 18:25:55](https://news.ycombinator.com/item?id=31380826) - [Ask HN: Food Addiction](https://news.ycombinator.com/item?id=31380826)
 * [2022-05-14, 18:04:23](https://news.ycombinator.com/item?id=31380613) - [The Texas electric grid can barely keep the lights on and it’s not even hot yet](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
 * [2022-05-14, 17:00:48](https://news.ycombinator.com/item?id=31379925) - [Navattic (YC W21) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 * [2022-05-14, 16:41:45](https://news.ycombinator.com/item?id=31379722) - [Eight hundred employees resign after WhiteHat Jr asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)
