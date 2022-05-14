@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 09:57:08](https://news.ycombinator.com/item?id=31376420) - [Meal of a lifetime: what to eat at every age](https://www.theguardian.com/lifeandstyle/2022/may/14/meal-of-a-lifetime-what-to-eat-at-every-age)
+* [2022-05-14, 09:45:41](https://news.ycombinator.com/item?id=31376386) - [Milestone thermophotovoltaic cell converts 40% of heat energy to electricity](https://www.designboom.com/technology/thermophotovoltaic-cell-converts-40-percent-heat-energy-to-electricity-05-13-2022/)
 * [2022-05-14, 08:56:27](https://news.ycombinator.com/item?id=31376193) - [Lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 * [2022-05-14, 08:56:26](https://news.ycombinator.com/item?id=31376192) - [Why All Cryptocurrency Should Die in a Fire](https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/)
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
