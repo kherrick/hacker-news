@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-14, 05:36:07",
+      "https://news.ycombinator.com/item?id=31375352"
+    ],
+    [
+      "Is It Safe to Ship Thousands of Electric Cars on Big Ships?",
+      "https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 04:48:16",
+      "https://news.ycombinator.com/item?id=31375169"
+    ],
+    [
+      "Curl Funds, server hosting and more",
+      "https://curl.se/mail/lib-2022-05/0017.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 04:10:50",
+      "https://news.ycombinator.com/item?id=31375013"
+    ],
+    [
+      "A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]",
+      "http://lab6.com/1"
+    ]
+  ],
+  [
+    [
       "2022-05-14, 03:31:38",
       "https://news.ycombinator.com/item?id=31374855"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
-      "2022-05-14, 02:59:01",
-      "https://news.ycombinator.com/item?id=31374720"
+      "2022-05-14, 03:19:08",
+      "https://news.ycombinator.com/item?id=31374812"
     ],
     [
-      "Scientists Prove That Plants Can Grow in Soil from the Moon",
-      "https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/"
+      "Why do those with higher IQs live longer? A new study points to answers",
+      "https://www.statnews.com/2017/06/28/high-iq-children-longevity-study/"
     ]
   ],
   [
     [
-      "2022-05-14, 02:44:12",
-      "https://news.ycombinator.com/item?id=31374648"
+      "2022-05-14, 02:59:01",
+      "https://news.ycombinator.com/item?id=31374720"
     ],
     [
-      "Over $1.2B in Bitcoin reserves remains unaccounted for by Luna Fdn. Guard",
-      "https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted"
+      "Plants in lunar soil were compared to a control group grown in volcanic ash",
+      "https://www.smithsonianmag.com/smart-news/scientists-prove-that-plants-can-grow-in-soil-from-moon-180980081/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31374352"
     ],
     [
-      "The First Image of Earth Taken from Outer Space",
+      "The first image of Earth taken from outer space",
       "https://www.vintag.es/2022/02/first-photo-from-space.html"
     ]
   ],
@@ -97,16 +127,6 @@
     [
       "Why Dopamine Makes People More Impulsive (2016)",
       "https://knowingneurons.com/2016/03/10/dopamine-makes-people-impulsive/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 22:25:35",
-      "https://news.ycombinator.com/item?id=31373170"
-    ],
-    [
-      "Google Online SRE Books",
-      "https://sre.google/books/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-05-13, 17:00:03",
-      "https://news.ycombinator.com/item?id=31370032"
-    ],
-    [
-      "Build better healthcare for your parents",
-      "https://jobs.ashbyhq.com/fairsquaremedicare/cba59bb6-22c6-4ca6-a995-824c2b853065"
-    ]
-  ],
-  [
-    [
       "2022-05-13, 16:37:22",
       "https://news.ycombinator.com/item?id=31369739"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2022-05-13, 13:47:28",
-      "https://news.ycombinator.com/item?id=31367543"
-    ],
-    [
-      "FormKit: Form building framework for Vue 3",
-      "https://formkit.com"
-    ]
-  ],
-  [
-    [
       "2022-05-13, 13:32:28",
       "https://news.ycombinator.com/item?id=31367365"
     ],
     [
       "The Apple GPU and the impossible bug",
       "https://rosenzweig.io/blog/asahi-gpu-part-5.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 02:23:07",
-      "https://news.ycombinator.com/item?id=31362549"
-    ],
-    [
-      "Robert Southey and the Three Bears",
-      "https://www.berfrois.com/2022/05/samuel-jay-keyser-the-story-of-the-three-bears/"
     ]
   ],
   [
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31349552"
     ],
     [
-      "The Birth of the Egghead Paperback",
+      "The Birth of Anchor Books",
       "https://theamericanscholar.org/the-birth-of-the-egghead-paperback/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Ellen Ullman: We Have to Demystify Code (2017)",
       "https://lithub.com/ellen-ullman-we-have-to-demystify-code/"
+    ]
+  ],
+  [
+    [
+      "2022-05-10, 22:02:26",
+      "https://news.ycombinator.com/item?id=31333284"
+    ],
+    [
+      "Summary of Various Versions of Security Descriptor Definition Language (SDDL)",
+      "https://devblogs.microsoft.com/oldnewthing/20220510-00/?p=106640"
     ]
   ]
 ]
