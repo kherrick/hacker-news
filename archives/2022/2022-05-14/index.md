@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 06:06:16](https://news.ycombinator.com/item?id=31375463) - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
 * [2022-05-14, 05:36:07](https://news.ycombinator.com/item?id=31375352) - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
 * [2022-05-14, 04:48:16](https://news.ycombinator.com/item?id=31375169) - [Curl Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
 * [2022-05-14, 04:10:50](https://news.ycombinator.com/item?id=31375013) - [A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]](http://lab6.com/1)

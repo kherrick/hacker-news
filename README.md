@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-14, 06:06:16](https://news.ycombinator.com/item?id=31375463) - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
 * [2022-05-14, 05:36:07](https://news.ycombinator.com/item?id=31375352) - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
 * [2022-05-14, 04:48:16](https://news.ycombinator.com/item?id=31375169) - [Curl Funds, server hosting and more](https://curl.se/mail/lib-2022-05/0017.html)
 * [2022-05-14, 04:10:50](https://news.ycombinator.com/item?id=31375013) - [A PDF zine readable in any plain text editor, and it's also an MP3 [pdf]](http://lab6.com/1)
@@ -26,10 +27,9 @@
 * [2022-05-13, 14:36:14](https://news.ycombinator.com/item?id=31368212) - [Jonesforth – A sometimes minimal Forth compiler and tutorial (2007)](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [2022-05-13, 14:36:08](https://news.ycombinator.com/item?id=31368209) - [Quick Start Guide for Flipper Zero](https://blog.flipperzero.one/quick-start-guide-and-shipping-update/)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
-* [2022-05-12, 08:20:47](https://news.ycombinator.com/item?id=31350756) - [“Computers”, BSA Merit Badge Series (1973)](https://archive.org/details/BoyScoutsComputers)
+* [2022-05-13, 02:23:07](https://news.ycombinator.com/item?id=31362549) - [Robert Southey and the Three Bears](https://www.berfrois.com/2022/05/samuel-jay-keyser-the-story-of-the-three-bears/)
 * [2022-05-12, 05:16:55](https://news.ycombinator.com/item?id=31349552) - [The Birth of Anchor Books](https://theamericanscholar.org/the-birth-of-the-egghead-paperback/)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
-* [2022-05-10, 22:02:26](https://news.ycombinator.com/item?id=31333284) - [Summary of Various Versions of Security Descriptor Definition Language (SDDL)](https://devblogs.microsoft.com/oldnewthing/20220510-00/?p=106640)
 
 ## [Archives](archives/index.md)
 
