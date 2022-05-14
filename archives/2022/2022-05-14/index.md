@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 15:10:56](https://news.ycombinator.com/item?id=31378710) - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
 * [2022-05-14, 14:43:21](https://news.ycombinator.com/item?id=31378415) - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
+* [2022-05-14, 14:33:21](https://news.ycombinator.com/item?id=31378302) - [Edge Lane Roads a.k.a. Advisory Bike Lanes](https://www.advisorybikelanes.com/)
 * [2022-05-14, 14:31:54](https://news.ycombinator.com/item?id=31378283) - [Ask HN: How do you manage – and remember to manage – your to-do list in 2022?](https://news.ycombinator.com/item?id=31378283)
 * [2022-05-14, 14:24:51](https://news.ycombinator.com/item?id=31378200) - [Pirate Site Blocking Is Making Its Way into Free Trade Agreements](https://torrentfreak.com/pirate-site-blocking-is-making-its-way-into-free-trade-agreements-220508/)
 * [2022-05-14, 14:19:14](https://news.ycombinator.com/item?id=31378151) - [Online Confessions, deleted after 200 views](https://loneliness.one/confession)
