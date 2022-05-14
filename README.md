@@ -23,11 +23,11 @@
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 18:43:58](https://news.ycombinator.com/item?id=31371155) - [The Nature of the Firm (1937)](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 * [2022-05-13, 18:34:18](https://news.ycombinator.com/item?id=31371050) - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
+* [2022-05-13, 18:11:45](https://news.ycombinator.com/item?id=31370824) - [Book Review: Progress and Poverty](http://gameofrent.com/content/progress-and-poverty-review)
 * [2022-05-13, 16:37:22](https://news.ycombinator.com/item?id=31369739) - [Random Restaurant](https://twitter.com/_restaurant_bot)
 * [2022-05-13, 14:36:08](https://news.ycombinator.com/item?id=31368209) - [Quick Start Guide for Flipper Zero](https://blog.flipperzero.one/quick-start-guide-and-shipping-update/)
 * [2022-05-13, 13:32:28](https://news.ycombinator.com/item?id=31367365) - [The Apple GPU and the impossible bug](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
 * [2022-05-12, 23:17:16](https://news.ycombinator.com/item?id=31361244) - [Soundies](https://en.wikipedia.org/wiki/Soundies)
-* [2022-05-12, 08:20:47](https://news.ycombinator.com/item?id=31350756) - [“Computers”, BSA Merit Badge Series (1973)](https://archive.org/details/BoyScoutsComputers)
 * [2022-05-12, 05:16:55](https://news.ycombinator.com/item?id=31349552) - [The Birth of Anchor Books](https://theamericanscholar.org/the-birth-of-the-egghead-paperback/)
 * [2022-05-11, 22:34:32](https://news.ycombinator.com/item?id=31346817) - [Ellen Ullman: We Have to Demystify Code (2017)](https://lithub.com/ellen-ullman-we-have-to-demystify-code/)
 
