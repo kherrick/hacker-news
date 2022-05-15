@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 15:58:12](https://news.ycombinator.com/item?id=31388365) - [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
+* [2022-05-15, 15:39:46](https://news.ycombinator.com/item?id=31388223) - [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/)
+* [2022-05-15, 15:32:12](https://news.ycombinator.com/item?id=31388165) - [The Rebellion Against the Return to the Office Is Getting Serious](https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810)
+* [2022-05-15, 15:31:40](https://news.ycombinator.com/item?id=31388163) - [Jabra denies support for Elite 85t Bluetooth earbuds on computers](https://news.ycombinator.com/item?id=31388163)
 * [2022-05-15, 15:01:57](https://news.ycombinator.com/item?id=31387962) - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
 * [2022-05-15, 14:24:48](https://news.ycombinator.com/item?id=31387741) - [What Propels Cancel Culture?](https://robkhenderson.substack.com/p/what-propels-cancel-culture)
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
