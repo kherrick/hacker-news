@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 11:56:36](https://news.ycombinator.com/item?id=31387019) - [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
+* [2022-05-15, 10:57:14](https://news.ycombinator.com/item?id=31386739) - [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
 * [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [SQLite cron-based backup (alternative to Litestream for simpler usecases)](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 08:17:57](https://news.ycombinator.com/item?id=31386108) - [ShadyURL: Don't just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
