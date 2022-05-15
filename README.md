@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [SQLite cron-based backup (alternative to Litestream for simpler usecases)](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
@@ -21,13 +22,12 @@
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 * [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
 * [2022-05-14, 04:42:13](https://news.ycombinator.com/item?id=31375145) - [Computer powered by colony of blue-green algae has run for six months](https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/)
-* [2022-05-14, 00:06:04](https://news.ycombinator.com/item?id=31373824) - [How do black holes swallow stars?](https://astronomy.com/magazine/news/2021/12/how-do-black-holes-swallow-stars)
+* [2022-05-14, 00:06:04](https://news.ycombinator.com/item?id=31373824) - [How do black holes swallow stars? (2021)](https://astronomy.com/magazine/news/2021/12/how-do-black-holes-swallow-stars)
 * [2022-05-13, 21:14:37](https://news.ycombinator.com/item?id=31372606) - [How many colors are too many colors for Windows Terminal?](https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/)
 * [2022-05-13, 20:46:41](https://news.ycombinator.com/item?id=31372373) - [This site is now a “shinobi website”](https://tdarb.org/posts/shinobi-website.txt)
 * [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
 * [2022-05-13, 10:58:00](https://news.ycombinator.com/item?id=31365777) - [A Fast Excel Formula Parser and Evaluator](https://github.com/LesterLyu/fast-formula-parser)
 * [2022-05-13, 08:24:14](https://news.ycombinator.com/item?id=31364749) - [Idea Machines: Ideology and networks that turn ideas into outcomes](https://nadia.xyz/idea-machines)
-* [2022-05-13, 07:09:07](https://news.ycombinator.com/item?id=31364321) - [What’s behind China’s boom in company formation?](https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/)
 * [2022-05-12, 22:40:02](https://news.ycombinator.com/item?id=31360955) - [I Trained My TikTok](https://metastable.org/2022/05/how-I-trained-my-tiktok.html)
 * [2022-05-12, 13:40:06](https://news.ycombinator.com/item?id=31353984) - [What do great engineering managers need to know about compensation and equity?](https://www.rubick.com/compensation-and-equity/)
 
