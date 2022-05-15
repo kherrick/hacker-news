@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
-* [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [\"Maybe a 3090 is already a human brain\" –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
+* [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 03:59:55](https://news.ycombinator.com/item?id=31385155) - [XOS Electric Trucks](https://xostrucks.com/)
