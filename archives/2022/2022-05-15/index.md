@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:14:18](https://news.ycombinator.com/item?id=31391201) - [Congress urged to ease immigration for foreign science talent](https://www.axios.com/2022/05/09/national-security-china-international-science-tech-talent)
+* [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
 * [2022-05-15, 21:02:22](https://news.ycombinator.com/item?id=31391085) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [The Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
