@@ -8,6 +8,7 @@
 * [2022-05-12, 23:17:16](https://news.ycombinator.com/item?id=31361244) - [Soundies](https://en.wikipedia.org/wiki/Soundies)
 * [2022-05-12, 23:01:52](https://news.ycombinator.com/item?id=31361127) - [Advice: Startup Failure and Debt](https://news.ycombinator.com/item?id=31361127)
 * [2022-05-12, 22:47:39](https://news.ycombinator.com/item?id=31361023) - [Ngn/k (free K implementation)](https://codeberg.org/ngn/k)
+* [2022-05-12, 22:40:02](https://news.ycombinator.com/item?id=31360955) - [I Trained My TikTok](https://metastable.org/2022/05/how-I-trained-my-tiktok.html)
 * [2022-05-12, 22:34:17](https://news.ycombinator.com/item?id=31360901) - [Meditation on the Ides of March](https://classicalfuturist.substack.com/p/what-if-julius-caesar-hadnt-been-assassinated)
 * [2022-05-12, 22:33:05](https://news.ycombinator.com/item?id=31360884) - [Finding wisdom in Charles Baudelaire’s mad scribblings](https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/)
 * [2022-05-12, 22:16:54](https://news.ycombinator.com/item?id=31360776) - [Infrastructure From Code](https://www.shuttle.rs/blog/2022/05/09/ifc)
