@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 17:14:53](https://news.ycombinator.com/item?id=31389024) - [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
+* [2022-05-15, 17:00:24](https://news.ycombinator.com/item?id=31388894) - [Ashby (YC W19) Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
+* [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)
 * [2022-05-15, 16:14:21](https://news.ycombinator.com/item?id=31388500) - [Apollo Spacecraft Premodulation Processor Teardown](https://twitter.com/kenshirriff/status/1525134870179094528)
 * [2022-05-15, 15:58:12](https://news.ycombinator.com/item?id=31388365) - [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
@@ -14,6 +17,7 @@
 * [2022-05-15, 15:24:11](https://news.ycombinator.com/item?id=31388109) - [Dead Man's Snitch – A Dead Simple Cron Job Monitoring Service](https://deadmanssnitch.com/)
 * [2022-05-15, 15:01:57](https://news.ycombinator.com/item?id=31387962) - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
 * [2022-05-15, 14:24:48](https://news.ycombinator.com/item?id=31387741) - [What Propels Cancel Culture?](https://robkhenderson.substack.com/p/what-propels-cancel-culture)
+* [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
 * [2022-05-15, 13:29:16](https://news.ycombinator.com/item?id=31387433) - [Do you use service called Mine?](https://business.saymine.com)
 * [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
