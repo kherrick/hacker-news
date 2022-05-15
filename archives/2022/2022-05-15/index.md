@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 14:24:48](https://news.ycombinator.com/item?id=31387741) - [What Propels Cancel Culture?](https://robkhenderson.substack.com/p/what-propels-cancel-culture)
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
 * [2022-05-15, 13:29:16](https://news.ycombinator.com/item?id=31387433) - [Do you use service called Mine?](https://business.saymine.com)
 * [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
