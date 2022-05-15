@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 19:24:21](https://news.ycombinator.com/item?id=31390220) - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
 * [2022-05-15, 18:45:11](https://news.ycombinator.com/item?id=31389893) - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2022-05-15, 18:35:27](https://news.ycombinator.com/item?id=31389797) - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The Problem with Bitcoin Miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
