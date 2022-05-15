@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-05-15, 13:21:05",
-      "https://news.ycombinator.com/item?id=31387383"
-    ],
-    [
-      "The human cortex use less than 0.2 watts",
-      "https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 13:04:17",
       "https://news.ycombinator.com/item?id=31387312"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31387248"
     ],
     [
-      "Web Scraping with Python: Everything you need to know",
+      "Web Scraping with Python",
       "https://www.scrapingbee.com/blog/web-scraping-101-with-python/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31387057"
     ],
     [
-      "Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]",
+      "Show HN: IT-Security for Developers",
       "https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31387035"
     ],
     [
-      "Observability Is Not Only for SREs",
+      "Observability is not only for SREs",
       "https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31386108"
     ],
     [
-      "ShadyURL: Don't just shorten your URL, make it suspicious and frightening",
+      "Don't just shorten your URL, make it suspicious and frightening (2010)",
       "http://shadyurl.com/"
     ]
   ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2022-05-15, 01:46:59",
-      "https://news.ycombinator.com/item?id=31384528"
-    ],
-    [
-      "Tylr: A tiny tile-based editor",
-      "https://tylr.fun/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 00:53:13",
       "https://news.ycombinator.com/item?id=31384236"
     ],
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2022-05-14, 21:01:37",
-      "https://news.ycombinator.com/item?id=31382372"
+      "2022-05-14, 22:37:37",
+      "https://news.ycombinator.com/item?id=31383373"
     ],
     [
-      "Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]",
-      "https://www.youtube.com/watch?v=K-3cTsvI7ss"
+      "The case for consolidation",
+      "https://benn.substack.com/p/case-for-consolidation"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "The overengineered solution to my pigeon problem",
       "https://maxnagy.com/posts/pigeons/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 06:43:31",
+      "https://news.ycombinator.com/item?id=31375620"
+    ],
+    [
+      "Free stuff makes us irrational",
+      "https://thehustle.co/why-free-stuff-makes-us-irrational/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Fast Excel Formula Parser and Evaluator",
       "https://github.com/LesterLyu/fast-formula-parser"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 22:40:02",
+      "https://news.ycombinator.com/item?id=31360955"
+    ],
+    [
+      "I Trained My TikTok",
+      "https://metastable.org/2022/05/how-I-trained-my-tiktok.html"
     ]
   ]
 ]
