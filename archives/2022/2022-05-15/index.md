@@ -6,6 +6,7 @@
 
 * [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [SQLite cron-based backup (alternative to Litestream for simpler usecases)](https://litestream.io/alternatives/cron/)
+* [2022-05-15, 08:17:57](https://news.ycombinator.com/item?id=31386108) - [ShadyURL: Don't just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [\"Maybe a 3090 is already a human brain\" –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
