@@ -16,6 +16,7 @@
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use destroys neural connections in the brain](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 20:04:49](https://news.ycombinator.com/item?id=31381812) - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
+* [2022-05-14, 20:04:13](https://news.ycombinator.com/item?id=31381804) - [End to end monitoring with minimal effort](https://martinheinz.dev/blog/72)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)
 * [2022-05-14, 19:26:32](https://news.ycombinator.com/item?id=31381461) - [Shaquille Zuckerberg](https://stakedy.com/long/shaquille-zuckerberg.html)
 * [2022-05-14, 19:21:52](https://news.ycombinator.com/item?id=31381410) - [You're Not Losing Fat Because You're Eating Too Damn Much](https://physiqonomics.com/eating-too-much/)
