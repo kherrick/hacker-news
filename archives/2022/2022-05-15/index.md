@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 23:21:08](https://news.ycombinator.com/item?id=31392137) - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
 * [2022-05-15, 22:49:18](https://news.ycombinator.com/item?id=31391922) - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:25:43](https://news.ycombinator.com/item?id=31391309) - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
@@ -14,6 +15,7 @@
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [The Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
 * [2022-05-15, 20:16:53](https://news.ycombinator.com/item?id=31390668) - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
+* [2022-05-15, 20:09:51](https://news.ycombinator.com/item?id=31390600) - [What happens to TLDs when their country stops existing?](https://astrid.tech/2022/04/05/1/dead-tlds/)
 * [2022-05-15, 20:05:39](https://news.ycombinator.com/item?id=31390564) - [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
 * [2022-05-15, 19:56:39](https://news.ycombinator.com/item?id=31390506) - [Fly.io: The Reclaimer of Heroku's Magic](https://christine.website/blog/fly.io-heroku-replacement)
 * [2022-05-15, 19:24:21](https://news.ycombinator.com/item?id=31390220) - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
