@@ -1,22 +1,62 @@
 [
   [
     [
-      "2022-05-14, 22:54:02",
-      "https://news.ycombinator.com/item?id=31383504"
+      "2022-05-15, 00:53:13",
+      "https://news.ycombinator.com/item?id=31384236"
     ],
     [
-      "Formalizing a Proof of God by Leibniz",
-      "https://timlabs.org/leibniz/"
+      "`curl wttr.in`: Weather in your terminal",
+      "https://github.com/chubin/wttr.in"
     ]
   ],
   [
     [
-      "2022-05-14, 22:39:40",
-      "https://news.ycombinator.com/item?id=31383388"
+      "2022-05-15, 00:13:35",
+      "https://news.ycombinator.com/item?id=31384007"
     ],
     [
-      "Mattel debuts first Barbie with hearing aids",
-      "https://www.cbsnews.com/news/barnie-hearing-aid-mattel/"
+      "Old Maps Online – Georeferenced historical maps network",
+      "https://www.oldmapsonline.org/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 23:49:35",
+      "https://news.ycombinator.com/item?id=31383847"
+    ],
+    [
+      "Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer",
+      "https://www.youtube.com/watch?v=Pbpw8VmNnwU"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 23:28:32",
+      "https://news.ycombinator.com/item?id=31383725"
+    ],
+    [
+      "Spreading rock dust on farms is an overlooked but tantalizing climate solution",
+      "https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 23:18:46",
+      "https://news.ycombinator.com/item?id=31383665"
+    ],
+    [
+      "Cognitive psychology findings that all passed a stringent replicability test",
+      "https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 21:45:03",
+      "https://news.ycombinator.com/item?id=31382885"
+    ],
+    [
+      "Dog digs up haul of medieval coins in Poland",
+      "https://notesfrompoland.com/2022/04/20/dog-digs-up-huge-haul-of-medieval-coins-in-poland/"
     ]
   ],
   [
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2022-05-14, 20:04:49",
-      "https://news.ycombinator.com/item?id=31381812"
-    ],
-    [
-      "Show HN: I made a body-interactive music app",
-      "https://news.ycombinator.com/item?id=31381812"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 19:56:29",
       "https://news.ycombinator.com/item?id=31381734"
     ],
     [
       "Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)",
       "https://pixel.vkoskiv.com"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 19:12:10",
-      "https://news.ycombinator.com/item?id=31381315"
-    ],
-    [
-      "Eurovision Song Contest Bingo",
-      "https://eurovision.vonmalmborg.com/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Navattic (YC W21) Is Hiring Product Engineers",
       "https://news.ycombinator.com/item?id=31379925"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 16:41:45",
-      "https://news.ycombinator.com/item?id=31379722"
-    ],
-    [
-      "Eight hundred employees resign after WhiteHat Jr asks them to work from office",
-      "https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html"
     ]
   ],
   [
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2022-05-14, 10:49:27",
-      "https://news.ycombinator.com/item?id=31376679"
-    ],
-    [
-      "Comparing the C FFI overhead on various languages",
-      "https://github.com/dyu/ffi-overhead"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 09:12:04",
-      "https://news.ycombinator.com/item?id=31376241"
-    ],
-    [
-      "Dokku – Free Heroku Alternative",
-      "https://dokku.com/"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 00:01:38",
       "https://news.ycombinator.com/item?id=31373806"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-05-12, 22:33:05",
-      "https://news.ycombinator.com/item?id=31360884"
+      "2022-05-12, 22:34:17",
+      "https://news.ycombinator.com/item?id=31360901"
     ],
     [
-      "Finding wisdom in Charles Baudelaire’s mad scribblings",
-      "https://www.washingtonpost.com/books/2022/05/11/finding-wisdom-charles-baudelaires-mad-scribblings/"
+      "Meditation on the Ides of March",
+      "https://classicalfuturist.substack.com/p/what-if-julius-caesar-hadnt-been-assassinated"
+    ]
+  ],
+  [
+    [
+      "2022-05-12, 13:40:06",
+      "https://news.ycombinator.com/item?id=31353984"
+    ],
+    [
+      "What do great engineering managers need to know about compensation and equity?",
+      "https://www.rubick.com/compensation-and-equity/"
     ]
   ]
 ]
