@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-15, 12:12:38",
+      "https://news.ycombinator.com/item?id=31387092"
+    ],
+    [
+      "Liberating out-of-copyright photos from SmartFrame's DRM",
+      "https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 12:03:52",
+      "https://news.ycombinator.com/item?id=31387057"
+    ],
+    [
+      "Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]",
+      "https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 12:02:40",
+      "https://news.ycombinator.com/item?id=31387055"
+    ],
+    [
+      "Mainboard Terminal – A Retro-Style Computer with a Modern Core",
+      "https://github.com/penk/MainboardTerminal"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 11:59:47",
+      "https://news.ycombinator.com/item?id=31387035"
+    ],
+    [
+      "Observability Is Not Only for SREs",
+      "https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 11:56:36",
       "https://news.ycombinator.com/item?id=31387019"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31386739"
     ],
     [
-      "Rust Game Engine Fyrox has released 0.25",
+      "Fyrox 0.25 Feature Highlights",
       "https://fyrox.rs/blog/post/feature-highlights-0-25/"
     ]
   ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2022-05-15, 03:59:55",
-      "https://news.ycombinator.com/item?id=31385155"
-    ],
-    [
-      "XOS Electric Trucks",
-      "https://xostrucks.com/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 02:44:27",
       "https://news.ycombinator.com/item?id=31384809"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2022-05-14, 23:49:35",
-      "https://news.ycombinator.com/item?id=31383847"
-    ],
-    [
-      "Restoring a $25k Convergent Technologies Miniframe CTIX Unix Computer [video]",
-      "https://www.youtube.com/watch?v=Pbpw8VmNnwU"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 23:28:32",
       "https://news.ycombinator.com/item?id=31383725"
     ],
     [
       "Spreading rock dust on farms as a climate solution",
       "https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 23:18:46",
-      "https://news.ycombinator.com/item?id=31383665"
-    ],
-    [
-      "Cognitive psychology findings that passed a stringent replicability test (2017)",
-      "https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-05-14, 06:43:31",
-      "https://news.ycombinator.com/item?id=31375620"
-    ],
-    [
-      "Free stuff makes us irrational",
-      "https://thehustle.co/why-free-stuff-makes-us-irrational/"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 04:42:13",
       "https://news.ycombinator.com/item?id=31375145"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-05-13, 18:30:03",
+      "https://news.ycombinator.com/item?id=31371004"
+    ],
+    [
+      "The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans",
+      "https://www.science.org/doi/10.1126/science.abl4896"
+    ]
+  ],
+  [
+    [
       "2022-05-13, 10:58:00",
       "https://news.ycombinator.com/item?id=31365777"
     ],
@@ -287,16 +297,6 @@
     [
       "I Trained My TikTok",
       "https://metastable.org/2022/05/how-I-trained-my-tiktok.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 13:40:06",
-      "https://news.ycombinator.com/item?id=31353984"
-    ],
-    [
-      "What do great engineering managers need to know about compensation and equity?",
-      "https://www.rubick.com/compensation-and-equity/"
     ]
   ]
 ]
