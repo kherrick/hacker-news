@@ -25,9 +25,9 @@
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication costs are 35-fold computational costs in the human brain (2021)](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
-* [2022-05-14, 22:37:37](https://news.ycombinator.com/item?id=31383373) - [The case for consolidation](https://benn.substack.com/p/case-for-consolidation)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-14, 14:00:10](https://news.ycombinator.com/item?id=31377985) - [The overengineered solution to my pigeon problem](https://maxnagy.com/posts/pigeons/)
+* [2022-05-14, 06:23:33](https://news.ycombinator.com/item?id=31375534) - [Magic Numbers: Treating “the algorithm” as a kind of divine power](https://reallifemag.com/magic-numbers/)
 * [2022-05-14, 04:42:13](https://news.ycombinator.com/item?id=31375145) - [Computer powered by colony of blue-green algae has run for six months](https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/)
 * [2022-05-13, 15:25:58](https://news.ycombinator.com/item?id=31368853) - [Take my app ideas](https://austinhenley.com/blog/takemyappideas.html)
 
