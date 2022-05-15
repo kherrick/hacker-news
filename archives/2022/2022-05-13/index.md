@@ -77,6 +77,7 @@
 * [2022-05-13, 02:18:20](https://news.ycombinator.com/item?id=31362519) - [How does a cowbird learn to be a cowbird?](https://www.audubon.org/news/how-does-cowbird-learn-be-cowbird)
 * [2022-05-13, 02:02:43](https://news.ycombinator.com/item?id=31362413) - [Going to the ends of the earth](https://thecritic.co.uk/issues/may-2022/going-to-the-ends-of-the-earth/)
 * [2022-05-13, 01:49:04](https://news.ycombinator.com/item?id=31362321) - [BBC Basic for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
+* [2022-05-13, 01:35:23](https://news.ycombinator.com/item?id=31362241) - [The Rise of the T-Shaped Organization (2015)](https://blog.irvingwb.com/blog/2015/12/the-rise-of-the-t-shaped-organization.html)
 * [2022-05-13, 01:30:23](https://news.ycombinator.com/item?id=31362208) - [Expats are moving to Portugal, taking gentrification with them](https://www.latimes.com/world-nation/story/2022-05-12/california-expats-portugal-relocation-lisbon)
 * [2022-05-13, 01:09:26](https://news.ycombinator.com/item?id=31362049) - [Tokay Programming Language](https://tokay.dev/)
 * [2022-05-13, 01:00:53](https://news.ycombinator.com/item?id=31361983) - [Ziina (YC W21) Is Hiring for Senior+ iOS and Back End Engineers in Dubai](https://news.ycombinator.com/item?id=31361983)

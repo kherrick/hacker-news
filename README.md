@@ -14,7 +14,6 @@
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use causes synapse loss and cognitive deficits in mice](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
-* [2022-05-14, 17:00:48](https://news.ycombinator.com/item?id=31379925) - [Navattic (YC W21) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 * [2022-05-14, 16:37:49](https://news.ycombinator.com/item?id=31379665) - [“Blown Away Guy”: Iconic music image](https://www.vintag.es/2022/02/blown-away-guy.html)
 * [2022-05-14, 16:12:13](https://news.ycombinator.com/item?id=31379386) - [Bad government policy is fueling the infant formula shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
 * [2022-05-14, 16:12:11](https://news.ycombinator.com/item?id=31379383) - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html)
@@ -28,6 +27,7 @@
 * [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
 * [2022-05-13, 08:24:14](https://news.ycombinator.com/item?id=31364749) - [Idea Machines: Ideology and networks that turn ideas into outcomes](https://nadia.xyz/idea-machines)
 * [2022-05-13, 07:09:07](https://news.ycombinator.com/item?id=31364321) - [What’s behind China’s boom in company formation?](https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/)
+* [2022-05-13, 01:35:23](https://news.ycombinator.com/item?id=31362241) - [The Rise of the T-Shaped Organization (2015)](https://blog.irvingwb.com/blog/2015/12/the-rise-of-the-t-shaped-organization.html)
 * [2022-05-12, 22:40:02](https://news.ycombinator.com/item?id=31360955) - [I Trained My TikTok](https://metastable.org/2022/05/how-I-trained-my-tiktok.html)
 * [2022-05-12, 13:40:06](https://news.ycombinator.com/item?id=31353984) - [What do great engineering managers need to know about compensation and equity?](https://www.rubick.com/compensation-and-equity/)
 
