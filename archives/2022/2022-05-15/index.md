@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The Problem with Bitcoin Miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+* [2022-05-15, 17:54:36](https://news.ycombinator.com/item?id=31389442) - [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
 * [2022-05-15, 17:14:53](https://news.ycombinator.com/item?id=31389024) - [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
 * [2022-05-15, 17:00:24](https://news.ycombinator.com/item?id=31388894) - [Ashby (YC W19) Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
 * [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
