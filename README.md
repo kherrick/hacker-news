@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [\"Maybe a 3090 is already a human brain\" –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
@@ -18,7 +19,6 @@
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use causes synapse loss and cognitive deficits in mice](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
 * [2022-05-14, 16:12:13](https://news.ycombinator.com/item?id=31379386) - [Bad government policy is fueling the infant formula shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
-* [2022-05-14, 16:08:16](https://news.ycombinator.com/item?id=31379344) - [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
 * [2022-05-14, 00:06:04](https://news.ycombinator.com/item?id=31373824) - [How do black holes swallow stars?](https://astronomy.com/magazine/news/2021/12/how-do-black-holes-swallow-stars)
