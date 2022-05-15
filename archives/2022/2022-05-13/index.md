@@ -59,6 +59,7 @@
 * [2022-05-13, 08:53:28](https://news.ycombinator.com/item?id=31364945) - [Luna Founder Requests Police Protection as Investors Are Visiting His House](https://news.mt.co.kr/mtview.php?no=2022051308574726920)
 * [2022-05-13, 08:49:44](https://news.ycombinator.com/item?id=31364916) - [Show HN: React Routing in 120 lines (including comments)](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)
 * [2022-05-13, 08:39:19](https://news.ycombinator.com/item?id=31364849) - [When Wireless Malware Stays on After Turning Off iPhones [pdf]](https://arxiv.org/abs/2205.06114)
+* [2022-05-13, 08:24:14](https://news.ycombinator.com/item?id=31364749) - [Idea Machines: Ideology and networks that turn ideas into outcomes](https://nadia.xyz/idea-machines)
 * [2022-05-13, 08:07:35](https://news.ycombinator.com/item?id=31364668) - [I fixed my broken monitor with a hair dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer/)
 * [2022-05-13, 08:02:02](https://news.ycombinator.com/item?id=31364638) - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://pubmed.ncbi.nlm.nih.gov/35533499/)
 * [2022-05-13, 07:09:07](https://news.ycombinator.com/item?id=31364321) - [What’s behind China’s boom in company formation?](https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/)
