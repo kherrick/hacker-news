@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 02:44:27](https://news.ycombinator.com/item?id=31384809) - [Crowdsource by Google](https://crowdsource.google.com/about/)
 * [2022-05-15, 02:03:02](https://news.ycombinator.com/item?id=31384602) - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
 * [2022-05-15, 01:53:08](https://news.ycombinator.com/item?id=31384562) - [Streaming Server Side Render in React 18](https://github.com/maxam2017/react-18-ssr)
@@ -20,7 +21,6 @@
 * [2022-05-14, 16:08:16](https://news.ycombinator.com/item?id=31379344) - [Time-Series Compression Algorithms](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:27:37](https://news.ycombinator.com/item?id=31378878) - [Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
-* [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
 * [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Why free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
 * [2022-05-14, 00:01:38](https://news.ycombinator.com/item?id=31373806) - [Book Review: Consciousness and the Brain](https://astralcodexten.substack.com/p/your-book-review-consciousness-and)
 * [2022-05-13, 21:14:37](https://news.ycombinator.com/item?id=31372606) - [How many colors are too many colors for Windows Terminal?](https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/)
