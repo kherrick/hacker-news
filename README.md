@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
 * [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
 * [2022-05-15, 12:53:12](https://news.ycombinator.com/item?id=31387260) - [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
 * [2022-05-15, 12:50:26](https://news.ycombinator.com/item?id=31387248) - [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
@@ -14,7 +15,6 @@
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 08:17:57](https://news.ycombinator.com/item?id=31386108) - [ShadyURL: Don't just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication costs are 35-fold computational costs in the human brain (2021)](https://www.pnas.org/doi/10.1073/pnas.2008173118)
-* [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 02:44:27](https://news.ycombinator.com/item?id=31384809) - [Crowdsource by Google](https://crowdsource.google.com/about/)
@@ -23,12 +23,12 @@
 * [2022-05-15, 00:53:13](https://news.ycombinator.com/item?id=31384236) - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
 * [2022-05-14, 23:28:32](https://news.ycombinator.com/item?id=31383725) - [Spreading rock dust on farms as a climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
-* [2022-05-14, 20:04:13](https://news.ycombinator.com/item?id=31381804) - [End to end monitoring with minimal effort](https://martinheinz.dev/blog/72)
 * [2022-05-14, 14:00:10](https://news.ycombinator.com/item?id=31377985) - [The overengineered solution to my pigeon problem](https://maxnagy.com/posts/pigeons/)
 * [2022-05-14, 04:42:13](https://news.ycombinator.com/item?id=31375145) - [Computer powered by colony of blue-green algae has run for six months](https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/)
 * [2022-05-14, 00:06:04](https://news.ycombinator.com/item?id=31373824) - [How do black holes swallow stars? (2021)](https://astronomy.com/magazine/news/2021/12/how-do-black-holes-swallow-stars)
 * [2022-05-13, 21:14:37](https://news.ycombinator.com/item?id=31372606) - [How many colors are too many colors for Windows Terminal?](https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/)
 * [2022-05-13, 18:30:03](https://news.ycombinator.com/item?id=31371004) - [The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans](https://www.science.org/doi/10.1126/science.abl4896)
+* [2022-05-13, 15:25:58](https://news.ycombinator.com/item?id=31368853) - [Take my app ideas](https://austinhenley.com/blog/takemyappideas.html)
 * [2022-05-13, 10:58:00](https://news.ycombinator.com/item?id=31365777) - [A Fast Excel Formula Parser and Evaluator](https://github.com/LesterLyu/fast-formula-parser)
 
 ## [Archives](archives/index.md)
