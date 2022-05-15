@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [The Modern JavaScript Tutorial](https://javascript.info/)
+* [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
 * [2022-05-15, 20:16:53](https://news.ycombinator.com/item?id=31390668) - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 * [2022-05-15, 20:05:39](https://news.ycombinator.com/item?id=31390564) - [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
 * [2022-05-15, 19:56:39](https://news.ycombinator.com/item?id=31390506) - [Fly.io: The Reclaimer of Heroku's Magic](https://christine.website/blog/fly.io-heroku-replacement)

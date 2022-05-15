@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-15, 20:16:53](https://news.ycombinator.com/item?id=31390668) - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
+* [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [The Modern JavaScript Tutorial](https://javascript.info/)
+* [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
 * [2022-05-15, 20:05:39](https://news.ycombinator.com/item?id=31390564) - [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
 * [2022-05-15, 19:56:39](https://news.ycombinator.com/item?id=31390506) - [Fly.io: The Reclaimer of Heroku's Magic](https://christine.website/blog/fly.io-heroku-replacement)
 * [2022-05-15, 19:24:21](https://news.ycombinator.com/item?id=31390220) - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
@@ -11,7 +12,6 @@
 * [2022-05-15, 18:18:56](https://news.ycombinator.com/item?id=31389645) - [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
 * [2022-05-15, 17:54:36](https://news.ycombinator.com/item?id=31389442) - [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
 * [2022-05-15, 17:00:24](https://news.ycombinator.com/item?id=31388894) - [Ashby (YC W19) Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
-* [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 * [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)
 * [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
