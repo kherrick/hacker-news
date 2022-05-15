@@ -49,6 +49,7 @@
 * [2022-05-13, 12:01:00](https://news.ycombinator.com/item?id=31366406) - [Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
 * [2022-05-13, 11:43:26](https://news.ycombinator.com/item?id=31366214) - [Ex-eBay exec pleads guilty to terrorizing couple with spiders, funeral wreaths](https://www.theguardian.com/technology/2022/may/12/ebay-executive-guilty-boston-couple-harassment)
 * [2022-05-13, 11:10:32](https://news.ycombinator.com/item?id=31365882) - [Andy Jassy's $214M salary is 'excessive' and should be vetoed – advisory firms](https://www.businessinsider.com/amazon-ceo-andy-jassy-salary-excessive-report-vote-down-2022-5)
+* [2022-05-13, 10:58:00](https://news.ycombinator.com/item?id=31365777) - [A Fast Excel Formula Parser and Evaluator](https://github.com/LesterLyu/fast-formula-parser)
 * [2022-05-13, 10:17:18](https://news.ycombinator.com/item?id=31365437) - [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/)
 * [2022-05-13, 09:57:58](https://news.ycombinator.com/item?id=31365307) - [Twitter Deal Temporarily on Hold](https://twitter.com/elonmusk/status/1525049369552048129)
 * [2022-05-13, 09:49:01](https://news.ycombinator.com/item?id=31365251) - [In Defense of Proof of Work](https://neptune.cash/blog/in-defense-of-proof-of-work/)
