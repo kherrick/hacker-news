@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-15, 09:14:58",
+      "https://news.ycombinator.com/item?id=31386330"
+    ],
+    [
+      "SQLite cron-based backup (alternative to Litestream for simpler usecases)",
+      "https://litestream.io/alternatives/cron/"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 08:14:15",
       "https://news.ycombinator.com/item?id=31386091"
     ],
@@ -181,32 +191,22 @@
   ],
   [
     [
-      "2022-05-14, 16:12:13",
-      "https://news.ycombinator.com/item?id=31379386"
-    ],
-    [
-      "Bad government policy is fueling the infant formula shortage",
-      "https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 15:29:17",
-      "https://news.ycombinator.com/item?id=31378896"
-    ],
-    [
-      "Java record pattern matching in JDK 19",
-      "https://openjdk.java.net/jeps/405"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 06:43:31",
       "https://news.ycombinator.com/item?id=31375620"
     ],
     [
       "Free stuff makes us irrational",
       "https://thehustle.co/why-free-stuff-makes-us-irrational/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 04:42:13",
+      "https://news.ycombinator.com/item?id=31375145"
+    ],
+    [
+      "Computer powered by colony of blue-green algae has run for six months",
+      "https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/"
     ]
   ],
   [
