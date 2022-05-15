@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 18:45:11](https://news.ycombinator.com/item?id=31389893) - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2022-05-15, 18:35:27](https://news.ycombinator.com/item?id=31389797) - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
 * [2022-05-15, 17:54:36](https://news.ycombinator.com/item?id=31389442) - [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
@@ -11,7 +12,6 @@
 * [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
 * [2022-05-15, 15:39:46](https://news.ycombinator.com/item?id=31388223) - [See's Candies is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/)
 * [2022-05-15, 15:31:40](https://news.ycombinator.com/item?id=31388163) - [Jabra denies support for Elite 85t Bluetooth earbuds on computers](https://news.ycombinator.com/item?id=31388163)
-* [2022-05-15, 15:24:11](https://news.ycombinator.com/item?id=31388109) - [Dead Man's Snitch – A Dead Simple Cron Job Monitoring Service](https://deadmanssnitch.com/)
 * [2022-05-15, 15:01:57](https://news.ycombinator.com/item?id=31387962) - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
 * [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
 * [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
