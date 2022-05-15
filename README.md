@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 15:01:57](https://news.ycombinator.com/item?id=31387962) - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
 * [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
 * [2022-05-15, 12:53:12](https://news.ycombinator.com/item?id=31387260) - [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
@@ -25,7 +26,6 @@
 * [2022-05-14, 14:00:10](https://news.ycombinator.com/item?id=31377985) - [The overengineered solution to my pigeon problem](https://maxnagy.com/posts/pigeons/)
 * [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
 * [2022-05-14, 04:42:13](https://news.ycombinator.com/item?id=31375145) - [Computer powered by colony of blue-green algae has run for six months](https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/)
-* [2022-05-14, 00:06:04](https://news.ycombinator.com/item?id=31373824) - [How do black holes swallow stars? (2021)](https://astronomy.com/magazine/news/2021/12/how-do-black-holes-swallow-stars)
 * [2022-05-13, 18:30:03](https://news.ycombinator.com/item?id=31371004) - [The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans](https://www.science.org/doi/10.1126/science.abl4896)
 * [2022-05-13, 15:25:58](https://news.ycombinator.com/item?id=31368853) - [Take my app ideas](https://austinhenley.com/blog/takemyappideas.html)
 * [2022-05-13, 10:58:00](https://news.ycombinator.com/item?id=31365777) - [A Fast Excel Formula Parser and Evaluator](https://github.com/LesterLyu/fast-formula-parser)

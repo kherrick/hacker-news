@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 15:01:57](https://news.ycombinator.com/item?id=31387962) - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
 * [2022-05-15, 14:24:48](https://news.ycombinator.com/item?id=31387741) - [What Propels Cancel Culture?](https://robkhenderson.substack.com/p/what-propels-cancel-culture)
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
 * [2022-05-15, 13:29:16](https://news.ycombinator.com/item?id=31387433) - [Do you use service called Mine?](https://business.saymine.com)
