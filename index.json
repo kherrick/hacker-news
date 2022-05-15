@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-15, 18:19:00",
+      "https://news.ycombinator.com/item?id=31389647"
+    ],
+    [
+      "The Problem with Bitcoin Miners",
+      "https://paulbutler.org/2022/the-problem-with-bitcoin-miners/"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 17:54:36",
+      "https://news.ycombinator.com/item?id=31389442"
+    ],
+    [
+      "My experience with exporting Postgres RDS partitioned tables to S3",
+      "https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 17:14:53",
       "https://news.ycombinator.com/item?id=31389024"
     ],
@@ -57,16 +77,6 @@
     [
       "Why a small candy company is Warren Buffett’s ‘dream’ investment",
       "https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 15:32:12",
-      "https://news.ycombinator.com/item?id=31388165"
-    ],
-    [
-      "The rebellion against the return to the office is getting serious",
-      "https://www.wsj.com/articles/remote-workers-dont-want-to-go-back-to-the-office-11652500810"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-05-15, 11:14:05",
-      "https://news.ycombinator.com/item?id=31386819"
-    ],
-    [
-      "Open Source Calendly Alternative",
-      "https://www.meetsy.xyz/"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 10:57:14",
-      "https://news.ycombinator.com/item?id=31386739"
-    ],
-    [
-      "Fyrox 0.25 Feature Highlights",
-      "https://fyrox.rs/blog/post/feature-highlights-0-25/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 10:26:36",
       "https://news.ycombinator.com/item?id=31386619"
     ],
@@ -257,6 +247,16 @@
     [
       "The case for consolidation",
       "https://benn.substack.com/p/case-for-consolidation"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 20:30:04",
+      "https://news.ycombinator.com/item?id=31382024"
+    ],
+    [
+      "Introduction to Microsoft Excel (1992) [video]",
+      "https://www.youtube.com/watch?v=kOO31qFmi9A"
     ]
   ],
   [
