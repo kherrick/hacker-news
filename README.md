@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-15, 14:24:48](https://news.ycombinator.com/item?id=31387741) - [What Propels Cancel Culture?](https://robkhenderson.substack.com/p/what-propels-cancel-culture)
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
 * [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
 * [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
@@ -22,6 +21,7 @@
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 02:44:27](https://news.ycombinator.com/item?id=31384809) - [Crowdsource by Google](https://crowdsource.google.com/about/)
 * [2022-05-15, 02:03:02](https://news.ycombinator.com/item?id=31384602) - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
+* [2022-05-15, 01:46:59](https://news.ycombinator.com/item?id=31384528) - [Tylr: A tiny tile-based editor](https://tylr.fun/)
 * [2022-05-15, 00:53:13](https://news.ycombinator.com/item?id=31384236) - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 14:00:10](https://news.ycombinator.com/item?id=31377985) - [The overengineered solution to my pigeon problem](https://maxnagy.com/posts/pigeons/)
