@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-15, 02:03:02",
+      "https://news.ycombinator.com/item?id=31384602"
+    ],
+    [
+      "A lock-free, concurrent, generic queue in 32 bits",
+      "https://nullprogram.com/blog/2022/05/14/"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 01:53:08",
+      "https://news.ycombinator.com/item?id=31384562"
+    ],
+    [
+      "Streaming Server Side Render in React 18",
+      "https://github.com/maxam2017/react-18-ssr"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 01:46:59",
+      "https://news.ycombinator.com/item?id=31384528"
+    ],
+    [
+      "Tylr: A tiny tile-based editor",
+      "https://tylr.fun/"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 00:53:13",
       "https://news.ycombinator.com/item?id=31384236"
     ],
@@ -11,21 +41,11 @@
   ],
   [
     [
-      "2022-05-15, 00:13:35",
-      "https://news.ycombinator.com/item?id=31384007"
-    ],
-    [
-      "Old Maps Online – Georeferenced historical maps network",
-      "https://www.oldmapsonline.org/"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 23:49:35",
       "https://news.ycombinator.com/item?id=31383847"
     ],
     [
-      "Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer",
+      "Restoring a $25k Convergent Technologies Miniframe CTIX Unix Computer [video]",
       "https://www.youtube.com/watch?v=Pbpw8VmNnwU"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31383665"
     ],
     [
-      "Cognitive psychology findings that all passed a stringent replicability test",
+      "Cognitive psychology findings that passed a stringent replicability test (2017)",
       "https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-05-14, 16:24:32",
-      "https://news.ycombinator.com/item?id=31379537"
-    ],
-    [
-      "You can create a great looking website while sucking at design",
-      "https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 16:12:13",
       "https://news.ycombinator.com/item?id=31379386"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-05-14, 12:21:21",
-      "https://news.ycombinator.com/item?id=31377262"
-    ],
-    [
-      "Thinking in an array language",
-      "https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 00:01:38",
       "https://news.ycombinator.com/item?id=31373806"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-05-12, 22:34:17",
-      "https://news.ycombinator.com/item?id=31360901"
+      "2022-05-12, 22:40:02",
+      "https://news.ycombinator.com/item?id=31360955"
     ],
     [
-      "Meditation on the Ides of March",
-      "https://classicalfuturist.substack.com/p/what-if-julius-caesar-hadnt-been-assassinated"
+      "I Trained My TikTok",
+      "https://metastable.org/2022/05/how-I-trained-my-tiktok.html"
     ]
   ],
   [
