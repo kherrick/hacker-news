@@ -20,6 +20,7 @@
 * [2022-05-13, 19:01:03](https://news.ycombinator.com/item?id=31371340) - [Show HN: A Full-Stack Web Framework for Go](https://github.com/livebud/bud)
 * [2022-05-13, 18:43:58](https://news.ycombinator.com/item?id=31371155) - [The Nature of the Firm](https://en.wikipedia.org/wiki/The_Nature_of_the_Firm)
 * [2022-05-13, 18:34:18](https://news.ycombinator.com/item?id=31371050) - [Origin of life theory involving RNA–protein hybrid gets new support](https://www.nature.com/articles/d41586-022-01303-z)
+* [2022-05-13, 18:30:03](https://news.ycombinator.com/item?id=31371004) - [The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans](https://www.science.org/doi/10.1126/science.abl4896)
 * [2022-05-13, 18:17:53](https://news.ycombinator.com/item?id=31370881) - [Would You Take Out a Loan for a Pair of Jeans? (2017)](https://www.racked.com/2017/11/29/16710502/affirm-loan-shopping)
 * [2022-05-13, 18:11:45](https://news.ycombinator.com/item?id=31370824) - [Henry George's Progress and Poverty Reviewed](https://gameofrent.com/content/progress-and-poverty-review)
 * [2022-05-13, 18:11:45](https://news.ycombinator.com/item?id=31370824) - [Book Review: Progress and Poverty](http://gameofrent.com/content/progress-and-poverty-review)

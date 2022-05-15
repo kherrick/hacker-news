@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 12:12:38](https://news.ycombinator.com/item?id=31387092) - [Liberating out-of-copyright photos from SmartFrame's DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
+* [2022-05-15, 12:03:52](https://news.ycombinator.com/item?id=31387057) - [Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]](https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b)
+* [2022-05-15, 12:02:40](https://news.ycombinator.com/item?id=31387055) - [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
+* [2022-05-15, 11:59:47](https://news.ycombinator.com/item?id=31387035) - [Observability Is Not Only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres)
 * [2022-05-15, 11:56:36](https://news.ycombinator.com/item?id=31387019) - [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
 * [2022-05-15, 10:57:14](https://news.ycombinator.com/item?id=31386739) - [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
 * [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
