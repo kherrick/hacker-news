@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [SQLite cron-based backup (alternative to Litestream for simpler usecases)](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [Brain FLOPS](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
@@ -18,9 +19,8 @@
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:37:09](https://news.ycombinator.com/item?id=31382096) - [Long-term benzodiazepine use causes synapse loss and cognitive deficits in mice](https://scitechdaily.com/long-term-benzodiazepine-xanax-klonopin-ativan-use-destroys-neural-connections-in-the-brain/)
 * [2022-05-14, 18:44:38](https://news.ycombinator.com/item?id=31381014) - [Hundreds of patient data breaches are left unpunished](https://www.bmj.com/content/377/bmj.o1126)
-* [2022-05-14, 16:12:13](https://news.ycombinator.com/item?id=31379386) - [Bad government policy is fueling the infant formula shortage](https://reason.com/volokh/2022/05/13/how-bad-government-policy-is-fueling-the-infant-formula-shortage/)
-* [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
+* [2022-05-14, 04:42:13](https://news.ycombinator.com/item?id=31375145) - [Computer powered by colony of blue-green algae has run for six months](https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/)
 * [2022-05-14, 00:06:04](https://news.ycombinator.com/item?id=31373824) - [How do black holes swallow stars?](https://astronomy.com/magazine/news/2021/12/how-do-black-holes-swallow-stars)
 * [2022-05-13, 21:14:37](https://news.ycombinator.com/item?id=31372606) - [How many colors are too many colors for Windows Terminal?](https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/)
 * [2022-05-13, 20:46:41](https://news.ycombinator.com/item?id=31372373) - [This site is now a “shinobi website”](https://tdarb.org/posts/shinobi-website.txt)
