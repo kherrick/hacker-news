@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 20:05:39](https://news.ycombinator.com/item?id=31390564) - [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
 * [2022-05-15, 19:24:21](https://news.ycombinator.com/item?id=31390220) - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
+* [2022-05-15, 19:10:42](https://news.ycombinator.com/item?id=31390111) - [Sleep Helps Process Emotions](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/how_sleep_helps_to_process_emotions/index_eng.html)
 * [2022-05-15, 18:45:11](https://news.ycombinator.com/item?id=31389893) - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2022-05-15, 18:35:27](https://news.ycombinator.com/item?id=31389797) - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The Problem with Bitcoin Miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
