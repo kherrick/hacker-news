@@ -23,11 +23,11 @@
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
 * [2022-05-13, 21:14:37](https://news.ycombinator.com/item?id=31372606) - [How many colors are too many colors for Windows Terminal?](https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/)
+* [2022-05-13, 20:46:41](https://news.ycombinator.com/item?id=31372373) - [This site is now a “shinobi website”](https://tdarb.org/posts/shinobi-website.txt)
 * [2022-05-13, 17:29:32](https://news.ycombinator.com/item?id=31370354) - [Plants have been grown in lunar soil for the first time ever](https://www.cnn.com/2022/05/12/world/plants-lunar-soil-scn/index.html)
 * [2022-05-13, 10:58:00](https://news.ycombinator.com/item?id=31365777) - [A Fast Excel Formula Parser and Evaluator](https://github.com/LesterLyu/fast-formula-parser)
 * [2022-05-13, 08:24:14](https://news.ycombinator.com/item?id=31364749) - [Idea Machines: Ideology and networks that turn ideas into outcomes](https://nadia.xyz/idea-machines)
 * [2022-05-13, 07:09:07](https://news.ycombinator.com/item?id=31364321) - [What’s behind China’s boom in company formation?](https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/)
-* [2022-05-13, 01:35:23](https://news.ycombinator.com/item?id=31362241) - [The Rise of the T-Shaped Organization (2015)](https://blog.irvingwb.com/blog/2015/12/the-rise-of-the-t-shaped-organization.html)
 * [2022-05-12, 22:40:02](https://news.ycombinator.com/item?id=31360955) - [I Trained My TikTok](https://metastable.org/2022/05/how-I-trained-my-tiktok.html)
 * [2022-05-12, 13:40:06](https://news.ycombinator.com/item?id=31353984) - [What do great engineering managers need to know about compensation and equity?](https://www.rubick.com/compensation-and-equity/)
 
