@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-05-15, 13:21:05",
+      "https://news.ycombinator.com/item?id=31387383"
+    ],
+    [
+      "The human cortex use less than 0.2 watts",
+      "https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 13:04:17",
+      "https://news.ycombinator.com/item?id=31387312"
+    ],
+    [
+      "Golang Diaries: Generics",
+      "https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 12:50:26",
+      "https://news.ycombinator.com/item?id=31387248"
+    ],
+    [
+      "Web Scraping with Python: Everything you need to know",
+      "https://www.scrapingbee.com/blog/web-scraping-101-with-python/"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 12:46:56",
+      "https://news.ycombinator.com/item?id=31387233"
+    ],
+    [
+      "Minoan Language Linear A Linked to Linear B in Groundbreaking Research",
+      "https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 12:12:38",
       "https://news.ycombinator.com/item?id=31387092"
     ],
     [
       "Liberating out-of-copyright photos from SmartFrame's DRM",
       "https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 12:03:52",
-      "https://news.ycombinator.com/item?id=31387057"
-    ],
-    [
-      "Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]",
-      "https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-05-14, 21:24:14",
-      "https://news.ycombinator.com/item?id=31382663"
-    ],
-    [
-      "KDE Connect Now Available on iOS",
-      "https://apps.apple.com/ca/app/kde-connect/id1580245991"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 21:04:01",
       "https://news.ycombinator.com/item?id=31382414"
     ],
@@ -277,26 +297,6 @@
     [
       "A Fast Excel Formula Parser and Evaluator",
       "https://github.com/LesterLyu/fast-formula-parser"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 08:24:14",
-      "https://news.ycombinator.com/item?id=31364749"
-    ],
-    [
-      "Idea Machines: Ideology and networks that turn ideas into outcomes",
-      "https://nadia.xyz/idea-machines"
-    ]
-  ],
-  [
-    [
-      "2022-05-12, 22:40:02",
-      "https://news.ycombinator.com/item?id=31360955"
-    ],
-    [
-      "I Trained My TikTok",
-      "https://metastable.org/2022/05/how-I-trained-my-tiktok.html"
     ]
   ]
 ]
