@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 21:14:18](https://news.ycombinator.com/item?id=31391201) - [Congress urged to ease immigration for foreign science talent](https://www.axios.com/2022/05/09/national-security-china-international-science-tech-talent)
 * [2022-05-15, 21:02:22](https://news.ycombinator.com/item?id=31391085) - [BuildZoom (better way to build custom homes) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
@@ -23,13 +24,12 @@
 * [2022-05-15, 12:46:56](https://news.ycombinator.com/item?id=31387233) - [Minoan Language Linear A Linked to Linear B in Groundbreaking Research](https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/)
 * [2022-05-15, 12:12:38](https://news.ycombinator.com/item?id=31387092) - [Liberating out-of-copyright photos from SmartFrame's DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
 * [2022-05-15, 12:02:40](https://news.ycombinator.com/item?id=31387055) - [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
-* [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own your calendar and contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
+* [2022-05-14, 21:50:51](https://news.ycombinator.com/item?id=31382947) - [Human genetic engineering is coming](https://www.theglobeandmail.com/opinion/article-human-genetic-engineering-is-coming-we-must-discuss-the-social-and/)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-14, 14:00:10](https://news.ycombinator.com/item?id=31377985) - [The overengineered solution to my pigeon problem](https://maxnagy.com/posts/pigeons/)
 * [2022-05-14, 08:41:37](https://news.ycombinator.com/item?id=31376141) - [Towards a Learning-Based Query Optimizer](https://engineering.databloom.ai/2022/05/towards-learning-based-query-optimizer.html)
-* [2022-05-13, 15:25:58](https://news.ycombinator.com/item?id=31368853) - [Take my app ideas](https://austinhenley.com/blog/takemyappideas.html)
 
 ## [Archives](archives/index.md)
 
