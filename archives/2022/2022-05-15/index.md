@@ -6,6 +6,7 @@
 
 * [2022-05-15, 17:14:53](https://news.ycombinator.com/item?id=31389024) - [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
 * [2022-05-15, 17:00:24](https://news.ycombinator.com/item?id=31388894) - [Ashby (YC W19) Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
+* [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 * [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)
 * [2022-05-15, 16:14:21](https://news.ycombinator.com/item?id=31388500) - [Apollo Spacecraft Premodulation Processor Teardown](https://twitter.com/kenshirriff/status/1525134870179094528)
