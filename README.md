@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
+* [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
+* [2022-05-15, 12:50:26](https://news.ycombinator.com/item?id=31387248) - [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+* [2022-05-15, 12:46:56](https://news.ycombinator.com/item?id=31387233) - [Minoan Language Linear A Linked to Linear B in Groundbreaking Research](https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/)
 * [2022-05-15, 12:12:38](https://news.ycombinator.com/item?id=31387092) - [Liberating out-of-copyright photos from SmartFrame's DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
-* [2022-05-15, 12:03:52](https://news.ycombinator.com/item?id=31387057) - [Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]](https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b)
 * [2022-05-15, 12:02:40](https://news.ycombinator.com/item?id=31387055) - [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
 * [2022-05-15, 11:59:47](https://news.ycombinator.com/item?id=31387035) - [Observability Is Not Only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres)
 * [2022-05-15, 11:56:36](https://news.ycombinator.com/item?id=31387019) - [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
@@ -18,7 +21,6 @@
 * [2022-05-15, 01:46:59](https://news.ycombinator.com/item?id=31384528) - [Tylr: A tiny tile-based editor](https://tylr.fun/)
 * [2022-05-15, 00:53:13](https://news.ycombinator.com/item?id=31384236) - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
 * [2022-05-14, 23:28:32](https://news.ycombinator.com/item?id=31383725) - [Spreading rock dust on farms as a climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
-* [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
 * [2022-05-14, 21:01:37](https://news.ycombinator.com/item?id=31382372) - [Shaped Charges – Sheet of copper going through 1ft of solid steel (2010) [video]](https://www.youtube.com/watch?v=K-3cTsvI7ss)
 * [2022-05-14, 20:04:13](https://news.ycombinator.com/item?id=31381804) - [End to end monitoring with minimal effort](https://martinheinz.dev/blog/72)
@@ -28,8 +30,6 @@
 * [2022-05-13, 21:14:37](https://news.ycombinator.com/item?id=31372606) - [How many colors are too many colors for Windows Terminal?](https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/)
 * [2022-05-13, 18:30:03](https://news.ycombinator.com/item?id=31371004) - [The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans](https://www.science.org/doi/10.1126/science.abl4896)
 * [2022-05-13, 10:58:00](https://news.ycombinator.com/item?id=31365777) - [A Fast Excel Formula Parser and Evaluator](https://github.com/LesterLyu/fast-formula-parser)
-* [2022-05-13, 08:24:14](https://news.ycombinator.com/item?id=31364749) - [Idea Machines: Ideology and networks that turn ideas into outcomes](https://nadia.xyz/idea-machines)
-* [2022-05-12, 22:40:02](https://news.ycombinator.com/item?id=31360955) - [I Trained My TikTok](https://metastable.org/2022/05/how-I-trained-my-tiktok.html)
 
 ## [Archives](archives/index.md)
 

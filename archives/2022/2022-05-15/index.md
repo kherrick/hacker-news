@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
+* [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
+* [2022-05-15, 12:50:26](https://news.ycombinator.com/item?id=31387248) - [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+* [2022-05-15, 12:46:56](https://news.ycombinator.com/item?id=31387233) - [Minoan Language Linear A Linked to Linear B in Groundbreaking Research](https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/)
 * [2022-05-15, 12:12:38](https://news.ycombinator.com/item?id=31387092) - [Liberating out-of-copyright photos from SmartFrame's DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
 * [2022-05-15, 12:03:52](https://news.ycombinator.com/item?id=31387057) - [Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]](https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b)
 * [2022-05-15, 12:02:40](https://news.ycombinator.com/item?id=31387055) - [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
