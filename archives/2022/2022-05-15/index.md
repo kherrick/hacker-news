@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 22:49:18](https://news.ycombinator.com/item?id=31391922) - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:25:43](https://news.ycombinator.com/item?id=31391309) - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
 * [2022-05-15, 21:22:13](https://news.ycombinator.com/item?id=31391272) - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)

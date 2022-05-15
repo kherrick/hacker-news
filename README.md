@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-15, 21:25:43](https://news.ycombinator.com/item?id=31391309) - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
+* [2022-05-15, 22:49:18](https://news.ycombinator.com/item?id=31391922) - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
+* [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:22:13](https://news.ycombinator.com/item?id=31391272) - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
 * [2022-05-15, 21:14:18](https://news.ycombinator.com/item?id=31391201) - [Congress urged to ease immigration for foreign science talent](https://www.axios.com/2022/05/09/national-security-china-international-science-tech-talent)
 * [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
@@ -16,7 +17,6 @@
 * [2022-05-15, 18:35:27](https://news.ycombinator.com/item?id=31389797) - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
 * [2022-05-15, 18:18:56](https://news.ycombinator.com/item?id=31389645) - [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
-* [2022-05-15, 17:54:36](https://news.ycombinator.com/item?id=31389442) - [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)
 * [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
 * [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
