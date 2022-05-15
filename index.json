@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-05-15, 21:25:43",
-      "https://news.ycombinator.com/item?id=31391309"
+      "2022-05-15, 22:49:18",
+      "https://news.ycombinator.com/item?id=31391922"
     ],
     [
-      "Surprises in Logic",
-      "https://math.ucr.edu/home/baez/surprises.html"
+      "DIY High Resolution Spectrometer",
+      "https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 21:34:55",
+      "https://news.ycombinator.com/item?id=31391376"
+    ],
+    [
+      "Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible",
+      "https://news.ycombinator.com/item?id=31391376"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "“Carbon Bombs” – Mapping key fossil fuel projects",
       "https://www.sciencedirect.com/science/article/pii/S0301421522001756"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 17:54:36",
-      "https://news.ycombinator.com/item?id=31389442"
-    ],
-    [
-      "My experience with exporting Postgres RDS partitioned tables to S3",
-      "https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html"
     ]
   ],
   [
