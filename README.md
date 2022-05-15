@@ -1,13 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 20:16:53](https://news.ycombinator.com/item?id=31390668) - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 * [2022-05-15, 20:05:39](https://news.ycombinator.com/item?id=31390564) - [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
+* [2022-05-15, 19:56:39](https://news.ycombinator.com/item?id=31390506) - [Fly.io: The Reclaimer of Heroku's Magic](https://christine.website/blog/fly.io-heroku-replacement)
 * [2022-05-15, 19:24:21](https://news.ycombinator.com/item?id=31390220) - [Soupault 4.0.0: as extensible as Jekyll, still statically linked](https://soupault.app/blog/soupault-4.0.0-release/)
 * [2022-05-15, 19:10:42](https://news.ycombinator.com/item?id=31390111) - [Sleep Helps Process Emotions](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/how_sleep_helps_to_process_emotions/index_eng.html)
 * [2022-05-15, 18:45:11](https://news.ycombinator.com/item?id=31389893) - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2022-05-15, 18:35:27](https://news.ycombinator.com/item?id=31389797) - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
+* [2022-05-15, 18:18:56](https://news.ycombinator.com/item?id=31389645) - [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
 * [2022-05-15, 17:54:36](https://news.ycombinator.com/item?id=31389442) - [My experience with exporting Postgres RDS partitioned tables to S3](https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html)
-* [2022-05-15, 17:14:53](https://news.ycombinator.com/item?id=31389024) - [Ask HN: Recommendation for general purpose JIT compiler](https://news.ycombinator.com/item?id=31389024)
 * [2022-05-15, 17:00:24](https://news.ycombinator.com/item?id=31388894) - [Ashby (YC W19) Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
 * [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 * [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
@@ -27,9 +29,7 @@
 * [2022-05-14, 21:50:51](https://news.ycombinator.com/item?id=31382947) - [Human genetic engineering is coming](https://www.theglobeandmail.com/opinion/article-human-genetic-engineering-is-coming-we-must-discuss-the-social-and/)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-14, 14:00:10](https://news.ycombinator.com/item?id=31377985) - [The overengineered solution to my pigeon problem](https://maxnagy.com/posts/pigeons/)
-* [2022-05-14, 06:23:33](https://news.ycombinator.com/item?id=31375534) - [Magic Numbers: Treating “the algorithm” as a kind of divine power](https://reallifemag.com/magic-numbers/)
-* [2022-05-14, 04:42:13](https://news.ycombinator.com/item?id=31375145) - [Computer powered by colony of blue-green algae has run for six months](https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/)
-* [2022-05-13, 15:25:58](https://news.ycombinator.com/item?id=31368853) - [Take my app ideas](https://austinhenley.com/blog/takemyappideas.html)
+* [2022-05-14, 08:41:37](https://news.ycombinator.com/item?id=31376141) - [Towards a Learning-Based Query Optimizer](https://engineering.databloom.ai/2022/05/towards-learning-based-query-optimizer.html)
 
 ## [Archives](archives/index.md)
 
