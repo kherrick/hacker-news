@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=31386330"
     ],
     [
-      "SQLite cron-based backup (alternative to Litestream for simpler usecases)",
+      "Cron-based backup for SQLite",
       "https://litestream.io/alternatives/cron/"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 08:17:57",
+      "https://news.ycombinator.com/item?id=31386108"
+    ],
+    [
+      "ShadyURL: Don't just shorten your URL, make it suspicious and frightening",
+      "http://shadyurl.com/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31386091"
     ],
     [
-      "Communication consumes 35 times more energy than computation in the human cortex",
+      "Communication costs are 35-fold computational costs in the human brain (2021)",
       "https://www.pnas.org/doi/10.1073/pnas.2008173118"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "How many colors are too many colors for Windows Terminal?",
       "https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 20:46:41",
-      "https://news.ycombinator.com/item?id=31372373"
-    ],
-    [
-      "This site is now a “shinobi website”",
-      "https://tdarb.org/posts/shinobi-website.txt"
     ]
   ],
   [
