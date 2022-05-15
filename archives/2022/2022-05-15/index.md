@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 21:02:22](https://news.ycombinator.com/item?id=31391085) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [The Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
 * [2022-05-15, 20:16:53](https://news.ycombinator.com/item?id=31390668) - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
