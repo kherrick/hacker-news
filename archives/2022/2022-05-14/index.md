@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-14](index.md)
 
+* [2022-05-14, 23:49:35](https://news.ycombinator.com/item?id=31383847) - [Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
+* [2022-05-14, 23:28:32](https://news.ycombinator.com/item?id=31383725) - [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
+* [2022-05-14, 23:18:46](https://news.ycombinator.com/item?id=31383665) - [Cognitive psychology findings that all passed a stringent replicability test](https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/)
 * [2022-05-14, 22:54:02](https://news.ycombinator.com/item?id=31383504) - [Formalizing a Proof of God by Leibniz](https://timlabs.org/leibniz/)
 * [2022-05-14, 22:39:40](https://news.ycombinator.com/item?id=31383388) - [Mattel debuts first Barbie with hearing aids](https://www.cbsnews.com/news/barnie-hearing-aid-mattel/)
+* [2022-05-14, 21:45:03](https://news.ycombinator.com/item?id=31382885) - [Dog digs up haul of medieval coins in Poland](https://notesfrompoland.com/2022/04/20/dog-digs-up-huge-haul-of-medieval-coins-in-poland/)
 * [2022-05-14, 21:34:58](https://news.ycombinator.com/item?id=31382779) - [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
 * [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
