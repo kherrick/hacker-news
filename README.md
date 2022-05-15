@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-15, 13:29:16](https://news.ycombinator.com/item?id=31387433) - [Do you use service called Mine?](https://business.saymine.com)
 * [2022-05-15, 13:21:05](https://news.ycombinator.com/item?id=31387383) - [The human cortex use less than 0.2 watts](https://www.biorxiv.org/content/10.1101/2020.04.23.057927v1)
 * [2022-05-15, 13:04:17](https://news.ycombinator.com/item?id=31387312) - [Golang Diaries: Generics](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics)
 * [2022-05-15, 12:50:26](https://news.ycombinator.com/item?id=31387248) - [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
@@ -18,7 +19,6 @@
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 02:44:27](https://news.ycombinator.com/item?id=31384809) - [Crowdsource by Google](https://crowdsource.google.com/about/)
 * [2022-05-15, 02:03:02](https://news.ycombinator.com/item?id=31384602) - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
-* [2022-05-15, 01:46:59](https://news.ycombinator.com/item?id=31384528) - [Tylr: A tiny tile-based editor](https://tylr.fun/)
 * [2022-05-15, 00:53:13](https://news.ycombinator.com/item?id=31384236) - [`curl wttr.in`: Weather in your terminal](https://github.com/chubin/wttr.in)
 * [2022-05-14, 23:28:32](https://news.ycombinator.com/item?id=31383725) - [Spreading rock dust on farms as a climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
