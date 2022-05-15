@@ -64,6 +64,7 @@
 * [2022-05-14, 07:55:42](https://news.ycombinator.com/item?id=31375945) - [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
 * [2022-05-14, 06:49:25](https://news.ycombinator.com/item?id=31375646) - [Tilde.town is a computer meant for sharing](https://tilde.town/)
 * [2022-05-14, 06:49:03](https://news.ycombinator.com/item?id=31375643) - [Russian toops are proving that cell phones in war zones are a bad idea](https://taskandpurpose.com/analysis/russia-ukraine-cell-phones-track-combat/)
+* [2022-05-14, 06:43:31](https://news.ycombinator.com/item?id=31375620) - [Why free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational/)
 * [2022-05-14, 06:38:12](https://news.ycombinator.com/item?id=31375596) - [India bans wheat exports to deepen global food crisis](https://www.telegraph.co.uk/business/2022/05/14/india-bans-wheat-exports-deepen-global-food-crisis/)
 * [2022-05-14, 06:06:16](https://news.ycombinator.com/item?id=31375463) - [Better.com Founder/CEO Personally Liable for $750M SoftBank Loan](https://techcrunch.com/2022/05/13/better-com-ceo-vishal-garg-750m-cash-infusion-from-softbank/)
 * [2022-05-14, 05:36:07](https://news.ycombinator.com/item?id=31375352) - [Is It Safe to Ship Thousands of Electric Cars on Big Ships?](https://www.autoweek.com/news/industry-news/a39951439/is-it-safe-to-ship-thousands-of-electric-cars-on-big-ships/)
