@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-15, 20:16:53",
+      "https://news.ycombinator.com/item?id=31390668"
+    ],
+    [
+      "A Modern Space Cadet",
+      "https://stevelosh.com/blog/2012/10/a-modern-space-cadet/"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 20:05:39",
       "https://news.ycombinator.com/item?id=31390564"
     ],
     [
       "Breaking into the black box of artificial intelligence",
       "https://www.nature.com/articles/d41586-022-00858-1"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 19:56:39",
+      "https://news.ycombinator.com/item?id=31390506"
+    ],
+    [
+      "Fly.io: The Reclaimer of Heroku's Magic",
+      "https://christine.website/blog/fly.io-heroku-replacement"
     ]
   ],
   [
@@ -61,22 +81,22 @@
   ],
   [
     [
+      "2022-05-15, 18:18:56",
+      "https://news.ycombinator.com/item?id=31389645"
+    ],
+    [
+      "“Carbon Bombs” – Mapping key fossil fuel projects",
+      "https://www.sciencedirect.com/science/article/pii/S0301421522001756"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 17:54:36",
       "https://news.ycombinator.com/item?id=31389442"
     ],
     [
       "My experience with exporting Postgres RDS partitioned tables to S3",
       "https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 17:14:53",
-      "https://news.ycombinator.com/item?id=31389024"
-    ],
-    [
-      "Ask HN: Recommendation for general purpose JIT compiler",
-      "https://news.ycombinator.com/item?id=31389024"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-05-14, 06:23:33",
-      "https://news.ycombinator.com/item?id=31375534"
+      "2022-05-14, 08:41:37",
+      "https://news.ycombinator.com/item?id=31376141"
     ],
     [
-      "Magic Numbers: Treating “the algorithm” as a kind of divine power",
-      "https://reallifemag.com/magic-numbers/"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 04:42:13",
-      "https://news.ycombinator.com/item?id=31375145"
-    ],
-    [
-      "Computer powered by colony of blue-green algae has run for six months",
-      "https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/"
-    ]
-  ],
-  [
-    [
-      "2022-05-13, 15:25:58",
-      "https://news.ycombinator.com/item?id=31368853"
-    ],
-    [
-      "Take my app ideas",
-      "https://austinhenley.com/blog/takemyappideas.html"
+      "Towards a Learning-Based Query Optimizer",
+      "https://engineering.databloom.ai/2022/05/towards-learning-based-query-optimizer.html"
     ]
   ]
 ]
