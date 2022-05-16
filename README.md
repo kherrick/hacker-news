@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
+* [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
+* [2022-05-16, 06:37:36](https://news.ycombinator.com/item?id=31394159) - [Finger: The First Social Software](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
 * [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 * [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:57:21](https://news.ycombinator.com/item?id=31393542) - [Show HN: I built a minimal website for Los Angeles](https://news.ycombinator.com/item?id=31393542)
@@ -14,7 +16,6 @@
 * [2022-05-15, 20:38:58](https://news.ycombinator.com/item?id=31390889) - [How did Tropicana lose $30M in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
-* [2022-05-15, 20:16:53](https://news.ycombinator.com/item?id=31390668) - [A Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 * [2022-05-15, 20:12:48](https://news.ycombinator.com/item?id=31390625) - [Why a Zimbabwean firm offers pensions denominated in cows](https://www.economist.com/middle-east-and-africa/2022/05/14/why-a-zimbabwean-firm-offers-pensions-denominated-in-cows)
 * [2022-05-15, 20:09:51](https://news.ycombinator.com/item?id=31390600) - [What happens to TLDs when their country stops existing?](https://astrid.tech/2022/04/05/1/dead-tlds/)
 * [2022-05-15, 19:56:39](https://news.ycombinator.com/item?id=31390506) - [Fly.io: The reclaimer of Heroku's magic](https://christine.website/blog/fly.io-heroku-replacement)
@@ -29,7 +30,6 @@
 * [2022-05-15, 08:43:52](https://news.ycombinator.com/item?id=31386211) - [Spam and Blogs = Trouble (2006)](https://www.wired.com/2006/09/splogs/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
-* [2022-05-13, 14:50:56](https://news.ycombinator.com/item?id=31368420) - [Researchers Claim Serum Albumin Increases Mouse Lifespan](https://www.lifespan.io/news/recombinant-serum-albumin-increases-longevity-in-mice/)
 
 ## [Archives](archives/index.md)
 
