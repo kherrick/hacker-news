@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 13:31:55](https://news.ycombinator.com/item?id=31396909) - [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
+* [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
+* [2022-05-16, 13:24:55](https://news.ycombinator.com/item?id=31396810) - [DigitalOcean: New $4 Droplet and updated pricing](https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing)
 * [2022-05-16, 13:23:26](https://news.ycombinator.com/item?id=31396794) - [New DigitalOcean Pricing](https://www.digitalocean.com/try/new-pricing)
 * [2022-05-16, 13:19:07](https://news.ycombinator.com/item?id=31396732) - [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
 * [2022-05-16, 13:08:11](https://news.ycombinator.com/item?id=31396578) - [JSON and Virtual Columns in SQLite](https://antonz.org/json-virtual-columns/)

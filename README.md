@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 13:31:55](https://news.ycombinator.com/item?id=31396909) - [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
+* [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
+* [2022-05-16, 13:24:55](https://news.ycombinator.com/item?id=31396810) - [DigitalOcean: New $4 Droplet and updated pricing](https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing)
 * [2022-05-16, 13:23:26](https://news.ycombinator.com/item?id=31396794) - [New DigitalOcean Pricing](https://www.digitalocean.com/try/new-pricing)
 * [2022-05-16, 13:19:07](https://news.ycombinator.com/item?id=31396732) - [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
 * [2022-05-16, 13:08:11](https://news.ycombinator.com/item?id=31396578) - [JSON and Virtual Columns in SQLite](https://antonz.org/json-virtual-columns/)
@@ -19,17 +22,14 @@
 * [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 * [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [How I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
-* [2022-05-16, 03:33:32](https://news.ycombinator.com/item?id=31393437) - [Ask HN: Can you share websites that are pushing the utility of browsers forward?](https://news.ycombinator.com/item?id=31393437)
-* [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
 * [2022-05-15, 20:38:58](https://news.ycombinator.com/item?id=31390889) - [How did Tropicana lose $30M in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
-* [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:12:48](https://news.ycombinator.com/item?id=31390625) - [Why a Zimbabwean firm offers pensions denominated in cows](https://www.economist.com/middle-east-and-africa/2022/05/14/why-a-zimbabwean-firm-offers-pensions-denominated-in-cows)
 * [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator precedence by textual substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
 * [2022-05-15, 10:07:47](https://news.ycombinator.com/item?id=31386537) - [Reducing Cognitive Load in Agile DevOps Teams Using Team Topologies](https://www.infoq.com/articles/reduce-cognitive-load-devops-teams/)
 * [2022-05-15, 09:54:23](https://news.ycombinator.com/item?id=31386483) - [Ask HN: Is There Hope for Micropayments?](https://news.ycombinator.com/item?id=31386483)
-* [2022-05-15, 08:43:52](https://news.ycombinator.com/item?id=31386211) - [Spam and Blogs = Trouble (2006)](https://www.wired.com/2006/09/splogs/)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
+* [2022-05-15, 02:47:22](https://news.ycombinator.com/item?id=31384832) - [Dura Mater](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html)
 
 ## [Archives](archives/index.md)
 

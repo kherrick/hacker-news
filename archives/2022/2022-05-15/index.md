@@ -76,6 +76,7 @@
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:59:55](https://news.ycombinator.com/item?id=31385155) - [XOS Electric Trucks](https://xostrucks.com/)
 * [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
+* [2022-05-15, 02:47:22](https://news.ycombinator.com/item?id=31384832) - [Dura Mater](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html)
 * [2022-05-15, 02:44:27](https://news.ycombinator.com/item?id=31384809) - [Crowdsource by Google](https://crowdsource.google.com/about/)
 * [2022-05-15, 02:03:02](https://news.ycombinator.com/item?id=31384602) - [A lock-free, concurrent, generic queue in 32 bits](https://nullprogram.com/blog/2022/05/14/)
 * [2022-05-15, 01:53:08](https://news.ycombinator.com/item?id=31384562) - [Streaming Server Side Render in React 18](https://github.com/maxam2017/react-18-ssr)
