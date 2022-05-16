@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-16, 11:00:09](https://news.ycombinator.com/item?id=31395496) - [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
+* [2022-05-16, 10:35:58](https://news.ycombinator.com/item?id=31395379) - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-16, 08:12:13](https://news.ycombinator.com/item?id=31394604) - [Many software companies are a joke](https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
@@ -11,7 +12,6 @@
 * [2022-05-16, 03:57:21](https://news.ycombinator.com/item?id=31393542) - [Show HN: I built a minimal website for Los Angeles](https://news.ycombinator.com/item?id=31393542)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 * [2022-05-16, 03:33:32](https://news.ycombinator.com/item?id=31393437) - [Ask HN: Can you share websites that are pushing the utility of browsers forward?](https://news.ycombinator.com/item?id=31393437)
-* [2022-05-15, 22:49:18](https://news.ycombinator.com/item?id=31391922) - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:22:13](https://news.ycombinator.com/item?id=31391272) - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
 * [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
@@ -24,12 +24,12 @@
 * [2022-05-15, 18:45:11](https://news.ycombinator.com/item?id=31389893) - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
 * [2022-05-15, 16:59:14](https://news.ycombinator.com/item?id=31388883) - [Toying with Kotlin's Context Receivers](https://blog.frankel.ch/kotlin-context-receivers/)
-* [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
 * [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator Precedence by Textual Substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
 * [2022-05-15, 10:07:47](https://news.ycombinator.com/item?id=31386537) - [Reducing Cognitive Load in Agile DevOps Teams Using Team Topologies](https://www.infoq.com/articles/reduce-cognitive-load-devops-teams/)
 * [2022-05-15, 08:43:52](https://news.ycombinator.com/item?id=31386211) - [Spam and Blogs = Trouble (2006)](https://www.wired.com/2006/09/splogs/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
+* [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
 
 ## [Archives](archives/index.md)
 
