@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 21:05:42](https://news.ycombinator.com/item?id=31403137) - [Stop Buying SSL Certificates](https://letsencrypt.org/)
 * [2022-05-16, 21:00:26](https://news.ycombinator.com/item?id=31403078) - [Join Jitx (YC S18) to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+* [2022-05-16, 20:50:21](https://news.ycombinator.com/item?id=31402989) - [My Experiences with Julia](https://weissmann.pm/julialang/)
 * [2022-05-16, 20:45:08](https://news.ycombinator.com/item?id=31402935) - [Request logging and web vitals for Vercel apps](https://www.axiom.co/vercel)
 * [2022-05-16, 20:29:57](https://news.ycombinator.com/item?id=31402797) - [The Worst](https://moxie.org/2012/11/27/the-worst.html)
 * [2022-05-16, 20:13:43](https://news.ycombinator.com/item?id=31402646) - [FreeBSD 13.1](https://www.freebsd.org/releases/13.1R/relnotes/)
