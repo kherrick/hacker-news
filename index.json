@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-05-16, 17:59:28",
-      "https://news.ycombinator.com/item?id=31401131"
-    ],
-    [
-      "The Lawyers Who Ate California",
-      "https://taibbi.substack.com/p/the-lawyers-who-ate-california-part"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 17:50:34",
       "https://news.ycombinator.com/item?id=31401006"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2022-05-16, 15:06:51",
-      "https://news.ycombinator.com/item?id=31398516"
-    ],
-    [
-      "Ansible 2.13",
-      "https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 14:52:08",
       "https://news.ycombinator.com/item?id=31398261"
     ],
@@ -157,6 +137,16 @@
     [
       "OpenTelemetry Traces and PostgreSQL",
       "https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 13:49:34",
+      "https://news.ycombinator.com/item?id=31397137"
+    ],
+    [
+      "Nearly 20% of active Twitter accounts likely to be fake or spam",
+      "https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Coloring computers: non-electronic computers that work when you color them",
       "https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 04:31:22",
+      "https://news.ycombinator.com/item?id=31385274"
+    ],
+    [
+      "Networking FreeDOS",
+      "http://wisdomtree.info/dos/dostcpip.htm"
     ]
   ],
   [
