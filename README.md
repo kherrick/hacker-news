@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 08:12:13](https://news.ycombinator.com/item?id=31394604) - [Many software companies are a joke](https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
 * [2022-05-16, 06:56:21](https://news.ycombinator.com/item?id=31394236) - [Delhi sizzles at 49C (120F) as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
 * [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
@@ -12,7 +13,6 @@
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:22:13](https://news.ycombinator.com/item?id=31391272) - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
 * [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
-* [2022-05-15, 20:38:58](https://news.ycombinator.com/item?id=31390889) - [How did Tropicana lose $30M in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
 * [2022-05-15, 20:12:48](https://news.ycombinator.com/item?id=31390625) - [Why a Zimbabwean firm offers pensions denominated in cows](https://www.economist.com/middle-east-and-africa/2022/05/14/why-a-zimbabwean-firm-offers-pensions-denominated-in-cows)
