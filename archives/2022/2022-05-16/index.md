@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 22:09:54](https://news.ycombinator.com/item?id=31403726) - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+* [2022-05-16, 21:46:57](https://news.ycombinator.com/item?id=31403532) - [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
 * [2022-05-16, 21:26:19](https://news.ycombinator.com/item?id=31403313) - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://www.abetterinternet.org/post/receiving-the-levchin-prize/)
 * [2022-05-16, 21:05:42](https://news.ycombinator.com/item?id=31403137) - [Stop Buying SSL Certificates](https://letsencrypt.org/)
 * [2022-05-16, 21:00:26](https://news.ycombinator.com/item?id=31403078) - [Join Jitx (YC S18) to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
