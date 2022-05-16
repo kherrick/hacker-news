@@ -5,6 +5,7 @@
 * [2022-05-15, 23:21:08](https://news.ycombinator.com/item?id=31392137) - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
 * [2022-05-15, 22:49:18](https://news.ycombinator.com/item?id=31391922) - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
+* [2022-05-15, 21:25:43](https://news.ycombinator.com/item?id=31391309) - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
 * [2022-05-15, 21:22:13](https://news.ycombinator.com/item?id=31391272) - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
 * [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
 * [2022-05-15, 21:02:22](https://news.ycombinator.com/item?id=31391085) - [BuildZoom (better way to build custom homes) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
@@ -27,7 +28,6 @@
 * [2022-05-15, 09:37:48](https://news.ycombinator.com/item?id=31386419) - [The BepiColombo ‘model’: looking beyond the ‘original’](http://journal.sciencemuseum.ac.uk/browse/issue-17/bepicolumbo/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
 * [2022-05-15, 01:51:14](https://news.ycombinator.com/item?id=31384553) - [Data as Music](https://blog.erikodes.com/data-as-music)
-* [2022-05-14, 23:14:46](https://news.ycombinator.com/item?id=31383637) - [Ask HN: Unshared or Private Caches for my app/company to use?](https://news.ycombinator.com/item?id=31383637)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-13, 14:50:56](https://news.ycombinator.com/item?id=31368420) - [Researchers Claim Serum Albumin Increases Mouse Lifespan](https://www.lifespan.io/news/recombinant-serum-albumin-increases-longevity-in-mice/)
 
