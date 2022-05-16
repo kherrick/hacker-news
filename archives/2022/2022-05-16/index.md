@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 23:23:10](https://news.ycombinator.com/item?id=31404238) - [Sandbox-based isolation software for Windows NT-based operating systems](https://github.com/sandboxie-plus/Sandboxie)
 * [2022-05-16, 23:19:17](https://news.ycombinator.com/item?id=31404201) - [Common libraries and data structures for C](https://github.com/tezc/sc)
 * [2022-05-16, 22:09:54](https://news.ycombinator.com/item?id=31403726) - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
 * [2022-05-16, 21:52:21](https://news.ycombinator.com/item?id=31403572) - [An Outer Banks house that collapsed into the ocean](https://jeremymarkovich.substack.com/p/rodanthe-nc-outer-banks-ocean-house-collapse)

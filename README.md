@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 23:23:10](https://news.ycombinator.com/item?id=31404238) - [Sandbox-based isolation software for Windows NT-based operating systems](https://github.com/sandboxie-plus/Sandboxie)
 * [2022-05-16, 23:19:17](https://news.ycombinator.com/item?id=31404201) - [Common libraries and data structures for C](https://github.com/tezc/sc)
 * [2022-05-16, 22:09:54](https://news.ycombinator.com/item?id=31403726) - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
 * [2022-05-16, 21:52:21](https://news.ycombinator.com/item?id=31403572) - [An Outer Banks house that collapsed into the ocean](https://jeremymarkovich.substack.com/p/rodanthe-nc-outer-banks-ocean-house-collapse)
@@ -27,7 +28,6 @@
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-15, 19:42:15](https://news.ycombinator.com/item?id=31390371) - [Teaching GPT-3 to reverse words](https://twitter.com/npew/status/1525900849888866307)
 * [2022-05-15, 07:00:36](https://news.ycombinator.com/item?id=31385770) - [Some online businesses thrived during lockdown – how are they doing now?](https://www.bbc.co.uk/news/business-61182406)
-* [2022-05-15, 06:42:44](https://news.ycombinator.com/item?id=31385711) - [Illuminating the Security Issues Surrounding Lights-Out Server Management (2013) [pdf]](https://www.usenix.org/system/files/conference/woot13/woot13-bonkoski_0.pdf)
 * [2022-05-14, 19:59:57](https://news.ycombinator.com/item?id=31381764) - [Mastering Dyalog APL (2009)](https://www.dyalog.com/mastering-dyalog-apl.htm)
 * [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
 
