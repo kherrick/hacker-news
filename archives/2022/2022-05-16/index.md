@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 18:28:06](https://news.ycombinator.com/item?id=31401470) - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
 * [2022-05-16, 18:00:45](https://news.ycombinator.com/item?id=31401151) - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
 * [2022-05-16, 17:59:28](https://news.ycombinator.com/item?id=31401131) - [The Lawyers Who Ate California](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)

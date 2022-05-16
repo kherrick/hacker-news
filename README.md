@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 18:28:06](https://news.ycombinator.com/item?id=31401470) - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
 * [2022-05-16, 18:00:45](https://news.ycombinator.com/item?id=31401151) - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
 * [2022-05-16, 17:59:28](https://news.ycombinator.com/item?id=31401131) - [The Lawyers Who Ate California](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
@@ -15,7 +16,6 @@
 * [2022-05-16, 14:52:08](https://news.ycombinator.com/item?id=31398261) - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
 * [2022-05-16, 14:35:38](https://news.ycombinator.com/item?id=31397964) - [Shopify invests in research for Ruby at scale](https://shopify.engineering/shopify-ruby-at-scale-research-investment)
 * [2022-05-16, 13:49:57](https://news.ycombinator.com/item?id=31397145) - [OpenTelemetry Traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
-* [2022-05-16, 13:49:34](https://news.ycombinator.com/item?id=31397137) - [Nearly 20% of active Twitter accounts likely to be fake or spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)
 * [2022-05-16, 13:47:53](https://news.ycombinator.com/item?id=31397107) - [Puzzling quantum scenario appears not to conserve energy](https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
 * [2022-05-16, 13:19:07](https://news.ycombinator.com/item?id=31396732) - [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
