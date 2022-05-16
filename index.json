@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-16, 17:59:28",
+      "https://news.ycombinator.com/item?id=31401131"
+    ],
+    [
+      "The Lawyers Who Ate California",
+      "https://taibbi.substack.com/p/the-lawyers-who-ate-california-part"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 17:50:34",
+      "https://news.ycombinator.com/item?id=31401006"
+    ],
+    [
+      "Preston’s Paradox",
+      "https://www.allendowney.com/blog/2022/05/16/prestons-paradox/"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 17:48:26",
       "https://news.ycombinator.com/item?id=31400969"
     ],
     [
       "New WebKit Features in Safari 15.5",
       "https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 17:37:14",
+      "https://news.ycombinator.com/item?id=31400812"
+    ],
+    [
+      "US Army's Land Trains",
+      "https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "RESH: Rich Enhanced Shell History",
       "https://github.com/curusarn/resh"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 17:02:36",
+      "https://news.ycombinator.com/item?id=31400302"
+    ],
+    [
+      "What’s down the road for silicon?",
+      "https://www.nytimes.com/2022/05/16/science/electronics-silicon-gallium.html"
     ]
   ],
   [
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2022-05-16, 14:38:34",
-      "https://news.ycombinator.com/item?id=31398021"
-    ],
-    [
-      "Tesla FSD Beta almost causes a head-on collision [video]",
-      "https://www.youtube.com/watch?v=zDEWi2nC-Wg"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 14:35:38",
       "https://news.ycombinator.com/item?id=31397964"
     ],
     [
-      "Shopify Invests in Research for Ruby at Scale",
+      "Shopify invests in research for Ruby at scale",
       "https://shopify.engineering/shopify-ruby-at-scale-research-investment"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 14:20:16",
-      "https://news.ycombinator.com/item?id=31397635"
-    ],
-    [
-      "Show HN: What dogs can eat? (Web App)",
-      "https://www.pawmenow.com/what-dogs-can-eat/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Correctness and composability bugs in the Julia ecosystem",
       "https://yuri.is/not-julia/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 13:23:26",
-      "https://news.ycombinator.com/item?id=31396794"
-    ],
-    [
-      "New DigitalOcean Pricing",
-      "https://www.digitalocean.com/try/new-pricing"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2022-05-16, 11:38:53",
+      "https://news.ycombinator.com/item?id=31395759"
+    ],
+    [
+      "In search of organic software",
+      "http://pketh.org/organic-software.html"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 10:35:58",
       "https://news.ycombinator.com/item?id=31395379"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-05-16, 09:45:13",
-      "https://news.ycombinator.com/item?id=31395081"
-    ],
-    [
-      "Candlelit Console patch set to the OpenBSD framebuffer console",
-      "https://undeadly.org/cgi?action=article;sid=20220516093712"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 06:53:15",
       "https://news.ycombinator.com/item?id=31394226"
     ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31393501"
     ],
     [
-      "Coloring computers: non-electronic computers that work when you color them acco",
+      "Coloring computers: non-electronic computers that work when you color them",
       "https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Networking FreeDOS",
       "http://wisdomtree.info/dos/dostcpip.htm"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 03:01:44",
-      "https://news.ycombinator.com/item?id=31384895"
-    ],
-    [
-      "Linux for Networking Professionals",
-      "https://github.com/PacktPublishing/Linux-for-Networking-Professionals"
     ]
   ],
   [
