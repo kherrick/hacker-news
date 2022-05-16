@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 * [2022-05-16, 03:33:32](https://news.ycombinator.com/item?id=31393437) - [Ask HN: Can you share websites that are pushing the utility of browsers forward?](https://news.ycombinator.com/item?id=31393437)
 * [2022-05-15, 23:21:08](https://news.ycombinator.com/item?id=31392137) - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
@@ -27,7 +28,6 @@
 * [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
 * [2022-05-15, 09:37:48](https://news.ycombinator.com/item?id=31386419) - [The BepiColombo ‘model’: looking beyond the ‘original’](http://journal.sciencemuseum.ac.uk/browse/issue-17/bepicolumbo/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
-* [2022-05-15, 01:51:14](https://news.ycombinator.com/item?id=31384553) - [Data as Music](https://blog.erikodes.com/data-as-music)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-13, 14:50:56](https://news.ycombinator.com/item?id=31368420) - [Researchers Claim Serum Albumin Increases Mouse Lifespan](https://www.lifespan.io/news/recombinant-serum-albumin-increases-longevity-in-mice/)
 
