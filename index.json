@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-16, 15:06:51",
+      "https://news.ycombinator.com/item?id=31398516"
+    ],
+    [
+      "Ansible 2.13",
+      "https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 14:52:08",
       "https://news.ycombinator.com/item?id=31398261"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31397145"
     ],
     [
-      "Understand your systems like never before with traces and PostgreSQL",
+      "OpenTelemetry Traces and PostgreSQL",
       "https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31397137"
     ],
     [
-      "19.42% of Active Twitter Accounts Are Fake or Spam",
+      "Nearly 20% of active Twitter accounts are fake or spam",
       "https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31395967"
     ],
     [
-      "Not a Single Car Was Sold in Shanghai Last Month",
+      "Not a single car was sold in Shanghai last month",
       "https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Coloring computers: non-electronic computers that work when you color them acco",
       "https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 14:40:22",
-      "https://news.ycombinator.com/item?id=31387838"
-    ],
-    [
-      "Operator precedence by textual substitution",
-      "https://www.kmjn.org/notes/operator_precedence_fortran.html"
     ]
   ],
   [
