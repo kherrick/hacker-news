@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
+* [2022-05-16, 06:56:21](https://news.ycombinator.com/item?id=31394236) - [Delhi sizzles at 49C (120F) as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
 * [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
 * [2022-05-16, 06:37:36](https://news.ycombinator.com/item?id=31394159) - [Finger: The First Social Software](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
 * [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
