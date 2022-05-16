@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-16, 20:45:08",
+      "https://news.ycombinator.com/item?id=31402935"
+    ],
+    [
+      "Request logging and web vitals for Vercel apps",
+      "https://www.axiom.co/vercel"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 20:29:57",
       "https://news.ycombinator.com/item?id=31402797"
     ],
     [
       "The Worst",
       "https://moxie.org/2012/11/27/the-worst.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 20:13:43",
+      "https://news.ycombinator.com/item?id=31402646"
+    ],
+    [
+      "FreeBSD 13.1",
+      "https://www.freebsd.org/releases/13.1R/relnotes/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Preston’s Paradox",
       "https://www.allendowney.com/blog/2022/05/16/prestons-paradox/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 17:48:26",
-      "https://news.ycombinator.com/item?id=31400969"
-    ],
-    [
-      "New WebKit Features in Safari 15.5",
-      "https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "JSON and Virtual Columns in SQLite",
       "https://antonz.org/json-virtual-columns/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 12:48:44",
-      "https://news.ycombinator.com/item?id=31396329"
-    ],
-    [
-      "Web3 is expensive P2P",
-      "https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"
     ]
   ],
   [
