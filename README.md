@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
 * [2022-05-16, 18:00:45](https://news.ycombinator.com/item?id=31401151) - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
 * [2022-05-16, 17:59:28](https://news.ycombinator.com/item?id=31401131) - [The Lawyers Who Ate California](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
 * [2022-05-16, 17:50:34](https://news.ycombinator.com/item?id=31401006) - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
 * [2022-05-16, 17:48:26](https://news.ycombinator.com/item?id=31400969) - [New WebKit Features in Safari 15.5](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/)
 * [2022-05-16, 17:37:14](https://news.ycombinator.com/item?id=31400812) - [US Army's Land Trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
-* [2022-05-16, 17:30:09](https://news.ycombinator.com/item?id=31400704) - [Ten years of trying to meditate](https://ammarmian.substack.com/p/why-i-meditate-part-1)
 * [2022-05-16, 17:20:58](https://news.ycombinator.com/item?id=31400563) - [Chaingrep (YC W22) is hiring a founding engineer](https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f)
 * [2022-05-16, 17:20:42](https://news.ycombinator.com/item?id=31400557) - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh)
 * [2022-05-16, 17:02:36](https://news.ycombinator.com/item?id=31400302) - [What’s down the road for silicon?](https://www.nytimes.com/2022/05/16/science/electronics-silicon-gallium.html)
