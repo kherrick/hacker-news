@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 13:23:26](https://news.ycombinator.com/item?id=31396794) - [New DigitalOcean Pricing](https://www.digitalocean.com/try/new-pricing)
+* [2022-05-16, 13:19:07](https://news.ycombinator.com/item?id=31396732) - [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
+* [2022-05-16, 13:08:11](https://news.ycombinator.com/item?id=31396578) - [JSON and Virtual Columns in SQLite](https://antonz.org/json-virtual-columns/)
+* [2022-05-16, 12:48:44](https://news.ycombinator.com/item?id=31396329) - [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/)
+* [2022-05-16, 12:35:48](https://news.ycombinator.com/item?id=31396198) - [Cats learn the names of their friend cats in their daily lives](https://www.nature.com/articles/s41598-022-10261-5)
 * [2022-05-16, 12:04:32](https://news.ycombinator.com/item?id=31395967) - [Not a Single Car Was Sold in Shanghai Last Month](https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month)
 * [2022-05-16, 11:39:32](https://news.ycombinator.com/item?id=31395765) - [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
+* [2022-05-16, 11:38:53](https://news.ycombinator.com/item?id=31395759) - [In Search of Organic Software](http://pketh.org/organic-software.html)
 * [2022-05-16, 11:09:48](https://news.ycombinator.com/item?id=31395552) - [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
 * [2022-05-16, 11:00:09](https://news.ycombinator.com/item?id=31395496) - [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
 * [2022-05-16, 10:35:58](https://news.ycombinator.com/item?id=31395379) - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
