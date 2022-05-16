@@ -21,6 +21,7 @@
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-14, 20:04:49](https://news.ycombinator.com/item?id=31381812) - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
 * [2022-05-14, 20:04:13](https://news.ycombinator.com/item?id=31381804) - [End to end monitoring with minimal effort](https://martinheinz.dev/blog/72)
+* [2022-05-14, 19:59:57](https://news.ycombinator.com/item?id=31381764) - [Mastering Dyalog APL (2009)](https://www.dyalog.com/mastering-dyalog-apl.htm)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)
 * [2022-05-14, 19:56:12](https://news.ycombinator.com/item?id=31381731) - [‘What the Ermine Saw’ Review: A da Vinci Painting’s Journey](https://www.wsj.com/articles/what-the-ermine-saw-book-review-the-strange-journey-of-a-da-vinci-painting-11652451055)
 * [2022-05-14, 19:26:32](https://news.ycombinator.com/item?id=31381461) - [Shaquille Zuckerberg](https://stakedy.com/long/shaquille-zuckerberg.html)
