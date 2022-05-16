@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-16, 23:19:17",
+      "https://news.ycombinator.com/item?id=31404201"
+    ],
+    [
+      "Common libraries and data structures for C",
+      "https://github.com/tezc/sc"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 22:09:54",
       "https://news.ycombinator.com/item?id=31403726"
     ],
     [
       "Collection of Sun Workstation boot logos",
       "https://github.com/mdehling/sun-fb-logos"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 21:52:21",
+      "https://news.ycombinator.com/item?id=31403572"
+    ],
+    [
+      "An Outer Banks house that collapsed into the ocean",
+      "https://jeremymarkovich.substack.com/p/rodanthe-nc-outer-banks-ocean-house-collapse"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Request logging and web vitals for Vercel apps",
       "https://www.axiom.co/vercel"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 20:29:57",
-      "https://news.ycombinator.com/item?id=31402797"
-    ],
-    [
-      "The Worst (2012)",
-      "https://moxie.org/2012/11/27/the-worst.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Wrong by Default",
       "https://kevincox.ca/2022/05/13/wrong-by-default/"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 17:18:21",
-      "https://news.ycombinator.com/item?id=31380142"
-    ],
-    [
-      "DNS over Dedicated QUIC Connections",
-      "https://www.rfc-editor.org/rfc/rfc9250.html"
     ]
   ]
 ]
