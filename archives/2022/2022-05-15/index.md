@@ -43,6 +43,7 @@
 * [2022-05-15, 15:31:40](https://news.ycombinator.com/item?id=31388163) - [Jabra denies support for Elite 85t Bluetooth earbuds on computers](https://news.ycombinator.com/item?id=31388163)
 * [2022-05-15, 15:24:11](https://news.ycombinator.com/item?id=31388109) - [Dead Man's Snitch – A Dead Simple Cron Job Monitoring Service](https://deadmanssnitch.com/)
 * [2022-05-15, 15:01:57](https://news.ycombinator.com/item?id=31387962) - [Who owns the copyright to my medical images? (2018)](https://shkspr.mobi/blog/2018/11/who-owns-the-copyright-to-my-medical-images/)
+* [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator Precedence by Textual Substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
 * [2022-05-15, 14:24:48](https://news.ycombinator.com/item?id=31387741) - [What Propels Cancel Culture?](https://robkhenderson.substack.com/p/what-propels-cancel-culture)
 * [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
 * [2022-05-15, 13:57:08](https://news.ycombinator.com/item?id=31387592) - [Webpage List: Discover new websites](https://webpagelist.com/)
