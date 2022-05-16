@@ -73,6 +73,7 @@
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [\"Maybe a 3090 is already a human brain\" –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2022-05-15, 06:52:13](https://news.ycombinator.com/item?id=31385739) - [India’s media is under siege, but what will it take for the public to care?](https://www.newslaundry.com/2022/05/11/indias-media-is-under-siege-but-what-will-it-take-for-the-public-to-care)
+* [2022-05-15, 06:42:44](https://news.ycombinator.com/item?id=31385711) - [Illuminating the Security Issues Surrounding Lights-Out Server Management (2013) [pdf]](https://www.usenix.org/system/files/conference/woot13/woot13-bonkoski_0.pdf)
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
