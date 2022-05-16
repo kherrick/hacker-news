@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-16, 21:26:19",
+      "https://news.ycombinator.com/item?id=31403313"
+    ],
+    [
+      "Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography",
+      "https://www.abetterinternet.org/post/receiving-the-levchin-prize/"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 21:05:42",
       "https://news.ycombinator.com/item?id=31403137"
     ],
     [
-      "Stop Buying SSL Certificates",
+      "Stop buying SSL certificates",
       "https://letsencrypt.org/"
     ]
   ],
@@ -37,6 +47,16 @@
     [
       "Request logging and web vitals for Vercel apps",
       "https://www.axiom.co/vercel"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 20:43:47",
+      "https://news.ycombinator.com/item?id=31402922"
+    ],
+    [
+      "Product Management Is a LARP",
+      "https://mirror.xyz/0xB320d282d58cE8402745b6B585Fb9A6C44adC181/qiJf3ogbfiTfEko0BtYeAFkNhBpgkl-UM32iQms_rNc"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-05-16, 17:02:36",
-      "https://news.ycombinator.com/item?id=31400302"
-    ],
-    [
-      "What’s down the road for silicon?",
-      "https://www.nytimes.com/2022/05/16/science/electronics-silicon-gallium.html"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 16:15:47",
       "https://news.ycombinator.com/item?id=31399580"
     ],
@@ -227,16 +237,6 @@
     [
       "In search of organic software",
       "http://pketh.org/organic-software.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 10:35:58",
-      "https://news.ycombinator.com/item?id=31395379"
-    ],
-    [
-      "VoCore – Coin-Sized Linux Computer",
-      "https://vocore.io/"
     ]
   ],
   [
