@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-16, 08:12:13](https://news.ycombinator.com/item?id=31394604) - [Many software companies are a joke](https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
 * [2022-05-16, 06:56:21](https://news.ycombinator.com/item?id=31394236) - [Delhi sizzles at 49C (120F) as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)

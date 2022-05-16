@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-16, 08:12:13](https://news.ycombinator.com/item?id=31394604) - [Many software companies are a joke](https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
 * [2022-05-16, 06:56:21](https://news.ycombinator.com/item?id=31394236) - [Delhi sizzles at 49C (120F) as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
@@ -24,12 +25,11 @@
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
 * [2022-05-15, 16:59:14](https://news.ycombinator.com/item?id=31388883) - [Toying with Kotlin's Context Receivers](https://blog.frankel.ch/kotlin-context-receivers/)
 * [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator Precedence by Textual Substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
-* [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
 * [2022-05-15, 10:07:47](https://news.ycombinator.com/item?id=31386537) - [Reducing Cognitive Load in Agile DevOps Teams Using Team Topologies](https://www.infoq.com/articles/reduce-cognitive-load-devops-teams/)
 * [2022-05-15, 08:43:52](https://news.ycombinator.com/item?id=31386211) - [Spam and Blogs = Trouble (2006)](https://www.wired.com/2006/09/splogs/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
+* [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
-* [2022-05-13, 14:50:56](https://news.ycombinator.com/item?id=31368420) - [Researchers Claim Serum Albumin Increases Mouse Lifespan](https://www.lifespan.io/news/recombinant-serum-albumin-increases-longevity-in-mice/)
 
 ## [Archives](archives/index.md)
 
