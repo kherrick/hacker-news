@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 18:00:45](https://news.ycombinator.com/item?id=31401151) - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
 * [2022-05-16, 17:59:28](https://news.ycombinator.com/item?id=31401131) - [The Lawyers Who Ate California](https://taibbi.substack.com/p/the-lawyers-who-ate-california-part)
 * [2022-05-16, 17:50:34](https://news.ycombinator.com/item?id=31401006) - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
 * [2022-05-16, 17:48:26](https://news.ycombinator.com/item?id=31400969) - [New WebKit Features in Safari 15.5](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/)
@@ -27,9 +28,8 @@
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
-* [2022-05-15, 10:03:19](https://news.ycombinator.com/item?id=31386516) - [The operational relational schema paradigm](https://planetscale.com/blog/the-operational-relational-schema-paradigm)
-* [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
+* [2022-05-14, 17:18:21](https://news.ycombinator.com/item?id=31380142) - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/rfc/rfc9250.html)
 
 ## [Archives](archives/index.md)
 
