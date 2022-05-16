@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-16, 13:31:55",
+      "https://news.ycombinator.com/item?id=31396909"
+    ],
+    [
+      "Sweden to Apply for NATO Membership",
+      "https://www.svt.se/nyheter/utrikes/finland-ger-natobesked"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 13:28:57",
+      "https://news.ycombinator.com/item?id=31396861"
+    ],
+    [
+      "The Julia language has a number of correctness flaws",
+      "https://yuri.is/not-julia/"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 13:24:55",
+      "https://news.ycombinator.com/item?id=31396810"
+    ],
+    [
+      "DigitalOcean: New $4 Droplet and updated pricing",
+      "https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 13:23:26",
       "https://news.ycombinator.com/item?id=31396794"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-05-16, 03:33:32",
-      "https://news.ycombinator.com/item?id=31393437"
-    ],
-    [
-      "Ask HN: Can you share websites that are pushing the utility of browsers forward?",
-      "https://news.ycombinator.com/item?id=31393437"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 21:07:17",
-      "https://news.ycombinator.com/item?id=31391137"
-    ],
-    [
-      "Framedeck: A Cyberdeck built with the framework mainboard",
-      "https://github.com/brickbots/framedeck"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 20:38:58",
       "https://news.ycombinator.com/item?id=31390889"
     ],
     [
       "How did Tropicana lose $30M in a packaging redesign?",
       "https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 20:24:31",
-      "https://news.ycombinator.com/item?id=31390742"
-    ],
-    [
-      "Modern JavaScript Tutorial",
-      "https://javascript.info/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-05-15, 08:43:52",
-      "https://news.ycombinator.com/item?id=31386211"
-    ],
-    [
-      "Spam and Blogs = Trouble (2006)",
-      "https://www.wired.com/2006/09/splogs/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 04:31:22",
       "https://news.ycombinator.com/item?id=31385274"
     ],
@@ -297,6 +287,16 @@
     [
       "Linux for Networking Professionals",
       "https://github.com/PacktPublishing/Linux-for-Networking-Professionals"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 02:47:22",
+      "https://news.ycombinator.com/item?id=31384832"
+    ],
+    [
+      "Dura Mater",
+      "http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html"
     ]
   ]
 ]
