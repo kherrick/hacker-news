@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-16, 21:05:42",
+      "https://news.ycombinator.com/item?id=31403137"
+    ],
+    [
+      "Stop Buying SSL Certificates",
+      "https://letsencrypt.org/"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 21:00:26",
       "https://news.ycombinator.com/item?id=31403078"
     ],
     [
       "Join Jitx (YC S18) to invent algorithms that optimize electronic designs",
       "https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 20:50:21",
+      "https://news.ycombinator.com/item?id=31402989"
+    ],
+    [
+      "My Experiences with Julia",
+      "https://weissmann.pm/julialang/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-05-16, 13:47:53",
-      "https://news.ycombinator.com/item?id=31397107"
-    ],
-    [
-      "Puzzling quantum scenario appears not to conserve energy",
-      "https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 13:28:57",
       "https://news.ycombinator.com/item?id=31396861"
     ],
@@ -197,16 +207,6 @@
     [
       "Wp-SQLite: WordPress running on an SQLite database",
       "https://github.com/stokry/wp-sqlite"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 13:08:11",
-      "https://news.ycombinator.com/item?id=31396578"
-    ],
-    [
-      "JSON and Virtual Columns in SQLite",
-      "https://antonz.org/json-virtual-columns/"
     ]
   ],
   [
