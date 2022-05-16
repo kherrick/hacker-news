@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 17:30:09](https://news.ycombinator.com/item?id=31400704) - [Ten Years of Trying to Meditate](https://ammarmian.substack.com/p/why-i-meditate-part-1)
 * [2022-05-16, 17:20:58](https://news.ycombinator.com/item?id=31400563) - [Chaingrep (YC W22) Is Hiring a Founding Engineer](https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f)
 * [2022-05-16, 16:21:01](https://news.ycombinator.com/item?id=31399675) - [Release Date Update from the KSP2 Team](https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/)
 * [2022-05-16, 16:15:47](https://news.ycombinator.com/item?id=31399580) - [Court Ruling shows the GPL is both copyright license and contractual agreement](https://sfconservancy.org/news/2022/may/16/vizio-remand-win/)
@@ -22,14 +23,13 @@
 * [2022-05-16, 11:49:39](https://news.ycombinator.com/item?id=31395851) - [Stealing checks worth millions and pwning a bank](https://www.jhaddix.com/post/stealing-checks-worth-millions-pwning-a-bank)
 * [2022-05-16, 10:35:58](https://news.ycombinator.com/item?id=31395379) - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
-* [2022-05-16, 09:45:13](https://news.ycombinator.com/item?id=31395081) - [Candlelit Console patch set to the OpenBSD framebuffer console](https://undeadly.org/cgi?action=article;sid=20220516093712)
 * [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
-* [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 * [2022-05-15, 16:14:21](https://news.ycombinator.com/item?id=31388500) - [Apollo Spacecraft Premodulation Processor Teardown](https://twitter.com/kenshirriff/status/1525134870179094528)
 * [2022-05-15, 10:03:19](https://news.ycombinator.com/item?id=31386516) - [The operational relational schema paradigm](https://planetscale.com/blog/the-operational-relational-schema-paradigm)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
+* [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
 
 ## [Archives](archives/index.md)
 
