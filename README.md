@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
+* [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 * [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:57:21](https://news.ycombinator.com/item?id=31393542) - [Show HN: I built a minimal website for Los Angeles](https://news.ycombinator.com/item?id=31393542)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
@@ -9,7 +11,6 @@
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)
 * [2022-05-15, 21:22:13](https://news.ycombinator.com/item?id=31391272) - [Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku)
 * [2022-05-15, 21:07:17](https://news.ycombinator.com/item?id=31391137) - [Framedeck: A Cyberdeck built with the framework mainboard](https://github.com/brickbots/framedeck)
-* [2022-05-15, 21:02:22](https://news.ycombinator.com/item?id=31391085) - [BuildZoom (better way to build custom homes) is hiring a principal engineer](https://jobs.lever.co/buildzoom)
 * [2022-05-15, 20:38:58](https://news.ycombinator.com/item?id=31390889) - [How did Tropicana lose $30M in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
 * [2022-05-15, 20:24:31](https://news.ycombinator.com/item?id=31390742) - [Modern JavaScript Tutorial](https://javascript.info/)
 * [2022-05-15, 20:23:19](https://news.ycombinator.com/item?id=31390728) - [Taskwarrior](https://taskwarrior.org/)
@@ -21,7 +22,6 @@
 * [2022-05-15, 18:45:11](https://news.ycombinator.com/item?id=31389893) - [The weird Hewlett Packard FreeDOS option](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2022-05-15, 18:35:27](https://news.ycombinator.com/item?id=31389797) - [Total Eclipse of the Moon: 2022 May 16](https://astro.ukho.gov.uk/eclipse/1212022/)
 * [2022-05-15, 18:19:00](https://news.ycombinator.com/item?id=31389647) - [The problem with Bitcoin miners](https://paulbutler.org/2022/the-problem-with-bitcoin-miners/)
-* [2022-05-15, 18:18:56](https://news.ycombinator.com/item?id=31389645) - [“Carbon Bombs” – Mapping key fossil fuel projects](https://www.sciencedirect.com/science/article/pii/S0301421522001756)
 * [2022-05-15, 16:59:14](https://news.ycombinator.com/item?id=31388883) - [Toying with Kotlin's Context Receivers](https://blog.frankel.ch/kotlin-context-receivers/)
 * [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
 * [2022-05-15, 15:39:46](https://news.ycombinator.com/item?id=31388223) - [See's Candies is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/)

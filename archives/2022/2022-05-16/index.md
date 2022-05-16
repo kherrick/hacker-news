@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
+* [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 * [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:57:21](https://news.ycombinator.com/item?id=31393542) - [Show HN: I built a minimal website for Los Angeles](https://news.ycombinator.com/item?id=31393542)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
