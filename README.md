@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 14:52:08](https://news.ycombinator.com/item?id=31398261) - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
+* [2022-05-16, 14:14:21](https://news.ycombinator.com/item?id=31397527) - [Tel-Aviv University Releases Long-Text NLP Benchmark Scrolls](https://www.infoq.com/news/2022/03/scrolls-nlp-benchmark/)
 * [2022-05-16, 13:50:56](https://news.ycombinator.com/item?id=31397156) - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 * [2022-05-16, 13:49:57](https://news.ycombinator.com/item?id=31397145) - [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
 * [2022-05-16, 13:49:34](https://news.ycombinator.com/item?id=31397137) - [19.42% of Active Twitter Accounts Are Fake or Spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)
@@ -21,14 +23,12 @@
 * [2022-05-16, 07:31:32](https://news.ycombinator.com/item?id=31394420) - [Zsh 5.9](https://zsh.sourceforge.io/releases.html)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
 * [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
-* [2022-05-16, 06:37:36](https://news.ycombinator.com/item?id=31394159) - [Finger: The First Social Software (2019)](https://web.archive.org/web/20190519174635/https://somanymachines.com/tx/finger-the-first-social-software/)
 * [2022-05-16, 05:55:31](https://news.ycombinator.com/item?id=31394001) - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
 * [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [How I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 * [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator precedence by textual substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
-* [2022-05-15, 02:47:22](https://news.ycombinator.com/item?id=31384832) - [Dura Mater](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html)
 * [2022-05-14, 19:56:12](https://news.ycombinator.com/item?id=31381731) - [‘What the Ermine Saw’ Review: A da Vinci Painting’s Journey](https://www.wsj.com/articles/what-the-ermine-saw-book-review-the-strange-journey-of-a-da-vinci-painting-11652451055)
 
 ## [Archives](archives/index.md)
