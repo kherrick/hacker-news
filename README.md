@@ -26,7 +26,7 @@
 * [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
 * [2022-05-15, 15:39:46](https://news.ycombinator.com/item?id=31388223) - [See's Candies is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/)
 * [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator Precedence by Textual Substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
-* [2022-05-15, 14:16:01](https://news.ycombinator.com/item?id=31387693) - [Sound Blaster (DOS)](http://www.vgmpf.com/Wiki/index.php?title=Sound_Blaster_(DOS))
+* [2022-05-15, 08:43:52](https://news.ycombinator.com/item?id=31386211) - [Spam and Blogs = Trouble (2006)](https://www.wired.com/2006/09/splogs/)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
 * [2022-05-14, 20:30:04](https://news.ycombinator.com/item?id=31382024) - [Introduction to Microsoft Excel (1992) [video]](https://www.youtube.com/watch?v=kOO31qFmi9A)
 * [2022-05-13, 14:50:56](https://news.ycombinator.com/item?id=31368420) - [Researchers Claim Serum Albumin Increases Mouse Lifespan](https://www.lifespan.io/news/recombinant-serum-albumin-increases-longevity-in-mice/)
