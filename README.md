@@ -26,10 +26,10 @@
 * [2022-05-16, 05:31:30](https://news.ycombinator.com/item?id=31393902) - [How I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 * [2022-05-15, 14:40:22](https://news.ycombinator.com/item?id=31387838) - [Operator precedence by textual substitution](https://www.kmjn.org/notes/operator_precedence_fortran.html)
-* [2022-05-15, 10:07:47](https://news.ycombinator.com/item?id=31386537) - [Reducing Cognitive Load in Agile DevOps Teams Using Team Topologies](https://www.infoq.com/articles/reduce-cognitive-load-devops-teams/)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
 * [2022-05-15, 02:47:22](https://news.ycombinator.com/item?id=31384832) - [Dura Mater](http://biodrawing.com/Neurology_modules/NervousSystemSite/Neuroanatomy/meninges/Dura_mater.html)
+* [2022-05-14, 19:56:12](https://news.ycombinator.com/item?id=31381731) - [‘What the Ermine Saw’ Review: A da Vinci Painting’s Journey](https://www.wsj.com/articles/what-the-ermine-saw-book-review-the-strange-journey-of-a-da-vinci-painting-11652451055)
 
 ## [Archives](archives/index.md)
 

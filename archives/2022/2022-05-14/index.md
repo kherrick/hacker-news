@@ -22,6 +22,7 @@
 * [2022-05-14, 20:04:49](https://news.ycombinator.com/item?id=31381812) - [Show HN: I made a body-interactive music app](https://news.ycombinator.com/item?id=31381812)
 * [2022-05-14, 20:04:13](https://news.ycombinator.com/item?id=31381804) - [End to end monitoring with minimal effort](https://martinheinz.dev/blog/72)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)
+* [2022-05-14, 19:56:12](https://news.ycombinator.com/item?id=31381731) - [‘What the Ermine Saw’ Review: A da Vinci Painting’s Journey](https://www.wsj.com/articles/what-the-ermine-saw-book-review-the-strange-journey-of-a-da-vinci-painting-11652451055)
 * [2022-05-14, 19:26:32](https://news.ycombinator.com/item?id=31381461) - [Shaquille Zuckerberg](https://stakedy.com/long/shaquille-zuckerberg.html)
 * [2022-05-14, 19:21:52](https://news.ycombinator.com/item?id=31381410) - [You're Not Losing Fat Because You're Eating Too Damn Much](https://physiqonomics.com/eating-too-much/)
 * [2022-05-14, 19:12:10](https://news.ycombinator.com/item?id=31381315) - [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)
