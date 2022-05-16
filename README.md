@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-16, 23:19:17](https://news.ycombinator.com/item?id=31404201) - [Common libraries and data structures for C](https://github.com/tezc/sc)
 * [2022-05-16, 22:09:54](https://news.ycombinator.com/item?id=31403726) - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+* [2022-05-16, 21:52:21](https://news.ycombinator.com/item?id=31403572) - [An Outer Banks house that collapsed into the ocean](https://jeremymarkovich.substack.com/p/rodanthe-nc-outer-banks-ocean-house-collapse)
 * [2022-05-16, 21:46:57](https://news.ycombinator.com/item?id=31403532) - [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
 * [2022-05-16, 21:43:52](https://news.ycombinator.com/item?id=31403504) - [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
 * [2022-05-16, 21:00:26](https://news.ycombinator.com/item?id=31403078) - [Join Jitx (YC S18) to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 * [2022-05-16, 20:56:17](https://news.ycombinator.com/item?id=31403047) - [GSuite legacy users can now get a free personal account, includes Gmail](https://twitter.com/NeighborGeek/status/1526267594180857856)
 * [2022-05-16, 20:45:08](https://news.ycombinator.com/item?id=31402935) - [Request logging and web vitals for Vercel apps](https://www.axiom.co/vercel)
-* [2022-05-16, 20:29:57](https://news.ycombinator.com/item?id=31402797) - [The Worst (2012)](https://moxie.org/2012/11/27/the-worst.html)
 * [2022-05-16, 20:13:43](https://news.ycombinator.com/item?id=31402646) - [FreeBSD 13.1](https://www.freebsd.org/releases/13.1R/relnotes/)
 * [2022-05-16, 20:03:45](https://news.ycombinator.com/item?id=31402558) - [Off-Grid Cyberdeck with RPI and Pelican Case](https://back7.co/home/raspberry-pi-recovery-kit)
 * [2022-05-16, 19:54:05](https://news.ycombinator.com/item?id=31402436) - [Living Worlds: 8 Bit art animated with palette cycling (2012)](http://www.effectgames.com/demos/worlds/)
@@ -29,7 +30,6 @@
 * [2022-05-15, 06:42:44](https://news.ycombinator.com/item?id=31385711) - [Illuminating the Security Issues Surrounding Lights-Out Server Management (2013) [pdf]](https://www.usenix.org/system/files/conference/woot13/woot13-bonkoski_0.pdf)
 * [2022-05-14, 19:59:57](https://news.ycombinator.com/item?id=31381764) - [Mastering Dyalog APL (2009)](https://www.dyalog.com/mastering-dyalog-apl.htm)
 * [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
-* [2022-05-14, 17:18:21](https://news.ycombinator.com/item?id=31380142) - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/rfc/rfc9250.html)
 
 ## [Archives](archives/index.md)
 

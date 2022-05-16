@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 23:19:17](https://news.ycombinator.com/item?id=31404201) - [Common libraries and data structures for C](https://github.com/tezc/sc)
 * [2022-05-16, 22:09:54](https://news.ycombinator.com/item?id=31403726) - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+* [2022-05-16, 21:52:21](https://news.ycombinator.com/item?id=31403572) - [An Outer Banks house that collapsed into the ocean](https://jeremymarkovich.substack.com/p/rodanthe-nc-outer-banks-ocean-house-collapse)
 * [2022-05-16, 21:46:57](https://news.ycombinator.com/item?id=31403532) - [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
 * [2022-05-16, 21:43:52](https://news.ycombinator.com/item?id=31403504) - [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
 * [2022-05-16, 21:26:19](https://news.ycombinator.com/item?id=31403313) - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://www.abetterinternet.org/post/receiving-the-levchin-prize/)
