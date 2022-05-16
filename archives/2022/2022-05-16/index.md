@@ -7,6 +7,7 @@
 * [2022-05-16, 13:50:56](https://news.ycombinator.com/item?id=31397156) - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 * [2022-05-16, 13:49:57](https://news.ycombinator.com/item?id=31397145) - [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
 * [2022-05-16, 13:49:34](https://news.ycombinator.com/item?id=31397137) - [19.42% of Active Twitter Accounts Are Fake or Spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)
+* [2022-05-16, 13:47:53](https://news.ycombinator.com/item?id=31397107) - [Puzzling Quantum Scenario Appears Not to Conserve Energy](https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/)
 * [2022-05-16, 13:31:55](https://news.ycombinator.com/item?id=31396909) - [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
 * [2022-05-16, 13:24:55](https://news.ycombinator.com/item?id=31396810) - [DigitalOcean: New $4 Droplet and updated pricing](https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing)
