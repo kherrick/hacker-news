@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 19:25:25](https://news.ycombinator.com/item?id=31402137) - [Meld for Macs](https://yousseb.github.io/meld/)
 * [2022-05-16, 18:28:06](https://news.ycombinator.com/item?id=31401470) - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
 * [2022-05-16, 18:00:45](https://news.ycombinator.com/item?id=31401151) - [Correct Backups Require Filesystem Snapshots](https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15)
@@ -16,6 +17,7 @@
 * [2022-05-16, 17:20:42](https://news.ycombinator.com/item?id=31400557) - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh)
 * [2022-05-16, 17:02:36](https://news.ycombinator.com/item?id=31400302) - [What’s down the road for silicon?](https://www.nytimes.com/2022/05/16/science/electronics-silicon-gallium.html)
 * [2022-05-16, 16:21:01](https://news.ycombinator.com/item?id=31399675) - [Release Date Update from the KSP2 Team](https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/)
+* [2022-05-16, 16:19:42](https://news.ycombinator.com/item?id=31399654) - [Walmart Anticipates a Store Manager Shortage Despite $200k-a-Year Pay](https://www.wsj.com/articles/walmart-cant-find-enough-store-managers-even-at-200-000-a-year-11652619602)
 * [2022-05-16, 16:15:47](https://news.ycombinator.com/item?id=31399580) - [Court Ruling shows the GPL is both copyright license and contractual agreement](https://sfconservancy.org/news/2022/may/16/vizio-remand-win/)
 * [2022-05-16, 15:56:56](https://news.ycombinator.com/item?id=31399312) - [The ‘flawed five’ engineering productivity metrics](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics)
 * [2022-05-16, 15:42:53](https://news.ycombinator.com/item?id=31399095) - [Can we make socialism work? [audio]](https://anchor.fm/lucie-repova/episodes/Episode-34---Discussion-Series---Can-we-make-socialism-work--with-Andres-Guilarte-and-Emerson-Murphy-e1i80fl)
