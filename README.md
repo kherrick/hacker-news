@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-16, 21:26:19](https://news.ycombinator.com/item?id=31403313) - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://www.abetterinternet.org/post/receiving-the-levchin-prize/)
-* [2022-05-16, 21:05:42](https://news.ycombinator.com/item?id=31403137) - [Stop buying SSL certificates](https://letsencrypt.org/)
 * [2022-05-16, 21:00:26](https://news.ycombinator.com/item?id=31403078) - [Join Jitx (YC S18) to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+* [2022-05-16, 20:56:17](https://news.ycombinator.com/item?id=31403047) - [GSuite legacy users can now get a free personal account, includes Gmail](https://twitter.com/NeighborGeek/status/1526267594180857856)
 * [2022-05-16, 20:50:21](https://news.ycombinator.com/item?id=31402989) - [My Experiences with Julia](https://weissmann.pm/julialang/)
 * [2022-05-16, 20:45:08](https://news.ycombinator.com/item?id=31402935) - [Request logging and web vitals for Vercel apps](https://www.axiom.co/vercel)
 * [2022-05-16, 20:43:47](https://news.ycombinator.com/item?id=31402922) - [Product Management Is a LARP](https://mirror.xyz/0xB320d282d58cE8402745b6B585Fb9A6C44adC181/qiJf3ogbfiTfEko0BtYeAFkNhBpgkl-UM32iQms_rNc)
