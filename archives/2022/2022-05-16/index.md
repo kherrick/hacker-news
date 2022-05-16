@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 12:04:32](https://news.ycombinator.com/item?id=31395967) - [Not a Single Car Was Sold in Shanghai Last Month](https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month)
+* [2022-05-16, 11:39:32](https://news.ycombinator.com/item?id=31395765) - [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
 * [2022-05-16, 11:09:48](https://news.ycombinator.com/item?id=31395552) - [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
 * [2022-05-16, 11:00:09](https://news.ycombinator.com/item?id=31395496) - [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
 * [2022-05-16, 10:35:58](https://news.ycombinator.com/item?id=31395379) - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
+* [2022-05-16, 09:45:13](https://news.ycombinator.com/item?id=31395081) - [Candlelit Console patch set to the OpenBSD framebuffer console](https://undeadly.org/cgi?action=article;sid=20220516093712)
 * [2022-05-16, 08:12:13](https://news.ycombinator.com/item?id=31394604) - [Many software companies are a joke](https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a)
+* [2022-05-16, 07:31:32](https://news.ycombinator.com/item?id=31394420) - [Zsh 5.9](https://zsh.sourceforge.io/releases.html)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
 * [2022-05-16, 06:56:21](https://news.ycombinator.com/item?id=31394236) - [Delhi sizzles at 49C (120F) as heatwave sweeps India](https://www.bbc.co.uk/news/world-asia-india-61242341)
 * [2022-05-16, 06:53:15](https://news.ycombinator.com/item?id=31394226) - [The Modos Paper Laptop](https://www.modos.tech/blog/modos-paper-laptop)
