@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-16, 18:00:45",
+      "https://news.ycombinator.com/item?id=31401151"
+    ],
+    [
+      "Correct Backups Require Filesystem Snapshots",
+      "https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 17:59:28",
       "https://news.ycombinator.com/item?id=31401131"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2022-05-15, 10:03:19",
-      "https://news.ycombinator.com/item?id=31386516"
-    ],
-    [
-      "The operational relational schema paradigm",
-      "https://planetscale.com/blog/the-operational-relational-schema-paradigm"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 04:31:22",
-      "https://news.ycombinator.com/item?id=31385274"
-    ],
-    [
-      "Networking FreeDOS",
-      "http://wisdomtree.info/dos/dostcpip.htm"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 18:40:19",
       "https://news.ycombinator.com/item?id=31380969"
     ],
     [
       "Wrong by Default",
       "https://kevincox.ca/2022/05/13/wrong-by-default/"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 17:18:21",
+      "https://news.ycombinator.com/item?id=31380142"
+    ],
+    [
+      "DNS over Dedicated QUIC Connections",
+      "https://www.rfc-editor.org/rfc/rfc9250.html"
     ]
   ]
 ]
