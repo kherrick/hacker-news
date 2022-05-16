@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 19:54:05](https://news.ycombinator.com/item?id=31402436) - [Living Worlds: 8 Bit art animated with palette cycling (2012)](http://www.effectgames.com/demos/worlds/)
 * [2022-05-16, 19:25:25](https://news.ycombinator.com/item?id=31402137) - [Meld for Macs](https://yousseb.github.io/meld/)
 * [2022-05-16, 18:28:06](https://news.ycombinator.com/item?id=31401470) - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
