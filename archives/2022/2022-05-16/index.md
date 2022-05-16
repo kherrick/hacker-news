@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 17:48:26](https://news.ycombinator.com/item?id=31400969) - [New WebKit Features in Safari 15.5](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/)
 * [2022-05-16, 17:30:09](https://news.ycombinator.com/item?id=31400704) - [Ten Years of Trying to Meditate](https://ammarmian.substack.com/p/why-i-meditate-part-1)
 * [2022-05-16, 17:20:58](https://news.ycombinator.com/item?id=31400563) - [Chaingrep (YC W22) Is Hiring a Founding Engineer](https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f)
+* [2022-05-16, 17:20:42](https://news.ycombinator.com/item?id=31400557) - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh)
 * [2022-05-16, 16:21:01](https://news.ycombinator.com/item?id=31399675) - [Release Date Update from the KSP2 Team](https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/)
 * [2022-05-16, 16:15:47](https://news.ycombinator.com/item?id=31399580) - [Court Ruling shows the GPL is both copyright license and contractual agreement](https://sfconservancy.org/news/2022/may/16/vizio-remand-win/)
 * [2022-05-16, 15:56:56](https://news.ycombinator.com/item?id=31399312) - [The ‘flawed five’ engineering productivity metrics](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics)
