@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 15:56:56](https://news.ycombinator.com/item?id=31399312) - [The ‘flawed five’ engineering productivity metrics](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics)
 * [2022-05-16, 15:42:53](https://news.ycombinator.com/item?id=31399095) - [Can we make socialism work? [audio]](https://anchor.fm/lucie-repova/episodes/Episode-34---Discussion-Series---Can-we-make-socialism-work--with-Andres-Guilarte-and-Emerson-Murphy-e1i80fl)
 * [2022-05-16, 15:25:40](https://news.ycombinator.com/item?id=31398832) - [Putin’s Ukraine War Fail: The Ukrainian Military Is at the Russian Border](https://www.19fortyfive.com/2022/05/putins-ukraine-war-fail-the-ukrainian-military-is-at-the-russian-border/)
 * [2022-05-16, 15:06:51](https://news.ycombinator.com/item?id=31398516) - [Ansible 2.13](https://github.com/ansible/ansible/blob/stable-2.13/changelogs/CHANGELOG-v2.13.rst)
 * [2022-05-16, 14:52:08](https://news.ycombinator.com/item?id=31398261) - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
+* [2022-05-16, 14:38:34](https://news.ycombinator.com/item?id=31398021) - [Tesla FSD Beta almost causes a head-on collision](https://www.youtube.com/watch?v=zDEWi2nC-Wg)
 * [2022-05-16, 14:14:21](https://news.ycombinator.com/item?id=31397527) - [Tel-Aviv University Releases Long-Text NLP Benchmark Scrolls](https://www.infoq.com/news/2022/03/scrolls-nlp-benchmark/)
 * [2022-05-16, 13:50:56](https://news.ycombinator.com/item?id=31397156) - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 * [2022-05-16, 13:49:57](https://news.ycombinator.com/item?id=31397145) - [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
