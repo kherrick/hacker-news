@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-16](index.md)
 
+* [2022-05-16, 13:50:56](https://news.ycombinator.com/item?id=31397156) - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
+* [2022-05-16, 13:49:57](https://news.ycombinator.com/item?id=31397145) - [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
+* [2022-05-16, 13:49:34](https://news.ycombinator.com/item?id=31397137) - [19.42% of Active Twitter Accounts Are Fake or Spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)
 * [2022-05-16, 13:31:55](https://news.ycombinator.com/item?id=31396909) - [Sweden to Apply for NATO Membership](https://www.svt.se/nyheter/utrikes/finland-ger-natobesked)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/)
 * [2022-05-16, 13:24:55](https://news.ycombinator.com/item?id=31396810) - [DigitalOcean: New $4 Droplet and updated pricing](https://www.digitalocean.com/blog/new-4-dollar-droplet-updated-pricing)
@@ -13,6 +16,7 @@
 * [2022-05-16, 12:48:44](https://news.ycombinator.com/item?id=31396329) - [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/)
 * [2022-05-16, 12:35:48](https://news.ycombinator.com/item?id=31396198) - [Cats learn the names of their friend cats in their daily lives](https://www.nature.com/articles/s41598-022-10261-5)
 * [2022-05-16, 12:04:32](https://news.ycombinator.com/item?id=31395967) - [Not a Single Car Was Sold in Shanghai Last Month](https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month)
+* [2022-05-16, 11:49:39](https://news.ycombinator.com/item?id=31395851) - [Stealing checks worth millions and pwning a bank](https://www.jhaddix.com/post/stealing-checks-worth-millions-pwning-a-bank)
 * [2022-05-16, 11:39:32](https://news.ycombinator.com/item?id=31395765) - [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
 * [2022-05-16, 11:38:53](https://news.ycombinator.com/item?id=31395759) - [In Search of Organic Software](http://pketh.org/organic-software.html)
 * [2022-05-16, 11:09:48](https://news.ycombinator.com/item?id=31395552) - [Ask HN: Cloud vs. Dedicated Hosting](https://news.ycombinator.com/item?id=31395552)
