@@ -7,6 +7,7 @@
 * [2022-05-14, 23:49:35](https://news.ycombinator.com/item?id=31383847) - [Restoring a $25,000 Convergent Technologies Miniframe CTIX Unix Computer](https://www.youtube.com/watch?v=Pbpw8VmNnwU)
 * [2022-05-14, 23:28:32](https://news.ycombinator.com/item?id=31383725) - [Spreading rock dust on farms is an overlooked but tantalizing climate solution](https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/)
 * [2022-05-14, 23:18:46](https://news.ycombinator.com/item?id=31383665) - [Cognitive psychology findings that all passed a stringent replicability test](https://digest.bps.org.uk/2017/06/05/these-nine-cognitive-psychology-findings-all-passed-a-stringent-test-of-their-replicability/)
+* [2022-05-14, 23:14:46](https://news.ycombinator.com/item?id=31383637) - [Ask HN: Unshared or Private Caches for my app/company to use?](https://news.ycombinator.com/item?id=31383637)
 * [2022-05-14, 22:54:02](https://news.ycombinator.com/item?id=31383504) - [Formalizing a Proof of God by Leibniz](https://timlabs.org/leibniz/)
 * [2022-05-14, 22:39:40](https://news.ycombinator.com/item?id=31383388) - [Mattel debuts first Barbie with hearing aids](https://www.cbsnews.com/news/barnie-hearing-aid-mattel/)
 * [2022-05-14, 22:37:37](https://news.ycombinator.com/item?id=31383373) - [The case for consolidation](https://benn.substack.com/p/case-for-consolidation)
