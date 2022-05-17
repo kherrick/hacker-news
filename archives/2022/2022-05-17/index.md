@@ -7,6 +7,7 @@
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
 * [2022-05-17, 17:01:09](https://news.ycombinator.com/item?id=31413502) - [Laylo (YC S20) is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
 * [2022-05-17, 16:38:20](https://news.ycombinator.com/item?id=31413163) - [Tailscale is officially SoC 2 compliant](https://tailscale.com/blog/soc2/)
+* [2022-05-17, 16:26:28](https://news.ycombinator.com/item?id=31412983) - [U.S. Air Force conducted successful hypersonic weapon test](https://www.reuters.com/business/aerospace-defense/us-air-force-says-it-conducted-successful-hypersonic-weapon-test-2022-05-17/)
 * [2022-05-17, 16:24:14](https://news.ycombinator.com/item?id=31412956) - [Tell HN: Startup School 2022 – returning to live event](https://news.ycombinator.com/item?id=31412956)
 * [2022-05-17, 16:21:13](https://news.ycombinator.com/item?id=31412923) - [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
 * [2022-05-17, 16:00:51](https://news.ycombinator.com/item?id=31412608) - [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)

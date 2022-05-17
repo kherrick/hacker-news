@@ -2,6 +2,7 @@
 
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
 * [2022-05-17, 17:01:09](https://news.ycombinator.com/item?id=31413502) - [Laylo (YC S20) is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+* [2022-05-17, 16:26:28](https://news.ycombinator.com/item?id=31412983) - [U.S. Air Force conducted successful hypersonic weapon test](https://www.reuters.com/business/aerospace-defense/us-air-force-says-it-conducted-successful-hypersonic-weapon-test-2022-05-17/)
 * [2022-05-17, 16:24:14](https://news.ycombinator.com/item?id=31412956) - [Tell HN: Startup School 2022 – returning to live event, with meetups worldwide](https://news.ycombinator.com/item?id=31412956)
 * [2022-05-17, 16:21:13](https://news.ycombinator.com/item?id=31412923) - [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
 * [2022-05-17, 16:00:51](https://news.ycombinator.com/item?id=31412608) - [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)
@@ -18,7 +19,6 @@
 * [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
 * [2022-05-17, 11:47:09](https://news.ycombinator.com/item?id=31409044) - [Unsolved problems in economics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics)
 * [2022-05-17, 11:43:02](https://news.ycombinator.com/item?id=31409010) - [Using a Linux phone as a secondary monitor](https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/)
-* [2022-05-17, 11:24:53](https://news.ycombinator.com/item?id=31408841) - [Another stablecoin loses peg – DEI team working to restore the peg](https://finbold.com/warning-another-stablecoin-loses-peg-dei-team-working-to-restore-the-peg/)
 * [2022-05-17, 11:12:06](https://news.ycombinator.com/item?id=31408726) - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
 * [2022-05-17, 11:10:29](https://news.ycombinator.com/item?id=31408712) - [Arm Open Source makes a seamless migration to GitLab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
 * [2022-05-17, 10:23:55](https://news.ycombinator.com/item?id=31408364) - [Coinbase announces it will slow down hiring](https://blog.coinbase.com/employee-note-an-update-on-hiring-plans-507ea4e2b6cf)
