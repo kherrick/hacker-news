@@ -25,11 +25,11 @@
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
 * [2022-05-16, 17:50:34](https://news.ycombinator.com/item?id=31401006) - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
 * [2022-05-16, 17:37:14](https://news.ycombinator.com/item?id=31400812) - [US Army's Land Trains (2020)](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
-* [2022-05-16, 14:52:08](https://news.ycombinator.com/item?id=31398261) - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
 * [2022-05-15, 19:42:15](https://news.ycombinator.com/item?id=31390371) - [Teaching GPT-3 to reverse words](https://twitter.com/npew/status/1525900849888866307)
 * [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
 * [2022-05-15, 10:06:42](https://news.ycombinator.com/item?id=31386533) - [Ask HN: Free and open source distributed database written in C++ or C](https://news.ycombinator.com/item?id=31386533)
+* [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
 
 ## [Archives](archives/index.md)
 
