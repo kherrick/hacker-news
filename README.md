@@ -6,7 +6,7 @@
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
 * [2022-05-17, 20:12:20](https://news.ycombinator.com/item?id=31415725) - [Atmospheric Pollution from Rockets [pdf]](https://aip.scitation.org/doi/pdf/10.1063/5.0090017)
 * [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
-* [2022-05-17, 19:34:06](https://news.ycombinator.com/item?id=31415359) - [We’re All Working, All the Time: Workers Deserve the Right to Disconnect](https://novaramedia.com/2021/09/17/were-all-working-all-the-time/)
+* [2022-05-17, 19:34:06](https://news.ycombinator.com/item?id=31415359) - [Workers deserve the right to disconnect (2021)](https://novaramedia.com/2021/09/17/were-all-working-all-the-time/)
 * [2022-05-17, 19:15:29](https://news.ycombinator.com/item?id=31415152) - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
 * [2022-05-17, 18:33:03](https://news.ycombinator.com/item?id=31414681) - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
 * [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
@@ -23,13 +23,13 @@
 * [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
 * [2022-05-17, 11:43:02](https://news.ycombinator.com/item?id=31409010) - [Using a Linux phone as a secondary monitor](https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/)
 * [2022-05-17, 11:12:06](https://news.ycombinator.com/item?id=31408726) - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
-* [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC charges Nvidia with inadequate disclosures about impact of cryptomining](https://www.sec.gov/news/press-release/2022-79)
 * [2022-05-16, 02:07:35](https://news.ycombinator.com/item?id=31393104) - [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
 * [2022-05-16, 00:06:32](https://news.ycombinator.com/item?id=31392447) - [So you want to run a virtual event](https://blog.lazerwalker.com/2022/05/10/virtual-events.html)
 * [2022-05-15, 22:50:43](https://news.ycombinator.com/item?id=31391933) - [I finally got Twitter after years of not getting it](https://martinboss.com/how-to-twitter-martin-way/)
 * [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
 * [2022-05-15, 05:54:26](https://news.ycombinator.com/item?id=31385554) - [Fast Lane to Learning R](https://github.com/matloff/fasteR)
 * [2022-05-14, 19:39:15](https://news.ycombinator.com/item?id=31381563) - [Picasso's self portrait evolution from age 15 to age 90](https://rarehistoricalphotos.com/picasso-self-portraits-photos/)
+* [2022-05-14, 15:12:06](https://news.ycombinator.com/item?id=31378724) - [Arp 2600 Patch Book [pdf]](http://media.justmusic.de/shop/assets/handbuch/10054130_ARP2600_Original_Patchbook.pdf)
 
 ## [Archives](archives/index.md)
 

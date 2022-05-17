@@ -49,6 +49,7 @@
 * [2022-05-14, 15:52:45](https://news.ycombinator.com/item?id=31379173) - [The Antikythera Mechanism Episode 11 – Inscribing the Back Plate – Part 1](https://www.youtube.com/watch?v=iBRCL090PxA)
 * [2022-05-14, 15:29:17](https://news.ycombinator.com/item?id=31378896) - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405)
 * [2022-05-14, 15:27:37](https://news.ycombinator.com/item?id=31378878) - [Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
+* [2022-05-14, 15:12:06](https://news.ycombinator.com/item?id=31378724) - [Arp 2600 Patch Book [pdf]](http://media.justmusic.de/shop/assets/handbuch/10054130_ARP2600_Original_Patchbook.pdf)
 * [2022-05-14, 15:10:56](https://news.ycombinator.com/item?id=31378710) - [Netflix to Employees: If you don't like our content, you can quit](https://www.wsj.com/articles/netflix-to-employees-if-you-dont-like-our-content-you-can-quit-11652478092)
 * [2022-05-14, 14:43:37](https://news.ycombinator.com/item?id=31378418) - [‎Cracking the Code: Sneakers at 30](https://letterboxd.com/journal/cracking-the-code-sneakers/)
 * [2022-05-14, 14:43:21](https://news.ycombinator.com/item?id=31378415) - [Why Success in Canada Means Moving to America](https://thewalrus.ca/why-success-in-canada-means-moving-to-america/)
