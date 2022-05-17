@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want a small flagship Android phone](https://smallandroidphone.com/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-17, 13:51:00](https://news.ycombinator.com/item?id=31410617) - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
 * [2022-05-17, 13:00:25](https://news.ycombinator.com/item?id=31409870) - [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
@@ -18,7 +19,6 @@
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
-* [2022-05-17, 08:31:26](https://news.ycombinator.com/item?id=31407528) - [Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away](https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79)
 * [2022-05-17, 06:42:56](https://news.ycombinator.com/item?id=31406802) - [Earth Overshoot Day](https://www.overshootday.org/)
 * [2022-05-17, 04:00:16](https://news.ycombinator.com/item?id=31405890) - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
