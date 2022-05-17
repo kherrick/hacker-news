@@ -6,7 +6,9 @@
 
 * [2022-05-16, 23:23:10](https://news.ycombinator.com/item?id=31404238) - [Sandbox-based isolation software for Windows NT-based operating systems](https://github.com/sandboxie-plus/Sandboxie)
 * [2022-05-16, 23:19:17](https://news.ycombinator.com/item?id=31404201) - [Common libraries and data structures for C](https://github.com/tezc/sc)
+* [2022-05-16, 22:34:35](https://news.ycombinator.com/item?id=31403925) - [Researchers Demo Bluetooth Relay Attack Against Tesla](https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems)
 * [2022-05-16, 22:09:54](https://news.ycombinator.com/item?id=31403726) - [Collection of Sun Workstation boot logos](https://github.com/mdehling/sun-fb-logos)
+* [2022-05-16, 22:03:04](https://news.ycombinator.com/item?id=31403676) - [Computer work lying down comfortably with a home-made stand over the bed](https://www.cambridgeclarion.org/48.html)
 * [2022-05-16, 21:52:21](https://news.ycombinator.com/item?id=31403572) - [An Outer Banks house that collapsed into the ocean](https://jeremymarkovich.substack.com/p/rodanthe-nc-outer-banks-ocean-house-collapse)
 * [2022-05-16, 21:46:57](https://news.ycombinator.com/item?id=31403532) - [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
 * [2022-05-16, 21:43:52](https://news.ycombinator.com/item?id=31403504) - [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
