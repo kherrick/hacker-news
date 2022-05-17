@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-05-17, 16:38:20",
-      "https://news.ycombinator.com/item?id=31413163"
+      "2022-05-17, 17:03:20",
+      "https://news.ycombinator.com/item?id=31413533"
     ],
     [
-      "Tailscale is officially SoC 2 compliant",
-      "https://tailscale.com/blog/soc2/"
+      "Comby - Structural code search and replace for every language",
+      "https://comby.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 17:01:09",
+      "https://news.ycombinator.com/item?id=31413502"
+    ],
+    [
+      "Laylo (YC S20) is hiring to build Salesforce for creators",
+      "https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31412956"
     ],
     [
-      "Tell HN: Startup School 2022 – returning to live event",
+      "Tell HN: Startup School 2022 – returning to live event, with meetups worldwide",
       "https://news.ycombinator.com/item?id=31412956"
     ]
   ],
@@ -55,8 +65,18 @@
       "https://news.ycombinator.com/item?id=31411813"
     ],
     [
-      "Using a Proper Camera as a Webcam",
+      "Using a \"proper\" camera as a webcam",
       "https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 14:53:06",
+      "https://news.ycombinator.com/item?id=31411585"
+    ],
+    [
+      "Lepiter: Knowledge Mgmt and Multi-Lang Notebooks and Moldable Dev",
+      "https://lepiter.io/feenk/introducing-lepiter--knowledge-management--e2p6apqsz5npq7m4xte0kkywn/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "My Unholy Battle with a Rock64",
       "https://artemis.sh/2022/05/16/everfrees-armferno.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 12:00:46",
-      "https://news.ycombinator.com/item?id=31409182"
-    ],
-    [
-      "Finley (YC W21) is hiring fintech software engineers (US remote)",
-      "https://news.ycombinator.com/item?id=31409182"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-17, 08:49:19",
-      "https://news.ycombinator.com/item?id=31407650"
-    ],
-    [
-      "The Betrayal at Krondor Help Web",
-      "https://vga256.com/krondor/krondor.html"
-    ]
-  ],
-  [
-    [
       "2022-05-17, 08:12:16",
       "https://news.ycombinator.com/item?id=31407397"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31405859"
     ],
     [
-      "Taking a Break from Social Media Makes You Happier and Less Anxious",
+      "Taking a break from social media makes you happier and less anxious",
       "https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/"
     ]
   ],
@@ -271,11 +271,21 @@
   ],
   [
     [
+      "2022-05-15, 22:50:43",
+      "https://news.ycombinator.com/item?id=31391933"
+    ],
+    [
+      "I finally got Twitter after years of not getting it",
+      "https://martinboss.com/how-to-twitter-martin-way/"
+    ]
+  ],
+  [
+    [
       "2022-05-15, 07:57:59",
       "https://news.ycombinator.com/item?id=31386033"
     ],
     [
-      "Intel can’t grow profits in a global chip shortage – where did it all go wrong?",
+      "Intel can’t grow profits in a global chip shortage",
       "https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "A Minsky moment for venture capital?",
       "https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 04:59:26",
-      "https://news.ycombinator.com/item?id=31375216"
-    ],
-    [
-      "The Good Ol' Days of QBasic Nibbles",
-      "https://www.thecodedmessage.com/posts/qbasic-nostalgia/"
     ]
   ]
 ]
