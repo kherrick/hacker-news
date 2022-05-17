@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-15](index.md)
 
+* [2022-05-15, 23:22:29](https://news.ycombinator.com/item?id=31392145) - [Surfing the Gopherspace](https://charlieharrington.com/surfing-the-gopherspace/)
 * [2022-05-15, 23:21:08](https://news.ycombinator.com/item?id=31392137) - [Should We Celebrate Acquisitions?](https://nutcroft.com/blog/should-we-celebrate-acquisitions/)
 * [2022-05-15, 22:49:18](https://news.ycombinator.com/item?id=31391922) - [DIY High Resolution Spectrometer](https://publiclab.org/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer)
 * [2022-05-15, 21:34:55](https://news.ycombinator.com/item?id=31391376) - [Show HN: KittenDNS – easy to setup, rule engine, LetsEncrypt compatible](https://news.ycombinator.com/item?id=31391376)

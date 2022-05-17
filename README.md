@@ -1,15 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79)
 * [2022-05-17, 06:42:56](https://news.ycombinator.com/item?id=31406802) - [Earth Overshoot Day](https://www.overshootday.org/)
-* [2022-05-17, 05:59:29](https://news.ycombinator.com/item?id=31406521) - [Investors pull $7bn from Tether as stablecoin jitters intensify](https://www.ft.com/content/db9c3f32-cd91-4149-9788-95b2046bea10)
 * [2022-05-17, 05:14:38](https://news.ycombinator.com/item?id=31406295) - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
-* [2022-05-17, 04:17:01](https://news.ycombinator.com/item?id=31405976) - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
 * [2022-05-17, 04:00:52](https://news.ycombinator.com/item?id=31405896) - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [2022-05-17, 04:00:16](https://news.ycombinator.com/item?id=31405890) - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
 * [2022-05-17, 03:58:20](https://news.ycombinator.com/item?id=31405883) - [Judge: California’s women on boards law is unconstitutional](https://apnews.com/article/technology-government-and-politics-california-los-angeles-1ee602b76a4f9707c923a27da5805bcd)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
 * [2022-05-17, 02:31:52](https://news.ycombinator.com/item?id=31405434) - [Fasting boosts stem cells’ regenerative capacity (2018)](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
-* [2022-05-17, 02:17:29](https://news.ycombinator.com/item?id=31405366) - [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
 * [2022-05-17, 02:15:18](https://news.ycombinator.com/item?id=31405348) - [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
 * [2022-05-17, 00:02:57](https://news.ycombinator.com/item?id=31404489) - [Humans being confounded by color photography](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look)
 * [2022-05-16, 23:23:10](https://news.ycombinator.com/item?id=31404238) - [Sandboxie: Sandbox-based isolation software for Windows NT-based OS's](https://github.com/sandboxie-plus/Sandboxie)
@@ -27,9 +25,11 @@
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
 * [2022-05-16, 17:37:14](https://news.ycombinator.com/item?id=31400812) - [US Army's Land Trains (2020)](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
+* [2022-05-15, 23:22:29](https://news.ycombinator.com/item?id=31392145) - [Surfing the Gopherspace](https://charlieharrington.com/surfing-the-gopherspace/)
 * [2022-05-15, 19:42:15](https://news.ycombinator.com/item?id=31390371) - [Teaching GPT-3 to reverse words](https://twitter.com/npew/status/1525900849888866307)
 * [2022-05-15, 13:50:47](https://news.ycombinator.com/item?id=31387552) - [Commodore 64 Chip Designer Interview: Albert Charpentier](https://www.youtube.com/watch?v=rs6J_PP7O7k)
 * [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
+* [2022-05-14, 18:02:43](https://news.ycombinator.com/item?id=31380602) - [Operating During a Downturn [video]](https://www.youtube.com/watch?v=vBkzm4a7iY4)
 
 ## [Archives](archives/index.md)
 
