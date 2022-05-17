@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-17, 05:14:38",
+      "https://news.ycombinator.com/item?id=31406295"
+    ],
+    [
+      "Microsoft Opens New HQ in Toronto",
+      "https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 04:17:01",
       "https://news.ycombinator.com/item?id=31405976"
     ],
     [
       "OpenAI Codex Python to C++ Code Generator",
       "https://github.com/alxschwrz/codex_py2cpp"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 04:00:16",
+      "https://news.ycombinator.com/item?id=31405890"
+    ],
+    [
+      "Wazero: The zero dependency WebAssembly runtime for Go developers",
+      "https://github.com/tetratelabs/wazero"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Taking a Break from Social Media Makes You Happier and Less Anxious",
       "https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 02:58:23",
+      "https://news.ycombinator.com/item?id=31405573"
+    ],
+    [
+      "The End of Roe Will Bring About a Sea Change in the Encryption Debate",
+      "https://cyberlaw.stanford.edu/blog/2022/05/end-roe-will-bring-about-sea-change-encryption-debate"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-05-16, 17:20:42",
-      "https://news.ycombinator.com/item?id=31400557"
-    ],
-    [
-      "RESH: Rich Enhanced Shell History",
-      "https://github.com/curusarn/resh"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 14:52:08",
       "https://news.ycombinator.com/item?id=31398261"
     ],
@@ -247,16 +267,6 @@
     [
       "Correctness and composability bugs in the Julia ecosystem",
       "https://yuri.is/not-julia/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 10:08:38",
-      "https://news.ycombinator.com/item?id=31395231"
-    ],
-    [
-      "Almost all searches on my independent search engine are now from SEO spam bots",
-      "https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ask HN: Free and open source distributed database written in C++ or C",
       "https://news.ycombinator.com/item?id=31386533"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 18:40:19",
-      "https://news.ycombinator.com/item?id=31380969"
-    ],
-    [
-      "Wrong by Default",
-      "https://kevincox.ca/2022/05/13/wrong-by-default/"
     ]
   ]
 ]
