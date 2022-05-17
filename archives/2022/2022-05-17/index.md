@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 16:38:20](https://news.ycombinator.com/item?id=31413163) - [Tailscale is officially SoC 2 compliant](https://tailscale.com/blog/soc2/)
+* [2022-05-17, 16:24:14](https://news.ycombinator.com/item?id=31412956) - [Tell HN: Startup School 2022 – returning to live event](https://news.ycombinator.com/item?id=31412956)
+* [2022-05-17, 16:21:13](https://news.ycombinator.com/item?id=31412923) - [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
+* [2022-05-17, 16:00:51](https://news.ycombinator.com/item?id=31412608) - [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)
 * [2022-05-17, 15:49:07](https://news.ycombinator.com/item?id=31412440) - [Riot Games Tech Blog: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
 * [2022-05-17, 15:06:52](https://news.ycombinator.com/item?id=31411813) - [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want a small flagship Android phone](https://smallandroidphone.com/)
