@@ -2,6 +2,7 @@
 
 * [2022-05-17, 05:14:38](https://news.ycombinator.com/item?id=31406295) - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
 * [2022-05-17, 04:17:01](https://news.ycombinator.com/item?id=31405976) - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
+* [2022-05-17, 04:00:52](https://news.ycombinator.com/item?id=31405896) - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [2022-05-17, 04:00:16](https://news.ycombinator.com/item?id=31405890) - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
 * [2022-05-17, 03:58:20](https://news.ycombinator.com/item?id=31405883) - [Judge: California’s women on boards law is unconstitutional](https://apnews.com/article/technology-government-and-politics-california-los-angeles-1ee602b76a4f9707c923a27da5805bcd)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
@@ -23,13 +24,12 @@
 * [2022-05-16, 19:25:25](https://news.ycombinator.com/item?id=31402137) - [Meld for Macs](https://yousseb.github.io/meld/)
 * [2022-05-16, 18:28:06](https://news.ycombinator.com/item?id=31401470) - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 * [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
-* [2022-05-16, 17:50:34](https://news.ycombinator.com/item?id=31401006) - [Preston’s Paradox](https://www.allendowney.com/blog/2022/05/16/prestons-paradox/)
 * [2022-05-16, 17:37:14](https://news.ycombinator.com/item?id=31400812) - [US Army's Land Trains (2020)](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
 * [2022-05-15, 19:42:15](https://news.ycombinator.com/item?id=31390371) - [Teaching GPT-3 to reverse words](https://twitter.com/npew/status/1525900849888866307)
 * [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
 * [2022-05-15, 10:06:42](https://news.ycombinator.com/item?id=31386533) - [Ask HN: Free and open source distributed database written in C++ or C](https://news.ycombinator.com/item?id=31386533)
-* [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
+* [2022-05-14, 18:02:43](https://news.ycombinator.com/item?id=31380602) - [Operating During a Downturn [video]](https://www.youtube.com/watch?v=vBkzm4a7iY4)
 
 ## [Archives](archives/index.md)
 

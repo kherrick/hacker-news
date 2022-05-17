@@ -34,6 +34,7 @@
 * [2022-05-14, 18:25:55](https://news.ycombinator.com/item?id=31380826) - [Ask HN: Food Addiction](https://news.ycombinator.com/item?id=31380826)
 * [2022-05-14, 18:17:13](https://news.ycombinator.com/item?id=31380741) - [Photos of Escaped Slave Gordon at a Medical Examination, Louisiana, 1863](https://www.vintag.es/2022/05/scourged-back.html)
 * [2022-05-14, 18:04:23](https://news.ycombinator.com/item?id=31380613) - [The Texas electric grid can barely keep the lights on and it’s not even hot yet](https://twitter.com/The_Michael_Lee/status/1525533811873914880)
+* [2022-05-14, 18:02:43](https://news.ycombinator.com/item?id=31380602) - [Operating During a Downturn [video]](https://www.youtube.com/watch?v=vBkzm4a7iY4)
 * [2022-05-14, 17:18:21](https://news.ycombinator.com/item?id=31380142) - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/rfc/rfc9250.html)
 * [2022-05-14, 17:00:48](https://news.ycombinator.com/item?id=31379925) - [Navattic (YC W21) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=31379925)
 * [2022-05-14, 16:41:45](https://news.ycombinator.com/item?id=31379722) - [Eight Hundred Employees resign after WhiteHat Jr  asks them to work from office](https://atechdaily.com/employees-resign-after-company-asks-them-to-work-from-office.html)

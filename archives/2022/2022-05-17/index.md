@@ -6,6 +6,7 @@
 
 * [2022-05-17, 05:14:38](https://news.ycombinator.com/item?id=31406295) - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
 * [2022-05-17, 04:17:01](https://news.ycombinator.com/item?id=31405976) - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
+* [2022-05-17, 04:00:52](https://news.ycombinator.com/item?id=31405896) - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [2022-05-17, 04:00:16](https://news.ycombinator.com/item?id=31405890) - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
 * [2022-05-17, 03:58:20](https://news.ycombinator.com/item?id=31405883) - [Judge: California’s women on boards law is unconstitutional](https://apnews.com/article/technology-government-and-politics-california-los-angeles-1ee602b76a4f9707c923a27da5805bcd)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
