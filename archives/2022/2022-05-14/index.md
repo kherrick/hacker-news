@@ -25,6 +25,7 @@
 * [2022-05-14, 19:59:57](https://news.ycombinator.com/item?id=31381764) - [Mastering Dyalog APL (2009)](https://www.dyalog.com/mastering-dyalog-apl.htm)
 * [2022-05-14, 19:56:29](https://news.ycombinator.com/item?id=31381734) - [Show HN: A collaborative pixel drawing game for when you're bored (Attempt #2)](https://pixel.vkoskiv.com)
 * [2022-05-14, 19:56:12](https://news.ycombinator.com/item?id=31381731) - [‘What the Ermine Saw’ Review: A da Vinci Painting’s Journey](https://www.wsj.com/articles/what-the-ermine-saw-book-review-the-strange-journey-of-a-da-vinci-painting-11652451055)
+* [2022-05-14, 19:39:15](https://news.ycombinator.com/item?id=31381563) - [Picasso's self portrait evolution from age 15 to age 90](https://rarehistoricalphotos.com/picasso-self-portraits-photos/)
 * [2022-05-14, 19:26:32](https://news.ycombinator.com/item?id=31381461) - [Shaquille Zuckerberg](https://stakedy.com/long/shaquille-zuckerberg.html)
 * [2022-05-14, 19:21:52](https://news.ycombinator.com/item?id=31381410) - [You're Not Losing Fat Because You're Eating Too Damn Much](https://physiqonomics.com/eating-too-much/)
 * [2022-05-14, 19:12:10](https://news.ycombinator.com/item?id=31381315) - [Eurovision Song Contest Bingo](https://eurovision.vonmalmborg.com/)

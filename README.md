@@ -26,10 +26,10 @@
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems and the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC charges Nvidia with inadequate disclosures about impact of cryptomining](https://www.sec.gov/news/press-release/2022-79)
-* [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a break from social media makes you happier and less anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
+* [2022-05-15, 22:50:43](https://news.ycombinator.com/item?id=31391933) - [I finally got Twitter after years of not getting it](https://martinboss.com/how-to-twitter-martin-way/)
 * [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
 * [2022-05-15, 07:57:59](https://news.ycombinator.com/item?id=31386033) - [Intel can’t grow profits in a global chip shortage](https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877)
-* [2022-05-14, 17:57:45](https://news.ycombinator.com/item?id=31380555) - [A Minsky moment for venture capital?](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5)
+* [2022-05-14, 19:39:15](https://news.ycombinator.com/item?id=31381563) - [Picasso's self portrait evolution from age 15 to age 90](https://rarehistoricalphotos.com/picasso-self-portraits-photos/)
 
 ## [Archives](archives/index.md)
 
