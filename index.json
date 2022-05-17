@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-17, 08:49:19",
+      "https://news.ycombinator.com/item?id=31407650"
+    ],
+    [
+      "The Betrayal at Krondor Help Web",
+      "https://vga256.com/krondor/krondor.html"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 08:31:26",
       "https://news.ycombinator.com/item?id=31407528"
     ],
@@ -227,16 +237,6 @@
     [
       "Acoustic Keyboard Eavesdropping",
       "https://github.com/ggerganov/kbd-audio"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 13:28:57",
-      "https://news.ycombinator.com/item?id=31396861"
-    ],
-    [
-      "Correctness and composability bugs in the Julia ecosystem",
-      "https://yuri.is/not-julia/"
     ]
   ],
   [
