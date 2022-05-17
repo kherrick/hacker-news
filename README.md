@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 19:15:29](https://news.ycombinator.com/item?id=31415152) - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
 * [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
 * [2022-05-17, 17:44:08](https://news.ycombinator.com/item?id=31414044) - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
@@ -26,7 +27,6 @@
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems and the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC charges Nvidia with inadequate disclosures about impact of cryptomining](https://www.sec.gov/news/press-release/2022-79)
-* [2022-05-15, 22:50:43](https://news.ycombinator.com/item?id=31391933) - [I finally got Twitter after years of not getting it](https://martinboss.com/how-to-twitter-martin-way/)
 * [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
 * [2022-05-15, 07:57:59](https://news.ycombinator.com/item?id=31386033) - [Intel can’t grow profits in a global chip shortage](https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877)
 * [2022-05-14, 19:39:15](https://news.ycombinator.com/item?id=31381563) - [Picasso's self portrait evolution from age 15 to age 90](https://rarehistoricalphotos.com/picasso-self-portraits-photos/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 19:15:29](https://news.ycombinator.com/item?id=31415152) - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
 * [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
 * [2022-05-17, 17:44:08](https://news.ycombinator.com/item?id=31414044) - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
