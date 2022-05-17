@@ -4,10 +4,18 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 12:00:46](https://news.ycombinator.com/item?id=31409182) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31409182)
+* [2022-05-17, 11:57:12](https://news.ycombinator.com/item?id=31409150) - [I Am Long on Netscape (1999)](https://boards.fool.com/long-nscp-10517327.aspx?sort=whole#10517327)
+* [2022-05-17, 11:52:44](https://news.ycombinator.com/item?id=31409100) - [Ask HN: Cloudflare broke my domain's DNSSEC making it unreachable since 4 days](https://news.ycombinator.com/item?id=31409100)
+* [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
+* [2022-05-17, 11:47:23](https://news.ycombinator.com/item?id=31409048) - [ICCL report on the scale of RealTime Bidding data broadcast in the US and Europe](https://www.iccl.ie/digital-data/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe/)
+* [2022-05-17, 11:47:09](https://news.ycombinator.com/item?id=31409044) - [Unsolved Problems in Economics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics)
+* [2022-05-17, 11:43:02](https://news.ycombinator.com/item?id=31409010) - [Using a Linux phone as a secondary monitor](https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/)
 * [2022-05-17, 11:24:53](https://news.ycombinator.com/item?id=31408841) - [Another stablecoin loses peg – DEI team working to restore the peg](https://finbold.com/warning-another-stablecoin-loses-peg-dei-team-working-to-restore-the-peg/)
 * [2022-05-17, 11:12:06](https://news.ycombinator.com/item?id=31408726) - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
 * [2022-05-17, 11:10:29](https://news.ycombinator.com/item?id=31408712) - [Arm Open Source makes a seamless migration to Gitlab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
 * [2022-05-17, 10:32:41](https://news.ycombinator.com/item?id=31408431) - [Ask HN: How to break anxiety/fear-avoidance cycle?](https://news.ycombinator.com/item?id=31408431)
+* [2022-05-17, 09:42:44](https://news.ycombinator.com/item?id=31408059) - [Zitadel: The best of Auth0 and Keycloak combined](https://github.com/zitadel/zitadel)
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
