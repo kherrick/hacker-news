@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-05-17, 13:51:00",
+      "https://news.ycombinator.com/item?id=31410617"
+    ],
+    [
+      "Writing an Apple 2 game in 2021",
+      "https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 13:00:25",
       "https://news.ycombinator.com/item?id=31409870"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-05-17, 05:14:38",
-      "https://news.ycombinator.com/item?id=31406295"
-    ],
-    [
-      "Microsoft Opens New HQ in Toronto",
-      "https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/"
-    ]
-  ],
-  [
-    [
       "2022-05-17, 04:00:16",
       "https://news.ycombinator.com/item?id=31405890"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-05-16, 23:19:17",
-      "https://news.ycombinator.com/item?id=31404201"
+      "2022-05-16, 11:01:01",
+      "https://news.ycombinator.com/item?id=31395500"
     ],
     [
-      "Common libraries and data structures for C",
-      "https://github.com/tezc/sc"
+      "Making the Ruby interpreter run a program written in a natural language",
+      "https://dmitrytsepelev.dev/natural-language-programming-with-ruby"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31386121"
     ],
     [
-      "The Geometry of Polynomials",
+      "The Geometry of Polynomials (2018)",
       "https://cre8math.com/2018/03/17/the-geometry-of-polynomials/"
     ]
   ],
