@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want a small flagship Android phone](https://smallandroidphone.com/)
+* [2022-05-17, 14:19:26](https://news.ycombinator.com/item?id=31411067) - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-17, 13:51:00](https://news.ycombinator.com/item?id=31410617) - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
 * [2022-05-17, 13:00:25](https://news.ycombinator.com/item?id=31409870) - [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
@@ -16,7 +17,6 @@
 * [2022-05-17, 11:10:29](https://news.ycombinator.com/item?id=31408712) - [Arm Open Source makes a seamless migration to GitLab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
 * [2022-05-17, 10:32:41](https://news.ycombinator.com/item?id=31408431) - [Ask HN: How to break anxiety/fear-avoidance cycle?](https://news.ycombinator.com/item?id=31408431)
 * [2022-05-17, 09:42:44](https://news.ycombinator.com/item?id=31408059) - [Zitadel: The best of Auth0 and Keycloak combined](https://github.com/zitadel/zitadel)
-* [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79)
