@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
 * [2022-05-17, 17:44:08](https://news.ycombinator.com/item?id=31414044) - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
 * [2022-05-17, 17:01:09](https://news.ycombinator.com/item?id=31413502) - [Laylo (YC S20) is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
@@ -14,7 +15,6 @@
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-17, 13:51:00](https://news.ycombinator.com/item?id=31410617) - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
 * [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
-* [2022-05-17, 13:00:25](https://news.ycombinator.com/item?id=31409870) - [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
 * [2022-05-17, 12:33:28](https://news.ycombinator.com/item?id=31409566) - [AI recognition of patient race in medical imaging: a modelling study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext)
 * [2022-05-17, 12:08:17](https://news.ycombinator.com/item?id=31409273) - [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
 * [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
@@ -22,12 +22,12 @@
 * [2022-05-17, 11:43:02](https://news.ycombinator.com/item?id=31409010) - [Using a Linux phone as a secondary monitor](https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/)
 * [2022-05-17, 11:12:06](https://news.ycombinator.com/item?id=31408726) - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
 * [2022-05-17, 11:10:29](https://news.ycombinator.com/item?id=31408712) - [Arm Open Source makes a seamless migration to GitLab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
-* [2022-05-17, 10:23:55](https://news.ycombinator.com/item?id=31408364) - [Coinbase announces it will slow down hiring](https://blog.coinbase.com/employee-note-an-update-on-hiring-plans-507ea4e2b6cf)
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems and the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC charges Nvidia with inadequate disclosures about impact of cryptomining](https://www.sec.gov/news/press-release/2022-79)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a break from social media makes you happier and less anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
 * [2022-05-15, 22:50:43](https://news.ycombinator.com/item?id=31391933) - [I finally got Twitter after years of not getting it](https://martinboss.com/how-to-twitter-martin-way/)
+* [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
 * [2022-05-15, 07:57:59](https://news.ycombinator.com/item?id=31386033) - [Intel can’t grow profits in a global chip shortage](https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877)
 * [2022-05-14, 17:57:45](https://news.ycombinator.com/item?id=31380555) - [A Minsky moment for venture capital?](https://www.ft.com/content/077de7e3-e4e3-49d5-8a76-3cbbc4f492f5)
 

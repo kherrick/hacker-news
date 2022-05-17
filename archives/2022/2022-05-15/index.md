@@ -71,6 +71,7 @@
 * [2022-05-15, 10:07:47](https://news.ycombinator.com/item?id=31386537) - [Reducing Cognitive Load in Agile DevOps Teams Using Team Topologies](https://www.infoq.com/articles/reduce-cognitive-load-devops-teams/)
 * [2022-05-15, 10:06:42](https://news.ycombinator.com/item?id=31386533) - [Ask HN: Free and open source distributed database written in C++ or C](https://news.ycombinator.com/item?id=31386533)
 * [2022-05-15, 10:03:19](https://news.ycombinator.com/item?id=31386516) - [The operational relational schema paradigm](https://planetscale.com/blog/the-operational-relational-schema-paradigm)
+* [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
 * [2022-05-15, 09:54:23](https://news.ycombinator.com/item?id=31386483) - [Ask HN: Is There Hope for Micropayments?](https://news.ycombinator.com/item?id=31386483)
 * [2022-05-15, 09:37:48](https://news.ycombinator.com/item?id=31386419) - [The BepiColombo ‘model’: looking beyond the ‘original’](http://journal.sciencemuseum.ac.uk/browse/issue-17/bepicolumbo/)
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [SQLite cron-based backup (alternative to Litestream for simpler usecases)](https://litestream.io/alternatives/cron/)
