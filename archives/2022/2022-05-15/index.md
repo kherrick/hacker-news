@@ -61,6 +61,7 @@
 * [2022-05-15, 11:59:47](https://news.ycombinator.com/item?id=31387035) - [Observability Is Not Only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres)
 * [2022-05-15, 11:56:36](https://news.ycombinator.com/item?id=31387019) - [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
 * [2022-05-15, 11:14:05](https://news.ycombinator.com/item?id=31386819) - [Open Source Calendly Alternative](https://www.meetsy.xyz/)
+* [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
 * [2022-05-15, 10:57:14](https://news.ycombinator.com/item?id=31386739) - [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
 * [2022-05-15, 10:28:15](https://news.ycombinator.com/item?id=31386626) - [Distributed Tracing: The Why, What, and How?](https://blog.techlanika.com/distributed-tracing-the-why-what-and-how-ab9ca9e40081)
 * [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
