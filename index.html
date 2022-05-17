@@ -129,6 +129,114 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31410688">
+          <h3>
+            <a class="item" href="https://github.com/infrahq/infra"
+              >Launch HN: Infra (YC W21) – Open-source access management for
+              Kubernetes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-05-17 @ 13:55:34</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31410688"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/infrahq/infra"
+                >https://github.com/infrahq/infra</a
+              >). Infra is a tool for managing access to cloud infrastructure.
+              We’re starting with Kubernetes and have a roadmap to support
+              Postgres, SSH and much more.
+              <p>
+                Michael and I were the co-founders of Kitematic, an easy way to
+                run Docker on the desktop. We sold the company to Docker and
+                built Docker Desktop while there. After that, we worked on Infra
+                App, a Kubernetes client for Mac, Windows and Linux. Between
+                what users told us and our time at Docker, it became obvious
+                that managing infrastructure access was becoming increasingly
+                painful.
+              </p>
+              <p>
+                Many larger teams don’t give access to developers, while smaller
+                teams often just grant admin access to everyone. Teams in
+                between either build extensive tooling in-house (e.g. Segment’s
+                Access Service), or they end up spending a lot of time manually
+                onboarding and offboarding team members with the right
+                permissions. We wanted to help teams securely distribute access
+                using the principles of least privilege to their infrastructure
+                systems without managing certificates, keys or integrations with
+                identity providers.
+              </p>
+              <p>
+                With Infra, access is granted or revoked via an API or CLI, and
+                in the background, Infra takes care of provisioning users &amp;
+                groups with the right permissions no matter where the cluster is
+                hosted (EKS, GKE, AKS, or other managed/self-hosted Kubernetes
+                clusters). When users need access, Infra distributes short-lived
+                credentials that expire after a short period. For larger teams,
+                Infra integrates with identity providers like Okta to
+                automatically give access via existing accounts.
+              </p>
+              <p>
+                Credentials are signed and verified by a central root of trust
+                with a short time to live, so they are easily revoked or rotated
+                when necessary. Infra doesn’t rely on a single point of failure.
+                Other tools in this space use a centralized proxy to verify
+                credentials, whereas Infra instead verifies them at the
+                destination infrastructure. Access continues to work should
+                Infra’s API or the configured identity provider go down
+                temporarily. For clusters hosted in different regions, this
+                means users won’t suffer from slow connections from being
+                proxied.
+              </p>
+              <p>
+                Infra is a lightweight service written in Go, uses &lt;100MB
+                memory at rest, and is deployed by default with SQLite.
+              </p>
+              <p>
+                There are a few existing tools that solve infrastructure access
+                management, but they are sold directly to directors of
+                engineering or security teams and can’t be easily deployed by
+                smaller teams without an expensive sales contract. We set out to
+                build a product that teams of any size can pick up, self-host,
+                deploy and build custom tooling on top of without fretting about
+                a sales conversation.
+              </p>
+              <p>
+                Our GitHub repo is at
+                <a href="https://github.com/infrahq/infra"
+                  >https://github.com/infrahq/infra</a
+                >
+                which contains the full product that can be self-hosted via
+                Docker or Kubernetes. We plan to make money by running a managed
+                service version of Infra so teams don’t need to host and upgrade
+                Infra manually. We don’t have pricing for this yet but will
+                charge in a way that scales with usage, so even smaller teams
+                (&lt;10) can use it.
+              </p>
+              <p>
+                Our team includes an early VMware employee whose work is used in
+                all VMware ESXi installs, an engineer from Hashicorp who was a
+                large contributor to Consul, the original developer evangelist
+                from Datadog, and the engineer who built 1Password’s cloud
+                service, 1Password for teams.
+              </p>
+              <p>
+                We started building Infra a year ago and have been quietly
+                iterating on it with a few teams of various sizes, ranging from
+                5 developers to public companies. We’re so happy to be able to
+                share it with you and can’t wait to hear your feedback and
+                thoughts!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="31409870">
           <h3>
             <a class="item" href="https://docs.lunchboxjs.com/"
@@ -139,7 +247,7 @@
             <h4>
               <span>2022-05-17 @ 13:00:25</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409870"
                   >Comments</a
@@ -159,11 +267,11 @@
             <h4>
               <span>2022-05-17 @ 12:42:06</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409664"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
             <div class="text">
@@ -211,11 +319,11 @@
             <h4>
               <span>2022-05-17 @ 12:08:17</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409273"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -294,11 +402,11 @@
             <h4>
               <span>2022-05-17 @ 11:52:44</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409100"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
             <div class="text">
@@ -348,11 +456,11 @@
             <h4>
               <span>2022-05-17 @ 11:49:50</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409077"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
             <div class="text">
@@ -446,11 +554,11 @@
             <h4>
               <span>2022-05-17 @ 11:47:09</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409044"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -467,11 +575,11 @@
             <h4>
               <span>2022-05-17 @ 11:43:02</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31409010"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -489,11 +597,11 @@
             <h4>
               <span>2022-05-17 @ 11:24:53</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31408841"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -510,11 +618,11 @@
             <h4>
               <span>2022-05-17 @ 11:12:06</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31408726"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -531,11 +639,11 @@
             <h4>
               <span>2022-05-17 @ 11:10:29</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31408712"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -550,11 +658,11 @@
             <h4>
               <span>2022-05-17 @ 10:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31408431"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
             <div class="text">
@@ -582,11 +690,11 @@
             <h4>
               <span>2022-05-17 @ 09:42:44</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31408059"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -603,11 +711,11 @@
             <h4>
               <span>2022-05-17 @ 09:29:28</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31407957"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -625,11 +733,11 @@
             <h4>
               <span>2022-05-17 @ 09:09:16</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31407781"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -644,11 +752,11 @@
             <h4>
               <span>2022-05-17 @ 08:49:19</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31407650"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -666,11 +774,11 @@
             <h4>
               <span>2022-05-17 @ 08:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31407528"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -688,11 +796,11 @@
             <h4>
               <span>2022-05-17 @ 08:12:16</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31407397"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 131</span></span
               >
             </h4>
           </section>
@@ -707,11 +815,11 @@
             <h4>
               <span>2022-05-17 @ 06:42:56</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31406802"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -728,11 +836,11 @@
             <h4>
               <span>2022-05-17 @ 05:14:38</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31406295"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -748,11 +856,11 @@
             <h4>
               <span>2022-05-17 @ 04:00:16</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31405890"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -770,11 +878,11 @@
             <h4>
               <span>2022-05-17 @ 03:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">503</span></span
+                >Points: <span class="points">522</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31405859"
                   >Comments</a
-                ><span class="descendants">: 344</span></span
+                ><span class="descendants">: 362</span></span
               >
             </h4>
           </section>
@@ -791,11 +899,11 @@
             <h4>
               <span>2022-05-17 @ 02:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31405434"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -812,11 +920,11 @@
             <h4>
               <span>2022-05-17 @ 02:15:18</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31405348"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -831,11 +939,11 @@
             <h4>
               <span>2022-05-16 @ 23:19:17</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">294</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31404201"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -852,32 +960,11 @@
             <h4>
               <span>2022-05-15 @ 23:22:29</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31392145"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31386164">
-          <h3>
-            <a
-              class="item"
-              href="https://www.unite.ai/assessing-the-historical-accuracy-of-imagenet/"
-              >Assessing the Historical Accuracy of ImageNet</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-05-15 @ 08:34:25</span
-              ><span class="points-container"
-                >Points: <span class="points">7</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31386164"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -894,11 +981,11 @@
             <h4>
               <span>2022-05-15 @ 08:23:02</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31386121"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -913,11 +1000,11 @@
             <h4>
               <span>2022-05-15 @ 02:15:38</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31384676"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -934,11 +1021,11 @@
             <h4>
               <span>2022-05-14 @ 04:59:26</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31375216"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
