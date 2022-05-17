@@ -20,7 +20,6 @@
 * [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 * [2022-05-17, 12:08:17](https://news.ycombinator.com/item?id=31409273) - [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
 * [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
-* [2022-05-17, 11:47:09](https://news.ycombinator.com/item?id=31409044) - [Unsolved problems in economics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics)
 * [2022-05-17, 11:43:02](https://news.ycombinator.com/item?id=31409010) - [Using a Linux phone as a secondary monitor](https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/)
 * [2022-05-17, 11:12:06](https://news.ycombinator.com/item?id=31408726) - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
 * [2022-05-17, 11:10:29](https://news.ycombinator.com/item?id=31408712) - [Arm Open Source makes a seamless migration to GitLab](https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/)
@@ -29,6 +28,7 @@
 * [2022-05-16, 00:06:32](https://news.ycombinator.com/item?id=31392447) - [So you want to run a virtual event](https://blog.lazerwalker.com/2022/05/10/virtual-events.html)
 * [2022-05-15, 22:50:43](https://news.ycombinator.com/item?id=31391933) - [I finally got Twitter after years of not getting it](https://martinboss.com/how-to-twitter-martin-way/)
 * [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
+* [2022-05-15, 05:54:26](https://news.ycombinator.com/item?id=31385554) - [Fast Lane to Learning R](https://github.com/matloff/fasteR)
 * [2022-05-14, 19:39:15](https://news.ycombinator.com/item?id=31381563) - [Picasso's self portrait evolution from age 15 to age 90](https://rarehistoricalphotos.com/picasso-self-portraits-photos/)
 
 ## [Archives](archives/index.md)

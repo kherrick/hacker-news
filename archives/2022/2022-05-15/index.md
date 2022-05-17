@@ -89,6 +89,7 @@
 * [2022-05-15, 06:48:09](https://news.ycombinator.com/item?id=31385729) - [Symbolics.com – The first and oldest registered .com on the Internet](https://symbolics.com/)
 * [2022-05-15, 06:42:44](https://news.ycombinator.com/item?id=31385711) - [Illuminating the Security Issues Surrounding Lights-Out Server Management (2013) [pdf]](https://www.usenix.org/system/files/conference/woot13/woot13-bonkoski_0.pdf)
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
+* [2022-05-15, 05:54:26](https://news.ycombinator.com/item?id=31385554) - [Fast Lane to Learning R](https://github.com/matloff/fasteR)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:59:55](https://news.ycombinator.com/item?id=31385155) - [XOS Electric Trucks](https://xostrucks.com/)
