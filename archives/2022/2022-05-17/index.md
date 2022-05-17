@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 06:42:56](https://news.ycombinator.com/item?id=31406802) - [Earth Overshoot Day](https://www.overshootday.org/)
+* [2022-05-17, 05:59:29](https://news.ycombinator.com/item?id=31406521) - [Investors pull $7bn from Tether as stablecoin jitters intensify](https://www.ft.com/content/db9c3f32-cd91-4149-9788-95b2046bea10)
 * [2022-05-17, 05:14:38](https://news.ycombinator.com/item?id=31406295) - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
 * [2022-05-17, 04:17:01](https://news.ycombinator.com/item?id=31405976) - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
 * [2022-05-17, 04:00:52](https://news.ycombinator.com/item?id=31405896) - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
