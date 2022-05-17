@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
 * [2022-05-17, 08:31:26](https://news.ycombinator.com/item?id=31407528) - [Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away](https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79)
 * [2022-05-17, 08:04:40](https://news.ycombinator.com/item?id=31407348) - [Kitchens in the World, by Income per Month](https://www.gapminder.org/dollar-street?topic=kitchens)
