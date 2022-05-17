@@ -2,6 +2,7 @@
 
 * [2022-05-17, 21:01:12](https://news.ycombinator.com/item?id=31416225) - [Reviving Mind (YC W22) Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals(but were afraid to ask)](http://xn--rpa.cc/irl/term.html)
+* [2022-05-17, 20:12:20](https://news.ycombinator.com/item?id=31415725) - [Atmospheric Pollution from Rockets [PDF]](https://aip.scitation.org/doi/pdf/10.1063/5.0090017)
 * [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
 * [2022-05-17, 19:34:06](https://news.ycombinator.com/item?id=31415359) - [We’re All Working, All the Time: Workers Deserve the Right to Disconnect](https://novaramedia.com/2021/09/17/were-all-working-all-the-time/)
 * [2022-05-17, 19:15:29](https://news.ycombinator.com/item?id=31415152) - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
@@ -15,7 +16,6 @@
 * [2022-05-17, 15:49:07](https://news.ycombinator.com/item?id=31412440) - [Riot Games Tech Blog: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
 * [2022-05-17, 15:06:52](https://news.ycombinator.com/item?id=31411813) - [Using a \"proper\" camera as a webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
-* [2022-05-17, 14:19:26](https://news.ycombinator.com/item?id=31411067) - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 * [2022-05-17, 12:08:17](https://news.ycombinator.com/item?id=31409273) - [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
