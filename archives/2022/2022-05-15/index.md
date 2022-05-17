@@ -78,6 +78,7 @@
 * [2022-05-15, 08:23:02](https://news.ycombinator.com/item?id=31386121) - [The Geometry of Polynomials](https://cre8math.com/2018/03/17/the-geometry-of-polynomials/)
 * [2022-05-15, 08:17:57](https://news.ycombinator.com/item?id=31386108) - [ShadyURL: Don't just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
+* [2022-05-15, 07:57:59](https://news.ycombinator.com/item?id=31386033) - [Intel can’t grow profits in a global chip shortage – where did it all go wrong?](https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877)
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [\"Maybe a 3090 is already a human brain\" –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
 * [2022-05-15, 07:00:47](https://news.ycombinator.com/item?id=31385773) - [SigNoz (YC W21) Is Hiring First Product Designer](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2022-05-15, 07:00:36](https://news.ycombinator.com/item?id=31385770) - [Some online businesses thrived during lockdown – how are they doing now?](https://www.bbc.co.uk/news/business-61182406)
