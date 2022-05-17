@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-05-17, 12:56:48",
+      "https://news.ycombinator.com/item?id=31409828"
+    ],
+    [
+      "New Jersey bans paper bags. Who's writing these laws?",
+      "https://mleverything.substack.com/p/new-jersey-bans-paper-bags"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 12:42:06",
+      "https://news.ycombinator.com/item?id=31409664"
+    ],
+    [
+      "Tell HN: I probably spend more on piracy than if I just paid for content",
+      "https://news.ycombinator.com/item?id=31409664"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 12:33:28",
+      "https://news.ycombinator.com/item?id=31409566"
+    ],
+    [
+      "AI identifies race from xray, researchers don't know how",
+      "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 12:00:46",
       "https://news.ycombinator.com/item?id=31409182"
     ],
     [
       "Finley (YC W21) is hiring fintech software engineers (US remote)",
       "https://news.ycombinator.com/item?id=31409182"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 11:57:12",
-      "https://news.ycombinator.com/item?id=31409150"
-    ],
-    [
-      "I Am Long on Netscape (1999)",
-      "https://boards.fool.com/long-nscp-10517327.aspx?sort=whole#10517327"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Show HN: Bike – macOS Native Outliner",
       "https://www.hogbaysoftware.com/bike/"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 11:47:23",
-      "https://news.ycombinator.com/item?id=31409048"
-    ],
-    [
-      "ICCL report on the scale of RealTime Bidding data broadcast in the US and Europe",
-      "https://www.iccl.ie/digital-data/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2022-05-16, 23:23:10",
-      "https://news.ycombinator.com/item?id=31404238"
-    ],
-    [
-      "Sandboxie: Sandbox-based isolation software for Windows NT-based OS's",
-      "https://github.com/sandboxie-plus/Sandboxie"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 23:19:17",
       "https://news.ycombinator.com/item?id=31404201"
     ],
     [
       "Common libraries and data structures for C",
       "https://github.com/tezc/sc"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 22:03:04",
-      "https://news.ycombinator.com/item?id=31403676"
-    ],
-    [
-      "Computer work lying down comfortably with a home-made stand over the bed",
-      "https://www.cambridgeclarion.org/48.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "What does code readability mean? (2018)",
       "https://typicalprogrammer.com/what-does-code-readability-mean"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 08:34:25",
+      "https://news.ycombinator.com/item?id=31386164"
+    ],
+    [
+      "Assessing the Historical Accuracy of ImageNet",
+      "https://www.unite.ai/assessing-the-historical-accuracy-of-imagenet/"
     ]
   ],
   [
