@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-17, 08:31:26",
+      "https://news.ycombinator.com/item?id=31407528"
+    ],
+    [
+      "Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away",
+      "https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 08:12:16",
       "https://news.ycombinator.com/item?id=31407397"
     ],
     [
       "SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining",
       "https://www.sec.gov/news/press-release/2022-79"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 08:04:40",
+      "https://news.ycombinator.com/item?id=31407348"
+    ],
+    [
+      "Kitchens in the World, by Income per Month",
+      "https://www.gapminder.org/dollar-street?topic=kitchens"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "A Spanish teen’s genome may hold the secret to lupus",
       "https://www.freethink.com/health/genetic-cause-of-lupus"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 00:02:57",
-      "https://news.ycombinator.com/item?id=31404489"
-    ],
-    [
-      "Humans being confounded by color photography",
-      "https://www.laphamsquarterly.org/roundtable/new-look-same-great-look"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2022-05-16, 18:28:06",
-      "https://news.ycombinator.com/item?id=31401470"
-    ],
-    [
-      "Supercharging GitHub Actions with Job Summaries",
-      "https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 18:27:40",
       "https://news.ycombinator.com/item?id=31401467"
     ],
     [
       "Acoustic Keyboard Eavesdropping",
       "https://github.com/ggerganov/kbd-audio"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 17:37:14",
-      "https://news.ycombinator.com/item?id=31400812"
-    ],
-    [
-      "US Army's Land Trains (2020)",
-      "https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "What does code readability mean? (2018)",
       "https://typicalprogrammer.com/what-does-code-readability-mean"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 08:23:02",
+      "https://news.ycombinator.com/item?id=31386121"
+    ],
+    [
+      "The Geometry of Polynomials",
+      "https://cre8math.com/2018/03/17/the-geometry-of-polynomials/"
     ]
   ],
   [
