@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 04:17:01](https://news.ycombinator.com/item?id=31405976) - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
 * [2022-05-17, 02:31:52](https://news.ycombinator.com/item?id=31405434) - [Fasting boosts stem cells’ regenerative capacity (2018)](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
 * [2022-05-17, 02:17:29](https://news.ycombinator.com/item?id=31405366) - [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)

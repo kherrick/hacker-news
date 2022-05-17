@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 04:17:01](https://news.ycombinator.com/item?id=31405976) - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
 * [2022-05-17, 02:31:52](https://news.ycombinator.com/item?id=31405434) - [Fasting boosts stem cells’ regenerative capacity (2018)](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
 * [2022-05-17, 02:17:29](https://news.ycombinator.com/item?id=31405366) - [Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash](https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089)
@@ -24,11 +25,10 @@
 * [2022-05-16, 17:20:42](https://news.ycombinator.com/item?id=31400557) - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh)
 * [2022-05-16, 14:52:08](https://news.ycombinator.com/item?id=31398261) - [$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse](https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
-* [2022-05-16, 13:19:07](https://news.ycombinator.com/item?id=31396732) - [Wp-SQLite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-15, 19:42:15](https://news.ycombinator.com/item?id=31390371) - [Teaching GPT-3 to reverse words](https://twitter.com/npew/status/1525900849888866307)
 * [2022-05-15, 10:06:42](https://news.ycombinator.com/item?id=31386533) - [Ask HN: Free and open source distributed database written in C++ or C](https://news.ycombinator.com/item?id=31386533)
-* [2022-05-15, 07:00:36](https://news.ycombinator.com/item?id=31385770) - [Some online businesses thrived during lockdown – how are they doing now?](https://www.bbc.co.uk/news/business-61182406)
+* [2022-05-15, 06:48:09](https://news.ycombinator.com/item?id=31385729) - [Symbolics.com – The first and oldest registered .com on the Internet](https://symbolics.com/)
 * [2022-05-14, 18:40:19](https://news.ycombinator.com/item?id=31380969) - [Wrong by Default](https://kevincox.ca/2022/05/13/wrong-by-default/)
 
 ## [Archives](archives/index.md)
