@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
 * [2022-05-17, 08:31:26](https://news.ycombinator.com/item?id=31407528) - [Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away](https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/)
@@ -9,7 +10,6 @@
 * [2022-05-17, 05:14:38](https://news.ycombinator.com/item?id=31406295) - [Microsoft Opens New HQ in Toronto](https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/)
 * [2022-05-17, 04:00:52](https://news.ycombinator.com/item?id=31405896) - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 * [2022-05-17, 04:00:16](https://news.ycombinator.com/item?id=31405890) - [Wazero: The zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
-* [2022-05-17, 03:58:20](https://news.ycombinator.com/item?id=31405883) - [Judge: California’s women on boards law is unconstitutional](https://apnews.com/article/technology-government-and-politics-california-los-angeles-1ee602b76a4f9707c923a27da5805bcd)
 * [2022-05-17, 03:54:02](https://news.ycombinator.com/item?id=31405859) - [Taking a Break from Social Media Makes You Happier and Less Anxious](https://www.calnewport.com/blog/2022/05/16/taking-a-break-from-social-media-makes-you-happier-and-less-anxious/)
 * [2022-05-17, 02:31:52](https://news.ycombinator.com/item?id=31405434) - [Fasting boosts stem cells’ regenerative capacity (2018)](https://news.mit.edu/2018/fasting-boosts-stem-cells-regenerative-capacity-0503)
 * [2022-05-17, 02:15:18](https://news.ycombinator.com/item?id=31405348) - [A Spanish teen’s genome may hold the secret to lupus](https://www.freethink.com/health/genetic-cause-of-lupus)
@@ -20,7 +20,6 @@
 * [2022-05-16, 22:03:04](https://news.ycombinator.com/item?id=31403676) - [Computer work lying down comfortably with a home-made stand over the bed](https://www.cambridgeclarion.org/48.html)
 * [2022-05-16, 21:46:57](https://news.ycombinator.com/item?id=31403532) - [Inkscape 1.2 released](https://inkscape.org/release/inkscape-1.2/)
 * [2022-05-16, 21:43:52](https://news.ycombinator.com/item?id=31403504) - [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
-* [2022-05-16, 21:00:26](https://news.ycombinator.com/item?id=31403078) - [Join Jitx (YC S18) to invent algorithms that optimize electronic designs](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 * [2022-05-16, 20:03:45](https://news.ycombinator.com/item?id=31402558) - [Off-Grid Cyberdeck with RPI and Pelican Case](https://back7.co/home/raspberry-pi-recovery-kit)
 * [2022-05-16, 19:54:05](https://news.ycombinator.com/item?id=31402436) - [Living Worlds: 8 Bit art animated with palette cycling (2012)](http://www.effectgames.com/demos/worlds/)
 * [2022-05-16, 19:25:25](https://news.ycombinator.com/item?id=31402137) - [Meld for Macs](https://yousseb.github.io/meld/)
@@ -29,6 +28,7 @@
 * [2022-05-15, 13:50:47](https://news.ycombinator.com/item?id=31387552) - [Commodore 64 Chip Designer Interview: Albert Charpentier](https://www.youtube.com/watch?v=rs6J_PP7O7k)
 * [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
 * [2022-05-15, 08:23:02](https://news.ycombinator.com/item?id=31386121) - [The Geometry of Polynomials](https://cre8math.com/2018/03/17/the-geometry-of-polynomials/)
+* [2022-05-14, 21:42:35](https://news.ycombinator.com/item?id=31382859) - [Fame Fed on Edna St. Vincent Millay](https://www.newyorker.com/magazine/2022/05/16/how-fame-fed-on-edna-st-vincent-millay-diaries-rapture-melancholy)
 * [2022-05-14, 18:02:43](https://news.ycombinator.com/item?id=31380602) - [Operating During a Downturn [video]](https://www.youtube.com/watch?v=vBkzm4a7iY4)
 
 ## [Archives](archives/index.md)

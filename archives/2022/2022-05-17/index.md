@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
 * [2022-05-17, 08:31:26](https://news.ycombinator.com/item?id=31407528) - [Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away](https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/)

@@ -13,6 +13,7 @@
 * [2022-05-14, 22:37:37](https://news.ycombinator.com/item?id=31383373) - [The case for consolidation](https://benn.substack.com/p/case-for-consolidation)
 * [2022-05-14, 21:50:51](https://news.ycombinator.com/item?id=31382947) - [Human genetic engineering is coming](https://www.theglobeandmail.com/opinion/article-human-genetic-engineering-is-coming-we-must-discuss-the-social-and/)
 * [2022-05-14, 21:45:03](https://news.ycombinator.com/item?id=31382885) - [Dog digs up haul of medieval coins in Poland](https://notesfrompoland.com/2022/04/20/dog-digs-up-huge-haul-of-medieval-coins-in-poland/)
+* [2022-05-14, 21:42:35](https://news.ycombinator.com/item?id=31382859) - [Fame Fed on Edna St. Vincent Millay](https://www.newyorker.com/magazine/2022/05/16/how-fame-fed-on-edna-st-vincent-millay-diaries-rapture-melancholy)
 * [2022-05-14, 21:34:58](https://news.ycombinator.com/item?id=31382779) - [Weak links in finance and supply chains are easily weaponized](https://www.nature.com/articles/d41586-022-01254-5)
 * [2022-05-14, 21:24:14](https://news.ycombinator.com/item?id=31382663) - [KDE Connect Now Available on iOS](https://apps.apple.com/ca/app/kde-connect/id1580245991)
 * [2022-05-14, 21:04:01](https://news.ycombinator.com/item?id=31382414) - [OpenHistoricalMap: Designed to store and display map data throughout history](https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022)
