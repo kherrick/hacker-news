@@ -74,6 +74,7 @@
 * [2022-05-15, 09:37:48](https://news.ycombinator.com/item?id=31386419) - [The BepiColombo ‘model’: looking beyond the ‘original’](http://journal.sciencemuseum.ac.uk/browse/issue-17/bepicolumbo/)
 * [2022-05-15, 09:14:58](https://news.ycombinator.com/item?id=31386330) - [SQLite cron-based backup (alternative to Litestream for simpler usecases)](https://litestream.io/alternatives/cron/)
 * [2022-05-15, 08:43:52](https://news.ycombinator.com/item?id=31386211) - [Spam and Blogs = Trouble (2006)](https://www.wired.com/2006/09/splogs/)
+* [2022-05-15, 08:23:02](https://news.ycombinator.com/item?id=31386121) - [The Geometry of Polynomials](https://cre8math.com/2018/03/17/the-geometry-of-polynomials/)
 * [2022-05-15, 08:17:57](https://news.ycombinator.com/item?id=31386108) - [ShadyURL: Don't just shorten your URL, make it suspicious and frightening](http://shadyurl.com/)
 * [2022-05-15, 08:14:15](https://news.ycombinator.com/item?id=31386091) - [Communication consumes 35 times more energy than computation in the human cortex](https://www.pnas.org/doi/10.1073/pnas.2008173118)
 * [2022-05-15, 07:32:05](https://news.ycombinator.com/item?id=31385913) - [\"Maybe a 3090 is already a human brain\" –George Hotz](https://geohot.github.io//blog/jekyll/update/2022/02/17/brain-flops.html)
