@@ -8,6 +8,7 @@
 * [2022-05-17, 14:19:26](https://news.ycombinator.com/item?id=31411067) - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-17, 13:51:00](https://news.ycombinator.com/item?id=31410617) - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
+* [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 * [2022-05-17, 13:00:25](https://news.ycombinator.com/item?id=31409870) - [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
 * [2022-05-17, 12:56:48](https://news.ycombinator.com/item?id=31409828) - [New Jersey bans paper bags. Who's writing these laws?](https://mleverything.substack.com/p/new-jersey-bans-paper-bags)
 * [2022-05-17, 12:42:06](https://news.ycombinator.com/item?id=31409664) - [Tell HN: I probably spend more on piracy than if I just paid for content](https://news.ycombinator.com/item?id=31409664)
