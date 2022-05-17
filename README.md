@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
 * [2022-05-17, 08:31:26](https://news.ycombinator.com/item?id=31407528) - [Bluetooth relay attacks allow Tesla Model 3 / Y to be unlocked and driven away](https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining](https://www.sec.gov/news/press-release/2022-79)
@@ -23,9 +24,8 @@
 * [2022-05-16, 20:03:45](https://news.ycombinator.com/item?id=31402558) - [Off-Grid Cyberdeck with RPI and Pelican Case](https://back7.co/home/raspberry-pi-recovery-kit)
 * [2022-05-16, 19:54:05](https://news.ycombinator.com/item?id=31402436) - [Living Worlds: 8 Bit art animated with palette cycling (2012)](http://www.effectgames.com/demos/worlds/)
 * [2022-05-16, 19:25:25](https://news.ycombinator.com/item?id=31402137) - [Meld for Macs](https://yousseb.github.io/meld/)
-* [2022-05-16, 18:27:40](https://news.ycombinator.com/item?id=31401467) - [Acoustic Keyboard Eavesdropping](https://github.com/ggerganov/kbd-audio)
+* [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
 * [2022-05-15, 23:22:29](https://news.ycombinator.com/item?id=31392145) - [Surfing the Gopherspace](https://charlieharrington.com/surfing-the-gopherspace/)
-* [2022-05-15, 19:42:15](https://news.ycombinator.com/item?id=31390371) - [Teaching GPT-3 to reverse words](https://twitter.com/npew/status/1525900849888866307)
 * [2022-05-15, 13:50:47](https://news.ycombinator.com/item?id=31387552) - [Commodore 64 Chip Designer Interview: Albert Charpentier](https://www.youtube.com/watch?v=rs6J_PP7O7k)
 * [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
 * [2022-05-15, 08:23:02](https://news.ycombinator.com/item?id=31386121) - [The Geometry of Polynomials](https://cre8math.com/2018/03/17/the-geometry-of-polynomials/)
