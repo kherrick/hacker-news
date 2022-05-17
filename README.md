@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 10:32:41](https://news.ycombinator.com/item?id=31408431) - [Ask HN: How to break anxiety/fear-avoidance cycle?](https://news.ycombinator.com/item?id=31408431)
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems are here, let’s welcome them to the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:49:19](https://news.ycombinator.com/item?id=31407650) - [The Betrayal at Krondor Help Web](https://vga256.com/krondor/krondor.html)
@@ -22,7 +23,6 @@
 * [2022-05-16, 21:43:52](https://news.ycombinator.com/item?id=31403504) - [Custom made synth, audio and retro-gaming gear](https://www.lovehulten.com/)
 * [2022-05-16, 20:03:45](https://news.ycombinator.com/item?id=31402558) - [Off-Grid Cyberdeck with RPI and Pelican Case](https://back7.co/home/raspberry-pi-recovery-kit)
 * [2022-05-16, 19:54:05](https://news.ycombinator.com/item?id=31402436) - [Living Worlds: 8 Bit art animated with palette cycling (2012)](http://www.effectgames.com/demos/worlds/)
-* [2022-05-16, 19:25:25](https://news.ycombinator.com/item?id=31402137) - [Meld for Macs](https://yousseb.github.io/meld/)
 * [2022-05-16, 13:28:57](https://news.ycombinator.com/item?id=31396861) - [Correctness and composability bugs in the Julia ecosystem](https://yuri.is/not-julia/)
 * [2022-05-15, 23:22:29](https://news.ycombinator.com/item?id=31392145) - [Surfing the Gopherspace](https://charlieharrington.com/surfing-the-gopherspace/)
 * [2022-05-15, 13:50:47](https://news.ycombinator.com/item?id=31387552) - [Commodore 64 Chip Designer Interview: Albert Charpentier](https://www.youtube.com/watch?v=rs6J_PP7O7k)
