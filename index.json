@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-17, 00:05:44",
+      "https://news.ycombinator.com/item?id=31404504"
+    ],
+    [
+      "1M bartenders have to be certified in California by July 1",
+      "https://craftybartending.com/california-rbs/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 00:02:57",
+      "https://news.ycombinator.com/item?id=31404489"
+    ],
+    [
+      "Humans being confounded by color photography",
+      "https://www.laphamsquarterly.org/roundtable/new-look-same-great-look"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 23:23:10",
       "https://news.ycombinator.com/item?id=31404238"
     ],
@@ -21,12 +41,32 @@
   ],
   [
     [
+      "2022-05-16, 22:34:35",
+      "https://news.ycombinator.com/item?id=31403925"
+    ],
+    [
+      "Researchers Demo Bluetooth Relay Attack Against Tesla",
+      "https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems"
+    ]
+  ],
+  [
+    [
       "2022-05-16, 22:09:54",
       "https://news.ycombinator.com/item?id=31403726"
     ],
     [
       "Collection of Sun Workstation boot logos",
       "https://github.com/mdehling/sun-fb-logos"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 22:03:04",
+      "https://news.ycombinator.com/item?id=31403676"
+    ],
+    [
+      "Computer work lying down comfortably with a home-made stand over the bed",
+      "https://www.cambridgeclarion.org/48.html"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Request logging and web vitals for Vercel apps",
       "https://www.axiom.co/vercel"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 20:13:43",
-      "https://news.ycombinator.com/item?id=31402646"
-    ],
-    [
-      "FreeBSD 13.1",
-      "https://www.freebsd.org/releases/13.1R/relnotes/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2022-05-16, 16:15:47",
-      "https://news.ycombinator.com/item?id=31399580"
-    ],
-    [
-      "Court Ruling shows the GPL is both copyright license and contractual agreement",
-      "https://sfconservancy.org/news/2022/may/16/vizio-remand-win/"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 14:52:08",
       "https://news.ycombinator.com/item?id=31398261"
     ],
     [
       "$3B in Bitcoin was sold in a last-ditch attempt to save UST from collapse",
       "https://www.cnbc.com/2022/05/16/what-happened-to-the-bitcoin-reserve-behind-terras-ust-stablecoin.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 13:49:57",
-      "https://news.ycombinator.com/item?id=31397145"
-    ],
-    [
-      "OpenTelemetry Traces and PostgreSQL",
-      "https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/"
     ]
   ],
   [
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2022-05-16, 11:38:53",
-      "https://news.ycombinator.com/item?id=31395759"
-    ],
-    [
-      "In search of organic software",
-      "http://pketh.org/organic-software.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 10:08:38",
-      "https://news.ycombinator.com/item?id=31395231"
-    ],
-    [
-      "Almost all searches on my independent search engine are now from SEO spam bots",
-      "https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 19:42:15",
       "https://news.ycombinator.com/item?id=31390371"
     ],
     [
       "Teaching GPT-3 to reverse words",
       "https://twitter.com/npew/status/1525900849888866307"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 16:21:06",
+      "https://news.ycombinator.com/item?id=31388560"
+    ],
+    [
+      "Automating Road Maintenance with Lidar Technology",
+      "https://spectrum.ieee.org/sick-tim10k-challenge"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-05-15, 06:42:44",
-      "https://news.ycombinator.com/item?id=31385711"
-    ],
-    [
-      "Illuminating the Security Issues Surrounding Lights-Out Server Management (2013) [pdf]",
-      "https://www.usenix.org/system/files/conference/woot13/woot13-bonkoski_0.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-14, 19:59:57",
       "https://news.ycombinator.com/item?id=31381764"
     ],
     [
       "Mastering Dyalog APL (2009)",
       "https://www.dyalog.com/mastering-dyalog-apl.htm"
+    ]
+  ],
+  [
+    [
+      "2022-05-14, 18:48:09",
+      "https://news.ycombinator.com/item?id=31381048"
+    ],
+    [
+      "Food as Relationship (2008)",
+      "https://www.tandfonline.com/doi/full/10.1080/19320240802243134"
     ]
   ],
   [
