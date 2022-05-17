@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
 * [2022-05-17, 19:15:29](https://news.ycombinator.com/item?id=31415152) - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
 * [2022-05-17, 18:33:03](https://news.ycombinator.com/item?id=31414681) - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
 * [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
@@ -16,7 +17,6 @@
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-17, 13:51:00](https://news.ycombinator.com/item?id=31410617) - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
 * [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
-* [2022-05-17, 13:00:25](https://news.ycombinator.com/item?id=31409870) - [LunchboxJS – Vue 3/Three.js custom renderer](https://docs.lunchboxjs.com/)
 * [2022-05-17, 12:33:28](https://news.ycombinator.com/item?id=31409566) - [AI recognition of patient race in medical imaging: a modelling study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext)
 * [2022-05-17, 12:08:17](https://news.ycombinator.com/item?id=31409273) - [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
 * [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)

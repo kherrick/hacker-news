@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
 * [2022-05-17, 19:15:29](https://news.ycombinator.com/item?id=31415152) - [Dolphin Progress Report: February, March, and April 2022](https://dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/)
 * [2022-05-17, 18:33:03](https://news.ycombinator.com/item?id=31414681) - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
 * [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
