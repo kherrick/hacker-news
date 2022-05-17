@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-17, 06:42:56",
+      "https://news.ycombinator.com/item?id=31406802"
+    ],
+    [
+      "Earth Overshoot Day",
+      "https://www.overshootday.org/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 05:59:29",
+      "https://news.ycombinator.com/item?id=31406521"
+    ],
+    [
+      "Investors pull $7bn from Tether as stablecoin jitters intensify",
+      "https://www.ft.com/content/db9c3f32-cd91-4149-9788-95b2046bea10"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 05:14:38",
       "https://news.ycombinator.com/item?id=31406295"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-05-16, 18:28:06",
-      "https://news.ycombinator.com/item?id=31401470"
-    ],
-    [
-      "Supercharging GitHub Actions with Job Summaries",
-      "https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 18:27:40",
       "https://news.ycombinator.com/item?id=31401467"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2022-05-16, 13:28:57",
-      "https://news.ycombinator.com/item?id=31396861"
-    ],
-    [
-      "Correctness and composability bugs in the Julia ecosystem",
-      "https://yuri.is/not-julia/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 19:42:15",
       "https://news.ycombinator.com/item?id=31390371"
     ],
     [
       "Teaching GPT-3 to reverse words",
       "https://twitter.com/npew/status/1525900849888866307"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 13:50:47",
+      "https://news.ycombinator.com/item?id=31387552"
+    ],
+    [
+      "Commodore 64 Chip Designer Interview: Albert Charpentier",
+      "https://www.youtube.com/watch?v=rs6J_PP7O7k"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ask HN: Free and open source distributed database written in C++ or C",
       "https://news.ycombinator.com/item?id=31386533"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 18:02:43",
-      "https://news.ycombinator.com/item?id=31380602"
-    ],
-    [
-      "Operating During a Downturn [video]",
-      "https://www.youtube.com/watch?v=vBkzm4a7iY4"
     ]
   ]
 ]
