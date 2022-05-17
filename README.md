@@ -15,7 +15,6 @@
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
 * [2022-05-17, 14:19:26](https://news.ycombinator.com/item?id=31411067) - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
-* [2022-05-17, 13:51:00](https://news.ycombinator.com/item?id=31410617) - [Writing an Apple 2 game in 2021](https://nick.zoic.org/art/writing-an-apple-2-game-in-2021-1/)
 * [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 * [2022-05-17, 12:33:28](https://news.ycombinator.com/item?id=31409566) - [AI recognition of patient race in medical imaging: a modelling study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext)
 * [2022-05-17, 12:08:17](https://news.ycombinator.com/item?id=31409273) - [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
@@ -27,8 +26,9 @@
 * [2022-05-17, 09:29:28](https://news.ycombinator.com/item?id=31407957) - [Expert systems and the legal world](https://legaltechnology.com/2022/02/24/guest-post-expert-systems-are-here-lets-welcome-them-to-the-legal-world/)
 * [2022-05-17, 09:09:16](https://news.ycombinator.com/item?id=31407781) - [Obsidian Dataview: Turn Obsidian Vault into a database which you can query from](https://github.com/blacksmithgu/obsidian-dataview)
 * [2022-05-17, 08:12:16](https://news.ycombinator.com/item?id=31407397) - [SEC charges Nvidia with inadequate disclosures about impact of cryptomining](https://www.sec.gov/news/press-release/2022-79)
+* [2022-05-15, 22:50:43](https://news.ycombinator.com/item?id=31391933) - [I finally got Twitter after years of not getting it](https://martinboss.com/how-to-twitter-martin-way/)
+* [2022-05-15, 10:14:10](https://news.ycombinator.com/item?id=31386565) - [1MB – Easy Website Hosting and Blogging](https://1mb.co/)
 * [2022-05-15, 10:01:05](https://news.ycombinator.com/item?id=31386507) - [Thinking Machines – Introduction to Data Parallel Supercomputing (1989)](https://www.youtube.com/watch?v=f8NTHfMw_WA)
-* [2022-05-15, 07:57:59](https://news.ycombinator.com/item?id=31386033) - [Intel can’t grow profits in a global chip shortage](https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877)
 * [2022-05-14, 19:39:15](https://news.ycombinator.com/item?id=31381563) - [Picasso's self portrait evolution from age 15 to age 90](https://rarehistoricalphotos.com/picasso-self-portraits-photos/)
 
 ## [Archives](archives/index.md)

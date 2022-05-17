@@ -68,6 +68,7 @@
 * [2022-05-15, 10:57:14](https://news.ycombinator.com/item?id=31386739) - [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
 * [2022-05-15, 10:28:15](https://news.ycombinator.com/item?id=31386626) - [Distributed Tracing: The Why, What, and How?](https://blog.techlanika.com/distributed-tracing-the-why-what-and-how-ab9ca9e40081)
 * [2022-05-15, 10:26:36](https://news.ycombinator.com/item?id=31386619) - [Own Your Calendar and Contacts with OpenBSD, Baïkal, and FOSS Android](https://baak6.com/baikal-openbsd-fossdroid/)
+* [2022-05-15, 10:14:10](https://news.ycombinator.com/item?id=31386565) - [1MB – Easy Website Hosting and Blogging](https://1mb.co/)
 * [2022-05-15, 10:07:47](https://news.ycombinator.com/item?id=31386537) - [Reducing Cognitive Load in Agile DevOps Teams Using Team Topologies](https://www.infoq.com/articles/reduce-cognitive-load-devops-teams/)
 * [2022-05-15, 10:06:42](https://news.ycombinator.com/item?id=31386533) - [Ask HN: Free and open source distributed database written in C++ or C](https://news.ycombinator.com/item?id=31386533)
 * [2022-05-15, 10:03:19](https://news.ycombinator.com/item?id=31386516) - [The operational relational schema paradigm](https://planetscale.com/blog/the-operational-relational-schema-paradigm)
