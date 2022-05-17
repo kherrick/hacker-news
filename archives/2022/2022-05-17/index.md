@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 12:56:48](https://news.ycombinator.com/item?id=31409828) - [New Jersey bans paper bags. Who's writing these laws?](https://mleverything.substack.com/p/new-jersey-bans-paper-bags)
+* [2022-05-17, 12:42:06](https://news.ycombinator.com/item?id=31409664) - [Tell HN: I probably spend more on piracy than if I just paid for content](https://news.ycombinator.com/item?id=31409664)
+* [2022-05-17, 12:33:28](https://news.ycombinator.com/item?id=31409566) - [AI identifies race from xray, researchers don't know how](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00063-2/fulltext)
 * [2022-05-17, 12:00:46](https://news.ycombinator.com/item?id=31409182) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31409182)
 * [2022-05-17, 11:57:12](https://news.ycombinator.com/item?id=31409150) - [I Am Long on Netscape (1999)](https://boards.fool.com/long-nscp-10517327.aspx?sort=whole#10517327)
 * [2022-05-17, 11:52:44](https://news.ycombinator.com/item?id=31409100) - [Ask HN: Cloudflare broke my domain's DNSSEC making it unreachable since 4 days](https://news.ycombinator.com/item?id=31409100)
