@@ -81,3 +81,4 @@
 * [2022-05-16, 03:48:24](https://news.ycombinator.com/item?id=31393501) - [Coloring computers: non-electronic computers that work when you color them acco](https://ipfs.io/ipfs/QmYz7DPRWypGQcbAHr7Mi8EKB6ntSPsEnUsCXbAhBiHQZP/)
 * [2022-05-16, 03:33:32](https://news.ycombinator.com/item?id=31393437) - [Ask HN: Can you share websites that are pushing the utility of browsers forward?](https://news.ycombinator.com/item?id=31393437)
 * [2022-05-16, 02:07:35](https://news.ycombinator.com/item?id=31393104) - [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
+* [2022-05-16, 00:06:32](https://news.ycombinator.com/item?id=31392447) - [So you want to run a virtual event](https://blog.lazerwalker.com/2022/05/10/virtual-events.html)
