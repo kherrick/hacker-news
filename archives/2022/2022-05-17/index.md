@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
 * [2022-05-17, 22:25:02](https://news.ycombinator.com/item?id=31416987) - [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
+* [2022-05-17, 22:04:41](https://news.ycombinator.com/item?id=31416843) - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 * [2022-05-17, 21:59:59](https://news.ycombinator.com/item?id=31416795) - [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
 * [2022-05-17, 21:01:12](https://news.ycombinator.com/item?id=31416225) - [Reviving Mind (YC W22) Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals(but were afraid to ask)](http://xn--rpa.cc/irl/term.html)

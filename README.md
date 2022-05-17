@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-17, 22:25:02](https://news.ycombinator.com/item?id=31416987) - [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
+* [2022-05-17, 22:04:41](https://news.ycombinator.com/item?id=31416843) - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 * [2022-05-17, 21:59:59](https://news.ycombinator.com/item?id=31416795) - [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
 * [2022-05-17, 21:01:12](https://news.ycombinator.com/item?id=31416225) - [Reviving Mind (YC W22) Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
@@ -21,7 +22,6 @@
 * [2022-05-17, 13:13:34](https://news.ycombinator.com/item?id=31410042) - [Uncurled – running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 * [2022-05-17, 12:08:17](https://news.ycombinator.com/item?id=31409273) - [My Unholy Battle with a Rock64](https://artemis.sh/2022/05/16/everfrees-armferno.html)
 * [2022-05-17, 11:49:50](https://news.ycombinator.com/item?id=31409077) - [Show HN: Bike – macOS Native Outliner](https://www.hogbaysoftware.com/bike/)
-* [2022-05-17, 11:43:02](https://news.ycombinator.com/item?id=31409010) - [Using a Linux phone as a secondary monitor](https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/)
 * [2022-05-17, 11:12:06](https://news.ycombinator.com/item?id=31408726) - [The impact of digital media on children’s intelligence](https://www.nature.com/articles/s41598-022-11341-2)
 * [2022-05-16, 02:07:35](https://news.ycombinator.com/item?id=31393104) - [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
 * [2022-05-16, 00:06:32](https://news.ycombinator.com/item?id=31392447) - [So you want to run a virtual event](https://blog.lazerwalker.com/2022/05/10/virtual-events.html)
