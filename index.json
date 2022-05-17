@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-05-17, 12:00:46",
+      "https://news.ycombinator.com/item?id=31409182"
+    ],
+    [
+      "Finley (YC W21) is hiring fintech software engineers (US remote)",
+      "https://news.ycombinator.com/item?id=31409182"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 11:57:12",
+      "https://news.ycombinator.com/item?id=31409150"
+    ],
+    [
+      "I Am Long on Netscape (1999)",
+      "https://boards.fool.com/long-nscp-10517327.aspx?sort=whole#10517327"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 11:52:44",
+      "https://news.ycombinator.com/item?id=31409100"
+    ],
+    [
+      "Ask HN: Cloudflare broke my domain's DNSSEC making it unreachable since 4 days",
+      "https://news.ycombinator.com/item?id=31409100"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 11:49:50",
+      "https://news.ycombinator.com/item?id=31409077"
+    ],
+    [
+      "Show HN: Bike – macOS Native Outliner",
+      "https://www.hogbaysoftware.com/bike/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 11:47:23",
+      "https://news.ycombinator.com/item?id=31409048"
+    ],
+    [
+      "ICCL report on the scale of RealTime Bidding data broadcast in the US and Europe",
+      "https://www.iccl.ie/digital-data/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 11:47:09",
+      "https://news.ycombinator.com/item?id=31409044"
+    ],
+    [
+      "Unsolved Problems in Economics",
+      "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 11:43:02",
+      "https://news.ycombinator.com/item?id=31409010"
+    ],
+    [
+      "Using a Linux phone as a secondary monitor",
+      "https://tuxphones.com/howto-linux-as-second-wireless-display-for-linux/"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 11:24:53",
       "https://news.ycombinator.com/item?id=31408841"
     ],
@@ -37,6 +107,16 @@
     [
       "Ask HN: How to break anxiety/fear-avoidance cycle?",
       "https://news.ycombinator.com/item?id=31408431"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 09:42:44",
+      "https://news.ycombinator.com/item?id=31408059"
+    ],
+    [
+      "Zitadel: The best of Auth0 and Keycloak combined",
+      "https://github.com/zitadel/zitadel"
     ]
   ],
   [
@@ -87,26 +167,6 @@
     [
       "SEC Charges Nvidia with Inadequate Disclosures about Impact of Cryptomining",
       "https://www.sec.gov/news/press-release/2022-79"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 06:42:56",
-      "https://news.ycombinator.com/item?id=31406802"
-    ],
-    [
-      "Earth Overshoot Day",
-      "https://www.overshootday.org/"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 05:14:38",
-      "https://news.ycombinator.com/item?id=31406295"
-    ],
-    [
-      "Microsoft Opens New HQ in Toronto",
-      "https://techbomb.ca/canadian-business/microsoft-opens-new-hq-in-toronto/"
     ]
   ],
   [
@@ -181,26 +241,6 @@
   ],
   [
     [
-      "2022-05-16, 22:34:35",
-      "https://news.ycombinator.com/item?id=31403925"
-    ],
-    [
-      "Researchers demo Bluetooth relay attack against Tesla",
-      "https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 22:09:54",
-      "https://news.ycombinator.com/item?id=31403726"
-    ],
-    [
-      "Collection of Sun Workstation boot logos",
-      "https://github.com/mdehling/sun-fb-logos"
-    ]
-  ],
-  [
-    [
       "2022-05-16, 22:03:04",
       "https://news.ycombinator.com/item?id=31403676"
     ],
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2022-05-16, 21:46:57",
-      "https://news.ycombinator.com/item?id=31403532"
-    ],
-    [
-      "Inkscape 1.2 released",
-      "https://inkscape.org/release/inkscape-1.2/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 21:43:52",
-      "https://news.ycombinator.com/item?id=31403504"
-    ],
-    [
-      "Custom made synth, audio and retro-gaming gear",
-      "https://www.lovehulten.com/"
-    ]
-  ],
-  [
-    [
       "2022-05-15, 23:22:29",
       "https://news.ycombinator.com/item?id=31392145"
     ],
     [
       "Surfing the Gopherspace",
       "https://charlieharrington.com/surfing-the-gopherspace/"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 13:50:47",
-      "https://news.ycombinator.com/item?id=31387552"
-    ],
-    [
-      "Commodore 64 Chip Designer Interview: Albert Charpentier",
-      "https://www.youtube.com/watch?v=rs6J_PP7O7k"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-05-14, 21:42:35",
-      "https://news.ycombinator.com/item?id=31382859"
+      "2022-05-15, 02:15:38",
+      "https://news.ycombinator.com/item?id=31384676"
     ],
     [
-      "Fame Fed on Edna St. Vincent Millay",
-      "https://www.newyorker.com/magazine/2022/05/16/how-fame-fed-on-edna-st-vincent-millay-diaries-rapture-melancholy"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 18:02:43",
-      "https://news.ycombinator.com/item?id=31380602"
-    ],
-    [
-      "Operating During a Downturn [video]",
-      "https://www.youtube.com/watch?v=vBkzm4a7iY4"
+      "Show HN: Simple Wave Function Collapse",
+      "https://github.com/victorqribeiro/simpleWFC"
     ]
   ],
   [
