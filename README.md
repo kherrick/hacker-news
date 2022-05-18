@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 19:08:32](https://news.ycombinator.com/item?id=31426449) - [SBF’s $12M Long Shot](https://puck.news/inside-s-b-f-s-12-million-long-shot/)
 * [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
 * [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 * [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
@@ -27,7 +28,6 @@
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Oauth2 support for GMail](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-16, 15:12:40](https://news.ycombinator.com/item?id=31398622) - [What rocks teach us about the human condition](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/the-book-of-unconformities-hugh-raffles-review)
-* [2022-05-16, 09:11:28](https://news.ycombinator.com/item?id=31394897) - [Giving Digital History a History (2021)](http://www.trevorowens.org/2021/05/giving-digital-history-a-history/)
 * [2022-05-16, 00:43:47](https://news.ycombinator.com/item?id=31392645) - [A new career in software development: advice for non-youngsters](https://shape-of-code.com/2022/05/15/a-new-career-in-software-development-advice-for-non-youngsters/)
 * [2022-05-15, 11:52:26](https://news.ycombinator.com/item?id=31386994) - [The tech sector teardown is more catharsis than crisis](https://www.ft.com/content/6a137523-26d5-4285-8b98-c273f1fb6d1a)
 
