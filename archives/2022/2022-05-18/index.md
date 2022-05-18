@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
+* [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 * [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
 * [2022-05-18, 17:04:58](https://news.ycombinator.com/item?id=31425121) - [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
 * [2022-05-18, 17:04:44](https://news.ycombinator.com/item?id=31425115) - [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
+* [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 * [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
 * [2022-05-18, 17:04:58](https://news.ycombinator.com/item?id=31425121) - [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
 * [2022-05-18, 17:04:44](https://news.ycombinator.com/item?id=31425115) - [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)
@@ -18,8 +20,6 @@
 * [2022-05-18, 14:02:03](https://news.ycombinator.com/item?id=31422884) - [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
 * [2022-05-18, 13:47:34](https://news.ycombinator.com/item?id=31422718) - [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
 * [2022-05-18, 12:33:02](https://news.ycombinator.com/item?id=31421961) - [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
-* [2022-05-18, 12:22:13](https://news.ycombinator.com/item?id=31421858) - [Show HN: Open-source Firebase Alternative? It's here](https://github.com/appwrite/appwrite/discussions/3240)
-* [2022-05-18, 12:17:57](https://news.ycombinator.com/item?id=31421815) - [Why Google is so unbearable, and how to fix it](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
 * [2022-05-18, 12:14:26](https://news.ycombinator.com/item?id=31421797) - [Formalising Gödel's incompleteness theorems, I](https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html)
 * [2022-05-18, 12:07:56](https://news.ycombinator.com/item?id=31421745) - [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
 * [2022-05-18, 11:25:23](https://news.ycombinator.com/item?id=31421428) - [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
