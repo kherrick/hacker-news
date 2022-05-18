@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-18, 17:42:48",
+      "https://news.ycombinator.com/item?id=31425523"
+    ],
+    [
+      "Google's Subsea Fiber Optics",
+      "https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 17:04:58",
       "https://news.ycombinator.com/item?id=31425121"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31425069"
     ],
     [
-      "Hyper (YC S21) Is Hiring a Senior Back end Engineer to build mobile avatar tools",
+      "Hyper (YC S21) is hiring a senior back end engineer to build mobile avatar tools",
       "https://www.ycombinator.com/companies/hyper-online/jobs/EwWvbln-sr-backend-engineer"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31424237"
     ],
     [
-      "The Future of Search Is Boutique",
+      "The future of search is boutique",
       "https://future.a16z.com/the-future-of-search-is-boutique/"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-05-18, 14:12:48",
-      "https://news.ycombinator.com/item?id=31423027"
-    ],
-    [
-      "Erlang/OTP 25 has been released",
-      "http://erlang.org/pipermail/erlang-announce/2022-May/000208.html"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 14:02:03",
       "https://news.ycombinator.com/item?id=31422884"
     ],
@@ -167,6 +167,16 @@
     [
       "Thoughts on OKRs",
       "https://joeblu.com/blog/2022_05_okrs/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 12:33:02",
+      "https://news.ycombinator.com/item?id=31421961"
+    ],
+    [
+      "Erlang/OTP 25.0 Release",
+      "https://www.erlang.org/news/157"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Git ignores .gitignore with .gitignore in .gitignore",
       "https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 12:01:41",
-      "https://news.ycombinator.com/item?id=31395947"
-    ],
-    [
-      "Systems, Mistakes, and the Sea (2019)",
-      "https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/"
     ]
   ],
   [
