@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-18, 07:39:10](https://news.ycombinator.com/item?id=31420182) - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 * [2022-05-18, 07:18:54](https://news.ycombinator.com/item?id=31420073) - [Comparing Graviton (ARM) Performance to Intel and AMD for MySQL](https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/)
@@ -17,7 +18,6 @@
 * [2022-05-17, 23:45:16](https://news.ycombinator.com/item?id=31417554) - [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 * [2022-05-17, 22:25:02](https://news.ycombinator.com/item?id=31416987) - [Plagiarized in a plagiarism atonement essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
 * [2022-05-17, 22:04:41](https://news.ycombinator.com/item?id=31416843) - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
-* [2022-05-17, 21:59:59](https://news.ycombinator.com/item?id=31416795) - [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
 * [2022-05-17, 20:46:46](https://news.ycombinator.com/item?id=31416098) - [NaturalSpeech: End-to-end text to speech synthesis with human-level quality](https://speechresearch.github.io/naturalspeech/)
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
 * [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-18, 07:39:10](https://news.ycombinator.com/item?id=31420182) - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 * [2022-05-18, 07:18:54](https://news.ycombinator.com/item?id=31420073) - [Comparing Graviton (ARM) Performance to Intel and AMD for MySQL](https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/)
