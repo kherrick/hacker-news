@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 01:57:30](https://news.ycombinator.com/item?id=31418446) - [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
+* [2022-05-18, 01:17:53](https://news.ycombinator.com/item?id=31418208) - [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
 * [2022-05-18, 00:48:48](https://news.ycombinator.com/item?id=31417993) - [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
 * [2022-05-18, 00:27:31](https://news.ycombinator.com/item?id=31417839) - [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
 * [2022-05-18, 00:10:13](https://news.ycombinator.com/item?id=31417733) - [Princeton Prepares to Axe Star Professor](https://freebeacon.com/campus/double-jeopardy-princeton-prepares-to-axe-star-professor-who-raised-hell-over-woke-lunacy/)

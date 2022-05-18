@@ -37,6 +37,7 @@
 * [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 * [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)
+* [2022-05-15, 16:33:09](https://news.ycombinator.com/item?id=31388667) - [NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)](https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html)
 * [2022-05-15, 16:21:06](https://news.ycombinator.com/item?id=31388560) - [Automating Road Maintenance with Lidar Technology](https://spectrum.ieee.org/sick-tim10k-challenge)
 * [2022-05-15, 16:14:21](https://news.ycombinator.com/item?id=31388500) - [Apollo Spacecraft Premodulation Processor Teardown](https://twitter.com/kenshirriff/status/1525134870179094528)
 * [2022-05-15, 16:13:03](https://news.ycombinator.com/item?id=31388490) - [A man-eating tiger's 'vengeance' (2010)](https://www.npr.org/templates/story/story.php?storyId=129551459)
