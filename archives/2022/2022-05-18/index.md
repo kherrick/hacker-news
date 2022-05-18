@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
+* [2022-05-18, 15:50:35](https://news.ycombinator.com/item?id=31424237) - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique/)
 * [2022-05-18, 15:44:41](https://news.ycombinator.com/item?id=31424170) - [Got sick of job screeners, so I made my own employer questionnaire](https://limadrive.com/assessment/)
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 * [2022-05-18, 15:03:55](https://news.ycombinator.com/item?id=31423681) - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)

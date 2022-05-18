@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-18, 15:44:41](https://news.ycombinator.com/item?id=31424170) - [Got sick of job screeners, so I made my own employer questionnaire](https://limadrive.com/assessment/)
+* [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
+* [2022-05-18, 15:50:35](https://news.ycombinator.com/item?id=31424237) - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique/)
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 * [2022-05-18, 15:03:55](https://news.ycombinator.com/item?id=31423681) - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
 * [2022-05-18, 14:59:36](https://news.ycombinator.com/item?id=31423623) - [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
@@ -28,7 +29,6 @@
 * [2022-05-18, 04:05:34](https://news.ycombinator.com/item?id=31419121) - [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
 * [2022-05-17, 18:25:47](https://news.ycombinator.com/item?id=31414577) - [Static Integer Types (2021)](https://tratt.net/laurie/essays/entries/static_integer_types.html)
 * [2022-05-16, 00:43:47](https://news.ycombinator.com/item?id=31392645) - [A new career in software development: advice for non-youngsters](https://shape-of-code.com/2022/05/15/a-new-career-in-software-development-advice-for-non-youngsters/)
-* [2022-05-15, 12:07:27](https://news.ycombinator.com/item?id=31387066) - [How much should you criticize other people?](https://marginalrevolution.com/marginalrevolution/2022/05/how-much-should-you-criticize-other-people.html)
 * [2022-05-15, 11:52:26](https://news.ycombinator.com/item?id=31386994) - [The tech sector teardown is more catharsis than crisis](https://www.ft.com/content/6a137523-26d5-4285-8b98-c273f1fb6d1a)
 
 ## [Archives](archives/index.md)
