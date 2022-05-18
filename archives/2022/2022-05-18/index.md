@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 10:55:19](https://news.ycombinator.com/item?id=31421232) - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
+* [2022-05-18, 10:15:03](https://news.ycombinator.com/item?id=31420984) - [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
 * [2022-05-18, 10:06:15](https://news.ycombinator.com/item?id=31420938) - [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
 * [2022-05-18, 10:04:20](https://news.ycombinator.com/item?id=31420930) - [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
 * [2022-05-18, 09:28:59](https://news.ycombinator.com/item?id=31420722) - [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-18, 07:39:10](https://news.ycombinator.com/item?id=31420182) - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
+* [2022-05-18, 07:26:13](https://news.ycombinator.com/item?id=31420106) - [We reduced 502 errors by caring about PID 1 in Kubernetes](https://about.gitlab.com/blog/2022/05/17/how-we-removed-all-502-errors-by-caring-about-pid-1-in-kubernetes/)
 * [2022-05-18, 07:18:54](https://news.ycombinator.com/item?id=31420073) - [Comparing Graviton (ARM) Performance to Intel and AMD for MySQL](https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/)
 * [2022-05-18, 07:01:10](https://news.ycombinator.com/item?id=31419978) - [Verdn (YC W22) is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2022-05-18, 06:50:51](https://news.ycombinator.com/item?id=31419934) - [How fast SSDs slow to a crawl: thermal throttling (2021)](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
