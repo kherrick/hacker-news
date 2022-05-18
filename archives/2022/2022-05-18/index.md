@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 14:43:02](https://news.ycombinator.com/item?id=31423396) - [CTemplar Is Shutting Down](https://ctemplar.com/ctemplar-is-shutting-down/)
 * [2022-05-18, 14:12:48](https://news.ycombinator.com/item?id=31423027) - [Erlang/OTP 25 has been released](http://erlang.org/pipermail/erlang-announce/2022-May/000208.html)
 * [2022-05-18, 14:02:03](https://news.ycombinator.com/item?id=31422884) - [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
 * [2022-05-18, 13:47:34](https://news.ycombinator.com/item?id=31422718) - [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
