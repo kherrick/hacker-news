@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 05:21:48](https://news.ycombinator.com/item?id=31419494) - [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
 * [2022-05-18, 04:23:29](https://news.ycombinator.com/item?id=31419214) - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
+* [2022-05-18, 04:17:59](https://news.ycombinator.com/item?id=31419190) - [Why the GPL is great for business](https://www.socallinuxexpo.org/scale/19x/presentations/why-gpl-great-business)
 * [2022-05-18, 04:05:34](https://news.ycombinator.com/item?id=31419121) - [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
 * [2022-05-18, 04:05:09](https://news.ycombinator.com/item?id=31419120) - [bcachefs: Principles of Operation [pdf]](https://bcachefs.org/bcachefs-principles-of-operation.pdf)
 * [2022-05-18, 03:20:59](https://news.ycombinator.com/item?id=31418908) - [Ask HN: Mailing list providers with global deliverability?](https://news.ycombinator.com/item?id=31418908)
