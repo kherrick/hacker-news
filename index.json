@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2022-05-18, 16:01:40",
+      "https://news.ycombinator.com/item?id=31424392"
+    ],
+    [
+      "The Surprising Truth About Pixels and Accessibility",
+      "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 15:59:39",
+      "https://news.ycombinator.com/item?id=31424368"
+    ],
+    [
+      "My deepfake DALL-E 2 vacation photos passed the Turing Test",
+      "https://www.mattbell.us/my-fake-dall-e-2-vacation-photos-passed-the-turing-test/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 15:51:19",
+      "https://news.ycombinator.com/item?id=31424252"
+    ],
+    [
+      "Learning Car Speed Using Inertial Sensors",
+      "https://arxiv.org/abs/2205.07883"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 15:50:35",
       "https://news.ycombinator.com/item?id=31424237"
     ],
@@ -27,6 +57,16 @@
     [
       "Accelerated PyTorch Training on M1 Mac",
       "https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 15:11:29",
+      "https://news.ycombinator.com/item?id=31423774"
+    ],
+    [
+      "Show HN: 120k SVG logos, also available in PNG format. Free downloads",
+      "https://vectorwiki.com"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Thoughts on OKRs",
       "https://joeblu.com/blog/2022_05_okrs/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 12:33:02",
-      "https://news.ycombinator.com/item?id=31421961"
-    ],
-    [
-      "Erlang/OTP 25.0 Release",
-      "https://www.erlang.org/news/157"
     ]
   ],
   [
@@ -231,36 +261,6 @@
   ],
   [
     [
-      "2022-05-18, 07:39:10",
-      "https://news.ycombinator.com/item?id=31420182"
-    ],
-    [
-      "EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers",
-      "https://github.com/TheRobotFactory/EightBit-Atari-Fonts"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 07:26:13",
-      "https://news.ycombinator.com/item?id=31420106"
-    ],
-    [
-      "We reduced 502 errors by caring about PID 1 in Kubernetes",
-      "https://about.gitlab.com/blog/2022/05/17/how-we-removed-all-502-errors-by-caring-about-pid-1-in-kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 06:50:51",
-      "https://news.ycombinator.com/item?id=31419934"
-    ],
-    [
-      "How fast SSDs slow to a crawl: thermal throttling (2021)",
-      "https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 04:05:34",
       "https://news.ycombinator.com/item?id=31419121"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-05-17, 18:25:47",
-      "https://news.ycombinator.com/item?id=31414577"
+      "2022-05-16, 12:01:41",
+      "https://news.ycombinator.com/item?id=31395947"
     ],
     [
-      "Static Integer Types (2021)",
-      "https://tratt.net/laurie/essays/entries/static_integer_types.html"
+      "Systems, Mistakes, and the Sea (2019)",
+      "https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/"
     ]
   ],
   [
