@@ -33,6 +33,7 @@
 * [2022-05-16, 17:37:14](https://news.ycombinator.com/item?id=31400812) - [US Army's Land Trains](https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains)
 * [2022-05-16, 17:30:09](https://news.ycombinator.com/item?id=31400704) - [Ten Years of Trying to Meditate](https://ammarmian.substack.com/p/why-i-meditate-part-1)
 * [2022-05-16, 17:20:58](https://news.ycombinator.com/item?id=31400563) - [Chaingrep (YC W22) Is Hiring a Founding Engineer](https://chaingrep.notion.site/chaingrep/Chaingrep-is-hiring-a2868f107f3849ab84e85ff109748d4f)
+* [2022-05-16, 17:20:52](https://news.ycombinator.com/item?id=31400560) - [Alexander in the Bathysphere](https://publicdomainreview.org/collection/alexander-bathysphere/)
 * [2022-05-16, 17:20:42](https://news.ycombinator.com/item?id=31400557) - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh)
 * [2022-05-16, 17:02:36](https://news.ycombinator.com/item?id=31400302) - [What’s down the road for silicon?](https://www.nytimes.com/2022/05/16/science/electronics-silicon-gallium.html)
 * [2022-05-16, 16:21:01](https://news.ycombinator.com/item?id=31399675) - [Release Date Update from the KSP2 Team](https://forum.kerbalspaceprogram.com/index.php?/topic/208209-release-date-update-from-the-ksp2-team/)
