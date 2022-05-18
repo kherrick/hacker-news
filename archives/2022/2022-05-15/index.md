@@ -42,6 +42,7 @@
 * [2022-05-15, 16:21:06](https://news.ycombinator.com/item?id=31388560) - [Automating Road Maintenance with Lidar Technology](https://spectrum.ieee.org/sick-tim10k-challenge)
 * [2022-05-15, 16:14:21](https://news.ycombinator.com/item?id=31388500) - [Apollo Spacecraft Premodulation Processor Teardown](https://twitter.com/kenshirriff/status/1525134870179094528)
 * [2022-05-15, 16:13:03](https://news.ycombinator.com/item?id=31388490) - [A man-eating tiger's 'vengeance' (2010)](https://www.npr.org/templates/story/story.php?storyId=129551459)
+* [2022-05-15, 16:12:54](https://news.ycombinator.com/item?id=31388486) - [The Tough Legacy of Ulrike Meinhof (2016)](https://medium.com/latterly/the-tough-legacy-of-ulrike-meinhof-af1387dace69)
 * [2022-05-15, 15:58:12](https://news.ycombinator.com/item?id=31388365) - [The “Activate Windows” watermark ported to Linux](https://github.com/MrGlockenspiel/activate-linux)
 * [2022-05-15, 15:47:40](https://news.ycombinator.com/item?id=31388277) - [Classic Japanese audio brand Onkyo files for bankruptcy](https://asia.nikkei.com/Business/Companies/Classic-Japanese-audio-brand-Onkyo-files-for-bankruptcy)
 * [2022-05-15, 15:39:46](https://news.ycombinator.com/item?id=31388223) - [Why a small candy company is Warren Buffett’s ‘dream’ investment](https://thehustle.co/how-a-small-candy-company-became-warren-buffetts-dream-investment/)

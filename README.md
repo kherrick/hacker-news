@@ -3,7 +3,6 @@
 * [2022-05-18, 04:23:29](https://news.ycombinator.com/item?id=31419214) - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
 * [2022-05-18, 04:05:09](https://news.ycombinator.com/item?id=31419120) - [bcachefs: Principles of Operation [pdf]](https://bcachefs.org/bcachefs-principles-of-operation.pdf)
 * [2022-05-18, 03:20:59](https://news.ycombinator.com/item?id=31418908) - [Ask HN: Mailing list providers with global deliverability?](https://news.ycombinator.com/item?id=31418908)
-* [2022-05-18, 03:10:16](https://news.ycombinator.com/item?id=31418854) - [Simple, Cheap and Portable: A Filter-Free Desalination System](https://spectrum.ieee.org/portable-desalination-filter-free)
 * [2022-05-18, 03:01:29](https://news.ycombinator.com/item?id=31418822) - [With plunging enrollment, a ‘seismic hit’ to public schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
 * [2022-05-18, 02:56:31](https://news.ycombinator.com/item?id=31418791) - [Kindle, ePub, and Amazon’s love of reinventing wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
 * [2022-05-18, 01:17:53](https://news.ycombinator.com/item?id=31418208) - [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
@@ -26,10 +25,11 @@
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-16, 14:17:24](https://news.ycombinator.com/item?id=31397577) - [Why Northern Ireland has no flag](https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/)
-* [2022-05-16, 09:55:58](https://news.ycombinator.com/item?id=31395161) - [Caculating Go type sets is harder than you think](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)
+* [2022-05-16, 09:55:58](https://news.ycombinator.com/item?id=31395161) - [Calculating Go type sets is harder than you think](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)
 * [2022-05-16, 02:07:35](https://news.ycombinator.com/item?id=31393104) - [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
 * [2022-05-15, 16:36:13](https://news.ycombinator.com/item?id=31388697) - [The Multistate Battle over the Colorado River](https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html)
 * [2022-05-15, 16:33:09](https://news.ycombinator.com/item?id=31388667) - [NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)](https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html)
+* [2022-05-15, 16:12:54](https://news.ycombinator.com/item?id=31388486) - [The Tough Legacy of Ulrike Meinhof (2016)](https://medium.com/latterly/the-tough-legacy-of-ulrike-meinhof-af1387dace69)
 
 ## [Archives](archives/index.md)
 
