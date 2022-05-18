@@ -23,12 +23,12 @@
 * [2022-05-17, 22:04:41](https://news.ycombinator.com/item?id=31416843) - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 * [2022-05-17, 20:46:46](https://news.ycombinator.com/item?id=31416098) - [NaturalSpeech: End-to-end text to speech synthesis with human-level quality](https://speechresearch.github.io/naturalspeech/)
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
-* [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-16, 09:55:58](https://news.ycombinator.com/item?id=31395161) - [Calculating Go type sets is harder than you think](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)
 * [2022-05-15, 16:40:30](https://news.ycombinator.com/item?id=31388741) - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 * [2022-05-15, 16:36:13](https://news.ycombinator.com/item?id=31388697) - [The Multistate Battle over the Colorado River](https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html)
+* [2022-05-15, 16:33:09](https://news.ycombinator.com/item?id=31388667) - [NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)](https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html)
 * [2022-05-15, 11:52:26](https://news.ycombinator.com/item?id=31386994) - [The tech sector teardown is more catharsis than crisis](https://www.ft.com/content/6a137523-26d5-4285-8b98-c273f1fb6d1a)
 
 ## [Archives](archives/index.md)
