@@ -5,8 +5,12 @@
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
 * [2022-05-18, 12:32:55](https://news.ycombinator.com/item?id=31421959) - [Lars Knoll Leaves the Qt Company](https://lists.qt-project.org/pipermail/development/2022-May/042477.html)
+* [2022-05-18, 12:22:13](https://news.ycombinator.com/item?id=31421858) - [Show HN: Open-source Firebase Alternative? It's here](https://github.com/appwrite/appwrite/discussions/3240)
+* [2022-05-18, 12:17:57](https://news.ycombinator.com/item?id=31421815) - [Why Google is so unbearable (and how to fix it)](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
+* [2022-05-18, 12:14:26](https://news.ycombinator.com/item?id=31421797) - [Formalising Gödel's incompleteness theorems, I](https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html)
 * [2022-05-18, 12:07:56](https://news.ycombinator.com/item?id=31421745) - [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
 * [2022-05-18, 12:00:13](https://news.ycombinator.com/item?id=31421672) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+* [2022-05-18, 11:25:23](https://news.ycombinator.com/item?id=31421428) - [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
 * [2022-05-18, 10:55:19](https://news.ycombinator.com/item?id=31421232) - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
 * [2022-05-18, 10:32:07](https://news.ycombinator.com/item?id=31421084) - [U.S. court rejects Tether’s bid to conceal reserve records from the public](https://finbold.com/u-s-court-rejects-tethers-bid-to-conceal-reserve-records-from-the-public/)
 * [2022-05-18, 10:15:03](https://news.ycombinator.com/item?id=31420984) - [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
