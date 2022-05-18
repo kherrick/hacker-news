@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
 * [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on Being “Boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:52:50](https://news.ycombinator.com/item?id=31427507) - [2022/23 Worldwide Grain Consumption Will Exceed Production [pdf]](https://downloads.usda.library.cornell.edu/usda-esmis/files/zs25x844t/4t64ht03b/kd17f006c/grain.pdf)
@@ -24,7 +25,6 @@
 * [2022-05-18, 12:07:56](https://news.ycombinator.com/item?id=31421745) - [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
 * [2022-05-18, 11:25:23](https://news.ycombinator.com/item?id=31421428) - [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
 * [2022-05-18, 11:17:07](https://news.ycombinator.com/item?id=31421364) - [I spent two years launching tiny projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
-* [2022-05-18, 10:55:19](https://news.ycombinator.com/item?id=31421232) - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Oauth2 support for GMail](http://www.pmail.com/newsflash.htm)
 * [2022-05-17, 15:00:56](https://news.ycombinator.com/item?id=31411714) - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2022-05-16, 15:59:55](https://news.ycombinator.com/item?id=31399366) - [Tetragon: eBPF-Based Security Observability and Runtime Enforcement](https://github.com/cilium/tetragon)
