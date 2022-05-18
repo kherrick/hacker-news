@@ -74,6 +74,7 @@
 * [2022-05-16, 09:55:58](https://news.ycombinator.com/item?id=31395161) - [Caculating Go type sets is harder than you think](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)
 * [2022-05-16, 09:45:13](https://news.ycombinator.com/item?id=31395081) - [Candlelit Console patch set to the OpenBSD framebuffer console](https://undeadly.org/cgi?action=article;sid=20220516093712)
 * [2022-05-16, 09:11:28](https://news.ycombinator.com/item?id=31394897) - [Giving Digital History a History (2021)](http://www.trevorowens.org/2021/05/giving-digital-history-a-history/)
+* [2022-05-16, 08:37:12](https://news.ycombinator.com/item?id=31394719) - [The Tools I Use to Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 * [2022-05-16, 08:12:13](https://news.ycombinator.com/item?id=31394604) - [Many software companies are a joke](https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a)
 * [2022-05-16, 07:31:32](https://news.ycombinator.com/item?id=31394420) - [Zsh 5.9](https://zsh.sourceforge.io/releases.html)
 * [2022-05-16, 07:00:45](https://news.ycombinator.com/item?id=31394266) - [Raycast (YC W20) Is Hiring to Make Developers More Productive (Remote, UTC ± 3h)](https://raycast.com/careers)
