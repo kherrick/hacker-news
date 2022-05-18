@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 15:44:41](https://news.ycombinator.com/item?id=31424170) - [Got sick of job screeners, so I made my own employer questionnaire](https://limadrive.com/assessment/)
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 * [2022-05-18, 15:03:55](https://news.ycombinator.com/item?id=31423681) - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
 * [2022-05-18, 14:59:36](https://news.ycombinator.com/item?id=31423623) - [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)

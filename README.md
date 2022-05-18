@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 15:44:41](https://news.ycombinator.com/item?id=31424170) - [Got sick of job screeners, so I made my own employer questionnaire](https://limadrive.com/assessment/)
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 * [2022-05-18, 15:03:55](https://news.ycombinator.com/item?id=31423681) - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
 * [2022-05-18, 14:59:36](https://news.ycombinator.com/item?id=31423623) - [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
@@ -25,7 +26,6 @@
 * [2022-05-18, 07:26:13](https://news.ycombinator.com/item?id=31420106) - [We reduced 502 errors by caring about PID 1 in Kubernetes](https://about.gitlab.com/blog/2022/05/17/how-we-removed-all-502-errors-by-caring-about-pid-1-in-kubernetes/)
 * [2022-05-18, 06:50:51](https://news.ycombinator.com/item?id=31419934) - [How fast SSDs slow to a crawl: thermal throttling (2021)](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
 * [2022-05-18, 04:05:34](https://news.ycombinator.com/item?id=31419121) - [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
-* [2022-05-18, 01:17:53](https://news.ycombinator.com/item?id=31418208) - [When Your Smart ID Card Reader Comes With Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
 * [2022-05-17, 18:25:47](https://news.ycombinator.com/item?id=31414577) - [Static Integer Types (2021)](https://tratt.net/laurie/essays/entries/static_integer_types.html)
 * [2022-05-16, 00:43:47](https://news.ycombinator.com/item?id=31392645) - [A new career in software development: advice for non-youngsters](https://shape-of-code.com/2022/05/15/a-new-career-in-software-development-advice-for-non-youngsters/)
 * [2022-05-15, 12:07:27](https://news.ycombinator.com/item?id=31387066) - [How much should you criticize other people?](https://marginalrevolution.com/marginalrevolution/2022/05/how-much-should-you-criticize-other-people.html)
