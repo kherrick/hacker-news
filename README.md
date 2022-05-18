@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 14:02:03](https://news.ycombinator.com/item?id=31422884) - [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
+* [2022-05-18, 13:47:34](https://news.ycombinator.com/item?id=31422718) - [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
 * [2022-05-18, 12:32:55](https://news.ycombinator.com/item?id=31421959) - [Lars Knoll Leaves the Qt Company](https://lists.qt-project.org/pipermail/development/2022-May/042477.html)
 * [2022-05-18, 12:22:13](https://news.ycombinator.com/item?id=31421858) - [Show HN: Open-source Firebase Alternative? It's here](https://github.com/appwrite/appwrite/discussions/3240)
 * [2022-05-18, 12:17:57](https://news.ycombinator.com/item?id=31421815) - [Why Google is so unbearable (and how to fix it)](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
@@ -8,6 +10,7 @@
 * [2022-05-18, 12:00:28](https://news.ycombinator.com/item?id=31421675) - [Sharing Linux page tables with mshare()](https://lwn.net/SubscriberLink/895217/eea75d643a340b32/)
 * [2022-05-18, 12:00:13](https://news.ycombinator.com/item?id=31421672) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 * [2022-05-18, 11:25:23](https://news.ycombinator.com/item?id=31421428) - [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
+* [2022-05-18, 11:17:07](https://news.ycombinator.com/item?id=31421364) - [I Spent 2 Years Launching Tiny Projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
 * [2022-05-18, 10:55:19](https://news.ycombinator.com/item?id=31421232) - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
 * [2022-05-18, 10:32:07](https://news.ycombinator.com/item?id=31421084) - [U.S. court rejects Tether’s bid to conceal reserve records from the public](https://finbold.com/u-s-court-rejects-tethers-bid-to-conceal-reserve-records-from-the-public/)
 * [2022-05-18, 10:15:03](https://news.ycombinator.com/item?id=31420984) - [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
@@ -22,14 +25,11 @@
 * [2022-05-18, 04:05:34](https://news.ycombinator.com/item?id=31419121) - [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
 * [2022-05-18, 01:17:53](https://news.ycombinator.com/item?id=31418208) - [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
 * [2022-05-18, 00:27:31](https://news.ycombinator.com/item?id=31417839) - [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
-* [2022-05-18, 00:04:21](https://news.ycombinator.com/item?id=31417690) - [The Unix-Haters Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [2022-05-17, 23:45:16](https://news.ycombinator.com/item?id=31417554) - [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 * [2022-05-17, 20:46:46](https://news.ycombinator.com/item?id=31416098) - [NaturalSpeech: End-to-end text to speech synthesis with human-level quality](https://speechresearch.github.io/naturalspeech/)
 * [2022-05-17, 18:25:47](https://news.ycombinator.com/item?id=31414577) - [Static Integer Types (2021)](https://tratt.net/laurie/essays/entries/static_integer_types.html)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
-* [2022-05-16, 01:59:15](https://news.ycombinator.com/item?id=31393066) - [The BBC's dubbing process for “The Water Margin” (1976) [video]](https://www.youtube.com/watch?v=ot3iNJXS1_M)
 * [2022-05-15, 16:40:30](https://news.ycombinator.com/item?id=31388741) - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
-* [2022-05-15, 11:52:26](https://news.ycombinator.com/item?id=31386994) - [The tech sector teardown is more catharsis than crisis](https://www.ft.com/content/6a137523-26d5-4285-8b98-c273f1fb6d1a)
 
 ## [Archives](archives/index.md)
 
