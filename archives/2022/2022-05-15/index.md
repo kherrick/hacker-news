@@ -35,6 +35,7 @@
 * [2022-05-15, 17:00:24](https://news.ycombinator.com/item?id=31388894) - [Ashby (YC W19) Hiring Engineer Focused on DevEx and Productivity](https://www.ashbyhq.com/careers?ashby_jid=196937df-43ea-42ae-ab5a-8c0fd32e3169)
 * [2022-05-15, 16:59:14](https://news.ycombinator.com/item?id=31388883) - [Toying with Kotlin's Context Receivers](https://blog.frankel.ch/kotlin-context-receivers/)
 * [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
+* [2022-05-15, 16:40:30](https://news.ycombinator.com/item?id=31388741) - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 * [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
 * [2022-05-15, 16:36:13](https://news.ycombinator.com/item?id=31388697) - [The Multistate Battle over the Colorado River](https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)

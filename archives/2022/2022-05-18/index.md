@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 07:01:10](https://news.ycombinator.com/item?id=31419978) - [Verdn (YC W22) is hiring a founding full stack engineer](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2022-05-18, 06:50:51](https://news.ycombinator.com/item?id=31419934) - [How fast SSDs slow to a crawl: thermal throttling (2021)](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
 * [2022-05-18, 05:57:57](https://news.ycombinator.com/item?id=31419661) - [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
 * [2022-05-18, 05:21:48](https://news.ycombinator.com/item?id=31419494) - [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
