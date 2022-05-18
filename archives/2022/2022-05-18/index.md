@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
 * [2022-05-18, 17:04:58](https://news.ycombinator.com/item?id=31425121) - [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
 * [2022-05-18, 17:04:44](https://news.ycombinator.com/item?id=31425115) - [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)
 * [2022-05-18, 17:00:34](https://news.ycombinator.com/item?id=31425069) - [Hyper (YC S21) Is Hiring a Senior Back end Engineer to build mobile avatar tools](https://www.ycombinator.com/companies/hyper-online/jobs/EwWvbln-sr-backend-engineer)
