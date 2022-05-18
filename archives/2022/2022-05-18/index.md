@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 21:30:01](https://news.ycombinator.com/item?id=31427918) - [The Fed's $2.7T mortgage problem](https://www.axios.com/2022/05/18/fed-mortgage-portfolio)
+* [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on Being “Boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:49:07](https://news.ycombinator.com/item?id=31427455) - [Foundations of Game Engine Development](http://foundationsofgameenginedev.com/)
 * [2022-05-18, 20:19:13](https://news.ycombinator.com/item?id=31427141) - [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
