@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-18, 03:10:16",
+      "https://news.ycombinator.com/item?id=31418854"
+    ],
+    [
+      "Simple, Cheap and Portable: A Filter-Free Desalination System",
+      "https://spectrum.ieee.org/portable-desalination-filter-free"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 03:01:29",
+      "https://news.ycombinator.com/item?id=31418822"
+    ],
+    [
+      "With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools",
+      "https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 02:56:31",
+      "https://news.ycombinator.com/item?id=31418791"
+    ],
+    [
+      "Kindle, ePub, and Amazon’s Love of Reinventing Wheels",
+      "https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 02:48:44",
+      "https://news.ycombinator.com/item?id=31418743"
+    ],
+    [
+      "Recovering the Titanic's radio could signal a disaster for underwater heritage",
+      "https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 01:57:30",
       "https://news.ycombinator.com/item?id=31418446"
     ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31417690"
     ],
     [
-      "The Unix-HATERS Handbook (1994) [pdf]",
+      "The Unix-Haters Handbook (1994) [pdf]",
       "https://web.mit.edu/~simsong/www/ugh.pdf"
     ]
   ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2022-05-17, 17:54:19",
-      "https://news.ycombinator.com/item?id=31414179"
-    ],
-    [
-      "Forgit: A utility tool powered by fzf for using Git interactively",
-      "https://github.com/wfxr/forgit"
-    ]
-  ],
-  [
-    [
       "2022-05-17, 17:03:20",
       "https://news.ycombinator.com/item?id=31413533"
     ],
     [
       "Comby - Structural code search and replace for every language",
       "https://comby.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 16:24:14",
-      "https://news.ycombinator.com/item?id=31412956"
-    ],
-    [
-      "Tell HN: Startup School 2022 – returning to live event, with meetups worldwide",
-      "https://news.ycombinator.com/item?id=31412956"
     ]
   ],
   [
@@ -231,12 +251,22 @@
   ],
   [
     [
-      "2022-05-17, 12:08:17",
-      "https://news.ycombinator.com/item?id=31409273"
+      "2022-05-16, 14:17:24",
+      "https://news.ycombinator.com/item?id=31397577"
     ],
     [
-      "My Unholy Battle with a Rock64",
-      "https://artemis.sh/2022/05/16/everfrees-armferno.html"
+      "Why Northern Ireland has no flag",
+      "https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 09:55:58",
+      "https://news.ycombinator.com/item?id=31395161"
+    ],
+    [
+      "Caculating Go type sets is harder than you think",
+      "https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)",
       "https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 05:08:44",
-      "https://news.ycombinator.com/item?id=31385411"
-    ],
-    [
-      "Stargazers of Beauty",
-      "https://www.americanpurpose.com/articles/stargazers-of-beauty/"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 19:39:15",
-      "https://news.ycombinator.com/item?id=31381563"
-    ],
-    [
-      "Picasso's self portrait evolution from age 15 to age 90",
-      "https://rarehistoricalphotos.com/picasso-self-portraits-photos/"
-    ]
-  ],
-  [
-    [
-      "2022-05-14, 15:12:06",
-      "https://news.ycombinator.com/item?id=31378724"
-    ],
-    [
-      "Arp 2600 Patch Book [pdf]",
-      "http://media.justmusic.de/shop/assets/handbuch/10054130_ARP2600_Original_Patchbook.pdf"
     ]
   ]
 ]
