@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 04:23:29](https://news.ycombinator.com/item?id=31419214) - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
+* [2022-05-18, 04:05:09](https://news.ycombinator.com/item?id=31419120) - [bcachefs: Principles of Operation [pdf]](https://bcachefs.org/bcachefs-principles-of-operation.pdf)
+* [2022-05-18, 03:20:59](https://news.ycombinator.com/item?id=31418908) - [Ask HN: Mailing list providers with global deliverability?](https://news.ycombinator.com/item?id=31418908)
 * [2022-05-18, 03:10:16](https://news.ycombinator.com/item?id=31418854) - [Simple, Cheap and Portable: A Filter-Free Desalination System](https://spectrum.ieee.org/portable-desalination-filter-free)
 * [2022-05-18, 03:01:29](https://news.ycombinator.com/item?id=31418822) - [With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
 * [2022-05-18, 02:56:31](https://news.ycombinator.com/item?id=31418791) - [Kindle, ePub, and Amazon’s Love of Reinventing Wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
