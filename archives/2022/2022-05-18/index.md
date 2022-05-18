@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 03:10:16](https://news.ycombinator.com/item?id=31418854) - [Simple, Cheap and Portable: A Filter-Free Desalination System](https://spectrum.ieee.org/portable-desalination-filter-free)
+* [2022-05-18, 03:01:29](https://news.ycombinator.com/item?id=31418822) - [With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools](https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html)
+* [2022-05-18, 02:56:31](https://news.ycombinator.com/item?id=31418791) - [Kindle, ePub, and Amazon’s Love of Reinventing Wheels](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/)
+* [2022-05-18, 02:48:44](https://news.ycombinator.com/item?id=31418743) - [Recovering the Titanic's radio could signal a disaster for underwater heritage](https://theconversation.com/titanic-salvage-recovering-the-ships-radio-could-signal-a-disaster-for-underwater-cultural-heritage-139795)
 * [2022-05-18, 01:57:30](https://news.ycombinator.com/item?id=31418446) - [Rippling and the Return of Ambition](https://luttig.substack.com/p/rippling)
 * [2022-05-18, 01:17:53](https://news.ycombinator.com/item?id=31418208) - [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
 * [2022-05-18, 00:48:48](https://news.ycombinator.com/item?id=31417993) - [Heroku CI and Review App Secrets Compromised](https://news.ycombinator.com/item?id=31417993)
