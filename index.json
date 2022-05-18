@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-05-18, 07:18:54",
+      "https://news.ycombinator.com/item?id=31420073"
+    ],
+    [
+      "Comparing Graviton (ARM) Performance to Intel and AMD for MySQL",
+      "https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 07:01:10",
       "https://news.ycombinator.com/item?id=31419978"
     ],
@@ -37,16 +47,6 @@
     [
       "How fast SSDs slow to a crawl: thermal throttling (2021)",
       "https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 05:57:57",
-      "https://news.ycombinator.com/item?id=31419661"
-    ],
-    [
-      "Doe Invests Half a Billion to De-Risk Cheaper Energy Storage",
-      "https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/"
     ]
   ],
   [
@@ -71,32 +71,12 @@
   ],
   [
     [
-      "2022-05-18, 04:17:59",
-      "https://news.ycombinator.com/item?id=31419190"
-    ],
-    [
-      "Why the GPL is great for business",
-      "https://www.socallinuxexpo.org/scale/19x/presentations/why-gpl-great-business"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 04:05:34",
       "https://news.ycombinator.com/item?id=31419121"
     ],
     [
       "Bringing Bcachefs to Linux Mainline",
       "https://lwn.net/SubscriberLink/895266/08dde553840fd74b/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 04:05:09",
-      "https://news.ycombinator.com/item?id=31419120"
-    ],
-    [
-      "bcachefs: Principles of Operation [pdf]",
-      "https://bcachefs.org/bcachefs-principles-of-operation.pdf"
     ]
   ],
   [
@@ -191,11 +171,21 @@
   ],
   [
     [
+      "2022-05-17, 21:59:59",
+      "https://news.ycombinator.com/item?id=31416795"
+    ],
+    [
+      "Netflix lays off about 150 employees",
+      "https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 20:46:46",
       "https://news.ycombinator.com/item?id=31416098"
     ],
     [
-      "NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality",
+      "NaturalSpeech: End-to-end text to speech synthesis with human-level quality",
       "https://speechresearch.github.io/naturalspeech/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Calculating Go type sets is harder than you think",
       "https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/"
+    ]
+  ],
+  [
+    [
+      "2022-05-16, 02:07:35",
+      "https://news.ycombinator.com/item?id=31393104"
+    ],
+    [
+      "Improving the foundation of our falling sand simulator",
+      "https://jason.today/falling-improved"
     ]
   ],
   [
