@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-17](index.md)
 
+* [2022-05-17, 23:45:16](https://news.ycombinator.com/item?id=31417554) - [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 * [2022-05-17, 22:25:02](https://news.ycombinator.com/item?id=31416987) - [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
 * [2022-05-17, 22:04:41](https://news.ycombinator.com/item?id=31416843) - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 * [2022-05-17, 21:59:59](https://news.ycombinator.com/item?id=31416795) - [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
 * [2022-05-17, 21:01:12](https://news.ycombinator.com/item?id=31416225) - [Reviving Mind (YC W22) Is Hiring a Product Manager for Digital Health](https://www.ycombinator.com/companies/reviving-mind/jobs/tEz1Xz9-product-manager-in-rapidly-growing-digital-health-startup)
+* [2022-05-17, 20:48:25](https://news.ycombinator.com/item?id=31416112) - [Swiss Billionaire’s Mega-Influence on U.S. Politics](https://www.realclearpolitics.com/articles/2022/05/17/swiss_billionaires_mega-influence_on_us_politics__147610.html)
+* [2022-05-17, 20:46:46](https://news.ycombinator.com/item?id=31416098) - [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality](https://speechresearch.github.io/naturalspeech/)
 * [2022-05-17, 20:33:23](https://news.ycombinator.com/item?id=31415937) - [Everything you ever wanted to know about terminals(but were afraid to ask)](http://xn--rpa.cc/irl/term.html)
 * [2022-05-17, 20:12:20](https://news.ycombinator.com/item?id=31415725) - [Atmospheric Pollution from Rockets [PDF]](https://aip.scitation.org/doi/pdf/10.1063/5.0090017)
 * [2022-05-17, 19:45:33](https://news.ycombinator.com/item?id=31415478) - [Gato – A Generalist Agent](https://arxiv.org/abs/2205.06175)

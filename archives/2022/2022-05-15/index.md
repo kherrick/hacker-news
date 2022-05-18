@@ -91,6 +91,7 @@
 * [2022-05-15, 06:20:44](https://news.ycombinator.com/item?id=31385627) - [Intel's New Chimera: Alder Lake](https://www.agner.org/forum/viewtopic.php?t=79&p=187#p187)
 * [2022-05-15, 05:54:26](https://news.ycombinator.com/item?id=31385554) - [Fast Lane to Learning R](https://github.com/matloff/fasteR)
 * [2022-05-15, 05:11:50](https://news.ycombinator.com/item?id=31385419) - [How I Started to See Trees as Smart](https://www.newyorker.com/culture/annals-of-inquiry/how-i-started-to-see-trees-as-smart)
+* [2022-05-15, 05:08:44](https://news.ycombinator.com/item?id=31385411) - [Stargazers of Beauty](https://www.americanpurpose.com/articles/stargazers-of-beauty/)
 * [2022-05-15, 04:31:22](https://news.ycombinator.com/item?id=31385274) - [Networking FreeDOS](http://wisdomtree.info/dos/dostcpip.htm)
 * [2022-05-15, 03:59:55](https://news.ycombinator.com/item?id=31385155) - [XOS Electric Trucks](https://xostrucks.com/)
 * [2022-05-15, 03:01:44](https://news.ycombinator.com/item?id=31384895) - [Linux for Networking Professionals](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
