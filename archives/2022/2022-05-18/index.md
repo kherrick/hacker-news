@@ -7,6 +7,7 @@
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:29:21](https://news.ycombinator.com/item?id=31426664) - [Simulating four-dimensional physics in the laboratory](https://physicstoday.scitation.org/doi/10.1063/PT.3.4981)
 * [2022-05-18, 19:21:20](https://news.ycombinator.com/item?id=31426585) - [Deno 1.22](https://deno.com/blog/v1.22)
+* [2022-05-18, 19:18:25](https://news.ycombinator.com/item?id=31426558) - [The bulls**t Canonical wants you to jump through before they will give](https://old.reddit.com/r/sysadmin/comments/usjhye/this_is_the_bullst_canonical_wants_you_to_jump/)
 * [2022-05-18, 19:08:32](https://news.ycombinator.com/item?id=31426449) - [SBF’s $12M Long Shot](https://puck.news/inside-s-b-f-s-12-million-long-shot/)
 * [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
 * [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
