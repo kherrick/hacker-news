@@ -84,4 +84,5 @@
 * [2022-05-16, 03:33:32](https://news.ycombinator.com/item?id=31393437) - [Ask HN: Can you share websites that are pushing the utility of browsers forward?](https://news.ycombinator.com/item?id=31393437)
 * [2022-05-16, 02:07:35](https://news.ycombinator.com/item?id=31393104) - [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
 * [2022-05-16, 01:59:15](https://news.ycombinator.com/item?id=31393066) - [The BBC's dubbing process for “The Water Margin” (1976) [video]](https://www.youtube.com/watch?v=ot3iNJXS1_M)
+* [2022-05-16, 00:43:47](https://news.ycombinator.com/item?id=31392645) - [A new career in software development: advice for non-youngsters](https://shape-of-code.com/2022/05/15/a-new-career-in-software-development-advice-for-non-youngsters/)
 * [2022-05-16, 00:06:32](https://news.ycombinator.com/item?id=31392447) - [So you want to run a virtual event](https://blog.lazerwalker.com/2022/05/10/virtual-events.html)
