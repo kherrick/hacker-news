@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:29:21](https://news.ycombinator.com/item?id=31426664) - [Simulating four-dimensional physics in the laboratory](https://physicstoday.scitation.org/doi/10.1063/PT.3.4981)
 * [2022-05-18, 19:21:20](https://news.ycombinator.com/item?id=31426585) - [Deno 1.22](https://deno.com/blog/v1.22)

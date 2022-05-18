@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:21:20](https://news.ycombinator.com/item?id=31426585) - [Deno 1.22](https://deno.com/blog/v1.22)
 * [2022-05-18, 19:18:25](https://news.ycombinator.com/item?id=31426558) - [The bulls**t Canonical wants you to jump through before they will give](https://old.reddit.com/r/sysadmin/comments/usjhye/this_is_the_bullst_canonical_wants_you_to_jump/)
@@ -29,7 +30,6 @@
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-16, 15:12:40](https://news.ycombinator.com/item?id=31398622) - [What rocks teach us about the human condition](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/the-book-of-unconformities-hugh-raffles-review)
 * [2022-05-16, 08:37:12](https://news.ycombinator.com/item?id=31394719) - [The Tools I Use to Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
-* [2022-05-16, 00:43:47](https://news.ycombinator.com/item?id=31392645) - [A new career in software development: advice for non-youngsters](https://shape-of-code.com/2022/05/15/a-new-career-in-software-development-advice-for-non-youngsters/)
 
 ## [Archives](archives/index.md)
 
