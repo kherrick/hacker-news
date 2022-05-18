@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 06:50:51](https://news.ycombinator.com/item?id=31419934) - [How fast SSDs slow to a crawl: thermal throttling (2021)](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
 * [2022-05-18, 05:57:57](https://news.ycombinator.com/item?id=31419661) - [Doe Invests Half a Billion to De-Risk Cheaper Energy Storage](https://www.solarpaces.org/doe-invests-half-a-billion-to-de-risk-cheaper-energy-storage/)
 * [2022-05-18, 05:21:48](https://news.ycombinator.com/item?id=31419494) - [3D Math Primer for Graphics and Game Development 2nd Edition](https://gamemath.com/book/intro.html)
 * [2022-05-18, 04:23:29](https://news.ycombinator.com/item?id=31419214) - [Gimp 3 Beta Released](https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/)
@@ -22,7 +23,6 @@
 * [2022-05-17, 18:33:03](https://news.ycombinator.com/item?id=31414681) - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts/)
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
 * [2022-05-17, 16:21:13](https://news.ycombinator.com/item?id=31412923) - [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
-* [2022-05-17, 15:49:07](https://news.ycombinator.com/item?id=31412440) - [Riot Games: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want an iPhone Mini-sized Android phone](https://smallandroidphone.com/)
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-16, 14:17:24](https://news.ycombinator.com/item?id=31397577) - [Why Northern Ireland has no flag](https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/)
