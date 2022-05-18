@@ -9,6 +9,7 @@
 * [2022-05-18, 12:17:57](https://news.ycombinator.com/item?id=31421815) - [Why Google is so unbearable (and how to fix it)](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
 * [2022-05-18, 12:14:26](https://news.ycombinator.com/item?id=31421797) - [Formalising Gödel's incompleteness theorems, I](https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html)
 * [2022-05-18, 12:07:56](https://news.ycombinator.com/item?id=31421745) - [The Big Six Matrix Factorizations](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/)
+* [2022-05-18, 12:00:28](https://news.ycombinator.com/item?id=31421675) - [Sharing Linux page tables with mshare()](https://lwn.net/SubscriberLink/895217/eea75d643a340b32/)
 * [2022-05-18, 12:00:13](https://news.ycombinator.com/item?id=31421672) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 * [2022-05-18, 11:25:23](https://news.ycombinator.com/item?id=31421428) - [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
 * [2022-05-18, 10:55:19](https://news.ycombinator.com/item?id=31421232) - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
