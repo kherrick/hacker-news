@@ -18,7 +18,6 @@
 * [2022-05-18, 10:15:03](https://news.ycombinator.com/item?id=31420984) - [Python 3.11 beta vs. 3.10 benchmark](https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst)
 * [2022-05-18, 10:06:15](https://news.ycombinator.com/item?id=31420938) - [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
 * [2022-05-18, 10:04:20](https://news.ycombinator.com/item?id=31420930) - [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
-* [2022-05-18, 09:28:59](https://news.ycombinator.com/item?id=31420722) - [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-18, 07:39:10](https://news.ycombinator.com/item?id=31420182) - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
@@ -30,6 +29,7 @@
 * [2022-05-17, 20:46:46](https://news.ycombinator.com/item?id=31416098) - [NaturalSpeech: End-to-end text to speech synthesis with human-level quality](https://speechresearch.github.io/naturalspeech/)
 * [2022-05-17, 18:25:47](https://news.ycombinator.com/item?id=31414577) - [Static Integer Types (2021)](https://tratt.net/laurie/essays/entries/static_integer_types.html)
 * [2022-05-15, 16:40:30](https://news.ycombinator.com/item?id=31388741) - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+* [2022-05-15, 12:07:27](https://news.ycombinator.com/item?id=31387066) - [How much should you criticize other people?](https://marginalrevolution.com/marginalrevolution/2022/05/how-much-should-you-criticize-other-people.html)
 
 ## [Archives](archives/index.md)
 
