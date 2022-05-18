@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+* [2022-05-18, 20:49:07](https://news.ycombinator.com/item?id=31427455) - [Foundations of Game Engine Development](http://foundationsofgameenginedev.com/)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:29:21](https://news.ycombinator.com/item?id=31426664) - [Simulating four-dimensional physics in the laboratory](https://physicstoday.scitation.org/doi/10.1063/PT.3.4981)
