@@ -14,7 +14,7 @@
 * [2022-05-18, 17:17:56](https://news.ycombinator.com/item?id=31425256) - [Manifest v3 in Firefox: Recap and Next Steps](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/)
 * [2022-05-18, 17:04:58](https://news.ycombinator.com/item?id=31425121) - [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
 * [2022-05-18, 17:04:44](https://news.ycombinator.com/item?id=31425115) - [Unfinished Business with Postgres](https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/)
-* [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
+* [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 * [2022-05-18, 15:59:39](https://news.ycombinator.com/item?id=31424368) - [My deepfake DALL-E 2 vacation photos passed the Turing Test](https://www.mattbell.us/my-fake-dall-e-2-vacation-photos-passed-the-turing-test/)
 * [2022-05-18, 15:50:35](https://news.ycombinator.com/item?id=31424237) - [The future of search is boutique](https://future.a16z.com/the-future-of-search-is-boutique/)
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
