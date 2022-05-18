@@ -61,6 +61,7 @@
 * [2022-05-16, 12:48:44](https://news.ycombinator.com/item?id=31396329) - [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/)
 * [2022-05-16, 12:35:48](https://news.ycombinator.com/item?id=31396198) - [Cats learn the names of their friend cats in their daily lives](https://www.nature.com/articles/s41598-022-10261-5)
 * [2022-05-16, 12:04:32](https://news.ycombinator.com/item?id=31395967) - [Not a Single Car Was Sold in Shanghai Last Month](https://www.bloomberg.com/news/articles/2022-05-16/not-a-single-car-was-sold-in-shanghai-last-month)
+* [2022-05-16, 12:01:41](https://news.ycombinator.com/item?id=31395947) - [Systems, Mistakes, and the Sea (2019)](https://www.robinrendle.com/essays/systems-mistakes-and-the-sea/)
 * [2022-05-16, 11:49:39](https://news.ycombinator.com/item?id=31395851) - [Stealing checks worth millions and pwning a bank](https://www.jhaddix.com/post/stealing-checks-worth-millions-pwning-a-bank)
 * [2022-05-16, 11:39:32](https://news.ycombinator.com/item?id=31395765) - [McDonald’s to Exit from Russia](https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html)
 * [2022-05-16, 11:38:53](https://news.ycombinator.com/item?id=31395759) - [In Search of Organic Software](http://pketh.org/organic-software.html)
