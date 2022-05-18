@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2022-05-18, 07:18:54",
-      "https://news.ycombinator.com/item?id=31420073"
+      "2022-05-18, 07:39:10",
+      "https://news.ycombinator.com/item?id=31420182"
     ],
     [
-      "Comparing Graviton (ARM) Performance to Intel and AMD for MySQL",
-      "https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/"
+      "EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers",
+      "https://github.com/TheRobotFactory/EightBit-Atari-Fonts"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2022-05-17, 19:45:33",
+      "https://news.ycombinator.com/item?id=31415478"
+    ],
+    [
+      "Gato – A Generalist Agent",
+      "https://arxiv.org/abs/2205.06175"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 18:33:03",
       "https://news.ycombinator.com/item?id=31414681"
     ],
     [
       "A dev's thoughts on developer productivity",
       "https://about.sourcegraph.com/blog/developer-productivity-thoughts/"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 17:03:20",
-      "https://news.ycombinator.com/item?id=31413533"
-    ],
-    [
-      "Comby - Structural code search and replace for every language",
-      "https://comby.dev/"
     ]
   ],
   [
