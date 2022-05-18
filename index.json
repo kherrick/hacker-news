@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-18, 07:52:34",
+      "https://news.ycombinator.com/item?id=31420268"
+    ],
+    [
+      "Git ignores .gitignore with .gitignore in .gitignore",
+      "https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 07:18:54",
+      "https://news.ycombinator.com/item?id=31420073"
+    ],
+    [
+      "Comparing Graviton (ARM) Performance to Intel and AMD for MySQL",
+      "https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 07:01:10",
       "https://news.ycombinator.com/item?id=31419978"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-05-17, 19:45:33",
-      "https://news.ycombinator.com/item?id=31415478"
-    ],
-    [
-      "Gato – A Generalist Agent",
-      "https://arxiv.org/abs/2205.06175"
-    ]
-  ],
-  [
-    [
       "2022-05-17, 18:33:03",
       "https://news.ycombinator.com/item?id=31414681"
     ],
@@ -287,16 +297,6 @@
     [
       "NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)",
       "https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-15, 16:12:54",
-      "https://news.ycombinator.com/item?id=31388486"
-    ],
-    [
-      "The Tough Legacy of Ulrike Meinhof (2016)",
-      "https://medium.com/latterly/the-tough-legacy-of-ulrike-meinhof-af1387dace69"
     ]
   ]
 ]
