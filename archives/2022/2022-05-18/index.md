@@ -6,6 +6,7 @@
 
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 * [2022-05-18, 22:32:35](https://news.ycombinator.com/item?id=31428469) - [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
+* [2022-05-18, 22:18:26](https://news.ycombinator.com/item?id=31428338) - [Gravity signals could detect earthquakes at the speed of light](https://www.science.org/content/article/gravity-signals-could-detect-earthquakes-speed-light)
 * [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
 * [2022-05-18, 21:30:01](https://news.ycombinator.com/item?id=31427918) - [The Fed's $2.7T mortgage problem](https://www.axios.com/2022/05/18/fed-mortgage-portfolio)
 * [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on Being “Boring”](https://news.ycombinator.com/item?id=31427696)
