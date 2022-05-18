@@ -36,6 +36,7 @@
 * [2022-05-15, 16:59:14](https://news.ycombinator.com/item?id=31388883) - [Toying with Kotlin's Context Receivers](https://blog.frankel.ch/kotlin-context-receivers/)
 * [2022-05-15, 16:57:11](https://news.ycombinator.com/item?id=31388870) - [Run your home on a Raspberry Pi](https://changelog.com/podcast/489)
 * [2022-05-15, 16:39:26](https://news.ycombinator.com/item?id=31388731) - [Ask HN: Why are people in real life so different?](https://news.ycombinator.com/item?id=31388731)
+* [2022-05-15, 16:36:13](https://news.ycombinator.com/item?id=31388697) - [The Multistate Battle over the Colorado River](https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html)
 * [2022-05-15, 16:34:29](https://news.ycombinator.com/item?id=31388677) - [GNU Data Language](https://github.com/gnudatalanguage/gdl)
 * [2022-05-15, 16:33:09](https://news.ycombinator.com/item?id=31388667) - [NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)](https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html)
 * [2022-05-15, 16:21:06](https://news.ycombinator.com/item?id=31388560) - [Automating Road Maintenance with Lidar Technology](https://spectrum.ieee.org/sick-tim10k-challenge)
