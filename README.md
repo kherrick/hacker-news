@@ -2,8 +2,8 @@
 
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:49:07](https://news.ycombinator.com/item?id=31427455) - [Foundations of Game Engine Development](http://foundationsofgameenginedev.com/)
+* [2022-05-18, 20:19:13](https://news.ycombinator.com/item?id=31427141) - [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
-* [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:21:20](https://news.ycombinator.com/item?id=31426585) - [Deno 1.22](https://deno.com/blog/v1.22)
 * [2022-05-18, 19:18:25](https://news.ycombinator.com/item?id=31426558) - [The bulls**t Canonical wants you to jump through before they will give](https://old.reddit.com/r/sysadmin/comments/usjhye/this_is_the_bullst_canonical_wants_you_to_jump/)
 * [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
