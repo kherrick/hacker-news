@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 10:06:15](https://news.ycombinator.com/item?id=31420938) - [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
 * [2022-05-18, 10:04:20](https://news.ycombinator.com/item?id=31420930) - [Jailer: A truly relational database tool](https://wisser.github.io/Jailer/data-browsing.html)
 * [2022-05-18, 09:28:59](https://news.ycombinator.com/item?id=31420722) - [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)

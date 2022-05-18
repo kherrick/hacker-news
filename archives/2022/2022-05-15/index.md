@@ -67,6 +67,7 @@
 * [2022-05-15, 12:02:40](https://news.ycombinator.com/item?id=31387055) - [Mainboard Terminal – A Retro-Style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
 * [2022-05-15, 11:59:47](https://news.ycombinator.com/item?id=31387035) - [Observability Is Not Only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres)
 * [2022-05-15, 11:56:36](https://news.ycombinator.com/item?id=31387019) - [About iCloud Private Relay](https://support.apple.com/en-au/HT212614)
+* [2022-05-15, 11:52:26](https://news.ycombinator.com/item?id=31386994) - [The tech sector teardown is more catharsis than crisis](https://www.ft.com/content/6a137523-26d5-4285-8b98-c273f1fb6d1a)
 * [2022-05-15, 11:14:05](https://news.ycombinator.com/item?id=31386819) - [Open Source Calendly Alternative](https://www.meetsy.xyz/)
 * [2022-05-15, 11:01:35](https://news.ycombinator.com/item?id=31386761) - [What does code readability mean? (2018)](https://typicalprogrammer.com/what-does-code-readability-mean)
 * [2022-05-15, 10:57:14](https://news.ycombinator.com/item?id=31386739) - [Rust Game Engine Fyrox has released 0.25](https://fyrox.rs/blog/post/feature-highlights-0-25/)
