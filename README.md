@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
-* [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:21:20](https://news.ycombinator.com/item?id=31426585) - [Deno 1.22](https://deno.com/blog/v1.22)
 * [2022-05-18, 19:18:25](https://news.ycombinator.com/item?id=31426558) - [The bulls**t Canonical wants you to jump through before they will give](https://old.reddit.com/r/sysadmin/comments/usjhye/this_is_the_bullst_canonical_wants_you_to_jump/)
 * [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
@@ -28,6 +27,7 @@
 * [2022-05-18, 10:55:19](https://news.ycombinator.com/item?id=31421232) - [Show HN: Natural Language Processing Demystified (Part One)](https://www.nlpdemystified.org/)
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Oauth2 support for GMail](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
+* [2022-05-17, 15:00:56](https://news.ycombinator.com/item?id=31411714) - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2022-05-16, 15:12:40](https://news.ycombinator.com/item?id=31398622) - [What rocks teach us about the human condition](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/the-book-of-unconformities-hugh-raffles-review)
 * [2022-05-16, 08:37:12](https://news.ycombinator.com/item?id=31394719) - [The Tools I Use to Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 

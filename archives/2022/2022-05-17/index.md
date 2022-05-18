@@ -29,6 +29,7 @@
 * [2022-05-17, 16:00:51](https://news.ycombinator.com/item?id=31412608) - [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)
 * [2022-05-17, 15:49:07](https://news.ycombinator.com/item?id=31412440) - [Riot Games Tech Blog: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
 * [2022-05-17, 15:06:52](https://news.ycombinator.com/item?id=31411813) - [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
+* [2022-05-17, 15:00:56](https://news.ycombinator.com/item?id=31411714) - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2022-05-17, 14:53:06](https://news.ycombinator.com/item?id=31411585) - [Lepiter: Knowledge Mgmt and Multi-Lang Notebooks and Moldable Dev](https://lepiter.io/feenk/introducing-lepiter--knowledge-management--e2p6apqsz5npq7m4xte0kkywn/)
 * [2022-05-17, 14:27:07](https://news.ycombinator.com/item?id=31411191) - [I want a small flagship Android phone](https://smallandroidphone.com/)
 * [2022-05-17, 14:19:26](https://news.ycombinator.com/item?id=31411067) - [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/)
