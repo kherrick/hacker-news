@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2022-05-18, 12:22:13",
+      "https://news.ycombinator.com/item?id=31421858"
+    ],
+    [
+      "Show HN: Open-source Firebase Alternative? It's here",
+      "https://github.com/appwrite/appwrite/discussions/3240"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 12:17:57",
+      "https://news.ycombinator.com/item?id=31421815"
+    ],
+    [
+      "Why Google is so unbearable (and how to fix it)",
+      "https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 12:14:26",
+      "https://news.ycombinator.com/item?id=31421797"
+    ],
+    [
+      "Formalising Gödel's incompleteness theorems, I",
+      "https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 12:07:56",
       "https://news.ycombinator.com/item?id=31421745"
     ],
@@ -27,6 +57,16 @@
     [
       "Padlet Is Hiring in SF to Build Software for a Good Education",
       "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 11:25:23",
+      "https://news.ycombinator.com/item?id=31421428"
+    ],
+    [
+      "How to feel engaged at work: a software engineer's guide",
+      "https://jasont.co/ennui/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-05-18, 07:18:54",
-      "https://news.ycombinator.com/item?id=31420073"
-    ],
-    [
-      "Comparing Graviton (ARM) Performance to Intel and AMD for MySQL",
-      "https://www.percona.com/blog/comparing-graviton-performance-to-arm-and-intel-for-mysql/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 06:50:51",
       "https://news.ycombinator.com/item?id=31419934"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2022-05-18, 05:21:48",
-      "https://news.ycombinator.com/item?id=31419494"
-    ],
-    [
-      "3D Math Primer for Graphics and Game Development 2nd Edition",
-      "https://gamemath.com/book/intro.html"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 04:05:34",
       "https://news.ycombinator.com/item?id=31419121"
     ],
     [
       "Bringing Bcachefs to Linux Mainline",
       "https://lwn.net/SubscriberLink/895266/08dde553840fd74b/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 03:20:59",
-      "https://news.ycombinator.com/item?id=31418908"
-    ],
-    [
-      "Ask HN: Mailing list providers with global deliverability?",
-      "https://news.ycombinator.com/item?id=31418908"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Launch HN: Infra (YC W21) – Open-source access management for Kubernetes",
       "https://github.com/infrahq/infra"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 09:55:58",
-      "https://news.ycombinator.com/item?id=31395161"
-    ],
-    [
-      "Calculating Go type sets is harder than you think",
-      "https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/"
     ]
   ],
   [
