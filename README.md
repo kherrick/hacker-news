@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 14:12:48](https://news.ycombinator.com/item?id=31423027) - [Erlang/OTP 25 has been released](http://erlang.org/pipermail/erlang-announce/2022-May/000208.html)
 * [2022-05-18, 14:02:03](https://news.ycombinator.com/item?id=31422884) - [Apple introduces new professional training to support growing IT workforce](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/)
 * [2022-05-18, 13:47:34](https://news.ycombinator.com/item?id=31422718) - [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
+* [2022-05-18, 12:33:02](https://news.ycombinator.com/item?id=31421961) - [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
 * [2022-05-18, 12:32:55](https://news.ycombinator.com/item?id=31421959) - [Lars Knoll Leaves the Qt Company](https://lists.qt-project.org/pipermail/development/2022-May/042477.html)
 * [2022-05-18, 12:22:13](https://news.ycombinator.com/item?id=31421858) - [Show HN: Open-source Firebase Alternative? It's here](https://github.com/appwrite/appwrite/discussions/3240)
 * [2022-05-18, 12:17:57](https://news.ycombinator.com/item?id=31421815) - [Why Google is so unbearable (and how to fix it)](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
@@ -23,12 +25,10 @@
 * [2022-05-18, 07:26:13](https://news.ycombinator.com/item?id=31420106) - [We reduced 502 errors by caring about PID 1 in Kubernetes](https://about.gitlab.com/blog/2022/05/17/how-we-removed-all-502-errors-by-caring-about-pid-1-in-kubernetes/)
 * [2022-05-18, 06:50:51](https://news.ycombinator.com/item?id=31419934) - [How fast SSDs slow to a crawl: thermal throttling (2021)](https://eclecticlight.co/2021/02/26/how-fast-ssds-slow-to-a-crawl-thermal-throttling/)
 * [2022-05-18, 04:05:34](https://news.ycombinator.com/item?id=31419121) - [Bringing Bcachefs to Linux Mainline](https://lwn.net/SubscriberLink/895266/08dde553840fd74b/)
-* [2022-05-18, 01:17:53](https://news.ycombinator.com/item?id=31418208) - [When Your Smart ID Card Reader Comes with Malware](https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/)
 * [2022-05-18, 00:27:31](https://news.ycombinator.com/item?id=31417839) - [Gophie – modern gopher client for Windows, Mac, Linux](https://gophie.org/)
 * [2022-05-17, 23:45:16](https://news.ycombinator.com/item?id=31417554) - [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 * [2022-05-17, 20:46:46](https://news.ycombinator.com/item?id=31416098) - [NaturalSpeech: End-to-end text to speech synthesis with human-level quality](https://speechresearch.github.io/naturalspeech/)
 * [2022-05-17, 18:25:47](https://news.ycombinator.com/item?id=31414577) - [Static Integer Types (2021)](https://tratt.net/laurie/essays/entries/static_integer_types.html)
-* [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-15, 16:40:30](https://news.ycombinator.com/item?id=31388741) - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 
 ## [Archives](archives/index.md)
