@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-18, 15:33:40",
+      "https://news.ycombinator.com/item?id=31424048"
+    ],
+    [
+      "Accelerated PyTorch Training on M1 Mac",
+      "https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 15:03:55",
+      "https://news.ycombinator.com/item?id=31423681"
+    ],
+    [
+      "Textual – A TUI framework for Python inspired by modern web development",
+      "https://github.com/Textualize/textual"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 14:59:36",
       "https://news.ycombinator.com/item?id=31423623"
     ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31421675"
     ],
     [
-      "Sharing Linux page tables with mshare()",
+      "Sharing page tables with mshare()",
       "https://lwn.net/SubscriberLink/895217/eea75d643a340b32/"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31421364"
     ],
     [
-      "I Spent 2 Years Launching Tiny Projects",
+      "I spent two years launching tiny projects",
       "https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects"
     ]
   ],
@@ -171,31 +191,11 @@
   ],
   [
     [
-      "2022-05-18, 10:06:15",
-      "https://news.ycombinator.com/item?id=31420938"
-    ],
-    [
-      "Please Stop Using Grey Text",
-      "https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 10:04:20",
-      "https://news.ycombinator.com/item?id=31420930"
-    ],
-    [
-      "Jailer: A truly relational database tool",
-      "https://wisser.github.io/Jailer/data-browsing.html"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 08:28:06",
       "https://news.ycombinator.com/item?id=31420433"
     ],
     [
-      "Pegasus Mail Newsflashes",
+      "Oauth2 support for GMail",
       "http://www.pmail.com/newsflash.htm"
     ]
   ],
@@ -255,18 +255,8 @@
       "https://news.ycombinator.com/item?id=31418208"
     ],
     [
-      "When Your Smart ID Card Reader Comes with Malware",
+      "When Your Smart ID Card Reader Comes With Malware",
       "https://krebsonsecurity.com/2022/05/when-your-smart-id-card-reader-comes-with-malware/"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 20:46:46",
-      "https://news.ycombinator.com/item?id=31416098"
-    ],
-    [
-      "NaturalSpeech: End-to-end text to speech synthesis with human-level quality",
-      "https://speechresearch.github.io/naturalspeech/"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2022-05-15, 16:40:30",
-      "https://news.ycombinator.com/item?id=31388741"
+      "2022-05-16, 00:43:47",
+      "https://news.ycombinator.com/item?id=31392645"
     ],
     [
-      "Introduction to Compilers and Language Design",
-      "https://www3.nd.edu/~dthain/compilerbook/"
+      "A new career in software development: advice for non-youngsters",
+      "https://shape-of-code.com/2022/05/15/a-new-career-in-software-development-advice-for-non-youngsters/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How much should you criticize other people?",
       "https://marginalrevolution.com/marginalrevolution/2022/05/how-much-should-you-criticize-other-people.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-15, 11:52:26",
+      "https://news.ycombinator.com/item?id=31386994"
+    ],
+    [
+      "The tech sector teardown is more catharsis than crisis",
+      "https://www.ft.com/content/6a137523-26d5-4285-8b98-c273f1fb6d1a"
     ]
   ]
 ]
