@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-18, 09:28:59](https://news.ycombinator.com/item?id=31420722) - [Spotify has shut down libspotify](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
 * [2022-05-18, 08:28:06](https://news.ycombinator.com/item?id=31420433) - [Pegasus Mail Newsflashes](http://www.pmail.com/newsflash.htm)
 * [2022-05-18, 07:52:34](https://news.ycombinator.com/item?id=31420268) - [Git ignores .gitignore with .gitignore in .gitignore](https://rubenerd.com/git-ignores-gitignore-with-gitignore-in-gitignore/)
 * [2022-05-18, 07:39:10](https://news.ycombinator.com/item?id=31420182) - [EightBit-Atari-Fonts: Fonts generated from bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
@@ -26,7 +27,6 @@
 * [2022-05-17, 13:55:34](https://news.ycombinator.com/item?id=31410688) - [Launch HN: Infra (YC W21) – Open-source access management for Kubernetes](https://github.com/infrahq/infra)
 * [2022-05-16, 14:17:24](https://news.ycombinator.com/item?id=31397577) - [Why Northern Ireland has no flag](https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/)
 * [2022-05-16, 09:55:58](https://news.ycombinator.com/item?id=31395161) - [Calculating Go type sets is harder than you think](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)
-* [2022-05-16, 02:07:35](https://news.ycombinator.com/item?id=31393104) - [Improving the foundation of our falling sand simulator](https://jason.today/falling-improved)
 * [2022-05-15, 16:40:30](https://news.ycombinator.com/item?id=31388741) - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
 * [2022-05-15, 16:36:13](https://news.ycombinator.com/item?id=31388697) - [The Multistate Battle over the Colorado River](https://nymag.com/intelligencer/2022/04/the-multistate-battle-over-the-colorado-river.html)
 * [2022-05-15, 16:33:09](https://news.ycombinator.com/item?id=31388667) - [NASA fed some Apollo 11 lunar samples to cockroaches and mice (2019)](https://www.cnn.com/2019/07/29/us/nasa-lunar-samples-testing-scn-trnd/index.html)
