@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 06:07:13](https://news.ycombinator.com/item?id=31431287) - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
+* [2022-05-19, 05:53:00](https://news.ycombinator.com/item?id=31431224) - [YC W22 Stablegains is being sued for losing $42m in funds from 4878 customers](https://twitter.com/FatManTerra/status/1527153694218797058)
+* [2022-05-19, 05:14:26](https://news.ycombinator.com/item?id=31431033) - [Something is wrong in the state of QED - history of physics](https://arxiv.org/abs/2110.02078)
 * [2022-05-19, 05:00:48](https://news.ycombinator.com/item?id=31430969) - [Missing TLS intermediate certificates can create mysterious browser problems](https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell)
 * [2022-05-19, 03:37:26](https://news.ycombinator.com/item?id=31430407) - [Tesla's Safety Record vs. Volvo](https://www.flyingpenguin.com/?p=35819)
 * [2022-05-19, 03:01:06](https://news.ycombinator.com/item?id=31430170) - [NASA: We’re investigating a mystery with Voyager 1](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
