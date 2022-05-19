@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 07:40:36](https://news.ycombinator.com/item?id=31431825) - [Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit](https://www.helloinbox.email)
 * [2022-05-19, 06:07:13](https://news.ycombinator.com/item?id=31431287) - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
 * [2022-05-19, 05:53:00](https://news.ycombinator.com/item?id=31431224) - [YC W22 Stablegains is being sued for losing $42m in funds from 4878 customers](https://twitter.com/FatManTerra/status/1527153694218797058)
 * [2022-05-19, 05:00:48](https://news.ycombinator.com/item?id=31430969) - [Missing TLS intermediate certificates can create mysterious browser problems](https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell)
@@ -14,7 +15,6 @@
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
-* [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 * [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
 * [2022-05-18, 17:17:56](https://news.ycombinator.com/item?id=31425256) - [Manifest v3 in Firefox: Recap and Next Steps](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/)
 * [2022-05-18, 17:04:58](https://news.ycombinator.com/item?id=31425121) - [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
