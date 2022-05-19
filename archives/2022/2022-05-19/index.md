@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 23:02:48](https://news.ycombinator.com/item?id=31441304) - [Ask HN: I found a pretty extreme data leak and I'm not sure what to do](https://news.ycombinator.com/item?id=31441304)
 * [2022-05-19, 21:43:52](https://news.ycombinator.com/item?id=31440556) - [What We Lose When We Don't Speak the Same Language as Our Immigrant Parents](https://joysauce.com/asian-american-identity-bilingualism-assimilation/)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer Turns Plastic into Bricks That Are Reportedly Stronger Than Concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 21:23:33](https://news.ycombinator.com/item?id=31440344) - [The Right to Privacy (1890)](https://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html)

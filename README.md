@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 23:02:48](https://news.ycombinator.com/item?id=31441304) - [Ask HN: I found a pretty extreme data leak and I'm not sure what to do](https://news.ycombinator.com/item?id=31441304)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer Turns Plastic into Bricks That Are Reportedly Stronger Than Concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 21:18:01](https://news.ycombinator.com/item?id=31440284) - [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence)
 * [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
-* [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985, PDF)](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
+* [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 20:00:26](https://news.ycombinator.com/item?id=31439411) - [The Worst CPUs Ever Made (2021)](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
@@ -28,7 +29,6 @@
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
-* [2022-05-18, 20:31:46](https://news.ycombinator.com/item?id=31427259) - [Turning a Guitar Hero controller into a MIDI controller](https://nick.zoic.org/art/midi-hero/)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
 
 ## [Archives](archives/index.md)
