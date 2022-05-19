@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-19, 21:23:33](https://news.ycombinator.com/item?id=31440344) - [The Right to Privacy (1890)](https://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html)
 * [2022-05-19, 21:18:01](https://news.ycombinator.com/item?id=31440284) - [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence)
 * [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
@@ -17,6 +16,7 @@
 * [2022-05-19, 16:47:59](https://news.ycombinator.com/item?id=31436993) - [Kaiten: Japan’s fully-manned kamikaze torpedos during WWII](https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html)
 * [2022-05-19, 16:26:12](https://news.ycombinator.com/item?id=31436703) - [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
 * [2022-05-19, 15:57:40](https://news.ycombinator.com/item?id=31436322) - [Wafer Shortage Improvement in Sight for 300mm, but Not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
+* [2022-05-19, 15:33:06](https://news.ycombinator.com/item?id=31436033) - [More Subprime Borrowers Are Missing Loan Payments](https://www.wsj.com/articles/more-subprime-borrowers-are-missing-loan-payments-11652952602)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice announces new policy for charging cases under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
 * [2022-05-19, 14:20:05](https://news.ycombinator.com/item?id=31434998) - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
