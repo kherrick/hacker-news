@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 14:20:05](https://news.ycombinator.com/item?id=31434998) - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
 * [2022-05-19, 13:34:19](https://news.ycombinator.com/item?id=31434434) - [Gov.uk drops jQuery from their front end](https://web.dev/gov-uk-drops-jquery/)
 * [2022-05-19, 13:28:22](https://news.ycombinator.com/item?id=31434372) - [Tell HN: FairEmail terminated after Google falsely flagged as spyware](https://news.ycombinator.com/item?id=31434372)
 * [2022-05-19, 13:24:40](https://news.ycombinator.com/item?id=31434321) - [Glitch Is Joining Fastly](https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch)
 * [2022-05-19, 13:03:36](https://news.ycombinator.com/item?id=31434084) - [Fastly Announces Acquisition of Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
 * [2022-05-19, 12:49:30](https://news.ycombinator.com/item?id=31433914) - [Learning Chess at 40](https://nautil.us/learning-chess-at-40-4614/)
+* [2022-05-19, 12:41:54](https://news.ycombinator.com/item?id=31433815) - [Pikascript: An ultra-lightweight Python engine that can run in 4Kb of RAM](https://github.com/pikasTech/pikascript)
 * [2022-05-19, 12:39:34](https://news.ycombinator.com/item?id=31433792) - [The death of 'mandatory fun' in the office](https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office)
 * [2022-05-19, 12:34:22](https://news.ycombinator.com/item?id=31433721) - [Introducing the New and Upgraded Framework Laptop](https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
