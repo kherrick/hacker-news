@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 08:11:42](https://news.ycombinator.com/item?id=31432005) - [The Rust Borrow Checker – A Deep Dive](https://www.infoq.com/presentations/rust-borrow-checker/)
 * [2022-05-19, 07:40:36](https://news.ycombinator.com/item?id=31431825) - [Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit](https://www.helloinbox.email)
+* [2022-05-19, 06:31:01](https://news.ycombinator.com/item?id=31431387) - [.NET 7 introduces Native AOT](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/)
 * [2022-05-19, 06:07:13](https://news.ycombinator.com/item?id=31431287) - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
 * [2022-05-19, 05:53:00](https://news.ycombinator.com/item?id=31431224) - [YC W22 Stablegains is being sued for losing $42m in funds from 4878 customers](https://twitter.com/FatManTerra/status/1527153694218797058)
 * [2022-05-19, 05:00:48](https://news.ycombinator.com/item?id=31430969) - [Missing TLS intermediate certificates can create mysterious browser problems](https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell)
@@ -9,9 +11,7 @@
 * [2022-05-19, 00:32:06](https://news.ycombinator.com/item?id=31429290) - [Duck Chess](https://duckchess.com/)
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
-* [2022-05-18, 22:32:35](https://news.ycombinator.com/item?id=31428469) - [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
 * [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
-* [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on being “boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
