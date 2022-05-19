@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 09:52:27](https://news.ycombinator.com/item?id=31432573) - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
 * [2022-05-19, 09:08:37](https://news.ycombinator.com/item?id=31432334) - [FairEmail stopping development after Google falsely flags app as spyware](https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853)
 * [2022-05-19, 08:11:42](https://news.ycombinator.com/item?id=31432005) - [The Rust Borrow Checker – A Deep Dive](https://www.infoq.com/presentations/rust-borrow-checker/)
@@ -14,7 +15,6 @@
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 * [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
-* [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on being “boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
