@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-19, 21:43:52",
-      "https://news.ycombinator.com/item?id=31440556"
-    ],
-    [
-      "What We Lose When We Don't Speak the Same Language as Our Immigrant Parents",
-      "https://joysauce.com/asian-american-identity-bilingualism-assimilation/"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 21:39:41",
       "https://news.ycombinator.com/item?id=31440518"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2022-05-19, 16:47:59",
+      "https://news.ycombinator.com/item?id=31436993"
+    ],
+    [
+      "Kaiten: Japan’s fully-manned kamikaze torpedos during WWII",
+      "https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 16:26:12",
       "https://news.ycombinator.com/item?id=31436703"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-05-18, 20:31:46",
+      "https://news.ycombinator.com/item?id=31427259"
+    ],
+    [
+      "Turning a Guitar Hero controller into a MIDI controller",
+      "https://nick.zoic.org/art/midi-hero/"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 20:00:32",
       "https://news.ycombinator.com/item?id=31426971"
     ],
     [
       "Notes on the M4 Macro Language (2008)",
       "http://mbreen.com/m4.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 16:18:38",
-      "https://news.ycombinator.com/item?id=31424588"
-    ],
-    [
-      "Functorch: Jax-like composable function transforms for PyTorch",
-      "https://github.com/pytorch/functorch"
     ]
   ]
 ]
