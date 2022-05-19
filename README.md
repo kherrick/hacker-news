@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-19, 21:43:52](https://news.ycombinator.com/item?id=31440556) - [What We Lose When We Don't Speak the Same Language as Our Immigrant Parents](https://joysauce.com/asian-american-identity-bilingualism-assimilation/)
+* [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer Turns Plastic into Bricks That Are Reportedly Stronger Than Concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 21:18:01](https://news.ycombinator.com/item?id=31440284) - [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence)
 * [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
@@ -29,7 +30,6 @@
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
-* [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 
 ## [Archives](archives/index.md)
 
