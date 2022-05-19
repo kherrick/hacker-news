@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985, PDF)](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 20:00:26](https://news.ycombinator.com/item?id=31439411) - [The Worst CPUs Ever Made (2021)](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)

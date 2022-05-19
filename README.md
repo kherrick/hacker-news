@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985, PDF)](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 20:00:26](https://news.ycombinator.com/item?id=31439411) - [The Worst CPUs Ever Made (2021)](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)
@@ -9,7 +10,6 @@
 * [2022-05-19, 17:56:00](https://news.ycombinator.com/item?id=31437946) - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
 * [2022-05-19, 17:10:56](https://news.ycombinator.com/item?id=31437312) - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 * [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis has died](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
-* [2022-05-19, 17:00:55](https://news.ycombinator.com/item?id=31437185) - [Arc (YC W22) is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
 * [2022-05-19, 16:51:23](https://news.ycombinator.com/item?id=31437033) - [Google open sourced PSP (hardware cryptographic offload)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 * [2022-05-19, 16:47:59](https://news.ycombinator.com/item?id=31436993) - [Kaiten: Japan’s fully-manned kamikaze torpedos during WWII](https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html)
 * [2022-05-19, 16:27:19](https://news.ycombinator.com/item?id=31436726) - [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures)
@@ -26,9 +26,9 @@
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 * [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
-* [2022-05-19, 06:07:13](https://news.ycombinator.com/item?id=31431287) - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
+* [2022-05-18, 21:27:50](https://news.ycombinator.com/item?id=31427901) - [Giant collision created galaxies devoid of dark matter](https://www.nature.com/articles/d41586-022-01298-7)
 * [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 
 ## [Archives](archives/index.md)

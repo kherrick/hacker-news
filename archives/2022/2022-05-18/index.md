@@ -13,6 +13,7 @@
 * [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
 * [2022-05-18, 21:58:28](https://news.ycombinator.com/item?id=31428160) - [When reinventing the wheel makes sense](https://mredigonda.github.io/blog/when-reinventing-the-wheel-makes-sense/)
 * [2022-05-18, 21:30:01](https://news.ycombinator.com/item?id=31427918) - [The Fed's $2.7T mortgage problem](https://www.axios.com/2022/05/18/fed-mortgage-portfolio)
+* [2022-05-18, 21:27:50](https://news.ycombinator.com/item?id=31427901) - [Giant collision created galaxies devoid of dark matter](https://www.nature.com/articles/d41586-022-01298-7)
 * [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on Being “Boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 21:03:34](https://news.ycombinator.com/item?id=31427630) - [The Modern Gamer's Guide to Running Morrowind](https://serif-7.github.io/posts/openmw/)
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
