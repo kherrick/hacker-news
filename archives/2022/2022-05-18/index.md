@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
+* [2022-05-18, 23:59:54](https://news.ycombinator.com/item?id=31429091) - [5th Circuit Court Finds SEC Enforcement Unconstitutional [pdf]](https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf)
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 * [2022-05-18, 22:32:35](https://news.ycombinator.com/item?id=31428469) - [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
@@ -37,6 +38,7 @@
 * [2022-05-18, 15:44:41](https://news.ycombinator.com/item?id=31424170) - [Got sick of job screeners, so I made my own employer questionnaire](https://limadrive.com/assessment/)
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 * [2022-05-18, 15:11:29](https://news.ycombinator.com/item?id=31423774) - [Show HN: 120k SVG logos, also available in PNG format. Free downloads](https://vectorwiki.com)
+* [2022-05-18, 15:05:21](https://news.ycombinator.com/item?id=31423699) - [Does communication matter in technical interviews? Here's the data](https://blog.interviewing.io/does-communication-matter-in-technical-interviewing-we-looked-at-100k-interviews-to-find-out/)
 * [2022-05-18, 15:03:55](https://news.ycombinator.com/item?id=31423681) - [Textual – A TUI framework for Python inspired by modern web development](https://github.com/Textualize/textual)
 * [2022-05-18, 14:59:36](https://news.ycombinator.com/item?id=31423623) - [Total Commander forced to stop letting you install APKs](https://www.androidpolice.com/total-commander-apk-installation-block/)
 * [2022-05-18, 14:43:02](https://news.ycombinator.com/item?id=31423396) - [CTemplar Is Shutting Down](https://ctemplar.com/ctemplar-is-shutting-down/)
