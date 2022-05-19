@@ -8,6 +8,7 @@
 * [2022-05-19, 11:02:20](https://news.ycombinator.com/item?id=31432936) - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 09:52:27](https://news.ycombinator.com/item?id=31432573) - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
+* [2022-05-19, 09:37:51](https://news.ycombinator.com/item?id=31432495) - [GraphQL JIT – GraphQL execution using a JIT compiler](https://github.com/zalando-incubator/graphql-jit)
 * [2022-05-19, 09:08:37](https://news.ycombinator.com/item?id=31432334) - [FairEmail stopping development after Google falsely flags app as spyware](https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853)
 * [2022-05-19, 08:11:42](https://news.ycombinator.com/item?id=31432005) - [The Rust Borrow Checker – A Deep Dive](https://www.infoq.com/presentations/rust-borrow-checker/)
 * [2022-05-19, 07:40:36](https://news.ycombinator.com/item?id=31431825) - [Show HN: HelloInbox – Ultimate email deliverability checklist and toolkit](https://www.helloinbox.email)
