@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-19, 18:39:40",
+      "https://news.ycombinator.com/item?id=31438426"
+    ],
+    [
+      "The Loneliness of a 10x Developer",
+      "https://news.ycombinator.com/item?id=31438426"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 17:16:13",
       "https://news.ycombinator.com/item?id=31437369"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-05-19, 14:44:15",
-      "https://news.ycombinator.com/item?id=31435326"
-    ],
-    [
-      "Auditory console logging: identifying bugs by listening to code execution",
-      "https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 14:20:05",
       "https://news.ycombinator.com/item?id=31434998"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-05-17, 08:22:07",
-      "https://news.ycombinator.com/item?id=31407454"
+      "2022-05-18, 16:18:38",
+      "https://news.ycombinator.com/item?id=31424588"
     ],
     [
-      "Professional Programming: The First 10 Years",
-      "https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/"
+      "Functorch: Jax-like composable function transforms for PyTorch",
+      "https://github.com/pytorch/functorch"
     ]
   ]
 ]
