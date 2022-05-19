@@ -51,6 +51,7 @@
 * [2022-05-16, 14:20:16](https://news.ycombinator.com/item?id=31397635) - [Show HN: What dogs can eat? (Web App)](https://www.pawmenow.com/what-dogs-can-eat/)
 * [2022-05-16, 14:17:24](https://news.ycombinator.com/item?id=31397577) - [Why Northern Ireland has no flag](https://samenright.com/2022/05/16/northern-ireland-is-the-only-country-in-the-world-without-a-flag/)
 * [2022-05-16, 14:14:21](https://news.ycombinator.com/item?id=31397527) - [Tel-Aviv University Releases Long-Text NLP Benchmark Scrolls](https://www.infoq.com/news/2022/03/scrolls-nlp-benchmark/)
+* [2022-05-16, 13:51:28](https://news.ycombinator.com/item?id=31397165) - [Code Morphing with Crusoe (2003)](https://www.embedded.com/code-morphing-with-crusoe/)
 * [2022-05-16, 13:50:56](https://news.ycombinator.com/item?id=31397156) - [Tell HN: Discord Ignores Right to Erasure](https://news.ycombinator.com/item?id=31397156)
 * [2022-05-16, 13:49:57](https://news.ycombinator.com/item?id=31397145) - [Understand your systems like never before with traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
 * [2022-05-16, 13:49:34](https://news.ycombinator.com/item?id=31397137) - [19.42% of Active Twitter Accounts Are Fake or Spam](https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/)

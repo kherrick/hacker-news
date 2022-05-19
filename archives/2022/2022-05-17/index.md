@@ -29,6 +29,7 @@
 * [2022-05-17, 16:21:13](https://news.ycombinator.com/item?id=31412923) - [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
 * [2022-05-17, 16:00:51](https://news.ycombinator.com/item?id=31412608) - [Show HN: AI generated Magic The Gathering cards](https://www.urzas.ai/)
 * [2022-05-17, 15:49:07](https://news.ycombinator.com/item?id=31412440) - [Riot Games Tech Blog: Artificial Latency for Remote Competitors](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)
+* [2022-05-17, 15:26:46](https://news.ycombinator.com/item?id=31412110) - [AI and Machine Learning – The Basics](https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/)
 * [2022-05-17, 15:06:52](https://news.ycombinator.com/item?id=31411813) - [Using a Proper Camera as a Webcam](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html)
 * [2022-05-17, 15:00:56](https://news.ycombinator.com/item?id=31411714) - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2022-05-17, 14:53:06](https://news.ycombinator.com/item?id=31411585) - [Lepiter: Knowledge Mgmt and Multi-Lang Notebooks and Moldable Dev](https://lepiter.io/feenk/introducing-lepiter--knowledge-management--e2p6apqsz5npq7m4xte0kkywn/)
