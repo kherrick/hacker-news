@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-19, 03:37:26](https://news.ycombinator.com/item?id=31430407) - [Tesla's Safety Record vs. Volvo](https://www.flyingpenguin.com/?p=35819)
 * [2022-05-19, 03:01:06](https://news.ycombinator.com/item?id=31430170) - [Engineers investigating NASA’s Voyager 1 telemetry data](https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data)
 * [2022-05-19, 00:32:06](https://news.ycombinator.com/item?id=31429290) - [Duck Chess](https://duckchess.com/)
 * [2022-05-18, 23:59:54](https://news.ycombinator.com/item?id=31429091) - [5th Circuit Court Finds SEC Enforcement Unconstitutional [pdf]](https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf)
@@ -11,6 +10,7 @@
 * [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on being “boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 21:03:34](https://news.ycombinator.com/item?id=31427630) - [The Modern Gamer's Guide to Running Morrowind](https://serif-7.github.io/posts/openmw/)
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+* [2022-05-18, 20:19:13](https://news.ycombinator.com/item?id=31427141) - [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
