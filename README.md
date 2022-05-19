@@ -27,7 +27,7 @@
 * [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 09:52:27](https://news.ycombinator.com/item?id=31432573) - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
-* [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
+* [2022-05-19, 06:07:13](https://news.ycombinator.com/item?id=31431287) - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
 * [2022-05-18, 18:27:08](https://news.ycombinator.com/item?id=31426037) - [Time and Frequency (2009)](http://www.prc68.com/I/timefreq.shtml)
 * [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 
