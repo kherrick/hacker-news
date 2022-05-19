@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-19, 09:08:37",
+      "https://news.ycombinator.com/item?id=31432334"
+    ],
+    [
+      "FairEmail stopping development after Google falsely flags app as spyware",
+      "https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 08:11:42",
       "https://news.ycombinator.com/item?id=31432005"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-05-18, 21:03:34",
-      "https://news.ycombinator.com/item?id=31427630"
-    ],
-    [
-      "The Modern Gamer's Guide to Running Morrowind",
-      "https://serif-7.github.io/posts/openmw/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 21:00:37",
       "https://news.ycombinator.com/item?id=31427601"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-05-18, 18:27:18",
-      "https://news.ycombinator.com/item?id=31426039"
-    ],
-    [
-      "Time Traveler by Merriam-Webster: Search Words by First Known Use Date",
-      "https://www.merriam-webster.com/time-traveler/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 16:06:44",
       "https://news.ycombinator.com/item?id=31424450"
     ],
@@ -207,6 +197,16 @@
     [
       "I spent two years launching tiny projects",
       "https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 22:11:56",
+      "https://news.ycombinator.com/item?id=31416896"
+    ],
+    [
+      "My real life use-case for generics in Go: API for client-side pagination",
+      "https://vladimir.varank.in/notes/2022/05/a-real-life-use-case-for-generics-in-go-api-for-client-side-pagination/"
     ]
   ],
   [
