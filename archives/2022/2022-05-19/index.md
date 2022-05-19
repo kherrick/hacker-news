@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 11:07:01](https://news.ycombinator.com/item?id=31432967) - [NY Attorney Launches Investigations into Social Media for Role in Buffalo Attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
+* [2022-05-19, 11:02:20](https://news.ycombinator.com/item?id=31432936) - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 09:52:27](https://news.ycombinator.com/item?id=31432573) - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
 * [2022-05-19, 09:08:37](https://news.ycombinator.com/item?id=31432334) - [FairEmail stopping development after Google falsely flags app as spyware](https://forum.xda-developers.com/t/closed-app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/page-1087#post-86909853)
