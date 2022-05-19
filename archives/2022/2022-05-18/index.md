@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-18](index.md)
 
 * [2022-05-18, 23:59:54](https://news.ycombinator.com/item?id=31429091) - [5th Circuit Court Finds SEC Enforcement Unconstitutional [pdf]](https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf)
+* [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 * [2022-05-18, 22:32:35](https://news.ycombinator.com/item?id=31428469) - [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
