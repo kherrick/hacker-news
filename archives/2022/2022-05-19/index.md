@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985, PDF)](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
+* [2022-05-19, 20:00:26](https://news.ycombinator.com/item?id=31439411) - [The Worst CPUs Ever Made (2021)](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 19:00:38](https://news.ycombinator.com/item?id=31438659) - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)

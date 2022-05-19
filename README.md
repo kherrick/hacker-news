@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985, PDF)](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
+* [2022-05-19, 20:00:26](https://news.ycombinator.com/item?id=31439411) - [The Worst CPUs Ever Made (2021)](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 19:00:38](https://news.ycombinator.com/item?id=31438659) - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
 * [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [Tell HN: The loneliness of a pretty good developer](https://news.ycombinator.com/item?id=31438426)
 * [2022-05-19, 17:56:00](https://news.ycombinator.com/item?id=31437946) - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
-* [2022-05-19, 17:16:13](https://news.ycombinator.com/item?id=31437369) - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
 * [2022-05-19, 17:10:56](https://news.ycombinator.com/item?id=31437312) - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 * [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis has died](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
 * [2022-05-19, 17:00:55](https://news.ycombinator.com/item?id=31437185) - [Arc (YC W22) is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
