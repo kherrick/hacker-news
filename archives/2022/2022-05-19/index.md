@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 13:24:40](https://news.ycombinator.com/item?id=31434321) - [Glitch Is Joining Fastly](https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch)
+* [2022-05-19, 12:39:34](https://news.ycombinator.com/item?id=31433792) - [The death of 'mandatory fun' in the office](https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office)
 * [2022-05-19, 12:34:22](https://news.ycombinator.com/item?id=31433721) - [Introducing the New and Upgraded Framework Laptop](https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 * [2022-05-19, 12:00:52](https://news.ycombinator.com/item?id=31433384) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
