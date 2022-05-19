@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 17:16:13](https://news.ycombinator.com/item?id=31437369) - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
+* [2022-05-19, 17:10:56](https://news.ycombinator.com/item?id=31437312) - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
+* [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis, Oscar-Winning Composer, Dies at 79](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
 * [2022-05-19, 17:00:55](https://news.ycombinator.com/item?id=31437185) - [Arc (YC W22) is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
+* [2022-05-19, 16:51:23](https://news.ycombinator.com/item?id=31437033) - [Google open sourced PSP (hardware crypto offload)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 * [2022-05-19, 16:47:59](https://news.ycombinator.com/item?id=31436993) - [Kaiten: Japan’s fully-manned kamikaze torpedos during WWII](https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html)
 * [2022-05-19, 16:27:19](https://news.ycombinator.com/item?id=31436726) - [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures)
 * [2022-05-19, 16:26:12](https://news.ycombinator.com/item?id=31436703) - [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
 * [2022-05-19, 16:21:49](https://news.ycombinator.com/item?id=31436648) - [Hawkeye (cbs): Detect images in a video stream and execute automated actions](https://github.com/cbsinteractive/hawkeye)
 * [2022-05-19, 16:11:29](https://news.ycombinator.com/item?id=31436524) - [Letter to Myself in Late 2008 (2020)](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
 * [2022-05-19, 15:57:40](https://news.ycombinator.com/item?id=31436322) - [Wafer Shortage Improvement in Sight for 300mm, but Not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
+* [2022-05-19, 15:33:06](https://news.ycombinator.com/item?id=31436033) - [More Subprime Borrowers Are Missing Loan Payments](https://www.wsj.com/articles/more-subprime-borrowers-are-missing-loan-payments-11652952602)
 * [2022-05-19, 15:29:33](https://news.ycombinator.com/item?id=31435976) - [MI officials fast-track bridge fix after man says it 'collapsed under my feet'](https://www.detroitnews.com/story/news/local/detroit-city/2022/05/15/man-says-fell-through-pedestrian-bridge-lodge-freeway-detroit/9787488002/)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice Announces New Policy for Charging Cases Under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 15:16:44](https://news.ycombinator.com/item?id=31435801) - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)

@@ -28,6 +28,7 @@
 * [2022-05-18, 19:08:32](https://news.ycombinator.com/item?id=31426449) - [SBF’s $12M Long Shot](https://puck.news/inside-s-b-f-s-12-million-long-shot/)
 * [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
 * [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
+* [2022-05-18, 18:27:08](https://news.ycombinator.com/item?id=31426037) - [Time and Frequency (2009)](http://www.prc68.com/I/timefreq.shtml)
 * [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)
 * [2022-05-18, 17:17:56](https://news.ycombinator.com/item?id=31425256) - [Manifest v3 in Firefox: Recap and Next Steps](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/)
 * [2022-05-18, 17:04:58](https://news.ycombinator.com/item?id=31425121) - [Senators Urge FTC to Probe ID.me over Selfie Data](https://krebsonsecurity.com/2022/05/senators-urge-ftc-to-probe-id-me-over-selfie-data/)
