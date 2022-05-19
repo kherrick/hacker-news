@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-19, 13:34:19",
+      "https://news.ycombinator.com/item?id=31434434"
+    ],
+    [
+      "Gov.uk drops jQuery from their front end",
+      "https://web.dev/gov-uk-drops-jquery/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 13:28:22",
+      "https://news.ycombinator.com/item?id=31434372"
+    ],
+    [
+      "Tell HN: FairEmail terminated after Google falsely flagged as spyware",
+      "https://news.ycombinator.com/item?id=31434372"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 13:24:40",
       "https://news.ycombinator.com/item?id=31434321"
     ],
     [
       "Glitch Is Joining Fastly",
       "https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 13:03:36",
+      "https://news.ycombinator.com/item?id=31434084"
+    ],
+    [
+      "Fastly Announces Acquisition of Glitch",
+      "https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-05-19, 02:33:26",
-      "https://news.ycombinator.com/item?id=31430030"
-    ],
-    [
-      "Owl: OCaml Scientific Computing",
-      "https://ocaml.xyz/"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 00:32:06",
       "https://news.ycombinator.com/item?id=31429290"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2022-05-18, 22:34:25",
-      "https://news.ycombinator.com/item?id=31428481"
-    ],
-    [
-      "Long-Term Building in Japan",
-      "https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 19:31:44",
       "https://news.ycombinator.com/item?id=31426683"
     ],
     [
       "I'm an addict",
       "https://tarunreddy.bearblog.dev/addict/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 15:05:21",
-      "https://news.ycombinator.com/item?id=31423699"
-    ],
-    [
-      "Does communication matter in technical interviews? Here's the data",
-      "https://blog.interviewing.io/does-communication-matter-in-technical-interviewing-we-looked-at-100k-interviews-to-find-out/"
     ]
   ],
   [
