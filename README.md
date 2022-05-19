@@ -7,7 +7,6 @@
 * [2022-05-19, 13:03:36](https://news.ycombinator.com/item?id=31434084) - [Fastly Announces Acquisition of Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
 * [2022-05-19, 12:49:30](https://news.ycombinator.com/item?id=31433914) - [Learning Chess at 40](https://nautil.us/learning-chess-at-40-4614/)
 * [2022-05-19, 12:41:54](https://news.ycombinator.com/item?id=31433815) - [Pikascript: An ultra-lightweight Python engine that can run in 4Kb of RAM](https://github.com/pikasTech/pikascript)
-* [2022-05-19, 12:39:34](https://news.ycombinator.com/item?id=31433792) - [The death of 'mandatory fun' in the office](https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 * [2022-05-19, 12:00:52](https://news.ycombinator.com/item?id=31433384) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 * [2022-05-19, 11:28:45](https://news.ycombinator.com/item?id=31433113) - [Serious Bug in MongoDB Geospatial distance calculation](https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/)
@@ -29,6 +28,7 @@
 * [2022-05-17, 16:59:51](https://news.ycombinator.com/item?id=31413483) - [My thoughts about Fly.io (so far) and other newish technology I'm getting into](https://blog.hartleybrody.com/thoughts-on-flyio/)
 * [2022-05-17, 15:26:46](https://news.ycombinator.com/item?id=31412110) - [AI and Machine Learning – The Basics](https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/)
 * [2022-05-17, 08:22:07](https://news.ycombinator.com/item?id=31407454) - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+* [2022-05-16, 11:58:44](https://news.ycombinator.com/item?id=31395921) - [The Delicious Origins of the Domesticated Blueberry (2016)](https://daily.jstor.org/delicious-origins-of-domesticated-blueberry/)
 * [2022-05-16, 10:30:00](https://news.ycombinator.com/item?id=31395352) - [Korg NTS-2 DIY oscilloscope and wave generator kit](https://www.korg.com/us/products/dj/nts_2_pt/index.php)
 
 ## [Archives](archives/index.md)
