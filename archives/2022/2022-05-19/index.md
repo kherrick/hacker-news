@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
+* [2022-05-19, 14:48:30](https://news.ycombinator.com/item?id=31435378) - [LWN Is Hiring](https://lwn.net/Articles/895695/)
+* [2022-05-19, 14:44:15](https://news.ycombinator.com/item?id=31435326) - [Auditory console logging: identifying bugs by listening to code execution](https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/)
 * [2022-05-19, 14:20:05](https://news.ycombinator.com/item?id=31434998) - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
+* [2022-05-19, 14:08:53](https://news.ycombinator.com/item?id=31434851) - [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
 * [2022-05-19, 13:34:19](https://news.ycombinator.com/item?id=31434434) - [Gov.uk drops jQuery from their front end](https://web.dev/gov-uk-drops-jquery/)
 * [2022-05-19, 13:28:22](https://news.ycombinator.com/item?id=31434372) - [Tell HN: FairEmail terminated after Google falsely flagged as spyware](https://news.ycombinator.com/item?id=31434372)
 * [2022-05-19, 13:24:40](https://news.ycombinator.com/item?id=31434321) - [Glitch Is Joining Fastly](https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch)
@@ -17,6 +21,7 @@
 * [2022-05-19, 12:00:52](https://news.ycombinator.com/item?id=31433384) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 * [2022-05-19, 11:28:45](https://news.ycombinator.com/item?id=31433113) - [Serious Bug in MongoDB Geospatial distance calculation](https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/)
 * [2022-05-19, 11:20:54](https://news.ycombinator.com/item?id=31433051) - [EFF and EU should respond to Google taking FairEmail off the Play store](https://social.platypush.tech/@blacklight/108328001116500718)
+* [2022-05-19, 11:18:08](https://news.ycombinator.com/item?id=31433038) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
 * [2022-05-19, 11:07:01](https://news.ycombinator.com/item?id=31432967) - [NY Attorney Launches Investigations into Social Media for Role in Buffalo Attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
 * [2022-05-19, 11:02:20](https://news.ycombinator.com/item?id=31432936) - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
 * [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
