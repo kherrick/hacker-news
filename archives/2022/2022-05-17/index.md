@@ -22,6 +22,7 @@
 * [2022-05-17, 18:25:47](https://news.ycombinator.com/item?id=31414577) - [Static Integer Types (2021)](https://tratt.net/laurie/essays/entries/static_integer_types.html)
 * [2022-05-17, 17:54:19](https://news.ycombinator.com/item?id=31414179) - [Forgit: A utility tool powered by fzf for using Git interactively](https://github.com/wfxr/forgit)
 * [2022-05-17, 17:44:08](https://news.ycombinator.com/item?id=31414044) - [King George and Tsar Nicolas Looked a Lot Alike](https://www.bramadams.dev/projects/cousins-or-dating)
+* [2022-05-17, 17:34:57](https://news.ycombinator.com/item?id=31413919) - [Steps towards debugging and resolving Android bootloops](https://johannes.truschnigg.info/writing/2022-05_android_bootloop_debugging/)
 * [2022-05-17, 17:03:20](https://news.ycombinator.com/item?id=31413533) - [Comby - Structural code search and replace for every language](https://comby.dev/)
 * [2022-05-17, 17:01:09](https://news.ycombinator.com/item?id=31413502) - [Laylo (YC S20) is hiring to build Salesforce for creators](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
 * [2022-05-17, 16:59:51](https://news.ycombinator.com/item?id=31413483) - [My thoughts about Fly.io (so far) and other newish technology I'm getting into](https://blog.hartleybrody.com/thoughts-on-flyio/)
