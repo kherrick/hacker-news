@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-05-19, 17:16:13",
+      "https://news.ycombinator.com/item?id=31437369"
+    ],
+    [
+      "Show HN: A stab at building my own string diffing library",
+      "https://news.ycombinator.com/item?id=31437369"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 17:10:56",
+      "https://news.ycombinator.com/item?id=31437312"
+    ],
+    [
+      "The Lisp Implementafion for the PDP-1 Computer [pdf]",
+      "http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 17:04:14",
+      "https://news.ycombinator.com/item?id=31437226"
+    ],
+    [
+      "Vangelis, Oscar-Winning Composer, Dies at 79",
+      "https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 17:00:55",
       "https://news.ycombinator.com/item?id=31437185"
     ],
     [
       "Arc (YC W22) is hiring a designer",
       "https://boards.greenhouse.io/arctechnologies/jobs/4080956004"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 16:51:23",
+      "https://news.ycombinator.com/item?id=31437033"
+    ],
+    [
+      "Google open sourced PSP (hardware crypto offload)",
+      "https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2022-05-19, 16:21:49",
-      "https://news.ycombinator.com/item?id=31436648"
-    ],
-    [
-      "Hawkeye (cbs): Detect images in a video stream and execute automated actions",
-      "https://github.com/cbsinteractive/hawkeye"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 16:11:29",
       "https://news.ycombinator.com/item?id=31436524"
     ],
@@ -67,6 +97,16 @@
     [
       "Wafer Shortage Improvement in Sight for 300mm, but Not 200mm",
       "https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 15:33:06",
+      "https://news.ycombinator.com/item?id=31436033"
+    ],
+    [
+      "More Subprime Borrowers Are Missing Loan Payments",
+      "https://www.wsj.com/articles/more-subprime-borrowers-are-missing-loan-payments-11652952602"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2022-05-19, 10:43:48",
-      "https://news.ycombinator.com/item?id=31432848"
-    ],
-    [
-      "Show HN: Privaxy – Adblocking / tracker blocking by MITMing HTTPS traffic",
-      "https://github.com/Barre/privaxy"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 10:08:52",
       "https://news.ycombinator.com/item?id=31432648"
     ],
@@ -237,16 +267,6 @@
     [
       "Outhorse Your Email",
       "https://www.visiticeland.com/outhorse-your-email/"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 07:40:36",
-      "https://news.ycombinator.com/item?id=31431825"
-    ],
-    [
-      "HelloInbox – Ultimate email deliverability checklist and toolkit",
-      "https://www.helloinbox.email"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-05-18, 21:58:28",
-      "https://news.ycombinator.com/item?id=31428160"
+      "2022-05-18, 18:27:08",
+      "https://news.ycombinator.com/item?id=31426037"
     ],
     [
-      "When reinventing the wheel makes sense",
-      "https://mredigonda.github.io/blog/when-reinventing-the-wheel-makes-sense/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 19:31:44",
-      "https://news.ycombinator.com/item?id=31426683"
-    ],
-    [
-      "I'm an addict",
-      "https://tarunreddy.bearblog.dev/addict/"
-    ]
-  ],
-  [
-    [
-      "2022-05-17, 08:22:07",
-      "https://news.ycombinator.com/item?id=31407454"
-    ],
-    [
-      "Professional Programming: The First 10 Years",
-      "https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/"
+      "Time and Frequency (2009)",
+      "http://www.prc68.com/I/timefreq.shtml"
     ]
   ]
 ]
