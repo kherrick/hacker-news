@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-05-19, 14:50:44",
+      "https://news.ycombinator.com/item?id=31435407"
+    ],
+    [
+      "Y Combinator's Message to Founders",
+      "https://twitter.com/refsrc/status/1527238287471292417"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 14:48:30",
+      "https://news.ycombinator.com/item?id=31435378"
+    ],
+    [
+      "LWN Is Hiring",
+      "https://lwn.net/Articles/895695/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 14:44:15",
+      "https://news.ycombinator.com/item?id=31435326"
+    ],
+    [
+      "Auditory console logging: identifying bugs by listening to code execution",
+      "https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 14:20:05",
       "https://news.ycombinator.com/item?id=31434998"
     ],
     [
       "460M Indian Internet Users Are Now on IPv6",
       "https://www.potaroo.net/bgp/iso3166/v6dcc.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 14:08:53",
+      "https://news.ycombinator.com/item?id=31434851"
+    ],
+    [
+      "OSI to the European Commission: make space for patent-free standards too",
+      "https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/"
     ]
   ],
   [
@@ -31,16 +71,6 @@
   ],
   [
     [
-      "2022-05-19, 13:24:40",
-      "https://news.ycombinator.com/item?id=31434321"
-    ],
-    [
-      "Glitch Is Joining Fastly",
-      "https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 13:03:36",
       "https://news.ycombinator.com/item?id=31434084"
     ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31433914"
     ],
     [
-      "Learning Chess at 40",
+      "Learning Chess at 40 (2016)",
       "https://nautil.us/learning-chess-at-40-4614/"
     ]
   ],
@@ -67,6 +97,16 @@
     [
       "Pikascript: An ultra-lightweight Python engine that can run in 4Kb of RAM",
       "https://github.com/pikasTech/pikascript"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 12:39:34",
+      "https://news.ycombinator.com/item?id=31433792"
+    ],
+    [
+      "The death of 'mandatory fun' in the office",
+      "https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office"
     ]
   ],
   [
@@ -101,6 +141,16 @@
   ],
   [
     [
+      "2022-05-19, 11:18:08",
+      "https://news.ycombinator.com/item?id=31433038"
+    ],
+    [
+      "Good times create weak men",
+      "https://tonsky.me/blog/good-times-weak-men/"
+    ]
+  ],
+  [
+    [
       "2022-05-19, 10:56:06",
       "https://news.ycombinator.com/item?id=31432908"
     ],
@@ -111,21 +161,11 @@
   ],
   [
     [
-      "2022-05-19, 10:45:10",
-      "https://news.ycombinator.com/item?id=31432856"
-    ],
-    [
-      "Apple Is Union-Busting in NYC, Labor Group Alleges",
-      "https://www.bloomberg.com/news/articles/2022-05-18/apple-accused-by-union-of-illegal-tactics-at-new-york-city-store"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 10:43:48",
       "https://news.ycombinator.com/item?id=31432848"
     ],
     [
-      "Show HN: Privaxy – adblocking / tracker blocking by MITMing HTTPS traffic",
+      "Show HN: Privaxy – Adblocking / tracker blocking by MITMing HTTPS traffic",
       "https://github.com/Barre/privaxy"
     ]
   ],
@@ -241,16 +281,6 @@
   ],
   [
     [
-      "2022-05-17, 17:34:57",
-      "https://news.ycombinator.com/item?id=31413919"
-    ],
-    [
-      "Steps towards debugging and resolving Android bootloops",
-      "https://johannes.truschnigg.info/writing/2022-05_android_bootloop_debugging/"
-    ]
-  ],
-  [
-    [
       "2022-05-17, 16:59:51",
       "https://news.ycombinator.com/item?id=31413483"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-05-17, 15:26:46",
-      "https://news.ycombinator.com/item?id=31412110"
-    ],
-    [
-      "AI and Machine Learning – The Basics",
-      "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
-    ]
-  ],
-  [
-    [
       "2022-05-17, 08:22:07",
       "https://news.ycombinator.com/item?id=31407454"
     ],
     [
       "Professional Programming: The First 10 Years",
       "https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 11:58:44",
-      "https://news.ycombinator.com/item?id=31395921"
-    ],
-    [
-      "The Delicious Origins of the Domesticated Blueberry (2016)",
-      "https://daily.jstor.org/delicious-origins-of-domesticated-blueberry/"
-    ]
-  ],
-  [
-    [
-      "2022-05-16, 10:30:00",
-      "https://news.ycombinator.com/item?id=31395352"
-    ],
-    [
-      "Korg NTS-2 DIY oscilloscope and wave generator kit",
-      "https://www.korg.com/us/products/dj/nts_2_pt/index.php"
     ]
   ]
 ]
