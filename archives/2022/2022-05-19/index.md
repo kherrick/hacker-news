@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 12:34:22](https://news.ycombinator.com/item?id=31433721) - [Introducing the New and Upgraded Framework Laptop](https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop)
+* [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
+* [2022-05-19, 12:00:52](https://news.ycombinator.com/item?id=31433384) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+* [2022-05-19, 11:28:45](https://news.ycombinator.com/item?id=31433113) - [Serious Bug in MongoDB Geospatial distance calculation](https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/)
 * [2022-05-19, 11:07:01](https://news.ycombinator.com/item?id=31432967) - [NY Attorney Launches Investigations into Social Media for Role in Buffalo Attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
 * [2022-05-19, 11:02:20](https://news.ycombinator.com/item?id=31432936) - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
+* [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 * [2022-05-19, 10:45:10](https://news.ycombinator.com/item?id=31432856) - [Apple Is Union-Busting in NYC, Labor Group Alleges](https://www.bloomberg.com/news/articles/2022-05-18/apple-accused-by-union-of-illegal-tactics-at-new-york-city-store)
 * [2022-05-19, 10:43:48](https://news.ycombinator.com/item?id=31432848) - [Show HN: Privaxy – adblocking / tracker blocking by MITMing HTTPS traffic](https://github.com/Barre/privaxy)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
