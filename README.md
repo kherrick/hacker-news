@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
 * [2022-05-19, 17:16:13](https://news.ycombinator.com/item?id=31437369) - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
 * [2022-05-19, 17:10:56](https://news.ycombinator.com/item?id=31437312) - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 * [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis, Oscar-Winning Composer, Dies at 79](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
@@ -15,7 +16,6 @@
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice announces new policy for charging cases under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 15:16:44](https://news.ycombinator.com/item?id=31435801) - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
-* [2022-05-19, 14:44:15](https://news.ycombinator.com/item?id=31435326) - [Auditory console logging: identifying bugs by listening to code execution](https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/)
 * [2022-05-19, 14:20:05](https://news.ycombinator.com/item?id=31434998) - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
 * [2022-05-19, 14:08:53](https://news.ycombinator.com/item?id=31434851) - [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
 * [2022-05-19, 13:34:19](https://news.ycombinator.com/item?id=31434434) - [Gov.uk drops jQuery from their front end](https://web.dev/gov-uk-drops-jquery/)
@@ -29,7 +29,7 @@
 * [2022-05-19, 06:07:13](https://news.ycombinator.com/item?id=31431287) - [Happy Birthday, Libera Chat](https://libera.chat/news/happy-birthday-libera-chat)
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 18:27:08](https://news.ycombinator.com/item?id=31426037) - [Time and Frequency (2009)](http://www.prc68.com/I/timefreq.shtml)
-* [2022-05-17, 08:22:07](https://news.ycombinator.com/item?id=31407454) - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+* [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 
 ## [Archives](archives/index.md)
 
