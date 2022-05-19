@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-19, 03:37:26",
-      "https://news.ycombinator.com/item?id=31430407"
-    ],
-    [
-      "Tesla's Safety Record vs. Volvo",
-      "https://www.flyingpenguin.com/?p=35819"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 03:01:06",
       "https://news.ycombinator.com/item?id=31430170"
     ],
@@ -107,6 +97,16 @@
     [
       "Rescale (YC W12) Is Hiring Software Engineers",
       "https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 20:19:13",
+      "https://news.ycombinator.com/item?id=31427141"
+    ],
+    [
+      "Pull-based GitOps moving to Gitlab Free tier",
+      "https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/"
     ]
   ],
   [
