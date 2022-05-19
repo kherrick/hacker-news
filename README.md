@@ -23,13 +23,13 @@
 * [2022-05-18, 15:33:40](https://news.ycombinator.com/item?id=31424048) - [Accelerated PyTorch Training on M1 Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 * [2022-05-18, 14:24:01](https://news.ycombinator.com/item?id=31423149) - [The impact of childhood lead exposure on adult personality (2021)](https://www.pnas.org/doi/full/10.1073/pnas.2020104118)
 * [2022-05-18, 13:47:34](https://news.ycombinator.com/item?id=31422718) - [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/)
-* [2022-05-18, 12:33:02](https://news.ycombinator.com/item?id=31421961) - [Erlang/OTP 25.0 Release](https://www.erlang.org/news/157)
 * [2022-05-18, 11:17:07](https://news.ycombinator.com/item?id=31421364) - [I spent two years launching tiny projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
 * [2022-05-17, 21:28:50](https://news.ycombinator.com/item?id=31416508) - [How to make video calls almost as good as face-to-face (2020)](https://www.benkuhn.net/vc/)
 * [2022-05-17, 15:26:46](https://news.ycombinator.com/item?id=31412110) - [AI and Machine Learning – The Basics](https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/)
 * [2022-05-17, 15:00:56](https://news.ycombinator.com/item?id=31411714) - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2022-05-16, 10:30:00](https://news.ycombinator.com/item?id=31395352) - [Korg NTS-2 DIY oscilloscope and wave generator kit](https://www.korg.com/us/products/dj/nts_2_pt/index.php)
 * [2022-05-16, 08:37:12](https://news.ycombinator.com/item?id=31394719) - [The Tools I Use to Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
+* [2022-05-15, 12:17:39](https://news.ycombinator.com/item?id=31387109) - [Maude Overview](http://maude.cs.illinois.edu/w/index.php/Maude_Overview)
 
 ## [Archives](archives/index.md)
 

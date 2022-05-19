@@ -62,6 +62,7 @@
 * [2022-05-15, 12:53:12](https://news.ycombinator.com/item?id=31387260) - [From AWS Lambda and API Gateway to Knative and Kong API Gateway](https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/)
 * [2022-05-15, 12:50:26](https://news.ycombinator.com/item?id=31387248) - [Web Scraping with Python: Everything you need to know](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 * [2022-05-15, 12:46:56](https://news.ycombinator.com/item?id=31387233) - [Minoan Language Linear A Linked to Linear B in Groundbreaking Research](https://greekreporter.com/2022/04/20/minoan-language-linear-a-linear-b/)
+* [2022-05-15, 12:17:39](https://news.ycombinator.com/item?id=31387109) - [Maude Overview](http://maude.cs.illinois.edu/w/index.php/Maude_Overview)
 * [2022-05-15, 12:12:38](https://news.ycombinator.com/item?id=31387092) - [Liberating out-of-copyright photos from SmartFrame's DRM](https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/)
 * [2022-05-15, 12:07:27](https://news.ycombinator.com/item?id=31387066) - [How much should you criticize other people?](https://marginalrevolution.com/marginalrevolution/2022/05/how-much-should-you-criticize-other-people.html)
 * [2022-05-15, 12:03:52](https://news.ycombinator.com/item?id=31387057) - [Show HN: Security for Developers: A Personal Drama in 3 Acts [Free Mini-eBook]](https://dck-one.medium.com/it-security-for-developers-3ff4b9bae70b)
