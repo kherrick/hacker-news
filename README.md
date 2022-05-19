@@ -15,7 +15,6 @@
 * [2022-05-19, 17:10:56](https://news.ycombinator.com/item?id=31437312) - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
 * [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis has died](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
 * [2022-05-19, 16:51:23](https://news.ycombinator.com/item?id=31437033) - [Google open sourced PSP (hardware cryptographic offload)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
-* [2022-05-19, 16:47:59](https://news.ycombinator.com/item?id=31436993) - [Kaiten: Japan’s fully-manned kamikaze torpedos during WWII](https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html)
 * [2022-05-19, 16:26:12](https://news.ycombinator.com/item?id=31436703) - [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
 * [2022-05-19, 15:57:40](https://news.ycombinator.com/item?id=31436322) - [Wafer Shortage Improvement in Sight for 300mm, but Not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice announces new policy for charging cases under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
@@ -30,6 +29,7 @@
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
+* [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 
 ## [Archives](archives/index.md)
 
