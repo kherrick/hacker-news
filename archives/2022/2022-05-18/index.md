@@ -19,6 +19,7 @@
 * [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:52:50](https://news.ycombinator.com/item?id=31427507) - [2022/23 Worldwide Grain Consumption Will Exceed Production [pdf]](https://downloads.usda.library.cornell.edu/usda-esmis/files/zs25x844t/4t64ht03b/kd17f006c/grain.pdf)
 * [2022-05-18, 20:49:07](https://news.ycombinator.com/item?id=31427455) - [Foundations of Game Engine Development](http://foundationsofgameenginedev.com/)
+* [2022-05-18, 20:31:46](https://news.ycombinator.com/item?id=31427259) - [Turning a Guitar Hero controller into a MIDI controller](https://nick.zoic.org/art/midi-hero/)
 * [2022-05-18, 20:19:24](https://news.ycombinator.com/item?id=31427145) - [Extract sentiment relations from mass-media texts with language models](https://nicolay-r.github.io/blog/articles/2022-05/extract-sentiment-relations-with-arekit-and-deeppavlov)
 * [2022-05-18, 20:19:13](https://news.ycombinator.com/item?id=31427141) - [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
