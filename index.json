@@ -1,22 +1,52 @@
 [
   [
     [
-      "2022-05-19, 11:07:01",
-      "https://news.ycombinator.com/item?id=31432967"
+      "2022-05-19, 12:34:22",
+      "https://news.ycombinator.com/item?id=31433721"
     ],
     [
-      "Attorney General to investigate social media companies’ role in Buffalo attack",
-      "https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role"
+      "Introducing the New and Upgraded Framework Laptop",
+      "https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop"
     ]
   ],
   [
     [
-      "2022-05-19, 11:02:20",
-      "https://news.ycombinator.com/item?id=31432936"
+      "2022-05-19, 12:19:37",
+      "https://news.ycombinator.com/item?id=31433556"
     ],
     [
-      "Poll: Self Hosting Git Repositories",
-      "https://news.ycombinator.com/item?id=31432936"
+      "The new and upgraded Framework Laptop",
+      "https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 12:00:52",
+      "https://news.ycombinator.com/item?id=31433384"
+    ],
+    [
+      "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
+      "https://www.aptible.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 11:28:45",
+      "https://news.ycombinator.com/item?id=31433113"
+    ],
+    [
+      "Serious Bug in MongoDB Geospatial distance calculation",
+      "https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 10:56:06",
+      "https://news.ycombinator.com/item?id=31432908"
+    ],
+    [
+      "Rust: A Critical Retrospective",
+      "https://www.bunniestudios.com/blog/?p=6375"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-05-19, 06:31:01",
-      "https://news.ycombinator.com/item?id=31431387"
-    ],
-    [
-      ".NET 7 introduces Native AOT",
-      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-3/"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 06:07:13",
       "https://news.ycombinator.com/item?id=31431287"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-05-19, 03:01:06",
-      "https://news.ycombinator.com/item?id=31430170"
-    ],
-    [
-      "Engineers investigating NASA’s Voyager 1 telemetry data",
-      "https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 02:33:26",
       "https://news.ycombinator.com/item?id=31430030"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2022-05-18, 23:03:57",
-      "https://news.ycombinator.com/item?id=31428708"
-    ],
-    [
-      "Software Engineering Insights from 10 Years at Google",
-      "https://addyosmani.com/blog/software-eng-10-years/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 22:34:25",
       "https://news.ycombinator.com/item?id=31428481"
     ],
     [
       "Long-Term Building in Japan",
       "https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 20:04:24",
-      "https://news.ycombinator.com/item?id=31427011"
-    ],
-    [
-      "Plastic-eating enzyme could eliminate billions of tons of landfill waste",
-      "https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "AI and Machine Learning – The Basics",
       "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 08:22:07",
+      "https://news.ycombinator.com/item?id=31407454"
+    ],
+    [
+      "Professional Programming: The First 10 Years",
+      "https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/"
     ]
   ],
   [
