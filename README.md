@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-19, 11:07:01](https://news.ycombinator.com/item?id=31432967) - [NY Attorney Launches Investigations into Social Media for Role in Buffalo Attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
+* [2022-05-19, 11:07:01](https://news.ycombinator.com/item?id=31432967) - [Attorney General to investigate social media companies’ role in Buffalo attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
 * [2022-05-19, 11:02:20](https://news.ycombinator.com/item?id=31432936) - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
+* [2022-05-19, 10:45:10](https://news.ycombinator.com/item?id=31432856) - [Apple Is Union-Busting in NYC, Labor Group Alleges](https://www.bloomberg.com/news/articles/2022-05-18/apple-accused-by-union-of-illegal-tactics-at-new-york-city-store)
+* [2022-05-19, 10:43:48](https://news.ycombinator.com/item?id=31432848) - [Show HN: Privaxy – adblocking / tracker blocking by MITMing HTTPS traffic](https://github.com/Barre/privaxy)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 09:52:27](https://news.ycombinator.com/item?id=31432573) - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
 * [2022-05-19, 09:37:51](https://news.ycombinator.com/item?id=31432495) - [GraphQL JIT – GraphQL execution using a JIT compiler](https://github.com/zalando-incubator/graphql-jit)
@@ -17,7 +19,6 @@
 * [2022-05-19, 00:32:06](https://news.ycombinator.com/item?id=31429290) - [Duck Chess](https://duckchess.com/)
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
-* [2022-05-18, 21:00:37](https://news.ycombinator.com/item?id=31427601) - [Rescale (YC W12) Is Hiring Software Engineers](https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:31:44](https://news.ycombinator.com/item?id=31426683) - [I'm an addict](https://tarunreddy.bearblog.dev/addict/)
 * [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
@@ -27,7 +28,6 @@
 * [2022-05-17, 17:34:57](https://news.ycombinator.com/item?id=31413919) - [Steps towards debugging and resolving Android bootloops](https://johannes.truschnigg.info/writing/2022-05_android_bootloop_debugging/)
 * [2022-05-17, 16:59:51](https://news.ycombinator.com/item?id=31413483) - [My thoughts about Fly.io (so far) and other newish technology I'm getting into](https://blog.hartleybrody.com/thoughts-on-flyio/)
 * [2022-05-17, 15:26:46](https://news.ycombinator.com/item?id=31412110) - [AI and Machine Learning – The Basics](https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/)
-* [2022-05-17, 15:03:06](https://news.ycombinator.com/item?id=31411747) - [Enzyme Electric Fields](https://www.science.org/content/blog-post/enzyme-electric-fields)
 * [2022-05-16, 11:58:44](https://news.ycombinator.com/item?id=31395921) - [The Delicious Origins of the Domesticated Blueberry (2016)](https://daily.jstor.org/delicious-origins-of-domesticated-blueberry/)
 * [2022-05-16, 10:30:00](https://news.ycombinator.com/item?id=31395352) - [Korg NTS-2 DIY oscilloscope and wave generator kit](https://www.korg.com/us/products/dj/nts_2_pt/index.php)
 
