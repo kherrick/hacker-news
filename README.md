@@ -15,6 +15,7 @@
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 * [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
+* [2022-05-18, 21:09:14](https://news.ycombinator.com/item?id=31427696) - [Ask HN: Thoughts on being “boring”](https://news.ycombinator.com/item?id=31427696)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-eating enzyme could eliminate billions of tons of landfill waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
@@ -29,7 +30,6 @@
 * [2022-05-17, 15:00:56](https://news.ycombinator.com/item?id=31411714) - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2022-05-16, 11:58:44](https://news.ycombinator.com/item?id=31395921) - [The Delicious Origins of the Domesticated Blueberry (2016)](https://daily.jstor.org/delicious-origins-of-domesticated-blueberry/)
 * [2022-05-16, 10:30:00](https://news.ycombinator.com/item?id=31395352) - [Korg NTS-2 DIY oscilloscope and wave generator kit](https://www.korg.com/us/products/dj/nts_2_pt/index.php)
-* [2022-05-15, 12:17:39](https://news.ycombinator.com/item?id=31387109) - [Maude Overview](http://maude.cs.illinois.edu/w/index.php/Maude_Overview)
 
 ## [Archives](archives/index.md)
 
