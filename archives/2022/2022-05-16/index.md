@@ -73,6 +73,7 @@
 * [2022-05-16, 11:01:01](https://news.ycombinator.com/item?id=31395500) - [Making the Ruby interpreter run a program written in a natural language](https://dmitrytsepelev.dev/natural-language-programming-with-ruby)
 * [2022-05-16, 11:00:09](https://news.ycombinator.com/item?id=31395496) - [Job interviews that go too far](https://www.bbc.com/worklife/article/20220511-the-working-job-interviews-that-go-too-far)
 * [2022-05-16, 10:35:58](https://news.ycombinator.com/item?id=31395379) - [VoCore – Coin-Sized Linux Computer](https://vocore.io/)
+* [2022-05-16, 10:30:00](https://news.ycombinator.com/item?id=31395352) - [Korg NTS-2 DIY oscilloscope and wave generator kit](https://www.korg.com/us/products/dj/nts_2_pt/index.php)
 * [2022-05-16, 10:08:38](https://news.ycombinator.com/item?id=31395231) - [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [2022-05-16, 09:55:58](https://news.ycombinator.com/item?id=31395161) - [Caculating Go type sets is harder than you think](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)
 * [2022-05-16, 09:45:13](https://news.ycombinator.com/item?id=31395081) - [Candlelit Console patch set to the OpenBSD framebuffer console](https://undeadly.org/cgi?action=article;sid=20220516093712)
