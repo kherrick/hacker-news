@@ -22,6 +22,7 @@
 * [2022-05-18, 20:19:24](https://news.ycombinator.com/item?id=31427145) - [Extract sentiment relations from mass-media texts with language models](https://nicolay-r.github.io/blog/articles/2022-05/extract-sentiment-relations-with-arekit-and-deeppavlov)
 * [2022-05-18, 20:19:13](https://news.ycombinator.com/item?id=31427141) - [Pull-based GitOps moving to Gitlab Free tier](https://about.gitlab.com/blog/2022/05/18/pull-based-kubernetes-deployments-coming-to-gitlab-free-tier/)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
+* [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:31:44](https://news.ycombinator.com/item?id=31426683) - [I'm an addict](https://tarunreddy.bearblog.dev/addict/)
 * [2022-05-18, 19:29:21](https://news.ycombinator.com/item?id=31426664) - [Simulating four-dimensional physics in the laboratory](https://physicstoday.scitation.org/doi/10.1063/PT.3.4981)
