@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 21:23:33](https://news.ycombinator.com/item?id=31440344) - [The Right to Privacy (1890)](https://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html)
 * [2022-05-19, 21:18:01](https://news.ycombinator.com/item?id=31440284) - [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence)
 * [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) Is Hiring Senior ML Eng to Scale Dynamic Pricing Engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
