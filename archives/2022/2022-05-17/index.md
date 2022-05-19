@@ -6,6 +6,7 @@
 
 * [2022-05-17, 23:45:16](https://news.ycombinator.com/item?id=31417554) - [Solar-powered desalination device wins MIT $100K competition](https://news.mit.edu/2022/100k-competition-nona-0516)
 * [2022-05-17, 22:25:02](https://news.ycombinator.com/item?id=31416987) - [Plagiarism Today Plagiarized in a Plagiarism Atonement Essay](https://www.plagiarismtoday.com/2022/05/09/plagiarism-today-plagiarized-in-a-plagiarism-atonement-essay/)
+* [2022-05-17, 22:11:56](https://news.ycombinator.com/item?id=31416896) - [My real life use-case for generics in Go: API for client-side pagination](https://vladimir.varank.in/notes/2022/05/a-real-life-use-case-for-generics-in-go-api-for-client-side-pagination/)
 * [2022-05-17, 22:04:41](https://news.ycombinator.com/item?id=31416843) - [Husky, Datadog's Third-Generation Event Store](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 * [2022-05-17, 21:59:59](https://news.ycombinator.com/item?id=31416795) - [Netflix lays off about 150 employees](https://www.reuters.com/business/media-telecom/netflix-lays-off-approximately-150-mostly-us-2022-05-17/)
 * [2022-05-17, 21:28:50](https://news.ycombinator.com/item?id=31416508) - [How to make video calls almost as good as face-to-face (2020)](https://www.benkuhn.net/vc/)
