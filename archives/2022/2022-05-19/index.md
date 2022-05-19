@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-19](index.md)
 
+* [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 19:00:38](https://news.ycombinator.com/item?id=31438659) - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
 * [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
 * [2022-05-19, 17:56:00](https://news.ycombinator.com/item?id=31437946) - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)

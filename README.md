@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 19:00:38](https://news.ycombinator.com/item?id=31438659) - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
 * [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
 * [2022-05-19, 17:56:00](https://news.ycombinator.com/item?id=31437946) - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
@@ -16,7 +17,6 @@
 * [2022-05-19, 15:33:06](https://news.ycombinator.com/item?id=31436033) - [More Subprime Borrowers Are Missing Loan Payments](https://www.wsj.com/articles/more-subprime-borrowers-are-missing-loan-payments-11652952602)
 * [2022-05-19, 15:29:33](https://news.ycombinator.com/item?id=31435976) - [MI officials fast-track bridge fix after man says it 'collapsed under my feet'](https://www.detroitnews.com/story/news/local/detroit-city/2022/05/15/man-says-fell-through-pedestrian-bridge-lodge-freeway-detroit/9787488002/)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice announces new policy for charging cases under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
-* [2022-05-19, 15:16:44](https://news.ycombinator.com/item?id=31435801) - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
 * [2022-05-19, 14:20:05](https://news.ycombinator.com/item?id=31434998) - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
 * [2022-05-19, 14:08:53](https://news.ycombinator.com/item?id=31434851) - [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
