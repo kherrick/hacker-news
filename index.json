@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-19, 00:32:06",
+      "https://news.ycombinator.com/item?id=31429290"
+    ],
+    [
+      "Duck Chess",
+      "https://duckchess.com/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 23:03:57",
+      "https://news.ycombinator.com/item?id=31428708"
+    ],
+    [
+      "Software Engineering Insights from 10 Years at Google",
+      "https://addyosmani.com/blog/software-eng-10-years/"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 22:34:25",
       "https://news.ycombinator.com/item?id=31428481"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2022-05-18, 22:18:26",
-      "https://news.ycombinator.com/item?id=31428338"
-    ],
-    [
-      "Gravity signals could detect earthquakes at the speed of light",
-      "https://www.science.org/content/article/gravity-signals-could-detect-earthquakes-speed-light"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 22:13:07",
       "https://news.ycombinator.com/item?id=31428279"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31427696"
     ],
     [
-      "Ask HN: Thoughts on Being “Boring”",
+      "Ask HN: Thoughts on being “boring”",
       "https://news.ycombinator.com/item?id=31427696"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Rescale (YC W12) Is Hiring Software Engineers",
       "https://jobs.lever.co/rescale/57b5bc81-ee75-4a30-a763-3eb8dd595165?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 20:52:50",
-      "https://news.ycombinator.com/item?id=31427507"
-    ],
-    [
-      "2022/23 Worldwide Grain Consumption Will Exceed Production [pdf]",
-      "https://downloads.usda.library.cornell.edu/usda-esmis/files/zs25x844t/4t64ht03b/kd17f006c/grain.pdf"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31427011"
     ],
     [
-      "Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste",
+      "Plastic-eating enzyme could eliminate billions of tons of landfill waste",
       "https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31426700"
     ],
     [
-      "Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud",
+      "Parmigiano Reggiano makers embedding tiny trackers in rind to fight cheese fraud",
       "https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-05-18, 14:02:03",
-      "https://news.ycombinator.com/item?id=31422884"
-    ],
-    [
-      "Apple introduces new professional training to support growing IT workforce",
-      "https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 13:47:34",
       "https://news.ycombinator.com/item?id=31422718"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=31421745"
     ],
     [
-      "The Big Six Matrix Factorizations",
+      "The big six matrix factorizations",
       "https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-05-17, 15:26:46",
+      "https://news.ycombinator.com/item?id=31412110"
+    ],
+    [
+      "AI and Machine Learning – The Basics",
+      "https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/"
+    ]
+  ],
+  [
+    [
       "2022-05-17, 15:00:56",
       "https://news.ycombinator.com/item?id=31411714"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-05-16, 15:59:55",
-      "https://news.ycombinator.com/item?id=31399366"
+      "2022-05-16, 13:51:28",
+      "https://news.ycombinator.com/item?id=31397165"
     ],
     [
-      "Tetragon: eBPF-Based Security Observability and Runtime Enforcement",
-      "https://github.com/cilium/tetragon"
+      "Code Morphing with Crusoe (2003)",
+      "https://www.embedded.com/code-morphing-with-crusoe/"
     ]
   ],
   [
