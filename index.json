@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31437033"
     ],
     [
-      "Google open sourced PSP (hardware crypto offload)",
+      "Google open sourced PSP (hardware cryptographic offload)",
       "https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Y Combinator's Message to Founders",
       "https://twitter.com/refsrc/status/1527238287471292417"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 14:48:30",
-      "https://news.ycombinator.com/item?id=31435378"
-    ],
-    [
-      "LWN Is Hiring",
-      "https://lwn.net/Articles/895695/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Time and Frequency (2009)",
       "http://www.prc68.com/I/timefreq.shtml"
+    ]
+  ],
+  [
+    [
+      "2022-05-17, 08:22:07",
+      "https://news.ycombinator.com/item?id=31407454"
+    ],
+    [
+      "Professional Programming: The First 10 Years",
+      "https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/"
     ]
   ]
 ]
