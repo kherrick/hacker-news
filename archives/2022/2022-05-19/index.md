@@ -33,6 +33,7 @@
 * [2022-05-19, 15:29:33](https://news.ycombinator.com/item?id=31435976) - [MI officials fast-track bridge fix after man says it 'collapsed under my feet'](https://www.detroitnews.com/story/news/local/detroit-city/2022/05/15/man-says-fell-through-pedestrian-bridge-lodge-freeway-detroit/9787488002/)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice Announces New Policy for Charging Cases Under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 15:16:44](https://news.ycombinator.com/item?id=31435801) - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)
+* [2022-05-19, 15:06:29](https://news.ycombinator.com/item?id=31435644) - [Researchers Power an ARM Processor for a Year Using Algae](https://uk.pcmag.com/processors/140392/researchers-power-an-arm-processor-for-a-year-using-algae)
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
 * [2022-05-19, 14:48:30](https://news.ycombinator.com/item?id=31435378) - [LWN Is Hiring](https://lwn.net/Articles/895695/)
 * [2022-05-19, 14:44:15](https://news.ycombinator.com/item?id=31435326) - [Auditory console logging: identifying bugs by listening to code execution](https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/)
