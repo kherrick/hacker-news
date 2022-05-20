@@ -6,6 +6,7 @@
 
 * [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
 * [2022-05-20, 05:49:38](https://news.ycombinator.com/item?id=31443826) - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
+* [2022-05-20, 05:40:34](https://news.ycombinator.com/item?id=31443777) - [The cryptocurrency sell-off has exposed those swimming naked](https://www.economist.com/leaders/2022/05/18/the-cryptocurrency-sell-off-has-exposed-those-swimming-naked)
 * [2022-05-20, 05:39:40](https://news.ycombinator.com/item?id=31443771) - [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
 * [2022-05-20, 05:33:28](https://news.ycombinator.com/item?id=31443735) - [Mithradites of Fond du Lac (2013)](https://thebeliever.net/mithradites-of-fond-du-lac/)
 * [2022-05-20, 05:28:47](https://news.ycombinator.com/item?id=31443697) - [‘Extortion’: Why Web3 is making a lot of software developers angry](https://www.smh.com.au/business/companies/extortion-why-web3-is-pissing-off-a-lot-of-software-developers-20220516-p5alqd.html)

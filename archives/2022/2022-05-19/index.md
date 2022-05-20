@@ -56,6 +56,7 @@
 * [2022-05-19, 11:07:01](https://news.ycombinator.com/item?id=31432967) - [NY Attorney Launches Investigations into Social Media for Role in Buffalo Attack](https://ag.ny.gov/press-release/2022/attorney-general-james-launches-investigations-social-media-companies-role)
 * [2022-05-19, 11:02:20](https://news.ycombinator.com/item?id=31432936) - [Poll: Self Hosting Git Repositories](https://news.ycombinator.com/item?id=31432936)
 * [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
+* [2022-05-19, 10:45:39](https://news.ycombinator.com/item?id=31432859) - [Show HN: Objectiv – open-source product analytics infrastructure](https://objectiv.io/)
 * [2022-05-19, 10:45:10](https://news.ycombinator.com/item?id=31432856) - [Apple Is Union-Busting in NYC, Labor Group Alleges](https://www.bloomberg.com/news/articles/2022-05-18/apple-accused-by-union-of-illegal-tactics-at-new-york-city-store)
 * [2022-05-19, 10:43:48](https://news.ycombinator.com/item?id=31432848) - [Show HN: Privaxy – adblocking / tracker blocking by MITMing HTTPS traffic](https://github.com/Barre/privaxy)
 * [2022-05-19, 10:10:42](https://news.ycombinator.com/item?id=31432661) - [Animating Regular Expressions with Python and Graphviz](https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a)
