@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 21:58:06](https://news.ycombinator.com/item?id=31453031) - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
 * [2022-05-20, 20:45:13](https://news.ycombinator.com/item?id=31452286) - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
@@ -16,7 +17,6 @@
 * [2022-05-20, 15:00:23](https://news.ycombinator.com/item?id=31448395) - [Design Principles Behind Smalltalk (1981)](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2022-05-20, 14:58:29](https://news.ycombinator.com/item?id=31448360) - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 * [2022-05-20, 14:57:53](https://news.ycombinator.com/item?id=31448351) - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
-* [2022-05-20, 14:55:21](https://news.ycombinator.com/item?id=31448318) - [Connecting an 8086 or 8088 processor to a Raspberry Pi](https://www.homebrew8088.com/home/raspberry-pi-second-project)
 * [2022-05-20, 14:44:17](https://news.ycombinator.com/item?id=31448148) - [A simple, fast and user-friendly alternative to ‘find’](https://github.com/sharkdp/fd)
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [Workarounds to computer access in healthcare organizations (2015) [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
