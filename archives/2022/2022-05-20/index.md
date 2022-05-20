@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 * [2022-05-20, 14:10:42](https://news.ycombinator.com/item?id=31447625) - [Ask HN: Where does your mind wander to?](https://news.ycombinator.com/item?id=31447625)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:53:33](https://news.ycombinator.com/item?id=31447396) - [OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram](https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/)
