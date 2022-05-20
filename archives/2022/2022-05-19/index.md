@@ -40,6 +40,7 @@
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
 * [2022-05-19, 14:48:30](https://news.ycombinator.com/item?id=31435378) - [LWN Is Hiring](https://lwn.net/Articles/895695/)
 * [2022-05-19, 14:44:15](https://news.ycombinator.com/item?id=31435326) - [Auditory console logging: identifying bugs by listening to code execution](https://blog.visor.us/auditory-console-logging-identifying-bugs-by-listening-to-code-execute/)
+* [2022-05-19, 14:23:15](https://news.ycombinator.com/item?id=31435034) - [Teach Your Kids Poker, Not Chess](https://momentofdeep.substack.com/p/teach-your-kids-poker-not-chess)
 * [2022-05-19, 14:22:25](https://news.ycombinator.com/item?id=31435024) - [Ancient tooth suggests Denisovans ventured far beyond Siberia](https://www.nature.com/articles/d41586-022-01372-0)
 * [2022-05-19, 14:20:05](https://news.ycombinator.com/item?id=31434998) - [460M Indian Internet Users Are Now on IPv6](https://www.potaroo.net/bgp/iso3166/v6dcc.html)
 * [2022-05-19, 14:08:53](https://news.ycombinator.com/item?id=31434851) - [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
