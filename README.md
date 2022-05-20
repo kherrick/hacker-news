@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-20, 00:06:31](https://news.ycombinator.com/item?id=31441823) - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
@@ -14,7 +15,6 @@
 * [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis has died](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
 * [2022-05-19, 16:51:23](https://news.ycombinator.com/item?id=31437033) - [Google open sourced PSP (hardware cryptographic offload)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 * [2022-05-19, 16:47:59](https://news.ycombinator.com/item?id=31436993) - [Kaiten: Japan’s fully-manned kamikaze torpedos during WWII](https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html)
-* [2022-05-19, 16:26:12](https://news.ycombinator.com/item?id=31436703) - [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
 * [2022-05-19, 15:57:40](https://news.ycombinator.com/item?id=31436322) - [Wafer shortage improvement in sight for 300mm, but not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice announces new policy for charging cases under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
@@ -29,7 +29,7 @@
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
-* [2022-05-18, 16:46:13](https://news.ycombinator.com/item?id=31424909) - [History of Web Applications](https://www.robinwieruch.de/web-applications/)
+* [2022-05-18, 16:06:40](https://news.ycombinator.com/item?id=31424448) - [Where’s the trees? Gathering and using timber in Neolithic Orkney](https://www.nessofbrodgar.co.uk/where-are-the-trees-gathering-and-using-timber-in-neolithic-orkney/)
 
 ## [Archives](archives/index.md)
 

@@ -41,6 +41,7 @@
 * [2022-05-18, 16:46:13](https://news.ycombinator.com/item?id=31424909) - [History of Web Applications](https://www.robinwieruch.de/web-applications/)
 * [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 * [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
+* [2022-05-18, 16:06:40](https://news.ycombinator.com/item?id=31424448) - [Where’s the trees? Gathering and using timber in Neolithic Orkney](https://www.nessofbrodgar.co.uk/where-are-the-trees-gathering-and-using-timber-in-neolithic-orkney/)
 * [2022-05-18, 16:01:40](https://news.ycombinator.com/item?id=31424392) - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 * [2022-05-18, 15:59:39](https://news.ycombinator.com/item?id=31424368) - [My deepfake DALL-E 2 vacation photos passed the Turing Test](https://www.mattbell.us/my-fake-dall-e-2-vacation-photos-passed-the-turing-test/)
 * [2022-05-18, 15:51:19](https://news.ycombinator.com/item?id=31424252) - [Learning Car Speed Using Inertial Sensors](https://arxiv.org/abs/2205.07883)
