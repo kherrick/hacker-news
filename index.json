@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-05-20, 17:07:08",
-      "https://news.ycombinator.com/item?id=31450127"
-    ],
-    [
-      "Show HN: WebApp to Create 3D Plants",
-      "https://plant.jim-fx.com"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 17:00:00",
       "https://news.ycombinator.com/item?id=31450032"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2022-05-20, 14:28:48",
-      "https://news.ycombinator.com/item?id=31447904"
-    ],
-    [
-      "What's new in Red Hat Enterprise Linux 9",
-      "https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 13:58:49",
       "https://news.ycombinator.com/item?id=31447465"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2022-05-20, 10:03:14",
+      "https://news.ycombinator.com/item?id=31445355"
+    ],
+    [
+      "Ask HN: 6-hour workdays more important than 4-day workweeks IMO",
+      "https://news.ycombinator.com/item?id=31445355"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 08:57:57",
       "https://news.ycombinator.com/item?id=31444913"
     ],
@@ -267,6 +257,16 @@
     [
       "Speeding up sort performance in Postgres 15",
       "https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 03:59:00",
+      "https://news.ycombinator.com/item?id=31443198"
+    ],
+    [
+      "Logging C Functions",
+      "https://justine.lol/ftrace/"
     ]
   ],
   [
