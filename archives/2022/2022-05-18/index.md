@@ -9,6 +9,7 @@
 * [2022-05-18, 23:03:57](https://news.ycombinator.com/item?id=31428708) - [Software Engineering Insights from 10 Years at Google](https://addyosmani.com/blog/software-eng-10-years/)
 * [2022-05-18, 22:34:25](https://news.ycombinator.com/item?id=31428481) - [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/)
 * [2022-05-18, 22:32:35](https://news.ycombinator.com/item?id=31428469) - [1 TW of solar to be deployed annually by 2030](https://pv-magazine-usa.com/2022/05/16/a-fate-realized-1-tw-of-solar-to-be-deployed-annually-by-2030/)
+* [2022-05-18, 22:30:44](https://news.ycombinator.com/item?id=31428452) - [Accelerating the Pace of Machine Learning](https://techxplore.com/news/2022-05-pace-machine.html)
 * [2022-05-18, 22:18:26](https://news.ycombinator.com/item?id=31428338) - [Gravity signals could detect earthquakes at the speed of light](https://www.science.org/content/article/gravity-signals-could-detect-earthquakes-speed-light)
 * [2022-05-18, 22:13:07](https://news.ycombinator.com/item?id=31428279) - [Direct observation of the dead-cone effect in quantum chromodynamics](https://www.nature.com/articles/s41586-022-04572-w)
 * [2022-05-18, 21:58:28](https://news.ycombinator.com/item?id=31428160) - [When reinventing the wheel makes sense](https://mredigonda.github.io/blog/when-reinventing-the-wheel-makes-sense/)

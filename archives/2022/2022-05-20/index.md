@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 15:10:32](https://news.ycombinator.com/item?id=31448530) - [Formula for a Shortage](https://thezvi.substack.com/p/formula-for-a-shortage-8ae)
+* [2022-05-20, 15:05:36](https://news.ycombinator.com/item?id=31448470) - [A Web Around the World, Part 10: A Web of Associations](https://www.filfre.net/2022/05/a-web-around-the-world-part-10-a-web-of-associations/)
+* [2022-05-20, 15:00:23](https://news.ycombinator.com/item?id=31448395) - [Design Principles Behind Smalltalk (2001)](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [2022-05-20, 14:58:29](https://news.ycombinator.com/item?id=31448360) - [Memorizing Transformers – models that can acquire new knowledge immediately](https://arxiv.org/abs/2203.08913)
+* [2022-05-20, 14:57:53](https://news.ycombinator.com/item?id=31448351) - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
+* [2022-05-20, 14:52:38](https://news.ycombinator.com/item?id=31448281) - [Who owns Einstein? The battle for the world’s most famous face](https://www.theguardian.com/media/2022/may/17/who-owns-einstein-the-battle-for-the-worlds-most-famous-face)
+* [2022-05-20, 14:44:17](https://news.ycombinator.com/item?id=31448148) - [Fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
+* [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [You Want My Password or a Dead Patient? [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 * [2022-05-20, 14:10:42](https://news.ycombinator.com/item?id=31447625) - [Ask HN: Where does your mind wander to?](https://news.ycombinator.com/item?id=31447625)
