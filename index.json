@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2022-05-20, 13:53:33",
+      "https://news.ycombinator.com/item?id=31447396"
+    ],
+    [
+      "OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram",
+      "https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 13:25:50",
+      "https://news.ycombinator.com/item?id=31447046"
+    ],
+    [
+      "LiveKit – open-source, high performance WebRTC infrastructure",
+      "https://github.com/livekit/livekit"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 13:08:50",
+      "https://news.ycombinator.com/item?id=31446884"
+    ],
+    [
+      "Why won’t some people pay for news?",
+      "https://www.niemanlab.org/2022/05/why-wont-some-people-pay-for-news/"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 13:06:32",
       "https://news.ycombinator.com/item?id=31446859"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-05-20, 11:51:21",
-      "https://news.ycombinator.com/item?id=31446079"
-    ],
-    [
-      "Sustainability of Stack Exchange Q&A communities",
-      "https://arxiv.org/abs/2205.07745"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 11:39:26",
       "https://news.ycombinator.com/item?id=31446000"
     ],
@@ -127,6 +147,16 @@
     [
       "9-Euro-Ticket",
       "https://www.bahn.com/en/offers/regional/9-euro-ticket-en"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 11:06:20",
+      "https://news.ycombinator.com/item?id=31445753"
+    ],
+    [
+      "Is anyone still using assembly language? You betcha (2007)",
+      "https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-05-20, 05:49:38",
-      "https://news.ycombinator.com/item?id=31443826"
-    ],
-    [
-      "Fake Journal Club",
-      "https://www.gwern.net/Fake-Journal-Club"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 04:11:43",
       "https://news.ycombinator.com/item?id=31443265"
     ],
@@ -241,42 +261,12 @@
   ],
   [
     [
-      "2022-05-19, 15:13:01",
-      "https://news.ycombinator.com/item?id=31435751"
-    ],
-    [
-      "Computation reuse via fusion in Amazon Athena",
-      "https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 12:19:37",
-      "https://news.ycombinator.com/item?id=31433556"
-    ],
-    [
-      "The new and upgraded Framework Laptop",
-      "https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 21:20:36",
       "https://news.ycombinator.com/item?id=31427824"
     ],
     [
       "Why is Zero not falsy in Clojure?",
       "https://stackoverflow.com/questions/32761502/why-is-zero-not-falsy-in-clojure"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 20:12:58",
-      "https://news.ycombinator.com/item?id=31427077"
-    ],
-    [
-      "The Code Is the To-Do List",
-      "https://www.executeprogram.com/blog/the-code-is-the-to-do-list"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Generative art using C++ printer commands and a receipt printer",
       "https://twitter.com/flockaroo/status/1526948400041758721"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 16:46:01",
+      "https://news.ycombinator.com/item?id=31424905"
+    ],
+    [
+      "Troof on Nootropics",
+      "https://astralcodexten.substack.com/p/link-troof-on-nootropics"
     ]
   ]
 ]
