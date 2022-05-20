@@ -55,6 +55,7 @@
 * [2022-05-19, 12:34:22](https://news.ycombinator.com/item?id=31433721) - [Introducing the New and Upgraded Framework Laptop](https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 * [2022-05-19, 12:00:52](https://news.ycombinator.com/item?id=31433384) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+* [2022-05-19, 11:39:12](https://news.ycombinator.com/item?id=31433190) - [Designing for non-rectangular browser windows](https://shkspr.mobi/blog/2022/05/designing-for-non-rectangular-browser-windows/)
 * [2022-05-19, 11:28:45](https://news.ycombinator.com/item?id=31433113) - [Serious Bug in MongoDB Geospatial distance calculation](https://blog.icod.de/2022/05/19/serious-bug-in-mongodb-geospatial-distance-calculation/)
 * [2022-05-19, 11:20:54](https://news.ycombinator.com/item?id=31433051) - [EFF and EU should respond to Google taking FairEmail off the Play store](https://social.platypush.tech/@blacklight/108328001116500718)
 * [2022-05-19, 11:18:08](https://news.ycombinator.com/item?id=31433038) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)

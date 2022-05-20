@@ -27,7 +27,7 @@
 * [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar (2008)](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 * [2022-05-19, 22:25:28](https://news.ycombinator.com/item?id=31440955) - [Scientists Uncover a Shady Web of Online Spider Sales](https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html)
-* [2022-05-19, 14:23:15](https://news.ycombinator.com/item?id=31435034) - [Teach Your Kids Poker, Not Chess](https://momentofdeep.substack.com/p/teach-your-kids-poker-not-chess)
+* [2022-05-19, 11:39:12](https://news.ycombinator.com/item?id=31433190) - [Designing for non-rectangular browser windows](https://shkspr.mobi/blog/2022/05/designing-for-non-rectangular-browser-windows/)
 * [2022-05-18, 19:47:25](https://news.ycombinator.com/item?id=31426838) - [What did British officers think of the American civil war as it was happening?](https://www.historytoday.com/archive/history-matters/war-words)
 * [2022-05-18, 18:43:29](https://news.ycombinator.com/item?id=31426206) - [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 
