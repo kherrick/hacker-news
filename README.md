@@ -20,7 +20,7 @@
 * [2022-05-19, 17:56:00](https://news.ycombinator.com/item?id=31437946) - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
 * [2022-05-19, 17:04:14](https://news.ycombinator.com/item?id=31437226) - [Vangelis has died](https://pitchfork.com/news/vangelis-oscar-winning-composer-dies-at-79/)
 * [2022-05-19, 16:51:23](https://news.ycombinator.com/item?id=31437033) - [Google open sourced PSP (hardware cryptographic offload)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
-* [2022-05-19, 15:57:40](https://news.ycombinator.com/item?id=31436322) - [Wafer shortage improvement in sight for 300mm, but not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
+* [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice announces new policy for charging cases under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 15:06:29](https://news.ycombinator.com/item?id=31435644) - [Researchers power an ARM processor for a year using algae](https://uk.pcmag.com/processors/140392/researchers-power-an-arm-processor-for-a-year-using-algae)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 * [2022-05-19, 10:45:39](https://news.ycombinator.com/item?id=31432859) - [Show HN: Objectiv – open-source product analytics infrastructure](https://objectiv.io/)
