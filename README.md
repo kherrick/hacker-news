@@ -3,6 +3,7 @@
 * [2022-05-20, 10:03:14](https://news.ycombinator.com/item?id=31445355) - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
+* [2022-05-20, 08:51:35](https://news.ycombinator.com/item?id=31444884) - [Ask HN: What are modern architecture patterns for desktop applications?](https://news.ycombinator.com/item?id=31444884)
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 * [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
@@ -13,7 +14,7 @@
 * [2022-05-20, 03:59:00](https://news.ycombinator.com/item?id=31443198) - [Logging C Functions](https://justine.lol/ftrace/)
 * [2022-05-20, 03:36:23](https://news.ycombinator.com/item?id=31443073) - [Graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
 * [2022-05-20, 02:48:07](https://news.ycombinator.com/item?id=31442795) - [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
-* [2022-05-20, 02:33:29](https://news.ycombinator.com/item?id=31442706) - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
+* [2022-05-20, 02:33:29](https://news.ycombinator.com/item?id=31442706) - [A maximally-dense encoding for n-choose-k (2013)](https://www.farside.org.uk/201311/encoding_n_choose_k)
 * [2022-05-20, 01:54:26](https://news.ycombinator.com/item?id=31442470) - [Pixar in a Box: Collaboration Between Pixar Animation Studios and Khan Academy](https://www.khanacademy.org/computing/pixar)
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York rolling out noise law, listening tech for souped-up speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
@@ -29,7 +30,6 @@
 * [2022-05-18, 20:12:58](https://news.ycombinator.com/item?id=31427077) - [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [2022-05-18, 19:53:57](https://news.ycombinator.com/item?id=31426902) - [Advice for Overcoming Writer’s Block (2016)](https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html)
 * [2022-05-18, 16:11:58](https://news.ycombinator.com/item?id=31424510) - [Flower Power](https://www.laphamsquarterly.org/roundtable/flower-power)
-* [2022-05-18, 16:06:40](https://news.ycombinator.com/item?id=31424448) - [Where’s the trees? Gathering and using timber in Neolithic Orkney](https://www.nessofbrodgar.co.uk/where-are-the-trees-gathering-and-using-timber-in-neolithic-orkney/)
 
 ## [Archives](archives/index.md)
 
