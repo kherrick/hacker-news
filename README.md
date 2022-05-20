@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
 * [2022-05-20, 05:49:38](https://news.ycombinator.com/item?id=31443826) - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
 * [2022-05-20, 05:39:40](https://news.ycombinator.com/item?id=31443771) - [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
-* [2022-05-20, 05:28:47](https://news.ycombinator.com/item?id=31443697) - [‘Extortion’: Why Web3 is making a lot of software developers angry](https://www.smh.com.au/business/companies/extortion-why-web3-is-pissing-off-a-lot-of-software-developers-20220516-p5alqd.html)
+* [2022-05-20, 05:33:28](https://news.ycombinator.com/item?id=31443735) - [Mithradites of Fond du Lac (2013)](https://thebeliever.net/mithradites-of-fond-du-lac/)
 * [2022-05-20, 04:11:43](https://news.ycombinator.com/item?id=31443265) - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
 * [2022-05-20, 03:59:00](https://news.ycombinator.com/item?id=31443198) - [Logging C Functions](https://justine.lol/ftrace/)
 * [2022-05-20, 03:36:23](https://news.ycombinator.com/item?id=31443073) - [Graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
@@ -11,7 +12,6 @@
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York rolling out noise law, listening tech for souped-up speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-20, 00:06:31](https://news.ycombinator.com/item?id=31441823) - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
-* [2022-05-19, 21:00:56](https://news.ycombinator.com/item?id=31440112) - [Smarking (YC W15) is hiring a senior ML engineer to scale dynamic pricing engine](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)
