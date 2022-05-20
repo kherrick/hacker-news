@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 13:06:32](https://news.ycombinator.com/item?id=31446859) - [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
+* [2022-05-20, 12:39:53](https://news.ycombinator.com/item?id=31446568) - [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)
+* [2022-05-20, 12:38:24](https://news.ycombinator.com/item?id=31446550) - [Eigr: Stateful Serverless in the Beam](https://eigr.io/)
+* [2022-05-20, 12:36:47](https://news.ycombinator.com/item?id=31446523) - [Judge orders trial in Tesla autopilot manslaughter case](https://www.courthousenews.com/judge-orders-trial-in-tesla-autopilot-manslaughter-case/)
 * [2022-05-20, 12:11:09](https://news.ycombinator.com/item?id=31446236) - [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
 * [2022-05-20, 12:08:31](https://news.ycombinator.com/item?id=31446215) - [Town Seized Building, Offered to Return It If Owners Bought Two Cars for Police](https://reason.com/2022/05/19/michigan-couple-says-town-seized-their-building-and-offered-to-return-it-if-they-bought-two-cars-for-police/)
 * [2022-05-20, 12:00:57](https://news.ycombinator.com/item?id=31446153) - [Ploomber (YC W22) Is Hiring Remote Software Engineers and DevRel](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2022-05-20, 11:39:26](https://news.ycombinator.com/item?id=31446000) - [RouterOS – Communications Assistance for Law Enforcement Act (2012)](https://wiki.mikrotik.com/wiki/CALEA)
+* [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar – a teaching technique](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 * [2022-05-20, 11:06:20](https://news.ycombinator.com/item?id=31445753) - [Is anyone still using assembly language? You betcha](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
 * [2022-05-20, 10:07:53](https://news.ycombinator.com/item?id=31445380) - [an OnlyFans creator found and slept with FB employees to undelete her IG account](https://twitter.com/taylorlorenz/status/1527007677184110592)
