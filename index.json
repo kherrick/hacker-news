@@ -1,6 +1,86 @@
 [
   [
     [
+      "2022-05-20, 15:10:32",
+      "https://news.ycombinator.com/item?id=31448530"
+    ],
+    [
+      "Formula for a Shortage",
+      "https://thezvi.substack.com/p/formula-for-a-shortage-8ae"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 15:05:36",
+      "https://news.ycombinator.com/item?id=31448470"
+    ],
+    [
+      "A Web Around the World, Part 10: A Web of Associations",
+      "https://www.filfre.net/2022/05/a-web-around-the-world-part-10-a-web-of-associations/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 15:00:23",
+      "https://news.ycombinator.com/item?id=31448395"
+    ],
+    [
+      "Design Principles Behind Smalltalk (2001)",
+      "http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 14:58:29",
+      "https://news.ycombinator.com/item?id=31448360"
+    ],
+    [
+      "Memorizing Transformers – models that can acquire new knowledge immediately",
+      "https://arxiv.org/abs/2203.08913"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 14:57:53",
+      "https://news.ycombinator.com/item?id=31448351"
+    ],
+    [
+      "Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action",
+      "https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 14:52:38",
+      "https://news.ycombinator.com/item?id=31448281"
+    ],
+    [
+      "Who owns Einstein? The battle for the world’s most famous face",
+      "https://www.theguardian.com/media/2022/may/17/who-owns-einstein-the-battle-for-the-worlds-most-famous-face"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 14:44:17",
+      "https://news.ycombinator.com/item?id=31448148"
+    ],
+    [
+      "Fd: A simple, fast and user-friendly alternative to 'find'",
+      "https://github.com/sharkdp/fd"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 14:37:31",
+      "https://news.ycombinator.com/item?id=31448044"
+    ],
+    [
+      "Lavender's Game: Silexan for Anxiety",
+      "https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 14:33:54",
       "https://news.ycombinator.com/item?id=31447995"
     ],
@@ -51,16 +131,6 @@
   ],
   [
     [
-      "2022-05-20, 13:06:32",
-      "https://news.ycombinator.com/item?id=31446859"
-    ],
-    [
-      "History of AMP and Why Everybody Is Against It?",
-      "https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 13:00:45",
       "https://news.ycombinator.com/item?id=31446800"
     ],
@@ -77,16 +147,6 @@
     [
       "Aphrodite: ORM designed for Local-First applications and P2P data transfer",
       "https://aphrodite.sh/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 12:39:53",
-      "https://news.ycombinator.com/item?id=31446568"
-    ],
-    [
-      "The madness of reduced medical diagnostics",
-      "https://dynomight.net/diagnostics/"
     ]
   ],
   [
@@ -211,72 +271,12 @@
   ],
   [
     [
-      "2022-05-20, 06:25:22",
-      "https://news.ycombinator.com/item?id=31444001"
+      "2022-05-18, 22:30:44",
+      "https://news.ycombinator.com/item?id=31428452"
     ],
     [
-      "Midnight Trains – A Hotel on Rails",
-      "https://www.midnight-trains.com/en/home"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 04:11:43",
-      "https://news.ycombinator.com/item?id=31443265"
-    ],
-    [
-      "Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth",
-      "https://www.thespacereview.com/article/4384/1"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 03:59:00",
-      "https://news.ycombinator.com/item?id=31443198"
-    ],
-    [
-      "Logging C Functions",
-      "https://justine.lol/ftrace/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 03:36:23",
-      "https://news.ycombinator.com/item?id=31443073"
-    ],
-    [
-      "Graphene may have found its killer app",
-      "https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 01:33:13",
-      "https://news.ycombinator.com/item?id=31442367"
-    ],
-    [
-      "New York rolling out noise law, listening tech for souped-up speedsters",
-      "https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 21:20:36",
-      "https://news.ycombinator.com/item?id=31427824"
-    ],
-    [
-      "Why is Zero not falsy in Clojure?",
-      "https://stackoverflow.com/questions/32761502/why-is-zero-not-falsy-in-clojure"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 19:53:57",
-      "https://news.ycombinator.com/item?id=31426902"
-    ],
-    [
-      "Advice for Overcoming Writer’s Block (2016)",
-      "https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html"
+      "Accelerating the Pace of Machine Learning",
+      "https://techxplore.com/news/2022-05-pace-machine.html"
     ]
   ],
   [
