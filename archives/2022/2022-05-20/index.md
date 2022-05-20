@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:06:32](https://news.ycombinator.com/item?id=31446859) - [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
 * [2022-05-20, 13:00:45](https://news.ycombinator.com/item?id=31446800) - [Crispier Chocolate](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f)
 * [2022-05-20, 12:39:53](https://news.ycombinator.com/item?id=31446568) - [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:06:32](https://news.ycombinator.com/item?id=31446859) - [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
 * [2022-05-20, 13:00:45](https://news.ycombinator.com/item?id=31446800) - [Crispier Chocolate](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f)
 * [2022-05-20, 12:39:53](https://news.ycombinator.com/item?id=31446568) - [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)
@@ -12,7 +13,6 @@
 * [2022-05-20, 11:39:26](https://news.ycombinator.com/item?id=31446000) - [RouterOS – Communications Assistance for Law Enforcement Act (2012)](https://wiki.mikrotik.com/wiki/CALEA)
 * [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar – a teaching technique](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
-* [2022-05-20, 11:06:20](https://news.ycombinator.com/item?id=31445753) - [Is anyone still using assembly language? You betcha (2007)](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
 * [2022-05-20, 10:03:14](https://news.ycombinator.com/item?id=31445355) - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
