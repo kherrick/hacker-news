@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 09:37:12](https://news.ycombinator.com/item?id=31445173) - [Slaughter/suffering free pork cultivated meat](https://www.greenqueen.com.hk/mewery-cultivated-pork-microalgae/)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
@@ -19,7 +20,6 @@
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
-* [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [Tell HN: The loneliness of a pretty good developer](https://news.ycombinator.com/item?id=31438426)
 * [2022-05-19, 15:06:29](https://news.ycombinator.com/item?id=31435644) - [Researchers power an ARM processor for a year using algae](https://uk.pcmag.com/processors/140392/researchers-power-an-arm-processor-for-a-year-using-algae)
 * [2022-05-19, 13:15:29](https://news.ycombinator.com/item?id=31434208) - [Getting Started Making Sounds](https://learningsynths.ableton.com/en/get-started)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)

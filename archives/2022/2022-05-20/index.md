@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 09:37:12](https://news.ycombinator.com/item?id=31445173) - [Slaughter/suffering free pork cultivated meat](https://www.greenqueen.com.hk/mewery-cultivated-pork-microalgae/)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
