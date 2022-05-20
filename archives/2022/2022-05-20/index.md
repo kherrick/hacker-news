@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 * [2022-05-20, 07:49:55](https://news.ycombinator.com/item?id=31444511) - [Tell HN: Reddit does not allow comments post via old.reddit.com](https://news.ycombinator.com/item?id=31444511)
 * [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)

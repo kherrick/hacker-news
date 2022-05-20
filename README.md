@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 * [2022-05-20, 07:49:55](https://news.ycombinator.com/item?id=31444511) - [Tell HN: Reddit does not allow comments post via old.reddit.com](https://news.ycombinator.com/item?id=31444511)
 * [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
@@ -13,7 +14,6 @@
 * [2022-05-20, 02:48:07](https://news.ycombinator.com/item?id=31442795) - [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
 * [2022-05-20, 02:33:29](https://news.ycombinator.com/item?id=31442706) - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York rolling out noise law, listening tech for souped-up speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
-* [2022-05-20, 00:06:31](https://news.ycombinator.com/item?id=31441823) - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
 * [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
