@@ -25,11 +25,11 @@
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
 * [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 * [2022-05-19, 10:10:42](https://news.ycombinator.com/item?id=31432661) - [Animating Regular Expressions with Python and Graphviz](https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a)
-* [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 05:55:47](https://news.ycombinator.com/item?id=31431233) - [GameBoy Graphics: Tiles, Palettes, and Encoding [video]](https://www.youtube.com/watch?v=txkHN6izK2Y)
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
 * [2022-05-18, 23:45:50](https://news.ycombinator.com/item?id=31428984) - [Technology-Free Hotels](https://www.insidehook.com/article/travel/technology-free-hotels-hospitality)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
+* [2022-05-18, 16:46:13](https://news.ycombinator.com/item?id=31424909) - [History of Web Applications](https://www.robinwieruch.de/web-applications/)
 
 ## [Archives](archives/index.md)
 
