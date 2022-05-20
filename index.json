@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-20, 14:28:48",
+      "https://news.ycombinator.com/item?id=31447904"
+    ],
+    [
+      "Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)",
+      "https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 14:10:42",
       "https://news.ycombinator.com/item?id=31447625"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-05-20, 08:54:25",
-      "https://news.ycombinator.com/item?id=31444895"
-    ],
-    [
-      "A key-infra open-source project can get compromised",
-      "https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 08:00:47",
       "https://news.ycombinator.com/item?id=31444573"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-05-19, 15:13:01",
-      "https://news.ycombinator.com/item?id=31435751"
-    ],
-    [
-      "Computation reuse via fusion in Amazon Athena",
-      "https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 21:20:36",
       "https://news.ycombinator.com/item?id=31427824"
     ],
@@ -297,6 +287,16 @@
     [
       "Generative art using C++ printer commands and a receipt printer",
       "https://twitter.com/flockaroo/status/1526948400041758721"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 16:46:01",
+      "https://news.ycombinator.com/item?id=31424905"
+    ],
+    [
+      "Troof on Nootropics",
+      "https://astralcodexten.substack.com/p/link-troof-on-nootropics"
     ]
   ]
 ]
