@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-20, 10:07:53](https://news.ycombinator.com/item?id=31445380) - [an OnlyFans creator found and slept with FB employees to undelete her IG account](https://twitter.com/taylorlorenz/status/1527007677184110592)
+* [2022-05-20, 10:03:14](https://news.ycombinator.com/item?id=31445355) - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
@@ -19,7 +20,6 @@
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York rolling out noise law, listening tech for souped-up speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
-* [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 15:13:01](https://news.ycombinator.com/item?id=31435751) - [Computation reuse via fusion in Amazon Athena](https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies)
 * [2022-05-19, 15:06:29](https://news.ycombinator.com/item?id=31435644) - [Researchers power an ARM processor for a year using algae](https://uk.pcmag.com/processors/140392/researchers-power-an-arm-processor-for-a-year-using-algae)
