@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-05-20, 15:54:57",
+      "https://news.ycombinator.com/item?id=31449147"
+    ],
+    [
+      "This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti",
+      "https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 15:31:06",
       "https://news.ycombinator.com/item?id=31448819"
     ],
     [
       "Tether Required Recapitalization in May 2022",
       "https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 15:10:32",
-      "https://news.ycombinator.com/item?id=31448530"
-    ],
-    [
-      "Formula for a Shortage",
-      "https://thezvi.substack.com/p/formula-for-a-shortage-8ae"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31448360"
     ],
     [
-      "Memorizing Transformers – models that can acquire new knowledge immediately",
+      "Memorizing Transformers",
       "https://arxiv.org/abs/2203.08913"
     ]
   ],
@@ -61,11 +61,21 @@
   ],
   [
     [
+      "2022-05-20, 14:52:38",
+      "https://news.ycombinator.com/item?id=31448281"
+    ],
+    [
+      "Who owns Einstein? The battle for the world’s most famous face",
+      "https://www.theguardian.com/media/2022/may/17/who-owns-einstein-the-battle-for-the-worlds-most-famous-face"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 14:44:17",
       "https://news.ycombinator.com/item?id=31448148"
     ],
     [
-      "Fd: A simple, fast and user-friendly alternative to 'find'",
+      "A simple, fast and user-friendly alternative to ‘find’",
       "https://github.com/sharkdp/fd"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31447995"
     ],
     [
-      "You Want My Password or a Dead Patient? [pdf]",
+      "Workarounds to computer access in healthcare organizations (2015) [pdf]",
       "https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf"
     ]
   ],
@@ -95,8 +105,18 @@
       "https://news.ycombinator.com/item?id=31447904"
     ],
     [
-      "Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)",
+      "What's new in Red Hat Enterprise Linux 9",
       "https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 14:26:33",
+      "https://news.ycombinator.com/item?id=31447853"
+    ],
+    [
+      "The Specificity Gradient",
+      "https://doriantaylor.com/the-specificity-gradient"
     ]
   ],
   [
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2022-05-20, 13:53:33",
-      "https://news.ycombinator.com/item?id=31447396"
-    ],
-    [
-      "OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram",
-      "https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 13:25:50",
       "https://news.ycombinator.com/item?id=31447046"
     ],
     [
-      "LiveKit – open-source, high performance WebRTC infrastructure",
+      "LiveKit – Open source, high performance WebRTC infrastructure",
       "https://github.com/livekit/livekit"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 13:00:45",
-      "https://news.ycombinator.com/item?id=31446800"
-    ],
-    [
-      "Crispier Chocolate",
-      "https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=31445868"
     ],
     [
-      "My Favorite Liar – a teaching technique",
+      "My Favorite Liar (2008)",
       "https://www.overcomingbias.com/2008/02/my-favorite-lia.html"
     ]
   ],
