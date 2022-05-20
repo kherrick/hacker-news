@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 19:30:21](https://news.ycombinator.com/item?id=31451561) - [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
 * [2022-05-20, 18:50:21](https://news.ycombinator.com/item?id=31451142) - [Fanless Intel J4125 4x I225 Virtualized Firewall Appliance Review](https://www.servethehome.com/topton-intel-j4125-4x-i225-fanless-virtualized-firewall-appliance-review-pfsense-opnsense-proxmox-ve/)
 * [2022-05-20, 18:08:24](https://news.ycombinator.com/item?id=31450713) - [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
 * [2022-05-20, 17:07:08](https://news.ycombinator.com/item?id=31450127) - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
@@ -18,7 +19,6 @@
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [Workarounds to computer access in healthcare organizations (2015) [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:25:50](https://news.ycombinator.com/item?id=31447046) - [LiveKit – Open source, high performance WebRTC infrastructure](https://github.com/livekit/livekit)
-* [2022-05-20, 12:58:31](https://news.ycombinator.com/item?id=31446780) - [Aphrodite: ORM designed for Local-First applications and P2P data transfer](https://aphrodite.sh/)
 * [2022-05-20, 12:11:09](https://news.ycombinator.com/item?id=31446236) - [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
 * [2022-05-20, 12:08:31](https://news.ycombinator.com/item?id=31446215) - [Town Seized Building, Offered to Return It If Owners Bought Two Cars for Police](https://reason.com/2022/05/19/michigan-couple-says-town-seized-their-building-and-offered-to-return-it-if-they-bought-two-cars-for-police/)
 * [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar (2008)](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
