@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 04:11:43](https://news.ycombinator.com/item?id=31443265) - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
 * [2022-05-20, 03:36:23](https://news.ycombinator.com/item?id=31443073) - [The wonder material graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
+* [2022-05-20, 02:48:07](https://news.ycombinator.com/item?id=31442795) - [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
 * [2022-05-20, 02:33:29](https://news.ycombinator.com/item?id=31442706) - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-20, 00:06:31](https://news.ycombinator.com/item?id=31441823) - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
@@ -21,9 +23,7 @@
 * [2022-05-19, 14:50:44](https://news.ycombinator.com/item?id=31435407) - [Y Combinator's Message to Founders](https://twitter.com/refsrc/status/1527238287471292417)
 * [2022-05-19, 14:08:53](https://news.ycombinator.com/item?id=31434851) - [OSI to the European Commission: make space for patent-free standards too](https://blog.opensource.org/osi-to-the-european-commission-make-space-for-patent-free-standards-too/)
 * [2022-05-19, 13:34:19](https://news.ycombinator.com/item?id=31434434) - [Gov.uk drops jQuery from their front end](https://web.dev/gov-uk-drops-jquery/)
-* [2022-05-19, 13:03:36](https://news.ycombinator.com/item?id=31434084) - [Fastly acquires Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
 * [2022-05-19, 12:19:37](https://news.ycombinator.com/item?id=31433556) - [The new and upgraded Framework Laptop](https://community.frame.work/t/introducing-the-new-and-upgraded-framework-laptop/18646)
-* [2022-05-19, 10:56:06](https://news.ycombinator.com/item?id=31432908) - [Rust: A Critical Retrospective](https://www.bunniestudios.com/blog/?p=6375)
 * [2022-05-19, 10:10:42](https://news.ycombinator.com/item?id=31432661) - [Animating Regular Expressions with Python and Graphviz](https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a)
 * [2022-05-19, 05:55:47](https://news.ycombinator.com/item?id=31431233) - [GameBoy Graphics: Tiles, Palettes, and Encoding [video]](https://www.youtube.com/watch?v=txkHN6izK2Y)
 * [2022-05-19, 00:48:18](https://news.ycombinator.com/item?id=31429384) - [Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]](https://media.longnow.org/files/2/soul-of-japan-wb.pdf)
