@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-20, 05:49:38",
+      "https://news.ycombinator.com/item?id=31443826"
+    ],
+    [
+      "Fake Journal Club",
+      "https://www.gwern.net/Fake-Journal-Club"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 05:39:40",
+      "https://news.ycombinator.com/item?id=31443771"
+    ],
+    [
+      "Almost 1/3 of San Francisco charging stations are broken",
+      "https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 05:28:47",
+      "https://news.ycombinator.com/item?id=31443697"
+    ],
+    [
+      "‘Extortion’: Why Web3 is making a lot of software developers angry",
+      "https://www.smh.com.au/business/companies/extortion-why-web3-is-pissing-off-a-lot-of-software-developers-20220516-p5alqd.html"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 04:11:43",
       "https://news.ycombinator.com/item?id=31443265"
     ],
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2022-05-19, 19:28:04",
-      "https://news.ycombinator.com/item?id=31438989"
-    ],
-    [
-      "HTTP Cats",
-      "https://http.cat/"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 19:17:22",
       "https://news.ycombinator.com/item?id=31438864"
     ],
     [
       "Render mathematical expressions in Markdown On GitHub",
       "https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 19:00:38",
-      "https://news.ycombinator.com/item?id=31438659"
-    ],
-    [
-      "The Coming Food Catastrophe",
-      "https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-19, 10:56:06",
-      "https://news.ycombinator.com/item?id=31432908"
-    ],
-    [
-      "Rust: A Critical Retrospective",
-      "https://www.bunniestudios.com/blog/?p=6375"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 10:10:42",
       "https://news.ycombinator.com/item?id=31432661"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-05-19, 00:48:18",
-      "https://news.ycombinator.com/item?id=31429384"
-    ],
-    [
-      "Soul of Japan: An Introduction to Shinto and Ise Jingu (2013) [pdf]",
-      "https://media.longnow.org/files/2/soul-of-japan-wb.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-18, 20:12:58",
       "https://news.ycombinator.com/item?id=31427077"
     ],
@@ -287,6 +277,16 @@
     [
       "Notes on the M4 Macro Language (2008)",
       "http://mbreen.com/m4.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 19:53:57",
+      "https://news.ycombinator.com/item?id=31426902"
+    ],
+    [
+      "Dan Harmon’s Excellent Advice for Overcoming Writer’s Block (2016)",
+      "https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html"
     ]
   ],
   [
