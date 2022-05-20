@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-20, 13:06:32",
+      "https://news.ycombinator.com/item?id=31446859"
+    ],
+    [
+      "History of AMP and Why Everybody Is Against It?",
+      "https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 12:39:53",
+      "https://news.ycombinator.com/item?id=31446568"
+    ],
+    [
+      "The madness of reduced medical diagnostics",
+      "https://dynomight.net/diagnostics/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 12:38:24",
+      "https://news.ycombinator.com/item?id=31446550"
+    ],
+    [
+      "Eigr: Stateful Serverless in the Beam",
+      "https://eigr.io/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 12:36:47",
+      "https://news.ycombinator.com/item?id=31446523"
+    ],
+    [
+      "Judge orders trial in Tesla autopilot manslaughter case",
+      "https://www.courthousenews.com/judge-orders-trial-in-tesla-autopilot-manslaughter-case/"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 12:11:09",
       "https://news.ycombinator.com/item?id=31446236"
     ],
@@ -37,6 +77,16 @@
     [
       "RouterOS – Communications Assistance for Law Enforcement Act (2012)",
       "https://wiki.mikrotik.com/wiki/CALEA"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 11:20:20",
+      "https://news.ycombinator.com/item?id=31445868"
+    ],
+    [
+      "My Favorite Liar – a teaching technique",
+      "https://www.overcomingbias.com/2008/02/my-favorite-lia.html"
     ]
   ],
   [
@@ -87,16 +137,6 @@
     [
       "A key-infra open-source project can get compromised",
       "https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 08:51:35",
-      "https://news.ycombinator.com/item?id=31444884"
-    ],
-    [
-      "Ask HN: What are modern architecture patterns for desktop applications?",
-      "https://news.ycombinator.com/item?id=31444884"
     ]
   ],
   [
@@ -171,52 +211,12 @@
   ],
   [
     [
-      "2022-05-20, 02:48:07",
-      "https://news.ycombinator.com/item?id=31442795"
-    ],
-    [
-      "Moderna’s HIV Vaccine Prepped for Trials in Africa",
-      "https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 02:33:29",
-      "https://news.ycombinator.com/item?id=31442706"
-    ],
-    [
-      "A maximally-dense encoding for n-choose-k (2013)",
-      "https://www.farside.org.uk/201311/encoding_n_choose_k"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 01:54:26",
-      "https://news.ycombinator.com/item?id=31442470"
-    ],
-    [
-      "Pixar in a Box: Collaboration Between Pixar Animation Studios and Khan Academy",
-      "https://www.khanacademy.org/computing/pixar"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 01:33:13",
       "https://news.ycombinator.com/item?id=31442367"
     ],
     [
       "New York rolling out noise law, listening tech for souped-up speedsters",
       "https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 21:39:41",
-      "https://news.ycombinator.com/item?id=31440518"
-    ],
-    [
-      "Engineer turns plastic into bricks that are reportedly stronger than concrete",
-      "https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/"
     ]
   ],
   [
@@ -255,18 +255,18 @@
       "https://news.ycombinator.com/item?id=31432859"
     ],
     [
-      "Show HN: Objectiv – open-source product analytics infrastructure",
+      "Show HN: Objectiv – Open-source product analytics infrastructure",
       "https://objectiv.io/"
     ]
   ],
   [
     [
-      "2022-05-19, 05:55:47",
-      "https://news.ycombinator.com/item?id=31431233"
+      "2022-05-18, 21:20:36",
+      "https://news.ycombinator.com/item?id=31427824"
     ],
     [
-      "GameBoy Graphics: Tiles, Palettes, and Encoding [video]",
-      "https://www.youtube.com/watch?v=txkHN6izK2Y"
+      "Why is Zero not falsy in Clojure?",
+      "https://stackoverflow.com/questions/32761502/why-is-zero-not-falsy-in-clojure"
     ]
   ],
   [
