@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 17:00:00](https://news.ycombinator.com/item?id=31450032) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-05-20, 16:00:26](https://news.ycombinator.com/item?id=31449237) - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 * [2022-05-20, 15:32:11](https://news.ycombinator.com/item?id=31448836) - [GCC Profiler Internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
@@ -19,7 +20,6 @@
 * [2022-05-20, 12:38:24](https://news.ycombinator.com/item?id=31446550) - [Eigr: Stateful Serverless in the Beam](https://eigr.io/)
 * [2022-05-20, 12:11:09](https://news.ycombinator.com/item?id=31446236) - [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
 * [2022-05-20, 12:08:31](https://news.ycombinator.com/item?id=31446215) - [Town Seized Building, Offered to Return It If Owners Bought Two Cars for Police](https://reason.com/2022/05/19/michigan-couple-says-town-seized-their-building-and-offered-to-return-it-if-they-bought-two-cars-for-police/)
-* [2022-05-20, 12:00:57](https://news.ycombinator.com/item?id=31446153) - [Ploomber (YC W22) Is Hiring Remote Software Engineers and DevRel](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2022-05-20, 11:39:26](https://news.ycombinator.com/item?id=31446000) - [RouterOS – Communications Assistance for Law Enforcement Act (2012)](https://wiki.mikrotik.com/wiki/CALEA)
 * [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar (2008)](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
