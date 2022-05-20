@@ -61,6 +61,7 @@
 * [2022-05-19, 10:45:10](https://news.ycombinator.com/item?id=31432856) - [Apple Is Union-Busting in NYC, Labor Group Alleges](https://www.bloomberg.com/news/articles/2022-05-18/apple-accused-by-union-of-illegal-tactics-at-new-york-city-store)
 * [2022-05-19, 10:43:48](https://news.ycombinator.com/item?id=31432848) - [Show HN: Privaxy – adblocking / tracker blocking by MITMing HTTPS traffic](https://github.com/Barre/privaxy)
 * [2022-05-19, 10:10:42](https://news.ycombinator.com/item?id=31432661) - [Animating Regular Expressions with Python and Graphviz](https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a)
+* [2022-05-19, 10:10:05](https://news.ycombinator.com/item?id=31432658) - [The galaxy as a 'cosmic telescope' to study heart of the young universe](https://phys.org/news/2022-05-galaxy-cosmic-telescope-heart-young.html)
 * [2022-05-19, 10:08:52](https://news.ycombinator.com/item?id=31432648) - [You Eat a Credit’s Card Worth of Plastic Every Week](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/)
 * [2022-05-19, 09:52:27](https://news.ycombinator.com/item?id=31432573) - [Outhorse Your Email](https://www.visiticeland.com/outhorse-your-email/)
 * [2022-05-19, 09:37:51](https://news.ycombinator.com/item?id=31432495) - [GraphQL JIT – GraphQL execution using a JIT compiler](https://github.com/zalando-incubator/graphql-jit)
