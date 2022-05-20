@@ -43,6 +43,7 @@
 * [2022-05-19, 13:34:19](https://news.ycombinator.com/item?id=31434434) - [Gov.uk drops jQuery from their front end](https://web.dev/gov-uk-drops-jquery/)
 * [2022-05-19, 13:28:22](https://news.ycombinator.com/item?id=31434372) - [Tell HN: FairEmail terminated after Google falsely flagged as spyware](https://news.ycombinator.com/item?id=31434372)
 * [2022-05-19, 13:24:40](https://news.ycombinator.com/item?id=31434321) - [Glitch Is Joining Fastly](https://blog.glitch.com/post/an-exciting-leap-forward-for-glitch)
+* [2022-05-19, 13:15:29](https://news.ycombinator.com/item?id=31434208) - [Getting Started Making Sounds](https://learningsynths.ableton.com/en/get-started)
 * [2022-05-19, 13:03:36](https://news.ycombinator.com/item?id=31434084) - [Fastly Announces Acquisition of Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
 * [2022-05-19, 12:49:30](https://news.ycombinator.com/item?id=31433914) - [Learning Chess at 40](https://nautil.us/learning-chess-at-40-4614/)
 * [2022-05-19, 12:41:54](https://news.ycombinator.com/item?id=31433815) - [Pikascript: An ultra-lightweight Python engine that can run in 4Kb of RAM](https://github.com/pikasTech/pikascript)
