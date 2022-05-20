@@ -48,6 +48,7 @@
 * [2022-05-18, 16:46:01](https://news.ycombinator.com/item?id=31424905) - [Troof on Nootropics](https://astralcodexten.substack.com/p/link-troof-on-nootropics)
 * [2022-05-18, 16:18:38](https://news.ycombinator.com/item?id=31424588) - [Functorch: Jax-like composable function transforms for PyTorch](https://github.com/pytorch/functorch)
 * [2022-05-18, 16:11:58](https://news.ycombinator.com/item?id=31424510) - [Flower Power](https://www.laphamsquarterly.org/roundtable/flower-power)
+* [2022-05-18, 16:06:58](https://news.ycombinator.com/item?id=31424452) - [The Ness of Brodgar: Uncovering Orkney’s Neolithic Heart](https://the-past.com/feature/the-ness-of-brodgar-uncovering-orkneys-neolithic-heart/)
 * [2022-05-18, 16:06:44](https://news.ycombinator.com/item?id=31424450) - [Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 * [2022-05-18, 16:06:40](https://news.ycombinator.com/item?id=31424448) - [Where’s the trees? Gathering and using timber in Neolithic Orkney](https://www.nessofbrodgar.co.uk/where-are-the-trees-gathering-and-using-timber-in-neolithic-orkney/)
 * [2022-05-18, 16:01:40](https://news.ycombinator.com/item?id=31424392) - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
