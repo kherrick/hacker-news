@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 10:07:53](https://news.ycombinator.com/item?id=31445380) - [an OnlyFans creator found and slept with FB employees to undelete her IG account](https://twitter.com/taylorlorenz/status/1527007677184110592)
 * [2022-05-20, 09:37:12](https://news.ycombinator.com/item?id=31445173) - [Slaughter/suffering free pork cultivated meat](https://www.greenqueen.com.hk/mewery-cultivated-pork-microalgae/)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
@@ -23,5 +24,6 @@
 * [2022-05-20, 03:09:09](https://news.ycombinator.com/item?id=31442917) - [State of the Global Climate 2021 [pdf]](https://mcusercontent.com/e35fa2254c2a4394f75d43308/files/3d2f5b01-11a6-dee2-a42a-13ad5002dc33/1290_Statement_2021_en_1_.pdf)
 * [2022-05-20, 02:48:07](https://news.ycombinator.com/item?id=31442795) - [Moderna’s HIV Vaccine Prepped for Trials in Africa](https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/)
 * [2022-05-20, 02:33:29](https://news.ycombinator.com/item?id=31442706) - [A maximally-dense encoding for n-choose-k](https://www.farside.org.uk/201311/encoding_n_choose_k)
+* [2022-05-20, 01:54:26](https://news.ycombinator.com/item?id=31442470) - [Pixar in a Box: Collaboration Between Pixar Animation Studios and Khan Academy](https://www.khanacademy.org/computing/pixar)
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-20, 00:06:31](https://news.ycombinator.com/item?id=31441823) - [Data Integration Guide: Techniques, Technologies, and Tools](https://airbyte.com/blog/data-integration)
