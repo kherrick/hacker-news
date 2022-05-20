@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
+* [2022-05-20, 06:25:22](https://news.ycombinator.com/item?id=31444001) - [Midnight Trains – A Hotel on Rails](https://www.midnight-trains.com/en/home)
 * [2022-05-20, 05:49:38](https://news.ycombinator.com/item?id=31443826) - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
 * [2022-05-20, 05:40:34](https://news.ycombinator.com/item?id=31443777) - [The cryptocurrency sell-off has exposed those swimming naked](https://www.economist.com/leaders/2022/05/18/the-cryptocurrency-sell-off-has-exposed-those-swimming-naked)
-* [2022-05-20, 05:39:40](https://news.ycombinator.com/item?id=31443771) - [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
-* [2022-05-20, 05:33:28](https://news.ycombinator.com/item?id=31443735) - [Mithradites of Fond du Lac (2013)](https://thebeliever.net/mithradites-of-fond-du-lac/)
+* [2022-05-20, 05:33:28](https://news.ycombinator.com/item?id=31443735) - [Mithridates of Fond du Lac (2013)](https://thebeliever.net/mithradites-of-fond-du-lac/)
 * [2022-05-20, 04:11:43](https://news.ycombinator.com/item?id=31443265) - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
 * [2022-05-20, 03:59:00](https://news.ycombinator.com/item?id=31443198) - [Logging C Functions](https://justine.lol/ftrace/)
 * [2022-05-20, 03:36:23](https://news.ycombinator.com/item?id=31443073) - [Graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
@@ -28,7 +28,7 @@
 * [2022-05-19, 05:55:47](https://news.ycombinator.com/item?id=31431233) - [GameBoy Graphics: Tiles, Palettes, and Encoding [video]](https://www.youtube.com/watch?v=txkHN6izK2Y)
 * [2022-05-18, 20:12:58](https://news.ycombinator.com/item?id=31427077) - [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
-* [2022-05-18, 19:53:57](https://news.ycombinator.com/item?id=31426902) - [Dan Harmon’s Excellent Advice for Overcoming Writer’s Block (2016)](https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html)
+* [2022-05-18, 19:53:57](https://news.ycombinator.com/item?id=31426902) - [Advice for Overcoming Writer’s Block (2016)](https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html)
 * [2022-05-18, 16:06:40](https://news.ycombinator.com/item?id=31424448) - [Where’s the trees? Gathering and using timber in Neolithic Orkney](https://www.nessofbrodgar.co.uk/where-are-the-trees-gathering-and-using-timber-in-neolithic-orkney/)
 
 ## [Archives](archives/index.md)
