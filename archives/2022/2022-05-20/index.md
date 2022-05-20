@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 * [2022-05-20, 15:31:06](https://news.ycombinator.com/item?id=31448819) - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)
 * [2022-05-20, 15:10:32](https://news.ycombinator.com/item?id=31448530) - [Formula for a Shortage](https://thezvi.substack.com/p/formula-for-a-shortage-8ae)
 * [2022-05-20, 15:05:36](https://news.ycombinator.com/item?id=31448470) - [A Web Around the World, Part 10: A Web of Associations](https://www.filfre.net/2022/05/a-web-around-the-world-part-10-a-web-of-associations/)
@@ -16,6 +17,7 @@
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [You Want My Password or a Dead Patient? [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
+* [2022-05-20, 14:26:33](https://news.ycombinator.com/item?id=31447853) - [The Specificity Gradient](https://doriantaylor.com/the-specificity-gradient)
 * [2022-05-20, 14:10:42](https://news.ycombinator.com/item?id=31447625) - [Ask HN: Where does your mind wander to?](https://news.ycombinator.com/item?id=31447625)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:53:33](https://news.ycombinator.com/item?id=31447396) - [OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram](https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/)
