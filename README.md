@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 20:19:56](https://news.ycombinator.com/item?id=31452052) - [LWN Is Now on Mastodon](https://lwn.net/Articles/895898/)
 * [2022-05-20, 20:17:23](https://news.ycombinator.com/item?id=31452030) - [Policy punishes disabled people who save more than $2k](https://fullstackeconomics.com/how-policy-punishes-disabled-people-who-save-more-than-2000/)
 * [2022-05-20, 20:04:47](https://news.ycombinator.com/item?id=31451902) - [Nuclear Fusion Is Already Facing a Fuel Crisis](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
 * [2022-05-20, 19:30:21](https://news.ycombinator.com/item?id=31451561) - [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
@@ -26,7 +27,6 @@
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 * [2022-05-19, 22:25:28](https://news.ycombinator.com/item?id=31440955) - [Scientists Uncover a Shady Web of Online Spider Sales](https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html)
-* [2022-05-19, 09:44:34](https://news.ycombinator.com/item?id=31432527) - [The tools I use to write blogs](https://tsk.bearblog.dev/the-tools-i-use-to-write-blogs/)
 * [2022-05-18, 19:47:25](https://news.ycombinator.com/item?id=31426838) - [What did British officers think of the American civil war as it was happening?](https://www.historytoday.com/archive/history-matters/war-words)
 * [2022-05-18, 17:30:40](https://news.ycombinator.com/item?id=31425387) - [Generative art using C++ printer commands and a receipt printer](https://twitter.com/flockaroo/status/1526948400041758721)
 * [2022-05-18, 16:06:58](https://news.ycombinator.com/item?id=31424452) - [The Ness of Brodgar: Uncovering Orkney’s Neolithic Heart](https://the-past.com/feature/the-ness-of-brodgar-uncovering-orkneys-neolithic-heart/)

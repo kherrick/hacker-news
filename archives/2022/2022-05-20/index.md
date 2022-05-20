@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 20:19:56](https://news.ycombinator.com/item?id=31452052) - [LWN Is Now on Mastodon](https://lwn.net/Articles/895898/)
 * [2022-05-20, 20:17:23](https://news.ycombinator.com/item?id=31452030) - [Policy punishes disabled people who save more than $2k](https://fullstackeconomics.com/how-policy-punishes-disabled-people-who-save-more-than-2000/)
 * [2022-05-20, 20:04:47](https://news.ycombinator.com/item?id=31451902) - [Nuclear Fusion Is Already Facing a Fuel Crisis](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
 * [2022-05-20, 19:30:21](https://news.ycombinator.com/item?id=31451561) - [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
