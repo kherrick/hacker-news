@@ -36,6 +36,7 @@
 * [2022-05-18, 19:18:25](https://news.ycombinator.com/item?id=31426558) - [The bulls**t Canonical wants you to jump through before they will give](https://old.reddit.com/r/sysadmin/comments/usjhye/this_is_the_bullst_canonical_wants_you_to_jump/)
 * [2022-05-18, 19:08:32](https://news.ycombinator.com/item?id=31426449) - [SBF’s $12M Long Shot](https://puck.news/inside-s-b-f-s-12-million-long-shot/)
 * [2022-05-18, 18:43:49](https://news.ycombinator.com/item?id=31426211) - [Nature and nurture contribute to signatures of socioeconomic status in the brain](https://penntoday.upenn.edu/news/both-nature-and-nurture-contribute-signatures-socioeconomic-status-brain)
+* [2022-05-18, 18:43:29](https://news.ycombinator.com/item?id=31426206) - [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 * [2022-05-18, 18:27:18](https://news.ycombinator.com/item?id=31426039) - [Time Traveler by Merriam-Webster: Search Words by First Known Use Date](https://www.merriam-webster.com/time-traveler/)
 * [2022-05-18, 18:27:08](https://news.ycombinator.com/item?id=31426037) - [Time and Frequency (2009)](http://www.prc68.com/I/timefreq.shtml)
 * [2022-05-18, 17:42:48](https://news.ycombinator.com/item?id=31425523) - [Google's Subsea Fiber Optics](https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained)

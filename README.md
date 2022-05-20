@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Is an unknown, extraordinarily ancient civilisation buried under eastern Turkey?](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
-* [2022-05-20, 20:45:13](https://news.ycombinator.com/item?id=31452286) - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
 * [2022-05-20, 20:41:12](https://news.ycombinator.com/item?id=31452253) - [Letters between tsar Alex and Lincoln](http://beam-inc.org/abraham-lincoln-and-tsar-alexander-ii-part-i/)
 * [2022-05-20, 20:19:56](https://news.ycombinator.com/item?id=31452052) - [LWN Is Now on Mastodon](https://lwn.net/Articles/895898/)
 * [2022-05-20, 20:17:35](https://news.ycombinator.com/item?id=31452032) - [Bombe Machine on an FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html)
@@ -29,7 +29,7 @@
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 * [2022-05-19, 22:25:28](https://news.ycombinator.com/item?id=31440955) - [Scientists Uncover a Shady Web of Online Spider Sales](https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html)
 * [2022-05-18, 19:47:25](https://news.ycombinator.com/item?id=31426838) - [What did British officers think of the American civil war as it was happening?](https://www.historytoday.com/archive/history-matters/war-words)
-* [2022-05-18, 16:06:58](https://news.ycombinator.com/item?id=31424452) - [The Ness of Brodgar: Uncovering Orkney’s Neolithic Heart](https://the-past.com/feature/the-ness-of-brodgar-uncovering-orkneys-neolithic-heart/)
+* [2022-05-18, 18:43:29](https://news.ycombinator.com/item?id=31426206) - [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 
 ## [Archives](archives/index.md)
 

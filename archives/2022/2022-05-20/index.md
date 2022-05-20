@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Is an unknown, extraordinarily ancient civilisation buried under eastern Turkey?](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
 * [2022-05-20, 20:45:13](https://news.ycombinator.com/item?id=31452286) - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
 * [2022-05-20, 20:41:12](https://news.ycombinator.com/item?id=31452253) - [Letters between tsar Alex and Lincoln](http://beam-inc.org/abraham-lincoln-and-tsar-alexander-ii-part-i/)
