@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 17:07:08](https://news.ycombinator.com/item?id=31450127) - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
 * [2022-05-20, 17:00:00](https://news.ycombinator.com/item?id=31450032) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-05-20, 16:00:26](https://news.ycombinator.com/item?id=31449237) - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
@@ -9,7 +10,6 @@
 * [2022-05-20, 14:58:29](https://news.ycombinator.com/item?id=31448360) - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 * [2022-05-20, 14:57:53](https://news.ycombinator.com/item?id=31448351) - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
 * [2022-05-20, 14:55:21](https://news.ycombinator.com/item?id=31448318) - [Connecting an 8086 or 8088 processor to a Raspberry Pi](https://www.homebrew8088.com/home/raspberry-pi-second-project)
-* [2022-05-20, 14:52:38](https://news.ycombinator.com/item?id=31448281) - [Who owns Einstein? The battle for the world’s most famous face](https://www.theguardian.com/media/2022/may/17/who-owns-einstein-the-battle-for-the-worlds-most-famous-face)
 * [2022-05-20, 14:44:17](https://news.ycombinator.com/item?id=31448148) - [A simple, fast and user-friendly alternative to ‘find’](https://github.com/sharkdp/fd)
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [Workarounds to computer access in healthcare organizations (2015) [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
