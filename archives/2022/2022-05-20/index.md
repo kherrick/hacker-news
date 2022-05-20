@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
+* [2022-05-20, 13:53:33](https://news.ycombinator.com/item?id=31447396) - [OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram](https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/)
+* [2022-05-20, 13:25:50](https://news.ycombinator.com/item?id=31447046) - [LiveKit – open-source, high performance WebRTC infrastructure](https://github.com/livekit/livekit)
+* [2022-05-20, 13:08:50](https://news.ycombinator.com/item?id=31446884) - [Why won’t some people pay for news?](https://www.niemanlab.org/2022/05/why-wont-some-people-pay-for-news/)
 * [2022-05-20, 13:06:32](https://news.ycombinator.com/item?id=31446859) - [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
 * [2022-05-20, 13:00:45](https://news.ycombinator.com/item?id=31446800) - [Crispier Chocolate](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f)
 * [2022-05-20, 12:39:53](https://news.ycombinator.com/item?id=31446568) - [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)
