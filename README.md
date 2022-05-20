@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 14:10:42](https://news.ycombinator.com/item?id=31447625) - [Ask HN: Where does your mind wander to?](https://news.ycombinator.com/item?id=31447625)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:53:33](https://news.ycombinator.com/item?id=31447396) - [OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram](https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/)
 * [2022-05-20, 13:25:50](https://news.ycombinator.com/item?id=31447046) - [LiveKit – open-source, high performance WebRTC infrastructure](https://github.com/livekit/livekit)
-* [2022-05-20, 13:08:50](https://news.ycombinator.com/item?id=31446884) - [Why won’t some people pay for news?](https://www.niemanlab.org/2022/05/why-wont-some-people-pay-for-news/)
 * [2022-05-20, 13:06:32](https://news.ycombinator.com/item?id=31446859) - [History of AMP and Why Everybody Is Against It?](https://serpapi.com/blog/history-of-amp-and-why-everybody-is-against-it/)
 * [2022-05-20, 13:00:45](https://news.ycombinator.com/item?id=31446800) - [Crispier Chocolate](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01761f)
+* [2022-05-20, 12:58:31](https://news.ycombinator.com/item?id=31446780) - [Aphrodite: ORM designed for Local-First applications and P2P data transfer](https://aphrodite.sh/)
 * [2022-05-20, 12:39:53](https://news.ycombinator.com/item?id=31446568) - [The madness of reduced medical diagnostics](https://dynomight.net/diagnostics/)
 * [2022-05-20, 12:38:24](https://news.ycombinator.com/item?id=31446550) - [Eigr: Stateful Serverless in the Beam](https://eigr.io/)
 * [2022-05-20, 12:36:47](https://news.ycombinator.com/item?id=31446523) - [Judge orders trial in Tesla autopilot manslaughter case](https://www.courthousenews.com/judge-orders-trial-in-tesla-autopilot-manslaughter-case/)
@@ -15,7 +16,6 @@
 * [2022-05-20, 11:39:26](https://news.ycombinator.com/item?id=31446000) - [RouterOS – Communications Assistance for Law Enforcement Act (2012)](https://wiki.mikrotik.com/wiki/CALEA)
 * [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar – a teaching technique](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
-* [2022-05-20, 11:06:20](https://news.ycombinator.com/item?id=31445753) - [Is anyone still using assembly language? You betcha (2007)](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
 * [2022-05-20, 10:03:14](https://news.ycombinator.com/item?id=31445355) - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
@@ -26,10 +26,10 @@
 * [2022-05-20, 03:59:00](https://news.ycombinator.com/item?id=31443198) - [Logging C Functions](https://justine.lol/ftrace/)
 * [2022-05-20, 03:36:23](https://news.ycombinator.com/item?id=31443073) - [Graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York rolling out noise law, listening tech for souped-up speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
+* [2022-05-19, 15:13:01](https://news.ycombinator.com/item?id=31435751) - [Computation reuse via fusion in Amazon Athena](https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies)
 * [2022-05-18, 21:20:36](https://news.ycombinator.com/item?id=31427824) - [Why is Zero not falsy in Clojure?](https://stackoverflow.com/questions/32761502/why-is-zero-not-falsy-in-clojure)
 * [2022-05-18, 19:53:57](https://news.ycombinator.com/item?id=31426902) - [Advice for Overcoming Writer’s Block (2016)](https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html)
 * [2022-05-18, 17:30:40](https://news.ycombinator.com/item?id=31425387) - [Generative art using C++ printer commands and a receipt printer](https://twitter.com/flockaroo/status/1526948400041758721)
-* [2022-05-18, 16:46:01](https://news.ycombinator.com/item?id=31424905) - [Troof on Nootropics](https://astralcodexten.substack.com/p/link-troof-on-nootropics)
 
 ## [Archives](archives/index.md)
 
