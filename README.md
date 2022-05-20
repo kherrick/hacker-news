@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-20, 22:23:13](https://news.ycombinator.com/item?id=31453255) - [Pike Programming Language](https://pike.lysator.liu.se/)
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
 * [2022-05-20, 21:58:06](https://news.ycombinator.com/item?id=31453031) - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
@@ -22,7 +23,6 @@
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [Workarounds to computer access in healthcare organizations (2015) [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 12:11:09](https://news.ycombinator.com/item?id=31446236) - [Mito – Excel-like interface for Pandas dataframes in Jupyter notebook](https://www.trymito.io/)
-* [2022-05-20, 11:20:20](https://news.ycombinator.com/item?id=31445868) - [My Favorite Liar (2008)](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
