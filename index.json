@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-20, 16:00:26",
+      "https://news.ycombinator.com/item?id=31449237"
+    ],
+    [
+      "Impacket – collection of Python classes for working with network protocols",
+      "https://github.com/SecureAuthCorp/impacket"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 15:54:57",
       "https://news.ycombinator.com/item?id=31449147"
     ],
     [
       "This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti",
       "https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 15:32:11",
+      "https://news.ycombinator.com/item?id=31448836"
+    ],
+    [
+      "GCC Profiler Internals",
+      "https://trofi.github.io/posts/243-gcc-profiler-internals.html"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31448395"
     ],
     [
-      "Design Principles Behind Smalltalk (2001)",
+      "Design Principles Behind Smalltalk (1981)",
       "http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-05-20, 14:26:33",
-      "https://news.ycombinator.com/item?id=31447853"
-    ],
-    [
-      "The Specificity Gradient",
-      "https://doriantaylor.com/the-specificity-gradient"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 13:58:49",
       "https://news.ycombinator.com/item?id=31447465"
     ],
@@ -157,16 +167,6 @@
     [
       "Eigr: Stateful Serverless in the Beam",
       "https://eigr.io/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 12:36:47",
-      "https://news.ycombinator.com/item?id=31446523"
-    ],
-    [
-      "Judge orders trial in Tesla autopilot manslaughter case",
-      "https://www.courthousenews.com/judge-orders-trial-in-tesla-autopilot-manslaughter-case/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-05-19, 09:44:34",
+      "https://news.ycombinator.com/item?id=31432527"
+    ],
+    [
+      "The tools I use to write blogs",
+      "https://tsk.bearblog.dev/the-tools-i-use-to-write-blogs/"
+    ]
+  ],
+  [
+    [
       "2022-05-18, 17:30:40",
       "https://news.ycombinator.com/item?id=31425387"
     ],
     [
       "Generative art using C++ printer commands and a receipt printer",
       "https://twitter.com/flockaroo/status/1526948400041758721"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 16:46:01",
-      "https://news.ycombinator.com/item?id=31424905"
-    ],
-    [
-      "Troof on Nootropics",
-      "https://astralcodexten.substack.com/p/link-troof-on-nootropics"
     ]
   ]
 ]
