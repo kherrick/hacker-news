@@ -25,6 +25,7 @@
 * [2022-05-18, 20:12:58](https://news.ycombinator.com/item?id=31427077) - [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [2022-05-18, 20:04:24](https://news.ycombinator.com/item?id=31427011) - [Plastic-Eating Enzyme Could Eliminate Billions of Tons of Landfill Waste](https://news.utexas.edu/2022/04/27/plastic-eating-enzyme-could-eliminate-billions-of-tons-of-landfill-waste/)
 * [2022-05-18, 20:00:32](https://news.ycombinator.com/item?id=31426971) - [Notes on the M4 Macro Language (2008)](http://mbreen.com/m4.html)
+* [2022-05-18, 19:53:57](https://news.ycombinator.com/item?id=31426902) - [Dan Harmon’s Excellent Advice for Overcoming Writer’s Block (2016)](https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html)
 * [2022-05-18, 19:33:43](https://news.ycombinator.com/item?id=31426700) - [Parmigiano Reggiano Makers Embedding Tiny Trackers in Rind to Fight Cheese Fraud](https://www.foodandwine.com/news/parmigiano-reggiano-fraud-micro-transponder-rinds-digital-label)
 * [2022-05-18, 19:31:44](https://news.ycombinator.com/item?id=31426683) - [I'm an addict](https://tarunreddy.bearblog.dev/addict/)
 * [2022-05-18, 19:29:21](https://news.ycombinator.com/item?id=31426664) - [Simulating four-dimensional physics in the laboratory](https://physicstoday.scitation.org/doi/10.1063/PT.3.4981)

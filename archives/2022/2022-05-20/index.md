@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 05:49:38](https://news.ycombinator.com/item?id=31443826) - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
+* [2022-05-20, 05:39:40](https://news.ycombinator.com/item?id=31443771) - [Almost 1/3 of San Francisco charging stations are broken](https://www.electrive.com/2022/05/13/almost-1-3-of-san-francisco-charging-stations-are-duds/)
+* [2022-05-20, 05:28:47](https://news.ycombinator.com/item?id=31443697) - [‘Extortion’: Why Web3 is making a lot of software developers angry](https://www.smh.com.au/business/companies/extortion-why-web3-is-pissing-off-a-lot-of-software-developers-20220516-p5alqd.html)
 * [2022-05-20, 04:11:43](https://news.ycombinator.com/item?id=31443265) - [Kosmos 482: questions around a failed 1972 Venera lander still orbiting Earth](https://www.thespacereview.com/article/4384/1)
 * [2022-05-20, 03:59:00](https://news.ycombinator.com/item?id=31443198) - [Logging C Functions](https://justine.lol/ftrace/)
 * [2022-05-20, 03:36:23](https://news.ycombinator.com/item?id=31443073) - [The wonder material graphene may have found its killer app](https://www.economist.com/science-and-technology/2022/05/18/the-wonder-material-graphene-may-have-found-its-killer-app)
