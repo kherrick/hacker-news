@@ -5,7 +5,6 @@
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
 * [2022-05-20, 08:00:47](https://news.ycombinator.com/item?id=31444573) - [PBS SpaceTime](https://www.pbsspacetime.com)
 * [2022-05-20, 07:58:21](https://news.ycombinator.com/item?id=31444558) - [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
-* [2022-05-20, 07:49:55](https://news.ycombinator.com/item?id=31444511) - [Tell HN: Reddit does not allow comments post via old.reddit.com](https://news.ycombinator.com/item?id=31444511)
 * [2022-05-20, 07:00:38](https://news.ycombinator.com/item?id=31444213) - [Opvia (YC S20) Is Hiring in London, UK](https://www.notion.so/opvia/Opvia-Roles-151305ed30a140f29ec9eb7df00deadc)
 * [2022-05-20, 06:25:22](https://news.ycombinator.com/item?id=31444001) - [Midnight Trains – A Hotel on Rails](https://www.midnight-trains.com/en/home)
 * [2022-05-20, 05:49:38](https://news.ycombinator.com/item?id=31443826) - [Fake Journal Club](https://www.gwern.net/Fake-Journal-Club)
@@ -19,7 +18,6 @@
 * [2022-05-20, 01:33:13](https://news.ycombinator.com/item?id=31442367) - [New York rolling out noise law, listening tech for souped-up speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
 * [2022-05-19, 21:39:41](https://news.ycombinator.com/item?id=31440518) - [Engineer turns plastic into bricks that are reportedly stronger than concrete](https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/)
 * [2022-05-19, 20:33:20](https://news.ycombinator.com/item?id=31439811) - [Cockpit Project](https://cockpit-project.org/)
-* [2022-05-19, 20:13:32](https://news.ycombinator.com/item?id=31439594) - [ARPANET Information Brochure (1985) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA164353.pdf)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 15:13:01](https://news.ycombinator.com/item?id=31435751) - [Computation reuse via fusion in Amazon Athena](https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies)
 * [2022-05-19, 15:06:29](https://news.ycombinator.com/item?id=31435644) - [Researchers power an ARM processor for a year using algae](https://uk.pcmag.com/processors/140392/researchers-power-an-arm-processor-for-a-year-using-algae)
@@ -30,6 +28,8 @@
 * [2022-05-19, 05:55:47](https://news.ycombinator.com/item?id=31431233) - [GameBoy Graphics: Tiles, Palettes, and Encoding [video]](https://www.youtube.com/watch?v=txkHN6izK2Y)
 * [2022-05-18, 20:12:58](https://news.ycombinator.com/item?id=31427077) - [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [2022-05-18, 19:53:57](https://news.ycombinator.com/item?id=31426902) - [Advice for Overcoming Writer’s Block (2016)](https://www.vulture.com/2016/11/read-dan-harmons-excellent-advice-for-overcoming-writers-block.html)
+* [2022-05-18, 16:11:58](https://news.ycombinator.com/item?id=31424510) - [Flower Power](https://www.laphamsquarterly.org/roundtable/flower-power)
+* [2022-05-18, 16:06:40](https://news.ycombinator.com/item?id=31424448) - [Where’s the trees? Gathering and using timber in Neolithic Orkney](https://www.nessofbrodgar.co.uk/where-are-the-trees-gathering-and-using-timber-in-neolithic-orkney/)
 
 ## [Archives](archives/index.md)
 
