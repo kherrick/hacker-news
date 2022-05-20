@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-05-20, 21:00:01",
+      "https://news.ycombinator.com/item?id=31452439"
+    ],
+    [
+      "Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 20:45:13",
+      "https://news.ycombinator.com/item?id=31452286"
+    ],
+    [
+      "When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]",
+      "https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 20:41:12",
+      "https://news.ycombinator.com/item?id=31452253"
+    ],
+    [
+      "Letters between tsar Alex and Lincoln",
+      "http://beam-inc.org/abraham-lincoln-and-tsar-alexander-ii-part-i/"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 20:19:56",
       "https://news.ycombinator.com/item?id=31452052"
     ],
     [
       "LWN Is Now on Mastodon",
       "https://lwn.net/Articles/895898/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 20:17:35",
+      "https://news.ycombinator.com/item?id=31452032"
+    ],
+    [
+      "Bombe Machine on an FPGA",
+      "https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html"
     ]
   ],
   [
@@ -81,42 +121,12 @@
   ],
   [
     [
-      "2022-05-20, 17:00:00",
-      "https://news.ycombinator.com/item?id=31450032"
-    ],
-    [
-      "Basis (YC S21) Is hiring devs to help build Figma for data",
-      "https://www.workatastartup.com/companies/basis-2"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 15:54:57",
       "https://news.ycombinator.com/item?id=31449147"
     ],
     [
       "“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti",
       "https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 15:32:11",
-      "https://news.ycombinator.com/item?id=31448836"
-    ],
-    [
-      "GCC Profiler Internals",
-      "https://trofi.github.io/posts/243-gcc-profiler-internals.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 15:31:06",
-      "https://news.ycombinator.com/item?id=31448819"
-    ],
-    [
-      "Tether Required Recapitalization in May 2022",
-      "https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "What did British officers think of the American civil war as it was happening?",
       "https://www.historytoday.com/archive/history-matters/war-words"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 17:30:40",
-      "https://news.ycombinator.com/item?id=31425387"
-    ],
-    [
-      "Generative art using C++ printer commands and a receipt printer",
-      "https://twitter.com/flockaroo/status/1526948400041758721"
     ]
   ],
   [
