@@ -7,6 +7,7 @@
 * [2022-05-20, 22:23:13](https://news.ycombinator.com/item?id=31453255) - [Pike Programming Language](https://pike.lysator.liu.se/)
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
 * [2022-05-20, 21:58:06](https://news.ycombinator.com/item?id=31453031) - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
+* [2022-05-20, 21:04:42](https://news.ycombinator.com/item?id=31452488) - [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Is an unknown, extraordinarily ancient civilisation buried under eastern Turkey?](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
 * [2022-05-20, 20:45:13](https://news.ycombinator.com/item?id=31452286) - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
