@@ -26,6 +26,7 @@
 * [2022-05-20, 18:42:48](https://news.ycombinator.com/item?id=31451059) - [I Bought a Minicomputer from 1980 – Part 1](https://www.youtube.com/watch?v=DJ1HwuYBuss)
 * [2022-05-20, 18:08:24](https://news.ycombinator.com/item?id=31450713) - [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
+* [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
 * [2022-05-20, 17:07:08](https://news.ycombinator.com/item?id=31450127) - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
 * [2022-05-20, 17:00:00](https://news.ycombinator.com/item?id=31450032) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
