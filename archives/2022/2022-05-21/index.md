@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 05:31:01](https://news.ycombinator.com/item?id=31455491) - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
+* [2022-05-21, 04:43:20](https://news.ycombinator.com/item?id=31455287) - [5Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
 * [2022-05-21, 04:08:37](https://news.ycombinator.com/item?id=31455169) - [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
 * [2022-05-21, 02:56:30](https://news.ycombinator.com/item?id=31454883) - [World’s largest vertical strawberry farm opens in Jersey City, NJ](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 * [2022-05-21, 01:10:49](https://news.ycombinator.com/item?id=31454376) - [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
