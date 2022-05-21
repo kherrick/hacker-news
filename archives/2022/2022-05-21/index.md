@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 07:32:06](https://news.ycombinator.com/item?id=31456007) - [Rustdesk: The open source TeamViewer alternative](https://rustdesk.com/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-21, 07:01:07](https://news.ycombinator.com/item?id=31455864) - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
 * [2022-05-21, 06:08:00](https://news.ycombinator.com/item?id=31455657) - [Programming Burnout](https://tsk.bearblog.dev/programming-burnout/)

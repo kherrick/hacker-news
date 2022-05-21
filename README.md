@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 07:32:06](https://news.ycombinator.com/item?id=31456007) - [Rustdesk: The open source TeamViewer alternative](https://rustdesk.com/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-21, 07:01:07](https://news.ycombinator.com/item?id=31455864) - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
 * [2022-05-21, 06:08:00](https://news.ycombinator.com/item?id=31455657) - [Programming Burnout](https://tsk.bearblog.dev/programming-burnout/)
@@ -20,10 +21,9 @@
 * [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
-* [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 * [2022-05-20, 11:06:20](https://news.ycombinator.com/item?id=31445753) - [Is anyone still using assembly language? You betcha (2007)](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
 * [2022-05-19, 19:13:51](https://news.ycombinator.com/item?id=31438825) - [Corsi–Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
-* [2022-05-19, 15:29:45](https://news.ycombinator.com/item?id=31435978) - [Silly Lossy Text Compression Idea](https://snufk.in/blog/silly-compression-text.html)
+* [2022-05-19, 17:16:29](https://news.ycombinator.com/item?id=31437375) - [Computer science is a liberal arts degree](https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1)
 * [2022-05-19, 14:23:15](https://news.ycombinator.com/item?id=31435034) - [Teach your kids poker, not chess](https://momentofdeep.substack.com/p/teach-your-kids-poker-not-chess)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
 * [2022-05-19, 13:01:09](https://news.ycombinator.com/item?id=31434053) - [Physics-Informed Machine Learning For Modeling Turbulence In Supernovae](https://arxiv.org/abs/2205.08663)
