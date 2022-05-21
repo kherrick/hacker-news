@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 14:53:08](https://news.ycombinator.com/item?id=31458407) - [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
 * [2022-05-21, 14:21:00](https://news.ycombinator.com/item?id=31458169) - [Babies Collapse Household Systems](https://offbyone.us/posts/baby-household-supply-chain/)
@@ -17,6 +18,7 @@
 * [2022-05-21, 12:00:10](https://news.ycombinator.com/item?id=31457131) - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
 * [2022-05-21, 11:49:36](https://news.ycombinator.com/item?id=31457072) - [Enslaved Haitians did the impossible. They ousted their French masters](https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html)
 * [2022-05-21, 11:46:41](https://news.ycombinator.com/item?id=31457057) - [This week's archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
+* [2022-05-21, 11:43:41](https://news.ycombinator.com/item?id=31457042) - [Walking While Black (2016)](https://lithub.com/walking-while-black/)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 10:40:50](https://news.ycombinator.com/item?id=31456763) - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
 * [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)

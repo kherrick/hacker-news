@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 14:53:08](https://news.ycombinator.com/item?id=31458407) - [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
 * [2022-05-21, 14:03:38](https://news.ycombinator.com/item?id=31458021) - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
@@ -9,6 +10,7 @@
 * [2022-05-21, 12:02:30](https://news.ycombinator.com/item?id=31457140) - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 * [2022-05-21, 12:00:10](https://news.ycombinator.com/item?id=31457131) - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
 * [2022-05-21, 11:46:41](https://news.ycombinator.com/item?id=31457057) - [This week's archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
+* [2022-05-21, 11:43:41](https://news.ycombinator.com/item?id=31457042) - [Walking While Black (2016)](https://lithub.com/walking-while-black/)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 10:40:50](https://news.ycombinator.com/item?id=31456763) - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
 * [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
@@ -23,11 +25,9 @@
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
-* [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
-* [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
+* [2022-05-20, 14:36:35](https://news.ycombinator.com/item?id=31448024) - [Analysing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
 * [2022-05-19, 17:16:29](https://news.ycombinator.com/item?id=31437375) - [Computer science is a liberal arts degree](https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1)
-* [2022-05-19, 15:33:20](https://news.ycombinator.com/item?id=31436039) - [Instant Heatmap with pg_featureserv](https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv)
 * [2022-05-19, 15:29:45](https://news.ycombinator.com/item?id=31435978) - [Silly Lossy Text Compression Idea](https://snufk.in/blog/silly-compression-text.html)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
 

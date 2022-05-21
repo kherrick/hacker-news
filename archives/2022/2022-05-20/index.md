@@ -42,6 +42,7 @@
 * [2022-05-20, 14:52:38](https://news.ycombinator.com/item?id=31448281) - [Who owns Einstein? The battle for the world’s most famous face](https://www.theguardian.com/media/2022/may/17/who-owns-einstein-the-battle-for-the-worlds-most-famous-face)
 * [2022-05-20, 14:44:17](https://news.ycombinator.com/item?id=31448148) - [Fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
+* [2022-05-20, 14:36:35](https://news.ycombinator.com/item?id=31448024) - [Analysing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [You Want My Password or a Dead Patient? [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
 * [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
