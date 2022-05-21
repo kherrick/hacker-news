@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
+* [2022-05-21, 16:26:29](https://news.ycombinator.com/item?id=31459258) - [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
 * [2022-05-21, 16:09:41](https://news.ycombinator.com/item?id=31459103) - [What Happened to Tagging? (2019)](https://daily.jstor.org/what-happened-to-tagging/)
 * [2022-05-21, 16:00:25](https://news.ycombinator.com/item?id=31459012) - [.01% of Bitcoin holders hold 27% of all Bitcoin](https://twitter.com/MorePerfectUS/status/1527661935054962688)
 * [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
@@ -15,6 +16,7 @@
 * [2022-05-21, 14:03:38](https://news.ycombinator.com/item?id=31458021) - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
 * [2022-05-21, 13:56:26](https://news.ycombinator.com/item?id=31457965) - [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
 * [2022-05-21, 13:46:54](https://news.ycombinator.com/item?id=31457864) - [IntyOS, an operating system for the Intellivision (2003)](http://intyos.free.fr/)
+* [2022-05-21, 13:41:11](https://news.ycombinator.com/item?id=31457804) - [Tom Brown Is on a Mission to Restore Appalachia's Rare and Lost Apples (2021)](https://www.southernliving.com/culture/tom-brown-appalachian-apple-sleuth-rare-lost-varieties)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
 * [2022-05-21, 12:58:53](https://news.ycombinator.com/item?id=31457462) - [What do you think the future holds for the World?](https://news.ycombinator.com/item?id=31457462)
 * [2022-05-21, 12:41:35](https://news.ycombinator.com/item?id=31457350) - [Scapple](https://www.literatureandlatte.com/scapple/overview)
