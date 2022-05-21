@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-21, 12:15:59",
+      "https://news.ycombinator.com/item?id=31457200"
+    ],
+    [
+      "Open Letter to Noam Chomsky (and Other Intellectuals) on the Russia-Ukraine War",
+      "https://blogs.berkeley.edu/2022/05/19/open-letter-to-noam-chomsky-and-other-like-minded-intellectuals-on-the-russia-ukraine-war/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 12:02:30",
+      "https://news.ycombinator.com/item?id=31457140"
+    ],
+    [
+      "Tinnitus Seems Linked with Sleep",
+      "https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 12:00:10",
       "https://news.ycombinator.com/item?id=31457131"
     ],
     [
       "Parker (YC W19) Is Hiring First PM",
       "https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 11:46:41",
+      "https://news.ycombinator.com/item?id=31457057"
+    ],
+    [
+      "This week's archaeological news: Underground stone circles and ancient trade",
+      "https://ancientbeat.substack.com/p/-ancient-beat-12"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-05-20, 21:04:42",
-      "https://news.ycombinator.com/item?id=31452488"
-    ],
-    [
-      "Monitor Radiation with a Raspberry Pi",
-      "https://nbailey.ca/post/radiation-monitor/"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 21:01:04",
       "https://news.ycombinator.com/item?id=31452449"
     ],
@@ -231,22 +251,22 @@
   ],
   [
     [
-      "2022-05-20, 11:15:36",
-      "https://news.ycombinator.com/item?id=31445822"
-    ],
-    [
-      "9-Euro-Ticket",
-      "https://www.bahn.com/en/offers/regional/9-euro-ticket-en"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 19:13:51",
       "https://news.ycombinator.com/item?id=31438825"
     ],
     [
       "Corsi–Rosenthal Box",
       "https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 15:33:20",
+      "https://news.ycombinator.com/item?id=31436039"
+    ],
+    [
+      "Containers inside Postgres for quick Prototyping",
+      "https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Python Standard Library changes in recent years",
       "https://antonz.org/python-stdlib-changes/"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 13:01:09",
-      "https://news.ycombinator.com/item?id=31434053"
-    ],
-    [
-      "Physics-Informed Machine Learning For Modeling Turbulence In Supernovae",
-      "https://arxiv.org/abs/2205.08663"
-    ]
-  ],
-  [
-    [
-      "2022-05-18, 18:05:08",
-      "https://news.ycombinator.com/item?id=31425791"
-    ],
-    [
-      "Lightbulbs Were So Startup",
-      "https://interconnected.org/home/2022/05/18/edison"
     ]
   ]
 ]
