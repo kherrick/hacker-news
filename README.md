@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+* [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
 * [2022-05-21, 19:39:17](https://news.ycombinator.com/item?id=31461070) - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 * [2022-05-21, 19:24:44](https://news.ycombinator.com/item?id=31460940) - [Ecto's uniqueness constraint vs. Rails' uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
@@ -9,7 +11,6 @@
 * [2022-05-21, 18:42:55](https://news.ycombinator.com/item?id=31460602) - [A world grain shortage puts tens of millions at risk](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk)
 * [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
 * [2022-05-21, 17:02:29](https://news.ycombinator.com/item?id=31459620) - [C-Kermit Update History (since 8.0)](https://www.kermitproject.org/ckupdates.html)
-* [2022-05-21, 17:00:34](https://news.ycombinator.com/item?id=31459590) - [Dover (YC S19) is (still) hiring](https://www.dover.com/open-roles/software-engineer)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 16:26:29](https://news.ycombinator.com/item?id=31459258) - [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
 * [2022-05-21, 16:09:41](https://news.ycombinator.com/item?id=31459103) - [What Happened to Tagging? (2019)](https://daily.jstor.org/what-happened-to-tagging/)
@@ -28,7 +29,6 @@
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
 * [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
-* [2022-05-20, 14:36:35](https://news.ycombinator.com/item?id=31448024) - [Analysing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
 
 ## [Archives](archives/index.md)

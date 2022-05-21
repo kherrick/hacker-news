@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+* [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
 * [2022-05-21, 19:39:17](https://news.ycombinator.com/item?id=31461070) - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 * [2022-05-21, 19:24:44](https://news.ycombinator.com/item?id=31460940) - [Ecto's uniqueness constraint vs. Rails' uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
