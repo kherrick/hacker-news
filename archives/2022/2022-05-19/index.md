@@ -34,6 +34,7 @@
 * [2022-05-19, 15:57:40](https://news.ycombinator.com/item?id=31436322) - [Wafer Shortage Improvement in Sight for 300mm, but Not 200mm](https://semiengineering.com/wafer-shortage-improvement-in-sight-for-300mm-but-not-200mm/)
 * [2022-05-19, 15:57:03](https://news.ycombinator.com/item?id=31436316) - [Of Angel and Puppet: Klee, Rilke, and the Test of Innocence](https://publicdomainreview.org/essay/of-angel-and-puppet/)
 * [2022-05-19, 15:33:06](https://news.ycombinator.com/item?id=31436033) - [More Subprime Borrowers Are Missing Loan Payments](https://www.wsj.com/articles/more-subprime-borrowers-are-missing-loan-payments-11652952602)
+* [2022-05-19, 15:29:45](https://news.ycombinator.com/item?id=31435978) - [Silly Lossy Text Compression Idea](https://snufk.in/blog/silly-compression-text.html)
 * [2022-05-19, 15:29:33](https://news.ycombinator.com/item?id=31435976) - [MI officials fast-track bridge fix after man says it 'collapsed under my feet'](https://www.detroitnews.com/story/news/local/detroit-city/2022/05/15/man-says-fell-through-pedestrian-bridge-lodge-freeway-detroit/9787488002/)
 * [2022-05-19, 15:27:14](https://news.ycombinator.com/item?id=31435945) - [Department of Justice Announces New Policy for Charging Cases Under the CFAA](https://www.justice.gov/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act)
 * [2022-05-19, 15:16:44](https://news.ycombinator.com/item?id=31435801) - [Andrew Ng updates his Machine Learning course](https://www.deeplearning.ai/program/machine-learning-specialization/)
