@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
+* [2022-05-21, 16:09:41](https://news.ycombinator.com/item?id=31459103) - [What Happened to Tagging? (2019)](https://daily.jstor.org/what-happened-to-tagging/)
+* [2022-05-21, 16:00:25](https://news.ycombinator.com/item?id=31459012) - [.01% of Bitcoin holders hold 27% of all Bitcoin](https://twitter.com/MorePerfectUS/status/1527661935054962688)
 * [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
+* [2022-05-21, 15:31:48](https://news.ycombinator.com/item?id=31458770) - [Gitee to review all code by temporarily closing public open-source projects](https://www.scmp.com/tech/big-tech/article/3178323/gitee-chinas-answer-github-review-all-code-temporarily-closing-open)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 14:53:08](https://news.ycombinator.com/item?id=31458407) - [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
 * [2022-05-21, 14:21:00](https://news.ycombinator.com/item?id=31458169) - [Babies Collapse Household Systems](https://offbyone.us/posts/baby-household-supply-chain/)
 * [2022-05-21, 14:03:38](https://news.ycombinator.com/item?id=31458021) - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
 * [2022-05-21, 13:56:26](https://news.ycombinator.com/item?id=31457965) - [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
+* [2022-05-21, 13:46:54](https://news.ycombinator.com/item?id=31457864) - [IntyOS, an operating system for the Intellivision (2003)](http://intyos.free.fr/)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
 * [2022-05-21, 12:58:53](https://news.ycombinator.com/item?id=31457462) - [What do you think the future holds for the World?](https://news.ycombinator.com/item?id=31457462)
 * [2022-05-21, 12:41:35](https://news.ycombinator.com/item?id=31457350) - [Scapple](https://www.literatureandlatte.com/scapple/overview)
