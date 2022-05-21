@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
 * [2022-05-21, 22:43:23](https://news.ycombinator.com/item?id=31462773) - [Ask HN: What's your greatest enjoyment in life?](https://news.ycombinator.com/item?id=31462773)
+* [2022-05-21, 22:39:55](https://news.ycombinator.com/item?id=31462735) - [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
 * [2022-05-21, 22:28:35](https://news.ycombinator.com/item?id=31462608) - [The Fifth Element to Return to Theaters to Celebrate Its 25th Anniversary](https://collider.com/fifth-element-25th-anniversary-theatrical-screenings/)
 * [2022-05-21, 22:24:26](https://news.ycombinator.com/item?id=31462563) - [QCAD – The Open Source CAD System for Everyone](https://www.qcad.org/en/)
 * [2022-05-21, 22:09:47](https://news.ycombinator.com/item?id=31462432) - [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-21, 22:43:23](https://news.ycombinator.com/item?id=31462773) - [Ask HN: What's your greatest enjoyment in life?](https://news.ycombinator.com/item?id=31462773)
+* [2022-05-21, 22:39:55](https://news.ycombinator.com/item?id=31462735) - [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
 * [2022-05-21, 22:24:26](https://news.ycombinator.com/item?id=31462563) - [QCAD – The Open Source CAD System for Everyone](https://www.qcad.org/en/)
 * [2022-05-21, 22:09:47](https://news.ycombinator.com/item?id=31462432) - [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
 * [2022-05-21, 21:47:44](https://news.ycombinator.com/item?id=31462222) - [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
@@ -21,7 +22,6 @@
 * [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads](https://rarehistoricalphotos.com/vintage-computer-ads/)
-* [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
