@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 12:15:59](https://news.ycombinator.com/item?id=31457200) - [Open Letter to Noam Chomsky (and Other Intellectuals) on the Russia-Ukraine War](https://blogs.berkeley.edu/2022/05/19/open-letter-to-noam-chomsky-and-other-like-minded-intellectuals-on-the-russia-ukraine-war/)
+* [2022-05-21, 12:02:30](https://news.ycombinator.com/item?id=31457140) - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 * [2022-05-21, 12:00:10](https://news.ycombinator.com/item?id=31457131) - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
+* [2022-05-21, 11:46:41](https://news.ycombinator.com/item?id=31457057) - [This week's archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
 * [2022-05-21, 10:40:50](https://news.ycombinator.com/item?id=31456763) - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
 * [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 * [2022-05-21, 09:16:57](https://news.ycombinator.com/item?id=31456450) - [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
