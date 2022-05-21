@@ -16,6 +16,7 @@
 * [2022-05-19, 20:00:26](https://news.ycombinator.com/item?id=31439411) - [The Worst CPUs Ever Made (2021)](https://www.extremetech.com/computing/274650-the-worst-cpus-ever-made)
 * [2022-05-19, 19:28:04](https://news.ycombinator.com/item?id=31438989) - [HTTP Cats](https://http.cat/)
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
+* [2022-05-19, 19:13:51](https://news.ycombinator.com/item?id=31438825) - [Corsi–Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
 * [2022-05-19, 19:00:38](https://news.ycombinator.com/item?id=31438659) - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
 * [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
 * [2022-05-19, 18:03:38](https://news.ycombinator.com/item?id=31438053) - [Hugh Danby – JMW Turner’s Phantom Son](https://blogs.bl.uk/untoldlives/2022/05/hugh-danby-jmw-turners-phantom-son.html)
