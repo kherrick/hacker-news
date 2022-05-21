@@ -51,6 +51,7 @@
 * [2022-05-19, 13:15:29](https://news.ycombinator.com/item?id=31434208) - [Getting Started Making Sounds](https://learningsynths.ableton.com/en/get-started)
 * [2022-05-19, 13:03:36](https://news.ycombinator.com/item?id=31434084) - [Fastly Announces Acquisition of Glitch](https://www.fastly.com/blog/fastly-announces-acquisition-of-glitch-a-future-of-yes-code-at-the-edge)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
+* [2022-05-19, 13:01:09](https://news.ycombinator.com/item?id=31434053) - [Physics-Informed Machine Learning For Modeling Turbulence In Supernovae](https://arxiv.org/abs/2205.08663)
 * [2022-05-19, 12:49:30](https://news.ycombinator.com/item?id=31433914) - [Learning Chess at 40](https://nautil.us/learning-chess-at-40-4614/)
 * [2022-05-19, 12:41:54](https://news.ycombinator.com/item?id=31433815) - [Pikascript: An ultra-lightweight Python engine that can run in 4Kb of RAM](https://github.com/pikasTech/pikascript)
 * [2022-05-19, 12:39:34](https://news.ycombinator.com/item?id=31433792) - [The death of 'mandatory fun' in the office](https://www.bbc.com/worklife/article/20220517-the-death-of-mandatory-fun-in-the-office)
