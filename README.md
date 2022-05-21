@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
+* [2022-05-21, 17:02:29](https://news.ycombinator.com/item?id=31459620) - [C-Kermit Update History (since 8.0)](https://www.kermitproject.org/ckupdates.html)
 * [2022-05-21, 17:00:34](https://news.ycombinator.com/item?id=31459590) - [Dover (YC S19) is (still) hiring](https://www.dover.com/open-roles/software-engineer)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 16:26:29](https://news.ycombinator.com/item?id=31459258) - [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
@@ -13,7 +15,6 @@
 * [2022-05-21, 13:46:54](https://news.ycombinator.com/item?id=31457864) - [IntyOS, an operating system for the Intellivision (2003)](http://intyos.free.fr/)
 * [2022-05-21, 13:41:11](https://news.ycombinator.com/item?id=31457804) - [Tom Brown Is on a Mission to Restore Appalachia's Rare and Lost Apples (2021)](https://www.southernliving.com/culture/tom-brown-appalachian-apple-sleuth-rare-lost-varieties)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
-* [2022-05-21, 12:02:30](https://news.ycombinator.com/item?id=31457140) - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 * [2022-05-21, 11:46:41](https://news.ycombinator.com/item?id=31457057) - [This week's archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 10:40:50](https://news.ycombinator.com/item?id=31456763) - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
@@ -29,7 +30,6 @@
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 14:36:35](https://news.ycombinator.com/item?id=31448024) - [Analysing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
-* [2022-05-19, 17:16:29](https://news.ycombinator.com/item?id=31437375) - [Computer science is a liberal arts degree](https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1)
 
 ## [Archives](archives/index.md)
 

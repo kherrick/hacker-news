@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
+* [2022-05-21, 17:02:29](https://news.ycombinator.com/item?id=31459620) - [C-Kermit Update History (since 8.0)](https://www.kermitproject.org/ckupdates.html)
 * [2022-05-21, 17:00:34](https://news.ycombinator.com/item?id=31459590) - [Dover (YC S19) is (still) hiring](https://www.dover.com/open-roles/software-engineer)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 16:26:29](https://news.ycombinator.com/item?id=31459258) - [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
