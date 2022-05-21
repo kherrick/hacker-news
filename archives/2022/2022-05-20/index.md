@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 23:18:30](https://news.ycombinator.com/item?id=31453768) - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
 * [2022-05-20, 22:23:13](https://news.ycombinator.com/item?id=31453255) - [Pike Programming Language](https://pike.lysator.liu.se/)
+* [2022-05-20, 22:19:37](https://news.ycombinator.com/item?id=31453224) - [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
 * [2022-05-20, 21:58:06](https://news.ycombinator.com/item?id=31453031) - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
 * [2022-05-20, 21:04:42](https://news.ycombinator.com/item?id=31452488) - [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
