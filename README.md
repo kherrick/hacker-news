@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 21:47:44](https://news.ycombinator.com/item?id=31462222) - [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
+* [2022-05-21, 21:29:04](https://news.ycombinator.com/item?id=31462040) - [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
 * [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 * [2022-05-21, 20:48:03](https://news.ycombinator.com/item?id=31461634) - [“We’re discontinuing the Stablegains service. Please withdraw remaining funds.”](https://blog.stablegains.com/were-discontinuing-the-stablegains-service-please-withdraw-your-remaining-funds-405e6bfb89c4)
 * [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
@@ -24,10 +26,8 @@
 * [2022-05-21, 08:39:58](https://news.ycombinator.com/item?id=31456284) - [How to Be Successful (2019)](https://blog.samaltman.com/how-to-be-successful)
 * [2022-05-21, 07:32:06](https://news.ycombinator.com/item?id=31456007) - [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
-* [2022-05-21, 04:40:09](https://news.ycombinator.com/item?id=31455275) - [The Atari 800XL](https://goto10.substack.com/p/800xl-inside)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
-* [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 * [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
 

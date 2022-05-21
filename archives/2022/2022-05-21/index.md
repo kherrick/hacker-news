@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 21:47:44](https://news.ycombinator.com/item?id=31462222) - [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
+* [2022-05-21, 21:29:04](https://news.ycombinator.com/item?id=31462040) - [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
 * [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 * [2022-05-21, 20:48:03](https://news.ycombinator.com/item?id=31461634) - [“We’re discontinuing the Stablegains service. Please withdraw remaining funds.”](https://blog.stablegains.com/were-discontinuing-the-stablegains-service-please-withdraw-your-remaining-funds-405e6bfb89c4)
 * [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
