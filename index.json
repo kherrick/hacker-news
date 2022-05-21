@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-21, 16:32:51",
+      "https://news.ycombinator.com/item?id=31459316"
+    ],
+    [
+      "The balance has shifted away from SPAs",
+      "https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 16:09:41",
+      "https://news.ycombinator.com/item?id=31459103"
+    ],
+    [
+      "What Happened to Tagging? (2019)",
+      "https://daily.jstor.org/what-happened-to-tagging/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 16:00:25",
+      "https://news.ycombinator.com/item?id=31459012"
+    ],
+    [
+      ".01% of Bitcoin holders hold 27% of all Bitcoin",
+      "https://twitter.com/MorePerfectUS/status/1527661935054962688"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 15:53:58",
       "https://news.ycombinator.com/item?id=31458955"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
+      "2022-05-21, 15:31:48",
+      "https://news.ycombinator.com/item?id=31458770"
+    ],
+    [
+      "Gitee to review all code by temporarily closing public open-source projects",
+      "https://www.scmp.com/tech/big-tech/article/3178323/gitee-chinas-answer-github-review-all-code-temporarily-closing-open"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 15:18:56",
       "https://news.ycombinator.com/item?id=31458635"
     ],
     [
       "Windows XP Delta Edition",
       "https://xpdelta.weebly.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-21, 14:53:08",
-      "https://news.ycombinator.com/item?id=31458407"
-    ],
-    [
-      "Tesla Asking Owners to Limit Charging During Texas Heatwave",
-      "https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Pipewire to replace Pulseaudion on Ubuntu 22.10",
       "https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 13:46:54",
+      "https://news.ycombinator.com/item?id=31457864"
+    ],
+    [
+      "IntyOS, an operating system for the Intellivision (2003)",
+      "http://intyos.free.fr/"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "This week's archaeological news: Underground stone circles and ancient trade",
       "https://ancientbeat.substack.com/p/-ancient-beat-12"
-    ]
-  ],
-  [
-    [
-      "2022-05-21, 11:43:41",
-      "https://news.ycombinator.com/item?id=31457042"
-    ],
-    [
-      "Walking While Black (2016)",
-      "https://lithub.com/walking-while-black/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-05-21, 00:51:57",
-      "https://news.ycombinator.com/item?id=31454286"
-    ],
-    [
-      "On Aging Alone (2021)",
-      "https://thewalrus.ca/on-aging-alone/"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 21:01:04",
       "https://news.ycombinator.com/item?id=31452449"
     ],
@@ -277,26 +297,6 @@
     [
       "Computer science is a liberal arts degree",
       "https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 15:29:45",
-      "https://news.ycombinator.com/item?id=31435978"
-    ],
-    [
-      "Silly Lossy Text Compression Idea",
-      "https://snufk.in/blog/silly-compression-text.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 13:03:07",
-      "https://news.ycombinator.com/item?id=31434078"
-    ],
-    [
-      "Python Standard Library changes in recent years",
-      "https://antonz.org/python-stdlib-changes/"
     ]
   ]
 ]
