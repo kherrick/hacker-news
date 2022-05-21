@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 04:08:37](https://news.ycombinator.com/item?id=31455169) - [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
+* [2022-05-21, 02:56:30](https://news.ycombinator.com/item?id=31454883) - [World’s largest vertical strawberry farm opens in Jersey City, NJ](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 * [2022-05-21, 00:51:57](https://news.ycombinator.com/item?id=31454286) - [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
 * [2022-05-21, 00:06:36](https://news.ycombinator.com/item?id=31454066) - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
 * [2022-05-20, 23:18:30](https://news.ycombinator.com/item?id=31453768) - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
@@ -7,7 +9,6 @@
 * [2022-05-20, 22:23:13](https://news.ycombinator.com/item?id=31453255) - [Pike Programming Language](https://pike.lysator.liu.se/)
 * [2022-05-20, 22:19:37](https://news.ycombinator.com/item?id=31453224) - [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
-* [2022-05-20, 21:58:06](https://news.ycombinator.com/item?id=31453031) - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
 * [2022-05-20, 21:04:42](https://news.ycombinator.com/item?id=31452488) - [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
@@ -26,7 +27,6 @@
 * [2022-05-19, 18:03:38](https://news.ycombinator.com/item?id=31438053) - [Hugh Danby – JMW Turner’s Phantom Son](https://blogs.bl.uk/untoldlives/2022/05/hugh-danby-jmw-turners-phantom-son.html)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
 * [2022-05-19, 11:39:12](https://news.ycombinator.com/item?id=31433190) - [Designing for non-rectangular browser windows](https://shkspr.mobi/blog/2022/05/designing-for-non-rectangular-browser-windows/)
-* [2022-05-19, 05:56:23](https://news.ycombinator.com/item?id=31431239) - [Show HN: An Ephemeral Microblogging App](https://blarb.co)
 * [2022-05-18, 19:47:25](https://news.ycombinator.com/item?id=31426838) - [What did British officers think of the American civil war as it was happening?](https://www.historytoday.com/archive/history-matters/war-words)
 * [2022-05-18, 18:43:29](https://news.ycombinator.com/item?id=31426206) - [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 * [2022-05-18, 18:05:08](https://news.ycombinator.com/item?id=31425791) - [Lightbulbs Were So Startup](https://interconnected.org/home/2022/05/18/edison)
