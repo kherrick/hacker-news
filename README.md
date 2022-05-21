@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-21, 14:53:08](https://news.ycombinator.com/item?id=31458407) - [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
-* [2022-05-21, 14:21:00](https://news.ycombinator.com/item?id=31458169) - [Babies Collapse Household Systems](https://offbyone.us/posts/baby-household-supply-chain/)
 * [2022-05-21, 14:03:38](https://news.ycombinator.com/item?id=31458021) - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
 * [2022-05-21, 13:56:26](https://news.ycombinator.com/item?id=31457965) - [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
@@ -23,12 +22,13 @@
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
+* [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 * [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
+* [2022-05-19, 19:13:51](https://news.ycombinator.com/item?id=31438825) - [Corsi–Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
 * [2022-05-19, 17:16:29](https://news.ycombinator.com/item?id=31437375) - [Computer science is a liberal arts degree](https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1)
 * [2022-05-19, 15:33:20](https://news.ycombinator.com/item?id=31436039) - [Instant Heatmap with pg_featureserv](https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv)
 * [2022-05-19, 15:29:45](https://news.ycombinator.com/item?id=31435978) - [Silly Lossy Text Compression Idea](https://snufk.in/blog/silly-compression-text.html)
-* [2022-05-19, 14:23:15](https://news.ycombinator.com/item?id=31435034) - [Teach your kids poker, not chess](https://momentofdeep.substack.com/p/teach-your-kids-poker-not-chess)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
 
 ## [Archives](archives/index.md)
