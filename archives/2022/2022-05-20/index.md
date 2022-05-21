@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
 * [2022-05-20, 23:18:30](https://news.ycombinator.com/item?id=31453768) - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
+* [2022-05-20, 22:57:47](https://news.ycombinator.com/item?id=31453589) - [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
 * [2022-05-20, 22:23:13](https://news.ycombinator.com/item?id=31453255) - [Pike Programming Language](https://pike.lysator.liu.se/)
 * [2022-05-20, 22:19:37](https://news.ycombinator.com/item?id=31453224) - [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
