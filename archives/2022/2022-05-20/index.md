@@ -19,6 +19,7 @@
 * [2022-05-20, 20:17:35](https://news.ycombinator.com/item?id=31452032) - [Bombe Machine on an FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html)
 * [2022-05-20, 20:17:23](https://news.ycombinator.com/item?id=31452030) - [Policy punishes disabled people who save more than $2k](https://fullstackeconomics.com/how-policy-punishes-disabled-people-who-save-more-than-2000/)
 * [2022-05-20, 20:04:47](https://news.ycombinator.com/item?id=31451902) - [Nuclear Fusion Is Already Facing a Fuel Crisis](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
+* [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 19:30:21](https://news.ycombinator.com/item?id=31451561) - [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)
 * [2022-05-20, 18:50:21](https://news.ycombinator.com/item?id=31451142) - [Fanless Intel J4125 4x I225 Virtualized Firewall Appliance Review](https://www.servethehome.com/topton-intel-j4125-4x-i225-fanless-virtualized-firewall-appliance-review-pfsense-opnsense-proxmox-ve/)
 * [2022-05-20, 18:47:46](https://news.ycombinator.com/item?id=31451114) - [An AI system for solving crossword puzzles that outperforms the best humans](https://twitter.com/albertxu__/status/1527703889104863232)
