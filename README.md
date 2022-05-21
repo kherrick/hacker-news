@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 14:03:38](https://news.ycombinator.com/item?id=31458021) - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
+* [2022-05-21, 13:56:26](https://news.ycombinator.com/item?id=31457965) - [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
 * [2022-05-21, 12:41:35](https://news.ycombinator.com/item?id=31457350) - [Scapple](https://www.literatureandlatte.com/scapple/overview)
 * [2022-05-21, 12:02:30](https://news.ycombinator.com/item?id=31457140) - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
@@ -17,8 +19,6 @@
 * [2022-05-21, 02:56:30](https://news.ycombinator.com/item?id=31454883) - [World’s largest vertical strawberry farm opens in Jersey City](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 * [2022-05-21, 00:51:57](https://news.ycombinator.com/item?id=31454286) - [On Aging Alone (2021)](https://thewalrus.ca/on-aging-alone/)
 * [2022-05-21, 00:06:36](https://news.ycombinator.com/item?id=31454066) - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
-* [2022-05-20, 23:18:30](https://news.ycombinator.com/item?id=31453768) - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
-* [2022-05-20, 22:57:47](https://news.ycombinator.com/item?id=31453589) - [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
