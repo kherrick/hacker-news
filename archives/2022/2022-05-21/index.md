@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 18:44:29](https://news.ycombinator.com/item?id=31460626) - [Kinopio](https://kinopio.club/)
 * [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
 * [2022-05-21, 17:02:29](https://news.ycombinator.com/item?id=31459620) - [C-Kermit Update History (since 8.0)](https://www.kermitproject.org/ckupdates.html)
 * [2022-05-21, 17:00:34](https://news.ycombinator.com/item?id=31459590) - [Dover (YC S19) is (still) hiring](https://www.dover.com/open-roles/software-engineer)
@@ -42,6 +43,7 @@
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-21, 07:01:07](https://news.ycombinator.com/item?id=31455864) - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
 * [2022-05-21, 06:08:00](https://news.ycombinator.com/item?id=31455657) - [Programming Burnout](https://tsk.bearblog.dev/programming-burnout/)
+* [2022-05-21, 06:03:33](https://news.ycombinator.com/item?id=31455637) - [Subsea internet cables could help detect earthquakes](https://www.bbc.com/news/technology-61506705)
 * [2022-05-21, 05:31:01](https://news.ycombinator.com/item?id=31455491) - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
 * [2022-05-21, 04:43:20](https://news.ycombinator.com/item?id=31455287) - [5Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
 * [2022-05-21, 04:40:09](https://news.ycombinator.com/item?id=31455275) - [The Atari 800XL](https://goto10.substack.com/p/800xl-inside)
