@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
-* [2022-05-21, 12:58:53](https://news.ycombinator.com/item?id=31457462) - [What do you think the future holds for the World?](https://news.ycombinator.com/item?id=31457462)
 * [2022-05-21, 12:41:35](https://news.ycombinator.com/item?id=31457350) - [Scapple](https://www.literatureandlatte.com/scapple/overview)
 * [2022-05-21, 12:02:30](https://news.ycombinator.com/item?id=31457140) - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 * [2022-05-21, 12:00:10](https://news.ycombinator.com/item?id=31457131) - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
@@ -24,6 +23,7 @@
 * [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
+* [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
 * [2022-05-19, 19:13:51](https://news.ycombinator.com/item?id=31438825) - [Corsi–Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
 * [2022-05-19, 17:16:29](https://news.ycombinator.com/item?id=31437375) - [Computer science is a liberal arts degree](https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1)
 * [2022-05-19, 15:33:20](https://news.ycombinator.com/item?id=31436039) - [Instant Heatmap with pg_featureserv](https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv)
