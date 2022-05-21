@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 07:01:07](https://news.ycombinator.com/item?id=31455864) - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
 * [2022-05-21, 05:31:01](https://news.ycombinator.com/item?id=31455491) - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
 * [2022-05-21, 04:43:20](https://news.ycombinator.com/item?id=31455287) - [5 Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
 * [2022-05-21, 04:08:37](https://news.ycombinator.com/item?id=31455169) - [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
@@ -13,7 +14,6 @@
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop_OS](https://hpdevone.com/)
 * [2022-05-20, 21:04:42](https://news.ycombinator.com/item?id=31452488) - [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
-* [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
 * [2022-05-20, 20:45:13](https://news.ycombinator.com/item?id=31452286) - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
 * [2022-05-20, 20:17:35](https://news.ycombinator.com/item?id=31452032) - [Bombe Machine on an FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html)
 * [2022-05-20, 20:04:47](https://news.ycombinator.com/item?id=31451902) - [Nuclear fusion has encountered a shortage of tritium](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
