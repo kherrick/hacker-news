@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 22:28:35](https://news.ycombinator.com/item?id=31462608) - [The Fifth Element to Return to Theaters to Celebrate Its 25th Anniversary](https://collider.com/fifth-element-25th-anniversary-theatrical-screenings/)
 * [2022-05-21, 21:47:44](https://news.ycombinator.com/item?id=31462222) - [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
 * [2022-05-21, 21:29:04](https://news.ycombinator.com/item?id=31462040) - [Biggest Privacy Resource List on the Internet](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn)
 * [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
