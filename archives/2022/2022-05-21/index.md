@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
+* [2022-05-21, 17:00:34](https://news.ycombinator.com/item?id=31459590) - [Dover (YC S19) is (still) hiring](https://www.dover.com/open-roles/software-engineer)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 16:26:29](https://news.ycombinator.com/item?id=31459258) - [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
 * [2022-05-21, 16:09:41](https://news.ycombinator.com/item?id=31459103) - [What Happened to Tagging? (2019)](https://daily.jstor.org/what-happened-to-tagging/)
+* [2022-05-21, 16:03:25](https://news.ycombinator.com/item?id=31459044) - [Teach your Kids Bridge, not Poker](https://specbranch.com/posts/teach-bridge/)
 * [2022-05-21, 16:00:25](https://news.ycombinator.com/item?id=31459012) - [.01% of Bitcoin holders hold 27% of all Bitcoin](https://twitter.com/MorePerfectUS/status/1527661935054962688)
 * [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
 * [2022-05-21, 15:31:48](https://news.ycombinator.com/item?id=31458770) - [Gitee to review all code by temporarily closing public open-source projects](https://www.scmp.com/tech/big-tech/article/3178323/gitee-chinas-answer-github-review-all-code-temporarily-closing-open)
@@ -38,6 +40,7 @@
 * [2022-05-21, 06:08:00](https://news.ycombinator.com/item?id=31455657) - [Programming Burnout](https://tsk.bearblog.dev/programming-burnout/)
 * [2022-05-21, 05:31:01](https://news.ycombinator.com/item?id=31455491) - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
 * [2022-05-21, 04:43:20](https://news.ycombinator.com/item?id=31455287) - [5Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
+* [2022-05-21, 04:40:09](https://news.ycombinator.com/item?id=31455275) - [The Atari 800XL](https://goto10.substack.com/p/800xl-inside)
 * [2022-05-21, 04:08:37](https://news.ycombinator.com/item?id=31455169) - [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
 * [2022-05-21, 02:56:30](https://news.ycombinator.com/item?id=31454883) - [World’s largest vertical strawberry farm opens in Jersey City, NJ](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 * [2022-05-21, 01:10:49](https://news.ycombinator.com/item?id=31454376) - [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
