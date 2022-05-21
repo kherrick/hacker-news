@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-05-21, 13:46:54",
-      "https://news.ycombinator.com/item?id=31457864"
-    ],
-    [
-      "IntyOS, an operating system for the Intellivision (2003)",
-      "http://intyos.free.fr/"
-    ]
-  ],
-  [
-    [
       "2022-05-21, 13:41:11",
       "https://news.ycombinator.com/item?id=31457804"
     ],
@@ -207,6 +197,16 @@
     [
       "Considerations for Incremental Static Regeneration in Next.js",
       "https://www.csrhymes.com/2022/05/18/considerations-for-incremental-static-regeneration.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 09:16:57",
+      "https://news.ycombinator.com/item?id=31456450"
+    ],
+    [
+      "Running PyTorch on the M1 GPU",
+      "https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html"
     ]
   ],
   [
