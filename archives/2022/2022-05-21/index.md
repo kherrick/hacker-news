@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
 * [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+* [2022-05-21, 20:48:03](https://news.ycombinator.com/item?id=31461634) - [“We’re discontinuing the Stablegains service. Please withdraw remaining funds.”](https://blog.stablegains.com/were-discontinuing-the-stablegains-service-please-withdraw-your-remaining-funds-405e6bfb89c4)
 * [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
 * [2022-05-21, 20:23:01](https://news.ycombinator.com/item?id=31461456) - [Collection of US Navy Training Courses Developed](https://archive.org/details/navpers)
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)

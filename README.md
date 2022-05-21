@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+* [2022-05-21, 20:48:03](https://news.ycombinator.com/item?id=31461634) - [“We’re discontinuing the Stablegains service. Please withdraw remaining funds.”](https://blog.stablegains.com/were-discontinuing-the-stablegains-service-please-withdraw-your-remaining-funds-405e6bfb89c4)
 * [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
 * [2022-05-21, 20:23:01](https://news.ycombinator.com/item?id=31461456) - [Collection of US Navy Training Courses Developed](https://archive.org/details/navpers)
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
@@ -10,7 +11,6 @@
 * [2022-05-21, 18:44:29](https://news.ycombinator.com/item?id=31460626) - [Kinopio](https://kinopio.club/)
 * [2022-05-21, 18:42:55](https://news.ycombinator.com/item?id=31460602) - [A world grain shortage puts tens of millions at risk](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk)
 * [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
-* [2022-05-21, 17:02:29](https://news.ycombinator.com/item?id=31459620) - [C-Kermit Update History (since 8.0)](https://www.kermitproject.org/ckupdates.html)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 16:26:29](https://news.ycombinator.com/item?id=31459258) - [Firefox appears to be flagged as suspicious by Cloudflare](https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html)
 * [2022-05-21, 16:09:41](https://news.ycombinator.com/item?id=31459103) - [What Happened to Tagging? (2019)](https://daily.jstor.org/what-happened-to-tagging/)
