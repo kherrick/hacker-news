@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-05-21, 01:10:49",
+      "https://news.ycombinator.com/item?id=31454376"
+    ],
+    [
+      "Monkeypox goes global: why scientists are on alert",
+      "https://www.nature.com/articles/d41586-022-01421-8"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 00:51:57",
+      "https://news.ycombinator.com/item?id=31454286"
+    ],
+    [
+      "On Aging Alone",
+      "https://thewalrus.ca/on-aging-alone/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 00:06:36",
+      "https://news.ycombinator.com/item?id=31454066"
+    ],
+    [
+      "Extracting Triangular 3D Models, Materials, and Lighting from Images",
+      "https://nvlabs.github.io/nvdiffrec/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 23:18:30",
+      "https://news.ycombinator.com/item?id=31453768"
+    ],
+    [
+      "What Ever Happened to Scandium Bike Frames? (2016)",
+      "https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 22:23:13",
       "https://news.ycombinator.com/item?id=31453255"
     ],
     [
       "Pike Programming Language",
       "https://pike.lysator.liu.se/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 22:19:37",
+      "https://news.ycombinator.com/item?id=31453224"
+    ],
+    [
+      "How long mined metals circulate before being lost",
+      "https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2022-05-20, 18:50:21",
-      "https://news.ycombinator.com/item?id=31451142"
-    ],
-    [
-      "Fanless Intel J4125 4x I225 Virtualized Firewall Appliance Review",
-      "https://www.servethehome.com/topton-intel-j4125-4x-i225-fanless-virtualized-firewall-appliance-review-pfsense-opnsense-proxmox-ve/"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 18:47:46",
       "https://news.ycombinator.com/item?id=31451114"
     ],
     [
       "An AI system for solving crossword puzzles that outperforms the best humans",
       "https://twitter.com/albertxu__/status/1527703889104863232"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 18:42:48",
-      "https://news.ycombinator.com/item?id=31451059"
-    ],
-    [
-      "I Bought a Minicomputer from 1980 – Part 1",
-      "https://www.youtube.com/watch?v=DJ1HwuYBuss"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-05-20, 15:00:23",
-      "https://news.ycombinator.com/item?id=31448395"
-    ],
-    [
-      "Design Principles Behind Smalltalk (1981)",
-      "http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 14:58:29",
       "https://news.ycombinator.com/item?id=31448360"
     ],
     [
       "Memorizing Transformers",
       "https://arxiv.org/abs/2203.08913"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 14:57:53",
-      "https://news.ycombinator.com/item?id=31448351"
-    ],
-    [
-      "Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action",
-      "https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-05-20, 14:33:54",
-      "https://news.ycombinator.com/item?id=31447995"
-    ],
-    [
-      "Workarounds to computer access in healthcare organizations (2015) [pdf]",
-      "https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 13:58:49",
       "https://news.ycombinator.com/item?id=31447465"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-05-20, 11:20:20",
-      "https://news.ycombinator.com/item?id=31445868"
-    ],
-    [
-      "My Favorite Liar (2008)",
-      "https://www.overcomingbias.com/2008/02/my-favorite-lia.html"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 11:15:36",
       "https://news.ycombinator.com/item?id=31445822"
     ],
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2022-05-19, 22:25:28",
-      "https://news.ycombinator.com/item?id=31440955"
-    ],
-    [
-      "Scientists Uncover a Shady Web of Online Spider Sales",
-      "https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html"
-    ]
-  ],
-  [
-    [
       "2022-05-19, 11:39:12",
       "https://news.ycombinator.com/item?id=31433190"
     ],
     [
       "Designing for non-rectangular browser windows",
       "https://shkspr.mobi/blog/2022/05/designing-for-non-rectangular-browser-windows/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 05:56:23",
+      "https://news.ycombinator.com/item?id=31431239"
+    ],
+    [
+      "Show HN: An Ephemeral Microblogging App",
+      "https://blarb.co"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How Airbnb Built “Wall” to prevent data bugs",
       "https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 18:05:08",
+      "https://news.ycombinator.com/item?id=31425791"
+    ],
+    [
+      "Lightbulbs Were So Startup",
+      "https://interconnected.org/home/2022/05/18/edison"
     ]
   ]
 ]
