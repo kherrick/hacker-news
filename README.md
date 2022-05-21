@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 * [2022-05-21, 09:16:57](https://news.ycombinator.com/item?id=31456450) - [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
 * [2022-05-21, 08:39:58](https://news.ycombinator.com/item?id=31456284) - [How to Be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [2022-05-21, 07:32:06](https://news.ycombinator.com/item?id=31456007) - [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
@@ -19,8 +20,6 @@
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Ancient civilisation under eastern Turkey estimated to be 11k-13k years old](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 20:45:13](https://news.ycombinator.com/item?id=31452286) - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf)
 * [2022-05-20, 20:17:35](https://news.ycombinator.com/item?id=31452032) - [Bombe Machine on an FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html)
-* [2022-05-20, 20:04:47](https://news.ycombinator.com/item?id=31451902) - [Nuclear fusion has encountered a shortage of tritium](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
-* [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
@@ -28,6 +27,7 @@
 * [2022-05-19, 15:29:45](https://news.ycombinator.com/item?id=31435978) - [Silly Lossy Text Compression Idea](https://snufk.in/blog/silly-compression-text.html)
 * [2022-05-19, 14:23:15](https://news.ycombinator.com/item?id=31435034) - [Teach your kids poker, not chess](https://momentofdeep.substack.com/p/teach-your-kids-poker-not-chess)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
+* [2022-05-19, 13:01:09](https://news.ycombinator.com/item?id=31434053) - [Physics-Informed Machine Learning For Modeling Turbulence In Supernovae](https://arxiv.org/abs/2205.08663)
 * [2022-05-18, 18:43:29](https://news.ycombinator.com/item?id=31426206) - [How Airbnb Built “Wall” to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 * [2022-05-18, 18:05:08](https://news.ycombinator.com/item?id=31425791) - [Lightbulbs Were So Startup](https://interconnected.org/home/2022/05/18/edison)
 
