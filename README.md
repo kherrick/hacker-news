@@ -2,11 +2,11 @@
 
 * [2022-05-21, 21:00:36](https://news.ycombinator.com/item?id=31461752) - [The Muse (YC W12) Is Hiring Platform Engineers (All Levels)](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 * [2022-05-21, 20:27:15](https://news.ycombinator.com/item?id=31461487) - [DEVONagent, a smart web (re)search assistant for the Mac](https://www.devontechnologies.com/apps/devonagent)
+* [2022-05-21, 20:23:01](https://news.ycombinator.com/item?id=31461456) - [Collection of US Navy Training Courses Developed](https://archive.org/details/navpers)
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
 * [2022-05-21, 19:39:17](https://news.ycombinator.com/item?id=31461070) - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 * [2022-05-21, 19:24:44](https://news.ycombinator.com/item?id=31460940) - [Ecto's uniqueness constraint vs. Rails' uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
 * [2022-05-21, 19:23:47](https://news.ycombinator.com/item?id=31460931) - [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
-* [2022-05-21, 19:16:12](https://news.ycombinator.com/item?id=31460883) - [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
 * [2022-05-21, 18:44:29](https://news.ycombinator.com/item?id=31460626) - [Kinopio](https://kinopio.club/)
 * [2022-05-21, 18:42:55](https://news.ycombinator.com/item?id=31460602) - [A world grain shortage puts tens of millions at risk](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk)
 * [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
@@ -19,7 +19,6 @@
 * [2022-05-21, 16:00:25](https://news.ycombinator.com/item?id=31459012) - [.01% of Bitcoin holders hold 27% of all Bitcoin](https://twitter.com/MorePerfectUS/status/1527661935054962688)
 * [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
-* [2022-05-21, 13:41:11](https://news.ycombinator.com/item?id=31457804) - [Tom Brown Is on a Mission to Restore Appalachia's Rare and Lost Apples (2021)](https://www.southernliving.com/culture/tom-brown-appalachian-apple-sleuth-rare-lost-varieties)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 08:39:58](https://news.ycombinator.com/item?id=31456284) - [How to Be Successful (2019)](https://blog.samaltman.com/how-to-be-successful)
@@ -28,6 +27,7 @@
 * [2022-05-21, 04:40:09](https://news.ycombinator.com/item?id=31455275) - [The Atari 800XL](https://goto10.substack.com/p/800xl-inside)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
+* [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 * [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
 
