@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-21, 07:01:07](https://news.ycombinator.com/item?id=31455864) - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)
 * [2022-05-21, 05:31:01](https://news.ycombinator.com/item?id=31455491) - [Show HN: Parsing a Reverse Polish Expression](http://lambdaway.free.fr/lambdawalks/?view=funstacker2)
 * [2022-05-21, 04:43:20](https://news.ycombinator.com/item?id=31455287) - [5 Megawatt Nitinol Engine by Mcdonnell Douglas [video]](https://www.youtube.com/watch?v=8-dCIkJAjyM)
@@ -20,7 +21,6 @@
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
 * [2022-05-20, 14:58:29](https://news.ycombinator.com/item?id=31448360) - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
-* [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 * [2022-05-20, 11:06:20](https://news.ycombinator.com/item?id=31445753) - [Is anyone still using assembly language? You betcha (2007)](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
 * [2022-05-19, 19:13:51](https://news.ycombinator.com/item?id=31438825) - [Corsi–Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
 * [2022-05-19, 15:29:45](https://news.ycombinator.com/item?id=31435978) - [Silly Lossy Text Compression Idea](https://snufk.in/blog/silly-compression-text.html)
