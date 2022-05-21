@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
+* [2022-05-21, 19:39:17](https://news.ycombinator.com/item?id=31461070) - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 * [2022-05-21, 19:24:44](https://news.ycombinator.com/item?id=31460940) - [Ecto's uniqueness constraint vs. Rails' uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
 * [2022-05-21, 19:23:47](https://news.ycombinator.com/item?id=31460931) - [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
 * [2022-05-21, 19:16:12](https://news.ycombinator.com/item?id=31460883) - [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)

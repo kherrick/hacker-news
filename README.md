@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-21, 20:04:24](https://news.ycombinator.com/item?id=31461298) - [Surgery estimated cost $1,300. Then the Bill Came: $229,000](https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html)
+* [2022-05-21, 19:39:17](https://news.ycombinator.com/item?id=31461070) - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 * [2022-05-21, 19:24:44](https://news.ycombinator.com/item?id=31460940) - [Ecto's uniqueness constraint vs. Rails' uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
 * [2022-05-21, 19:23:47](https://news.ycombinator.com/item?id=31460931) - [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
 * [2022-05-21, 19:16:12](https://news.ycombinator.com/item?id=31460883) - [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
@@ -19,7 +20,6 @@
 * [2022-05-21, 13:41:11](https://news.ycombinator.com/item?id=31457804) - [Tom Brown Is on a Mission to Restore Appalachia's Rare and Lost Apples (2021)](https://www.southernliving.com/culture/tom-brown-appalachian-apple-sleuth-rare-lost-varieties)
 * [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads that show how far we’ve progressed, 1970-1990](https://rarehistoricalphotos.com/vintage-computer-ads/)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
-* [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 * [2022-05-21, 08:39:58](https://news.ycombinator.com/item?id=31456284) - [How to Be Successful (2019)](https://blog.samaltman.com/how-to-be-successful)
 * [2022-05-21, 07:32:06](https://news.ycombinator.com/item?id=31456007) - [Rustdesk – Remote desktop software, an open source TeamViewer alternative](https://rustdesk.com/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
