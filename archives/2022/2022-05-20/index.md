@@ -40,6 +40,7 @@
 * [2022-05-20, 14:57:53](https://news.ycombinator.com/item?id=31448351) - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
 * [2022-05-20, 14:55:21](https://news.ycombinator.com/item?id=31448318) - [Connecting an 8086 or 8088 processor to a Raspberry Pi](https://www.homebrew8088.com/home/raspberry-pi-second-project)
 * [2022-05-20, 14:52:38](https://news.ycombinator.com/item?id=31448281) - [Who owns Einstein? The battle for the world’s most famous face](https://www.theguardian.com/media/2022/may/17/who-owns-einstein-the-battle-for-the-worlds-most-famous-face)
+* [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
 * [2022-05-20, 14:44:17](https://news.ycombinator.com/item?id=31448148) - [Fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 14:36:35](https://news.ycombinator.com/item?id=31448024) - [Analysing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
