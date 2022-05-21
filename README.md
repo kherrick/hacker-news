@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-21, 01:10:49](https://news.ycombinator.com/item?id=31454376) - [Monkeypox goes global: why scientists are on alert](https://www.nature.com/articles/d41586-022-01421-8)
 * [2022-05-21, 00:51:57](https://news.ycombinator.com/item?id=31454286) - [On Aging Alone](https://thewalrus.ca/on-aging-alone/)
 * [2022-05-21, 00:06:36](https://news.ycombinator.com/item?id=31454066) - [Extracting Triangular 3D Models, Materials, and Lighting from Images](https://nvlabs.github.io/nvdiffrec/)
 * [2022-05-20, 23:18:30](https://news.ycombinator.com/item?id=31453768) - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
@@ -24,6 +23,7 @@
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
+* [2022-05-19, 18:03:38](https://news.ycombinator.com/item?id=31438053) - [Hugh Danby – JMW Turner’s Phantom Son](https://blogs.bl.uk/untoldlives/2022/05/hugh-danby-jmw-turners-phantom-son.html)
 * [2022-05-19, 13:03:07](https://news.ycombinator.com/item?id=31434078) - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
 * [2022-05-19, 11:39:12](https://news.ycombinator.com/item?id=31433190) - [Designing for non-rectangular browser windows](https://shkspr.mobi/blog/2022/05/designing-for-non-rectangular-browser-windows/)
 * [2022-05-19, 05:56:23](https://news.ycombinator.com/item?id=31431239) - [Show HN: An Ephemeral Microblogging App](https://blarb.co)

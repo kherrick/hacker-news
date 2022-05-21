@@ -18,6 +18,7 @@
 * [2022-05-19, 19:17:22](https://news.ycombinator.com/item?id=31438864) - [Render mathematical expressions in Markdown On GitHub](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * [2022-05-19, 19:00:38](https://news.ycombinator.com/item?id=31438659) - [The Coming Food Catastrophe](https://www.economist.com/leaders/2022/05/19/the-coming-food-catastrophe)
 * [2022-05-19, 18:39:40](https://news.ycombinator.com/item?id=31438426) - [The Loneliness of a 10x Developer](https://news.ycombinator.com/item?id=31438426)
+* [2022-05-19, 18:03:38](https://news.ycombinator.com/item?id=31438053) - [Hugh Danby – JMW Turner’s Phantom Son](https://blogs.bl.uk/untoldlives/2022/05/hugh-danby-jmw-turners-phantom-son.html)
 * [2022-05-19, 17:56:00](https://news.ycombinator.com/item?id=31437946) - [RIP Good Times (2008)](https://articles.sequoiacap.com/rip-good-times)
 * [2022-05-19, 17:16:13](https://news.ycombinator.com/item?id=31437369) - [Show HN: A stab at building my own string diffing library](https://news.ycombinator.com/item?id=31437369)
 * [2022-05-19, 17:10:56](https://news.ycombinator.com/item?id=31437312) - [The Lisp Implementafion for the PDP-1 Computer [pdf]](http://s3data.computerhistory.org/pdp-1/DEC.pdp_1.1964.102650371.pdf)
