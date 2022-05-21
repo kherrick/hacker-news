@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-21, 11:17:24",
+      "https://news.ycombinator.com/item?id=31456918"
+    ],
+    [
+      "List of Worker-Owned Tech Cooperatives Worldwide",
+      "https://github.com/hng/tech-coops"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 10:40:50",
       "https://news.ycombinator.com/item?id=31456763"
     ],
@@ -107,16 +117,6 @@
     [
       "Programming Burnout",
       "https://tsk.bearblog.dev/programming-burnout/"
-    ]
-  ],
-  [
-    [
-      "2022-05-21, 05:31:01",
-      "https://news.ycombinator.com/item?id=31455491"
-    ],
-    [
-      "Show HN: Parsing a Reverse Polish Expression",
-      "http://lambdaway.free.fr/lambdawalks/?view=funstacker2"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-05-20, 16:14:43",
-      "https://news.ycombinator.com/item?id=31449442"
-    ],
-    [
-      "That Time I Saved the VR Club",
-      "https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 15:54:57",
       "https://news.ycombinator.com/item?id=31449147"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31436039"
     ],
     [
-      "Containers inside Postgres for quick Prototyping",
+      "Instant Heatmap with pg_featureserv",
       "https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Python Standard Library changes in recent years",
       "https://antonz.org/python-stdlib-changes/"
+    ]
+  ],
+  [
+    [
+      "2022-05-18, 18:05:08",
+      "https://news.ycombinator.com/item?id=31425791"
+    ],
+    [
+      "Lightbulbs Were So Startup",
+      "https://interconnected.org/home/2022/05/18/edison"
     ]
   ]
 ]
