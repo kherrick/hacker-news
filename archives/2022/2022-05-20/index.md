@@ -29,6 +29,7 @@
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
 * [2022-05-20, 17:07:08](https://news.ycombinator.com/item?id=31450127) - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
 * [2022-05-20, 17:00:00](https://news.ycombinator.com/item?id=31450032) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+* [2022-05-20, 16:46:34](https://news.ycombinator.com/item?id=31449854) - [Securing AWS Lambda Function URLs](https://www.wiz.io/blog/securing-aws-lambda-function-urls/)
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 16:00:26](https://news.ycombinator.com/item?id=31449237) - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
