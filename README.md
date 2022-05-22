@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 17:13:49](https://news.ycombinator.com/item?id=31470443) - [The philosophy of Bitcoin and the question of money](https://journals.sagepub.com/doi/full/10.1177/02632764211049826)
 * [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 * [2022-05-22, 17:00:54](https://news.ycombinator.com/item?id=31470304) - [Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
 * [2022-05-22, 16:55:24](https://news.ycombinator.com/item?id=31470251) - [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
@@ -11,7 +12,6 @@
 * [2022-05-22, 15:23:25](https://news.ycombinator.com/item?id=31469142) - [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
 * [2022-05-22, 15:21:10](https://news.ycombinator.com/item?id=31469118) - [Google blocked patch to disable extraction to APK](https://twitter.com/MishaalRahman/status/1527702937723621376)
 * [2022-05-22, 15:13:46](https://news.ycombinator.com/item?id=31469024) - [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
-* [2022-05-22, 14:19:36](https://news.ycombinator.com/item?id=31468437) - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
 * [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
 * [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When can liquid democracy unveil the truth? (2021)](https://arxiv.org/abs/2104.01828)
 * [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
