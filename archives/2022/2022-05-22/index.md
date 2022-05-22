@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
+* [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
 * [2022-05-22, 19:26:21](https://news.ycombinator.com/item?id=31471786) - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
 * [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 * [2022-05-22, 18:28:04](https://news.ycombinator.com/item?id=31471233) - [What Good Are Notebooks? Life During Wartime Censorship](http://www.thepolemicist.net/2022/05/what-good-are-notebooks-life-during.html)
