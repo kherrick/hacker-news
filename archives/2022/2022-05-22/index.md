@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 12:00:26](https://news.ycombinator.com/item?id=31467182) - [Flightcontrol (YC W22) Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
+* [2022-05-22, 11:38:36](https://news.ycombinator.com/item?id=31467045) - [Image Does Not Exist](https://thisimagedoesnotexist.com/)
+* [2022-05-22, 11:06:47](https://news.ycombinator.com/item?id=31466885) - [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
 * [2022-05-22, 09:56:54](https://news.ycombinator.com/item?id=31466515) - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
 * [2022-05-22, 09:39:54](https://news.ycombinator.com/item?id=31466416) - [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
 * [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
