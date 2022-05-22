@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-22, 01:00:39",
+      "https://news.ycombinator.com/item?id=31463854"
+    ],
+    [
+      "Vance (YC W22) Is Hiring",
+      "https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer"
+    ]
+  ],
+  [
+    [
+      "2022-05-22, 00:00:29",
+      "https://news.ycombinator.com/item?id=31463454"
+    ],
+    [
+      "Trunk – Build, bundle and ship your rust WASM application to the web",
+      "https://github.com/thedodd/trunk"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 23:34:53",
       "https://news.ycombinator.com/item?id=31463249"
     ],
     [
       "Tunneling Wikipedia through WhatsApp to (maybe?) get around WiFi restrictions",
       "https://alexanderell.is/posts/wikipedia-over-whatsapp/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 23:17:51",
+      "https://news.ycombinator.com/item?id=31463106"
+    ],
+    [
+      "Why America has so few carpenters",
+      "https://thehustle.co/why-america-has-so-few-carpenters/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31462563"
     ],
     [
-      "QCAD – The Open Source CAD System for Everyone",
+      "QCAD – Open Source CAD System",
       "https://www.qcad.org/en/"
     ]
   ],
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2022-05-21, 21:00:36",
-      "https://news.ycombinator.com/item?id=31461752"
+      "2022-05-21, 21:47:44",
+      "https://news.ycombinator.com/item?id=31462222"
     ],
     [
-      "The Muse (YC W12) Is Hiring Platform Engineers (All Levels)",
-      "https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c"
+      "Why is the nuclear power industry stagnant?",
+      "https://austinvernon.site/blog/nuclear.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-05-21, 16:26:29",
-      "https://news.ycombinator.com/item?id=31459258"
-    ],
-    [
-      "Firefox appears to be flagged as suspicious by Cloudflare",
-      "https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html"
-    ]
-  ],
-  [
-    [
       "2022-05-21, 16:09:41",
       "https://news.ycombinator.com/item?id=31459103"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-05-21, 11:17:24",
-      "https://news.ycombinator.com/item?id=31456918"
-    ],
-    [
-      "List of Worker-Owned Tech Cooperatives Worldwide",
-      "https://github.com/hng/tech-coops"
-    ]
-  ],
-  [
-    [
       "2022-05-21, 07:22:21",
       "https://news.ycombinator.com/item?id=31455968"
     ],
     [
       "Lotus 1-2-3 For Linux",
       "https://lock.cmpxchg8b.com/linux123.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 17:56:19",
-      "https://news.ycombinator.com/item?id=31450597"
-    ],
-    [
-      "Math on GitHub: The Good, the Bad and the Ugly",
-      "https://nschloe.github.io/2022/05/20/math-on-github.html"
     ]
   ],
   [
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2022-05-20, 15:31:38",
-      "https://news.ycombinator.com/item?id=31448828"
+      "2022-05-20, 15:27:09",
+      "https://news.ycombinator.com/item?id=31448764"
     ],
     [
-      "Netflix’s Bad Habits Have Caught Up with It",
-      "https://www.vulture.com/2022/04/netflix-bad-decisions-have-caught-up-with-it.html"
+      "Low-cost, battery-like device absorbs CO2 emissions while it charges",
+      "https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 15:25:04",
+      "https://news.ycombinator.com/item?id=31448739"
+    ],
+    [
+      "SmartSHARK a software ecosystem for mining software repositories",
+      "https://smartshark.github.io/about/"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31448386"
     ],
     [
-      "We Are All Confident Idiots",
+      "We are all confident idiots (2014)",
       "https://psmag.com/social-justice/confident-idiots-92793"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Evaluating FreeBSD Current for Production Use",
       "https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 13:28:57",
-      "https://news.ycombinator.com/item?id=31447080"
-    ],
-    [
-      "Quick fixes to your code review workflow",
-      "https://consulting.drmaciver.com/code-review-quick-fixes/"
     ]
   ]
 ]
