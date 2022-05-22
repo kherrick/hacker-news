@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 * [2022-05-22, 07:00:04](https://news.ycombinator.com/item?id=31465611) - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 * [2022-05-22, 06:02:03](https://news.ycombinator.com/item?id=31465292) - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
 * [2022-05-22, 05:43:05](https://news.ycombinator.com/item?id=31465195) - [FLibrary, a college notes publishing community](https://flibrary.info)

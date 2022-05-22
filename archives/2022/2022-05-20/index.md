@@ -62,6 +62,7 @@
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
 * [2022-05-20, 13:53:33](https://news.ycombinator.com/item?id=31447396) - [OnlyFans creator stalked and had sex with Meta employees to reinstate Instagram](https://www.dailydot.com/irl/kittylixo-onlyfans-instagram-employees/)
 * [2022-05-20, 13:44:24](https://news.ycombinator.com/item?id=31447266) - [Detecting 'Professional' Malicious Online Reviews with Machine Learning](https://www.unite.ai/detecting-professional-malicious-online-reviews-with-machine-learning/)
+* [2022-05-20, 13:35:45](https://news.ycombinator.com/item?id=31447159) - [Sam Bankman-Fried Described Yield Farming and Left Matt Levine Stunned](https://www.bloomberg.com/news/articles/2022-04-25/sam-bankman-fried-described-yield-farming-and-left-matt-levine-stunned)
 * [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
 * [2022-05-20, 13:25:50](https://news.ycombinator.com/item?id=31447046) - [LiveKit – open-source, high performance WebRTC infrastructure](https://github.com/livekit/livekit)
 * [2022-05-20, 13:08:50](https://news.ycombinator.com/item?id=31446884) - [Why won’t some people pay for news?](https://www.niemanlab.org/2022/05/why-wont-some-people-pay-for-news/)
