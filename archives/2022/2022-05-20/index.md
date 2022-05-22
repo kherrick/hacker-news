@@ -10,6 +10,7 @@
 * [2022-05-20, 22:19:37](https://news.ycombinator.com/item?id=31453224) - [How long mined metals circulate before being lost](https://arstechnica.com/science/2022/05/new-study-estimates-how-long-mined-metals-circulate-before-being-lost/)
 * [2022-05-20, 22:09:04](https://news.ycombinator.com/item?id=31453125) - [HP Dev One Laptop with Pop _OS](https://hpdevone.com/)
 * [2022-05-20, 21:58:06](https://news.ycombinator.com/item?id=31453031) - [Credit Card Fraud and an Algorithm](https://www.lanacion.com.ar/seguridad/falsetti-el-estafador-el-canillita-que-descubrio-el-algoritmo-para-crear-tarjetas-de-credito-y-nid20052022/)
+* [2022-05-20, 21:32:16](https://news.ycombinator.com/item?id=31452766) - [Listening to some songs can cause a physiological response known as “frisson”](https://bigthink.com/neuropsych/frisson-song-playlist/)
 * [2022-05-20, 21:04:42](https://news.ycombinator.com/item?id=31452488) - [Monitor Radiation with a Raspberry Pi](https://nbailey.ca/post/radiation-monitor/)
 * [2022-05-20, 21:01:04](https://news.ycombinator.com/item?id=31452449) - [Is an unknown, extraordinarily ancient civilisation buried under eastern Turkey?](https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-)
 * [2022-05-20, 21:00:01](https://news.ycombinator.com/item?id=31452439) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC](https://skio.com/careers/)
