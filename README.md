@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 * [2022-05-22, 17:00:54](https://news.ycombinator.com/item?id=31470304) - [Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
 * [2022-05-22, 16:55:24](https://news.ycombinator.com/item?id=31470251) - [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
 * [2022-05-22, 16:05:01](https://news.ycombinator.com/item?id=31469625) - [Guns, Privacy, and Crime](https://www.nber.org/papers/w29940)
@@ -15,7 +16,6 @@
 * [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When can liquid democracy unveil the truth? (2021)](https://arxiv.org/abs/2104.01828)
 * [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
 * [2022-05-22, 13:51:52](https://news.ycombinator.com/item?id=31468196) - [Invade Haiti, Wall Street Urged. The U.S. Obliged](https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html)
-* [2022-05-22, 13:51:10](https://news.ycombinator.com/item?id=31468189) - [Ask HN: Are there any good Diff tools for Jupyter Notebooks?](https://news.ycombinator.com/item?id=31468189)
 * [2022-05-22, 13:35:50](https://news.ycombinator.com/item?id=31468033) - [Ask HN: Should Instagram add labels indicating an image used filters?](https://news.ycombinator.com/item?id=31468033)
 * [2022-05-22, 13:34:53](https://news.ycombinator.com/item?id=31468017) - [SolveSpace – parametric 2d/3D CAD](https://solvespace.com/index.pl)
 * [2022-05-22, 13:29:16](https://news.ycombinator.com/item?id=31467969) - [Smaller is better – The rise, fall, and rise of flat file software](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
@@ -25,10 +25,10 @@
 * [2022-05-22, 07:03:30](https://news.ycombinator.com/item?id=31465628) - [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
 * [2022-05-22, 06:16:56](https://news.ycombinator.com/item?id=31465368) - [Book review: The Little Typer (2021)](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
 * [2022-05-21, 03:08:04](https://news.ycombinator.com/item?id=31454929) - [OPNsense DEC740 Ryzen Embedded Fanless Firewall Review (2021)](https://wiki.junicast.de/en/junicast/review/opnsense_dec740)
+* [2022-05-21, 01:36:42](https://news.ycombinator.com/item?id=31454530) - [Tally-Ho – A Micropub Speaking Blog](https://github.com/hawx/tally-ho)
 * [2022-05-20, 23:44:22](https://news.ycombinator.com/item?id=31453952) - [People hated shopping carts when they first came out](https://www.cnn.com/2022/05/14/business/grocery-shopping-carts-history/index.html)
 * [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
 * [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On efficiently partitioning a topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
-* [2022-05-20, 14:40:10](https://news.ycombinator.com/item?id=31448082) - [The State of Application Modernization, 2022](https://thenewstack.io/the-state-of-application-modernization-2022/)
 * [2022-05-19, 16:33:56](https://news.ycombinator.com/item?id=31436814) - [Felienne Hermans: How patterns in variable names can make code easier to read](https://www.youtube.com/watch?v=z7w2lKG8zWM)
 
 ## [Archives](archives/index.md)
