@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 14:19:36](https://news.ycombinator.com/item?id=31468437) - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
+* [2022-05-22, 14:03:42](https://news.ycombinator.com/item?id=31468284) - [AI-art isn't art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
+* [2022-05-22, 13:51:52](https://news.ycombinator.com/item?id=31468196) - [Invade Haiti, Wall Street Urged. The U.S. Obliged](https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html)
+* [2022-05-22, 13:51:10](https://news.ycombinator.com/item?id=31468189) - [Ask HN: Are there any good Diff tools for Jupyter Notebooks?](https://news.ycombinator.com/item?id=31468189)
 * [2022-05-22, 13:35:50](https://news.ycombinator.com/item?id=31468033) - [Ask HN: Should Instagram add labels indicating an image used filters?](https://news.ycombinator.com/item?id=31468033)
+* [2022-05-22, 13:34:53](https://news.ycombinator.com/item?id=31468017) - [SolveSpace – parametric 2d/3D CAD](https://solvespace.com/index.pl)
 * [2022-05-22, 13:29:16](https://news.ycombinator.com/item?id=31467969) - [Smaller is better (The rise, fall, and rise of flat file software)](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
 * [2022-05-22, 12:30:58](https://news.ycombinator.com/item?id=31467416) - [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
