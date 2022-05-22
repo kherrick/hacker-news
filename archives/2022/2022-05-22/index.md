@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 06:02:03](https://news.ycombinator.com/item?id=31465292) - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
+* [2022-05-22, 04:57:54](https://news.ycombinator.com/item?id=31464999) - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
+* [2022-05-22, 04:49:46](https://news.ycombinator.com/item?id=31464970) - [The Small Steps of Giant Leaps](https://fs.blog/small-steps-giant-leaps/)
 * [2022-05-22, 03:12:08](https://news.ycombinator.com/item?id=31464554) - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
 * [2022-05-22, 01:00:39](https://news.ycombinator.com/item?id=31463854) - [Vance (YC W22) Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
 * [2022-05-22, 00:00:29](https://news.ycombinator.com/item?id=31463454) - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)

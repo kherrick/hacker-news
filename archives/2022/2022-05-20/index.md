@@ -26,6 +26,7 @@
 * [2022-05-20, 18:47:46](https://news.ycombinator.com/item?id=31451114) - [An AI system for solving crossword puzzles that outperforms the best humans](https://twitter.com/albertxu__/status/1527703889104863232)
 * [2022-05-20, 18:42:48](https://news.ycombinator.com/item?id=31451059) - [I Bought a Minicomputer from 1980 – Part 1](https://www.youtube.com/watch?v=DJ1HwuYBuss)
 * [2022-05-20, 18:08:24](https://news.ycombinator.com/item?id=31450713) - [Ask HN: What to do about ‘Good at programming Bad at Leetcode’](https://news.ycombinator.com/item?id=31450713)
+* [2022-05-20, 18:05:00](https://news.ycombinator.com/item?id=31450690) - [Understanding Stresses and Strains (1968)](https://archive.org/details/understandingstressesandstrains)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
 * [2022-05-20, 17:07:08](https://news.ycombinator.com/item?id=31450127) - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
