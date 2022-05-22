@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 13:29:16](https://news.ycombinator.com/item?id=31467969) - [Smaller is better (The rise, fall, and rise of flat file software)](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
 * [2022-05-22, 12:30:58](https://news.ycombinator.com/item?id=31467416) - [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
 * [2022-05-22, 12:00:26](https://news.ycombinator.com/item?id=31467182) - [Flightcontrol (YC W22) Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
@@ -27,7 +28,6 @@
 * [2022-05-20, 18:05:00](https://news.ycombinator.com/item?id=31450690) - [Understanding Stresses and Strains (1968)](https://archive.org/details/understandingstressesandstrains)
 * [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
 * [2022-05-20, 15:27:09](https://news.ycombinator.com/item?id=31448764) - [Low-cost, battery-like device absorbs CO2 emissions while it charges](https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html)
-* [2022-05-20, 14:59:53](https://news.ycombinator.com/item?id=31448386) - [We are all confident idiots (2014)](https://psmag.com/social-justice/confident-idiots-92793)
 * [2022-05-20, 14:40:10](https://news.ycombinator.com/item?id=31448082) - [The State of Application Modernization, 2022](https://thenewstack.io/the-state-of-application-modernization-2022/)
 * [2022-05-20, 13:35:45](https://news.ycombinator.com/item?id=31447159) - [Sam Bankman-Fried Described Yield Farming and Left Matt Levine Stunned](https://www.bloomberg.com/news/articles/2022-04-25/sam-bankman-fried-described-yield-farming-and-left-matt-levine-stunned)
 
