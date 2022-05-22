@@ -36,6 +36,8 @@
 * [2022-05-20, 15:32:11](https://news.ycombinator.com/item?id=31448836) - [GCC Profiler Internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
 * [2022-05-20, 15:31:38](https://news.ycombinator.com/item?id=31448828) - [Netflix’s Bad Habits Have Caught Up with It](https://www.vulture.com/2022/04/netflix-bad-decisions-have-caught-up-with-it.html)
 * [2022-05-20, 15:31:06](https://news.ycombinator.com/item?id=31448819) - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)
+* [2022-05-20, 15:27:09](https://news.ycombinator.com/item?id=31448764) - [Low-cost, battery-like device absorbs CO2 emissions while it charges](https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html)
+* [2022-05-20, 15:25:04](https://news.ycombinator.com/item?id=31448739) - [SmartSHARK a software ecosystem for mining software repositories](https://smartshark.github.io/about/)
 * [2022-05-20, 15:10:32](https://news.ycombinator.com/item?id=31448530) - [Formula for a Shortage](https://thezvi.substack.com/p/formula-for-a-shortage-8ae)
 * [2022-05-20, 15:05:36](https://news.ycombinator.com/item?id=31448470) - [A Web Around the World, Part 10: A Web of Associations](https://www.filfre.net/2022/05/a-web-around-the-world-part-10-a-web-of-associations/)
 * [2022-05-20, 15:00:23](https://news.ycombinator.com/item?id=31448395) - [Design Principles Behind Smalltalk (2001)](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)

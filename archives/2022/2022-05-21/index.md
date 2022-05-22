@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-21](index.md)
 
 * [2022-05-21, 23:34:53](https://news.ycombinator.com/item?id=31463249) - [Tunneling Wikipedia through WhatsApp to (maybe?) get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
+* [2022-05-21, 23:17:51](https://news.ycombinator.com/item?id=31463106) - [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
 * [2022-05-21, 22:43:23](https://news.ycombinator.com/item?id=31462773) - [Ask HN: What's your greatest enjoyment in life?](https://news.ycombinator.com/item?id=31462773)
 * [2022-05-21, 22:39:55](https://news.ycombinator.com/item?id=31462735) - [“Smalltalk in a C world” 2013](https://www.sciencedirect.com/science/article/pii/S0167642313002852)
 * [2022-05-21, 22:28:35](https://news.ycombinator.com/item?id=31462608) - [The Fifth Element to Return to Theaters to Celebrate Its 25th Anniversary](https://collider.com/fifth-element-25th-anniversary-theatrical-screenings/)
