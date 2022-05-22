@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 09:56:54](https://news.ycombinator.com/item?id=31466515) - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
 * [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 * [2022-05-22, 07:00:04](https://news.ycombinator.com/item?id=31465611) - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 * [2022-05-22, 06:16:56](https://news.ycombinator.com/item?id=31465368) - [Book Review: The Little Typer](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
@@ -28,7 +29,6 @@
 * [2022-05-20, 15:27:09](https://news.ycombinator.com/item?id=31448764) - [Low-cost, battery-like device absorbs CO2 emissions while it charges](https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html)
 * [2022-05-20, 14:59:53](https://news.ycombinator.com/item?id=31448386) - [We are all confident idiots (2014)](https://psmag.com/social-justice/confident-idiots-92793)
 * [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
-* [2022-05-20, 14:12:31](https://news.ycombinator.com/item?id=31447647) - [Lukol – A “Privacy” Search Engine](https://thenewleafjournal.com/leaf/lukol-search-engine-shows-up-in-logs/)
 * [2022-05-20, 13:35:45](https://news.ycombinator.com/item?id=31447159) - [Sam Bankman-Fried Described Yield Farming and Left Matt Levine Stunned](https://www.bloomberg.com/news/articles/2022-04-25/sam-bankman-fried-described-yield-farming-and-left-matt-levine-stunned)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 09:56:54](https://news.ycombinator.com/item?id=31466515) - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
 * [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 * [2022-05-22, 07:00:04](https://news.ycombinator.com/item?id=31465611) - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 * [2022-05-22, 06:16:56](https://news.ycombinator.com/item?id=31465368) - [Book Review: The Little Typer](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
