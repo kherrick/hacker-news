@@ -39,6 +39,7 @@
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 16:00:26](https://news.ycombinator.com/item?id=31449237) - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 * [2022-05-20, 15:54:57](https://news.ycombinator.com/item?id=31449147) - [This “amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti](https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer)
+* [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On Efficiently Partitioning a Topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 15:32:11](https://news.ycombinator.com/item?id=31448836) - [GCC Profiler Internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
 * [2022-05-20, 15:31:38](https://news.ycombinator.com/item?id=31448828) - [Netflix’s Bad Habits Have Caught Up with It](https://www.vulture.com/2022/04/netflix-bad-decisions-have-caught-up-with-it.html)
 * [2022-05-20, 15:31:06](https://news.ycombinator.com/item?id=31448819) - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)

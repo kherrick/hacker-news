@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 14:36:50](https://news.ycombinator.com/item?id=31468625) - [Unleash your productivity by making sure you do this in weekly reviews](https://productivegrowth.substack.com/p/unleash-your-productivity-by-performing)
 * [2022-05-22, 14:19:36](https://news.ycombinator.com/item?id=31468437) - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
 * [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
 * [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When Can Liquid Democracy Unveil the Truth? (2021)](https://arxiv.org/abs/2104.01828)

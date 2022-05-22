@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 14:36:50](https://news.ycombinator.com/item?id=31468625) - [Unleash your productivity by making sure you do this in weekly reviews](https://productivegrowth.substack.com/p/unleash-your-productivity-by-performing)
 * [2022-05-22, 14:19:36](https://news.ycombinator.com/item?id=31468437) - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
 * [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
 * [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When Can Liquid Democracy Unveil the Truth? (2021)](https://arxiv.org/abs/2104.01828)
@@ -16,7 +17,6 @@
 * [2022-05-22, 11:38:36](https://news.ycombinator.com/item?id=31467045) - [Image Does Not Exist](https://thisimagedoesnotexist.com/)
 * [2022-05-22, 10:45:37](https://news.ycombinator.com/item?id=31466782) - [Book Review: Making Nature](https://astralcodexten.substack.com/p/your-book-review-making-nature)
 * [2022-05-22, 09:56:54](https://news.ycombinator.com/item?id=31466515) - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
-* [2022-05-22, 09:39:54](https://news.ycombinator.com/item?id=31466416) - [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
 * [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 * [2022-05-22, 07:03:30](https://news.ycombinator.com/item?id=31465628) - [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
 * [2022-05-22, 06:16:56](https://news.ycombinator.com/item?id=31465368) - [Book review: The Little Typer (2021)](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
@@ -24,11 +24,11 @@
 * [2022-05-22, 03:12:08](https://news.ycombinator.com/item?id=31464554) - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
 * [2022-05-22, 00:00:29](https://news.ycombinator.com/item?id=31463454) - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
 * [2022-05-21, 23:34:53](https://news.ycombinator.com/item?id=31463249) - [Tunneling Wikipedia through WhatsApp to (maybe?) get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
-* [2022-05-21, 22:24:26](https://news.ycombinator.com/item?id=31462563) - [QCAD – Open Source CAD System](https://www.qcad.org/en/)
 * [2022-05-21, 02:57:02](https://news.ycombinator.com/item?id=31454886) - [Locality of Behavior](https://htmx.org/essays/locality-of-behaviour/)
 * [2022-05-20, 21:32:16](https://news.ycombinator.com/item?id=31452766) - [Listening to songs can cause a physiological response known as “frisson”](https://bigthink.com/neuropsych/frisson-song-playlist/)
 * [2022-05-20, 18:05:00](https://news.ycombinator.com/item?id=31450690) - [Understanding Stresses and Strains (1968)](https://archive.org/details/understandingstressesandstrains)
 * [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
+* [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On Efficiently Partitioning a Topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 14:40:10](https://news.ycombinator.com/item?id=31448082) - [The State of Application Modernization, 2022](https://thenewstack.io/the-state-of-application-modernization-2022/)
 
 ## [Archives](archives/index.md)
