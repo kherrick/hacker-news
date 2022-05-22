@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31472997"
     ],
     [
-      "The mindless tyranny of “what if it changes?” as a software design principle",
+      "“What if it changes?”",
       "https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes"
     ]
   ],
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2022-05-22, 16:03:07",
-      "https://news.ycombinator.com/item?id=31469599"
+      "2022-05-22, 16:00:31",
+      "https://news.ycombinator.com/item?id=31469565"
     ],
     [
-      "Generating websites with SPARQL and Snowman, part 1",
-      "https://www.bobdc.com/blog/snowmanartbasept1/"
+      "Hello world in every computer language",
+      "https://github.com/xbinner18P/leachim6S"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Faster CRC32 on the Apple M1",
       "https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 15:23:25",
-      "https://news.ycombinator.com/item?id=31469142"
-    ],
-    [
-      "Bionic Reading – Convert Text into Better Way to Read Faster",
-      "https://github.com/crisanlucid/vite-react-tailwind-bionic-reading"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2022-05-22, 11:47:43",
+      "https://news.ycombinator.com/item?id=31467104"
+    ],
+    [
+      "Millions of electric cars are coming. What happens to all the dead batteries?",
+      "https://www.science.org/content/article/millions-electric-cars-are-coming-what-happens-all-dead-batteries"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 10:34:39",
       "https://news.ycombinator.com/item?id=31456737"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31449368"
     ],
     [
-      "Why SQLite may become foundational for digital progress",
+      "SQLite may become foundational for digital progress",
       "https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/"
     ]
   ],
