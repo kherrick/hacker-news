@@ -57,6 +57,7 @@
 * [2022-05-21, 11:43:41](https://news.ycombinator.com/item?id=31457042) - [Walking While Black (2016)](https://lithub.com/walking-while-black/)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 10:40:50](https://news.ycombinator.com/item?id=31456763) - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
+* [2022-05-21, 10:34:39](https://news.ycombinator.com/item?id=31456737) - [The Discoveries of Continuation [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf)
 * [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 * [2022-05-21, 09:33:18](https://news.ycombinator.com/item?id=31456519) - [Considerations for Incremental Static Regeneration in Next.js](https://www.csrhymes.com/2022/05/18/considerations-for-incremental-static-regeneration.html)
 * [2022-05-21, 09:16:57](https://news.ycombinator.com/item?id=31456450) - [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
