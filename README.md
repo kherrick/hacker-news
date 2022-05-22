@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 13:35:50](https://news.ycombinator.com/item?id=31468033) - [Ask HN: Should Instagram add labels indicating an image used filters?](https://news.ycombinator.com/item?id=31468033)
 * [2022-05-22, 13:29:16](https://news.ycombinator.com/item?id=31467969) - [Smaller is better (The rise, fall, and rise of flat file software)](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
 * [2022-05-22, 12:30:58](https://news.ycombinator.com/item?id=31467416) - [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
@@ -19,7 +20,6 @@
 * [2022-05-21, 23:17:51](https://news.ycombinator.com/item?id=31463106) - [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
 * [2022-05-21, 22:24:26](https://news.ycombinator.com/item?id=31462563) - [QCAD – Open Source CAD System](https://www.qcad.org/en/)
 * [2022-05-21, 21:47:44](https://news.ycombinator.com/item?id=31462222) - [Why is the nuclear power industry stagnant?](https://austinvernon.site/blog/nuclear.html)
-* [2022-05-21, 20:23:01](https://news.ycombinator.com/item?id=31461456) - [Collection of US Navy Training Courses Developed](https://archive.org/details/navpers)
 * [2022-05-21, 18:44:29](https://news.ycombinator.com/item?id=31460626) - [Kinopio](https://kinopio.club/)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 02:57:02](https://news.ycombinator.com/item?id=31454886) - [Locality of Behavior](https://htmx.org/essays/locality-of-behaviour/)
