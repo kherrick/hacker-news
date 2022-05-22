@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
 * [2022-05-22, 17:57:24](https://news.ycombinator.com/item?id=31470928) - [Lofi.co – Relax and Focus](https://lofi.co/)
+* [2022-05-22, 17:17:11](https://news.ycombinator.com/item?id=31470482) - [Constraint-based geometry (CAD) sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
 * [2022-05-22, 17:13:49](https://news.ycombinator.com/item?id=31470443) - [The philosophy of Bitcoin and the question of money](https://journals.sagepub.com/doi/full/10.1177/02632764211049826)
 * [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 * [2022-05-22, 17:00:54](https://news.ycombinator.com/item?id=31470304) - [Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
