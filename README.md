@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 19:26:21](https://news.ycombinator.com/item?id=31471786) - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
 * [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 * [2022-05-22, 18:23:08](https://news.ycombinator.com/item?id=31471188) - [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
 * [2022-05-22, 18:17:17](https://news.ycombinator.com/item?id=31471127) - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
@@ -14,7 +15,6 @@
 * [2022-05-22, 15:52:42](https://news.ycombinator.com/item?id=31469481) - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
 * [2022-05-22, 15:36:48](https://news.ycombinator.com/item?id=31469295) - [Faster CRC32 on the Apple M1](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
 * [2022-05-22, 15:23:25](https://news.ycombinator.com/item?id=31469142) - [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
-* [2022-05-22, 15:13:46](https://news.ycombinator.com/item?id=31469024) - [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
 * [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
 * [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
 * [2022-05-22, 13:34:53](https://news.ycombinator.com/item?id=31468017) - [SolveSpace – parametric 2d/3D CAD](https://solvespace.com/index.pl)
