@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
 * [2022-05-22, 14:19:36](https://news.ycombinator.com/item?id=31468437) - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
+* [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
+* [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When Can Liquid Democracy Unveil the Truth? (2021)](https://arxiv.org/abs/2104.01828)
+* [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
 * [2022-05-22, 14:03:42](https://news.ycombinator.com/item?id=31468284) - [AI-art isn't art: DALL-E and other AI artists offer only the imitation of art](https://erikhoel.substack.com/p/ai-art-isnt-art)
 * [2022-05-22, 13:51:52](https://news.ycombinator.com/item?id=31468196) - [Invade Haiti, Wall Street Urged. The U.S. Obliged](https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html)
 * [2022-05-22, 13:51:10](https://news.ycombinator.com/item?id=31468189) - [Ask HN: Are there any good Diff tools for Jupyter Notebooks?](https://news.ycombinator.com/item?id=31468189)
