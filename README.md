@@ -19,6 +19,7 @@
 * [2022-05-21, 19:39:17](https://news.ycombinator.com/item?id=31461070) - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES)
 * [2022-05-21, 18:44:29](https://news.ycombinator.com/item?id=31460626) - [Kinopio](https://kinopio.club/)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
+* [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-21, 02:57:02](https://news.ycombinator.com/item?id=31454886) - [Locality of Behavior](https://htmx.org/essays/locality-of-behaviour/)
 * [2022-05-20, 21:32:16](https://news.ycombinator.com/item?id=31452766) - [Listening to songs can cause a physiological response known as “frisson”](https://bigthink.com/neuropsych/frisson-song-playlist/)
@@ -28,7 +29,6 @@
 * [2022-05-20, 15:31:38](https://news.ycombinator.com/item?id=31448828) - [Netflix’s bad habits have caught up with it](https://www.vulture.com/2022/04/netflix-bad-decisions-have-caught-up-with-it.html)
 * [2022-05-20, 15:27:09](https://news.ycombinator.com/item?id=31448764) - [Low-cost, battery-like device absorbs CO2 emissions while it charges](https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html)
 * [2022-05-20, 14:59:53](https://news.ycombinator.com/item?id=31448386) - [We are all confident idiots (2014)](https://psmag.com/social-justice/confident-idiots-92793)
-* [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 * [2022-05-20, 13:35:45](https://news.ycombinator.com/item?id=31447159) - [Sam Bankman-Fried Described Yield Farming and Left Matt Levine Stunned](https://www.bloomberg.com/news/articles/2022-04-25/sam-bankman-fried-described-yield-farming-and-left-matt-levine-stunned)
 
 ## [Archives](archives/index.md)
