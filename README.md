@@ -2,7 +2,6 @@
 
 * [2022-05-22, 07:00:04](https://news.ycombinator.com/item?id=31465611) - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 * [2022-05-22, 06:02:03](https://news.ycombinator.com/item?id=31465292) - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
-* [2022-05-22, 05:43:05](https://news.ycombinator.com/item?id=31465195) - [FLibrary, a college notes publishing community](https://flibrary.info)
 * [2022-05-22, 04:57:54](https://news.ycombinator.com/item?id=31464999) - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
 * [2022-05-22, 03:12:08](https://news.ycombinator.com/item?id=31464554) - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
 * [2022-05-22, 00:00:29](https://news.ycombinator.com/item?id=31463454) - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
@@ -28,6 +27,7 @@
 * [2022-05-20, 15:27:09](https://news.ycombinator.com/item?id=31448764) - [Low-cost, battery-like device absorbs CO2 emissions while it charges](https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html)
 * [2022-05-20, 14:59:53](https://news.ycombinator.com/item?id=31448386) - [We are all confident idiots (2014)](https://psmag.com/social-justice/confident-idiots-92793)
 * [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
+* [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
 * [2022-05-20, 14:12:31](https://news.ycombinator.com/item?id=31447647) - [Lukol – A “Privacy” Search Engine](https://thenewleafjournal.com/leaf/lukol-search-engine-shows-up-in-logs/)
 * [2022-05-20, 13:44:24](https://news.ycombinator.com/item?id=31447266) - [Detecting 'Professional' Malicious Online Reviews with Machine Learning](https://www.unite.ai/detecting-professional-malicious-online-reviews-with-machine-learning/)
 
