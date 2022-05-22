@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [The mindless tyranny of “what if it changes?” as a software design principle](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
+* [2022-05-22, 21:11:37](https://news.ycombinator.com/item?id=31472836) - [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
@@ -23,9 +25,7 @@
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
 * [2022-05-21, 10:34:39](https://news.ycombinator.com/item?id=31456737) - [The Discoveries of Continuation [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf)
 * [2022-05-21, 03:08:04](https://news.ycombinator.com/item?id=31454929) - [OPNsense DEC740 Ryzen Embedded Fanless Firewall Review (2021)](https://wiki.junicast.de/en/junicast/review/opnsense_dec740)
-* [2022-05-21, 01:36:42](https://news.ycombinator.com/item?id=31454530) - [Tally-Ho – A Micropub Speaking Blog](https://github.com/hawx/tally-ho)
-* [2022-05-20, 23:44:22](https://news.ycombinator.com/item?id=31453952) - [People hated shopping carts when they first came out](https://www.cnn.com/2022/05/14/business/grocery-shopping-carts-history/index.html)
-* [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
+* [2022-05-20, 16:09:34](https://news.ycombinator.com/item?id=31449368) - [Why SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 * [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On efficiently partitioning a topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
 * [2022-05-20, 14:21:03](https://news.ycombinator.com/item?id=31447768) - [Bruce Sterling's Cheap Truth zine (1983)](https://fanac.org/fanzines/Cheap_Truth/)

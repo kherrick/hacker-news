@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [The mindless tyranny of “what if it changes?” as a software design principle](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
+* [2022-05-22, 21:11:37](https://news.ycombinator.com/item?id=31472836) - [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-22, 20:34:33](https://news.ycombinator.com/item?id=31472468) - [Programmed Inequality](https://programmedinequality.com/)
 * [2022-05-22, 20:26:10](https://news.ycombinator.com/item?id=31472378) - [Why You’ll Want to Use Skiff Mail Instead of Gmail](https://www.lifewire.com/why-youll-want-to-use-skiff-mail-instead-of-gmail-5322703)
