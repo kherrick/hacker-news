@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-22, 18:28:04](https://news.ycombinator.com/item?id=31471233) - [What Good Are Notebooks? Life During Wartime Censorship](http://www.thepolemicist.net/2022/05/what-good-are-notebooks-life-during.html)
+* [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
+* [2022-05-22, 18:17:17](https://news.ycombinator.com/item?id=31471127) - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
 * [2022-05-22, 17:57:24](https://news.ycombinator.com/item?id=31470928) - [Lofi.co – Relax and Focus](https://lofi.co/)
 * [2022-05-22, 17:17:11](https://news.ycombinator.com/item?id=31470482) - [Constraint-based geometry (CAD) sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
 * [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
@@ -12,7 +13,6 @@
 * [2022-05-22, 15:52:42](https://news.ycombinator.com/item?id=31469481) - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
 * [2022-05-22, 15:36:48](https://news.ycombinator.com/item?id=31469295) - [Faster CRC32 on the Apple M1](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
 * [2022-05-22, 15:23:25](https://news.ycombinator.com/item?id=31469142) - [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
-* [2022-05-22, 15:21:10](https://news.ycombinator.com/item?id=31469118) - [Google blocked patch to disable extraction to APK](https://twitter.com/MishaalRahman/status/1527702937723621376)
 * [2022-05-22, 15:13:46](https://news.ycombinator.com/item?id=31469024) - [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
 * [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
 * [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When can liquid democracy unveil the truth? (2021)](https://arxiv.org/abs/2104.01828)
