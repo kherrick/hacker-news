@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-20](index.md)
 
+* [2022-05-20, 23:44:22](https://news.ycombinator.com/item?id=31453952) - [People hated shopping carts when they first came out](https://www.cnn.com/2022/05/14/business/grocery-shopping-carts-history/index.html)
 * [2022-05-20, 23:18:30](https://news.ycombinator.com/item?id=31453768) - [What Ever Happened to Scandium Bike Frames? (2016)](https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html)
 * [2022-05-20, 22:57:47](https://news.ycombinator.com/item?id=31453589) - [How to Paint a Crosswalk](https://crosswalksla.org/how-to-guide.html)
 * [2022-05-20, 22:56:17](https://news.ycombinator.com/item?id=31453578) - [Upwork Freelancer Earned $1.6M Creating Pitch Decks](https://www.businessinsider.com/upwork-freelancer-earned-million-pitch-decks-startups-2022-5)

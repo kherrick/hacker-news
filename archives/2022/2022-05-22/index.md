@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 12:30:58](https://news.ycombinator.com/item?id=31467416) - [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
+* [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
 * [2022-05-22, 12:00:26](https://news.ycombinator.com/item?id=31467182) - [Flightcontrol (YC W22) Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
+* [2022-05-22, 11:42:25](https://news.ycombinator.com/item?id=31467070) - [We almost built 8 gigawatt-class floating nuclear power plants](https://whatisnuclear.com/blog/2020-01-26-offshore-power-systems.html)
 * [2022-05-22, 11:38:36](https://news.ycombinator.com/item?id=31467045) - [Image Does Not Exist](https://thisimagedoesnotexist.com/)
 * [2022-05-22, 11:06:47](https://news.ycombinator.com/item?id=31466885) - [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
 * [2022-05-22, 09:56:54](https://news.ycombinator.com/item?id=31466515) - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
