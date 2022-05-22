@@ -6,6 +6,7 @@
 
 * [2022-05-22, 07:00:04](https://news.ycombinator.com/item?id=31465611) - [Stacker (YC S20) Hiring Product Engineers and Head of Engineering](https://www.stackerhq.com/careers#job-listing)
 * [2022-05-22, 06:02:03](https://news.ycombinator.com/item?id=31465292) - [First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/)
+* [2022-05-22, 05:43:05](https://news.ycombinator.com/item?id=31465195) - [FLibrary, a college notes publishing community](https://flibrary.info)
 * [2022-05-22, 04:57:54](https://news.ycombinator.com/item?id=31464999) - [Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse](https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/)
 * [2022-05-22, 04:49:46](https://news.ycombinator.com/item?id=31464970) - [The Small Steps of Giant Leaps](https://fs.blog/small-steps-giant-leaps/)
 * [2022-05-22, 03:12:08](https://news.ycombinator.com/item?id=31464554) - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
