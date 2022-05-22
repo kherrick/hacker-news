@@ -21,7 +21,6 @@
 * [2022-05-21, 16:03:25](https://news.ycombinator.com/item?id=31459044) - [Teach your kids bridge, not poker](https://specbranch.com/posts/teach-bridge/)
 * [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
-* [2022-05-21, 13:17:41](https://news.ycombinator.com/item?id=31457612) - [Vintage computer ads](https://rarehistoricalphotos.com/vintage-computer-ads/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-20, 21:32:16](https://news.ycombinator.com/item?id=31452766) - [Listening to some songs can cause a physiological response known as “frisson”](https://bigthink.com/neuropsych/frisson-song-playlist/)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture (2016)](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
@@ -30,6 +29,7 @@
 * [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 * [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
 * [2022-05-20, 14:12:31](https://news.ycombinator.com/item?id=31447647) - [Lukol – A “Privacy” Search Engine](https://thenewleafjournal.com/leaf/lukol-search-engine-shows-up-in-logs/)
+* [2022-05-20, 13:28:57](https://news.ycombinator.com/item?id=31447080) - [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/)
 
 ## [Archives](archives/index.md)
 
