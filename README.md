@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-22, 20:26:10](https://news.ycombinator.com/item?id=31472378) - [Why You’ll Want to Use Skiff Mail Instead of Gmail](https://www.lifewire.com/why-youll-want-to-use-skiff-mail-instead-of-gmail-5322703)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
 * [2022-05-22, 19:26:21](https://news.ycombinator.com/item?id=31471786) - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
@@ -29,6 +28,7 @@
 * [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
 * [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On efficiently partitioning a topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
+* [2022-05-20, 14:21:03](https://news.ycombinator.com/item?id=31447768) - [Bruce Sterling's Cheap Truth zine (1983)](https://fanac.org/fanzines/Cheap_Truth/)
 * [2022-05-19, 16:33:56](https://news.ycombinator.com/item?id=31436814) - [Felienne Hermans: How patterns in variable names can make code easier to read](https://www.youtube.com/watch?v=z7w2lKG8zWM)
 
 ## [Archives](archives/index.md)

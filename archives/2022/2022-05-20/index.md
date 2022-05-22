@@ -64,6 +64,7 @@
 * [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
 * [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 * [2022-05-20, 14:26:33](https://news.ycombinator.com/item?id=31447853) - [The Specificity Gradient](https://doriantaylor.com/the-specificity-gradient)
+* [2022-05-20, 14:21:03](https://news.ycombinator.com/item?id=31447768) - [Bruce Sterling's Cheap Truth zine (1983)](https://fanac.org/fanzines/Cheap_Truth/)
 * [2022-05-20, 14:12:31](https://news.ycombinator.com/item?id=31447647) - [Lukol – A “Privacy” Search Engine](https://thenewleafjournal.com/leaf/lukol-search-engine-shows-up-in-logs/)
 * [2022-05-20, 14:10:42](https://news.ycombinator.com/item?id=31447625) - [Ask HN: Where does your mind wander to?](https://news.ycombinator.com/item?id=31447625)
 * [2022-05-20, 13:58:49](https://news.ycombinator.com/item?id=31447465) - [ACM Digital Library Archive is Open Access with 50 Years of Published Records](https://dl.acm.org/)
