@@ -19,8 +19,7 @@
 * [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
 * [2022-05-21, 16:09:41](https://news.ycombinator.com/item?id=31459103) - [What Happened to Tagging? (2019)](https://daily.jstor.org/what-happened-to-tagging/)
-* [2022-05-21, 16:03:25](https://news.ycombinator.com/item?id=31459044) - [Teach your kids bridge, not poker](https://specbranch.com/posts/teach-bridge/)
-* [2022-05-21, 15:53:58](https://news.ycombinator.com/item?id=31458955) - [Engineering students create edible adhesive tape to keep burrito wrapped tightly](https://boingboing.net/2022/05/16/engineering-students-create-edible-adhesive-tape-to-keep-your-burrito-wrapped-tightly.html)
+* [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 02:57:02](https://news.ycombinator.com/item?id=31454886) - [Locality of Behavior](https://htmx.org/essays/locality-of-behaviour/)
 * [2022-05-20, 21:32:16](https://news.ycombinator.com/item?id=31452766) - [Listening to songs can cause a physiological response known as “frisson”](https://bigthink.com/neuropsych/frisson-song-playlist/)
 * [2022-05-20, 18:05:00](https://news.ycombinator.com/item?id=31450690) - [Understanding Stresses and Strains (1968)](https://archive.org/details/understandingstressesandstrains)
@@ -29,6 +28,7 @@
 * [2022-05-20, 15:27:09](https://news.ycombinator.com/item?id=31448764) - [Low-cost, battery-like device absorbs CO2 emissions while it charges](https://techxplore.com/news/2022-05-low-cost-battery-like-device-absorbs-co2.html)
 * [2022-05-20, 14:59:53](https://news.ycombinator.com/item?id=31448386) - [We are all confident idiots (2014)](https://psmag.com/social-justice/confident-idiots-92793)
 * [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
+* [2022-05-20, 14:50:57](https://news.ycombinator.com/item?id=31448252) - [Evaluating FreeBSD Current for Production Use](https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/)
 * [2022-05-20, 14:12:31](https://news.ycombinator.com/item?id=31447647) - [Lukol – A “Privacy” Search Engine](https://thenewleafjournal.com/leaf/lukol-search-engine-shows-up-in-logs/)
 
 ## [Archives](archives/index.md)
