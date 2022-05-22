@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 20:34:33](https://news.ycombinator.com/item?id=31472468) - [Programmed Inequality](https://programmedinequality.com/)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
 * [2022-05-22, 19:26:21](https://news.ycombinator.com/item?id=31471786) - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)
@@ -25,7 +26,6 @@
 * [2022-05-21, 03:08:04](https://news.ycombinator.com/item?id=31454929) - [OPNsense DEC740 Ryzen Embedded Fanless Firewall Review (2021)](https://wiki.junicast.de/en/junicast/review/opnsense_dec740)
 * [2022-05-21, 01:36:42](https://news.ycombinator.com/item?id=31454530) - [Tally-Ho – A Micropub Speaking Blog](https://github.com/hawx/tally-ho)
 * [2022-05-20, 23:44:22](https://news.ycombinator.com/item?id=31453952) - [People hated shopping carts when they first came out](https://www.cnn.com/2022/05/14/business/grocery-shopping-carts-history/index.html)
-* [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
 * [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On efficiently partitioning a topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
 * [2022-05-20, 14:21:03](https://news.ycombinator.com/item?id=31447768) - [Bruce Sterling's Cheap Truth zine (1983)](https://fanac.org/fanzines/Cheap_Truth/)
