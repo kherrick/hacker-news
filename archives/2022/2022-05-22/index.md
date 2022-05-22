@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
+* [2022-05-22, 16:03:07](https://news.ycombinator.com/item?id=31469599) - [Generating websites with SPARQL and Snowman, part 1](https://www.bobdc.com/blog/snowmanartbasept1/)
 * [2022-05-22, 15:52:42](https://news.ycombinator.com/item?id=31469481) - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
+* [2022-05-22, 15:36:48](https://news.ycombinator.com/item?id=31469295) - [Faster CRC32 on the Apple M1](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
 * [2022-05-22, 15:23:25](https://news.ycombinator.com/item?id=31469142) - [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
+* [2022-05-22, 15:21:10](https://news.ycombinator.com/item?id=31469118) - [Google blocked patch to disable extraction to APK](https://twitter.com/MishaalRahman/status/1527702937723621376)
 * [2022-05-22, 15:13:46](https://news.ycombinator.com/item?id=31469024) - [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
 * [2022-05-22, 14:36:50](https://news.ycombinator.com/item?id=31468625) - [Unleash your productivity by making sure you do this in weekly reviews](https://productivegrowth.substack.com/p/unleash-your-productivity-by-performing)
 * [2022-05-22, 14:19:36](https://news.ycombinator.com/item?id=31468437) - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
