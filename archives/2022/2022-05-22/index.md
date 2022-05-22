@@ -6,6 +6,7 @@
 
 * [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 * [2022-05-22, 18:28:04](https://news.ycombinator.com/item?id=31471233) - [What Good Are Notebooks? Life During Wartime Censorship](http://www.thepolemicist.net/2022/05/what-good-are-notebooks-life-during.html)
+* [2022-05-22, 18:23:08](https://news.ycombinator.com/item?id=31471188) - [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
 * [2022-05-22, 18:17:17](https://news.ycombinator.com/item?id=31471127) - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
 * [2022-05-22, 17:57:24](https://news.ycombinator.com/item?id=31470928) - [Lofi.co – Relax and Focus](https://lofi.co/)
 * [2022-05-22, 17:17:11](https://news.ycombinator.com/item?id=31470482) - [Constraint-based geometry (CAD) sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)

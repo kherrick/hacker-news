@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [The Shady Link Between Sunscreen and Your Health](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
+* [2022-05-22, 18:23:08](https://news.ycombinator.com/item?id=31471188) - [California’s economy may seem healthy. Just wait for the next recession](https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable)
 * [2022-05-22, 18:17:17](https://news.ycombinator.com/item?id=31471127) - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing?](https://news.ycombinator.com/item?id=31471127)
 * [2022-05-22, 17:57:24](https://news.ycombinator.com/item?id=31470928) - [Lofi.co – Relax and Focus](https://lofi.co/)
 * [2022-05-22, 17:17:11](https://news.ycombinator.com/item?id=31470482) - [Constraint-based geometry (CAD) sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
@@ -15,7 +16,6 @@
 * [2022-05-22, 15:23:25](https://news.ycombinator.com/item?id=31469142) - [Bionic Reading – Convert Text into Better Way to Read Faster](https://github.com/crisanlucid/vite-react-tailwind-bionic-reading)
 * [2022-05-22, 15:13:46](https://news.ycombinator.com/item?id=31469024) - [Show HN: Monolith – A stylish and functional computer frame](https://coolte.ch/)
 * [2022-05-22, 14:12:50](https://news.ycombinator.com/item?id=31468371) - [Index funds officially overtake active managers](https://finance.yahoo.com/news/index-fund-assets-exceed-active-fund-assets-120639243.html)
-* [2022-05-22, 14:10:42](https://news.ycombinator.com/item?id=31468351) - [When can liquid democracy unveil the truth? (2021)](https://arxiv.org/abs/2104.01828)
 * [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
 * [2022-05-22, 13:34:53](https://news.ycombinator.com/item?id=31468017) - [SolveSpace – parametric 2d/3D CAD](https://solvespace.com/index.pl)
 * [2022-05-22, 13:29:16](https://news.ycombinator.com/item?id=31467969) - [Smaller is better – The rise, fall, and rise of flat file software](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
