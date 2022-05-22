@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31468351"
     ],
     [
-      "When Can Liquid Democracy Unveil the Truth? (2021)",
+      "When can liquid democracy unveil the truth? (2021)",
       "https://arxiv.org/abs/2104.01828"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31467969"
     ],
     [
-      "Smaller is better – The rise, fall, and rise of flat file softwar",
+      "Smaller is better – The rise, fall, and rise of flat file software",
       "https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=31464999"
     ],
     [
-      "Top Stablecoins Shed $7B in May as Traders Redeem Tokens En Masse",
+      "Top stablecoins shed $7B in May as traders redeem tokens en masse",
       "https://blockworks.co/top-stablecoins-shed-7b-in-may-as-traders-redeem-tokens-en-masse/"
     ]
   ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-05-20, 18:05:00",
-      "https://news.ycombinator.com/item?id=31450690"
-    ],
-    [
-      "Understanding Stresses and Strains (1968)",
-      "https://archive.org/details/understandingstressesandstrains"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 16:45:11",
       "https://news.ycombinator.com/item?id=31449834"
     ],
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31448988"
     ],
     [
-      "On Efficiently Partitioning a Topic in Apache Kafka",
+      "On efficiently partitioning a topic in Apache Kafka",
       "https://arxiv.org/abs/2205.09415"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The State of Application Modernization, 2022",
       "https://thenewstack.io/the-state-of-application-modernization-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 16:33:56",
+      "https://news.ycombinator.com/item?id=31436814"
+    ],
+    [
+      "Felienne Hermans: How patterns in variable names can make code easier to read",
+      "https://www.youtube.com/watch?v=z7w2lKG8zWM"
     ]
   ]
 ]
