@@ -62,6 +62,7 @@
 * [2022-05-21, 09:33:18](https://news.ycombinator.com/item?id=31456519) - [Considerations for Incremental Static Regeneration in Next.js](https://www.csrhymes.com/2022/05/18/considerations-for-incremental-static-regeneration.html)
 * [2022-05-21, 09:16:57](https://news.ycombinator.com/item?id=31456450) - [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
 * [2022-05-21, 08:39:58](https://news.ycombinator.com/item?id=31456284) - [How to Be Successful](https://blog.samaltman.com/how-to-be-successful)
+* [2022-05-21, 07:55:53](https://news.ycombinator.com/item?id=31456112) - [Walking Normally: The Facts (2013)](https://www.newyorker.com/magazine/2013/09/09/walking-normally-the-facts)
 * [2022-05-21, 07:32:06](https://news.ycombinator.com/item?id=31456007) - [Rustdesk: The open source TeamViewer alternative](https://rustdesk.com/)
 * [2022-05-21, 07:22:21](https://news.ycombinator.com/item?id=31455968) - [Porting Lotus 1-2-3 to Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2022-05-21, 07:01:07](https://news.ycombinator.com/item?id=31455864) - [Meticulous (YC S21) Is Hiring #2 Founding Engineer in London](https://news.ycombinator.com/item?id=31455864)

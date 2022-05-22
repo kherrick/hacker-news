@@ -24,7 +24,7 @@
 * [2022-05-22, 12:30:58](https://news.ycombinator.com/item?id=31467416) - [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
 * [2022-05-21, 10:34:39](https://news.ycombinator.com/item?id=31456737) - [The Discoveries of Continuation [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf)
-* [2022-05-21, 03:08:04](https://news.ycombinator.com/item?id=31454929) - [OPNsense DEC740 Ryzen Embedded Fanless Firewall Review (2021)](https://wiki.junicast.de/en/junicast/review/opnsense_dec740)
+* [2022-05-21, 07:55:53](https://news.ycombinator.com/item?id=31456112) - [Walking Normally: The Facts (2013)](https://www.newyorker.com/magazine/2013/09/09/walking-normally-the-facts)
 * [2022-05-20, 16:09:34](https://news.ycombinator.com/item?id=31449368) - [Why SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 * [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On efficiently partitioning a topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
