@@ -39,6 +39,7 @@
 * [2022-05-20, 15:10:32](https://news.ycombinator.com/item?id=31448530) - [Formula for a Shortage](https://thezvi.substack.com/p/formula-for-a-shortage-8ae)
 * [2022-05-20, 15:05:36](https://news.ycombinator.com/item?id=31448470) - [A Web Around the World, Part 10: A Web of Associations](https://www.filfre.net/2022/05/a-web-around-the-world-part-10-a-web-of-associations/)
 * [2022-05-20, 15:00:23](https://news.ycombinator.com/item?id=31448395) - [Design Principles Behind Smalltalk (2001)](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [2022-05-20, 14:59:53](https://news.ycombinator.com/item?id=31448386) - [We Are All Confident Idiots](https://psmag.com/social-justice/confident-idiots-92793)
 * [2022-05-20, 14:58:29](https://news.ycombinator.com/item?id=31448360) - [Memorizing Transformers – models that can acquire new knowledge immediately](https://arxiv.org/abs/2203.08913)
 * [2022-05-20, 14:58:02](https://news.ycombinator.com/item?id=31448353) - [Winning solutions of Kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 * [2022-05-20, 14:57:53](https://news.ycombinator.com/item?id=31448351) - [Ambitious Brain Recordings Create Unprecedented Portrait of Vision in Action](https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action)
