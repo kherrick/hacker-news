@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-22, 03:12:08](https://news.ycombinator.com/item?id=31464554) - [Louis Rossmann: “The Verge is so bad they have ME defending Apple ”](https://www.youtube.com/watch?v=9vhCaFW5xTk)
 * [2022-05-22, 01:00:39](https://news.ycombinator.com/item?id=31463854) - [Vance (YC W22) Is Hiring](https://www.ycombinator.com/companies/vance/jobs/blkD1Yp-android-developer)
 * [2022-05-22, 00:00:29](https://news.ycombinator.com/item?id=31463454) - [Trunk – Build, bundle and ship your rust WASM application to the web](https://github.com/thedodd/trunk)
 * [2022-05-21, 23:34:53](https://news.ycombinator.com/item?id=31463249) - [Tunneling Wikipedia through WhatsApp to (maybe?) get around WiFi restrictions](https://alexanderell.is/posts/wikipedia-over-whatsapp/)
 * [2022-05-21, 23:17:51](https://news.ycombinator.com/item?id=31463106) - [Why America has so few carpenters](https://thehustle.co/why-america-has-so-few-carpenters/)
-* [2022-05-21, 22:43:23](https://news.ycombinator.com/item?id=31462773) - [Ask HN: What's your greatest enjoyment in life?](https://news.ycombinator.com/item?id=31462773)
 * [2022-05-21, 22:24:26](https://news.ycombinator.com/item?id=31462563) - [QCAD – Open Source CAD System](https://www.qcad.org/en/)
 * [2022-05-21, 22:09:47](https://news.ycombinator.com/item?id=31462432) - [NERC sounds alarm on solar tripping in ‘sobering’ summer reliability report](https://www.utilitydive.com/news/nerc-summer-reliability-report-west-miso-ercot/624043/)
 * [2022-05-21, 21:48:12](https://news.ycombinator.com/item?id=31462229) - [Flags Are a Code Smell (2014)](https://www.sebastiansylvan.com/post/2014-04-27-flags-are-a-code-smell/)
