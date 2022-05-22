@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-05-22](index.md)
 
 * [2022-05-22, 17:00:54](https://news.ycombinator.com/item?id=31470304) - [Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
+* [2022-05-22, 16:55:24](https://news.ycombinator.com/item?id=31470251) - [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
+* [2022-05-22, 16:05:01](https://news.ycombinator.com/item?id=31469625) - [Guns, Privacy, and Crime](https://www.nber.org/papers/w29940)
 * [2022-05-22, 16:03:07](https://news.ycombinator.com/item?id=31469599) - [Generating websites with SPARQL and Snowman, part 1](https://www.bobdc.com/blog/snowmanartbasept1/)
 * [2022-05-22, 16:00:31](https://news.ycombinator.com/item?id=31469565) - [Hello world in every computer language](https://github.com/xbinner18P/leachim6S)
 * [2022-05-22, 15:52:42](https://news.ycombinator.com/item?id=31469481) - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)

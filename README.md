@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-22, 17:00:54](https://news.ycombinator.com/item?id=31470304) - [Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
+* [2022-05-22, 16:55:24](https://news.ycombinator.com/item?id=31470251) - [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
+* [2022-05-22, 16:05:01](https://news.ycombinator.com/item?id=31469625) - [Guns, Privacy, and Crime](https://www.nber.org/papers/w29940)
 * [2022-05-22, 16:03:07](https://news.ycombinator.com/item?id=31469599) - [Generating websites with SPARQL and Snowman, part 1](https://www.bobdc.com/blog/snowmanartbasept1/)
 * [2022-05-22, 16:00:31](https://news.ycombinator.com/item?id=31469565) - [Hello world in every computer language](https://github.com/xbinner18P/leachim6S)
 * [2022-05-22, 15:52:42](https://news.ycombinator.com/item?id=31469481) - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
@@ -19,8 +21,6 @@
 * [2022-05-22, 13:29:16](https://news.ycombinator.com/item?id=31467969) - [Smaller is better – The rise, fall, and rise of flat file software](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
 * [2022-05-22, 12:30:58](https://news.ycombinator.com/item?id=31467416) - [Pedal Me bans staff riders from wearing helmets for safety reasons](https://bikebiz.com/pedal-me-bans-staff-riders-from-wearing-helmets-for-safety-reasons/)
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
-* [2022-05-22, 11:47:43](https://news.ycombinator.com/item?id=31467104) - [Millions of electric cars are coming. What happens to all the dead batteries?](https://www.science.org/content/article/millions-electric-cars-are-coming-what-happens-all-dead-batteries)
-* [2022-05-22, 10:45:37](https://news.ycombinator.com/item?id=31466782) - [Book Review: Making Nature](https://astralcodexten.substack.com/p/your-book-review-making-nature)
 * [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 * [2022-05-22, 07:03:30](https://news.ycombinator.com/item?id=31465628) - [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
 * [2022-05-22, 06:16:56](https://news.ycombinator.com/item?id=31465368) - [Book review: The Little Typer (2021)](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/)
