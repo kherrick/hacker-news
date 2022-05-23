@@ -20,7 +20,6 @@
 * [2022-05-23, 14:38:48](https://news.ycombinator.com/item?id=31479605) - [Firefox's protection against fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
 * [2022-05-23, 14:36:24](https://news.ycombinator.com/item?id=31479578) - [DARPA wants to combine traditional sealift and airlift](https://spectrum.ieee.org/darpa-liberty-lifter)
 * [2022-05-23, 13:38:20](https://news.ycombinator.com/item?id=31478874) - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
-* [2022-05-23, 13:22:53](https://news.ycombinator.com/item?id=31478692) - [A whole age of warfare sank with the Moskva](https://www.theatlantic.com/ideas/archive/2022/05/ukraine-russia-moskva-military-marine-corps/629930/)
 * [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Sugar deposits found under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
@@ -30,6 +29,7 @@
 * [2022-05-21, 01:46:21](https://news.ycombinator.com/item?id=31454581) - [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2022-05-20, 15:35:41](https://news.ycombinator.com/item?id=31448889) - [Flix – Safe, Reliable, Concise, and Functional-First Programming Language](https://flix.dev/)
+* [2022-05-20, 15:34:53](https://news.ycombinator.com/item?id=31448878) - [LilyGO T-HC32 board with world’s smallest Arm MCU (HC32L110B6) available for $9](https://www.cnx-software.com/2022/05/20/lilygo-t-hc32-board-worlds-smallest-mcu-hc32l110b6/)
 
 ## [Archives](archives/index.md)
 
