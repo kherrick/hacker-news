@@ -50,6 +50,7 @@
 * [2022-05-22, 12:24:50](https://news.ycombinator.com/item?id=31467361) - [When we learn more about a stranger, we feel like they know us better too](https://digest.bps.org.uk/2022/03/09/when-we-learn-more-about-a-stranger-we-feel-like-they-know-us-better-too/)
 * [2022-05-22, 12:00:26](https://news.ycombinator.com/item?id=31467182) - [Flightcontrol (YC W22) Is hiring a back end TypeScript engineer [Own-cloud PaaS]](https://flightcontrol.notion.site/Backend-Typescript-Engineer-at-Small-DevTools-Startup-12e52471539a4ab9878514e04c415da6)
 * [2022-05-22, 11:47:43](https://news.ycombinator.com/item?id=31467104) - [Millions of electric cars are coming. What happens to all the dead batteries?](https://www.science.org/content/article/millions-electric-cars-are-coming-what-happens-all-dead-batteries)
+* [2022-05-22, 11:43:53](https://news.ycombinator.com/item?id=31467077) - [Go Nulls and SQL](https://ente.io/blog/tech/go-nulls-and-sql/)
 * [2022-05-22, 11:42:49](https://news.ycombinator.com/item?id=31467073) - [Ask HN: Good nanotech companies/startups to invest to?](https://news.ycombinator.com/item?id=31467073)
 * [2022-05-22, 11:42:25](https://news.ycombinator.com/item?id=31467070) - [We almost built 8 gigawatt-class floating nuclear power plants](https://whatisnuclear.com/blog/2020-01-26-offshore-power-systems.html)
 * [2022-05-22, 11:38:36](https://news.ycombinator.com/item?id=31467045) - [Image Does Not Exist](https://thisimagedoesnotexist.com/)

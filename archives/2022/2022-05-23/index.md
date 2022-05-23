@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 18:30:03](https://news.ycombinator.com/item?id=31483120) - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
 * [2022-05-23, 17:39:32](https://news.ycombinator.com/item?id=31482256) - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
 * [2022-05-23, 17:33:38](https://news.ycombinator.com/item?id=31482142) - [Now Monkeypox](https://www.science.org/content/blog-post/now-monkeypox)
 * [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
