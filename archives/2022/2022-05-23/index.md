@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 22:37:21](https://news.ycombinator.com/item?id=31485710) - [First Human Injected with Revolutionary Cancer-Killing Virus in Clinical Trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
 * [2022-05-23, 21:37:17](https://news.ycombinator.com/item?id=31485073) - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [New text-to-image network from Google beats DALL-E](https://gweb-research-imagen.appspot.com/)

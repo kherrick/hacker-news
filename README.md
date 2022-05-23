@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-23, 22:37:21](https://news.ycombinator.com/item?id=31485710) - [First Human Injected with Revolutionary Cancer-Killing Virus in Clinical Trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
 * [2022-05-23, 21:37:17](https://news.ycombinator.com/item?id=31485073) - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [New text-to-image network from Google beats DALL-E](https://gweb-research-imagen.appspot.com/)
@@ -22,7 +23,6 @@
 * [2022-05-23, 14:36:24](https://news.ycombinator.com/item?id=31479578) - [DARPA wants to combine traditional sealift and airlift](https://spectrum.ieee.org/darpa-liberty-lifter)
 * [2022-05-23, 13:31:24](https://news.ycombinator.com/item?id=31478795) - [The math prodigy whose hack upended DeFi won’t return funds](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community)
 * [2022-05-23, 13:22:53](https://news.ycombinator.com/item?id=31478692) - [A whole age of warfare sank with the Moskva](https://www.theatlantic.com/ideas/archive/2022/05/ukraine-russia-moskva-military-marine-corps/629930/)
-* [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Sugar deposits found under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 06:10:54](https://news.ycombinator.com/item?id=31475808) - [On Endianness](https://www.technicalsourcery.net/posts/on-endianness/)
