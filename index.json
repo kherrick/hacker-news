@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-23, 12:48:20",
+      "https://news.ycombinator.com/item?id=31478312"
+    ],
+    [
+      "Safety and Performance – Threadsafe Datastructures in C++",
+      "https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 11:57:43",
+      "https://news.ycombinator.com/item?id=31477880"
+    ],
+    [
+      "Ghost 5.0",
+      "https://ghost.org/changelog/5/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 11:39:32",
       "https://news.ycombinator.com/item?id=31477741"
     ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2022-05-23, 08:23:24",
-      "https://news.ycombinator.com/item?id=31476516"
-    ],
-    [
-      "Actions rooted in open source culture can make a big impact",
-      "https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 08:16:18",
       "https://news.ycombinator.com/item?id=31476479"
     ],
     [
       "Business Wargames: Early Complex Text Games",
       "https://if50.substack.com/p/business-wargames"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 08:10:41",
-      "https://news.ycombinator.com/item?id=31476447"
-    ],
-    [
-      "Archaeology Institute Fighting British Museum over 3D Scans of Parthenon Marbles",
-      "https://news.artnet.com/art-world/institute-of-digital-archaeology-2096277"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)",
       "https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 04:48:05",
+      "https://news.ycombinator.com/item?id=31475420"
+    ],
+    [
+      "A Chrome extension for bionic reading on any website",
+      "https://github.com/ansh/bionic-reading"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2022-05-22, 21:31:24",
-      "https://news.ycombinator.com/item?id=31472997"
+      "2022-05-22, 22:08:36",
+      "https://news.ycombinator.com/item?id=31473293"
     ],
     [
-      "“What if it changes?”",
-      "https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 20:59:21",
-      "https://news.ycombinator.com/item?id=31472716"
-    ],
-    [
-      "Details on AMD's Quirky Chipset Solutions for AM5",
-      "https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy"
+      "Apple Cash",
+      "https://www.apple.com/apple-cash/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-05-21, 01:46:21",
+      "https://news.ycombinator.com/item?id=31454581"
+    ],
+    [
+      "NGINX Proxy Manager",
+      "https://github.com/NginxProxyManager/nginx-proxy-manager"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 17:15:57",
       "https://news.ycombinator.com/item?id=31450218"
     ],
@@ -277,16 +287,6 @@
     [
       "How to Stay Informed Without Getting Paralyzed by Bad News",
       "https://www.wired.com/story/how-to-stay-informed-paralyzed-bad-news/"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 15:53:46",
-      "https://news.ycombinator.com/item?id=31449132"
-    ],
-    [
-      "But Await, There's More (2020)",
-      "https://breen.tech/post/but-await-theres-more/"
     ]
   ],
   [
