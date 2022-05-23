@@ -59,6 +59,7 @@
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 08:10:41](https://news.ycombinator.com/item?id=31476447) - [Archaeology Institute Fighting British Museum over 3D Scans of Parthenon Marbles](https://news.artnet.com/art-world/institute-of-digital-archaeology-2096277)
 * [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
+* [2022-05-23, 06:10:54](https://news.ycombinator.com/item?id=31475808) - [On Endianness](https://www.technicalsourcery.net/posts/on-endianness/)
 * [2022-05-23, 05:46:37](https://news.ycombinator.com/item?id=31475680) - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
 * [2022-05-23, 05:24:09](https://news.ycombinator.com/item?id=31475575) - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
 * [2022-05-23, 04:48:05](https://news.ycombinator.com/item?id=31475420) - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
