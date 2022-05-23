@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 13:38:20](https://news.ycombinator.com/item?id=31478874) - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
+* [2022-05-23, 13:26:28](https://news.ycombinator.com/item?id=31478728) - [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
+* [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
+* [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Mountains of sugar have been found in the ocean under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
 * [2022-05-23, 11:57:43](https://news.ycombinator.com/item?id=31477880) - [Ghost 5.0](https://ghost.org/changelog/5/)
 * [2022-05-23, 11:39:32](https://news.ycombinator.com/item?id=31477741) - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
 * [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
