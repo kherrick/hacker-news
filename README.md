@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
 * [2022-05-23, 05:46:37](https://news.ycombinator.com/item?id=31475680) - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
 * [2022-05-23, 05:24:09](https://news.ycombinator.com/item?id=31475575) - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
 * [2022-05-23, 04:48:05](https://news.ycombinator.com/item?id=31475420) - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
-* [2022-05-23, 04:42:24](https://news.ycombinator.com/item?id=31475401) - [Goodbye smallpox vaccination, hello monkeypox (2010)](https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox)
 * [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
 * [2022-05-23, 02:27:06](https://news.ycombinator.com/item?id=31474810) - [STUNner: A Kubernetes ingress gateway for WebRTC](https://github.com/l7mp/stunner)
 * [2022-05-23, 02:09:40](https://news.ycombinator.com/item?id=31474710) - [Useless Use of \"dd\" (2015)](https://www.vidarholen.net/contents/blog/?p=479)
@@ -13,6 +13,7 @@
 * [2022-05-22, 23:29:23](https://news.ycombinator.com/item?id=31473846) - [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
 * [2022-05-22, 22:57:14](https://news.ycombinator.com/item?id=31473632) - [MasterCard to launch biometric checkout tool for retailers](https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/)
 * [2022-05-22, 22:18:23](https://news.ycombinator.com/item?id=31473369) - [Case Studies in USB-C Debugging (2020)](https://medium.com/@kolluru.nathan/case-studies-in-usb-c-debugging-93cc3e8bbc0c)
+* [2022-05-22, 22:08:36](https://news.ycombinator.com/item?id=31473293) - [Apple Cash](https://www.apple.com/apple-cash/)
 * [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
@@ -27,7 +28,6 @@
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf] (2019)](https://www.nickbostrom.com/papers/vulnerable.pdf)
 * [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
-* [2022-05-20, 16:09:34](https://news.ycombinator.com/item?id=31449368) - [SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
 * [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
 
