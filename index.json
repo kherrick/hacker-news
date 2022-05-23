@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-23, 16:06:42",
+      "https://news.ycombinator.com/item?id=31480805"
+    ],
+    [
+      "Klarna company announcement from CEO regarding layoffs",
+      "https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 15:36:04",
       "https://news.ycombinator.com/item?id=31480393"
     ],
@@ -75,8 +85,18 @@
       "https://news.ycombinator.com/item?id=31479578"
     ],
     [
-      "DARPA Wants a Better, Badder Caspian Sea Monster",
+      "DARPA wants to combine traditional sealift and airlift",
       "https://spectrum.ieee.org/darpa-liberty-lifter"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 13:46:45",
+      "https://news.ycombinator.com/item?id=31478980"
+    ],
+    [
+      "Parking under overpass in severe weather is 'spectacularly dangerous'",
+      "https://www.theweathernetwork.com/ca/news/article/parking-under-overpass-amid-severe-weather-is-spectacularly-dangerous-ontario-quebec"
     ]
   ],
   [
@@ -145,28 +165,8 @@
       "https://news.ycombinator.com/item?id=31478297"
     ],
     [
-      "Mountains of sugar have been found in the ocean under seagrass meadows",
+      "Sugar deposits found under seagrass meadows",
       "https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 11:57:43",
-      "https://news.ycombinator.com/item?id=31477880"
-    ],
-    [
-      "Ghost 5.0",
-      "https://ghost.org/changelog/5/"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 11:39:32",
-      "https://news.ycombinator.com/item?id=31477741"
-    ],
-    [
-      "Founders Resign at Mycroft.ai",
-      "https://mycroft.ai/blog/founders-resignation/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-05-21, 11:05:17",
-      "https://news.ycombinator.com/item?id=31456867"
-    ],
-    [
-      "Before Ships Used GPS, There Was the Fresnel Lens",
-      "https://spectrum.ieee.org/fresnel-lens-milestone"
-    ]
-  ],
-  [
-    [
       "2022-05-21, 10:09:20",
       "https://news.ycombinator.com/item?id=31456646"
     ],
     [
       "AMD Xilinx Kria KR260 Robotics Kit Launched",
       "https://www.servethehome.com/amd-xilinx-kria-kr260-robotics-kit-launched/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 01:47:29",
+      "https://news.ycombinator.com/item?id=31454589"
+    ],
+    [
+      "Hacking the bureaucracy to get stuff done (2020)",
+      "https://www.zainrizvi.io/blog/hacking-the-bureaucracy-to-get-stuff-done/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31436832"
     ],
     [
-      "Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022",
+      "Guidance for Choosing an Elliptic Curve Signature Algorithm",
       "https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/"
     ]
   ]
