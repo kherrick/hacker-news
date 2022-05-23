@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 05:46:37](https://news.ycombinator.com/item?id=31475680) - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
+* [2022-05-23, 05:24:09](https://news.ycombinator.com/item?id=31475575) - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
+* [2022-05-23, 04:48:05](https://news.ycombinator.com/item?id=31475420) - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
 * [2022-05-23, 04:42:24](https://news.ycombinator.com/item?id=31475401) - [Goodbye smallpox vaccination, hello monkeypox (2010)](https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox)
 * [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
 * [2022-05-23, 03:13:06](https://news.ycombinator.com/item?id=31475001) - [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
