@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31474062"
     ],
     [
-      "Feather Wiki – A lightweight quine for simple wikis",
+      "Feather Wiki: app for creating personal non-linear notebooks, databases, wikis",
       "https://feather.wiki/"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-05-22, 15:52:42",
-      "https://news.ycombinator.com/item?id=31469481"
-    ],
-    [
-      "Show HN: Remult – a CRUD framework for full-stack TypeScript",
-      "https://github.com/remult/remult"
-    ]
-  ],
-  [
-    [
       "2022-05-22, 15:36:48",
       "https://news.ycombinator.com/item?id=31469295"
     ],
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2022-05-20, 16:09:34",
+      "https://news.ycombinator.com/item?id=31449368"
+    ],
+    [
+      "SQLite may become foundational for digital progress",
+      "https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 15:47:16",
       "https://news.ycombinator.com/item?id=31449044"
     ],
     [
-      "Add motion to your web apps with a single line of code",
+      "AutoAnimate  – Add motion to web apps with a single line of code",
       "https://github.com/formkit/auto-animate"
     ]
   ],
