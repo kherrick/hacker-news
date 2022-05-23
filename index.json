@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-23, 22:51:13",
+      "https://news.ycombinator.com/item?id=31485845"
+    ],
+    [
+      "The Political Economy of Submarine Cables",
+      "https://www.researchgate.net/publication/360485815_THE_POLITICAL_ECONOMY_OF_SUBMARINE_CABLES_THE_QUANTUM_CABLE_PROJECT_IN_THE_MEDITERRANEAN_SEA"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 22:37:21",
       "https://news.ycombinator.com/item?id=31485710"
     ],
     [
-      "First Human Injected with Revolutionary Cancer-Killing Virus in Clinical Trial",
+      "First human injected with cancer-killing virus in clinical trial",
       "https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 22:37:03",
+      "https://news.ycombinator.com/item?id=31485706"
+    ],
+    [
+      "Quality assurance workers at Activision Blizzard subsidiary unionize",
+      "https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 21:48:58",
+      "https://news.ycombinator.com/item?id=31485200"
+    ],
+    [
+      "How One Woman Grows Food in Hard Clay",
+      "https://www.unprepared.life/p/how-one-woman-grows-food-in-hard"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31484562"
     ],
     [
-      "New text-to-image network from Google beats DALL-E",
+      "Imagen, a text-to-image diffusion model",
       "https://gweb-research-imagen.appspot.com/"
     ]
   ],
@@ -55,18 +85,8 @@
       "https://news.ycombinator.com/item?id=31483548"
     ],
     [
-      "Show HN: How to make automatic supercuts on the command line with Videogrep",
+      "Automatic supercuts on the command line with Videogrep",
       "https://lav.io/notes/videogrep-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 19:00:27",
-      "https://news.ycombinator.com/item?id=31483511"
-    ],
-    [
-      "Interact – Online Introspection for Rust",
-      "https://github.com/interact-rs/interact"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31483120"
     ],
     [
-      "Things I’d Want to See Improved in WordPress Core",
+      "Things I’d want to see improved in WordPress core",
       "https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31482256"
     ],
     [
-      "Operator Constraints in Go",
+      "Operator constraints in Go",
       "https://blog.merovius.de/posts/2022-05-23-operator-constraints/"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31481888"
     ],
     [
-      "When Everything Is Important but Nothing Is Getting Done",
+      "When everything is important but nothing is getting done",
       "https://sharedphysics.com/everything-is-important/"
     ]
   ],
@@ -141,21 +161,11 @@
   ],
   [
     [
-      "2022-05-23, 16:46:12",
-      "https://news.ycombinator.com/item?id=31481410"
-    ],
-    [
-      "Extend your runway, cheap money is over",
-      "https://canvasapp.com/blog/extend-your-runway-cheap-cash-is-over/"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 16:31:07",
       "https://news.ycombinator.com/item?id=31481175"
     ],
     [
-      "PlanetScale: Principles for the Future Database",
+      "The Future Database",
       "https://principles.planetscale.com/"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=31480306"
     ],
     [
-      "Proper Use of Git Tags",
+      "Proper use of Git tags",
       "https://blog.aloni.org/posts/proper-use-of-git-tags/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-05-23, 14:36:24",
-      "https://news.ycombinator.com/item?id=31479578"
-    ],
-    [
-      "DARPA wants to combine traditional sealift and airlift",
-      "https://spectrum.ieee.org/darpa-liberty-lifter"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 13:31:24",
       "https://news.ycombinator.com/item?id=31478795"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-05-23, 13:22:53",
-      "https://news.ycombinator.com/item?id=31478692"
+      "2022-05-23, 13:12:02",
+      "https://news.ycombinator.com/item?id=31478562"
     ],
     [
-      "A whole age of warfare sank with the Moskva",
-      "https://www.theatlantic.com/ideas/archive/2022/05/ukraine-russia-moskva-military-marine-corps/629930/"
+      "How Uber Uses Zig",
+      "https://jakstys.lt/2022/how-uber-uses-zig/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-05-23, 08:24:25",
-      "https://news.ycombinator.com/item?id=31476521"
-    ],
-    [
-      "Useful Python Decorators for Data Scientists",
-      "https://bytepawn.com/python-decorators-for-data-scientists.html"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 06:10:54",
       "https://news.ycombinator.com/item?id=31475808"
     ],
     [
-      "On Endianness",
+      "On Endianness (2021)",
       "https://www.technicalsourcery.net/posts/on-endianness/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 12:14:35",
+      "https://news.ycombinator.com/item?id=31457188"
+    ],
+    [
+      "The unreasonable effectiveness of f-strings and re.verbose",
+      "https://death.andgravity.com/f-re"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31448846"
     ],
     [
-      "Amazon Redshift Re-Invented",
+      "Amazon Redshift re-invented",
       "https://www.amazon.science/publications/amazon-redshift-re-invented"
     ]
   ],
