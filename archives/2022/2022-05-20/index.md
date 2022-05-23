@@ -35,6 +35,7 @@
 * [2022-05-20, 17:00:04](https://news.ycombinator.com/item?id=31450034) - [Linux for PC from 2007 (2021)](https://notes.valdikss.org.ru/linux-for-old-pc-from-2007/en/#Linux%20for%20PC%20from%202007)
 * [2022-05-20, 17:00:00](https://news.ycombinator.com/item?id=31450032) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-05-20, 16:46:34](https://news.ycombinator.com/item?id=31449854) - [Securing AWS Lambda Function URLs](https://www.wiz.io/blog/securing-aws-lambda-function-urls/)
+* [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
 * [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 16:09:34](https://news.ycombinator.com/item?id=31449368) - [Why SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
