@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
+* [2022-05-23, 18:56:02](https://news.ycombinator.com/item?id=31483462) - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
 * [2022-05-23, 18:30:03](https://news.ycombinator.com/item?id=31483120) - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
 * [2022-05-23, 17:39:32](https://news.ycombinator.com/item?id=31482256) - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
 * [2022-05-23, 17:33:38](https://news.ycombinator.com/item?id=31482142) - [Now Monkeypox](https://www.science.org/content/blog-post/now-monkeypox)
@@ -31,6 +33,7 @@
 * [2022-05-23, 14:36:24](https://news.ycombinator.com/item?id=31479578) - [DARPA Wants a Better, Badder Caspian Sea Monster](https://spectrum.ieee.org/darpa-liberty-lifter)
 * [2022-05-23, 13:46:45](https://news.ycombinator.com/item?id=31478980) - [Parking under overpass in severe weather is 'spectacularly dangerous'](https://www.theweathernetwork.com/ca/news/article/parking-under-overpass-amid-severe-weather-is-spectacularly-dangerous-ontario-quebec)
 * [2022-05-23, 13:38:20](https://news.ycombinator.com/item?id=31478874) - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
+* [2022-05-23, 13:31:24](https://news.ycombinator.com/item?id=31478795) - [The math prodigy whose hack upended DeFi won’t return funds](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community)
 * [2022-05-23, 13:31:24](https://news.ycombinator.com/item?id=31478795) - [The Math Prodigy Whose Hack Upended a Crypto Platform Won't Return Funds](https://www.ndtv.com/business/the-math-prodigy-whose-hack-upended-a-crypto-platform-wont-return-funds-2992987)
 * [2022-05-23, 13:26:28](https://news.ycombinator.com/item?id=31478728) - [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
 * [2022-05-23, 13:22:53](https://news.ycombinator.com/item?id=31478692) - [A Whole Age of Warfare Sank with the Moskva](https://www.theatlantic.com/ideas/archive/2022/05/ukraine-russia-moskva-military-marine-corps/629930/)
