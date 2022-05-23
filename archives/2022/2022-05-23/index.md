@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
+* [2022-05-23, 11:57:43](https://news.ycombinator.com/item?id=31477880) - [Ghost 5.0](https://ghost.org/changelog/5/)
 * [2022-05-23, 11:39:32](https://news.ycombinator.com/item?id=31477741) - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
 * [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
 * [2022-05-23, 10:46:56](https://news.ycombinator.com/item?id=31477355) - [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
