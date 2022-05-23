@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31478562"
     ],
     [
-      "Uber Uses Zig",
+      "How Uber Uses Zig",
       "https://jakstys.lt/2022/how-uber-uses-zig/"
     ]
   ],
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-05-23, 08:10:41",
-      "https://news.ycombinator.com/item?id=31476447"
-    ],
-    [
-      "Archaeology Institute Fighting British Museum over 3D Scans of Parthenon Marbles",
-      "https://news.artnet.com/art-world/institute-of-digital-archaeology-2096277"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 05:46:37",
       "https://news.ycombinator.com/item?id=31475680"
     ],
@@ -167,16 +157,6 @@
     [
       "What’s in Which Python",
       "https://nedbatchelder.com/text/which-py.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 02:27:06",
-      "https://news.ycombinator.com/item?id=31474810"
-    ],
-    [
-      "STUNner: A Kubernetes ingress gateway for WebRTC",
-      "https://github.com/l7mp/stunner"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2022-05-21, 04:52:37",
+      "https://news.ycombinator.com/item?id=31455322"
+    ],
+    [
+      "The Vulnerable World Hypothesis [pdf] (2019)",
+      "https://www.nickbostrom.com/papers/vulnerable.pdf"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 01:46:21",
       "https://news.ycombinator.com/item?id=31454581"
     ],
@@ -297,6 +287,16 @@
     [
       "But Await, There's More (2020)",
       "https://breen.tech/post/but-await-theres-more/"
+    ]
+  ],
+  [
+    [
+      "2022-05-19, 16:35:00",
+      "https://news.ycombinator.com/item?id=31436832"
+    ],
+    [
+      "Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022",
+      "https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/"
     ]
   ]
 ]
