@@ -39,6 +39,7 @@
 * [2022-05-20, 16:46:34](https://news.ycombinator.com/item?id=31449854) - [Securing AWS Lambda Function URLs](https://www.wiz.io/blog/securing-aws-lambda-function-urls/)
 * [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
 * [2022-05-20, 16:45:11](https://news.ycombinator.com/item?id=31449834) - [Adaptive Cards](https://adaptivecards.io/)
+* [2022-05-20, 16:26:04](https://news.ycombinator.com/item?id=31449573) - [How to Stay Informed Without Getting Paralyzed by Bad News](https://www.wired.com/story/how-to-stay-informed-paralyzed-bad-news/)
 * [2022-05-20, 16:14:43](https://news.ycombinator.com/item?id=31449442) - [That Time I Saved the VR Club](https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club)
 * [2022-05-20, 16:09:34](https://news.ycombinator.com/item?id=31449368) - [Why SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 * [2022-05-20, 16:00:26](https://news.ycombinator.com/item?id=31449237) - [Impacket – collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
