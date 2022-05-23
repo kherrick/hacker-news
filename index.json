@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-23, 05:46:37",
+      "https://news.ycombinator.com/item?id=31475680"
+    ],
+    [
+      "My experience as a Unit-18 Berkeley Lecturer",
+      "http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 05:24:09",
+      "https://news.ycombinator.com/item?id=31475575"
+    ],
+    [
+      "The Apple M1, ARM/x86 Linux Virtualization, and Boinc",
+      "https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 04:48:05",
+      "https://news.ycombinator.com/item?id=31475420"
+    ],
+    [
+      "A Chrome extension for bionic reading on any website",
+      "https://github.com/ansh/bionic-reading"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 04:42:24",
       "https://news.ycombinator.com/item?id=31475401"
     ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31473369"
     ],
     [
-      "Case Studies in USB-C Debugging – Analog and digital compliance of a PD-enable",
+      "Case Studies in USB-C Debugging (2020)",
       "https://medium.com/@kolluru.nathan/case-studies-in-usb-c-debugging-93cc3e8bbc0c"
     ]
   ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-05-22, 17:00:54",
-      "https://news.ycombinator.com/item?id=31470304"
-    ],
-    [
-      "Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)",
-      "https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer"
-    ]
-  ],
-  [
-    [
       "2022-05-22, 15:52:42",
       "https://news.ycombinator.com/item?id=31469481"
     ],
@@ -245,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31455322"
     ],
     [
-      "The Vulnerable World Hypothesis [pdf]",
+      "The Vulnerable World Hypothesis [pdf] (2019)",
       "https://www.nickbostrom.com/papers/vulnerable.pdf"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-05-20, 16:09:34",
-      "https://news.ycombinator.com/item?id=31449368"
-    ],
-    [
-      "SQLite may become foundational for digital progress",
-      "https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 15:47:16",
       "https://news.ycombinator.com/item?id=31449044"
     ],
     [
       "Add motion to your web apps with a single line of code",
       "https://github.com/formkit/auto-animate"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 15:28:59",
-      "https://news.ycombinator.com/item?id=31448792"
-    ],
-    [
-      "Intel plans immersion lab to chill its power-hungry chips",
-      "https://www.theregister.com/2022/05/19/intel_immersion_lab/"
     ]
   ]
 ]
