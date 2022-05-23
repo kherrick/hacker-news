@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 14:39:39](https://news.ycombinator.com/item?id=31479615) - [I'm quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
 * [2022-05-23, 13:38:20](https://news.ycombinator.com/item?id=31478874) - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
 * [2022-05-23, 13:31:24](https://news.ycombinator.com/item?id=31478795) - [The Math Prodigy Whose Hack Upended a Crypto Platform Won't Return Funds](https://www.ndtv.com/business/the-math-prodigy-whose-hack-upended-a-crypto-platform-wont-return-funds-2992987)
 * [2022-05-23, 13:26:28](https://news.ycombinator.com/item?id=31478728) - [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
