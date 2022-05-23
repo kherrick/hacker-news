@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-23, 08:24:25",
+      "https://news.ycombinator.com/item?id=31476521"
+    ],
+    [
+      "Useful Python Decorators for Data Scientists",
+      "https://bytepawn.com/python-decorators-for-data-scientists.html"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 08:23:24",
       "https://news.ycombinator.com/item?id=31476516"
     ],
     [
       "You can preserve the Earth's livability with open source",
       "https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 08:16:18",
+      "https://news.ycombinator.com/item?id=31476479"
+    ],
+    [
+      "Business Wargames: Early Complex Text Games",
+      "https://if50.substack.com/p/business-wargames"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2022-05-22, 14:05:32",
-      "https://news.ycombinator.com/item?id=31468303"
+      "2022-05-21, 14:34:41",
+      "https://news.ycombinator.com/item?id=31458263"
     ],
     [
-      "How This Ends",
-      "https://avc.com/2022/05/how-this-ends-2/"
+      "Trüth, Beaüty, and Volapük (2012)",
+      "https://publicdomainreview.org/essay/truth-beauty-and-volapuk/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-05-20, 16:45:24",
-      "https://news.ycombinator.com/item?id=31449837"
-    ],
-    [
-      "Are Prompt-Based Models Clueless?",
-      "https://arxiv.org/abs/2205.09295"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 15:47:16",
       "https://news.ycombinator.com/item?id=31449044"
     ],
     [
       "AutoAnimate  – Add motion to web apps with a single line of code",
       "https://github.com/formkit/auto-animate"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 15:28:59",
-      "https://news.ycombinator.com/item?id=31448792"
-    ],
-    [
-      "Intel plans immersion lab to chill its power-hungry chips",
-      "https://www.theregister.com/2022/05/19/intel_immersion_lab/"
     ]
   ]
 ]
