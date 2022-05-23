@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 16:06:42](https://news.ycombinator.com/item?id=31480805) - [Klarna company announcement from CEO regarding layoffs](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
 * [2022-05-23, 15:36:04](https://news.ycombinator.com/item?id=31480393) - [You May Be Denied Life Insurance for Carrying Naloxone](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
@@ -13,6 +14,7 @@
 * [2022-05-23, 14:39:39](https://news.ycombinator.com/item?id=31479615) - [I'm quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
 * [2022-05-23, 14:38:48](https://news.ycombinator.com/item?id=31479605) - [Firefox's Protection Against Fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
 * [2022-05-23, 14:36:24](https://news.ycombinator.com/item?id=31479578) - [DARPA Wants a Better, Badder Caspian Sea Monster](https://spectrum.ieee.org/darpa-liberty-lifter)
+* [2022-05-23, 13:46:45](https://news.ycombinator.com/item?id=31478980) - [Parking under overpass in severe weather is 'spectacularly dangerous'](https://www.theweathernetwork.com/ca/news/article/parking-under-overpass-amid-severe-weather-is-spectacularly-dangerous-ontario-quebec)
 * [2022-05-23, 13:38:20](https://news.ycombinator.com/item?id=31478874) - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
 * [2022-05-23, 13:31:24](https://news.ycombinator.com/item?id=31478795) - [The Math Prodigy Whose Hack Upended a Crypto Platform Won't Return Funds](https://www.ndtv.com/business/the-math-prodigy-whose-hack-upended-a-crypto-platform-wont-return-funds-2992987)
 * [2022-05-23, 13:26:28](https://news.ycombinator.com/item?id=31478728) - [Finland’s Green Party endorses nuclear power](https://allianceforscience.cornell.edu/blog/2022/05/finland-green-party-nuclear/)
