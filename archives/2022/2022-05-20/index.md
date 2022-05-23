@@ -66,6 +66,7 @@
 * [2022-05-20, 14:37:31](https://news.ycombinator.com/item?id=31448044) - [Lavender's Game: Silexan for Anxiety](https://astralcodexten.substack.com/p/lavenders-game-silexan-for-anxiety)
 * [2022-05-20, 14:36:35](https://news.ycombinator.com/item?id=31448024) - [Analysing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [You Want My Password or a Dead Patient? [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
+* [2022-05-20, 14:31:24](https://news.ycombinator.com/item?id=31447950) - [My message for founders who are worrying is simple: don’t panic](https://www.linkedin.com/posts/tommychavez_ive-had-a-lot-of-conversations-over-the-activity-6929834001432002560-VHvs)
 * [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
 * [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 * [2022-05-20, 14:26:33](https://news.ycombinator.com/item?id=31447853) - [The Specificity Gradient](https://doriantaylor.com/the-specificity-gradient)

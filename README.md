@@ -21,7 +21,6 @@
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
-* [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [Current guidelines for sun exposure are unhealthy and unscientific – research (2019)](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 * [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 * [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
 * [2022-05-21, 12:12:54](https://news.ycombinator.com/item?id=31457181) - [Interland: The Country in the Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection)
@@ -30,6 +29,7 @@
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
+* [2022-05-20, 14:31:24](https://news.ycombinator.com/item?id=31447950) - [My message for founders who are worrying is simple: don’t panic](https://www.linkedin.com/posts/tommychavez_ive-had-a-lot-of-conversations-over-the-activity-6929834001432002560-VHvs)
 
 ## [Archives](archives/index.md)
 
