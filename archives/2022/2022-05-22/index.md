@@ -7,6 +7,8 @@
 * [2022-05-22, 23:29:23](https://news.ycombinator.com/item?id=31473846) - [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
 * [2022-05-22, 22:57:42](https://news.ycombinator.com/item?id=31473636) - [Autism increase mystery solved? No, it's not vaccines, GMOs, glyphosate](https://geneticliteracyproject.org/2022/05/20/autism-increase-mystery-solved-no-its-not-vaccines-gmos-glyphosate-or-organic-foods/)
 * [2022-05-22, 22:57:14](https://news.ycombinator.com/item?id=31473632) - [MasterCard to launch biometric checkout tool for retailers](https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/)
+* [2022-05-22, 22:18:23](https://news.ycombinator.com/item?id=31473369) - [Case Studies in USB-C Debugging – Analog and digital compliance of a PD-enable](https://medium.com/@kolluru.nathan/case-studies-in-usb-c-debugging-93cc3e8bbc0c)
+* [2022-05-22, 22:08:36](https://news.ycombinator.com/item?id=31473293) - [Apple Cash](https://www.apple.com/apple-cash/)
 * [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [The mindless tyranny of “what if it changes?” as a software design principle](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
 * [2022-05-22, 21:11:37](https://news.ycombinator.com/item?id=31472836) - [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
