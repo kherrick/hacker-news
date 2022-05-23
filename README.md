@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-23, 15:36:04](https://news.ycombinator.com/item?id=31480393) - [You May Be Denied Life Insurance for Carrying Naloxone](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
+* [2022-05-23, 15:36:04](https://news.ycombinator.com/item?id=31480393) - [You may be denied life insurance for carrying naloxone (2018)](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
 * [2022-05-23, 15:30:04](https://news.ycombinator.com/item?id=31480290) - [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
