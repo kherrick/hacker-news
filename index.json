@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-05-23, 12:48:09",
-      "https://news.ycombinator.com/item?id=31478308"
-    ],
-    [
-      "Intelligent Indentation, Seriously",
-      "http://intellindent.info/seriously/"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 12:47:10",
       "https://news.ycombinator.com/item?id=31478297"
     ],
@@ -177,6 +167,16 @@
     [
       "The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)",
       "https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 04:48:05",
+      "https://news.ycombinator.com/item?id=31475420"
+    ],
+    [
+      "A Chrome extension for bionic reading on any website",
+      "https://github.com/ansh/bionic-reading"
     ]
   ],
   [
