@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-05-23, 18:56:02",
-      "https://news.ycombinator.com/item?id=31483462"
-    ],
-    [
-      "The Surprisingly Sophisticated Mind of an Insect",
-      "https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 18:30:03",
       "https://news.ycombinator.com/item?id=31483120"
     ],
@@ -231,6 +221,26 @@
   ],
   [
     [
+      "2022-05-23, 13:12:02",
+      "https://news.ycombinator.com/item?id=31478562"
+    ],
+    [
+      "How Uber Uses Zig",
+      "https://jakstys.lt/2022/how-uber-uses-zig/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 12:48:20",
+      "https://news.ycombinator.com/item?id=31478312"
+    ],
+    [
+      "Safety and Performance – Threadsafe Datastructures in C++",
+      "https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 12:47:10",
       "https://news.ycombinator.com/item?id=31478297"
     ],
@@ -257,16 +267,6 @@
     [
       "On Endianness",
       "https://www.technicalsourcery.net/posts/on-endianness/"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 11:43:53",
-      "https://news.ycombinator.com/item?id=31467077"
-    ],
-    [
-      "Go Nulls and SQL",
-      "https://ente.io/blog/tech/go-nulls-and-sql/"
     ]
   ],
   [
