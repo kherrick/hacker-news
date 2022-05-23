@@ -103,6 +103,7 @@
 * [2022-05-20, 10:03:14](https://news.ycombinator.com/item?id=31445355) - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 * [2022-05-20, 09:37:12](https://news.ycombinator.com/item?id=31445173) - [Slaughter/suffering free pork cultivated meat](https://www.greenqueen.com.hk/mewery-cultivated-pork-microalgae/)
 * [2022-05-20, 09:26:09](https://news.ycombinator.com/item?id=31445098) - [Coca-Cola Begins Introduction of Attached Caps](https://www.cocacolaep.com/gb/news/2022/coca-cola-begins-introduction-of-attached-caps-across-entire-portfolio-to-boost-collection-and-recylcing-and-help-to-prevent-litter/)
+* [2022-05-20, 09:16:02](https://news.ycombinator.com/item?id=31445032) - [Excel Unusual – Science, Engineering, Games in Excel and VBA](https://excelunusual.com/)
 * [2022-05-20, 08:57:57](https://news.ycombinator.com/item?id=31444913) - [Change the colour of grey text back to black on website using poor contrast text](https://addons.mozilla.org/en-US/firefox/addon/font-contrast-fix/)
 * [2022-05-20, 08:54:25](https://news.ycombinator.com/item?id=31444895) - [A key-infra open-source project can get compromised](https://lof.flounder.online/gemlog/2022-05-20%20how%20an%20open%20source%20project%20can%20get%20compromised.gmi)
 * [2022-05-20, 08:51:35](https://news.ycombinator.com/item?id=31444884) - [Ask HN: What are modern architecture patterns for desktop applications?](https://news.ycombinator.com/item?id=31444884)

@@ -22,7 +22,6 @@
 * [2022-05-23, 14:36:24](https://news.ycombinator.com/item?id=31479578) - [DARPA wants to combine traditional sealift and airlift](https://spectrum.ieee.org/darpa-liberty-lifter)
 * [2022-05-23, 13:31:24](https://news.ycombinator.com/item?id=31478795) - [The math prodigy whose hack upended DeFi won’t return funds](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community)
 * [2022-05-23, 13:22:53](https://news.ycombinator.com/item?id=31478692) - [A whole age of warfare sank with the Moskva](https://www.theatlantic.com/ideas/archive/2022/05/ukraine-russia-moskva-military-marine-corps/629930/)
-* [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Sugar deposits found under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
@@ -30,6 +29,7 @@
 * [2022-05-21, 01:47:29](https://news.ycombinator.com/item?id=31454589) - [Hacking the bureaucracy to get stuff done (2020)](https://www.zainrizvi.io/blog/hacking-the-bureaucracy-to-get-stuff-done/)
 * [2022-05-20, 15:35:41](https://news.ycombinator.com/item?id=31448889) - [Flix – Safe, reliable, concise, and functional-first programming language](https://flix.dev/)
 * [2022-05-20, 15:32:50](https://news.ycombinator.com/item?id=31448846) - [Amazon Redshift Re-Invented](https://www.amazon.science/publications/amazon-redshift-re-invented)
+* [2022-05-20, 09:16:02](https://news.ycombinator.com/item?id=31445032) - [Excel Unusual – Science, Engineering, Games in Excel and VBA](https://excelunusual.com/)
 
 ## [Archives](archives/index.md)
 
