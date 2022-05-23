@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-05-23, 03:42:05",
+      "https://news.ycombinator.com/item?id=31475130"
+    ],
+    [
+      "What’s in Which Python",
+      "https://nedbatchelder.com/text/which-py.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 03:13:06",
+      "https://news.ycombinator.com/item?id=31475001"
+    ],
+    [
+      "Patients keep getting charged for crying",
+      "https://www.sicknote.co/p/patients-keep-getting-charged-for"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 02:27:06",
+      "https://news.ycombinator.com/item?id=31474810"
+    ],
+    [
+      "STUNner: A Kubernetes ingress gateway for WebRTC",
+      "https://github.com/l7mp/stunner"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 02:09:40",
       "https://news.ycombinator.com/item?id=31474710"
     ],
     [
-      "Useless Use of \"dd\"",
+      "Useless Use of \"dd\" (2015)",
       "https://www.vidarholen.net/contents/blog/?p=479"
     ]
   ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-05-22, 16:55:24",
-      "https://news.ycombinator.com/item?id=31470251"
-    ],
-    [
-      "Happy 10th Birthday Compiler Explorer",
-      "https://xania.org/202206/happy-birthday-ce"
-    ]
-  ],
-  [
-    [
       "2022-05-22, 15:52:42",
       "https://news.ycombinator.com/item?id=31469481"
     ],
@@ -247,26 +267,6 @@
     [
       "Before Ships Used GPS, There Was the Fresnel Lens",
       "https://spectrum.ieee.org/fresnel-lens-milestone"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 16:45:24",
-      "https://news.ycombinator.com/item?id=31449837"
-    ],
-    [
-      "Are Prompt-Based Models Clueless?",
-      "https://arxiv.org/abs/2205.09295"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 16:09:34",
-      "https://news.ycombinator.com/item?id=31449368"
-    ],
-    [
-      "SQLite may become foundational for digital progress",
-      "https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/"
     ]
   ],
   [
