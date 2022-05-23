@@ -49,6 +49,7 @@
 * [2022-05-20, 15:42:53](https://news.ycombinator.com/item?id=31448988) - [On Efficiently Partitioning a Topic in Apache Kafka](https://arxiv.org/abs/2205.09415)
 * [2022-05-20, 15:35:41](https://news.ycombinator.com/item?id=31448889) - [Flix – Safe, Reliable, Concise, and Functional-First Programming Language](https://flix.dev/)
 * [2022-05-20, 15:34:53](https://news.ycombinator.com/item?id=31448878) - [LilyGO T-HC32 board with world’s smallest Arm MCU (HC32L110B6) available for $9](https://www.cnx-software.com/2022/05/20/lilygo-t-hc32-board-worlds-smallest-mcu-hc32l110b6/)
+* [2022-05-20, 15:32:50](https://news.ycombinator.com/item?id=31448846) - [Amazon Redshift Re-Invented](https://www.amazon.science/publications/amazon-redshift-re-invented)
 * [2022-05-20, 15:32:11](https://news.ycombinator.com/item?id=31448836) - [GCC Profiler Internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
 * [2022-05-20, 15:31:38](https://news.ycombinator.com/item?id=31448828) - [Netflix’s Bad Habits Have Caught Up with It](https://www.vulture.com/2022/04/netflix-bad-decisions-have-caught-up-with-it.html)
 * [2022-05-20, 15:31:06](https://news.ycombinator.com/item?id=31448819) - [Tether Required Recapitalization in May 2022](https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/)

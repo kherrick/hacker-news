@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
 * [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
+* [2022-05-23, 19:00:27](https://news.ycombinator.com/item?id=31483511) - [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
 * [2022-05-23, 18:56:02](https://news.ycombinator.com/item?id=31483462) - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
 * [2022-05-23, 18:30:03](https://news.ycombinator.com/item?id=31483120) - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
 * [2022-05-23, 17:39:32](https://news.ycombinator.com/item?id=31482256) - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)

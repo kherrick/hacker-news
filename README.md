@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
+* [2022-05-23, 19:00:27](https://news.ycombinator.com/item?id=31483511) - [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
 * [2022-05-23, 18:56:02](https://news.ycombinator.com/item?id=31483462) - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
 * [2022-05-23, 18:30:03](https://news.ycombinator.com/item?id=31483120) - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
 * [2022-05-23, 17:39:32](https://news.ycombinator.com/item?id=31482256) - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
@@ -14,8 +15,6 @@
 * [2022-05-23, 16:21:12](https://news.ycombinator.com/item?id=31481044) - [I found Katherine Johnson's calculations at NASA [video]](https://www.youtube.com/watch?v=78BdxTJ5spY)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons learned from running Apache Airflow at scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
-* [2022-05-23, 15:27:45](https://news.ycombinator.com/item?id=31480247) - [Calculations resolve controversy about the sun's chemical composition](https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html)
-* [2022-05-23, 14:39:39](https://news.ycombinator.com/item?id=31479615) - [I'm quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
 * [2022-05-23, 14:38:48](https://news.ycombinator.com/item?id=31479605) - [Firefox's protection against fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
 * [2022-05-23, 14:36:24](https://news.ycombinator.com/item?id=31479578) - [DARPA wants to combine traditional sealift and airlift](https://spectrum.ieee.org/darpa-liberty-lifter)
 * [2022-05-23, 13:38:20](https://news.ycombinator.com/item?id=31478874) - [The Meta-Positioning Habit of Mind](https://theconvivialsociety.substack.com/p/the-meta-positioning-habit-of-mind)
@@ -30,6 +29,7 @@
 * [2022-05-21, 01:47:29](https://news.ycombinator.com/item?id=31454589) - [Hacking the bureaucracy to get stuff done (2020)](https://www.zainrizvi.io/blog/hacking-the-bureaucracy-to-get-stuff-done/)
 * [2022-05-20, 15:35:41](https://news.ycombinator.com/item?id=31448889) - [Flix – Safe, reliable, concise, and functional-first programming language](https://flix.dev/)
 * [2022-05-20, 15:34:53](https://news.ycombinator.com/item?id=31448878) - [LilyGO T-HC32 board with world’s smallest Arm MCU (HC32L110B6) available for $9](https://www.cnx-software.com/2022/05/20/lilygo-t-hc32-board-worlds-smallest-mcu-hc32l110b6/)
+* [2022-05-20, 15:32:50](https://news.ycombinator.com/item?id=31448846) - [Amazon Redshift Re-Invented](https://www.amazon.science/publications/amazon-redshift-re-invented)
 
 ## [Archives](archives/index.md)
 
