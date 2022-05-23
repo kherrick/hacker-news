@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-05-23, 19:00:27",
+      "https://news.ycombinator.com/item?id=31483511"
+    ],
+    [
+      "Interact – Online Introspection for Rust",
+      "https://github.com/interact-rs/interact"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 18:56:02",
       "https://news.ycombinator.com/item?id=31483462"
     ],
@@ -137,26 +147,6 @@
     [
       "Proper Use of Git Tags",
       "https://blog.aloni.org/posts/proper-use-of-git-tags/"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 15:27:45",
-      "https://news.ycombinator.com/item?id=31480247"
-    ],
-    [
-      "Calculations resolve controversy about the sun's chemical composition",
-      "https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 14:39:39",
-      "https://news.ycombinator.com/item?id=31479615"
-    ],
-    [
-      "I'm quitting my PhD",
-      "https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "LilyGO T-HC32 board with world’s smallest Arm MCU (HC32L110B6) available for $9",
       "https://www.cnx-software.com/2022/05/20/lilygo-t-hc32-board-worlds-smallest-mcu-hc32l110b6/"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 15:32:50",
+      "https://news.ycombinator.com/item?id=31448846"
+    ],
+    [
+      "Amazon Redshift Re-Invented",
+      "https://www.amazon.science/publications/amazon-redshift-re-invented"
     ]
   ]
 ]
