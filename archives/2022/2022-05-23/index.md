@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 04:42:24](https://news.ycombinator.com/item?id=31475401) - [Goodbye smallpox vaccination, hello monkeypox (2010)](https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox)
 * [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
 * [2022-05-23, 03:13:06](https://news.ycombinator.com/item?id=31475001) - [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
 * [2022-05-23, 02:27:06](https://news.ycombinator.com/item?id=31474810) - [STUNner: A Kubernetes ingress gateway for WebRTC](https://github.com/l7mp/stunner)
