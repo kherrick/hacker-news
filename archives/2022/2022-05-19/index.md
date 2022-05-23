@@ -28,6 +28,7 @@
 * [2022-05-19, 17:00:55](https://news.ycombinator.com/item?id=31437185) - [Arc (YC W22) is hiring a designer](https://boards.greenhouse.io/arctechnologies/jobs/4080956004)
 * [2022-05-19, 16:51:23](https://news.ycombinator.com/item?id=31437033) - [Google open sourced PSP (hardware crypto offload)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source)
 * [2022-05-19, 16:47:59](https://news.ycombinator.com/item?id=31436993) - [Kaiten: Japan’s fully-manned kamikaze torpedos during WWII](https://www.warhistoryonline.com/war-articles/japanese-kaiten-kamikaze-torpedos.html)
+* [2022-05-19, 16:35:00](https://news.ycombinator.com/item?id=31436832) - [Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022](https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/)
 * [2022-05-19, 16:33:56](https://news.ycombinator.com/item?id=31436814) - [Felienne Hermans: How patterns in variable names can make code easier to read](https://www.youtube.com/watch?v=z7w2lKG8zWM)
 * [2022-05-19, 16:27:19](https://news.ycombinator.com/item?id=31436726) - [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures)
 * [2022-05-19, 16:26:12](https://news.ycombinator.com/item?id=31436703) - [State Dept Guidance on DPRK IT Workers [pdf]](https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf)
