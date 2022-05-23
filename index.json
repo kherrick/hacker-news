@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-05-23, 17:33:38",
+      "https://news.ycombinator.com/item?id=31482142"
+    ],
+    [
+      "Now Monkeypox",
+      "https://www.science.org/content/blog-post/now-monkeypox"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 17:17:26",
+      "https://news.ycombinator.com/item?id=31481895"
+    ],
+    [
+      "Running Julia bare-metal on an Arduino",
+      "https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 17:14:30",
+      "https://news.ycombinator.com/item?id=31481854"
+    ],
+    [
+      "Christine Lagarde Says Crypto “Worth Nothing” & Should Be Regulated",
+      "https://www.cryptolka.com/european-central-bank-ecb-president-says-crypto-worth-nothing-and-should-be-regulated/?customize_changeset_uuid=1af9c57c-60e7-4ef2-abbd-b26d86442543"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 17:00:06",
       "https://news.ycombinator.com/item?id=31481629"
     ],
     [
       "SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs",
       "https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 16:57:39",
+      "https://news.ycombinator.com/item?id=31481581"
+    ],
+    [
+      "Show HN: Little Procedural Pixel Worlds",
+      "https://jason.today/little-worlds"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2022-05-23, 08:59:05",
-      "https://news.ycombinator.com/item?id=31476710"
-    ],
-    [
-      "Big Fat Websites (2021)",
-      "https://herman.bearblog.dev/big-fat-websites/"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 08:24:25",
       "https://news.ycombinator.com/item?id=31476521"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2022-05-23, 08:16:18",
-      "https://news.ycombinator.com/item?id=31476479"
-    ],
-    [
-      "Business Wargames: Early Complex Text Games",
-      "https://if50.substack.com/p/business-wargames"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 07:01:09",
       "https://news.ycombinator.com/item?id=31476069"
     ],
     [
       "A rant about search engine results for large format laser printers [video]",
       "https://www.youtube.com/watch?v=m9lFcduaZPU"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 03:42:05",
-      "https://news.ycombinator.com/item?id=31475130"
-    ],
-    [
-      "What’s in Which Python",
-      "https://nedbatchelder.com/text/which-py.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Flix – Safe, Reliable, Concise, and Functional-First Programming Language",
       "https://flix.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 16:35:00",
-      "https://news.ycombinator.com/item?id=31436832"
-    ],
-    [
-      "Guidance for Choosing an Elliptic Curve Signature Algorithm",
-      "https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/"
     ]
   ]
 ]
