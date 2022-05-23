@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-23, 23:23:14](https://news.ycombinator.com/item?id=31486101) - [Fentanyl Tests Empower People and Save Lives–Why Aren’t They Widespread? (2021)](https://www.healthaffairs.org/do/10.1377/forefront.20210601.974263/)
+* [2022-05-23, 23:23:14](https://news.ycombinator.com/item?id=31486101) - [Why aren't fentanyl test strips more widespread? (2021)](https://www.healthaffairs.org/do/10.1377/forefront.20210601.974263/)
+* [2022-05-23, 23:21:33](https://news.ycombinator.com/item?id=31486083) - [Starlink for RVs](https://www.starlink.com/rv)
 * [2022-05-23, 22:51:13](https://news.ycombinator.com/item?id=31485845) - [The political economy of submarine cables](https://www.researchgate.net/publication/360485815_THE_POLITICAL_ECONOMY_OF_SUBMARINE_CABLES_THE_QUANTUM_CABLE_PROJECT_IN_THE_MEDITERRANEAN_SEA)
 * [2022-05-23, 22:37:21](https://news.ycombinator.com/item?id=31485710) - [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
 * [2022-05-23, 22:37:03](https://news.ycombinator.com/item?id=31485706) - [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
@@ -20,7 +21,6 @@
 * [2022-05-23, 16:21:12](https://news.ycombinator.com/item?id=31481044) - [I found Katherine Johnson's calculations at NASA [video]](https://www.youtube.com/watch?v=78BdxTJ5spY)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons learned from running Apache Airflow at scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper use of Git tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
-* [2022-05-23, 14:38:48](https://news.ycombinator.com/item?id=31479605) - [Firefox's protection against fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
 * [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Sugar deposits found under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
