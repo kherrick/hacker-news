@@ -4,7 +4,6 @@
 * [2022-05-23, 08:23:24](https://news.ycombinator.com/item?id=31476516) - [You can preserve the Earth's livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
-* [2022-05-23, 05:46:37](https://news.ycombinator.com/item?id=31475680) - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
 * [2022-05-23, 05:24:09](https://news.ycombinator.com/item?id=31475575) - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
 * [2022-05-23, 04:48:05](https://news.ycombinator.com/item?id=31475420) - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
 * [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
@@ -29,6 +28,7 @@
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf] (2019)](https://www.nickbostrom.com/papers/vulnerable.pdf)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+* [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
 
 ## [Archives](archives/index.md)
