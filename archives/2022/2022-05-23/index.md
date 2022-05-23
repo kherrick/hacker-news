@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
+* [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Blogs should be clean and load fast](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:29:29](https://news.ycombinator.com/item?id=31476551) - [Crypto assets are ‘worth nothing,’ says ECB’s Christine Lagarde](https://www.politico.eu/article/crypto-assets-worth-nothing-ecb-christine-lagarde/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 08:23:24](https://news.ycombinator.com/item?id=31476516) - [You can preserve the Earth's livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)

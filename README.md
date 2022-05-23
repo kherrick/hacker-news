@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-23, 08:29:29](https://news.ycombinator.com/item?id=31476551) - [Crypto assets are ‘worth nothing,’ says ECB’s Christine Lagarde](https://www.politico.eu/article/crypto-assets-worth-nothing-ecb-christine-lagarde/)
+* [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
+* [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Blogs should be clean and load fast](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 08:23:24](https://news.ycombinator.com/item?id=31476516) - [You can preserve the Earth's livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
@@ -27,7 +28,6 @@
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf] (2019)](https://www.nickbostrom.com/papers/vulnerable.pdf)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
-* [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
 * [2022-05-20, 14:31:24](https://news.ycombinator.com/item?id=31447950) - [My message for founders who are worrying is simple: don’t panic](https://www.linkedin.com/posts/tommychavez_ive-had-a-lot-of-conversations-over-the-activity-6929834001432002560-VHvs)
 
