@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-05-22, 16:55:24",
-      "https://news.ycombinator.com/item?id=31470251"
-    ],
-    [
-      "Happy 10th Birthday Compiler Explorer",
-      "https://xania.org/202206/happy-birthday-ce"
-    ]
-  ],
-  [
-    [
       "2022-05-22, 15:52:42",
       "https://news.ycombinator.com/item?id=31469481"
     ],
@@ -261,12 +251,32 @@
   ],
   [
     [
+      "2022-05-20, 20:08:47",
+      "https://news.ycombinator.com/item?id=31451951"
+    ],
+    [
+      "Ventilated Prose (2009)",
+      "https://vanemden.wordpress.com/2009/01/01/ventilated-prose/"
+    ]
+  ],
+  [
+    [
       "2022-05-20, 16:45:24",
       "https://news.ycombinator.com/item?id=31449837"
     ],
     [
       "Are Prompt-Based Models Clueless?",
       "https://arxiv.org/abs/2205.09295"
+    ]
+  ],
+  [
+    [
+      "2022-05-20, 16:09:34",
+      "https://news.ycombinator.com/item?id=31449368"
+    ],
+    [
+      "SQLite may become foundational for digital progress",
+      "https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Intel plans immersion lab to chill its power-hungry chips",
       "https://www.theregister.com/2022/05/19/intel_immersion_lab/"
-    ]
-  ],
-  [
-    [
-      "2022-05-19, 16:33:56",
-      "https://news.ycombinator.com/item?id=31436814"
-    ],
-    [
-      "Felienne Hermans: How patterns in variable names can make code easier to read",
-      "https://www.youtube.com/watch?v=z7w2lKG8zWM"
     ]
   ]
 ]
