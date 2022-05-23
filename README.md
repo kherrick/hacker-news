@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
+* [2022-05-23, 10:46:56](https://news.ycombinator.com/item?id=31477355) - [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
 * [2022-05-23, 10:20:30](https://news.ycombinator.com/item?id=31477158) - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
 * [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Big Fat Websites (2021)](https://herman.bearblog.dev/big-fat-websites/)
@@ -24,7 +25,6 @@
 * [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
-* [2022-05-21, 12:12:54](https://news.ycombinator.com/item?id=31457181) - [Interland: The Country in the Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection)
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf] (2019)](https://www.nickbostrom.com/papers/vulnerable.pdf)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
