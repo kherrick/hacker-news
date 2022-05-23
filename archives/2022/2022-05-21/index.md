@@ -41,6 +41,7 @@
 * [2022-05-21, 15:31:48](https://news.ycombinator.com/item?id=31458770) - [Gitee to review all code by temporarily closing public open-source projects](https://www.scmp.com/tech/big-tech/article/3178323/gitee-chinas-answer-github-review-all-code-temporarily-closing-open)
 * [2022-05-21, 15:18:56](https://news.ycombinator.com/item?id=31458635) - [Windows XP Delta Edition](https://xpdelta.weebly.com/)
 * [2022-05-21, 14:53:08](https://news.ycombinator.com/item?id=31458407) - [Tesla Asking Owners to Limit Charging During Texas Heatwave](https://www.thedrive.com/news/tesla-asks-texan-owners-to-limit-charging-due-to-heat-wave)
+* [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
 * [2022-05-21, 14:21:00](https://news.ycombinator.com/item?id=31458169) - [Babies Collapse Household Systems](https://offbyone.us/posts/baby-household-supply-chain/)
 * [2022-05-21, 14:03:38](https://news.ycombinator.com/item?id=31458021) - [Crypto Might Have an Insider Trading Problem](https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398)
 * [2022-05-21, 13:56:26](https://news.ycombinator.com/item?id=31457965) - [Pipewire to replace Pulseaudion on Ubuntu 22.10](https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489)

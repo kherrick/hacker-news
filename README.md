@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 08:23:24](https://news.ycombinator.com/item?id=31476516) - [You can preserve the Earth's livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
+* [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
 * [2022-05-23, 05:46:37](https://news.ycombinator.com/item?id=31475680) - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
 * [2022-05-23, 05:24:09](https://news.ycombinator.com/item?id=31475575) - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
@@ -22,14 +24,12 @@
 * [2022-05-22, 18:47:39](https://news.ycombinator.com/item?id=31471416) - [Current guidelines for sun exposure are unhealthy and unscientific – research (2019)](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 * [2022-05-22, 17:57:24](https://news.ycombinator.com/item?id=31470928) - [Lofi.co – Relax and Focus](https://lofi.co/)
 * [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
-* [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
+* [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
 * [2022-05-21, 12:12:54](https://news.ycombinator.com/item?id=31457181) - [Interland: The Country in the Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection)
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf] (2019)](https://www.nickbostrom.com/papers/vulnerable.pdf)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
-* [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
-* [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
 
 ## [Archives](archives/index.md)
 
