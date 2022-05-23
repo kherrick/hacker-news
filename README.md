@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-23, 17:33:38](https://news.ycombinator.com/item?id=31482142) - [Now Monkeypox](https://www.science.org/content/blog-post/now-monkeypox)
+* [2022-05-23, 17:17:26](https://news.ycombinator.com/item?id=31481895) - [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/)
+* [2022-05-23, 17:14:30](https://news.ycombinator.com/item?id=31481854) - [Christine Lagarde Says Crypto “Worth Nothing” & Should Be Regulated](https://www.cryptolka.com/european-central-bank-ecb-president-says-crypto-worth-nothing-and-should-be-regulated/?customize_changeset_uuid=1af9c57c-60e7-4ef2-abbd-b26d86442543)
 * [2022-05-23, 17:00:06](https://news.ycombinator.com/item?id=31481629) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+* [2022-05-23, 16:57:39](https://news.ycombinator.com/item?id=31481581) - [Show HN: Little Procedural Pixel Worlds](https://jason.today/little-worlds)
 * [2022-05-23, 16:46:12](https://news.ycombinator.com/item?id=31481410) - [Extend your runway, cheap money is over](https://canvasapp.com/blog/extend-your-runway-cheap-cash-is-over/)
 * [2022-05-23, 16:42:27](https://news.ycombinator.com/item?id=31481347) - [Why is it traitorous to understand the people you disagree with?](https://dynomight.net/traitorous/)
 * [2022-05-23, 16:31:07](https://news.ycombinator.com/item?id=31481175) - [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/)
@@ -19,17 +23,13 @@
 * [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Sugar deposits found under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
-* [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Big Fat Websites (2021)](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
-* [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant about search engine results for large format laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
-* [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
 * [2022-05-21, 10:09:20](https://news.ycombinator.com/item?id=31456646) - [AMD Xilinx Kria KR260 Robotics Kit Launched](https://www.servethehome.com/amd-xilinx-kria-kr260-robotics-kit-launched/)
 * [2022-05-21, 01:47:29](https://news.ycombinator.com/item?id=31454589) - [Hacking the bureaucracy to get stuff done (2020)](https://www.zainrizvi.io/blog/hacking-the-bureaucracy-to-get-stuff-done/)
 * [2022-05-21, 01:46:21](https://news.ycombinator.com/item?id=31454581) - [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2022-05-20, 15:35:41](https://news.ycombinator.com/item?id=31448889) - [Flix – Safe, Reliable, Concise, and Functional-First Programming Language](https://flix.dev/)
-* [2022-05-19, 16:35:00](https://news.ycombinator.com/item?id=31436832) - [Guidance for Choosing an Elliptic Curve Signature Algorithm](https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/)
 
 ## [Archives](archives/index.md)
 
