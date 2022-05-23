@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 11:39:32](https://news.ycombinator.com/item?id=31477741) - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
 * [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
 * [2022-05-23, 10:46:56](https://news.ycombinator.com/item?id=31477355) - [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
 * [2022-05-23, 10:20:30](https://news.ycombinator.com/item?id=31477158) - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
