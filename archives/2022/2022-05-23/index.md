@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 15:36:04](https://news.ycombinator.com/item?id=31480393) - [You May Be Denied Life Insurance for Carrying Naloxone](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
+* [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
+* [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
+* [2022-05-23, 15:30:04](https://news.ycombinator.com/item?id=31480290) - [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
+* [2022-05-23, 15:09:02](https://news.ycombinator.com/item?id=31479979) - [Open Messaging Improves Engineering Quality](https://www.mattritter.me/?p=526)
 * [2022-05-23, 15:05:42](https://news.ycombinator.com/item?id=31479934) - [Don't Buy a Yeti](https://dontbuyayeti.com)
 * [2022-05-23, 14:39:39](https://news.ycombinator.com/item?id=31479615) - [I'm quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
 * [2022-05-23, 14:38:48](https://news.ycombinator.com/item?id=31479605) - [Firefox's Protection Against Fingerprinting](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
