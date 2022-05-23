@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-23, 17:39:32",
+      "https://news.ycombinator.com/item?id=31482256"
+    ],
+    [
+      "Operator Constraints in Go",
+      "https://blog.merovius.de/posts/2022-05-23-operator-constraints/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 17:33:38",
       "https://news.ycombinator.com/item?id=31482142"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31482116"
     ],
     [
-      "Donald Knuth on work habits, problem solving, and happiness",
+      "Donald Knuth on work habits, problem solving, and happiness (2020)",
       "https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Running Julia bare-metal on an Arduino",
       "https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 17:17:00",
+      "https://news.ycombinator.com/item?id=31481888"
+    ],
+    [
+      "When Everything Is Important but Nothing Is Getting Done",
+      "https://sharedphysics.com/everything-is-important/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Useful Python Decorators for Data Scientists",
       "https://bytepawn.com/python-decorators-for-data-scientists.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 07:01:09",
-      "https://news.ycombinator.com/item?id=31476069"
-    ],
-    [
-      "A rant about search engine results for large format laser printers [video]",
-      "https://www.youtube.com/watch?v=m9lFcduaZPU"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 03:42:05",
-      "https://news.ycombinator.com/item?id=31475130"
-    ],
-    [
-      "What’s in Which Python",
-      "https://nedbatchelder.com/text/which-py.html"
     ]
   ],
   [
