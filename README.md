@@ -2,6 +2,7 @@
 
 * [2022-05-23, 11:39:32](https://news.ycombinator.com/item?id=31477741) - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
 * [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
+* [2022-05-23, 10:46:56](https://news.ycombinator.com/item?id=31477355) - [Kids Are Far, Far Behind in School](https://www.theatlantic.com/ideas/archive/2022/05/schools-learning-loss-remote-covid-education/629938/)
 * [2022-05-23, 10:20:30](https://news.ycombinator.com/item?id=31477158) - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
 * [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Big Fat Websites (2021)](https://herman.bearblog.dev/big-fat-websites/)
@@ -12,7 +13,6 @@
 * [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
 * [2022-05-23, 05:46:37](https://news.ycombinator.com/item?id=31475680) - [My experience as a Unit-18 Berkeley Lecturer](http://blog.pamelafox.org/2022/05/my-experience-as-unit-18-berkeley.html)
 * [2022-05-23, 05:24:09](https://news.ycombinator.com/item?id=31475575) - [The Apple M1, ARM/x86 Linux Virtualization, and Boinc (2021)](https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/)
-* [2022-05-23, 04:48:05](https://news.ycombinator.com/item?id=31475420) - [A Chrome extension for bionic reading on any website](https://github.com/ansh/bionic-reading)
 * [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
 * [2022-05-23, 02:27:06](https://news.ycombinator.com/item?id=31474810) - [STUNner: A Kubernetes ingress gateway for WebRTC](https://github.com/l7mp/stunner)
 * [2022-05-23, 02:09:40](https://news.ycombinator.com/item?id=31474710) - [Useless Use of \"dd\" (2015)](https://www.vidarholen.net/contents/blog/?p=479)
@@ -21,7 +21,6 @@
 * [2022-05-23, 00:02:02](https://news.ycombinator.com/item?id=31474062) - [Feather Wiki: app for creating personal non-linear notebooks, databases, wikis](https://feather.wiki/)
 * [2022-05-22, 23:29:23](https://news.ycombinator.com/item?id=31473846) - [Blinkenlights: PC Binary Emulating Visualizer](https://justine.lol/blinkenlights/)
 * [2022-05-22, 22:18:23](https://news.ycombinator.com/item?id=31473369) - [Case Studies in USB-C Debugging (2020)](https://medium.com/@kolluru.nathan/case-studies-in-usb-c-debugging-93cc3e8bbc0c)
-* [2022-05-22, 22:08:36](https://news.ycombinator.com/item?id=31473293) - [Apple Cash](https://www.apple.com/apple-cash/)
 * [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
@@ -29,6 +28,7 @@
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf] (2019)](https://www.nickbostrom.com/papers/vulnerable.pdf)
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2022-05-20, 16:26:04](https://news.ycombinator.com/item?id=31449573) - [How to Stay Informed Without Getting Paralyzed by Bad News](https://www.wired.com/story/how-to-stay-informed-paralyzed-bad-news/)
+* [2022-05-20, 15:53:46](https://news.ycombinator.com/item?id=31449132) - [But Await, There's More (2020)](https://breen.tech/post/but-await-theres-more/)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
 
 ## [Archives](archives/index.md)
