@@ -3,7 +3,7 @@
 * [2022-05-23, 22:51:13](https://news.ycombinator.com/item?id=31485845) - [The Political Economy of Submarine Cables](https://www.researchgate.net/publication/360485815_THE_POLITICAL_ECONOMY_OF_SUBMARINE_CABLES_THE_QUANTUM_CABLE_PROJECT_IN_THE_MEDITERRANEAN_SEA)
 * [2022-05-23, 22:37:21](https://news.ycombinator.com/item?id=31485710) - [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
 * [2022-05-23, 22:37:03](https://news.ycombinator.com/item?id=31485706) - [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
-* [2022-05-23, 21:48:58](https://news.ycombinator.com/item?id=31485200) - [How One Woman Grows Food in Hard Clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
+* [2022-05-23, 21:48:58](https://news.ycombinator.com/item?id=31485200) - [Growing food in hard clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
 * [2022-05-23, 21:37:17](https://news.ycombinator.com/item?id=31485073) - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
