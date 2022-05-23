@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 03:42:05](https://news.ycombinator.com/item?id=31475130) - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html)
+* [2022-05-23, 03:13:06](https://news.ycombinator.com/item?id=31475001) - [Patients keep getting charged for crying](https://www.sicknote.co/p/patients-keep-getting-charged-for)
+* [2022-05-23, 02:27:06](https://news.ycombinator.com/item?id=31474810) - [STUNner: A Kubernetes ingress gateway for WebRTC](https://github.com/l7mp/stunner)
 * [2022-05-23, 02:09:40](https://news.ycombinator.com/item?id=31474710) - [Useless Use of \"dd\"](https://www.vidarholen.net/contents/blog/?p=479)
 * [2022-05-23, 01:58:43](https://news.ycombinator.com/item?id=31474649) - [Russian Ruble Is World’s Best Currency This Year](https://www.bloomberg.com/news/articles/2022-05-11/russian-ruble-surpasses-brazilian-real-as-world-s-best-currency)
 * [2022-05-23, 01:32:38](https://news.ycombinator.com/item?id=31474506) - [Is This a Tank?](https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/)
