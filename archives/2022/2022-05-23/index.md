@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [New text-to-image network from Google beats DALL-E](https://gweb-research-imagen.appspot.com/)
+* [2022-05-23, 20:38:33](https://news.ycombinator.com/item?id=31484508) - [The trouble with SPIR-V, 2022 edition](https://xol.io/blah/the-trouble-with-spirv/)
 * [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Show HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
 * [2022-05-23, 19:00:27](https://news.ycombinator.com/item?id=31483511) - [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
 * [2022-05-23, 18:56:02](https://news.ycombinator.com/item?id=31483462) - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
