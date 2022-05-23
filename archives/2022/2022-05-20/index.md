@@ -21,6 +21,7 @@
 * [2022-05-20, 20:19:56](https://news.ycombinator.com/item?id=31452052) - [LWN Is Now on Mastodon](https://lwn.net/Articles/895898/)
 * [2022-05-20, 20:17:35](https://news.ycombinator.com/item?id=31452032) - [Bombe Machine on an FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html)
 * [2022-05-20, 20:17:23](https://news.ycombinator.com/item?id=31452030) - [Policy punishes disabled people who save more than $2k](https://fullstackeconomics.com/how-policy-punishes-disabled-people-who-save-more-than-2000/)
+* [2022-05-20, 20:08:47](https://news.ycombinator.com/item?id=31451951) - [Ventilated Prose (2009)](https://vanemden.wordpress.com/2009/01/01/ventilated-prose/)
 * [2022-05-20, 20:04:47](https://news.ycombinator.com/item?id=31451902) - [Nuclear Fusion Is Already Facing a Fuel Crisis](https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis)
 * [2022-05-20, 20:03:03](https://news.ycombinator.com/item?id=31451889) - [Building my first mechanical keyboard](https://not-matthias.github.io/posts/mechanical-keyboard/)
 * [2022-05-20, 19:30:21](https://news.ycombinator.com/item?id=31451561) - [Ask HN: Updates on Jetbrains Fleet?](https://news.ycombinator.com/item?id=31451561)

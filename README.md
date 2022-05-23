@@ -20,16 +20,16 @@
 * [2022-05-22, 17:17:11](https://news.ycombinator.com/item?id=31470482) - [Constraint-based geometry (CAD) sketcher for Blender](https://github.com/hlorus/CAD_Sketcher)
 * [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 * [2022-05-22, 17:00:54](https://news.ycombinator.com/item?id=31470304) - [Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)](https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer)
-* [2022-05-22, 16:55:24](https://news.ycombinator.com/item?id=31470251) - [Happy 10th Birthday Compiler Explorer](https://xania.org/202206/happy-birthday-ce)
 * [2022-05-22, 15:52:42](https://news.ycombinator.com/item?id=31469481) - [Show HN: Remult – a CRUD framework for full-stack TypeScript](https://github.com/remult/remult)
 * [2022-05-22, 15:36:48](https://news.ycombinator.com/item?id=31469295) - [Faster CRC32 on the Apple M1](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
 * [2022-05-22, 14:05:32](https://news.ycombinator.com/item?id=31468303) - [How This Ends](https://avc.com/2022/05/how-this-ends-2/)
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 04:52:37](https://news.ycombinator.com/item?id=31455322) - [The Vulnerable World Hypothesis [pdf]](https://www.nickbostrom.com/papers/vulnerable.pdf)
+* [2022-05-20, 20:08:47](https://news.ycombinator.com/item?id=31451951) - [Ventilated Prose (2009)](https://vanemden.wordpress.com/2009/01/01/ventilated-prose/)
 * [2022-05-20, 16:45:24](https://news.ycombinator.com/item?id=31449837) - [Are Prompt-Based Models Clueless?](https://arxiv.org/abs/2205.09295)
+* [2022-05-20, 16:09:34](https://news.ycombinator.com/item?id=31449368) - [SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [Add motion to your web apps with a single line of code](https://github.com/formkit/auto-animate)
 * [2022-05-20, 15:28:59](https://news.ycombinator.com/item?id=31448792) - [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/)
-* [2022-05-19, 16:33:56](https://news.ycombinator.com/item?id=31436814) - [Felienne Hermans: How patterns in variable names can make code easier to read](https://www.youtube.com/watch?v=z7w2lKG8zWM)
 
 ## [Archives](archives/index.md)
 
