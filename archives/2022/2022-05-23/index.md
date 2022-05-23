@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 16:31:07](https://news.ycombinator.com/item?id=31481175) - [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/)
 * [2022-05-23, 16:06:42](https://news.ycombinator.com/item?id=31480805) - [Klarna company announcement from CEO regarding layoffs](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
+* [2022-05-23, 16:03:37](https://news.ycombinator.com/item?id=31480764) - [Ask HN: How deep do you go?](https://news.ycombinator.com/item?id=31480764)
 * [2022-05-23, 15:36:04](https://news.ycombinator.com/item?id=31480393) - [You May Be Denied Life Insurance for Carrying Naloxone](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)

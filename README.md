@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-23, 16:06:42](https://news.ycombinator.com/item?id=31480805) - [Klarna company announcement from CEO regarding layoffs](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
-* [2022-05-23, 15:36:04](https://news.ycombinator.com/item?id=31480393) - [You may be denied life insurance for carrying naloxone (2018)](https://www.wbur.org/news/2018/12/05/narcan-insurance-prescription)
+* [2022-05-23, 16:31:07](https://news.ycombinator.com/item?id=31481175) - [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/)
+* [2022-05-23, 16:06:42](https://news.ycombinator.com/item?id=31480805) - [Klarna – Company announcement from CEO regarding layoffs](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
+* [2022-05-23, 16:03:37](https://news.ycombinator.com/item?id=31480764) - [Ask HN: How deep do you go?](https://news.ycombinator.com/item?id=31480764)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons Learned from Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
 * [2022-05-23, 15:30:04](https://news.ycombinator.com/item?id=31480290) - [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
@@ -17,7 +18,6 @@
 * [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Sugar deposits found under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
-* [2022-05-23, 10:20:30](https://news.ycombinator.com/item?id=31477158) - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Big Fat Websites (2021)](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
