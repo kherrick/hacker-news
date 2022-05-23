@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 23:23:14](https://news.ycombinator.com/item?id=31486101) - [Fentanyl Tests Empower People and Save Lives–Why Aren’t They Widespread? (2021)](https://www.healthaffairs.org/do/10.1377/forefront.20210601.974263/)
 * [2022-05-23, 22:51:13](https://news.ycombinator.com/item?id=31485845) - [The Political Economy of Submarine Cables](https://www.researchgate.net/publication/360485815_THE_POLITICAL_ECONOMY_OF_SUBMARINE_CABLES_THE_QUANTUM_CABLE_PROJECT_IN_THE_MEDITERRANEAN_SEA)
 * [2022-05-23, 22:37:21](https://news.ycombinator.com/item?id=31485710) - [First Human Injected with Revolutionary Cancer-Killing Virus in Clinical Trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
 * [2022-05-23, 22:37:03](https://news.ycombinator.com/item?id=31485706) - [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
