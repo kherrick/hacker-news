@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
+* [2022-05-23, 10:20:30](https://news.ycombinator.com/item?id=31477158) - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
 * [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Big Fat Websites (2021)](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
@@ -21,7 +23,6 @@
 * [2022-05-22, 22:08:36](https://news.ycombinator.com/item?id=31473293) - [Apple Cash](https://www.apple.com/apple-cash/)
 * [2022-05-22, 21:31:24](https://news.ycombinator.com/item?id=31472997) - [“What if it changes?”](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
-* [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
 * [2022-05-21, 12:12:54](https://news.ycombinator.com/item?id=31457181) - [Interland: The Country in the Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection)
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
@@ -29,7 +30,6 @@
 * [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2022-05-20, 16:26:04](https://news.ycombinator.com/item?id=31449573) - [How to Stay Informed Without Getting Paralyzed by Bad News](https://www.wired.com/story/how-to-stay-informed-paralyzed-bad-news/)
 * [2022-05-20, 15:47:16](https://news.ycombinator.com/item?id=31449044) - [AutoAnimate  – Add motion to web apps with a single line of code](https://github.com/formkit/auto-animate)
-* [2022-05-20, 14:31:24](https://news.ycombinator.com/item?id=31447950) - [My message for founders who are worrying is simple: don’t panic](https://www.linkedin.com/posts/tommychavez_ive-had-a-lot-of-conversations-over-the-activity-6929834001432002560-VHvs)
 
 ## [Archives](archives/index.md)
 

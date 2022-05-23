@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
+* [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)
+* [2022-05-23, 10:20:30](https://news.ycombinator.com/item?id=31477158) - [The Game Boy Sewing Machine (2020)](https://www.fanbyte.com/features/the-game-boy-sewing-machine-is-more-than-a-punchline/)
 * [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
 * [2022-05-23, 10:09:04](https://news.ycombinator.com/item?id=31477092) - [HSBC exec suspended: ‘Who cares if Miami is six metres underwater in 100 years?’](https://www.fnlondon.com/articles/hsbc-exec-said-who-cares-if-miami-is-six-metres-underwater-in-100-years-now-hes-suspended-20220523)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Blogs should be clean and load fast](https://herman.bearblog.dev/big-fat-websites/)
