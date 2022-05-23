@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-23](index.md)
 
 * [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
+* [2022-05-23, 10:09:04](https://news.ycombinator.com/item?id=31477092) - [HSBC exec suspended: ‘Who cares if Miami is six metres underwater in 100 years?’](https://www.fnlondon.com/articles/hsbc-exec-said-who-cares-if-miami-is-six-metres-underwater-in-100-years-now-hes-suspended-20220523)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Blogs should be clean and load fast](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:29:29](https://news.ycombinator.com/item?id=31476551) - [Crypto assets are ‘worth nothing,’ says ECB’s Christine Lagarde](https://www.politico.eu/article/crypto-assets-worth-nothing-ecb-christine-lagarde/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)

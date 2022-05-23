@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-23, 10:12:02](https://news.ycombinator.com/item?id=31477104) - [Ask HN: Tips for Reducing the Number of Inboxes](https://news.ycombinator.com/item?id=31477104)
+* [2022-05-23, 10:09:04](https://news.ycombinator.com/item?id=31477092) - [HSBC exec suspended: ‘Who cares if Miami is six metres underwater in 100 years?’](https://www.fnlondon.com/articles/hsbc-exec-said-who-cares-if-miami-is-six-metres-underwater-in-100-years-now-hes-suspended-20220523)
 * [2022-05-23, 08:59:05](https://news.ycombinator.com/item?id=31476710) - [Blogs should be clean and load fast](https://herman.bearblog.dev/big-fat-websites/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 08:23:24](https://news.ycombinator.com/item?id=31476516) - [You can preserve the Earth's livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
@@ -22,7 +23,6 @@
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
-* [2022-05-22, 17:09:37](https://news.ycombinator.com/item?id=31470400) - [Grandpa’s Basement House](https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr)
 * [2022-05-21, 14:34:41](https://news.ycombinator.com/item?id=31458263) - [Trüth, Beaüty, and Volapük (2012)](https://publicdomainreview.org/essay/truth-beauty-and-volapuk/)
 * [2022-05-21, 12:12:54](https://news.ycombinator.com/item?id=31457181) - [Interland: The Country in the Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection)
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
