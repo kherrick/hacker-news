@@ -32,6 +32,7 @@
 * [2022-05-20, 18:05:00](https://news.ycombinator.com/item?id=31450690) - [Understanding Stresses and Strains (1968)](https://archive.org/details/understandingstressesandstrains)
 * [2022-05-20, 17:56:19](https://news.ycombinator.com/item?id=31450597) - [Math on GitHub: The Good, the Bad and the Ugly](https://nschloe.github.io/2022/05/20/math-on-github.html)
 * [2022-05-20, 17:34:30](https://news.ycombinator.com/item?id=31450397) - [The Constitutionality of Civil Forfeiture](https://www.yalelawjournal.org/feature/the-constitutionality-of-civil-forfeiture)
+* [2022-05-20, 17:15:57](https://news.ycombinator.com/item?id=31450218) - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 * [2022-05-20, 17:07:08](https://news.ycombinator.com/item?id=31450127) - [Show HN: WebApp to Create 3D Plants](https://plant.jim-fx.com)
 * [2022-05-20, 17:00:04](https://news.ycombinator.com/item?id=31450034) - [Linux for PC from 2007 (2021)](https://notes.valdikss.org.ru/linux-for-old-pc-from-2007/en/#Linux%20for%20PC%20from%202007)
 * [2022-05-20, 17:00:00](https://news.ycombinator.com/item?id=31450032) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
