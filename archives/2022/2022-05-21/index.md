@@ -51,6 +51,7 @@
 * [2022-05-21, 12:58:53](https://news.ycombinator.com/item?id=31457462) - [What do you think the future holds for the World?](https://news.ycombinator.com/item?id=31457462)
 * [2022-05-21, 12:41:35](https://news.ycombinator.com/item?id=31457350) - [Scapple](https://www.literatureandlatte.com/scapple/overview)
 * [2022-05-21, 12:15:59](https://news.ycombinator.com/item?id=31457200) - [Open Letter to Noam Chomsky (and Other Intellectuals) on the Russia-Ukraine War](https://blogs.berkeley.edu/2022/05/19/open-letter-to-noam-chomsky-and-other-like-minded-intellectuals-on-the-russia-ukraine-war/)
+* [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-21, 12:12:54](https://news.ycombinator.com/item?id=31457181) - [Interland: The Country in the Intersection](https://maximumprogress.substack.com/p/interland-the-country-in-the-intersection)
 * [2022-05-21, 12:02:30](https://news.ycombinator.com/item?id=31457140) - [Tinnitus Seems Linked with Sleep](https://theconversation.com/tinnitus-seems-linked-with-sleep-understanding-how-could-bring-us-closer-to-finding-a-cure-182711)
 * [2022-05-21, 12:00:10](https://news.ycombinator.com/item?id=31457131) - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
