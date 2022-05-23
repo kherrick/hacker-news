@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-05-23, 18:30:03",
+      "https://news.ycombinator.com/item?id=31483120"
+    ],
+    [
+      "Things I’d Want to See Improved in WordPress Core",
+      "https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 17:39:32",
       "https://news.ycombinator.com/item?id=31482256"
     ],
     [
       "Operator Constraints in Go",
       "https://blog.merovius.de/posts/2022-05-23-operator-constraints/"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 17:33:38",
-      "https://news.ycombinator.com/item?id=31482142"
-    ],
-    [
-      "Now Monkeypox",
-      "https://www.science.org/content/blog-post/now-monkeypox"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31481044"
     ],
     [
-      "Katherine Johnson's Actual Calculations at NASA [video]",
+      "I found Katherine Johnson's calculations at NASA [video]",
       "https://www.youtube.com/watch?v=78BdxTJ5spY"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31480320"
     ],
     [
-      "Lessons Learned from Running Apache Airflow at Scale",
+      "Lessons learned from running Apache Airflow at scale",
       "https://shopify.engineering/lessons-learned-apache-airflow-scale"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Calculations resolve controversy about the sun's chemical composition",
       "https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 15:09:02",
-      "https://news.ycombinator.com/item?id=31479979"
-    ],
-    [
-      "Open Messaging Improves Engineering Quality",
-      "https://www.mattritter.me/?p=526"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2022-05-23, 13:22:53",
+      "https://news.ycombinator.com/item?id=31478692"
+    ],
+    [
+      "A whole age of warfare sank with the Moskva",
+      "https://www.theatlantic.com/ideas/archive/2022/05/ukraine-russia-moskva-military-marine-corps/629930/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 13:12:02",
       "https://news.ycombinator.com/item?id=31478562"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-05-22, 11:43:53",
+      "https://news.ycombinator.com/item?id=31467077"
+    ],
+    [
+      "Go Nulls and SQL",
+      "https://ente.io/blog/tech/go-nulls-and-sql/"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 10:09:20",
       "https://news.ycombinator.com/item?id=31456646"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2022-05-21, 01:46:21",
-      "https://news.ycombinator.com/item?id=31454581"
-    ],
-    [
-      "NGINX Proxy Manager",
-      "https://github.com/NginxProxyManager/nginx-proxy-manager"
-    ]
-  ],
-  [
-    [
       "2022-05-20, 17:15:57",
       "https://news.ycombinator.com/item?id=31450218"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31448889"
     ],
     [
-      "Flix – Safe, Reliable, Concise, and Functional-First Programming Language",
+      "Flix – Safe, reliable, concise, and functional-first programming language",
       "https://flix.dev/"
     ]
   ],
