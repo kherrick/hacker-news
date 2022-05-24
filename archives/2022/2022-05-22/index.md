@@ -57,6 +57,7 @@
 * [2022-05-22, 11:06:47](https://news.ycombinator.com/item?id=31466885) - [Ask HN: What developer tools would you like to see?](https://news.ycombinator.com/item?id=31466885)
 * [2022-05-22, 10:45:37](https://news.ycombinator.com/item?id=31466782) - [Book Review: Making Nature](https://astralcodexten.substack.com/p/your-book-review-making-nature)
 * [2022-05-22, 09:56:54](https://news.ycombinator.com/item?id=31466515) - [C# 11 Preview Updates – Raw string literals, UTF-8 and more](https://devblogs.microsoft.com/dotnet/csharp-11-preview-updates/)
+* [2022-05-22, 09:45:21](https://news.ycombinator.com/item?id=31466441) - [The Dao of Functional Programming [pdf]](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
 * [2022-05-22, 09:39:54](https://news.ycombinator.com/item?id=31466416) - [UK Government Guidelines on Documenting APIs](https://www.gov.uk/guidance/how-to-document-apis)
 * [2022-05-22, 08:03:14](https://news.ycombinator.com/item?id=31465945) - [How does find by example work in the Pharo Finder](https://chicoary.wordpress.com/2020/05/23/how-does-find-by-example-work-in-the-pharo-finder-englished/)
 * [2022-05-22, 07:03:30](https://news.ycombinator.com/item?id=31465628) - [Rising temperatures erode human sleep globally](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)
