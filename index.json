@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-24, 09:42:58",
+      "https://news.ycombinator.com/item?id=31489937"
+    ],
+    [
+      "Browsh – A fully-modern text-based browser, rendering to TTY and browsers",
+      "https://github.com/browsh-org/browsh"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 09:13:56",
       "https://news.ycombinator.com/item?id=31489741"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-05-23, 19:02:44",
-      "https://news.ycombinator.com/item?id=31483548"
+      "2022-05-23, 17:32:18",
+      "https://news.ycombinator.com/item?id=31482116"
     ],
     [
-      "Automatic supercuts on the command line with Videogrep",
-      "https://lav.io/notes/videogrep-tutorial/"
+      "Donald Knuth on work habits, problem solving, and happiness (2020)",
+      "https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Publishing Industry",
       "https://erikhoel.substack.com/p/secrets-of-the-publishing-industry"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 05:55:48",
-      "https://news.ycombinator.com/item?id=31443856"
-    ],
-    [
-      "Code and Theory's approach to editorial web design",
-      "https://eyeondesign.aiga.org/the-era-of-nonchalant-web-design-is-here/"
     ]
   ]
 ]
