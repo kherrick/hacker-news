@@ -4,7 +4,7 @@
 * [2022-05-24, 12:32:01](https://news.ycombinator.com/item?id=31491128) - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
 * [2022-05-24, 12:18:32](https://news.ycombinator.com/item?id=31491029) - [DigitalOcean Functions: A powerful serverless computing solution](https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing)
 * [2022-05-24, 11:47:44](https://news.ycombinator.com/item?id=31490789) - [The Bitcoin Investment Thesis Is Broken](https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/)
-* [2022-05-24, 11:10:41](https://news.ycombinator.com/item?id=31490515) - [DuckDuckGo’s syndication deal with Microsoft disallows blocking of trackers](https://twitter.com/shivan_kaul/status/1528879590772338689)
+* [2022-05-24, 11:10:41](https://news.ycombinator.com/item?id=31490515) - [DuckDuckGo’s Microsoft deal disallows blocking MS trackers on 3rd party sites](https://twitter.com/shivan_kaul/status/1528879590772338689)
 * [2022-05-24, 10:48:09](https://news.ycombinator.com/item?id=31490348) - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 * [2022-05-24, 10:34:27](https://news.ycombinator.com/item?id=31490250) - [A group of open source Android apps without ads or unnecessary permissions](https://www.simplemobiletools.com/)
 * [2022-05-24, 10:12:59](https://news.ycombinator.com/item?id=31490136) - [I hate LaTeX. I love LaTeX.](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)
