@@ -19,6 +19,7 @@
 * [2022-05-23, 19:00:27](https://news.ycombinator.com/item?id=31483511) - [Interact – Online Introspection for Rust](https://github.com/interact-rs/interact)
 * [2022-05-23, 18:56:02](https://news.ycombinator.com/item?id=31483462) - [The Surprisingly Sophisticated Mind of an Insect](https://www.noemamag.com/the-surprisingly-sophisticated-mind-of-an-insect/)
 * [2022-05-23, 18:30:03](https://news.ycombinator.com/item?id=31483120) - [Things I’d Want to See Improved in WordPress Core](https://masterwp.com/5-things-id-want-to-see-improved-in-wordpress-core/)
+* [2022-05-23, 18:12:43](https://news.ycombinator.com/item?id=31482836) - [The Factoid Leveling Experience](https://www.bramadams.dev/projects/isolated-facts-leveling-up)
 * [2022-05-23, 17:39:32](https://news.ycombinator.com/item?id=31482256) - [Operator Constraints in Go](https://blog.merovius.de/posts/2022-05-23-operator-constraints/)
 * [2022-05-23, 17:33:38](https://news.ycombinator.com/item?id=31482142) - [Now Monkeypox](https://www.science.org/content/blog-post/now-monkeypox)
 * [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)

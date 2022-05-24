@@ -17,7 +17,6 @@
 * [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
 * [2022-05-24, 16:38:31](https://news.ycombinator.com/item?id=31494328) - [Show HN: SymForce – Fast symbolic computation, code generation, and optimization](https://github.com/symforce-org/symforce)
 * [2022-05-24, 16:16:53](https://news.ycombinator.com/item?id=31494001) - [Stripe App Marketplace](https://marketplace.stripe.com/)
-* [2022-05-24, 16:11:13](https://news.ycombinator.com/item?id=31493922) - [Accidentally Saving the Day](https://essays.jwatzman.org/essays/accidentally-saving-the-day.html)
 * [2022-05-24, 15:21:07](https://news.ycombinator.com/item?id=31493263) - [Show HN: My free course for learning Imba](https://scrimba.com/learn/imba)
 * [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python (2019)](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
@@ -28,6 +27,7 @@
 * [2022-05-24, 10:48:09](https://news.ycombinator.com/item?id=31490348) - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 * [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15](https://blog.google/products/maps/street-view-15-new-features/)
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
+* [2022-05-23, 18:12:43](https://news.ycombinator.com/item?id=31482836) - [The Factoid Leveling Experience](https://www.bramadams.dev/projects/isolated-facts-leveling-up)
 * [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives (2014)](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
 * [2022-05-21, 00:22:09](https://news.ycombinator.com/item?id=31454147) - [Scientists discover an ancient forest inside a giant sinkhole in China](https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest)
 
