@@ -57,6 +57,7 @@
 * [2022-05-21, 12:00:10](https://news.ycombinator.com/item?id=31457131) - [Parker (YC W19) Is Hiring First PM](https://www.ycombinator.com/companies/parker/jobs/kmHEV4X-founding-product-manager)
 * [2022-05-21, 11:49:36](https://news.ycombinator.com/item?id=31457072) - [Enslaved Haitians did the impossible. They ousted their French masters](https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html)
 * [2022-05-21, 11:46:41](https://news.ycombinator.com/item?id=31457057) - [This week's archaeological news: Underground stone circles and ancient trade](https://ancientbeat.substack.com/p/-ancient-beat-12)
+* [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 11:43:41](https://news.ycombinator.com/item?id=31457042) - [Walking While Black (2016)](https://lithub.com/walking-while-black/)
 * [2022-05-21, 11:17:24](https://news.ycombinator.com/item?id=31456918) - [List of Worker-Owned Tech Cooperatives Worldwide](https://github.com/hng/tech-coops)
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)

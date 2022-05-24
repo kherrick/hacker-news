@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-24, 07:00:11](https://news.ycombinator.com/item?id=31488879) - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
+* [2022-05-24, 06:42:37](https://news.ycombinator.com/item?id=31488778) - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 * [2022-05-24, 06:15:13](https://news.ycombinator.com/item?id=31488608) - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 * [2022-05-24, 05:49:35](https://news.ycombinator.com/item?id=31488455) - [Man Uploads 2M YouTube Videos](https://thenewleafjournal.com/leaf/man-uploads-2000000-youtube-videos/)
 * [2022-05-24, 05:46:26](https://news.ycombinator.com/item?id=31488436) - [The Xinjiang Police Files](https://www.xinjiangpolicefiles.org/)
@@ -24,10 +25,9 @@
 * [2022-05-23, 16:21:12](https://news.ycombinator.com/item?id=31481044) - [I found Katherine Johnson's calculations at NASA [video]](https://www.youtube.com/watch?v=78BdxTJ5spY)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:02:35](https://news.ycombinator.com/item?id=31476078) - [That Ban(e) of Indian Music: Hearing Politics in the Harmonium [pdf]](https://www.ocf.berkeley.edu/~mrahaim/that%20ban%28e%29%20of%20indian%20music.pdf)
-* [2022-05-21, 13:46:54](https://news.ycombinator.com/item?id=31457864) - [IntyOS, an operating system for the Intellivision (2003)](http://intyos.free.fr/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
+* [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 10:15:07](https://news.ycombinator.com/item?id=31456667) - [A Visual History of Delicious Bookmarks (2020)](http://outer-outer.space/visual-history-of-delicious-bookmarks/)
-* [2022-05-20, 15:32:50](https://news.ycombinator.com/item?id=31448846) - [Amazon Redshift re-invented](https://www.amazon.science/publications/amazon-redshift-re-invented)
 * [2022-05-20, 06:02:21](https://news.ycombinator.com/item?id=31443890) - [The Publishing Industry](https://erikhoel.substack.com/p/secrets-of-the-publishing-industry)
 * [2022-05-20, 05:55:48](https://news.ycombinator.com/item?id=31443856) - [Code and Theory's approach to editorial web design](https://eyeondesign.aiga.org/the-era-of-nonchalant-web-design-is-here/)
 

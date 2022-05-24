@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
 * [2022-05-24, 07:00:11](https://news.ycombinator.com/item?id=31488879) - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
+* [2022-05-24, 06:42:37](https://news.ycombinator.com/item?id=31488778) - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 * [2022-05-24, 06:15:13](https://news.ycombinator.com/item?id=31488608) - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 * [2022-05-24, 05:49:35](https://news.ycombinator.com/item?id=31488455) - [Man Uploads 2M YouTube Videos](https://thenewleafjournal.com/leaf/man-uploads-2000000-youtube-videos/)
 * [2022-05-24, 05:46:26](https://news.ycombinator.com/item?id=31488436) - [The Xinjiang Police Files](https://www.xinjiangpolicefiles.org/)
