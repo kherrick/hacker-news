@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 09:42:58](https://news.ycombinator.com/item?id=31489937) - [Browsh – A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
 * [2022-05-24, 09:13:56](https://news.ycombinator.com/item?id=31489741) - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
 * [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15 with a new camera and fresh features](https://blog.google/products/maps/street-view-15-new-features/)
 * [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
@@ -23,13 +24,12 @@
 * [2022-05-23, 21:37:17](https://news.ycombinator.com/item?id=31485073) - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
-* [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
+* [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 * [2022-05-23, 06:06:14](https://news.ycombinator.com/item?id=31475779) - [Concise Encoding: A secure data format for a modern world](https://concise-encoding.org/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 * [2022-05-20, 06:02:21](https://news.ycombinator.com/item?id=31443890) - [The Publishing Industry](https://erikhoel.substack.com/p/secrets-of-the-publishing-industry)
-* [2022-05-20, 05:55:48](https://news.ycombinator.com/item?id=31443856) - [Code and Theory's approach to editorial web design](https://eyeondesign.aiga.org/the-era-of-nonchalant-web-design-is-here/)
 
 ## [Archives](archives/index.md)
 
