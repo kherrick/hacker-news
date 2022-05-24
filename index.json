@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-05-24, 12:32:01",
+      "https://news.ycombinator.com/item?id=31491128"
+    ],
+    [
+      "Logitech MX Mechanical Keyboard",
+      "https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 12:18:32",
+      "https://news.ycombinator.com/item?id=31491029"
+    ],
+    [
+      "DigitalOcean Functions: A powerful serverless computing solution",
+      "https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 11:47:44",
+      "https://news.ycombinator.com/item?id=31490789"
+    ],
+    [
+      "The Bitcoin Investment Thesis Is Broken",
+      "https://www.iansbnr.com/the-bitcoin-investment-thesis-is-broken/"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 11:10:41",
+      "https://news.ycombinator.com/item?id=31490515"
+    ],
+    [
+      "DuckDuckGo’s syndication deal with Microsoft disallows blocking of trackers",
+      "https://twitter.com/shivan_kaul/status/1528879590772338689"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 10:48:09",
       "https://news.ycombinator.com/item?id=31490348"
     ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31489076"
     ],
     [
-      "CSAM: EU Commission's lies uncovered. Surveillance will not save the children",
+      "Data shows that the EU's CSAM scanning will not have the intended effect",
       "https://tutanota.com/blog/posts/eu-csam-scanning/"
     ]
   ],
@@ -141,21 +181,11 @@
   ],
   [
     [
-      "2022-05-24, 05:46:26",
-      "https://news.ycombinator.com/item?id=31488436"
-    ],
-    [
-      "The Xinjiang Police Files",
-      "https://www.xinjiangpolicefiles.org/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 02:40:49",
       "https://news.ycombinator.com/item?id=31487436"
     ],
     [
-      "(Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System",
+      "Unofficial firmware upgrade for Dyson V6/V7 vacuum battery management system",
       "https://github.com/tinfever/FU-Dyson-BMS"
     ]
   ],
@@ -167,16 +197,6 @@
     [
       "Much philanthropy is a routinized exchange between salaried bureaucrats",
       "https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 01:41:16",
-      "https://news.ycombinator.com/item?id=31487079"
-    ],
-    [
-      "The Future of the Gitlab Web IDE",
-      "https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2022-05-23, 22:37:21",
-      "https://news.ycombinator.com/item?id=31485710"
-    ],
-    [
-      "First human injected with cancer-killing virus in clinical trial",
-      "https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 21:48:58",
       "https://news.ycombinator.com/item?id=31485200"
     ],
     [
       "Growing food in hard clay",
       "https://www.unprepared.life/p/how-one-woman-grows-food-in-hard"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 21:37:17",
-      "https://news.ycombinator.com/item?id=31485073"
-    ],
-    [
-      "Next.js Layouts RFC: Nested routes and layouts, designed for Server Components",
-      "https://nextjs.org/blog/layouts-rfc"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 21:00:30",
-      "https://news.ycombinator.com/item?id=31484713"
-    ],
-    [
-      "TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems",
-      "https://docs.tinyusb.org/en/latest/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Concise Encoding: A secure data format for a modern world",
       "https://concise-encoding.org/"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 17:15:07",
+      "https://news.ycombinator.com/item?id=31459745"
+    ],
+    [
+      "Databases = Frameworks for Distributed Systems",
+      "https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/"
     ]
   ],
   [
