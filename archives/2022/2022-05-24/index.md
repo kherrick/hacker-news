@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 06:15:13](https://news.ycombinator.com/item?id=31488608) - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 * [2022-05-24, 03:21:29](https://news.ycombinator.com/item?id=31487650) - [Many graduate programs are “scams,” according to higher education policy analyst](https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/)
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487646) - [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
