@@ -7,6 +7,7 @@
 * [2022-05-24, 20:09:16](https://news.ycombinator.com/item?id=31496979) - [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
 * [2022-05-24, 19:55:35](https://news.ycombinator.com/item?id=31496816) - [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
 * [2022-05-24, 19:51:10](https://news.ycombinator.com/item?id=31496772) - [Data Science in Context – Peter Norvig's New Book](https://datascienceincontext.com/)
+* [2022-05-24, 19:48:33](https://news.ycombinator.com/item?id=31496744) - [Fly Machines: An API for Fast-Booting VMs](https://fly.io/blog/fly-machines/)
 * [2022-05-24, 19:17:59](https://news.ycombinator.com/item?id=31496375) - [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
 * [2022-05-24, 19:00:31](https://news.ycombinator.com/item?id=31496168) - [Linode Managed Databases](https://www.linode.com/products/databases/)
 * [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
