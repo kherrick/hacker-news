@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-05-24, 08:49:48",
+      "https://news.ycombinator.com/item?id=31489596"
+    ],
+    [
+      "Street View turns 15 with a new camera and fresh features",
+      "https://blog.google/products/maps/street-view-15-new-features/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 08:07:55",
       "https://news.ycombinator.com/item?id=31489310"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-23, 21:48:58",
-      "https://news.ycombinator.com/item?id=31485200"
-    ],
-    [
-      "Growing food in hard clay",
-      "https://www.unprepared.life/p/how-one-woman-grows-food-in-hard"
-    ]
-  ],
-  [
-    [
       "2022-05-23, 20:44:36",
       "https://news.ycombinator.com/item?id=31484562"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-05-22, 09:45:21",
+      "https://news.ycombinator.com/item?id=31466441"
+    ],
+    [
+      "The Dao of Functional Programming [pdf]",
+      "https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 17:15:07",
       "https://news.ycombinator.com/item?id=31459745"
     ],
     [
       "Databases = Frameworks for Distributed Systems",
       "https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2022-05-21, 12:14:35",
-      "https://news.ycombinator.com/item?id=31457188"
-    ],
-    [
-      "The unreasonable effectiveness of f-strings and re.verbose",
-      "https://death.andgravity.com/f-re"
     ]
   ],
   [
