@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-24, 03:21:29](https://news.ycombinator.com/item?id=31487650) - [Many graduate programs are “scams,” according to higher education policy analyst](https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/)
+* [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487646) - [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
 * [2022-05-24, 02:26:36](https://news.ycombinator.com/item?id=31487351) - [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 * [2022-05-24, 01:41:16](https://news.ycombinator.com/item?id=31487079) - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 * [2022-05-24, 01:36:07](https://news.ycombinator.com/item?id=31487044) - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
@@ -22,14 +23,13 @@
 * [2022-05-23, 16:21:12](https://news.ycombinator.com/item?id=31481044) - [I found Katherine Johnson's calculations at NASA [video]](https://www.youtube.com/watch?v=78BdxTJ5spY)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons learned from running Apache Airflow at scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper use of Git tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
-* [2022-05-23, 13:12:02](https://news.ycombinator.com/item?id=31478562) - [How Uber Uses Zig](https://jakstys.lt/2022/how-uber-uses-zig/)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:02:35](https://news.ycombinator.com/item?id=31476078) - [That Ban(e) of Indian Music: Hearing Politics in the Harmonium [pdf]](https://www.ocf.berkeley.edu/~mrahaim/that%20ban%28e%29%20of%20indian%20music.pdf)
-* [2022-05-22, 11:43:53](https://news.ycombinator.com/item?id=31467077) - [Go nulls and SQL](https://ente.io/blog/tech/go-nulls-and-sql/)
 * [2022-05-21, 13:46:54](https://news.ycombinator.com/item?id=31457864) - [IntyOS, an operating system for the Intellivision (2003)](http://intyos.free.fr/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-20, 15:35:41](https://news.ycombinator.com/item?id=31448889) - [Flix – Safe, reliable, concise, and functional-first programming language](https://flix.dev/)
 * [2022-05-20, 15:32:50](https://news.ycombinator.com/item?id=31448846) - [Amazon Redshift re-invented](https://www.amazon.science/publications/amazon-redshift-re-invented)
+* [2022-05-20, 05:55:48](https://news.ycombinator.com/item?id=31443856) - [The Era of Rebellious Web Design Is Here](https://eyeondesign.aiga.org/the-era-of-nonchalant-web-design-is-here/)
 
 ## [Archives](archives/index.md)
 

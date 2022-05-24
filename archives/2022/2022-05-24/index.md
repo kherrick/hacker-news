@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
 * [2022-05-24, 03:21:29](https://news.ycombinator.com/item?id=31487650) - [Many graduate programs are “scams,” according to higher education policy analyst](https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/)
+* [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487646) - [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
 * [2022-05-24, 02:26:36](https://news.ycombinator.com/item?id=31487351) - [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 * [2022-05-24, 01:41:16](https://news.ycombinator.com/item?id=31487079) - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 * [2022-05-24, 01:36:07](https://news.ycombinator.com/item?id=31487044) - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
