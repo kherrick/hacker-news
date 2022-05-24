@@ -53,6 +53,7 @@
 * [2022-05-23, 12:48:20](https://news.ycombinator.com/item?id=31478312) - [Safety and Performance – Threadsafe Datastructures in C++](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 * [2022-05-23, 12:48:09](https://news.ycombinator.com/item?id=31478308) - [Intelligent Indentation, Seriously](http://intellindent.info/seriously/)
 * [2022-05-23, 12:47:10](https://news.ycombinator.com/item?id=31478297) - [Mountains of sugar have been found in the ocean under seagrass meadows](https://www.theweathernetwork.com/en/news/climate/solutions/mountains-of-sugar-found-in-the-ocean-under-seagrass-meadows)
+* [2022-05-23, 12:36:12](https://news.ycombinator.com/item?id=31478189) - [AWS Should Be Easy](https://github.com/nathants/libaws)
 * [2022-05-23, 12:03:54](https://news.ycombinator.com/item?id=31477936) - [You feel like shit: An interactive self care guide](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
 * [2022-05-23, 11:57:43](https://news.ycombinator.com/item?id=31477880) - [Ghost 5.0](https://ghost.org/changelog/5/)
 * [2022-05-23, 11:39:32](https://news.ycombinator.com/item?id=31477741) - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)

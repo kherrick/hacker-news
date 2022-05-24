@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:19:17](https://news.ycombinator.com/item?id=31494908) - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
 * [2022-05-24, 17:02:23](https://news.ycombinator.com/item?id=31494678) - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
