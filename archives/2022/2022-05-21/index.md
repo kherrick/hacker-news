@@ -62,6 +62,7 @@
 * [2022-05-21, 11:05:17](https://news.ycombinator.com/item?id=31456867) - [Before Ships Used GPS, There Was the Fresnel Lens](https://spectrum.ieee.org/fresnel-lens-milestone)
 * [2022-05-21, 10:40:50](https://news.ycombinator.com/item?id=31456763) - [Apple Shipped Me a 79-Pound iPhone Repair Kit to Fix a 1.1-Ounce Battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
 * [2022-05-21, 10:34:39](https://news.ycombinator.com/item?id=31456737) - [The Discoveries of Continuation [pdf]](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf)
+* [2022-05-21, 10:15:07](https://news.ycombinator.com/item?id=31456667) - [A Visual History of Delicious Bookmarks (2020)](http://outer-outer.space/visual-history-of-delicious-bookmarks/)
 * [2022-05-21, 10:09:20](https://news.ycombinator.com/item?id=31456646) - [AMD Xilinx Kria KR260 Robotics Kit Launched](https://www.servethehome.com/amd-xilinx-kria-kr260-robotics-kit-launched/)
 * [2022-05-21, 09:41:28](https://news.ycombinator.com/item?id=31456550) - [Language Design in the Real World](https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/)
 * [2022-05-21, 09:33:18](https://news.ycombinator.com/item?id=31456519) - [Considerations for Incremental Static Regeneration in Next.js](https://www.csrhymes.com/2022/05/18/considerations-for-incremental-static-regeneration.html)
