@@ -4,4 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 02:26:36](https://news.ycombinator.com/item?id=31487351) - [Would the World Be Better Off Without Philanthropists?](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
+* [2022-05-24, 01:41:16](https://news.ycombinator.com/item?id=31487079) - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
+* [2022-05-24, 01:36:07](https://news.ycombinator.com/item?id=31487044) - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
+* [2022-05-24, 01:13:08](https://news.ycombinator.com/item?id=31486885) - [Expert: Monkeypox likely spread by sex at 2 raves in Europe](https://apnews.com/article/health-world-organization-united-nations-animals-72a9efaaf5b55ace396398b839847505)
 * [2022-05-24, 00:31:08](https://news.ycombinator.com/item?id=31486590) - [I made an AI write a story about AI then I made another AI illustrate it](https://tristrumtuttle.medium.com/the-day-i-became-friends-with-a-robot-86433f707fad)
