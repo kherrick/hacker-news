@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 09:13:56](https://news.ycombinator.com/item?id=31489741) - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
+* [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15 with a new camera and fresh features](https://blog.google/products/maps/street-view-15-new-features/)
 * [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
 * [2022-05-24, 07:56:29](https://news.ycombinator.com/item?id=31489238) - [The hollow universe of modern physics](http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html)
 * [2022-05-24, 07:34:46](https://news.ycombinator.com/item?id=31489130) - [FreeBSD on the Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)

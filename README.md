@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 09:13:56](https://news.ycombinator.com/item?id=31489741) - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
+* [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15 with a new camera and fresh features](https://blog.google/products/maps/street-view-15-new-features/)
 * [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
 * [2022-05-24, 07:56:29](https://news.ycombinator.com/item?id=31489238) - [The hollow universe of modern physics](http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html)
 * [2022-05-24, 07:34:46](https://news.ycombinator.com/item?id=31489130) - [FreeBSD on the Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)
@@ -13,7 +15,6 @@
 * [2022-05-24, 02:40:49](https://news.ycombinator.com/item?id=31487436) - [(Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System](https://github.com/tinfever/FU-Dyson-BMS)
 * [2022-05-24, 02:26:36](https://news.ycombinator.com/item?id=31487351) - [Much philanthropy is a routinized exchange between salaried bureaucrats](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 * [2022-05-24, 01:41:16](https://news.ycombinator.com/item?id=31487079) - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
-* [2022-05-24, 01:36:07](https://news.ycombinator.com/item?id=31487044) - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
 * [2022-05-24, 00:31:08](https://news.ycombinator.com/item?id=31486590) - [I made an AI write a story about AI then I made another AI illustrate it](https://tristrumtuttle.medium.com/the-day-i-became-friends-with-a-robot-86433f707fad)
 * [2022-05-23, 23:21:33](https://news.ycombinator.com/item?id=31486083) - [Starlink for RVs](https://www.starlink.com/rv)
 * [2022-05-23, 22:59:35](https://news.ycombinator.com/item?id=31485898) - [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
@@ -23,11 +24,10 @@
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
 * [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
-* [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 * [2022-05-23, 06:06:14](https://news.ycombinator.com/item?id=31475779) - [Concise Encoding: A secure data format for a modern world](https://concise-encoding.org/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
-* [2022-05-21, 10:15:07](https://news.ycombinator.com/item?id=31456667) - [A Visual History of Delicious Bookmarks (2020)](http://outer-outer.space/visual-history-of-delicious-bookmarks/)
+* [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 * [2022-05-20, 06:02:21](https://news.ycombinator.com/item?id=31443890) - [The Publishing Industry](https://erikhoel.substack.com/p/secrets-of-the-publishing-industry)
 * [2022-05-20, 05:55:48](https://news.ycombinator.com/item?id=31443856) - [Code and Theory's approach to editorial web design](https://eyeondesign.aiga.org/the-era-of-nonchalant-web-design-is-here/)
 
