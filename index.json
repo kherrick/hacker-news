@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-05-24, 20:09:16",
+      "https://news.ycombinator.com/item?id=31496979"
+    ],
+    [
+      "Kids in the Hall: Comedy Punks",
+      "https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 19:55:35",
       "https://news.ycombinator.com/item?id=31496816"
     ],
     [
       "Leslie Lamport revolutionized computer science with math [video]",
       "https://www.youtube.com/watch?v=rkZzg7Vowao"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 19:17:59",
-      "https://news.ycombinator.com/item?id=31496375"
-    ],
-    [
-      "SARS2 infects the Neurons before it is seen in the Blood",
-      "https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31495049"
     ],
     [
-      "YouTubeDrive: Store Files as YouTube Videos",
+      "YouTubeDrive: Store files as YouTube videos",
       "https://github.com/dzhang314/YouTubeDrive"
     ]
   ],
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=31494825"
     ],
     [
-      "Extracting TLS keys from an unwilling application",
+      "Extracting TLS keys from an unwilling application (2020)",
       "http://m1el.github.io/oculus-tls-extract/"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 17:02:02",
+      "https://news.ycombinator.com/item?id=31494671"
+    ],
+    [
+      "Why isn’t new technology making us more productive?",
+      "https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html"
     ]
   ],
   [
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=31494585"
     ],
     [
-      "How We Put IPFS in Brave (2021)",
+      "How we put IPFS in Brave (2021)",
       "https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 16:39:18",
-      "https://news.ycombinator.com/item?id=31494343"
-    ],
-    [
-      "Hetzner subsea fibre cut outage",
-      "https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "PlanetScale Portals: Read-only regions",
       "https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 15:50:49",
-      "https://news.ycombinator.com/item?id=31493649"
-    ],
-    [
-      "Docker Acquires Tilt",
-      "https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2022-05-24, 10:34:27",
-      "https://news.ycombinator.com/item?id=31490250"
-    ],
-    [
-      "A group of open source Android apps without ads or unnecessary permissions",
-      "https://www.simplemobiletools.com/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 10:12:59",
       "https://news.ycombinator.com/item?id=31490136"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2022-05-24, 08:49:48",
+      "https://news.ycombinator.com/item?id=31489596"
+    ],
+    [
+      "Street View turns 15",
+      "https://blog.google/products/maps/street-view-15-new-features/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 03:21:06",
       "https://news.ycombinator.com/item?id=31487645"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31478189"
     ],
     [
-      "AWS Should Be Easy",
+      "Libaws: A simpler way to declare AWS infrastructure",
       "https://github.com/nathants/libaws"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Show HN: Arttime – CLI art meets functionality",
       "https://github.com/reportaman/arttime"
+    ]
+  ],
+  [
+    [
+      "2022-05-22, 09:45:21",
+      "https://news.ycombinator.com/item?id=31466441"
+    ],
+    [
+      "The Dao of Functional Programming [pdf]",
+      "https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf"
     ]
   ],
   [
