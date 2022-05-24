@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 19:17:59](https://news.ycombinator.com/item?id=31496375) - [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
 * [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:19:17](https://news.ycombinator.com/item?id=31494908) - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
@@ -18,7 +19,6 @@
 * [2022-05-24, 13:57:55](https://news.ycombinator.com/item?id=31492174) - [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-24, 12:32:01](https://news.ycombinator.com/item?id=31491128) - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
-* [2022-05-24, 11:10:41](https://news.ycombinator.com/item?id=31490515) - [DuckDuckGo’s Microsoft deal disallows blocking MS trackers on 3rd party sites](https://twitter.com/shivan_kaul/status/1528879590772338689)
 * [2022-05-24, 10:48:09](https://news.ycombinator.com/item?id=31490348) - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 * [2022-05-24, 10:34:27](https://news.ycombinator.com/item?id=31490250) - [A group of open source Android apps without ads or unnecessary permissions](https://www.simplemobiletools.com/)
 * [2022-05-24, 10:12:59](https://news.ycombinator.com/item?id=31490136) - [I hate LaTeX, I love LaTeX](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)

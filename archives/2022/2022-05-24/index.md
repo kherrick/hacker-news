@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 19:17:59](https://news.ycombinator.com/item?id=31496375) - [SARS2 infects the Neurons before it is seen in the Blood](https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1)
 * [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:19:17](https://news.ycombinator.com/item?id=31494908) - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
