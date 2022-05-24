@@ -24,11 +24,11 @@
 * [2022-05-23, 21:37:17](https://news.ycombinator.com/item?id=31485073) - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
-* [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 * [2022-05-23, 06:06:14](https://news.ycombinator.com/item?id=31475779) - [Concise Encoding: A secure data format for a modern world](https://concise-encoding.org/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+* [2022-05-20, 10:41:19](https://news.ycombinator.com/item?id=31445570) - [Niklas Luhmann was OK with losing notes](https://writing.bobdoto.computer/linking-new-notes-and-fearing-lost-ones/)
 * [2022-05-20, 06:02:21](https://news.ycombinator.com/item?id=31443890) - [The Publishing Industry](https://erikhoel.substack.com/p/secrets-of-the-publishing-industry)
 
 ## [Archives](archives/index.md)
