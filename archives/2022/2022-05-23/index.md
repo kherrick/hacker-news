@@ -65,6 +65,7 @@
 * [2022-05-23, 08:29:29](https://news.ycombinator.com/item?id=31476551) - [Crypto assets are ‘worth nothing,’ says ECB’s Christine Lagarde](https://www.politico.eu/article/crypto-assets-worth-nothing-ecb-christine-lagarde/)
 * [2022-05-23, 08:24:25](https://news.ycombinator.com/item?id=31476521) - [Useful Python Decorators for Data Scientists](https://bytepawn.com/python-decorators-for-data-scientists.html)
 * [2022-05-23, 08:23:24](https://news.ycombinator.com/item?id=31476516) - [You can preserve the Earth's livability with open source](https://opensustain.tech/blog/you_can_preserve_the_earth_s_livability_with_open_source/)
+* [2022-05-23, 08:16:33](https://news.ycombinator.com/item?id=31476481) - [Linking and Derivative Works (2004)](https://www.rosenlaw.com/lj19.htm)
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 08:10:41](https://news.ycombinator.com/item?id=31476447) - [Archaeology Institute Fighting British Museum over 3D Scans of Parthenon Marbles](https://news.artnet.com/art-world/institute-of-digital-archaeology-2096277)
 * [2022-05-23, 07:28:29](https://news.ycombinator.com/item?id=31476203) - [Where's All the Code?](https://flak.tedunangst.com/post/watc)
