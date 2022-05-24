@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
+* [2022-05-24, 17:19:17](https://news.ycombinator.com/item?id=31494908) - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
 * [2022-05-24, 17:02:23](https://news.ycombinator.com/item?id=31494678) - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
-* [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why Isn’t New Technology Making Us More Productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
 * [2022-05-24, 17:01:15](https://news.ycombinator.com/item?id=31494655) - [Courier (YC S19) is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
+* [2022-05-24, 16:56:56](https://news.ycombinator.com/item?id=31494585) - [How We Put IPFS in Brave](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/)
 * [2022-05-24, 16:50:37](https://news.ycombinator.com/item?id=31494496) - [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
 * [2022-05-24, 16:39:18](https://news.ycombinator.com/item?id=31494343) - [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)
 * [2022-05-24, 16:16:53](https://news.ycombinator.com/item?id=31494001) - [Stripe App Marketplace](https://marketplace.stripe.com/)
@@ -28,7 +29,6 @@
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
 * [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
 * [2022-05-22, 09:45:21](https://news.ycombinator.com/item?id=31466441) - [The Dao of Functional Programming [pdf]](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
-* [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 * [2022-05-21, 00:22:09](https://news.ycombinator.com/item?id=31454147) - [Scientists discover an ancient forest inside a giant sinkhole in China](https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest)
 
 ## [Archives](archives/index.md)
