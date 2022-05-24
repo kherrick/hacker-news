@@ -28,6 +28,7 @@
 * [2022-05-21, 18:42:55](https://news.ycombinator.com/item?id=31460602) - [A world grain shortage puts tens of millions at risk](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk)
 * [2022-05-21, 18:12:50](https://news.ycombinator.com/item?id=31460342) - [Histogramo – Dice Statistics on Demand](https://www.histogramo.com/)
 * [2022-05-21, 17:33:42](https://news.ycombinator.com/item?id=31459966) - [Mark Zuckerberg on Messenger (2013)](https://twitter.com/TechEmails/status/1528063312461582342)
+* [2022-05-21, 17:15:07](https://news.ycombinator.com/item?id=31459745) - [Databases = Frameworks for Distributed Systems](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/)
 * [2022-05-21, 17:02:29](https://news.ycombinator.com/item?id=31459620) - [C-Kermit Update History (since 8.0)](https://www.kermitproject.org/ckupdates.html)
 * [2022-05-21, 17:00:34](https://news.ycombinator.com/item?id=31459590) - [Dover (YC S19) is (still) hiring](https://www.dover.com/open-roles/software-engineer)
 * [2022-05-21, 16:32:51](https://news.ycombinator.com/item?id=31459316) - [The balance has shifted away from SPAs](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
