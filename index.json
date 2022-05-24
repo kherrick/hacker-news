@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-05-24, 07:56:29",
-      "https://news.ycombinator.com/item?id=31489238"
-    ],
-    [
-      "The hollow universe of modern physics",
-      "http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 07:34:46",
       "https://news.ycombinator.com/item?id=31489130"
     ],
@@ -277,6 +267,16 @@
     [
       "The unreasonable effectiveness of f-strings and re.verbose",
       "https://death.andgravity.com/f-re"
+    ]
+  ],
+  [
+    [
+      "2022-05-21, 11:43:50",
+      "https://news.ycombinator.com/item?id=31457045"
+    ],
+    [
+      "Whalesong: A Racket to JavaScript Compiler",
+      "https://www.hashcollision.org/whalesong/"
     ]
   ],
   [
