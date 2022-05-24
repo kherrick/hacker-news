@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-05-24, 17:02:23",
-      "https://news.ycombinator.com/item?id=31494678"
-    ],
-    [
-      "Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs",
-      "https://www.vantage.sh/features/autopilot"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 17:01:15",
       "https://news.ycombinator.com/item?id=31494655"
     ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=31476172"
     ],
     [
-      "What every programmer should know about solid-state drives",
+      "What every programmer should know about solid-state drives (2014)",
       "https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 05:58:04",
+      "https://news.ycombinator.com/item?id=31475739"
+    ],
+    [
+      "Show HN: Arttime – CLI art meets functionality",
+      "https://github.com/reportaman/arttime"
     ]
   ],
   [
