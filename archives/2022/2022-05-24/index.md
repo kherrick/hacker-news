@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 21:01:43](https://news.ycombinator.com/item?id=31497501) - [Tesorio (YC S15) Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
 * [2022-05-24, 20:09:16](https://news.ycombinator.com/item?id=31496979) - [Kids in the Hall: Comedy Punks](https://www.nytimes.com/2022/05/24/arts/television/kids-in-the-hall-documentary.html)
 * [2022-05-24, 19:55:35](https://news.ycombinator.com/item?id=31496816) - [Leslie Lamport revolutionized computer science with math [video]](https://www.youtube.com/watch?v=rkZzg7Vowao)
 * [2022-05-24, 19:51:10](https://news.ycombinator.com/item?id=31496772) - [Data Science in Context – Peter Norvig's New Book](https://datascienceincontext.com/)
@@ -19,12 +20,15 @@
 * [2022-05-24, 17:01:15](https://news.ycombinator.com/item?id=31494655) - [Courier (YC S19) is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
 * [2022-05-24, 16:56:56](https://news.ycombinator.com/item?id=31494585) - [How We Put IPFS in Brave](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/)
 * [2022-05-24, 16:50:37](https://news.ycombinator.com/item?id=31494496) - [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
+* [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
 * [2022-05-24, 16:39:18](https://news.ycombinator.com/item?id=31494343) - [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)
+* [2022-05-24, 16:38:31](https://news.ycombinator.com/item?id=31494328) - [Show HN: SymForce – Fast symbolic computation, code generation, and optimization](https://github.com/symforce-org/symforce)
 * [2022-05-24, 16:16:53](https://news.ycombinator.com/item?id=31494001) - [Stripe App Marketplace](https://marketplace.stripe.com/)
 * [2022-05-24, 16:11:13](https://news.ycombinator.com/item?id=31493922) - [Accidentally Saving the Day](https://essays.jwatzman.org/essays/accidentally-saving-the-day.html)
 * [2022-05-24, 16:07:56](https://news.ycombinator.com/item?id=31493881) - [PlanetScale Portals: Read-only regions](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)
 * [2022-05-24, 15:50:49](https://news.ycombinator.com/item?id=31493649) - [Docker Acquires Tilt](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 * [2022-05-24, 15:43:56](https://news.ycombinator.com/item?id=31493569) - [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
+* [2022-05-24, 15:21:07](https://news.ycombinator.com/item?id=31493263) - [Show HN: My free course for learning Imba](https://scrimba.com/learn/imba)
 * [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
