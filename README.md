@@ -6,7 +6,6 @@
 * [2022-05-24, 09:13:56](https://news.ycombinator.com/item?id=31489741) - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
 * [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15 with a new camera and fresh features](https://blog.google/products/maps/street-view-15-new-features/)
 * [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
-* [2022-05-24, 07:56:29](https://news.ycombinator.com/item?id=31489238) - [The hollow universe of modern physics](http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html)
 * [2022-05-24, 07:34:46](https://news.ycombinator.com/item?id=31489130) - [FreeBSD on the Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)
 * [2022-05-24, 07:27:49](https://news.ycombinator.com/item?id=31489076) - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 * [2022-05-24, 07:04:07](https://news.ycombinator.com/item?id=31488910) - [What One-person SaaS Healthchecks.io uses for hosting, hardware and software](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
@@ -28,6 +27,7 @@
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
 * [2022-05-23, 06:06:14](https://news.ycombinator.com/item?id=31475779) - [Concise Encoding: A secure data format for a modern world](https://concise-encoding.org/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
+* [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 * [2022-05-20, 10:41:19](https://news.ycombinator.com/item?id=31445570) - [Niklas Luhmann was OK with losing notes](https://writing.bobdoto.computer/linking-new-notes-and-fearing-lost-ones/)
 
