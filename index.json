@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-05-24, 16:16:53",
+      "https://news.ycombinator.com/item?id=31494001"
+    ],
+    [
+      "Stripe App Marketplace",
+      "https://marketplace.stripe.com/"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 16:11:13",
+      "https://news.ycombinator.com/item?id=31493922"
+    ],
+    [
+      "Accidentally Saving the Day",
+      "https://essays.jwatzman.org/essays/accidentally-saving-the-day.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 16:07:56",
+      "https://news.ycombinator.com/item?id=31493881"
+    ],
+    [
+      "PlanetScale Portals: Read-only regions",
+      "https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 15:50:49",
+      "https://news.ycombinator.com/item?id=31493649"
+    ],
+    [
+      "Docker Acquires Tilt",
+      "https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 15:43:56",
       "https://news.ycombinator.com/item?id=31493569"
     ],
     [
       "Pesticide residues could negate the health benefits of fruits and vegetables",
       "https://www.sciencedirect.com/science/article/pii/S0160412021006498"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 15:16:17",
+      "https://news.ycombinator.com/item?id=31493207"
+    ],
+    [
+      "Racket Is an Acceptable Python",
+      "https://dustycloud.org/blog/racket-is-an-acceptable-python/"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2022-05-24, 13:20:59",
-      "https://news.ycombinator.com/item?id=31491709"
-    ],
-    [
-      "Show HN: I brought the benefits of LaTeX to non technical users",
-      "https://www.monsterwriter.app/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 12:32:01",
       "https://news.ycombinator.com/item?id=31491128"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-05-24, 10:09:21",
-      "https://news.ycombinator.com/item?id=31490108"
-    ],
-    [
-      "Control Esp32 from a web panel over MQTT protocol",
-      "https://github.com/fdisotto/esp32-mqtt"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 09:42:58",
       "https://news.ycombinator.com/item?id=31489937"
     ],
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2022-05-24, 07:34:46",
-      "https://news.ycombinator.com/item?id=31489130"
-    ],
-    [
-      "FreeBSD on the Graviton 3",
-      "https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 07:27:49",
-      "https://news.ycombinator.com/item?id=31489076"
-    ],
-    [
-      "Data shows that the EU's CSAM scanning will not have the intended effect",
-      "https://tutanota.com/blog/posts/eu-csam-scanning/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 07:04:07",
       "https://news.ycombinator.com/item?id=31488910"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-05-24, 06:42:37",
-      "https://news.ycombinator.com/item?id=31488778"
-    ],
-    [
-      "Minimalism in Programming Language Design",
-      "https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 05:49:35",
       "https://news.ycombinator.com/item?id=31488455"
     ],
     [
       "A man who uploaded 2M videos to YouTube [video]",
       "https://www.youtube.com/watch?v=Olkb7fYSyiI"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 02:40:49",
-      "https://news.ycombinator.com/item?id=31487436"
-    ],
-    [
-      "Unofficial firmware upgrade for Dyson V6/V7 vacuum battery management system",
-      "https://github.com/tinfever/FU-Dyson-BMS"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Where's All the Code?",
       "https://flak.tedunangst.com/post/watc"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 07:21:06",
+      "https://news.ycombinator.com/item?id=31476172"
+    ],
+    [
+      "What every programmer should know about solid-state drives",
+      "https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/"
     ]
   ],
   [
