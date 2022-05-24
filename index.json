@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-24, 19:55:35",
+      "https://news.ycombinator.com/item?id=31496816"
+    ],
+    [
+      "Leslie Lamport revolutionized computer science with math [video]",
+      "https://www.youtube.com/watch?v=rkZzg7Vowao"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 19:17:59",
       "https://news.ycombinator.com/item?id=31496375"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2022-05-24, 19:00:31",
+      "https://news.ycombinator.com/item?id=31496168"
+    ],
+    [
+      "Linode Managed Databases",
+      "https://www.linode.com/products/databases/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 18:31:14",
       "https://news.ycombinator.com/item?id=31495836"
     ],
     [
-      "Bugs Are Evolving to Eat Plastic, Study Finds",
+      "Bugs are evolving to eat plastic, study finds",
       "https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31494585"
     ],
     [
-      "How We Put IPFS in Brave",
+      "How We Put IPFS in Brave (2021)",
       "https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-05-24, 07:04:07",
-      "https://news.ycombinator.com/item?id=31488910"
-    ],
-    [
-      "What One-person SaaS Healthchecks.io uses for hosting, hardware and software",
-      "https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 03:21:06",
       "https://news.ycombinator.com/item?id=31487645"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Arttime – CLI art meets functionality",
       "https://github.com/reportaman/arttime"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 09:45:21",
-      "https://news.ycombinator.com/item?id=31466441"
-    ],
-    [
-      "The Dao of Functional Programming [pdf]",
-      "https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf"
     ]
   ],
   [
