@@ -3,7 +3,6 @@
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
 * [2022-05-24, 13:57:55](https://news.ycombinator.com/item?id=31492174) - [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
-* [2022-05-24, 13:20:59](https://news.ycombinator.com/item?id=31491709) - [Show HN: I brought the benefits of LaTeX to non technical users](https://www.monsterwriter.app/)
 * [2022-05-24, 12:32:01](https://news.ycombinator.com/item?id=31491128) - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
 * [2022-05-24, 12:18:32](https://news.ycombinator.com/item?id=31491029) - [DigitalOcean Functions: A powerful serverless computing solution](https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing)
 * [2022-05-24, 11:10:41](https://news.ycombinator.com/item?id=31490515) - [DuckDuckGo’s Microsoft deal disallows blocking MS trackers on 3rd party sites](https://twitter.com/shivan_kaul/status/1528879590772338689)
@@ -30,6 +29,7 @@
 * [2022-05-22, 09:45:21](https://news.ycombinator.com/item?id=31466441) - [The Dao of Functional Programming [pdf]](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
 * [2022-05-21, 17:15:07](https://news.ycombinator.com/item?id=31459745) - [Databases = Frameworks for Distributed Systems](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/)
 * [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+* [2022-05-20, 14:30:26](https://news.ycombinator.com/item?id=31447930) - [The meaning of Haka for Christchurch (2019)](https://www.waikato.ac.nz/news-opinion/media/2019/the-meaning-of-haka-for-christchurch)
 
 ## [Archives](archives/index.md)
 

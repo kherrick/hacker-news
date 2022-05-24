@@ -73,6 +73,7 @@
 * [2022-05-20, 14:33:54](https://news.ycombinator.com/item?id=31447995) - [You Want My Password or a Dead Patient? [pdf]](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-05-20, 14:31:24](https://news.ycombinator.com/item?id=31447950) - [My message for founders who are worrying is simple: don’t panic](https://www.linkedin.com/posts/tommychavez_ive-had-a-lot-of-conversations-over-the-activity-6929834001432002560-VHvs)
 * [2022-05-20, 14:31:03](https://news.ycombinator.com/item?id=31447947) - [Should Freelancers Offer Free Trials?](https://thebootstrappedfounder.com/should-freelancers-offer-free-trials/)
+* [2022-05-20, 14:30:26](https://news.ycombinator.com/item?id=31447930) - [The meaning of Haka for Christchurch (2019)](https://www.waikato.ac.nz/news-opinion/media/2019/the-meaning-of-haka-for-christchurch)
 * [2022-05-20, 14:28:48](https://news.ycombinator.com/item?id=31447904) - [Red Hat Enterprise Linux (RHEL) 9 is now generally available (GA)](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 * [2022-05-20, 14:26:33](https://news.ycombinator.com/item?id=31447853) - [The Specificity Gradient](https://doriantaylor.com/the-specificity-gradient)
 * [2022-05-20, 14:21:03](https://news.ycombinator.com/item?id=31447768) - [Bruce Sterling's Cheap Truth zine (1983)](https://fanac.org/fanzines/Cheap_Truth/)
