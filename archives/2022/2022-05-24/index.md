@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
 * [2022-05-24, 07:27:49](https://news.ycombinator.com/item?id=31489076) - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 * [2022-05-24, 07:04:07](https://news.ycombinator.com/item?id=31488910) - [What One-person SaaS Healthchecks.io uses for hosting, hardware and software](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
 * [2022-05-24, 07:00:11](https://news.ycombinator.com/item?id=31488879) - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)

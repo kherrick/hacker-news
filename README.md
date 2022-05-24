@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
 * [2022-05-24, 07:27:49](https://news.ycombinator.com/item?id=31489076) - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 * [2022-05-24, 07:04:07](https://news.ycombinator.com/item?id=31488910) - [What One-person SaaS Healthchecks.io uses for hosting, hardware and software](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
 * [2022-05-24, 07:00:11](https://news.ycombinator.com/item?id=31488879) - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
@@ -22,9 +23,8 @@
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
 * [2022-05-23, 19:02:44](https://news.ycombinator.com/item?id=31483548) - [Automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/)
 * [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
-* [2022-05-23, 17:17:00](https://news.ycombinator.com/item?id=31481888) - [When everything is important but nothing is getting done](https://sharedphysics.com/everything-is-important/)
-* [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:02:35](https://news.ycombinator.com/item?id=31476078) - [That Ban(e) of Indian Music: Hearing Politics in the Harmonium [pdf]](https://www.ocf.berkeley.edu/~mrahaim/that%20ban%28e%29%20of%20indian%20music.pdf)
+* [2022-05-23, 06:06:14](https://news.ycombinator.com/item?id=31475779) - [Concise Encoding: A secure data format for a modern world](https://concise-encoding.org/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 10:15:07](https://news.ycombinator.com/item?id=31456667) - [A Visual History of Delicious Bookmarks (2020)](http://outer-outer.space/visual-history-of-delicious-bookmarks/)
