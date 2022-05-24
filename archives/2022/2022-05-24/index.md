@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 07:27:49](https://news.ycombinator.com/item?id=31489076) - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 * [2022-05-24, 07:00:11](https://news.ycombinator.com/item?id=31488879) - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
 * [2022-05-24, 06:42:37](https://news.ycombinator.com/item?id=31488778) - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 * [2022-05-24, 06:15:13](https://news.ycombinator.com/item?id=31488608) - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 07:27:49](https://news.ycombinator.com/item?id=31489076) - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 * [2022-05-24, 07:00:11](https://news.ycombinator.com/item?id=31488879) - [Supabase (YC S20) Is Hiring a Head of Documentation](https://www.ycombinator.com/companies/supabase/jobs/NlWk3Gi-head-of-documentation)
 * [2022-05-24, 06:42:37](https://news.ycombinator.com/item?id=31488778) - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 * [2022-05-24, 06:15:13](https://news.ycombinator.com/item?id=31488608) - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
@@ -23,7 +24,6 @@
 * [2022-05-23, 17:17:00](https://news.ycombinator.com/item?id=31481888) - [When everything is important but nothing is getting done](https://sharedphysics.com/everything-is-important/)
 * [2022-05-23, 16:57:39](https://news.ycombinator.com/item?id=31481581) - [Show HN: Little Procedural Pixel Worlds](https://jason.today/little-worlds)
 * [2022-05-23, 16:21:12](https://news.ycombinator.com/item?id=31481044) - [I found Katherine Johnson's calculations at NASA [video]](https://www.youtube.com/watch?v=78BdxTJ5spY)
-* [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 07:02:35](https://news.ycombinator.com/item?id=31476078) - [That Ban(e) of Indian Music: Hearing Politics in the Harmonium [pdf]](https://www.ocf.berkeley.edu/~mrahaim/that%20ban%28e%29%20of%20indian%20music.pdf)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
 * [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
