@@ -38,6 +38,7 @@
 * [2022-05-23, 15:30:56](https://news.ycombinator.com/item?id=31480306) - [Proper Use of Git Tags](https://blog.aloni.org/posts/proper-use-of-git-tags/)
 * [2022-05-23, 15:30:04](https://news.ycombinator.com/item?id=31480290) - [PhD students face cash crisis with wages that don’t cover living costs](https://www.nature.com/articles/d41586-022-01392-w)
 * [2022-05-23, 15:27:45](https://news.ycombinator.com/item?id=31480247) - [Calculations resolve controversy about the sun's chemical composition](https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html)
+* [2022-05-23, 15:25:11](https://news.ycombinator.com/item?id=31480206) - [A History of Punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation)
 * [2022-05-23, 15:09:02](https://news.ycombinator.com/item?id=31479979) - [Open Messaging Improves Engineering Quality](https://www.mattritter.me/?p=526)
 * [2022-05-23, 15:05:42](https://news.ycombinator.com/item?id=31479934) - [Don't Buy a Yeti](https://dontbuyayeti.com)
 * [2022-05-23, 14:39:39](https://news.ycombinator.com/item?id=31479615) - [I'm quitting my PhD](https://blog.derhagen.eu/2022/05/23/im-quitting-my-phd.html)
