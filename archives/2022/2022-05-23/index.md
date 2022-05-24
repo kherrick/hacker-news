@@ -69,6 +69,7 @@
 * [2022-05-23, 08:16:18](https://news.ycombinator.com/item?id=31476479) - [Business Wargames: Early Complex Text Games](https://if50.substack.com/p/business-wargames)
 * [2022-05-23, 08:10:41](https://news.ycombinator.com/item?id=31476447) - [Archaeology Institute Fighting British Museum over 3D Scans of Parthenon Marbles](https://news.artnet.com/art-world/institute-of-digital-archaeology-2096277)
 * [2022-05-23, 07:28:29](https://news.ycombinator.com/item?id=31476203) - [Where's All the Code?](https://flak.tedunangst.com/post/watc)
+* [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
 * [2022-05-23, 07:02:35](https://news.ycombinator.com/item?id=31476078) - [That Ban(e) of Indian Music: Hearing Politics in the Harmonium [pdf]](https://www.ocf.berkeley.edu/~mrahaim/that%20ban%28e%29%20of%20indian%20music.pdf)
 * [2022-05-23, 07:01:09](https://news.ycombinator.com/item?id=31476069) - [A rant on laser printers [video]](https://www.youtube.com/watch?v=m9lFcduaZPU)
 * [2022-05-23, 06:10:54](https://news.ycombinator.com/item?id=31475808) - [On Endianness](https://www.technicalsourcery.net/posts/on-endianness/)

@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 16:16:53](https://news.ycombinator.com/item?id=31494001) - [Stripe App Marketplace](https://marketplace.stripe.com/)
+* [2022-05-24, 16:11:13](https://news.ycombinator.com/item?id=31493922) - [Accidentally Saving the Day](https://essays.jwatzman.org/essays/accidentally-saving-the-day.html)
+* [2022-05-24, 16:07:56](https://news.ycombinator.com/item?id=31493881) - [PlanetScale Portals: Read-only regions](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)
+* [2022-05-24, 15:50:49](https://news.ycombinator.com/item?id=31493649) - [Docker Acquires Tilt](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 * [2022-05-24, 15:43:56](https://news.ycombinator.com/item?id=31493569) - [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
+* [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
