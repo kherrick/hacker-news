@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487646) - [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
+* [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
 * [2022-05-24, 02:26:36](https://news.ycombinator.com/item?id=31487351) - [Much philanthropy is a routinized exchange between salaried bureaucrats](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 * [2022-05-24, 01:41:16](https://news.ycombinator.com/item?id=31487079) - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
 * [2022-05-24, 01:36:07](https://news.ycombinator.com/item?id=31487044) - [Skydiving salamanders live in world’s tallest trees](https://news.berkeley.edu/2022/05/23/skydiving-salamanders-live-in-worlds-tallest-trees/)
@@ -8,7 +8,6 @@
 * [2022-05-23, 23:21:33](https://news.ycombinator.com/item?id=31486083) - [Starlink for RVs](https://www.starlink.com/rv)
 * [2022-05-23, 22:59:35](https://news.ycombinator.com/item?id=31485898) - [Show HN: IndigoStack – a new native macOS app for local web development](https://indigostack.app/)
 * [2022-05-23, 22:37:21](https://news.ycombinator.com/item?id=31485710) - [First human injected with cancer-killing virus in clinical trial](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983)
-* [2022-05-23, 22:37:03](https://news.ycombinator.com/item?id=31485706) - [Quality assurance workers at Activision Blizzard subsidiary unionize](https://www.latimes.com/business/story/2022-05-23/quality-assurance-union-at-activision-blizzard-subsidiary)
 * [2022-05-23, 21:48:58](https://news.ycombinator.com/item?id=31485200) - [Growing food in hard clay](https://www.unprepared.life/p/how-one-woman-grows-food-in-hard)
 * [2022-05-23, 21:37:17](https://news.ycombinator.com/item?id=31485073) - [Next.js Layouts RFC: Nested routes and layouts, designed for Server Components](https://nextjs.org/blog/layouts-rfc)
 * [2022-05-23, 21:00:30](https://news.ycombinator.com/item?id=31484713) - [TinyUSB: Open-source cross-platform USB Host/Device stack for embedded systems](https://docs.tinyusb.org/en/latest/)
@@ -17,6 +16,7 @@
 * [2022-05-23, 17:32:18](https://news.ycombinator.com/item?id=31482116) - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 * [2022-05-23, 17:17:26](https://news.ycombinator.com/item?id=31481895) - [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/)
 * [2022-05-23, 17:17:00](https://news.ycombinator.com/item?id=31481888) - [When everything is important but nothing is getting done](https://sharedphysics.com/everything-is-important/)
+* [2022-05-23, 17:00:06](https://news.ycombinator.com/item?id=31481629) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-05-23, 16:57:39](https://news.ycombinator.com/item?id=31481581) - [Show HN: Little Procedural Pixel Worlds](https://jason.today/little-worlds)
 * [2022-05-23, 16:21:12](https://news.ycombinator.com/item?id=31481044) - [I found Katherine Johnson's calculations at NASA [video]](https://www.youtube.com/watch?v=78BdxTJ5spY)
 * [2022-05-23, 15:31:51](https://news.ycombinator.com/item?id=31480320) - [Lessons learned from running Apache Airflow at scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
