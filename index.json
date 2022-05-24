@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-24, 17:13:07",
+      "https://news.ycombinator.com/item?id=31494825"
+    ],
+    [
+      "Extracting TLS keys from an unwilling application",
+      "http://m1el.github.io/oculus-tls-extract/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 17:02:23",
       "https://news.ycombinator.com/item?id=31494678"
     ],
@@ -217,16 +227,6 @@
     [
       "I hate LaTeX, I love LaTeX",
       "https://commutative.xyz/~miguelmurca/blog/x/illihl.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 09:42:58",
-      "https://news.ycombinator.com/item?id=31489937"
-    ],
-    [
-      "Browsh – A fully-modern text-based browser, rendering to TTY and browsers",
-      "https://github.com/browsh-org/browsh"
     ]
   ],
   [
