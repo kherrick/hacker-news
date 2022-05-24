@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-24, 08:07:55](https://news.ycombinator.com/item?id=31489310) - [Toxic Positivity](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
+* [2022-05-24, 07:56:29](https://news.ycombinator.com/item?id=31489238) - [The hollow universe of modern physics](http://edwardfeser.blogspot.com/2022/05/the-hollow-universe-of-modern-physics.html)
 * [2022-05-24, 07:34:46](https://news.ycombinator.com/item?id=31489130) - [FreeBSD on the Graviton 3](https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html)
 * [2022-05-24, 07:27:49](https://news.ycombinator.com/item?id=31489076) - [CSAM: EU Commission's lies uncovered. Surveillance will not save the children](https://tutanota.com/blog/posts/eu-csam-scanning/)
 * [2022-05-24, 07:04:07](https://news.ycombinator.com/item?id=31488910) - [What One-person SaaS Healthchecks.io uses for hosting, hardware and software](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
@@ -9,7 +10,6 @@
 * [2022-05-24, 06:15:13](https://news.ycombinator.com/item?id=31488608) - [Ask HN: Serious mathematics books that can replace a good teacher?](https://news.ycombinator.com/item?id=31488608)
 * [2022-05-24, 05:49:35](https://news.ycombinator.com/item?id=31488455) - [A man who uploaded 2M videos to YouTube [video]](https://www.youtube.com/watch?v=Olkb7fYSyiI)
 * [2022-05-24, 05:46:26](https://news.ycombinator.com/item?id=31488436) - [The Xinjiang Police Files](https://www.xinjiangpolicefiles.org/)
-* [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
 * [2022-05-24, 02:40:49](https://news.ycombinator.com/item?id=31487436) - [(Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System](https://github.com/tinfever/FU-Dyson-BMS)
 * [2022-05-24, 02:26:36](https://news.ycombinator.com/item?id=31487351) - [Much philanthropy is a routinized exchange between salaried bureaucrats](https://www.newyorker.com/magazine/2022/05/30/would-the-world-be-better-off-without-philanthropists-paul-vallely-emma-saunders-hastings)
 * [2022-05-24, 01:41:16](https://news.ycombinator.com/item?id=31487079) - [The Future of the Gitlab Web IDE](https://about.gitlab.com/blog/2022/05/23/the-future-of-the-gitlab-web-ide/)
