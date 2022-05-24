@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:02:23](https://news.ycombinator.com/item?id=31494678) - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
+* [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why Isn’t New Technology Making Us More Productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
 * [2022-05-24, 17:01:15](https://news.ycombinator.com/item?id=31494655) - [Courier (YC S19) is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
 * [2022-05-24, 16:50:37](https://news.ycombinator.com/item?id=31494496) - [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
 * [2022-05-24, 16:39:18](https://news.ycombinator.com/item?id=31494343) - [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)

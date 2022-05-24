@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:02:23](https://news.ycombinator.com/item?id=31494678) - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
+* [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why Isn’t New Technology Making Us More Productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
 * [2022-05-24, 17:01:15](https://news.ycombinator.com/item?id=31494655) - [Courier (YC S19) is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
 * [2022-05-24, 16:50:37](https://news.ycombinator.com/item?id=31494496) - [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
 * [2022-05-24, 16:39:18](https://news.ycombinator.com/item?id=31494343) - [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)
@@ -9,7 +11,7 @@
 * [2022-05-24, 16:07:56](https://news.ycombinator.com/item?id=31493881) - [PlanetScale Portals: Read-only regions](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)
 * [2022-05-24, 15:50:49](https://news.ycombinator.com/item?id=31493649) - [Docker Acquires Tilt](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 * [2022-05-24, 15:43:56](https://news.ycombinator.com/item?id=31493569) - [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
-* [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
+* [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python (2019)](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
@@ -22,14 +24,12 @@
 * [2022-05-24, 10:12:59](https://news.ycombinator.com/item?id=31490136) - [I hate LaTeX, I love LaTeX](https://commutative.xyz/~miguelmurca/blog/x/illihl.html)
 * [2022-05-24, 09:42:58](https://news.ycombinator.com/item?id=31489937) - [Browsh – A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
 * [2022-05-24, 09:13:56](https://news.ycombinator.com/item?id=31489741) - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
-* [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15](https://blog.google/products/maps/street-view-15-new-features/)
 * [2022-05-24, 07:04:07](https://news.ycombinator.com/item?id=31488910) - [What One-person SaaS Healthchecks.io uses for hosting, hardware and software](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
 * [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
 * [2022-05-22, 09:45:21](https://news.ycombinator.com/item?id=31466441) - [The Dao of Functional Programming [pdf]](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
-* [2022-05-21, 17:15:07](https://news.ycombinator.com/item?id=31459745) - [Databases = Frameworks for Distributed Systems](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/)
 * [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
-* [2022-05-20, 14:30:26](https://news.ycombinator.com/item?id=31447930) - [The meaning of Haka for Christchurch (2019)](https://www.waikato.ac.nz/news-opinion/media/2019/the-meaning-of-haka-for-christchurch)
+* [2022-05-21, 00:22:09](https://news.ycombinator.com/item?id=31454147) - [Scientists discover an ancient forest inside a giant sinkhole in China](https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest)
 
 ## [Archives](archives/index.md)
 
