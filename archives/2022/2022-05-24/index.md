@@ -8,6 +8,7 @@
 * [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs Are Evolving to Eat Plastic, Study Finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store Files as YouTube Videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:19:17](https://news.ycombinator.com/item?id=31494908) - [Show HN: Linen – Make your Discord community Google-searchable](https://www.linen.dev/)
+* [2022-05-24, 17:13:07](https://news.ycombinator.com/item?id=31494825) - [Extracting TLS keys from an unwilling application](http://m1el.github.io/oculus-tls-extract/)
 * [2022-05-24, 17:02:23](https://news.ycombinator.com/item?id=31494678) - [Show HN: Vantage Autopilot – Save 50%+ on AWS EC2 Costs](https://www.vantage.sh/features/autopilot)
 * [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why Isn’t New Technology Making Us More Productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
 * [2022-05-24, 17:01:15](https://news.ycombinator.com/item?id=31494655) - [Courier (YC S19) is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
