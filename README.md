@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-24, 10:48:09](https://news.ycombinator.com/item?id=31490348) - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
+* [2022-05-24, 10:09:21](https://news.ycombinator.com/item?id=31490108) - [Control Esp32 from a web panel over MQTT protocol](https://github.com/fdisotto/esp32-mqtt)
 * [2022-05-24, 09:42:58](https://news.ycombinator.com/item?id=31489937) - [Browsh – A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
 * [2022-05-24, 09:13:56](https://news.ycombinator.com/item?id=31489741) - [Farm vehicles approaching weights of sauropods exceed limits for soil function](https://www.pnas.org/doi/full/10.1073/pnas.2117699119)
 * [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15 with a new camera and fresh features](https://blog.google/products/maps/street-view-15-new-features/)
@@ -26,10 +28,8 @@
 * [2022-05-23, 20:44:36](https://news.ycombinator.com/item?id=31484562) - [Imagen, a text-to-image diffusion model](https://gweb-research-imagen.appspot.com/)
 * [2022-05-23, 06:06:14](https://news.ycombinator.com/item?id=31475779) - [Concise Encoding: A secure data format for a modern world](https://concise-encoding.org/)
 * [2022-05-21, 12:14:35](https://news.ycombinator.com/item?id=31457188) - [The unreasonable effectiveness of f-strings and re.verbose](https://death.andgravity.com/f-re)
-* [2022-05-21, 11:43:50](https://news.ycombinator.com/item?id=31457045) - [Whalesong: A Racket to JavaScript Compiler](https://www.hashcollision.org/whalesong/)
 * [2022-05-21, 07:11:45](https://news.ycombinator.com/item?id=31455919) - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 * [2022-05-20, 10:41:19](https://news.ycombinator.com/item?id=31445570) - [Niklas Luhmann was OK with losing notes](https://writing.bobdoto.computer/linking-new-notes-and-fearing-lost-ones/)
-* [2022-05-20, 06:02:21](https://news.ycombinator.com/item?id=31443890) - [The Publishing Industry](https://erikhoel.substack.com/p/secrets-of-the-publishing-industry)
 
 ## [Archives](archives/index.md)
 
