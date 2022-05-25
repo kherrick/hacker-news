@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 06:46:42](https://news.ycombinator.com/item?id=31501344) - [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 * [2022-05-25, 05:32:55](https://news.ycombinator.com/item?id=31500939) - [Jasonette – Native App over HTTP](https://jasonette.com/)
 * [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt (2019)](https://plundervolt.com/)
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
@@ -28,7 +29,6 @@
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-23, 18:54:39](https://news.ycombinator.com/item?id=31483446) - [Electromotive, the story of Arp Instruments (2020)](https://www.youtube.com/watch?v=l31RXiVSI9s)
-* [2022-05-23, 17:35:59](https://news.ycombinator.com/item?id=31482176) - [The Ornatrices of Londinium](https://www.laphamsquarterly.org/roundtable/ornatrices-londinium)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
 
 ## [Archives](archives/index.md)
