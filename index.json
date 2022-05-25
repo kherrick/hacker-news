@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=31504175"
     ],
     [
-      "CalyxInstitute is funding F-Droid",
+      "Our build and release infrastructure, and upcoming updates",
       "https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 13:14:23",
+      "https://news.ycombinator.com/item?id=31504052"
+    ],
+    [
+      "Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]",
+      "http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31503429"
     ],
     [
-      "'This is the Way: Invisible Jenkins' – Using OpenZiti to close all inbound ports",
+      "This is the Way: Invisible Jenkins",
       "https://netfoundry.io/this-is-the-way-invisible-jenkins/"
     ]
   ],
@@ -87,6 +97,16 @@
     [
       "Updated Proton, Unified Protection",
       "https://proton.me/news/updated-proton"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 11:50:35",
+      "https://news.ycombinator.com/item?id=31503201"
+    ],
+    [
+      "Ask HN: What game you wished existed?",
+      "https://news.ycombinator.com/item?id=31503201"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-05-25, 10:27:03",
-      "https://news.ycombinator.com/item?id=31502540"
-    ],
-    [
-      "How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less",
-      "https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 10:04:52",
       "https://news.ycombinator.com/item?id=31502432"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31502276"
     ],
     [
-      "History of 127/8 as localhost/loopback addresses?",
+      "History of 127/8 as localhost/loopback addresses (2021)",
       "https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html"
     ]
   ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2022-05-25, 08:30:44",
+      "https://news.ycombinator.com/item?id=31501897"
+    ],
+    [
+      "Statement on 4 Years of GDPR",
+      "https://noyb.eu/en/statement-4-years-gdpr"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 06:46:42",
       "https://news.ycombinator.com/item?id=31501344"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-05-25, 02:39:42",
-      "https://news.ycombinator.com/item?id=31500007"
-    ],
-    [
-      "Scrapism",
-      "https://scrapism.lav.io/"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 02:00:15",
       "https://news.ycombinator.com/item?id=31499802"
     ],
@@ -257,16 +267,6 @@
     [
       "Make Tracker Tunes in the Browser",
       "https://www.stef.be/bassoontracker/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 13:23:18",
-      "https://news.ycombinator.com/item?id=31491744"
-    ],
-    [
-      "Symbian Source Code",
-      "https://github.com/SymbianSource"
     ]
   ],
   [
