@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-25, 07:00:10](https://news.ycombinator.com/item?id=31501404) - [List of school shootings in the United States](https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States)
 * [2022-05-25, 05:32:55](https://news.ycombinator.com/item?id=31500939) - [Jasonette – Native App over HTTP](https://jasonette.com/)
 * [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt (2019)](https://plundervolt.com/)
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 * [2022-05-25, 03:39:59](https://news.ycombinator.com/item?id=31500353) - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
+* [2022-05-25, 03:09:22](https://news.ycombinator.com/item?id=31500174) - [Naur on Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
