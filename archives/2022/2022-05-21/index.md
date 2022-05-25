@@ -84,6 +84,7 @@
 * [2022-05-21, 04:40:09](https://news.ycombinator.com/item?id=31455275) - [The Atari 800XL](https://goto10.substack.com/p/800xl-inside)
 * [2022-05-21, 04:08:37](https://news.ycombinator.com/item?id=31455169) - [A simple tool to package and run distributed K8s application](https://github.com/sealerio/sealer)
 * [2022-05-21, 03:08:04](https://news.ycombinator.com/item?id=31454929) - [OPNsense DEC740 Ryzen Embedded Fanless Firewall Review (2021)](https://wiki.junicast.de/en/junicast/review/opnsense_dec740)
+* [2022-05-21, 03:02:16](https://news.ycombinator.com/item?id=31454908) - [Manual on Uniform Traffic Control Devices](https://mutcd.fhwa.dot.gov/pdfs/2009/pdf_index.htm)
 * [2022-05-21, 02:57:02](https://news.ycombinator.com/item?id=31454886) - [Locality of Behavior (Lob)](https://htmx.org/essays/locality-of-behaviour/)
 * [2022-05-21, 02:56:30](https://news.ycombinator.com/item?id=31454883) - [World’s largest vertical strawberry farm opens in Jersey City, NJ](https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/)
 * [2022-05-21, 01:47:29](https://news.ycombinator.com/item?id=31454589) - [Hacking the bureaucracy to get stuff done (2020)](https://www.zainrizvi.io/blog/hacking-the-bureaucracy-to-get-stuff-done/)
