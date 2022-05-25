@@ -15,6 +15,7 @@
 * [2022-05-22, 20:59:21](https://news.ycombinator.com/item?id=31472716) - [Details on AMD's Quirky Chipset Solutions for AM5](https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy)
 * [2022-05-22, 20:34:33](https://news.ycombinator.com/item?id=31472468) - [Programmed Inequality](https://programmedinequality.com/)
 * [2022-05-22, 20:26:10](https://news.ycombinator.com/item?id=31472378) - [Why You’ll Want to Use Skiff Mail Instead of Gmail](https://www.lifewire.com/why-youll-want-to-use-skiff-mail-instead-of-gmail-5322703)
+* [2022-05-22, 20:04:24](https://news.ycombinator.com/item?id=31472173) - [‘Making History’ Review: Writers of the Permanent Record](https://www.wsj.com/articles/making-history-book-review-writers-of-the-permanent-record-11653058211)
 * [2022-05-22, 19:56:54](https://news.ycombinator.com/item?id=31472093) - [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 * [2022-05-22, 19:27:58](https://news.ycombinator.com/item?id=31471804) - [Programming with Nothing](https://tomstu.art/programming-with-nothing)
 * [2022-05-22, 19:26:21](https://news.ycombinator.com/item?id=31471786) - [PDP-11 Resource Timesharing System (1970) [pdf]](http://s3data.computerhistory.org/brochures/digital.pdp-11.1970.102646128.pdf)

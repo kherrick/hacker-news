@@ -26,10 +26,10 @@
 * [2022-05-25, 03:09:22](https://news.ycombinator.com/item?id=31500174) - [Naur on Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
-* [2022-05-25, 01:32:19](https://news.ycombinator.com/item?id=31499629) - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 * [2022-05-23, 17:39:18](https://news.ycombinator.com/item?id=31482247) - [Alan Turing using math to repair his bike](http://mathmutation.blogspot.com/2022/05/278-bicycle-repair-man.html)
 * [2022-05-23, 17:11:19](https://news.ycombinator.com/item?id=31481813) - [The Tunitcha mountains of Arizona may be related to the word “Khan”](https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/)
 * [2022-05-23, 11:53:20](https://news.ycombinator.com/item?id=31477851) - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
+* [2022-05-22, 20:04:24](https://news.ycombinator.com/item?id=31472173) - [‘Making History’ Review: Writers of the Permanent Record](https://www.wsj.com/articles/making-history-book-review-writers-of-the-permanent-record-11653058211)
 
 ## [Archives](archives/index.md)
 
