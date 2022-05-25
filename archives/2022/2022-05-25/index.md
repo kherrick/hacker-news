@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 22:39:36](https://news.ycombinator.com/item?id=31511719) - [Original Pong did not have any code or even a microprocessor](https://www.falstad.com/pong/)
 * [2022-05-25, 22:23:54](https://news.ycombinator.com/item?id=31511485) - [We use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
 * [2022-05-25, 22:20:38](https://news.ycombinator.com/item?id=31511445) - [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
 * [2022-05-25, 22:04:26](https://news.ycombinator.com/item?id=31511274) - [Mental Illness, Mass Shootings, and the Politics of American Firearms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/)

@@ -67,6 +67,7 @@
 * [2022-05-24, 05:49:35](https://news.ycombinator.com/item?id=31488455) - [Man Uploads 2M YouTube Videos](https://thenewleafjournal.com/leaf/man-uploads-2000000-youtube-videos/)
 * [2022-05-24, 05:49:35](https://news.ycombinator.com/item?id=31488455) - [A man who uploaded 2M videos to YouTube [video]](https://www.youtube.com/watch?v=Olkb7fYSyiI)
 * [2022-05-24, 05:46:26](https://news.ycombinator.com/item?id=31488436) - [The Xinjiang Police Files](https://www.xinjiangpolicefiles.org/)
+* [2022-05-24, 03:29:19](https://news.ycombinator.com/item?id=31487679) - [Errol Morris interview with the Believer (2004)](https://www.errolmorris.com/content/interview/believer0404.html)
 * [2022-05-24, 03:21:29](https://news.ycombinator.com/item?id=31487650) - [Many graduate programs are “scams,” according to higher education policy analyst](https://www.cbsnews.com/news/graduate-programs-masters-degree-scams-negative-return-on-investment/)
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487646) - [Seven Teslas have caught fire in the last four days](https://www.plainsite.org/evfires/index.html)
 * [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
