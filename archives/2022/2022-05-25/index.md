@@ -57,6 +57,7 @@
 * [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt](https://plundervolt.com/)
 * [2022-05-25, 04:33:50](https://news.ycombinator.com/item?id=31500640) - [Lizard – efficient compression with fast decompression](https://github.com/inikep/lizard)
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
+* [2022-05-25, 03:44:29](https://news.ycombinator.com/item?id=31500378) - [Go: Functional Options Are Slow](https://www.evanjones.ca/go-functional-options-slow.html)
 * [2022-05-25, 03:39:59](https://news.ycombinator.com/item?id=31500353) - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
 * [2022-05-25, 03:09:22](https://news.ycombinator.com/item?id=31500174) - [Naur on Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
