@@ -27,9 +27,9 @@
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
-* [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives (2014)](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
 * [2022-05-21, 03:02:16](https://news.ycombinator.com/item?id=31454908) - [Manual on Uniform Traffic Control Devices](https://mutcd.fhwa.dot.gov/pdfs/2009/pdf_index.htm)
+* [2022-05-20, 09:57:09](https://news.ycombinator.com/item?id=31445310) - [Sx.el – Stack Exchange for Emacs](https://github.com/vermiculus/sx.el)
 
 ## [Archives](archives/index.md)
 
