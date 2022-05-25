@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-05-25, 22:23:54",
+      "https://news.ycombinator.com/item?id=31511485"
+    ],
+    [
+      "We use Dependabot to secure GitHub",
+      "https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 22:20:38",
+      "https://news.ycombinator.com/item?id=31511445"
+    ],
+    [
+      "Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard",
+      "https://tunnel.pyjam.as/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 22:04:26",
+      "https://news.ycombinator.com/item?id=31511274"
+    ],
+    [
+      "Mental Illness, Mass Shootings, and the Politics of American Firearms",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 21:48:06",
+      "https://news.ycombinator.com/item?id=31511056"
+    ],
+    [
+      "Jack Dorsey leaves Twitter's board of directors",
+      "https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 21:47:03",
+      "https://news.ycombinator.com/item?id=31511047"
+    ],
+    [
+      "Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon",
+      "https://www.nature.com/articles/s41586-022-04780-4"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 21:32:46",
       "https://news.ycombinator.com/item?id=31510865"
     ],
@@ -151,6 +201,16 @@
   ],
   [
     [
+      "2022-05-25, 16:49:05",
+      "https://news.ycombinator.com/item?id=31507082"
+    ],
+    [
+      "Making macOS Behave Itself",
+      "https://danmackinlay.name/notebook/macos_hacks.html"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 16:23:59",
       "https://news.ycombinator.com/item?id=31506724"
     ],
@@ -161,42 +221,12 @@
   ],
   [
     [
-      "2022-05-25, 15:31:30",
-      "https://news.ycombinator.com/item?id=31505986"
-    ],
-    [
-      "Annotated implementation of microKanren: an embeddable logic language",
-      "https://github.com/ashton314/muKanren_reading"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 15:24:45",
       "https://news.ycombinator.com/item?id=31505883"
     ],
     [
       "DARPA moving forward with nuclear thermal engine design",
       "https://orbitalindex.com/archive/2022-05-25-Issue-170/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 14:46:19",
-      "https://news.ycombinator.com/item?id=31505323"
-    ],
-    [
-      "SonoBus: High-quality, low-latency peer-to-peer audio",
-      "https://www.sonobus.net/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 13:24:12",
-      "https://news.ycombinator.com/item?id=31504175"
-    ],
-    [
-      "Our build and release infrastructure, and upcoming updates",
-      "https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html"
     ]
   ],
   [
@@ -217,26 +247,6 @@
     [
       "Ask HN: What game do you wish existed?",
       "https://news.ycombinator.com/item?id=31503201"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 11:19:50",
-      "https://news.ycombinator.com/item?id=31502917"
-    ],
-    [
-      "GameShell: A game to learn or teach the Unix shell",
-      "https://github.com/phyver/GameShell"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 10:04:52",
-      "https://news.ycombinator.com/item?id=31502432"
-    ],
-    [
-      "Credit Scores Can Run – and Ruin – Our Lives",
-      "https://thewalrus.ca/credit-score-canada/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Go: Functional Options Are Slow",
       "https://www.evanjones.ca/go-functional-options-slow.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 21:39:48",
-      "https://news.ycombinator.com/item?id=31497827"
-    ],
-    [
-      "A Kernel Hacker Meets Fuchsia OS",
-      "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"
     ]
   ],
   [
