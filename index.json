@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-25, 04:41:56",
+      "https://news.ycombinator.com/item?id=31500684"
+    ],
+    [
+      "Plundervolt",
+      "https://plundervolt.com/"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 03:50:39",
       "https://news.ycombinator.com/item?id=31500414"
     ],
     [
       "The domain for the Python Requests library is expired",
       "https://docs.python-requests.org/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 03:39:59",
+      "https://news.ycombinator.com/item?id=31500353"
+    ],
+    [
+      "How many bots are on Twitter? Question is tough to answer and misses the point",
+      "https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-05-24, 17:13:07",
-      "https://news.ycombinator.com/item?id=31494825"
-    ],
-    [
-      "Extracting TLS keys from an unwilling application (2020)",
-      "http://m1el.github.io/oculus-tls-extract/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 17:02:02",
       "https://news.ycombinator.com/item?id=31494671"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-05-23, 18:54:39",
+      "https://news.ycombinator.com/item?id=31483446"
+    ],
+    [
+      "Electromotive, the story of Arp Instruments (2020)",
+      "https://www.youtube.com/watch?v=l31RXiVSI9s"
+    ]
+  ],
+  [
+    [
       "2022-05-22, 22:46:22",
       "https://news.ycombinator.com/item?id=31473556"
     ],
     [
       "8088 PC XT Compatible Logic Board",
       "https://github.com/homebrew8088/8088-PC-Compatible"
-    ]
-  ],
-  [
-    [
-      "2022-05-21, 03:02:16",
-      "https://news.ycombinator.com/item?id=31454908"
-    ],
-    [
-      "Manual on Uniform Traffic Control Devices",
-      "https://mutcd.fhwa.dot.gov/pdfs/2009/pdf_index.htm"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 09:57:09",
-      "https://news.ycombinator.com/item?id=31445310"
-    ],
-    [
-      "Sx.el – Stack Exchange for Emacs",
-      "https://github.com/vermiculus/sx.el"
     ]
   ]
 ]
