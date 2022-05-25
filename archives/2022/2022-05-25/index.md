@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 15:49:19](https://news.ycombinator.com/item?id=31506244) - [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
+* [2022-05-25, 15:48:50](https://news.ycombinator.com/item?id=31506240) - [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
 * [2022-05-25, 15:36:38](https://news.ycombinator.com/item?id=31506054) - [GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
 * [2022-05-25, 15:31:30](https://news.ycombinator.com/item?id=31505986) - [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
 * [2022-05-25, 13:39:59](https://news.ycombinator.com/item?id=31504354) - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
