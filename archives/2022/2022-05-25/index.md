@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
 * [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
