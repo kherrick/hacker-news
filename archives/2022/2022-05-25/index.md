@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 19:01:37](https://news.ycombinator.com/item?id=31509028) - [8-bit number to binary string (2013)](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
+* [2022-05-25, 18:49:56](https://news.ycombinator.com/item?id=31508850) - [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
 * [2022-05-25, 18:20:47](https://news.ycombinator.com/item?id=31508445) - [Australia confiscated 650k guns. Murders and suicides plummeted](https://www.vox.com/2015/8/27/9212725/australia-buyback)
 * [2022-05-25, 18:07:00](https://news.ycombinator.com/item?id=31508253) - [Ask HN: What Happened to Reddit?](https://news.ycombinator.com/item?id=31508253)
 * [2022-05-25, 17:54:54](https://news.ycombinator.com/item?id=31508084) - [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-25, 18:20:47](https://news.ycombinator.com/item?id=31508445) - [Australia confiscated 650k guns. Murders and suicides plummeted](https://www.vox.com/2015/8/27/9212725/australia-buyback)
+* [2022-05-25, 19:01:37](https://news.ycombinator.com/item?id=31509028) - [8-bit number to binary string (2013)](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
+* [2022-05-25, 18:49:56](https://news.ycombinator.com/item?id=31508850) - [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
 * [2022-05-25, 18:07:00](https://news.ycombinator.com/item?id=31508253) - [Ask HN: What Happened to Reddit?](https://news.ycombinator.com/item?id=31508253)
 * [2022-05-25, 17:54:54](https://news.ycombinator.com/item?id=31508084) - [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)
 * [2022-05-25, 17:50:12](https://news.ycombinator.com/item?id=31508009) - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
@@ -23,7 +24,6 @@
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 * [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
-* [2022-05-25, 11:12:50](https://news.ycombinator.com/item?id=31502845) - [Snapcast – Synchronous multi-room audio player](https://github.com/badaix/snapcast)
 * [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run – and Ruin – Our Lives](https://thewalrus.ca/credit-score-canada/)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 04:33:50](https://news.ycombinator.com/item?id=31500640) - [Lizard – efficient compression with fast decompression](https://github.com/inikep/lizard)
