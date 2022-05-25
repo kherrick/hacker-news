@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-25, 15:36:38",
+      "https://news.ycombinator.com/item?id=31506054"
+    ],
+    [
+      "GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done",
+      "https://hamberg.no/gtd"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 15:31:30",
+      "https://news.ycombinator.com/item?id=31505986"
+    ],
+    [
+      "Annotated implementation of microKanren: an embeddable logic language",
+      "https://github.com/ashton314/muKanren_reading"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 13:39:59",
       "https://news.ycombinator.com/item?id=31504354"
     ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-05-25, 03:09:22",
-      "https://news.ycombinator.com/item?id=31500174"
-    ],
-    [
-      "Naur on Programming as Theory Building (1985) [pdf]",
-      "https://pages.cs.wisc.edu/~remzi/Naur.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 02:00:15",
-      "https://news.ycombinator.com/item?id=31499802"
-    ],
-    [
-      "Not My Job",
-      "https://blog.dbsmasher.com/2022/05/24/not-my-job.html"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 01:53:31",
       "https://news.ycombinator.com/item?id=31499766"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-05-25, 01:32:19",
-      "https://news.ycombinator.com/item?id=31499629"
-    ],
-    [
-      "Make Tracker Tunes in the Browser",
-      "https://www.stef.be/bassoontracker/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 21:39:48",
       "https://news.ycombinator.com/item?id=31497827"
     ],
     [
       "A Kernel Hacker Meets Fuchsia OS",
       "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 22:00:53",
+      "https://news.ycombinator.com/item?id=31485340"
+    ],
+    [
+      "Could this pottery shard be a 1k-year-old hand grenade?",
+      "https://arstechnica.com/science/2022/05/could-this-pottery-shard-be-a-1000-year-old-hand-grenade-signs-point-to-yes/"
     ]
   ],
   [
