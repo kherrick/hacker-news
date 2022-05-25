@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-05-25, 21:15:10",
+      "https://news.ycombinator.com/item?id=31510662"
+    ],
+    [
+      "New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)",
+      "https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 21:00:40",
       "https://news.ycombinator.com/item?id=31510476"
     ],
@@ -197,16 +207,6 @@
     [
       "Our build and release infrastructure, and upcoming updates",
       "https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 13:14:23",
-      "https://news.ycombinator.com/item?id=31504052"
-    ],
-    [
-      "Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]",
-      "http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf"
     ]
   ],
   [
