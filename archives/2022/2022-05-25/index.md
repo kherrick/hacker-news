@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 * [2022-05-25, 19:01:37](https://news.ycombinator.com/item?id=31509028) - [8-bit number to binary string (2013)](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [2022-05-25, 19:00:48](https://news.ycombinator.com/item?id=31509011) - [Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows](https://minikube.sigs.k8s.io/docs/)
