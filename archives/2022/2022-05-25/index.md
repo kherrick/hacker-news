@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 22:23:54](https://news.ycombinator.com/item?id=31511485) - [We use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
+* [2022-05-25, 22:20:38](https://news.ycombinator.com/item?id=31511445) - [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
+* [2022-05-25, 22:04:26](https://news.ycombinator.com/item?id=31511274) - [Mental Illness, Mass Shootings, and the Politics of American Firearms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/)
+* [2022-05-25, 21:48:06](https://news.ycombinator.com/item?id=31511056) - [Jack Dorsey leaves Twitter's board of directors](https://www.axios.com/2022/05/25/jack-dorsey-twitter-board)
+* [2022-05-25, 21:47:03](https://news.ycombinator.com/item?id=31511047) - [Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon](https://www.nature.com/articles/s41586-022-04780-4)
 * [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
 * [2022-05-25, 21:15:10](https://news.ycombinator.com/item?id=31510662) - [New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
 * [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
