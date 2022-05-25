@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 12:00:11](https://news.ycombinator.com/item?id=31503292) - [GiveCampus (profitable YC S15) hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
 * [2022-05-25, 10:59:46](https://news.ycombinator.com/item?id=31502748) - [Estoppel](https://ente.io/blog/r/estoppel/)
 * [2022-05-25, 10:28:26](https://news.ycombinator.com/item?id=31502545) - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
 * [2022-05-25, 10:27:03](https://news.ycombinator.com/item?id=31502540) - [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
