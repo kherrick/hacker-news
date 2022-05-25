@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
+* [2022-05-25, 21:15:10](https://news.ycombinator.com/item?id=31510662) - [New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
 * [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
@@ -20,7 +21,6 @@
 * [2022-05-25, 14:46:19](https://news.ycombinator.com/item?id=31505323) - [SonoBus: High-quality, low-latency peer-to-peer audio](https://www.sonobus.net/)
 * [2022-05-25, 13:39:59](https://news.ycombinator.com/item?id=31504354) - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 * [2022-05-25, 13:24:12](https://news.ycombinator.com/item?id=31504175) - [Our build and release infrastructure, and upcoming updates](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
-* [2022-05-25, 13:14:23](https://news.ycombinator.com/item?id=31504052) - [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 * [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
