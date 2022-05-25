@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
+* [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)

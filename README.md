@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
+* [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
@@ -12,9 +14,7 @@
 * [2022-05-25, 16:59:15](https://news.ycombinator.com/item?id=31507232) - [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
 * [2022-05-25, 16:52:45](https://news.ycombinator.com/item?id=31507132) - [Zettelkasten, linking your thinking, and Nick Milo's search for ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
 * [2022-05-25, 16:50:51](https://news.ycombinator.com/item?id=31507106) - [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
-* [2022-05-25, 16:49:05](https://news.ycombinator.com/item?id=31507082) - [Making macOS Behave Itself](https://danmackinlay.name/notebook/macos_hacks.html)
 * [2022-05-25, 16:23:59](https://news.ycombinator.com/item?id=31506724) - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
-* [2022-05-25, 16:15:16](https://news.ycombinator.com/item?id=31506622) - [The New York Times is wrong about Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)
 * [2022-05-25, 15:31:30](https://news.ycombinator.com/item?id=31505986) - [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
 * [2022-05-25, 15:24:45](https://news.ycombinator.com/item?id=31505883) - [DARPA moving forward with nuclear thermal engine design](https://orbitalindex.com/archive/2022-05-25-Issue-170/)
 * [2022-05-25, 14:46:19](https://news.ycombinator.com/item?id=31505323) - [SonoBus: High-quality, low-latency peer-to-peer audio](https://www.sonobus.net/)
@@ -24,12 +24,12 @@
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 * [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
-* [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run – and Ruin – Our Lives](https://thewalrus.ca/credit-score-canada/)
 * [2022-05-25, 09:54:54](https://news.ycombinator.com/item?id=31502376) - [An interactive browser-based zine creator](http://unicornycopia.com/ezm/)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 03:44:29](https://news.ycombinator.com/item?id=31500378) - [Go: Functional Options Are Slow](https://www.evanjones.ca/go-functional-options-slow.html)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
+* [2022-05-23, 22:27:05](https://news.ycombinator.com/item?id=31485616) - [The Nightmare of Getting Doom Running on a RS/6000 [video]](https://www.youtube.com/watch?v=XzhCGSE7KKw)
 
 ## [Archives](archives/index.md)
 
