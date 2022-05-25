@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 08:30:44](https://news.ycombinator.com/item?id=31501897) - [Statement on 4 Years of GDPR](https://noyb.eu/en/statement-4-years-gdpr)
 * [2022-05-25, 07:00:10](https://news.ycombinator.com/item?id=31501404) - [List of school shootings in the United States](https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States)
 * [2022-05-25, 06:46:42](https://news.ycombinator.com/item?id=31501344) - [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 * [2022-05-25, 05:32:55](https://news.ycombinator.com/item?id=31500939) - [Jasonette – Native App over HTTP](https://jasonette.com/)

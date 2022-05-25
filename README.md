@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 08:30:44](https://news.ycombinator.com/item?id=31501897) - [Statement on 4 Years of GDPR](https://noyb.eu/en/statement-4-years-gdpr)
 * [2022-05-25, 06:46:42](https://news.ycombinator.com/item?id=31501344) - [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 * [2022-05-25, 05:32:55](https://news.ycombinator.com/item?id=31500939) - [Jasonette – Native App over HTTP](https://jasonette.com/)
 * [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt (2019)](https://plundervolt.com/)
@@ -11,7 +12,6 @@
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
 * [2022-05-25, 01:32:19](https://news.ycombinator.com/item?id=31499629) - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 * [2022-05-24, 21:58:15](https://news.ycombinator.com/item?id=31497972) - [How we fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
-* [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
 * [2022-05-24, 21:31:53](https://news.ycombinator.com/item?id=31497765) - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
 * [2022-05-24, 21:08:16](https://news.ycombinator.com/item?id=31497555) - [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
 * [2022-05-24, 21:01:43](https://news.ycombinator.com/item?id=31497501) - [Tesorio (YC S15) Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
