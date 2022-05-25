@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-25, 17:00:30",
+      "https://news.ycombinator.com/item?id=31507252"
+    ],
+    [
+      "ReadMe (YC W15) is hiring people who love Developer Experience",
+      "https://readme.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 16:50:51",
+      "https://news.ycombinator.com/item?id=31507106"
+    ],
+    [
+      "Python utility for tracking third party dependencies within a library",
+      "https://github.com/IBM/import-tracker"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 16:23:59",
       "https://news.ycombinator.com/item?id=31506724"
     ],
     [
       "figlet – a program for making large letters out of ordinary text",
       "http://www.figlet.org/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 16:15:16",
+      "https://news.ycombinator.com/item?id=31506622"
+    ],
+    [
+      "The New York Times Is Wrong About Haiti",
+      "https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2022-05-25, 12:00:11",
-      "https://news.ycombinator.com/item?id=31503292"
-    ],
-    [
-      "GiveCampus (profitable YC S15) hiring US-remote senior software engineers",
-      "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 11:55:34",
-      "https://news.ycombinator.com/item?id=31503241"
-    ],
-    [
-      "Updated Proton, Unified Protection",
-      "https://proton.me/news/updated-proton"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 11:50:35",
       "https://news.ycombinator.com/item?id=31503201"
     ],
@@ -177,16 +187,6 @@
     [
       "Snapcast – Synchronous multi-room audio player",
       "https://github.com/badaix/snapcast"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 10:28:26",
-      "https://news.ycombinator.com/item?id=31502545"
-    ],
-    [
-      "Scalable polymer films for sustainable moisture harvesting in arid environments",
-      "https://www.nature.com/articles/s41467-022-30505-2"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-05-23, 22:00:53",
+      "https://news.ycombinator.com/item?id=31485340"
+    ],
+    [
+      "Could this pottery shard be a 1k-year-old hand grenade?",
+      "https://arstechnica.com/science/2022/05/could-this-pottery-shard-be-a-1000-year-old-hand-grenade-signs-point-to-yes/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 17:39:18",
       "https://news.ycombinator.com/item?id=31482247"
     ],
@@ -287,16 +297,6 @@
     [
       "The Tunitcha mountains of Arizona may be related to the word “Khan”",
       "https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 11:53:20",
-      "https://news.ycombinator.com/item?id=31477851"
-    ],
-    [
-      "Life Monitor",
-      "https://kevinkle.in/posts/2022-05-21-life_monitor/"
     ]
   ]
 ]
