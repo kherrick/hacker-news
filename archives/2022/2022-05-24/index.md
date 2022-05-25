@@ -26,6 +26,7 @@
 * [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why Isn’t New Technology Making Us More Productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
 * [2022-05-24, 17:01:15](https://news.ycombinator.com/item?id=31494655) - [Courier (YC S19) is hiring remote engineers to build notification infrastructure](https://jobs.lever.co/trycourier)
 * [2022-05-24, 16:56:56](https://news.ycombinator.com/item?id=31494585) - [How We Put IPFS in Brave](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/)
+* [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
 * [2022-05-24, 16:50:37](https://news.ycombinator.com/item?id=31494496) - [Framework laptop alternative with trackpoint built from NUC by prime computer](https://primecomputer.co/products/primebook-circular/)
 * [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
 * [2022-05-24, 16:39:18](https://news.ycombinator.com/item?id=31494343) - [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)

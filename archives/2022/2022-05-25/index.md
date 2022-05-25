@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 * [2022-05-25, 19:01:37](https://news.ycombinator.com/item?id=31509028) - [8-bit number to binary string (2013)](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [2022-05-25, 19:00:48](https://news.ycombinator.com/item?id=31509011) - [Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows](https://minikube.sigs.k8s.io/docs/)
 * [2022-05-25, 18:49:56](https://news.ycombinator.com/item?id=31508850) - [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
@@ -13,6 +14,7 @@
 * [2022-05-25, 17:50:12](https://news.ycombinator.com/item?id=31508009) - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
 * [2022-05-25, 17:49:42](https://news.ycombinator.com/item?id=31508000) - [Google has been DDoSing Sourcehut for over a year](https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html)
 * [2022-05-25, 17:38:40](https://news.ycombinator.com/item?id=31507819) - [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
+* [2022-05-25, 17:23:48](https://news.ycombinator.com/item?id=31507599) - [Bolt Announces Layoffs](https://www.bolt.com/blog/message-from-bolt-ceo)
 * [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
 * [2022-05-25, 16:59:15](https://news.ycombinator.com/item?id=31507232) - [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
 * [2022-05-25, 16:52:45](https://news.ycombinator.com/item?id=31507132) - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
