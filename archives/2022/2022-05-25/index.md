@@ -6,6 +6,7 @@
 
 * [2022-05-25, 13:39:59](https://news.ycombinator.com/item?id=31504354) - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 * [2022-05-25, 13:24:12](https://news.ycombinator.com/item?id=31504175) - [CalyxInstitute is funding F-Droid](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
+* [2022-05-25, 13:14:23](https://news.ycombinator.com/item?id=31504052) - [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 * [2022-05-25, 12:48:21](https://news.ycombinator.com/item?id=31503770) - [Ask HN: How do you organize your routine?](https://news.ycombinator.com/item?id=31503770)
 * [2022-05-25, 12:31:47](https://news.ycombinator.com/item?id=31503588) - [Supersonic CO2 flow during champagne cork popping](https://aip.scitation.org/doi/10.1063/5.0089774)
@@ -13,6 +14,7 @@
 * [2022-05-25, 12:16:46](https://news.ycombinator.com/item?id=31503429) - ['This is the Way: Invisible Jenkins' – Using OpenZiti to close all inbound ports](https://netfoundry.io/this-is-the-way-invisible-jenkins/)
 * [2022-05-25, 12:00:11](https://news.ycombinator.com/item?id=31503292) - [GiveCampus (profitable YC S15) hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2022-05-25, 11:55:34](https://news.ycombinator.com/item?id=31503241) - [Updated Proton, Unified Protection](https://proton.me/news/updated-proton)
+* [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game you wished existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
 * [2022-05-25, 11:12:50](https://news.ycombinator.com/item?id=31502845) - [Snapcast – Synchronous multi-room audio player](https://github.com/badaix/snapcast)
 * [2022-05-25, 10:59:46](https://news.ycombinator.com/item?id=31502748) - [Estoppel](https://ente.io/blog/r/estoppel/)
