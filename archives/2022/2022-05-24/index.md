@@ -40,6 +40,7 @@
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
 * [2022-05-24, 13:57:55](https://news.ycombinator.com/item?id=31492174) - [Chimpanzees have diverse vocal sequences with ordered recombinatorial properties](https://www.researchgate.net/publication/360622743_Chimpanzees_produce_diverse_vocal_sequences_with_ordered_and_recombinatorial_properties)
+* [2022-05-24, 13:38:59](https://news.ycombinator.com/item?id=31491928) - [Muse 2.0 - Tool for Thought on iPad and Mac](https://museapp.com)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-24, 13:20:59](https://news.ycombinator.com/item?id=31491709) - [Show HN: I brought the benefits of LaTeX to non technical users](https://www.monsterwriter.app/)
 * [2022-05-24, 12:32:01](https://news.ycombinator.com/item?id=31491128) - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)

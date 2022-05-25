@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
 * [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
+* [2022-05-25, 16:59:15](https://news.ycombinator.com/item?id=31507232) - [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
+* [2022-05-25, 16:52:45](https://news.ycombinator.com/item?id=31507132) - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
 * [2022-05-25, 16:50:51](https://news.ycombinator.com/item?id=31507106) - [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
 * [2022-05-25, 16:23:59](https://news.ycombinator.com/item?id=31506724) - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
 * [2022-05-25, 16:15:16](https://news.ycombinator.com/item?id=31506622) - [The New York Times Is Wrong About Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)
