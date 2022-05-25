@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
+* [2022-05-25, 16:50:51](https://news.ycombinator.com/item?id=31507106) - [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
 * [2022-05-25, 16:23:59](https://news.ycombinator.com/item?id=31506724) - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
+* [2022-05-25, 16:15:16](https://news.ycombinator.com/item?id=31506622) - [The New York Times Is Wrong About Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)
 * [2022-05-25, 15:49:19](https://news.ycombinator.com/item?id=31506244) - [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
 * [2022-05-25, 15:48:50](https://news.ycombinator.com/item?id=31506240) - [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
 * [2022-05-25, 15:36:38](https://news.ycombinator.com/item?id=31506054) - [GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)

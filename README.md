@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
+* [2022-05-25, 16:50:51](https://news.ycombinator.com/item?id=31507106) - [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
 * [2022-05-25, 16:23:59](https://news.ycombinator.com/item?id=31506724) - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
+* [2022-05-25, 16:15:16](https://news.ycombinator.com/item?id=31506622) - [The New York Times Is Wrong About Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)
 * [2022-05-25, 15:49:19](https://news.ycombinator.com/item?id=31506244) - [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
 * [2022-05-25, 15:48:50](https://news.ycombinator.com/item?id=31506240) - [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
 * [2022-05-25, 15:36:38](https://news.ycombinator.com/item?id=31506054) - [A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
@@ -13,12 +16,9 @@
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 * [2022-05-25, 12:31:47](https://news.ycombinator.com/item?id=31503588) - [Supersonic CO2 flow during champagne cork popping](https://aip.scitation.org/doi/10.1063/5.0089774)
 * [2022-05-25, 12:19:00](https://news.ycombinator.com/item?id=31503451) - [HTTPS Everywhere will sunset in January 2023](https://www.eff.org/https-everywhere/set-https-default-your-browser)
-* [2022-05-25, 12:00:11](https://news.ycombinator.com/item?id=31503292) - [GiveCampus (profitable YC S15) hiring US-remote senior software engineers](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
-* [2022-05-25, 11:55:34](https://news.ycombinator.com/item?id=31503241) - [Updated Proton, Unified Protection](https://proton.me/news/updated-proton)
 * [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
 * [2022-05-25, 11:12:50](https://news.ycombinator.com/item?id=31502845) - [Snapcast – Synchronous multi-room audio player](https://github.com/badaix/snapcast)
-* [2022-05-25, 10:28:26](https://news.ycombinator.com/item?id=31502545) - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
 * [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run – and Ruin – Our Lives](https://thewalrus.ca/credit-score-canada/)
 * [2022-05-25, 09:37:42](https://news.ycombinator.com/item?id=31502276) - [History of 127/8 as localhost/loopback addresses (2021)](https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
@@ -27,9 +27,9 @@
 * [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The era of borderless data is ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
+* [2022-05-23, 22:00:53](https://news.ycombinator.com/item?id=31485340) - [Could this pottery shard be a 1k-year-old hand grenade?](https://arstechnica.com/science/2022/05/could-this-pottery-shard-be-a-1000-year-old-hand-grenade-signs-point-to-yes/)
 * [2022-05-23, 17:39:18](https://news.ycombinator.com/item?id=31482247) - [Alan Turing using math to repair his bike](http://mathmutation.blogspot.com/2022/05/278-bicycle-repair-man.html)
 * [2022-05-23, 17:11:19](https://news.ycombinator.com/item?id=31481813) - [The Tunitcha mountains of Arizona may be related to the word “Khan”](https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/)
-* [2022-05-23, 11:53:20](https://news.ycombinator.com/item?id=31477851) - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
 
 ## [Archives](archives/index.md)
 
