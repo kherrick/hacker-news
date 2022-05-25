@@ -26,9 +26,9 @@
 * [2022-05-24, 16:38:31](https://news.ycombinator.com/item?id=31494328) - [Show HN: SymForce – Fast symbolic computation, code generation, and optimization](https://github.com/symforce-org/symforce)
 * [2022-05-24, 16:16:53](https://news.ycombinator.com/item?id=31494001) - [Stripe App Marketplace](https://marketplace.stripe.com/)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
-* [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-23, 18:54:39](https://news.ycombinator.com/item?id=31483446) - [Electromotive, the story of Arp Instruments (2020)](https://www.youtube.com/watch?v=l31RXiVSI9s)
+* [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives (2014)](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
 
 ## [Archives](archives/index.md)
