@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 17:50:12](https://news.ycombinator.com/item?id=31508009) - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
+* [2022-05-25, 17:38:40](https://news.ycombinator.com/item?id=31507819) - [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
 * [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
 * [2022-05-25, 16:59:15](https://news.ycombinator.com/item?id=31507232) - [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
 * [2022-05-25, 16:52:45](https://news.ycombinator.com/item?id=31507132) - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
@@ -16,7 +18,6 @@
 * [2022-05-25, 13:24:12](https://news.ycombinator.com/item?id=31504175) - [Our build and release infrastructure, and upcoming updates](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
 * [2022-05-25, 13:14:23](https://news.ycombinator.com/item?id=31504052) - [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
-* [2022-05-25, 12:31:47](https://news.ycombinator.com/item?id=31503588) - [Supersonic CO2 flow during champagne cork popping](https://aip.scitation.org/doi/10.1063/5.0089774)
 * [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
 * [2022-05-25, 11:12:50](https://news.ycombinator.com/item?id=31502845) - [Snapcast – Synchronous multi-room audio player](https://github.com/badaix/snapcast)
@@ -29,7 +30,6 @@
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 13:38:59](https://news.ycombinator.com/item?id=31491928) - [Muse 2.0 - Tool for Thought on iPad and Mac](https://museapp.com)
 * [2022-05-23, 22:00:53](https://news.ycombinator.com/item?id=31485340) - [Could this pottery shard be a 1k-year-old hand grenade?](https://arstechnica.com/science/2022/05/could-this-pottery-shard-be-a-1000-year-old-hand-grenade-signs-point-to-yes/)
-* [2022-05-23, 17:11:19](https://news.ycombinator.com/item?id=31481813) - [The Tunitcha mountains of Arizona may be related to the word “Khan”](https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/)
 
 ## [Archives](archives/index.md)
 

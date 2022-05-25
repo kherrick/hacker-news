@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 17:50:12](https://news.ycombinator.com/item?id=31508009) - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
+* [2022-05-25, 17:38:40](https://news.ycombinator.com/item?id=31507819) - [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
 * [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
 * [2022-05-25, 16:59:15](https://news.ycombinator.com/item?id=31507232) - [May 2022 core update releasing for Google Search](https://developers.google.com/search/blog/2022/05/may-2022-core-update)
 * [2022-05-25, 16:52:45](https://news.ycombinator.com/item?id=31507132) - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
