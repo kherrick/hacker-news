@@ -29,6 +29,7 @@
 * [2022-05-23, 17:17:26](https://news.ycombinator.com/item?id=31481895) - [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/)
 * [2022-05-23, 17:17:00](https://news.ycombinator.com/item?id=31481888) - [When Everything Is Important but Nothing Is Getting Done](https://sharedphysics.com/everything-is-important/)
 * [2022-05-23, 17:14:30](https://news.ycombinator.com/item?id=31481854) - [Christine Lagarde Says Crypto “Worth Nothing” & Should Be Regulated](https://www.cryptolka.com/european-central-bank-ecb-president-says-crypto-worth-nothing-and-should-be-regulated/?customize_changeset_uuid=1af9c57c-60e7-4ef2-abbd-b26d86442543)
+* [2022-05-23, 17:11:19](https://news.ycombinator.com/item?id=31481813) - [The Tunitcha mountains of Arizona may be related to the word “Khan”](https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/)
 * [2022-05-23, 17:00:06](https://news.ycombinator.com/item?id=31481629) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-05-23, 16:57:39](https://news.ycombinator.com/item?id=31481581) - [Show HN: Little Procedural Pixel Worlds](https://jason.today/little-worlds)
 * [2022-05-23, 16:46:12](https://news.ycombinator.com/item?id=31481410) - [Extend your runway, cheap money is over](https://canvasapp.com/blog/extend-your-runway-cheap-cash-is-over/)
