@@ -60,6 +60,7 @@
 * [2022-05-23, 12:36:12](https://news.ycombinator.com/item?id=31478189) - [AWS Should Be Easy](https://github.com/nathants/libaws)
 * [2022-05-23, 12:03:54](https://news.ycombinator.com/item?id=31477936) - [You feel like shit: An interactive self care guide](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
 * [2022-05-23, 11:57:43](https://news.ycombinator.com/item?id=31477880) - [Ghost 5.0](https://ghost.org/changelog/5/)
+* [2022-05-23, 11:53:20](https://news.ycombinator.com/item?id=31477851) - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
 * [2022-05-23, 11:39:32](https://news.ycombinator.com/item?id=31477741) - [Founders Resign at Mycroft.ai](https://mycroft.ai/blog/founders-resignation/)
 * [2022-05-23, 11:19:10](https://news.ycombinator.com/item?id=31477579) - [My take on “where's all the code”](https://nullprogram.com/blog/2022/05/22/)
 * [2022-05-23, 11:01:01](https://news.ycombinator.com/item?id=31477446) - [Keep the web free, say no to Web3](https://yesterweb.org/no-to-web3/)

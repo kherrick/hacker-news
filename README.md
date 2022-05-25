@@ -25,10 +25,10 @@
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store files as YouTube videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
 * [2022-05-24, 16:38:31](https://news.ycombinator.com/item?id=31494328) - [Show HN: SymForce – Fast symbolic computation, code generation, and optimization](https://github.com/symforce-org/symforce)
-* [2022-05-24, 15:21:07](https://news.ycombinator.com/item?id=31493263) - [Show HN: My free course for learning Imba](https://scrimba.com/learn/imba)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-23, 18:54:39](https://news.ycombinator.com/item?id=31483446) - [Electromotive, the story of Arp Instruments (2020)](https://www.youtube.com/watch?v=l31RXiVSI9s)
+* [2022-05-23, 11:53:20](https://news.ycombinator.com/item?id=31477851) - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
 
 ## [Archives](archives/index.md)
