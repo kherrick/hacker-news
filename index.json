@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-05-25, 01:55:16",
-      "https://news.ycombinator.com/item?id=31499775"
+      "2022-05-25, 02:39:42",
+      "https://news.ycombinator.com/item?id=31500007"
     ],
     [
-      "Bicycles Have Evolved. Have We?",
-      "https://www.newyorker.com/magazine/2022/05/30/bicycles-have-evolved-have-we-jody-rosen-two-wheels-good"
+      "Scrapism",
+      "https://scrapism.lav.io/"
     ]
   ],
   [
     [
-      "2022-05-25, 01:13:36",
-      "https://news.ycombinator.com/item?id=31499513"
+      "2022-05-25, 02:00:15",
+      "https://news.ycombinator.com/item?id=31499802"
     ],
     [
-      "Ask HN: How worried are you about the upcoming recession?",
-      "https://news.ycombinator.com/item?id=31499513"
+      "Not My Job",
+      "https://blog.dbsmasher.com/2022/05/24/not-my-job.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 01:53:31",
+      "https://news.ycombinator.com/item?id=31499766"
+    ],
+    [
+      "The great junk transfer is coming",
+      "https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 01:32:19",
+      "https://news.ycombinator.com/item?id=31499629"
+    ],
+    [
+      "Make Tracker Tunes in the Browser",
+      "https://www.stef.be/bassoontracker/"
     ]
   ],
   [
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2022-05-24, 15:21:07",
-      "https://news.ycombinator.com/item?id=31493263"
-    ],
-    [
-      "Show HN: My free course for learning Imba",
-      "https://scrimba.com/learn/imba"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 15:16:17",
-      "https://news.ycombinator.com/item?id=31493207"
-    ],
-    [
-      "Racket Is an Acceptable Python (2019)",
-      "https://dustycloud.org/blog/racket-is-an-acceptable-python/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 15:10:59",
       "https://news.ycombinator.com/item?id=31493138"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2022-05-24, 13:58:09",
+      "https://news.ycombinator.com/item?id=31492180"
+    ],
+    [
+      "Modern programming languages require generics",
+      "https://ayende.com/blog/197282-B/modern-programming-languages-require-generics"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 13:23:18",
       "https://news.ycombinator.com/item?id=31491744"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2022-05-24, 12:32:01",
-      "https://news.ycombinator.com/item?id=31491128"
+      "2022-05-23, 12:36:12",
+      "https://news.ycombinator.com/item?id=31478189"
     ],
     [
-      "Logitech MX Mechanical Keyboard",
-      "https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 08:49:48",
-      "https://news.ycombinator.com/item?id=31489596"
-    ],
-    [
-      "Street View turns 15",
-      "https://blog.google/products/maps/street-view-15-new-features/"
+      "Libaws: A simpler way to declare AWS infrastructure",
+      "https://github.com/nathants/libaws"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-05-21, 03:02:16",
+      "https://news.ycombinator.com/item?id=31454908"
+    ],
+    [
+      "Manual on Uniform Traffic Control Devices",
+      "https://mutcd.fhwa.dot.gov/pdfs/2009/pdf_index.htm"
+    ]
+  ],
+  [
+    [
       "2022-05-21, 00:22:09",
       "https://news.ycombinator.com/item?id=31454147"
     ],
     [
       "Scientists discover an ancient forest inside a giant sinkhole in China",
       "https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest"
-    ]
-  ],
-  [
-    [
-      "2022-05-20, 10:41:06",
-      "https://news.ycombinator.com/item?id=31445568"
-    ],
-    [
-      "The Bar Code (2015)",
-      "https://www.smithsonianmag.com/innovation/history-bar-code-180956704/"
     ]
   ]
 ]
