@@ -38,6 +38,7 @@
 * [2022-05-24, 15:43:56](https://news.ycombinator.com/item?id=31493569) - [Pesticide residues could negate the health benefits of fruits and vegetables](https://www.sciencedirect.com/science/article/pii/S0160412021006498)
 * [2022-05-24, 15:21:07](https://news.ycombinator.com/item?id=31493263) - [Show HN: My free course for learning Imba](https://scrimba.com/learn/imba)
 * [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
+* [2022-05-24, 15:14:44](https://news.ycombinator.com/item?id=31493179) - [California parents could soon sue for social media addiction](https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)

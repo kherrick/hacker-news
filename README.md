@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-25, 23:01:13](https://news.ycombinator.com/item?id=31511956) - [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
+* [2022-05-25, 22:58:51](https://news.ycombinator.com/item?id=31511928) - [Image editors often get color wrong](https://papaya.io/blog/perceptual-blending)
 * [2022-05-25, 22:39:36](https://news.ycombinator.com/item?id=31511719) - [Original Pong did not have any code or even a microprocessor](https://www.falstad.com/pong/)
 * [2022-05-25, 22:23:54](https://news.ycombinator.com/item?id=31511485) - [We use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
 * [2022-05-25, 22:20:38](https://news.ycombinator.com/item?id=31511445) - [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
@@ -23,11 +24,10 @@
 * [2022-05-25, 15:24:45](https://news.ycombinator.com/item?id=31505883) - [DARPA moving forward with nuclear thermal engine design](https://orbitalindex.com/archive/2022-05-25-Issue-170/)
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
 * [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
-* [2022-05-25, 09:54:54](https://news.ycombinator.com/item?id=31502376) - [An interactive browser-based zine creator](http://unicornycopia.com/ezm/)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 03:44:29](https://news.ycombinator.com/item?id=31500378) - [Go: Functional Options Are Slow](https://www.evanjones.ca/go-functional-options-slow.html)
-* [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
+* [2022-05-24, 15:14:44](https://news.ycombinator.com/item?id=31493179) - [California parents could soon sue for social media addiction](https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124)
 * [2022-05-24, 03:29:19](https://news.ycombinator.com/item?id=31487679) - [Errol Morris interview with the Believer (2004)](https://www.errolmorris.com/content/interview/believer0404.html)
 * [2022-05-23, 22:27:05](https://news.ycombinator.com/item?id=31485616) - [The Nightmare of Getting Doom Running on a RS/6000 [video]](https://www.youtube.com/watch?v=XzhCGSE7KKw)
 
