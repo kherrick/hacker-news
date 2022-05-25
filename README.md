@@ -20,7 +20,6 @@
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
 * [2022-05-24, 21:31:53](https://news.ycombinator.com/item?id=31497765) - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
 * [2022-05-24, 21:08:16](https://news.ycombinator.com/item?id=31497555) - [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
-* [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs are evolving to eat plastic, study finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 * [2022-05-24, 18:28:57](https://news.ycombinator.com/item?id=31495809) - [How I think about C99 strict aliasing rules](https://alanwu.space/post/strict-aliasing/)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store files as YouTube videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
@@ -30,6 +29,7 @@
 * [2022-05-23, 17:39:18](https://news.ycombinator.com/item?id=31482247) - [Alan Turing using math to repair his bike](http://mathmutation.blogspot.com/2022/05/278-bicycle-repair-man.html)
 * [2022-05-23, 11:53:20](https://news.ycombinator.com/item?id=31477851) - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
+* [2022-05-22, 18:49:10](https://news.ycombinator.com/item?id=31471433) - [Global Assessment Report on Disaster Risk Reduction 2022](https://www.undrr.org/publication/global-assessment-report-disaster-risk-reduction-2022)
 
 ## [Archives](archives/index.md)
 
