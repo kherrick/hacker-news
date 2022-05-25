@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-05-24, 17:13:07",
+      "https://news.ycombinator.com/item?id=31494825"
+    ],
+    [
+      "Extracting TLS keys from an unwilling application (2020)",
+      "http://m1el.github.io/oculus-tls-extract/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 17:02:02",
       "https://news.ycombinator.com/item?id=31494671"
     ],
@@ -257,16 +267,6 @@
     [
       "Zoom: Remote Code Execution with XMPP Stanza Smuggling",
       "https://bugs.chromium.org/p/project-zero/issues/detail?id=2254"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 13:58:09",
-      "https://news.ycombinator.com/item?id=31492180"
-    ],
-    [
-      "Modern programming languages require generics",
-      "https://ayende.com/blog/197282-B/modern-programming-languages-require-generics"
     ]
   ],
   [
