@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 18:20:47](https://news.ycombinator.com/item?id=31508445) - [Australia confiscated 650k guns. Murders and suicides plummeted](https://www.vox.com/2015/8/27/9212725/australia-buyback)
+* [2022-05-25, 18:07:00](https://news.ycombinator.com/item?id=31508253) - [Ask HN: What Happened to Reddit?](https://news.ycombinator.com/item?id=31508253)
+* [2022-05-25, 17:54:54](https://news.ycombinator.com/item?id=31508084) - [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)
 * [2022-05-25, 17:50:12](https://news.ycombinator.com/item?id=31508009) - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
 * [2022-05-25, 17:38:40](https://news.ycombinator.com/item?id=31507819) - [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
 * [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
@@ -22,14 +25,11 @@
 * [2022-05-25, 11:19:50](https://news.ycombinator.com/item?id=31502917) - [GameShell: A game to learn or teach the Unix shell](https://github.com/phyver/GameShell)
 * [2022-05-25, 11:12:50](https://news.ycombinator.com/item?id=31502845) - [Snapcast – Synchronous multi-room audio player](https://github.com/badaix/snapcast)
 * [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run – and Ruin – Our Lives](https://thewalrus.ca/credit-score-canada/)
-* [2022-05-25, 09:37:42](https://news.ycombinator.com/item?id=31502276) - [History of 127/8 as localhost/loopback addresses (2021)](https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
-* [2022-05-25, 08:30:44](https://news.ycombinator.com/item?id=31501897) - [Statement on 4 Years of GDPR](https://noyb.eu/en/statement-4-years-gdpr)
 * [2022-05-25, 04:33:50](https://news.ycombinator.com/item?id=31500640) - [Lizard – efficient compression with fast decompression](https://github.com/inikep/lizard)
-* [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The era of borderless data is ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
+* [2022-05-24, 20:24:04](https://news.ycombinator.com/item?id=31497139) - [Systems Interoperability Framework: open standard to link school systems](https://www.nsip.edu.au/systems-interoperability-framework)
 * [2022-05-24, 13:38:59](https://news.ycombinator.com/item?id=31491928) - [Muse 2.0 - Tool for Thought on iPad and Mac](https://museapp.com)
-* [2022-05-23, 22:00:53](https://news.ycombinator.com/item?id=31485340) - [Could this pottery shard be a 1k-year-old hand grenade?](https://arstechnica.com/science/2022/05/could-this-pottery-shard-be-a-1000-year-old-hand-grenade-signs-point-to-yes/)
 
 ## [Archives](archives/index.md)
 

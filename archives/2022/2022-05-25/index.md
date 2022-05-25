@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 18:20:47](https://news.ycombinator.com/item?id=31508445) - [Australia confiscated 650k guns. Murders and suicides plummeted](https://www.vox.com/2015/8/27/9212725/australia-buyback)
+* [2022-05-25, 18:07:00](https://news.ycombinator.com/item?id=31508253) - [Ask HN: What Happened to Reddit?](https://news.ycombinator.com/item?id=31508253)
+* [2022-05-25, 17:54:54](https://news.ycombinator.com/item?id=31508084) - [CRISPR tomatoes genetically engineered to be richer in Vitamin D](https://newatlas.com/science/tomatoes-crispr-genetic-engineering-vitamin-d/)
 * [2022-05-25, 17:50:12](https://news.ycombinator.com/item?id=31508009) - [Tell HN: I made $1000 with my app and now making $500/mo](https://news.ycombinator.com/item?id=31508009)
 * [2022-05-25, 17:38:40](https://news.ycombinator.com/item?id=31507819) - [ELT your data with PlanetScale Connect](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect)
 * [2022-05-25, 17:00:30](https://news.ycombinator.com/item?id=31507252) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
