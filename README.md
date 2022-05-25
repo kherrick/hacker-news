@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
+* [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
 * [2022-05-25, 01:32:19](https://news.ycombinator.com/item?id=31499629) - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
@@ -25,11 +26,10 @@
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
-* [2022-05-23, 12:36:12](https://news.ycombinator.com/item?id=31478189) - [Libaws: A simpler way to declare AWS infrastructure](https://github.com/nathants/libaws)
 * [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives (2014)](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
+* [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
 * [2022-05-21, 19:03:55](https://news.ycombinator.com/item?id=31460791) - [Visual Debugging Now](https://nickarner.com/notes/visual-debugging-now-may-20-2022/)
 * [2022-05-21, 03:02:16](https://news.ycombinator.com/item?id=31454908) - [Manual on Uniform Traffic Control Devices](https://mutcd.fhwa.dot.gov/pdfs/2009/pdf_index.htm)
-* [2022-05-21, 00:22:09](https://news.ycombinator.com/item?id=31454147) - [Scientists discover an ancient forest inside a giant sinkhole in China](https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest)
 
 ## [Archives](archives/index.md)
 
