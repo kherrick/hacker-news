@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-25, 20:01:10",
+      "https://news.ycombinator.com/item?id=31509777"
+    ],
+    [
+      "PSA: Serious Security Vulnerability in Tor Browser",
+      "https://darknetlive.com/post/psa-security-vuln-in-tor-browser/"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 19:01:37",
       "https://news.ycombinator.com/item?id=31509028"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2022-05-25, 17:23:48",
+      "https://news.ycombinator.com/item?id=31507599"
+    ],
+    [
+      "Bolt Announces Layoffs",
+      "https://www.bolt.com/blog/message-from-bolt-ceo"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 17:00:30",
       "https://news.ycombinator.com/item?id=31507252"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31507132"
     ],
     [
-      "Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground",
+      "Zettelkasten, linking your thinking, and Nick Milo's search for ground",
       "https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/"
     ]
   ],
@@ -127,26 +147,6 @@
     [
       "The New York Times is wrong about Haiti",
       "https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 15:49:19",
-      "https://news.ycombinator.com/item?id=31506244"
-    ],
-    [
-      "Customizing Color Fonts on the Web",
-      "https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 15:48:50",
-      "https://news.ycombinator.com/item?id=31506240"
-    ],
-    [
-      "MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM",
-      "http://www.call-with-current-continuation.org/microfleng/microfleng.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-05-24, 13:38:59",
-      "https://news.ycombinator.com/item?id=31491928"
+      "2022-05-24, 16:51:01",
+      "https://news.ycombinator.com/item?id=31494498"
     ],
     [
-      "Muse 2.0 - Tool for Thought on iPad and Mac",
-      "https://museapp.com"
+      "Show HN: Muse 2.0 with local-first sync",
+      "https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/"
     ]
   ]
 ]
