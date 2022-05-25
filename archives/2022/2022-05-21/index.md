@@ -24,6 +24,7 @@
 * [2022-05-21, 19:24:44](https://news.ycombinator.com/item?id=31460940) - [Ecto's uniqueness constraint vs. Rails' uniqueness validation](https://www.germanvelasco.com/blog/ecto-uniqueness-constraint-vs-rails-uniqueness-validation)
 * [2022-05-21, 19:23:47](https://news.ycombinator.com/item?id=31460931) - [Show HN: A fully automated podcast – actually 12 podcasts](https://anchor.fm/thp-aqu/episodes/21st-May-2022-e1ir0nk)
 * [2022-05-21, 19:16:12](https://news.ycombinator.com/item?id=31460883) - [Is VISA down everywhere in the US?](https://news.ycombinator.com/item?id=31460883)
+* [2022-05-21, 19:03:55](https://news.ycombinator.com/item?id=31460791) - [Visual Debugging Now](https://nickarner.com/notes/visual-debugging-now-may-20-2022/)
 * [2022-05-21, 18:44:29](https://news.ycombinator.com/item?id=31460626) - [Kinopio](https://kinopio.club/)
 * [2022-05-21, 18:42:55](https://news.ycombinator.com/item?id=31460602) - [A world grain shortage puts tens of millions at risk](https://www.economist.com/briefing/2022/05/19/a-world-grain-shortage-puts-tens-of-millions-at-risk)
 * [2022-05-21, 18:12:50](https://news.ycombinator.com/item?id=31460342) - [Histogramo – Dice Statistics on Demand](https://www.histogramo.com/)

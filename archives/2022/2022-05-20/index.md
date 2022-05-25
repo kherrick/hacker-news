@@ -101,6 +101,7 @@
 * [2022-05-20, 11:15:36](https://news.ycombinator.com/item?id=31445822) - [9-Euro-Ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en)
 * [2022-05-20, 11:06:20](https://news.ycombinator.com/item?id=31445753) - [Is anyone still using assembly language? You betcha](https://www.eetimes.com/is-anyone-still-using-assembly-language-you-betcha-part-1/)
 * [2022-05-20, 10:41:19](https://news.ycombinator.com/item?id=31445570) - [Niklas Luhmann was OK with losing notes](https://writing.bobdoto.computer/linking-new-notes-and-fearing-lost-ones/)
+* [2022-05-20, 10:41:06](https://news.ycombinator.com/item?id=31445568) - [The Bar Code (2015)](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)
 * [2022-05-20, 10:07:53](https://news.ycombinator.com/item?id=31445380) - [an OnlyFans creator found and slept with FB employees to undelete her IG account](https://twitter.com/taylorlorenz/status/1527007677184110592)
 * [2022-05-20, 10:03:14](https://news.ycombinator.com/item?id=31445355) - [Ask HN: 6-hour workdays more important than 4-day workweeks IMO](https://news.ycombinator.com/item?id=31445355)
 * [2022-05-20, 09:37:12](https://news.ycombinator.com/item?id=31445173) - [Slaughter/suffering free pork cultivated meat](https://www.greenqueen.com.hk/mewery-cultivated-pork-microalgae/)

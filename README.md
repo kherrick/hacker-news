@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 01:55:16](https://news.ycombinator.com/item?id=31499775) - [Bicycles Have Evolved. Have We?](https://www.newyorker.com/magazine/2022/05/30/bicycles-have-evolved-have-we-jody-rosen-two-wheels-good)
+* [2022-05-25, 01:13:36](https://news.ycombinator.com/item?id=31499513) - [Ask HN: How worried are you about the upcoming recession?](https://news.ycombinator.com/item?id=31499513)
 * [2022-05-24, 21:58:15](https://news.ycombinator.com/item?id=31497972) - [How we fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
 * [2022-05-24, 21:31:53](https://news.ycombinator.com/item?id=31497765) - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
 * [2022-05-24, 21:08:16](https://news.ycombinator.com/item?id=31497555) - [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
@@ -21,15 +23,13 @@
 * [2022-05-24, 15:16:17](https://news.ycombinator.com/item?id=31493207) - [Racket Is an Acceptable Python (2019)](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
 * [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
-* [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-24, 12:32:01](https://news.ycombinator.com/item?id=31491128) - [Logitech MX Mechanical Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html)
-* [2022-05-24, 10:48:09](https://news.ycombinator.com/item?id=31490348) - [Morrowind 20-year anniversary book](https://mw.thenet.sk/)
 * [2022-05-24, 08:49:48](https://news.ycombinator.com/item?id=31489596) - [Street View turns 15](https://blog.google/products/maps/street-view-15-new-features/)
-* [2022-05-24, 03:21:06](https://news.ycombinator.com/item?id=31487645) - [Tether Withdrawals Top $10B](https://www.cnbc.com/2022/05/23/tether-usdt-stablecoin-withdrawals-top-10-billion.html)
-* [2022-05-23, 18:12:43](https://news.ycombinator.com/item?id=31482836) - [The Factoid Leveling Experience](https://www.bramadams.dev/projects/isolated-facts-leveling-up)
 * [2022-05-23, 07:21:06](https://news.ycombinator.com/item?id=31476172) - [What every programmer should know about solid-state drives (2014)](https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
+* [2022-05-21, 19:03:55](https://news.ycombinator.com/item?id=31460791) - [Visual Debugging Now](https://nickarner.com/notes/visual-debugging-now-may-20-2022/)
 * [2022-05-21, 00:22:09](https://news.ycombinator.com/item?id=31454147) - [Scientists discover an ancient forest inside a giant sinkhole in China](https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest)
+* [2022-05-20, 10:41:06](https://news.ycombinator.com/item?id=31445568) - [The Bar Code (2015)](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)
 
 ## [Archives](archives/index.md)
 
