@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 10:59:46](https://news.ycombinator.com/item?id=31502748) - [Estoppel](https://ente.io/blog/r/estoppel/)
 * [2022-05-25, 10:28:26](https://news.ycombinator.com/item?id=31502545) - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
 * [2022-05-25, 10:27:03](https://news.ycombinator.com/item?id=31502540) - [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
 * [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run–and Ruin–Our Lives](https://thewalrus.ca/credit-score-canada/)
@@ -7,7 +8,6 @@
 * [2022-05-25, 09:34:07](https://news.ycombinator.com/item?id=31502257) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 08:36:07](https://news.ycombinator.com/item?id=31501928) - [Show HN: Dress Circle – IMDB for UK Theatre](https://www.dresscircle.co.uk)
-* [2022-05-25, 08:30:44](https://news.ycombinator.com/item?id=31501897) - [Statement on 4 Years of GDPR](https://noyb.eu/en/statement-4-years-gdpr)
 * [2022-05-25, 06:46:42](https://news.ycombinator.com/item?id=31501344) - [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 * [2022-05-25, 05:32:55](https://news.ycombinator.com/item?id=31500939) - [Jasonette – Native App over HTTP](https://jasonette.com/)
 * [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt (2019)](https://plundervolt.com/)
