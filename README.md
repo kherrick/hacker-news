@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt](https://plundervolt.com/)
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
+* [2022-05-25, 03:39:59](https://news.ycombinator.com/item?id=31500353) - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
 * [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
@@ -17,7 +19,6 @@
 * [2022-05-24, 19:00:31](https://news.ycombinator.com/item?id=31496168) - [Linode Managed Databases](https://www.linode.com/products/databases/)
 * [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs are evolving to eat plastic, study finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store files as YouTube videos](https://github.com/dzhang314/YouTubeDrive)
-* [2022-05-24, 17:13:07](https://news.ycombinator.com/item?id=31494825) - [Extracting TLS keys from an unwilling application (2020)](http://m1el.github.io/oculus-tls-extract/)
 * [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why isn’t new technology making us more productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
 * [2022-05-24, 16:56:56](https://news.ycombinator.com/item?id=31494585) - [How we put IPFS in Brave (2021)](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/)
 * [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
@@ -27,9 +28,8 @@
 * [2022-05-24, 15:00:15](https://news.ycombinator.com/item?id=31493000) - [Zoom: Remote Code Execution with XMPP Stanza Smuggling](https://bugs.chromium.org/p/project-zero/issues/detail?id=2254)
 * [2022-05-24, 13:58:09](https://news.ycombinator.com/item?id=31492180) - [Modern programming languages require generics](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
+* [2022-05-23, 18:54:39](https://news.ycombinator.com/item?id=31483446) - [Electromotive, the story of Arp Instruments (2020)](https://www.youtube.com/watch?v=l31RXiVSI9s)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
-* [2022-05-21, 03:02:16](https://news.ycombinator.com/item?id=31454908) - [Manual on Uniform Traffic Control Devices](https://mutcd.fhwa.dot.gov/pdfs/2009/pdf_index.htm)
-* [2022-05-20, 09:57:09](https://news.ycombinator.com/item?id=31445310) - [Sx.el – Stack Exchange for Emacs](https://github.com/vermiculus/sx.el)
 
 ## [Archives](archives/index.md)
 
