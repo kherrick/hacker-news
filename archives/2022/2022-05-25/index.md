@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 15:36:38](https://news.ycombinator.com/item?id=31506054) - [GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
+* [2022-05-25, 15:31:30](https://news.ycombinator.com/item?id=31505986) - [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
 * [2022-05-25, 13:39:59](https://news.ycombinator.com/item?id=31504354) - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 * [2022-05-25, 13:24:12](https://news.ycombinator.com/item?id=31504175) - [CalyxInstitute is funding F-Droid](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
 * [2022-05-25, 13:14:23](https://news.ycombinator.com/item?id=31504052) - [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
