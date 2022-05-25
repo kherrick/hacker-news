@@ -2,6 +2,7 @@
 
 * [2022-05-25, 10:28:26](https://news.ycombinator.com/item?id=31502545) - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
 * [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run–and Ruin–Our Lives](https://thewalrus.ca/credit-score-canada/)
+* [2022-05-25, 09:37:42](https://news.ycombinator.com/item?id=31502276) - [History of 127/8 as localhost/loopback addresses?](https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html)
 * [2022-05-25, 09:34:07](https://news.ycombinator.com/item?id=31502257) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 08:36:07](https://news.ycombinator.com/item?id=31501928) - [Show HN: Dress Circle – IMDB for UK Theatre](https://www.dresscircle.co.uk)
@@ -14,7 +15,6 @@
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
 * [2022-05-25, 01:32:19](https://news.ycombinator.com/item?id=31499629) - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
-* [2022-05-24, 21:58:15](https://news.ycombinator.com/item?id=31497972) - [How we fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
 * [2022-05-24, 21:31:53](https://news.ycombinator.com/item?id=31497765) - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
 * [2022-05-24, 21:08:16](https://news.ycombinator.com/item?id=31497555) - [On rebooting: the unreasonable effectiveness of turning computers off and on](https://keunwoo.com/notes/rebooting/)
