@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run–and Ruin–Our Lives](https://thewalrus.ca/credit-score-canada/)
 * [2022-05-25, 09:34:07](https://news.ycombinator.com/item?id=31502257) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 08:36:07](https://news.ycombinator.com/item?id=31501928) - [Show HN: Dress Circle – IMDB for UK Theatre](https://www.dresscircle.co.uk)
@@ -24,10 +25,9 @@
 * [2022-05-24, 18:28:57](https://news.ycombinator.com/item?id=31495809) - [How I think about C99 strict aliasing rules](https://alanwu.space/post/strict-aliasing/)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store files as YouTube videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 16:44:36](https://news.ycombinator.com/item?id=31494417) - [Tell HN: Job interview canceled due to looming recession](https://news.ycombinator.com/item?id=31494417)
-* [2022-05-24, 16:38:31](https://news.ycombinator.com/item?id=31494328) - [Show HN: SymForce – Fast symbolic computation, code generation, and optimization](https://github.com/symforce-org/symforce)
-* [2022-05-24, 15:10:59](https://news.ycombinator.com/item?id=31493138) - [Cat S22 Flip Phone](https://www.catphones.com/en-us/cat-s22-flip/)
 * [2022-05-24, 13:23:18](https://news.ycombinator.com/item?id=31491744) - [Symbian Source Code](https://github.com/SymbianSource)
 * [2022-05-23, 18:54:39](https://news.ycombinator.com/item?id=31483446) - [Electromotive, the story of Arp Instruments (2020)](https://www.youtube.com/watch?v=l31RXiVSI9s)
+* [2022-05-23, 17:39:18](https://news.ycombinator.com/item?id=31482247) - [Alan Turing using math to repair his bike](http://mathmutation.blogspot.com/2022/05/278-bicycle-repair-man.html)
 * [2022-05-23, 11:53:20](https://news.ycombinator.com/item?id=31477851) - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
 * [2022-05-22, 22:46:22](https://news.ycombinator.com/item?id=31473556) - [8088 PC XT Compatible Logic Board](https://github.com/homebrew8088/8088-PC-Compatible)
 
