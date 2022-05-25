@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
+* [2022-05-25, 16:23:59](https://news.ycombinator.com/item?id=31506724) - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
 * [2022-05-25, 15:49:19](https://news.ycombinator.com/item?id=31506244) - [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
 * [2022-05-25, 15:48:50](https://news.ycombinator.com/item?id=31506240) - [MicroFLENG – concurrent logic programming for CP/M, C64 and the “uxn” VM](http://www.call-with-current-continuation.org/microfleng/microfleng.html)
 * [2022-05-25, 15:36:38](https://news.ycombinator.com/item?id=31506054) - [GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
 * [2022-05-25, 15:31:30](https://news.ycombinator.com/item?id=31505986) - [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
+* [2022-05-25, 15:24:45](https://news.ycombinator.com/item?id=31505883) - [DARPA moving forward with nuclear thermal engine design](https://orbitalindex.com/archive/2022-05-25-Issue-170/)
+* [2022-05-25, 14:46:19](https://news.ycombinator.com/item?id=31505323) - [SonoBus: High-quality, low-latency peer-to-peer audio](https://www.sonobus.net/)
 * [2022-05-25, 13:39:59](https://news.ycombinator.com/item?id=31504354) - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 * [2022-05-25, 13:24:12](https://news.ycombinator.com/item?id=31504175) - [CalyxInstitute is funding F-Droid](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)
 * [2022-05-25, 13:14:23](https://news.ycombinator.com/item?id=31504052) - [Are You Sure You Want to Use MMAP in Your Database Management System? [pdf]](http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf)
@@ -34,6 +37,7 @@
 * [2022-05-25, 06:46:42](https://news.ycombinator.com/item?id=31501344) - [CSS: Absolutely positioning things relatively](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 * [2022-05-25, 05:32:55](https://news.ycombinator.com/item?id=31500939) - [Jasonette – Native App over HTTP](https://jasonette.com/)
 * [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt](https://plundervolt.com/)
+* [2022-05-25, 04:33:50](https://news.ycombinator.com/item?id=31500640) - [Lizard – efficient compression with fast decompression](https://github.com/inikep/lizard)
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 * [2022-05-25, 03:39:59](https://news.ycombinator.com/item?id=31500353) - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
 * [2022-05-25, 03:09:22](https://news.ycombinator.com/item?id=31500174) - [Naur on Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
