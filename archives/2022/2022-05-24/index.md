@@ -6,6 +6,7 @@
 
 * [2022-05-24, 21:58:15](https://news.ycombinator.com/item?id=31497972) - [We fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
+* [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 21:31:53](https://news.ycombinator.com/item?id=31497765) - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
 * [2022-05-24, 21:08:16](https://news.ycombinator.com/item?id=31497555) - [On rebooting: the unreasonable effectiveness of turning computers off and on ag](https://keunwoo.com/notes/rebooting/)
 * [2022-05-24, 21:01:43](https://news.ycombinator.com/item?id=31497501) - [Tesorio (YC S15) Is Hiring Senior Quality Engineers, PMs, Recruiting Manager](https://www.tesorio.com/careers#job-openings)
