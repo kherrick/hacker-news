@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-25, 12:19:00",
+      "https://news.ycombinator.com/item?id=31503451"
+    ],
+    [
+      "HTTPS Everywhere will sunset in January 2023",
+      "https://www.eff.org/https-everywhere/set-https-default-your-browser"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 12:00:11",
       "https://news.ycombinator.com/item?id=31503292"
     ],
@@ -17,6 +27,16 @@
     [
       "GameShell: A game to learn or teach the Unix shell",
       "https://github.com/phyver/GameShell"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 11:12:50",
+      "https://news.ycombinator.com/item?id=31502845"
+    ],
+    [
+      "Snapcast – Synchronous multi-room audio player",
+      "https://github.com/badaix/snapcast"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Show HN: Dress Circle – IMDB for UK Theatre",
       "https://www.dresscircle.co.uk"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 08:30:44",
-      "https://news.ycombinator.com/item?id=31501897"
-    ],
-    [
-      "Statement on 4 Years of GDPR",
-      "https://noyb.eu/en/statement-4-years-gdpr"
     ]
   ],
   [
@@ -191,36 +201,6 @@
   ],
   [
     [
-      "2022-05-24, 21:39:48",
-      "https://news.ycombinator.com/item?id=31497827"
-    ],
-    [
-      "A Kernel Hacker Meets Fuchsia OS",
-      "https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 21:31:53",
-      "https://news.ycombinator.com/item?id=31497765"
-    ],
-    [
-      "Tracking Heat Records in 400 U.S. Cities",
-      "https://pudding.cool/projects/heat-records/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 21:08:16",
-      "https://news.ycombinator.com/item?id=31497555"
-    ],
-    [
-      "On rebooting: the unreasonable effectiveness of turning computers off and on",
-      "https://keunwoo.com/notes/rebooting/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 18:28:57",
       "https://news.ycombinator.com/item?id=31495809"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2022-05-24, 15:10:59",
+      "https://news.ycombinator.com/item?id=31493138"
+    ],
+    [
+      "Cat S22 Flip Phone",
+      "https://www.catphones.com/en-us/cat-s22-flip/"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 13:23:18",
       "https://news.ycombinator.com/item?id=31491744"
     ],
     [
       "Symbian Source Code",
       "https://github.com/SymbianSource"
+    ]
+  ],
+  [
+    [
+      "2022-05-23, 18:54:39",
+      "https://news.ycombinator.com/item?id=31483446"
+    ],
+    [
+      "Electromotive, the story of Arp Instruments (2020)",
+      "https://www.youtube.com/watch?v=l31RXiVSI9s"
     ]
   ],
   [
