@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-25, 16:23:59",
+      "https://news.ycombinator.com/item?id=31506724"
+    ],
+    [
+      "figlet – a program for making large letters out of ordinary text",
+      "http://www.figlet.org/"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 15:49:19",
       "https://news.ycombinator.com/item?id=31506244"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31506054"
     ],
     [
-      "GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done",
+      "A Pragmatic Guide to Getting Things Done",
       "https://hamberg.no/gtd"
     ]
   ],
@@ -37,6 +47,26 @@
     [
       "Annotated implementation of microKanren: an embeddable logic language",
       "https://github.com/ashton314/muKanren_reading"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 15:24:45",
+      "https://news.ycombinator.com/item?id=31505883"
+    ],
+    [
+      "DARPA moving forward with nuclear thermal engine design",
+      "https://orbitalindex.com/archive/2022-05-25-Issue-170/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 14:46:19",
+      "https://news.ycombinator.com/item?id=31505323"
+    ],
+    [
+      "SonoBus: High-quality, low-latency peer-to-peer audio",
+      "https://www.sonobus.net/"
     ]
   ],
   [
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31503201"
     ],
     [
-      "Ask HN: What game you wished existed?",
+      "Ask HN: What game do you wish existed?",
       "https://news.ycombinator.com/item?id=31503201"
     ]
   ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-05-25, 08:36:07",
-      "https://news.ycombinator.com/item?id=31501928"
-    ],
-    [
-      "Show HN: Dress Circle – IMDB for UK Theatre",
-      "https://www.dresscircle.co.uk"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 08:30:44",
       "https://news.ycombinator.com/item?id=31501897"
     ],
@@ -211,22 +231,22 @@
   ],
   [
     [
-      "2022-05-25, 06:46:42",
-      "https://news.ycombinator.com/item?id=31501344"
+      "2022-05-25, 04:33:50",
+      "https://news.ycombinator.com/item?id=31500640"
     ],
     [
-      "CSS: Absolutely positioning things relatively",
-      "https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b"
+      "Lizard – efficient compression with fast decompression",
+      "https://github.com/inikep/lizard"
     ]
   ],
   [
     [
-      "2022-05-25, 05:32:55",
-      "https://news.ycombinator.com/item?id=31500939"
+      "2022-05-25, 02:12:15",
+      "https://news.ycombinator.com/item?id=31499874"
     ],
     [
-      "Jasonette – Native App over HTTP",
-      "https://jasonette.com/"
+      "The era of borderless data is ending",
+      "https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "A Kernel Hacker Meets Fuchsia OS",
       "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 22:00:53",
-      "https://news.ycombinator.com/item?id=31485340"
-    ],
-    [
-      "Could this pottery shard be a 1k-year-old hand grenade?",
-      "https://arstechnica.com/science/2022/05/could-this-pottery-shard-be-a-1000-year-old-hand-grenade-signs-point-to-yes/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Life Monitor",
       "https://kevinkle.in/posts/2022-05-21-life_monitor/"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 20:04:24",
-      "https://news.ycombinator.com/item?id=31472173"
-    ],
-    [
-      "‘Making History’ Review: Writers of the Permanent Record",
-      "https://www.wsj.com/articles/making-history-book-review-writers-of-the-permanent-record-11653058211"
     ]
   ]
 ]
