@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt](https://plundervolt.com/)
+* [2022-05-25, 04:41:56](https://news.ycombinator.com/item?id=31500684) - [Plundervolt (2019)](https://plundervolt.com/)
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
-* [2022-05-25, 03:39:59](https://news.ycombinator.com/item?id=31500353) - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
 * [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
 * [2022-05-25, 02:00:15](https://news.ycombinator.com/item?id=31499802) - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
@@ -18,6 +17,7 @@
 * [2022-05-24, 19:48:33](https://news.ycombinator.com/item?id=31496744) - [Fly Machines: An API for Fast-Booting VMs](https://fly.io/blog/fly-machines/)
 * [2022-05-24, 19:00:31](https://news.ycombinator.com/item?id=31496168) - [Linode Managed Databases](https://www.linode.com/products/databases/)
 * [2022-05-24, 18:31:14](https://news.ycombinator.com/item?id=31495836) - [Bugs are evolving to eat plastic, study finds](https://e360.yale.edu/digest/bugs-are-evolving-to-eat-plastic-study-finds)
+* [2022-05-24, 18:28:57](https://news.ycombinator.com/item?id=31495809) - [How I think about C99 strict aliasing rules](https://alanwu.space/post/strict-aliasing/)
 * [2022-05-24, 17:31:59](https://news.ycombinator.com/item?id=31495049) - [YouTubeDrive: Store files as YouTube videos](https://github.com/dzhang314/YouTubeDrive)
 * [2022-05-24, 17:13:07](https://news.ycombinator.com/item?id=31494825) - [Extracting TLS keys from an unwilling application (2020)](http://m1el.github.io/oculus-tls-extract/)
 * [2022-05-24, 17:02:02](https://news.ycombinator.com/item?id=31494671) - [Why isn’t new technology making us more productive?](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html)
