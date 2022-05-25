@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31507599"
     ],
     [
-      "Bolt Announces Layoffs",
+      "Bolt announces layoffs",
       "https://www.bolt.com/blog/message-from-bolt-ceo"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Python utility for tracking third party dependencies within a library",
       "https://github.com/IBM/import-tracker"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 16:49:05",
-      "https://news.ycombinator.com/item?id=31507082"
-    ],
-    [
-      "Making macOS Behave Itself",
-      "https://danmackinlay.name/notebook/macos_hacks.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Lizard – efficient compression with fast decompression",
       "https://github.com/inikep/lizard"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 03:44:29",
+      "https://news.ycombinator.com/item?id=31500378"
+    ],
+    [
+      "Go: Functional Options Are Slow",
+      "https://www.evanjones.ca/go-functional-options-slow.html"
     ]
   ],
   [
