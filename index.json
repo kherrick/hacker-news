@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-05-25, 13:39:59",
+      "https://news.ycombinator.com/item?id=31504354"
+    ],
+    [
+      "SwiftUI in 2022",
+      "https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 13:24:12",
+      "https://news.ycombinator.com/item?id=31504175"
+    ],
+    [
+      "CalyxInstitute is funding F-Droid",
+      "https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 13:10:03",
+      "https://news.ycombinator.com/item?id=31504002"
+    ],
+    [
+      "Show HN: VideoMentions – Search YouTube based on the spoken words in videos",
+      "https://videomentions.com/search"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 12:48:21",
+      "https://news.ycombinator.com/item?id=31503770"
+    ],
+    [
+      "Ask HN: How do you organize your routine?",
+      "https://news.ycombinator.com/item?id=31503770"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 12:31:47",
+      "https://news.ycombinator.com/item?id=31503588"
+    ],
+    [
+      "Supersonic CO2 flow during champagne cork popping",
+      "https://aip.scitation.org/doi/10.1063/5.0089774"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 12:19:00",
       "https://news.ycombinator.com/item?id=31503451"
     ],
@@ -11,12 +61,32 @@
   ],
   [
     [
+      "2022-05-25, 12:16:46",
+      "https://news.ycombinator.com/item?id=31503429"
+    ],
+    [
+      "'This is the Way: Invisible Jenkins' – Using OpenZiti to close all inbound ports",
+      "https://netfoundry.io/this-is-the-way-invisible-jenkins/"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 12:00:11",
       "https://news.ycombinator.com/item?id=31503292"
     ],
     [
       "GiveCampus (profitable YC S15) hiring US-remote senior software engineers",
       "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 11:55:34",
+      "https://news.ycombinator.com/item?id=31503241"
+    ],
+    [
+      "Updated Proton, Unified Protection",
+      "https://proton.me/news/updated-proton"
     ]
   ],
   [
@@ -67,6 +137,16 @@
     [
       "How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less",
       "https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 10:04:52",
+      "https://news.ycombinator.com/item?id=31502432"
+    ],
+    [
+      "Credit Scores Can Run – and Ruin – Our Lives",
+      "https://thewalrus.ca/credit-score-canada/"
     ]
   ],
   [
@@ -131,16 +211,6 @@
   ],
   [
     [
-      "2022-05-25, 04:41:56",
-      "https://news.ycombinator.com/item?id=31500684"
-    ],
-    [
-      "Plundervolt (2019)",
-      "https://plundervolt.com/"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 03:09:22",
       "https://news.ycombinator.com/item?id=31500174"
     ],
@@ -191,72 +261,12 @@
   ],
   [
     [
-      "2022-05-24, 21:58:15",
-      "https://news.ycombinator.com/item?id=31497972"
-    ],
-    [
-      "How we fixed the ozone layer (2021)",
-      "https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 18:28:57",
-      "https://news.ycombinator.com/item?id=31495809"
-    ],
-    [
-      "How I think about C99 strict aliasing rules",
-      "https://alanwu.space/post/strict-aliasing/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 17:31:59",
-      "https://news.ycombinator.com/item?id=31495049"
-    ],
-    [
-      "YouTubeDrive: Store files as YouTube videos",
-      "https://github.com/dzhang314/YouTubeDrive"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 16:44:36",
-      "https://news.ycombinator.com/item?id=31494417"
-    ],
-    [
-      "Tell HN: Job interview canceled due to looming recession",
-      "https://news.ycombinator.com/item?id=31494417"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 15:10:59",
-      "https://news.ycombinator.com/item?id=31493138"
-    ],
-    [
-      "Cat S22 Flip Phone",
-      "https://www.catphones.com/en-us/cat-s22-flip/"
-    ]
-  ],
-  [
-    [
       "2022-05-24, 13:23:18",
       "https://news.ycombinator.com/item?id=31491744"
     ],
     [
       "Symbian Source Code",
       "https://github.com/SymbianSource"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 18:54:39",
-      "https://news.ycombinator.com/item?id=31483446"
-    ],
-    [
-      "Electromotive, the story of Arp Instruments (2020)",
-      "https://www.youtube.com/watch?v=l31RXiVSI9s"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-05-23, 17:11:19",
+      "https://news.ycombinator.com/item?id=31481813"
+    ],
+    [
+      "The Tunitcha mountains of Arizona may be related to the word “Khan”",
+      "https://old.reddit.com/r/etymology/comments/uvfrs0/the_tunitcha_mountains_of_arizona_may_be_related/"
+    ]
+  ],
+  [
+    [
       "2022-05-23, 11:53:20",
       "https://news.ycombinator.com/item?id=31477851"
     ],
     [
       "Life Monitor",
       "https://kevinkle.in/posts/2022-05-21-life_monitor/"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 22:46:22",
-      "https://news.ycombinator.com/item?id=31473556"
-    ],
-    [
-      "8088 PC XT Compatible Logic Board",
-      "https://github.com/homebrew8088/8088-PC-Compatible"
-    ]
-  ],
-  [
-    [
-      "2022-05-22, 18:49:10",
-      "https://news.ycombinator.com/item?id=31471433"
-    ],
-    [
-      "Global Assessment Report on Disaster Risk Reduction 2022",
-      "https://www.undrr.org/publication/global-assessment-report-disaster-risk-reduction-2022"
     ]
   ]
 ]
