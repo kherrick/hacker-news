@@ -61,6 +61,7 @@
 * [2022-05-25, 10:58:57](https://news.ycombinator.com/item?id=31502742) - [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
 * [2022-05-25, 10:28:26](https://news.ycombinator.com/item?id=31502545) - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
 * [2022-05-25, 10:27:03](https://news.ycombinator.com/item?id=31502540) - [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
+* [2022-05-25, 10:25:56](https://news.ycombinator.com/item?id=31502530) - [Lessons learned as a software developer turned project manager](https://karimjedda.com/lessons-learned-developer-to-project-manager/)
 * [2022-05-25, 10:04:52](https://news.ycombinator.com/item?id=31502432) - [Credit Scores Can Run–and Ruin–Our Lives](https://thewalrus.ca/credit-score-canada/)
 * [2022-05-25, 09:54:54](https://news.ycombinator.com/item?id=31502376) - [An interactive browser-based zine creator](http://unicornycopia.com/ezm/)
 * [2022-05-25, 09:37:42](https://news.ycombinator.com/item?id=31502276) - [History of 127/8 as localhost/loopback addresses?](https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html)
