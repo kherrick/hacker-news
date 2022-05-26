@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-26, 18:42:22](https://news.ycombinator.com/item?id=31521957) - [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
+* [2022-05-26, 19:28:41](https://news.ycombinator.com/item?id=31522414) - [Virtual Graph Paper](https://virtual-graph-paper.com/)
 * [2022-05-26, 18:25:54](https://news.ycombinator.com/item?id=31521770) - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
 * [2022-05-26, 18:21:45](https://news.ycombinator.com/item?id=31521721) - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
 * [2022-05-26, 18:15:45](https://news.ycombinator.com/item?id=31521665) - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
@@ -13,7 +13,6 @@
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 * [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
 * [2022-05-26, 15:02:59](https://news.ycombinator.com/item?id=31519197) - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
-* [2022-05-26, 14:57:50](https://news.ycombinator.com/item?id=31519122) - [Ask HN: Why XMPP failed and SMTP didn't?](https://news.ycombinator.com/item?id=31519122)
 * [2022-05-26, 14:44:40](https://news.ycombinator.com/item?id=31518945) - [Ask HN: Recommend employers with positive social impact](https://news.ycombinator.com/item?id=31518945)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite 3 Fiddle](https://sqlite.org/fiddle/)
 * [2022-05-26, 14:17:10](https://news.ycombinator.com/item?id=31518605) - [The Life of a Backpacker in Asia in the 1970s](https://www.perceptivetravel.com/issues/1218/kelly.html)
@@ -25,6 +24,7 @@
 * [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
+* [2022-05-26, 05:11:38](https://news.ycombinator.com/item?id=31514856) - [Data ordering attacks on deep neural networks](https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/)
 * [2022-05-26, 02:41:06](https://news.ycombinator.com/item?id=31513714) - [Friends don’t let friends train small diffusion models](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 * [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing Link Between Alzheimer’s and Vascular Disease Found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)

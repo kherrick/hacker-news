@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 19:28:41](https://news.ycombinator.com/item?id=31522414) - [Virtual Graph Paper](https://virtual-graph-paper.com/)
 * [2022-05-26, 18:42:22](https://news.ycombinator.com/item?id=31521957) - [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
 * [2022-05-26, 18:25:54](https://news.ycombinator.com/item?id=31521770) - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
 * [2022-05-26, 18:21:45](https://news.ycombinator.com/item?id=31521721) - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
@@ -55,6 +56,7 @@
 * [2022-05-26, 07:29:01](https://news.ycombinator.com/item?id=31515678) - [List of Tech company layoffs in Europe](https://sifted.eu/articles/startup-tech-company-layoffs/)
 * [2022-05-26, 06:16:01](https://news.ycombinator.com/item?id=31515253) - [NSFW: DeepNude v2](https://app.deepnude.cc/upload)
 * [2022-05-26, 05:50:13](https://news.ycombinator.com/item?id=31515085) - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
+* [2022-05-26, 05:11:38](https://news.ycombinator.com/item?id=31514856) - [Data ordering attacks on deep neural networks](https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/)
 * [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein vs. the U.S. Department of State](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
