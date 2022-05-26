@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
 * [2022-05-26, 16:10:09](https://news.ycombinator.com/item?id=31520090) - [I did not get pay rise – as only person in team. Should I quit?](https://news.ycombinator.com/item?id=31520090)
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 * [2022-05-26, 15:07:33](https://news.ycombinator.com/item?id=31519253) - [Smart landing page on writing copy for landing pages](https://www.copyipsum.com/)
