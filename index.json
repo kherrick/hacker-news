@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-05-26, 14:20:07",
-      "https://news.ycombinator.com/item?id=31518637"
-    ],
-    [
-      "Ex-Google tech lead brags about how he trashed women's resumes",
-      "https://www.businessinsider.com/ex-google-staff-brags-iabout-trashing-female-coders-resumes-2022-5"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 14:18:39",
       "https://news.ycombinator.com/item?id=31518618"
     ],
     [
-      "SQLite's New “Fiddle” App",
+      "SQLite 3 Fiddle",
       "https://sqlite.org/fiddle/"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 13:43:11",
+      "https://news.ycombinator.com/item?id=31518234"
+    ],
+    [
+      "The Two Choices That Keep a Midlife Crisis at Bay",
+      "https://www.theatlantic.com/family/archive/2022/05/midlife-crisis-choices-opportunities/638427/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31517505"
     ],
     [
-      "Mental models that will make you more successful in life",
+      "Mental model examples and their explanations",
       "https://fronterablog.com/mental-model-examples-and-their-explanations/"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31516013"
     ],
     [
-      "Why We Switched from Python to Go",
+      "Why We Switched from Python to Go (2021)",
       "https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-05-24, 21:39:48",
+      "https://news.ycombinator.com/item?id=31497827"
+    ],
+    [
+      "A Kernel Hacker Meets Fuchsia OS",
+      "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 16:15:25",
       "https://news.ycombinator.com/item?id=31493987"
     ],
@@ -287,16 +297,6 @@
     [
       "Tracking the sex of cell lines used in the lab (2014)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919971/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 06:51:35",
-      "https://news.ycombinator.com/item?id=31488822"
-    ],
-    [
-      "Inbox, diary, to-do list: now choose just two",
-      "https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/"
     ]
   ]
 ]
