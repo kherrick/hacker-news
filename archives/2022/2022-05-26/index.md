@@ -6,6 +6,8 @@
 
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 * [2022-05-26, 08:45:29](https://news.ycombinator.com/item?id=31516105) - [A City in a Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
+* [2022-05-26, 08:30:19](https://news.ycombinator.com/item?id=31516020) - [Tech Layoff Tracker](https://www.trueup.io/layoffs)
+* [2022-05-26, 08:22:37](https://news.ycombinator.com/item?id=31515982) - [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 * [2022-05-26, 07:29:01](https://news.ycombinator.com/item?id=31515678) - [List of Tech company layoffs in Europe](https://sifted.eu/articles/startup-tech-company-layoffs/)
 * [2022-05-26, 06:16:01](https://news.ycombinator.com/item?id=31515253) - [NSFW: DeepNude v2](https://app.deepnude.cc/upload)
