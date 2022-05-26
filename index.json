@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-26, 21:00:13",
+      "https://news.ycombinator.com/item?id=31523300"
+    ],
+    [
+      "Release (YC W20) Is Hiring – Mid Level Full Stack Engineers",
+      "https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 20:46:43",
       "https://news.ycombinator.com/item?id=31523160"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2022-05-26, 18:25:54",
-      "https://news.ycombinator.com/item?id=31521770"
-    ],
-    [
-      "Linux distro downloads MySQL database password with curl to “fix” security bug",
-      "https://kernal.eu/posts/linuxfx-part-2/"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 18:21:45",
       "https://news.ycombinator.com/item?id=31521721"
     ],
@@ -67,16 +67,6 @@
     [
       "Two thought experiments to evaluate automated stablecoins",
       "https://vitalik.ca/general/2022/05/25/stable.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 17:00:11",
-      "https://news.ycombinator.com/item?id=31520724"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring Remote Engineers",
-      "https://www.easypost.com/careers"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Parsing JSON faster with Intel AVX-512",
       "https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 21:28:25",
+      "https://news.ycombinator.com/item?id=31510814"
+    ],
+    [
+      "Minimizing correlated failures in distributed systems",
+      "https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/"
     ]
   ],
   [
