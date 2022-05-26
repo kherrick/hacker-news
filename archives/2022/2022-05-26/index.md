@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 12:01:07](https://news.ycombinator.com/item?id=31517272) - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
+* [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
+* [2022-05-26, 11:47:59](https://news.ycombinator.com/item?id=31517180) - [Dutch gov't to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
+* [2022-05-26, 11:19:20](https://news.ycombinator.com/item?id=31517021) - [Broadcom announces plans to buy VMware in $61B deal](https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html)
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 * [2022-05-26, 08:45:29](https://news.ycombinator.com/item?id=31516105) - [A City in a Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
 * [2022-05-26, 08:30:19](https://news.ycombinator.com/item?id=31516020) - [Tech Layoff Tracker](https://www.trueup.io/layoffs)
@@ -16,6 +20,7 @@
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein vs. the U.S. Department of State](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
 * [2022-05-26, 02:54:32](https://news.ycombinator.com/item?id=31513829) - [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
+* [2022-05-26, 02:48:25](https://news.ycombinator.com/item?id=31513787) - [Evidence and strategies for alcohol control as crime control](https://www.manhattan-institute.org/evidence-and-strategies-for-alcohol-control-as-crime-control)
 * [2022-05-26, 02:20:48](https://news.ycombinator.com/item?id=31513514) - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 * [2022-05-26, 01:19:33](https://news.ycombinator.com/item?id=31513103) - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
 * [2022-05-26, 01:01:49](https://news.ycombinator.com/item?id=31512985) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31512985)

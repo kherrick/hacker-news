@@ -67,6 +67,7 @@
 * [2022-05-25, 09:34:07](https://news.ycombinator.com/item?id=31502257) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
 * [2022-05-25, 08:57:06](https://news.ycombinator.com/item?id=31502040) - [Metamaterial Absorber for Loudspeaker Enclosures [pdf]](https://www.aes.org/tmpFiles/elib/20220525/20758.pdf)
+* [2022-05-25, 08:57:06](https://news.ycombinator.com/item?id=31502040) - [Metamaterial Absorber for Loudspeaker Enclosures (2020)](https://www.aes.org/e-lib/browse.cfm?elib=20758)
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
 * [2022-05-25, 08:36:07](https://news.ycombinator.com/item?id=31501928) - [Show HN: Dress Circle – IMDB for UK Theatre](https://www.dresscircle.co.uk)
 * [2022-05-25, 08:30:44](https://news.ycombinator.com/item?id=31501897) - [Statement on 4 Years of GDPR](https://noyb.eu/en/statement-4-years-gdpr)
