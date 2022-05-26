@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 21:00:13](https://news.ycombinator.com/item?id=31523300) - [Release (YC W20) Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 * [2022-05-26, 20:46:43](https://news.ycombinator.com/item?id=31523160) - [A Response to Paul Krugman from a Keynesian Bitcoiner](https://saito.tech/an-response-to-paul-krugman-from-a-keynesian-bitcoiner/)
 * [2022-05-26, 20:31:09](https://news.ycombinator.com/item?id=31523019) - [Proton Is Trying to Become Google–Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
 * [2022-05-26, 19:28:41](https://news.ycombinator.com/item?id=31522414) - [Virtual Graph Paper](https://virtual-graph-paper.com/)
