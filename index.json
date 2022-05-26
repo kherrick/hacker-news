@@ -1,22 +1,62 @@
 [
   [
     [
+      "2022-05-26, 01:19:33",
+      "https://news.ycombinator.com/item?id=31513103"
+    ],
+    [
+      "Early Copy Protection on the Apple II",
+      "https://fadden.com/apple2/cassette-protect.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 01:01:49",
+      "https://news.ycombinator.com/item?id=31512985"
+    ],
+    [
+      "Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers",
+      "https://news.ycombinator.com/item?id=31512985"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 01:00:52",
+      "https://news.ycombinator.com/item?id=31512977"
+    ],
+    [
+      "Building an interface (even if there's only one implementation) is always right",
+      "https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 00:35:28",
+      "https://news.ycombinator.com/item?id=31512794"
+    ],
+    [
+      "Lucid recalls all of its 2022 Air EVs",
+      "https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 00:13:26",
+      "https://news.ycombinator.com/item?id=31512622"
+    ],
+    [
+      "Windows Update vs. My Router",
+      "https://michaelhorowitz.com/WindowsUpdate.vs.a.Router.php"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 23:01:13",
       "https://news.ycombinator.com/item?id=31511956"
     ],
     [
       "Simple And Terrible Machines",
       "https://noncombatant.org/2022/05/22/simple-terrible-machines/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 22:58:51",
-      "https://news.ycombinator.com/item?id=31511928"
-    ],
-    [
-      "Image editors often get color wrong",
-      "https://papaya.io/blog/perceptual-blending"
     ]
   ],
   [
@@ -51,12 +91,12 @@
   ],
   [
     [
-      "2022-05-25, 21:48:06",
-      "https://news.ycombinator.com/item?id=31511056"
+      "2022-05-25, 22:04:26",
+      "https://news.ycombinator.com/item?id=31511274"
     ],
     [
-      "Jack Dorsey leaves Twitter's board of directors",
-      "https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"
+      "Mental illness, mass shootings, and the politics of American firearms (2015)",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-05-25, 21:00:31",
-      "https://news.ycombinator.com/item?id=31510475"
-    ],
-    [
-      "Paperspace (YC W15) is hiring Engineers to build a next-gen cloud",
-      "https://www.paperspace.com/careers#open-positions"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 20:32:39",
       "https://news.ycombinator.com/item?id=31510147"
     ],
@@ -131,12 +161,12 @@
   ],
   [
     [
-      "2022-05-25, 19:01:37",
-      "https://news.ycombinator.com/item?id=31509028"
+      "2022-05-25, 19:42:54",
+      "https://news.ycombinator.com/item?id=31509536"
     ],
     [
-      "8-bit number to binary string (2013)",
-      "https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010"
+      "Uniformly Sample Points in a Disk",
+      "https://twitter.com/keenanisalive/status/1529490555893428226"
     ]
   ],
   [
@@ -167,26 +197,6 @@
     [
       "Bolt announces layoffs",
       "https://www.bolt.com/blog/message-from-bolt-ceo"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 16:59:15",
-      "https://news.ycombinator.com/item?id=31507232"
-    ],
-    [
-      "May 2022 core update releasing for Google Search",
-      "https://developers.google.com/search/blog/2022/05/may-2022-core-update"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 16:52:45",
-      "https://news.ycombinator.com/item?id=31507132"
-    ],
-    [
-      "Zettelkasten, linking your thinking, and Nick Milo's search for ground",
-      "https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-05-25, 09:21:33",
-      "https://news.ycombinator.com/item?id=31502193"
-    ],
-    [
-      "The benefits of “low tech” user interfaces",
-      "https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 03:44:29",
       "https://news.ycombinator.com/item?id=31500378"
     ],
@@ -261,32 +261,32 @@
   ],
   [
     [
+      "2022-05-25, 01:10:52",
+      "https://news.ycombinator.com/item?id=31499502"
+    ],
+    [
+      "The Medical Power of Hypnosis",
+      "https://www.bbc.com/future/article/20220519-does-hypnosis-work"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 20:49:02",
+      "https://news.ycombinator.com/item?id=31497405"
+    ],
+    [
+      "The Gödel Metric",
+      "https://en.wikipedia.org/wiki/G%C3%B6del_metric"
+    ]
+  ],
+  [
+    [
       "2022-05-24, 16:51:01",
       "https://news.ycombinator.com/item?id=31494498"
     ],
     [
       "Show HN: Muse 2.0 with local-first sync",
       "https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 15:14:44",
-      "https://news.ycombinator.com/item?id=31493179"
-    ],
-    [
-      "California parents could soon sue for social media addiction",
-      "https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 03:29:19",
-      "https://news.ycombinator.com/item?id=31487679"
-    ],
-    [
-      "Errol Morris interview with the Believer (2004)",
-      "https://www.errolmorris.com/content/interview/believer0404.html"
     ]
   ],
   [
