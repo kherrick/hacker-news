@@ -27,8 +27,8 @@
 * [2022-05-25, 10:58:57](https://news.ycombinator.com/item?id=31502742) - [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
 * [2022-05-25, 08:57:06](https://news.ycombinator.com/item?id=31502040) - [Metamaterial Absorber for Loudspeaker Enclosures [pdf]](https://www.aes.org/tmpFiles/elib/20220525/20758.pdf)
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
-* [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
+* [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://longreads.com/2022/05/04/crime-beyond-belief-kidnapping-hoax-atavist/)
 * [2022-05-24, 06:51:35](https://news.ycombinator.com/item?id=31488822) - [Inbox, diary, to-do list: now choose just two](https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/)
 
 ## [Archives](archives/index.md)

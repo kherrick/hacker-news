@@ -34,6 +34,7 @@
 * [2022-05-24, 16:39:18](https://news.ycombinator.com/item?id=31494343) - [Hetzner subsea fibre cut outage](https://status.hetzner.com/incident/de97a4ef-deb6-416e-92a7-9264d160519a)
 * [2022-05-24, 16:38:31](https://news.ycombinator.com/item?id=31494328) - [Show HN: SymForce – Fast symbolic computation, code generation, and optimization](https://github.com/symforce-org/symforce)
 * [2022-05-24, 16:16:53](https://news.ycombinator.com/item?id=31494001) - [Stripe App Marketplace](https://marketplace.stripe.com/)
+* [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://longreads.com/2022/05/04/crime-beyond-belief-kidnapping-hoax-atavist/)
 * [2022-05-24, 16:11:13](https://news.ycombinator.com/item?id=31493922) - [Accidentally Saving the Day](https://essays.jwatzman.org/essays/accidentally-saving-the-day.html)
 * [2022-05-24, 16:07:56](https://news.ycombinator.com/item?id=31493881) - [PlanetScale Portals: Read-only regions](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)
 * [2022-05-24, 15:50:49](https://news.ycombinator.com/item?id=31493649) - [Docker Acquires Tilt](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
