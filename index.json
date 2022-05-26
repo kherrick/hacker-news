@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-26, 18:15:45",
+      "https://news.ycombinator.com/item?id=31521665"
+    ],
+    [
+      "Practical Power Beaming Gets Real",
+      "https://spectrum.ieee.org/power-beaming"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 18:05:54",
+      "https://news.ycombinator.com/item?id=31521551"
+    ],
+    [
+      "IPv4 flag day (in 2030-02-01)",
+      "https://ipv4flagday.net/"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 17:42:53",
       "https://news.ycombinator.com/item?id=31521261"
     ],
@@ -67,16 +87,6 @@
     [
       "Removing blur from images – deconvolution and using simple image filters",
       "https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 15:07:33",
-      "https://news.ycombinator.com/item?id=31519253"
-    ],
-    [
-      "Smart landing page on writing copy for landing pages",
-      "https://www.copyipsum.com/"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2022-05-26, 12:41:59",
+      "https://news.ycombinator.com/item?id=31517610"
+    ],
+    [
+      "The Collison Brothers Built Stripe into a $95B Unicorn",
+      "https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 11:48:48",
       "https://news.ycombinator.com/item?id=31517184"
     ],
@@ -207,16 +227,6 @@
     [
       "Decoding A City In A Bottle",
       "https://observablehq.com/@darabos/decoding-a-city-in-a-bottle"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 08:22:37",
-      "https://news.ycombinator.com/item?id=31515982"
-    ],
-    [
-      "Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain",
-      "https://quick-lint-js.com/blog/bug-journey/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "To learn more quickly, brain cells break their DNA (2021)",
       "https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 16:15:25",
-      "https://news.ycombinator.com/item?id=31493987"
-    ],
-    [
-      "This Wasn’t His First Time",
-      "https://magazine.atavist.com/a-crime-beyond-belief-vallejo-kidnapping-gone-girl-hoax/"
     ]
   ]
 ]
