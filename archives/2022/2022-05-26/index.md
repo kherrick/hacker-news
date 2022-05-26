@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 15:02:59](https://news.ycombinator.com/item?id=31519197) - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
+* [2022-05-26, 14:29:40](https://news.ycombinator.com/item?id=31518749) - [Apple Removes Flag Icons in Monterey 12.4](https://news.ycombinator.com/item?id=31518749)
 * [2022-05-26, 14:20:07](https://news.ycombinator.com/item?id=31518637) - [Ex-Google tech lead brags about how he trashed women's resumes](https://www.businessinsider.com/ex-google-staff-brags-iabout-trashing-female-coders-resumes-2022-5)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite's New “Fiddle” App](https://sqlite.org/fiddle/)
+* [2022-05-26, 13:56:45](https://news.ycombinator.com/item?id=31518385) - [Physicists Rewrite the Fundamental Law That Leads to Disorder](https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/)
 * [2022-05-26, 13:43:11](https://news.ycombinator.com/item?id=31518234) - [The Two Choices That Keep a Midlife Crisis at Bay](https://www.theatlantic.com/family/archive/2022/05/midlife-crisis-choices-opportunities/638427/)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
