@@ -13,7 +13,7 @@
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 * [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
 * [2022-05-26, 15:02:59](https://news.ycombinator.com/item?id=31519197) - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
-* [2022-05-26, 14:57:50](https://news.ycombinator.com/item?id=31519122) - [Ask HN: Why XMPP failed and SMTP didn't?](https://news.ycombinator.com/item?id=31519122)
+* [2022-05-26, 14:44:40](https://news.ycombinator.com/item?id=31518945) - [Ask HN: Recommend employers with positive social impact](https://news.ycombinator.com/item?id=31518945)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite 3 Fiddle](https://sqlite.org/fiddle/)
 * [2022-05-26, 14:17:10](https://news.ycombinator.com/item?id=31518605) - [The Life of a Backpacker in Asia in the 1970s](https://www.perceptivetravel.com/issues/1218/kelly.html)
 * [2022-05-26, 13:56:45](https://news.ycombinator.com/item?id=31518385) - [Physicists Rewrite the Fundamental Law That Leads to Disorder](https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/)
