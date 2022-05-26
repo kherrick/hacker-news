@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-26, 17:11:22](https://news.ycombinator.com/item?id=31520878) - [Stanford’s President and Provost Must Resign](https://theymustresign.substack.com/p/stanfords-president-and-provost-must)
+* [2022-05-26, 17:32:25](https://news.ycombinator.com/item?id=31521124) - [Amazon investors nuke ethics overhaul and say yes to $212m CEO pay](https://www.theregister.com/2022/05/26/amazon_investors_kill_15_proposals/)
+* [2022-05-26, 17:11:07](https://news.ycombinator.com/item?id=31520872) - [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/)
 * [2022-05-26, 17:00:11](https://news.ycombinator.com/item?id=31520724) - [EasyPost (YC S13) Is Hiring Remote Engineers](https://www.easypost.com/careers)
 * [2022-05-26, 16:48:47](https://news.ycombinator.com/item?id=31520573) - [A Linux 5.10 patch has caused user-space regressions](https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
-* [2022-05-26, 16:34:37](https://news.ycombinator.com/item?id=31520399) - [Ask HN: Current state of coding .NET code on non-Windows machines](https://news.ycombinator.com/item?id=31520399)
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 * [2022-05-26, 15:07:33](https://news.ycombinator.com/item?id=31519253) - [Smart landing page on writing copy for landing pages](https://www.copyipsum.com/)
 * [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
