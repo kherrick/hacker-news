@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
+* [2022-05-26, 08:45:29](https://news.ycombinator.com/item?id=31516105) - [A City in a Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 * [2022-05-26, 07:29:01](https://news.ycombinator.com/item?id=31515678) - [List of Tech company layoffs in Europe](https://sifted.eu/articles/startup-tech-company-layoffs/)
 * [2022-05-26, 05:50:13](https://news.ycombinator.com/item?id=31515085) - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
@@ -15,7 +17,6 @@
 * [2022-05-25, 22:04:26](https://news.ycombinator.com/item?id=31511274) - [Mental illness, mass shootings, and the politics of American firearms (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4318286/)
 * [2022-05-25, 21:47:03](https://news.ycombinator.com/item?id=31511047) - [Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon](https://www.nature.com/articles/s41586-022-04780-4)
 * [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC fines Twitter $150M for using 2FA phone numbers for ad targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
-* [2022-05-25, 21:15:10](https://news.ycombinator.com/item?id=31510662) - [New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
 * [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 * [2022-05-25, 19:42:54](https://news.ycombinator.com/item?id=31509536) - [Uniformly Sample Points in a Disk](https://twitter.com/keenanisalive/status/1529490555893428226)
@@ -23,13 +24,12 @@
 * [2022-05-25, 18:49:56](https://news.ycombinator.com/item?id=31508850) - [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
 * [2022-05-25, 15:54:03](https://news.ycombinator.com/item?id=31506319) - [Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [2022-05-25, 11:40:49](https://news.ycombinator.com/item?id=31503107) - [The Guide to Push Notifications for Developers](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
+* [2022-05-25, 10:58:57](https://news.ycombinator.com/item?id=31502742) - [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
 * [2022-05-25, 08:04:28](https://news.ycombinator.com/item?id=31501773) - [Turn Mouse Events into Art](https://github.com/furkanonder/karbon)
 * [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
-* [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
 * [2022-05-24, 06:51:35](https://news.ycombinator.com/item?id=31488822) - [Inbox, diary, to-do list: now choose just two](https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/)
-* [2022-05-23, 22:27:05](https://news.ycombinator.com/item?id=31485616) - [The Nightmare of Getting Doom Running on a RS/6000 [video]](https://www.youtube.com/watch?v=XzhCGSE7KKw)
 
 ## [Archives](archives/index.md)
 
