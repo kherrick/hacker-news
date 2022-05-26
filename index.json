@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-26, 03:05:05",
+      "https://news.ycombinator.com/item?id=31513919"
+    ],
+    [
+      "Imagen Open Source implementation from the same developer as the one for DALL-E2",
+      "https://github.com/lucidrains/imagen-pytorch"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 02:20:48",
       "https://news.ycombinator.com/item?id=31513514"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-25, 11:50:35",
-      "https://news.ycombinator.com/item?id=31503201"
-    ],
-    [
-      "Ask HN: What game do you wish existed?",
-      "https://news.ycombinator.com/item?id=31503201"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 11:40:49",
       "https://news.ycombinator.com/item?id=31503107"
     ],
@@ -257,6 +257,16 @@
     [
       "Turn Mouse Events into Art",
       "https://github.com/furkanonder/karbon"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 22:40:12",
+      "https://news.ycombinator.com/item?id=31498388"
+    ],
+    [
+      "A Design History of Childhood (2013)",
+      "https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "California parents could soon sue for social media addiction",
       "https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124"
-    ]
-  ],
-  [
-    [
-      "2022-05-23, 22:27:05",
-      "https://news.ycombinator.com/item?id=31485616"
-    ],
-    [
-      "The Nightmare of Getting Doom Running on a RS/6000 [video]",
-      "https://www.youtube.com/watch?v=XzhCGSE7KKw"
     ]
   ]
 ]
