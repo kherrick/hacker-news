@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-05-26, 16:10:09",
-      "https://news.ycombinator.com/item?id=31520090"
+      "2022-05-26, 16:40:55",
+      "https://news.ycombinator.com/item?id=31520483"
     ],
     [
-      "I did not get pay rise – as only person in team. Should I quit?",
-      "https://news.ycombinator.com/item?id=31520090"
+      "Which dinosaurs lived in your hometown?",
+      "https://dinosaurpictures.org/ancient-earth#260"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "PlanetScale Insights: Advanced query monitoring",
       "https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 14:57:50",
+      "https://news.ycombinator.com/item?id=31519122"
+    ],
+    [
+      "Ask HN: Why XMPP failed and SMTP didn't?",
+      "https://news.ycombinator.com/item?id=31519122"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31517788"
     ],
     [
-      "Low-Cost Gel Film Can Pluck Drinking Water from Desert Air",
+      "Low-cost gel film can pluck drinking water from desert air",
       "https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Ask HN: How do you sync your computer’s development configurations/environment?",
       "https://news.ycombinator.com/item?id=31517668"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 12:32:16",
-      "https://news.ycombinator.com/item?id=31517505"
-    ],
-    [
-      "Mental model examples and their explanations",
-      "https://fronterablog.com/mental-model-examples-and-their-explanations/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2022-05-26, 04:28:58",
-      "https://news.ycombinator.com/item?id=31514559"
-    ],
-    [
-      "Bernstein v. the U.S. Department of State (2014)",
-      "https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 03:05:05",
       "https://news.ycombinator.com/item?id=31513919"
     ],
     [
-      "Imagen Open Source implementation from the same developer as the one for DALL-E2",
+      "Implementation of Imagen, Google's text-to-image neural network, in PyTorch",
       "https://github.com/lucidrains/imagen-pytorch"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 00:35:28",
+      "https://news.ycombinator.com/item?id=31512794"
+    ],
+    [
+      "Lucid recalls all of its 2022 Air EVs",
+      "https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html"
     ]
   ],
   [
