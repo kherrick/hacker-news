@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-05-26, 20:31:09",
-      "https://news.ycombinator.com/item?id=31523019"
-    ],
-    [
-      "Proton Is Trying to Become Google Without Your Data",
-      "https://www.wired.com/story/proton-mail-calendar-drive-vpn/"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 19:28:41",
       "https://news.ycombinator.com/item?id=31522414"
     ],
@@ -277,6 +267,16 @@
     [
       "Parsing JSON faster with Intel AVX-512",
       "https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 21:28:25",
+      "https://news.ycombinator.com/item?id=31510814"
+    ],
+    [
+      "Minimizing correlated failures in distributed systems",
+      "https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/"
     ]
   ],
   [
