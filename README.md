@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
 * [2022-05-26, 02:20:48](https://news.ycombinator.com/item?id=31513514) - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 * [2022-05-26, 01:19:33](https://news.ycombinator.com/item?id=31513103) - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
 * [2022-05-26, 01:01:49](https://news.ycombinator.com/item?id=31512985) - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31512985)
@@ -23,13 +24,12 @@
 * [2022-05-25, 16:50:51](https://news.ycombinator.com/item?id=31507106) - [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
 * [2022-05-25, 15:24:45](https://news.ycombinator.com/item?id=31505883) - [DARPA moving forward with nuclear thermal engine design](https://orbitalindex.com/archive/2022-05-25-Issue-170/)
 * [2022-05-25, 13:10:03](https://news.ycombinator.com/item?id=31504002) - [Show HN: VideoMentions – Search YouTube based on the spoken words in videos](https://videomentions.com/search)
-* [2022-05-25, 11:50:35](https://news.ycombinator.com/item?id=31503201) - [Ask HN: What game do you wish existed?](https://news.ycombinator.com/item?id=31503201)
 * [2022-05-25, 11:40:49](https://news.ycombinator.com/item?id=31503107) - [The Guide to Push Notifications for Developers](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
 * [2022-05-25, 08:04:28](https://news.ycombinator.com/item?id=31501773) - [Turn Mouse Events into Art](https://github.com/furkanonder/karbon)
+* [2022-05-24, 22:40:12](https://news.ycombinator.com/item?id=31498388) - [A Design History of Childhood (2013)](https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/)
 * [2022-05-24, 20:49:02](https://news.ycombinator.com/item?id=31497405) - [The Gödel Metric](https://en.wikipedia.org/wiki/G%C3%B6del_metric)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
 * [2022-05-24, 15:14:44](https://news.ycombinator.com/item?id=31493179) - [California parents could soon sue for social media addiction](https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124)
-* [2022-05-23, 22:27:05](https://news.ycombinator.com/item?id=31485616) - [The Nightmare of Getting Doom Running on a RS/6000 [video]](https://www.youtube.com/watch?v=XzhCGSE7KKw)
 
 ## [Archives](archives/index.md)
 

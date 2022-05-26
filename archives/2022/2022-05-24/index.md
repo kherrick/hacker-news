@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-24](index.md)
 
+* [2022-05-24, 22:40:12](https://news.ycombinator.com/item?id=31498388) - [A Design History of Childhood (2013)](https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/)
 * [2022-05-24, 21:58:15](https://news.ycombinator.com/item?id=31497972) - [We fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
