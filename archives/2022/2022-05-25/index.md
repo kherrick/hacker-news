@@ -14,6 +14,7 @@
 * [2022-05-25, 21:47:03](https://news.ycombinator.com/item?id=31511047) - [Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon](https://www.nature.com/articles/s41586-022-04780-4)
 * [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
 * [2022-05-25, 21:15:10](https://news.ycombinator.com/item?id=31510662) - [New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
+* [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing Link Between Alzheimer’s and Vascular Disease Found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
 * [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 17:00:11](https://news.ycombinator.com/item?id=31520724) - [EasyPost (YC S13) Is Hiring Remote Engineers](https://www.easypost.com/careers)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
+* [2022-05-26, 16:14:00](https://news.ycombinator.com/item?id=31520145) - [PSA: HelloFresh doesn't delete data when asked, only changes the email address](https://news.ycombinator.com/item?id=31520145)
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
 * [2022-05-26, 15:07:33](https://news.ycombinator.com/item?id=31519253) - [Smart landing page on writing copy for landing pages](https://www.copyipsum.com/)
 * [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
@@ -13,7 +15,6 @@
 * [2022-05-26, 13:22:24](https://news.ycombinator.com/item?id=31518010) - [‘Mind blowing’ ancient settlements uncovered in the Amazon](https://www.nature.com/articles/d41586-022-01458-9)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-cost gel film can pluck drinking water from desert air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computer’s development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
-* [2022-05-26, 12:01:07](https://news.ycombinator.com/item?id=31517272) - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
 * [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 11:22:34](https://news.ycombinator.com/item?id=31517039) - [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
@@ -21,15 +22,14 @@
 * [2022-05-26, 08:27:56](https://news.ycombinator.com/item?id=31516013) - [Why We Switched from Python to Go (2021)](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
 * [2022-05-26, 08:22:37](https://news.ycombinator.com/item?id=31515982) - [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
-* [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Implementation of Imagen, Google's text-to-image neural network, in PyTorch](https://github.com/lucidrains/imagen-pytorch)
 * [2022-05-26, 00:35:28](https://news.ycombinator.com/item?id=31512794) - [Lucid recalls all of its 2022 Air EVs](https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html)
+* [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing Link Between Alzheimer’s and Vascular Disease Found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
 * [2022-05-25, 15:54:03](https://news.ycombinator.com/item?id=31506319) - [Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [2022-05-25, 10:58:57](https://news.ycombinator.com/item?id=31502742) - [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
 * [2022-05-25, 10:25:56](https://news.ycombinator.com/item?id=31502530) - [Lessons learned as a software developer turned project manager](https://karimjedda.com/lessons-learned-developer-to-project-manager/)
 * [2022-05-24, 21:52:00](https://news.ycombinator.com/item?id=31497918) - [To learn more quickly, brain cells break their DNA (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
 * [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://magazine.atavist.com/a-crime-beyond-belief-vallejo-kidnapping-gone-girl-hoax/)
-* [2022-05-24, 10:59:00](https://news.ycombinator.com/item?id=31490432) - [Tracking the sex of cell lines used in the lab (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919971/)
 
 ## [Archives](archives/index.md)
 
