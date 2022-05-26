@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [“It's done in hardware so it's cheap” (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 * [2022-05-26, 21:00:13](https://news.ycombinator.com/item?id=31523300) - [Release (YC W20) Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 * [2022-05-26, 20:56:42](https://news.ycombinator.com/item?id=31523261) - [FriendDA](https://friendda.org/)
 * [2022-05-26, 20:31:09](https://news.ycombinator.com/item?id=31523019) - [Proton Is Trying to Become Google Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
@@ -20,7 +21,6 @@
 * [2022-05-26, 13:22:24](https://news.ycombinator.com/item?id=31518010) - [‘Mind blowing’ ancient settlements uncovered in the Amazon](https://www.nature.com/articles/d41586-022-01458-9)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-cost gel film can pluck drinking water from desert air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:41:59](https://news.ycombinator.com/item?id=31517610) - [The Collison Brothers Built Stripe into a $95B Unicorn](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/)
-* [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 * [2022-05-26, 05:11:38](https://news.ycombinator.com/item?id=31514856) - [Data ordering attacks on deep neural networks](https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/)
