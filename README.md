@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 22:45:08](https://news.ycombinator.com/item?id=31524185) - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
 * [2022-05-26, 21:37:51](https://news.ycombinator.com/item?id=31523659) - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
-* [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [“It's done in hardware so it's cheap” (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
+* [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [It's done in hardware so it's cheap (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 * [2022-05-26, 21:00:13](https://news.ycombinator.com/item?id=31523300) - [Release (YC W20) Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 * [2022-05-26, 20:56:42](https://news.ycombinator.com/item?id=31523261) - [FriendDA](https://friendda.org/)
 * [2022-05-26, 20:31:09](https://news.ycombinator.com/item?id=31523019) - [Proton Is Trying to Become Google Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
@@ -28,7 +29,6 @@
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 * [2022-05-25, 21:28:25](https://news.ycombinator.com/item?id=31510814) - [Minimizing correlated failures in distributed systems](https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/)
 * [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing Link Between Alzheimer’s and Vascular Disease Found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
-* [2022-05-25, 10:25:56](https://news.ycombinator.com/item?id=31502530) - [Lessons learned as a software developer turned project manager](https://karimjedda.com/lessons-learned-developer-to-project-manager/)
 * [2022-05-24, 21:52:00](https://news.ycombinator.com/item?id=31497918) - [To learn more quickly, brain cells break their DNA (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 22:45:08](https://news.ycombinator.com/item?id=31524185) - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
 * [2022-05-26, 21:37:51](https://news.ycombinator.com/item?id=31523659) - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 * [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [“It's done in hardware so it's cheap” (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
