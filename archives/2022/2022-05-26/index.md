@@ -7,6 +7,7 @@
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
 * [2022-05-26, 12:38:23](https://news.ycombinator.com/item?id=31517566) - [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
+* [2022-05-26, 12:32:16](https://news.ycombinator.com/item?id=31517505) - [Mental models that will make you more successful in life](https://fronterablog.com/mental-model-examples-and-their-explanations/)
 * [2022-05-26, 12:01:07](https://news.ycombinator.com/item?id=31517272) - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
 * [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 11:47:59](https://news.ycombinator.com/item?id=31517180) - [Dutch gov't to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
