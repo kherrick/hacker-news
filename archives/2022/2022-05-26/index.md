@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 18:42:22](https://news.ycombinator.com/item?id=31521957) - [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
+* [2022-05-26, 18:25:54](https://news.ycombinator.com/item?id=31521770) - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
+* [2022-05-26, 18:21:45](https://news.ycombinator.com/item?id=31521721) - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
 * [2022-05-26, 18:15:45](https://news.ycombinator.com/item?id=31521665) - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
 * [2022-05-26, 18:05:54](https://news.ycombinator.com/item?id=31521551) - [IPv4 flag day (in 2030-02-01)](https://ipv4flagday.net/)
 * [2022-05-26, 17:42:53](https://news.ycombinator.com/item?id=31521261) - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
