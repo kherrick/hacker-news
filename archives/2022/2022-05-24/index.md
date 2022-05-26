@@ -6,6 +6,7 @@
 
 * [2022-05-24, 22:40:12](https://news.ycombinator.com/item?id=31498388) - [A Design History of Childhood (2013)](https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/)
 * [2022-05-24, 21:58:15](https://news.ycombinator.com/item?id=31497972) - [We fixed the ozone layer (2021)](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
+* [2022-05-24, 21:52:00](https://news.ycombinator.com/item?id=31497918) - [To learn more quickly, brain cells break their DNA (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 21:31:53](https://news.ycombinator.com/item?id=31497765) - [Tracking Heat Records in 400 U.S. Cities](https://pudding.cool/projects/heat-records/)
