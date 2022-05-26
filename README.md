@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein vs. the U.S. Department of State](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
 * [2022-05-26, 02:54:32](https://news.ycombinator.com/item?id=31513829) - [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
@@ -14,7 +15,6 @@
 * [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC fines Twitter $150M for using 2FA phone numbers for ad targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
 * [2022-05-25, 21:15:10](https://news.ycombinator.com/item?id=31510662) - [New England's Largest Battery Is Hidden Inside a Mass. Mountain (2016)](https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station)
 * [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
-* [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 * [2022-05-25, 19:42:54](https://news.ycombinator.com/item?id=31509536) - [Uniformly Sample Points in a Disk](https://twitter.com/keenanisalive/status/1529490555893428226)
 * [2022-05-25, 19:00:48](https://news.ycombinator.com/item?id=31509011) - [Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows](https://minikube.sigs.k8s.io/docs/)
