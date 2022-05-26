@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 18:15:45](https://news.ycombinator.com/item?id=31521665) - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
+* [2022-05-26, 18:05:54](https://news.ycombinator.com/item?id=31521551) - [IPv4 flag day (in 2030-02-01)](https://ipv4flagday.net/)
 * [2022-05-26, 17:42:53](https://news.ycombinator.com/item?id=31521261) - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [2022-05-26, 17:32:25](https://news.ycombinator.com/item?id=31521124) - [Amazon investors nuke ethics overhaul and say yes to $212m CEO pay](https://www.theregister.com/2022/05/26/amazon_investors_kill_15_proposals/)
 * [2022-05-26, 17:11:22](https://news.ycombinator.com/item?id=31520878) - [Stanford’s President and Provost Must Resign](https://theymustresign.substack.com/p/stanfords-president-and-provost-must)
@@ -32,6 +34,7 @@
 * [2022-05-26, 13:22:24](https://news.ycombinator.com/item?id=31518010) - [‘Mind blowing’ ancient settlements uncovered in the Amazon](https://www.nature.com/articles/d41586-022-01458-9)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
+* [2022-05-26, 12:41:59](https://news.ycombinator.com/item?id=31517610) - [The Collison Brothers Built Stripe into a $95B Unicorn](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/)
 * [2022-05-26, 12:38:23](https://news.ycombinator.com/item?id=31517566) - [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
 * [2022-05-26, 12:32:16](https://news.ycombinator.com/item?id=31517505) - [Mental models that will make you more successful in life](https://fronterablog.com/mental-model-examples-and-their-explanations/)
 * [2022-05-26, 12:01:07](https://news.ycombinator.com/item?id=31517272) - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)

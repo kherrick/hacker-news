@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 18:15:45](https://news.ycombinator.com/item?id=31521665) - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
+* [2022-05-26, 18:05:54](https://news.ycombinator.com/item?id=31521551) - [IPv4 flag day (in 2030-02-01)](https://ipv4flagday.net/)
 * [2022-05-26, 17:42:53](https://news.ycombinator.com/item?id=31521261) - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [2022-05-26, 17:32:25](https://news.ycombinator.com/item?id=31521124) - [Amazon investors nuke ethics overhaul and say yes to $212m CEO pay](https://www.theregister.com/2022/05/26/amazon_investors_kill_15_proposals/)
 * [2022-05-26, 17:00:11](https://news.ycombinator.com/item?id=31520724) - [EasyPost (YC S13) Is Hiring Remote Engineers](https://www.easypost.com/careers)
@@ -7,7 +9,6 @@
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
 * [2022-05-26, 16:20:54](https://news.ycombinator.com/item?id=31520229) - [ESPHome – Connect ESP32 with Sensors to HomeAssistant](https://esphome.io/index.html)
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
-* [2022-05-26, 15:07:33](https://news.ycombinator.com/item?id=31519253) - [Smart landing page on writing copy for landing pages](https://www.copyipsum.com/)
 * [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
 * [2022-05-26, 15:02:59](https://news.ycombinator.com/item?id=31519197) - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
 * [2022-05-26, 14:57:50](https://news.ycombinator.com/item?id=31519122) - [Ask HN: Why XMPP failed and SMTP didn't?](https://news.ycombinator.com/item?id=31519122)
@@ -17,11 +18,11 @@
 * [2022-05-26, 13:30:32](https://news.ycombinator.com/item?id=31518106) - [Why unprecedented birdflu outbreaks sweeping the world are concerning scientists](https://www.nature.com/articles/d41586-022-01338-2)
 * [2022-05-26, 13:22:24](https://news.ycombinator.com/item?id=31518010) - [‘Mind blowing’ ancient settlements uncovered in the Amazon](https://www.nature.com/articles/d41586-022-01458-9)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-cost gel film can pluck drinking water from desert air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
+* [2022-05-26, 12:41:59](https://news.ycombinator.com/item?id=31517610) - [The Collison Brothers Built Stripe into a $95B Unicorn](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/)
 * [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 11:22:34](https://news.ycombinator.com/item?id=31517039) - [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 * [2022-05-26, 08:45:29](https://news.ycombinator.com/item?id=31516105) - [Decoding A City In A Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
-* [2022-05-26, 08:22:37](https://news.ycombinator.com/item?id=31515982) - [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 * [2022-05-26, 00:35:28](https://news.ycombinator.com/item?id=31512794) - [Lucid recalls all of its 2022 Air EVs](https://www.engadget.com/lucid-issues-recall-for-2022-air-evs-with-faulty-wiring-harness-151907286.html)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
@@ -29,7 +30,6 @@
 * [2022-05-25, 15:54:03](https://news.ycombinator.com/item?id=31506319) - [Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [2022-05-25, 10:25:56](https://news.ycombinator.com/item?id=31502530) - [Lessons learned as a software developer turned project manager](https://karimjedda.com/lessons-learned-developer-to-project-manager/)
 * [2022-05-24, 21:52:00](https://news.ycombinator.com/item?id=31497918) - [To learn more quickly, brain cells break their DNA (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
-* [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://magazine.atavist.com/a-crime-beyond-belief-vallejo-kidnapping-gone-girl-hoax/)
 
 ## [Archives](archives/index.md)
 
