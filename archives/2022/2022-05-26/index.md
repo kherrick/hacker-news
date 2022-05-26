@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 02:20:48](https://news.ycombinator.com/item?id=31513514) - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 * [2022-05-26, 01:19:33](https://news.ycombinator.com/item?id=31513103) - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
 * [2022-05-26, 01:01:49](https://news.ycombinator.com/item?id=31512985) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31512985)
 * [2022-05-26, 01:00:52](https://news.ycombinator.com/item?id=31512977) - [Building an interface (even if there's only one implementation) is always right](https://vadosware.io/post/building-an-interface-with-one-implementation-is-unquestionably-right/)
