@@ -13,6 +13,7 @@
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite's New “Fiddle” App](https://sqlite.org/fiddle/)
 * [2022-05-26, 13:56:45](https://news.ycombinator.com/item?id=31518385) - [Physicists Rewrite the Fundamental Law That Leads to Disorder](https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/)
 * [2022-05-26, 13:43:11](https://news.ycombinator.com/item?id=31518234) - [The Two Choices That Keep a Midlife Crisis at Bay](https://www.theatlantic.com/family/archive/2022/05/midlife-crisis-choices-opportunities/638427/)
+* [2022-05-26, 13:22:24](https://news.ycombinator.com/item?id=31518010) - [‘Mind blowing’ ancient settlements uncovered in the Amazon](https://www.nature.com/articles/d41586-022-01458-9)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
 * [2022-05-26, 12:38:23](https://news.ycombinator.com/item?id=31517566) - [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
