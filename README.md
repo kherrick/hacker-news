@@ -28,7 +28,7 @@
 * [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
-* [2022-05-24, 15:14:44](https://news.ycombinator.com/item?id=31493179) - [California parents could soon sue for social media addiction](https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124)
+* [2022-05-24, 06:51:35](https://news.ycombinator.com/item?id=31488822) - [Inbox, diary, to-do list: now choose just two](https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/)
 * [2022-05-23, 22:27:05](https://news.ycombinator.com/item?id=31485616) - [The Nightmare of Getting Doom Running on a RS/6000 [video]](https://www.youtube.com/watch?v=XzhCGSE7KKw)
 
 ## [Archives](archives/index.md)
