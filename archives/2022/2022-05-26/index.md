@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
 * [2022-05-26, 15:02:59](https://news.ycombinator.com/item?id=31519197) - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
+* [2022-05-26, 14:57:50](https://news.ycombinator.com/item?id=31519122) - [Ask HN: Why XMPP failed and SMTP didn't?](https://news.ycombinator.com/item?id=31519122)
+* [2022-05-26, 14:39:02](https://news.ycombinator.com/item?id=31518873) - [Is DuckDuckGo, DuckDuckDone?](https://kevq.uk/is-duckduckgo-duckduckdone/)
 * [2022-05-26, 14:29:40](https://news.ycombinator.com/item?id=31518749) - [Apple Removes Flag Icons in Monterey 12.4](https://news.ycombinator.com/item?id=31518749)
 * [2022-05-26, 14:20:07](https://news.ycombinator.com/item?id=31518637) - [Ex-Google tech lead brags about how he trashed women's resumes](https://www.businessinsider.com/ex-google-staff-brags-iabout-trashing-female-coders-resumes-2022-5)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite's New “Fiddle” App](https://sqlite.org/fiddle/)

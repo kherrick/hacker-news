@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 15:06:49](https://news.ycombinator.com/item?id=31519240) - [Bolt Financial's loans come due](https://www.axios.com/2022/05/26/bolt-financials-loans-come-due)
 * [2022-05-26, 15:02:59](https://news.ycombinator.com/item?id=31519197) - [PlanetScale Insights: Advanced query monitoring](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)
-* [2022-05-26, 14:29:40](https://news.ycombinator.com/item?id=31518749) - [Apple Removes Flag Icons in Monterey 12.4](https://news.ycombinator.com/item?id=31518749)
+* [2022-05-26, 14:57:50](https://news.ycombinator.com/item?id=31519122) - [Ask HN: Why XMPP failed and SMTP didn't?](https://news.ycombinator.com/item?id=31519122)
+* [2022-05-26, 14:39:02](https://news.ycombinator.com/item?id=31518873) - [Is DuckDuckGo, DuckDuckDone?](https://kevq.uk/is-duckduckgo-duckduckdone/)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite 3 Fiddle](https://sqlite.org/fiddle/)
 * [2022-05-26, 13:56:45](https://news.ycombinator.com/item?id=31518385) - [Physicists Rewrite the Fundamental Law That Leads to Disorder](https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
@@ -16,7 +18,6 @@
 * [2022-05-26, 08:27:56](https://news.ycombinator.com/item?id=31516013) - [Why We Switched from Python to Go (2021)](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
 * [2022-05-26, 08:22:37](https://news.ycombinator.com/item?id=31515982) - [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
-* [2022-05-26, 05:50:13](https://news.ycombinator.com/item?id=31515085) - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
 * [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein v. the U.S. Department of State (2014)](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
@@ -27,8 +28,7 @@
 * [2022-05-25, 10:58:57](https://news.ycombinator.com/item?id=31502742) - [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
 * [2022-05-25, 10:25:56](https://news.ycombinator.com/item?id=31502530) - [Lessons learned as a software developer turned project manager](https://karimjedda.com/lessons-learned-developer-to-project-manager/)
 * [2022-05-25, 08:57:06](https://news.ycombinator.com/item?id=31502040) - [Metamaterial Absorber for Loudspeaker Enclosures (2020)](https://www.aes.org/e-lib/browse.cfm?elib=20758)
-* [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
-* [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://longreads.com/2022/05/04/crime-beyond-belief-kidnapping-hoax-atavist/)
+* [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://magazine.atavist.com/a-crime-beyond-belief-vallejo-kidnapping-gone-girl-hoax/)
 * [2022-05-24, 10:59:00](https://news.ycombinator.com/item?id=31490432) - [Tracking the sex of cell lines used in the lab (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919971/)
 
 ## [Archives](archives/index.md)
