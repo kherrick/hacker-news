@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 17:42:53](https://news.ycombinator.com/item?id=31521261) - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [2022-05-26, 17:32:25](https://news.ycombinator.com/item?id=31521124) - [Amazon investors nuke ethics overhaul and say yes to $212m CEO pay](https://www.theregister.com/2022/05/26/amazon_investors_kill_15_proposals/)
 * [2022-05-26, 17:11:22](https://news.ycombinator.com/item?id=31520878) - [Stanford’s President and Provost Must Resign](https://theymustresign.substack.com/p/stanfords-president-and-provost-must)
 * [2022-05-26, 17:11:07](https://news.ycombinator.com/item?id=31520872) - [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/)
@@ -11,6 +12,7 @@
 * [2022-05-26, 16:48:47](https://news.ycombinator.com/item?id=31520573) - [A Linux 5.10 patch has caused user-space regressions](https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
 * [2022-05-26, 16:34:37](https://news.ycombinator.com/item?id=31520399) - [Ask HN: Current state of coding .NET code on non-Windows machines](https://news.ycombinator.com/item?id=31520399)
+* [2022-05-26, 16:20:54](https://news.ycombinator.com/item?id=31520229) - [ESPHome – Connect ESP32 with Sensors to HomeAssistant](https://esphome.io/index.html)
 * [2022-05-26, 16:14:00](https://news.ycombinator.com/item?id=31520145) - [PSA: HelloFresh doesn't delete data when asked, only changes the email address](https://news.ycombinator.com/item?id=31520145)
 * [2022-05-26, 16:10:09](https://news.ycombinator.com/item?id=31520090) - [I did not get pay rise – as only person in team. Should I quit?](https://news.ycombinator.com/item?id=31520090)
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
@@ -23,6 +25,7 @@
 * [2022-05-26, 14:29:40](https://news.ycombinator.com/item?id=31518749) - [Apple Removes Flag Icons in Monterey 12.4](https://news.ycombinator.com/item?id=31518749)
 * [2022-05-26, 14:20:07](https://news.ycombinator.com/item?id=31518637) - [Ex-Google tech lead brags about how he trashed women's resumes](https://www.businessinsider.com/ex-google-staff-brags-iabout-trashing-female-coders-resumes-2022-5)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite's New “Fiddle” App](https://sqlite.org/fiddle/)
+* [2022-05-26, 14:17:10](https://news.ycombinator.com/item?id=31518605) - [The Life of a Backpacker in Asia in the 1970s](https://www.perceptivetravel.com/issues/1218/kelly.html)
 * [2022-05-26, 13:56:45](https://news.ycombinator.com/item?id=31518385) - [Physicists Rewrite the Fundamental Law That Leads to Disorder](https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/)
 * [2022-05-26, 13:43:11](https://news.ycombinator.com/item?id=31518234) - [The Two Choices That Keep a Midlife Crisis at Bay](https://www.theatlantic.com/family/archive/2022/05/midlife-crisis-choices-opportunities/638427/)
 * [2022-05-26, 13:30:32](https://news.ycombinator.com/item?id=31518106) - [Why unprecedented birdflu outbreaks sweeping the world are concerning scientists](https://www.nature.com/articles/d41586-022-01338-2)
