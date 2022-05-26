@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 14:20:07](https://news.ycombinator.com/item?id=31518637) - [Ex-Google tech lead brags about how he trashed women's resumes](https://www.businessinsider.com/ex-google-staff-brags-iabout-trashing-female-coders-resumes-2022-5)
+* [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite's New “Fiddle” App](https://sqlite.org/fiddle/)
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
 * [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
 * [2022-05-26, 12:38:23](https://news.ycombinator.com/item?id=31517566) - [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
