@@ -60,6 +60,7 @@
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
 * [2022-05-26, 02:54:32](https://news.ycombinator.com/item?id=31513829) - [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
 * [2022-05-26, 02:48:25](https://news.ycombinator.com/item?id=31513787) - [Evidence and strategies for alcohol control as crime control](https://www.manhattan-institute.org/evidence-and-strategies-for-alcohol-control-as-crime-control)
+* [2022-05-26, 02:41:06](https://news.ycombinator.com/item?id=31513714) - [Friends don’t let friends train small diffusion models](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/)
 * [2022-05-26, 02:20:48](https://news.ycombinator.com/item?id=31513514) - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
 * [2022-05-26, 01:19:33](https://news.ycombinator.com/item?id=31513103) - [Early Copy Protection on the Apple II](https://fadden.com/apple2/cassette-protect.html)
 * [2022-05-26, 01:01:49](https://news.ycombinator.com/item?id=31512985) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31512985)
