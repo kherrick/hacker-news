@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 05:50:13](https://news.ycombinator.com/item?id=31515085) - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
 * [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein v. the U.S. Department of State (2014)](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
@@ -24,7 +25,6 @@
 * [2022-05-25, 11:40:49](https://news.ycombinator.com/item?id=31503107) - [The Guide to Push Notifications for Developers](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
 * [2022-05-25, 08:04:28](https://news.ycombinator.com/item?id=31501773) - [Turn Mouse Events into Art](https://github.com/furkanonder/karbon)
-* [2022-05-25, 03:11:06](https://news.ycombinator.com/item?id=31500190) - [A Timeline of Car Radio History](https://magazine.northeast.aaa.com/daily/life/cars-trucks/auto-history/a-timeline-of-car-radio-history/)
 * [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
