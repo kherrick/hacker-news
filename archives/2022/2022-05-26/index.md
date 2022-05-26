@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 17:11:22](https://news.ycombinator.com/item?id=31520878) - [Stanford’s President and Provost Must Resign](https://theymustresign.substack.com/p/stanfords-president-and-provost-must)
 * [2022-05-26, 17:00:11](https://news.ycombinator.com/item?id=31520724) - [EasyPost (YC S13) Is Hiring Remote Engineers](https://www.easypost.com/careers)
+* [2022-05-26, 16:48:47](https://news.ycombinator.com/item?id=31520573) - [A Linux 5.10 patch has caused user-space regressions](https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
+* [2022-05-26, 16:34:37](https://news.ycombinator.com/item?id=31520399) - [Ask HN: Current state of coding .NET code on non-Windows machines](https://news.ycombinator.com/item?id=31520399)
 * [2022-05-26, 16:14:00](https://news.ycombinator.com/item?id=31520145) - [PSA: HelloFresh doesn't delete data when asked, only changes the email address](https://news.ycombinator.com/item?id=31520145)
 * [2022-05-26, 16:10:09](https://news.ycombinator.com/item?id=31520090) - [I did not get pay rise – as only person in team. Should I quit?](https://news.ycombinator.com/item?id=31520090)
 * [2022-05-26, 15:08:30](https://news.ycombinator.com/item?id=31519264) - [Removing blur from images – deconvolution and using simple image filters](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
