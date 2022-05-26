@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein vs. the U.S. Department of State](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
 * [2022-05-26, 03:05:05](https://news.ycombinator.com/item?id=31513919) - [Imagen Open Source implementation from the same developer as the one for DALL-E2](https://github.com/lucidrains/imagen-pytorch)
 * [2022-05-26, 02:54:32](https://news.ycombinator.com/item?id=31513829) - [Yes, I was forced to be a child star. it was never my dream or my idea](https://wilwheaton.net/2022/05/yes-i-was-forced-to-be-a-child-star-it-was-never-my-dream-or-my-idea/)
 * [2022-05-26, 02:20:48](https://news.ycombinator.com/item?id=31513514) - [Startup Trail: The Game of Startup Survival](https://startuptrail.engine.is/)
