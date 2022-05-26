@@ -26,10 +26,10 @@
 * [2022-05-25, 11:40:49](https://news.ycombinator.com/item?id=31503107) - [The Guide to Push Notifications for Developers](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
 * [2022-05-25, 08:04:28](https://news.ycombinator.com/item?id=31501773) - [Turn Mouse Events into Art](https://github.com/furkanonder/karbon)
+* [2022-05-25, 03:11:06](https://news.ycombinator.com/item?id=31500190) - [A Timeline of Car Radio History](https://magazine.northeast.aaa.com/daily/life/cars-trucks/auto-history/a-timeline-of-car-radio-history/)
 * [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
 * [2022-05-24, 16:51:01](https://news.ycombinator.com/item?id=31494498) - [Show HN: Muse 2.0 with local-first sync](https://museapp.com/memos/2022-05-dive-into-big-ideas-with-muse-2.0/)
 * [2022-05-24, 15:14:44](https://news.ycombinator.com/item?id=31493179) - [California parents could soon sue for social media addiction](https://apnews.com/article/technology-california-government-and-politics-netflix-inc-f48601e13be547bf8b86aff42eed5124)
-* [2022-05-23, 22:27:05](https://news.ycombinator.com/item?id=31485616) - [The Nightmare of Getting Doom Running on a RS/6000 [video]](https://www.youtube.com/watch?v=XzhCGSE7KKw)
 
 ## [Archives](archives/index.md)
 

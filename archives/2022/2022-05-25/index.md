@@ -77,6 +77,7 @@
 * [2022-05-25, 03:50:39](https://news.ycombinator.com/item?id=31500414) - [The domain for the Python Requests library is expired](https://docs.python-requests.org/)
 * [2022-05-25, 03:44:29](https://news.ycombinator.com/item?id=31500378) - [Go: Functional Options Are Slow](https://www.evanjones.ca/go-functional-options-slow.html)
 * [2022-05-25, 03:39:59](https://news.ycombinator.com/item?id=31500353) - [How many bots are on Twitter? Question is tough to answer and misses the point](https://www.niemanlab.org/2022/05/how-many-bots-are-on-twitter-the-question-is-tough-to-answer-and-misses-the-point/)
+* [2022-05-25, 03:11:06](https://news.ycombinator.com/item?id=31500190) - [A Timeline of Car Radio History](https://magazine.northeast.aaa.com/daily/life/cars-trucks/auto-history/a-timeline-of-car-radio-history/)
 * [2022-05-25, 03:09:22](https://news.ycombinator.com/item?id=31500174) - [Naur on Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2022-05-25, 02:39:42](https://news.ycombinator.com/item?id=31500007) - [Scrapism](https://scrapism.lav.io/)
 * [2022-05-25, 02:12:15](https://news.ycombinator.com/item?id=31499874) - [The Era of Borderless Data Is Ending](https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html)
