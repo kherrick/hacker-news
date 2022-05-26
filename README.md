@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-26, 13:01:32](https://news.ycombinator.com/item?id=31517788) - [Low-Cost Gel Film Can Pluck Drinking Water from Desert Air](https://news.utexas.edu/2022/05/23/low-cost-gel-film-can-pluck-drinking-water-from-desert-air/)
-* [2022-05-26, 12:49:41](https://news.ycombinator.com/item?id=31517668) - [Ask HN: How do you sync your computers development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
 * [2022-05-26, 12:38:23](https://news.ycombinator.com/item?id=31517566) - [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
 * [2022-05-26, 12:32:16](https://news.ycombinator.com/item?id=31517505) - [Mental models that will make you more successful in life](https://fronterablog.com/mental-model-examples-and-their-explanations/)
 * [2022-05-26, 12:01:07](https://news.ycombinator.com/item?id=31517272) - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
@@ -29,6 +28,7 @@
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
 * [2022-05-24, 21:39:48](https://news.ycombinator.com/item?id=31497827) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-24, 16:15:25](https://news.ycombinator.com/item?id=31493987) - [This Wasn’t His First Time](https://longreads.com/2022/05/04/crime-beyond-belief-kidnapping-hoax-atavist/)
+* [2022-05-24, 10:59:00](https://news.ycombinator.com/item?id=31490432) - [Tracking the sex of cell lines used in the lab (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919971/)
 * [2022-05-24, 06:51:35](https://news.ycombinator.com/item?id=31488822) - [Inbox, diary, to-do list: now choose just two](https://realreturns.blog/2022/05/08/inbox-diary-to-do-list-now-choose-just-two/)
 
 ## [Archives](archives/index.md)
