@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 21:37:51](https://news.ycombinator.com/item?id=31523659) - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
+* [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 * [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [“It's done in hardware so it's cheap” (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 * [2022-05-26, 21:00:13](https://news.ycombinator.com/item?id=31523300) - [Release (YC W20) Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 * [2022-05-26, 20:56:42](https://news.ycombinator.com/item?id=31523261) - [FriendDA](https://friendda.org/)
@@ -58,6 +60,7 @@
 * [2022-05-26, 08:30:19](https://news.ycombinator.com/item?id=31516020) - [Tech Layoff Tracker](https://www.trueup.io/layoffs)
 * [2022-05-26, 08:27:56](https://news.ycombinator.com/item?id=31516013) - [Why We Switched from Python to Go](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
 * [2022-05-26, 08:22:37](https://news.ycombinator.com/item?id=31515982) - [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
+* [2022-05-26, 08:13:15](https://news.ycombinator.com/item?id=31515938) - [The End of Big Data](https://benn.substack.com/p/the-end-of-big-data)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
 * [2022-05-26, 07:29:01](https://news.ycombinator.com/item?id=31515678) - [List of Tech company layoffs in Europe](https://sifted.eu/articles/startup-tech-company-layoffs/)
 * [2022-05-26, 06:16:01](https://news.ycombinator.com/item?id=31515253) - [NSFW: DeepNude v2](https://app.deepnude.cc/upload)
