@@ -129,6 +129,116 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31516108">
+          <h3>
+            <a class="item" href="https://vertigo.ai/focus/"
+              >Show HN: I turned my face rec system into a video codec</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-05-26 @ 08:45:42</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31516108"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                When the real world shut down, there was suddenly nothing to
+                monitor on streets and in restaurants, so I set out to try and
+                evolve our real time face recognition system into a video codec
+                for high quality face-to-face online interactions, as I was not
+                satisfied with the quality of Zoom and friends. I got it to
+                work, and the first release for IOS was just approved on Apple's
+                app store, link:
+                <a href="https://apps.apple.com/app/vertigo-focus/id1540073203"
+                  >https://apps.apple.com/app/vertigo-focus/id1540073203</a
+                >
+              </p>
+              <p>
+                The way it works is that you create a meeting URL, which you can
+                share out-of-band, for instance via slack or text message. You
+                can also share as a QR code which the app can scan to join a
+                call. You then place your device on a surface in front of you so
+                that the front camera can see you, and it will recognize you
+                face and assign you to your own session, which is broadcast to
+                the meeting channel. If more than one person is in view, both of
+                you will be broadcast but with separate session ids, like if you
+                were on separate cameras. Other meeting participants will show
+                up on your screen and you can start talking. It is optimized for
+                eye contact, meaning that the eyes will actually make it through
+                to the other side as more than just dark pixel clouds, so thinks
+                should feel a bit more personal than the standard Zoom/Teams/or
+                Google Meet call.
+              </p>
+              <p>
+                Because it uses face rec, you can ONLY show your face, and if
+                you disappear from view your audio will stop after a while, to
+                avoid situations like when you need to go the the restroom but
+                forget to mute. This also solves dick-pics etc.
+              </p>
+              <p>
+                The CODEC is not based on H26[45], but is pure AI that runs on
+                the GPU. There is a neural network that compresses the video in
+                real time, and another one decompressing on the receiving end.
+                Finding a tight network architecture that would do this in real
+                time with acceptable quality was a major part of the effort.
+                There are several quality settings possible, but right now it is
+                set fairly high and for 20FPS maxes out around 700kbit/s, though
+                typically uses about half. I've demonstrated good results down
+                to around 200kbit/s, so in theory it should work over satellite
+                links or even Bluetooth. The protocol is UDP with no congestion
+                control but with (Wirehair) FEC to protect against mild packet
+                loss, future versions will detect packet loss and adapt to
+                available bandwidth.
+              </p>
+              <p>
+                The audio just uses OPUS and may click a little bit, I blame
+                AudioEngine or the fact that the last time I wrote audio code
+                was for the game I published for the Amiga in 1994.
+              </p>
+              <p>
+                If you don't have a friend around or multiple devices to play
+                with, there is an "echo test" server mode that allows you to be
+                in a meeting with yourself. Traffic will be peer-to-peer if
+                possible, but otherwise you will be relaying through my tiny
+                Raspberry PI server, so YMMV. I plan to try to switch to
+                something like fly.io soon to improve scalability.
+              </p>
+              <p>
+                There is also a MacOS version coming very soon, and the
+                underlying AI engine also runs on Windows &amp; Linux. Android
+                support is planned.
+              </p>
+              <p>Please take a look and let me know what you think.</p>
+            </div>
+          </section>
+        </section>
+        <section id="31516105">
+          <h3>
+            <a
+              class="item"
+              href="https://observablehq.com/@darabos/decoding-a-city-in-a-bottle"
+              >A City in a Bottle</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-05-26 @ 08:45:29</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31516105"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="31515787">
           <h3>
             <a
@@ -141,11 +251,11 @@
             <h4>
               <span>2022-05-26 @ 07:48:05</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31515787"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -162,11 +272,11 @@
             <h4>
               <span>2022-05-26 @ 07:29:01</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31515678"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -181,7 +291,7 @@
             <h4>
               <span>2022-05-26 @ 05:50:13</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31515085"
                   >Comments</a
@@ -202,11 +312,11 @@
             <h4>
               <span>2022-05-26 @ 04:59:31</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31514774"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -227,7 +337,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31514559"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -243,11 +353,11 @@
             <h4>
               <span>2022-05-26 @ 03:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31513919"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -265,11 +375,11 @@
             <h4>
               <span>2022-05-26 @ 02:54:32</span
               ><span class="points-container"
-                >Points: <span class="points">277</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31513829"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -288,7 +398,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31513514"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -305,7 +415,7 @@
             <h4>
               <span>2022-05-26 @ 01:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31513103"
                   >Comments</a
@@ -365,11 +475,11 @@
             <h4>
               <span>2022-05-25 @ 22:39:36</span
               ><span class="points-container"
-                >Points: <span class="points">416</span></span
+                >Points: <span class="points">420</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31511719"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -407,11 +517,11 @@
             <h4>
               <span>2022-05-25 @ 22:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31511274"
                   >Comments</a
-                ><span class="descendants">: 959</span></span
+                ><span class="descendants">: 975</span></span
               >
             </h4>
           </section>
@@ -429,11 +539,11 @@
             <h4>
               <span>2022-05-25 @ 21:47:03</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31511047"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -451,33 +561,11 @@
             <h4>
               <span>2022-05-25 @ 21:32:46</span
               ><span class="points-container"
-                >Points: <span class="points">1117</span></span
+                >Points: <span class="points">1123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31510865"
                   >Comments</a
-                ><span class="descendants">: 279</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31510662">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wbur.org/news/2016/12/02/northfield-mountain-hydroelectric-station"
-              >New England's Largest Battery Is Hidden Inside a Mass. Mountain
-              (2016)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-05-25 @ 21:15:10</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31510662"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 281</span></span
               >
             </h4>
           </section>
@@ -516,11 +604,11 @@
             <h4>
               <span>2022-05-25 @ 20:01:10</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31509777"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -537,11 +625,11 @@
             <h4>
               <span>2022-05-25 @ 19:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31509536"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -557,11 +645,11 @@
             <h4>
               <span>2022-05-25 @ 19:00:48</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31509011"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -577,7 +665,7 @@
             <h4>
               <span>2022-05-25 @ 18:49:56</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31508850"
                   >Comments</a
@@ -678,11 +766,11 @@
             <h4>
               <span>2022-05-25 @ 15:54:03</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31506319"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -699,11 +787,32 @@
             <h4>
               <span>2022-05-25 @ 11:40:49</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31503107"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31502742">
+          <h3>
+            <a
+              class="item"
+              href="http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/"
+              >Behind the Pretty Frames: Elden Ring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-05-25 @ 10:58:57</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31502742"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -720,11 +829,11 @@
             <h4>
               <span>2022-05-25 @ 08:48:03</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31501980"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -739,7 +848,7 @@
             <h4>
               <span>2022-05-25 @ 08:04:28</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31501773"
                   >Comments</a
@@ -760,32 +869,11 @@
             <h4>
               <span>2022-05-25 @ 01:10:52</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31499502"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31497827">
-          <h3>
-            <a
-              class="item"
-              href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"
-              >A Kernel Hacker Meets Fuchsia OS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-05-24 @ 21:39:48</span
-              ><span class="points-container"
-                >Points: <span class="points">284</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31497827"
-                  >Comments</a
-                ><span class="descendants">: 237</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -924,30 +1012,11 @@
             <h4>
               <span>2022-05-24 @ 06:51:35</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31488822"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31485616">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=XzhCGSE7KKw"
-              >The Nightmare of Getting Doom Running on a RS/6000 [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-05-23 @ 22:27:05</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31485616"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
