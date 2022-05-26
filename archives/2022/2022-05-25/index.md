@@ -18,6 +18,7 @@
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
+* [2022-05-25, 19:42:54](https://news.ycombinator.com/item?id=31509536) - [Uniformly Sample Points in a Disk](https://twitter.com/keenanisalive/status/1529490555893428226)
 * [2022-05-25, 19:01:37](https://news.ycombinator.com/item?id=31509028) - [8-bit number to binary string (2013)](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [2022-05-25, 19:00:48](https://news.ycombinator.com/item?id=31509011) - [Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows](https://minikube.sigs.k8s.io/docs/)
 * [2022-05-25, 18:49:56](https://news.ycombinator.com/item?id=31508850) - [Show HN: Arctype, a cross-platform database GUI for developers and teams](https://arctype.com/)
@@ -80,3 +81,4 @@
 * [2022-05-25, 01:53:31](https://news.ycombinator.com/item?id=31499766) - [The great junk transfer is coming](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
 * [2022-05-25, 01:32:19](https://news.ycombinator.com/item?id=31499629) - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 * [2022-05-25, 01:13:36](https://news.ycombinator.com/item?id=31499513) - [Ask HN: How worried are you about the upcoming recession?](https://news.ycombinator.com/item?id=31499513)
+* [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
