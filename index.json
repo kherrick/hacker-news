@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-26, 14:20:07",
+      "https://news.ycombinator.com/item?id=31518637"
+    ],
+    [
+      "Ex-Google tech lead brags about how he trashed women's resumes",
+      "https://www.businessinsider.com/ex-google-staff-brags-iabout-trashing-female-coders-resumes-2022-5"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 14:18:39",
+      "https://news.ycombinator.com/item?id=31518618"
+    ],
+    [
+      "SQLite's New “Fiddle” App",
+      "https://sqlite.org/fiddle/"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 13:01:32",
       "https://news.ycombinator.com/item?id=31517788"
     ],
@@ -57,16 +77,6 @@
     [
       "Tiddlyhost is a free hosting platform for TiddlyWiki",
       "https://tiddlyhost.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 09:21:18",
-      "https://news.ycombinator.com/item?id=31516292"
-    ],
-    [
-      "Most of Rust job offers are in crypto",
-      "https://scrapingfish.com/blog/are-most-rust-jobs-in-crypto"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Branch/Cmove and Compiler Optimizations",
       "https://kristerw.github.io/2022/05/24/branchless/"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 21:39:48",
-      "https://news.ycombinator.com/item?id=31497827"
-    ],
-    [
-      "A Kernel Hacker Meets Fuchsia OS",
-      "https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"
     ]
   ],
   [
