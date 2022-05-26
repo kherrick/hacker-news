@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-26, 21:37:51",
+      "https://news.ycombinator.com/item?id=31523659"
+    ],
+    [
+      "DjangoCon US 2022: Call for Proposals",
+      "https://pretalx.com/djangocon-2022/cfp"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 21:27:49",
+      "https://news.ycombinator.com/item?id=31523581"
+    ],
+    [
+      "AlloyDB for PostgreSQL Columnar Engine",
+      "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 21:18:16",
       "https://news.ycombinator.com/item?id=31523480"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-05-26, 15:06:49",
-      "https://news.ycombinator.com/item?id=31519240"
-    ],
-    [
-      "Bolt Financial's loans come due",
-      "https://www.axios.com/2022/05/26/bolt-financials-loans-come-due"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 14:18:39",
       "https://news.ycombinator.com/item?id=31518618"
     ],
@@ -167,16 +177,6 @@
     [
       "Physicists Rewrite the Fundamental Law That Leads to Disorder",
       "https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 13:30:32",
-      "https://news.ycombinator.com/item?id=31518106"
-    ],
-    [
-      "Why unprecedented birdflu outbreaks sweeping the world are concerning scientists",
-      "https://www.nature.com/articles/d41586-022-01338-2"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-05-26, 07:48:05",
-      "https://news.ycombinator.com/item?id=31515787"
+      "2022-05-26, 08:13:15",
+      "https://news.ycombinator.com/item?id=31515938"
     ],
     [
-      "What Happened to Perl 7?",
-      "http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html"
+      "The End of Big Data",
+      "https://benn.substack.com/p/the-end-of-big-data"
     ]
   ],
   [
