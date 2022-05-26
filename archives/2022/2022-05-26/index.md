@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 20:46:43](https://news.ycombinator.com/item?id=31523160) - [A Response to Paul Krugman from a Keynesian Bitcoiner](https://saito.tech/an-response-to-paul-krugman-from-a-keynesian-bitcoiner/)
+* [2022-05-26, 20:31:09](https://news.ycombinator.com/item?id=31523019) - [Proton Is Trying to Become Google–Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
 * [2022-05-26, 19:28:41](https://news.ycombinator.com/item?id=31522414) - [Virtual Graph Paper](https://virtual-graph-paper.com/)
 * [2022-05-26, 18:42:22](https://news.ycombinator.com/item?id=31521957) - [Deploying 5G Around Trees](https://tech.marksblogg.com/tree-heights-open5g.html)
 * [2022-05-26, 18:25:54](https://news.ycombinator.com/item?id=31521770) - [Linux distro downloads MySQL database password with curl to “fix” security bug](https://kernal.eu/posts/linuxfx-part-2/)
