@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 * [2022-05-27, 09:15:10](https://news.ycombinator.com/item?id=31527544) - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
 * [2022-05-27, 08:55:02](https://news.ycombinator.com/item?id=31527446) - [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)

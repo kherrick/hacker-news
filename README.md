@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 * [2022-05-27, 09:15:10](https://news.ycombinator.com/item?id=31527544) - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
 * [2022-05-27, 08:55:02](https://news.ycombinator.com/item?id=31527446) - [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)
@@ -12,7 +13,6 @@
 * [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 * [2022-05-27, 04:27:04](https://news.ycombinator.com/item?id=31526002) - [Cannoli: The Fast QEMU Tracer](https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx)
 * [2022-05-27, 04:08:48](https://news.ycombinator.com/item?id=31525941) - [The Truth about Inflation](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/)
-* [2022-05-27, 04:05:16](https://news.ycombinator.com/item?id=31525920) - [Ghost recon breakpoint game save disappeared](https://community.stadia.com/t5/Stadia-General/Ghost-recon-breakpoint-game-save-disappeared/m-p/79391#M32421)
 * [2022-05-27, 03:38:38](https://news.ycombinator.com/item?id=31525792) - [Internet drama in Canada](https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html)
 * [2022-05-27, 02:31:56](https://news.ycombinator.com/item?id=31525505) - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
 * [2022-05-27, 00:44:41](https://news.ycombinator.com/item?id=31524950) - [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
