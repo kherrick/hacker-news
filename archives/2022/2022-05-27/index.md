@@ -8,6 +8,7 @@
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 * [2022-05-27, 09:15:10](https://news.ycombinator.com/item?id=31527544) - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
 * [2022-05-27, 08:55:02](https://news.ycombinator.com/item?id=31527446) - [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)
+* [2022-05-27, 08:29:06](https://news.ycombinator.com/item?id=31527306) - [Connection reuse may route traffic to malicious servers](https://bugzilla.mozilla.org/show_bug.cgi?id=1763632)
 * [2022-05-27, 08:14:45](https://news.ycombinator.com/item?id=31527215) - [AWS SNS vs. SQS – Main Differences](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
 * [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
 * [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
