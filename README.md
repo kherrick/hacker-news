@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 08:14:45](https://news.ycombinator.com/item?id=31527215) - [AWS SNS vs. SQS – Main Differences](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
 * [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
-* [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [2022-05-27, 05:18:44](https://news.ycombinator.com/item?id=31526231) - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
 * [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
