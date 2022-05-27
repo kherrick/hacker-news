@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-27, 08:29:06",
+      "https://news.ycombinator.com/item?id=31527306"
+    ],
+    [
+      "Connection reuse may route traffic to malicious servers",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=1763632"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 08:14:45",
       "https://news.ycombinator.com/item?id=31527215"
     ],
@@ -87,16 +97,6 @@
     [
       "Organice: An implementation of Org mode without the dependency of Emacs",
       "https://github.com/200ok-ch/organice"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 04:50:11",
-      "https://news.ycombinator.com/item?id=31526107"
-    ],
-    [
-      "The home of Walmart wants to beat sprawl",
-      "https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl"
     ]
   ],
   [
