@@ -77,6 +77,7 @@
 * [2022-05-25, 09:37:42](https://news.ycombinator.com/item?id=31502276) - [History of 127/8 as localhost/loopback addresses?](https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html)
 * [2022-05-25, 09:34:07](https://news.ycombinator.com/item?id=31502257) - [A Kernel Hacker Meets Fuchsia OS](https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html)
 * [2022-05-25, 09:21:33](https://news.ycombinator.com/item?id=31502193) - [The benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
+* [2022-05-25, 09:20:38](https://news.ycombinator.com/item?id=31502186) - [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 * [2022-05-25, 08:57:06](https://news.ycombinator.com/item?id=31502040) - [Metamaterial Absorber for Loudspeaker Enclosures [pdf]](https://www.aes.org/tmpFiles/elib/20220525/20758.pdf)
 * [2022-05-25, 08:57:06](https://news.ycombinator.com/item?id=31502040) - [Metamaterial Absorber for Loudspeaker Enclosures (2020)](https://www.aes.org/e-lib/browse.cfm?elib=20758)
 * [2022-05-25, 08:48:03](https://news.ycombinator.com/item?id=31501980) - [Branch/Cmove and Compiler Optimizations](https://kristerw.github.io/2022/05/24/branchless/)
