@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
-* [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
 * [2022-05-27, 09:58:21](https://news.ycombinator.com/item?id=31527767) - [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
 * [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Windows OS, Services & Apps: Network Connection Target Hosts](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
@@ -27,6 +26,7 @@
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)
 * [2022-05-25, 22:12:58](https://news.ycombinator.com/item?id=31511361) - [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 * [2022-05-25, 20:56:29](https://news.ycombinator.com/item?id=31510432) - [The Data-Oriented Design Process for Game Development](https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU)
+* [2022-05-25, 16:29:27](https://news.ycombinator.com/item?id=31506785) - [The Last Cigarette: Cinema’s most seductive prop](https://theamericanscholar.org/the-last-cigarette/)
 * [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 * [2022-05-25, 09:20:38](https://news.ycombinator.com/item?id=31502186) - [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 * [2022-05-25, 00:06:29](https://news.ycombinator.com/item?id=31499055) - [Roads to Everywhere](https://lareviewofbooks.org/article/roads-to-everywhere/)
