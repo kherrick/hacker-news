@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-27, 02:31:56",
+      "https://news.ycombinator.com/item?id=31525505"
+    ],
+    [
+      "Ultra compact GAN ATX power supply delivers up to 250 Watts",
+      "https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 00:44:41",
+      "https://news.ycombinator.com/item?id=31524950"
+    ],
+    [
+      "Taxi: A language for documenting data models and the contracts of APIs",
+      "https://docs.taxilang.org/"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 23:55:11",
       "https://news.ycombinator.com/item?id=31524669"
     ],
@@ -31,21 +51,11 @@
   ],
   [
     [
-      "2022-05-26, 21:37:51",
-      "https://news.ycombinator.com/item?id=31523659"
-    ],
-    [
-      "DjangoCon US 2022: Call for Proposals",
-      "https://pretalx.com/djangocon-2022/cfp"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 21:27:49",
       "https://news.ycombinator.com/item?id=31523581"
     ],
     [
-      "AlloyDB for PostgreSQL Columnar Engine",
+      "AlloyDB for PostgreSQL under the hood: Columnar engine",
       "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine"
     ]
   ],
@@ -61,32 +71,22 @@
   ],
   [
     [
+      "2022-05-26, 21:17:50",
+      "https://news.ycombinator.com/item?id=31523474"
+    ],
+    [
+      "Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET",
+      "https://github.com/migueldeicaza/gui.cs"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 21:00:13",
       "https://news.ycombinator.com/item?id=31523300"
     ],
     [
-      "Release (YC W20) Is Hiring – Mid Level Full Stack Engineers",
+      "Release (YC W20) is hiring mid level full stack engineers",
       "https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 20:56:42",
-      "https://news.ycombinator.com/item?id=31523261"
-    ],
-    [
-      "FriendDA",
-      "https://friendda.org/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 20:13:03",
-      "https://news.ycombinator.com/item?id=31522842"
-    ],
-    [
-      "AlmaLinux 9",
-      "https://almalinux.org/blog/almalinux-9-now-available/"
     ]
   ],
   [
@@ -125,8 +125,18 @@
       "https://news.ycombinator.com/item?id=31521665"
     ],
     [
-      "Practical Power Beaming Gets Real",
+      "Practical power beaming gets real",
       "https://spectrum.ieee.org/power-beaming"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 17:42:53",
+      "https://news.ycombinator.com/item?id=31521261"
+    ],
+    [
+      "Two thought experiments to evaluate automated stablecoins",
+      "https://vitalik.ca/general/2022/05/25/stable.html"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31520573"
     ],
     [
-      "A Linux 5.10 patch has caused user-space regressions",
+      "splice() and the ghost of set_fs()",
       "https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31520483"
     ],
     [
-      "Which dinosaurs lived in your hometown?",
+      "What did Earth look like X million years ago?",
       "https://dinosaurpictures.org/ancient-earth#260"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=31518605"
     ],
     [
-      "The Life of a Backpacker in Asia in the 1970s",
+      "The Life of a Backpacker in Asia in the 1970s (2018)",
       "https://www.perceptivetravel.com/issues/1218/kelly.html"
     ]
   ],
@@ -195,18 +205,8 @@
       "https://news.ycombinator.com/item?id=31518385"
     ],
     [
-      "Physicists Rewrite the Fundamental Law That Leads to Disorder",
+      "Physicists rewrite the fundamental law that leads to disorder",
       "https://www.quantamagazine.org/physicists-trace-the-rise-in-entropy-to-quantum-information-20220526/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 13:22:24",
-      "https://news.ycombinator.com/item?id=31518010"
-    ],
-    [
-      "‘Mind blowing’ ancient settlements uncovered in the Amazon",
-      "https://www.nature.com/articles/d41586-022-01458-9"
     ]
   ],
   [
@@ -231,11 +231,21 @@
   ],
   [
     [
+      "2022-05-26, 11:48:48",
+      "https://news.ycombinator.com/item?id=31517184"
+    ],
+    [
+      "Broadcom to acquire VMware for $61B",
+      "https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 11:32:45",
       "https://news.ycombinator.com/item?id=31517097"
     ],
     [
-      "How to Walk Underground from Liverpool Street to Farringdon",
+      "How to walk underground from Liverpool Street to Farringdon",
       "https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html"
     ]
   ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31515938"
     ],
     [
-      "The End of Big Data",
+      "The end of big data",
       "https://benn.substack.com/p/the-end-of-big-data"
     ]
   ],
@@ -257,6 +267,16 @@
     [
       "Friends don’t let friends train small diffusion models",
       "https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 23:27:10",
+      "https://news.ycombinator.com/item?id=31512211"
+    ],
+    [
+      "Reward Is Enough (2021)",
+      "https://www.sciencedirect.com/science/article/pii/S0004370221000862"
     ]
   ],
   [
@@ -275,28 +295,8 @@
       "https://news.ycombinator.com/item?id=31510593"
     ],
     [
-      "Missing Link Between Alzheimer’s and Vascular Disease Found?",
+      "Missing link between Alzheimer’s and vascular disease found?",
       "https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 14:48:22",
-      "https://news.ycombinator.com/item?id=31505349"
-    ],
-    [
-      "Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs",
-      "https://github.com/blaze-init/blaze"
-    ]
-  ],
-  [
-    [
-      "2022-05-24, 21:52:00",
-      "https://news.ycombinator.com/item?id=31497918"
-    ],
-    [
-      "To learn more quickly, brain cells break their DNA (2021)",
-      "https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/"
     ]
   ]
 ]
