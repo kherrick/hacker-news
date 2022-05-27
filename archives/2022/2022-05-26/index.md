@@ -10,6 +10,7 @@
 * [2022-05-26, 21:37:51](https://news.ycombinator.com/item?id=31523659) - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 * [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [“It's done in hardware so it's cheap” (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
+* [2022-05-26, 21:17:50](https://news.ycombinator.com/item?id=31523474) - [Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET](https://github.com/migueldeicaza/gui.cs)
 * [2022-05-26, 21:00:13](https://news.ycombinator.com/item?id=31523300) - [Release (YC W20) Is Hiring – Mid Level Full Stack Engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 * [2022-05-26, 20:56:42](https://news.ycombinator.com/item?id=31523261) - [FriendDA](https://friendda.org/)
 * [2022-05-26, 20:46:43](https://news.ycombinator.com/item?id=31523160) - [A Response to Paul Krugman from a Keynesian Bitcoiner](https://saito.tech/an-response-to-paul-krugman-from-a-keynesian-bitcoiner/)
