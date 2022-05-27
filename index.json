@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-05-27, 00:44:41",
-      "https://news.ycombinator.com/item?id=31524950"
-    ],
-    [
-      "Taxi: A language for documenting data models and the contracts of APIs",
-      "https://docs.taxilang.org/"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 00:42:34",
       "https://news.ycombinator.com/item?id=31524943"
     ],
@@ -157,6 +147,16 @@
     [
       "AlloyDB for PostgreSQL under the hood: Columnar engine",
       "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 21:17:50",
+      "https://news.ycombinator.com/item?id=31523474"
+    ],
+    [
+      "Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET",
+      "https://github.com/migueldeicaza/gui.cs"
     ]
   ],
   [
