@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
 * [2022-05-27, 20:58:26](https://news.ycombinator.com/item?id=31534794) - [Magic Doesn‘t Happen, Especially Not in Business](https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business)
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
 * [2022-05-27, 18:56:42](https://news.ycombinator.com/item?id=31533420) - [The age of Scrum is over](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
@@ -27,7 +28,6 @@
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, oh why was this added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-25, 23:58:24](https://news.ycombinator.com/item?id=31512496) - [Last public payphone removed from Manhattan streets](https://pix11.com/news/local-news/last-payphone-in-nyc-to-be-removed/)
 * [2022-05-25, 22:12:58](https://news.ycombinator.com/item?id=31511361) - [A brief rant on the future of interaction design (2011)](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
-* [2022-05-25, 20:20:13](https://news.ycombinator.com/item?id=31509990) - [Strange, Slippery and Beautiful: A Master Essayist at Work](https://www.nytimes.com/2022/05/24/books/review/-uncollected-essays-of-elizabeth-hardwick.html)
 * [2022-05-25, 10:52:07](https://news.ycombinator.com/item?id=31502691) - [Identify ESDI Drive](http://www.os2museum.com/wp/identify-esdi-drive/)
 * [2022-05-25, 09:20:38](https://news.ycombinator.com/item?id=31502186) - [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 
