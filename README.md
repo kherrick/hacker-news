@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
+* [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-* [2022-05-27, 10:41:10](https://news.ycombinator.com/item?id=31527997) - [What Trait Affects Income the Most?](https://economicsfromthetopdown.com/2020/06/02/what-trait-affects-income-the-most/)
 * [2022-05-27, 09:58:21](https://news.ycombinator.com/item?id=31527767) - [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
 * [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Windows OS, Services & Apps: Network Connection Target Hosts](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
@@ -21,7 +22,6 @@
 * [2022-05-27, 00:42:34](https://news.ycombinator.com/item?id=31524943) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2022-05-26, 23:55:11](https://news.ycombinator.com/item?id=31524669) - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
 * [2022-05-26, 23:43:50](https://news.ycombinator.com/item?id=31524597) - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
-* [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite 3 Fiddle](https://sqlite.org/fiddle/)
 * [2022-05-26, 03:43:09](https://news.ycombinator.com/item?id=31514214) - [Kirkbride Plan](https://en.wikipedia.org/wiki/Kirkbride_Plan)
 * [2022-05-26, 03:31:49](https://news.ycombinator.com/item?id=31514138) - [Mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039)
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)
