@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
 * [2022-05-27, 06:37:37](https://news.ycombinator.com/item?id=31526649) - [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
@@ -21,7 +22,6 @@
 * [2022-05-26, 17:42:53](https://news.ycombinator.com/item?id=31521261) - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [2022-05-26, 16:48:47](https://news.ycombinator.com/item?id=31520573) - [splice() and the ghost of set_fs()](https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [What did Earth look like X million years ago?](https://dinosaurpictures.org/ancient-earth#260)
-* [2022-05-26, 16:20:54](https://news.ycombinator.com/item?id=31520229) - [ESPHome – Connect ESP32 with Sensors to HomeAssistant](https://esphome.io/index.html)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite 3 Fiddle](https://sqlite.org/fiddle/)
 * [2022-05-26, 14:17:10](https://news.ycombinator.com/item?id=31518605) - [The Life of a Backpacker in Asia in the 1970s (2018)](https://www.perceptivetravel.com/issues/1218/kelly.html)
 * [2022-05-26, 12:41:59](https://news.ycombinator.com/item?id=31517610) - [The Collison Brothers Built Stripe into a $95B Unicorn](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/)
