@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 06:37:37](https://news.ycombinator.com/item?id=31526649) - [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
+* [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [2022-05-27, 05:18:44](https://news.ycombinator.com/item?id=31526231) - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
 * [2022-05-27, 04:50:11](https://news.ycombinator.com/item?id=31526107) - [The home of Walmart wants to beat sprawl](https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl)
+* [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 * [2022-05-27, 04:27:04](https://news.ycombinator.com/item?id=31526002) - [Cannoli: The Fast QEMU Tracer](https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx)
 * [2022-05-27, 04:05:16](https://news.ycombinator.com/item?id=31525920) - [Ghost recon breakpoint game save disappeared](https://community.stadia.com/t5/Stadia-General/Ghost-recon-breakpoint-game-save-disappeared/m-p/79391#M32421)
 * [2022-05-27, 03:38:38](https://news.ycombinator.com/item?id=31525792) - [Internet drama in Canada](https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html)
@@ -12,8 +15,6 @@
 * [2022-05-26, 23:55:11](https://news.ycombinator.com/item?id=31524669) - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
 * [2022-05-26, 23:43:50](https://news.ycombinator.com/item?id=31524597) - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL under the hood: Columnar engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
-* [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [It's done in hardware so it's cheap (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
-* [2022-05-26, 21:17:50](https://news.ycombinator.com/item?id=31523474) - [Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET](https://github.com/migueldeicaza/gui.cs)
 * [2022-05-26, 21:00:13](https://news.ycombinator.com/item?id=31523300) - [Release (YC W20) is hiring mid level full stack engineers](https://www.ycombinator.com/companies/release/jobs/MUZ0IRm-mid-level-full-stack-engineer-backend-focus-rails-react-next-js)
 * [2022-05-26, 19:28:41](https://news.ycombinator.com/item?id=31522414) - [Virtual Graph Paper](https://virtual-graph-paper.com/)
 * [2022-05-26, 18:21:45](https://news.ycombinator.com/item?id=31521721) - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
@@ -27,7 +28,6 @@
 * [2022-05-26, 11:32:45](https://news.ycombinator.com/item?id=31517097) - [How to walk underground from Liverpool Street to Farringdon](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html)
 * [2022-05-26, 08:13:15](https://news.ycombinator.com/item?id=31515938) - [The end of big data](https://benn.substack.com/p/the-end-of-big-data)
 * [2022-05-26, 03:31:49](https://news.ycombinator.com/item?id=31514138) - [Mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039)
-* [2022-05-25, 23:15:07](https://news.ycombinator.com/item?id=31512100) - [Long Covid and Mitochondrial Dysregulation](https://www.zrtlab.com/blog/archive/long-covid-and-mitochondrial-dysregulation/)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 * [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 
