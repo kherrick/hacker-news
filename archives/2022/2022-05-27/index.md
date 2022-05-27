@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 15:21:33](https://news.ycombinator.com/item?id=31530639) - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
+* [2022-05-27, 15:14:45](https://news.ycombinator.com/item?id=31530552) - [Ivy League students used to be forced to pose nude for photos upon being admitte](https://old.reddit.com/r/ApplyingToCollege/comments/uyqw2l/ivy_league_students_used_to_be_forced_to_pose/)
+* [2022-05-27, 15:14:08](https://news.ycombinator.com/item?id=31530538) - [GNU Guix System](https://en.wikipedia.org/wiki/GNU_Guix_System)
 * [2022-05-27, 14:57:41](https://news.ycombinator.com/item?id=31530379) - [Creating a Modem with HTML5 and the Web Audio API](https://martinmelhus.com/web-audio-modem/)
 * [2022-05-27, 14:38:18](https://news.ycombinator.com/item?id=31530176) - [Ask HN: How can you buy high quality healthcare?](https://news.ycombinator.com/item?id=31530176)
+* [2022-05-27, 14:14:09](https://news.ycombinator.com/item?id=31529876) - [Migrating extraterrestrial civilizations and interstellar colonization](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/migrating-extraterrestrial-civilizations-and-interstellar-colonization-implications-for-seti-and-seta/BFFC1BB63FED869C85172BB3CC88DBBB)
+* [2022-05-27, 14:12:49](https://news.ycombinator.com/item?id=31529863) - [The Secret Math Behind Mind-Reading Magic Tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
 * [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
 * [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
 * [2022-05-27, 12:05:55](https://news.ycombinator.com/item?id=31528557) - [Joseph Stiglitz: 'We should shut down the cryptocurrencies'](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
