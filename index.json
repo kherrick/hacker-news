@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-27, 12:05:55",
+      "https://news.ycombinator.com/item?id=31528557"
+    ],
+    [
+      "Joseph Stiglitz: 'We should shut down the cryptocurrencies'",
+      "https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 12:01:04",
       "https://news.ycombinator.com/item?id=31528519"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2022-05-27, 09:58:21",
+      "https://news.ycombinator.com/item?id=31527767"
+    ],
+    [
+      "Why the government took home prices out of its main inflation index",
+      "https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 09:31:03",
       "https://news.ycombinator.com/item?id=31527621"
     ],
     [
-      "Microsoft Windows operating system talks to 291 hosts and 2,764 IPs",
+      "Windows OS, Services & Apps: Network Connection Target Hosts",
       "https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/"
     ]
   ],
@@ -77,6 +97,16 @@
     [
       "GitHub Is Down Again",
       "https://www.githubstatus.com/incidents/zhtplv7zd052"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 07:15:18",
+      "https://news.ycombinator.com/item?id=31526862"
+    ],
+    [
+      "Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition",
+      "https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/"
     ]
   ],
   [
@@ -191,52 +221,12 @@
   ],
   [
     [
-      "2022-05-26, 21:27:49",
-      "https://news.ycombinator.com/item?id=31523581"
-    ],
-    [
-      "AlloyDB for PostgreSQL under the hood: Columnar engine",
-      "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 21:18:16",
-      "https://news.ycombinator.com/item?id=31523480"
-    ],
-    [
-      "It's done in hardware so it's cheap (2012)",
-      "https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 21:17:50",
-      "https://news.ycombinator.com/item?id=31523474"
-    ],
-    [
-      "Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET",
-      "https://github.com/migueldeicaza/gui.cs"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 14:18:39",
       "https://news.ycombinator.com/item?id=31518618"
     ],
     [
       "SQLite 3 Fiddle",
       "https://sqlite.org/fiddle/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 08:13:15",
-      "https://news.ycombinator.com/item?id=31515938"
-    ],
-    [
-      "The end of big data",
-      "https://benn.substack.com/p/the-end-of-big-data"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "What is end-to-end encryption and how does it work?",
       "https://proton.me/blog/what-is-end-to-end-encryption"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 22:12:58",
+      "https://news.ycombinator.com/item?id=31511361"
+    ],
+    [
+      "A Brief Rant on the Future of Interaction Design",
+      "http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/"
     ]
   ],
   [
