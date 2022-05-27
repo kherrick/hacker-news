@@ -27,6 +27,7 @@
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
 * [2022-05-25, 20:56:29](https://news.ycombinator.com/item?id=31510432) - [The Data-Oriented Design Process for Game Development](https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
+* [2022-05-25, 20:20:13](https://news.ycombinator.com/item?id=31509990) - [Strange, Slippery and Beautiful: A Master Essayist at Work](https://www.nytimes.com/2022/05/24/books/review/-uncollected-essays-of-elizabeth-hardwick.html)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 * [2022-05-25, 19:42:54](https://news.ycombinator.com/item?id=31509536) - [Uniformly Sample Points in a Disk](https://twitter.com/keenanisalive/status/1529490555893428226)
 * [2022-05-25, 19:01:37](https://news.ycombinator.com/item?id=31509028) - [8-bit number to binary string (2013)](https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
