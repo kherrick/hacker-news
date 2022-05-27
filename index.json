@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2022-05-27, 06:37:37",
-      "https://news.ycombinator.com/item?id=31526649"
+      "2022-05-27, 07:15:18",
+      "https://news.ycombinator.com/item?id=31526862"
     ],
     [
-      "Tell HN: npm breach",
-      "https://news.ycombinator.com/item?id=31526649"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 06:08:24",
-      "https://news.ycombinator.com/item?id=31526493"
-    ],
-    [
-      "Why, Oh Why Was This Added?",
-      "https://zigamiklic.com/why-oh-why/"
+      "Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition",
+      "https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/"
     ]
   ],
   [
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2022-05-27, 04:08:48",
+      "https://news.ycombinator.com/item?id=31525941"
+    ],
+    [
+      "The Truth about Inflation",
+      "https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 04:05:16",
       "https://news.ycombinator.com/item?id=31525920"
     ],
@@ -107,6 +107,16 @@
     [
       "Ultra compact GAN ATX power supply delivers up to 250 Watts",
       "https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 00:44:41",
+      "https://news.ycombinator.com/item?id=31524950"
+    ],
+    [
+      "Taxi: A language for documenting data models and the contracts of APIs",
+      "https://docs.taxilang.org/"
     ]
   ],
   [
@@ -147,6 +157,16 @@
     [
       "AlloyDB for PostgreSQL under the hood: Columnar engine",
       "https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 21:18:16",
+      "https://news.ycombinator.com/item?id=31523480"
+    ],
+    [
+      "It's done in hardware so it's cheap (2012)",
+      "https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html"
     ]
   ],
   [
@@ -201,42 +221,12 @@
   ],
   [
     [
-      "2022-05-26, 16:48:47",
-      "https://news.ycombinator.com/item?id=31520573"
-    ],
-    [
-      "splice() and the ghost of set_fs()",
-      "https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 16:40:55",
-      "https://news.ycombinator.com/item?id=31520483"
-    ],
-    [
-      "What did Earth look like X million years ago?",
-      "https://dinosaurpictures.org/ancient-earth#260"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 14:18:39",
       "https://news.ycombinator.com/item?id=31518618"
     ],
     [
       "SQLite 3 Fiddle",
       "https://sqlite.org/fiddle/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 14:17:10",
-      "https://news.ycombinator.com/item?id=31518605"
-    ],
-    [
-      "The Life of a Backpacker in Asia in the 1970s (2018)",
-      "https://www.perceptivetravel.com/issues/1218/kelly.html"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-05-26, 03:43:09",
+      "https://news.ycombinator.com/item?id=31514214"
+    ],
+    [
+      "Kirkbride Plan",
+      "https://en.wikipedia.org/wiki/Kirkbride_Plan"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 03:31:49",
       "https://news.ycombinator.com/item?id=31514138"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-05-25, 21:29:01",
-      "https://news.ycombinator.com/item?id=31510821"
-    ],
-    [
-      "Parsing JSON faster with Intel AVX-512",
-      "https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 14:19:07",
       "https://news.ycombinator.com/item?id=31504879"
     ],
     [
       "Ghost in the Shellcode",
       "https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/"
+    ]
+  ],
+  [
+    [
+      "2022-05-24, 22:40:12",
+      "https://news.ycombinator.com/item?id=31498388"
+    ],
+    [
+      "A Design History of Childhood (2013)",
+      "https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/"
     ]
   ]
 ]
