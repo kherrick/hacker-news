@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-27, 05:45:07",
+      "https://news.ycombinator.com/item?id=31526370"
+    ],
+    [
+      "Today’s JavaScript, from an outsider’s perspective (2020)",
+      "https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 05:18:44",
       "https://news.ycombinator.com/item?id=31526231"
     ],
@@ -17,6 +27,16 @@
     [
       "The home of Walmart wants to beat sprawl",
       "https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 04:27:04",
+      "https://news.ycombinator.com/item?id=31526002"
+    ],
+    [
+      "Cannoli: The Fast QEMU Tracer",
+      "https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-05-26, 18:15:45",
-      "https://news.ycombinator.com/item?id=31521665"
-    ],
-    [
-      "Practical power beaming gets real",
-      "https://spectrum.ieee.org/power-beaming"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 17:42:53",
       "https://news.ycombinator.com/item?id=31521261"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-05-26, 02:41:06",
-      "https://news.ycombinator.com/item?id=31513714"
+      "2022-05-25, 23:15:07",
+      "https://news.ycombinator.com/item?id=31512100"
     ],
     [
-      "Friends don’t let friends train small diffusion models",
-      "https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/"
+      "Long Covid and Mitochondrial Dysregulation",
+      "https://www.zrtlab.com/blog/archive/long-covid-and-mitochondrial-dysregulation/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Parsing JSON faster with Intel AVX-512",
       "https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 21:10:03",
-      "https://news.ycombinator.com/item?id=31510593"
-    ],
-    [
-      "Missing link between Alzheimer’s and vascular disease found?",
-      "https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found"
     ]
   ],
   [
