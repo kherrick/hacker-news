@@ -45,6 +45,7 @@
 * [2022-05-25, 15:36:38](https://news.ycombinator.com/item?id=31506054) - [GTD in 15 Minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
 * [2022-05-25, 15:31:30](https://news.ycombinator.com/item?id=31505986) - [Annotated implementation of microKanren: an embeddable logic language](https://github.com/ashton314/muKanren_reading)
 * [2022-05-25, 15:24:45](https://news.ycombinator.com/item?id=31505883) - [DARPA moving forward with nuclear thermal engine design](https://orbitalindex.com/archive/2022-05-25-Issue-170/)
+* [2022-05-25, 14:48:22](https://news.ycombinator.com/item?id=31505349) - [Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs](https://github.com/blaze-init/blaze)
 * [2022-05-25, 14:46:19](https://news.ycombinator.com/item?id=31505323) - [SonoBus: High-quality, low-latency peer-to-peer audio](https://www.sonobus.net/)
 * [2022-05-25, 13:39:59](https://news.ycombinator.com/item?id=31504354) - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/)
 * [2022-05-25, 13:24:12](https://news.ycombinator.com/item?id=31504175) - [CalyxInstitute is funding F-Droid](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html)

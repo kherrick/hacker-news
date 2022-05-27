@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-26](index.md)
 
+* [2022-05-26, 23:55:11](https://news.ycombinator.com/item?id=31524669) - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
+* [2022-05-26, 23:43:50](https://news.ycombinator.com/item?id=31524597) - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
 * [2022-05-26, 22:45:08](https://news.ycombinator.com/item?id=31524185) - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
 * [2022-05-26, 21:37:51](https://news.ycombinator.com/item?id=31523659) - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)

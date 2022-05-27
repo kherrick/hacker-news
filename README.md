@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-26, 23:55:11](https://news.ycombinator.com/item?id=31524669) - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
+* [2022-05-26, 23:43:50](https://news.ycombinator.com/item?id=31524597) - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
 * [2022-05-26, 22:45:08](https://news.ycombinator.com/item?id=31524185) - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
 * [2022-05-26, 21:37:51](https://news.ycombinator.com/item?id=31523659) - [DjangoCon US 2022: Call for Proposals](https://pretalx.com/djangocon-2022/cfp)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL Columnar Engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
@@ -11,7 +13,6 @@
 * [2022-05-26, 19:15:07](https://news.ycombinator.com/item?id=31522291) - [The billable hour is a trap into which more and more of us are falling](https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling/)
 * [2022-05-26, 18:21:45](https://news.ycombinator.com/item?id=31521721) - [Major discoveries made by mathematicians past age 50 (2010)](https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty)
 * [2022-05-26, 18:15:45](https://news.ycombinator.com/item?id=31521665) - [Practical Power Beaming Gets Real](https://spectrum.ieee.org/power-beaming)
-* [2022-05-26, 17:42:53](https://news.ycombinator.com/item?id=31521261) - [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [2022-05-26, 16:48:47](https://news.ycombinator.com/item?id=31520573) - [A Linux 5.10 patch has caused user-space regressions](https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
 * [2022-05-26, 16:20:54](https://news.ycombinator.com/item?id=31520229) - [ESPHome – Connect ESP32 with Sensors to HomeAssistant](https://esphome.io/index.html)
@@ -24,11 +25,10 @@
 * [2022-05-26, 12:41:59](https://news.ycombinator.com/item?id=31517610) - [The Collison Brothers Built Stripe into a $95B Unicorn](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/)
 * [2022-05-26, 11:32:45](https://news.ycombinator.com/item?id=31517097) - [How to Walk Underground from Liverpool Street to Farringdon](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html)
 * [2022-05-26, 08:13:15](https://news.ycombinator.com/item?id=31515938) - [The End of Big Data](https://benn.substack.com/p/the-end-of-big-data)
-* [2022-05-26, 05:11:38](https://news.ycombinator.com/item?id=31514856) - [Data ordering attacks on deep neural networks](https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/)
 * [2022-05-26, 02:41:06](https://news.ycombinator.com/item?id=31513714) - [Friends don’t let friends train small diffusion models](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
-* [2022-05-25, 21:28:25](https://news.ycombinator.com/item?id=31510814) - [Minimizing correlated failures in distributed systems](https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/)
 * [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing Link Between Alzheimer’s and Vascular Disease Found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
+* [2022-05-25, 14:48:22](https://news.ycombinator.com/item?id=31505349) - [Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs](https://github.com/blaze-init/blaze)
 * [2022-05-24, 21:52:00](https://news.ycombinator.com/item?id=31497918) - [To learn more quickly, brain cells break their DNA (2021)](https://www.quantamagazine.org/brain-cells-break-their-dna-to-learn-more-quickly-20210830/)
 
 ## [Archives](archives/index.md)
