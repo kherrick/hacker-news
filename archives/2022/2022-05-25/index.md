@@ -21,6 +21,7 @@
 * [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing Link Between Alzheimer’s and Vascular Disease Found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
 * [2022-05-25, 21:00:40](https://news.ycombinator.com/item?id=31510476) - [Heroku GitHub integration finally coming back online after a month offline](https://blog.heroku.com/github-integration-update)
 * [2022-05-25, 21:00:31](https://news.ycombinator.com/item?id=31510475) - [Paperspace (YC W15) is hiring Engineers to build a next-gen cloud](https://www.paperspace.com/careers#open-positions)
+* [2022-05-25, 20:56:29](https://news.ycombinator.com/item?id=31510432) - [The Data-Oriented Design Process for Game Development](https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU)
 * [2022-05-25, 20:32:39](https://news.ycombinator.com/item?id=31510147) - [InSight's Final Selfie](https://www.jpl.nasa.gov/images/pia25287-insights-final-selfie)
 * [2022-05-25, 20:01:10](https://news.ycombinator.com/item?id=31509777) - [PSA: Serious Security Vulnerability in Tor Browser](https://darknetlive.com/post/psa-security-vuln-in-tor-browser/)
 * [2022-05-25, 19:42:54](https://news.ycombinator.com/item?id=31509536) - [Uniformly Sample Points in a Disk](https://twitter.com/keenanisalive/status/1529490555893428226)

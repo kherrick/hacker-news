@@ -4,7 +4,6 @@
 * [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [2022-05-27, 05:18:44](https://news.ycombinator.com/item?id=31526231) - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
-* [2022-05-27, 04:50:11](https://news.ycombinator.com/item?id=31526107) - [The home of Walmart wants to beat sprawl](https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl)
 * [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 * [2022-05-27, 04:27:04](https://news.ycombinator.com/item?id=31526002) - [Cannoli: The Fast QEMU Tracer](https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx)
 * [2022-05-27, 04:08:48](https://news.ycombinator.com/item?id=31525941) - [The Truth about Inflation](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/)
@@ -28,6 +27,7 @@
 * [2022-05-26, 08:13:15](https://news.ycombinator.com/item?id=31515938) - [The end of big data](https://benn.substack.com/p/the-end-of-big-data)
 * [2022-05-26, 03:43:09](https://news.ycombinator.com/item?id=31514214) - [Kirkbride Plan](https://en.wikipedia.org/wiki/Kirkbride_Plan)
 * [2022-05-26, 03:31:49](https://news.ycombinator.com/item?id=31514138) - [Mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039)
+* [2022-05-25, 20:56:29](https://news.ycombinator.com/item?id=31510432) - [The Data-Oriented Design Process for Game Development](https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU)
 * [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 * [2022-05-24, 22:40:12](https://news.ycombinator.com/item?id=31498388) - [A Design History of Childhood (2013)](https://www.themarginalian.org/2013/03/18/century-of-the-child-moma-book/)
 
