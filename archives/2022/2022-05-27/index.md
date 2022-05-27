@@ -22,6 +22,7 @@
 * [2022-05-27, 17:07:45](https://news.ycombinator.com/item?id=31531997) - [S.F. population fell 6.3%, most in nation, to lowest level since 2010](https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php)
 * [2022-05-27, 17:00:07](https://news.ycombinator.com/item?id=31531910) - [Ribbon (YC S17) is hiring Data Engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
 * [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web Scraping Open Knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
+* [2022-05-27, 16:35:42](https://news.ycombinator.com/item?id=31531539) - [What is edge compute?](https://austingil.com/edge-compute-knitted-dog-hats/)
 * [2022-05-27, 16:18:12](https://news.ycombinator.com/item?id=31531345) - [Can Growth Continue?](https://rootsofprogress.org/can-growth-continue-ignite-talk)
 * [2022-05-27, 16:14:08](https://news.ycombinator.com/item?id=31531298) - [Grade Inflation: Over 82% of Harvard '22 Graduating With Over a 3.7 (A-) GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
 * [2022-05-27, 16:11:16](https://news.ycombinator.com/item?id=31531259) - [Long Covid risk falls only slightly after vaccination, study shows](https://www.nature.com/articles/d41586-022-01453-0)
