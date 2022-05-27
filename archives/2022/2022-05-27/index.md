@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
 * [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 * [2022-05-27, 09:15:10](https://news.ycombinator.com/item?id=31527544) - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
@@ -12,6 +13,7 @@
 * [2022-05-27, 08:14:45](https://news.ycombinator.com/item?id=31527215) - [AWS SNS vs. SQS – Main Differences](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
 * [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
 * [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
+* [2022-05-27, 06:43:01](https://news.ycombinator.com/item?id=31526684) - [Tetra – Full stack reactive component framework for Django using Alpine.js](https://www.tetraframework.com)
 * [2022-05-27, 06:37:37](https://news.ycombinator.com/item?id=31526649) - [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
