@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-26, 23:55:11",
+      "https://news.ycombinator.com/item?id=31524669"
+    ],
+    [
+      "What are the odds that some idiot will name his mutex ether-rot-mutex (2017)",
+      "http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 23:43:50",
+      "https://news.ycombinator.com/item?id=31524597"
+    ],
+    [
+      "Rash of parts thefts is leaving Freightliner trucks inoperable",
+      "https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 22:45:08",
       "https://news.ycombinator.com/item?id=31524185"
     ],
@@ -107,16 +127,6 @@
     [
       "Practical Power Beaming Gets Real",
       "https://spectrum.ieee.org/power-beaming"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 17:42:53",
-      "https://news.ycombinator.com/item?id=31521261"
-    ],
-    [
-      "Two thought experiments to evaluate automated stablecoins",
-      "https://vitalik.ca/general/2022/05/25/stable.html"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-05-26, 05:11:38",
-      "https://news.ycombinator.com/item?id=31514856"
-    ],
-    [
-      "Data ordering attacks on deep neural networks",
-      "https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 02:41:06",
       "https://news.ycombinator.com/item?id=31513714"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-05-25, 21:28:25",
-      "https://news.ycombinator.com/item?id=31510814"
-    ],
-    [
-      "Minimizing correlated failures in distributed systems",
-      "https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 21:10:03",
       "https://news.ycombinator.com/item?id=31510593"
     ],
     [
       "Missing Link Between Alzheimer’s and Vascular Disease Found?",
       "https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 14:48:22",
+      "https://news.ycombinator.com/item?id=31505349"
+    ],
+    [
+      "Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs",
+      "https://github.com/blaze-init/blaze"
     ]
   ],
   [
