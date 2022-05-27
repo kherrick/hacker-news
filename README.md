@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 19:37:27](https://news.ycombinator.com/item?id=31533925) - [Without Systemd](https://without-systemd.org/wiki/index_php/Main_Page/)
 * [2022-05-27, 18:58:15](https://news.ycombinator.com/item?id=31533443) - [A conference about software you can love](https://kristoff.it/blog/software-you-can-love/)
 * [2022-05-27, 18:56:42](https://news.ycombinator.com/item?id=31533420) - [The age of Scrum is over](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
 * [2022-05-27, 18:56:18](https://news.ycombinator.com/item?id=31533412) - [An autonomous car in SF blocked a fire truck responding to an emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles/)
@@ -19,7 +20,6 @@
 * [2022-05-27, 15:21:33](https://news.ycombinator.com/item?id=31530639) - [Range joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
 * [2022-05-27, 14:57:41](https://news.ycombinator.com/item?id=31530379) - [Web Audio Modem (2017)](https://martinmelhus.com/web-audio-modem/)
 * [2022-05-27, 14:12:49](https://news.ycombinator.com/item?id=31529863) - [The math behind mind-reading tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
-* [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
 * [2022-05-27, 09:15:10](https://news.ycombinator.com/item?id=31527544) - [Show HN: A Reddit style site to discuss podcast episodes](https://podbabble.com/)
 * [2022-05-27, 08:55:02](https://news.ycombinator.com/item?id=31527446) - [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)
