@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 14:57:41](https://news.ycombinator.com/item?id=31530379) - [Creating a Modem with HTML5 and the Web Audio API](https://martinmelhus.com/web-audio-modem/)
 * [2022-05-27, 14:38:18](https://news.ycombinator.com/item?id=31530176) - [Ask HN: How can you buy high quality healthcare?](https://news.ycombinator.com/item?id=31530176)
 * [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
@@ -20,7 +21,6 @@
 * [2022-05-27, 02:31:56](https://news.ycombinator.com/item?id=31525505) - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
 * [2022-05-27, 00:44:41](https://news.ycombinator.com/item?id=31524950) - [Taxi: A language for documenting data models and the contracts of APIs](https://docs.taxilang.org/)
 * [2022-05-27, 00:42:34](https://news.ycombinator.com/item?id=31524943) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
-* [2022-05-26, 23:55:11](https://news.ycombinator.com/item?id=31524669) - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
 * [2022-05-26, 03:43:09](https://news.ycombinator.com/item?id=31514214) - [Kirkbride Plan](https://en.wikipedia.org/wiki/Kirkbride_Plan)
 * [2022-05-26, 03:31:49](https://news.ycombinator.com/item?id=31514138) - [Mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039)
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)

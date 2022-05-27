@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 14:57:41](https://news.ycombinator.com/item?id=31530379) - [Creating a Modem with HTML5 and the Web Audio API](https://martinmelhus.com/web-audio-modem/)
 * [2022-05-27, 14:38:18](https://news.ycombinator.com/item?id=31530176) - [Ask HN: How can you buy high quality healthcare?](https://news.ycombinator.com/item?id=31530176)
 * [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
 * [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
