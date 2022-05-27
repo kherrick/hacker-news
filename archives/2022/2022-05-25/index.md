@@ -73,6 +73,7 @@
 * [2022-05-25, 11:12:50](https://news.ycombinator.com/item?id=31502845) - [Snapcast – Synchronous multi-room audio player](https://github.com/badaix/snapcast)
 * [2022-05-25, 10:59:46](https://news.ycombinator.com/item?id=31502748) - [Estoppel](https://ente.io/blog/r/estoppel/)
 * [2022-05-25, 10:58:57](https://news.ycombinator.com/item?id=31502742) - [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
+* [2022-05-25, 10:52:07](https://news.ycombinator.com/item?id=31502691) - [Identify ESDI Drive](http://www.os2museum.com/wp/identify-esdi-drive/)
 * [2022-05-25, 10:28:26](https://news.ycombinator.com/item?id=31502545) - [Scalable polymer films for sustainable moisture harvesting in arid environments](https://www.nature.com/articles/s41467-022-30505-2)
 * [2022-05-25, 10:27:03](https://news.ycombinator.com/item?id=31502540) - [How to De-Polarize America: Ranked-Choice Voting Is More Democratic, Not Less](https://www.americanpurpose.com/articles/ranked-choice-voting-is-more-democratic-not-less/)
 * [2022-05-25, 10:25:56](https://news.ycombinator.com/item?id=31502530) - [Lessons learned as a software developer turned project manager](https://karimjedda.com/lessons-learned-developer-to-project-manager/)
