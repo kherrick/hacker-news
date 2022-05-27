@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
 * [2022-05-27, 19:37:27](https://news.ycombinator.com/item?id=31533925) - [Without Systemd](https://without-systemd.org/wiki/index_php/Main_Page/)
 * [2022-05-27, 18:58:15](https://news.ycombinator.com/item?id=31533443) - [A Conference About Software You Can Love](https://kristoff.it/blog/software-you-can-love/)
 * [2022-05-27, 18:56:42](https://news.ycombinator.com/item?id=31533420) - [The Age of Scrum Is Over](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
