@@ -75,6 +75,7 @@
 * [2022-05-26, 05:11:38](https://news.ycombinator.com/item?id=31514856) - [Data ordering attacks on deep neural networks](https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/)
 * [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein vs. the U.S. Department of State](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
+* [2022-05-26, 04:19:10](https://news.ycombinator.com/item?id=31514488) - [Overthinking can be our superpower if we use it well](https://arpit.bearblog.dev/overthinking-can-be-our-superpower-if-we-use-it-well/)
 * [2022-05-26, 03:50:47](https://news.ycombinator.com/item?id=31514276) - [The Happiness Blues](https://www.oxfordamerican.org/web-only/the-happiness-blues)
 * [2022-05-26, 03:43:09](https://news.ycombinator.com/item?id=31514214) - [Kirkbride Plan](https://en.wikipedia.org/wiki/Kirkbride_Plan)
 * [2022-05-26, 03:31:49](https://news.ycombinator.com/item?id=31514138) - [Mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039)
