@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
 * [2022-05-27, 18:58:15](https://news.ycombinator.com/item?id=31533443) - [A Conference About Software You Can Love](https://kristoff.it/blog/software-you-can-love/)
+* [2022-05-27, 18:56:42](https://news.ycombinator.com/item?id=31533420) - [The Age of Scrum Is Over](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
 * [2022-05-27, 18:47:04](https://news.ycombinator.com/item?id=31533303) - [Senators Draft Bill to Ban Use of Digital Yuan in US-Based Mobile Apps](https://blockworks.co/senators-draft-bill-to-ban-use-of-digital-yuan-in-us-based-mobile-apps/)
+* [2022-05-27, 18:38:48](https://news.ycombinator.com/item?id=31533180) - [Codeball – AI-powered code review](https://codeball.ai/)
 * [2022-05-27, 18:29:06](https://news.ycombinator.com/item?id=31533041) - [Ask HN: Best Book on Modern Cryptography?](https://news.ycombinator.com/item?id=31533041)
 * [2022-05-27, 18:16:37](https://news.ycombinator.com/item?id=31532878) - [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
 * [2022-05-27, 17:58:31](https://news.ycombinator.com/item?id=31532647) - [The unstoppable machines behind the game console shortage](https://www.theverge.com/2022/5/25/23137789/aio-buying-bots-ps5-xbox-series-x-console-shortage)
