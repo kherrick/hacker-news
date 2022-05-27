@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-05-27, 16:18:12",
+      "https://news.ycombinator.com/item?id=31531345"
+    ],
+    [
+      "Can Growth Continue?",
+      "https://rootsofprogress.org/can-growth-continue-ignite-talk"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 16:14:08",
       "https://news.ycombinator.com/item?id=31531298"
     ],
     [
       "Grade Inflation: Over 82% of Harvard '22 Graduating With Over a 3.7 (A-) GPA",
       "https://features.thecrimson.com/2022/senior-survey/academics/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 16:11:16",
+      "https://news.ycombinator.com/item?id=31531259"
+    ],
+    [
+      "Long Covid risk falls only slightly after vaccination, study shows",
+      "https://www.nature.com/articles/d41586-022-01453-0"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2022-05-27, 15:42:29",
-      "https://news.ycombinator.com/item?id=31530906"
+      "2022-05-27, 15:43:31",
+      "https://news.ycombinator.com/item?id=31530925"
     ],
     [
-      "If Europe and Japan can have small, cheap EVs, why can’t America?",
-      "https://arstechnica.com/cars/2022/05/want-a-small-affordable-ev-tough-luck-if-you-live-in-the-usa/"
+      "GitHub saved plaintext passwords of NPM users in log files, post mortem reveals",
+      "https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-05-27, 09:58:21",
-      "https://news.ycombinator.com/item?id=31527767"
-    ],
-    [
-      "Why the government took home prices out of its main inflation index",
-      "https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 09:31:03",
       "https://news.ycombinator.com/item?id=31527621"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-05-27, 08:29:06",
-      "https://news.ycombinator.com/item?id=31527306"
-    ],
-    [
-      "Connection reuse may route traffic to malicious servers",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1763632"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 08:14:45",
       "https://news.ycombinator.com/item?id=31527215"
     ],
@@ -187,16 +187,6 @@
     [
       "Tetra – Full stack reactive component framework for Django using Alpine.js",
       "https://www.tetraframework.com"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 05:45:07",
-      "https://news.ycombinator.com/item?id=31526370"
-    ],
-    [
-      "Today’s JavaScript, from an outsider’s perspective (2020)",
-      "https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2022-05-27, 04:08:48",
+      "https://news.ycombinator.com/item?id=31525941"
+    ],
+    [
+      "Inflation is differential and restructuring (2021)",
+      "https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 03:38:38",
       "https://news.ycombinator.com/item?id=31525792"
     ],
@@ -237,6 +237,16 @@
     [
       "Ultra compact GAN ATX power supply delivers up to 250 Watts",
       "https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/"
+    ]
+  ],
+  [
+    [
+      "2022-05-26, 03:50:47",
+      "https://news.ycombinator.com/item?id=31514276"
+    ],
+    [
+      "The Happiness Blues",
+      "https://www.oxfordamerican.org/web-only/the-happiness-blues"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Magical SVG Techniques",
       "https://www.smashingmagazine.com/2022/05/magical-svg-techniques/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 00:06:29",
-      "https://news.ycombinator.com/item?id=31499055"
-    ],
-    [
-      "Roads to Everywhere",
-      "https://lareviewofbooks.org/article/roads-to-everywhere/"
     ]
   ]
 ]
