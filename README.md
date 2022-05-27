@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
-* [2022-05-27, 19:37:27](https://news.ycombinator.com/item?id=31533925) - [Without Systemd](https://without-systemd.org/wiki/index_php/Main_Page/)
 * [2022-05-27, 18:56:42](https://news.ycombinator.com/item?id=31533420) - [The age of Scrum is over](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
 * [2022-05-27, 18:56:18](https://news.ycombinator.com/item?id=31533412) - [An autonomous car in SF blocked a fire truck responding to an emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles/)
 * [2022-05-27, 18:38:48](https://news.ycombinator.com/item?id=31533180) - [Codeball – AI-powered code review](https://codeball.ai/)
@@ -16,6 +15,7 @@
 * [2022-05-27, 17:00:07](https://news.ycombinator.com/item?id=31531910) - [Ribbon (YC S17) is hiring data engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
 * [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [2022-05-27, 16:35:42](https://news.ycombinator.com/item?id=31531539) - [What is edge compute?](https://austingil.com/edge-compute-knitted-dog-hats/)
+* [2022-05-27, 16:18:12](https://news.ycombinator.com/item?id=31531345) - [Can growth continue?](https://rootsofprogress.org/can-growth-continue-ignite-talk)
 * [2022-05-27, 16:14:08](https://news.ycombinator.com/item?id=31531298) - [Grade Inflation: Over 82% of Harvard '22 Graduating With Over a 3.7 (A-) GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
 * [2022-05-27, 16:06:16](https://news.ycombinator.com/item?id=31531206) - [Filling a cultural void, one braided loaf at a time](https://longreads.com/2022/05/19/our-braided-bread-challah-essay/)
 * [2022-05-27, 15:25:22](https://news.ycombinator.com/item?id=31530690) - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
