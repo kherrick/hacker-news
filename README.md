@@ -27,8 +27,8 @@
 * [2022-05-26, 08:13:15](https://news.ycombinator.com/item?id=31515938) - [The end of big data](https://benn.substack.com/p/the-end-of-big-data)
 * [2022-05-26, 03:31:49](https://news.ycombinator.com/item?id=31514138) - [Mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039)
 * [2022-05-26, 02:41:06](https://news.ycombinator.com/item?id=31513714) - [Friends don’t let friends train small diffusion models](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/)
-* [2022-05-25, 23:27:10](https://news.ycombinator.com/item?id=31512211) - [Reward Is Enough (2021)](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
+* [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing link between Alzheimer’s and vascular disease found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
 * [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 
 ## [Archives](archives/index.md)
