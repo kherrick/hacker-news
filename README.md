@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-27, 12:05:55](https://news.ycombinator.com/item?id=31528557) - [Joseph Stiglitz: 'We should shut down the cryptocurrencies'](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+* [2022-05-27, 10:41:10](https://news.ycombinator.com/item?id=31527997) - [What Trait Affects Income the Most?](https://economicsfromthetopdown.com/2020/06/02/what-trait-affects-income-the-most/)
 * [2022-05-27, 09:58:21](https://news.ycombinator.com/item?id=31527767) - [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
 * [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Windows OS, Services & Apps: Network Connection Target Hosts](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
 * [2022-05-27, 09:16:49](https://news.ycombinator.com/item?id=31527559) - [How I Built Zig-SQLite](https://rischmann.fr/blog/how-i-built-zig-sqlite)
