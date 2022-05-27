@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31533443"
     ],
     [
-      "A Conference About Software You Can Love",
+      "A conference about software you can love",
       "https://kristoff.it/blog/software-you-can-love/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31533420"
     ],
     [
-      "The Age of Scrum Is Over",
+      "The age of Scrum is over",
       "https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b"
     ]
   ],
@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2022-05-27, 18:35:18",
+      "https://news.ycombinator.com/item?id=31533125"
+    ],
+    [
+      "How to read mathematics (2015)",
+      "https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 18:29:06",
       "https://news.ycombinator.com/item?id=31533041"
     ],
     [
-      "Ask HN: Best Book on Modern Cryptography?",
+      "Ask HN: Best book on modern cryptography?",
       "https://news.ycombinator.com/item?id=31533041"
     ]
   ],
@@ -55,18 +65,18 @@
       "https://news.ycombinator.com/item?id=31532878"
     ],
     [
-      "High Performance Individuals and Teams",
+      "High performance individuals and teams (2020)",
       "https://pablasso.com/high-performance-individuals-and-teams/"
     ]
   ],
   [
     [
-      "2022-05-27, 17:46:22",
-      "https://news.ycombinator.com/item?id=31532489"
+      "2022-05-27, 17:58:31",
+      "https://news.ycombinator.com/item?id=31532647"
     ],
     [
-      "A City Fights Back Against Heavyweight Cars",
-      "https://www.bloomberg.com/news/articles/2022-05-26/a-new-way-to-curb-the-rise-of-oversized-pickups-and-suvs"
+      "Bots behind the game console shortage",
+      "https://www.theverge.com/2022/5/25/23137789/aio-buying-bots-ps5-xbox-series-x-console-shortage"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31532285"
     ],
     [
-      "Red is suing Nikon for infringing on its video compression patents",
+      "RED is suing Nikon for infringing on its video compression patents",
       "https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/"
     ]
   ],
@@ -101,11 +111,21 @@
   ],
   [
     [
+      "2022-05-27, 17:07:45",
+      "https://news.ycombinator.com/item?id=31531997"
+    ],
+    [
+      "S.F. population fell 6.3%, most in nation, to lowest level since 2010",
+      "https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 17:00:07",
       "https://news.ycombinator.com/item?id=31531910"
     ],
     [
-      "Ribbon (YC S17) is hiring Data Engineers who want to help simplify healthcare",
+      "Ribbon (YC S17) is hiring data engineers who want to help simplify healthcare",
       "https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31531694"
     ],
     [
-      "Web Scraping Open Knowledge",
+      "Web scraping with Python open knowledge",
       "https://github.com/reanalytics-databoutique/webscraping-open-project"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31530639"
     ],
     [
-      "Range Joins in DuckDB",
+      "Range joins in DuckDB",
       "https://duckdb.org/2022/05/27/iejoin.html"
     ]
   ],
@@ -161,21 +181,11 @@
   ],
   [
     [
-      "2022-05-27, 14:14:09",
-      "https://news.ycombinator.com/item?id=31529876"
-    ],
-    [
-      "Migrating extraterrestrial civilizations and interstellar colonization",
-      "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/migrating-extraterrestrial-civilizations-and-interstellar-colonization-implications-for-seti-and-seta/BFFC1BB63FED869C85172BB3CC88DBBB"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 14:12:49",
       "https://news.ycombinator.com/item?id=31529863"
     ],
     [
-      "The Secret Math Behind Mind-Reading Magic Tricks",
+      "The math behind mind-reading tricks",
       "https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/"
     ]
   ],
@@ -231,31 +241,11 @@
   ],
   [
     [
-      "2022-05-27, 04:38:48",
-      "https://news.ycombinator.com/item?id=31526044"
-    ],
-    [
-      "NPM security update: Attack campaign using stolen OAuth tokens",
-      "https://github.blog/2022-05-26-npm-security-update-oauth-tokens/"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 04:19:10",
-      "https://news.ycombinator.com/item?id=31514488"
-    ],
-    [
-      "Overthinking can be our superpower if we use it well",
-      "https://arpit.bearblog.dev/overthinking-can-be-our-superpower-if-we-use-it-well/"
-    ]
-  ],
-  [
-    [
       "2022-05-25, 23:58:24",
       "https://news.ycombinator.com/item?id=31512496"
     ],
     [
-      "NYC removes last payphone from Manhattan streets",
+      "Last public payphone removed from Manhattan streets",
       "https://pix11.com/news/local-news/last-payphone-in-nyc-to-be-removed/"
     ]
   ],
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=31511361"
     ],
     [
-      "A Brief Rant on the Future of Interaction Design (2011)",
+      "A brief rant on the future of interaction design (2011)",
       "http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/"
+    ]
+  ],
+  [
+    [
+      "2022-05-25, 20:20:13",
+      "https://news.ycombinator.com/item?id=31509990"
+    ],
+    [
+      "Strange, Slippery and Beautiful: A Master Essayist at Work",
+      "https://www.nytimes.com/2022/05/24/books/review/-uncollected-essays-of-elizabeth-hardwick.html"
     ]
   ],
   [
