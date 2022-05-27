@@ -19,7 +19,6 @@
 * [2022-05-26, 16:48:47](https://news.ycombinator.com/item?id=31520573) - [splice() and the ghost of set_fs()](https://lwn.net/SubscriberLink/896267/6bac8e29d614ec66/)
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [What did Earth look like X million years ago?](https://dinosaurpictures.org/ancient-earth#260)
 * [2022-05-26, 16:20:54](https://news.ycombinator.com/item?id=31520229) - [ESPHome – Connect ESP32 with Sensors to HomeAssistant](https://esphome.io/index.html)
-* [2022-05-26, 15:29:10](https://news.ycombinator.com/item?id=31519557) - [The problem with hard and soft skills](https://dompatmore.com/blog/the-problem-with-hard-and-soft-skills)
 * [2022-05-26, 14:18:39](https://news.ycombinator.com/item?id=31518618) - [SQLite 3 Fiddle](https://sqlite.org/fiddle/)
 * [2022-05-26, 14:17:10](https://news.ycombinator.com/item?id=31518605) - [The Life of a Backpacker in Asia in the 1970s (2018)](https://www.perceptivetravel.com/issues/1218/kelly.html)
 * [2022-05-26, 12:41:59](https://news.ycombinator.com/item?id=31517610) - [The Collison Brothers Built Stripe into a $95B Unicorn](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/)
@@ -30,6 +29,7 @@
 * [2022-05-25, 23:27:10](https://news.ycombinator.com/item?id=31512211) - [Reward Is Enough (2021)](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 * [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing link between Alzheimer’s and vascular disease found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
+* [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 
 ## [Archives](archives/index.md)
 
