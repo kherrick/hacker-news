@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 17:00:07](https://news.ycombinator.com/item?id=31531910) - [Ribbon (YC S17) is hiring Data Engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
+* [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web Scraping Open Knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [2022-05-27, 16:18:12](https://news.ycombinator.com/item?id=31531345) - [Can Growth Continue?](https://rootsofprogress.org/can-growth-continue-ignite-talk)
 * [2022-05-27, 16:14:08](https://news.ycombinator.com/item?id=31531298) - [Grade Inflation: Over 82% of Harvard '22 Graduating With Over a 3.7 (A-) GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
 * [2022-05-27, 16:11:16](https://news.ycombinator.com/item?id=31531259) - [Long Covid risk falls only slightly after vaccination, study shows](https://www.nature.com/articles/d41586-022-01453-0)
@@ -20,6 +22,7 @@
 * [2022-05-27, 14:12:49](https://news.ycombinator.com/item?id=31529863) - [The Secret Math Behind Mind-Reading Magic Tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
 * [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
 * [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
+* [2022-05-27, 12:49:02](https://news.ycombinator.com/item?id=31528960) - [Poll: How are you doing currently?](https://news.ycombinator.com/item?id=31528960)
 * [2022-05-27, 12:05:55](https://news.ycombinator.com/item?id=31528557) - [Joseph Stiglitz: 'We should shut down the cryptocurrencies'](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
 * [2022-05-27, 10:41:10](https://news.ycombinator.com/item?id=31527997) - [What Trait Affects Income the Most?](https://economicsfromthetopdown.com/2020/06/02/what-trait-affects-income-the-most/)
