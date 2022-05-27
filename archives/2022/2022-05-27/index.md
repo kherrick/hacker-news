@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 16:18:12](https://news.ycombinator.com/item?id=31531345) - [Can Growth Continue?](https://rootsofprogress.org/can-growth-continue-ignite-talk)
 * [2022-05-27, 16:14:08](https://news.ycombinator.com/item?id=31531298) - [Grade Inflation: Over 82% of Harvard '22 Graduating With Over a 3.7 (A-) GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
+* [2022-05-27, 16:11:16](https://news.ycombinator.com/item?id=31531259) - [Long Covid risk falls only slightly after vaccination, study shows](https://www.nature.com/articles/d41586-022-01453-0)
 * [2022-05-27, 16:06:16](https://news.ycombinator.com/item?id=31531206) - [Filling a cultural void, one braided loaf at a time](https://longreads.com/2022/05/19/our-braided-bread-challah-essay/)
+* [2022-05-27, 15:43:31](https://news.ycombinator.com/item?id=31530925) - [GitHub saved plaintext passwords of NPM users in log files, post mortem reveals](https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/)
 * [2022-05-27, 15:42:29](https://news.ycombinator.com/item?id=31530906) - [If Europe and Japan can have small, cheap EVs, why can’t America?](https://arstechnica.com/cars/2022/05/want-a-small-affordable-ev-tough-luck-if-you-live-in-the-usa/)
 * [2022-05-27, 15:25:22](https://news.ycombinator.com/item?id=31530690) - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
 * [2022-05-27, 15:21:33](https://news.ycombinator.com/item?id=31530639) - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
