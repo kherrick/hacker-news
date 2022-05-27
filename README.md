@@ -24,11 +24,11 @@
 * [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 * [2022-05-27, 04:08:48](https://news.ycombinator.com/item?id=31525941) - [Inflation is differential and restructuring (2021)](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/)
 * [2022-05-27, 03:38:38](https://news.ycombinator.com/item?id=31525792) - [Internet drama in Canada](https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html)
-* [2022-05-27, 02:31:56](https://news.ycombinator.com/item?id=31525505) - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
 * [2022-05-26, 03:50:47](https://news.ycombinator.com/item?id=31514276) - [The Happiness Blues](https://www.oxfordamerican.org/web-only/the-happiness-blues)
 * [2022-05-25, 23:58:24](https://news.ycombinator.com/item?id=31512496) - [NYC removes last payphone from Manhattan streets](https://pix11.com/news/local-news/last-payphone-in-nyc-to-be-removed/)
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)
 * [2022-05-25, 22:12:58](https://news.ycombinator.com/item?id=31511361) - [A Brief Rant on the Future of Interaction Design (2011)](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
+* [2022-05-25, 20:56:29](https://news.ycombinator.com/item?id=31510432) - [The Data-Oriented Design Process for Game Development](https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU)
 * [2022-05-25, 09:20:38](https://news.ycombinator.com/item?id=31502186) - [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 
 ## [Archives](archives/index.md)
