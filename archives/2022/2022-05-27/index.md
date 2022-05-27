@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
+* [2022-05-27, 21:10:08](https://news.ycombinator.com/item?id=31534936) - [GitTorrent: A Decentralized GitHub (2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [2022-05-27, 20:58:26](https://news.ycombinator.com/item?id=31534794) - [Magic Doesn‘t Happen, Especially Not in Business](https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business)
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
 * [2022-05-27, 19:37:27](https://news.ycombinator.com/item?id=31533925) - [Without Systemd](https://without-systemd.org/wiki/index_php/Main_Page/)

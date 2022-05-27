@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
-* [2022-05-27, 20:58:26](https://news.ycombinator.com/item?id=31534794) - [Magic Doesn‘t Happen, Especially Not in Business](https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business)
+* [2022-05-27, 21:10:08](https://news.ycombinator.com/item?id=31534936) - [GitTorrent: A Decentralized GitHub (2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
 * [2022-05-27, 18:56:42](https://news.ycombinator.com/item?id=31533420) - [The age of Scrum is over](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
-* [2022-05-27, 18:56:18](https://news.ycombinator.com/item?id=31533412) - [An autonomous car in SF blocked a fire truck responding to an emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles/)
 * [2022-05-27, 18:38:48](https://news.ycombinator.com/item?id=31533180) - [Codeball – AI-powered code review](https://codeball.ai/)
 * [2022-05-27, 18:35:18](https://news.ycombinator.com/item?id=31533125) - [How to read mathematics (2015)](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 * [2022-05-27, 18:16:37](https://news.ycombinator.com/item?id=31532878) - [High performance individuals and teams (2020)](https://pablasso.com/high-performance-individuals-and-teams/)
