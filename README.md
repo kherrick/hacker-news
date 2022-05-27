@@ -9,7 +9,6 @@
 * [2022-05-27, 08:55:02](https://news.ycombinator.com/item?id=31527446) - [GoodWill ransomware forces victims to donate to the poor](https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/)
 * [2022-05-27, 08:29:06](https://news.ycombinator.com/item?id=31527306) - [Connection reuse may route traffic to malicious servers](https://bugzilla.mozilla.org/show_bug.cgi?id=1763632)
 * [2022-05-27, 08:14:45](https://news.ycombinator.com/item?id=31527215) - [AWS SNS vs. SQS – Main Differences](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
-* [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
 * [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
 * [2022-05-27, 06:43:01](https://news.ycombinator.com/item?id=31526684) - [Tetra – Full stack reactive component framework for Django using Alpine.js](https://www.tetraframework.com)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
@@ -30,6 +29,7 @@
 * [2022-05-25, 20:56:29](https://news.ycombinator.com/item?id=31510432) - [The Data-Oriented Design Process for Game Development](https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU)
 * [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 * [2022-05-25, 09:20:38](https://news.ycombinator.com/item?id=31502186) - [Magical SVG Techniques](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
+* [2022-05-25, 00:06:29](https://news.ycombinator.com/item?id=31499055) - [Roads to Everywhere](https://lareviewofbooks.org/article/roads-to-everywhere/)
 
 ## [Archives](archives/index.md)
 

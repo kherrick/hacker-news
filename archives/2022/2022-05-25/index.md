@@ -104,3 +104,4 @@
 * [2022-05-25, 01:32:19](https://news.ycombinator.com/item?id=31499629) - [Make Tracker Tunes in the Browser](https://www.stef.be/bassoontracker/)
 * [2022-05-25, 01:13:36](https://news.ycombinator.com/item?id=31499513) - [Ask HN: How worried are you about the upcoming recession?](https://news.ycombinator.com/item?id=31499513)
 * [2022-05-25, 01:10:52](https://news.ycombinator.com/item?id=31499502) - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
+* [2022-05-25, 00:06:29](https://news.ycombinator.com/item?id=31499055) - [Roads to Everywhere](https://lareviewofbooks.org/article/roads-to-everywhere/)
