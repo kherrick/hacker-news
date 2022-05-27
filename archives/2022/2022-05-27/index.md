@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 16:14:08](https://news.ycombinator.com/item?id=31531298) - [Grade Inflation: Over 82% of Harvard '22 Graduating With Over a 3.7 (A-) GPA](https://features.thecrimson.com/2022/senior-survey/academics/)
+* [2022-05-27, 16:06:16](https://news.ycombinator.com/item?id=31531206) - [Filling a cultural void, one braided loaf at a time](https://longreads.com/2022/05/19/our-braided-bread-challah-essay/)
+* [2022-05-27, 15:42:29](https://news.ycombinator.com/item?id=31530906) - [If Europe and Japan can have small, cheap EVs, why can’t America?](https://arstechnica.com/cars/2022/05/want-a-small-affordable-ev-tough-luck-if-you-live-in-the-usa/)
+* [2022-05-27, 15:25:22](https://news.ycombinator.com/item?id=31530690) - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
 * [2022-05-27, 15:21:33](https://news.ycombinator.com/item?id=31530639) - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
 * [2022-05-27, 15:14:45](https://news.ycombinator.com/item?id=31530552) - [Ivy League students used to be forced to pose nude for photos upon being admitte](https://old.reddit.com/r/ApplyingToCollege/comments/uyqw2l/ivy_league_students_used_to_be_forced_to_pose/)
 * [2022-05-27, 15:14:08](https://news.ycombinator.com/item?id=31530538) - [GNU Guix System](https://en.wikipedia.org/wiki/GNU_Guix_System)
