@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 18:29:06](https://news.ycombinator.com/item?id=31533041) - [Ask HN: Best Book on Modern Cryptography?](https://news.ycombinator.com/item?id=31533041)
+* [2022-05-27, 18:16:37](https://news.ycombinator.com/item?id=31532878) - [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
+* [2022-05-27, 17:58:31](https://news.ycombinator.com/item?id=31532647) - [The unstoppable machines behind the game console shortage](https://www.theverge.com/2022/5/25/23137789/aio-buying-bots-ps5-xbox-series-x-console-shortage)
 * [2022-05-27, 17:46:22](https://news.ycombinator.com/item?id=31532489) - [A City Fights Back Against Heavyweight Cars](https://www.bloomberg.com/news/articles/2022-05-26/a-new-way-to-curb-the-rise-of-oversized-pickups-and-suvs)
 * [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [Red is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
 * [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
