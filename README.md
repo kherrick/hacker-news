@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-27, 05:18:44](https://news.ycombinator.com/item?id=31526231) - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
+* [2022-05-27, 04:50:11](https://news.ycombinator.com/item?id=31526107) - [The home of Walmart wants to beat sprawl](https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl)
 * [2022-05-27, 04:05:16](https://news.ycombinator.com/item?id=31525920) - [Ghost recon breakpoint game save disappeared](https://community.stadia.com/t5/Stadia-General/Ghost-recon-breakpoint-game-save-disappeared/m-p/79391#M32421)
 * [2022-05-27, 03:38:38](https://news.ycombinator.com/item?id=31525792) - [Internet drama in Canada](https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html)
 * [2022-05-27, 02:31:56](https://news.ycombinator.com/item?id=31525505) - [Ultra compact GAN ATX power supply delivers up to 250 Watts](https://www.cnx-software.com/2022/05/26/ultra-compact-gan-atx-power-supply-delivers-up-to-250-watts/)
@@ -7,7 +9,6 @@
 * [2022-05-27, 00:42:34](https://news.ycombinator.com/item?id=31524943) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2022-05-26, 23:55:11](https://news.ycombinator.com/item?id=31524669) - [What are the odds that some idiot will name his mutex ether-rot-mutex (2017)](http://etherrotmutex.blogspot.com/2017/07/what-are-odds-that-some-idiot-will-name.html)
 * [2022-05-26, 23:43:50](https://news.ycombinator.com/item?id=31524597) - [Rash of parts thefts is leaving Freightliner trucks inoperable](https://www.freightwaves.com/news/thefts-of-powertrain-modules-plague-daimler-truck)
-* [2022-05-26, 22:45:08](https://news.ycombinator.com/item?id=31524185) - [I was blackmailed – any YouTuber could be next (2020)](https://gamefromscratch.com/i-was-blackmailed-any-youtuber-could-be-next/)
 * [2022-05-26, 21:27:49](https://news.ycombinator.com/item?id=31523581) - [AlloyDB for PostgreSQL under the hood: Columnar engine](https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine)
 * [2022-05-26, 21:18:16](https://news.ycombinator.com/item?id=31523480) - [It's done in hardware so it's cheap (2012)](https://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html)
 * [2022-05-26, 21:17:50](https://news.ycombinator.com/item?id=31523474) - [Terminal.Gui – Cross Platform Terminal UI Toolkit for .NET](https://github.com/migueldeicaza/gui.cs)
@@ -28,7 +29,6 @@
 * [2022-05-26, 02:41:06](https://news.ycombinator.com/item?id=31513714) - [Friends don’t let friends train small diffusion models](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/)
 * [2022-05-25, 23:27:10](https://news.ycombinator.com/item?id=31512211) - [Reward Is Enough (2021)](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
-* [2022-05-25, 21:10:03](https://news.ycombinator.com/item?id=31510593) - [Missing link between Alzheimer’s and vascular disease found?](https://www.cuimc.columbia.edu/news/missing-link-between-alzheimers-and-vascular-disease-found)
 * [2022-05-25, 14:19:07](https://news.ycombinator.com/item?id=31504879) - [Ghost in the Shellcode](https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/)
 
 ## [Archives](archives/index.md)
