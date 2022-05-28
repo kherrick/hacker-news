@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 15:00:25](https://news.ycombinator.com/item?id=31540846) - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
 * [2022-05-28, 14:23:10](https://news.ycombinator.com/item?id=31540550) - [Exposure of fake Chinese tube amplifier](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 * [2022-05-28, 14:22:05](https://news.ycombinator.com/item?id=31540540) - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
 * [2022-05-28, 14:19:16](https://news.ycombinator.com/item?id=31540521) - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go](https://github.com/richardartoul/tsdb-layer)
