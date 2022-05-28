@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-28, 07:01:11](https://news.ycombinator.com/item?id=31538213) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2022-05-28, 06:45:17](https://news.ycombinator.com/item?id=31538139) - [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
+* [2022-05-28, 06:41:13](https://news.ycombinator.com/item?id=31538123) - [Ariel Ekblaw on building beautiful architecture in space](https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
@@ -13,7 +15,6 @@
 * [2022-05-27, 23:20:57](https://news.ycombinator.com/item?id=31536048) - [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
 * [2022-05-27, 23:20:40](https://news.ycombinator.com/item?id=31536044) - [Nim: Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
 * [2022-05-27, 23:16:40](https://news.ycombinator.com/item?id=31536019) - [Flexible diffusion modeling of long videos](https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/)
-* [2022-05-27, 21:30:06](https://news.ycombinator.com/item?id=31535158) - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
 * [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.chat leverages the Matrix protocol for interoperable communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
@@ -27,7 +28,6 @@
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 09:33:03](https://news.ycombinator.com/item?id=31516365) - [Musikcube, a cross-platform, terminal-based library, player and server](https://github.com/clangen/musikcube)
-* [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia adds liquid-cooled GPUs](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
 
