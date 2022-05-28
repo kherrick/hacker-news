@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-28, 08:30:07",
+      "https://news.ycombinator.com/item?id=31538630"
+    ],
+    [
+      "Blocklist of all Facebook domains (2016)",
+      "https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 08:00:12",
       "https://news.ycombinator.com/item?id=31538482"
     ],
@@ -137,16 +147,6 @@
     [
       "Nim: Curated Packages",
       "https://github.com/nim-lang/Nim/wiki/Curated-Packages"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 23:16:40",
-      "https://news.ycombinator.com/item?id=31536019"
-    ],
-    [
-      "Flexible diffusion modeling of long videos",
-      "https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/"
     ]
   ],
   [
