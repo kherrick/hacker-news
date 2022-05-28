@@ -9,6 +9,7 @@
 * [2022-05-28, 19:18:27](https://news.ycombinator.com/item?id=31542915) - [14 Warning Signs That You Are Living in a Society Without a Counterculture](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
 * [2022-05-28, 18:49:22](https://news.ycombinator.com/item?id=31542692) - [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 * [2022-05-28, 18:27:47](https://news.ycombinator.com/item?id=31542547) - [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
+* [2022-05-28, 18:17:19](https://news.ycombinator.com/item?id=31542476) - [US Federal Reserve says its goal is ‘to get wages down’](https://multipolarista.com/2022/05/24/us-federal-reserve-wages-inflation/)
 * [2022-05-28, 17:44:28](https://news.ycombinator.com/item?id=31542234) - [GitHub Star History Graph](https://star-history.com)
 * [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
 * [2022-05-28, 16:58:34](https://news.ycombinator.com/item?id=31541858) - [Ampere Announces 5nm Arm Server CPU AmpereOne](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)

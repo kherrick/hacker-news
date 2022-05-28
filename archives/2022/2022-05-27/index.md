@@ -65,6 +65,7 @@
 * [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
 * [2022-05-27, 07:21:56](https://news.ycombinator.com/item?id=31526908) - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/)
 * [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
+* [2022-05-27, 07:08:34](https://news.ycombinator.com/item?id=31526825) - [Multiplicity Choices Are Hard to Model and Change](https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html)
 * [2022-05-27, 06:43:01](https://news.ycombinator.com/item?id=31526684) - [Tetra – Full stack reactive component framework for Django using Alpine.js](https://www.tetraframework.com)
 * [2022-05-27, 06:37:37](https://news.ycombinator.com/item?id=31526649) - [Tell HN: npm breach](https://news.ycombinator.com/item?id=31526649)
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
