@@ -74,6 +74,7 @@
 * [2022-05-26, 08:22:37](https://news.ycombinator.com/item?id=31515982) - [Sometimes, it is a compiler bug: inding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2022-05-26, 08:13:15](https://news.ycombinator.com/item?id=31515938) - [The End of Big Data](https://benn.substack.com/p/the-end-of-big-data)
 * [2022-05-26, 07:48:05](https://news.ycombinator.com/item?id=31515787) - [What Happened to Perl 7?](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html)
+* [2022-05-26, 07:44:45](https://news.ycombinator.com/item?id=31515765) - [High Performance Embedded Key-Value Store](https://github.com/vmware/splinterdb)
 * [2022-05-26, 07:29:01](https://news.ycombinator.com/item?id=31515678) - [List of Tech company layoffs in Europe](https://sifted.eu/articles/startup-tech-company-layoffs/)
 * [2022-05-26, 06:16:01](https://news.ycombinator.com/item?id=31515253) - [NSFW: DeepNude v2](https://app.deepnude.cc/upload)
 * [2022-05-26, 05:50:13](https://news.ycombinator.com/item?id=31515085) - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)

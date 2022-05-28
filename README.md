@@ -26,10 +26,10 @@
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
+* [2022-05-26, 07:44:45](https://news.ycombinator.com/item?id=31515765) - [High Performance Embedded Key-Value Store](https://github.com/vmware/splinterdb)
 * [2022-05-26, 05:06:06](https://news.ycombinator.com/item?id=31514822) - [Notes on Concurrency Bugs (2016)](https://danluu.com/concurrency-bugs/)
 * [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How do video games stay in sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 * [2022-05-25, 20:48:27](https://news.ycombinator.com/item?id=31510341) - [Mathpix: Convert Images and PDFs to LaTeX](https://mathpix.com/)
-* [2022-05-25, 14:03:03](https://news.ycombinator.com/item?id=31504652) - [Rhapsody Rabbit and Cat Concerto (2020) [video]](https://www.youtube.com/watch?v=DARLjh197qQ)
 
 ## [Archives](archives/index.md)
 
