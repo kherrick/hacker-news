@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-25](index.md)
 
 * [2022-05-25, 23:58:24](https://news.ycombinator.com/item?id=31512496) - [NYC removes last payphone from Manhattan streets](https://pix11.com/news/local-news/last-payphone-in-nyc-to-be-removed/)
+* [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How Do Video Games Stay in Sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 * [2022-05-25, 23:27:10](https://news.ycombinator.com/item?id=31512211) - [Reward Is Enough (2021)](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
 * [2022-05-25, 23:19:20](https://news.ycombinator.com/item?id=31512144) - [Why is Tiny Dancer such a great song? [video]](https://www.youtube.com/watch?v=dijrGXvSS-g)
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)

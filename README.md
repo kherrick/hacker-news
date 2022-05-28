@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
+* [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
 * [2022-05-28, 08:00:12](https://news.ycombinator.com/item?id=31538482) - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
@@ -14,10 +16,7 @@
 * [2022-05-27, 23:45:40](https://news.ycombinator.com/item?id=31536217) - [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
 * [2022-05-27, 23:23:44](https://news.ycombinator.com/item?id=31536069) - [Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
 * [2022-05-27, 23:20:57](https://news.ycombinator.com/item?id=31536048) - [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
-* [2022-05-27, 23:20:40](https://news.ycombinator.com/item?id=31536044) - [Nim: Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
 * [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.chat leverages the Matrix protocol for interoperable communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
-* [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
-* [2022-05-27, 18:35:18](https://news.ycombinator.com/item?id=31533125) - [How to read mathematics (2015)](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 * [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [RED is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
 * [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
 * [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
@@ -28,6 +27,7 @@
 * [2022-05-26, 15:13:31](https://news.ycombinator.com/item?id=31519334) - [Naturalprover: Grounded Mathematical Proof Generation with Language Models](https://arxiv.org/abs/2205.12910)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 09:33:03](https://news.ycombinator.com/item?id=31516365) - [Musikcube, a cross-platform, terminal-based library, player and server](https://github.com/clangen/musikcube)
+* [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How Do Video Games Stay in Sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 * [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia adds liquid-cooled GPUs](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
 
