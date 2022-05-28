@@ -61,6 +61,7 @@
 * [2022-05-26, 11:32:45](https://news.ycombinator.com/item?id=31517097) - [How to Walk Underground from Liverpool Street to Farringdon](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html)
 * [2022-05-26, 11:22:34](https://news.ycombinator.com/item?id=31517039) - [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
 * [2022-05-26, 11:19:20](https://news.ycombinator.com/item?id=31517021) - [Broadcom announces plans to buy VMware in $61B deal](https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html)
+* [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay – a hostel inside a decommissioned Boeing 747-200](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 09:21:18](https://news.ycombinator.com/item?id=31516292) - [Most of Rust job offers are in crypto](https://scrapingfish.com/blog/are-most-rust-jobs-in-crypto)
 * [2022-05-26, 08:45:42](https://news.ycombinator.com/item?id=31516108) - [Show HN: I turned my face rec system into a video codec](https://vertigo.ai/focus/)
 * [2022-05-26, 08:45:29](https://news.ycombinator.com/item?id=31516105) - [A City in a Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
