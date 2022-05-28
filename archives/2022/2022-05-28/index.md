@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 14:23:10](https://news.ycombinator.com/item?id=31540550) - [Exposure of fake Chinese tube amplifier](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 * [2022-05-28, 14:22:05](https://news.ycombinator.com/item?id=31540540) - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
 * [2022-05-28, 14:19:16](https://news.ycombinator.com/item?id=31540521) - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go](https://github.com/richardartoul/tsdb-layer)
 * [2022-05-28, 14:14:42](https://news.ycombinator.com/item?id=31540492) - [Success is determined by your ability to speak, write and quality of your ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
@@ -12,6 +13,7 @@
 * [2022-05-28, 13:46:07](https://news.ycombinator.com/item?id=31540281) - [Why developers seem to only build luxury housing (2018)](https://ggwash.org/view/68496/why-are-developers-only-building-luxury-housing)
 * [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
 * [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
+* [2022-05-28, 12:58:31](https://news.ycombinator.com/item?id=31539982) - [I don't trust papers out of “Top Labs” anymore](https://reddit.com/r/MachineLearning/comments/uyratt/d_i_dont_really_trust_papers_out_of_top_labs/)
 * [2022-05-28, 12:55:07](https://news.ycombinator.com/item?id=31539958) - [How the Saitama backdoor uses DNS tunnelling](https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:23:08](https://news.ycombinator.com/item?id=31539767) - [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
