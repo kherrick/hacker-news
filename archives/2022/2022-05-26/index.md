@@ -32,6 +32,7 @@
 * [2022-05-26, 16:40:55](https://news.ycombinator.com/item?id=31520483) - [Which dinosaurs lived in your hometown?](https://dinosaurpictures.org/ancient-earth#260)
 * [2022-05-26, 16:34:37](https://news.ycombinator.com/item?id=31520399) - [Ask HN: Current state of coding .NET code on non-Windows machines](https://news.ycombinator.com/item?id=31520399)
 * [2022-05-26, 16:20:54](https://news.ycombinator.com/item?id=31520229) - [ESPHome – Connect ESP32 with Sensors to HomeAssistant](https://esphome.io/index.html)
+* [2022-05-26, 16:16:43](https://news.ycombinator.com/item?id=31520175) - [Musical String Winder (2021)](https://www.pjrc.com/musical-string-winder/)
 * [2022-05-26, 16:14:00](https://news.ycombinator.com/item?id=31520145) - [PSA: HelloFresh doesn't delete data when asked, only changes the email address](https://news.ycombinator.com/item?id=31520145)
 * [2022-05-26, 16:10:09](https://news.ycombinator.com/item?id=31520090) - [I did not get pay rise – as only person in team. Should I quit?](https://news.ycombinator.com/item?id=31520090)
 * [2022-05-26, 15:29:10](https://news.ycombinator.com/item?id=31519557) - [The Problem with Hard and Soft Skills](https://dompatmore.com/blog/the-problem-with-hard-and-soft-skills)
