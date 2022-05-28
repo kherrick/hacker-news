@@ -62,6 +62,7 @@
 * [2022-05-26, 11:55:47](https://news.ycombinator.com/item?id=31517231) - [Linux kernel RNG enhancements for 5.19](https://twitter.com/EdgeSecurity/status/1528494394604761094)
 * [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 11:47:59](https://news.ycombinator.com/item?id=31517180) - [Dutch gov't to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
+* [2022-05-26, 11:41:47](https://news.ycombinator.com/item?id=31517142) - [Tangle-free magnetic USB cables are here](https://www.theverge.com/23138894/usb-cable-tangle-free-magnetic-self-winding)
 * [2022-05-26, 11:32:45](https://news.ycombinator.com/item?id=31517097) - [How to Walk Underground from Liverpool Street to Farringdon](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html)
 * [2022-05-26, 11:22:34](https://news.ycombinator.com/item?id=31517039) - [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
 * [2022-05-26, 11:19:20](https://news.ycombinator.com/item?id=31517021) - [Broadcom announces plans to buy VMware in $61B deal](https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html)
