@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-28, 22:27:19](https://news.ycombinator.com/item?id=31544409) - [Show HN: The Rust Jobs Blog](https://www.rustjobs.com/blog.html)
 * [2022-05-28, 21:17:50](https://news.ycombinator.com/item?id=31543953) - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
 * [2022-05-28, 20:36:25](https://news.ycombinator.com/item?id=31543579) - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
@@ -23,6 +22,7 @@
 * [2022-05-28, 11:38:42](https://news.ycombinator.com/item?id=31539510) - [The Endearing Colette (2015)](http://www.whistlingshade.com/1501/The_Endearing_Colette.htm)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Open-source VPN server and firewall](https://www.firezone.dev/)
 * [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google has banned the training of deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)
+* [2022-05-28, 07:58:59](https://news.ycombinator.com/item?id=31538475) - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Code quality only matters in context (2019)](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
 * [2022-05-27, 16:50:12](https://news.ycombinator.com/item?id=31531767) - [Show HN: Quickly find sensitive files in your GitHub repo](https://about.sourcegraph.com/blog/no-more-secrets)
 * [2022-05-27, 07:08:34](https://news.ycombinator.com/item?id=31526825) - [Multiplicity Choices Are Hard to Model and Change](https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html)
