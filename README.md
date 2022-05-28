@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-28, 14:19:16](https://news.ycombinator.com/item?id=31540521) - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go](https://github.com/richardartoul/tsdb-layer)
-* [2022-05-28, 14:14:42](https://news.ycombinator.com/item?id=31540492) - [Success is determined by your ability to speak, write and quality of your ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
-* [2022-05-28, 14:00:52](https://news.ycombinator.com/item?id=31540394) - [Xiaomi air purifiers NFC stickers defeated](https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/)
+* [2022-05-28, 14:14:42](https://news.ycombinator.com/item?id=31540492) - [Success determined by ability to speak, ability to write, and quality of ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
+* [2022-05-28, 14:00:52](https://news.ycombinator.com/item?id=31540394) - [Reverse engineering Xiaomi air purifier NFC stickers](https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/)
 * [2022-05-28, 13:49:32](https://news.ycombinator.com/item?id=31540307) - [Odd DNS Requests that are Normal (2019)](https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844)
+* [2022-05-28, 12:55:07](https://news.ycombinator.com/item?id=31539958) - [How the Saitama backdoor uses DNS tunnelling](https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
@@ -27,7 +28,6 @@
 * [2022-05-26, 09:33:03](https://news.ycombinator.com/item?id=31516365) - [Musikcube, a cross-platform, terminal-based library, player and server](https://github.com/clangen/musikcube)
 * [2022-05-26, 05:06:06](https://news.ycombinator.com/item?id=31514822) - [Notes on Concurrency Bugs](https://danluu.com/concurrency-bugs/)
 * [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How Do Video Games Stay in Sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
-* [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia adds liquid-cooled GPUs](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
 * [2022-05-25, 14:03:03](https://news.ycombinator.com/item?id=31504652) - [Rhapsody Rabbit and Cat Concerto (2020) [video]](https://www.youtube.com/watch?v=DARLjh197qQ)
 
