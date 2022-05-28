@@ -11,6 +11,7 @@
 * [2022-05-25, 23:15:07](https://news.ycombinator.com/item?id=31512100) - [Long Covid and Mitochondrial Dysregulation](https://www.zrtlab.com/blog/archive/long-covid-and-mitochondrial-dysregulation/)
 * [2022-05-25, 23:01:13](https://news.ycombinator.com/item?id=31511956) - [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
 * [2022-05-25, 22:58:51](https://news.ycombinator.com/item?id=31511928) - [Image editors often get color wrong](https://papaya.io/blog/perceptual-blending)
+* [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 22:39:36](https://news.ycombinator.com/item?id=31511719) - [Original Pong did not have any code or even a microprocessor](https://www.falstad.com/pong/)
 * [2022-05-25, 22:23:54](https://news.ycombinator.com/item?id=31511485) - [We use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
 * [2022-05-25, 22:20:38](https://news.ycombinator.com/item?id=31511445) - [Tunnel.pyjam.as – HTTP tunnels without custom software thanks to WireGuard](https://tunnel.pyjam.as/)
