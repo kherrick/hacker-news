@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-05-28, 14:19:16",
+      "https://news.ycombinator.com/item?id=31540521"
+    ],
+    [
+      "FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go",
+      "https://github.com/richardartoul/tsdb-layer"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 14:14:42",
+      "https://news.ycombinator.com/item?id=31540492"
+    ],
+    [
+      "Success is determined by your ability to speak, write and quality of your ideas",
+      "https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 14:00:52",
+      "https://news.ycombinator.com/item?id=31540394"
+    ],
+    [
+      "Xiaomi air purifiers NFC stickers defeated",
+      "https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 13:49:32",
       "https://news.ycombinator.com/item?id=31540307"
     ],
     [
-      "Odd DNS Requests that are Normal",
+      "Odd DNS Requests that are Normal (2019)",
       "https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844"
     ]
   ],
@@ -37,16 +67,6 @@
     [
       "FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall",
       "https://www.firezone.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 09:23:30",
-      "https://news.ycombinator.com/item?id=31538874"
-    ],
-    [
-      "Low-code online store builder",
-      "https://selldone.com"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-05-28, 00:16:17",
-      "https://news.ycombinator.com/item?id=31536414"
-    ],
-    [
-      "Investing in lighting did great things for my mental and physical health",
-      "https://www.bramadams.dev/projects/invest-in-lights"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 23:45:40",
       "https://news.ycombinator.com/item?id=31536217"
     ],
@@ -177,26 +187,6 @@
     [
       "Dark Moon: The Inevitable Collapse of Luna",
       "https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 21:13:52",
-      "https://news.ycombinator.com/item?id=31534988"
-    ],
-    [
-      "Tell HN: My early access eBook over iOS made $120k in 1 year",
-      "https://news.ycombinator.com/item?id=31534988"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 17:23:31",
-      "https://news.ycombinator.com/item?id=31532199"
-    ],
-    [
-      "Knots 3D – Learn how to tie over 150 useful knots",
-      "https://knots3d.com/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2022-05-26, 05:06:06",
+      "https://news.ycombinator.com/item?id=31514822"
+    ],
+    [
+      "Notes on Concurrency Bugs",
+      "https://danluu.com/concurrency-bugs/"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 23:33:00",
       "https://news.ycombinator.com/item?id=31512257"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31504652"
     ],
     [
-      "Rhapsody Rabbit and Cat Concerto – Side by Side",
+      "Rhapsody Rabbit and Cat Concerto (2020) [video]",
       "https://www.youtube.com/watch?v=DARLjh197qQ"
     ]
   ]
