@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-28, 09:42:24",
+      "https://news.ycombinator.com/item?id=31538960"
+    ],
+    [
+      "A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard",
+      "https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 09:23:30",
       "https://news.ycombinator.com/item?id=31538874"
     ],
@@ -17,16 +27,6 @@
     [
       "A declarative desktop UI framework for Rust built on GTK and GTK-rs",
       "https://github.com/bodil/vgtk"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 08:30:07",
-      "https://news.ycombinator.com/item?id=31538630"
-    ],
-    [
-      "Blocklist of all Facebook domains (2016)",
-      "https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-05-27, 18:35:18",
-      "https://news.ycombinator.com/item?id=31533125"
-    ],
-    [
-      "How to read mathematics (2015)",
-      "https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 17:29:37",
       "https://news.ycombinator.com/item?id=31532285"
     ],
@@ -227,6 +217,16 @@
     [
       "Architecture Notes: Datasette",
       "https://architecturenotes.co/datasette-simon-willison/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 13:28:54",
+      "https://news.ycombinator.com/item?id=31529383"
+    ],
+    [
+      "In Obscurity",
+      "https://droctothorpe.github.io/posts/2022/05/in-obscurity/"
     ]
   ],
   [
