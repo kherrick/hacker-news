@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 18:49:22](https://news.ycombinator.com/item?id=31542692) - [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 * [2022-05-28, 18:27:47](https://news.ycombinator.com/item?id=31542547) - [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
 * [2022-05-28, 17:44:28](https://news.ycombinator.com/item?id=31542234) - [GitHub Star History Graph](https://star-history.com)
 * [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)

@@ -59,6 +59,7 @@
 * [2022-05-26, 12:38:23](https://news.ycombinator.com/item?id=31517566) - [South Korean Workers Turn the Tables on Their Bad Bosses](https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html)
 * [2022-05-26, 12:32:16](https://news.ycombinator.com/item?id=31517505) - [Mental models that will make you more successful in life](https://fronterablog.com/mental-model-examples-and-their-explanations/)
 * [2022-05-26, 12:01:07](https://news.ycombinator.com/item?id=31517272) - [Firezone (YC W22) Is Hiring a Senior Elixir Engineer](https://www.ycombinator.com/companies/firezone/jobs/C59VbiY-senior-fullstack-engineer)
+* [2022-05-26, 11:55:47](https://news.ycombinator.com/item?id=31517231) - [Linux kernel RNG enhancements for 5.19](https://twitter.com/EdgeSecurity/status/1528494394604761094)
 * [2022-05-26, 11:48:48](https://news.ycombinator.com/item?id=31517184) - [Broadcom to Acquire VMware for $61B](https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/)
 * [2022-05-26, 11:47:59](https://news.ycombinator.com/item?id=31517180) - [Dutch gov't to admit to institutional racism at Tax Authority](https://nltimes.nl/2022/05/26/dutch-govt-admit-consititutional-racism-tax-authority)
 * [2022-05-26, 11:32:45](https://news.ycombinator.com/item?id=31517097) - [How to Walk Underground from Liverpool Street to Farringdon](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html)
