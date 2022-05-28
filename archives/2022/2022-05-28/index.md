@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 09:42:24](https://news.ycombinator.com/item?id=31538960) - [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
 * [2022-05-28, 08:30:07](https://news.ycombinator.com/item?id=31538630) - [Blocklist of all Facebook domains (2016)](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all)

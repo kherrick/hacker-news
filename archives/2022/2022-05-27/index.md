@@ -49,6 +49,7 @@
 * [2022-05-27, 14:14:09](https://news.ycombinator.com/item?id=31529876) - [Migrating extraterrestrial civilizations and interstellar colonization](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/migrating-extraterrestrial-civilizations-and-interstellar-colonization-implications-for-seti-and-seta/BFFC1BB63FED869C85172BB3CC88DBBB)
 * [2022-05-27, 14:12:49](https://news.ycombinator.com/item?id=31529863) - [The Secret Math Behind Mind-Reading Magic Tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
 * [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
+* [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
 * [2022-05-27, 12:49:02](https://news.ycombinator.com/item?id=31528960) - [Poll: How are you doing currently?](https://news.ycombinator.com/item?id=31528960)
 * [2022-05-27, 12:05:55](https://news.ycombinator.com/item?id=31528557) - [Joseph Stiglitz: 'We should shut down the cryptocurrencies'](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
