@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
-* [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)
+* [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
 * [2022-05-28, 00:16:17](https://news.ycombinator.com/item?id=31536414) - [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
 * [2022-05-28, 00:00:52](https://news.ycombinator.com/item?id=31536320) - [An uroboros program with 100 programming languages](https://github.com/mame/quine-relay)
 * [2022-05-27, 23:45:40](https://news.ycombinator.com/item?id=31536217) - [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
@@ -24,11 +25,10 @@
 * [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [2022-05-27, 15:25:22](https://news.ycombinator.com/item?id=31530690) - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
 * [2022-05-27, 14:12:49](https://news.ycombinator.com/item?id=31529863) - [The math behind mind-reading tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
-* [2022-05-27, 14:11:44](https://news.ycombinator.com/item?id=31529853) - [Blender shader-based halftone CMYK offset printing emulation process](https://mrmotarius.itch.io/mrmo-halftone)
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, oh why was this added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
+* [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-25, 23:19:20](https://news.ycombinator.com/item?id=31512144) - [Why is Tiny Dancer such a great song? [video]](https://www.youtube.com/watch?v=dijrGXvSS-g)
-* [2022-05-25, 22:12:58](https://news.ycombinator.com/item?id=31511361) - [A brief rant on the future of interaction design (2011)](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 * [2022-05-25, 21:22:11](https://news.ycombinator.com/item?id=31510736) - [Learning Theory and the Neurotic Paradox](https://psycnet.apa.org/record/2013-40438-001)
 
 ## [Archives](archives/index.md)
