@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
+* [2022-05-28, 12:23:08](https://news.ycombinator.com/item?id=31539767) - [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
@@ -19,7 +20,6 @@
 * [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.chat leverages the Matrix protocol for interoperable communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [RED is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
 * [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
-* [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-27, 07:21:56](https://news.ycombinator.com/item?id=31526908) - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
