@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 13:49:32](https://news.ycombinator.com/item?id=31540307) - [Odd DNS Requests that are Normal](https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844)
 * [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
 * [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)

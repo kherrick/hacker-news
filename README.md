@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
-* [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
+* [2022-05-28, 13:49:32](https://news.ycombinator.com/item?id=31540307) - [Odd DNS Requests that are Normal](https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
@@ -19,6 +18,7 @@
 * [2022-05-27, 23:45:40](https://news.ycombinator.com/item?id=31536217) - [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
 * [2022-05-27, 23:23:44](https://news.ycombinator.com/item?id=31536069) - [Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
 * [2022-05-27, 23:20:57](https://news.ycombinator.com/item?id=31536048) - [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
+* [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
 * [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-27, 07:21:56](https://news.ycombinator.com/item?id=31526908) - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/)
