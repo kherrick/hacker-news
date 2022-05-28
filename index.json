@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-05-28, 09:06:09",
+      "https://news.ycombinator.com/item?id=31538800"
+    ],
+    [
+      "A declarative desktop UI framework for Rust built on GTK and GTK-rs",
+      "https://github.com/bodil/vgtk"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 08:30:07",
       "https://news.ycombinator.com/item?id=31538630"
     ],
@@ -147,16 +157,6 @@
     [
       "Dark Moon: The Inevitable Collapse of Luna",
       "https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 23:20:40",
-      "https://news.ycombinator.com/item?id=31536044"
-    ],
-    [
-      "Nim: Curated Packages",
-      "https://github.com/nim-lang/Nim/wiki/Curated-Packages"
     ]
   ],
   [
