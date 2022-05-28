@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-28, 22:27:19",
+      "https://news.ycombinator.com/item?id=31544409"
+    ],
+    [
+      "Show HN: The Rust Jobs Blog",
+      "https://www.rustjobs.com/blog.html"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 21:17:50",
       "https://news.ycombinator.com/item?id=31543953"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-05-28, 07:58:59",
-      "https://news.ycombinator.com/item?id=31538475"
-    ],
-    [
-      "Building the most inaccessible site with a perfect Lighthouse score (2019)",
-      "https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 04:39:46",
       "https://news.ycombinator.com/item?id=31537655"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-05-26, 11:41:47",
+      "https://news.ycombinator.com/item?id=31517142"
+    ],
+    [
+      "Tangle-free magnetic USB cables are here",
+      "https://www.theverge.com/23138894/usb-cable-tangle-free-magnetic-self-winding"
+    ]
+  ],
+  [
+    [
       "2022-05-26, 07:44:45",
       "https://news.ycombinator.com/item?id=31515765"
     ],
     [
       "SplinterDB: High performance embedded key-value store",
       "https://github.com/vmware/splinterdb"
-    ]
-  ],
-  [
-    [
-      "2022-05-26, 05:06:06",
-      "https://news.ycombinator.com/item?id=31514822"
-    ],
-    [
-      "Notes on Concurrency Bugs (2016)",
-      "https://danluu.com/concurrency-bugs/"
     ]
   ],
   [
