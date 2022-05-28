@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-28, 19:36:14",
+      "https://news.ycombinator.com/item?id=31543054"
+    ],
+    [
+      "System Font Stack",
+      "https://systemfontstack.com"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 19:18:27",
       "https://news.ycombinator.com/item?id=31542915"
     ],
     [
-      "14 Warning Signs That You Are Living in a Society Without a Counterculture",
+      "Living in a society without a counterculture",
       "https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31541070"
     ],
     [
-      "Are all popular APIs moving to Cursor based pagination?",
+      "Paginating Requests in APIs (2020)",
       "https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c"
     ]
   ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-27, 13:28:54",
-      "https://news.ycombinator.com/item?id=31529383"
-    ],
-    [
-      "In Obscurity",
-      "https://droctothorpe.github.io/posts/2022/05/in-obscurity/"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 11:55:47",
       "https://news.ycombinator.com/item?id=31517231"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31515765"
     ],
     [
-      "High Performance Embedded Key-Value Store",
+      "SplinterDB: High performance embedded key-value store",
       "https://github.com/vmware/splinterdb"
     ]
   ],
