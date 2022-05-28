@@ -6,6 +6,7 @@
 
 * [2022-05-25, 23:58:24](https://news.ycombinator.com/item?id=31512496) - [NYC removes last payphone from Manhattan streets](https://pix11.com/news/local-news/last-payphone-in-nyc-to-be-removed/)
 * [2022-05-25, 23:27:10](https://news.ycombinator.com/item?id=31512211) - [Reward Is Enough (2021)](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
+* [2022-05-25, 23:19:20](https://news.ycombinator.com/item?id=31512144) - [Why is Tiny Dancer such a great song? [video]](https://www.youtube.com/watch?v=dijrGXvSS-g)
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)
 * [2022-05-25, 23:15:07](https://news.ycombinator.com/item?id=31512100) - [Long Covid and Mitochondrial Dysregulation](https://www.zrtlab.com/blog/archive/long-covid-and-mitochondrial-dysregulation/)
 * [2022-05-25, 23:01:13](https://news.ycombinator.com/item?id=31511956) - [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
