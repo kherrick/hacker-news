@@ -1,22 +1,92 @@
 [
   [
     [
+      "2022-05-28, 00:43:43",
+      "https://news.ycombinator.com/item?id=31536548"
+    ],
+    [
+      "Cost of ultra-rapid EV charging increases by almost 50%",
+      "https://www.autocar.co.uk/car-news/consumer/cost-ultra-rapid-ev-charging-increases-almost-50"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 00:16:17",
+      "https://news.ycombinator.com/item?id=31536414"
+    ],
+    [
+      "Investing in lighting did great things for my mental and physical health",
+      "https://www.bramadams.dev/projects/invest-in-lights"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 00:00:52",
+      "https://news.ycombinator.com/item?id=31536320"
+    ],
+    [
+      "An uroboros program with 100 programming languages",
+      "https://github.com/mame/quine-relay"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 23:45:40",
+      "https://news.ycombinator.com/item?id=31536217"
+    ],
+    [
+      "Show HN: Self-Hosted Maps Stack",
+      "https://maps.ellenhp.me/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 23:23:44",
+      "https://news.ycombinator.com/item?id=31536069"
+    ],
+    [
+      "Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved",
+      "https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 23:20:57",
+      "https://news.ycombinator.com/item?id=31536048"
+    ],
+    [
+      "Dark Moon: The Inevitable Collapse of Luna",
+      "https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 23:20:40",
+      "https://news.ycombinator.com/item?id=31536044"
+    ],
+    [
+      "Nim: Curated Packages",
+      "https://github.com/nim-lang/Nim/wiki/Curated-Packages"
+    ]
+  ],
+  [
+    [
       "2022-05-27, 23:16:40",
       "https://news.ycombinator.com/item?id=31536019"
     ],
     [
-      "Flexible generation of hour long videos with diffusion models",
+      "Flexible diffusion modeling of long videos",
       "https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/"
     ]
   ],
   [
     [
-      "2022-05-27, 22:49:46",
-      "https://news.ycombinator.com/item?id=31535831"
+      "2022-05-27, 21:30:06",
+      "https://news.ycombinator.com/item?id=31535158"
     ],
     [
-      "How Slavery Thrived in Renaissance Europe",
-      "https://www.historyextra.com/period/medieval/renaissance-medieval-slave-trade-human-stories-europe-africa/"
+      "Building a Cloud Database from Scratch: Why We Moved from C++ to Rust",
+      "https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/"
     ]
   ],
   [
@@ -25,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31535034"
     ],
     [
-      "Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications",
+      "Rocket.chat leverages the Matrix protocol for interoperable communications",
       "https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications"
     ]
   ],
@@ -47,16 +117,6 @@
     [
       "GitTorrent: A Decentralized GitHub (2015)",
       "https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 20:58:26",
-      "https://news.ycombinator.com/item?id=31534794"
-    ],
-    [
-      "Magic Doesn‘t Happen, Especially Not in Business",
-      "https://www.republik.ch/2022/05/26/magic-doesn-t-happen-especially-not-in-business"
     ]
   ],
   [
@@ -161,16 +221,6 @@
   ],
   [
     [
-      "2022-05-27, 16:35:42",
-      "https://news.ycombinator.com/item?id=31531539"
-    ],
-    [
-      "What is edge compute?",
-      "https://austingil.com/edge-compute-knitted-dog-hats/"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 16:18:12",
       "https://news.ycombinator.com/item?id=31531345"
     ],
@@ -187,16 +237,6 @@
     [
       "Architecture Notes: Datasette",
       "https://architecturenotes.co/datasette-simon-willison/"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 14:57:41",
-      "https://news.ycombinator.com/item?id=31530379"
-    ],
-    [
-      "Web Audio Modem (2017)",
-      "https://martinmelhus.com/web-audio-modem/"
     ]
   ],
   [
@@ -221,36 +261,6 @@
   ],
   [
     [
-      "2022-05-27, 09:16:49",
-      "https://news.ycombinator.com/item?id=31527559"
-    ],
-    [
-      "How I Built Zig-SQLite",
-      "https://rischmann.fr/blog/how-i-built-zig-sqlite"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 09:15:10",
-      "https://news.ycombinator.com/item?id=31527544"
-    ],
-    [
-      "Show HN: A Reddit style site to discuss podcast episodes",
-      "https://podbabble.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 08:55:02",
-      "https://news.ycombinator.com/item?id=31527446"
-    ],
-    [
-      "GoodWill ransomware forces victims to donate to the poor",
-      "https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 06:08:24",
       "https://news.ycombinator.com/item?id=31526493"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-05-25, 23:58:24",
-      "https://news.ycombinator.com/item?id=31512496"
+      "2022-05-27, 05:05:54",
+      "https://news.ycombinator.com/item?id=31526172"
     ],
     [
-      "Last public payphone removed from Manhattan streets",
-      "https://pix11.com/news/local-news/last-payphone-in-nyc-to-be-removed/"
+      "The story behind Beethoven's “Ode to Joy”",
+      "https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-05-25, 10:52:07",
-      "https://news.ycombinator.com/item?id=31502691"
+      "2022-05-25, 21:22:11",
+      "https://news.ycombinator.com/item?id=31510736"
     ],
     [
-      "Identify ESDI Drive",
-      "http://www.os2museum.com/wp/identify-esdi-drive/"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 09:20:38",
-      "https://news.ycombinator.com/item?id=31502186"
-    ],
-    [
-      "Magical SVG Techniques",
-      "https://www.smashingmagazine.com/2022/05/magical-svg-techniques/"
+      "Learning Theory and the Neurotic Paradox",
+      "https://psycnet.apa.org/record/2013-40438-001"
     ]
   ]
 ]
