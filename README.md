@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
 * [2022-05-28, 16:15:07](https://news.ycombinator.com/item?id=31541477) - [Translating math into code with examples in Java, Racket, Haskell, Python (2011)](https://matt.might.net/articles/discrete-math-and-code/)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 * [2022-05-28, 15:56:52](https://news.ycombinator.com/item?id=31541320) - [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
 * [2022-05-28, 15:31:12](https://news.ycombinator.com/item?id=31541070) - [Are all popular APIs moving to Cursor based pagination?](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
 * [2022-05-28, 15:10:32](https://news.ycombinator.com/item?id=31540909) - [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
 * [2022-05-28, 15:00:25](https://news.ycombinator.com/item?id=31540846) - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
-* [2022-05-28, 14:23:10](https://news.ycombinator.com/item?id=31540550) - [Exposure of fake Chinese tube amplifier (2018)](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 * [2022-05-28, 14:22:05](https://news.ycombinator.com/item?id=31540540) - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
 * [2022-05-28, 14:19:16](https://news.ycombinator.com/item?id=31540521) - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go (2019)](https://github.com/richardartoul/tsdb-layer)
 * [2022-05-28, 14:14:42](https://news.ycombinator.com/item?id=31540492) - [Success determined by ability to speak, ability to write, and quality of ideas](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
@@ -14,7 +14,7 @@
 * [2022-05-28, 14:00:11](https://news.ycombinator.com/item?id=31540389) - [Lost at sea? This desalination unit fits in a suitcase](https://thenewdaily.com.au/life/tech/2022/05/27/desalination-unit-in-a-suitcase/)
 * [2022-05-28, 13:49:32](https://news.ycombinator.com/item?id=31540307) - [Odd DNS Requests that are Normal (2019)](https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844)
 * [2022-05-28, 13:47:00](https://news.ycombinator.com/item?id=31540289) - [London ISP CommunityFibre Discount 3Gbps FTTP Plan to £50](https://www.ispreview.co.uk/index.php/2022/05/london-isp-communityfibre-discount-3gbps-fttp-plan-to-50.html)
-* [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
+* [2022-05-28, 11:50:02](https://news.ycombinator.com/item?id=31539571) - [Feeling like a victim is a perfectly disastrous way to go through life](https://newsletter.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
 * [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google Has Banned the Training of Deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)
@@ -22,7 +22,6 @@
 * [2022-05-28, 07:58:59](https://news.ycombinator.com/item?id=31538475) - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
-* [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-26, 15:19:40](https://news.ycombinator.com/item?id=31519423) - [Translating images into bird's-eye-view maps](https://www.amazon.science/blog/translating-images-into-birds-eye-view-maps)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
@@ -30,6 +29,7 @@
 * [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How Do Video Games Stay in Sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia adds liquid-cooled GPUs](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
 * [2022-05-25, 20:48:27](https://news.ycombinator.com/item?id=31510341) - [Mathpix: Convert Images and PDFs to LaTeX](https://mathpix.com/)
+* [2022-05-25, 14:03:03](https://news.ycombinator.com/item?id=31504652) - [Rhapsody Rabbit and Cat Concerto (2020) [video]](https://www.youtube.com/watch?v=DARLjh197qQ)
 
 ## [Archives](archives/index.md)
 
