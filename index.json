@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-28, 15:00:25",
+      "https://news.ycombinator.com/item?id=31540846"
+    ],
+    [
+      "The Quest for Fusion Energy",
+      "https://inference-review.com/article/the-quest-for-fusion-energy"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 14:23:10",
       "https://news.ycombinator.com/item?id=31540550"
     ],
     [
-      "Exposure of fake Chinese tube amplifier",
+      "Exposure of fake Chinese tube amplifier (2018)",
       "https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31540521"
     ],
     [
-      "FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go",
+      "FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go (2019)",
       "https://github.com/richardartoul/tsdb-layer"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "I don't trust papers out of “Top Labs” anymore",
       "https://reddit.com/r/MachineLearning/comments/uyratt/d_i_dont_really_trust_papers_out_of_top_labs/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 12:55:07",
-      "https://news.ycombinator.com/item?id=31539958"
-    ],
-    [
-      "How the Saitama backdoor uses DNS tunnelling",
-      "https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/"
     ]
   ],
   [
