@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-28, 04:15:53](https://news.ycombinator.com/item?id=31537567) - [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
@@ -18,6 +17,7 @@
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
 * [2022-05-27, 21:10:08](https://news.ycombinator.com/item?id=31534936) - [GitTorrent: A Decentralized GitHub (2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
+* [2022-05-27, 18:38:48](https://news.ycombinator.com/item?id=31533180) - [Codeball – AI-powered code review](https://codeball.ai/)
 * [2022-05-27, 18:35:18](https://news.ycombinator.com/item?id=31533125) - [How to read mathematics (2015)](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 * [2022-05-27, 18:16:37](https://news.ycombinator.com/item?id=31532878) - [High performance individuals and teams (2020)](https://pablasso.com/high-performance-individuals-and-teams/)
 * [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [RED is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
@@ -26,7 +26,7 @@
 * [2022-05-27, 15:25:22](https://news.ycombinator.com/item?id=31530690) - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, oh why was this added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
-* [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay – a hostel inside a decommissioned Boeing 747-200](https://en.wikipedia.org/wiki/Jumbo_Stay)
+* [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia Adds Liquid-Cooled GPUs for Sustainable, Efficient Computing](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
