@@ -41,6 +41,7 @@
 * [2022-05-28, 06:45:17](https://news.ycombinator.com/item?id=31538139) - [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
 * [2022-05-28, 06:41:13](https://news.ycombinator.com/item?id=31538123) - [Ariel Ekblaw on building beautiful architecture in space](https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511)
 * [2022-05-28, 05:37:52](https://news.ycombinator.com/item?id=31537883) - [Compute Express Link Overview](https://bwidawsk.net/blog/2022/6/compute-express-link-intro/)
+* [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Why I Write Dirty Code: Code Quality in Context](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
 * [2022-05-28, 04:15:53](https://news.ycombinator.com/item?id=31537567) - [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
