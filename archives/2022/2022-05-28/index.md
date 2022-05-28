@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 15:56:52](https://news.ycombinator.com/item?id=31541320) - [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
+* [2022-05-28, 15:10:32](https://news.ycombinator.com/item?id=31540909) - [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
 * [2022-05-28, 15:00:25](https://news.ycombinator.com/item?id=31540846) - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
 * [2022-05-28, 14:23:10](https://news.ycombinator.com/item?id=31540550) - [Exposure of fake Chinese tube amplifier](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 * [2022-05-28, 14:22:05](https://news.ycombinator.com/item?id=31540540) - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
@@ -12,6 +14,7 @@
 * [2022-05-28, 14:00:52](https://news.ycombinator.com/item?id=31540394) - [Xiaomi air purifiers NFC stickers defeated](https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/)
 * [2022-05-28, 14:00:11](https://news.ycombinator.com/item?id=31540389) - [Lost at sea? This desalination unit fits in a suitcase](https://thenewdaily.com.au/life/tech/2022/05/27/desalination-unit-in-a-suitcase/)
 * [2022-05-28, 13:49:32](https://news.ycombinator.com/item?id=31540307) - [Odd DNS Requests that are Normal](https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844)
+* [2022-05-28, 13:47:00](https://news.ycombinator.com/item?id=31540289) - [London ISP CommunityFibre Discount 3Gbps FTTP Plan to £50](https://www.ispreview.co.uk/index.php/2022/05/london-isp-communityfibre-discount-3gbps-fttp-plan-to-50.html)
 * [2022-05-28, 13:46:07](https://news.ycombinator.com/item?id=31540281) - [Why developers seem to only build luxury housing (2018)](https://ggwash.org/view/68496/why-are-developers-only-building-luxury-housing)
 * [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
 * [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
@@ -20,6 +23,7 @@
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:23:08](https://news.ycombinator.com/item?id=31539767) - [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
+* [2022-05-28, 11:50:02](https://news.ycombinator.com/item?id=31539571) - [Feeling like a victim is a perfectly disastrous way to go through life](https://newsletter.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 10:10:15](https://news.ycombinator.com/item?id=31539075) - [Ask HN: Why the web lately is all about JavaScript?](https://news.ycombinator.com/item?id=31539075)
 * [2022-05-28, 09:42:24](https://news.ycombinator.com/item?id=31538960) - [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
