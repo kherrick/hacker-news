@@ -19,6 +19,7 @@
 * [2022-05-25, 21:48:31](https://news.ycombinator.com/item?id=31511062) - [Amplitude (YC W12) Launches a CDP](https://amplitude.com/blog/amplitude-customer-data-platform)
 * [2022-05-25, 21:48:06](https://news.ycombinator.com/item?id=31511056) - [Jack Dorsey leaves Twitter's board of directors](https://www.axios.com/2022/05/25/jack-dorsey-twitter-board)
 * [2022-05-25, 21:47:03](https://news.ycombinator.com/item?id=31511047) - [Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon](https://www.nature.com/articles/s41586-022-04780-4)
+* [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia Adds Liquid-Cooled GPUs for Sustainable, Efficient Computing](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
 * [2022-05-25, 21:32:46](https://news.ycombinator.com/item?id=31510865) - [FTC Fines Twitter $150M for Using 2FA Phone Numbers for Ad Targeting](https://www.ftc.gov/business-guidance/blog/2022/05/twitter-pay-150-million-penalty-allegedly-breaking-its-privacy-promises-again)
 * [2022-05-25, 21:29:01](https://news.ycombinator.com/item?id=31510821) - [Parsing JSON faster with Intel AVX-512](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 * [2022-05-25, 21:28:25](https://news.ycombinator.com/item?id=31510814) - [Minimizing correlated failures in distributed systems](https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/)

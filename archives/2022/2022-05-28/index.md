@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
+* [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What a Recession Would Mean for Developers](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
 * [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
 * [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
 * [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)

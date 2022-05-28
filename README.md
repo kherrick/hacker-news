@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
+* [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What a Recession Would Mean for Developers](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
 * [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
 * [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
 * [2022-05-28, 00:16:17](https://news.ycombinator.com/item?id=31536414) - [Investing in lighting did great things for my mental and physical health](https://www.bramadams.dev/projects/invest-in-lights)
@@ -18,7 +19,6 @@
 * [2022-05-27, 18:38:48](https://news.ycombinator.com/item?id=31533180) - [Codeball – AI-powered code review](https://codeball.ai/)
 * [2022-05-27, 18:35:18](https://news.ycombinator.com/item?id=31533125) - [How to read mathematics (2015)](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 * [2022-05-27, 18:16:37](https://news.ycombinator.com/item?id=31532878) - [High performance individuals and teams (2020)](https://pablasso.com/high-performance-individuals-and-teams/)
-* [2022-05-27, 17:58:31](https://news.ycombinator.com/item?id=31532647) - [Bots behind the game console shortage](https://www.theverge.com/2022/5/25/23137789/aio-buying-bots-ps5-xbox-series-x-console-shortage)
 * [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [RED is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
 * [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
 * [2022-05-27, 17:00:07](https://news.ycombinator.com/item?id=31531910) - [Ribbon (YC S17) is hiring data engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
@@ -29,7 +29,7 @@
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
 * [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-25, 23:19:20](https://news.ycombinator.com/item?id=31512144) - [Why is Tiny Dancer such a great song? [video]](https://www.youtube.com/watch?v=dijrGXvSS-g)
-* [2022-05-25, 21:22:11](https://news.ycombinator.com/item?id=31510736) - [Learning Theory and the Neurotic Paradox](https://psycnet.apa.org/record/2013-40438-001)
+* [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia Adds Liquid-Cooled GPUs for Sustainable, Efficient Computing](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
 
 ## [Archives](archives/index.md)
 
