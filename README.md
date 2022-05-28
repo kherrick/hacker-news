@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-28, 07:01:11](https://news.ycombinator.com/item?id=31538213) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-* [2022-05-28, 05:37:52](https://news.ycombinator.com/item?id=31537883) - [Compute Express Link Overview](https://bwidawsk.net/blog/2022/6/compute-express-link-intro/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
@@ -27,6 +26,7 @@
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, oh why was this added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
+* [2022-05-26, 09:33:03](https://news.ycombinator.com/item?id=31516365) - [Musikcube, a cross-platform, terminal-based library, player and server](https://github.com/clangen/musikcube)
 * [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia Adds Liquid-Cooled GPUs for Sustainable, Efficient Computing](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
