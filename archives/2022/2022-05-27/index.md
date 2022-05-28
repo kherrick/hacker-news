@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-05-27](index.md)
 
+* [2022-05-27, 23:45:40](https://news.ycombinator.com/item?id=31536217) - [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
+* [2022-05-27, 23:23:44](https://news.ycombinator.com/item?id=31536069) - [Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
+* [2022-05-27, 23:20:57](https://news.ycombinator.com/item?id=31536048) - [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
+* [2022-05-27, 23:20:40](https://news.ycombinator.com/item?id=31536044) - [Nim: Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
 * [2022-05-27, 23:16:40](https://news.ycombinator.com/item?id=31536019) - [Flexible generation of hour long videos with diffusion models](https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/)
 * [2022-05-27, 22:49:46](https://news.ycombinator.com/item?id=31535831) - [How Slavery Thrived in Renaissance Europe](https://www.historyextra.com/period/medieval/renaissance-medieval-slave-trade-human-stories-europe-africa/)
+* [2022-05-27, 21:30:06](https://news.ycombinator.com/item?id=31535158) - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
 * [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
 * [2022-05-27, 21:10:08](https://news.ycombinator.com/item?id=31534936) - [GitTorrent: A Decentralized GitHub (2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
@@ -63,6 +68,7 @@
 * [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, Oh Why Was This Added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:45:07](https://news.ycombinator.com/item?id=31526370) - [Today’s JavaScript, from an outsider’s perspective (2020)](https://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
 * [2022-05-27, 05:18:44](https://news.ycombinator.com/item?id=31526231) - [Organice: An implementation of Org mode without the dependency of Emacs](https://github.com/200ok-ch/organice)
+* [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
 * [2022-05-27, 04:50:11](https://news.ycombinator.com/item?id=31526107) - [The home of Walmart wants to beat sprawl](https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl)
 * [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 * [2022-05-27, 04:27:04](https://news.ycombinator.com/item?id=31526002) - [Cannoli: The Fast QEMU Tracer](https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx)
