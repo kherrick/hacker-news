@@ -14,6 +14,7 @@
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
 * [2022-05-28, 08:30:07](https://news.ycombinator.com/item?id=31538630) - [Blocklist of all Facebook domains (2016)](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all)
+* [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google Has Banned the Training of Deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)
 * [2022-05-28, 08:00:12](https://news.ycombinator.com/item?id=31538482) - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
 * [2022-05-28, 07:58:59](https://news.ycombinator.com/item?id=31538475) - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [2022-05-28, 07:01:11](https://news.ycombinator.com/item?id=31538213) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
