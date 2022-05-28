@@ -21,7 +21,6 @@
 * [2022-05-28, 14:00:52](https://news.ycombinator.com/item?id=31540394) - [Reverse engineering Xiaomi air purifier NFC stickers](https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/)
 * [2022-05-28, 11:38:42](https://news.ycombinator.com/item?id=31539510) - [The Endearing Colette (2015)](http://www.whistlingshade.com/1501/The_Endearing_Colette.htm)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Open-source VPN server and firewall](https://www.firezone.dev/)
-* [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google has banned the training of deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)
 * [2022-05-28, 04:52:35](https://news.ycombinator.com/item?id=31537702) - [What Was the Wiretap?](https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/)
 * [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Code quality only matters in context (2019)](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
 * [2022-05-27, 16:50:12](https://news.ycombinator.com/item?id=31531767) - [Show HN: Quickly find sensitive files in your GitHub repo](https://about.sourcegraph.com/blog/no-more-secrets)
@@ -30,6 +29,7 @@
 * [2022-05-26, 11:41:47](https://news.ycombinator.com/item?id=31517142) - [Tangle-free magnetic USB cables are here](https://www.theverge.com/23138894/usb-cable-tangle-free-magnetic-self-winding)
 * [2022-05-26, 07:44:45](https://news.ycombinator.com/item?id=31515765) - [SplinterDB: High performance embedded key-value store](https://github.com/vmware/splinterdb)
 * [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How do video games stay in sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
+* [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-Powered Color Mechanical Television](https://spectrum.ieee.org/mechanical-tv)
 
 ## [Archives](archives/index.md)
 

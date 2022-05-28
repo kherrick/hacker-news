@@ -10,6 +10,7 @@
 * [2022-05-25, 23:19:20](https://news.ycombinator.com/item?id=31512144) - [Why is Tiny Dancer such a great song? [video]](https://www.youtube.com/watch?v=dijrGXvSS-g)
 * [2022-05-25, 23:16:42](https://news.ycombinator.com/item?id=31512113) - [What is end-to-end encryption and how does it work?](https://proton.me/blog/what-is-end-to-end-encryption)
 * [2022-05-25, 23:15:07](https://news.ycombinator.com/item?id=31512100) - [Long Covid and Mitochondrial Dysregulation](https://www.zrtlab.com/blog/archive/long-covid-and-mitochondrial-dysregulation/)
+* [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-Powered Color Mechanical Television](https://spectrum.ieee.org/mechanical-tv)
 * [2022-05-25, 23:01:13](https://news.ycombinator.com/item?id=31511956) - [Simple And Terrible Machines](https://noncombatant.org/2022/05/22/simple-terrible-machines/)
 * [2022-05-25, 22:58:51](https://news.ycombinator.com/item?id=31511928) - [Image editors often get color wrong](https://papaya.io/blog/perceptual-blending)
 * [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
