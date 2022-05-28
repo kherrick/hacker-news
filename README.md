@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 04:15:53](https://news.ycombinator.com/item?id=31537567) - [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
+* [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What a Recession Would Mean for Developers](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
 * [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
@@ -24,8 +26,6 @@
 * [2022-05-27, 17:00:07](https://news.ycombinator.com/item?id=31531910) - [Ribbon (YC S17) is hiring data engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
 * [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [2022-05-27, 15:25:22](https://news.ycombinator.com/item?id=31530690) - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
-* [2022-05-27, 14:12:49](https://news.ycombinator.com/item?id=31529863) - [The math behind mind-reading tricks](https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/)
-* [2022-05-27, 06:08:24](https://news.ycombinator.com/item?id=31526493) - [Why, oh why was this added?](https://zigamiklic.com/why-oh-why/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
 * [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-25, 23:19:20](https://news.ycombinator.com/item?id=31512144) - [Why is Tiny Dancer such a great song? [video]](https://www.youtube.com/watch?v=dijrGXvSS-g)
