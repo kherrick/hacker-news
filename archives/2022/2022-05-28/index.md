@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 18:27:47](https://news.ycombinator.com/item?id=31542547) - [Uber and Lyft Are Out of Ideas, Jacking Up Prices in Desperation for Profit](https://www.vice.com/en/article/m7vmpb/uber-and-lyft-are-out-of-ideas-jacking-up-prices-in-desperation-for-profit)
 * [2022-05-28, 17:44:28](https://news.ycombinator.com/item?id=31542234) - [GitHub Star History Graph](https://star-history.com)
 * [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
+* [2022-05-28, 16:58:34](https://news.ycombinator.com/item?id=31541858) - [Ampere Announces 5nm Arm Server CPU AmpereOne](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)
 * [2022-05-28, 16:45:11](https://news.ycombinator.com/item?id=31541747) - [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
 * [2022-05-28, 16:15:07](https://news.ycombinator.com/item?id=31541477) - [Translating math into code with examples in Java, Racket, Haskell, Python (2011)](https://matt.might.net/articles/discrete-math-and-code/)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
