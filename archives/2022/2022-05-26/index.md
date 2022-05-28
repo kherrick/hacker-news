@@ -77,6 +77,7 @@
 * [2022-05-26, 06:16:01](https://news.ycombinator.com/item?id=31515253) - [NSFW: DeepNude v2](https://app.deepnude.cc/upload)
 * [2022-05-26, 05:50:13](https://news.ycombinator.com/item?id=31515085) - [Holbert: An Interactive Theorem Prover](https://github.com/liamoc/holbert)
 * [2022-05-26, 05:11:38](https://news.ycombinator.com/item?id=31514856) - [Data ordering attacks on deep neural networks](https://www.lightbluetouchpaper.org/2021/04/23/data-ordering-attacks/)
+* [2022-05-26, 05:06:06](https://news.ycombinator.com/item?id=31514822) - [Notes on Concurrency Bugs](https://danluu.com/concurrency-bugs/)
 * [2022-05-26, 04:59:31](https://news.ycombinator.com/item?id=31514774) - [Open call – your field recordings of obsolete sounds wanted](https://citiesandmemory.com/2022/05/open-call-your-field-recordings-of-obsolete-sounds-wanted/)
 * [2022-05-26, 04:36:58](https://news.ycombinator.com/item?id=31514621) - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [2022-05-26, 04:28:58](https://news.ycombinator.com/item?id=31514559) - [Bernstein vs. the U.S. Department of State](https://www.britannica.com/event/Bernstein-vs-the-US-Department-of-State)
