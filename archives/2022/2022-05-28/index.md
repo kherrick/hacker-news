@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 07:01:11](https://news.ycombinator.com/item?id=31538213) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2022-05-28, 05:37:52](https://news.ycombinator.com/item?id=31537883) - [Compute Express Link Overview](https://bwidawsk.net/blog/2022/6/compute-express-link-intro/)
 * [2022-05-28, 04:15:53](https://news.ycombinator.com/item?id=31537567) - [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 07:01:11](https://news.ycombinator.com/item?id=31538213) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2022-05-28, 05:37:52](https://news.ycombinator.com/item?id=31537883) - [Compute Express Link Overview](https://bwidawsk.net/blog/2022/6/compute-express-link-intro/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What would a recession mean for developers?](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
@@ -15,9 +17,7 @@
 * [2022-05-27, 21:30:06](https://news.ycombinator.com/item?id=31535158) - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
 * [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.chat leverages the Matrix protocol for interoperable communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
-* [2022-05-27, 21:10:08](https://news.ycombinator.com/item?id=31534936) - [GitTorrent: A Decentralized GitHub (2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [2022-05-27, 20:11:22](https://news.ycombinator.com/item?id=31534316) - [Snort – Network Intrusion Detection and Prevention System](https://www.snort.org/)
-* [2022-05-27, 18:38:48](https://news.ycombinator.com/item?id=31533180) - [Codeball – AI-powered code review](https://codeball.ai/)
 * [2022-05-27, 18:35:18](https://news.ycombinator.com/item?id=31533125) - [How to read mathematics (2015)](https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 * [2022-05-27, 18:16:37](https://news.ycombinator.com/item?id=31532878) - [High performance individuals and teams (2020)](https://pablasso.com/high-performance-individuals-and-teams/)
 * [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [RED is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
