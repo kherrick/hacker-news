@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-28, 21:17:50](https://news.ycombinator.com/item?id=31543953) - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
+* [2022-05-28, 20:36:25](https://news.ycombinator.com/item?id=31543579) - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
 * [2022-05-28, 19:18:27](https://news.ycombinator.com/item?id=31542915) - [A society without a counterculture?](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
 * [2022-05-28, 18:49:22](https://news.ycombinator.com/item?id=31542692) - [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
@@ -27,7 +28,6 @@
 * [2022-05-27, 07:08:34](https://news.ycombinator.com/item?id=31526825) - [Multiplicity Choices Are Hard to Model and Change](https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html)
 * [2022-05-26, 11:55:47](https://news.ycombinator.com/item?id=31517231) - [Linux kernel RNG enhancements for 5.19](https://twitter.com/EdgeSecurity/status/1528494394604761094)
 * [2022-05-26, 07:44:45](https://news.ycombinator.com/item?id=31515765) - [SplinterDB: High performance embedded key-value store](https://github.com/vmware/splinterdb)
-* [2022-05-26, 05:06:06](https://news.ycombinator.com/item?id=31514822) - [Notes on Concurrency Bugs (2016)](https://danluu.com/concurrency-bugs/)
 * [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How do video games stay in sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 * [2022-05-25, 20:48:27](https://news.ycombinator.com/item?id=31510341) - [Mathpix: Convert Images and PDFs to LaTeX](https://mathpix.com/)
 

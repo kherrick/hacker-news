@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
 * [2022-05-28, 21:17:50](https://news.ycombinator.com/item?id=31543953) - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
+* [2022-05-28, 20:36:25](https://news.ycombinator.com/item?id=31543579) - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 * [2022-05-28, 20:03:26](https://news.ycombinator.com/item?id=31543292) - [A belief in meritocracy is not only false: it’s bad for you (2020)](https://press.princeton.edu/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you)
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
 * [2022-05-28, 19:18:27](https://news.ycombinator.com/item?id=31542915) - [14 Warning Signs That You Are Living in a Society Without a Counterculture](https://tedgioia.substack.com/p/14-warning-signs-that-you-are-living)
