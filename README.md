@@ -23,7 +23,7 @@
 * [2022-05-28, 08:00:12](https://news.ycombinator.com/item?id=31538482) - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
 * [2022-05-28, 07:58:59](https://news.ycombinator.com/item?id=31538475) - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 * [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Why I Write Dirty Code: Code Quality in Context](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
-* [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
+* [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 07:44:45](https://news.ycombinator.com/item?id=31515765) - [High Performance Embedded Key-Value Store](https://github.com/vmware/splinterdb)
