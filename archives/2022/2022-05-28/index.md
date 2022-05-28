@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:23:08](https://news.ycombinator.com/item?id=31539767) - [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
-* [2022-05-28, 12:23:08](https://news.ycombinator.com/item?id=31539767) - [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
@@ -23,13 +23,13 @@
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-27, 07:21:56](https://news.ycombinator.com/item?id=31526908) - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
-* [2022-05-26, 16:16:43](https://news.ycombinator.com/item?id=31520175) - [Musical String Winder (2021)](https://www.pjrc.com/musical-string-winder/)
 * [2022-05-26, 15:13:31](https://news.ycombinator.com/item?id=31519334) - [Naturalprover: Grounded Mathematical Proof Generation with Language Models](https://arxiv.org/abs/2205.12910)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 09:33:03](https://news.ycombinator.com/item?id=31516365) - [Musikcube, a cross-platform, terminal-based library, player and server](https://github.com/clangen/musikcube)
 * [2022-05-25, 23:33:00](https://news.ycombinator.com/item?id=31512257) - [How Do Video Games Stay in Sync?](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 * [2022-05-25, 22:50:49](https://news.ycombinator.com/item?id=31511853) - [Clement Lefebvre: The Man Behind Linux Mint (2013)](http://staging.computerworld.in/interview/clement-lefebvre-man-behind-linux-mint)
 * [2022-05-25, 21:45:10](https://news.ycombinator.com/item?id=31511014) - [Nvidia adds liquid-cooled GPUs](https://blogs.nvidia.com/blog/2022/05/23/liquid-cooled-gpus-computex/)
+* [2022-05-25, 14:03:03](https://news.ycombinator.com/item?id=31504652) - [Rhapsody Rabbit and Cat Concerto – Side by Side](https://www.youtube.com/watch?v=DARLjh197qQ)
 
 ## [Archives](archives/index.md)
 
