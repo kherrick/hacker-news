@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
 * [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
+* [2022-05-28, 16:45:11](https://news.ycombinator.com/item?id=31541747) - [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
 * [2022-05-28, 16:15:07](https://news.ycombinator.com/item?id=31541477) - [Translating math into code with examples in Java, Racket, Haskell, Python (2011)](https://matt.might.net/articles/discrete-math-and-code/)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 * [2022-05-28, 15:56:52](https://news.ycombinator.com/item?id=31541320) - [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
