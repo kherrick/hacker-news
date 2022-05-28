@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-05-28, 09:06:09",
-      "https://news.ycombinator.com/item?id=31538800"
-    ],
-    [
-      "A declarative desktop UI framework for Rust built on GTK and GTK-rs",
-      "https://github.com/bodil/vgtk"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 08:21:34",
       "https://news.ycombinator.com/item?id=31538595"
     ],
@@ -237,6 +227,16 @@
     [
       "Code quality only matters in context (2019)",
       "https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 16:50:12",
+      "https://news.ycombinator.com/item?id=31531767"
+    ],
+    [
+      "Show HN: Quickly find sensitive files in your GitHub repo",
+      "https://about.sourcegraph.com/blog/no-more-secrets"
     ]
   ],
   [
