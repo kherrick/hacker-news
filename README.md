@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
 * [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
 * [2022-05-28, 12:32:50](https://news.ycombinator.com/item?id=31539822) - [OpenBSD 7.1](https://www.openbsd.org/71.html)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
@@ -18,8 +19,7 @@
 * [2022-05-27, 23:45:40](https://news.ycombinator.com/item?id=31536217) - [Show HN: Self-Hosted Maps Stack](https://maps.ellenhp.me/)
 * [2022-05-27, 23:23:44](https://news.ycombinator.com/item?id=31536069) - [Lost “canceled” Squaresoft game 3156 Coro Coro located and preserved](https://www.gamingalexandria.com/wp/2022/05/lost-canceled-squaresoft-game-3156-coro-coro-located-and-preserved/)
 * [2022-05-27, 23:20:57](https://news.ycombinator.com/item?id=31536048) - [Dark Moon: The Inevitable Collapse of Luna](https://www.swanbitcoin.com/dark-moon-the-inevitable-collapse-of-luna/)
-* [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.chat leverages the Matrix protocol for interoperable communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
-* [2022-05-27, 17:29:37](https://news.ycombinator.com/item?id=31532285) - [RED is suing Nikon for infringing on its video compression patents](https://nikonrumors.com/2022/05/26/red-is-suing-nikon-for-infringing-on-its-video-compression-patents.aspx/)
+* [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-27, 07:21:56](https://news.ycombinator.com/item?id=31526908) - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/)
 * [2022-05-27, 05:05:54](https://news.ycombinator.com/item?id=31526172) - [The story behind Beethoven's “Ode to Joy”](https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/)
