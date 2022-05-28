@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-05-28, 14:00:11",
+      "https://news.ycombinator.com/item?id=31540389"
+    ],
+    [
+      "Lost at sea? This desalination unit fits in a suitcase",
+      "https://thenewdaily.com.au/life/tech/2022/05/27/desalination-unit-in-a-suitcase/"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 13:49:32",
       "https://news.ycombinator.com/item?id=31540307"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-05-26, 15:13:31",
-      "https://news.ycombinator.com/item?id=31519334"
-    ],
-    [
-      "Naturalprover: Grounded Mathematical Proof Generation with Language Models",
-      "https://arxiv.org/abs/2205.12910"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 10:14:00",
       "https://news.ycombinator.com/item?id=31516587"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31514822"
     ],
     [
-      "Notes on Concurrency Bugs",
+      "Notes on Concurrency Bugs (2016)",
       "https://danluu.com/concurrency-bugs/"
     ]
   ],
