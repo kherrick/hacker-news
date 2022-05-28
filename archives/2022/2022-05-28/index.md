@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
+* [2022-05-28, 17:44:28](https://news.ycombinator.com/item?id=31542234) - [GitHub Star History Graph](https://star-history.com)
 * [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
 * [2022-05-28, 16:45:11](https://news.ycombinator.com/item?id=31541747) - [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
 * [2022-05-28, 16:15:07](https://news.ycombinator.com/item?id=31541477) - [Translating math into code with examples in Java, Racket, Haskell, Python (2011)](https://matt.might.net/articles/discrete-math-and-code/)
@@ -12,6 +13,7 @@
 * [2022-05-28, 15:31:12](https://news.ycombinator.com/item?id=31541070) - [Are all popular APIs moving to Cursor based pagination?](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
 * [2022-05-28, 15:10:32](https://news.ycombinator.com/item?id=31540909) - [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
 * [2022-05-28, 15:00:25](https://news.ycombinator.com/item?id=31540846) - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
+* [2022-05-28, 14:30:53](https://news.ycombinator.com/item?id=31540616) - [Show HN: Memlink, a self-contained web page in a link](https://meml.ink/MTsxfGZpZzpNZW1MaW5rOzU7MjtjfGgyOkluLW1lbW9yeSBtaWNybyB3ZWIgcGFnZXM7NTszO2N8cDpNZW1MaW5rcyBhcmUgc2VsZi1jb250YWluZWQsIG1pY3JvIHdlYnNpdGVzIHRoYXQgYXJlIGZ1bGx5IGdlbmVyYXRlZCBhdCB0aGUgZWRnZS58cDpVc2UgYSBNZW1MaW5rIHRvIGVhc2lseSBzaGFyZSBsaXN0cyBvZiBsaW5rcywgY29udGFjdCBkZXRhaWxzLCBwcm9qZWN0IG92ZXJ2aWV3cywgYW5kIHNvIG11Y2ggbW9yZS58aDM6VGhlIGxpbmsgaXMgdGhlIHdlYiBwYWdlLjsxOzN8cDpNZW1saW5rIHBhZ2VzIGFyZSBjb21wb3NlZCBvZiBibG9ja3MgdGhhdCBjYW4gYmUgYWRkZWQsIHJlbW92ZWQsIGFuZCByZWFycmFuZ2VkIHRvIG1ha2UgdW5pcXVlIGFuZCBjcmVhdGl2ZSBjb250ZW50LnxwOkNyZWF0ZSB5b3VyIG93biBNZW1saW5rIG5vdyBieSBjbGlja2luZyBFZGl0IHRoaXMgcGFnZSBiZWxvdy4g)
 * [2022-05-28, 14:23:10](https://news.ycombinator.com/item?id=31540550) - [Exposure of fake Chinese tube amplifier](https://www.stereonet.com/forums/topic/246417-exposure-of-fake-chinese-tube-amplifier-nobsound-ms-10d-mkii/)
 * [2022-05-28, 14:22:05](https://news.ycombinator.com/item?id=31540540) - [New discovery about distant galaxies: Stars are heavier than we thought](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/)
 * [2022-05-28, 14:19:16](https://news.ycombinator.com/item?id=31540521) - [FoundationDB Time Series Layer: Millions of writes/s in 2k lines of Go](https://github.com/richardartoul/tsdb-layer)
