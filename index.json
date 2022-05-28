@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-28, 03:20:30",
+      "https://news.ycombinator.com/item?id=31537319"
+    ],
+    [
+      "Terraform should have remained stateless",
+      "https://www.bejarano.io/terraform-stateless/"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 01:37:10",
       "https://news.ycombinator.com/item?id=31536827"
     ],
@@ -16,7 +26,7 @@
     ],
     [
       "Marginalia Goes Open Source",
-      "https://git.marginalia.nu/marginalia/marginalia.nu"
+      "https://memex.marginalia.nu/log/58-marginalia-open-source.gmi"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-05-27, 14:11:44",
-      "https://news.ycombinator.com/item?id=31529853"
-    ],
-    [
-      "Blender shader-based halftone CMYK offset printing emulation process",
-      "https://mrmotarius.itch.io/mrmo-halftone"
-    ]
-  ],
-  [
-    [
       "2022-05-27, 06:08:24",
       "https://news.ycombinator.com/item?id=31526493"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-05-26, 04:36:58",
+      "https://news.ycombinator.com/item?id=31514621"
+    ],
+    [
+      "The Open Source Software Security Mobilization Plan",
+      "https://openssf.org/oss-security-mobilization-plan/"
+    ]
+  ],
+  [
+    [
       "2022-05-25, 23:19:20",
       "https://news.ycombinator.com/item?id=31512144"
     ],
     [
       "Why is Tiny Dancer such a great song? [video]",
       "https://www.youtube.com/watch?v=dijrGXvSS-g"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 22:12:58",
-      "https://news.ycombinator.com/item?id=31511361"
-    ],
-    [
-      "A brief rant on the future of interaction design (2011)",
-      "http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/"
     ]
   ],
   [
