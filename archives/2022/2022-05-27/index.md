@@ -57,6 +57,7 @@
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the Logic of Great Typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-27, 12:05:55](https://news.ycombinator.com/item?id=31528557) - [Joseph Stiglitz: 'We should shut down the cryptocurrencies'](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+* [2022-05-27, 10:54:54](https://news.ycombinator.com/item?id=31528088) - [Modern sports through the lens of René Girard](https://xandfootball.substack.com/p/modern-football-through-the-lens)
 * [2022-05-27, 10:41:10](https://news.ycombinator.com/item?id=31527997) - [What Trait Affects Income the Most?](https://economicsfromthetopdown.com/2020/06/02/what-trait-affects-income-the-most/)
 * [2022-05-27, 09:58:21](https://news.ycombinator.com/item?id=31527767) - [Why the government took home prices out of its main inflation index](https://fullstackeconomics.com/why-the-government-took-home-prices-out-of-the-consumer-price-index/)
 * [2022-05-27, 09:31:03](https://news.ycombinator.com/item?id=31527621) - [Microsoft Windows operating system talks to 291 hosts and 2,764 IPs](https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/)
