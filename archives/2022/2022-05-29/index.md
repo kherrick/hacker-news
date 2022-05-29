@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 14:15:32](https://news.ycombinator.com/item?id=31549303) - [Is there any Linux distro dedicated to music performance around?](https://news.ycombinator.com/item?id=31549303)
 * [2022-05-29, 14:02:24](https://news.ycombinator.com/item?id=31549199) - [Apple’s Hidden Flight Tracker App](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
 * [2022-05-29, 13:36:31](https://news.ycombinator.com/item?id=31549032) - [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)

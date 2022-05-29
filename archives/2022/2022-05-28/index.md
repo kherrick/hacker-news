@@ -67,6 +67,7 @@
 * [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google Has Banned the Training of Deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)
 * [2022-05-28, 08:00:12](https://news.ycombinator.com/item?id=31538482) - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)
 * [2022-05-28, 07:58:59](https://news.ycombinator.com/item?id=31538475) - [Building the most inaccessible site with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
+* [2022-05-28, 07:40:25](https://news.ycombinator.com/item?id=31538380) - [The Complexity Trap](https://consciousnessofsheep.co.uk/2022/05/27/the-complexity-trap/)
 * [2022-05-28, 07:01:11](https://news.ycombinator.com/item?id=31538213) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-05-28, 06:45:17](https://news.ycombinator.com/item?id=31538139) - [When I saw the Tesla CEO for who he is](https://slate.com/technology/2022/05/elon-musk-tesla-twitter-fables.html)
 * [2022-05-28, 06:41:13](https://news.ycombinator.com/item?id=31538123) - [Ariel Ekblaw on building beautiful architecture in space](https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511)
