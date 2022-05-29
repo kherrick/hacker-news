@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
 * [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 * [2022-05-29, 11:42:34](https://news.ycombinator.com/item?id=31548338) - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
 * [2022-05-29, 11:33:26](https://news.ycombinator.com/item?id=31548281) - [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security)
