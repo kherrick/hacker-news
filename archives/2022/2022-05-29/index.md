@@ -6,6 +6,7 @@
 
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the Power of Symmetry](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 * [2022-05-29, 19:31:59](https://news.ycombinator.com/item?id=31552100) - [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
+* [2022-05-29, 19:08:31](https://news.ycombinator.com/item?id=31551887) - [Show HN: Spanish Basic](https://www.vainilla.app/)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
 * [2022-05-29, 19:04:25](https://news.ycombinator.com/item?id=31551846) - [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
 * [2022-05-29, 18:42:07](https://news.ycombinator.com/item?id=31551627) - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
