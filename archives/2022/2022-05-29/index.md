@@ -11,6 +11,7 @@
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
 * [2022-05-29, 15:17:59](https://news.ycombinator.com/item?id=31549791) - [Workers quitting over return-to-office policies](https://www.bbc.com/worklife/article/20220523-the-workers-quitting-over-return-to-office-policies)
 * [2022-05-29, 14:57:50](https://news.ycombinator.com/item?id=31549631) - [Pixar's notes on Rigid Body Simulation (2001) [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
+* [2022-05-29, 14:24:35](https://news.ycombinator.com/item?id=31549368) - [TinyPilot: Build a KVM over IP for Under $100](https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100)
 * [2022-05-29, 14:15:32](https://news.ycombinator.com/item?id=31549303) - [Is there any Linux distro dedicated to music performance around?](https://news.ycombinator.com/item?id=31549303)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting Up a Pi Hole Made My Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 14:08:18](https://news.ycombinator.com/item?id=31549237) - [Big Tech loves talking up privacy – while trying to kill privacy legislation](https://www.theregister.com/2022/05/27/big_tech_privacy/)
