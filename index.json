@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-29, 01:29:31",
+      "https://news.ycombinator.com/item?id=31545399"
+    ],
+    [
+      "Understanding Bloom Filters by building one",
+      "https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/"
+    ]
+  ],
+  [
+    [
       "2022-05-29, 01:16:54",
       "https://news.ycombinator.com/item?id=31545324"
     ],
     [
-      "The Reason You See Earthworms After Rain",
+      "Earthworms after rain (2019)",
       "https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/"
     ]
   ],
@@ -15,18 +25,18 @@
       "https://news.ycombinator.com/item?id=31545168"
     ],
     [
-      "Debugging a Mysterious Python Crash",
+      "Debugging a mysterious Python crash",
       "https://blog.dend.ro/a-mysterous-python-crash/"
     ]
   ],
   [
     [
-      "2022-05-29, 00:08:14",
-      "https://news.ycombinator.com/item?id=31544997"
+      "2022-05-29, 00:42:28",
+      "https://news.ycombinator.com/item?id=31545142"
     ],
     [
-      "In Defense of Coding Interviews",
-      "https://biggestfish.substack.com/p/in-defense-of-coding-interviews"
+      "I'm retiring from the engineering profession",
+      "https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31544816"
     ],
     [
-      "Building a Threat Intelligence Feed Using the Twitter API and a Bit of Code",
+      "Building a threat intelligence feed using the Twitter API and a bit of code",
       "https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31544634"
     ],
     [
-      "My Students Cheated... a Lot",
+      "My students cheated a lot",
       "https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2022-05-28, 17:59:13",
-      "https://news.ycombinator.com/item?id=31542354"
-    ],
-    [
-      "Anytype: A local, privacy-first Notion alternative",
-      "https://anytype.io/"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 17:44:28",
       "https://news.ycombinator.com/item?id=31542234"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31541858"
     ],
     [
-      "Ampere Announces 5nm Arm Server CPU AmpereOne",
+      "Ampere Announces 5nm Arm Server CPU",
       "https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/"
     ]
   ],
@@ -167,6 +167,16 @@
     [
       "Paginating Requests in APIs (2020)",
       "https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 15:10:32",
+      "https://news.ycombinator.com/item?id=31540909"
+    ],
+    [
+      "What I wish I knew about onboarding",
+      "https://eugeneyan.com/writing/onboarding/"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2022-05-28, 11:15:11",
-      "https://news.ycombinator.com/item?id=31539386"
+      "2022-05-28, 09:55:24",
+      "https://news.ycombinator.com/item?id=31539017"
     ],
     [
-      "FireZone – Open-source VPN server and firewall",
-      "https://www.firezone.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 08:41:20",
-      "https://news.ycombinator.com/item?id=31538686"
-    ],
-    [
-      "Ciaramella DSP Web Playground",
-      "https://ciaramella.dev/"
+      "The Weight I Carry (2019)",
+      "https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-05-27, 16:50:12",
-      "https://news.ycombinator.com/item?id=31531767"
+      "2022-05-27, 07:08:34",
+      "https://news.ycombinator.com/item?id=31526825"
     ],
     [
-      "Show HN: Quickly find sensitive files in your GitHub repo",
-      "https://about.sourcegraph.com/blog/no-more-secrets"
+      "Multiplicity Choices Are Hard to Model and Change",
+      "https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31511958"
     ],
     [
-      "Print an Arduino-Powered Color Mechanical Television",
+      "Print an Arduino-powered color mechanical television",
       "https://spectrum.ieee.org/mechanical-tv"
     ]
   ]
