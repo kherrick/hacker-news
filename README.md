@@ -2,6 +2,7 @@
 
 * [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its Online Safety Bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas Ferried an Engine on the Wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
+* [2022-05-29, 05:15:07](https://news.ycombinator.com/item?id=31546604) - [The use of `class` for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 * [2022-05-29, 04:26:19](https://news.ycombinator.com/item?id=31546380) - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * [2022-05-29, 04:18:15](https://news.ycombinator.com/item?id=31546334) - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 * [2022-05-29, 01:29:31](https://news.ycombinator.com/item?id=31545399) - [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
@@ -22,7 +23,6 @@
 * [2022-05-28, 12:52:40](https://news.ycombinator.com/item?id=31539944) - [The Gilded Age of (Unpaid) Internet Writing](https://longreads.com/2018/10/02/webzines-90s-online-media/)
 * [2022-05-28, 09:55:24](https://news.ycombinator.com/item?id=31539017) - [The Weight I Carry (2019)](https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
-* [2022-05-28, 08:41:20](https://news.ycombinator.com/item?id=31538686) - [Ciaramella DSP web playground](https://ciaramella.dev/)
 * [2022-05-28, 04:52:35](https://news.ycombinator.com/item?id=31537702) - [What Was the Wiretap?](https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/)
 * [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Code quality only matters in context (2019)](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
 * [2022-05-27, 04:26:34](https://news.ycombinator.com/item?id=31526001) - [Making pip installs a little less slow](https://pythonspeed.com/articles/faster-pip-installs/)
