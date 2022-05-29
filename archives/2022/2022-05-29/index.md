@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 22:53:02](https://news.ycombinator.com/item?id=31553682) - [DNA Testing for Embryos Promises to Predict Genetic Diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)
+* [2022-05-29, 22:50:47](https://news.ycombinator.com/item?id=31553665) - [Chesterton's Fence](https://en.wiktionary.org/wiki/Chesterton%27s_fence)
+* [2022-05-29, 22:24:13](https://news.ycombinator.com/item?id=31553474) - [Who Owns 4chan?](https://www.wired.com/story/who-owns-4chan/)
+* [2022-05-29, 22:15:23](https://news.ycombinator.com/item?id=31553409) - [Hottest May in History for Texas](https://cbsaustin.com/weather/weather-blog/our-hottest-may-in-history-gets-much-worse-next-week)
 * [2022-05-29, 22:08:22](https://news.ycombinator.com/item?id=31553356) - [The Sit-Up used to dominate American fitness practice. Now it’s all but over](https://www.theatlantic.com/health/archive/2022/05/sit-ups-crunches-lower-back-pain/639437/)
+* [2022-05-29, 21:49:07](https://news.ycombinator.com/item?id=31553220) - [The Rise and Fall of Wall Street’s Most Controversial Investor](https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html)
 * [2022-05-29, 21:36:19](https://news.ycombinator.com/item?id=31553109) - [Sequoia Capital has published a 52 slide presentation about the downturn [pdf]](https://s3.documentcloud.org/documents/22036831/adaptingtoenduremay2022.pdf)
 * [2022-05-29, 21:03:26](https://news.ycombinator.com/item?id=31552853) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2022-05-29, 20:15:16](https://news.ycombinator.com/item?id=31552476) - [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
