@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
 * [2022-05-29, 09:52:10](https://news.ycombinator.com/item?id=31547879) - [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
+* [2022-05-29, 09:51:06](https://news.ycombinator.com/item?id=31547876) - [In Poland, there is a LARP group that roleplays as contemporary Americans](https://twitter.com/PenBercifield/status/1530466376204398592)
 * [2022-05-29, 09:47:47](https://news.ycombinator.com/item?id=31547860) - [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
 * [2022-05-29, 09:39:21](https://news.ycombinator.com/item?id=31547810) - [Charles Babbage’s Difference Engine Turns 200](https://spectrum.ieee.org/charles-babbage-difference-engine)
 * [2022-05-29, 09:28:20](https://news.ycombinator.com/item?id=31547765) - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)

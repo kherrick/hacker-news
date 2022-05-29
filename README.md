@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-29, 09:52:10](https://news.ycombinator.com/item?id=31547879) - [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
+* [2022-05-29, 09:51:06](https://news.ycombinator.com/item?id=31547876) - [In Poland, there is a LARP group that roleplays as contemporary Americans](https://twitter.com/PenBercifield/status/1530466376204398592)
 * [2022-05-29, 09:47:47](https://news.ycombinator.com/item?id=31547860) - [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
 * [2022-05-29, 09:39:21](https://news.ycombinator.com/item?id=31547810) - [Charles Babbage’s Difference Engine Turns 200](https://spectrum.ieee.org/charles-babbage-difference-engine)
 * [2022-05-29, 09:28:20](https://news.ycombinator.com/item?id=31547765) - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
@@ -18,7 +19,6 @@
 * [2022-05-28, 23:04:44](https://news.ycombinator.com/item?id=31544634) - [My students cheated... a lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 * [2022-05-28, 22:19:56](https://news.ycombinator.com/item?id=31544372) - [Chaos: The real problem with quantum mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 21:17:50](https://news.ycombinator.com/item?id=31543953) - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
-* [2022-05-28, 20:36:25](https://news.ycombinator.com/item?id=31543579) - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
 * [2022-05-28, 18:20:38](https://news.ycombinator.com/item?id=31542502) - [Once in a Lifetime](https://www.ethanhein.com/wp/2022/once-in-a-lifetime/)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
