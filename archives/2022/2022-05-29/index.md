@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the Power of Symmetry](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
+* [2022-05-29, 19:31:59](https://news.ycombinator.com/item?id=31552100) - [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
 * [2022-05-29, 19:04:25](https://news.ycombinator.com/item?id=31551846) - [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
 * [2022-05-29, 18:42:07](https://news.ycombinator.com/item?id=31551627) - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
+* [2022-05-29, 18:35:09](https://news.ycombinator.com/item?id=31551561) - [A Letter to D1sc0rd for Not Supporting the Linux Desktop](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
 * [2022-05-29, 18:32:57](https://news.ycombinator.com/item?id=31551544) - [AKAI MPC 3000: The Best Drum Machine of All Time](https://audiojive.com/akai-mpc-3000/)
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 18:01:07](https://news.ycombinator.com/item?id=31551221) - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html)
