@@ -69,6 +69,7 @@
 * [2022-05-27, 08:14:45](https://news.ycombinator.com/item?id=31527215) - [AWS SNS vs. SQS – Main Differences](https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences)
 * [2022-05-27, 07:37:52](https://news.ycombinator.com/item?id=31527008) - [GitHub Is Down Again](https://www.githubstatus.com/incidents/zhtplv7zd052)
 * [2022-05-27, 07:21:56](https://news.ycombinator.com/item?id=31526908) - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/)
+* [2022-05-27, 07:16:30](https://news.ycombinator.com/item?id=31526871) - [Print an Arduino-Powered Color Mechanical Television](https://spectrum.ieee.org/mechanical-tv)
 * [2022-05-27, 07:15:18](https://news.ycombinator.com/item?id=31526862) - [Microsoft to Reportedly Recognize Raven Software’s Union After Aquisition](https://game-news24.com/2022/05/26/microsoft-to-reportedly-recognize-raven-software-s-union-after-acquisition/)
 * [2022-05-27, 07:08:34](https://news.ycombinator.com/item?id=31526825) - [Multiplicity Choices Are Hard to Model and Change](https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html)
 * [2022-05-27, 06:43:01](https://news.ycombinator.com/item?id=31526684) - [Tetra – Full stack reactive component framework for Django using Alpine.js](https://www.tetraframework.com)
