@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-29, 09:47:47",
+      "https://news.ycombinator.com/item?id=31547860"
+    ],
+    [
+      "Hackable GUI SQL-manager written in SQL itself",
+      "https://news.ycombinator.com/item?id=31547860"
+    ]
+  ],
+  [
+    [
       "2022-05-29, 09:28:20",
       "https://news.ycombinator.com/item?id=31547765"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-05-28, 21:18:24",
-      "https://news.ycombinator.com/item?id=31543957"
-    ],
-    [
-      "Using a Windows Mobile 2003 PDA (HP iPAQ h4350) in 2022, including WhatsApp",
-      "https://raymii.org/s/blog/Using_a_Windows_Mobile_2003_PDA_hp_ipaq_in_2022_including_whatsapp.html"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 21:17:50",
       "https://news.ycombinator.com/item?id=31543953"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-05-28, 08:41:20",
-      "https://news.ycombinator.com/item?id=31538686"
+      "2022-05-28, 06:39:12",
+      "https://news.ycombinator.com/item?id=31538111"
     ],
     [
-      "Ciaramella DSP web playground",
-      "https://ciaramella.dev/"
+      "Metron C++ to Verilog Translator Tutorial",
+      "https://aappleby.github.io/Metron/tutorial/"
     ]
   ],
   [
