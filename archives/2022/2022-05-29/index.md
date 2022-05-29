@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
+* [2022-05-29, 11:42:34](https://news.ycombinator.com/item?id=31548338) - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
+* [2022-05-29, 11:33:26](https://news.ycombinator.com/item?id=31548281) - [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security)
+* [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic LCD Tiles for Settlers of Catan](https://coliniuliano.ca/projects/catan-tiles/)
+* [2022-05-29, 11:21:01](https://news.ycombinator.com/item?id=31548234) - [New Study Finds Significant Amount of HFO Degradation Product in Drinking Water](https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/)
+* [2022-05-29, 10:27:42](https://news.ycombinator.com/item?id=31548016) - [Show HN: WebRTC Nuts and Bolts, A holistic way of understanding how WebRTC runs](https://github.com/adalkiran/webrtc-nuts-and-bolts)
 * [2022-05-29, 09:52:10](https://news.ycombinator.com/item?id=31547879) - [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
 * [2022-05-29, 09:51:06](https://news.ycombinator.com/item?id=31547876) - [In Poland, there is a LARP group that roleplays as contemporary Americans](https://twitter.com/PenBercifield/status/1530466376204398592)
 * [2022-05-29, 09:47:47](https://news.ycombinator.com/item?id=31547860) - [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
