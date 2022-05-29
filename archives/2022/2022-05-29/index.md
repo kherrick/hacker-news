@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 22:08:22](https://news.ycombinator.com/item?id=31553356) - [The Sit-Up used to dominate American fitness practice. Now it’s all but over](https://www.theatlantic.com/health/archive/2022/05/sit-ups-crunches-lower-back-pain/639437/)
 * [2022-05-29, 21:03:26](https://news.ycombinator.com/item?id=31552853) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2022-05-29, 20:15:16](https://news.ycombinator.com/item?id=31552476) - [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the Power of Symmetry](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)

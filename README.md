@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 22:08:22](https://news.ycombinator.com/item?id=31553356) - [The Sit-Up used to dominate American fitness practice. Now it’s all but over](https://www.theatlantic.com/health/archive/2022/05/sit-ups-crunches-lower-back-pain/639437/)
 * [2022-05-29, 21:03:26](https://news.ycombinator.com/item?id=31552853) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2022-05-29, 20:15:16](https://news.ycombinator.com/item?id=31552476) - [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
@@ -15,7 +16,6 @@
 * [2022-05-29, 14:57:50](https://news.ycombinator.com/item?id=31549631) - [Pixar's notes on Rigid Body Simulation (2001) [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
 * [2022-05-29, 14:24:35](https://news.ycombinator.com/item?id=31549368) - [TinyPilot: Build a KVM over IP for Under $100](https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting up a Pi Hole made my home network faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
-* [2022-05-29, 14:08:18](https://news.ycombinator.com/item?id=31549237) - [Study claims Amazon, Apple, Google, Meta, Microsoft work to derail data rules](https://www.theregister.com/2022/05/27/big_tech_privacy/)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
 * [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building a Budget Homelab NAS Server](https://mtlynch.io/budget-nas/)
