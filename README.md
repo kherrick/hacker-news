@@ -1,16 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
+* [2022-05-29, 19:04:25](https://news.ycombinator.com/item?id=31551846) - [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
 * [2022-05-29, 18:42:07](https://news.ycombinator.com/item?id=31551627) - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
+* [2022-05-29, 18:01:07](https://news.ycombinator.com/item?id=31551221) - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 * [2022-05-29, 17:25:55](https://news.ycombinator.com/item?id=31550900) - [Make Your Own Chips for Free](https://efabless.com/open_shuttle_program)
-* [2022-05-29, 17:14:55](https://news.ycombinator.com/item?id=31550798) - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
 * [2022-05-29, 17:13:29](https://news.ycombinator.com/item?id=31550786) - [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
 * [2022-05-29, 16:56:13](https://news.ycombinator.com/item?id=31550617) - [Germany is offering a summer of cheap trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
 * [2022-05-29, 14:57:50](https://news.ycombinator.com/item?id=31549631) - [Pixar's notes on Rigid Body Simulation (2001) [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
 * [2022-05-29, 14:24:35](https://news.ycombinator.com/item?id=31549368) - [TinyPilot: Build a KVM over IP for Under $100](https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100)
-* [2022-05-29, 14:15:32](https://news.ycombinator.com/item?id=31549303) - [Ask HN: Is there any Linux distro dedicated to music performance?](https://news.ycombinator.com/item?id=31549303)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting Up a Pi Hole Made My Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 14:08:18](https://news.ycombinator.com/item?id=31549237) - [Study claims Amazon, Apple, Google, Meta, Microsoft work to derail data rules](https://www.theregister.com/2022/05/27/big_tech_privacy/)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
@@ -29,7 +30,6 @@
 * [2022-05-28, 08:42:16](https://news.ycombinator.com/item?id=31538693) - [The real story of Pinocchio](https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/)
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the logic of great typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-27, 10:54:54](https://news.ycombinator.com/item?id=31528088) - [Modern sports through the lens of René Girard](https://xandfootball.substack.com/p/modern-football-through-the-lens)
-* [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [Algorithms could increasingly influence human culture](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
 
 ## [Archives](archives/index.md)
 
