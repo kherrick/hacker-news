@@ -54,6 +54,7 @@
 * [2022-05-27, 13:28:54](https://news.ycombinator.com/item?id=31529383) - [In Obscurity](https://droctothorpe.github.io/posts/2022/05/in-obscurity/)
 * [2022-05-27, 12:55:03](https://news.ycombinator.com/item?id=31529034) - [Poll: Is Large-Scale Climate Geoengineering Inevitable?](https://news.ycombinator.com/item?id=31529034)
 * [2022-05-27, 12:49:02](https://news.ycombinator.com/item?id=31528960) - [Poll: How are you doing currently?](https://news.ycombinator.com/item?id=31528960)
+* [2022-05-27, 12:48:51](https://news.ycombinator.com/item?id=31528959) - [Local environment and population demographics influence bottlenose dolphin names](https://phys.org/news/2022-05-local-environment-population-demographics-genetics.html)
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the Logic of Great Typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-27, 12:05:55](https://news.ycombinator.com/item?id=31528557) - [Joseph Stiglitz: 'We should shut down the cryptocurrencies'](https://www.cnbc.com/2019/05/02/joseph-stiglitz-we-should-shutdown-the-cryptocurrencies.html)
 * [2022-05-27, 12:01:04](https://news.ycombinator.com/item?id=31528519) - [The Svix Webhook Service (YC W21) Is Hiring](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)

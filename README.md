@@ -3,6 +3,7 @@
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://threadreaderapp.com/thread/1493299809574342659)
 * [2022-05-29, 19:04:25](https://news.ycombinator.com/item?id=31551846) - [Tell HN: Microsoft locks migrated Minecraft accounts, requires phone to unlock](https://news.ycombinator.com/item?id=31551846)
 * [2022-05-29, 18:42:07](https://news.ycombinator.com/item?id=31551627) - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
+* [2022-05-29, 18:32:57](https://news.ycombinator.com/item?id=31551544) - [AKAI MPC 3000: The Best Drum Machine of All Time](https://audiojive.com/akai-mpc-3000/)
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 18:01:07](https://news.ycombinator.com/item?id=31551221) - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
@@ -23,13 +24,12 @@
 * [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic Catan LCD Tiles](https://coliniuliano.ca/projects/catan-tiles/)
 * [2022-05-29, 11:21:01](https://news.ycombinator.com/item?id=31548234) - [New study finds significant amount of HFO degradation product in drinking water](https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/)
 * [2022-05-29, 10:27:42](https://news.ycombinator.com/item?id=31548016) - [Show HN: WebRTC Nuts and Bolts, A holistic way of understanding how WebRTC runs](https://github.com/adalkiran/webrtc-nuts-and-bolts)
-* [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas ferried an engine on the wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 * [2022-05-29, 00:06:21](https://news.ycombinator.com/item?id=31544988) - [Arc Browser Company: Chrome and Safari face a new challenger](https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart)
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
 * [2022-05-28, 08:42:16](https://news.ycombinator.com/item?id=31538693) - [The real story of Pinocchio](https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/)
+* [2022-05-27, 12:48:51](https://news.ycombinator.com/item?id=31528959) - [Local environment and population demographics influence bottlenose dolphin names](https://phys.org/news/2022-05-local-environment-population-demographics-genetics.html)
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the logic of great typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-27, 10:54:54](https://news.ycombinator.com/item?id=31528088) - [Modern sports through the lens of René Girard](https://xandfootball.substack.com/p/modern-football-through-the-lens)
-* [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [Algorithms could increasingly influence human culture](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
 
 ## [Archives](archives/index.md)
 
