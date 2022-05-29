@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31545399"
     ],
     [
-      "Understanding Bloom Filters by building one",
+      "Understanding Bloom filters by building one",
       "https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/"
     ]
   ],
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-05-29, 00:08:14",
+      "https://news.ycombinator.com/item?id=31544997"
+    ],
+    [
+      "In defense of coding interviews",
+      "https://biggestfish.substack.com/p/in-defense-of-coding-interviews"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 23:33:46",
       "https://news.ycombinator.com/item?id=31544816"
     ],
@@ -55,8 +65,18 @@
       "https://news.ycombinator.com/item?id=31544634"
     ],
     [
-      "My students cheated a lot",
+      "My students cheated... a lot",
       "https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 22:19:56",
+      "https://news.ycombinator.com/item?id=31544372"
+    ],
+    [
+      "Chaos: The real problem with quantum mechanics",
+      "http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "System Font Stack",
       "https://systemfontstack.com"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 18:27:47",
-      "https://news.ycombinator.com/item?id=31542547"
-    ],
-    [
-      "Uber and Lyft’s new road: Fewer drivers, thrifty riders and jittery investors",
-      "https://www.wsj.com/articles/uber-and-lyfts-new-road-fewer-drivers-thrifty-riders-and-jittery-investors-11653651912?mod=hp_lead_pos6"
     ]
   ],
   [
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2022-05-28, 15:10:32",
-      "https://news.ycombinator.com/item?id=31540909"
-    ],
-    [
-      "What I wish I knew about onboarding",
-      "https://eugeneyan.com/writing/onboarding/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 15:00:25",
-      "https://news.ycombinator.com/item?id=31540846"
-    ],
-    [
-      "The quest for fusion energy",
-      "https://inference-review.com/article/the-quest-for-fusion-energy"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 14:30:53",
       "https://news.ycombinator.com/item?id=31540616"
     ],
@@ -231,6 +221,26 @@
   ],
   [
     [
+      "2022-05-28, 08:41:20",
+      "https://news.ycombinator.com/item?id=31538686"
+    ],
+    [
+      "Ciaramella DSP web playground",
+      "https://ciaramella.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 06:39:12",
+      "https://news.ycombinator.com/item?id=31538111"
+    ],
+    [
+      "Metron C++ to Verilog Translator Tutorial",
+      "https://aappleby.github.io/Metron/tutorial/"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 04:52:35",
       "https://news.ycombinator.com/item?id=31537702"
     ],
@@ -247,16 +257,6 @@
     [
       "Code quality only matters in context (2019)",
       "https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 07:08:34",
-      "https://news.ycombinator.com/item?id=31526825"
-    ],
-    [
-      "Multiplicity Choices Are Hard to Model and Change",
-      "https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html"
     ]
   ],
   [
