@@ -67,6 +67,7 @@
 * [2022-05-26, 11:32:45](https://news.ycombinator.com/item?id=31517097) - [How to Walk Underground from Liverpool Street to Farringdon](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html)
 * [2022-05-26, 11:22:34](https://news.ycombinator.com/item?id=31517039) - [Tiddlyhost is a free hosting platform for TiddlyWiki](https://tiddlyhost.com/)
 * [2022-05-26, 11:19:20](https://news.ycombinator.com/item?id=31517021) - [Broadcom announces plans to buy VMware in $61B deal](https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html)
+* [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [AI Inventing Its Own Culture, Passing It on to Humans, Sociologists Find](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
 * [2022-05-26, 10:14:00](https://news.ycombinator.com/item?id=31516587) - [Jumbo Stay – a hostel inside a decommissioned Boeing 747-200](https://en.wikipedia.org/wiki/Jumbo_Stay)
 * [2022-05-26, 09:33:03](https://news.ycombinator.com/item?id=31516365) - [Musikcube, a cross-platform, terminal-based library, player and server](https://github.com/clangen/musikcube)
 * [2022-05-26, 09:21:18](https://news.ycombinator.com/item?id=31516292) - [Most of Rust job offers are in crypto](https://scrapingfish.com/blog/are-most-rust-jobs-in-crypto)
