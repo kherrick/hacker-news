@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
 * [2022-05-29, 17:14:55](https://news.ycombinator.com/item?id=31550798) - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
+* [2022-05-29, 17:13:29](https://news.ycombinator.com/item?id=31550786) - [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
 * [2022-05-29, 16:56:13](https://news.ycombinator.com/item?id=31550617) - [Why Germany Is Offering a Summer of Cheap Trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
 * [2022-05-29, 15:31:20](https://news.ycombinator.com/item?id=31549918) - [Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)

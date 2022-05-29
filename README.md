@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-29, 17:14:55](https://news.ycombinator.com/item?id=31550798) - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
+* [2022-05-29, 17:13:29](https://news.ycombinator.com/item?id=31550786) - [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
 * [2022-05-29, 16:56:13](https://news.ycombinator.com/item?id=31550617) - [Why Germany Is Offering a Summer of Cheap Trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
 * [2022-05-29, 15:31:20](https://news.ycombinator.com/item?id=31549918) - [Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
@@ -23,7 +24,6 @@
 * [2022-05-29, 05:15:07](https://news.ycombinator.com/item?id=31546604) - [The use of ‘class’ for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 * [2022-05-29, 04:18:15](https://news.ycombinator.com/item?id=31546334) - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
 * [2022-05-28, 23:04:44](https://news.ycombinator.com/item?id=31544634) - [My students cheated... a lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
-* [2022-05-28, 22:19:56](https://news.ycombinator.com/item?id=31544372) - [Chaos: The real problem with quantum mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 16:32:30](https://news.ycombinator.com/item?id=31541636) - [Le Paper Globe – a DIY paper terrestrial globe (2012)](http://joachimesque.com/globe/index.html.en)
 * [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 07:40:25](https://news.ycombinator.com/item?id=31538380) - [The Complexity Trap](https://consciousnessofsheep.co.uk/2022/05/27/the-complexity-trap/)
