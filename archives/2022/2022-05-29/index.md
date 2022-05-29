@@ -60,5 +60,6 @@
 * [2022-05-29, 01:16:54](https://news.ycombinator.com/item?id=31545324) - [The Reason You See Earthworms After Rain](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
 * [2022-05-29, 00:48:14](https://news.ycombinator.com/item?id=31545168) - [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
 * [2022-05-29, 00:42:28](https://news.ycombinator.com/item?id=31545142) - [I'm retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
+* [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and Octopus Genome Studies Reveal How Cephalopods’ Unique Traits Evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)
 * [2022-05-29, 00:08:14](https://news.ycombinator.com/item?id=31544997) - [In Defense of Coding Interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
 * [2022-05-29, 00:06:21](https://news.ycombinator.com/item?id=31544988) - [Arc Browser Company: Chrome and Safari face a new challenger](https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart)
