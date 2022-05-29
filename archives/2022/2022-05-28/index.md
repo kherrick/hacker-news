@@ -44,6 +44,7 @@
 * [2022-05-28, 13:49:32](https://news.ycombinator.com/item?id=31540307) - [Odd DNS Requests that are Normal](https://isc.sans.edu/diary/Odd+DNS+Requests+that+are+Normal/24844)
 * [2022-05-28, 13:47:00](https://news.ycombinator.com/item?id=31540289) - [London ISP CommunityFibre Discount 3Gbps FTTP Plan to £50](https://www.ispreview.co.uk/index.php/2022/05/london-isp-communityfibre-discount-3gbps-fttp-plan-to-50.html)
 * [2022-05-28, 13:46:07](https://news.ycombinator.com/item?id=31540281) - [Why developers seem to only build luxury housing (2018)](https://ggwash.org/view/68496/why-are-developers-only-building-luxury-housing)
+* [2022-05-28, 13:40:30](https://news.ycombinator.com/item?id=31540252) - [Plant of the Month: The Runner Bean (2020)](https://daily.jstor.org/plant-of-the-month-the-runner-bean/)
 * [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
 * [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
 * [2022-05-28, 12:58:31](https://news.ycombinator.com/item?id=31539982) - [I don't trust papers out of “Top Labs” anymore](https://reddit.com/r/MachineLearning/comments/uyratt/d_i_dont_really_trust_papers_out_of_top_labs/)
