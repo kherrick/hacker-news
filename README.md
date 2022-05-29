@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 13:36:31](https://news.ycombinator.com/item?id=31549032) - [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
 * [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
 * [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 * [2022-05-29, 11:42:34](https://news.ycombinator.com/item?id=31548338) - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
@@ -21,15 +22,14 @@
 * [2022-05-28, 23:33:46](https://news.ycombinator.com/item?id=31544816) - [Building a threat intelligence feed using the Twitter API and a bit of code](https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef)
 * [2022-05-28, 23:04:44](https://news.ycombinator.com/item?id=31544634) - [My students cheated... a lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 * [2022-05-28, 22:19:56](https://news.ycombinator.com/item?id=31544372) - [Chaos: The real problem with quantum mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
-* [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
 * [2022-05-28, 16:32:30](https://news.ycombinator.com/item?id=31541636) - [Le Paper Globe – a DIY paper terrestrial globe (2012)](http://joachimesque.com/globe/index.html.en)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 * [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
+* [2022-05-27, 21:19:44](https://news.ycombinator.com/item?id=31535053) - [Wikipedia Haiku](https://botsin.space/@wikipediahaiku)
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the Logic of Great Typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [AI Inventing Its Own Culture, Passing It on to Humans, Sociologists Find](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
 * [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-powered color mechanical television](https://spectrum.ieee.org/mechanical-tv)
-* [2022-05-25, 16:40:46](https://news.ycombinator.com/item?id=31506962) - [Group F/64](https://en.wikipedia.org/wiki/Group_f/64)
 
 ## [Archives](archives/index.md)
 
