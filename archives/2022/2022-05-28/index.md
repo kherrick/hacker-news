@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-28](index.md)
 
 * [2022-05-28, 23:33:46](https://news.ycombinator.com/item?id=31544816) - [Building a Threat Intelligence Feed Using the Twitter API and a Bit of Code](https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef)
+* [2022-05-28, 23:04:44](https://news.ycombinator.com/item?id=31544634) - [My Students Cheated... a Lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 * [2022-05-28, 22:27:19](https://news.ycombinator.com/item?id=31544409) - [Show HN: The Rust Jobs Blog](https://www.rustjobs.com/blog.html)
 * [2022-05-28, 22:08:56](https://news.ycombinator.com/item?id=31544298) - [Starlink may now have global revenue of $44M monthly](https://news.ycombinator.com/item?id=31544298)
 * [2022-05-28, 21:30:21](https://news.ycombinator.com/item?id=31544050) - [Fearful Symmetry: Inkblot Books (1859–1915)](https://publicdomainreview.org/collection/inkblot-books/)
@@ -54,6 +55,7 @@
 * [2022-05-28, 09:42:24](https://news.ycombinator.com/item?id=31538960) - [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
+* [2022-05-28, 08:41:20](https://news.ycombinator.com/item?id=31538686) - [Ciaramella DSP Web Playground](https://ciaramella.dev/)
 * [2022-05-28, 08:30:07](https://news.ycombinator.com/item?id=31538630) - [Blocklist of all Facebook domains (2016)](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all)
 * [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google Has Banned the Training of Deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)
 * [2022-05-28, 08:00:12](https://news.ycombinator.com/item?id=31538482) - [Reasons to ditch Chrome and use Firefox](https://www.pcworld.com/article/704687/8-reasons-to-ditch-chrome-and-switch-to-firefox.html)

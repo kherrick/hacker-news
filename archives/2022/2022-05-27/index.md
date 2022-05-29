@@ -76,6 +76,7 @@
 * [2022-05-27, 04:50:11](https://news.ycombinator.com/item?id=31526107) - [The home of Walmart wants to beat sprawl](https://www.economist.com/united-states/2022/05/26/the-home-of-walmart-wants-to-beat-sprawl)
 * [2022-05-27, 04:38:48](https://news.ycombinator.com/item?id=31526044) - [NPM security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 * [2022-05-27, 04:27:04](https://news.ycombinator.com/item?id=31526002) - [Cannoli: The Fast QEMU Tracer](https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx)
+* [2022-05-27, 04:26:34](https://news.ycombinator.com/item?id=31526001) - [Making pip installs a little less slow](https://pythonspeed.com/articles/faster-pip-installs/)
 * [2022-05-27, 04:08:48](https://news.ycombinator.com/item?id=31525941) - [The Truth about Inflation](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/)
 * [2022-05-27, 04:05:16](https://news.ycombinator.com/item?id=31525920) - [Ghost recon breakpoint game save disappeared](https://community.stadia.com/t5/Stadia-General/Ghost-recon-breakpoint-game-save-disappeared/m-p/79391#M32421)
 * [2022-05-27, 03:38:38](https://news.ycombinator.com/item?id=31525792) - [Internet drama in Canada](https://www.nytimes.com/2022/05/26/technology/canada-internet-service.html)
