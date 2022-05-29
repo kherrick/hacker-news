@@ -52,6 +52,7 @@
 * [2022-05-25, 16:52:45](https://news.ycombinator.com/item?id=31507132) - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
 * [2022-05-25, 16:50:51](https://news.ycombinator.com/item?id=31507106) - [Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
 * [2022-05-25, 16:49:05](https://news.ycombinator.com/item?id=31507082) - [Making macOS Behave Itself](https://danmackinlay.name/notebook/macos_hacks.html)
+* [2022-05-25, 16:40:46](https://news.ycombinator.com/item?id=31506962) - [Group F/64](https://en.wikipedia.org/wiki/Group_f/64)
 * [2022-05-25, 16:29:27](https://news.ycombinator.com/item?id=31506785) - [The Last Cigarette: Cinema’s most seductive prop](https://theamericanscholar.org/the-last-cigarette/)
 * [2022-05-25, 16:23:59](https://news.ycombinator.com/item?id=31506724) - [figlet – a program for making large letters out of ordinary text](http://www.figlet.org/)
 * [2022-05-25, 16:15:16](https://news.ycombinator.com/item?id=31506622) - [The New York Times Is Wrong About Haiti](https://vodoueconomics.substack.com/p/the-new-york-times-is-wrong-about)

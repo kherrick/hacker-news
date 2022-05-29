@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 06:59:30](https://news.ycombinator.com/item?id=31547056) - [Blockchain vs. Quantum-Computing – Is Quantum Computing a Threat to Crypto?](https://www.blockchain-council.org/blockchain/blockchain-vs-quantum-computing-is-quantum-computing-the-biggest-threat-to-crypto/)
 * [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas ferried an engine on the wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 * [2022-05-29, 05:15:07](https://news.ycombinator.com/item?id=31546604) - [The use of `class` for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
@@ -19,17 +20,16 @@
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
 * [2022-05-28, 18:20:38](https://news.ycombinator.com/item?id=31542502) - [Once in a Lifetime](https://www.ethanhein.com/wp/2022/once-in-a-lifetime/)
 * [2022-05-28, 17:44:28](https://news.ycombinator.com/item?id=31542234) - [GitHub Star History Graph](https://star-history.com)
-* [2022-05-28, 16:58:34](https://news.ycombinator.com/item?id=31541858) - [Ampere Announces 5nm Arm Server CPU](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)
 * [2022-05-28, 12:52:40](https://news.ycombinator.com/item?id=31539944) - [The Gilded Age of (Unpaid) Internet Writing](https://longreads.com/2018/10/02/webzines-90s-online-media/)
 * [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 09:55:24](https://news.ycombinator.com/item?id=31539017) - [The Weight I Carry (2019)](https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
-* [2022-05-28, 04:52:35](https://news.ycombinator.com/item?id=31537702) - [What Was the Wiretap?](https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/)
 * [2022-05-27, 04:26:34](https://news.ycombinator.com/item?id=31526001) - [Making pip installs a little less slow](https://pythonspeed.com/articles/faster-pip-installs/)
 * [2022-05-26, 15:16:07](https://news.ycombinator.com/item?id=31519370) - [Why Infer Types?](https://npf.io/2022/05/why-infer/)
 * [2022-05-26, 11:55:47](https://news.ycombinator.com/item?id=31517231) - [Linux kernel RNG enhancements for 5.19](https://twitter.com/EdgeSecurity/status/1528494394604761094)
 * [2022-05-26, 07:44:45](https://news.ycombinator.com/item?id=31515765) - [SplinterDB: High performance embedded key-value store](https://github.com/vmware/splinterdb)
 * [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-powered color mechanical television](https://spectrum.ieee.org/mechanical-tv)
+* [2022-05-25, 16:40:46](https://news.ycombinator.com/item?id=31506962) - [Group F/64](https://en.wikipedia.org/wiki/Group_f/64)
 
 ## [Archives](archives/index.md)
 
