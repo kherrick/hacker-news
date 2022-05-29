@@ -80,6 +80,7 @@
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 * [2022-05-28, 03:15:16](https://news.ycombinator.com/item?id=31537290) - [What a Recession Would Mean for Developers](https://blog.boot.dev/news/what-would-a-recession-do-to-developers/)
+* [2022-05-28, 01:38:00](https://news.ycombinator.com/item?id=31536830) - [Hume's Real Riches](https://philarchive.org/archive/GOLHRR)
 * [2022-05-28, 01:37:10](https://news.ycombinator.com/item?id=31536827) - [Neon – Serverless Postgres](https://neon.tech)
 * [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://memex.marginalia.nu/log/58-marginalia-open-source.gmi)
 * [2022-05-28, 00:58:02](https://news.ycombinator.com/item?id=31536626) - [Marginalia Goes Open Source](https://git.marginalia.nu/marginalia/marginalia.nu)

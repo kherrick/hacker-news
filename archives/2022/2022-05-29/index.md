@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 17:14:55](https://news.ycombinator.com/item?id=31550798) - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
+* [2022-05-29, 16:56:13](https://news.ycombinator.com/item?id=31550617) - [Why Germany Is Offering a Summer of Cheap Trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
 * [2022-05-29, 15:31:20](https://news.ycombinator.com/item?id=31549918) - [Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
 * [2022-05-29, 15:17:59](https://news.ycombinator.com/item?id=31549791) - [Workers quitting over return-to-office policies](https://www.bbc.com/worklife/article/20220523-the-workers-quitting-over-return-to-office-policies)
@@ -12,6 +14,7 @@
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting Up a Pi Hole Made My Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 14:08:18](https://news.ycombinator.com/item?id=31549237) - [Big Tech loves talking up privacy – while trying to kill privacy legislation](https://www.theregister.com/2022/05/27/big_tech_privacy/)
 * [2022-05-29, 14:02:24](https://news.ycombinator.com/item?id=31549199) - [Apple’s Hidden Flight Tracker App](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
+* [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Multiplications and 2 additions are faster than 2 additions](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
 * [2022-05-29, 13:36:31](https://news.ycombinator.com/item?id=31549032) - [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
 * [2022-05-29, 13:24:07](https://news.ycombinator.com/item?id=31548949) - [Metrication Timeline](https://ukma.org.uk/press/metrication-timeline/)
