@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 09:52:10](https://news.ycombinator.com/item?id=31547879) - [High speed train between Paris and Berlin could start operating as soon as 2023](https://www.euronews.com/travel/2022/05/25/high-speed-train-between-paris-and-berlin-could-start-operating-as-soon-as-2023)
 * [2022-05-29, 09:47:47](https://news.ycombinator.com/item?id=31547860) - [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
 * [2022-05-29, 09:28:20](https://news.ycombinator.com/item?id=31547765) - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
 * [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
@@ -15,6 +16,7 @@
 * [2022-05-28, 23:33:46](https://news.ycombinator.com/item?id=31544816) - [Building a threat intelligence feed using the Twitter API and a bit of code](https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef)
 * [2022-05-28, 23:04:44](https://news.ycombinator.com/item?id=31544634) - [My students cheated... a lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 * [2022-05-28, 22:19:56](https://news.ycombinator.com/item?id=31544372) - [Chaos: The real problem with quantum mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
+* [2022-05-28, 21:18:24](https://news.ycombinator.com/item?id=31543957) - [Using a Windows Mobile 2003 PDA (HP iPAQ h4350) in 2022, including WhatsApp](https://raymii.org/s/blog/Using_a_Windows_Mobile_2003_PDA_hp_ipaq_in_2022_including_whatsapp.html)
 * [2022-05-28, 21:17:50](https://news.ycombinator.com/item?id=31543953) - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
 * [2022-05-28, 20:36:25](https://news.ycombinator.com/item?id=31543579) - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
@@ -24,12 +26,10 @@
 * [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 09:55:24](https://news.ycombinator.com/item?id=31539017) - [The Weight I Carry (2019)](https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
-* [2022-05-28, 06:39:12](https://news.ycombinator.com/item?id=31538111) - [Metron C++ to Verilog Translator Tutorial](https://aappleby.github.io/Metron/tutorial/)
 * [2022-05-28, 04:52:35](https://news.ycombinator.com/item?id=31537702) - [What Was the Wiretap?](https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/)
 * [2022-05-27, 04:26:34](https://news.ycombinator.com/item?id=31526001) - [Making pip installs a little less slow](https://pythonspeed.com/articles/faster-pip-installs/)
 * [2022-05-26, 15:16:07](https://news.ycombinator.com/item?id=31519370) - [Why Infer Types?](https://npf.io/2022/05/why-infer/)
 * [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-powered color mechanical television](https://spectrum.ieee.org/mechanical-tv)
-* [2022-05-25, 16:40:46](https://news.ycombinator.com/item?id=31506962) - [Group F/64](https://en.wikipedia.org/wiki/Group_f/64)
 
 ## [Archives](archives/index.md)
 
