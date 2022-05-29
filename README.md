@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-29, 06:59:30](https://news.ycombinator.com/item?id=31547056) - [Blockchain vs. Quantum-Computing – Is Quantum Computing a Threat to Crypto?](https://www.blockchain-council.org/blockchain/blockchain-vs-quantum-computing-is-quantum-computing-the-biggest-threat-to-crypto/)
+* [2022-05-29, 09:28:20](https://news.ycombinator.com/item?id=31547765) - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
 * [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas ferried an engine on the wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 * [2022-05-29, 04:26:19](https://news.ycombinator.com/item?id=31546380) - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
@@ -19,7 +19,7 @@
 * [2022-05-28, 19:36:14](https://news.ycombinator.com/item?id=31543054) - [System Font Stack](https://systemfontstack.com)
 * [2022-05-28, 18:20:38](https://news.ycombinator.com/item?id=31542502) - [Once in a Lifetime](https://www.ethanhein.com/wp/2022/once-in-a-lifetime/)
 * [2022-05-28, 17:44:28](https://news.ycombinator.com/item?id=31542234) - [GitHub Star History Graph](https://star-history.com)
-* [2022-05-28, 16:58:34](https://news.ycombinator.com/item?id=31541858) - [Ampere Announces 5nm Arm Server CPU](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)
+* [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 * [2022-05-28, 12:52:40](https://news.ycombinator.com/item?id=31539944) - [The Gilded Age of (Unpaid) Internet Writing](https://longreads.com/2018/10/02/webzines-90s-online-media/)
 * [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 09:55:24](https://news.ycombinator.com/item?id=31539017) - [The Weight I Carry (2019)](https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/)
