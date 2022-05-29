@@ -52,6 +52,7 @@
 * [2022-05-28, 11:38:42](https://news.ycombinator.com/item?id=31539510) - [The Endearing Colette (2015)](http://www.whistlingshade.com/1501/The_Endearing_Colette.htm)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 10:10:15](https://news.ycombinator.com/item?id=31539075) - [Ask HN: Why the web lately is all about JavaScript?](https://news.ycombinator.com/item?id=31539075)
+* [2022-05-28, 09:55:24](https://news.ycombinator.com/item?id=31539017) - [The Weight I Carry (2019)](https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/)
 * [2022-05-28, 09:42:24](https://news.ycombinator.com/item?id=31538960) - [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
