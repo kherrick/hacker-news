@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 14:02:24](https://news.ycombinator.com/item?id=31549199) - [Apple’s Hidden Flight Tracker App](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
 * [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
 * [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
@@ -11,6 +12,7 @@
 * [2022-05-29, 09:51:06](https://news.ycombinator.com/item?id=31547876) - [In Poland, there is a LARP group that roleplays as contemporary Americans](https://twitter.com/PenBercifield/status/1530466376204398592)
 * [2022-05-29, 09:39:21](https://news.ycombinator.com/item?id=31547810) - [Charles Babbage’s Difference Engine Turns 200](https://spectrum.ieee.org/charles-babbage-difference-engine)
 * [2022-05-29, 09:28:20](https://news.ycombinator.com/item?id=31547765) - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
+* [2022-05-29, 09:24:48](https://news.ycombinator.com/item?id=31547750) - [Why is Bitcoin losing the dark-net markets?](https://wildsnow2d9.substack.com/p/why-is-bitcoin-losing-the-dark-net)
 * [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its online safety bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas ferried an engine on the wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 * [2022-05-29, 04:26:19](https://news.ycombinator.com/item?id=31546380) - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
@@ -19,7 +21,6 @@
 * [2022-05-29, 01:16:54](https://news.ycombinator.com/item?id=31545324) - [Earthworms after rain (2019)](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
 * [2022-05-29, 00:42:28](https://news.ycombinator.com/item?id=31545142) - [I'm retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
 * [2022-05-29, 00:08:14](https://news.ycombinator.com/item?id=31544997) - [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
-* [2022-05-28, 23:33:46](https://news.ycombinator.com/item?id=31544816) - [Building a threat intelligence feed using the Twitter API and a bit of code](https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef)
 * [2022-05-28, 23:04:44](https://news.ycombinator.com/item?id=31544634) - [My students cheated... a lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 * [2022-05-28, 22:19:56](https://news.ycombinator.com/item?id=31544372) - [Chaos: The real problem with quantum mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 16:32:30](https://news.ycombinator.com/item?id=31541636) - [Le Paper Globe – a DIY paper terrestrial globe (2012)](http://joachimesque.com/globe/index.html.en)
@@ -29,7 +30,6 @@
 * [2022-05-27, 21:19:44](https://news.ycombinator.com/item?id=31535053) - [Wikipedia Haiku](https://botsin.space/@wikipediahaiku)
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the Logic of Great Typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [AI Inventing Its Own Culture, Passing It on to Humans, Sociologists Find](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
-* [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-powered color mechanical television](https://spectrum.ieee.org/mechanical-tv)
 
 ## [Archives](archives/index.md)
 

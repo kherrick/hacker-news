@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 14:02:24](https://news.ycombinator.com/item?id=31549199) - [Apple’s Hidden Flight Tracker App](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
 * [2022-05-29, 13:36:31](https://news.ycombinator.com/item?id=31549032) - [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
 * [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
@@ -18,6 +19,7 @@
 * [2022-05-29, 09:47:47](https://news.ycombinator.com/item?id=31547860) - [Hackable GUI SQL-manager written in SQL itself](https://news.ycombinator.com/item?id=31547860)
 * [2022-05-29, 09:39:21](https://news.ycombinator.com/item?id=31547810) - [Charles Babbage’s Difference Engine Turns 200](https://spectrum.ieee.org/charles-babbage-difference-engine)
 * [2022-05-29, 09:28:20](https://news.ycombinator.com/item?id=31547765) - [Ask HN: What does a developer need to know to build their own Lisp from scratch?](https://news.ycombinator.com/item?id=31547765)
+* [2022-05-29, 09:24:48](https://news.ycombinator.com/item?id=31547750) - [Why is Bitcoin losing the dark-net markets?](https://wildsnow2d9.substack.com/p/why-is-bitcoin-losing-the-dark-net)
 * [2022-05-29, 06:59:30](https://news.ycombinator.com/item?id=31547056) - [Blockchain vs. Quantum-Computing – Is Quantum Computing a Threat to Crypto?](https://www.blockchain-council.org/blockchain/blockchain-vs-quantum-computing-is-quantum-computing-the-biggest-threat-to-crypto/)
 * [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its Online Safety Bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas Ferried an Engine on the Wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
