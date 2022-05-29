@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-05-29, 01:16:54",
+      "https://news.ycombinator.com/item?id=31545324"
+    ],
+    [
+      "The Reason You See Earthworms After Rain",
+      "https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 00:48:14",
+      "https://news.ycombinator.com/item?id=31545168"
+    ],
+    [
+      "Debugging a Mysterious Python Crash",
+      "https://blog.dend.ro/a-mysterous-python-crash/"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 00:08:14",
+      "https://news.ycombinator.com/item?id=31544997"
+    ],
+    [
+      "In Defense of Coding Interviews",
+      "https://biggestfish.substack.com/p/in-defense-of-coding-interviews"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 23:33:46",
       "https://news.ycombinator.com/item?id=31544816"
     ],
     [
       "Building a Threat Intelligence Feed Using the Twitter API and a Bit of Code",
       "https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 23:04:44",
+      "https://news.ycombinator.com/item?id=31544634"
+    ],
+    [
+      "My Students Cheated... a Lot",
+      "https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "System Font Stack",
       "https://systemfontstack.com"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 18:49:22",
-      "https://news.ycombinator.com/item?id=31542692"
-    ],
-    [
-      "Brave Browser Hardening",
-      "https://gitlab.com/CHEF-KOCH/brave-browser-hardening"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-05-28, 16:15:07",
-      "https://news.ycombinator.com/item?id=31541477"
-    ],
-    [
-      "Translating math into code with examples in Java, Racket, Haskell, Python (2011)",
-      "https://matt.might.net/articles/discrete-math-and-code/"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 15:56:52",
       "https://news.ycombinator.com/item?id=31541320"
     ],
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2022-05-28, 11:38:42",
-      "https://news.ycombinator.com/item?id=31539510"
-    ],
-    [
-      "The Endearing Colette (2015)",
-      "http://www.whistlingshade.com/1501/The_Endearing_Colette.htm"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 11:15:11",
       "https://news.ycombinator.com/item?id=31539386"
     ],
     [
       "FireZone – Open-source VPN server and firewall",
       "https://www.firezone.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 08:41:20",
+      "https://news.ycombinator.com/item?id=31538686"
+    ],
+    [
+      "Ciaramella DSP Web Playground",
+      "https://ciaramella.dev/"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2022-05-27, 07:08:34",
-      "https://news.ycombinator.com/item?id=31526825"
+      "2022-05-27, 04:26:34",
+      "https://news.ycombinator.com/item?id=31526001"
     ],
     [
-      "Multiplicity Choices Are Hard to Model and Change",
-      "https://tratt.net/laurie/blog/2022/multiplicity_choices_are_hard_to_model_and_change.html"
+      "Making pip installs a little less slow",
+      "https://pythonspeed.com/articles/faster-pip-installs/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-05-26, 11:41:47",
-      "https://news.ycombinator.com/item?id=31517142"
-    ],
-    [
-      "Tangle-free magnetic USB cables are here",
-      "https://www.theverge.com/23138894/usb-cable-tangle-free-magnetic-self-winding"
-    ]
-  ],
-  [
-    [
       "2022-05-26, 07:44:45",
       "https://news.ycombinator.com/item?id=31515765"
     ],
     [
       "SplinterDB: High performance embedded key-value store",
       "https://github.com/vmware/splinterdb"
-    ]
-  ],
-  [
-    [
-      "2022-05-25, 23:33:00",
-      "https://news.ycombinator.com/item?id=31512257"
-    ],
-    [
-      "How do video games stay in sync?",
-      "https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f"
     ]
   ],
   [
