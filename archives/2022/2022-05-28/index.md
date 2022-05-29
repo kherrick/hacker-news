@@ -10,6 +10,7 @@
 * [2022-05-28, 22:19:56](https://news.ycombinator.com/item?id=31544372) - [Chaos: The real problem with quantum mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 22:08:56](https://news.ycombinator.com/item?id=31544298) - [Starlink may now have global revenue of $44M monthly](https://news.ycombinator.com/item?id=31544298)
 * [2022-05-28, 21:30:21](https://news.ycombinator.com/item?id=31544050) - [Fearful Symmetry: Inkblot Books (1859–1915)](https://publicdomainreview.org/collection/inkblot-books/)
+* [2022-05-28, 21:18:24](https://news.ycombinator.com/item?id=31543957) - [Using a Windows Mobile 2003 PDA (HP iPAQ h4350) in 2022, including WhatsApp](https://raymii.org/s/blog/Using_a_Windows_Mobile_2003_PDA_hp_ipaq_in_2022_including_whatsapp.html)
 * [2022-05-28, 21:17:50](https://news.ycombinator.com/item?id=31543953) - [Make formal verification and provably correct software practical and mainstream](https://github.com/magmide/magmide)
 * [2022-05-28, 20:36:25](https://news.ycombinator.com/item?id=31543579) - [Adding rollback netplay to a Game Boy Advance game from 2005: Part 1](https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game)
 * [2022-05-28, 20:03:26](https://news.ycombinator.com/item?id=31543292) - [A belief in meritocracy is not only false: it’s bad for you (2020)](https://press.princeton.edu/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you)
