@@ -7,6 +7,7 @@
 * [2022-05-29, 14:02:24](https://news.ycombinator.com/item?id=31549199) - [Apple’s Hidden Flight Tracker App](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
 * [2022-05-29, 13:36:31](https://news.ycombinator.com/item?id=31549032) - [Ask HN: How to do self-study on Physics](https://news.ycombinator.com/item?id=31549032)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
+* [2022-05-29, 13:24:07](https://news.ycombinator.com/item?id=31548949) - [Metrication Timeline](https://ukma.org.uk/press/metrication-timeline/)
 * [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
 * [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 * [2022-05-29, 11:42:34](https://news.ycombinator.com/item?id=31548338) - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
