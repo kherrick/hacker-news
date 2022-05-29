@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
 * [2022-05-29, 21:03:26](https://news.ycombinator.com/item?id=31552853) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2022-05-29, 20:15:16](https://news.ycombinator.com/item?id=31552476) - [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the Power of Symmetry](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 * [2022-05-29, 19:31:59](https://news.ycombinator.com/item?id=31552100) - [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
 * [2022-05-29, 19:08:31](https://news.ycombinator.com/item?id=31551887) - [Show HN: Spanish Basic](https://www.vainilla.app/)

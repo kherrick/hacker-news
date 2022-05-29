@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-29, 21:03:26](https://news.ycombinator.com/item?id=31552853) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2022-05-29, 20:15:16](https://news.ycombinator.com/item?id=31552476) - [What Is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 * [2022-05-29, 19:31:59](https://news.ycombinator.com/item?id=31552100) - [Privacy first, open source home automation](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
@@ -22,7 +23,6 @@
 * [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The saga of Apple’s troubled mixed reality headset](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 * [2022-05-29, 11:33:26](https://news.ycombinator.com/item?id=31548281) - [Food security and the coming storm](https://www.eurasiagroup.net/live-post/food-security)
 * [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic Catan LCD Tiles](https://coliniuliano.ca/projects/catan-tiles/)
-* [2022-05-29, 11:21:01](https://news.ycombinator.com/item?id=31548234) - [New study finds significant amount of HFO degradation product in drinking water](https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/)
 * [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and Octopus Genome Studies Reveal How Cephalopods’ Unique Traits Evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)
 * [2022-05-29, 00:06:21](https://news.ycombinator.com/item?id=31544988) - [Arc Browser Company: Chrome and Safari face a new challenger](https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart)
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
