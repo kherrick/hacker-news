@@ -17,7 +17,6 @@
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 18:01:07](https://news.ycombinator.com/item?id=31551221) - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
-* [2022-05-29, 17:25:55](https://news.ycombinator.com/item?id=31550900) - [Make Your Own Chips for Free](https://efabless.com/open_shuttle_program)
 * [2022-05-29, 14:57:50](https://news.ycombinator.com/item?id=31549631) - [Pixar's notes on Rigid Body Simulation (2001) [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
 * [2022-05-29, 14:24:35](https://news.ycombinator.com/item?id=31549368) - [TinyPilot: Build a KVM over IP for Under $100](https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting up a Pi Hole made my home network faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
@@ -28,6 +27,7 @@
 * [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and Octopus Genome Studies Reveal How Cephalopods’ Unique Traits Evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
 * [2022-05-28, 08:42:16](https://news.ycombinator.com/item?id=31538693) - [The real story of Pinocchio](https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/)
+* [2022-05-27, 12:42:47](https://news.ycombinator.com/item?id=31528895) - [A Year with the Elgato Stream Deck](https://sixcolors.com/post/2022/05/a-year-with-the-elgato-stream-deck/)
 * [2022-05-27, 10:54:54](https://news.ycombinator.com/item?id=31528088) - [Modern football through the lens of René Girard](https://xandfootball.substack.com/p/modern-football-through-the-lens)
 * [2022-05-27, 07:16:30](https://news.ycombinator.com/item?id=31526871) - [Print an Arduino-Powered Color Mechanical Television](https://spectrum.ieee.org/mechanical-tv)
 
