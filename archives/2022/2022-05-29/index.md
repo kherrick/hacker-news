@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 * [2022-05-29, 17:25:55](https://news.ycombinator.com/item?id=31550900) - [Make Your Own Chips for Free](https://efabless.com/open_shuttle_program)
 * [2022-05-29, 17:14:55](https://news.ycombinator.com/item?id=31550798) - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
