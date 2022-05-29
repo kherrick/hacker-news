@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-29, 18:42:07](https://news.ycombinator.com/item?id=31551627) - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 * [2022-05-29, 17:25:55](https://news.ycombinator.com/item?id=31550900) - [Make Your Own Chips for Free](https://efabless.com/open_shuttle_program)
@@ -12,7 +13,6 @@
 * [2022-05-29, 14:15:32](https://news.ycombinator.com/item?id=31549303) - [Ask HN: Is there any Linux distro dedicated to music performance?](https://news.ycombinator.com/item?id=31549303)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting Up a Pi Hole Made My Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 14:08:18](https://news.ycombinator.com/item?id=31549237) - [Study claims Amazon, Apple, Google, Meta, Microsoft work to derail data rules](https://www.theregister.com/2022/05/27/big_tech_privacy/)
-* [2022-05-29, 14:02:24](https://news.ycombinator.com/item?id=31549199) - [Apple’s hidden flight tracker app](https://medium.com/macoclock/apples-hidden-flight-tracker-app-397982fcc0d)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
 * [2022-05-29, 13:30:12](https://news.ycombinator.com/item?id=31548989) - [Graviton 3: First Impressions](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/)
 * [2022-05-29, 13:24:07](https://news.ycombinator.com/item?id=31548949) - [Metrication timeline (2018)](https://ukma.org.uk/press/metrication-timeline/)
