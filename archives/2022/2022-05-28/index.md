@@ -63,6 +63,7 @@
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
+* [2022-05-28, 08:42:16](https://news.ycombinator.com/item?id=31538693) - [The real story of Pinocchio](https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/)
 * [2022-05-28, 08:41:20](https://news.ycombinator.com/item?id=31538686) - [Ciaramella DSP Web Playground](https://ciaramella.dev/)
 * [2022-05-28, 08:30:07](https://news.ycombinator.com/item?id=31538630) - [Blocklist of all Facebook domains (2016)](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all)
 * [2022-05-28, 08:21:34](https://news.ycombinator.com/item?id=31538595) - [Google Has Banned the Training of Deepfakes in Colab](https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/)

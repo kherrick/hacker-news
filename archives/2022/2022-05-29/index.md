@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
+* [2022-05-29, 17:25:55](https://news.ycombinator.com/item?id=31550900) - [Make Your Own Chips for Free](https://efabless.com/open_shuttle_program)
 * [2022-05-29, 17:14:55](https://news.ycombinator.com/item?id=31550798) - [High cost of cancer care in the U.S. doesn’t reduce mortality rates](https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates)
 * [2022-05-29, 17:13:29](https://news.ycombinator.com/item?id=31550786) - [State is hard: why SPAs will persist](https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/)
 * [2022-05-29, 16:56:13](https://news.ycombinator.com/item?id=31550617) - [Why Germany Is Offering a Summer of Cheap Trains](https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains)
@@ -46,3 +48,4 @@
 * [2022-05-29, 00:48:14](https://news.ycombinator.com/item?id=31545168) - [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
 * [2022-05-29, 00:42:28](https://news.ycombinator.com/item?id=31545142) - [I'm retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
 * [2022-05-29, 00:08:14](https://news.ycombinator.com/item?id=31544997) - [In Defense of Coding Interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews)
+* [2022-05-29, 00:06:21](https://news.ycombinator.com/item?id=31544988) - [Arc Browser Company: Chrome and Safari face a new challenger](https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart)
