@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 05:59:21](https://news.ycombinator.com/item?id=31546799) - [Britain should scrap its Online Safety Bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas Ferried an Engine on the Wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 * [2022-05-29, 04:26:19](https://news.ycombinator.com/item?id=31546380) - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * [2022-05-29, 04:18:15](https://news.ycombinator.com/item?id=31546334) - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
