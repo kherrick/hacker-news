@@ -51,6 +51,7 @@
 * [2022-05-28, 12:23:08](https://news.ycombinator.com/item?id=31539767) - [How Google will spend $1M on the internet for you](https://checkmyads.org/branded/heres-how-google-will-spend-1m-on-the-internet-for-you/)
 * [2022-05-28, 12:02:50](https://news.ycombinator.com/item?id=31539636) - [OneSignal (YC S11) is hiring engineers to work on mobile customer engagement](https://onesignal.com/careers)
 * [2022-05-28, 11:50:02](https://news.ycombinator.com/item?id=31539571) - [Feeling like a victim is a perfectly disastrous way to go through life](https://newsletter.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
+* [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 11:38:42](https://news.ycombinator.com/item?id=31539510) - [The Endearing Colette (2015)](http://www.whistlingshade.com/1501/The_Endearing_Colette.htm)
 * [2022-05-28, 11:15:11](https://news.ycombinator.com/item?id=31539386) - [FireZone – Tailscale Alternative – The Open Source VPN Server and Firewall](https://www.firezone.dev/)
 * [2022-05-28, 10:10:15](https://news.ycombinator.com/item?id=31539075) - [Ask HN: Why the web lately is all about JavaScript?](https://news.ycombinator.com/item?id=31539075)
