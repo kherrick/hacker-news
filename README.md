@@ -26,10 +26,10 @@
 * [2022-05-29, 05:41:11](https://news.ycombinator.com/item?id=31546724) - [Qantas ferried an engine on the wing of a 747 (2016)](https://www.flightradar24.com/blog/how-qantas-ferried-an-engine-on-the-wing-of-a-747/)
 * [2022-05-29, 00:06:21](https://news.ycombinator.com/item?id=31544988) - [Arc Browser Company: Chrome and Safari face a new challenger](https://www.bloomberg.com/news/features/2022-05-27/google-chrome-and-apple-safari-challenged-by-browser-upstart)
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
-* [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 08:42:16](https://news.ycombinator.com/item?id=31538693) - [The real story of Pinocchio](https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/)
 * [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the logic of great typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-27, 10:54:54](https://news.ycombinator.com/item?id=31528088) - [Modern sports through the lens of René Girard](https://xandfootball.substack.com/p/modern-football-through-the-lens)
+* [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [Algorithms could increasingly influence human culture](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
 
 ## [Archives](archives/index.md)
 
