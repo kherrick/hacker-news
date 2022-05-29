@@ -25,7 +25,7 @@
 * [2022-05-28, 12:52:40](https://news.ycombinator.com/item?id=31539944) - [The Gilded Age of (Unpaid) Internet Writing](https://longreads.com/2018/10/02/webzines-90s-online-media/)
 * [2022-05-28, 11:46:13](https://news.ycombinator.com/item?id=31539549) - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
-* [2022-05-27, 04:26:34](https://news.ycombinator.com/item?id=31526001) - [Making pip installs a little less slow](https://pythonspeed.com/articles/faster-pip-installs/)
+* [2022-05-27, 12:11:39](https://news.ycombinator.com/item?id=31528601) - [Learn the Logic of Great Typography](https://learnui.design/tools/typography-tutorial.html)
 * [2022-05-26, 15:16:07](https://news.ycombinator.com/item?id=31519370) - [Why Infer Types?](https://npf.io/2022/05/why-infer/)
 * [2022-05-26, 10:39:49](https://news.ycombinator.com/item?id=31516764) - [AI Inventing Its Own Culture, Passing It on to Humans, Sociologists Find](https://www.vice.com/en/article/pkp7y7/human-culture-to-increasingly-come-from-unexplainable-ai-sociologists-find)
 * [2022-05-25, 23:01:15](https://news.ycombinator.com/item?id=31511958) - [Print an Arduino-powered color mechanical television](https://spectrum.ieee.org/mechanical-tv)
