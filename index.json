@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-05-29, 21:03:26",
+      "https://news.ycombinator.com/item?id=31552853"
+    ],
+    [
+      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+      "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
       "2022-05-29, 19:58:37",
       "https://news.ycombinator.com/item?id=31552349"
     ],
     [
-      "Lisp, Smalltalk, and the Power of Symmetry",
+      "Lisp, Smalltalk, and the power of symmetry (2014)",
       "https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/"
     ]
   ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2022-05-29, 19:08:31",
-      "https://news.ycombinator.com/item?id=31551887"
-    ],
-    [
-      "Show HN: Spanish Basic",
-      "https://www.vainilla.app/"
-    ]
-  ],
-  [
-    [
       "2022-05-29, 19:05:40",
       "https://news.ycombinator.com/item?id=31551854"
     ],
     [
       "In praise of the humble Sheffield stand",
       "https://twitter.com/BrixtonHatter/status/1493299809574342659"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 18:51:40",
+      "https://news.ycombinator.com/item?id=31551718"
+    ],
+    [
+      "The age of the fast self-checkout lane is over",
+      "https://devnull.land/bye-fast-checkout-lanes"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2022-05-29, 16:56:13",
-      "https://news.ycombinator.com/item?id=31550617"
-    ],
-    [
-      "Germany is offering a summer of cheap trains",
-      "https://www.bloomberg.com/news/articles/2022-05-28/all-aboard-germany-s-gas-saving-summer-of-super-cheap-trains"
-    ]
-  ],
-  [
-    [
       "2022-05-29, 15:18:20",
       "https://news.ycombinator.com/item?id=31549797"
     ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31549238"
     ],
     [
-      "Setting Up a Pi Hole Made My Home Network Faster",
+      "Setting up a Pi Hole made my home network faster",
       "https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-05-29, 10:27:42",
-      "https://news.ycombinator.com/item?id=31548016"
-    ],
-    [
-      "Show HN: WebRTC Nuts and Bolts, A holistic way of understanding how WebRTC runs",
-      "https://github.com/adalkiran/webrtc-nuts-and-bolts"
-    ]
-  ],
-  [
-    [
       "2022-05-29, 00:06:21",
       "https://news.ycombinator.com/item?id=31544988"
     ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=31528088"
     ],
     [
-      "Modern sports through the lens of René Girard",
+      "Modern football through the lens of René Girard",
       "https://xandfootball.substack.com/p/modern-football-through-the-lens"
+    ]
+  ],
+  [
+    [
+      "2022-05-27, 07:16:30",
+      "https://news.ycombinator.com/item?id=31526871"
+    ],
+    [
+      "Print an Arduino-Powered Color Mechanical Television",
+      "https://spectrum.ieee.org/mechanical-tv"
     ]
   ]
 ]
