@@ -9,6 +9,7 @@
 * [2022-05-29, 05:15:07](https://news.ycombinator.com/item?id=31546604) - [The use of `class` for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 * [2022-05-29, 04:26:19](https://news.ycombinator.com/item?id=31546380) - [Transform any text into a patent application](https://lav.io/2014/05/transform-any-text-into-a-patent-application/)
 * [2022-05-29, 04:18:15](https://news.ycombinator.com/item?id=31546334) - [A tool to render and upscale Sierra adventure game background images](https://github.com/eviltrout/agi-upscale)
+* [2022-05-29, 03:59:59](https://news.ycombinator.com/item?id=31546258) - [New Logic Gates Are a Million Times Faster Than Those in Today’s Chips](https://singularityhub.com/2022/05/23/new-logic-gates-are-a-million-times-faster-than-todays-chips/)
 * [2022-05-29, 03:41:13](https://news.ycombinator.com/item?id=31546182) - [His Name Was Seth Smith](https://karlstack.substack.com/p/his-name-was-seth-smith)
 * [2022-05-29, 01:29:31](https://news.ycombinator.com/item?id=31545399) - [Understanding Bloom Filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
 * [2022-05-29, 01:16:54](https://news.ycombinator.com/item?id=31545324) - [The Reason You See Earthworms After Rain](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
