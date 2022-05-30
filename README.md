@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
+* [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
+* [2022-05-30, 06:16:18](https://news.ycombinator.com/item?id=31555938) - [Big money, nuclear subsidies, and systemic corruption (2021)](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
 * [2022-05-30, 06:12:29](https://news.ycombinator.com/item?id=31555920) - [Show HN: Easily create How-to videos with AI](https://www.wowto.ai/)
 * [2022-05-30, 05:43:12](https://news.ycombinator.com/item?id=31555787) - [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
@@ -25,11 +27,9 @@
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
 * [2022-05-28, 11:38:42](https://news.ycombinator.com/item?id=31539510) - [The Endearing Colette (2015)](http://www.whistlingshade.com/1501/The_Endearing_Colette.htm)
 * [2022-05-28, 09:25:47](https://news.ycombinator.com/item?id=31538883) - [Technical Dimensions of Programming Systems [pdf]](https://raw.githubusercontent.com/jdjakub/papers/master/prog-2022/prog22-master.pdf)
-* [2022-05-28, 07:04:20](https://news.ycombinator.com/item?id=31538224) - [Cricket is changing for many reasons, one of which is AI](https://fiftytwo.in/paradigm-shift/out-of-the-park/)
-* [2022-05-28, 04:53:59](https://news.ycombinator.com/item?id=31537709) - [Rather Break Than Bend](https://www.lrb.co.uk/the-paper/v44/n10/clare-jackson/rather-break-than-bend)
+* [2022-05-28, 04:38:14](https://news.ycombinator.com/item?id=31537648) - [Conway's Game of Life in APL in Forth](https://github.com/chmykh/apl-life)
 * [2022-05-27, 17:04:07](https://news.ycombinator.com/item?id=31531954) - [How to stop a robot vacuum from getting stuck on the laundry rack](https://www.ctrl.blog/entry/robot-vacuum-drying-rack.html)
 * [2022-05-27, 12:42:47](https://news.ycombinator.com/item?id=31528895) - [A year with the Elgato Stream Deck](https://sixcolors.com/post/2022/05/a-year-with-the-elgato-stream-deck/)
-* [2022-05-27, 07:16:30](https://news.ycombinator.com/item?id=31526871) - [Print an Arduino-Powered Color Mechanical Television](https://spectrum.ieee.org/mechanical-tv)
 
 ## [Archives](archives/index.md)
 

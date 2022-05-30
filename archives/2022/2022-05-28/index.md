@@ -83,6 +83,7 @@
 * [2022-05-28, 04:53:59](https://news.ycombinator.com/item?id=31537709) - [Rather Break Than Bend](https://www.lrb.co.uk/the-paper/v44/n10/clare-jackson/rather-break-than-bend)
 * [2022-05-28, 04:52:35](https://news.ycombinator.com/item?id=31537702) - [What Was the Wiretap?](https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/)
 * [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Why I Write Dirty Code: Code Quality in Context](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
+* [2022-05-28, 04:38:14](https://news.ycombinator.com/item?id=31537648) - [Conway's Game of Life in APL in Forth](https://github.com/chmykh/apl-life)
 * [2022-05-28, 04:15:53](https://news.ycombinator.com/item?id=31537567) - [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
 * [2022-05-28, 03:58:44](https://news.ycombinator.com/item?id=31537487) - [Open and Free Plant Identification API](https://plantnet.org/en/)
 * [2022-05-28, 03:20:30](https://news.ycombinator.com/item?id=31537319) - [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
