@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
-* [2022-05-30, 19:19:51](https://news.ycombinator.com/item?id=31562606) - [Duke Medical prof. calls mandatory equity training “Maoist political propaganda”](https://www.dukechronicle.com/article/2022/05/duke-university-school-of-medicine-professor-describes-mandatory-equity-training-as-maoist-political-propaganda-refuses-to-attend)
+* [2022-05-30, 20:45:02](https://news.ycombinator.com/item?id=31563446) - [DeLorean returns with 300-mile Taycan rival for 2024](https://www.autocar.co.uk/car-news/new-cars/official-delorean-returns-300-mile-taycan-rival-2024)
 * [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 18:48:54](https://news.ycombinator.com/item?id=31562264) - [Working on the Weekends – An Academic Necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
 * [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why is front-end development so unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
@@ -21,6 +21,7 @@
 * [2022-05-30, 14:08:40](https://news.ycombinator.com/item?id=31559118) - [Embracing Modern C++ Safely, Book Review](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 * [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a satellite](https://hackasat.com/)
 * [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
+* [2022-05-30, 13:45:16](https://news.ycombinator.com/item?id=31558875) - [California Right to Repair Bill Dies in Senate Committee](https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee)
 * [2022-05-30, 13:01:49](https://news.ycombinator.com/item?id=31558525) - [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
@@ -28,7 +29,6 @@
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
 * [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
-* [2022-05-29, 21:10:57](https://news.ycombinator.com/item?id=31552903) - [Decompiling stack strings in Ghidra with emulation](https://saml98.github.io/jekyll/update/2022/05/23/ghidra-stack-strings-emulation.html)
 * [2022-05-29, 11:39:13](https://news.ycombinator.com/item?id=31548311) - [Easy 6502 by Skilldrick](http://skilldrick.github.io/easy6502/)
 
 ## [Archives](archives/index.md)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
 * [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+* [2022-05-30, 20:45:02](https://news.ycombinator.com/item?id=31563446) - [DeLorean returns with 300-mile Taycan rival for 2024](https://www.autocar.co.uk/car-news/new-cars/official-delorean-returns-300-mile-taycan-rival-2024)
 * [2022-05-30, 19:19:51](https://news.ycombinator.com/item?id=31562606) - [Duke Medical prof. calls mandatory equity training “Maoist political propaganda”](https://www.dukechronicle.com/article/2022/05/duke-university-school-of-medicine-professor-describes-mandatory-equity-training-as-maoist-political-propaganda-refuses-to-attend)
 * [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 19:06:18](https://news.ycombinator.com/item?id=31562452) - [Canadians Unable to Afford Safe Housing Are Turning to Medically-Assisted Death](https://ourgeneration.news/news/canadians-unable-to-afford-safe-housing-are-turning-to-medically-assisted-death)
