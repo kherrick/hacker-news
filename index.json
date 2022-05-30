@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-30, 17:16:38",
+      "https://news.ycombinator.com/item?id=31561197"
+    ],
+    [
+      "Producing Open Source Software (2020)",
+      "https://producingoss.com/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 16:55:59",
+      "https://news.ycombinator.com/item?id=31560961"
+    ],
+    [
+      "Loot Boxes in Video Games",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-8498/"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 16:46:04",
       "https://news.ycombinator.com/item?id=31560844"
     ],
     [
-      "House Bill Funds Chips Act – Stresses R&D",
+      "House Bill Funds CHIPS Act, Stresses R&D",
       "https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 16:31:46",
+      "https://news.ycombinator.com/item?id=31560692"
+    ],
+    [
+      "Profiles of people living in homeless encampments, rarely what you’d expect",
+      "https://www.latimes.com/opinion/story/2022-05-29/venice-library-homeless-encampment-interviews"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-05-30, 14:25:19",
-      "https://news.ycombinator.com/item?id=31559297"
-    ],
-    [
-      "The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]",
-      "https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 14:22:15",
       "https://news.ycombinator.com/item?id=31559270"
     ],
@@ -147,16 +167,6 @@
     [
       "Viruses that were on hiatus during Covid are back, behaving in unexpected ways",
       "https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 13:46:19",
-      "https://news.ycombinator.com/item?id=31558890"
-    ],
-    [
-      "The Software Industry Is Still the Problem",
-      "https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-05-29, 05:33:57",
-      "https://news.ycombinator.com/item?id=31546684"
+      "2022-05-29, 11:39:13",
+      "https://news.ycombinator.com/item?id=31548311"
     ],
     [
-      "Stature variation suggests relatively reduced health for early European farmers",
-      "https://www.pnas.org/doi/10.1073/pnas.2106743119"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 16:39:18",
-      "https://news.ycombinator.com/item?id=31541687"
-    ],
-    [
-      "What It's Like to See Sound [video]",
-      "https://www.youtube.com/watch?v=OGvy0sJfSMo"
+      "Easy 6502 by Skilldrick",
+      "http://skilldrick.github.io/easy6502/"
     ]
   ]
 ]
