@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 22:07:40](https://news.ycombinator.com/item?id=31564152) - [A Guide to Asking Robots to Design Stained Glass Windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
+* [2022-05-30, 21:53:49](https://news.ycombinator.com/item?id=31564033) - [Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
 * [2022-05-30, 21:20:08](https://news.ycombinator.com/item?id=31563733) - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/-/mosquito-el-animal-mas-letal-del-mundo)
+* [2022-05-30, 21:01:05](https://news.ycombinator.com/item?id=31563585) - [Code, Weights for VQ Diffusion Model for Text-to-Image Sythesis from Microsoft](https://github.com/microsoft/VQ-Diffusion)
 * [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 * [2022-05-30, 20:45:02](https://news.ycombinator.com/item?id=31563446) - [DeLorean returns with 300-mile Taycan rival for 2024](https://www.autocar.co.uk/car-news/new-cars/official-delorean-returns-300-mile-taycan-rival-2024)
 * [2022-05-30, 19:19:51](https://news.ycombinator.com/item?id=31562606) - [Duke Medical prof. calls mandatory equity training “Maoist political propaganda”](https://www.dukechronicle.com/article/2022/05/duke-university-school-of-medicine-professor-describes-mandatory-equity-training-as-maoist-political-propaganda-refuses-to-attend)
