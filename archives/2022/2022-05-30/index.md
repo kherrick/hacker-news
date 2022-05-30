@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 15:16:32](https://news.ycombinator.com/item?id=31559920) - [Programming in the Apocalypse](https://matduggan.com/programming-in-the/)
+* [2022-05-30, 15:07:10](https://news.ycombinator.com/item?id=31559818) - [A vision of a multi-threaded Emacs](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
+* [2022-05-30, 14:52:20](https://news.ycombinator.com/item?id=31559631) - [Got screwed by Heroku Review Apps? We've got an alternative](https://livecycle.io/blogs/alternative-to-heroku-review-apps/)
 * [2022-05-30, 14:42:13](https://news.ycombinator.com/item?id=31559507) - [3D Print Glass with a Laser Cutter](https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/)
 * [2022-05-30, 14:37:16](https://news.ycombinator.com/item?id=31559431) - [A mechanism by which facemasks contribute to the Covid-19 case fatality rate](https://journals.lww.com/md-journal/fulltext/2022/02180/the_foegen_effect__a_mechanism_by_which_facemasks.60.aspx)
 * [2022-05-30, 14:33:09](https://news.ycombinator.com/item?id=31559388) - [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
