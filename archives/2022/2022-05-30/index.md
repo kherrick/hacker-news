@@ -30,6 +30,7 @@
 * [2022-05-30, 16:31:46](https://news.ycombinator.com/item?id=31560692) - [Profiles of people living in homeless encampments, rarely what you’d expect](https://www.latimes.com/opinion/story/2022-05-29/venice-library-homeless-encampment-interviews)
 * [2022-05-30, 16:19:11](https://news.ycombinator.com/item?id=31560552) - [Schools Should Be Using Open Source Software](https://tdarb.org/posts/schools.txt)
 * [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
+* [2022-05-30, 16:02:26](https://news.ycombinator.com/item?id=31560380) - [Dozens of high-traffic websites vulnerable to ‘account pre-hijacking’, study](https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds)
 * [2022-05-30, 15:53:58](https://news.ycombinator.com/item?id=31560307) - [“When systems require novel accounting methods the reason is usually fraud”](https://twitter.com/br4s1d4s/status/1531135288428199936)
 * [2022-05-30, 15:53:21](https://news.ycombinator.com/item?id=31560298) - [What caused the hallucinations of the Oracle of Delphi?](https://dynomight.net/delphi/)
 * [2022-05-30, 15:37:26](https://news.ycombinator.com/item?id=31560135) - [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
