@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a Satellite](https://hackasat.com/)
+* [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
+* [2022-05-30, 13:54:11](https://news.ycombinator.com/item?id=31558970) - [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)
+* [2022-05-30, 13:46:19](https://news.ycombinator.com/item?id=31558890) - [The Software Industry Is Still the Problem](https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext)
+* [2022-05-30, 13:46:13](https://news.ycombinator.com/item?id=31558887) - [Choose Boring Technology (2015)](https://boringtechnology.club/)
+* [2022-05-30, 13:45:16](https://news.ycombinator.com/item?id=31558875) - [California Right to Repair Bill Dies in Senate Committee](https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee)
 * [2022-05-30, 13:32:47](https://news.ycombinator.com/item?id=31558766) - [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
 * [2022-05-30, 13:29:36](https://news.ycombinator.com/item?id=31558745) - [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
 * [2022-05-30, 13:03:07](https://news.ycombinator.com/item?id=31558533) - [AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
