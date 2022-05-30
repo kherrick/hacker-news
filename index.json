@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-05-30, 22:07:40",
+      "https://news.ycombinator.com/item?id=31564152"
+    ],
+    [
+      "A Guide to Asking Robots to Design Stained Glass Windows",
+      "https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 21:53:49",
+      "https://news.ycombinator.com/item?id=31564033"
+    ],
+    [
+      "Scaling Hypothesis",
+      "https://www.gwern.net/Scaling-hypothesis"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 21:20:08",
       "https://news.ycombinator.com/item?id=31563733"
     ],
     [
       "Mosquitoes kill more than 700k people every year (2017)",
       "https://www.isglobal.org/-/mosquito-el-animal-mas-letal-del-mundo"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 21:01:05",
+      "https://news.ycombinator.com/item?id=31563585"
+    ],
+    [
+      "Code, Weights for VQ Diffusion Model for Text-to-Image Sythesis from Microsoft",
+      "https://github.com/microsoft/VQ-Diffusion"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-05-30, 16:19:11",
-      "https://news.ycombinator.com/item?id=31560552"
-    ],
-    [
-      "Schools should be using open source software",
-      "https://tdarb.org/posts/schools.txt"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 16:18:35",
       "https://news.ycombinator.com/item?id=31560547"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-05-30, 13:45:16",
-      "https://news.ycombinator.com/item?id=31558875"
-    ],
-    [
-      "California Right to Repair Bill Dies in Senate Committee",
-      "https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 13:01:49",
       "https://news.ycombinator.com/item?id=31558525"
     ],
@@ -237,16 +247,6 @@
     [
       "A decade of dotfiles",
       "https://evanhahn.com/a-decade-of-dotfiles/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 09:48:41",
-      "https://news.ycombinator.com/item?id=31557206"
-    ],
-    [
-      "Makeabetter.computer – Microgrants for projects that make computers better",
-      "https://makeabetter.computer/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31548311"
     ],
     [
-      "Easy 6502 by Skilldrick",
+      "Easy 6502",
       "http://skilldrick.github.io/easy6502/"
     ]
   ]
