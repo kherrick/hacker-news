@@ -31,6 +31,7 @@
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 * [2022-05-28, 15:56:52](https://news.ycombinator.com/item?id=31541320) - [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
 * [2022-05-28, 15:56:52](https://news.ycombinator.com/item?id=31541320) - [Persist or let it go: a study of entrepreneurial decision making](https://www.sciencedirect.com/science/article/pii/S0883902622000222?via%3Dihub)
+* [2022-05-28, 15:38:36](https://news.ycombinator.com/item?id=31541154) - [The ups and downs of automated code checking software](https://constructionphysics.substack.com/p/the-ups-and-downs-of-automated-code)
 * [2022-05-28, 15:31:12](https://news.ycombinator.com/item?id=31541070) - [Are all popular APIs moving to Cursor based pagination?](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
 * [2022-05-28, 15:10:32](https://news.ycombinator.com/item?id=31540909) - [What I Wish I Knew About Onboarding](https://eugeneyan.com/writing/onboarding/)
 * [2022-05-28, 15:00:25](https://news.ycombinator.com/item?id=31540846) - [The Quest for Fusion Energy](https://inference-review.com/article/the-quest-for-fusion-energy)
