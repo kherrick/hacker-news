@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [2022-05-30, 03:13:25](https://news.ycombinator.com/item?id=31555145) - [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
 * [2022-05-30, 03:07:29](https://news.ycombinator.com/item?id=31555125) - [Really Prolific?](https://www.medo64.com/2022/05/really-prolific/)
@@ -17,7 +18,6 @@
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
 * [2022-05-29, 14:57:50](https://news.ycombinator.com/item?id=31549631) - [Pixar's notes on Rigid Body Simulation (2001) [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
-* [2022-05-29, 14:24:35](https://news.ycombinator.com/item?id=31549368) - [TinyPilot: Build a KVM over IP for Under $100](https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting up a Pi Hole made my home network faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
 * [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic Catan LCD Tiles](https://coliniuliano.ca/projects/catan-tiles/)
