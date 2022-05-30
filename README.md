@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 14:42:13](https://news.ycombinator.com/item?id=31559507) - [3D Print Glass with a Laser Cutter](https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/)
+* [2022-05-30, 14:33:09](https://news.ycombinator.com/item?id=31559388) - [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
 * [2022-05-30, 14:25:54](https://news.ycombinator.com/item?id=31559306) - [Getting a vanity phone number with four consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
 * [2022-05-30, 14:25:19](https://news.ycombinator.com/item?id=31559297) - [The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf)
 * [2022-05-30, 14:22:15](https://news.ycombinator.com/item?id=31559270) - [The Story of Heroku](https://leerob.io/blog/heroku)
@@ -8,7 +10,6 @@
 * [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
 * [2022-05-30, 13:54:11](https://news.ycombinator.com/item?id=31558970) - [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)
 * [2022-05-30, 13:46:19](https://news.ycombinator.com/item?id=31558890) - [The Software Industry Is Still the Problem](https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext)
-* [2022-05-30, 13:46:13](https://news.ycombinator.com/item?id=31558887) - [Choose Boring Technology (2015)](https://boringtechnology.club/)
 * [2022-05-30, 13:45:16](https://news.ycombinator.com/item?id=31558875) - [California Right to Repair Bill Dies in Senate Committee](https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee)
 * [2022-05-30, 13:36:21](https://news.ycombinator.com/item?id=31558796) - [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html)
 * [2022-05-30, 13:32:47](https://news.ycombinator.com/item?id=31558766) - [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
@@ -29,7 +30,6 @@
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-29, 15:28:24](https://news.ycombinator.com/item?id=31549890) - [South America’s unknown ancient path](https://www.bbc.com/travel/article/20220525-south-americas-unknown-ancient-path)
 * [2022-05-29, 00:52:10](https://news.ycombinator.com/item?id=31545186) - [Sorcerer’s Apprentice: Looking for demons in a disenchanted world](https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/)
-* [2022-05-28, 04:38:14](https://news.ycombinator.com/item?id=31537648) - [Conway's Game of Life in APL in Forth](https://github.com/chmykh/apl-life)
 
 ## [Archives](archives/index.md)
 

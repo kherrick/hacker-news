@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 14:42:13](https://news.ycombinator.com/item?id=31559507) - [3D Print Glass with a Laser Cutter](https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/)
 * [2022-05-30, 14:37:16](https://news.ycombinator.com/item?id=31559431) - [A mechanism by which facemasks contribute to the Covid-19 case fatality rate](https://journals.lww.com/md-journal/fulltext/2022/02180/the_foegen_effect__a_mechanism_by_which_facemasks.60.aspx)
+* [2022-05-30, 14:33:09](https://news.ycombinator.com/item?id=31559388) - [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
 * [2022-05-30, 14:25:54](https://news.ycombinator.com/item?id=31559306) - [Using Verizon's API to get a number with 4 consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
 * [2022-05-30, 14:25:19](https://news.ycombinator.com/item?id=31559297) - [The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf)
 * [2022-05-30, 14:22:15](https://news.ycombinator.com/item?id=31559270) - [The Story of Heroku](https://leerob.io/blog/heroku)
