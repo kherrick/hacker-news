@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-05-30, 17:27:23",
-      "https://news.ycombinator.com/item?id=31561338"
-    ],
-    [
-      "Intelligent Reflecting Surfaces prevented 95% of wifi attacks",
-      "https://www.mpg.de/18700996/internet-of-thinges-intelligent-reflecting-surface"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 17:16:38",
       "https://news.ycombinator.com/item?id=31561197"
     ],
@@ -127,6 +117,16 @@
     [
       "Dragonflydb – A modern replacement for Redis and Memcached",
       "https://github.com/dragonflydb/dragonfly"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 16:02:26",
+      "https://news.ycombinator.com/item?id=31560380"
+    ],
+    [
+      "Dozens of high-traffic websites vulnerable to ‘account pre-hijacking’, study",
+      "https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds"
     ]
   ],
   [
