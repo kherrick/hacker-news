@@ -11,6 +11,7 @@
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising (2021) [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
+* [2022-05-30, 09:31:11](https://news.ycombinator.com/item?id=31557105) - [Scaleway price 'harmonization' (mostly increases)](https://news.ycombinator.com/item?id=31557105)
 * [2022-05-30, 09:05:43](https://news.ycombinator.com/item?id=31556961) - [Show HN: Top Links from Hacker News, Reddit, Techmeme, PH on a Single Page](https://alltoplinks.com/)
 * [2022-05-30, 08:33:30](https://news.ycombinator.com/item?id=31556758) - [Solving Problems with Decomposition](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/)
 * [2022-05-30, 07:54:36](https://news.ycombinator.com/item?id=31556522) - [Flask Mega-Tutorial (2017)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -20,7 +21,6 @@
 * [2022-05-30, 06:10:59](https://news.ycombinator.com/item?id=31555911) - [Unity Systems Home Manager Support](https://www.unitysystemshomemanager.com/)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
-* [2022-05-29, 22:58:08](https://news.ycombinator.com/item?id=31553704) - [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
 * [2022-05-29, 05:50:04](https://news.ycombinator.com/item?id=31546766) - [Philosophy’s Gentle Giant](https://www.newstatesman.com/ideas/2022/05/philosophys-gentle-giant)
 * [2022-05-29, 00:52:10](https://news.ycombinator.com/item?id=31545186) - [Sorcerer’s Apprentice: Looking for demons in a disenchanted world](https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/)
@@ -28,8 +28,8 @@
 * [2022-05-28, 15:37:30](https://news.ycombinator.com/item?id=31541145) - [Why smartwatch-measured blood pressure still isn’t ‘ready for primetime’ (2021)](https://www.theverge.com/2021/9/16/22677381/smartwatch-blood-pressure-samsung-fitbit-apple)
 * [2022-05-28, 13:14:29](https://news.ycombinator.com/item?id=31540091) - [Chaos: The Problem with Quantum Mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 04:38:14](https://news.ycombinator.com/item?id=31537648) - [Conway's Game of Life in APL in Forth](https://github.com/chmykh/apl-life)
+* [2022-05-27, 21:27:37](https://news.ycombinator.com/item?id=31535139) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
 * [2022-05-27, 17:04:07](https://news.ycombinator.com/item?id=31531954) - [How to stop a robot vacuum from getting stuck on the laundry rack](https://www.ctrl.blog/entry/robot-vacuum-drying-rack.html)
-* [2022-05-27, 12:42:47](https://news.ycombinator.com/item?id=31528895) - [A year with the Elgato Stream Deck](https://sixcolors.com/post/2022/05/a-year-with-the-elgato-stream-deck/)
 
 ## [Archives](archives/index.md)
 
