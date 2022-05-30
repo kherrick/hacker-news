@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 07:54:36](https://news.ycombinator.com/item?id=31556522) - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:16:18](https://news.ycombinator.com/item?id=31555938) - [Big money, nuclear subsidies, and systemic corruption (2021)](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
@@ -19,7 +20,6 @@
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
-* [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting up a Pi Hole made my home network faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
 * [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic Catan LCD Tiles](https://coliniuliano.ca/projects/catan-tiles/)
 * [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and octopus genome studies reveal how cephalopods’ unique traits evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 07:54:36](https://news.ycombinator.com/item?id=31556522) - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:16:18](https://news.ycombinator.com/item?id=31555938) - [Big money, nuclear subsidies, and systemic corruption (2021)](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
