@@ -32,6 +32,7 @@
 * [2022-05-27, 17:23:31](https://news.ycombinator.com/item?id=31532199) - [Knots 3D – Learn how to tie over 150 useful knots](https://knots3d.com/)
 * [2022-05-27, 17:20:12](https://news.ycombinator.com/item?id=31532156) - [Show HN: Contribution Graph as a Git Command](https://github.com/aaossa/git-activity)
 * [2022-05-27, 17:07:45](https://news.ycombinator.com/item?id=31531997) - [S.F. population fell 6.3%, most in nation, to lowest level since 2010](https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php)
+* [2022-05-27, 17:04:07](https://news.ycombinator.com/item?id=31531954) - [How to stop a robot vacuum from getting stuck on the laundry rack](https://www.ctrl.blog/entry/robot-vacuum-drying-rack.html)
 * [2022-05-27, 17:00:07](https://news.ycombinator.com/item?id=31531910) - [Ribbon (YC S17) is hiring Data Engineers who want to help simplify healthcare](https://www.ribbonhealth.com/open-roles/?gh_jid=4154303004)
 * [2022-05-27, 16:50:12](https://news.ycombinator.com/item?id=31531767) - [Show HN: Quickly find sensitive files in your GitHub repo](https://about.sourcegraph.com/blog/no-more-secrets)
 * [2022-05-27, 16:45:51](https://news.ycombinator.com/item?id=31531694) - [Web Scraping Open Knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project)
