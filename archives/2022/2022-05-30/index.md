@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
+* [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Microgrants ($100–$500) for microprojects to make computing marginally better](https://makeabetter.computer/)
 * [2022-05-30, 09:31:11](https://news.ycombinator.com/item?id=31557105) - [Scaleway price 'harmonization' (mostly increases)](https://news.ycombinator.com/item?id=31557105)
 * [2022-05-30, 09:10:08](https://news.ycombinator.com/item?id=31556989) - [DuckDuckGo faces controversy over tracking agreement with Microsoft](https://metro.co.uk/2022/05/27/private-browser-duckduckgo-found-to-actually-be-tracking-users-16722038/)
 * [2022-05-30, 08:35:10](https://news.ycombinator.com/item?id=31556774) - [The ‘Capital of Silicon Valley’ Is Ignoring Its Privacy Experts](https://www.vice.com/en/article/g5qzj3/the-capital-of-silicon-valley-is-ignoring-its-privacy-experts)

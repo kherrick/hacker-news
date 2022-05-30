@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
+* [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Microgrants ($100–$500) for microprojects to make computing marginally better](https://makeabetter.computer/)
 * [2022-05-30, 09:31:11](https://news.ycombinator.com/item?id=31557105) - [Scaleway price 'harmonization' (mostly increases)](https://news.ycombinator.com/item?id=31557105)
 * [2022-05-30, 09:10:08](https://news.ycombinator.com/item?id=31556989) - [DuckDuckGo faces controversy over tracking agreement with Microsoft](https://metro.co.uk/2022/05/27/private-browser-duckduckgo-found-to-actually-be-tracking-users-16722038/)
 * [2022-05-30, 08:33:30](https://news.ycombinator.com/item?id=31556758) - [Solving Problems with Decomposition](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/)
@@ -8,9 +10,7 @@
 * [2022-05-30, 07:13:36](https://news.ycombinator.com/item?id=31556271) - [ORNL’s Frontier First (listed system) to Break the Exaflop Ceiling](https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/)
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
-* [2022-05-30, 06:16:18](https://news.ycombinator.com/item?id=31555938) - [Big money, nuclear subsidies, and systemic corruption (2021)](https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/)
 * [2022-05-30, 06:10:59](https://news.ycombinator.com/item?id=31555911) - [Smart-home-control with touch-screens from the late 80ies](https://www.unitysystemshomemanager.com/)
-* [2022-05-30, 05:43:12](https://news.ycombinator.com/item?id=31555787) - [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [2022-05-30, 03:13:25](https://news.ycombinator.com/item?id=31555145) - [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
