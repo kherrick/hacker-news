@@ -27,6 +27,7 @@
 * [2022-05-28, 17:00:36](https://news.ycombinator.com/item?id=31541880) - [QuestDB (YC S20) Is Hiring Python and Cloud Engineers](https://questdb.io/careers)
 * [2022-05-28, 16:58:34](https://news.ycombinator.com/item?id=31541858) - [Ampere Announces 5nm Arm Server CPU AmpereOne](https://www.servethehome.com/ampere-announces-5nm-arm-server-cpu-ampereone/)
 * [2022-05-28, 16:45:11](https://news.ycombinator.com/item?id=31541747) - [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
+* [2022-05-28, 16:39:18](https://news.ycombinator.com/item?id=31541687) - [What It's Like to See Sound [video]](https://www.youtube.com/watch?v=OGvy0sJfSMo)
 * [2022-05-28, 16:32:30](https://news.ycombinator.com/item?id=31541636) - [Le Paper Globe – a DIY paper terrestrial globe (2012)](http://joachimesque.com/globe/index.html.en)
 * [2022-05-28, 16:15:07](https://news.ycombinator.com/item?id=31541477) - [Translating math into code with examples in Java, Racket, Haskell, Python (2011)](https://matt.might.net/articles/discrete-math-and-code/)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)

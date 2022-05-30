@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 15:53:21](https://news.ycombinator.com/item?id=31560298) - [What caused the hallucinations of the Oracle of Delphi?](https://dynomight.net/delphi/)
+* [2022-05-30, 15:37:26](https://news.ycombinator.com/item?id=31560135) - [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
+* [2022-05-30, 15:27:26](https://news.ycombinator.com/item?id=31560028) - [Aerosol particle emission increases exponentially above moderate exercise](https://www.pnas.org/doi/full/10.1073/pnas.2202521119)
 * [2022-05-30, 15:16:32](https://news.ycombinator.com/item?id=31559920) - [Programming in the Apocalypse](https://matduggan.com/programming-in-the/)
 * [2022-05-30, 15:07:10](https://news.ycombinator.com/item?id=31559818) - [A vision of a multi-threaded Emacs](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
 * [2022-05-30, 14:52:20](https://news.ycombinator.com/item?id=31559631) - [Got screwed by Heroku Review Apps? We've got an alternative](https://livecycle.io/blogs/alternative-to-heroku-review-apps/)
