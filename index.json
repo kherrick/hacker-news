@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-05-30, 14:42:13",
-      "https://news.ycombinator.com/item?id=31559507"
+      "2022-05-30, 15:16:32",
+      "https://news.ycombinator.com/item?id=31559920"
     ],
     [
-      "3D Print Glass with a Laser Cutter",
-      "https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/"
+      "Programming in the Apocalypse",
+      "https://matduggan.com/programming-in-the/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 15:07:10",
+      "https://news.ycombinator.com/item?id=31559818"
+    ],
+    [
+      "A vision of a multi-threaded Emacs",
+      "https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:52:20",
+      "https://news.ycombinator.com/item?id=31559631"
+    ],
+    [
+      "Got screwed by Heroku Review Apps? We've got an alternative",
+      "https://livecycle.io/blogs/alternative-to-heroku-review-apps/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31559117"
     ],
     [
-      "Hack a Satellite",
+      "Hack a satellite (2020)",
       "https://hackasat.com/"
     ]
   ],
@@ -101,32 +121,22 @@
   ],
   [
     [
+      "2022-05-30, 13:46:13",
+      "https://news.ycombinator.com/item?id=31558887"
+    ],
+    [
+      "Choose Boring Technology (2015)",
+      "https://boringtechnology.club/"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 13:45:16",
       "https://news.ycombinator.com/item?id=31558875"
     ],
     [
       "California Right to Repair Bill Dies in Senate Committee",
       "https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 13:36:21",
-      "https://news.ycombinator.com/item?id=31558796"
-    ],
-    [
-      "Retrofitting Temporal Memory Safety on C++",
-      "https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 13:32:47",
-      "https://news.ycombinator.com/item?id=31558766"
-    ],
-    [
-      "Show HN: I built a cyberdeck just for fun",
-      "https://hackaday.io/project/183892-cyberdeck1"
     ]
   ],
   [
@@ -161,21 +171,11 @@
   ],
   [
     [
-      "2022-05-30, 12:59:31",
-      "https://news.ycombinator.com/item?id=31558504"
-    ],
-    [
-      "Climate Spiral [video]",
-      "https://svs.gsfc.nasa.gov/4975"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 10:25:20",
       "https://news.ycombinator.com/item?id=31557430"
     ],
     [
-      "A Decade of Dotfiles",
+      "A decade of dotfiles",
       "https://evanhahn.com/a-decade-of-dotfiles/"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-05-30, 07:54:36",
-      "https://news.ycombinator.com/item?id=31556522"
-    ],
-    [
-      "Flask Mega-Tutorial (2017)",
-      "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 06:51:14",
       "https://news.ycombinator.com/item?id=31556130"
     ],
@@ -287,6 +277,16 @@
     [
       "South America’s unknown ancient path",
       "https://www.bbc.com/travel/article/20220525-south-americas-unknown-ancient-path"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 05:33:57",
+      "https://news.ycombinator.com/item?id=31546684"
+    ],
+    [
+      "Stature variation suggests relatively reduced health for early European farmers",
+      "https://www.pnas.org/doi/10.1073/pnas.2106743119"
     ]
   ],
   [
