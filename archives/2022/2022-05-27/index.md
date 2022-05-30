@@ -11,6 +11,7 @@
 * [2022-05-27, 23:16:40](https://news.ycombinator.com/item?id=31536019) - [Flexible generation of hour long videos with diffusion models](https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/)
 * [2022-05-27, 22:49:46](https://news.ycombinator.com/item?id=31535831) - [How Slavery Thrived in Renaissance Europe](https://www.historyextra.com/period/medieval/renaissance-medieval-slave-trade-human-stories-europe-africa/)
 * [2022-05-27, 21:30:06](https://news.ycombinator.com/item?id=31535158) - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+* [2022-05-27, 21:27:37](https://news.ycombinator.com/item?id=31535139) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
 * [2022-05-27, 21:19:44](https://news.ycombinator.com/item?id=31535053) - [Wikipedia Haiku](https://botsin.space/@wikipediahaiku)
 * [2022-05-27, 21:17:38](https://news.ycombinator.com/item?id=31535034) - [Rocket.Chat Leverages the Matrix Protocol for Interoperable Communications](https://rocket.chat/press-releases/rocket-chat-leverages-matrix-protocol-for-decentralized-and-interoperable-communications)
 * [2022-05-27, 21:13:52](https://news.ycombinator.com/item?id=31534988) - [Tell HN: My early access eBook over iOS made $120k in 1 year](https://news.ycombinator.com/item?id=31534988)
