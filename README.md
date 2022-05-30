@@ -21,7 +21,6 @@
 * [2022-05-30, 14:08:40](https://news.ycombinator.com/item?id=31559118) - [Embracing Modern C++ Safely, Book Review](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 * [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a satellite](https://hackasat.com/)
 * [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
-* [2022-05-30, 13:45:16](https://news.ycombinator.com/item?id=31558875) - [California Right to Repair Bill Dies in Senate Committee](https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee)
 * [2022-05-30, 13:01:49](https://news.ycombinator.com/item?id=31558525) - [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
@@ -29,6 +28,7 @@
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
 * [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
+* [2022-05-29, 12:01:20](https://news.ycombinator.com/item?id=31548445) - [How Brian Eno composed the Windows 95 startup sound (2021)](https://theindustryobserver.thebrag.com/the-odd-story-of-how-brian-eno-composed-the-windows-95-startup-sound/)
 * [2022-05-29, 11:39:13](https://news.ycombinator.com/item?id=31548311) - [Easy 6502 by Skilldrick](http://skilldrick.github.io/easy6502/)
 
 ## [Archives](archives/index.md)
