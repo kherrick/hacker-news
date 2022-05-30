@@ -6,7 +6,6 @@
 * [2022-05-30, 17:33:22](https://news.ycombinator.com/item?id=31561409) - [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
 * [2022-05-30, 17:27:23](https://news.ycombinator.com/item?id=31561338) - [Intelligent Reflecting Surfaces prevented 95% of wifi attacks](https://www.mpg.de/18700996/internet-of-thinges-intelligent-reflecting-surface)
 * [2022-05-30, 17:16:38](https://news.ycombinator.com/item?id=31561197) - [Producing Open Source Software (2020)](https://producingoss.com/)
-* [2022-05-30, 16:55:59](https://news.ycombinator.com/item?id=31560961) - [Loot Boxes in Video Games](https://commonslibrary.parliament.uk/research-briefings/cbp-8498/)
 * [2022-05-30, 16:46:04](https://news.ycombinator.com/item?id=31560844) - [House Bill Funds CHIPS Act, Stresses R&D](https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/)
 * [2022-05-30, 16:31:46](https://news.ycombinator.com/item?id=31560692) - [Profiles of people living in homeless encampments, rarely what you’d expect](https://www.latimes.com/opinion/story/2022-05-29/venice-library-homeless-encampment-interviews)
 * [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
@@ -28,6 +27,7 @@
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
+* [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [The Genius of Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-29, 11:39:13](https://news.ycombinator.com/item?id=31548311) - [Easy 6502 by Skilldrick](http://skilldrick.github.io/easy6502/)
 
