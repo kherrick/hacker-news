@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-05-30, 11:41:03",
-      "https://news.ycombinator.com/item?id=31557959"
+      "2022-05-30, 13:03:07",
+      "https://news.ycombinator.com/item?id=31558533"
     ],
     [
-      "Ask HN: Can you imagine a world where anybody could do any job?",
-      "https://news.ycombinator.com/item?id=31557959"
+      "AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale",
+      "https://news.ycombinator.com/item?id=31558533"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 13:01:49",
+      "https://news.ycombinator.com/item?id=31558525"
+    ],
+    [
+      "Hacking Detergent DRM for 98% Cost Saving",
+      "https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2022-05-30, 09:10:08",
-      "https://news.ycombinator.com/item?id=31556989"
-    ],
-    [
-      "DuckDuckGo faces controversy over tracking agreement with Microsoft",
-      "https://metro.co.uk/2022/05/27/private-browser-duckduckgo-found-to-actually-be-tracking-users-16722038/"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 09:05:43",
       "https://news.ycombinator.com/item?id=31556961"
     ],
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-05-30, 07:01:06",
-      "https://news.ycombinator.com/item?id=31556209"
-    ],
-    [
-      "Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)",
-      "https://raycast.com/jobs/developer-advocate/"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 06:51:14",
       "https://news.ycombinator.com/item?id=31556130"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31555911"
     ],
     [
-      "Smart-home-control with touch-screens from the late 80ies",
+      "Unity Systems Home Manager Support",
       "https://www.unitysystemshomemanager.com/"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Algorithmic stablecoins are provably impossible without continuous funding",
       "https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 21:49:07",
+      "https://news.ycombinator.com/item?id=31553220"
+    ],
+    [
+      "The rise and fall of Cathie Wood, controversial Wall Street investor",
+      "https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html"
     ]
   ],
   [
@@ -256,7 +256,7 @@
     ],
     [
       "Technical Dimensions of Programming Systems [pdf]",
-      "https://raw.githubusercontent.com/jdjakub/papers/master/prog-2022/prog22-master.pdf"
+      "https://github.com/jdjakub/papers/blob/master/prog-2022/prog22-master.pdf"
     ]
   ],
   [
