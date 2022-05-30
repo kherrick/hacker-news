@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 14:37:16](https://news.ycombinator.com/item?id=31559431) - [A mechanism by which facemasks contribute to the Covid-19 case fatality rate](https://journals.lww.com/md-journal/fulltext/2022/02180/the_foegen_effect__a_mechanism_by_which_facemasks.60.aspx)
+* [2022-05-30, 14:25:54](https://news.ycombinator.com/item?id=31559306) - [Using Verizon's API to get a number with 4 consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
 * [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a Satellite](https://hackasat.com/)
 * [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
 * [2022-05-30, 13:54:11](https://news.ycombinator.com/item?id=31558970) - [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)

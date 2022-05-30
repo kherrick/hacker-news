@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 14:37:16](https://news.ycombinator.com/item?id=31559431) - [A mechanism by which facemasks contribute to the Covid-19 case fatality rate](https://journals.lww.com/md-journal/fulltext/2022/02180/the_foegen_effect__a_mechanism_by_which_facemasks.60.aspx)
+* [2022-05-30, 14:25:54](https://news.ycombinator.com/item?id=31559306) - [Using Verizon's API to get a number with 4 consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
 * [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a Satellite](https://hackasat.com/)
 * [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
 * [2022-05-30, 13:54:11](https://news.ycombinator.com/item?id=31558970) - [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)
@@ -24,12 +26,10 @@
 * [2022-05-30, 06:10:59](https://news.ycombinator.com/item?id=31555911) - [Unity Systems Home Manager Support](https://www.unitysystemshomemanager.com/)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-29, 15:28:24](https://news.ycombinator.com/item?id=31549890) - [South America’s unknown ancient path](https://www.bbc.com/travel/article/20220525-south-americas-unknown-ancient-path)
-* [2022-05-29, 05:50:04](https://news.ycombinator.com/item?id=31546766) - [Philosophy’s Gentle Giant](https://www.newstatesman.com/ideas/2022/05/philosophys-gentle-giant)
 * [2022-05-29, 00:52:10](https://news.ycombinator.com/item?id=31545186) - [Sorcerer’s Apprentice: Looking for demons in a disenchanted world](https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/)
 * [2022-05-28, 20:11:32](https://news.ycombinator.com/item?id=31543354) - [The Underground Library](https://www.historytoday.com/archive/history-matters/underground-library)
 * [2022-05-28, 15:37:30](https://news.ycombinator.com/item?id=31541145) - [Why smartwatch-measured blood pressure still isn’t ‘ready for primetime’ (2021)](https://www.theverge.com/2021/9/16/22677381/smartwatch-blood-pressure-samsung-fitbit-apple)
 * [2022-05-28, 04:38:14](https://news.ycombinator.com/item?id=31537648) - [Conway's Game of Life in APL in Forth](https://github.com/chmykh/apl-life)
-* [2022-05-27, 17:04:07](https://news.ycombinator.com/item?id=31531954) - [How to stop a robot vacuum from getting stuck on the laundry rack](https://www.ctrl.blog/entry/robot-vacuum-drying-rack.html)
 
 ## [Archives](archives/index.md)
 
