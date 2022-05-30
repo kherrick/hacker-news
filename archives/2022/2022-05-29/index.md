@@ -48,6 +48,7 @@
 * [2022-05-29, 13:04:33](https://news.ycombinator.com/item?id=31548829) - [Building My First Home Storage Server with 22 TB of Capacity](https://mtlynch.io/budget-nas/)
 * [2022-05-29, 11:43:23](https://news.ycombinator.com/item?id=31548344) - [The full saga of Apple’s troubled mixed reality headset has been revealed](https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/)
 * [2022-05-29, 11:42:34](https://news.ycombinator.com/item?id=31548338) - [Liberty Lifter Aims to Revolutionize Heavy Air Lift](https://www.darpa.mil/news-events/2022-05-18)
+* [2022-05-29, 11:39:13](https://news.ycombinator.com/item?id=31548311) - [Easy 6502 by Skilldrick](http://skilldrick.github.io/easy6502/)
 * [2022-05-29, 11:33:26](https://news.ycombinator.com/item?id=31548281) - [Food Security and the Coming Storm](https://www.eurasiagroup.net/live-post/food-security)
 * [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic LCD Tiles for Settlers of Catan](https://coliniuliano.ca/projects/catan-tiles/)
 * [2022-05-29, 11:21:01](https://news.ycombinator.com/item?id=31548234) - [New Study Finds Significant Amount of HFO Degradation Product in Drinking Water](https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/)
