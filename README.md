@@ -16,7 +16,7 @@
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 18:01:07](https://news.ycombinator.com/item?id=31551221) - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
-* [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
+* [2022-05-29, 17:25:55](https://news.ycombinator.com/item?id=31550900) - [Make Your Own Chips for Free](https://efabless.com/open_shuttle_program)
 * [2022-05-29, 14:57:50](https://news.ycombinator.com/item?id=31549631) - [Pixar's notes on Rigid Body Simulation (2001) [pdf]](https://graphics.pixar.com/pbm2001/pdf/notesg.pdf)
 * [2022-05-29, 14:08:24](https://news.ycombinator.com/item?id=31549238) - [Setting up a Pi Hole made my home network faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
