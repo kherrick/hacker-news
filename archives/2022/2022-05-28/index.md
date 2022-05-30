@@ -65,6 +65,7 @@
 * [2022-05-28, 09:55:24](https://news.ycombinator.com/item?id=31539017) - [The Weight I Carry (2019)](https://www.theatlantic.com/health/archive/2019/01/weight-loss-essay-tomlinson/579832/)
 * [2022-05-28, 09:42:24](https://news.ycombinator.com/item?id=31538960) - [A Cryptocurrency Comic – PeerTangle the So-Called Crypto Wizard](https://peertangle.com/portfolio/004-the-so-called-crypto-wizard/)
 * [2022-05-28, 09:25:47](https://news.ycombinator.com/item?id=31538883) - [Technical Dimensions of Programming Systems [pdf]](https://raw.githubusercontent.com/jdjakub/papers/master/prog-2022/prog22-master.pdf)
+* [2022-05-28, 09:25:47](https://news.ycombinator.com/item?id=31538883) - [Technical Dimensions of Programming Systems [pdf]](https://github.com/jdjakub/papers/blob/master/prog-2022/prog22-master.pdf)
 * [2022-05-28, 09:23:30](https://news.ycombinator.com/item?id=31538874) - [Low-code online store builder](https://selldone.com)
 * [2022-05-28, 09:21:07](https://news.ycombinator.com/item?id=31538866) - [Werner Herzog eats his shoe](https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe)
 * [2022-05-28, 09:06:09](https://news.ycombinator.com/item?id=31538800) - [A declarative desktop UI framework for Rust built on GTK and GTK-rs](https://github.com/bodil/vgtk)
