@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-05-30, 14:08:38",
+      "https://news.ycombinator.com/item?id=31559117"
+    ],
+    [
+      "Hack a Satellite",
+      "https://hackasat.com/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:03:35",
+      "https://news.ycombinator.com/item?id=31559065"
+    ],
+    [
+      "Enter a command to see help text for each arg",
+      "https://explainshell.com/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 13:54:11",
+      "https://news.ycombinator.com/item?id=31558970"
+    ],
+    [
+      "Viruses that were on hiatus during Covid are back, behaving in unexpected ways",
+      "https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 13:46:19",
+      "https://news.ycombinator.com/item?id=31558890"
+    ],
+    [
+      "The Software Industry Is Still the Problem",
+      "https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 13:46:13",
+      "https://news.ycombinator.com/item?id=31558887"
+    ],
+    [
+      "Choose Boring Technology (2015)",
+      "https://boringtechnology.club/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 13:45:16",
+      "https://news.ycombinator.com/item?id=31558875"
+    ],
+    [
+      "California Right to Repair Bill Dies in Senate Committee",
+      "https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 13:32:47",
       "https://news.ycombinator.com/item?id=31558766"
     ],
     [
       "Show HN: I built a cyberdeck just for fun",
       "https://hackaday.io/project/183892-cyberdeck1"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 13:29:36",
-      "https://news.ycombinator.com/item?id=31558745"
-    ],
-    [
-      "Ask HN: What video games do you play during the day?",
-      "https://news.ycombinator.com/item?id=31558745"
     ]
   ],
   [
@@ -55,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31558504"
     ],
     [
-      "Climate Spiral",
+      "Climate Spiral [video]",
       "https://svs.gsfc.nasa.gov/4975"
     ]
   ],
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2022-05-30, 09:31:11",
-      "https://news.ycombinator.com/item?id=31557105"
-    ],
-    [
-      "Scaleway price 'harmonization' (mostly increases)",
-      "https://news.ycombinator.com/item?id=31557105"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 09:05:43",
       "https://news.ycombinator.com/item?id=31556961"
     ],
@@ -147,16 +187,6 @@
     [
       "Flask Mega-Tutorial (2017)",
       "https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 07:13:36",
-      "https://news.ycombinator.com/item?id=31556271"
-    ],
-    [
-      "ORNL’s Frontier breaks the exaflop ceiling",
-      "https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/"
     ]
   ],
   [
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2022-05-30, 04:00:14",
-      "https://news.ycombinator.com/item?id=31555347"
+      "2022-05-29, 15:28:24",
+      "https://news.ycombinator.com/item?id=31549890"
     ],
     [
-      "Goodbye PNaCl, Hello WebAssembly (2017)",
-      "https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-29, 19:05:40",
-      "https://news.ycombinator.com/item?id=31551854"
-    ],
-    [
-      "In praise of the humble Sheffield stand",
-      "https://twitter.com/BrixtonHatter/status/1493299809574342659"
+      "South America’s unknown ancient path",
+      "https://www.bbc.com/travel/article/20220525-south-americas-unknown-ancient-path"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-05-28, 13:14:29",
-      "https://news.ycombinator.com/item?id=31540091"
-    ],
-    [
-      "Chaos: The Problem with Quantum Mechanics",
-      "http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 04:38:14",
       "https://news.ycombinator.com/item?id=31537648"
     ],
     [
       "Conway's Game of Life in APL in Forth",
       "https://github.com/chmykh/apl-life"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 21:27:37",
-      "https://news.ycombinator.com/item?id=31535139"
-    ],
-    [
-      "Sage and a glimpse of group computing from before the PC",
-      "https://interconnected.org/home/2021/12/21/sage"
     ]
   ],
   [
