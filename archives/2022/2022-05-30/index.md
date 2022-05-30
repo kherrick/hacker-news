@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 13:32:47](https://news.ycombinator.com/item?id=31558766) - [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
+* [2022-05-30, 13:29:36](https://news.ycombinator.com/item?id=31558745) - [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
 * [2022-05-30, 13:03:07](https://news.ycombinator.com/item?id=31558533) - [AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
+* [2022-05-30, 13:02:25](https://news.ycombinator.com/item?id=31558530) - [Alexa, why have you charged me £2 to say the Hail Mary?](https://www.theguardian.com/money/2022/may/28/alexa-daily-prayers-voice-command-amazon-subscription)
 * [2022-05-30, 13:01:49](https://news.ycombinator.com/item?id=31558525) - [Hacking Detergent DRM for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
+* [2022-05-30, 12:59:31](https://news.ycombinator.com/item?id=31558504) - [Climate Spiral](https://svs.gsfc.nasa.gov/4975)
 * [2022-05-30, 11:41:03](https://news.ycombinator.com/item?id=31557959) - [Ask HN: Can you imagine a world where anybody could do any job?](https://news.ycombinator.com/item?id=31557959)
 * [2022-05-30, 11:33:30](https://news.ycombinator.com/item?id=31557907) - [We Got Covid Shots in One Year. Why Did a Malaria Vaccine Take 35?](https://undark.org/2022/05/25/it-took-35-years-to-get-a-malaria-vaccine-why/)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
