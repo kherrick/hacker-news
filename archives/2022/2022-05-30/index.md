@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 11:33:30](https://news.ycombinator.com/item?id=31557907) - [We Got Covid Shots in One Year. Why Did a Malaria Vaccine Take 35?](https://undark.org/2022/05/25/it-took-35-years-to-get-a-malaria-vaccine-why/)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 10:17:11](https://news.ycombinator.com/item?id=31557361) - [Grothendieck's Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
