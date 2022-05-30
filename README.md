@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-30, 03:37:47](https://news.ycombinator.com/item?id=31555252) - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone?](https://news.ycombinator.com/item?id=31555252)
+* [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [2022-05-30, 03:13:25](https://news.ycombinator.com/item?id=31555145) - [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
 * [2022-05-30, 03:07:29](https://news.ycombinator.com/item?id=31555125) - [Really Prolific?](https://www.medo64.com/2022/05/really-prolific/)
 * [2022-05-29, 22:58:08](https://news.ycombinator.com/item?id=31553704) - [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
@@ -24,7 +24,7 @@
 * [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and octopus genome studies reveal how cephalopods’ unique traits evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)
 * [2022-05-28, 15:38:36](https://news.ycombinator.com/item?id=31541154) - [The ups and downs of automated code checking software](https://constructionphysics.substack.com/p/the-ups-and-downs-of-automated-code)
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
-* [2022-05-28, 08:42:16](https://news.ycombinator.com/item?id=31538693) - [The real story of Pinocchio](https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/)
+* [2022-05-28, 09:25:47](https://news.ycombinator.com/item?id=31538883) - [Technical Dimensions of Programming Systems [pdf]](https://raw.githubusercontent.com/jdjakub/papers/master/prog-2022/prog22-master.pdf)
 * [2022-05-28, 07:04:20](https://news.ycombinator.com/item?id=31538224) - [Cricket is changing for many reasons, one of which is AI](https://fiftytwo.in/paradigm-shift/out-of-the-park/)
 * [2022-05-28, 04:53:59](https://news.ycombinator.com/item?id=31537709) - [Rather Break Than Bend](https://www.lrb.co.uk/the-paper/v44/n10/clare-jackson/rather-break-than-bend)
 * [2022-05-27, 17:04:07](https://news.ycombinator.com/item?id=31531954) - [How to stop a robot vacuum from getting stuck on the laundry rack](https://www.ctrl.blog/entry/robot-vacuum-drying-rack.html)
