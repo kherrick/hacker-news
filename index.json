@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-30, 13:32:47",
+      "https://news.ycombinator.com/item?id=31558766"
+    ],
+    [
+      "Show HN: I built a cyberdeck just for fun",
+      "https://hackaday.io/project/183892-cyberdeck1"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 13:29:36",
+      "https://news.ycombinator.com/item?id=31558745"
+    ],
+    [
+      "Ask HN: What video games do you play during the day?",
+      "https://news.ycombinator.com/item?id=31558745"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 13:03:07",
       "https://news.ycombinator.com/item?id=31558533"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2022-05-30, 13:02:25",
+      "https://news.ycombinator.com/item?id=31558530"
+    ],
+    [
+      "Alexa, why have you charged me £2 to say the Hail Mary?",
+      "https://www.theguardian.com/money/2022/may/28/alexa-daily-prayers-voice-command-amazon-subscription"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 13:01:49",
       "https://news.ycombinator.com/item?id=31558525"
     ],
     [
       "Hacking Detergent DRM for 98% Cost Saving",
       "https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 12:59:31",
+      "https://news.ycombinator.com/item?id=31558504"
+    ],
+    [
+      "Climate Spiral",
+      "https://svs.gsfc.nasa.gov/4975"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2022-05-30, 09:31:11",
-      "https://news.ycombinator.com/item?id=31557105"
-    ],
-    [
-      "Scaleway price 'harmonization' (mostly increases)",
-      "https://news.ycombinator.com/item?id=31557105"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 09:05:43",
       "https://news.ycombinator.com/item?id=31556961"
     ],
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31556271"
     ],
     [
-      "ORNL’s Frontier First (listed system) to Break the Exaflop Ceiling",
+      "ORNL’s Frontier breaks the exaflop ceiling",
       "https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/"
     ]
   ],
@@ -127,6 +157,16 @@
     [
       "How to Store an SSH Key on a Yubikey",
       "https://xeiaso.net/blog/yubikey-ssh-key-storage"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 06:16:18",
+      "https://news.ycombinator.com/item?id=31555938"
+    ],
+    [
+      "Big money, nuclear subsidies, and systemic corruption (2021)",
+      "https://thebulletin.org/2021/02/big-money-nuclear-subsidies-and-systemic-corruption/"
     ]
   ],
   [
@@ -161,42 +201,12 @@
   ],
   [
     [
-      "2022-05-30, 03:13:25",
-      "https://news.ycombinator.com/item?id=31555145"
-    ],
-    [
-      "Implementing gradient explanations for a HuggingFace text classification model",
-      "https://victordibia.com/blog/explain-bert-classification/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 01:50:48",
-      "https://news.ycombinator.com/item?id=31554753"
-    ],
-    [
-      "Adminer: Database management in a single PHP file",
-      "https://github.com/vrana/adminer"
-    ]
-  ],
-  [
-    [
       "2022-05-29, 22:58:08",
       "https://news.ycombinator.com/item?id=31553704"
     ],
     [
       "Algorithmic stablecoins are provably impossible without continuous funding",
       "https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably"
-    ]
-  ],
-  [
-    [
-      "2022-05-29, 21:49:07",
-      "https://news.ycombinator.com/item?id=31553220"
-    ],
-    [
-      "The rise and fall of Cathie Wood, controversial Wall Street investor",
-      "https://nymag.com/intelligencer/2022/05/the-rise-and-fall-of-cathie-wood.html"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2022-05-28, 20:11:32",
+      "https://news.ycombinator.com/item?id=31543354"
+    ],
+    [
+      "The Underground Library",
+      "https://www.historytoday.com/archive/history-matters/underground-library"
+    ]
+  ],
+  [
+    [
       "2022-05-28, 15:37:30",
       "https://news.ycombinator.com/item?id=31541145"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-05-28, 09:25:47",
-      "https://news.ycombinator.com/item?id=31538883"
-    ],
-    [
-      "Technical Dimensions of Programming Systems [pdf]",
-      "https://github.com/jdjakub/papers/blob/master/prog-2022/prog22-master.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-28, 04:38:14",
       "https://news.ycombinator.com/item?id=31537648"
     ],
     [
       "Conway's Game of Life in APL in Forth",
       "https://github.com/chmykh/apl-life"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 21:27:37",
-      "https://news.ycombinator.com/item?id=31535139"
-    ],
-    [
-      "Sage and a glimpse of group computing from before the PC",
-      "https://interconnected.org/home/2021/12/21/sage"
     ]
   ],
   [
