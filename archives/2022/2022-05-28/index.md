@@ -79,6 +79,7 @@
 * [2022-05-28, 06:41:13](https://news.ycombinator.com/item?id=31538123) - [Ariel Ekblaw on building beautiful architecture in space](https://news.mit.edu/2022/ariel-ekblaw-architecture-space-0511)
 * [2022-05-28, 06:39:12](https://news.ycombinator.com/item?id=31538111) - [Metron C++ to Verilog Translator Tutorial](https://aappleby.github.io/Metron/tutorial/)
 * [2022-05-28, 05:37:52](https://news.ycombinator.com/item?id=31537883) - [Compute Express Link Overview](https://bwidawsk.net/blog/2022/6/compute-express-link-intro/)
+* [2022-05-28, 04:53:59](https://news.ycombinator.com/item?id=31537709) - [Rather Break Than Bend](https://www.lrb.co.uk/the-paper/v44/n10/clare-jackson/rather-break-than-bend)
 * [2022-05-28, 04:52:35](https://news.ycombinator.com/item?id=31537702) - [What Was the Wiretap?](https://www.thenation.com/article/culture/the-listeners-wiretap-history-review/)
 * [2022-05-28, 04:39:46](https://news.ycombinator.com/item?id=31537655) - [Why I Write Dirty Code: Code Quality in Context](https://www.adamtornhill.com/articles/code-quality-in-context/why-i-write-dirty-code.html)
 * [2022-05-28, 04:15:53](https://news.ycombinator.com/item?id=31537567) - [Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game/)
