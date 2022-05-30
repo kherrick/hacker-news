@@ -68,6 +68,7 @@
 * [2022-05-29, 03:41:13](https://news.ycombinator.com/item?id=31546182) - [His Name Was Seth Smith](https://karlstack.substack.com/p/his-name-was-seth-smith)
 * [2022-05-29, 01:29:31](https://news.ycombinator.com/item?id=31545399) - [Understanding Bloom Filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
 * [2022-05-29, 01:16:54](https://news.ycombinator.com/item?id=31545324) - [The Reason You See Earthworms After Rain](https://blog.nature.org/science/2019/04/15/the-real-reason-you-see-earthworms-after-rain/)
+* [2022-05-29, 00:52:10](https://news.ycombinator.com/item?id=31545186) - [Sorcerer’s Apprentice: Looking for demons in a disenchanted world](https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/)
 * [2022-05-29, 00:48:14](https://news.ycombinator.com/item?id=31545168) - [Debugging a Mysterious Python Crash](https://blog.dend.ro/a-mysterous-python-crash/)
 * [2022-05-29, 00:42:28](https://news.ycombinator.com/item?id=31545142) - [I'm retiring from the engineering profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
 * [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and Octopus Genome Studies Reveal How Cephalopods’ Unique Traits Evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-30, 11:33:30](https://news.ycombinator.com/item?id=31557907) - [We Got Covid Shots in One Year. Why Did a Malaria Vaccine Take 35?](https://undark.org/2022/05/25/it-took-35-years-to-get-a-malaria-vaccine-why/)
+* [2022-05-30, 11:41:03](https://news.ycombinator.com/item?id=31557959) - [Ask HN: Can you imagine a world where anybody could do any job?](https://news.ycombinator.com/item?id=31557959)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 10:17:11](https://news.ycombinator.com/item?id=31557361) - [Grothendieck's Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising (2021) [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
@@ -15,7 +15,6 @@
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:10:59](https://news.ycombinator.com/item?id=31555911) - [Smart-home-control with touch-screens from the late 80ies](https://www.unitysystemshomemanager.com/)
-* [2022-05-30, 05:14:18](https://news.ycombinator.com/item?id=31555680) - [Accused of Cheating by an Algorithm, and a Professor She Had Never Met](https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [2022-05-30, 03:13:25](https://news.ycombinator.com/item?id=31555145) - [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
@@ -23,6 +22,7 @@
 * [2022-05-29, 22:58:08](https://news.ycombinator.com/item?id=31553704) - [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
 * [2022-05-29, 05:50:04](https://news.ycombinator.com/item?id=31546766) - [Philosophy’s Gentle Giant](https://www.newstatesman.com/ideas/2022/05/philosophys-gentle-giant)
+* [2022-05-29, 00:52:10](https://news.ycombinator.com/item?id=31545186) - [Sorcerer’s Apprentice: Looking for demons in a disenchanted world](https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/)
 * [2022-05-28, 15:37:30](https://news.ycombinator.com/item?id=31541145) - [Why smartwatch-measured blood pressure still isn’t ‘ready for primetime’ (2021)](https://www.theverge.com/2021/9/16/22677381/smartwatch-blood-pressure-samsung-fitbit-apple)
 * [2022-05-28, 13:14:29](https://news.ycombinator.com/item?id=31540091) - [Chaos: The Problem with Quantum Mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 09:25:47](https://news.ycombinator.com/item?id=31538883) - [Technical Dimensions of Programming Systems [pdf]](https://raw.githubusercontent.com/jdjakub/papers/master/prog-2022/prog22-master.pdf)
