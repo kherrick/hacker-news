@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-30, 14:42:13",
+      "https://news.ycombinator.com/item?id=31559507"
+    ],
+    [
+      "3D Print Glass with a Laser Cutter",
+      "https://hackaday.com/2022/05/28/3d-print-glass-with-a-laser-cutter/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:33:09",
+      "https://news.ycombinator.com/item?id=31559388"
+    ],
+    [
+      "Shennat dissertation: Dimensional analysis of Lucid programs",
+      "https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 14:25:54",
       "https://news.ycombinator.com/item?id=31559306"
     ],
@@ -77,16 +97,6 @@
     [
       "The Software Industry Is Still the Problem",
       "https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 13:46:13",
-      "https://news.ycombinator.com/item?id=31558887"
-    ],
-    [
-      "Choose Boring Technology (2015)",
-      "https://boringtechnology.club/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sorcerer’s Apprentice: Looking for demons in a disenchanted world",
       "https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 04:38:14",
-      "https://news.ycombinator.com/item?id=31537648"
-    ],
-    [
-      "Conway's Game of Life in APL in Forth",
-      "https://github.com/chmykh/apl-life"
     ]
   ]
 ]
