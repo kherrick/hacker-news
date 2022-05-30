@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-05-30, 10:17:11",
-      "https://news.ycombinator.com/item?id=31557361"
-    ],
-    [
-      "Grothendieck's Approach to Equality [pdf]",
-      "https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 09:48:41",
       "https://news.ycombinator.com/item?id=31557206"
     ],
@@ -287,6 +277,16 @@
     [
       "Video2StyleGAN: Disentangling Local and Global Variations in a Video",
       "https://arxiv.org/abs/2205.13996"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 21:10:57",
+      "https://news.ycombinator.com/item?id=31552903"
+    ],
+    [
+      "Decompiling stack strings in Ghidra with emulation",
+      "https://saml98.github.io/jekyll/update/2022/05/23/ghidra-stack-strings-emulation.html"
     ]
   ],
   [
