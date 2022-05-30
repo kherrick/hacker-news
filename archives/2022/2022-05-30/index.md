@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 16:46:04](https://news.ycombinator.com/item?id=31560844) - [House Bill Funds Chips Act – Stresses R&D](https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/)
+* [2022-05-30, 16:19:11](https://news.ycombinator.com/item?id=31560552) - [Schools Should Be Using Open Source Software](https://tdarb.org/posts/schools.txt)
+* [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
+* [2022-05-30, 15:53:58](https://news.ycombinator.com/item?id=31560307) - [“When systems require novel accounting methods the reason is usually fraud”](https://twitter.com/br4s1d4s/status/1531135288428199936)
 * [2022-05-30, 15:53:21](https://news.ycombinator.com/item?id=31560298) - [What caused the hallucinations of the Oracle of Delphi?](https://dynomight.net/delphi/)
 * [2022-05-30, 15:37:26](https://news.ycombinator.com/item?id=31560135) - [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
 * [2022-05-30, 15:27:26](https://news.ycombinator.com/item?id=31560028) - [Aerosol particle emission increases exponentially above moderate exercise](https://www.pnas.org/doi/full/10.1073/pnas.2202521119)
