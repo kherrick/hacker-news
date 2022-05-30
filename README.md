@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-30, 08:35:10](https://news.ycombinator.com/item?id=31556774) - [The ‘Capital of Silicon Valley’ Is Ignoring Its Privacy Experts](https://www.vice.com/en/article/g5qzj3/the-capital-of-silicon-valley-is-ignoring-its-privacy-experts)
+* [2022-05-30, 08:33:30](https://news.ycombinator.com/item?id=31556758) - [Solving Problems with Decomposition](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/)
 * [2022-05-30, 07:54:36](https://news.ycombinator.com/item?id=31556522) - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [2022-05-30, 07:13:36](https://news.ycombinator.com/item?id=31556271) - [ORNL’s Frontier First (listed system) to Break the Exaflop Ceiling](https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/)
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
@@ -19,7 +20,6 @@
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 * [2022-05-29, 19:31:59](https://news.ycombinator.com/item?id=31552100) - [Home Assistant OS Release 8](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
-* [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 13:40:01](https://news.ycombinator.com/item?id=31549050) - [Why does this code execute more slowly after strength-reducing multiplications?](https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t)
 * [2022-05-29, 11:29:51](https://news.ycombinator.com/item?id=31548268) - [Electronic Catan LCD Tiles](https://coliniuliano.ca/projects/catan-tiles/)
 * [2022-05-29, 00:16:15](https://news.ycombinator.com/item?id=31545042) - [Squid and octopus genome studies reveal how cephalopods’ unique traits evolved](https://www.mbl.edu/news/squid-and-octopus-genome-studies-reveal-how-cephalopods-unique-traits-evolved)
