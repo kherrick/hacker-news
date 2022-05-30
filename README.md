@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 06:12:29](https://news.ycombinator.com/item?id=31555920) - [Show HN: Easily create How-to videos with AI](https://www.wowto.ai/)
 * [2022-05-30, 05:43:12](https://news.ycombinator.com/item?id=31555787) - [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
@@ -13,7 +14,6 @@
 * [2022-05-29, 19:58:37](https://news.ycombinator.com/item?id=31552349) - [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/)
 * [2022-05-29, 19:31:59](https://news.ycombinator.com/item?id=31552100) - [Home Assistant OS Release 8](https://www.home-assistant.io/blog/2022/05/16/home-assistant-os-release-8/)
 * [2022-05-29, 19:05:40](https://news.ycombinator.com/item?id=31551854) - [In praise of the humble Sheffield stand](https://twitter.com/BrixtonHatter/status/1493299809574342659)
-* [2022-05-29, 18:42:07](https://news.ycombinator.com/item?id=31551627) - [MEGA65 – Evolution, Part 1](https://devdef.blogspot.com/2022/05/mega65-evolution-part-1.html)
 * [2022-05-29, 18:05:09](https://news.ycombinator.com/item?id=31551262) - [Falsehoods Programmers Believe About Search (2019)](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/)
 * [2022-05-29, 17:41:06](https://news.ycombinator.com/item?id=31551037) - [Vanishing fore-edge paintings](https://www.foredgefrost.co.uk)
 * [2022-05-29, 15:18:20](https://news.ycombinator.com/item?id=31549797) - [Mini-review: The Clockwork Pi DevTerm R-01, or RISC-V on the go](https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html)
