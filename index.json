@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-05-30, 14:37:16",
-      "https://news.ycombinator.com/item?id=31559431"
-    ],
-    [
-      "A mechanism by which facemasks contribute to the Covid-19 case fatality rate",
-      "https://journals.lww.com/md-journal/fulltext/2022/02180/the_foegen_effect__a_mechanism_by_which_facemasks.60.aspx"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 14:25:54",
       "https://news.ycombinator.com/item?id=31559306"
     ],
     [
-      "Using Verizon's API to get a number with 4 consecutive digits",
+      "Getting a vanity phone number with four consecutive digits",
       "https://blog.jonlu.ca/posts/verizon-rare-numbers"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:25:19",
+      "https://news.ycombinator.com/item?id=31559297"
+    ],
+    [
+      "The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]",
+      "https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:22:15",
+      "https://news.ycombinator.com/item?id=31559270"
+    ],
+    [
+      "The Story of Heroku",
+      "https://leerob.io/blog/heroku"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:08:40",
+      "https://news.ycombinator.com/item?id=31559118"
+    ],
+    [
+      "Embracing Modern C++ Safely, Book Review",
+      "https://www.cppstories.com/2022/embracing-modern-cpp-book/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2022-05-30, 13:36:21",
+      "https://news.ycombinator.com/item?id=31558796"
+    ],
+    [
+      "Retrofitting Temporal Memory Safety on C++",
+      "https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 13:32:47",
       "https://news.ycombinator.com/item?id=31558766"
     ],
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31558525"
     ],
     [
-      "Hacking Detergent DRM for 98% Cost Saving",
+      "Bob Cassette Rewinder: Hacking Detergent DRM",
       "https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md"
     ]
   ],
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2022-05-30, 06:10:59",
-      "https://news.ycombinator.com/item?id=31555911"
-    ],
-    [
-      "Unity Systems Home Manager Support",
-      "https://www.unitysystemshomemanager.com/"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 05:00:27",
       "https://news.ycombinator.com/item?id=31555629"
     ],
@@ -267,26 +287,6 @@
     [
       "Sorcerer’s Apprentice: Looking for demons in a disenchanted world",
       "https://harpers.org/archive/2022/06/sorcerers-apprentice-looking-for-demons/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 20:11:32",
-      "https://news.ycombinator.com/item?id=31543354"
-    ],
-    [
-      "The Underground Library",
-      "https://www.historytoday.com/archive/history-matters/underground-library"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 15:37:30",
-      "https://news.ycombinator.com/item?id=31541145"
-    ],
-    [
-      "Why smartwatch-measured blood pressure still isn’t ‘ready for primetime’ (2021)",
-      "https://www.theverge.com/2021/9/16/22677381/smartwatch-blood-pressure-samsung-fitbit-apple"
     ]
   ],
   [
