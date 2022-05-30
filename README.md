@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-30, 19:19:51](https://news.ycombinator.com/item?id=31562606) - [Duke Medical prof. calls mandatory equity training “Maoist political propaganda”](https://www.dukechronicle.com/article/2022/05/duke-university-school-of-medicine-professor-describes-mandatory-equity-training-as-maoist-political-propaganda-refuses-to-attend)
 * [2022-05-30, 19:06:18](https://news.ycombinator.com/item?id=31562452) - [Canadians Unable to Afford Safe Housing Are Turning to Medically-Assisted Death](https://ourgeneration.news/news/canadians-unable-to-afford-safe-housing-are-turning-to-medically-assisted-death)
 * [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [2022-05-30, 18:10:43](https://news.ycombinator.com/item?id=31561845) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
@@ -23,6 +22,7 @@
 * [2022-05-30, 13:03:07](https://news.ycombinator.com/item?id=31558533) - [AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
 * [2022-05-30, 13:01:49](https://news.ycombinator.com/item?id=31558525) - [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
+* [2022-05-30, 10:17:11](https://news.ycombinator.com/item?id=31557361) - [Grothendieck's Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
