@@ -23,12 +23,12 @@
 * [2022-05-30, 13:03:07](https://news.ycombinator.com/item?id=31558533) - [AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
 * [2022-05-30, 13:01:49](https://news.ycombinator.com/item?id=31558525) - [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
-* [2022-05-30, 10:17:11](https://news.ycombinator.com/item?id=31557361) - [Grothendieck's Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [The Genius of Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
 * [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
+* [2022-05-29, 21:10:57](https://news.ycombinator.com/item?id=31552903) - [Decompiling stack strings in Ghidra with emulation](https://saml98.github.io/jekyll/update/2022/05/23/ghidra-stack-strings-emulation.html)
 * [2022-05-29, 11:39:13](https://news.ycombinator.com/item?id=31548311) - [Easy 6502 by Skilldrick](http://skilldrick.github.io/easy6502/)
 
 ## [Archives](archives/index.md)
