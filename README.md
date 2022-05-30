@@ -2,7 +2,7 @@
 
 * [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 18:48:54](https://news.ycombinator.com/item?id=31562264) - [Working on the Weekends – An Academic Necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
-* [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
+* [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why is front-end development so unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [2022-05-30, 18:10:43](https://news.ycombinator.com/item?id=31561845) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 * [2022-05-30, 17:48:11](https://news.ycombinator.com/item?id=31561575) - [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
 * [2022-05-30, 17:33:22](https://news.ycombinator.com/item?id=31561409) - [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
@@ -26,7 +26,7 @@
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Makeabetter.computer – Microgrants for projects that make computers better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
-* [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [The Genius of Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
+* [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
 * [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
 * [2022-05-29, 21:10:57](https://news.ycombinator.com/item?id=31552903) - [Decompiling stack strings in Ghidra with emulation](https://saml98.github.io/jekyll/update/2022/05/23/ghidra-stack-strings-emulation.html)
 * [2022-05-29, 11:39:13](https://news.ycombinator.com/item?id=31548311) - [Easy 6502 by Skilldrick](http://skilldrick.github.io/easy6502/)
