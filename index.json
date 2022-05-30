@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-30, 14:37:16",
+      "https://news.ycombinator.com/item?id=31559431"
+    ],
+    [
+      "A mechanism by which facemasks contribute to the Covid-19 case fatality rate",
+      "https://journals.lww.com/md-journal/fulltext/2022/02180/the_foegen_effect__a_mechanism_by_which_facemasks.60.aspx"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:25:54",
+      "https://news.ycombinator.com/item?id=31559306"
+    ],
+    [
+      "Using Verizon's API to get a number with 4 consecutive digits",
+      "https://blog.jonlu.ca/posts/verizon-rare-numbers"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 14:08:38",
       "https://news.ycombinator.com/item?id=31559117"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-05-29, 05:50:04",
-      "https://news.ycombinator.com/item?id=31546766"
-    ],
-    [
-      "Philosophy’s Gentle Giant",
-      "https://www.newstatesman.com/ideas/2022/05/philosophys-gentle-giant"
-    ]
-  ],
-  [
-    [
       "2022-05-29, 00:52:10",
       "https://news.ycombinator.com/item?id=31545186"
     ],
@@ -287,16 +297,6 @@
     [
       "Conway's Game of Life in APL in Forth",
       "https://github.com/chmykh/apl-life"
-    ]
-  ],
-  [
-    [
-      "2022-05-27, 17:04:07",
-      "https://news.ycombinator.com/item?id=31531954"
-    ],
-    [
-      "How to stop a robot vacuum from getting stuck on the laundry rack",
-      "https://www.ctrl.blog/entry/robot-vacuum-drying-rack.html"
     ]
   ]
 ]
