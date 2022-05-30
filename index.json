@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2022-05-30, 17:19:57",
+      "https://news.ycombinator.com/item?id=31561240"
+    ],
+    [
+      "Nonrecursive Lisp Reader",
+      "https://github.com/emacs-mirror/emacs/commit/b903507b36c438653a02d7b6291e9744d5221e28"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 17:16:38",
       "https://news.ycombinator.com/item?id=31561197"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31559117"
     ],
     [
-      "Hack a satellite (2020)",
+      "Hack a satellite",
       "https://hackasat.com/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "A decade of dotfiles",
       "https://evanhahn.com/a-decade-of-dotfiles/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 10:17:11",
-      "https://news.ycombinator.com/item?id=31557361"
-    ],
-    [
-      "Grothendieck's Approach to Equality [pdf]",
-      "https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf"
     ]
   ],
   [
