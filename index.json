@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2022-05-30, 03:13:25",
+      "https://news.ycombinator.com/item?id=31555145"
+    ],
+    [
+      "Implementing gradient explanations for a HuggingFace text classification model",
+      "https://victordibia.com/blog/explain-bert-classification/"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 03:07:29",
       "https://news.ycombinator.com/item?id=31555125"
     ],
     [
-      "Prolific USB-Serial drivers purposefully brick fake chips",
+      "Really Prolific?",
       "https://www.medo64.com/2022/05/really-prolific/"
     ]
   ],
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-05-29, 13:30:12",
-      "https://news.ycombinator.com/item?id=31548989"
-    ],
-    [
-      "Graviton 3: First Impressions",
-      "https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/"
-    ]
-  ],
-  [
-    [
-      "2022-05-29, 13:04:33",
-      "https://news.ycombinator.com/item?id=31548829"
-    ],
-    [
-      "Building a Budget Homelab NAS Server",
-      "https://mtlynch.io/budget-nas/"
-    ]
-  ],
-  [
-    [
       "2022-05-29, 11:29:51",
       "https://news.ycombinator.com/item?id=31548268"
     ],
@@ -247,6 +237,16 @@
     [
       "Ray-optics: a web app to simulate the reflection and refraction of light",
       "https://ricktu288.github.io/ray-optics/"
+    ]
+  ],
+  [
+    [
+      "2022-05-28, 08:42:16",
+      "https://news.ycombinator.com/item?id=31538693"
+    ],
+    [
+      "The real story of Pinocchio",
+      "https://www.smithsonianmag.com/travel/the-real-pinocchio-180980027/"
     ]
   ],
   [
