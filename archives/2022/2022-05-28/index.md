@@ -50,6 +50,7 @@
 * [2022-05-28, 13:35:10](https://news.ycombinator.com/item?id=31540217) - [California faces power shortages and price hikes amid drought woes: report](https://www.kentucky.com/news/business/article261886130.html)
 * [2022-05-28, 13:34:47](https://news.ycombinator.com/item?id=31540214) - [Ray-optics: a web app to simulate the reflection and refraction of light](https://ricktu288.github.io/ray-optics/)
 * [2022-05-28, 13:17:29](https://news.ycombinator.com/item?id=31540107) - [Monkeypox outbreaks: 4 key questions researchers have](https://www.nature.com/articles/d41586-022-01493-6)
+* [2022-05-28, 13:14:29](https://news.ycombinator.com/item?id=31540091) - [Chaos: The Problem with Quantum Mechanics](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html)
 * [2022-05-28, 12:58:31](https://news.ycombinator.com/item?id=31539982) - [I don't trust papers out of “Top Labs” anymore](https://reddit.com/r/MachineLearning/comments/uyratt/d_i_dont_really_trust_papers_out_of_top_labs/)
 * [2022-05-28, 12:55:07](https://news.ycombinator.com/item?id=31539958) - [How the Saitama backdoor uses DNS tunnelling](https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/)
 * [2022-05-28, 12:52:40](https://news.ycombinator.com/item?id=31539944) - [The Gilded Age of (Unpaid) Internet Writing](https://longreads.com/2018/10/02/webzines-90s-online-media/)
