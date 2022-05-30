@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
 * [2022-05-30, 19:19:51](https://news.ycombinator.com/item?id=31562606) - [Duke Medical prof. calls mandatory equity training “Maoist political propaganda”](https://www.dukechronicle.com/article/2022/05/duke-university-school-of-medicine-professor-describes-mandatory-equity-training-as-maoist-political-propaganda-refuses-to-attend)
+* [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 19:06:18](https://news.ycombinator.com/item?id=31562452) - [Canadians Unable to Afford Safe Housing Are Turning to Medically-Assisted Death](https://ourgeneration.news/news/canadians-unable-to-afford-safe-housing-are-turning-to-medically-assisted-death)
+* [2022-05-30, 18:48:54](https://news.ycombinator.com/item?id=31562264) - [Working on the Weekends – An Academic Necessity?](https://thegradient.pub/working-on-the-weekends-an-academic-necessity/)
 * [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [2022-05-30, 18:16:39](https://news.ycombinator.com/item?id=31561897) - [Blogchain](https://blogchain.app/)
 * [2022-05-30, 18:10:43](https://news.ycombinator.com/item?id=31561845) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
