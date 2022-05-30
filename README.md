@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-30, 21:20:08](https://news.ycombinator.com/item?id=31563733) - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/-/mosquito-el-animal-mas-letal-del-mundo)
 * [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 * [2022-05-30, 20:45:02](https://news.ycombinator.com/item?id=31563446) - [DeLorean returns with 300-mile Taycan rival for 2024](https://www.autocar.co.uk/car-news/new-cars/official-delorean-returns-300-mile-taycan-rival-2024)
 * [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
@@ -8,7 +9,6 @@
 * [2022-05-30, 18:10:43](https://news.ycombinator.com/item?id=31561845) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 * [2022-05-30, 17:48:11](https://news.ycombinator.com/item?id=31561575) - [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
 * [2022-05-30, 17:27:23](https://news.ycombinator.com/item?id=31561338) - [Intelligent Reflecting Surfaces prevented 95% of wifi attacks](https://www.mpg.de/18700996/internet-of-thinges-intelligent-reflecting-surface)
-* [2022-05-30, 17:19:57](https://news.ycombinator.com/item?id=31561240) - [Nonrecursive Lisp Reader](https://github.com/emacs-mirror/emacs/commit/b903507b36c438653a02d7b6291e9744d5221e28)
 * [2022-05-30, 17:16:38](https://news.ycombinator.com/item?id=31561197) - [Producing Open Source Software (2020)](https://producingoss.com/)
 * [2022-05-30, 16:46:04](https://news.ycombinator.com/item?id=31560844) - [House Bill Funds CHIPS Act, Stresses R&D](https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/)
 * [2022-05-30, 16:19:11](https://news.ycombinator.com/item?id=31560552) - [Schools should be using open source software](https://tdarb.org/posts/schools.txt)
