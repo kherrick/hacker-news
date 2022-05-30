@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 19:19:51](https://news.ycombinator.com/item?id=31562606) - [Duke Medical prof. calls mandatory equity training “Maoist political propaganda”](https://www.dukechronicle.com/article/2022/05/duke-university-school-of-medicine-professor-describes-mandatory-equity-training-as-maoist-political-propaganda-refuses-to-attend)
 * [2022-05-30, 19:06:18](https://news.ycombinator.com/item?id=31562452) - [Canadians Unable to Afford Safe Housing Are Turning to Medically-Assisted Death](https://ourgeneration.news/news/canadians-unable-to-afford-safe-housing-are-turning-to-medically-assisted-death)
 * [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [2022-05-30, 18:16:39](https://news.ycombinator.com/item?id=31561897) - [Blogchain](https://blogchain.app/)
@@ -72,5 +73,6 @@
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [2022-05-30, 03:37:47](https://news.ycombinator.com/item?id=31555252) - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone?](https://news.ycombinator.com/item?id=31555252)
 * [2022-05-30, 03:13:25](https://news.ycombinator.com/item?id=31555145) - [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
+* [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
 * [2022-05-30, 03:07:29](https://news.ycombinator.com/item?id=31555125) - [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
 * [2022-05-30, 01:50:48](https://news.ycombinator.com/item?id=31554753) - [Adminer: Database management in a single PHP file](https://github.com/vrana/adminer)
