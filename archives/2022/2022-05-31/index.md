@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 15:31:14](https://news.ycombinator.com/item?id=31570698) - [The world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
+* [2022-05-31, 15:29:09](https://news.ycombinator.com/item?id=31570674) - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
+* [2022-05-31, 15:25:36](https://news.ycombinator.com/item?id=31570624) - [Ask HN: Why Are You Here?](https://news.ycombinator.com/item?id=31570624)
 * [2022-05-31, 15:04:48](https://news.ycombinator.com/item?id=31570349) - [Ford F-150 Lightning Reaches Its First Customers](https://cleantechnica.com/2022/05/31/ford-f-150-lightning-reaches-its-first-customers/)
 * [2022-05-31, 14:15:07](https://news.ycombinator.com/item?id=31569742) - [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
 * [2022-05-31, 14:07:40](https://news.ycombinator.com/item?id=31569654) - [High tuition costs mostly stem from the Omnibus Budget Reconciliation Act 1993](https://shrewdcuriosity.medium.com/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
