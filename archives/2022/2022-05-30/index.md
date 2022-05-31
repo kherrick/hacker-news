@@ -36,6 +36,7 @@
 * [2022-05-30, 15:53:58](https://news.ycombinator.com/item?id=31560307) - [“When systems require novel accounting methods the reason is usually fraud”](https://twitter.com/br4s1d4s/status/1531135288428199936)
 * [2022-05-30, 15:53:21](https://news.ycombinator.com/item?id=31560298) - [What caused the hallucinations of the Oracle of Delphi?](https://dynomight.net/delphi/)
 * [2022-05-30, 15:37:26](https://news.ycombinator.com/item?id=31560135) - [DuckDuckGo Scripts Everywhere – Tracking Links?](https://news.ycombinator.com/item?id=31560135)
+* [2022-05-30, 15:29:07](https://news.ycombinator.com/item?id=31560044) - [Interview with Dustin Campbell [audio]](https://john-lam-podcast.simplecast.com/episodes/episode-7-dustin-campbell)
 * [2022-05-30, 15:27:26](https://news.ycombinator.com/item?id=31560028) - [Aerosol particle emission increases exponentially above moderate exercise](https://www.pnas.org/doi/full/10.1073/pnas.2202521119)
 * [2022-05-30, 15:16:32](https://news.ycombinator.com/item?id=31559920) - [Programming in the Apocalypse](https://matduggan.com/programming-in-the/)
 * [2022-05-30, 15:07:10](https://news.ycombinator.com/item?id=31559818) - [A vision of a multi-threaded Emacs](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)

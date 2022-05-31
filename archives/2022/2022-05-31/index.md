@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
 * [2022-05-31, 18:16:06](https://news.ycombinator.com/item?id=31572911) - [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
 * [2022-05-31, 17:40:41](https://news.ycombinator.com/item?id=31572435) - [Farm equipment dealers block 'Right to Repair' provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
