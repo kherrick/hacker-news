@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 18:16:06](https://news.ycombinator.com/item?id=31572911) - [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
 * [2022-05-31, 17:40:41](https://news.ycombinator.com/item?id=31572435) - [Farm equipment dealers block 'Right to Repair' provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
 * [2022-05-31, 17:30:22](https://news.ycombinator.com/item?id=31572319) - [No Fair Sex in Academia: Evidence of Discrimination in Hiring to Editorial Board](https://openpsych.net/paper/66/)
@@ -20,7 +21,6 @@
 * [2022-05-31, 14:06:49](https://news.ycombinator.com/item?id=31569646) - [Ask HN: Visualizing software designs, especially of large systems (if at all)?](https://news.ycombinator.com/item?id=31569646)
 * [2022-05-31, 13:42:37](https://news.ycombinator.com/item?id=31569381) - [AMD powers the most powerful supercomputer](https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/)
 * [2022-05-31, 13:10:52](https://news.ycombinator.com/item?id=31569070) - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
-* [2022-05-31, 12:19:16](https://news.ycombinator.com/item?id=31568672) - [Ford’s electric pickup can power a house for days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs?](https://news.ycombinator.com/item?id=31567345)
