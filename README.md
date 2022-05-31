@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 22:17:43](https://news.ycombinator.com/item?id=31575617) - [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
+* [2022-05-31, 21:55:30](https://news.ycombinator.com/item?id=31575429) - [Why Darwin Failed (2006)](http://www.synack.net/~bbraun/writing/osfail.html)
 * [2022-05-31, 20:40:34](https://news.ycombinator.com/item?id=31574671) - [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
 * [2022-05-31, 20:37:46](https://news.ycombinator.com/item?id=31574624) - [Teleforking a Process onto a Different Computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
 * [2022-05-31, 20:35:58](https://news.ycombinator.com/item?id=31574601) - [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)
@@ -11,10 +13,8 @@
 * [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
 * [2022-05-31, 18:34:29](https://news.ycombinator.com/item?id=31573108) - [The Elves Leave Middle Earth – Sodas Are No Longer Free (2009)](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
-* [2022-05-31, 17:33:24](https://news.ycombinator.com/item?id=31572351) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 * [2022-05-31, 17:08:18](https://news.ycombinator.com/item?id=31572031) - [SomaFM](https://somafm.com/)
-* [2022-05-31, 16:48:10](https://news.ycombinator.com/item?id=31571763) - [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
 * [2022-05-31, 16:39:01](https://news.ycombinator.com/item?id=31571645) - [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
 * [2022-05-31, 16:33:07](https://news.ycombinator.com/item?id=31571566) - [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
