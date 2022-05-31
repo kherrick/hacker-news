@@ -19,6 +19,7 @@
 * [2022-05-30, 18:45:08](https://news.ycombinator.com/item?id=31562215) - [Why Is Front-End Development So Unstable? (2018)](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [2022-05-30, 18:16:39](https://news.ycombinator.com/item?id=31561897) - [Blogchain](https://blogchain.app/)
 * [2022-05-30, 18:10:43](https://news.ycombinator.com/item?id=31561845) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
+* [2022-05-30, 18:05:07](https://news.ycombinator.com/item?id=31561780) - [Lesser known features of ClickHouse](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/)
 * [2022-05-30, 18:01:04](https://news.ycombinator.com/item?id=31561726) - [Bleh](https://drewdevault.com/2022/05/30/bleh.html)
 * [2022-05-30, 17:57:08](https://news.ycombinator.com/item?id=31561684) - [When Tether Blows Up](https://paranoidenough.com/2022/05/30/When-Tether-Blows-Up.html)
 * [2022-05-30, 17:48:11](https://news.ycombinator.com/item?id=31561575) - [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
