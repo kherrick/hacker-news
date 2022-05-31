@@ -86,6 +86,7 @@
 * [2022-05-30, 05:14:18](https://news.ycombinator.com/item?id=31555680) - [Accused of Cheating by an Algorithm, and a Professor She Had Never Met](https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html)
 * [2022-05-30, 05:08:27](https://news.ycombinator.com/item?id=31555660) - [Hungary’s Golden Squad](https://www.historytoday.com/reviews/hungarys-golden-squad)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
+* [2022-05-30, 04:37:10](https://news.ycombinator.com/item?id=31555523) - [Fast, Ordered Unixy Queues over NNCP and Syncthing with Filespooler](https://changelog.complete.org/archives/10368-fast-ordered-unixy-queues-over-nncp-and-syncthing-with-filespooler)
 * [2022-05-30, 04:34:27](https://news.ycombinator.com/item?id=31555512) - [A Bloop and a Blast: The mysterious, mercurial world of baseball fandom](https://www.bookforum.com/print/2902/the-mysterious-mercurial-world-of-baseball-fandom-24931)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [2022-05-30, 03:37:47](https://news.ycombinator.com/item?id=31555252) - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone?](https://news.ycombinator.com/item?id=31555252)
