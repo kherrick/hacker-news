@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
+* [2022-05-31, 09:36:16](https://news.ycombinator.com/item?id=31567567) - [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
 * [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
-* [2022-05-31, 08:15:10](https://news.ycombinator.com/item?id=31567180) - [Australian digital driving licenses can be defaced in minutes](https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable/)
 * [2022-05-31, 07:41:54](https://news.ycombinator.com/item?id=31567016) - [Show HN: Todool, a full blown environment for managing large trees of task lists](https://todool.handmade.network/)
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
 * [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
@@ -28,6 +27,7 @@
 * [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [What Made Golang So Popular? The Language’s Creators Look Back](https://thenewstack.io/what-made-golang-so-popular-the-languages-creators-look-back/)
 * [2022-05-30, 04:37:10](https://news.ycombinator.com/item?id=31555523) - [Fast, Ordered Unixy Queues over NNCP and Syncthing with Filespooler](https://changelog.complete.org/archives/10368-fast-ordered-unixy-queues-over-nncp-and-syncthing-with-filespooler)
 * [2022-05-30, 00:19:02](https://news.ycombinator.com/item?id=31554233) - [I wrote my own rsync [video]](https://www.youtube.com/watch?v=wpwObdgemoE)
+* [2022-05-29, 23:49:29](https://news.ycombinator.com/item?id=31554024) - [The Central Social Institution in Prague, Czechoslovakia, 1937](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 * [2022-05-29, 23:37:21](https://news.ycombinator.com/item?id=31553927) - [Fortran Assembly Program (FAP) for the IBM 709/7090 (1961)](https://www.computerhistory.org/collections/catalog/102663110)
 * [2022-05-29, 12:01:20](https://news.ycombinator.com/item?id=31548445) - [How Brian Eno composed the Windows 95 startup sound (1996)](https://www.sfgate.com/default/article/Q-and-A-With-Brian-Eno-2979740.php)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-29](index.md)
 
+* [2022-05-29, 23:49:29](https://news.ycombinator.com/item?id=31554024) - [The Central Social Institution in Prague, Czechoslovakia, 1937](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 * [2022-05-29, 23:37:21](https://news.ycombinator.com/item?id=31553927) - [Fortran Assembly Program (FAP) for the IBM 709/7090 (1961)](https://www.computerhistory.org/collections/catalog/102663110)
 * [2022-05-29, 22:58:08](https://news.ycombinator.com/item?id=31553704) - [Algorithmic stablecoins are provably impossible without continuous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
 * [2022-05-29, 22:53:02](https://news.ycombinator.com/item?id=31553682) - [DNA Testing for Embryos Promises to Predict Genetic Diseases](https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases)

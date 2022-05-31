@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 09:36:16](https://news.ycombinator.com/item?id=31567567) - [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
 * [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
 * [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
 * [2022-05-31, 08:15:10](https://news.ycombinator.com/item?id=31567180) - [Australian digital driving licenses can be defaced in minutes](https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable/)
