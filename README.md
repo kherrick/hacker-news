@@ -24,7 +24,7 @@
 * [2022-05-30, 15:16:32](https://news.ycombinator.com/item?id=31559920) - [Programming in the Apocalypse](https://matduggan.com/programming-in-the/)
 * [2022-05-30, 14:23:21](https://news.ycombinator.com/item?id=31559280) - [The Art of Fuzzing (2017) [pdf]](https://sec-consult.com/fileadmin/user_upload/sec-consult/Dynamisch/Blogartikel/2017_11/the_art_of_fuzzing_slides.pdf)
 * [2022-05-30, 13:09:18](https://news.ycombinator.com/item?id=31558583) - [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
-* [2022-05-30, 08:01:33](https://news.ycombinator.com/item?id=31556560) - [Pandora is an analysis framework to discover if a file is suspicious](https://github.com/pandora-analysis/pandora)
+* [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [What Made Golang So Popular? The Language’s Creators Look Back](https://thenewstack.io/what-made-golang-so-popular-the-languages-creators-look-back/)
 * [2022-05-30, 04:37:10](https://news.ycombinator.com/item?id=31555523) - [Fast, Ordered Unixy Queues over NNCP and Syncthing with Filespooler](https://changelog.complete.org/archives/10368-fast-ordered-unixy-queues-over-nncp-and-syncthing-with-filespooler)
 * [2022-05-30, 00:19:02](https://news.ycombinator.com/item?id=31554233) - [I wrote my own rsync [video]](https://www.youtube.com/watch?v=wpwObdgemoE)
 * [2022-05-29, 23:37:21](https://news.ycombinator.com/item?id=31553927) - [Fortran Assembly Program (FAP) for the IBM 709/7090 (1961)](https://www.computerhistory.org/collections/catalog/102663110)
