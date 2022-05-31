@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 20:10:15](https://news.ycombinator.com/item?id=31574317) - [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
 * [2022-05-31, 19:32:13](https://news.ycombinator.com/item?id=31573854) - [Ask HN: Has Cloudflare blocked your domain without explaining what's going on?](https://news.ycombinator.com/item?id=31573854)
 * [2022-05-31, 19:07:12](https://news.ycombinator.com/item?id=31573525) - [You don’t need to be “enterprise-ready” or “scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
+* [2022-05-31, 18:52:59](https://news.ycombinator.com/item?id=31573353) - [US gas prices hit a new record high as more states pay $5 or more per gallon](https://markets.businessinsider.com/news/commodities/gas-prices-new-record-states-pay-over-5-dollars-gallon-2022-5)
 * [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
 * [2022-05-31, 18:34:29](https://news.ycombinator.com/item?id=31573108) - [The Elves Leave Middle Earth – Sodas Are No Longer Free (2009)](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
@@ -18,7 +20,6 @@
 * [2022-05-31, 15:29:09](https://news.ycombinator.com/item?id=31570674) - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
 * [2022-05-31, 14:46:00](https://news.ycombinator.com/item?id=31570112) - [Three Men Discuss Relativity (1926)](https://archive.org/details/threemendiscussr00sull)
 * [2022-05-31, 14:32:43](https://news.ycombinator.com/item?id=31569934) - [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut)
-* [2022-05-31, 14:06:49](https://news.ycombinator.com/item?id=31569646) - [Ask HN: Visualizing software designs, especially of large systems (if at all)?](https://news.ycombinator.com/item?id=31569646)
 * [2022-05-31, 13:42:37](https://news.ycombinator.com/item?id=31569381) - [AMD powers the most powerful supercomputer](https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/)
 * [2022-05-31, 13:10:52](https://news.ycombinator.com/item?id=31569070) - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
@@ -28,7 +29,6 @@
 * [2022-05-30, 18:05:07](https://news.ycombinator.com/item?id=31561780) - [Lesser known features of ClickHouse](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/)
 * [2022-05-30, 13:34:57](https://news.ycombinator.com/item?id=31558782) - [Classic Game Postmortem: 'Q*bert' [video]](https://www.youtube.com/watch?v=FhkLfz0GKYU)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
-* [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
 * [2022-05-29, 23:49:29](https://news.ycombinator.com/item?id=31554024) - [The Central Social Institution in Prague, Czechoslovakia, 1937](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 
 ## [Archives](archives/index.md)
