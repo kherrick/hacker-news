@@ -96,6 +96,7 @@
 * [2022-05-30, 03:37:47](https://news.ycombinator.com/item?id=31555252) - [Ask HN: Is there a truly solid low-code to build Twitter or Reddit clone?](https://news.ycombinator.com/item?id=31555252)
 * [2022-05-30, 03:13:25](https://news.ycombinator.com/item?id=31555145) - [Implementing gradient explanations for a HuggingFace text classification model](https://victordibia.com/blog/explain-bert-classification/)
 * [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
+* [2022-05-30, 03:08:16](https://news.ycombinator.com/item?id=31555131) - [Cross-Domain Style Mixing for Face Cartoonization](https://arxiv.org/abs/2205.12450)
 * [2022-05-30, 03:07:29](https://news.ycombinator.com/item?id=31555125) - [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
 * [2022-05-30, 01:50:48](https://news.ycombinator.com/item?id=31554753) - [Adminer: Database management in a single PHP file](https://github.com/vrana/adminer)
 * [2022-05-30, 00:19:02](https://news.ycombinator.com/item?id=31554233) - [I wrote my own rsync [video]](https://www.youtube.com/watch?v=wpwObdgemoE)

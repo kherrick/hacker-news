@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
 * [2022-05-31, 13:35:31](https://news.ycombinator.com/item?id=31569294) - [Discord Is the World’s Most Important Financial Messenger, Hotbed for Scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
+* [2022-05-31, 13:10:52](https://news.ycombinator.com/item?id=31569070) - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
 * [2022-05-31, 12:49:14](https://news.ycombinator.com/item?id=31568895) - [1x Engineer](https://1x.engineer/)
 * [2022-05-31, 12:41:24](https://news.ycombinator.com/item?id=31568837) - [Killer Asteroids are hiding in plain sight; a new tool finds them](https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html)
 * [2022-05-31, 12:19:16](https://news.ycombinator.com/item?id=31568672) - [Ford’s Electric Pickup Can Power Your House for 10 Days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
