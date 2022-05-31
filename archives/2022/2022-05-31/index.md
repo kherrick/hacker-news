@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 23:03:40](https://news.ycombinator.com/item?id=31575962) - [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
+* [2022-05-31, 22:56:22](https://news.ycombinator.com/item?id=31575909) - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
 * [2022-05-31, 22:46:26](https://news.ycombinator.com/item?id=31575837) - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
 * [2022-05-31, 22:44:38](https://news.ycombinator.com/item?id=31575822) - [SPACs Are Warning They May Go Bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
 * [2022-05-31, 22:36:41](https://news.ycombinator.com/item?id=31575765) - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
