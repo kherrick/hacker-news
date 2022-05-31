@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 13:35:31](https://news.ycombinator.com/item?id=31569294) - [Discord Is the World’s Most Important Financial Messenger, Hotbed for Scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
 * [2022-05-31, 12:49:14](https://news.ycombinator.com/item?id=31568895) - [1x Engineer](https://1x.engineer/)
+* [2022-05-31, 12:41:24](https://news.ycombinator.com/item?id=31568837) - [Killer Asteroids are hiding in plain sight; a new tool finds them](https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html)
 * [2022-05-31, 12:19:16](https://news.ycombinator.com/item?id=31568672) - [Ford’s Electric Pickup Can Power Your House for 10 Days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
+* [2022-05-31, 11:04:48](https://news.ycombinator.com/item?id=31568157) - [Sick of Windows but can't afford a Mac? The cynic's guide to desktop Linux](https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/)
 * [2022-05-31, 11:02:51](https://news.ycombinator.com/item?id=31568138) - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
