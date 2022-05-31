@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-05-31, 13:35:31",
+      "https://news.ycombinator.com/item?id=31569294"
+    ],
+    [
+      "Discord Is the World’s Most Important Financial Messenger, Hotbed for Scammers",
+      "https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 12:49:14",
       "https://news.ycombinator.com/item?id=31568895"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2022-05-31, 12:41:24",
+      "https://news.ycombinator.com/item?id=31568837"
+    ],
+    [
+      "Killer Asteroids are hiding in plain sight; a new tool finds them",
+      "https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 12:19:16",
       "https://news.ycombinator.com/item?id=31568672"
     ],
     [
-      "Ford’s Electric Pickup Can Power Your House for 10 Days",
+      "Ford’s electric pickup can power a house for days",
       "https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 11:04:48",
+      "https://news.ycombinator.com/item?id=31568157"
+    ],
+    [
+      "Sick of Windows but can't afford a Mac? The cynic's guide to desktop Linux",
+      "https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2022-05-30, 21:53:49",
-      "https://news.ycombinator.com/item?id=31564033"
-    ],
-    [
-      "The Scaling Hypothesis (2021)",
-      "https://www.gwern.net/Scaling-hypothesis"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 21:00:43",
-      "https://news.ycombinator.com/item?id=31563584"
-    ],
-    [
-      "Jitx (YC S18) is hiring a senior optimization scientist",
-      "https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 19:08:35",
       "https://news.ycombinator.com/item?id=31562478"
     ],
@@ -207,16 +217,6 @@
     [
       "Dragonflydb – A modern replacement for Redis and Memcached",
       "https://github.com/dragonflydb/dragonfly"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 16:02:26",
-      "https://news.ycombinator.com/item?id=31560380"
-    ],
-    [
-      "Dozens of high-traffic websites vulnerable to ‘account pre-hijacking’, study",
-      "https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds"
     ]
   ],
   [
