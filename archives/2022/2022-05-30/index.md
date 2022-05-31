@@ -58,6 +58,7 @@
 * [2022-05-30, 13:34:57](https://news.ycombinator.com/item?id=31558782) - [Classic Game Postmortem: 'Q*bert' [video]](https://www.youtube.com/watch?v=FhkLfz0GKYU)
 * [2022-05-30, 13:32:47](https://news.ycombinator.com/item?id=31558766) - [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
 * [2022-05-30, 13:29:36](https://news.ycombinator.com/item?id=31558745) - [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
+* [2022-05-30, 13:10:26](https://news.ycombinator.com/item?id=31558592) - [Electroglottography based real-time voice-to-MIDI controller](https://www.sciencedirect.com/science/article/pii/S2772528622000036)
 * [2022-05-30, 13:09:18](https://news.ycombinator.com/item?id=31558583) - [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
 * [2022-05-30, 13:03:07](https://news.ycombinator.com/item?id=31558533) - [AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
 * [2022-05-30, 13:02:25](https://news.ycombinator.com/item?id=31558530) - [Alexa, why have you charged me £2 to say the Hail Mary?](https://www.theguardian.com/money/2022/may/28/alexa-daily-prayers-voice-command-amazon-subscription)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 15:49:49](https://news.ycombinator.com/item?id=31570953) - [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * [2022-05-31, 15:31:14](https://news.ycombinator.com/item?id=31570698) - [The world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 * [2022-05-31, 15:29:09](https://news.ycombinator.com/item?id=31570674) - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
 * [2022-05-31, 15:25:36](https://news.ycombinator.com/item?id=31570624) - [Ask HN: Why Are You Here?](https://news.ycombinator.com/item?id=31570624)
@@ -21,6 +22,7 @@
 * [2022-05-31, 11:04:48](https://news.ycombinator.com/item?id=31568157) - [Sick of Windows but can't afford a Mac? The cynic's guide to desktop Linux](https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/)
 * [2022-05-31, 11:02:51](https://news.ycombinator.com/item?id=31568138) - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
+* [2022-05-31, 09:56:39](https://news.ycombinator.com/item?id=31567702) - [Git Fork: A fast and friendly Git client for Windows and Mac](https://git-fork.com/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 09:36:16](https://news.ycombinator.com/item?id=31567567) - [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
 * [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
