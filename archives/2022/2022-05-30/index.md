@@ -84,6 +84,7 @@
 * [2022-05-30, 06:10:59](https://news.ycombinator.com/item?id=31555911) - [Smart-home-control with touch-screens from the late 80ies](https://www.unitysystemshomemanager.com/)
 * [2022-05-30, 05:43:12](https://news.ycombinator.com/item?id=31555787) - [KDE KTrip – helps you navigate in public transport](https://apps.kde.org/ktrip/)
 * [2022-05-30, 05:14:18](https://news.ycombinator.com/item?id=31555680) - [Accused of Cheating by an Algorithm, and a Professor She Had Never Met](https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html)
+* [2022-05-30, 05:08:27](https://news.ycombinator.com/item?id=31555660) - [Hungary’s Golden Squad](https://www.historytoday.com/reviews/hungarys-golden-squad)
 * [2022-05-30, 05:00:27](https://news.ycombinator.com/item?id=31555629) - [I disabled WiFi on the new Samsung fridge](https://eattherich.club/@swaggboi/108382897807037127)
 * [2022-05-30, 04:34:27](https://news.ycombinator.com/item?id=31555512) - [A Bloop and a Blast: The mysterious, mercurial world of baseball fandom](https://www.bookforum.com/print/2902/the-mysterious-mercurial-world-of-baseball-fandom-24931)
 * [2022-05-30, 04:00:14](https://news.ycombinator.com/item?id=31555347) - [Goodbye PNaCl, Hello WebAssembly (2017)](https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
