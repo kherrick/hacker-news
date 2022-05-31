@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 17:40:41](https://news.ycombinator.com/item?id=31572435) - [Farm equipment dealers block 'Right to Repair' provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
 * [2022-05-31, 17:26:56](https://news.ycombinator.com/item?id=31572278) - [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
+* [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 * [2022-05-31, 17:08:18](https://news.ycombinator.com/item?id=31572031) - [SomaFM](https://somafm.com/)
 * [2022-05-31, 16:48:10](https://news.ycombinator.com/item?id=31571763) - [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
