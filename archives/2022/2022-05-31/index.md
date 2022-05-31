@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
 * [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 * [2022-05-31, 04:20:10](https://news.ycombinator.com/item?id=31566061) - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
