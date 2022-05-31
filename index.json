@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-05-31, 00:52:44",
+      "https://news.ycombinator.com/item?id=31565129"
+    ],
+    [
+      "Haribo Goldbears, the world’s first gummy bears",
+      "https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 23:48:18",
+      "https://news.ycombinator.com/item?id=31564819"
+    ],
+    [
+      "So long, home T1 line; hello, hacking the T1 router",
+      "http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 22:07:40",
       "https://news.ycombinator.com/item?id=31564152"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31564033"
     ],
     [
-      "Scaling Hypothesis",
+      "The Scaling Hypothesis (2021)",
       "https://www.gwern.net/Scaling-hypothesis"
     ]
   ],
@@ -55,18 +75,8 @@
       "https://news.ycombinator.com/item?id=31562264"
     ],
     [
-      "Working on the Weekends – An Academic Necessity?",
+      "Working on the weekends – an academic necessity?",
       "https://thegradient.pub/working-on-the-weekends-an-academic-necessity/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 18:45:08",
-      "https://news.ycombinator.com/item?id=31562215"
-    ],
-    [
-      "Why is front-end development so unstable? (2018)",
-      "https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/"
     ]
   ],
   [
@@ -231,36 +241,6 @@
   ],
   [
     [
-      "2022-05-30, 10:25:20",
-      "https://news.ycombinator.com/item?id=31557430"
-    ],
-    [
-      "A decade of dotfiles",
-      "https://evanhahn.com/a-decade-of-dotfiles/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 09:48:41",
-      "https://news.ycombinator.com/item?id=31557206"
-    ],
-    [
-      "Makeabetter.computer – Microgrants for projects that make computers better",
-      "https://makeabetter.computer/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 09:36:53",
-      "https://news.ycombinator.com/item?id=31557140"
-    ],
-    [
-      "Xournalpp++ – closs-platform, open source note taking software",
-      "https://xournalpp.github.io/"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 06:44:56",
       "https://news.ycombinator.com/item?id=31556095"
     ],
@@ -277,6 +257,26 @@
     [
       "Video2StyleGAN: Disentangling Local and Global Variations in a Video",
       "https://arxiv.org/abs/2205.13996"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 00:19:02",
+      "https://news.ycombinator.com/item?id=31554233"
+    ],
+    [
+      "I wrote my own rsync [video]",
+      "https://www.youtube.com/watch?v=wpwObdgemoE"
+    ]
+  ],
+  [
+    [
+      "2022-05-29, 23:37:21",
+      "https://news.ycombinator.com/item?id=31553927"
+    ],
+    [
+      "Fortran Assembly Program (FAP) for the IBM 709/7090 (1961)",
+      "https://www.computerhistory.org/collections/catalog/102663110"
     ]
   ],
   [
