@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
+* [2022-05-30, 23:48:18](https://news.ycombinator.com/item?id=31564819) - [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
 * [2022-05-30, 22:07:40](https://news.ycombinator.com/item?id=31564152) - [A Guide to Asking Robots to Design Stained Glass Windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
 * [2022-05-30, 21:53:49](https://news.ycombinator.com/item?id=31564033) - [Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
 * [2022-05-30, 21:20:08](https://news.ycombinator.com/item?id=31563733) - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
@@ -88,3 +89,4 @@
 * [2022-05-30, 03:08:37](https://news.ycombinator.com/item?id=31555132) - [Video2StyleGAN: Disentangling Local and Global Variations in a Video](https://arxiv.org/abs/2205.13996)
 * [2022-05-30, 03:07:29](https://news.ycombinator.com/item?id=31555125) - [Prolific USB-Serial drivers purposefully brick fake chips](https://www.medo64.com/2022/05/really-prolific/)
 * [2022-05-30, 01:50:48](https://news.ycombinator.com/item?id=31554753) - [Adminer: Database management in a single PHP file](https://github.com/vrana/adminer)
+* [2022-05-30, 00:19:02](https://news.ycombinator.com/item?id=31554233) - [I wrote my own rsync [video]](https://www.youtube.com/watch?v=wpwObdgemoE)
