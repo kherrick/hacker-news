@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 12:49:14](https://news.ycombinator.com/item?id=31568895) - [1x Engineer](https://1x.engineer/)
+* [2022-05-31, 12:19:16](https://news.ycombinator.com/item?id=31568672) - [Ford’s Electric Pickup Can Power Your House for 10 Days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
 * [2022-05-31, 11:02:51](https://news.ycombinator.com/item?id=31568138) - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
@@ -14,6 +16,7 @@
 * [2022-05-31, 08:15:10](https://news.ycombinator.com/item?id=31567180) - [Australian digital driving licenses can be defaced in minutes](https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable/)
 * [2022-05-31, 07:41:54](https://news.ycombinator.com/item?id=31567016) - [Show HN: Todool, a full blown environment for managing large trees of task lists](https://todool.handmade.network/)
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
+* [2022-05-31, 04:47:48](https://news.ycombinator.com/item?id=31566200) - [Call for a Public Open Database of All Chemical Reactions](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140)
 * [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 * [2022-05-31, 04:20:10](https://news.ycombinator.com/item?id=31566061) - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
 * [2022-05-31, 04:11:55](https://news.ycombinator.com/item?id=31566031) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)

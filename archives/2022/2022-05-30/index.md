@@ -55,6 +55,7 @@
 * [2022-05-30, 13:46:13](https://news.ycombinator.com/item?id=31558887) - [Choose Boring Technology (2015)](https://boringtechnology.club/)
 * [2022-05-30, 13:45:16](https://news.ycombinator.com/item?id=31558875) - [California Right to Repair Bill Dies in Senate Committee](https://calpirg.org/news/cap/california-right-repair-bill-dies-senate-committee)
 * [2022-05-30, 13:36:21](https://news.ycombinator.com/item?id=31558796) - [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html)
+* [2022-05-30, 13:34:57](https://news.ycombinator.com/item?id=31558782) - [Classic Game Postmortem: 'Q*bert' [video]](https://www.youtube.com/watch?v=FhkLfz0GKYU)
 * [2022-05-30, 13:32:47](https://news.ycombinator.com/item?id=31558766) - [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
 * [2022-05-30, 13:29:36](https://news.ycombinator.com/item?id=31558745) - [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
 * [2022-05-30, 13:09:18](https://news.ycombinator.com/item?id=31558583) - [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
