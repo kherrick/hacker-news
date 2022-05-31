@@ -7,6 +7,7 @@
 * [2022-05-31, 20:40:34](https://news.ycombinator.com/item?id=31574671) - [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
 * [2022-05-31, 20:37:46](https://news.ycombinator.com/item?id=31574624) - [Teleforking a Process onto a Different Computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
 * [2022-05-31, 20:35:58](https://news.ycombinator.com/item?id=31574601) - [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)
+* [2022-05-31, 20:25:31](https://news.ycombinator.com/item?id=31574484) - [Show HN: My Smoothie Stack – What are you using to build your smoothie?](https://mysmoothiestack.com/)
 * [2022-05-31, 20:10:15](https://news.ycombinator.com/item?id=31574317) - [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
 * [2022-05-31, 19:55:07](https://news.ycombinator.com/item?id=31574125) - [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/)
 * [2022-05-31, 19:32:13](https://news.ycombinator.com/item?id=31573854) - [Ask HN: Has Cloudflare blocked your domain without explainig what's going on?](https://news.ycombinator.com/item?id=31573854)
