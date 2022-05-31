@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 22:46:26](https://news.ycombinator.com/item?id=31575837) - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
+* [2022-05-31, 22:44:38](https://news.ycombinator.com/item?id=31575822) - [SPACs Are Warning They May Go Bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
 * [2022-05-31, 22:36:41](https://news.ycombinator.com/item?id=31575765) - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
 * [2022-05-31, 22:17:43](https://news.ycombinator.com/item?id=31575617) - [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
 * [2022-05-31, 21:55:30](https://news.ycombinator.com/item?id=31575429) - [Why Darwin Failed (2006)](http://www.synack.net/~bbraun/writing/osfail.html)
@@ -43,6 +45,7 @@
 * [2022-05-31, 14:15:07](https://news.ycombinator.com/item?id=31569742) - [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
 * [2022-05-31, 14:07:40](https://news.ycombinator.com/item?id=31569654) - [High tuition costs mostly stem from the Omnibus Budget Reconciliation Act 1993](https://shrewdcuriosity.medium.com/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
 * [2022-05-31, 14:06:49](https://news.ycombinator.com/item?id=31569646) - [Ask HN: Visualizing software designs, especially of large systems (if at all)?](https://news.ycombinator.com/item?id=31569646)
+* [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [How Lunatic Brings Erlang's Principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
 * [2022-05-31, 13:42:37](https://news.ycombinator.com/item?id=31569381) - [AMD powers the most powerful supercomputer](https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/)
 * [2022-05-31, 13:39:17](https://news.ycombinator.com/item?id=31569341) - [Someone is trying to typosquatting the Python requests package](https://medium.com/checkmarx-security/typosquatting-attack-on-requests-one-of-the-most-popular-python-packages-3b0a329a892d)
 * [2022-05-31, 13:35:31](https://news.ycombinator.com/item?id=31569294) - [Discord Is the World’s Most Important Financial Messenger, Hotbed for Scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
