@@ -56,6 +56,7 @@
 * [2022-05-30, 13:36:21](https://news.ycombinator.com/item?id=31558796) - [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html)
 * [2022-05-30, 13:32:47](https://news.ycombinator.com/item?id=31558766) - [Show HN: I built a cyberdeck just for fun](https://hackaday.io/project/183892-cyberdeck1)
 * [2022-05-30, 13:29:36](https://news.ycombinator.com/item?id=31558745) - [Ask HN: What video games do you play during the day?](https://news.ycombinator.com/item?id=31558745)
+* [2022-05-30, 13:09:18](https://news.ycombinator.com/item?id=31558583) - [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
 * [2022-05-30, 13:03:07](https://news.ycombinator.com/item?id=31558533) - [AssemblyAI (YC S17) is hiring senior engineers to build ML systems at scale](https://news.ycombinator.com/item?id=31558533)
 * [2022-05-30, 13:02:25](https://news.ycombinator.com/item?id=31558530) - [Alexa, why have you charged me £2 to say the Hail Mary?](https://www.theguardian.com/money/2022/may/28/alexa-daily-prayers-voice-command-amazon-subscription)
 * [2022-05-30, 13:01:49](https://news.ycombinator.com/item?id=31558525) - [Hacking Detergent DRM for 98% Cost Saving](https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md)
