@@ -19,6 +19,7 @@
 * [2022-05-31, 18:16:06](https://news.ycombinator.com/item?id=31572911) - [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
 * [2022-05-31, 17:40:41](https://news.ycombinator.com/item?id=31572435) - [Farm equipment dealers block 'Right to Repair' provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
+* [2022-05-31, 17:33:24](https://news.ycombinator.com/item?id=31572351) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-31, 17:30:22](https://news.ycombinator.com/item?id=31572319) - [No Fair Sex in Academia: Evidence of Discrimination in Hiring to Editorial Board](https://openpsych.net/paper/66/)
 * [2022-05-31, 17:26:56](https://news.ycombinator.com/item?id=31572278) - [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
