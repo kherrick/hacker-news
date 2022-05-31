@@ -6,6 +6,7 @@
 
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
 * [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
+* [2022-05-31, 04:20:10](https://news.ycombinator.com/item?id=31566061) - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
 * [2022-05-31, 04:11:55](https://news.ycombinator.com/item?id=31566031) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [2022-05-31, 04:10:01](https://news.ycombinator.com/item?id=31566025) - [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 * [2022-05-31, 02:18:48](https://news.ycombinator.com/item?id=31565514) - [I'm a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
