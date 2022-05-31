@@ -44,6 +44,7 @@
 * [2022-05-30, 14:33:09](https://news.ycombinator.com/item?id=31559388) - [Shennat dissertation: Dimensional analysis of Lucid programs](https://billwadge.com/2022/05/29/shennat-dissertation-dimensional-analysis-of-lucid-programs/)
 * [2022-05-30, 14:25:54](https://news.ycombinator.com/item?id=31559306) - [Using Verizon's API to get a number with 4 consecutive digits](https://blog.jonlu.ca/posts/verizon-rare-numbers)
 * [2022-05-30, 14:25:19](https://news.ycombinator.com/item?id=31559297) - [The “World’s Most Powerful Quantum Computer” Is a Hoax with Staged Photos [pdf]](https://scorpioncapital.s3.us-east-2.amazonaws.com/reports/IONQ.pdf)
+* [2022-05-30, 14:23:21](https://news.ycombinator.com/item?id=31559280) - [The Art of Fuzzing (2017) [pdf]](https://sec-consult.com/fileadmin/user_upload/sec-consult/Dynamisch/Blogartikel/2017_11/the_art_of_fuzzing_slides.pdf)
 * [2022-05-30, 14:22:15](https://news.ycombinator.com/item?id=31559270) - [The Story of Heroku](https://leerob.io/blog/heroku)
 * [2022-05-30, 14:08:40](https://news.ycombinator.com/item?id=31559118) - [Embracing Modern C++ Safely, Book Review](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 * [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a Satellite](https://hackasat.com/)
