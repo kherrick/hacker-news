@@ -4,7 +4,6 @@
 * [2022-05-31, 18:16:06](https://news.ycombinator.com/item?id=31572911) - [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
 * [2022-05-31, 17:40:41](https://news.ycombinator.com/item?id=31572435) - [Farm equipment dealers block 'Right to Repair' provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
-* [2022-05-31, 17:30:22](https://news.ycombinator.com/item?id=31572319) - [No Fair Sex in Academia: Evidence of Discrimination in Hiring to Editorial Board](https://openpsych.net/paper/66/)
 * [2022-05-31, 17:26:56](https://news.ycombinator.com/item?id=31572278) - [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 * [2022-05-31, 17:08:18](https://news.ycombinator.com/item?id=31572031) - [SomaFM](https://somafm.com/)
@@ -29,6 +28,7 @@
 * [2022-05-30, 15:29:07](https://news.ycombinator.com/item?id=31560044) - [Interview with Dustin Campbell [audio]](https://john-lam-podcast.simplecast.com/episodes/episode-7-dustin-campbell)
 * [2022-05-30, 13:34:57](https://news.ycombinator.com/item?id=31558782) - [Classic Game Postmortem: 'Q*bert' [video]](https://www.youtube.com/watch?v=FhkLfz0GKYU)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
+* [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
 * [2022-05-29, 23:49:29](https://news.ycombinator.com/item?id=31554024) - [The Central Social Institution in Prague, Czechoslovakia, 1937](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 
 ## [Archives](archives/index.md)
