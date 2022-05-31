@@ -2,6 +2,7 @@
 
 * [2022-05-31, 17:26:56](https://news.ycombinator.com/item?id=31572278) - [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
 * [2022-05-31, 17:08:18](https://news.ycombinator.com/item?id=31572031) - [SomaFM](https://somafm.com/)
+* [2022-05-31, 16:48:10](https://news.ycombinator.com/item?id=31571763) - [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
 * [2022-05-31, 16:39:01](https://news.ycombinator.com/item?id=31571645) - [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
 * [2022-05-31, 16:33:07](https://news.ycombinator.com/item?id=31571566) - [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
@@ -13,7 +14,6 @@
 * [2022-05-31, 14:46:00](https://news.ycombinator.com/item?id=31570112) - [Three Men Discuss Relativity (1926)](https://archive.org/details/threemendiscussr00sull)
 * [2022-05-31, 14:32:43](https://news.ycombinator.com/item?id=31569934) - [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut)
 * [2022-05-31, 14:15:07](https://news.ycombinator.com/item?id=31569742) - [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
-* [2022-05-31, 14:07:40](https://news.ycombinator.com/item?id=31569654) - [High tuition costs mostly stem from the Omnibus Budget Reconciliation Act 1993](https://shrewdcuriosity.medium.com/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8)
 * [2022-05-31, 14:06:49](https://news.ycombinator.com/item?id=31569646) - [Ask HN: Visualizing software designs, especially of large systems (if at all)?](https://news.ycombinator.com/item?id=31569646)
 * [2022-05-31, 13:42:37](https://news.ycombinator.com/item?id=31569381) - [AMD powers the most powerful supercomputer](https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/)
 * [2022-05-31, 13:10:52](https://news.ycombinator.com/item?id=31569070) - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
