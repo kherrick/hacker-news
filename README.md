@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 22:36:41](https://news.ycombinator.com/item?id=31575765) - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
 * [2022-05-31, 22:17:43](https://news.ycombinator.com/item?id=31575617) - [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
 * [2022-05-31, 21:55:30](https://news.ycombinator.com/item?id=31575429) - [Why Darwin Failed (2006)](http://www.synack.net/~bbraun/writing/osfail.html)
 * [2022-05-31, 20:40:34](https://news.ycombinator.com/item?id=31574671) - [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
@@ -21,7 +22,6 @@
 * [2022-05-31, 16:25:58](https://news.ycombinator.com/item?id=31571476) - [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
 * [2022-05-31, 15:49:49](https://news.ycombinator.com/item?id=31570953) - [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * [2022-05-31, 15:31:14](https://news.ycombinator.com/item?id=31570698) - [After millennia of expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
-* [2022-05-31, 14:32:43](https://news.ycombinator.com/item?id=31569934) - [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut)
 * [2022-05-31, 13:10:52](https://news.ycombinator.com/item?id=31569070) - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
 * [2022-05-31, 11:49:16](https://news.ycombinator.com/item?id=31568455) - [How to rescue the world's biggest cargo ships](https://www.bbc.com/future/article/20220530-how-to-rescue-the-worlds-biggest-cargo-ships)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I took a corporation to arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)

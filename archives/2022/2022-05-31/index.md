@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 22:36:41](https://news.ycombinator.com/item?id=31575765) - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
 * [2022-05-31, 22:17:43](https://news.ycombinator.com/item?id=31575617) - [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
 * [2022-05-31, 21:55:30](https://news.ycombinator.com/item?id=31575429) - [Why Darwin Failed (2006)](http://www.synack.net/~bbraun/writing/osfail.html)
 * [2022-05-31, 20:40:34](https://news.ycombinator.com/item?id=31574671) - [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
