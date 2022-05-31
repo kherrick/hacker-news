@@ -1,12 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 17:26:56](https://news.ycombinator.com/item?id=31572278) - [Zulip – Threaded real-time chat for distributed teams](https://zulip.com/)
 * [2022-05-31, 17:08:18](https://news.ycombinator.com/item?id=31572031) - [SomaFM](https://somafm.com/)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
 * [2022-05-31, 16:39:01](https://news.ycombinator.com/item?id=31571645) - [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
+* [2022-05-31, 16:33:07](https://news.ycombinator.com/item?id=31571566) - [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
 * [2022-05-31, 16:25:58](https://news.ycombinator.com/item?id=31571476) - [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
 * [2022-05-31, 15:49:49](https://news.ycombinator.com/item?id=31570953) - [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * [2022-05-31, 15:31:14](https://news.ycombinator.com/item?id=31570698) - [After millennia of expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 * [2022-05-31, 15:29:09](https://news.ycombinator.com/item?id=31570674) - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
+* [2022-05-31, 15:25:39](https://news.ycombinator.com/item?id=31570625) - [The Watch That Came in from the Cold](https://www.hodinkee.com/magazine/the-watch-that-came-in-from-the-cold)
 * [2022-05-31, 14:46:00](https://news.ycombinator.com/item?id=31570112) - [Three Men Discuss Relativity (1926)](https://archive.org/details/threemendiscussr00sull)
 * [2022-05-31, 14:32:43](https://news.ycombinator.com/item?id=31569934) - [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut)
 * [2022-05-31, 14:15:07](https://news.ycombinator.com/item?id=31569742) - [A 3400-year-old city emerges from the Tigris River](https://uni-tuebingen.de/en/university/news-and-publications/press-releases/press-releases/article/a-3400-year-old-city-emerges-from-the-tigris-river/)
@@ -18,8 +21,6 @@
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs?](https://news.ycombinator.com/item?id=31567345)
-* [2022-05-31, 04:47:48](https://news.ycombinator.com/item?id=31566200) - [Call for a Public Open Database of All Chemical Reactions](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140)
-* [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 * [2022-05-31, 04:11:55](https://news.ycombinator.com/item?id=31566031) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [2022-05-31, 04:10:01](https://news.ycombinator.com/item?id=31566025) - [Python-patterns – A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 * [2022-05-30, 18:05:07](https://news.ycombinator.com/item?id=31561780) - [Lesser known features of ClickHouse](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/)
@@ -29,7 +30,6 @@
 * [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
 * [2022-05-29, 23:49:29](https://news.ycombinator.com/item?id=31554024) - [The Central Social Institution in Prague, Czechoslovakia, 1937](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 * [2022-05-29, 23:11:58](https://news.ycombinator.com/item?id=31553788) - [Binary Privacy](https://matklad.github.io//2022/05/29/binary-privacy.html)
-* [2022-05-28, 08:19:02](https://news.ycombinator.com/item?id=31538579) - [Plant of the Month: Robusta Coffee (2021)](https://daily.jstor.org/plant-of-the-month-robusta-coffee/)
 
 ## [Archives](archives/index.md)
 
