@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 09:36:16](https://news.ycombinator.com/item?id=31567567) - [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
 * [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
@@ -18,11 +19,9 @@
 * [2022-05-30, 22:07:40](https://news.ycombinator.com/item?id=31564152) - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
 * [2022-05-30, 21:53:49](https://news.ycombinator.com/item?id=31564033) - [The Scaling Hypothesis (2021)](https://www.gwern.net/Scaling-hypothesis)
 * [2022-05-30, 21:20:08](https://news.ycombinator.com/item?id=31563733) - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
-* [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 * [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 * [2022-05-30, 16:02:26](https://news.ycombinator.com/item?id=31560380) - [Dozens of high-traffic websites vulnerable to ‘account pre-hijacking’, study](https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds)
-* [2022-05-30, 14:23:21](https://news.ycombinator.com/item?id=31559280) - [The Art of Fuzzing (2017) [pdf]](https://sec-consult.com/fileadmin/user_upload/sec-consult/Dynamisch/Blogartikel/2017_11/the_art_of_fuzzing_slides.pdf)
 * [2022-05-30, 13:09:18](https://news.ycombinator.com/item?id=31558583) - [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
 * [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [What Made Golang So Popular? The Language’s Creators Look Back](https://thenewstack.io/what-made-golang-so-popular-the-languages-creators-look-back/)
 * [2022-05-30, 04:37:10](https://news.ycombinator.com/item?id=31555523) - [Fast, Ordered Unixy Queues over NNCP and Syncthing with Filespooler](https://changelog.complete.org/archives/10368-fast-ordered-unixy-queues-over-nncp-and-syncthing-with-filespooler)
@@ -30,6 +29,7 @@
 * [2022-05-29, 23:49:29](https://news.ycombinator.com/item?id=31554024) - [The Central Social Institution in Prague, Czechoslovakia, 1937](https://www.vintag.es/2020/01/central-social-institution-prague.html)
 * [2022-05-29, 23:37:21](https://news.ycombinator.com/item?id=31553927) - [Fortran Assembly Program (FAP) for the IBM 709/7090 (1961)](https://www.computerhistory.org/collections/catalog/102663110)
 * [2022-05-29, 12:01:20](https://news.ycombinator.com/item?id=31548445) - [How Brian Eno composed the Windows 95 startup sound (1996)](https://www.sfgate.com/default/article/Q-and-A-With-Brian-Eno-2979740.php)
+* [2022-05-28, 08:19:02](https://news.ycombinator.com/item?id=31538579) - [Plant of the Month: Robusta Coffee (2021)](https://daily.jstor.org/plant-of-the-month-robusta-coffee/)
 
 ## [Archives](archives/index.md)
 

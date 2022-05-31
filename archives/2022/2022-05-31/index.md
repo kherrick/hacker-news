@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 09:36:16](https://news.ycombinator.com/item?id=31567567) - [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
 * [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
