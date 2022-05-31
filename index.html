@@ -129,25 +129,101 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="31567491">
+        <section id="31567567">
           <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html"
-              >A 3,400-year-old city emerges from the Tigris River</a
+            <a class="item" href="https://news.ycombinator.com/item?id=31567567"
+              >Ask HN: Will creative people have jobs in 10 years?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2022-05-31 @ 09:21:44</span
+              <span>2022-05-31 @ 09:36:16</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31567491"
+                ><a href="https://news.ycombinator.com/item?id=31567567"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
+            <div class="text">
+              <i>create</i> or <i>interpret</i>.
+              <p>
+                Today was my first full day of coding inducted into Copilot. I
+                know a lot of you folks have had the fun of playing with it for
+                a long time.
+              </p>
+              <p>
+                I have a particular way of writing code after 25 years, certain
+                idiosyncrasies. Just as a cheap shot example, I write mysql
+                queries in PHP by defining the whole string first as a variable
+                named $someQ = "SELECT * FROM table WHERE id=:id;" and then,
+                rather than binding the variables, I prefer to compile the query
+                as $someZ = $conn-&gt;prepare($someQ); and then
+                $someZ-&gt;execute(array(":id"=&gt;$id)).
+              </p>
+              <p>
+                This isn't a usual way of doing things. Copilot tried to bind
+                the vars the first time I did it. The second time, it set up the
+                array. The third time, when I wrote $insQ as the name of the an
+                insertion string, and $insZ as the query that would execute it,
+                <i
+                  >Copilot wrote $updQ and $updZ by itself as the names of
+                  variables for the update string and update query</i
+                >. For the record, I checked and I've never named a variable
+                $updQ or $updZ... I usually use $uQ and $uZ. It made that up. It
+                stopped trying to bind vars and inserted them into the execute
+                statement. It guessed contextually almost 100% which vars I
+                wanted to bind. This was beyond magic; obviously it read a huge
+                amount of unrelated code in my stack to come to those
+                conclusions from this one small file. But no one besides me uses
+                this naming convention.
+              </p>
+              <p>It was magic; scary magic.</p>
+              <p>
+                I spent my evening shooting pool and drinking with bar friends;
+                one's an ex-marine who works for the government and another's a
+                guy who manages ops and software for a small company. They're
+                lamenting that it's impossible in this country for anyone to
+                make enough to afford an apartment. This never seemed hard to
+                me. I just wrote code and got paid a lot for being good at it.
+                Or I made graphics that could probably now be done by DALL-E.
+              </p>
+              <p>
+                It's been my opinion for awhile that consumers and users of
+                software were <i>redundant</i>. Maybe now we're redundant, too.
+                But in that case, who is talking to whom? What human born today
+                has the experience of struggling to learn something, and what
+                would they accomplish if they did learn it if a giant cloud
+                filter could already translate their thoughts into art or code
+                that would take them years of experience to comprehend, let
+                alone write for themselves?
+              </p>
+              <p>
+                Are we the last generation to learn <i>skills</i>? And what
+                happens when everyone's skill set is just telling a cloud filter
+                what to make for them? Will that be okay...?
+              </p>
+              <p>
+                I feel like this is fundamentally different from the shift from
+                Assembly to C to BASIC to Java or the fact that coders now don't
+                think in terms of the metal. This is not "clip art" taking over
+                the illustration space.
+              </p>
+              <p>
+                I feel like I've woken up halfway through a wholesale
+                replacement of all creative industries with robots, at a point
+                where all consumers (or measurements of consumers) have been
+                fully replaced by robots. Having been in a niche for so long, I
+                ignored it and thought that it would never be a real threat. I'm
+                admitting now that it is.
+              </p>
+              <p>
+                Where do we go from here? How do we avoid a dead creative class
+                spamming dead code and dead art to an already-dead consumer
+                internet?
+              </p>
+            </div>
           </section>
         </section>
         <section id="31567345">
@@ -160,11 +236,11 @@
             <h4>
               <span>2022-05-31 @ 08:51:19</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31567345"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
             <div class="text">
@@ -174,27 +250,6 @@
               landing page might get people to approach the product in a
               different way.
             </div>
-          </section>
-        </section>
-        <section id="31567180">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable/"
-              >Australian digital driving licenses can be defaced in minutes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-05-31 @ 08:15:10</span
-              ><span class="points-container"
-                >Points: <span class="points">12</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31567180"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="31567016">
@@ -208,7 +263,7 @@
             <h4>
               <span>2022-05-31 @ 07:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">3</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31567016"
                   >Comments</a
@@ -235,11 +290,11 @@
             <h4>
               <span>2022-05-31 @ 05:33:44</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31566401"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -256,7 +311,7 @@
             <h4>
               <span>2022-05-31 @ 04:24:29</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31566088"
                   >Comments</a
@@ -276,7 +331,7 @@
             <h4>
               <span>2022-05-31 @ 04:20:10</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31566061"
                   >Comments</a
@@ -296,11 +351,11 @@
             <h4>
               <span>2022-05-31 @ 04:11:55</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31566031"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -316,11 +371,11 @@
             <h4>
               <span>2022-05-31 @ 04:10:01</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31566025"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -335,11 +390,11 @@
             <h4>
               <span>2022-05-31 @ 02:18:48</span
               ><span class="points-container"
-                >Points: <span class="points">494</span></span
+                >Points: <span class="points">515</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31565514"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 274</span></span
               >
             </h4>
             <div class="text">
@@ -388,11 +443,11 @@
             <h4>
               <span>2022-05-31 @ 01:33:42</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31565311"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -409,11 +464,11 @@
             <h4>
               <span>2022-05-31 @ 00:52:44</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31565129"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -430,7 +485,7 @@
             <h4>
               <span>2022-05-30 @ 23:48:18</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31564819"
                   >Comments</a
@@ -451,11 +506,11 @@
             <h4>
               <span>2022-05-30 @ 22:07:40</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31564152"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -470,7 +525,7 @@
             <h4>
               <span>2022-05-30 @ 21:53:49</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31564033"
                   >Comments</a
@@ -491,7 +546,7 @@
             <h4>
               <span>2022-05-30 @ 21:20:08</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31563733"
                   >Comments</a
@@ -527,11 +582,11 @@
             <h4>
               <span>2022-05-30 @ 19:08:35</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31562478"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -548,11 +603,11 @@
             <h4>
               <span>2022-05-30 @ 18:48:54</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31562264"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -569,11 +624,11 @@
             <h4>
               <span>2022-05-30 @ 18:45:08</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31562215"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -595,7 +650,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31560692"
                   >Comments</a
-                ><span class="descendants">: 230</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -610,7 +665,7 @@
             <h4>
               <span>2022-05-30 @ 16:18:35</span
               ><span class="points-container"
-                >Points: <span class="points">749</span></span
+                >Points: <span class="points">756</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31560547"
                   >Comments</a
@@ -632,11 +687,11 @@
             <h4>
               <span>2022-05-30 @ 16:02:26</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31560380"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -653,7 +708,7 @@
             <h4>
               <span>2022-05-30 @ 14:23:21</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31559280"
                   >Comments</a
@@ -674,11 +729,11 @@
             <h4>
               <span>2022-05-30 @ 13:09:18</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31558583"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -695,11 +750,11 @@
             <h4>
               <span>2022-05-30 @ 07:31:14</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31556382"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -721,7 +776,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31555523"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -736,11 +791,32 @@
             <h4>
               <span>2022-05-30 @ 00:19:02</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31554233"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31554024">
+          <h3>
+            <a
+              class="item"
+              href="https://www.vintag.es/2020/01/central-social-institution-prague.html"
+              >The Central Social Institution in Prague, Czechoslovakia, 1937</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-05-29 @ 23:49:29</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31554024"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -757,7 +833,7 @@
             <h4>
               <span>2022-05-29 @ 23:37:21</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31553927"
                   >Comments</a
@@ -778,11 +854,11 @@
             <h4>
               <span>2022-05-29 @ 12:01:20</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31548445"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
