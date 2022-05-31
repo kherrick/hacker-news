@@ -10,6 +10,7 @@
 * [2022-05-31, 20:10:15](https://news.ycombinator.com/item?id=31574317) - [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
 * [2022-05-31, 19:55:07](https://news.ycombinator.com/item?id=31574125) - [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/)
 * [2022-05-31, 19:32:13](https://news.ycombinator.com/item?id=31573854) - [Ask HN: Has Cloudflare blocked your domain without explainig what's going on?](https://news.ycombinator.com/item?id=31573854)
+* [2022-05-31, 19:10:28](https://news.ycombinator.com/item?id=31573578) - [Top-500 NPM package maintainers now require 2FA](https://github.blog/changelog/2022-05-31-top-500-npm-package-maintainers-now-require-2fa/)
 * [2022-05-31, 19:07:12](https://news.ycombinator.com/item?id=31573525) - [You Don’t Need to Be “Enterprise-Ready” or “Scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
 * [2022-05-31, 18:52:59](https://news.ycombinator.com/item?id=31573353) - [US gas prices hit a new record high as more states pay $5 or more per gallon](https://markets.businessinsider.com/news/commodities/gas-prices-new-record-states-pay-over-5-dollars-gallon-2022-5)
 * [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
