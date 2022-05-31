@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 11:02:51](https://news.ycombinator.com/item?id=31568138) - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
@@ -18,7 +19,6 @@
 * [2022-05-30, 22:07:40](https://news.ycombinator.com/item?id=31564152) - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
 * [2022-05-30, 21:53:49](https://news.ycombinator.com/item?id=31564033) - [The Scaling Hypothesis (2021)](https://www.gwern.net/Scaling-hypothesis)
 * [2022-05-30, 21:20:08](https://news.ycombinator.com/item?id=31563733) - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
-* [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
 * [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 * [2022-05-30, 16:02:26](https://news.ycombinator.com/item?id=31560380) - [Dozens of high-traffic websites vulnerable to ‘account pre-hijacking’, study](https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds)
