@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
+* [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 * [2022-05-31, 04:11:55](https://news.ycombinator.com/item?id=31566031) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [2022-05-31, 04:10:01](https://news.ycombinator.com/item?id=31566025) - [Faif/Python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 * [2022-05-31, 02:18:48](https://news.ycombinator.com/item?id=31565514) - [I'm a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
@@ -25,7 +26,6 @@
 * [2022-05-30, 13:09:18](https://news.ycombinator.com/item?id=31558583) - [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem)
 * [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)
 * [2022-05-30, 05:08:27](https://news.ycombinator.com/item?id=31555660) - [Hungary’s Golden Squad](https://www.historytoday.com/reviews/hungarys-golden-squad)
-* [2022-05-30, 04:34:27](https://news.ycombinator.com/item?id=31555512) - [A Bloop and a Blast: The mysterious, mercurial world of baseball fandom](https://www.bookforum.com/print/2902/the-mysterious-mercurial-world-of-baseball-fandom-24931)
 * [2022-05-30, 00:19:02](https://news.ycombinator.com/item?id=31554233) - [I wrote my own rsync [video]](https://www.youtube.com/watch?v=wpwObdgemoE)
 * [2022-05-29, 23:37:21](https://news.ycombinator.com/item?id=31553927) - [Fortran Assembly Program (FAP) for the IBM 709/7090 (1961)](https://www.computerhistory.org/collections/catalog/102663110)
 * [2022-05-29, 12:01:20](https://news.ycombinator.com/item?id=31548445) - [How Brian Eno composed the Windows 95 startup sound (1996)](https://www.sfgate.com/default/article/Q-and-A-With-Brian-Eno-2979740.php)
