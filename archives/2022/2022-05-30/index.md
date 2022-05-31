@@ -80,6 +80,7 @@
 * [2022-05-30, 08:01:33](https://news.ycombinator.com/item?id=31556560) - [Pandora is an analysis framework to discover if a file is suspicious](https://github.com/pandora-analysis/pandora)
 * [2022-05-30, 07:54:36](https://news.ycombinator.com/item?id=31556522) - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [What Made Golang So Popular? The Language’s Creators Look Back](https://thenewstack.io/what-made-golang-so-popular-the-languages-creators-look-back/)
+* [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
 * [2022-05-30, 07:13:36](https://news.ycombinator.com/item?id=31556271) - [ORNL’s Frontier First (listed system) to Break the Exaflop Ceiling](https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/)
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
