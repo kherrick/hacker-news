@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 20:40:34](https://news.ycombinator.com/item?id=31574671) - [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
+* [2022-05-31, 20:37:46](https://news.ycombinator.com/item?id=31574624) - [Teleforking a Process onto a Different Computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
+* [2022-05-31, 20:35:58](https://news.ycombinator.com/item?id=31574601) - [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)
 * [2022-05-31, 20:10:15](https://news.ycombinator.com/item?id=31574317) - [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
 * [2022-05-31, 19:55:07](https://news.ycombinator.com/item?id=31574125) - [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/)
 * [2022-05-31, 19:32:13](https://news.ycombinator.com/item?id=31573854) - [Ask HN: Has Cloudflare blocked your domain without explainig what's going on?](https://news.ycombinator.com/item?id=31573854)
@@ -41,6 +44,7 @@
 * [2022-05-31, 12:49:14](https://news.ycombinator.com/item?id=31568895) - [1x Engineer](https://1x.engineer/)
 * [2022-05-31, 12:41:24](https://news.ycombinator.com/item?id=31568837) - [Killer Asteroids are hiding in plain sight; a new tool finds them](https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html)
 * [2022-05-31, 12:19:16](https://news.ycombinator.com/item?id=31568672) - [Ford’s Electric Pickup Can Power Your House for 10 Days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
+* [2022-05-31, 11:49:16](https://news.ycombinator.com/item?id=31568455) - [How to rescue the world's biggest cargo ships](https://www.bbc.com/future/article/20220530-how-to-rescue-the-worlds-biggest-cargo-ships)
 * [2022-05-31, 11:04:48](https://news.ycombinator.com/item?id=31568157) - [Sick of Windows but can't afford a Mac? The cynic's guide to desktop Linux](https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/)
 * [2022-05-31, 11:02:51](https://news.ycombinator.com/item?id=31568138) - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
 * [2022-05-31, 10:06:31](https://news.ycombinator.com/item?id=31567755) - [Show HN: Shale – a Ruby object mapper and serializer for JSON, YAML and XML](https://www.shalerb.org/)
