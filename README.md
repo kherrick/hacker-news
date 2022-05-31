@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-05-31, 20:10:15](https://news.ycombinator.com/item?id=31574317) - [Show HN: DataStation – App to easily query, script, and visualize data](https://github.com/multiprocessio/datastation)
+* [2022-05-31, 19:55:07](https://news.ycombinator.com/item?id=31574125) - [Plain Text Calendar](https://terokarvinen.com/2021/calendar-txt/)
 * [2022-05-31, 19:32:13](https://news.ycombinator.com/item?id=31573854) - [Ask HN: Has Cloudflare blocked your domain without explaining what's going on?](https://news.ycombinator.com/item?id=31573854)
 * [2022-05-31, 19:07:12](https://news.ycombinator.com/item?id=31573525) - [You don’t need to be “enterprise-ready” or “scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
-* [2022-05-31, 18:52:59](https://news.ycombinator.com/item?id=31573353) - [US gas prices hit a new record high as more states pay $5 or more per gallon](https://markets.businessinsider.com/news/commodities/gas-prices-new-record-states-pay-over-5-dollars-gallon-2022-5)
 * [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
 * [2022-05-31, 18:34:29](https://news.ycombinator.com/item?id=31573108) - [The Elves Leave Middle Earth – Sodas Are No Longer Free (2009)](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
