@@ -22,7 +22,7 @@
 * [2022-05-31, 00:52:44](https://news.ycombinator.com/item?id=31565129) - [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
 * [2022-05-30, 23:48:18](https://news.ycombinator.com/item?id=31564819) - [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
 * [2022-05-30, 22:07:40](https://news.ycombinator.com/item?id=31564152) - [Asking robots to design stained glass windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
-* [2022-05-30, 21:00:43](https://news.ycombinator.com/item?id=31563584) - [Jitx (YC S18) is hiring a senior optimization scientist](https://jobs.lever.co/jitxinc/485b853e-acd6-4073-b840-2929f210e9d7)
+* [2022-05-30, 19:08:35](https://news.ycombinator.com/item?id=31562478) - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship)
 * [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 * [2022-05-30, 14:50:12](https://news.ycombinator.com/item?id=31559611) - [Whatever Happened to “Programmable” Analog? (2019)](https://www.digikey.co.uk/en/blog/whatever-happened-to-programmable-analog)
 * [2022-05-30, 13:34:57](https://news.ycombinator.com/item?id=31558782) - [Classic Game Postmortem: 'Q*bert' [video]](https://www.youtube.com/watch?v=FhkLfz0GKYU)
