@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-05-31, 14:06:49",
+      "https://news.ycombinator.com/item?id=31569646"
+    ],
+    [
+      "Ask HN: Visualizing software designs, especially of large systems (if at all)?",
+      "https://news.ycombinator.com/item?id=31569646"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 13:42:37",
+      "https://news.ycombinator.com/item?id=31569381"
+    ],
+    [
+      "AMD powers the most powerful supercomputer",
+      "https://venturebeat.com/2022/05/30/amd-powers-worlds-most-powerful-supercomputer/"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 13:39:17",
+      "https://news.ycombinator.com/item?id=31569341"
+    ],
+    [
+      "Someone is trying to typosquatting the Python requests package",
+      "https://medium.com/checkmarx-security/typosquatting-attack-on-requests-one-of-the-most-popular-python-packages-3b0a329a892d"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 13:35:31",
       "https://news.ycombinator.com/item?id=31569294"
     ],
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2022-05-31, 12:41:24",
-      "https://news.ycombinator.com/item?id=31568837"
-    ],
-    [
-      "Killer Asteroids are hiding in plain sight; a new tool finds them",
-      "https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html"
-    ]
-  ],
-  [
-    [
       "2022-05-31, 12:19:16",
       "https://news.ycombinator.com/item?id=31568672"
     ],
     [
       "Ford’s electric pickup can power a house for days",
       "https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 11:04:48",
-      "https://news.ycombinator.com/item?id=31568157"
-    ],
-    [
-      "Sick of Windows but can't afford a Mac? The cynic's guide to desktop Linux",
-      "https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Show HN: Query Google Sheet data using PostgreSQL clients",
       "https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 04:20:10",
-      "https://news.ycombinator.com/item?id=31566061"
-    ],
-    [
-      "userscript.zone: search for userscripts by URL, domain or search term",
-      "https://www.userscript.zone/"
     ]
   ],
   [
