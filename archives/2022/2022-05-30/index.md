@@ -30,6 +30,7 @@
 * [2022-05-30, 17:16:38](https://news.ycombinator.com/item?id=31561197) - [Producing Open Source Software (2020)](https://producingoss.com/)
 * [2022-05-30, 16:55:59](https://news.ycombinator.com/item?id=31560961) - [Loot Boxes in Video Games](https://commonslibrary.parliament.uk/research-briefings/cbp-8498/)
 * [2022-05-30, 16:46:04](https://news.ycombinator.com/item?id=31560844) - [House Bill Funds Chips Act – Stresses R&D](https://www.eetimes.com/house-bill-funds-chips-act-stresses-rd/)
+* [2022-05-30, 16:38:28](https://news.ycombinator.com/item?id=31560770) - [Monterey’s Finder Find memory leak may not be fixed](https://eclecticlight.co/2022/05/30/why-montereys-finder-find-memory-leak-may-not-be-fixed/)
 * [2022-05-30, 16:31:46](https://news.ycombinator.com/item?id=31560692) - [Profiles of people living in homeless encampments, rarely what you’d expect](https://www.latimes.com/opinion/story/2022-05-29/venice-library-homeless-encampment-interviews)
 * [2022-05-30, 16:19:11](https://news.ycombinator.com/item?id=31560552) - [Schools Should Be Using Open Source Software](https://tdarb.org/posts/schools.txt)
 * [2022-05-30, 16:18:35](https://news.ycombinator.com/item?id=31560547) - [Dragonflydb – A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 14:10:49](https://news.ycombinator.com/item?id=31582039) - [Terraform Labs Caught Moving $4.8M Through Shell Company](https://cryptoslate.com/terraform-labs-caught-moving-4-8m-through-shell-company/)
+* [2022-06-01, 13:54:04](https://news.ycombinator.com/item?id=31581822) - [One-Third of Americans Making $250k Live Paycheck-to-Paycheck](https://www.bloomberg.com/news/articles/2022-06-01/a-third-of-americans-making-250-000-say-costs-eat-entire-salary)
 * [2022-06-01, 13:45:44](https://news.ycombinator.com/item?id=31581727) - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md)
+* [2022-06-01, 13:45:19](https://news.ycombinator.com/item?id=31581719) - [Elon Musk on Remote Work](https://twitter.com/TechEmails/status/1531994582669348864)
 * [2022-06-01, 13:30:09](https://news.ycombinator.com/item?id=31581543) - [Google's PageRank patent has expired (2019)](https://patents.google.com/patent/US6285999B1/en)
 * [2022-06-01, 12:27:40](https://news.ycombinator.com/item?id=31580842) - [Ask HN: Does your org use a password keeper?](https://news.ycombinator.com/item?id=31580842)
 * [2022-06-01, 12:19:43](https://news.ycombinator.com/item?id=31580763) - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
