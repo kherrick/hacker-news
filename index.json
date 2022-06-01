@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-06-01, 05:38:04",
-      "https://news.ycombinator.com/item?id=31578526"
+      "2022-06-01, 07:00:31",
+      "https://news.ycombinator.com/item?id=31578973"
     ],
     [
-      "Monado's hand tracking: hand-waving our way towards a first attempt",
-      "https://www.collabora.com/news-and-blog/blog/2022/05/31/monado-hand-tracking-hand-waving-our-way-towards-a-first-attempt/"
+      "PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris",
+      "https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-05-31, 18:46:46",
-      "https://news.ycombinator.com/item?id=31573282"
-    ],
-    [
-      "DALL-E 2 has a secret language",
-      "https://twitter.com/giannis_daras/status/1531693093040230402"
-    ]
-  ],
-  [
-    [
       "2022-05-31, 17:25:25",
       "https://news.ycombinator.com/item?id=31572258"
     ],
@@ -257,6 +247,16 @@
     [
       "On the Shortcomings of Gemini Protocol",
       "https://lof.flounder.online/gemlog/2022-05-30%20On%20the%20shortcomings%20of%20gemini%20protocol.gmi"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:55:50",
+      "https://news.ycombinator.com/item?id=31559672"
+    ],
+    [
+      "PyLucid: Lucid Interpreter Written in Python",
+      "https://github.com/billwadge/pyLucid"
     ]
   ],
   [
