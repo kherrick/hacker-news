@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 05:38:04](https://news.ycombinator.com/item?id=31578526) - [Monado's hand tracking: hand-waving our way towards a first attempt](https://www.collabora.com/news-and-blog/blog/2022/05/31/monado-hand-tracking-hand-waving-our-way-towards-a-first-attempt/)
 * [2022-06-01, 04:46:11](https://news.ycombinator.com/item?id=31578191) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 * [2022-06-01, 04:08:26](https://news.ycombinator.com/item?id=31577960) - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
 * [2022-06-01, 03:56:37](https://news.ycombinator.com/item?id=31577888) - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)

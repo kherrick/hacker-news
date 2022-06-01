@@ -21,6 +21,7 @@
 * [2022-05-30, 18:10:43](https://news.ycombinator.com/item?id=31561845) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 * [2022-05-30, 18:05:07](https://news.ycombinator.com/item?id=31561780) - [Lesser known features of ClickHouse](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/)
 * [2022-05-30, 18:01:04](https://news.ycombinator.com/item?id=31561726) - [Bleh](https://drewdevault.com/2022/05/30/bleh.html)
+* [2022-05-30, 18:00:25](https://news.ycombinator.com/item?id=31561720) - [Checking Barotrauma with the PVS-Studio static analyzer](https://pvs-studio.com/en/blog/posts/csharp/0930/)
 * [2022-05-30, 17:57:08](https://news.ycombinator.com/item?id=31561684) - [When Tether Blows Up](https://paranoidenough.com/2022/05/30/When-Tether-Blows-Up.html)
 * [2022-05-30, 17:48:11](https://news.ycombinator.com/item?id=31561575) - [Firefly III: A free and open-source finance manager](https://www.firefly-iii.org/)
 * [2022-05-30, 17:33:22](https://news.ycombinator.com/item?id=31561409) - [Webscraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
