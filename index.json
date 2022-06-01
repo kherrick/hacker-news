@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-05-31, 23:53:23",
-      "https://news.ycombinator.com/item?id=31576353"
+      "2022-06-01, 02:28:42",
+      "https://news.ycombinator.com/item?id=31577376"
     ],
     [
-      "Tell HN: Cloudflare prevents transfer-out of domains, sets to 'pendingdelete'",
-      "https://news.ycombinator.com/item?id=31576353"
+      "Why science needs more research software engineers",
+      "https://www.nature.com/articles/d41586-022-01516-2"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 02:23:31",
+      "https://news.ycombinator.com/item?id=31577343"
+    ],
+    [
+      "3DILG: Irregular Latent Grids for 3D generative modeling",
+      "https://1zb.github.io/3DILG/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 02:20:18",
+      "https://news.ycombinator.com/item?id=31577325"
+    ],
+    [
+      "I got hacked and Facebook banned me",
+      "https://emilycordes.com/facebook/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 01:33:06",
+      "https://news.ycombinator.com/item?id=31577030"
+    ],
+    [
+      "VC Meltdown",
+      "https://www.bogleheads.org/forum/viewtopic.php?t=378673"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 00:34:07",
+      "https://news.ycombinator.com/item?id=31576634"
+    ],
+    [
+      "Show HN: I made React with a faster Virtual DOM",
+      "https://news.ycombinator.com/item?id=31576634"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31575822"
     ],
     [
-      "SPACs Are Warning They May Go Bust",
+      "SPACs are warning they may go bust",
       "https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111"
     ]
   ],
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31575429"
     ],
     [
-      "Why Darwin Failed (2006)",
+      "Why Darwin failed (2006)",
       "http://www.synack.net/~bbraun/writing/osfail.html"
     ]
   ],
@@ -151,52 +191,12 @@
   ],
   [
     [
-      "2022-05-31, 18:34:29",
-      "https://news.ycombinator.com/item?id=31573108"
-    ],
-    [
-      "The Elves Leave Middle Earth – Sodas Are No Longer Free (2009)",
-      "https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/"
-    ]
-  ],
-  [
-    [
       "2022-05-31, 17:25:25",
       "https://news.ycombinator.com/item?id=31572258"
     ],
     [
       "Show HN: Can you lose at Wordle if you tried?",
       "https://dontwordle.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 17:08:18",
-      "https://news.ycombinator.com/item?id=31572031"
-    ],
-    [
-      "SomaFM",
-      "https://somafm.com/"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 16:44:16",
-      "https://news.ycombinator.com/item?id=31571711"
-    ],
-    [
-      "NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)",
-      "https://web.archive.org/web/19961102083247/http://desires.com/1.1/"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 16:33:07",
-      "https://news.ycombinator.com/item?id=31571566"
-    ],
-    [
-      "Thin Platforms",
-      "https://stratechery.com/2022/thin-platforms/"
     ]
   ],
   [
@@ -221,42 +221,52 @@
   ],
   [
     [
-      "2022-05-31, 15:31:14",
-      "https://news.ycombinator.com/item?id=31570698"
-    ],
-    [
-      "After millennia of expansion, the world has passed ‘peak agricultural land’",
-      "https://ourworldindata.org/peak-agriculture-land"
-    ]
-  ],
-  [
-    [
       "2022-05-31, 13:52:46",
       "https://news.ycombinator.com/item?id=31569482"
     ],
     [
-      "How Lunatic Brings Erlang's Principles to WebAssembly",
+      "Lunatic brings Erlang's principles to WebAssembly",
       "https://serokell.io/blog/lunatic-with-bernard-kolobara"
     ]
   ],
   [
     [
-      "2022-05-31, 13:10:52",
-      "https://news.ycombinator.com/item?id=31569070"
+      "2022-05-31, 13:42:37",
+      "https://news.ycombinator.com/item?id=31569381"
     ],
     [
-      "4coder editor is now fully open source",
-      "https://github.com/Dion-Systems/4coder"
+      "AMD-powered Frontier supercomputer breaks the exascale barrier",
+      "https://www.tomshardware.com/news/amd-powered-frontier-supercomputer-breaks-the-exascale-barrier-now-fastest-in-the-world"
     ]
   ],
   [
     [
-      "2022-05-30, 18:05:07",
-      "https://news.ycombinator.com/item?id=31561780"
+      "2022-05-31, 10:56:55",
+      "https://news.ycombinator.com/item?id=31568098"
     ],
     [
-      "Lesser known features of ClickHouse",
-      "https://pradeepchhetri.xyz/clickhouselesserknownfeatures/"
+      "Algebraic Data Types in Elixir",
+      "https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 16:14:51",
+      "https://news.ycombinator.com/item?id=31560509"
+    ],
+    [
+      "On the Shortcomings of Gemini Protocol",
+      "https://lof.flounder.online/gemlog/2022-05-30%20On%20the%20shortcomings%20of%20gemini%20protocol.gmi"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 16:00:33",
+      "https://news.ycombinator.com/item?id=31560362"
+    ],
+    [
+      "Programming cells with computer-like logic",
+      "https://wyss.harvard.edu/news/programming-cells-with-computer-like-logic/"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=31557845"
     ],
     [
-      "The industry has been sizing kayak paddles wrong for years",
+      "The industry has been sizing kayak paddles wrong",
       "https://paddlingmag.com/skills/buying-advice/kayak-paddle-shaft-length/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 07:02:45",
-      "https://news.ycombinator.com/item?id=31556214"
-    ],
-    [
-      "CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers",
-      "https://github.com/THUDM/CogVideo"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31555606"
     ],
     [
-      "A Vase Kept in an Ordinary Kitchen Turned Out to Be a Qing-Dynasty Artwork",
+      "A vase kept in an ordinary kitchen turned out to be a Qing-dynasty artwork",
       "https://www.smithsonianmag.com/smart-news/a-vase-kept-in-an-ordinary-kitchen-turned-out-to-be-a-qing-dynasty-artwork-worth-millions-180980154/"
     ]
   ]
