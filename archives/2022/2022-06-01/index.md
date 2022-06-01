@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
+* [2022-06-01, 10:27:13](https://news.ycombinator.com/item?id=31579997) - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
 * [2022-06-01, 10:00:06](https://news.ycombinator.com/item?id=31579862) - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
 * [2022-06-01, 09:31:48](https://news.ycombinator.com/item?id=31579739) - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
+* [2022-06-01, 10:27:13](https://news.ycombinator.com/item?id=31579997) - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
 * [2022-06-01, 10:00:06](https://news.ycombinator.com/item?id=31579862) - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
 * [2022-06-01, 09:31:48](https://news.ycombinator.com/item?id=31579739) - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
@@ -22,9 +24,7 @@
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 * [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [Lunatic brings Erlang's principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
 * [2022-05-31, 10:56:55](https://news.ycombinator.com/item?id=31568098) - [Algebraic Data Types in Elixir](https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html)
-* [2022-05-31, 04:49:03](https://news.ycombinator.com/item?id=31566208) - [The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma](https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html)
 * [2022-05-31, 00:50:55](https://news.ycombinator.com/item?id=31565118) - [Switzerland's Ingenious Cooling Caves](https://www.bbc.com/travel/article/20220529-switzerlands-ingenious-cooling-caves)
-* [2022-05-30, 16:14:51](https://news.ycombinator.com/item?id=31560509) - [On the Shortcomings of Gemini Protocol](https://lof.flounder.online/gemlog/2022-05-30%20On%20the%20shortcomings%20of%20gemini%20protocol.gmi)
 * [2022-05-30, 14:55:50](https://news.ycombinator.com/item?id=31559672) - [PyLucid: Lucid Interpreter Written in Python](https://github.com/billwadge/pyLucid)
 * [2022-05-30, 14:08:18](https://news.ycombinator.com/item?id=31559113) - [The Pit, the Cabin, and the Dance Floor (2020)](http://jamie-wong.com/post/the-pit/)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
