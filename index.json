@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-01, 05:38:04",
+      "https://news.ycombinator.com/item?id=31578526"
+    ],
+    [
+      "Monado's hand tracking: hand-waving our way towards a first attempt",
+      "https://www.collabora.com/news-and-blog/blog/2022/05/31/monado-hand-tracking-hand-waving-our-way-towards-a-first-attempt/"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 04:46:11",
       "https://news.ycombinator.com/item?id=31578191"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2022-05-31, 16:44:16",
-      "https://news.ycombinator.com/item?id=31571711"
-    ],
-    [
-      "NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)",
-      "https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html"
-    ]
-  ],
-  [
-    [
       "2022-05-31, 16:25:58",
       "https://news.ycombinator.com/item?id=31571476"
     ],
     [
       "RCE over ham radio – Reverse shell via WinAPRS memory corruption bug",
       "https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 15:49:49",
-      "https://news.ycombinator.com/item?id=31570953"
-    ],
-    [
-      "XMODEM in 2022",
-      "https://www.mattkeeter.com/blog/2022-05-31-xmodem/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Algebraic Data Types in Elixir",
       "https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 18:00:25",
+      "https://news.ycombinator.com/item?id=31561720"
+    ],
+    [
+      "Checking Barotrauma with the PVS-Studio static analyzer",
+      "https://pvs-studio.com/en/blog/posts/csharp/0930/"
     ]
   ],
   [
