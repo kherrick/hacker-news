@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-05-31, 23:53:23](https://news.ycombinator.com/item?id=31576353) - [Tell HN: Cloudflare prevents transfer-out of domains, sets to 'pendingdelete'](https://news.ycombinator.com/item?id=31576353)
 * [2022-05-31, 23:03:40](https://news.ycombinator.com/item?id=31575962) - [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
 * [2022-05-31, 22:56:22](https://news.ycombinator.com/item?id=31575909) - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
 * [2022-05-31, 22:46:26](https://news.ycombinator.com/item?id=31575837) - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
@@ -24,11 +25,10 @@
 * [2022-05-31, 15:31:14](https://news.ycombinator.com/item?id=31570698) - [After millennia of expansion, the world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 * [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [How Lunatic Brings Erlang's Principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
 * [2022-05-31, 13:10:52](https://news.ycombinator.com/item?id=31569070) - [4coder editor is now fully open source](https://github.com/Dion-Systems/4coder)
-* [2022-05-31, 11:49:16](https://news.ycombinator.com/item?id=31568455) - [How to rescue the world's biggest cargo ships](https://www.bbc.com/future/article/20220530-how-to-rescue-the-worlds-biggest-cargo-ships)
-* [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I took a corporation to arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-30, 18:05:07](https://news.ycombinator.com/item?id=31561780) - [Lesser known features of ClickHouse](https://pradeepchhetri.xyz/clickhouselesserknownfeatures/)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-30, 11:23:32](https://news.ycombinator.com/item?id=31557845) - [The industry has been sizing kayak paddles wrong for years](https://paddlingmag.com/skills/buying-advice/kayak-paddle-shaft-length/)
+* [2022-05-30, 07:02:45](https://news.ycombinator.com/item?id=31556214) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 * [2022-05-30, 04:56:19](https://news.ycombinator.com/item?id=31555606) - [A Vase Kept in an Ordinary Kitchen Turned Out to Be a Qing-Dynasty Artwork](https://www.smithsonianmag.com/smart-news/a-vase-kept-in-an-ordinary-kitchen-turned-out-to-be-a-qing-dynasty-artwork-worth-millions-180980154/)
 
 ## [Archives](archives/index.md)

@@ -86,6 +86,7 @@
 * [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [What Made Golang So Popular? The Language’s Creators Look Back](https://thenewstack.io/what-made-golang-so-popular-the-languages-creators-look-back/)
 * [2022-05-30, 07:31:14](https://news.ycombinator.com/item?id=31556382) - [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
 * [2022-05-30, 07:13:36](https://news.ycombinator.com/item?id=31556271) - [ORNL’s Frontier First (listed system) to Break the Exaflop Ceiling](https://top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/)
+* [2022-05-30, 07:02:45](https://news.ycombinator.com/item?id=31556214) - [CogVideo: Large-Scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
 * [2022-05-30, 07:01:06](https://news.ycombinator.com/item?id=31556209) - [Raycast (YC W20) Is Hiring First Developer Advocate (Remote, UTC ± 3h)](https://raycast.com/jobs/developer-advocate/)
 * [2022-05-30, 06:51:14](https://news.ycombinator.com/item?id=31556130) - [How to Store an SSH Key on a Yubikey](https://xeiaso.net/blog/yubikey-ssh-key-storage)
 * [2022-05-30, 06:44:56](https://news.ycombinator.com/item?id=31556095) - [The Genius of Harry Beck’s 1933 London Tube Map](https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tube-map.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-05-31](index.md)
 
+* [2022-05-31, 23:53:23](https://news.ycombinator.com/item?id=31576353) - [Tell HN: Cloudflare prevents transfer-out of domains, sets to 'pendingdelete'](https://news.ycombinator.com/item?id=31576353)
 * [2022-05-31, 23:03:40](https://news.ycombinator.com/item?id=31575962) - [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
 * [2022-05-31, 22:56:22](https://news.ycombinator.com/item?id=31575909) - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
 * [2022-05-31, 22:46:26](https://news.ycombinator.com/item?id=31575837) - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
