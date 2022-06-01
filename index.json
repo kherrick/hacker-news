@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31587139"
     ],
     [
-      "Why We Don't Show Typing Status in Cardinal",
+      "We don't show typing status",
       "https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing"
     ]
   ],
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2022-06-01, 17:51:53",
-      "https://news.ycombinator.com/item?id=31585496"
-    ],
-    [
-      "Lightmoon is not Kdenlive. Lightmoon is malware",
-      "https://kdenlive.org/en/2022/06/scam-lightmoon-is-not-kdenlive-lightmoon-is-malware/"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 17:48:42",
       "https://news.ycombinator.com/item?id=31585463"
     ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31585260"
     ],
     [
-      "The big idea: could the greatest works of literature be undiscovered?",
+      "Could the greatest works of literature be undiscovered?",
       "https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31583968"
     ],
     [
-      "The History of the Web, Timeline",
+      "The Web's Timeline",
       "https://thehistoryoftheweb.com/timeline/"
     ]
   ],
@@ -165,8 +155,8 @@
       "https://news.ycombinator.com/item?id=31583737"
     ],
     [
-      "When the us military launched 500M needles into space (2020)",
-      "https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/"
+      "The US military launched 500M needles into space (2019)",
+      "https://www.todayifoundout.com/index.php/2019/10/that-time-the-u-s-military-launched-a-half-a-billion-needles-to-space-for-reasons/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2022-06-01, 08:27:52",
+      "https://news.ycombinator.com/item?id=31579435"
+    ],
+    [
+      "JXA’s Parenthesis Paradox",
+      "https://leancrew.com/all-this/2022/05/jxas-parenthesis-paradox/"
+    ]
+  ],
+  [
+    [
       "2022-05-30, 16:38:28",
       "https://news.ycombinator.com/item?id=31560770"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31541219"
     ],
     [
-      "GraphJin – An Instant GraphQL to SQL Compiler",
+      "GraphJin – GraphQL to SQL Compiler",
       "https://graphjin.com/"
     ]
   ]
