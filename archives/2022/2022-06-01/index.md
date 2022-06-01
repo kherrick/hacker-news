@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 20:08:28](https://news.ycombinator.com/item?id=31587316) - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
+* [2022-06-01, 19:55:20](https://news.ycombinator.com/item?id=31587139) - [Why We Don't Show Typing Status in Cardinal](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
+* [2022-06-01, 19:36:48](https://news.ycombinator.com/item?id=31586885) - [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
 * [2022-06-01, 19:36:48](https://news.ycombinator.com/item?id=31586885) - [Sheryl Sandberg Stepping Down as Facebook COO](https://www.facebook.com/sheryl/posts/10166258399565177)
+* [2022-06-01, 19:31:47](https://news.ycombinator.com/item?id=31586833) - [My friend and I spent 6 years making a simulation game, it's finally released](https://news.ycombinator.com/item?id=31586833)
+* [2022-06-01, 19:25:45](https://news.ycombinator.com/item?id=31586770) - [Joe Polchinski’s “Memories of a Theoretical Physicist”](https://www.math.columbia.edu/~woit/wordpress/?p=12910)
 * [2022-06-01, 18:46:53](https://news.ycombinator.com/item?id=31586325) - [Ask HN: Is the stock markets growth largely anything more than inflation?](https://news.ycombinator.com/item?id=31586325)
 * [2022-06-01, 18:40:47](https://news.ycombinator.com/item?id=31586253) - [Ask HN: Who Wants to Be Fired? (June 2022)](https://news.ycombinator.com/item?id=31586253)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
