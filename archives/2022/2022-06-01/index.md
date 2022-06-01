@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 15:01:51](https://news.ycombinator.com/item?id=31582796) - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
+* [2022-06-01, 15:01:49](https://news.ycombinator.com/item?id=31582793) - [Ask HN: Who wants to be hired? (June 2022)](https://news.ycombinator.com/item?id=31582793)
+* [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
+* [2022-06-01, 14:22:15](https://news.ycombinator.com/item?id=31582173) - [Dreaded Commute to the City Is Keeping Offices Mostly Empty](https://www.wsj.com/articles/dreaded-commute-to-the-city-is-keeping-offices-mostly-empty-11653989581)
 * [2022-06-01, 14:10:49](https://news.ycombinator.com/item?id=31582039) - [Terraform Labs Caught Moving $4.8M Through Shell Company](https://cryptoslate.com/terraform-labs-caught-moving-4-8m-through-shell-company/)
 * [2022-06-01, 13:54:04](https://news.ycombinator.com/item?id=31581822) - [One-Third of Americans Making $250k Live Paycheck-to-Paycheck](https://www.bloomberg.com/news/articles/2022-06-01/a-third-of-americans-making-250-000-say-costs-eat-entire-salary)
 * [2022-06-01, 13:45:44](https://news.ycombinator.com/item?id=31581727) - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md)
