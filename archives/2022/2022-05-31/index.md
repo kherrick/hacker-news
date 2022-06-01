@@ -81,4 +81,5 @@
 * [2022-05-31, 02:18:48](https://news.ycombinator.com/item?id=31565514) - [I'm a loser, burnt-out, directionless but want to turn it around](https://news.ycombinator.com/item?id=31565514)
 * [2022-05-31, 01:33:42](https://news.ycombinator.com/item?id=31565311) - [Enzyme is what makes stevia so sweet](https://cen.acs.org/biological-chemistry/natural-products/enzyme-makes-stevia-sweet/97/i24)
 * [2022-05-31, 00:52:44](https://news.ycombinator.com/item?id=31565129) - [Haribo Goldbears, the world’s first gummy bears](https://www.smithsonianmag.com/history/the-colorful-history-of-haribo-goldbears-the-worlds-first-gummy-bears-180980094/)
+* [2022-05-31, 00:50:55](https://news.ycombinator.com/item?id=31565118) - [Switzerland's Ingenious Cooling Caves](https://www.bbc.com/travel/article/20220529-switzerlands-ingenious-cooling-caves)
 * [2022-05-31, 00:28:22](https://news.ycombinator.com/item?id=31565012) - [Ask HN: I Am Lost in Life. How do I fix this?](https://news.ycombinator.com/item?id=31565012)
