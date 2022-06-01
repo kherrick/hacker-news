@@ -72,6 +72,7 @@
 * [2022-05-31, 08:15:10](https://news.ycombinator.com/item?id=31567180) - [Australian digital driving licenses can be defaced in minutes](https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable/)
 * [2022-05-31, 07:41:54](https://news.ycombinator.com/item?id=31567016) - [Show HN: Todool, a full blown environment for managing large trees of task lists](https://todool.handmade.network/)
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
+* [2022-05-31, 04:49:03](https://news.ycombinator.com/item?id=31566208) - [The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma](https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html)
 * [2022-05-31, 04:47:48](https://news.ycombinator.com/item?id=31566200) - [Call for a Public Open Database of All Chemical Reactions](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140)
 * [2022-05-31, 04:24:29](https://news.ycombinator.com/item?id=31566088) - [Show HN: Query Google Sheet data using PostgreSQL clients](https://roapi.github.io/docs/config/dataset-formats/gsheet.html#example)
 * [2022-05-31, 04:20:10](https://news.ycombinator.com/item?id=31566061) - [userscript.zone: search for userscripts by URL, domain or search term](https://www.userscript.zone/)
