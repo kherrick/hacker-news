@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 12:27:40](https://news.ycombinator.com/item?id=31580842) - [Ask HN: Does your org use a password keeper?](https://news.ycombinator.com/item?id=31580842)
 * [2022-06-01, 12:19:43](https://news.ycombinator.com/item?id=31580763) - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
 * [2022-06-01, 12:15:24](https://news.ycombinator.com/item?id=31580723) - [Ask HN: Feeling burned out at an early stage in my career](https://news.ycombinator.com/item?id=31580723)
+* [2022-06-01, 11:30:27](https://news.ycombinator.com/item?id=31580407) - [Canada trials decriminalising cocaine, MDMA and other drugs](https://www.bbc.co.uk/news/world-us-canada-61657095)
 * [2022-06-01, 11:23:40](https://news.ycombinator.com/item?id=31580351) - [Show HN: Firefox extension to obfuscate web page text](https://addons.mozilla.org/en-GB/firefox/addon/obfuscator/)
+* [2022-06-01, 11:10:25](https://news.ycombinator.com/item?id=31580264) - [TomTom to cut 10% of jobs due to improved automation](https://www.tomtom.com/press-room/earnings-&-other/27646/tomtom-improves-mapmaking-process-supported-by-aligned-maps-organization/)
 * [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
 * [2022-06-01, 10:27:13](https://news.ycombinator.com/item?id=31579997) - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
 * [2022-06-01, 10:19:02](https://news.ycombinator.com/item?id=31579953) - [Show HN: Unlimited machine translation API for $200 / Month](https://news.ycombinator.com/item?id=31579953)
