@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-01, 17:57:43",
+      "https://news.ycombinator.com/item?id=31585585"
+    ],
+    [
+      "ClojureDocs – Community-powered documentation and examples for Clojure",
+      "https://clojuredocs.org/"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 17:48:42",
       "https://news.ycombinator.com/item?id=31585463"
     ],
@@ -17,6 +27,16 @@
     [
       "Entity Resolution: The most common data science challenge",
       "https://docs.magniv.io/tutorials/entity-resolution"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 17:37:17",
+      "https://news.ycombinator.com/item?id=31585304"
+    ],
+    [
+      "Ask HN: Who is firing / laying off (June 2022)",
+      "https://news.ycombinator.com/item?id=31585304"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2022-06-01, 16:02:07",
+      "https://news.ycombinator.com/item?id=31583892"
+    ],
+    [
+      "Ring Basic Plan 40% Price Increase",
+      "https://news.ycombinator.com/item?id=31583892"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 15:54:13",
       "https://news.ycombinator.com/item?id=31583737"
     ],
@@ -87,16 +117,6 @@
     [
       "New Computer Language Benchmarks Game metric: time + source code size",
       "https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 15:08:15",
-      "https://news.ycombinator.com/item?id=31582926"
-    ],
-    [
-      "Amundi warns that parts of private equity market resemble ‘Ponzi schemes’",
-      "https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "The First Lisp Compiler",
       "https://texdraft.github.io/lisp-compiler/internals.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 14:22:15",
-      "https://news.ycombinator.com/item?id=31582173"
-    ],
-    [
-      "Dreaded Commute to the City Is Keeping Offices Mostly Empty",
-      "https://www.wsj.com/articles/dreaded-commute-to-the-city-is-keeping-offices-mostly-empty-11653989581"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "John Rawls and the “Veil of Ignorance”",
       "https://open.library.okstate.edu/introphilosophy/chapter/john-rawls-and-the-veil-of-ignorance/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 09:19:57",
-      "https://news.ycombinator.com/item?id=31557041"
-    ],
-    [
-      "Build your own FPGA (2012)",
-      "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     ]
   ]
 ]
