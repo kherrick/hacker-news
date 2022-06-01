@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 21:26:18](https://news.ycombinator.com/item?id=31588358) - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
 * [2022-06-01, 20:08:28](https://news.ycombinator.com/item?id=31587316) - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
 * [2022-06-01, 19:55:20](https://news.ycombinator.com/item?id=31587139) - [Why We Don't Show Typing Status in Cardinal](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
 * [2022-06-01, 19:36:48](https://news.ycombinator.com/item?id=31586885) - [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
