@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-06-01, 15:19:15",
-      "https://news.ycombinator.com/item?id=31583124"
-    ],
-    [
-      "New Computer Language Benchmarks Game metric: time + source code size",
-      "https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 15:01:51",
       "https://news.ycombinator.com/item?id=31582796"
     ],
@@ -197,6 +187,16 @@
     [
       "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
       "https://news.ycombinator.com/item?id=31580763"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 12:04:56",
+      "https://news.ycombinator.com/item?id=31580627"
+    ],
+    [
+      "Async destructors, async genericity and completion futures",
+      "https://sabrinajewson.org/blog/async-drop"
     ]
   ],
   [
