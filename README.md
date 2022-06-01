@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 08:11:58](https://news.ycombinator.com/item?id=31579357) - [Tech experts urge Washington to resist crypto industry’s influence](https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac)
 * [2022-06-01, 07:56:10](https://news.ycombinator.com/item?id=31579275) - [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
 * [2022-06-01, 07:00:31](https://news.ycombinator.com/item?id=31578973) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 * [2022-06-01, 04:46:11](https://news.ycombinator.com/item?id=31578191) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
@@ -22,7 +23,6 @@
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 * [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [Lunatic brings Erlang's principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
 * [2022-05-31, 10:56:55](https://news.ycombinator.com/item?id=31568098) - [Algebraic Data Types in Elixir](https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html)
-* [2022-05-31, 04:49:03](https://news.ycombinator.com/item?id=31566208) - [The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma](https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html)
 * [2022-05-31, 00:50:55](https://news.ycombinator.com/item?id=31565118) - [Switzerland's Ingenious Cooling Caves](https://www.bbc.com/travel/article/20220529-switzerlands-ingenious-cooling-caves)
 * [2022-05-30, 16:14:51](https://news.ycombinator.com/item?id=31560509) - [On the Shortcomings of Gemini Protocol](https://lof.flounder.online/gemlog/2022-05-30%20On%20the%20shortcomings%20of%20gemini%20protocol.gmi)
 * [2022-05-30, 14:55:50](https://news.ycombinator.com/item?id=31559672) - [PyLucid: Lucid Interpreter Written in Python](https://github.com/billwadge/pyLucid)

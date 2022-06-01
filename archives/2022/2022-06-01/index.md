@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 08:11:58](https://news.ycombinator.com/item?id=31579357) - [Tech experts urge Washington to resist crypto industry’s influence](https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac)
 * [2022-06-01, 07:56:10](https://news.ycombinator.com/item?id=31579275) - [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
 * [2022-06-01, 07:00:31](https://news.ycombinator.com/item?id=31578973) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 * [2022-06-01, 05:38:04](https://news.ycombinator.com/item?id=31578526) - [Monado's hand tracking: hand-waving our way towards a first attempt](https://www.collabora.com/news-and-blog/blog/2022/05/31/monado-hand-tracking-hand-waving-our-way-towards-a-first-attempt/)
