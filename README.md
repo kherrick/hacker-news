@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 17:27:22](https://news.ycombinator.com/item?id=31585170) - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 * [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
+* [2022-06-01, 17:11:16](https://news.ycombinator.com/item?id=31584937) - [DOJ charges former OpenSea employee for insider NFT trading](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
 * [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
 * [2022-06-01, 15:54:13](https://news.ycombinator.com/item?id=31583737) - [When the us military launched 500M needles into space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
@@ -21,9 +23,7 @@
 * [2022-06-01, 09:31:48](https://news.ycombinator.com/item?id=31579739) - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
 * [2022-06-01, 07:56:10](https://news.ycombinator.com/item?id=31579275) - [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
 * [2022-06-01, 04:08:26](https://news.ycombinator.com/item?id=31577960) - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
-* [2022-06-01, 02:28:42](https://news.ycombinator.com/item?id=31577376) - [Science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
 * [2022-05-31, 06:58:40](https://news.ycombinator.com/item?id=31566802) - [Painting a Character with Maths (2020) [video]](https://www.youtube.com/watch?v=8--5LwHRhjk)
-* [2022-05-31, 00:50:55](https://news.ycombinator.com/item?id=31565118) - [Switzerland's ingenious cooling caves](https://www.bbc.com/travel/article/20220529-switzerlands-ingenious-cooling-caves)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An Introduction to Logical Decision Theory](https://arbital.com/p/logical_dt/?l=5kv)
 * [2022-05-30, 16:38:28](https://news.ycombinator.com/item?id=31560770) - [Monterey’s Finder Find memory leak may not be fixed](https://eclecticlight.co/2022/05/30/why-montereys-finder-find-memory-leak-may-not-be-fixed/)
 * [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
