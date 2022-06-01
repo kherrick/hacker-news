@@ -26,6 +26,7 @@
 * [2022-05-31, 18:34:29](https://news.ycombinator.com/item?id=31573108) - [Elves Leave Middle Earth – Sodas Are No Longer Free (2009)](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/)
 * [2022-05-31, 18:16:06](https://news.ycombinator.com/item?id=31572911) - [Economic Pessimism Growing in U.S.](https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx)
 * [2022-05-31, 18:13:42](https://news.ycombinator.com/item?id=31572869) - [Has the ‘great resignation’ hit academia?](https://www.nature.com/articles/d41586-022-01512-6)
+* [2022-05-31, 17:57:44](https://news.ycombinator.com/item?id=31572669) - [A gentle-ish introduction to worst-case optimal joins](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2)
 * [2022-05-31, 17:40:41](https://news.ycombinator.com/item?id=31572435) - [Farm equipment dealers block 'Right to Repair' provision in North Carolina](https://yro.slashdot.org/story/22/05/29/1958232/farm-equipment-dealers-block-right-to-repair-provision-in-north-carolina)
 * [2022-05-31, 17:33:24](https://news.ycombinator.com/item?id=31572351) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-31, 17:30:22](https://news.ycombinator.com/item?id=31572319) - [No Fair Sex in Academia: Evidence of Discrimination in Hiring to Editorial Board](https://openpsych.net/paper/66/)

@@ -23,7 +23,7 @@
 * [2022-06-01, 11:23:40](https://news.ycombinator.com/item?id=31580351) - [Show HN: Firefox extension to obfuscate web page text](https://addons.mozilla.org/en-GB/firefox/addon/obfuscator/)
 * [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [Physicists are building neural networks out of vibrations, voltages and lasers](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
-* [2022-06-01, 08:27:52](https://news.ycombinator.com/item?id=31579435) - [JXA’s Parenthesis Paradox](https://leancrew.com/all-this/2022/05/jxas-parenthesis-paradox/)
+* [2022-05-31, 17:57:44](https://news.ycombinator.com/item?id=31572669) - [A gentle-ish introduction to worst-case optimal joins](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2)
 * [2022-05-31, 15:19:01](https://news.ycombinator.com/item?id=31570547) - [A Once-in-a-Lifetime Bird](https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research)
 * [2022-05-30, 12:58:43](https://news.ycombinator.com/item?id=31558499) - [The world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 * [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
