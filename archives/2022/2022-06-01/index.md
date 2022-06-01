@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 19:36:48](https://news.ycombinator.com/item?id=31586885) - [Sheryl Sandberg Stepping Down as Facebook COO](https://www.facebook.com/sheryl/posts/10166258399565177)
 * [2022-06-01, 18:46:53](https://news.ycombinator.com/item?id=31586325) - [Ask HN: Is the stock markets growth largely anything more than inflation?](https://news.ycombinator.com/item?id=31586325)
 * [2022-06-01, 18:40:47](https://news.ycombinator.com/item?id=31586253) - [Ask HN: Who Wants to Be Fired? (June 2022)](https://news.ycombinator.com/item?id=31586253)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)

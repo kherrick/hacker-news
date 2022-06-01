@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 19:36:48](https://news.ycombinator.com/item?id=31586885) - [Sheryl Sandberg Stepping Down as Facebook COO](https://www.facebook.com/sheryl/posts/10166258399565177)
 * [2022-06-01, 18:46:53](https://news.ycombinator.com/item?id=31586325) - [Ask HN: Is the stock markets growth largely anything more than inflation?](https://news.ycombinator.com/item?id=31586325)
 * [2022-06-01, 18:40:47](https://news.ycombinator.com/item?id=31586253) - [Ask HN: Who Wants to Be Fired? (June 2022)](https://news.ycombinator.com/item?id=31586253)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
@@ -28,7 +29,6 @@
 * [2022-05-30, 16:38:28](https://news.ycombinator.com/item?id=31560770) - [Monterey’s Finder Find memory leak may not be fixed](https://eclecticlight.co/2022/05/30/why-montereys-finder-find-memory-leak-may-not-be-fixed/)
 * [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
-* [2022-05-30, 09:19:57](https://news.ycombinator.com/item?id=31557041) - [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 * [2022-05-28, 15:45:10](https://news.ycombinator.com/item?id=31541219) - [GraphJin – An Instant GraphQL to SQL Compiler](https://graphjin.com/)
 
 ## [Archives](archives/index.md)
