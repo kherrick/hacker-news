@@ -33,6 +33,7 @@
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
 * [2022-05-31, 17:08:18](https://news.ycombinator.com/item?id=31572031) - [SomaFM](https://somafm.com/)
 * [2022-05-31, 16:48:10](https://news.ycombinator.com/item?id=31571763) - [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
+* [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
 * [2022-05-31, 16:39:01](https://news.ycombinator.com/item?id=31571645) - [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
 * [2022-05-31, 16:33:07](https://news.ycombinator.com/item?id=31571566) - [Thin Platforms](https://stratechery.com/2022/thin-platforms/)

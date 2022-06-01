@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 04:08:26](https://news.ycombinator.com/item?id=31577960) - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
+* [2022-06-01, 03:56:37](https://news.ycombinator.com/item?id=31577888) - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
 * [2022-06-01, 02:28:42](https://news.ycombinator.com/item?id=31577376) - [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
-* [2022-06-01, 02:23:31](https://news.ycombinator.com/item?id=31577343) - [3DILG: Irregular Latent Grids for 3D generative modeling](https://1zb.github.io/3DILG/)
 * [2022-06-01, 02:20:18](https://news.ycombinator.com/item?id=31577325) - [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
-* [2022-06-01, 01:33:06](https://news.ycombinator.com/item?id=31577030) - [VC Meltdown](https://www.bogleheads.org/forum/viewtopic.php?t=378673)
+* [2022-06-01, 02:09:32](https://news.ycombinator.com/item?id=31577268) - [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
 * [2022-06-01, 00:34:07](https://news.ycombinator.com/item?id=31576634) - [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)
 * [2022-05-31, 23:03:40](https://news.ycombinator.com/item?id=31575962) - [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
 * [2022-05-31, 22:56:22](https://news.ycombinator.com/item?id=31575909) - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
-* [2022-05-31, 22:46:26](https://news.ycombinator.com/item?id=31575837) - [Unclonable Polymers and Their Cryptographic Applications](https://eprint.iacr.org/2022/658)
 * [2022-05-31, 22:44:38](https://news.ycombinator.com/item?id=31575822) - [SPACs are warning they may go bust](https://www.wsj.com/articles/spacs-are-warning-they-may-go-bust-11653601111)
 * [2022-05-31, 22:36:41](https://news.ycombinator.com/item?id=31575765) - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
 * [2022-05-31, 21:55:30](https://news.ycombinator.com/item?id=31575429) - [Why Darwin failed (2006)](http://www.synack.net/~bbraun/writing/osfail.html)
@@ -20,6 +20,7 @@
 * [2022-05-31, 19:07:12](https://news.ycombinator.com/item?id=31573525) - [You don’t need to be “enterprise-ready” or “scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
 * [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
+* [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html)
 * [2022-05-31, 16:25:58](https://news.ycombinator.com/item?id=31571476) - [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
 * [2022-05-31, 15:49:49](https://news.ycombinator.com/item?id=31570953) - [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [Lunatic brings Erlang's principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
@@ -29,7 +30,6 @@
 * [2022-05-30, 16:00:33](https://news.ycombinator.com/item?id=31560362) - [Programming cells with computer-like logic](https://wyss.harvard.edu/news/programming-cells-with-computer-like-logic/)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-30, 11:23:32](https://news.ycombinator.com/item?id=31557845) - [The industry has been sizing kayak paddles wrong](https://paddlingmag.com/skills/buying-advice/kayak-paddle-shaft-length/)
-* [2022-05-30, 04:56:19](https://news.ycombinator.com/item?id=31555606) - [A vase kept in an ordinary kitchen turned out to be a Qing-dynasty artwork](https://www.smithsonianmag.com/smart-news/a-vase-kept-in-an-ordinary-kitchen-turned-out-to-be-a-qing-dynasty-artwork-worth-millions-180980154/)
 
 ## [Archives](archives/index.md)
 
