@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-06-01, 03:56:37",
-      "https://news.ycombinator.com/item?id=31577888"
-    ],
-    [
-      "LGTM – A simple pull request approval system",
-      "https://github.com/go-gitea/lgtm"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 02:28:42",
       "https://news.ycombinator.com/item?id=31577376"
     ],
@@ -47,16 +37,6 @@
     [
       "I got hacked and Facebook banned me",
       "https://emilycordes.com/facebook/"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 02:09:32",
-      "https://news.ycombinator.com/item?id=31577268"
-    ],
-    [
-      "Elon Musk Tesla email: Remote work is no longer acceptable",
-      "https://twitter.com/wholemarsblog/status/1531807546729799687"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2022-05-31, 16:44:16",
+      "https://news.ycombinator.com/item?id=31571711"
+    ],
+    [
+      "NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)",
+      "https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 16:25:58",
       "https://news.ycombinator.com/item?id=31571476"
     ],
@@ -297,6 +287,16 @@
     [
       "The industry has been sizing kayak paddles wrong",
       "https://paddlingmag.com/skills/buying-advice/kayak-paddle-shaft-length/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 11:21:51",
+      "https://news.ycombinator.com/item?id=31557835"
+    ],
+    [
+      "Documenting Design Decisions Using RFCs and ADRs (2020)",
+      "https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs"
     ]
   ]
 ]
