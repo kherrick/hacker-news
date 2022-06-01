@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31586325"
     ],
     [
-      "Ask HN: Is the stock markets growth largely anything more than inflation?",
+      "Ask HN: Is the stock market's growth largely anything more than inflation?",
       "https://news.ycombinator.com/item?id=31586325"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31584226"
     ],
     [
-      "Show HN: BrainIDE – A feature-packed brainfuck compiler",
+      "Show HN: BrainIDE – A feature-packed Brainfuck compiler",
       "https://github.com/LovetheFrogs/BrainIDE"
     ]
   ],
@@ -157,6 +157,16 @@
     [
       "The US military launched 500M needles into space (2019)",
       "https://www.todayifoundout.com/index.php/2019/10/that-time-the-u-s-military-launched-a-half-a-billion-needles-to-space-for-reasons/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 15:19:15",
+      "https://news.ycombinator.com/item?id=31583124"
+    ],
+    [
+      "New Computer Language Benchmarks Game metric: time + source code size",
+      "https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=31579873"
     ],
     [
-      "How to Make the Universe Think for Us",
+      "Physicists are building neural networks out of vibrations, voltages and lasers",
       "https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "JXA’s Parenthesis Paradox",
       "https://leancrew.com/all-this/2022/05/jxas-parenthesis-paradox/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 16:38:28",
-      "https://news.ycombinator.com/item?id=31560770"
-    ],
-    [
-      "Monterey’s Finder Find memory leak may not be fixed",
-      "https://eclecticlight.co/2022/05/30/why-montereys-finder-find-memory-leak-may-not-be-fixed/"
     ]
   ],
   [
