@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-06-01, 15:01:51",
+      "https://news.ycombinator.com/item?id=31582796"
+    ],
+    [
+      "Ask HN: Who is hiring? (June 2022)",
+      "https://news.ycombinator.com/item?id=31582796"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 15:01:49",
+      "https://news.ycombinator.com/item?id=31582793"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (June 2022)",
+      "https://news.ycombinator.com/item?id=31582793"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 14:43:40",
+      "https://news.ycombinator.com/item?id=31582494"
+    ],
+    [
+      "The First Lisp Compiler",
+      "https://texdraft.github.io/lisp-compiler/internals.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 14:22:15",
+      "https://news.ycombinator.com/item?id=31582173"
+    ],
+    [
+      "Dreaded Commute to the City Is Keeping Offices Mostly Empty",
+      "https://www.wsj.com/articles/dreaded-commute-to-the-city-is-keeping-offices-mostly-empty-11653989581"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 14:10:49",
       "https://news.ycombinator.com/item?id=31582039"
     ],
@@ -27,16 +67,6 @@
     [
       "All About Libpas, Phil's Super Fast Malloc",
       "https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 13:45:19",
-      "https://news.ycombinator.com/item?id=31581719"
-    ],
-    [
-      "Elon Musk on Remote Work",
-      "https://twitter.com/TechEmails/status/1531994582669348864"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-06-01, 12:13:46",
-      "https://news.ycombinator.com/item?id=31580707"
-    ],
-    [
-      "Fixing Social Media with Data Trusts",
-      "https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 11:23:40",
       "https://news.ycombinator.com/item?id=31580351"
     ],
@@ -107,16 +127,6 @@
     [
       "Show HN: An open source alternative to Evernote (Self Hosted)",
       "https://github.com/git-noter/gitnoter"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 10:27:13",
-      "https://news.ycombinator.com/item?id=31579997"
-    ],
-    [
-      "The US “labor shortage” is just a wage shortage (2021)",
-      "https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Remembering Apple’s Newton, 30 years on",
       "https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 11:21:51",
-      "https://news.ycombinator.com/item?id=31557835"
-    ],
-    [
-      "Documenting Design Decisions Using RFCs and ADRs (2020)",
-      "https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs"
     ]
   ],
   [
