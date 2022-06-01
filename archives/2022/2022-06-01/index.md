@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 15:08:15](https://news.ycombinator.com/item?id=31582926) - [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
 * [2022-06-01, 15:01:51](https://news.ycombinator.com/item?id=31582796) - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
 * [2022-06-01, 15:01:50](https://news.ycombinator.com/item?id=31582795) - [Ask HN: Freelancer? Seeking freelancer? (June 2022)](https://news.ycombinator.com/item?id=31582795)
 * [2022-06-01, 15:01:49](https://news.ycombinator.com/item?id=31582793) - [Ask HN: Who wants to be hired? (June 2022)](https://news.ycombinator.com/item?id=31582793)
@@ -15,6 +16,7 @@
 * [2022-06-01, 13:45:44](https://news.ycombinator.com/item?id=31581727) - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md)
 * [2022-06-01, 13:45:19](https://news.ycombinator.com/item?id=31581719) - [Elon Musk on Remote Work](https://twitter.com/TechEmails/status/1531994582669348864)
 * [2022-06-01, 13:30:09](https://news.ycombinator.com/item?id=31581543) - [Google's PageRank patent has expired (2019)](https://patents.google.com/patent/US6285999B1/en)
+* [2022-06-01, 13:25:23](https://news.ycombinator.com/item?id=31581478) - [High-performance GLQuake fork using modern graphics pipeline](https://github.com/andrei-drexler/ironwail)
 * [2022-06-01, 12:27:40](https://news.ycombinator.com/item?id=31580842) - [Ask HN: Does your org use a password keeper?](https://news.ycombinator.com/item?id=31580842)
 * [2022-06-01, 12:19:43](https://news.ycombinator.com/item?id=31580763) - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
 * [2022-06-01, 12:15:24](https://news.ycombinator.com/item?id=31580723) - [Ask HN: Feeling burned out at an early stage in my career](https://news.ycombinator.com/item?id=31580723)
