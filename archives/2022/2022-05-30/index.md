@@ -53,6 +53,7 @@
 * [2022-05-30, 14:22:15](https://news.ycombinator.com/item?id=31559270) - [The Story of Heroku](https://leerob.io/blog/heroku)
 * [2022-05-30, 14:08:40](https://news.ycombinator.com/item?id=31559118) - [Embracing Modern C++ Safely, Book Review](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 * [2022-05-30, 14:08:38](https://news.ycombinator.com/item?id=31559117) - [Hack a Satellite](https://hackasat.com/)
+* [2022-05-30, 14:08:18](https://news.ycombinator.com/item?id=31559113) - [The Pit, the Cabin, and the Dance Floor (2020)](http://jamie-wong.com/post/the-pit/)
 * [2022-05-30, 14:03:35](https://news.ycombinator.com/item?id=31559065) - [Enter a command to see help text for each arg](https://explainshell.com/)
 * [2022-05-30, 13:54:11](https://news.ycombinator.com/item?id=31558970) - [Viruses that were on hiatus during Covid are back, behaving in unexpected ways](https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/)
 * [2022-05-30, 13:46:19](https://news.ycombinator.com/item?id=31558890) - [The Software Industry Is Still the Problem](https://cacm.acm.org/magazines/2022/6/261171-the-software-industry-is-still-the-problem/fulltext)

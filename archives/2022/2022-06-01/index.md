@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 04:46:11](https://news.ycombinator.com/item?id=31578191) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 * [2022-06-01, 04:08:26](https://news.ycombinator.com/item?id=31577960) - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
 * [2022-06-01, 03:56:37](https://news.ycombinator.com/item?id=31577888) - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
 * [2022-06-01, 02:28:42](https://news.ycombinator.com/item?id=31577376) - [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
