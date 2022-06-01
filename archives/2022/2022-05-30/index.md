@@ -83,6 +83,7 @@
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Microgrants ($100–$500) for microprojects to make computing marginally better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 * [2022-05-30, 09:31:11](https://news.ycombinator.com/item?id=31557105) - [Scaleway price 'harmonization' (mostly increases)](https://news.ycombinator.com/item?id=31557105)
+* [2022-05-30, 09:19:57](https://news.ycombinator.com/item?id=31557041) - [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
 * [2022-05-30, 09:10:08](https://news.ycombinator.com/item?id=31556989) - [DuckDuckGo faces controversy over tracking agreement with Microsoft](https://metro.co.uk/2022/05/27/private-browser-duckduckgo-found-to-actually-be-tracking-users-16722038/)
 * [2022-05-30, 09:05:43](https://news.ycombinator.com/item?id=31556961) - [Show HN: Top Links from Hacker News, Reddit, Techmeme, PH on a Single Page](https://alltoplinks.com/)
 * [2022-05-30, 08:35:10](https://news.ycombinator.com/item?id=31556774) - [The ‘Capital of Silicon Valley’ Is Ignoring Its Privacy Experts](https://www.vice.com/en/article/g5qzj3/the-capital-of-silicon-valley-is-ignoring-its-privacy-experts)
