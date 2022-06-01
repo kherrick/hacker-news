@@ -6,6 +6,7 @@
 
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
 * [2022-06-01, 10:00:06](https://news.ycombinator.com/item?id=31579862) - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
+* [2022-06-01, 09:31:48](https://news.ycombinator.com/item?id=31579739) - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
 * [2022-06-01, 08:11:58](https://news.ycombinator.com/item?id=31579357) - [Tech experts urge Washington to resist crypto industry’s influence](https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac)
 * [2022-06-01, 07:56:10](https://news.ycombinator.com/item?id=31579275) - [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
 * [2022-06-01, 07:00:31](https://news.ycombinator.com/item?id=31578973) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
