@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 07:56:10](https://news.ycombinator.com/item?id=31579275) - [What Good, Cash-Strapped Hiring Looks Like](https://commoncog.com/blog/cash-strapped-hiring/)
 * [2022-06-01, 07:00:31](https://news.ycombinator.com/item?id=31578973) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 * [2022-06-01, 04:46:11](https://news.ycombinator.com/item?id=31578191) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 * [2022-06-01, 04:08:26](https://news.ycombinator.com/item?id=31577960) - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
@@ -28,7 +29,6 @@
 * [2022-05-30, 14:55:50](https://news.ycombinator.com/item?id=31559672) - [PyLucid: Lucid Interpreter Written in Python](https://github.com/billwadge/pyLucid)
 * [2022-05-30, 14:08:18](https://news.ycombinator.com/item?id=31559113) - [The Pit, the Cabin, and the Dance Floor (2020)](http://jamie-wong.com/post/the-pit/)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
-* [2022-05-30, 11:23:32](https://news.ycombinator.com/item?id=31557845) - [The industry has been sizing kayak paddles wrong](https://paddlingmag.com/skills/buying-advice/kayak-paddle-shaft-length/)
 * [2022-05-30, 11:21:51](https://news.ycombinator.com/item?id=31557835) - [Documenting Design Decisions Using RFCs and ADRs (2020)](https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs)
 
 ## [Archives](archives/index.md)
