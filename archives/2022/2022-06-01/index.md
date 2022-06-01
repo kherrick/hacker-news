@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 13:45:44](https://news.ycombinator.com/item?id=31581727) - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md)
+* [2022-06-01, 13:30:09](https://news.ycombinator.com/item?id=31581543) - [Google's PageRank patent has expired (2019)](https://patents.google.com/patent/US6285999B1/en)
 * [2022-06-01, 12:27:40](https://news.ycombinator.com/item?id=31580842) - [Ask HN: Does your org use a password keeper?](https://news.ycombinator.com/item?id=31580842)
 * [2022-06-01, 12:19:43](https://news.ycombinator.com/item?id=31580763) - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
 * [2022-06-01, 12:15:24](https://news.ycombinator.com/item?id=31580723) - [Ask HN: Feeling burned out at an early stage in my career](https://news.ycombinator.com/item?id=31580723)
+* [2022-06-01, 12:13:46](https://news.ycombinator.com/item?id=31580707) - [Fixing Social Media with Data Trusts](https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/)
 * [2022-06-01, 11:30:27](https://news.ycombinator.com/item?id=31580407) - [Canada trials decriminalising cocaine, MDMA and other drugs](https://www.bbc.co.uk/news/world-us-canada-61657095)
 * [2022-06-01, 11:23:40](https://news.ycombinator.com/item?id=31580351) - [Show HN: Firefox extension to obfuscate web page text](https://addons.mozilla.org/en-GB/firefox/addon/obfuscator/)
 * [2022-06-01, 11:10:25](https://news.ycombinator.com/item?id=31580264) - [TomTom to cut 10% of jobs due to improved automation](https://www.tomtom.com/press-room/earnings-&-other/27646/tomtom-improves-mapmaking-process-supported-by-aligned-maps-organization/)
