@@ -2,10 +2,8 @@
 
 * [2022-06-01, 04:46:11](https://news.ycombinator.com/item?id=31578191) - [Einstein: NewtonOS running on other operating systems](https://github.com/pguyot/Einstein)
 * [2022-06-01, 04:08:26](https://news.ycombinator.com/item?id=31577960) - [Modern TUI calendar and task manager with customizable interface](https://github.com/anufrievroman/calcure)
-* [2022-06-01, 03:56:37](https://news.ycombinator.com/item?id=31577888) - [LGTM – A simple pull request approval system](https://github.com/go-gitea/lgtm)
 * [2022-06-01, 02:28:42](https://news.ycombinator.com/item?id=31577376) - [Science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2)
 * [2022-06-01, 02:20:18](https://news.ycombinator.com/item?id=31577325) - [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
-* [2022-06-01, 02:09:32](https://news.ycombinator.com/item?id=31577268) - [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
 * [2022-06-01, 00:34:07](https://news.ycombinator.com/item?id=31576634) - [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)
 * [2022-05-31, 23:03:40](https://news.ycombinator.com/item?id=31575962) - [Modern CSV Version 2 Beta is now available](https://www.moderncsv.com/beta/)
 * [2022-05-31, 22:56:22](https://news.ycombinator.com/item?id=31575909) - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/)
@@ -21,6 +19,7 @@
 * [2022-05-31, 19:07:12](https://news.ycombinator.com/item?id=31573525) - [You don’t need to be “enterprise-ready” or “scalable”](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
 * [2022-05-31, 18:46:46](https://news.ycombinator.com/item?id=31573282) - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402)
 * [2022-05-31, 17:25:25](https://news.ycombinator.com/item?id=31572258) - [Show HN: Can you lose at Wordle if you tried?](https://dontwordle.com/)
+* [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html)
 * [2022-05-31, 16:25:58](https://news.ycombinator.com/item?id=31571476) - [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
 * [2022-05-31, 15:49:49](https://news.ycombinator.com/item?id=31570953) - [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [Lunatic brings Erlang's principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
@@ -30,6 +29,7 @@
 * [2022-05-30, 14:08:18](https://news.ycombinator.com/item?id=31559113) - [The Pit, the Cabin, and the Dance Floor (2020)](http://jamie-wong.com/post/the-pit/)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-30, 11:23:32](https://news.ycombinator.com/item?id=31557845) - [The industry has been sizing kayak paddles wrong](https://paddlingmag.com/skills/buying-advice/kayak-paddle-shaft-length/)
+* [2022-05-30, 11:21:51](https://news.ycombinator.com/item?id=31557835) - [Documenting Design Decisions Using RFCs and ADRs (2020)](https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs)
 
 ## [Archives](archives/index.md)
 
