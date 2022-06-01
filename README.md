@@ -25,7 +25,7 @@
 * [2022-05-31, 13:52:46](https://news.ycombinator.com/item?id=31569482) - [Lunatic brings Erlang's principles to WebAssembly](https://serokell.io/blog/lunatic-with-bernard-kolobara)
 * [2022-05-31, 10:56:55](https://news.ycombinator.com/item?id=31568098) - [Algebraic Data Types in Elixir](https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html)
 * [2022-05-31, 00:50:55](https://news.ycombinator.com/item?id=31565118) - [Switzerland's Ingenious Cooling Caves](https://www.bbc.com/travel/article/20220529-switzerlands-ingenious-cooling-caves)
-* [2022-05-30, 14:55:50](https://news.ycombinator.com/item?id=31559672) - [PyLucid: Lucid Interpreter Written in Python](https://github.com/billwadge/pyLucid)
+* [2022-05-30, 14:58:35](https://news.ycombinator.com/item?id=31559698) - [The Process and Progress of Economics (1983)](https://www.jstor.org/stable/1831067)
 * [2022-05-30, 14:08:18](https://news.ycombinator.com/item?id=31559113) - [The Pit, the Cabin, and the Dance Floor (2020)](http://jamie-wong.com/post/the-pit/)
 * [2022-05-30, 11:53:17](https://news.ycombinator.com/item?id=31558038) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/)
 * [2022-05-30, 11:21:51](https://news.ycombinator.com/item?id=31557835) - [Documenting Design Decisions Using RFCs and ADRs (2020)](https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs)
