@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 17:48:42](https://news.ycombinator.com/item?id=31585463) - [Using a catch-all domain is a mistake](https://www.notcheckmark.com/2022/06/catch-all-domain/)
+* [2022-06-01, 17:45:07](https://news.ycombinator.com/item?id=31585405) - [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution)
 * [2022-06-01, 17:27:22](https://news.ycombinator.com/item?id=31585170) - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 * [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
 * [2022-06-01, 17:11:16](https://news.ycombinator.com/item?id=31584937) - [DOJ charges former OpenSea employee for insider NFT trading](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)

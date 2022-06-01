@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 17:48:42](https://news.ycombinator.com/item?id=31585463) - [Using a catch-all domain is a mistake](https://www.notcheckmark.com/2022/06/catch-all-domain/)
+* [2022-06-01, 17:45:07](https://news.ycombinator.com/item?id=31585405) - [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution)
 * [2022-06-01, 17:27:22](https://news.ycombinator.com/item?id=31585170) - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 * [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
 * [2022-06-01, 17:11:16](https://news.ycombinator.com/item?id=31584937) - [DOJ charges former OpenSea employee for insider NFT trading](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
@@ -15,7 +17,6 @@
 * [2022-06-01, 14:10:49](https://news.ycombinator.com/item?id=31582039) - [Terraform Labs Caught Moving $4.8M Through Shell Company](https://cryptoslate.com/terraform-labs-caught-moving-4-8m-through-shell-company/)
 * [2022-06-01, 13:45:44](https://news.ycombinator.com/item?id=31581727) - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md)
 * [2022-06-01, 13:25:23](https://news.ycombinator.com/item?id=31581478) - [High-performance GLQuake fork using modern graphics pipeline](https://github.com/andrei-drexler/ironwail)
-* [2022-06-01, 12:19:43](https://news.ycombinator.com/item?id=31580763) - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
 * [2022-06-01, 11:23:40](https://news.ycombinator.com/item?id=31580351) - [Show HN: Firefox extension to obfuscate web page text](https://addons.mozilla.org/en-GB/firefox/addon/obfuscator/)
 * [2022-06-01, 11:10:25](https://news.ycombinator.com/item?id=31580264) - [TomTom to cut 10% of jobs due to improved automation](https://www.tomtom.com/press-room/earnings-&-other/27646/tomtom-improves-mapmaking-process-supported-by-aligned-maps-organization/)
 * [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
@@ -29,7 +30,6 @@
 * [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:16:38](https://news.ycombinator.com/item?id=31557355) - [John Rawls and the “Veil of Ignorance”](https://open.library.okstate.edu/introphilosophy/chapter/john-rawls-and-the-veil-of-ignorance/)
 * [2022-05-30, 09:19:57](https://news.ycombinator.com/item?id=31557041) - [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
-* [2022-05-28, 16:32:20](https://news.ycombinator.com/item?id=31541634) - [Study confirms superior sound of a Stradivari is due to the varnish (2021)](https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish/)
 
 ## [Archives](archives/index.md)
 
