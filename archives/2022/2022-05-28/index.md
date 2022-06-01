@@ -29,6 +29,7 @@
 * [2022-05-28, 16:45:11](https://news.ycombinator.com/item?id=31541747) - [Greece passes first climate law, vows to cut dependence on fossil fuels](https://uk.news.yahoo.com/greece-passes-first-climate-law-161337788.html)
 * [2022-05-28, 16:39:18](https://news.ycombinator.com/item?id=31541687) - [What It's Like to See Sound [video]](https://www.youtube.com/watch?v=OGvy0sJfSMo)
 * [2022-05-28, 16:32:30](https://news.ycombinator.com/item?id=31541636) - [Le Paper Globe – a DIY paper terrestrial globe (2012)](http://joachimesque.com/globe/index.html.en)
+* [2022-05-28, 16:32:20](https://news.ycombinator.com/item?id=31541634) - [Study confirms superior sound of a Stradivari is due to the varnish (2021)](https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish/)
 * [2022-05-28, 16:15:07](https://news.ycombinator.com/item?id=31541477) - [Translating math into code with examples in Java, Racket, Haskell, Python (2011)](https://matt.might.net/articles/discrete-math-and-code/)
 * [2022-05-28, 16:12:39](https://news.ycombinator.com/item?id=31541460) - [Southern thought, islandness and real-existing degrowth in the Mediterranean](https://www.sciencedirect.com/science/article/pii/S0305750X22001474)
 * [2022-05-28, 15:56:52](https://news.ycombinator.com/item?id=31541320) - [Study shows entrepreneurs who see themselves as rational, aren’t always rational](https://oa.mg/blog/persist-or-give-up/)
