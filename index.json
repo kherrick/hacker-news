@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-06-01, 20:08:28",
+      "https://news.ycombinator.com/item?id=31587316"
+    ],
+    [
+      "No, DALL-E doesn’t have a secret language",
+      "https://twitter.com/benjamin_hilton/status/1531780892972175361"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 19:55:20",
+      "https://news.ycombinator.com/item?id=31587139"
+    ],
+    [
+      "Why We Don't Show Typing Status in Cardinal",
+      "https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 19:36:48",
       "https://news.ycombinator.com/item?id=31586885"
     ],
     [
-      "Sheryl Sandberg Stepping Down as Facebook COO",
-      "https://www.facebook.com/sheryl/posts/10166258399565177"
+      "Sheryl Sandberg stepping down as Facebook COO",
+      "https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 19:31:47",
+      "https://news.ycombinator.com/item?id=31586833"
+    ],
+    [
+      "My friend and I spent 6 years making a simulation game, it's finally released",
+      "https://news.ycombinator.com/item?id=31586833"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 19:25:45",
+      "https://news.ycombinator.com/item?id=31586770"
+    ],
+    [
+      "Joe Polchinski’s “Memories of a Theoretical Physicist”",
+      "https://www.math.columbia.edu/~woit/wordpress/?p=12910"
     ]
   ],
   [
@@ -17,16 +57,6 @@
     [
       "Ask HN: Is the stock markets growth largely anything more than inflation?",
       "https://news.ycombinator.com/item?id=31586325"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 18:40:47",
-      "https://news.ycombinator.com/item?id=31586253"
-    ],
-    [
-      "Ask HN: Who Wants to Be Fired? (June 2022)",
-      "https://news.ycombinator.com/item?id=31586253"
     ]
   ],
   [
@@ -57,6 +87,16 @@
     [
       "Lightmoon is not Kdenlive. Lightmoon is malware",
       "https://kdenlive.org/en/2022/06/scam-lightmoon-is-not-kdenlive-lightmoon-is-malware/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 17:48:42",
+      "https://news.ycombinator.com/item?id=31585463"
+    ],
+    [
+      "Using a catch-all domain is a mistake",
+      "https://www.notcheckmark.com/2022/06/catch-all-domain/"
     ]
   ],
   [
@@ -125,18 +165,8 @@
       "https://news.ycombinator.com/item?id=31583737"
     ],
     [
-      "When the us military launched 500M needles into space",
+      "When the us military launched 500M needles into space (2020)",
       "https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 15:19:15",
-      "https://news.ycombinator.com/item?id=31583124"
-    ],
-    [
-      "New Computer Language Benchmarks Game metric: time + source code size",
-      "https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "Ask HN: Who is hiring? (June 2022)",
       "https://news.ycombinator.com/item?id=31582796"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 15:01:49",
-      "https://news.ycombinator.com/item?id=31582793"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (June 2022)",
-      "https://news.ycombinator.com/item?id=31582793"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2022-06-01, 13:25:23",
-      "https://news.ycombinator.com/item?id=31581478"
+      "2022-06-01, 12:19:43",
+      "https://news.ycombinator.com/item?id=31580763"
     ],
     [
-      "High-performance GLQuake fork using modern graphics pipeline",
-      "https://github.com/andrei-drexler/ironwail"
+      "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
+      "https://news.ycombinator.com/item?id=31580763"
     ]
   ],
   [
@@ -231,36 +251,6 @@
   ],
   [
     [
-      "2022-06-01, 09:31:48",
-      "https://news.ycombinator.com/item?id=31579739"
-    ],
-    [
-      "World’s largest organism found in Australia",
-      "https://www.science.org/content/article/world-s-largest-organism-found-australia"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 07:56:10",
-      "https://news.ycombinator.com/item?id=31579275"
-    ],
-    [
-      "What Good, Cash-Strapped Hiring Looks Like",
-      "https://commoncog.com/blog/cash-strapped-hiring/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 20:37:24",
-      "https://news.ycombinator.com/item?id=31563384"
-    ],
-    [
-      "An Introduction to Logical Decision Theory",
-      "https://arbital.com/p/logical_dt/?l=5kv"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 16:38:28",
       "https://news.ycombinator.com/item?id=31560770"
     ],
@@ -277,6 +267,16 @@
     [
       "Ffmpeg Buddy",
       "https://evanhahn.github.io/ffmpeg-buddy/"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 10:16:38",
+      "https://news.ycombinator.com/item?id=31557355"
+    ],
+    [
+      "John Rawls and the “Veil of Ignorance” (2020)",
+      "https://open.library.okstate.edu/introphilosophy/chapter/john-rawls-and-the-veil-of-ignorance/"
     ]
   ],
   [
