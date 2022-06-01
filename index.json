@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-01, 17:48:42",
+      "https://news.ycombinator.com/item?id=31585463"
+    ],
+    [
+      "Using a catch-all domain is a mistake",
+      "https://www.notcheckmark.com/2022/06/catch-all-domain/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 17:45:07",
+      "https://news.ycombinator.com/item?id=31585405"
+    ],
+    [
+      "Entity Resolution: The most common data science challenge",
+      "https://docs.magniv.io/tutorials/entity-resolution"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 17:27:22",
       "https://news.ycombinator.com/item?id=31585170"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-06-01, 12:19:43",
-      "https://news.ycombinator.com/item?id=31580763"
-    ],
-    [
-      "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
-      "https://news.ycombinator.com/item?id=31580763"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 11:23:40",
       "https://news.ycombinator.com/item?id=31580351"
     ],
@@ -287,16 +297,6 @@
     [
       "Build your own FPGA (2012)",
       "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 16:32:20",
-      "https://news.ycombinator.com/item?id=31541634"
-    ],
-    [
-      "Study confirms superior sound of a Stradivari is due to the varnish (2021)",
-      "https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish/"
     ]
   ]
 ]
