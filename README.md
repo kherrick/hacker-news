@@ -1,17 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
 * [2022-06-01, 17:57:43](https://news.ycombinator.com/item?id=31585585) - [ClojureDocs – Community-powered documentation and examples for Clojure](https://clojuredocs.org/)
-* [2022-06-01, 17:48:42](https://news.ycombinator.com/item?id=31585463) - [Using a catch-all domain is a mistake](https://www.notcheckmark.com/2022/06/catch-all-domain/)
 * [2022-06-01, 17:45:07](https://news.ycombinator.com/item?id=31585405) - [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution)
-* [2022-06-01, 17:37:17](https://news.ycombinator.com/item?id=31585304) - [Ask HN: Who is firing / laying off (June 2022)](https://news.ycombinator.com/item?id=31585304)
 * [2022-06-01, 17:27:22](https://news.ycombinator.com/item?id=31585170) - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 * [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
 * [2022-06-01, 17:11:16](https://news.ycombinator.com/item?id=31584937) - [DOJ charges former OpenSea employee for insider NFT trading](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
 * [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
-* [2022-06-01, 16:02:07](https://news.ycombinator.com/item?id=31583892) - [Ring Basic Plan 40% Price Increase](https://news.ycombinator.com/item?id=31583892)
 * [2022-06-01, 15:54:13](https://news.ycombinator.com/item?id=31583737) - [When the us military launched 500M needles into space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
 * [2022-06-01, 15:19:15](https://news.ycombinator.com/item?id=31583124) - [New Computer Language Benchmarks Game metric: time + source code size](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
+* [2022-06-01, 15:08:15](https://news.ycombinator.com/item?id=31582926) - [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
 * [2022-06-01, 15:01:51](https://news.ycombinator.com/item?id=31582796) - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
 * [2022-06-01, 15:01:49](https://news.ycombinator.com/item?id=31582793) - [Ask HN: Who wants to be hired? (June 2022)](https://news.ycombinator.com/item?id=31582793)
 * [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
@@ -30,6 +29,7 @@
 * [2022-05-30, 16:38:28](https://news.ycombinator.com/item?id=31560770) - [Monterey’s Finder Find memory leak may not be fixed](https://eclecticlight.co/2022/05/30/why-montereys-finder-find-memory-leak-may-not-be-fixed/)
 * [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:16:38](https://news.ycombinator.com/item?id=31557355) - [John Rawls and the “Veil of Ignorance”](https://open.library.okstate.edu/introphilosophy/chapter/john-rawls-and-the-veil-of-ignorance/)
+* [2022-05-28, 15:45:10](https://news.ycombinator.com/item?id=31541219) - [GraphJin – An Instant GraphQL to SQL Compiler](https://graphjin.com/)
 
 ## [Archives](archives/index.md)
 
