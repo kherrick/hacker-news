@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
 * [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
 * [2022-06-01, 16:01:56](https://news.ycombinator.com/item?id=31583888) - [Pediatric COVID19 Cases in Counties with and Without School Mask Requirements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118566)

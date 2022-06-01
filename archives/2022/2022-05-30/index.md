@@ -83,6 +83,7 @@
 * [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:25:20](https://news.ycombinator.com/item?id=31557430) - [A Decade of Dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [2022-05-30, 10:17:11](https://news.ycombinator.com/item?id=31557361) - [Grothendieck's Approach to Equality [pdf]](https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf)
+* [2022-05-30, 10:16:38](https://news.ycombinator.com/item?id=31557355) - [John Rawls and the “Veil of Ignorance”](https://open.library.okstate.edu/introphilosophy/chapter/john-rawls-and-the-veil-of-ignorance/)
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Microgrants ($100–$500) for microprojects to make computing marginally better](https://makeabetter.computer/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
