@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
 * [2022-06-01, 16:01:56](https://news.ycombinator.com/item?id=31583888) - [Pediatric COVID19 Cases in Counties with and Without School Mask Requirements](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118566)
+* [2022-06-01, 15:54:13](https://news.ycombinator.com/item?id=31583737) - [When the US Military Launched 500M Needles into Space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
 * [2022-06-01, 15:19:15](https://news.ycombinator.com/item?id=31583124) - [New Computer Language Benchmarks Game metric: time + source code size](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
 * [2022-06-01, 15:08:15](https://news.ycombinator.com/item?id=31582926) - [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
 * [2022-06-01, 15:01:51](https://news.ycombinator.com/item?id=31582796) - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
