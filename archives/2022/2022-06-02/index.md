@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 15:25:18](https://news.ycombinator.com/item?id=31596034) - [California court finds that bees are fish [pdf]](https://www.courts.ca.gov/opinions/documents/C093542.PDF)
+* [2022-06-02, 15:20:54](https://news.ycombinator.com/item?id=31595978) - [Tell HN: Transfer your Google domain to other registrar before it locks you out](https://news.ycombinator.com/item?id=31595978)
+* [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Svelvet Launches Today](https://svelvet.io/)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:37:28](https://news.ycombinator.com/item?id=31595437) - [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
 * [2022-06-02, 14:34:43](https://news.ycombinator.com/item?id=31595400) - [Toyota’s prototype 'cartridge' is a way to make hydrogen portable](https://www.engadget.com/toyotas-prototype-cartridge-is-a-way-to-make-hydrogen-portable-120024714.html)
+* [2022-06-02, 13:59:43](https://news.ycombinator.com/item?id=31594973) - [Co-Creator of MIDI Died](https://musictech.com/news/industry/dave-smith-sequential-dies-at-72-prophet-5/)
+* [2022-06-02, 13:29:21](https://news.ycombinator.com/item?id=31594613) - [Local-First Software](https://www.inkandswitch.com/local-first/)
 * [2022-06-02, 13:24:10](https://news.ycombinator.com/item?id=31594551) - [Coffee Drinking Linked to Lower Risk of Dying, New Study Finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
 * [2022-06-02, 12:49:23](https://news.ycombinator.com/item?id=31594144) - [Show HN: I hacked my sons Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 * [2022-06-02, 12:35:45](https://news.ycombinator.com/item?id=31594016) - [I made a tool to automate your Twitter DMs](https://www.hivoe.com/)
