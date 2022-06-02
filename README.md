@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
+* [2022-06-02, 21:54:53](https://news.ycombinator.com/item?id=31601004) - [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
 * [2022-06-02, 21:17:01](https://news.ycombinator.com/item?id=31600612) - [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
 * [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 21:01:14](https://news.ycombinator.com/item?id=31600446) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
@@ -26,10 +28,8 @@
 * [2022-06-02, 11:50:18](https://news.ycombinator.com/item?id=31593726) - [Show HN: I made a deceptively simple but hard sliding puzzle](https://www.quaxio.com/sliding_puzzle/puzzle.html)
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
-* [2022-06-01, 12:13:46](https://news.ycombinator.com/item?id=31580707) - [Fixing Social Media with Data Trusts](https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/)
 * [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
-* [2022-05-31, 07:48:18](https://news.ycombinator.com/item?id=31567039) - [A look back at twenty years of writing code](https://www.elliotcsmith.com/a-look-back-at-twenty-years-of-writing-code/)
 
 ## [Archives](archives/index.md)
 
