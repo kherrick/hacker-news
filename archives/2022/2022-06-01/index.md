@@ -56,6 +56,7 @@
 * [2022-06-01, 11:30:27](https://news.ycombinator.com/item?id=31580407) - [Canada trials decriminalising cocaine, MDMA and other drugs](https://www.bbc.co.uk/news/world-us-canada-61657095)
 * [2022-06-01, 11:23:40](https://news.ycombinator.com/item?id=31580351) - [Show HN: Firefox extension to obfuscate web page text](https://addons.mozilla.org/en-GB/firefox/addon/obfuscator/)
 * [2022-06-01, 11:10:25](https://news.ycombinator.com/item?id=31580264) - [TomTom to cut 10% of jobs due to improved automation](https://www.tomtom.com/press-room/earnings-&-other/27646/tomtom-improves-mapmaking-process-supported-by-aligned-maps-organization/)
+* [2022-06-01, 10:54:56](https://news.ycombinator.com/item?id=31580148) - [Technique: Recursive Variants and Boxes](https://www.foonathan.net/2022/05/recursive-variant-box/)
 * [2022-06-01, 10:38:40](https://news.ycombinator.com/item?id=31580056) - [Browser developer discusses his expectations of search engines](https://www.stoutner.com/mojeek-blog-post/)
 * [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
 * [2022-06-01, 10:27:13](https://news.ycombinator.com/item?id=31579997) - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
