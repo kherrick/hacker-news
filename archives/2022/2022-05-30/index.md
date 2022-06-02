@@ -90,6 +90,7 @@
 * [2022-05-30, 10:10:48](https://news.ycombinator.com/item?id=31557331) - [Disputing the Dogmas of Surveillance Advertising [pdf]](https://www.ftc.gov/system/files/documents/public_statements/1597050/commissioner_slaughter_national_advertising_division_10-1-2021_keynote_address.pdf)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 * [2022-05-30, 09:48:41](https://news.ycombinator.com/item?id=31557206) - [Microgrants ($100–$500) for microprojects to make computing marginally better](https://makeabetter.computer/)
+* [2022-05-30, 09:45:46](https://news.ycombinator.com/item?id=31557187) - [Prime Run: a game about adding and subtracting prime numbers](https://aperiodical.com/2022/05/prime-run/)
 * [2022-05-30, 09:36:53](https://news.ycombinator.com/item?id=31557140) - [Xournalpp++ – closs-platform, open source note taking software](https://xournalpp.github.io/)
 * [2022-05-30, 09:31:11](https://news.ycombinator.com/item?id=31557105) - [Scaleway price 'harmonization' (mostly increases)](https://news.ycombinator.com/item?id=31557105)
 * [2022-05-30, 09:19:57](https://news.ycombinator.com/item?id=31557041) - [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA)
