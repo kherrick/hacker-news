@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 11:02:21](https://news.ycombinator.com/item?id=31593470) - ['Father of MIDI' Dave Smith Has Died](https://www.synthtopia.com/content/2022/06/01/sequential-founder-father-of-midi-dave-smith-has-died/)
 * [2022-06-02, 09:58:47](https://news.ycombinator.com/item?id=31593135) - [Wasmer (YC S19) Is Hiring a Python/DevOps Expert](https://www.ycombinator.com/companies/wasmer/jobs/l6oF505-backend-developer)
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-02, 07:46:41](https://news.ycombinator.com/item?id=31592463) - [1k True Fans? Try 100](https://future.a16z.com/1000-true-fans-try-100/)
@@ -14,6 +15,7 @@
 * [2022-06-02, 03:59:12](https://news.ycombinator.com/item?id=31591166) - [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
 * [2022-06-02, 03:57:58](https://news.ycombinator.com/item?id=31591160) - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 * [2022-06-02, 03:09:32](https://news.ycombinator.com/item?id=31590874) - [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
+* [2022-06-02, 03:02:52](https://news.ycombinator.com/item?id=31590819) - [Show HN: Common Lisp running natively over WebAssembly for the first time ever](https://soi-disant.srht.site/entries/back-to-space.html)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
 * [2022-06-02, 02:30:08](https://news.ycombinator.com/item?id=31590606) - [Police attacks against journalists across the U.S. since May 28 (2020)](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country/)
 * [2022-06-02, 01:31:19](https://news.ycombinator.com/item?id=31590283) - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
