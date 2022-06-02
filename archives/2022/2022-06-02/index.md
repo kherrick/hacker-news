@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
 * [2022-06-02, 17:59:46](https://news.ycombinator.com/item?id=31598335) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2022-06-02, 17:59:14](https://news.ycombinator.com/item?id=31598324) - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)

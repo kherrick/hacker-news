@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
 * [2022-06-02, 17:59:46](https://news.ycombinator.com/item?id=31598335) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2022-06-02, 17:59:14](https://news.ycombinator.com/item?id=31598324) - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
@@ -18,7 +19,7 @@
 * [2022-06-02, 15:02:55](https://news.ycombinator.com/item?id=31595751) - [The Linux cheat command](https://opensource.com/article/22/6/linux-cheat-command)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
-* [2022-06-02, 13:29:21](https://news.ycombinator.com/item?id=31594613) - [Local-First Software](https://www.inkandswitch.com/local-first/)
+* [2022-06-02, 13:29:21](https://news.ycombinator.com/item?id=31594613) - [Local-First Software (2019)](https://www.inkandswitch.com/local-first/)
 * [2022-06-02, 12:49:23](https://news.ycombinator.com/item?id=31594144) - [Show HN: I hacked my son’s Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 * [2022-06-02, 12:32:54](https://news.ycombinator.com/item?id=31593995) - [How to make decisions like a poker player](https://fronterablog.com/thinking-in-bets/)
 * [2022-06-02, 12:02:45](https://news.ycombinator.com/item?id=31593802) - [Problems in Linear Algebra (1978), a book of solved problems](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra)
@@ -27,7 +28,6 @@
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Largest airship built in United States since 1930s to take shape soon](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
-* [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 * [2022-05-30, 14:23:30](https://news.ycombinator.com/item?id=31559283) - [There is no reason to cross the U.S. by train but I did it anyway (2019)](https://www.nytimes.com/interactive/2019/03/20/magazine/train-across-america-amtrak.html)
 
