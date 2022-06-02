@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
+* [2022-06-01, 23:19:15](https://news.ycombinator.com/item?id=31589380) - [The Curse of Strong Typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
 * [2022-06-01, 21:26:18](https://news.ycombinator.com/item?id=31588358) - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
 * [2022-06-01, 20:08:28](https://news.ycombinator.com/item?id=31587316) - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
 * [2022-06-01, 19:57:00](https://news.ycombinator.com/item?id=31587163) - [Amazon and the Dystopian Future of Book Censorship](https://sprovoost.nl/2022/06/01/amazon-and-the-dystopian-future-of-book-censorship/)
@@ -24,6 +25,7 @@
 * [2022-06-01, 17:27:22](https://news.ycombinator.com/item?id=31585170) - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 * [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
 * [2022-06-01, 17:11:16](https://news.ycombinator.com/item?id=31584937) - [DOJ charges former OpenSea employee for insider NFT trading](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+* [2022-06-01, 17:01:36](https://news.ycombinator.com/item?id=31584791) - [Kagi search and Orion browser enter public beta](https://blog.kagi.com/kagi-orion-public-beta)
 * [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
 * [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
@@ -71,5 +73,6 @@
 * [2022-06-01, 02:23:31](https://news.ycombinator.com/item?id=31577343) - [3DILG: Irregular Latent Grids for 3D generative modeling](https://1zb.github.io/3DILG/)
 * [2022-06-01, 02:20:18](https://news.ycombinator.com/item?id=31577325) - [I got hacked and Facebook banned me](https://emilycordes.com/facebook/)
 * [2022-06-01, 02:09:32](https://news.ycombinator.com/item?id=31577268) - [Elon Musk Tesla email: Remote work is no longer acceptable](https://twitter.com/wholemarsblog/status/1531807546729799687)
+* [2022-06-01, 01:40:53](https://news.ycombinator.com/item?id=31577087) - [Gmail accepts forged YouTube emails](https://john-millikin.com/gmail-accepts-forged-youtube-emails)
 * [2022-06-01, 01:33:06](https://news.ycombinator.com/item?id=31577030) - [VC Meltdown](https://www.bogleheads.org/forum/viewtopic.php?t=378673)
 * [2022-06-01, 00:34:07](https://news.ycombinator.com/item?id=31576634) - [Show HN: I made React with a faster Virtual DOM](https://news.ycombinator.com/item?id=31576634)

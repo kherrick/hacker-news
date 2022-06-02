@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-05-30](index.md)
 
 * [2022-05-30, 23:48:18](https://news.ycombinator.com/item?id=31564819) - [So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
+* [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 22:07:40](https://news.ycombinator.com/item?id=31564152) - [A Guide to Asking Robots to Design Stained Glass Windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design)
 * [2022-05-30, 21:53:49](https://news.ycombinator.com/item?id=31564033) - [Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis)
 * [2022-05-30, 21:20:08](https://news.ycombinator.com/item?id=31563733) - [Mosquitoes kill more than 700k people every year (2017)](https://www.isglobal.org/en_GB/-/mosquito-el-animal-mas-letal-del-mundo)
