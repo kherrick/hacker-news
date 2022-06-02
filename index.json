@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-02, 00:00:28",
+      "https://news.ycombinator.com/item?id=31589690"
+    ],
+    [
+      "Orion – New WebKit Browser",
+      "https://blog.kagi.com/orion-features"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 21:26:18",
       "https://news.ycombinator.com/item?id=31588358"
     ],
@@ -17,16 +27,6 @@
     [
       "No, DALL-E doesn’t have a secret language",
       "https://twitter.com/benjamin_hilton/status/1531780892972175361"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 19:57:00",
-      "https://news.ycombinator.com/item?id=31587163"
-    ],
-    [
-      "Amazon and the Dystopian Future of Book Censorship",
-      "https://sprovoost.nl/2022/06/01/amazon-and-the-dystopian-future-of-book-censorship/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31586833"
     ],
     [
-      "My friend and I spent 6 years making a simulation game, it's finally released",
+      "Show HN: A friend and I spent 6 years making a simulation game, finally released",
       "https://news.ycombinator.com/item?id=31586833"
     ]
   ],
@@ -121,22 +121,12 @@
   ],
   [
     [
-      "2022-06-01, 17:11:16",
-      "https://news.ycombinator.com/item?id=31584937"
+      "2022-06-01, 16:45:45",
+      "https://news.ycombinator.com/item?id=31584555"
     ],
     [
-      "Former OpenSea employee charged in digital asset insider trading scheme",
-      "https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 16:06:53",
-      "https://news.ycombinator.com/item?id=31583968"
-    ],
-    [
-      "The Web's Timeline",
-      "https://thehistoryoftheweb.com/timeline/"
+      "Connect: A Better gRPC",
+      "https://buf.build/blog/connect-a-better-grpc"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "The US military launched 500M needles into space (2019)",
       "https://www.todayifoundout.com/index.php/2019/10/that-time-the-u-s-military-launched-a-half-a-billion-needles-to-space-for-reasons/"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 15:19:15",
-      "https://news.ycombinator.com/item?id=31583124"
-    ],
-    [
-      "New Computer Language Benchmarks Game metric: time + source code size",
-      "https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2022-06-01, 08:27:52",
+      "https://news.ycombinator.com/item?id=31579435"
+    ],
+    [
+      "JXA’s Parenthesis Paradox",
+      "https://leancrew.com/all-this/2022/05/jxas-parenthesis-paradox/"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 17:57:44",
       "https://news.ycombinator.com/item?id=31572669"
     ],
@@ -257,6 +247,26 @@
     [
       "A Once-in-a-Lifetime Bird",
       "https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 20:37:24",
+      "https://news.ycombinator.com/item?id=31563384"
+    ],
+    [
+      "An introduction to logical decision theory for everyone else",
+      "https://arbital.com/p/logical_dt/?l=5kv"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 14:31:51",
+      "https://news.ycombinator.com/item?id=31559377"
+    ],
+    [
+      "Better Robots Through Gallium",
+      "https://hackaday.com/2022/05/29/better-robots-through-gallium/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Qualcomm shook down the cell phone industry for almost 20 years (2019)",
       "https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/"
-    ]
-  ],
-  [
-    [
-      "2022-05-28, 15:45:10",
-      "https://news.ycombinator.com/item?id=31541219"
-    ],
-    [
-      "GraphJin – GraphQL to SQL Compiler",
-      "https://graphjin.com/"
     ]
   ]
 ]
