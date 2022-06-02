@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-02, 19:44:20",
+      "https://news.ycombinator.com/item?id=31599651"
+    ],
+    [
+      "Angular v14 is now available",
+      "https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f"
+    ]
+  ],
+  [
+    [
       "2022-06-02, 19:40:28",
       "https://news.ycombinator.com/item?id=31599603"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31598978"
     ],
     [
-      "I'm Afraid We're Shutting Down",
+      "Tell HN: I'm Afraid We're Shutting Down",
       "https://news.ycombinator.com/item?id=31598978"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31595822"
     ],
     [
-      "Svelte: A component library for building interactive node-based flow diagrams",
+      "Show HN: Svelvet – A component library for building interactive flow diagrams",
       "https://svelvet.io/"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2022-06-02, 07:42:10",
-      "https://news.ycombinator.com/item?id=31592448"
-    ],
-    [
-      "Largest airship built in United States since 1930s to take shape soon",
-      "https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 15:57:02",
       "https://news.ycombinator.com/item?id=31583789"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-06-01, 10:14:15",
+      "https://news.ycombinator.com/item?id=31579929"
+    ],
+    [
+      "Interactive Dynamics for Visual Analysis (2012)",
+      "https://queue.acm.org/detail.cfm?id=2146416"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 16:43:36",
       "https://news.ycombinator.com/item?id=31571704"
     ],
     [
       "Building a transformer in Julia",
       "https://liorsinai.github.io/coding/2022/05/18/transformers.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 14:23:30",
-      "https://news.ycombinator.com/item?id=31559283"
-    ],
-    [
-      "There is no reason to cross the U.S. by train but I did it anyway (2019)",
-      "https://www.nytimes.com/interactive/2019/03/20/magazine/train-across-america-amtrak.html"
     ]
   ]
 ]
