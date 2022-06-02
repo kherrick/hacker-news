@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
 * [2022-06-02, 17:01:08](https://news.ycombinator.com/item?id=31597510) - [Goalbook (YC IK12) is hiring senior engineers to impact special education](https://jobs.lever.co/goalbookapp-2/0b735c81-09d8-401a-94e8-150728c3ec7b)
 * [2022-06-02, 16:59:53](https://news.ycombinator.com/item?id=31597486) - [Remove YC “[company] is hiring” ads on HN](https://github.com/brownie-in-motion/hn-adblock)
 * [2022-06-02, 16:32:10](https://news.ycombinator.com/item?id=31597022) - [The timeless, futile effort to fix circadian rhythms with tech](https://reallifemag.com/temporal-belonging/)
+* [2022-06-02, 16:30:45](https://news.ycombinator.com/item?id=31597001) - [The Memory Techniques Wiki](https://artofmemory.com/wiki/Main_Page/)
 * [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 16:22:06](https://news.ycombinator.com/item?id=31596853) - [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)

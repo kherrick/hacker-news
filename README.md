@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
 * [2022-06-02, 17:01:08](https://news.ycombinator.com/item?id=31597510) - [Goalbook (YC IK12) is hiring senior engineers to impact special education](https://jobs.lever.co/goalbookapp-2/0b735c81-09d8-401a-94e8-150728c3ec7b)
-* [2022-06-02, 16:59:53](https://news.ycombinator.com/item?id=31597486) - [Remove YC “[company] is hiring” ads on HN](https://github.com/brownie-in-motion/hn-adblock)
 * [2022-06-02, 16:32:10](https://news.ycombinator.com/item?id=31597022) - [The timeless, futile effort to fix circadian rhythms with tech](https://reallifemag.com/temporal-belonging/)
-* [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
+* [2022-06-02, 16:30:45](https://news.ycombinator.com/item?id=31597001) - [The Memory Techniques Wiki](https://artofmemory.com/wiki/Main_Page/)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 16:22:06](https://news.ycombinator.com/item?id=31596853) - [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)
 * [2022-06-02, 15:53:36](https://news.ycombinator.com/item?id=31596419) - [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
@@ -13,7 +13,6 @@
 * [2022-06-02, 15:21:49](https://news.ycombinator.com/item?id=31595987) - [Behind the Scenes: The pots, pans, and people that make millions of meals](https://joseandres.substack.com/p/behind-the-scenes-the-pots-pans-and)
 * [2022-06-02, 15:14:48](https://news.ycombinator.com/item?id=31595894) - [How To Remember Anything Forever-ish (2018)](https://ncase.me/remember/)
 * [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Svelte: A component library for building interactive node-based flow diagrams](https://svelvet.io/)
-* [2022-06-02, 15:05:58](https://news.ycombinator.com/item?id=31595790) - [A recession in America by 2024 looks likely](https://www.economist.com/leaders/2022/06/02/a-recession-in-america-by-2024-looks-likely)
 * [2022-06-02, 15:02:55](https://news.ycombinator.com/item?id=31595751) - [The Linux cheat command](https://opensource.com/article/22/6/linux-cheat-command)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:37:28](https://news.ycombinator.com/item?id=31595437) - [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
@@ -29,6 +28,7 @@
 * [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Largest airship built in United States since 1930s to take shape soon](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
 * [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
+* [2022-05-31, 06:31:54](https://news.ycombinator.com/item?id=31566678) - [What has changed with video games over the last 25 years, and what has not](https://www.dynamic-mess.com/un-peu-d-histoire/what-has-changed-in-our-relationship-with-video-games-over-the-last-25-years-and-what-has-not/)
 * [2022-05-30, 14:23:30](https://news.ycombinator.com/item?id=31559283) - [There is no reason to cross the U.S. by train but I did it anyway (2019)](https://www.nytimes.com/interactive/2019/03/20/magazine/train-across-america-amtrak.html)
 
 ## [Archives](archives/index.md)
