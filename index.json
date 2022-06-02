@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-06-02, 10:18:00",
-      "https://news.ycombinator.com/item?id=31593236"
-    ],
-    [
-      "Rejecting data demands, ExpressVPN removes VPN servers in India",
-      "https://www.expressvpn.com/blog/remove-india-vpn-servers/"
-    ]
-  ],
-  [
-    [
       "2022-06-02, 09:19:19",
       "https://news.ycombinator.com/item?id=31592934"
     ],
@@ -297,6 +287,16 @@
     [
       "Building a transformer in Julia",
       "https://liorsinai.github.io/coding/2022/05/18/transformers.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 07:48:18",
+      "https://news.ycombinator.com/item?id=31567039"
+    ],
+    [
+      "A look back at twenty years of writing code",
+      "https://www.elliotcsmith.com/a-look-back-at-twenty-years-of-writing-code/"
     ]
   ]
 ]
