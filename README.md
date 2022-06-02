@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 23:27:30](https://news.ycombinator.com/item?id=31601926) - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 * [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
 * [2022-06-02, 21:58:16](https://news.ycombinator.com/item?id=31601040) - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 * [2022-06-02, 21:54:53](https://news.ycombinator.com/item?id=31601004) - [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
@@ -16,7 +17,6 @@
 * [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 15:36:09](https://news.ycombinator.com/item?id=31596165) - [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)
-* [2022-06-02, 15:21:49](https://news.ycombinator.com/item?id=31595987) - [Behind the Scenes: The pots, pans, and people that make millions of meals](https://joseandres.substack.com/p/behind-the-scenes-the-pots-pans-and)
 * [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Show HN: Svelvet – A component library for building interactive flow diagrams](https://svelvet.io/)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)

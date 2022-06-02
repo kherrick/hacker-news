@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 23:27:30](https://news.ycombinator.com/item?id=31601926) - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 * [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
 * [2022-06-02, 21:58:16](https://news.ycombinator.com/item?id=31601040) - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 * [2022-06-02, 21:54:53](https://news.ycombinator.com/item?id=31601004) - [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
