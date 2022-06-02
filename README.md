@@ -24,12 +24,12 @@
 * [2022-06-02, 12:49:23](https://news.ycombinator.com/item?id=31594144) - [Show HN: I hacked my son’s Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 * [2022-06-02, 12:02:19](https://news.ycombinator.com/item?id=31593799) - [Google cancelled a talk on caste bias](https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/)
 * [2022-06-02, 11:50:18](https://news.ycombinator.com/item?id=31593726) - [Show HN: I made a deceptively simple but hard sliding puzzle](https://www.quaxio.com/sliding_puzzle/puzzle.html)
-* [2022-06-02, 10:18:00](https://news.ycombinator.com/item?id=31593236) - [Rejecting data demands, ExpressVPN removes VPN servers in India](https://www.expressvpn.com/blog/remove-india-vpn-servers/)
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
 * [2022-06-01, 12:13:46](https://news.ycombinator.com/item?id=31580707) - [Fixing Social Media with Data Trusts](https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/)
 * [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
+* [2022-05-31, 07:48:18](https://news.ycombinator.com/item?id=31567039) - [A look back at twenty years of writing code](https://www.elliotcsmith.com/a-look-back-at-twenty-years-of-writing-code/)
 
 ## [Archives](archives/index.md)
 

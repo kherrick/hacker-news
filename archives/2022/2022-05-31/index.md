@@ -78,6 +78,7 @@
 * [2022-05-31, 09:06:56](https://news.ycombinator.com/item?id=31567417) - [After Xinjiang Revelations, Germany's Ties to China Are Under the Microscope](https://www.spiegel.de/ausland/xinjiang-police-files-deutschland-furchtbarer-partner-a-70e96cd6-f7ed-47aa-9b71-31fca6abfda8)
 * [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
 * [2022-05-31, 08:15:10](https://news.ycombinator.com/item?id=31567180) - [Australian digital driving licenses can be defaced in minutes](https://www.theregister.com/2022/05/30/nsw_digital_drivers_licenses_hackable/)
+* [2022-05-31, 07:48:18](https://news.ycombinator.com/item?id=31567039) - [A look back at twenty years of writing code](https://www.elliotcsmith.com/a-look-back-at-twenty-years-of-writing-code/)
 * [2022-05-31, 07:41:54](https://news.ycombinator.com/item?id=31567016) - [Show HN: Todool, a full blown environment for managing large trees of task lists](https://todool.handmade.network/)
 * [2022-05-31, 07:31:13](https://news.ycombinator.com/item?id=31566967) - [How to Eat the Future](https://reallifemag.com/how-to-eat-the-future/)
 * [2022-05-31, 06:58:40](https://news.ycombinator.com/item?id=31566802) - [Painting a Character with Maths (2020) [video]](https://www.youtube.com/watch?v=8--5LwHRhjk)
