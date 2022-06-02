@@ -14,8 +14,6 @@
 * [2022-06-01, 19:55:20](https://news.ycombinator.com/item?id=31587139) - [We don't show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
 * [2022-06-01, 19:31:47](https://news.ycombinator.com/item?id=31586833) - [Show HN: A friend and I spent 6 years making a simulation game, finally released](https://news.ycombinator.com/item?id=31586833)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
-* [2022-06-01, 17:57:43](https://news.ycombinator.com/item?id=31585585) - [ClojureDocs – Community-powered documentation and examples for Clojure](https://clojuredocs.org/)
-* [2022-06-01, 17:48:42](https://news.ycombinator.com/item?id=31585463) - [Using a catch-all domain is a mistake](https://www.notcheckmark.com/2022/06/catch-all-domain/)
 * [2022-06-01, 17:33:46](https://news.ycombinator.com/item?id=31585260) - [Could the greatest works of literature be undiscovered?](https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered)
 * [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
 * [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
@@ -28,7 +26,9 @@
 * [2022-05-31, 10:56:21](https://news.ycombinator.com/item?id=31568091) - [Power on Tap: Dynamic control of P cores in M1 chips](https://eclecticlight.co/2022/05/31/power-on-tap-dynamic-control-of-p-cores-in-m1-chips/)
 * [2022-05-31, 10:56:20](https://news.ycombinator.com/item?id=31568090) - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/HazyResearch/flash-attention)
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
+* [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An introduction to logical decision theory for everyone else](https://arbital.com/p/logical_dt/?l=5kv)
+* [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 
 ## [Archives](archives/index.md)
