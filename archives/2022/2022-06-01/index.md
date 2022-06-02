@@ -61,6 +61,7 @@
 * [2022-06-01, 10:37:20](https://news.ycombinator.com/item?id=31580045) - [Show HN: An open source alternative to Evernote (Self Hosted)](https://github.com/git-noter/gitnoter)
 * [2022-06-01, 10:27:13](https://news.ycombinator.com/item?id=31579997) - [The US “labor shortage” is just a wage shortage](https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/)
 * [2022-06-01, 10:19:02](https://news.ycombinator.com/item?id=31579953) - [Show HN: Unlimited machine translation API for $200 / Month](https://news.ycombinator.com/item?id=31579953)
+* [2022-06-01, 10:14:15](https://news.ycombinator.com/item?id=31579929) - [Interactive Dynamics for Visual Analysis (2012)](https://queue.acm.org/detail.cfm?id=2146416)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [How to Make the Universe Think for Us](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
 * [2022-06-01, 10:00:06](https://news.ycombinator.com/item?id=31579862) - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
 * [2022-06-01, 09:35:36](https://news.ycombinator.com/item?id=31579750) - [Timely Advice – How Long Does Dataviz Take?](https://nightingaledvs.com/timely-advice-how-long-does-dataviz-take/)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 19:44:20](https://news.ycombinator.com/item?id=31599651) - [Angular v14 is now available](https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f)
 * [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
-* [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
+* [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [Tell HN: I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
 * [2022-06-02, 17:59:46](https://news.ycombinator.com/item?id=31598335) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2022-06-02, 17:59:14](https://news.ycombinator.com/item?id=31598324) - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
 * [2022-06-02, 17:50:15](https://news.ycombinator.com/item?id=31598217) - [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
@@ -15,7 +16,7 @@
 * [2022-06-02, 15:36:09](https://news.ycombinator.com/item?id=31596165) - [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)
 * [2022-06-02, 15:21:49](https://news.ycombinator.com/item?id=31595987) - [Behind the Scenes: The pots, pans, and people that make millions of meals](https://joseandres.substack.com/p/behind-the-scenes-the-pots-pans-and)
 * [2022-06-02, 15:14:48](https://news.ycombinator.com/item?id=31595894) - [How To Remember Anything Forever-ish (2018)](https://ncase.me/remember/)
-* [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Svelte: A component library for building interactive node-based flow diagrams](https://svelvet.io/)
+* [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Show HN: Svelvet – A component library for building interactive flow diagrams](https://svelvet.io/)
 * [2022-06-02, 15:02:55](https://news.ycombinator.com/item?id=31595751) - [The Linux cheat command](https://opensource.com/article/22/6/linux-cheat-command)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
@@ -26,10 +27,9 @@
 * [2022-06-02, 11:50:18](https://news.ycombinator.com/item?id=31593726) - [Show HN: I made a deceptively simple but hard sliding puzzle](https://www.quaxio.com/sliding_puzzle/puzzle.html)
 * [2022-06-02, 10:18:00](https://news.ycombinator.com/item?id=31593236) - [Rejecting data demands, ExpressVPN removes VPN servers in India](https://www.expressvpn.com/blog/remove-india-vpn-servers/)
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
-* [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Largest airship built in United States since 1930s to take shape soon](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
+* [2022-06-01, 10:14:15](https://news.ycombinator.com/item?id=31579929) - [Interactive Dynamics for Visual Analysis (2012)](https://queue.acm.org/detail.cfm?id=2146416)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
-* [2022-05-30, 14:23:30](https://news.ycombinator.com/item?id=31559283) - [There is no reason to cross the U.S. by train but I did it anyway (2019)](https://www.nytimes.com/interactive/2019/03/20/magazine/train-across-america-amtrak.html)
 
 ## [Archives](archives/index.md)
 
