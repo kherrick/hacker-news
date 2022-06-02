@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 17:01:08](https://news.ycombinator.com/item?id=31597510) - [Goalbook (YC IK12) is hiring senior engineers to impact special education](https://jobs.lever.co/goalbookapp-2/0b735c81-09d8-401a-94e8-150728c3ec7b)
+* [2022-06-02, 16:59:53](https://news.ycombinator.com/item?id=31597486) - [Remove YC “[company] is hiring” ads on HN](https://github.com/brownie-in-motion/hn-adblock)
+* [2022-06-02, 16:32:10](https://news.ycombinator.com/item?id=31597022) - [The timeless, futile effort to fix circadian rhythms with tech](https://reallifemag.com/temporal-belonging/)
+* [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
+* [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 16:22:06](https://news.ycombinator.com/item?id=31596853) - [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)
 * [2022-06-02, 15:53:36](https://news.ycombinator.com/item?id=31596419) - [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 * [2022-06-02, 15:50:34](https://news.ycombinator.com/item?id=31596377) - [Varo Bank could run out of funds by year-end](https://www.bankingdive.com/news/varo-bank-could-run-out-of-funds-by-year-end-filing-shows/624628/)
@@ -20,6 +25,7 @@
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:37:28](https://news.ycombinator.com/item?id=31595437) - [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
 * [2022-06-02, 14:34:43](https://news.ycombinator.com/item?id=31595400) - [Toyota’s prototype 'cartridge' is a way to make hydrogen portable](https://www.engadget.com/toyotas-prototype-cartridge-is-a-way-to-make-hydrogen-portable-120024714.html)
+* [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
 * [2022-06-02, 13:59:43](https://news.ycombinator.com/item?id=31594973) - [Co-Creator of MIDI Died](https://musictech.com/news/industry/dave-smith-sequential-dies-at-72-prophet-5/)
 * [2022-06-02, 13:38:19](https://news.ycombinator.com/item?id=31594707) - [Cryptocurrencies are worse for the climate than you think](https://rollen.io/blog/crypto-climate/)
 * [2022-06-02, 13:29:21](https://news.ycombinator.com/item?id=31594613) - [Local-First Software](https://www.inkandswitch.com/local-first/)

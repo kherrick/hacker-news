@@ -12,6 +12,7 @@
 * [2022-05-31, 22:36:41](https://news.ycombinator.com/item?id=31575765) - [Framework laptop water damage repair attempt using partial schematic [video]](https://www.youtube.com/watch?v=ijRUsxdaLK4)
 * [2022-05-31, 22:17:43](https://news.ycombinator.com/item?id=31575617) - [U.S. task force recommending anxiety screening in kids 8 and older](https://www.wbur.org/news/2022/05/16/anxiety-children-adolescents-screening-school-psychologist-explains)
 * [2022-05-31, 21:55:30](https://news.ycombinator.com/item?id=31575429) - [Why Darwin Failed (2006)](http://www.synack.net/~bbraun/writing/osfail.html)
+* [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 20:40:34](https://news.ycombinator.com/item?id=31574671) - [Legends Solar – Buy operating solar panels on commercial solar farms](https://www.legends.solar/)
 * [2022-05-31, 20:37:46](https://news.ycombinator.com/item?id=31574624) - [Teleforking a Process onto a Different Computer](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
 * [2022-05-31, 20:35:58](https://news.ycombinator.com/item?id=31574601) - [Eye contact between musicians](https://www.classical-music.com/features/articles/just-how-important-is-eye-contact-between-musicians-and-what-does-it-signal/)
