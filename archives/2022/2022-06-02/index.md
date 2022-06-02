@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
 * [2022-06-02, 20:15:42](https://news.ycombinator.com/item?id=31599981) - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
+* [2022-06-02, 19:50:14](https://news.ycombinator.com/item?id=31599699) - [Theory of winter-fasting as a cure for cancer](https://github.com/albinsjolin/open-source-cure-for-cancer)
 * [2022-06-02, 19:44:20](https://news.ycombinator.com/item?id=31599651) - [Angular v14 is now available](https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f)
 * [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)

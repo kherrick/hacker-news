@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-02, 20:15:42](https://news.ycombinator.com/item?id=31599981) - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
+* [2022-06-02, 19:50:14](https://news.ycombinator.com/item?id=31599699) - [Theory of winter-fasting as a cure for cancer](https://github.com/albinsjolin/open-source-cure-for-cancer)
 * [2022-06-02, 19:44:20](https://news.ycombinator.com/item?id=31599651) - [Angular v14 is now available](https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f)
 * [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [Tell HN: I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
-* [2022-06-02, 17:59:46](https://news.ycombinator.com/item?id=31598335) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2022-06-02, 17:59:14](https://news.ycombinator.com/item?id=31598324) - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
 * [2022-06-02, 17:50:15](https://news.ycombinator.com/item?id=31598217) - [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
 * [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
