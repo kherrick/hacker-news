@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 13:24:10](https://news.ycombinator.com/item?id=31594551) - [Coffee Drinking Linked to Lower Risk of Dying, New Study Finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
+* [2022-06-02, 12:49:23](https://news.ycombinator.com/item?id=31594144) - [Show HN: I hacked my sons Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 * [2022-06-02, 12:35:45](https://news.ycombinator.com/item?id=31594016) - [I made a tool to automate your Twitter DMs](https://www.hivoe.com/)
 * [2022-06-02, 12:32:54](https://news.ycombinator.com/item?id=31593995) - [How to make decisions like a poker player](https://fronterablog.com/thinking-in-bets/)
 * [2022-06-02, 12:02:45](https://news.ycombinator.com/item?id=31593802) - [Problems in Linear Algebra (1978), a book of solved problems](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra)
 * [2022-06-02, 12:02:19](https://news.ycombinator.com/item?id=31593799) - [Google cancelled a talk on caste bias](https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/)
 * [2022-06-02, 12:00:45](https://news.ycombinator.com/item?id=31593784) - [Bristle (YC W21) Is hiring to analyze the oral microbiome and prevent disease](https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722)
+* [2022-06-02, 11:50:18](https://news.ycombinator.com/item?id=31593726) - [Show HN: I made a deceptively simple but hard sliding puzzle](https://www.quaxio.com/sliding_puzzle/puzzle.html)
 * [2022-06-02, 11:48:13](https://news.ycombinator.com/item?id=31593711) - [Ask HN: What to get for my brother's 50th birthday?](https://news.ycombinator.com/item?id=31593711)
 * [2022-06-02, 11:02:21](https://news.ycombinator.com/item?id=31593470) - ['Father of MIDI' Dave Smith Has Died](https://www.synthtopia.com/content/2022/06/01/sequential-founder-father-of-midi-dave-smith-has-died/)
 * [2022-06-02, 10:18:00](https://news.ycombinator.com/item?id=31593236) - [Rejecting data demands, ExpressVPN removes VPN servers in India](https://www.expressvpn.com/blog/remove-india-vpn-servers/)
