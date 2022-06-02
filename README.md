@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-02, 05:59:36](https://news.ycombinator.com/item?id=31591861) - [California Drought Update May 2022 [pdf]](https://drought.ca.gov/media/2022/05/External-CA-Drought-Weekly-Update-05232022.pdf)
 * [2022-06-02, 05:46:53](https://news.ycombinator.com/item?id=31591777) - [East German Doping Victims Die 10 to 12 Years Earlier (2018)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)
@@ -14,7 +15,6 @@
 * [2022-06-01, 19:55:20](https://news.ycombinator.com/item?id=31587139) - [We don't show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
 * [2022-06-01, 19:31:47](https://news.ycombinator.com/item?id=31586833) - [Show HN: A friend and I spent 6 years making a simulation game, finally released](https://news.ycombinator.com/item?id=31586833)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
-* [2022-06-01, 17:33:46](https://news.ycombinator.com/item?id=31585260) - [Could the greatest works of literature be undiscovered?](https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered)
 * [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
 * [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
 * [2022-06-01, 12:04:56](https://news.ycombinator.com/item?id=31580627) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
