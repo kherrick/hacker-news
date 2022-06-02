@@ -2,6 +2,7 @@
 
 * [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
 * [2022-06-02, 21:54:53](https://news.ycombinator.com/item?id=31601004) - [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
+* [2022-06-02, 21:39:39](https://news.ycombinator.com/item?id=31600848) - [Office 365 implementing AI to detect employees colluding, leaving and more](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
 * [2022-06-02, 21:17:01](https://news.ycombinator.com/item?id=31600612) - [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
 * [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 21:01:14](https://news.ycombinator.com/item?id=31600446) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
@@ -12,7 +13,6 @@
 * [2022-06-02, 17:59:14](https://news.ycombinator.com/item?id=31598324) - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
 * [2022-06-02, 17:50:15](https://news.ycombinator.com/item?id=31598217) - [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
 * [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
-* [2022-06-02, 16:31:20](https://news.ycombinator.com/item?id=31597015) - [Dave Smith founder of Sequential Circuits has passed away](https://www.gearnews.com/dave-smith-founder-of-sequential-circuits-has-passed-away/)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 15:53:36](https://news.ycombinator.com/item?id=31596419) - [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 * [2022-06-02, 15:36:09](https://news.ycombinator.com/item?id=31596165) - [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)

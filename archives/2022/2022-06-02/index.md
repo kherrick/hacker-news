@@ -6,6 +6,7 @@
 
 * [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
 * [2022-06-02, 21:54:53](https://news.ycombinator.com/item?id=31601004) - [Ask HN: What does your Mom tell people about your work or employment?](https://news.ycombinator.com/item?id=31601004)
+* [2022-06-02, 21:39:39](https://news.ycombinator.com/item?id=31600848) - [Office 365 implementing AI to detect employees colluding, leaving and more](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
 * [2022-06-02, 21:17:01](https://news.ycombinator.com/item?id=31600612) - [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
 * [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 21:01:14](https://news.ycombinator.com/item?id=31600446) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
