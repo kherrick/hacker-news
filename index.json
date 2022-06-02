@@ -1,12 +1,72 @@
 [
   [
     [
-      "2022-06-02, 00:00:28",
-      "https://news.ycombinator.com/item?id=31589690"
+      "2022-06-02, 02:30:08",
+      "https://news.ycombinator.com/item?id=31590606"
     ],
     [
-      "Orion – New WebKit Browser",
-      "https://blog.kagi.com/orion-features"
+      "Police attacks against journalists across the U.S. since May 28 (2020)",
+      "https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country/"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 01:31:19",
+      "https://news.ycombinator.com/item?id=31590283"
+    ],
+    [
+      "Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies",
+      "https://hindenburgresearch.com/enochian/"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 01:00:40",
+      "https://news.ycombinator.com/item?id=31590099"
+    ],
+    [
+      "Padlet Is Hiring in Singapore to Build Software for a Good Education",
+      "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 00:49:43",
+      "https://news.ycombinator.com/item?id=31590023"
+    ],
+    [
+      "Break Up The Elite College Seats Cartel",
+      "https://sahajsharda.substack.com/p/break-up-the-elite-college-seats"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 00:33:23",
+      "https://news.ycombinator.com/item?id=31589924"
+    ],
+    [
+      "Open Source Alternative To",
+      "https://www.opensourcealternative.to"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 00:21:25",
+      "https://news.ycombinator.com/item?id=31589839"
+    ],
+    [
+      "Remembering Dave Smith, 1950–2022",
+      "https://www.sequential.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 23:19:15",
+      "https://news.ycombinator.com/item?id=31589380"
+    ],
+    [
+      "The Curse of Strong Typing",
+      "https://fasterthanli.me/articles/the-curse-of-strong-typing"
     ]
   ],
   [
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2022-06-01, 17:45:07",
-      "https://news.ycombinator.com/item?id=31585405"
-    ],
-    [
-      "Entity Resolution: The most common data science challenge",
-      "https://docs.magniv.io/tutorials/entity-resolution"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 17:33:46",
       "https://news.ycombinator.com/item?id=31585260"
     ],
@@ -111,12 +161,12 @@
   ],
   [
     [
-      "2022-06-01, 17:23:23",
-      "https://news.ycombinator.com/item?id=31585107"
+      "2022-06-01, 17:01:36",
+      "https://news.ycombinator.com/item?id=31584791"
     ],
     [
-      "Finley (YC W21) is hiring fintech software engineers (US remote)",
-      "https://news.ycombinator.com/item?id=31585107"
+      "Kagi search and Orion browser enter public beta",
+      "https://blog.kagi.com/kagi-orion-public-beta"
     ]
   ],
   [
@@ -171,42 +221,12 @@
   ],
   [
     [
-      "2022-06-01, 12:19:43",
-      "https://news.ycombinator.com/item?id=31580763"
-    ],
-    [
-      "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
-      "https://news.ycombinator.com/item?id=31580763"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 12:04:56",
       "https://news.ycombinator.com/item?id=31580627"
     ],
     [
       "Async destructors, async genericity and completion futures",
       "https://sabrinajewson.org/blog/async-drop"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 11:23:40",
-      "https://news.ycombinator.com/item?id=31580351"
-    ],
-    [
-      "Show HN: Firefox extension to obfuscate web page text",
-      "https://addons.mozilla.org/en-GB/firefox/addon/obfuscator/"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 10:37:20",
-      "https://news.ycombinator.com/item?id=31580045"
-    ],
-    [
-      "Show HN: An open source alternative to Evernote (Self Hosted)",
-      "https://github.com/git-noter/gitnoter"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2022-06-01, 08:27:52",
-      "https://news.ycombinator.com/item?id=31579435"
+      "2022-06-01, 01:40:53",
+      "https://news.ycombinator.com/item?id=31577087"
     ],
     [
-      "JXA’s Parenthesis Paradox",
-      "https://leancrew.com/all-this/2022/05/jxas-parenthesis-paradox/"
+      "Gmail accepts forged YouTube emails",
+      "https://john-millikin.com/gmail-accepts-forged-youtube-emails"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2022-05-31, 15:19:01",
-      "https://news.ycombinator.com/item?id=31570547"
+      "2022-05-30, 22:20:47",
+      "https://news.ycombinator.com/item?id=31564247"
     ],
     [
-      "A Once-in-a-Lifetime Bird",
-      "https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research"
+      "Matt’s Rooftop Receiver Shootout: Round Two",
+      "https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-05-30, 14:31:51",
-      "https://news.ycombinator.com/item?id=31559377"
-    ],
-    [
-      "Better Robots Through Gallium",
-      "https://hackaday.com/2022/05/29/better-robots-through-gallium/"
-    ]
-  ],
-  [
-    [
       "2022-05-30, 11:17:10",
       "https://news.ycombinator.com/item?id=31557809"
     ],
     [
       "Ffmpeg Buddy",
       "https://evanhahn.github.io/ffmpeg-buddy/"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 10:16:38",
-      "https://news.ycombinator.com/item?id=31557355"
-    ],
-    [
-      "John Rawls and the “Veil of Ignorance” (2020)",
-      "https://open.library.okstate.edu/introphilosophy/chapter/john-rawls-and-the-veil-of-ignorance/"
     ]
   ],
   [
