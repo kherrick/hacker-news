@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-02, 05:09:59",
+      "https://news.ycombinator.com/item?id=31591564"
+    ],
+    [
+      "UN registers 'Türkiye' as new country name to replace 'Turkey'",
+      "https://www.aa.com.tr/en/americas/un-registers-turkiye-as-new-country-name-to-replace-turkey/2603492"
+    ]
+  ],
+  [
+    [
       "2022-06-02, 03:59:12",
       "https://news.ycombinator.com/item?id=31591166"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2022-06-01, 21:26:18",
-      "https://news.ycombinator.com/item?id=31588358"
-    ],
-    [
-      "AWS for Industry, but Better: The Railroad Investment Case",
-      "https://www.thediff.co/p/aws-for-industry-but-better-the-railroad"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 20:08:28",
       "https://news.ycombinator.com/item?id=31587316"
     ],
@@ -107,16 +107,6 @@
     [
       "We don't show typing status",
       "https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 19:36:48",
-      "https://news.ycombinator.com/item?id=31586885"
-    ],
-    [
-      "Sheryl Sandberg stepping down as Facebook COO",
-      "https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "A gentle-ish introduction to worst-case optimal joins",
       "http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 10:56:20",
+      "https://news.ycombinator.com/item?id=31568090"
+    ],
+    [
+      "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+      "https://github.com/HazyResearch/flash-attention"
     ]
   ],
   [
