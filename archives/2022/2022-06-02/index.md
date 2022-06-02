@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-02, 05:09:59](https://news.ycombinator.com/item?id=31591564) - [UN registers 'Türkiye' as new country name to replace 'Turkey'](https://www.aa.com.tr/en/americas/un-registers-turkiye-as-new-country-name-to-replace-turkey/2603492)
 * [2022-06-02, 03:59:12](https://news.ycombinator.com/item?id=31591166) - [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
 * [2022-06-02, 03:57:58](https://news.ycombinator.com/item?id=31591160) - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-02, 03:57:58](https://news.ycombinator.com/item?id=31591160) - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 * [2022-06-02, 01:31:19](https://news.ycombinator.com/item?id=31590283) - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
@@ -10,7 +11,6 @@
 * [2022-06-01, 21:26:18](https://news.ycombinator.com/item?id=31588358) - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
 * [2022-06-01, 20:08:28](https://news.ycombinator.com/item?id=31587316) - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
 * [2022-06-01, 19:55:20](https://news.ycombinator.com/item?id=31587139) - [We don't show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
-* [2022-06-01, 19:36:48](https://news.ycombinator.com/item?id=31586885) - [Sheryl Sandberg stepping down as Facebook COO](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html)
 * [2022-06-01, 19:31:47](https://news.ycombinator.com/item?id=31586833) - [Show HN: A friend and I spent 6 years making a simulation game, finally released](https://news.ycombinator.com/item?id=31586833)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
 * [2022-06-01, 17:57:43](https://news.ycombinator.com/item?id=31585585) - [ClojureDocs – Community-powered documentation and examples for Clojure](https://clojuredocs.org/)
@@ -20,6 +20,7 @@
 * [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
 * [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
 * [2022-06-01, 12:04:56](https://news.ycombinator.com/item?id=31580627) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
+* [2022-06-01, 10:38:40](https://news.ycombinator.com/item?id=31580056) - [Browser developer discusses his expectations of search engines](https://www.stoutner.com/mojeek-blog-post/)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [Physicists are building neural networks out of vibrations, voltages and lasers](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
 * [2022-06-01, 01:40:53](https://news.ycombinator.com/item?id=31577087) - [Gmail accepts forged YouTube emails](https://john-millikin.com/gmail-accepts-forged-youtube-emails)
 * [2022-05-31, 17:57:44](https://news.ycombinator.com/item?id=31572669) - [A gentle-ish introduction to worst-case optimal joins](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2)
@@ -28,7 +29,6 @@
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
 * [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An introduction to logical decision theory for everyone else](https://arbital.com/p/logical_dt/?l=5kv)
-* [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 
 ## [Archives](archives/index.md)
