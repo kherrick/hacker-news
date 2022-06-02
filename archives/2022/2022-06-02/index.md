@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 05:09:59](https://news.ycombinator.com/item?id=31591564) - [UN registers 'Türkiye' as new country name to replace 'Turkey'](https://www.aa.com.tr/en/americas/un-registers-turkiye-as-new-country-name-to-replace-turkey/2603492)
 * [2022-06-02, 03:59:12](https://news.ycombinator.com/item?id=31591166) - [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
 * [2022-06-02, 03:09:32](https://news.ycombinator.com/item?id=31590874) - [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
