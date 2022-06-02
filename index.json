@@ -1,22 +1,72 @@
 [
   [
     [
-      "2022-06-02, 11:02:21",
-      "https://news.ycombinator.com/item?id=31593470"
+      "2022-06-02, 12:35:45",
+      "https://news.ycombinator.com/item?id=31594016"
     ],
     [
-      "'Father of MIDI' Dave Smith has died",
-      "https://www.synthtopia.com/content/2022/06/01/sequential-founder-father-of-midi-dave-smith-has-died/"
+      "I made a tool to automate your Twitter DMs",
+      "https://www.hivoe.com/"
     ]
   ],
   [
     [
-      "2022-06-02, 09:58:47",
-      "https://news.ycombinator.com/item?id=31593135"
+      "2022-06-02, 12:32:54",
+      "https://news.ycombinator.com/item?id=31593995"
     ],
     [
-      "Wasmer (YC S19) Is Hiring a Python Master with DevOps expertise",
-      "https://www.ycombinator.com/companies/wasmer/jobs/l6oF505-backend-developer"
+      "How to make decisions like a poker player",
+      "https://fronterablog.com/thinking-in-bets/"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 12:02:45",
+      "https://news.ycombinator.com/item?id=31593802"
+    ],
+    [
+      "Problems in Linear Algebra (1978), a book of solved problems",
+      "https://archive.org/details/ProskuryakovProblemsInLinearAlgebra"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 12:02:19",
+      "https://news.ycombinator.com/item?id=31593799"
+    ],
+    [
+      "Google cancelled a talk on caste bias",
+      "https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 12:00:45",
+      "https://news.ycombinator.com/item?id=31593784"
+    ],
+    [
+      "Bristle (YC W21) Is hiring to analyze the oral microbiome and prevent disease",
+      "https://bristle.notion.site/Careers-Bristle-f7a66759282a4a1195cbafdce00a8722"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 11:48:13",
+      "https://news.ycombinator.com/item?id=31593711"
+    ],
+    [
+      "Ask HN: What to get for my brother's 50th birthday?",
+      "https://news.ycombinator.com/item?id=31593711"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 10:18:00",
+      "https://news.ycombinator.com/item?id=31593236"
+    ],
+    [
+      "Rejecting data demands, ExpressVPN removes VPN servers in India",
+      "https://www.expressvpn.com/blog/remove-india-vpn-servers/"
     ]
   ],
   [
@@ -131,26 +181,6 @@
   ],
   [
     [
-      "2022-06-01, 19:55:20",
-      "https://news.ycombinator.com/item?id=31587139"
-    ],
-    [
-      "We don't show typing status",
-      "https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 19:31:47",
-      "https://news.ycombinator.com/item?id=31586833"
-    ],
-    [
-      "Show HN: A friend and I spent 6 years making a simulation game, finally released",
-      "https://news.ycombinator.com/item?id=31586833"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 17:59:14",
       "https://news.ycombinator.com/item?id=31585612"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-06-01, 16:45:45",
-      "https://news.ycombinator.com/item?id=31584555"
-    ],
-    [
-      "Connect: A Better gRPC",
-      "https://buf.build/blog/connect-a-better-grpc"
-    ]
-  ],
-  [
-    [
       "2022-06-01, 14:43:40",
       "https://news.ycombinator.com/item?id=31582494"
     ],
     [
       "The First Lisp Compiler",
       "https://texdraft.github.io/lisp-compiler/internals.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 12:04:56",
-      "https://news.ycombinator.com/item?id=31580627"
-    ],
-    [
-      "Async destructors, async genericity and completion futures",
-      "https://sabrinajewson.org/blog/async-drop"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2022-05-31, 11:52:54",
+      "https://news.ycombinator.com/item?id=31568487"
+    ],
+    [
+      "The ‘Form’ Element Created the Modern Web. Was It a Big Mistake?",
+      "https://www.wired.com/story/form-element-modern-web-mistake/"
+    ]
+  ],
+  [
+    [
       "2022-05-31, 10:56:21",
       "https://news.ycombinator.com/item?id=31568091"
     ],
@@ -251,21 +271,11 @@
   ],
   [
     [
-      "2022-05-31, 10:56:20",
-      "https://news.ycombinator.com/item?id=31568090"
-    ],
-    [
-      "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
-      "https://github.com/HazyResearch/flash-attention"
-    ]
-  ],
-  [
-    [
       "2022-05-31, 06:31:54",
       "https://news.ycombinator.com/item?id=31566678"
     ],
     [
-      "What has changed with video games over the last 25 years. And what has not",
+      "What has changed with video games over the last 25 years, and what has not",
       "https://www.dynamic-mess.com/un-peu-d-histoire/what-has-changed-in-our-relationship-with-video-games-over-the-last-25-years-and-what-has-not/"
     ]
   ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-05-30, 20:37:24",
-      "https://news.ycombinator.com/item?id=31563384"
+      "2022-05-30, 09:45:46",
+      "https://news.ycombinator.com/item?id=31557187"
     ],
     [
-      "An introduction to logical decision theory for everyone else",
-      "https://arbital.com/p/logical_dt/?l=5kv"
-    ]
-  ],
-  [
-    [
-      "2022-05-30, 11:17:10",
-      "https://news.ycombinator.com/item?id=31557809"
-    ],
-    [
-      "Ffmpeg Buddy",
-      "https://evanhahn.github.io/ffmpeg-buddy/"
+      "Prime Run: a game about adding and subtracting prime numbers",
+      "https://aperiodical.com/2022/05/prime-run/"
     ]
   ]
 ]
