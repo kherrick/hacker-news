@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 03:59:12](https://news.ycombinator.com/item?id=31591166) - [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
 * [2022-06-02, 03:09:32](https://news.ycombinator.com/item?id=31590874) - [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 * [2022-06-02, 01:31:19](https://news.ycombinator.com/item?id=31590283) - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
@@ -28,7 +29,6 @@
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
 * [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An introduction to logical decision theory for everyone else](https://arbital.com/p/logical_dt/?l=5kv)
-* [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 
 ## [Archives](archives/index.md)
