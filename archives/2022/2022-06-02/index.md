@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 21:01:14](https://news.ycombinator.com/item?id=31600446) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 * [2022-06-02, 20:15:42](https://news.ycombinator.com/item?id=31599981) - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
 * [2022-06-02, 19:50:14](https://news.ycombinator.com/item?id=31599699) - [Theory of winter-fasting as a cure for cancer](https://github.com/albinsjolin/open-source-cure-for-cancer)
