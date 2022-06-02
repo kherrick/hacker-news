@@ -24,6 +24,7 @@
 * [2022-06-01, 17:27:22](https://news.ycombinator.com/item?id=31585170) - [Ask HN: Are companies preparing to end Remote?](https://news.ycombinator.com/item?id=31585170)
 * [2022-06-01, 17:23:23](https://news.ycombinator.com/item?id=31585107) - [Finley (YC W21) is hiring fintech software engineers (US remote)](https://news.ycombinator.com/item?id=31585107)
 * [2022-06-01, 17:11:16](https://news.ycombinator.com/item?id=31584937) - [DOJ charges former OpenSea employee for insider NFT trading](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+* [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
 * [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
 * [2022-06-01, 16:02:07](https://news.ycombinator.com/item?id=31583892) - [Ring Basic Plan 40% Price Increase](https://news.ycombinator.com/item?id=31583892)
