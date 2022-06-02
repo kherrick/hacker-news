@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
+* [2022-06-02, 05:59:36](https://news.ycombinator.com/item?id=31591861) - [California Drought Update May 2022 [pdf]](https://drought.ca.gov/media/2022/05/External-CA-Drought-Weekly-Update-05232022.pdf)
+* [2022-06-02, 05:46:53](https://news.ycombinator.com/item?id=31591777) - [East German Doping Victims Die 10 to 12 Years Earlier (2018)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)
 * [2022-06-02, 03:57:58](https://news.ycombinator.com/item?id=31591160) - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite open source game?](https://news.ycombinator.com/item?id=31590724)
 * [2022-06-02, 01:31:19](https://news.ycombinator.com/item?id=31590283) - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
@@ -8,7 +10,6 @@
 * [2022-06-02, 00:49:43](https://news.ycombinator.com/item?id=31590023) - [Break Up The Elite College Seats Cartel](https://sahajsharda.substack.com/p/break-up-the-elite-college-seats)
 * [2022-06-02, 00:33:23](https://news.ycombinator.com/item?id=31589924) - [Open Source Alternative To](https://www.opensourcealternative.to)
 * [2022-06-02, 00:21:25](https://news.ycombinator.com/item?id=31589839) - [Remembering Dave Smith, 1950–2022](https://www.sequential.com/)
-* [2022-06-01, 21:26:18](https://news.ycombinator.com/item?id=31588358) - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
 * [2022-06-01, 20:08:28](https://news.ycombinator.com/item?id=31587316) - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
 * [2022-06-01, 19:55:20](https://news.ycombinator.com/item?id=31587139) - [We don't show typing status](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing)
 * [2022-06-01, 19:31:47](https://news.ycombinator.com/item?id=31586833) - [Show HN: A friend and I spent 6 years making a simulation game, finally released](https://news.ycombinator.com/item?id=31586833)
@@ -27,7 +28,6 @@
 * [2022-05-31, 10:56:21](https://news.ycombinator.com/item?id=31568091) - [Power on Tap: Dynamic control of P cores in M1 chips](https://eclecticlight.co/2022/05/31/power-on-tap-dynamic-control-of-p-cores-in-m1-chips/)
 * [2022-05-31, 10:56:20](https://news.ycombinator.com/item?id=31568090) - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/HazyResearch/flash-attention)
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
-* [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An introduction to logical decision theory for everyone else](https://arbital.com/p/logical_dt/?l=5kv)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 
