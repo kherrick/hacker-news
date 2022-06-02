@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 14:37:28](https://news.ycombinator.com/item?id=31595437) - [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
 * [2022-06-02, 13:24:10](https://news.ycombinator.com/item?id=31594551) - [Coffee Drinking Linked to Lower Risk of Dying, New Study Finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
 * [2022-06-02, 12:49:23](https://news.ycombinator.com/item?id=31594144) - [Show HN: I hacked my sons Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
 * [2022-06-02, 12:32:54](https://news.ycombinator.com/item?id=31593995) - [How to make decisions like a poker player](https://fronterablog.com/thinking-in-bets/)
@@ -19,7 +20,6 @@
 * [2022-06-02, 01:31:19](https://news.ycombinator.com/item?id=31590283) - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)
 * [2022-06-02, 00:33:23](https://news.ycombinator.com/item?id=31589924) - [Open Source Alternative To](https://www.opensourcealternative.to)
 * [2022-06-02, 00:21:25](https://news.ycombinator.com/item?id=31589839) - [Remembering Dave Smith, 1950–2022](https://www.sequential.com/)
-* [2022-06-01, 19:31:47](https://news.ycombinator.com/item?id=31586833) - [Show HN: A friend and I spent 6 years making a simulation game, finally released](https://news.ycombinator.com/item?id=31586833)
 * [2022-06-01, 17:59:14](https://news.ycombinator.com/item?id=31585612) - [Tim Hortons app violated laws in collection of ‘vast amounts’ of location data](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
 * [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
 * [2022-06-01, 10:38:40](https://news.ycombinator.com/item?id=31580056) - [Browser developer discusses his expectations of search engines](https://www.stoutner.com/mojeek-blog-post/)
