@@ -18,7 +18,6 @@
 * [2022-06-01, 17:33:46](https://news.ycombinator.com/item?id=31585260) - [Could the greatest works of literature be undiscovered?](https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered)
 * [2022-06-01, 17:01:36](https://news.ycombinator.com/item?id=31584791) - [Kagi search and Orion browser enter public beta](https://blog.kagi.com/kagi-orion-public-beta)
 * [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
-* [2022-06-01, 15:54:13](https://news.ycombinator.com/item?id=31583737) - [The US military launched 500M needles into space (2019)](https://www.todayifoundout.com/index.php/2019/10/that-time-the-u-s-military-launched-a-half-a-billion-needles-to-space-for-reasons/)
 * [2022-06-01, 14:43:40](https://news.ycombinator.com/item?id=31582494) - [The First Lisp Compiler](https://texdraft.github.io/lisp-compiler/internals.html)
 * [2022-06-01, 12:04:56](https://news.ycombinator.com/item?id=31580627) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [Physicists are building neural networks out of vibrations, voltages and lasers](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
@@ -29,6 +28,7 @@
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
 * [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An introduction to logical decision theory for everyone else](https://arbital.com/p/logical_dt/?l=5kv)
+* [2022-05-30, 11:17:10](https://news.ycombinator.com/item?id=31557809) - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 
 ## [Archives](archives/index.md)
