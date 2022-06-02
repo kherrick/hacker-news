@@ -6,6 +6,7 @@
 
 * [2022-06-02, 05:09:59](https://news.ycombinator.com/item?id=31591564) - [UN registers 'Türkiye' as new country name to replace 'Turkey'](https://www.aa.com.tr/en/americas/un-registers-turkiye-as-new-country-name-to-replace-turkey/2603492)
 * [2022-06-02, 03:59:12](https://news.ycombinator.com/item?id=31591166) - [How to detect and visualize fraudulent activities using knowledge graph](https://nebula-graph.io/posts/fraud-detection-using-knowledge-and-graph-database)
+* [2022-06-02, 03:57:58](https://news.ycombinator.com/item?id=31591160) - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 * [2022-06-02, 03:09:32](https://news.ycombinator.com/item?id=31590874) - [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
 * [2022-06-02, 02:30:08](https://news.ycombinator.com/item?id=31590606) - [Police attacks against journalists across the U.S. since May 28 (2020)](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country/)
