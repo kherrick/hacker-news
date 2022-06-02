@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
 * [2022-06-02, 17:59:46](https://news.ycombinator.com/item?id=31598335) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2022-06-02, 17:59:14](https://news.ycombinator.com/item?id=31598324) - [CNN cutting back on over-hyping everything as “breaking news”](https://www.axios.com/2022/06/02/cnn-breaking-news-guidelines)
 * [2022-06-02, 17:50:15](https://news.ycombinator.com/item?id=31598217) - [Science Is Getting Harder](https://mattsclancy.substack.com/p/science-is-getting-harder)
-* [2022-06-02, 17:43:47](https://news.ycombinator.com/item?id=31598144) - [Create Your First Node.js GitHub Action, a How-To Guide](https://fusebit.io/blog/first-nodejs-github-action/)
 * [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
 * [2022-06-02, 17:01:08](https://news.ycombinator.com/item?id=31597510) - [Goalbook (YC IK12) is hiring senior engineers to impact special education](https://jobs.lever.co/goalbookapp-2/0b735c81-09d8-401a-94e8-150728c3ec7b)
 * [2022-06-02, 16:32:10](https://news.ycombinator.com/item?id=31597022) - [The timeless, futile effort to fix circadian rhythms with tech](https://reallifemag.com/temporal-belonging/)
@@ -27,8 +27,8 @@
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Largest airship built in United States since 1930s to take shape soon](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
-* [2022-06-01, 10:54:56](https://news.ycombinator.com/item?id=31580148) - [Technique: Recursive Variants and Boxes](https://www.foonathan.net/2022/05/recursive-variant-box/)
 * [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
+* [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 * [2022-05-30, 14:23:30](https://news.ycombinator.com/item?id=31559283) - [There is no reason to cross the U.S. by train but I did it anyway (2019)](https://www.nytimes.com/interactive/2019/03/20/magazine/train-across-america-amtrak.html)
 
 ## [Archives](archives/index.md)

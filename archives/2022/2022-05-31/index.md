@@ -37,6 +37,7 @@
 * [2022-05-31, 16:48:10](https://news.ycombinator.com/item?id=31571763) - [Show HN: Git Timeline Generator – Visualize contributions to any Git project](https://www.preceden.com/git)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html)
 * [2022-05-31, 16:44:16](https://news.ycombinator.com/item?id=31571711) - [NetScape: A Sneak Preview of the shape of WWW Browsers to come (1994)](https://web.archive.org/web/19961102083247/http://desires.com/1.1/)
+* [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 * [2022-05-31, 16:39:01](https://news.ycombinator.com/item?id=31571645) - [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
 * [2022-05-31, 16:33:07](https://news.ycombinator.com/item?id=31571566) - [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
 * [2022-05-31, 16:25:58](https://news.ycombinator.com/item?id=31571476) - [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
