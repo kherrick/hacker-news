@@ -22,12 +22,12 @@
 * [2022-06-01, 12:04:56](https://news.ycombinator.com/item?id=31580627) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
 * [2022-06-01, 10:38:40](https://news.ycombinator.com/item?id=31580056) - [Browser developer discusses his expectations of search engines](https://www.stoutner.com/mojeek-blog-post/)
 * [2022-06-01, 10:02:31](https://news.ycombinator.com/item?id=31579873) - [Physicists are building neural networks out of vibrations, voltages and lasers](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/)
+* [2022-06-01, 08:46:18](https://news.ycombinator.com/item?id=31579522) - [Photography and Ikigai](https://www.lkazphoto.com/blog/photography-and-ikigai)
 * [2022-06-01, 01:40:53](https://news.ycombinator.com/item?id=31577087) - [Gmail accepts forged YouTube emails](https://john-millikin.com/gmail-accepts-forged-youtube-emails)
 * [2022-05-31, 17:57:44](https://news.ycombinator.com/item?id=31572669) - [A gentle-ish introduction to worst-case optimal joins](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2)
 * [2022-05-31, 10:56:21](https://news.ycombinator.com/item?id=31568091) - [Power on Tap: Dynamic control of P cores in M1 chips](https://eclecticlight.co/2022/05/31/power-on-tap-dynamic-control-of-p-cores-in-m1-chips/)
 * [2022-05-31, 10:56:20](https://news.ycombinator.com/item?id=31568090) - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/HazyResearch/flash-attention)
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
-* [2022-05-30, 22:20:47](https://news.ycombinator.com/item?id=31564247) - [Matt’s Rooftop Receiver Shootout: Round Two](https://swling.com/blog/2022/05/matts-rooftop-receiver-shootout-round-two/)
 * [2022-05-30, 20:37:24](https://news.ycombinator.com/item?id=31563384) - [An introduction to logical decision theory for everyone else](https://arbital.com/p/logical_dt/?l=5kv)
 * [2022-05-30, 10:10:08](https://news.ycombinator.com/item?id=31557324) - [Qualcomm shook down the cell phone industry for almost 20 years (2019)](https://arstechnica.com/tech-policy/2019/05/how-qualcomm-shook-down-the-cell-phone-industry-for-almost-20-years/)
 
