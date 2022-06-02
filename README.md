@@ -15,6 +15,7 @@
 * [2022-06-02, 16:22:06](https://news.ycombinator.com/item?id=31596853) - [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)
 * [2022-06-02, 15:53:36](https://news.ycombinator.com/item?id=31596419) - [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 * [2022-06-02, 15:36:09](https://news.ycombinator.com/item?id=31596165) - [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)
+* [2022-06-02, 15:21:49](https://news.ycombinator.com/item?id=31595987) - [Behind the Scenes: The pots, pans, and people that make millions of meals](https://joseandres.substack.com/p/behind-the-scenes-the-pots-pans-and)
 * [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Show HN: Svelvet – A component library for building interactive flow diagrams](https://svelvet.io/)
 * [2022-06-02, 15:02:55](https://news.ycombinator.com/item?id=31595751) - [The Linux cheat command](https://opensource.com/article/22/6/linux-cheat-command)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
@@ -27,7 +28,6 @@
 * [2022-06-02, 10:18:00](https://news.ycombinator.com/item?id=31593236) - [Rejecting data demands, ExpressVPN removes VPN servers in India](https://www.expressvpn.com/blog/remove-india-vpn-servers/)
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
-* [2022-06-01, 10:14:15](https://news.ycombinator.com/item?id=31579929) - [Interactive Dynamics for Visual Analysis (2012)](https://queue.acm.org/detail.cfm?id=2146416)
 * [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 
