@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 09:58:47](https://news.ycombinator.com/item?id=31593135) - [Wasmer (YC S19) Is Hiring a Python/DevOps Expert](https://www.ycombinator.com/companies/wasmer/jobs/l6oF505-backend-developer)
 * [2022-06-02, 09:19:19](https://news.ycombinator.com/item?id=31592934) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+* [2022-06-02, 07:46:41](https://news.ycombinator.com/item?id=31592463) - [1k True Fans? Try 100](https://future.a16z.com/1000-true-fans-try-100/)
 * [2022-06-02, 07:42:10](https://news.ycombinator.com/item?id=31592448) - [Sergey Brin's Largest airship built in US since 1930s](https://www.beaconjournal.com/story/news/2022/05/05/largest-us-airship-take-shape-soon-inside-akron-airdock-blimp-lta-sergey-brin-ohio-google/7393571001/)
 * [2022-06-02, 05:59:36](https://news.ycombinator.com/item?id=31591861) - [California Drought Update May 2022 [pdf]](https://drought.ca.gov/media/2022/05/External-CA-Drought-Weekly-Update-05232022.pdf)
 * [2022-06-02, 05:46:53](https://news.ycombinator.com/item?id=31591777) - [East German Doping Victims Die 10 to 12 Years Earlier (2018)](https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2F2018-03%2Fdoping-east-germany-research-harald-freyberger-english%2Fkomplettansicht)

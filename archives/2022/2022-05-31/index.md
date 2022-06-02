@@ -60,6 +60,7 @@
 * [2022-05-31, 12:49:14](https://news.ycombinator.com/item?id=31568895) - [1x Engineer](https://1x.engineer/)
 * [2022-05-31, 12:41:24](https://news.ycombinator.com/item?id=31568837) - [Killer Asteroids are hiding in plain sight; a new tool finds them](https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html)
 * [2022-05-31, 12:19:16](https://news.ycombinator.com/item?id=31568672) - [Ford’s Electric Pickup Can Power Your House for 10 Days](https://www.bloomberg.com/news/articles/2022-05-31/how-the-ford-f-150-can-be-a-backup-home-generator)
+* [2022-05-31, 11:52:54](https://news.ycombinator.com/item?id=31568487) - [The ‘Form’ Element Created the Modern Web. Was It a Big Mistake?](https://www.wired.com/story/form-element-modern-web-mistake/)
 * [2022-05-31, 11:49:16](https://news.ycombinator.com/item?id=31568455) - [How to rescue the world's biggest cargo ships](https://www.bbc.com/future/article/20220530-how-to-rescue-the-worlds-biggest-cargo-ships)
 * [2022-05-31, 11:04:48](https://news.ycombinator.com/item?id=31568157) - [Sick of Windows but can't afford a Mac? The cynic's guide to desktop Linux](https://www.theregister.com/2022/05/31/the_cynics_guide_to_linux/)
 * [2022-05-31, 11:02:51](https://news.ycombinator.com/item?id=31568138) - [Ask HN: Docker vs simple DLLs?](https://news.ycombinator.com/item?id=31568138)
