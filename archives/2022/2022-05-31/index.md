@@ -78,6 +78,7 @@
 * [2022-05-31, 07:41:54](https://news.ycombinator.com/item?id=31567016) - [Show HN: Todool, a full blown environment for managing large trees of task lists](https://todool.handmade.network/)
 * [2022-05-31, 07:31:13](https://news.ycombinator.com/item?id=31566967) - [How to Eat the Future](https://reallifemag.com/how-to-eat-the-future/)
 * [2022-05-31, 06:58:40](https://news.ycombinator.com/item?id=31566802) - [Painting a Character with Maths (2020) [video]](https://www.youtube.com/watch?v=8--5LwHRhjk)
+* [2022-05-31, 06:31:54](https://news.ycombinator.com/item?id=31566678) - [What has changed with video games over the last 25 years. And what has not](https://www.dynamic-mess.com/un-peu-d-histoire/what-has-changed-in-our-relationship-with-video-games-over-the-last-25-years-and-what-has-not/)
 * [2022-05-31, 05:45:55](https://news.ycombinator.com/item?id=31566455) - [Margin notes to “HTML 4.0 in Netscape and Explorer” (2000)](https://jkorpela.fi/www/4.html)
 * [2022-05-31, 05:33:44](https://news.ycombinator.com/item?id=31566401) - [SumatraPDF 3.4 Released](https://www.sumatrapdfreader.org/docs/Version-history)
 * [2022-05-31, 04:49:03](https://news.ycombinator.com/item?id=31566208) - [The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma](https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html)
