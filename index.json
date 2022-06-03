@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-03, 15:00:03",
+      "https://news.ycombinator.com/item?id=31609217"
+    ],
+    [
+      "Show HN: Fast Deep Reinforcement Learning Course",
+      "https://courses.dibya.online/p/fastdeeprl"
+    ]
+  ],
+  [
+    [
       "2022-06-03, 14:57:19",
       "https://news.ycombinator.com/item?id=31609179"
     ],
@@ -27,6 +37,16 @@
     [
       "Honestly? Don't Send to Gmail over IPv6",
       "https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-03, 14:01:01",
+      "https://news.ycombinator.com/item?id=31608397"
+    ],
+    [
+      "Ask HN: How do you stay focused at work?",
+      "https://news.ycombinator.com/item?id=31608397"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-06-03, 07:20:33",
-      "https://news.ycombinator.com/item?id=31605243"
-    ],
-    [
-      "Python library tracks energy consumption and calculates your carbon emissions",
-      "https://github.com/fvaleye/tracarbon"
-    ]
-  ],
-  [
-    [
       "2022-06-03, 06:28:58",
       "https://news.ycombinator.com/item?id=31604932"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-06-03, 02:29:06",
-      "https://news.ycombinator.com/item?id=31603536"
+      "2022-06-02, 13:00:16",
+      "https://news.ycombinator.com/item?id=31594280"
     ],
     [
-      "Racket for e-commerce (2019)",
-      "https://defn.io/2019/08/20/racket-ecommerce/"
-    ]
-  ],
-  [
-    [
-      "2022-06-03, 00:20:12",
-      "https://news.ycombinator.com/item?id=31602417"
-    ],
-    [
-      "Ford CEO says EVs will be sold 100% online with nonnegotiable price",
-      "https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1"
-    ]
-  ],
-  [
-    [
-      "2022-06-03, 00:04:33",
-      "https://news.ycombinator.com/item?id=31602288"
-    ],
-    [
-      "Zero-Day Exploitation of Atlassian Confluence",
-      "https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/"
+      "Side Channels [pdf]",
+      "https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch19-7sep.pdf"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Semantle: guess words based on Word2vec similarity scores",
       "https://semantle.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 10:49:38",
+      "https://news.ycombinator.com/item?id=31580121"
+    ],
+    [
+      "New type of 3D printing uses sound waves to build up objects",
+      "https://newatlas.com/3d-printing/direct-sound-3d-printing/"
     ]
   ],
   [
