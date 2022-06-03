@@ -11,7 +11,6 @@
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
 * [2022-06-03, 14:22:36](https://news.ycombinator.com/item?id=31608684) - [Don't send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-Signal Proteins Evolved Before Animals Did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
-* [2022-06-03, 13:28:42](https://news.ycombinator.com/item?id=31607942) - [Indoor air filtration could lead to increased airborne endotoxin levels (2020)](https://www.sciencedirect.com/science/article/pii/S016041202031833X)
 * [2022-06-03, 12:48:38](https://news.ycombinator.com/item?id=31607496) - [On the security of plugins](https://blog.standardnotes.com/33536/on-the-security-of-plugins)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
 * [2022-06-03, 10:37:56](https://news.ycombinator.com/item?id=31606573) - [Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
@@ -29,6 +28,7 @@
 * [2022-06-01, 10:49:38](https://news.ycombinator.com/item?id=31580121) - [New type of 3D printing uses sound waves to build up objects](https://newatlas.com/3d-printing/direct-sound-3d-printing/)
 * [2022-06-01, 09:21:10](https://news.ycombinator.com/item?id=31579690) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM](https://blog.regehr.org/archives/2148)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 Has Arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
+* [2022-05-30, 14:25:07](https://news.ycombinator.com/item?id=31559294) - [I Write Letters to CEOs (2018)](https://www.johnwdefeo.com/articles/why-i-write-letters-to-ceos)
 * [2022-05-30, 04:32:35](https://news.ycombinator.com/item?id=31555505) - [Rethink-app: DNS over HTTPS, firewall, and connection tracker for Android](https://github.com/celzero/rethink-app)
 
 ## [Archives](archives/index.md)
