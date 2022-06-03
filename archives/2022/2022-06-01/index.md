@@ -31,6 +31,7 @@
 * [2022-06-01, 17:01:36](https://news.ycombinator.com/item?id=31584791) - [Kagi search and Orion browser enter public beta](https://blog.kagi.com/kagi-orion-public-beta)
 * [2022-06-01, 16:49:37](https://news.ycombinator.com/item?id=31584611) - [Printmaking as Play](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/)
 * [2022-06-01, 16:45:45](https://news.ycombinator.com/item?id=31584555) - [Connect: A Better gRPC](https://buf.build/blog/connect-a-better-grpc)
+* [2022-06-01, 16:41:32](https://news.ycombinator.com/item?id=31584496) - [InnovateFPGA: Wrong Strategy Drives One of the Best FPGA Dev Contests to Crisis](https://cacm.acm.org/blogs/blog-cacm/261502-innovatefpga-wrong-strategy-drives-one-of-the-best-fpga-development-contests-into-crisis/fulltext)
 * [2022-06-01, 16:23:55](https://news.ycombinator.com/item?id=31584226) - [Show HN: BrainIDE – A feature-packed brainfuck compiler](https://github.com/LovetheFrogs/BrainIDE)
 * [2022-06-01, 16:06:53](https://news.ycombinator.com/item?id=31583968) - [The History of the Web, Timeline](https://thehistoryoftheweb.com/timeline/)
 * [2022-06-01, 16:02:07](https://news.ycombinator.com/item?id=31583892) - [Ring Basic Plan 40% Price Increase](https://news.ycombinator.com/item?id=31583892)
