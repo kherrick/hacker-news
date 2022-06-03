@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-06-03, 09:11:06",
-      "https://news.ycombinator.com/item?id=31605939"
-    ],
-    [
-      "Senate Bill S6486D Establishes a moratorium on cryptocurrency mining",
-      "https://www.nysenate.gov/legislation/bills/2021/S6486"
-    ]
-  ],
-  [
-    [
       "2022-06-03, 08:20:09",
       "https://news.ycombinator.com/item?id=31605645"
     ],
@@ -297,6 +287,16 @@
     [
       "A man who built his own cathedral",
       "https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain"
+    ]
+  ],
+  [
+    [
+      "2022-05-30, 04:32:35",
+      "https://news.ycombinator.com/item?id=31555505"
+    ],
+    [
+      "Rethink-app: DNS over HTTPS, firewall, and connection tracker for Android",
+      "https://github.com/celzero/rethink-app"
     ]
   ]
 ]
