@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-03, 02:29:06",
+      "https://news.ycombinator.com/item?id=31603536"
+    ],
+    [
+      "Racket for E-Commerce",
+      "https://defn.io/2019/08/20/racket-ecommerce/"
+    ]
+  ],
+  [
+    [
       "2022-06-03, 01:29:57",
       "https://news.ycombinator.com/item?id=31603119"
     ],
@@ -15,8 +25,8 @@
       "https://news.ycombinator.com/item?id=31602417"
     ],
     [
-      "Ford Is Going to 100% Online, Fixed-Price Sales for EVs",
-      "https://www.roadandtrack.com/news/a40175990/ford-online-sales-no-negotiation/"
+      "Ford CEO says EVs will be sold 100% online with nonnegotiable price",
+      "https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2022-06-02, 12:02:19",
-      "https://news.ycombinator.com/item?id=31593799"
+      "2022-06-02, 12:50:36",
+      "https://news.ycombinator.com/item?id=31594156"
     ],
     [
-      "Google cancelled a talk on caste bias",
-      "https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/"
+      "Trial Diary: A Journalist Sits on a Baltimore Jury",
+      "https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary"
     ]
   ],
   [
     [
-      "2022-06-02, 11:50:18",
-      "https://news.ycombinator.com/item?id=31593726"
+      "2022-06-02, 10:20:25",
+      "https://news.ycombinator.com/item?id=31593248"
     ],
     [
-      "Show HN: I made a deceptively simple but hard sliding puzzle",
-      "https://www.quaxio.com/sliding_puzzle/puzzle.html"
+      "Installing a payphone in my house",
+      "https://bert.org/2022/06/02/payphone/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Building a transformer in Julia",
       "https://liorsinai.github.io/coding/2022/05/18/transformers.html"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 16:06:29",
-      "https://news.ycombinator.com/item?id=31571228"
-    ],
-    [
-      "Linux ID-Mapped Mounts",
-      "https://lwn.net/SubscriberLink/896255/882864aefc82f4cc/"
     ]
   ]
 ]
