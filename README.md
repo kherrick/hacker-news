@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
-* [2022-06-03, 21:03:07](https://news.ycombinator.com/item?id=31613579) - [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
 * [2022-06-03, 21:00:48](https://news.ycombinator.com/item?id=31613555) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-03, 19:38:14](https://news.ycombinator.com/item?id=31612698) - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
 * [2022-06-03, 19:10:28](https://news.ycombinator.com/item?id=31612413) - [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
@@ -22,6 +21,7 @@
 * [2022-06-03, 03:17:17](https://news.ycombinator.com/item?id=31603850) - [What a gas stove ban means for restaurants](https://www.latimes.com/food/story/2022-06-02/gas-stove-ban-chinese-korean-bbq-electric-new-buildings-restaurants-future)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
 * [2022-06-02, 14:18:55](https://news.ycombinator.com/item?id=31595211) - [Y Combinator for Mittelstands?](https://neilthanedar.com/yc-for-mittelstands/)
+* [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-02, 02:57:46](https://news.ycombinator.com/item?id=31590773) - [Ceiling Air Purifier](https://www.jefftk.com/p/ceiling-air-purifier)
 * [2022-06-01, 21:29:30](https://news.ycombinator.com/item?id=31588388) - [Semantle: guess words based on Word2vec similarity scores](https://semantle.com/)
 * [2022-06-01, 20:54:19](https://news.ycombinator.com/item?id=31587950) - [Why are maps so hard to make?](https://www.readmargins.com/p/say-hello-to-felt)
