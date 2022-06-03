@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 02:29:06](https://news.ycombinator.com/item?id=31603536) - [Racket for E-Commerce](https://defn.io/2019/08/20/racket-ecommerce/)
 * [2022-06-03, 01:29:57](https://news.ycombinator.com/item?id=31603119) - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
-* [2022-06-03, 00:20:12](https://news.ycombinator.com/item?id=31602417) - [Ford Is Going to 100% Online, Fixed-Price Sales for EVs](https://www.roadandtrack.com/news/a40175990/ford-online-sales-no-negotiation/)
+* [2022-06-03, 00:20:12](https://news.ycombinator.com/item?id=31602417) - [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
 * [2022-06-03, 00:04:33](https://news.ycombinator.com/item?id=31602288) - [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
 * [2022-06-02, 23:27:30](https://news.ycombinator.com/item?id=31601926) - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 * [2022-06-02, 22:24:53](https://news.ycombinator.com/item?id=31601309) - [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
@@ -23,13 +24,12 @@
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
 * [2022-06-02, 13:24:10](https://news.ycombinator.com/item?id=31594551) - [Coffee drinking linked to lower mortality risk, new study finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
-* [2022-06-02, 12:02:19](https://news.ycombinator.com/item?id=31593799) - [Google cancelled a talk on caste bias](https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/)
-* [2022-06-02, 11:50:18](https://news.ycombinator.com/item?id=31593726) - [Show HN: I made a deceptively simple but hard sliding puzzle](https://www.quaxio.com/sliding_puzzle/puzzle.html)
+* [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial Diary: A Journalist Sits on a Baltimore Jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
+* [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-01, 18:01:27](https://news.ycombinator.com/item?id=31585645) - [Philosopher of the Apocalypse](https://aeon.co/essays/gunther-anders-a-forgotten-prophet-for-the-21st-century)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
 * [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
-* [2022-05-31, 16:06:29](https://news.ycombinator.com/item?id=31571228) - [Linux ID-Mapped Mounts](https://lwn.net/SubscriberLink/896255/882864aefc82f4cc/)
 
 ## [Archives](archives/index.md)
 
