@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 07:37:19](https://news.ycombinator.com/item?id=31605345) - [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
 * [2022-06-03, 07:30:39](https://news.ycombinator.com/item?id=31605302) - [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
 * [2022-06-03, 07:26:18](https://news.ycombinator.com/item?id=31605275) - [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
+* [2022-06-03, 07:23:13](https://news.ycombinator.com/item?id=31605261) - [Running a Minecraft server on OpenBSD -current](https://dataswamp.org/~rjc/running_minecraft_server_on_openbsd.html)
+* [2022-06-03, 07:20:33](https://news.ycombinator.com/item?id=31605243) - [Python library tracks energy consumption and calculates your carbon emissions](https://github.com/fvaleye/tracarbon)
 * [2022-06-03, 07:06:31](https://news.ycombinator.com/item?id=31605131) - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 * [2022-06-03, 07:01:11](https://news.ycombinator.com/item?id=31605104) - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
 * [2022-06-03, 06:50:28](https://news.ycombinator.com/item?id=31605056) - [Italy Is Held Back by 2.6M People Who Have Given Up on Work](https://www.bloomberg.com/news/articles/2022-06-03/italy-is-held-back-by-2-6-million-people-who-ve-given-up-on-work)
