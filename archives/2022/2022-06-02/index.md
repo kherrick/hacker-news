@@ -79,6 +79,7 @@
 * [2022-06-02, 03:57:58](https://news.ycombinator.com/item?id=31591160) - [MarkovJunior: Probabilistic PL based on pattern matching and constraint prop](https://github.com/mxgmn/MarkovJunior)
 * [2022-06-02, 03:09:32](https://news.ycombinator.com/item?id=31590874) - [A concise summary of software concepts](https://blog.john-pfeiffer.com/a-concise-summary-of-amazing-and-great-ideas/)
 * [2022-06-02, 03:02:52](https://news.ycombinator.com/item?id=31590819) - [Show HN: Common Lisp running natively over WebAssembly for the first time ever](https://soi-disant.srht.site/entries/back-to-space.html)
+* [2022-06-02, 02:57:46](https://news.ycombinator.com/item?id=31590773) - [Ceiling Air Purifier](https://www.jefftk.com/p/ceiling-air-purifier)
 * [2022-06-02, 02:50:01](https://news.ycombinator.com/item?id=31590724) - [Ask HN: Favourite Open Source Game?](https://news.ycombinator.com/item?id=31590724)
 * [2022-06-02, 02:30:08](https://news.ycombinator.com/item?id=31590606) - [Police attacks against journalists across the U.S. since May 28 (2020)](https://www.niemanlab.org/2020/06/well-try-to-help-you-follow-the-police-attacks-on-journalists-across-the-country/)
 * [2022-06-02, 01:31:19](https://news.ycombinator.com/item?id=31590283) - [Turkish Magician Built a $600M Nasdaq-Listed Scam Based on Lies](https://hindenburgresearch.com/enochian/)

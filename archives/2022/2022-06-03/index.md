@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
+* [2022-06-03, 12:00:19](https://news.ycombinator.com/item?id=31607127) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-06-03, 10:01:29](https://news.ycombinator.com/item?id=31606334) - [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
 * [2022-06-03, 09:20:10](https://news.ycombinator.com/item?id=31606011) - [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
 * [2022-06-03, 09:19:03](https://news.ycombinator.com/item?id=31606003) - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
