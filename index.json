@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-06-03, 19:00:09",
+      "https://news.ycombinator.com/item?id=31612289"
+    ],
+    [
+      "When it comes to privacy, default settings matter (2019)",
+      "https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/"
+    ]
+  ],
+  [
+    [
+      "2022-06-03, 18:58:36",
+      "https://news.ycombinator.com/item?id=31612270"
+    ],
+    [
+      "Derek Sivers' Book Notes",
+      "https://sive.rs/book"
+    ]
+  ],
+  [
+    [
       "2022-06-03, 18:31:18",
       "https://news.ycombinator.com/item?id=31611985"
     ],
     [
-      "They were riding pigs, not unicorns: panic in Startupland",
+      "Panic in Startupland",
       "https://www.nicolasbustamante.com/p/panic-in-startupland"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-06-02, 08:48:47",
-      "https://news.ycombinator.com/item?id=31592769"
-    ],
-    [
-      "Some thoughts on machine learning with small data",
-      "https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/"
-    ]
-  ],
-  [
-    [
       "2022-06-02, 02:57:46",
       "https://news.ycombinator.com/item?id=31590773"
     ],
@@ -257,16 +267,6 @@
     [
       "New type of 3D printing uses sound waves to build up objects",
       "https://newatlas.com/3d-printing/direct-sound-3d-printing/"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 09:21:10",
-      "https://news.ycombinator.com/item?id=31579690"
-    ],
-    [
-      "High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM",
-      "https://blog.regehr.org/archives/2148"
     ]
   ],
   [
