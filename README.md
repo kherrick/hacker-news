@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Hammerhead and Shimano Di2](https://support.hammerhead.io/hc/en-us/articles/360051706614-Hammerhead-Shimano-Di2)
 * [2022-06-03, 02:45:54](https://news.ycombinator.com/item?id=31603653) - [Creating Pixel Art (2010)](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 * [2022-06-03, 02:29:06](https://news.ycombinator.com/item?id=31603536) - [Racket for E-Commerce (2019)](https://defn.io/2019/08/20/racket-ecommerce/)
 * [2022-06-03, 01:29:57](https://news.ycombinator.com/item?id=31603119) - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
@@ -12,7 +13,6 @@
 * [2022-06-02, 21:17:01](https://news.ycombinator.com/item?id=31600612) - [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
 * [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 21:01:14](https://news.ycombinator.com/item?id=31600446) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-* [2022-06-02, 20:24:38](https://news.ycombinator.com/item?id=31600067) - [On Java/JVM: Loom and Thread Fairness](https://www.morling.dev/blog/loom-and-thread-fairness/)
 * [2022-06-02, 20:15:42](https://news.ycombinator.com/item?id=31599981) - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
 * [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [Tell HN: I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
