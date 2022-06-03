@@ -42,6 +42,7 @@
 * [2022-05-31, 16:39:01](https://news.ycombinator.com/item?id=31571645) - [Welcoming Rocket.Chat to Matrix](https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix/)
 * [2022-05-31, 16:33:07](https://news.ycombinator.com/item?id=31571566) - [Thin Platforms](https://stratechery.com/2022/thin-platforms/)
 * [2022-05-31, 16:25:58](https://news.ycombinator.com/item?id=31571476) - [RCE over ham radio – Reverse shell via WinAPRS memory corruption bug](https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5)
+* [2022-05-31, 16:06:29](https://news.ycombinator.com/item?id=31571228) - [Linux ID-Mapped Mounts](https://lwn.net/SubscriberLink/896255/882864aefc82f4cc/)
 * [2022-05-31, 15:49:49](https://news.ycombinator.com/item?id=31570953) - [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * [2022-05-31, 15:31:14](https://news.ycombinator.com/item?id=31570698) - [The world has passed ‘peak agricultural land’](https://ourworldindata.org/peak-agriculture-land)
 * [2022-05-31, 15:29:09](https://news.ycombinator.com/item?id=31570674) - [You can no longer purchase Kindle books through the Amazon app on Android](https://www.theverge.com/2022/5/6/23060387/amazon-google-android-kindle-ebook-play-store)
