@@ -18,7 +18,7 @@
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-signal proteins evolved before animals did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
-* [2022-06-03, 03:17:17](https://news.ycombinator.com/item?id=31603850) - [What a gas stove ban means for restaurants](https://www.latimes.com/food/story/2022-06-02/gas-stove-ban-chinese-korean-bbq-electric-new-buildings-restaurants-future)
+* [2022-06-03, 04:28:15](https://news.ycombinator.com/item?id=31604299) - [Software Automatic Mouth – Tiny Speech Synthesizer](https://github.com/s-macke/SAM)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2022-06-02, 14:18:55](https://news.ycombinator.com/item?id=31595211) - [Y Combinator for Mittelstands?](https://neilthanedar.com/yc-for-mittelstands/)
