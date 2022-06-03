@@ -72,6 +72,7 @@
 * [2022-06-01, 09:35:36](https://news.ycombinator.com/item?id=31579750) - [Timely Advice – How Long Does Dataviz Take?](https://nightingaledvs.com/timely-advice-how-long-does-dataviz-take/)
 * [2022-06-01, 09:31:48](https://news.ycombinator.com/item?id=31579739) - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
 * [2022-06-01, 09:21:10](https://news.ycombinator.com/item?id=31579690) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM](https://blog.regehr.org/archives/2148)
+* [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 Has Arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
 * [2022-06-01, 08:46:18](https://news.ycombinator.com/item?id=31579522) - [Photography and Ikigai](https://www.lkazphoto.com/blog/photography-and-ikigai)
 * [2022-06-01, 08:27:52](https://news.ycombinator.com/item?id=31579435) - [JXA’s Parenthesis Paradox](https://leancrew.com/all-this/2022/05/jxas-parenthesis-paradox/)
 * [2022-06-01, 08:11:58](https://news.ycombinator.com/item?id=31579357) - [Tech experts urge Washington to resist crypto industry’s influence](https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac)
