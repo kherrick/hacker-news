@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-03, 02:29:06](https://news.ycombinator.com/item?id=31603536) - [Racket for E-Commerce](https://defn.io/2019/08/20/racket-ecommerce/)
+* [2022-06-03, 02:45:54](https://news.ycombinator.com/item?id=31603653) - [Creating Pixel Art (2010)](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+* [2022-06-03, 02:29:06](https://news.ycombinator.com/item?id=31603536) - [Racket for E-Commerce (2019)](https://defn.io/2019/08/20/racket-ecommerce/)
 * [2022-06-03, 01:29:57](https://news.ycombinator.com/item?id=31603119) - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
 * [2022-06-03, 00:20:12](https://news.ycombinator.com/item?id=31602417) - [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
 * [2022-06-03, 00:04:33](https://news.ycombinator.com/item?id=31602288) - [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
-* [2022-06-02, 23:27:30](https://news.ycombinator.com/item?id=31601926) - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 * [2022-06-02, 22:24:53](https://news.ycombinator.com/item?id=31601309) - [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
 * [2022-06-02, 21:58:16](https://news.ycombinator.com/item?id=31601040) - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 * [2022-06-02, 21:39:39](https://news.ycombinator.com/item?id=31600848) - [Microsoft Purview: Additional classifiers for Communication Compliance (preview)](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
@@ -20,6 +20,7 @@
 * [2022-06-02, 17:15:08](https://news.ycombinator.com/item?id=31597719) - [American tech giants are making life tough for startups (2018)](https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 15:36:09](https://news.ycombinator.com/item?id=31596165) - [The Hidden Worlds of the Klein Tools TI250 Thermal Imager](https://www.scottsmitelli.com/articles/klein-tools-ti250-hidden-worlds)
+* [2022-06-02, 15:15:09](https://news.ycombinator.com/item?id=31595899) - [Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010)](https://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/)
 * [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Show HN: Svelvet – A component library for building interactive flow diagrams](https://svelvet.io/)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
@@ -28,7 +29,6 @@
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-01, 18:01:27](https://news.ycombinator.com/item?id=31585645) - [Philosopher of the Apocalypse](https://aeon.co/essays/gunther-anders-a-forgotten-prophet-for-the-21st-century)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
-* [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 
 ## [Archives](archives/index.md)
