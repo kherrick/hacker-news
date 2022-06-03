@@ -3,7 +3,6 @@
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Hammerhead and Shimano Di2](https://support.hammerhead.io/hc/en-us/articles/360051706614-Hammerhead-Shimano-Di2)
 * [2022-06-03, 02:45:54](https://news.ycombinator.com/item?id=31603653) - [Creating Pixel Art (2010)](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 * [2022-06-03, 02:29:06](https://news.ycombinator.com/item?id=31603536) - [Racket for E-Commerce (2019)](https://defn.io/2019/08/20/racket-ecommerce/)
-* [2022-06-03, 01:29:57](https://news.ycombinator.com/item?id=31603119) - [Is big tech’s red-hot jobs market about to cool?](https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool)
 * [2022-06-03, 00:20:12](https://news.ycombinator.com/item?id=31602417) - [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
 * [2022-06-03, 00:04:33](https://news.ycombinator.com/item?id=31602288) - [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
 * [2022-06-02, 22:24:53](https://news.ycombinator.com/item?id=31601309) - [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
@@ -30,6 +29,7 @@
 * [2022-06-01, 18:01:27](https://news.ycombinator.com/item?id=31585645) - [Philosopher of the Apocalypse](https://aeon.co/essays/gunther-anders-a-forgotten-prophet-for-the-21st-century)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
+* [2022-05-31, 08:02:02](https://news.ycombinator.com/item?id=31567115) - [A man who built his own cathedral](https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain)
 
 ## [Archives](archives/index.md)
 
