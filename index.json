@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-03, 01:29:57",
+      "https://news.ycombinator.com/item?id=31603119"
+    ],
+    [
+      "Is big tech’s red-hot jobs market about to cool?",
+      "https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool"
+    ]
+  ],
+  [
+    [
       "2022-06-03, 00:20:12",
       "https://news.ycombinator.com/item?id=31602417"
     ],
     [
       "Ford Is Going to 100% Online, Fixed-Price Sales for EVs",
       "https://www.roadandtrack.com/news/a40175990/ford-online-sales-no-negotiation/"
+    ]
+  ],
+  [
+    [
+      "2022-06-03, 00:04:33",
+      "https://news.ycombinator.com/item?id=31602288"
+    ],
+    [
+      "Zero-Day Exploitation of Atlassian Confluence",
+      "https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/"
     ]
   ],
   [
@@ -21,22 +41,22 @@
   ],
   [
     [
+      "2022-06-02, 22:24:53",
+      "https://news.ycombinator.com/item?id=31601309"
+    ],
+    [
+      "Mexico calls for dissolution of the Organization of the Americas",
+      "https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/"
+    ]
+  ],
+  [
+    [
       "2022-06-02, 21:58:16",
       "https://news.ycombinator.com/item?id=31601040"
     ],
     [
       "Rust Is Hard, Or: The Misery of Mainstream Programming",
       "https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-02, 21:54:53",
-      "https://news.ycombinator.com/item?id=31601004"
-    ],
-    [
-      "Ask HN: What does your Mom tell people about your work or employment?",
-      "https://news.ycombinator.com/item?id=31601004"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31600817"
     ],
     [
-      "Record Labels Dig Their Own Grave. and the Shovel Is Called TikTok",
+      "Record Labels Dig Their Own Grave, and the Shovel Is Called TikTok",
       "https://tedgioia.substack.com/p/record-labels-dig-their-own-grave"
     ]
   ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2022-06-02, 13:29:21",
-      "https://news.ycombinator.com/item?id=31594613"
-    ],
-    [
-      "Local-First Software (2019)",
-      "https://www.inkandswitch.com/local-first/"
-    ]
-  ],
-  [
-    [
       "2022-06-02, 13:24:10",
       "https://news.ycombinator.com/item?id=31594551"
     ],
     [
       "Coffee drinking linked to lower mortality risk, new study finds",
       "https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-02, 12:49:23",
-      "https://news.ycombinator.com/item?id=31594144"
-    ],
-    [
-      "Show HN: I hacked my son’s Duplo train to go faster using my voice",
-      "https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack"
     ]
   ],
   [
@@ -251,32 +251,22 @@
   ],
   [
     [
+      "2022-06-01, 18:01:27",
+      "https://news.ycombinator.com/item?id=31585645"
+    ],
+    [
+      "Philosopher of the Apocalypse",
+      "https://aeon.co/essays/gunther-anders-a-forgotten-prophet-for-the-21st-century"
+    ]
+  ],
+  [
+    [
       "2022-06-01, 15:57:02",
       "https://news.ycombinator.com/item?id=31583789"
     ],
     [
       "Scaling a startup from a bunker: founders' story from Ukraine",
       "https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews"
-    ]
-  ],
-  [
-    [
-      "2022-06-01, 15:47:09",
-      "https://news.ycombinator.com/item?id=31583603"
-    ],
-    [
-      "Syntax highlighting on the web",
-      "https://joelgustafson.com/posts/2022-05-31/syntax-highlighting-on-the-web"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 21:44:20",
-      "https://news.ycombinator.com/item?id=31575329"
-    ],
-    [
-      "You have to follow your instincts in this business",
-      "https://timmb.com/you-have-to-follow-your-instincts-in-this-business/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Building a transformer in Julia",
       "https://liorsinai.github.io/coding/2022/05/18/transformers.html"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 16:06:29",
+      "https://news.ycombinator.com/item?id=31571228"
+    ],
+    [
+      "Linux ID-Mapped Mounts",
+      "https://lwn.net/SubscriberLink/896255/882864aefc82f4cc/"
     ]
   ]
 ]
