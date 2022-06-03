@@ -14,6 +14,7 @@
 * [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2022-06-03, 17:00:44](https://news.ycombinator.com/item?id=31610850) - [Smarking (YC W15) Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-06-03, 15:52:23](https://news.ycombinator.com/item?id=31610005) - [Confess your love with zero-knowledge](https://www.zkcrush.xyz/)
+* [2022-06-03, 15:46:10](https://news.ycombinator.com/item?id=31609896) - [Show HN: Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2022-06-03, 15:44:25](https://news.ycombinator.com/item?id=31609873) - [Executive narcissism affects knowledge transfer among business units](https://onlinelibrary.wiley.com/doi/10.1002/smj.3406)
 * [2022-06-03, 15:25:53](https://news.ycombinator.com/item?id=31609602) - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
 * [2022-06-03, 15:14:38](https://news.ycombinator.com/item?id=31609425) - [Association of Sweetened and Unsweetened Coffee Consumption with Mortality](https://www.acpjournals.org/doi/10.7326/M21-2977)
