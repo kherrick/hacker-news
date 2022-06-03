@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 21:30:12](https://news.ycombinator.com/item?id=31613893) - [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 * [2022-06-03, 21:03:07](https://news.ycombinator.com/item?id=31613579) - [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
 * [2022-06-03, 21:00:48](https://news.ycombinator.com/item?id=31613555) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
@@ -16,6 +17,7 @@
 * [2022-06-03, 18:31:18](https://news.ycombinator.com/item?id=31611985) - [They were riding pigs, not unicorns: panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
 * [2022-06-03, 18:01:55](https://news.ycombinator.com/item?id=31611669) - [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
 * [2022-06-03, 17:45:55](https://news.ycombinator.com/item?id=31611456) - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
+* [2022-06-03, 17:40:23](https://news.ycombinator.com/item?id=31611379) - [GPT-4chan](https://gpt-4chan.com/)
 * [2022-06-03, 17:26:10](https://news.ycombinator.com/item?id=31611179) - [Ask HN: What happens to the global financial system if the USA has a coup?](https://news.ycombinator.com/item?id=31611179)
 * [2022-06-03, 17:07:24](https://news.ycombinator.com/item?id=31610950) - [Tesla’s ‘phantom braking’ problem is getting worse](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
 * [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
