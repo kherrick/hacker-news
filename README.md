@@ -23,11 +23,11 @@
 * [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Show HN: Svelvet – A component library for building interactive flow diagrams](https://svelvet.io/)
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product shouldn’t be left to product managers](https://candost.blog/mektup/mektup-32/)
+* [2022-06-02, 13:49:43](https://news.ycombinator.com/item?id=31594873) - [Folia is a minimalistic authoring tool for narrative games](https://axile.itch.io/folia)
 * [2022-06-02, 13:24:10](https://news.ycombinator.com/item?id=31594551) - [Coffee drinking linked to lower mortality risk, new study finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
 * [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial diary: A journalist sits on a Baltimore jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
-* [2022-05-31, 20:57:27](https://news.ycombinator.com/item?id=31574858) - [Who owns Parliament?](https://whoownsengland.org/2016/09/06/who-owns-parliament/)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 * [2022-05-31, 08:02:02](https://news.ycombinator.com/item?id=31567115) - [A man who built his own cathedral](https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain)
 
