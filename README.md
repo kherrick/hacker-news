@@ -4,6 +4,7 @@
 * [2022-06-03, 18:58:36](https://news.ycombinator.com/item?id=31612270) - [Derek Sivers' Book Notes](https://sive.rs/book)
 * [2022-06-03, 18:31:18](https://news.ycombinator.com/item?id=31611985) - [Panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
 * [2022-06-03, 18:01:55](https://news.ycombinator.com/item?id=31611669) - [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
+* [2022-06-03, 17:45:55](https://news.ycombinator.com/item?id=31611456) - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
 * [2022-06-03, 17:07:24](https://news.ycombinator.com/item?id=31610950) - [Tesla’s ‘phantom braking’ problem is getting worse](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
 * [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2022-06-03, 17:00:44](https://news.ycombinator.com/item?id=31610850) - [Smarking (YC W15) Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
@@ -12,6 +13,7 @@
 * [2022-06-03, 15:25:53](https://news.ycombinator.com/item?id=31609602) - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
 * [2022-06-03, 15:00:03](https://news.ycombinator.com/item?id=31609217) - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
+* [2022-06-03, 14:22:36](https://news.ycombinator.com/item?id=31608684) - [Don't send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-Signal Proteins Evolved Before Animals Did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 12:48:38](https://news.ycombinator.com/item?id=31607496) - [On the security of plugins](https://blog.standardnotes.com/33536/on-the-security-of-plugins)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
@@ -19,7 +21,6 @@
 * [2022-06-03, 07:37:19](https://news.ycombinator.com/item?id=31605345) - [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
 * [2022-06-03, 07:06:31](https://news.ycombinator.com/item?id=31605131) - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 * [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
-* [2022-06-03, 06:00:10](https://news.ycombinator.com/item?id=31604772) - [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
 * [2022-06-03, 03:17:17](https://news.ycombinator.com/item?id=31603850) - [What a gas stove ban means for restaurants](https://www.latimes.com/food/story/2022-06-02/gas-stove-ban-chinese-korean-bbq-electric-new-buildings-restaurants-future)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
@@ -29,7 +30,6 @@
 * [2022-06-01, 10:49:38](https://news.ycombinator.com/item?id=31580121) - [New type of 3D printing uses sound waves to build up objects](https://newatlas.com/3d-printing/direct-sound-3d-printing/)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 has arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
 * [2022-05-30, 14:25:07](https://news.ycombinator.com/item?id=31559294) - [I Write Letters to CEOs (2018)](https://www.johnwdefeo.com/articles/why-i-write-letters-to-ceos)
-* [2022-05-30, 04:32:35](https://news.ycombinator.com/item?id=31555505) - [Rethink-app: DNS over HTTPS, firewall, and connection tracker for Android](https://github.com/celzero/rethink-app)
 
 ## [Archives](archives/index.md)
 
