@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-03, 21:30:12](https://news.ycombinator.com/item?id=31613893) - [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)
+* [2022-06-03, 21:45:09](https://news.ycombinator.com/item?id=31614060) - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 * [2022-06-03, 21:00:48](https://news.ycombinator.com/item?id=31613555) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-03, 19:38:14](https://news.ycombinator.com/item?id=31612698) - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
