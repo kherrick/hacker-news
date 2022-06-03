@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-06-02, 20:24:38",
+      "https://news.ycombinator.com/item?id=31600067"
+    ],
+    [
+      "On Java/JVM: Loom and Thread Fairness",
+      "https://www.morling.dev/blog/loom-and-thread-fairness/"
+    ]
+  ],
+  [
+    [
       "2022-06-02, 20:15:42",
       "https://news.ycombinator.com/item?id=31599981"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2022-06-02, 17:50:15",
-      "https://news.ycombinator.com/item?id=31598217"
+      "2022-06-02, 14:50:09",
+      "https://news.ycombinator.com/item?id=31595583"
     ],
     [
-      "Science Is Getting Harder",
-      "https://mattsclancy.substack.com/p/science-is-getting-harder"
+      "Game Boy Camera Canon EF Lens Mount (2018)",
+      "http://ekeler.com/game-boy-camera-canon-ef-mount"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM",
       "https://blog.regehr.org/archives/2148"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 16:43:36",
-      "https://news.ycombinator.com/item?id=31571704"
-    ],
-    [
-      "Building a transformer in Julia",
-      "https://liorsinai.github.io/coding/2022/05/18/transformers.html"
     ]
   ],
   [
