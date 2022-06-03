@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 14:22:36](https://news.ycombinator.com/item?id=31608684) - [Honestly? Don't Send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
+* [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-Signal Proteins Evolved Before Animals Did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
+* [2022-06-03, 13:28:42](https://news.ycombinator.com/item?id=31607942) - [Indoor air filtration could lead to increased airborne endotoxin levels](https://www.sciencedirect.com/science/article/pii/S016041202031833X)
 * [2022-06-03, 13:28:37](https://news.ycombinator.com/item?id=31607941) - [Twitter Blocks Linking to Mastodon.social](https://imgur.com/a/Ku19dVi)
 * [2022-06-03, 12:48:38](https://news.ycombinator.com/item?id=31607496) - [On the security of plugins](https://blog.standardnotes.com/33536/on-the-security-of-plugins)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
