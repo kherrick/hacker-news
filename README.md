@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 10:01:29](https://news.ycombinator.com/item?id=31606334) - [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
 * [2022-06-03, 09:20:10](https://news.ycombinator.com/item?id=31606011) - [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
 * [2022-06-03, 09:19:03](https://news.ycombinator.com/item?id=31606003) - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
 * [2022-06-03, 08:20:09](https://news.ycombinator.com/item?id=31605645) - [Deprecation of OpenGL and OpenCL (2018)](https://developer.apple.com/macos/whats-new/)
@@ -20,7 +21,6 @@
 * [2022-06-02, 21:17:01](https://news.ycombinator.com/item?id=31600612) - [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
 * [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [Tell HN: I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
-* [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 13:49:43](https://news.ycombinator.com/item?id=31594873) - [Folia is a minimalistic authoring tool for narrative games](https://axile.itch.io/folia)
 * [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial diary: A journalist sits on a Baltimore jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
