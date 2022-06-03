@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 07:06:31](https://news.ycombinator.com/item?id=31605131) - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 * [2022-06-03, 07:01:11](https://news.ycombinator.com/item?id=31605104) - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
 * [2022-06-03, 06:50:28](https://news.ycombinator.com/item?id=31605056) - [Italy Is Held Back by 2.6M People Who Have Given Up on Work](https://www.bloomberg.com/news/articles/2022-06-03/italy-is-held-back-by-2-6-million-people-who-ve-given-up-on-work)
 * [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
