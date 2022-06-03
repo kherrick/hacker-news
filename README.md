@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 09:19:03](https://news.ycombinator.com/item?id=31606003) - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
 * [2022-06-03, 09:11:06](https://news.ycombinator.com/item?id=31605939) - [Senate Bill S6486D Establishes a moratorium on cryptocurrency mining](https://www.nysenate.gov/legislation/bills/2021/S6486)
 * [2022-06-03, 08:20:09](https://news.ycombinator.com/item?id=31605645) - [Deprecation of OpenGL and OpenCL (2018)](https://developer.apple.com/macos/whats-new/)
 * [2022-06-03, 07:37:19](https://news.ycombinator.com/item?id=31605345) - [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
@@ -19,7 +20,6 @@
 * [2022-06-02, 21:39:39](https://news.ycombinator.com/item?id=31600848) - [Microsoft Purview: Additional classifiers for Communication Compliance (preview)](https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/)
 * [2022-06-02, 21:37:10](https://news.ycombinator.com/item?id=31600817) - [Record labels dig their own grave, and the shovel is called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
 * [2022-06-02, 21:17:01](https://news.ycombinator.com/item?id=31600612) - [Drawing on a plasma display with a laser pointer](https://www.youtube.com/watch?v=Oj4tRnLKN6U)
-* [2022-06-02, 21:06:06](https://news.ycombinator.com/item?id=31600505) - [Update on Hiring Plans](https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989)
 * [2022-06-02, 20:15:42](https://news.ycombinator.com/item?id=31599981) - [Commercial-Emacs](https://github.com/commercial-emacs/commercial-emacs)
 * [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [Tell HN: I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
