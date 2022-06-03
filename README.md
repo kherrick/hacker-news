@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 20:06:13](https://news.ycombinator.com/item?id=31613004) - [Scott Alexander's correction on ivermectin and its meaning for the rationalists](https://doyourownresearch.substack.com/p/scott-alexander-corrects-error-ivermectin)
 * [2022-06-03, 19:38:14](https://news.ycombinator.com/item?id=31612698) - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
 * [2022-06-03, 19:00:09](https://news.ycombinator.com/item?id=31612289) - [When it comes to privacy, default settings matter (2019)](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
 * [2022-06-03, 18:58:36](https://news.ycombinator.com/item?id=31612270) - [Books I’ve read](https://sive.rs/book)
 * [2022-06-03, 18:33:08](https://news.ycombinator.com/item?id=31612007) - [Collaborative worldbuilding app with maps, wikis, and whiteboards](https://www.legendkeeper.com)
-* [2022-06-03, 18:31:18](https://news.ycombinator.com/item?id=31611985) - [Panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
 * [2022-06-03, 17:45:55](https://news.ycombinator.com/item?id=31611456) - [Async Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
 * [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2022-06-03, 17:00:44](https://news.ycombinator.com/item?id=31610850) - [Smarking (YC W15) Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
