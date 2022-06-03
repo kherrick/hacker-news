@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 07:30:39](https://news.ycombinator.com/item?id=31605302) - [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
+* [2022-06-03, 07:26:18](https://news.ycombinator.com/item?id=31605275) - [How many man years are wasted with western naming convensions?](https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/)
 * [2022-06-03, 07:06:31](https://news.ycombinator.com/item?id=31605131) - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 * [2022-06-03, 07:01:11](https://news.ycombinator.com/item?id=31605104) - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
-* [2022-06-03, 06:50:28](https://news.ycombinator.com/item?id=31605056) - [Italy Is Held Back by 2.6M People Who Have Given Up on Work](https://www.bloomberg.com/news/articles/2022-06-03/italy-is-held-back-by-2-6-million-people-who-ve-given-up-on-work)
 * [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
 * [2022-06-03, 06:00:10](https://news.ycombinator.com/item?id=31604772) - [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
@@ -27,7 +28,6 @@
 * [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial diary: A journalist sits on a Baltimore jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-02, 08:48:47](https://news.ycombinator.com/item?id=31592769) - [Some thoughts on machine learning with small data](https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/)
-* [2022-06-01, 18:01:27](https://news.ycombinator.com/item?id=31585645) - [Philosopher of the Apocalypse](https://aeon.co/essays/gunther-anders-a-forgotten-prophet-for-the-21st-century)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 * [2022-05-31, 08:02:02](https://news.ycombinator.com/item?id=31567115) - [A man who built his own cathedral](https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain)
 
