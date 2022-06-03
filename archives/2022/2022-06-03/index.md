@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
 * [2022-06-03, 06:00:10](https://news.ycombinator.com/item?id=31604772) - [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Hammerhead and Shimano Di2](https://support.hammerhead.io/hc/en-us/articles/360051706614-Hammerhead-Shimano-Di2)

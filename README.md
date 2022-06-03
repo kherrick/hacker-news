@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
 * [2022-06-03, 06:00:10](https://news.ycombinator.com/item?id=31604772) - [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
 * [2022-06-03, 03:17:17](https://news.ycombinator.com/item?id=31603850) - [Ban on Gas Stoves is the end of Korean BBQ in L.A](https://www.latimes.com/food/story/2022-06-02/gas-stove-ban-chinese-korean-bbq-electric-new-buildings-restaurants-future)
@@ -27,7 +28,6 @@
 * [2022-06-02, 13:49:43](https://news.ycombinator.com/item?id=31594873) - [Folia is a minimalistic authoring tool for narrative games](https://axile.itch.io/folia)
 * [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial diary: A journalist sits on a Baltimore jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
-* [2022-06-01, 18:01:27](https://news.ycombinator.com/item?id=31585645) - [Philosopher of the Apocalypse](https://aeon.co/essays/gunther-anders-a-forgotten-prophet-for-the-21st-century)
 * [2022-05-31, 16:43:36](https://news.ycombinator.com/item?id=31571704) - [Building a transformer in Julia](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 * [2022-05-31, 08:02:02](https://news.ycombinator.com/item?id=31567115) - [A man who built his own cathedral](https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain)
 
