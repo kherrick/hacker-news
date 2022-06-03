@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-03, 07:37:19",
+      "https://news.ycombinator.com/item?id=31605345"
+    ],
+    [
+      "Classified specs leaked on War Thunder forum for third time",
+      "https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/"
+    ]
+  ],
+  [
+    [
       "2022-06-03, 07:30:39",
       "https://news.ycombinator.com/item?id=31605302"
     ],
@@ -17,6 +27,26 @@
     [
       "How many man years are wasted with western naming convensions?",
       "https://games.greggman.com/game/2022-06-02-western-naming-convensions-wasting-time_md/"
+    ]
+  ],
+  [
+    [
+      "2022-06-03, 07:23:13",
+      "https://news.ycombinator.com/item?id=31605261"
+    ],
+    [
+      "Running a Minecraft server on OpenBSD -current",
+      "https://dataswamp.org/~rjc/running_minecraft_server_on_openbsd.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-03, 07:20:33",
+      "https://news.ycombinator.com/item?id=31605243"
+    ],
+    [
+      "Python library tracks energy consumption and calculates your carbon emissions",
+      "https://github.com/fvaleye/tracarbon"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-06-03, 01:29:57",
-      "https://news.ycombinator.com/item?id=31603119"
-    ],
-    [
-      "Is big tech’s red-hot jobs market about to cool?",
-      "https://www.economist.com/business/2022/06/02/is-big-techs-red-hot-jobs-market-about-to-cool"
-    ]
-  ],
-  [
-    [
       "2022-06-03, 00:20:12",
       "https://news.ycombinator.com/item?id=31602417"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-06-02, 20:24:38",
-      "https://news.ycombinator.com/item?id=31600067"
-    ],
-    [
-      "On Java/JVM: Loom and Thread Fairness",
-      "https://www.morling.dev/blog/loom-and-thread-fairness/"
-    ]
-  ],
-  [
-    [
       "2022-06-02, 20:15:42",
       "https://news.ycombinator.com/item?id=31599981"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2022-06-02, 15:15:09",
-      "https://news.ycombinator.com/item?id=31595899"
-    ],
-    [
-      "Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010)",
-      "https://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/"
-    ]
-  ],
-  [
-    [
-      "2022-06-02, 14:50:09",
-      "https://news.ycombinator.com/item?id=31595583"
-    ],
-    [
-      "Game Boy Camera Canon EF Lens Mount (2018)",
-      "http://ekeler.com/game-boy-camera-canon-ef-mount"
-    ]
-  ],
-  [
-    [
       "2022-06-02, 13:49:43",
       "https://news.ycombinator.com/item?id=31594873"
     ],
@@ -277,6 +267,16 @@
     [
       "Some thoughts on machine learning with small data",
       "https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/"
+    ]
+  ],
+  [
+    [
+      "2022-06-01, 09:21:10",
+      "https://news.ycombinator.com/item?id=31579690"
+    ],
+    [
+      "High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM",
+      "https://blog.regehr.org/archives/2148"
     ]
   ],
   [
