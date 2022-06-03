@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 07:01:11](https://news.ycombinator.com/item?id=31605104) - [Terra (YC W21) Is Hiring for a Founder Associate in London](https://www.ycombinator.com/companies/terra/jobs/NGbGJeN-founder-associate)
+* [2022-06-03, 06:50:28](https://news.ycombinator.com/item?id=31605056) - [Italy Is Held Back by 2.6M People Who Have Given Up on Work](https://www.bloomberg.com/news/articles/2022-06-03/italy-is-held-back-by-2-6-million-people-who-ve-given-up-on-work)
 * [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
 * [2022-06-03, 06:00:10](https://news.ycombinator.com/item?id=31604772) - [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
 * [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
