@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+* [2022-06-03, 17:00:44](https://news.ycombinator.com/item?id=31610850) - [Smarking (YC W15) Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-06-03, 15:52:23](https://news.ycombinator.com/item?id=31610005) - [Confess your love with zero-knowledge](https://www.zkcrush.xyz/)
 * [2022-06-03, 15:44:25](https://news.ycombinator.com/item?id=31609873) - [Executive narcissism affects knowledge transfer among business units](https://onlinelibrary.wiley.com/doi/10.1002/smj.3406)
 * [2022-06-03, 15:25:53](https://news.ycombinator.com/item?id=31609602) - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
@@ -12,7 +14,6 @@
 * [2022-06-03, 13:28:42](https://news.ycombinator.com/item?id=31607942) - [Indoor air filtration could lead to increased airborne endotoxin levels (2020)](https://www.sciencedirect.com/science/article/pii/S016041202031833X)
 * [2022-06-03, 12:48:38](https://news.ycombinator.com/item?id=31607496) - [On the security of plugins](https://blog.standardnotes.com/33536/on-the-security-of-plugins)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
-* [2022-06-03, 12:00:19](https://news.ycombinator.com/item?id=31607127) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-06-03, 10:37:56](https://news.ycombinator.com/item?id=31606573) - [Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
 * [2022-06-03, 09:19:03](https://news.ycombinator.com/item?id=31606003) - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
 * [2022-06-03, 07:37:19](https://news.ycombinator.com/item?id=31605345) - [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
@@ -28,7 +29,6 @@
 * [2022-06-01, 10:49:38](https://news.ycombinator.com/item?id=31580121) - [New type of 3D printing uses sound waves to build up objects](https://newatlas.com/3d-printing/direct-sound-3d-printing/)
 * [2022-06-01, 09:21:10](https://news.ycombinator.com/item?id=31579690) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM](https://blog.regehr.org/archives/2148)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 Has Arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
-* [2022-05-31, 08:02:02](https://news.ycombinator.com/item?id=31567115) - [A man who built his own cathedral](https://www.theguardian.com/world/2022/may/31/the-man-who-built-his-own-cathedral-justo-gallego-mejorada-del-campo-spain)
 * [2022-05-30, 04:32:35](https://news.ycombinator.com/item?id=31555505) - [Rethink-app: DNS over HTTPS, firewall, and connection tracker for Android](https://github.com/celzero/rethink-app)
 
 ## [Archives](archives/index.md)
