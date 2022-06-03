@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 15:25:53](https://news.ycombinator.com/item?id=31609602) - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+* [2022-06-03, 15:14:38](https://news.ycombinator.com/item?id=31609425) - [Association of Sweetened and Unsweetened Coffee Consumption with Mortality](https://www.acpjournals.org/doi/10.7326/M21-2977)
 * [2022-06-03, 15:00:03](https://news.ycombinator.com/item?id=31609217) - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
 * [2022-06-03, 14:57:19](https://news.ycombinator.com/item?id=31609179) - [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
@@ -19,9 +21,7 @@
 * [2022-06-03, 07:30:39](https://news.ycombinator.com/item?id=31605302) - [Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes](https://blog.flant.com/kubernetes-storage-performance-linstor-ceph-mayastor-vitastor/)
 * [2022-06-03, 06:28:58](https://news.ycombinator.com/item?id=31604932) - [VSCodium – Free/Libre Open Source Software Binaries of VS Code](https://vscodium.com/)
 * [2022-06-03, 06:00:10](https://news.ycombinator.com/item?id=31604772) - [Using the mold linker for fun and 3x-8x link time speedups](https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/)
-* [2022-06-03, 04:03:09](https://news.ycombinator.com/item?id=31604152) - [Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo](https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html)
 * [2022-06-03, 02:45:54](https://news.ycombinator.com/item?id=31603653) - [Creating Pixel Art (2010)](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
-* [2022-06-02, 13:00:16](https://news.ycombinator.com/item?id=31594280) - [Side Channels [pdf]](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch19-7sep.pdf)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-02, 08:48:47](https://news.ycombinator.com/item?id=31592769) - [Some thoughts on machine learning with small data](https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/)
 * [2022-06-02, 02:57:46](https://news.ycombinator.com/item?id=31590773) - [Ceiling Air Purifier](https://www.jefftk.com/p/ceiling-air-purifier)

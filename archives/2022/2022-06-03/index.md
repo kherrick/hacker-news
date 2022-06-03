@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 15:25:53](https://news.ycombinator.com/item?id=31609602) - [Dangerous Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+* [2022-06-03, 15:14:38](https://news.ycombinator.com/item?id=31609425) - [Association of Sweetened and Unsweetened Coffee Consumption with Mortality](https://www.acpjournals.org/doi/10.7326/M21-2977)
 * [2022-06-03, 15:00:03](https://news.ycombinator.com/item?id=31609217) - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
 * [2022-06-03, 14:57:19](https://news.ycombinator.com/item?id=31609179) - [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
