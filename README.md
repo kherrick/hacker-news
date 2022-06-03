@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 22:33:20](https://news.ycombinator.com/item?id=31614518) - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
 * [2022-06-03, 21:45:09](https://news.ycombinator.com/item?id=31614060) - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 * [2022-06-03, 21:00:48](https://news.ycombinator.com/item?id=31613555) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
@@ -17,7 +18,6 @@
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-signal proteins evolved before animals did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
-* [2022-06-03, 07:37:19](https://news.ycombinator.com/item?id=31605345) - [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
 * [2022-06-03, 03:17:17](https://news.ycombinator.com/item?id=31603850) - [What a gas stove ban means for restaurants](https://www.latimes.com/food/story/2022-06-02/gas-stove-ban-chinese-korean-bbq-electric-new-buildings-restaurants-future)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
