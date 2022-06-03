@@ -5,8 +5,8 @@
       "https://news.ycombinator.com/item?id=31604152"
     ],
     [
-      "Hammerhead and Shimano Di2",
-      "https://support.hammerhead.io/hc/en-us/articles/360051706614-Hammerhead-Shimano-Di2"
+      "Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo",
+      "https://www.dcrainmaker.com/2022/05/shimano-forces-hammerhead-to-remove-all-di2-related-functionality-from-karoo.html"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31603536"
     ],
     [
-      "Racket for E-Commerce (2019)",
+      "Racket for e-commerce (2019)",
       "https://defn.io/2019/08/20/racket-ecommerce/"
     ]
   ],
@@ -61,42 +61,12 @@
   ],
   [
     [
-      "2022-06-02, 23:27:30",
-      "https://news.ycombinator.com/item?id=31601926"
-    ],
-    [
-      "One Job, One Pay – Globally",
-      "https://graphcdn.io/blog/one-job-one-pay"
-    ]
-  ],
-  [
-    [
-      "2022-06-02, 22:24:53",
-      "https://news.ycombinator.com/item?id=31601309"
-    ],
-    [
-      "Mexico calls for dissolution of the Organization of the Americas",
-      "https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/"
-    ]
-  ],
-  [
-    [
       "2022-06-02, 21:58:16",
       "https://news.ycombinator.com/item?id=31601040"
     ],
     [
       "Rust Is Hard, Or: The Misery of Mainstream Programming",
       "https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-02, 21:54:53",
-      "https://news.ycombinator.com/item?id=31601004"
-    ],
-    [
-      "Ask HN: What does your mother tell people about your work or employment?",
-      "https://news.ycombinator.com/item?id=31601004"
     ]
   ],
   [
@@ -115,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31600817"
     ],
     [
-      "Record Labels Dig Their Own Grave, and the Shovel Is Called TikTok",
+      "Record labels dig their own grave, and the shovel is called TikTok",
       "https://tedgioia.substack.com/p/record-labels-dig-their-own-grave"
     ]
   ],
@@ -147,6 +117,16 @@
     [
       "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
       "https://www.aptible.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 20:24:38",
+      "https://news.ycombinator.com/item?id=31600067"
+    ],
+    [
+      "On Java/JVM: Loom and Thread Fairness",
+      "https://www.morling.dev/blog/loom-and-thread-fairness/"
     ]
   ],
   [
@@ -191,12 +171,12 @@
   ],
   [
     [
-      "2022-06-02, 17:15:08",
-      "https://news.ycombinator.com/item?id=31597719"
+      "2022-06-02, 16:23:49",
+      "https://news.ycombinator.com/item?id=31596888"
     ],
     [
-      "American tech giants are making life tough for startups (2018)",
-      "https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups"
+      "Mozilla releases local machine translation tools as part of Project Bergamot",
+      "https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/"
     ]
   ],
   [
@@ -245,7 +225,7 @@
       "https://news.ycombinator.com/item?id=31595285"
     ],
     [
-      "Product Shouldn’t Be Left to Product Managers",
+      "Product shouldn’t be left to product managers",
       "https://candost.blog/mektup/mektup-32/"
     ]
   ],
@@ -265,7 +245,7 @@
       "https://news.ycombinator.com/item?id=31594156"
     ],
     [
-      "Trial Diary: A Journalist Sits on a Baltimore Jury",
+      "Trial diary: A journalist sits on a Baltimore jury",
       "https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary"
     ]
   ],
@@ -287,6 +267,26 @@
     [
       "Scaling a startup from a bunker: founders' story from Ukraine",
       "https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 20:57:27",
+      "https://news.ycombinator.com/item?id=31574858"
+    ],
+    [
+      "Who owns Parliament?",
+      "https://whoownsengland.org/2016/09/06/who-owns-parliament/"
+    ]
+  ],
+  [
+    [
+      "2022-05-31, 16:43:36",
+      "https://news.ycombinator.com/item?id=31571704"
+    ],
+    [
+      "Building a transformer in Julia",
+      "https://liorsinai.github.io/coding/2022/05/18/transformers.html"
     ]
   ],
   [
