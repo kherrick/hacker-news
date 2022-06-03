@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 19:38:14](https://news.ycombinator.com/item?id=31612698) - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
 * [2022-06-03, 19:00:09](https://news.ycombinator.com/item?id=31612289) - [When it comes to privacy, default settings matter (2019)](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
 * [2022-06-03, 18:58:36](https://news.ycombinator.com/item?id=31612270) - [Derek Sivers' Book Notes](https://sive.rs/book)
+* [2022-06-03, 18:33:08](https://news.ycombinator.com/item?id=31612007) - [Collaborative worldbuilding app with maps, wikis, and whiteboards](https://www.legendkeeper.com)
 * [2022-06-03, 18:31:18](https://news.ycombinator.com/item?id=31611985) - [They were riding pigs, not unicorns: panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
 * [2022-06-03, 18:01:55](https://news.ycombinator.com/item?id=31611669) - [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
 * [2022-06-03, 17:45:55](https://news.ycombinator.com/item?id=31611456) - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
