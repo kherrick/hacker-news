@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 21:03:07](https://news.ycombinator.com/item?id=31613579) - [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
+* [2022-06-03, 21:00:48](https://news.ycombinator.com/item?id=31613555) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-03, 20:06:13](https://news.ycombinator.com/item?id=31613004) - [Scott Alexander's correction on ivermectin and its meaning for the rationalists](https://doyourownresearch.substack.com/p/scott-alexander-corrects-error-ivermectin)
 * [2022-06-03, 19:38:14](https://news.ycombinator.com/item?id=31612698) - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
+* [2022-06-03, 19:10:28](https://news.ycombinator.com/item?id=31612413) - [OVHcloud fire class action reaches 140 clients, seeks more than €10m](https://www.datacenterdynamics.com/en/news/ovhcloud-fire-class-action-reaches-140-clients-seeking-more-than-10m/)
 * [2022-06-03, 19:00:09](https://news.ycombinator.com/item?id=31612289) - [When it comes to privacy, default settings matter (2019)](https://blog.mozilla.org/en/products/firefox/when-it-comes-to-privacy-default-settings-matter/)
 * [2022-06-03, 18:58:36](https://news.ycombinator.com/item?id=31612270) - [Derek Sivers' Book Notes](https://sive.rs/book)
 * [2022-06-03, 18:33:08](https://news.ycombinator.com/item?id=31612007) - [Collaborative worldbuilding app with maps, wikis, and whiteboards](https://www.legendkeeper.com)
