@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
 * [2022-06-03, 13:28:37](https://news.ycombinator.com/item?id=31607941) - [Twitter Blocks Linking to Mastodon.social](https://imgur.com/a/Ku19dVi)
+* [2022-06-03, 12:48:38](https://news.ycombinator.com/item?id=31607496) - [On the security of plugins](https://blog.standardnotes.com/33536/on-the-security-of-plugins)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
 * [2022-06-03, 12:18:08](https://news.ycombinator.com/item?id=31607256) - [Ask HN: Web frameworks – which less popular frameworks are you using and why?](https://news.ycombinator.com/item?id=31607256)
 * [2022-06-03, 12:16:55](https://news.ycombinator.com/item?id=31607248) - [Tesla to Cut 10% of Jobs](https://www.cnbc.com/2022/06/03/feeling-super-bad-about-economy-musk-wants-to-cut-10percent-of-tesla-jobs.html)

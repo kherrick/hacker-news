@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-01](index.md)
 
 * [2022-06-01, 23:19:15](https://news.ycombinator.com/item?id=31589380) - [The Curse of Strong Typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
+* [2022-06-01, 21:29:30](https://news.ycombinator.com/item?id=31588388) - [Semantle: guess words based on Word2vec similarity scores](https://semantle.com/)
 * [2022-06-01, 21:26:18](https://news.ycombinator.com/item?id=31588358) - [AWS for Industry, but Better: The Railroad Investment Case](https://www.thediff.co/p/aws-for-industry-but-better-the-railroad)
 * [2022-06-01, 20:08:28](https://news.ycombinator.com/item?id=31587316) - [No, DALL-E doesn’t have a secret language](https://twitter.com/benjamin_hilton/status/1531780892972175361)
 * [2022-06-01, 19:57:00](https://news.ycombinator.com/item?id=31587163) - [Amazon and the Dystopian Future of Book Censorship](https://sprovoost.nl/2022/06/01/amazon-and-the-dystopian-future-of-book-censorship/)
