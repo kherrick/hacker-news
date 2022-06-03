@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 15:00:03](https://news.ycombinator.com/item?id=31609217) - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
 * [2022-06-03, 14:57:19](https://news.ycombinator.com/item?id=31609179) - [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
 * [2022-06-03, 14:22:36](https://news.ycombinator.com/item?id=31608684) - [Honestly? Don't Send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
+* [2022-06-03, 14:01:01](https://news.ycombinator.com/item?id=31608397) - [Ask HN: How do you stay focused at work?](https://news.ycombinator.com/item?id=31608397)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-Signal Proteins Evolved Before Animals Did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 13:28:42](https://news.ycombinator.com/item?id=31607942) - [Indoor air filtration could lead to increased airborne endotoxin levels](https://www.sciencedirect.com/science/article/pii/S016041202031833X)
 * [2022-06-03, 13:28:37](https://news.ycombinator.com/item?id=31607941) - [Twitter Blocks Linking to Mastodon.social](https://imgur.com/a/Ku19dVi)
