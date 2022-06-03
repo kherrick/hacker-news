@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 17:07:24](https://news.ycombinator.com/item?id=31610950) - [Tesla’s ‘phantom braking’ problem is getting worse](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
 * [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2022-06-03, 17:00:44](https://news.ycombinator.com/item?id=31610850) - [Smarking (YC W15) Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-06-03, 15:52:23](https://news.ycombinator.com/item?id=31610005) - [Confess your love with zero-knowledge](https://www.zkcrush.xyz/)

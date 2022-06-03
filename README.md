@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 17:07:24](https://news.ycombinator.com/item?id=31610950) - [Tesla’s ‘phantom braking’ problem is getting worse](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
 * [2022-06-03, 17:01:17](https://news.ycombinator.com/item?id=31610858) - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2022-06-03, 17:00:44](https://news.ycombinator.com/item?id=31610850) - [Smarking (YC W15) Is Hiring Senior ML/Data Eng to Scale Dynamic Pricing for Parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-06-03, 15:52:23](https://news.ycombinator.com/item?id=31610005) - [Confess your love with zero-knowledge](https://www.zkcrush.xyz/)
@@ -9,7 +10,6 @@
 * [2022-06-03, 15:00:03](https://news.ycombinator.com/item?id=31609217) - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
 * [2022-06-03, 14:57:19](https://news.ycombinator.com/item?id=31609179) - [Google settles lawsuit with Illinois residents for $100M over photo app concerns](https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/)
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
-* [2022-06-03, 14:22:36](https://news.ycombinator.com/item?id=31608684) - [Don't send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-Signal Proteins Evolved Before Animals Did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 12:48:38](https://news.ycombinator.com/item?id=31607496) - [On the security of plugins](https://blog.standardnotes.com/33536/on-the-security-of-plugins)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
