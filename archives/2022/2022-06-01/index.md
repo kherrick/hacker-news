@@ -34,6 +34,7 @@
 * [2022-06-01, 15:57:02](https://news.ycombinator.com/item?id=31583789) - [Scaling a startup from a bunker: founders' story from Ukraine](https://www.awesomic.io/blog/scaling-a-startup-founders-story?ref=hackernews)
 * [2022-06-01, 15:54:13](https://news.ycombinator.com/item?id=31583737) - [When the US Military Launched 500M Needles into Space](https://www.wearethemighty.com/mighty-history/us-military-launched-needles-space/)
 * [2022-06-01, 15:54:13](https://news.ycombinator.com/item?id=31583737) - [The US military launched 500M needles into space (2019)](https://www.todayifoundout.com/index.php/2019/10/that-time-the-u-s-military-launched-a-half-a-billion-needles-to-space-for-reasons/)
+* [2022-06-01, 15:47:09](https://news.ycombinator.com/item?id=31583603) - [Syntax highlighting on the web](https://joelgustafson.com/posts/2022-05-31/syntax-highlighting-on-the-web)
 * [2022-06-01, 15:19:15](https://news.ycombinator.com/item?id=31583124) - [New Computer Language Benchmarks Game metric: time + source code size](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
 * [2022-06-01, 15:08:15](https://news.ycombinator.com/item?id=31582926) - [Amundi warns that parts of private equity market resemble ‘Ponzi schemes’](https://www.ft.com/content/21c6e2e4-6c52-4d13-b3a2-5455d51d9970)
 * [2022-06-01, 15:01:51](https://news.ycombinator.com/item?id=31582796) - [Ask HN: Who is hiring? (June 2022)](https://news.ycombinator.com/item?id=31582796)
