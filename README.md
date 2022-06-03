@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
+* [2022-06-03, 12:18:08](https://news.ycombinator.com/item?id=31607256) - [Ask HN: Web frameworks – which less popular frameworks are you using and why?](https://news.ycombinator.com/item?id=31607256)
 * [2022-06-03, 12:16:55](https://news.ycombinator.com/item?id=31607248) - [Tesla to Cut 10% of Jobs](https://www.cnbc.com/2022/06/03/feeling-super-bad-about-economy-musk-wants-to-cut-10percent-of-tesla-jobs.html)
 * [2022-06-03, 12:00:19](https://news.ycombinator.com/item?id=31607127) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-06-03, 10:37:56](https://news.ycombinator.com/item?id=31606573) - [Netlify: Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
@@ -19,9 +20,8 @@
 * [2022-06-03, 00:20:12](https://news.ycombinator.com/item?id=31602417) - [Ford CEO says EVs will be sold 100% online with nonnegotiable price](https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1)
 * [2022-06-03, 00:04:33](https://news.ycombinator.com/item?id=31602288) - [Zero-Day Exploitation of Atlassian Confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
 * [2022-06-02, 21:58:16](https://news.ycombinator.com/item?id=31601040) - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
-* [2022-06-02, 21:37:10](https://news.ycombinator.com/item?id=31600817) - [Record labels dig their own grave, and the shovel is called TikTok](https://tedgioia.substack.com/p/record-labels-dig-their-own-grave)
-* [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [Tell HN: I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
 * [2022-06-02, 13:49:43](https://news.ycombinator.com/item?id=31594873) - [Folia is a minimalistic authoring tool for narrative games](https://axile.itch.io/folia)
+* [2022-06-02, 13:00:16](https://news.ycombinator.com/item?id=31594280) - [Side Channels [pdf]](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch19-7sep.pdf)
 * [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial diary: A journalist sits on a Baltimore jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-02, 08:48:47](https://news.ycombinator.com/item?id=31592769) - [Some thoughts on machine learning with small data](https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/)
