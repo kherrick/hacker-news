@@ -2,7 +2,8 @@
 
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)
 * [2022-06-04, 02:43:13](https://news.ycombinator.com/item?id=31616448) - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
-* [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’](https://www.nature.com/articles/d41586-019-02638-w)
+* [2022-06-04, 02:42:31](https://news.ycombinator.com/item?id=31616444) - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
+* [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
 * [2022-06-04, 00:22:17](https://news.ycombinator.com/item?id=31615517) - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 * [2022-06-03, 23:51:14](https://news.ycombinator.com/item?id=31615278) - [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
 * [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
@@ -27,7 +28,6 @@
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal methods only solve half my problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2022-06-02, 13:08:21](https://news.ycombinator.com/item?id=31594368) - [A Simple but Deep Theory About Drugs and Postmodernity](https://deepsocks.substack.com/p/a-simple-but-deep-theory-about-drugs)
 * [2022-06-01, 20:54:19](https://news.ycombinator.com/item?id=31587950) - [Why are maps so hard to make?](https://www.readmargins.com/p/say-hello-to-felt)
-* [2022-06-01, 10:49:38](https://news.ycombinator.com/item?id=31580121) - [New type of 3D printing uses sound waves to build up objects](https://newatlas.com/3d-printing/direct-sound-3d-printing/)
 * [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 has arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
 
