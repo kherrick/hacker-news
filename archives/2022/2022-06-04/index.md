@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 17:00:44](https://news.ycombinator.com/item?id=31622706) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+* [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
@@ -33,6 +35,7 @@
 * [2022-06-04, 06:28:03](https://news.ycombinator.com/item?id=31617600) - [Rr](https://rr-project.org/)
 * [2022-06-04, 05:28:50](https://news.ycombinator.com/item?id=31617282) - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 * [2022-06-04, 05:09:34](https://news.ycombinator.com/item?id=31617198) - [Linux Laptop – HP Dev One Is Available](https://hpdevone.com/#specs)
+* [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)
 * [2022-06-04, 02:43:13](https://news.ycombinator.com/item?id=31616448) - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
 * [2022-06-04, 02:42:31](https://news.ycombinator.com/item?id=31616444) - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
