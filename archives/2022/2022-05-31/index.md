@@ -76,6 +76,7 @@
 * [2022-05-31, 09:56:39](https://news.ycombinator.com/item?id=31567702) - [Git Fork: A fast and friendly Git client for Windows and Mac](https://git-fork.com/)
 * [2022-05-31, 09:52:22](https://news.ycombinator.com/item?id=31567673) - [So I Took a Corporation to Arbitration](https://www.shuchow.com/so-i-took-a-huge-corporation-to-arbitration/)
 * [2022-05-31, 09:36:16](https://news.ycombinator.com/item?id=31567567) - [Ask HN: Will creative people have jobs in 10 years?](https://news.ycombinator.com/item?id=31567567)
+* [2022-05-31, 09:24:53](https://news.ycombinator.com/item?id=31567513) - [Starting over When You Think It’s Too Late](https://www.theatlantic.com/podcasts/archive/2022/05/midlife-crisis-job-change-happiness/639432/)
 * [2022-05-31, 09:21:44](https://news.ycombinator.com/item?id=31567491) - [A 3,400-year-old city emerges from the Tigris River](https://phys.org/news/2022-05-year-old-city-emerges-tigris-river.html)
 * [2022-05-31, 09:06:56](https://news.ycombinator.com/item?id=31567417) - [After Xinjiang Revelations, Germany's Ties to China Are Under the Microscope](https://www.spiegel.de/ausland/xinjiang-police-files-deutschland-furchtbarer-partner-a-70e96cd6-f7ed-47aa-9b71-31fca6abfda8)
 * [2022-05-31, 08:51:19](https://news.ycombinator.com/item?id=31567345) - [Ask HN: Is there an “uncanny valley” effect with startup MVPs](https://news.ycombinator.com/item?id=31567345)
