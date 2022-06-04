@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
 * [2022-06-04, 14:03:29](https://news.ycombinator.com/item?id=31620437) - [EPA raises amount of ethanol that must be blended with gas](https://apnews.com/article/covid-health-climate-and-environment-741866342fa94e30370cb6f4b2671e60)
 * [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [Economics of Stadium Names: Sell (most) companies that buy them](https://axiomalpha.com/the-economics-of-stadium-names/)
 * [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
@@ -21,9 +22,8 @@
 * [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
 * [2022-06-04, 00:22:17](https://news.ycombinator.com/item?id=31615517) - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 * [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
-* [2022-06-03, 23:26:22](https://news.ycombinator.com/item?id=31615070) - [I don't care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
+* [2022-06-03, 22:26:12](https://news.ycombinator.com/item?id=31614444) - [Show HN: ModelRunner – open source, speech-enabled data management platform](https://modelrunner.org/)
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
-* [2022-06-02, 23:40:30](https://news.ycombinator.com/item?id=31602054) - [Shakespeare’s Latin and Greek](https://antigonejournal.com/2022/05/shakespeare-greek-latin/)
 * [2022-06-02, 22:58:41](https://news.ycombinator.com/item?id=31601638) - [How I would start my next startup in Germany without a GmbH (2020)](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 * [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
 * [2022-06-02, 19:39:38](https://news.ycombinator.com/item?id=31599592) - [Comparing Exceptions and Errors in D](https://www.schveiguy.com/blog/2022/05/comparing-exceptions-and-errors-in-d/)

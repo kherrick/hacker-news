@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
 * [2022-06-04, 14:03:29](https://news.ycombinator.com/item?id=31620437) - [EPA raises amount of ethanol that must be blended with gas](https://apnews.com/article/covid-health-climate-and-environment-741866342fa94e30370cb6f4b2671e60)
 * [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [Economics of Stadium Names: Sell (most) companies that buy them](https://axiomalpha.com/the-economics-of-stadium-names/)
 * [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
