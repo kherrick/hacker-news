@@ -21,7 +21,6 @@
 * [2022-06-03, 19:38:14](https://news.ycombinator.com/item?id=31612698) - [The last Howard Johnson's restaurant closes in Lake George, N.Y.](https://www.washingtonpost.com/travel/2022/06/02/last-howard-johnson-restaurant-closes/)
 * [2022-06-03, 17:41:01](https://news.ycombinator.com/item?id=31611389) - [“I think the vast majority of developers still debug using print() statements”](https://twitter.com/paulg/status/1532448988766650385)
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
-* [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
 * [2022-06-03, 04:28:15](https://news.ycombinator.com/item?id=31604299) - [Software Automatic Mouth – Tiny Speech Synthesizer](https://github.com/s-macke/SAM)
 * [2022-06-02, 23:40:30](https://news.ycombinator.com/item?id=31602054) - [Shakespeare’s Latin and Greek](https://antigonejournal.com/2022/05/shakespeare-greek-latin/)
 * [2022-06-02, 16:31:03](https://news.ycombinator.com/item?id=31597009) - [Goya: Bearing True Witness](https://the-easel.com/essays/goya-bearing-true-witness/)
@@ -30,6 +29,7 @@
 * [2022-06-02, 10:20:25](https://news.ycombinator.com/item?id=31593248) - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 * [2022-06-01, 16:49:37](https://news.ycombinator.com/item?id=31584611) - [Printmaking as Play](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/)
 * [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
+* [2022-06-01, 07:46:19](https://news.ycombinator.com/item?id=31579219) - [Photographic Programming](http://lightpattern.info/)
 
 ## [Archives](archives/index.md)
 
