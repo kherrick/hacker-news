@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 06:28:03](https://news.ycombinator.com/item?id=31617600) - [Rr](https://rr-project.org/)
 * [2022-06-04, 05:28:50](https://news.ycombinator.com/item?id=31617282) - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)
 * [2022-06-04, 02:43:13](https://news.ycombinator.com/item?id=31616448) - [Common counterfeit foods and how to identify them (2014)](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
 * [2022-06-04, 02:42:31](https://news.ycombinator.com/item?id=31616444) - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
 * [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
 * [2022-06-04, 00:22:17](https://news.ycombinator.com/item?id=31615517) - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
-* [2022-06-03, 23:51:14](https://news.ycombinator.com/item?id=31615278) - [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
 * [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
 * [2022-06-03, 23:26:22](https://news.ycombinator.com/item?id=31615070) - [I don't care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
 * [2022-06-03, 22:50:11](https://news.ycombinator.com/item?id=31614694) - [Continuous glucose monitoring on the Apple Watch](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
