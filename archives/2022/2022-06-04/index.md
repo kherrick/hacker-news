@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 05:09:34](https://news.ycombinator.com/item?id=31617198) - [Linux Laptop – HP Dev One Is Available](https://hpdevone.com/#specs)
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)
 * [2022-06-04, 02:43:13](https://news.ycombinator.com/item?id=31616448) - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
 * [2022-06-04, 02:42:31](https://news.ycombinator.com/item?id=31616444) - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
