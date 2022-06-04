@@ -59,6 +59,7 @@
 * [2022-06-02, 14:50:09](https://news.ycombinator.com/item?id=31595583) - [Game Boy Camera Canon EF Lens Mount (2018)](http://ekeler.com/game-boy-camera-canon-ef-mount)
 * [2022-06-02, 14:37:28](https://news.ycombinator.com/item?id=31595437) - [Ask HN: Advice for a Generalist Going Solo?](https://news.ycombinator.com/item?id=31595437)
 * [2022-06-02, 14:34:43](https://news.ycombinator.com/item?id=31595400) - [Toyota’s prototype 'cartridge' is a way to make hydrogen portable](https://www.engadget.com/toyotas-prototype-cartridge-is-a-way-to-make-hydrogen-portable-120024714.html)
+* [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions You Can Ask About Equity Compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
 * [2022-06-02, 14:18:55](https://news.ycombinator.com/item?id=31595211) - [Y Combinator for Mittelstands?](https://neilthanedar.com/yc-for-mittelstands/)
 * [2022-06-02, 14:16:21](https://news.ycombinator.com/item?id=31595183) - [Failing in the Trough](https://seths.blog/2022/06/failing-in-the-trough/)

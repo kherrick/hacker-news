@@ -10,7 +10,6 @@
 * [2022-06-04, 16:15:48](https://news.ycombinator.com/item?id=31622128) - [Brave’s Use of Direct Mailers](https://brave.com/usps-mailers/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
-* [2022-06-04, 14:55:04](https://news.ycombinator.com/item?id=31621013) - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
 * [2022-06-04, 14:33:24](https://news.ycombinator.com/item?id=31620777) - [Inkscape 1.2](https://inkscape.org/news/2022/05/16/inkscape-12/)
 * [2022-06-04, 14:32:44](https://news.ycombinator.com/item?id=31620765) - [Coinbase is rescinding already-accepted job offers](https://www.sfgate.com/bayarea/article/Coinbase-rescinds-accepted-job-offers-17217989.php)
 * [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
@@ -28,6 +27,7 @@
 * [2022-06-04, 02:27:41](https://news.ycombinator.com/item?id=31616340) - [A Privately Funded Killer Asteroid Spotter](https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/)
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
 * [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
+* [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions You Can Ask About Equity Compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 * [2022-06-02, 14:16:21](https://news.ycombinator.com/item?id=31595183) - [Failing in the Trough](https://seths.blog/2022/06/failing-in-the-trough/)
 * [2022-05-31, 09:24:53](https://news.ycombinator.com/item?id=31567513) - [Starting over When You Think It’s Too Late](https://www.theatlantic.com/podcasts/archive/2022/05/midlife-crisis-job-change-happiness/639432/)
 
