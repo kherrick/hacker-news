@@ -61,6 +61,7 @@
 * [2022-06-02, 14:34:43](https://news.ycombinator.com/item?id=31595400) - [Toyota’s prototype 'cartridge' is a way to make hydrogen portable](https://www.engadget.com/toyotas-prototype-cartridge-is-a-way-to-make-hydrogen-portable-120024714.html)
 * [2022-06-02, 14:24:14](https://news.ycombinator.com/item?id=31595285) - [Product Shouldn’t Be Left to Product Managers](https://candost.blog/mektup/mektup-32/)
 * [2022-06-02, 14:18:55](https://news.ycombinator.com/item?id=31595211) - [Y Combinator for Mittelstands?](https://neilthanedar.com/yc-for-mittelstands/)
+* [2022-06-02, 14:16:21](https://news.ycombinator.com/item?id=31595183) - [Failing in the Trough](https://seths.blog/2022/06/failing-in-the-trough/)
 * [2022-06-02, 13:59:43](https://news.ycombinator.com/item?id=31594973) - [Co-Creator of MIDI Died](https://musictech.com/news/industry/dave-smith-sequential-dies-at-72-prophet-5/)
 * [2022-06-02, 13:49:43](https://news.ycombinator.com/item?id=31594873) - [Folia is a minimalistic authoring tool for narrative games](https://axile.itch.io/folia)
 * [2022-06-02, 13:38:19](https://news.ycombinator.com/item?id=31594707) - [Cryptocurrencies are worse for the climate than you think](https://rollen.io/blog/crypto-climate/)

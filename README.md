@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
-* [2022-06-04, 14:03:29](https://news.ycombinator.com/item?id=31620437) - [EPA raises amount of ethanol that must be blended with gas](https://apnews.com/article/covid-health-climate-and-environment-741866342fa94e30370cb6f4b2671e60)
-* [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [Economics of Stadium Names: Sell (most) companies that buy them](https://axiomalpha.com/the-economics-of-stadium-names/)
+* [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [The economics of stadium names](https://axiomalpha.com/the-economics-of-stadium-names/)
 * [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
-* [2022-06-04, 13:17:58](https://news.ycombinator.com/item?id=31619960) - [Ubuntu 22.10 Replaces Gedit with New Text Editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
+* [2022-06-04, 13:17:58](https://news.ycombinator.com/item?id=31619960) - [Ubuntu 22.10 replaces Gedit with new text editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
 * [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
 * [2022-06-04, 12:24:22](https://news.ycombinator.com/item?id=31619504) - [Lidl’s parent company launches cloud unit to offer ‘Made in Germany’ AWS rival](https://www.datacenterdynamics.com/en/news/lidls-parent-company-launches-cloud-unit-to-offer-made-in-germany-aws-rival/)
 * [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
@@ -29,6 +28,7 @@
 * [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
 * [2022-06-02, 19:39:38](https://news.ycombinator.com/item?id=31599592) - [Comparing Exceptions and Errors in D](https://www.schveiguy.com/blog/2022/05/comparing-exceptions-and-errors-in-d/)
 * [2022-06-02, 16:31:03](https://news.ycombinator.com/item?id=31597009) - [Goya: Bearing True Witness](https://the-easel.com/essays/goya-bearing-true-witness/)
+* [2022-06-02, 14:16:21](https://news.ycombinator.com/item?id=31595183) - [Failing in the Trough](https://seths.blog/2022/06/failing-in-the-trough/)
 * [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
 
 ## [Archives](archives/index.md)
