@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 * [2022-06-04, 14:55:04](https://news.ycombinator.com/item?id=31621013) - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
 * [2022-06-04, 14:33:24](https://news.ycombinator.com/item?id=31620777) - [What you’ll find inside Inkscape version 1.2](https://inkscape.org/news/2022/05/16/inkscape-12/)
