@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
+* [2022-06-04, 17:09:18](https://news.ycombinator.com/item?id=31622795) - [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
 * [2022-06-04, 17:00:44](https://news.ycombinator.com/item?id=31622706) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
@@ -27,7 +28,6 @@
 * [2022-06-04, 02:27:41](https://news.ycombinator.com/item?id=31616340) - [A Privately Funded Killer Asteroid Spotter](https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/)
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
 * [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
-* [2022-06-02, 19:39:38](https://news.ycombinator.com/item?id=31599592) - [Comparing Exceptions and Errors in D](https://www.schveiguy.com/blog/2022/05/comparing-exceptions-and-errors-in-d/)
 * [2022-06-02, 14:16:21](https://news.ycombinator.com/item?id=31595183) - [Failing in the Trough](https://seths.blog/2022/06/failing-in-the-trough/)
 * [2022-05-31, 09:24:53](https://news.ycombinator.com/item?id=31567513) - [Starting over When You Think It’s Too Late](https://www.theatlantic.com/podcasts/archive/2022/05/midlife-crisis-job-change-happiness/639432/)
 
