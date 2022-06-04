@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 20:43:30](https://news.ycombinator.com/item?id=31624852) - [Court upholds $573,000 penalty against CA homeowner who fixed cars in backyard](https://www.sacbee.com/news/local/article261835755.html)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 19:12:34](https://news.ycombinator.com/item?id=31624062) - [On Stretch Rap (and containers and shipping)](https://theprepared.org/features-feed/stretch-wrap)
