@@ -9,6 +9,7 @@
 * [2022-06-04, 11:22:00](https://news.ycombinator.com/item?id=31619089) - [Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs rise](https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html)
 * [2022-06-04, 11:20:03](https://news.ycombinator.com/item?id=31619076) - [How is GNU yes(1) so fast?](https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/)
 * [2022-06-04, 11:08:11](https://news.ycombinator.com/item?id=31619010) - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
+* [2022-06-04, 10:58:54](https://news.ycombinator.com/item?id=31618955) - [Ask HN: Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
 * [2022-06-04, 10:20:18](https://news.ycombinator.com/item?id=31618746) - [Apple Music is the most buggy and annoying software I use](https://blog.nephics.se/2022/06/04/apple-music/)
 * [2022-06-04, 10:01:45](https://news.ycombinator.com/item?id=31618657) - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
 * [2022-06-04, 09:43:32](https://news.ycombinator.com/item?id=31618577) - [Neon: The serverless open source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
