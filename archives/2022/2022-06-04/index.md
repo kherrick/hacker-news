@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
 * [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
 * [2022-06-04, 21:54:10](https://news.ycombinator.com/item?id=31625472) - [How to stop USPS junk mail](https://consumer.ftc.gov/articles/how-stop-junk-mail)
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
