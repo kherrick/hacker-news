@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 17:52:21](https://news.ycombinator.com/item?id=31623257) - [Most Dystopian Things Pushed by the World Economic Forum (WEF)](https://vigilantcitizen.com/vigilantreport/top-10-insane-wef/)
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 17:09:18](https://news.ycombinator.com/item?id=31622795) - [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
@@ -34,6 +35,7 @@
 * [2022-06-04, 10:01:45](https://news.ycombinator.com/item?id=31618657) - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
 * [2022-06-04, 09:43:32](https://news.ycombinator.com/item?id=31618577) - [Neon: The serverless open source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
 * [2022-06-04, 09:38:34](https://news.ycombinator.com/item?id=31618539) - [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
+* [2022-06-04, 09:27:07](https://news.ycombinator.com/item?id=31618487) - [Show HN: GraphQL Client in the Terminal](https://github.com/eerimoq/gqt)
 * [2022-06-04, 09:17:03](https://news.ycombinator.com/item?id=31618450) - [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
 * [2022-06-04, 09:14:41](https://news.ycombinator.com/item?id=31618430) - [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt)
 * [2022-06-04, 08:12:02](https://news.ycombinator.com/item?id=31618092) - [Dear Spotify. Can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
