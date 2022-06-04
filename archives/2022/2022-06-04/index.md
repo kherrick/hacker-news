@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 22:39:34](https://news.ycombinator.com/item?id=31625804) - [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
 * [2022-06-04, 22:10:15](https://news.ycombinator.com/item?id=31625569) - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
 * [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
 * [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
 * [2022-06-04, 21:54:10](https://news.ycombinator.com/item?id=31625472) - [How to stop USPS junk mail](https://consumer.ftc.gov/articles/how-stop-junk-mail)
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:24:31](https://news.ycombinator.com/item?id=31625245) - [Russia’s Ill-Fated Invasion of Ukraine: Lessons in Modern Warfare](https://www.csis.org/analysis/russias-ill-fated-invasion-ukraine-lessons-modern-warfare)
+* [2022-06-04, 21:15:05](https://news.ycombinator.com/item?id=31625150) - [Republic UK](https://www.republic.org.uk/)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-04, 21:00:09](https://news.ycombinator.com/item?id=31625004) - [Tesla won’t give drivers their own crash data without a court order (2018)](https://www.consumeraffairs.com/news/tesla-blames-drivers-who-wreck-its-cars-but-wont-hand-over-crash-data-without-a-court-order-053018.html)
