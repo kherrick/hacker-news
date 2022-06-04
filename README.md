@@ -24,11 +24,11 @@
 * [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
 * [2022-06-03, 22:26:12](https://news.ycombinator.com/item?id=31614444) - [Show HN: ModelRunner – open source, speech-enabled data management platform](https://modelrunner.org/)
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
+* [2022-06-02, 23:40:30](https://news.ycombinator.com/item?id=31602054) - [Shakespeare’s Latin and Greek](https://antigonejournal.com/2022/05/shakespeare-greek-latin/)
 * [2022-06-02, 22:58:41](https://news.ycombinator.com/item?id=31601638) - [How I would start my next startup in Germany without a GmbH (2020)](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 * [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
 * [2022-06-02, 19:39:38](https://news.ycombinator.com/item?id=31599592) - [Comparing Exceptions and Errors in D](https://www.schveiguy.com/blog/2022/05/comparing-exceptions-and-errors-in-d/)
 * [2022-06-02, 16:31:03](https://news.ycombinator.com/item?id=31597009) - [Goya: Bearing True Witness](https://the-easel.com/essays/goya-bearing-true-witness/)
-* [2022-06-02, 15:16:44](https://news.ycombinator.com/item?id=31595920) - [A slightly head-down posture might help you look more friendly, research says](https://oa.mg/blog/slightly-head-down-posture-might-help-you-look-more-friendly-research-says/)
 * [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
 
 ## [Archives](archives/index.md)
