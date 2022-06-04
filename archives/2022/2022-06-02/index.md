@@ -31,6 +31,7 @@
 * [2022-06-02, 16:59:53](https://news.ycombinator.com/item?id=31597486) - [Remove YC “[company] is hiring” ads on HN](https://github.com/brownie-in-motion/hn-adblock)
 * [2022-06-02, 16:32:10](https://news.ycombinator.com/item?id=31597022) - [The timeless, futile effort to fix circadian rhythms with tech](https://reallifemag.com/temporal-belonging/)
 * [2022-06-02, 16:31:20](https://news.ycombinator.com/item?id=31597015) - [Dave Smith founder of Sequential Circuits has passed away](https://www.gearnews.com/dave-smith-founder-of-sequential-circuits-has-passed-away/)
+* [2022-06-02, 16:31:03](https://news.ycombinator.com/item?id=31597009) - [Goya: Bearing True Witness](https://the-easel.com/essays/goya-bearing-true-witness/)
 * [2022-06-02, 16:30:45](https://news.ycombinator.com/item?id=31597001) - [The Memory Techniques Wiki](https://artofmemory.com/wiki/Main_Page/)
 * [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
