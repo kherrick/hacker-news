@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
+* [2022-06-04, 18:48:50](https://news.ycombinator.com/item?id=31623842) - [Solving the Housing Crisis Will Require Fighting Monopolies in Construction](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 17:09:18](https://news.ycombinator.com/item?id=31622795) - [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
 * [2022-06-04, 17:00:44](https://news.ycombinator.com/item?id=31622706) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
@@ -17,7 +18,6 @@
 * [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
 * [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
 * [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
-* [2022-06-04, 11:08:11](https://news.ycombinator.com/item?id=31619010) - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
 * [2022-06-04, 10:58:54](https://news.ycombinator.com/item?id=31618955) - [Ask HN: Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
 * [2022-06-04, 09:27:07](https://news.ycombinator.com/item?id=31618487) - [Show HN: GraphQL Client in the Terminal](https://github.com/eerimoq/gqt)
 * [2022-06-04, 09:17:03](https://news.ycombinator.com/item?id=31618450) - [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
