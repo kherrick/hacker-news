@@ -25,11 +25,11 @@
 * [2022-06-03, 15:46:10](https://news.ycombinator.com/item?id=31609896) - [Show HN: Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2022-06-03, 04:28:15](https://news.ycombinator.com/item?id=31604299) - [Software Automatic Mouth – Tiny Speech Synthesizer](https://github.com/s-macke/SAM)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
+* [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal methods only solve half my problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2022-06-01, 20:54:19](https://news.ycombinator.com/item?id=31587950) - [Why are maps so hard to make?](https://www.readmargins.com/p/say-hello-to-felt)
 * [2022-06-01, 16:49:37](https://news.ycombinator.com/item?id=31584611) - [Printmaking as Play](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/)
 * [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
-* [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 has arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
 
 ## [Archives](archives/index.md)
 
