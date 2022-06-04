@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
+* [2022-06-04, 19:12:34](https://news.ycombinator.com/item?id=31624062) - [On Stretch Rap (and containers and shipping)](https://theprepared.org/features-feed/stretch-wrap)
 * [2022-06-04, 18:48:50](https://news.ycombinator.com/item?id=31623842) - [Solving the Housing Crisis Will Require Fighting Monopolies in Construction](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
+* [2022-06-04, 18:17:32](https://news.ycombinator.com/item?id=31623522) - [The Origin of Unix Pipes (1964)](https://doc.cat-v.org/unix/pipes/)
 * [2022-06-04, 17:52:21](https://news.ycombinator.com/item?id=31623257) - [Most Dystopian Things Pushed by the World Economic Forum (WEF)](https://vigilantcitizen.com/vigilantreport/top-10-insane-wef/)
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 17:09:18](https://news.ycombinator.com/item?id=31622795) - [“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”](https://twitter.com/ehn/status/1533016975999393793)
