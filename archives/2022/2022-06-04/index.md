@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 17:00:44](https://news.ycombinator.com/item?id=31622706) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 17:00:44](https://news.ycombinator.com/item?id=31622706) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
@@ -11,7 +12,6 @@
 * [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [The economics of stadium names](https://axiomalpha.com/the-economics-of-stadium-names/)
 * [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
 * [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
-* [2022-06-04, 12:24:22](https://news.ycombinator.com/item?id=31619504) - [Lidl’s parent company launches cloud unit to offer ‘Made in Germany’ AWS rival](https://www.datacenterdynamics.com/en/news/lidls-parent-company-launches-cloud-unit-to-offer-made-in-germany-aws-rival/)
 * [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
 * [2022-06-04, 11:08:11](https://news.ycombinator.com/item?id=31619010) - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
 * [2022-06-04, 10:58:54](https://news.ycombinator.com/item?id=31618955) - [Ask HN: Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
