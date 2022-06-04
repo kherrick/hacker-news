@@ -2,6 +2,7 @@
 
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2022-06-04, 21:00:09](https://news.ycombinator.com/item?id=31625004) - [Tesla won’t give drivers their own crash data without a court order (2018)](https://www.consumeraffairs.com/news/tesla-blames-drivers-who-wreck-its-cars-but-wont-hand-over-crash-data-without-a-court-order-053018.html)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 19:12:34](https://news.ycombinator.com/item?id=31624062) - [On Stretch Rap (and containers and shipping)](https://theprepared.org/features-feed/stretch-wrap)
@@ -28,7 +29,6 @@
 * [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:27:41](https://news.ycombinator.com/item?id=31616340) - [A privately funded killer asteroid spotter](https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/)
-* [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted attacks on touchscreens without physical touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
 * [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions candidates can ask about equity compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 
 ## [Archives](archives/index.md)

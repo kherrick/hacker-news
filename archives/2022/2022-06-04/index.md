@@ -6,6 +6,7 @@
 
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2022-06-04, 21:00:09](https://news.ycombinator.com/item?id=31625004) - [Tesla won’t give drivers their own crash data without a court order (2018)](https://www.consumeraffairs.com/news/tesla-blames-drivers-who-wreck-its-cars-but-wont-hand-over-crash-data-without-a-court-order-053018.html)
 * [2022-06-04, 20:43:30](https://news.ycombinator.com/item?id=31624852) - [Court upholds $573,000 penalty against CA homeowner who fixed cars in backyard](https://www.sacbee.com/news/local/article261835755.html)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
