@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-06-04](index.md)
+
+* [2022-06-04, 01:05:06](https://news.ycombinator.com/item?id=31615770) - [Ask HN: Viability of an anti-AI social movement](https://news.ycombinator.com/item?id=31615770)

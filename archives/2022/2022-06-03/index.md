@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 23:51:14](https://news.ycombinator.com/item?id=31615278) - [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
+* [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
+* [2022-06-03, 23:26:22](https://news.ycombinator.com/item?id=31615070) - [I don't care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
 * [2022-06-03, 23:15:51](https://news.ycombinator.com/item?id=31614967) - [Official Firefox Translations add-on, bringing offline translations to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
+* [2022-06-03, 22:50:11](https://news.ycombinator.com/item?id=31614694) - [Continuous glucose monitoring on the Apple Watch](https://hturan.com/writing/apple-watch-continuous-glucose-monitoring)
 * [2022-06-03, 22:33:20](https://news.ycombinator.com/item?id=31614518) - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
 * [2022-06-03, 21:45:09](https://news.ycombinator.com/item?id=31614060) - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
 * [2022-06-03, 21:30:12](https://news.ycombinator.com/item?id=31613893) - [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)
