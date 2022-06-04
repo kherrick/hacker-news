@@ -2,8 +2,10 @@
 
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno Skims the Cloud Tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 17:00:44](https://news.ycombinator.com/item?id=31622706) - [Basis (YC S21) Is hiring devs to help build Figma for data](https://www.workatastartup.com/companies/basis-2)
+* [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Significantly faster quicksort using SIMD](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
+* [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The Children of Atomic Bomb Survivors: A Genetic Study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 * [2022-06-04, 14:55:04](https://news.ycombinator.com/item?id=31621013) - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
@@ -23,11 +25,9 @@
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
-* [2022-06-02, 22:58:41](https://news.ycombinator.com/item?id=31601638) - [How I would start my next startup in Germany without a GmbH (2020)](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
 * [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
 * [2022-06-02, 19:39:38](https://news.ycombinator.com/item?id=31599592) - [Comparing Exceptions and Errors in D](https://www.schveiguy.com/blog/2022/05/comparing-exceptions-and-errors-in-d/)
 * [2022-06-02, 16:31:03](https://news.ycombinator.com/item?id=31597009) - [Goya: Bearing True Witness](https://the-easel.com/essays/goya-bearing-true-witness/)
-* [2022-06-02, 15:16:44](https://news.ycombinator.com/item?id=31595920) - [How head posture affects perceived cooperativeness: A cross-cultural perspective](https://oa.mg/blog/slightly-head-down-posture-might-help-you-look-more-friendly-research-says/)
 * [2022-06-02, 14:16:21](https://news.ycombinator.com/item?id=31595183) - [Failing in the Trough](https://seths.blog/2022/06/failing-in-the-trough/)
 * [2022-05-31, 09:24:53](https://news.ycombinator.com/item?id=31567513) - [Starting over When You Think It’s Too Late](https://www.theatlantic.com/podcasts/archive/2022/05/midlife-crisis-job-change-happiness/639432/)
 
