@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 21:24:31](https://news.ycombinator.com/item?id=31625245) - [Russia’s Ill-Fated Invasion of Ukraine: Lessons in Modern Warfare](https://www.csis.org/analysis/russias-ill-fated-invasion-ukraine-lessons-modern-warfare)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-04, 21:00:09](https://news.ycombinator.com/item?id=31625004) - [Tesla won’t give drivers their own crash data without a court order (2018)](https://www.consumeraffairs.com/news/tesla-blames-drivers-who-wreck-its-cars-but-wont-hand-over-crash-data-without-a-court-order-053018.html)
+* [2022-06-04, 20:50:50](https://news.ycombinator.com/item?id=31624930) - [Do not combine footers and infinite scrolling](https://willfennel.com/posts/2022/06/04/do-not-combine-footers-and-infinite-scrolling.html)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 19:12:34](https://news.ycombinator.com/item?id=31624062) - [On Stretch Rap (and containers and shipping)](https://theprepared.org/features-feed/stretch-wrap)
@@ -18,9 +20,6 @@
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to track all supermarket purchases?](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 * [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
-* [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [The economics of stadium names](https://axiomalpha.com/the-economics-of-stadium-names/)
-* [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
-* [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
 * [2022-06-04, 11:20:03](https://news.ycombinator.com/item?id=31619076) - [How is GNU `yes` so fast? (2017)](https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/)
 * [2022-06-04, 09:27:07](https://news.ycombinator.com/item?id=31618487) - [Show HN: GraphQL Client in the Terminal](https://github.com/eerimoq/gqt)
 * [2022-06-04, 08:12:02](https://news.ycombinator.com/item?id=31618092) - [Dear Spotify, can we just get a table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
@@ -29,6 +28,7 @@
 * [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:27:41](https://news.ycombinator.com/item?id=31616340) - [A privately funded killer asteroid spotter](https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/)
+* [2022-06-03, 04:18:32](https://news.ycombinator.com/item?id=31604243) - [Research Confirms Eastern Wyoming Paleoindian Site as Americas’ Oldest Mine](https://www.uwyo.edu/uw/news/2022/05/research-confirms-eastern-wyoming-paleoindian-site-as-americas-oldest-mine.html)
 * [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions candidates can ask about equity compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 
 ## [Archives](archives/index.md)
