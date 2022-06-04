@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 * [2022-06-04, 14:55:04](https://news.ycombinator.com/item?id=31621013) - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
@@ -10,7 +11,6 @@
 * [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
 * [2022-06-04, 12:24:22](https://news.ycombinator.com/item?id=31619504) - [Lidl’s parent company launches cloud unit to offer ‘Made in Germany’ AWS rival](https://www.datacenterdynamics.com/en/news/lidls-parent-company-launches-cloud-unit-to-offer-made-in-germany-aws-rival/)
 * [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
-* [2022-06-04, 11:22:00](https://news.ycombinator.com/item?id=31619089) - [Turkey’s inflation soars to 73%, a 23-year high, as food and energy costs rise](https://www.cnbc.com/2022/06/03/turkeys-inflation-soars-to-73percent-as-food-and-energy-costs-skyrocket.html)
 * [2022-06-04, 11:20:03](https://news.ycombinator.com/item?id=31619076) - [How is GNU yes(1) so fast?](https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/)
 * [2022-06-04, 11:08:11](https://news.ycombinator.com/item?id=31619010) - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
 * [2022-06-04, 10:58:54](https://news.ycombinator.com/item?id=31618955) - [Ask HN: Non-violent video games with great stories?](https://news.ycombinator.com/item?id=31618955)
