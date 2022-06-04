@@ -25,9 +25,9 @@
 * [2022-06-03, 15:07:32](https://news.ycombinator.com/item?id=31609325) - [Notes on Effective Altruism](https://michaelnotebook.com/eanotes/)
 * [2022-06-03, 04:28:15](https://news.ycombinator.com/item?id=31604299) - [Software Automatic Mouth – Tiny Speech Synthesizer](https://github.com/s-macke/SAM)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
+* [2022-06-02, 15:59:37](https://news.ycombinator.com/item?id=31596490) - [This Changes Networking: Intel IPU Hands-On with Big Spring Canyon](https://www.servethehome.com/this-changes-networking-intel-ipu-hands-on-with-big-spring-canyon/)
 * [2022-06-02, 15:16:44](https://news.ycombinator.com/item?id=31595920) - [A slightly head-down posture might help you look more friendly, research says](https://oa.mg/blog/slightly-head-down-posture-might-help-you-look-more-friendly-research-says/)
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal methods only solve half my problems](https://brooker.co.za/blog/2022/06/02/formal.html)
-* [2022-06-01, 20:54:19](https://news.ycombinator.com/item?id=31587950) - [Why are maps so hard to make?](https://www.readmargins.com/p/say-hello-to-felt)
 * [2022-06-01, 16:49:37](https://news.ycombinator.com/item?id=31584611) - [Printmaking as Play](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/)
 * [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
 

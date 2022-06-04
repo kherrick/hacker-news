@@ -35,6 +35,7 @@
 * [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
 * [2022-06-02, 16:23:49](https://news.ycombinator.com/item?id=31596888) - [Mozilla releases local machine translation tools as part of Project Bergamot](https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/)
 * [2022-06-02, 16:22:06](https://news.ycombinator.com/item?id=31596853) - [Google contacted me directly to help restore FairEmail on the Play Store](https://faircode.eu/faq.html)
+* [2022-06-02, 15:59:37](https://news.ycombinator.com/item?id=31596490) - [This Changes Networking: Intel IPU Hands-On with Big Spring Canyon](https://www.servethehome.com/this-changes-networking-intel-ipu-hands-on-with-big-spring-canyon/)
 * [2022-06-02, 15:53:36](https://news.ycombinator.com/item?id=31596419) - [Monorepos in JavaScript and TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 * [2022-06-02, 15:50:34](https://news.ycombinator.com/item?id=31596377) - [Varo Bank could run out of funds by year-end](https://www.bankingdive.com/news/varo-bank-could-run-out-of-funds-by-year-end-filing-shows/624628/)
 * [2022-06-02, 15:46:47](https://news.ycombinator.com/item?id=31596326) - [In this small Virginia town, citizens review police like Uber drivers](https://www.washingtonpost.com/dc-md-va/2022/06/02/warrenton-virginia-police-reviews/)
