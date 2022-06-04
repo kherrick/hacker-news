@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 11:08:11](https://news.ycombinator.com/item?id=31619010) - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
 * [2022-06-04, 10:01:45](https://news.ycombinator.com/item?id=31618657) - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
 * [2022-06-04, 09:38:34](https://news.ycombinator.com/item?id=31618539) - [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
 * [2022-06-04, 09:17:03](https://news.ycombinator.com/item?id=31618450) - [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
@@ -8,7 +9,6 @@
 * [2022-06-04, 07:28:43](https://news.ycombinator.com/item?id=31617921) - [Pixel Art: Common Mistakes (2020)](https://derekyu.com/makegames/pixelart2.html)
 * [2022-06-04, 06:28:03](https://news.ycombinator.com/item?id=31617600) - [Rr](https://rr-project.org/)
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)
-* [2022-06-04, 02:42:31](https://news.ycombinator.com/item?id=31616444) - [Adopting Open Source Firmware Approach for Intel FSP](https://openletter.earth/adopting-open-source-firmware-approach-for-intel-fsp-59d7a0c6)
 * [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)](https://www.nature.com/articles/d41586-019-02638-w)
 * [2022-06-04, 00:22:17](https://news.ycombinator.com/item?id=31615517) - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 * [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
