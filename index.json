@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-06-04, 19:52:32",
-      "https://news.ycombinator.com/item?id=31624401"
+      "2022-06-04, 20:43:30",
+      "https://news.ycombinator.com/item?id=31624852"
     ],
     [
-      "Ask HN: Anyone else quickly losing confidence in Amazon?",
-      "https://news.ycombinator.com/item?id=31624401"
+      "Court upholds $573,000 penalty against CA homeowner who fixed cars in backyard",
+      "https://www.sacbee.com/news/local/article261835755.html"
     ]
   ],
   [
@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2022-06-04, 19:12:34",
-      "https://news.ycombinator.com/item?id=31624062"
-    ],
-    [
-      "On Stretch Rap (and containers and shipping)",
-      "https://theprepared.org/features-feed/stretch-wrap"
-    ]
-  ],
-  [
-    [
       "2022-06-04, 18:48:50",
       "https://news.ycombinator.com/item?id=31623842"
     ],
     [
-      "Solving the Housing Crisis Will Require Fighting Monopolies in Construction",
+      "Solving the housing crisis requires fighting monopolies in construction (2020)",
       "https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31622864"
     ],
     [
-      "Juno Skims the Cloud Tops of Jupiter",
+      "Juno skims the cloud tops of Jupiter",
       "https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31622795"
     ],
     [
-      "“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”",
+      "Mercedes shipping mini CDs with its vehicles to fulfill GPL requirements",
       "https://twitter.com/ehn/status/1533016975999393793"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31622548"
     ],
     [
-      "Significantly faster quicksort using SIMD",
+      "Vectorized and performance-portable Quicksort",
       "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"
     ]
   ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31622250"
     ],
     [
-      "The FBI Tried to Ambush My Source",
+      "The FBI tried to ambush my source",
       "https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31622182"
     ],
     [
-      "The Children of Atomic Bomb Survivors: A Genetic Study",
+      "The children of atomic bomb survivors: A genetic study",
       "https://www.ncbi.nlm.nih.gov/books/NBK234265/"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31622128"
     ],
     [
-      "Brave’s Use of Direct Mailers",
+      "Brave’s use of direct mailers",
       "https://brave.com/usps-mailers/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31621101"
     ],
     [
-      "Norway to Track All Supermarket Purchases",
+      "Norway to track all supermarket purchases?",
       "https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "Ask HN: What is the best jurisdiction for internationally distributed teams?",
       "https://news.ycombinator.com/item?id=31620700"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 13:54:19",
+      "https://news.ycombinator.com/item?id=31620348"
+    ],
+    [
+      "The economics of stadium names",
+      "https://axiomalpha.com/the-economics-of-stadium-names/"
     ]
   ],
   [
@@ -187,6 +187,16 @@
     [
       "Ask HN: SWE who started an organic farm in Europe, where did you go?",
       "https://news.ycombinator.com/item?id=31619263"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 11:20:03",
+      "https://news.ycombinator.com/item?id=31619076"
+    ],
+    [
+      "How is GNU `yes` so fast? (2017)",
+      "https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31616340"
     ],
     [
-      "A Privately Funded Killer Asteroid Spotter",
+      "A privately funded killer asteroid spotter",
       "https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31601458"
     ],
     [
-      "GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch",
+      "GhostTouch: Targeted attacks on touchscreens without physical touch",
       "https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai"
     ]
   ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=31595393"
     ],
     [
-      "Questions You Can Ask About Equity Compensation",
+      "Questions candidates can ask about equity compensation",
       "https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask"
-    ]
-  ],
-  [
-    [
-      "2022-05-31, 09:24:53",
-      "https://news.ycombinator.com/item?id=31567513"
-    ],
-    [
-      "Starting over When You Think It’s Too Late",
-      "https://www.theatlantic.com/podcasts/archive/2022/05/midlife-crisis-job-change-happiness/639432/"
     ]
   ]
 ]
