@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-04, 17:00:44",
+      "https://news.ycombinator.com/item?id=31622706"
+    ],
+    [
+      "Basis (YC S21) Is hiring devs to help build Figma for data",
+      "https://www.workatastartup.com/companies/basis-2"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 16:48:11",
+      "https://news.ycombinator.com/item?id=31622548"
+    ],
+    [
+      "Significantly faster quicksort using SIMD",
+      "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html"
+    ]
+  ],
+  [
+    [
       "2022-06-04, 16:24:58",
       "https://news.ycombinator.com/item?id=31622250"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-06-04, 11:20:03",
-      "https://news.ycombinator.com/item?id=31619076"
-    ],
-    [
-      "How is GNU yes(1) so fast?",
-      "https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/"
-    ]
-  ],
-  [
-    [
       "2022-06-04, 11:08:11",
       "https://news.ycombinator.com/item?id=31619010"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2022-06-04, 02:54:18",
-      "https://news.ycombinator.com/item?id=31616506"
+      "2022-06-04, 03:56:46",
+      "https://news.ycombinator.com/item?id=31616837"
     ],
     [
-      "Persistence of Vision Test",
-      "https://www.testufo.com/persistence"
+      "PiRogue – mobile forensic and network analysis",
+      "https://piroguetoolsuite.github.io/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Notes on Effective Altruism",
       "https://michaelnotebook.com/eanotes/"
-    ]
-  ],
-  [
-    [
-      "2022-06-02, 23:40:30",
-      "https://news.ycombinator.com/item?id=31602054"
-    ],
-    [
-      "Shakespeare’s Latin and Greek",
-      "https://antigonejournal.com/2022/05/shakespeare-greek-latin/"
     ]
   ],
   [
