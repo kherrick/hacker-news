@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
+* [2022-06-04, 21:54:10](https://news.ycombinator.com/item?id=31625472) - [How to stop USPS junk mail](https://consumer.ftc.gov/articles/how-stop-junk-mail)
+* [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:24:31](https://news.ycombinator.com/item?id=31625245) - [Russia’s Ill-Fated Invasion of Ukraine: Lessons in Modern Warfare](https://www.csis.org/analysis/russias-ill-fated-invasion-ukraine-lessons-modern-warfare)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
