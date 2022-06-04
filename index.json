@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-04, 20:43:30",
-      "https://news.ycombinator.com/item?id=31624852"
+      "2022-06-04, 21:00:47",
+      "https://news.ycombinator.com/item?id=31625011"
     ],
     [
-      "Court upholds $573,000 penalty against CA homeowner who fixed cars in backyard",
-      "https://www.sacbee.com/news/local/article261835755.html"
+      "Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra",
+      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 19:52:32",
+      "https://news.ycombinator.com/item?id=31624401"
+    ],
+    [
+      "Ask HN: Anyone else quickly losing confidence in Amazon?",
+      "https://news.ycombinator.com/item?id=31624401"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Have an old iPad lying around? You might be able to make it run Linux soon",
       "https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 19:12:34",
+      "https://news.ycombinator.com/item?id=31624062"
+    ],
+    [
+      "On Stretch Rap (and containers and shipping)",
+      "https://theprepared.org/features-feed/stretch-wrap"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Mercedes shipping mini CDs with its vehicles to fulfill GPL requirements",
       "https://twitter.com/ehn/status/1533016975999393793"
-    ]
-  ],
-  [
-    [
-      "2022-06-04, 17:00:44",
-      "https://news.ycombinator.com/item?id=31622706"
-    ],
-    [
-      "Basis (YC S21) Is hiring devs to help build Figma for data",
-      "https://www.workatastartup.com/companies/basis-2"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-06-04, 10:58:54",
-      "https://news.ycombinator.com/item?id=31618955"
-    ],
-    [
-      "Ask HN: Non-violent video games with great stories?",
-      "https://news.ycombinator.com/item?id=31618955"
-    ]
-  ],
-  [
-    [
       "2022-06-04, 09:27:07",
       "https://news.ycombinator.com/item?id=31618487"
     ],
     [
       "Show HN: GraphQL Client in the Terminal",
       "https://github.com/eerimoq/gqt"
-    ]
-  ],
-  [
-    [
-      "2022-06-04, 09:17:03",
-      "https://news.ycombinator.com/item?id=31618450"
-    ],
-    [
-      "Softmax Activation Function, Explained",
-      "https://www.pinecone.io/learn/softmax-activation/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "What rr does",
       "https://rr-project.org/"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 04:45:08",
+      "https://news.ycombinator.com/item?id=31617072"
+    ],
+    [
+      "The Beauty of Unix Pipelines (2020)",
+      "https://prithu.dev/posts/unix-pipeline/"
     ]
   ],
   [
