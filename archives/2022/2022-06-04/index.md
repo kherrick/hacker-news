@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-04, 20:43:30](https://news.ycombinator.com/item?id=31624852) - [Court upholds $573,000 penalty against CA homeowner who fixed cars in backyard](https://www.sacbee.com/news/local/article261835755.html)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
@@ -48,6 +49,7 @@
 * [2022-06-04, 06:28:03](https://news.ycombinator.com/item?id=31617600) - [Rr](https://rr-project.org/)
 * [2022-06-04, 05:28:50](https://news.ycombinator.com/item?id=31617282) - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 * [2022-06-04, 05:09:34](https://news.ycombinator.com/item?id=31617198) - [Linux Laptop – HP Dev One Is Available](https://hpdevone.com/#specs)
+* [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)
 * [2022-06-04, 02:43:13](https://news.ycombinator.com/item?id=31616448) - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
