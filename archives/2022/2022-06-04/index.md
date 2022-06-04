@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 14:03:29](https://news.ycombinator.com/item?id=31620437) - [EPA raises amount of ethanol that must be blended with gas](https://apnews.com/article/covid-health-climate-and-environment-741866342fa94e30370cb6f4b2671e60)
+* [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [Economics of Stadium Names: Sell (most) companies that buy them](https://axiomalpha.com/the-economics-of-stadium-names/)
 * [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
+* [2022-06-04, 13:17:58](https://news.ycombinator.com/item?id=31619960) - [Ubuntu 22.10 Replaces Gedit with New Text Editor](https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-new-text-editor)
 * [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
 * [2022-06-04, 12:24:22](https://news.ycombinator.com/item?id=31619504) - [Lidl’s parent company launches cloud unit to offer ‘Made in Germany’ AWS rival](https://www.datacenterdynamics.com/en/news/lidls-parent-company-launches-cloud-unit-to-offer-made-in-germany-aws-rival/)
 * [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
