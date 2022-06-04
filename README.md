@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless Desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
@@ -17,7 +18,6 @@
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to track all supermarket purchases?](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 * [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
 * [2022-06-04, 13:54:19](https://news.ycombinator.com/item?id=31620348) - [The economics of stadium names](https://axiomalpha.com/the-economics-of-stadium-names/)
-* [2022-06-04, 13:20:59](https://news.ycombinator.com/item?id=31620002) - [Ask HN: Why aren't code diagram generating tools more common?](https://news.ycombinator.com/item?id=31620002)
 * [2022-06-04, 13:17:32](https://news.ycombinator.com/item?id=31619956) - [Write Playdate Games in Zig](https://gist.github.com/DanB91/4236e82025bb21f2a0d7d72482e391d8)
 * [2022-06-04, 11:49:35](https://news.ycombinator.com/item?id=31619263) - [Ask HN: SWE who started an organic farm in Europe, where did you go?](https://news.ycombinator.com/item?id=31619263)
 * [2022-06-04, 11:20:03](https://news.ycombinator.com/item?id=31619076) - [How is GNU `yes` so fast? (2017)](https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/)
