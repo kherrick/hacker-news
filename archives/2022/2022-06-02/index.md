@@ -20,6 +20,7 @@
 * [2022-06-02, 19:50:14](https://news.ycombinator.com/item?id=31599699) - [Theory of winter-fasting as a cure for cancer](https://github.com/albinsjolin/open-source-cure-for-cancer)
 * [2022-06-02, 19:44:20](https://news.ycombinator.com/item?id=31599651) - [Angular v14 is now available](https://blog.angular.io/angular-v14-is-now-available-391a6db736af?gi=2e536837536f)
 * [2022-06-02, 19:40:28](https://news.ycombinator.com/item?id=31599603) - [Show HN: I spent my vacation writing a modern JVM assembler](https://github.com/roscopeco/jasm)
+* [2022-06-02, 19:39:38](https://news.ycombinator.com/item?id=31599592) - [Comparing Exceptions and Errors in D](https://www.schveiguy.com/blog/2022/05/comparing-exceptions-and-errors-in-d/)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
 * [2022-06-02, 18:51:25](https://news.ycombinator.com/item?id=31599023) - [Giraffes May Be Long-Necked for Fights, Not Just Food](https://www.nytimes.com/2022/06/02/science/giraffe-neck-evolution.html)
 * [2022-06-02, 18:47:03](https://news.ycombinator.com/item?id=31598978) - [I'm Afraid We're Shutting Down](https://news.ycombinator.com/item?id=31598978)
