@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-02](index.md)
 
+* [2022-06-02, 23:40:30](https://news.ycombinator.com/item?id=31602054) - [Shakespeare’s Latin and Greek](https://antigonejournal.com/2022/05/shakespeare-greek-latin/)
 * [2022-06-02, 23:27:30](https://news.ycombinator.com/item?id=31601926) - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 * [2022-06-02, 22:24:53](https://news.ycombinator.com/item?id=31601309) - [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
 * [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
