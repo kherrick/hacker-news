@@ -58,6 +58,7 @@
 * [2022-06-02, 13:38:19](https://news.ycombinator.com/item?id=31594707) - [Cryptocurrencies are worse for the climate than you think](https://rollen.io/blog/crypto-climate/)
 * [2022-06-02, 13:29:21](https://news.ycombinator.com/item?id=31594613) - [Local-First Software](https://www.inkandswitch.com/local-first/)
 * [2022-06-02, 13:24:10](https://news.ycombinator.com/item?id=31594551) - [Coffee Drinking Linked to Lower Risk of Dying, New Study Finds](https://www.nytimes.com/2022/06/01/well/eat/coffee-study-lower-dying-risk.html)
+* [2022-06-02, 13:08:21](https://news.ycombinator.com/item?id=31594368) - [A Simple but Deep Theory About Drugs and Postmodernity](https://deepsocks.substack.com/p/a-simple-but-deep-theory-about-drugs)
 * [2022-06-02, 13:00:16](https://news.ycombinator.com/item?id=31594280) - [Side Channels [pdf]](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch19-7sep.pdf)
 * [2022-06-02, 12:50:36](https://news.ycombinator.com/item?id=31594156) - [Trial Diary: A Journalist Sits on a Baltimore Jury](https://www.propublica.org/article/shooting-baltimore-court-wire-trial-diary)
 * [2022-06-02, 12:49:23](https://news.ycombinator.com/item?id=31594144) - [Show HN: I hacked my sons Duplo train to go faster using my voice](https://benjamin-dals-hughes.gitbook.io/benjamin-blog/duplo-train-hack)
