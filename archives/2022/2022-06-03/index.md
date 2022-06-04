@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-03](index.md)
 
+* [2022-06-03, 23:15:51](https://news.ycombinator.com/item?id=31614967) - [Official Firefox Translations add-on, bringing offline translations to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
 * [2022-06-03, 22:33:20](https://news.ycombinator.com/item?id=31614518) - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
 * [2022-06-03, 21:45:09](https://news.ycombinator.com/item?id=31614060) - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
 * [2022-06-03, 21:30:12](https://news.ycombinator.com/item?id=31613893) - [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)

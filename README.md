@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-03, 23:15:51](https://news.ycombinator.com/item?id=31614967) - [Official Firefox Translations add-on, bringing offline translations to Firefox](https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/)
 * [2022-06-03, 22:33:20](https://news.ycombinator.com/item?id=31614518) - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
 * [2022-06-03, 21:45:09](https://news.ycombinator.com/item?id=31614060) - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
@@ -26,7 +27,6 @@
 * [2022-06-01, 21:29:30](https://news.ycombinator.com/item?id=31588388) - [Semantle: guess words based on Word2vec similarity scores](https://semantle.com/)
 * [2022-06-01, 20:54:19](https://news.ycombinator.com/item?id=31587950) - [Why are maps so hard to make?](https://www.readmargins.com/p/say-hello-to-felt)
 * [2022-06-01, 16:49:37](https://news.ycombinator.com/item?id=31584611) - [Printmaking as Play](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/)
-* [2022-06-01, 16:41:32](https://news.ycombinator.com/item?id=31584496) - [InnovateFPGA: Wrong Strategy Drives One of the Best FPGA Dev Contests to Crisis](https://cacm.acm.org/blogs/blog-cacm/261502-innovatefpga-wrong-strategy-drives-one-of-the-best-fpga-development-contests-into-crisis/fulltext)
 * [2022-06-01, 10:49:38](https://news.ycombinator.com/item?id=31580121) - [New type of 3D printing uses sound waves to build up objects](https://newatlas.com/3d-printing/direct-sound-3d-printing/)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 has arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
 * [2022-05-30, 14:25:07](https://news.ycombinator.com/item?id=31559294) - [I Write Letters to CEOs (2018)](https://www.johnwdefeo.com/articles/why-i-write-letters-to-ceos)
