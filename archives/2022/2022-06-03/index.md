@@ -12,6 +12,7 @@
 * [2022-06-03, 22:33:20](https://news.ycombinator.com/item?id=31614518) - [Yep, the Google alternative that shares revenue with creators. By Ahrefs](https://yep.com)
 * [2022-06-03, 22:26:12](https://news.ycombinator.com/item?id=31614444) - [Show HN: ModelRunner – open source, speech-enabled data management platform](https://modelrunner.org/)
 * [2022-06-03, 21:45:09](https://news.ycombinator.com/item?id=31614060) - [Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture](https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns)
+* [2022-06-03, 21:35:46](https://news.ycombinator.com/item?id=31613961) - [Kimchi: The latest update to Mina's zero-knowledge proof system](https://cryptologie.net/article/554/kimchi-the-latest-update-to-minas-proof-system/)
 * [2022-06-03, 21:30:12](https://news.ycombinator.com/item?id=31613893) - [Ask HN: What are some fun, conversational GitHub repos to contribute to?](https://news.ycombinator.com/item?id=31613893)
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 * [2022-06-03, 21:03:07](https://news.ycombinator.com/item?id=31613579) - [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)

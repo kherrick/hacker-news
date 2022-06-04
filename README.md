@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 23:11:07](https://news.ycombinator.com/item?id=31626049) - [Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It(1985)](https://spectrum.ieee.org/xerox-parc)
 * [2022-06-04, 22:39:34](https://news.ycombinator.com/item?id=31625804) - [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
 * [2022-06-04, 22:10:15](https://news.ycombinator.com/item?id=31625569) - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
 * [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
@@ -15,12 +16,10 @@
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 19:12:34](https://news.ycombinator.com/item?id=31624062) - [On Stretch Rap (and containers and shipping)](https://theprepared.org/features-feed/stretch-wrap)
 * [2022-06-04, 18:48:50](https://news.ycombinator.com/item?id=31623842) - [Solving the housing crisis requires fighting monopolies in construction (2020)](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
-* [2022-06-04, 18:17:32](https://news.ycombinator.com/item?id=31623522) - [The Origin of Unix Pipes (1964)](https://doc.cat-v.org/unix/pipes/)
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno skims the cloud tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
-* [2022-06-04, 16:15:48](https://news.ycombinator.com/item?id=31622128) - [Brave’s use of direct mailers](https://brave.com/usps-mailers/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
 * [2022-06-04, 11:20:03](https://news.ycombinator.com/item?id=31619076) - [How is GNU `yes` so fast? (2017)](https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/)
@@ -28,6 +27,7 @@
 * [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:27:41](https://news.ycombinator.com/item?id=31616340) - [A privately funded killer asteroid spotter](https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/)
+* [2022-06-03, 21:35:46](https://news.ycombinator.com/item?id=31613961) - [Kimchi: The latest update to Mina's zero-knowledge proof system](https://cryptologie.net/article/554/kimchi-the-latest-update-to-minas-proof-system/)
 * [2022-06-03, 04:18:32](https://news.ycombinator.com/item?id=31604243) - [Research Confirms Eastern Wyoming Paleoindian Site as Americas’ Oldest Mine](https://www.uwyo.edu/uw/news/2022/05/research-confirms-eastern-wyoming-paleoindian-site-as-americas-oldest-mine.html)
 * [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions candidates can ask about equity compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 
