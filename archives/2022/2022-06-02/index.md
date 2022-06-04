@@ -7,6 +7,7 @@
 * [2022-06-02, 23:40:30](https://news.ycombinator.com/item?id=31602054) - [Shakespeare’s Latin and Greek](https://antigonejournal.com/2022/05/shakespeare-greek-latin/)
 * [2022-06-02, 23:27:30](https://news.ycombinator.com/item?id=31601926) - [One Job, One Pay – Globally](https://graphcdn.io/blog/one-job-one-pay)
 * [2022-06-02, 22:58:41](https://news.ycombinator.com/item?id=31601638) - [How I would start my next startup in Germany without a GmbH](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)
+* [2022-06-02, 22:41:29](https://news.ycombinator.com/item?id=31601458) - [GhostTouch: Targeted Attacks on Touchscreens Without Physical Touch](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)
 * [2022-06-02, 22:24:53](https://news.ycombinator.com/item?id=31601309) - [Mexico calls for dissolution of the Organization of the Americas](https://aztecreports.com/mexico-to-call-for-oas-dissolution-at-upcoming-americas-summit/2915/)
 * [2022-06-02, 22:20:22](https://news.ycombinator.com/item?id=31601261) - [Quitting Twitter? What People Say About Life After Social Media](https://www.wsj.com/articles/quitting-twitter-what-people-say-about-life-after-social-media-11651415387)
 * [2022-06-02, 21:58:16](https://news.ycombinator.com/item?id=31601040) - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
