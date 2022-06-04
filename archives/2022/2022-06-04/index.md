@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 10:01:45](https://news.ycombinator.com/item?id=31618657) - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
+* [2022-06-04, 09:38:34](https://news.ycombinator.com/item?id=31618539) - [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
+* [2022-06-04, 09:17:03](https://news.ycombinator.com/item?id=31618450) - [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
 * [2022-06-04, 08:12:02](https://news.ycombinator.com/item?id=31618092) - [Dear Spotify. Can we just get table of songs?](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
 * [2022-06-04, 07:28:43](https://news.ycombinator.com/item?id=31617921) - [Pixel Art: Common Mistakes (2020)](https://derekyu.com/makegames/pixelart2.html)
 * [2022-06-04, 06:28:03](https://news.ycombinator.com/item?id=31617600) - [Rr](https://rr-project.org/)
