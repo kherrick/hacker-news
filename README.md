@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-04, 22:10:15](https://news.ycombinator.com/item?id=31625569) - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
 * [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM Prices Crashed by 20% in May Alone](https://tech4gamers.com/ddr5-memory-prices/)
 * [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning Is for Doing](https://biggestfish.substack.com/p/planning-is-for-doing)
 * [2022-06-04, 21:54:10](https://news.ycombinator.com/item?id=31625472) - [How to stop USPS junk mail](https://consumer.ftc.gov/articles/how-stop-junk-mail)
@@ -16,7 +17,6 @@
 * [2022-06-04, 17:15:42](https://news.ycombinator.com/item?id=31622864) - [Juno skims the cloud tops of Jupiter](https://www.nasa.gov/image-feature/jpl/juno-skims-the-cloud-tops-of-jupiter/)
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
-* [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI tried to ambush my source](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
 * [2022-06-04, 16:15:48](https://news.ycombinator.com/item?id=31622128) - [Brave’s use of direct mailers](https://brave.com/usps-mailers/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
