@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-04, 01:05:06](https://news.ycombinator.com/item?id=31615770) - [Ask HN: Viability of an anti-AI social movement](https://news.ycombinator.com/item?id=31615770)
+* [2022-06-04, 02:43:13](https://news.ycombinator.com/item?id=31616448) - [Common Counterfeit Foods–and How to Identify Them](https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods)
+* [2022-06-04, 02:32:56](https://news.ycombinator.com/item?id=31616372) - [First hint that body’s ‘biological age’ can be reversed](https://www.nature.com/articles/d41586-019-02638-w)
+* [2022-06-04, 00:22:17](https://news.ycombinator.com/item?id=31615517) - [Docker is dead? Podman – an alternative tool?](https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool)
 * [2022-06-03, 23:51:14](https://news.ycombinator.com/item?id=31615278) - [Email startup Superhuman lays off 22% of staff](https://www.businessinsider.com/superhuman-email-startup-lays-off-22-percent-staff-2022-6)
 * [2022-06-03, 23:40:41](https://news.ycombinator.com/item?id=31615200) - [Crabs evolved at least five times from separate groups of crustaceans (2021)](https://www.newsweek.com/crabs-evolved-five-times-carcinization-scientists-dont-know-why-1638921)
 * [2022-06-03, 23:26:22](https://news.ycombinator.com/item?id=31615070) - [I don't care about HSTS for localhost](https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost)
@@ -19,17 +21,15 @@
 * [2022-06-03, 15:46:10](https://news.ycombinator.com/item?id=31609896) - [Show HN: Plasmo – a framework for building modern Chrome extensions](https://github.com/PlasmoHQ/plasmo)
 * [2022-06-03, 15:00:03](https://news.ycombinator.com/item?id=31609217) - [Show HN: Fast Deep Reinforcement Learning Course](https://courses.dibya.online/p/fastdeeprl)
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
-* [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-signal proteins evolved before animals did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 12:28:06](https://news.ycombinator.com/item?id=31607318) - [Show HN: I restored Palm's webOS App Catalog, SDK and online help system](https://www.webosarchive.com)
 * [2022-06-03, 04:28:15](https://news.ycombinator.com/item?id=31604299) - [Software Automatic Mouth – Tiny Speech Synthesizer](https://github.com/s-macke/SAM)
 * [2022-06-02, 18:56:36](https://news.ycombinator.com/item?id=31599097) - [DeWitt Clause, or can you benchmark %database% and get away with it](https://cube.dev/blog/dewitt-clause-or-can-you-benchmark-a-database)
 * [2022-06-02, 16:30:35](https://news.ycombinator.com/item?id=31596997) - [Ways of Thinking about Endings](https://georgesaunders.substack.com/p/ten-ways-of-thinking-about-endings)
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal methods only solve half my problems](https://brooker.co.za/blog/2022/06/02/formal.html)
-* [2022-06-02, 14:18:55](https://news.ycombinator.com/item?id=31595211) - [Y Combinator for Mittelstands?](https://neilthanedar.com/yc-for-mittelstands/)
 * [2022-06-01, 20:54:19](https://news.ycombinator.com/item?id=31587950) - [Why are maps so hard to make?](https://www.readmargins.com/p/say-hello-to-felt)
 * [2022-06-01, 10:49:38](https://news.ycombinator.com/item?id=31580121) - [New type of 3D printing uses sound waves to build up objects](https://newatlas.com/3d-printing/direct-sound-3d-printing/)
+* [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 has arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
-* [2022-05-30, 14:25:07](https://news.ycombinator.com/item?id=31559294) - [I Write Letters to CEOs (2018)](https://www.johnwdefeo.com/articles/why-i-write-letters-to-ceos)
 
 ## [Archives](archives/index.md)
 

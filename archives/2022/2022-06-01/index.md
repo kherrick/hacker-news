@@ -74,6 +74,7 @@
 * [2022-06-01, 10:00:06](https://news.ycombinator.com/item?id=31579862) - [GitHub Actions is having an outage](https://www.githubstatus.com/incidents/8xxms3q3qzgp)
 * [2022-06-01, 09:35:36](https://news.ycombinator.com/item?id=31579750) - [Timely Advice – How Long Does Dataviz Take?](https://nightingaledvs.com/timely-advice-how-long-does-dataviz-take/)
 * [2022-06-01, 09:31:48](https://news.ycombinator.com/item?id=31579739) - [World’s largest organism found in Australia](https://www.science.org/content/article/world-s-largest-organism-found-australia)
+* [2022-06-01, 09:21:41](https://news.ycombinator.com/item?id=31579693) - [The term ‘Viking’ as it is commonly used is misleading](https://www.historytoday.com/archive/behind-times/goodbye-vikings)
 * [2022-06-01, 09:21:10](https://news.ycombinator.com/item?id=31579690) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM](https://blog.regehr.org/archives/2148)
 * [2022-06-01, 08:57:09](https://news.ycombinator.com/item?id=31579577) - [My Mega65 Has Arrived](https://www.epsilonsworld.com/2022/05/my-mega-65-has-arrived.html)
 * [2022-06-01, 08:46:18](https://news.ycombinator.com/item?id=31579522) - [Photography and Ikigai](https://www.lkazphoto.com/blog/photography-and-ikigai)
