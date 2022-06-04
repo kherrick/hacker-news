@@ -42,6 +42,7 @@
 * [2022-06-02, 15:25:18](https://news.ycombinator.com/item?id=31596034) - [California court finds that bees are fish [pdf]](https://www.courts.ca.gov/opinions/documents/C093542.PDF)
 * [2022-06-02, 15:21:49](https://news.ycombinator.com/item?id=31595987) - [Behind the Scenes: The pots, pans, and people that make millions of meals](https://joseandres.substack.com/p/behind-the-scenes-the-pots-pans-and)
 * [2022-06-02, 15:20:54](https://news.ycombinator.com/item?id=31595978) - [Tell HN: Transfer your Google domain to other registrar before it locks you out](https://news.ycombinator.com/item?id=31595978)
+* [2022-06-02, 15:16:44](https://news.ycombinator.com/item?id=31595920) - [Slightly head-down posture might help you look more friendly](https://oa.mg/blog/slightly-head-down-posture-might-help-you-look-more-friendly-research-says/)
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2022-06-02, 15:15:09](https://news.ycombinator.com/item?id=31595899) - [Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010)](https://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/)
 * [2022-06-02, 15:14:48](https://news.ycombinator.com/item?id=31595894) - [How To Remember Anything Forever-ish (2018)](https://ncase.me/remember/)
