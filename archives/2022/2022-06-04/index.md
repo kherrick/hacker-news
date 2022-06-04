@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
 * [2022-06-04, 11:08:11](https://news.ycombinator.com/item?id=31619010) - [Telegram has released user data to German Feds in multiple cases](https://twitter.com/disclosetv/status/1532881083070570497)
+* [2022-06-04, 10:20:18](https://news.ycombinator.com/item?id=31618746) - [Apple Music is the most buggy and annoying software I use](https://blog.nephics.se/2022/06/04/apple-music/)
 * [2022-06-04, 10:01:45](https://news.ycombinator.com/item?id=31618657) - [WhatsApp threatened to leave the Netherlands due to controversial backdoor law](https://www.nrc.nl/nieuws/2022/06/03/whatsapp-dreigde-te-vertrekken-om-aftapplicht-a4132175)
 * [2022-06-04, 09:38:34](https://news.ycombinator.com/item?id=31618539) - [Learning apps tracked and shared kids data/online activities with advertisers](https://www.cnn.com/2022/05/26/tech/remote-learning-apps-data-collection/index.html)
 * [2022-06-04, 09:17:03](https://news.ycombinator.com/item?id=31618450) - [Softmax Activation Function, Explained](https://www.pinecone.io/learn/softmax-activation/)
