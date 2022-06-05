@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 03:55:48](https://news.ycombinator.com/item?id=31627859) - [Xerox PARC’s Engineers on How They Invented the Future–and How Xerox Lost It](https://spectrum.ieee.org/xerox-parc/particle-33)
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [2022-06-05, 02:54:41](https://news.ycombinator.com/item?id=31627561) - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
 * [2022-06-05, 01:42:05](https://news.ycombinator.com/item?id=31627089) - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
@@ -21,7 +22,6 @@
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
-* [2022-06-04, 14:25:28](https://news.ycombinator.com/item?id=31620679) - [Seeing the Clouds with the Cloud](https://nickgregory.me/meteorology/2022/06/03/azure-orbital/)
 * [2022-06-04, 13:22:28](https://news.ycombinator.com/item?id=31620029) - [Wooden Towers to Help Cut Cost of Wind Turbines](https://cleantechnica.com/2022/05/31/wooden-towers-to-help-cut-the-cost-of-wind-turbines-even-more/)
 * [2022-06-04, 12:00:40](https://news.ycombinator.com/item?id=31619340) - [The Cabin on the Mountain](https://longreads.com/2022/03/29/lateral-thinking-colin-dickey/)
 * [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
