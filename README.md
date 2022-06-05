@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
+* [2022-06-05, 02:54:41](https://news.ycombinator.com/item?id=31627561) - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
 * [2022-06-05, 01:42:05](https://news.ycombinator.com/item?id=31627089) - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
-* [2022-06-05, 01:37:04](https://news.ycombinator.com/item?id=31627061) - [GitHub user sends notification to 400000 users](https://github.com/EpicGames/Signup/pull/24)
+* [2022-06-05, 01:37:04](https://news.ycombinator.com/item?id=31627061) - [GitHub user sends notification to 400k users](https://github.com/EpicGames/Signup/pull/24)
 * [2022-06-05, 00:57:59](https://news.ycombinator.com/item?id=31626830) - [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
 * [2022-06-04, 23:35:08](https://news.ycombinator.com/item?id=31626268) - [Show HN: Grid.js – Advanced table library that works everywhere (2020)](https://gridjs.io/?hn)
 * [2022-06-04, 23:19:49](https://news.ycombinator.com/item?id=31626132) - [Fallacies of distributed systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
@@ -16,7 +17,6 @@
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-04, 20:50:50](https://news.ycombinator.com/item?id=31624930) - [Do not combine footers and infinite scrolling](https://willfennel.com/posts/2022/06/04/do-not-combine-footers-and-infinite-scrolling.html)
 * [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
-* [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
