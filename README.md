@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 20:01:03](https://news.ycombinator.com/item?id=31634333) - [Tesla customer gets new Model 3 with cracks](https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
 * [2022-06-05, 19:01:34](https://news.ycombinator.com/item?id=31633857) - [Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
 * [2022-06-05, 18:16:25](https://news.ycombinator.com/item?id=31633481) - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
@@ -19,7 +20,6 @@
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630610) - [Show HN: To prevent dry eyes and back pain, I create a macOS app](https://news.ycombinator.com/item?id=31630610)
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 reverse engineered](https://g.livejournal.com/10829.html)
 * [2022-06-05, 11:55:18](https://news.ycombinator.com/item?id=31630148) - [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
-* [2022-06-05, 09:54:00](https://news.ycombinator.com/item?id=31629486) - [My Big Fat Monolithic Alert](https://cherkaskyb.medium.com/my-big-fat-monolithic-alert-498f21c1bb8a)
 * [2022-06-05, 08:03:13](https://news.ycombinator.com/item?id=31628939) - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I cheated on my Microsoft interview (2019)](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It costs $110k to fully gear up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
