@@ -5,7 +5,6 @@
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
-* [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
 * [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Restarting my career after motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
 * [2022-06-05, 13:46:07](https://news.ycombinator.com/item?id=31630946) - [Gas stoves are more hazardous than we’ve been led to believe (2020)](https://slate.com/technology/2020/12/gas-stoves-hazardous-asthma.html)
 * [2022-06-05, 13:42:59](https://news.ycombinator.com/item?id=31630915) - [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
@@ -28,6 +27,7 @@
 * [2022-06-05, 03:26:07](https://news.ycombinator.com/item?id=31627724) - [Qualcomm wants to buy ARM and it may need Samsung's help](https://www.sammobile.com/news/qualcomm-wants-to-buy-arm-need-samsungs-help/)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 06:11:46](https://news.ycombinator.com/item?id=31617508) - [About MT3 profile and /dev/tty set](https://matt3o.com/about-mt3-profile-and-devtty-set/)
+* [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
 * [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood](https://osmh.dev/posts/goroutines-under-the-hood/)
 * [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
 
