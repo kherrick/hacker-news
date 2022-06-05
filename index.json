@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-06-05, 21:00:28",
+      "https://news.ycombinator.com/item?id=31634813"
+    ],
+    [
+      "Cannoli – High-performance QEMU memory and instruction tracing",
+      "https://github.com/MarginResearch/cannoli"
+    ]
+  ],
+  [
+    [
       "2022-06-05, 20:50:37",
       "https://news.ycombinator.com/item?id=31634704"
     ],
@@ -57,16 +67,6 @@
     [
       "Why I'm using Fossil SCM instead of other source control systems (2016)",
       "https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 20:28:23",
-      "https://news.ycombinator.com/item?id=31634535"
-    ],
-    [
-      "In 1997, Wired Predicts Things That Could Go Wrong in the 21st Century (2021)",
-      "https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2022-06-05, 11:55:18",
-      "https://news.ycombinator.com/item?id=31630148"
+      "2022-06-05, 09:16:44",
+      "https://news.ycombinator.com/item?id=31629261"
     ],
     [
-      "Spotify podcasters are making $18k a month with nothing but white noise",
-      "https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"
+      "The Flossbank Attempt",
+      "https://medium.com/@joelwass/the-flossbank-attempt-de9d8ecc1dcf"
     ]
   ],
   [
