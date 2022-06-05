@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-05, 19:01:38",
+      "https://news.ycombinator.com/item?id=31633858"
+    ],
+    [
+      "LeekWars, program your AI to destroy your leek enemies",
+      "https://leekwars.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 19:01:34",
+      "https://news.ycombinator.com/item?id=31633857"
+    ],
+    [
+      "Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows",
+      "https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 18:16:25",
+      "https://news.ycombinator.com/item?id=31633481"
+    ],
+    [
+      "Mirrord – mirror production traffic to your development environment",
+      "https://github.com/metalbear-co/mirrord"
+    ]
+  ],
+  [
+    [
       "2022-06-05, 17:06:32",
       "https://news.ycombinator.com/item?id=31632801"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-06-05, 14:16:14",
-      "https://news.ycombinator.com/item?id=31631173"
-    ],
-    [
-      "Restarting my career after motherhood",
-      "https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5"
-    ]
-  ],
-  [
-    [
       "2022-06-05, 13:42:59",
       "https://news.ycombinator.com/item?id=31630915"
     ],
@@ -117,16 +137,6 @@
     [
       "Tcpls: Modern Transport Services with TCP and TLS",
       "https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 13:20:58",
-      "https://news.ycombinator.com/item?id=31630736"
-    ],
-    [
-      "Deep Learning Opacity In Scientific Discovery",
-      "https://arxiv.org/abs/2206.00520"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=31607274"
     ],
     [
-      "Goroutines Under the Hood",
+      "Goroutines Under the Hood (2020)",
       "https://osmh.dev/posts/goroutines-under-the-hood/"
-    ]
-  ],
-  [
-    [
-      "2022-06-03, 06:26:12",
-      "https://news.ycombinator.com/item?id=31604916"
-    ],
-    [
-      "Abmagick – abuse ImageMagick to create arbitrary files",
-      "https://github.com/jwilk/abmagick"
     ]
   ]
 ]
