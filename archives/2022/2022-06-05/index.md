@@ -6,6 +6,7 @@
 
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
 * [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+* [2022-06-05, 20:31:45](https://news.ycombinator.com/item?id=31634560) - [Why I'm using Fossil SCM instead of other source control systems](https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems)
 * [2022-06-05, 20:28:23](https://news.ycombinator.com/item?id=31634535) - [In 1997,Wired Mag Predicts Things That Could Go Wrong in the 21st Century](https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html)
 * [2022-06-05, 20:08:14](https://news.ycombinator.com/item?id=31634400) - [Fine dining faces its dark truths in Copenhagen](https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef)
 * [2022-06-05, 20:01:03](https://news.ycombinator.com/item?id=31634333) - [Tesla customer gets new Model 3 with cracks](https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198)
@@ -54,6 +55,7 @@
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [One Guy Ruined Hacktoberfest 2020 (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
+* [2022-06-05, 05:07:32](https://news.ycombinator.com/item?id=31628197) - [A Day at the Grease Plant](https://placesjournal.org/article/gordon-parks-photographs-pittsburgh-grease-plant/)
 * [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
 * [2022-06-05, 04:49:10](https://news.ycombinator.com/item?id=31628112) - [Enough Is Enough: The Criminal Case Against Mark Zuckerberg](https://mattstoller.substack.com/p/enough-is-enough-the-criminal-case)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)

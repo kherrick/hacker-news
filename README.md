@@ -2,6 +2,7 @@
 
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
 * [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+* [2022-06-05, 20:31:45](https://news.ycombinator.com/item?id=31634560) - [Why I'm using Fossil SCM instead of other source control systems](https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems)
 * [2022-06-05, 20:28:23](https://news.ycombinator.com/item?id=31634535) - [In 1997,Wired Mag Predicts Things That Could Go Wrong in the 21st Century](https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html)
 * [2022-06-05, 20:08:14](https://news.ycombinator.com/item?id=31634400) - [Fine dining faces its dark truths in Copenhagen](https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
@@ -20,14 +21,13 @@
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 reverse engineered](https://g.livejournal.com/10829.html)
 * [2022-06-05, 11:55:18](https://news.ycombinator.com/item?id=31630148) - [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
 * [2022-06-05, 08:03:13](https://news.ycombinator.com/item?id=31628939) - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
-* [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I cheated on my Microsoft interview (2019)](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It costs $110k to fully gear up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:34:16](https://news.ycombinator.com/item?id=31628832) - [RNA forms on basalt lava glass in the presence of nucleoside triphosphates](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
+* [2022-06-05, 05:07:32](https://news.ycombinator.com/item?id=31628197) - [A Day at the Grease Plant](https://placesjournal.org/article/gordon-parks-photographs-pittsburgh-grease-plant/)
 * [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Complex systems collapse faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 14:25:28](https://news.ycombinator.com/item?id=31620679) - [Seeing the Clouds with the Cloud](https://nickgregory.me/meteorology/2022/06/03/azure-orbital/)
-* [2022-06-04, 05:37:26](https://news.ycombinator.com/item?id=31617325) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood (2020)](https://osmh.dev/posts/goroutines-under-the-hood/)
 * [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
 
