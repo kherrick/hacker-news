@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-05, 12:00:16",
+      "https://news.ycombinator.com/item?id=31630189"
+    ],
+    [
+      "The Muse (YC W12) Is Hiring a Senior Software Engineer",
+      "https://www.themuse.com/jobs/themuse/senior-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 11:36:33",
+      "https://news.ycombinator.com/item?id=31630014"
+    ],
+    [
+      "Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?",
+      "https://news.ycombinator.com/item?id=31630014"
+    ]
+  ],
+  [
+    [
       "2022-06-05, 09:28:01",
       "https://news.ycombinator.com/item?id=31629321"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2022-06-05, 07:00:46",
-      "https://news.ycombinator.com/item?id=31628699"
-    ],
-    [
-      "Stacker (YC S20) Is Hiring a Head of Engineering",
-      "https://apply.workable.com/stackerhq/j/FAC2417239/"
-    ]
-  ],
-  [
-    [
       "2022-06-05, 05:38:45",
       "https://news.ycombinator.com/item?id=31628342"
     ],
@@ -87,6 +97,16 @@
     [
       "Work from home and the office real estate apocalypse",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 02:54:41",
+      "https://news.ycombinator.com/item?id=31627561"
+    ],
+    [
+      "Reinforcement Learning as One Big Sequence Modeling Problem",
+      "https://trajectory-transformer.github.io/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-06-04, 13:22:28",
-      "https://news.ycombinator.com/item?id=31620029"
-    ],
-    [
-      "Wooden Towers to Help Cut Cost of Wind Turbines",
-      "https://cleantechnica.com/2022/05/31/wooden-towers-to-help-cut-the-cost-of-wind-turbines-even-more/"
-    ]
-  ],
-  [
-    [
       "2022-06-03, 19:56:02",
       "https://news.ycombinator.com/item?id=31612898"
     ],
@@ -267,16 +277,6 @@
     [
       "Abmagick – abuse ImageMagick to create arbitrary files",
       "https://github.com/jwilk/abmagick"
-    ]
-  ],
-  [
-    [
-      "2022-06-03, 00:05:50",
-      "https://news.ycombinator.com/item?id=31602295"
-    ],
-    [
-      "My Castaway This Week: the world’s longest-running interview show",
-      "https://www.lrb.co.uk/the-paper/v44/n11/miranda-carter/my-castaway-this-week"
     ]
   ],
   [
