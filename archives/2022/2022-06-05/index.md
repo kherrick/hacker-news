@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 * [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
 * [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Slaps to the Face: Restarting My Career After Motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
 * [2022-06-05, 14:12:33](https://news.ycombinator.com/item?id=31631144) - [Tell HN: Please Stop Using Imgur](https://news.ycombinator.com/item?id=31631144)
@@ -20,6 +21,7 @@
 * [2022-06-05, 12:00:16](https://news.ycombinator.com/item?id=31630189) - [The Muse (YC W12) Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
 * [2022-06-05, 11:55:18](https://news.ycombinator.com/item?id=31630148) - [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
 * [2022-06-05, 11:36:33](https://news.ycombinator.com/item?id=31630014) - [Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
+* [2022-06-05, 09:54:00](https://news.ycombinator.com/item?id=31629486) - [My Big Fat Monolithic Alert](https://cherkaskyb.medium.com/my-big-fat-monolithic-alert-498f21c1bb8a)
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
 * [2022-06-05, 08:35:04](https://news.ycombinator.com/item?id=31629082) - [Thinking beyond privacy: the risks of big tech’s entry into public sectors](https://news.ycombinator.com/)
 * [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
@@ -33,6 +35,7 @@
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [One Guy Ruined Hacktoberfest 2020 (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 * [2022-06-05, 04:49:10](https://news.ycombinator.com/item?id=31628112) - [Enough Is Enough: The Criminal Case Against Mark Zuckerberg](https://mattstoller.substack.com/p/enough-is-enough-the-criminal-case)
 * [2022-06-05, 03:55:48](https://news.ycombinator.com/item?id=31627859) - [Xerox PARC’s Engineers on How They Invented the Future–and How Xerox Lost It](https://spectrum.ieee.org/xerox-parc/particle-33)
+* [2022-06-05, 03:26:07](https://news.ycombinator.com/item?id=31627724) - [Qualcomm wants to buy ARM and it may need Samsung's help](https://www.sammobile.com/news/qualcomm-wants-to-buy-arm-need-samsungs-help/)
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [2022-06-05, 03:05:11](https://news.ycombinator.com/item?id=31627620) - [Welcome Tesla friends, we're Atlassian and we work from anywhere. Apply now](https://www.atlassian.com/company/careers)
 * [2022-06-05, 02:54:41](https://news.ycombinator.com/item?id=31627561) - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
