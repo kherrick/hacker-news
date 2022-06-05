@@ -6,6 +6,7 @@
 
 * [2022-06-05, 17:06:32](https://news.ycombinator.com/item?id=31632801) - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 * [2022-06-05, 17:01:00](https://news.ycombinator.com/item?id=31632754) - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
+* [2022-06-05, 16:56:16](https://news.ycombinator.com/item?id=31632714) - [Crypto Industry Eclipses Defense, Big Pharma in US Political Giving](https://www.bloomberg.com/news/articles/2022-06-02/crypto-industry-eclipses-defense-big-pharma-in-political-giving)
 * [2022-06-05, 16:52:13](https://news.ycombinator.com/item?id=31632680) - [LSD microdosing does not appear to improve mood, new placebo-controlled study](https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277)
 * [2022-06-05, 16:09:13](https://news.ycombinator.com/item?id=31632230) - [Twee Editors(2005)](https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors)
 * [2022-06-05, 16:00:06](https://news.ycombinator.com/item?id=31632137) - [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
