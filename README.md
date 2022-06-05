@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-05, 20:01:03](https://news.ycombinator.com/item?id=31634333) - [Tesla customer gets new Model 3 with cracks](https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198)
+* [2022-06-05, 19:43:32](https://news.ycombinator.com/item?id=31634206) - [Why won't Gitlab support monthly billing?](https://gitlab.com/gitlab-org/gitlab/-/issues/5595)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
-* [2022-06-05, 19:01:34](https://news.ycombinator.com/item?id=31633857) - [Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
 * [2022-06-05, 18:16:25](https://news.ycombinator.com/item?id=31633481) - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
 * [2022-06-05, 17:06:32](https://news.ycombinator.com/item?id=31632801) - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 * [2022-06-05, 17:01:00](https://news.ycombinator.com/item?id=31632754) - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
