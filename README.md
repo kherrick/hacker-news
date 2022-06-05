@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
+* [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:34:16](https://news.ycombinator.com/item?id=31628832) - [RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
@@ -17,7 +18,6 @@
 * [2022-06-04, 22:10:15](https://news.ycombinator.com/item?id=31625569) - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
 * [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM prices crashed by 20% in May](https://tech4gamers.com/ddr5-memory-prices/)
 * [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning is for doing](https://biggestfish.substack.com/p/planning-is-for-doing)
-* [2022-06-04, 21:54:10](https://news.ycombinator.com/item?id=31625472) - [How to stop junk mail](https://consumer.ftc.gov/articles/how-stop-junk-mail)
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 18:48:50](https://news.ycombinator.com/item?id=31623842) - [Solving the housing crisis requires fighting monopolies in construction (2020)](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
