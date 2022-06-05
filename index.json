@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-05, 01:42:05",
+      "https://news.ycombinator.com/item?id=31627089"
+    ],
+    [
+      "Meet developers 1:1 every week and team up on projects",
+      "https://connectdome.com"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 01:37:04",
+      "https://news.ycombinator.com/item?id=31627061"
+    ],
+    [
+      "GitHub user sends notification to 400000 users",
+      "https://github.com/EpicGames/Signup/pull/24"
+    ]
+  ],
+  [
+    [
       "2022-06-05, 00:05:42",
       "https://news.ycombinator.com/item?id=31626508"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31626132"
     ],
     [
-      "Architecture Notes: Fallacies of Distributed Systems",
+      "Fallacies of distributed systems",
       "https://architecturenotes.co/fallacies-of-distributed-systems/"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31626049"
     ],
     [
-      "Xerox PARC staff on how they invented the future and how Xerox lost it (1985)",
+      "Xerox PARC’s engineers on how they invented the future and Xerox lost it (1985)",
       "https://spectrum.ieee.org/xerox-parc"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31625509"
     ],
     [
-      "DDR5 RAM Prices Crashed by 20% in May Alone",
+      "DDR5 RAM prices crashed by 20% in May",
       "https://tech4gamers.com/ddr5-memory-prices/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31625489"
     ],
     [
-      "Planning Is for Doing",
+      "Planning is for doing",
       "https://biggestfish.substack.com/p/planning-is-for-doing"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31625472"
     ],
     [
-      "How to stop USPS junk mail",
+      "How to stop junk mail",
       "https://consumer.ftc.gov/articles/how-stop-junk-mail"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31625086"
     ],
     [
-      "Painless Desktop containers for everyday development",
+      "Painless desktop containers for everyday development",
       "https://dock.orion3.space/readme.htm"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra",
       "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572"
-    ]
-  ],
-  [
-    [
-      "2022-06-04, 21:00:09",
-      "https://news.ycombinator.com/item?id=31625004"
-    ],
-    [
-      "Tesla won’t give drivers their own crash data without a court order (2018)",
-      "https://www.consumeraffairs.com/news/tesla-blames-drivers-who-wreck-its-cars-but-wont-hand-over-crash-data-without-a-court-order-053018.html"
     ]
   ],
   [
@@ -157,6 +167,16 @@
     [
       "Have an old iPad lying around? You might be able to make it run Linux soon",
       "https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 19:12:34",
+      "https://news.ycombinator.com/item?id=31624062"
+    ],
+    [
+      "On Stretch Rap (and containers and shipping)",
+      "https://theprepared.org/features-feed/stretch-wrap"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2022-06-04, 11:20:03",
-      "https://news.ycombinator.com/item?id=31619076"
-    ],
-    [
-      "How is GNU `yes` so fast? (2017)",
-      "https://old.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/"
-    ]
-  ],
-  [
-    [
-      "2022-06-04, 09:27:07",
-      "https://news.ycombinator.com/item?id=31618487"
-    ],
-    [
-      "Show HN: GraphQL Client in the Terminal",
-      "https://github.com/eerimoq/gqt"
-    ]
-  ],
-  [
-    [
       "2022-06-04, 04:45:08",
       "https://news.ycombinator.com/item?id=31617072"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-06-03, 21:35:46",
-      "https://news.ycombinator.com/item?id=31613961"
+      "2022-06-03, 09:34:05",
+      "https://news.ycombinator.com/item?id=31606125"
     ],
     [
-      "Kimchi: The latest update to Mina's zero-knowledge proof system",
-      "https://cryptologie.net/article/554/kimchi-the-latest-update-to-minas-proof-system/"
+      "Heartbeats and heart attacks (2016)",
+      "https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31595831"
     ],
     [
-      "Abba and the rise of the work-from-home rock star",
+      "ABBA and the rise of the work-from-home rock star",
       "https://www.economist.com/culture/2022/05/27/abba-and-the-rise-of-the-work-from-home-rock-star"
     ]
   ],
