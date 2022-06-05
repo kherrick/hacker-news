@@ -15,7 +15,6 @@
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-* [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
@@ -28,6 +27,7 @@
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-03, 09:34:05](https://news.ycombinator.com/item?id=31606125) - [Heartbeats and heart attacks (2016)](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
 * [2022-06-03, 04:18:32](https://news.ycombinator.com/item?id=31604243) - [Research Confirms Eastern Wyoming Paleoindian Site as Americas’ Oldest Mine](https://www.uwyo.edu/uw/news/2022/05/research-confirms-eastern-wyoming-paleoindian-site-as-americas-oldest-mine.html)
+* [2022-06-03, 00:05:50](https://news.ycombinator.com/item?id=31602295) - [My Castaway This Week: the world’s longest-running interview show](https://www.lrb.co.uk/the-paper/v44/n11/miranda-carter/my-castaway-this-week)
 * [2022-06-02, 15:09:44](https://news.ycombinator.com/item?id=31595831) - [ABBA and the rise of the work-from-home rock star](https://www.economist.com/culture/2022/05/27/abba-and-the-rise-of-the-work-from-home-rock-star)
 * [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions candidates can ask about equity compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 
