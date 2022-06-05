@@ -12,6 +12,7 @@
 * [2022-06-05, 20:50:37](https://news.ycombinator.com/item?id=31634704) - [Ask HN: Has anyone successfully used LibreOffice for their business?](https://news.ycombinator.com/item?id=31634704)
 * [2022-06-05, 20:49:29](https://news.ycombinator.com/item?id=31634693) - [Fatherless sons have more testosterone](https://www.economist.com/science-and-technology/2022/06/01/fatherless-sons-have-more-testosterone)
 * [2022-06-05, 20:31:45](https://news.ycombinator.com/item?id=31634560) - [Why I'm using Fossil SCM instead of other source control systems](https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems)
+* [2022-06-05, 20:31:24](https://news.ycombinator.com/item?id=31634559) - [Blogging with Org-mode for lazy people](https://github.com/novoid/lazyblorg)
 * [2022-06-05, 20:28:23](https://news.ycombinator.com/item?id=31634535) - [In 1997,Wired Mag Predicts Things That Could Go Wrong in the 21st Century](https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html)
 * [2022-06-05, 20:08:14](https://news.ycombinator.com/item?id=31634400) - [Fine dining faces its dark truths in Copenhagen](https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef)
 * [2022-06-05, 20:01:03](https://news.ycombinator.com/item?id=31634333) - [Tesla customer gets new Model 3 with cracks](https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198)
