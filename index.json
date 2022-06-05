@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-06-05, 20:01:03",
-      "https://news.ycombinator.com/item?id=31634333"
+      "2022-06-05, 21:01:10",
+      "https://news.ycombinator.com/item?id=31634822"
     ],
     [
-      "Tesla customer gets new Model 3 with cracks",
-      "https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 19:43:32",
-      "https://news.ycombinator.com/item?id=31634206"
-    ],
-    [
-      "Why won't Gitlab support monthly billing?",
-      "https://gitlab.com/gitlab-org/gitlab/-/issues/5595"
+      "Dover.com (YC S19) is hiring senior engineers",
+      "https://www.dover.com/open-roles/software-engineer"
     ]
   ],
   [
@@ -51,31 +41,11 @@
   ],
   [
     [
-      "2022-06-05, 17:01:00",
-      "https://news.ycombinator.com/item?id=31632754"
-    ],
-    [
-      "Emerge Tools is building the future of mobile performance, come join us",
-      "https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 16:56:16",
-      "https://news.ycombinator.com/item?id=31632714"
-    ],
-    [
-      "Crypto Industry Eclipses Defense, Big Pharma in US Political Giving",
-      "https://www.bloomberg.com/news/articles/2022-06-02/crypto-industry-eclipses-defense-big-pharma-in-political-giving"
-    ]
-  ],
-  [
-    [
       "2022-06-05, 16:52:13",
       "https://news.ycombinator.com/item?id=31632680"
     ],
     [
-      "LSD microdosing does not appear to improve mood, new placebo-controlled study",
+      "LSD microdosing does not appear to improve mood or cognitive ability: study",
       "https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277"
     ]
   ],
@@ -85,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31632230"
     ],
     [
-      "Twee Editors(2005)",
+      "Twee Editors (2005)",
       "https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors"
     ]
   ],
@@ -125,8 +95,8 @@
       "https://news.ycombinator.com/item?id=31631260"
     ],
     [
-      "Turning a Nokia 1680 feature phone into a Linux computer",
-      "https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/"
+      "Notkia: Linux phone in the shape of Nokia, with LoRa + WiFI + BT connectivity",
+      "https://www.hackster.io/reimunotmoe/notkia-f6e772"
     ]
   ],
   [
@@ -135,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31630915"
     ],
     [
-      "Ask HN: Examples of Good Technical Writing?",
+      "Ask HN: Examples of good technical writing?",
       "https://news.ycombinator.com/item?id=31630915"
     ]
   ],
@@ -151,11 +121,21 @@
   ],
   [
     [
+      "2022-06-05, 13:20:58",
+      "https://news.ycombinator.com/item?id=31630736"
+    ],
+    [
+      "Deep learning opacity in scientific discovery",
+      "https://arxiv.org/abs/2206.00520"
+    ]
+  ],
+  [
+    [
       "2022-06-05, 13:13:57",
       "https://news.ycombinator.com/item?id=31630679"
     ],
     [
-      "A Cancer Trial’s Unexpected Result: Remission in Every Patient",
+      "A cancer trial’s unexpected result: Remission in every patient",
       "https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html"
     ]
   ],
@@ -165,8 +145,8 @@
       "https://news.ycombinator.com/item?id=31630676"
     ],
     [
-      "The Philistines were likely of Greek origin, according to DNA",
-      "https://greekreporter.com/2022/05/18/philistines-greek/"
+      "Ancient DNA may reveal origin of the Philistines",
+      "https://www.nationalgeographic.com/culture/article/ancient-dna-reveal-philistine-origins"
     ]
   ],
   [
@@ -175,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31630610"
     ],
     [
-      "Show HN: To prevent dry eyes and back pain, I create a macOS app",
+      "Show HN: To prevent dry eyes and back pain, I created a macOS app",
       "https://news.ycombinator.com/item?id=31630610"
     ]
   ],
@@ -197,6 +177,16 @@
     [
       "Spotify podcasters are making $18k a month with nothing but white noise",
       "https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 09:54:00",
+      "https://news.ycombinator.com/item?id=31629486"
+    ],
+    [
+      "My big fat monolithic alert",
+      "https://cherkaskyb.medium.com/my-big-fat-monolithic-alert-498f21c1bb8a"
     ]
   ],
   [
@@ -235,18 +225,8 @@
       "https://news.ycombinator.com/item?id=31628832"
     ],
     [
-      "RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)",
+      "RNA forms on basalt lava glass in the presence of nucleoside triphosphates",
       "https://www.liebertpub.com/doi/10.1089/ast.2022.0027"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 05:38:45",
-      "https://news.ycombinator.com/item?id=31628342"
-    ],
-    [
-      "How one guy ruined Hacktoberfest (2020)",
-      "https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama"
     ]
   ],
   [
@@ -265,7 +245,7 @@
       "https://news.ycombinator.com/item?id=31627925"
     ],
     [
-      "Why Complex Systems Collapse Faster",
+      "Complex systems collapse faster",
       "https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster"
     ]
   ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-06-04, 05:37:26",
+      "https://news.ycombinator.com/item?id=31617325"
+    ],
+    [
+      "The Discarnates: Thomas Carlyle in the Spirit-World (1920)",
+      "https://publicdomainreview.org/collection/what-spiritualism-really-is/"
+    ]
+  ],
+  [
+    [
       "2022-06-03, 12:21:41",
       "https://news.ycombinator.com/item?id=31607274"
     ],
     [
       "Goroutines Under the Hood (2020)",
       "https://osmh.dev/posts/goroutines-under-the-hood/"
+    ]
+  ],
+  [
+    [
+      "2022-06-03, 06:26:12",
+      "https://news.ycombinator.com/item?id=31604916"
+    ],
+    [
+      "Abmagick – abuse ImageMagick to create arbitrary files",
+      "https://github.com/jwilk/abmagick"
     ]
   ]
 ]
