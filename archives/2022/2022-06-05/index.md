@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
 * [2022-06-05, 08:35:04](https://news.ycombinator.com/item?id=31629082) - [Thinking beyond privacy: the risks of big tech’s entry into public sectors](https://news.ycombinator.com/)
+* [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:10:10](https://news.ycombinator.com/item?id=31628733) - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
