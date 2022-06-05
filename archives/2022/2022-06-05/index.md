@@ -7,6 +7,7 @@
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
 * [2022-06-05, 08:35:04](https://news.ycombinator.com/item?id=31629082) - [Thinking beyond privacy: the risks of big tech’s entry into public sectors](https://news.ycombinator.com/)
 * [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
+* [2022-06-05, 08:03:13](https://news.ycombinator.com/item?id=31628939) - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:34:16](https://news.ycombinator.com/item?id=31628832) - [RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
