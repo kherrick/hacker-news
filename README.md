@@ -17,6 +17,7 @@
 * [2022-06-04, 22:10:15](https://news.ycombinator.com/item?id=31625569) - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
 * [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM prices crashed by 20% in May](https://tech4gamers.com/ddr5-memory-prices/)
 * [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning is for doing](https://biggestfish.substack.com/p/planning-is-for-doing)
+* [2022-06-04, 21:54:10](https://news.ycombinator.com/item?id=31625472) - [How to stop junk mail](https://consumer.ftc.gov/articles/how-stop-junk-mail)
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 18:48:50](https://news.ycombinator.com/item?id=31623842) - [Solving the housing crisis requires fighting monopolies in construction (2020)](https://www.minneapolisfed.org/research/working-papers/solving-the-housing-crisis-will-require-fighting-monopolies-in-construction)
@@ -27,7 +28,6 @@
 * [2022-06-03, 19:56:02](https://news.ycombinator.com/item?id=31612898) - [Tracing an obsession with the Shakespeare authorship question](https://lithub.com/whats-in-a-name-tracing-an-obsession-with-the-shakespeare-authorship-question/)
 * [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
 * [2022-06-03, 09:34:05](https://news.ycombinator.com/item?id=31606125) - [Heartbeats and heart attacks (2016)](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
-* [2022-06-03, 00:05:50](https://news.ycombinator.com/item?id=31602295) - [My Castaway This Week: the world’s longest-running interview show](https://www.lrb.co.uk/the-paper/v44/n11/miranda-carter/my-castaway-this-week)
 * [2022-06-02, 15:57:47](https://news.ycombinator.com/item?id=31596465) - [Evolution of metamemory in artificial neural network with neuromodulation](https://www.nature.com/articles/s41598-022-10173-4)
 * [2022-06-02, 14:33:55](https://news.ycombinator.com/item?id=31595393) - [Questions candidates can ask about equity compensation](https://www.holloway.com/g/equity-compensation/sections/questions-candidates-can-ask)
 
