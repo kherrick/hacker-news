@@ -27,6 +27,7 @@
 * [2022-06-03, 18:33:08](https://news.ycombinator.com/item?id=31612007) - [Collaborative worldbuilding app with maps, wikis, and whiteboards](https://www.legendkeeper.com)
 * [2022-06-03, 18:31:18](https://news.ycombinator.com/item?id=31611985) - [They were riding pigs, not unicorns: panic in Startupland](https://www.nicolasbustamante.com/p/panic-in-startupland)
 * [2022-06-03, 18:01:55](https://news.ycombinator.com/item?id=31611669) - [Uber loses appeal as top Swiss court rules company is an employer](https://www.reuters.com/business/autos-transportation/uber-loses-appeal-top-swiss-court-rules-company-is-an-employer-2022-06-03/)
+* [2022-06-03, 17:47:47](https://news.ycombinator.com/item?id=31611478) - [It Happened One Day in June](https://theamericanscholar.org/it-happened-one-day-in-june/)
 * [2022-06-03, 17:45:55](https://news.ycombinator.com/item?id=31611456) - [(async) Rust doesn't have to be hard](https://itsallaboutthebit.com/async-simple/)
 * [2022-06-03, 17:41:01](https://news.ycombinator.com/item?id=31611389) - [“I think the vast majority of developers still debug using print() statements”](https://twitter.com/paulg/status/1532448988766650385)
 * [2022-06-03, 17:40:23](https://news.ycombinator.com/item?id=31611379) - [GPT-4chan](https://gpt-4chan.com/)
