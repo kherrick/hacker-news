@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
 * [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+* [2022-06-05, 20:28:23](https://news.ycombinator.com/item?id=31634535) - [In 1997,Wired Mag Predicts Things That Could Go Wrong in the 21st Century](https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html)
+* [2022-06-05, 20:08:14](https://news.ycombinator.com/item?id=31634400) - [Fine dining faces its dark truths in Copenhagen](https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef)
 * [2022-06-05, 20:01:03](https://news.ycombinator.com/item?id=31634333) - [Tesla customer gets new Model 3 with cracks](https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198)
 * [2022-06-05, 19:43:32](https://news.ycombinator.com/item?id=31634206) - [Why won't Gitlab support monthly billing?](https://gitlab.com/gitlab-org/gitlab/-/issues/5595)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
