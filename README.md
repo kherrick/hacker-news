@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-05, 03:55:48](https://news.ycombinator.com/item?id=31627859) - [Xerox PARC’s Engineers on How They Invented the Future–and How Xerox Lost It](https://spectrum.ieee.org/xerox-parc/particle-33)
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [2022-06-05, 02:54:41](https://news.ycombinator.com/item?id=31627561) - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
 * [2022-06-05, 01:42:05](https://news.ycombinator.com/item?id=31627089) - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
@@ -16,6 +15,7 @@
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless desktop containers for everyday development](https://dock.orion3.space/readme.htm)
 * [2022-06-04, 21:00:47](https://news.ycombinator.com/item?id=31625011) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2022-06-04, 19:52:32](https://news.ycombinator.com/item?id=31624401) - [Ask HN: Anyone else quickly losing confidence in Amazon?](https://news.ycombinator.com/item?id=31624401)
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
