@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-06-05, 00:05:42",
+      "https://news.ycombinator.com/item?id=31626508"
+    ],
+    [
+      "Why Rust easily optimizes out smart pointers where C++ cannot?",
+      "https://news.ycombinator.com/item?id=31626508"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 23:35:08",
+      "https://news.ycombinator.com/item?id=31626268"
+    ],
+    [
+      "Show HN: Grid.js – Advanced table library that works everywhere (2020)",
+      "https://gridjs.io/?hn"
+    ]
+  ],
+  [
+    [
+      "2022-06-04, 23:19:49",
+      "https://news.ycombinator.com/item?id=31626132"
+    ],
+    [
+      "Architecture Notes: Fallacies of Distributed Systems",
+      "https://architecturenotes.co/fallacies-of-distributed-systems/"
+    ]
+  ],
+  [
+    [
       "2022-06-04, 23:11:07",
       "https://news.ycombinator.com/item?id=31626049"
     ],
     [
-      "Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It(1985)",
+      "Xerox PARC staff on how they invented the future and how Xerox lost it (1985)",
       "https://spectrum.ieee.org/xerox-parc"
     ]
   ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-06-04, 21:15:05",
-      "https://news.ycombinator.com/item?id=31625150"
-    ],
-    [
-      "Republic UK",
-      "https://www.republic.org.uk/"
-    ]
-  ],
-  [
-    [
       "2022-06-04, 21:07:48",
       "https://news.ycombinator.com/item?id=31625086"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-06-04, 19:12:34",
-      "https://news.ycombinator.com/item?id=31624062"
-    ],
-    [
-      "On Stretch Rap (and containers and shipping)",
-      "https://theprepared.org/features-feed/stretch-wrap"
-    ]
-  ],
-  [
-    [
       "2022-06-04, 18:48:50",
       "https://news.ycombinator.com/item?id=31623842"
     ],
@@ -187,16 +197,6 @@
     [
       "The children of atomic bomb survivors: A genetic study",
       "https://www.ncbi.nlm.nih.gov/books/NBK234265/"
-    ]
-  ],
-  [
-    [
-      "2022-06-04, 16:15:48",
-      "https://news.ycombinator.com/item?id=31622128"
-    ],
-    [
-      "Brave’s use of direct mailers",
-      "https://brave.com/usps-mailers/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-06-04, 02:27:41",
-      "https://news.ycombinator.com/item?id=31616340"
-    ],
-    [
-      "A privately funded killer asteroid spotter",
-      "https://www.wired.com/story/the-first-privately-funded-killer-asteroid-spotter-is-here/"
-    ]
-  ],
-  [
-    [
       "2022-06-03, 21:35:46",
       "https://news.ycombinator.com/item?id=31613961"
     ],
@@ -287,6 +277,16 @@
     [
       "Research Confirms Eastern Wyoming Paleoindian Site as Americas’ Oldest Mine",
       "https://www.uwyo.edu/uw/news/2022/05/research-confirms-eastern-wyoming-paleoindian-site-as-americas-oldest-mine.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-02, 15:09:44",
+      "https://news.ycombinator.com/item?id=31595831"
+    ],
+    [
+      "Abba and the rise of the work-from-home rock star",
+      "https://www.economist.com/culture/2022/05/27/abba-and-the-rise-of-the-work-from-home-rock-star"
     ]
   ],
   [
