@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [2022-06-05, 02:54:41](https://news.ycombinator.com/item?id=31627561) - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
 * [2022-06-05, 01:42:05](https://news.ycombinator.com/item?id=31627089) - [Meet developers 1:1 every week and team up on projects](https://connectdome.com)
@@ -24,7 +25,6 @@
 * [2022-06-04, 12:00:40](https://news.ycombinator.com/item?id=31619340) - [The Cabin on the Mountain](https://longreads.com/2022/03/29/lateral-thinking-colin-dickey/)
 * [2022-06-04, 05:32:39](https://news.ycombinator.com/item?id=31617298) - [Building a World’s Fair: A Closer Look](https://opensfhistory.org/news/2022/02/20/building-a-worlds-fair-a-closer-look/)
 * [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
-* [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-03, 09:34:05](https://news.ycombinator.com/item?id=31606125) - [Heartbeats and heart attacks (2016)](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
 * [2022-06-03, 04:18:32](https://news.ycombinator.com/item?id=31604243) - [Research Confirms Eastern Wyoming Paleoindian Site as Americas’ Oldest Mine](https://www.uwyo.edu/uw/news/2022/05/research-confirms-eastern-wyoming-paleoindian-site-as-americas-oldest-mine.html)
 * [2022-06-03, 00:05:50](https://news.ycombinator.com/item?id=31602295) - [My Castaway This Week: the world’s longest-running interview show](https://www.lrb.co.uk/the-paper/v44/n11/miranda-carter/my-castaway-this-week)
