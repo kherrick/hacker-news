@@ -54,6 +54,7 @@
 * [2022-06-03, 12:00:19](https://news.ycombinator.com/item?id=31607127) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-06-03, 10:37:56](https://news.ycombinator.com/item?id=31606573) - [Netlify: Improved workflow and new role for pricing changes](https://www.netlify.com/blog/changes-to-our-recent-pricing-update/)
 * [2022-06-03, 10:01:29](https://news.ycombinator.com/item?id=31606334) - [Dalle2 generates fascinating images of Kermit The Frog in various films](https://twitter.com/HvnsLstAngel/status/1531506455714492416)
+* [2022-06-03, 09:34:05](https://news.ycombinator.com/item?id=31606125) - [Heartbeats and heart attacks (2016)](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
 * [2022-06-03, 09:20:10](https://news.ycombinator.com/item?id=31606011) - [GSoC 22: Adding features to Thunar file manager](https://hi-im-buggy.github.io/blog/gsoc-22-first-blog-post)
 * [2022-06-03, 09:19:03](https://news.ycombinator.com/item?id=31606003) - [C library for multiple-precision floating-point arithmetic with correct rounding](https://www.mpfr.org/)
 * [2022-06-03, 09:11:06](https://news.ycombinator.com/item?id=31605939) - [Senate Bill S6486D Establishes a moratorium on cryptocurrency mining](https://www.nysenate.gov/legislation/bills/2021/S6486)
