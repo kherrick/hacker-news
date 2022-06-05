@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 14:12:33](https://news.ycombinator.com/item?id=31631144) - [Tell HN: Please Stop Using Imgur](https://news.ycombinator.com/item?id=31631144)
 * [2022-06-05, 13:42:59](https://news.ycombinator.com/item?id=31630915) - [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
 * [2022-06-05, 13:27:45](https://news.ycombinator.com/item?id=31630795) - [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
+* [2022-06-05, 13:20:58](https://news.ycombinator.com/item?id=31630736) - [Deep Learning Opacity In Scientific Discovery](https://arxiv.org/abs/2206.00520)
 * [2022-06-05, 13:13:57](https://news.ycombinator.com/item?id=31630679) - [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
 * [2022-06-05, 12:51:17](https://news.ycombinator.com/item?id=31630529) - [I Had Ramen Every Day for a Week, Here's What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
