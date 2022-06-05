@@ -34,6 +34,7 @@
 * [2022-06-04, 16:24:58](https://news.ycombinator.com/item?id=31622250) - [The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The Children of Atomic Bomb Survivors: A Genetic Study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
 * [2022-06-04, 16:15:48](https://news.ycombinator.com/item?id=31622128) - [Brave’s Use of Direct Mailers](https://brave.com/usps-mailers/)
+* [2022-06-04, 15:58:25](https://news.ycombinator.com/item?id=31621900) - [Heightened dream recall linked to increased creativity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139)
 * [2022-06-04, 15:27:27](https://news.ycombinator.com/item?id=31621437) - [The Power C Compiler](http://www.mixsoftware.com/product/powerc.htm)
 * [2022-06-04, 15:02:09](https://news.ycombinator.com/item?id=31621101) - [Norway to Track All Supermarket Purchases](https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/)
 * [2022-06-04, 14:55:04](https://news.ycombinator.com/item?id=31621013) - [Ask HN: What should have been the term for RAII?](https://news.ycombinator.com/item?id=31621013)
