@@ -2,7 +2,7 @@
 
 * [2022-06-05, 07:10:10](https://news.ycombinator.com/item?id=31628733) - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
-* [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
+* [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft](https://mlabonne.github.io/blog/minecraft/)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [One Guy Ruined Hacktoberfest 2020 (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [2022-06-05, 02:54:41](https://news.ycombinator.com/item?id=31627561) - [Reinforcement Learning as One Big Sequence Modeling Problem](https://trajectory-transformer.github.io/)
