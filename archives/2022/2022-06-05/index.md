@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 21:16:56](https://news.ycombinator.com/item?id=31634937) - [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
 * [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+* [2022-06-05, 20:50:37](https://news.ycombinator.com/item?id=31634704) - [Ask HN: Has anyone successfully used LibreOffice for their business?](https://news.ycombinator.com/item?id=31634704)
 * [2022-06-05, 20:31:45](https://news.ycombinator.com/item?id=31634560) - [Why I'm using Fossil SCM instead of other source control systems](https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems)
 * [2022-06-05, 20:28:23](https://news.ycombinator.com/item?id=31634535) - [In 1997,Wired Mag Predicts Things That Could Go Wrong in the 21st Century](https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html)
 * [2022-06-05, 20:08:14](https://news.ycombinator.com/item?id=31634400) - [Fine dining faces its dark truths in Copenhagen](https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef)
