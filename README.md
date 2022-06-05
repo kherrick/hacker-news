@@ -6,7 +6,6 @@
 * [2022-06-05, 16:52:13](https://news.ycombinator.com/item?id=31632680) - [LSD microdosing does not appear to improve mood, new placebo-controlled study](https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277)
 * [2022-06-05, 16:09:13](https://news.ycombinator.com/item?id=31632230) - [Twee Editors(2005)](https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors)
 * [2022-06-05, 16:00:06](https://news.ycombinator.com/item?id=31632137) - [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
-* [2022-06-05, 15:27:12](https://news.ycombinator.com/item?id=31631831) - [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
@@ -26,10 +25,11 @@
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It costs $110k to fully gear up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:34:16](https://news.ycombinator.com/item?id=31628832) - [RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [How one guy ruined Hacktoberfest (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
-* [2022-06-05, 03:26:07](https://news.ycombinator.com/item?id=31627724) - [Qualcomm wants to buy ARM and it may need Samsung's help](https://www.sammobile.com/news/qualcomm-wants-to-buy-arm-need-samsungs-help/)
+* [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 05:37:26](https://news.ycombinator.com/item?id=31617325) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood](https://osmh.dev/posts/goroutines-under-the-hood/)
+* [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
 
 ## [Archives](archives/index.md)
 
