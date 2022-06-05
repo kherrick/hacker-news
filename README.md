@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
+* [2022-06-05, 19:01:34](https://news.ycombinator.com/item?id=31633857) - [Eating Sea Squirts May Reverse the Signs of Ageing, Study Shows](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
+* [2022-06-05, 18:16:25](https://news.ycombinator.com/item?id=31633481) - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
 * [2022-06-05, 17:06:32](https://news.ycombinator.com/item?id=31632801) - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 * [2022-06-05, 17:01:00](https://news.ycombinator.com/item?id=31632754) - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
 * [2022-06-05, 16:56:16](https://news.ycombinator.com/item?id=31632714) - [Crypto Industry Eclipses Defense, Big Pharma in US Political Giving](https://www.bloomberg.com/news/articles/2022-06-02/crypto-industry-eclipses-defense-big-pharma-in-political-giving)
@@ -9,10 +12,8 @@
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
-* [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Restarting my career after motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
 * [2022-06-05, 13:42:59](https://news.ycombinator.com/item?id=31630915) - [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
 * [2022-06-05, 13:27:45](https://news.ycombinator.com/item?id=31630795) - [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
-* [2022-06-05, 13:20:58](https://news.ycombinator.com/item?id=31630736) - [Deep Learning Opacity In Scientific Discovery](https://arxiv.org/abs/2206.00520)
 * [2022-06-05, 13:20:54](https://news.ycombinator.com/item?id=31630734) - [Riding London’s unexpectedly fantastic Elizabeth line](https://www.newyorker.com/news/letter-from-the-uk/riding-londons-unexpectedly-fantastic-elizabeth-line)
 * [2022-06-05, 13:13:57](https://news.ycombinator.com/item?id=31630679) - [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
 * [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [The Philistines were likely of Greek origin, according to DNA](https://greekreporter.com/2022/05/18/philistines-greek/)
@@ -28,8 +29,7 @@
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 05:37:26](https://news.ycombinator.com/item?id=31617325) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
-* [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood](https://osmh.dev/posts/goroutines-under-the-hood/)
-* [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
+* [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood (2020)](https://osmh.dev/posts/goroutines-under-the-hood/)
 
 ## [Archives](archives/index.md)
 
