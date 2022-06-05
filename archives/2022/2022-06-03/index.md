@@ -44,6 +44,7 @@
 * [2022-06-03, 14:57:03](https://news.ycombinator.com/item?id=31609175) - [40k coin tosses yield ambiguous evidence for dynamical bias](https://www.stat.berkeley.edu/~aldous/Real-World/coin_tosses.html)
 * [2022-06-03, 14:38:44](https://news.ycombinator.com/item?id=31608910) - [NASA just bought the rest of the space station crew flights from SpaceX](https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/)
 * [2022-06-03, 14:22:36](https://news.ycombinator.com/item?id=31608684) - [Honestly? Don't Send to Gmail over IPv6](https://www.spamresource.com/2020/11/honestly-dont-send-to-gmail-over-ipv6.html)
+* [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
 * [2022-06-03, 14:01:01](https://news.ycombinator.com/item?id=31608397) - [Ask HN: How do you stay focused at work?](https://news.ycombinator.com/item?id=31608397)
 * [2022-06-03, 13:28:53](https://news.ycombinator.com/item?id=31607948) - [Brain-Signal Proteins Evolved Before Animals Did](https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/)
 * [2022-06-03, 13:28:42](https://news.ycombinator.com/item?id=31607942) - [Indoor air filtration could lead to increased airborne endotoxin levels](https://www.sciencedirect.com/science/article/pii/S016041202031833X)

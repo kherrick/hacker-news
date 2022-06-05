@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:10:10](https://news.ycombinator.com/item?id=31628733) - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
@@ -22,10 +23,9 @@
 * [2022-06-04, 16:55:55](https://news.ycombinator.com/item?id=31622646) - [Japan tested a giant turbine that generates electricity using deep ocean current](https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html)
 * [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2022-06-04, 16:19:41](https://news.ycombinator.com/item?id=31622182) - [The children of atomic bomb survivors: A genetic study](https://www.ncbi.nlm.nih.gov/books/NBK234265/)
-* [2022-06-04, 14:27:10](https://news.ycombinator.com/item?id=31620700) - [Ask HN: What is the best jurisdiction for internationally distributed teams?](https://news.ycombinator.com/item?id=31620700)
 * [2022-06-04, 13:22:28](https://news.ycombinator.com/item?id=31620029) - [Wooden Towers to Help Cut Cost of Wind Turbines](https://cleantechnica.com/2022/05/31/wooden-towers-to-help-cut-the-cost-of-wind-turbines-even-more/)
-* [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
 * [2022-06-03, 20:05:04](https://news.ycombinator.com/item?id=31612981) - [Fit Pics: The history of athletic fashion for women](https://www.bookforum.com/print/2902/the-history-of-athletic-fashion-for-women-24936)
+* [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
 * [2022-06-03, 09:34:05](https://news.ycombinator.com/item?id=31606125) - [Heartbeats and heart attacks (2016)](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
 * [2022-06-03, 00:05:50](https://news.ycombinator.com/item?id=31602295) - [My Castaway This Week: the world’s longest-running interview show](https://www.lrb.co.uk/the-paper/v44/n11/miranda-carter/my-castaway-this-week)
 * [2022-06-02, 15:09:44](https://news.ycombinator.com/item?id=31595831) - [ABBA and the rise of the work-from-home rock star](https://www.economist.com/culture/2022/05/27/abba-and-the-rise-of-the-work-from-home-rock-star)
