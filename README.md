@@ -28,7 +28,7 @@
 * [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
-* [2022-06-04, 05:37:26](https://news.ycombinator.com/item?id=31617325) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
+* [2022-06-04, 14:25:28](https://news.ycombinator.com/item?id=31620679) - [Seeing the Clouds with the Cloud](https://nickgregory.me/meteorology/2022/06/03/azure-orbital/)
 * [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood (2020)](https://osmh.dev/posts/goroutines-under-the-hood/)
 
 ## [Archives](archives/index.md)
