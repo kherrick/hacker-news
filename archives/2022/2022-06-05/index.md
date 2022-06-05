@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
 * [2022-06-05, 20:01:03](https://news.ycombinator.com/item?id=31634333) - [Tesla customer gets new Model 3 with cracks](https://efahrer.chip.de/news/tesla-kunde-bekommt-neues-model-3-mit-rissen-so-kommt-er-nicht-durch-den-tuev_108198)
 * [2022-06-05, 19:43:32](https://news.ycombinator.com/item?id=31634206) - [Why won't Gitlab support monthly billing?](https://gitlab.com/gitlab-org/gitlab/-/issues/5595)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
@@ -19,6 +20,7 @@
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
+* [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Notkia: Linux phone in the shape of Nokia, with LoRa + WiFI + BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
 * [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
 * [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Slaps to the Face: Restarting My Career After Motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
 * [2022-06-05, 14:12:33](https://news.ycombinator.com/item?id=31631144) - [Tell HN: Please Stop Using Imgur](https://news.ycombinator.com/item?id=31631144)
@@ -30,6 +32,7 @@
 * [2022-06-05, 13:20:54](https://news.ycombinator.com/item?id=31630734) - [Riding London’s Unexpectedly Fantastic Elizabeth Line](https://www.newyorker.com/news/letter-from-the-uk/riding-londons-unexpectedly-fantastic-elizabeth-line)
 * [2022-06-05, 13:13:57](https://news.ycombinator.com/item?id=31630679) - [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
 * [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [The Philistines were likely of Greek origin, according to DNA](https://greekreporter.com/2022/05/18/philistines-greek/)
+* [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [Ancient DNA may reveal origin of the Philistines](https://www.nationalgeographic.com/culture/article/ancient-dna-reveal-philistine-origins)
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630610) - [Show HN: To prevent dry eyes and back pain, I create a macOS app](https://news.ycombinator.com/item?id=31630610)
 * [2022-06-05, 12:51:17](https://news.ycombinator.com/item?id=31630529) - [I Had Ramen Every Day for a Week, Here's What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
