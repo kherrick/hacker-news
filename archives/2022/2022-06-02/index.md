@@ -52,6 +52,7 @@
 * [2022-06-02, 15:16:27](https://news.ycombinator.com/item?id=31595919) - [Formal Methods Only Solve Half My Problems](https://brooker.co.za/blog/2022/06/02/formal.html)
 * [2022-06-02, 15:15:09](https://news.ycombinator.com/item?id=31595899) - [Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010)](https://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/)
 * [2022-06-02, 15:14:48](https://news.ycombinator.com/item?id=31595894) - [How To Remember Anything Forever-ish (2018)](https://ncase.me/remember/)
+* [2022-06-02, 15:09:44](https://news.ycombinator.com/item?id=31595831) - [Abba and the rise of the work-from-home rock star](https://www.economist.com/culture/2022/05/27/abba-and-the-rise-of-the-work-from-home-rock-star)
 * [2022-06-02, 15:09:16](https://news.ycombinator.com/item?id=31595822) - [Svelvet Launches Today](https://svelvet.io/)
 * [2022-06-02, 15:05:58](https://news.ycombinator.com/item?id=31595790) - [A recession in America by 2024 looks likely](https://www.economist.com/leaders/2022/06/02/a-recession-in-america-by-2024-looks-likely)
 * [2022-06-02, 15:02:55](https://news.ycombinator.com/item?id=31595751) - [The Linux cheat command](https://opensource.com/article/22/6/linux-cheat-command)

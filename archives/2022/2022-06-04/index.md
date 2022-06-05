@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-04](index.md)
 
+* [2022-06-04, 23:35:08](https://news.ycombinator.com/item?id=31626268) - [Show HN: Grid.js – Advanced table library that works everywhere (2020)](https://gridjs.io/?hn)
+* [2022-06-04, 23:19:49](https://news.ycombinator.com/item?id=31626132) - [Architecture Notes: Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
 * [2022-06-04, 23:11:07](https://news.ycombinator.com/item?id=31626049) - [Xerox PARC Engineers on How They Invented the Future–and How Xerox Lost It(1985)](https://spectrum.ieee.org/xerox-parc)
 * [2022-06-04, 22:39:34](https://news.ycombinator.com/item?id=31625804) - [StopTheMadness – Take back your web browser](https://underpassapp.com/StopTheMadness/)
 * [2022-06-04, 22:10:15](https://news.ycombinator.com/item?id=31625569) - [Ulstein X-BOW inverted bow](https://ulstein.com/innovations/x-bow)
