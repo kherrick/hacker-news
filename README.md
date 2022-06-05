@@ -23,7 +23,7 @@
 * [2022-06-04, 21:56:32](https://news.ycombinator.com/item?id=31625489) - [Planning is for doing](https://biggestfish.substack.com/p/planning-is-for-doing)
 * [2022-06-04, 21:45:14](https://news.ycombinator.com/item?id=31625407) - [Albert – open-source keyboard launcher for Linux](https://albertlauncher.github.io/)
 * [2022-06-04, 21:07:48](https://news.ycombinator.com/item?id=31625086) - [Painless desktop containers for everyday development](https://dock.orion3.space/readme.htm)
-* [2022-06-04, 16:48:11](https://news.ycombinator.com/item?id=31622548) - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+* [2022-06-04, 06:11:46](https://news.ycombinator.com/item?id=31617508) - [About MT3 profile and /dev/tty set](https://matt3o.com/about-mt3-profile-and-devtty-set/)
 * [2022-06-03, 19:56:02](https://news.ycombinator.com/item?id=31612898) - [Tracing an obsession with the Shakespeare authorship question](https://lithub.com/whats-in-a-name-tracing-an-obsession-with-the-shakespeare-authorship-question/)
 * [2022-06-03, 17:47:47](https://news.ycombinator.com/item?id=31611478) - [It Happened One Day in June](https://theamericanscholar.org/it-happened-one-day-in-june/)
 * [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
