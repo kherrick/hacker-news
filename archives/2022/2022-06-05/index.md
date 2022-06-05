@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 17:01:00](https://news.ycombinator.com/item?id=31632754) - [Emerge Tools is building the future of mobile performance, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/JWtyqvs-senior-android-engineer)
+* [2022-06-05, 16:09:13](https://news.ycombinator.com/item?id=31632230) - [Twee Editors(2005)](https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors)
 * [2022-06-05, 16:00:06](https://news.ycombinator.com/item?id=31632137) - [I only care about the helpful notifications, not the promotional ones](https://alexanderell.is/posts/sneaking-notifications/)
 * [2022-06-05, 15:27:12](https://news.ycombinator.com/item?id=31631831) - [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
@@ -19,6 +21,7 @@
 * [2022-06-05, 13:20:58](https://news.ycombinator.com/item?id=31630736) - [Deep Learning Opacity In Scientific Discovery](https://arxiv.org/abs/2206.00520)
 * [2022-06-05, 13:20:54](https://news.ycombinator.com/item?id=31630734) - [Riding London’s Unexpectedly Fantastic Elizabeth Line](https://www.newyorker.com/news/letter-from-the-uk/riding-londons-unexpectedly-fantastic-elizabeth-line)
 * [2022-06-05, 13:13:57](https://news.ycombinator.com/item?id=31630679) - [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
+* [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [The Philistines were likely of Greek origin, according to DNA](https://greekreporter.com/2022/05/18/philistines-greek/)
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630610) - [Show HN: To prevent dry eyes and back pain, I create a macOS app](https://news.ycombinator.com/item?id=31630610)
 * [2022-06-05, 12:51:17](https://news.ycombinator.com/item?id=31630529) - [I Had Ramen Every Day for a Week, Here's What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
