@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 04:49:10](https://news.ycombinator.com/item?id=31628112) - [Enough Is Enough: The Criminal Case Against Mark Zuckerberg](https://mattstoller.substack.com/p/enough-is-enough-the-criminal-case)
 * [2022-06-05, 03:55:48](https://news.ycombinator.com/item?id=31627859) - [Xerox PARC’s Engineers on How They Invented the Future–and How Xerox Lost It](https://spectrum.ieee.org/xerox-parc/particle-33)
 * [2022-06-05, 03:08:32](https://news.ycombinator.com/item?id=31627633) - [Work from Home and the Office Real Estate Apocalypse](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 * [2022-06-05, 03:05:11](https://news.ycombinator.com/item?id=31627620) - [Welcome Tesla friends, we're Atlassian and we work from anywhere. Apply now](https://www.atlassian.com/company/careers)
