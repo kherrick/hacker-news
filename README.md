@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
 * [2022-06-05, 14:12:33](https://news.ycombinator.com/item?id=31631144) - [Tell HN: Please Stop Using Imgur](https://news.ycombinator.com/item?id=31631144)
 * [2022-06-05, 13:42:59](https://news.ycombinator.com/item?id=31630915) - [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
 * [2022-06-05, 13:27:45](https://news.ycombinator.com/item?id=31630795) - [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
@@ -21,8 +22,7 @@
 * [2022-06-05, 01:37:04](https://news.ycombinator.com/item?id=31627061) - [GitHub user sends notification to 400k users](https://github.com/EpicGames/Signup/pull/24)
 * [2022-06-05, 00:57:59](https://news.ycombinator.com/item?id=31626830) - [First triangle ever rendered on an M1 Mac with a fully open-source driver](https://twitter.com/AsahiLinux/status/1532035506539995136)
 * [2022-06-04, 23:35:08](https://news.ycombinator.com/item?id=31626268) - [Show HN: Grid.js – Advanced table library that works everywhere (2020)](https://gridjs.io/?hn)
-* [2022-06-04, 23:19:49](https://news.ycombinator.com/item?id=31626132) - [Fallacies of distributed systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
-* [2022-06-04, 23:11:07](https://news.ycombinator.com/item?id=31626049) - [Xerox PARC’s engineers on how they invented the future and Xerox lost it (1985)](https://spectrum.ieee.org/xerox-parc)
+* [2022-06-04, 22:00:15](https://news.ycombinator.com/item?id=31625509) - [DDR5 RAM prices crashed by 20% in May](https://tech4gamers.com/ddr5-memory-prices/)
 * [2022-06-04, 06:11:46](https://news.ycombinator.com/item?id=31617508) - [About MT3 profile and /dev/tty set](https://matt3o.com/about-mt3-profile-and-devtty-set/)
 * [2022-06-03, 19:56:02](https://news.ycombinator.com/item?id=31612898) - [Tracing an obsession with the Shakespeare authorship question](https://lithub.com/whats-in-a-name-tracing-an-obsession-with-the-shakespeare-authorship-question/)
 * [2022-06-03, 17:47:47](https://news.ycombinator.com/item?id=31611478) - [It Happened One Day in June](https://theamericanscholar.org/it-happened-one-day-in-june/)
