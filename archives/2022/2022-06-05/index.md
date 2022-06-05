@@ -46,6 +46,7 @@
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [One Guy Ruined Hacktoberfest 2020 (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
+* [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
 * [2022-06-05, 04:49:10](https://news.ycombinator.com/item?id=31628112) - [Enough Is Enough: The Criminal Case Against Mark Zuckerberg](https://mattstoller.substack.com/p/enough-is-enough-the-criminal-case)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-05, 03:55:48](https://news.ycombinator.com/item?id=31627859) - [Xerox PARC’s Engineers on How They Invented the Future–and How Xerox Lost It](https://spectrum.ieee.org/xerox-parc/particle-33)
