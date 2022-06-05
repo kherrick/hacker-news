@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
+* [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 * [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
 * [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Slaps to the Face: Restarting My Career After Motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)

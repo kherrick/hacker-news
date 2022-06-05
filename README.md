@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 * [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
-* [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Slaps to the Face: Restarting My Career After Motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
+* [2022-06-05, 14:16:14](https://news.ycombinator.com/item?id=31631173) - [Restarting My Career After Motherhood](https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5)
 * [2022-06-05, 13:46:07](https://news.ycombinator.com/item?id=31630946) - [Why Gas Stoves Are More Hazardous Than We’ve Been Led to Believe (2020)](https://slate.com/technology/2020/12/gas-stoves-hazardous-asthma.html)
 * [2022-06-05, 13:42:59](https://news.ycombinator.com/item?id=31630915) - [Ask HN: Examples of Good Technical Writing?](https://news.ycombinator.com/item?id=31630915)
 * [2022-06-05, 13:27:45](https://news.ycombinator.com/item?id=31630795) - [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
@@ -29,7 +30,6 @@
 * [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
 * [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
 * [2022-06-03, 06:24:06](https://news.ycombinator.com/item?id=31604906) - [Older iPads May Soon Be Able to Run Linux](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
-* [2022-06-02, 15:57:47](https://news.ycombinator.com/item?id=31596465) - [Evolution of metamemory in artificial neural network with neuromodulation](https://www.nature.com/articles/s41598-022-10173-4)
 
 ## [Archives](archives/index.md)
 
