@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
-* [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
 * [2022-06-05, 08:03:13](https://news.ycombinator.com/item?id=31628939) - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
@@ -28,6 +27,7 @@
 * [2022-06-03, 14:08:51](https://news.ycombinator.com/item?id=31608491) - [Scarcity and precarity in small manufacturing](https://llllllll.co/t/scarcity-and-precarity-in-small-manufacturing/55896)
 * [2022-06-03, 09:34:05](https://news.ycombinator.com/item?id=31606125) - [Heartbeats and heart attacks (2016)](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
 * [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
+* [2022-06-03, 00:05:50](https://news.ycombinator.com/item?id=31602295) - [My Castaway This Week: the world’s longest-running interview show](https://www.lrb.co.uk/the-paper/v44/n11/miranda-carter/my-castaway-this-week)
 * [2022-06-02, 15:57:47](https://news.ycombinator.com/item?id=31596465) - [Evolution of metamemory in artificial neural network with neuromodulation](https://www.nature.com/articles/s41598-022-10173-4)
 * [2022-06-02, 15:09:44](https://news.ycombinator.com/item?id=31595831) - [ABBA and the rise of the work-from-home rock star](https://www.economist.com/culture/2022/05/27/abba-and-the-rise-of-the-work-from-home-rock-star)
 
