@@ -24,10 +24,10 @@
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I cheated on my Microsoft interview (2019)](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It costs $110k to fully gear up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:34:16](https://news.ycombinator.com/item?id=31628832) - [RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
-* [2022-06-05, 07:10:10](https://news.ycombinator.com/item?id=31628733) - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [How one guy ruined Hacktoberfest (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 * [2022-06-05, 03:26:07](https://news.ycombinator.com/item?id=31627724) - [Qualcomm wants to buy ARM and it may need Samsung's help](https://www.sammobile.com/news/qualcomm-wants-to-buy-arm-need-samsungs-help/)
 * [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
+* [2022-06-04, 05:37:26](https://news.ycombinator.com/item?id=31617325) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-03, 12:21:41](https://news.ycombinator.com/item?id=31607274) - [Goroutines Under the Hood](https://osmh.dev/posts/goroutines-under-the-hood/)
 * [2022-06-03, 06:26:12](https://news.ycombinator.com/item?id=31604916) - [Abmagick – abuse ImageMagick to create arbitrary files](https://github.com/jwilk/abmagick)
 

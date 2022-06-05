@@ -65,6 +65,7 @@
 * [2022-06-04, 07:28:43](https://news.ycombinator.com/item?id=31617921) - [Pixel Art: Common Mistakes (2020)](https://derekyu.com/makegames/pixelart2.html)
 * [2022-06-04, 06:28:03](https://news.ycombinator.com/item?id=31617600) - [Rr](https://rr-project.org/)
 * [2022-06-04, 06:11:46](https://news.ycombinator.com/item?id=31617508) - [About MT3 profile and /dev/tty set](https://matt3o.com/about-mt3-profile-and-devtty-set/)
+* [2022-06-04, 05:37:26](https://news.ycombinator.com/item?id=31617325) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-04, 05:32:39](https://news.ycombinator.com/item?id=31617298) - [Building a World’s Fair: A Closer Look](https://opensfhistory.org/news/2022/02/20/building-a-worlds-fair-a-closer-look/)
 * [2022-06-04, 05:28:50](https://news.ycombinator.com/item?id=31617282) - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 * [2022-06-04, 05:09:34](https://news.ycombinator.com/item?id=31617198) - [Linux Laptop – HP Dev One Is Available](https://hpdevone.com/#specs)
