@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 * [2022-06-06, 13:16:47](https://news.ycombinator.com/item?id=31640049) - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
-* [2022-06-06, 13:14:17](https://news.ycombinator.com/item?id=31640019) - [Musk SEC Filing](https://www.sec.gov/Archives/edgar/data/0001418091/000110465922068347/tm2217761d1_sc13da.htm)
+* [2022-06-06, 12:48:28](https://news.ycombinator.com/item?id=31639788) - [Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d)
 * [2022-06-06, 12:01:05](https://news.ycombinator.com/item?id=31639376) - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
 * [2022-06-06, 11:59:08](https://news.ycombinator.com/item?id=31639354) - [The Surreal Case of a CIA Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
 * [2022-06-06, 11:42:01](https://news.ycombinator.com/item?id=31639232) - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
@@ -12,7 +13,6 @@
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:32:35](https://news.ycombinator.com/item?id=31638058) - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain text, with lines](http://akkartik.name/lines.html)
-* [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 06:12:37](https://news.ycombinator.com/item?id=31637664) - [Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe](https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
