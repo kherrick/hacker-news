@@ -21,7 +21,7 @@
 * [2022-06-05, 21:48:44](https://news.ycombinator.com/item?id=31635145) - [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
 * [2022-06-05, 21:16:56](https://news.ycombinator.com/item?id=31634937) - [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
-* [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+* [2022-06-05, 21:00:28](https://news.ycombinator.com/item?id=31634813) - [Cannoli – High-performance QEMU memory and instruction tracing](https://github.com/MarginResearch/cannoli)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
