@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:32:35](https://news.ycombinator.com/item?id=31638058) - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
