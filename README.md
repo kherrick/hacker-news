@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 13:52:42](https://news.ycombinator.com/item?id=31640479) - [I Rented an Electric Car for 4 Days and Spent More Time Charging Than Sleeping](https://www.wsj.com/articles/i-rented-an-electric-car-for-a-four-day-road-trip-i-spent-more-time-charging-it-than-i-did-sleeping-11654268401)
+* [2022-06-06, 13:52:18](https://news.ycombinator.com/item?id=31640470) - [Yandex Founder and CEO, Arkady Volozh, Sanctioned by the EU](https://ir.yandex/press-releases?year=2022)
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 * [2022-06-06, 13:16:47](https://news.ycombinator.com/item?id=31640049) - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 * [2022-06-06, 12:59:01](https://news.ycombinator.com/item?id=31639879) - [Show HN: WunderGraph – open-source API Developer Toolkit](https://news.ycombinator.com/item?id=31639879)
@@ -11,7 +13,6 @@
 * [2022-06-06, 10:16:41](https://news.ycombinator.com/item?id=31638746) - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
-* [2022-06-06, 07:32:35](https://news.ycombinator.com/item?id=31638058) - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain text, with lines](http://akkartik.name/lines.html)
 * [2022-06-06, 06:12:37](https://news.ycombinator.com/item?id=31637664) - [Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe](https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
@@ -25,7 +26,6 @@
 * [2022-06-06, 00:07:39](https://news.ycombinator.com/item?id=31636036) - [Dashy – A self-hosted homepage for your homelab](https://github.com/Lissy93/dashy)
 * [2022-06-05, 14:31:09](https://news.ycombinator.com/item?id=31631308) - [Video codecs and 4k](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
 * [2022-06-05, 12:00:36](https://news.ycombinator.com/item?id=31630193) - [Symphonic Metal Bands: Nerdiness vs. Kickassery – A Statistical Analysis](https://medium.com/@WolframHempel_82303/symphonic-metal-bands-nerdiness-vs-kickassery-a-statistical-analysis-7c6ec4064286)
-* [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
 * [2022-06-05, 07:22:03](https://news.ycombinator.com/item?id=31628780) - [Dubious Ways to Compute the Zeros of a Polynomial](https://blogs.mathworks.com/cleve/2016/06/27/19-dubious-ways-to-compute-the-zeros-of-a-polynomial/)
 * [2022-06-05, 07:18:30](https://news.ycombinator.com/item?id=31628766) - [The Metaphysics of Morrowind (2010)](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
 * [2022-06-05, 04:30:04](https://news.ycombinator.com/item?id=31628027) - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
