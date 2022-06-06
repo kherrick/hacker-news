@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 20:48:48](https://news.ycombinator.com/item?id=31646043) - [Axon Ditches Plan for Weaponized Taser Drones (Majority of Ethics Board Resigns)](https://www.wsj.com/articles/axon-ditches-plans-for-weaponized-taser-drones-as-majority-of-ethics-board-resigns-11654545598)
 * [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 * [2022-06-06, 20:14:44](https://news.ycombinator.com/item?id=31645571) - [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)
 * [2022-06-06, 20:13:21](https://news.ycombinator.com/item?id=31645558) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
@@ -52,6 +53,7 @@
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
+* [2022-06-06, 07:41:43](https://news.ycombinator.com/item?id=31638111) - [Hopular: Modern Hopfield Networks for Tabular Data](https://paperswithcode.com/paper/hopular-modern-hopfield-networks-for-tabular-1)
 * [2022-06-06, 07:32:35](https://news.ycombinator.com/item?id=31638058) - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
 * [2022-06-06, 07:31:46](https://news.ycombinator.com/item?id=31638054) - [Building an App with Next.js and Electron](https://blog.logrocket.com/building-app-next-js-electron/)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
