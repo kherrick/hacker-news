@@ -20,6 +20,7 @@
 * [2022-06-05, 21:16:56](https://news.ycombinator.com/item?id=31634937) - [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
 * [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
+* [2022-06-05, 21:00:28](https://news.ycombinator.com/item?id=31634813) - [Cannoli – High-performance QEMU memory and instruction tracing](https://github.com/MarginResearch/cannoli)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
 * [2022-06-05, 18:16:25](https://news.ycombinator.com/item?id=31633481) - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
 * [2022-06-05, 17:06:32](https://news.ycombinator.com/item?id=31632801) - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
@@ -29,7 +30,6 @@
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Complex systems collapse faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-05, 02:35:23](https://news.ycombinator.com/item?id=31627427) - [It's time to bring back the AIM away message](https://www.wired.com/story/bring-back-the-aim-away-message/)
 * [2022-06-04, 15:58:25](https://news.ycombinator.com/item?id=31621900) - [Heightened dream recall ability linked to increased creativity, connectivity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139)
-* [2022-06-03, 20:29:46](https://news.ycombinator.com/item?id=31613257) - [My Experience at ICRA 2022](https://arnavdhamija.com/2022/06/02/icra-2022/)
 
 ## [Archives](archives/index.md)
 
