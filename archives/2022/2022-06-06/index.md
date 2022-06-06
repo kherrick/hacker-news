@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
 * [2022-06-06, 15:31:21](https://news.ycombinator.com/item?id=31641761) - [Is Everything an MLM?](https://annehelen.substack.com/p/is-everything-an-mlm)
+* [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 15:04:55](https://news.ycombinator.com/item?id=31641418) - [The Toxic Grind](https://vadimkravcenko.com/shorts/the-toxic-grind/)
 * [2022-06-06, 15:04:34](https://news.ycombinator.com/item?id=31641417) - [The foundations of modern end-to-end encryption: Signatures](https://kerkour.com/signatures-modern-end-to-end-encryption)
+* [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
 * [2022-06-06, 13:52:42](https://news.ycombinator.com/item?id=31640479) - [I Rented an Electric Car for 4 Days and Spent More Time Charging Than Sleeping](https://www.wsj.com/articles/i-rented-an-electric-car-for-a-four-day-road-trip-i-spent-more-time-charging-it-than-i-did-sleeping-11654268401)
 * [2022-06-06, 13:52:18](https://news.ycombinator.com/item?id=31640470) - [Yandex Founder and CEO, Arkady Volozh, Sanctioned by the EU](https://ir.yandex/press-releases?year=2022)
 * [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
