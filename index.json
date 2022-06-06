@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-06-06, 19:36:02",
-      "https://news.ycombinator.com/item?id=31645000"
-    ],
-    [
-      "Run full Linux distributions on Apple Silicon",
-      "https://developer.apple.com/videos/play/wwdc2022/10002/"
-    ]
-  ],
-  [
-    [
       "2022-06-06, 19:35:18",
       "https://news.ycombinator.com/item?id=31644990"
     ],
@@ -107,16 +97,6 @@
     [
       "Apple Passkey",
       "https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 18:21:47",
-      "https://news.ycombinator.com/item?id=31643890"
-    ],
-    [
-      "FIDO Alliance",
-      "https://fidoalliance.org/"
     ]
   ],
   [
@@ -217,6 +197,26 @@
     [
       "Probability and Statistics Cookbook (2011) [pdf]",
       "https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 12:48:28",
+      "https://news.ycombinator.com/item?id=31639788"
+    ],
+    [
+      "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
+      "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 11:09:24",
+      "https://news.ycombinator.com/item?id=31639002"
+    ],
+    [
+      "Is social audio already dead?",
+      "https://thehustle.co/06062022-social-audio/"
     ]
   ],
   [
