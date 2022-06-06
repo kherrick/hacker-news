@@ -17,6 +17,7 @@
 * [2022-06-03, 21:07:52](https://news.ycombinator.com/item?id=31613624) - [WorldWideWeb.app](https://blog.iconfactory.com/2022/06/worldwideweb-part-2/)
 * [2022-06-03, 21:03:07](https://news.ycombinator.com/item?id=31613579) - [Americans are poorly served by their grocery stores](https://www.economist.com/united-states/2022/06/02/why-americans-are-poorly-served-by-their-grocery-stores)
 * [2022-06-03, 21:00:48](https://news.ycombinator.com/item?id=31613555) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
+* [2022-06-03, 20:29:46](https://news.ycombinator.com/item?id=31613257) - [My Experience at ICRA 2022](https://arnavdhamija.com/2022/06/02/icra-2022/)
 * [2022-06-03, 20:06:13](https://news.ycombinator.com/item?id=31613004) - [Scott Alexander's correction on ivermectin and its meaning for the rationalists](https://doyourownresearch.substack.com/p/scott-alexander-corrects-error-ivermectin)
 * [2022-06-03, 20:05:04](https://news.ycombinator.com/item?id=31612981) - [Fit Pics: The history of athletic fashion for women](https://www.bookforum.com/print/2902/the-history-of-athletic-fashion-for-women-24936)
 * [2022-06-03, 19:56:02](https://news.ycombinator.com/item?id=31612898) - [Tracing an obsession with the Shakespeare authorship question](https://lithub.com/whats-in-a-name-tracing-an-obsession-with-the-shakespeare-authorship-question/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 04:13:49](https://news.ycombinator.com/item?id=31637198) - [Universal access to free school meals end this summer](https://abc13.com/universal-free-school-meals-and-reduced-lunch-pandemic-programs-ending-spending-bill/11650887/)
+* [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
 * [2022-06-06, 03:43:55](https://news.ycombinator.com/item?id=31637082) - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
 * [2022-06-06, 03:15:55](https://news.ycombinator.com/item?id=31636973) - [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
 * [2022-06-06, 03:09:14](https://news.ycombinator.com/item?id=31636949) - [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
