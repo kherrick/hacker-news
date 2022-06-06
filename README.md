@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
 * [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
@@ -22,7 +23,6 @@
 * [2022-06-05, 21:01:10](https://news.ycombinator.com/item?id=31634822) - [Dover.com (YC S19) is hiring senior engineers](https://www.dover.com/open-roles/software-engineer)
 * [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
 * [2022-06-05, 18:16:25](https://news.ycombinator.com/item?id=31633481) - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
-* [2022-06-05, 17:06:32](https://news.ycombinator.com/item?id=31632801) - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 07:12:35](https://news.ycombinator.com/item?id=31628740) - [The mesmerising murmurations of Europe’s starlings](https://www.theguardian.com/artanddesign/2022/jun/05/a-fragment-of-eternity-the-mesmerising-murmurations-of-europes-starlings)
 * [2022-06-05, 05:28:55](https://news.ycombinator.com/item?id=31628295) - [Sabertooth carcass consumption behavior and Pleistocene large carnivoran guilds](https://www.nature.com/articles/s41598-022-09480-7)
