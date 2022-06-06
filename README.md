@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-06, 18:01:57](https://news.ycombinator.com/item?id=31643649) - [M2 MacBook Air](https://www.apple.com/macbook-air/)
+* [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
+* [2022-06-06, 18:21:47](https://news.ycombinator.com/item?id=31643890) - [FIDO Alliance](https://fidoalliance.org/)
+* [2022-06-06, 17:59:43](https://news.ycombinator.com/item?id=31643610) - [Apple announces new flagship M2 processor](https://www.theverge.com/2022/6/6/23156370/apple-silicon-m2-processor-chip-specs-wwdc-2022)
 * [2022-06-06, 17:37:59](https://news.ycombinator.com/item?id=31643345) - [Great timing, supercomputer upgrade lead to successful forecast of eruption](https://news.illinois.edu/view/6367/913924091)
 * [2022-06-06, 17:00:25](https://news.ycombinator.com/item?id=31642927) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-06, 16:50:18](https://news.ycombinator.com/item?id=31642810) - [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
 * [2022-06-06, 16:49:51](https://news.ycombinator.com/item?id=31642801) - [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
-* [2022-06-06, 15:55:11](https://news.ycombinator.com/item?id=31642085) - [Elon Musk asserts his “right to terminate” Twitter deal](https://www.axios.com/2022/06/06/elon-musk-twitter)
 * [2022-06-06, 15:31:21](https://news.ycombinator.com/item?id=31641761) - [Is Everything an MLM? (2019)](https://annehelen.substack.com/p/is-everything-an-mlm)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 15:04:34](https://news.ycombinator.com/item?id=31641417) - [The foundations of modern end-to-end encryption: Signatures (2021)](https://kerkour.com/signatures-modern-end-to-end-encryption)
@@ -29,7 +30,6 @@
 * [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
 * [2022-06-05, 11:56:32](https://news.ycombinator.com/item?id=31630160) - [Dinosaurs: How long did they live? (2009)](https://www.theguardian.com/science/2009/feb/07/dinosaur-lifespan)
 * [2022-06-05, 09:02:25](https://news.ycombinator.com/item?id=31629203) - [Seeing how odor is processed in the brain](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html)
-* [2022-06-05, 07:18:30](https://news.ycombinator.com/item?id=31628766) - [The Metaphysics of Morrowind (2010)](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
 
 ## [Archives](archives/index.md)
 

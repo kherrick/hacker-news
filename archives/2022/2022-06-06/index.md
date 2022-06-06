@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
+* [2022-06-06, 18:21:47](https://news.ycombinator.com/item?id=31643890) - [FIDO Alliance](https://fidoalliance.org/)
 * [2022-06-06, 18:01:57](https://news.ycombinator.com/item?id=31643649) - [M2 MacBook Air](https://www.apple.com/macbook-air/)
+* [2022-06-06, 17:59:43](https://news.ycombinator.com/item?id=31643610) - [Apple announces new flagship M2 processor](https://www.theverge.com/2022/6/6/23156370/apple-silicon-m2-processor-chip-specs-wwdc-2022)
 * [2022-06-06, 17:37:59](https://news.ycombinator.com/item?id=31643345) - [Great timing, supercomputer upgrade lead to successful forecast of eruption](https://news.illinois.edu/view/6367/913924091)
 * [2022-06-06, 17:00:25](https://news.ycombinator.com/item?id=31642927) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-06, 16:50:18](https://news.ycombinator.com/item?id=31642810) - [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
