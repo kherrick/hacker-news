@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 17:00:25](https://news.ycombinator.com/item?id=31642927) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+* [2022-06-06, 16:50:18](https://news.ycombinator.com/item?id=31642810) - [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
+* [2022-06-06, 16:49:51](https://news.ycombinator.com/item?id=31642801) - [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
 * [2022-06-06, 15:31:21](https://news.ycombinator.com/item?id=31641761) - [Is Everything an MLM? (2019)](https://annehelen.substack.com/p/is-everything-an-mlm)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
@@ -10,7 +13,6 @@
 * [2022-06-06, 13:16:47](https://news.ycombinator.com/item?id=31640049) - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 * [2022-06-06, 12:48:28](https://news.ycombinator.com/item?id=31639788) - [Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d)
 * [2022-06-06, 12:03:25](https://news.ycombinator.com/item?id=31639398) - [Small Modular Reactors Exacerbate Challenges of Nuclear Waste](https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/)
-* [2022-06-06, 12:01:05](https://news.ycombinator.com/item?id=31639376) - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
 * [2022-06-06, 11:59:08](https://news.ycombinator.com/item?id=31639354) - [A CIA hacker’s revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
 * [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is social audio already dead?](https://thehustle.co/06062022-social-audio/)
 * [2022-06-06, 10:16:41](https://news.ycombinator.com/item?id=31638746) - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
@@ -22,14 +24,12 @@
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 03:43:55](https://news.ycombinator.com/item?id=31637082) - [What is a programmable programming language? (2019)](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
 * [2022-06-06, 02:31:50](https://news.ycombinator.com/item?id=31636812) - [Absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
-* [2022-06-06, 01:59:53](https://news.ycombinator.com/item?id=31636657) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-* [2022-06-06, 01:57:03](https://news.ycombinator.com/item?id=31636642) - [Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools](https://github.com/tinygo-org/tinygo)
 * [2022-06-05, 14:31:09](https://news.ycombinator.com/item?id=31631308) - [Video codecs and 4k](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
+* [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
 * [2022-06-05, 11:56:32](https://news.ycombinator.com/item?id=31630160) - [Dinosaurs: How long did they live? (2009)](https://www.theguardian.com/science/2009/feb/07/dinosaur-lifespan)
 * [2022-06-05, 09:02:25](https://news.ycombinator.com/item?id=31629203) - [Seeing how odor is processed in the brain](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html)
 * [2022-06-05, 07:18:30](https://news.ycombinator.com/item?id=31628766) - [The Metaphysics of Morrowind (2010)](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
 * [2022-06-05, 04:30:04](https://news.ycombinator.com/item?id=31628027) - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
-* [2022-06-05, 02:35:23](https://news.ycombinator.com/item?id=31627427) - [It's time to bring back the AIM away message](https://www.wired.com/story/bring-back-the-aim-away-message/)
 
 ## [Archives](archives/index.md)
 
