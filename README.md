@@ -13,6 +13,7 @@
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 15:04:34](https://news.ycombinator.com/item?id=31641417) - [The foundations of modern end-to-end encryption: Signatures (2021)](https://kerkour.com/signatures-modern-end-to-end-encryption)
+* [2022-06-06, 14:43:35](https://news.ycombinator.com/item?id=31641128) - [Walking the World: Seoul](https://walkingtheworld.substack.com/p/walking-the-world-seoul-part-1)
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
 * [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
@@ -29,7 +30,6 @@
 * [2022-06-05, 14:55:23](https://news.ycombinator.com/item?id=31631509) - [Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399](https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/)
 * [2022-06-05, 14:31:09](https://news.ycombinator.com/item?id=31631308) - [Video codecs and 4k](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
 * [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
-* [2022-06-05, 09:02:25](https://news.ycombinator.com/item?id=31629203) - [Seeing how odor is processed in the brain](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html)
 
 ## [Archives](archives/index.md)
 

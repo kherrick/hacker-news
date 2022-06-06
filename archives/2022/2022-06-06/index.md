@@ -21,6 +21,7 @@
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 15:04:55](https://news.ycombinator.com/item?id=31641418) - [The Toxic Grind](https://vadimkravcenko.com/shorts/the-toxic-grind/)
 * [2022-06-06, 15:04:34](https://news.ycombinator.com/item?id=31641417) - [The foundations of modern end-to-end encryption: Signatures](https://kerkour.com/signatures-modern-end-to-end-encryption)
+* [2022-06-06, 14:43:35](https://news.ycombinator.com/item?id=31641128) - [Walking the World: Seoul](https://walkingtheworld.substack.com/p/walking-the-world-seoul-part-1)
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
 * [2022-06-06, 13:52:42](https://news.ycombinator.com/item?id=31640479) - [I Rented an Electric Car for 4 Days and Spent More Time Charging Than Sleeping](https://www.wsj.com/articles/i-rented-an-electric-car-for-a-four-day-road-trip-i-spent-more-time-charging-it-than-i-did-sleeping-11654268401)
 * [2022-06-06, 13:52:18](https://news.ycombinator.com/item?id=31640470) - [Yandex Founder and CEO, Arkady Volozh, Sanctioned by the EU](https://ir.yandex/press-releases?year=2022)
