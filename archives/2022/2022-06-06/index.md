@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
 * [2022-06-06, 20:48:48](https://news.ycombinator.com/item?id=31646043) - [Axon Ditches Plan for Weaponized Taser Drones (Majority of Ethics Board Resigns)](https://www.wsj.com/articles/axon-ditches-plans-for-weaponized-taser-drones-as-majority-of-ethics-board-resigns-11654545598)
 * [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 * [2022-06-06, 20:14:44](https://news.ycombinator.com/item?id=31645571) - [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)

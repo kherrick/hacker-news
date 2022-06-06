@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
 * [2022-06-06, 20:48:48](https://news.ycombinator.com/item?id=31646043) - [Axon Ditches Plan for Weaponized Taser Drones (Majority of Ethics Board Resigns)](https://www.wsj.com/articles/axon-ditches-plans-for-weaponized-taser-drones-as-majority-of-ethics-board-resigns-11654545598)
 * [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 * [2022-06-06, 20:14:44](https://news.ycombinator.com/item?id=31645571) - [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)
@@ -23,7 +24,6 @@
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 * [2022-06-06, 10:03:34](https://news.ycombinator.com/item?id=31638697) - [How to open a safe](https://github.com/H4ckd4ddy/bypass-sentry-safe)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
-* [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:41:43](https://news.ycombinator.com/item?id=31638111) - [Hopular: Modern Hopfield Networks for Tabular Data](https://paperswithcode.com/paper/hopular-modern-hopfield-networks-for-tabular-1)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain text, with lines](http://akkartik.name/lines.html)
 * [2022-06-05, 14:55:23](https://news.ycombinator.com/item?id=31631509) - [Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399](https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/)
