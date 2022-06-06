@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:31:46](https://news.ycombinator.com/item?id=31638054) - [Building an App with Next.js and Electron](https://blog.logrocket.com/building-app-next-js-electron/)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
