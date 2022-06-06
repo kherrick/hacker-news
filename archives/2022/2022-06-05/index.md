@@ -31,6 +31,7 @@
 * [2022-06-05, 15:27:12](https://news.ycombinator.com/item?id=31631831) - [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
+* [2022-06-05, 14:31:09](https://news.ycombinator.com/item?id=31631308) - [Video codecs and 4k](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Notkia: Linux phone in the shape of Nokia, with LoRa + WiFI + BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
 * [2022-06-05, 14:21:12](https://news.ycombinator.com/item?id=31631216) - [Axon Wants to Make Taser Drones for Schools Despite Ethics Board’s Concerns](https://www.vice.com/en/article/z34bb3/axon-wants-to-make-taser-drones-for-schools-despite-its-own-ethics-boards-concerns)
