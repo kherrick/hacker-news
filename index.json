@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-06-06, 18:01:57",
-      "https://news.ycombinator.com/item?id=31643649"
+      "2022-06-06, 18:24:03",
+      "https://news.ycombinator.com/item?id=31643917"
     ],
     [
-      "M2 MacBook Air",
-      "https://www.apple.com/macbook-air/"
+      "Apple Passkey",
+      "https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 18:21:47",
+      "https://news.ycombinator.com/item?id=31643890"
+    ],
+    [
+      "FIDO Alliance",
+      "https://fidoalliance.org/"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 17:59:43",
+      "https://news.ycombinator.com/item?id=31643610"
+    ],
+    [
+      "Apple announces new flagship M2 processor",
+      "https://www.theverge.com/2022/6/6/23156370/apple-silicon-m2-processor-chip-specs-wwdc-2022"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Video Live Streaming: Notes on RTMP, HLS, and WebRTC",
       "https://www.daily.co/blog/video-live-streaming/"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 15:55:11",
-      "https://news.ycombinator.com/item?id=31642085"
-    ],
-    [
-      "Elon Musk asserts his “right to terminate” Twitter deal",
-      "https://www.axios.com/2022/06/06/elon-musk-twitter"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Seeing how odor is processed in the brain",
       "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 07:18:30",
-      "https://news.ycombinator.com/item?id=31628766"
-    ],
-    [
-      "The Metaphysics of Morrowind (2010)",
-      "https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/"
     ]
   ]
 ]
