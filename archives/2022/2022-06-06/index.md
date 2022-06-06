@@ -17,6 +17,7 @@
 * [2022-06-06, 13:52:18](https://news.ycombinator.com/item?id=31640470) - [Yandex Founder and CEO, Arkady Volozh, Sanctioned by the EU](https://ir.yandex/press-releases?year=2022)
 * [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+* [2022-06-06, 13:24:57](https://news.ycombinator.com/item?id=31640136) - [Dave Smith, “the Father of MIDI,” died last Wednesday (1950-2022)](https://www.weatherreportdiscography.org/tag/sequential-circuits/)
 * [2022-06-06, 13:16:47](https://news.ycombinator.com/item?id=31640049) - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 * [2022-06-06, 13:16:44](https://news.ycombinator.com/item?id=31640047) - [I don't care how much money you've raised](https://news.ycombinator.com/item?id=31640047)
 * [2022-06-06, 13:14:17](https://news.ycombinator.com/item?id=31640019) - [Musk SEC Filing](https://www.sec.gov/Archives/edgar/data/0001418091/000110465922068347/tm2217761d1_sc13da.htm)
