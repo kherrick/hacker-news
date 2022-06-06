@@ -8,6 +8,7 @@
 * [2022-06-06, 07:31:46](https://news.ycombinator.com/item?id=31638054) - [Building an App with Next.js and Electron](https://blog.logrocket.com/building-app-next-js-electron/)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
 * [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
+* [2022-06-06, 06:12:37](https://news.ycombinator.com/item?id=31637664) - [Amino acids found on asteroid by Japanese probe](https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 04:13:49](https://news.ycombinator.com/item?id=31637198) - [Universal access to free school meals end this summer](https://abc13.com/universal-free-school-meals-and-reduced-lunch-pandemic-programs-ending-spending-bill/11650887/)
 * [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
