@@ -51,6 +51,7 @@
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
 * [2022-06-05, 12:00:36](https://news.ycombinator.com/item?id=31630193) - [Symphonic Metal Bands: Nerdiness vs. Kickassery – A Statistical Analysis](https://medium.com/@WolframHempel_82303/symphonic-metal-bands-nerdiness-vs-kickassery-a-statistical-analysis-7c6ec4064286)
 * [2022-06-05, 12:00:16](https://news.ycombinator.com/item?id=31630189) - [The Muse (YC W12) Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+* [2022-06-05, 11:56:32](https://news.ycombinator.com/item?id=31630160) - [Dinosaurs: How long did they live? (2009)](https://www.theguardian.com/science/2009/feb/07/dinosaur-lifespan)
 * [2022-06-05, 11:55:18](https://news.ycombinator.com/item?id=31630148) - [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
 * [2022-06-05, 11:36:33](https://news.ycombinator.com/item?id=31630014) - [Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
