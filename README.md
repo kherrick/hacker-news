@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 04:13:49](https://news.ycombinator.com/item?id=31637198) - [Universal access to free school meals end this summer](https://abc13.com/universal-free-school-meals-and-reduced-lunch-pandemic-programs-ending-spending-bill/11650887/)
 * [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
 * [2022-06-06, 03:43:55](https://news.ycombinator.com/item?id=31637082) - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
@@ -22,7 +23,6 @@
 * [2022-06-05, 18:16:25](https://news.ycombinator.com/item?id=31633481) - [Mirrord – mirror production traffic to your development environment](https://github.com/metalbear-co/mirrord)
 * [2022-06-05, 17:06:32](https://news.ycombinator.com/item?id=31632801) - [Robocode Tank Royale](https://robocode-dev.github.io/tank-royale/articles/intro.html)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
-* [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Notkia: Linux phone in the shape of Nokia, with LoRa + WiFI + BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
 * [2022-06-05, 05:28:42](https://news.ycombinator.com/item?id=31628293) - [Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua](https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660)
 * [2022-06-05, 05:07:32](https://news.ycombinator.com/item?id=31628197) - [A Day at the Grease Plant](https://placesjournal.org/article/gordon-parks-photographs-pittsburgh-grease-plant/)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Complex systems collapse faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
