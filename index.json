@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-06, 04:13:49",
+      "https://news.ycombinator.com/item?id=31637198"
+    ],
+    [
+      "Universal access to free school meals end this summer",
+      "https://abc13.com/universal-free-school-meals-and-reduced-lunch-pandemic-programs-ending-spending-bill/11650887/"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 04:00:36",
+      "https://news.ycombinator.com/item?id=31637150"
+    ],
+    [
+      "Show HN: Seal – Verifiable timestamp for your private ideas",
+      "https://docs.planet.ink/data/seal/"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 03:43:55",
       "https://news.ycombinator.com/item?id=31637082"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-06-05, 23:43:26",
-      "https://news.ycombinator.com/item?id=31635886"
-    ],
-    [
-      "Oregon expands electric vehicle charging statewide",
-      "https://www.kgw.com/article/news/local/good-energy/electric-vehicle-charging-stations-oregon/283-ed184a5e-fdd3-4e25-a63d-ea85b93c338a"
-    ]
-  ],
-  [
-    [
       "2022-06-05, 22:01:24",
       "https://news.ycombinator.com/item?id=31635242"
     ],
@@ -167,16 +177,6 @@
     [
       "Dover.com (YC S19) is hiring senior engineers",
       "https://www.dover.com/open-roles/software-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 21:00:28",
-      "https://news.ycombinator.com/item?id=31634813"
-    ],
-    [
-      "Cannoli – High-performance QEMU memory and instruction tracing",
-      "https://github.com/MarginResearch/cannoli"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-03, 12:21:41",
-      "https://news.ycombinator.com/item?id=31607274"
+      "2022-06-03, 20:29:46",
+      "https://news.ycombinator.com/item?id=31613257"
     ],
     [
-      "Goroutines Under the Hood (2020)",
-      "https://osmh.dev/posts/goroutines-under-the-hood/"
+      "My Experience at ICRA 2022",
+      "https://arnavdhamija.com/2022/06/02/icra-2022/"
     ]
   ]
 ]
