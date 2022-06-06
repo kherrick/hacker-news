@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 12:20:34](https://news.ycombinator.com/item?id=31639550) - [One Job, One Pay](https://stellate.co/blog/one-job-one-pay)
+* [2022-06-06, 12:03:25](https://news.ycombinator.com/item?id=31639398) - [Small Modular Reactors Exacerbate Challenges of Nuclear Waste](https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/)
+* [2022-06-06, 12:01:05](https://news.ycombinator.com/item?id=31639376) - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
 * [2022-06-06, 11:42:01](https://news.ycombinator.com/item?id=31639232) - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
+* [2022-06-06, 11:11:26](https://news.ycombinator.com/item?id=31639024) - [GraphCDN is now Stellate and we’ve raised $30M to build the global data graph](https://stellate.co/blog/graphcdn-is-now-stellate)
 * [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is Social Audio Already Dead?](https://thehustle.co/06062022-social-audio/)
 * [2022-06-06, 10:16:41](https://news.ycombinator.com/item?id=31638746) - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
