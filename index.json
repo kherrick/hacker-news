@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-06, 13:34:00",
+      "https://news.ycombinator.com/item?id=31640229"
+    ],
+    [
+      "Probability and Statistics Cookbook (2011) [pdf]",
+      "https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 13:16:47",
       "https://news.ycombinator.com/item?id=31640049"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-06-06, 13:14:17",
-      "https://news.ycombinator.com/item?id=31640019"
+      "2022-06-06, 12:48:28",
+      "https://news.ycombinator.com/item?id=31639788"
     ],
     [
-      "Musk SEC Filing",
-      "https://www.sec.gov/Archives/edgar/data/0001418091/000110465922068347/tm2217761d1_sc13da.htm"
+      "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
+      "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Plain text, with lines",
       "http://akkartik.name/lines.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 06:29:14",
-      "https://news.ycombinator.com/item?id=31637755"
-    ],
-    [
-      "The Design and Implementation of the NetBSD RC.d System [pdf]",
-      "http://www.mewburn.net/luke/papers/rc.d.pdf"
     ]
   ],
   [
