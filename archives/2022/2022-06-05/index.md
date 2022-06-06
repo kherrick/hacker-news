@@ -31,6 +31,7 @@
 * [2022-06-05, 15:27:12](https://news.ycombinator.com/item?id=31631831) - [Ask HN: Which programming games helped you become a better programmer?](https://news.ycombinator.com/item?id=31631831)
 * [2022-06-05, 15:17:17](https://news.ycombinator.com/item?id=31631737) - [Bemuse: Online, web-based rhythm game](https://bemuse.ninja)
 * [2022-06-05, 15:07:05](https://news.ycombinator.com/item?id=31631632) - [Algorithm detected over a hundred asteroids after studying old telescope data](https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm)
+* [2022-06-05, 14:55:23](https://news.ycombinator.com/item?id=31631509) - [Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399](https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/)
 * [2022-06-05, 14:31:09](https://news.ycombinator.com/item?id=31631308) - [Video codecs and 4k](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Turning a Nokia 1680 feature phone into a Linux computer](https://gadgettendency.com/an-enthusiast-turned-a-nokia-1680-feature-phone-into-a-linux-computer-with-a-working-screen-and-keyboard/)
 * [2022-06-05, 14:25:09](https://news.ycombinator.com/item?id=31631260) - [Notkia: Linux phone in the shape of Nokia, with LoRa + WiFI + BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)
