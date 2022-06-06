@@ -4,7 +4,7 @@
 * [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
-* [2022-06-06, 03:43:55](https://news.ycombinator.com/item?id=31637082) - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+* [2022-06-06, 03:43:55](https://news.ycombinator.com/item?id=31637082) - [What is a programmable programming language? (2019)](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
 * [2022-06-06, 03:15:55](https://news.ycombinator.com/item?id=31636973) - [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
 * [2022-06-06, 03:09:14](https://news.ycombinator.com/item?id=31636949) - [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
 * [2022-06-06, 02:31:50](https://news.ycombinator.com/item?id=31636812) - [Absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
