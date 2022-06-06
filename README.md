@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
 * [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)
@@ -28,7 +29,6 @@
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Complex systems collapse faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-05, 02:35:23](https://news.ycombinator.com/item?id=31627427) - [It's time to bring back the AIM away message](https://www.wired.com/story/bring-back-the-aim-away-message/)
 * [2022-06-04, 15:58:25](https://news.ycombinator.com/item?id=31621900) - [Heightened dream recall ability linked to increased creativity, connectivity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139)
-* [2022-06-04, 05:07:34](https://news.ycombinator.com/item?id=31617184) - [Asemic Writing](https://en.wikipedia.org/wiki/Asemic_writing)
 * [2022-06-03, 20:29:46](https://news.ycombinator.com/item?id=31613257) - [My Experience at ICRA 2022](https://arnavdhamija.com/2022/06/02/icra-2022/)
 
 ## [Archives](archives/index.md)
