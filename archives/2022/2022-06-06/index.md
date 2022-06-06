@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 19:36:02](https://news.ycombinator.com/item?id=31645000) - [Run full Linux distributions on Apple Silicon](https://developer.apple.com/videos/play/wwdc2022/10002/)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 19:13:12](https://news.ycombinator.com/item?id=31644622) - [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/)
 * [2022-06-06, 19:02:45](https://news.ycombinator.com/item?id=31644424) - [iOS 16 to support Web push notifications in 2023](https://www.apple.com/ios/ios-16-preview/features/)

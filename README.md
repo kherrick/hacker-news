@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 19:36:02](https://news.ycombinator.com/item?id=31645000) - [Run full Linux distributions on Apple Silicon](https://developer.apple.com/videos/play/wwdc2022/10002/)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 19:13:12](https://news.ycombinator.com/item?id=31644622) - [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/)
 * [2022-06-06, 19:02:45](https://news.ycombinator.com/item?id=31644424) - [iOS 16 to support Web push notifications in 2023](https://www.apple.com/ios/ios-16-preview/features/)
@@ -15,7 +16,6 @@
 * [2022-06-06, 16:49:51](https://news.ycombinator.com/item?id=31642801) - [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
-* [2022-06-06, 15:04:34](https://news.ycombinator.com/item?id=31641417) - [The foundations of modern end-to-end encryption: Signatures (2021)](https://kerkour.com/signatures-modern-end-to-end-encryption)
 * [2022-06-06, 14:43:35](https://news.ycombinator.com/item?id=31641128) - [Walking the World: Seoul](https://walkingtheworld.substack.com/p/walking-the-world-seoul-part-1)
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
 * [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
