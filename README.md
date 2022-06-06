@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
+* [2022-06-06, 07:31:46](https://news.ycombinator.com/item?id=31638054) - [Building an App with Next.js and Electron](https://blog.logrocket.com/building-app-next-js-electron/)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
 * [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
@@ -26,7 +27,6 @@
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 07:12:35](https://news.ycombinator.com/item?id=31628740) - [The mesmerising murmurations of Europe’s starlings](https://www.theguardian.com/artanddesign/2022/jun/05/a-fragment-of-eternity-the-mesmerising-murmurations-of-europes-starlings)
 * [2022-06-05, 05:28:55](https://news.ycombinator.com/item?id=31628295) - [Sabertooth carcass consumption behavior and Pleistocene large carnivoran guilds](https://www.nature.com/articles/s41598-022-09480-7)
-* [2022-06-05, 05:28:42](https://news.ycombinator.com/item?id=31628293) - [Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua](https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Complex systems collapse faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-05, 02:35:23](https://news.ycombinator.com/item?id=31627427) - [It's time to bring back the AIM away message](https://www.wired.com/story/bring-back-the-aim-away-message/)
 * [2022-06-04, 15:58:25](https://news.ycombinator.com/item?id=31621900) - [Heightened dream recall ability linked to increased creativity, connectivity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139)
