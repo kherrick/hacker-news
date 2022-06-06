@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 15:04:55](https://news.ycombinator.com/item?id=31641418) - [The Toxic Grind](https://vadimkravcenko.com/shorts/the-toxic-grind/)
 * [2022-06-06, 13:52:42](https://news.ycombinator.com/item?id=31640479) - [I Rented an Electric Car for 4 Days and Spent More Time Charging Than Sleeping](https://www.wsj.com/articles/i-rented-an-electric-car-for-a-four-day-road-trip-i-spent-more-time-charging-it-than-i-did-sleeping-11654268401)
 * [2022-06-06, 13:52:18](https://news.ycombinator.com/item?id=31640470) - [Yandex Founder and CEO, Arkady Volozh, Sanctioned by the EU](https://ir.yandex/press-releases?year=2022)
+* [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 * [2022-06-06, 13:16:47](https://news.ycombinator.com/item?id=31640049) - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 * [2022-06-06, 13:16:44](https://news.ycombinator.com/item?id=31640047) - [I don't care how much money you've raised](https://news.ycombinator.com/item?id=31640047)

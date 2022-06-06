@@ -59,6 +59,7 @@
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
 * [2022-06-05, 09:16:44](https://news.ycombinator.com/item?id=31629261) - [The Flossbank Attempt](https://medium.com/@joelwass/the-flossbank-attempt-de9d8ecc1dcf)
 * [2022-06-05, 09:03:27](https://news.ycombinator.com/item?id=31629210) - [Data Source Concordance for Infectious Disease Epidemiology](https://www.medrxiv.org/content/10.1101/2022.06.02.22275926v1)
+* [2022-06-05, 09:02:25](https://news.ycombinator.com/item?id=31629203) - [Seeing how odor is processed in the brain](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html)
 * [2022-06-05, 08:35:04](https://news.ycombinator.com/item?id=31629082) - [Thinking beyond privacy: the risks of big tech’s entry into public sectors](https://news.ycombinator.com/)
 * [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
 * [2022-06-05, 08:03:13](https://news.ycombinator.com/item?id=31628939) - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
