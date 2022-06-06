@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-06, 18:01:57",
+      "https://news.ycombinator.com/item?id=31643649"
+    ],
+    [
+      "M2 MacBook Air",
+      "https://www.apple.com/macbook-air/"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 17:37:59",
+      "https://news.ycombinator.com/item?id=31643345"
+    ],
+    [
+      "Great timing, supercomputer upgrade lead to successful forecast of eruption",
+      "https://news.illinois.edu/view/6367/913924091"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 17:00:25",
       "https://news.ycombinator.com/item?id=31642927"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-06-06, 11:59:08",
-      "https://news.ycombinator.com/item?id=31639354"
-    ],
-    [
-      "A CIA hacker’s revenge",
-      "https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge"
-    ]
-  ],
-  [
-    [
       "2022-06-06, 11:09:24",
       "https://news.ycombinator.com/item?id=31639002"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-06-06, 02:31:50",
-      "https://news.ycombinator.com/item?id=31636812"
+      "2022-06-05, 14:55:23",
+      "https://news.ycombinator.com/item?id=31631509"
     ],
     [
-      "Absolute truths I unlearned as junior developer (2019)",
-      "https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/"
+      "Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399",
+      "https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Metaphysics of Morrowind (2010)",
       "https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 04:30:04",
-      "https://news.ycombinator.com/item?id=31628027"
-    ],
-    [
-      "Arc and Mutex in Rust",
-      "https://itsallaboutthebit.com/arc-mutex/"
     ]
   ]
 ]
