@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
 * [2022-06-06, 22:24:04](https://news.ycombinator.com/item?id=31647181) - [Tools for Better Thinking](https://untools.co)
+* [2022-06-06, 22:09:58](https://news.ycombinator.com/item?id=31647033) - [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
 * [2022-06-06, 22:02:02](https://news.ycombinator.com/item?id=31646936) - [Hate paywalls? 12ft.io is the answer](https://robinwinslow.uk/hate-paywalls-12ft.io-is-the-answer)
 * [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
 * [2022-06-06, 21:14:51](https://news.ycombinator.com/item?id=31646359) - [Cuba about to adopt the most progressive family law in the world](https://en.granma.cu/cuba/2022-05-19/families-plural)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-06, 22:24:04](https://news.ycombinator.com/item?id=31647181) - [Tools for Better Thinking](https://untools.co)
+* [2022-06-06, 22:09:58](https://news.ycombinator.com/item?id=31647033) - [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
 * [2022-06-06, 22:02:02](https://news.ycombinator.com/item?id=31646936) - [Hate paywalls? 12ft.io is the answer](https://robinwinslow.uk/hate-paywalls-12ft.io-is-the-answer)
-* [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
 * [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 * [2022-06-06, 20:13:21](https://news.ycombinator.com/item?id=31645558) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
