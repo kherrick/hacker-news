@@ -8,6 +8,7 @@
 * [2022-06-06, 16:50:18](https://news.ycombinator.com/item?id=31642810) - [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
 * [2022-06-06, 16:49:51](https://news.ycombinator.com/item?id=31642801) - [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
+* [2022-06-06, 15:55:11](https://news.ycombinator.com/item?id=31642085) - [Elon Musk asserts his “right to terminate” Twitter deal](https://www.axios.com/2022/06/06/elon-musk-twitter)
 * [2022-06-06, 15:31:21](https://news.ycombinator.com/item?id=31641761) - [Is Everything an MLM?](https://annehelen.substack.com/p/is-everything-an-mlm)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 15:04:55](https://news.ycombinator.com/item?id=31641418) - [The Toxic Grind](https://vadimkravcenko.com/shorts/the-toxic-grind/)
