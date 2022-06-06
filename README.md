@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-06, 13:16:44](https://news.ycombinator.com/item?id=31640047) - [I don't care how much money you've raised](https://news.ycombinator.com/item?id=31640047)
+* [2022-06-06, 13:16:47](https://news.ycombinator.com/item?id=31640049) - [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks)
 * [2022-06-06, 13:14:17](https://news.ycombinator.com/item?id=31640019) - [Musk SEC Filing](https://www.sec.gov/Archives/edgar/data/0001418091/000110465922068347/tm2217761d1_sc13da.htm)
 * [2022-06-06, 12:01:05](https://news.ycombinator.com/item?id=31639376) - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
 * [2022-06-06, 11:59:08](https://news.ycombinator.com/item?id=31639354) - [The Surreal Case of a CIA Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
@@ -28,8 +28,8 @@
 * [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
 * [2022-06-05, 07:22:03](https://news.ycombinator.com/item?id=31628780) - [Dubious Ways to Compute the Zeros of a Polynomial](https://blogs.mathworks.com/cleve/2016/06/27/19-dubious-ways-to-compute-the-zeros-of-a-polynomial/)
 * [2022-06-05, 07:18:30](https://news.ycombinator.com/item?id=31628766) - [The Metaphysics of Morrowind (2010)](https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/)
+* [2022-06-05, 04:30:04](https://news.ycombinator.com/item?id=31628027) - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
 * [2022-06-05, 02:35:23](https://news.ycombinator.com/item?id=31627427) - [It's time to bring back the AIM away message](https://www.wired.com/story/bring-back-the-aim-away-message/)
-* [2022-06-04, 15:58:25](https://news.ycombinator.com/item?id=31621900) - [Heightened dream recall ability linked to increased creativity, connectivity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139)
 
 ## [Archives](archives/index.md)
 

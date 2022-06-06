@@ -77,6 +77,7 @@
 * [2022-06-05, 05:07:32](https://news.ycombinator.com/item?id=31628197) - [A Day at the Grease Plant](https://placesjournal.org/article/gordon-parks-photographs-pittsburgh-grease-plant/)
 * [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
 * [2022-06-05, 04:49:10](https://news.ycombinator.com/item?id=31628112) - [Enough Is Enough: The Criminal Case Against Mark Zuckerberg](https://mattstoller.substack.com/p/enough-is-enough-the-criminal-case)
+* [2022-06-05, 04:30:04](https://news.ycombinator.com/item?id=31628027) - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
 * [2022-06-05, 03:55:48](https://news.ycombinator.com/item?id=31627859) - [Xerox PARC’s Engineers on How They Invented the Future–and How Xerox Lost It](https://spectrum.ieee.org/xerox-parc/particle-33)
 * [2022-06-05, 03:26:07](https://news.ycombinator.com/item?id=31627724) - [Qualcomm wants to buy ARM and it may need Samsung's help](https://www.sammobile.com/news/qualcomm-wants-to-buy-arm-need-samsungs-help/)
