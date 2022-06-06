@@ -2,6 +2,7 @@
 
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
+* [2022-06-06, 07:32:35](https://news.ycombinator.com/item?id=31638058) - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
 * [2022-06-06, 07:01:28](https://news.ycombinator.com/item?id=31637910) - [Plain Text. With Lines](http://akkartik.name/lines.html)
 * [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 06:12:37](https://news.ycombinator.com/item?id=31637664) - [Amino acids found on asteroid by Japanese probe](https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html)
@@ -21,7 +22,6 @@
 * [2022-06-05, 22:01:24](https://news.ycombinator.com/item?id=31635242) - [Water Pump Theory](https://powerequipment.honda.com/pumps/pump-theory)
 * [2022-06-05, 21:48:44](https://news.ycombinator.com/item?id=31635145) - [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
-* [2022-06-05, 19:01:38](https://news.ycombinator.com/item?id=31633858) - [LeekWars, program your AI to destroy your leek enemies](https://leekwars.com/)
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
 * [2022-06-05, 07:22:03](https://news.ycombinator.com/item?id=31628780) - [Dubious Ways to Compute the Zeros of a Polynomial](https://blogs.mathworks.com/cleve/2016/06/27/19-dubious-ways-to-compute-the-zeros-of-a-polynomial/)
