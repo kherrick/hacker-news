@@ -26,9 +26,9 @@
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
 * [2022-06-05, 07:12:35](https://news.ycombinator.com/item?id=31628740) - [The mesmerising murmurations of Europe’s starlings](https://www.theguardian.com/artanddesign/2022/jun/05/a-fragment-of-eternity-the-mesmerising-murmurations-of-europes-starlings)
-* [2022-06-05, 05:28:55](https://news.ycombinator.com/item?id=31628295) - [Sabertooth carcass consumption behavior and Pleistocene large carnivoran guilds](https://www.nature.com/articles/s41598-022-09480-7)
 * [2022-06-05, 05:28:42](https://news.ycombinator.com/item?id=31628293) - [Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua](https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660)
 * [2022-06-05, 02:35:23](https://news.ycombinator.com/item?id=31627427) - [It's time to bring back the AIM away message](https://www.wired.com/story/bring-back-the-aim-away-message/)
+* [2022-06-04, 19:26:32](https://news.ycombinator.com/item?id=31624185) - [Have an old iPad lying around? You might be able to make it run Linux soon](https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/)
 * [2022-06-04, 15:58:25](https://news.ycombinator.com/item?id=31621900) - [Heightened dream recall ability linked to increased creativity, connectivity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139)
 
 ## [Archives](archives/index.md)
