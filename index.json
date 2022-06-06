@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-06, 05:18:56",
+      "https://news.ycombinator.com/item?id=31637428"
+    ],
+    [
+      "No-op statements syntactically valid only since Python X.Y",
+      "https://github.com/jwilk/python-syntax-errors"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 04:13:49",
       "https://news.ycombinator.com/item?id=31637198"
     ],
@@ -217,16 +227,6 @@
     [
       "Algorithm detected over a hundred asteroids after studying old telescope data",
       "https://www.natureworldnews.com/articles/51189/20220604/new-algorithm-detected-over-a-hundred-asteroids-after-studying-old-telescope-data.htm"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 14:25:09",
-      "https://news.ycombinator.com/item?id=31631260"
-    ],
-    [
-      "Notkia: Linux phone in the shape of Nokia, with LoRa + WiFI + BT connectivity",
-      "https://www.hackster.io/reimunotmoe/notkia-f6e772"
     ]
   ],
   [
