@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-06-06, 01:57:03",
+      "https://news.ycombinator.com/item?id=31636642"
+    ],
+    [
+      "Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools",
+      "https://github.com/tinygo-org/tinygo"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 01:25:08",
+      "https://news.ycombinator.com/item?id=31636482"
+    ],
+    [
+      "Source code for 4kb demoscene production “Elevated” released (2016)",
+      "https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 01:11:20",
+      "https://news.ycombinator.com/item?id=31636422"
+    ],
+    [
+      "Zipf's Law",
+      "https://plus.maths.org/content/mystery-zipf"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 01:07:13",
+      "https://news.ycombinator.com/item?id=31636401"
+    ],
+    [
+      "Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras",
+      "https://arxiv.org/abs/2206.01384"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 00:43:28",
       "https://news.ycombinator.com/item?id=31636246"
     ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2022-06-05, 20:50:37",
-      "https://news.ycombinator.com/item?id=31634704"
-    ],
-    [
-      "Ask HN: Has anyone successfully used LibreOffice for their business?",
-      "https://news.ycombinator.com/item?id=31634704"
-    ]
-  ],
-  [
-    [
       "2022-06-05, 20:31:45",
       "https://news.ycombinator.com/item?id=31634560"
     ],
@@ -117,26 +147,6 @@
     [
       "Blogging with Org-mode for lazy people",
       "https://github.com/novoid/lazyblorg"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 20:28:23",
-      "https://news.ycombinator.com/item?id=31634535"
-    ],
-    [
-      "In 1997, Wired Predicts Things That Could Go Wrong in the 21st Century (2021)",
-      "https://www.openculture.com/2021/11/wired-predicts-the-troubles-of-the-2020s-back-in-1997.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 20:08:14",
-      "https://news.ycombinator.com/item?id=31634400"
-    ],
-    [
-      "Fine dining faces its dark truths in Copenhagen",
-      "https://www.ft.com/content/a62a96b8-2db2-44ec-ac80-67fcf83d86ef"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-06-05, 09:03:27",
-      "https://news.ycombinator.com/item?id=31629210"
+      "2022-06-05, 05:28:42",
+      "https://news.ycombinator.com/item?id=31628293"
     ],
     [
-      "Data Source Concordance for Infectious Disease Epidemiology",
-      "https://www.medrxiv.org/content/10.1101/2022.06.02.22275926v1"
+      "Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua",
+      "https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-06-04, 19:26:32",
-      "https://news.ycombinator.com/item?id=31624185"
+      "2022-06-05, 02:35:23",
+      "https://news.ycombinator.com/item?id=31627427"
     ],
     [
-      "Have an old iPad lying around? You might be able to make it run Linux soon",
-      "https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/"
+      "It's time to bring back the AIM away message",
+      "https://www.wired.com/story/bring-back-the-aim-away-message/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Goroutines Under the Hood (2020)",
       "https://osmh.dev/posts/goroutines-under-the-hood/"
-    ]
-  ],
-  [
-    [
-      "2022-06-03, 06:26:12",
-      "https://news.ycombinator.com/item?id=31604916"
-    ],
-    [
-      "Abmagick – abuse ImageMagick to create arbitrary files",
-      "https://github.com/jwilk/abmagick"
     ]
   ]
 ]
