@@ -29,7 +29,7 @@
 * [2022-06-06, 06:12:37](https://news.ycombinator.com/item?id=31637664) - [Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe](https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html)
 * [2022-06-05, 14:55:23](https://news.ycombinator.com/item?id=31631509) - [Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399](https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/)
 * [2022-06-05, 12:52:58](https://news.ycombinator.com/item?id=31630545) - [The Atari Years (2014)](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-5/the-atari-years.html)
-* [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
+* [2022-06-05, 05:32:15](https://news.ycombinator.com/item?id=31628311) - [Sega announces a tiny Sega CD retro console](https://arstechnica.com/gaming/2022/06/adorable-japan-only-sega-mega-drive-mini-2-faithfully-recreates-the-sega-cd/)
 
 ## [Archives](archives/index.md)
 
