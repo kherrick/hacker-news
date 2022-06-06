@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 18:49:53](https://news.ycombinator.com/item?id=31644188) - [iPadOS 16 takes the versatility of iPad even further](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
 * [2022-06-06, 18:34:16](https://news.ycombinator.com/item?id=31644019) - [Apple unveils all-new MacBook Air, supercharged by the new M2 chip](https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/)
 * [2022-06-06, 18:33:27](https://news.ycombinator.com/item?id=31644008) - [Apple Unveils M2](https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/)
 * [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
@@ -10,7 +11,6 @@
 * [2022-06-06, 16:50:18](https://news.ycombinator.com/item?id=31642810) - [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
 * [2022-06-06, 16:49:51](https://news.ycombinator.com/item?id=31642801) - [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
-* [2022-06-06, 15:31:21](https://news.ycombinator.com/item?id=31641761) - [Is Everything an MLM? (2019)](https://annehelen.substack.com/p/is-everything-an-mlm)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 15:04:34](https://news.ycombinator.com/item?id=31641417) - [The foundations of modern end-to-end encryption: Signatures (2021)](https://kerkour.com/signatures-modern-end-to-end-encryption)
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)

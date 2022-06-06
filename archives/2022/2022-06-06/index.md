@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 18:49:53](https://news.ycombinator.com/item?id=31644188) - [iPadOS 16 takes the versatility of iPad even further](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
 * [2022-06-06, 18:34:16](https://news.ycombinator.com/item?id=31644019) - [Apple unveils all-new MacBook Air, supercharged by the new M2 chip](https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/)
 * [2022-06-06, 18:33:27](https://news.ycombinator.com/item?id=31644008) - [Apple Unveils M2](https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/)
 * [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
