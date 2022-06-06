@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 11:42:01](https://news.ycombinator.com/item?id=31639232) - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
+* [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is Social Audio Already Dead?](https://thehustle.co/06062022-social-audio/)
 * [2022-06-06, 10:16:41](https://news.ycombinator.com/item?id=31638746) - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
