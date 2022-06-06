@@ -53,6 +53,7 @@
 * [2022-06-05, 11:36:33](https://news.ycombinator.com/item?id=31630014) - [Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 09:54:00](https://news.ycombinator.com/item?id=31629486) - [My Big Fat Monolithic Alert](https://cherkaskyb.medium.com/my-big-fat-monolithic-alert-498f21c1bb8a)
+* [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
 * [2022-06-05, 09:16:44](https://news.ycombinator.com/item?id=31629261) - [The Flossbank Attempt](https://medium.com/@joelwass/the-flossbank-attempt-de9d8ecc1dcf)
 * [2022-06-05, 09:03:27](https://news.ycombinator.com/item?id=31629210) - [Data Source Concordance for Infectious Disease Epidemiology](https://www.medrxiv.org/content/10.1101/2022.06.02.22275926v1)
