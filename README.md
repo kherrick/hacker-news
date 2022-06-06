@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
+* [2022-06-06, 20:14:44](https://news.ycombinator.com/item?id=31645571) - [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)
 * [2022-06-06, 19:36:02](https://news.ycombinator.com/item?id=31645000) - [Run full Linux distributions on Apple Silicon](https://developer.apple.com/videos/play/wwdc2022/10002/)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 19:13:12](https://news.ycombinator.com/item?id=31644622) - [News from WWDC22: WebKit Features in Safari 16 Beta](https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/)
@@ -12,7 +14,6 @@
 * [2022-06-06, 17:59:43](https://news.ycombinator.com/item?id=31643610) - [Apple announces new flagship M2 processor](https://www.theverge.com/2022/6/6/23156370/apple-silicon-m2-processor-chip-specs-wwdc-2022)
 * [2022-06-06, 17:37:59](https://news.ycombinator.com/item?id=31643345) - [Great timing, supercomputer upgrade lead to successful forecast of eruption](https://news.illinois.edu/view/6367/913924091)
 * [2022-06-06, 17:00:25](https://news.ycombinator.com/item?id=31642927) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-* [2022-06-06, 16:50:18](https://news.ycombinator.com/item?id=31642810) - [AI Is Ushering in a New Scientific Revolution](https://thegradient.pub/ai-scientific-revolution/)
 * [2022-06-06, 16:49:51](https://news.ycombinator.com/item?id=31642801) - [Windows 9x Video Minidriver HD+](http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/)
 * [2022-06-06, 16:11:27](https://news.ycombinator.com/item?id=31642292) - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC](https://www.daily.co/blog/video-live-streaming/)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
@@ -20,7 +21,6 @@
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
 * [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
-* [2022-06-06, 12:48:28](https://news.ycombinator.com/item?id=31639788) - [Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d)
 * [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is social audio already dead?](https://thehustle.co/06062022-social-audio/)
 * [2022-06-06, 10:03:34](https://news.ycombinator.com/item?id=31638697) - [How to open a safe](https://github.com/H4ckd4ddy/bypass-sentry-safe)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
