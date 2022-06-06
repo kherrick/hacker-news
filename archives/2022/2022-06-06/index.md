@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 06:29:14](https://news.ycombinator.com/item?id=31637755) - [The Design and Implementation of the NetBSD RC.d System [pdf]](http://www.mewburn.net/luke/papers/rc.d.pdf)
 * [2022-06-06, 05:18:56](https://news.ycombinator.com/item?id=31637428) - [No-op statements syntactically valid only since Python X.Y](https://github.com/jwilk/python-syntax-errors)
 * [2022-06-06, 04:13:49](https://news.ycombinator.com/item?id=31637198) - [Universal access to free school meals end this summer](https://abc13.com/universal-free-school-meals-and-reduced-lunch-pandemic-programs-ending-spending-bill/11650887/)
 * [2022-06-06, 04:00:36](https://news.ycombinator.com/item?id=31637150) - [Show HN: Seal – Verifiable timestamp for your private ideas](https://docs.planet.ink/data/seal/)

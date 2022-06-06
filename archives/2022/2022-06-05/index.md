@@ -62,6 +62,7 @@
 * [2022-06-05, 07:50:08](https://news.ycombinator.com/item?id=31628886) - [I Cheated on My Microsoft Interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
 * [2022-06-05, 07:40:11](https://news.ycombinator.com/item?id=31628848) - [It Costs $110k to Fully Gear-Up in Diablo Immortal](https://gamerant.com/diablo-immortal-pay-to-win-legendary-gems/)
 * [2022-06-05, 07:34:16](https://news.ycombinator.com/item?id=31628832) - [RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)](https://www.liebertpub.com/doi/10.1089/ast.2022.0027)
+* [2022-06-05, 07:12:35](https://news.ycombinator.com/item?id=31628740) - [The mesmerising murmurations of Europe’s starlings](https://www.theguardian.com/artanddesign/2022/jun/05/a-fragment-of-eternity-the-mesmerising-murmurations-of-europes-starlings)
 * [2022-06-05, 07:10:10](https://news.ycombinator.com/item?id=31628733) - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
