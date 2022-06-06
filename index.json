@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-06-06, 12:48:28",
+      "https://news.ycombinator.com/item?id=31639788"
+    ],
+    [
+      "Oxygen.jl: A breath of fresh air for programming web apps in Julia",
+      "https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 11:09:24",
       "https://news.ycombinator.com/item?id=31639002"
     ],
@@ -257,16 +267,6 @@
     [
       "Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe",
       "https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 05:18:56",
-      "https://news.ycombinator.com/item?id=31637428"
-    ],
-    [
-      "No-op statements syntactically valid only since Python X.Y",
-      "https://github.com/jwilk/python-syntax-errors"
     ]
   ],
   [
