@@ -70,6 +70,7 @@
 * [2022-06-04, 05:32:39](https://news.ycombinator.com/item?id=31617298) - [Building a World’s Fair: A Closer Look](https://opensfhistory.org/news/2022/02/20/building-a-worlds-fair-a-closer-look/)
 * [2022-06-04, 05:28:50](https://news.ycombinator.com/item?id=31617282) - [Sanctions and Strategic Bombing](https://scholars-stage.org/of-sanctions-and-strategic-bombers/)
 * [2022-06-04, 05:09:34](https://news.ycombinator.com/item?id=31617198) - [Linux Laptop – HP Dev One Is Available](https://hpdevone.com/#specs)
+* [2022-06-04, 05:07:34](https://news.ycombinator.com/item?id=31617184) - [Asemic Writing](https://en.wikipedia.org/wiki/Asemic_writing)
 * [2022-06-04, 04:45:08](https://news.ycombinator.com/item?id=31617072) - [The Beauty of Unix Pipelines (2020)](https://prithu.dev/posts/unix-pipeline/)
 * [2022-06-04, 03:56:46](https://news.ycombinator.com/item?id=31616837) - [PiRogue – mobile forensic and network analysis](https://piroguetoolsuite.github.io/)
 * [2022-06-04, 02:54:18](https://news.ycombinator.com/item?id=31616506) - [Persistence of Vision Test](https://www.testufo.com/persistence)

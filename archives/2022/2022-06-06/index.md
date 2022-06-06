@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
 * [2022-06-06, 03:43:55](https://news.ycombinator.com/item?id=31637082) - [What is a programmable programming language?](https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/)
+* [2022-06-06, 03:15:55](https://news.ycombinator.com/item?id=31636973) - [Lumber Prices Slump](https://www.wsj.com/articles/lumber-prices-slump-with-rising-interest-rates-11653835230)
 * [2022-06-06, 03:09:14](https://news.ycombinator.com/item?id=31636949) - [Wordmul: Wordle for Multics](https://portal.mozz.us/gemini/arcanesciences.com/gemlog/22-06-05/)
 * [2022-06-06, 02:31:50](https://news.ycombinator.com/item?id=31636812) - [Absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
 * [2022-06-06, 02:21:33](https://news.ycombinator.com/item?id=31636768) - [Show HN: Pidove, an Alternative to the Java Streams API](https://github.com/paulhoule/pidove)
+* [2022-06-06, 01:59:53](https://news.ycombinator.com/item?id=31636657) - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 * [2022-06-06, 01:57:03](https://news.ycombinator.com/item?id=31636642) - [Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools](https://github.com/tinygo-org/tinygo)
 * [2022-06-06, 01:25:08](https://news.ycombinator.com/item?id=31636482) - [Source code for 4kb demoscene production “Elevated” released (2016)](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
 * [2022-06-06, 01:11:20](https://news.ycombinator.com/item?id=31636422) - [Zipf's Law](https://plus.maths.org/content/mystery-zipf)
