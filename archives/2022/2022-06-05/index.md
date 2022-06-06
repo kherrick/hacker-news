@@ -67,6 +67,7 @@
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [One Guy Ruined Hacktoberfest 2020 (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
+* [2022-06-05, 05:28:55](https://news.ycombinator.com/item?id=31628295) - [Sabertooth carcass consumption behavior and Pleistocene large carnivoran guilds](https://www.nature.com/articles/s41598-022-09480-7)
 * [2022-06-05, 05:28:42](https://news.ycombinator.com/item?id=31628293) - [Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua](https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660)
 * [2022-06-05, 05:07:32](https://news.ycombinator.com/item?id=31628197) - [A Day at the Grease Plant](https://placesjournal.org/article/gordon-parks-photographs-pittsburgh-grease-plant/)
 * [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
