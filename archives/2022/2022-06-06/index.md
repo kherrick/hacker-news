@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 22:24:04](https://news.ycombinator.com/item?id=31647181) - [Tools for Better Thinking](https://untools.co)
+* [2022-06-06, 22:02:02](https://news.ycombinator.com/item?id=31646936) - [Hate paywalls? 12ft.io is the answer](https://robinwinslow.uk/hate-paywalls-12ft.io-is-the-answer)
 * [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth](https://www.econlib.org/archives/2016/09/the_math_myth.html)
+* [2022-06-06, 21:14:51](https://news.ycombinator.com/item?id=31646359) - [Cuba about to adopt the most progressive family law in the world](https://en.granma.cu/cuba/2022-05-19/families-plural)
 * [2022-06-06, 20:48:48](https://news.ycombinator.com/item?id=31646043) - [Axon Ditches Plan for Weaponized Taser Drones (Majority of Ethics Board Resigns)](https://www.wsj.com/articles/axon-ditches-plans-for-weaponized-taser-drones-as-majority-of-ethics-board-resigns-11654545598)
 * [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 * [2022-06-06, 20:14:44](https://news.ycombinator.com/item?id=31645571) - [Enabling Developer Mode on a Device](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device)
