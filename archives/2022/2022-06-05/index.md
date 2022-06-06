@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-05](index.md)
 
 * [2022-06-05, 23:43:26](https://news.ycombinator.com/item?id=31635886) - [Oregon expands electric vehicle charging statewide](https://www.kgw.com/article/news/local/good-energy/electric-vehicle-charging-stations-oregon/283-ed184a5e-fdd3-4e25-a63d-ea85b93c338a)
+* [2022-06-05, 22:01:24](https://news.ycombinator.com/item?id=31635242) - [Water Pump Theory](https://powerequipment.honda.com/pumps/pump-theory)
 * [2022-06-05, 21:48:44](https://news.ycombinator.com/item?id=31635145) - [Italian CPU – The Genesys B52 MMX](https://www.cpushack.com/2021/08/12/forgotten-italian-cpu-the-genesys-b52-mmx/)
 * [2022-06-05, 21:16:56](https://news.ycombinator.com/item?id=31634937) - [The Depegging of UST](https://jumpcrypto.com/the-depegging-of-ust/)
 * [2022-06-05, 21:14:47](https://news.ycombinator.com/item?id=31634921) - [P.A. Semi PA6T PowerPC](https://www.cpushack.com/2022/06/05/cpu-of-the-day-p-a-semi-pa6t-powerpc/)
@@ -53,6 +54,7 @@
 * [2022-06-05, 09:54:00](https://news.ycombinator.com/item?id=31629486) - [My Big Fat Monolithic Alert](https://cherkaskyb.medium.com/my-big-fat-monolithic-alert-498f21c1bb8a)
 * [2022-06-05, 09:28:01](https://news.ycombinator.com/item?id=31629321) - [How Electric Fish Were Able to Evolve Electric Organs](https://news.utexas.edu/2022/06/01/how-electric-fish-were-able-to-evolve-electric-organs/)
 * [2022-06-05, 09:16:44](https://news.ycombinator.com/item?id=31629261) - [The Flossbank Attempt](https://medium.com/@joelwass/the-flossbank-attempt-de9d8ecc1dcf)
+* [2022-06-05, 09:03:27](https://news.ycombinator.com/item?id=31629210) - [Data Source Concordance for Infectious Disease Epidemiology](https://www.medrxiv.org/content/10.1101/2022.06.02.22275926v1)
 * [2022-06-05, 08:35:04](https://news.ycombinator.com/item?id=31629082) - [Thinking beyond privacy: the risks of big tech’s entry into public sectors](https://news.ycombinator.com/)
 * [2022-06-05, 08:32:52](https://news.ycombinator.com/item?id=31629073) - [Dutch Airline Pilots Association blocks mandated vaccinations for new pilots](https://gaacoalition.substack.com/p/dutch-airline-pilots-association)
 * [2022-06-05, 08:03:13](https://news.ycombinator.com/item?id=31628939) - [Gitea – a painless self-hosted Git service](https://gitea.io/en-us/)
