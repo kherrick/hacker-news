@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 * [2022-06-07, 15:29:21](https://news.ycombinator.com/item?id=31655793) - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)

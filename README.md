@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 * [2022-06-07, 15:29:21](https://news.ycombinator.com/item?id=31655793) - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
@@ -12,7 +13,6 @@
 * [2022-06-07, 13:45:51](https://news.ycombinator.com/item?id=31654222) - [Photonic Chip Performs Image Recognition at the Speed of Light](https://spectrum.ieee.org/photonic-neural-network)
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
-* [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 13:09:39](https://news.ycombinator.com/item?id=31653710) - [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
 * [2022-06-07, 12:06:46](https://news.ycombinator.com/item?id=31652939) - [Show HN: Unreal Speech – Text-to-Speech API](https://unrealspeech.com/)
 * [2022-06-07, 11:49:24](https://news.ycombinator.com/item?id=31652781) - [The firefly population could be declining](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
