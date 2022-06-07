@@ -8,6 +8,7 @@
 * [2022-06-07, 13:45:51](https://news.ycombinator.com/item?id=31654222) - [Photonic Chip Performs Image Recognition at the Speed of Light](https://spectrum.ieee.org/photonic-neural-network)
 * [2022-06-07, 13:39:50](https://news.ycombinator.com/item?id=31654133) - [Centaur Labs (YC W19) Is Hiring a React Engineer in Boston/Remote](https://www.centaurlabs.com/open-positions?gh_jid=4156173004)
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
+* [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
 * [2022-06-07, 13:19:43](https://news.ycombinator.com/item?id=31653824) - [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
 * [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 13:09:39](https://news.ycombinator.com/item?id=31653710) - [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
@@ -17,7 +18,6 @@
 * [2022-06-07, 11:36:43](https://news.ycombinator.com/item?id=31652650) - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
 * [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
-* [2022-06-07, 10:46:34](https://news.ycombinator.com/item?id=31652264) - [Mark Cuban is tackling out-of-control drug prices](https://pharmaphorum.com/views-and-analysis/how-celebrity-investor-mark-cuban-is-tackling-out-of-control-drug-prices/)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Letter in Support of Responsible Fintech Policy](https://concerned.tech/)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 * [2022-06-07, 08:00:04](https://news.ycombinator.com/item?id=31651146) - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
@@ -28,8 +28,8 @@
 * [2022-06-06, 12:49:00](https://news.ycombinator.com/item?id=31639793) - [Fli4l – The on(e) disk router (2020)](https://www.fli4l.de/en/home/news/)
 * [2022-06-06, 12:01:44](https://news.ycombinator.com/item?id=31639382) - [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
 * [2022-06-05, 14:36:01](https://news.ycombinator.com/item?id=31631352) - [Benchmarking Malloc with Doom 3](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
-* [2022-06-05, 13:28:39](https://news.ycombinator.com/item?id=31630805) - [Twitch.js](https://twitch.js.org/)
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630609) - [I Built a Ruby Parser](https://mpov.timmorgan.org/i-built-a-ruby-parser/)
+* [2022-06-05, 05:05:07](https://news.ycombinator.com/item?id=31628181) - [How to Draw Animals (1930)](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
 
 ## [Archives](archives/index.md)
 

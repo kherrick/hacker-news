@@ -92,6 +92,7 @@
 * [2022-06-05, 05:28:42](https://news.ycombinator.com/item?id=31628293) - [Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua](https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660)
 * [2022-06-05, 05:07:32](https://news.ycombinator.com/item?id=31628197) - [A Day at the Grease Plant](https://placesjournal.org/article/gordon-parks-photographs-pittsburgh-grease-plant/)
 * [2022-06-05, 05:05:16](https://news.ycombinator.com/item?id=31628183) - [Agents in the Ether](https://inference-review.com/article/agents-in-the-ether)
+* [2022-06-05, 05:05:07](https://news.ycombinator.com/item?id=31628181) - [How to Draw Animals (1930)](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
 * [2022-06-05, 04:49:10](https://news.ycombinator.com/item?id=31628112) - [Enough Is Enough: The Criminal Case Against Mark Zuckerberg](https://mattstoller.substack.com/p/enough-is-enough-the-criminal-case)
 * [2022-06-05, 04:30:04](https://news.ycombinator.com/item?id=31628027) - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
 * [2022-06-05, 04:08:32](https://news.ycombinator.com/item?id=31627925) - [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster)
