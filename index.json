@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-07, 03:38:37",
+      "https://news.ycombinator.com/item?id=31649617"
+    ],
+    [
+      "Performance of coroutine-style lexers in Go",
+      "https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 02:32:41",
       "https://news.ycombinator.com/item?id=31649237"
     ],
@@ -207,16 +217,6 @@
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 13:40:48",
-      "https://news.ycombinator.com/item?id=31640297"
-    ],
-    [
-      "Graduate Student’s Side Project Proves Prime Number Conjecture",
-      "https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/"
     ]
   ],
   [
