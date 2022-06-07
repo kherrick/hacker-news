@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-07, 15:29:21](https://news.ycombinator.com/item?id=31655793) - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
-* [2022-06-07, 14:30:40](https://news.ycombinator.com/item?id=31654889) - [Octagon Networks converts its entire balance sheet into Bitcoin](https://octagon.net/press/2022/06/05/octagon-networks-converts-its-balance-sheet-into-bitcoin/)
 * [2022-06-07, 14:28:32](https://news.ycombinator.com/item?id=31654863) - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
 * [2022-06-07, 14:24:17](https://news.ycombinator.com/item?id=31654797) - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
@@ -13,6 +12,7 @@
 * [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 13:09:39](https://news.ycombinator.com/item?id=31653710) - [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
 * [2022-06-07, 12:10:10](https://news.ycombinator.com/item?id=31652979) - [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
+* [2022-06-07, 12:06:46](https://news.ycombinator.com/item?id=31652939) - [Show HN: Unreal Speech – Text-to-Speech API](https://unrealspeech.com/)
 * [2022-06-07, 11:49:24](https://news.ycombinator.com/item?id=31652781) - [The firefly population could be declining](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
 * [2022-06-07, 11:36:43](https://news.ycombinator.com/item?id=31652650) - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
 * [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
