@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-07, 22:01:06",
+      "https://news.ycombinator.com/item?id=31660571"
+    ],
+    [
+      "When Shipping Containers Sink in the Drink",
+      "https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 21:25:37",
       "https://news.ycombinator.com/item?id=31660272"
     ],
@@ -37,16 +47,6 @@
     [
       "Dhall: A Gateway Drug to Haskell",
       "https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 18:31:43",
-      "https://news.ycombinator.com/item?id=31658330"
-    ],
-    [
-      "Efficiently irrational: deciphering the riddle of human choice [pdf]",
-      "https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "What’s the best lossless image format?",
       "https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 15:19:40",
-      "https://news.ycombinator.com/item?id=31655651"
-    ],
-    [
-      "OptiPNG vs. PNGcrush vs. Gimp to Reduce PNG Size",
-      "https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)",
       "https://github.com/sensity-ai/dot"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 07:05:36",
+      "https://news.ycombinator.com/item?id=31650782"
+    ],
+    [
+      "How does a logic gate in a microchip work?",
+      "https://www.scientificamerican.com/article/how-does-a-logic-gate-in/"
     ]
   ],
   [
