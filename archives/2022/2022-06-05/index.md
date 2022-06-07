@@ -51,6 +51,7 @@
 * [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [The Philistines were likely of Greek origin, according to DNA](https://greekreporter.com/2022/05/18/philistines-greek/)
 * [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [Ancient DNA may reveal origin of the Philistines](https://www.nationalgeographic.com/culture/article/ancient-dna-reveal-philistine-origins)
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630610) - [Show HN: To prevent dry eyes and back pain, I create a macOS app](https://news.ycombinator.com/item?id=31630610)
+* [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630609) - [I Built a Ruby Parser](https://mpov.timmorgan.org/i-built-a-ruby-parser/)
 * [2022-06-05, 12:52:58](https://news.ycombinator.com/item?id=31630545) - [The Atari Years (2014)](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-5/the-atari-years.html)
 * [2022-06-05, 12:51:17](https://news.ycombinator.com/item?id=31630529) - [I Had Ramen Every Day for a Week, Here's What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
 * [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
