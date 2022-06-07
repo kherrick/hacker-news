@@ -7,6 +7,7 @@
 * [2022-06-07, 08:00:04](https://news.ycombinator.com/item?id=31651146) - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
 * [2022-06-07, 07:51:38](https://news.ycombinator.com/item?id=31651086) - [Please, don't build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
 * [2022-06-07, 07:32:41](https://news.ycombinator.com/item?id=31650959) - [Figma Is Down](https://status.figma.com)
+* [2022-06-07, 07:17:49](https://news.ycombinator.com/item?id=31650859) - [Why Emacs Has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
 * [2022-06-07, 07:07:38](https://news.ycombinator.com/item?id=31650797) - [Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)](https://github.com/sensity-ai/dot)
 * [2022-06-07, 05:48:15](https://news.ycombinator.com/item?id=31650320) - [Eu.org, free domain names since 1996](https://nic.eu.org/)
 * [2022-06-07, 05:40:16](https://news.ycombinator.com/item?id=31650268) - [Ask HN: When you code at work, how do you code in your time off?](https://news.ycombinator.com/item?id=31650268)
