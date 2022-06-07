@@ -6,6 +6,7 @@
 
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
+* [2022-06-07, 16:51:02](https://news.ycombinator.com/item?id=31657068) - [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 * [2022-06-07, 15:29:21](https://news.ycombinator.com/item?id=31655793) - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
 * [2022-06-07, 15:19:40](https://news.ycombinator.com/item?id=31655651) - [OptiPNG vs. PNGcrush vs. Gimp to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
@@ -50,6 +51,7 @@
 * [2022-06-07, 03:38:37](https://news.ycombinator.com/item?id=31649617) - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
 * [2022-06-07, 02:32:41](https://news.ycombinator.com/item?id=31649237) - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
 * [2022-06-07, 02:31:37](https://news.ycombinator.com/item?id=31649228) - [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
+* [2022-06-07, 01:55:15](https://news.ycombinator.com/item?id=31648995) - [In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use](https://www.atlasobscura.com/articles/psychedelic-mushroom-algeria)
 * [2022-06-07, 01:16:56](https://news.ycombinator.com/item?id=31648690) - [Tell HN: Apple rejecting cross platform apps (React Native, Flutter, Capacitor)](https://news.ycombinator.com/item?id=31648690)
 * [2022-06-07, 01:09:03](https://news.ycombinator.com/item?id=31648636) - [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
 * [2022-06-07, 00:22:47](https://news.ycombinator.com/item?id=31648326) - [Tell HN: I used the same computer since 2007 (with minor upgrades)](https://news.ycombinator.com/item?id=31648326)

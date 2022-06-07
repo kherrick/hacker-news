@@ -2,6 +2,7 @@
 
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
+* [2022-06-07, 16:51:02](https://news.ycombinator.com/item?id=31657068) - [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 * [2022-06-07, 15:29:21](https://news.ycombinator.com/item?id=31655793) - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
 * [2022-06-07, 15:19:40](https://news.ycombinator.com/item?id=31655651) - [OptiPNG vs. PNGcrush vs. Gimp to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
@@ -25,8 +26,7 @@
 * [2022-06-07, 07:17:49](https://news.ycombinator.com/item?id=31650859) - [Why Emacs has buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
 * [2022-06-07, 07:07:38](https://news.ycombinator.com/item?id=31650797) - [Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)](https://github.com/sensity-ai/dot)
 * [2022-06-07, 05:48:15](https://news.ycombinator.com/item?id=31650320) - [Eu.org, free domain names since 1996](https://nic.eu.org/)
-* [2022-06-06, 12:49:00](https://news.ycombinator.com/item?id=31639793) - [Fli4l – The on(e) disk router (2020)](https://www.fli4l.de/en/home/news/)
-* [2022-06-06, 12:01:44](https://news.ycombinator.com/item?id=31639382) - [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
+* [2022-06-07, 01:55:15](https://news.ycombinator.com/item?id=31648995) - [In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use](https://www.atlasobscura.com/articles/psychedelic-mushroom-algeria)
 * [2022-06-05, 14:36:01](https://news.ycombinator.com/item?id=31631352) - [Benchmarking Malloc with Doom 3](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630609) - [I Built a Ruby Parser](https://mpov.timmorgan.org/i-built-a-ruby-parser/)
 * [2022-06-05, 05:05:07](https://news.ycombinator.com/item?id=31628181) - [How to Draw Animals (1930)](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
