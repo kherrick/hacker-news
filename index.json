@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-06-07, 01:16:56",
+      "https://news.ycombinator.com/item?id=31648690"
+    ],
+    [
+      "Tell HN: Apple rejecting cross platform apps (React Native, Flutter, Capacitor)",
+      "https://news.ycombinator.com/item?id=31648690"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 00:22:47",
+      "https://news.ycombinator.com/item?id=31648326"
+    ],
+    [
+      "Tell HN: I used the same computer since 2007 (with minor upgrades)",
+      "https://news.ycombinator.com/item?id=31648326"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 00:04:00",
       "https://news.ycombinator.com/item?id=31648180"
     ],
     [
       "An insight into live video streaming infrastructure at Twitch",
       "https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 00:03:41",
+      "https://news.ycombinator.com/item?id=31648175"
+    ],
+    [
+      "Starlight.jl – A game engine written in Julia",
+      "https://github.com/jhigginbotham64/Starlight.jl"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 23:13:06",
+      "https://news.ycombinator.com/item?id=31647666"
+    ],
+    [
+      "iOS 16",
+      "https://www.apple.com/ios/ios-16-preview/"
     ]
   ],
   [
@@ -61,42 +101,12 @@
   ],
   [
     [
-      "2022-06-06, 19:13:12",
-      "https://news.ycombinator.com/item?id=31644622"
-    ],
-    [
-      "News from WWDC22: WebKit Features in Safari 16 Beta",
-      "https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 19:02:45",
-      "https://news.ycombinator.com/item?id=31644424"
-    ],
-    [
-      "iOS 16 to support Web push notifications in 2023",
-      "https://www.apple.com/ios/ios-16-preview/features/"
-    ]
-  ],
-  [
-    [
       "2022-06-06, 18:49:53",
       "https://news.ycombinator.com/item?id=31644188"
     ],
     [
       "iPadOS 16",
       "https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 18:34:16",
-      "https://news.ycombinator.com/item?id=31644019"
-    ],
-    [
-      "Apple unveils all-new MacBook Air, supercharged by the new M2 chip",
-      "https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2022-06-06, 10:03:34",
-      "https://news.ycombinator.com/item?id=31638697"
+      "2022-06-06, 08:35:30",
+      "https://news.ycombinator.com/item?id=31638363"
     ],
     [
-      "How to open a safe",
-      "https://github.com/H4ckd4ddy/bypass-sentry-safe"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 09:51:51",
-      "https://news.ycombinator.com/item?id=31638648"
-    ],
-    [
-      "OpenStreetMap's Data Model",
-      "https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 07:41:43",
-      "https://news.ycombinator.com/item?id=31638111"
-    ],
-    [
-      "Hopular: Modern Hopfield Networks for Tabular Data",
-      "https://paperswithcode.com/paper/hopular-modern-hopfield-networks-for-tabular-1"
+      "What are Lichtenberg figures, and how do we make them?",
+      "http://capturedlightning.com/frames/lichtenbergs.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "What SRE Could Be",
       "https://blog.relyabilit.ie/what-sre-could-be/"
+    ]
+  ],
+  [
+    [
+      "2022-06-05, 13:13:59",
+      "https://news.ycombinator.com/item?id=31630680"
+    ],
+    [
+      "Standards, Semantics, & Sequential Art",
+      "https://digitalcomics.co/index.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31629131"
     ],
     [
-      "Carmakers feel chip crisis easing as global growth slows",
+      "Carmakers feel chip crisis easing",
       "https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows"
     ]
   ],
