@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 12:42:39](https://news.ycombinator.com/item?id=31653351) - [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
 * [2022-06-07, 12:19:12](https://news.ycombinator.com/item?id=31653088) - [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
 * [2022-06-07, 12:10:10](https://news.ycombinator.com/item?id=31652979) - [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
 * [2022-06-07, 12:06:46](https://news.ycombinator.com/item?id=31652939) - [Show HN: Better (arguably) & 8x cheaper text-to-speech than AWS](https://unrealspeech.com/)
