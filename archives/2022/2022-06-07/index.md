@@ -7,6 +7,8 @@
 * [2022-06-07, 14:24:17](https://news.ycombinator.com/item?id=31654797) - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
 * [2022-06-07, 13:57:09](https://news.ycombinator.com/item?id=31654358) - [Talent Cooling](https://nirantk.com/writing/talentcooling.html)
+* [2022-06-07, 13:48:26](https://news.ycombinator.com/item?id=31654257) - [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
+* [2022-06-07, 13:45:51](https://news.ycombinator.com/item?id=31654222) - [Photonic Chip Performs Image Recognition in 570 Picoseconds](https://spectrum.ieee.org/photonic-neural-network)
 * [2022-06-07, 13:39:50](https://news.ycombinator.com/item?id=31654133) - [Centaur Labs (YC W19) Is Hiring a React Engineer in Boston/Remote](https://www.centaurlabs.com/open-positions?gh_jid=4156173004)
 * [2022-06-07, 13:34:09](https://news.ycombinator.com/item?id=31654053) - [Dear Crypto](https://www.twitlonger.com/show/n_1ss24a6)
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
