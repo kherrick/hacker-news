@@ -2,7 +2,6 @@
 
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 * [2022-06-07, 08:00:04](https://news.ycombinator.com/item?id=31651146) - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
-* [2022-06-07, 07:51:50](https://news.ycombinator.com/item?id=31651088) - [Vimix – Video Live Mixer](https://brunoherbelin.github.io/vimix/)
 * [2022-06-07, 07:51:38](https://news.ycombinator.com/item?id=31651086) - [Please, don't build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
 * [2022-06-07, 07:17:49](https://news.ycombinator.com/item?id=31650859) - [Why Emacs Has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
 * [2022-06-07, 07:17:27](https://news.ycombinator.com/item?id=31650857) - [Dark Sky Has a New Home (2020)](https://blog.darksky.net/dark-sky-has-a-new-home/)
@@ -21,6 +20,7 @@
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 18:49:53](https://news.ycombinator.com/item?id=31644188) - [iPadOS 16](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
 * [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
+* [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 11:21:45](https://news.ycombinator.com/item?id=31639089) - [The Lazy Monad](https://blog.ploeh.dk/2022/05/30/the-lazy-monad/)
 * [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 * [2022-06-06, 09:27:39](https://news.ycombinator.com/item?id=31638552) - [Show HN: Micro LZMA decoder (x86 assembly code golf)](https://github.com/ilyakurdyukov/micro-lzmadec)
