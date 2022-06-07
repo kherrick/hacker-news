@@ -16,6 +16,7 @@
 * [2022-06-07, 13:34:09](https://news.ycombinator.com/item?id=31654053) - [Dear Crypto](https://www.twitlonger.com/show/n_1ss24a6)
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 13:19:43](https://news.ycombinator.com/item?id=31653824) - [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
+* [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 13:09:39](https://news.ycombinator.com/item?id=31653710) - [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
 * [2022-06-07, 12:42:39](https://news.ycombinator.com/item?id=31653351) - [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
 * [2022-06-07, 12:19:12](https://news.ycombinator.com/item?id=31653088) - [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
