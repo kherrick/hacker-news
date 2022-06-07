@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 13:39:50](https://news.ycombinator.com/item?id=31654133) - [Centaur Labs (YC W19) Is Hiring a React Engineer in Boston/Remote](https://www.centaurlabs.com/open-positions?gh_jid=4156173004)
+* [2022-06-07, 13:34:09](https://news.ycombinator.com/item?id=31654053) - [Dear Crypto](https://www.twitlonger.com/show/n_1ss24a6)
+* [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 12:42:39](https://news.ycombinator.com/item?id=31653351) - [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
 * [2022-06-07, 12:19:12](https://news.ycombinator.com/item?id=31653088) - [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
 * [2022-06-07, 12:10:10](https://news.ycombinator.com/item?id=31652979) - [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
@@ -14,6 +17,7 @@
 * [2022-06-07, 11:31:52](https://news.ycombinator.com/item?id=31652609) - [USB-C will be mandatory for phones sold in the EU ‘by autumn 2024’](https://www.theverge.com/2022/6/7/23156361/european-union-usb-c-wired-charging-iphone-lightning-ewaste)
 * [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
+* [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Letter in Support of Responsible Fintech Policy](https://concerned.tech/)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 * [2022-06-07, 08:00:04](https://news.ycombinator.com/item?id=31651146) - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
