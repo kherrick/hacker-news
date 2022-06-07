@@ -9,6 +9,7 @@
 * [2022-06-07, 18:31:43](https://news.ycombinator.com/item?id=31658330) - [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
 * [2022-06-07, 18:10:13](https://news.ycombinator.com/item?id=31658086) - [Please don't unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
+* [2022-06-07, 17:26:53](https://news.ycombinator.com/item?id=31657527) - [Show HN: Umbrel – A personal server OS for self-hosting](https://umbrel.com)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
 * [2022-06-07, 16:51:02](https://news.ycombinator.com/item?id=31657068) - [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
