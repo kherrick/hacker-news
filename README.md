@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-07, 01:16:56](https://news.ycombinator.com/item?id=31648690) - [Tell HN: Apple rejecting cross platform apps (React Native, Flutter, Capacitor)](https://news.ycombinator.com/item?id=31648690)
+* [2022-06-07, 02:32:41](https://news.ycombinator.com/item?id=31649237) - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
+* [2022-06-07, 02:31:37](https://news.ycombinator.com/item?id=31649228) - [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
+* [2022-06-07, 01:09:03](https://news.ycombinator.com/item?id=31648636) - [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
 * [2022-06-07, 00:22:47](https://news.ycombinator.com/item?id=31648326) - [Tell HN: I used the same computer since 2007 (with minor upgrades)](https://news.ycombinator.com/item?id=31648326)
 * [2022-06-07, 00:04:00](https://news.ycombinator.com/item?id=31648180) - [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
 * [2022-06-07, 00:03:41](https://news.ycombinator.com/item?id=31648175) - [Starlight.jl – A game engine written in Julia](https://github.com/jhigginbotham64/Starlight.jl)
@@ -11,7 +13,6 @@
 * [2022-06-06, 20:13:21](https://news.ycombinator.com/item?id=31645558) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 18:49:53](https://news.ycombinator.com/item?id=31644188) - [iPadOS 16](https://www.apple.com/newsroom/2022/06/ipados-16-takes-the-versatility-of-ipad-even-further/)
-* [2022-06-06, 18:33:27](https://news.ycombinator.com/item?id=31644008) - [Apple Unveils M2](https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/)
 * [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
 * [2022-06-06, 17:37:59](https://news.ycombinator.com/item?id=31643345) - [Great timing, supercomputer upgrade lead to successful forecast of eruption](https://news.illinois.edu/view/6367/913924091)
 * [2022-06-06, 17:00:25](https://news.ycombinator.com/item?id=31642927) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
@@ -26,9 +27,8 @@
 * [2022-06-05, 14:55:23](https://news.ycombinator.com/item?id=31631509) - [Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399](https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/)
 * [2022-06-05, 14:30:41](https://news.ycombinator.com/item?id=31631302) - [What SRE Could Be](https://blog.relyabilit.ie/what-sre-could-be/)
 * [2022-06-05, 13:13:59](https://news.ycombinator.com/item?id=31630680) - [Standards, Semantics, & Sequential Art](https://digitalcomics.co/index.html)
-* [2022-06-05, 12:52:58](https://news.ycombinator.com/item?id=31630545) - [The Atari Years (2014)](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-5/the-atari-years.html)
-* [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
 * [2022-06-05, 08:45:09](https://news.ycombinator.com/item?id=31629131) - [Carmakers feel chip crisis easing](https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows)
+* [2022-06-05, 05:47:07](https://news.ycombinator.com/item?id=31628385) - [A run across Mexico](https://www.washingtonpost.com/world/interactive/2022/mexico-runner-german-silva/)
 * [2022-06-05, 05:32:15](https://news.ycombinator.com/item?id=31628311) - [Sega announces a tiny Sega CD retro console](https://arstechnica.com/gaming/2022/06/adorable-japan-only-sega-mega-drive-mini-2-faithfully-recreates-the-sega-cd/)
 
 ## [Archives](archives/index.md)

@@ -79,6 +79,7 @@
 * [2022-06-05, 07:10:10](https://news.ycombinator.com/item?id=31628733) - [Analysis of a large brute force attack campaign against Windows Remote Desktop](https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop)
 * [2022-06-05, 07:00:46](https://news.ycombinator.com/item?id=31628699) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-05, 06:03:11](https://news.ycombinator.com/item?id=31628436) - [Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)](https://mlabonne.github.io/blog/minecraft/)
+* [2022-06-05, 05:47:07](https://news.ycombinator.com/item?id=31628385) - [A run across Mexico](https://www.washingtonpost.com/world/interactive/2022/mexico-runner-german-silva/)
 * [2022-06-05, 05:38:45](https://news.ycombinator.com/item?id=31628342) - [One Guy Ruined Hacktoberfest 2020 (2020)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 * [2022-06-05, 05:32:15](https://news.ycombinator.com/item?id=31628311) - [Sega announces a tiny Sega CD retro console](https://arstechnica.com/gaming/2022/06/adorable-japan-only-sega-mega-drive-mini-2-faithfully-recreates-the-sega-cd/)
 * [2022-06-05, 05:28:55](https://news.ycombinator.com/item?id=31628295) - [Sabertooth carcass consumption behavior and Pleistocene large carnivoran guilds](https://www.nature.com/articles/s41598-022-09480-7)
