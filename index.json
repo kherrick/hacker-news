@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-07, 07:51:38",
+      "https://news.ycombinator.com/item?id=31651086"
+    ],
+    [
+      "Please, don't build another Large Hadron Collider",
+      "https://bigthink.com/hard-science/large-hadron-collider-economics/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 07:32:41",
+      "https://news.ycombinator.com/item?id=31650959"
+    ],
+    [
+      "Figma Is Down",
+      "https://status.figma.com"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 07:07:38",
+      "https://news.ycombinator.com/item?id=31650797"
+    ],
+    [
+      "Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)",
+      "https://github.com/sensity-ai/dot"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 05:48:15",
       "https://news.ycombinator.com/item?id=31650320"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-06-06, 23:13:06",
-      "https://news.ycombinator.com/item?id=31647666"
-    ],
-    [
-      "iOS 16",
-      "https://www.apple.com/ios/ios-16-preview/"
-    ]
-  ],
-  [
-    [
       "2022-06-06, 22:24:04",
       "https://news.ycombinator.com/item?id=31647181"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-06-06, 16:49:51",
-      "https://news.ycombinator.com/item?id=31642801"
-    ],
-    [
-      "Windows 9x Video Minidriver HD+",
-      "http://www.os2museum.com/wp/windows-9x-video-minidriver-hd/"
-    ]
-  ],
-  [
-    [
       "2022-06-06, 15:28:22",
       "https://news.ycombinator.com/item?id=31641716"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-06-06, 13:40:48",
-      "https://news.ycombinator.com/item?id=31640297"
+      "2022-06-06, 11:21:45",
+      "https://news.ycombinator.com/item?id=31639089"
     ],
     [
-      "Graduate Student’s Side Project Proves Prime Number Conjecture",
-      "https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/"
+      "The Lazy Monad",
+      "https://blog.ploeh.dk/2022/05/30/the-lazy-monad/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Show HN: Micro LZMA decoder (x86 assembly code golf)",
       "https://github.com/ilyakurdyukov/micro-lzmadec"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 14:55:23",
-      "https://news.ycombinator.com/item?id=31631509"
-    ],
-    [
-      "Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399",
-      "https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/"
     ]
   ],
   [
