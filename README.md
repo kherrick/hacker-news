@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 14:30:40](https://news.ycombinator.com/item?id=31654889) - [Octagon Networks converts its entire balance sheet into Bitcoin](https://octagon.net/press/2022/06/05/octagon-networks-converts-its-balance-sheet-into-bitcoin/)
 * [2022-06-07, 14:28:32](https://news.ycombinator.com/item?id=31654863) - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
 * [2022-06-07, 14:24:17](https://news.ycombinator.com/item?id=31654797) - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
@@ -22,9 +23,8 @@
 * [2022-06-07, 07:17:49](https://news.ycombinator.com/item?id=31650859) - [Why Emacs has buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
 * [2022-06-07, 07:07:38](https://news.ycombinator.com/item?id=31650797) - [Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)](https://github.com/sensity-ai/dot)
 * [2022-06-07, 05:48:15](https://news.ycombinator.com/item?id=31650320) - [Eu.org, free domain names since 1996](https://nic.eu.org/)
-* [2022-06-06, 12:10:31](https://news.ycombinator.com/item?id=31639453) - [Alban Berg’s Dissonances](https://www.nybooks.com/articles/2022/06/23/alban-bergs-dissonances-simms-erwin/)
+* [2022-06-06, 12:49:00](https://news.ycombinator.com/item?id=31639793) - [Fli4l: The on(e) disk router](https://www.fli4l.de/en/home/news/)
 * [2022-06-06, 12:01:44](https://news.ycombinator.com/item?id=31639382) - [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
-* [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 * [2022-06-05, 14:51:13](https://news.ycombinator.com/item?id=31631475) - [Maud: A Rust macro for writing HTML](https://maud.lambda.xyz/)
 * [2022-06-05, 14:36:01](https://news.ycombinator.com/item?id=31631352) - [Benchmarking Malloc with Doom 3](https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/)
 * [2022-06-05, 13:28:39](https://news.ycombinator.com/item?id=31630805) - [Twitch.js](https://twitch.js.org/)
