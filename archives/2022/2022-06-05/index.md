@@ -53,6 +53,7 @@
 * [2022-06-05, 12:52:58](https://news.ycombinator.com/item?id=31630545) - [The Atari Years (2014)](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-5/the-atari-years.html)
 * [2022-06-05, 12:51:17](https://news.ycombinator.com/item?id=31630529) - [I Had Ramen Every Day for a Week, Here's What Happened](https://www.thehealthy.com/food/ramen-every-day-for-week/)
 * [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
+* [2022-06-05, 12:09:47](https://news.ycombinator.com/item?id=31630260) - [I wrote a Brainfuck to Go compiler](https://kabirgoel.com/p/walnut)
 * [2022-06-05, 12:03:39](https://news.ycombinator.com/item?id=31630216) - [AOL 3.0 Finally Reverse Engineered](https://g.livejournal.com/10829.html)
 * [2022-06-05, 12:00:36](https://news.ycombinator.com/item?id=31630193) - [Symphonic Metal Bands: Nerdiness vs. Kickassery – A Statistical Analysis](https://medium.com/@WolframHempel_82303/symphonic-metal-bands-nerdiness-vs-kickassery-a-statistical-analysis-7c6ec4064286)
 * [2022-06-05, 12:00:16](https://news.ycombinator.com/item?id=31630189) - [The Muse (YC W12) Is Hiring a Senior Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
