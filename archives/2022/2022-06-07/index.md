@@ -8,6 +8,7 @@
 * [2022-06-07, 18:59:15](https://news.ycombinator.com/item?id=31658638) - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
 * [2022-06-07, 18:31:43](https://news.ycombinator.com/item?id=31658330) - [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
 * [2022-06-07, 18:10:13](https://news.ycombinator.com/item?id=31658086) - [Please don't unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
+* [2022-06-07, 17:32:57](https://news.ycombinator.com/item?id=31657607) - [FAA Continues to Stall on G100UL](https://www.avweb.com/insider/faa-continues-to-stall-on-g100ul/)
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:26:53](https://news.ycombinator.com/item?id=31657527) - [Show HN: Umbrel – A personal server OS for self-hosting](https://umbrel.com)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
