@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 12:19:12](https://news.ycombinator.com/item?id=31653088) - [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
+* [2022-06-07, 12:10:10](https://news.ycombinator.com/item?id=31652979) - [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
+* [2022-06-07, 12:06:46](https://news.ycombinator.com/item?id=31652939) - [Show HN: Better (arguably) & 8x cheaper text-to-speech than AWS](https://unrealspeech.com/)
+* [2022-06-07, 12:02:00](https://news.ycombinator.com/item?id=31652889) - [Atlassian Confluence Server CVE-2022-26134 being actively expoited in the wild](https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134)
 * [2022-06-07, 11:49:24](https://news.ycombinator.com/item?id=31652781) - [1 in 3 firefly species in North America may be at risk of extinction](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
 * [2022-06-07, 11:36:43](https://news.ycombinator.com/item?id=31652650) - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
+* [2022-06-07, 11:31:52](https://news.ycombinator.com/item?id=31652609) - [USB-C will be mandatory for phones sold in the EU ‘by autumn 2024’](https://www.theverge.com/2022/6/7/23156361/european-union-usb-c-wired-charging-iphone-lightning-ewaste)
 * [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
