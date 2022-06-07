@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 03:38:37](https://news.ycombinator.com/item?id=31649617) - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
 * [2022-06-07, 02:32:41](https://news.ycombinator.com/item?id=31649237) - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
 * [2022-06-07, 02:31:37](https://news.ycombinator.com/item?id=31649228) - [A six-month program in Britain will assess the effects of a shorter workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
 * [2022-06-07, 01:09:03](https://news.ycombinator.com/item?id=31648636) - [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
@@ -21,7 +22,6 @@
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 14:43:35](https://news.ycombinator.com/item?id=31641128) - [Walking the World: Seoul](https://walkingtheworld.substack.com/p/walking-the-world-seoul-part-1)
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
-* [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 * [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 * [2022-06-05, 14:55:23](https://news.ycombinator.com/item?id=31631509) - [Orange Pi 800 Keyboard PC – A Raspberry Pi 400 alternative powered by RK3399](https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/)
 * [2022-06-05, 14:30:41](https://news.ycombinator.com/item?id=31631302) - [What SRE Could Be](https://blog.relyabilit.ie/what-sre-could-be/)
