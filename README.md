@@ -20,6 +20,7 @@
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
 * [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
+* [2022-06-06, 12:01:44](https://news.ycombinator.com/item?id=31639382) - [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
 * [2022-06-06, 11:21:45](https://news.ycombinator.com/item?id=31639089) - [The Lazy Monad](https://blog.ploeh.dk/2022/05/30/the-lazy-monad/)
 * [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 * [2022-06-06, 09:27:39](https://news.ycombinator.com/item?id=31638552) - [Show HN: Micro LZMA decoder (x86 assembly code golf)](https://github.com/ilyakurdyukov/micro-lzmadec)
@@ -28,7 +29,6 @@
 * [2022-06-05, 13:01:42](https://news.ycombinator.com/item?id=31630609) - [I Built a Ruby Parser](https://mpov.timmorgan.org/i-built-a-ruby-parser/)
 * [2022-06-05, 12:09:47](https://news.ycombinator.com/item?id=31630260) - [I wrote a Brainfuck to Go compiler](https://kabirgoel.com/p/walnut)
 * [2022-06-05, 08:45:09](https://news.ycombinator.com/item?id=31629131) - [Carmakers feel chip crisis easing](https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows)
-* [2022-06-05, 05:47:07](https://news.ycombinator.com/item?id=31628385) - [A run across Mexico](https://www.washingtonpost.com/world/interactive/2022/mexico-runner-german-silva/)
 * [2022-06-05, 05:32:15](https://news.ycombinator.com/item?id=31628311) - [Sega announces a tiny Sega CD retro console](https://arstechnica.com/gaming/2022/06/adorable-japan-only-sega-mega-drive-mini-2-faithfully-recreates-the-sega-cd/)
 
 ## [Archives](archives/index.md)
