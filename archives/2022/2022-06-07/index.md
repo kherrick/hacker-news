@@ -21,6 +21,7 @@
 * [2022-06-07, 14:28:32](https://news.ycombinator.com/item?id=31654863) - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
 * [2022-06-07, 14:24:17](https://news.ycombinator.com/item?id=31654797) - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
+* [2022-06-07, 14:19:09](https://news.ycombinator.com/item?id=31654696) - [Show HN: SetOps – Run containers, databases and more in your own AWS account](https://www.setops.co/)
 * [2022-06-07, 13:57:09](https://news.ycombinator.com/item?id=31654358) - [Talent Cooling](https://nirantk.com/writing/talentcooling.html)
 * [2022-06-07, 13:48:26](https://news.ycombinator.com/item?id=31654257) - [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
 * [2022-06-07, 13:45:51](https://news.ycombinator.com/item?id=31654222) - [Photonic Chip Performs Image Recognition in 570 Picoseconds](https://spectrum.ieee.org/photonic-neural-network)
