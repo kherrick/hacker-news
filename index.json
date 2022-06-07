@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-06-07, 19:01:13",
+      "https://news.ycombinator.com/item?id=31658664"
+    ],
+    [
+      "What ID3v2 could have been",
+      "https://underjord.io/id3-specification-and-speculation.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 18:59:15",
+      "https://news.ycombinator.com/item?id=31658638"
+    ],
+    [
+      "Dhall: A Gateway Drug to Haskell",
+      "https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 18:31:43",
+      "https://news.ycombinator.com/item?id=31658330"
+    ],
+    [
+      "Efficiently irrational: deciphering the riddle of human choice [pdf]",
+      "https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 18:10:13",
+      "https://news.ycombinator.com/item?id=31658086"
+    ],
+    [
+      "Please don't unofficially ship Bottles in distribution repositories",
+      "https://usebottles.com/blog/an-open-letter/"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 17:31:30",
       "https://news.ycombinator.com/item?id=31657591"
     ],
@@ -37,16 +77,6 @@
     [
       "What’s the best lossless image format?",
       "https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 15:29:21",
-      "https://news.ycombinator.com/item?id=31655793"
-    ],
-    [
-      "Faster computing results without fear of errors",
-      "https://news.mit.edu/2022/faster-unix-computing-program-0607"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-06-07, 12:06:46",
-      "https://news.ycombinator.com/item?id=31652939"
-    ],
-    [
-      "Show HN: Unreal Speech – Text-to-Speech API",
-      "https://unrealspeech.com/"
-    ]
-  ],
-  [
-    [
       "2022-06-07, 11:49:24",
       "https://news.ycombinator.com/item?id=31652781"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2022-06-07, 10:59:11",
-      "https://news.ycombinator.com/item?id=31652363"
-    ],
-    [
-      "Trivia About Rust Types",
-      "https://www.thecodedmessage.com/posts/trivia-rust-types/"
-    ]
-  ],
-  [
-    [
       "2022-06-07, 10:50:09",
       "https://news.ycombinator.com/item?id=31652291"
     ],
     [
       "EU reaches deal to make USB-C a common charger for most electronic devices",
       "https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 09:44:59",
+      "https://news.ycombinator.com/item?id=31651881"
+    ],
+    [
+      "EndBASIC",
+      "https://www.endbasic.dev/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-06-07, 05:48:15",
-      "https://news.ycombinator.com/item?id=31650320"
-    ],
-    [
-      "Eu.org, free domain names since 1996",
-      "https://nic.eu.org/"
-    ]
-  ],
-  [
-    [
       "2022-06-07, 01:55:15",
       "https://news.ycombinator.com/item?id=31648995"
     ],
     [
       "In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use",
       "https://www.atlasobscura.com/articles/psychedelic-mushroom-algeria"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 14:36:01",
-      "https://news.ycombinator.com/item?id=31631352"
-    ],
-    [
-      "Benchmarking Malloc with Doom 3",
-      "https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/"
     ]
   ],
   [
