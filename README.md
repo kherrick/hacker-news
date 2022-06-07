@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 22:36:10](https://news.ycombinator.com/item?id=31660869) - [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
 * [2022-06-07, 22:01:06](https://news.ycombinator.com/item?id=31660571) - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
 * [2022-06-07, 21:25:37](https://news.ycombinator.com/item?id=31660272) - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
 * [2022-06-07, 21:22:35](https://news.ycombinator.com/item?id=31660239) - [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
@@ -12,6 +13,7 @@
 * [2022-06-07, 17:26:53](https://news.ycombinator.com/item?id=31657527) - [Show HN: Umbrel – A personal server OS for self-hosting](https://umbrel.com)
 * [2022-06-07, 16:51:02](https://news.ycombinator.com/item?id=31657068) - [Inbound container volumes to the US are reverting to pre-pandemic levels](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
+* [2022-06-07, 15:19:40](https://news.ycombinator.com/item?id=31655651) - [OptiPNG vs. PNGcrush vs. Gimp to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
 * [2022-06-07, 15:14:28](https://news.ycombinator.com/item?id=31655574) - [Cloture – Implementation of Clojure in Common Lisp](https://github.com/ruricolist/cloture)
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5B for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
 * [2022-06-07, 14:19:09](https://news.ycombinator.com/item?id=31654696) - [Show HN: SetOps – Run containers, databases and more in your own AWS account](https://www.setops.co/)
@@ -24,8 +26,6 @@
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 09:44:59](https://news.ycombinator.com/item?id=31651881) - [EndBASIC](https://www.endbasic.dev/)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
-* [2022-06-07, 08:00:04](https://news.ycombinator.com/item?id=31651146) - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
-* [2022-06-07, 07:51:38](https://news.ycombinator.com/item?id=31651086) - [Please, don't build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
 * [2022-06-07, 07:05:36](https://news.ycombinator.com/item?id=31650782) - [How does a logic gate in a microchip work?](https://www.scientificamerican.com/article/how-does-a-logic-gate-in/)
 * [2022-06-07, 01:55:15](https://news.ycombinator.com/item?id=31648995) - [In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use](https://www.atlasobscura.com/articles/psychedelic-mushroom-algeria)
 * [2022-06-06, 11:48:44](https://news.ycombinator.com/item?id=31639268) - [Behind the Ferrari and Lamborghini rivalry](https://www.granturismoevents.com/story-the-epic-story-behind-the-ferrari-and-lamborghini-rivalry/)
