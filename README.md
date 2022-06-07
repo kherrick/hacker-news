@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 21:25:37](https://news.ycombinator.com/item?id=31660272) - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
 * [2022-06-07, 21:02:47](https://news.ycombinator.com/item?id=31660014) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-07, 19:01:13](https://news.ycombinator.com/item?id=31658664) - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
 * [2022-06-07, 18:59:15](https://news.ycombinator.com/item?id=31658638) - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
@@ -17,7 +18,6 @@
 * [2022-06-07, 13:48:26](https://news.ycombinator.com/item?id=31654257) - [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
-* [2022-06-07, 13:19:43](https://news.ycombinator.com/item?id=31653824) - [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
 * [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 11:49:24](https://news.ycombinator.com/item?id=31652781) - [The firefly population could be declining](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
 * [2022-06-07, 11:36:43](https://news.ycombinator.com/item?id=31652650) - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 21:25:37](https://news.ycombinator.com/item?id=31660272) - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
 * [2022-06-07, 21:02:47](https://news.ycombinator.com/item?id=31660014) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-07, 19:01:13](https://news.ycombinator.com/item?id=31658664) - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
 * [2022-06-07, 18:59:15](https://news.ycombinator.com/item?id=31658638) - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
