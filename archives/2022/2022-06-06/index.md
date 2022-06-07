@@ -53,6 +53,7 @@
 * [2022-06-06, 11:59:08](https://news.ycombinator.com/item?id=31639354) - [The Surreal Case of a CIA Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
 * [2022-06-06, 11:42:01](https://news.ycombinator.com/item?id=31639232) - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
 * [2022-06-06, 11:11:26](https://news.ycombinator.com/item?id=31639024) - [GraphCDN is now Stellate and we’ve raised $30M to build the global data graph](https://stellate.co/blog/graphcdn-is-now-stellate)
+* [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 * [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is Social Audio Already Dead?](https://thehustle.co/06062022-social-audio/)
 * [2022-06-06, 10:16:41](https://news.ycombinator.com/item?id=31638746) - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
 * [2022-06-06, 10:03:34](https://news.ycombinator.com/item?id=31638697) - [How to open a safe](https://github.com/H4ckd4ddy/bypass-sentry-safe)
