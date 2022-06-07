@@ -129,30 +129,143 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="31653351">
+        <section id="31654133">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=31653351"
-              >Ask HN: Company is asking for unplanned interview stage? Should I
-              accept it?</a
+            <a
+              class="item"
+              href="https://www.centaurlabs.com/open-positions?gh_jid=4156173004"
+              >Centaur Labs (YC W19) Is Hiring a React Engineer in
+              Boston/Remote</a
             >
           </h3>
           <section>
             <h4>
-              <span>2022-06-07 @ 12:42:39</span
+              <span>2022-06-07 @ 13:39:50</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31654053">
+          <h3>
+            <a class="item" href="https://www.twitlonger.com/show/n_1ss24a6"
+              >Dear Crypto</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-07 @ 13:34:09</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31653351"
+                ><a href="https://news.ycombinator.com/item?id=31654053"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31653985">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=31653985"
+              >Launch HN: Rootly (YC S21) – Manage Incidents in Slack</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-07 @ 13:29:31</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31653985"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
-              Long story short: Been through 5 rounds of interviews already and
-              thought that was it. Company called to ask for another round
-              (another live coding challenge) saying that the first one didn't
-              include some things they wanted to test for. Should I go for it?
-              Are they reliable, is it acceptable/worth it? What would you do?
+              <a href="https://rootly.com/">https://rootly.com/</a>), an
+              incident management platform built on Slack. Rootly helps automate
+              manual admin work during incidents like the creation of Slack
+              channels, Jira tickets, Zoom rooms &amp; more. We also help you
+              get data on your incidents and help automate postmortem creation.
+              <p>
+                We met at Instacart, where I was the first SRE and JJ was on the
+                product side owning ~20% GMV on the enterprise and last-mile
+                delivery business. As Instacart grew from processing hundreds to
+                millions of orders, we had to scale our infrastructure, teams,
+                and processes to keep up with this growth. Unsurprisingly, this
+                led to our fair share of incidents (e.g. checkout issues, site
+                outages, etc.) and a lot of restless nights while on-call.
+              </p>
+              <p>
+                This was further compounded by COVID-19 and the first wave of
+                lockdowns. We surged in traffic by 500% overnight as everyone
+                turned to online grocery. This highlighted our need for a better
+                incident management process as it stressed every element of it.
+                Our manual ways of working in Slack, PagerDuty, Datadog, simply
+                weren’t enough. At first, we figured this was an
+                Instacart-specific problem but luckily realized it wasn’t.
+              </p>
+              <p>
+                A few things here. Our process lacked consistency. Depending on
+                who was responding and their incident experience it varied
+                greatly. Most companies after they declare an incident rely on a
+                buried-away runbook like on Confluence/Google Docs to try and
+                follow a lengthy checklist of steps. This is hard to find,
+                difficult to follow accurately, slow, and stress inducing.
+                Especially after you’ve been woken up to a page at 3 am. We
+                started working on how to automate this.
+              </p>
+              <p>
+                Fast forward to today, companies like Canva, Grammarly, Bolt,
+                Faire, Productboard, OpenSea, Shell use Rootly for their
+                incident response. We think of ourselves as part of the
+                post-alerting workflow. Tools like PagerDuty, Datadog act like a
+                smoke alarm to alert you to an incident, which hand off to
+                Rootly so we can orchestrate the actual response.
+              </p>
+              <p>
+                We’ve learned a lot along the way. We realized the majority of
+                our customers use the same 6 (Slack, PagerDuty, Jira, Zoom,
+                Confluence, Google Docs, etc.) tools, follow roughly the same
+                incident response process (create incident → collaborate → write
+                postmortem), but their process varies dramatically. The
+                challenge in changing these processes is hard.
+              </p>
+              <p>
+                Our focus in the early days was build a hyper opinionated
+                product to help them follow what we believe are the best
+                practices. Now our product direction is focused on configuration
+                and flexibility, how can we plug Rootly into your already
+                existing way of working and automate it. This has helped our
+                larger enterprise customers be successful with their current
+                processes being automated.
+              </p>
+              <p>
+                Our biggest competition is not PagerDuty/Opsgenie (in fact 98%
+                of our customers use them) or other startups. Its internal
+                tooling companies have built out of necessity, often because
+                tools like Rootly didn’t exist yet. Stripe (<a
+                  href="https://www.youtube.com/watch?v=fZ8rvMhLyI4"
+                  >https://www.youtube.com/watch?v=fZ8rvMhLyI4</a
+                >) and GitLab (<a
+                  href="https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/"
+                  >https://about.gitlab.com/handbook/engineering/infrastructure...</a
+                >) are good examples of this.
+              </p>
+              <p>
+                Our journey is just getting started as we learn more each day.
+                Would love to hear any feedback on our product or anything you
+                find frustrating about incident response today.
+              </p>
+              <p>
+                Leaving you with a quick demo:
+                <a
+                  href="https://www.loom.com/share/313a8f81f0a046f284629afc3263ebff"
+                  >https://www.loom.com/share/313a8f81f0a046f284629afc3263ebff</a
+                >
+              </p>
             </div>
           </section>
         </section>
@@ -172,7 +285,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31652979"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -188,11 +301,11 @@
             <h4>
               <span>2022-06-07 @ 12:06:46</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31652939"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -209,11 +322,11 @@
             <h4>
               <span>2022-06-07 @ 11:49:24</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31652781"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -230,11 +343,11 @@
             <h4>
               <span>2022-06-07 @ 11:36:43</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">291</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31652650"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
           </section>
@@ -252,11 +365,11 @@
             <h4>
               <span>2022-06-07 @ 11:31:52</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31652609"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -284,22 +397,19 @@
         </section>
         <section id="31651719">
           <h3>
-            <a
-              class="item"
-              href="https://twitter.com/geoffreyhuntley/status/1534100071738146816"
-              >Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25
-              Compsci professors</a
+            <a class="item" href="https://concerned.tech/"
+              >Letter in Support of Responsible Fintech Policy</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-06-07 @ 09:19:17</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31651719"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -316,11 +426,11 @@
             <h4>
               <span>2022-06-07 @ 08:39:17</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31651423"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -335,11 +445,11 @@
             <h4>
               <span>2022-06-07 @ 08:00:04</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31651146"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -356,7 +466,7 @@
             <h4>
               <span>2022-06-07 @ 07:17:49</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31650859"
                   >Comments</a
@@ -377,7 +487,7 @@
             <h4>
               <span>2022-06-07 @ 07:17:27</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31650857"
                   >Comments</a
@@ -397,7 +507,7 @@
             <h4>
               <span>2022-06-07 @ 07:07:38</span
               ><span class="points-container"
-                >Points: <span class="points">277</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31650797"
                   >Comments</a
@@ -420,7 +530,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31650320"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -459,7 +569,7 @@
             <h4>
               <span>2022-06-07 @ 02:31:37</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31649228"
                   >Comments</a
@@ -478,51 +588,11 @@
             <h4>
               <span>2022-06-06 @ 22:24:04</span
               ><span class="points-container"
-                >Points: <span class="points">630</span></span
+                >Points: <span class="points">634</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31647181"
                   >Comments</a
                 ><span class="descendants">: 56</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31647033">
-          <h3>
-            <a class="item" href="https://www.rfc-editor.org/info/rfc9114"
-              >RFC 9114 – HTTP/3</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-06 @ 22:09:58</span
-              ><span class="points-container"
-                >Points: <span class="points">138</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31647033"
-                  >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31646838">
-          <h3>
-            <a
-              class="item"
-              href="https://www.econlib.org/archives/2016/09/the_math_myth.html"
-              >The Math Myth (2016)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-06 @ 21:52:21</span
-              ><span class="points-container"
-                >Points: <span class="points">129</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31646838"
-                  >Comments</a
-                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -543,7 +613,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31643917"
                   >Comments</a
-                ><span class="descendants">: 358</span></span
+                ><span class="descendants">: 359</span></span
               >
             </h4>
           </section>
@@ -560,11 +630,11 @@
             <h4>
               <span>2022-06-06 @ 12:10:31</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31639453"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -581,7 +651,7 @@
             <h4>
               <span>2022-06-06 @ 12:01:44</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31639382"
                   >Comments</a
@@ -627,7 +697,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31639009"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -667,7 +737,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31631475"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -688,7 +758,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31631352"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -705,7 +775,7 @@
             <h4>
               <span>2022-06-05 @ 13:01:42</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31630609"
                   >Comments</a
@@ -747,11 +817,11 @@
             <h4>
               <span>2022-06-05 @ 08:45:09</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31629131"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
