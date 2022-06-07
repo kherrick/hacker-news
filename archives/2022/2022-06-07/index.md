@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 19:01:13](https://news.ycombinator.com/item?id=31658664) - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
+* [2022-06-07, 18:59:15](https://news.ycombinator.com/item?id=31658638) - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
+* [2022-06-07, 18:31:43](https://news.ycombinator.com/item?id=31658330) - [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
+* [2022-06-07, 18:10:13](https://news.ycombinator.com/item?id=31658086) - [Please don't unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
 * [2022-06-07, 16:51:02](https://news.ycombinator.com/item?id=31657068) - [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)
@@ -36,6 +40,7 @@
 * [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 10:46:34](https://news.ycombinator.com/item?id=31652264) - [How celebrity investor Mark Cuban is tackling out-of-control drug prices](https://pharmaphorum.com/views-and-analysis/how-celebrity-investor-mark-cuban-is-tackling-out-of-control-drug-prices/)
+* [2022-06-07, 09:44:59](https://news.ycombinator.com/item?id=31651881) - [EndBASIC](https://www.endbasic.dev/)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Letter in Support of Responsible Fintech Policy](https://concerned.tech/)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
