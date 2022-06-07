@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 22:01:06](https://news.ycombinator.com/item?id=31660571) - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
 * [2022-06-07, 21:25:37](https://news.ycombinator.com/item?id=31660272) - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
 * [2022-06-07, 21:02:47](https://news.ycombinator.com/item?id=31660014) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-07, 19:01:13](https://news.ycombinator.com/item?id=31658664) - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
@@ -56,6 +57,7 @@
 * [2022-06-07, 07:17:49](https://news.ycombinator.com/item?id=31650859) - [Why Emacs Has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)
 * [2022-06-07, 07:17:27](https://news.ycombinator.com/item?id=31650857) - [Dark Sky Has a New Home (2020)](https://blog.darksky.net/dark-sky-has-a-new-home/)
 * [2022-06-07, 07:07:38](https://news.ycombinator.com/item?id=31650797) - [Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)](https://github.com/sensity-ai/dot)
+* [2022-06-07, 07:05:36](https://news.ycombinator.com/item?id=31650782) - [How does a logic gate in a microchip work?](https://www.scientificamerican.com/article/how-does-a-logic-gate-in/)
 * [2022-06-07, 05:48:15](https://news.ycombinator.com/item?id=31650320) - [Eu.org, free domain names since 1996](https://nic.eu.org/)
 * [2022-06-07, 05:40:16](https://news.ycombinator.com/item?id=31650268) - [Ask HN: When you code at work, how do you code in your time off?](https://news.ycombinator.com/item?id=31650268)
 * [2022-06-07, 03:38:37](https://news.ycombinator.com/item?id=31649617) - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
