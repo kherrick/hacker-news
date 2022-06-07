@@ -15,7 +15,6 @@
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5B for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
 * [2022-06-07, 14:19:09](https://news.ycombinator.com/item?id=31654696) - [Show HN: SetOps – Run containers, databases and more in your own AWS account](https://www.setops.co/)
 * [2022-06-07, 13:48:26](https://news.ycombinator.com/item?id=31654257) - [Joy: A maximalist web framework for Lisp aficionados](https://joy.swlkr.com/)
-* [2022-06-07, 13:45:51](https://news.ycombinator.com/item?id=31654222) - [Photonic Chip Performs Image Recognition at the Speed of Light](https://spectrum.ieee.org/photonic-neural-network)
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
 * [2022-06-07, 13:19:43](https://news.ycombinator.com/item?id=31653824) - [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
@@ -29,6 +28,7 @@
 * [2022-06-07, 07:51:38](https://news.ycombinator.com/item?id=31651086) - [Please, don't build another Large Hadron Collider](https://bigthink.com/hard-science/large-hadron-collider-economics/)
 * [2022-06-07, 07:07:38](https://news.ycombinator.com/item?id=31650797) - [Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)](https://github.com/sensity-ai/dot)
 * [2022-06-07, 01:55:15](https://news.ycombinator.com/item?id=31648995) - [In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use](https://www.atlasobscura.com/articles/psychedelic-mushroom-algeria)
+* [2022-06-06, 11:48:44](https://news.ycombinator.com/item?id=31639268) - [Behind the Ferrari and Lamborghini rivalry](https://www.granturismoevents.com/story-the-epic-story-behind-the-ferrari-and-lamborghini-rivalry/)
 * [2022-06-05, 05:05:07](https://news.ycombinator.com/item?id=31628181) - [How to Draw Animals (1930)](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
 
 ## [Archives](archives/index.md)

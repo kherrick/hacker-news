@@ -54,6 +54,7 @@
 * [2022-06-06, 12:01:44](https://news.ycombinator.com/item?id=31639382) - [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
 * [2022-06-06, 12:01:05](https://news.ycombinator.com/item?id=31639376) - [Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)](http://kable.io/)
 * [2022-06-06, 11:59:08](https://news.ycombinator.com/item?id=31639354) - [The Surreal Case of a CIA Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
+* [2022-06-06, 11:48:44](https://news.ycombinator.com/item?id=31639268) - [Behind the Ferrari and Lamborghini rivalry](https://www.granturismoevents.com/story-the-epic-story-behind-the-ferrari-and-lamborghini-rivalry/)
 * [2022-06-06, 11:42:01](https://news.ycombinator.com/item?id=31639232) - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
 * [2022-06-06, 11:21:45](https://news.ycombinator.com/item?id=31639089) - [The Lazy Monad](https://blog.ploeh.dk/2022/05/30/the-lazy-monad/)
 * [2022-06-06, 11:11:26](https://news.ycombinator.com/item?id=31639024) - [GraphCDN is now Stellate and we’ve raised $30M to build the global data graph](https://stellate.co/blog/graphcdn-is-now-stellate)
