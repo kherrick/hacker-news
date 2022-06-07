@@ -62,6 +62,7 @@
 * [2022-06-05, 11:56:32](https://news.ycombinator.com/item?id=31630160) - [Dinosaurs: How long did they live? (2009)](https://www.theguardian.com/science/2009/feb/07/dinosaur-lifespan)
 * [2022-06-05, 11:55:18](https://news.ycombinator.com/item?id=31630148) - [Spotify podcasters are making $18k a month with nothing but white noise](https://www.bloomberg.com/news/articles/2022-06-01/how-to-make-money-on-spotify-a-white-noise-podcast-could-bring-you-big-bucks)
 * [2022-06-05, 11:36:33](https://news.ycombinator.com/item?id=31630014) - [Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?](https://news.ycombinator.com/item?id=31630014)
+* [2022-06-05, 10:55:10](https://news.ycombinator.com/item?id=31629805) - [Powering the moon: Designing a microgrid for future lunar base](https://phys.org/news/2022-05-powering-moon-microgrid-future-lunar-1.html)
 * [2022-06-05, 10:37:19](https://news.ycombinator.com/item?id=31629709) - [GRML – a Linux distro for system administrators](https://grml.org/)
 * [2022-06-05, 09:54:00](https://news.ycombinator.com/item?id=31629486) - [My Big Fat Monolithic Alert](https://cherkaskyb.medium.com/my-big-fat-monolithic-alert-498f21c1bb8a)
 * [2022-06-05, 09:51:41](https://news.ycombinator.com/item?id=31629470) - [Imagine there’s no human error](https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/)
