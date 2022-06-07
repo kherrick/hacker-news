@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 * [2022-06-07, 15:29:21](https://news.ycombinator.com/item?id=31655793) - [Faster computing results without fear of errors](https://news.mit.edu/2022/faster-unix-computing-program-0607)
+* [2022-06-07, 15:14:28](https://news.ycombinator.com/item?id=31655574) - [Cloture – Implementation of Clojure in Common Lisp](https://github.com/ruricolist/cloture)
 * [2022-06-07, 14:30:40](https://news.ycombinator.com/item?id=31654889) - [Octagon Networks converts its entire balance sheet into Bitcoin](https://octagon.net/press/2022/06/05/octagon-networks-converts-its-balance-sheet-into-bitcoin/)
 * [2022-06-07, 14:28:32](https://news.ycombinator.com/item?id=31654863) - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
 * [2022-06-07, 14:24:17](https://news.ycombinator.com/item?id=31654797) - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
