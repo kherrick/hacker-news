@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 05:48:15](https://news.ycombinator.com/item?id=31650320) - [Eu.org, free domain names since 1996](https://nic.eu.org/)
 * [2022-06-07, 03:38:37](https://news.ycombinator.com/item?id=31649617) - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
 * [2022-06-07, 02:32:41](https://news.ycombinator.com/item?id=31649237) - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
 * [2022-06-07, 02:31:37](https://news.ycombinator.com/item?id=31649228) - [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
