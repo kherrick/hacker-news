@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)

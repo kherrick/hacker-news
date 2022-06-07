@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
@@ -19,7 +20,6 @@
 * [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth (2016)](https://www.econlib.org/archives/2016/09/the_math_myth.html)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
 * [2022-06-06, 18:24:03](https://news.ycombinator.com/item?id=31643917) - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
-* [2022-06-06, 15:28:22](https://news.ycombinator.com/item?id=31641716) - [Pilot explains how he Survived Blackbird Disintegration at Mach 3.2](https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/)
 * [2022-06-06, 12:01:44](https://news.ycombinator.com/item?id=31639382) - [My favorite Erlang Program (2013)](https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html)
 * [2022-06-06, 11:21:45](https://news.ycombinator.com/item?id=31639089) - [The Lazy Monad](https://blog.ploeh.dk/2022/05/30/the-lazy-monad/)
 * [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
