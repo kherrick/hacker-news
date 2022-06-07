@@ -45,6 +45,7 @@
 * [2022-06-05, 13:27:45](https://news.ycombinator.com/item?id=31630795) - [Tcpls: Modern Transport Services with TCP and TLS](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
 * [2022-06-05, 13:20:58](https://news.ycombinator.com/item?id=31630736) - [Deep Learning Opacity In Scientific Discovery](https://arxiv.org/abs/2206.00520)
 * [2022-06-05, 13:20:54](https://news.ycombinator.com/item?id=31630734) - [Riding London’s Unexpectedly Fantastic Elizabeth Line](https://www.newyorker.com/news/letter-from-the-uk/riding-londons-unexpectedly-fantastic-elizabeth-line)
+* [2022-06-05, 13:13:59](https://news.ycombinator.com/item?id=31630680) - [Standards, Semantics, & Sequential Art](https://digitalcomics.co/index.html)
 * [2022-06-05, 13:13:57](https://news.ycombinator.com/item?id=31630679) - [A Cancer Trial’s Unexpected Result: Remission in Every Patient](https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html)
 * [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [The Philistines were likely of Greek origin, according to DNA](https://greekreporter.com/2022/05/18/philistines-greek/)
 * [2022-06-05, 13:13:39](https://news.ycombinator.com/item?id=31630676) - [Ancient DNA may reveal origin of the Philistines](https://www.nationalgeographic.com/culture/article/ancient-dna-reveal-philistine-origins)

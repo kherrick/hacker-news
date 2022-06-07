@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-06](index.md)
 
+* [2022-06-06, 23:13:06](https://news.ycombinator.com/item?id=31647666) - [iOS 16](https://www.apple.com/ios/ios-16-preview/)
 * [2022-06-06, 22:24:04](https://news.ycombinator.com/item?id=31647181) - [Tools for Better Thinking](https://untools.co)
 * [2022-06-06, 22:09:58](https://news.ycombinator.com/item?id=31647033) - [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
 * [2022-06-06, 22:02:02](https://news.ycombinator.com/item?id=31646936) - [Hate paywalls? 12ft.io is the answer](https://robinwinslow.uk/hate-paywalls-12ft.io-is-the-answer)
@@ -57,6 +58,7 @@
 * [2022-06-06, 10:03:34](https://news.ycombinator.com/item?id=31638697) - [How to open a safe](https://github.com/H4ckd4ddy/bypass-sentry-safe)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
+* [2022-06-06, 08:35:30](https://news.ycombinator.com/item?id=31638363) - [What are Lichtenberg figures, and how do we make them?](http://capturedlightning.com/frames/lichtenbergs.html)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:41:43](https://news.ycombinator.com/item?id=31638111) - [Hopular: Modern Hopfield Networks for Tabular Data](https://paperswithcode.com/paper/hopular-modern-hopfield-networks-for-tabular-1)
 * [2022-06-06, 07:32:35](https://news.ycombinator.com/item?id=31638058) - [Carbon dioxide now more than 50% higher than pre-industrial levels](https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels)
