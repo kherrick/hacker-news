@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-07, 16:46:45",
+      "https://news.ycombinator.com/item?id=31657006"
+    ],
+    [
+      "What’s the best lossless image format?",
+      "https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 15:29:21",
       "https://news.ycombinator.com/item?id=31655793"
     ],
     [
       "Faster computing results without fear of errors",
       "https://news.mit.edu/2022/faster-unix-computing-program-0607"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 15:14:28",
+      "https://news.ycombinator.com/item?id=31655574"
+    ],
+    [
+      "Cloture – Implementation of Clojure in Common Lisp",
+      "https://github.com/ruricolist/cloture"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-06-07, 13:19:43",
-      "https://news.ycombinator.com/item?id=31653824"
-    ],
-    [
-      "Emergency braking in space",
-      "https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/"
-    ]
-  ],
-  [
-    [
       "2022-06-07, 13:11:51",
       "https://news.ycombinator.com/item?id=31653726"
     ],
@@ -117,16 +127,6 @@
     [
       "MongoDB Releases Queryable Encryption Preview",
       "https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 12:10:10",
-      "https://news.ycombinator.com/item?id=31652979"
-    ],
-    [
-      "New Upcoming Telegram Premium Features",
-      "https://xiaomiui.net/telegram-premium-features-are-leaked-29132/"
     ]
   ],
   [
