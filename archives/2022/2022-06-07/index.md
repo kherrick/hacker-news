@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 22:50:50](https://news.ycombinator.com/item?id=31660976) - [The Worst Perk at Google](https://www.coveragecat.com/blog/the-worst-perk-at-google)
 * [2022-06-07, 22:36:10](https://news.ycombinator.com/item?id=31660869) - [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
 * [2022-06-07, 22:01:06](https://news.ycombinator.com/item?id=31660571) - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
 * [2022-06-07, 21:25:37](https://news.ycombinator.com/item?id=31660272) - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
