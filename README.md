@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 11:49:24](https://news.ycombinator.com/item?id=31652781) - [1 in 3 firefly species in North America may be at risk of extinction](https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why)
+* [2022-06-07, 11:36:43](https://news.ycombinator.com/item?id=31652650) - [I've locked myself out of my digital life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
 * [2022-06-07, 10:59:11](https://news.ycombinator.com/item?id=31652363) - [Trivia About Rust Types](https://www.thecodedmessage.com/posts/trivia-rust-types/)
-* [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
 * [2022-06-07, 08:00:04](https://news.ycombinator.com/item?id=31651146) - [Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
@@ -14,7 +15,6 @@
 * [2022-06-07, 02:31:37](https://news.ycombinator.com/item?id=31649228) - [A six-month program in Britain will assess the effects of a shorter workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
 * [2022-06-07, 01:09:03](https://news.ycombinator.com/item?id=31648636) - [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
 * [2022-06-07, 00:04:00](https://news.ycombinator.com/item?id=31648180) - [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
-* [2022-06-07, 00:03:41](https://news.ycombinator.com/item?id=31648175) - [Starlight.jl – A game engine written in Julia](https://github.com/jhigginbotham64/Starlight.jl)
 * [2022-06-06, 22:24:04](https://news.ycombinator.com/item?id=31647181) - [Tools for Better Thinking](https://untools.co)
 * [2022-06-06, 22:09:58](https://news.ycombinator.com/item?id=31647033) - [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
 * [2022-06-06, 21:52:21](https://news.ycombinator.com/item?id=31646838) - [The Math Myth (2016)](https://www.econlib.org/archives/2016/09/the_math_myth.html)
