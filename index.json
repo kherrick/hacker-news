@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-06-07, 12:19:12",
+      "https://news.ycombinator.com/item?id=31653088"
+    ],
+    [
+      "EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024",
+      "https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 12:10:10",
+      "https://news.ycombinator.com/item?id=31652979"
+    ],
+    [
+      "New Upcoming Telegram Premium Features",
+      "https://xiaomiui.net/telegram-premium-features-are-leaked-29132/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 12:06:46",
+      "https://news.ycombinator.com/item?id=31652939"
+    ],
+    [
+      "Show HN: Better (arguably) & 8x cheaper text-to-speech than AWS",
+      "https://unrealspeech.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 12:02:00",
+      "https://news.ycombinator.com/item?id=31652889"
+    ],
+    [
+      "Atlassian Confluence Server CVE-2022-26134 being actively expoited in the wild",
+      "https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134"
+    ]
+  ],
+  [
+    [
       "2022-06-07, 11:49:24",
       "https://news.ycombinator.com/item?id=31652781"
     ],
     [
-      "1 in 3 firefly species in North America may be at risk of extinction",
+      "The firefly population could be declining",
       "https://www.wesa.fm/environment-energy/2022-06-07/the-firefly-population-could-be-declining-heres-why"
     ]
   ],
@@ -17,6 +57,16 @@
     [
       "I've locked myself out of my digital life",
       "https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/"
+    ]
+  ],
+  [
+    [
+      "2022-06-07, 11:31:52",
+      "https://news.ycombinator.com/item?id=31652609"
+    ],
+    [
+      "USB-C will be mandatory for phones sold in the EU ‘by autumn 2024’",
+      "https://www.theverge.com/2022/6/7/23156361/european-union-usb-c-wired-charging-iphone-lightning-ewaste"
     ]
   ],
   [
@@ -61,21 +111,11 @@
   ],
   [
     [
-      "2022-06-07, 07:51:38",
-      "https://news.ycombinator.com/item?id=31651086"
-    ],
-    [
-      "Please, don't build another Large Hadron Collider",
-      "https://bigthink.com/hard-science/large-hadron-collider-economics/"
-    ]
-  ],
-  [
-    [
       "2022-06-07, 07:17:49",
       "https://news.ycombinator.com/item?id=31650859"
     ],
     [
-      "Why Emacs Has Buffers",
+      "Why Emacs has buffers",
       "https://www.masteringemacs.org/article/why-emacs-has-buffers"
     ]
   ],
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2022-06-07, 02:31:37",
-      "https://news.ycombinator.com/item?id=31649228"
-    ],
-    [
-      "A six-month program in Britain will assess the effects of a shorter workweek",
-      "https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html"
-    ]
-  ],
-  [
-    [
       "2022-06-07, 01:09:03",
       "https://news.ycombinator.com/item?id=31648636"
     ],
     [
       "Citigroup plans to hire 4k tech staff",
       "https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 00:04:00",
-      "https://news.ycombinator.com/item?id=31648180"
-    ],
-    [
-      "An insight into live video streaming infrastructure at Twitch",
-      "https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2022-06-06, 19:35:18",
-      "https://news.ycombinator.com/item?id=31644990"
-    ],
-    [
-      "Running Intel Binaries in Linux VMs with Rosetta",
-      "https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc"
-    ]
-  ],
-  [
-    [
       "2022-06-06, 18:24:03",
       "https://news.ycombinator.com/item?id=31643917"
     ],
     [
       "Apple Passkey",
       "https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 12:10:31",
+      "https://news.ycombinator.com/item?id=31639453"
+    ],
+    [
+      "Alban Berg’s Dissonances",
+      "https://www.nybooks.com/articles/2022/06/23/alban-bergs-dissonances-simms-erwin/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-06-05, 14:30:41",
-      "https://news.ycombinator.com/item?id=31631302"
-    ],
-    [
-      "What SRE Could Be",
-      "https://blog.relyabilit.ie/what-sre-could-be/"
-    ]
-  ],
-  [
-    [
       "2022-06-05, 13:01:42",
       "https://news.ycombinator.com/item?id=31630609"
     ],
     [
       "I Built a Ruby Parser",
       "https://mpov.timmorgan.org/i-built-a-ruby-parser/"
-    ]
-  ],
-  [
-    [
-      "2022-06-05, 12:09:47",
-      "https://news.ycombinator.com/item?id=31630260"
-    ],
-    [
-      "I wrote a Brainfuck to Go compiler",
-      "https://kabirgoel.com/p/walnut"
     ]
   ],
   [
