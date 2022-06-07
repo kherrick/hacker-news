@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-07, 00:04:00](https://news.ycombinator.com/item?id=31648180) - [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/)
 * [2022-06-06, 22:24:04](https://news.ycombinator.com/item?id=31647181) - [Tools for Better Thinking](https://untools.co)
 * [2022-06-06, 22:09:58](https://news.ycombinator.com/item?id=31647033) - [RFC 9114 – HTTP/3](https://www.rfc-editor.org/info/rfc9114)
-* [2022-06-06, 22:02:02](https://news.ycombinator.com/item?id=31646936) - [Hate paywalls? 12ft.io is the answer](https://robinwinslow.uk/hate-paywalls-12ft.io-is-the-answer)
 * [2022-06-06, 20:36:17](https://news.ycombinator.com/item?id=31645883) - [Women Who Ran Genghis Khan’s Empire](https://www.atlasobscura.com/articles/mongol-empire-women)
 * [2022-06-06, 20:13:21](https://news.ycombinator.com/item?id=31645558) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * [2022-06-06, 19:35:18](https://news.ycombinator.com/item?id=31644990) - [Running Intel Binaries in Linux VMs with Rosetta](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc)
@@ -21,7 +21,6 @@
 * [2022-06-06, 14:34:00](https://news.ycombinator.com/item?id=31641014) - [The Power of Prolog](https://www.metalevel.at/prolog)
 * [2022-06-06, 13:40:48](https://news.ycombinator.com/item?id=31640297) - [Graduate Student’s Side Project Proves Prime Number Conjecture](https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/)
 * [2022-06-06, 13:34:00](https://news.ycombinator.com/item?id=31640229) - [Probability and Statistics Cookbook (2011) [pdf]](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
-* [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is social audio already dead?](https://thehustle.co/06062022-social-audio/)
 * [2022-06-06, 10:03:34](https://news.ycombinator.com/item?id=31638697) - [How to open a safe](https://github.com/H4ckd4ddy/bypass-sentry-safe)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
 * [2022-06-06, 07:41:43](https://news.ycombinator.com/item?id=31638111) - [Hopular: Modern Hopfield Networks for Tabular Data](https://paperswithcode.com/paper/hopular-modern-hopfield-networks-for-tabular-1)
@@ -29,6 +28,7 @@
 * [2022-06-05, 14:30:41](https://news.ycombinator.com/item?id=31631302) - [What SRE Could Be](https://blog.relyabilit.ie/what-sre-could-be/)
 * [2022-06-05, 12:52:58](https://news.ycombinator.com/item?id=31630545) - [The Atari Years (2014)](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-5/the-atari-years.html)
 * [2022-06-05, 12:51:10](https://news.ycombinator.com/item?id=31630528) - [Quantum particles can feel the effects of gravitational fields](http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html)
+* [2022-06-05, 08:45:09](https://news.ycombinator.com/item?id=31629131) - [Carmakers feel chip crisis easing as global growth slows](https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows)
 * [2022-06-05, 05:32:15](https://news.ycombinator.com/item?id=31628311) - [Sega announces a tiny Sega CD retro console](https://arstechnica.com/gaming/2022/06/adorable-japan-only-sega-mega-drive-mini-2-faithfully-recreates-the-sega-cd/)
 
 ## [Archives](archives/index.md)
