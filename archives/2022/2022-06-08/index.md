@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
 * [2022-06-08, 21:00:51](https://news.ycombinator.com/item?id=31674091) - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
+* [2022-06-08, 20:56:43](https://news.ycombinator.com/item?id=31674012) - [Faced with scooter seizures, Bird pays property tax bill months late](https://www.kut.org/2022-06-07/faced-with-scooter-seizures-bird-pays-property-tax-bill-months-late)
 * [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 20:22:09](https://news.ycombinator.com/item?id=31673459) - [Uber Eats Nationwide Shipping](https://www.uber.com/newsroom/nationwide-shipping/)
@@ -13,6 +14,7 @@
 * [2022-06-08, 19:52:16](https://news.ycombinator.com/item?id=31673068) - [The Human Toll of Fallout 76’s Disastrous Launch](https://kotaku.com/bethesda-zenimax-fallout-76-crunch-development-1849033233)
 * [2022-06-08, 19:44:23](https://news.ycombinator.com/item?id=31672959) - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
 * [2022-06-08, 19:29:27](https://news.ycombinator.com/item?id=31672754) - [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
+* [2022-06-08, 19:26:27](https://news.ycombinator.com/item?id=31672714) - [The New Apple Human Interface Guidelines](https://developer.apple.com/news/?id=v8a3aetj)
 * [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
 * [2022-06-08, 19:08:13](https://news.ycombinator.com/item?id=31672449) - [U.S. death rates show how politics are affecting public health](https://www.statnews.com/2022/06/07/us-death-rates-politicization-public-health/)
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
