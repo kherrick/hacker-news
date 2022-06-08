@@ -3,6 +3,7 @@
 * [2022-06-08, 18:21:19](https://news.ycombinator.com/item?id=31671835) - [Digital fair repair act passed in New York](https://www.nysenate.gov/legislation/bills/2021/S4104)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache invalidation might no longer be a hard thing in Computer Science](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:40:49](https://news.ycombinator.com/item?id=31671138) - [Top F1 designer says auto industry moving in wrong direction with electric cars](https://the-race.com/formula-1/newey-in-depth-aborted-ferrari-switch-verstappen-and-retirement/)
+* [2022-06-08, 17:07:47](https://news.ycombinator.com/item?id=31670484) - [Porting Doom to a/UX](https://katelibc.medium.com/porting-doom-to-a-ux-8cecab02b531)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 * [2022-06-08, 17:00:10](https://news.ycombinator.com/item?id=31670307) - [Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
@@ -25,11 +26,10 @@
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
+* [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 * [2022-06-08, 02:33:31](https://news.ycombinator.com/item?id=31662553) - [Letters from the Garrod children to their father](https://blogs.bl.uk/untoldlives/2022/06/letters-from-the-garrod-children-to-their-father.html)
 * [2022-06-07, 06:50:11](https://news.ycombinator.com/item?id=31650689) - [Researchers discover way to 3D print directly inside the body without surgery](https://hothardware.com/news/how-flesh-penetrating-sound-waves-could-3d-print-implants)
 * [2022-06-06, 12:40:15](https://news.ycombinator.com/item?id=31639707) - [MicroPython – Python for Microcontrollers](https://micropython.org/)
-* [2022-06-05, 05:28:55](https://news.ycombinator.com/item?id=31628295) - [Sabertooth carcass consumption behavior and Pleistocene large carnivoran guilds](https://www.nature.com/articles/s41598-022-09480-7)
-* [2022-06-04, 05:32:39](https://news.ycombinator.com/item?id=31617298) - [Building a World’s Fair: A Closer Look](https://opensfhistory.org/news/2022/02/20/building-a-worlds-fair-a-closer-look/)
 
 ## [Archives](archives/index.md)
 
