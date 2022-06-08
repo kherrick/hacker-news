@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 21:31:49](https://news.ycombinator.com/item?id=31674541) - [One in five UK households cannot afford to be online](https://communityfibre.co.uk/press/one-in-five-uk-households-cannot-afford-to-be-online)
 * [2022-06-08, 21:00:51](https://news.ycombinator.com/item?id=31674091) - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
 * [2022-06-08, 20:56:43](https://news.ycombinator.com/item?id=31674012) - [Faced with scooter seizures, Bird pays property tax bill months late](https://www.kut.org/2022-06-07/faced-with-scooter-seizures-bird-pays-property-tax-bill-months-late)
 * [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
@@ -11,7 +12,6 @@
 * [2022-06-08, 19:26:27](https://news.ycombinator.com/item?id=31672714) - [The New Apple Human Interface Guidelines](https://developer.apple.com/news/?id=v8a3aetj)
 * [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
-* [2022-06-08, 18:45:37](https://news.ycombinator.com/item?id=31672176) - [The plan to give the moon decent wireless coverage](https://spectrum.ieee.org/lunar-communications)
 * [2022-06-08, 18:37:58](https://news.ycombinator.com/item?id=31672063) - [Facebook's Zookeeper Implementation on Delos](https://engineering.fb.com/2022/06/08/developer-tools/zelos/)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:07:47](https://news.ycombinator.com/item?id=31670484) - [Porting Doom to a/UX](https://katelibc.medium.com/porting-doom-to-a-ux-8cecab02b531)
