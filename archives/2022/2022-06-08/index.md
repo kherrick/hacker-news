@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 14:24:59](https://news.ycombinator.com/item?id=31667817) - [Tell HN: AI is mostly just code](https://news.ycombinator.com/item?id=31667817)
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 14:15:12](https://news.ycombinator.com/item?id=31667679) - [Germany to Introduce Bill to Accelerate Wind Energy Expansion](https://www.pmtoday.co.uk/germany-to-introduce-bill-to-accelerate-wind-energy-expansion/)

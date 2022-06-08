@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 14:24:59](https://news.ycombinator.com/item?id=31667817) - [Tell HN: AI is mostly just code](https://news.ycombinator.com/item?id=31667817)
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 14:15:12](https://news.ycombinator.com/item?id=31667679) - [Germany to Introduce Bill to Accelerate Wind Energy Expansion](https://www.pmtoday.co.uk/germany-to-introduce-bill-to-accelerate-wind-energy-expansion/)
@@ -23,7 +24,6 @@
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the M1 Windows project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 14:21:57](https://news.ycombinator.com/item?id=31654751) - [Optimizing for Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings)
 * [2022-06-07, 14:10:56](https://news.ycombinator.com/item?id=31654552) - [The Race to Zero Defects in Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
-* [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 13:13:43](https://news.ycombinator.com/item?id=31653748) - [Why have a blog? (2020)](https://robinwinslow.uk/why-have-a-blog)
 * [2022-06-07, 12:27:49](https://news.ycombinator.com/item?id=31653190) - [The first thing that ever sold online was pizza (2018)](https://thehistoryoftheweb.com/postscript/pizzanet/)
 * [2022-06-07, 09:39:37](https://news.ycombinator.com/item?id=31651841) - [A Bit of Z80 History (2021)](https://mitsi.com/2021/12/21/a-bit-of-z80-history/)
