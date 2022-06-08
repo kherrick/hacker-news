@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
+* [2022-06-08, 17:00:10](https://news.ycombinator.com/item?id=31670307) - [Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
+* [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
 * [2022-06-08, 16:45:24](https://news.ycombinator.com/item?id=31670065) - [Stop Eliminating Gifted Programs and Calling It ‘Equity’](https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity)
 * [2022-06-08, 16:26:08](https://news.ycombinator.com/item?id=31669762) - [The End of Localhost](https://dx.tips/the-end-of-localhost)
 * [2022-06-08, 15:59:46](https://news.ycombinator.com/item?id=31669338) - [Ask HN: New job at BigCo. EVERYTHING has friction](https://news.ycombinator.com/item?id=31669338)
@@ -12,6 +15,7 @@
 * [2022-06-08, 15:27:43](https://news.ycombinator.com/item?id=31668788) - [Ask HN: Co-Founder pivoting, what are my options?](https://news.ycombinator.com/item?id=31668788)
 * [2022-06-08, 15:20:14](https://news.ycombinator.com/item?id=31668663) - [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
+* [2022-06-08, 15:03:50](https://news.ycombinator.com/item?id=31668387) - [The 'Ahem' Font](https://web-platform-tests.org/writing-tests/ahem.html)
 * [2022-06-08, 15:01:36](https://news.ycombinator.com/item?id=31668352) - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
 * [2022-06-08, 14:59:21](https://news.ycombinator.com/item?id=31668316) - [Entropy Is Fatal](https://kerkour.com/entropy-is-fatal)
 * [2022-06-08, 14:56:41](https://news.ycombinator.com/item?id=31668274) - [Blender 3.2](https://www.blender.org/download/releases/3-2/)
@@ -42,6 +46,7 @@
 * [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 06:56:56](https://news.ycombinator.com/item?id=31664203) - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
+* [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2022-06-08, 05:42:28](https://news.ycombinator.com/item?id=31663682) - [Google will not let me pay an invoice they sent me](https://news.ycombinator.com/item?id=31663682)
 * [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 * [2022-06-08, 04:33:29](https://news.ycombinator.com/item?id=31663231) - [Chesa Boudin Recalled by San Francisco Voters](https://www.wsj.com/articles/san-francisco-district-attorney-chesa-boudin-faces-recall-election-11654603200)
