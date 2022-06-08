@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-06-08, 19:08:30",
+      "https://news.ycombinator.com/item?id=31672456"
+    ],
+    [
+      "Small World: a Marauder's Map for the people you follow on Twitter",
+      "https://smallworld.kiwi"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 19:08:13",
+      "https://news.ycombinator.com/item?id=31672449"
+    ],
+    [
+      "U.S. death rates show how politics are affecting public health",
+      "https://www.statnews.com/2022/06/07/us-death-rates-politicization-public-health/"
+    ]
+  ],
+  [
+    [
       "2022-06-08, 18:58:23",
       "https://news.ycombinator.com/item?id=31672324"
     ],
     [
       "Apache Hop 2.0",
       "https://hop.apache.org/blog/2022/06/hop-2.0.0/"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 18:45:37",
+      "https://news.ycombinator.com/item?id=31672176"
+    ],
+    [
+      "The plan to give the moon decent wireless coverage",
+      "https://spectrum.ieee.org/lunar-communications"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "The End of Localhost",
       "https://dx.tips/the-end-of-localhost"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 15:59:46",
-      "https://news.ycombinator.com/item?id=31669338"
-    ],
-    [
-      "Ask HN: New job at BigCo. Everything has friction",
-      "https://news.ycombinator.com/item?id=31669338"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-06-08, 10:26:00",
-      "https://news.ycombinator.com/item?id=31665364"
-    ],
-    [
-      "Sage and a glimpse of group computing from before the PC",
-      "https://interconnected.org/home/2021/12/21/sage"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 10:02:58",
       "https://news.ycombinator.com/item?id=31665233"
     ],
@@ -287,16 +297,6 @@
     [
       "Researchers discover way to 3D print directly inside the body without surgery",
       "https://hothardware.com/news/how-flesh-penetrating-sound-waves-could-3d-print-implants"
-    ]
-  ],
-  [
-    [
-      "2022-06-06, 12:40:15",
-      "https://news.ycombinator.com/item?id=31639707"
-    ],
-    [
-      "MicroPython – Python for Microcontrollers",
-      "https://micropython.org/"
     ]
   ]
 ]
