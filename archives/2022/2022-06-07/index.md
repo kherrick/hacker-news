@@ -14,6 +14,7 @@
 * [2022-06-07, 21:02:47](https://news.ycombinator.com/item?id=31660014) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-07, 19:01:13](https://news.ycombinator.com/item?id=31658664) - [What ID3v2 could have been](https://underjord.io/id3-specification-and-speculation.html)
 * [2022-06-07, 18:59:15](https://news.ycombinator.com/item?id=31658638) - [Dhall: A Gateway Drug to Haskell](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/)
+* [2022-06-07, 18:32:52](https://news.ycombinator.com/item?id=31658342) - [When Jawaharlal Nehru Read ‘Lolita’](https://scroll.in/article/1024765/when-jawaharlal-nehru-read-lolita-to-decide-whether-an-obscene-book-should-be-allowed-in-india)
 * [2022-06-07, 18:31:43](https://news.ycombinator.com/item?id=31658330) - [Efficiently irrational: deciphering the riddle of human choice [pdf]](https://www.gwern.net/docs/statistics/decision/2022-glimcher.pdf)
 * [2022-06-07, 18:10:13](https://news.ycombinator.com/item?id=31658086) - [Please don't unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
 * [2022-06-07, 17:32:57](https://news.ycombinator.com/item?id=31657607) - [FAA Continues to Stall on G100UL](https://www.avweb.com/insider/faa-continues-to-stall-on-g100ul/)

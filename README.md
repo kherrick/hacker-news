@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 19:58:03](https://news.ycombinator.com/item?id=31673146) - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
+* [2022-06-08, 19:52:35](https://news.ycombinator.com/item?id=31673071) - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
 * [2022-06-08, 19:44:23](https://news.ycombinator.com/item?id=31672959) - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
 * [2022-06-08, 19:29:27](https://news.ycombinator.com/item?id=31672754) - [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
 * [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
@@ -18,18 +20,16 @@
 * [2022-06-08, 16:26:08](https://news.ycombinator.com/item?id=31669762) - [The End of Localhost](https://dx.tips/the-end-of-localhost)
 * [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
-* [2022-06-08, 15:03:50](https://news.ycombinator.com/item?id=31668387) - [The 'Ahem' Font](https://web-platform-tests.org/writing-tests/ahem.html)
 * [2022-06-08, 14:59:21](https://news.ycombinator.com/item?id=31668316) - [Entropy Is Fatal](https://kerkour.com/entropy-is-fatal)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 13:44:19](https://news.ycombinator.com/item?id=31667240) - [Dwarf Fortress Update – Tutorials and Tooltips](https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg)
 * [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 * [2022-06-08, 13:11:11](https://news.ycombinator.com/item?id=31666761) - [Toit – A Language Designed for Microcontrollers](https://toitlang.org)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
-* [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
-* [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
+* [2022-06-08, 10:26:00](https://news.ycombinator.com/item?id=31665364) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
-* [2022-06-08, 02:33:31](https://news.ycombinator.com/item?id=31662553) - [Letters from the Garrod children to their father](https://blogs.bl.uk/untoldlives/2022/06/letters-from-the-garrod-children-to-their-father.html)
+* [2022-06-07, 18:32:52](https://news.ycombinator.com/item?id=31658342) - [When Jawaharlal Nehru Read ‘Lolita’](https://scroll.in/article/1024765/when-jawaharlal-nehru-read-lolita-to-decide-whether-an-obscene-book-should-be-allowed-in-india)
 
 ## [Archives](archives/index.md)
 

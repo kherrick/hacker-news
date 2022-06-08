@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 19:58:03](https://news.ycombinator.com/item?id=31673146) - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
+* [2022-06-08, 19:52:35](https://news.ycombinator.com/item?id=31673071) - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
 * [2022-06-08, 19:44:23](https://news.ycombinator.com/item?id=31672959) - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
 * [2022-06-08, 19:29:27](https://news.ycombinator.com/item?id=31672754) - [TC39 Proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)
 * [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
