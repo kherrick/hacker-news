@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 04:33:29](https://news.ycombinator.com/item?id=31663231) - [Chesa Boudin Recalled by San Francisco Voters](https://www.wsj.com/articles/san-francisco-district-attorney-chesa-boudin-faces-recall-election-11654603200)
 * [2022-06-08, 04:11:42](https://news.ycombinator.com/item?id=31663103) - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
 * [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 * [2022-06-08, 03:45:45](https://news.ycombinator.com/item?id=31662962) - [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)

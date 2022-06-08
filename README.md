@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 04:33:29](https://news.ycombinator.com/item?id=31663231) - [Chesa Boudin Recalled by San Francisco Voters](https://www.wsj.com/articles/san-francisco-district-attorney-chesa-boudin-faces-recall-election-11654603200)
 * [2022-06-08, 04:11:42](https://news.ycombinator.com/item?id=31663103) - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
 * [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 * [2022-06-08, 03:45:45](https://news.ycombinator.com/item?id=31662962) - [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)
@@ -17,7 +18,6 @@
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the M1 Windows project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 17:26:53](https://news.ycombinator.com/item?id=31657527) - [Show HN: Umbrel – A personal server OS for self-hosting](https://umbrel.com)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
-* [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5B for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
 * [2022-06-07, 14:19:09](https://news.ycombinator.com/item?id=31654696) - [Show HN: SetOps – Run containers, databases and more in your own AWS account](https://www.setops.co/)
 * [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
 * [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
