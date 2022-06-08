@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-08, 09:56:25](https://news.ycombinator.com/item?id=31665201) - [Bird Is Laying Off 23% of Its Staff](https://dot.la/bird-scooters-layoffs-2657472600.html)
+* [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:13:34](https://news.ycombinator.com/item?id=31664952) - [What FreeBSD can offer compared to other operating systems (2020)](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
 * [2022-06-08, 08:39:47](https://news.ycombinator.com/item?id=31664765) - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
 * [2022-06-08, 08:35:57](https://news.ycombinator.com/item?id=31664748) - [Medical Errors now Third leading cause of death in the United States (2016)](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
