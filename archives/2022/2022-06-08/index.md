@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 21:00:51](https://news.ycombinator.com/item?id=31674091) - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
 * [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
+* [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 20:22:09](https://news.ycombinator.com/item?id=31673459) - [Uber Eats Nationwide Shipping](https://www.uber.com/newsroom/nationwide-shipping/)
 * [2022-06-08, 19:58:03](https://news.ycombinator.com/item?id=31673146) - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
 * [2022-06-08, 19:52:35](https://news.ycombinator.com/item?id=31673071) - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
@@ -75,6 +77,7 @@
 * [2022-06-08, 02:34:28](https://news.ycombinator.com/item?id=31662560) - [AI is harming our planet: addressing AI’s staggering energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
 * [2022-06-08, 02:33:31](https://news.ycombinator.com/item?id=31662553) - [Letters from the Garrod children to their father](https://blogs.bl.uk/untoldlives/2022/06/letters-from-the-garrod-children-to-their-father.html)
 * [2022-06-08, 02:24:33](https://news.ycombinator.com/item?id=31662490) - [What's new in Safari and WebKit (WWDC 2022)](https://developer.apple.com/videos/play/wwdc2022/10048/)
+* [2022-06-08, 02:17:49](https://news.ycombinator.com/item?id=31662445) - [El Ajedrecista](https://en.wikipedia.org/wiki/El_Ajedrecista)
 * [2022-06-08, 02:15:11](https://news.ycombinator.com/item?id=31662430) - [Diablo Immortal won't release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
 * [2022-06-08, 01:40:08](https://news.ycombinator.com/item?id=31662275) - [C implementation of Tic-Tac-Toe in a single call to printf (2020)](https://github.com/carlini/printf-tac-toe)
 * [2022-06-08, 01:26:10](https://news.ycombinator.com/item?id=31662186) - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
