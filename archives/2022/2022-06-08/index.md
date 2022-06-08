@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
 * [2022-06-08, 22:26:59](https://news.ycombinator.com/item?id=31675201) - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
+* [2022-06-08, 22:09:15](https://news.ycombinator.com/item?id=31675015) - [Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
 * [2022-06-08, 21:31:49](https://news.ycombinator.com/item?id=31674541) - [One in five UK households cannot afford to be online](https://communityfibre.co.uk/press/one-in-five-uk-households-cannot-afford-to-be-online)
 * [2022-06-08, 21:00:51](https://news.ycombinator.com/item?id=31674091) - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
 * [2022-06-08, 20:56:43](https://news.ycombinator.com/item?id=31674012) - [Faced with scooter seizures, Bird pays property tax bill months late](https://www.kut.org/2022-06-07/faced-with-scooter-seizures-bird-pays-property-tax-bill-months-late)
@@ -61,6 +62,7 @@
 * [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
 * [2022-06-08, 11:00:13](https://news.ycombinator.com/item?id=31665611) - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
 * [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
+* [2022-06-08, 10:42:46](https://news.ycombinator.com/item?id=31665466) - [Colombia shares unprecedented images of treasure-laden wreck](https://phys.org/news/2022-06-colombia-unprecedented-images-treasure-laden.html)
 * [2022-06-08, 10:26:00](https://news.ycombinator.com/item?id=31665364) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:56:25](https://news.ycombinator.com/item?id=31665201) - [Bird Is Laying Off 23% of Its Staff](https://dot.la/bird-scooters-layoffs-2657472600.html)
