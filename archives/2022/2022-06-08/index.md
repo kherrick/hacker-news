@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 08:39:47](https://news.ycombinator.com/item?id=31664765) - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
 * [2022-06-08, 08:35:57](https://news.ycombinator.com/item?id=31664748) - [Medical Errors now Third leading cause of death in the United States](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
 * [2022-06-08, 08:01:45](https://news.ycombinator.com/item?id=31664568) - [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
 * [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)

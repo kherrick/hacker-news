@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-08, 08:35:57](https://news.ycombinator.com/item?id=31664748) - [Medical Errors now Third leading cause of death in the United States](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
+* [2022-06-08, 08:39:47](https://news.ycombinator.com/item?id=31664765) - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
+* [2022-06-08, 08:35:57](https://news.ycombinator.com/item?id=31664748) - [Medical Errors now Third leading cause of death in the United States (2016)](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
 * [2022-06-08, 08:01:45](https://news.ycombinator.com/item?id=31664568) - [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
 * [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 06:56:56](https://news.ycombinator.com/item?id=31664203) - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
-* [2022-06-08, 05:42:28](https://news.ycombinator.com/item?id=31663682) - [Google will not let me pay an invoice they sent me](https://news.ycombinator.com/item?id=31663682)
 * [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 * [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 * [2022-06-08, 02:50:33](https://news.ycombinator.com/item?id=31662647) - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
