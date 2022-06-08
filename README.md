@@ -2,6 +2,7 @@
 
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
 * [2022-06-08, 15:01:36](https://news.ycombinator.com/item?id=31668352) - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
+* [2022-06-08, 14:59:21](https://news.ycombinator.com/item?id=31668316) - [Entropy Is Fatal](https://kerkour.com/entropy-is-fatal)
 * [2022-06-08, 14:56:41](https://news.ycombinator.com/item?id=31668274) - [Blender 3.2](https://www.blender.org/download/releases/3-2/)
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
@@ -20,7 +21,6 @@
 * [2022-06-08, 06:56:56](https://news.ycombinator.com/item?id=31664203) - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
 * [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 * [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
-* [2022-06-08, 02:34:28](https://news.ycombinator.com/item?id=31662560) - [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
 * [2022-06-08, 01:40:08](https://news.ycombinator.com/item?id=31662275) - [C implementation of Tic-Tac-Toe in a single call to printf (2020)](https://github.com/carlini/printf-tac-toe)
 * [2022-06-08, 01:26:10](https://news.ycombinator.com/item?id=31662186) - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
 * [2022-06-07, 14:21:57](https://news.ycombinator.com/item?id=31654751) - [Optimizing for Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings)
