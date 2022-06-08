@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 15:59:46](https://news.ycombinator.com/item?id=31669338) - [Ask HN: New job at BigCo. EVERYTHING has friction](https://news.ycombinator.com/item?id=31669338)
 * [2022-06-08, 15:42:51](https://news.ycombinator.com/item?id=31669054) - [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
 * [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
+* [2022-06-08, 15:27:43](https://news.ycombinator.com/item?id=31668788) - [Ask HN: Co-Founder pivoting, what are my options?](https://news.ycombinator.com/item?id=31668788)
 * [2022-06-08, 15:20:14](https://news.ycombinator.com/item?id=31668663) - [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
 * [2022-06-08, 15:01:36](https://news.ycombinator.com/item?id=31668352) - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
@@ -21,6 +23,7 @@
 * [2022-06-08, 13:40:09](https://news.ycombinator.com/item?id=31667179) - [Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
 * [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 * [2022-06-08, 13:14:21](https://news.ycombinator.com/item?id=31666805) - [How San Francisco became a failed city](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
+* [2022-06-08, 13:11:11](https://news.ycombinator.com/item?id=31666761) - [Toit – A Language Designed for Microcontrollers](https://toitlang.org)
 * [2022-06-08, 12:58:25](https://news.ycombinator.com/item?id=31666593) - [Tesla is making us move or quit. Would I get severance?](https://news.ycombinator.com/item?id=31666593)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
 * [2022-06-08, 12:20:28](https://news.ycombinator.com/item?id=31666186) - [CodeMirror 6.0 Stable Release](https://marijnhaverbeke.nl/blog/codemirror-6.html)
