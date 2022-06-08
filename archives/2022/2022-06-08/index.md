@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 16:45:24](https://news.ycombinator.com/item?id=31670065) - [Stop Eliminating Gifted Programs and Calling It ‘Equity’](https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity)
+* [2022-06-08, 16:26:08](https://news.ycombinator.com/item?id=31669762) - [The End of Localhost](https://dx.tips/the-end-of-localhost)
 * [2022-06-08, 15:59:46](https://news.ycombinator.com/item?id=31669338) - [Ask HN: New job at BigCo. EVERYTHING has friction](https://news.ycombinator.com/item?id=31669338)
 * [2022-06-08, 15:42:51](https://news.ycombinator.com/item?id=31669054) - [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
 * [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
