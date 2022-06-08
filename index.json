@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-08, 19:44:23",
+      "https://news.ycombinator.com/item?id=31672959"
+    ],
+    [
+      "Some languages pay closer attention to family ties than others",
+      "https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 19:29:27",
+      "https://news.ycombinator.com/item?id=31672754"
+    ],
+    [
+      "TC39 Proposal: Type Annotations",
+      "https://github.com/tc39/proposal-type-annotations"
+    ]
+  ],
+  [
+    [
       "2022-06-08, 19:08:30",
       "https://news.ycombinator.com/item?id=31672456"
     ],
@@ -37,6 +57,16 @@
     [
       "The plan to give the moon decent wireless coverage",
       "https://spectrum.ieee.org/lunar-communications"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 18:37:58",
+      "https://news.ycombinator.com/item?id=31672063"
+    ],
+    [
+      "Facebook's Zookeeper Implementation on Delos",
+      "https://engineering.fb.com/2022/06/08/developer-tools/zelos/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-06-08, 15:42:51",
-      "https://news.ycombinator.com/item?id=31669054"
-    ],
-    [
-      "Social Anarchism or Lifestyle Anarchism (1995)",
-      "https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 15:29:33",
       "https://news.ycombinator.com/item?id=31668814"
     ],
@@ -177,16 +197,6 @@
     [
       "Entropy Is Fatal",
       "https://kerkour.com/entropy-is-fatal"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 14:56:41",
-      "https://news.ycombinator.com/item?id=31668274"
-    ],
-    [
-      "Blender 3.2",
-      "https://www.blender.org/download/releases/3-2/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Letters from the Garrod children to their father",
       "https://blogs.bl.uk/untoldlives/2022/06/letters-from-the-garrod-children-to-their-father.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 06:50:11",
-      "https://news.ycombinator.com/item?id=31650689"
-    ],
-    [
-      "Researchers discover way to 3D print directly inside the body without surgery",
-      "https://hothardware.com/news/how-flesh-penetrating-sound-waves-could-3d-print-implants"
     ]
   ]
 ]
