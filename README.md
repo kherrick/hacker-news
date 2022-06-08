@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
+* [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 14:15:12](https://news.ycombinator.com/item?id=31667679) - [Germany to Introduce Bill to Accelerate Wind Energy Expansion](https://www.pmtoday.co.uk/germany-to-introduce-bill-to-accelerate-wind-energy-expansion/)
 * [2022-06-08, 13:44:41](https://news.ycombinator.com/item?id=31667247) - [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939)
 * [2022-06-08, 13:40:09](https://news.ycombinator.com/item?id=31667179) - [Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
@@ -10,7 +11,6 @@
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:13:34](https://news.ycombinator.com/item?id=31664952) - [What FreeBSD can offer compared to other operating systems (2020)](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
 * [2022-06-08, 08:39:47](https://news.ycombinator.com/item?id=31664765) - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
-* [2022-06-08, 08:35:57](https://news.ycombinator.com/item?id=31664748) - [Study Suggests Medical Errors Now Third Leading Cause of Death in U.S. (2016)](https://www.hopkinsmedicine.org/news/media/releases/study_suggests_medical_errors_now_third_leading_cause_of_death_in_the_us)
 * [2022-06-08, 08:01:45](https://news.ycombinator.com/item?id=31664568) - [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
 * [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
