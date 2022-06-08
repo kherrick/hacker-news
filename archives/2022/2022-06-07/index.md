@@ -39,6 +39,7 @@
 * [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
 * [2022-06-07, 13:19:43](https://news.ycombinator.com/item?id=31653824) - [Emergency braking in space](https://www.physicsforums.com/threads/emergency-braking-in-space.1015593/)
+* [2022-06-07, 13:13:43](https://news.ycombinator.com/item?id=31653748) - [Why Have a Blog?](https://robinwinslow.uk/why-have-a-blog)
 * [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 13:09:39](https://news.ycombinator.com/item?id=31653710) - [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
 * [2022-06-07, 12:42:39](https://news.ycombinator.com/item?id=31653351) - [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
