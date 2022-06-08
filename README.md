@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 13:40:09](https://news.ycombinator.com/item?id=31667179) - [Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
+* [2022-06-08, 12:58:25](https://news.ycombinator.com/item?id=31666593) - [Tesla is making us move or quit. Would I get severance?](https://news.ycombinator.com/item?id=31666593)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
 * [2022-06-08, 12:20:28](https://news.ycombinator.com/item?id=31666186) - [CodeMirror 6.0 Stable Release](https://marijnhaverbeke.nl/blog/codemirror-6.html)
-* [2022-06-08, 12:02:10](https://news.ycombinator.com/item?id=31666026) - [Constitutional Right to Install Bulletproof Glass?](https://reason.com/volokh/2017/12/20/right-to-install-bulletproof-glass/)
 * [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
 * [2022-06-08, 11:00:13](https://news.ycombinator.com/item?id=31665611) - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
@@ -18,7 +19,6 @@
 * [2022-06-08, 02:34:28](https://news.ycombinator.com/item?id=31662560) - [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
 * [2022-06-08, 01:40:08](https://news.ycombinator.com/item?id=31662275) - [C implementation of Tic-Tac-Toe in a single call to printf (2020)](https://github.com/carlini/printf-tac-toe)
 * [2022-06-08, 01:26:10](https://news.ycombinator.com/item?id=31662186) - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
-* [2022-06-07, 21:22:35](https://news.ycombinator.com/item?id=31660239) - [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the M1 Windows project](https://amarioguy.github.io/m1windowsproject/)
 * [2022-06-07, 14:21:57](https://news.ycombinator.com/item?id=31654751) - [Optimizing for Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings)
 * [2022-06-07, 14:10:56](https://news.ycombinator.com/item?id=31654552) - [The Race to Zero Defects in Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
