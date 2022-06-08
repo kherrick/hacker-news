@@ -41,6 +41,7 @@
 * [2022-06-07, 13:11:51](https://news.ycombinator.com/item?id=31653726) - [Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form](https://www.offline.cash/)
 * [2022-06-07, 13:09:39](https://news.ycombinator.com/item?id=31653710) - [MongoDB Releases Queryable Encryption Preview](https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview)
 * [2022-06-07, 12:42:39](https://news.ycombinator.com/item?id=31653351) - [Ask HN: Company is asking for unplanned interview stage? Should I accept it?](https://news.ycombinator.com/item?id=31653351)
+* [2022-06-07, 12:27:49](https://news.ycombinator.com/item?id=31653190) - [The First Thing That Ever Sold Online Was Pizza](https://thehistoryoftheweb.com/postscript/pizzanet/)
 * [2022-06-07, 12:19:12](https://news.ycombinator.com/item?id=31653088) - [EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024](https://www.macrumors.com/2022/06/07/eu-agreement-iphone-and-airpods-usb-c-by-2024/)
 * [2022-06-07, 12:10:10](https://news.ycombinator.com/item?id=31652979) - [New Upcoming Telegram Premium Features](https://xiaomiui.net/telegram-premium-features-are-leaked-29132/)
 * [2022-06-07, 12:06:46](https://news.ycombinator.com/item?id=31652939) - [Show HN: Better (arguably) & 8x cheaper text-to-speech than AWS](https://unrealspeech.com/)

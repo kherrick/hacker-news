@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 04:11:42](https://news.ycombinator.com/item?id=31663103) - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
 * [2022-06-08, 03:45:45](https://news.ycombinator.com/item?id=31662962) - [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)
 * [2022-06-08, 02:50:33](https://news.ycombinator.com/item?id=31662647) - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
 * [2022-06-08, 02:34:28](https://news.ycombinator.com/item?id=31662560) - [AI is harming our planet: addressing AI’s staggering energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
