@@ -54,6 +54,7 @@
 * [2022-06-07, 10:50:09](https://news.ycombinator.com/item?id=31652291) - [EU reaches deal to make USB-C a common charger for most electronic devices](https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html)
 * [2022-06-07, 10:46:34](https://news.ycombinator.com/item?id=31652264) - [How celebrity investor Mark Cuban is tackling out-of-control drug prices](https://pharmaphorum.com/views-and-analysis/how-celebrity-investor-mark-cuban-is-tackling-out-of-control-drug-prices/)
 * [2022-06-07, 09:44:59](https://news.ycombinator.com/item?id=31651881) - [EndBASIC](https://www.endbasic.dev/)
+* [2022-06-07, 09:39:37](https://news.ycombinator.com/item?id=31651841) - [A Bit of Z80 History](https://mitsi.com/2021/12/21/a-bit-of-z80-history/)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Letter in Support of Responsible Fintech Policy](https://concerned.tech/)
 * [2022-06-07, 09:19:17](https://news.ycombinator.com/item?id=31651719) - [Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors](https://twitter.com/geoffreyhuntley/status/1534100071738146816)
 * [2022-06-07, 08:39:17](https://news.ycombinator.com/item?id=31651423) - [We're moving to a four-day work week at Beacon](https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week)
