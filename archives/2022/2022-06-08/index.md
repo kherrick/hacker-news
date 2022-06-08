@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 18:21:19](https://news.ycombinator.com/item?id=31671835) - [Digital fair repair act passed in New York](https://www.nysenate.gov/legislation/bills/2021/S4104)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache invalidation might no longer be a hard thing in Computer Science](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
+* [2022-06-08, 17:40:49](https://news.ycombinator.com/item?id=31671138) - [Top F1 designer says auto industry moving in wrong direction with electric cars](https://the-race.com/formula-1/newey-in-depth-aborted-ferrari-switch-verstappen-and-retirement/)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 * [2022-06-08, 17:00:10](https://news.ycombinator.com/item?id=31670307) - [Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
