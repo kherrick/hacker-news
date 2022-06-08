@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-08, 17:02:13",
+      "https://news.ycombinator.com/item?id=31670355"
+    ],
+    [
+      "Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges",
+      "https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 17:00:10",
+      "https://news.ycombinator.com/item?id=31670307"
+    ],
+    [
+      "Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful",
+      "https://jobs.lever.co/trycourier"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 16:48:58",
+      "https://news.ycombinator.com/item?id=31670120"
+    ],
+    [
+      "Pyston-lite: our Python JIT as an extension module",
+      "https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/"
+    ]
+  ],
+  [
+    [
       "2022-06-08, 16:45:24",
       "https://news.ycombinator.com/item?id=31670065"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2022-06-08, 15:27:43",
-      "https://news.ycombinator.com/item?id=31668788"
-    ],
-    [
-      "Ask HN: Co-Founder pivoting, what are my options?",
-      "https://news.ycombinator.com/item?id=31668788"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 15:20:14",
       "https://news.ycombinator.com/item?id=31668663"
     ],
@@ -77,6 +97,16 @@
     [
       "Sunsetting Atom Text Editor",
       "https://github.blog/2022-06-08-sunsetting-atom/"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 15:03:50",
+      "https://news.ycombinator.com/item?id=31668387"
+    ],
+    [
+      "The 'Ahem' Font",
+      "https://web-platform-tests.org/writing-tests/ahem.html"
     ]
   ],
   [
@@ -201,6 +231,16 @@
   ],
   [
     [
+      "2022-06-08, 05:44:43",
+      "https://news.ycombinator.com/item?id=31663702"
+    ],
+    [
+      "Differentiable Finite State Machines",
+      "https://google-research.github.io/self-organising-systems/2022/diff-fsm/"
+    ]
+  ],
+  [
+    [
       "2022-06-08, 04:43:27",
       "https://news.ycombinator.com/item?id=31663298"
     ],
@@ -217,46 +257,6 @@
     [
       "Quick Look at Rosetta on Linux",
       "https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 01:40:08",
-      "https://news.ycombinator.com/item?id=31662275"
-    ],
-    [
-      "C implementation of Tic-Tac-Toe in a single call to printf (2020)",
-      "https://github.com/carlini/printf-tac-toe"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 14:21:57",
-      "https://news.ycombinator.com/item?id=31654751"
-    ],
-    [
-      "Optimizing for Feelings",
-      "https://browsercompany.substack.com/p/optimizing-for-feelings"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 13:13:43",
-      "https://news.ycombinator.com/item?id=31653748"
-    ],
-    [
-      "Why have a blog? (2020)",
-      "https://robinwinslow.uk/why-have-a-blog"
-    ]
-  ],
-  [
-    [
-      "2022-06-07, 12:27:49",
-      "https://news.ycombinator.com/item?id=31653190"
-    ],
-    [
-      "The first thing that ever sold online was pizza (2018)",
-      "https://thehistoryoftheweb.com/postscript/pizzanet/"
     ]
   ],
   [
