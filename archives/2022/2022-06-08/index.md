@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
+* [2022-06-08, 15:01:36](https://news.ycombinator.com/item?id=31668352) - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
+* [2022-06-08, 14:56:41](https://news.ycombinator.com/item?id=31668274) - [Blender 3.2](https://www.blender.org/download/releases/3-2/)
 * [2022-06-08, 14:24:59](https://news.ycombinator.com/item?id=31667817) - [Tell HN: AI is mostly just code](https://news.ycombinator.com/item?id=31667817)
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
