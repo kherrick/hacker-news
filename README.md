@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:13:34](https://news.ycombinator.com/item?id=31664952) - [What FreeBSD can offer compared to other operating systems (2020)](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
 * [2022-06-08, 08:39:47](https://news.ycombinator.com/item?id=31664765) - [CircuitPython – The easiest way to program microcontrollers](https://circuitpython.org?v=2022)
@@ -9,7 +10,6 @@
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 * [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
-* [2022-06-08, 02:50:33](https://news.ycombinator.com/item?id=31662647) - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
 * [2022-06-08, 02:34:28](https://news.ycombinator.com/item?id=31662560) - [Addressing AI’s energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
 * [2022-06-08, 01:40:08](https://news.ycombinator.com/item?id=31662275) - [C implementation of Tic-Tac-Toe in a single call to printf (2020)](https://github.com/carlini/printf-tac-toe)
 * [2022-06-08, 01:26:10](https://news.ycombinator.com/item?id=31662186) - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
