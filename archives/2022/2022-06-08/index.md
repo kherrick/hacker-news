@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache invalidation might no longer be a hard thing in Computer Science](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. Congressman, Operative Pleads Guilty to Election Fraud Charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 * [2022-06-08, 17:00:10](https://news.ycombinator.com/item?id=31670307) - [Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful](https://jobs.lever.co/trycourier)
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
@@ -55,6 +56,7 @@
 * [2022-06-08, 03:45:45](https://news.ycombinator.com/item?id=31662962) - [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)
 * [2022-06-08, 02:50:33](https://news.ycombinator.com/item?id=31662647) - [A history of vintage steel kitchen cabinets](https://retrorenovation.com/metal-kitchen-cabinets-history-design-faq/)
 * [2022-06-08, 02:34:28](https://news.ycombinator.com/item?id=31662560) - [AI is harming our planet: addressing AI’s staggering energy cost](https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet)
+* [2022-06-08, 02:33:31](https://news.ycombinator.com/item?id=31662553) - [Letters from the Garrod children to their father](https://blogs.bl.uk/untoldlives/2022/06/letters-from-the-garrod-children-to-their-father.html)
 * [2022-06-08, 02:24:33](https://news.ycombinator.com/item?id=31662490) - [What's new in Safari and WebKit (WWDC 2022)](https://developer.apple.com/videos/play/wwdc2022/10048/)
 * [2022-06-08, 02:15:11](https://news.ycombinator.com/item?id=31662430) - [Diablo Immortal won't release in the Netherlands and Belgium due to loot box law](https://www.gamereactor.eu/diablo-immortal-wont-release-in-the-netherlands-and-belgium-due-to-loot-box-law-1087853/)
 * [2022-06-08, 01:40:08](https://news.ycombinator.com/item?id=31662275) - [C implementation of Tic-Tac-Toe in a single call to printf (2020)](https://github.com/carlini/printf-tac-toe)
