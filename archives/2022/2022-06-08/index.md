@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 06:56:56](https://news.ycombinator.com/item?id=31664203) - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
 * [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 * [2022-06-08, 04:33:29](https://news.ycombinator.com/item?id=31663231) - [Chesa Boudin Recalled by San Francisco Voters](https://www.wsj.com/articles/san-francisco-district-attorney-chesa-boudin-faces-recall-election-11654603200)
 * [2022-06-08, 04:11:42](https://news.ycombinator.com/item?id=31663103) - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
