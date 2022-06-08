@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-08, 18:58:23",
+      "https://news.ycombinator.com/item?id=31672324"
+    ],
+    [
+      "Apache Hop 2.0",
+      "https://hop.apache.org/blog/2022/06/hop-2.0.0/"
+    ]
+  ],
+  [
+    [
       "2022-06-08, 18:37:28",
       "https://news.ycombinator.com/item?id=31672054"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31671252"
     ],
     [
-      "Cache invalidation might no longer be a hard thing in Computer Science",
+      "Cache made consistent: Meta’s cache invalidation solution",
       "https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/"
     ]
   ],
@@ -75,8 +85,18 @@
       "https://news.ycombinator.com/item?id=31670065"
     ],
     [
-      "Stop eliminating gifted programs and calling it ‘equity’ (2021)",
+      "The case for expanding rather than eliminating gifted education programs (2021)",
       "https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 16:26:08",
+      "https://news.ycombinator.com/item?id=31669762"
+    ],
+    [
+      "The End of Localhost",
+      "https://dx.tips/the-end-of-localhost"
     ]
   ],
   [
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31668426"
     ],
     [
-      "Sunsetting Atom Text Editor",
+      "Sunsetting Atom",
       "https://github.blog/2022-06-08-sunsetting-atom/"
     ]
   ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-06-08, 12:20:28",
-      "https://news.ycombinator.com/item?id=31666186"
-    ],
-    [
-      "CodeMirror 6.0 Stable Release",
-      "https://marijnhaverbeke.nl/blog/codemirror-6.html"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 10:26:00",
       "https://news.ycombinator.com/item?id=31665364"
     ],
@@ -257,16 +267,6 @@
     [
       "Differentiable Finite State Machines",
       "https://google-research.github.io/self-organising-systems/2022/diff-fsm/"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 04:43:27",
-      "https://news.ycombinator.com/item?id=31663298"
-    ],
-    [
-      "Deepkit – High-Performance TypeScript Framework",
-      "https://deepkit.io/"
     ]
   ],
   [
