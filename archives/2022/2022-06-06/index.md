@@ -48,6 +48,7 @@
 * [2022-06-06, 12:59:01](https://news.ycombinator.com/item?id=31639879) - [Show HN: WunderGraph – open-source API Developer Toolkit](https://news.ycombinator.com/item?id=31639879)
 * [2022-06-06, 12:49:00](https://news.ycombinator.com/item?id=31639793) - [Fli4l: The on(e) disk router](https://www.fli4l.de/en/home/news/)
 * [2022-06-06, 12:48:28](https://news.ycombinator.com/item?id=31639788) - [Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d)
+* [2022-06-06, 12:40:15](https://news.ycombinator.com/item?id=31639707) - [MicroPython – Python for Microcontrollers](https://micropython.org/)
 * [2022-06-06, 12:20:34](https://news.ycombinator.com/item?id=31639550) - [One Job, One Pay](https://stellate.co/blog/one-job-one-pay)
 * [2022-06-06, 12:10:31](https://news.ycombinator.com/item?id=31639453) - [Alban Berg’s Dissonances](https://www.nybooks.com/articles/2022/06/23/alban-bergs-dissonances-simms-erwin/)
 * [2022-06-06, 12:03:25](https://news.ycombinator.com/item?id=31639398) - [Small Modular Reactors Exacerbate Challenges of Nuclear Waste](https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/)

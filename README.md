@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-08, 04:33:29](https://news.ycombinator.com/item?id=31663231) - [Chesa Boudin Recalled by San Francisco Voters](https://www.wsj.com/articles/san-francisco-district-attorney-chesa-boudin-faces-recall-election-11654603200)
+* [2022-06-08, 04:43:27](https://news.ycombinator.com/item?id=31663298) - [Deepkit – High-Performance TypeScript Framework](https://deepkit.io/)
 * [2022-06-08, 04:11:42](https://news.ycombinator.com/item?id=31663103) - [ACCC: Airbnb allegedly misled Australians about accommodation prices](https://www.accc.gov.au/media-release/airbnb-allegedly-misled-australians-about-accommodation-prices)
 * [2022-06-08, 03:48:36](https://news.ycombinator.com/item?id=31662978) - [Quick Look at Rosetta on Linux](https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/)
 * [2022-06-08, 03:45:45](https://news.ycombinator.com/item?id=31662962) - [Man sues American Airlines over identification, jail time](https://www.star-telegram.com/news/local/fort-worth/article262126407.html)
@@ -20,16 +20,16 @@
 * [2022-06-07, 17:26:53](https://news.ycombinator.com/item?id=31657527) - [Show HN: Umbrel – A personal server OS for self-hosting](https://umbrel.com)
 * [2022-06-07, 16:46:45](https://news.ycombinator.com/item?id=31657006) - [What’s the best lossless image format?](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 * [2022-06-07, 14:19:09](https://news.ycombinator.com/item?id=31654696) - [Show HN: SetOps – Run containers, databases and more in your own AWS account](https://www.setops.co/)
-* [2022-06-07, 13:23:14](https://news.ycombinator.com/item?id=31653887) - [Liquid platinum at room temperature: possible revolution in industrial chemistry](https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html)
+* [2022-06-07, 13:29:31](https://news.ycombinator.com/item?id=31653985) - [Launch HN: Rootly (YC S21) – Manage Incidents in Slack](https://news.ycombinator.com/item?id=31653985)
 * [2022-06-07, 12:27:49](https://news.ycombinator.com/item?id=31653190) - [The First Thing That Ever Sold Online Was Pizza (2018)](https://thehistoryoftheweb.com/postscript/pizzanet/)
 * [2022-06-07, 09:44:59](https://news.ycombinator.com/item?id=31651881) - [EndBASIC](https://www.endbasic.dev/)
 * [2022-06-07, 09:39:37](https://news.ycombinator.com/item?id=31651841) - [A Bit of Z80 History](https://mitsi.com/2021/12/21/a-bit-of-z80-history/)
 * [2022-06-07, 07:58:33](https://news.ycombinator.com/item?id=31651128) - [RetroArch: Automatic Frame Delay to reduce input latency](https://www.libretro.com/index.php/retroarch-1-9-13-automatic-frame-delay/)
 * [2022-06-07, 07:18:49](https://news.ycombinator.com/item?id=31650865) - [Sunny Cove: Intel’s Lost Generation](https://chipsandcheese.com/2022/06/07/sunny-cove-intels-lost-generation/)
 * [2022-06-07, 01:53:41](https://news.ycombinator.com/item?id=31648981) - [Artificial Lives: On the Occult Origins of Chemistry and the Stuff of Life](https://thereader.mitpress.mit.edu/artificial-lives-on-the-occult-origins-of-chemistry/)
+* [2022-06-06, 12:40:15](https://news.ycombinator.com/item?id=31639707) - [MicroPython – Python for Microcontrollers](https://micropython.org/)
 * [2022-06-06, 11:48:44](https://news.ycombinator.com/item?id=31639268) - [Behind the Ferrari and Lamborghini rivalry](https://www.granturismoevents.com/story-the-epic-story-behind-the-ferrari-and-lamborghini-rivalry/)
 * [2022-06-06, 11:17:27](https://news.ycombinator.com/item?id=31639054) - [Acme Thttpd](https://www.acme.com/software/thttpd/)
-* [2022-06-05, 05:05:07](https://news.ycombinator.com/item?id=31628181) - [How to Draw Animals (1930)](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
 
 ## [Archives](archives/index.md)
 
