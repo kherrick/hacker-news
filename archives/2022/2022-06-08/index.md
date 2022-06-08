@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 13:44:41](https://news.ycombinator.com/item?id=31667247) - [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939)
 * [2022-06-08, 13:40:09](https://news.ycombinator.com/item?id=31667179) - [Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
+* [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+* [2022-06-08, 13:14:21](https://news.ycombinator.com/item?id=31666805) - [How San Francisco became a failed city](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
 * [2022-06-08, 12:58:25](https://news.ycombinator.com/item?id=31666593) - [Tesla is making us move or quit. Would I get severance?](https://news.ycombinator.com/item?id=31666593)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
 * [2022-06-08, 12:20:28](https://news.ycombinator.com/item?id=31666186) - [CodeMirror 6.0 Stable Release](https://marijnhaverbeke.nl/blog/codemirror-6.html)
