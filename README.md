@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
 * [2022-06-08, 20:22:09](https://news.ycombinator.com/item?id=31673459) - [Uber Eats Nationwide Shipping](https://www.uber.com/newsroom/nationwide-shipping/)
 * [2022-06-08, 19:58:03](https://news.ycombinator.com/item?id=31673146) - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
 * [2022-06-08, 19:52:35](https://news.ycombinator.com/item?id=31673071) - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
@@ -11,7 +12,6 @@
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
 * [2022-06-08, 18:45:37](https://news.ycombinator.com/item?id=31672176) - [The plan to give the moon decent wireless coverage](https://spectrum.ieee.org/lunar-communications)
 * [2022-06-08, 18:37:58](https://news.ycombinator.com/item?id=31672063) - [Facebook's Zookeeper Implementation on Delos](https://engineering.fb.com/2022/06/08/developer-tools/zelos/)
-* [2022-06-08, 18:21:19](https://news.ycombinator.com/item?id=31671835) - [Digital fair repair act passed in New York](https://www.nysenate.gov/legislation/bills/2021/S4104)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:07:47](https://news.ycombinator.com/item?id=31670484) - [Porting Doom to a/UX](https://katelibc.medium.com/porting-doom-to-a-ux-8cecab02b531)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. congressman, operative pleads guilty to election fraud charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)

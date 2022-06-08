@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
 * [2022-06-08, 20:22:09](https://news.ycombinator.com/item?id=31673459) - [Uber Eats Nationwide Shipping](https://www.uber.com/newsroom/nationwide-shipping/)
 * [2022-06-08, 19:58:03](https://news.ycombinator.com/item?id=31673146) - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
 * [2022-06-08, 19:52:35](https://news.ycombinator.com/item?id=31673071) - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
