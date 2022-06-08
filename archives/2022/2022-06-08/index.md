@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 12:20:27](https://news.ycombinator.com/item?id=31666184) - [San Francisco votes overwhelmingly to recall progressive DA Chesa Boudin](https://www.cbsnews.com/news/chesa-boudin-san-francisco-da-recalled/)
 * [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
+* [2022-06-08, 11:00:13](https://news.ycombinator.com/item?id=31665611) - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:56:25](https://news.ycombinator.com/item?id=31665201) - [Bird Is Laying Off 23% of Its Staff](https://dot.la/bird-scooters-layoffs-2657472600.html)
 * [2022-06-08, 09:13:34](https://news.ycombinator.com/item?id=31664952) - [What FreeBSD can offer compared to other operating systems (2020)](https://vermaden.wordpress.com/2020/09/07/quare-freebsd/)
