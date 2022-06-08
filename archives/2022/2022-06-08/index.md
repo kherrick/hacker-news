@@ -6,6 +6,7 @@
 
 * [2022-06-08, 15:42:51](https://news.ycombinator.com/item?id=31669054) - [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
 * [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
+* [2022-06-08, 15:20:14](https://news.ycombinator.com/item?id=31668663) - [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom Text Editor](https://github.blog/2022-06-08-sunsetting-atom/)
 * [2022-06-08, 15:01:36](https://news.ycombinator.com/item?id=31668352) - [Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation](https://www.cbsnews.com/boston/news/simone-biles-aly-raisman-gymnasts-larry-nassar-fbi-lawsuit/)
 * [2022-06-08, 14:59:21](https://news.ycombinator.com/item?id=31668316) - [Entropy Is Fatal](https://kerkour.com/entropy-is-fatal)
@@ -16,6 +17,7 @@
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 14:15:12](https://news.ycombinator.com/item?id=31667679) - [Germany to Introduce Bill to Accelerate Wind Energy Expansion](https://www.pmtoday.co.uk/germany-to-introduce-bill-to-accelerate-wind-energy-expansion/)
 * [2022-06-08, 13:44:41](https://news.ycombinator.com/item?id=31667247) - [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939)
+* [2022-06-08, 13:44:19](https://news.ycombinator.com/item?id=31667240) - [Dwarf Fortress Update – Tutorials and Tooltips](https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg)
 * [2022-06-08, 13:40:09](https://news.ycombinator.com/item?id=31667179) - [Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
 * [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 * [2022-06-08, 13:14:21](https://news.ycombinator.com/item?id=31666805) - [How San Francisco became a failed city](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
