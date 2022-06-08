@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-07](index.md)
 
+* [2022-06-07, 23:48:56](https://news.ycombinator.com/item?id=31661464) - ['Old white guy' can move forward with workplace bias suit against AT&T](https://www.reuters.com/legal/legalindustry/old-white-guy-can-move-forward-with-workplace-bias-suit-against-att-2022-06-07/)
 * [2022-06-07, 22:50:50](https://news.ycombinator.com/item?id=31660976) - [The Worst Perk at Google](https://www.coveragecat.com/blog/the-worst-perk-at-google)
 * [2022-06-07, 22:36:10](https://news.ycombinator.com/item?id=31660869) - [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
 * [2022-06-07, 22:01:06](https://news.ycombinator.com/item?id=31660571) - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
@@ -68,6 +69,7 @@
 * [2022-06-07, 02:32:41](https://news.ycombinator.com/item?id=31649237) - [California aims to slash insulin prices](https://www.latimes.com/california/story/2022-06-06/california-aims-to-slash-insulin-prices-and-challenge-big-pharma)
 * [2022-06-07, 02:31:37](https://news.ycombinator.com/item?id=31649228) - [Britain Tests a 4-Day Workweek](https://www.nytimes.com/2022/06/06/business/uk-four-day-work-week.html)
 * [2022-06-07, 01:55:15](https://news.ycombinator.com/item?id=31648995) - [In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use](https://www.atlasobscura.com/articles/psychedelic-mushroom-algeria)
+* [2022-06-07, 01:53:41](https://news.ycombinator.com/item?id=31648981) - [Artificial Lives: On the Occult Origins of Chemistry and the Stuff of Life](https://thereader.mitpress.mit.edu/artificial-lives-on-the-occult-origins-of-chemistry/)
 * [2022-06-07, 01:16:56](https://news.ycombinator.com/item?id=31648690) - [Tell HN: Apple rejecting cross platform apps (React Native, Flutter, Capacitor)](https://news.ycombinator.com/item?id=31648690)
 * [2022-06-07, 01:09:03](https://news.ycombinator.com/item?id=31648636) - [Citigroup plans to hire 4k tech staff](https://www.businesstimes.com.sg/banking-finance/citigroup-plans-to-hire-4000-tech-staff-to-tap-into-digital-explosion)
 * [2022-06-07, 00:22:47](https://news.ycombinator.com/item?id=31648326) - [Tell HN: I used the same computer since 2007 (with minor upgrades)](https://news.ycombinator.com/item?id=31648326)
