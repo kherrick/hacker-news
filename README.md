@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-08, 21:31:49](https://news.ycombinator.com/item?id=31674541) - [One in five UK households cannot afford to be online](https://communityfibre.co.uk/press/one-in-five-uk-households-cannot-afford-to-be-online)
 * [2022-06-08, 21:00:51](https://news.ycombinator.com/item?id=31674091) - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
 * [2022-06-08, 20:56:43](https://news.ycombinator.com/item?id=31674012) - [Faced with scooter seizures, Bird pays property tax bill months late](https://www.kut.org/2022-06-07/faced-with-scooter-seizures-bird-pays-property-tax-bill-months-late)
 * [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
@@ -26,6 +25,7 @@
 * [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 * [2022-06-08, 13:11:11](https://news.ycombinator.com/item?id=31666761) - [Toit – A Language Designed for Microcontrollers](https://toitlang.org)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
+* [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2022-06-08, 02:17:49](https://news.ycombinator.com/item?id=31662445) - [El Ajedrecista](https://en.wikipedia.org/wiki/El_Ajedrecista)

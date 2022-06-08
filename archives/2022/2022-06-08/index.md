@@ -59,6 +59,7 @@
 * [2022-06-08, 12:02:10](https://news.ycombinator.com/item?id=31666026) - [Constitutional Right to Install Bulletproof Glass?](https://reason.com/volokh/2017/12/20/right-to-install-bulletproof-glass/)
 * [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
 * [2022-06-08, 11:00:13](https://news.ycombinator.com/item?id=31665611) - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
+* [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 10:26:00](https://news.ycombinator.com/item?id=31665364) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:56:25](https://news.ycombinator.com/item?id=31665201) - [Bird Is Laying Off 23% of Its Staff](https://dot.la/bird-scooters-layoffs-2657472600.html)
