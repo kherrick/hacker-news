@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
+* [2022-06-08, 19:08:13](https://news.ycombinator.com/item?id=31672449) - [U.S. death rates show how politics are affecting public health](https://www.statnews.com/2022/06/07/us-death-rates-politicization-public-health/)
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
+* [2022-06-08, 18:45:37](https://news.ycombinator.com/item?id=31672176) - [The plan to give the moon decent wireless coverage](https://spectrum.ieee.org/lunar-communications)
 * [2022-06-08, 18:37:28](https://news.ycombinator.com/item?id=31672054) - [Is it a Ponzi? A framework for evaluating crypto projects](https://every.to/almanack/is-it-a-ponzi)
 * [2022-06-08, 18:21:19](https://news.ycombinator.com/item?id=31671835) - [Digital fair repair act passed in New York](https://www.nysenate.gov/legislation/bills/2021/S4104)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
@@ -10,7 +13,6 @@
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
 * [2022-06-08, 16:45:24](https://news.ycombinator.com/item?id=31670065) - [The case for expanding rather than eliminating gifted education programs (2021)](https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity)
 * [2022-06-08, 16:26:08](https://news.ycombinator.com/item?id=31669762) - [The End of Localhost](https://dx.tips/the-end-of-localhost)
-* [2022-06-08, 15:59:46](https://news.ycombinator.com/item?id=31669338) - [Ask HN: New job at BigCo. Everything has friction](https://news.ycombinator.com/item?id=31669338)
 * [2022-06-08, 15:42:51](https://news.ycombinator.com/item?id=31669054) - [Social Anarchism or Lifestyle Anarchism (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
 * [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
@@ -22,14 +24,12 @@
 * [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 * [2022-06-08, 13:11:11](https://news.ycombinator.com/item?id=31666761) - [Toit – A Language Designed for Microcontrollers](https://toitlang.org)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
-* [2022-06-08, 10:26:00](https://news.ycombinator.com/item?id=31665364) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2022-06-08, 02:33:31](https://news.ycombinator.com/item?id=31662553) - [Letters from the Garrod children to their father](https://blogs.bl.uk/untoldlives/2022/06/letters-from-the-garrod-children-to-their-father.html)
 * [2022-06-07, 06:50:11](https://news.ycombinator.com/item?id=31650689) - [Researchers discover way to 3D print directly inside the body without surgery](https://hothardware.com/news/how-flesh-penetrating-sound-waves-could-3d-print-implants)
-* [2022-06-06, 12:40:15](https://news.ycombinator.com/item?id=31639707) - [MicroPython – Python for Microcontrollers](https://micropython.org/)
 
 ## [Archives](archives/index.md)
 

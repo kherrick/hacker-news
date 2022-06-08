@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
+* [2022-06-08, 19:08:13](https://news.ycombinator.com/item?id=31672449) - [U.S. death rates show how politics are affecting public health](https://www.statnews.com/2022/06/07/us-death-rates-politicization-public-health/)
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
+* [2022-06-08, 18:45:37](https://news.ycombinator.com/item?id=31672176) - [The plan to give the moon decent wireless coverage](https://spectrum.ieee.org/lunar-communications)
 * [2022-06-08, 18:37:28](https://news.ycombinator.com/item?id=31672054) - [Is it a Ponzi? A framework for evaluating crypto projects](https://every.to/almanack/is-it-a-ponzi)
 * [2022-06-08, 18:21:19](https://news.ycombinator.com/item?id=31671835) - [Digital fair repair act passed in New York](https://www.nysenate.gov/legislation/bills/2021/S4104)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache invalidation might no longer be a hard thing in Computer Science](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
