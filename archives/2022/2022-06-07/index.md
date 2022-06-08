@@ -69,6 +69,7 @@
 * [2022-06-07, 07:17:27](https://news.ycombinator.com/item?id=31650857) - [Dark Sky Has a New Home (2020)](https://blog.darksky.net/dark-sky-has-a-new-home/)
 * [2022-06-07, 07:07:38](https://news.ycombinator.com/item?id=31650797) - [Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)](https://github.com/sensity-ai/dot)
 * [2022-06-07, 07:05:36](https://news.ycombinator.com/item?id=31650782) - [How does a logic gate in a microchip work?](https://www.scientificamerican.com/article/how-does-a-logic-gate-in/)
+* [2022-06-07, 06:50:11](https://news.ycombinator.com/item?id=31650689) - [Researchers Discover Way to 3D Print Directly Inside the Body Without Surgery](https://hothardware.com/news/how-flesh-penetrating-sound-waves-could-3d-print-implants)
 * [2022-06-07, 05:48:15](https://news.ycombinator.com/item?id=31650320) - [Eu.org, free domain names since 1996](https://nic.eu.org/)
 * [2022-06-07, 05:40:16](https://news.ycombinator.com/item?id=31650268) - [Ask HN: When you code at work, how do you code in your time off?](https://news.ycombinator.com/item?id=31650268)
 * [2022-06-07, 03:38:37](https://news.ycombinator.com/item?id=31649617) - [Performance of coroutine-style lexers in Go](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/)
