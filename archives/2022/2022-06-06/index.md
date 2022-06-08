@@ -57,6 +57,7 @@
 * [2022-06-06, 11:48:44](https://news.ycombinator.com/item?id=31639268) - [Behind the Ferrari and Lamborghini rivalry](https://www.granturismoevents.com/story-the-epic-story-behind-the-ferrari-and-lamborghini-rivalry/)
 * [2022-06-06, 11:42:01](https://news.ycombinator.com/item?id=31639232) - [Telegram reportedly surrendered user data to authorities](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
 * [2022-06-06, 11:21:45](https://news.ycombinator.com/item?id=31639089) - [The Lazy Monad](https://blog.ploeh.dk/2022/05/30/the-lazy-monad/)
+* [2022-06-06, 11:17:27](https://news.ycombinator.com/item?id=31639054) - [Acme Thttpd](https://www.acme.com/software/thttpd/)
 * [2022-06-06, 11:11:26](https://news.ycombinator.com/item?id=31639024) - [GraphCDN is now Stellate and we’ve raised $30M to build the global data graph](https://stellate.co/blog/graphcdn-is-now-stellate)
 * [2022-06-06, 11:09:56](https://news.ycombinator.com/item?id=31639009) - [How to pick the least wrong colors](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)
 * [2022-06-06, 11:09:24](https://news.ycombinator.com/item?id=31639002) - [Is Social Audio Already Dead?](https://thehustle.co/06062022-social-audio/)
