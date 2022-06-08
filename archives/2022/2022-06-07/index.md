@@ -29,6 +29,7 @@
 * [2022-06-07, 14:28:32](https://news.ycombinator.com/item?id=31654863) - [Google Cloud: Major packet loss between multiple regions – Europe and Asia](https://status.cloud.google.com/incidents/YrjzRWPFBUZU5HJZ4mN7#qiycz4eo8qffHEFsX7Kp)
 * [2022-06-07, 14:24:17](https://news.ycombinator.com/item?id=31654797) - [Tell HN: Read up on your GitHub Support SLA](https://news.ycombinator.com/item?id=31654797)
 * [2022-06-07, 14:22:43](https://news.ycombinator.com/item?id=31654762) - [Germany paying $5.5bn for Intel fab](https://www.electronicsweekly.com/news/business/793299-2022-03/)
+* [2022-06-07, 14:21:57](https://news.ycombinator.com/item?id=31654751) - [Optimizing for Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings)
 * [2022-06-07, 14:19:09](https://news.ycombinator.com/item?id=31654696) - [Show HN: SetOps – Run containers, databases and more in your own AWS account](https://www.setops.co/)
 * [2022-06-07, 14:10:56](https://news.ycombinator.com/item?id=31654552) - [The Race to Zero Defects in Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
 * [2022-06-07, 13:57:09](https://news.ycombinator.com/item?id=31654358) - [Talent Cooling](https://nirantk.com/writing/talentcooling.html)
