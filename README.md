@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 23:11:16](https://news.ycombinator.com/item?id=31675639) - [Games and Puzzles as Multicomputational Systems](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/)
 * [2022-06-08, 22:26:59](https://news.ycombinator.com/item?id=31675201) - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
 * [2022-06-08, 22:09:15](https://news.ycombinator.com/item?id=31675015) - [Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
 * [2022-06-08, 21:00:51](https://news.ycombinator.com/item?id=31674091) - [Relationship Hero (YC S17) Is Hiring Consultant Coaches – Remote](https://relationshiphero.com/careers?role=consultantCoach)
@@ -24,7 +25,6 @@
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 13:44:19](https://news.ycombinator.com/item?id=31667240) - [Dwarf Fortress Update – Tutorials and Tooltips](https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg)
 * [2022-06-08, 13:32:13](https://news.ycombinator.com/item?id=31667067) - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
-* [2022-06-08, 13:11:11](https://news.ycombinator.com/item?id=31666761) - [Toit – A Language Designed for Microcontrollers](https://toitlang.org)
 * [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 10:42:46](https://news.ycombinator.com/item?id=31665466) - [Colombia shares unprecedented images of treasure-laden wreck](https://phys.org/news/2022-06-colombia-unprecedented-images-treasure-laden.html)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)

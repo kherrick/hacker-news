@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-08](index.md)
 
+* [2022-06-08, 23:11:16](https://news.ycombinator.com/item?id=31675639) - [Games and Puzzles as Multicomputational Systems](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/)
 * [2022-06-08, 22:26:59](https://news.ycombinator.com/item?id=31675201) - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
 * [2022-06-08, 22:09:15](https://news.ycombinator.com/item?id=31675015) - [Researchers Achieve ‘Absurdly Fast’ Algorithm for Network Flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
 * [2022-06-08, 21:31:49](https://news.ycombinator.com/item?id=31674541) - [One in five UK households cannot afford to be online](https://communityfibre.co.uk/press/one-in-five-uk-households-cannot-afford-to-be-online)
