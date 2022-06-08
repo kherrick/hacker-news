@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 06:56:56](https://news.ycombinator.com/item?id=31664203) - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
 * [2022-06-08, 05:42:28](https://news.ycombinator.com/item?id=31663682) - [Google will not let me pay an invoice they sent me](https://news.ycombinator.com/item?id=31663682)
@@ -10,7 +11,6 @@
 * [2022-06-08, 01:40:08](https://news.ycombinator.com/item?id=31662275) - [C implementation of Tic-Tac-Toe in a single call to printf (2020)](https://github.com/carlini/printf-tac-toe)
 * [2022-06-08, 01:26:10](https://news.ycombinator.com/item?id=31662186) - [Ultrasonic Payments](https://charliegerard.dev/blog/ultrasonic-payments/)
 * [2022-06-08, 00:34:31](https://news.ycombinator.com/item?id=31661795) - [Cowfish: Mutant Superheroes of the Ocean (2015)](https://naturespoisons.com/2015/08/13/cowfish-the-mutant-superheroes-of-the-ocean-pahutoxin/)
-* [2022-06-07, 22:01:24](https://news.ycombinator.com/item?id=31660575) - [Folk (Browser) Interfaces](https://cristobal.space/writing/folk)
 * [2022-06-07, 22:01:06](https://news.ycombinator.com/item?id=31660571) - [When shipping containers sink in the drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
 * [2022-06-07, 21:22:35](https://news.ycombinator.com/item?id=31660239) - [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
 * [2022-06-07, 21:02:47](https://news.ycombinator.com/item?id=31660014) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
