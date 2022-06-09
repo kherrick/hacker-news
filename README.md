@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 22:57:17](https://news.ycombinator.com/item?id=31688014) - [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
 * [2022-06-09, 22:54:32](https://news.ycombinator.com/item?id=31687983) - [Suboptimal naming conventions](https://cozilikethinking.wordpress.com/2022/06/06/suboptimal-naming-conventions/)
 * [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
 * [2022-06-09, 21:10:21](https://news.ycombinator.com/item?id=31686932) - [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
@@ -18,7 +19,6 @@
 * [2022-06-09, 15:18:12](https://news.ycombinator.com/item?id=31682303) - [The collapse of complex software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 * [2022-06-09, 14:42:23](https://news.ycombinator.com/item?id=31681787) - [Shotcut is a free, open-source, cross-platform video editor](https://shotcut.org/)
 * [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [I cut GTA Online loading times (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
-* [2022-06-09, 13:14:16](https://news.ycombinator.com/item?id=31680769) - [More than you ever wanted to know about font loading on the web (2021)](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Ory Kratos – Open-source identity server written in Go](https://github.com/ory/kratos)
 * [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
 * [2022-06-09, 09:42:59](https://news.ycombinator.com/item?id=31679293) - [We got Linux on the iPhone, iPad and other idevices](https://konradybcio.pl/linuxona7/)
