@@ -29,7 +29,7 @@
 * [2022-06-08, 14:13:01](https://news.ycombinator.com/item?id=31667646) - [Ephemerons explained](http://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html)
 * [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
-* [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
+* [2022-06-08, 11:23:59](https://news.ycombinator.com/item?id=31665775) - [Ask HN: What are some mentally healthy apps to have?](https://news.ycombinator.com/item?id=31665775)
 
 ## [Archives](archives/index.md)
 
