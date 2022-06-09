@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
+* [2022-06-09, 05:04:38](https://news.ycombinator.com/item?id=31677736) - [Stop Interviewing with Leet Code](https://fev.al/posts/leet-code/)
 * [2022-06-09, 04:15:08](https://news.ycombinator.com/item?id=31677476) - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 * [2022-06-09, 04:14:14](https://news.ycombinator.com/item?id=31677469) - [Deluge BitTorrent Client](https://deluge-torrent.org/)
 * [2022-06-09, 02:25:30](https://news.ycombinator.com/item?id=31676964) - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
@@ -14,7 +15,6 @@
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 19:44:23](https://news.ycombinator.com/item?id=31672959) - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
 * [2022-06-08, 19:26:27](https://news.ycombinator.com/item?id=31672714) - [New Human Interface Guidelines](https://developer.apple.com/news/?id=v8a3aetj)
-* [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. congressman, operative pleads guilty to election fraud charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
