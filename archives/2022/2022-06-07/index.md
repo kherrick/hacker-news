@@ -9,6 +9,7 @@
 * [2022-06-07, 22:36:10](https://news.ycombinator.com/item?id=31660869) - [Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?](https://news.ycombinator.com/item?id=31660869)
 * [2022-06-07, 22:01:24](https://news.ycombinator.com/item?id=31660575) - [Folk (Browser) Interfaces](https://cristobal.space/writing/folk)
 * [2022-06-07, 22:01:06](https://news.ycombinator.com/item?id=31660571) - [When Shipping Containers Sink in the Drink](https://www.newyorker.com/magazine/2022/06/06/when-shipping-containers-sink-in-the-drink)
+* [2022-06-07, 21:32:58](https://news.ycombinator.com/item?id=31660346) - [Forced Perspective: Sir William Jones gets lost in translation](https://www.laphamsquarterly.org/roundtable/forced-perspective)
 * [2022-06-07, 21:25:37](https://news.ycombinator.com/item?id=31660272) - [Embodiment Is Indispensable for AGI](https://keerthanapg.com/tech/embodiment-agi/)
 * [2022-06-07, 21:22:35](https://news.ycombinator.com/item?id=31660239) - [Many researchers were not compliant with their published data sharing statement](https://www.jclinepi.com/article/S0895-4356(22)00141-X/pdf)
 * [2022-06-07, 21:02:47](https://news.ycombinator.com/item?id=31660014) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
