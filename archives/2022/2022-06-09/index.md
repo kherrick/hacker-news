@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 13:15:10](https://news.ycombinator.com/item?id=31680775) - [Windows 11 update accidentally brings the OS to older machines](https://www.techradar.com/news/windows-11-update-accidentally-brings-the-os-to-older-machines)
+* [2022-06-09, 13:14:16](https://news.ycombinator.com/item?id=31680769) - [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
+* [2022-06-09, 12:56:00](https://news.ycombinator.com/item?id=31680636) - [Download offline maps in the Google Maps app without signing in](https://news.ycombinator.com/item?id=31680636)
 * [2022-06-09, 11:37:52](https://news.ycombinator.com/item?id=31679945) - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
 * [2022-06-09, 11:26:46](https://news.ycombinator.com/item?id=31679872) - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)
