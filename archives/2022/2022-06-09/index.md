@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [Strlen() slowed loading times in GTA 5 by 70% (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+* [2022-06-09, 14:11:53](https://news.ycombinator.com/item?id=31681373) - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 * [2022-06-09, 14:02:09](https://news.ycombinator.com/item?id=31681234) - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
 * [2022-06-09, 13:43:20](https://news.ycombinator.com/item?id=31681030) - [Mark Cuban's Cost Plus Drugs](https://costplusdrugs.com/faq/)
 * [2022-06-09, 13:29:30](https://news.ycombinator.com/item?id=31680894) - [Dropbox deletes Rick and Morty creators account for secret TOS violation](https://twitter.com/JustinRoiland/status/1534670496402268160)
