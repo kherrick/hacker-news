@@ -15,6 +15,7 @@
 * [2022-06-08, 20:41:40](https://news.ycombinator.com/item?id=31673746) - [Investigation report on the OVH data centre fire in Strasbourg on 2021-03-10](https://lafibre.info/ovh-datacenter/incendie-ovh-strabourg/)
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 20:22:09](https://news.ycombinator.com/item?id=31673459) - [Uber Eats Nationwide Shipping](https://www.uber.com/newsroom/nationwide-shipping/)
+* [2022-06-08, 20:20:54](https://news.ycombinator.com/item?id=31673439) - [“Microscope” – A Lost Poem by Louis Ginsberg (2013) [pdf]](http://labs.plantbio.cornell.edu/wayne/pdfs/Ginsberg.pdf)
 * [2022-06-08, 19:58:03](https://news.ycombinator.com/item?id=31673146) - [Less Parking Could Mean More Housing](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/08/less-parking-could-mean-more-housing)
 * [2022-06-08, 19:52:35](https://news.ycombinator.com/item?id=31673071) - [The $100K+ forgery scandal that’s roiling PC game collecting](https://arstechnica.com/gaming/2022/06/inside-the-100k-forgery-scandal-thats-roiling-pc-game-collecting/)
 * [2022-06-08, 19:52:16](https://news.ycombinator.com/item?id=31673068) - [The Human Toll of Fallout 76’s Disastrous Launch](https://kotaku.com/bethesda-zenimax-fallout-76-crunch-development-1849033233)
