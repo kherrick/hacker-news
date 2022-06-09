@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In Defense of Crypto(currency)](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:06:34](https://news.ycombinator.com/item?id=31683850) - [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 * [2022-06-09, 16:39:47](https://news.ycombinator.com/item?id=31683412) - [Ask HN: How do I stop being used?](https://news.ycombinator.com/item?id=31683412)
 * [2022-06-09, 16:25:28](https://news.ycombinator.com/item?id=31683214) - [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)

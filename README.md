@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In Defense of Crypto(currency)](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:06:34](https://news.ycombinator.com/item?id=31683850) - [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 * [2022-06-09, 16:25:28](https://news.ycombinator.com/item?id=31683214) - [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
@@ -27,7 +28,6 @@
 * [2022-06-09, 04:51:43](https://news.ycombinator.com/item?id=31677671) - [I love the Linux desktop, but that doesn't mean I don't see its problems](https://www.theregister.com/2022/06/08/linux_desktop_blues/)
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 20:20:54](https://news.ycombinator.com/item?id=31673439) - [“Microscope” – A Lost Poem by Louis Ginsberg (2013) [pdf]](http://labs.plantbio.cornell.edu/wayne/pdfs/Ginsberg.pdf)
-* [2022-06-08, 14:13:01](https://news.ycombinator.com/item?id=31667646) - [Ephemerons explained](http://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html)
 * [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 
