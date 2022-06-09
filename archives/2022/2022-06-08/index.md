@@ -52,6 +52,7 @@
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
 * [2022-06-08, 14:15:12](https://news.ycombinator.com/item?id=31667679) - [Germany to Introduce Bill to Accelerate Wind Energy Expansion](https://www.pmtoday.co.uk/germany-to-introduce-bill-to-accelerate-wind-energy-expansion/)
+* [2022-06-08, 14:13:01](https://news.ycombinator.com/item?id=31667646) - [Ephemerons explained](http://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html)
 * [2022-06-08, 13:44:41](https://news.ycombinator.com/item?id=31667247) - [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939)
 * [2022-06-08, 13:44:19](https://news.ycombinator.com/item?id=31667240) - [Dwarf Fortress Update – Tutorials and Tooltips](https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg)
 * [2022-06-08, 13:40:09](https://news.ycombinator.com/item?id=31667179) - [Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)](https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/)
