@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:20:10](https://news.ycombinator.com/item?id=31678081) - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
 * [2022-06-09, 05:30:14](https://news.ycombinator.com/item?id=31677867) - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
@@ -16,9 +17,8 @@
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. congressman, operative pleads guilty to election fraud charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 * [2022-06-08, 16:16:23](https://news.ycombinator.com/item?id=31669607) - [Progress toward fusion energy breakeven measured against Lawson criterion](https://twitter.com/swurzel/status/1534556521744457731)
-* [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
 * [2022-06-08, 15:06:39](https://news.ycombinator.com/item?id=31668426) - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
-* [2022-06-08, 14:59:21](https://news.ycombinator.com/item?id=31668316) - [Entropy Is Fatal](https://kerkour.com/entropy-is-fatal)
+* [2022-06-08, 12:52:56](https://news.ycombinator.com/item?id=31666533) - [Anti-reductionism in Nyāya-Vaiśesika atomism](http://edwardfeser.blogspot.com/2022/06/anti-reductionism-in-nyaya-vaisesika.html)
 * [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
 * [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 10:42:46](https://news.ycombinator.com/item?id=31665466) - [Colombia shares unprecedented images of treasure-laden wreck](https://phys.org/news/2022-06-colombia-unprecedented-images-treasure-laden.html)
