@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In Defense of Crypto(currency)](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:06:34](https://news.ycombinator.com/item?id=31683850) - [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 * [2022-06-09, 16:39:47](https://news.ycombinator.com/item?id=31683412) - [Ask HN: How do I stop being used?](https://news.ycombinator.com/item?id=31683412)
@@ -34,6 +35,7 @@
 * [2022-06-09, 10:24:05](https://news.ycombinator.com/item?id=31679491) - [Chris McCandless Was a Moron Who Deserved to Die](https://blackshaw.substack.com/p/wild)
 * [2022-06-09, 09:42:59](https://news.ycombinator.com/item?id=31679293) - [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
 * [2022-06-09, 09:33:15](https://news.ycombinator.com/item?id=31679251) - [Ask HN: How to talk with logical flow and coherence at interviews](https://news.ycombinator.com/item?id=31679251)
+* [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The Cursed D65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 09:18:02](https://news.ycombinator.com/item?id=31679167) - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 * [2022-06-09, 08:38:14](https://news.ycombinator.com/item?id=31678913) - [The mysterious behaviour of the Flying Tiger Countdown Clock (and the bug)](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
 * [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
