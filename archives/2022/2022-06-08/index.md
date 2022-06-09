@@ -78,6 +78,7 @@
 * [2022-06-08, 08:01:45](https://news.ycombinator.com/item?id=31664568) - [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
 * [2022-06-08, 08:00:41](https://news.ycombinator.com/item?id=31664560) - [How Margaret Thatcher's Brahms phone was invented](https://www.bbc.com/news/world-61712621)
 * [2022-06-08, 07:50:33](https://news.ycombinator.com/item?id=31664501) - [Learn Haskell by building a blog generator – a project-oriented Haskell book](https://lhbg-book.link)
+* [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
 * [2022-06-08, 07:39:38](https://news.ycombinator.com/item?id=31664440) - [Find a good available .com domain](https://sive.rs/com)
 * [2022-06-08, 07:01:01](https://news.ycombinator.com/item?id=31664226) - [LTSpice Tutorial](https://www.youtube.com/watch?v=JRcyHuyb1V0)
 * [2022-06-08, 06:56:56](https://news.ycombinator.com/item?id=31664203) - [I quit the tech industry (2015)](https://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/)
