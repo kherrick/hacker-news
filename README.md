@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 13:43:20](https://news.ycombinator.com/item?id=31681030) - [Mark Cuban's Cost Plus Drugs](https://costplusdrugs.com/faq/)
+* [2022-06-09, 13:29:30](https://news.ycombinator.com/item?id=31680894) - [Dropbox deletes Rick and Morty creators account for secret TOS violation](https://twitter.com/JustinRoiland/status/1534670496402268160)
+* [2022-06-09, 13:27:33](https://news.ycombinator.com/item?id=31680876) - [How to build undo/redo in a multiplayer environment by Liveblocks](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment)
 * [2022-06-09, 13:15:10](https://news.ycombinator.com/item?id=31680775) - [Windows 11 update accidentally brings the OS to older machines](https://www.techradar.com/news/windows-11-update-accidentally-brings-the-os-to-older-machines)
 * [2022-06-09, 13:14:16](https://news.ycombinator.com/item?id=31680769) - [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
 * [2022-06-09, 12:56:00](https://news.ycombinator.com/item?id=31680636) - [Download offline maps in the Google Maps app without signing in](https://news.ycombinator.com/item?id=31680636)
@@ -16,7 +19,6 @@
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 * [2022-06-09, 05:04:38](https://news.ycombinator.com/item?id=31677736) - [Stop Interviewing with Leet Code](https://fev.al/posts/leet-code/)
 * [2022-06-09, 04:15:08](https://news.ycombinator.com/item?id=31677476) - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
-* [2022-06-09, 01:02:09](https://news.ycombinator.com/item?id=31676449) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
 * [2022-06-09, 01:01:36](https://news.ycombinator.com/item?id=31676445) - [50th Anniversary of the Mother of All Demos (2018)](https://amasad.me/moad)
 * [2022-06-08, 23:55:10](https://news.ycombinator.com/item?id=31676011) - [We won the battle for Linux, but we're losing the battle for freedom (2016)](https://www.linuxjournal.com/content/whats-our-next-fight)
 * [2022-06-08, 23:19:59](https://news.ycombinator.com/item?id=31675727) - [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)
@@ -24,11 +26,9 @@
 * [2022-06-08, 16:16:23](https://news.ycombinator.com/item?id=31669607) - [Progress toward fusion energy breakeven measured against Lawson criterion](https://twitter.com/swurzel/status/1534556521744457731)
 * [2022-06-08, 12:52:56](https://news.ycombinator.com/item?id=31666533) - [Anti-reductionism in Nyāya-Vaiśesika atomism](http://edwardfeser.blogspot.com/2022/06/anti-reductionism-in-nyaya-vaisesika.html)
 * [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
-* [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
 * [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
 * [2022-06-08, 09:24:58](https://news.ycombinator.com/item?id=31665012) - [Surprising Things You Didn't Know About HTTP](https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713)
 * [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
-* [2022-06-07, 14:10:56](https://news.ycombinator.com/item?id=31654552) - [The Race to Zero Defects in Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
 * [2022-06-06, 09:00:28](https://news.ycombinator.com/item?id=31638457) - [Flarum – Simple forum software for building great communities](https://github.com/flarum/flarum)
 
 ## [Archives](archives/index.md)
