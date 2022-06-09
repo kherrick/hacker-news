@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 09:18:02](https://news.ycombinator.com/item?id=31679167) - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 * [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:56:11](https://news.ycombinator.com/item?id=31678284) - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
+* [2022-06-09, 06:40:48](https://news.ycombinator.com/item?id=31678205) - [Show HN: Personal AI Writing Assistant for Mac](https://elephas.app)
 * [2022-06-09, 06:20:10](https://news.ycombinator.com/item?id=31678081) - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
 * [2022-06-09, 05:30:14](https://news.ycombinator.com/item?id=31677867) - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
