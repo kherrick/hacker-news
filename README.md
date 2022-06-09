@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
-* [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In Defense of Crypto(currency)](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
-* [2022-06-09, 17:06:34](https://news.ycombinator.com/item?id=31683850) - [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+* [2022-06-09, 18:06:14](https://news.ycombinator.com/item?id=31684673) - [Why it's bad to kill Grandma](https://dynomight.net/grandma/)
+* [2022-06-09, 17:16:49](https://news.ycombinator.com/item?id=31683999) - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 * [2022-06-09, 16:25:28](https://news.ycombinator.com/item?id=31683214) - [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
 * [2022-06-09, 16:10:55](https://news.ycombinator.com/item?id=31683008) - [Software Companies Die (1995) [pdf]](https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf)
