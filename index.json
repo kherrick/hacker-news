@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-06-09, 18:06:14",
-      "https://news.ycombinator.com/item?id=31684673"
-    ],
-    [
-      "Why it's bad to kill Grandma",
-      "https://dynomight.net/grandma/"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 17:16:49",
       "https://news.ycombinator.com/item?id=31683999"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31682361"
     ],
     [
-      "Why are nuclear power construction costs so high? Part I",
+      "Why are nuclear power construction costs so high?",
       "https://constructionphysics.substack.com/p/why-are-nuclear-power-construction"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31682303"
     ],
     [
-      "The Collapse of Complex Software",
+      "The collapse of complex software",
       "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "More than you ever wanted to know about font loading on the web",
       "https://www.industrialempathy.com/posts/high-performance-web-font-loading/"
+    ]
+  ],
+  [
+    [
+      "2022-06-09, 11:37:52",
+      "https://news.ycombinator.com/item?id=31679945"
+    ],
+    [
+      "Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView",
+      "https://gitlab.com/BenWiser/python-live-gui"
     ]
   ],
   [
