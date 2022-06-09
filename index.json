@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-06-09, 21:27:54",
-      "https://news.ycombinator.com/item?id=31687131"
+      "2022-06-09, 22:29:42",
+      "https://news.ycombinator.com/item?id=31687782"
     ],
     [
-      "Radio signal coming from another galaxy detected by scientists",
-      "https://www.breezyscroll.com/space/radio-signal-coming-from-another-galaxy-detected-by-scientists/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 20:54:49",
-      "https://news.ycombinator.com/item?id=31686737"
-    ],
-    [
-      "Physicists Discover Never-Before Seen Particle Sitting on a Tabletop",
-      "https://www.math.columbia.edu/~woit/wordpress/?p=12936"
+      "Important PostgreSQL 14 update to avoid silent corruption of indexes",
+      "https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/"
     ]
   ],
   [
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2022-06-09, 19:38:01",
-      "https://news.ycombinator.com/item?id=31685794"
+      "2022-06-09, 19:35:24",
+      "https://news.ycombinator.com/item?id=31685767"
     ],
     [
-      "The EU plan to monitor your phone is unconstitutional",
-      "https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/"
+      "Bridging the Synchronization Gap on Linux",
+      "https://www.collabora.com/news-and-blog/blog/2022/06/09/bridging-the-synchronization-gap-on-linux/"
     ]
   ],
   [
@@ -45,18 +35,8 @@
       "https://news.ycombinator.com/item?id=31685741"
     ],
     [
-      "ZeroTier Business SSO is here And so is our new pricing",
+      "ZeroTier Business SSO",
       "https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 19:16:04",
-      "https://news.ycombinator.com/item?id=31685545"
-    ],
-    [
-      "Do Kwon Sent $80M a Month to Himself",
-      "https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31683214"
     ],
     [
-      "Vivaldi Mail 1.0: A powerful email client built right into the browser",
+      "Vivaldi Mail 1.0: Email client built into the browser",
       "https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/"
     ]
   ],
@@ -201,11 +181,21 @@
   ],
   [
     [
+      "2022-06-09, 11:37:52",
+      "https://news.ycombinator.com/item?id=31679945"
+    ],
+    [
+      "Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView",
+      "https://gitlab.com/BenWiser/python-live-gui"
+    ]
+  ],
+  [
+    [
       "2022-06-09, 11:17:44",
       "https://news.ycombinator.com/item?id=31679811"
     ],
     [
-      "Show HN: Open-Source Identity Server Written in Go (Ory Kratos)",
+      "Show HN: Ory Kratos – Open-source identity server written in Go",
       "https://github.com/ory/kratos"
     ]
   ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=31679293"
     ],
     [
-      "We Got Linux on the iPhone, iPad and Other iDevices",
+      "We got Linux on the iPhone, iPad and other idevices",
       "https://konradybcio.pl/linuxona7/"
     ]
   ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=31679251"
     ],
     [
-      "Ask HN: How to talk with logical flow and coherence at interviews",
+      "Ask HN: How to talk with logical flow and coherence at interviews?",
       "https://news.ycombinator.com/item?id=31679251"
     ]
   ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=31679207"
     ],
     [
-      "The Cursed D65536",
+      "The cursed d65536",
       "http://aleph.se/andart2/math/the-cursed-d65536/"
     ]
   ],
@@ -245,8 +235,18 @@
       "https://news.ycombinator.com/item?id=31678607"
     ],
     [
-      "Why I Killed My Startup",
+      "I killed my startup",
       "https://k1nz.substack.com/p/why-i-killed-my-startup"
+    ]
+  ],
+  [
+    [
+      "2022-06-09, 06:40:07",
+      "https://news.ycombinator.com/item?id=31678199"
+    ],
+    [
+      "Raising exceptions or returning error objects in Python",
+      "https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/"
     ]
   ],
   [
