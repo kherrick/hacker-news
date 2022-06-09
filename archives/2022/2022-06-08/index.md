@@ -66,6 +66,7 @@
 * [2022-06-08, 12:20:27](https://news.ycombinator.com/item?id=31666184) - [San Francisco votes overwhelmingly to recall progressive DA Chesa Boudin](https://www.cbsnews.com/news/chesa-boudin-san-francisco-da-recalled/)
 * [2022-06-08, 12:02:10](https://news.ycombinator.com/item?id=31666026) - [Constitutional Right to Install Bulletproof Glass?](https://reason.com/volokh/2017/12/20/right-to-install-bulletproof-glass/)
 * [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
+* [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 * [2022-06-08, 11:23:59](https://news.ycombinator.com/item?id=31665775) - [Ask HN: What are some mentally healthy apps to have?](https://news.ycombinator.com/item?id=31665775)
 * [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
 * [2022-06-08, 11:00:13](https://news.ycombinator.com/item?id=31665611) - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
