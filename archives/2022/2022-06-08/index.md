@@ -61,6 +61,7 @@
 * [2022-06-08, 12:58:25](https://news.ycombinator.com/item?id=31666593) - [Tesla is making us move or quit. Would I get severance?](https://news.ycombinator.com/item?id=31666593)
 * [2022-06-08, 12:52:56](https://news.ycombinator.com/item?id=31666533) - [Anti-reductionism in Nyāya-Vaiśesika atomism](http://edwardfeser.blogspot.com/2022/06/anti-reductionism-in-nyaya-vaisesika.html)
 * [2022-06-08, 12:48:21](https://news.ycombinator.com/item?id=31666476) - [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
+* [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
 * [2022-06-08, 12:20:28](https://news.ycombinator.com/item?id=31666186) - [CodeMirror 6.0 Stable Release](https://marijnhaverbeke.nl/blog/codemirror-6.html)
 * [2022-06-08, 12:20:27](https://news.ycombinator.com/item?id=31666184) - [San Francisco votes overwhelmingly to recall progressive DA Chesa Boudin](https://www.cbsnews.com/news/chesa-boudin-san-francisco-da-recalled/)
 * [2022-06-08, 12:02:10](https://news.ycombinator.com/item?id=31666026) - [Constitutional Right to Install Bulletproof Glass?](https://reason.com/volokh/2017/12/20/right-to-install-bulletproof-glass/)
