@@ -6,8 +6,10 @@
 
 * [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
 * [2022-06-09, 21:27:54](https://news.ycombinator.com/item?id=31687131) - [Radio signal coming from another galaxy detected by scientists](https://www.breezyscroll.com/space/radio-signal-coming-from-another-galaxy-detected-by-scientists/)
+* [2022-06-09, 20:59:10](https://news.ycombinator.com/item?id=31686794) - [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 * [2022-06-09, 20:54:49](https://news.ycombinator.com/item?id=31686737) - [Physicists Discover Never-Before Seen Particle Sitting on a Tabletop](https://www.math.columbia.edu/~woit/wordpress/?p=12936)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
+* [2022-06-09, 20:36:58](https://news.ycombinator.com/item?id=31686511) - [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
 * [2022-06-09, 19:38:01](https://news.ycombinator.com/item?id=31685794) - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
 * [2022-06-09, 19:36:16](https://news.ycombinator.com/item?id=31685776) - [Tesla investigation deepens after more than a dozen US ‘Autopilot’ crashes](https://www.theguardian.com/technology/2022/jun/09/tesla-autopilot-crashes-investigation-nhtsa)
@@ -44,6 +46,7 @@
 * [2022-06-09, 11:37:52](https://news.ycombinator.com/item?id=31679945) - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
 * [2022-06-09, 11:26:46](https://news.ycombinator.com/item?id=31679872) - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)
+* [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
 * [2022-06-09, 10:24:05](https://news.ycombinator.com/item?id=31679491) - [Chris McCandless Was a Moron Who Deserved to Die](https://blackshaw.substack.com/p/wild)
 * [2022-06-09, 09:42:59](https://news.ycombinator.com/item?id=31679293) - [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
 * [2022-06-09, 09:33:15](https://news.ycombinator.com/item?id=31679251) - [Ask HN: How to talk with logical flow and coherence at interviews](https://news.ycombinator.com/item?id=31679251)
