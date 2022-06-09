@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
 * [2022-06-09, 21:27:54](https://news.ycombinator.com/item?id=31687131) - [Radio signal coming from another galaxy detected by scientists](https://www.breezyscroll.com/space/radio-signal-coming-from-another-galaxy-detected-by-scientists/)
 * [2022-06-09, 20:54:49](https://news.ycombinator.com/item?id=31686737) - [Physicists Discover Never-Before Seen Particle Sitting on a Tabletop](https://www.math.columbia.edu/~woit/wordpress/?p=12936)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
 * [2022-06-09, 19:38:01](https://news.ycombinator.com/item?id=31685794) - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
 * [2022-06-09, 19:36:16](https://news.ycombinator.com/item?id=31685776) - [Tesla investigation deepens after more than a dozen US ‘Autopilot’ crashes](https://www.theguardian.com/technology/2022/jun/09/tesla-autopilot-crashes-investigation-nhtsa)
+* [2022-06-09, 19:35:24](https://news.ycombinator.com/item?id=31685767) - [Bridging the Synchronization Gap on Linux](https://www.collabora.com/news-and-blog/blog/2022/06/09/bridging-the-synchronization-gap-on-linux/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
 * [2022-06-09, 19:16:04](https://news.ycombinator.com/item?id=31685545) - [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
 * [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
@@ -53,6 +55,7 @@
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:56:11](https://news.ycombinator.com/item?id=31678284) - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
 * [2022-06-09, 06:40:48](https://news.ycombinator.com/item?id=31678205) - [Show HN: Personal AI Writing Assistant for Mac](https://elephas.app)
+* [2022-06-09, 06:40:07](https://news.ycombinator.com/item?id=31678199) - [Raising exceptions or returning error objects in Python](https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/)
 * [2022-06-09, 06:20:10](https://news.ycombinator.com/item?id=31678081) - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
 * [2022-06-09, 05:30:14](https://news.ycombinator.com/item?id=31677867) - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
