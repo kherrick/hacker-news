@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 15:22:26](https://news.ycombinator.com/item?id=31682361) - [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
 * [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [I cut GTA Online loading times (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 * [2022-06-09, 14:11:53](https://news.ycombinator.com/item?id=31681373) - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 * [2022-06-09, 14:02:09](https://news.ycombinator.com/item?id=31681234) - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
@@ -29,7 +30,6 @@
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 * [2022-06-08, 11:23:59](https://news.ycombinator.com/item?id=31665775) - [Ask HN: What are some mentally healthy apps to have?](https://news.ycombinator.com/item?id=31665775)
 * [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
-* [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
 
 ## [Archives](archives/index.md)
 
