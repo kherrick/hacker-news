@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 05:30:14](https://news.ycombinator.com/item?id=31677867) - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 * [2022-06-09, 04:15:08](https://news.ycombinator.com/item?id=31677476) - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 * [2022-06-09, 04:14:14](https://news.ycombinator.com/item?id=31677469) - [Deluge BitTorrent Client](https://deluge-torrent.org/)
@@ -12,8 +13,6 @@
 * [2022-06-08, 22:26:59](https://news.ycombinator.com/item?id=31675201) - [Hacker News “Who is Hiring?” top-level comments over time](https://blog.joewoods.dev/technology/hackernews-who-is-hiring-top-level-comments-over-time/)
 * [2022-06-08, 22:09:15](https://news.ycombinator.com/item?id=31675015) - [Researchers achieve ‘absurdly fast’ algorithm for network flow](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/)
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
-* [2022-06-08, 19:44:23](https://news.ycombinator.com/item?id=31672959) - [Some languages pay closer attention to family ties than others](https://www.economist.com/culture/2022/06/02/some-languages-pay-closer-attention-to-family-ties-than-others)
-* [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. congressman, operative pleads guilty to election fraud charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
@@ -30,6 +29,7 @@
 * [2022-06-08, 02:17:49](https://news.ycombinator.com/item?id=31662445) - [El Ajedrecista](https://en.wikipedia.org/wiki/El_Ajedrecista)
 * [2022-06-07, 17:28:39](https://news.ycombinator.com/item?id=31657547) - [Out on the Town: Magnus Hirschfeld and Berlin’s Third Sex](https://publicdomainreview.org/essay/out-on-the-town/)
 * [2022-06-06, 09:34:26](https://news.ycombinator.com/item?id=31638586) - [‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice](https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice)
+* [2022-06-06, 09:00:28](https://news.ycombinator.com/item?id=31638457) - [Flarum – Simple forum software for building great communities](https://github.com/flarum/flarum)
 
 ## [Archives](archives/index.md)
 

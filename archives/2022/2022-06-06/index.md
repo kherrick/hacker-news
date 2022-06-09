@@ -68,6 +68,7 @@
 * [2022-06-06, 09:34:26](https://news.ycombinator.com/item?id=31638586) - [‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice](https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice)
 * [2022-06-06, 09:27:39](https://news.ycombinator.com/item?id=31638552) - [Show HN: Micro LZMA decoder (x86 assembly code golf)](https://github.com/ilyakurdyukov/micro-lzmadec)
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
+* [2022-06-06, 09:00:28](https://news.ycombinator.com/item?id=31638457) - [Flarum – Simple forum software for building great communities](https://github.com/flarum/flarum)
 * [2022-06-06, 08:35:30](https://news.ycombinator.com/item?id=31638363) - [What are Lichtenberg figures, and how do we make them?](http://capturedlightning.com/frames/lichtenbergs.html)
 * [2022-06-06, 07:55:03](https://news.ycombinator.com/item?id=31638173) - [Hardware-accelerated Linux virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv/)
 * [2022-06-06, 07:41:43](https://news.ycombinator.com/item?id=31638111) - [Hopular: Modern Hopfield Networks for Tabular Data](https://paperswithcode.com/paper/hopular-modern-hopfield-networks-for-tabular-1)
