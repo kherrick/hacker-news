@@ -27,9 +27,9 @@
 * [2022-06-08, 07:01:01](https://news.ycombinator.com/item?id=31664226) - [LTSpice Tutorial](https://www.youtube.com/watch?v=JRcyHuyb1V0)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2022-06-08, 02:17:49](https://news.ycombinator.com/item?id=31662445) - [El Ajedrecista](https://en.wikipedia.org/wiki/El_Ajedrecista)
-* [2022-06-07, 17:28:39](https://news.ycombinator.com/item?id=31657547) - [Out on the Town: Magnus Hirschfeld and Berlin’s Third Sex](https://publicdomainreview.org/essay/out-on-the-town/)
 * [2022-06-07, 14:10:56](https://news.ycombinator.com/item?id=31654552) - [The Race to Zero Defects in Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
 * [2022-06-06, 09:34:26](https://news.ycombinator.com/item?id=31638586) - [‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice](https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice)
+* [2022-06-06, 09:00:28](https://news.ycombinator.com/item?id=31638457) - [Flarum – Simple forum software for building great communities](https://github.com/flarum/flarum)
 
 ## [Archives](archives/index.md)
 
