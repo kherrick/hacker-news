@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
 * [2022-06-09, 19:38:01](https://news.ycombinator.com/item?id=31685794) - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
 * [2022-06-09, 19:16:04](https://news.ycombinator.com/item?id=31685545) - [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
@@ -26,7 +27,6 @@
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [Why I Killed My Startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 05:30:14](https://news.ycombinator.com/item?id=31677867) - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
-* [2022-06-09, 05:04:38](https://news.ycombinator.com/item?id=31677736) - [Stop Interviewing with Leet Code](https://fev.al/posts/leet-code/)
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)

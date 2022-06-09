@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
 * [2022-06-09, 19:38:01](https://news.ycombinator.com/item?id=31685794) - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
 * [2022-06-09, 19:16:04](https://news.ycombinator.com/item?id=31685545) - [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
