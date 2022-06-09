@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2022-06-09, 00:49:21",
-      "https://news.ycombinator.com/item?id=31676373"
-    ],
-    [
-      "Underprotection of Unpredictable Statistical Lives Compared to Predictable Ones",
-      "https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 23:55:10",
       "https://news.ycombinator.com/item?id=31676011"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2022-06-08, 18:58:23",
-      "https://news.ycombinator.com/item?id=31672324"
-    ],
-    [
-      "Apache Hop 2.0",
-      "https://hop.apache.org/blog/2022/06/hop-2.0.0/"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 17:46:22",
       "https://news.ycombinator.com/item?id=31671252"
     ],
@@ -171,12 +151,12 @@
   ],
   [
     [
-      "2022-06-08, 16:48:58",
-      "https://news.ycombinator.com/item?id=31670120"
+      "2022-06-08, 16:16:23",
+      "https://news.ycombinator.com/item?id=31669607"
     ],
     [
-      "Pyston-lite: our Python JIT as an extension module",
-      "https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/"
+      "Progress toward fusion energy breakeven measured against Lawson criterion",
+      "https://twitter.com/swurzel/status/1534556521744457731"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-06-07, 14:10:56",
+      "https://news.ycombinator.com/item?id=31654552"
+    ],
+    [
+      "The Race to Zero Defects in Auto ICs",
+      "https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/"
+    ]
+  ],
+  [
+    [
       "2022-06-06, 09:34:26",
       "https://news.ycombinator.com/item?id=31638586"
     ],
     [
       "‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice",
       "https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 09:00:28",
+      "https://news.ycombinator.com/item?id=31638457"
+    ],
+    [
+      "Flarum – Simple forum software for building great communities",
+      "https://github.com/flarum/flarum"
     ]
   ]
 ]
