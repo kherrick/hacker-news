@@ -19,6 +19,7 @@
 * [2022-06-07, 18:10:13](https://news.ycombinator.com/item?id=31658086) - [Please don't unofficially ship Bottles in distribution repositories](https://usebottles.com/blog/an-open-letter/)
 * [2022-06-07, 17:32:57](https://news.ycombinator.com/item?id=31657607) - [FAA Continues to Stall on G100UL](https://www.avweb.com/insider/faa-continues-to-stall-on-g100ul/)
 * [2022-06-07, 17:31:30](https://news.ycombinator.com/item?id=31657591) - [Welcome to the Apple M1 Windows Project](https://amarioguy.github.io/m1windowsproject/)
+* [2022-06-07, 17:28:39](https://news.ycombinator.com/item?id=31657547) - [Out on the Town: Magnus Hirschfeld and Berlin’s Third Sex](https://publicdomainreview.org/essay/out-on-the-town/)
 * [2022-06-07, 17:26:53](https://news.ycombinator.com/item?id=31657527) - [Show HN: Umbrel – A personal server OS for self-hosting](https://umbrel.com)
 * [2022-06-07, 17:00:03](https://news.ycombinator.com/item?id=31657187) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31657187)
 * [2022-06-07, 16:51:02](https://news.ycombinator.com/item?id=31657068) - [US import demand is dropping off a cliff](https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff)

@@ -65,6 +65,7 @@
 * [2022-06-06, 10:16:41](https://news.ycombinator.com/item?id=31638746) - [The true cost of linked lists](http://ykarroum.com/2022/05/30/true-cost-list/)
 * [2022-06-06, 10:03:34](https://news.ycombinator.com/item?id=31638697) - [How to open a safe](https://github.com/H4ckd4ddy/bypass-sentry-safe)
 * [2022-06-06, 09:51:51](https://news.ycombinator.com/item?id=31638648) - [In Defense of OpenStreetMap's Data Model](https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data)
+* [2022-06-06, 09:34:26](https://news.ycombinator.com/item?id=31638586) - [‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice](https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice)
 * [2022-06-06, 09:27:39](https://news.ycombinator.com/item?id=31638552) - [Show HN: Micro LZMA decoder (x86 assembly code golf)](https://github.com/ilyakurdyukov/micro-lzmadec)
 * [2022-06-06, 09:21:59](https://news.ycombinator.com/item?id=31638526) - [Yandex CEO resigns after being targeted by EU sanctions](https://www.reuters.com/technology/yandex-ceo-volozh-resigns-after-eu-sanctions-2022-06-03/)
 * [2022-06-06, 08:35:30](https://news.ycombinator.com/item?id=31638363) - [What are Lichtenberg figures, and how do we make them?](http://capturedlightning.com/frames/lichtenbergs.html)
