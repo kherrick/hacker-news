@@ -70,6 +70,7 @@
 * [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 10:42:46](https://news.ycombinator.com/item?id=31665466) - [Colombia shares unprecedented images of treasure-laden wreck](https://phys.org/news/2022-06-colombia-unprecedented-images-treasure-laden.html)
 * [2022-06-08, 10:26:00](https://news.ycombinator.com/item?id=31665364) - [Sage and a glimpse of group computing from before the PC](https://interconnected.org/home/2021/12/21/sage)
+* [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
 * [2022-06-08, 10:02:58](https://news.ycombinator.com/item?id=31665233) - [Exploiting the Wii U's USB Descriptor parsing](https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html)
 * [2022-06-08, 09:56:25](https://news.ycombinator.com/item?id=31665201) - [Bird Is Laying Off 23% of Its Staff](https://dot.la/bird-scooters-layoffs-2657472600.html)
 * [2022-06-08, 09:24:58](https://news.ycombinator.com/item?id=31665012) - [Surprising Things You Didn't Know About HTTP](https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713)
