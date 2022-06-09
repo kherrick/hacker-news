@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-06-09, 07:04:41",
-      "https://news.ycombinator.com/item?id=31678336"
-    ],
-    [
-      "OpenBSD folklore and share/misc/airport",
-      "https://www.cambus.net/openbsd-folklore-and-share-misc-airport/"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 05:03:18",
       "https://news.ycombinator.com/item?id=31677730"
     ],
@@ -277,6 +267,16 @@
     [
       "Hexwords: Hex colors that are similar to words",
       "https://hexwords.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 12:29:37",
+      "https://news.ycombinator.com/item?id=31666286"
+    ],
+    [
+      "Scheme in Clojure",
+      "https://github.com/turbopape/scheje"
     ]
   ],
   [
