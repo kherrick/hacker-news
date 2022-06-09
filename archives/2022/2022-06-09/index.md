@@ -56,6 +56,7 @@
 * [2022-06-09, 05:30:14](https://news.ycombinator.com/item?id=31677867) - [Internet Filtering in Canada: Rogers' NHL Blocking Order](https://typefully.com/kaplanmyrth/internet-filtering-in-canada-rogers-nhl-TPEqjeU)
 * [2022-06-09, 05:07:55](https://news.ycombinator.com/item?id=31677745) - [Privacy Badger is a browser extension that learns to block invisible trackers](https://privacybadger.org/)
 * [2022-06-09, 05:04:38](https://news.ycombinator.com/item?id=31677736) - [Stop Interviewing with Leet Code](https://fev.al/posts/leet-code/)
+* [2022-06-09, 05:03:18](https://news.ycombinator.com/item?id=31677730) - [Quiescence Search](https://en.wikipedia.org/wiki/Quiescence_search)
 * [2022-06-09, 04:51:43](https://news.ycombinator.com/item?id=31677671) - [I love the Linux desktop, but that doesn't mean I don't see its problems](https://www.theregister.com/2022/06/08/linux_desktop_blues/)
 * [2022-06-09, 04:15:08](https://news.ycombinator.com/item?id=31677476) - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 * [2022-06-09, 04:14:14](https://news.ycombinator.com/item?id=31677469) - [Deluge BitTorrent Client](https://deluge-torrent.org/)

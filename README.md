@@ -26,7 +26,7 @@
 * [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The Cursed D65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [Why I Killed My Startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
-* [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
+* [2022-06-09, 05:03:18](https://news.ycombinator.com/item?id=31677730) - [Quiescence Search](https://en.wikipedia.org/wiki/Quiescence_search)
 * [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
