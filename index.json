@@ -51,22 +51,22 @@
   ],
   [
     [
+      "2022-06-09, 05:04:38",
+      "https://news.ycombinator.com/item?id=31677736"
+    ],
+    [
+      "Stop Interviewing with Leet Code",
+      "https://fev.al/posts/leet-code/"
+    ]
+  ],
+  [
+    [
       "2022-06-09, 04:15:08",
       "https://news.ycombinator.com/item?id=31677476"
     ],
     [
       "AWS costs every programmer should know (2019)",
       "https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 04:14:14",
-      "https://news.ycombinator.com/item?id=31677469"
-    ],
-    [
-      "Deluge BitTorrent Client",
-      "https://deluge-torrent.org/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-06-08, 07:01:01",
-      "https://news.ycombinator.com/item?id=31664226"
-    ],
-    [
-      "LTSpice Tutorial",
-      "https://www.youtube.com/watch?v=JRcyHuyb1V0"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 05:44:43",
       "https://news.ycombinator.com/item?id=31663702"
     ],
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-06-07, 17:28:39",
-      "https://news.ycombinator.com/item?id=31657547"
+      "2022-06-07, 21:32:58",
+      "https://news.ycombinator.com/item?id=31660346"
     ],
     [
-      "Out on the Town: Magnus Hirschfeld and Berlin’s Third Sex",
-      "https://publicdomainreview.org/essay/out-on-the-town/"
+      "Forced Perspective: Sir William Jones gets lost in translation",
+      "https://www.laphamsquarterly.org/roundtable/forced-perspective"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice",
       "https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice"
+    ]
+  ],
+  [
+    [
+      "2022-06-06, 09:00:28",
+      "https://news.ycombinator.com/item?id=31638457"
+    ],
+    [
+      "Flarum – Simple forum software for building great communities",
+      "https://github.com/flarum/flarum"
     ]
   ]
 ]
