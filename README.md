@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 04:14:14](https://news.ycombinator.com/item?id=31677469) - [Deluge BitTorrent Client](https://deluge-torrent.org/)
 * [2022-06-09, 02:25:30](https://news.ycombinator.com/item?id=31676964) - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
 * [2022-06-09, 01:02:09](https://news.ycombinator.com/item?id=31676449) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
 * [2022-06-09, 01:01:36](https://news.ycombinator.com/item?id=31676445) - [50th Anniversary of the Mother of All Demos (2018)](https://amasad.me/moad)
@@ -12,7 +13,6 @@
 * [2022-06-08, 19:26:27](https://news.ycombinator.com/item?id=31672714) - [New Human Interface Guidelines](https://developer.apple.com/news/?id=v8a3aetj)
 * [2022-06-08, 19:08:30](https://news.ycombinator.com/item?id=31672456) - [Small World: a Marauder's Map for the people you follow on Twitter](https://smallworld.kiwi)
 * [2022-06-08, 18:58:23](https://news.ycombinator.com/item?id=31672324) - [Apache Hop 2.0](https://hop.apache.org/blog/2022/06/hop-2.0.0/)
-* [2022-06-08, 18:37:58](https://news.ycombinator.com/item?id=31672063) - [Facebook's Zookeeper Implementation on Delos](https://engineering.fb.com/2022/06/08/developer-tools/zelos/)
 * [2022-06-08, 17:46:22](https://news.ycombinator.com/item?id=31671252) - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/)
 * [2022-06-08, 17:02:13](https://news.ycombinator.com/item?id=31670355) - [Former U.S. congressman, operative pleads guilty to election fraud charges](https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud)
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)

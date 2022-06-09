@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 04:14:14](https://news.ycombinator.com/item?id=31677469) - [Deluge BitTorrent Client](https://deluge-torrent.org/)
 * [2022-06-09, 02:25:30](https://news.ycombinator.com/item?id=31676964) - [Simple Sabotage Field Manual by United States Office of Strategic Services](https://www.gutenberg.org/ebooks/26184)
 * [2022-06-09, 01:02:09](https://news.ycombinator.com/item?id=31676449) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=31676449)
 * [2022-06-09, 01:01:36](https://news.ycombinator.com/item?id=31676445) - [50th Anniversary of the Mother of All Demos (2018)](https://amasad.me/moad)
