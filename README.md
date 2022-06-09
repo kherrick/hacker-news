@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-09, 10:24:05](https://news.ycombinator.com/item?id=31679491) - [Chris McCandless Was a Moron Who Deserved to Die](https://blackshaw.substack.com/p/wild)
 * [2022-06-09, 09:18:02](https://news.ycombinator.com/item?id=31679167) - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 * [2022-06-09, 08:38:14](https://news.ycombinator.com/item?id=31678913) - [The mysterious behaviour of the Flying Tiger Countdown Clock (and the bug)](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
 * [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
@@ -23,6 +22,7 @@
 * [2022-06-08, 16:16:23](https://news.ycombinator.com/item?id=31669607) - [Progress toward fusion energy breakeven measured against Lawson criterion](https://twitter.com/swurzel/status/1534556521744457731)
 * [2022-06-08, 12:52:56](https://news.ycombinator.com/item?id=31666533) - [Anti-reductionism in Nyāya-Vaiśesika atomism](http://edwardfeser.blogspot.com/2022/06/anti-reductionism-in-nyaya-vaisesika.html)
 * [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
+* [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 10:42:46](https://news.ycombinator.com/item?id=31665466) - [Colombia shares unprecedented images of treasure-laden wreck](https://phys.org/news/2022-06-colombia-unprecedented-images-treasure-laden.html)
 * [2022-06-08, 09:24:58](https://news.ycombinator.com/item?id=31665012) - [Surprising Things You Didn't Know About HTTP](https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713)
 * [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
