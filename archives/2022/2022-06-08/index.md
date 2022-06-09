@@ -36,6 +36,7 @@
 * [2022-06-08, 16:48:58](https://news.ycombinator.com/item?id=31670120) - [Pyston-lite: our Python JIT as an extension module](https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/)
 * [2022-06-08, 16:45:24](https://news.ycombinator.com/item?id=31670065) - [Stop Eliminating Gifted Programs and Calling It ‘Equity’](https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity)
 * [2022-06-08, 16:26:08](https://news.ycombinator.com/item?id=31669762) - [The End of Localhost](https://dx.tips/the-end-of-localhost)
+* [2022-06-08, 16:16:23](https://news.ycombinator.com/item?id=31669607) - [Progress toward fusion energy breakeven measured against Lawson criterion](https://twitter.com/swurzel/status/1534556521744457731)
 * [2022-06-08, 15:59:46](https://news.ycombinator.com/item?id=31669338) - [Ask HN: New job at BigCo. EVERYTHING has friction](https://news.ycombinator.com/item?id=31669338)
 * [2022-06-08, 15:42:51](https://news.ycombinator.com/item?id=31669054) - [Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm (1995)](https://theanarchistlibrary.org/library/murray-bookchin-social-anarchism-or-lifestyle-anarchism-an-unbridgeable-chasm)
 * [2022-06-08, 15:29:33](https://news.ycombinator.com/item?id=31668814) - [Show HN: Read Wikipedia privately using homomorphic encryption](https://spiralwiki.com/)
