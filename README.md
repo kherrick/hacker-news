@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
+* [2022-06-09, 21:10:21](https://news.ycombinator.com/item?id=31686932) - [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
 * [2022-06-09, 20:59:10](https://news.ycombinator.com/item?id=31686794) - [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
 * [2022-06-09, 20:36:58](https://news.ycombinator.com/item?id=31686511) - [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
@@ -21,7 +22,6 @@
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Ory Kratos – Open-source identity server written in Go](https://github.com/ory/kratos)
 * [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
 * [2022-06-09, 09:42:59](https://news.ycombinator.com/item?id=31679293) - [We got Linux on the iPhone, iPad and other idevices](https://konradybcio.pl/linuxona7/)
-* [2022-06-09, 09:33:15](https://news.ycombinator.com/item?id=31679251) - [Ask HN: How to talk with logical flow and coherence at interviews?](https://news.ycombinator.com/item?id=31679251)
 * [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The cursed d65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [I killed my startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 06:40:07](https://news.ycombinator.com/item?id=31678199) - [Raising exceptions or returning error objects in Python](https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/)

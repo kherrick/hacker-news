@@ -6,6 +6,7 @@
 
 * [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
 * [2022-06-09, 21:27:54](https://news.ycombinator.com/item?id=31687131) - [Radio signal coming from another galaxy detected by scientists](https://www.breezyscroll.com/space/radio-signal-coming-from-another-galaxy-detected-by-scientists/)
+* [2022-06-09, 21:10:21](https://news.ycombinator.com/item?id=31686932) - [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
 * [2022-06-09, 20:59:10](https://news.ycombinator.com/item?id=31686794) - [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 * [2022-06-09, 20:54:49](https://news.ycombinator.com/item?id=31686737) - [Physicists Discover Never-Before Seen Particle Sitting on a Tabletop](https://www.math.columbia.edu/~woit/wordpress/?p=12936)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
