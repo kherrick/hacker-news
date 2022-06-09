@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:56:11](https://news.ycombinator.com/item?id=31678284) - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
 * [2022-06-09, 06:20:10](https://news.ycombinator.com/item?id=31678081) - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
@@ -23,7 +24,6 @@
 * [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
 * [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
 * [2022-06-08, 10:42:46](https://news.ycombinator.com/item?id=31665466) - [Colombia shares unprecedented images of treasure-laden wreck](https://phys.org/news/2022-06-colombia-unprecedented-images-treasure-laden.html)
-* [2022-06-08, 08:00:41](https://news.ycombinator.com/item?id=31664560) - [How Margaret Thatcher's Brahms phone was invented](https://www.bbc.com/news/world-61712621)
 * [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
 * [2022-06-08, 05:44:43](https://news.ycombinator.com/item?id=31663702) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2022-06-08, 02:17:49](https://news.ycombinator.com/item?id=31662445) - [El Ajedrecista](https://en.wikipedia.org/wiki/El_Ajedrecista)

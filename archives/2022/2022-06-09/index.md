@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:56:11](https://news.ycombinator.com/item?id=31678284) - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
 * [2022-06-09, 06:20:10](https://news.ycombinator.com/item?id=31678081) - [Discret 11, the French TV encryption of the 80s (2020)](https://fabiensanglard.net/discret11/index.html)
