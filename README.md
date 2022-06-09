@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-09, 15:22:26](https://news.ycombinator.com/item?id=31682361) - [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
+* [2022-06-09, 15:18:12](https://news.ycombinator.com/item?id=31682303) - [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 * [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [I cut GTA Online loading times (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 * [2022-06-09, 14:11:53](https://news.ycombinator.com/item?id=31681373) - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 * [2022-06-09, 14:02:09](https://news.ycombinator.com/item?id=31681234) - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
@@ -21,15 +22,14 @@
 * [2022-06-09, 05:04:38](https://news.ycombinator.com/item?id=31677736) - [Stop Interviewing with Leet Code](https://fev.al/posts/leet-code/)
 * [2022-06-09, 04:15:08](https://news.ycombinator.com/item?id=31677476) - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 * [2022-06-09, 01:01:36](https://news.ycombinator.com/item?id=31676445) - [50th Anniversary of the Mother of All Demos (2018)](https://amasad.me/moad)
-* [2022-06-08, 23:19:59](https://news.ycombinator.com/item?id=31675727) - [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question)
 * [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
-* [2022-06-08, 19:52:16](https://news.ycombinator.com/item?id=31673068) - [The human toll of Fallout 76’s launch](https://kotaku.com/bethesda-zenimax-fallout-76-crunch-development-1849033233)
 * [2022-06-08, 16:16:23](https://news.ycombinator.com/item?id=31669607) - [Progress toward fusion energy breakeven measured against Lawson criterion](https://twitter.com/swurzel/status/1534556521744457731)
 * [2022-06-08, 14:13:01](https://news.ycombinator.com/item?id=31667646) - [Ephemerons explained](http://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html)
 * [2022-06-08, 12:29:37](https://news.ycombinator.com/item?id=31666286) - [Scheme in Clojure](https://github.com/turbopape/scheje)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 * [2022-06-08, 11:23:59](https://news.ycombinator.com/item?id=31665775) - [Ask HN: What are some mentally healthy apps to have?](https://news.ycombinator.com/item?id=31665775)
 * [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
+* [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
 
 ## [Archives](archives/index.md)
 

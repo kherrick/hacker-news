@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
 * [2022-06-09, 15:22:26](https://news.ycombinator.com/item?id=31682361) - [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
+* [2022-06-09, 15:18:12](https://news.ycombinator.com/item?id=31682303) - [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 * [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [Strlen() slowed loading times in GTA 5 by 70% (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 * [2022-06-09, 14:11:53](https://news.ycombinator.com/item?id=31681373) - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 * [2022-06-09, 14:02:09](https://news.ycombinator.com/item?id=31681234) - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
