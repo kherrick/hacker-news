@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31685767"
     ],
     [
-      "Bridging the Synchronization Gap on Linux",
+      "Bridging the synchronization gap on Linux",
       "https://www.collabora.com/news-and-blog/blog/2022/06/09/bridging-the-synchronization-gap-on-linux/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31683008"
     ],
     [
-      "Software Companies Die (1995) [pdf]",
+      "How Software Companies Die (1995) [pdf]",
       "https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31682569"
     ],
     [
-      "Protocols, Not Platforms: A Technological Approach to Free Speech",
+      "Protocols, not platforms: A technological approach to free speech (2019)",
       "https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech"
     ]
   ],
@@ -175,18 +175,8 @@
       "https://news.ycombinator.com/item?id=31680769"
     ],
     [
-      "More than you ever wanted to know about font loading on the web",
+      "More than you ever wanted to know about font loading on the web (2021)",
       "https://www.industrialempathy.com/posts/high-performance-web-font-loading/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 11:37:52",
-      "https://news.ycombinator.com/item?id=31679945"
-    ],
-    [
-      "Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView",
-      "https://gitlab.com/BenWiser/python-live-gui"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2022-06-09, 05:03:18",
-      "https://news.ycombinator.com/item?id=31677730"
-    ],
-    [
-      "Quiescence Search",
-      "https://en.wikipedia.org/wiki/Quiescence_search"
-    ]
-  ],
-  [
-    [
       "2022-06-08, 20:35:46",
       "https://news.ycombinator.com/item?id=31673662"
     ],
@@ -271,12 +251,22 @@
   ],
   [
     [
-      "2022-06-08, 12:29:37",
-      "https://news.ycombinator.com/item?id=31666286"
+      "2022-06-08, 20:20:54",
+      "https://news.ycombinator.com/item?id=31673439"
     ],
     [
-      "Scheme in Clojure",
-      "https://github.com/turbopape/scheje"
+      "“Microscope” – A Lost Poem by Louis Ginsberg (2013) [pdf]",
+      "http://labs.plantbio.cornell.edu/wayne/pdfs/Ginsberg.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 14:13:01",
+      "https://news.ycombinator.com/item?id=31667646"
+    ],
+    [
+      "Ephemerons explained",
+      "http://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Valetudo: Open-source cloud replacement for vacuum robots",
       "https://valetudo.cloud/"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 10:23:51",
+      "https://news.ycombinator.com/item?id=31665349"
+    ],
+    [
+      "Experiments for Young Engineers and Scientists",
+      "https://expeyes.in/"
     ]
   ]
 ]
