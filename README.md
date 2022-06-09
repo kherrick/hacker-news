@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-09, 11:37:52](https://news.ycombinator.com/item?id=31679945) - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
+* [2022-06-09, 11:26:46](https://news.ycombinator.com/item?id=31679872) - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)
 * [2022-06-09, 09:18:02](https://news.ycombinator.com/item?id=31679167) - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 * [2022-06-09, 08:38:14](https://news.ycombinator.com/item?id=31678913) - [The mysterious behaviour of the Flying Tiger Countdown Clock (and the bug)](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
@@ -26,9 +28,7 @@
 * [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
 * [2022-06-08, 09:24:58](https://news.ycombinator.com/item?id=31665012) - [Surprising Things You Didn't Know About HTTP](https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713)
 * [2022-06-08, 07:42:19](https://news.ycombinator.com/item?id=31664464) - [A marble slab in storage turned out to be an ancient Greek yearbook](https://www.npr.org/2022/06/06/1103372606/ancient-greece-yearbook-discovered)
-* [2022-06-08, 02:17:49](https://news.ycombinator.com/item?id=31662445) - [El Ajedrecista](https://en.wikipedia.org/wiki/El_Ajedrecista)
 * [2022-06-07, 14:10:56](https://news.ycombinator.com/item?id=31654552) - [The Race to Zero Defects in Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
-* [2022-06-06, 09:34:26](https://news.ycombinator.com/item?id=31638586) - [‘Hidden world’ of marine life discovered in Antarctic ‘river’ under ice](https://www.theguardian.com/world/2022/jun/06/hidden-world-of-marine-life-discovered-in-antarctic-river-under-ice)
 * [2022-06-06, 09:00:28](https://news.ycombinator.com/item?id=31638457) - [Flarum – Simple forum software for building great communities](https://github.com/flarum/flarum)
 
 ## [Archives](archives/index.md)
