@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 14:02:09](https://news.ycombinator.com/item?id=31681234) - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
 * [2022-06-09, 13:43:20](https://news.ycombinator.com/item?id=31681030) - [Mark Cuban's Cost Plus Drugs](https://costplusdrugs.com/faq/)
 * [2022-06-09, 13:29:30](https://news.ycombinator.com/item?id=31680894) - [Dropbox deletes Rick and Morty creators account for secret TOS violation](https://twitter.com/JustinRoiland/status/1534670496402268160)
 * [2022-06-09, 13:27:33](https://news.ycombinator.com/item?id=31680876) - [How to build undo/redo in a multiplayer environment by Liveblocks](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment)
