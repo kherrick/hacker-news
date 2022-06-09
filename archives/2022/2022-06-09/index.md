@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 20:54:49](https://news.ycombinator.com/item?id=31686737) - [Physicists Discover Never-Before Seen Particle Sitting on a Tabletop](https://www.math.columbia.edu/~woit/wordpress/?p=12936)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter Calls Elon’s Bluff](https://mikeelgan.substack.com/p/twitter-calls-elons-bluff)
 * [2022-06-09, 19:38:01](https://news.ycombinator.com/item?id=31685794) - [The EU plan to monitor your phone is unconstitutional](https://europeanlawblog.eu/2022/06/07/does-monitoring-your-phone-affect-the-essence-of-privacy/)
+* [2022-06-09, 19:36:16](https://news.ycombinator.com/item?id=31685776) - [Tesla investigation deepens after more than a dozen US ‘Autopilot’ crashes](https://www.theguardian.com/technology/2022/jun/09/tesla-autopilot-crashes-investigation-nhtsa)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
 * [2022-06-09, 19:16:04](https://news.ycombinator.com/item?id=31685545) - [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
 * [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
