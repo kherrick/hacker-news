@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 17:06:34](https://news.ycombinator.com/item?id=31683850) - [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 * [2022-06-09, 16:39:47](https://news.ycombinator.com/item?id=31683412) - [Ask HN: How do I stop being used?](https://news.ycombinator.com/item?id=31683412)
 * [2022-06-09, 16:25:28](https://news.ycombinator.com/item?id=31683214) - [Vivaldi Mail 1.0: A powerful email client built right into the browser](https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
@@ -12,6 +13,7 @@
 * [2022-06-09, 16:01:53](https://news.ycombinator.com/item?id=31682887) - [Techniques for Training Large Neural Networks](https://openai.com/blog/techniques-for-training-large-neural-networks/)
 * [2022-06-09, 15:50:30](https://news.ycombinator.com/item?id=31682718) - [New GitHub Profile Badges Beta](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
 * [2022-06-09, 15:49:16](https://news.ycombinator.com/item?id=31682705) - [Why is American administrative capacity in decline?](https://donmoynihan.substack.com/p/why-is-american-administrative-capacity)
+* [2022-06-09, 15:37:44](https://news.ycombinator.com/item?id=31682569) - [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 * [2022-06-09, 15:22:26](https://news.ycombinator.com/item?id=31682361) - [Why are nuclear power construction costs so high? Part I](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
 * [2022-06-09, 15:18:12](https://news.ycombinator.com/item?id=31682303) - [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 * [2022-06-09, 14:42:23](https://news.ycombinator.com/item?id=31681787) - [Shotcut is a free, open-source, cross-platform video editor](https://shotcut.org/)
