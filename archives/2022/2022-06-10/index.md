@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-10, 12:47:23](https://news.ycombinator.com/item?id=31693314) - [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
 * [2022-06-10, 12:44:50](https://news.ycombinator.com/item?id=31693287) - [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
 * [2022-06-10, 12:35:39](https://news.ycombinator.com/item?id=31693172) - [U.S. inflation reached a new four-decade high of 8.6% in May](https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2022-11654810079)
@@ -18,6 +19,7 @@
 * [2022-06-10, 10:40:12](https://news.ycombinator.com/item?id=31692248) - [Chalet: A cross-platform project format and build tool for C/C++](https://www.chalet-work.space)
 * [2022-06-10, 10:22:52](https://news.ycombinator.com/item?id=31692147) - [Show HN: Growth Hacking Kit](https://hackgrowth.space/)
 * [2022-06-10, 10:19:06](https://news.ycombinator.com/item?id=31692116) - [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
+* [2022-06-10, 09:57:32](https://news.ycombinator.com/item?id=31692011) - [OpenBSD 7.1 on PINE64 RockPro64](https://bsandro.tech/posts/openbsd-7.1-on-pine64-rockpro64/)
 * [2022-06-10, 09:39:14](https://news.ycombinator.com/item?id=31691913) - [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
 * [2022-06-10, 09:16:16](https://news.ycombinator.com/item?id=31691783) - [Claws Mail](https://www.claws-mail.org/)
 * [2022-06-10, 08:11:29](https://news.ycombinator.com/item?id=31691374) - [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
