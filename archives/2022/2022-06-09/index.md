@@ -63,6 +63,7 @@
 * [2022-06-09, 09:07:47](https://news.ycombinator.com/item?id=31679109) - [Lock Pioneers of the Past](https://www.locksmithledger.com/door-hardware/article/10290220/pioneers-of-the-past)
 * [2022-06-09, 08:38:14](https://news.ycombinator.com/item?id=31678913) - [The mysterious behaviour of the Flying Tiger Countdown Clock (and the bug)](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [Why I Killed My Startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
+* [2022-06-09, 07:40:51](https://news.ycombinator.com/item?id=31678574) - [Sámi Languages and Dialects (2015)](https://nordregio.org/maps/sami-languages-and-dialects/)
 * [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:56:11](https://news.ycombinator.com/item?id=31678284) - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
