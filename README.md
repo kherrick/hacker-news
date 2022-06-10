@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 10:55:34](https://news.ycombinator.com/item?id=31692341) - [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
+* [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
+* [2022-06-10, 10:22:52](https://news.ycombinator.com/item?id=31692147) - [Show HN: Growth Hacking Kit](https://hackgrowth.space/)
 * [2022-06-10, 10:19:06](https://news.ycombinator.com/item?id=31692116) - [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
 * [2022-06-10, 09:39:14](https://news.ycombinator.com/item?id=31691913) - [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
 * [2022-06-10, 09:16:16](https://news.ycombinator.com/item?id=31691783) - [Claws Mail](https://www.claws-mail.org/)
@@ -18,7 +21,6 @@
 * [2022-06-09, 22:55:09](https://news.ycombinator.com/item?id=31687990) - [Quantum chip takes microseconds to do task that takes a supercomputer 9k years](https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/)
 * [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
 * [2022-06-09, 21:50:07](https://news.ycombinator.com/item?id=31687378) - [Why software engineers like woodworking](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
-* [2022-06-09, 21:10:21](https://news.ycombinator.com/item?id=31686932) - [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
 * [2022-06-09, 20:59:10](https://news.ycombinator.com/item?id=31686794) - [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter plans to comply with Musk’s demands for data](https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/)
@@ -27,8 +29,6 @@
 * [2022-06-09, 07:40:51](https://news.ycombinator.com/item?id=31678574) - [Sámi Languages and Dialects (2015)](https://nordregio.org/maps/sami-languages-and-dialects/)
 * [2022-06-09, 04:16:24](https://news.ycombinator.com/item?id=31677483) - [Women and the History of Samuel Pepys's Diary](https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F)
 * [2022-06-08, 23:44:42](https://news.ycombinator.com/item?id=31675934) - [No Army? No Problem: Defending the Home Front in Ancient Greece](https://www.historytoday.com/archive/history-matters/no-army-no-problem)
-* [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
-* [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
 
 ## [Archives](archives/index.md)

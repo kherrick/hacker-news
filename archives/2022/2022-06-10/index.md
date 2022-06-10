@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 10:55:34](https://news.ycombinator.com/item?id=31692341) - [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
+* [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
 * [2022-06-10, 10:22:52](https://news.ycombinator.com/item?id=31692147) - [Show HN: Growth Hacking Kit](https://hackgrowth.space/)
 * [2022-06-10, 10:19:06](https://news.ycombinator.com/item?id=31692116) - [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
 * [2022-06-10, 09:39:14](https://news.ycombinator.com/item?id=31691913) - [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
