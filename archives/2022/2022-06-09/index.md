@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
 * [2022-06-09, 22:57:17](https://news.ycombinator.com/item?id=31688014) - [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
+* [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 22:55:09](https://news.ycombinator.com/item?id=31687990) - [Quantum chip takes microseconds to do task that takes a supercomputer 9k years](https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/)
 * [2022-06-09, 22:54:32](https://news.ycombinator.com/item?id=31687983) - [Suboptimal naming conventions](https://cozilikethinking.wordpress.com/2022/06/06/suboptimal-naming-conventions/)
 * [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
