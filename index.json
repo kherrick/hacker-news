@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-10, 00:35:35",
+      "https://news.ycombinator.com/item?id=31688667"
+    ],
+    [
+      "From Python to NumPy",
+      "https://www.labri.fr/perso/nrougier/from-python-to-numpy/"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 00:25:23",
+      "https://news.ycombinator.com/item?id=31688607"
+    ],
+    [
+      "Reduced air pollution leads to higher crop yields",
+      "https://www.technologynetworks.com/applied-sciences/news/reduced-air-pollution-leads-to-higher-crop-yields-362214"
+    ]
+  ],
+  [
+    [
       "2022-06-09, 22:57:17",
       "https://news.ycombinator.com/item?id=31688014"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2022-06-09, 22:54:32",
-      "https://news.ycombinator.com/item?id=31687983"
+      "2022-06-09, 22:55:09",
+      "https://news.ycombinator.com/item?id=31687990"
     ],
     [
-      "Suboptimal naming conventions",
-      "https://cozilikethinking.wordpress.com/2022/06/06/suboptimal-naming-conventions/"
+      "Quantum chip takes microseconds to do task that takes a supercomputer 9k years",
+      "https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Important PostgreSQL 14 update to avoid silent corruption of indexes",
       "https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/"
+    ]
+  ],
+  [
+    [
+      "2022-06-09, 21:50:07",
+      "https://news.ycombinator.com/item?id=31687378"
+    ],
+    [
+      "Why software engineers like woodworking",
+      "https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Gitsign",
       "https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa"
+    ]
+  ],
+  [
+    [
+      "2022-06-09, 20:02:34",
+      "https://news.ycombinator.com/item?id=31686055"
+    ],
+    [
+      "Twitter called Musk’s bluff about bots",
+      "https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/"
     ]
   ],
   [
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2022-06-09, 16:10:55",
-      "https://news.ycombinator.com/item?id=31683008"
-    ],
-    [
-      "How Software Companies Die (1995) [pdf]",
-      "https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 16:01:53",
       "https://news.ycombinator.com/item?id=31682887"
     ],
     [
       "Techniques for Training Large Neural Networks",
       "https://openai.com/blog/techniques-for-training-large-neural-networks/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 15:37:44",
-      "https://news.ycombinator.com/item?id=31682569"
-    ],
-    [
-      "Protocols, not platforms: A technological approach to free speech (2019)",
-      "https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2022-06-09, 10:42:47",
-      "https://news.ycombinator.com/item?id=31679610"
-    ],
-    [
-      "What makes a good research proposal?",
-      "https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 09:42:59",
-      "https://news.ycombinator.com/item?id=31679293"
-    ],
-    [
-      "We got Linux on the iPhone, iPad and other idevices",
-      "https://konradybcio.pl/linuxona7/"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 09:25:17",
       "https://news.ycombinator.com/item?id=31679207"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-06-08, 20:20:54",
-      "https://news.ycombinator.com/item?id=31673439"
+      "2022-06-09, 03:55:27",
+      "https://news.ycombinator.com/item?id=31677402"
     ],
     [
-      "“Microscope” – A Lost Poem by Louis Ginsberg (2013) [pdf]",
-      "http://labs.plantbio.cornell.edu/wayne/pdfs/Ginsberg.pdf"
+      "An elite education: Discovery of an ancient Athenian ephebic list",
+      "https://blog.nms.ac.uk/2022/06/03/discovery-of-an-ancient-athenian-inscription/"
     ]
   ],
   [
     [
-      "2022-06-08, 14:13:01",
-      "https://news.ycombinator.com/item?id=31667646"
+      "2022-06-08, 14:30:30",
+      "https://news.ycombinator.com/item?id=31667902"
     ],
     [
-      "Ephemerons explained",
-      "http://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html"
+      "Dont think of price, think of cost per use",
+      "https://sergionajera.com/dont-think-of-price-think-of-cost-per-use"
     ]
   ],
   [
