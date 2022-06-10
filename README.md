@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 20:11:13](https://news.ycombinator.com/item?id=31698870) - [Ultra-Rare Cosmic object was just detected in the Milky Way](https://list23.com/898121-according-to-the-astronomers-report-an-ultra-rare-cosmic-object-was-just-detected-in-the-milky-way/)
+* [2022-06-10, 19:53:44](https://news.ycombinator.com/item?id=31698687) - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
 * [2022-06-10, 19:03:54](https://news.ycombinator.com/item?id=31698148) - [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
 * [2022-06-10, 19:02:14](https://news.ycombinator.com/item?id=31698127) - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 * [2022-06-10, 18:58:11](https://news.ycombinator.com/item?id=31698077) - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
@@ -13,7 +15,6 @@
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
 * [2022-06-10, 14:39:00](https://news.ycombinator.com/item?id=31694844) - [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
-* [2022-06-10, 14:37:57](https://news.ycombinator.com/item?id=31694827) - [Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure](https://meadowrun.io)
 * [2022-06-10, 14:29:37](https://news.ycombinator.com/item?id=31694723) - [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
 * [2022-06-10, 14:08:27](https://news.ycombinator.com/item?id=31694445) - [Cooling the tube – Engineering heat out of the Underground (2017)](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
 * [2022-06-10, 13:24:53](https://news.ycombinator.com/item?id=31693830) - [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
@@ -23,7 +24,6 @@
 * [2022-06-10, 11:12:04](https://news.ycombinator.com/item?id=31692454) - [Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
-* [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 * [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 18:53:46](https://news.ycombinator.com/item?id=31685277) - [Must be This Tall to Write Multi-Threaded Code](https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html)
