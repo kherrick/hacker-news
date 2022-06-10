@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [Petzold's “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
+* [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Dartnell on getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
+* [2022-06-10, 16:23:28](https://news.ycombinator.com/item?id=31696235) - [Sup – A curses threads-with-tags style email client](https://sup-heliotrope.github.io/)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
+* [2022-06-10, 15:52:30](https://news.ycombinator.com/item?id=31695850) - [Boot Camp: A Business Saga](https://betonit.substack.com/p/boot-camp-a-business-saga)
 * [2022-06-10, 15:44:31](https://news.ycombinator.com/item?id=31695743) - [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
+* [2022-06-10, 15:26:34](https://news.ycombinator.com/item?id=31695483) - [Artificial neural networks are making strides towards consciousness](https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
