@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-10, 05:37:29",
+      "https://news.ycombinator.com/item?id=31690452"
+    ],
+    [
+      "Coinbase employees petition to remove execs",
+      "https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 05:01:04",
       "https://news.ycombinator.com/item?id=31690239"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-06-09, 16:01:53",
-      "https://news.ycombinator.com/item?id=31682887"
-    ],
-    [
-      "Techniques for Training Large Neural Networks",
-      "https://openai.com/blog/techniques-for-training-large-neural-networks/"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 10:42:47",
       "https://news.ycombinator.com/item?id=31679610"
     ],
@@ -237,6 +237,16 @@
     [
       "I killed my startup",
       "https://k1nz.substack.com/p/why-i-killed-my-startup"
+    ]
+  ],
+  [
+    [
+      "2022-06-09, 04:16:24",
+      "https://news.ycombinator.com/item?id=31677483"
+    ],
+    [
+      "Women and the History of Samuel Pepys's Diary",
+      "https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Tasqueue – A simple, customisable distributed job/worker in Go",
       "https://github.com/kalbhor/Tasqueue"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 10:23:51",
-      "https://news.ycombinator.com/item?id=31665349"
-    ],
-    [
-      "Experiments for Young Engineers and Scientists",
-      "https://expeyes.in/"
     ]
   ]
 ]
