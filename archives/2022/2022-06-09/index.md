@@ -57,6 +57,7 @@
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)
 * [2022-06-09, 11:13:26](https://news.ycombinator.com/item?id=31679786) - [Dataloop’s information extraction tool](https://dataloop.ai/blog/dataloops-information-extraction-tool/)
 * [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
+* [2022-06-09, 10:27:24](https://news.ycombinator.com/item?id=31679510) - [Stealing the users back button with the History API (2013)](https://ryanseddon.com/javascript/stealing-history-api/)
 * [2022-06-09, 10:24:05](https://news.ycombinator.com/item?id=31679491) - [Chris McCandless Was a Moron Who Deserved to Die](https://blackshaw.substack.com/p/wild)
 * [2022-06-09, 09:42:59](https://news.ycombinator.com/item?id=31679293) - [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
 * [2022-06-09, 09:33:15](https://news.ycombinator.com/item?id=31679251) - [Ask HN: How to talk with logical flow and coherence at interviews](https://news.ycombinator.com/item?id=31679251)

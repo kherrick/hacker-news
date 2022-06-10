@@ -21,15 +21,15 @@
 * [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
 * [2022-06-10, 09:57:32](https://news.ycombinator.com/item?id=31692011) - [OpenBSD 7.1 on PINE64 RockPro64](https://bsandro.tech/posts/openbsd-7.1-on-pine64-rockpro64/)
 * [2022-06-10, 09:16:16](https://news.ycombinator.com/item?id=31691783) - [Claws Mail](https://www.claws-mail.org/)
+* [2022-06-10, 07:44:39](https://news.ycombinator.com/item?id=31691240) - [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
 * [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 18:50:42](https://news.ycombinator.com/item?id=31685252) - [20 Years of SIP – A Retrospective](https://www.jdrosen.net/blog/20-years-of-sip-a-retrospective)
+* [2022-06-09, 10:27:24](https://news.ycombinator.com/item?id=31679510) - [Stealing the users back button with the History API (2013)](https://ryanseddon.com/javascript/stealing-history-api/)
 * [2022-06-09, 09:32:58](https://news.ycombinator.com/item?id=31679247) - [Comparing disciplinary coverage of 56 databases, measuring ORCID adoption](http://musingsaboutlibrarianship.blogspot.com/2022/05/comparing-disciplinary-coverage-of-56.html)
 * [2022-06-09, 06:10:27](https://news.ycombinator.com/item?id=31678045) - [Xbox 360 Architecture](https://www.copetti.org/writings/consoles/xbox-360/)
-* [2022-06-08, 23:44:42](https://news.ycombinator.com/item?id=31675934) - [No Army? No Problem: Defending the Home Front in Ancient Greece](https://www.historytoday.com/archive/history-matters/no-army-no-problem)
-* [2022-06-08, 19:58:10](https://news.ycombinator.com/item?id=31673148) - [A Brief History of Frankincense](https://www.laphamsquarterly.org/roundtable/brief-history-frankincense)
 
 ## [Archives](archives/index.md)
 
