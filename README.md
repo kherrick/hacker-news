@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 22:42:22](https://news.ycombinator.com/item?id=31700182) - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
 * [2022-06-10, 22:27:20](https://news.ycombinator.com/item?id=31700069) - [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
-* [2022-06-10, 21:17:45](https://news.ycombinator.com/item?id=31699468) - [AI Could Defeat All of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)
 * [2022-06-10, 20:29:38](https://news.ycombinator.com/item?id=31699032) - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
 * [2022-06-10, 19:53:44](https://news.ycombinator.com/item?id=31698687) - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
 * [2022-06-10, 19:35:40](https://news.ycombinator.com/item?id=31698503) - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
