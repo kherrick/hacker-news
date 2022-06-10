@@ -17,7 +17,6 @@
 * [2022-06-09, 20:36:58](https://news.ycombinator.com/item?id=31686511) - [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter plans to comply with Musk’s demands for data](https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
-* [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:16:49](https://news.ycombinator.com/item?id=31683999) - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
@@ -30,6 +29,7 @@
 * [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
 * [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
+* [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
 
 ## [Archives](archives/index.md)
 
