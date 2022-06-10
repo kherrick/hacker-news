@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 10:19:06](https://news.ycombinator.com/item?id=31692116) - [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
 * [2022-06-10, 09:39:14](https://news.ycombinator.com/item?id=31691913) - [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
 * [2022-06-10, 09:16:16](https://news.ycombinator.com/item?id=31691783) - [Claws Mail](https://www.claws-mail.org/)
@@ -23,7 +24,6 @@
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter plans to comply with Musk’s demands for data](https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/)
 * [2022-06-09, 19:30:06](https://news.ycombinator.com/item?id=31685700) - [Procedural Tree Generator](https://simblob.blogspot.com/2022/06/procedural-tree-generator.html)
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
-* [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
 * [2022-06-09, 07:40:51](https://news.ycombinator.com/item?id=31678574) - [Sámi Languages and Dialects (2015)](https://nordregio.org/maps/sami-languages-and-dialects/)
 * [2022-06-09, 04:16:24](https://news.ycombinator.com/item?id=31677483) - [Women and the History of Samuel Pepys's Diary](https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F)
 * [2022-06-08, 23:44:42](https://news.ycombinator.com/item?id=31675934) - [No Army? No Problem: Defending the Home Front in Ancient Greece](https://www.historytoday.com/archive/history-matters/no-army-no-problem)
