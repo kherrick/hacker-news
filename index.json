@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-06-09, 15:22:26",
-      "https://news.ycombinator.com/item?id=31682361"
-    ],
-    [
-      "Why are nuclear power construction costs so high?",
-      "https://constructionphysics.substack.com/p/why-are-nuclear-power-construction"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 15:18:12",
       "https://news.ycombinator.com/item?id=31682303"
     ],
@@ -287,6 +277,16 @@
     [
       "Nintendo's big piracy case is a sad story",
       "https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 11:45:53",
+      "https://news.ycombinator.com/item?id=31665924"
+    ],
+    [
+      "Show HN: Tasqueue – A simple, customisable distributed job/worker in Go",
+      "https://github.com/kalbhor/Tasqueue"
     ]
   ],
   [
