@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
+* [2022-06-10, 15:44:31](https://news.ycombinator.com/item?id=31695743) - [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
@@ -17,10 +19,8 @@
 * [2022-06-10, 11:12:04](https://news.ycombinator.com/item?id=31692454) - [Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
-* [2022-06-10, 10:40:12](https://news.ycombinator.com/item?id=31692248) - [Chalet: A cross-platform project format and build tool for C/C++](https://www.chalet-work.space)
 * [2022-06-10, 09:57:32](https://news.ycombinator.com/item?id=31692011) - [OpenBSD 7.1 on PINE64 RockPro64](https://bsandro.tech/posts/openbsd-7.1-on-pine64-rockpro64/)
 * [2022-06-10, 09:16:16](https://news.ycombinator.com/item?id=31691783) - [Claws Mail](https://www.claws-mail.org/)
-* [2022-06-10, 07:44:39](https://news.ycombinator.com/item?id=31691240) - [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
