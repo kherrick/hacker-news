@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-10, 06:49:26",
+      "https://news.ycombinator.com/item?id=31690878"
+    ],
+    [
+      "Rulex – A new, portable, regular expression language",
+      "https://rulex-rs.github.io/"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 05:37:29",
       "https://news.ycombinator.com/item?id=31690452"
     ],
@@ -177,16 +187,6 @@
     [
       "Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing",
       "https://news.ycombinator.com/item?id=31683157"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 16:01:53",
-      "https://news.ycombinator.com/item?id=31682887"
-    ],
-    [
-      "Techniques for Training Large Neural Networks",
-      "https://openai.com/blog/techniques-for-training-large-neural-networks/"
     ]
   ],
   [
