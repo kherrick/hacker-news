@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 18:21:23](https://news.ycombinator.com/item?id=31697636) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2022-06-10, 17:35:29](https://news.ycombinator.com/item?id=31697128) - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
 * [2022-06-10, 17:18:17](https://news.ycombinator.com/item?id=31696940) - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [Petzold's “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
@@ -8,7 +9,6 @@
 * [2022-06-10, 16:39:51](https://news.ycombinator.com/item?id=31696447) - [Ask HN: How are you dealing with the M1/ARM migration?](https://news.ycombinator.com/item?id=31696447)
 * [2022-06-10, 16:23:28](https://news.ycombinator.com/item?id=31696235) - [Sup – A curses threads-with-tags style email client](https://sup-heliotrope.github.io/)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
-* [2022-06-10, 15:26:34](https://news.ycombinator.com/item?id=31695483) - [Artificial neural networks are making strides towards consciousness](https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 * [2022-06-10, 15:07:18](https://news.ycombinator.com/item?id=31695230) - [New ‘Absurdly Fast’ Algorithm for Network Flow Discovered](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/?mc_cid=ba71006639&mc_eid=15ef2fd406)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
