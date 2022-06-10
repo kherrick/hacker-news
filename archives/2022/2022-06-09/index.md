@@ -59,6 +59,7 @@
 * [2022-06-09, 09:33:15](https://news.ycombinator.com/item?id=31679251) - [Ask HN: How to talk with logical flow and coherence at interviews](https://news.ycombinator.com/item?id=31679251)
 * [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The Cursed D65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 09:18:02](https://news.ycombinator.com/item?id=31679167) - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
+* [2022-06-09, 09:07:47](https://news.ycombinator.com/item?id=31679109) - [Lock Pioneers of the Past](https://www.locksmithledger.com/door-hardware/article/10290220/pioneers-of-the-past)
 * [2022-06-09, 08:38:14](https://news.ycombinator.com/item?id=31678913) - [The mysterious behaviour of the Flying Tiger Countdown Clock (and the bug)](https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [Why I Killed My Startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)

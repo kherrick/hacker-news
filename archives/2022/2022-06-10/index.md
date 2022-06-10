@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
+* [2022-06-10, 06:18:05](https://news.ycombinator.com/item?id=31690699) - [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
 * [2022-06-10, 05:37:29](https://news.ycombinator.com/item?id=31690452) - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Are You Suffering from Toxic Productivity?](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 03:47:06](https://news.ycombinator.com/item?id=31689785) - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
