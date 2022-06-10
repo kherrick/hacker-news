@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-06-10, 03:07:06",
+      "https://news.ycombinator.com/item?id=31689505"
+    ],
+    [
+      "This is a valid domain name (remove www)",
+      "http://www.ai"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 01:44:04",
+      "https://news.ycombinator.com/item?id=31689046"
+    ],
+    [
+      "FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire",
+      "https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 00:39:27",
+      "https://news.ycombinator.com/item?id=31688701"
+    ],
+    [
+      "Ways that animals perceive the world",
+      "https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 00:35:35",
       "https://news.ycombinator.com/item?id=31688667"
     ],
     [
-      "From Python to NumPy",
+      "From Python to NumPy (2017)",
       "https://www.labri.fr/perso/nrougier/from-python-to-numpy/"
     ]
   ],
@@ -17,16 +47,6 @@
     [
       "Reduced air pollution leads to higher crop yields",
       "https://www.technologynetworks.com/applied-sciences/news/reduced-air-pollution-leads-to-higher-crop-yields-362214"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 22:57:17",
-      "https://news.ycombinator.com/item?id=31688014"
-    ],
-    [
-      "Lessons from the golden age of the mall walkers",
-      "https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31686055"
     ],
     [
-      "Twitter called Musk’s bluff about bots",
+      "Twitter plans to comply with Musk’s demands for data",
       "https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/"
     ]
   ],
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2022-06-09, 17:33:07",
+      "https://news.ycombinator.com/item?id=31684206"
+    ],
+    [
+      "In defense of cryptocurrency",
+      "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/"
+    ]
+  ],
+  [
+    [
       "2022-06-09, 17:16:49",
       "https://news.ycombinator.com/item?id=31683999"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2022-06-09, 16:25:28",
-      "https://news.ycombinator.com/item?id=31683214"
-    ],
-    [
-      "Vivaldi Mail 1.0: Email client built into the browser",
-      "https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 16:20:46",
       "https://news.ycombinator.com/item?id=31683157"
     ],
     [
       "Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing",
       "https://news.ycombinator.com/item?id=31683157"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 16:01:53",
-      "https://news.ycombinator.com/item?id=31682887"
-    ],
-    [
-      "Techniques for Training Large Neural Networks",
-      "https://openai.com/blog/techniques-for-training-large-neural-networks/"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2022-06-09, 11:17:44",
-      "https://news.ycombinator.com/item?id=31679811"
+      "2022-06-09, 11:13:26",
+      "https://news.ycombinator.com/item?id=31679786"
     ],
     [
-      "Show HN: Ory Kratos – Open-source identity server written in Go",
-      "https://github.com/ory/kratos"
+      "Dataloop’s information extraction tool",
+      "https://dataloop.ai/blog/dataloops-information-extraction-tool/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I killed my startup",
       "https://k1nz.substack.com/p/why-i-killed-my-startup"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 06:40:07",
-      "https://news.ycombinator.com/item?id=31678199"
-    ],
-    [
-      "Raising exceptions or returning error objects in Python",
-      "https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/"
     ]
   ],
   [
