@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-10, 21:37:36](https://news.ycombinator.com/item?id=31699624) - [Group of white and Asian parents sue BPS over exam school admissions policy](https://www.bostonherald.com/2022/06/08/group-of-white-and-asian-parents-sue-bps-over-exam-school-admissions-policy/)
+* [2022-06-10, 22:27:20](https://news.ycombinator.com/item?id=31700069) - [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
 * [2022-06-10, 21:17:45](https://news.ycombinator.com/item?id=31699468) - [AI Could Defeat All of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)
 * [2022-06-10, 20:29:38](https://news.ycombinator.com/item?id=31699032) - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
 * [2022-06-10, 19:53:44](https://news.ycombinator.com/item?id=31698687) - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
@@ -25,11 +25,11 @@
 * [2022-06-10, 12:47:23](https://news.ycombinator.com/item?id=31693314) - [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
 * [2022-06-10, 12:44:50](https://news.ycombinator.com/item?id=31693287) - [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
-* [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 18:53:46](https://news.ycombinator.com/item?id=31685277) - [Must be this tall to write multi-threaded code (2015)](https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html)
 * [2022-06-09, 11:27:03](https://news.ycombinator.com/item?id=31679876) - [How to Do What You Love (2006)](http://www.paulgraham.com/love.html)
 * [2022-06-09, 06:10:27](https://news.ycombinator.com/item?id=31678045) - [Xbox 360 Architecture](https://www.copetti.org/writings/consoles/xbox-360/)
 * [2022-06-09, 05:30:40](https://news.ycombinator.com/item?id=31677870) - [Five glassy mysteries we still can’t explain](https://physicsworld.com/a/five-glassy-mysteries-we-still-cant-explain-from-the-ideal-solution-to-metallic-glasses-and-more/)
+* [2022-06-08, 11:20:15](https://news.ycombinator.com/item?id=31665749) - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html)
 
 ## [Archives](archives/index.md)
 

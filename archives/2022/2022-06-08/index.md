@@ -76,6 +76,7 @@
 * [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 * [2022-06-08, 11:23:59](https://news.ycombinator.com/item?id=31665775) - [Ask HN: What are some mentally healthy apps to have?](https://news.ycombinator.com/item?id=31665775)
+* [2022-06-08, 11:20:15](https://news.ycombinator.com/item?id=31665749) - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html)
 * [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
 * [2022-06-08, 11:00:13](https://news.ycombinator.com/item?id=31665611) - [IPTV Pirate Must Pay £963K or 88 Month Prison Sentence Becomes 168 Months](https://torrentfreak.com/iptv-pirate-must-pay-963k-or-88-month-prison-sentence-becomes-168-220607/)
 * [2022-06-08, 10:50:46](https://news.ycombinator.com/item?id=31665517) - [How Street Dogs Spend Their Days](https://daily.jstor.org/how-street-dogs-spend-their-days/)
