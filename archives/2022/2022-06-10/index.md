@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
 * [2022-06-10, 08:11:29](https://news.ycombinator.com/item?id=31691374) - [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
+* [2022-06-10, 07:44:39](https://news.ycombinator.com/item?id=31691240) - [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 06:18:05](https://news.ycombinator.com/item?id=31690699) - [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
 * [2022-06-10, 05:37:29](https://news.ycombinator.com/item?id=31690452) - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)

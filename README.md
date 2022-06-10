@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-10, 08:11:29](https://news.ycombinator.com/item?id=31691374) - [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
+* [2022-06-10, 07:44:39](https://news.ycombinator.com/item?id=31691240) - [OneTrust lays off 25% Workforce](https://layoffstracker.com/onetrust-lays-off-25-workforce-around-900-employees/)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 06:18:05](https://news.ycombinator.com/item?id=31690699) - [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
 * [2022-06-10, 05:37:29](https://news.ycombinator.com/item?id=31690452) - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
@@ -19,7 +20,6 @@
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter plans to comply with Musk’s demands for data](https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
-* [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
 * [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
 * [2022-06-09, 09:07:47](https://news.ycombinator.com/item?id=31679109) - [Lock Pioneers of the Past](https://www.locksmithledger.com/door-hardware/article/10290220/pioneers-of-the-past)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [I killed my startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
