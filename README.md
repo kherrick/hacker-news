@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-10, 03:47:06](https://news.ycombinator.com/item?id=31689785) - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
-* [2022-06-10, 03:02:50](https://news.ycombinator.com/item?id=31689487) - [I Don't Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
 * [2022-06-10, 01:44:04](https://news.ycombinator.com/item?id=31689046) - [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
 * [2022-06-10, 00:39:27](https://news.ycombinator.com/item?id=31688701) - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
@@ -27,6 +26,7 @@
 * [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The cursed d65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [I killed my startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 03:55:27](https://news.ycombinator.com/item?id=31677402) - [An elite education: Discovery of an ancient Athenian ephebic list](https://blog.nms.ac.uk/2022/06/03/discovery-of-an-ancient-athenian-inscription/)
+* [2022-06-08, 21:01:39](https://news.ycombinator.com/item?id=31674099) - [To Catch a Beat (2011)](https://www.newyorker.com/magazine/2011/10/10/to-catch-a-beat)
 * [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
 * [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
