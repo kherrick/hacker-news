@@ -6,6 +6,7 @@
 
 * [2022-06-10, 17:35:29](https://news.ycombinator.com/item?id=31697128) - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
 * [2022-06-10, 17:26:10](https://news.ycombinator.com/item?id=31697029) - [Vladimir Putin, in speech, hints at further territorial expansion for Russia](https://www.smh.com.au/world/europe/vladimir-putin-in-speech-hints-at-further-territorial-expansion-for-russia-20220610-p5asq0.html)
+* [2022-06-10, 17:18:17](https://news.ycombinator.com/item?id=31696940) - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [Petzold's “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 * [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Dartnell on getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
