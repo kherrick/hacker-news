@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-10, 19:03:54](https://news.ycombinator.com/item?id=31698148) - [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
-* [2022-06-10, 19:02:14](https://news.ycombinator.com/item?id=31698127) - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 * [2022-06-10, 18:58:11](https://news.ycombinator.com/item?id=31698077) - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
 * [2022-06-10, 18:21:23](https://news.ycombinator.com/item?id=31697636) - [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2022-06-10, 17:35:29](https://news.ycombinator.com/item?id=31697128) - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
@@ -25,6 +24,7 @@
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
+* [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 * [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 18:53:46](https://news.ycombinator.com/item?id=31685277) - [Must be This Tall to Write Multi-Threaded Code](https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html)
 * [2022-06-09, 12:15:04](https://news.ycombinator.com/item?id=31680222) - [Automating Data Protection at Scale, Part 3](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-3-34e592c45d46)
