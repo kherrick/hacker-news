@@ -49,6 +49,7 @@
 * [2022-06-08, 14:59:21](https://news.ycombinator.com/item?id=31668316) - [Entropy Is Fatal](https://kerkour.com/entropy-is-fatal)
 * [2022-06-08, 14:56:41](https://news.ycombinator.com/item?id=31668274) - [Blender 3.2](https://www.blender.org/download/releases/3-2/)
 * [2022-06-08, 14:55:11](https://news.ycombinator.com/item?id=31668247) - [California Sends Democrats and the Nation a Message on Crime](https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html)
+* [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 14:24:59](https://news.ycombinator.com/item?id=31667817) - [Tell HN: AI is mostly just code](https://news.ycombinator.com/item?id=31667817)
 * [2022-06-08, 14:20:52](https://news.ycombinator.com/item?id=31667761) - [Ask HN: Is there a site popular with Gen Z where users can write HTML and CSS?](https://news.ycombinator.com/item?id=31667761)
 * [2022-06-08, 14:16:29](https://news.ycombinator.com/item?id=31667701) - [Is there a maximum size for Windows clipboard data?](https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727)
