@@ -19,7 +19,6 @@
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:16:49](https://news.ycombinator.com/item?id=31683999) - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
-* [2022-06-09, 15:22:26](https://news.ycombinator.com/item?id=31682361) - [Why are nuclear power construction costs so high?](https://constructionphysics.substack.com/p/why-are-nuclear-power-construction)
 * [2022-06-09, 15:18:12](https://news.ycombinator.com/item?id=31682303) - [The collapse of complex software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 * [2022-06-09, 14:42:23](https://news.ycombinator.com/item?id=31681787) - [Shotcut is a free, open-source, cross-platform video editor](https://shotcut.org/)
 * [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [I cut GTA Online loading times (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
@@ -29,6 +28,7 @@
 * [2022-06-09, 03:55:27](https://news.ycombinator.com/item?id=31677402) - [An elite education: Discovery of an ancient Athenian ephebic list](https://blog.nms.ac.uk/2022/06/03/discovery-of-an-ancient-athenian-inscription/)
 * [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
+* [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 
 ## [Archives](archives/index.md)

@@ -70,6 +70,7 @@
 * [2022-06-08, 12:02:10](https://news.ycombinator.com/item?id=31666026) - [Constitutional Right to Install Bulletproof Glass?](https://reason.com/volokh/2017/12/20/right-to-install-bulletproof-glass/)
 * [2022-06-08, 11:47:11](https://news.ycombinator.com/item?id=31665931) - [Estonia clocks fastest inflation in the Eurozone at 20.1 percent](https://news.err.ee/1608615118/estonia-clocks-fastest-inflation-in-the-eurozone-at-20-1-percent)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
+* [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
 * [2022-06-08, 11:38:27](https://news.ycombinator.com/item?id=31665872) - [Valetudo: Open-source cloud replacement for vacuum robots](https://valetudo.cloud/)
 * [2022-06-08, 11:23:59](https://news.ycombinator.com/item?id=31665775) - [Ask HN: What are some mentally healthy apps to have?](https://news.ycombinator.com/item?id=31665775)
 * [2022-06-08, 11:05:31](https://news.ycombinator.com/item?id=31665651) - [I Started Journaling (2019)](https://herman.bearblog.dev/why-i-journal/)
