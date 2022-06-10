@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-10, 11:31:06",
+      "https://news.ycombinator.com/item?id=31692606"
+    ],
+    [
+      "Cull Your Dependencies",
+      "https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 10:55:34",
       "https://news.ycombinator.com/item?id=31692341"
     ],
     [
       "Odyssey Game System",
       "https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 10:54:52",
+      "https://news.ycombinator.com/item?id=31692338"
+    ],
+    [
+      "Tell HN: Never Trust 'Lifetime' Licenses",
+      "https://news.ycombinator.com/item?id=31692338"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-06-10, 00:25:23",
-      "https://news.ycombinator.com/item?id=31688607"
-    ],
-    [
-      "Reduced air pollution leads to higher crop yields",
-      "https://www.technologynetworks.com/applied-sciences/news/reduced-air-pollution-leads-to-higher-crop-yields-362214"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 22:55:09",
       "https://news.ycombinator.com/item?id=31687990"
     ],
@@ -217,16 +227,6 @@
     [
       "Cranelift, Part 4: A New Register Allocator",
       "https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 20:45:09",
-      "https://news.ycombinator.com/item?id=31686615"
-    ],
-    [
-      "Always Own Your Platform (2019)",
-      "http://www.alwaysownyourplatform.com/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-08, 11:45:53",
-      "https://news.ycombinator.com/item?id=31665924"
+      "2022-06-08, 19:58:10",
+      "https://news.ycombinator.com/item?id=31673148"
     ],
     [
-      "Show HN: Tasqueue – A simple, customisable distributed job/worker in Go",
-      "https://github.com/kalbhor/Tasqueue"
+      "A Brief History of Frankincense",
+      "https://www.laphamsquarterly.org/roundtable/brief-history-frankincense"
     ]
   ]
 ]
