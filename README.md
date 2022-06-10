@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 13:30:17](https://news.ycombinator.com/item?id=31693896) - [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
+* [2022-06-10, 13:24:53](https://news.ycombinator.com/item?id=31693830) - [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-10, 12:47:23](https://news.ycombinator.com/item?id=31693314) - [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
 * [2022-06-10, 12:44:50](https://news.ycombinator.com/item?id=31693287) - [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
@@ -22,8 +24,6 @@
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
 * [2022-06-10, 00:35:35](https://news.ycombinator.com/item?id=31688667) - [From Python to NumPy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-* [2022-06-09, 22:29:42](https://news.ycombinator.com/item?id=31687782) - [Important PostgreSQL 14 update to avoid silent corruption of indexes](https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/)
-* [2022-06-09, 21:50:07](https://news.ycombinator.com/item?id=31687378) - [Why software engineers like woodworking](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
 * [2022-06-09, 18:50:42](https://news.ycombinator.com/item?id=31685252) - [20 Years of SIP – A Retrospective](https://www.jdrosen.net/blog/20-years-of-sip-a-retrospective)
 * [2022-06-09, 07:40:51](https://news.ycombinator.com/item?id=31678574) - [Sámi Languages and Dialects (2015)](https://nordregio.org/maps/sami-languages-and-dialects/)
 * [2022-06-09, 06:10:27](https://news.ycombinator.com/item?id=31678045) - [Xbox 360 Architecture](https://www.copetti.org/writings/consoles/xbox-360/)

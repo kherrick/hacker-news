@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 13:30:17](https://news.ycombinator.com/item?id=31693896) - [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
+* [2022-06-10, 13:24:53](https://news.ycombinator.com/item?id=31693830) - [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-10, 12:47:23](https://news.ycombinator.com/item?id=31693314) - [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
 * [2022-06-10, 12:44:50](https://news.ycombinator.com/item?id=31693287) - [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
