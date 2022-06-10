@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-10, 14:08:27](https://news.ycombinator.com/item?id=31694445) - [Engineering Heat Out of the Underground](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
-* [2022-06-10, 13:37:44](https://news.ycombinator.com/item?id=31694001) - [How the FBI uses laws to spy on foreign terrorists to spy on you](https://thehill.com/opinion/criminal-justice/3516750-how-the-fbi-uses-laws-to-spy-on-foreign-terrorists-to-spy-on-you/)
+* [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
+* [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
+* [2022-06-10, 14:29:37](https://news.ycombinator.com/item?id=31694723) - [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
+* [2022-06-10, 14:08:27](https://news.ycombinator.com/item?id=31694445) - [Cooling the tube – Engineering heat out of the Underground (2017)](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
 * [2022-06-10, 13:30:17](https://news.ycombinator.com/item?id=31693896) - [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
 * [2022-06-10, 13:24:53](https://news.ycombinator.com/item?id=31693830) - [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
@@ -10,7 +12,6 @@
 * [2022-06-10, 12:01:59](https://news.ycombinator.com/item?id=31692841) - [The Svix Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2022-06-10, 11:31:06](https://news.ycombinator.com/item?id=31692606) - [Cull your dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
 * [2022-06-10, 11:12:04](https://news.ycombinator.com/item?id=31692454) - [Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
-* [2022-06-10, 10:55:34](https://news.ycombinator.com/item?id=31692341) - [Odyssey Game System (2021)](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
 * [2022-06-10, 10:40:12](https://news.ycombinator.com/item?id=31692248) - [Chalet: A cross-platform project format and build tool for C/C++](https://www.chalet-work.space)
@@ -29,7 +30,6 @@
 * [2022-06-09, 06:10:27](https://news.ycombinator.com/item?id=31678045) - [Xbox 360 Architecture](https://www.copetti.org/writings/consoles/xbox-360/)
 * [2022-06-08, 23:44:42](https://news.ycombinator.com/item?id=31675934) - [No Army? No Problem: Defending the Home Front in Ancient Greece](https://www.historytoday.com/archive/history-matters/no-army-no-problem)
 * [2022-06-08, 19:58:10](https://news.ycombinator.com/item?id=31673148) - [A Brief History of Frankincense](https://www.laphamsquarterly.org/roundtable/brief-history-frankincense)
-* [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 
 ## [Archives](archives/index.md)
 

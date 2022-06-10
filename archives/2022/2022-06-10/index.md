@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
+* [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
+* [2022-06-10, 14:29:37](https://news.ycombinator.com/item?id=31694723) - [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
 * [2022-06-10, 14:08:27](https://news.ycombinator.com/item?id=31694445) - [Engineering Heat Out of the Underground](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
 * [2022-06-10, 13:37:44](https://news.ycombinator.com/item?id=31694001) - [How the FBI uses laws to spy on foreign terrorists to spy on you](https://thehill.com/opinion/criminal-justice/3516750-how-the-fbi-uses-laws-to-spy-on-foreign-terrorists-to-spy-on-you/)
 * [2022-06-10, 13:30:17](https://news.ycombinator.com/item?id=31693896) - [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
