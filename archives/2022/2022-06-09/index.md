@@ -59,6 +59,7 @@
 * [2022-06-09, 10:24:05](https://news.ycombinator.com/item?id=31679491) - [Chris McCandless Was a Moron Who Deserved to Die](https://blackshaw.substack.com/p/wild)
 * [2022-06-09, 09:42:59](https://news.ycombinator.com/item?id=31679293) - [We Got Linux on the iPhone, iPad and Other iDevices](https://konradybcio.pl/linuxona7/)
 * [2022-06-09, 09:33:15](https://news.ycombinator.com/item?id=31679251) - [Ask HN: How to talk with logical flow and coherence at interviews](https://news.ycombinator.com/item?id=31679251)
+* [2022-06-09, 09:32:58](https://news.ycombinator.com/item?id=31679247) - [Comparing disciplinary coverage of 56 databases, measuring ORCID adoption](http://musingsaboutlibrarianship.blogspot.com/2022/05/comparing-disciplinary-coverage-of-56.html)
 * [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The Cursed D65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 09:18:02](https://news.ycombinator.com/item?id=31679167) - [James Webb Space Telescope hit by a tiny meteorite](https://www.bbc.com/news/science-environment-61744257)
 * [2022-06-09, 09:07:47](https://news.ycombinator.com/item?id=31679109) - [Lock Pioneers of the Past](https://www.locksmithledger.com/door-hardware/article/10290220/pioneers-of-the-past)
