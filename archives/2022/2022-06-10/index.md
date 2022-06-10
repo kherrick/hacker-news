@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 11:31:06](https://news.ycombinator.com/item?id=31692606) - [Cull Your Dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
 * [2022-06-10, 10:55:34](https://news.ycombinator.com/item?id=31692341) - [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
+* [2022-06-10, 10:54:52](https://news.ycombinator.com/item?id=31692338) - [Tell HN: Never Trust 'Lifetime' Licenses](https://news.ycombinator.com/item?id=31692338)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
 * [2022-06-10, 10:22:52](https://news.ycombinator.com/item?id=31692147) - [Show HN: Growth Hacking Kit](https://hackgrowth.space/)
