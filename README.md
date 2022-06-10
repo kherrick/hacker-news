@@ -26,7 +26,7 @@
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [I killed my startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 04:16:24](https://news.ycombinator.com/item?id=31677483) - [Women and the History of Samuel Pepys's Diary](https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F)
 * [2022-06-08, 23:44:42](https://news.ycombinator.com/item?id=31675934) - [No Army? No Problem: Defending the Home Front in Ancient Greece](https://www.historytoday.com/archive/history-matters/no-army-no-problem)
-* [2022-06-08, 21:01:39](https://news.ycombinator.com/item?id=31674099) - [To Catch a Beat (2011)](https://www.newyorker.com/magazine/2011/10/10/to-catch-a-beat)
+* [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
 * [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
