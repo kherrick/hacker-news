@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-06-10, 03:02:50",
-      "https://news.ycombinator.com/item?id=31689487"
+      "2022-06-10, 03:47:06",
+      "https://news.ycombinator.com/item?id=31689785"
     ],
     [
-      "I Don't Like Medium",
-      "https://www.sdgluck.com/i-dont-like-medium/"
+      "Chinese students at Cornell “taunt” Uyghur classmate",
+      "https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-06-09, 15:22:26",
+      "https://news.ycombinator.com/item?id=31682361"
+    ],
+    [
+      "Why are nuclear power construction costs so high?",
+      "https://constructionphysics.substack.com/p/why-are-nuclear-power-construction"
+    ]
+  ],
+  [
+    [
       "2022-06-09, 15:18:12",
       "https://news.ycombinator.com/item?id=31682303"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Tasqueue – A simple, customisable distributed job/worker in Go",
       "https://github.com/kalbhor/Tasqueue"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 11:38:27",
-      "https://news.ycombinator.com/item?id=31665872"
-    ],
-    [
-      "Valetudo: Open-source cloud replacement for vacuum robots",
-      "https://valetudo.cloud/"
     ]
   ]
 ]
