@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 05:37:29](https://news.ycombinator.com/item?id=31690452) - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
@@ -18,7 +19,6 @@
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:16:49](https://news.ycombinator.com/item?id=31683999) - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
-* [2022-06-09, 16:01:53](https://news.ycombinator.com/item?id=31682887) - [Techniques for Training Large Neural Networks](https://openai.com/blog/techniques-for-training-large-neural-networks/)
 * [2022-06-09, 10:42:47](https://news.ycombinator.com/item?id=31679610) - [What makes a good research proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
 * [2022-06-09, 09:25:17](https://news.ycombinator.com/item?id=31679207) - [The cursed d65536](http://aleph.se/andart2/math/the-cursed-d65536/)
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [I killed my startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
