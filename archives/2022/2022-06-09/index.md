@@ -53,6 +53,7 @@
 * [2022-06-09, 13:14:16](https://news.ycombinator.com/item?id=31680769) - [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
 * [2022-06-09, 13:09:58](https://news.ycombinator.com/item?id=31680741) - [All software is web software now](https://driftingin.space/posts/all-software-is-web-software)
 * [2022-06-09, 12:56:00](https://news.ycombinator.com/item?id=31680636) - [Download offline maps in the Google Maps app without signing in](https://news.ycombinator.com/item?id=31680636)
+* [2022-06-09, 12:15:04](https://news.ycombinator.com/item?id=31680222) - [Automating Data Protection at Scale, Part 3](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-3-34e592c45d46)
 * [2022-06-09, 11:37:52](https://news.ycombinator.com/item?id=31679945) - [Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView](https://gitlab.com/BenWiser/python-live-gui)
 * [2022-06-09, 11:26:46](https://news.ycombinator.com/item?id=31679872) - [Public CDNs Are Useless and Dangerous](https://httptoolkit.tech/blog/public-cdn-risks/)
 * [2022-06-09, 11:17:44](https://news.ycombinator.com/item?id=31679811) - [Show HN: Open-Source Identity Server Written in Go (Ory Kratos)](https://github.com/ory/kratos)

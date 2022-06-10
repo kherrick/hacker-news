@@ -27,7 +27,7 @@
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Toxic Productivity](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 18:53:46](https://news.ycombinator.com/item?id=31685277) - [Must be This Tall to Write Multi-Threaded Code](https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html)
-* [2022-06-09, 18:50:42](https://news.ycombinator.com/item?id=31685252) - [20 Years of SIP – A Retrospective](https://www.jdrosen.net/blog/20-years-of-sip-a-retrospective)
+* [2022-06-09, 12:15:04](https://news.ycombinator.com/item?id=31680222) - [Automating Data Protection at Scale, Part 3](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-3-34e592c45d46)
 * [2022-06-09, 10:27:24](https://news.ycombinator.com/item?id=31679510) - [Stealing the users back button with the History API (2013)](https://ryanseddon.com/javascript/stealing-history-api/)
 * [2022-06-09, 06:10:27](https://news.ycombinator.com/item?id=31678045) - [Xbox 360 Architecture](https://www.copetti.org/writings/consoles/xbox-360/)
 
