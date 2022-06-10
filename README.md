@@ -4,7 +4,6 @@
 * [2022-06-10, 05:01:04](https://news.ycombinator.com/item?id=31690239) - [Are You Suffering from Toxic Productivity?](https://paperform.co/blog/toxic-productivity/)
 * [2022-06-10, 03:47:06](https://news.ycombinator.com/item?id=31689785) - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
-* [2022-06-10, 01:44:04](https://news.ycombinator.com/item?id=31689046) - [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
 * [2022-06-10, 00:39:27](https://news.ycombinator.com/item?id=31688701) - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
 * [2022-06-10, 00:35:35](https://news.ycombinator.com/item?id=31688667) - [From Python to NumPy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [2022-06-10, 00:25:23](https://news.ycombinator.com/item?id=31688607) - [Reduced air pollution leads to higher crop yields](https://www.technologynetworks.com/applied-sciences/news/reduced-air-pollution-leads-to-higher-crop-yields-362214)
@@ -17,6 +16,7 @@
 * [2022-06-09, 20:36:58](https://news.ycombinator.com/item?id=31686511) - [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter plans to comply with Musk’s demands for data](https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
+* [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
 * [2022-06-09, 17:16:49](https://news.ycombinator.com/item?id=31683999) - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 * [2022-06-09, 16:20:46](https://news.ycombinator.com/item?id=31683157) - [Launch HN: Compose.ai (YC W21) – AI-powered extension to speed up email writing](https://news.ycombinator.com/item?id=31683157)
@@ -26,10 +26,10 @@
 * [2022-06-09, 04:16:24](https://news.ycombinator.com/item?id=31677483) - [Women and the History of Samuel Pepys's Diary](https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F)
 * [2022-06-09, 03:55:27](https://news.ycombinator.com/item?id=31677402) - [An elite education: Discovery of an ancient Athenian ephebic list](https://blog.nms.ac.uk/2022/06/03/discovery-of-an-ancient-athenian-inscription/)
 * [2022-06-08, 21:01:39](https://news.ycombinator.com/item?id=31674099) - [To Catch a Beat (2011)](https://www.newyorker.com/magazine/2011/10/10/to-catch-a-beat)
+* [2022-06-08, 20:35:46](https://news.ycombinator.com/item?id=31673662) - [Hexwords: Hex colors that are similar to words](https://hexwords.netlify.app/)
 * [2022-06-08, 14:30:30](https://news.ycombinator.com/item?id=31667902) - [Dont think of price, think of cost per use](https://sergionajera.com/dont-think-of-price-think-of-cost-per-use)
 * [2022-06-08, 11:46:10](https://news.ycombinator.com/item?id=31665928) - [Nintendo's big piracy case is a sad story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
 * [2022-06-08, 11:45:53](https://news.ycombinator.com/item?id=31665924) - [Show HN: Tasqueue – A simple, customisable distributed job/worker in Go](https://github.com/kalbhor/Tasqueue)
-* [2022-06-08, 10:23:51](https://news.ycombinator.com/item?id=31665349) - [Experiments for Young Engineers and Scientists](https://expeyes.in/)
 
 ## [Archives](archives/index.md)
 
