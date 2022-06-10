@@ -7,6 +7,7 @@
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [Petzold's “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 * [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Dartnell on getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
+* [2022-06-10, 16:39:51](https://news.ycombinator.com/item?id=31696447) - [Ask HN: How are you dealing with the M1/ARM migration?](https://news.ycombinator.com/item?id=31696447)
 * [2022-06-10, 16:23:28](https://news.ycombinator.com/item?id=31696235) - [Sup – A curses threads-with-tags style email client](https://sup-heliotrope.github.io/)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
 * [2022-06-10, 15:52:30](https://news.ycombinator.com/item?id=31695850) - [Boot Camp: A Business Saga](https://betonit.substack.com/p/boot-camp-a-business-saga)
