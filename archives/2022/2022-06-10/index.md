@@ -11,6 +11,7 @@
 * [2022-06-10, 19:02:14](https://news.ycombinator.com/item?id=31698127) - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 * [2022-06-10, 18:58:11](https://news.ycombinator.com/item?id=31698077) - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
 * [2022-06-10, 18:21:23](https://news.ycombinator.com/item?id=31697636) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
+* [2022-06-10, 17:50:54](https://news.ycombinator.com/item?id=31697296) - [TBD Web5](https://developer.tbd.website/projects/web5/)
 * [2022-06-10, 17:35:29](https://news.ycombinator.com/item?id=31697128) - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
 * [2022-06-10, 17:26:10](https://news.ycombinator.com/item?id=31697029) - [Vladimir Putin, in speech, hints at further territorial expansion for Russia](https://www.smh.com.au/world/europe/vladimir-putin-in-speech-hints-at-further-territorial-expansion-for-russia-20220610-p5asq0.html)
 * [2022-06-10, 17:18:17](https://news.ycombinator.com/item?id=31696940) - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
