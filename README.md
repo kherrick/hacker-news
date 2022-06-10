@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 08:11:29](https://news.ycombinator.com/item?id=31691374) - [Meta sued for social media addiction caused by its algorithm](https://www.protocol.com/section-230-meta-addiction)
 * [2022-06-10, 06:49:26](https://news.ycombinator.com/item?id=31690878) - [Rulex – A new, portable, regular expression language](https://rulex-rs.github.io/)
 * [2022-06-10, 06:18:05](https://news.ycombinator.com/item?id=31690699) - [Sylpheed email client: open source, cross-platform, lightweight, user-friendly](https://sylpheed.sraoss.jp/en/)
 * [2022-06-10, 05:37:29](https://news.ycombinator.com/item?id=31690452) - [Coinbase employees petition to remove execs](https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0)
@@ -14,7 +15,6 @@
 * [2022-06-09, 21:10:21](https://news.ycombinator.com/item?id=31686932) - [I Resurrected My Dutch Movie Review Site from 2003](https://louwrentius.com/i-resurrected-my-dutch-movie-review-site-from-2003.html)
 * [2022-06-09, 20:59:10](https://news.ycombinator.com/item?id=31686794) - [Cranelift, Part 4: A New Register Allocator](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)
 * [2022-06-09, 20:45:09](https://news.ycombinator.com/item?id=31686615) - [Always Own Your Platform (2019)](http://www.alwaysownyourplatform.com/)
-* [2022-06-09, 20:36:58](https://news.ycombinator.com/item?id=31686511) - [Gitsign](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
 * [2022-06-09, 20:02:34](https://news.ycombinator.com/item?id=31686055) - [Twitter plans to comply with Musk’s demands for data](https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
 * [2022-06-09, 17:33:07](https://news.ycombinator.com/item?id=31684206) - [In defense of cryptocurrency](https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/)
