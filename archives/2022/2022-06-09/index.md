@@ -72,6 +72,7 @@
 * [2022-06-09, 05:04:38](https://news.ycombinator.com/item?id=31677736) - [Stop Interviewing with Leet Code](https://fev.al/posts/leet-code/)
 * [2022-06-09, 05:03:18](https://news.ycombinator.com/item?id=31677730) - [Quiescence Search](https://en.wikipedia.org/wiki/Quiescence_search)
 * [2022-06-09, 04:51:43](https://news.ycombinator.com/item?id=31677671) - [I love the Linux desktop, but that doesn't mean I don't see its problems](https://www.theregister.com/2022/06/08/linux_desktop_blues/)
+* [2022-06-09, 04:16:24](https://news.ycombinator.com/item?id=31677483) - [Women and the History of Samuel Pepys's Diary](https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F)
 * [2022-06-09, 04:15:08](https://news.ycombinator.com/item?id=31677476) - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html)
 * [2022-06-09, 04:14:14](https://news.ycombinator.com/item?id=31677469) - [Deluge BitTorrent Client](https://deluge-torrent.org/)
 * [2022-06-09, 03:55:27](https://news.ycombinator.com/item?id=31677402) - [An elite education: Discovery of an ancient Athenian ephebic list](https://blog.nms.ac.uk/2022/06/03/discovery-of-an-ancient-athenian-inscription/)
