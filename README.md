@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
-* [2022-06-10, 15:44:31](https://news.ycombinator.com/item?id=31695743) - [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
@@ -9,12 +9,10 @@
 * [2022-06-10, 14:37:57](https://news.ycombinator.com/item?id=31694827) - [Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure](https://meadowrun.io)
 * [2022-06-10, 14:29:37](https://news.ycombinator.com/item?id=31694723) - [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
 * [2022-06-10, 14:08:27](https://news.ycombinator.com/item?id=31694445) - [Cooling the tube – Engineering heat out of the Underground (2017)](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
-* [2022-06-10, 13:30:17](https://news.ycombinator.com/item?id=31693896) - [The Yield Curve as a Leading Indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
 * [2022-06-10, 13:24:53](https://news.ycombinator.com/item?id=31693830) - [Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-10, 12:47:23](https://news.ycombinator.com/item?id=31693314) - [Show HN: Analyzing top HN posts with language models](https://news.ycombinator.com/item?id=31693314)
 * [2022-06-10, 12:44:50](https://news.ycombinator.com/item?id=31693287) - [uBlacklist – Block specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
-* [2022-06-10, 12:01:59](https://news.ycombinator.com/item?id=31692841) - [The Svix Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2022-06-10, 11:31:06](https://news.ycombinator.com/item?id=31692606) - [Cull your dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
 * [2022-06-10, 11:12:04](https://news.ycombinator.com/item?id=31692454) - [Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
@@ -29,7 +27,9 @@
 * [2022-06-09, 18:50:42](https://news.ycombinator.com/item?id=31685252) - [20 Years of SIP – A Retrospective](https://www.jdrosen.net/blog/20-years-of-sip-a-retrospective)
 * [2022-06-09, 10:27:24](https://news.ycombinator.com/item?id=31679510) - [Stealing the users back button with the History API (2013)](https://ryanseddon.com/javascript/stealing-history-api/)
 * [2022-06-09, 09:32:58](https://news.ycombinator.com/item?id=31679247) - [Comparing disciplinary coverage of 56 databases, measuring ORCID adoption](http://musingsaboutlibrarianship.blogspot.com/2022/05/comparing-disciplinary-coverage-of-56.html)
+* [2022-06-09, 09:07:47](https://news.ycombinator.com/item?id=31679109) - [Lock Pioneers of the Past](https://www.locksmithledger.com/door-hardware/article/10290220/pioneers-of-the-past)
 * [2022-06-09, 06:10:27](https://news.ycombinator.com/item?id=31678045) - [Xbox 360 Architecture](https://www.copetti.org/writings/consoles/xbox-360/)
+* [2022-06-08, 23:44:42](https://news.ycombinator.com/item?id=31675934) - [No Army? No Problem: Defending the Home Front in Ancient Greece](https://www.historytoday.com/archive/history-matters/no-army-no-problem)
 
 ## [Archives](archives/index.md)
 

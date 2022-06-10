@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
 * [2022-06-10, 15:44:31](https://news.ycombinator.com/item?id=31695743) - [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
