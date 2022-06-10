@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 03:47:06](https://news.ycombinator.com/item?id=31689785) - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
 * [2022-06-10, 03:07:06](https://news.ycombinator.com/item?id=31689505) - [This is a valid domain name (remove www)](http://www.ai)
 * [2022-06-10, 03:02:50](https://news.ycombinator.com/item?id=31689487) - [I Don't Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
