@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-06-10, 19:35:40",
+      "https://news.ycombinator.com/item?id=31698503"
+    ],
+    [
+      "Data Race Patterns in Go",
+      "https://eng.uber.com/data-race-patterns-in-go/"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 19:03:54",
       "https://news.ycombinator.com/item?id=31698148"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-06-10, 14:42:00",
-      "https://news.ycombinator.com/item?id=31694882"
-    ],
-    [
-      "The Great Decentralization? Geographic shifts and where tech talent is moving",
-      "https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/"
-    ]
-  ],
-  [
-    [
       "2022-06-10, 14:39:06",
       "https://news.ycombinator.com/item?id=31694849"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-06-10, 14:29:37",
-      "https://news.ycombinator.com/item?id=31694723"
-    ],
-    [
-      "Mutt – Text-based mail client for Unix",
-      "http://www.mutt.org/"
-    ]
-  ],
-  [
-    [
       "2022-06-10, 14:08:27",
       "https://news.ycombinator.com/item?id=31694445"
     ],
@@ -197,6 +187,16 @@
     [
       "Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings",
       "https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 13:03:01",
+      "https://news.ycombinator.com/item?id=31693490"
+    ],
+    [
+      "MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips",
+      "https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/"
     ]
   ],
   [
