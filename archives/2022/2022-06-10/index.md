@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 12:01:59](https://news.ycombinator.com/item?id=31692841) - [The Svix Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+* [2022-06-10, 12:01:10](https://news.ycombinator.com/item?id=31692834) - [Ask HN: How did you find your current job?](https://news.ycombinator.com/item?id=31692834)
 * [2022-06-10, 11:31:06](https://news.ycombinator.com/item?id=31692606) - [Cull Your Dependencies](https://www.tomrenner.com/blog/2022-06-09/cull-your-dependencies)
+* [2022-06-10, 11:12:04](https://news.ycombinator.com/item?id=31692454) - [Try Resident Evil Village in the browser through Stadia](https://play.cid.capcom.com/top.html)
 * [2022-06-10, 10:55:34](https://news.ycombinator.com/item?id=31692341) - [Odyssey Game System](https://www.fabcollectibles.com/tv-video/game-consoles/magnavox-odyssey.html)
 * [2022-06-10, 10:54:52](https://news.ycombinator.com/item?id=31692338) - [Tell HN: Never Trust 'Lifetime' Licenses](https://news.ycombinator.com/item?id=31692338)
 * [2022-06-10, 10:43:28](https://news.ycombinator.com/item?id=31692267) - [Play with TailwindCSS in the Browser](https://play.tailwindcss.com)
 * [2022-06-10, 10:42:14](https://news.ycombinator.com/item?id=31692259) - [Show HN: Terragen.dev – Automagically Generate Terraform for AWS](https://terragen.dev/)
+* [2022-06-10, 10:40:12](https://news.ycombinator.com/item?id=31692248) - [Chalet: A cross-platform project format and build tool for C/C++](https://www.chalet-work.space)
 * [2022-06-10, 10:22:52](https://news.ycombinator.com/item?id=31692147) - [Show HN: Growth Hacking Kit](https://hackgrowth.space/)
 * [2022-06-10, 10:19:06](https://news.ycombinator.com/item?id=31692116) - [New ultra-stealthy Linux backdoor isn’t your everyday malware discovery](https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/)
 * [2022-06-10, 09:39:14](https://news.ycombinator.com/item?id=31691913) - [Letter in Support of Responsible Crypto Policy](https://www.financialinclusion.tech/)
