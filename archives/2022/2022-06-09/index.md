@@ -21,6 +21,7 @@
 * [2022-06-09, 19:36:16](https://news.ycombinator.com/item?id=31685776) - [Tesla investigation deepens after more than a dozen US ‘Autopilot’ crashes](https://www.theguardian.com/technology/2022/jun/09/tesla-autopilot-crashes-investigation-nhtsa)
 * [2022-06-09, 19:35:24](https://news.ycombinator.com/item?id=31685767) - [Bridging the Synchronization Gap on Linux](https://www.collabora.com/news-and-blog/blog/2022/06/09/bridging-the-synchronization-gap-on-linux/)
 * [2022-06-09, 19:33:19](https://news.ycombinator.com/item?id=31685741) - [ZeroTier Business SSO is here And so is our new pricing](https://www.zerotier.com/2022/06/09/zerotier-business-sso-is-here-and-so-is-our-new-pricing/)
+* [2022-06-09, 19:30:06](https://news.ycombinator.com/item?id=31685700) - [Procedural Tree Generator](https://simblob.blogspot.com/2022/06/procedural-tree-generator.html)
 * [2022-06-09, 19:16:04](https://news.ycombinator.com/item?id=31685545) - [Do Kwon Sent $80M a Month to Himself](https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets)
 * [2022-06-09, 18:26:10](https://news.ycombinator.com/item?id=31684957) - [MedCrypt (YC W19) Is Hiring](https://www.ycombinator.com/companies/medcrypt/jobs/DLp3OYm-medcrypt-yc-w19-embedded-software-development-engineer-135k)
 * [2022-06-09, 18:06:14](https://news.ycombinator.com/item?id=31684673) - [Why it's bad to kill Grandma](https://dynomight.net/grandma/)
