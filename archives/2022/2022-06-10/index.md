@@ -6,6 +6,8 @@
 
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
+* [2022-06-10, 14:39:00](https://news.ycombinator.com/item?id=31694844) - [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
+* [2022-06-10, 14:37:57](https://news.ycombinator.com/item?id=31694827) - [Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure](https://meadowrun.io)
 * [2022-06-10, 14:29:37](https://news.ycombinator.com/item?id=31694723) - [Mutt – Text-based mail client for Unix](http://www.mutt.org/)
 * [2022-06-10, 14:08:27](https://news.ycombinator.com/item?id=31694445) - [Engineering Heat Out of the Underground](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
 * [2022-06-10, 13:37:44](https://news.ycombinator.com/item?id=31694001) - [How the FBI uses laws to spy on foreign terrorists to spy on you](https://thehill.com/opinion/criminal-justice/3516750-how-the-fbi-uses-laws-to-spy-on-foreign-terrorists-to-spy-on-you/)
