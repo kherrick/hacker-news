@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 21:37:36](https://news.ycombinator.com/item?id=31699624) - [Group of white and Asian parents sue BPS over exam school admissions policy](https://www.bostonherald.com/2022/06/08/group-of-white-and-asian-parents-sue-bps-over-exam-school-admissions-policy/)
 * [2022-06-10, 21:17:45](https://news.ycombinator.com/item?id=31699468) - [AI Could Defeat All of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)
 * [2022-06-10, 20:29:38](https://news.ycombinator.com/item?id=31699032) - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
 * [2022-06-10, 20:11:13](https://news.ycombinator.com/item?id=31698870) - [Ultra-Rare Cosmic object was just detected in the Milky Way](https://list23.com/898121-according-to-the-astronomers-report-an-ultra-rare-cosmic-object-was-just-detected-in-the-milky-way/)
