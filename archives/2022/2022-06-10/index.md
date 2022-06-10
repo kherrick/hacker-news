@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-10](index.md)
 
+* [2022-06-10, 17:35:29](https://news.ycombinator.com/item?id=31697128) - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
+* [2022-06-10, 17:26:10](https://news.ycombinator.com/item?id=31697029) - [Vladimir Putin, in speech, hints at further territorial expansion for Russia](https://www.smh.com.au/world/europe/vladimir-putin-in-speech-hints-at-further-territorial-expansion-for-russia-20220610-p5asq0.html)
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [Petzold's “Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport Is Hiring Engineers in Chicago](https://flexport.com)
 * [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Dartnell on getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
@@ -14,6 +16,7 @@
 * [2022-06-10, 15:44:31](https://news.ycombinator.com/item?id=31695743) - [Where do you post your writing?](https://news.ycombinator.com/item?id=31695743)
 * [2022-06-10, 15:26:34](https://news.ycombinator.com/item?id=31695483) - [Artificial neural networks are making strides towards consciousness](https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
+* [2022-06-10, 15:07:18](https://news.ycombinator.com/item?id=31695230) - [New ‘Absurdly Fast’ Algorithm for Network Flow Discovered](https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/?mc_cid=ba71006639&mc_eid=15ef2fd406)
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
 * [2022-06-10, 14:39:00](https://news.ycombinator.com/item?id=31694844) - [“Pacman” Hack Can Break Apple M1’s Last Line of Defense](https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense)
