@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-10, 13:30:17",
+      "https://news.ycombinator.com/item?id=31693896"
+    ],
+    [
+      "The Yield Curve as a Leading Indicator",
+      "https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 13:24:53",
+      "https://news.ycombinator.com/item?id=31693830"
+    ],
+    [
+      "Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings",
+      "https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 13:03:01",
       "https://news.ycombinator.com/item?id=31693490"
     ],
@@ -217,26 +237,6 @@
     [
       "From Python to NumPy (2017)",
       "https://www.labri.fr/perso/nrougier/from-python-to-numpy/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 22:29:42",
-      "https://news.ycombinator.com/item?id=31687782"
-    ],
-    [
-      "Important PostgreSQL 14 update to avoid silent corruption of indexes",
-      "https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 21:50:07",
-      "https://news.ycombinator.com/item?id=31687378"
-    ],
-    [
-      "Why software engineers like woodworking",
-      "https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/"
     ]
   ],
   [
