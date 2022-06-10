@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-10, 03:07:06",
-      "https://news.ycombinator.com/item?id=31689505"
+      "2022-06-10, 03:02:50",
+      "https://news.ycombinator.com/item?id=31689487"
     ],
     [
-      "This is a valid domain name (remove www)",
-      "http://www.ai"
+      "I Don't Like Medium",
+      "https://www.sdgluck.com/i-dont-like-medium/"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 02:40:17",
+      "https://news.ycombinator.com/item?id=31689367"
+    ],
+    [
+      "You need to know what right-half-plane zeros are",
+      "https://jbconsulting.substack.com/p/you-need-to-know-what-right-half"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2022-06-09, 11:13:26",
-      "https://news.ycombinator.com/item?id=31679786"
+      "2022-06-09, 10:42:47",
+      "https://news.ycombinator.com/item?id=31679610"
     ],
     [
-      "Dataloop’s information extraction tool",
-      "https://dataloop.ai/blog/dataloops-information-extraction-tool/"
+      "What makes a good research proposal?",
+      "https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Valetudo: Open-source cloud replacement for vacuum robots",
       "https://valetudo.cloud/"
-    ]
-  ],
-  [
-    [
-      "2022-06-08, 10:23:51",
-      "https://news.ycombinator.com/item?id=31665349"
-    ],
-    [
-      "Experiments for Young Engineers and Scientists",
-      "https://expeyes.in/"
     ]
   ]
 ]
