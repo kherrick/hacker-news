@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-10, 13:03:01",
+      "https://news.ycombinator.com/item?id=31693490"
+    ],
+    [
+      "MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips",
+      "https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/"
+    ]
+  ],
+  [
+    [
       "2022-06-10, 12:47:23",
       "https://news.ycombinator.com/item?id=31693314"
     ],
@@ -17,16 +27,6 @@
     [
       "uBlacklist – Block specific sites from appearing in Google search results",
       "https://github.com/iorate/ublacklist"
-    ]
-  ],
-  [
-    [
-      "2022-06-10, 12:35:39",
-      "https://news.ycombinator.com/item?id=31693172"
-    ],
-    [
-      "U.S. inflation reached a new four-decade high of 8.6% in May",
-      "https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2022-11654810079"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31692454"
     ],
     [
-      "Try Resident Evil Village in the browser through Stadia",
+      "Resident Evil Village in the browser through Stadia",
       "https://play.cid.capcom.com/top.html"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "New ultra-stealthy Linux backdoor isn’t your everyday malware discovery",
       "https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 09:57:32",
+      "https://news.ycombinator.com/item?id=31692011"
+    ],
+    [
+      "OpenBSD 7.1 on PINE64 RockPro64",
+      "https://bsandro.tech/posts/openbsd-7.1-on-pine64-rockpro64/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-06-09, 22:55:09",
-      "https://news.ycombinator.com/item?id=31687990"
-    ],
-    [
-      "Quantum chip takes microseconds to do task that takes a supercomputer 9k years",
-      "https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/"
-    ]
-  ],
-  [
-    [
       "2022-06-09, 22:29:42",
       "https://news.ycombinator.com/item?id=31687782"
     ],
@@ -237,16 +237,6 @@
     [
       "Why software engineers like woodworking",
       "https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/"
-    ]
-  ],
-  [
-    [
-      "2022-06-09, 19:30:06",
-      "https://news.ycombinator.com/item?id=31685700"
-    ],
-    [
-      "Procedural Tree Generator",
-      "https://simblob.blogspot.com/2022/06/procedural-tree-generator.html"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-06-09, 04:16:24",
-      "https://news.ycombinator.com/item?id=31677483"
+      "2022-06-09, 06:10:27",
+      "https://news.ycombinator.com/item?id=31678045"
     ],
     [
-      "Women and the History of Samuel Pepys's Diary",
-      "https://www.cambridge.org/core/journals/historical-journal/article/women-and-the-history-of-samuel-pepyss-diary/8470046189D88A8805F8B1ACC886475F"
+      "Xbox 360 Architecture",
+      "https://www.copetti.org/writings/consoles/xbox-360/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Brief History of Frankincense",
       "https://www.laphamsquarterly.org/roundtable/brief-history-frankincense"
+    ]
+  ],
+  [
+    [
+      "2022-06-08, 14:30:30",
+      "https://news.ycombinator.com/item?id=31667902"
+    ],
+    [
+      "Dont think of price, think of cost per use",
+      "https://sergionajera.com/dont-think-of-price-think-of-cost-per-use"
     ]
   ]
 ]
