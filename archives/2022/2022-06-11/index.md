@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 18:28:18](https://news.ycombinator.com/item?id=31706835) - [Ask HN: Is there a TV on the market without “Smart TV” features?](https://news.ycombinator.com/item?id=31706835)
 * [2022-06-11, 18:00:43](https://news.ycombinator.com/item?id=31706561) - [On the myth versus reality of 10x engineers](https://www.benkuhn.net/10x/)
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
 * [2022-06-11, 17:27:01](https://news.ycombinator.com/item?id=31706241) - [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
