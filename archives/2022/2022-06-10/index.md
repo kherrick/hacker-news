@@ -75,6 +75,7 @@
 * [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
 * [2022-06-10, 02:40:04](https://news.ycombinator.com/item?id=31689366) - [Apple M2 Die Shot and Architecture Analysis – Big Cost Increase and A15 Based IP](https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture)
+* [2022-06-10, 02:21:44](https://news.ycombinator.com/item?id=31689279) - [The Book of Record of the Time Capsule of Cupaloy (1939)](https://en.wikisource.org/wiki/Book_of_Record_of_the_Time_Capsule_of_Cupaloy)
 * [2022-06-10, 01:44:04](https://news.ycombinator.com/item?id=31689046) - [FCC Proposes Record $34,000 Fine for Unauthorized Transmissions During Wildfire](https://www.arrl.org/news/fcc-proposes-record-34-000-fine-for-alleged-interference-and-unauthorized-transmissions-during-idaho)
 * [2022-06-10, 00:39:27](https://news.ycombinator.com/item?id=31688701) - [Ways that animals perceive the world](https://www.newyorker.com/magazine/2022/06/13/the-strange-and-secret-ways-that-animals-perceive-the-world-ed-yong-immense-world-tom-mustill-how-to-speak-whale)
 * [2022-06-10, 00:35:35](https://news.ycombinator.com/item?id=31688667) - [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
