@@ -24,11 +24,11 @@
 * [2022-06-11, 09:27:40](https://news.ycombinator.com/item?id=31703151) - [A British garden's rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
 * [2022-06-11, 08:32:16](https://news.ycombinator.com/item?id=31702913) - [OpenSMTPD](https://www.opensmtpd.org/)
 * [2022-06-11, 07:14:29](https://news.ycombinator.com/item?id=31702619) - [Industrial IoT: Realtime remote control of smart factory between Korea, Finland](https://techxplore.com/news/2022-06-industrial-internet-real-time-remote-smart.html)
-* [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Network DDoS](https://status.torproject.org/issues/2022-06-09-network-ddos/)
-* [2022-06-11, 07:01:42](https://news.ycombinator.com/item?id=31702571) - [Worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
 * [2022-06-11, 05:10:18](https://news.ycombinator.com/item?id=31702105) - [The Birth and Death of the Office](https://www.historytoday.com/archive/history-matters/birth-and-death-office)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
+* [2022-06-10, 21:02:24](https://news.ycombinator.com/item?id=31699336) - [The Rut Principle](https://www.raptitude.com/2022/06/the-rut-principle/)
 * [2022-06-10, 18:32:21](https://news.ycombinator.com/item?id=31697757) - [Can a biologist fix a radio? Or, what I learned while studying apoptosis (2002)](https://www.cell.com/action/showPdf?pii=S1535-6108%2802%2900133-2)
+* [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [“Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 
 ## [Archives](archives/index.md)
