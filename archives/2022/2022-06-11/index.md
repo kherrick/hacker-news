@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 08:45:33](https://news.ycombinator.com/item?id=31702964) - [Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation](https://www.google.com/url?q=https://www.theguardian.com/business/2022/jun/10/apple-and-google-mobile-browser-stranglehold-may-face-uk-investigation&sa=U&ved=2ahUKEwjpu-2CgaX4AhVUiVwKHYjGAhUQFnoECAkQAg&usg=AOvVaw1-wQKzIpZQ_Q-hrV5PNKha)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 * [2022-06-11, 04:52:16](https://news.ycombinator.com/item?id=31702033) - [Colleges create AI to identify hate speech, finds minorities are worst offenders](https://pluralist.com/ai-censorship-cornell-study/)
 * [2022-06-11, 04:04:49](https://news.ycombinator.com/item?id=31701815) - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 08:45:33](https://news.ycombinator.com/item?id=31702964) - [Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation](https://www.google.com/url?q=https://www.theguardian.com/business/2022/jun/10/apple-and-google-mobile-browser-stranglehold-may-face-uk-investigation&sa=U&ved=2ahUKEwjpu-2CgaX4AhVUiVwKHYjGAhUQFnoECAkQAg&usg=AOvVaw1-wQKzIpZQ_Q-hrV5PNKha)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 * [2022-06-11, 03:49:26](https://news.ycombinator.com/item?id=31701747) - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
@@ -18,7 +19,6 @@
 * [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
 * [2022-06-10, 16:39:51](https://news.ycombinator.com/item?id=31696447) - [Ask HN: How are you dealing with the M1/ARM migration?](https://news.ycombinator.com/item?id=31696447)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
-* [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-10, 04:39:27](https://news.ycombinator.com/item?id=31690109) - [“Hamlet” by T. S. Eliot (1919)](https://www.poetryfoundation.org/articles/69399/hamlet)
 * [2022-06-10, 02:40:04](https://news.ycombinator.com/item?id=31689366) - [Apple M2 Die Shot and Architecture Analysis – Big Cost Increase and A15 Based IP](https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture)
