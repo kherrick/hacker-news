@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 17:27:01](https://news.ycombinator.com/item?id=31706241) - [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
 * [2022-06-11, 17:20:46](https://news.ycombinator.com/item?id=31706187) - [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
 * [2022-06-11, 17:04:56](https://news.ycombinator.com/item?id=31706051) - [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
 * [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
@@ -17,7 +18,6 @@
 * [2022-06-11, 14:09:06](https://news.ycombinator.com/item?id=31704534) - [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)
 * [2022-06-11, 13:57:32](https://news.ycombinator.com/item?id=31704455) - [Learn ML through live team competitions, not lectures](https://delta-academy.xyz)
 * [2022-06-11, 13:50:08](https://news.ycombinator.com/item?id=31704399) - [Taiwan to Deploy ‘Bee Eye’ Radars Near Chinese Mainland](https://www.thedefensepost.com/2022/06/10/taiwan-bee-eye-radars-china/)
-* [2022-06-11, 12:06:53](https://news.ycombinator.com/item?id=31703877) - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
 * [2022-06-11, 09:27:40](https://news.ycombinator.com/item?id=31703151) - [A British garden's rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
 * [2022-06-11, 08:33:40](https://news.ycombinator.com/item?id=31702922) - [I turned down $500k, pissed off my investors, and shut down my startup (2016)](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/)
 * [2022-06-11, 08:32:16](https://news.ycombinator.com/item?id=31702913) - [OpenSMTPD](https://www.opensmtpd.org/)
