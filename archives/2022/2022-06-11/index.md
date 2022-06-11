@@ -11,6 +11,7 @@
 * [2022-06-11, 18:57:38](https://news.ycombinator.com/item?id=31707134) - [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
 * [2022-06-11, 18:48:25](https://news.ycombinator.com/item?id=31707040) - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
 * [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
+* [2022-06-11, 18:28:48](https://news.ycombinator.com/item?id=31706842) - [WT.Social](https://wt.social/about)
 * [2022-06-11, 18:28:18](https://news.ycombinator.com/item?id=31706835) - [Ask HN: Is there a TV on the market without “Smart TV” features?](https://news.ycombinator.com/item?id=31706835)
 * [2022-06-11, 18:00:43](https://news.ycombinator.com/item?id=31706561) - [On the myth versus reality of 10x engineers](https://www.benkuhn.net/10x/)
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
