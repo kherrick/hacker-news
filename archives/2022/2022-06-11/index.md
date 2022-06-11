@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 22:08:39](https://news.ycombinator.com/item?id=31708930) - [I will no longer engage in philosophical discussions about conscious AI](https://twitter.com/GiadaPistilli/status/1530136739959951361)
 * [2022-06-11, 21:02:16](https://news.ycombinator.com/item?id=31708366) - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
 * [2022-06-11, 19:24:11](https://news.ycombinator.com/item?id=31707411) - [Tesla: Designing autopilot program to shut off less than a second before impact](https://twitter.com/muttgomery/status/1535353454905917446)
 * [2022-06-11, 19:17:28](https://news.ycombinator.com/item?id=31707349) - [Tell HN: My wife was banned from WhatsApp without reason or recourse](https://news.ycombinator.com/item?id=31707349)
@@ -20,6 +21,7 @@
 * [2022-06-11, 17:04:56](https://news.ycombinator.com/item?id=31706051) - [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
 * [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
+* [2022-06-11, 16:22:17](https://news.ycombinator.com/item?id=31705667) - [Examples of Barbell Strategies](https://www.dwarkeshpatel.com/p/barbell-strategies)
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 * [2022-06-11, 16:00:28](https://news.ycombinator.com/item?id=31705484) - [A query database collection for use with laravel pipeline](https://github.com/l3aro/pipeline-query-collection)
