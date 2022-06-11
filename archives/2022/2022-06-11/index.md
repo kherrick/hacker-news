@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
 * [2022-06-11, 13:56:25](https://news.ycombinator.com/item?id=31704448) - [Hollywood Can't Remember How to Make Movies Anymore](https://www.welltechnically.news/p/hollywood-cant-remember-how-to-make-movies)
+* [2022-06-11, 13:44:18](https://news.ycombinator.com/item?id=31704361) - [Geico ordered to pay woman $5.2M after she contracted STD in a car](https://www.cnn.com/2022/06/09/us/geico-insurance-std-settlement-missouri/index.html)
 * [2022-06-11, 13:15:10](https://news.ycombinator.com/item?id=31704218) - [Silicon Valley braces for the good times to end](https://www.cnn.com/2022/06/09/tech/tech-downturn/index.html)
 * [2022-06-11, 12:47:30](https://news.ycombinator.com/item?id=31704063) - [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+* [2022-06-11, 12:20:31](https://news.ycombinator.com/item?id=31703939) - [Drop that fork Why eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
 * [2022-06-11, 12:06:53](https://news.ycombinator.com/item?id=31703877) - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
 * [2022-06-11, 12:00:11](https://news.ycombinator.com/item?id=31703846) - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
 * [2022-06-11, 11:51:04](https://news.ycombinator.com/item?id=31703803) - [Bye Bye Semantic Versioning, Say Hello to GitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
@@ -29,6 +31,7 @@
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 * [2022-06-11, 02:05:02](https://news.ycombinator.com/item?id=31701319) - [Bizarre Drone Swarms That Harassed Navy Ships Demystified in New Docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
 * [2022-06-11, 01:58:24](https://news.ycombinator.com/item?id=31701286) - [Making $10k a Year on Substack](https://caseybotticello.com/substack-income-report-march-2022/)
+* [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
 * [2022-06-11, 00:23:46](https://news.ycombinator.com/item?id=31700786) - [An Evidence-Based Guide to Reversing Caffeine Tolerance](https://lfbiohacking.squarespace.com/blog/an-evidence-based-guide-on-reversing-caffeine-tolerance)
 * [2022-06-11, 00:11:55](https://news.ycombinator.com/item?id=31700732) - [The DJB Legacy (2011)](https://skarnet.org/software/skalibs/djblegacy.html)
 * [2022-06-11, 00:07:53](https://news.ycombinator.com/item?id=31700704) - [L.A.'s coast was once a DDT dumping ground](https://www.latimes.com/projects/la-coast-ddt-dumping-ground/)
