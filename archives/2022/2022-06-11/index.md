@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
+* [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 * [2022-06-11, 15:51:20](https://news.ycombinator.com/item?id=31705405) - [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
 * [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
+* [2022-06-11, 15:18:05](https://news.ycombinator.com/item?id=31705099) - [Ask HN: Would you be interested in POM generator for Selenium?](https://news.ycombinator.com/item?id=31705099)
+* [2022-06-11, 14:54:19](https://news.ycombinator.com/item?id=31704864) - [The Zen Playboy the Life and Times of Stewart Brand](https://www.thenation.com/article/society/stewart-brand-whole-earth/)
+* [2022-06-11, 14:48:57](https://news.ycombinator.com/item?id=31704824) - [The Linux kernel can spawn processes on its own](https://www.uninformativ.de/blog/postings/2022-06-11/0/POSTING-en.html)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 14:43:18](https://news.ycombinator.com/item?id=31704782) - [Trump’s Truth Social Is Banning Users Who Post About Jan. 6 Hearings](https://variety.com/2022/digital/news/trumps-truth-social-is-banning-users-who-post-about-jan-6-hearings-according-to-reports-1235290726/)
 * [2022-06-11, 14:09:06](https://news.ycombinator.com/item?id=31704534) - [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)

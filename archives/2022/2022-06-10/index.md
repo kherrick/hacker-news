@@ -16,6 +16,7 @@
 * [2022-06-10, 19:03:54](https://news.ycombinator.com/item?id=31698148) - [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
 * [2022-06-10, 19:02:14](https://news.ycombinator.com/item?id=31698127) - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 * [2022-06-10, 18:58:11](https://news.ycombinator.com/item?id=31698077) - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
+* [2022-06-10, 18:32:21](https://news.ycombinator.com/item?id=31697757) - [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/action/showPdf?pii=S1535-6108%2802%2900133-2)
 * [2022-06-10, 18:21:23](https://news.ycombinator.com/item?id=31697636) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2022-06-10, 17:50:54](https://news.ycombinator.com/item?id=31697296) - [TBD Web5](https://developer.tbd.website/projects/web5/)
 * [2022-06-10, 17:35:29](https://news.ycombinator.com/item?id=31697128) - [Arduino raises $32m Series B round](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
