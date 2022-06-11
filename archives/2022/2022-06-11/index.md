@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
+* [2022-06-11, 18:48:25](https://news.ycombinator.com/item?id=31707040) - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
+* [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
 * [2022-06-11, 18:28:18](https://news.ycombinator.com/item?id=31706835) - [Ask HN: Is there a TV on the market without “Smart TV” features?](https://news.ycombinator.com/item?id=31706835)
 * [2022-06-11, 18:00:43](https://news.ycombinator.com/item?id=31706561) - [On the myth versus reality of 10x engineers](https://www.benkuhn.net/10x/)
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
@@ -45,6 +48,7 @@
 * [2022-06-11, 08:33:40](https://news.ycombinator.com/item?id=31702922) - [I turned down $500K, Pissed off my investors, and Shut down my startup](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/)
 * [2022-06-11, 08:32:16](https://news.ycombinator.com/item?id=31702913) - [OpenSMTPD](https://www.opensmtpd.org/)
 * [2022-06-11, 08:11:58](https://news.ycombinator.com/item?id=31702825) - [MIT Ends Elsevier Negotiations (2020)](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
+* [2022-06-11, 07:14:29](https://news.ycombinator.com/item?id=31702619) - [Industrial IoT: Realtime remote control of smart factory between Korea, Finland](https://techxplore.com/news/2022-06-industrial-internet-real-time-remote-smart.html)
 * [2022-06-11, 07:07:47](https://news.ycombinator.com/item?id=31702594) - [Tell HN: Bitwarden does not export attachments in backups](https://news.ycombinator.com/item?id=31702594)
 * [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Ongoing network-wide DDoS of the Tor Network impacting its performance](https://status.torproject.org/issues/2022-06-09-network-ddos/)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
