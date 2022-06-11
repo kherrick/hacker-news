@@ -6,6 +6,7 @@
 
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
 * [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+* [2022-06-11, 15:51:20](https://news.ycombinator.com/item?id=31705405) - [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
 * [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)

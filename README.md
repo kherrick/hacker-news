@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
-* [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+* [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How big tech runs tech projects and the curious absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+* [2022-06-11, 15:51:20](https://news.ycombinator.com/item?id=31705405) - [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
 * [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
@@ -23,7 +24,6 @@
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [“Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 15:06:38](https://news.ycombinator.com/item?id=31695218) - [A dispatch from the end of travel’s brief, troubled golden age (2021)](https://aeon.co/essays/a-dispatch-from-the-end-of-travels-brief-troubled-golden-age)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
-* [2022-06-10, 02:40:04](https://news.ycombinator.com/item?id=31689366) - [Apple M2 Die Shot and Architecture Analysis – Big Cost Increase and A15 Based IP](https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture)
 * [2022-06-10, 02:21:44](https://news.ycombinator.com/item?id=31689279) - [The Book of Record of the Time Capsule of Cupaloy (1939)](https://en.wikisource.org/wiki/Book_of_Record_of_the_Time_Capsule_of_Cupaloy)
 * [2022-06-09, 22:57:17](https://news.ycombinator.com/item?id=31688014) - [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
 * [2022-06-09, 10:32:58](https://news.ycombinator.com/item?id=31679550) - [Rising from the Ashes: Stage Manager](https://techreflect.net/2022/06/08/rising-from-the-ashes-stage-manager/)
