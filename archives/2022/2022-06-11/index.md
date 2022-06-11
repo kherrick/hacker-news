@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
+* [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 14:43:18](https://news.ycombinator.com/item?id=31704782) - [Trump’s Truth Social Is Banning Users Who Post About Jan. 6 Hearings](https://variety.com/2022/digital/news/trumps-truth-social-is-banning-users-who-post-about-jan-6-hearings-according-to-reports-1235290726/)
 * [2022-06-11, 13:57:57](https://news.ycombinator.com/item?id=31704458) - [Transparent stairs: what happens when no-one on the design team wears skirts](https://twitter.com/coereba/status/1534897063179128833)
