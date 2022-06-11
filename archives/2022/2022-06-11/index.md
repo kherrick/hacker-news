@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 21:02:16](https://news.ycombinator.com/item?id=31708366) - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
 * [2022-06-11, 19:24:11](https://news.ycombinator.com/item?id=31707411) - [Tesla: Designing autopilot program to shut off less than a second before impact](https://twitter.com/muttgomery/status/1535353454905917446)
 * [2022-06-11, 19:17:28](https://news.ycombinator.com/item?id=31707349) - [Tell HN: My wife was banned from WhatsApp without reason or recourse](https://news.ycombinator.com/item?id=31707349)
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
