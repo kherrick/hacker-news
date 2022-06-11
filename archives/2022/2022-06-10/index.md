@@ -71,6 +71,7 @@
 * [2022-06-10, 03:47:06](https://news.ycombinator.com/item?id=31689785) - [Chinese students at Cornell “taunt” Uyghur classmate](https://www.axios.com/2022/03/15/chinese-students-cornell-taunt-uyghur-classmate)
 * [2022-06-10, 03:07:06](https://news.ycombinator.com/item?id=31689505) - [This is a valid domain name (remove www)](http://www.ai)
 * [2022-06-10, 03:02:50](https://news.ycombinator.com/item?id=31689487) - [I Don't Like Medium](https://www.sdgluck.com/i-dont-like-medium/)
+* [2022-06-10, 02:52:26](https://news.ycombinator.com/item?id=31689428) - [The Begging Song of Grand Mamou](https://oxfordamerican.org/magazine/issue-117-summer-2022/the-begging-song-of-grand-mamou?token=e3199b86b5738359d333d05fe4ead3b50383c3e7)
 * [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 * [2022-06-10, 02:40:17](https://news.ycombinator.com/item?id=31689367) - [You need to know what right-half-plane zeros are](https://jbconsulting.substack.com/p/you-need-to-know-what-right-half)
 * [2022-06-10, 02:40:04](https://news.ycombinator.com/item?id=31689366) - [Apple M2 Die Shot and Architecture Analysis – Big Cost Increase and A15 Based IP](https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture)
