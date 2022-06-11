@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 23:13:47](https://news.ycombinator.com/item?id=31709394) - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 * [2022-06-11, 21:18:13](https://news.ycombinator.com/item?id=31708519) - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
 * [2022-06-11, 21:12:23](https://news.ycombinator.com/item?id=31708461) - [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
@@ -14,7 +15,6 @@
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
 * [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
-* [2022-06-11, 16:22:17](https://news.ycombinator.com/item?id=31705667) - [Examples of Barbell Strategies](https://www.dwarkeshpatel.com/p/barbell-strategies)
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2022-06-11, 16:00:28](https://news.ycombinator.com/item?id=31705484) - [A query database collection for use with laravel pipeline](https://github.com/l3aro/pipeline-query-collection)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)

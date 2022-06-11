@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 23:13:47](https://news.ycombinator.com/item?id=31709394) - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
 * [2022-06-11, 22:08:39](https://news.ycombinator.com/item?id=31708930) - [I will no longer engage in philosophical discussions about conscious AI](https://twitter.com/GiadaPistilli/status/1530136739959951361)
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 * [2022-06-11, 21:18:13](https://news.ycombinator.com/item?id=31708519) - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
