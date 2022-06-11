@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 17:20:46](https://news.ycombinator.com/item?id=31706187) - [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
+* [2022-06-11, 17:04:56](https://news.ycombinator.com/item?id=31706051) - [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
 * [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
@@ -27,8 +29,6 @@
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [“Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-09, 22:57:17](https://news.ycombinator.com/item?id=31688014) - [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
-* [2022-06-09, 10:32:58](https://news.ycombinator.com/item?id=31679550) - [Rising from the Ashes: Stage Manager](https://techreflect.net/2022/06/08/rising-from-the-ashes-stage-manager/)
-* [2022-06-09, 08:18:10](https://news.ycombinator.com/item?id=31678793) - [How I finally get daily journaling done with a workflow on my iPhone](https://michael.team/journal/)
 * [2022-06-09, 07:22:23](https://news.ycombinator.com/item?id=31678431) - [Enormous ‘rogue waves’ can appear out of nowhere](https://www.nationalgeographic.com/science/article/mathematicians-may-soon-be-able-to-predict-enormous-rogue-waves)
 
 ## [Archives](archives/index.md)
