@@ -45,6 +45,7 @@
 * [2022-06-09, 15:18:12](https://news.ycombinator.com/item?id=31682303) - [The Collapse of Complex Software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 * [2022-06-09, 14:42:23](https://news.ycombinator.com/item?id=31681787) - [Shotcut is a free, open-source, cross-platform video editor](https://shotcut.org/)
 * [2022-06-09, 14:22:16](https://news.ycombinator.com/item?id=31681515) - [Strlen() slowed loading times in GTA 5 by 70% (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+* [2022-06-09, 14:12:18](https://news.ycombinator.com/item?id=31681378) - [Keep Your Experiments Separate](https://jessitron.com/2022/06/07/keep-your-experiments-separate/)
 * [2022-06-09, 14:11:53](https://news.ycombinator.com/item?id=31681373) - [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 * [2022-06-09, 14:02:09](https://news.ycombinator.com/item?id=31681234) - [Ask HN: I miss Usenet. Are there any modern equivalents?](https://news.ycombinator.com/item?id=31681234)
 * [2022-06-09, 13:43:20](https://news.ycombinator.com/item?id=31681030) - [Mark Cuban's Cost Plus Drugs](https://costplusdrugs.com/faq/)
