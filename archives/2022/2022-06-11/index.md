@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 14:43:18](https://news.ycombinator.com/item?id=31704782) - [Trump’s Truth Social Is Banning Users Who Post About Jan. 6 Hearings](https://variety.com/2022/digital/news/trumps-truth-social-is-banning-users-who-post-about-jan-6-hearings-according-to-reports-1235290726/)
 * [2022-06-11, 13:57:57](https://news.ycombinator.com/item?id=31704458) - [Transparent stairs: what happens when no-one on the design team wears skirts](https://twitter.com/coereba/status/1534897063179128833)
 * [2022-06-11, 13:56:25](https://news.ycombinator.com/item?id=31704448) - [Hollywood Can't Remember How to Make Movies Anymore](https://www.welltechnically.news/p/hollywood-cant-remember-how-to-make-movies)
