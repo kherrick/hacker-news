@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
 * [2022-06-11, 17:27:01](https://news.ycombinator.com/item?id=31706241) - [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
 * [2022-06-11, 17:20:46](https://news.ycombinator.com/item?id=31706187) - [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
 * [2022-06-11, 17:04:56](https://news.ycombinator.com/item?id=31706051) - [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)

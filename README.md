@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
 * [2022-06-11, 17:27:01](https://news.ycombinator.com/item?id=31706241) - [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
 * [2022-06-11, 17:20:46](https://news.ycombinator.com/item?id=31706187) - [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
 * [2022-06-11, 17:04:56](https://news.ycombinator.com/item?id=31706051) - [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
@@ -7,7 +8,6 @@
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How big tech runs tech projects and the curious absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
-* [2022-06-11, 15:51:20](https://news.ycombinator.com/item?id=31705405) - [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
 * [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
