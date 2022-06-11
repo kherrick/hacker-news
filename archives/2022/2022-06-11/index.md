@@ -10,6 +10,7 @@
 * [2022-06-11, 09:15:08](https://news.ycombinator.com/item?id=31703087) - [A Facebook crawler was making 7M requests per day to my stupid website (2020)](https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/)
 * [2022-06-11, 08:45:33](https://news.ycombinator.com/item?id=31702964) - [Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation](https://www.google.com/url?q=https://www.theguardian.com/business/2022/jun/10/apple-and-google-mobile-browser-stranglehold-may-face-uk-investigation&sa=U&ved=2ahUKEwjpu-2CgaX4AhVUiVwKHYjGAhUQFnoECAkQAg&usg=AOvVaw1-wQKzIpZQ_Q-hrV5PNKha)
 * [2022-06-11, 08:33:40](https://news.ycombinator.com/item?id=31702922) - [I turned down $500K, Pissed off my investors, and Shut down my startup](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/)
+* [2022-06-11, 08:32:16](https://news.ycombinator.com/item?id=31702913) - [OpenSMTPD](https://www.opensmtpd.org/)
 * [2022-06-11, 08:11:58](https://news.ycombinator.com/item?id=31702825) - [MIT Ends Elsevier Negotiations (2020)](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [2022-06-11, 07:07:47](https://news.ycombinator.com/item?id=31702594) - [Tell HN: Bitwarden does not export attachments in backups](https://news.ycombinator.com/item?id=31702594)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
