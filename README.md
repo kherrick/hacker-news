@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 03:49:26](https://news.ycombinator.com/item?id=31701747) - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 * [2022-06-11, 02:05:02](https://news.ycombinator.com/item?id=31701319) - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
 * [2022-06-11, 00:11:55](https://news.ycombinator.com/item?id=31700732) - [The DJB Legacy (2011)](https://skarnet.org/software/skalibs/djblegacy.html)
@@ -20,7 +21,6 @@
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
 * [2022-06-10, 14:39:06](https://news.ycombinator.com/item?id=31694849) - [Write HTML Right](http://lofi.limo/blog/write-html-right)
 * [2022-06-10, 13:56:57](https://news.ycombinator.com/item?id=31694283) - [Not just a fence: The story of a stainless steel status symbol](https://www.nytimes.com/2022/06/10/realestate/nyc-asian-fence-status.html)
-* [2022-06-10, 13:30:17](https://news.ycombinator.com/item?id=31693896) - [The yield curve as a leading indicator](https://www.newyorkfed.org/research/capital_markets/ycfaq#/interactive)
 * [2022-06-10, 13:24:53](https://news.ycombinator.com/item?id=31693830) - [Microsoft will include pay ranges in all U.S. job postings](https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 * [2022-06-10, 04:39:27](https://news.ycombinator.com/item?id=31690109) - [“Hamlet” by T. S. Eliot (1919)](https://www.poetryfoundation.org/articles/69399/hamlet)
