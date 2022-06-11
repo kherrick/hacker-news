@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 12:00:11](https://news.ycombinator.com/item?id=31703846) - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
 * [2022-06-11, 10:20:10](https://news.ycombinator.com/item?id=31703394) - [Activists rally to save Internet Archive as lawsuit threatens site (2020)](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
 * [2022-06-11, 09:38:32](https://news.ycombinator.com/item?id=31703201) - [Nintendo Nemesis Max Louarn: Hacker, Rebel, and Wanted by the FBI](https://torrentfreak.com/nintendo-nemesis-max-louarn-hacker-rebel-and-wanted-by-the-fbi-220611/)
 * [2022-06-11, 09:27:40](https://news.ycombinator.com/item?id=31703151) - [A British garden's rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
