@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-11, 22:08:39](https://news.ycombinator.com/item?id=31708930) - [I will no longer engage in philosophical discussions about conscious AI](https://twitter.com/GiadaPistilli/status/1530136739959951361)
+* [2022-06-11, 21:02:16](https://news.ycombinator.com/item?id=31708366) - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
 * [2022-06-11, 18:57:38](https://news.ycombinator.com/item?id=31707134) - [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
 * [2022-06-11, 18:48:25](https://news.ycombinator.com/item?id=31707040) - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
