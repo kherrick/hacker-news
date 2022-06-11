@@ -6,6 +6,7 @@
 
 * [2022-06-10, 22:42:22](https://news.ycombinator.com/item?id=31700182) - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
 * [2022-06-10, 22:27:20](https://news.ycombinator.com/item?id=31700069) - [Cooperation protected Bitcoin during failures of decentralization](https://arxiv.org/abs/2206.02871)
+* [2022-06-10, 22:01:34](https://news.ycombinator.com/item?id=31699841) - [DALL-E Mini – Generate images from a text prompt](https://app.baseten.co/apps/RqgR9PV/operator_views/VBnA4qp)
 * [2022-06-10, 21:37:36](https://news.ycombinator.com/item?id=31699624) - [Group of white and Asian parents sue BPS over exam school admissions policy](https://www.bostonherald.com/2022/06/08/group-of-white-and-asian-parents-sue-bps-over-exam-school-admissions-policy/)
 * [2022-06-10, 21:17:45](https://news.ycombinator.com/item?id=31699468) - [AI Could Defeat All of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)
 * [2022-06-10, 20:29:38](https://news.ycombinator.com/item?id=31699032) - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
