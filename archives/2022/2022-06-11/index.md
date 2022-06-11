@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 13:56:25](https://news.ycombinator.com/item?id=31704448) - [Hollywood Can't Remember How to Make Movies Anymore](https://www.welltechnically.news/p/hollywood-cant-remember-how-to-make-movies)
+* [2022-06-11, 13:15:10](https://news.ycombinator.com/item?id=31704218) - [Silicon Valley braces for the good times to end](https://www.cnn.com/2022/06/09/tech/tech-downturn/index.html)
+* [2022-06-11, 12:47:30](https://news.ycombinator.com/item?id=31704063) - [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 * [2022-06-11, 12:06:53](https://news.ycombinator.com/item?id=31703877) - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
 * [2022-06-11, 12:00:11](https://news.ycombinator.com/item?id=31703846) - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
 * [2022-06-11, 11:51:04](https://news.ycombinator.com/item?id=31703803) - [Bye Bye Semantic Versioning, Say Hello to GitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
