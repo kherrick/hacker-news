@@ -6,8 +6,10 @@
 
 * [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
+* [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 14:43:18](https://news.ycombinator.com/item?id=31704782) - [Trump’s Truth Social Is Banning Users Who Post About Jan. 6 Hearings](https://variety.com/2022/digital/news/trumps-truth-social-is-banning-users-who-post-about-jan-6-hearings-according-to-reports-1235290726/)
+* [2022-06-11, 14:09:06](https://news.ycombinator.com/item?id=31704534) - [Explosion at US natural gas plant raises risk of shortages in Europe](https://www.theguardian.com/us-news/2022/jun/09/us-natural-gas-plant-explosion-freeport-lng-shortages-europe)
 * [2022-06-11, 13:57:57](https://news.ycombinator.com/item?id=31704458) - [Transparent stairs: what happens when no-one on the design team wears skirts](https://twitter.com/coereba/status/1534897063179128833)
 * [2022-06-11, 13:57:32](https://news.ycombinator.com/item?id=31704455) - [Learn ML through live team competitions, not lectures](https://delta-academy.xyz)
 * [2022-06-11, 13:56:25](https://news.ycombinator.com/item?id=31704448) - [Hollywood Can't Remember How to Make Movies Anymore](https://www.welltechnically.news/p/hollywood-cant-remember-how-to-make-movies)
