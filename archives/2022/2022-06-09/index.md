@@ -74,6 +74,7 @@
 * [2022-06-09, 07:48:03](https://news.ycombinator.com/item?id=31678607) - [Why I Killed My Startup](https://k1nz.substack.com/p/why-i-killed-my-startup)
 * [2022-06-09, 07:40:51](https://news.ycombinator.com/item?id=31678574) - [Sámi Languages and Dialects (2015)](https://nordregio.org/maps/sami-languages-and-dialects/)
 * [2022-06-09, 07:25:19](https://news.ycombinator.com/item?id=31678464) - [When will Apple ship other M2 Macs?](https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/)
+* [2022-06-09, 07:22:23](https://news.ycombinator.com/item?id=31678431) - [Enormous ‘rogue waves’ can appear out of nowhere](https://www.nationalgeographic.com/science/article/mathematicians-may-soon-be-able-to-predict-enormous-rogue-waves)
 * [2022-06-09, 07:04:41](https://news.ycombinator.com/item?id=31678336) - [OpenBSD folklore and share/misc/airport](https://www.cambus.net/openbsd-folklore-and-share-misc-airport/)
 * [2022-06-09, 06:56:11](https://news.ycombinator.com/item?id=31678284) - [Dancing starling spectacle caused power cuts in Scottish village (2020)](https://www.bbc.com/news/uk-scotland-tayside-central-55334891)
 * [2022-06-09, 06:40:48](https://news.ycombinator.com/item?id=31678205) - [Show HN: Personal AI Writing Assistant for Mac](https://elephas.app)
