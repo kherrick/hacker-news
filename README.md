@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-11, 04:04:49](https://news.ycombinator.com/item?id=31701815) - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
 * [2022-06-11, 03:49:26](https://news.ycombinator.com/item?id=31701747) - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 * [2022-06-11, 02:05:02](https://news.ycombinator.com/item?id=31701319) - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
@@ -16,6 +15,7 @@
 * [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport (YC W14) is hiring engineers in Chicago](https://flexport.com)
 * [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
 * [2022-06-10, 16:39:51](https://news.ycombinator.com/item?id=31696447) - [Ask HN: How are you dealing with the M1/ARM migration?](https://news.ycombinator.com/item?id=31696447)
+* [2022-06-10, 16:23:28](https://news.ycombinator.com/item?id=31696235) - [Sup – A curses threads-with-tags style email client](https://sup-heliotrope.github.io/)
 * [2022-06-10, 15:54:56](https://news.ycombinator.com/item?id=31695881) - [New CRISPR-based map ties every human gene to its function](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609)
 * [2022-06-10, 15:26:11](https://news.ycombinator.com/item?id=31695476) - [Sunshine – an open-source gamestream server for Windows and Linux](https://github.com/loki-47-6F-64/sunshine)
 * [2022-06-10, 14:42:00](https://news.ycombinator.com/item?id=31694882) - [The Great Decentralization? Geographic shifts and where tech talent is moving](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/)
