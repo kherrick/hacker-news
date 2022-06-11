@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-11, 12:06:53",
+      "https://news.ycombinator.com/item?id=31703877"
+    ],
+    [
+      "Bringing Forward the End-of-Life Date for Node.js 16",
+      "https://nodejs.org/en/blog/announcements/nodejs16-eol/"
+    ]
+  ],
+  [
+    [
       "2022-06-11, 12:00:11",
       "https://news.ycombinator.com/item?id=31703846"
     ],
@@ -47,16 +57,6 @@
     [
       "A Facebook crawler was making 7M requests per day to my stupid website (2020)",
       "https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 08:45:33",
-      "https://news.ycombinator.com/item?id=31702964"
-    ],
-    [
-      "Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation",
-      "https://www.google.com/url?q=https://www.theguardian.com/business/2022/jun/10/apple-and-google-mobile-browser-stranglehold-may-face-uk-investigation&sa=U&ved=2ahUKEwjpu-2CgaX4AhVUiVwKHYjGAhUQFnoECAkQAg&usg=AOvVaw1-wQKzIpZQ_Q-hrV5PNKha"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-06-10, 19:35:40",
-      "https://news.ycombinator.com/item?id=31698503"
-    ],
-    [
-      "Data Race Patterns in Go",
-      "https://eng.uber.com/data-race-patterns-in-go/"
-    ]
-  ],
-  [
-    [
       "2022-06-10, 17:14:44",
       "https://news.ycombinator.com/item?id=31696901"
     ],
@@ -227,6 +217,16 @@
     [
       "Lessons from the golden age of the mall walkers",
       "https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking"
+    ]
+  ],
+  [
+    [
+      "2022-06-09, 22:56:45",
+      "https://news.ycombinator.com/item?id=31688009"
+    ],
+    [
+      "Forced Perspective: Sir William Jones gets lost in translation",
+      "https://www.laphamsquarterly.org/roundtable/forced-perspective"
     ]
   ],
   [
