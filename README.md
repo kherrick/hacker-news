@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-11, 19:17:28](https://news.ycombinator.com/item?id=31707349) - [Tell HN: My wife was banned from WhatsApp without reason or recourse](https://news.ycombinator.com/item?id=31707349)
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
 * [2022-06-11, 18:57:38](https://news.ycombinator.com/item?id=31707134) - [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
 * [2022-06-11, 18:48:25](https://news.ycombinator.com/item?id=31707040) - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
@@ -24,6 +23,7 @@
 * [2022-06-11, 09:27:40](https://news.ycombinator.com/item?id=31703151) - [A British garden's rainfall data 1988-2022 using copper rain gauge, notepad, pen](https://www.weatherbook.org/dash/3/averages)
 * [2022-06-11, 08:32:16](https://news.ycombinator.com/item?id=31702913) - [OpenSMTPD](https://www.opensmtpd.org/)
 * [2022-06-11, 07:14:29](https://news.ycombinator.com/item?id=31702619) - [Industrial IoT: Realtime remote control of smart factory between Korea, Finland](https://techxplore.com/news/2022-06-industrial-internet-real-time-remote-smart.html)
+* [2022-06-11, 07:07:47](https://news.ycombinator.com/item?id=31702594) - [Tell HN: Bitwarden does not export attachments in backups](https://news.ycombinator.com/item?id=31702594)
 * [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Network DDoS](https://status.torproject.org/issues/2022-06-09-network-ddos/)
 * [2022-06-11, 07:01:42](https://news.ycombinator.com/item?id=31702571) - [Worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
