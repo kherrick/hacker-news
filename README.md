@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 19:17:28](https://news.ycombinator.com/item?id=31707349) - [Tell HN: My wife was banned from WhatsApp without reason or recourse](https://news.ycombinator.com/item?id=31707349)
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
+* [2022-06-11, 18:57:38](https://news.ycombinator.com/item?id=31707134) - [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
 * [2022-06-11, 18:48:25](https://news.ycombinator.com/item?id=31707040) - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
 * [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
 * [2022-06-11, 18:28:18](https://news.ycombinator.com/item?id=31706835) - [Ask HN: Is there a TV on the market without “Smart TV” features?](https://news.ycombinator.com/item?id=31706835)
@@ -12,7 +14,6 @@
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How big tech runs tech projects and the curious absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
-* [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
 * [2022-06-11, 15:18:05](https://news.ycombinator.com/item?id=31705099) - [Ask HN: Would you be interested in POM generator for Selenium?](https://news.ycombinator.com/item?id=31705099)
 * [2022-06-11, 14:54:19](https://news.ycombinator.com/item?id=31704864) - [The Zen Playboy: The Life and Times of Stewart Brand](https://www.thenation.com/article/society/stewart-brand-whole-earth/)
 * [2022-06-11, 14:48:57](https://news.ycombinator.com/item?id=31704824) - [The Linux kernel can spawn processes on its own](https://www.uninformativ.de/blog/postings/2022-06-11/0/POSTING-en.html)
@@ -26,10 +27,9 @@
 * [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Network DDoS](https://status.torproject.org/issues/2022-06-09-network-ddos/)
 * [2022-06-11, 07:01:42](https://news.ycombinator.com/item?id=31702571) - [Worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
-* [2022-06-10, 18:32:21](https://news.ycombinator.com/item?id=31697757) - [Can a biologist fix a radio? Or, what I learned while studying apoptosis](https://www.cell.com/action/showPdf?pii=S1535-6108%2802%2900133-2)
+* [2022-06-10, 18:32:21](https://news.ycombinator.com/item?id=31697757) - [Can a biologist fix a radio? Or, what I learned while studying apoptosis (2002)](https://www.cell.com/action/showPdf?pii=S1535-6108%2802%2900133-2)
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [“Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
-* [2022-06-09, 07:22:23](https://news.ycombinator.com/item?id=31678431) - [Enormous ‘rogue waves’ can appear out of nowhere](https://www.nationalgeographic.com/science/article/mathematicians-may-soon-be-able-to-predict-enormous-rogue-waves)
 
 ## [Archives](archives/index.md)
 

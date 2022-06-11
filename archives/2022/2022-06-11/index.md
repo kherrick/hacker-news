@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 19:17:28](https://news.ycombinator.com/item?id=31707349) - [Tell HN: My wife was banned from WhatsApp without reason or recourse](https://news.ycombinator.com/item?id=31707349)
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
+* [2022-06-11, 18:57:38](https://news.ycombinator.com/item?id=31707134) - [Ask HN: How to remember technical topics which you don’t use/refer everyday?](https://news.ycombinator.com/item?id=31707134)
 * [2022-06-11, 18:48:25](https://news.ycombinator.com/item?id=31707040) - [Encouraging the NHS to build a small web service](https://news.ycombinator.com/item?id=31707040)
 * [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
 * [2022-06-11, 18:28:18](https://news.ycombinator.com/item?id=31706835) - [Ask HN: Is there a TV on the market without “Smart TV” features?](https://news.ycombinator.com/item?id=31706835)
