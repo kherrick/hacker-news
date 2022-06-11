@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-09](index.md)
 
+* [2022-06-09, 22:58:05](https://news.ycombinator.com/item?id=31688021) - [Camera Mortis: How photographs of the dead helped me mourn](https://yalereview.org/article/hamlyn-postmortem-grief)
 * [2022-06-09, 22:57:17](https://news.ycombinator.com/item?id=31688014) - [Lessons from the golden age of the mall walkers](https://www.bloomberg.com/news/features/2022-06-03/a-history-of-mall-walking)
 * [2022-06-09, 22:55:35](https://news.ycombinator.com/item?id=31687995) - [The People's Tramp](https://www.currentaffairs.org/2022/06/the-peoples-tramp/)
 * [2022-06-09, 22:55:09](https://news.ycombinator.com/item?id=31687990) - [Quantum chip takes microseconds to do task that takes a supercomputer 9k years](https://singularityhub.com/2022/06/07/a-photonic-quantum-device-took-microseconds-to-do-a-task-a-conventional-computer-would-spend-9000-years-on/)
