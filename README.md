@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 * [2022-06-11, 04:04:49](https://news.ycombinator.com/item?id=31701815) - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
 * [2022-06-11, 03:49:26](https://news.ycombinator.com/item?id=31701747) - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
-* [2022-06-11, 02:05:02](https://news.ycombinator.com/item?id=31701319) - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
 * [2022-06-11, 00:11:55](https://news.ycombinator.com/item?id=31700732) - [The DJB Legacy (2011)](https://skarnet.org/software/skalibs/djblegacy.html)
 * [2022-06-10, 22:42:22](https://news.ycombinator.com/item?id=31700182) - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
 * [2022-06-10, 22:27:20](https://news.ycombinator.com/item?id=31700069) - [Cooperation among an anonymous group protected Bitcoin during failures](https://arxiv.org/abs/2206.02871)
