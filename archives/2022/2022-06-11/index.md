@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 18:00:43](https://news.ycombinator.com/item?id=31706561) - [On the myth versus reality of 10x engineers](https://www.benkuhn.net/10x/)
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
 * [2022-06-11, 17:27:01](https://news.ycombinator.com/item?id=31706241) - [Podcast: Housing prices soar with rising inflation](https://www.npr.org/2022/06/11/1104368918/housing-prices-soar-with-rising-inflation)
 * [2022-06-11, 17:20:46](https://news.ycombinator.com/item?id=31706187) - [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
@@ -31,6 +32,7 @@
 * [2022-06-11, 12:47:30](https://news.ycombinator.com/item?id=31704063) - [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 * [2022-06-11, 12:20:31](https://news.ycombinator.com/item?id=31703939) - [Drop that fork Why eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
 * [2022-06-11, 12:06:53](https://news.ycombinator.com/item?id=31703877) - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
+* [2022-06-11, 12:06:19](https://news.ycombinator.com/item?id=31703874) - [The Winamp Skin Museum is powered by a sqlite3 database with 1.2gb of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
 * [2022-06-11, 12:00:11](https://news.ycombinator.com/item?id=31703846) - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
 * [2022-06-11, 11:51:04](https://news.ycombinator.com/item?id=31703803) - [Bye Bye Semantic Versioning, Say Hello to GitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
 * [2022-06-11, 11:23:18](https://news.ycombinator.com/item?id=31703675) - [No wait stop it matters how you raise your kids](https://wyclif.substack.com/p/no-wait-stop-it-matters-how-you-raise)
