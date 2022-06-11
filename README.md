@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-11, 04:04:49](https://news.ycombinator.com/item?id=31701815) - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
 * [2022-06-11, 03:49:26](https://news.ycombinator.com/item?id=31701747) - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 * [2022-06-11, 02:05:02](https://news.ycombinator.com/item?id=31701319) - [Drone swarms that harassed navy ships demystified in new docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
@@ -7,12 +8,10 @@
 * [2022-06-10, 22:42:22](https://news.ycombinator.com/item?id=31700182) - [Inflation, part 1: On shelter futures](https://jbconsulting.substack.com/p/on-shelter-futures-part-1)
 * [2022-06-10, 22:27:20](https://news.ycombinator.com/item?id=31700069) - [Cooperation among an anonymous group protected Bitcoin during failures](https://arxiv.org/abs/2206.02871)
 * [2022-06-10, 19:35:40](https://news.ycombinator.com/item?id=31698503) - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
-* [2022-06-10, 19:03:54](https://news.ycombinator.com/item?id=31698148) - [Tell HN: Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
 * [2022-06-10, 19:02:14](https://news.ycombinator.com/item?id=31698127) - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)
 * [2022-06-10, 18:58:11](https://news.ycombinator.com/item?id=31698077) - [Show HN: My small program from 2007 that gave Internet Explorer tabs](http://tabbed.org/)
 * [2022-06-10, 18:21:23](https://news.ycombinator.com/item?id=31697636) - [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2022-06-10, 17:14:44](https://news.ycombinator.com/item?id=31696901) - [“Code” 2nd Edition](http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html)
-* [2022-06-10, 17:01:07](https://news.ycombinator.com/item?id=31696726) - [Flexport (YC W14) is hiring engineers in Chicago](https://flexport.com)
 * [2022-06-10, 16:56:07](https://news.ycombinator.com/item?id=31696658) - [Getting humanity to bounce back faster in a post-apocalyptic world](https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/)
 * [2022-06-10, 16:39:51](https://news.ycombinator.com/item?id=31696447) - [Ask HN: How are you dealing with the M1/ARM migration?](https://news.ycombinator.com/item?id=31696447)
 * [2022-06-10, 16:23:28](https://news.ycombinator.com/item?id=31696235) - [Sup – A curses threads-with-tags style email client](https://sup-heliotrope.github.io/)
@@ -28,6 +27,7 @@
 * [2022-06-09, 18:53:46](https://news.ycombinator.com/item?id=31685277) - [Must be this tall to write multi-threaded code (2015)](https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html)
 * [2022-06-09, 08:18:10](https://news.ycombinator.com/item?id=31678793) - [How I finally get daily journaling done with a workflow on my iPhone](https://michael.team/journal/)
 * [2022-06-09, 07:22:23](https://news.ycombinator.com/item?id=31678431) - [Enormous ‘rogue waves’ can appear out of nowhere](https://www.nationalgeographic.com/science/article/mathematicians-may-soon-be-able-to-predict-enormous-rogue-waves)
+* [2022-06-09, 06:00:42](https://news.ycombinator.com/item?id=31678008) - [The Alkyne GC](https://mcyoung.xyz/2022/06/07/alkyne-gc/)
 * [2022-06-09, 05:30:40](https://news.ycombinator.com/item?id=31677870) - [Five glassy mysteries we still can’t explain](https://physicsworld.com/a/five-glassy-mysteries-we-still-cant-explain-from-the-ideal-solution-to-metallic-glasses-and-more/)
 * [2022-06-08, 11:20:15](https://news.ycombinator.com/item?id=31665749) - [The Comprehensive List of Window Managers for Unix](https://www.gilesorr.com/wm/table.html)
 
