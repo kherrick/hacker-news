@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 * [2022-06-12, 07:31:27](https://news.ycombinator.com/item?id=31712415) - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
@@ -13,7 +14,6 @@
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 * [2022-06-11, 21:12:23](https://news.ycombinator.com/item?id=31708461) - [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
 * [2022-06-11, 21:02:16](https://news.ycombinator.com/item?id=31708366) - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
-* [2022-06-11, 20:41:34](https://news.ycombinator.com/item?id=31708169) - [Show HN: The Amalgam Engine – Easily create isometric virtual worlds](https://github.com/Net5F/AmalgamEngine)
 * [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 12:06:19](https://news.ycombinator.com/item?id=31703874) - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
