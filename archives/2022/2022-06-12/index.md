@@ -6,6 +6,7 @@
 
 * [2022-06-12, 17:28:46](https://news.ycombinator.com/item?id=31716350) - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Apple Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
+* [2022-06-12, 16:53:42](https://news.ycombinator.com/item?id=31715988) - [Crop Circles Were Made by Supernatural Forces. Named Doug and Dave](https://www.nytimes.com/2022/06/12/style/crop-circles.html)
 * [2022-06-12, 16:37:31](https://news.ycombinator.com/item?id=31715828) - [What Is LaMDA and What Does It Want?](https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489)
 * [2022-06-12, 16:34:28](https://news.ycombinator.com/item?id=31715794) - [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
 * [2022-06-12, 16:24:20](https://news.ycombinator.com/item?id=31715708) - [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)
@@ -48,7 +49,9 @@
 * [2022-06-12, 05:11:55](https://news.ycombinator.com/item?id=31711628) - [May Be Fired Soon for Doing AI Ethics Work](https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66)
 * [2022-06-12, 04:17:53](https://news.ycombinator.com/item?id=31711386) - [Hokusai and ‘The Great Picture Book of Everything’: The Latest Research](https://blog.britishmuseum.org/hokusai-and-the-great-picture-book-of-everything-the-latest-research/)
 * [2022-06-12, 04:03:18](https://news.ycombinator.com/item?id=31711313) - [What We Overlooked in King Tut’s Tomb](https://www.atlasobscura.com/articles/king-tut-exhibit-oxford)
+* [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing Better by Answering Why, What, How](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+* [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-12, 03:02:29](https://news.ycombinator.com/item?id=31710907) - [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
 * [2022-06-12, 02:12:42](https://news.ycombinator.com/item?id=31710614) - [She tracked her boyfriend using an AirTag – then killed him](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
