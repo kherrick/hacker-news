@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-12, 21:03:46](https://news.ycombinator.com/item?id=31718240) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+* [2022-06-12, 20:48:51](https://news.ycombinator.com/item?id=31718125) - [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness in 2022](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
 * [2022-06-12, 20:41:26](https://news.ycombinator.com/item?id=31718068) - [Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
 * [2022-06-12, 20:13:33](https://news.ycombinator.com/item?id=31717869) - [The US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
 * [2022-06-12, 20:08:39](https://news.ycombinator.com/item?id=31717821) - [Ask HN: Why does WWDC get 10x more views than Google I/O?](https://news.ycombinator.com/item?id=31717821)
@@ -14,7 +15,7 @@
 * [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:10:35](https://news.ycombinator.com/item?id=31715067) - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
 * [2022-06-12, 13:54:53](https://news.ycombinator.com/item?id=31714515) - [Deep Hierarchical Planning from Pixels](https://danijar.com/project/director/)
-* [2022-06-12, 13:45:00](https://news.ycombinator.com/item?id=31714448) - [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
+* [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 11:55:05](https://news.ycombinator.com/item?id=31713830) - [A chat with Ray Dalio](https://thehustle.co/a-chat-with-ray-dalio/)
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
 * [2022-06-12, 11:51:14](https://news.ycombinator.com/item?id=31713808) - [Remotely mind-controlled metasurface via brainwaves](https://elight.springeropen.com/articles/10.1186/s43593-022-00016-0)
@@ -28,7 +29,6 @@
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
-* [2022-06-11, 20:47:52](https://news.ycombinator.com/item?id=31708224) - [The lost elegance of computation with Conal Elliott [audio]](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
 * [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 
 ## [Archives](archives/index.md)
