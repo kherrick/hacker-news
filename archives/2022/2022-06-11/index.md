@@ -85,6 +85,7 @@
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 * [2022-06-11, 02:05:02](https://news.ycombinator.com/item?id=31701319) - [Bizarre Drone Swarms That Harassed Navy Ships Demystified in New Docs](https://www.thedrive.com/the-war-zone/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)
 * [2022-06-11, 01:58:24](https://news.ycombinator.com/item?id=31701286) - [Making $10k a Year on Substack](https://caseybotticello.com/substack-income-report-march-2022/)
+* [2022-06-11, 01:07:43](https://news.ycombinator.com/item?id=31701038) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-11, 01:07:09](https://news.ycombinator.com/item?id=31701034) - [65,000 year-old ‘Swiss Army knife’ indicates ancient humans shared knowledge](https://www.theguardian.com/australia-news/2022/jun/09/65000-year-old-swiss-army-knife-proves-ancient-humans-shared-knowledge-research-says)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
 * [2022-06-11, 00:23:46](https://news.ycombinator.com/item?id=31700786) - [An Evidence-Based Guide to Reversing Caffeine Tolerance](https://lfbiohacking.squarespace.com/blog/an-evidence-based-guide-on-reversing-caffeine-tolerance)
