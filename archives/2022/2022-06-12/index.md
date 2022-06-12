@@ -6,6 +6,7 @@
 
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 * [2022-06-12, 06:16:03](https://news.ycombinator.com/item?id=31711978) - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
+* [2022-06-12, 06:15:08](https://news.ycombinator.com/item?id=31711971) - [Religious Discrimination at Google](https://cajundiscordian.medium.com/religious-discrimination-at-google-8c3c471f0a53)
 * [2022-06-12, 06:05:20](https://news.ycombinator.com/item?id=31711913) - [Risk of myocarditis after the Covid-19 mRNA vaccination in the USA cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00791-7/fulltext)
 * [2022-06-12, 05:45:27](https://news.ycombinator.com/item?id=31711793) - [Carbon Dioxide Levels Now Higher Than Ever in Human History](https://www.smithsonianmag.com/smart-news/carbon-dioxide-levels-now-higher-than-ever-in-human-history-180980229/)
 * [2022-06-12, 05:11:55](https://news.ycombinator.com/item?id=31711628) - [May Be Fired Soon for Doing AI Ethics Work](https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66)

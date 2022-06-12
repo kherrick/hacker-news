@@ -2,6 +2,7 @@
 
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 * [2022-06-12, 06:16:03](https://news.ycombinator.com/item?id=31711978) - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
+* [2022-06-12, 06:15:08](https://news.ycombinator.com/item?id=31711971) - [Religious Discrimination at Google](https://cajundiscordian.medium.com/religious-discrimination-at-google-8c3c471f0a53)
 * [2022-06-12, 06:05:20](https://news.ycombinator.com/item?id=31711913) - [Risk of myocarditis after the Covid-19 mRNA vaccination in the USA cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00791-7/fulltext)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
 * [2022-06-12, 02:04:14](https://news.ycombinator.com/item?id=31710562) - [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
@@ -28,7 +29,6 @@
 * [2022-06-11, 01:07:09](https://news.ycombinator.com/item?id=31701034) - [Prehistoric stone tools indicate ancient humans shared knowledge](https://www.theguardian.com/australia-news/2022/jun/09/65000-year-old-swiss-army-knife-proves-ancient-humans-shared-knowledge-research-says)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
 * [2022-06-10, 21:02:24](https://news.ycombinator.com/item?id=31699336) - [The Rut Principle](https://www.raptitude.com/2022/06/the-rut-principle/)
-* [2022-06-10, 19:38:47](https://news.ycombinator.com/item?id=31698524) - [Even more pi in the sky: Calculating 100T digits of pi on Google Cloud](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 
 ## [Archives](archives/index.md)
