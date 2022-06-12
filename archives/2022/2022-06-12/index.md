@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
 * [2022-06-12, 20:13:33](https://news.ycombinator.com/item?id=31717869) - [The Story of the US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
+* [2022-06-12, 20:08:39](https://news.ycombinator.com/item?id=31717821) - [Ask HN: Why does WWDC get 10x more views than Google I/O?](https://news.ycombinator.com/item?id=31717821)
 * [2022-06-12, 18:37:20](https://news.ycombinator.com/item?id=31717023) - [“We’re winding down Google Talk” on June 16, 2022](https://support.google.com/talk/?hl=en)
 * [2022-06-12, 18:35:20](https://news.ycombinator.com/item?id=31717007) - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 * [2022-06-12, 17:28:46](https://news.ycombinator.com/item?id=31716350) - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)

@@ -13,6 +13,7 @@
 * [2022-06-11, 21:18:13](https://news.ycombinator.com/item?id=31708519) - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
 * [2022-06-11, 21:12:23](https://news.ycombinator.com/item?id=31708461) - [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
 * [2022-06-11, 21:02:16](https://news.ycombinator.com/item?id=31708366) - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
+* [2022-06-11, 20:47:52](https://news.ycombinator.com/item?id=31708224) - [The Lost Elegance of Computation with Conal Elliott](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
 * [2022-06-11, 20:41:34](https://news.ycombinator.com/item?id=31708169) - [Show HN: The Amalgam Engine – Easily create isometric virtual worlds](https://github.com/Net5F/AmalgamEngine)
 * [2022-06-11, 19:24:11](https://news.ycombinator.com/item?id=31707411) - [Tesla: Designing autopilot program to shut off less than a second before impact](https://twitter.com/muttgomery/status/1535353454905917446)
 * [2022-06-11, 19:17:28](https://news.ycombinator.com/item?id=31707349) - [Tell HN: My wife was banned from WhatsApp without reason or recourse](https://news.ycombinator.com/item?id=31707349)
