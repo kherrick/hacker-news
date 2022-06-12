@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
+* [2022-06-12, 17:28:46](https://news.ycombinator.com/item?id=31716350) - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Apple Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
 * [2022-06-12, 16:37:31](https://news.ycombinator.com/item?id=31715828) - [What Is LaMDA and What Does It Want?](https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489)
 * [2022-06-12, 16:34:28](https://news.ycombinator.com/item?id=31715794) - [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
 * [2022-06-12, 16:24:20](https://news.ycombinator.com/item?id=31715708) - [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)
+* [2022-06-12, 16:13:22](https://news.ycombinator.com/item?id=31715607) - [Analog Phones](https://computer.rip/2022-06-10-analog-phones.html)
 * [2022-06-12, 15:56:27](https://news.ycombinator.com/item?id=31715459) - [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
 * [2022-06-12, 15:45:09](https://news.ycombinator.com/item?id=31715364) - [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
 * [2022-06-12, 15:36:43](https://news.ycombinator.com/item?id=31715299) - [Eating more fish may be linked to higher melanoma risk](https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk)
@@ -30,6 +32,7 @@
 * [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 10:04:09](https://news.ycombinator.com/item?id=31713331) - [Ask HN: Where are all the computers from the 1980's and 1990's?](https://news.ycombinator.com/item?id=31713331)
+* [2022-06-12, 08:59:41](https://news.ycombinator.com/item?id=31712986) - [Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847)](https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/)
 * [2022-06-12, 07:57:36](https://news.ycombinator.com/item?id=31712552) - [What Does a Batsman See?](https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see)
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 * [2022-06-12, 07:32:19](https://news.ycombinator.com/item?id=31712418) - [Show HN: Cleanup – UI app to erase the hard disk (Lite Touch MDT installation)](https://github.com/cregx/mdt-cleanup-harddrive-winpe)
