@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
 * [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview – Powered by WebAssembly](https://gotemplate.io/)
 * [2022-06-12, 11:13:43](https://news.ycombinator.com/item?id=31713625) - [I’m switching from VS Code to VS Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
 * [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 10:04:09](https://news.ycombinator.com/item?id=31713331) - [Ask HN: Where are all the computers from the 1980's and 1990's?](https://news.ycombinator.com/item?id=31713331)
+* [2022-06-12, 07:57:36](https://news.ycombinator.com/item?id=31712552) - [What Does a Batsman See?](https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see)
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 * [2022-06-12, 07:16:42](https://news.ycombinator.com/item?id=31712332) - [Open Source federated link aggregator in rust](https://github.com/LemmyNet/lemmy)
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness has become an epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
