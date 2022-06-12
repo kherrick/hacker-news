@@ -19,6 +19,7 @@
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview – Powered by WebAssembly](https://gotemplate.io/)
+* [2022-06-12, 11:13:43](https://news.ycombinator.com/item?id=31713625) - [I’m switching from VS Code to VS Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 08:59:41](https://news.ycombinator.com/item?id=31712986) - [Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847)](https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/)
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness has become an epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
@@ -27,7 +28,6 @@
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing Better by Answering Why, What, How](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-11, 10:39:12](https://news.ycombinator.com/item?id=31703471) - [SIMD accelerated sorting in Java – how it works and why it was 3x faster](https://jbaker.io/2022/06/09/vectors-in-java/)
-* [2022-06-11, 04:49:36](https://news.ycombinator.com/item?id=31702018) - [The smile: a history](https://aeon.co/essays/a-history-of-the-smile-through-art-culture-and-etiquette)
 * [2022-06-11, 01:07:43](https://news.ycombinator.com/item?id=31701038) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 
