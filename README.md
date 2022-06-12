@@ -7,7 +7,6 @@
 * [2022-06-12, 20:48:51](https://news.ycombinator.com/item?id=31718125) - [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
 * [2022-06-12, 20:41:26](https://news.ycombinator.com/item?id=31718068) - [Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
 * [2022-06-12, 20:13:33](https://news.ycombinator.com/item?id=31717869) - [The US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
-* [2022-06-12, 18:37:20](https://news.ycombinator.com/item?id=31717023) - [We’re winding down Google Talk](https://support.google.com/talk/?hl=en)
 * [2022-06-12, 18:35:20](https://news.ycombinator.com/item?id=31717007) - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
 * [2022-06-12, 16:34:28](https://news.ycombinator.com/item?id=31715794) - [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
@@ -30,6 +29,7 @@
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-11, 23:28:22](https://news.ycombinator.com/item?id=31709492) - [A Design Battle Between Chip Engineers Led to Polaroid’s SX-70 Camera (1989)](https://spectrum.ieee.org/polaroid-sx-70)
+* [2022-06-11, 17:38:35](https://news.ycombinator.com/item?id=31706335) - [The Talkative Ones](https://orthosphere.wordpress.com/2022/06/10/the-talkative-ones/)
 
 ## [Archives](archives/index.md)
 
