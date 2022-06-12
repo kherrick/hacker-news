@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
+* [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 * [2022-06-12, 07:32:19](https://news.ycombinator.com/item?id=31712418) - [Show HN: Cleanup – UI app to erase the hard disk (Lite Touch MDT installation)](https://github.com/cregx/mdt-cleanup-harddrive-winpe)
 * [2022-06-12, 07:31:27](https://news.ycombinator.com/item?id=31712415) - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)

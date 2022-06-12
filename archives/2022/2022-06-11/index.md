@@ -68,6 +68,7 @@
 * [2022-06-11, 08:32:16](https://news.ycombinator.com/item?id=31702913) - [OpenSMTPD](https://www.opensmtpd.org/)
 * [2022-06-11, 08:11:58](https://news.ycombinator.com/item?id=31702825) - [MIT Ends Elsevier Negotiations (2020)](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611)
 * [2022-06-11, 07:14:29](https://news.ycombinator.com/item?id=31702619) - [Industrial IoT: Realtime remote control of smart factory between Korea, Finland](https://techxplore.com/news/2022-06-industrial-internet-real-time-remote-smart.html)
+* [2022-06-11, 07:13:58](https://news.ycombinator.com/item?id=31702616) - [Changing the primary display using the Win32 API](https://blog.lohr.dev/primary-display-windows)
 * [2022-06-11, 07:07:47](https://news.ycombinator.com/item?id=31702594) - [Tell HN: Bitwarden does not export attachments in backups](https://news.ycombinator.com/item?id=31702594)
 * [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Ongoing network-wide DDoS of the Tor Network impacting its performance](https://status.torproject.org/issues/2022-06-09-network-ddos/)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
