@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 07:31:27](https://news.ycombinator.com/item?id=31712415) - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 * [2022-06-12, 06:16:03](https://news.ycombinator.com/item?id=31711978) - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
-* [2022-06-12, 06:15:08](https://news.ycombinator.com/item?id=31711971) - [Religious Discrimination at Google](https://cajundiscordian.medium.com/religious-discrimination-at-google-8c3c471f0a53)
 * [2022-06-12, 06:05:20](https://news.ycombinator.com/item?id=31711913) - [Risk of myocarditis after the Covid-19 mRNA vaccination in the USA cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00791-7/fulltext)
 * [2022-06-12, 05:48:04](https://news.ycombinator.com/item?id=31711807) - [Regular caffeine consumption affects brain structure](https://www.sciencedaily.com/releases/2021/02/210216100137.htm)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
