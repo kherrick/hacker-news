@@ -13,6 +13,7 @@
 * [2022-06-10, 20:29:38](https://news.ycombinator.com/item?id=31699032) - [Non-Stationary A/B Tests](https://www.amazon.science/publications/non-stationary-a-b-tests)
 * [2022-06-10, 20:11:13](https://news.ycombinator.com/item?id=31698870) - [Ultra-Rare Cosmic object was just detected in the Milky Way](https://list23.com/898121-according-to-the-astronomers-report-an-ultra-rare-cosmic-object-was-just-detected-in-the-milky-way/)
 * [2022-06-10, 19:53:44](https://news.ycombinator.com/item?id=31698687) - [Meta Scrutinizing Sheryl Sandberg’s Use of Facebook Resources over Several Years](https://www.wsj.com/articles/meta-scrutinizing-sheryl-sandbergs-use-of-facebook-resources-over-several-years-11654882829)
+* [2022-06-10, 19:38:47](https://news.ycombinator.com/item?id=31698524) - [Even more pi in the sky: Calculating 100T digits of pi on Google Cloud](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud)
 * [2022-06-10, 19:35:40](https://news.ycombinator.com/item?id=31698503) - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 * [2022-06-10, 19:03:54](https://news.ycombinator.com/item?id=31698148) - [Google does not list application permissions in the Play Store any more](https://news.ycombinator.com/item?id=31698148)
 * [2022-06-10, 19:02:14](https://news.ycombinator.com/item?id=31698127) - [The Work, the Tech, and the Crime](https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime)

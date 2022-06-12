@@ -6,6 +6,7 @@
 
 * [2022-06-11, 23:21:02](https://news.ycombinator.com/item?id=31709435) - [“Hi LaMDA, This Is Blake Lemoine...”](https://web.archive.org/web/20220611222148/https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 * [2022-06-11, 23:13:47](https://news.ycombinator.com/item?id=31709394) - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
+* [2022-06-11, 23:01:11](https://news.ycombinator.com/item?id=31709317) - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
 * [2022-06-11, 22:08:39](https://news.ycombinator.com/item?id=31708930) - [I will no longer engage in philosophical discussions about conscious AI](https://twitter.com/GiadaPistilli/status/1530136739959951361)
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 * [2022-06-11, 21:18:13](https://news.ycombinator.com/item?id=31708519) - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
@@ -68,6 +69,7 @@
 * [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Ongoing network-wide DDoS of the Tor Network impacting its performance](https://status.torproject.org/issues/2022-06-09-network-ddos/)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 * [2022-06-11, 07:01:42](https://news.ycombinator.com/item?id=31702571) - [Worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
+* [2022-06-11, 07:01:01](https://news.ycombinator.com/item?id=31702564) - [Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k](https://imgur.com/gallery/A9Ekr)
 * [2022-06-11, 07:00:53](https://news.ycombinator.com/item?id=31702563) - [Berry is a healthy, byte-sized window manager written in C for Unix systems](https://berrywm.org/)
 * [2022-06-11, 05:10:18](https://news.ycombinator.com/item?id=31702105) - [The Birth and Death of the Office](https://www.historytoday.com/archive/history-matters/birth-and-death-office)
 * [2022-06-11, 04:52:16](https://news.ycombinator.com/item?id=31702033) - [Colleges create AI to identify hate speech, finds minorities are worst offenders](https://pluralist.com/ai-censorship-cornell-study/)
