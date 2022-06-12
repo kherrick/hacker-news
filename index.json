@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-06-12, 15:15:33",
-      "https://news.ycombinator.com/item?id=31715104"
+      "2022-06-12, 15:56:27",
+      "https://news.ycombinator.com/item?id=31715459"
     ],
     [
-      "Amazon Engineer Sues for Work from Home Costs",
-      "https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html"
+      "A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata",
+      "https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 15:45:09",
+      "https://news.ycombinator.com/item?id=31715364"
+    ],
+    [
+      "New XPS 13 Shows the Price of Going Too Thin",
+      "https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 15:36:43",
+      "https://news.ycombinator.com/item?id=31715299"
+    ],
+    [
+      "Eating more fish may be linked to higher melanoma risk",
+      "https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 15:25:47",
+      "https://news.ycombinator.com/item?id=31715199"
+    ],
+    [
+      "Neural networks 'learn' the way humans do? A neuroscientist explains why not",
+      "https://theconversation.com/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case-183993"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 15:17:32",
+      "https://news.ycombinator.com/item?id=31715119"
+    ],
+    [
+      "New UUID Formats from IETF",
+      "https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Parental alienation and the unregulated experts shattering children’s lives",
       "https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 13:46:54",
-      "https://news.ycombinator.com/item?id=31714459"
-    ],
-    [
-      "Why Great Things Never Came from Comfort Zones",
-      "https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-06-12, 10:51:00",
-      "https://news.ycombinator.com/item?id=31713525"
-    ],
-    [
-      "Oneplus GPL violation for Android 12 Kernel",
-      "https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 10:10:03",
       "https://news.ycombinator.com/item?id=31713360"
     ],
@@ -137,16 +157,6 @@
     [
       "What does a batsman see? (2018)",
       "https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 07:35:32",
-      "https://news.ycombinator.com/item?id=31712432"
-    ],
-    [
-      "PageToSheet: Download Tables from Any Webpage to Excel",
-      "https://www.pagetosheet.com"
     ]
   ],
   [
@@ -171,6 +181,26 @@
   ],
   [
     [
+      "2022-06-12, 04:17:53",
+      "https://news.ycombinator.com/item?id=31711386"
+    ],
+    [
+      "Hokusai and ‘The Great Picture Book of Everything’: The Latest Research",
+      "https://blog.britishmuseum.org/hokusai-and-the-great-picture-book-of-everything-the-latest-research/"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 04:03:18",
+      "https://news.ycombinator.com/item?id=31711313"
+    ],
+    [
+      "What We Overlooked in King Tut’s Tomb",
+      "https://www.atlasobscura.com/articles/king-tut-exhibit-oxford"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 02:10:42",
       "https://news.ycombinator.com/item?id=31710603"
     ],
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2022-06-12, 02:04:14",
-      "https://news.ycombinator.com/item?id=31710562"
+      "2022-06-11, 23:03:20",
+      "https://news.ycombinator.com/item?id=31709335"
     ],
     [
-      "A new day for Insteon",
-      "https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 15:15:39",
-      "https://news.ycombinator.com/item?id=31705076"
-    ],
-    [
-      "Generating true random numbers from bananas",
-      "https://www.valerionappi.it/brng-en/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 14:44:00",
-      "https://news.ycombinator.com/item?id=31704789"
-    ],
-    [
-      "DNS Toys",
-      "https://www.dns.toys/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 14:38:27",
-      "https://news.ycombinator.com/item?id=31704740"
-    ],
-    [
-      "GPU-accelerated video decoding",
-      "https://scalibq.wordpress.com/2022/06/11/gpu-accelerated-video-decoding/"
+      "Hydroelectricity and Engineered Climate Change in the Atlantropa Project (2016)",
+      "https://academic.oup.com/ahr/article/121/1/70/2582444"
     ]
   ],
   [
@@ -261,26 +261,6 @@
   ],
   [
     [
-      "2022-06-11, 07:01:01",
-      "https://news.ycombinator.com/item?id=31702564"
-    ],
-    [
-      "Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k",
-      "https://imgur.com/gallery/A9Ekr"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 05:49:44",
-      "https://news.ycombinator.com/item?id=31702285"
-    ],
-    [
-      "Archaeology sensation: An ancient city reemerges in Iraq reservoir",
-      "https://www.dw.com/en/archaeology-sensation-an-ancient-city-reemerges-in-iraq-reservoir/a-62061527"
-    ]
-  ],
-  [
-    [
       "2022-06-11, 04:49:36",
       "https://news.ycombinator.com/item?id=31702018"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2022-06-11, 01:05:24",
-      "https://news.ycombinator.com/item?id=31701026"
+      "2022-06-11, 01:07:43",
+      "https://news.ycombinator.com/item?id=31701038"
     ],
     [
-      "A Trail Tale",
-      "https://atrailtale.com/"
+      "The Discarnates: Thomas Carlyle in the Spirit-World (1920)",
+      "https://publicdomainreview.org/collection/what-spiritualism-really-is/"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 02:52:26",
+      "https://news.ycombinator.com/item?id=31689428"
+    ],
+    [
+      "The Begging Song of Grand Mamou",
+      "https://oxfordamerican.org/magazine/issue-117-summer-2022/the-begging-song-of-grand-mamou?token=e3199b86b5738359d333d05fe4ead3b50383c3e7"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 02:46:07",
+      "https://news.ycombinator.com/item?id=31689397"
+    ],
+    [
+      "The Lumpy Pearls That Enchanted the Medicis (2019)",
+      "https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/"
     ]
   ]
 ]
