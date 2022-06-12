@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 18:37:20](https://news.ycombinator.com/item?id=31717023) - [“We’re winding down Google Talk” on June 16, 2022](https://support.google.com/talk/?hl=en)
 * [2022-06-12, 18:35:20](https://news.ycombinator.com/item?id=31717007) - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 * [2022-06-12, 17:28:46](https://news.ycombinator.com/item?id=31716350) - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
@@ -14,7 +15,6 @@
 * [2022-06-12, 13:55:49](https://news.ycombinator.com/item?id=31714524) - [Parental alienation and the unregulated experts shattering children’s lives](https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives)
 * [2022-06-12, 13:54:53](https://news.ycombinator.com/item?id=31714515) - [Deep Hierarchical Planning from Pixels](https://danijar.com/project/director/)
 * [2022-06-12, 13:45:00](https://news.ycombinator.com/item?id=31714448) - [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
-* [2022-06-12, 13:31:42](https://news.ycombinator.com/item?id=31714358) - [IETF Tools](https://tools.ietf.org/)
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)

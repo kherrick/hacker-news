@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
+* [2022-06-12, 18:37:20](https://news.ycombinator.com/item?id=31717023) - [“We’re winding down Google Talk” on June 16, 2022](https://support.google.com/talk/?hl=en)
 * [2022-06-12, 18:35:20](https://news.ycombinator.com/item?id=31717007) - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 * [2022-06-12, 17:28:46](https://news.ycombinator.com/item?id=31716350) - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Apple Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
