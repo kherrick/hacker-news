@@ -37,6 +37,7 @@
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:29:32](https://news.ycombinator.com/item?id=31705214) - [Health minister: Unexplained high death counts in New Brunswick concerning](https://www.cbc.ca/news/canada/new-brunswick/excess-deaths-minister-shephard-1.6484641)
 * [2022-06-11, 15:18:05](https://news.ycombinator.com/item?id=31705099) - [Ask HN: Would you be interested in POM generator for Selenium?](https://news.ycombinator.com/item?id=31705099)
+* [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
 * [2022-06-11, 14:54:19](https://news.ycombinator.com/item?id=31704864) - [The Zen Playboy the Life and Times of Stewart Brand](https://www.thenation.com/article/society/stewart-brand-whole-earth/)
 * [2022-06-11, 14:48:57](https://news.ycombinator.com/item?id=31704824) - [The Linux kernel can spawn processes on its own](https://www.uninformativ.de/blog/postings/2022-06-11/0/POSTING-en.html)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
