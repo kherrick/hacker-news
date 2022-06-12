@@ -9,6 +9,7 @@
 * [2022-06-12, 13:46:54](https://news.ycombinator.com/item?id=31714459) - [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
 * [2022-06-12, 13:45:00](https://news.ycombinator.com/item?id=31714448) - [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
 * [2022-06-12, 13:31:42](https://news.ycombinator.com/item?id=31714358) - [IETF Tools](https://tools.ietf.org/)
+* [2022-06-12, 13:06:28](https://news.ycombinator.com/item?id=31714186) - [Doyouneedkubernetes.com](https://doyouneedkubernetes.com/)
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
