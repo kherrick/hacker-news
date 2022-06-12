@@ -11,6 +11,7 @@
 * [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats from IETF](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:15:33](https://news.ycombinator.com/item?id=31715104) - [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
 * [2022-06-12, 15:10:35](https://news.ycombinator.com/item?id=31715067) - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
+* [2022-06-12, 14:38:52](https://news.ycombinator.com/item?id=31714836) - [Budget Culture and the Dave Ramseyfication of Money](https://annehelen.substack.com/p/budget-culture-and-the-dave-ramseyfication)
 * [2022-06-12, 14:01:29](https://news.ycombinator.com/item?id=31714556) - [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
 * [2022-06-12, 13:55:49](https://news.ycombinator.com/item?id=31714524) - [Parental alienation and the unregulated experts shattering children’s lives](https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives)
 * [2022-06-12, 13:46:54](https://news.ycombinator.com/item?id=31714459) - [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
