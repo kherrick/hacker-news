@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-06-11, 23:21:02",
-      "https://news.ycombinator.com/item?id=31709435"
+      "2022-06-12, 02:12:42",
+      "https://news.ycombinator.com/item?id=31710614"
     ],
     [
-      "“Hi LaMDA, This Is Blake Lemoine...”",
-      "https://web.archive.org/web/20220611222148/https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/"
+      "She tracked her boyfriend using an AirTag – then killed him",
+      "https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 02:10:42",
+      "https://news.ycombinator.com/item?id=31710603"
+    ],
+    [
+      "Show HN: Browser extension that spoofs your location data to match your VPN",
+      "https://github.com/z0ccc/Vytal"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 02:04:14",
+      "https://news.ycombinator.com/item?id=31710562"
+    ],
+    [
+      "A New Day for Insteon",
+      "https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Downtown S.F. on the brink: It’s worse than it looks",
       "https://www.sfchronicle.com/projects/2022/sfnext-downtown/"
+    ]
+  ],
+  [
+    [
+      "2022-06-11, 23:01:11",
+      "https://news.ycombinator.com/item?id=31709317"
+    ],
+    [
+      "Best Practices for Inclusive CLIs",
+      "https://seirdy.one/posts/2022/06/10/cli-best-practices/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "How to Do a Handstand",
       "https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 21:02:16",
-      "https://news.ycombinator.com/item?id=31708366"
-    ],
-    [
-      "Ask HN: What's the coolest website you know?",
-      "https://news.ycombinator.com/item?id=31708366"
     ]
   ],
   [
@@ -151,46 +171,6 @@
   ],
   [
     [
-      "2022-06-11, 16:22:31",
-      "https://news.ycombinator.com/item?id=31705670"
-    ],
-    [
-      "age v1.1.0-rc.1: plugin and YubiKeys support",
-      "https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 16:22:17",
-      "https://news.ycombinator.com/item?id=31705667"
-    ],
-    [
-      "Examples of Barbell Strategies",
-      "https://www.dwarkeshpatel.com/p/barbell-strategies"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 16:07:27",
-      "https://news.ycombinator.com/item?id=31705542"
-    ],
-    [
-      "Things you're allowed to do (2020)",
-      "https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 16:00:28",
-      "https://news.ycombinator.com/item?id=31705484"
-    ],
-    [
-      "A query database collection for use with laravel pipeline",
-      "https://github.com/l3aro/pipeline-query-collection"
-    ]
-  ],
-  [
-    [
       "2022-06-11, 15:31:55",
       "https://news.ycombinator.com/item?id=31705239"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2022-06-11, 07:01:01",
+      "https://news.ycombinator.com/item?id=31702564"
+    ],
+    [
+      "Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k",
+      "https://imgur.com/gallery/A9Ekr"
+    ]
+  ],
+  [
+    [
       "2022-06-11, 07:00:53",
       "https://news.ycombinator.com/item?id=31702563"
     ],
@@ -277,6 +267,16 @@
     [
       "The Rut Principle",
       "https://www.raptitude.com/2022/06/the-rut-principle/"
+    ]
+  ],
+  [
+    [
+      "2022-06-10, 19:38:47",
+      "https://news.ycombinator.com/item?id=31698524"
+    ],
+    [
+      "Even more pi in the sky: Calculating 100T digits of pi on Google Cloud",
+      "https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud"
     ]
   ],
   [
