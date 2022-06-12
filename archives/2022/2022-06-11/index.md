@@ -50,6 +50,7 @@
 * [2022-06-11, 13:50:08](https://news.ycombinator.com/item?id=31704399) - [Taiwan to Deploy ‘Bee Eye’ Radars Near Chinese Mainland](https://www.thedefensepost.com/2022/06/10/taiwan-bee-eye-radars-china/)
 * [2022-06-11, 13:44:18](https://news.ycombinator.com/item?id=31704361) - [Geico ordered to pay woman $5.2M after she contracted STD in a car](https://www.cnn.com/2022/06/09/us/geico-insurance-std-settlement-missouri/index.html)
 * [2022-06-11, 13:15:10](https://news.ycombinator.com/item?id=31704218) - [Silicon Valley braces for the good times to end](https://www.cnn.com/2022/06/09/tech/tech-downturn/index.html)
+* [2022-06-11, 12:51:31](https://news.ycombinator.com/item?id=31704074) - [What Happened to RSS?](https://thepcspy.com/read/what-happened-to-rss/)
 * [2022-06-11, 12:47:30](https://news.ycombinator.com/item?id=31704063) - [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 * [2022-06-11, 12:20:31](https://news.ycombinator.com/item?id=31703939) - [Drop that fork Why eating at your desk is banned in France](https://www.npr.org/2022/06/10/1103463809/why-eating-at-your-desk-is-banned-in-france-lunch-law)
 * [2022-06-11, 12:06:53](https://news.ycombinator.com/item?id=31703877) - [Bringing Forward the End-of-Life Date for Node.js 16](https://nodejs.org/en/blog/announcements/nodejs16-eol/)
