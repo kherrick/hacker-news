@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
+* [2022-06-12, 15:56:27](https://news.ycombinator.com/item?id=31715459) - [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
+* [2022-06-12, 15:45:09](https://news.ycombinator.com/item?id=31715364) - [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
+* [2022-06-12, 15:36:43](https://news.ycombinator.com/item?id=31715299) - [Eating more fish may be linked to higher melanoma risk](https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk)
+* [2022-06-12, 15:25:47](https://news.ycombinator.com/item?id=31715199) - [Neural networks 'learn' the way humans do? A neuroscientist explains why not](https://theconversation.com/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case-183993)
+* [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats from IETF](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:15:33](https://news.ycombinator.com/item?id=31715104) - [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
 * [2022-06-12, 15:10:35](https://news.ycombinator.com/item?id=31715067) - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
 * [2022-06-12, 14:01:29](https://news.ycombinator.com/item?id=31714556) - [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
@@ -32,6 +37,8 @@
 * [2022-06-12, 05:48:04](https://news.ycombinator.com/item?id=31711807) - [Regular caffeine consumption affects brain structure](https://www.sciencedaily.com/releases/2021/02/210216100137.htm)
 * [2022-06-12, 05:45:27](https://news.ycombinator.com/item?id=31711793) - [Carbon Dioxide Levels Now Higher Than Ever in Human History](https://www.smithsonianmag.com/smart-news/carbon-dioxide-levels-now-higher-than-ever-in-human-history-180980229/)
 * [2022-06-12, 05:11:55](https://news.ycombinator.com/item?id=31711628) - [May Be Fired Soon for Doing AI Ethics Work](https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66)
+* [2022-06-12, 04:17:53](https://news.ycombinator.com/item?id=31711386) - [Hokusai and ‘The Great Picture Book of Everything’: The Latest Research](https://blog.britishmuseum.org/hokusai-and-the-great-picture-book-of-everything-the-latest-research/)
+* [2022-06-12, 04:03:18](https://news.ycombinator.com/item?id=31711313) - [What We Overlooked in King Tut’s Tomb](https://www.atlasobscura.com/articles/king-tut-exhibit-oxford)
 * [2022-06-12, 03:02:29](https://news.ycombinator.com/item?id=31710907) - [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
 * [2022-06-12, 02:12:42](https://news.ycombinator.com/item?id=31710614) - [She tracked her boyfriend using an AirTag – then killed him](https://www.washingtonpost.com/nation/2022/06/11/apple-airtag-murder-boyfriend-indianapolis-morris/)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)

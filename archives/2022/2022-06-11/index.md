@@ -6,6 +6,7 @@
 
 * [2022-06-11, 23:21:02](https://news.ycombinator.com/item?id=31709435) - [“Hi LaMDA, This Is Blake Lemoine...”](https://web.archive.org/web/20220611222148/https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 * [2022-06-11, 23:13:47](https://news.ycombinator.com/item?id=31709394) - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
+* [2022-06-11, 23:03:20](https://news.ycombinator.com/item?id=31709335) - [Hydroelectricity and Engineered Climate Change in the Atlantropa Project (2016)](https://academic.oup.com/ahr/article/121/1/70/2582444)
 * [2022-06-11, 23:01:11](https://news.ycombinator.com/item?id=31709317) - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
 * [2022-06-11, 22:08:39](https://news.ycombinator.com/item?id=31708930) - [I will no longer engage in philosophical discussions about conscious AI](https://twitter.com/GiadaPistilli/status/1530136739959951361)
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
