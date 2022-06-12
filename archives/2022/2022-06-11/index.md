@@ -73,6 +73,7 @@
 * [2022-06-11, 07:01:42](https://news.ycombinator.com/item?id=31702571) - [Worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
 * [2022-06-11, 07:01:01](https://news.ycombinator.com/item?id=31702564) - [Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k](https://imgur.com/gallery/A9Ekr)
 * [2022-06-11, 07:00:53](https://news.ycombinator.com/item?id=31702563) - [Berry is a healthy, byte-sized window manager written in C for Unix systems](https://berrywm.org/)
+* [2022-06-11, 05:33:23](https://news.ycombinator.com/item?id=31702211) - [Taking decent photographs of electronic hardware and PCBs (2015)](https://xdevs.com/guide/hwphoto/)
 * [2022-06-11, 05:10:18](https://news.ycombinator.com/item?id=31702105) - [The Birth and Death of the Office](https://www.historytoday.com/archive/history-matters/birth-and-death-office)
 * [2022-06-11, 04:52:16](https://news.ycombinator.com/item?id=31702033) - [Colleges create AI to identify hate speech, finds minorities are worst offenders](https://pluralist.com/ai-censorship-cornell-study/)
 * [2022-06-11, 04:04:49](https://news.ycombinator.com/item?id=31701815) - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
