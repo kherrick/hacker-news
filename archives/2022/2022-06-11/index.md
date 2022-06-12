@@ -56,6 +56,7 @@
 * [2022-06-11, 12:00:11](https://news.ycombinator.com/item?id=31703846) - [Tara AI Is Hiring for a growth lead to handle inbound and SEO](https://jobs.gohire.io/tara-ai-wyqbsv6l/growth-lead-inbound-92331/)
 * [2022-06-11, 11:51:04](https://news.ycombinator.com/item?id=31703803) - [Bye Bye Semantic Versioning, Say Hello to GitDate](https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/)
 * [2022-06-11, 11:23:18](https://news.ycombinator.com/item?id=31703675) - [No wait stop it matters how you raise your kids](https://wyclif.substack.com/p/no-wait-stop-it-matters-how-you-raise)
+* [2022-06-11, 11:13:18](https://news.ycombinator.com/item?id=31703635) - [The Great American Murder Ballad](https://newsletter.butwhatfor.com/p/great-american-murder-ballad-murder-omie-wise)
 * [2022-06-11, 11:12:43](https://news.ycombinator.com/item?id=31703630) - [‘Fantastic giant tortoise,’ believed extinct, confirmed alive in the Galápagos](https://www.princeton.edu/news/2022/06/09/fantastic-giant-tortoise-believed-extinct-confirmed-alive-galapagos)
 * [2022-06-11, 10:39:12](https://news.ycombinator.com/item?id=31703471) - [SIMD accelerated sorting in Java – how it works and why it was 3x faster](https://jbaker.io/2022/06/09/vectors-in-java/)
 * [2022-06-11, 10:20:10](https://news.ycombinator.com/item?id=31703394) - [Activists rally to save Internet Archive as lawsuit threatens site (2020)](https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens)
