@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
+* [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Apple Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
+* [2022-06-12, 16:37:31](https://news.ycombinator.com/item?id=31715828) - [What Is LaMDA and What Does It Want?](https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489)
+* [2022-06-12, 16:34:28](https://news.ycombinator.com/item?id=31715794) - [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
+* [2022-06-12, 16:24:20](https://news.ycombinator.com/item?id=31715708) - [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)
 * [2022-06-12, 15:56:27](https://news.ycombinator.com/item?id=31715459) - [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
 * [2022-06-12, 15:45:09](https://news.ycombinator.com/item?id=31715364) - [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
 * [2022-06-12, 15:36:43](https://news.ycombinator.com/item?id=31715299) - [Eating more fish may be linked to higher melanoma risk](https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk)
