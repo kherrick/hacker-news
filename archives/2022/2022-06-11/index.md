@@ -83,6 +83,7 @@
 * [2022-06-11, 05:33:23](https://news.ycombinator.com/item?id=31702211) - [Taking decent photographs of electronic hardware and PCBs (2015)](https://xdevs.com/guide/hwphoto/)
 * [2022-06-11, 05:10:18](https://news.ycombinator.com/item?id=31702105) - [The Birth and Death of the Office](https://www.historytoday.com/archive/history-matters/birth-and-death-office)
 * [2022-06-11, 04:52:16](https://news.ycombinator.com/item?id=31702033) - [Colleges create AI to identify hate speech, finds minorities are worst offenders](https://pluralist.com/ai-censorship-cornell-study/)
+* [2022-06-11, 04:49:36](https://news.ycombinator.com/item?id=31702018) - [The Smile: A History](https://aeon.co/essays/a-history-of-the-smile-through-art-culture-and-etiquette)
 * [2022-06-11, 04:04:49](https://news.ycombinator.com/item?id=31701815) - [Go 1.19 Beta 1 is released](https://groups.google.com/g/golang-announce/c/SNruPJUSFz0)
 * [2022-06-11, 03:49:26](https://news.ycombinator.com/item?id=31701747) - [Is Do Kwon a Kwon-Artist?](https://cryptofireside.com/do-kwon-in-even-more-trouble-2ad28d32806a?gi=2aa1cd8a418f)
 * [2022-06-11, 03:11:29](https://news.ycombinator.com/item?id=31701601) - [Is “acceptably non-dystopian” self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)

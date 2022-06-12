@@ -15,7 +15,6 @@
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 * [2022-06-12, 07:16:42](https://news.ycombinator.com/item?id=31712332) - [Open Source federated link aggregator in rust](https://github.com/LemmyNet/lemmy)
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness has become an epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
-* [2022-06-12, 06:16:03](https://news.ycombinator.com/item?id=31711978) - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
 * [2022-06-12, 02:04:14](https://news.ycombinator.com/item?id=31710562) - [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
 * [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
@@ -28,6 +27,7 @@
 * [2022-06-11, 07:01:01](https://news.ycombinator.com/item?id=31702564) - [Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k](https://imgur.com/gallery/A9Ekr)
 * [2022-06-11, 05:49:44](https://news.ycombinator.com/item?id=31702285) - [Archaeology sensation: An ancient city reemerges in Iraq reservoir](https://www.dw.com/en/archaeology-sensation-an-ancient-city-reemerges-in-iraq-reservoir/a-62061527)
 * [2022-06-11, 05:33:23](https://news.ycombinator.com/item?id=31702211) - [Taking decent photographs of electronic hardware and PCBs (2015)](https://xdevs.com/guide/hwphoto/)
+* [2022-06-11, 04:49:36](https://news.ycombinator.com/item?id=31702018) - [The Smile: A History](https://aeon.co/essays/a-history-of-the-smile-through-art-culture-and-etiquette)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 
