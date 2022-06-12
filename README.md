@@ -15,7 +15,7 @@
 * [2022-06-11, 20:41:34](https://news.ycombinator.com/item?id=31708169) - [Show HN: The Amalgam Engine – Easily create isometric virtual worlds](https://github.com/Net5F/AmalgamEngine)
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
 * [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
-* [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
+* [2022-06-11, 18:28:48](https://news.ycombinator.com/item?id=31706842) - [WT.Social](https://wt.social/about)
 * [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 12:06:19](https://news.ycombinator.com/item?id=31703874) - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
