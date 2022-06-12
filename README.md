@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 05:45:27](https://news.ycombinator.com/item?id=31711793) - [Carbon Dioxide Levels Now Higher Than Ever in Human History](https://www.smithsonianmag.com/smart-news/carbon-dioxide-levels-now-higher-than-ever-in-human-history-180980229/)
 * [2022-06-12, 05:11:55](https://news.ycombinator.com/item?id=31711628) - [May Be Fired Soon for Doing AI Ethics Work](https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
 * [2022-06-12, 02:04:14](https://news.ycombinator.com/item?id=31710562) - [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
@@ -12,7 +13,6 @@
 * [2022-06-11, 19:00:19](https://news.ycombinator.com/item?id=31707163) - [Ask HN: Best beginner friendly linear algebra book?](https://news.ycombinator.com/item?id=31707163)
 * [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
-* [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
 * [2022-06-11, 14:48:57](https://news.ycombinator.com/item?id=31704824) - [The Linux kernel can spawn processes on its own](https://www.uninformativ.de/blog/postings/2022-06-11/0/POSTING-en.html)
