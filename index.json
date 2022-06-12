@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-06-12, 10:10:03",
+      "https://news.ycombinator.com/item?id=31713360"
+    ],
+    [
+      "The Y Combinator in Go with generics",
+      "https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 07:35:32",
       "https://news.ycombinator.com/item?id=31712432"
     ],
     [
       "PageToSheet: Download Tables from Any Webpage to Excel",
       "https://www.pagetosheet.com"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 07:32:19",
-      "https://news.ycombinator.com/item?id=31712418"
-    ],
-    [
-      "Show HN: Cleanup – UI app to erase the hard disk (Lite Touch MDT installation)",
-      "https://github.com/cregx/mdt-cleanup-harddrive-winpe"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Found: The ‘how to draw’ books Pablo Picasso created for his daughter",
       "https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 05:48:04",
-      "https://news.ycombinator.com/item?id=31711807"
-    ],
-    [
-      "Regular caffeine consumption affects brain structure",
-      "https://www.sciencedaily.com/releases/2021/02/210216100137.htm"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Hacking the S-100 Bus",
       "https://www.glitchwrks.com/s100.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-11, 07:13:58",
+      "https://news.ycombinator.com/item?id=31702616"
+    ],
+    [
+      "Changing the primary display using the Win32 API",
+      "https://blog.lohr.dev/primary-display-windows"
     ]
   ],
   [
