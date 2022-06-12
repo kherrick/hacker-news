@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 22:11:15](https://news.ycombinator.com/item?id=31718756) - [Foone reverse engineering Skifree (Twitter thread)](https://twitter.com/Foone/status/1536053690368348160)
 * [2022-06-12, 21:09:14](https://news.ycombinator.com/item?id=31718295) - [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
 * [2022-06-12, 21:03:46](https://news.ycombinator.com/item?id=31718240) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2022-06-12, 20:48:51](https://news.ycombinator.com/item?id=31718125) - [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
@@ -7,7 +8,6 @@
 * [2022-06-12, 20:13:33](https://news.ycombinator.com/item?id=31717869) - [The US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
 * [2022-06-12, 18:37:20](https://news.ycombinator.com/item?id=31717023) - [We’re winding down Google Talk](https://support.google.com/talk/?hl=en)
 * [2022-06-12, 18:35:20](https://news.ycombinator.com/item?id=31717007) - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
-* [2022-06-12, 17:28:46](https://news.ycombinator.com/item?id=31716350) - [ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years](https://www.acm.org/media-center/2022/april/50-years-backfile)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
 * [2022-06-12, 16:34:28](https://news.ycombinator.com/item?id=31715794) - [What Everyone Knows](https://kk.org/thetechnium/what-everyone-knows/)
 * [2022-06-12, 16:24:20](https://news.ycombinator.com/item?id=31715708) - [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)

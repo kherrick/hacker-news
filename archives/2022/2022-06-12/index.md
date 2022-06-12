@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-12](index.md)
 
+* [2022-06-12, 22:11:15](https://news.ycombinator.com/item?id=31718756) - [Foone reverse engineering Skifree (Twitter thread)](https://twitter.com/Foone/status/1536053690368348160)
 * [2022-06-12, 21:09:14](https://news.ycombinator.com/item?id=31718295) - [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
 * [2022-06-12, 21:03:46](https://news.ycombinator.com/item?id=31718240) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2022-06-12, 20:48:51](https://news.ycombinator.com/item?id=31718125) - [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness in 2022](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
