@@ -35,6 +35,7 @@
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 11:55:05](https://news.ycombinator.com/item?id=31713830) - [A Chat with Ray Dalio](https://thehustle.co/a-chat-with-ray-dalio/)
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
+* [2022-06-12, 11:51:14](https://news.ycombinator.com/item?id=31713808) - [Remotely mind-controlled metasurface via brainwaves](https://elight.springeropen.com/articles/10.1186/s43593-022-00016-0)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
 * [2022-06-12, 11:46:48](https://news.ycombinator.com/item?id=31713790) - [Vision GNN: An Image Is Worth Graph of Nodes](https://arxiv.org/abs/2206.00272)

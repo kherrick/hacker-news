@@ -17,6 +17,7 @@
 * [2022-06-12, 13:45:00](https://news.ycombinator.com/item?id=31714448) - [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
 * [2022-06-12, 11:55:05](https://news.ycombinator.com/item?id=31713830) - [A chat with Ray Dalio](https://thehustle.co/a-chat-with-ray-dalio/)
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
+* [2022-06-12, 11:51:14](https://news.ycombinator.com/item?id=31713808) - [Remotely mind-controlled metasurface via brainwaves](https://elight.springeropen.com/articles/10.1186/s43593-022-00016-0)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI doesn't understand restaurant menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:46:48](https://news.ycombinator.com/item?id=31713790) - [Vision GNN: An Image Is Worth Graph of Nodes](https://arxiv.org/abs/2206.00272)
 * [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview – Powered by WebAssembly](https://gotemplate.io/)
@@ -28,7 +29,6 @@
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-11, 20:47:52](https://news.ycombinator.com/item?id=31708224) - [The lost elegance of computation with Conal Elliott [audio]](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
-* [2022-06-11, 10:39:12](https://news.ycombinator.com/item?id=31703471) - [SIMD accelerated sorting in Java – how it works and why it was 3x faster](https://jbaker.io/2022/06/09/vectors-in-java/)
 * [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
 
 ## [Archives](archives/index.md)
