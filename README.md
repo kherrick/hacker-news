@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview (Powered by WebAssembly)](https://gotemplate.io/)
 * [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
+* [2022-06-12, 10:04:09](https://news.ycombinator.com/item?id=31713331) - [Ask HN: Where are all the computers from the 1980's and 1990's?](https://news.ycombinator.com/item?id=31713331)
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
 * [2022-06-12, 07:31:27](https://news.ycombinator.com/item?id=31712415) - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
 * [2022-06-12, 07:16:42](https://news.ycombinator.com/item?id=31712332) - [Open Source federated link aggregator in rust](https://github.com/LemmyNet/lemmy)
@@ -13,7 +15,6 @@
 * [2022-06-11, 23:01:11](https://news.ycombinator.com/item?id=31709317) - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 * [2022-06-11, 21:12:23](https://news.ycombinator.com/item?id=31708461) - [How to Do a Handstand](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
-* [2022-06-11, 21:02:16](https://news.ycombinator.com/item?id=31708366) - [Ask HN: What's the coolest website you know?](https://news.ycombinator.com/item?id=31708366)
 * [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 12:06:19](https://news.ycombinator.com/item?id=31703874) - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
@@ -28,7 +29,6 @@
 * [2022-06-11, 05:33:23](https://news.ycombinator.com/item?id=31702211) - [Taking decent photographs of electronic hardware and PCBs (2015)](https://xdevs.com/guide/hwphoto/)
 * [2022-06-11, 01:07:43](https://news.ycombinator.com/item?id=31701038) - [The Discarnates: Thomas Carlyle in the Spirit-World (1920)](https://publicdomainreview.org/collection/what-spiritualism-really-is/)
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
-* [2022-06-10, 21:02:24](https://news.ycombinator.com/item?id=31699336) - [The Rut Principle](https://www.raptitude.com/2022/06/the-rut-principle/)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 
 ## [Archives](archives/index.md)
