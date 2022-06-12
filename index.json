@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-12, 07:35:32",
+      "https://news.ycombinator.com/item?id=31712432"
+    ],
+    [
+      "PageToSheet: Download Tables from Any Webpage to Excel",
+      "https://www.pagetosheet.com"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 07:31:27",
       "https://news.ycombinator.com/item?id=31712415"
     ],
     [
       "Computers are an inherently oppressive technology",
       "https://www.devever.net/~hl/ruthlessness"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 07:16:42",
+      "https://news.ycombinator.com/item?id=31712332"
+    ],
+    [
+      "Open Source federated link aggregator in rust",
+      "https://github.com/LemmyNet/lemmy"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-06-11, 17:00:46",
-      "https://news.ycombinator.com/item?id=31706014"
-    ],
-    [
-      "OneSignal (YC S11) is hiring back end and full stack engineers",
-      "https://onesignal.com/careers"
-    ]
-  ],
-  [
-    [
       "2022-06-11, 15:15:39",
       "https://news.ycombinator.com/item?id=31705076"
     ],
@@ -187,6 +197,16 @@
     [
       "The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata",
       "https://twitter.com/captbaritone/status/1535471373191028737"
+    ]
+  ],
+  [
+    [
+      "2022-06-11, 10:39:12",
+      "https://news.ycombinator.com/item?id=31703471"
+    ],
+    [
+      "SIMD accelerated sorting in Java – how it works and why it was 3x faster",
+      "https://jbaker.io/2022/06/09/vectors-in-java/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Taking decent photographs of electronic hardware and PCBs (2015)",
       "https://xdevs.com/guide/hwphoto/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 05:10:18",
-      "https://news.ycombinator.com/item?id=31702105"
-    ],
-    [
-      "The Birth and Death of the Office",
-      "https://www.historytoday.com/archive/history-matters/birth-and-death-office"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 01:07:09",
-      "https://news.ycombinator.com/item?id=31701034"
-    ],
-    [
-      "Prehistoric stone tools indicate ancient humans shared knowledge",
-      "https://www.theguardian.com/australia-news/2022/jun/09/65000-year-old-swiss-army-knife-proves-ancient-humans-shared-knowledge-research-says"
     ]
   ],
   [
