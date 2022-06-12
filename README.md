@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 * [2022-06-12, 06:16:03](https://news.ycombinator.com/item?id=31711978) - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
+* [2022-06-12, 06:05:20](https://news.ycombinator.com/item?id=31711913) - [Risk of myocarditis after the Covid-19 mRNA vaccination in the USA cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00791-7/fulltext)
 * [2022-06-12, 02:10:42](https://news.ycombinator.com/item?id=31710603) - [Show HN: Browser extension that spoofs your location data to match your VPN](https://github.com/z0ccc/Vytal)
 * [2022-06-12, 02:04:14](https://news.ycombinator.com/item?id=31710562) - [A new day for Insteon](https://www.insteon.com/blog/2022/6/9/fnustys354bfmcmchr36wgvrn5h41z)
 * [2022-06-12, 01:53:27](https://news.ycombinator.com/item?id=31710501) - [The Philosophy of Linear Algebra (2021)](https://sigfyg.medium.com/the-philosophy-of-linear-algebra-ac2d9ce14619)
@@ -14,7 +16,6 @@
 * [2022-06-11, 18:39:48](https://news.ycombinator.com/item?id=31706955) - [US moves closer to recalling Tesla’s self-driving software](https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/)
 * [2022-06-11, 18:28:48](https://news.ycombinator.com/item?id=31706842) - [WT.Social](https://wt.social/about)
 * [2022-06-11, 17:31:03](https://news.ycombinator.com/item?id=31706283) - [AirPlay and Touch Bar = Network Disaster](https://mnpn.github.io/blog/airplay-network-disaster)
-* [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
 * [2022-06-11, 15:15:39](https://news.ycombinator.com/item?id=31705076) - [Generating true random numbers from bananas](https://www.valerionappi.it/brng-en/)
 * [2022-06-11, 14:44:00](https://news.ycombinator.com/item?id=31704789) - [DNS Toys](https://www.dns.toys/)
 * [2022-06-11, 12:06:19](https://news.ycombinator.com/item?id=31703874) - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
@@ -28,7 +29,6 @@
 * [2022-06-11, 01:05:24](https://news.ycombinator.com/item?id=31701026) - [A Trail Tale](https://atrailtale.com/)
 * [2022-06-10, 21:02:24](https://news.ycombinator.com/item?id=31699336) - [The Rut Principle](https://www.raptitude.com/2022/06/the-rut-principle/)
 * [2022-06-10, 19:38:47](https://news.ycombinator.com/item?id=31698524) - [Even more pi in the sky: Calculating 100T digits of pi on Google Cloud](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud)
-* [2022-06-10, 18:32:21](https://news.ycombinator.com/item?id=31697757) - [Can a biologist fix a radio? Or, what I learned while studying apoptosis (2002)](https://www.cell.com/action/showPdf?pii=S1535-6108%2802%2900133-2)
 * [2022-06-10, 13:03:01](https://news.ycombinator.com/item?id=31693490) - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 
 ## [Archives](archives/index.md)
