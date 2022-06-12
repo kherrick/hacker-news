@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-12, 17:28:46",
+      "https://news.ycombinator.com/item?id=31716350"
+    ],
+    [
+      "ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years",
+      "https://www.acm.org/media-center/2022/april/50-years-backfile"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 16:54:21",
       "https://news.ycombinator.com/item?id=31715995"
     ],
@@ -27,6 +37,16 @@
     [
       "How far behind a plane is its noise?",
       "https://alexanderell.is/posts/plane-noise/"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 16:13:22",
+      "https://news.ycombinator.com/item?id=31715607"
+    ],
+    [
+      "Analog Phones",
+      "https://computer.rip/2022-06-10-analog-phones.html"
     ]
   ],
   [
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2022-06-12, 07:57:36",
-      "https://news.ycombinator.com/item?id=31712552"
+      "2022-06-12, 08:59:41",
+      "https://news.ycombinator.com/item?id=31712986"
     ],
     [
-      "What does a batsman see? (2018)",
-      "https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see"
+      "Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847)",
+      "https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2022-06-11, 12:51:31",
-      "https://news.ycombinator.com/item?id=31704074"
-    ],
-    [
-      "What Happened to RSS?",
-      "https://thepcspy.com/read/what-happened-to-rss/"
-    ]
-  ],
-  [
-    [
       "2022-06-11, 10:39:12",
       "https://news.ycombinator.com/item?id=31703471"
     ],
     [
       "SIMD accelerated sorting in Java – how it works and why it was 3x faster",
       "https://jbaker.io/2022/06/09/vectors-in-java/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 07:01:19",
-      "https://news.ycombinator.com/item?id=31702567"
-    ],
-    [
-      "Wayfire is a Wayland compositor based on wlroots",
-      "https://wayfire.org/"
     ]
   ],
   [
