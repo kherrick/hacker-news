@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-11](index.md)
 
+* [2022-06-11, 23:28:22](https://news.ycombinator.com/item?id=31709492) - [A Design Battle Between Chip Engineers Led to Polaroid’s SX-70 Camera (1989)](https://spectrum.ieee.org/polaroid-sx-70)
 * [2022-06-11, 23:21:02](https://news.ycombinator.com/item?id=31709435) - [“Hi LaMDA, This Is Blake Lemoine...”](https://web.archive.org/web/20220611222148/https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 * [2022-06-11, 23:13:47](https://news.ycombinator.com/item?id=31709394) - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
 * [2022-06-11, 23:03:20](https://news.ycombinator.com/item?id=31709335) - [Hydroelectricity and Engineered Climate Change in the Atlantropa Project (2016)](https://academic.oup.com/ahr/article/121/1/70/2582444)

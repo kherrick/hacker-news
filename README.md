@@ -29,7 +29,7 @@
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
-* [2022-06-10, 02:46:07](https://news.ycombinator.com/item?id=31689397) - [The Lumpy Pearls That Enchanted the Medicis (2019)](https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis/)
+* [2022-06-11, 23:28:22](https://news.ycombinator.com/item?id=31709492) - [A Design Battle Between Chip Engineers Led to Polaroid’s SX-70 Camera (1989)](https://spectrum.ieee.org/polaroid-sx-70)
 
 ## [Archives](archives/index.md)
 
