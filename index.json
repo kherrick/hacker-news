@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-06-12, 16:54:21",
+      "https://news.ycombinator.com/item?id=31715995"
+    ],
+    [
+      "Apple Challenge: Pixel perfect design",
+      "https://developer.apple.com/news/?id=3sgp4ps7"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 16:37:31",
+      "https://news.ycombinator.com/item?id=31715828"
+    ],
+    [
+      "What Is LaMDA and What Does It Want?",
+      "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 16:34:28",
+      "https://news.ycombinator.com/item?id=31715794"
+    ],
+    [
+      "What Everyone Knows",
+      "https://kk.org/thetechnium/what-everyone-knows/"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 16:24:20",
+      "https://news.ycombinator.com/item?id=31715708"
+    ],
+    [
+      "How far behind a plane is its noise?",
+      "https://alexanderell.is/posts/plane-noise/"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 15:56:27",
       "https://news.ycombinator.com/item?id=31715459"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-06-12, 07:57:36",
-      "https://news.ycombinator.com/item?id=31712552"
-    ],
-    [
-      "What does a batsman see? (2018)",
-      "https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 07:16:42",
       "https://news.ycombinator.com/item?id=31712332"
     ],
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2022-06-11, 12:51:31",
-      "https://news.ycombinator.com/item?id=31704074"
-    ],
-    [
-      "What Happened to RSS?",
-      "https://thepcspy.com/read/what-happened-to-rss/"
-    ]
-  ],
-  [
-    [
       "2022-06-11, 10:39:12",
       "https://news.ycombinator.com/item?id=31703471"
     ],
     [
       "SIMD accelerated sorting in Java – how it works and why it was 3x faster",
       "https://jbaker.io/2022/06/09/vectors-in-java/"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 07:13:58",
-      "https://news.ycombinator.com/item?id=31702616"
-    ],
-    [
-      "Changing the primary display using the Win32 API",
-      "https://blog.lohr.dev/primary-display-windows"
-    ]
-  ],
-  [
-    [
-      "2022-06-11, 07:01:19",
-      "https://news.ycombinator.com/item?id=31702567"
-    ],
-    [
-      "Wayfire is a Wayland compositor based on wlroots",
-      "https://wayfire.org/"
     ]
   ],
   [
