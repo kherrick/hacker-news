@@ -71,6 +71,7 @@
 * [2022-06-11, 07:07:15](https://news.ycombinator.com/item?id=31702593) - [Ongoing network-wide DDoS of the Tor Network impacting its performance](https://status.torproject.org/issues/2022-06-09-network-ddos/)
 * [2022-06-11, 07:02:18](https://news.ycombinator.com/item?id=31702576) - [Deepnote (YC S19) is hiring to build a better data science notebook](https://deepnote.com/join-us)
 * [2022-06-11, 07:01:42](https://news.ycombinator.com/item?id=31702571) - [Worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
+* [2022-06-11, 07:01:19](https://news.ycombinator.com/item?id=31702567) - [Wayfire is a Wayland compositor based on wlroots](https://wayfire.org/)
 * [2022-06-11, 07:01:01](https://news.ycombinator.com/item?id=31702564) - [Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k](https://imgur.com/gallery/A9Ekr)
 * [2022-06-11, 07:00:53](https://news.ycombinator.com/item?id=31702563) - [Berry is a healthy, byte-sized window manager written in C for Unix systems](https://berrywm.org/)
 * [2022-06-11, 05:43:37](https://news.ycombinator.com/item?id=31702255) - [Electrical Fashions](https://daily.jstor.org/electrical-fashions/)
