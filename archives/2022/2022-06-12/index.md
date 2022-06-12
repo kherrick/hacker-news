@@ -9,6 +9,7 @@
 * [2022-06-12, 13:46:54](https://news.ycombinator.com/item?id=31714459) - [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
 * [2022-06-12, 13:31:42](https://news.ycombinator.com/item?id=31714358) - [IETF Tools](https://tools.ietf.org/)
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
+* [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
 * [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview (Powered by WebAssembly)](https://gotemplate.io/)
 * [2022-06-12, 11:13:43](https://news.ycombinator.com/item?id=31713625) - [I’m Switching from VS Code to vs Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
