@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-12, 22:51:04](https://news.ycombinator.com/item?id=31719002) - [Google Will Eat Itself](https://www.gwei.org/index.php)
 * [2022-06-12, 22:11:15](https://news.ycombinator.com/item?id=31718756) - [Foone reverse engineering Skifree (Twitter thread)](https://twitter.com/Foone/status/1536053690368348160)
 * [2022-06-12, 21:09:14](https://news.ycombinator.com/item?id=31718295) - [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
 * [2022-06-12, 21:03:46](https://news.ycombinator.com/item?id=31718240) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
@@ -14,7 +15,6 @@
 * [2022-06-12, 15:56:27](https://news.ycombinator.com/item?id=31715459) - [The pre-Ghibli work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
 * [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:10:35](https://news.ycombinator.com/item?id=31715067) - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
-* [2022-06-12, 13:54:53](https://news.ycombinator.com/item?id=31714515) - [Deep Hierarchical Planning from Pixels](https://danijar.com/project/director/)
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 11:55:05](https://news.ycombinator.com/item?id=31713830) - [A chat with Ray Dalio](https://thehustle.co/a-chat-with-ray-dalio/)
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
