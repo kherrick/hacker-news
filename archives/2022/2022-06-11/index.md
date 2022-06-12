@@ -75,6 +75,7 @@
 * [2022-06-11, 07:01:19](https://news.ycombinator.com/item?id=31702567) - [Wayfire is a Wayland compositor based on wlroots](https://wayfire.org/)
 * [2022-06-11, 07:01:01](https://news.ycombinator.com/item?id=31702564) - [Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k](https://imgur.com/gallery/A9Ekr)
 * [2022-06-11, 07:00:53](https://news.ycombinator.com/item?id=31702563) - [Berry is a healthy, byte-sized window manager written in C for Unix systems](https://berrywm.org/)
+* [2022-06-11, 05:49:44](https://news.ycombinator.com/item?id=31702285) - [Archaeology sensation: An ancient city reemerges in Iraq reservoir](https://www.dw.com/en/archaeology-sensation-an-ancient-city-reemerges-in-iraq-reservoir/a-62061527)
 * [2022-06-11, 05:43:37](https://news.ycombinator.com/item?id=31702255) - [Electrical Fashions](https://daily.jstor.org/electrical-fashions/)
 * [2022-06-11, 05:33:23](https://news.ycombinator.com/item?id=31702211) - [Taking decent photographs of electronic hardware and PCBs (2015)](https://xdevs.com/guide/hwphoto/)
 * [2022-06-11, 05:10:18](https://news.ycombinator.com/item?id=31702105) - [The Birth and Death of the Office](https://www.historytoday.com/archive/history-matters/birth-and-death-office)
