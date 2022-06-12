@@ -7,6 +7,7 @@
 * [2022-06-12, 14:01:29](https://news.ycombinator.com/item?id=31714556) - [ZeroStableCoin is out from stealth mode](https://twitter.com/zerostablecoin/status/1534131126209499138)
 * [2022-06-12, 13:55:49](https://news.ycombinator.com/item?id=31714524) - [Parental alienation and the unregulated experts shattering children’s lives](https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives)
 * [2022-06-12, 13:46:54](https://news.ycombinator.com/item?id=31714459) - [Why Great Things Never Came from Comfort Zones](https://durmonski.com/self-improvement/great-things-never-came-from-comfort-zones/)
+* [2022-06-12, 13:45:00](https://news.ycombinator.com/item?id=31714448) - [Reselling Software: Don’t Start a SaaS – White Label Someone Else’s Instead](https://www.sidehustlenation.com/reselling-software/)
 * [2022-06-12, 13:31:42](https://news.ycombinator.com/item?id=31714358) - [IETF Tools](https://tools.ietf.org/)
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
