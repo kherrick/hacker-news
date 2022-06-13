@@ -35,6 +35,7 @@
 * [2022-06-13, 14:55:58](https://news.ycombinator.com/item?id=31726472) - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
 * [2022-06-13, 14:41:23](https://news.ycombinator.com/item?id=31726302) - [Ask HN: How do you know when you are burning out?](https://news.ycombinator.com/item?id=31726302)
 * [2022-06-13, 14:36:15](https://news.ycombinator.com/item?id=31726222) - [Social engineering GoDaddy (2021)](https://g.livejournal.com/8578.html)
+* [2022-06-13, 14:35:50](https://news.ycombinator.com/item?id=31726212) - [Sorting and Proving](https://rjlipton.wpcomstaging.com/2022/06/13/sorting-and-proving/)
 * [2022-06-13, 14:33:26](https://news.ycombinator.com/item?id=31726182) - [K-9 Mail joins the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)
 * [2022-06-13, 14:29:55](https://news.ycombinator.com/item?id=31726134) - [We don't know what makes things sentient–so let's stop acting like we do](https://nicksaraev.com/we-really-dont-know-so-lets-stop-pretending-that-we-do/)
 * [2022-06-13, 13:57:11](https://news.ycombinator.com/item?id=31725641) - [Google and Facebook blocking wind farm because it will raise their electric bill](https://www.latimes.com/business/technology/story/2022-06-11/facebook-google-oppose-buffett-backed-wind-farm-project)
