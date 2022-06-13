@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 18:23:40](https://news.ycombinator.com/item?id=31729361) - [Tech CEOs Want Every Worker to Have a Permanent, Public Job Performance File](https://www.vice.com/en/article/n7zj9z/tech-ceos-want-every-worker-to-have-a-permanent-publicly-available-job-performance-file)
 * [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
 * [2022-06-13, 18:16:43](https://news.ycombinator.com/item?id=31729261) - [Amazon Partially Down](https://news.ycombinator.com/item?id=31729261)
 * [2022-06-13, 18:13:31](https://news.ycombinator.com/item?id=31729222) - [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 17:51:50](https://news.ycombinator.com/item?id=31728939) - [Show HN: Voice Clones for Creators](https://coqui.ai/#)
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [The Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
+* [2022-06-13, 17:22:00](https://news.ycombinator.com/item?id=31728560) - [Why the Fed has made a historic mistake on inflation](https://www.economist.com/leaders/2022/04/23/why-the-federal-reserve-has-made-a-historic-mistake-on-inflation)
 * [2022-06-13, 17:07:04](https://news.ycombinator.com/item?id=31728350) - [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
 * [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
 * [2022-06-13, 16:59:57](https://news.ycombinator.com/item?id=31728241) - [Texas Police Want Uvalde Bodycam Footage Suppressed, It Could Expose ‘Weakness’](https://www.vice.com/en/article/jgpe3g/texas-police-say-body-camera-footage-from-uvalde-could-be-used-to-find-weakness-by-other-shooters-ask-ag-to-suppress-it)
@@ -56,6 +58,7 @@
 * [2022-06-13, 05:51:13](https://news.ycombinator.com/item?id=31721682) - [An Open Letter to the Next School Shooter](https://www.unprepared.life/p/an-open-letter-to-the-next-school)
 * [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [No, LaMDA is not sentient. Not even slightly](https://garymarcus.substack.com/p/nonsense-on-stilts)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
+* [2022-06-13, 03:05:30](https://news.ycombinator.com/item?id=31720591) - [Foster care is evolving by relying on children’s kin](https://www.newsnationnow.com/us-news/foster-care-evolving-through-kinship/)
 * [2022-06-13, 03:00:47](https://news.ycombinator.com/item?id=31720549) - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 * [2022-06-13, 02:48:20](https://news.ycombinator.com/item?id=31720472) - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
 * [2022-06-13, 02:17:54](https://news.ycombinator.com/item?id=31720277) - [Crypto Platform Celsius Pauses Withdrawals](https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6)
