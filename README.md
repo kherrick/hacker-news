@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-13, 10:28:43](https://news.ycombinator.com/item?id=31723418) - [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)
+* [2022-06-13, 10:09:45](https://news.ycombinator.com/item?id=31723286) - [Major crypto lender Celsius freezes withdrawals as markets tumble](https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/)
 * [2022-06-13, 09:41:38](https://news.ycombinator.com/item?id=31723110) - [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
 * [2022-06-13, 09:41:00](https://news.ycombinator.com/item?id=31723103) - [Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
 * [2022-06-13, 09:32:14](https://news.ycombinator.com/item?id=31723061) - [Using TinyCC to compile Linux (2.4) kernels](https://github.com/seyko2/tccboot)
 * [2022-06-13, 08:02:34](https://news.ycombinator.com/item?id=31722566) - [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
 * [2022-06-13, 07:58:37](https://news.ycombinator.com/item?id=31722532) - [Java is not a safe language](https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/)
-* [2022-06-13, 07:48:47](https://news.ycombinator.com/item?id=31722465) - [Redis To Go shutting down on August 8 2022](https://redistogo.com/)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 * [2022-06-13, 03:00:47](https://news.ycombinator.com/item?id=31720549) - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 * [2022-06-13, 02:48:20](https://news.ycombinator.com/item?id=31720472) - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
@@ -27,7 +28,6 @@
 * [2022-06-12, 09:37:57](https://news.ycombinator.com/item?id=31713205) - [Inside the world of hostage negotiation (2019)](https://www.theguardian.com/news/2019/jan/25/business-of-kidnapping-inside-the-secret-world-of-hostage-negotiation-ransom-insurance)
 * [2022-06-12, 09:08:48](https://news.ycombinator.com/item?id=31713047) - [Audioserve: Simple personal server to serve audio files from directories](https://github.com/izderadicka/audioserve)
 * [2022-06-12, 07:04:36](https://news.ycombinator.com/item?id=31712241) - [Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)](https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463)
-* [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:28:44](https://news.ycombinator.com/item?id=31711081) - [Vintage Computing](https://www.glitchwrks.com/vintage.html)
 * [2022-06-11, 16:32:40](https://news.ycombinator.com/item?id=31705759) - [Taking on Good Technical Debt](https://matt-rickard.com/good-technical-debt/)
 

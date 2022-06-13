@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 10:28:43](https://news.ycombinator.com/item?id=31723418) - [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)
+* [2022-06-13, 10:09:45](https://news.ycombinator.com/item?id=31723286) - [Major crypto lender Celsius freezes withdrawals as markets tumble](https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/)
 * [2022-06-13, 09:41:38](https://news.ycombinator.com/item?id=31723110) - [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
 * [2022-06-13, 09:41:00](https://news.ycombinator.com/item?id=31723103) - [Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
 * [2022-06-13, 09:32:14](https://news.ycombinator.com/item?id=31723061) - [Using TinyCC to compile Linux (2.4) kernels](https://github.com/seyko2/tccboot)
