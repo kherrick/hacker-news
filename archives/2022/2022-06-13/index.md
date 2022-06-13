@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 15:19:50](https://news.ycombinator.com/item?id=31726825) - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
+* [2022-06-13, 14:57:35](https://news.ycombinator.com/item?id=31726498) - [Reddit Bans ‘SFW’ Deepfake Community](https://www.unite.ai/reddit-bans-sfw-deepfake-community/)
 * [2022-06-13, 14:55:58](https://news.ycombinator.com/item?id=31726472) - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
 * [2022-06-13, 14:41:23](https://news.ycombinator.com/item?id=31726302) - [Ask HN: How do you know when you are burning out?](https://news.ycombinator.com/item?id=31726302)
+* [2022-06-13, 14:36:15](https://news.ycombinator.com/item?id=31726222) - [Social engineering GoDaddy (2021)](https://g.livejournal.com/8578.html)
 * [2022-06-13, 14:33:26](https://news.ycombinator.com/item?id=31726182) - [K-9 Mail joins the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)
+* [2022-06-13, 14:29:55](https://news.ycombinator.com/item?id=31726134) - [We don't know what makes things sentient–so let's stop acting like we do](https://nicksaraev.com/we-really-dont-know-so-lets-stop-pretending-that-we-do/)
 * [2022-06-13, 13:57:11](https://news.ycombinator.com/item?id=31725641) - [Google and Facebook blocking wind farm because it will raise their electric bill](https://www.latimes.com/business/technology/story/2022-06-11/facebook-google-oppose-buffett-backed-wind-farm-project)
 * [2022-06-13, 13:37:08](https://news.ycombinator.com/item?id=31725373) - [Bitcoin plunges below $24,000, Celsius Network temporarily halts all withdrawals](https://www.cnn.com/2022/06/13/investing/bitcoin-price-celsius/index.html)
 * [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our Plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)

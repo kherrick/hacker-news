@@ -38,6 +38,7 @@
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2022-06-11, 16:05:13](https://news.ycombinator.com/item?id=31705526) - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
 * [2022-06-11, 16:00:28](https://news.ycombinator.com/item?id=31705484) - [A query database collection for use with laravel pipeline](https://github.com/l3aro/pipeline-query-collection)
+* [2022-06-11, 15:58:03](https://news.ycombinator.com/item?id=31705459) - [Kenji Tosaki Talks Saturn/Dreamcast Peripheral Design, Reveals “Virtua Visor”](https://www.segasaturnshiro.com/2022/06/03/interview-kenji-tosaki-talks-saturn-dreamcast-peripheral-design/)
 * [2022-06-11, 15:51:20](https://news.ycombinator.com/item?id=31705405) - [Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’](https://www.forbes.com/sites/jackkelly/2022/06/11/coinbase-ceo-tweets-quit-and-find-a-company-you-believe-in-to-disgruntled-employees/)
 * [2022-06-11, 15:33:03](https://news.ycombinator.com/item?id=31705256) - [Remembering Apple’s Newton, 30 years on](https://arstechnica.com/gadgets/2022/06/remembering-apples-newton-30-years-on/)
 * [2022-06-11, 15:31:55](https://news.ycombinator.com/item?id=31705239) - [I don't want to go to Chel-C](https://applied-langua.ge/posts/i-dont-want-to-go-to-chel-c.html)
