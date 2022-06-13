@@ -31,6 +31,7 @@
 * [2022-06-11, 17:20:46](https://news.ycombinator.com/item?id=31706187) - [Ask HN: How to advocate for prospective employers to show us their codebases?](https://news.ycombinator.com/item?id=31706187)
 * [2022-06-11, 17:04:56](https://news.ycombinator.com/item?id=31706051) - [Starbucks may close its bathrooms to the public again](https://www.cnn.com/2022/06/10/business-food/howard-schultz-starbucks-bathrooms/index.html)
 * [2022-06-11, 17:00:46](https://news.ycombinator.com/item?id=31706014) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
+* [2022-06-11, 16:32:40](https://news.ycombinator.com/item?id=31705759) - [Taking on Good Technical Debt](https://matt-rickard.com/good-technical-debt/)
 * [2022-06-11, 16:22:31](https://news.ycombinator.com/item?id=31705670) - [age v1.1.0-rc.1: plugin and YubiKeys support](https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1)
 * [2022-06-11, 16:22:17](https://news.ycombinator.com/item?id=31705667) - [Examples of Barbell Strategies](https://www.dwarkeshpatel.com/p/barbell-strategies)
 * [2022-06-11, 16:07:27](https://news.ycombinator.com/item?id=31705542) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)

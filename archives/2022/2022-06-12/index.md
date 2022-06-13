@@ -6,8 +6,10 @@
 
 * [2022-06-12, 22:51:04](https://news.ycombinator.com/item?id=31719002) - [Google Will Eat Itself](https://www.gwei.org/index.php)
 * [2022-06-12, 22:11:15](https://news.ycombinator.com/item?id=31718756) - [Foone reverse engineering Skifree (Twitter thread)](https://twitter.com/Foone/status/1536053690368348160)
+* [2022-06-12, 21:23:20](https://news.ycombinator.com/item?id=31718416) - [Show HN: Cleanup Photos by Dragging Boxes](https://cleanupphotos.com)
 * [2022-06-12, 21:09:14](https://news.ycombinator.com/item?id=31718295) - [GPT-3 may be a squirrel](https://twitter.com/janellecshane/status/1535835610396692480)
 * [2022-06-12, 21:03:46](https://news.ycombinator.com/item?id=31718240) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
+* [2022-06-12, 20:58:24](https://news.ycombinator.com/item?id=31718181) - [Umka: A statically typed embeddable scripting language](https://github.com/vtereshkov/umka-lang)
 * [2022-06-12, 20:48:51](https://news.ycombinator.com/item?id=31718125) - [Jimmy Carter Is Still Trying to Protect Alaskan Wilderness in 2022](https://www.alaskapublic.org/2022/05/10/former-president-jimmy-carter-asks-court-to-defend-alaskas-unrivaled-wilderness/)
 * [2022-06-12, 20:41:26](https://news.ycombinator.com/item?id=31718068) - [Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
 * [2022-06-12, 20:13:33](https://news.ycombinator.com/item?id=31717869) - [The Story of the US Navy F-14 Tomcat aircrew that inspired the Top Gun Movie](https://theaviationgeekclub.com/the-story-of-the-us-navy-f-14-tomcat-aircrew-that-inspired-the-legendary-top-gun-movie/)
@@ -54,6 +56,7 @@
 * [2022-06-12, 07:32:19](https://news.ycombinator.com/item?id=31712418) - [Show HN: Cleanup – UI app to erase the hard disk (Lite Touch MDT installation)](https://github.com/cregx/mdt-cleanup-harddrive-winpe)
 * [2022-06-12, 07:31:27](https://news.ycombinator.com/item?id=31712415) - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
 * [2022-06-12, 07:16:42](https://news.ycombinator.com/item?id=31712332) - [Open Source federated link aggregator in rust](https://github.com/LemmyNet/lemmy)
+* [2022-06-12, 07:04:36](https://news.ycombinator.com/item?id=31712241) - [Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)](https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463)
 * [2022-06-12, 06:17:34](https://news.ycombinator.com/item?id=31711990) - [Shortsightedness Has Become an Epidemic](https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic)
 * [2022-06-12, 06:16:03](https://news.ycombinator.com/item?id=31711978) - [Found: The ‘how to draw’ books Pablo Picasso created for his daughter](https://www.theguardian.com/artanddesign/2022/jun/11/found-the-how-to-draw-books-pablo-picasso-created-for-his-daughter)
 * [2022-06-12, 06:15:08](https://news.ycombinator.com/item?id=31711971) - [Religious Discrimination at Google](https://cajundiscordian.medium.com/religious-discrimination-at-google-8c3c471f0a53)
