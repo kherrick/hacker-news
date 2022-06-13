@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-13, 14:33:26",
-      "https://news.ycombinator.com/item?id=31726182"
-    ],
-    [
-      "K-9 Mail joins the Thunderbird family",
-      "https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 13:15:40",
       "https://news.ycombinator.com/item?id=31725103"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31723895"
     ],
     [
-      "If Operating Systems Were Beers",
+      "If operating systems were beers (1995)",
       "https://beerme.com/beeros.php"
     ]
   ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2022-06-13, 03:00:47",
+      "https://news.ycombinator.com/item?id=31720549"
+    ],
+    [
+      "Aleph.js – Fullstack Framework in Deno",
+      "https://github.com/alephjs/aleph.js"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 02:48:20",
       "https://news.ycombinator.com/item?id=31720472"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-06-12, 12:07:27",
-      "https://news.ycombinator.com/item?id=31713881"
-    ],
-    [
-      "On The Speed Of Algorithms And Faster Hardware (2014)",
-      "https://alvaro-videla.com/2014/04/on-the-speed-of-algorithms.html"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 11:31:37",
       "https://news.ycombinator.com/item?id=31713720"
     ],
@@ -297,6 +287,16 @@
     [
       "Vintage Computing",
       "https://www.glitchwrks.com/vintage.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-11, 22:59:37",
+      "https://news.ycombinator.com/item?id=31709311"
+    ],
+    [
+      "Digital Video File Formats (1994)",
+      "http://archive.retro.co.za/CDROMs/DrDobbs/CD%20Release%2012/articles/1994/9413/9413b/9413b.htm"
     ]
   ]
 ]
