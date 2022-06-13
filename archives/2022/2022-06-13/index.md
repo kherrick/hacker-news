@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 11:33:43](https://news.ycombinator.com/item?id=31723986) - [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
+* [2022-06-13, 11:18:26](https://news.ycombinator.com/item?id=31723833) - [Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP](https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/)
 * [2022-06-13, 11:09:08](https://news.ycombinator.com/item?id=31723751) - [How Trustpilot Extorts Businesses](https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62)
 * [2022-06-13, 10:36:46](https://news.ycombinator.com/item?id=31723482) - [Life after Guantanamo: 'We are still in jail'](https://www.bbc.com/news/world-us-canada-61609417)
+* [2022-06-13, 10:35:19](https://news.ycombinator.com/item?id=31723473) - [Tron’s USDD stablecoin currently losing its peg](https://coinmarketcap.com/currencies/usdd/)
 * [2022-06-13, 10:31:53](https://news.ycombinator.com/item?id=31723446) - [Show HN: A way to torture an interviewer (C++, FizzBuzz)](https://news.ycombinator.com/item?id=31723446)
 * [2022-06-13, 10:31:21](https://news.ycombinator.com/item?id=31723438) - [Tether is starting to depeg from USD again](https://ftx.com/trade/USDT/USD)
 * [2022-06-13, 10:28:43](https://news.ycombinator.com/item?id=31723418) - [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)
