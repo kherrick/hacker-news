@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 07:39:59](https://news.ycombinator.com/item?id=31722417) - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
 * [2022-06-13, 05:51:13](https://news.ycombinator.com/item?id=31721682) - [An Open Letter to the Next School Shooter](https://www.unprepared.life/p/an-open-letter-to-the-next-school)
 * [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [No, LaMDA is not sentient. Not even slightly](https://garymarcus.substack.com/p/nonsense-on-stilts)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-13, 07:39:59](https://news.ycombinator.com/item?id=31722417) - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
 * [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [LaMDA is not sentient](https://garymarcus.substack.com/p/nonsense-on-stilts)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 * [2022-06-13, 03:00:47](https://news.ycombinator.com/item?id=31720549) - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
@@ -28,7 +29,6 @@
 * [2022-06-12, 07:04:36](https://news.ycombinator.com/item?id=31712241) - [Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)](https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463)
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
-* [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-11, 16:32:40](https://news.ycombinator.com/item?id=31705759) - [Taking on Good Technical Debt](https://matt-rickard.com/good-technical-debt/)
 
 ## [Archives](archives/index.md)
