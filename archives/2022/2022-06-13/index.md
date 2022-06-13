@@ -7,6 +7,7 @@
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [The Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 * [2022-06-13, 17:07:04](https://news.ycombinator.com/item?id=31728350) - [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
 * [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+* [2022-06-13, 16:59:57](https://news.ycombinator.com/item?id=31728241) - [Texas Police Want Uvalde Bodycam Footage Suppressed, It Could Expose ‘Weakness’](https://www.vice.com/en/article/jgpe3g/texas-police-say-body-camera-footage-from-uvalde-could-be-used-to-find-weakness-by-other-shooters-ask-ag-to-suppress-it)
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
 * [2022-06-13, 16:24:33](https://news.ycombinator.com/item?id=31727687) - [Diet Coke probably isn't a cognitive performance enhancer](https://dynomight.net/diet-coke-nootropic/)
 * [2022-06-13, 16:09:15](https://news.ycombinator.com/item?id=31727464) - [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
