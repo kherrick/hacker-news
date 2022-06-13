@@ -48,6 +48,7 @@
 * [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
 * [2022-06-12, 11:46:48](https://news.ycombinator.com/item?id=31713790) - [Vision GNN: An Image Is Worth Graph of Nodes](https://arxiv.org/abs/2206.00272)
 * [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview (Powered by WebAssembly)](https://gotemplate.io/)
+* [2022-06-12, 11:16:42](https://news.ycombinator.com/item?id=31713640) - [Technology used by spies is detecting pesky moths](https://www.economist.com/science-and-technology/2022/06/09/technology-used-by-spies-is-detecting-pesky-moths)
 * [2022-06-12, 11:13:43](https://news.ycombinator.com/item?id=31713625) - [I’m Switching from VS Code to vs Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
 * [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
