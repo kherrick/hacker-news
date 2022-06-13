@@ -31,6 +31,7 @@
 * [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats from IETF](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:15:33](https://news.ycombinator.com/item?id=31715104) - [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
 * [2022-06-12, 15:10:35](https://news.ycombinator.com/item?id=31715067) - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
+* [2022-06-12, 14:55:16](https://news.ycombinator.com/item?id=31714950) - [Overthinking](https://kerkour.com/overthinking)
 * [2022-06-12, 14:38:52](https://news.ycombinator.com/item?id=31714836) - [Budget Culture and the Dave Ramseyfication of Money](https://annehelen.substack.com/p/budget-culture-and-the-dave-ramseyfication)
 * [2022-06-12, 14:30:36](https://news.ycombinator.com/item?id=31714774) - [How a Saxophonist Tricked the KGB by Encrypting Secrets in Music](https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra/)
 * [2022-06-12, 14:29:47](https://news.ycombinator.com/item?id=31714767) - [One Act, a Lifetime of Memories](https://maneydigital.com/2022/01/02/one-act-a-lifetime-of-memories/)
