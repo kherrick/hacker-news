@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-06-13, 10:31:53",
-      "https://news.ycombinator.com/item?id=31723446"
-    ],
-    [
-      "A way to torture an interviewer (C++, FizzBuzz)",
-      "https://news.ycombinator.com/item?id=31723446"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 10:31:21",
       "https://news.ycombinator.com/item?id=31723438"
     ],
@@ -117,6 +107,16 @@
     [
       "Using TinyCC to compile Linux (2.4) kernels",
       "https://github.com/seyko2/tccboot"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 07:58:37",
+      "https://news.ycombinator.com/item?id=31722532"
+    ],
+    [
+      "Java is not a safe language",
+      "https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/"
     ]
   ],
   [
