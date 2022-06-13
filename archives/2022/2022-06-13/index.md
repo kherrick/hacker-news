@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 18:55:05](https://news.ycombinator.com/item?id=31729939) - [Coinbase security enhancement prevents withdrawal for 48 hours](https://help.coinbase.com/en/pro/privacy-and-security/other/coinbase-pro-security-enhancements)
 * [2022-06-13, 18:54:42](https://news.ycombinator.com/item?id=31729935) - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
 * [2022-06-13, 18:41:25](https://news.ycombinator.com/item?id=31729699) - [A Short List of Hard Questions: How We Killed Arcus](https://www.psl.com/feed-posts/a-short-list-of-hard-questions-how-we-killed-arcus)
 * [2022-06-13, 18:23:40](https://news.ycombinator.com/item?id=31729361) - [Tech CEOs Want Every Worker to Have a Permanent, Public Job Performance File](https://www.vice.com/en/article/n7zj9z/tech-ceos-want-every-worker-to-have-a-permanent-publicly-available-job-performance-file)
