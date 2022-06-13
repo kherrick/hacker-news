@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-13, 18:23:40",
-      "https://news.ycombinator.com/item?id=31729361"
+      "2022-06-13, 18:54:42",
+      "https://news.ycombinator.com/item?id=31729935"
     ],
     [
-      "Tech CEOs Want Every Worker to Have a Permanent, Public Job Performance File",
-      "https://www.vice.com/en/article/n7zj9z/tech-ceos-want-every-worker-to-have-a-permanent-publicly-available-job-performance-file"
+      "Official IE11 end-of-life in 2 days",
+      "https://death-to-ie11.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 18:41:25",
+      "https://news.ycombinator.com/item?id=31729699"
+    ],
+    [
+      "A Short List of Hard Questions: How We Killed Arcus",
+      "https://www.psl.com/feed-posts/a-short-list-of-hard-questions-how-we-killed-arcus"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-06-13, 16:59:57",
-      "https://news.ycombinator.com/item?id=31728241"
-    ],
-    [
-      "Texas Police Want Uvalde Bodycam Footage Suppressed, It Could Expose ‘Weakness’",
-      "https://www.vice.com/en/article/jgpe3g/texas-police-say-body-camera-footage-from-uvalde-could-be-used-to-find-weakness-by-other-shooters-ask-ag-to-suppress-it"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 16:26:59",
       "https://news.ycombinator.com/item?id=31727727"
     ],
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2022-06-13, 15:32:26",
-      "https://news.ycombinator.com/item?id=31727002"
-    ],
-    [
-      "Atlas of Icelandic glaciers",
-      "https://islenskirjoklar.is/index.html#/page/map"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 15:19:50",
       "https://news.ycombinator.com/item?id=31726825"
     ],
     [
       "Why We’re Sticking with Ruby on Rails at Gitlab",
       "https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 15:05:14",
-      "https://news.ycombinator.com/item?id=31726608"
-    ],
-    [
-      "Flavors of enums with Rust bindgen",
-      "https://www.mdaverde.com/posts/rust-bindgen-enum/"
     ]
   ],
   [
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=31725103"
     ],
     [
-      "Our Plans for Thunderbird on Android",
+      "Our plans for Thunderbird on Android",
       "https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/"
     ]
   ],
@@ -227,6 +207,26 @@
     [
       "Show HN: Visualizing the math that powers 3D character animation",
       "https://diegomacario.github.io/Animation-Magic/public/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 11:18:26",
+      "https://news.ycombinator.com/item?id=31723833"
+    ],
+    [
+      "Tachyum’s Prodigy CPU Specs",
+      "https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 09:41:38",
+      "https://news.ycombinator.com/item?id=31723110"
+    ],
+    [
+      "Engage with an unemployment algorithm",
+      "https://ledighedsalgoritmen.dk/"
     ]
   ],
   [
