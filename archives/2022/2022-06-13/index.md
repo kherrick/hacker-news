@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 13:03:24](https://news.ycombinator.com/item?id=31724950) - [AssemblyAI (YC S17) Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950)
+* [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
+* [2022-06-13, 12:43:30](https://news.ycombinator.com/item?id=31724701) - [The Fight to Hold Pornhub Accountable](https://www.newyorker.com/magazine/2022/06/20/the-fight-to-hold-pornhub-accountable)
+* [2022-06-13, 12:26:47](https://news.ycombinator.com/item?id=31724504) - [Binance has paused Bitcoin withdrawals “due to a stuck on-chain transaction”](https://twitter.com/binance/status/1536322033222664194)
+* [2022-06-13, 12:12:54](https://news.ycombinator.com/item?id=31724351) - [Temporary pause of $BTC withdrawals on Binance](https://twitter.com/cz_binance/status/1536317704990208000)
+* [2022-06-13, 11:43:02](https://news.ycombinator.com/item?id=31724051) - [How to build a working AI only using synthetic data in just 5 minutes](https://www.danrose.ai/blog/how-to-build-a-working-ai-only-using-synthetic-data-in-just-5-minutes)
 * [2022-06-13, 11:33:43](https://news.ycombinator.com/item?id=31723986) - [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
+* [2022-06-13, 11:24:29](https://news.ycombinator.com/item?id=31723895) - [If Operating Systems Were Beers](https://beerme.com/beeros.php)
 * [2022-06-13, 11:18:26](https://news.ycombinator.com/item?id=31723833) - [Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP](https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/)
 * [2022-06-13, 11:09:08](https://news.ycombinator.com/item?id=31723751) - [How Trustpilot Extorts Businesses](https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62)
 * [2022-06-13, 10:36:46](https://news.ycombinator.com/item?id=31723482) - [Life after Guantanamo: 'We are still in jail'](https://www.bbc.com/news/world-us-canada-61609417)
