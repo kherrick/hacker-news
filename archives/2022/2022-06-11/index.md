@@ -9,6 +9,7 @@
 * [2022-06-11, 23:13:47](https://news.ycombinator.com/item?id=31709394) - [Downtown S.F. on the brink: It’s worse than it looks](https://www.sfchronicle.com/projects/2022/sfnext-downtown/)
 * [2022-06-11, 23:03:20](https://news.ycombinator.com/item?id=31709335) - [Hydroelectricity and Engineered Climate Change in the Atlantropa Project (2016)](https://academic.oup.com/ahr/article/121/1/70/2582444)
 * [2022-06-11, 23:01:11](https://news.ycombinator.com/item?id=31709317) - [Best Practices for Inclusive CLIs](https://seirdy.one/posts/2022/06/10/cli-best-practices/)
+* [2022-06-11, 22:59:37](https://news.ycombinator.com/item?id=31709311) - [Digital Video File Formats (1994)](http://archive.retro.co.za/CDROMs/DrDobbs/CD%20Release%2012/articles/1994/9413/9413b/9413b.htm)
 * [2022-06-11, 22:08:39](https://news.ycombinator.com/item?id=31708930) - [I will no longer engage in philosophical discussions about conscious AI](https://twitter.com/GiadaPistilli/status/1530136739959951361)
 * [2022-06-11, 21:57:19](https://news.ycombinator.com/item?id=31708848) - [Charles Petzold: Adventures in Electronic Music: Beeps, Bloops and Klangs (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/)
 * [2022-06-11, 21:18:13](https://news.ycombinator.com/item?id=31708519) - [Low economic growth is a slow-burning crisis for Britain](https://www.economist.com/leaders/2022/06/09/low-economic-growth-is-a-slow-burning-crisis-for-britain)
