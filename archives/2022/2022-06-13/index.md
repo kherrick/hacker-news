@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
 * [2022-06-13, 09:41:38](https://news.ycombinator.com/item?id=31723110) - [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
+* [2022-06-13, 09:41:00](https://news.ycombinator.com/item?id=31723103) - [Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
+* [2022-06-13, 09:32:14](https://news.ycombinator.com/item?id=31723061) - [Using TinyCC to compile Linux (2.4) kernels](https://github.com/seyko2/tccboot)
 * [2022-06-13, 08:02:34](https://news.ycombinator.com/item?id=31722566) - [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
+* [2022-06-13, 07:58:37](https://news.ycombinator.com/item?id=31722532) - [Java is not a safe language](https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/)
+* [2022-06-13, 07:48:47](https://news.ycombinator.com/item?id=31722465) - [Redis To Go shutting down on August 8 2022](https://redistogo.com/)
 * [2022-06-13, 07:39:59](https://news.ycombinator.com/item?id=31722417) - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
 * [2022-06-13, 05:51:13](https://news.ycombinator.com/item?id=31721682) - [An Open Letter to the Next School Shooter](https://www.unprepared.life/p/an-open-letter-to-the-next-school)
 * [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [No, LaMDA is not sentient. Not even slightly](https://garymarcus.substack.com/p/nonsense-on-stilts)

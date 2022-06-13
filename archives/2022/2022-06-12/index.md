@@ -47,6 +47,7 @@
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
 * [2022-06-12, 11:46:48](https://news.ycombinator.com/item?id=31713790) - [Vision GNN: An Image Is Worth Graph of Nodes](https://arxiv.org/abs/2206.00272)
+* [2022-06-12, 11:31:37](https://news.ycombinator.com/item?id=31713720) - [The Six Forces That Fuel Friendship](https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/)
 * [2022-06-12, 11:19:29](https://news.ycombinator.com/item?id=31713654) - [Show HN: Go Template Preview (Powered by WebAssembly)](https://gotemplate.io/)
 * [2022-06-12, 11:16:42](https://news.ycombinator.com/item?id=31713640) - [Technology used by spies is detecting pesky moths](https://www.economist.com/science-and-technology/2022/06/09/technology-used-by-spies-is-detecting-pesky-moths)
 * [2022-06-12, 11:13:43](https://news.ycombinator.com/item?id=31713625) - [I’m Switching from VS Code to vs Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
