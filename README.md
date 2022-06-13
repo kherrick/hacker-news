@@ -7,7 +7,6 @@
 * [2022-06-13, 02:48:20](https://news.ycombinator.com/item?id=31720472) - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
 * [2022-06-13, 02:14:10](https://news.ycombinator.com/item?id=31720251) - [Show HN: Reddit search engine for startup founders](https://gummysearch.com/*)
 * [2022-06-13, 02:12:46](https://news.ycombinator.com/item?id=31720238) - [Mptcp: Moving laptop from GBit to wireless without applications noticing?](https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth)
-* [2022-06-13, 02:08:50](https://news.ycombinator.com/item?id=31720214) - [Robert Jordan, the Man Who Connecticut Police Said Was ‘Too Smart to Be a Cop’](https://melmagazine.com/en-us/story/robert-jordan-too-smart-to-be-a-cop)
 * [2022-06-13, 02:03:01](https://news.ycombinator.com/item?id=31720183) - [Finally, no bid on mortgage-backed securities](https://notoriousrob.com/2022/06/finally-no-bid-on-mbs/)
 * [2022-06-13, 01:58:58](https://news.ycombinator.com/item?id=31720165) - [“Cell Tower” Word Game](https://www.andrewt.net/puzzles/cell-tower/?p=1)
 * [2022-06-13, 01:50:22](https://news.ycombinator.com/item?id=31720110) - [Fresh – Next-gen web framework](https://fresh.deno.dev/)
@@ -28,6 +27,7 @@
 * [2022-06-12, 09:08:48](https://news.ycombinator.com/item?id=31713047) - [Audioserve: Simple personal server to serve audio files from directories](https://github.com/izderadicka/audioserve)
 * [2022-06-12, 07:04:36](https://news.ycombinator.com/item?id=31712241) - [Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)](https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463)
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
+* [2022-06-12, 03:28:44](https://news.ycombinator.com/item?id=31711081) - [Vintage Computing](https://www.glitchwrks.com/vintage.html)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-11, 16:32:40](https://news.ycombinator.com/item?id=31705759) - [Taking on Good Technical Debt](https://matt-rickard.com/good-technical-debt/)
 

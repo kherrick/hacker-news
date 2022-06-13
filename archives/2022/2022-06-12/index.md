@@ -72,6 +72,7 @@
 * [2022-06-12, 04:17:53](https://news.ycombinator.com/item?id=31711386) - [Hokusai and ‘The Great Picture Book of Everything’: The Latest Research](https://blog.britishmuseum.org/hokusai-and-the-great-picture-book-of-everything-the-latest-research/)
 * [2022-06-12, 04:03:18](https://news.ycombinator.com/item?id=31711313) - [What We Overlooked in King Tut’s Tomb](https://www.atlasobscura.com/articles/king-tut-exhibit-oxford)
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
+* [2022-06-12, 03:28:44](https://news.ycombinator.com/item?id=31711081) - [Vintage Computing](https://www.glitchwrks.com/vintage.html)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing Better by Answering Why, What, How](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 * [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-12, 03:02:29](https://news.ycombinator.com/item?id=31710907) - [Ask HN: Is it the “worst” time to buy a house?](https://news.ycombinator.com/item?id=31710907)
