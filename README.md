@@ -2,8 +2,8 @@
 
 * [2022-06-13, 19:36:56](https://news.ycombinator.com/item?id=31730604) - [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
 * [2022-06-13, 19:12:23](https://news.ycombinator.com/item?id=31730221) - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
-* [2022-06-13, 18:55:05](https://news.ycombinator.com/item?id=31729939) - [Coinbase security enhancement prevents withdrawal for 48 hours](https://help.coinbase.com/en/pro/privacy-and-security/other/coinbase-pro-security-enhancements)
 * [2022-06-13, 18:54:42](https://news.ycombinator.com/item?id=31729935) - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
+* [2022-06-13, 18:41:25](https://news.ycombinator.com/item?id=31729699) - [A Short List of Hard Questions: How We Killed Arcus](https://www.psl.com/feed-posts/a-short-list-of-hard-questions-how-we-killed-arcus)
 * [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
 * [2022-06-13, 18:13:31](https://news.ycombinator.com/item?id=31729222) - [Startups making lithium-ion battery recycling more profitable and sustainable](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
