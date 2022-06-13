@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [The Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 * [2022-06-13, 17:07:04](https://news.ycombinator.com/item?id=31728350) - [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
 * [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
@@ -24,7 +25,6 @@
 * [2022-06-13, 09:32:14](https://news.ycombinator.com/item?id=31723061) - [Using TinyCC to compile Linux (2.4) kernels](https://github.com/seyko2/tccboot)
 * [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [LaMDA is not sentient](https://garymarcus.substack.com/p/nonsense-on-stilts)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines (2021)](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
-* [2022-06-13, 01:50:22](https://news.ycombinator.com/item?id=31720110) - [Fresh – Next-gen web framework](https://fresh.deno.dev/)
 * [2022-06-12, 13:09:18](https://news.ycombinator.com/item?id=31714202) - [The lucrative economics of expert witnesses](https://thehustle.co/the-lucrative-economics-of-expert-witnesses/)
 * [2022-06-12, 12:42:10](https://news.ycombinator.com/item?id=31714050) - [PowerMac 6100 Upgrade Guide (2000)](http://www.kan.org/6100/)
 * [2022-06-12, 04:06:16](https://news.ycombinator.com/item?id=31711336) - [The biggest project in modern mathematics [video]](https://www.youtube.com/watch?v=_bJeKUosqoY)
