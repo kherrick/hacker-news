@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
 * [2022-06-13, 19:36:56](https://news.ycombinator.com/item?id=31730604) - [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
+* [2022-06-13, 19:27:51](https://news.ycombinator.com/item?id=31730473) - [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
 * [2022-06-13, 19:12:23](https://news.ycombinator.com/item?id=31730221) - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
 * [2022-06-13, 18:55:05](https://news.ycombinator.com/item?id=31729939) - [Coinbase security enhancement prevents withdrawal for 48 hours](https://help.coinbase.com/en/pro/privacy-and-security/other/coinbase-pro-security-enhancements)
 * [2022-06-13, 18:54:42](https://news.ycombinator.com/item?id=31729935) - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
@@ -56,6 +57,7 @@
 * [2022-06-13, 09:41:38](https://news.ycombinator.com/item?id=31723110) - [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
 * [2022-06-13, 09:41:00](https://news.ycombinator.com/item?id=31723103) - [Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
 * [2022-06-13, 09:32:14](https://news.ycombinator.com/item?id=31723061) - [Using TinyCC to compile Linux (2.4) kernels](https://github.com/seyko2/tccboot)
+* [2022-06-13, 08:15:25](https://news.ycombinator.com/item?id=31722658) - [Choosing Insecurity (2017)](https://knowingless.com/2017/01/15/choosing-insecurity/)
 * [2022-06-13, 08:02:34](https://news.ycombinator.com/item?id=31722566) - [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
 * [2022-06-13, 07:58:37](https://news.ycombinator.com/item?id=31722532) - [Java is not a safe language](https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/)
 * [2022-06-13, 07:48:47](https://news.ycombinator.com/item?id=31722465) - [Redis To Go shutting down on August 8 2022](https://redistogo.com/)
