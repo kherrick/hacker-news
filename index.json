@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-13, 15:19:50",
+      "https://news.ycombinator.com/item?id=31726825"
+    ],
+    [
+      "Why We’re Sticking with Ruby on Rails at Gitlab",
+      "https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 14:57:35",
+      "https://news.ycombinator.com/item?id=31726498"
+    ],
+    [
+      "Reddit Bans ‘SFW’ Deepfake Community",
+      "https://www.unite.ai/reddit-bans-sfw-deepfake-community/"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 14:55:58",
       "https://news.ycombinator.com/item?id=31726472"
     ],
@@ -17,6 +37,26 @@
     [
       "Ask HN: How do you know when you are burning out?",
       "https://news.ycombinator.com/item?id=31726302"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 14:36:15",
+      "https://news.ycombinator.com/item?id=31726222"
+    ],
+    [
+      "Social engineering GoDaddy (2021)",
+      "https://g.livejournal.com/8578.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 14:29:55",
+      "https://news.ycombinator.com/item?id=31726134"
+    ],
+    [
+      "We don't know what makes things sentient–so let's stop acting like we do",
+      "https://nicksaraev.com/we-really-dont-know-so-lets-stop-pretending-that-we-do/"
     ]
   ],
   [
@@ -111,42 +151,12 @@
   ],
   [
     [
-      "2022-06-13, 10:35:19",
-      "https://news.ycombinator.com/item?id=31723473"
-    ],
-    [
-      "Tron’s USDD stablecoin currently losing its peg",
-      "https://coinmarketcap.com/currencies/usdd/"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 10:31:21",
-      "https://news.ycombinator.com/item?id=31723438"
-    ],
-    [
-      "Tether is starting to depeg from USD again",
-      "https://ftx.com/trade/USDT/USD"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 10:28:43",
       "https://news.ycombinator.com/item?id=31723418"
     ],
     [
-      "GitHub Actions Is Down",
+      "GitHub actions is down",
       "https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 10:09:45",
-      "https://news.ycombinator.com/item?id=31723286"
-    ],
-    [
-      "Major crypto lender Celsius freezes withdrawals as markets tumble",
-      "https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2022-06-13, 05:36:07",
+      "https://news.ycombinator.com/item?id=31721584"
+    ],
+    [
+      "LaMDA is not sentient",
+      "https://garymarcus.substack.com/p/nonsense-on-stilts"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 04:21:33",
       "https://news.ycombinator.com/item?id=31721077"
     ],
     [
       "Mammals can breathe through their intestines (2021)",
       "https://www.science.org/content/article/mammals-can-breathe-through-their-intestines"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 02:48:20",
-      "https://news.ycombinator.com/item?id=31720472"
-    ],
-    [
-      "Toyota unveils 8.7 kWh battery for residential applications",
-      "https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2022-06-12, 14:30:36",
-      "https://news.ycombinator.com/item?id=31714774"
-    ],
-    [
-      "How a Saxophonist Tricked the KGB by Encrypting Secrets in Music",
-      "https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra/"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 13:09:18",
       "https://news.ycombinator.com/item?id=31714202"
     ],
     [
       "The lucrative economics of expert witnesses",
       "https://thehustle.co/the-lucrative-economics-of-expert-witnesses/"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 12:07:27",
-      "https://news.ycombinator.com/item?id=31713881"
-    ],
-    [
-      "On The Speed Of Algorithms And Faster Hardware (2014)",
-      "https://alvaro-videla.com/2014/04/on-the-speed-of-algorithms.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Digital Video File Formats (1994)",
       "http://archive.retro.co.za/CDROMs/DrDobbs/CD%20Release%2012/articles/1994/9413/9413b/9413b.htm"
+    ]
+  ],
+  [
+    [
+      "2022-06-11, 15:58:03",
+      "https://news.ycombinator.com/item?id=31705459"
+    ],
+    [
+      "Kenji Tosaki Talks Saturn/Dreamcast Peripheral Design, Reveals “Virtua Visor”",
+      "https://www.segasaturnshiro.com/2022/06/03/interview-kenji-tosaki-talks-saturn-dreamcast-peripheral-design/"
     ]
   ]
 ]
