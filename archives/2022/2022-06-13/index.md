@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 14:33:26](https://news.ycombinator.com/item?id=31726182) - [K-9 Mail joins the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html)
 * [2022-06-13, 13:57:11](https://news.ycombinator.com/item?id=31725641) - [Google and Facebook blocking wind farm because it will raise their electric bill](https://www.latimes.com/business/technology/story/2022-06-11/facebook-google-oppose-buffett-backed-wind-farm-project)
 * [2022-06-13, 13:37:08](https://news.ycombinator.com/item?id=31725373) - [Bitcoin plunges below $24,000, Celsius Network temporarily halts all withdrawals](https://www.cnn.com/2022/06/13/investing/bitcoin-price-celsius/index.html)
 * [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our Plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
