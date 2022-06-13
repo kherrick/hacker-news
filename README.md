@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-13, 21:32:36](https://news.ycombinator.com/item?id=31732048) - [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
 * [2022-06-13, 20:12:51](https://news.ycombinator.com/item?id=31731145) - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
 * [2022-06-13, 19:36:56](https://news.ycombinator.com/item?id=31730604) - [Photos of chickens, taken by chickens](https://chicken.photos/)
 * [2022-06-13, 19:12:23](https://news.ycombinator.com/item?id=31730221) - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
@@ -14,7 +15,6 @@
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
 * [2022-06-13, 16:09:15](https://news.ycombinator.com/item?id=31727464) - [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
 * [2022-06-13, 16:08:48](https://news.ycombinator.com/item?id=31727457) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
-* [2022-06-13, 15:32:26](https://news.ycombinator.com/item?id=31727002) - [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
 * [2022-06-13, 14:55:58](https://news.ycombinator.com/item?id=31726472) - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
 * [2022-06-13, 14:36:15](https://news.ycombinator.com/item?id=31726222) - [Social engineering GoDaddy (2007)](https://g.livejournal.com/8578.html)
 * [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
