@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31722465"
     ],
     [
-      "Redis To Go shutting down on August 8 2022",
+      "Redis To Go is shutting down",
       "https://redistogo.com/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-06-13, 02:03:01",
-      "https://news.ycombinator.com/item?id=31720183"
-    ],
-    [
-      "Finally, no bid on mortgage-backed securities",
-      "https://notoriousrob.com/2022/06/finally-no-bid-on-mbs/"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 01:58:58",
       "https://news.ycombinator.com/item?id=31720165"
     ],
@@ -205,8 +195,18 @@
       "https://news.ycombinator.com/item?id=31718756"
     ],
     [
-      "Foone reverse engineering Skifree (Twitter thread)",
+      "Reverse engineering Skifree",
       "https://twitter.com/Foone/status/1536053690368348160"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 20:58:24",
+      "https://news.ycombinator.com/item?id=31718181"
+    ],
+    [
+      "Umka: A statically typed embeddable scripting language",
+      "https://github.com/vtereshkov/umka-lang"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31712241"
     ],
     [
-      "Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)",
+      "Why did InterlockedIncrement/Decrement only return result’s sign? (2004)",
       "https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463"
     ]
   ],
