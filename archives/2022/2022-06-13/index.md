@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 10:31:53](https://news.ycombinator.com/item?id=31723446) - [Show HN: A way to torture an interviewer (C++, FizzBuzz)](https://news.ycombinator.com/item?id=31723446)
+* [2022-06-13, 10:31:21](https://news.ycombinator.com/item?id=31723438) - [Tether is starting to depeg from USD again](https://ftx.com/trade/USDT/USD)
 * [2022-06-13, 10:28:43](https://news.ycombinator.com/item?id=31723418) - [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)
 * [2022-06-13, 10:09:45](https://news.ycombinator.com/item?id=31723286) - [Major crypto lender Celsius freezes withdrawals as markets tumble](https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/)
 * [2022-06-13, 09:41:38](https://news.ycombinator.com/item?id=31723110) - [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
