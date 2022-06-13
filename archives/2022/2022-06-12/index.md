@@ -52,6 +52,7 @@
 * [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 10:04:09](https://news.ycombinator.com/item?id=31713331) - [Ask HN: Where are all the computers from the 1980's and 1990's?](https://news.ycombinator.com/item?id=31713331)
+* [2022-06-12, 09:08:48](https://news.ycombinator.com/item?id=31713047) - [Audioserve: Simple personal server to serve audio files from directories](https://github.com/izderadicka/audioserve)
 * [2022-06-12, 08:59:41](https://news.ycombinator.com/item?id=31712986) - [Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847)](https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/)
 * [2022-06-12, 07:57:36](https://news.ycombinator.com/item?id=31712552) - [What Does a Batsman See?](https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see)
 * [2022-06-12, 07:35:32](https://news.ycombinator.com/item?id=31712432) - [PageToSheet: Download Tables from Any Webpage to Excel](https://www.pagetosheet.com)
