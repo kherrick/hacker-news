@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-06-13, 01:50:22",
+      "https://news.ycombinator.com/item?id=31720110"
+    ],
+    [
+      "Fresh – The next-gen web framework",
+      "https://fresh.deno.dev/"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 22:51:04",
       "https://news.ycombinator.com/item?id=31719002"
     ],
     [
-      "Google Will Eat Itself",
+      "Google Will Eat Itself (2005)",
       "https://www.gwei.org/index.php"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "Foone reverse engineering Skifree (Twitter thread)",
       "https://twitter.com/Foone/status/1536053690368348160"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 21:23:20",
+      "https://news.ycombinator.com/item?id=31718416"
+    ],
+    [
+      "Show HN: Cleanup Photos by Dragging Boxes",
+      "https://cleanupphotos.com"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer",
       "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 20:58:24",
+      "https://news.ycombinator.com/item?id=31718181"
+    ],
+    [
+      "Umka: A statically typed embeddable scripting language",
+      "https://github.com/vtereshkov/umka-lang"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-06-12, 12:30:47",
-      "https://news.ycombinator.com/item?id=31713999"
-    ],
-    [
-      "Stuxnet is embarrassing, not amazing (2011)",
-      "https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 11:55:05",
       "https://news.ycombinator.com/item?id=31713830"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-06-12, 10:10:03",
-      "https://news.ycombinator.com/item?id=31713360"
+      "2022-06-12, 07:04:36",
+      "https://news.ycombinator.com/item?id=31712241"
     ],
     [
-      "The Y Combinator in Go with generics",
-      "https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 08:59:41",
-      "https://news.ycombinator.com/item?id=31712986"
-    ],
-    [
-      "Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847)",
-      "https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 06:17:34",
-      "https://news.ycombinator.com/item?id=31711990"
-    ],
-    [
-      "Shortsightedness has become an epidemic",
-      "https://www.economist.com/leaders/2022/06/09/short-sightedness-has-become-an-epidemic"
+      "Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)",
+      "https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-11, 17:38:35",
-      "https://news.ycombinator.com/item?id=31706335"
+      "2022-06-11, 16:32:40",
+      "https://news.ycombinator.com/item?id=31705759"
     ],
     [
-      "The Talkative Ones",
-      "https://orthosphere.wordpress.com/2022/06/10/the-talkative-ones/"
+      "Taking on Good Technical Debt",
+      "https://matt-rickard.com/good-technical-debt/"
     ]
   ]
 ]
