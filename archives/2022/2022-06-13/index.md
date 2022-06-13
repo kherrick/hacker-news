@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
 * [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
+* [2022-06-13, 18:16:43](https://news.ycombinator.com/item?id=31729261) - [Amazon Partially Down](https://news.ycombinator.com/item?id=31729261)
 * [2022-06-13, 18:13:31](https://news.ycombinator.com/item?id=31729222) - [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 17:51:50](https://news.ycombinator.com/item?id=31728939) - [Show HN: Voice Clones for Creators](https://coqui.ai/#)

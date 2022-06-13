@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
+* [2022-06-13, 18:16:43](https://news.ycombinator.com/item?id=31729261) - [Amazon Partially Down](https://news.ycombinator.com/item?id=31729261)
 * [2022-06-13, 18:13:31](https://news.ycombinator.com/item?id=31729222) - [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 17:51:50](https://news.ycombinator.com/item?id=31728939) - [Show HN: Voice Clones for Creators](https://coqui.ai/#)
@@ -28,7 +29,6 @@
 * [2022-06-12, 13:09:18](https://news.ycombinator.com/item?id=31714202) - [The lucrative economics of expert witnesses](https://thehustle.co/the-lucrative-economics-of-expert-witnesses/)
 * [2022-06-12, 12:42:10](https://news.ycombinator.com/item?id=31714050) - [PowerMac 6100 Upgrade Guide (2000)](http://www.kan.org/6100/)
 * [2022-06-12, 04:06:16](https://news.ycombinator.com/item?id=31711336) - [The biggest project in modern mathematics [video]](https://www.youtube.com/watch?v=_bJeKUosqoY)
-* [2022-06-11, 22:59:37](https://news.ycombinator.com/item?id=31709311) - [Digital Video File Formats (1994)](http://archive.retro.co.za/CDROMs/DrDobbs/CD%20Release%2012/articles/1994/9413/9413b/9413b.htm)
 * [2022-06-11, 15:58:03](https://news.ycombinator.com/item?id=31705459) - [Kenji Tosaki Talks Saturn/Dreamcast Peripheral Design, Reveals “Virtua Visor”](https://www.segasaturnshiro.com/2022/06/03/interview-kenji-tosaki-talks-saturn-dreamcast-peripheral-design/)
 
 ## [Archives](archives/index.md)
