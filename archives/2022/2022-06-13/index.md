@@ -61,6 +61,7 @@
 * [2022-06-13, 09:32:14](https://news.ycombinator.com/item?id=31723061) - [Using TinyCC to compile Linux (2.4) kernels](https://github.com/seyko2/tccboot)
 * [2022-06-13, 08:15:25](https://news.ycombinator.com/item?id=31722658) - [Choosing Insecurity (2017)](https://knowingless.com/2017/01/15/choosing-insecurity/)
 * [2022-06-13, 08:02:34](https://news.ycombinator.com/item?id=31722566) - [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
+* [2022-06-13, 07:59:28](https://news.ycombinator.com/item?id=31722540) - [Sophisticated Sudokus as Playful Proof Practice](https://probablydance.com/2022/06/12/sophisticated-sudokus-as-playful-proof-practice/)
 * [2022-06-13, 07:58:37](https://news.ycombinator.com/item?id=31722532) - [Java is not a safe language](https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/)
 * [2022-06-13, 07:48:47](https://news.ycombinator.com/item?id=31722465) - [Redis To Go shutting down on August 8 2022](https://redistogo.com/)
 * [2022-06-13, 07:39:59](https://news.ycombinator.com/item?id=31722417) - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
