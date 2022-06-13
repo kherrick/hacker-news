@@ -2,11 +2,11 @@
 
 * [2022-06-13, 20:12:51](https://news.ycombinator.com/item?id=31731145) - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
 * [2022-06-13, 19:36:56](https://news.ycombinator.com/item?id=31730604) - [Photos of chickens, taken by chickens](https://chicken.photos/)
-* [2022-06-13, 19:27:51](https://news.ycombinator.com/item?id=31730473) - [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
 * [2022-06-13, 19:12:23](https://news.ycombinator.com/item?id=31730221) - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
 * [2022-06-13, 18:54:42](https://news.ycombinator.com/item?id=31729935) - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
 * [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
 * [2022-06-13, 18:13:31](https://news.ycombinator.com/item?id=31729222) - [Startups making lithium-ion battery recycling more profitable and sustainable](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
+* [2022-06-13, 18:13:23](https://news.ycombinator.com/item?id=31729218) - [Short-sightedness was rare. In Asia, it is becoming ubiquitous](https://www.economist.com/science-and-technology/2022/06/09/short-sightedness-was-rare-in-asia-it-is-becoming-ubiquitous)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 17:51:50](https://news.ycombinator.com/item?id=31728939) - [Show HN: Voice Clones for Creators](https://coqui.ai/#)
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
