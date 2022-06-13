@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
+* [2022-06-13, 18:13:31](https://news.ycombinator.com/item?id=31729222) - [EV battery recycling is costly. These five startups could change that](https://www.canarymedia.com/articles/electric-vehicles/ev-battery-recycling-is-costly-these-five-startups-could-change-that)
+* [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
+* [2022-06-13, 17:51:50](https://news.ycombinator.com/item?id=31728939) - [Show HN: Voice Clones for Creators](https://coqui.ai/#)
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [The Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 * [2022-06-13, 17:07:04](https://news.ycombinator.com/item?id=31728350) - [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
 * [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
