@@ -75,6 +75,7 @@
 * [2022-06-12, 05:11:55](https://news.ycombinator.com/item?id=31711628) - [May Be Fired Soon for Doing AI Ethics Work](https://cajundiscordian.medium.com/may-be-fired-soon-for-doing-ai-ethics-work-802d8c474e66)
 * [2022-06-12, 04:59:00](https://news.ycombinator.com/item?id=31711573) - [Bioluminescence](https://en.wikipedia.org/wiki/Bioluminescence)
 * [2022-06-12, 04:17:53](https://news.ycombinator.com/item?id=31711386) - [Hokusai and ‘The Great Picture Book of Everything’: The Latest Research](https://blog.britishmuseum.org/hokusai-and-the-great-picture-book-of-everything-the-latest-research/)
+* [2022-06-12, 04:06:16](https://news.ycombinator.com/item?id=31711336) - [The biggest project in modern mathematics [video]](https://www.youtube.com/watch?v=_bJeKUosqoY)
 * [2022-06-12, 04:03:18](https://news.ycombinator.com/item?id=31711313) - [What We Overlooked in King Tut’s Tomb](https://www.atlasobscura.com/articles/king-tut-exhibit-oxford)
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:28:44](https://news.ycombinator.com/item?id=31711081) - [Vintage Computing](https://www.glitchwrks.com/vintage.html)
