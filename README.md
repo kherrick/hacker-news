@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-13, 05:51:13](https://news.ycombinator.com/item?id=31721682) - [An Open Letter to the Next School Shooter](https://www.unprepared.life/p/an-open-letter-to-the-next-school)
-* [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [No, LaMDA is not sentient. Not even slightly](https://garymarcus.substack.com/p/nonsense-on-stilts)
+* [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [LaMDA is not sentient](https://garymarcus.substack.com/p/nonsense-on-stilts)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 * [2022-06-13, 03:00:47](https://news.ycombinator.com/item?id=31720549) - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
 * [2022-06-13, 02:48:20](https://news.ycombinator.com/item?id=31720472) - [Toyota unveils 8.7 kWh battery for residential applications](https://www.pv-magazine.com/2022/06/07/toyota-unveils-8-7-kwh-battery-for-residential-applications/)
+* [2022-06-13, 02:14:10](https://news.ycombinator.com/item?id=31720251) - [Show HN: Reddit search engine for startup founders](https://gummysearch.com/*)
 * [2022-06-13, 02:12:46](https://news.ycombinator.com/item?id=31720238) - [Mptcp: Moving laptop from GBit to wireless without applications noticing?](https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth)
 * [2022-06-13, 02:08:50](https://news.ycombinator.com/item?id=31720214) - [Robert Jordan, the Man Who Connecticut Police Said Was ‘Too Smart to Be a Cop’](https://melmagazine.com/en-us/story/robert-jordan-too-smart-to-be-a-cop)
 * [2022-06-13, 02:03:01](https://news.ycombinator.com/item?id=31720183) - [Finally, no bid on mortgage-backed securities](https://notoriousrob.com/2022/06/finally-no-bid-on-mbs/)
