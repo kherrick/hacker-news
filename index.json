@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-06-13, 13:03:24",
+      "https://news.ycombinator.com/item?id=31724950"
+    ],
+    [
+      "AssemblyAI (YC S17) Is Hiring Senior Research Engineers",
+      "https://news.ycombinator.com/item?id=31724950"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 12:53:24",
+      "https://news.ycombinator.com/item?id=31724838"
+    ],
+    [
+      "Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation",
+      "https://news.ycombinator.com/item?id=31724838"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 12:43:30",
+      "https://news.ycombinator.com/item?id=31724701"
+    ],
+    [
+      "The Fight to Hold Pornhub Accountable",
+      "https://www.newyorker.com/magazine/2022/06/20/the-fight-to-hold-pornhub-accountable"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 12:26:47",
+      "https://news.ycombinator.com/item?id=31724504"
+    ],
+    [
+      "Binance has paused Bitcoin withdrawals “due to a stuck on-chain transaction”",
+      "https://twitter.com/binance/status/1536322033222664194"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 12:12:54",
+      "https://news.ycombinator.com/item?id=31724351"
+    ],
+    [
+      "Temporary pause of $BTC withdrawals on Binance",
+      "https://twitter.com/cz_binance/status/1536317704990208000"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 11:43:02",
+      "https://news.ycombinator.com/item?id=31724051"
+    ],
+    [
+      "How to build a working AI only using synthetic data in just 5 minutes",
+      "https://www.danrose.ai/blog/how-to-build-a-working-ai-only-using-synthetic-data-in-just-5-minutes"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 11:33:43",
       "https://news.ycombinator.com/item?id=31723986"
     ],
@@ -11,11 +71,21 @@
   ],
   [
     [
+      "2022-06-13, 11:24:29",
+      "https://news.ycombinator.com/item?id=31723895"
+    ],
+    [
+      "If Operating Systems Were Beers",
+      "https://beerme.com/beeros.php"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 11:18:26",
       "https://news.ycombinator.com/item?id=31723833"
     ],
     [
-      "Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP",
+      "Tachyum’s Prodigy CPU Specs",
       "https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/"
     ]
   ],
@@ -111,16 +181,6 @@
   ],
   [
     [
-      "2022-06-13, 07:58:37",
-      "https://news.ycombinator.com/item?id=31722532"
-    ],
-    [
-      "Java is not a safe language",
-      "https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 07:48:47",
       "https://news.ycombinator.com/item?id=31722465"
     ],
@@ -135,18 +195,8 @@
       "https://news.ycombinator.com/item?id=31721077"
     ],
     [
-      "Mammals can breathe through their intestines",
+      "Mammals can breathe through their intestines (2021)",
       "https://www.science.org/content/article/mammals-can-breathe-through-their-intestines"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 03:00:47",
-      "https://news.ycombinator.com/item?id=31720549"
-    ],
-    [
-      "Aleph.js – Fullstack Framework in Deno",
-      "https://github.com/alephjs/aleph.js"
     ]
   ],
   [
@@ -161,52 +211,12 @@
   ],
   [
     [
-      "2022-06-13, 02:14:10",
-      "https://news.ycombinator.com/item?id=31720251"
-    ],
-    [
-      "Show HN: Reddit search engine for startup founders",
-      "https://gummysearch.com/*"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 02:12:46",
-      "https://news.ycombinator.com/item?id=31720238"
-    ],
-    [
-      "Mptcp: Moving laptop from GBit to wireless without applications noticing?",
-      "https://www.redhat.com/en/blog/using-multipath-tcp-better-survive-outages-and-increase-bandwidth"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 01:58:58",
-      "https://news.ycombinator.com/item?id=31720165"
-    ],
-    [
-      "“Cell Tower” Word Game",
-      "https://www.andrewt.net/puzzles/cell-tower/?p=1"
-    ]
-  ],
-  [
-    [
       "2022-06-13, 01:50:22",
       "https://news.ycombinator.com/item?id=31720110"
     ],
     [
       "Fresh – Next-gen web framework",
       "https://fresh.deno.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 00:16:48",
-      "https://news.ycombinator.com/item?id=31719532"
-    ],
-    [
-      "Vetting the Cargo",
-      "https://lwn.net/SubscriberLink/897435/3f00904f520a1956/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-06-12, 22:11:15",
-      "https://news.ycombinator.com/item?id=31718756"
-    ],
-    [
-      "Reverse engineering Skifree",
-      "https://twitter.com/Foone/status/1536053690368348160"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 14:30:36",
       "https://news.ycombinator.com/item?id=31714774"
     ],
@@ -241,22 +241,32 @@
   ],
   [
     [
+      "2022-06-12, 13:09:18",
+      "https://news.ycombinator.com/item?id=31714202"
+    ],
+    [
+      "The lucrative economics of expert witnesses",
+      "https://thehustle.co/the-lucrative-economics-of-expert-witnesses/"
+    ]
+  ],
+  [
+    [
+      "2022-06-12, 12:07:27",
+      "https://news.ycombinator.com/item?id=31713881"
+    ],
+    [
+      "On The Speed Of Algorithms And Faster Hardware (2014)",
+      "https://alvaro-videla.com/2014/04/on-the-speed-of-algorithms.html"
+    ]
+  ],
+  [
+    [
       "2022-06-12, 11:31:37",
       "https://news.ycombinator.com/item?id=31713720"
     ],
     [
       "The Six Forces That Fuel Friendship",
       "https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 10:15:19",
-      "https://news.ycombinator.com/item?id=31713390"
-    ],
-    [
-      "Why championship chess sets are so expensive",
-      "https://twitter.com/BusinessInsider/status/1534308483314733059"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Audioserve: Simple personal server to serve audio files from directories",
       "https://github.com/izderadicka/audioserve"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 07:04:36",
-      "https://news.ycombinator.com/item?id=31712241"
-    ],
-    [
-      "Why did InterlockedIncrement/Decrement only return result’s sign? (2004)",
-      "https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463"
     ]
   ],
   [
