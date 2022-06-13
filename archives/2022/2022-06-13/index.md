@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 20:12:51](https://news.ycombinator.com/item?id=31731145) - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
 * [2022-06-13, 19:36:56](https://news.ycombinator.com/item?id=31730604) - [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
 * [2022-06-13, 19:27:51](https://news.ycombinator.com/item?id=31730473) - [North Carolina wants to ban free EV charging](https://thenextweb.com/news/north-carolina-ban-free-ev-charging-is-environmental-disgrace)
 * [2022-06-13, 19:12:23](https://news.ycombinator.com/item?id=31730221) - [Making popular Ruby packages more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
