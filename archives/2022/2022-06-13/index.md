@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 18:54:42](https://news.ycombinator.com/item?id=31729935) - [Official IE11 end-of-life in 2 days](https://death-to-ie11.com/)
+* [2022-06-13, 18:41:25](https://news.ycombinator.com/item?id=31729699) - [A Short List of Hard Questions: How We Killed Arcus](https://www.psl.com/feed-posts/a-short-list-of-hard-questions-how-we-killed-arcus)
 * [2022-06-13, 18:23:40](https://news.ycombinator.com/item?id=31729361) - [Tech CEOs Want Every Worker to Have a Permanent, Public Job Performance File](https://www.vice.com/en/article/n7zj9z/tech-ceos-want-every-worker-to-have-a-permanent-publicly-available-job-performance-file)
 * [2022-06-13, 18:17:23](https://news.ycombinator.com/item?id=31729273) - [LUMI, Europe’s most powerful supercomputer](https://www.lumi-supercomputer.eu/lumi-europes-most-powerful-supercomputer-is-solving-global-challenges-and-promoting-a-green-transformation/)
 * [2022-06-13, 18:16:43](https://news.ycombinator.com/item?id=31729261) - [Amazon Partially Down](https://news.ycombinator.com/item?id=31729261)
