@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-13, 09:41:38](https://news.ycombinator.com/item?id=31723110) - [Tool to demo the Danish Unemployment algorithm](https://ledighedsalgoritmen.dk/)
 * [2022-06-13, 08:02:34](https://news.ycombinator.com/item?id=31722566) - [EU vote to ban all sales of combustion engine vehicles by 2035](https://www.theregister.com/2022/06/10/european_union_votes_to_ban_gasoline_cars/)
 * [2022-06-13, 04:21:33](https://news.ycombinator.com/item?id=31721077) - [Mammals can breathe through their intestines](https://www.science.org/content/article/mammals-can-breathe-through-their-intestines)
 * [2022-06-13, 03:00:47](https://news.ycombinator.com/item?id=31720549) - [Aleph.js – Fullstack Framework in Deno](https://github.com/alephjs/aleph.js)
@@ -12,10 +13,10 @@
 * [2022-06-13, 00:16:48](https://news.ycombinator.com/item?id=31719532) - [Vetting the Cargo](https://lwn.net/SubscriberLink/897435/3f00904f520a1956/)
 * [2022-06-12, 22:51:04](https://news.ycombinator.com/item?id=31719002) - [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [2022-06-12, 22:11:15](https://news.ycombinator.com/item?id=31718756) - [Foone reverse engineering Skifree (Twitter thread)](https://twitter.com/Foone/status/1536053690368348160)
+* [2022-06-12, 21:03:46](https://news.ycombinator.com/item?id=31718240) - [BuildZoom (better way to build custom homes) Is hiring a Principal Engineer](https://jobs.lever.co/buildzoom)
 * [2022-06-12, 20:58:24](https://news.ycombinator.com/item?id=31718181) - [Umka: A statically typed embeddable scripting language](https://github.com/vtereshkov/umka-lang)
 * [2022-06-12, 18:35:20](https://news.ycombinator.com/item?id=31717007) - [Lorien – Infinite canvas drawing/whiteboarding app](https://github.com/mbrlabs/Lorien)
 * [2022-06-12, 16:54:21](https://news.ycombinator.com/item?id=31715995) - [Challenge: Pixel perfect design](https://developer.apple.com/news/?id=3sgp4ps7)
-* [2022-06-12, 16:24:20](https://news.ycombinator.com/item?id=31715708) - [How far behind a plane is its noise?](https://alexanderell.is/posts/plane-noise/)
 * [2022-06-12, 15:56:27](https://news.ycombinator.com/item?id=31715459) - [The pre-Ghibli work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
 * [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:10:35](https://news.ycombinator.com/item?id=31715067) - [Lilium achieves first main wing transition for all-electric aircraft [video]](https://www.youtube.com/watch?v=QNl0DDUnp0E)
@@ -28,7 +29,6 @@
 * [2022-06-12, 03:33:55](https://news.ycombinator.com/item?id=31711118) - [15.ai](https://15.ai/)
 * [2022-06-12, 03:28:44](https://news.ycombinator.com/item?id=31711081) - [Vintage Computing](https://www.glitchwrks.com/vintage.html)
 * [2022-06-12, 03:26:54](https://news.ycombinator.com/item?id=31711071) - [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/)
-* [2022-06-12, 03:20:21](https://news.ycombinator.com/item?id=31711020) - [The State Finally Letting Teens Sleep In](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
 * [2022-06-11, 16:32:40](https://news.ycombinator.com/item?id=31705759) - [Taking on Good Technical Debt](https://matt-rickard.com/good-technical-debt/)
 
 ## [Archives](archives/index.md)
