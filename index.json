@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-13, 10:28:43",
+      "https://news.ycombinator.com/item?id=31723418"
+    ],
+    [
+      "GitHub Actions Is Down",
+      "https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 10:09:45",
+      "https://news.ycombinator.com/item?id=31723286"
+    ],
+    [
+      "Major crypto lender Celsius freezes withdrawals as markets tumble",
+      "https://www.reuters.com/technology/crypto-firm-celsius-pauses-all-transfers-withdrawals-between-accounts-2022-06-13/"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 09:41:38",
       "https://news.ycombinator.com/item?id=31723110"
     ],
@@ -47,16 +67,6 @@
     [
       "Java is not a safe language",
       "https://lemire.me/blog/2019/03/28/java-is-not-a-safe-language/"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 07:48:47",
-      "https://news.ycombinator.com/item?id=31722465"
-    ],
-    [
-      "Redis To Go shutting down on August 8 2022",
-      "https://redistogo.com/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)",
       "https://devblogs.microsoft.com/oldnewthing/20040506-00/?p=39463"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 03:33:55",
-      "https://news.ycombinator.com/item?id=31711118"
-    ],
-    [
-      "15.ai",
-      "https://15.ai/"
     ]
   ],
   [
