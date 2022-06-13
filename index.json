@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-13, 11:33:43",
+      "https://news.ycombinator.com/item?id=31723986"
+    ],
+    [
+      "PostmarketOS 22.06 released – now upgrades are possible",
+      "https://postmarketos.org/blog/2022/06/12/v22.06-release/"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 11:18:26",
+      "https://news.ycombinator.com/item?id=31723833"
+    ],
+    [
+      "Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP",
+      "https://wccftech.com/tachyums-prodigy-cpu-specs-unveiled-5nm-universal-processors-up-to-128-cores-5-7-ghz-16-channel-ddr5-7200-memory-950w-tdp/"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 11:09:08",
       "https://news.ycombinator.com/item?id=31723751"
     ],
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2022-06-13, 10:35:19",
+      "https://news.ycombinator.com/item?id=31723473"
+    ],
+    [
+      "Tron’s USDD stablecoin currently losing its peg",
+      "https://coinmarketcap.com/currencies/usdd/"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 10:31:53",
       "https://news.ycombinator.com/item?id=31723446"
     ],
     [
-      "Show HN: A way to torture an interviewer (C++, FizzBuzz)",
+      "A way to torture an interviewer (C++, FizzBuzz)",
       "https://news.ycombinator.com/item?id=31723446"
     ]
   ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2022-06-12, 20:58:24",
-      "https://news.ycombinator.com/item?id=31718181"
-    ],
-    [
-      "Umka: A statically typed embeddable scripting language",
-      "https://github.com/vtereshkov/umka-lang"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 15:17:32",
-      "https://news.ycombinator.com/item?id=31715119"
-    ],
-    [
-      "New UUID Formats",
-      "https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html"
-    ]
-  ],
-  [
-    [
       "2022-06-12, 14:30:36",
       "https://news.ycombinator.com/item?id=31714774"
     ],
@@ -237,16 +247,6 @@
     [
       "The Six Forces That Fuel Friendship",
       "https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/"
-    ]
-  ],
-  [
-    [
-      "2022-06-12, 11:16:42",
-      "https://news.ycombinator.com/item?id=31713640"
-    ],
-    [
-      "Technology used by spies is detecting pesky moths",
-      "https://www.economist.com/science-and-technology/2022/06/09/technology-used-by-spies-is-detecting-pesky-moths"
     ]
   ],
   [
