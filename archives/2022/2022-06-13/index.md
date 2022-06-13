@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
+* [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
+* [2022-06-13, 16:09:15](https://news.ycombinator.com/item?id=31727464) - [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
 * [2022-06-13, 15:32:26](https://news.ycombinator.com/item?id=31727002) - [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
 * [2022-06-13, 15:19:50](https://news.ycombinator.com/item?id=31726825) - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
 * [2022-06-13, 15:05:14](https://news.ycombinator.com/item?id=31726608) - [Flavors of enums with Rust bindgen](https://www.mdaverde.com/posts/rust-bindgen-enum/)
