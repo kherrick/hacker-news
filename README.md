@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our Plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
 * [2022-06-13, 13:03:24](https://news.ycombinator.com/item?id=31724950) - [AssemblyAI (YC S17) Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950)
 * [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
 * [2022-06-13, 12:43:30](https://news.ycombinator.com/item?id=31724701) - [The Fight to Hold Pornhub Accountable](https://www.newyorker.com/magazine/2022/06/20/the-fight-to-hold-pornhub-accountable)
@@ -25,7 +26,6 @@
 * [2022-06-12, 22:51:04](https://news.ycombinator.com/item?id=31719002) - [Google Will Eat Itself (2005)](https://www.gwei.org/index.php)
 * [2022-06-12, 14:30:36](https://news.ycombinator.com/item?id=31714774) - [How a Saxophonist Tricked the KGB by Encrypting Secrets in Music](https://www.wired.com/story/merryl-goldberg-music-encryption-ussr-phantom-orchestra/)
 * [2022-06-12, 13:09:18](https://news.ycombinator.com/item?id=31714202) - [The lucrative economics of expert witnesses](https://thehustle.co/the-lucrative-economics-of-expert-witnesses/)
-* [2022-06-12, 12:07:27](https://news.ycombinator.com/item?id=31713881) - [On The Speed Of Algorithms And Faster Hardware (2014)](https://alvaro-videla.com/2014/04/on-the-speed-of-algorithms.html)
 * [2022-06-12, 11:31:37](https://news.ycombinator.com/item?id=31713720) - [The Six Forces That Fuel Friendship](https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/)
 * [2022-06-12, 09:37:57](https://news.ycombinator.com/item?id=31713205) - [Inside the world of hostage negotiation (2019)](https://www.theguardian.com/news/2019/jan/25/business-of-kidnapping-inside-the-secret-world-of-hostage-negotiation-ransom-insurance)
 * [2022-06-12, 09:08:48](https://news.ycombinator.com/item?id=31713047) - [Audioserve: Simple personal server to serve audio files from directories](https://github.com/izderadicka/audioserve)
