@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 11:09:08](https://news.ycombinator.com/item?id=31723751) - [How Trustpilot Extorts Businesses](https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62)
+* [2022-06-13, 10:36:46](https://news.ycombinator.com/item?id=31723482) - [Life after Guantanamo: 'We are still in jail'](https://www.bbc.com/news/world-us-canada-61609417)
 * [2022-06-13, 10:31:53](https://news.ycombinator.com/item?id=31723446) - [Show HN: A way to torture an interviewer (C++, FizzBuzz)](https://news.ycombinator.com/item?id=31723446)
 * [2022-06-13, 10:31:21](https://news.ycombinator.com/item?id=31723438) - [Tether is starting to depeg from USD again](https://ftx.com/trade/USDT/USD)
 * [2022-06-13, 10:28:43](https://news.ycombinator.com/item?id=31723418) - [GitHub Actions Is Down](https://github.community/t/my-workflow-says-that-github-actions-is-down-but-the-status-is-green/256066)

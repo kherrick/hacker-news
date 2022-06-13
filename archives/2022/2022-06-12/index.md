@@ -52,6 +52,7 @@
 * [2022-06-12, 11:16:42](https://news.ycombinator.com/item?id=31713640) - [Technology used by spies is detecting pesky moths](https://www.economist.com/science-and-technology/2022/06/09/technology-used-by-spies-is-detecting-pesky-moths)
 * [2022-06-12, 11:13:43](https://news.ycombinator.com/item?id=31713625) - [I’m Switching from VS Code to vs Codium](https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/)
 * [2022-06-12, 10:51:00](https://news.ycombinator.com/item?id=31713525) - [Oneplus GPL violation for Android 12 Kernel](https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24)
+* [2022-06-12, 10:15:19](https://news.ycombinator.com/item?id=31713390) - [Why championship chess sets are so expensive](https://twitter.com/BusinessInsider/status/1534308483314733059)
 * [2022-06-12, 10:10:03](https://news.ycombinator.com/item?id=31713360) - [The Y Combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/)
 * [2022-06-12, 10:04:09](https://news.ycombinator.com/item?id=31713331) - [Ask HN: Where are all the computers from the 1980's and 1990's?](https://news.ycombinator.com/item?id=31713331)
 * [2022-06-12, 09:37:57](https://news.ycombinator.com/item?id=31713205) - [Inside the world of hostage negotiation (2019)](https://www.theguardian.com/news/2019/jan/25/business-of-kidnapping-inside-the-secret-world-of-hostage-negotiation-ransom-insurance)
