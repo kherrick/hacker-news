@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-13](index.md)
 
+* [2022-06-13, 17:07:04](https://news.ycombinator.com/item?id=31728350) - [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
 * [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
+* [2022-06-13, 16:24:33](https://news.ycombinator.com/item?id=31727687) - [Diet Coke probably isn't a cognitive performance enhancer](https://dynomight.net/diet-coke-nootropic/)
 * [2022-06-13, 16:09:15](https://news.ycombinator.com/item?id=31727464) - [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
+* [2022-06-13, 16:08:48](https://news.ycombinator.com/item?id=31727457) - [The prank cursor that resulted in an employee being fired before they started](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2022-06-13, 15:32:26](https://news.ycombinator.com/item?id=31727002) - [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
 * [2022-06-13, 15:19:50](https://news.ycombinator.com/item?id=31726825) - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
 * [2022-06-13, 15:05:14](https://news.ycombinator.com/item?id=31726608) - [Flavors of enums with Rust bindgen](https://www.mdaverde.com/posts/rust-bindgen-enum/)
@@ -22,6 +25,7 @@
 * [2022-06-13, 13:03:24](https://news.ycombinator.com/item?id=31724950) - [AssemblyAI (YC S17) Is Hiring Senior Research Engineers](https://news.ycombinator.com/item?id=31724950)
 * [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
 * [2022-06-13, 12:43:30](https://news.ycombinator.com/item?id=31724701) - [The Fight to Hold Pornhub Accountable](https://www.newyorker.com/magazine/2022/06/20/the-fight-to-hold-pornhub-accountable)
+* [2022-06-13, 12:37:18](https://news.ycombinator.com/item?id=31724613) - [Show HN: Visualizing the math that powers 3D character animation](https://diegomacario.github.io/Animation-Magic/public/index.html)
 * [2022-06-13, 12:26:47](https://news.ycombinator.com/item?id=31724504) - [Binance has paused Bitcoin withdrawals “due to a stuck on-chain transaction”](https://twitter.com/binance/status/1536322033222664194)
 * [2022-06-13, 12:12:54](https://news.ycombinator.com/item?id=31724351) - [Temporary pause of $BTC withdrawals on Binance](https://twitter.com/cz_binance/status/1536317704990208000)
 * [2022-06-13, 11:43:02](https://news.ycombinator.com/item?id=31724051) - [How to build a working AI only using synthetic data in just 5 minutes](https://www.danrose.ai/blog/how-to-build-a-working-ai-only-using-synthetic-data-in-just-5-minutes)
