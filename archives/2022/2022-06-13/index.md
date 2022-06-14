@@ -56,6 +56,7 @@
 * [2022-06-13, 12:37:18](https://news.ycombinator.com/item?id=31724613) - [Show HN: Visualizing the math that powers 3D character animation](https://diegomacario.github.io/Animation-Magic/public/index.html)
 * [2022-06-13, 12:26:47](https://news.ycombinator.com/item?id=31724504) - [Binance has paused Bitcoin withdrawals “due to a stuck on-chain transaction”](https://twitter.com/binance/status/1536322033222664194)
 * [2022-06-13, 12:12:54](https://news.ycombinator.com/item?id=31724351) - [Temporary pause of $BTC withdrawals on Binance](https://twitter.com/cz_binance/status/1536317704990208000)
+* [2022-06-13, 12:01:36](https://news.ycombinator.com/item?id=31724224) - [Quake on the Game Boy Advance](https://www.youtube.com/watch?v=R43k-p9XdIk)
 * [2022-06-13, 11:43:02](https://news.ycombinator.com/item?id=31724051) - [How to build a working AI only using synthetic data in just 5 minutes](https://www.danrose.ai/blog/how-to-build-a-working-ai-only-using-synthetic-data-in-just-5-minutes)
 * [2022-06-13, 11:33:43](https://news.ycombinator.com/item?id=31723986) - [PostmarketOS 22.06 released – now upgrades are possible](https://postmarketos.org/blog/2022/06/12/v22.06-release/)
 * [2022-06-13, 11:24:29](https://news.ycombinator.com/item?id=31723895) - [If Operating Systems Were Beers](https://beerme.com/beeros.php)

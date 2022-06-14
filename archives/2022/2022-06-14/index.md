@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 15:17:58](https://news.ycombinator.com/item?id=31740749) - [GitHub Enterprise SSO is broken, and they don't care](https://notes.acuteaura.net/posts/github-enterprise-security/)
+* [2022-06-14, 14:46:33](https://news.ycombinator.com/item?id=31740297) - [Digibarn Devices: Xerox Star Keyboard](https://digibarn.com/friends/curbow/star/keyboard/)
+* [2022-06-14, 14:31:43](https://news.ycombinator.com/item?id=31740101) - [IBM ordered to hand over ex-CEO emails plotting cuts in older workers](https://www.theregister.com/2022/06/13/ibm_discrimination_email/)
 * [2022-06-14, 14:24:31](https://news.ycombinator.com/item?id=31739981) - [Top creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+* [2022-06-14, 14:12:20](https://news.ycombinator.com/item?id=31739794) - [Fork() without exec() is dangerous in large programs](https://www.evanjones.ca/fork-is-dangerous.html)
 * [2022-06-14, 14:11:34](https://news.ycombinator.com/item?id=31739784) - [The State of Stablecoin Risks (June 2022)](https://www.singlelunch.com/2022/06/14/the-state-of-stablecoin-risks-june-2022/)
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2022-06-14, 13:09:51](https://news.ycombinator.com/item?id=31738871) - [Show HN: Plain Text Cryptocurrency Prices](https://plaintextco.in)
