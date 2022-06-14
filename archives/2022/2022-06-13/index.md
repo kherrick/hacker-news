@@ -34,6 +34,7 @@
 * [2022-06-13, 16:09:15](https://news.ycombinator.com/item?id=31727464) - [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
 * [2022-06-13, 16:08:48](https://news.ycombinator.com/item?id=31727457) - [The prank cursor that resulted in an employee being fired before they started](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2022-06-13, 15:48:09](https://news.ycombinator.com/item?id=31727195) - [Remaining Ambitious](https://etiennefd.substack.com/p/remaining-ambitious)
+* [2022-06-13, 15:43:54](https://news.ycombinator.com/item?id=31727144) - [Coordination Headwind: How organizations are like slime molds](https://komoroske.com/slime-mold/)
 * [2022-06-13, 15:42:20](https://news.ycombinator.com/item?id=31727114) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
 * [2022-06-13, 15:32:26](https://news.ycombinator.com/item?id=31727002) - [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
 * [2022-06-13, 15:19:50](https://news.ycombinator.com/item?id=31726825) - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
