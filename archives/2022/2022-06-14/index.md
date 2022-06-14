@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:17:58](https://news.ycombinator.com/item?id=31740749) - [GitHub Enterprise SSO is broken, and they don't care](https://notes.acuteaura.net/posts/github-enterprise-security/)
+* [2022-06-14, 15:09:11](https://news.ycombinator.com/item?id=31740621) - [Ryanair Condemns Hungarian Govt’s Idiotic ‘Excess Profits’ Tax](https://corporate.ryanair.com/news/ryanair-condemns-hungarian-govts-idiotic-excess-profits-tax-on-loss-making-airlines/)
 * [2022-06-14, 14:46:33](https://news.ycombinator.com/item?id=31740297) - [Digibarn Devices: Xerox Star Keyboard](https://digibarn.com/friends/curbow/star/keyboard/)
+* [2022-06-14, 14:43:02](https://news.ycombinator.com/item?id=31740247) - [Enjoyed Jason Scott’s BBS Documentary](https://changelog.complete.org/archives/10385-really-enjoyed-jason-scotts-bbs-documentary)
 * [2022-06-14, 14:31:43](https://news.ycombinator.com/item?id=31740101) - [IBM ordered to hand over ex-CEO emails plotting cuts in older workers](https://www.theregister.com/2022/06/13/ibm_discrimination_email/)
 * [2022-06-14, 14:24:31](https://news.ycombinator.com/item?id=31739981) - [Top creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
 * [2022-06-14, 14:12:20](https://news.ycombinator.com/item?id=31739794) - [Fork() without exec() is dangerous in large programs](https://www.evanjones.ca/fork-is-dangerous.html)
