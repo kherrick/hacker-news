@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+* [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
 * [2022-06-14, 02:38:04](https://news.ycombinator.com/item?id=31734159) - [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)

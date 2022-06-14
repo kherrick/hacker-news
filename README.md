@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists (2019)](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+* [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
 * [2022-06-14, 02:26:26](https://news.ycombinator.com/item?id=31734110) - [Why I Don't Like Golang (2016)](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
@@ -19,17 +20,16 @@
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
 * [2022-06-13, 16:08:48](https://news.ycombinator.com/item?id=31727457) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
-* [2022-06-13, 14:55:58](https://news.ycombinator.com/item?id=31726472) - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
 * [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
 * [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
 * [2022-06-13, 12:37:18](https://news.ycombinator.com/item?id=31724613) - [Show HN: Visualizing the math that powers 3D character animation](https://diegomacario.github.io/Animation-Magic/public/index.html)
 * [2022-06-13, 07:48:35](https://news.ycombinator.com/item?id=31722464) - [How might Ventura’s rapid security response work?](https://eclecticlight.co/2022/06/13/how-might-venturas-rapid-security-response-work/)
 * [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
-* [2022-06-13, 03:05:30](https://news.ycombinator.com/item?id=31720591) - [Foster care is evolving by relying on children’s kin](https://www.newsnationnow.com/us-news/foster-care-evolving-through-kinship/)
 * [2022-06-13, 02:31:57](https://news.ycombinator.com/item?id=31720356) - [The Copenhagen Interpretation of Ethics (2015)](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
 * [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)
 * [2022-06-12, 16:16:41](https://news.ycombinator.com/item?id=31715635) - [Making Code Faster](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
 * [2022-06-12, 14:55:16](https://news.ycombinator.com/item?id=31714950) - [Overthinking (2021)](https://kerkour.com/overthinking)
+* [2022-06-12, 03:01:42](https://news.ycombinator.com/item?id=31710900) - [Shapash – Python library to make machine learning interpretable](https://maif.github.io/shapash/)
 
 ## [Archives](archives/index.md)
 
