@@ -77,6 +77,7 @@
 * [2022-06-13, 07:48:47](https://news.ycombinator.com/item?id=31722465) - [Redis To Go shutting down on August 8 2022](https://redistogo.com/)
 * [2022-06-13, 07:48:35](https://news.ycombinator.com/item?id=31722464) - [How might Ventura’s rapid security response work?](https://eclecticlight.co/2022/06/13/how-might-venturas-rapid-security-response-work/)
 * [2022-06-13, 07:39:59](https://news.ycombinator.com/item?id=31722417) - [Show HN: Search Aggregate – Search results from lots of different sites](https://searchaggregate.com)
+* [2022-06-13, 06:27:13](https://news.ycombinator.com/item?id=31721927) - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
 * [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
 * [2022-06-13, 05:51:13](https://news.ycombinator.com/item?id=31721682) - [An Open Letter to the Next School Shooter](https://www.unprepared.life/p/an-open-letter-to-the-next-school)
 * [2022-06-13, 05:36:07](https://news.ycombinator.com/item?id=31721584) - [No, LaMDA is not sentient. Not even slightly](https://garymarcus.substack.com/p/nonsense-on-stilts)

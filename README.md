@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2022-06-14, 12:45:05](https://news.ycombinator.com/item?id=31738519) - [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
 * [2022-06-14, 12:44:03](https://news.ycombinator.com/item?id=31738506) - [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
 * [2022-06-14, 12:13:53](https://news.ycombinator.com/item?id=31738029) - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
@@ -20,9 +21,8 @@
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 15:48:09](https://news.ycombinator.com/item?id=31727195) - [Remaining Ambitious](https://etiennefd.substack.com/p/remaining-ambitious)
 * [2022-06-13, 15:42:20](https://news.ycombinator.com/item?id=31727114) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
-* [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
 * [2022-06-13, 13:02:31](https://news.ycombinator.com/item?id=31724942) - [We Will Never Have Enough Software Developers (2020)](https://whoisnnamdi.com/never-enough-developers/)
-* [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
+* [2022-06-13, 06:27:13](https://news.ycombinator.com/item?id=31721927) - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
 * [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
 * [2022-06-13, 02:31:57](https://news.ycombinator.com/item?id=31720356) - [The Copenhagen Interpretation of Ethics (2015)](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
 * [2022-06-12, 19:59:58](https://news.ycombinator.com/item?id=31717732) - [Moon Illusion](https://en.wikipedia.org/wiki/Moon_illusion)
