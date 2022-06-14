@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
+* [2022-06-14, 15:35:30](https://news.ycombinator.com/item?id=31741021) - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
+* [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:17:58](https://news.ycombinator.com/item?id=31740749) - [GitHub Enterprise SSO is broken, and they don't care](https://notes.acuteaura.net/posts/github-enterprise-security/)
 * [2022-06-14, 15:09:11](https://news.ycombinator.com/item?id=31740621) - [Ryanair Condemns Hungarian Govt’s Idiotic ‘Excess Profits’ Tax](https://corporate.ryanair.com/news/ryanair-condemns-hungarian-govts-idiotic-excess-profits-tax-on-loss-making-airlines/)
