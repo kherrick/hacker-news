@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 12:45:05](https://news.ycombinator.com/item?id=31738519) - [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
+* [2022-06-14, 12:44:03](https://news.ycombinator.com/item?id=31738506) - [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
 * [2022-06-14, 12:13:53](https://news.ycombinator.com/item?id=31738029) - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
 * [2022-06-14, 11:57:09](https://news.ycombinator.com/item?id=31737807) - [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
 * [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
@@ -15,8 +17,6 @@
 * [2022-06-14, 00:47:23](https://news.ycombinator.com/item?id=31733513) - [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
 * [2022-06-14, 00:12:54](https://news.ycombinator.com/item?id=31733285) - [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
 * [2022-06-13, 23:19:42](https://news.ycombinator.com/item?id=31732944) - [Stanford’s war on social life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
-* [2022-06-13, 23:18:03](https://news.ycombinator.com/item?id=31732930) - [Human attention has become a commodity](https://mebassett.info/human-attention-commodity)
-* [2022-06-13, 21:32:36](https://news.ycombinator.com/item?id=31732048) - [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 15:48:09](https://news.ycombinator.com/item?id=31727195) - [Remaining Ambitious](https://etiennefd.substack.com/p/remaining-ambitious)
 * [2022-06-13, 15:42:20](https://news.ycombinator.com/item?id=31727114) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)

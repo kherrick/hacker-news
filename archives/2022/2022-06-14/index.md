@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 12:45:05](https://news.ycombinator.com/item?id=31738519) - [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
+* [2022-06-14, 12:44:03](https://news.ycombinator.com/item?id=31738506) - [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
 * [2022-06-14, 12:13:53](https://news.ycombinator.com/item?id=31738029) - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
 * [2022-06-14, 11:57:09](https://news.ycombinator.com/item?id=31737807) - [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
 * [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
