@@ -21,6 +21,7 @@
 * [2022-06-13, 18:13:23](https://news.ycombinator.com/item?id=31729218) - [Short-sightedness was rare. In Asia, it is becoming ubiquitous](https://www.economist.com/science-and-technology/2022/06/09/short-sightedness-was-rare-in-asia-it-is-becoming-ubiquitous)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 17:51:50](https://news.ycombinator.com/item?id=31728939) - [Show HN: Voice Clones for Creators](https://coqui.ai/#)
+* [2022-06-13, 17:36:53](https://news.ycombinator.com/item?id=31728740) - [What does the Turing test really mean? (2009) [pdf]](https://d101vc9winf8ln.cloudfront.net/documents/28495/original/turingfinal.pdf?1529586155)
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [The Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 * [2022-06-13, 17:22:00](https://news.ycombinator.com/item?id=31728560) - [Why the Fed has made a historic mistake on inflation](https://www.economist.com/leaders/2022/04/23/why-the-federal-reserve-has-made-a-historic-mistake-on-inflation)
 * [2022-06-13, 17:07:04](https://news.ycombinator.com/item?id=31728350) - [FTC acts against private equity firm’s acquisition of veterinary clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-acts-protect-pet-owners-private-equity-firms-anticompetitive-acquisition-veterinary-services)
