@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-14, 15:17:58",
+      "https://news.ycombinator.com/item?id=31740749"
+    ],
+    [
+      "GitHub Enterprise SSO is broken, and they don't care",
+      "https://notes.acuteaura.net/posts/github-enterprise-security/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 14:46:33",
+      "https://news.ycombinator.com/item?id=31740297"
+    ],
+    [
+      "Digibarn Devices: Xerox Star Keyboard",
+      "https://digibarn.com/friends/curbow/star/keyboard/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 14:31:43",
+      "https://news.ycombinator.com/item?id=31740101"
+    ],
+    [
+      "IBM ordered to hand over ex-CEO emails plotting cuts in older workers",
+      "https://www.theregister.com/2022/06/13/ibm_discrimination_email/"
+    ]
+  ],
+  [
+    [
       "2022-06-14, 14:24:31",
       "https://news.ycombinator.com/item?id=31739981"
     ],
@@ -11,11 +41,21 @@
   ],
   [
     [
+      "2022-06-14, 14:12:20",
+      "https://news.ycombinator.com/item?id=31739794"
+    ],
+    [
+      "Fork() without exec() is dangerous in large programs",
+      "https://www.evanjones.ca/fork-is-dangerous.html"
+    ]
+  ],
+  [
+    [
       "2022-06-14, 14:11:34",
       "https://news.ycombinator.com/item?id=31739784"
     ],
     [
-      "The State of Stablecoin Risks (June 2022)",
+      "The State of Stablecoin Risks",
       "https://www.singlelunch.com/2022/06/14/the-state-of-stablecoin-risks-june-2022/"
     ]
   ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31738734"
     ],
     [
-      "Professional golf arrived at its breaking point",
+      "How professional golf arrived at its breaking point",
       "https://www.espn.com/golf/story/_/id/34086669/i-see-good-solution-anyone-how-professional-golf-arrived-breaking-point"
     ]
   ],
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2022-06-14, 12:44:03",
-      "https://news.ycombinator.com/item?id=31738506"
-    ],
-    [
-      "Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount",
-      "https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 12:41:36",
       "https://news.ycombinator.com/item?id=31738458"
     ],
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2022-06-14, 12:13:53",
-      "https://news.ycombinator.com/item?id=31738029"
-    ],
-    [
-      "Coinbase Announces 18% Layoffs",
-      "https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 11:57:09",
       "https://news.ycombinator.com/item?id=31737807"
     ],
     [
       "Gitlab Now the Main Development Platform for Wine",
       "https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 11:05:59",
-      "https://news.ycombinator.com/item?id=31737226"
-    ],
-    [
-      "Man loses life savings in cryptocurrency scam",
-      "https://www.bbc.com/news/uk-northern-ireland-61789747"
     ]
   ],
   [
@@ -151,11 +161,21 @@
   ],
   [
     [
+      "2022-06-14, 09:55:04",
+      "https://news.ycombinator.com/item?id=31736703"
+    ],
+    [
+      "Why Rust is a great choice for startups",
+      "https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"
+    ]
+  ],
+  [
+    [
       "2022-06-14, 09:04:30",
       "https://news.ycombinator.com/item?id=31736397"
     ],
     [
-      "The Maraschino Mogul’s Secret Life: How a cherry factory turned bees red (2010)",
+      "The Maraschino Mogul’s Secret Life: How a cherry factory turned bees red (2018)",
       "https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life"
     ]
   ],
@@ -167,16 +187,6 @@
     [
       "How to create a dashboard in Python with Jupyter Notebook",
       "https://mljar.com/blog/dashboard-python-jupyter-notebook/"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 08:11:39",
-      "https://news.ycombinator.com/item?id=31736094"
-    ],
-    [
-      "Ask HN: CS grad who barely knows any CS",
-      "https://news.ycombinator.com/item?id=31736094"
     ]
   ],
   [
@@ -197,36 +207,6 @@
     [
       "The NetHack Challenge: Dungeons, Dragons, and Tourists (2021)",
       "https://nethackchallenge.com/report.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 01:12:02",
-      "https://news.ycombinator.com/item?id=31733673"
-    ],
-    [
-      "Bible Semantic Search",
-      "https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 00:47:23",
-      "https://news.ycombinator.com/item?id=31733513"
-    ],
-    [
-      "Writing is a single-player game",
-      "https://www.otherlife.co/singleplayer/"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 00:12:54",
-      "https://news.ycombinator.com/item?id=31733285"
-    ],
-    [
-      "“Downthem” DDoS-for-hire boss gets 2 years in prison",
-      "https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "Audiobookshelf: Self-hosted audiobook and podcast server",
       "https://github.com/advplyr/audiobookshelf"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 13:02:31",
+      "https://news.ycombinator.com/item?id=31724942"
+    ],
+    [
+      "We Will Never Have Enough Software Developers (2020)",
+      "https://whoisnnamdi.com/never-enough-developers/"
+    ]
+  ],
+  [
+    [
+      "2022-06-13, 12:01:36",
+      "https://news.ycombinator.com/item?id=31724224"
+    ],
+    [
+      "Quake on the Game Boy Advance",
+      "https://www.youtube.com/watch?v=R43k-p9XdIk"
     ]
   ],
   [
