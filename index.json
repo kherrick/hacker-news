@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-14, 15:17:58",
-      "https://news.ycombinator.com/item?id=31740749"
+      "2022-06-14, 15:19:44",
+      "https://news.ycombinator.com/item?id=31740768"
     ],
     [
-      "GitHub Enterprise SSO is broken, and they don't care",
-      "https://notes.acuteaura.net/posts/github-enterprise-security/"
+      "Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1",
+      "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 15:09:11",
+      "https://news.ycombinator.com/item?id=31740621"
+    ],
+    [
+      "Ryanair Condemns Hungarian Govt’s Idiotic ‘Excess Profits’ Tax",
+      "https://corporate.ryanair.com/news/ryanair-condemns-hungarian-govts-idiotic-excess-profits-tax-on-loss-making-airlines/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Digibarn Devices: Xerox Star Keyboard",
       "https://digibarn.com/friends/curbow/star/keyboard/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 14:43:02",
+      "https://news.ycombinator.com/item?id=31740247"
+    ],
+    [
+      "Enjoyed Jason Scott’s BBS Documentary",
+      "https://changelog.complete.org/archives/10385-really-enjoyed-jason-scotts-bbs-documentary"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-06-14, 09:55:04",
-      "https://news.ycombinator.com/item?id=31736703"
-    ],
-    [
-      "Why Rust is a great choice for startups",
-      "https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 09:04:30",
       "https://news.ycombinator.com/item?id=31736397"
     ],
@@ -227,16 +237,6 @@
     [
       "Remaining Ambitious",
       "https://etiennefd.substack.com/p/remaining-ambitious"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 15:42:20",
-      "https://news.ycombinator.com/item?id=31727114"
-    ],
-    [
-      "Audiobookshelf: Self-hosted audiobook and podcast server",
-      "https://github.com/advplyr/audiobookshelf"
     ]
   ],
   [
