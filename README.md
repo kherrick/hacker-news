@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 02:38:04](https://news.ycombinator.com/item?id=31734159) - [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)
+* [2022-06-14, 02:12:52](https://news.ycombinator.com/item?id=31734057) - [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
 * [2022-06-14, 01:12:02](https://news.ycombinator.com/item?id=31733673) - [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
 * [2022-06-14, 00:47:23](https://news.ycombinator.com/item?id=31733513) - [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
 * [2022-06-14, 00:12:54](https://news.ycombinator.com/item?id=31733285) - [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
@@ -15,8 +17,8 @@
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
 * [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
-* [2022-06-13, 16:09:15](https://news.ycombinator.com/item?id=31727464) - [Twenty years of my blog](https://simonwillison.net/2022/Jun/12/twenty-years/)
 * [2022-06-13, 16:08:48](https://news.ycombinator.com/item?id=31727457) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
+* [2022-06-13, 14:57:49](https://news.ycombinator.com/item?id=31726506) - [What's Your Dark Matter Strategy?](https://dx.tips/whats-your-dark-matter-strategy)
 * [2022-06-13, 14:55:58](https://news.ycombinator.com/item?id=31726472) - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
 * [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
 * [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
@@ -27,8 +29,6 @@
 * [2022-06-13, 02:31:57](https://news.ycombinator.com/item?id=31720356) - [The Copenhagen Interpretation of Ethics (2015)](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
 * [2022-06-12, 16:16:41](https://news.ycombinator.com/item?id=31715635) - [Making Code Faster](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
 * [2022-06-12, 14:55:16](https://news.ycombinator.com/item?id=31714950) - [Overthinking (2021)](https://kerkour.com/overthinking)
-* [2022-06-12, 13:09:18](https://news.ycombinator.com/item?id=31714202) - [The lucrative economics of expert witnesses](https://thehustle.co/the-lucrative-economics-of-expert-witnesses/)
-* [2022-06-12, 12:42:10](https://news.ycombinator.com/item?id=31714050) - [PowerMac 6100 Upgrade Guide (2000)](http://www.kan.org/6100/)
 * [2022-06-11, 15:58:03](https://news.ycombinator.com/item?id=31705459) - [Kenji Tosaki Talks Saturn/Dreamcast Peripheral Design, Reveals “Virtua Visor”](https://www.segasaturnshiro.com/2022/06/03/interview-kenji-tosaki-talks-saturn-dreamcast-peripheral-design/)
 
 ## [Archives](archives/index.md)
