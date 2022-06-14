@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+* [2022-06-14, 13:09:51](https://news.ycombinator.com/item?id=31738871) - [Show HN: Plain Text Cryptocurrency Prices](https://plaintextco.in)
+* [2022-06-14, 12:56:23](https://news.ycombinator.com/item?id=31738678) - [Plasma 5.25](https://kde.org/announcements/plasma/5/5.25.0/)
 * [2022-06-14, 12:45:05](https://news.ycombinator.com/item?id=31738519) - [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
 * [2022-06-14, 12:44:03](https://news.ycombinator.com/item?id=31738506) - [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
-* [2022-06-14, 12:41:36](https://news.ycombinator.com/item?id=31738458) - [How to Get Lucky in Life](https://fronterablog.com/luck-surface-area/)
+* [2022-06-14, 12:41:36](https://news.ycombinator.com/item?id=31738458) - [Luck Surface Area: How to Get Lucky In Life](https://fronterablog.com/luck-surface-area/)
 * [2022-06-14, 12:13:53](https://news.ycombinator.com/item?id=31738029) - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
 * [2022-06-14, 11:57:09](https://news.ycombinator.com/item?id=31737807) - [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
 * [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
@@ -25,10 +27,8 @@
 * [2022-06-13, 13:02:31](https://news.ycombinator.com/item?id=31724942) - [We Will Never Have Enough Software Developers (2020)](https://whoisnnamdi.com/never-enough-developers/)
 * [2022-06-13, 06:27:13](https://news.ycombinator.com/item?id=31721927) - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
 * [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
-* [2022-06-13, 02:31:57](https://news.ycombinator.com/item?id=31720356) - [The Copenhagen Interpretation of Ethics (2015)](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
 * [2022-06-12, 19:59:58](https://news.ycombinator.com/item?id=31717732) - [Moon Illusion](https://en.wikipedia.org/wiki/Moon_illusion)
 * [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)
-* [2022-06-12, 13:03:19](https://news.ycombinator.com/item?id=31714166) - [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/)
 * [2022-06-12, 11:51:40](https://news.ycombinator.com/item?id=31713809) - [Motors Big and Small (1971) [video]](https://www.youtube.com/watch?v=oWiYsRi2Dss)
 
 ## [Archives](archives/index.md)
