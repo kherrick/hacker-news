@@ -49,6 +49,7 @@
 * [2022-06-12, 12:07:27](https://news.ycombinator.com/item?id=31713881) - [On The Speed Of Algorithms And Faster Hardware (2014)](https://alvaro-videla.com/2014/04/on-the-speed-of-algorithms.html)
 * [2022-06-12, 11:55:05](https://news.ycombinator.com/item?id=31713830) - [A Chat with Ray Dalio](https://thehustle.co/a-chat-with-ray-dalio/)
 * [2022-06-12, 11:54:40](https://news.ycombinator.com/item?id=31713828) - [Why can’t we remember being born or our first words?](https://theconversation.com/why-cant-you-remember-being-born-learning-to-walk-or-saying-your-first-words-what-scientists-know-about-infantile-amnesia-182736)
+* [2022-06-12, 11:51:40](https://news.ycombinator.com/item?id=31713809) - [Rofessor Eric Laithwaite: Motors Big and Small (1971) [video]](https://www.youtube.com/watch?v=oWiYsRi2Dss)
 * [2022-06-12, 11:51:14](https://news.ycombinator.com/item?id=31713808) - [Remotely mind-controlled metasurface via brainwaves](https://elight.springeropen.com/articles/10.1186/s43593-022-00016-0)
 * [2022-06-12, 11:49:02](https://news.ycombinator.com/item?id=31713801) - [Google's AI Doesn't Understand Restaurant Menus](https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/)
 * [2022-06-12, 11:47:28](https://news.ycombinator.com/item?id=31713793) - [Netflix Cofounder Mark Randolph Has Done a Reddit AMA](https://old.reddit.com/r/IAmA/comments/v8rkum/im_marc_randolph_cofounder_and_first_ceo_of/)
