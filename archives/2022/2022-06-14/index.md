@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
 * [2022-06-14, 14:24:31](https://news.ycombinator.com/item?id=31739981) - [Top creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+* [2022-06-14, 14:11:34](https://news.ycombinator.com/item?id=31739784) - [The State of Stablecoin Risks (June 2022)](https://www.singlelunch.com/2022/06/14/the-state-of-stablecoin-risks-june-2022/)
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2022-06-14, 13:09:51](https://news.ycombinator.com/item?id=31738871) - [Show HN: Plain Text Cryptocurrency Prices](https://plaintextco.in)
 * [2022-06-14, 12:59:49](https://news.ycombinator.com/item?id=31738734) - [Professional golf arrived at its breaking point](https://www.espn.com/golf/story/_/id/34086669/i-see-good-solution-anyone-how-professional-golf-arrived-breaking-point)

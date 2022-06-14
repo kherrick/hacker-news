@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-14, 14:24:31](https://news.ycombinator.com/item?id=31739981) - [Top creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+* [2022-06-14, 14:11:34](https://news.ycombinator.com/item?id=31739784) - [The State of Stablecoin Risks (June 2022)](https://www.singlelunch.com/2022/06/14/the-state-of-stablecoin-risks-june-2022/)
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2022-06-14, 13:09:51](https://news.ycombinator.com/item?id=31738871) - [Show HN: Plain Text Cryptocurrency Prices](https://plaintextco.in)
 * [2022-06-14, 12:59:49](https://news.ycombinator.com/item?id=31738734) - [Professional golf arrived at its breaking point](https://www.espn.com/golf/story/_/id/34086669/i-see-good-solution-anyone-how-professional-golf-arrived-breaking-point)
@@ -26,7 +27,6 @@
 * [2022-06-13, 15:48:09](https://news.ycombinator.com/item?id=31727195) - [Remaining Ambitious](https://etiennefd.substack.com/p/remaining-ambitious)
 * [2022-06-13, 15:42:20](https://news.ycombinator.com/item?id=31727114) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
 * [2022-06-13, 06:27:13](https://news.ycombinator.com/item?id=31721927) - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
-* [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
 * [2022-06-12, 19:59:58](https://news.ycombinator.com/item?id=31717732) - [Moon Illusion](https://en.wikipedia.org/wiki/Moon_illusion)
 * [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)
 * [2022-06-12, 15:29:40](https://news.ycombinator.com/item?id=31715236) - [Leica 0-Series no. 105 owned by'Oscar Barnack](https://www.leitz-auction.com/auction/en/auktion34/auction40/article/305.html)
