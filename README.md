@@ -1,17 +1,18 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 18:51:01](https://news.ycombinator.com/item?id=31744160) - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
 * [2022-06-14, 18:01:05](https://news.ycombinator.com/item?id=31743367) - [FDA Approves First Systemic Treatment for Alopecia Areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
 * [2022-06-14, 17:58:28](https://news.ycombinator.com/item?id=31743335) - [Amazon Builds Property Empire, Quietly Buying Land Across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 * [2022-06-14, 17:58:08](https://news.ycombinator.com/item?id=31743327) - [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 17:43:20](https://news.ycombinator.com/item?id=31743100) - [Heroku April 2022 Incident Review](https://blog.heroku.com/april-2022-incident-review)
+* [2022-06-14, 17:26:22](https://news.ycombinator.com/item?id=31742847) - [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)
 * [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase Lays Off Around 1,100 Employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
 * [2022-06-14, 16:18:37](https://news.ycombinator.com/item?id=31741628) - [The fact-checkers using OSINT to investigate Sri Lanka’s meltdown](https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 16:05:34](https://news.ycombinator.com/item?id=31741421) - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [Association between ADHD medication and depression: A 10-year follow-up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
-* [2022-06-14, 15:36:00](https://news.ycombinator.com/item?id=31741030) - [Study of falling sperm counts finds 'alarming' levels of chemicals in male urine](https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample)
 * [2022-06-14, 15:35:30](https://news.ycombinator.com/item?id=31741021) - [Houston moved 25k people from the streets into homes of their own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
 * [2022-06-14, 15:35:13](https://news.ycombinator.com/item?id=31741018) - [Show HN: My Side Project Rocks – Share and discover side projects](https://mysideproject.rocks/)
 * [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
@@ -29,7 +30,6 @@
 * [2022-06-13, 15:43:54](https://news.ycombinator.com/item?id=31727144) - [Coordination Headwind: How organizations are like slime molds](https://komoroske.com/slime-mold/)
 * [2022-06-13, 13:02:31](https://news.ycombinator.com/item?id=31724942) - [We will never have enough software developers (2020)](https://whoisnnamdi.com/never-enough-developers/)
 * [2022-06-13, 12:01:36](https://news.ycombinator.com/item?id=31724224) - [Quake on the Game Boy Advance [video]](https://www.youtube.com/watch?v=R43k-p9XdIk)
-* [2022-06-13, 06:27:13](https://news.ycombinator.com/item?id=31721927) - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
 
 ## [Archives](archives/index.md)
 
