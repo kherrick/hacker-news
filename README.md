@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists (2019)](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+* [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the angst of American journalists (2019)](https://scholars-stage.org/on-the-angst-of-american-journalists/)
 * [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
-* [2022-06-14, 02:12:52](https://news.ycombinator.com/item?id=31734057) - [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
 * [2022-06-14, 01:12:02](https://news.ycombinator.com/item?id=31733673) - [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
 * [2022-06-14, 00:47:23](https://news.ycombinator.com/item?id=31733513) - [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
 * [2022-06-14, 00:12:54](https://news.ycombinator.com/item?id=31733285) - [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
@@ -18,6 +17,7 @@
 * [2022-06-13, 18:13:23](https://news.ycombinator.com/item?id=31729218) - [In Asia, short-sightedness is becoming ubiquitous](https://www.economist.com/science-and-technology/2022/06/09/short-sightedness-was-rare-in-asia-it-is-becoming-ubiquitous)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 17:32:15](https://news.ycombinator.com/item?id=31728693) - [Developer's Guide to SaaS Compliance](https://www.courier.com/blog/the-developers-guide-to-saas-compliance/)
+* [2022-06-13, 17:00:07](https://news.ycombinator.com/item?id=31728247) - [EasyPost (YC S13) Is Hiring Remote](https://www.easypost.com/careers)
 * [2022-06-13, 16:26:59](https://news.ycombinator.com/item?id=31727727) - [Lead poisoning probably did not cause the downfall of the Roman Empire](https://talesoftimesforgotten.com/2019/08/30/why-lead-poisoning-probably-did-not-cause-the-downfall-of-the-roman-empire/)
 * [2022-06-13, 13:15:40](https://news.ycombinator.com/item?id=31725103) - [Our plans for Thunderbird on Android](https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/)
 * [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
@@ -28,7 +28,7 @@
 * [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)
 * [2022-06-12, 16:16:41](https://news.ycombinator.com/item?id=31715635) - [Making Code Faster](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
 * [2022-06-12, 14:55:16](https://news.ycombinator.com/item?id=31714950) - [Overthinking (2021)](https://kerkour.com/overthinking)
-* [2022-06-12, 11:51:40](https://news.ycombinator.com/item?id=31713809) - [Rofessor Eric Laithwaite: Motors Big and Small (1971) [video]](https://www.youtube.com/watch?v=oWiYsRi2Dss)
+* [2022-06-12, 11:51:40](https://news.ycombinator.com/item?id=31713809) - [Motors Big and Small (1971) [video]](https://www.youtube.com/watch?v=oWiYsRi2Dss)
 * [2022-06-12, 03:01:42](https://news.ycombinator.com/item?id=31710900) - [Shapash – Python library to make machine learning interpretable](https://maif.github.io/shapash/)
 
 ## [Archives](archives/index.md)
