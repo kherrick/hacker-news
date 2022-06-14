@@ -6,6 +6,7 @@
 
 * [2022-06-13, 23:19:42](https://news.ycombinator.com/item?id=31732944) - [Stanford’s War on Social Life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
 * [2022-06-13, 23:18:03](https://news.ycombinator.com/item?id=31732930) - [Human Attention has become a commodity](https://mebassett.info/human-attention-commodity)
+* [2022-06-13, 22:31:05](https://news.ycombinator.com/item?id=31732587) - [What I miss in Java, the perspective of a Kotlin developer](https://blog.frankel.ch/miss-in-java-kotlin-developer/)
 * [2022-06-13, 21:32:36](https://news.ycombinator.com/item?id=31732048) - [Thank HN: Five months ago, I was feeling like a loser, now I am opposite](https://news.ycombinator.com/item?id=31732048)
 * [2022-06-13, 20:12:51](https://news.ycombinator.com/item?id=31731145) - [Diving into GCC Internals](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
 * [2022-06-13, 19:36:56](https://news.ycombinator.com/item?id=31730604) - [Photos of Chickens, Taken by Chickens](https://chicken.photos/)
