@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
 * [2022-06-14, 10:29:36](https://news.ycombinator.com/item?id=31736919) - [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
+* [2022-06-14, 10:20:34](https://news.ycombinator.com/item?id=31736853) - [Ask HN: Do people want a LinkedIn alternative?](https://news.ycombinator.com/item?id=31736853)
+* [2022-06-14, 10:18:58](https://news.ycombinator.com/item?id=31736847) - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
 * [2022-06-14, 10:10:00](https://news.ycombinator.com/item?id=31736794) - [Parsing R code: Freedom of expression is not always a good idea (2012)](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
+* [2022-06-14, 09:55:04](https://news.ycombinator.com/item?id=31736703) - [Why Rust is a great choice for startups](https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/)
 * [2022-06-14, 09:04:30](https://news.ycombinator.com/item?id=31736397) - [The Maraschino Mogul’s Secret Life: How a cherry factory turned bees red (2010)](https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life)
 * [2022-06-14, 08:26:32](https://news.ycombinator.com/item?id=31736164) - [How to create a dashboard in Python with Jupyter Notebook](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
 * [2022-06-14, 08:11:39](https://news.ycombinator.com/item?id=31736094) - [Ask HN: CS grad who barely knows any CS](https://news.ycombinator.com/item?id=31736094)
