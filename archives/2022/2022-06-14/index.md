@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
 * [2022-06-14, 18:51:01](https://news.ycombinator.com/item?id=31744160) - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
+* [2022-06-14, 18:50:15](https://news.ycombinator.com/item?id=31744143) - [Situating Search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816)
 * [2022-06-14, 18:01:05](https://news.ycombinator.com/item?id=31743367) - [FDA Approves First Systemic Treatment for Alopecia Areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
 * [2022-06-14, 17:58:28](https://news.ycombinator.com/item?id=31743335) - [Amazon Builds Property Empire, Quietly Buying Land Across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 * [2022-06-14, 17:58:08](https://news.ycombinator.com/item?id=31743327) - [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
@@ -59,6 +60,7 @@
 * [2022-06-14, 07:05:22](https://news.ycombinator.com/item?id=31735651) - [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
 * [2022-06-14, 07:03:07](https://news.ycombinator.com/item?id=31735636) - [What’s Going on with Sriracha?](https://www.grid.news/story/economy/2022/06/13/whats-going-on-with-sriracha/)
 * [2022-06-14, 06:55:52](https://news.ycombinator.com/item?id=31735580) - [El Salvador's Bitcoin Buys Tracker](https://nayibtracker.com/)
+* [2022-06-14, 05:04:32](https://news.ycombinator.com/item?id=31734934) - [If it isn't going to work, just shut it down](https://99d.substack.com/p/if-it-isnt-going-to-work-just-shut)
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
 * [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
