@@ -29,6 +29,7 @@
 * [2022-06-12, 15:56:27](https://news.ycombinator.com/item?id=31715459) - [A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata](https://www.vulture.com/article/hayao-miyazaki-isao-takahata-before-studio-ghibli-guide.html)
 * [2022-06-12, 15:45:09](https://news.ycombinator.com/item?id=31715364) - [New XPS 13 Shows the Price of Going Too Thin](https://www.tomshardware.com/news/dell-xps-13-9315-repair-no-headphone-jack)
 * [2022-06-12, 15:36:43](https://news.ycombinator.com/item?id=31715299) - [Eating more fish may be linked to higher melanoma risk](https://www.scimex.org/newsfeed/eating-more-fish-may-be-linked-to-higher-melanoma-risk)
+* [2022-06-12, 15:29:40](https://news.ycombinator.com/item?id=31715236) - [Leica 0-Series no. 105 owned by'Oscar Barnack](https://www.leitz-auction.com/auction/en/auktion34/auction40/article/305.html)
 * [2022-06-12, 15:25:47](https://news.ycombinator.com/item?id=31715199) - [Neural networks 'learn' the way humans do? A neuroscientist explains why not](https://theconversation.com/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case-183993)
 * [2022-06-12, 15:17:32](https://news.ycombinator.com/item?id=31715119) - [New UUID Formats from IETF](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html)
 * [2022-06-12, 15:15:33](https://news.ycombinator.com/item?id=31715104) - [Amazon Engineer Sues for Work from Home Costs](https://www.inc.com/suzanne-lucas/amazon-engineer-sues-for-work-from-home-costs.html)
