@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 17:58:08](https://news.ycombinator.com/item?id=31743327) - [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
+* [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 17:43:20](https://news.ycombinator.com/item?id=31743100) - [Heroku April 2022 Incident Review](https://blog.heroku.com/april-2022-incident-review)
 * [2022-06-14, 17:26:22](https://news.ycombinator.com/item?id=31742847) - [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)
-* [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase Lays Off Around 1,100 Employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
 * [2022-06-14, 16:32:36](https://news.ycombinator.com/item?id=31741881) - [Ask HN: Any Sales Engineers out here?](https://news.ycombinator.com/item?id=31741881)
+* [2022-06-14, 16:18:37](https://news.ycombinator.com/item?id=31741628) - [The fact-checkers using OSINT to investigate Sri Lanka’s meltdown](https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 16:05:34](https://news.ycombinator.com/item?id=31741421) - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [Association between ADHD medication and depression: A 10-year follow-up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
@@ -24,12 +26,10 @@
 * [2022-06-14, 10:18:58](https://news.ycombinator.com/item?id=31736847) - [Just another Apollo? Part two (2005)](https://www.thespacereview.com/article/507/1)
 * [2022-06-14, 08:26:32](https://news.ycombinator.com/item?id=31736164) - [How to create a dashboard in Python with Jupyter Notebook](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
 * [2022-06-14, 07:20:41](https://news.ycombinator.com/item?id=31735754) - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
-* [2022-06-13, 15:48:09](https://news.ycombinator.com/item?id=31727195) - [Remaining Ambitious](https://etiennefd.substack.com/p/remaining-ambitious)
 * [2022-06-13, 15:43:54](https://news.ycombinator.com/item?id=31727144) - [Coordination Headwind: How organizations are like slime molds](https://komoroske.com/slime-mold/)
 * [2022-06-13, 13:02:31](https://news.ycombinator.com/item?id=31724942) - [We will never have enough software developers (2020)](https://whoisnnamdi.com/never-enough-developers/)
 * [2022-06-13, 12:01:36](https://news.ycombinator.com/item?id=31724224) - [Quake on the Game Boy Advance [video]](https://www.youtube.com/watch?v=R43k-p9XdIk)
 * [2022-06-13, 06:27:13](https://news.ycombinator.com/item?id=31721927) - [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)
-* [2022-06-12, 19:59:58](https://news.ycombinator.com/item?id=31717732) - [Moon Illusion](https://en.wikipedia.org/wiki/Moon_illusion)
 
 ## [Archives](archives/index.md)
 

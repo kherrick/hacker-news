@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 17:58:08](https://news.ycombinator.com/item?id=31743327) - [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
+* [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 17:43:20](https://news.ycombinator.com/item?id=31743100) - [Heroku April 2022 Incident Review](https://blog.heroku.com/april-2022-incident-review)
 * [2022-06-14, 17:26:22](https://news.ycombinator.com/item?id=31742847) - [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)
 * [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase Lays Off Around 1,100 Employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
 * [2022-06-14, 16:32:36](https://news.ycombinator.com/item?id=31741881) - [Ask HN: Any Sales Engineers out here?](https://news.ycombinator.com/item?id=31741881)
+* [2022-06-14, 16:18:37](https://news.ycombinator.com/item?id=31741628) - [The fact-checkers using OSINT to investigate Sri Lanka’s meltdown](https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 16:05:34](https://news.ycombinator.com/item?id=31741421) - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 * [2022-06-14, 15:56:22](https://news.ycombinator.com/item?id=31741290) - [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
