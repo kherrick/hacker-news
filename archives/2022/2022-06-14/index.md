@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
+* [2022-06-14, 16:05:34](https://news.ycombinator.com/item?id=31741421) - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 * [2022-06-14, 15:56:22](https://news.ycombinator.com/item?id=31741290) - [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
 * [2022-06-14, 15:51:35](https://news.ycombinator.com/item?id=31741219) - [Jail time for online insults, bullying. Japan passes new law.](https://mainichi.jp/english/articles/20220613/p2a/00m/0na/011000c)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
 * [2022-06-14, 15:36:00](https://news.ycombinator.com/item?id=31741030) - [Study: Falling sperm counts finds 'alarming' levels of chemicals in male urine](https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample)
 * [2022-06-14, 15:35:30](https://news.ycombinator.com/item?id=31741021) - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
+* [2022-06-14, 15:35:13](https://news.ycombinator.com/item?id=31741018) - [Show HN: My Side Project Rocks – Share and discover side projects](https://mysideproject.rocks/)
 * [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:17:58](https://news.ycombinator.com/item?id=31740749) - [GitHub Enterprise SSO is broken, and they don't care](https://notes.acuteaura.net/posts/github-enterprise-security/)
+* [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
 * [2022-06-14, 15:09:11](https://news.ycombinator.com/item?id=31740621) - [Ryanair Condemns Hungarian Govt’s Idiotic ‘Excess Profits’ Tax](https://corporate.ryanair.com/news/ryanair-condemns-hungarian-govts-idiotic-excess-profits-tax-on-loss-making-airlines/)
 * [2022-06-14, 14:46:33](https://news.ycombinator.com/item?id=31740297) - [Digibarn Devices: Xerox Star Keyboard](https://digibarn.com/friends/curbow/star/keyboard/)
 * [2022-06-14, 14:43:02](https://news.ycombinator.com/item?id=31740247) - [Enjoyed Jason Scott’s BBS Documentary](https://changelog.complete.org/archives/10385-really-enjoyed-jason-scotts-bbs-documentary)
