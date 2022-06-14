@@ -3,9 +3,11 @@
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 * [2022-06-14, 12:45:05](https://news.ycombinator.com/item?id=31738519) - [Polluted air cuts global life expectancy by two years](https://phys.org/news/2022-06-polluted-air-global-life-years.html)
 * [2022-06-14, 12:44:03](https://news.ycombinator.com/item?id=31738506) - [Murder-Suicides by Pilots Are Vexing Airlines as Deaths Mount](https://www.bloomberg.com/news/articles/2022-06-13/murder-suicides-by-pilots-are-vexing-airlines-as-deaths-mount)
+* [2022-06-14, 12:41:36](https://news.ycombinator.com/item?id=31738458) - [How to Get Lucky in Life](https://fronterablog.com/luck-surface-area/)
 * [2022-06-14, 12:13:53](https://news.ycombinator.com/item?id=31738029) - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
 * [2022-06-14, 11:57:09](https://news.ycombinator.com/item?id=31737807) - [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
 * [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
+* [2022-06-14, 11:04:16](https://news.ycombinator.com/item?id=31737207) - [Japan asteroid probe finds 23 amino acids, researchers confirm](https://asia.nikkei.com/Business/Science/Japan-asteroid-probe-finds-23-amino-acids-researchers-confirm)
 * [2022-06-14, 10:18:58](https://news.ycombinator.com/item?id=31736847) - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
 * [2022-06-14, 10:10:00](https://news.ycombinator.com/item?id=31736794) - [Parsing R code: Freedom of expression is not always a good idea (2012)](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
 * [2022-06-14, 09:55:04](https://news.ycombinator.com/item?id=31736703) - [Why Rust is a great choice for startups](https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/)
@@ -17,7 +19,6 @@
 * [2022-06-14, 01:12:02](https://news.ycombinator.com/item?id=31733673) - [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
 * [2022-06-14, 00:47:23](https://news.ycombinator.com/item?id=31733513) - [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
 * [2022-06-14, 00:12:54](https://news.ycombinator.com/item?id=31733285) - [“Downthem” DDoS-for-hire boss gets 2 years in prison](https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/)
-* [2022-06-13, 23:19:42](https://news.ycombinator.com/item?id=31732944) - [Stanford’s war on social life](https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/)
 * [2022-06-13, 17:59:10](https://news.ycombinator.com/item?id=31729040) - [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-06-13, 15:48:09](https://news.ycombinator.com/item?id=31727195) - [Remaining Ambitious](https://etiennefd.substack.com/p/remaining-ambitious)
 * [2022-06-13, 15:42:20](https://news.ycombinator.com/item?id=31727114) - [Audiobookshelf: Self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
@@ -29,7 +30,6 @@
 * [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)
 * [2022-06-12, 13:03:19](https://news.ycombinator.com/item?id=31714166) - [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/)
 * [2022-06-12, 11:51:40](https://news.ycombinator.com/item?id=31713809) - [Motors Big and Small (1971) [video]](https://www.youtube.com/watch?v=oWiYsRi2Dss)
-* [2022-06-12, 03:01:42](https://news.ycombinator.com/item?id=31710900) - [Shapash – Python library to make machine learning interpretable](https://maif.github.io/shapash/)
 
 ## [Archives](archives/index.md)
 
