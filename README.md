@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 22:12:03](https://news.ycombinator.com/item?id=31746685) - [You vs. A Billionaire: compare your income](https://youvsabillionaire.com/)
 * [2022-06-14, 21:05:45](https://news.ycombinator.com/item?id=31746090) - [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
 * [2022-06-14, 21:00:04](https://news.ycombinator.com/item?id=31746017) - [Kodable (YC IK12) is hiring a full-stack engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
 * [2022-06-14, 19:59:15](https://news.ycombinator.com/item?id=31745230) - [Ransomware group debuts searchable victim data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
@@ -27,7 +28,6 @@
 * [2022-06-14, 03:53:45](https://news.ycombinator.com/item?id=31734552) - [Invasive Jumping Worms (2020) [video]](https://pbswisconsin.org/watch/university-place/invasive-jumping-worms-mj8j7h/)
 * [2022-06-14, 00:24:19](https://news.ycombinator.com/item?id=31733365) - [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog)
 * [2022-06-13, 15:43:54](https://news.ycombinator.com/item?id=31727144) - [Coordination Headwind: How organizations are like slime molds](https://komoroske.com/slime-mold/)
-* [2022-06-13, 14:59:54](https://news.ycombinator.com/item?id=31726534) - [Is linguistic inflation insanely awesome? (2012)](http://www.macmillandictionaryblog.com/is-linguistic-inflation-insanely-awesome)
 * [2022-06-13, 13:02:31](https://news.ycombinator.com/item?id=31724942) - [We will never have enough software developers (2020)](https://whoisnnamdi.com/never-enough-developers/)
 * [2022-06-13, 12:01:36](https://news.ycombinator.com/item?id=31724224) - [Quake on the Game Boy Advance [video]](https://www.youtube.com/watch?v=R43k-p9XdIk)
 
