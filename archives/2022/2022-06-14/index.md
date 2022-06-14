@@ -70,6 +70,7 @@
 * [2022-06-14, 04:26:13](https://news.ycombinator.com/item?id=31734737) - [Direct Voxel Grid Optimization](https://sunset1995.github.io/dvgo/)
 * [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
+* [2022-06-14, 03:53:45](https://news.ycombinator.com/item?id=31734552) - [Invasive Jumping Worms (2020) [video]](https://pbswisconsin.org/watch/university-place/invasive-jumping-worms-mj8j7h/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
 * [2022-06-14, 02:38:04](https://news.ycombinator.com/item?id=31734159) - [Survey: iPhone owners spend more, have higher incomes than Android users](https://www.marketingdive.com/news/survey-iphone-owners-spend-more-have-higher-incomes-than-android-users/541008/)
 * [2022-06-14, 02:32:23](https://news.ycombinator.com/item?id=31734128) - [Insufficient Data](https://www.antipope.org/charlie/blog-static/2010/07/insufficient-data.html)
