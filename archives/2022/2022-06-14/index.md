@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 17:26:22](https://news.ycombinator.com/item?id=31742847) - [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase Lays Off Around 1,100 Employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
 * [2022-06-14, 16:32:36](https://news.ycombinator.com/item?id=31741881) - [Ask HN: Any Sales Engineers out here?](https://news.ycombinator.com/item?id=31741881)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
@@ -24,6 +25,7 @@
 * [2022-06-14, 14:43:02](https://news.ycombinator.com/item?id=31740247) - [Enjoyed Jason Scott’s BBS Documentary](https://changelog.complete.org/archives/10385-really-enjoyed-jason-scotts-bbs-documentary)
 * [2022-06-14, 14:31:43](https://news.ycombinator.com/item?id=31740101) - [IBM ordered to hand over ex-CEO emails plotting cuts in older workers](https://www.theregister.com/2022/06/13/ibm_discrimination_email/)
 * [2022-06-14, 14:24:31](https://news.ycombinator.com/item?id=31739981) - [Top creator economy startup, Laylo, is hiring a lead growth engineer](https://www.notion.so/laylo/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
+* [2022-06-14, 14:24:31](https://news.ycombinator.com/item?id=31739981) - [Laylo (YC S20), creator economy startup, is hiring a lead growth engineer](https://laylo.notion.site/Lead-Growth-Engineer-3f508fb12dbc4daf86950f4ba5e6b8ee)
 * [2022-06-14, 14:12:20](https://news.ycombinator.com/item?id=31739794) - [Fork() without exec() is dangerous in large programs](https://www.evanjones.ca/fork-is-dangerous.html)
 * [2022-06-14, 14:11:34](https://news.ycombinator.com/item?id=31739784) - [The State of Stablecoin Risks (June 2022)](https://www.singlelunch.com/2022/06/14/the-state-of-stablecoin-risks-june-2022/)
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users worldwide](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
