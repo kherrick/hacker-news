@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 09:04:30](https://news.ycombinator.com/item?id=31736397) - [The Maraschino Mogul’s Secret Life: How a cherry factory turned bees red (2010)](https://www.newyorker.com/magazine/2018/04/23/the-maraschino-moguls-secret-life)
 * [2022-06-14, 08:26:32](https://news.ycombinator.com/item?id=31736164) - [How to create a dashboard in Python with Jupyter Notebook](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
+* [2022-06-14, 08:11:39](https://news.ycombinator.com/item?id=31736094) - [Ask HN: CS grad who barely knows any CS](https://news.ycombinator.com/item?id=31736094)
 * [2022-06-14, 07:20:41](https://news.ycombinator.com/item?id=31735754) - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
 * [2022-06-14, 07:05:22](https://news.ycombinator.com/item?id=31735651) - [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
 * [2022-06-14, 07:03:07](https://news.ycombinator.com/item?id=31735636) - [What’s Going on with Sriracha?](https://www.grid.news/story/economy/2022/06/13/whats-going-on-with-sriracha/)
