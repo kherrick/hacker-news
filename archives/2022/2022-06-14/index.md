@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 19:59:15](https://news.ycombinator.com/item?id=31745230) - [Ransomware Group Debuts Searchable Victim Data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
 * [2022-06-14, 19:37:03](https://news.ycombinator.com/item?id=31744892) - [Infants' sense of pain is recognized, finally (1987)](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
 * [2022-06-14, 18:51:01](https://news.ycombinator.com/item?id=31744160) - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
 * [2022-06-14, 18:50:15](https://news.ycombinator.com/item?id=31744143) - [Situating Search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816)
@@ -63,6 +64,7 @@
 * [2022-06-14, 06:55:52](https://news.ycombinator.com/item?id=31735580) - [El Salvador's Bitcoin Buys Tracker](https://nayibtracker.com/)
 * [2022-06-14, 05:04:32](https://news.ycombinator.com/item?id=31734934) - [If it isn't going to work, just shut it down](https://99d.substack.com/p/if-it-isnt-going-to-work-just-shut)
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+* [2022-06-14, 04:26:13](https://news.ycombinator.com/item?id=31734737) - [Direct Voxel Grid Optimization](https://sunset1995.github.io/dvgo/)
 * [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
