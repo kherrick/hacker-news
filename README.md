@@ -17,7 +17,6 @@
 * [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
-* [2022-06-14, 14:46:33](https://news.ycombinator.com/item?id=31740297) - [Xerox Star Keyboard](https://digibarn.com/friends/curbow/star/keyboard/)
 * [2022-06-14, 14:43:02](https://news.ycombinator.com/item?id=31740247) - [Enjoyed Jason Scott’s BBS documentary](https://changelog.complete.org/archives/10385-really-enjoyed-jason-scotts-bbs-documentary)
 * [2022-06-14, 14:12:20](https://news.ycombinator.com/item?id=31739794) - [Fork() without exec() is dangerous in large programs (2016)](https://www.evanjones.ca/fork-is-dangerous.html)
 * [2022-06-14, 13:16:24](https://news.ycombinator.com/item?id=31738975) - [Firefox rolls out Total Cookie Protection by default to all users](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
@@ -28,6 +27,7 @@
 * [2022-06-14, 03:53:45](https://news.ycombinator.com/item?id=31734552) - [Invasive Jumping Worms (2020) [video]](https://pbswisconsin.org/watch/university-place/invasive-jumping-worms-mj8j7h/)
 * [2022-06-14, 00:24:19](https://news.ycombinator.com/item?id=31733365) - [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog)
 * [2022-06-13, 15:43:54](https://news.ycombinator.com/item?id=31727144) - [Coordination Headwind: How organizations are like slime molds](https://komoroske.com/slime-mold/)
+* [2022-06-13, 14:59:54](https://news.ycombinator.com/item?id=31726534) - [Is linguistic inflation insanely awesome? (2012)](http://www.macmillandictionaryblog.com/is-linguistic-inflation-insanely-awesome)
 * [2022-06-13, 13:02:31](https://news.ycombinator.com/item?id=31724942) - [We will never have enough software developers (2020)](https://whoisnnamdi.com/never-enough-developers/)
 * [2022-06-13, 12:01:36](https://news.ycombinator.com/item?id=31724224) - [Quake on the Game Boy Advance [video]](https://www.youtube.com/watch?v=R43k-p9XdIk)
 

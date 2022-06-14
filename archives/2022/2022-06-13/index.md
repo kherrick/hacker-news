@@ -39,6 +39,7 @@
 * [2022-06-13, 15:32:26](https://news.ycombinator.com/item?id=31727002) - [Atlas of Icelandic glaciers](https://islenskirjoklar.is/index.html#/page/map)
 * [2022-06-13, 15:19:50](https://news.ycombinator.com/item?id=31726825) - [Why We’re Sticking with Ruby on Rails at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
 * [2022-06-13, 15:05:14](https://news.ycombinator.com/item?id=31726608) - [Flavors of enums with Rust bindgen](https://www.mdaverde.com/posts/rust-bindgen-enum/)
+* [2022-06-13, 14:59:54](https://news.ycombinator.com/item?id=31726534) - [Is linguistic inflation insanely awesome? (2012)](http://www.macmillandictionaryblog.com/is-linguistic-inflation-insanely-awesome)
 * [2022-06-13, 14:57:49](https://news.ycombinator.com/item?id=31726506) - [What's Your Dark Matter Strategy?](https://dx.tips/whats-your-dark-matter-strategy)
 * [2022-06-13, 14:57:35](https://news.ycombinator.com/item?id=31726498) - [Reddit Bans ‘SFW’ Deepfake Community](https://www.unite.ai/reddit-bans-sfw-deepfake-community/)
 * [2022-06-13, 14:55:58](https://news.ycombinator.com/item?id=31726472) - [Show HN: Tuc – When cut doesn’t cut it](https://github.com/riquito/tuc)
