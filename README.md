@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
 * [2022-06-14, 02:26:26](https://news.ycombinator.com/item?id=31734110) - [Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
@@ -25,11 +26,10 @@
 * [2022-06-13, 12:37:18](https://news.ycombinator.com/item?id=31724613) - [Show HN: Visualizing the math that powers 3D character animation](https://diegomacario.github.io/Animation-Magic/public/index.html)
 * [2022-06-13, 07:48:35](https://news.ycombinator.com/item?id=31722464) - [How might Ventura’s rapid security response work?](https://eclecticlight.co/2022/06/13/how-might-venturas-rapid-security-response-work/)
 * [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
-* [2022-06-13, 03:05:30](https://news.ycombinator.com/item?id=31720591) - [Foster care is evolving by relying on children’s kin](https://www.newsnationnow.com/us-news/foster-care-evolving-through-kinship/)
 * [2022-06-13, 02:31:57](https://news.ycombinator.com/item?id=31720356) - [The Copenhagen Interpretation of Ethics (2015)](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
+* [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)
 * [2022-06-12, 16:16:41](https://news.ycombinator.com/item?id=31715635) - [Making Code Faster](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
 * [2022-06-12, 14:55:16](https://news.ycombinator.com/item?id=31714950) - [Overthinking (2021)](https://kerkour.com/overthinking)
-* [2022-06-11, 15:58:03](https://news.ycombinator.com/item?id=31705459) - [Kenji Tosaki Talks Saturn/Dreamcast Peripheral Design, Reveals “Virtua Visor”](https://www.segasaturnshiro.com/2022/06/03/interview-kenji-tosaki-talks-saturn-dreamcast-peripheral-design/)
 
 ## [Archives](archives/index.md)
 
