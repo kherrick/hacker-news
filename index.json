@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-14, 18:51:01",
+      "https://news.ycombinator.com/item?id=31744160"
+    ],
+    [
+      "A C++17 thread pool for high-performance scientific computing",
+      "https://arxiv.org/abs/2105.00613"
+    ]
+  ],
+  [
+    [
       "2022-06-14, 18:01:05",
       "https://news.ycombinator.com/item?id=31743367"
     ],
@@ -47,6 +57,16 @@
     [
       "Heroku April 2022 Incident Review",
       "https://blog.heroku.com/april-2022-incident-review"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 17:26:22",
+      "https://news.ycombinator.com/item?id=31742847"
+    ],
+    [
+      "Show HN: Practice copywriting with a free copywriting prompt generator",
+      "https://www.copywritingprompts.com/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Association between ADHD medication and depression: A 10-year follow-up",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 15:36:00",
-      "https://news.ycombinator.com/item?id=31741030"
-    ],
-    [
-      "Study of falling sperm counts finds 'alarming' levels of chemicals in male urine",
-      "https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Quake on the Game Boy Advance [video]",
       "https://www.youtube.com/watch?v=R43k-p9XdIk"
-    ]
-  ],
-  [
-    [
-      "2022-06-13, 06:27:13",
-      "https://news.ycombinator.com/item?id=31721927"
-    ],
-    [
-      "Let's build a decentralized social network together with Logseq",
-      "https://briansunter.com/graph/#/page/logseq-social"
     ]
   ]
 ]
