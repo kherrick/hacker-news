@@ -2,8 +2,9 @@
 
 * [2022-06-14, 07:20:41](https://news.ycombinator.com/item?id=31735754) - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
 * [2022-06-14, 07:05:22](https://news.ycombinator.com/item?id=31735651) - [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
+* [2022-06-14, 07:03:07](https://news.ycombinator.com/item?id=31735636) - [What’s Going on with Sriracha?](https://www.grid.news/story/economy/2022/06/13/whats-going-on-with-sriracha/)
+* [2022-06-14, 06:55:52](https://news.ycombinator.com/item?id=31735580) - [El Salvador's Bitcoin Buys Tracker](https://nayibtracker.com/)
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the angst of American journalists (2019)](https://scholars-stage.org/on-the-angst-of-american-journalists/)
-* [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
 * [2022-06-14, 03:03:52](https://news.ycombinator.com/item?id=31734296) - [Electric vehicle battery capable of 98% charge in less than ten minutes](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/)
 * [2022-06-14, 01:12:02](https://news.ycombinator.com/item?id=31733673) - [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
@@ -23,7 +24,6 @@
 * [2022-06-13, 12:53:24](https://news.ycombinator.com/item?id=31724838) - [Launch HN: Karate Labs (YC W22) – Open-Source API and UI Test Automation](https://news.ycombinator.com/item?id=31724838)
 * [2022-06-13, 07:48:35](https://news.ycombinator.com/item?id=31722464) - [How might Ventura’s rapid security response work?](https://eclecticlight.co/2022/06/13/how-might-venturas-rapid-security-response-work/)
 * [2022-06-13, 05:54:55](https://news.ycombinator.com/item?id=31721706) - [When Good Codenames Go Bad (2006)](https://aarongiles.com/old/?p=186)
-* [2022-06-13, 03:05:30](https://news.ycombinator.com/item?id=31720591) - [Foster care is evolving by relying on children’s kin](https://www.newsnationnow.com/us-news/foster-care-evolving-through-kinship/)
 * [2022-06-13, 02:31:57](https://news.ycombinator.com/item?id=31720356) - [The Copenhagen Interpretation of Ethics (2015)](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
 * [2022-06-12, 19:59:58](https://news.ycombinator.com/item?id=31717732) - [Moon Illusion](https://en.wikipedia.org/wiki/Moon_illusion)
 * [2022-06-12, 16:27:48](https://news.ycombinator.com/item?id=31715738) - [System Preferences Reimagined on macOS](https://basicappleguy.com/basicappleblog/settingsapp)

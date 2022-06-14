@@ -6,6 +6,8 @@
 
 * [2022-06-14, 07:20:41](https://news.ycombinator.com/item?id=31735754) - [Show HN: Offline voice messages transcription in Signal Desktop](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
 * [2022-06-14, 07:05:22](https://news.ycombinator.com/item?id=31735651) - [The NetHack Challenge: Dungeons, Dragons, and Tourists](https://nethackchallenge.com/report.html)
+* [2022-06-14, 07:03:07](https://news.ycombinator.com/item?id=31735636) - [What’s Going on with Sriracha?](https://www.grid.news/story/economy/2022/06/13/whats-going-on-with-sriracha/)
+* [2022-06-14, 06:55:52](https://news.ycombinator.com/item?id=31735580) - [El Salvador's Bitcoin Buys Tracker](https://nayibtracker.com/)
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
 * [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
