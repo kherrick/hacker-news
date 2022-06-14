@@ -45,6 +45,7 @@
 * [2022-06-12, 13:31:42](https://news.ycombinator.com/item?id=31714358) - [IETF Tools](https://tools.ietf.org/)
 * [2022-06-12, 13:09:18](https://news.ycombinator.com/item?id=31714202) - [The lucrative economics of expert witnesses](https://thehustle.co/the-lucrative-economics-of-expert-witnesses/)
 * [2022-06-12, 13:06:28](https://news.ycombinator.com/item?id=31714186) - [Doyouneedkubernetes.com](https://doyouneedkubernetes.com/)
+* [2022-06-12, 13:03:19](https://news.ycombinator.com/item?id=31714166) - [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/)
 * [2022-06-12, 12:42:10](https://news.ycombinator.com/item?id=31714050) - [PowerMac 6100 Upgrade Guide (2000)](http://www.kan.org/6100/)
 * [2022-06-12, 12:30:47](https://news.ycombinator.com/item?id=31713999) - [Stuxnet is embarrassing, not amazing (2011)](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/)
 * [2022-06-12, 12:07:27](https://news.ycombinator.com/item?id=31713881) - [On The Speed Of Algorithms And Faster Hardware (2014)](https://alvaro-videla.com/2014/04/on-the-speed-of-algorithms.html)
