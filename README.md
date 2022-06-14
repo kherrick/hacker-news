@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
 * [2022-06-14, 10:29:36](https://news.ycombinator.com/item?id=31736919) - [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
-* [2022-06-14, 10:20:34](https://news.ycombinator.com/item?id=31736853) - [Ask HN: Do people want a LinkedIn alternative?](https://news.ycombinator.com/item?id=31736853)
 * [2022-06-14, 10:18:58](https://news.ycombinator.com/item?id=31736847) - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
 * [2022-06-14, 10:10:00](https://news.ycombinator.com/item?id=31736794) - [Parsing R code: Freedom of expression is not always a good idea (2012)](https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/)
 * [2022-06-14, 09:55:04](https://news.ycombinator.com/item?id=31736703) - [Why Rust is a great choice for startups](https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/)

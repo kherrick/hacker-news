@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-14](index.md)
 
+* [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
 * [2022-06-14, 10:29:36](https://news.ycombinator.com/item?id=31736919) - [Scotland starts renewed case for independence](https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/)
 * [2022-06-14, 10:20:34](https://news.ycombinator.com/item?id=31736853) - [Ask HN: Do people want a LinkedIn alternative?](https://news.ycombinator.com/item?id=31736853)
 * [2022-06-14, 10:18:58](https://news.ycombinator.com/item?id=31736847) - [What NASA had planned to do after Apollo](https://www.thespacereview.com/article/507/1)
