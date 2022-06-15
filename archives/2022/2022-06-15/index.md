@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 04:32:10](https://news.ycombinator.com/item?id=31749138) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 * [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
 * [2022-06-15, 03:19:44](https://news.ycombinator.com/item?id=31748756) - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat Sheet for If I'm Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
