@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 11:02:56](https://news.ycombinator.com/item?id=31751298) - [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
 * [2022-06-15, 10:57:27](https://news.ycombinator.com/item?id=31751265) - [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
+* [2022-06-15, 10:52:52](https://news.ycombinator.com/item?id=31751242) - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)
 * [2022-06-15, 10:48:53](https://news.ycombinator.com/item?id=31751221) - [Intel 4 Process Node in Detail: 2x Density Scaling, 20% Improved Performance](https://www.anandtech.com/show/17448/intel-4-process-node-in-detail-2x-density-scaling-20-improved-performance)
 * [2022-06-15, 10:46:29](https://news.ycombinator.com/item?id=31751203) - [Apple Could Kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens)
 * [2022-06-15, 10:08:36](https://news.ycombinator.com/item?id=31751017) - [OCaml 5.0 Alpha Release](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026)
+* [2022-06-15, 10:08:07](https://news.ycombinator.com/item?id=31751015) - [As professors struggle to recruit postdocs, calls for change in academia](https://www.science.org/content/article/professors-struggle-recruit-postdocs-calls-structural-change-academia-intensify)
+* [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
 * [2022-06-15, 08:50:08](https://news.ycombinator.com/item?id=31750569) - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
 * [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
 * [2022-06-15, 06:44:32](https://news.ycombinator.com/item?id=31749863) - [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
