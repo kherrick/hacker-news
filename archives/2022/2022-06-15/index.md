@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 18:21:42](https://news.ycombinator.com/item?id=31757078) - [The Federal Reserve Raises Interest Rates by 0.75 of a Percentage Point](https://www.nytimes.com/live/2022/06/15/business/fed-reserve-interest-rates-inflation)
+* [2022-06-15, 18:21:41](https://news.ycombinator.com/item?id=31757077) - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
 * [2022-06-15, 18:04:55](https://news.ycombinator.com/item?id=31756837) - [Federal Reserve Raises Raises by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
+* [2022-06-15, 17:53:30](https://news.ycombinator.com/item?id=31756656) - [Undersea Cables Off Hawaii Targeted by Malicious Actors](https://twitter.com/willmanidis/status/1537071965608943616)
 * [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 * [2022-06-15, 17:47:46](https://news.ycombinator.com/item?id=31756569) - [Show HN: Soliciting post placement on Hacker News](https://news.ycombinator.com/item?id=31756569)
 * [2022-06-15, 17:21:40](https://news.ycombinator.com/item?id=31756201) - [A single prophylactic 200mg dose of Doxycyline prevents Lyme disease](https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html)
