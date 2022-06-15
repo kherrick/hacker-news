@@ -20,6 +20,7 @@
 * [2022-06-14, 17:58:28](https://news.ycombinator.com/item?id=31743335) - [Amazon Builds Property Empire, Quietly Buying Land Across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 * [2022-06-14, 17:58:08](https://news.ycombinator.com/item?id=31743327) - [US quietly urges more use of Russia fertilizer to ease food crisis](https://www.bloomberg.com/news/articles/2022-06-13/us-quietly-urges-russia-fertilizer-deals-to-unlock-grain-trade)
 * [2022-06-14, 17:53:37](https://news.ycombinator.com/item?id=31743263) - [James Patterson became the world’s best-selling author](https://www.newyorker.com/magazine/2022/06/20/how-james-patterson-became-the-worlds-best-selling-author)
+* [2022-06-14, 17:53:25](https://news.ycombinator.com/item?id=31743259) - [Oblivious HTTP](https://www.ietf.org/archive/id/draft-ietf-ohai-ohttp-01.html)
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 17:43:20](https://news.ycombinator.com/item?id=31743100) - [Heroku April 2022 Incident Review](https://blog.heroku.com/april-2022-incident-review)
 * [2022-06-14, 17:26:22](https://news.ycombinator.com/item?id=31742847) - [Show HN: Practice copywriting with a free copywriting prompt generator](https://www.copywritingprompts.com/)

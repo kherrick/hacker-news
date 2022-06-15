@@ -2,7 +2,6 @@
 
 * [2022-06-15, 08:50:08](https://news.ycombinator.com/item?id=31750569) - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
 * [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
-* [2022-06-15, 06:44:32](https://news.ycombinator.com/item?id=31749863) - [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
 * [2022-06-15, 06:38:15](https://news.ycombinator.com/item?id=31749817) - [Explore Matter, the new smart home standard, in Home Assistant](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
 * [2022-06-15, 06:32:23](https://news.ycombinator.com/item?id=31749783) - [spaCy: SpanCategorizer a new component that handles overlapping spans](https://explosion.ai/blog/spancat/)
 * [2022-06-15, 04:32:10](https://news.ycombinator.com/item?id=31749138) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
@@ -19,6 +18,7 @@
 * [2022-06-14, 18:51:01](https://news.ycombinator.com/item?id=31744160) - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
 * [2022-06-14, 17:58:28](https://news.ycombinator.com/item?id=31743335) - [Amazon builds property empire, quietly buying land across the US](https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows)
 * [2022-06-14, 17:53:37](https://news.ycombinator.com/item?id=31743263) - [James Patterson became the world’s best-selling author](https://www.newyorker.com/magazine/2022/06/20/how-james-patterson-became-the-worlds-best-selling-author)
+* [2022-06-14, 17:53:25](https://news.ycombinator.com/item?id=31743259) - [Oblivious HTTP](https://www.ietf.org/archive/id/draft-ietf-ohai-ohttp-01.html)
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
