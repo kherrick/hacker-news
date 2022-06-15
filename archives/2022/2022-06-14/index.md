@@ -15,6 +15,7 @@
 * [2022-06-14, 19:59:15](https://news.ycombinator.com/item?id=31745230) - [Ransomware Group Debuts Searchable Victim Data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
 * [2022-06-14, 19:37:03](https://news.ycombinator.com/item?id=31744892) - [Infants' sense of pain is recognized, finally (1987)](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
 * [2022-06-14, 18:59:49](https://news.ycombinator.com/item?id=31744313) - [CoAuthor: Designing a Human-AI Collaborative Writing Dataset](https://arxiv.org/abs/2201.06796)
+* [2022-06-14, 18:54:50](https://news.ycombinator.com/item?id=31744225) - [Is IPv6 faster than IPv4?](https://pansift.com/blog/is-ipv6-faster-than-ipv4/)
 * [2022-06-14, 18:51:01](https://news.ycombinator.com/item?id=31744160) - [A C++17 thread pool for high-performance scientific computing](https://arxiv.org/abs/2105.00613)
 * [2022-06-14, 18:50:15](https://news.ycombinator.com/item?id=31744143) - [Situating Search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816)
 * [2022-06-14, 18:01:05](https://news.ycombinator.com/item?id=31743367) - [FDA Approves First Systemic Treatment for Alopecia Areata](https://www.fda.gov/news-events/press-announcements/fda-approves-first-systemic-treatment-alopecia-areata)
