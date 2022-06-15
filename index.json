@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-06-15, 17:21:40",
-      "https://news.ycombinator.com/item?id=31756201"
-    ],
-    [
-      "A single prophylactic 200mg dose of Doxycyline prevents Lyme disease",
-      "https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html"
-    ]
-  ],
-  [
-    [
       "2022-06-15, 16:17:53",
       "https://news.ycombinator.com/item?id=31755262"
     ],
@@ -267,6 +257,16 @@
     [
       "Writing Is Hard",
       "https://blog.torh.net/2022/06/14/writing-is-hard/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 15:42:23",
+      "https://news.ycombinator.com/item?id=31741119"
+    ],
+    [
+      "Building a web application with Rust and WebAssembly",
+      "https://kerkour.com/web-application-with-rust-and-webassembly"
     ]
   ],
   [
