@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31752496"
     ],
     [
-      "40% of single Japanese men in their 20s have never been on a date, survey says",
+      "Many single Japanese men in their 20s have never been on a date – survey",
       "https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Satellite Detects Largest Release of Methane in the World",
       "https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-15, 12:44:46",
-      "https://news.ycombinator.com/item?id=31752153"
-    ],
-    [
-      "Whitby residents vote in favour of ending second home ownership",
-      "https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627"
     ]
   ],
   [
@@ -141,22 +131,22 @@
   ],
   [
     [
-      "2022-06-15, 10:46:29",
-      "https://news.ycombinator.com/item?id=31751203"
-    ],
-    [
-      "Apple Could Kill CAPTCHAs with Private Access Tokens",
-      "https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens"
-    ]
-  ],
-  [
-    [
       "2022-06-15, 10:08:36",
       "https://news.ycombinator.com/item?id=31751017"
     ],
     [
       "OCaml 5.0 Alpha Release",
       "https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 10:01:43",
+      "https://news.ycombinator.com/item?id=31750979"
+    ],
+    [
+      "Mundane chores are all the rage in gaming",
+      "https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=31749783"
     ],
     [
-      "spaCy: SpanCategorizer a new component that handles overlapping spans",
+      "Spancat: a new approach for span labeling",
       "https://explosion.ai/blog/spancat/"
     ]
   ],
@@ -217,6 +207,16 @@
     [
       "Palm OS developer releases source to classic games, 20 years after release",
       "https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 00:17:45",
+      "https://news.ycombinator.com/item?id=31747695"
+    ],
+    [
+      "Debugging an empty spam email (2016)",
+      "http://blog.petersobot.com/debugging-an-empty-spam-email"
     ]
   ],
   [
