@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 22:55:20](https://news.ycombinator.com/item?id=31760485) - [Show HN: IoT device to warn you of a supernova hours before Earth is destroyed](https://www.exaluminal.com/)
 * [2022-06-15, 22:21:24](https://news.ycombinator.com/item?id=31760172) - [The Dubious Science of Microaggressions](https://unsafescience.substack.com/p/the-dubious-science-of-microaggressions)
 * [2022-06-15, 21:00:41](https://news.ycombinator.com/item?id=31759417) - [Reverie Labs (YC W18) Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
 * [2022-06-15, 20:44:18](https://news.ycombinator.com/item?id=31759234) - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)

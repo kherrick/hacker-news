@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 22:55:20](https://news.ycombinator.com/item?id=31760485) - [Show HN: IoT device to warn you of a supernova hours before Earth is destroyed](https://www.exaluminal.com/)
 * [2022-06-15, 22:21:24](https://news.ycombinator.com/item?id=31760172) - [The Dubious Science of Microaggressions](https://unsafescience.substack.com/p/the-dubious-science-of-microaggressions)
 * [2022-06-15, 21:00:41](https://news.ycombinator.com/item?id=31759417) - [Reverie Labs (YC W18) Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
 * [2022-06-15, 20:44:18](https://news.ycombinator.com/item?id=31759234) - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
@@ -25,7 +26,6 @@
 * [2022-06-15, 10:52:52](https://news.ycombinator.com/item?id=31751242) - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)
 * [2022-06-15, 10:08:07](https://news.ycombinator.com/item?id=31751015) - [As professors struggle to recruit postdocs, calls for change in academia](https://www.science.org/content/article/professors-struggle-recruit-postdocs-calls-structural-change-academia-intensify)
 * [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
-* [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo (2020)](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
 * [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
 * [2022-06-14, 15:42:23](https://news.ycombinator.com/item?id=31741119) - [Building a web application with Rust and WebAssembly](https://kerkour.com/web-application-with-rust-and-webassembly)
 * [2022-06-14, 15:28:35](https://news.ycombinator.com/item?id=31740909) - [Astronomers may have detected a ‘dark’ free-floating black hole](https://news.berkeley.edu/2022/06/10/astronomers-may-have-detected-a-dark-free-floating-black-hole/)
