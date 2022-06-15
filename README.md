@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 14:50:56](https://news.ycombinator.com/item?id=31753772) - [Monograph of wild and cultivated chili peppers](https://phytokeys.pensoft.net/article/71667/)
+* [2022-06-15, 14:50:56](https://news.ycombinator.com/item?id=31753771) - [A biological super glue from mistletoe berries?](https://www.mcgill.ca/newsroom/channels/news/biological-super-glue-mistletoe-berries-339907)
 * [2022-06-15, 14:38:52](https://news.ycombinator.com/item?id=31753566) - [Nuclear Is Back on the Table for a Green Future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
 * [2022-06-15, 14:33:31](https://news.ycombinator.com/item?id=31753475) - [Internet Explorer 11 has retired and is officially out of support](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
 * [2022-06-15, 14:23:52](https://news.ycombinator.com/item?id=31753345) - [Select ’Hello, World’: Serverless Postgres Built for the Cloud](https://neon.tech/blog/hello-world/)
 * [2022-06-15, 13:24:06](https://news.ycombinator.com/item?id=31752516) - [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
-* [2022-06-15, 13:23:15](https://news.ycombinator.com/item?id=31752496) - [Many single Japanese people in their 20s have never been on a date – survey](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
 * [2022-06-15, 12:51:17](https://news.ycombinator.com/item?id=31752176) - [Ubuntu Core 22 is now available – optimised for IoT and embedded devices](https://ubuntu.com/blog/canonical-ubuntu-core-22-is-now-available-optimised-for-iot-and-embedded-devices)
 * [2022-06-15, 12:45:49](https://news.ycombinator.com/item?id=31752166) - [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
 * [2022-06-15, 12:20:36](https://news.ycombinator.com/item?id=31751883) - [What happened to proper tail calls in JavaScript? (2021)](https://www.mgmarlow.com/words/2021-03-27-proper-tail-calls-js/)
@@ -29,7 +30,6 @@
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
 * [2022-06-14, 04:26:47](https://news.ycombinator.com/item?id=31734742) - [3D-Aware Image Synthesis via Learning Structural and Textural Representations](https://genforce.github.io/volumegan/)
 * [2022-06-14, 02:15:19](https://news.ycombinator.com/item?id=31734065) - [How did people get to Britain 950k years ago?](https://lithub.com/how-did-people-get-to-britain-950000-years-ago/)
-* [2022-06-13, 13:09:04](https://news.ycombinator.com/item?id=31725028) - [Let's learn D game programming development (2021) [video]](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
 
 ## [Archives](archives/index.md)
 
