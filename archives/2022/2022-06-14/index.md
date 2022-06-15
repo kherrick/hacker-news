@@ -79,6 +79,7 @@
 * [2022-06-14, 06:00:50](https://news.ycombinator.com/item?id=31735235) - [The Living Newspaper Speaks](https://daily.jstor.org/the-living-newspaper-speaks/)
 * [2022-06-14, 05:04:32](https://news.ycombinator.com/item?id=31734934) - [If it isn't going to work, just shut it down](https://99d.substack.com/p/if-it-isnt-going-to-work-just-shut)
 * [2022-06-14, 04:50:49](https://news.ycombinator.com/item?id=31734859) - [On the Angst of American Journalists](https://scholars-stage.org/on-the-angst-of-american-journalists/)
+* [2022-06-14, 04:26:47](https://news.ycombinator.com/item?id=31734742) - [3D-Aware Image Synthesis via Learning Structural and Textural Representations](https://genforce.github.io/volumegan/)
 * [2022-06-14, 04:26:13](https://news.ycombinator.com/item?id=31734737) - [Direct Voxel Grid Optimization](https://sunset1995.github.io/dvgo/)
 * [2022-06-14, 04:12:15](https://news.ycombinator.com/item?id=31734660) - [Celsius Appears insolvent, and it's taking the whole crypto market with it](https://twitter.com/jonwu_/status/1536476104986267648)
 * [2022-06-14, 04:02:24](https://news.ycombinator.com/item?id=31734604) - [Show HN: The Coinbase FOMO Calculator](https://vidacode.github.io/CoinbaseFomoCalculator/)
