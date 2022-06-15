@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 13:07:32](https://news.ycombinator.com/item?id=31752331) - [Teslas running Autopilot have been in 273 crashes in less than a year](https://www.washingtonpost.com/technology/2022/06/15/tesla-autopilot-crashes/)
+* [2022-06-15, 12:45:49](https://news.ycombinator.com/item?id=31752166) - [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
+* [2022-06-15, 12:44:46](https://news.ycombinator.com/item?id=31752153) - [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)
+* [2022-06-15, 12:42:25](https://news.ycombinator.com/item?id=31752123) - [UK Ends Subsidies for Electric Cars](https://www.gov.uk/government/news/plug-in-grant-for-cars-to-end-as-focus-moves-to-improving-electric-vehicle-charging)
+* [2022-06-15, 12:20:36](https://news.ycombinator.com/item?id=31751883) - [What happened to proper tail calls in JavaScript? (2021)](https://www.mgmarlow.com/words/2021-03-27-proper-tail-calls-js/)
 * [2022-06-15, 12:04:34](https://news.ycombinator.com/item?id=31751730) - [A Git Origin Story (2018)](https://www.linuxjournal.com/content/git-origin-story)
 * [2022-06-15, 12:00:30](https://news.ycombinator.com/item?id=31751694) - [Porter (YC S20) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/porter/jobs)
 * [2022-06-15, 11:15:33](https://news.ycombinator.com/item?id=31751375) - [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
