@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 08:50:08](https://news.ycombinator.com/item?id=31750569) - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
+* [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
 * [2022-06-15, 06:44:32](https://news.ycombinator.com/item?id=31749863) - [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
 * [2022-06-15, 06:38:15](https://news.ycombinator.com/item?id=31749817) - [Explore Matter, the new smart home standard, in Home Assistant](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
 * [2022-06-15, 06:32:23](https://news.ycombinator.com/item?id=31749783) - [spaCy: SpanCategorizer a new component that handles overlapping spans](https://explosion.ai/blog/spancat/)
