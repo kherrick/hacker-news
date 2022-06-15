@@ -18,9 +18,8 @@
 * [2022-06-14, 17:53:37](https://news.ycombinator.com/item?id=31743263) - [James Patterson became the world’s best-selling author](https://www.newyorker.com/magazine/2022/06/20/how-james-patterson-became-the-worlds-best-selling-author)
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
+* [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase lays off around 1,100 employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
-* [2022-06-14, 15:35:13](https://news.ycombinator.com/item?id=31741018) - [Show HN: My Side Project Rocks – Share and discover side projects](https://mysideproject.rocks/)
-* [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
@@ -30,6 +29,7 @@
 * [2022-06-13, 19:06:01](https://news.ycombinator.com/item?id=31730127) - [Animal magic: why intelligence isn’t just for humans](https://www.theguardian.com/books/2022/jun/11/animal-magic-why-intelligence-isnt-just-for-humans)
 * [2022-06-13, 18:27:17](https://news.ycombinator.com/item?id=31729428) - [A Review of Accelerate: The Science of Lean Software and DevOps](https://keunwoo.com/notes/accelerate-devops/)
 * [2022-06-13, 13:47:59](https://news.ycombinator.com/item?id=31725506) - [Game Design Mimetics (Or, What Happened to Game Design?)](https://blog.kylekukshtel.com/game-design-mimetics)
+* [2022-06-13, 13:09:04](https://news.ycombinator.com/item?id=31725028) - [Let's learn D game programming development](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
 
 ## [Archives](archives/index.md)
 
