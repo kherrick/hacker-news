@@ -40,6 +40,7 @@
 * [2022-06-14, 15:36:00](https://news.ycombinator.com/item?id=31741030) - [Study: Falling sperm counts finds 'alarming' levels of chemicals in male urine](https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample)
 * [2022-06-14, 15:35:30](https://news.ycombinator.com/item?id=31741021) - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
 * [2022-06-14, 15:35:13](https://news.ycombinator.com/item?id=31741018) - [Show HN: My Side Project Rocks – Share and discover side projects](https://mysideproject.rocks/)
+* [2022-06-14, 15:28:35](https://news.ycombinator.com/item?id=31740909) - [Astronomers may have detected a ‘dark’ free-floating black hole](https://news.berkeley.edu/2022/06/10/astronomers-may-have-detected-a-dark-free-floating-black-hole/)
 * [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [2022-06-14, 15:27:15](https://news.ycombinator.com/item?id=31740885) - [Are V8 isolates the future of computing?](https://news.ycombinator.com/item?id=31740885)
 * [2022-06-14, 15:24:39](https://news.ycombinator.com/item?id=31740839) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
