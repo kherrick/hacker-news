@@ -36,6 +36,7 @@
 * [2022-06-14, 15:56:22](https://news.ycombinator.com/item?id=31741290) - [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
 * [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
 * [2022-06-14, 15:51:35](https://news.ycombinator.com/item?id=31741219) - [Jail time for online insults, bullying. Japan passes new law.](https://mainichi.jp/english/articles/20220613/p2a/00m/0na/011000c)
+* [2022-06-14, 15:42:23](https://news.ycombinator.com/item?id=31741119) - [Building a web application with Rust and WebAssembly](https://kerkour.com/web-application-with-rust-and-webassembly)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
 * [2022-06-14, 15:36:00](https://news.ycombinator.com/item?id=31741030) - [Study: Falling sperm counts finds 'alarming' levels of chemicals in male urine](https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample)
 * [2022-06-14, 15:35:30](https://news.ycombinator.com/item?id=31741021) - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
