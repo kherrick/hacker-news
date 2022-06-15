@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 18:04:55](https://news.ycombinator.com/item?id=31756837) - [Federal Reserve Raises Raises by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
+* [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
+* [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 * [2022-06-15, 17:47:46](https://news.ycombinator.com/item?id=31756569) - [Show HN: Soliciting post placement on Hacker News](https://news.ycombinator.com/item?id=31756569)
+* [2022-06-15, 17:21:40](https://news.ycombinator.com/item?id=31756201) - [A single prophylactic 200mg dose of Doxycyline prevents Lyme disease](https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html)
 * [2022-06-15, 17:07:36](https://news.ycombinator.com/item?id=31755999) - [Senator Warren proposes sweeping ban on location and health data sales](https://www.theverge.com/2022/6/15/23169718/roe-wade-elizabeth-warren-location-data-tracking-ban-sale-brokers)
 * [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
 * [2022-06-15, 16:53:15](https://news.ycombinator.com/item?id=31755779) - [Microsoft ditches non-compete clauses, enhances pay transparency](https://www.hcamag.com/ca/specialization/employment-law/microsoft-ditches-non-compete-clauses-enhances-pay-transparency/409054)
