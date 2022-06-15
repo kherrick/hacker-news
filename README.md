@@ -23,7 +23,7 @@
 * [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
 * [2022-06-14, 05:04:32](https://news.ycombinator.com/item?id=31734934) - [If it isn't going to work, just shut it down](https://99d.substack.com/p/if-it-isnt-going-to-work-just-shut)
-* [2022-06-14, 04:26:13](https://news.ycombinator.com/item?id=31734737) - [Direct Voxel Grid Optimization](https://sunset1995.github.io/dvgo/)
+* [2022-06-14, 02:15:19](https://news.ycombinator.com/item?id=31734065) - [How did people get to Britain 950k years ago?](https://lithub.com/how-did-people-get-to-britain-950000-years-ago/)
 * [2022-06-14, 00:24:19](https://news.ycombinator.com/item?id=31733365) - [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog)
 * [2022-06-13, 19:06:01](https://news.ycombinator.com/item?id=31730127) - [Animal magic: why intelligence isn’t just for humans](https://www.theguardian.com/books/2022/jun/11/animal-magic-why-intelligence-isnt-just-for-humans)
 * [2022-06-13, 18:27:17](https://news.ycombinator.com/item?id=31729428) - [A Review of Accelerate: The Science of Lean Software and DevOps](https://keunwoo.com/notes/accelerate-devops/)
