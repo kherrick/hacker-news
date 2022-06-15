@@ -34,6 +34,7 @@
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 16:05:34](https://news.ycombinator.com/item?id=31741421) - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 * [2022-06-14, 15:56:22](https://news.ycombinator.com/item?id=31741290) - [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
+* [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
 * [2022-06-14, 15:51:35](https://news.ycombinator.com/item?id=31741219) - [Jail time for online insults, bullying. Japan passes new law.](https://mainichi.jp/english/articles/20220613/p2a/00m/0na/011000c)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
 * [2022-06-14, 15:36:00](https://news.ycombinator.com/item?id=31741030) - [Study: Falling sperm counts finds 'alarming' levels of chemicals in male urine](https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample)

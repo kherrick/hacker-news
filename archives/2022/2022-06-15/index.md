@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 21:00:41](https://news.ycombinator.com/item?id=31759417) - [Reverie Labs (YC W18) Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
 * [2022-06-15, 19:57:23](https://news.ycombinator.com/item?id=31758594) - [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 * [2022-06-15, 19:47:10](https://news.ycombinator.com/item?id=31758426) - [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
 * [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)

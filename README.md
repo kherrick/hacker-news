@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 21:00:41](https://news.ycombinator.com/item?id=31759417) - [Reverie Labs (YC W18) Is Hiring Software Engineers to Cure Cancer](https://www.reverielabs.com/careers)
 * [2022-06-15, 19:57:23](https://news.ycombinator.com/item?id=31758594) - [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 * [2022-06-15, 19:47:10](https://news.ycombinator.com/item?id=31758426) - [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
 * [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
@@ -9,10 +10,8 @@
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
 * [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 * [2022-06-15, 17:21:40](https://news.ycombinator.com/item?id=31756201) - [A single prophylactic 200mg dose of Doxycyline prevents Lyme disease](https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html)
-* [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey (YC W21) is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
 * [2022-06-15, 16:24:55](https://news.ycombinator.com/item?id=31755361) - [A mystery of the ketogenic diet: benevolent pseudo-diabetes (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738531/)
 * [2022-06-15, 16:17:53](https://news.ycombinator.com/item?id=31755262) - [Heroku 22 Stack](https://devcenter.heroku.com/articles/heroku-22-stack)
-* [2022-06-15, 16:01:26](https://news.ycombinator.com/item?id=31755029) - [First flight of the Airbus A321XLR with up to 4700 NM range](https://www.airbus.com/en/a321xlr-first-flight)
 * [2022-06-15, 16:00:48](https://news.ycombinator.com/item?id=31755025) - [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
 * [2022-06-15, 15:44:11](https://news.ycombinator.com/item?id=31754739) - [Does the Tank Have a Future?](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)
 * [2022-06-15, 14:50:56](https://news.ycombinator.com/item?id=31753772) - [Monograph of wild and cultivated chili peppers](https://phytokeys.pensoft.net/article/71667/)
@@ -28,6 +27,7 @@
 * [2022-06-15, 10:06:01](https://news.ycombinator.com/item?id=31750999) - [Why Decentralization Matters (2018)](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 * [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
 * [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo (2020)](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
+* [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
 * [2022-06-14, 15:27:15](https://news.ycombinator.com/item?id=31740885) - [Are V8 isolates the future of computing?](https://news.ycombinator.com/item?id=31740885)
 * [2022-06-14, 02:06:50](https://news.ycombinator.com/item?id=31734022) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 
