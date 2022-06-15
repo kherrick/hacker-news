@@ -39,3 +39,4 @@
 * [2022-06-15, 01:39:52](https://news.ycombinator.com/item?id=31748173) - [Why duck typing (and structural subtyping) is safe](http://www.jerf.org/iri/post/2954)
 * [2022-06-15, 01:32:44](https://news.ycombinator.com/item?id=31748139) - [Thank HN: WhatsApp Ban Reversed](https://news.ycombinator.com/item?id=31748139)
 * [2022-06-15, 01:21:59](https://news.ycombinator.com/item?id=31748079) - [Major water cutbacks loom as shrinking Colorado River nears ‘moment of reckoning](https://www.latimes.com/environment/story/2022-06-14/big-water-cutbacks-ordered-amid-colorado-river-shortage)
+* [2022-06-15, 00:17:45](https://news.ycombinator.com/item?id=31747695) - [Debugging an empty spam email (2016)](http://blog.petersobot.com/debugging-an-empty-spam-email)
