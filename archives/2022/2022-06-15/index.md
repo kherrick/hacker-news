@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 * [2022-06-15, 18:21:42](https://news.ycombinator.com/item?id=31757078) - [The Federal Reserve Raises Interest Rates by 0.75 of a Percentage Point](https://www.nytimes.com/live/2022/06/15/business/fed-reserve-interest-rates-inflation)
 * [2022-06-15, 18:21:41](https://news.ycombinator.com/item?id=31757077) - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
 * [2022-06-15, 18:04:55](https://news.ycombinator.com/item?id=31756837) - [Federal Reserve Raises Raises by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 * [2022-06-15, 18:21:41](https://news.ycombinator.com/item?id=31757077) - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
 * [2022-06-15, 18:04:55](https://news.ycombinator.com/item?id=31756837) - [Federal Reserve raises rates by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
@@ -28,7 +29,6 @@
 * [2022-06-15, 10:06:01](https://news.ycombinator.com/item?id=31750999) - [Why Decentralization Matters (2018)](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 * [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
 * [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo (2020)](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
-* [2022-06-15, 06:38:15](https://news.ycombinator.com/item?id=31749817) - [Explore Matter, the new smart home standard, in Home Assistant](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
 * [2022-06-14, 15:27:15](https://news.ycombinator.com/item?id=31740885) - [Are V8 isolates the future of computing?](https://news.ycombinator.com/item?id=31740885)
 
 ## [Archives](archives/index.md)
