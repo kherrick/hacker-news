@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-06-14, 23:53:07",
-      "https://news.ycombinator.com/item?id=31747509"
-    ],
-    [
-      "Docker on (rooted) Android",
-      "https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 22:23:56",
       "https://news.ycombinator.com/item?id=31746786"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=31746090"
     ],
     [
-      "The hunt for a cluster-killer Erlang bug",
+      "The hunt for a cluster-killer Erlang bug (2021)",
       "https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b"
     ]
   ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2022-06-13, 21:43:30",
+      "https://news.ycombinator.com/item?id=31732168"
+    ],
+    [
+      "The allure of rock crystal in Copper Age southern Iberia",
+      "https://www.sciencedirect.com/science/article/abs/pii/S1040618215007582"
+    ]
+  ],
+  [
+    [
       "2022-06-13, 13:47:59",
       "https://news.ycombinator.com/item?id=31725506"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31725028"
     ],
     [
-      "Let's learn D game programming development",
+      "Let's learn D game programming development (2021) [video]",
       "https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-"
     ]
   ]
