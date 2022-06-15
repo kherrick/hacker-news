@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-06-15, 16:01:26",
+      "https://news.ycombinator.com/item?id=31755029"
+    ],
+    [
+      "First flight of the Airbus A321XLR with up to 4700 NM range",
+      "https://www.airbus.com/en/a321xlr-first-flight"
+    ]
+  ],
+  [
+    [
       "2022-06-15, 16:00:48",
       "https://news.ycombinator.com/item?id=31755025"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2022-06-15, 02:43:23",
-      "https://news.ycombinator.com/item?id=31748553"
+      "2022-06-15, 03:57:56",
+      "https://news.ycombinator.com/item?id=31748967"
     ],
     [
-      "Cheat sheet for if I'm gone",
-      "https://thoughtscollected.tech/posts/for-when-im-gone/"
+      "Hinge and Its Implementation of the Gale–Shapley algorithm",
+      "https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Hertzbleed Attack",
       "https://www.hertzbleed.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 07:46:30",
-      "https://news.ycombinator.com/item?id=31735939"
-    ],
-    [
-      "Write documentation first, then build",
-      "https://reproof.app/blog/document-first-then-build"
     ]
   ],
   [
