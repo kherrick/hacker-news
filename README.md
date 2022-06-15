@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 19:57:23](https://news.ycombinator.com/item?id=31758594) - [“Crypto Drainer” Template Facilitates Tens of Millions of Dollars in Theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
+* [2022-06-15, 19:47:10](https://news.ycombinator.com/item?id=31758426) - [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
 * [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
 * [2022-06-15, 19:02:10](https://news.ycombinator.com/item?id=31757749) - [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
 * [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
@@ -11,7 +13,6 @@
 * [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey (YC W21) is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
 * [2022-06-15, 16:24:55](https://news.ycombinator.com/item?id=31755361) - [A mystery of the ketogenic diet: benevolent pseudo-diabetes (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738531/)
 * [2022-06-15, 16:17:53](https://news.ycombinator.com/item?id=31755262) - [Heroku 22 Stack](https://devcenter.heroku.com/articles/heroku-22-stack)
-* [2022-06-15, 16:01:26](https://news.ycombinator.com/item?id=31755029) - [First flight of the Airbus A321XLR with up to 4700 NM range](https://www.airbus.com/en/a321xlr-first-flight)
 * [2022-06-15, 16:00:48](https://news.ycombinator.com/item?id=31755025) - [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
 * [2022-06-15, 15:44:11](https://news.ycombinator.com/item?id=31754739) - [Does the Tank Have a Future?](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)
 * [2022-06-15, 14:50:56](https://news.ycombinator.com/item?id=31753772) - [Monograph of wild and cultivated chili peppers](https://phytokeys.pensoft.net/article/71667/)
@@ -19,7 +20,6 @@
 * [2022-06-15, 14:38:52](https://news.ycombinator.com/item?id=31753566) - [Nuclear is back on the table for a green future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
 * [2022-06-15, 14:23:52](https://news.ycombinator.com/item?id=31753345) - [Select ’Hello, World’: Serverless Postgres Built for the Cloud](https://neon.tech/blog/hello-world/)
 * [2022-06-15, 13:24:06](https://news.ycombinator.com/item?id=31752516) - [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
-* [2022-06-15, 12:20:36](https://news.ycombinator.com/item?id=31751883) - [What happened to proper tail calls in JavaScript? (2021)](https://www.mgmarlow.com/words/2021-03-27-proper-tail-calls-js/)
 * [2022-06-15, 12:04:34](https://news.ycombinator.com/item?id=31751730) - [A Git Origin Story (2018)](https://www.linuxjournal.com/content/git-origin-story)
 * [2022-06-15, 11:15:33](https://news.ycombinator.com/item?id=31751375) - [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
 * [2022-06-15, 11:02:56](https://news.ycombinator.com/item?id=31751298) - [Price shocks in formative years scar consumption for life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
