@@ -93,6 +93,7 @@
 * [2022-06-14, 02:26:26](https://news.ycombinator.com/item?id=31734110) - [Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
 * [2022-06-14, 02:15:19](https://news.ycombinator.com/item?id=31734065) - [How did people get to Britain 950k years ago?](https://lithub.com/how-did-people-get-to-britain-950000-years-ago/)
 * [2022-06-14, 02:12:52](https://news.ycombinator.com/item?id=31734057) - [Amazon calls cops, fires workers in attempts to stop unionization nationwide](https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/)
+* [2022-06-14, 02:06:50](https://news.ycombinator.com/item?id=31734022) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 * [2022-06-14, 01:12:02](https://news.ycombinator.com/item?id=31733673) - [Bible Semantic Search](https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search)
 * [2022-06-14, 00:47:23](https://news.ycombinator.com/item?id=31733513) - [Writing is a single-player game](https://www.otherlife.co/singleplayer/)
 * [2022-06-14, 00:24:19](https://news.ycombinator.com/item?id=31733365) - [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog)

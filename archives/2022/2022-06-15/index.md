@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on Learning to Love the Humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
+* [2022-06-15, 19:02:10](https://news.ycombinator.com/item?id=31757749) - [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
 * [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 * [2022-06-15, 18:21:42](https://news.ycombinator.com/item?id=31757078) - [The Federal Reserve Raises Interest Rates by 0.75 of a Percentage Point](https://www.nytimes.com/live/2022/06/15/business/fed-reserve-interest-rates-inflation)
 * [2022-06-15, 18:21:41](https://news.ycombinator.com/item?id=31757077) - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
