@@ -2,7 +2,6 @@
 
 * [2022-06-15, 04:32:10](https://news.ycombinator.com/item?id=31749138) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 * [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
-* [2022-06-15, 03:19:44](https://news.ycombinator.com/item?id=31748756) - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat sheet for if I'm gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 * [2022-06-15, 01:55:30](https://news.ycombinator.com/item?id=31748271) - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
 * [2022-06-15, 01:52:41](https://news.ycombinator.com/item?id=31748248) - [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
@@ -19,6 +18,7 @@
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase lays off around 1,100 employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
+* [2022-06-14, 16:18:37](https://news.ycombinator.com/item?id=31741628) - [Watchdog uses open-source research to investigate Sri Lanka’s ongoing crisis](https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus returns home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
