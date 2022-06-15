@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
 * [2022-06-15, 03:19:44](https://news.ycombinator.com/item?id=31748756) - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat Sheet for If I'm Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 * [2022-06-15, 01:55:30](https://news.ycombinator.com/item?id=31748271) - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
