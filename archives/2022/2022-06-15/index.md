@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
 * [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
+* [2022-06-15, 16:24:55](https://news.ycombinator.com/item?id=31755361) - [The mystery of the ketogenic diet: benevolent pseudo-diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738531/)
 * [2022-06-15, 16:17:53](https://news.ycombinator.com/item?id=31755262) - [Heroku 22 Stack](https://devcenter.heroku.com/articles/heroku-22-stack)
 * [2022-06-15, 16:00:48](https://news.ycombinator.com/item?id=31755025) - [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
 * [2022-06-15, 15:44:11](https://news.ycombinator.com/item?id=31754739) - [Does the Tank Have a Future?](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)

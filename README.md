@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
+* [2022-06-15, 16:24:55](https://news.ycombinator.com/item?id=31755361) - [The mystery of the ketogenic diet: benevolent pseudo-diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738531/)
 * [2022-06-15, 16:17:53](https://news.ycombinator.com/item?id=31755262) - [Heroku 22 Stack](https://devcenter.heroku.com/articles/heroku-22-stack)
 * [2022-06-15, 16:00:48](https://news.ycombinator.com/item?id=31755025) - [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
 * [2022-06-15, 15:33:04](https://news.ycombinator.com/item?id=31754536) - [Despite crypto layoffs, Kraken continues to hire](https://blog.kraken.com/post/14372/kraken-announces-global-hiring-push-and-commitment-to-crypto-first-culture/)
@@ -24,7 +25,6 @@
 * [2022-06-15, 06:38:15](https://news.ycombinator.com/item?id=31749817) - [Explore Matter, the new smart home standard, in Home Assistant](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
 * [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Hinge and Its Implementation of the Gale–Shapley algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat sheet for if I'm gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
-* [2022-06-15, 01:52:41](https://news.ycombinator.com/item?id=31748248) - [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
 * [2022-06-15, 00:17:45](https://news.ycombinator.com/item?id=31747695) - [Debugging an empty spam email (2016)](http://blog.petersobot.com/debugging-an-empty-spam-email)
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
