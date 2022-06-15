@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 13:53:03](https://news.ycombinator.com/item?id=31752892) - [What workers want: raises that beat inflation](https://www.axios.com/2022/06/15/what-workers-really-want-raises-that-beat-inflation)
+* [2022-06-15, 13:23:15](https://news.ycombinator.com/item?id=31752496) - [40% of single Japanese men in their 20s have never been on a date, survey says](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
 * [2022-06-15, 13:07:32](https://news.ycombinator.com/item?id=31752331) - [Teslas running Autopilot have been in 273 crashes in less than a year](https://www.washingtonpost.com/technology/2022/06/15/tesla-autopilot-crashes/)
 * [2022-06-15, 12:45:49](https://news.ycombinator.com/item?id=31752166) - [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
 * [2022-06-15, 12:44:46](https://news.ycombinator.com/item?id=31752153) - [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)

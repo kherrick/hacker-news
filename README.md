@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-15, 13:07:32](https://news.ycombinator.com/item?id=31752331) - [Teslas running Autopilot have been in 273 crashes in less than a year](https://www.washingtonpost.com/technology/2022/06/15/tesla-autopilot-crashes/)
+* [2022-06-15, 13:53:03](https://news.ycombinator.com/item?id=31752892) - [What workers want: raises that beat inflation](https://www.axios.com/2022/06/15/what-workers-really-want-raises-that-beat-inflation)
+* [2022-06-15, 13:23:15](https://news.ycombinator.com/item?id=31752496) - [40% of single Japanese men in their 20s have never been on a date, survey says](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
 * [2022-06-15, 12:45:49](https://news.ycombinator.com/item?id=31752166) - [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
 * [2022-06-15, 12:44:46](https://news.ycombinator.com/item?id=31752153) - [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)
 * [2022-06-15, 12:42:25](https://news.ycombinator.com/item?id=31752123) - [UK Ends Subsidies for Electric Cars](https://www.gov.uk/government/news/plug-in-grant-for-cars-to-end-as-focus-moves-to-improving-electric-vehicle-charging)
@@ -22,7 +23,6 @@
 * [2022-06-15, 01:55:30](https://news.ycombinator.com/item?id=31748271) - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
 * [2022-06-15, 01:52:41](https://news.ycombinator.com/item?id=31748248) - [Palm OS developer releases source to classic games, 20 years after release](https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html)
 * [2022-06-14, 21:05:45](https://news.ycombinator.com/item?id=31746090) - [The hunt for a cluster-killer Erlang bug (2021)](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
-* [2022-06-14, 18:54:50](https://news.ycombinator.com/item?id=31744225) - [Is IPv6 faster than IPv4?](https://pansift.com/blog/is-ipv6-faster-than-ipv4/)
 * [2022-06-14, 17:53:25](https://news.ycombinator.com/item?id=31743259) - [Oblivious HTTP](https://www.ietf.org/archive/id/draft-ietf-ohai-ohttp-01.html)
 * [2022-06-14, 17:43:58](https://news.ycombinator.com/item?id=31743110) - [Hertzbleed Attack](https://www.hertzbleed.com/)
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
