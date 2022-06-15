@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-15, 13:53:03](https://news.ycombinator.com/item?id=31752892) - [What workers want: raises that beat inflation](https://www.axios.com/2022/06/15/what-workers-really-want-raises-that-beat-inflation)
+* [2022-06-15, 13:24:06](https://news.ycombinator.com/item?id=31752516) - [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
 * [2022-06-15, 13:23:15](https://news.ycombinator.com/item?id=31752496) - [40% of single Japanese men in their 20s have never been on a date, survey says](https://soranews24.com/2022/06/15/roughly-40-percent-of-japanese-men-in-their-20s-have-never-been-on-a-date-government-survey-says/)
 * [2022-06-15, 12:45:49](https://news.ycombinator.com/item?id=31752166) - [Satellite Detects Largest Release of Methane in the World](https://www.nytimes.com/2022/06/14/climate/methane-emissions-russia-coal-mine.html)
 * [2022-06-15, 12:44:46](https://news.ycombinator.com/item?id=31752153) - [Whitby residents vote in favour of ending second home ownership](https://news.sky.com/story/whitby-residents-vote-in-favour-of-ending-second-home-ownership-in-seaside-town-12633627)
@@ -11,7 +12,6 @@
 * [2022-06-15, 11:15:33](https://news.ycombinator.com/item?id=31751375) - [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
 * [2022-06-15, 11:02:56](https://news.ycombinator.com/item?id=31751298) - [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
 * [2022-06-15, 10:52:52](https://news.ycombinator.com/item?id=31751242) - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)
-* [2022-06-15, 10:48:53](https://news.ycombinator.com/item?id=31751221) - [Intel 4 Process Node in Detail: 2x Density Scaling, 20% Improved Performance](https://www.anandtech.com/show/17448/intel-4-process-node-in-detail-2x-density-scaling-20-improved-performance)
 * [2022-06-15, 10:46:29](https://news.ycombinator.com/item?id=31751203) - [Apple Could Kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens)
 * [2022-06-15, 10:08:36](https://news.ycombinator.com/item?id=31751017) - [OCaml 5.0 Alpha Release](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026)
 * [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
