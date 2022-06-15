@@ -2,9 +2,9 @@
 
 * [2022-06-15, 16:00:48](https://news.ycombinator.com/item?id=31755025) - [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
 * [2022-06-15, 15:44:11](https://news.ycombinator.com/item?id=31754739) - [Does the Tank Have a Future?](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)
+* [2022-06-15, 15:33:04](https://news.ycombinator.com/item?id=31754536) - [Despite crypto layoffs, Kraken continues to hire](https://blog.kraken.com/post/14372/kraken-announces-global-hiring-push-and-commitment-to-crypto-first-culture/)
 * [2022-06-15, 14:50:56](https://news.ycombinator.com/item?id=31753772) - [Monograph of wild and cultivated chili peppers](https://phytokeys.pensoft.net/article/71667/)
 * [2022-06-15, 14:50:56](https://news.ycombinator.com/item?id=31753771) - [A biological super glue from mistletoe berries?](https://www.mcgill.ca/newsroom/channels/news/biological-super-glue-mistletoe-berries-339907)
-* [2022-06-15, 14:38:52](https://news.ycombinator.com/item?id=31753566) - [Nuclear Is Back on the Table for a Green Future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
 * [2022-06-15, 14:33:31](https://news.ycombinator.com/item?id=31753475) - [Internet Explorer 11 has retired and is officially out of support](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
 * [2022-06-15, 14:23:52](https://news.ycombinator.com/item?id=31753345) - [Select ’Hello, World’: Serverless Postgres Built for the Cloud](https://neon.tech/blog/hello-world/)
 * [2022-06-15, 13:24:06](https://news.ycombinator.com/item?id=31752516) - [Browser Extension to Bypass Media Sites Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md)
