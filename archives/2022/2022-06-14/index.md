@@ -11,6 +11,7 @@
 * [2022-06-14, 22:12:03](https://news.ycombinator.com/item?id=31746685) - [You vs. A Billionaire: compare your income](https://youvsabillionaire.com/)
 * [2022-06-14, 21:05:45](https://news.ycombinator.com/item?id=31746090) - [The hunt for a cluster-killer Erlang bug](https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b)
 * [2022-06-14, 21:00:04](https://news.ycombinator.com/item?id=31746017) - [Kodable (YC IK12) Is Hiring a Full Stack Engineer to help us teach kids to code](https://www.indeed.com/jobs?q=Kodable&vjk=cfd80509c01480ac&sc=0fcckey%3A49fe5ce38cf6d5e8%2Cq%3A%3B)
+* [2022-06-14, 20:31:19](https://news.ycombinator.com/item?id=31745636) - [Make Linux Fast Again](https://make-linux-fast-again.com/)
 * [2022-06-14, 19:59:15](https://news.ycombinator.com/item?id=31745230) - [Ransomware Group Debuts Searchable Victim Data](https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/)
 * [2022-06-14, 19:37:03](https://news.ycombinator.com/item?id=31744892) - [Infants' sense of pain is recognized, finally (1987)](https://www.nytimes.com/1987/11/24/science/infants-sense-of-pain-is-recognized-finally.html)
 * [2022-06-14, 18:59:49](https://news.ycombinator.com/item?id=31744313) - [CoAuthor: Designing a Human-AI Collaborative Writing Dataset](https://arxiv.org/abs/2201.06796)
