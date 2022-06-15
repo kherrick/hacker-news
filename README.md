@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 06:44:32](https://news.ycombinator.com/item?id=31749863) - [Cryptocurrencies Have Broken Almost All of Their Major Promises](https://ruky.me/2022/06/14/cryptocurrencies-have-broken-almost-all-of-their-major-promises/)
 * [2022-06-15, 04:32:10](https://news.ycombinator.com/item?id=31749138) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 * [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat sheet for if I'm gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
@@ -24,7 +25,6 @@
 * [2022-06-14, 15:16:18](https://news.ycombinator.com/item?id=31740724) - [Launch HN: Mintlify (YC W22) – Maintainable documentation for software teams](https://news.ycombinator.com/item?id=31740724)
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
 * [2022-06-14, 05:04:32](https://news.ycombinator.com/item?id=31734934) - [If it isn't going to work, just shut it down](https://99d.substack.com/p/if-it-isnt-going-to-work-just-shut)
-* [2022-06-14, 03:45:59](https://news.ycombinator.com/item?id=31734515) - [Exchanging Old Banknotes](https://www.bankofengland.co.uk/banknotes/exchanging-old-banknotes)
 * [2022-06-14, 00:24:19](https://news.ycombinator.com/item?id=31733365) - [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog)
 * [2022-06-13, 19:06:01](https://news.ycombinator.com/item?id=31730127) - [Animal magic: why intelligence isn’t just for humans](https://www.theguardian.com/books/2022/jun/11/animal-magic-why-intelligence-isnt-just-for-humans)
 * [2022-06-13, 18:27:17](https://news.ycombinator.com/item?id=31729428) - [A Review of Accelerate: The Science of Lean Software and DevOps](https://keunwoo.com/notes/accelerate-devops/)
