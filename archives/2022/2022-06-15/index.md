@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
+* [2022-06-15, 16:17:53](https://news.ycombinator.com/item?id=31755262) - [Heroku 22 Stack](https://devcenter.heroku.com/articles/heroku-22-stack)
 * [2022-06-15, 16:00:48](https://news.ycombinator.com/item?id=31755025) - [Show HN: I made a site that shows jobs where you can work pseudonymously](https://anonfriendly.com)
 * [2022-06-15, 15:44:11](https://news.ycombinator.com/item?id=31754739) - [Does the Tank Have a Future?](https://www.economist.com/interactive/international/2022/06/15/does-the-tank-have-a-future)
 * [2022-06-15, 15:33:04](https://news.ycombinator.com/item?id=31754536) - [Despite crypto layoffs, Kraken continues to hire](https://blog.kraken.com/post/14372/kraken-announces-global-hiring-push-and-commitment-to-crypto-first-culture/)
@@ -31,6 +33,7 @@
 * [2022-06-15, 10:46:29](https://news.ycombinator.com/item?id=31751203) - [Apple Could Kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens)
 * [2022-06-15, 10:08:36](https://news.ycombinator.com/item?id=31751017) - [OCaml 5.0 Alpha Release](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026)
 * [2022-06-15, 10:08:07](https://news.ycombinator.com/item?id=31751015) - [As professors struggle to recruit postdocs, calls for change in academia](https://www.science.org/content/article/professors-struggle-recruit-postdocs-calls-structural-change-academia-intensify)
+* [2022-06-15, 10:06:01](https://news.ycombinator.com/item?id=31750999) - [Why Decentralization Matters (2018)](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 * [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
 * [2022-06-15, 08:50:08](https://news.ycombinator.com/item?id=31750569) - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
 * [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
