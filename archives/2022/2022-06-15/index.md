@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 12:04:34](https://news.ycombinator.com/item?id=31751730) - [A Git Origin Story (2018)](https://www.linuxjournal.com/content/git-origin-story)
+* [2022-06-15, 12:00:30](https://news.ycombinator.com/item?id=31751694) - [Porter (YC S20) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/porter/jobs)
+* [2022-06-15, 11:15:33](https://news.ycombinator.com/item?id=31751375) - [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
 * [2022-06-15, 11:02:56](https://news.ycombinator.com/item?id=31751298) - [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
 * [2022-06-15, 10:57:27](https://news.ycombinator.com/item?id=31751265) - [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
 * [2022-06-15, 10:52:52](https://news.ycombinator.com/item?id=31751242) - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)

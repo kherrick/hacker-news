@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-15, 12:04:34](https://news.ycombinator.com/item?id=31751730) - [A Git Origin Story (2018)](https://www.linuxjournal.com/content/git-origin-story)
+* [2022-06-15, 12:00:30](https://news.ycombinator.com/item?id=31751694) - [Porter (YC S20) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/porter/jobs)
+* [2022-06-15, 11:15:33](https://news.ycombinator.com/item?id=31751375) - [End-of-life smartphone? Penguins at PostmarketOS aim to revive it](https://www.theregister.com/2022/06/15/postmarketos_2206/)
 * [2022-06-15, 11:02:56](https://news.ycombinator.com/item?id=31751298) - [How Price Shocks in Formative Years Scar Consumption for Life](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
 * [2022-06-15, 10:57:27](https://news.ycombinator.com/item?id=31751265) - [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
 * [2022-06-15, 10:52:52](https://news.ycombinator.com/item?id=31751242) - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)
@@ -25,9 +28,6 @@
 * [2022-06-14, 12:34:32](https://news.ycombinator.com/item?id=31738348) - [Molecular Notes: Practice](https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2/)
 * [2022-06-14, 07:46:30](https://news.ycombinator.com/item?id=31735939) - [Write documentation first, then build](https://reproof.app/blog/document-first-then-build)
 * [2022-06-14, 02:15:19](https://news.ycombinator.com/item?id=31734065) - [How did people get to Britain 950k years ago?](https://lithub.com/how-did-people-get-to-britain-950000-years-ago/)
-* [2022-06-13, 19:06:01](https://news.ycombinator.com/item?id=31730127) - [Animal magic: why intelligence isn’t just for humans](https://www.theguardian.com/books/2022/jun/11/animal-magic-why-intelligence-isnt-just-for-humans)
-* [2022-06-13, 18:27:17](https://news.ycombinator.com/item?id=31729428) - [A Review of Accelerate: The Science of Lean Software and DevOps](https://keunwoo.com/notes/accelerate-devops/)
-* [2022-06-13, 16:49:52](https://news.ycombinator.com/item?id=31728106) - [Magnetizing laser-driven inertial fusion implosions](https://phys.org/news/2022-06-magnetizing-laser-driven-inertial-fusion-implosions.html)
 * [2022-06-13, 13:47:59](https://news.ycombinator.com/item?id=31725506) - [Game Design Mimetics (Or, What Happened to Game Design?)](https://blog.kylekukshtel.com/game-design-mimetics)
 * [2022-06-13, 13:09:04](https://news.ycombinator.com/item?id=31725028) - [Let's learn D game programming development](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
 
