@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-15](index.md)
 
+* [2022-06-15, 10:57:27](https://news.ycombinator.com/item?id=31751265) - [Terra Luna crash: CTO of Tether welcomes fair regulation of stablecoin market](https://www.businessinsider.com/cryptocurrency-tether-terra-luna-stablecoin-crash-regulation-cbdcs-2022-6)
+* [2022-06-15, 10:48:53](https://news.ycombinator.com/item?id=31751221) - [Intel 4 Process Node in Detail: 2x Density Scaling, 20% Improved Performance](https://www.anandtech.com/show/17448/intel-4-process-node-in-detail-2x-density-scaling-20-improved-performance)
 * [2022-06-15, 10:46:29](https://news.ycombinator.com/item?id=31751203) - [Apple Could Kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens)
 * [2022-06-15, 10:08:36](https://news.ycombinator.com/item?id=31751017) - [OCaml 5.0 Alpha Release](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026)
 * [2022-06-15, 08:50:08](https://news.ycombinator.com/item?id=31750569) - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
