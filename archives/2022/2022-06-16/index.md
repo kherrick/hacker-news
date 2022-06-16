@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 10:37:20](https://news.ycombinator.com/item?id=31764461) - [Sick and struggling to pay, 100M people in the U.S. live with medical debt](https://www.npr.org/sections/health-shots/2022/06/16/1104679219/medical-bills-debt-investigation)
+* [2022-06-16, 10:29:45](https://news.ycombinator.com/item?id=31764406) - [Facebook Is Receiving Sensitive Medical Information from Hospital Websites](https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites)
 * [2022-06-16, 10:01:52](https://news.ycombinator.com/item?id=31764230) - [I contacted Chewy to see if I could return a bag of my dog’s food after he died](https://twitter.com/alcesanna/status/1536930380082728961)
 * [2022-06-16, 09:29:06](https://news.ycombinator.com/item?id=31764041) - [Ask HN: What has melted your brain recently?](https://news.ycombinator.com/item?id=31764041)
 * [2022-06-16, 09:24:56](https://news.ycombinator.com/item?id=31764015) - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)

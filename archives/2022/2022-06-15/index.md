@@ -61,6 +61,7 @@
 * [2022-06-15, 10:06:01](https://news.ycombinator.com/item?id=31750999) - [Why Decentralization Matters (2018)](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 * [2022-06-15, 10:02:24](https://news.ycombinator.com/item?id=31750981) - [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)
 * [2022-06-15, 10:01:43](https://news.ycombinator.com/item?id=31750979) - [Mundane chores are all the rage in gaming](https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming)
+* [2022-06-15, 09:52:42](https://news.ycombinator.com/item?id=31750931) - [Shepard Tone](https://en.wikipedia.org/wiki/Shepard_tone)
 * [2022-06-15, 08:50:08](https://news.ycombinator.com/item?id=31750569) - [Visionary French entrepreneur, David Gurle, launches new venture – Hive](https://www.zawya.com/en/press-release/companies-news/visionary-french-entrepreneur-david-gurle-launches-new-venture-hive-x4ffe5yk)
 * [2022-06-15, 08:48:42](https://news.ycombinator.com/item?id=31750560) - [Quick Tip: Enable Touch ID for Sudo](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
 * [2022-06-15, 07:50:19](https://news.ycombinator.com/item?id=31750228) - [Computing in Crip Time](https://logicmag.io/clouds/computing-in-crip-time/)
