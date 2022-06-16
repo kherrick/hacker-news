@@ -75,6 +75,7 @@
 * [2022-06-15, 06:32:23](https://news.ycombinator.com/item?id=31749783) - [spaCy: SpanCategorizer a new component that handles overlapping spans](https://explosion.ai/blog/spancat/)
 * [2022-06-15, 04:32:10](https://news.ycombinator.com/item?id=31749138) - [Angstrem Memory IC’s in the USSR](https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/)
 * [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
+* [2022-06-15, 03:43:50](https://news.ycombinator.com/item?id=31748884) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
 * [2022-06-15, 03:19:44](https://news.ycombinator.com/item?id=31748756) - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat Sheet for If I'm Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 * [2022-06-15, 01:55:30](https://news.ycombinator.com/item?id=31748271) - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)

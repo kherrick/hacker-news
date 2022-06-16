@@ -2,6 +2,7 @@
 
 * [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 * [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
+* [2022-06-16, 20:07:43](https://news.ycombinator.com/item?id=31770348) - [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 * [2022-06-16, 20:02:49](https://news.ycombinator.com/item?id=31770296) - [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
 * [2022-06-16, 19:16:07](https://news.ycombinator.com/item?id=31769811) - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
 * [2022-06-16, 19:03:15](https://news.ycombinator.com/item?id=31769683) - [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
@@ -23,11 +24,10 @@
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
-* [2022-06-16, 12:52:45](https://news.ycombinator.com/item?id=31765479) - [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory?](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
-* [2022-06-15, 14:10:25](https://news.ycombinator.com/item?id=31753149) - [Nanoparticle sensor can distinguish between viral and bacterial pneumonia](https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613)
+* [2022-06-15, 03:43:50](https://news.ycombinator.com/item?id=31748884) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
 * [2022-06-14, 22:49:09](https://news.ycombinator.com/item?id=31746967) - [The Phone Booth of the Mind](https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html)
 * [2022-06-14, 17:21:21](https://news.ycombinator.com/item?id=31742755) - [Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior](https://neurosciencenews.com/chemical-fetal-brain-20810/)
 
