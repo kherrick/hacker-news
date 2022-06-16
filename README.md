@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 20:02:49](https://news.ycombinator.com/item?id=31770296) - [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
 * [2022-06-16, 19:16:07](https://news.ycombinator.com/item?id=31769811) - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
 * [2022-06-16, 19:03:15](https://news.ycombinator.com/item?id=31769683) - [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 * [2022-06-16, 18:55:39](https://news.ycombinator.com/item?id=31769604) - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
@@ -23,7 +24,6 @@
 * [2022-06-16, 12:52:45](https://news.ycombinator.com/item?id=31765479) - [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory?](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
-* [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Despite best efforts .NET is still not an open platform](https://isdotnetopen.com/)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 14:10:25](https://news.ycombinator.com/item?id=31753149) - [Nanoparticle sensor can distinguish between viral and bacterial pneumonia](https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613)
 * [2022-06-15, 07:47:38](https://news.ycombinator.com/item?id=31750212) - [The case of the vanishing cafeteria tray](https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/)

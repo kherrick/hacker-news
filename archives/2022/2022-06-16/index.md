@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 20:02:49](https://news.ycombinator.com/item?id=31770296) - [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
 * [2022-06-16, 19:26:53](https://news.ycombinator.com/item?id=31769929) - [Gitea Joins the Fediverse](https://ta180m.exozy.me/posts/gitea-actually-joins-the-fediverse/)
 * [2022-06-16, 19:16:07](https://news.ycombinator.com/item?id=31769811) - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
 * [2022-06-16, 19:03:15](https://news.ycombinator.com/item?id=31769683) - [macOS Screenshot Tricks to Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
