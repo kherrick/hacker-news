@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 10:01:52](https://news.ycombinator.com/item?id=31764230) - [I contacted Chewy to see if I could return a bag of my dog’s food after he died](https://twitter.com/alcesanna/status/1536930380082728961)
 * [2022-06-16, 09:29:06](https://news.ycombinator.com/item?id=31764041) - [Ask HN: What has melted your brain recently?](https://news.ycombinator.com/item?id=31764041)
+* [2022-06-16, 09:24:56](https://news.ycombinator.com/item?id=31764015) - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
 * [2022-06-16, 08:58:36](https://news.ycombinator.com/item?id=31763858) - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
 * [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 * [2022-06-16, 08:06:20](https://news.ycombinator.com/item?id=31763586) - [Brave breaks language reporting in browser for more anonymity](https://brave.com/privacy-updates/17-language-fingerprinting/)

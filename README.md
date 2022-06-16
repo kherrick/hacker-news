@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 10:01:52](https://news.ycombinator.com/item?id=31764230) - [I contacted Chewy to see if I could return a bag of my dog’s food after he died](https://twitter.com/alcesanna/status/1536930380082728961)
 * [2022-06-16, 09:29:06](https://news.ycombinator.com/item?id=31764041) - [Ask HN: What has melted your brain recently?](https://news.ycombinator.com/item?id=31764041)
+* [2022-06-16, 09:24:56](https://news.ycombinator.com/item?id=31764015) - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
 * [2022-06-16, 08:58:36](https://news.ycombinator.com/item?id=31763858) - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
 * [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 * [2022-06-16, 08:06:20](https://news.ycombinator.com/item?id=31763586) - [Brave breaks language reporting in browser for more anonymity in strict mode](https://brave.com/privacy-updates/17-language-fingerprinting/)
@@ -15,7 +17,6 @@
 * [2022-06-16, 03:42:28](https://news.ycombinator.com/item?id=31762245) - [We Put Half a Million Files in One Git Repository, Here’s What We Learned](https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181)
 * [2022-06-15, 20:44:18](https://news.ycombinator.com/item?id=31759234) - [How Palo Alto Networks Replaced Kafka with ScyllaDB for Stream Processing](https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/)
 * [2022-06-15, 20:36:30](https://news.ycombinator.com/item?id=31759128) - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
-* [2022-06-15, 19:57:23](https://news.ycombinator.com/item?id=31758594) - [“Crypto drainer” template facilitates theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 * [2022-06-15, 19:53:39](https://news.ycombinator.com/item?id=31758530) - [What should you do with stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
 * [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on learning to love the humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
 * [2022-06-15, 19:02:10](https://news.ycombinator.com/item?id=31757749) - [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
@@ -27,7 +28,6 @@
 * [2022-06-14, 17:15:25](https://news.ycombinator.com/item?id=31742648) - [The Helios microkernel](https://drewdevault.com/2022/06/13/helios.html)
 * [2022-06-14, 17:01:56](https://news.ycombinator.com/item?id=31742412) - [Keeping IC Packages Cool](https://semiengineering.com/keeping-ic-packages-cool/)
 * [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
-* [2022-06-14, 15:48:37](https://news.ycombinator.com/item?id=31741185) - [The giraffe neck evolved for sexual combat?](https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/)
 * [2022-06-14, 15:39:17](https://news.ycombinator.com/item?id=31741082) - [Phases of Database Growth and Cost](https://www.crunchydata.com/blog/phases-of-database-growth-and-cost)
 * [2022-06-14, 15:28:35](https://news.ycombinator.com/item?id=31740909) - [Astronomers may have detected a ‘dark’ free-floating black hole](https://news.berkeley.edu/2022/06/10/astronomers-may-have-detected-a-dark-free-floating-black-hole/)
 
