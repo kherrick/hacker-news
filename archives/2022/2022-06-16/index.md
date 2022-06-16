@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 13:46:28](https://news.ycombinator.com/item?id=31765986) - [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 * [2022-06-16, 13:21:11](https://news.ycombinator.com/item?id=31765730) - [Cults at Google](https://twitter.com/alphabetworkers/status/1537396946691772416)
 * [2022-06-16, 13:11:34](https://news.ycombinator.com/item?id=31765644) - [Barber License in Rhode Island – Step 1: 1500 Hr Barber Training Program](https://www.barber-license.com/rhode-island/)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 13:46:28](https://news.ycombinator.com/item?id=31765986) - [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 * [2022-06-16, 13:21:11](https://news.ycombinator.com/item?id=31765730) - [Cults at Google](https://twitter.com/alphabetworkers/status/1537396946691772416)
-* [2022-06-16, 13:11:34](https://news.ycombinator.com/item?id=31765644) - [Barber License in Rhode Island – Step 1: 1500 Hr Barber Training Program](https://www.barber-license.com/rhode-island/)
 * [2022-06-16, 13:02:37](https://news.ycombinator.com/item?id=31765566) - [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
 * [2022-06-16, 12:45:45](https://news.ycombinator.com/item?id=31765405) - [Investors think they’re more impactful than they are](https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html)
