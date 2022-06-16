@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 18:00:25](https://news.ycombinator.com/item?id=31769059) - [Visualizing Elliptic Curves](https://curves.ulfheim.net/)
+* [2022-06-16, 17:51:27](https://news.ycombinator.com/item?id=31768936) - [Wasmer – The Universal WebAssembly Runtime](https://wasmer.io/)
 * [2022-06-16, 17:42:03](https://news.ycombinator.com/item?id=31768828) - [Reddit acquires ML startup Spell](https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell)
 * [2022-06-16, 17:30:28](https://news.ycombinator.com/item?id=31768705) - [CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack](https://www.thezdi.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack)
 * [2022-06-16, 17:08:45](https://news.ycombinator.com/item?id=31768471) - [Commodore Branded Kickstarter Gets Hit by IP Troll](https://www.amigalove.com/viewtopic.php?t=2254)
