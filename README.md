@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-16, 09:29:06](https://news.ycombinator.com/item?id=31764041) - [Ask HN: What has melted your brain recently?](https://news.ycombinator.com/item?id=31764041)
 * [2022-06-16, 09:24:56](https://news.ycombinator.com/item?id=31764015) - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
 * [2022-06-16, 08:58:36](https://news.ycombinator.com/item?id=31763858) - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
 * [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
@@ -19,6 +18,7 @@
 * [2022-06-15, 19:53:39](https://news.ycombinator.com/item?id=31758530) - [What should you do with stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
 * [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on learning to love the humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
 * [2022-06-15, 19:02:10](https://news.ycombinator.com/item?id=31757749) - [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
+* [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by J.R.R. Tolkien](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
 * [2022-06-15, 10:02:24](https://news.ycombinator.com/item?id=31750981) - [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)
 * [2022-06-15, 00:24:10](https://news.ycombinator.com/item?id=31747731) - [Sean Suiter](https://davidsimon.com/sean-suiter/)
