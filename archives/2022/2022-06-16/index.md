@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
+* [2022-06-16, 11:04:01](https://news.ycombinator.com/item?id=31764615) - [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
+* [2022-06-16, 10:49:29](https://news.ycombinator.com/item?id=31764530) - [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
 * [2022-06-16, 10:37:20](https://news.ycombinator.com/item?id=31764461) - [Sick and struggling to pay, 100M people in the U.S. live with medical debt](https://www.npr.org/sections/health-shots/2022/06/16/1104679219/medical-bills-debt-investigation)
 * [2022-06-16, 10:29:45](https://news.ycombinator.com/item?id=31764406) - [Facebook Is Receiving Sensitive Medical Information from Hospital Websites](https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites)
 * [2022-06-16, 10:01:52](https://news.ycombinator.com/item?id=31764230) - [I contacted Chewy to see if I could return a bag of my dog’s food after he died](https://twitter.com/alcesanna/status/1536930380082728961)
