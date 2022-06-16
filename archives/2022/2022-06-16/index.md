@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 07:00:06](https://news.ycombinator.com/item?id=31763225) - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
 * [2022-06-16, 06:07:39](https://news.ycombinator.com/item?id=31762904) - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
 * [2022-06-16, 04:52:35](https://news.ycombinator.com/item?id=31762534) - [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
