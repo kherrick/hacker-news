@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 19:26:53](https://news.ycombinator.com/item?id=31769929) - [Gitea Joins the Fediverse](https://ta180m.exozy.me/posts/gitea-actually-joins-the-fediverse/)
 * [2022-06-16, 18:55:39](https://news.ycombinator.com/item?id=31769604) - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
+* [2022-06-16, 18:55:29](https://news.ycombinator.com/item?id=31769601) - [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
 * [2022-06-16, 18:47:20](https://news.ycombinator.com/item?id=31769520) - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
 * [2022-06-16, 18:26:41](https://news.ycombinator.com/item?id=31769316) - [Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
 * [2022-06-16, 18:24:43](https://news.ycombinator.com/item?id=31769294) - [The computers are fast, but you don't know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
@@ -18,18 +20,16 @@
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
 * [2022-06-16, 12:52:45](https://news.ycombinator.com/item?id=31765479) - [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
-* [2022-06-16, 12:40:29](https://news.ycombinator.com/item?id=31765354) - [Asking for a date of birth (2013)](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory?](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 08:56:27](https://news.ycombinator.com/item?id=31763844) - [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/)
-* [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Despite best efforts .NET is still not an open platform](https://isdotnetopen.com/)
+* [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 14:10:25](https://news.ycombinator.com/item?id=31753149) - [Nanoparticle sensor can distinguish between viral and bacterial pneumonia](https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613)
 * [2022-06-15, 07:47:38](https://news.ycombinator.com/item?id=31750212) - [The case of the vanishing cafeteria tray](https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/)
 * [2022-06-14, 17:21:21](https://news.ycombinator.com/item?id=31742755) - [Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior](https://neurosciencenews.com/chemical-fetal-brain-20810/)
 * [2022-06-14, 17:20:49](https://news.ycombinator.com/item?id=31742748) - [Chemist pursues answers to why promising solar cell material quickly degrades](https://techxplore.com/news/2022-06-chemist-pursues-solar-cell-material.html)
 * [2022-06-14, 15:32:24](https://news.ycombinator.com/item?id=31740978) - [Attempting to create an aesthetic global line breaking algorithm](https://nibblestew.blogspot.com/2022/06/attempting-to-create-aesthetic-global.html)
-* [2022-06-14, 12:13:46](https://news.ycombinator.com/item?id=31738026) - [Sega Saturn CD – Cracked after 20 years (2016) [video]](https://www.youtube.com/watch?v=jOyfZex7B3E)
 
 ## [Archives](archives/index.md)
 
