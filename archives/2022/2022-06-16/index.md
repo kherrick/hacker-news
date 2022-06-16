@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 17:42:03](https://news.ycombinator.com/item?id=31768828) - [Reddit acquires ML startup Spell](https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell)
+* [2022-06-16, 17:30:28](https://news.ycombinator.com/item?id=31768705) - [CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack](https://www.thezdi.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack)
+* [2022-06-16, 17:08:45](https://news.ycombinator.com/item?id=31768471) - [Commodore Branded Kickstarter Gets Hit by IP Troll](https://www.amigalove.com/viewtopic.php?t=2254)
 * [2022-06-16, 17:02:35](https://news.ycombinator.com/item?id=31768405) - [Fish Shell 3.5.0](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022)
 * [2022-06-16, 17:01:03](https://news.ycombinator.com/item?id=31768385) - [Keeper Tax (YC W19) Is Hiring a freelance designer (design systems)](https://www.ycombinator.com/companies/keeper-tax/jobs/RsXu0Yl-product-designer-design-systems-contract)
 * [2022-06-16, 16:23:55](https://news.ycombinator.com/item?id=31767890) - [The Silent Majority of Experts](https://prog21.dadgum.com/143.html)
