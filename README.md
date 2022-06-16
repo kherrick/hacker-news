@@ -18,7 +18,7 @@
 * [2022-06-16, 04:52:35](https://news.ycombinator.com/item?id=31762534) - [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
 * [2022-06-16, 04:17:17](https://news.ycombinator.com/item?id=31762392) - [Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
 * [2022-06-16, 03:42:28](https://news.ycombinator.com/item?id=31762245) - [We Put Half a Million Files in One Git Repository, Here’s What We Learned](https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181)
-* [2022-06-15, 20:36:30](https://news.ycombinator.com/item?id=31759128) - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
+* [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by J.R.R. Tolkien](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
 * [2022-06-15, 10:02:24](https://news.ycombinator.com/item?id=31750981) - [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)
 * [2022-06-15, 09:52:42](https://news.ycombinator.com/item?id=31750931) - [Shepard Tone](https://en.wikipedia.org/wiki/Shepard_tone)
