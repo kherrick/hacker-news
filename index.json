@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-16, 04:17:17",
+      "https://news.ycombinator.com/item?id=31762392"
+    ],
+    [
+      "Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”",
+      "https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 03:42:28",
+      "https://news.ycombinator.com/item?id=31762245"
+    ],
+    [
+      "We Put Half a Million Files in One Git Repository, Here’s What We Learned",
+      "https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 01:07:32",
+      "https://news.ycombinator.com/item?id=31761458"
+    ],
+    [
+      "CeresDB: A high-perf, distributed, schema-less and time-series database (Rust)",
+      "https://github.com/CeresDB/ceresdb"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 01:00:44",
       "https://news.ycombinator.com/item?id=31761410"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2022-06-15, 12:04:34",
-      "https://news.ycombinator.com/item?id=31751730"
-    ],
-    [
-      "A Git Origin Story (2018)",
-      "https://www.linuxjournal.com/content/git-origin-story"
-    ]
-  ],
-  [
-    [
-      "2022-06-15, 11:15:33",
-      "https://news.ycombinator.com/item?id=31751375"
-    ],
-    [
-      "End-of-life smartphone? Penguins at PostmarketOS aim to revive it",
-      "https://www.theregister.com/2022/06/15/postmarketos_2206/"
-    ]
-  ],
-  [
-    [
       "2022-06-15, 10:52:52",
       "https://news.ycombinator.com/item?id=31751242"
     ],
@@ -267,16 +277,6 @@
     [
       "The giraffe neck evolved for sexual combat?",
       "https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 15:42:23",
-      "https://news.ycombinator.com/item?id=31741119"
-    ],
-    [
-      "Building a web application with Rust and WebAssembly",
-      "https://kerkour.com/web-application-with-rust-and-webassembly"
     ]
   ],
   [
