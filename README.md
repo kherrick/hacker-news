@@ -14,12 +14,13 @@
 * [2022-06-15, 20:36:30](https://news.ycombinator.com/item?id=31759128) - [Clap: The New Audio Plug-In Standard](https://u-he.com/community/clap/)
 * [2022-06-15, 19:57:23](https://news.ycombinator.com/item?id=31758594) - [“Crypto drainer” template facilitates theft](https://blog.confiant.com/how-one-crypto-drainer-template-facilitates-tens-of-millions-of-dollars-in-theft-66f3794aea4b?gi=b10068d5caa8)
 * [2022-06-15, 19:53:39](https://news.ycombinator.com/item?id=31758530) - [What should you do with stock options during a recession?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
+* [2022-06-15, 19:47:10](https://news.ycombinator.com/item?id=31758426) - [Ancient DNA traces origin of Black Death](https://www.nature.com/articles/d41586-022-01673-4)
 * [2022-06-15, 19:25:56](https://news.ycombinator.com/item?id=31758110) - [Interview with Marc Andreessen on learning to love the humanities, and RSS](https://conversationswithtyler.com/episodes/marc-andreessen/)
 * [2022-06-15, 19:02:10](https://news.ycombinator.com/item?id=31757749) - [CityEngine: Build a Digital Twin of Your City](https://gisgeography.com/cityengine/)
 * [2022-06-15, 18:45:26](https://news.ycombinator.com/item?id=31757452) - [Rarely Seen Paintings by J.R.R. Tolkien](https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/)
 * [2022-06-15, 18:21:41](https://news.ycombinator.com/item?id=31757077) - [Watercolor Basics](https://github.com/tombetthauser/watercolor-basics)
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
-* [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
+* [2022-06-15, 14:13:39](https://news.ycombinator.com/item?id=31753200) - [What Is an Oscillator in Music? [video]](https://www.youtube.com/watch?v=Jr4y_9FIZ2E)
 * [2022-06-15, 10:02:24](https://news.ycombinator.com/item?id=31750981) - [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)
 * [2022-06-14, 21:37:46](https://news.ycombinator.com/item?id=31746395) - [How Animals Perceive the World](https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/)
 * [2022-06-14, 17:46:40](https://news.ycombinator.com/item?id=31743151) - [The Last Question by Issac Asimov [pdf]](https://www.physics.princeton.edu/ph115/LQ.pdf)
@@ -29,7 +30,6 @@
 * [2022-06-14, 15:48:37](https://news.ycombinator.com/item?id=31741185) - [The giraffe neck evolved for sexual combat?](https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/)
 * [2022-06-14, 15:39:17](https://news.ycombinator.com/item?id=31741082) - [Phases of Database Growth and Cost](https://www.crunchydata.com/blog/phases-of-database-growth-and-cost)
 * [2022-06-14, 15:28:35](https://news.ycombinator.com/item?id=31740909) - [Astronomers may have detected a ‘dark’ free-floating black hole](https://news.berkeley.edu/2022/06/10/astronomers-may-have-detected-a-dark-free-floating-black-hole/)
-* [2022-06-14, 15:27:15](https://news.ycombinator.com/item?id=31740885) - [Ask HN: Pros and cons of V8 isolates?](https://news.ycombinator.com/item?id=31740885)
 
 ## [Archives](archives/index.md)
 
