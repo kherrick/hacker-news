@@ -41,21 +41,11 @@
   ],
   [
     [
-      "2022-06-16, 20:02:49",
-      "https://news.ycombinator.com/item?id=31770296"
-    ],
-    [
-      "Apple Reneged on OCSP Privacy",
-      "https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 19:03:15",
       "https://news.ycombinator.com/item?id=31769683"
     ],
     [
-      "macOS Screenshot Tricks to Impress Your Co-Workers",
+      "macOS screenshot tricks to impress your co-workers",
       "https://sal.dev/macos/macos-screenshotting-tips-and-tricks/"
     ]
   ],
@@ -67,16 +57,6 @@
     [
       "Cool Desktops Don’t Change",
       "https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 18:55:29",
-      "https://news.ycombinator.com/item?id=31769601"
-    ],
-    [
-      "Tell HN: Triplebyte is, yet again, making user profiles public without consent",
-      "https://news.ycombinator.com/item?id=31769601"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2022-06-16, 16:19:24",
+      "https://news.ycombinator.com/item?id=31767827"
+    ],
+    [
+      "ReadySet Core: next-generation SQL caching, freely available",
+      "https://readyset.io/blog/readyset-core"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 16:01:14",
       "https://news.ycombinator.com/item?id=31767575"
     ],
@@ -267,6 +257,16 @@
     [
       "The Beautiful Network of Ancient Roman Roads (2015)",
       "https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 13:08:25",
+      "https://news.ycombinator.com/item?id=31752334"
+    ],
+    [
+      "Porting OpenBSD to RISC-V ISA [pdf]",
+      "https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf"
     ]
   ],
   [
