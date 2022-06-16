@@ -9,6 +9,7 @@
 * [2022-06-16, 18:55:39](https://news.ycombinator.com/item?id=31769604) - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
 * [2022-06-16, 18:55:29](https://news.ycombinator.com/item?id=31769601) - [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
 * [2022-06-16, 18:47:20](https://news.ycombinator.com/item?id=31769520) - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
+* [2022-06-16, 18:44:25](https://news.ycombinator.com/item?id=31769484) - [The Cult Inside Google](https://medium.com/@kwilliamlloyd/the-cult-in-google-3c1a910214d1)
 * [2022-06-16, 18:26:41](https://news.ycombinator.com/item?id=31769316) - [Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
 * [2022-06-16, 18:24:43](https://news.ycombinator.com/item?id=31769294) - [The computers are fast, but you don't know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
 * [2022-06-16, 18:00:25](https://news.ycombinator.com/item?id=31769059) - [Visualizing Elliptic Curves](https://curves.ulfheim.net/)
