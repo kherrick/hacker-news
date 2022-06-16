@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 13:02:37](https://news.ycombinator.com/item?id=31765566) - [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
+* [2022-06-16, 12:45:45](https://news.ycombinator.com/item?id=31765405) - [Investors Think They’re More Impactful Than They Are](https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html)
+* [2022-06-16, 12:40:29](https://news.ycombinator.com/item?id=31765354) - [Asking for a date of birth – Design in government](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
 * [2022-06-16, 11:32:38](https://news.ycombinator.com/item?id=31764773) - [Wails 1.0 – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 11:17:53](https://news.ycombinator.com/item?id=31764696) - [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=31764696)
