@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-16, 06:07:39",
+      "https://news.ycombinator.com/item?id=31762904"
+    ],
+    [
+      "Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam",
+      "https://news.ycombinator.com/item?id=31762904"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 05:44:23",
+      "https://news.ycombinator.com/item?id=31762778"
+    ],
+    [
+      "Is .NET open? MS pushing a proprietary extension to replace OmniSharp",
+      "https://isdotnetopen.com/"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 04:52:35",
       "https://news.ycombinator.com/item?id=31762534"
     ],
@@ -37,16 +57,6 @@
     [
       "We Put Half a Million Files in One Git Repository, Here’s What We Learned",
       "https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 01:07:32",
-      "https://news.ycombinator.com/item?id=31761458"
-    ],
-    [
-      "CeresDB: A high-perf, distributed, schema-less and time-series database (Rust)",
-      "https://github.com/CeresDB/ceresdb"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-06-15, 10:52:52",
-      "https://news.ycombinator.com/item?id=31751242"
-    ],
-    [
-      "Ten years after the Higgs, physicists face the nightmare of finding nothing else",
-      "https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 21:37:46",
       "https://news.ycombinator.com/item?id=31746395"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-06-14, 16:10:54",
-      "https://news.ycombinator.com/item?id=31741511"
-    ],
-    [
-      "NLP: How did we get here? Where do large language models fit?",
-      "https://mantiumai.com/blog/nlp-how-did-we-get-here-where-do-llm-fit/"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 15:54:32",
       "https://news.ycombinator.com/item?id=31741262"
     ],
@@ -277,6 +267,16 @@
     [
       "The giraffe neck evolved for sexual combat?",
       "https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 15:39:17",
+      "https://news.ycombinator.com/item?id=31741082"
+    ],
+    [
+      "Phases of Database Growth and Cost",
+      "https://www.crunchydata.com/blog/phases-of-database-growth-and-cost"
     ]
   ],
   [
