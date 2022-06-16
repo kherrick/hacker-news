@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 07:40:52](https://news.ycombinator.com/item?id=31763451) - [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
 * [2022-06-16, 07:00:06](https://news.ycombinator.com/item?id=31763225) - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
 * [2022-06-16, 06:07:39](https://news.ycombinator.com/item?id=31762904) - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
@@ -19,7 +20,6 @@
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
 * [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 * [2022-06-15, 14:13:39](https://news.ycombinator.com/item?id=31753200) - [What Is an Oscillator in Music? [video]](https://www.youtube.com/watch?v=Jr4y_9FIZ2E)
-* [2022-06-15, 10:52:52](https://news.ycombinator.com/item?id=31751242) - [Ten years after the Higgs, physicists face the nightmare of finding nothing else](https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else)
 * [2022-06-14, 21:37:46](https://news.ycombinator.com/item?id=31746395) - [How Animals Perceive the World](https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/)
 * [2022-06-14, 17:46:40](https://news.ycombinator.com/item?id=31743151) - [The Last Question by Issac Asimov [pdf]](https://www.physics.princeton.edu/ph115/LQ.pdf)
 * [2022-06-14, 17:15:25](https://news.ycombinator.com/item?id=31742648) - [The Helios microkernel](https://drewdevault.com/2022/06/13/helios.html)
