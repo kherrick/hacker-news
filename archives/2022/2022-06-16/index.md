@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 08:06:20](https://news.ycombinator.com/item?id=31763586) - [Brave breaks language reporting in browser for more anonymity](https://brave.com/privacy-updates/17-language-fingerprinting/)
 * [2022-06-16, 07:53:38](https://news.ycombinator.com/item?id=31763514) - [Geekbench 5 Metal GPU scores have leaked for Apple's M2 Chip](https://twitter.com/vadimyuryev/status/1537134411962937344)
 * [2022-06-16, 07:40:52](https://news.ycombinator.com/item?id=31763451) - [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
+* [2022-06-16, 07:30:49](https://news.ycombinator.com/item?id=31763403) - [Read Easy – Dyslexia, ADHD, and SSS Helper](https://chrome.google.com/webstore/detail/read-easy-dyslexia-adhd-a/oihhpemnlfdlkdhbiajjjkbbojdojchj)
 * [2022-06-16, 07:00:06](https://news.ycombinator.com/item?id=31763225) - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
 * [2022-06-16, 06:07:39](https://news.ycombinator.com/item?id=31762904) - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
