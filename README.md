@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-16, 19:26:53](https://news.ycombinator.com/item?id=31769929) - [Gitea Joins the Fediverse](https://ta180m.exozy.me/posts/gitea-actually-joins-the-fediverse/)
+* [2022-06-16, 19:16:07](https://news.ycombinator.com/item?id=31769811) - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
 * [2022-06-16, 18:55:39](https://news.ycombinator.com/item?id=31769604) - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
 * [2022-06-16, 18:55:29](https://news.ycombinator.com/item?id=31769601) - [Tell HN: Triplebyte is, yet again, making user profiles public without consent](https://news.ycombinator.com/item?id=31769601)
 * [2022-06-16, 18:47:20](https://news.ycombinator.com/item?id=31769520) - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
