@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 18:24:43](https://news.ycombinator.com/item?id=31769294) - [The computers are fast, but you don't know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
 * [2022-06-16, 18:00:25](https://news.ycombinator.com/item?id=31769059) - [Visualizing Elliptic Curves](https://curves.ulfheim.net/)
 * [2022-06-16, 17:51:27](https://news.ycombinator.com/item?id=31768936) - [Wasmer – The Universal WebAssembly Runtime](https://wasmer.io/)
 * [2022-06-16, 17:42:03](https://news.ycombinator.com/item?id=31768828) - [Reddit acquires ML startup Spell](https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell)
