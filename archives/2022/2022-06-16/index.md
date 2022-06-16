@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 04:52:35](https://news.ycombinator.com/item?id=31762534) - [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
 * [2022-06-16, 04:17:17](https://news.ycombinator.com/item?id=31762392) - [Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
 * [2022-06-16, 04:01:25](https://news.ycombinator.com/item?id=31762342) - [/new convention: think of it as “dotfiles” but “for computers”](https://ghuntley.com/slash-new/)
 * [2022-06-16, 03:42:28](https://news.ycombinator.com/item?id=31762245) - [We Put Half a Million Files in One Git Repository, Here’s What We Learned](https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181)
