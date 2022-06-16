@@ -72,6 +72,7 @@
 * [2022-06-14, 12:41:36](https://news.ycombinator.com/item?id=31738458) - [How to Get Lucky in Life](https://fronterablog.com/luck-surface-area/)
 * [2022-06-14, 12:34:32](https://news.ycombinator.com/item?id=31738348) - [Molecular Notes: Practice](https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2/)
 * [2022-06-14, 12:13:53](https://news.ycombinator.com/item?id=31738029) - [Coinbase Announces 18% Layoffs](https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12)
+* [2022-06-14, 12:13:46](https://news.ycombinator.com/item?id=31738026) - [Sega Saturn CD – Cracked after 20 years (2016) [video]](https://www.youtube.com/watch?v=jOyfZex7B3E)
 * [2022-06-14, 11:57:09](https://news.ycombinator.com/item?id=31737807) - [Gitlab Now the Main Development Platform for Wine](https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow)
 * [2022-06-14, 11:05:59](https://news.ycombinator.com/item?id=31737226) - [Man loses life savings in cryptocurrency scam](https://www.bbc.com/news/uk-northern-ireland-61789747)
 * [2022-06-14, 11:04:16](https://news.ycombinator.com/item?id=31737207) - [Japan asteroid probe finds 23 amino acids, researchers confirm](https://asia.nikkei.com/Business/Science/Japan-asteroid-probe-finds-23-amino-acids-researchers-confirm)
