@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 * [2022-06-16, 13:21:11](https://news.ycombinator.com/item?id=31765730) - [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
+* [2022-06-16, 13:11:34](https://news.ycombinator.com/item?id=31765644) - [Barber License in Rhode Island – Step 1: 1500 Hr Barber Training Program](https://www.barber-license.com/rhode-island/)
 * [2022-06-16, 13:02:37](https://news.ycombinator.com/item?id=31765566) - [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
 * [2022-06-16, 12:45:45](https://news.ycombinator.com/item?id=31765405) - [Investors think they’re more impactful than they are](https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html)
@@ -23,12 +25,10 @@
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Despite best efforts .NET is still not an open platform](https://isdotnetopen.com/)
 * [2022-06-16, 03:42:28](https://news.ycombinator.com/item?id=31762245) - [We Put Half a Million Files in One Git Repository, Here’s What We Learned](https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181)
 * [2022-06-15, 10:11:30](https://news.ycombinator.com/item?id=31751027) - [The Hard Disk That Changed the World (2006)](https://www.newsweek.com/hard-disk-changed-world-108939)
-* [2022-06-15, 10:02:24](https://news.ycombinator.com/item?id=31750981) - [Voronoi Diagrams on the GPU (2016)](https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/)
 * [2022-06-15, 10:01:08](https://news.ycombinator.com/item?id=31750974) - [Younger Dryas cosmic impact of 12,800 years ago](https://sci-hub.ru/10.1086/695703)
 * [2022-06-15, 09:52:42](https://news.ycombinator.com/item?id=31750931) - [Shepard Tone](https://en.wikipedia.org/wiki/Shepard_tone)
 * [2022-06-15, 07:47:38](https://news.ycombinator.com/item?id=31750212) - [The Case of the Vanishing Cafeteria Tray](https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/)
 * [2022-06-14, 17:15:25](https://news.ycombinator.com/item?id=31742648) - [The Helios microkernel](https://drewdevault.com/2022/06/13/helios.html)
-* [2022-06-14, 15:39:17](https://news.ycombinator.com/item?id=31741082) - [Phases of Database Growth and Cost](https://www.crunchydata.com/blog/phases-of-database-growth-and-cost)
 * [2022-06-14, 12:13:46](https://news.ycombinator.com/item?id=31738026) - [Sega Saturn CD – Cracked after 20 years (2016) [video]](https://www.youtube.com/watch?v=jOyfZex7B3E)
 
 ## [Archives](archives/index.md)
