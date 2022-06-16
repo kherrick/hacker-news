@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 11:32:38](https://news.ycombinator.com/item?id=31764773) - [Wails 1.0 – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
+* [2022-06-16, 11:17:53](https://news.ycombinator.com/item?id=31764696) - [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=31764696)
 * [2022-06-16, 11:04:01](https://news.ycombinator.com/item?id=31764615) - [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
 * [2022-06-16, 10:49:29](https://news.ycombinator.com/item?id=31764530) - [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
 * [2022-06-16, 10:37:20](https://news.ycombinator.com/item?id=31764461) - [Sick and struggling to pay, 100M people in the U.S. live with medical debt](https://www.npr.org/sections/health-shots/2022/06/16/1104679219/medical-bills-debt-investigation)
@@ -14,6 +16,7 @@
 * [2022-06-16, 09:29:06](https://news.ycombinator.com/item?id=31764041) - [Ask HN: What has melted your brain recently?](https://news.ycombinator.com/item?id=31764041)
 * [2022-06-16, 09:24:56](https://news.ycombinator.com/item?id=31764015) - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
 * [2022-06-16, 08:58:36](https://news.ycombinator.com/item?id=31763858) - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
+* [2022-06-16, 08:56:27](https://news.ycombinator.com/item?id=31763844) - [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/)
 * [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 * [2022-06-16, 08:06:20](https://news.ycombinator.com/item?id=31763586) - [Brave breaks language reporting in browser for more anonymity](https://brave.com/privacy-updates/17-language-fingerprinting/)
 * [2022-06-16, 07:53:38](https://news.ycombinator.com/item?id=31763514) - [Geekbench 5 Metal GPU scores have leaked for Apple's M2 Chip](https://twitter.com/vadimyuryev/status/1537134411962937344)
