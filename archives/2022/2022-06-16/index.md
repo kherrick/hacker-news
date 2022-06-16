@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 21:45:17](https://news.ycombinator.com/item?id=31771367) - [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
 * [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 * [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
 * [2022-06-16, 20:07:43](https://news.ycombinator.com/item?id=31770348) - [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
@@ -65,6 +66,7 @@
 * [2022-06-16, 07:00:06](https://news.ycombinator.com/item?id=31763225) - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
 * [2022-06-16, 06:07:39](https://news.ycombinator.com/item?id=31762904) - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
+* [2022-06-16, 05:21:17](https://news.ycombinator.com/item?id=31762670) - [The (Other) French Chef](https://hazlitt.net/longreads/other-french-chef)
 * [2022-06-16, 04:52:35](https://news.ycombinator.com/item?id=31762534) - [Colouring Noise – Generating Noise with a Specific Power Spectral Density](https://blog.ioces.com/matt/posts/colouring-noise/)
 * [2022-06-16, 04:17:17](https://news.ycombinator.com/item?id=31762392) - [Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”](https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/)
 * [2022-06-16, 04:01:25](https://news.ycombinator.com/item?id=31762342) - [/new convention: think of it as “dotfiles” but “for computers”](https://ghuntley.com/slash-new/)
