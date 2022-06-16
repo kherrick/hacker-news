@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 17:02:35](https://news.ycombinator.com/item?id=31768405) - [Fish Shell 3.5.0](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022)
+* [2022-06-16, 17:01:03](https://news.ycombinator.com/item?id=31768385) - [Keeper Tax (YC W19) Is Hiring a freelance designer (design systems)](https://www.ycombinator.com/companies/keeper-tax/jobs/RsXu0Yl-product-designer-design-systems-contract)
 * [2022-06-16, 16:23:55](https://news.ycombinator.com/item?id=31767890) - [The Silent Majority of Experts](https://prog21.dadgum.com/143.html)
+* [2022-06-16, 16:19:30](https://news.ycombinator.com/item?id=31767830) - [Show HN: Recut automatically removes silence from videos. It's built with Tauri](https://getrecut.com/)
 * [2022-06-16, 16:19:24](https://news.ycombinator.com/item?id=31767827) - [ReadySet Core: next-generation SQL caching, freely available](https://readyset.io/blog/readyset-core)
 * [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 * [2022-06-16, 15:26:22](https://news.ycombinator.com/item?id=31767184) - [100M People in America Are Saddled with Health Care Debt](https://khn.org/news/article/diagnosis-debt-investigation-100-million-americans-hidden-medical-debt/)
@@ -26,6 +29,7 @@
 * [2022-06-16, 11:17:53](https://news.ycombinator.com/item?id=31764696) - [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=31764696)
 * [2022-06-16, 11:04:01](https://news.ycombinator.com/item?id=31764615) - [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
 * [2022-06-16, 10:49:29](https://news.ycombinator.com/item?id=31764530) - [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
+* [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 10:37:20](https://news.ycombinator.com/item?id=31764461) - [Sick and struggling to pay, 100M people in the U.S. live with medical debt](https://www.npr.org/sections/health-shots/2022/06/16/1104679219/medical-bills-debt-investigation)
 * [2022-06-16, 10:29:45](https://news.ycombinator.com/item?id=31764406) - [Facebook Is Receiving Sensitive Medical Information from Hospital Websites](https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites)
 * [2022-06-16, 10:04:59](https://news.ycombinator.com/item?id=31764251) - [‘Stunning’ Anglo-Saxon burial site found along HS2 route](https://www.theguardian.com/science/2022/jun/16/stunning-anglo-saxon-burial-site-found-along-hs2-route)
