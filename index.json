@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-16, 20:30:14",
+      "https://news.ycombinator.com/item?id=31770618"
+    ],
+    [
+      "CockroachDB's Consistency Model",
+      "https://www.cockroachlabs.com/blog/consistency-model/"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 20:14:38",
+      "https://news.ycombinator.com/item?id=31770432"
+    ],
+    [
+      "Calling for Antitrust Reform",
+      "https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 20:02:49",
       "https://news.ycombinator.com/item?id=31770296"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-06-15, 07:47:38",
-      "https://news.ycombinator.com/item?id=31750212"
-    ],
-    [
-      "The case of the vanishing cafeteria tray",
-      "https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 22:49:09",
       "https://news.ycombinator.com/item?id=31746967"
     ],
@@ -287,16 +297,6 @@
     [
       "Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior",
       "https://neurosciencenews.com/chemical-fetal-brain-20810/"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 15:32:24",
-      "https://news.ycombinator.com/item?id=31740978"
-    ],
-    [
-      "Attempting to create an aesthetic global line breaking algorithm",
-      "https://nibblestew.blogspot.com/2022/06/attempting-to-create-aesthetic-global.html"
     ]
   ]
 ]
