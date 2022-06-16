@@ -7,6 +7,7 @@
 * [2022-06-16, 17:02:35](https://news.ycombinator.com/item?id=31768405) - [Fish Shell 3.5.0](https://fishshell.com/docs/current/relnotes.html#fish-3-5-0-released-june-16-2022)
 * [2022-06-16, 17:01:03](https://news.ycombinator.com/item?id=31768385) - [Keeper Tax (YC W19) Is Hiring a freelance designer (design systems)](https://www.ycombinator.com/companies/keeper-tax/jobs/RsXu0Yl-product-designer-design-systems-contract)
 * [2022-06-16, 16:23:55](https://news.ycombinator.com/item?id=31767890) - [The Silent Majority of Experts](https://prog21.dadgum.com/143.html)
+* [2022-06-16, 16:21:49](https://news.ycombinator.com/item?id=31767858) - [No, QuestDB is not Faster than ClickHouse](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15)
 * [2022-06-16, 16:19:30](https://news.ycombinator.com/item?id=31767830) - [Show HN: Recut automatically removes silence from videos. It's built with Tauri](https://getrecut.com/)
 * [2022-06-16, 16:19:24](https://news.ycombinator.com/item?id=31767827) - [ReadySet Core: next-generation SQL caching, freely available](https://readyset.io/blog/readyset-core)
 * [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
