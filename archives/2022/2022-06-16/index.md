@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 08:58:36](https://news.ycombinator.com/item?id=31763858) - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
+* [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 * [2022-06-16, 08:06:20](https://news.ycombinator.com/item?id=31763586) - [Brave breaks language reporting in browser for more anonymity](https://brave.com/privacy-updates/17-language-fingerprinting/)
 * [2022-06-16, 07:53:38](https://news.ycombinator.com/item?id=31763514) - [Geekbench 5 Metal GPU scores have leaked for Apple's M2 Chip](https://twitter.com/vadimyuryev/status/1537134411962937344)
 * [2022-06-16, 07:40:52](https://news.ycombinator.com/item?id=31763451) - [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
