@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2022-06-16, 04:01:25",
+      "https://news.ycombinator.com/item?id=31762342"
+    ],
+    [
+      "/new convention: think of it as “dotfiles” but “for computers”",
+      "https://ghuntley.com/slash-new/"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 03:42:28",
       "https://news.ycombinator.com/item?id=31762245"
     ],
     [
       "We Put Half a Million Files in One Git Repository, Here’s What We Learned",
       "https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 01:07:32",
-      "https://news.ycombinator.com/item?id=31761458"
-    ],
-    [
-      "CeresDB: A high-perf, distributed, schema-less and time-series database (Rust)",
-      "https://github.com/CeresDB/ceresdb"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-06-15, 13:24:06",
-      "https://news.ycombinator.com/item?id=31752516"
-    ],
-    [
-      "Browser Extension to Bypass Media Sites Paywalls",
-      "https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md"
-    ]
-  ],
-  [
-    [
       "2022-06-15, 10:52:52",
       "https://news.ycombinator.com/item?id=31751242"
     ],
@@ -277,6 +267,16 @@
     [
       "The giraffe neck evolved for sexual combat?",
       "https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 15:42:23",
+      "https://news.ycombinator.com/item?id=31741119"
+    ],
+    [
+      "Building a web application with Rust and WebAssembly",
+      "https://kerkour.com/web-application-with-rust-and-webassembly"
     ]
   ],
   [
