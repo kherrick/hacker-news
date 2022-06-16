@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-16, 13:25:24",
+      "https://news.ycombinator.com/item?id=31765773"
+    ],
+    [
+      "AMD outperforms Intel in 2022 Cloud Report",
+      "https://www.cockroachlabs.com/guides/2022-cloud-report/"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 13:21:11",
+      "https://news.ycombinator.com/item?id=31765730"
+    ],
+    [
+      "Cults at Google",
+      "https://twitter.com/alphabetworkers/status/1537396946691772416"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 13:02:37",
       "https://news.ycombinator.com/item?id=31765566"
     ],
@@ -11,11 +31,21 @@
   ],
   [
     [
+      "2022-06-16, 12:57:58",
+      "https://news.ycombinator.com/item?id=31765530"
+    ],
+    [
+      "NextDNS Launches API",
+      "https://nextdns.github.io/api/"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 12:45:45",
       "https://news.ycombinator.com/item?id=31765405"
     ],
     [
-      "Investors Think They’re More Impactful Than They Are",
+      "Investors think they’re more impactful than they are",
       "https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31765354"
     ],
     [
-      "Asking for a date of birth – Design in government",
+      "Asking for a date of birth (2013)",
       "https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/"
     ]
   ],
@@ -61,21 +91,11 @@
   ],
   [
     [
-      "2022-06-16, 11:04:01",
-      "https://news.ycombinator.com/item?id=31764615"
-    ],
-    [
-      "Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations",
-      "https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 10:49:29",
       "https://news.ycombinator.com/item?id=31764530"
     ],
     [
-      "Opening a Restaurant in Boston",
+      "Barriers to Business – How cities can pave a path to entrepreneurship",
       "https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31763586"
     ],
     [
-      "Brave breaks language reporting in browser for more anonymity in strict mode",
+      "Protecting Against Browser-Language Fingerprinting",
       "https://brave.com/privacy-updates/17-language-fingerprinting/"
     ]
   ],
@@ -185,18 +205,8 @@
       "https://news.ycombinator.com/item?id=31762778"
     ],
     [
-      "Is .NET open? MS pushing a proprietary extension to replace OmniSharp",
+      "Despite best efforts .NET is still not an open platform",
       "https://isdotnetopen.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 04:17:17",
-      "https://news.ycombinator.com/item?id=31762392"
-    ],
-    [
-      "Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”",
-      "https://www.themarginalian.org/2011/11/01/art-of-the-hobbit/"
     ]
   ],
   [
@@ -207,6 +217,16 @@
     [
       "We Put Half a Million Files in One Git Repository, Here’s What We Learned",
       "https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 10:11:30",
+      "https://news.ycombinator.com/item?id=31751027"
+    ],
+    [
+      "The Hard Disk That Changed the World (2006)",
+      "https://www.newsweek.com/hard-disk-changed-world-108939"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-06-14, 17:46:40",
-      "https://news.ycombinator.com/item?id=31743151"
-    ],
-    [
-      "The Last Question by Issac Asimov [pdf]",
-      "https://www.physics.princeton.edu/ph115/LQ.pdf"
-    ]
-  ],
-  [
-    [
       "2022-06-14, 17:15:25",
       "https://news.ycombinator.com/item?id=31742648"
     ],
     [
       "The Helios microkernel",
       "https://drewdevault.com/2022/06/13/helios.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-14, 17:01:56",
-      "https://news.ycombinator.com/item?id=31742412"
-    ],
-    [
-      "Keeping IC Packages Cool",
-      "https://semiengineering.com/keeping-ic-packages-cool/"
     ]
   ],
   [
