@@ -129,6 +129,147 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31769520">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=31769520"
+              >GitHub waited 3 months to notify about potential compromise</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-16 @ 18:47:20</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31769520"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>See full text below:</p>
+              <p>Hi zwass,</p>
+              <p>
+                We're writing to let you know that between 2022-02-25 18:28 UTC
+                and 2022-03-02 20:47 UTC, due to a bug, GitHub Apps were able to
+                generate new scoped installation tokens with elevated
+                permissions. You are an owner of an organization on GitHub with
+                GitHub Apps installed that generated at least one new token
+                during this time period. While we do not have evidence that this
+                bug was maliciously exploited, with our available data, we are
+                not able to determine if a token was generated with elevated
+                permissions.
+              </p>
+              <p>
+                User privacy and security are essential for maintaining trust,
+                and we want to remain as transparent as possible about events
+                like these. GitHub itself did not experience a compromise or
+                data breach that either created or resulted from this event.
+                Read on for more information.
+              </p>
+              <p>* What happened? *</p>
+              <p>
+                GitHub learned via a customer support ticket that GitHub Apps
+                were able to generate scoped installation tokens with elevated
+                permissions. Each of these tokens are valid for up to 1 hour.
+              </p>
+              <p>
+                GitHub quickly fixed the issue and established that this bug was
+                recently introduced, existing for approximately 5 days between
+                2022-02-25 18:28 UTC and 2022-03-02 20:47 UTC.
+              </p>
+              <p>
+                GitHub Apps generate scoped installation tokens based on the
+                scopes and permissions granted when the GitHub App is installed
+                into a user account or organization. For example, if a GitHub
+                App requests and is granted read permission to issues during
+                installation, the scoped installation token the App generates to
+                function would have `issues:read` permission.
+              </p>
+              <p>
+                This bug would potentially allow the above installation to
+                generate a token with `issues:write`, an elevation of permission
+                from the granted `issues:read` permission. The bug did not allow
+                a GitHub App to generate a token with additional scopes that
+                were not already granted, such as `discussions:read` in the
+                above example. The bug did not allow a GitHub App to access any
+                repositories that the App did not already have access to.
+              </p>
+              <p>
+                In order to exploit this bug, the GitHub App author would need
+                to modify their app's code to request elevated permissions on
+                generated tokens.
+              </p>
+              <p>* What information was involved? *</p>
+              <p>
+                The following GitHub Apps generated scoped installation tokens
+                during the bug window for your organization(s). We are not able
+                to determine if a token was generated with elevated permissions.
+              </p>
+              <p>Organization: GitHub Apps &lt;redacted&gt;</p>
+              <p>* What GitHub is doing *</p>
+              <p>
+                GitHub immediately began working to fix the bug and started an
+                investigation into the potential impact. However due to the
+                scale and complexity of GitHub Apps and their short-lived
+                tokens, we were unable to determine whether this bug was ever
+                exploited.
+              </p>
+              <p>
+                We are notifying all organization and user account owners that
+                had GitHub Apps installed and had a scoped installation token
+                generated during the bug window so that they can stay informed
+                and perform their own audit of their installed GitHub Apps.
+              </p>
+              <p>
+                As a followup to this investigation, GitHub is looking at ways
+                to improve our logging to enable more in-depth analysis on
+                scoped token generation and GitHub App permissions in the
+                future.
+              </p>
+              <p>* What was the potential impact? *</p>
+              <p>
+                Due to the variety of GitHub Apps, their possible scopes, and
+                the repositories they may have been given access to, we are
+                unable to advise on any potential impacts as each customer's
+                situation will be unique.
+              </p>
+              <p>* What you can do *</p>
+              <p>
+                While we have updated our systems to resolve this bug and no
+                action is required on your end, we do recommend you review your
+                installed GitHub Apps. You can use the following guidance for
+                assessing GitHub Apps, their permissions, and their access to
+                your private organization repositories:
+              </p>
+              <p>
+                https://docs.github.com/en/organizations/keeping-your-organization-secure
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="31769316">
+          <h3>
+            <a
+              class="item"
+              href="https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework"
+              >Breaking up with Flask and FastAPI: Why they don’t scale for ML
+              model serving</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-16 @ 18:26:41</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31769316"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="31769294">
           <h3>
             <a
@@ -141,11 +282,11 @@
             <h4>
               <span>2022-06-16 @ 18:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31769294"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -160,11 +301,11 @@
             <h4>
               <span>2022-06-16 @ 18:00:25</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31769059"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -179,32 +320,11 @@
             <h4>
               <span>2022-06-16 @ 17:51:27</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31768936"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31768828">
-          <h3>
-            <a
-              class="item"
-              href="https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell"
-              >Reddit acquires ML startup Spell</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-16 @ 17:42:03</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31768828"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -222,7 +342,7 @@
             <h4>
               <span>2022-06-16 @ 17:30:28</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31768705"
                   >Comments</a
@@ -259,11 +379,11 @@
             <h4>
               <span>2022-06-16 @ 16:23:55</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31767890"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -284,7 +404,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31767858"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -300,11 +420,11 @@
             <h4>
               <span>2022-06-16 @ 16:19:30</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31767830"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -319,7 +439,7 @@
             <h4>
               <span>2022-06-16 @ 16:19:24</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31767827"
                   >Comments</a
@@ -340,11 +460,11 @@
             <h4>
               <span>2022-06-16 @ 16:01:14</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31767575"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -382,7 +502,7 @@
             <h4>
               <span>2022-06-16 @ 14:04:12</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31766179"
                   >Comments</a
@@ -407,7 +527,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31765773"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -442,7 +562,7 @@
             <h4>
               <span>2022-06-16 @ 12:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31765530"
                   >Comments</a
@@ -463,11 +583,11 @@
             <h4>
               <span>2022-06-16 @ 12:52:45</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31765479"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -488,7 +608,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31765354"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -509,7 +629,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31764722"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -524,32 +644,11 @@
             <h4>
               <span>2022-06-16 @ 10:47:15</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31764521"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31764251">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/science/2022/jun/16/stunning-anglo-saxon-burial-site-found-along-hs2-route"
-              >‘Stunning’ Anglo-Saxon burial site found along HS2 route</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-16 @ 10:04:59</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31764251"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -570,7 +669,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31763844"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -587,11 +686,11 @@
             <h4>
               <span>2022-06-16 @ 08:29:06</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31763690"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -606,11 +705,11 @@
             <h4>
               <span>2022-06-16 @ 05:44:23</span
               ><span class="points-container"
-                >Points: <span class="points">518</span></span
+                >Points: <span class="points">521</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31762778"
                   >Comments</a
-                ><span class="descendants">: 437</span></span
+                ><span class="descendants">: 441</span></span
               >
             </h4>
           </section>
@@ -637,21 +736,23 @@
             </h4>
           </section>
         </section>
-        <section id="31750931">
+        <section id="31750212">
           <h3>
-            <a class="item" href="https://en.wikipedia.org/wiki/Shepard_tone"
-              >Shepard Tone</a
+            <a
+              class="item"
+              href="https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/"
+              >The case of the vanishing cafeteria tray</a
             >
           </h3>
           <section>
             <h4>
-              <span>2022-06-15 @ 09:52:42</span
+              <span>2022-06-15 @ 07:47:38</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31750931"
+                ><a href="https://news.ycombinator.com/item?id=31750212"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -661,19 +762,19 @@
             <a
               class="item"
               href="https://neurosciencenews.com/chemical-fetal-brain-20810/"
-              >Endocrine-Disrupting Chemical Exposure in Womb Impact Fear,
-              Anxiety Behavior</a
+              >Endocrine-disrupting chemical exposure in womb impact fear,
+              anxiety behavior</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-06-14 @ 17:21:21</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31742755"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -713,11 +814,11 @@
             <h4>
               <span>2022-06-14 @ 15:32:24</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31740978"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -736,7 +837,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31738026"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
