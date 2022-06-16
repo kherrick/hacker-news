@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 16:23:55](https://news.ycombinator.com/item?id=31767890) - [The Silent Majority of Experts](https://prog21.dadgum.com/143.html)
+* [2022-06-16, 16:19:24](https://news.ycombinator.com/item?id=31767827) - [ReadySet Core: next-generation SQL caching, freely available](https://readyset.io/blog/readyset-core)
 * [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 * [2022-06-16, 15:26:22](https://news.ycombinator.com/item?id=31767184) - [100M People in America Are Saddled with Health Care Debt](https://khn.org/news/article/diagnosis-debt-investigation-100-million-americans-hidden-medical-debt/)
 * [2022-06-16, 15:06:29](https://news.ycombinator.com/item?id=31766909) - [How a generation lost its common culture](https://www.mindingthecampus.org/2016/02/02/how-a-generation-lost-its-common-culture/)
