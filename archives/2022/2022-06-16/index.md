@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [Why I'm now making drugs for cats (and you should too)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:46:28](https://news.ycombinator.com/item?id=31765986) - [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)

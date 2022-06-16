@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [Why I'm now making drugs for cats (and you should too)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 * [2022-06-16, 13:21:11](https://news.ycombinator.com/item?id=31765730) - [A religious sect landed Google in a lawsuit](https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html)
@@ -12,7 +13,6 @@
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 11:17:53](https://news.ycombinator.com/item?id=31764696) - [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=31764696)
 * [2022-06-16, 10:49:29](https://news.ycombinator.com/item?id=31764530) - [Barriers to Business – How cities can pave a path to entrepreneurship](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
-* [2022-06-16, 10:29:45](https://news.ycombinator.com/item?id=31764406) - [Facebook is receiving sensitive medical information from hospital websites](https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites)
 * [2022-06-16, 10:04:59](https://news.ycombinator.com/item?id=31764251) - [‘Stunning’ Anglo-Saxon burial site found along HS2 route](https://www.theguardian.com/science/2022/jun/16/stunning-anglo-saxon-burial-site-found-along-hs2-route)
 * [2022-06-16, 09:24:56](https://news.ycombinator.com/item?id=31764015) - [Tauri 1.0 – Electron Alternative Powered by Rust](https://tauri.studio/v1/guides/)
 * [2022-06-16, 08:58:36](https://news.ycombinator.com/item?id=31763858) - [FreeCAD 0.20 Release Notes](https://wiki.freecadweb.org/Release_notes_0.20)
