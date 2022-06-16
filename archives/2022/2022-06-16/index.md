@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [AMD outperforms Intel in 2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
+* [2022-06-16, 13:21:11](https://news.ycombinator.com/item?id=31765730) - [Cults at Google](https://twitter.com/alphabetworkers/status/1537396946691772416)
 * [2022-06-16, 13:02:37](https://news.ycombinator.com/item?id=31765566) - [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
+* [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS Launches API](https://nextdns.github.io/api/)
 * [2022-06-16, 12:45:45](https://news.ycombinator.com/item?id=31765405) - [Investors Think They’re More Impactful Than They Are](https://www.sethlevine.com/archives/2022/06/investors-think-theyre-more-impactful-than-they-actually-are.html)
 * [2022-06-16, 12:40:29](https://news.ycombinator.com/item?id=31765354) - [Asking for a date of birth – Design in government](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
 * [2022-06-16, 11:32:38](https://news.ycombinator.com/item?id=31764773) - [Wails 1.0 – Electron Alternative Powered by Go](https://github.com/wailsapp/wails)
