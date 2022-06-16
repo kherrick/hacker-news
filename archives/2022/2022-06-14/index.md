@@ -43,6 +43,7 @@
 * [2022-06-14, 15:48:37](https://news.ycombinator.com/item?id=31741185) - [The Giraffe Neck Evolved for Sexual Combat](https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/)
 * [2022-06-14, 15:42:23](https://news.ycombinator.com/item?id=31741119) - [Building a web application with Rust and WebAssembly](https://kerkour.com/web-application-with-rust-and-webassembly)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
+* [2022-06-14, 15:39:17](https://news.ycombinator.com/item?id=31741082) - [Phases of Database Growth and Cost](https://www.crunchydata.com/blog/phases-of-database-growth-and-cost)
 * [2022-06-14, 15:36:00](https://news.ycombinator.com/item?id=31741030) - [Study: Falling sperm counts finds 'alarming' levels of chemicals in male urine](https://www.euronews.com/next/2022/06/10/research-into-falling-sperm-counts-finds-alarming-levels-of-chemicals-in-male-urine-sample)
 * [2022-06-14, 15:35:30](https://news.ycombinator.com/item?id=31741021) - [Houston Moved 25,000 People from the Streets into Homes of Their Own](https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html)
 * [2022-06-14, 15:35:13](https://news.ycombinator.com/item?id=31741018) - [Show HN: My Side Project Rocks – Share and discover side projects](https://mysideproject.rocks/)
