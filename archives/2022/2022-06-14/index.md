@@ -31,6 +31,7 @@
 * [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
 * [2022-06-14, 17:15:25](https://news.ycombinator.com/item?id=31742648) - [The Helios microkernel](https://drewdevault.com/2022/06/13/helios.html)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase Lays Off Around 1,100 Employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
+* [2022-06-14, 17:01:56](https://news.ycombinator.com/item?id=31742412) - [Keeping IC Packages Cool](https://semiengineering.com/keeping-ic-packages-cool/)
 * [2022-06-14, 16:32:36](https://news.ycombinator.com/item?id=31741881) - [Ask HN: Any Sales Engineers out here?](https://news.ycombinator.com/item?id=31741881)
 * [2022-06-14, 16:30:22](https://news.ycombinator.com/item?id=31741837) - [The Bold Truth (2015)](http://www.boldtruth.com)
 * [2022-06-14, 16:18:37](https://news.ycombinator.com/item?id=31741628) - [The fact-checkers using OSINT to investigate Sri Lanka’s meltdown](https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/)
