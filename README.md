@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 18:55:39](https://news.ycombinator.com/item?id=31769604) - [Cool Desktops Don’t Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
 * [2022-06-16, 18:47:20](https://news.ycombinator.com/item?id=31769520) - [GitHub waited 3 months to notify about potential compromise](https://news.ycombinator.com/item?id=31769520)
 * [2022-06-16, 18:26:41](https://news.ycombinator.com/item?id=31769316) - [Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
 * [2022-06-16, 18:24:43](https://news.ycombinator.com/item?id=31769294) - [The computers are fast, but you don't know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
@@ -15,7 +16,6 @@
 * [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [I'm making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:25:24](https://news.ycombinator.com/item?id=31765773) - [2022 Cloud Report](https://www.cockroachlabs.com/guides/2022-cloud-report/)
-* [2022-06-16, 13:02:37](https://news.ycombinator.com/item?id=31765566) - [Sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Applications](https://sciter.com/)
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
 * [2022-06-16, 12:52:45](https://news.ycombinator.com/item?id=31765479) - [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
 * [2022-06-16, 12:40:29](https://news.ycombinator.com/item?id=31765354) - [Asking for a date of birth (2013)](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
