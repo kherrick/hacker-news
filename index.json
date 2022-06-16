@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-16, 18:47:20",
+      "https://news.ycombinator.com/item?id=31769520"
+    ],
+    [
+      "GitHub waited 3 months to notify about potential compromise",
+      "https://news.ycombinator.com/item?id=31769520"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 18:26:41",
+      "https://news.ycombinator.com/item?id=31769316"
+    ],
+    [
+      "Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving",
+      "https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 18:24:43",
       "https://news.ycombinator.com/item?id=31769294"
     ],
@@ -27,16 +47,6 @@
     [
       "Wasmer – The Universal WebAssembly Runtime",
       "https://wasmer.io/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 17:42:03",
-      "https://news.ycombinator.com/item?id=31768828"
-    ],
-    [
-      "Reddit acquires ML startup Spell",
-      "https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-06-16, 10:04:59",
-      "https://news.ycombinator.com/item?id=31764251"
-    ],
-    [
-      "‘Stunning’ Anglo-Saxon burial site found along HS2 route",
-      "https://www.theguardian.com/science/2022/jun/16/stunning-anglo-saxon-burial-site-found-along-hs2-route"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 08:56:27",
       "https://news.ycombinator.com/item?id=31763844"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-06-15, 09:52:42",
-      "https://news.ycombinator.com/item?id=31750931"
+      "2022-06-15, 07:47:38",
+      "https://news.ycombinator.com/item?id=31750212"
     ],
     [
-      "Shepard Tone",
-      "https://en.wikipedia.org/wiki/Shepard_tone"
+      "The case of the vanishing cafeteria tray",
+      "https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31742755"
     ],
     [
-      "Endocrine-Disrupting Chemical Exposure in Womb Impact Fear, Anxiety Behavior",
+      "Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior",
       "https://neurosciencenews.com/chemical-fetal-brain-20810/"
     ]
   ],
