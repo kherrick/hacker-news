@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
+* [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
 * [2022-06-16, 20:02:49](https://news.ycombinator.com/item?id=31770296) - [Apple Reneged on OCSP Privacy](https://mjtsai.com/blog/2022/06/16/apple-reneged-on-ocsp-privacy/)
 * [2022-06-16, 19:26:53](https://news.ycombinator.com/item?id=31769929) - [Gitea Joins the Fediverse](https://ta180m.exozy.me/posts/gitea-actually-joins-the-fediverse/)
 * [2022-06-16, 19:16:07](https://news.ycombinator.com/item?id=31769811) - [Ask HN: How to make a photogenic server room](https://news.ycombinator.com/item?id=31769811)
