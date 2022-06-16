@@ -24,11 +24,11 @@
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory?](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
+* [2022-06-16, 08:56:27](https://news.ycombinator.com/item?id=31763844) - [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/)
 * [2022-06-16, 05:21:17](https://news.ycombinator.com/item?id=31762670) - [The (Other) French Chef](https://hazlitt.net/longreads/other-french-chef)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 13:08:25](https://news.ycombinator.com/item?id=31752334) - [Porting OpenBSD to RISC-V ISA [pdf]](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2022-06-15, 03:43:50](https://news.ycombinator.com/item?id=31748884) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
-* [2022-06-14, 22:49:09](https://news.ycombinator.com/item?id=31746967) - [The Phone Booth of the Mind](https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html)
 * [2022-06-14, 17:21:21](https://news.ycombinator.com/item?id=31742755) - [Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior](https://neurosciencenews.com/chemical-fetal-brain-20810/)
 
 ## [Archives](archives/index.md)
