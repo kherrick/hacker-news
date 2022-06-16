@@ -7,6 +7,7 @@
 * [2022-06-14, 23:53:07](https://news.ycombinator.com/item?id=31747509) - [Docker on (rooted) Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
 * [2022-06-14, 22:52:11](https://news.ycombinator.com/item?id=31746999) - [Tell HN: A reminder you hold so much power](https://news.ycombinator.com/item?id=31746999)
 * [2022-06-14, 22:50:19](https://news.ycombinator.com/item?id=31746980) - [Glucosamine significantly reduces risk of lung cancer and lung cancer mortality](https://erj.ersjournals.com/content/59/3/2101399)
+* [2022-06-14, 22:49:09](https://news.ycombinator.com/item?id=31746967) - [The Phone Booth of the Mind](https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html)
 * [2022-06-14, 22:23:56](https://news.ycombinator.com/item?id=31746786) - [The First High-Yield, Sub-Penny Plastic Processor](https://spectrum.ieee.org/plastic-microprocessor)
 * [2022-06-14, 22:12:03](https://news.ycombinator.com/item?id=31746685) - [You vs. A Billionaire: compare your income](https://youvsabillionaire.com/)
 * [2022-06-14, 21:37:46](https://news.ycombinator.com/item?id=31746395) - [How Animals Perceive the World](https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/)

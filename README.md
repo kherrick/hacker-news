@@ -27,8 +27,8 @@
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 14:10:25](https://news.ycombinator.com/item?id=31753149) - [Nanoparticle sensor can distinguish between viral and bacterial pneumonia](https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613)
 * [2022-06-15, 07:47:38](https://news.ycombinator.com/item?id=31750212) - [The case of the vanishing cafeteria tray](https://reasonstobecheerful.world/trayless-dining-university-food-waste-solution/)
+* [2022-06-14, 22:49:09](https://news.ycombinator.com/item?id=31746967) - [The Phone Booth of the Mind](https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html)
 * [2022-06-14, 17:21:21](https://news.ycombinator.com/item?id=31742755) - [Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior](https://neurosciencenews.com/chemical-fetal-brain-20810/)
-* [2022-06-14, 17:20:49](https://news.ycombinator.com/item?id=31742748) - [Chemist pursues answers to why promising solar cell material quickly degrades](https://techxplore.com/news/2022-06-chemist-pursues-solar-cell-material.html)
 * [2022-06-14, 15:32:24](https://news.ycombinator.com/item?id=31740978) - [Attempting to create an aesthetic global line breaking algorithm](https://nibblestew.blogspot.com/2022/06/attempting-to-create-aesthetic-global.html)
 
 ## [Archives](archives/index.md)
