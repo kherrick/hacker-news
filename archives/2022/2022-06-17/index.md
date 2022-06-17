@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 14:33:17](https://news.ycombinator.com/item?id=31778797) - [FDA Denies Petition to Ban All Phthalates in Food Packaging](https://www.consumerreports.org/food-safety/fda-denies-petition-to-ban-all-phthalates-in-food-packaging-a8313932149/)
 * [2022-06-17, 14:13:51](https://news.ycombinator.com/item?id=31778490) - [Gnome has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
 * [2022-06-17, 14:07:39](https://news.ycombinator.com/item?id=31778390) - [Sue Big Oil](https://suebigoil.ca/#newmode-embed-4723-49074)
 * [2022-06-17, 13:15:28](https://news.ycombinator.com/item?id=31777650) - [Tell HN: I haven't answered a call from Google Ads, this is what happened](https://news.ycombinator.com/item?id=31777650)
