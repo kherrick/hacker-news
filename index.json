@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-17, 15:04:42",
-      "https://news.ycombinator.com/item?id=31779260"
+      "2022-06-17, 16:11:11",
+      "https://news.ycombinator.com/item?id=31780312"
     ],
     [
-      "I created a powerful news shortening algorithm. I'm not sure how to utilize it",
-      "https://news.ycombinator.com/item?id=31779260"
+      "Nanokelvin-resolution thermometry at room temperature",
+      "https://www.nature.com/articles/s41566-022-01011-0"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 15:57:54",
+      "https://news.ycombinator.com/item?id=31780128"
+    ],
+    [
+      "CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot",
+      "https://github.com/sarsko/CreuSAT"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Leaked Amazon memo warns the company is running out of people to hire",
       "https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 14:33:17",
+      "https://news.ycombinator.com/item?id=31778797"
+    ],
+    [
+      "FDA Denies Petition to Ban All Phthalates in Food Packaging",
+      "https://www.consumerreports.org/food-safety/fda-denies-petition-to-ban-all-phthalates-in-food-packaging-a8313932149/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Admiral Grace Hopper Explains the Nanosecond (1983) [video]",
       "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 09:32:12",
-      "https://news.ycombinator.com/item?id=31775941"
-    ],
-    [
-      "Over 13k Vivo phones found to be using same IMEI number (2020)",
-      "https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-06-16, 06:00:58",
-      "https://news.ycombinator.com/item?id=31762862"
-    ],
-    [
-      "Remembrance of Moofs Past",
-      "https://leancrew.com/all-this/2022/06/remembrance-of-moofs-past/"
-    ]
-  ],
-  [
-    [
-      "2022-06-15, 14:55:54",
-      "https://news.ycombinator.com/item?id=31753886"
-    ],
-    [
-      "The Dazzle Camo Edition",
-      "https://whyisthisinteresting.substack.com/p/the-dazzle-camo-edition"
-    ]
-  ],
-  [
-    [
       "2022-06-15, 14:24:44",
       "https://news.ycombinator.com/item?id=31753360"
     ],
@@ -277,6 +267,16 @@
     [
       "16-bit RISC-V processor made with carbon nanotubes (2019)",
       "https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 20:53:57",
+      "https://news.ycombinator.com/item?id=31745934"
+    ],
+    [
+      "Making the collective knowledge of chemistry open and machine actionable",
+      "https://www.nature.com/articles/s41557-022-00910-7"
     ]
   ],
   [
