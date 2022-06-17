@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
 * [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
+* [2022-06-17, 08:21:18](https://news.ycombinator.com/item?id=31775486) - [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
 * [2022-06-17, 08:09:08](https://news.ycombinator.com/item?id=31775411) - [Ask HN: In these uncertain times, how do you handle anxiousness](https://news.ycombinator.com/item?id=31775411)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:51:40](https://news.ycombinator.com/item?id=31774890) - [SpaceX Said to Fire Employees Involved in Letter Rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
