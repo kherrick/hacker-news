@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 16:11:11](https://news.ycombinator.com/item?id=31780312) - [Nanokelvin-resolution thermometry at room temperature](https://www.nature.com/articles/s41566-022-01011-0)
+* [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 * [2022-06-17, 15:04:42](https://news.ycombinator.com/item?id=31779260) - [I created a powerful news shortening algorithm. I'm not sure how to utilize it](https://news.ycombinator.com/item?id=31779260)
 * [2022-06-17, 14:54:32](https://news.ycombinator.com/item?id=31779105) - [SpaceX fires employees behind letter slamming Musk, tells staff: “Stay focused”](https://arstechnica.com/tech-policy/2022/06/spacex-fired-employees-who-wrote-letter-slamming-musks-embarrassing-behavior/)
 * [2022-06-17, 14:40:58](https://news.ycombinator.com/item?id=31778909) - [Leaked Amazon memo warns the company is running out of people to hire](https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage)
