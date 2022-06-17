@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
+* [2022-06-17, 08:09:08](https://news.ycombinator.com/item?id=31775411) - [Ask HN: In these uncertain times, how do you handle anxiousness](https://news.ycombinator.com/item?id=31775411)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
 * [2022-06-17, 04:11:08](https://news.ycombinator.com/item?id=31774041) - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
@@ -9,7 +11,6 @@
 * [2022-06-17, 01:50:56](https://news.ycombinator.com/item?id=31773233) - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 * [2022-06-17, 01:27:42](https://news.ycombinator.com/item?id=31773056) - [pass – the standard Unix password manager](https://www.passwordstore.org/#)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
-* [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 * [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
 * [2022-06-16, 20:07:43](https://news.ycombinator.com/item?id=31770348) - [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 * [2022-06-16, 19:03:15](https://news.ycombinator.com/item?id=31769683) - [macOS screenshot tricks to impress your co-workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
@@ -21,15 +22,14 @@
 * [2022-06-16, 16:23:55](https://news.ycombinator.com/item?id=31767890) - [The silent majority of experts (2012)](https://prog21.dadgum.com/143.html)
 * [2022-06-16, 16:21:49](https://news.ycombinator.com/item?id=31767858) - [No, QuestDB is not Faster than ClickHouse](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15)
 * [2022-06-16, 16:19:30](https://news.ycombinator.com/item?id=31767830) - [Show HN: Recut automatically removes silence from videos – built with Tauri](https://getrecut.com/)
-* [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 * [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [I'm making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 05:17:43](https://news.ycombinator.com/item?id=31762648) - [Letters: When Documents Contain a Surprise](https://blogs.bl.uk/untoldlives/2022/05/hidden-letters-when-documents-contain-a-surprise.html)
-* [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 17:35:16](https://news.ycombinator.com/item?id=31756385) - [The Dreams of Animals](https://aeon.co/essays/what-do-the-dreams-of-nonhuman-animals-say-about-their-lives)
+* [2022-06-15, 14:41:41](https://news.ycombinator.com/item?id=31753608) - [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/)
 * [2022-06-15, 13:08:25](https://news.ycombinator.com/item?id=31752334) - [Porting OpenBSD to RISC-V ISA [pdf] (2020)](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2022-06-15, 02:49:03](https://news.ycombinator.com/item?id=31748594) - [Legendary bacterial evolution experiment enters new era](https://www.nature.com/articles/d41586-022-01620-3)
-* [2022-06-14, 17:19:37](https://news.ycombinator.com/item?id=31742729) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
+* [2022-06-14, 16:09:26](https://news.ycombinator.com/item?id=31741485) - [Mimic Systems Spartan: Apple II emulator for the C-64](https://dfarq.homeip.net/ode-to-the-spartan/)
 
 ## [Archives](archives/index.md)
 

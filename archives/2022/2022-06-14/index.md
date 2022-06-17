@@ -41,6 +41,7 @@
 * [2022-06-14, 16:18:37](https://news.ycombinator.com/item?id=31741628) - [The fact-checkers using OSINT to investigate Sri Lanka’s meltdown](https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/)
 * [2022-06-14, 16:16:06](https://news.ycombinator.com/item?id=31741589) - [Clarus Returns Home in macOS Ventura](https://shadowfacts.net/2022/clarus/)
 * [2022-06-14, 16:10:54](https://news.ycombinator.com/item?id=31741511) - [NLP: How did we get here? Where do large language models fit?](https://mantiumai.com/blog/nlp-how-did-we-get-here-where-do-llm-fit/)
+* [2022-06-14, 16:09:26](https://news.ycombinator.com/item?id=31741485) - [Mimic Systems Spartan: Apple II emulator for the C-64](https://dfarq.homeip.net/ode-to-the-spartan/)
 * [2022-06-14, 16:05:34](https://news.ycombinator.com/item?id=31741421) - [Apple and MLS to present all MLS matches for 10 years, beginning in 2023](https://www.apple.com/newsroom/2022/06/apple-and-mls-to-present-all-mls-matches-for-10-years-beginning-in-2023/)
 * [2022-06-14, 15:56:22](https://news.ycombinator.com/item?id=31741290) - [You Have Only So Much Time. Are You Using It Right?](https://www.wsj.com/articles/you-have-only-so-much-time-are-you-using-it-right-11655043558)
 * [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
