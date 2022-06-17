@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-17, 08:37:45",
+      "https://news.ycombinator.com/item?id=31775580"
+    ],
+    [
+      "Quantum Algorithm Implementations for Beginners",
+      "https://dl.acm.org/doi/10.1145/3517340"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 08:09:08",
+      "https://news.ycombinator.com/item?id=31775411"
+    ],
+    [
+      "Ask HN: In these uncertain times, how do you handle anxiousness",
+      "https://news.ycombinator.com/item?id=31775411"
+    ]
+  ],
+  [
+    [
       "2022-06-17, 07:39:40",
       "https://news.ycombinator.com/item?id=31775216"
     ],
@@ -87,16 +107,6 @@
     [
       "Why am I no longer qualified to be a Brex customer?",
       "https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 20:30:14",
-      "https://news.ycombinator.com/item?id=31770618"
-    ],
-    [
-      "CockroachDB's Consistency Model",
-      "https://www.cockroachlabs.com/blog/consistency-model/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-06-16, 16:01:14",
-      "https://news.ycombinator.com/item?id=31767575"
-    ],
-    [
-      "Safari on iOS can overlap multiple full-screen videos",
-      "https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 14:15:19",
       "https://news.ycombinator.com/item?id=31766285"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-06-15, 17:39:23",
-      "https://news.ycombinator.com/item?id=31756451"
-    ],
-    [
-      "The Beautiful Network of Ancient Roman Roads (2015)",
-      "https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads"
-    ]
-  ],
-  [
-    [
       "2022-06-15, 17:35:16",
       "https://news.ycombinator.com/item?id=31756385"
     ],
     [
       "The Dreams of Animals",
       "https://aeon.co/essays/what-do-the-dreams-of-nonhuman-animals-say-about-their-lives"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 14:41:41",
+      "https://news.ycombinator.com/item?id=31753608"
+    ],
+    [
+      "C#: IEnumerable, yield return, and lazy evaluation",
+      "https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-14, 17:19:37",
-      "https://news.ycombinator.com/item?id=31742729"
+      "2022-06-14, 16:09:26",
+      "https://news.ycombinator.com/item?id=31741485"
     ],
     [
-      "Chewed and Rolled: How Cats Make the Most of Their Catnip High",
-      "https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html"
+      "Mimic Systems Spartan: Apple II emulator for the C-64",
+      "https://dfarq.homeip.net/ode-to-the-spartan/"
     ]
   ]
 ]
