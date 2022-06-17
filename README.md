@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-17, 04:11:08](https://news.ycombinator.com/item?id=31774041) - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
+* [2022-06-17, 03:39:04](https://news.ycombinator.com/item?id=31773863) - [Shottr – macOS Screenshot Utility](https://shottr.cc)
 * [2022-06-17, 03:17:07](https://news.ycombinator.com/item?id=31773770) - [EPA: 'Forever chemicals' pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
 * [2022-06-17, 02:40:41](https://news.ycombinator.com/item?id=31773585) - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 * [2022-06-17, 01:50:56](https://news.ycombinator.com/item?id=31773233) - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 * [2022-06-16, 23:49:21](https://news.ycombinator.com/item?id=31772379) - [The Board of Directors Announces the Dissolution of the San Antonio Symphony](https://sasymphony.org/)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
-* [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 * [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
 * [2022-06-16, 20:07:43](https://news.ycombinator.com/item?id=31770348) - [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
 * [2022-06-16, 19:03:15](https://news.ycombinator.com/item?id=31769683) - [macOS screenshot tricks to impress your co-workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
