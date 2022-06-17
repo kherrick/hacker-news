@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 18:45:57](https://news.ycombinator.com/item?id=31782578) - [Kraken Culture Explained](https://kraken-culture.notion.site)
+* [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best Dev Tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
 * [2022-06-17, 17:01:01](https://news.ycombinator.com/item?id=31781101) - [Smarking (YC W15) Is Hiring ML Eng to scale dynamic pricing for $655B parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)

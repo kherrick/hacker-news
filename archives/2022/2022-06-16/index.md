@@ -50,6 +50,7 @@
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 11:17:53](https://news.ycombinator.com/item?id=31764696) - [Ask HN: Side projects that are making money, but you'd not talk about them?](https://news.ycombinator.com/item?id=31764696)
 * [2022-06-16, 11:15:42](https://news.ycombinator.com/item?id=31764685) - [World's most efficient passenger plane gets hydrogen powertrain](https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/)
+* [2022-06-16, 11:11:11](https://news.ycombinator.com/item?id=31764663) - [Do we need a better understanding of 'progress'?](https://www.bbc.com/future/article/20220615-do-we-need-a-better-understanding-of-progress)
 * [2022-06-16, 11:04:01](https://news.ycombinator.com/item?id=31764615) - [Astronomers in China Claim Possible Detection of Extraterrestrial Civilizations](https://www.livescience.com/china-says-it-may-have-received-signals-from-aliens)
 * [2022-06-16, 10:49:29](https://news.ycombinator.com/item?id=31764530) - [Opening a Boston Restaurant: 92 Steps, 22 Forms, 17 Office Visits, $5,554 Fees](https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
