@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
+* [2022-06-17, 20:44:11](https://news.ycombinator.com/item?id=31784097) - [The Privatized Internet Has Failed Us](https://slatereport.com/tech/the-privatized-internet-has-failed-us/)
 * [2022-06-17, 20:01:43](https://news.ycombinator.com/item?id=31783508) - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)
-* [2022-06-17, 19:42:42](https://news.ycombinator.com/item?id=31783285) - [Password policies of most top websites fail to follow best practices](https://passwordpolicies.cs.princeton.edu/)
 * [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [A hackable hobby programming language](https://slope.colorfield.space/)
 * [2022-06-17, 18:47:22](https://news.ycombinator.com/item?id=31782599) - [Erik Brynjolfsson on automation, productivity, work, and the future](https://rootsofprogress.org/erik-brynjolfsson-interview-automation-productivity-work-and-the-future)
@@ -22,12 +22,12 @@
 * [2022-06-17, 08:21:18](https://news.ycombinator.com/item?id=31775486) - [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:51:40](https://news.ycombinator.com/item?id=31774890) - [SpaceX said to fire employees involved in letter rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
-* [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
 * [2022-06-16, 16:55:51](https://news.ycombinator.com/item?id=31768322) - [Neuromorphic chip dramatically reduces power requirements for rolling robot](https://techxplore.com/news/2022-06-neuromorphic-chip-power-requirements-robot.html)
 * [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
 * [2022-06-16, 11:15:42](https://news.ycombinator.com/item?id=31764685) - [The Celera 500L passenger plane gets hydrogen powertrain](https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/)
 * [2022-06-16, 11:11:11](https://news.ycombinator.com/item?id=31764663) - [Do we need a better understanding of 'progress'?](https://www.bbc.com/future/article/20220615-do-we-need-a-better-understanding-of-progress)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
+* [2022-06-15, 07:29:17](https://news.ycombinator.com/item?id=31750091) - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
 * [2022-06-14, 20:53:57](https://news.ycombinator.com/item?id=31745934) - [Making the collective knowledge of chemistry open and machine actionable](https://www.nature.com/articles/s41557-022-00910-7)
 * [2022-06-14, 15:26:23](https://news.ycombinator.com/item?id=31740868) - [Nintendo wasn't the first to introduce region locking, after all](https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all)
 
