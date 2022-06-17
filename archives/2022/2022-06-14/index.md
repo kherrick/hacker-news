@@ -58,6 +58,7 @@
 * [2022-06-14, 15:28:35](https://news.ycombinator.com/item?id=31740909) - [Astronomers may have detected a ‘dark’ free-floating black hole](https://news.berkeley.edu/2022/06/10/astronomers-may-have-detected-a-dark-free-floating-black-hole/)
 * [2022-06-14, 15:28:25](https://news.ycombinator.com/item?id=31740902) - [Grafana releases OnCall open source project](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [2022-06-14, 15:27:15](https://news.ycombinator.com/item?id=31740885) - [Are V8 isolates the future of computing?](https://news.ycombinator.com/item?id=31740885)
+* [2022-06-14, 15:26:23](https://news.ycombinator.com/item?id=31740868) - [Nintendo Wasn't the First to Introduce Region Locking, After All](https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all)
 * [2022-06-14, 15:24:39](https://news.ycombinator.com/item?id=31740839) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:19:44](https://news.ycombinator.com/item?id=31740768) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla – Part 1](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2022-06-14, 15:17:58](https://news.ycombinator.com/item?id=31740749) - [GitHub Enterprise SSO is broken, and they don't care](https://notes.acuteaura.net/posts/github-enterprise-security/)
