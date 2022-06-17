@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 12:24:34](https://news.ycombinator.com/item?id=31777063) - [Adding a Rust compiler front end to GCC [video]](https://www.youtube.com/watch?v=R8Pr21nlhig)
+* [2022-06-17, 12:24:30](https://news.ycombinator.com/item?id=31777062) - [Probiotics can support the effect of antidepressants](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html)
+* [2022-06-17, 12:03:18](https://news.ycombinator.com/item?id=31776895) - [The bait-and-switch hidden in today’s cookie announcement](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
+* [2022-06-17, 12:02:22](https://news.ycombinator.com/item?id=31776887) - [Fed plans to ‘reset’ the housing market–raising likelihood of falling homeprices](https://finance.yahoo.com/news/fed-plans-reset-housing-market-215259418.html)
+* [2022-06-17, 12:00:43](https://news.ycombinator.com/item?id=31776873) - [Bundling binary tools in Python wheels](https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/)
+* [2022-06-17, 11:52:25](https://news.ycombinator.com/item?id=31776811) - [Grace Hopper on nanoseconds vs. microseconds [video]](https://www.youtube.com/watch?v=9eyFDBPk4Yw)
+* [2022-06-17, 11:43:56](https://news.ycombinator.com/item?id=31776740) - [Minimum Viable Architecture in Practice: Creating a Home Insurance Chatbot](https://www.infoq.com/articles/minimum-viable-architecture-sample/)
 * [2022-06-17, 11:02:11](https://news.ycombinator.com/item?id=31776466) - [Website cookie pop-ups to appear less in new UK Government proposals](https://www.thetelegraphandargus.co.uk/news/uk_today_homepage/20217417.website-cookie-pop-ups-appear-less-new-government-proposals/)
+* [2022-06-17, 10:50:24](https://news.ycombinator.com/item?id=31776372) - [Crypto lending company Babel Finance halts redemptions and withdrawals](https://babel.finance/article-views.html?id=50)
 * [2022-06-17, 09:32:12](https://news.ycombinator.com/item?id=31775941) - [Over 13,000 Vivo phones found to be using same IMEI number (2020)](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
 * [2022-06-17, 09:07:03](https://news.ycombinator.com/item?id=31775772) - [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
 * [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
