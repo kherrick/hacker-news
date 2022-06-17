@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-16](index.md)
 
+* [2022-06-16, 23:49:21](https://news.ycombinator.com/item?id=31772379) - [The Board of Directors Announces the Dissolution of the San Antonio Symphony](https://sasymphony.org/)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Brex: No Longer a Qualified Customer](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 * [2022-06-16, 21:45:17](https://news.ycombinator.com/item?id=31771367) - [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
 * [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
