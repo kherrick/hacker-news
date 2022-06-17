@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-17, 14:13:51](https://news.ycombinator.com/item?id=31778490) - [Gnome has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
 * [2022-06-17, 13:15:28](https://news.ycombinator.com/item?id=31777650) - [Tell HN: I haven't answered a call from Google Ads, this is what happened](https://news.ycombinator.com/item?id=31777650)
 * [2022-06-17, 13:12:36](https://news.ycombinator.com/item?id=31777613) - [SpaceX Fires Employees Involved in Letter Critical of Musk](https://www.wsj.com/articles/spacex-fires-employees-involved-in-letter-critical-of-musk-company-11655471021)
 * [2022-06-17, 12:59:38](https://news.ycombinator.com/item?id=31777441) - [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
@@ -19,7 +20,6 @@
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
 * [2022-06-17, 04:11:08](https://news.ycombinator.com/item?id=31774041) - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
-* [2022-06-17, 02:40:41](https://news.ycombinator.com/item?id=31773585) - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 * [2022-06-17, 01:50:56](https://news.ycombinator.com/item?id=31773233) - [Review of Internet for the People: The Fight for Our Digital Future](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
