@@ -68,6 +68,7 @@
 * [2022-06-16, 07:30:49](https://news.ycombinator.com/item?id=31763403) - [Read Easy – Dyslexia, ADHD, and SSS Helper](https://chrome.google.com/webstore/detail/read-easy-dyslexia-adhd-a/oihhpemnlfdlkdhbiajjjkbbojdojchj)
 * [2022-06-16, 07:00:06](https://news.ycombinator.com/item?id=31763225) - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
 * [2022-06-16, 06:07:39](https://news.ycombinator.com/item?id=31762904) - [Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam](https://news.ycombinator.com/item?id=31762904)
+* [2022-06-16, 06:00:58](https://news.ycombinator.com/item?id=31762862) - [Remembrance of Moofs Past](https://leancrew.com/all-this/2022/06/remembrance-of-moofs-past/)
 * [2022-06-16, 05:44:23](https://news.ycombinator.com/item?id=31762778) - [Is .NET open? MS pushing a proprietary extension to replace OmniSharp](https://isdotnetopen.com/)
 * [2022-06-16, 05:21:17](https://news.ycombinator.com/item?id=31762670) - [The (Other) French Chef](https://hazlitt.net/longreads/other-french-chef)
 * [2022-06-16, 05:17:43](https://news.ycombinator.com/item?id=31762648) - [Letters: When Documents Contain a Surprise](https://blogs.bl.uk/untoldlives/2022/05/hidden-letters-when-documents-contain-a-surprise.html)
