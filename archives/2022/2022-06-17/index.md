@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
+* [2022-06-17, 17:01:01](https://news.ycombinator.com/item?id=31781101) - [Smarking (YC W15) Is Hiring ML Eng to scale dynamic pricing for $655B parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+* [2022-06-17, 16:51:59](https://news.ycombinator.com/item?id=31780972) - [Kickstarter Union voted 97.6% to ratify one of the first tech union contracts](https://twitter.com/ksr_united/status/1537828455403900928)
 * [2022-06-17, 16:13:25](https://news.ycombinator.com/item?id=31780355) - [Ask HN: What news subscription is worth it?](https://news.ycombinator.com/item?id=31780355)
 * [2022-06-17, 16:11:11](https://news.ycombinator.com/item?id=31780312) - [Nanokelvin-resolution thermometry at room temperature](https://www.nature.com/articles/s41566-022-01011-0)
 * [2022-06-17, 16:01:53](https://news.ycombinator.com/item?id=31780190) - [Writing like a pro with Vale and Neovim](https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/)
