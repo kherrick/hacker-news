@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-17, 18:45:57](https://news.ycombinator.com/item?id=31782578) - [Kraken Culture Explained](https://kraken-culture.notion.site)
+* [2022-06-17, 18:58:14](https://news.ycombinator.com/item?id=31782727) - [US prison slaves produce $11B worth of goods and services](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/)
 * [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best Dev Tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
