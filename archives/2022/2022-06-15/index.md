@@ -41,6 +41,7 @@
 * [2022-06-15, 14:41:41](https://news.ycombinator.com/item?id=31753608) - [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/)
 * [2022-06-15, 14:38:52](https://news.ycombinator.com/item?id=31753566) - [Nuclear Is Back on the Table for a Green Future](https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html)
 * [2022-06-15, 14:33:31](https://news.ycombinator.com/item?id=31753475) - [Internet Explorer 11 has retired and is officially out of support](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/)
+* [2022-06-15, 14:24:44](https://news.ycombinator.com/item?id=31753360) - [Jinx: Embeddable scripting language for real-time applications](https://github.com/JamesBoer/Jinx)
 * [2022-06-15, 14:23:52](https://news.ycombinator.com/item?id=31753345) - [Select ’Hello, World’: Serverless Postgres Built for the Cloud](https://neon.tech/blog/hello-world/)
 * [2022-06-15, 14:13:39](https://news.ycombinator.com/item?id=31753200) - [What Is an Oscillator in Music? [video]](https://www.youtube.com/watch?v=Jr4y_9FIZ2E)
 * [2022-06-15, 14:10:25](https://news.ycombinator.com/item?id=31753149) - [Nanoparticle sensor can distinguish between viral and bacterial pneumonia](https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613)

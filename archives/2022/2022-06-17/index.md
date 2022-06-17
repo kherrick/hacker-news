@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 11:02:11](https://news.ycombinator.com/item?id=31776466) - [Website cookie pop-ups to appear less in new UK Government proposals](https://www.thetelegraphandargus.co.uk/news/uk_today_homepage/20217417.website-cookie-pop-ups-appear-less-new-government-proposals/)
 * [2022-06-17, 09:32:12](https://news.ycombinator.com/item?id=31775941) - [Over 13,000 Vivo phones found to be using same IMEI number (2020)](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
 * [2022-06-17, 09:07:03](https://news.ycombinator.com/item?id=31775772) - [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
 * [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
