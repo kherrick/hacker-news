@@ -62,6 +62,7 @@
 * [2022-06-16, 08:29:06](https://news.ycombinator.com/item?id=31763690) - [United States vs. One Book Called “Ulysses”](https://law.justia.com/cases/federal/district-courts/FSupp/5/182/2250768/)
 * [2022-06-16, 08:06:20](https://news.ycombinator.com/item?id=31763586) - [Brave breaks language reporting in browser for more anonymity](https://brave.com/privacy-updates/17-language-fingerprinting/)
 * [2022-06-16, 07:53:38](https://news.ycombinator.com/item?id=31763514) - [Geekbench 5 Metal GPU scores have leaked for Apple's M2 Chip](https://twitter.com/vadimyuryev/status/1537134411962937344)
+* [2022-06-16, 07:44:32](https://news.ycombinator.com/item?id=31763465) - [Adding secondary command buffers to PanVk](https://www.collabora.com/news-and-blog/blog/2022/06/15/adding-secondary-command-buffers-to-panvk-driver/)
 * [2022-06-16, 07:40:52](https://news.ycombinator.com/item?id=31763451) - [Ask HN: Is it still conceivable to remain an anonymous developer nowadays?](https://news.ycombinator.com/item?id=31763451)
 * [2022-06-16, 07:30:49](https://news.ycombinator.com/item?id=31763403) - [Read Easy – Dyslexia, ADHD, and SSS Helper](https://chrome.google.com/webstore/detail/read-easy-dyslexia-adhd-a/oihhpemnlfdlkdhbiajjjkbbojdojchj)
 * [2022-06-16, 07:00:06](https://news.ycombinator.com/item?id=31763225) - [Padlet (YC W13) is hiring in SF to build software for a good education](https://padlet.jobs)
