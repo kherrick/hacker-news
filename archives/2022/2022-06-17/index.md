@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-17, 20:01:43](https://news.ycombinator.com/item?id=31783508) - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)
+* [2022-06-17, 19:42:42](https://news.ycombinator.com/item?id=31783285) - [Password policies of most top websites fail to follow best practices](https://passwordpolicies.cs.princeton.edu/)
 * [2022-06-17, 19:38:17](https://news.ycombinator.com/item?id=31783224) - [Ask HN: Do You Use Enum for Yes, No, Unset?](https://news.ycombinator.com/item?id=31783224)
 * [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [A hackable hobby programming language](https://slope.colorfield.space/)
