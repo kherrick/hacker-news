@@ -32,6 +32,7 @@
 * [2022-06-14, 17:22:10](https://news.ycombinator.com/item?id=31742773) - [Gaia sees strange stars in most detailed Milky Way survey to date](https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date)
 * [2022-06-14, 17:21:21](https://news.ycombinator.com/item?id=31742755) - [Endocrine-Disrupting Chemical Exposure in Womb Impact Fear, Anxiety Behavior](https://neurosciencenews.com/chemical-fetal-brain-20810/)
 * [2022-06-14, 17:20:49](https://news.ycombinator.com/item?id=31742748) - [Chemist pursues answers to why promising solar cell material quickly degrades](https://techxplore.com/news/2022-06-chemist-pursues-solar-cell-material.html)
+* [2022-06-14, 17:19:37](https://news.ycombinator.com/item?id=31742729) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
 * [2022-06-14, 17:15:25](https://news.ycombinator.com/item?id=31742648) - [The Helios microkernel](https://drewdevault.com/2022/06/13/helios.html)
 * [2022-06-14, 17:12:37](https://news.ycombinator.com/item?id=31742590) - [Coinbase Lays Off Around 1,100 Employees](https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/)
 * [2022-06-14, 17:01:56](https://news.ycombinator.com/item?id=31742412) - [Keeping IC Packages Cool](https://semiengineering.com/keeping-ic-packages-cool/)
