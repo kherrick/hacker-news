@@ -7,6 +7,7 @@
 * [2022-06-17, 21:28:55](https://news.ycombinator.com/item?id=31784602) - [Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting](https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841)
 * [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-17, 20:44:11](https://news.ycombinator.com/item?id=31784097) - [The Privatized Internet Has Failed Us](https://slatereport.com/tech/the-privatized-internet-has-failed-us/)
+* [2022-06-17, 20:12:38](https://news.ycombinator.com/item?id=31783645) - [How to make sense of ancient Greek colours (2020)](http://kiwihellenist.blogspot.com/2020/05/ancient-greek-colours.html)
 * [2022-06-17, 20:01:43](https://news.ycombinator.com/item?id=31783508) - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)
 * [2022-06-17, 19:42:42](https://news.ycombinator.com/item?id=31783285) - [Password policies of most top websites fail to follow best practices](https://passwordpolicies.cs.princeton.edu/)
 * [2022-06-17, 19:38:17](https://news.ycombinator.com/item?id=31783224) - [Ask HN: Do You Use Enum for Yes, No, Unset?](https://news.ycombinator.com/item?id=31783224)

@@ -7,6 +7,7 @@
 * [2022-06-16, 23:49:21](https://news.ycombinator.com/item?id=31772379) - [The Board of Directors Announces the Dissolution of the San Antonio Symphony](https://sasymphony.org/)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Brex: No Longer a Qualified Customer](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 * [2022-06-16, 21:45:17](https://news.ycombinator.com/item?id=31771367) - [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
+* [2022-06-16, 21:11:54](https://news.ycombinator.com/item?id=31771027) - [That Ol’ Thumb](https://www.lrb.co.uk/the-paper/v44/n12/mike-jay/that-ol-thumb)
 * [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 * [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
 * [2022-06-16, 20:07:43](https://news.ycombinator.com/item?id=31770348) - [Citus: Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
