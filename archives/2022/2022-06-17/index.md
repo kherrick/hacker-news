@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 09:32:12](https://news.ycombinator.com/item?id=31775941) - [Over 13,000 Vivo phones found to be using same IMEI number (2020)](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
+* [2022-06-17, 09:07:03](https://news.ycombinator.com/item?id=31775772) - [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
 * [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
 * [2022-06-17, 08:21:18](https://news.ycombinator.com/item?id=31775486) - [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
 * [2022-06-17, 08:09:08](https://news.ycombinator.com/item?id=31775411) - [Ask HN: In these uncertain times, how do you handle anxiousness](https://news.ycombinator.com/item?id=31775411)
