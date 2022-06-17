@@ -45,6 +45,7 @@
 * [2022-06-14, 15:54:32](https://news.ycombinator.com/item?id=31741262) - [Writing Is Hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
 * [2022-06-14, 15:51:35](https://news.ycombinator.com/item?id=31741219) - [Jail time for online insults, bullying. Japan passes new law.](https://mainichi.jp/english/articles/20220613/p2a/00m/0na/011000c)
 * [2022-06-14, 15:48:37](https://news.ycombinator.com/item?id=31741185) - [The Giraffe Neck Evolved for Sexual Combat](https://nautil.us/the-giraffe-neck-evolved-for-sexual-combat-19665/)
+* [2022-06-14, 15:43:12](https://news.ycombinator.com/item?id=31741127) - [Computing Accurate Percentiles with DDSketch (2019)](https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/)
 * [2022-06-14, 15:42:23](https://news.ycombinator.com/item?id=31741119) - [Building a web application with Rust and WebAssembly](https://kerkour.com/web-application-with-rust-and-webassembly)
 * [2022-06-14, 15:39:55](https://news.ycombinator.com/item?id=31741091) - [ADHD Medication increases risk of Depression in Kids (Study) (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9048009/)
 * [2022-06-14, 15:39:17](https://news.ycombinator.com/item?id=31741082) - [Phases of Database Growth and Cost](https://www.crunchydata.com/blog/phases-of-database-growth-and-cost)

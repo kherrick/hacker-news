@@ -20,6 +20,7 @@
 * [2022-06-15, 18:04:55](https://news.ycombinator.com/item?id=31756837) - [Federal Reserve Raises Raises by 0.75%](https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/)
 * [2022-06-15, 17:56:03](https://news.ycombinator.com/item?id=31756704) - [Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.](https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/)
 * [2022-06-15, 17:53:30](https://news.ycombinator.com/item?id=31756656) - [Undersea Cables Off Hawaii Targeted by Malicious Actors](https://twitter.com/willmanidis/status/1537071965608943616)
+* [2022-06-15, 17:52:26](https://news.ycombinator.com/item?id=31756643) - [Eudora Welty Captured 1930s New York City on Film](https://lithub.com/how-eudora-welty-captured-1930s-new-york-city-on-film/)
 * [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 * [2022-06-15, 17:47:46](https://news.ycombinator.com/item?id=31756569) - [Show HN: Soliciting post placement on Hacker News](https://news.ycombinator.com/item?id=31756569)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
