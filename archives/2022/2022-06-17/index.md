@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 15:04:42](https://news.ycombinator.com/item?id=31779260) - [I created a powerful news shortening algorithm. I'm not sure how to utilize it](https://news.ycombinator.com/item?id=31779260)
+* [2022-06-17, 14:54:32](https://news.ycombinator.com/item?id=31779105) - [SpaceX fires employees behind letter slamming Musk, tells staff: “Stay focused”](https://arstechnica.com/tech-policy/2022/06/spacex-fired-employees-who-wrote-letter-slamming-musks-embarrassing-behavior/)
+* [2022-06-17, 14:40:58](https://news.ycombinator.com/item?id=31778909) - [Leaked Amazon memo warns the company is running out of people to hire](https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage)
 * [2022-06-17, 14:33:17](https://news.ycombinator.com/item?id=31778797) - [FDA Denies Petition to Ban All Phthalates in Food Packaging](https://www.consumerreports.org/food-safety/fda-denies-petition-to-ban-all-phthalates-in-food-packaging-a8313932149/)
 * [2022-06-17, 14:13:51](https://news.ycombinator.com/item?id=31778490) - [Gnome has no thumbnails in the file picker (and my toilets are blocked)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
 * [2022-06-17, 14:07:39](https://news.ycombinator.com/item?id=31778390) - [Sue Big Oil](https://suebigoil.ca/#newmode-embed-4723-49074)
