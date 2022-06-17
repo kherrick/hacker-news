@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-17, 01:50:56",
+      "https://news.ycombinator.com/item?id=31773233"
+    ],
+    [
+      "The Privatized Internet Has Failed Us",
+      "https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 23:22:36",
       "https://news.ycombinator.com/item?id=31772211"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31769604"
     ],
     [
-      "Cool Desktops Don’t Change",
+      "Cool desktops don’t change",
       "https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31769059"
     ],
     [
-      "The Animated Elliptic Curve",
+      "The animated elliptic curve",
       "https://curves.ulfheim.net/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31768936"
     ],
     [
-      "Wasmer – The Universal WebAssembly Runtime",
+      "Wasmer – Universal WebAssembly Runtime",
       "https://wasmer.io/"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31768705"
     ],
     [
-      "CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack",
+      "Exploiting a heap overflow in the FreeBSD wi-fi stack",
       "https://www.thezdi.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack"
     ]
   ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2022-06-16, 12:57:58",
-      "https://news.ycombinator.com/item?id=31765530"
-    ],
-    [
-      "NextDNS API",
-      "https://nextdns.github.io/api/"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 10:47:15",
       "https://news.ycombinator.com/item?id=31764521"
     ],
     [
       "Redbean 2.0 turned into more than a hobby project",
       "https://justine.lol/redbean2/"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 07:44:32",
+      "https://news.ycombinator.com/item?id=31763465"
+    ],
+    [
+      "Adding secondary command buffers to PanVk",
+      "https://www.collabora.com/news-and-blog/blog/2022/06/15/adding-secondary-command-buffers-to-panvk-driver/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "The Beautiful Network of Ancient Roman Roads (2015)",
       "https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads"
-    ]
-  ],
-  [
-    [
-      "2022-06-15, 14:10:25",
-      "https://news.ycombinator.com/item?id=31753149"
-    ],
-    [
-      "Nanoparticle sensor can distinguish between viral and bacterial pneumonia",
-      "https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613"
     ]
   ],
   [
