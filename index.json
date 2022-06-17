@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=31772211"
     ],
     [
-      "Brex: No Longer a Qualified Customer",
+      "Why am I no longer qualified to be a Brex customer?",
       "https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 21:45:17",
-      "https://news.ycombinator.com/item?id=31771367"
-    ],
-    [
-      "Tesla sends untrained employees to work on cars as service becomes problematic",
-      "https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31770348"
     ],
     [
-      "Citus: Make enterprise features open source",
+      "Make enterprise features open source",
       "https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816"
     ]
   ],
@@ -77,16 +67,6 @@
     [
       "GitHub waited 3 months to notify about potential compromise",
       "https://news.ycombinator.com/item?id=31769520"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 18:44:25",
-      "https://news.ycombinator.com/item?id=31769484"
-    ],
-    [
-      "The Cult Inside Google",
-      "https://medium.com/@kwilliamlloyd/the-cult-in-google-3c1a910214d1"
     ]
   ],
   [
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31767830"
     ],
     [
-      "Show HN: Recut automatically removes silence from videos. It's built with Tauri",
+      "Show HN: Recut automatically removes silence from videos – built with Tauri",
       "https://getrecut.com/"
     ]
   ],
@@ -211,22 +191,22 @@
   ],
   [
     [
+      "2022-06-16, 13:21:11",
+      "https://news.ycombinator.com/item?id=31765730"
+    ],
+    [
+      "A religious sect landed Google in a lawsuit",
+      "https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html"
+    ]
+  ],
+  [
+    [
       "2022-06-16, 12:57:58",
       "https://news.ycombinator.com/item?id=31765530"
     ],
     [
       "NextDNS API",
       "https://nextdns.github.io/api/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 11:24:13",
-      "https://news.ycombinator.com/item?id=31764722"
-    ],
-    [
-      "How fast can a 6502 transfer memory?",
-      "https://imapenguin.com/how-fast-can-a-6502-transfer-memory/"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "The (Other) French Chef",
       "https://hazlitt.net/longreads/other-french-chef"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 17:52:26",
+      "https://news.ycombinator.com/item?id=31756643"
+    ],
+    [
+      "Eudora Welty Captured 1930s New York City on Film",
+      "https://lithub.com/how-eudora-welty-captured-1930s-new-york-city-on-film/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Legendary bacterial evolution experiment enters new era",
       "https://www.nature.com/articles/d41586-022-01620-3"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 15:43:12",
+      "https://news.ycombinator.com/item?id=31741127"
+    ],
+    [
+      "Computing Accurate Percentiles with DDSketch (2019)",
+      "https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/"
     ]
   ]
 ]
