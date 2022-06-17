@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 16:13:25](https://news.ycombinator.com/item?id=31780355) - [Ask HN: What news subscription is worth it?](https://news.ycombinator.com/item?id=31780355)
 * [2022-06-17, 16:11:11](https://news.ycombinator.com/item?id=31780312) - [Nanokelvin-resolution thermometry at room temperature](https://www.nature.com/articles/s41566-022-01011-0)
+* [2022-06-17, 16:01:53](https://news.ycombinator.com/item?id=31780190) - [Writing like a pro with Vale and Neovim](https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/)
 * [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 * [2022-06-17, 15:04:42](https://news.ycombinator.com/item?id=31779260) - [I created a powerful news shortening algorithm. I'm not sure how to utilize it](https://news.ycombinator.com/item?id=31779260)
 * [2022-06-17, 14:54:32](https://news.ycombinator.com/item?id=31779105) - [SpaceX fires employees behind letter slamming Musk, tells staff: “Stay focused”](https://arstechnica.com/tech-policy/2022/06/spacex-fired-employees-who-wrote-letter-slamming-musks-embarrassing-behavior/)
