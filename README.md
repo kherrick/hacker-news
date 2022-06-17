@@ -24,10 +24,10 @@
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 06:00:58](https://news.ycombinator.com/item?id=31762862) - [Remembrance of Moofs Past](https://leancrew.com/all-this/2022/06/remembrance-of-moofs-past/)
 * [2022-06-16, 05:17:43](https://news.ycombinator.com/item?id=31762648) - [Letters: When Documents Contain a Surprise](https://blogs.bl.uk/untoldlives/2022/05/hidden-letters-when-documents-contain-a-surprise.html)
-* [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 17:35:16](https://news.ycombinator.com/item?id=31756385) - [The Dreams of Animals](https://aeon.co/essays/what-do-the-dreams-of-nonhuman-animals-say-about-their-lives)
 * [2022-06-15, 14:41:41](https://news.ycombinator.com/item?id=31753608) - [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/)
 * [2022-06-15, 13:08:25](https://news.ycombinator.com/item?id=31752334) - [Porting OpenBSD to RISC-V ISA [pdf] (2020)](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
+* [2022-06-15, 07:29:17](https://news.ycombinator.com/item?id=31750091) - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
 * [2022-06-15, 02:49:03](https://news.ycombinator.com/item?id=31748594) - [Legendary bacterial evolution experiment enters new era](https://www.nature.com/articles/d41586-022-01620-3)
 * [2022-06-14, 16:09:26](https://news.ycombinator.com/item?id=31741485) - [Mimic Systems Spartan: Apple II emulator for the C-64](https://dfarq.homeip.net/ode-to-the-spartan/)
 
