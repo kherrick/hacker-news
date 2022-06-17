@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-06-17, 03:39:04",
-      "https://news.ycombinator.com/item?id=31773863"
-    ],
-    [
-      "Shottr – macOS Screenshot Utility",
-      "https://shottr.cc"
-    ]
-  ],
-  [
-    [
       "2022-06-17, 02:40:41",
       "https://news.ycombinator.com/item?id=31773585"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2022-06-16, 20:07:43",
-      "https://news.ycombinator.com/item?id=31770348"
-    ],
-    [
-      "Make enterprise features open source",
-      "https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 10:47:15",
       "https://news.ycombinator.com/item?id=31764521"
     ],
@@ -257,6 +237,16 @@
     [
       "Remembrance of Moofs Past",
       "https://leancrew.com/all-this/2022/06/remembrance-of-moofs-past/"
+    ]
+  ],
+  [
+    [
+      "2022-06-15, 14:24:44",
+      "https://news.ycombinator.com/item?id=31753360"
+    ],
+    [
+      "Jinx: Embeddable scripting language for real-time applications",
+      "https://github.com/JamesBoer/Jinx"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mimic Systems Spartan: Apple II emulator for the C-64",
       "https://dfarq.homeip.net/ode-to-the-spartan/"
+    ]
+  ],
+  [
+    [
+      "2022-06-14, 15:26:23",
+      "https://news.ycombinator.com/item?id=31740868"
+    ],
+    [
+      "Nintendo Wasn't the First to Introduce Region Locking, After All",
+      "https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all"
     ]
   ]
 ]
