@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Brex: No Longer a Qualified Customer](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 * [2022-06-16, 21:45:17](https://news.ycombinator.com/item?id=31771367) - [Tesla sends untrained employees to work on cars as service becomes problematic](https://electrek.co/2022/06/16/tesla-untrained-employees-work-on-cars-service-problematic/)
 * [2022-06-16, 20:30:14](https://news.ycombinator.com/item?id=31770618) - [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/)
 * [2022-06-16, 20:14:38](https://news.ycombinator.com/item?id=31770432) - [Calling for Antitrust Reform](https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/)
@@ -16,7 +17,6 @@
 * [2022-06-16, 16:23:55](https://news.ycombinator.com/item?id=31767890) - [The silent majority of experts (2012)](https://prog21.dadgum.com/143.html)
 * [2022-06-16, 16:21:49](https://news.ycombinator.com/item?id=31767858) - [No, QuestDB is not Faster than ClickHouse](https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15)
 * [2022-06-16, 16:19:30](https://news.ycombinator.com/item?id=31767830) - [Show HN: Recut automatically removes silence from videos. It's built with Tauri](https://getrecut.com/)
-* [2022-06-16, 16:19:24](https://news.ycombinator.com/item?id=31767827) - [ReadySet Core: next-generation SQL caching, freely available](https://readyset.io/blog/readyset-core)
 * [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 * [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [I'm making drugs for cats](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
@@ -24,12 +24,12 @@
 * [2022-06-16, 12:57:58](https://news.ycombinator.com/item?id=31765530) - [NextDNS API](https://nextdns.github.io/api/)
 * [2022-06-16, 11:24:13](https://news.ycombinator.com/item?id=31764722) - [How fast can a 6502 transfer memory?](https://imapenguin.com/how-fast-can-a-6502-transfer-memory/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
-* [2022-06-16, 08:56:27](https://news.ycombinator.com/item?id=31763844) - [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/)
 * [2022-06-16, 05:21:17](https://news.ycombinator.com/item?id=31762670) - [The (Other) French Chef](https://hazlitt.net/longreads/other-french-chef)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
+* [2022-06-15, 14:10:25](https://news.ycombinator.com/item?id=31753149) - [Nanoparticle sensor can distinguish between viral and bacterial pneumonia](https://news.mit.edu/2022/sensor-viral-bacterial-pneumonia-0613)
 * [2022-06-15, 13:08:25](https://news.ycombinator.com/item?id=31752334) - [Porting OpenBSD to RISC-V ISA [pdf]](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2022-06-15, 03:43:50](https://news.ycombinator.com/item?id=31748884) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
-* [2022-06-14, 17:21:21](https://news.ycombinator.com/item?id=31742755) - [Endocrine-disrupting chemical exposure in womb impact fear, anxiety behavior](https://neurosciencenews.com/chemical-fetal-brain-20810/)
+* [2022-06-15, 02:49:03](https://news.ycombinator.com/item?id=31748594) - [Legendary bacterial evolution experiment enters new era](https://www.nature.com/articles/d41586-022-01620-3)
 
 ## [Archives](archives/index.md)
 
