@@ -1,12 +1,82 @@
 [
   [
     [
-      "2022-06-17, 11:02:11",
-      "https://news.ycombinator.com/item?id=31776466"
+      "2022-06-17, 12:24:34",
+      "https://news.ycombinator.com/item?id=31777063"
     ],
     [
-      "Website cookie pop-ups to appear less in new UK Government proposals",
-      "https://www.thetelegraphandargus.co.uk/news/uk_today_homepage/20217417.website-cookie-pop-ups-appear-less-new-government-proposals/"
+      "Adding a Rust compiler front end to GCC [video]",
+      "https://www.youtube.com/watch?v=R8Pr21nlhig"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 12:24:30",
+      "https://news.ycombinator.com/item?id=31777062"
+    ],
+    [
+      "Probiotics can support the effect of antidepressants",
+      "https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 12:03:18",
+      "https://news.ycombinator.com/item?id=31776895"
+    ],
+    [
+      "The bait-and-switch hidden in today’s cookie announcement",
+      "https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 12:02:22",
+      "https://news.ycombinator.com/item?id=31776887"
+    ],
+    [
+      "Fed plans to ‘reset’ the housing market–raising likelihood of falling homeprices",
+      "https://finance.yahoo.com/news/fed-plans-reset-housing-market-215259418.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 12:00:43",
+      "https://news.ycombinator.com/item?id=31776873"
+    ],
+    [
+      "Bundling binary tools in Python wheels",
+      "https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 11:52:25",
+      "https://news.ycombinator.com/item?id=31776811"
+    ],
+    [
+      "Grace Hopper on nanoseconds vs. microseconds [video]",
+      "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 11:43:56",
+      "https://news.ycombinator.com/item?id=31776740"
+    ],
+    [
+      "Minimum Viable Architecture in Practice: Creating a Home Insurance Chatbot",
+      "https://www.infoq.com/articles/minimum-viable-architecture-sample/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 10:50:24",
+      "https://news.ycombinator.com/item?id=31776372"
+    ],
+    [
+      "Crypto lending company Babel Finance halts redemptions and withdrawals",
+      "https://babel.finance/article-views.html?id=50"
     ]
   ],
   [
@@ -47,16 +117,6 @@
     [
       "A Visual Guide to the Aztec Pantheon",
       "https://pudding.cool/2022/06/aztec-gods/"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 08:09:08",
-      "https://news.ycombinator.com/item?id=31775411"
-    ],
-    [
-      "Ask HN: In these uncertain times, how do you handle anxiousness",
-      "https://news.ycombinator.com/item?id=31775411"
     ]
   ],
   [
@@ -111,16 +171,6 @@
   ],
   [
     [
-      "2022-06-17, 03:17:07",
-      "https://news.ycombinator.com/item?id=31773770"
-    ],
-    [
-      "EPA: 'Forever chemicals' pose risk even at low levels",
-      "https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce"
-    ]
-  ],
-  [
-    [
       "2022-06-17, 02:40:41",
       "https://news.ycombinator.com/item?id=31773585"
     ],
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2022-06-16, 20:30:14",
-      "https://news.ycombinator.com/item?id=31770618"
-    ],
-    [
-      "CockroachDB's Consistency Model",
-      "https://www.cockroachlabs.com/blog/consistency-model/"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 20:07:43",
       "https://news.ycombinator.com/item?id=31770348"
     ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2022-06-16, 18:55:39",
-      "https://news.ycombinator.com/item?id=31769604"
-    ],
-    [
-      "Cool desktops don’t change",
-      "https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/"
-    ]
-  ],
-  [
-    [
       "2022-06-16, 18:24:43",
       "https://news.ycombinator.com/item?id=31769294"
     ],
     [
       "The computers are fast, but you don't know it",
       "http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 18:00:25",
-      "https://news.ycombinator.com/item?id=31769059"
-    ],
-    [
-      "The animated elliptic curve",
-      "https://curves.ulfheim.net/"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "The Dreams of Animals",
       "https://aeon.co/essays/what-do-the-dreams-of-nonhuman-animals-say-about-their-lives"
-    ]
-  ],
-  [
-    [
-      "2022-06-15, 14:41:41",
-      "https://news.ycombinator.com/item?id=31753608"
-    ],
-    [
-      "C#: IEnumerable, yield return, and lazy evaluation",
-      "https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/"
-    ]
-  ],
-  [
-    [
-      "2022-06-15, 14:24:44",
-      "https://news.ycombinator.com/item?id=31753360"
-    ],
-    [
-      "Jinx: Embeddable scripting language for real-time applications",
-      "https://github.com/JamesBoer/Jinx"
     ]
   ],
   [
