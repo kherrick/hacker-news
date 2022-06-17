@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-17, 03:17:07](https://news.ycombinator.com/item?id=31773770) - [EPA: 'Forever chemicals' pose risk even at low levels](https://apnews.com/article/science-climate-and-environment-government-politics-1997041096d6fc84edde97cf16f72bce)
 * [2022-06-17, 02:40:41](https://news.ycombinator.com/item?id=31773585) - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 * [2022-06-17, 01:50:56](https://news.ycombinator.com/item?id=31773233) - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
@@ -25,7 +26,6 @@
 * [2022-06-16, 07:44:32](https://news.ycombinator.com/item?id=31763465) - [Adding secondary command buffers to PanVk](https://www.collabora.com/news-and-blog/blog/2022/06/15/adding-secondary-command-buffers-to-panvk-driver/)
 * [2022-06-16, 05:21:17](https://news.ycombinator.com/item?id=31762670) - [The (Other) French Chef](https://hazlitt.net/longreads/other-french-chef)
 * [2022-06-16, 05:17:43](https://news.ycombinator.com/item?id=31762648) - [Letters: When Documents Contain a Surprise](https://blogs.bl.uk/untoldlives/2022/05/hidden-letters-when-documents-contain-a-surprise.html)
-* [2022-06-15, 17:52:26](https://news.ycombinator.com/item?id=31756643) - [Eudora Welty Captured 1930s New York City on Film](https://lithub.com/how-eudora-welty-captured-1930s-new-york-city-on-film/)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
 * [2022-06-15, 13:08:25](https://news.ycombinator.com/item?id=31752334) - [Porting OpenBSD to RISC-V ISA [pdf]](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2022-06-15, 03:43:50](https://news.ycombinator.com/item?id=31748884) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
