@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 20:01:43](https://news.ycombinator.com/item?id=31783508) - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)
+* [2022-06-17, 19:38:17](https://news.ycombinator.com/item?id=31783224) - [Ask HN: Do You Use Enum for Yes, No, Unset?](https://news.ycombinator.com/item?id=31783224)
+* [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 18:58:14](https://news.ycombinator.com/item?id=31782727) - [US prison slaves produce $11B worth of goods and services](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/)
 * [2022-06-17, 18:45:57](https://news.ycombinator.com/item?id=31782578) - [Kraken Culture Explained](https://kraken-culture.notion.site)
 * [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best Dev Tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
