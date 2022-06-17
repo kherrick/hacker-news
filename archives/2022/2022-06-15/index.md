@@ -24,6 +24,7 @@
 * [2022-06-15, 17:48:51](https://news.ycombinator.com/item?id=31756589) - [GPU ray tracing tutorial – 10 articles](https://jacco.ompf2.com/2022/06/15/how-to-build-a-bvh-part-9b-massive/)
 * [2022-06-15, 17:47:46](https://news.ycombinator.com/item?id=31756569) - [Show HN: Soliciting post placement on Hacker News](https://news.ycombinator.com/item?id=31756569)
 * [2022-06-15, 17:39:23](https://news.ycombinator.com/item?id=31756451) - [The Beautiful Network of Ancient Roman Roads (2015)](https://www.atlasobscura.com/articles/the-beautiful-network-of-ancient-roman-roads)
+* [2022-06-15, 17:35:16](https://news.ycombinator.com/item?id=31756385) - [The Dreams of Animals](https://aeon.co/essays/what-do-the-dreams-of-nonhuman-animals-say-about-their-lives)
 * [2022-06-15, 17:21:40](https://news.ycombinator.com/item?id=31756201) - [A single prophylactic 200mg dose of Doxycyline prevents Lyme disease](https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html)
 * [2022-06-15, 17:07:36](https://news.ycombinator.com/item?id=31755999) - [Senator Warren proposes sweeping ban on location and health data sales](https://www.theverge.com/2022/6/15/23169718/roe-wade-elizabeth-warren-location-data-tracking-ban-sale-brokers)
 * [2022-06-15, 17:00:39](https://news.ycombinator.com/item?id=31755897) - [Journey is hiring thoughtful engineers](https://jny.journey.io/p/hacker-news-job-eng)
