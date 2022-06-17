@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 12:59:38](https://news.ycombinator.com/item?id=31777441) - [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
+* [2022-06-17, 12:50:09](https://news.ycombinator.com/item?id=31777328) - [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts?](https://news.ycombinator.com/item?id=31777328)
+* [2022-06-17, 12:49:43](https://news.ycombinator.com/item?id=31777326) - [Ploopy open source thumb trackball](https://ploopy.co/thumb-trackball/)
 * [2022-06-17, 12:24:34](https://news.ycombinator.com/item?id=31777063) - [Adding a Rust compiler front end to GCC [video]](https://www.youtube.com/watch?v=R8Pr21nlhig)
 * [2022-06-17, 12:24:30](https://news.ycombinator.com/item?id=31777062) - [Probiotics can support the effect of antidepressants](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html)
 * [2022-06-17, 12:03:18](https://news.ycombinator.com/item?id=31776895) - [The bait-and-switch hidden in today’s cookie announcement](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)

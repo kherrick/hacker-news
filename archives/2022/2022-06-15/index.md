@@ -83,6 +83,7 @@
 * [2022-06-15, 03:57:56](https://news.ycombinator.com/item?id=31748967) - [Dating, Hinge, and the Gale-Shapley Algorithm](https://blogs.cornell.edu/info2040/2021/09/30/hinge-and-its-implementation-of-the-gale-shapley-algorithm/)
 * [2022-06-15, 03:43:50](https://news.ycombinator.com/item?id=31748884) - [Chewed and Rolled: How Cats Make the Most of Their Catnip High](https://www.nytimes.com/2022/06/14/science/cats-catnip-insects.html)
 * [2022-06-15, 03:19:44](https://news.ycombinator.com/item?id=31748756) - [Air quality worsens as drought forces California growers to burn abandoned crops](https://www.latimes.com/environment/story/2022-06-11/drought-is-fueling-san-joaquin-valley-air-pollution)
+* [2022-06-15, 03:01:54](https://news.ycombinator.com/item?id=31748648) - [16-bit RISC-V processor made with carbon nanotubes (2019)](https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/)
 * [2022-06-15, 02:49:03](https://news.ycombinator.com/item?id=31748594) - [Legendary bacterial evolution experiment enters new era](https://www.nature.com/articles/d41586-022-01620-3)
 * [2022-06-15, 02:43:23](https://news.ycombinator.com/item?id=31748553) - [Cheat Sheet for If I'm Gone](https://thoughtscollected.tech/posts/for-when-im-gone/)
 * [2022-06-15, 01:55:30](https://news.ycombinator.com/item?id=31748271) - [PC Engine / TurboGrafx-16 Architecture](https://www.copetti.org/writings/consoles/pc-engine/)
