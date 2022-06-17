@@ -2,17 +2,17 @@
 
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
-* [2022-06-17, 17:01:01](https://news.ycombinator.com/item?id=31781101) - [Smarking (YC W15) Is Hiring ML Eng to scale dynamic pricing for $655B parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+* [2022-06-17, 17:01:01](https://news.ycombinator.com/item?id=31781101) - [Smarking (YC W15) is hiring ML engineers to scale dynamic pricing for parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-06-17, 16:51:59](https://news.ycombinator.com/item?id=31780972) - [Kickstarter Union voted 97.6% to ratify one of the first tech union contracts](https://twitter.com/ksr_united/status/1537828455403900928)
 * [2022-06-17, 16:31:54](https://news.ycombinator.com/item?id=31780669) - [Polar bear population discovered that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
 * [2022-06-17, 16:21:25](https://news.ycombinator.com/item?id=31780489) - [Calculating the differential cost of code changes](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)
+* [2022-06-17, 16:13:25](https://news.ycombinator.com/item?id=31780355) - [Ask HN: What news subscription is worth it?](https://news.ycombinator.com/item?id=31780355)
 * [2022-06-17, 16:11:11](https://news.ycombinator.com/item?id=31780312) - [Nanokelvin-resolution thermometry at room temperature](https://www.nature.com/articles/s41566-022-01011-0)
 * [2022-06-17, 16:01:53](https://news.ycombinator.com/item?id=31780190) - [Writing like a pro with Vale and Neovim](https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/)
 * [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 * [2022-06-17, 14:40:58](https://news.ycombinator.com/item?id=31778909) - [Leaked Amazon memo warns the company is running out of people to hire](https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage)
 * [2022-06-17, 14:33:17](https://news.ycombinator.com/item?id=31778797) - [FDA Denies Petition to Ban All Phthalates in Food Packaging](https://www.consumerreports.org/food-safety/fda-denies-petition-to-ban-all-phthalates-in-food-packaging-a8313932149/)
 * [2022-06-17, 14:13:51](https://news.ycombinator.com/item?id=31778490) - [Gnome has no thumbnails in the file picker and my toilets are blocked (2021)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html)
-* [2022-06-17, 12:59:38](https://news.ycombinator.com/item?id=31777441) - [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
 * [2022-06-17, 12:24:34](https://news.ycombinator.com/item?id=31777063) - [Adding a Rust compiler front end to GCC [video]](https://www.youtube.com/watch?v=R8Pr21nlhig)
 * [2022-06-17, 12:24:30](https://news.ycombinator.com/item?id=31777062) - [Probiotics can support the effect of antidepressants](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html)
 * [2022-06-17, 12:03:18](https://news.ycombinator.com/item?id=31776895) - [The bait-and-switch hidden in today’s cookie announcement](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
@@ -29,7 +29,7 @@
 * [2022-06-15, 07:29:17](https://news.ycombinator.com/item?id=31750091) - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
 * [2022-06-15, 03:01:54](https://news.ycombinator.com/item?id=31748648) - [16-bit RISC-V processor made with carbon nanotubes (2019)](https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/)
 * [2022-06-14, 20:53:57](https://news.ycombinator.com/item?id=31745934) - [Making the collective knowledge of chemistry open and machine actionable](https://www.nature.com/articles/s41557-022-00910-7)
-* [2022-06-14, 15:26:23](https://news.ycombinator.com/item?id=31740868) - [Nintendo Wasn't the First to Introduce Region Locking, After All](https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all)
+* [2022-06-14, 15:26:23](https://news.ycombinator.com/item?id=31740868) - [Nintendo wasn't the first to introduce region locking, after all](https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all)
 
 ## [Archives](archives/index.md)
 
