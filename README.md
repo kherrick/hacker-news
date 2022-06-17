@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-17, 13:12:36](https://news.ycombinator.com/item?id=31777613) - [SpaceX Fires Employees Involved in Letter Critical of Musk](https://www.wsj.com/articles/spacex-fires-employees-involved-in-letter-critical-of-musk-company-11655471021)
 * [2022-06-17, 12:59:38](https://news.ycombinator.com/item?id=31777441) - [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
-* [2022-06-17, 12:50:09](https://news.ycombinator.com/item?id=31777328) - [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts?](https://news.ycombinator.com/item?id=31777328)
 * [2022-06-17, 12:49:43](https://news.ycombinator.com/item?id=31777326) - [Ploopy open source thumb trackball](https://ploopy.co/thumb-trackball/)
+* [2022-06-17, 12:29:28](https://news.ycombinator.com/item?id=31777103) - [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
 * [2022-06-17, 12:24:34](https://news.ycombinator.com/item?id=31777063) - [Adding a Rust compiler front end to GCC [video]](https://www.youtube.com/watch?v=R8Pr21nlhig)
 * [2022-06-17, 12:24:30](https://news.ycombinator.com/item?id=31777062) - [Probiotics can support the effect of antidepressants](https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html)
 * [2022-06-17, 12:03:18](https://news.ycombinator.com/item?id=31776895) - [The bait-and-switch hidden in today’s cookie announcement](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
@@ -23,7 +24,6 @@
 * [2022-06-17, 01:27:42](https://news.ycombinator.com/item?id=31773056) - [pass – the standard Unix password manager](https://www.passwordstore.org/#)
 * [2022-06-16, 23:22:36](https://news.ycombinator.com/item?id=31772211) - [Why am I no longer qualified to be a Brex customer?](https://www.brex.com/support/why-am-i-no-longer-qualified-to-be-a-brex-customer/)
 * [2022-06-16, 20:07:43](https://news.ycombinator.com/item?id=31770348) - [Make enterprise features open source](https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816)
-* [2022-06-16, 18:24:43](https://news.ycombinator.com/item?id=31769294) - [The computers are fast, but you don't know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 06:00:58](https://news.ycombinator.com/item?id=31762862) - [Remembrance of Moofs Past](https://leancrew.com/all-this/2022/06/remembrance-of-moofs-past/)
 * [2022-06-15, 07:29:17](https://news.ycombinator.com/item?id=31750091) - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
