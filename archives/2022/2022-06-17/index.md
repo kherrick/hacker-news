@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 21:28:55](https://news.ycombinator.com/item?id=31784602) - [Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting](https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841)
 * [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-17, 20:44:11](https://news.ycombinator.com/item?id=31784097) - [The Privatized Internet Has Failed Us](https://slatereport.com/tech/the-privatized-internet-has-failed-us/)
 * [2022-06-17, 20:01:43](https://news.ycombinator.com/item?id=31783508) - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)

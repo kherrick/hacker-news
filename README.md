@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-17, 21:28:55](https://news.ycombinator.com/item?id=31784602) - [Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting](https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841)
 * [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-17, 20:44:11](https://news.ycombinator.com/item?id=31784097) - [The Privatized Internet Has Failed Us](https://slatereport.com/tech/the-privatized-internet-has-failed-us/)
 * [2022-06-17, 20:01:43](https://news.ycombinator.com/item?id=31783508) - [US prison workers produce $11B worth of goods and services for little to no pay](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/#)
@@ -27,7 +28,6 @@
 * [2022-06-16, 11:15:42](https://news.ycombinator.com/item?id=31764685) - [The Celera 500L passenger plane gets hydrogen powertrain](https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/)
 * [2022-06-16, 11:11:11](https://news.ycombinator.com/item?id=31764663) - [Do we need a better understanding of 'progress'?](https://www.bbc.com/future/article/20220615-do-we-need-a-better-understanding-of-progress)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
-* [2022-06-15, 07:29:17](https://news.ycombinator.com/item?id=31750091) - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
 * [2022-06-14, 20:53:57](https://news.ycombinator.com/item?id=31745934) - [Making the collective knowledge of chemistry open and machine actionable](https://www.nature.com/articles/s41557-022-00910-7)
 * [2022-06-14, 15:26:23](https://news.ycombinator.com/item?id=31740868) - [Nintendo wasn't the first to introduce region locking, after all](https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all)
 
