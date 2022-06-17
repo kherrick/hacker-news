@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-17, 18:58:14](https://news.ycombinator.com/item?id=31782727) - [US prison slaves produce $11B worth of goods and services](https://thehill.com/blogs/3525313-us-prison-workers-produce-11b-worth-of-goods-and-services-for-little-to-no-pay-at-all/)
 * [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best Dev Tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
@@ -20,6 +19,7 @@
 * [2022-06-17, 09:07:03](https://news.ycombinator.com/item?id=31775772) - [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
 * [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
 * [2022-06-17, 08:21:18](https://news.ycombinator.com/item?id=31775486) - [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)
+* [2022-06-17, 07:47:20](https://news.ycombinator.com/item?id=31775271) - [A sketch of the biggest idea in software architecture](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:51:40](https://news.ycombinator.com/item?id=31774890) - [SpaceX said to fire employees involved in letter rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
 * [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
