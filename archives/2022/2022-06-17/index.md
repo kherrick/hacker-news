@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 13:15:28](https://news.ycombinator.com/item?id=31777650) - [Tell HN: I haven't answered a call from Google Ads, this is what happened](https://news.ycombinator.com/item?id=31777650)
 * [2022-06-17, 13:12:36](https://news.ycombinator.com/item?id=31777613) - [SpaceX Fires Employees Involved in Letter Critical of Musk](https://www.wsj.com/articles/spacex-fires-employees-involved-in-letter-critical-of-musk-company-11655471021)
 * [2022-06-17, 12:59:38](https://news.ycombinator.com/item?id=31777441) - [Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout](https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932)
 * [2022-06-17, 12:50:09](https://news.ycombinator.com/item?id=31777328) - [Ask HN: Why is Lex Fridman so successful with his “tech” podcasts?](https://news.ycombinator.com/item?id=31777328)
