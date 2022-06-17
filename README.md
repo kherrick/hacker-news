@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best Dev Tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
-* [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien Intelligence and the Concept of Technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
+* [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best dev tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
+* [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien intelligence and the concept of technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The Most Satisfying Checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
 * [2022-06-17, 17:01:01](https://news.ycombinator.com/item?id=31781101) - [Smarking (YC W15) is hiring ML engineers to scale dynamic pricing for parking](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-06-17, 16:31:54](https://news.ycombinator.com/item?id=31780669) - [Polar bears that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
@@ -23,11 +23,11 @@
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:51:40](https://news.ycombinator.com/item?id=31774890) - [SpaceX said to fire employees involved in letter rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
 * [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
-* [2022-06-16, 11:15:42](https://news.ycombinator.com/item?id=31764685) - [World's most efficient passenger plane gets hydrogen powertrain](https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/)
+* [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
+* [2022-06-16, 11:15:42](https://news.ycombinator.com/item?id=31764685) - [The Celera 500L passenger plane gets hydrogen powertrain](https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/)
 * [2022-06-16, 11:11:11](https://news.ycombinator.com/item?id=31764663) - [Do we need a better understanding of 'progress'?](https://www.bbc.com/future/article/20220615-do-we-need-a-better-understanding-of-progress)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-15, 07:29:17](https://news.ycombinator.com/item?id=31750091) - [US Army deploys its first floating solar array](https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics)
-* [2022-06-15, 03:01:54](https://news.ycombinator.com/item?id=31748648) - [16-bit RISC-V processor made with carbon nanotubes (2019)](https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/)
 * [2022-06-14, 20:53:57](https://news.ycombinator.com/item?id=31745934) - [Making the collective knowledge of chemistry open and machine actionable](https://www.nature.com/articles/s41557-022-00910-7)
 * [2022-06-14, 15:26:23](https://news.ycombinator.com/item?id=31740868) - [Nintendo wasn't the first to introduce region locking, after all](https://www.nintendolife.com/news/2022/06/random-nintendo-wasnt-the-first-to-introduce-region-locking-after-all)
 

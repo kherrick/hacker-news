@@ -34,6 +34,7 @@
 * [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 * [2022-06-16, 15:26:22](https://news.ycombinator.com/item?id=31767184) - [100M People in America Are Saddled with Health Care Debt](https://khn.org/news/article/diagnosis-debt-investigation-100-million-americans-hidden-medical-debt/)
 * [2022-06-16, 15:06:29](https://news.ycombinator.com/item?id=31766909) - [How a generation lost its common culture](https://www.mindingthecampus.org/2016/02/02/how-a-generation-lost-its-common-culture/)
+* [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
 * [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [Why I'm now making drugs for cats (and you should too)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:46:28](https://news.ycombinator.com/item?id=31765986) - [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
