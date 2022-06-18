@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 06:51:37](https://news.ycombinator.com/item?id=31787743) - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
 * [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [Experts once predicted that Americans would face excess leisure time (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [OpenAI](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [The Vale Programming Language](https://vale.dev/)
@@ -11,7 +12,6 @@
 * [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
 * [2022-06-17, 22:13:36](https://news.ycombinator.com/item?id=31785084) - [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
 * [2022-06-17, 21:32:52](https://news.ycombinator.com/item?id=31784637) - [Laddering a Chimney (2011) [video]](https://www.youtube.com/watch?v=E-a27xwcLfU)
-* [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (YC S20) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [Slope: A hackable hobby programming language](https://slope.colorfield.space/)
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien intelligence and the concept of technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
