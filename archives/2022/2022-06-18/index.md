@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 14:20:48](https://news.ycombinator.com/item?id=31790029) - [Bitcoin drops below $20k, Ether cracks $1k – what this means](https://davidgerard.co.uk/blockchain/2022/06/18/bitcoin-drops-below-20000-ether-cracks-1000-what-this-means/)
+* [2022-06-18, 13:56:48](https://news.ycombinator.com/item?id=31789863) - [Ask HN: Has anyone moved to Puerto Rico, was it worth it?](https://news.ycombinator.com/item?id=31789863)
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 * [2022-06-18, 12:59:04](https://news.ycombinator.com/item?id=31789435) - [Bitcoin slumps below key $20k threshold](https://www.ft.com/content/97b5a774-d817-4d3b-82b2-6bbe22c3d59b)
 * [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
