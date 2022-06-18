@@ -35,6 +35,7 @@
 * [2022-06-17, 16:31:54](https://news.ycombinator.com/item?id=31780669) - [Polar bear population discovered that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
 * [2022-06-17, 16:21:25](https://news.ycombinator.com/item?id=31780489) - [Calculating the differential cost of code changes](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)
 * [2022-06-17, 16:13:25](https://news.ycombinator.com/item?id=31780355) - [Ask HN: What news subscription is worth it?](https://news.ycombinator.com/item?id=31780355)
+* [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 16:11:11](https://news.ycombinator.com/item?id=31780312) - [Nanokelvin-resolution thermometry at room temperature](https://www.nature.com/articles/s41566-022-01011-0)
 * [2022-06-17, 16:01:53](https://news.ycombinator.com/item?id=31780190) - [Writing like a pro with Vale and Neovim](https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/)
 * [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
