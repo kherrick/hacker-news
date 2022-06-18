@@ -21,11 +21,31 @@
   ],
   [
     [
+      "2022-06-18, 19:09:34",
+      "https://news.ycombinator.com/item?id=31792790"
+    ],
+    [
+      "Because cross-compiling binaries for Windows is easier than building natively",
+      "https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 18:14:43",
+      "https://news.ycombinator.com/item?id=31792336"
+    ],
+    [
+      "Building a Second Brain: The Book",
+      "https://www.buildingasecondbrain.com/book"
+    ]
+  ],
+  [
+    [
       "2022-06-18, 18:11:57",
       "https://news.ycombinator.com/item?id=31792303"
     ],
     [
-      "Ask HN: Why Are Git Submodules So Bad?",
+      "Ask HN: Why are Git submodules so bad?",
       "https://news.ycombinator.com/item?id=31792303"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31792206"
     ],
     [
-      "10x faster matrix and vector operations",
+      "Bolt: Faster matrix and vector operations that run on compressed data",
       "https://github.com/dblalock/bolt"
     ]
   ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2022-06-18, 10:59:29",
-      "https://news.ycombinator.com/item?id=31788756"
-    ],
-    [
-      "We regret to inform you that your choice of Deathday is no longer available",
-      "https://www.nature.com/articles/d41586-022-01437-0"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 08:21:46",
       "https://news.ycombinator.com/item?id=31788136"
     ],
     [
       "Raw Text Club",
       "https://rawtext.club/"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 06:13:25",
-      "https://news.ycombinator.com/item?id=31787599"
-    ],
-    [
-      "Experts once predicted that Americans would face excess leisure time (2015)",
-      "https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much"
     ]
   ],
   [
