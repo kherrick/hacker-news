@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
 * [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 * [2022-06-18, 13:57:36](https://news.ycombinator.com/item?id=31789871) - [Is Making Advanced GUI Applications with Godot the Future? (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
@@ -18,7 +19,6 @@
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [OpenAI](https://scottaaronson.blog/?p=6484)
 * [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
-* [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The most satisfying checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard Things to Get Right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)

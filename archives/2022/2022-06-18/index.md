@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
 * [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 * [2022-06-18, 14:49:14](https://news.ycombinator.com/item?id=31790284) - [There Could Be Four Hostile Civilizations in the Milky Way](https://www.universetoday.com/156281/there-could-be-four-hostile-civilizations-in-the-milky-way/)
