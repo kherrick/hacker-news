@@ -84,3 +84,4 @@
 * [2022-06-17, 02:40:41](https://news.ycombinator.com/item?id=31773585) - [How Many Tracks Do Train Stations Need?](https://pedestrianobservations.com/2022/06/11/how-many-tracks-do-train-stations-need/)
 * [2022-06-17, 01:50:56](https://news.ycombinator.com/item?id=31773233) - [The Privatized Internet Has Failed Us](https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy)
 * [2022-06-17, 01:27:42](https://news.ycombinator.com/item?id=31773056) - [pass – the standard Unix password manager](https://www.passwordstore.org/#)
+* [2022-06-17, 00:12:35](https://news.ycombinator.com/item?id=31772558) - [The Westinghouse Total Electric Home (1960) [video]](https://www.youtube.com/watch?v=jyrTgtPTz3M)
