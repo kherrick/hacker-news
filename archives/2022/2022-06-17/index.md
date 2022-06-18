@@ -6,6 +6,7 @@
 
 * [2022-06-17, 23:51:49](https://news.ycombinator.com/item?id=31785966) - [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
 * [2022-06-17, 23:31:08](https://news.ycombinator.com/item?id=31785817) - [Sim Central Bank, the Explanation](https://benoitessiambre.com/simcb.html)
+* [2022-06-17, 23:20:35](https://news.ycombinator.com/item?id=31785736) - [Identify Birds by Their Chirp](https://merlin.allaboutbirds.org/)
 * [2022-06-17, 23:01:35](https://news.ycombinator.com/item?id=31785556) - [Fyne, a cross-platform GUI toolkit written in Go](https://fyne.io)
 * [2022-06-17, 22:54:39](https://news.ycombinator.com/item?id=31785507) - [Recently Discovered Drawings for Statue of Liberty Hint at a Last-Minute Change](https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/)
 * [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
