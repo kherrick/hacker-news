@@ -2,9 +2,10 @@
 
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
+* [2022-06-18, 16:16:14](https://news.ycombinator.com/item?id=31791214) - [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)
 * [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
-* [2022-06-18, 15:52:32](https://news.ycombinator.com/item?id=31790978) - [How the Ballpoint Pen Killed Cursive](https://www.theatlantic.com/technology/archive/2015/08/ballpoint-pens-object-lesson-history-handwriting/402205/)
 * [2022-06-18, 15:28:54](https://news.ycombinator.com/item?id=31790698) - [Why do we all fall for AI-generated language?](https://twitter.com/maurice_jks/status/1537814372462039043)
+* [2022-06-18, 14:14:53](https://news.ycombinator.com/item?id=31789999) - [Behold the Magnetar, nature’s ultimate superweapon](https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/)
 * [2022-06-18, 13:57:36](https://news.ycombinator.com/item?id=31789871) - [Is Making Advanced GUI Applications with Godot the Future? (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 * [2022-06-18, 13:17:10](https://news.ycombinator.com/item?id=31789560) - [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
@@ -20,6 +21,7 @@
 * [2022-06-18, 03:50:26](https://news.ycombinator.com/item?id=31787127) - [We’ve only scratched the surface of how bad the crypto crime wave has gotten](https://www.latimes.com/entertainment-arts/story/2022-06-17/la-ent-crypto-crime-wave)
 * [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
+* [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard Things to Get Right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
 * [2022-06-17, 06:27:51](https://news.ycombinator.com/item?id=31774734) - [Keysight UXR 110GHz Oscilloscope Teardown [video] (2018)](https://www.youtube.com/watch?v=DXYje2B04xE)
@@ -27,8 +29,6 @@
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
 * [2022-06-16, 15:21:05](https://news.ycombinator.com/item?id=31767105) - [A Computer Scientist Who Parlays Failures into Breakthroughs](https://www.quantamagazine.org/the-computer-scientist-who-parlays-failures-into-breakthroughs-20220613/)
 * [2022-06-16, 13:46:07](https://news.ycombinator.com/item?id=31765983) - [Mosquito swatter gamer mod with kill counter, sound and rechargeable battery](https://www.instructables.com/Ultimate-Mosquito-Swatter-Mod-for-Gamer-Add-Kill-C/)
-* [2022-06-16, 11:14:29](https://news.ycombinator.com/item?id=31764680) - [A practical guide to incident management](https://incident.io/guide/)
-* [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 10:34:51](https://news.ycombinator.com/item?id=31764445) - [We Are Sorry to Inform You (2005)](http://www.fang.ece.ufl.edu/reject.html)
 
 ## [Archives](archives/index.md)
