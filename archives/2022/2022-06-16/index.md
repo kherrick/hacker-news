@@ -37,6 +37,7 @@
 * [2022-06-16, 16:19:24](https://news.ycombinator.com/item?id=31767827) - [ReadySet Core: next-generation SQL caching, freely available](https://readyset.io/blog/readyset-core)
 * [2022-06-16, 16:01:14](https://news.ycombinator.com/item?id=31767575) - [Ouch, Safari on iOS can overlap multiple full-screen videos](https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/)
 * [2022-06-16, 15:26:22](https://news.ycombinator.com/item?id=31767184) - [100M People in America Are Saddled with Health Care Debt](https://khn.org/news/article/diagnosis-debt-investigation-100-million-americans-hidden-medical-debt/)
+* [2022-06-16, 15:21:05](https://news.ycombinator.com/item?id=31767105) - [A Computer Scientist Who Parlays Failures into Breakthroughs](https://www.quantamagazine.org/the-computer-scientist-who-parlays-failures-into-breakthroughs-20220613/)
 * [2022-06-16, 15:06:29](https://news.ycombinator.com/item?id=31766909) - [How a generation lost its common culture](https://www.mindingthecampus.org/2016/02/02/how-a-generation-lost-its-common-culture/)
 * [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
 * [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [Why I'm now making drugs for cats (and you should too)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
