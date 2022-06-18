@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-18, 08:04:55](https://news.ycombinator.com/item?id=31788062) - [Bitcoin Falls Below $20k for the First Time Since 2020](https://www.bloomberg.com/news/articles/2022-06-18/bitcoin-breaches-20-000-for-the-first-time-since-2020-l4jjjy7z)
+* [2022-06-18, 06:51:37](https://news.ycombinator.com/item?id=31787743) - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
 * [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [Experts once predicted that Americans would face excess leisure time (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [OpenAI](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [The Vale Programming Language](https://vale.dev/)
@@ -26,7 +27,6 @@
 * [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
 * [2022-06-16, 11:15:42](https://news.ycombinator.com/item?id=31764685) - [The Celera 500L passenger plane gets hydrogen powertrain](https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/)
 * [2022-06-16, 11:14:29](https://news.ycombinator.com/item?id=31764680) - [A practical guide to incident management](https://incident.io/guide/)
-* [2022-06-16, 11:11:11](https://news.ycombinator.com/item?id=31764663) - [Do we need a better understanding of 'progress'?](https://www.bbc.com/future/article/20220615-do-we-need-a-better-understanding-of-progress)
 * [2022-06-16, 10:47:15](https://news.ycombinator.com/item?id=31764521) - [Redbean 2.0 turned into more than a hobby project](https://justine.lol/redbean2/)
 * [2022-06-16, 09:27:26](https://news.ycombinator.com/item?id=31764026) - [Show HN: Lockable – sync locks for distributed systems](https://lockable.dev)
 * [2022-06-16, 05:02:50](https://news.ycombinator.com/item?id=31762574) - [Retrofitting Temporal Memory Safety on C++](https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++)
