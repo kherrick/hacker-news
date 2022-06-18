@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-06-18, 17:13:48",
-      "https://news.ycombinator.com/item?id=31791790"
+      "2022-06-18, 17:37:23",
+      "https://news.ycombinator.com/item?id=31791989"
     ],
     [
-      "It is currently faster to launch PHP to execute a regex than using std:regex",
-      "https://cor3ntin.github.io/posts/abi/"
+      "Ask HN: What was the actual impact of Microsoft anti trust case on the industry?",
+      "https://news.ycombinator.com/item?id=31791989"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Basis (YC S21) Is hiring devs to help build the Figma for Data",
       "https://www.workatastartup.com/companies/basis-2"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 16:43:23",
-      "https://news.ycombinator.com/item?id=31791483"
-    ],
-    [
-      "The women behind the windows in Amsterdam's red light district (2019)",
-      "https://nordicmodelnow.org/2019/12/27/the-women-behind-the-windows-in-amsterdams-red-light-district/"
     ]
   ],
   [
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2022-06-18, 11:39:07",
-      "https://news.ycombinator.com/item?id=31788976"
-    ],
-    [
-      "AI Wrote and Performed a Jerry Seinfeld Routine [video]",
-      "https://www.youtube.com/watch?v=1onxri0duN0"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 11:30:24",
       "https://news.ycombinator.com/item?id=31788923"
     ],
@@ -207,6 +187,26 @@
     [
       "Experts once predicted that Americans would face excess leisure time (2015)",
       "https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 03:50:26",
+      "https://news.ycombinator.com/item?id=31787127"
+    ],
+    [
+      "We’ve only scratched the surface of how bad the crypto crime wave has gotten",
+      "https://www.latimes.com/entertainment-arts/story/2022-06-17/la-ent-crypto-crime-wave"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 22:24:21",
+      "https://news.ycombinator.com/item?id=31785199"
+    ],
+    [
+      "Show HN: A central bank simulator game with a realistic economic model",
+      "https://benoitessiambre.com/macro.html"
     ]
   ],
   [
