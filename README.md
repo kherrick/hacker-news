@@ -3,7 +3,7 @@
 * [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
 * [2022-06-18, 11:39:07](https://news.ycombinator.com/item?id=31788976) - [Jerry Seinfeld Routine written and performed by AI (GPT-3)](https://www.youtube.com/watch?v=1onxri0duN0)
 * [2022-06-18, 11:38:06](https://news.ycombinator.com/item?id=31788967) - [Dan's Tools](https://www.danstools.com/)
-* [2022-06-18, 10:58:48](https://news.ycombinator.com/item?id=31788754) - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
+* [2022-06-18, 10:44:14](https://news.ycombinator.com/item?id=31788720) - [International Institute of Not Doing Much](https://www.slowdownnow.org/)
 * [2022-06-18, 08:51:50](https://news.ycombinator.com/item?id=31788265) - [Thrussh – Portable SSH client and server library](https://pijul.org/)
 * [2022-06-18, 08:21:46](https://news.ycombinator.com/item?id=31788136) - [Raw Text Club](https://rawtext.club/)
 * [2022-06-18, 06:51:37](https://news.ycombinator.com/item?id=31787743) - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
