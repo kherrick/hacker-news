@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 10:31:17](https://news.ycombinator.com/item?id=31788684) - [Bitcoin Falls Below $20k](https://www.coindesk.com/price/bitcoin/)
 * [2022-06-18, 08:51:50](https://news.ycombinator.com/item?id=31788265) - [Thrussh – Portable SSH client and server library](https://pijul.org/)
 * [2022-06-18, 08:21:46](https://news.ycombinator.com/item?id=31788136) - [Raw Text Club](https://rawtext.club/)
 * [2022-06-18, 06:51:37](https://news.ycombinator.com/item?id=31787743) - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
@@ -14,7 +15,6 @@
 * [2022-06-17, 21:32:52](https://news.ycombinator.com/item?id=31784637) - [Laddering a Chimney (2011) [video]](https://www.youtube.com/watch?v=E-a27xwcLfU)
 * [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [Slope: A hackable hobby programming language](https://slope.colorfield.space/)
-* [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien intelligence and the concept of technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The most satisfying checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
 * [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)

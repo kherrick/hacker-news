@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 10:31:17](https://news.ycombinator.com/item?id=31788684) - [Bitcoin Falls Below $20k](https://www.coindesk.com/price/bitcoin/)
 * [2022-06-18, 08:51:50](https://news.ycombinator.com/item?id=31788265) - [Thrussh – Portable SSH client and server library](https://pijul.org/)
 * [2022-06-18, 08:21:46](https://news.ycombinator.com/item?id=31788136) - [Raw Text Club](https://rawtext.club/)
 * [2022-06-18, 08:04:55](https://news.ycombinator.com/item?id=31788062) - [Bitcoin Falls Below $20k for the First Time Since 2020](https://www.bloomberg.com/news/articles/2022-06-18/bitcoin-breaches-20-000-for-the-first-time-since-2020-l4jjjy7z)
