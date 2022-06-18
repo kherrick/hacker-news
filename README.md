@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-18, 18:42:11](https://news.ycombinator.com/item?id=31792575) - [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
+* [2022-06-18, 18:14:43](https://news.ycombinator.com/item?id=31792336) - [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
 * [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
@@ -11,7 +11,6 @@
 * [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 * [2022-06-18, 15:28:54](https://news.ycombinator.com/item?id=31790698) - [Why do we all fall for AI-generated language?](https://twitter.com/maurice_jks/status/1537814372462039043)
 * [2022-06-18, 14:38:55](https://news.ycombinator.com/item?id=31790162) - [The Simplex Solution: Why it works so well](https://www.technologyreview.com/2003/06/01/101881/the-simplex-solution/)
-* [2022-06-18, 14:23:25](https://news.ycombinator.com/item?id=31790048) - [How elites misread public opinion](https://www.politico.com/news/magazine/2022/06/17/elites-kertzer-renshon-political-science-00039943)
 * [2022-06-18, 14:14:53](https://news.ycombinator.com/item?id=31789999) - [The Magnetar, nature’s ultimate superweapon](https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/)
 * [2022-06-18, 14:14:28](https://news.ycombinator.com/item?id=31789998) - [Microsoft and Meta join Google in using AI to help run their data centers](https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/)
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
@@ -25,6 +24,7 @@
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How not to teach recursion (2021)](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
 * [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
+* [2022-06-17, 15:09:41](https://news.ycombinator.com/item?id=31779335) - [Rules and Visual Syntax in Praxis](https://toblotron.com/blog/2022/06/17/rules-and-visual-syntax-in-praxis/)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard things to get right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-17, 04:01:21](https://news.ycombinator.com/item?id=31773983) - [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)

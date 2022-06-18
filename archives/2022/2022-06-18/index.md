@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
 * [2022-06-18, 18:42:11](https://news.ycombinator.com/item?id=31792575) - [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
+* [2022-06-18, 18:14:43](https://news.ycombinator.com/item?id=31792336) - [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
 * [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
