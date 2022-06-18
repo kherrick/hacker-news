@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-18, 14:39:24",
-      "https://news.ycombinator.com/item?id=31790169"
-    ],
-    [
-      "Ask HN: Is your company giving you a holiday for Juneteenth?",
-      "https://news.ycombinator.com/item?id=31790169"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 14:20:48",
       "https://news.ycombinator.com/item?id=31790029"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31789871"
     ],
     [
-      "Is Making Advanced GUI Applications with Godot the Future?",
+      "Is Making Advanced GUI Applications with Godot the Future? (2020)",
       "https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31789463"
     ],
     [
-      "How Inflation Works – An illustrated guide for the rest of us",
+      "How Inflation Works",
       "https://finmasters.com/how-inflation-works/"
     ]
   ],
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2022-06-18, 00:50:23",
-      "https://news.ycombinator.com/item?id=31786324"
+      "2022-06-18, 01:19:59",
+      "https://news.ycombinator.com/item?id=31786487"
     ],
     [
-      "Show HN: Unsubscan – Free and offline mailing list unsubscription tool",
-      "https://github.com/LGUG2Z/unsubscan"
+      "The Vale Programming Language",
+      "https://vale.dev/"
     ]
   ],
   [
@@ -177,6 +167,26 @@
     [
       "Show HN: A central bank simulator game with a realistic economic model",
       "https://benoitessiambre.com/macro.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 21:32:52",
+      "https://news.ycombinator.com/item?id=31784637"
+    ],
+    [
+      "Laddering a Chimney (1978) [video]",
+      "https://www.youtube.com/watch?v=E-a27xwcLfU"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 17:01:57",
+      "https://news.ycombinator.com/item?id=31781110"
+    ],
+    [
+      "The most satisfying checkbox",
+      "https://www.andy.works/words/the-most-satisfying-checkbox"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "We Are Sorry to Inform You (2005)",
       "http://www.fang.ece.ufl.edu/reject.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 05:02:50",
-      "https://news.ycombinator.com/item?id=31762574"
-    ],
-    [
-      "Retrofitting Temporal Memory Safety on C++",
-      "https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++"
     ]
   ]
 ]
