@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 20:31:35](https://news.ycombinator.com/item?id=31793554) - [V Language Review (2022)](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 * [2022-06-18, 19:48:25](https://news.ycombinator.com/item?id=31793143) - [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 * [2022-06-18, 19:34:33](https://news.ycombinator.com/item?id=31793030) - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 * [2022-06-18, 19:09:34](https://news.ycombinator.com/item?id=31792790) - [Because cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)

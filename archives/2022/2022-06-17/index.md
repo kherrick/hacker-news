@@ -40,6 +40,7 @@
 * [2022-06-17, 16:01:53](https://news.ycombinator.com/item?id=31780190) - [Writing like a pro with Vale and Neovim](https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/)
 * [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
+* [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 * [2022-06-17, 15:09:41](https://news.ycombinator.com/item?id=31779335) - [Rules and Visual Syntax in Praxis](https://toblotron.com/blog/2022/06/17/rules-and-visual-syntax-in-praxis/)
 * [2022-06-17, 15:04:42](https://news.ycombinator.com/item?id=31779260) - [I created a powerful news shortening algorithm. I'm not sure how to utilize it](https://news.ycombinator.com/item?id=31779260)
 * [2022-06-17, 14:54:32](https://news.ycombinator.com/item?id=31779105) - [SpaceX fires employees behind letter slamming Musk, tells staff: “Stay focused”](https://arstechnica.com/tech-policy/2022/06/spacex-fired-employees-who-wrote-letter-slamming-musks-embarrassing-behavior/)
