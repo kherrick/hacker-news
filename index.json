@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31793554"
     ],
     [
-      "V Language Review (2022)",
+      "V Language Review",
       "https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"
     ]
   ],
@@ -45,18 +45,8 @@
       "https://news.ycombinator.com/item?id=31792790"
     ],
     [
-      "Because cross-compiling binaries for Windows is easier than building natively",
+      "Cross-compiling binaries for Windows is easier than building natively",
       "https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 18:19:42",
-      "https://news.ycombinator.com/item?id=31792373"
-    ],
-    [
-      "EOS – Emacs Operating System",
-      "https://writequit.org/eos/eos.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Toonstruck (Or, a Case Study in the Death of Adventure Games)",
       "https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 15:50:28",
+      "https://news.ycombinator.com/item?id=31779995"
+    ],
+    [
+      "Switch to VPC Endpoints from Nat Gateways to Reduce Bandwidth Charges",
+      "https://www.vantage.sh/blog/nat-gateway-vpc-endpoint-savings"
     ]
   ],
   [
