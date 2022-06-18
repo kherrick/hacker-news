@@ -22,12 +22,12 @@
 * [2022-06-18, 11:27:36](https://news.ycombinator.com/item?id=31788894) - [Apple has a bug in its disk I/O throttling code that affects raw disk copies](https://mjacobson.net/blog/2022-02-throttling.html)
 * [2022-06-18, 08:21:46](https://news.ycombinator.com/item?id=31788136) - [Raw Text Club](https://rawtext.club/)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How not to teach recursion (2021)](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
+* [2022-06-17, 17:31:26](https://news.ycombinator.com/item?id=31781493) - [A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day](https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/)
 * [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 * [2022-06-17, 15:09:41](https://news.ycombinator.com/item?id=31779335) - [Rules and Visual Syntax in Praxis](https://toblotron.com/blog/2022/06/17/rules-and-visual-syntax-in-praxis/)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard things to get right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
-* [2022-06-17, 04:01:21](https://news.ycombinator.com/item?id=31773983) - [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
 * [2022-06-16, 13:46:07](https://news.ycombinator.com/item?id=31765983) - [Mosquito swatter gamer mod with kill counter, sound and rechargeable battery](https://www.instructables.com/Ultimate-Mosquito-Swatter-Mod-for-Gamer-Add-Kill-C/)
 
