@@ -2,6 +2,7 @@
 
 * [2022-06-18, 18:42:11](https://news.ycombinator.com/item?id=31792575) - [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
+* [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
 * [2022-06-18, 17:13:48](https://news.ycombinator.com/item?id=31791790) - [The Day The Standard Library Died (2020)](https://cor3ntin.github.io/posts/abi/)
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
@@ -21,7 +22,6 @@
 * [2022-06-18, 10:59:29](https://news.ycombinator.com/item?id=31788756) - [We regret to inform you that your choice of Deathday is no longer available](https://www.nature.com/articles/d41586-022-01437-0)
 * [2022-06-18, 08:21:46](https://news.ycombinator.com/item?id=31788136) - [Raw Text Club](https://rawtext.club/)
 * [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [Experts once predicted that Americans would face excess leisure time (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
-* [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How not to teach recursion (2021)](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
 * [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)

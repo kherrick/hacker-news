@@ -6,6 +6,7 @@
 
 * [2022-06-18, 18:42:11](https://news.ycombinator.com/item?id=31792575) - [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
+* [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
 * [2022-06-18, 17:13:48](https://news.ycombinator.com/item?id=31791790) - [It is currently faster to launch PHP to execute a regex than using std:regex](https://cor3ntin.github.io/posts/abi/)
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
