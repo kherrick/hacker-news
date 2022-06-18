@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 21:56:12](https://news.ycombinator.com/item?id=31794175) - [Show HN: I have created something new to make your browsing experience enjoyable](https://productivitytoolset.com)
 * [2022-06-18, 20:31:35](https://news.ycombinator.com/item?id=31793554) - [V Language Review (2022)](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 * [2022-06-18, 19:48:25](https://news.ycombinator.com/item?id=31793143) - [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 * [2022-06-18, 19:34:33](https://news.ycombinator.com/item?id=31793030) - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
@@ -26,7 +27,6 @@
 * [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
-* [2022-06-17, 15:09:41](https://news.ycombinator.com/item?id=31779335) - [Rules and Visual Syntax in Praxis](https://toblotron.com/blog/2022/06/17/rules-and-visual-syntax-in-praxis/)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard things to get right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
 * [2022-06-16, 13:46:07](https://news.ycombinator.com/item?id=31765983) - [Mosquito swatter gamer mod with kill counter, sound and rechargeable battery](https://www.instructables.com/Ultimate-Mosquito-Swatter-Mod-for-Gamer-Add-Kill-C/)
