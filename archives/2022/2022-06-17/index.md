@@ -66,6 +66,7 @@
 * [2022-06-17, 07:47:20](https://news.ycombinator.com/item?id=31775271) - [A sketch of the biggest idea in software architecture](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:51:40](https://news.ycombinator.com/item?id=31774890) - [SpaceX Said to Fire Employees Involved in Letter Rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
+* [2022-06-17, 06:27:51](https://news.ycombinator.com/item?id=31774734) - [Keysight UXR 110GHz Oscilloscope Teardown [video]](https://www.youtube.com/watch?v=DXYje2B04xE)
 * [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
 * [2022-06-17, 04:36:58](https://news.ycombinator.com/item?id=31774170) - [Why Is AVX 512 Useful for RPCS3?](https://whatcookie.github.io/posts/why-is-avx-512-useful-for-rpcs3/)
 * [2022-06-17, 04:11:08](https://news.ycombinator.com/item?id=31774041) - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
