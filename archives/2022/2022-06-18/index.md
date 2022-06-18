@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
+* [2022-06-18, 11:39:07](https://news.ycombinator.com/item?id=31788976) - [Jerry Seinfeld Routine written and performed by AI (GPT-3)](https://www.youtube.com/watch?v=1onxri0duN0)
+* [2022-06-18, 11:38:06](https://news.ycombinator.com/item?id=31788967) - [Dan's Tools](https://www.danstools.com/)
 * [2022-06-18, 11:00:41](https://news.ycombinator.com/item?id=31788762) - [Unusual Trading Activity On The Bitfinex Crypto Exchange](https://twitter.com/Bitfinexed/status/1536360821974089728)
+* [2022-06-18, 10:58:48](https://news.ycombinator.com/item?id=31788754) - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
 * [2022-06-18, 10:31:17](https://news.ycombinator.com/item?id=31788684) - [Bitcoin Falls Below $20k](https://www.coindesk.com/price/bitcoin/)
 * [2022-06-18, 09:52:19](https://news.ycombinator.com/item?id=31788548) - [Kraken CEO posts tweet thread attacking 'triggered' employees](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/06/15/kraken-ceo-tweet-thread-triggered-employees-sf.html)
 * [2022-06-18, 08:51:50](https://news.ycombinator.com/item?id=31788265) - [Thrussh – Portable SSH client and server library](https://pijul.org/)

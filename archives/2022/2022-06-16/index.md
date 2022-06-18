@@ -24,6 +24,7 @@
 * [2022-06-16, 18:26:41](https://news.ycombinator.com/item?id=31769316) - [Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
 * [2022-06-16, 18:24:43](https://news.ycombinator.com/item?id=31769294) - [The computers are fast, but you don't know it](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/)
 * [2022-06-16, 18:00:25](https://news.ycombinator.com/item?id=31769059) - [Visualizing Elliptic Curves](https://curves.ulfheim.net/)
+* [2022-06-16, 17:52:00](https://news.ycombinator.com/item?id=31768943) - [World War II Led to Washington’s First Outing](https://www.washingtonpost.com/magazine/2022/06/15/senator-x-excerpt/)
 * [2022-06-16, 17:51:27](https://news.ycombinator.com/item?id=31768936) - [Wasmer – The Universal WebAssembly Runtime](https://wasmer.io/)
 * [2022-06-16, 17:42:03](https://news.ycombinator.com/item?id=31768828) - [Reddit acquires ML startup Spell](https://www.redditinc.com/blog/reddit-acquires-machine-learning-platform-spell)
 * [2022-06-16, 17:30:28](https://news.ycombinator.com/item?id=31768705) - [CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack](https://www.thezdi.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack)
