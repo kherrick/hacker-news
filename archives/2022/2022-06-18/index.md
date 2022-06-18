@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 17:13:48](https://news.ycombinator.com/item?id=31791790) - [It is currently faster to launch PHP to execute a regex than using std:regex](https://cor3ntin.github.io/posts/abi/)
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
+* [2022-06-18, 16:43:23](https://news.ycombinator.com/item?id=31791483) - [The women behind the windows in Amsterdam's red light district (2019)](https://nordicmodelnow.org/2019/12/27/the-women-behind-the-windows-in-amsterdams-red-light-district/)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
 * [2022-06-18, 16:26:53](https://news.ycombinator.com/item?id=31791324) - [Elastic UI – design library in use at Elastic to build internal products](https://elastic.github.io/eui/)
 * [2022-06-18, 16:16:14](https://news.ycombinator.com/item?id=31791214) - [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)

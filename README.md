@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 17:13:48](https://news.ycombinator.com/item?id=31791790) - [It is currently faster to launch PHP to execute a regex than using std:regex](https://cor3ntin.github.io/posts/abi/)
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
+* [2022-06-18, 16:43:23](https://news.ycombinator.com/item?id=31791483) - [The women behind the windows in Amsterdam's red light district (2019)](https://nordicmodelnow.org/2019/12/27/the-women-behind-the-windows-in-amsterdams-red-light-district/)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
-* [2022-06-18, 16:26:53](https://news.ycombinator.com/item?id=31791324) - [Elastic UI – design library in use at Elastic to build internal products](https://elastic.github.io/eui/)
 * [2022-06-18, 16:16:14](https://news.ycombinator.com/item?id=31791214) - [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)
 * [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 * [2022-06-18, 15:28:54](https://news.ycombinator.com/item?id=31790698) - [Why do we all fall for AI-generated language?](https://twitter.com/maurice_jks/status/1537814372462039043)
@@ -20,7 +21,6 @@
 * [2022-06-18, 10:59:29](https://news.ycombinator.com/item?id=31788756) - [We regret to inform you that your choice of Deathday is no longer available](https://www.nature.com/articles/d41586-022-01437-0)
 * [2022-06-18, 08:21:46](https://news.ycombinator.com/item?id=31788136) - [Raw Text Club](https://rawtext.club/)
 * [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [Experts once predicted that Americans would face excess leisure time (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
-* [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard Things to Get Right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
