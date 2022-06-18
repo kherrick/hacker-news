@@ -58,6 +58,7 @@
 * [2022-06-17, 11:43:56](https://news.ycombinator.com/item?id=31776740) - [Minimum Viable Architecture in Practice: Creating a Home Insurance Chatbot](https://www.infoq.com/articles/minimum-viable-architecture-sample/)
 * [2022-06-17, 11:02:11](https://news.ycombinator.com/item?id=31776466) - [Website cookie pop-ups to appear less in new UK Government proposals](https://www.thetelegraphandargus.co.uk/news/uk_today_homepage/20217417.website-cookie-pop-ups-appear-less-new-government-proposals/)
 * [2022-06-17, 10:50:24](https://news.ycombinator.com/item?id=31776372) - [Crypto lending company Babel Finance halts redemptions and withdrawals](https://babel.finance/article-views.html?id=50)
+* [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
 * [2022-06-17, 09:32:12](https://news.ycombinator.com/item?id=31775941) - [Over 13,000 Vivo phones found to be using same IMEI number (2020)](https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number)
 * [2022-06-17, 09:07:03](https://news.ycombinator.com/item?id=31775772) - [Android Booting Shenanigans](https://topjohnwu.github.io/Magisk/boot.html)
 * [2022-06-17, 08:37:45](https://news.ycombinator.com/item?id=31775580) - [Quantum Algorithm Implementations for Beginners](https://dl.acm.org/doi/10.1145/3517340)
