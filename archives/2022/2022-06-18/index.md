@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 14:40:15](https://news.ycombinator.com/item?id=31790184) - [100% of Long Covid patients have GPCR-autoantibodies](https://iovs.arvojournals.org/article.aspx?articleid=2781044)
 * [2022-06-18, 14:39:24](https://news.ycombinator.com/item?id=31790169) - [Ask HN: Is your company giving you a holiday for Juneteenth?](https://news.ycombinator.com/item?id=31790169)
 * [2022-06-18, 14:20:48](https://news.ycombinator.com/item?id=31790029) - [Bitcoin drops below $20k, Ether cracks $1k – what this means](https://davidgerard.co.uk/blockchain/2022/06/18/bitcoin-drops-below-20000-ether-cracks-1000-what-this-means/)
 * [2022-06-18, 13:57:36](https://news.ycombinator.com/item?id=31789871) - [Is Making Advanced GUI Applications with Godot the Future?](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
@@ -19,6 +20,7 @@
 * [2022-06-18, 11:30:24](https://news.ycombinator.com/item?id=31788923) - [Patreon cuts deep inside creators’ pockets](https://thoughts.jatan.space/p/patreon-cuts-deep)
 * [2022-06-18, 11:27:36](https://news.ycombinator.com/item?id=31788894) - [Apple has a bug in its disk I/O throttling code that affects raw disk copies](https://mjacobson.net/blog/2022-02-throttling.html)
 * [2022-06-18, 11:00:41](https://news.ycombinator.com/item?id=31788762) - [Unusual Trading Activity On The Bitfinex Crypto Exchange](https://twitter.com/Bitfinexed/status/1536360821974089728)
+* [2022-06-18, 10:59:29](https://news.ycombinator.com/item?id=31788756) - [We regret to inform you that your choice of Deathday is no longer available](https://www.nature.com/articles/d41586-022-01437-0)
 * [2022-06-18, 10:58:48](https://news.ycombinator.com/item?id=31788754) - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
 * [2022-06-18, 10:44:14](https://news.ycombinator.com/item?id=31788720) - [International Institute of Not Doing Much](https://www.slowdownnow.org/)
 * [2022-06-18, 10:31:17](https://news.ycombinator.com/item?id=31788684) - [Bitcoin Falls Below $20k](https://www.coindesk.com/price/bitcoin/)
