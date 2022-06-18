@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-18, 18:14:43](https://news.ycombinator.com/item?id=31792336) - [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
+* [2022-06-18, 19:48:25](https://news.ycombinator.com/item?id=31793143) - [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
+* [2022-06-18, 19:34:33](https://news.ycombinator.com/item?id=31793030) - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
 * [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
@@ -28,7 +29,6 @@
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard things to get right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-17, 04:01:21](https://news.ycombinator.com/item?id=31773983) - [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
-* [2022-06-16, 15:21:05](https://news.ycombinator.com/item?id=31767105) - [A Computer Scientist Who Parlays Failures into Breakthroughs](https://www.quantamagazine.org/the-computer-scientist-who-parlays-failures-into-breakthroughs-20220613/)
 * [2022-06-16, 13:46:07](https://news.ycombinator.com/item?id=31765983) - [Mosquito swatter gamer mod with kill counter, sound and rechargeable battery](https://www.instructables.com/Ultimate-Mosquito-Swatter-Mod-for-Gamer-Add-Kill-C/)
 
 ## [Archives](archives/index.md)
