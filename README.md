@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-18, 05:59:23](https://news.ycombinator.com/item?id=31787557) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+* [2022-06-18, 03:50:10](https://news.ycombinator.com/item?id=31787122) - [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [Scott Aaronson will work at OpenAI for a 1 year sabbatical](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [Vale: Fast, safe, and easy programming language](https://vale.dev/)
 * [2022-06-18, 00:50:23](https://news.ycombinator.com/item?id=31786324) - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
@@ -12,7 +13,6 @@
 * [2022-06-17, 22:13:36](https://news.ycombinator.com/item?id=31785084) - [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
 * [2022-06-17, 21:32:52](https://news.ycombinator.com/item?id=31784637) - [Laddering a Chimney [video]](https://www.youtube.com/watch?v=E-a27xwcLfU)
 * [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (YC S20) is hiring in NYC](https://skio.com/careers/)
-* [2022-06-17, 20:12:38](https://news.ycombinator.com/item?id=31783645) - [How to make sense of ancient Greek colours (2020)](http://kiwihellenist.blogspot.com/2020/05/ancient-greek-colours.html)
 * [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [Slope: A hackable hobby programming language](https://slope.colorfield.space/)
 * [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best dev tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
