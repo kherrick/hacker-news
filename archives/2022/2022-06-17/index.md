@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-17](index.md)
 
+* [2022-06-17, 23:51:49](https://news.ycombinator.com/item?id=31785966) - [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
+* [2022-06-17, 23:31:08](https://news.ycombinator.com/item?id=31785817) - [Sim Central Bank, the Explanation](https://benoitessiambre.com/simcb.html)
+* [2022-06-17, 23:01:35](https://news.ycombinator.com/item?id=31785556) - [Fyne, a cross-platform GUI toolkit written in Go](https://fyne.io)
+* [2022-06-17, 22:54:39](https://news.ycombinator.com/item?id=31785507) - [Recently Discovered Drawings for Statue of Liberty Hint at a Last-Minute Change](https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/)
 * [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
 * [2022-06-17, 22:22:05](https://news.ycombinator.com/item?id=31785170) - [The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
 * [2022-06-17, 22:13:36](https://news.ycombinator.com/item?id=31785084) - [Online privacy: to what extent should you try to go dark?](https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should)
+* [2022-06-17, 21:32:52](https://news.ycombinator.com/item?id=31784637) - [Fred Dibnah Laddering a Chimney](https://www.youtube.com/watch?v=E-a27xwcLfU)
 * [2022-06-17, 21:28:55](https://news.ycombinator.com/item?id=31784602) - [Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting](https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841)
 * [2022-06-17, 21:01:16](https://news.ycombinator.com/item?id=31784330) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-06-17, 20:44:11](https://news.ycombinator.com/item?id=31784097) - [The Privatized Internet Has Failed Us](https://slatereport.com/tech/the-privatized-internet-has-failed-us/)
