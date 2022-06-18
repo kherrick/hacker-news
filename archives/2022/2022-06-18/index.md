@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
+* [2022-06-18, 14:49:14](https://news.ycombinator.com/item?id=31790284) - [There Could Be Four Hostile Civilizations in the Milky Way](https://www.universetoday.com/156281/there-could-be-four-hostile-civilizations-in-the-milky-way/)
 * [2022-06-18, 14:40:15](https://news.ycombinator.com/item?id=31790184) - [100% of Long Covid patients have GPCR-autoantibodies](https://iovs.arvojournals.org/article.aspx?articleid=2781044)
 * [2022-06-18, 14:39:24](https://news.ycombinator.com/item?id=31790169) - [Ask HN: Is your company giving you a holiday for Juneteenth?](https://news.ycombinator.com/item?id=31790169)
 * [2022-06-18, 14:20:48](https://news.ycombinator.com/item?id=31790029) - [Bitcoin drops below $20k, Ether cracks $1k – what this means](https://davidgerard.co.uk/blockchain/2022/06/18/bitcoin-drops-below-20000-ether-cracks-1000-what-this-means/)
