@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-18, 20:31:35",
+      "https://news.ycombinator.com/item?id=31793554"
+    ],
+    [
+      "V Language Review (2022)",
+      "https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"
+    ]
+  ],
+  [
+    [
       "2022-06-18, 19:48:25",
       "https://news.ycombinator.com/item?id=31793143"
     ],
@@ -67,16 +77,6 @@
     [
       "Bolt: Faster matrix and vector operations that run on compressed data",
       "https://github.com/dblalock/bolt"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 17:13:48",
-      "https://news.ycombinator.com/item?id=31791790"
-    ],
-    [
-      "The Day The Standard Library Died (2020)",
-      "https://cor3ntin.github.io/posts/abi/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-06-17, 15:17:53",
+      "https://news.ycombinator.com/item?id=31779464"
+    ],
+    [
+      "Software Engineering: The Soft Parts",
+      "https://addyosmani.com/blog/software-engineering-soft-parts/"
+    ]
+  ],
+  [
+    [
       "2022-06-17, 15:09:41",
       "https://news.ycombinator.com/item?id=31779335"
     ],
@@ -267,16 +277,6 @@
     [
       "Adopting Erlang: Hard things to get right (2019)",
       "https://adoptingerlang.org/docs/development/hard_to_get_right/"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 04:01:21",
-      "https://news.ycombinator.com/item?id=31773983"
-    ],
-    [
-      "Realistic one-shot mesh-based head avatars",
-      "https://samsunglabs.github.io/rome/"
     ]
   ],
   [
