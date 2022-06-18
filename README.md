@@ -18,7 +18,7 @@
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [OpenAI](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 00:50:23](https://news.ycombinator.com/item?id=31786324) - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
 * [2022-06-17, 22:24:21](https://news.ycombinator.com/item?id=31785199) - [Show HN: A central bank simulator game with a realistic economic model](https://benoitessiambre.com/macro.html)
-* [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The most satisfying checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
+* [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard Things to Get Right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:27:51](https://news.ycombinator.com/item?id=31774734) - [Keysight UXR 110GHz Oscilloscope Teardown [video] (2018)](https://www.youtube.com/watch?v=DXYje2B04xE)
