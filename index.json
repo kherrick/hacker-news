@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-18, 17:13:48",
+      "https://news.ycombinator.com/item?id=31791790"
+    ],
+    [
+      "It is currently faster to launch PHP to execute a regex than using std:regex",
+      "https://cor3ntin.github.io/posts/abi/"
+    ]
+  ],
+  [
+    [
       "2022-06-18, 17:01:20",
       "https://news.ycombinator.com/item?id=31791670"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2022-06-18, 16:43:23",
+      "https://news.ycombinator.com/item?id=31791483"
+    ],
+    [
+      "The women behind the windows in Amsterdam's red light district (2019)",
+      "https://nordicmodelnow.org/2019/12/27/the-women-behind-the-windows-in-amsterdams-red-light-district/"
+    ]
+  ],
+  [
+    [
       "2022-06-18, 16:39:04",
       "https://news.ycombinator.com/item?id=31791444"
     ],
     [
       "Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology",
       "https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 16:26:53",
-      "https://news.ycombinator.com/item?id=31791324"
-    ],
-    [
-      "Elastic UI – design library in use at Elastic to build internal products",
-      "https://elastic.github.io/eui/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Experts once predicted that Americans would face excess leisure time (2015)",
       "https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 22:24:21",
-      "https://news.ycombinator.com/item?id=31785199"
-    ],
-    [
-      "Show HN: A central bank simulator game with a realistic economic model",
-      "https://benoitessiambre.com/macro.html"
     ]
   ],
   [
