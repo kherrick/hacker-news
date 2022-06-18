@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
+* [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 * [2022-06-18, 12:59:04](https://news.ycombinator.com/item?id=31789435) - [Bitcoin slumps below key $20k threshold](https://www.ft.com/content/97b5a774-d817-4d3b-82b2-6bbe22c3d59b)
 * [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
 * [2022-06-18, 11:39:07](https://news.ycombinator.com/item?id=31788976) - [Jerry Seinfeld Routine written and performed by AI (GPT-3)](https://www.youtube.com/watch?v=1onxri0duN0)
 * [2022-06-18, 11:38:06](https://news.ycombinator.com/item?id=31788967) - [Dan's Tools](https://www.danstools.com/)
+* [2022-06-18, 11:30:24](https://news.ycombinator.com/item?id=31788923) - [Patreon cuts deep inside creators’ pockets](https://thoughts.jatan.space/p/patreon-cuts-deep)
 * [2022-06-18, 11:27:36](https://news.ycombinator.com/item?id=31788894) - [Apple has a bug in its disk I/O throttling code that affects raw disk copies](https://mjacobson.net/blog/2022-02-throttling.html)
 * [2022-06-18, 11:00:41](https://news.ycombinator.com/item?id=31788762) - [Unusual Trading Activity On The Bitfinex Crypto Exchange](https://twitter.com/Bitfinexed/status/1536360821974089728)
 * [2022-06-18, 10:58:48](https://news.ycombinator.com/item?id=31788754) - [SpaceX firings likely violate US labor law, experts say](https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb)
@@ -20,6 +22,7 @@
 * [2022-06-18, 06:51:37](https://news.ycombinator.com/item?id=31787743) - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
 * [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [You Don’t Need to Work So Much](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [2022-06-18, 05:59:23](https://news.ycombinator.com/item?id=31787557) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+* [2022-06-18, 03:50:26](https://news.ycombinator.com/item?id=31787127) - [We’ve only scratched the surface of how bad the crypto crime wave has gotten](https://www.latimes.com/entertainment-arts/story/2022-06-17/la-ent-crypto-crime-wave)
 * [2022-06-18, 03:50:10](https://news.ycombinator.com/item?id=31787122) - [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [Scott Aaronson will work at OpenAI for a 1 year sabbatical](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [Vale is the fast, safe, and easy programming language](https://vale.dev/)
