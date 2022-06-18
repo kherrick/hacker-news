@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-18, 06:51:37](https://news.ycombinator.com/item?id=31787743) - [How Good Is DALL-E Mini at Origami?](https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami)
+* [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [You Don’t Need to Work So Much](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [2022-06-18, 05:59:23](https://news.ycombinator.com/item?id=31787557) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [Scott Aaronson will work at OpenAI for a 1 year sabbatical](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [Vale: Fast, safe, and easy programming language](https://vale.dev/)
@@ -17,7 +18,6 @@
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [Slope: A hackable hobby programming language](https://slope.colorfield.space/)
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien intelligence and the concept of technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The most satisfying checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
-* [2022-06-17, 16:31:54](https://news.ycombinator.com/item?id=31780669) - [Polar bears that can survive without sea ice](https://www.nature.com/articles/d41586-022-01691-2)
 * [2022-06-17, 15:57:54](https://news.ycombinator.com/item?id=31780128) - [CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot](https://github.com/sarsko/CreuSAT)
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
