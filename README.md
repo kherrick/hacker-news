@@ -5,7 +5,6 @@
 * [2022-06-18, 19:34:33](https://news.ycombinator.com/item?id=31793030) - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 * [2022-06-18, 19:09:34](https://news.ycombinator.com/item?id=31792790) - [Because cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
 * [2022-06-18, 18:19:42](https://news.ycombinator.com/item?id=31792373) - [EOS – Emacs Operating System](https://writequit.org/eos/eos.html)
-* [2022-06-18, 18:14:43](https://news.ycombinator.com/item?id=31792336) - [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why are Git submodules so bad?](https://news.ycombinator.com/item?id=31792303)
 * [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [Bolt: Faster matrix and vector operations that run on compressed data](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
@@ -28,6 +27,7 @@
 * [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 * [2022-06-17, 15:09:41](https://news.ycombinator.com/item?id=31779335) - [Rules and Visual Syntax in Praxis](https://toblotron.com/blog/2022/06/17/rules-and-visual-syntax-in-praxis/)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard things to get right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
+* [2022-06-17, 04:01:21](https://news.ycombinator.com/item?id=31773983) - [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
 * [2022-06-16, 13:46:07](https://news.ycombinator.com/item?id=31765983) - [Mosquito swatter gamer mod with kill counter, sound and rechargeable battery](https://www.instructables.com/Ultimate-Mosquito-Swatter-Mod-for-Gamer-Add-Kill-C/)
 
