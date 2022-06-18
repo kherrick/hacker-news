@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 18:42:11](https://news.ycombinator.com/item?id=31792575) - [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
 * [2022-06-18, 17:13:48](https://news.ycombinator.com/item?id=31791790) - [The Day The Standard Library Died (2020)](https://cor3ntin.github.io/posts/abi/)
@@ -13,7 +14,6 @@
 * [2022-06-18, 14:14:53](https://news.ycombinator.com/item?id=31789999) - [The Magnetar, nature’s ultimate superweapon](https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/)
 * [2022-06-18, 14:14:28](https://news.ycombinator.com/item?id=31789998) - [Microsoft and Meta join Google in using AI to help run their data centers](https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/)
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
-* [2022-06-18, 13:17:10](https://news.ycombinator.com/item?id=31789560) - [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
 * [2022-06-18, 13:06:37](https://news.ycombinator.com/item?id=31789489) - [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
 * [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the origin of eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
 * [2022-06-18, 11:30:24](https://news.ycombinator.com/item?id=31788923) - [Patreon cuts deep inside creators’ pockets](https://thoughts.jatan.space/p/patreon-cuts-deep)
