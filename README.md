@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-18, 08:04:55](https://news.ycombinator.com/item?id=31788062) - [Bitcoin Falls Below $20k for the First Time Since 2020](https://www.bloomberg.com/news/articles/2022-06-18/bitcoin-breaches-20-000-for-the-first-time-since-2020-l4jjjy7z)
 * [2022-06-18, 06:13:25](https://news.ycombinator.com/item?id=31787599) - [Experts once predicted that Americans would face excess leisure time (2015)](https://www.newyorker.com/news/daily-comment/you-really-dont-need-to-work-so-much)
 * [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [OpenAI](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [The Vale Programming Language](https://vale.dev/)
@@ -21,6 +20,7 @@
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
 * [2022-06-17, 07:39:40](https://news.ycombinator.com/item?id=31775216) - [Ante: A low-level functional language](https://antelang.org/)
 * [2022-06-17, 06:27:51](https://news.ycombinator.com/item?id=31774734) - [Keysight UXR 110GHz Oscilloscope Teardown [video]](https://www.youtube.com/watch?v=DXYje2B04xE)
+* [2022-06-17, 04:01:21](https://news.ycombinator.com/item?id=31773983) - [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)
 * [2022-06-16, 21:51:59](https://news.ycombinator.com/item?id=31771441) - [Pairing teams, algorithms, and long Tuesday away trips](https://theathletic.com/3358976/2022/06/12/premier-league-fixtures-computer/)
 * [2022-06-16, 19:15:18](https://news.ycombinator.com/item?id=31769803) - [Moth wing–inspired sound absorbing wallpaper in sight after breakthrough](https://phys.org/news/2022-06-moth-winginspired-absorbing-wallpaper-sight.html)
 * [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
