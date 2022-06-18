@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-18, 03:27:41](https://news.ycombinator.com/item?id=31787038) - [Scott Aaronson will work at OpenAI for a 1 year sabbatical](https://scottaaronson.blog/?p=6484)
 * [2022-06-18, 01:19:59](https://news.ycombinator.com/item?id=31786487) - [Vale: Fast, safe, and easy programming language](https://vale.dev/)
 * [2022-06-18, 00:50:23](https://news.ycombinator.com/item?id=31786324) - [Show HN: Unsubscan – Free and offline mailing list unsubscription tool](https://github.com/LGUG2Z/unsubscan)
 * [2022-06-17, 23:51:49](https://news.ycombinator.com/item?id=31785966) - [Littr – Link aggregator inspired by Reddit and HN using ActivityPub federation](https://littr.me/)
@@ -13,7 +14,6 @@
 * [2022-06-17, 20:12:38](https://news.ycombinator.com/item?id=31783645) - [How to make sense of ancient Greek colours (2020)](http://kiwihellenist.blogspot.com/2020/05/ancient-greek-colours.html)
 * [2022-06-17, 19:20:30](https://news.ycombinator.com/item?id=31783019) - [Parallel Search Speeds Up Time Travel Debugging by 4x](https://undo.io/resources/parallel-search-speeds-time-travel-debugging-4x/)
 * [2022-06-17, 19:17:13](https://news.ycombinator.com/item?id=31782985) - [Slope: A hackable hobby programming language](https://slope.colorfield.space/)
-* [2022-06-17, 19:16:02](https://news.ycombinator.com/item?id=31782971) - [Let's build an end-to-end encrypted data store](https://bulwark.id/blog/vault/)
 * [2022-06-17, 18:18:41](https://news.ycombinator.com/item?id=31782200) - [Ask HN: Best dev tool pitches of all time?](https://news.ycombinator.com/item?id=31782200)
 * [2022-06-17, 17:13:09](https://news.ycombinator.com/item?id=31781234) - [Alien intelligence and the concept of technology](https://writings.stephenwolfram.com/2022/06/alien-intelligence-and-the-concept-of-technology/)
 * [2022-06-17, 17:01:57](https://news.ycombinator.com/item?id=31781110) - [The most satisfying checkbox](https://www.andy.works/words/the-most-satisfying-checkbox)
