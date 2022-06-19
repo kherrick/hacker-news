@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-19, 20:01:05",
-      "https://news.ycombinator.com/item?id=31802840"
-    ],
-    [
-      "Solend DAO passes proposal to take over the account of a large holder",
-      "https://web3isgoinggreat.com/?id=solend-dao-passes-proposal-to-take-over-the-account-of-a-large-holder-with-a-position-that-poses-systemic-risk"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 19:46:29",
       "https://news.ycombinator.com/item?id=31802701"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31802600"
     ],
     [
-      "Solend just seized $170MM of user funds to prevent a decrease in Solana's price",
+      "Solend seized $170M of user funds",
       "https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31801947"
     ],
     [
-      "The Great Cloudwall – Stop Cloudflare",
+      "The Great Cloudwall",
       "https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md"
     ]
   ],
@@ -67,16 +57,6 @@
     [
       "Advancing the state of the art for std:unordered_map implementations",
       "http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 17:32:58",
-      "https://news.ycombinator.com/item?id=31801462"
-    ],
-    [
-      "“Google” programmers. How one idiot hired a couple more idiots",
-      "https://pvs-studio.com/en/blog/posts/0952/"
     ]
   ],
   [
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31801093"
     ],
     [
-      "Why Webcams Aren't Good Enough",
+      "Webcams aren't good enough",
       "https://reincubate.com/support/how-to/why-are-webcams-bad/"
     ]
   ],
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31800684"
     ],
     [
-      "The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses",
+      "The brain has a ‘low-power mode’ that blunts our senses",
       "https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/"
     ]
   ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2022-06-19, 08:15:41",
+      "https://news.ycombinator.com/item?id=31797336"
+    ],
+    [
+      "Don't be that open-source user, don't be me",
+      "https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 07:30:40",
       "https://news.ycombinator.com/item?id=31797073"
     ],
     [
       "Running systemd without systemd-journald",
       "https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 14:51:15",
+      "https://news.ycombinator.com/item?id=31790297"
+    ],
+    [
+      "How Ice Cream Became the Ultimate American Comfort Food",
+      "https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-17, 23:13:21",
-      "https://news.ycombinator.com/item?id=31785659"
+      "2022-06-17, 05:42:56",
+      "https://news.ycombinator.com/item?id=31774485"
     ],
     [
-      "Ancient Roman soldier carved a phallus with a personal insult in this stone",
-      "https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/"
+      "Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry",
+      "https://neurosciencenews.com/outgroup-aggression-reward-20847/"
     ]
   ]
 ]
