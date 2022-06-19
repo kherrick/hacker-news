@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 01:58:06](https://news.ycombinator.com/item?id=31795449) - [Bitcoin’s nosedive through the $20k mark is a Minsky Moment for crypto](https://www.marketwatch.com/story/bitcoins-nosedive-through-the-20-000-mark-is-a-minsky-moment-for-crypto-psychologically-for-a-lot-of-people-this-is-galling-11655591456)
 * [2022-06-19, 01:50:53](https://news.ycombinator.com/item?id=31795420) - [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
-* [2022-06-19, 00:56:30](https://news.ycombinator.com/item?id=31795192) - [Diablo Immortal Rift Simulator](https://dimi777.github.io/diablo-rift-simulator/)
-* [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+* [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
+* [2022-06-18, 23:05:40](https://news.ycombinator.com/item?id=31794617) - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
+* [2022-06-18, 22:45:51](https://news.ycombinator.com/item?id=31794481) - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 * [2022-06-18, 20:31:35](https://news.ycombinator.com/item?id=31793554) - [V Language Review](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 * [2022-06-18, 19:48:25](https://news.ycombinator.com/item?id=31793143) - [Breaking our Latin-1 assumptions (2017)](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 * [2022-06-18, 19:34:33](https://news.ycombinator.com/item?id=31793030) - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
@@ -19,10 +19,9 @@
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 * [2022-06-18, 13:06:37](https://news.ycombinator.com/item?id=31789489) - [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
 * [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the origin of eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
-* [2022-06-18, 11:30:24](https://news.ycombinator.com/item?id=31788923) - [Patreon cuts deep inside creators’ pockets](https://thoughts.jatan.space/p/patreon-cuts-deep)
-* [2022-06-18, 11:27:36](https://news.ycombinator.com/item?id=31788894) - [Apple has a bug in its disk I/O throttling code that affects raw disk copies](https://mjacobson.net/blog/2022-02-throttling.html)
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How not to teach recursion (2021)](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
+* [2022-06-17, 17:31:26](https://news.ycombinator.com/item?id=31781493) - [A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day](https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
 * [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 15:50:28](https://news.ycombinator.com/item?id=31779995) - [Switch to VPC Endpoints from Nat Gateways to Reduce Bandwidth Charges](https://www.vantage.sh/blog/nat-gateway-vpc-endpoint-savings)
@@ -30,6 +29,7 @@
 * [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 * [2022-06-17, 00:12:35](https://news.ycombinator.com/item?id=31772558) - [The Westinghouse Total Electric Home (1960) [video]](https://www.youtube.com/watch?v=jyrTgtPTz3M)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
+* [2022-06-16, 11:06:36](https://news.ycombinator.com/item?id=31764629) - [Armchair Science](https://aeon.co/essays/do-thought-experiments-really-uncover-new-scientific-truths)
 
 ## [Archives](archives/index.md)
 

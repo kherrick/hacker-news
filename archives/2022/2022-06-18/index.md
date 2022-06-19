@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-06-18](index.md)
 
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
+* [2022-06-18, 23:05:40](https://news.ycombinator.com/item?id=31794617) - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
+* [2022-06-18, 22:45:51](https://news.ycombinator.com/item?id=31794481) - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 * [2022-06-18, 21:56:12](https://news.ycombinator.com/item?id=31794175) - [Show HN: I have created something new to make your browsing experience enjoyable](https://productivitytoolset.com)
 * [2022-06-18, 20:31:35](https://news.ycombinator.com/item?id=31793554) - [V Language Review (2022)](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 * [2022-06-18, 19:48:25](https://news.ycombinator.com/item?id=31793143) - [Breaking our Latin-1 assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
