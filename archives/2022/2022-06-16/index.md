@@ -43,6 +43,7 @@
 * [2022-06-16, 15:21:05](https://news.ycombinator.com/item?id=31767105) - [A Computer Scientist Who Parlays Failures into Breakthroughs](https://www.quantamagazine.org/the-computer-scientist-who-parlays-failures-into-breakthroughs-20220613/)
 * [2022-06-16, 15:06:29](https://news.ycombinator.com/item?id=31766909) - [How a generation lost its common culture](https://www.mindingthecampus.org/2016/02/02/how-a-generation-lost-its-common-culture/)
 * [2022-06-16, 14:58:00](https://news.ycombinator.com/item?id=31766804) - [Physicists link two time crystals in seemingly impossible experiment](https://www.space.com/time-crystals-linked)
+* [2022-06-16, 14:41:02](https://news.ycombinator.com/item?id=31766609) - [Secure Messaging Apps and Group Protocols, Part 2](https://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html)
 * [2022-06-16, 14:15:19](https://news.ycombinator.com/item?id=31766285) - [Why I'm now making drugs for cats (and you should too)](https://trevorklee.substack.com/p/why-im-now-making-drugs-for-cats)
 * [2022-06-16, 14:04:12](https://news.ycombinator.com/item?id=31766179) - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 * [2022-06-16, 13:46:28](https://news.ycombinator.com/item?id=31765986) - [Ask HN: Why don’t restaurants have tables with androids that you can talk to?](https://news.ycombinator.com/item?id=31765986)
