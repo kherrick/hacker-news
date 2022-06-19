@@ -8,6 +8,7 @@
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
 * [2022-06-19, 19:35:34](https://news.ycombinator.com/item?id=31802600) - [Solana just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+* [2022-06-19, 19:10:51](https://news.ycombinator.com/item?id=31802384) - [Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port](https://github.com/necroware/gameport-adapter)
 * [2022-06-19, 19:04:26](https://news.ycombinator.com/item?id=31802327) - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 * [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
 * [2022-06-19, 18:26:18](https://news.ycombinator.com/item?id=31801947) - [The Great Cloudwall – Stop Cloudflare](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
