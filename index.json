@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2022-06-19, 08:01:07",
+      "https://news.ycombinator.com/item?id=31797251"
+    ],
+    [
+      "Type-ish – A runtime type checker for bash, in bash",
+      "https://github.com/Mythra/typeish"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 07:54:13",
       "https://news.ycombinator.com/item?id=31797222"
     ],
     [
-      "House Address “Twins” Proximity",
+      "House Address “Twins” Proximity (2017)",
       "http://www.paulplowman.com/stuff/house-address-twins-proximity/"
     ]
   ],
@@ -77,26 +87,6 @@
     [
       "Redis vs. KeyDB vs. Dragonfly vs. Skytable",
       "https://news.ycombinator.com/item?id=31796311"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 04:48:59",
-      "https://news.ycombinator.com/item?id=31796256"
-    ],
-    [
-      "Ask HN: Feel bad about working in crypto, what to do?",
-      "https://news.ycombinator.com/item?id=31796256"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 04:46:22",
-      "https://news.ycombinator.com/item?id=31796239"
-    ],
-    [
-      "Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining",
-      "https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/"
     ]
   ],
   [
@@ -141,22 +131,12 @@
   ],
   [
     [
-      "2022-06-18, 19:48:25",
-      "https://news.ycombinator.com/item?id=31793143"
+      "2022-06-18, 20:31:35",
+      "https://news.ycombinator.com/item?id=31793554"
     ],
     [
-      "Breaking our Latin-1 assumptions (2017)",
-      "https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 19:34:33",
-      "https://news.ycombinator.com/item?id=31793030"
-    ],
-    [
-      "Cold Showers",
-      "https://github.com/hwayne/awesome-cold-showers"
+      "V Language Review",
+      "https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"
     ]
   ],
   [
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2022-06-18, 16:16:14",
+      "https://news.ycombinator.com/item?id=31791214"
+    ],
+    [
+      "The dissolution of Apple’s legacy design team",
+      "https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team"
+    ]
+  ],
+  [
+    [
       "2022-06-18, 12:59:08",
       "https://news.ycombinator.com/item?id=31789436"
     ],
     [
       "Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction",
       "https://github.com/nicolay-r/ARElight"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 03:58:58",
+      "https://news.ycombinator.com/item?id=31787163"
+    ],
+    [
+      "Intel’s Netburst: Failure Is a Foundation for Success",
+      "https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-06-17, 18:01:05",
+      "https://news.ycombinator.com/item?id=31781946"
+    ],
+    [
+      "In Defense of Polonius",
+      "https://daily.jstor.org/in-defense-of-polonius/"
+    ]
+  ],
+  [
+    [
       "2022-06-17, 17:31:23",
       "https://news.ycombinator.com/item?id=31781491"
     ],
@@ -237,16 +247,6 @@
     [
       "Voyager spacecraft begin to power down",
       "https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 15:17:53",
-      "https://news.ycombinator.com/item?id=31779464"
-    ],
-    [
-      "Software Engineering: The Soft Parts",
-      "https://addyosmani.com/blog/software-engineering-soft-parts/"
     ]
   ],
   [
