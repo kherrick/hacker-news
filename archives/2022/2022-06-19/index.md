@@ -48,3 +48,4 @@
 * [2022-06-19, 01:50:53](https://news.ycombinator.com/item?id=31795420) - [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
 * [2022-06-19, 00:56:30](https://news.ycombinator.com/item?id=31795192) - [Diablo Immortal Rift Simulator](https://dimi777.github.io/diablo-rift-simulator/)
 * [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+* [2022-06-19, 00:28:31](https://news.ycombinator.com/item?id=31795064) - [A pilot’s paean to the great cities of the world](https://www.ft.com/content/31e6ff4c-37e9-441b-a0c4-82b021829d25)
