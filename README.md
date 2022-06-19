@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
+* [2022-06-19, 13:16:09](https://news.ycombinator.com/item?id=31799055) - [Most Beautiful Abandoned Places](https://www.housebeautiful.com/design-inspiration/g2698/beautiful-abandoned-places/)
 * [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of moderate alcohol on fasting insulin and insulin sensitivity (2002)](https://jamanetwork.com/journals/jama/fullarticle/194914)
 * [2022-06-19, 13:02:33](https://news.ycombinator.com/item?id=31798938) - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
 * [2022-06-19, 12:30:19](https://news.ycombinator.com/item?id=31798690) - [We asked teachers how their year went. They warned of an exodus to come](https://text.npr.org/1105655954)
 * [2022-06-19, 12:12:10](https://news.ycombinator.com/item?id=31798580) - [Software Disenchantment (2018)](https://tonsky.me/blog/disenchantment/)
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
-* [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 * [2022-06-19, 11:34:14](https://news.ycombinator.com/item?id=31798362) - [Talos Linux](https://www.talos.dev/)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 10:21:07](https://news.ycombinator.com/item?id=31798006) - [Why modern Linux console is slower than 10 years ago](https://utcc.utoronto.ca/~cks/space/blog/linux/TextAndFramebufferConsoles)
@@ -26,8 +27,7 @@
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
 * [2022-06-17, 19:13:35](https://news.ycombinator.com/item?id=31782944) - [Pocket Globes: The Whole World in Your Hand](https://blogs.loc.gov/loc/2022/05/pocket-globes-the-whole-world-in-your-hands/)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
-* [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
-* [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘Outgroup’ Linked to Elevated Activity in the Brain Reward Circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
+* [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
 * [2022-06-16, 19:04:50](https://news.ycombinator.com/item?id=31769699) - [Mold/macOS is 11 times faster than the Apple's default linker to link Chrome](https://twitter.com/rui314/status/1537279524341432320)
 * [2022-06-16, 14:41:02](https://news.ycombinator.com/item?id=31766609) - [Secure Messaging Apps and Group Protocols, Part 2](https://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html)
 

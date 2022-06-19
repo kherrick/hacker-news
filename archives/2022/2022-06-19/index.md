@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
+* [2022-06-19, 13:16:09](https://news.ycombinator.com/item?id=31799055) - [Most Beautiful Abandoned Places](https://www.housebeautiful.com/design-inspiration/g2698/beautiful-abandoned-places/)
 * [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of Moderate Alcohol Intake on Fasting Insulin and Insulin Sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
 * [2022-06-19, 13:02:33](https://news.ycombinator.com/item?id=31798938) - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
 * [2022-06-19, 13:02:18](https://news.ycombinator.com/item?id=31798936) - [The following RegEx is sentient](https://old.reddit.com/r/ProgrammerHumor/comments/vfomp4/some_google_engineer_probably/)
