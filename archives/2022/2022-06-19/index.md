@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 21:26:36](https://news.ycombinator.com/item?id=31803675) - [Google Insider Claims Company's “Sentient” AI Has Hired an Attorney](https://futurism.com/the-byte/google-insider-ai-lawyer)
+* [2022-06-19, 21:16:45](https://news.ycombinator.com/item?id=31803593) - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
 * [2022-06-19, 20:01:05](https://news.ycombinator.com/item?id=31802840) - [Solend DAO passes proposal to take over the account of a large holder](https://web3isgoinggreat.com/?id=solend-dao-passes-proposal-to-take-over-the-account-of-a-large-holder-with-a-position-that-poses-systemic-risk)
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
