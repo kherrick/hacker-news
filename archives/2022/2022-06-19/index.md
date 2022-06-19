@@ -9,6 +9,7 @@
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
 * [2022-06-19, 15:37:46](https://news.ycombinator.com/item?id=31800340) - [We ended up with the 'Pregnant Man' Emoji](https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji)
 * [2022-06-19, 15:14:52](https://news.ycombinator.com/item?id=31800144) - [Tell HN: Happy Fathers’ Day](https://news.ycombinator.com/item?id=31800144)
+* [2022-06-19, 15:12:39](https://news.ycombinator.com/item?id=31800127) - [Making the Master System a master of speech](https://nicole.express/2022/let-me-show-you-the-sound-of-my-master.html)
 * [2022-06-19, 15:06:41](https://news.ycombinator.com/item?id=31800081) - [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
 * [2022-06-19, 14:51:01](https://news.ycombinator.com/item?id=31799922) - [Apple’s macOS Ventura – 7 New Security Changes to Be Aware Of](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
 * [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
