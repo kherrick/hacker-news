@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 18:12:26](https://news.ycombinator.com/item?id=31801814) - [Advancing the state of the art for std:unordered_map implementations](http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html)
 * [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
 * [2022-06-19, 17:08:25](https://news.ycombinator.com/item?id=31801191) - [I'm a ex-Google SWE that's coached 300 through the FAANG interview process. AMA](https://news.ycombinator.com/item?id=31801191)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
