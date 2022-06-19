@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
-* [2022-06-19, 17:08:25](https://news.ycombinator.com/item?id=31801191) - [I'm a ex-Google SWE that's coached 300 through the FAANG interview process. AMA](https://news.ycombinator.com/item?id=31801191)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Why Webcams Aren't Good Enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
@@ -26,6 +25,7 @@
 * [2022-06-19, 07:54:13](https://news.ycombinator.com/item?id=31797222) - [House Address “Twins” Proximity (2017)](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+* [2022-06-19, 00:28:31](https://news.ycombinator.com/item?id=31795064) - [A pilot’s paean to the great cities of the world](https://www.ft.com/content/31e6ff4c-37e9-441b-a0c4-82b021829d25)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
 * [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
