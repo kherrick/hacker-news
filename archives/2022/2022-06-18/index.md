@@ -28,6 +28,7 @@
 * [2022-06-18, 15:52:32](https://news.ycombinator.com/item?id=31790978) - [How the Ballpoint Pen Killed Cursive](https://www.theatlantic.com/technology/archive/2015/08/ballpoint-pens-object-lesson-history-handwriting/402205/)
 * [2022-06-18, 15:28:54](https://news.ycombinator.com/item?id=31790698) - [Why do we all fall for AI-generated language?](https://twitter.com/maurice_jks/status/1537814372462039043)
 * [2022-06-18, 14:49:14](https://news.ycombinator.com/item?id=31790284) - [There Could Be Four Hostile Civilizations in the Milky Way](https://www.universetoday.com/156281/there-could-be-four-hostile-civilizations-in-the-milky-way/)
+* [2022-06-18, 14:46:11](https://news.ycombinator.com/item?id=31790262) - [HAL/S Syntax](https://en.wikipedia.org/wiki/HAL/S)
 * [2022-06-18, 14:40:15](https://news.ycombinator.com/item?id=31790184) - [100% of Long Covid patients have GPCR-autoantibodies](https://iovs.arvojournals.org/article.aspx?articleid=2781044)
 * [2022-06-18, 14:39:24](https://news.ycombinator.com/item?id=31790169) - [Ask HN: Is your company giving you a holiday for Juneteenth?](https://news.ycombinator.com/item?id=31790169)
 * [2022-06-18, 14:38:55](https://news.ycombinator.com/item?id=31790162) - [The Simplex Solution: Why it works so well](https://www.technologyreview.com/2003/06/01/101881/the-simplex-solution/)
