@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 09:22:36](https://news.ycombinator.com/item?id=31797686) - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
 * [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
 * [2022-06-19, 08:49:28](https://news.ycombinator.com/item?id=31797518) - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 * [2022-06-19, 08:15:41](https://news.ycombinator.com/item?id=31797336) - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)

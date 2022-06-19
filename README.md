@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 09:22:36](https://news.ycombinator.com/item?id=31797686) - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
 * [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
 * [2022-06-19, 08:49:28](https://news.ycombinator.com/item?id=31797518) - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 * [2022-06-19, 08:15:41](https://news.ycombinator.com/item?id=31797336) - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
@@ -13,7 +14,6 @@
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound)
 * [2022-06-18, 23:05:40](https://news.ycombinator.com/item?id=31794617) - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
 * [2022-06-18, 22:45:51](https://news.ycombinator.com/item?id=31794481) - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
-* [2022-06-18, 20:31:35](https://news.ycombinator.com/item?id=31793554) - [V Language Review](https://mawfig.github.io/2022/06/18/v-lang-in-2022.html)
 * [2022-06-18, 19:48:25](https://news.ycombinator.com/item?id=31793143) - [Breaking our Latin-1 assumptions (2017)](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 * [2022-06-18, 19:34:33](https://news.ycombinator.com/item?id=31793030) - [Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 * [2022-06-18, 19:09:34](https://news.ycombinator.com/item?id=31792790) - [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
