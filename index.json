@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-19, 09:05:26",
+      "https://news.ycombinator.com/item?id=31797587"
+    ],
+    [
+      "How we wound up with Linux's kernel mode setting ('KMS')",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 08:49:28",
       "https://news.ycombinator.com/item?id=31797518"
     ],
@@ -227,16 +237,6 @@
     [
       "Meat made from recycled carbon dioxide",
       "https://neo.life/2022/06/pulling-steaks-out-of-thin-air/"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 15:50:28",
-      "https://news.ycombinator.com/item?id=31779995"
-    ],
-    [
-      "Switch to VPC Endpoints from Nat Gateways to Reduce Bandwidth Charges",
-      "https://www.vantage.sh/blog/nat-gateway-vpc-endpoint-savings"
     ]
   ],
   [
