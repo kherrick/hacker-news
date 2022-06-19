@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-19, 01:58:06",
-      "https://news.ycombinator.com/item?id=31795449"
-    ],
-    [
-      "Bitcoin’s nosedive through the $20k mark is a Minsky Moment for crypto",
-      "https://www.marketwatch.com/story/bitcoins-nosedive-through-the-20-000-mark-is-a-minsky-moment-for-crypto-psychologically-for-a-lot-of-people-this-is-galling-11655591456"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 01:50:53",
       "https://news.ycombinator.com/item?id=31795420"
     ],
@@ -21,21 +11,11 @@
   ],
   [
     [
-      "2022-06-19, 00:56:30",
-      "https://news.ycombinator.com/item?id=31795192"
-    ],
-    [
-      "Diablo Immortal Rift Simulator",
-      "https://dimi777.github.io/diablo-rift-simulator/"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 00:49:39",
       "https://news.ycombinator.com/item?id=31795160"
     ],
     [
-      "Don't Use Kubernetes, Yet",
+      "Don't use Kubernetes yet",
       "https://matt-rickard.com/dont-use-kubernetes-yet/"
     ]
   ],
@@ -47,6 +27,26 @@
     [
       "Citybound – city building game using actor-based distributed simulation",
       "https://aeplay.org/citybound"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 23:05:40",
+      "https://news.ycombinator.com/item?id=31794617"
+    ],
+    [
+      "Rust advocacy at a medium-sized startup",
+      "https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 22:45:51",
+      "https://news.ycombinator.com/item?id=31794481"
+    ],
+    [
+      "Show HN: Control your Hyundai car with Python",
+      "https://github.com/synchronizing/bluelink"
     ]
   ],
   [
@@ -191,26 +191,6 @@
   ],
   [
     [
-      "2022-06-18, 11:30:24",
-      "https://news.ycombinator.com/item?id=31788923"
-    ],
-    [
-      "Patreon cuts deep inside creators’ pockets",
-      "https://thoughts.jatan.space/p/patreon-cuts-deep"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 11:27:36",
-      "https://news.ycombinator.com/item?id=31788894"
-    ],
-    [
-      "Apple has a bug in its disk I/O throttling code that affects raw disk copies",
-      "https://mjacobson.net/blog/2022-02-throttling.html"
-    ]
-  ],
-  [
-    [
       "2022-06-17, 18:36:56",
       "https://news.ycombinator.com/item?id=31782461"
     ],
@@ -227,6 +207,16 @@
     [
       "How not to teach recursion (2021)",
       "https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 17:31:26",
+      "https://news.ycombinator.com/item?id=31781493"
+    ],
+    [
+      "A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day",
+      "https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "SHRDLU",
       "https://hci.stanford.edu/~winograd/shrdlu/"
+    ]
+  ],
+  [
+    [
+      "2022-06-16, 11:06:36",
+      "https://news.ycombinator.com/item?id=31764629"
+    ],
+    [
+      "Armchair Science",
+      "https://aeon.co/essays/do-thought-experiments-really-uncover-new-scientific-truths"
     ]
   ]
 ]
