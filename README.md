@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 13:37:01](https://news.ycombinator.com/item?id=31799243) - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
 * [2022-06-19, 13:16:09](https://news.ycombinator.com/item?id=31799055) - [Most Beautiful Abandoned Places](https://www.housebeautiful.com/design-inspiration/g2698/beautiful-abandoned-places/)
 * [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of moderate alcohol on fasting insulin and insulin sensitivity (2002)](https://jamanetwork.com/journals/jama/fullarticle/194914)
@@ -25,7 +26,6 @@
 * [2022-06-18, 12:59:08](https://news.ycombinator.com/item?id=31789436) - [Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction](https://github.com/nicolay-r/ARElight)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
-* [2022-06-17, 19:13:35](https://news.ycombinator.com/item?id=31782944) - [Pocket Globes: The Whole World in Your Hand](https://blogs.loc.gov/loc/2022/05/pocket-globes-the-whole-world-in-your-hands/)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
 * [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
 * [2022-06-16, 19:04:50](https://news.ycombinator.com/item?id=31769699) - [Mold/macOS is 11 times faster than the Apple's default linker to link Chrome](https://twitter.com/rui314/status/1537279524341432320)

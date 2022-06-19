@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 13:37:01](https://news.ycombinator.com/item?id=31799243) - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
 * [2022-06-19, 13:16:09](https://news.ycombinator.com/item?id=31799055) - [Most Beautiful Abandoned Places](https://www.housebeautiful.com/design-inspiration/g2698/beautiful-abandoned-places/)
 * [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of Moderate Alcohol Intake on Fasting Insulin and Insulin Sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
