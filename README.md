@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 22:52:25](https://news.ycombinator.com/item?id=31804303) - [Ask HN: Do you upvote direct replies?](https://news.ycombinator.com/item?id=31804303)
 * [2022-06-19, 21:16:45](https://news.ycombinator.com/item?id=31803593) - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
@@ -25,10 +26,9 @@
 * [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
 * [2022-06-19, 08:49:28](https://news.ycombinator.com/item?id=31797518) - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 * [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
-* [2022-06-19, 08:11:04](https://news.ycombinator.com/item?id=31797304) - [Sufficiently Advanced Testing (2019)](https://zhd.dev/sufficiently/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
-* [2022-06-18, 14:51:15](https://news.ycombinator.com/item?id=31790297) - [How Ice Cream Became the Ultimate American Comfort Food](https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history)
 * [2022-06-18, 14:46:11](https://news.ycombinator.com/item?id=31790262) - [HAL/S Syntax](https://en.wikipedia.org/wiki/HAL/S)
+* [2022-06-18, 14:44:05](https://news.ycombinator.com/item?id=31790237) - [Reflections on Trusting Trust [pdf]](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
 
 ## [Archives](archives/index.md)
