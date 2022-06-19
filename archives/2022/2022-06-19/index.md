@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
 * [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
+* [2022-06-19, 17:08:25](https://news.ycombinator.com/item?id=31801191) - [I'm a ex-Google SWE that's coached 300 through the FAANG interview process. AMA](https://news.ycombinator.com/item?id=31801191)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Why Webcams Aren't Good Enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:28:42](https://news.ycombinator.com/item?id=31800791) - [I visited a friend who is watching Breaking Bad. Now clips appear on my YouTube?](https://news.ycombinator.com/item?id=31800791)
