@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 21:26:36](https://news.ycombinator.com/item?id=31803675) - [Google Insider Claims Company's “Sentient” AI Has Hired an Attorney](https://futurism.com/the-byte/google-insider-ai-lawyer)
 * [2022-06-19, 21:16:45](https://news.ycombinator.com/item?id=31803593) - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
@@ -19,6 +18,7 @@
 * [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
 * [2022-06-19, 12:12:10](https://news.ycombinator.com/item?id=31798580) - [Software Disenchantment (2018)](https://tonsky.me/blog/disenchantment/)
+* [2022-06-19, 11:34:14](https://news.ycombinator.com/item?id=31798362) - [Talos Linux](https://www.talos.dev/)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 10:21:07](https://news.ycombinator.com/item?id=31798006) - [Text consoles and framebuffer consoles in Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/TextAndFramebufferConsoles)
 * [2022-06-19, 09:56:29](https://news.ycombinator.com/item?id=31797892) - [Early Access to Chrome OS Flex: The Upgrade PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chrome-os-flex)
