@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
 * [2022-06-19, 19:35:34](https://news.ycombinator.com/item?id=31802600) - [Solend seized $170M of user funds](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
 * [2022-06-19, 19:04:26](https://news.ycombinator.com/item?id=31802327) - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 * [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
 * [2022-06-19, 18:26:18](https://news.ycombinator.com/item?id=31801947) - [The Great Cloudwall](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
 * [2022-06-19, 18:12:26](https://news.ycombinator.com/item?id=31801814) - [Advancing the state of the art for std:unordered_map implementations](http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html)
+* [2022-06-19, 17:47:56](https://news.ycombinator.com/item?id=31801590) - [Show HN: Mabel – a fancy BitTorrent client for the terminal](https://github.com/smmr-software/mabel)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The brain has a ‘low-power mode’ that blunts our senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
@@ -24,12 +26,10 @@
 * [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
 * [2022-06-19, 08:49:28](https://news.ycombinator.com/item?id=31797518) - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 * [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
-* [2022-06-19, 08:15:41](https://news.ycombinator.com/item?id=31797336) - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
 * [2022-06-18, 14:51:15](https://news.ycombinator.com/item?id=31790297) - [How Ice Cream Became the Ultimate American Comfort Food](https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history)
 * [2022-06-18, 14:46:11](https://news.ycombinator.com/item?id=31790262) - [HAL/S Syntax](https://en.wikipedia.org/wiki/HAL/S)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
-* [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
 
 ## [Archives](archives/index.md)
 
