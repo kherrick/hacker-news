@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 20:01:05](https://news.ycombinator.com/item?id=31802840) - [Solend DAO passes proposal to take over the account of a large holder](https://web3isgoinggreat.com/?id=solend-dao-passes-proposal-to-take-over-the-account-of-a-large-holder-with-a-position-that-poses-systemic-risk)
+* [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
 * [2022-06-19, 19:35:34](https://news.ycombinator.com/item?id=31802600) - [Solana just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
 * [2022-06-19, 19:04:26](https://news.ycombinator.com/item?id=31802327) - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 * [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 19:35:34](https://news.ycombinator.com/item?id=31802600) - [Solana just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+* [2022-06-19, 20:01:05](https://news.ycombinator.com/item?id=31802840) - [Solend DAO passes proposal to take over the account of a large holder](https://web3isgoinggreat.com/?id=solend-dao-passes-proposal-to-take-over-the-account-of-a-large-holder-with-a-position-that-poses-systemic-risk)
+* [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
+* [2022-06-19, 19:35:34](https://news.ycombinator.com/item?id=31802600) - [Solend just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
 * [2022-06-19, 19:04:26](https://news.ycombinator.com/item?id=31802327) - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 * [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
 * [2022-06-19, 18:26:18](https://news.ycombinator.com/item?id=31801947) - [The Great Cloudwall – Stop Cloudflare](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
@@ -14,7 +16,6 @@
 * [2022-06-19, 14:51:01](https://news.ycombinator.com/item?id=31799922) - [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
 * [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 * [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
-* [2022-06-19, 13:37:01](https://news.ycombinator.com/item?id=31799243) - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
 * [2022-06-19, 12:12:10](https://news.ycombinator.com/item?id=31798580) - [Software Disenchantment (2018)](https://tonsky.me/blog/disenchantment/)
 * [2022-06-19, 11:34:14](https://news.ycombinator.com/item?id=31798362) - [Talos Linux](https://www.talos.dev/)
@@ -23,13 +24,12 @@
 * [2022-06-19, 09:56:29](https://news.ycombinator.com/item?id=31797892) - [Early Access to Chrome OS Flex: The Upgrade PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chrome-os-flex)
 * [2022-06-19, 09:22:36](https://news.ycombinator.com/item?id=31797686) - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
 * [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
+* [2022-06-19, 08:49:28](https://news.ycombinator.com/item?id=31797518) - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 * [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
-* [2022-06-19, 08:15:41](https://news.ycombinator.com/item?id=31797336) - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
 * [2022-06-18, 14:46:11](https://news.ycombinator.com/item?id=31790262) - [HAL/S Syntax](https://en.wikipedia.org/wiki/HAL/S)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
-* [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
 
 ## [Archives](archives/index.md)
 
