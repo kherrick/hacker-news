@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of Moderate Alcohol Intake on Fasting Insulin and Insulin Sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
+* [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of moderate alcohol intake on fasting insulin and insulin sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
 * [2022-06-19, 13:02:33](https://news.ycombinator.com/item?id=31798938) - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
+* [2022-06-19, 13:02:18](https://news.ycombinator.com/item?id=31798936) - [The following RegEx is sentient](https://old.reddit.com/r/ProgrammerHumor/comments/vfomp4/some_google_engineer_probably/)
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
 * [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 * [2022-06-19, 11:34:14](https://news.ycombinator.com/item?id=31798362) - [Talos Linux](https://www.talos.dev/)
@@ -17,7 +18,6 @@
 * [2022-06-19, 05:05:07](https://news.ycombinator.com/item?id=31796311) - [Redis vs. KeyDB vs. Dragonfly vs. Skytable](https://news.ycombinator.com/item?id=31796311)
 * [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound)
-* [2022-06-18, 22:45:51](https://news.ycombinator.com/item?id=31794481) - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 * [2022-06-18, 19:09:34](https://news.ycombinator.com/item?id=31792790) - [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [DOE announces breakthrough in residential cold climate heat pump technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
 * [2022-06-18, 12:59:08](https://news.ycombinator.com/item?id=31789436) - [Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction](https://github.com/nicolay-r/ARElight)

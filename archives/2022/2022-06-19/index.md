@@ -6,6 +6,7 @@
 
 * [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of Moderate Alcohol Intake on Fasting Insulin and Insulin Sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
 * [2022-06-19, 13:02:33](https://news.ycombinator.com/item?id=31798938) - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
+* [2022-06-19, 13:02:18](https://news.ycombinator.com/item?id=31798936) - [The following RegEx is sentient](https://old.reddit.com/r/ProgrammerHumor/comments/vfomp4/some_google_engineer_probably/)
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
 * [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 * [2022-06-19, 11:34:14](https://news.ycombinator.com/item?id=31798362) - [Talos Linux](https://www.talos.dev/)
