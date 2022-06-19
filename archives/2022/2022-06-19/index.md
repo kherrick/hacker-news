@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 15:14:52](https://news.ycombinator.com/item?id=31800144) - [Tell HN: Happy Fathers’ Day](https://news.ycombinator.com/item?id=31800144)
+* [2022-06-19, 14:51:01](https://news.ycombinator.com/item?id=31799922) - [Apple’s macOS Ventura – 7 New Security Changes to Be Aware Of](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
+* [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 * [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
 * [2022-06-19, 13:37:01](https://news.ycombinator.com/item?id=31799243) - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
