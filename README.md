@@ -20,6 +20,7 @@
 * [2022-06-18, 14:14:53](https://news.ycombinator.com/item?id=31789999) - [The Magnetar, nature’s ultimate superweapon](https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/)
 * [2022-06-17, 19:13:35](https://news.ycombinator.com/item?id=31782944) - [Pocket Globes: The Whole World in Your Hand](https://blogs.loc.gov/loc/2022/05/pocket-globes-the-whole-world-in-your-hands/)
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
+* [2022-06-17, 17:31:26](https://news.ycombinator.com/item?id=31781493) - [A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day](https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
 * [2022-06-17, 16:13:02](https://news.ycombinator.com/item?id=31780346) - [Toonstruck (Or, a Case Study in the Death of Adventure Games)](https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/)
 * [2022-06-17, 15:50:28](https://news.ycombinator.com/item?id=31779995) - [Switch to VPC Endpoints from Nat Gateways to Reduce Bandwidth Charges](https://www.vantage.sh/blog/nat-gateway-vpc-endpoint-savings)
@@ -28,7 +29,6 @@
 * [2022-06-17, 10:56:12](https://news.ycombinator.com/item?id=31776426) - [Fortran Intrinsics (2018)](https://fortran-lang.org/learn/intrinsics)
 * [2022-06-17, 00:12:35](https://news.ycombinator.com/item?id=31772558) - [The Westinghouse Total Electric Home (1960) [video]](https://www.youtube.com/watch?v=jyrTgtPTz3M)
 * [2022-06-16, 19:04:50](https://news.ycombinator.com/item?id=31769699) - [Mold/macOS is 11 times faster than the Apple's default linker to link Chrome](https://twitter.com/rui314/status/1537279524341432320)
-* [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
 * [2022-06-16, 11:06:36](https://news.ycombinator.com/item?id=31764629) - [Armchair Science](https://aeon.co/essays/do-thought-experiments-really-uncover-new-scientific-truths)
 
 ## [Archives](archives/index.md)
