@@ -129,6 +129,116 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31796311">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=31796311"
+              >So, you call yourself the fastest key/value store? It's 5X, 10X
+              and 25X faster</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-19 @ 05:05:07</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31796311"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>- Redis: https://github.com/redis/redis</p>
+              <p>- KeyDB: https://github.com/snapchat/keydb</p>
+              <p>- Dragonfly: https://github.com/dragonflydb/dragonfly</p>
+              <p>- Skytable: https://github.com/skytable/skytable</p>
+              <p>
+                1. Redis: I'll start with Redis which I'd like to call the
+                "original" key/value store because it is the oldest and most
+                widely used of all. Being a long-time follower of Redis, I do
+                know it's single-threaded (and uses io-threads since 6.0) and
+                hence it achieves lesser throughput than the other stores listed
+                above which are multi-threaded, at least to some extent. The
+                best parts about Redis: it's the most feature complete of all
+                the systems here, and is the oldest. (not saying old necessarily
+                means better).
+              </p>
+              <p>
+                2. KeyDB: The second is KeyDB. IIRC, I saw it in a blog post
+                which said that it is a "multithreaded fork of Redis that is 5X
+                faster"[1]. I really liked the idea because I was previously
+                running several instances of Redis on the same node and proxying
+                them like a "single-node cluster." Why? To increase CPU
+                utilization. A single KeyDB instance could replace the unwanted
+                proxying funkiness, so I ditched Redis for KeyDB. Has been a
+                fine experience so far, except for some occasional crashes.
+              </p>
+              <p>
+                3. Dragonfly: Just found it on HN and seems to be relatively
+                new. Dragonfly claims that it is 25X faster than Redis[2] and
+                has the slogan "Probably, the fastest in-memory store in the
+                universe!". Doesn't support all the Redis commands yet, but I
+                find it interesting mainly because of performance. Also, it's
+                good to know why it is faster because it clearly outlines the
+                underlying architecture[2]. The other three stores don't say
+                much about it. Also promises lower memory usage which I like.
+              </p>
+              <p>
+                4. Skytable: Found it while looking for projects written in
+                Rust. Claims to be "insanely fast." Skytable's "experimental
+                benchmarks" claim that it is something around 10X faster than
+                Redis and some 2X-3X faster than KeyDB[3]. I hadn't heard of
+                Skytable and it doesn't seem to be as widely used (unless I'm
+                missing something?). I find it interesting because of the
+                planned features[4] and performance. Only Skytable natively runs
+                on Windows out of the four.
+              </p>
+              <p>
+                5. My thoughts: Redis needs no introduction and is arguably
+                super stable for use on production systems (using widely in our
+                systems). KeyDB seems to be "stable enough" and it seems to be
+                good for prod since Snapchat uses it already[5] (and so do we!).
+                I found no Dragonfly v/s Skytable benchmarks. The best part
+                about Redis, KeyDB and Skytable is that they don't make any
+                "crazy assumptions" about the system they run on. What do I
+                mean?
+              </p>
+              <p>
+                Dragonfly expects you to have the latest hardware[6] and the
+                latest kernel[7] on all your servers. I find this outrageous
+                because not all servers run 5.10 and a majority of them are
+                still using long-running branches on 4.x. I'd argue if the other
+                three stores started assuming the latest features, they'd be far
+                faster than what they are today. Finally, both Dragonfly and
+                Skytable are still early in their development so it may not be
+                fair to compare their features against Redis and KeyDB who have
+                been around for far longer. Also, all projects other than
+                Skytable have companies behind them (unless I'm missing
+                something).
+              </p>
+              <p>
+                Edit: I have run the benchmarks myself for each store. Redis and
+                KeyDB benchmarks seem to be very consistent, Skytable is a
+                little inconsistent at times but I was NOT able to reproduce the
+                25X speed that Dragonfly claims.
+              </p>
+              <p>
+                What are your thoughts? Have you tried benchmarking any of them
+                locally or in the cloud?
+              </p>
+              <p>References:</p>
+              <p>[1]: https://docs.keydb.dev/blog/2019/10/07/blog-post</p>
+              <p>[2]: https://github.com/dragonflydb/dragonfly</p>
+              <p>[3]: https://github.com/ohsayan/sky-benches</p>
+              <p>[4]: https://github.com/skytable/skytable/issues/203</p>
+              <p>
+                [5]: https://docs.keydb.dev/news/2022/05/12/keydb-joins-snap
+              </p>
+              <p>[6]: https://github.com/dragonflydb/dragonfly/issues/124</p>
+              <p>[7]: https://github.com/dragonflydb/dragonfly/issues/96</p>
+            </div>
+          </section>
+        </section>
         <section id="31795160">
           <h3>
             <a
@@ -141,11 +251,11 @@
             <h4>
               <span>2022-06-19 @ 00:49:39</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31795160"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -161,11 +271,11 @@
             <h4>
               <span>2022-06-18 @ 23:55:24</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31794872"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -186,7 +296,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31794617"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -201,11 +311,11 @@
             <h4>
               <span>2022-06-18 @ 22:45:51</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31794481"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -264,11 +374,11 @@
             <h4>
               <span>2022-06-18 @ 19:34:33</span
               ><span class="points-container"
-                >Points: <span class="points">427</span></span
+                >Points: <span class="points">431</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31793030"
                   >Comments</a
-                ><span class="descendants">: 244</span></span
+                ><span class="descendants">: 246</span></span
               >
             </h4>
           </section>
@@ -286,11 +396,11 @@
             <h4>
               <span>2022-06-18 @ 19:09:34</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31792790"
                   >Comments</a
-                ><span class="descendants">: 194</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -309,7 +419,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31792303"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
             <div class="text">
@@ -337,7 +447,7 @@
             <h4>
               <span>2022-06-18 @ 18:01:44</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31792206"
                   >Comments</a
@@ -376,11 +486,11 @@
             <h4>
               <span>2022-06-18 @ 16:39:04</span
               ><span class="points-container"
-                >Points: <span class="points">459</span></span
+                >Points: <span class="points">462</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31791444"
                   >Comments</a
-                ><span class="descendants">: 328</span></span
+                ><span class="descendants">: 330</span></span
               >
             </h4>
           </section>
@@ -397,7 +507,7 @@
             <h4>
               <span>2022-06-18 @ 16:16:14</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31791214"
                   >Comments</a
@@ -418,11 +528,11 @@
             <h4>
               <span>2022-06-18 @ 15:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31790698"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -439,7 +549,7 @@
             <h4>
               <span>2022-06-18 @ 14:14:53</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31789999"
                   >Comments</a
@@ -448,23 +558,45 @@
             </h4>
           </section>
         </section>
-        <section id="31789809">
+        <section id="31789998">
           <h3>
             <a
               class="item"
-              href="https://kk.org/thetechnium/construction-is-life/"
-              >Construction is life</a
+              href="https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
+              >Microsoft and Meta join Google in using AI to help run their data
+              centers</a
             >
           </h3>
           <section>
             <h4>
-              <span>2022-06-18 @ 13:50:42</span
+              <span>2022-06-18 @ 14:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">260</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31789809"
+                ><a href="https://news.ycombinator.com/item?id=31789998"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 25</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31788923">
+          <h3>
+            <a
+              class="item"
+              href="https://thoughts.jatan.space/p/patreon-cuts-deep"
+              >Patreon cuts deep inside creators’ pockets</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-18 @ 11:30:24</span
+              ><span class="points-container"
+                >Points: <span class="points">296</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31788923"
+                  >Comments</a
+                ><span class="descendants">: 274</span></span
               >
             </h4>
           </section>
@@ -481,7 +613,7 @@
             <h4>
               <span>2022-06-17 @ 19:13:35</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31782944"
                   >Comments</a
@@ -500,32 +632,11 @@
             <h4>
               <span>2022-06-17 @ 18:36:56</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31782461"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31782387">
-          <h3>
-            <a
-              class="item"
-              href="https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/"
-              >How not to teach recursion (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-17 @ 18:31:06</span
-              ><span class="points-container"
-                >Points: <span class="points">115</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31782387"
-                  >Comments</a
-                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -543,7 +654,7 @@
             <h4>
               <span>2022-06-17 @ 17:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31781493"
                   >Comments</a
@@ -568,7 +679,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31781491"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -589,7 +700,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31780346"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -607,7 +718,7 @@
             <h4>
               <span>2022-06-17 @ 15:50:28</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31779995"
                   >Comments</a
@@ -628,11 +739,11 @@
             <h4>
               <span>2022-06-17 @ 15:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31779964"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -658,27 +769,6 @@
             </h4>
           </section>
         </section>
-        <section id="31776197">
-          <h3>
-            <a
-              class="item"
-              href="https://adoptingerlang.org/docs/development/hard_to_get_right/"
-              >Adopting Erlang: Hard things to get right (2019)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-17 @ 10:20:43</span
-              ><span class="points-container"
-                >Points: <span class="points">87</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31776197"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="31772558">
           <h3>
             <a class="item" href="https://www.youtube.com/watch?v=jyrTgtPTz3M"
@@ -689,11 +779,11 @@
             <h4>
               <span>2022-06-17 @ 00:12:35</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31772558"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -711,7 +801,7 @@
             <h4>
               <span>2022-06-16 @ 19:04:50</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31769699"
                   >Comments</a
