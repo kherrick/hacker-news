@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-19, 08:49:28",
+      "https://news.ycombinator.com/item?id=31797518"
+    ],
+    [
+      "Why does science news suck so much?",
+      "http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 08:15:41",
       "https://news.ycombinator.com/item?id=31797336"
     ],
@@ -147,16 +157,6 @@
     [
       "Cross-compiling binaries for Windows is easier than building natively",
       "https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 18:01:44",
-      "https://news.ycombinator.com/item?id=31792206"
-    ],
-    [
-      "Bolt: Faster matrix and vector operations that run on compressed data",
-      "https://github.com/dblalock/bolt"
     ]
   ],
   [
