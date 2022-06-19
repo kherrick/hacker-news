@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
 * [2022-06-19, 13:37:01](https://news.ycombinator.com/item?id=31799243) - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
 * [2022-06-19, 13:16:09](https://news.ycombinator.com/item?id=31799055) - [Most Beautiful Abandoned Places](https://www.housebeautiful.com/design-inspiration/g2698/beautiful-abandoned-places/)
@@ -21,7 +22,6 @@
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 * [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound)
-* [2022-06-18, 19:09:34](https://news.ycombinator.com/item?id=31792790) - [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [DOE announces breakthrough in residential cold climate heat pump technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
 * [2022-06-18, 12:59:08](https://news.ycombinator.com/item?id=31789436) - [Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction](https://github.com/nicolay-r/ARElight)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
