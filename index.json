@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31796311"
     ],
     [
-      "So, you call yourself the fastest key/value store? It's 5X, 10X and 25X faster",
+      "Redis v/s KeyDB v/s Dragonfly v/s Skytable. It's 5X, 10X and 25X faster",
       "https://news.ycombinator.com/item?id=31796311"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-06-17, 17:31:26",
-      "https://news.ycombinator.com/item?id=31781493"
-    ],
-    [
-      "A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day",
-      "https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/"
-    ]
-  ],
-  [
-    [
       "2022-06-17, 17:31:23",
       "https://news.ycombinator.com/item?id=31781491"
     ],
@@ -257,6 +247,16 @@
     [
       "Software Engineering: The Soft Parts",
       "https://addyosmani.com/blog/software-engineering-soft-parts/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 10:56:12",
+      "https://news.ycombinator.com/item?id=31776426"
+    ],
+    [
+      "Fortran Intrinsics (2018)",
+      "https://fortran-lang.org/learn/intrinsics"
     ]
   ],
   [
