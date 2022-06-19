@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:28:42](https://news.ycombinator.com/item?id=31800791) - [I visited a friend who is watching Breaking Bad. Now clips appear on my YouTube?](https://news.ycombinator.com/item?id=31800791)
+* [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
 * [2022-06-19, 15:37:46](https://news.ycombinator.com/item?id=31800340) - [We ended up with the 'Pregnant Man' Emoji](https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji)
 * [2022-06-19, 15:14:52](https://news.ycombinator.com/item?id=31800144) - [Tell HN: Happy Fathers’ Day](https://news.ycombinator.com/item?id=31800144)
 * [2022-06-19, 15:06:41](https://news.ycombinator.com/item?id=31800081) - [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
 * [2022-06-19, 14:51:01](https://news.ycombinator.com/item?id=31799922) - [Apple’s macOS Ventura – 7 New Security Changes to Be Aware Of](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
 * [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
+* [2022-06-19, 14:04:12](https://news.ycombinator.com/item?id=31799472) - [The 5/25 Warren Buffet Rule](https://friday.app/p/5-25-rule)
 * [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
 * [2022-06-19, 13:37:01](https://news.ycombinator.com/item?id=31799243) - [Drawing a childrens story with DALL-E 2](https://twitter.com/nutanc/status/1538387909707202560)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
