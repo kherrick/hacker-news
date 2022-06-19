@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+* [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 10:19:08](https://news.ycombinator.com/item?id=31797992) - [Bolt has a cool web interface and they really don't want you to use it](https://toot.kuba-orlik.name/@kuba/108503475480137792)
 * [2022-06-19, 09:22:36](https://news.ycombinator.com/item?id=31797686) - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)

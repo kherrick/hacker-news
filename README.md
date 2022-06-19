@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
+* [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 10:19:08](https://news.ycombinator.com/item?id=31797992) - [Bolt has a cool web interface and they really don't want you to use it](https://toot.kuba-orlik.name/@kuba/108503475480137792)
 * [2022-06-19, 09:22:36](https://news.ycombinator.com/item?id=31797686) - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
@@ -23,7 +24,6 @@
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
 * [2022-06-17, 19:13:35](https://news.ycombinator.com/item?id=31782944) - [Pocket Globes: The Whole World in Your Hand](https://blogs.loc.gov/loc/2022/05/pocket-globes-the-whole-world-in-your-hands/)
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
-* [2022-06-17, 18:01:05](https://news.ycombinator.com/item?id=31781946) - [In Defense of Polonius](https://daily.jstor.org/in-defense-of-polonius/)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 10:56:12](https://news.ycombinator.com/item?id=31776426) - [Fortran Intrinsics (2018)](https://fortran-lang.org/learn/intrinsics)
