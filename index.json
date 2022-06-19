@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-19, 05:05:07",
+      "https://news.ycombinator.com/item?id=31796311"
+    ],
+    [
+      "So, you call yourself the fastest key/value store? It's 5X, 10X and 25X faster",
+      "https://news.ycombinator.com/item?id=31796311"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 00:49:39",
       "https://news.ycombinator.com/item?id=31795160"
     ],
@@ -151,12 +161,22 @@
   ],
   [
     [
-      "2022-06-18, 13:50:42",
-      "https://news.ycombinator.com/item?id=31789809"
+      "2022-06-18, 14:14:28",
+      "https://news.ycombinator.com/item?id=31789998"
     ],
     [
-      "Construction is life",
-      "https://kk.org/thetechnium/construction-is-life/"
+      "Microsoft and Meta join Google in using AI to help run their data centers",
+      "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 11:30:24",
+      "https://news.ycombinator.com/item?id=31788923"
+    ],
+    [
+      "Patreon cuts deep inside creators’ pockets",
+      "https://thoughts.jatan.space/p/patreon-cuts-deep"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Dato.rss: The best RSS Search experience",
       "https://github.com/davidesantangelo/dato.rss"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 18:31:06",
-      "https://news.ycombinator.com/item?id=31782387"
-    ],
-    [
-      "How not to teach recursion (2021)",
-      "https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Software Engineering: The Soft Parts",
       "https://addyosmani.com/blog/software-engineering-soft-parts/"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 10:20:43",
-      "https://news.ycombinator.com/item?id=31776197"
-    ],
-    [
-      "Adopting Erlang: Hard things to get right (2019)",
-      "https://adoptingerlang.org/docs/development/hard_to_get_right/"
     ]
   ],
   [
