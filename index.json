@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-06-18, 21:56:12",
-      "https://news.ycombinator.com/item?id=31794175"
+      "2022-06-19, 01:58:06",
+      "https://news.ycombinator.com/item?id=31795449"
     ],
     [
-      "Show HN: I have created something new to make your browsing experience enjoyable",
-      "https://productivitytoolset.com"
+      "Bitcoin’s nosedive through the $20k mark is a Minsky Moment for crypto",
+      "https://www.marketwatch.com/story/bitcoins-nosedive-through-the-20-000-mark-is-a-minsky-moment-for-crypto-psychologically-for-a-lot-of-people-this-is-galling-11655591456"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 01:50:53",
+      "https://news.ycombinator.com/item?id=31795420"
+    ],
+    [
+      "Police linked to hacking campaign to frame Indian activists",
+      "https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 00:56:30",
+      "https://news.ycombinator.com/item?id=31795192"
+    ],
+    [
+      "Diablo Immortal Rift Simulator",
+      "https://dimi777.github.io/diablo-rift-simulator/"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 00:49:39",
+      "https://news.ycombinator.com/item?id=31795160"
+    ],
+    [
+      "Don't Use Kubernetes, Yet",
+      "https://matt-rickard.com/dont-use-kubernetes-yet/"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 23:55:24",
+      "https://news.ycombinator.com/item?id=31794872"
+    ],
+    [
+      "Citybound – city building game using actor-based distributed simulation",
+      "https://aeplay.org/citybound"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Cross-compiling binaries for Windows is easier than building natively",
       "https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 18:19:42",
-      "https://news.ycombinator.com/item?id=31792373"
-    ],
-    [
-      "EOS – Emacs Operating System",
-      "https://writequit.org/eos/eos.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-06-18, 16:07:33",
-      "https://news.ycombinator.com/item?id=31791124"
-    ],
-    [
-      "Japan's NTT to begin remote work as norm for 30k employees",
-      "https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 15:28:54",
       "https://news.ycombinator.com/item?id=31790698"
     ],
@@ -137,16 +157,6 @@
     [
       "The Magnetar, nature’s ultimate superweapon",
       "https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 14:14:28",
-      "https://news.ycombinator.com/item?id=31789998"
-    ],
-    [
-      "Microsoft and Meta join Google in using AI to help run their data centers",
-      "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2022-06-17, 18:36:56",
+      "https://news.ycombinator.com/item?id=31782461"
+    ],
+    [
+      "Dato.rss: The best RSS Search experience",
+      "https://github.com/davidesantangelo/dato.rss"
+    ]
+  ],
+  [
+    [
       "2022-06-17, 18:31:06",
       "https://news.ycombinator.com/item?id=31782387"
     ],
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2022-06-17, 17:31:26",
-      "https://news.ycombinator.com/item?id=31781493"
+      "2022-06-17, 17:31:23",
+      "https://news.ycombinator.com/item?id=31781491"
     ],
     [
-      "A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day",
-      "https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/"
+      "Meat made from recycled carbon dioxide",
+      "https://neo.life/2022/06/pulling-steaks-out-of-thin-air/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-06-17, 10:20:43",
-      "https://news.ycombinator.com/item?id=31776197"
-    ],
-    [
-      "Adopting Erlang: Hard things to get right (2019)",
-      "https://adoptingerlang.org/docs/development/hard_to_get_right/"
-    ]
-  ],
-  [
-    [
       "2022-06-17, 00:12:35",
       "https://news.ycombinator.com/item?id=31772558"
     ],
@@ -287,16 +297,6 @@
     [
       "SHRDLU",
       "https://hci.stanford.edu/~winograd/shrdlu/"
-    ]
-  ],
-  [
-    [
-      "2022-06-16, 13:46:07",
-      "https://news.ycombinator.com/item?id=31765983"
-    ],
-    [
-      "Mosquito swatter gamer mod with kill counter, sound and rechargeable battery",
-      "https://www.instructables.com/Ultimate-Mosquito-Swatter-Mod-for-Gamer-Add-Kill-C/"
     ]
   ]
 ]
