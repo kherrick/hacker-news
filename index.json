@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-06-18, 18:11:57",
-      "https://news.ycombinator.com/item?id=31792303"
-    ],
-    [
-      "Ask HN: Why are Git submodules so bad?",
-      "https://news.ycombinator.com/item?id=31792303"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 18:01:44",
       "https://news.ycombinator.com/item?id=31792206"
     ],
@@ -237,6 +227,16 @@
     [
       "Toonstruck (Or, a Case Study in the Death of Adventure Games)",
       "https://www.filfre.net/2022/06/toonstruck-or-a-case-study-in-the-death-of-adventure-games/"
+    ]
+  ],
+  [
+    [
+      "2022-06-17, 15:50:28",
+      "https://news.ycombinator.com/item?id=31779995"
+    ],
+    [
+      "Switch to VPC Endpoints from Nat Gateways to Reduce Bandwidth Charges",
+      "https://www.vantage.sh/blog/nat-gateway-vpc-endpoint-savings"
     ]
   ],
   [
