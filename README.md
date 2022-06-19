@@ -9,6 +9,7 @@
 * [2022-06-19, 07:01:21](https://news.ycombinator.com/item?id=31796916) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 * [2022-06-19, 05:05:07](https://news.ycombinator.com/item?id=31796311) - [Redis vs. KeyDB vs. Dragonfly vs. Skytable](https://news.ycombinator.com/item?id=31796311)
+* [2022-06-19, 04:46:22](https://news.ycombinator.com/item?id=31796239) - [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
 * [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound)
 * [2022-06-18, 23:05:40](https://news.ycombinator.com/item?id=31794617) - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
@@ -29,7 +30,6 @@
 * [2022-06-17, 00:12:35](https://news.ycombinator.com/item?id=31772558) - [The Westinghouse Total Electric Home (1960) [video]](https://www.youtube.com/watch?v=jyrTgtPTz3M)
 * [2022-06-16, 19:04:50](https://news.ycombinator.com/item?id=31769699) - [Mold/macOS is 11 times faster than the Apple's default linker to link Chrome](https://twitter.com/rui314/status/1537279524341432320)
 * [2022-06-16, 14:41:02](https://news.ycombinator.com/item?id=31766609) - [Secure Messaging Apps and Group Protocols, Part 2](https://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html)
-* [2022-06-15, 19:37:22](https://news.ycombinator.com/item?id=31758267) - [Peter Lamborn Wilson, advocate of ‘poetic terrorism,’ has died](https://www.nytimes.com/2022/06/11/us/peter-lamborn-wilson-dead.html)
 
 ## [Archives](archives/index.md)
 
