@@ -67,6 +67,7 @@
 * [2022-06-17, 11:52:25](https://news.ycombinator.com/item?id=31776811) - [Grace Hopper on nanoseconds vs. microseconds [video]](https://www.youtube.com/watch?v=9eyFDBPk4Yw)
 * [2022-06-17, 11:43:56](https://news.ycombinator.com/item?id=31776740) - [Minimum Viable Architecture in Practice: Creating a Home Insurance Chatbot](https://www.infoq.com/articles/minimum-viable-architecture-sample/)
 * [2022-06-17, 11:02:11](https://news.ycombinator.com/item?id=31776466) - [Website cookie pop-ups to appear less in new UK Government proposals](https://www.thetelegraphandargus.co.uk/news/uk_today_homepage/20217417.website-cookie-pop-ups-appear-less-new-government-proposals/)
+* [2022-06-17, 10:56:12](https://news.ycombinator.com/item?id=31776426) - [Fortran Intrinsics (2018)](https://fortran-lang.org/learn/intrinsics)
 * [2022-06-17, 10:50:24](https://news.ycombinator.com/item?id=31776372) - [Crypto lending company Babel Finance halts redemptions and withdrawals](https://babel.finance/article-views.html?id=50)
 * [2022-06-17, 10:20:43](https://news.ycombinator.com/item?id=31776197) - [Adopting Erlang: Hard Things to Get Right (2019)](https://adoptingerlang.org/docs/development/hard_to_get_right/)
 * [2022-06-17, 10:11:22](https://news.ycombinator.com/item?id=31776146) - [Without a Rosetta Stone, can linguists decipher Minoan script?](https://aeon.co/essays/without-a-rosetta-stone-can-linguists-decipher-minoan-script)
