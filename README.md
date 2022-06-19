@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
 * [2022-06-19, 08:49:28](https://news.ycombinator.com/item?id=31797518) - [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
 * [2022-06-19, 08:15:41](https://news.ycombinator.com/item?id=31797336) - [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
 * [2022-06-19, 07:54:13](https://news.ycombinator.com/item?id=31797222) - [House Address “Twins” Proximity](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
@@ -23,7 +24,6 @@
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
 * [2022-06-17, 18:01:05](https://news.ycombinator.com/item?id=31781946) - [In Defense of Polonius](https://daily.jstor.org/in-defense-of-polonius/)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
-* [2022-06-17, 15:50:28](https://news.ycombinator.com/item?id=31779995) - [Switch to VPC Endpoints from Nat Gateways to Reduce Bandwidth Charges](https://www.vantage.sh/blog/nat-gateway-vpc-endpoint-savings)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 * [2022-06-17, 10:56:12](https://news.ycombinator.com/item?id=31776426) - [Fortran Intrinsics (2018)](https://fortran-lang.org/learn/intrinsics)
