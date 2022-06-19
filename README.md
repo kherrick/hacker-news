@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 01:50:53](https://news.ycombinator.com/item?id=31795420) - [Police linked to hacking campaign to frame Indian activists](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
 * [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – city building game using actor-based distributed simulation](https://aeplay.org/citybound)
 * [2022-06-18, 23:05:40](https://news.ycombinator.com/item?id=31794617) - [Rust advocacy at a medium-sized startup](https://briankung.dev/2022/06/14/rust-advocacy-at-a-medium-sized-startup/)
@@ -17,6 +16,7 @@
 * [2022-06-18, 15:28:54](https://news.ycombinator.com/item?id=31790698) - [Why do we all fall for AI-generated language?](https://twitter.com/maurice_jks/status/1537814372462039043)
 * [2022-06-18, 14:14:53](https://news.ycombinator.com/item?id=31789999) - [The Magnetar, nature’s ultimate superweapon](https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/)
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
+* [2022-06-17, 19:13:35](https://news.ycombinator.com/item?id=31782944) - [Pocket Globes: The Whole World in Your Hand](https://blogs.loc.gov/loc/2022/05/pocket-globes-the-whole-world-in-your-hands/)
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How not to teach recursion (2021)](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
 * [2022-06-17, 17:31:26](https://news.ycombinator.com/item?id=31781493) - [A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day](https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/)
