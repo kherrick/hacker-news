@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-19, 18:12:26",
+      "https://news.ycombinator.com/item?id=31801814"
+    ],
+    [
+      "Advancing the state of the art for std:unordered_map implementations",
+      "http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 17:32:58",
       "https://news.ycombinator.com/item?id=31801462"
     ],
@@ -147,16 +157,6 @@
     [
       "Text consoles and framebuffer consoles in Linux",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/TextAndFramebufferConsoles"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 10:19:08",
-      "https://news.ycombinator.com/item?id=31797992"
-    ],
-    [
-      "Bolt has a cool web interface and they really don't want you to use it",
-      "https://toot.kuba-orlik.name/@kuba/108503475480137792"
     ]
   ],
   [
