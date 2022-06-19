@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+* [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 * [2022-06-19, 05:05:07](https://news.ycombinator.com/item?id=31796311) - [So, you call yourself the fastest key/value store? It's 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
 * [2022-06-19, 04:48:59](https://news.ycombinator.com/item?id=31796256) - [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
 * [2022-06-19, 04:46:22](https://news.ycombinator.com/item?id=31796239) - [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
