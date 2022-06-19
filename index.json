@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-19, 19:58:46",
+      "https://news.ycombinator.com/item?id=31802823"
+    ],
+    [
+      "Mobile-First CSS: Is It Time for a Rethink?",
+      "https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/"
+    ]
+  ],
+  [
+    [
       "2022-06-19, 19:46:29",
       "https://news.ycombinator.com/item?id=31802701"
     ],
@@ -57,6 +67,16 @@
     [
       "Advancing the state of the art for std:unordered_map implementations",
       "http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 17:47:56",
+      "https://news.ycombinator.com/item?id=31801590"
+    ],
+    [
+      "Show HN: Mabel – a fancy BitTorrent client for the terminal",
+      "https://github.com/smmr-software/mabel"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-06-19, 08:15:41",
-      "https://news.ycombinator.com/item?id=31797336"
-    ],
-    [
-      "Don't be that open-source user, don't be me",
-      "https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 07:30:40",
       "https://news.ycombinator.com/item?id=31797073"
     ],
@@ -287,16 +297,6 @@
     [
       "Intel’s Netburst: Failure Is a Foundation for Success",
       "https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/"
-    ]
-  ],
-  [
-    [
-      "2022-06-17, 05:42:56",
-      "https://news.ycombinator.com/item?id=31774485"
-    ],
-    [
-      "Harming the ‘outgroup’ linked to elevated activity in the brain reward circuitry",
-      "https://neurosciencenews.com/outgroup-aggression-reward-20847/"
     ]
   ]
 ]
