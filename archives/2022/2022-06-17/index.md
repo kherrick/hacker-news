@@ -83,6 +83,7 @@
 * [2022-06-17, 06:51:40](https://news.ycombinator.com/item?id=31774890) - [SpaceX Said to Fire Employees Involved in Letter Rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html)
 * [2022-06-17, 06:27:51](https://news.ycombinator.com/item?id=31774734) - [Keysight UXR 110GHz Oscilloscope Teardown [video]](https://www.youtube.com/watch?v=DXYje2B04xE)
 * [2022-06-17, 06:07:18](https://news.ycombinator.com/item?id=31774608) - [Internet Archive opens Vancouver headquarters, meeting space for the tech world](https://vancouversun.com/news/local-news/the-internet-archive-opens-headquarters-meeting-space-for-the-tech-world)
+* [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘Outgroup’ Linked to Elevated Activity in the Brain Reward Circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
 * [2022-06-17, 04:36:58](https://news.ycombinator.com/item?id=31774170) - [Why Is AVX 512 Useful for RPCS3?](https://whatcookie.github.io/posts/why-is-avx-512-useful-for-rpcs3/)
 * [2022-06-17, 04:11:08](https://news.ycombinator.com/item?id=31774041) - [Behind the Scenes of a Bank Takeover by FDIC (1986)](https://www.latimes.com/archives/la-xpm-1986-01-05-fi-24784-story.html)
 * [2022-06-17, 04:01:21](https://news.ycombinator.com/item?id=31773983) - [Realistic one-shot mesh-based head avatars](https://samsunglabs.github.io/rome/)

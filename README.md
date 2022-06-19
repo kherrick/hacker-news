@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-19, 13:12:53](https://news.ycombinator.com/item?id=31799031) - [Effects of Moderate Alcohol Intake on Fasting Insulin and Insulin Sensitivity](https://jamanetwork.com/journals/jama/fullarticle/194914)
+* [2022-06-19, 13:02:33](https://news.ycombinator.com/item?id=31798938) - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
 * [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
@@ -18,7 +20,6 @@
 * [2022-06-18, 22:45:51](https://news.ycombinator.com/item?id=31794481) - [Show HN: Control your Hyundai car with Python](https://github.com/synchronizing/bluelink)
 * [2022-06-18, 19:09:34](https://news.ycombinator.com/item?id=31792790) - [Cross-compiling binaries for Windows is easier than building natively](https://gist.github.com/slimsag/c01bb6508e3dfa744bf3bdafa0cfe07f)
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [DOE announces breakthrough in residential cold climate heat pump technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
-* [2022-06-18, 16:16:14](https://news.ycombinator.com/item?id=31791214) - [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)
 * [2022-06-18, 12:59:08](https://news.ycombinator.com/item?id=31789436) - [Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction](https://github.com/nicolay-r/ARElight)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
@@ -26,8 +27,7 @@
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
 * [2022-06-17, 17:31:23](https://news.ycombinator.com/item?id=31781491) - [Meat made from recycled carbon dioxide](https://neo.life/2022/06/pulling-steaks-out-of-thin-air/)
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
-* [2022-06-17, 10:56:12](https://news.ycombinator.com/item?id=31776426) - [Fortran Intrinsics (2018)](https://fortran-lang.org/learn/intrinsics)
-* [2022-06-17, 00:12:35](https://news.ycombinator.com/item?id=31772558) - [The Westinghouse Total Electric Home (1960) [video]](https://www.youtube.com/watch?v=jyrTgtPTz3M)
+* [2022-06-17, 05:42:56](https://news.ycombinator.com/item?id=31774485) - [Harming the ‘Outgroup’ Linked to Elevated Activity in the Brain Reward Circuitry](https://neurosciencenews.com/outgroup-aggression-reward-20847/)
 * [2022-06-16, 19:04:50](https://news.ycombinator.com/item?id=31769699) - [Mold/macOS is 11 times faster than the Apple's default linker to link Chrome](https://twitter.com/rui314/status/1537279524341432320)
 * [2022-06-16, 14:41:02](https://news.ycombinator.com/item?id=31766609) - [Secure Messaging Apps and Group Protocols, Part 2](https://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html)
 
