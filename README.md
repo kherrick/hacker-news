@@ -18,7 +18,6 @@
 * [2022-06-18, 14:14:53](https://news.ycombinator.com/item?id=31789999) - [The Magnetar, nature’s ultimate superweapon](https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/)
 * [2022-06-18, 13:50:42](https://news.ycombinator.com/item?id=31789809) - [Construction is life](https://kk.org/thetechnium/construction-is-life/)
 * [2022-06-18, 13:06:37](https://news.ycombinator.com/item?id=31789489) - [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
-* [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the origin of eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
 * [2022-06-17, 18:36:56](https://news.ycombinator.com/item?id=31782461) - [Dato.rss: The best RSS Search experience](https://github.com/davidesantangelo/dato.rss)
 * [2022-06-17, 18:31:06](https://news.ycombinator.com/item?id=31782387) - [How not to teach recursion (2021)](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
 * [2022-06-17, 17:31:26](https://news.ycombinator.com/item?id=31781493) - [A New Satellite Tool Shows You How the Planet’s Landscape Changes Day by Day](https://www.smithsonianmag.com/smart-news/a-new-satellite-tool-shows-you-how-the-planets-landscape-changes-day-by-day-180980243/)
@@ -28,6 +27,7 @@
 * [2022-06-17, 15:48:51](https://news.ycombinator.com/item?id=31779964) - [Voyager spacecraft begin to power down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 * [2022-06-17, 15:17:53](https://news.ycombinator.com/item?id=31779464) - [Software Engineering: The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
 * [2022-06-17, 00:12:35](https://news.ycombinator.com/item?id=31772558) - [The Westinghouse Total Electric Home (1960) [video]](https://www.youtube.com/watch?v=jyrTgtPTz3M)
+* [2022-06-16, 19:04:50](https://news.ycombinator.com/item?id=31769699) - [Mold/macOS is 11 times faster than the Apple's default linker to link Chrome](https://twitter.com/rui314/status/1537279524341432320)
 * [2022-06-16, 16:42:40](https://news.ycombinator.com/item?id=31768141) - [SHRDLU](https://hci.stanford.edu/~winograd/shrdlu/)
 * [2022-06-16, 11:06:36](https://news.ycombinator.com/item?id=31764629) - [Armchair Science](https://aeon.co/essays/do-thought-experiments-really-uncover-new-scientific-truths)
 
