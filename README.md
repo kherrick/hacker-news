@@ -5,7 +5,7 @@
 * [2022-06-19, 07:54:13](https://news.ycombinator.com/item?id=31797222) - [House Address “Twins” Proximity](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
 * [2022-06-19, 07:01:21](https://news.ycombinator.com/item?id=31796916) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
-* [2022-06-19, 05:05:07](https://news.ycombinator.com/item?id=31796311) - [Redis v/s KeyDB v/s Dragonfly v/s Skytable. It's 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
+* [2022-06-19, 05:05:07](https://news.ycombinator.com/item?id=31796311) - [Redis vs. KeyDB vs. Dragonfly vs. Skytable](https://news.ycombinator.com/item?id=31796311)
 * [2022-06-19, 04:48:59](https://news.ycombinator.com/item?id=31796256) - [Ask HN: Feel bad about working in crypto, what to do?](https://news.ycombinator.com/item?id=31796256)
 * [2022-06-19, 04:46:22](https://news.ycombinator.com/item?id=31796239) - [Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining](https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/)
 * [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
