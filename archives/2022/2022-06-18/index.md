@@ -41,6 +41,7 @@
 * [2022-06-18, 13:17:10](https://news.ycombinator.com/item?id=31789560) - [Lidar industry unites to make roadways safer for pedestrians](https://autojobsnow.com/lidar-industry-unites-to-make-roadways-safer-for-pedestrians/)
 * [2022-06-18, 13:06:37](https://news.ycombinator.com/item?id=31789489) - [Show HN: Nimwave – build TUIs for the terminal, web, and desktop](https://github.com/ansiwave/nimwave)
 * [2022-06-18, 13:02:02](https://news.ycombinator.com/item?id=31789463) - [How Inflation Works – An illustrated guide for the rest of us](https://finmasters.com/how-inflation-works/)
+* [2022-06-18, 12:59:08](https://news.ycombinator.com/item?id=31789436) - [Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction](https://github.com/nicolay-r/ARElight)
 * [2022-06-18, 12:59:04](https://news.ycombinator.com/item?id=31789435) - [Bitcoin slumps below key $20k threshold](https://www.ft.com/content/97b5a774-d817-4d3b-82b2-6bbe22c3d59b)
 * [2022-06-18, 11:51:09](https://news.ycombinator.com/item?id=31789045) - [Mitochondria and the Origin of Eukaryotes](https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes)
 * [2022-06-18, 11:39:07](https://news.ycombinator.com/item?id=31788976) - [Jerry Seinfeld Routine written and performed by AI (GPT-3)](https://www.youtube.com/watch?v=1onxri0duN0)
