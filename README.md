@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-19, 15:37:46](https://news.ycombinator.com/item?id=31800340) - [We ended up with the 'Pregnant Man' Emoji](https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji)
 * [2022-06-19, 15:06:41](https://news.ycombinator.com/item?id=31800081) - [Ask HN: How to learn mathematical proofs from scratch?](https://news.ycombinator.com/item?id=31800081)
 * [2022-06-19, 14:51:01](https://news.ycombinator.com/item?id=31799922) - [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
 * [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
@@ -24,6 +23,7 @@
 * [2022-06-19, 07:54:13](https://news.ycombinator.com/item?id=31797222) - [House Address “Twins” Proximity (2017)](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research (1986)](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+* [2022-06-19, 00:49:39](https://news.ycombinator.com/item?id=31795160) - [Don't use Kubernetes yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 * [2022-06-18, 23:55:24](https://news.ycombinator.com/item?id=31794872) - [Citybound – A city building game using actor-based distributed simulation](https://aeplay.org/citybound)
 * [2022-06-18, 03:58:58](https://news.ycombinator.com/item?id=31787163) - [Intel’s Netburst: Failure Is a Foundation for Success](https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/)
 * [2022-06-17, 23:13:21](https://news.ycombinator.com/item?id=31785659) - [Ancient Roman soldier carved a phallus with a personal insult in this stone](https://arstechnica.com/science/2022/06/archaeologists-unearth-phallus-graffiti-carved-in-stone-at-ancient-roman-fort/)
