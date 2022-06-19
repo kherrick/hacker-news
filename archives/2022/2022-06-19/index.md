@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
+* [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
+* [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Why Webcams Aren't Good Enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:28:42](https://news.ycombinator.com/item?id=31800791) - [I visited a friend who is watching Breaking Bad. Now clips appear on my YouTube?](https://news.ycombinator.com/item?id=31800791)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
 * [2022-06-19, 15:37:46](https://news.ycombinator.com/item?id=31800340) - [We ended up with the 'Pregnant Man' Emoji](https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji)
