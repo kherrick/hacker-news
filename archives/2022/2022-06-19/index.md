@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2022-06-19](index.md)
 
 * [2022-06-19, 19:35:34](https://news.ycombinator.com/item?id=31802600) - [Solana just seized $170MM of user funds to prevent a decrease in Solana's price](https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/)
+* [2022-06-19, 19:04:26](https://news.ycombinator.com/item?id=31802327) - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 * [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [Telegram celebrates 700M Users and introduces Telegram Premium](https://telegram.org/blog/700-million-and-premium)
+* [2022-06-19, 18:26:18](https://news.ycombinator.com/item?id=31801947) - [The Great Cloudwall – Stop Cloudflare](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
 * [2022-06-19, 18:12:26](https://news.ycombinator.com/item?id=31801814) - [Advancing the state of the art for std:unordered_map implementations](http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html)
 * [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
 * [2022-06-19, 17:08:25](https://news.ycombinator.com/item?id=31801191) - [I'm a ex-Google SWE that's coached 300 through the FAANG interview process. AMA](https://news.ycombinator.com/item?id=31801191)
