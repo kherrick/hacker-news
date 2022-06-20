@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 14:11:07](https://news.ycombinator.com/item?id=31810550) - [London ranked second best startup hub in the world for tech](https://www.standard.co.uk/business/london-second-best-startup-hub-world-for-tech-b1005964.html)
+* [2022-06-20, 13:56:45](https://news.ycombinator.com/item?id=31810405) - [A List of Developer Newsletters](https://draft.dev/learn/the-ultimate-list-of-developer-newsletters)
+* [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
 * [2022-06-20, 12:27:06](https://news.ycombinator.com/item?id=31809503) - [Ask HN: Software career at 38 after beeing a Quant](https://news.ycombinator.com/item?id=31809503)
 * [2022-06-20, 12:20:26](https://news.ycombinator.com/item?id=31809445) - [3M’s PFAS Crisis Has Come to Europe](https://www.bloomberg.com/graphics/2022-3m-pfas-toxic-forever-chemicals-europe)
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)

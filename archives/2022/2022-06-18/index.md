@@ -29,6 +29,7 @@
 * [2022-06-18, 16:39:04](https://news.ycombinator.com/item?id=31791444) - [Doe Announces Breakthrough in Residential Cold Climate Heat Pump Technology](https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology)
 * [2022-06-18, 16:26:53](https://news.ycombinator.com/item?id=31791324) - [Elastic UI – design library in use at Elastic to build internal products](https://elastic.github.io/eui/)
 * [2022-06-18, 16:16:14](https://news.ycombinator.com/item?id=31791214) - [The dissolution of Apple’s legacy design team](https://www.fastcompany.com/90741719/inside-the-dissolution-of-apples-legacy-design-team)
+* [2022-06-18, 16:15:48](https://news.ycombinator.com/item?id=31791206) - [Pygame in All the Languages](https://www.pygame.org/news/2022/5/pygame-in-all-the-languages)
 * [2022-06-18, 16:07:37](https://news.ycombinator.com/item?id=31791126) - [Consciousness Is Not Computation](https://joe-antognini.github.io/ml/consciousness)
 * [2022-06-18, 16:07:33](https://news.ycombinator.com/item?id=31791124) - [Japan's NTT to begin remote work as norm for 30k employees in July](https://english.kyodonews.net/news/2022/06/3baf3aae9f2f-japans-ntt-to-begin-remote-work-as-norm-for-30000-employees-in-july.html)
 * [2022-06-18, 15:52:32](https://news.ycombinator.com/item?id=31790978) - [How the Ballpoint Pen Killed Cursive](https://www.theatlantic.com/technology/archive/2015/08/ballpoint-pens-object-lesson-history-handwriting/402205/)
