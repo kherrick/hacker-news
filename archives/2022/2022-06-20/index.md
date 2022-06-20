@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
+* [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
 * [2022-06-20, 17:35:13](https://news.ycombinator.com/item?id=31813116) - [Solend invalidates Solana whale wallet takeover plan with second governance vote](https://cointelegraph.com/news/solend-invalidates-solana-whale-wallet-takeover-plan-with-second-governance-vote)
 * [2022-06-20, 17:28:54](https://news.ycombinator.com/item?id=31813029) - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 * [2022-06-20, 17:14:55](https://news.ycombinator.com/item?id=31812864) - [Ask HN: Having trouble hiring despite good comp, wondering what to do about it?](https://news.ycombinator.com/item?id=31812864)
@@ -58,3 +60,4 @@
 * [2022-06-20, 01:03:44](https://news.ycombinator.com/item?id=31805129) - [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
 * [2022-06-20, 00:55:57](https://news.ycombinator.com/item?id=31805087) - [A Quick Look at QUIC Censorship](https://ooni.org/post/2022-quick-look-quic-censorship/)
 * [2022-06-20, 00:14:13](https://news.ycombinator.com/item?id=31804843) - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
+* [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
