@@ -17,7 +17,7 @@
 * [2022-06-19, 23:13:24](https://news.ycombinator.com/item?id=31804429) - [We need a flowchart editor that doesn't give you carpal tunnel](https://www.scottantipa.com/why-knotend)
 * [2022-06-19, 21:35:53](https://news.ycombinator.com/item?id=31803759) - [Will word processors start a home working revolution? (1979) [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
-* [2022-06-19, 18:12:26](https://news.ycombinator.com/item?id=31801814) - [Advancing the state of the art for std:unordered_map implementations](http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html)
+* [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [700M users and Premium](https://telegram.org/blog/700-million-and-premium)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
 * [2022-06-18, 20:46:00](https://news.ycombinator.com/item?id=31793682) - [Parents’ trauma leaves biological traces in children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
