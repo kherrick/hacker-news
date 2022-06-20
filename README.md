@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over $270m Capital One hack](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
@@ -28,6 +27,7 @@
 * [2022-06-18, 17:35:46](https://news.ycombinator.com/item?id=31791973) - [“The Transactor” magazine, Commodore, 1978-1989](https://www.commodore.ca/commodore-gallery/the-transactor-magazine/)
 * [2022-06-18, 16:07:37](https://news.ycombinator.com/item?id=31791126) - [Consciousness is not computation](https://joe-antognini.github.io/ml/consciousness)
 * [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
+* [2022-06-18, 14:44:05](https://news.ycombinator.com/item?id=31790237) - [Reflections on Trusting Trust (1984) [pdf]](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [2022-06-18, 14:43:56](https://news.ycombinator.com/item?id=31790233) - [Will optic ever replace copper interconnects? We ask a silicon photonics startup](https://www.theregister.com/2022/06/18/optical_interconnect_future/)
 * [2022-06-18, 14:43:35](https://news.ycombinator.com/item?id=31790226) - [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/)
 
