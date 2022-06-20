@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over $270m Capital One hack](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
@@ -19,7 +20,6 @@
 * [2022-06-20, 00:14:13](https://news.ycombinator.com/item?id=31804843) - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
 * [2022-06-19, 23:13:24](https://news.ycombinator.com/item?id=31804429) - [We need a flowchart editor that doesn't give you carpal tunnel](https://www.scottantipa.com/why-knotend)
 * [2022-06-19, 21:35:53](https://news.ycombinator.com/item?id=31803759) - [Will word processors start a home working revolution? (1979) [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
-* [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 12:16:54](https://news.ycombinator.com/item?id=31798601) - [Getting to Gnome Mode](https://studio.ribbonfarm.com/p/getting-to-gnome-mode)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
