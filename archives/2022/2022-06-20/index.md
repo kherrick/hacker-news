@@ -9,6 +9,7 @@
 * [2022-06-20, 18:36:19](https://news.ycombinator.com/item?id=31813893) - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
 * [2022-06-20, 18:12:36](https://news.ycombinator.com/item?id=31813618) - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
 * [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
+* [2022-06-20, 18:00:52](https://news.ycombinator.com/item?id=31813443) - [Zuckerberg Reveals Meta's Latest Prototype VR Headsets](https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/)
 * [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
 * [2022-06-20, 17:35:13](https://news.ycombinator.com/item?id=31813116) - [Solend invalidates Solana whale wallet takeover plan with second governance vote](https://cointelegraph.com/news/solend-invalidates-solana-whale-wallet-takeover-plan-with-second-governance-vote)
 * [2022-06-20, 17:28:54](https://news.ycombinator.com/item?id=31813029) - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
