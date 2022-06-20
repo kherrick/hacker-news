@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 20:29:59](https://news.ycombinator.com/item?id=31815479) - [Mighty: The Browser You Didn’t Know You Needed but Definitely Do](https://jacobhrussell.com/blog/mighty)
 * [2022-06-20, 19:06:07](https://news.ycombinator.com/item?id=31814288) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 * [2022-06-20, 18:40:57](https://news.ycombinator.com/item?id=31813957) - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
 * [2022-06-20, 18:36:19](https://news.ycombinator.com/item?id=31813893) - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
