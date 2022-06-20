@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 * [2022-06-20, 03:11:08](https://news.ycombinator.com/item?id=31805911) - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
 * [2022-06-20, 02:54:59](https://news.ycombinator.com/item?id=31805822) - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
-* [2022-06-20, 02:45:53](https://news.ycombinator.com/item?id=31805772) - [Australia's Propaganda Unit – Declassified](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
+* [2022-06-20, 02:45:53](https://news.ycombinator.com/item?id=31805772) - [Australia’s secret propaganda unit](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
 * [2022-06-20, 01:48:34](https://news.ycombinator.com/item?id=31805431) - [Floating Point Math](https://0.30000000000000004.com/)
 * [2022-06-20, 01:24:06](https://news.ycombinator.com/item?id=31805271) - [The Peecyclers](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
 * [2022-06-20, 01:03:44](https://news.ycombinator.com/item?id=31805129) - [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
@@ -20,7 +21,6 @@
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The brain has a ‘low-power mode’ that blunts our senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
-* [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 * [2022-06-20, 04:01:45](https://news.ycombinator.com/item?id=31806155) - [Ask HN: Will Coinbase Last? [Incoming Intern]](https://news.ycombinator.com/item?id=31806155)
 * [2022-06-20, 03:11:08](https://news.ycombinator.com/item?id=31805911) - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
 * [2022-06-20, 02:54:59](https://news.ycombinator.com/item?id=31805822) - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
