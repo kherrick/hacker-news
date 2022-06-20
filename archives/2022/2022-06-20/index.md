@@ -6,6 +6,7 @@
 
 * [2022-06-20, 20:45:19](https://news.ycombinator.com/item?id=31815705) - [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
 * [2022-06-20, 20:29:59](https://news.ycombinator.com/item?id=31815479) - [Mighty: The Browser You Didn’t Know You Needed but Definitely Do](https://jacobhrussell.com/blog/mighty)
+* [2022-06-20, 19:44:05](https://news.ycombinator.com/item?id=31814804) - [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
 * [2022-06-20, 19:06:07](https://news.ycombinator.com/item?id=31814288) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 * [2022-06-20, 18:40:57](https://news.ycombinator.com/item?id=31813957) - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
 * [2022-06-20, 18:36:19](https://news.ycombinator.com/item?id=31813893) - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
