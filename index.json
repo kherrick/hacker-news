@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2022-06-20, 17:14:55",
-      "https://news.ycombinator.com/item?id=31812864"
+      "2022-06-20, 17:28:54",
+      "https://news.ycombinator.com/item?id=31813029"
     ],
     [
-      "Ask HN: Having trouble hiring despite good comp, wondering what to do about it?",
-      "https://news.ycombinator.com/item?id=31812864"
+      "A closer look at CVSS scores",
+      "https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Sshfs Is Orphaned",
       "https://github.com/libfuse/sshfs"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 16:37:38",
+      "https://news.ycombinator.com/item?id=31812401"
+    ],
+    [
+      "On leaving Mapbox after 12 years",
+      "https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices",
       "https://github.com/snakers4/silero-models"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 05:57:44",
-      "https://news.ycombinator.com/item?id=31806778"
-    ],
-    [
-      "Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild",
-      "https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/"
     ]
   ],
   [
