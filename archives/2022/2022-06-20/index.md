@@ -32,6 +32,7 @@
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
 * [2022-06-20, 12:27:06](https://news.ycombinator.com/item?id=31809503) - [Ask HN: Software career at 38 after beeing a Quant](https://news.ycombinator.com/item?id=31809503)
 * [2022-06-20, 12:20:26](https://news.ycombinator.com/item?id=31809445) - [3M’s PFAS Crisis Has Come to Europe](https://www.bloomberg.com/graphics/2022-3m-pfas-toxic-forever-chemicals-europe)
+* [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 * [2022-06-20, 12:01:54](https://news.ycombinator.com/item?id=31809259) - [Capital One Data Breach Class Action Settlement](https://www.capitalonesettlement.com/en)
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
 * [2022-06-20, 11:08:47](https://news.ycombinator.com/item?id=31808866) - [Sega Megadriver Synthesizer in Depth Look (2020) [video]](https://www.youtube.com/watch?v=eAgwVvJwdnc)
