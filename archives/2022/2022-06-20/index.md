@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 23:04:50](https://news.ycombinator.com/item?id=31817380) - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
+* [2022-06-20, 22:43:46](https://news.ycombinator.com/item?id=31817184) - [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
 * [2022-06-20, 22:40:15](https://news.ycombinator.com/item?id=31817144) - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 * [2022-06-20, 22:27:46](https://news.ycombinator.com/item?id=31816988) - [EarthFM Natural Soundscapes](https://earth.fm/)
 * [2022-06-20, 22:21:16](https://news.ycombinator.com/item?id=31816912) - [Mullvad is now continuously donating to Qubes OS](https://mullvad.net/en/blog/2022/6/15/mullvad-is-now-continuously-donating-to-qubes-os/)
@@ -60,6 +62,7 @@
 * [2022-06-20, 08:49:15](https://news.ycombinator.com/item?id=31807877) - [A Data-Centric Introduction to Computing (Free Book)](https://dcic-world.org/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook Says Apple Is Too Powerful – They're Right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:51:49](https://news.ycombinator.com/item?id=31807438) - [Top Digital Calipers for Machinists (2021)](https://www.practicalmachinist.com/inspection-and-measurement/top-5-digital-calipers-for-machinists/)
+* [2022-06-20, 07:30:30](https://news.ycombinator.com/item?id=31807304) - [Pentaform launches AbacusBasic, the ‘world’s most affordable PC’](https://techcrunch.com/2022/06/18/pentaform-abacusbasic/)
 * [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 * [2022-06-20, 06:54:16](https://news.ycombinator.com/item?id=31807104) - [No-one knows what they are doing](https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/)
 * [2022-06-20, 06:27:43](https://news.ycombinator.com/item?id=31806961) - [Dissatisfaction in the Tesla factory in Grünheide: employees are leaving](https://www.stern.de/auto/e-mobilitaet/unzufriedenheit-bei-tesla-in-gruenheide--beschaeftigte-verlassen-unternehmen-31961868.html)
