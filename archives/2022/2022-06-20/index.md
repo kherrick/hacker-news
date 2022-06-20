@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 14:23:09](https://news.ycombinator.com/item?id=31810687) - [Terminated](https://susiebright.substack.com/p/terminated)
 * [2022-06-20, 14:11:07](https://news.ycombinator.com/item?id=31810550) - [London ranked second best startup hub in the world for tech](https://www.standard.co.uk/business/london-second-best-startup-hub-world-for-tech-b1005964.html)
+* [2022-06-20, 14:07:19](https://news.ycombinator.com/item?id=31810511) - [Owncast is a self-hosted live video and web chat server](https://owncast.online/)
+* [2022-06-20, 14:02:51](https://news.ycombinator.com/item?id=31810471) - [I Shut Down My Company. Now I Need a Job](https://news.ycombinator.com/item?id=31810471)
 * [2022-06-20, 13:56:45](https://news.ycombinator.com/item?id=31810405) - [A List of Developer Newsletters](https://draft.dev/learn/the-ultimate-list-of-developer-newsletters)
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
 * [2022-06-20, 12:27:06](https://news.ycombinator.com/item?id=31809503) - [Ask HN: Software career at 38 after beeing a Quant](https://news.ycombinator.com/item?id=31809503)
