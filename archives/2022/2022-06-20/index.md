@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
 * [2022-06-20, 14:45:25](https://news.ycombinator.com/item?id=31810949) - [Breaking MySQL Replication with Algorithm = Instant](https://blog.koehntopp.info)
+* [2022-06-20, 14:41:02](https://news.ycombinator.com/item?id=31810903) - [India could become a 'mushroom superpower'](https://www.bbc.com/news/business-61420016)
+* [2022-06-20, 14:34:51](https://news.ycombinator.com/item?id=31810832) - [SSO should be table stakes](https://tuple.app/blog/sso-should-be-table-stakes)
 * [2022-06-20, 14:23:09](https://news.ycombinator.com/item?id=31810687) - [Terminated](https://susiebright.substack.com/p/terminated)
 * [2022-06-20, 14:11:07](https://news.ycombinator.com/item?id=31810550) - [London ranked second best startup hub in the world for tech](https://www.standard.co.uk/business/london-second-best-startup-hub-world-for-tech-b1005964.html)
 * [2022-06-20, 14:07:19](https://news.ycombinator.com/item?id=31810511) - [Owncast is a self-hosted live video and web chat server](https://owncast.online/)
