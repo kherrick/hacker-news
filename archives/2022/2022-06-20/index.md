@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 15:14:48](https://news.ycombinator.com/item?id=31811341) - [The case for unique email addresses (2020)](https://musings.tychi.me/the-case-for-unique-email-addresses)
 * [2022-06-20, 14:45:25](https://news.ycombinator.com/item?id=31810949) - [Breaking MySQL Replication with Algorithm = Instant](https://blog.koehntopp.info)
 * [2022-06-20, 14:41:02](https://news.ycombinator.com/item?id=31810903) - [India could become a 'mushroom superpower'](https://www.bbc.com/news/business-61420016)
 * [2022-06-20, 14:34:51](https://news.ycombinator.com/item?id=31810832) - [SSO should be table stakes](https://tuple.app/blog/sso-should-be-table-stakes)
