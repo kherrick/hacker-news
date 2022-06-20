@@ -10,6 +10,7 @@
 * [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over $270m Capital One hack](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
+* [2022-06-20, 09:42:25](https://news.ycombinator.com/item?id=31808227) - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
 * [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Correspondance times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
