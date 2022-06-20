@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 17:35:13](https://news.ycombinator.com/item?id=31813116) - [Solend invalidates Solana whale wallet takeover plan with second governance vote](https://cointelegraph.com/news/solend-invalidates-solana-whale-wallet-takeover-plan-with-second-governance-vote)
+* [2022-06-20, 17:14:55](https://news.ycombinator.com/item?id=31812864) - [Ask HN: Having trouble hiring despite good comp, wondering what to do about it?](https://news.ycombinator.com/item?id=31812864)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs/commit/c91eb9a9a992f1a36c49a8e6f1146e45b5e1c8e7)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
 * [2022-06-20, 16:27:26](https://news.ycombinator.com/item?id=31812259) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)

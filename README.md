@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 17:35:13](https://news.ycombinator.com/item?id=31813116) - [Solend invalidates Solana whale wallet takeover plan with second governance vote](https://cointelegraph.com/news/solend-invalidates-solana-whale-wallet-takeover-plan-with-second-governance-vote)
+* [2022-06-20, 17:14:55](https://news.ycombinator.com/item?id=31812864) - [Ask HN: Having trouble hiring despite good comp, wondering what to do about it?](https://news.ycombinator.com/item?id=31812864)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
 * [2022-06-20, 16:27:26](https://news.ycombinator.com/item?id=31812259) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
 * [2022-06-20, 16:21:30](https://news.ycombinator.com/item?id=31812163) - [Experiment: Pay students to tackle learning loss](https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/)
 * [2022-06-20, 15:51:10](https://news.ycombinator.com/item?id=31811789) - [Action Plan for a New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
 * [2022-06-20, 15:48:37](https://news.ycombinator.com/item?id=31811758) - [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
 * [2022-06-20, 15:14:48](https://news.ycombinator.com/item?id=31811341) - [The case for unique email addresses (2020)](https://musings.tychi.me/the-case-for-unique-email-addresses)
-* [2022-06-20, 14:41:02](https://news.ycombinator.com/item?id=31810903) - [India could become a 'mushroom superpower'](https://www.bbc.com/news/business-61420016)
 * [2022-06-20, 14:39:11](https://news.ycombinator.com/item?id=31810876) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2022-06-20, 14:07:19](https://news.ycombinator.com/item?id=31810511) - [Owncast is a self-hosted live video and web chat server](https://owncast.online/)
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
@@ -27,7 +28,6 @@
 * [2022-06-19, 10:02:31](https://news.ycombinator.com/item?id=31797918) - [Make the Raku programming language familiar to C++ programmers](https://software.gellyfish.co.uk/2022/06/make-raku-programming-language-familiar.html)
 * [2022-06-19, 04:49:56](https://news.ycombinator.com/item?id=31796261) - [Pipes, deadlocks, and strace annoyingly fixing them](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)
 * [2022-06-18, 17:35:46](https://news.ycombinator.com/item?id=31791973) - [“The Transactor” magazine, Commodore, 1978-1989](https://www.commodore.ca/commodore-gallery/the-transactor-magazine/)
-* [2022-06-18, 16:15:48](https://news.ycombinator.com/item?id=31791206) - [Pygame in All the Languages](https://www.pygame.org/news/2022/5/pygame-in-all-the-languages)
 * [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:43:35](https://news.ycombinator.com/item?id=31790226) - [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/)
 
