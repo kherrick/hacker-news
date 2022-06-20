@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 23:22:11](https://news.ycombinator.com/item?id=31817549) - [As water crisis worsens on Colorado River, an urgent call for states to ‘act’](https://www.latimes.com/environment/story/2022-06-20/as-colorado-river-reservoirs-drop-states-urged-to-act-now)
 * [2022-06-20, 23:04:50](https://news.ycombinator.com/item?id=31817380) - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
 * [2022-06-20, 22:43:46](https://news.ycombinator.com/item?id=31817184) - [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
 * [2022-06-20, 22:40:15](https://news.ycombinator.com/item?id=31817144) - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)

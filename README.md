@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 23:22:11](https://news.ycombinator.com/item?id=31817549) - [As water crisis worsens on Colorado River, an urgent call for states to ‘act’](https://www.latimes.com/environment/story/2022-06-20/as-colorado-river-reservoirs-drop-states-urged-to-act-now)
 * [2022-06-20, 23:04:50](https://news.ycombinator.com/item?id=31817380) - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
 * [2022-06-20, 22:43:46](https://news.ycombinator.com/item?id=31817184) - [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
 * [2022-06-20, 22:40:15](https://news.ycombinator.com/item?id=31817144) - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
@@ -24,7 +25,6 @@
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
 * [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I am not going to buy a computer (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing one sentence per line](https://sive.rs/1s)
-* [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [The integrated timetable of Switzerland](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook says Apple is too powerful – they're right](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:51:49](https://news.ycombinator.com/item?id=31807438) - [Top Digital Calipers for Machinists (2021)](https://www.practicalmachinist.com/inspection-and-measurement/top-5-digital-calipers-for-machinists/)
 * [2022-06-20, 07:30:30](https://news.ycombinator.com/item?id=31807304) - [Pentaform launches AbacusBasic, the ‘world’s most affordable PC’](https://techcrunch.com/2022/06/18/pentaform-abacusbasic/)
