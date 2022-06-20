@@ -49,6 +49,7 @@
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 10:21:07](https://news.ycombinator.com/item?id=31798006) - [Why modern Linux console is slower than 10 years ago](https://utcc.utoronto.ca/~cks/space/blog/linux/TextAndFramebufferConsoles)
 * [2022-06-19, 10:19:08](https://news.ycombinator.com/item?id=31797992) - [Bolt has a cool web interface and they really don't want you to use it](https://toot.kuba-orlik.name/@kuba/108503475480137792)
+* [2022-06-19, 10:02:31](https://news.ycombinator.com/item?id=31797918) - [Make the Raku programming language familiar to C++ programmers](https://software.gellyfish.co.uk/2022/06/make-raku-programming-language-familiar.html)
 * [2022-06-19, 09:56:29](https://news.ycombinator.com/item?id=31797892) - [Early Access to Chrome OS Flex: The Upgrade PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chrome-os-flex)
 * [2022-06-19, 09:22:36](https://news.ycombinator.com/item?id=31797686) - [Reasons to tour by bicycle](https://kk.org/thetechnium/reasons-to-tour-by-bicycle/)
 * [2022-06-19, 09:05:26](https://news.ycombinator.com/item?id=31797587) - [How we wound up with Linux's kernel mode setting ('KMS')](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground)
