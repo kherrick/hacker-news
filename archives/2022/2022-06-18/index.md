@@ -22,6 +22,7 @@
 * [2022-06-18, 18:03:12](https://news.ycombinator.com/item?id=31792227) - [Why houses in Bermuda have white stepped roofs](https://www.bbc.com/news/magazine-38222271)
 * [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
 * [2022-06-18, 17:37:23](https://news.ycombinator.com/item?id=31791989) - [Ask HN: What was the actual impact of Microsoft anti trust case on the industry?](https://news.ycombinator.com/item?id=31791989)
+* [2022-06-18, 17:35:46](https://news.ycombinator.com/item?id=31791973) - [“The Transactor” magazine, Commodore, 1978-1989](https://www.commodore.ca/commodore-gallery/the-transactor-magazine/)
 * [2022-06-18, 17:13:48](https://news.ycombinator.com/item?id=31791790) - [It is currently faster to launch PHP to execute a regex than using std:regex](https://cor3ntin.github.io/posts/abi/)
 * [2022-06-18, 17:01:20](https://news.ycombinator.com/item?id=31791670) - [Basis (YC S21) Is hiring devs to help build the Figma for Data](https://www.workatastartup.com/companies/basis-2)
 * [2022-06-18, 16:43:23](https://news.ycombinator.com/item?id=31791483) - [The women behind the windows in Amsterdam's red light district (2019)](https://nordicmodelnow.org/2019/12/27/the-women-behind-the-windows-in-amsterdams-red-light-district/)
