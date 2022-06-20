@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 16:27:26](https://news.ycombinator.com/item?id=31812259) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
+* [2022-06-20, 16:21:30](https://news.ycombinator.com/item?id=31812163) - [Experiment: Pay students to tackle learning loss](https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/)
+* [2022-06-20, 15:51:10](https://news.ycombinator.com/item?id=31811789) - [Action Plan for a New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
+* [2022-06-20, 15:48:37](https://news.ycombinator.com/item?id=31811758) - [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
 * [2022-06-20, 15:14:48](https://news.ycombinator.com/item?id=31811341) - [The case for unique email addresses (2020)](https://musings.tychi.me/the-case-for-unique-email-addresses)
 * [2022-06-20, 14:45:25](https://news.ycombinator.com/item?id=31810949) - [Breaking MySQL Replication with Algorithm = Instant](https://blog.koehntopp.info)
 * [2022-06-20, 14:41:02](https://news.ycombinator.com/item?id=31810903) - [India could become a 'mushroom superpower'](https://www.bbc.com/news/business-61420016)
