@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-20, 08:49:48",
+      "https://news.ycombinator.com/item?id=31807881"
+    ],
+    [
+      "Text Topography",
+      "http://www.tikalon.com/blog/blog.php?article=2022/text_topography"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 08:49:32",
+      "https://news.ycombinator.com/item?id=31807879"
+    ],
+    [
+      "C Xor C++ Programming",
+      "https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 08:35:34",
+      "https://news.ycombinator.com/item?id=31807783"
+    ],
+    [
+      "Facebook Says Apple Is Too Powerful – They're Right?",
+      "https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right"
+    ]
+  ],
+  [
+    [
       "2022-06-20, 07:11:16",
       "https://news.ycombinator.com/item?id=31807201"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2022-06-20, 03:11:08",
-      "https://news.ycombinator.com/item?id=31805911"
-    ],
-    [
-      "Evolution Through Large Models",
-      "https://arxiv.org/abs/2206.08896"
-    ]
-  ],
-  [
-    [
       "2022-06-20, 02:54:59",
       "https://news.ycombinator.com/item?id=31805822"
     ],
@@ -97,16 +117,6 @@
     [
       "Notes on WebAssembly",
       "http://neugierig.org/software/blog/2022/06/wasm-notes.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 01:03:44",
-      "https://news.ycombinator.com/item?id=31805129"
-    ],
-    [
-      "A Note to the Celsius Community",
-      "https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2022-06-19, 21:16:45",
-      "https://news.ycombinator.com/item?id=31803593"
-    ],
-    [
-      "Samsung Busted for Cheating TV Test Benchmarks",
-      "https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 19:58:46",
       "https://news.ycombinator.com/item?id=31802823"
     ],
     [
       "Mobile-First CSS: Is It Time for a Rethink?",
       "https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 18:56:06",
-      "https://news.ycombinator.com/item?id=31802245"
-    ],
-    [
-      "700M users and Premium",
-      "https://telegram.org/blog/700-million-and-premium"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Will optic ever replace copper interconnects? We ask a silicon photonics startup",
       "https://www.theregister.com/2022/06/18/optical_interconnect_future/"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 14:43:35",
+      "https://news.ycombinator.com/item?id=31790226"
+    ],
+    [
+      "The Truth About Dentistry",
+      "https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/"
     ]
   ]
 ]
