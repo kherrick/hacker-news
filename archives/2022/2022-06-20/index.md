@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
 * [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Correspondance times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
 * [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
-* [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Correspondance times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
+* [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Transfer times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 * [2022-06-20, 08:49:48](https://news.ycombinator.com/item?id=31807881) - [Text Topography](http://www.tikalon.com/blog/blog.php?article=2022/text_topography)
 * [2022-06-20, 08:49:15](https://news.ycombinator.com/item?id=31807877) - [A Data-Centric Introduction to Computing (Free Book)](https://dcic-world.org/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook Says Apple Is Too Powerful – They're Right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
@@ -25,7 +26,6 @@
 * [2022-06-18, 20:46:00](https://news.ycombinator.com/item?id=31793682) - [Parents’ trauma leaves biological traces in children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
 * [2022-06-18, 18:03:12](https://news.ycombinator.com/item?id=31792227) - [Why houses in Bermuda have white stepped roofs (2016)](https://www.bbc.com/news/magazine-38222271)
 * [2022-06-18, 16:07:37](https://news.ycombinator.com/item?id=31791126) - [Consciousness is not computation](https://joe-antognini.github.io/ml/consciousness)
-* [2022-06-18, 14:51:15](https://news.ycombinator.com/item?id=31790297) - [How ice cream became the ultimate American comfort food (2021)](https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history)
 * [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:44:05](https://news.ycombinator.com/item?id=31790237) - [Reflections on Trusting Trust (1984) [pdf]](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [2022-06-18, 14:43:56](https://news.ycombinator.com/item?id=31790233) - [Will optic ever replace copper interconnects? We ask a silicon photonics startup](https://www.theregister.com/2022/06/18/optical_interconnect_future/)
