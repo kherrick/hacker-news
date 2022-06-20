@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-06-19, 22:52:25",
-      "https://news.ycombinator.com/item?id=31804303"
+      "2022-06-20, 01:48:34",
+      "https://news.ycombinator.com/item?id=31805431"
     ],
     [
-      "Ask HN: Do you upvote direct replies?",
-      "https://news.ycombinator.com/item?id=31804303"
+      "Floating Point Math",
+      "https://0.30000000000000004.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 01:03:44",
+      "https://news.ycombinator.com/item?id=31805129"
+    ],
+    [
+      "A Note to the Celsius Community",
+      "https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 00:14:13",
+      "https://news.ycombinator.com/item?id=31804843"
+    ],
+    [
+      "What's New in Ada 2022",
+      "https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 23:58:31",
+      "https://news.ycombinator.com/item?id=31804743"
+    ],
+    [
+      "SpaceX launches three Falcon 9 rockets in 36 hours",
+      "https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 23:13:24",
+      "https://news.ycombinator.com/item?id=31804429"
+    ],
+    [
+      "We need a flowchart editor that doesn't give you carpal tunnel",
+      "https://www.scottantipa.com/why-knotend"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 21:35:53",
+      "https://news.ycombinator.com/item?id=31803759"
+    ],
+    [
+      "Will word processors start a home working revolution? (1979) [video]",
+      "https://www.youtube.com/watch?v=b6URa-PTqfA"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-06-19, 15:12:39",
-      "https://news.ycombinator.com/item?id=31800127"
-    ],
-    [
-      "Making the Master System a master of speech",
-      "https://nicole.express/2022/let-me-show-you-the-sound-of-my-master.html"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 14:51:01",
       "https://news.ycombinator.com/item?id=31799922"
     ],
@@ -191,62 +231,12 @@
   ],
   [
     [
-      "2022-06-19, 10:21:07",
-      "https://news.ycombinator.com/item?id=31798006"
-    ],
-    [
-      "Text consoles and framebuffer consoles in Linux",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/TextAndFramebufferConsoles"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 09:56:29",
-      "https://news.ycombinator.com/item?id=31797892"
-    ],
-    [
-      "Early Access to Chrome OS Flex: The Upgrade PCs and Macs",
-      "https://cloud.google.com/blog/products/chrome-enterprise/chrome-os-flex"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 09:05:26",
-      "https://news.ycombinator.com/item?id=31797587"
-    ],
-    [
-      "How we wound up with Linux's kernel mode setting ('KMS')",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelModesettingBackground"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 08:33:46",
       "https://news.ycombinator.com/item?id=31797431"
     ],
     [
       "Relearning to Learn",
       "https://sourceless.org/posts/relearning-to-learn.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 08:11:04",
-      "https://news.ycombinator.com/item?id=31797304"
-    ],
-    [
-      "Sufficiently Advanced Testing (2019)",
-      "https://zhd.dev/sufficiently/"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 07:30:40",
-      "https://news.ycombinator.com/item?id=31797073"
-    ],
-    [
-      "Running systemd without systemd-journald",
-      "https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd"
     ]
   ],
   [
@@ -261,6 +251,36 @@
   ],
   [
     [
+      "2022-06-18, 20:46:00",
+      "https://news.ycombinator.com/item?id=31793682"
+    ],
+    [
+      "Parents’ trauma leaves biological traces in children",
+      "https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 18:03:12",
+      "https://news.ycombinator.com/item?id=31792227"
+    ],
+    [
+      "Why houses in Bermuda have white stepped roofs",
+      "https://www.bbc.com/news/magazine-38222271"
+    ]
+  ],
+  [
+    [
+      "2022-06-18, 16:07:37",
+      "https://news.ycombinator.com/item?id=31791126"
+    ],
+    [
+      "Consciousness Is Not Computation",
+      "https://joe-antognini.github.io/ml/consciousness"
+    ]
+  ],
+  [
+    [
       "2022-06-18, 14:51:15",
       "https://news.ycombinator.com/item?id=31790297"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-06-18, 14:46:11",
-      "https://news.ycombinator.com/item?id=31790262"
-    ],
-    [
-      "HAL/S Syntax",
-      "https://en.wikipedia.org/wiki/HAL/S"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 14:44:05",
       "https://news.ycombinator.com/item?id=31790237"
     ],
     [
       "Reflections on Trusting Trust (1984) [pdf]",
       "http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-06-18, 03:58:58",
-      "https://news.ycombinator.com/item?id=31787163"
-    ],
-    [
-      "Intel’s Netburst: Failure Is a Foundation for Success",
-      "https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/"
     ]
   ]
 ]
