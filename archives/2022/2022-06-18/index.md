@@ -35,6 +35,7 @@
 * [2022-06-18, 14:51:15](https://news.ycombinator.com/item?id=31790297) - [How Ice Cream Became the Ultimate American Comfort Food](https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history)
 * [2022-06-18, 14:49:14](https://news.ycombinator.com/item?id=31790284) - [There Could Be Four Hostile Civilizations in the Milky Way](https://www.universetoday.com/156281/there-could-be-four-hostile-civilizations-in-the-milky-way/)
 * [2022-06-18, 14:46:11](https://news.ycombinator.com/item?id=31790262) - [HAL/S Syntax](https://en.wikipedia.org/wiki/HAL/S)
+* [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:44:05](https://news.ycombinator.com/item?id=31790237) - [Reflections on Trusting Trust [pdf]](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [2022-06-18, 14:40:15](https://news.ycombinator.com/item?id=31790184) - [100% of Long Covid patients have GPCR-autoantibodies](https://iovs.arvojournals.org/article.aspx?articleid=2781044)
 * [2022-06-18, 14:39:24](https://news.ycombinator.com/item?id=31790169) - [Ask HN: Is your company giving you a holiday for Juneteenth?](https://news.ycombinator.com/item?id=31790169)

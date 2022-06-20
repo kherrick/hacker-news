@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-20, 05:57:44](https://news.ycombinator.com/item?id=31806778) - [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
+* [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 * [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 * [2022-06-20, 03:11:08](https://news.ycombinator.com/item?id=31805911) - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
 * [2022-06-20, 02:54:59](https://news.ycombinator.com/item?id=31805822) - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
-* [2022-06-20, 02:45:53](https://news.ycombinator.com/item?id=31805772) - [Australia’s secret propaganda unit](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
 * [2022-06-20, 01:24:06](https://news.ycombinator.com/item?id=31805271) - [The Peecyclers](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
 * [2022-06-20, 01:18:09](https://news.ycombinator.com/item?id=31805227) - [Notes on WebAssembly](http://neugierig.org/software/blog/2022/06/wasm-notes.html)
 * [2022-06-20, 01:03:44](https://news.ycombinator.com/item?id=31805129) - [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
@@ -20,7 +20,6 @@
 * [2022-06-19, 17:47:56](https://news.ycombinator.com/item?id=31801590) - [Show HN: Mabel – a fancy BitTorrent client for the terminal](https://github.com/smmr-software/mabel)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The brain has a ‘low-power mode’ that blunts our senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
-* [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
 * [2022-06-18, 20:46:00](https://news.ycombinator.com/item?id=31793682) - [Parents’ trauma leaves biological traces in children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
@@ -29,6 +28,7 @@
 * [2022-06-18, 18:03:12](https://news.ycombinator.com/item?id=31792227) - [Why houses in Bermuda have white stepped roofs (2016)](https://www.bbc.com/news/magazine-38222271)
 * [2022-06-18, 16:07:37](https://news.ycombinator.com/item?id=31791126) - [Consciousness is not computation](https://joe-antognini.github.io/ml/consciousness)
 * [2022-06-18, 14:51:15](https://news.ycombinator.com/item?id=31790297) - [How ice cream became the ultimate American comfort food (2021)](https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history)
+* [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:44:05](https://news.ycombinator.com/item?id=31790237) - [Reflections on Trusting Trust (1984) [pdf]](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 ## [Archives](archives/index.md)

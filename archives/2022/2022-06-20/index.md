@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
 * [2022-06-20, 05:57:44](https://news.ycombinator.com/item?id=31806778) - [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
+* [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 * [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 * [2022-06-20, 04:01:45](https://news.ycombinator.com/item?id=31806155) - [Ask HN: Will Coinbase Last? [Incoming Intern]](https://news.ycombinator.com/item?id=31806155)
