@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
+* [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
 * [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Transfer times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
@@ -13,7 +14,6 @@
 * [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 * [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
-* [2022-06-20, 02:54:59](https://news.ycombinator.com/item?id=31805822) - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 * [2022-06-20, 01:18:09](https://news.ycombinator.com/item?id=31805227) - [Notes on WebAssembly](http://neugierig.org/software/blog/2022/06/wasm-notes.html)
 * [2022-06-20, 00:55:57](https://news.ycombinator.com/item?id=31805087) - [A Quick Look at QUIC Censorship](https://ooni.org/post/2022-quick-look-quic-censorship/)
 * [2022-06-20, 00:14:13](https://news.ycombinator.com/item?id=31804843) - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
