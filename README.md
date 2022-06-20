@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-20, 04:01:45](https://news.ycombinator.com/item?id=31806155) - [Ask HN: Will Coinbase Last? [Incoming Intern]](https://news.ycombinator.com/item?id=31806155)
 * [2022-06-20, 03:11:08](https://news.ycombinator.com/item?id=31805911) - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
 * [2022-06-20, 02:54:59](https://news.ycombinator.com/item?id=31805822) - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 * [2022-06-20, 02:45:53](https://news.ycombinator.com/item?id=31805772) - [Australia's Propaganda Unit – Declassified](https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/)
@@ -13,6 +12,8 @@
 * [2022-06-19, 21:35:53](https://news.ycombinator.com/item?id=31803759) - [Will word processors start a home working revolution? (1979) [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
 * [2022-06-19, 21:16:45](https://news.ycombinator.com/item?id=31803593) - [Samsung Busted for Cheating TV Test Benchmarks](https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/)
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
+* [2022-06-19, 19:46:29](https://news.ycombinator.com/item?id=31802701) - [Road Rash creator Randy Breen [audio]](https://theretrohour.com/road-rash-creator-randy-breen-ep331/)
+* [2022-06-19, 19:04:26](https://news.ycombinator.com/item?id=31802327) - [Adding a Feature to the MEGA65](https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/)
 * [2022-06-19, 18:56:06](https://news.ycombinator.com/item?id=31802245) - [700M users and Premium](https://telegram.org/blog/700-million-and-premium)
 * [2022-06-19, 18:12:26](https://news.ycombinator.com/item?id=31801814) - [Advancing the state of the art for std:unordered_map implementations](http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html)
 * [2022-06-19, 17:47:56](https://news.ycombinator.com/item?id=31801590) - [Show HN: Mabel – a fancy BitTorrent client for the terminal](https://github.com/smmr-software/mabel)
@@ -21,7 +22,6 @@
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The brain has a ‘low-power mode’ that blunts our senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
 * [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 * [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
-* [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
 * [2022-06-19, 11:24:24](https://news.ycombinator.com/item?id=31798311) - [Bunny fonts – privacy respecting drop-in replacement for Google Fonts](https://fonts.bunny.net/about)
 * [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
 * [2022-06-18, 20:46:00](https://news.ycombinator.com/item?id=31793682) - [Parents’ trauma leaves biological traces in children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
