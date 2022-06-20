@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-06-20, 04:01:45",
+      "https://news.ycombinator.com/item?id=31806155"
+    ],
+    [
+      "Ask HN: Will Coinbase Last? [Incoming Intern]",
+      "https://news.ycombinator.com/item?id=31806155"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 03:11:08",
+      "https://news.ycombinator.com/item?id=31805911"
+    ],
+    [
+      "Evolution Through Large Models",
+      "https://arxiv.org/abs/2206.08896"
+    ]
+  ],
+  [
+    [
       "2022-06-20, 02:54:59",
       "https://news.ycombinator.com/item?id=31805822"
     ],
     [
       "Oldschool PC Fonts",
       "https://int10h.org/oldschool-pc-fonts/fontlist/"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 02:45:53",
+      "https://news.ycombinator.com/item?id=31805772"
+    ],
+    [
+      "Australia's Propaganda Unit – Declassified",
+      "https://declassifiedaus.org/2022/06/16/revealed-australias-secret-propaganda-unit/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31805271"
     ],
     [
-      "The Peecyclers. Their Idea to Help Farmers Is No. 1",
+      "The Peecyclers",
       "https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html"
     ]
   ],
@@ -41,22 +71,22 @@
   ],
   [
     [
+      "2022-06-20, 00:55:57",
+      "https://news.ycombinator.com/item?id=31805087"
+    ],
+    [
+      "A Quick Look at QUIC Censorship",
+      "https://ooni.org/post/2022-quick-look-quic-censorship/"
+    ]
+  ],
+  [
+    [
       "2022-06-20, 00:14:13",
       "https://news.ycombinator.com/item?id=31804843"
     ],
     [
       "What's New in Ada 2022",
       "https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 23:58:31",
-      "https://news.ycombinator.com/item?id=31804743"
-    ],
-    [
-      "SpaceX launches three Falcon 9 rockets in 36 hours",
-      "https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/"
     ]
   ],
   [
@@ -97,26 +127,6 @@
     [
       "Mobile-First CSS: Is It Time for a Rethink?",
       "https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 19:46:29",
-      "https://news.ycombinator.com/item?id=31802701"
-    ],
-    [
-      "Road Rash creator Randy Breen [audio]",
-      "https://theretrohour.com/road-rash-creator-randy-breen-ep331/"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 19:04:26",
-      "https://news.ycombinator.com/item?id=31802327"
-    ],
-    [
-      "Adding a Feature to the MEGA65",
-      "https://dansanderson.com/lab-notes/adding-a-feature-to-mega65/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-06-19, 04:34:08",
-      "https://news.ycombinator.com/item?id=31796193"
-    ],
-    [
-      "NASA/APL Interstellar Probe Mission Architecture",
-      "https://interstellarprobe.jhuapl.edu/Mission-Architecture/"
-    ]
-  ],
-  [
-    [
       "2022-06-18, 20:46:00",
       "https://news.ycombinator.com/item?id=31793682"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31792227"
     ],
     [
-      "Why houses in Bermuda have white stepped roofs",
+      "Why houses in Bermuda have white stepped roofs (2016)",
       "https://www.bbc.com/news/magazine-38222271"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=31791126"
     ],
     [
-      "Consciousness Is Not Computation",
+      "Consciousness is not computation",
       "https://joe-antognini.github.io/ml/consciousness"
     ]
   ],
