@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
+* [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Correspondance times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 * [2022-06-20, 08:49:48](https://news.ycombinator.com/item?id=31807881) - [Text Topography](http://www.tikalon.com/blog/blog.php?article=2022/text_topography)
 * [2022-06-20, 08:49:32](https://news.ycombinator.com/item?id=31807879) - [C Xor C++ Programming](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
+* [2022-06-20, 08:49:15](https://news.ycombinator.com/item?id=31807877) - [A Data-Centric Introduction to Computing (Free Book)](https://dcic-world.org/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook Says Apple Is Too Powerful – They're Right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 * [2022-06-20, 06:54:16](https://news.ycombinator.com/item?id=31807104) - [No-one knows what they are doing](https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/)
