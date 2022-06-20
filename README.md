@@ -3,6 +3,8 @@
 * [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 * [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
 * [2022-06-20, 17:28:54](https://news.ycombinator.com/item?id=31813029) - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
+* [2022-06-20, 17:24:56](https://news.ycombinator.com/item?id=31812984) - [Redfin Economist says land value tax will fix the economy](https://narrativespodcast.com/2022/06/20/99-daryl-fairweather-the-housing-crisis/)
+* [2022-06-20, 17:14:55](https://news.ycombinator.com/item?id=31812864) - [Ask HN: Having trouble getting senior applicants, wondering what to do about it](https://news.ycombinator.com/item?id=31812864)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
 * [2022-06-20, 16:37:38](https://news.ycombinator.com/item?id=31812401) - [On leaving Mapbox after 12 years](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/)
 * [2022-06-20, 16:27:26](https://news.ycombinator.com/item?id=31812259) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
@@ -25,9 +27,7 @@
 * [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
 * [2022-06-19, 17:47:00](https://news.ycombinator.com/item?id=31801584) - [George Lamming Has Died](https://www.nytimes.com/2022/06/17/books/george-lamming-dead.html)
-* [2022-06-19, 10:02:31](https://news.ycombinator.com/item?id=31797918) - [Make the Raku programming language familiar to C++ programmers](https://software.gellyfish.co.uk/2022/06/make-raku-programming-language-familiar.html)
 * [2022-06-19, 04:49:56](https://news.ycombinator.com/item?id=31796261) - [Pipes, deadlocks, and strace annoyingly fixing them](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)
-* [2022-06-18, 17:35:46](https://news.ycombinator.com/item?id=31791973) - [“The Transactor” magazine, Commodore, 1978-1989](https://www.commodore.ca/commodore-gallery/the-transactor-magazine/)
 * [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:43:35](https://news.ycombinator.com/item?id=31790226) - [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/)
 

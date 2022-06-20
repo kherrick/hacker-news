@@ -8,6 +8,7 @@
 * [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
 * [2022-06-20, 17:35:13](https://news.ycombinator.com/item?id=31813116) - [Solend invalidates Solana whale wallet takeover plan with second governance vote](https://cointelegraph.com/news/solend-invalidates-solana-whale-wallet-takeover-plan-with-second-governance-vote)
 * [2022-06-20, 17:28:54](https://news.ycombinator.com/item?id=31813029) - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
+* [2022-06-20, 17:24:56](https://news.ycombinator.com/item?id=31812984) - [Redfin Economist says land value tax will fix the economy](https://narrativespodcast.com/2022/06/20/99-daryl-fairweather-the-housing-crisis/)
 * [2022-06-20, 17:14:55](https://news.ycombinator.com/item?id=31812864) - [Ask HN: Having trouble hiring despite good comp, wondering what to do about it?](https://news.ycombinator.com/item?id=31812864)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs/commit/c91eb9a9a992f1a36c49a8e6f1146e45b5e1c8e7)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
