@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 02:54:59](https://news.ycombinator.com/item?id=31805822) - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/fontlist/)
 * [2022-06-20, 01:48:34](https://news.ycombinator.com/item?id=31805431) - [Floating Point Math](https://0.30000000000000004.com/)
 * [2022-06-20, 01:24:06](https://news.ycombinator.com/item?id=31805271) - [The Peecyclers. Their Idea to Help Farmers Is No. 1](https://www.nytimes.com/2022/06/17/climate/peecycling-farming-urine-fertilizer.html)
 * [2022-06-20, 01:03:44](https://news.ycombinator.com/item?id=31805129) - [A Note to the Celsius Community](https://blog.celsius.network/a-note-to-the-celsius-community-e5af1f5a7998)
@@ -17,7 +18,6 @@
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The brain has a ‘low-power mode’ that blunts our senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
-* [2022-06-19, 14:51:01](https://news.ycombinator.com/item?id=31799922) - [Apple’s macOS Ventura – New Security Changes](https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/)
 * [2022-06-19, 14:39:19](https://news.ycombinator.com/item?id=31799818) - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 * [2022-06-19, 13:56:07](https://news.ycombinator.com/item?id=31799414) - [Playstation confirms chain of 5 vulnerabilities on PS4/PS5](https://hackerone.com/reports/1379975)
 * [2022-06-19, 13:26:01](https://news.ycombinator.com/item?id=31799147) - [Show HN: WarcDB: Web crawl data as SQLite databases](https://github.com/Florents-Tselai/WarcDB)
