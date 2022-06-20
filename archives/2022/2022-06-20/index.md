@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
 * [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
+* [2022-06-20, 06:54:16](https://news.ycombinator.com/item?id=31807104) - [No-one knows what they are doing](https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/)
+* [2022-06-20, 06:27:43](https://news.ycombinator.com/item?id=31806961) - [Dissatisfaction in the Tesla factory in Grünheide: employees are leaving](https://www.stern.de/auto/e-mobilitaet/unzufriedenheit-bei-tesla-in-gruenheide--beschaeftigte-verlassen-unternehmen-31961868.html)
 * [2022-06-20, 05:57:44](https://news.ycombinator.com/item?id=31806778) - [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
 * [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
