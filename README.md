@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-20, 12:27:06](https://news.ycombinator.com/item?id=31809503) - [Ask HN: Software career at 38 after beeing a Quant](https://news.ycombinator.com/item?id=31809503)
 * [2022-06-20, 12:20:26](https://news.ycombinator.com/item?id=31809445) - [3M’s PFAS Crisis Has Come to Europe](https://www.bloomberg.com/graphics/2022-3m-pfas-toxic-forever-chemicals-europe)
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
 * [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over hack that cost Capital One $270m](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
@@ -20,6 +19,7 @@
 * [2022-06-20, 00:14:13](https://news.ycombinator.com/item?id=31804843) - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
 * [2022-06-19, 23:13:24](https://news.ycombinator.com/item?id=31804429) - [We need a flowchart editor that doesn't give you carpal tunnel](https://www.scottantipa.com/why-knotend)
 * [2022-06-19, 21:35:53](https://news.ycombinator.com/item?id=31803759) - [Will word processors start a home working revolution? (1979) [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
+* [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 12:16:54](https://news.ycombinator.com/item?id=31798601) - [Getting to Gnome Mode](https://studio.ribbonfarm.com/p/getting-to-gnome-mode)
 * [2022-06-19, 10:02:31](https://news.ycombinator.com/item?id=31797918) - [Make the Raku programming language familiar to C++ programmers](https://software.gellyfish.co.uk/2022/06/make-raku-programming-language-familiar.html)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
