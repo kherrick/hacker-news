@@ -41,6 +41,7 @@
 * [2022-06-19, 13:02:33](https://news.ycombinator.com/item?id=31798938) - [Ask HN: Have you had success with improving your reading speed?](https://news.ycombinator.com/item?id=31798938)
 * [2022-06-19, 13:02:18](https://news.ycombinator.com/item?id=31798936) - [The following RegEx is sentient](https://old.reddit.com/r/ProgrammerHumor/comments/vfomp4/some_google_engineer_probably/)
 * [2022-06-19, 12:30:19](https://news.ycombinator.com/item?id=31798690) - [We asked teachers how their year went. They warned of an exodus to come](https://text.npr.org/1105655954)
+* [2022-06-19, 12:16:54](https://news.ycombinator.com/item?id=31798601) - [Getting to Gnome Mode](https://studio.ribbonfarm.com/p/getting-to-gnome-mode)
 * [2022-06-19, 12:12:10](https://news.ycombinator.com/item?id=31798580) - [Software Disenchantment (2018)](https://tonsky.me/blog/disenchantment/)
 * [2022-06-19, 12:00:31](https://news.ycombinator.com/item?id=31798505) - [The Muse (YC W12) Is Hiring a Senior or Midlevel Software Engineer](https://www.themuse.com/jobs/themuse/senior-software-engineer)
 * [2022-06-19, 11:50:04](https://news.ycombinator.com/item?id=31798439) - [How to Not Get Hit by Cars](https://bicyclesafe.com/)

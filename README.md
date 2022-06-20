@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
 * [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [Correspondance times in Switzerland's train network](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 * [2022-06-20, 08:49:48](https://news.ycombinator.com/item?id=31807881) - [Text Topography](http://www.tikalon.com/blog/blog.php?article=2022/text_topography)
@@ -19,10 +20,9 @@
 * [2022-06-19, 21:35:53](https://news.ycombinator.com/item?id=31803759) - [Will word processors start a home working revolution? (1979) [video]](https://www.youtube.com/watch?v=b6URa-PTqfA)
 * [2022-06-19, 19:58:46](https://news.ycombinator.com/item?id=31802823) - [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
+* [2022-06-19, 12:16:54](https://news.ycombinator.com/item?id=31798601) - [Getting to Gnome Mode](https://studio.ribbonfarm.com/p/getting-to-gnome-mode)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
 * [2022-06-18, 20:46:00](https://news.ycombinator.com/item?id=31793682) - [Parents’ trauma leaves biological traces in children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
-* [2022-06-18, 20:26:59](https://news.ycombinator.com/item?id=31793507) - [James Joyce almost became a famous singer (2021)](https://tedgioia.substack.com/p/how-james-joyce-almost-became-a-famous)
-* [2022-06-18, 18:14:12](https://news.ycombinator.com/item?id=31792330) - [Inconsistent Thoughts on Database Consistency](https://www.alexdebrie.com/posts/database-consistency/)
 * [2022-06-18, 18:03:12](https://news.ycombinator.com/item?id=31792227) - [Why houses in Bermuda have white stepped roofs (2016)](https://www.bbc.com/news/magazine-38222271)
 * [2022-06-18, 16:07:37](https://news.ycombinator.com/item?id=31791126) - [Consciousness is not computation](https://joe-antognini.github.io/ml/consciousness)
 * [2022-06-18, 14:51:15](https://news.ycombinator.com/item?id=31790297) - [How ice cream became the ultimate American comfort food (2021)](https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history)
