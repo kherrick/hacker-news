@@ -16,6 +16,7 @@
 * [2022-06-18, 18:42:11](https://news.ycombinator.com/item?id=31792575) - [Bitcoin drops below $18,300 as sell-off accelerates](https://www.cnbc.com/2022/06/18/bitcoin-price-drops-below-18600-as-sell-off-accelerates.html)
 * [2022-06-18, 18:19:42](https://news.ycombinator.com/item?id=31792373) - [EOS – Emacs Operating System](https://writequit.org/eos/eos.html)
 * [2022-06-18, 18:14:43](https://news.ycombinator.com/item?id=31792336) - [Building a Second Brain: The Book](https://www.buildingasecondbrain.com/book)
+* [2022-06-18, 18:14:12](https://news.ycombinator.com/item?id=31792330) - [Inconsistent Thoughts on Database Consistency](https://www.alexdebrie.com/posts/database-consistency/)
 * [2022-06-18, 18:11:57](https://news.ycombinator.com/item?id=31792303) - [Ask HN: Why Are Git Submodules So Bad?](https://news.ycombinator.com/item?id=31792303)
 * [2022-06-18, 18:03:12](https://news.ycombinator.com/item?id=31792227) - [Why houses in Bermuda have white stepped roofs](https://www.bbc.com/news/magazine-38222271)
 * [2022-06-18, 18:01:44](https://news.ycombinator.com/item?id=31792206) - [10x faster matrix and vector operations](https://github.com/dblalock/bolt)
