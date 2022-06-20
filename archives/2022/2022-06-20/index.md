@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 22:21:16](https://news.ycombinator.com/item?id=31816912) - [Mullvad is now continuously donating to Qubes OS](https://mullvad.net/en/blog/2022/6/15/mullvad-is-now-continuously-donating-to-qubes-os/)
 * [2022-06-20, 21:29:53](https://news.ycombinator.com/item?id=31816255) - [WebAssembly on Amazon Lambda: Lessons Learned](https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned)
 * [2022-06-20, 20:45:19](https://news.ycombinator.com/item?id=31815705) - [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
 * [2022-06-20, 20:29:59](https://news.ycombinator.com/item?id=31815479) - [Mighty: The Browser You Didn’t Know You Needed but Definitely Do](https://jacobhrussell.com/blog/mighty)
@@ -46,6 +47,7 @@
 * [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over $270m Capital One hack](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
+* [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I Am Not Going to Buy a Computer – Wendell Berry (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 09:42:25](https://news.ycombinator.com/item?id=31808227) - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing One Sentence per Line](https://sive.rs/1s)
 * [2022-06-20, 08:54:41](https://news.ycombinator.com/item?id=31807915) - [Why the Full Stack Engineer Is Problematic](https://itrevolution.com/why-the-full-stack-engineer-is-problematic/)

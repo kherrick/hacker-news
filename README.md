@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 22:21:16](https://news.ycombinator.com/item?id=31816912) - [Mullvad is now continuously donating to Qubes OS](https://mullvad.net/en/blog/2022/6/15/mullvad-is-now-continuously-donating-to-qubes-os/)
 * [2022-06-20, 21:29:53](https://news.ycombinator.com/item?id=31816255) - [WebAssembly on Amazon Lambda: Lessons Learned](https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned)
 * [2022-06-20, 20:45:19](https://news.ycombinator.com/item?id=31815705) - [Affordable housing in California now routinely tops $1M per apartment to build](https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment)
 * [2022-06-20, 19:44:05](https://news.ycombinator.com/item?id=31814804) - [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
@@ -22,12 +23,11 @@
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
 * [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
-* [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Paige Thompson convicted over data theft from AWS user accounts](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
+* [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I Am Not Going to Buy a Computer – Wendell Berry (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing one sentence per line](https://sive.rs/1s)
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [The integrated timetable of Switzerland](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook says Apple is too powerful – they're right](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:51:49](https://news.ycombinator.com/item?id=31807438) - [Top Digital Calipers for Machinists (2021)](https://www.practicalmachinist.com/inspection-and-measurement/top-5-digital-calipers-for-machinists/)
-* [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 * [2022-06-20, 05:12:31](https://news.ycombinator.com/item?id=31806523) - [Shores of the Polar Sea (1878)](https://publicdomainreview.org/collection/shores-of-the-polar-sea/)
 * [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
 
