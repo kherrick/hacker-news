@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 08:49:48](https://news.ycombinator.com/item?id=31807881) - [Text Topography](http://www.tikalon.com/blog/blog.php?article=2022/text_topography)
+* [2022-06-20, 08:49:32](https://news.ycombinator.com/item?id=31807879) - [C Xor C++ Programming](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
+* [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook Says Apple Is Too Powerful – They're Right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 * [2022-06-20, 06:54:16](https://news.ycombinator.com/item?id=31807104) - [No-one knows what they are doing](https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/)
 * [2022-06-20, 06:27:43](https://news.ycombinator.com/item?id=31806961) - [Dissatisfaction in the Tesla factory in Grünheide: employees are leaving](https://www.stern.de/auto/e-mobilitaet/unzufriedenheit-bei-tesla-in-gruenheide--beschaeftigte-verlassen-unternehmen-31961868.html)
