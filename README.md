@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 * [2022-06-20, 05:57:44](https://news.ycombinator.com/item?id=31806778) - [Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild](https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/)
 * [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
@@ -20,7 +21,6 @@
 * [2022-06-19, 17:47:56](https://news.ycombinator.com/item?id=31801590) - [Show HN: Mabel – a fancy BitTorrent client for the terminal](https://github.com/smmr-software/mabel)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Webcams aren't good enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
 * [2022-06-19, 16:16:04](https://news.ycombinator.com/item?id=31800684) - [The brain has a ‘low-power mode’ that blunts our senses](https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/)
-* [2022-06-19, 08:33:46](https://news.ycombinator.com/item?id=31797431) - [Relearning to Learn](https://sourceless.org/posts/relearning-to-learn.html)
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
 * [2022-06-18, 20:46:00](https://news.ycombinator.com/item?id=31793682) - [Parents’ trauma leaves biological traces in children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
 * [2022-06-18, 20:26:59](https://news.ycombinator.com/item?id=31793507) - [James Joyce Almost Became a Famous Singer](https://tedgioia.substack.com/p/how-james-joyce-almost-became-a-famous)
