@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 19:06:07](https://news.ycombinator.com/item?id=31814288) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 * [2022-06-20, 18:40:57](https://news.ycombinator.com/item?id=31813957) - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
+* [2022-06-20, 18:36:19](https://news.ycombinator.com/item?id=31813893) - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
 * [2022-06-20, 18:12:36](https://news.ycombinator.com/item?id=31813618) - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
 * [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 * [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
@@ -25,9 +27,7 @@
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [The integrated timetable of Switzerland](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook says Apple is too powerful – They're right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
-* [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
-* [2022-06-19, 17:47:00](https://news.ycombinator.com/item?id=31801584) - [George Lamming Has Died](https://www.nytimes.com/2022/06/17/books/george-lamming-dead.html)
 * [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:43:35](https://news.ycombinator.com/item?id=31790226) - [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/)
 

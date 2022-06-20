@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 19:06:07](https://news.ycombinator.com/item?id=31814288) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 * [2022-06-20, 18:40:57](https://news.ycombinator.com/item?id=31813957) - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
+* [2022-06-20, 18:36:19](https://news.ycombinator.com/item?id=31813893) - [Web3 is Flawed (There is no problem being solved,Token Economics is the product)](https://ravivyas.com/2022/06/19/web-3-is-flawed/)
 * [2022-06-20, 18:12:36](https://news.ycombinator.com/item?id=31813618) - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
 * [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 * [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
