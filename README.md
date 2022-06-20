@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-20, 18:40:57](https://news.ycombinator.com/item?id=31813957) - [I Fucking Hate Jira](https://ifuckinghatejira.com/)
+* [2022-06-20, 18:12:36](https://news.ycombinator.com/item?id=31813618) - [Four Tet wins royalty battle over streaming music](https://www.bbc.co.uk/news/entertainment-arts-61871547)
 * [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
 * [2022-06-20, 17:50:08](https://news.ycombinator.com/item?id=31813308) - [Instagram demands I send a picture of myself to prove I own my account](https://news.ycombinator.com/item?id=31813308)
 * [2022-06-20, 17:28:54](https://news.ycombinator.com/item?id=31813029) - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
@@ -21,13 +23,11 @@
 * [2022-06-20, 09:42:25](https://news.ycombinator.com/item?id=31808227) - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing one sentence per line](https://sive.rs/1s)
 * [2022-06-20, 08:54:35](https://news.ycombinator.com/item?id=31807913) - [The integrated timetable of Switzerland](https://www.jokteur.com/a/integrated-timetable-switzerland/)
-* [2022-06-20, 08:49:15](https://news.ycombinator.com/item?id=31807877) - [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook says Apple is too powerful – They're right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:11:16](https://news.ycombinator.com/item?id=31807201) - [Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices](https://github.com/snakers4/silero-models)
 * [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
 * [2022-06-19, 17:47:00](https://news.ycombinator.com/item?id=31801584) - [George Lamming Has Died](https://www.nytimes.com/2022/06/17/books/george-lamming-dead.html)
-* [2022-06-19, 04:49:56](https://news.ycombinator.com/item?id=31796261) - [Pipes, deadlocks, and strace annoyingly fixing them](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)
 * [2022-06-18, 14:45:06](https://news.ycombinator.com/item?id=31790246) - [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein)
 * [2022-06-18, 14:43:35](https://news.ycombinator.com/item?id=31790226) - [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/)
 
