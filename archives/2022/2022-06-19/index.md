@@ -20,6 +20,7 @@
 * [2022-06-19, 18:26:18](https://news.ycombinator.com/item?id=31801947) - [The Great Cloudwall – Stop Cloudflare](https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md)
 * [2022-06-19, 18:12:26](https://news.ycombinator.com/item?id=31801814) - [Advancing the state of the art for std:unordered_map implementations](http://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html)
 * [2022-06-19, 17:47:56](https://news.ycombinator.com/item?id=31801590) - [Show HN: Mabel – a fancy BitTorrent client for the terminal](https://github.com/smmr-software/mabel)
+* [2022-06-19, 17:47:00](https://news.ycombinator.com/item?id=31801584) - [George Lamming Has Died](https://www.nytimes.com/2022/06/17/books/george-lamming-dead.html)
 * [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
 * [2022-06-19, 17:08:25](https://news.ycombinator.com/item?id=31801191) - [I'm a ex-Google SWE that's coached 300 through the FAANG interview process. AMA](https://news.ycombinator.com/item?id=31801191)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
