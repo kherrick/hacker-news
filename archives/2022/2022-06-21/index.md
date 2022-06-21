@@ -20,6 +20,7 @@
 * [2022-06-21, 11:08:23](https://news.ycombinator.com/item?id=31822549) - [Sex is going out of fashion](https://www.welltechnically.news/p/sex-is-going-out-of-fashion)
 * [2022-06-21, 10:59:26](https://news.ycombinator.com/item?id=31822496) - [Habits Maketh the Man and Un-Maketh Him, Too](https://newsletter.butwhatfor.com/p/habits-maketh-man)
 * [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
+* [2022-06-21, 09:39:48](https://news.ycombinator.com/item?id=31822075) - [Dartmouth Eliminates Student Loans for Undergraduates](https://calltolead.dartmouth.edu/stories/dartmouth-eliminates-student-loans-undergraduates)
 * [2022-06-21, 09:21:43](https://news.ycombinator.com/item?id=31821971) - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 09:01:30](https://news.ycombinator.com/item?id=31821849) - [Are blockchains decentralized: New Trail of Bits research report examines](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
