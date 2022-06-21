@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31820635"
     ],
     [
-      "Cloudflare Down Worldwide",
+      "Cloudflare Down Worldwide (Update: not worldwide but a lot of places)",
       "https://www.cloudflare.com/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31820149"
     ],
     [
-      "A look at search engines with their own indexes",
+      "A look at search engines with their own indexes (2021)",
       "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-06-20, 12:15:35",
-      "https://news.ycombinator.com/item?id=31809394"
-    ],
-    [
-      "How to Find and Stop Running Queries on PostgreSQL",
-      "https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/"
-    ]
-  ],
-  [
-    [
       "2022-06-20, 10:39:22",
       "https://news.ycombinator.com/item?id=31808647"
     ],
@@ -297,6 +287,16 @@
     [
       "Super Planet Crash – A game of gravity",
       "https://stefanom.org/spc/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 07:38:59",
+      "https://news.ycombinator.com/item?id=31797121"
+    ],
+    [
+      "Map Data: False Assumptions Programmers Make",
+      "https://solutionspace.blog/2022/06/18/map-data-v-false-assumptions-programmers-make/"
     ]
   ]
 ]
