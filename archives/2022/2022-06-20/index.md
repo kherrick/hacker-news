@@ -27,6 +27,7 @@
 * [2022-06-20, 17:28:54](https://news.ycombinator.com/item?id=31813029) - [A closer look at CVSS scores](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
 * [2022-06-20, 17:24:56](https://news.ycombinator.com/item?id=31812984) - [Redfin Economist says land value tax will fix the economy](https://narrativespodcast.com/2022/06/20/99-daryl-fairweather-the-housing-crisis/)
 * [2022-06-20, 17:14:55](https://news.ycombinator.com/item?id=31812864) - [Ask HN: Having trouble hiring despite good comp, wondering what to do about it?](https://news.ycombinator.com/item?id=31812864)
+* [2022-06-20, 16:47:32](https://news.ycombinator.com/item?id=31812533) - [Failure Is the Mother of Invention](https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs/commit/c91eb9a9a992f1a36c49a8e6f1146e45b5e1c8e7)
 * [2022-06-20, 16:45:33](https://news.ycombinator.com/item?id=31812506) - [Sshfs Is Orphaned](https://github.com/libfuse/sshfs)
 * [2022-06-20, 16:39:32](https://news.ycombinator.com/item?id=31812424) - [An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’](https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/)
