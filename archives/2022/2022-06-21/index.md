@@ -65,6 +65,7 @@
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
 * [2022-06-21, 07:34:43](https://news.ycombinator.com/item?id=31821269) - [Ask HN: How does HN manage to be always online?](https://news.ycombinator.com/item?id=31821269)
 * [2022-06-21, 06:40:31](https://news.ycombinator.com/item?id=31820677) - [Need some advice, feeling depressed about the direction of our industry](https://news.ycombinator.com/item?id=31820677)
+* [2022-06-21, 06:39:01](https://news.ycombinator.com/item?id=31820654) - [One of the ML mistakes that will hurt most: not collecting the right features](https://twitter.com/fchollet/status/1539019133282447360)
 * [2022-06-21, 06:37:35](https://news.ycombinator.com/item?id=31820635) - [Cloudflare Down Worldwide](https://www.cloudflare.com/)
 * [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 * [2022-06-21, 04:44:28](https://news.ycombinator.com/item?id=31819980) - [Does one simple rule underlie learning in the brain?](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/)

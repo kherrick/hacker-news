@@ -25,10 +25,10 @@
 * [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
 * [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
+* [2022-06-21, 06:39:01](https://news.ycombinator.com/item?id=31820654) - [One of the ML mistakes that will hurt most: not collecting the right features](https://twitter.com/fchollet/status/1539019133282447360)
 * [2022-06-20, 23:34:13](https://news.ycombinator.com/item?id=31817677) - [Wrecked by Success? Not to Worry](https://journals.sagepub.com/doi/abs/10.1177/17456916211055637)
 * [2022-06-20, 16:47:32](https://news.ycombinator.com/item?id=31812533) - [Failure Is the Mother of Invention](https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722)
 * [2022-06-20, 16:39:32](https://news.ycombinator.com/item?id=31812424) - [An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’](https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/)
-* [2022-06-20, 10:59:30](https://news.ycombinator.com/item?id=31808785) - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/)
 * [2022-06-20, 10:30:07](https://news.ycombinator.com/item?id=31808579) - [The Organization of Your Bookshelves Tells Its Own Story](https://www.theatlantic.com/books/archive/2022/06/personal-library-book-organization-system/661326/)
 
 ## [Archives](archives/index.md)
