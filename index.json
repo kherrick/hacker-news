@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-21, 03:22:04",
+      "https://news.ycombinator.com/item?id=31819489"
+    ],
+    [
+      "Neuroscientists create maps of the brain after traumatic brain injury",
+      "https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 03:15:09",
       "https://news.ycombinator.com/item?id=31819434"
     ],
     [
       "Apple's Feedback Mechanism Is Broken",
       "https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 02:52:45",
+      "https://news.ycombinator.com/item?id=31819286"
+    ],
+    [
+      "Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser",
+      "https://mnist-demo.glitch.me"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "WebAssembly on Amazon Lambda: Lessons Learned",
       "https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 20:45:19",
-      "https://news.ycombinator.com/item?id=31815705"
-    ],
-    [
-      "Affordable housing in California now routinely tops $1M per apartment to build",
-      "https://www.latimes.com/homeless-housing/story/2022-06-20/california-affordable-housing-cost-1-million-apartment"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-06-20, 14:07:19",
-      "https://news.ycombinator.com/item?id=31810511"
-    ],
-    [
-      "Owncast is a self-hosted live video and web chat server",
-      "https://owncast.online/"
-    ]
-  ],
-  [
-    [
       "2022-06-20, 13:27:10",
       "https://news.ycombinator.com/item?id=31810104"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2022-06-20, 10:39:22",
+      "https://news.ycombinator.com/item?id=31808647"
+    ],
+    [
+      "A Macintosh History (1986)",
+      "https://systemtalk.org/post/macintosh-history-8603/"
+    ]
+  ],
+  [
+    [
       "2022-06-20, 09:48:22",
       "https://news.ycombinator.com/item?id=31808269"
     ],
     [
       "Why I am not going to buy a computer (1987) [pdf]",
       "http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 09:25:32",
-      "https://news.ycombinator.com/item?id=31808093"
-    ],
-    [
-      "Writing one sentence per line",
-      "https://sive.rs/1s"
     ]
   ],
   [
