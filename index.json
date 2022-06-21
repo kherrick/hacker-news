@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-06-21, 04:44:28",
+      "https://news.ycombinator.com/item?id=31819980"
+    ],
+    [
+      "Does one simple rule underlie learning in the brain?",
+      "https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 04:35:55",
       "https://news.ycombinator.com/item?id=31819926"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-06-20, 19:44:05",
-      "https://news.ycombinator.com/item?id=31814804"
-    ],
-    [
-      "Transparent memory offloading: more memory at a fraction of the cost and power",
-      "https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/"
-    ]
-  ],
-  [
-    [
       "2022-06-20, 19:06:07",
       "https://news.ycombinator.com/item?id=31814288"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-06-20, 16:21:30",
+      "https://news.ycombinator.com/item?id=31812163"
+    ],
+    [
+      "Experiment: Pay students to tackle learning loss",
+      "https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/"
+    ]
+  ],
+  [
+    [
       "2022-06-20, 15:51:10",
       "https://news.ycombinator.com/item?id=31811789"
     ],
@@ -227,16 +237,6 @@
     [
       "We are removing the option to create new subscriptions",
       "https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 12:15:35",
-      "https://news.ycombinator.com/item?id=31809394"
-    ],
-    [
-      "How to Find and Stop Running Queries on PostgreSQL",
-      "https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/"
     ]
   ],
   [
