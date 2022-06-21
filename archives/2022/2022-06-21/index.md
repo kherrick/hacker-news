@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 04:06:30](https://news.ycombinator.com/item?id=31819728) - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
+* [2022-06-21, 03:34:25](https://news.ycombinator.com/item?id=31819551) - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
 * [2022-06-21, 03:22:04](https://news.ycombinator.com/item?id=31819489) - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
 * [2022-06-21, 03:15:09](https://news.ycombinator.com/item?id=31819434) - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 * [2022-06-21, 02:52:45](https://news.ycombinator.com/item?id=31819286) - [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)

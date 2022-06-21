@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 04:06:30](https://news.ycombinator.com/item?id=31819728) - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
+* [2022-06-21, 03:34:25](https://news.ycombinator.com/item?id=31819551) - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
 * [2022-06-21, 03:22:04](https://news.ycombinator.com/item?id=31819489) - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
 * [2022-06-21, 03:15:09](https://news.ycombinator.com/item?id=31819434) - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 * [2022-06-21, 02:52:45](https://news.ycombinator.com/item?id=31819286) - [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
@@ -10,7 +12,6 @@
 * [2022-06-20, 22:40:15](https://news.ycombinator.com/item?id=31817144) - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 * [2022-06-20, 22:27:46](https://news.ycombinator.com/item?id=31816988) - [EarthFM Natural Soundscapes](https://earth.fm/)
 * [2022-06-20, 21:45:03](https://news.ycombinator.com/item?id=31816455) - [Sunstone – the last unreleased Lisp machine architecture from Symbolics [pdf]](http://www.bitsavers.org/pdf/symbolics/Sunstone_Architecture_198711.pdf)
-* [2022-06-20, 21:29:53](https://news.ycombinator.com/item?id=31816255) - [WebAssembly on Amazon Lambda: Lessons Learned](https://wasmer.io/posts/wasm-on-amazon-lambda-lessons-learned)
 * [2022-06-20, 19:44:05](https://news.ycombinator.com/item?id=31814804) - [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
 * [2022-06-20, 19:06:07](https://news.ycombinator.com/item?id=31814288) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 * [2022-06-20, 18:08:03](https://news.ycombinator.com/item?id=31813550) - [Lexical – a web text editor framework that powers Facebook](https://playground.lexical.dev/)
@@ -24,7 +25,6 @@
 * [2022-06-20, 14:39:11](https://news.ycombinator.com/item?id=31810876) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
 * [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
-* [2022-06-20, 11:13:52](https://news.ycombinator.com/item?id=31808903) - [Longitude found: the story of Harrison's clocks](https://www.rmg.co.uk/stories/topics/harrisons-clocks-longitude-problem)
 * [2022-06-20, 10:39:22](https://news.ycombinator.com/item?id=31808647) - [A Macintosh History (1986)](https://systemtalk.org/post/macintosh-history-8603/)
 * [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I am not going to buy a computer (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [Weightlifting: The Barbell and Dumbbell from Ancient Greece to Modern Forms](https://www.researchgate.net/profile/Jan-Todd-2/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs/links/0912f51132d0b26919000000/From-Milo-to-Milo-A-History-of-Barbells-Dumbells-and-Indian-Clubs.pdf?origin=publication_detail)
