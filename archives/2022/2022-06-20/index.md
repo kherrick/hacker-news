@@ -48,6 +48,7 @@
 * [2022-06-20, 12:27:06](https://news.ycombinator.com/item?id=31809503) - [Ask HN: Software career at 38 after beeing a Quant](https://news.ycombinator.com/item?id=31809503)
 * [2022-06-20, 12:20:26](https://news.ycombinator.com/item?id=31809445) - [3M’s PFAS Crisis Has Come to Europe](https://www.bloomberg.com/graphics/2022-3m-pfas-toxic-forever-chemicals-europe)
 * [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
+* [2022-06-20, 12:03:28](https://news.ycombinator.com/item?id=31809276) - [The Move Programming Language](https://move-language.github.io/move/)
 * [2022-06-20, 12:01:54](https://news.ycombinator.com/item?id=31809259) - [Capital One Data Breach Class Action Settlement](https://www.capitalonesettlement.com/en)
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
 * [2022-06-20, 11:13:52](https://news.ycombinator.com/item?id=31808903) - [Longitude found: the story of Harrison's clocks](https://www.rmg.co.uk/stories/topics/harrisons-clocks-longitude-problem)
