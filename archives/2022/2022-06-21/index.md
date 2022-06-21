@@ -7,6 +7,7 @@
 * [2022-06-21, 14:13:52](https://news.ycombinator.com/item?id=31824185) - [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 * [2022-06-21, 14:05:48](https://news.ycombinator.com/item?id=31824096) - [Zoom.us is Down](https://us02web.zoom.us/wc/join/)
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+* [2022-06-21, 13:49:20](https://news.ycombinator.com/item?id=31823926) - [The Value of an Undergraduate Degree](http://www.pearlleff.com/the-value-of-an-undergraduate-degree)
 * [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
 * [2022-06-21, 13:22:36](https://news.ycombinator.com/item?id=31823622) - [Safety features of the Hare programming language](https://harelang.org/blog/2022-06-21-safety-features/)
 * [2022-06-21, 13:21:59](https://news.ycombinator.com/item?id=31823617) - [Automated text/email reminders for volunteers](https://volunteerreminder.com/)
