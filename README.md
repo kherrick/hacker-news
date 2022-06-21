@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 * [2022-06-21, 09:21:43](https://news.ycombinator.com/item?id=31821971) - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 09:01:30](https://news.ycombinator.com/item?id=31821849) - [Are blockchains decentralized: New Trail of Bits research report examines](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
@@ -17,7 +18,6 @@
 * [2022-06-20, 22:40:15](https://news.ycombinator.com/item?id=31817144) - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 * [2022-06-20, 21:45:03](https://news.ycombinator.com/item?id=31816455) - [Sunstone – the last unreleased Lisp machine architecture from Symbolics [pdf]](http://www.bitsavers.org/pdf/symbolics/Sunstone_Architecture_198711.pdf)
 * [2022-06-20, 19:44:05](https://news.ycombinator.com/item?id=31814804) - [Transparent memory offloading: more memory at a fraction of the cost and power](https://engineering.fb.com/2022/06/20/data-infrastructure/transparent-memory-offloading-more-memory-at-a-fraction-of-the-cost-and-power/)
-* [2022-06-20, 19:06:07](https://news.ycombinator.com/item?id=31814288) - [Netboot.xyz: your favorite operating systems in one place](https://netboot.xyz/docs/)
 * [2022-06-20, 18:00:52](https://news.ycombinator.com/item?id=31813443) - [Meta VR prototypes aim to make VR 'indistinguishable from reality'](https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/)
 * [2022-06-20, 16:27:26](https://news.ycombinator.com/item?id=31812259) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
