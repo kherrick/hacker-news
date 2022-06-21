@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 20:16:02](https://news.ycombinator.com/item?id=31828615) - [Permacomputing Wiki](https://permacomputing.net/)
 * [2022-06-21, 19:42:01](https://news.ycombinator.com/item?id=31828230) - [“TITO,” the 100% electric, 100% Argentine car](https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/)
 * [2022-06-21, 19:38:00](https://news.ycombinator.com/item?id=31828193) - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
 * [2022-06-21, 19:06:05](https://news.ycombinator.com/item?id=31827805) - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)

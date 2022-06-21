@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 20:16:02](https://news.ycombinator.com/item?id=31828615) - [Permacomputing Wiki](https://permacomputing.net/)
 * [2022-06-21, 19:42:01](https://news.ycombinator.com/item?id=31828230) - [“TITO,” the 100% electric, 100% Argentine car](https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/)
 * [2022-06-21, 19:38:00](https://news.ycombinator.com/item?id=31828193) - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
 * [2022-06-21, 19:06:05](https://news.ycombinator.com/item?id=31827805) - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
@@ -22,7 +23,6 @@
 * [2022-06-21, 13:30:12](https://news.ycombinator.com/item?id=31823702) - [Get Paid to Contribute to Urllib3](https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3)
 * [2022-06-21, 13:19:54](https://news.ycombinator.com/item?id=31823592) - [How we made data aggregation on PostgreSQL better and faster](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/)
 * [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
-* [2022-06-21, 11:48:14](https://news.ycombinator.com/item?id=31822803) - [Modern phoenix: The bird brought back from extinction in Japan](https://phys.org/news/2022-06-modern-phoenix-bird-brought-extinction.html)
 * [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
