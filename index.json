@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-21, 22:55:16",
+      "https://news.ycombinator.com/item?id=31830046"
+    ],
+    [
+      "OBS – Open Broadcaster Software",
+      "https://obsproject.com/"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 21:31:57",
       "https://news.ycombinator.com/item?id=31829350"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31828230"
     ],
     [
-      "“TITO,” the 100% electric, 100% Argentine car",
+      "TITO: Electric Argentine car",
       "https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/"
     ]
   ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2022-06-21, 17:47:40",
+      "https://news.ycombinator.com/item?id=31826918"
+    ],
+    [
+      "Cheap, green hydrogen would be a breakthrough in clean energy",
+      "https://www.gatesnotes.com/Energy/Clean-Hydrogen"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 17:26:17",
       "https://news.ycombinator.com/item?id=31826651"
     ],
@@ -141,11 +161,21 @@
   ],
   [
     [
+      "2022-06-21, 17:24:38",
+      "https://news.ycombinator.com/item?id=31826631"
+    ],
+    [
+      "A Life of One’s Own: Marion Milner",
+      "https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 16:53:28",
       "https://news.ycombinator.com/item?id=31826204"
     ],
     [
-      "Show HN: We made an experiment to test if Bionic Reading helps you read faster",
+      "An experiment to test if Bionic Reading helps you read faster",
       "https://blog.readwise.io/does-bionic-reading-actually-work/"
     ]
   ],
@@ -157,16 +187,6 @@
     [
       "GitHub Copilot is generally available",
       "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 16:15:43",
-      "https://news.ycombinator.com/item?id=31825661"
-    ],
-    [
-      "GitHub Copilot for individuals available without waitlist, with free trial",
-      "https://github.com/features/copilot"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-06-21, 15:15:16",
-      "https://news.ycombinator.com/item?id=31824893"
-    ],
-    [
-      "Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs",
-      "https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 15:14:02",
       "https://news.ycombinator.com/item?id=31824877"
     ],
@@ -217,16 +227,6 @@
     [
       "One-liner for running queries against CSV files with SQLite",
       "https://til.simonwillison.net/sqlite/one-line-csv-operations"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 13:47:15",
-      "https://news.ycombinator.com/item?id=31823898"
-    ],
-    [
-      "Show HN: Akedo – Retro gaming and coding platform",
-      "https://akedo.app"
     ]
   ],
   [
