@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 03:15:09](https://news.ycombinator.com/item?id=31819434) - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 * [2022-06-21, 00:19:14](https://news.ycombinator.com/item?id=31818074) - [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
 * [2022-06-20, 23:04:50](https://news.ycombinator.com/item?id=31817380) - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
 * [2022-06-20, 22:50:58](https://news.ycombinator.com/item?id=31817242) - [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
@@ -26,9 +27,8 @@
 * [2022-06-20, 11:13:52](https://news.ycombinator.com/item?id=31808903) - [Longitude found: the story of Harrison's clocks](https://www.rmg.co.uk/stories/topics/harrisons-clocks-longitude-problem)
 * [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I am not going to buy a computer (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 09:25:32](https://news.ycombinator.com/item?id=31808093) - [Writing one sentence per line](https://sive.rs/1s)
-* [2022-06-20, 07:51:49](https://news.ycombinator.com/item?id=31807438) - [Top Digital Calipers for Machinists (2021)](https://www.practicalmachinist.com/inspection-and-measurement/top-5-digital-calipers-for-machinists/)
-* [2022-06-20, 07:30:30](https://news.ycombinator.com/item?id=31807304) - [Pentaform launches AbacusBasic, the ‘world’s most affordable PC’](https://techcrunch.com/2022/06/18/pentaform-abacusbasic/)
-* [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
+* [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [Weightlifting: The Barbell and Dumbbell from Ancient Greece to Modern Forms](https://www.researchgate.net/profile/Jan-Todd-2/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs/links/0912f51132d0b26919000000/From-Milo-to-Milo-A-History-of-Barbells-Dumbells-and-Indian-Clubs.pdf?origin=publication_detail)
+* [2022-06-19, 10:17:53](https://news.ycombinator.com/item?id=31797988) - [Checkbox Olympics](https://checkboxolympics.com/)
 * [2022-06-19, 08:18:58](https://news.ycombinator.com/item?id=31797352) - [Super Planet Crash – A game of gravity](https://stefanom.org/spc/index.html)
 
 ## [Archives](archives/index.md)

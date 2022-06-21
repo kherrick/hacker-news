@@ -73,6 +73,7 @@
 * [2022-06-20, 05:36:17](https://news.ycombinator.com/item?id=31806661) - [Orkut](http://www.orkut.com/index.html)
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 * [2022-06-20, 05:12:31](https://news.ycombinator.com/item?id=31806523) - [Shores of the Polar Sea (1878)](https://publicdomainreview.org/collection/shores-of-the-polar-sea/)
+* [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [Weightlifting: The Barbell and Dumbbell from Ancient Greece to Modern Forms](https://www.researchgate.net/profile/Jan-Todd-2/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs/links/0912f51132d0b26919000000/From-Milo-to-Milo-A-History-of-Barbells-Dumbells-and-Indian-Clubs.pdf?origin=publication_detail)
 * [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 * [2022-06-20, 04:01:45](https://news.ycombinator.com/item?id=31806155) - [Ask HN: Will Coinbase Last? [Incoming Intern]](https://news.ycombinator.com/item?id=31806155)
 * [2022-06-20, 03:11:08](https://news.ycombinator.com/item?id=31805911) - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
