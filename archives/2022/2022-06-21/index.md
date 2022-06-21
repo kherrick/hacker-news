@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://dioptra.ai/)
+* [2022-06-21, 15:38:57](https://news.ycombinator.com/item?id=31825177) - [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 * [2022-06-21, 15:15:16](https://news.ycombinator.com/item?id=31824893) - [Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs](https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs)
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Build Ruby on Rails apps 10x faster – Avo](https://avohq.io/)
 * [2022-06-21, 14:15:23](https://news.ycombinator.com/item?id=31824194) - [The Psycho-Geography of the Cretto Di Burri (2021)](https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri)
 * [2022-06-21, 14:13:52](https://news.ycombinator.com/item?id=31824185) - [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 * [2022-06-21, 14:05:48](https://news.ycombinator.com/item?id=31824096) - [Zoom.us is Down](https://us02web.zoom.us/wc/join/)
+* [2022-06-21, 14:05:33](https://news.ycombinator.com/item?id=31824093) - [PyCantonese: Cantonese Linguistics and NLP in Python](https://pycantonese.org/index.html)
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [2022-06-21, 13:49:20](https://news.ycombinator.com/item?id=31823926) - [The Value of an Undergraduate Degree](http://www.pearlleff.com/the-value-of-an-undergraduate-degree)
 * [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
@@ -21,6 +24,7 @@
 * [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 12:08:53](https://news.ycombinator.com/item?id=31822932) - [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
 * [2022-06-21, 12:00:18](https://news.ycombinator.com/item?id=31822879) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
+* [2022-06-21, 11:48:14](https://news.ycombinator.com/item?id=31822803) - [Modern phoenix: The bird brought back from extinction in Japan](https://phys.org/news/2022-06-modern-phoenix-bird-brought-extinction.html)
 * [2022-06-21, 11:14:03](https://news.ycombinator.com/item?id=31822587) - [The Psychology of not wanting to know [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)
 * [2022-06-21, 11:08:23](https://news.ycombinator.com/item?id=31822549) - [Sex is going out of fashion](https://www.welltechnically.news/p/sex-is-going-out-of-fashion)
 * [2022-06-21, 10:59:26](https://news.ycombinator.com/item?id=31822496) - [Habits Maketh the Man and Un-Maketh Him, Too](https://newsletter.butwhatfor.com/p/habits-maketh-man)
