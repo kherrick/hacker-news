@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-06-21, 14:13:52",
+      "https://news.ycombinator.com/item?id=31824185"
+    ],
+    [
+      "Beginner's Series to Rust",
+      "https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 14:05:48",
+      "https://news.ycombinator.com/item?id=31824096"
+    ],
+    [
+      "Zoom.us is Down",
+      "https://us02web.zoom.us/wc/join/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 13:59:36",
+      "https://news.ycombinator.com/item?id=31824030"
+    ],
+    [
+      "One-liner for running queries against CSV files with SQLite",
+      "https://til.simonwillison.net/sqlite/one-line-csv-operations"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 13:47:15",
+      "https://news.ycombinator.com/item?id=31823898"
+    ],
+    [
+      "Show HN: Akedo – Retro gaming and coding platform",
+      "https://akedo.app"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 13:22:36",
       "https://news.ycombinator.com/item?id=31823622"
     ],
@@ -27,6 +67,16 @@
     [
       "How we made data aggregation on PostgreSQL better and faster",
       "https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 13:10:55",
+      "https://news.ycombinator.com/item?id=31823485"
+    ],
+    [
+      "Laundry symbols make no sense",
+      "https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0"
     ]
   ],
   [
@@ -77,16 +127,6 @@
     [
       "RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021",
       "https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 09:21:43",
-      "https://news.ycombinator.com/item?id=31821971"
-    ],
-    [
-      "Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch",
-      "https://forum.nasaspaceflight.com/index.php?topic=56471.180"
     ]
   ],
   [
@@ -147,26 +187,6 @@
     [
       "Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser",
       "https://mnist-demo.glitch.me"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 23:04:50",
-      "https://news.ycombinator.com/item?id=31817380"
-    ],
-    [
-      "NFS: The Early Years",
-      "https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 22:43:46",
-      "https://news.ycombinator.com/item?id=31817184"
-    ],
-    [
-      "“When It Rains, It Pours”: The Morton Salt Girl",
-      "https://historydaily.org/history-morton-salt-girl-umbrella"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-06-20, 04:56:11",
-      "https://news.ycombinator.com/item?id=31806428"
-    ],
-    [
-      "From Milo to Milo: A History of Barbells, Dumbells, and Indian Clubs (1995)",
-      "https://www.researchgate.net/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs"
-    ]
-  ],
-  [
-    [
       "2022-06-19, 17:18:57",
       "https://news.ycombinator.com/item?id=31801310"
     ],
@@ -277,16 +287,6 @@
     [
       "Checkbox Olympics",
       "https://checkboxolympics.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 08:18:58",
-      "https://news.ycombinator.com/item?id=31797352"
-    ],
-    [
-      "Super Planet Crash – A game of gravity",
-      "https://stefanom.org/spc/index.html"
     ]
   ],
   [
