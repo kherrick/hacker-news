@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 14:13:52](https://news.ycombinator.com/item?id=31824185) - [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
+* [2022-06-21, 14:05:48](https://news.ycombinator.com/item?id=31824096) - [Zoom.us is Down](https://us02web.zoom.us/wc/join/)
+* [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+* [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
 * [2022-06-21, 13:22:36](https://news.ycombinator.com/item?id=31823622) - [Safety features of the Hare programming language](https://harelang.org/blog/2022-06-21-safety-features/)
 * [2022-06-21, 13:21:59](https://news.ycombinator.com/item?id=31823617) - [Automated text/email reminders for volunteers](https://volunteerreminder.com/)
 * [2022-06-21, 13:19:54](https://news.ycombinator.com/item?id=31823592) - [How we made data aggregation on PostgreSQL better and faster](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/)
+* [2022-06-21, 13:10:55](https://news.ycombinator.com/item?id=31823485) - [Laundry symbols make no sense](https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0)
 * [2022-06-21, 13:06:32](https://news.ycombinator.com/item?id=31823445) - [Microsoft Donated Money to Gnome: Remember How They Attacked Open Source Before](https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/)
 * [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 12:08:53](https://news.ycombinator.com/item?id=31822932) - [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
