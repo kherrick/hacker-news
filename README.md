@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-21, 09:21:43](https://news.ycombinator.com/item?id=31821971) - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
+* [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
 * [2022-06-21, 07:34:43](https://news.ycombinator.com/item?id=31821269) - [Ask HN: How does HN manage to be always online?](https://news.ycombinator.com/item?id=31821269)
 * [2022-06-21, 06:37:35](https://news.ycombinator.com/item?id=31820635) - [Cloudflare Down Worldwide (not worldwide but a lot of places) (up now)](https://www.cloudflare.com/)
