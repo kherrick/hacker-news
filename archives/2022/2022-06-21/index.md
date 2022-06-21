@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 12:00:18](https://news.ycombinator.com/item?id=31822879) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
+* [2022-06-21, 11:14:03](https://news.ycombinator.com/item?id=31822587) - [The Psychology of not wanting to know [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)
 * [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 * [2022-06-21, 09:21:43](https://news.ycombinator.com/item?id=31821971) - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
