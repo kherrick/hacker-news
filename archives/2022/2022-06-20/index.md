@@ -75,6 +75,7 @@
 * [2022-06-20, 05:32:30](https://news.ycombinator.com/item?id=31806639) - [Two Years of Life with PinePhone](https://linmob.net/two-years-of-owning-a-pinephone/)
 * [2022-06-20, 05:12:31](https://news.ycombinator.com/item?id=31806523) - [Shores of the Polar Sea (1878)](https://publicdomainreview.org/collection/shores-of-the-polar-sea/)
 * [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [Weightlifting: The Barbell and Dumbbell from Ancient Greece to Modern Forms](https://www.researchgate.net/profile/Jan-Todd-2/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs/links/0912f51132d0b26919000000/From-Milo-to-Milo-A-History-of-Barbells-Dumbells-and-Indian-Clubs.pdf?origin=publication_detail)
+* [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [From Milo to Milo: A History of Barbells, Dumbells, and Indian Clubs (1995)](https://www.researchgate.net/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs)
 * [2022-06-20, 04:10:37](https://news.ycombinator.com/item?id=31806191) - [Solend is now voting to reverse the decision to interfere with $170M position](https://realms.today/dao/SLND/proposal/3geE5P3D7VJRaNNDVfZciGsXgwGiao1hSNpRM6jWNa5A)
 * [2022-06-20, 04:01:45](https://news.ycombinator.com/item?id=31806155) - [Ask HN: Will Coinbase Last? [Incoming Intern]](https://news.ycombinator.com/item?id=31806155)
 * [2022-06-20, 03:11:08](https://news.ycombinator.com/item?id=31805911) - [Evolution Through Large Models](https://arxiv.org/abs/2206.08896)
@@ -87,3 +88,4 @@
 * [2022-06-20, 00:55:57](https://news.ycombinator.com/item?id=31805087) - [A Quick Look at QUIC Censorship](https://ooni.org/post/2022-quick-look-quic-censorship/)
 * [2022-06-20, 00:14:13](https://news.ycombinator.com/item?id=31804843) - [What's New in Ada 2022](https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html)
 * [2022-06-20, 00:13:09](https://news.ycombinator.com/item?id=31804833) - [Mass frog burial baffles experts at iron age site near Cambridge](https://www.theguardian.com/science/2022/jun/12/mass-frog-burial-baffles-experts-at-iron-age-site-near-cambridge)
+* [2022-06-20, 00:11:11](https://news.ycombinator.com/item?id=31804821) - [‘The War on Music’ Review: Songs Without Listeners](https://www.wsj.com/articles/the-war-on-music-review-songswithout-listeners-11655418629)
