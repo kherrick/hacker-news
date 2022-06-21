@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 * [2022-06-21, 04:35:55](https://news.ycombinator.com/item?id=31819926) - [Why code isn't self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
 * [2022-06-21, 04:06:30](https://news.ycombinator.com/item?id=31819728) - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 * [2022-06-21, 03:34:25](https://news.ycombinator.com/item?id=31819551) - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
@@ -23,7 +24,6 @@
 * [2022-06-20, 15:48:37](https://news.ycombinator.com/item?id=31811758) - [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html)
 * [2022-06-20, 14:39:11](https://news.ycombinator.com/item?id=31810876) - [Show HN: Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
-* [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 * [2022-06-20, 10:39:22](https://news.ycombinator.com/item?id=31808647) - [A Macintosh History (1986)](https://systemtalk.org/post/macintosh-history-8603/)
 * [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I am not going to buy a computer (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [From Milo to Milo: A History of Barbells, Dumbells, and Indian Clubs (1995)](https://www.researchgate.net/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs)

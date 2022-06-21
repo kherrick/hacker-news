@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 * [2022-06-21, 04:35:55](https://news.ycombinator.com/item?id=31819926) - [Why code isn't self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
 * [2022-06-21, 04:06:30](https://news.ycombinator.com/item?id=31819728) - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
 * [2022-06-21, 03:34:25](https://news.ycombinator.com/item?id=31819551) - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
