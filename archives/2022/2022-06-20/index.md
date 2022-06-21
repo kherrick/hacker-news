@@ -6,6 +6,7 @@
 
 * [2022-06-20, 23:22:11](https://news.ycombinator.com/item?id=31817549) - [As water crisis worsens on Colorado River, an urgent call for states to ‘act’](https://www.latimes.com/environment/story/2022-06-20/as-colorado-river-reservoirs-drop-states-urged-to-act-now)
 * [2022-06-20, 23:04:50](https://news.ycombinator.com/item?id=31817380) - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
+* [2022-06-20, 22:50:58](https://news.ycombinator.com/item?id=31817242) - [A study of real-world data races in Golang](https://dl.acm.org/doi/pdf/10.1145/3519939.3523720)
 * [2022-06-20, 22:43:46](https://news.ycombinator.com/item?id=31817184) - [“When It Rains, It Pours”: The History of the Morton Salt Girl](https://historydaily.org/history-morton-salt-girl-umbrella)
 * [2022-06-20, 22:40:15](https://news.ycombinator.com/item?id=31817144) - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 * [2022-06-20, 22:27:46](https://news.ycombinator.com/item?id=31816988) - [EarthFM Natural Soundscapes](https://earth.fm/)
@@ -49,6 +50,7 @@
 * [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 * [2022-06-20, 12:01:54](https://news.ycombinator.com/item?id=31809259) - [Capital One Data Breach Class Action Settlement](https://www.capitalonesettlement.com/en)
 * [2022-06-20, 12:01:47](https://news.ycombinator.com/item?id=31809257) - [Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers](https://kable.io)
+* [2022-06-20, 11:13:52](https://news.ycombinator.com/item?id=31808903) - [Longitude found: the story of Harrison's clocks](https://www.rmg.co.uk/stories/topics/harrisons-clocks-longitude-problem)
 * [2022-06-20, 11:08:47](https://news.ycombinator.com/item?id=31808866) - [Sega Megadriver Synthesizer in Depth Look (2020) [video]](https://www.youtube.com/watch?v=eAgwVvJwdnc)
 * [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over $270m Capital One hack](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
