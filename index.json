@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31827387"
     ],
     [
-      "Deno Raises $21M",
+      "Deno raises $21M",
       "https://deno.com/blog/series-a"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "The French repairability index – one year after its implementation [pdf]",
       "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 18:24:53",
+      "https://news.ycombinator.com/item?id=31827301"
+    ],
+    [
+      "X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass",
+      "https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Wikimedia Enterprise announces Google and Internet Archive as first customers",
       "https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 17:24:38",
+      "https://news.ycombinator.com/item?id=31826631"
+    ],
+    [
+      "A Life of One’s Own: Marion Milner",
+      "https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31824877"
     ],
     [
-      "Show HN: Build Ruby on Rails apps 10x faster – Avo",
+      "Show HN: Avo – Build Ruby on Rails apps faster",
       "https://avohq.io/"
     ]
   ],
@@ -187,16 +207,6 @@
     [
       "How we made data aggregation on PostgreSQL better and faster",
       "https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 13:10:55",
-      "https://news.ycombinator.com/item?id=31823485"
-    ],
-    [
-      "Laundry symbols make no sense",
-      "https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Timing Attacks",
       "https://timing.attacks.cr.yp.to/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 05:12:53",
-      "https://news.ycombinator.com/item?id=31820149"
-    ],
-    [
-      "A look at search engines with their own indexes (2021)",
-      "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/"
     ]
   ],
   [
