@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
 * [2022-06-21, 16:31:05](https://news.ycombinator.com/item?id=31825858) - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
 * [2022-06-21, 16:23:21](https://news.ycombinator.com/item?id=31825742) - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 * [2022-06-21, 16:22:28](https://news.ycombinator.com/item?id=31825733) - [Amazon drones are coming to town. Some locals want to shoot them](https://www.adn.com/nation-world/2022/06/21/amazon-drones-are-coming-to-town-some-locals-want-to-shoot-them/)
@@ -13,6 +14,7 @@
 * [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://dioptra.ai/)
 * [2022-06-21, 15:56:51](https://news.ycombinator.com/item?id=31825415) - [The Journey of Three African Wild Dogs](https://www.nytimes.com/2022/06/20/science/african-wild-dogs-zambia.html)
 * [2022-06-21, 15:53:06](https://news.ycombinator.com/item?id=31825365) - [10-sec 1-leg stance duration predicts survival in middle-aged/older individuals](https://bjsm.bmj.com/content/early/2022/05/15/bjsports-2021-105360)
+* [2022-06-21, 15:52:16](https://news.ycombinator.com/item?id=31825355) - [Create a blog with Clojure, nbb, and MarkDoc](https://www.alexandercarls.de/markdoc-nbb-clojure/)
 * [2022-06-21, 15:38:57](https://news.ycombinator.com/item?id=31825177) - [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 * [2022-06-21, 15:15:16](https://news.ycombinator.com/item?id=31824893) - [Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs](https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs)
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Build Ruby on Rails apps 10x faster – Avo](https://avohq.io/)
