@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 09:21:43](https://news.ycombinator.com/item?id=31821971) - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
 * [2022-06-21, 07:34:43](https://news.ycombinator.com/item?id=31821269) - [Ask HN: How does HN manage to be always online?](https://news.ycombinator.com/item?id=31821269)
 * [2022-06-21, 06:40:31](https://news.ycombinator.com/item?id=31820677) - [Need some advice, feeling depressed about the direction of our industry](https://news.ycombinator.com/item?id=31820677)
