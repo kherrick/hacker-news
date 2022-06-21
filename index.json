@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=31820635"
     ],
     [
-      "Cloudflare Down Worldwide (Update: not worldwide but a lot of places)",
+      "Cloudflare Down Worldwide (not worldwide but a lot of places) (looks up now)",
       "https://www.cloudflare.com/"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2022-06-20, 15:51:10",
-      "https://news.ycombinator.com/item?id=31811789"
-    ],
-    [
-      "Action Plan for a New CTO",
-      "https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/"
-    ]
-  ],
-  [
-    [
       "2022-06-20, 13:27:10",
       "https://news.ycombinator.com/item?id=31810104"
     ],
     [
       "We are removing the option to create new subscriptions",
       "https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 12:15:35",
+      "https://news.ycombinator.com/item?id=31809394"
+    ],
+    [
+      "How to Find and Stop Running Queries on PostgreSQL",
+      "https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/"
     ]
   ],
   [
