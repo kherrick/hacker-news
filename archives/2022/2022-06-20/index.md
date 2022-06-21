@@ -54,6 +54,7 @@
 * [2022-06-20, 11:13:52](https://news.ycombinator.com/item?id=31808903) - [Longitude found: the story of Harrison's clocks](https://www.rmg.co.uk/stories/topics/harrisons-clocks-longitude-problem)
 * [2022-06-20, 11:08:47](https://news.ycombinator.com/item?id=31808866) - [Sega Megadriver Synthesizer in Depth Look (2020) [video]](https://www.youtube.com/watch?v=eAgwVvJwdnc)
 * [2022-06-20, 11:05:47](https://news.ycombinator.com/item?id=31808844) - [Former AWS engineer convicted over $270m Capital One hack](https://techmonitor.ai/technology/cybersecurity/capital-one-hack-aws-paige-thompson)
+* [2022-06-20, 10:59:30](https://news.ycombinator.com/item?id=31808785) - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/)
 * [2022-06-20, 10:39:22](https://news.ycombinator.com/item?id=31808647) - [A Macintosh History (1986)](https://systemtalk.org/post/macintosh-history-8603/)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
 * [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
