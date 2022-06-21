@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 18:33:40](https://news.ycombinator.com/item?id=31827387) - [Deno Raises $21M](https://deno.com/blog/series-a)
+* [2022-06-21, 18:29:07](https://news.ycombinator.com/item?id=31827340) - [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
 * [2022-06-21, 17:47:40](https://news.ycombinator.com/item?id=31826918) - [Cheap, green hydrogen would be a breakthrough in clean energy](https://www.gatesnotes.com/Energy/Clean-Hydrogen)
 * [2022-06-21, 17:26:17](https://news.ycombinator.com/item?id=31826651) - [Wikimedia Enterprise announces Google and Internet Archive as first customers](https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/)
 * [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
@@ -13,7 +15,6 @@
 * [2022-06-21, 15:38:57](https://news.ycombinator.com/item?id=31825177) - [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 * [2022-06-21, 15:15:16](https://news.ycombinator.com/item?id=31824893) - [Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs](https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs)
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Build Ruby on Rails apps 10x faster – Avo](https://avohq.io/)
-* [2022-06-21, 14:05:33](https://news.ycombinator.com/item?id=31824093) - [PyCantonese: Cantonese Linguistics and NLP in Python](https://pycantonese.org/index.html)
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
 * [2022-06-21, 13:30:12](https://news.ycombinator.com/item?id=31823702) - [Get Paid to Contribute to Urllib3](https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3)
@@ -24,7 +25,6 @@
 * [2022-06-21, 11:14:03](https://news.ycombinator.com/item?id=31822587) - [The Psychology of not wanting to know (2017) [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)
 * [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
-* [2022-06-21, 09:01:30](https://news.ycombinator.com/item?id=31821849) - [Are blockchains decentralized?](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
 * [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 * [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
