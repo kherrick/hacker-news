@@ -28,7 +28,7 @@
 * [2022-06-20, 23:34:13](https://news.ycombinator.com/item?id=31817677) - [Wrecked by Success? Not to Worry](https://journals.sagepub.com/doi/abs/10.1177/17456916211055637)
 * [2022-06-20, 16:47:32](https://news.ycombinator.com/item?id=31812533) - [Failure Is the Mother of Invention](https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722)
 * [2022-06-20, 16:39:32](https://news.ycombinator.com/item?id=31812424) - [An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’](https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/)
-* [2022-06-20, 14:52:05](https://news.ycombinator.com/item?id=31811035) - [Tagging Along with Italy’s Unexploded Bomb–Hunters](https://www.atlasobscura.com/articles/italy-unexploded-ordnance)
+* [2022-06-20, 10:59:30](https://news.ycombinator.com/item?id=31808785) - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/)
 * [2022-06-20, 10:30:07](https://news.ycombinator.com/item?id=31808579) - [The Organization of Your Bookshelves Tells Its Own Story](https://www.theatlantic.com/books/archive/2022/06/personal-library-book-organization-system/661326/)
 
 ## [Archives](archives/index.md)
