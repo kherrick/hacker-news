@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 15:15:16](https://news.ycombinator.com/item?id=31824893) - [Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs](https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs)
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Build Ruby on Rails apps 10x faster – Avo](https://avohq.io/)
 * [2022-06-21, 14:15:23](https://news.ycombinator.com/item?id=31824194) - [The Psycho-Geography of the Cretto Di Burri (2021)](https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri)
 * [2022-06-21, 14:13:52](https://news.ycombinator.com/item?id=31824185) - [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
