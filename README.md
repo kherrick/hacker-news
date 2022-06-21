@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 19:42:01](https://news.ycombinator.com/item?id=31828230) - [“TITO,” the 100% electric, 100% Argentine car](https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/)
 * [2022-06-21, 19:38:00](https://news.ycombinator.com/item?id=31828193) - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
 * [2022-06-21, 19:06:05](https://news.ycombinator.com/item?id=31827805) - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
 * [2022-06-21, 18:33:40](https://news.ycombinator.com/item?id=31827387) - [Deno raises $21M](https://deno.com/blog/series-a)
@@ -25,7 +26,6 @@
 * [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
-* [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
 * [2022-06-20, 16:47:32](https://news.ycombinator.com/item?id=31812533) - [Failure Is the Mother of Invention](https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722)
 * [2022-06-20, 16:39:32](https://news.ycombinator.com/item?id=31812424) - [An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’](https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/)
 * [2022-06-20, 14:52:05](https://news.ycombinator.com/item?id=31811035) - [Tagging Along with Italy’s Unexploded Bomb–Hunters](https://www.atlasobscura.com/articles/italy-unexploded-ordnance)
