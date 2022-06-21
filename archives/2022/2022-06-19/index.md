@@ -63,6 +63,7 @@
 * [2022-06-19, 08:08:33](https://news.ycombinator.com/item?id=31797288) - [OpenHands](https://openhands.ai4bharat.org/en/latest/index.html)
 * [2022-06-19, 08:01:07](https://news.ycombinator.com/item?id=31797251) - [Type-ish – A runtime type checker for bash, in bash](https://github.com/Mythra/typeish)
 * [2022-06-19, 07:54:13](https://news.ycombinator.com/item?id=31797222) - [House Address “Twins” Proximity](http://www.paulplowman.com/stuff/house-address-twins-proximity/)
+* [2022-06-19, 07:38:59](https://news.ycombinator.com/item?id=31797121) - [Map Data: False Assumptions Programmers Make](https://solutionspace.blog/2022/06/18/map-data-v-false-assumptions-programmers-make/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
 * [2022-06-19, 07:01:21](https://news.ycombinator.com/item?id=31796916) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)

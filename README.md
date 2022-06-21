@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-21, 06:40:31](https://news.ycombinator.com/item?id=31820677) - [Need some advice, feeling depressed about the direction of our industry](https://news.ycombinator.com/item?id=31820677)
-* [2022-06-21, 06:37:35](https://news.ycombinator.com/item?id=31820635) - [Cloudflare Down Worldwide](https://www.cloudflare.com/)
-* [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+* [2022-06-21, 06:37:35](https://news.ycombinator.com/item?id=31820635) - [Cloudflare Down Worldwide (Update: not worldwide but a lot of places)](https://www.cloudflare.com/)
+* [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 * [2022-06-21, 04:44:28](https://news.ycombinator.com/item?id=31819980) - [Does one simple rule underlie learning in the brain?](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/)
 * [2022-06-21, 04:35:55](https://news.ycombinator.com/item?id=31819926) - [Why code isn't self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
 * [2022-06-21, 04:06:30](https://news.ycombinator.com/item?id=31819728) - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)
@@ -23,13 +23,13 @@
 * [2022-06-20, 16:21:30](https://news.ycombinator.com/item?id=31812163) - [Experiment: Pay students to tackle learning loss](https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/)
 * [2022-06-20, 15:51:10](https://news.ycombinator.com/item?id=31811789) - [Action Plan for a New CTO](https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/)
 * [2022-06-20, 13:27:10](https://news.ycombinator.com/item?id=31810104) - [We are removing the option to create new subscriptions](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
-* [2022-06-20, 12:15:35](https://news.ycombinator.com/item?id=31809394) - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 * [2022-06-20, 10:39:22](https://news.ycombinator.com/item?id=31808647) - [A Macintosh History (1986)](https://systemtalk.org/post/macintosh-history-8603/)
 * [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I am not going to buy a computer (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 04:56:11](https://news.ycombinator.com/item?id=31806428) - [From Milo to Milo: A History of Barbells, Dumbells, and Indian Clubs (1995)](https://www.researchgate.net/publication/235350711_From_Milo_to_Milo_A_History_of_Barbells_Dumbells_and_Indian_Clubs)
 * [2022-06-20, 00:11:11](https://news.ycombinator.com/item?id=31804821) - [‘The War on Music’ Review: Songs Without Listeners](https://www.wsj.com/articles/the-war-on-music-review-songswithout-listeners-11655418629)
 * [2022-06-19, 10:17:53](https://news.ycombinator.com/item?id=31797988) - [Checkbox Olympics](https://checkboxolympics.com/)
 * [2022-06-19, 08:18:58](https://news.ycombinator.com/item?id=31797352) - [Super Planet Crash – A game of gravity](https://stefanom.org/spc/index.html)
+* [2022-06-19, 07:38:59](https://news.ycombinator.com/item?id=31797121) - [Map Data: False Assumptions Programmers Make](https://solutionspace.blog/2022/06/18/map-data-v-false-assumptions-programmers-make/)
 
 ## [Archives](archives/index.md)
 
