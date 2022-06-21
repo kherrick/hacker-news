@@ -6,8 +6,10 @@
 
 * [2022-06-21, 18:33:40](https://news.ycombinator.com/item?id=31827387) - [Deno Raises $21M](https://deno.com/blog/series-a)
 * [2022-06-21, 18:29:07](https://news.ycombinator.com/item?id=31827340) - [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
+* [2022-06-21, 18:24:53](https://news.ycombinator.com/item?id=31827301) - [X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass](https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/)
 * [2022-06-21, 17:47:40](https://news.ycombinator.com/item?id=31826918) - [Cheap, green hydrogen would be a breakthrough in clean energy](https://www.gatesnotes.com/Energy/Clean-Hydrogen)
 * [2022-06-21, 17:26:17](https://news.ycombinator.com/item?id=31826651) - [Wikimedia Enterprise announces Google and Internet Archive as first customers](https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/)
+* [2022-06-21, 17:24:38](https://news.ycombinator.com/item?id=31826631) - [A Life of One’s Own: Marion Milner](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
 * [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:31:05](https://news.ycombinator.com/item?id=31825858) - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
