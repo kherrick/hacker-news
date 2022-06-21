@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-21, 13:22:36",
+      "https://news.ycombinator.com/item?id=31823622"
+    ],
+    [
+      "Safety features of the Hare programming language",
+      "https://harelang.org/blog/2022-06-21-safety-features/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 13:21:59",
+      "https://news.ycombinator.com/item?id=31823617"
+    ],
+    [
+      "Automated text/email reminders for volunteers",
+      "https://volunteerreminder.com/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 13:19:54",
+      "https://news.ycombinator.com/item?id=31823592"
+    ],
+    [
+      "How we made data aggregation on PostgreSQL better and faster",
+      "https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 13:06:32",
       "https://news.ycombinator.com/item?id=31823445"
     ],
@@ -17,16 +47,6 @@
     [
       "Cloudflare outage on June 21, 2022",
       "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 12:08:53",
-      "https://news.ycombinator.com/item?id=31822932"
-    ],
-    [
-      "Ask HN: What do you use VMs for regularly?",
-      "https://news.ycombinator.com/item?id=31822932"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-06-21, 00:19:14",
-      "https://news.ycombinator.com/item?id=31818074"
-    ],
-    [
-      "WTF Nextdoor? Over 130 clicks to disable email and push notifications?",
-      "https://imgur.com/a/RY0jgQD"
-    ]
-  ],
-  [
-    [
       "2022-06-20, 23:04:50",
       "https://news.ycombinator.com/item?id=31817380"
     ],
@@ -157,16 +167,6 @@
     [
       "“When It Rains, It Pours”: The Morton Salt Girl",
       "https://historydaily.org/history-morton-salt-girl-umbrella"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 22:40:15",
-      "https://news.ycombinator.com/item?id=31817144"
-    ],
-    [
-      "The Illustrated QUIC Connection",
-      "https://quic.ulfheim.net/"
     ]
   ],
   [
