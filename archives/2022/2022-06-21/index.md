@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
 * [2022-06-21, 21:31:57](https://news.ycombinator.com/item?id=31829350) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+* [2022-06-21, 21:31:13](https://news.ycombinator.com/item?id=31829343) - [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
 * [2022-06-21, 21:30:39](https://news.ycombinator.com/item?id=31829337) - [Jennifer Egan's Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
+* [2022-06-21, 21:22:11](https://news.ycombinator.com/item?id=31829267) - [FixPhrase – open-source, patent-free what3words alternative](https://fixphrase.com/)
+* [2022-06-21, 21:09:59](https://news.ycombinator.com/item?id=31829130) - [Mega: Malleable Encryption Goes Awry](https://mega-awry.io/)
 * [2022-06-21, 20:16:02](https://news.ycombinator.com/item?id=31828615) - [Permacomputing Wiki](https://permacomputing.net/)
 * [2022-06-21, 20:05:54](https://news.ycombinator.com/item?id=31828509) - [Alzheimer’s amyloid hypothesis cabal thwarted progress toward a cure for decades](https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/)
 * [2022-06-21, 19:58:24](https://news.ycombinator.com/item?id=31828416) - [Electrocuted birds are sparking wildfires](https://www.science.org/content/article/electrocuted-birds-are-sparking-wildfires)
