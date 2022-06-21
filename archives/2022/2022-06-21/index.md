@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 13:06:32](https://news.ycombinator.com/item?id=31823445) - [Microsoft Donated Money to Gnome: Remember How They Attacked Open Source Before](https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/)
+* [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 12:08:53](https://news.ycombinator.com/item?id=31822932) - [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
 * [2022-06-21, 12:00:18](https://news.ycombinator.com/item?id=31822879) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-06-21, 11:14:03](https://news.ycombinator.com/item?id=31822587) - [The Psychology of not wanting to know [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)

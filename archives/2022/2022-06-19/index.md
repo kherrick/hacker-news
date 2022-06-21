@@ -22,6 +22,7 @@
 * [2022-06-19, 17:47:56](https://news.ycombinator.com/item?id=31801590) - [Show HN: Mabel – a fancy BitTorrent client for the terminal](https://github.com/smmr-software/mabel)
 * [2022-06-19, 17:47:00](https://news.ycombinator.com/item?id=31801584) - [George Lamming Has Died](https://www.nytimes.com/2022/06/17/books/george-lamming-dead.html)
 * [2022-06-19, 17:32:58](https://news.ycombinator.com/item?id=31801462) - [“Google” programmers. How one idiot hired a couple more idiots](https://pvs-studio.com/en/blog/posts/0952/)
+* [2022-06-19, 17:18:57](https://news.ycombinator.com/item?id=31801310) - [Hybrid Concrete/Symbolic Testing](https://gist.github.com/Zac-HD/28a81c7fc9c73637eba4b2f675bb3b5a)
 * [2022-06-19, 17:08:25](https://news.ycombinator.com/item?id=31801191) - [I'm a ex-Google SWE that's coached 300 through the FAANG interview process. AMA](https://news.ycombinator.com/item?id=31801191)
 * [2022-06-19, 17:02:14](https://news.ycombinator.com/item?id=31801133) - [Emerge Tools is building the future of mobile development, come join us](https://www.ycombinator.com/companies/emerge-tools)
 * [2022-06-19, 16:59:04](https://news.ycombinator.com/item?id=31801093) - [Why Webcams Aren't Good Enough](https://reincubate.com/support/how-to/why-are-webcams-bad/)
