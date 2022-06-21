@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 19:38:00](https://news.ycombinator.com/item?id=31828193) - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
 * [2022-06-21, 19:06:05](https://news.ycombinator.com/item?id=31827805) - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
 * [2022-06-21, 18:33:40](https://news.ycombinator.com/item?id=31827387) - [Deno Raises $21M](https://deno.com/blog/series-a)
 * [2022-06-21, 18:29:07](https://news.ycombinator.com/item?id=31827340) - [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)

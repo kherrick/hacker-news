@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 19:38:00](https://news.ycombinator.com/item?id=31828193) - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
 * [2022-06-21, 19:06:05](https://news.ycombinator.com/item?id=31827805) - [Aerosolization of C. difficile after flushing toilets: the role of toilet lids](https://www.journalofhospitalinfection.com/article/S0195-6701(11)00339-2/fulltext)
 * [2022-06-21, 18:33:40](https://news.ycombinator.com/item?id=31827387) - [Deno raises $21M](https://deno.com/blog/series-a)
 * [2022-06-21, 18:29:07](https://news.ycombinator.com/item?id=31827340) - [The French repairability index – one year after its implementation [pdf]](https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf)
@@ -9,7 +10,6 @@
 * [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:23:21](https://news.ycombinator.com/item?id=31825742) - [GitHub Copilot is generally available](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
-* [2022-06-21, 16:17:20](https://news.ycombinator.com/item?id=31825676) - [How to Build a Notion Clone with Strapi v4 and Next.js (Part 1 of 2)](https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2)
 * [2022-06-21, 16:15:43](https://news.ycombinator.com/item?id=31825661) - [GitHub Copilot for individuals available without waitlist, with free trial](https://github.com/features/copilot)
 * [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://news.ycombinator.com/item?id=31825473)
 * [2022-06-21, 15:56:51](https://news.ycombinator.com/item?id=31825415) - [The Journey of Three African Wild Dogs](https://www.nytimes.com/2022/06/20/science/african-wild-dogs-zambia.html)
@@ -25,10 +25,10 @@
 * [2022-06-21, 10:54:23](https://news.ycombinator.com/item?id=31822456) - [RISC-V announces first new specifications of 2022 adding to 16 ratified in 2021](https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
-* [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 * [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
 * [2022-06-20, 16:47:32](https://news.ycombinator.com/item?id=31812533) - [Failure Is the Mother of Invention](https://www.wsj.com/articles/build-book-review-failure-is-the-mother-of-invention-11655495722)
 * [2022-06-20, 16:39:32](https://news.ycombinator.com/item?id=31812424) - [An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’](https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/)
+* [2022-06-20, 14:52:05](https://news.ycombinator.com/item?id=31811035) - [Tagging Along with Italy’s Unexploded Bomb–Hunters](https://www.atlasobscura.com/articles/italy-unexploded-ordnance)
 * [2022-06-20, 10:59:30](https://news.ycombinator.com/item?id=31808785) - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/)
 
 ## [Archives](archives/index.md)
