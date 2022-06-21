@@ -61,6 +61,7 @@
 * [2022-06-20, 10:59:30](https://news.ycombinator.com/item?id=31808785) - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/)
 * [2022-06-20, 10:39:22](https://news.ycombinator.com/item?id=31808647) - [A Macintosh History (1986)](https://systemtalk.org/post/macintosh-history-8603/)
 * [2022-06-20, 10:37:33](https://news.ycombinator.com/item?id=31808632) - [Ask HN: How is Python's OOP is superior vs. Lisp CLOS?](https://news.ycombinator.com/item?id=31808632)
+* [2022-06-20, 10:30:07](https://news.ycombinator.com/item?id=31808579) - [The Organization of Your Bookshelves Tells Its Own Story](https://www.theatlantic.com/books/archive/2022/06/personal-library-book-organization-system/661326/)
 * [2022-06-20, 09:59:14](https://news.ycombinator.com/item?id=31808357) - [I got banned for life from Spotify](https://banned-for-life.com/)
 * [2022-06-20, 09:48:22](https://news.ycombinator.com/item?id=31808269) - [Why I Am Not Going to Buy a Computer – Wendell Berry (1987) [pdf]](http://www.thehangedman.com/teaching-files/stv/berry-computer.pdf)
 * [2022-06-20, 09:42:25](https://news.ycombinator.com/item?id=31808227) - [The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html)
