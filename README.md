@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-21, 17:47:40](https://news.ycombinator.com/item?id=31826918) - [Cheap, green hydrogen would be a breakthrough in clean energy](https://www.gatesnotes.com/Energy/Clean-Hydrogen)
 * [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:31:05](https://news.ycombinator.com/item?id=31825858) - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
@@ -12,8 +13,6 @@
 * [2022-06-21, 15:38:57](https://news.ycombinator.com/item?id=31825177) - [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 * [2022-06-21, 15:15:16](https://news.ycombinator.com/item?id=31824893) - [Variations of Two-Transistor Circuits: A Tribute to the Versatility of MOSFETs](https://www.researchgate.net/publication/354364068_Fifty_Nifty_Variations_of_Two-Transistor_Circuits_A_tribute_to_the_versatility_of_MOSFETs)
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Build Ruby on Rails apps 10x faster – Avo](https://avohq.io/)
-* [2022-06-21, 14:13:52](https://news.ycombinator.com/item?id=31824185) - [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
-* [2022-06-21, 14:05:48](https://news.ycombinator.com/item?id=31824096) - [Zoom.us is down](https://us02web.zoom.us/wc/join/)
 * [2022-06-21, 14:05:33](https://news.ycombinator.com/item?id=31824093) - [PyCantonese: Cantonese Linguistics and NLP in Python](https://pycantonese.org/index.html)
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
@@ -28,6 +27,7 @@
 * [2022-06-21, 09:01:30](https://news.ycombinator.com/item?id=31821849) - [Are blockchains decentralized?](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
 * [2022-06-21, 08:09:47](https://news.ycombinator.com/item?id=31821507) - [Timing Attacks](https://timing.attacks.cr.yp.to/)
 * [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+* [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
 * [2022-06-20, 16:39:32](https://news.ycombinator.com/item?id=31812424) - [An Early Run-In with Censors Led Rod Serling to ‘The Twilight Zone’](https://www.smithsonianmag.com/arts-culture/early-run-censors-led-rod-serling-twilight-zone-180971837/)
 * [2022-06-20, 10:59:30](https://news.ycombinator.com/item?id=31808785) - [Map Projection Transitions](https://www.jasondavies.com/maps/transition/)
 

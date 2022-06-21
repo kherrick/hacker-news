@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 17:47:40](https://news.ycombinator.com/item?id=31826918) - [Cheap, green hydrogen would be a breakthrough in clean energy](https://www.gatesnotes.com/Energy/Clean-Hydrogen)
 * [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:31:05](https://news.ycombinator.com/item?id=31825858) - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
@@ -57,4 +58,5 @@
 * [2022-06-21, 03:22:04](https://news.ycombinator.com/item?id=31819489) - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
 * [2022-06-21, 03:15:09](https://news.ycombinator.com/item?id=31819434) - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 * [2022-06-21, 02:52:45](https://news.ycombinator.com/item?id=31819286) - [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
+* [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
 * [2022-06-21, 00:19:14](https://news.ycombinator.com/item?id=31818074) - [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
