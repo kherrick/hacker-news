@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
+* [2022-06-22, 17:58:07](https://news.ycombinator.com/item?id=31839511) - [Power use is hitting record highs – what summer outage risks tell us about grids](https://smartcar.com/blog/what-increasing-power-outages-tell-us-about-grid-modernization/)
 * [2022-06-22, 17:42:49](https://news.ycombinator.com/item?id=31839260) - [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
+* [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Pathways Autoregressive Text-to-Image Model (Parti)](https://parti.research.google/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
@@ -50,6 +53,7 @@
 * [2022-06-22, 04:44:51](https://news.ycombinator.com/item?id=31832115) - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
 * [2022-06-22, 03:36:12](https://news.ycombinator.com/item?id=31831762) - [Samsung expected to announce mass production of 3nm chip next week](https://en.yna.co.kr/view/AEN20220622002900320)
 * [2022-06-22, 03:12:22](https://news.ycombinator.com/item?id=31831623) - [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
+* [2022-06-22, 02:55:27](https://news.ycombinator.com/item?id=31831532) - [Agnes Giberne's the Story of the Sun, Moon, and Stars (1898)](https://publicdomainreview.org/collection/story-of-sun-moon-stars/)
 * [2022-06-22, 02:31:46](https://news.ycombinator.com/item?id=31831437) - [Gemini with IPFS](https://github.com/JonStratton/geminipfs)
 * [2022-06-22, 01:38:57](https://news.ycombinator.com/item?id=31831115) - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
 * [2022-06-22, 00:58:47](https://news.ycombinator.com/item?id=31830867) - [Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
