@@ -68,6 +68,7 @@
 * [2022-06-19, 07:38:59](https://news.ycombinator.com/item?id=31797121) - [Map Data: False Assumptions Programmers Make](https://solutionspace.blog/2022/06/18/map-data-v-false-assumptions-programmers-make/)
 * [2022-06-19, 07:30:40](https://news.ycombinator.com/item?id=31797073) - [Running systemd without systemd-journald](https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd)
 * [2022-06-19, 07:01:21](https://news.ycombinator.com/item?id=31796916) - [Stacker (YC S20) Is Hiring a Head of Engineering](https://apply.workable.com/stackerhq/j/FAC2417239/)
+* [2022-06-19, 06:41:09](https://news.ycombinator.com/item?id=31796780) - [Virtual Correspondence](https://virtual-correspondence.github.io/)
 * [2022-06-19, 05:19:46](https://news.ycombinator.com/item?id=31796353) - [You and Your Research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
 * [2022-06-19, 05:05:07](https://news.ycombinator.com/item?id=31796311) - [So, you call yourself the fastest key/value store? It's 5X, 10X and 25X faster](https://news.ycombinator.com/item?id=31796311)
 * [2022-06-19, 04:49:56](https://news.ycombinator.com/item?id=31796261) - [Pipes, deadlocks, and strace annoyingly fixing them](https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them)

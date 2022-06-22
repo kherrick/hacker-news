@@ -1,17 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut](https://www.exploratorium.edu/files/exhibits/ladle/)
+* [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
 * [2022-06-22, 20:39:41](https://news.ycombinator.com/item?id=31841584) - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
-* [2022-06-22, 18:47:27](https://news.ycombinator.com/item?id=31840139) - [Hot or Not?](https://creon.substack.com/p/hot-or-not)
 * [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) is hiring a senior web dev to build a better tool for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
 * [2022-06-22, 18:31:33](https://news.ycombinator.com/item?id=31839936) - [Permissive forwarding rule leads to unintentional exposure of containers (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
 * [2022-06-22, 18:27:19](https://news.ycombinator.com/item?id=31839885) - [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
 * [2022-06-22, 17:42:49](https://news.ycombinator.com/item?id=31839260) - [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
-* [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Pathways Autoregressive Text-to-Image Model (Parti)](https://parti.research.google/)
+* [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
@@ -30,6 +29,7 @@
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t mock what you don’t own](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [2022-06-21, 04:51:24](https://news.ycombinator.com/item?id=31820016) - [Modern HDDs have gotten somewhat better](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
 * [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
+* [2022-06-19, 06:41:09](https://news.ycombinator.com/item?id=31796780) - [Virtual Correspondence](https://virtual-correspondence.github.io/)
 
 ## [Archives](archives/index.md)
 
