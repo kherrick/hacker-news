@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
+* [2022-06-22, 13:33:55](https://news.ycombinator.com/item?id=31835795) - [Ask HN: What are examples of common beliefs conclusively invalidated by data?](https://news.ycombinator.com/item?id=31835795)
 * [2022-06-22, 12:54:30](https://news.ycombinator.com/item?id=31835425) - [Ask HN: Why are online training classes divided into small chunks?](https://news.ycombinator.com/item?id=31835425)
 * [2022-06-22, 12:00:59](https://news.ycombinator.com/item?id=31834904) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-22, 12:00:25](https://news.ycombinator.com/item?id=31834895) - [Ask HN: Has anyone of you made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
