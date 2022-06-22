@@ -5,6 +5,7 @@
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
+* [2022-06-22, 14:38:06](https://news.ycombinator.com/item?id=31836569) - [R.L. Stine and Ghostwriters (2012)](http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html)
 * [2022-06-22, 14:21:39](https://news.ycombinator.com/item?id=31836324) - [Chasing utopian energy: How I wasted 20 years of my life](https://briangitt.com/chasing-utopian-energy-how-i-wasted-20-years-of-my-life/)
 * [2022-06-22, 14:19:39](https://news.ycombinator.com/item?id=31836297) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice's corpse?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
@@ -27,7 +28,6 @@
 * [2022-06-21, 11:47:48](https://news.ycombinator.com/item?id=31822800) - [“True” Damascus steel is not a “lost art”](https://www.reddit.com/r/history/comments/vdvtrh/a_widely_believed_history_myth_no_true_damascus/)
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [2022-06-21, 11:20:01](https://news.ycombinator.com/item?id=31822619) - [Rich Text Editor for React](https://github.com/ozanyurtsever/verbum)
-* [2022-06-21, 10:16:00](https://news.ycombinator.com/item?id=31822258) - [Queens of Infamy: Isabella of France](https://longreads.com/2022/06/21/queens-of-infamy-isabella-of-france/)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
 * [2022-06-20, 23:38:36](https://news.ycombinator.com/item?id=31817716) - [How to Share a Secret [pdf] (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
 
