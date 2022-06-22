@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-22, 07:46:11",
+      "https://news.ycombinator.com/item?id=31833116"
+    ],
+    [
+      "Airbnb's new $10m 'OMG Fund'",
+      "https://www.airbnb.com/d/omgfund"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 07:43:10",
       "https://news.ycombinator.com/item?id=31833101"
     ],
     [
       "Straight.el: next-gen, purely functional package manager for the Emacs hacker",
       "https://github.com/radian-software/straight.el"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 07:31:04",
+      "https://news.ycombinator.com/item?id=31833026"
+    ],
+    [
+      "Schluss. Basta. Stop. Take back control of your own information",
+      "https://schluss.org/roadmap/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)",
       "https://www.tabnine.com/blog/announcing-tabnine-next-generation/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 00:46:34",
-      "https://news.ycombinator.com/item?id=31830788"
-    ],
-    [
-      "TerraUSD crash led to vanished savings, shattered dreams",
-      "https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-06-21, 17:47:40",
-      "https://news.ycombinator.com/item?id=31826918"
-    ],
-    [
-      "Cheap, green hydrogen would be a breakthrough in clean energy",
-      "https://www.gatesnotes.com/Energy/Clean-Hydrogen"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 17:26:17",
       "https://news.ycombinator.com/item?id=31826651"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-20, 08:37:57",
-      "https://news.ycombinator.com/item?id=31807798"
+      "2022-06-20, 23:49:03",
+      "https://news.ycombinator.com/item?id=31817809"
     ],
     [
-      "You can't argue with a zombie (1995)",
-      "http://www.jaronlanier.com/zombie.html"
+      "Avoiding Escalation in Decision-Making",
+      "https://hardcoresoftware.learningbyshipping.com/p/bonus-avoiding-escalation"
     ]
   ]
 ]
