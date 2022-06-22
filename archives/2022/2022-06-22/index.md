@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
+* [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Goggles (beta) is now available in Brave Search](https://github.com/brave/goggles-quickstart)
+* [2022-06-22, 16:07:01](https://news.ycombinator.com/item?id=31837865) - [Brave Search passes 2.5B queries in its first year](https://brave.com/search-anniversary/)
 * [2022-06-22, 15:39:51](https://news.ycombinator.com/item?id=31837479) - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
 * [2022-06-22, 15:38:32](https://news.ycombinator.com/item?id=31837460) - [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
+* [2022-06-22, 15:36:25](https://news.ycombinator.com/item?id=31837418) - [Why do cats love catnip?](https://oa.mg/blog/why-do-cats-love-catnip/)
 * [2022-06-22, 15:15:48](https://news.ycombinator.com/item?id=31837138) - [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
