@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-22, 15:39:51",
+      "https://news.ycombinator.com/item?id=31837479"
+    ],
+    [
+      "ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU",
+      "https://www.espressif.com/en/news/ESP32-C5"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 15:38:32",
       "https://news.ycombinator.com/item?id=31837460"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31836293"
     ],
     [
-      "Why is Apache clinging to OpenOffice's corpse?",
+      "Why is Apache clinging to OpenOffice?",
       "https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-06-22, 08:18:42",
-      "https://news.ycombinator.com/item?id=31833312"
-    ],
-    [
-      "Fear and Loathing in FreeBSD",
-      "https://qorg11.net/tech_posts/freebsd_as_desktop.html"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 07:43:10",
       "https://news.ycombinator.com/item?id=31833101"
     ],
@@ -227,16 +227,6 @@
     [
       "Schluss – A secure vault for personal data",
       "https://schluss.org/roadmap/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 04:44:51",
-      "https://news.ycombinator.com/item?id=31832115"
-    ],
-    [
-      "Ergo – modern IRC server written in Go",
-      "https://github.com/ergochat/ergo"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Rich Text Editor for React",
       "https://github.com/ozanyurtsever/verbum"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 04:51:24",
+      "https://news.ycombinator.com/item?id=31820016"
+    ],
+    [
+      "Modern HDDs have gotten somewhat better than they used to be",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter"
     ]
   ],
   [
