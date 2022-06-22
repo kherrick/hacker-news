@@ -78,6 +78,7 @@
 * [2022-06-21, 06:37:35](https://news.ycombinator.com/item?id=31820635) - [Cloudflare Down Worldwide](https://www.cloudflare.com/)
 * [2022-06-21, 05:46:03](https://news.ycombinator.com/item?id=31820332) - [Ask HN: What do you do to receive honest feedback for your products?](https://news.ycombinator.com/item?id=31820332)
 * [2022-06-21, 05:12:53](https://news.ycombinator.com/item?id=31820149) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+* [2022-06-21, 04:51:24](https://news.ycombinator.com/item?id=31820016) - [Modern HDDs have gotten somewhat better than they used to be](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
 * [2022-06-21, 04:44:28](https://news.ycombinator.com/item?id=31819980) - [Does one simple rule underlie learning in the brain?](https://actu.epfl.ch/news/does-one-simple-rule-underlie-learning-in-the-brai/)
 * [2022-06-21, 04:35:55](https://news.ycombinator.com/item?id=31819926) - [Why code isn't self documenting](https://sourceless.org/posts/the-documentation-triangle.html)
 * [2022-06-21, 04:06:30](https://news.ycombinator.com/item?id=31819728) - [Microvium Is Small](https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/)

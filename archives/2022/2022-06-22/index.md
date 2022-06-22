@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 15:39:51](https://news.ycombinator.com/item?id=31837479) - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
 * [2022-06-22, 15:38:32](https://news.ycombinator.com/item?id=31837460) - [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
 * [2022-06-22, 15:15:48](https://news.ycombinator.com/item?id=31837138) - [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
