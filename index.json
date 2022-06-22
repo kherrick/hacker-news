@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-22, 12:00:59",
+      "https://news.ycombinator.com/item?id=31834904"
+    ],
+    [
+      "Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra",
+      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 12:00:25",
+      "https://news.ycombinator.com/item?id=31834895"
+    ],
+    [
+      "Ask HN: Has anyone of you made any serious money selling Android apps?",
+      "https://news.ycombinator.com/item?id=31834895"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 11:21:03",
       "https://news.ycombinator.com/item?id=31834532"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2022-06-22, 08:18:56",
-      "https://news.ycombinator.com/item?id=31833316"
-    ],
-    [
-      "Bitcoin Is a Hideous Monstrosity Made Out of Computers and Greed",
-      "https://medium.com/@michelcryptdamus/cryptocurrency-is-a-hideous-monstrosity-made-out-of-computers-and-greed-that-must-be-destroyed-99c26a1bbbaf"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 08:18:42",
       "https://news.ycombinator.com/item?id=31833312"
     ],
@@ -87,16 +97,6 @@
     [
       "Schluss. Basta. Stop. Take back control of your own information",
       "https://schluss.org/roadmap/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 07:01:08",
-      "https://news.ycombinator.com/item?id=31832846"
-    ],
-    [
-      "Arguments for a Potato Only Diet",
-      "https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2022-06-21, 21:09:59",
-      "https://news.ycombinator.com/item?id=31829130"
+      "2022-06-21, 21:22:11",
+      "https://news.ycombinator.com/item?id=31829267"
     ],
     [
-      "MEGA: Malleable Encryption Goes Awry",
-      "https://mega-awry.io/"
+      "FixPhrase – open-source, patent-free what3words alternative",
+      "https://fixphrase.com/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-06-21, 19:42:01",
-      "https://news.ycombinator.com/item?id=31828230"
-    ],
-    [
-      "TITO: Electric Argentine car",
-      "https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 19:38:00",
       "https://news.ycombinator.com/item?id=31828193"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2022-06-21, 17:47:40",
-      "https://news.ycombinator.com/item?id=31826918"
-    ],
-    [
-      "Cheap, green hydrogen would be a breakthrough in clean energy",
-      "https://www.gatesnotes.com/Energy/Clean-Hydrogen"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 16:23:21",
       "https://news.ycombinator.com/item?id=31825742"
     ],
     [
       "GitHub Copilot is generally available",
       "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 16:00:26",
+      "https://news.ycombinator.com/item?id=31825473"
+    ],
+    [
+      "Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data",
+      "https://news.ycombinator.com/item?id=31825473"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Avoiding Escalation in Decision-Making",
       "https://hardcoresoftware.learningbyshipping.com/p/bonus-avoiding-escalation"
+    ]
+  ],
+  [
+    [
+      "2022-06-20, 23:38:36",
+      "https://news.ycombinator.com/item?id=31817716"
+    ],
+    [
+      "How to Share a Secret [pdf]",
+      "https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf"
     ]
   ]
 ]
