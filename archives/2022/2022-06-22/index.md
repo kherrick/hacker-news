@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
+* [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
+* [2022-06-22, 16:18:02](https://news.ycombinator.com/item?id=31837996) - [Mapping the World of Package Management](https://enigma.com/blog/post/mapping-the-world-of-package-management)
 * [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Goggles (beta) is now available in Brave Search](https://github.com/brave/goggles-quickstart)
 * [2022-06-22, 16:07:01](https://news.ycombinator.com/item?id=31837865) - [Brave Search passes 2.5B queries in its first year](https://brave.com/search-anniversary/)
 * [2022-06-22, 15:39:51](https://news.ycombinator.com/item?id=31837479) - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)

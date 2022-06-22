@@ -53,6 +53,7 @@
 * [2022-06-21, 13:19:54](https://news.ycombinator.com/item?id=31823592) - [How we made data aggregation on PostgreSQL better and faster](https://www.timescale.com/blog/how-we-made-data-aggregation-better-and-faster-on-postgresql-with-timescaledb-2-7/)
 * [2022-06-21, 13:10:55](https://news.ycombinator.com/item?id=31823485) - [Laundry symbols make no sense](https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0)
 * [2022-06-21, 13:06:32](https://news.ycombinator.com/item?id=31823445) - [Microsoft Donated Money to Gnome: Remember How They Attacked Open Source Before](https://nixsanctuary.com/microsoft-donated-money-to-gnome-lets-remember-how-they-attacked-open-source-before/)
+* [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 12:08:53](https://news.ycombinator.com/item?id=31822932) - [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
 * [2022-06-21, 12:00:18](https://news.ycombinator.com/item?id=31822879) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
