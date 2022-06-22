@@ -80,6 +80,7 @@
 * [2022-06-21, 03:15:09](https://news.ycombinator.com/item?id=31819434) - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
 * [2022-06-21, 02:52:45](https://news.ycombinator.com/item?id=31819286) - [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
 * [2022-06-21, 02:10:35](https://news.ycombinator.com/item?id=31818978) - [The Internet origin story you know is wrong](https://www.wired.com/story/internet-origin-story-bbs/)
+* [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
 * [2022-06-21, 01:59:40](https://news.ycombinator.com/item?id=31818911) - [Function Dispatch Tables in C (2019)](https://blog.alicegoldfuss.com/function-dispatch-tables/)
 * [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
 * [2022-06-21, 00:19:14](https://news.ycombinator.com/item?id=31818074) - [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
