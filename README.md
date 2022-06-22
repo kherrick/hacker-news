@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-22, 08:18:56](https://news.ycombinator.com/item?id=31833316) - [Bitcoin Is a Hideous Monstrosity Made Out of Computers and Greed](https://medium.com/@michelcryptdamus/cryptocurrency-is-a-hideous-monstrosity-made-out-of-computers-and-greed-that-must-be-destroyed-99c26a1bbbaf)
+* [2022-06-22, 08:38:17](https://news.ycombinator.com/item?id=31833415) - [Show HN: I built a fun video meeting app with 2D physics and proximity chat](https://flat.social)
 * [2022-06-22, 07:46:11](https://news.ycombinator.com/item?id=31833116) - [Airbnb's new $10m 'OMG Fund'](https://www.airbnb.com/d/omgfund)
 * [2022-06-22, 07:43:10](https://news.ycombinator.com/item?id=31833101) - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
 * [2022-06-22, 07:31:04](https://news.ycombinator.com/item?id=31833026) - [Schluss. Basta. Stop. Take back control of your own information](https://schluss.org/roadmap/)
@@ -26,7 +26,7 @@
 * [2022-06-21, 17:26:17](https://news.ycombinator.com/item?id=31826651) - [Wikimedia Enterprise announces Google and Internet Archive as first customers](https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/)
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [An experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:23:21](https://news.ycombinator.com/item?id=31825742) - [GitHub Copilot is generally available](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
-* [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://news.ycombinator.com/item?id=31825473)
+* [2022-06-21, 11:47:48](https://news.ycombinator.com/item?id=31822800) - [A widely believed history myth: No, “true” Damascus steel is not a “lost art”](https://libredd.it/r/history/comments/vdvtrh/a_widely_believed_history_myth_no_true_damascus/)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
 * [2022-06-21, 01:59:40](https://news.ycombinator.com/item?id=31818911) - [Function Dispatch Tables in C (2019)](https://blog.alicegoldfuss.com/function-dispatch-tables/)
 * [2022-06-20, 23:49:03](https://news.ycombinator.com/item?id=31817809) - [Avoiding Escalation in Decision-Making](https://hardcoresoftware.learningbyshipping.com/p/bonus-avoiding-escalation)
