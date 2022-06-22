@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-22, 06:12:51",
+      "https://news.ycombinator.com/item?id=31832588"
+    ],
+    [
+      "Clang Static Analyzer and the Z3 constraint solver",
+      "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 04:44:51",
       "https://news.ycombinator.com/item?id=31832115"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2022-06-22, 01:38:57",
-      "https://news.ycombinator.com/item?id=31831115"
-    ],
-    [
-      "Alphabet is spending billions to become a force in health care",
-      "https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 00:58:47",
       "https://news.ycombinator.com/item?id=31830867"
     ],
     [
       "Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)",
       "https://www.tabnine.com/blog/announcing-tabnine-next-generation/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 00:46:34",
+      "https://news.ycombinator.com/item?id=31830788"
+    ],
+    [
+      "TerraUSD crash led to vanished savings, shattered dreams",
+      "https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Artistic Radiance Fields",
       "https://www.cs.cornell.edu/projects/arf/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 15:14:02",
-      "https://news.ycombinator.com/item?id=31824877"
-    ],
-    [
-      "Show HN: Avo – Build Ruby on Rails apps faster",
-      "https://avohq.io/"
     ]
   ],
   [
