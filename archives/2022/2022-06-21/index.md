@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
 * [2022-06-21, 22:55:16](https://news.ycombinator.com/item?id=31830046) - [OBS – Open Broadcaster Software](https://obsproject.com/)
+* [2022-06-21, 22:51:51](https://news.ycombinator.com/item?id=31830020) - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
 * [2022-06-21, 21:31:57](https://news.ycombinator.com/item?id=31829350) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 * [2022-06-21, 21:31:13](https://news.ycombinator.com/item?id=31829343) - [Viddy: A modern watch command. Time machine and pager etc.](https://github.com/sachaos/viddy)
 * [2022-06-21, 21:30:39](https://news.ycombinator.com/item?id=31829337) - [Jennifer Egan's Fiction and Visions of the Future](https://www.newyorker.com/new-yorker-live/jennifer-egan-candy-house)
