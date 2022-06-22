@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-06-22, 17:58:30",
+      "https://news.ycombinator.com/item?id=31839515"
+    ],
+    [
+      "JVM Anatomy Quark #10: String.intern()",
+      "https://shipilev.net/jvm/anatomy-quarks/10-string-intern/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 17:58:07",
+      "https://news.ycombinator.com/item?id=31839511"
+    ],
+    [
+      "Power use is hitting record highs – what summer outage risks tell us about grids",
+      "https://smartcar.com/blog/what-increasing-power-outages-tell-us-about-grid-modernization/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 17:42:49",
       "https://news.ycombinator.com/item?id=31839260"
     ],
     [
       "Infrastructure SaaS – a control plane first architecture",
       "https://docs.thenile.dev/blog/infrastructure-saas"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 17:37:35",
+      "https://news.ycombinator.com/item?id=31839193"
+    ],
+    [
+      "Pathways Autoregressive Text-to-Image Model (Parti)",
+      "https://parti.research.google/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-06-22, 13:38:08",
-      "https://news.ycombinator.com/item?id=31835843"
-    ],
-    [
-      "FDA to order Juul e-cigarettes off U.S. market",
-      "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 13:36:09",
       "https://news.ycombinator.com/item?id=31835818"
     ],
@@ -201,22 +221,12 @@
   ],
   [
     [
-      "2022-06-22, 11:02:39",
-      "https://news.ycombinator.com/item?id=31834387"
+      "2022-06-22, 02:55:27",
+      "https://news.ycombinator.com/item?id=31831532"
     ],
     [
-      "The business impact of code quality (2017)",
-      "https://arxiv-export1.library.cornell.edu/pdf/2203.04374"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 10:02:07",
-      "https://news.ycombinator.com/item?id=31833904"
-    ],
-    [
-      "Latest Busy Beaver champion has too many digits to count",
-      "https://www.sligocki.com//2022/06/21/bb-6-2-t15.html"
+      "Agnes Giberne's the Story of the Sun, Moon, and Stars (1898)",
+      "https://publicdomainreview.org/collection/story-of-sun-moon-stars/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Don’t mock what you don’t own",
       "https://hynek.me/articles/what-to-mock-in-5-mins/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 11:20:01",
-      "https://news.ycombinator.com/item?id=31822619"
-    ],
-    [
-      "Rich Text Editor for React",
-      "https://github.com/ozanyurtsever/verbum"
     ]
   ],
   [
