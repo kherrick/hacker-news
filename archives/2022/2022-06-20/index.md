@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-20](index.md)
 
+* [2022-06-20, 23:49:03](https://news.ycombinator.com/item?id=31817809) - [Avoiding Escalation in Decision-Making](https://hardcoresoftware.learningbyshipping.com/p/bonus-avoiding-escalation)
 * [2022-06-20, 23:34:13](https://news.ycombinator.com/item?id=31817677) - [Wrecked by Success? Not to Worry](https://journals.sagepub.com/doi/abs/10.1177/17456916211055637)
 * [2022-06-20, 23:22:11](https://news.ycombinator.com/item?id=31817549) - [As water crisis worsens on Colorado River, an urgent call for states to ‘act’](https://www.latimes.com/environment/story/2022-06-20/as-colorado-river-reservoirs-drop-states-urged-to-act-now)
 * [2022-06-20, 23:04:50](https://news.ycombinator.com/item?id=31817380) - [NFS: The Early Years](https://lwn.net/SubscriberLink/897917/7a4775f9f1223e8a/)
