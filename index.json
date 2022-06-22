@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-22, 12:54:30",
+      "https://news.ycombinator.com/item?id=31835425"
+    ],
+    [
+      "Ask HN: Why are online training classes divided into small chunks?",
+      "https://news.ycombinator.com/item?id=31835425"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 12:00:59",
       "https://news.ycombinator.com/item?id=31834904"
     ],
@@ -31,22 +41,32 @@
   ],
   [
     [
+      "2022-06-22, 11:02:39",
+      "https://news.ycombinator.com/item?id=31834387"
+    ],
+    [
+      "The Business Impact of Code Quality",
+      "https://arxiv-export1.library.cornell.edu/pdf/2203.04374"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 10:02:07",
+      "https://news.ycombinator.com/item?id=31833904"
+    ],
+    [
+      "Latest Busy Beaver champion has too many digits to count",
+      "https://www.sligocki.com//2022/06/21/bb-6-2-t15.html"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 09:59:29",
       "https://news.ycombinator.com/item?id=31833891"
     ],
     [
       "iPhone 3G frame by Grid review",
       "https://giuliomagnifico.blog/misc/2022/06/18/iphone3g-frame-by-grid.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 09:17:32",
-      "https://news.ycombinator.com/item?id=31833632"
-    ],
-    [
-      "One-night stands will be illegal at the 2022 World Cup in Qatar",
-      "https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Fear and Loathing in FreeBSD",
       "https://qorg11.net/tech_posts/freebsd_as_desktop.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 07:46:11",
+      "https://news.ycombinator.com/item?id=31833116"
+    ],
+    [
+      "The $10m OMG Fund",
+      "https://www.airbnb.com/d/omgfund"
     ]
   ],
   [
@@ -141,6 +171,16 @@
   ],
   [
     [
+      "2022-06-22, 01:38:57",
+      "https://news.ycombinator.com/item?id=31831115"
+    ],
+    [
+      "Alphabet is spending billions to become a force in health care",
+      "https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 00:58:47",
       "https://news.ycombinator.com/item?id=31830867"
     ],
@@ -181,62 +221,12 @@
   ],
   [
     [
-      "2022-06-21, 21:31:13",
-      "https://news.ycombinator.com/item?id=31829343"
-    ],
-    [
-      "Viddy: A modern watch command. Time machine and pager etc.",
-      "https://github.com/sachaos/viddy"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 21:22:11",
-      "https://news.ycombinator.com/item?id=31829267"
-    ],
-    [
-      "FixPhrase – open-source, patent-free what3words alternative",
-      "https://fixphrase.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 20:05:54",
-      "https://news.ycombinator.com/item?id=31828509"
-    ],
-    [
-      "Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)",
-      "https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 19:38:00",
-      "https://news.ycombinator.com/item?id=31828193"
-    ],
-    [
-      "HDMI Firewall",
-      "https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 16:23:21",
       "https://news.ycombinator.com/item?id=31825742"
     ],
     [
       "GitHub Copilot is generally available",
       "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 16:00:26",
-      "https://news.ycombinator.com/item?id=31825473"
-    ],
-    [
-      "Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data",
-      "https://news.ycombinator.com/item?id=31825473"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Rich Text Editor for React",
       "https://github.com/ozanyurtsever/verbum"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 10:16:00",
+      "https://news.ycombinator.com/item?id=31822258"
+    ],
+    [
+      "Queens of Infamy: Isabella of France",
+      "https://longreads.com/2022/06/21/queens-of-infamy-isabella-of-france/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31817716"
     ],
     [
-      "How to Share a Secret [pdf]",
+      "How to Share a Secret [pdf] (1979)",
       "https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf"
     ]
   ]
