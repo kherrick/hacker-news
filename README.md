@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-22, 19:34:15](https://news.ycombinator.com/item?id=31840770) - [A subreddit dedicated to busting shoplifters](https://www.inputmag.com/culture/loss-prevention-theft-shoplifting-security-subreddit)
+* [2022-06-22, 19:19:55](https://news.ycombinator.com/item?id=31840587) - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
-* [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
+* [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) is hiring a senior web dev to build a better tool for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
 * [2022-06-22, 18:31:33](https://news.ycombinator.com/item?id=31839936) - [Permissive forwarding rule leads to unintentional exposure of containers (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
 * [2022-06-22, 18:27:19](https://news.ycombinator.com/item?id=31839885) - [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
@@ -12,8 +12,7 @@
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
-* [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Goggles (beta) is now available in Brave Search](https://github.com/brave/goggles-quickstart)
-* [2022-06-22, 16:07:01](https://news.ycombinator.com/item?id=31837865) - [Brave Search passes 2.5B queries in its first year](https://brave.com/search-anniversary/)
+* [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Brave Search Goggles: Alter search rankings with rules and filters](https://github.com/brave/goggles-quickstart)
 * [2022-06-22, 15:39:51](https://news.ycombinator.com/item?id=31837479) - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
 * [2022-06-22, 15:38:32](https://news.ycombinator.com/item?id=31837460) - [The end of the world is just beginning for shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
 * [2022-06-22, 15:36:25](https://news.ycombinator.com/item?id=31837418) - [Why do cats love catnip?](https://oa.mg/blog/why-do-cats-love-catnip/)
@@ -28,6 +27,7 @@
 * [2022-06-21, 16:14:34](https://news.ycombinator.com/item?id=31825646) - [Memory Safety in a Modern System Programming Language Pt. 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 * [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t mock what you don’t own](https://hynek.me/articles/what-to-mock-in-5-mins/)
+* [2022-06-21, 11:16:45](https://news.ycombinator.com/item?id=31822597) - [Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill](https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/)
 * [2022-06-21, 04:51:24](https://news.ycombinator.com/item?id=31820016) - [Modern HDDs have gotten somewhat better](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
 * [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 

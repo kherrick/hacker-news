@@ -62,6 +62,7 @@
 * [2022-06-21, 11:47:48](https://news.ycombinator.com/item?id=31822800) - [A widely believed history myth: No, “true” Damascus steel is not a “lost art”](https://libredd.it/r/history/comments/vdvtrh/a_widely_believed_history_myth_no_true_damascus/)
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [2022-06-21, 11:20:01](https://news.ycombinator.com/item?id=31822619) - [Rich Text Editor for React](https://github.com/ozanyurtsever/verbum)
+* [2022-06-21, 11:16:45](https://news.ycombinator.com/item?id=31822597) - [Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill](https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/)
 * [2022-06-21, 11:14:03](https://news.ycombinator.com/item?id=31822587) - [The Psychology of not wanting to know [pdf]](https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf)
 * [2022-06-21, 11:08:23](https://news.ycombinator.com/item?id=31822549) - [Sex is going out of fashion](https://www.welltechnically.news/p/sex-is-going-out-of-fashion)
 * [2022-06-21, 10:59:26](https://news.ycombinator.com/item?id=31822496) - [Habits Maketh the Man and Un-Maketh Him, Too](https://newsletter.butwhatfor.com/p/habits-maketh-man)
