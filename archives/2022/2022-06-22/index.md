@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
 * [2022-06-22, 10:09:21](https://news.ycombinator.com/item?id=31833956) - [California Is Poised to Ban Prostitution-Related Loitering Arrests](https://www.lamag.com/citythinkblog/california-is-poised-to-ban-prostitution-related-loitering-arrests/)
 * [2022-06-22, 09:59:29](https://news.ycombinator.com/item?id=31833891) - [iPhone 3G frame by Grid review](https://giuliomagnifico.blog/misc/2022/06/18/iphone3g-frame-by-grid.html)
 * [2022-06-22, 09:17:32](https://news.ycombinator.com/item?id=31833632) - [One-night stands will be illegal at the 2022 World Cup in Qatar](https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html)
