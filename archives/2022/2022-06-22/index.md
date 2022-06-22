@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 17:42:49](https://news.ycombinator.com/item?id=31839260) - [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)

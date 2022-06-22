@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-22, 17:42:49](https://news.ycombinator.com/item?id=31839260) - [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
@@ -13,7 +14,6 @@
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
-* [2022-06-22, 14:38:06](https://news.ycombinator.com/item?id=31836569) - [R.L. Stine and Ghostwriters (2012)](http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html)
 * [2022-06-22, 14:19:39](https://news.ycombinator.com/item?id=31836297) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:41:14](https://news.ycombinator.com/item?id=31835868) - [Fail Gardening: Low Expectations for Skillbuilding and Eventual Success](https://feastofassumption.substack.com/p/fail-gardening)
