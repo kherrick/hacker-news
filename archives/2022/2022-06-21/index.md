@@ -28,6 +28,7 @@
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:31:05](https://news.ycombinator.com/item?id=31825858) - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
 * [2022-06-21, 16:29:31](https://news.ycombinator.com/item?id=31825840) - [Fair Game: data scraping is an underacknowledged privacy concern](https://reallifemag.com/fair-game/)
+* [2022-06-21, 16:29:06](https://news.ycombinator.com/item?id=31825834) - [The Cracked Wisdom of Dril](https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril)
 * [2022-06-21, 16:23:21](https://news.ycombinator.com/item?id=31825742) - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 * [2022-06-21, 16:22:28](https://news.ycombinator.com/item?id=31825733) - [Amazon drones are coming to town. Some locals want to shoot them](https://www.adn.com/nation-world/2022/06/21/amazon-drones-are-coming-to-town-some-locals-want-to-shoot-them/)
 * [2022-06-21, 16:17:20](https://news.ycombinator.com/item?id=31825676) - [How to Build a Notion Clone with Strapi v4 and Next.js (Part 1 of 2)](https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2)
