@@ -26,8 +26,8 @@
 * [2022-06-22, 08:03:21](https://news.ycombinator.com/item?id=31833218) - [Writing a Multilingual Book in Markdown](https://www.dampfkraft.com/code/multilingual-markdown.html)
 * [2022-06-22, 02:55:27](https://news.ycombinator.com/item?id=31831532) - [The Story of the Sun, Moon, and Stars (1898)](https://publicdomainreview.org/collection/story-of-sun-moon-stars/)
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
+* [2022-06-21, 20:20:11](https://news.ycombinator.com/item?id=31828658) - [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
 * [2022-06-21, 16:29:06](https://news.ycombinator.com/item?id=31825834) - [The Cracked Wisdom of Dril](https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril)
-* [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 * [2022-06-19, 06:41:09](https://news.ycombinator.com/item?id=31796780) - [Virtual Correspondence](https://virtual-correspondence.github.io/)
 
