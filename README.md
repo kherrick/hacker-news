@@ -6,7 +6,6 @@
 * [2022-06-22, 18:23:12](https://news.ycombinator.com/item?id=31839846) - [Ohio State University secures trademark for use of the word 'THE' on clothing](https://www.dispatch.com/story/news/local/2022/06/22/ohio-state-secures-trademark-word-the-clothing/7699879001/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
-* [2022-06-22, 17:58:07](https://news.ycombinator.com/item?id=31839511) - [Power use is hitting record highs – what summer outage risks tell us about grids](https://smartcar.com/blog/what-increasing-power-outages-tell-us-about-grid-modernization/)
 * [2022-06-22, 17:42:49](https://news.ycombinator.com/item?id=31839260) - [Infrastructure SaaS – a control plane first architecture](https://docs.thenile.dev/blog/infrastructure-saas)
 * [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Pathways Autoregressive Text-to-Image Model (Parti)](https://parti.research.google/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
@@ -24,12 +23,13 @@
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
+* [2022-06-22, 02:55:27](https://news.ycombinator.com/item?id=31831532) - [Agnes Giberne's the Story of the Sun, Moon, and Stars (1898)](https://publicdomainreview.org/collection/story-of-sun-moon-stars/)
 * [2022-06-21, 16:14:34](https://news.ycombinator.com/item?id=31825646) - [Memory Safety in a Modern System Programming Language Pt. 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 * [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t mock what you don’t own](https://hynek.me/articles/what-to-mock-in-5-mins/)
-* [2022-06-21, 04:51:24](https://news.ycombinator.com/item?id=31820016) - [Modern HDDs have gotten somewhat better than they used to be](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
 * [2022-06-20, 23:38:36](https://news.ycombinator.com/item?id=31817716) - [How to Share a Secret [pdf] (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
+* [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 
 ## [Archives](archives/index.md)
 
