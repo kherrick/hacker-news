@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-22, 03:12:22](https://news.ycombinator.com/item?id=31831623) - [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
-* [2022-06-22, 01:38:57](https://news.ycombinator.com/item?id=31831115) - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
 * [2022-06-22, 00:58:47](https://news.ycombinator.com/item?id=31830867) - [Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
 * [2022-06-22, 00:46:34](https://news.ycombinator.com/item?id=31830788) - [TerraUSD crash led to vanished savings, shattered dreams](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
 * [2022-06-22, 00:28:41](https://news.ycombinator.com/item?id=31830676) - [Effective Shell](https://effective-shell.com/)
@@ -13,6 +12,7 @@
 * [2022-06-21, 21:09:59](https://news.ycombinator.com/item?id=31829130) - [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/)
 * [2022-06-21, 20:16:02](https://news.ycombinator.com/item?id=31828615) - [Permacomputing Wiki](https://permacomputing.net/)
 * [2022-06-21, 20:05:54](https://news.ycombinator.com/item?id=31828509) - [Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)](https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/)
+* [2022-06-21, 19:58:24](https://news.ycombinator.com/item?id=31828416) - [Electrocuted birds are sparking wildfires](https://www.science.org/content/article/electrocuted-birds-are-sparking-wildfires)
 * [2022-06-21, 19:42:01](https://news.ycombinator.com/item?id=31828230) - [TITO: Electric Argentine car](https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/)
 * [2022-06-21, 19:38:00](https://news.ycombinator.com/item?id=31828193) - [HDMI Firewall](https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md)
 * [2022-06-21, 18:33:40](https://news.ycombinator.com/item?id=31827387) - [Deno raises $21M](https://deno.com/blog/series-a)
@@ -27,8 +27,8 @@
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Avo – Build Ruby on Rails apps faster](https://avohq.io/)
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [2022-06-21, 10:15:04](https://news.ycombinator.com/item?id=31822256) - [For natural theologians, proving God was beside the point](https://aeon.co/essays/for-natural-theologians-proving-god-was-beside-the-point)
-* [2022-06-21, 05:46:03](https://news.ycombinator.com/item?id=31820332) - [Ask HN: What do you do to receive honest feedback for your products?](https://news.ycombinator.com/item?id=31820332)
 * [2022-06-21, 02:10:35](https://news.ycombinator.com/item?id=31818978) - [The Internet origin story you know is wrong](https://www.wired.com/story/internet-origin-story-bbs/)
+* [2022-06-20, 19:50:32](https://news.ycombinator.com/item?id=31814889) - [Why Is Wine (Almost) Always Made from Grapes?](https://www.atlasobscura.com/articles/why-is-wine-made-from-grapes)
 * [2022-06-20, 08:37:57](https://news.ycombinator.com/item?id=31807798) - [You can't argue with a zombie (1995)](http://www.jaronlanier.com/zombie.html)
 
 ## [Archives](archives/index.md)
