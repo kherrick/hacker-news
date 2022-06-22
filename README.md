@@ -2,7 +2,6 @@
 
 * [2022-06-22, 20:39:41](https://news.ycombinator.com/item?id=31841584) - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
-* [2022-06-22, 19:19:55](https://news.ycombinator.com/item?id=31840587) - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2022-06-22, 18:47:27](https://news.ycombinator.com/item?id=31840139) - [Hot or Not?](https://creon.substack.com/p/hot-or-not)
 * [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) is hiring a senior web dev to build a better tool for thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
@@ -25,6 +24,7 @@
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
+* [2022-06-22, 08:03:21](https://news.ycombinator.com/item?id=31833218) - [Writing a Multilingual Book in Markdown](https://www.dampfkraft.com/code/multilingual-markdown.html)
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t mock what you don’t own](https://hynek.me/articles/what-to-mock-in-5-mins/)
