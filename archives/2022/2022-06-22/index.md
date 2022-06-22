@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 13:39:04](https://news.ycombinator.com/item?id=31835851) - [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
+* [2022-06-22, 13:38:08](https://news.ycombinator.com/item?id=31835843) - [FDA to Order Juul E-Cigarettes off U.S. Market](https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 13:33:55](https://news.ycombinator.com/item?id=31835795) - [Ask HN: What are examples of common beliefs conclusively invalidated by data?](https://news.ycombinator.com/item?id=31835795)
 * [2022-06-22, 12:54:30](https://news.ycombinator.com/item?id=31835425) - [Ask HN: Why are online training classes divided into small chunks?](https://news.ycombinator.com/item?id=31835425)
