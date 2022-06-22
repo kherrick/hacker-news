@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 14:21:39](https://news.ycombinator.com/item?id=31836324) - [Chasing utopian energy: How I wasted 20 years of my life](https://briangitt.com/chasing-utopian-energy-how-i-wasted-20-years-of-my-life/)
 * [2022-06-22, 14:19:39](https://news.ycombinator.com/item?id=31836297) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice's corpse?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:39:04](https://news.ycombinator.com/item?id=31835851) - [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
@@ -14,6 +15,7 @@
 * [2022-06-22, 12:00:59](https://news.ycombinator.com/item?id=31834904) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-22, 12:00:25](https://news.ycombinator.com/item?id=31834895) - [Ask HN: Has anyone of you made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
+* [2022-06-22, 11:06:01](https://news.ycombinator.com/item?id=31834411) - [Even your boss wants to quit](https://www.axios.com/2022/06/22/ceo-csuite-burnout-pandemic-great-resignation)
 * [2022-06-22, 11:02:39](https://news.ycombinator.com/item?id=31834387) - [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
 * [2022-06-22, 10:09:21](https://news.ycombinator.com/item?id=31833956) - [California Is Poised to Ban Prostitution-Related Loitering Arrests](https://www.lamag.com/citythinkblog/california-is-poised-to-ban-prostitution-related-loitering-arrests/)
 * [2022-06-22, 10:02:07](https://news.ycombinator.com/item?id=31833904) - [Latest Busy Beaver champion has too many digits to count](https://www.sligocki.com//2022/06/21/bb-6-2-t15.html)
