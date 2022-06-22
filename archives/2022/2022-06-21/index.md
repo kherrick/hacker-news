@@ -90,3 +90,4 @@
 * [2022-06-21, 01:59:40](https://news.ycombinator.com/item?id=31818911) - [Function Dispatch Tables in C (2019)](https://blog.alicegoldfuss.com/function-dispatch-tables/)
 * [2022-06-21, 01:38:55](https://news.ycombinator.com/item?id=31818767) - [Editing Means Writing Less](https://www.bramadams.dev/projects/editing-means-writing-less)
 * [2022-06-21, 00:19:14](https://news.ycombinator.com/item?id=31818074) - [WTF Nextdoor? Over 130 click to disable email and push notifications?](https://imgur.com/a/RY0jgQD)
+* [2022-06-21, 00:16:54](https://news.ycombinator.com/item?id=31818054) - [How to Spot an Internet Wolf in Sheep’s Clothing](https://cryptofireside.com/how-to-spot-an-internet-wolf-in-sheeps-clothing-1f27fe18824a)
