@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 08:18:56](https://news.ycombinator.com/item?id=31833316) - [Bitcoin Is a Hideous Monstrosity Made Out of Computers and Greed](https://medium.com/@michelcryptdamus/cryptocurrency-is-a-hideous-monstrosity-made-out-of-computers-and-greed-that-must-be-destroyed-99c26a1bbbaf)
 * [2022-06-22, 07:46:11](https://news.ycombinator.com/item?id=31833116) - [Airbnb's new $10m 'OMG Fund'](https://www.airbnb.com/d/omgfund)
 * [2022-06-22, 07:43:10](https://news.ycombinator.com/item?id=31833101) - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
 * [2022-06-22, 07:31:04](https://news.ycombinator.com/item?id=31833026) - [Schluss. Basta. Stop. Take back control of your own information](https://schluss.org/roadmap/)
