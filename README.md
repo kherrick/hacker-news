@@ -5,7 +5,6 @@
 * [2022-06-22, 13:39:04](https://news.ycombinator.com/item?id=31835851) - [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
 * [2022-06-22, 13:38:08](https://news.ycombinator.com/item?id=31835843) - [FDA to Order Juul E-Cigarettes off U.S. Market](https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
-* [2022-06-22, 13:33:55](https://news.ycombinator.com/item?id=31835795) - [Ask HN: What are examples of common beliefs conclusively invalidated by data?](https://news.ycombinator.com/item?id=31835795)
 * [2022-06-22, 12:00:25](https://news.ycombinator.com/item?id=31834895) - [Ask HN: Has anyone made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
 * [2022-06-22, 11:02:39](https://news.ycombinator.com/item?id=31834387) - [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
@@ -29,6 +28,7 @@
 * [2022-06-21, 10:16:00](https://news.ycombinator.com/item?id=31822258) - [Queens of Infamy: Isabella of France](https://longreads.com/2022/06/21/queens-of-infamy-isabella-of-france/)
 * [2022-06-21, 02:53:40](https://news.ycombinator.com/item?id=31819299) - [Artificial Intelligence in the Field of Economics](https://link.springer.com/article/10.1007/s11192-022-04294-w)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
+* [2022-06-20, 23:49:03](https://news.ycombinator.com/item?id=31817809) - [Avoiding Escalation in Decision-Making](https://hardcoresoftware.learningbyshipping.com/p/bonus-avoiding-escalation)
 * [2022-06-20, 23:38:36](https://news.ycombinator.com/item?id=31817716) - [How to Share a Secret [pdf] (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
 
 ## [Archives](archives/index.md)
