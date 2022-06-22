@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-21](index.md)
 
+* [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 22:55:16](https://news.ycombinator.com/item?id=31830046) - [OBS – Open Broadcaster Software](https://obsproject.com/)
 * [2022-06-21, 22:51:51](https://news.ycombinator.com/item?id=31830020) - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
 * [2022-06-21, 21:31:57](https://news.ycombinator.com/item?id=31829350) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)

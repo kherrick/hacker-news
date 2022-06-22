@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-22, 20:39:41](https://news.ycombinator.com/item?id=31841584) - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 * [2022-06-22, 19:19:55](https://news.ycombinator.com/item?id=31840587) - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
@@ -16,7 +17,6 @@
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
 * [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Brave Search Goggles: Alter search rankings with rules and filters](https://github.com/brave/goggles-quickstart)
 * [2022-06-22, 15:39:51](https://news.ycombinator.com/item?id=31837479) - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
-* [2022-06-22, 15:38:32](https://news.ycombinator.com/item?id=31837460) - [The end of the world is just beginning for shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
 * [2022-06-22, 15:36:25](https://news.ycombinator.com/item?id=31837418) - [Why do cats love catnip?](https://oa.mg/blog/why-do-cats-love-catnip/)
 * [2022-06-22, 15:28:04](https://news.ycombinator.com/item?id=31837307) - [Show HN: Data Diff – compare tables of any size across databases](https://news.ycombinator.com/item?id=31837307)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
@@ -25,9 +25,9 @@
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
+* [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-21, 11:30:14](https://news.ycombinator.com/item?id=31822683) - [Don’t mock what you don’t own](https://hynek.me/articles/what-to-mock-in-5-mins/)
-* [2022-06-21, 11:16:45](https://news.ycombinator.com/item?id=31822597) - [Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill](https://www.quantamagazine.org/wheel-made-of-odd-matter-spontaneously-rolls-uphill-20220615/)
 * [2022-06-21, 04:51:24](https://news.ycombinator.com/item?id=31820016) - [Modern HDDs have gotten somewhat better](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
 * [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 
