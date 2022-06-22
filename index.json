@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31841982"
     ],
     [
-      "Ladle Rat Rotten Hut",
+      "Ladle Rat Rotten Hut (1940)",
       "https://www.exploratorium.edu/files/exhibits/ladle/"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "The Grug Brained Developer",
       "https://grugbrain.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 18:47:27",
-      "https://news.ycombinator.com/item?id=31840139"
-    ],
-    [
-      "Hot or Not?",
-      "https://creon.substack.com/p/hot-or-not"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31839193"
     ],
     [
-      "Pathways Autoregressive Text-to-Image Model (Parti)",
+      "Parti: Pathways Autoregressive Text-to-Image Model",
       "https://parti.research.google/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Earth moves far under our feet: Study shows Earth’s inner core oscillates",
       "https://news.usc.edu/200185/earth-core-oscillates/"
+    ]
+  ],
+  [
+    [
+      "2022-06-19, 06:41:09",
+      "https://news.ycombinator.com/item?id=31796780"
+    ],
+    [
+      "Virtual Correspondence",
+      "https://virtual-correspondence.github.io/"
     ]
   ]
 ]
