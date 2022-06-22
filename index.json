@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-22, 15:14:32",
+      "https://news.ycombinator.com/item?id=31837115"
+    ],
+    [
+      "Tailscale SSH",
+      "https://tailscale.com/blog/tailscale-ssh/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 15:05:46",
+      "https://news.ycombinator.com/item?id=31836974"
+    ],
+    [
+      "Stack Overflow Developer Survey 2022",
+      "https://survey.stackoverflow.co/2022/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 15:02:08",
+      "https://news.ycombinator.com/item?id=31836922"
+    ],
+    [
+      "Guide to Web Authentication",
+      "https://webauthn.guide/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 14:38:06",
       "https://news.ycombinator.com/item?id=31836569"
     ],
@@ -57,6 +87,16 @@
     [
       "Blackbird: A reference architecture for local-first connected mobile apps",
       "https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 13:38:08",
+      "https://news.ycombinator.com/item?id=31835843"
+    ],
+    [
+      "FDA to order Juul e-cigarettes off U.S. market",
+      "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689"
     ]
   ],
   [
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2022-06-22, 01:38:57",
-      "https://news.ycombinator.com/item?id=31831115"
-    ],
-    [
-      "Alphabet is spending billions to become a force in health care",
-      "https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 00:58:47",
       "https://news.ycombinator.com/item?id=31830867"
     ],
     [
       "Next-generation AI models",
       "https://www.tabnine.com/blog/announcing-tabnine-next-generation/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 22:55:16",
-      "https://news.ycombinator.com/item?id=31830046"
-    ],
-    [
-      "OBS – Open Broadcaster Software",
-      "https://obsproject.com/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-06-21, 10:16:00",
-      "https://news.ycombinator.com/item?id=31822258"
-    ],
-    [
-      "Queens of Infamy: Isabella of France",
-      "https://longreads.com/2022/06/21/queens-of-infamy-isabella-of-france/"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 02:07:00",
       "https://news.ycombinator.com/item?id=31818960"
     ],
     [
       "Surprising result while transpiling C to Go",
       "https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 00:16:54",
-      "https://news.ycombinator.com/item?id=31818054"
-    ],
-    [
-      "How to Spot an Internet Wolf in Sheep’s Clothing",
-      "https://cryptofireside.com/how-to-spot-an-internet-wolf-in-sheeps-clothing-1f27fe18824a"
     ]
   ],
   [
