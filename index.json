@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-22, 16:21:42",
+      "https://news.ycombinator.com/item?id=31838049"
+    ],
+    [
+      "Twitter Notes",
+      "https://twitter.com/TwitterWrite/status/1539640956915290112"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 16:16:57",
+      "https://news.ycombinator.com/item?id=31837986"
+    ],
+    [
+      "Goggles (beta) is now available in Brave Search",
+      "https://github.com/brave/goggles-quickstart"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 16:07:01",
+      "https://news.ycombinator.com/item?id=31837865"
+    ],
+    [
+      "Brave Search passes 2.5B queries in its first year",
+      "https://brave.com/search-anniversary/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 15:39:51",
       "https://news.ycombinator.com/item?id=31837479"
     ],
@@ -17,6 +47,16 @@
     [
       "The End of the World Is Just Beginning for Shipping",
       "https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 15:36:25",
+      "https://news.ycombinator.com/item?id=31837418"
+    ],
+    [
+      "Why do cats love catnip?",
+      "https://oa.mg/blog/why-do-cats-love-catnip/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "R.L. Stine and Ghostwriters (2012)",
       "http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 14:21:39",
-      "https://news.ycombinator.com/item?id=31836324"
-    ],
-    [
-      "Chasing utopian energy: How I wasted 20 years of my life",
-      "https://briangitt.com/chasing-utopian-energy-how-i-wasted-20-years-of-my-life/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-06-22, 11:06:01",
-      "https://news.ycombinator.com/item?id=31834411"
-    ],
-    [
-      "Even your boss wants to quit",
-      "https://www.axios.com/2022/06/22/ceo-csuite-burnout-pandemic-great-resignation"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 11:02:39",
       "https://news.ycombinator.com/item?id=31834387"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2022-06-22, 09:04:11",
-      "https://news.ycombinator.com/item?id=31833561"
-    ],
-    [
-      "What will a Chromium-only Web look like?",
-      "https://www.mnot.net/blog/2022/06/22/chromium-only"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 08:38:17",
       "https://news.ycombinator.com/item?id=31833415"
     ],
     [
       "Show HN: I built a fun video meeting app with 2D physics and proximity chat",
       "https://flat.social"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 07:43:10",
-      "https://news.ycombinator.com/item?id=31833101"
-    ],
-    [
-      "Straight.el: next-gen, purely functional package manager for the Emacs hacker",
-      "https://github.com/radian-software/straight.el"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31822683"
     ],
     [
-      "Don’t Mock What You Don’t Own",
+      "Don’t mock what you don’t own",
       "https://hynek.me/articles/what-to-mock-in-5-mins/"
     ]
   ],
