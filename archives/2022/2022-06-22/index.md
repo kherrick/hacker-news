@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 06:12:51](https://news.ycombinator.com/item?id=31832588) - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 * [2022-06-22, 04:44:51](https://news.ycombinator.com/item?id=31832115) - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
 * [2022-06-22, 03:36:12](https://news.ycombinator.com/item?id=31831762) - [Samsung expected to announce mass production of 3nm chip next week](https://en.yna.co.kr/view/AEN20220622002900320)
 * [2022-06-22, 03:12:22](https://news.ycombinator.com/item?id=31831623) - [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
