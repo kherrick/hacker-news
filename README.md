@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
-* [2022-06-22, 20:39:41](https://news.ycombinator.com/item?id=31841584) - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 * [2022-06-22, 19:19:55](https://news.ycombinator.com/item?id=31840587) - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
@@ -28,6 +27,7 @@
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 20:20:11](https://news.ycombinator.com/item?id=31828658) - [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
 * [2022-06-21, 16:29:06](https://news.ycombinator.com/item?id=31825834) - [The Cracked Wisdom of Dril](https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril)
+* [2022-06-21, 12:45:20](https://news.ycombinator.com/item?id=31823194) - [PostScript Cartridge Plus for HP LaserJet III](https://www.pagetable.com/?p=1673)
 * [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 * [2022-06-19, 06:41:09](https://news.ycombinator.com/item?id=31796780) - [Virtual Correspondence](https://virtual-correspondence.github.io/)
 
