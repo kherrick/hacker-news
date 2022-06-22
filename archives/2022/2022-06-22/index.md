@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 07:43:10](https://news.ycombinator.com/item?id=31833101) - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
 * [2022-06-22, 07:01:08](https://news.ycombinator.com/item?id=31832846) - [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
 * [2022-06-22, 06:12:51](https://news.ycombinator.com/item?id=31832588) - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 * [2022-06-22, 04:44:51](https://news.ycombinator.com/item?id=31832115) - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)

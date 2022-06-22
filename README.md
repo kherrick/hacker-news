@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-22, 07:43:10](https://news.ycombinator.com/item?id=31833101) - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
 * [2022-06-22, 07:01:08](https://news.ycombinator.com/item?id=31832846) - [Arguments for a Potato Only Diet](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
 * [2022-06-22, 06:12:51](https://news.ycombinator.com/item?id=31832588) - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 * [2022-06-22, 04:44:51](https://news.ycombinator.com/item?id=31832115) - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
@@ -26,7 +27,6 @@
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [An experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:23:21](https://news.ycombinator.com/item?id=31825742) - [GitHub Copilot is generally available](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 * [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://news.ycombinator.com/item?id=31825473)
-* [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
 * [2022-06-21, 01:59:40](https://news.ycombinator.com/item?id=31818911) - [Function Dispatch Tables in C (2019)](https://blog.alicegoldfuss.com/function-dispatch-tables/)
 * [2022-06-20, 08:37:57](https://news.ycombinator.com/item?id=31807798) - [You can't argue with a zombie (1995)](http://www.jaronlanier.com/zombie.html)
