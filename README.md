@@ -2,6 +2,7 @@
 
 * [2022-06-22, 01:38:57](https://news.ycombinator.com/item?id=31831115) - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
 * [2022-06-22, 00:58:47](https://news.ycombinator.com/item?id=31830867) - [Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
+* [2022-06-22, 00:46:34](https://news.ycombinator.com/item?id=31830788) - [TerraUSD crash led to vanished savings, shattered dreams](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201)
 * [2022-06-22, 00:28:41](https://news.ycombinator.com/item?id=31830676) - [Effective Shell](https://effective-shell.com/)
 * [2022-06-21, 22:55:16](https://news.ycombinator.com/item?id=31830046) - [OBS – Open Broadcaster Software](https://obsproject.com/)
 * [2022-06-21, 22:51:51](https://news.ycombinator.com/item?id=31830020) - [Experimenting with Rust in Chromium](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md)
@@ -22,12 +23,11 @@
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [An experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
 * [2022-06-21, 16:23:21](https://news.ycombinator.com/item?id=31825742) - [GitHub Copilot is generally available](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 * [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://news.ycombinator.com/item?id=31825473)
-* [2022-06-21, 15:38:57](https://news.ycombinator.com/item?id=31825177) - [Artistic Radiance Fields](https://www.cs.cornell.edu/projects/arf/)
 * [2022-06-21, 15:14:02](https://news.ycombinator.com/item?id=31824877) - [Show HN: Avo – Build Ruby on Rails apps faster](https://avohq.io/)
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
-* [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 10:15:04](https://news.ycombinator.com/item?id=31822256) - [For natural theologians, proving God was beside the point](https://aeon.co/essays/for-natural-theologians-proving-god-was-beside-the-point)
 * [2022-06-21, 06:39:01](https://news.ycombinator.com/item?id=31820654) - [One of the ML mistakes that will hurt most: not collecting the right features](https://twitter.com/fchollet/status/1539019133282447360)
+* [2022-06-21, 05:46:03](https://news.ycombinator.com/item?id=31820332) - [Ask HN: What do you do to receive honest feedback for your products?](https://news.ycombinator.com/item?id=31820332)
 * [2022-06-21, 02:10:35](https://news.ycombinator.com/item?id=31818978) - [The Internet origin story you know is wrong](https://www.wired.com/story/internet-origin-story-bbs/)
 * [2022-06-20, 08:37:57](https://news.ycombinator.com/item?id=31807798) - [You can't argue with a zombie (1995)](http://www.jaronlanier.com/zombie.html)
 
