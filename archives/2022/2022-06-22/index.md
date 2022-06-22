@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 12:54:30](https://news.ycombinator.com/item?id=31835425) - [Ask HN: Why are online training classes divided into small chunks?](https://news.ycombinator.com/item?id=31835425)
 * [2022-06-22, 12:00:59](https://news.ycombinator.com/item?id=31834904) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-22, 12:00:25](https://news.ycombinator.com/item?id=31834895) - [Ask HN: Has anyone of you made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
+* [2022-06-22, 11:02:39](https://news.ycombinator.com/item?id=31834387) - [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
 * [2022-06-22, 10:09:21](https://news.ycombinator.com/item?id=31833956) - [California Is Poised to Ban Prostitution-Related Loitering Arrests](https://www.lamag.com/citythinkblog/california-is-poised-to-ban-prostitution-related-loitering-arrests/)
+* [2022-06-22, 10:02:07](https://news.ycombinator.com/item?id=31833904) - [Latest Busy Beaver champion has too many digits to count](https://www.sligocki.com//2022/06/21/bb-6-2-t15.html)
 * [2022-06-22, 09:59:29](https://news.ycombinator.com/item?id=31833891) - [iPhone 3G frame by Grid review](https://giuliomagnifico.blog/misc/2022/06/18/iphone3g-frame-by-grid.html)
 * [2022-06-22, 09:17:32](https://news.ycombinator.com/item?id=31833632) - [One-night stands will be illegal at the 2022 World Cup in Qatar](https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html)
 * [2022-06-22, 09:04:11](https://news.ycombinator.com/item?id=31833561) - [What will a Chromium-only Web look like?](https://www.mnot.net/blog/2022/06/22/chromium-only)
