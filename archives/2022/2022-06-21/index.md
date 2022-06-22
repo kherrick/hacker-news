@@ -31,6 +31,7 @@
 * [2022-06-21, 16:22:28](https://news.ycombinator.com/item?id=31825733) - [Amazon drones are coming to town. Some locals want to shoot them](https://www.adn.com/nation-world/2022/06/21/amazon-drones-are-coming-to-town-some-locals-want-to-shoot-them/)
 * [2022-06-21, 16:17:20](https://news.ycombinator.com/item?id=31825676) - [How to Build a Notion Clone with Strapi v4 and Next.js (Part 1 of 2)](https://strapi.io/blog/how-to-build-a-notion-clone-with-strapi-v4-and-next-js-part-1-of-2)
 * [2022-06-21, 16:15:43](https://news.ycombinator.com/item?id=31825661) - [GitHub Copilot for individuals available without waitlist, with free trial](https://github.com/features/copilot)
+* [2022-06-21, 16:14:34](https://news.ycombinator.com/item?id=31825646) - [Memory Safety in a Modern System Programming Language Pt. 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 * [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://news.ycombinator.com/item?id=31825473)
 * [2022-06-21, 16:00:26](https://news.ycombinator.com/item?id=31825473) - [Launch HN: Dioptra (YC W22) – Improve ML models by improving their training data](https://dioptra.ai/)
 * [2022-06-21, 15:56:51](https://news.ycombinator.com/item?id=31825415) - [The Journey of Three African Wild Dogs](https://www.nytimes.com/2022/06/20/science/african-wild-dogs-zambia.html)

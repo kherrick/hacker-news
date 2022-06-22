@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 15:38:32](https://news.ycombinator.com/item?id=31837460) - [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
+* [2022-06-22, 15:15:48](https://news.ycombinator.com/item?id=31837138) - [The Definition of Knowledge and Its Management](https://help.flomo.app/mindset/the-definition-of-knowledge-and-its-management)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
