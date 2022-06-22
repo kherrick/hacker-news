@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 09:59:29](https://news.ycombinator.com/item?id=31833891) - [iPhone 3G frame by Grid review](https://giuliomagnifico.blog/misc/2022/06/18/iphone3g-frame-by-grid.html)
 * [2022-06-22, 09:17:32](https://news.ycombinator.com/item?id=31833632) - [One-night stands will be illegal at the 2022 World Cup in Qatar](https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html)
 * [2022-06-22, 09:04:11](https://news.ycombinator.com/item?id=31833561) - [What will a Chromium-only Web look like?](https://www.mnot.net/blog/2022/06/22/chromium-only)
 * [2022-06-22, 08:38:17](https://news.ycombinator.com/item?id=31833415) - [Show HN: I built a fun video meeting app with 2D physics and proximity chat](https://flat.social)
 * [2022-06-22, 08:33:59](https://news.ycombinator.com/item?id=31833394) - [Data engineering trends and tools map 2022](https://lakefs.io/the-state-of-data-engineering-2022/)
 * [2022-06-22, 08:18:56](https://news.ycombinator.com/item?id=31833316) - [Bitcoin Is a Hideous Monstrosity Made Out of Computers and Greed](https://medium.com/@michelcryptdamus/cryptocurrency-is-a-hideous-monstrosity-made-out-of-computers-and-greed-that-must-be-destroyed-99c26a1bbbaf)
+* [2022-06-22, 08:18:42](https://news.ycombinator.com/item?id=31833312) - [Fear and Loathing in FreeBSD](https://qorg11.net/tech_posts/freebsd_as_desktop.html)
 * [2022-06-22, 07:46:11](https://news.ycombinator.com/item?id=31833116) - [Airbnb's new $10m 'OMG Fund'](https://www.airbnb.com/d/omgfund)
 * [2022-06-22, 07:43:10](https://news.ycombinator.com/item?id=31833101) - [Straight.el: next-gen, purely functional package manager for the Emacs hacker](https://github.com/radian-software/straight.el)
 * [2022-06-22, 07:31:04](https://news.ycombinator.com/item?id=31833026) - [Schluss. Basta. Stop. Take back control of your own information](https://schluss.org/roadmap/)
