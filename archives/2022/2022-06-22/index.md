@@ -1,0 +1,9 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-06-22](index.md)
+
+* [2022-06-22, 01:38:57](https://news.ycombinator.com/item?id=31831115) - [Alphabet is spending billions to become a force in health care](https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care)
+* [2022-06-22, 00:58:47](https://news.ycombinator.com/item?id=31830867) - [Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)](https://www.tabnine.com/blog/announcing-tabnine-next-generation/)
+* [2022-06-22, 00:28:41](https://news.ycombinator.com/item?id=31830676) - [Effective Shell](https://effective-shell.com/)

@@ -72,6 +72,7 @@
 * [2022-06-20, 08:49:32](https://news.ycombinator.com/item?id=31807879) - [C Xor C++ Programming](https://docs.google.com/document/d/16B36r0HksR0LqQAGLA1syYCtZvYaVC0hEF2D00ZAd0o/mobilebasic)
 * [2022-06-20, 08:49:15](https://news.ycombinator.com/item?id=31807877) - [A Data-Centric Introduction to Computing (Free Book)](https://dcic-world.org/)
 * [2022-06-20, 08:39:41](https://news.ycombinator.com/item?id=31807809) - [Writing for Distributed Teams (2021)](https://vickiboykis.com/2021/07/17/writing-for-distributed-teams/)
+* [2022-06-20, 08:37:57](https://news.ycombinator.com/item?id=31807798) - [You can't argue with a zombie (1995)](http://www.jaronlanier.com/zombie.html)
 * [2022-06-20, 08:35:34](https://news.ycombinator.com/item?id=31807783) - [Facebook Says Apple Is Too Powerful – They're Right?](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
 * [2022-06-20, 07:51:49](https://news.ycombinator.com/item?id=31807438) - [Top Digital Calipers for Machinists (2021)](https://www.practicalmachinist.com/inspection-and-measurement/top-5-digital-calipers-for-machinists/)
 * [2022-06-20, 07:30:30](https://news.ycombinator.com/item?id=31807304) - [Pentaform launches AbacusBasic, the ‘world’s most affordable PC’](https://techcrunch.com/2022/06/18/pentaform-abacusbasic/)
