@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-22, 13:39:04",
+      "https://news.ycombinator.com/item?id=31835851"
+    ],
+    [
+      "Blackbird: A reference architecture for local-first connected mobile apps",
+      "https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 13:38:08",
+      "https://news.ycombinator.com/item?id=31835843"
+    ],
+    [
+      "FDA to Order Juul E-Cigarettes off U.S. Market",
+      "https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 13:36:09",
       "https://news.ycombinator.com/item?id=31835818"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-06-22, 06:12:51",
-      "https://news.ycombinator.com/item?id=31832588"
-    ],
-    [
-      "Clang Static Analyzer and the Z3 constraint solver",
-      "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 04:44:51",
       "https://news.ycombinator.com/item?id=31832115"
     ],
@@ -167,26 +177,6 @@
     [
       "Samsung expected to announce mass production of 3nm chip next week",
       "https://en.yna.co.kr/view/AEN20220622002900320"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 03:12:22",
-      "https://news.ycombinator.com/item?id=31831623"
-    ],
-    [
-      "Convex vs. Firebase",
-      "https://docs.convex.dev/understanding/convex-vs-firebase"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 01:38:57",
-      "https://news.ycombinator.com/item?id=31831115"
-    ],
-    [
-      "Alphabet is spending billions to become a force in health care",
-      "https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "“True” Damascus steel is not a “lost art”",
       "https://www.reddit.com/r/history/comments/vdvtrh/a_widely_believed_history_myth_no_true_damascus/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 11:30:14",
+      "https://news.ycombinator.com/item?id=31822683"
+    ],
+    [
+      "Don’t Mock What You Don’t Own",
+      "https://hynek.me/articles/what-to-mock-in-5-mins/"
     ]
   ],
   [
