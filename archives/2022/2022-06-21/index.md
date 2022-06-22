@@ -80,6 +80,7 @@
 * [2022-06-21, 03:34:25](https://news.ycombinator.com/item?id=31819551) - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
 * [2022-06-21, 03:22:04](https://news.ycombinator.com/item?id=31819489) - [Neuroscientists create maps of the brain after traumatic brain injury](https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp)
 * [2022-06-21, 03:15:09](https://news.ycombinator.com/item?id=31819434) - [Apple's Feedback Mechanism Is Broken](https://www.caseyliss.com/2022/6/20/feedback-is-broken-stop-trying-to-make-radar-happen)
+* [2022-06-21, 02:53:40](https://news.ycombinator.com/item?id=31819299) - [Artificial Intelligence in the Field of Economics](https://link.springer.com/article/10.1007/s11192-022-04294-w)
 * [2022-06-21, 02:52:45](https://news.ycombinator.com/item?id=31819286) - [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
 * [2022-06-21, 02:10:35](https://news.ycombinator.com/item?id=31818978) - [The Internet origin story you know is wrong](https://www.wired.com/story/internet-origin-story-bbs/)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
