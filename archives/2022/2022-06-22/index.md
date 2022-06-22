@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
+* [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
+* [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
 * [2022-06-22, 14:38:06](https://news.ycombinator.com/item?id=31836569) - [R.L. Stine and Ghostwriters (2012)](http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html)
 * [2022-06-22, 14:21:39](https://news.ycombinator.com/item?id=31836324) - [Chasing utopian energy: How I wasted 20 years of my life](https://briangitt.com/chasing-utopian-energy-how-i-wasted-20-years-of-my-life/)
 * [2022-06-22, 14:19:39](https://news.ycombinator.com/item?id=31836297) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
