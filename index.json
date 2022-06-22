@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-22, 14:19:39",
+      "https://news.ycombinator.com/item?id=31836297"
+    ],
+    [
+      "Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform",
+      "https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 14:19:29",
+      "https://news.ycombinator.com/item?id=31836293"
+    ],
+    [
+      "Why is Apache clinging to OpenOffice's corpse?",
+      "https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 13:39:04",
       "https://news.ycombinator.com/item?id=31835851"
     ],
@@ -37,16 +57,6 @@
     [
       "Ask HN: What are examples of common beliefs conclusively invalidated by data?",
       "https://news.ycombinator.com/item?id=31835795"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 12:00:59",
-      "https://news.ycombinator.com/item?id=31834904"
-    ],
-    [
-      "Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra",
-      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2022-06-22, 01:38:57",
+      "https://news.ycombinator.com/item?id=31831115"
+    ],
+    [
+      "Alphabet is spending billions to become a force in health care",
+      "https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 00:58:47",
       "https://news.ycombinator.com/item?id=31830867"
     ],
@@ -207,16 +227,6 @@
     [
       "OBS – Open Broadcaster Software",
       "https://obsproject.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 22:51:51",
-      "https://news.ycombinator.com/item?id=31830020"
-    ],
-    [
-      "Experimenting with Rust in Chromium",
-      "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Surprising result while transpiling C to Go",
       "https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 23:49:03",
-      "https://news.ycombinator.com/item?id=31817809"
-    ],
-    [
-      "Avoiding Escalation in Decision-Making",
-      "https://hardcoresoftware.learningbyshipping.com/p/bonus-avoiding-escalation"
     ]
   ],
   [
