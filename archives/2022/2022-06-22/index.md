@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 14:19:39](https://news.ycombinator.com/item?id=31836297) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure and Platform](https://jobs.lever.co/tesorio/dcc1de3f-e6ac-4c02-97d0-78138c8138a5)
+* [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice's corpse?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:39:04](https://news.ycombinator.com/item?id=31835851) - [Blackbird: A reference architecture for local-first connected mobile apps](https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html)
 * [2022-06-22, 13:38:08](https://news.ycombinator.com/item?id=31835843) - [FDA to Order Juul E-Cigarettes off U.S. Market](https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
