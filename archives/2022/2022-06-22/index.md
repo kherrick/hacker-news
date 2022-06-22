@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 19:34:15](https://news.ycombinator.com/item?id=31840770) - [A subreddit dedicated to busting shoplifters](https://www.inputmag.com/culture/loss-prevention-theft-shoplifting-security-subreddit)
+* [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
 * [2022-06-22, 18:31:33](https://news.ycombinator.com/item?id=31839936) - [Docker containers still exposed by default even if bound to 127.0.0.1 (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
 * [2022-06-22, 18:27:19](https://news.ycombinator.com/item?id=31839885) - [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
