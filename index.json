@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-22, 19:34:15",
+      "https://news.ycombinator.com/item?id=31840770"
+    ],
+    [
+      "A subreddit dedicated to busting shoplifters",
+      "https://www.inputmag.com/culture/loss-prevention-theft-shoplifting-security-subreddit"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 19:00:18",
+      "https://news.ycombinator.com/item?id=31840331"
+    ],
+    [
+      "The Grug Brained Developer",
+      "https://grugbrain.dev/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 18:36:38",
       "https://news.ycombinator.com/item?id=31839992"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31839936"
     ],
     [
-      "Docker containers still exposed by default even if bound to 127.0.0.1 (2021)",
+      "Permissive forwarding rule leads to unintentional exposure of containers (2021)",
       "https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Understanding the science behind the neon shortage",
       "https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 18:23:12",
-      "https://news.ycombinator.com/item?id=31839846"
-    ],
-    [
-      "Ohio State University secures trademark for use of the word 'THE' on clothing",
-      "https://www.dispatch.com/story/news/local/2022/06/22/ohio-state-secures-trademark-word-the-clothing/7699879001/"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=31837460"
     ],
     [
-      "The End of the World Is Just Beginning for Shipping",
+      "The end of the world is just beginning for shipping",
       "https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/"
     ]
   ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2022-06-22, 14:38:06",
+      "https://news.ycombinator.com/item?id=31836569"
+    ],
+    [
+      "R.L. Stine and Ghostwriters (2012)",
+      "http://www.kathryns-inbox.com/2012/06/rl-stine-and-ghostwriters.html"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 14:19:29",
       "https://news.ycombinator.com/item?id=31836293"
     ],
@@ -227,16 +247,6 @@
     [
       "10mbps over 1km on a single pair of wires",
       "https://botblox.io/products/speblox-long"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 02:55:27",
-      "https://news.ycombinator.com/item?id=31831532"
-    ],
-    [
-      "Agnes Giberne's the Story of the Sun, Moon, and Stars (1898)",
-      "https://publicdomainreview.org/collection/story-of-sun-moon-stars/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-06-21, 02:07:00",
-      "https://news.ycombinator.com/item?id=31818960"
+      "2022-06-21, 04:51:24",
+      "https://news.ycombinator.com/item?id=31820016"
     ],
     [
-      "Surprising result while transpiling C to Go",
-      "https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 23:38:36",
-      "https://news.ycombinator.com/item?id=31817716"
-    ],
-    [
-      "How to Share a Secret [pdf] (1979)",
-      "https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf"
+      "Modern HDDs have gotten somewhat better",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter"
     ]
   ],
   [
