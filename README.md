@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut](https://www.exploratorium.edu/files/exhibits/ladle/)
 * [2022-06-22, 20:39:41](https://news.ycombinator.com/item?id=31841584) - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
@@ -21,7 +22,6 @@
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
-* [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
 * [2022-06-22, 08:03:21](https://news.ycombinator.com/item?id=31833218) - [Writing a Multilingual Book in Markdown](https://www.dampfkraft.com/code/multilingual-markdown.html)
