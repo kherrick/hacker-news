@@ -2,6 +2,7 @@
 
 * [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
 * [2022-06-22, 18:31:33](https://news.ycombinator.com/item?id=31839936) - [Docker containers still exposed by default even if bound to 127.0.0.1 (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
+* [2022-06-22, 18:27:19](https://news.ycombinator.com/item?id=31839885) - [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
 * [2022-06-22, 18:23:12](https://news.ycombinator.com/item?id=31839846) - [Ohio State University secures trademark for use of the word 'THE' on clothing](https://www.dispatch.com/story/news/local/2022/06/22/ohio-state-secures-trademark-word-the-clothing/7699879001/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
@@ -21,7 +22,6 @@
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
 * [2022-06-22, 14:19:29](https://news.ycombinator.com/item?id=31836293) - [Why is Apache clinging to OpenOffice?](https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/)
-* [2022-06-22, 13:41:14](https://news.ycombinator.com/item?id=31835868) - [Fail Gardening: Low Expectations for Skillbuilding and Eventual Success](https://feastofassumption.substack.com/p/fail-gardening)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
 * [2022-06-21, 16:14:34](https://news.ycombinator.com/item?id=31825646) - [Memory Safety in a Modern System Programming Language Pt. 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)

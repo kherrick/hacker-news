@@ -6,6 +6,7 @@
 
 * [2022-06-22, 18:36:38](https://news.ycombinator.com/item?id=31839992) - [Dendron (YC W21) Is Hiring Senior Web Dev to Build a Better Tool for Thought](https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI)
 * [2022-06-22, 18:31:33](https://news.ycombinator.com/item?id=31839936) - [Docker containers still exposed by default even if bound to 127.0.0.1 (2021)](https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632)
+* [2022-06-22, 18:27:19](https://news.ycombinator.com/item?id=31839885) - [Understanding the science behind the neon shortage](https://www.advancedsciencenews.com/understanding-the-science-behind-the-neon-shortage/)
 * [2022-06-22, 18:23:12](https://news.ycombinator.com/item?id=31839846) - [Ohio State University secures trademark for use of the word 'THE' on clothing](https://www.dispatch.com/story/news/local/2022/06/22/ohio-state-secures-trademark-word-the-clothing/7699879001/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
