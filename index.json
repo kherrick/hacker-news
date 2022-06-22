@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-22, 07:01:08",
+      "https://news.ycombinator.com/item?id=31832846"
+    ],
+    [
+      "Arguments for a Potato Only Diet",
+      "https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 06:12:51",
       "https://news.ycombinator.com/item?id=31832588"
     ],
@@ -37,16 +47,6 @@
     [
       "Convex vs. Firebase",
       "https://docs.convex.dev/understanding/convex-vs-firebase"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 02:31:46",
-      "https://news.ycombinator.com/item?id=31831437"
-    ],
-    [
-      "Gemini with IPFS",
-      "https://github.com/JonStratton/geminipfs"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-06-21, 12:39:30",
-      "https://news.ycombinator.com/item?id=31823132"
-    ],
-    [
-      "Cloudflare outage on June 21, 2022",
-      "https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 02:10:35",
       "https://news.ycombinator.com/item?id=31818978"
     ],
     [
       "The Internet origin story you know is wrong",
       "https://www.wired.com/story/internet-origin-story-bbs/"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 02:07:00",
+      "https://news.ycombinator.com/item?id=31818960"
+    ],
+    [
+      "Surprising result while transpiling C to Go",
+      "https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/"
     ]
   ],
   [
