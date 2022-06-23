@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-06-23, 14:45:32",
+      "https://news.ycombinator.com/item?id=31849819"
+    ],
+    [
+      "How Imagen Works",
+      "https://www.assemblyai.com/blog/how-imagen-actually-works/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 14:44:50",
+      "https://news.ycombinator.com/item?id=31849806"
+    ],
+    [
+      "FDA removes all Juul products from US market",
+      "https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 14:43:33",
       "https://news.ycombinator.com/item?id=31849787"
     ],
     [
       "Diagram as Code",
       "https://github.com/mingrammer/diagrams"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 14:26:22",
-      "https://news.ycombinator.com/item?id=31849553"
-    ],
-    [
-      "As weed gets more potent, teens are getting sick",
-      "https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html"
     ]
   ],
   [
@@ -55,18 +65,18 @@
       "https://news.ycombinator.com/item?id=31849464"
     ],
     [
-      "Sleeping longer can help lose weight if you are sleeping less than 6.5h/day",
+      "Sleeping longer than 6.5 hours/day can help you lose weight: study",
       "https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/"
     ]
   ],
   [
     [
-      "2022-06-23, 14:11:20",
-      "https://news.ycombinator.com/item?id=31849375"
+      "2022-06-23, 13:54:36",
+      "https://news.ycombinator.com/item?id=31849150"
     ],
     [
-      "SpaceX asserts 5G would ‘blow out’ satellite users in 12 GHz band",
-      "https://www.fiercewireless.com/5g/spacex-asserts-5g-would-blow-out-satellite-users-12-ghz-band"
+      "Think twice before founding that free-market utopia",
+      "https://news.cornell.edu/stories/2022/06/think-twice-founding-free-market-utopia"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Stockfish vs. ChessBase for GPLv3 violation: court hearing soon",
       "https://stockfishchess.org/blog/2022/public-court-hearing-soon/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 12:12:36",
-      "https://news.ycombinator.com/item?id=31847931"
-    ],
-    [
-      "Should GitHub Be Sued for Training Copilot on GPL Code?",
-      "https://fosspost.org/github-copilot/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-06-23, 06:01:51",
-      "https://news.ycombinator.com/item?id=31845654"
-    ],
-    [
-      "A brief history of one line fixes (2014)",
-      "https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 02:22:26",
       "https://news.ycombinator.com/item?id=31844479"
     ],
@@ -267,6 +257,16 @@
     [
       "GNU recutils – human readable, plain text databases",
       "https://www.gnu.org/software/recutils/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 05:26:21",
+      "https://news.ycombinator.com/item?id=31832362"
+    ],
+    [
+      "Observations on 6 Years of Journaling",
+      "https://herman.bearblog.dev/years-of-journaling/"
     ]
   ],
   [
