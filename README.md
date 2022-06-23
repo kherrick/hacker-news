@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
 * [2022-06-23, 17:34:04](https://news.ycombinator.com/item?id=31852480) - [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
@@ -26,7 +27,6 @@
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [YaLM-100B: Pretrained language model with 100B parameters](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
-* [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
 * [2022-06-22, 05:26:21](https://news.ycombinator.com/item?id=31832362) - [Observations on 6 Years of Journaling](https://herman.bearblog.dev/years-of-journaling/)
 * [2022-06-21, 09:38:30](https://news.ycombinator.com/item?id=31822063) - [Mystery still surrounds what happened to the bodies of Waterloo militaries](https://www.gla.ac.uk/news/headline_854908_en.html)
