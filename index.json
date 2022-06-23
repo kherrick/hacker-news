@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-06-23, 15:40:48",
+      "https://news.ycombinator.com/item?id=31850674"
+    ],
+    [
+      "The Case for a Confederal Europe",
+      "https://ecfr.eu/article/the-case-for-a-confederal-europe/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 15:34:17",
+      "https://news.ycombinator.com/item?id=31850573"
+    ],
+    [
+      "Julia ranks in the top 5 most loved programming languages for 2022",
+      "https://logankilpatrick.medium.com/breaking-julia-ranks-in-the-top-5-most-loved-programming-languages-for-2022-6cb7740240e1"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 15:25:37",
       "https://news.ycombinator.com/item?id=31850439"
     ],
     [
       "Launch HN: Foster (YC W21) – Improve your writing with on-demand editing",
       "https://www.foster.co/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 15:19:41",
+      "https://news.ycombinator.com/item?id=31850347"
+    ],
+    [
+      "How Safe Is Zig?",
+      "https://www.scattered-thoughts.net/writing/how-safe-is-zig/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Diagram as Code",
       "https://github.com/mingrammer/diagrams"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 14:26:22",
+      "https://news.ycombinator.com/item?id=31849553"
+    ],
+    [
+      "As weed gets more potent, teens are getting sick",
+      "https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html"
     ]
   ],
   [
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31849468"
     ],
     [
-      "How We Built Hydrogen: A React Framework for Building Custom Storefronts",
+      "How we built Hydrogen, a React framework for building custom storefronts",
       "https://shopify.engineering/how-we-built-hydrogen"
     ]
   ],
@@ -71,12 +111,12 @@
   ],
   [
     [
-      "2022-06-23, 13:54:36",
-      "https://news.ycombinator.com/item?id=31849150"
+      "2022-06-23, 14:07:26",
+      "https://news.ycombinator.com/item?id=31849320"
     ],
     [
-      "Think twice before founding that free-market utopia",
-      "https://news.cornell.edu/stories/2022/06/think-twice-founding-free-market-utopia"
+      "Ruby 3 adds Scheduler Interface for Fibers",
+      "https://blog.kiprosh.com/ruby-fiber-schedular/"
     ]
   ],
   [
@@ -107,6 +147,16 @@
     [
       "Investigating the effects of bike lanes in Minneapolis",
       "https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 12:40:54",
+      "https://news.ycombinator.com/item?id=31848210"
+    ],
+    [
+      "Ask HN: Does anybody still use bookmarking services?",
+      "https://news.ycombinator.com/item?id=31848210"
     ]
   ],
   [
@@ -155,28 +205,18 @@
       "https://news.ycombinator.com/item?id=31846593"
     ],
     [
-      "Yandex opensources 100B parameter GPT-like model",
+      "YaLM-100B: Pretrained language model with 100B parameters",
       "https://github.com/yandex/YaLM-100B"
     ]
   ],
   [
     [
-      "2022-06-23, 07:00:09",
-      "https://news.ycombinator.com/item?id=31845968"
+      "2022-06-23, 08:48:46",
+      "https://news.ycombinator.com/item?id=31846543"
     ],
     [
-      "New Tolkien book: The Fall of Númenor to be published",
-      "https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 06:43:47",
-      "https://news.ycombinator.com/item?id=31845868"
-    ],
-    [
-      "Cancer cells wake up when people sleep",
-      "https://www.nature.com/articles/d41586-022-01724-w"
+      "Copilot sells code other people wrote",
+      "https://twitter.com/ReinH/status/1539626662274269185"
     ]
   ],
   [
@@ -197,26 +237,6 @@
     [
       "Minikube now supports rootless podman driver for running Kubernetes",
       "https://github.com/kubernetes/minikube/pull/13829"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 06:01:51",
-      "https://news.ycombinator.com/item?id=31845654"
-    ],
-    [
-      "A brief history of one line fixes (2014)",
-      "https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 02:22:26",
-      "https://news.ycombinator.com/item?id=31844479"
-    ],
-    [
-      "Random Ultima Online anecdote #2 – Horses inside players (2014)",
-      "https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/"
     ]
   ],
   [
@@ -251,12 +271,12 @@
   ],
   [
     [
-      "2022-06-22, 06:03:47",
-      "https://news.ycombinator.com/item?id=31832564"
+      "2022-06-22, 11:06:47",
+      "https://news.ycombinator.com/item?id=31834418"
     ],
     [
-      "GNU recutils – human readable, plain text databases",
-      "https://www.gnu.org/software/recutils/"
+      "State Machines in Ruby: An Introduction",
+      "https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Mystery still surrounds what happened to the bodies of Waterloo militaries",
       "https://www.gla.ac.uk/news/headline_854908_en.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 05:17:35",
-      "https://news.ycombinator.com/item?id=31820168"
-    ],
-    [
-      "“Harbinger households” consistently buy products that get discontinued (2019)",
-      "https://boingboing.net/2019/12/03/harbringer-of-doom.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 06:38:09",
-      "https://news.ycombinator.com/item?id=31807021"
-    ],
-    [
-      "Diagram as Code 2.0 [video]",
-      "https://www.youtube.com/watch?v=Za1-v4Zkq5E"
     ]
   ]
 ]
