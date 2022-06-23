@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-06-23, 14:44:50",
-      "https://news.ycombinator.com/item?id=31849806"
-    ],
-    [
-      "FDA removes all Juul products from US market",
-      "https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 14:43:33",
       "https://news.ycombinator.com/item?id=31849787"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31849488"
     ],
     [
-      "Target: Hardening the Registers",
+      "Hardening the registers: A cascading failure of edge induced fault tolerance",
       "https://tech.target.com/blog/hardening-the-registers"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31848253"
     ],
     [
-      "Minneapolis built 76 miles of bike lanes, cycling increased 69%",
+      "Investigating the effects of bike lanes in Minneapolis",
       "https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31847416"
     ],
     [
-      "Dolt Is Git for Data",
+      "Dolt is Git for Data",
       "https://github.com/dolthub/dolt"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Minikube now supports rootless podman driver for running Kubernetes",
       "https://github.com/kubernetes/minikube/pull/13829"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 06:01:51",
+      "https://news.ycombinator.com/item?id=31845654"
+    ],
+    [
+      "A brief history of one line fixes (2014)",
+      "https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes"
     ]
   ],
   [
