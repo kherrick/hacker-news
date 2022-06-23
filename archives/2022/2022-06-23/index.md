@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 15:40:48](https://news.ycombinator.com/item?id=31850674) - [The Case for a Confederal Europe](https://ecfr.eu/article/the-case-for-a-confederal-europe/)
+* [2022-06-23, 15:34:17](https://news.ycombinator.com/item?id=31850573) - [Julia ranks in the top 5 most loved programming languages for 2022](https://logankilpatrick.medium.com/breaking-julia-ranks-in-the-top-5-most-loved-programming-languages-for-2022-6cb7740240e1)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
+* [2022-06-23, 15:19:41](https://news.ycombinator.com/item?id=31850347) - [How Safe Is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-06-23, 14:45:32](https://news.ycombinator.com/item?id=31849819) - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
 * [2022-06-23, 14:44:50](https://news.ycombinator.com/item?id=31849806) - [FDA removes all Juul products from US market](https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products)
 * [2022-06-23, 14:43:33](https://news.ycombinator.com/item?id=31849787) - [Diagram as Code](https://github.com/mingrammer/diagrams)
@@ -14,6 +17,7 @@
 * [2022-06-23, 14:18:13](https://news.ycombinator.com/item?id=31849468) - [How We Built Hydrogen: A React Framework for Building Custom Storefronts](https://shopify.engineering/how-we-built-hydrogen)
 * [2022-06-23, 14:17:59](https://news.ycombinator.com/item?id=31849464) - [Sleeping longer can help lose weight if you are sleeping less than 6.5h/day](https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/)
 * [2022-06-23, 14:11:20](https://news.ycombinator.com/item?id=31849375) - [SpaceX asserts 5G would ‘blow out’ satellite users in 12 GHz band](https://www.fiercewireless.com/5g/spacex-asserts-5g-would-blow-out-satellite-users-12-ghz-band)
+* [2022-06-23, 14:07:26](https://news.ycombinator.com/item?id=31849320) - [Ruby 3 adds Scheduler Interface for Fibers](https://blog.kiprosh.com/ruby-fiber-schedular/)
 * [2022-06-23, 13:54:36](https://news.ycombinator.com/item?id=31849150) - [Think twice before founding that free-market utopia](https://news.cornell.edu/stories/2022/06/think-twice-founding-free-market-utopia)
 * [2022-06-23, 13:48:44](https://news.ycombinator.com/item?id=31849082) - [Detention of Mark Bernstein](https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein)
 * [2022-06-23, 13:12:30](https://news.ycombinator.com/item?id=31848594) - [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)

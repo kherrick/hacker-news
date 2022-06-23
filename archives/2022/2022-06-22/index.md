@@ -54,6 +54,7 @@
 * [2022-06-22, 11:33:46](https://news.ycombinator.com/item?id=31834627) - [A lightning bolt would be worth only about a nickel](https://engineering.mit.edu/engage/ask-an-engineer/is-there-a-way-to-harness-electricity-from-lightning/)
 * [2022-06-22, 11:24:35](https://news.ycombinator.com/item?id=31834557) - [Corpse Flower Bloom](https://www.huntington.org/corpse-flower)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
+* [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
 * [2022-06-22, 11:06:01](https://news.ycombinator.com/item?id=31834411) - [Even your boss wants to quit](https://www.axios.com/2022/06/22/ceo-csuite-burnout-pandemic-great-resignation)
 * [2022-06-22, 11:05:47](https://news.ycombinator.com/item?id=31834408) - [The Go netpoller (2013)](https://morsmachine.dk/netpoller)
 * [2022-06-22, 11:02:39](https://news.ycombinator.com/item?id=31834387) - [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
