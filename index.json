@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-23, 22:10:24",
+      "https://news.ycombinator.com/item?id=31855732"
+    ],
+    [
+      "Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to",
+      "https://www.nerdcrawler.com/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 21:26:41",
       "https://news.ycombinator.com/item?id=31855357"
     ],
@@ -177,16 +187,6 @@
     [
       "Hardening the registers: A cascading failure of edge induced fault tolerance",
       "https://tech.target.com/blog/hardening-the-registers"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 14:19:19",
-      "https://news.ycombinator.com/item?id=31849482"
-    ],
-    [
-      "Custom SQL functions for data analytics in PostgreSQL",
-      "https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/"
     ]
   ],
   [
