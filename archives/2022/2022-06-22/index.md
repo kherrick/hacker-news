@@ -51,6 +51,7 @@
 * [2022-06-22, 12:00:25](https://news.ycombinator.com/item?id=31834895) - [Ask HN: Has anyone of you made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)
 * [2022-06-22, 11:06:01](https://news.ycombinator.com/item?id=31834411) - [Even your boss wants to quit](https://www.axios.com/2022/06/22/ceo-csuite-burnout-pandemic-great-resignation)
+* [2022-06-22, 11:05:47](https://news.ycombinator.com/item?id=31834408) - [The Go netpoller (2013)](https://morsmachine.dk/netpoller)
 * [2022-06-22, 11:02:39](https://news.ycombinator.com/item?id=31834387) - [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
 * [2022-06-22, 10:09:21](https://news.ycombinator.com/item?id=31833956) - [California Is Poised to Ban Prostitution-Related Loitering Arrests](https://www.lamag.com/citythinkblog/california-is-poised-to-ban-prostitution-related-loitering-arrests/)
 * [2022-06-22, 10:02:07](https://news.ycombinator.com/item?id=31833904) - [Latest Busy Beaver champion has too many digits to count](https://www.sligocki.com//2022/06/21/bb-6-2-t15.html)
