@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 * [2022-06-23, 17:26:03](https://news.ycombinator.com/item?id=31852369) - [Contactless Silent Speech Recognition Using IR-UWB Radar](https://pubmed.ncbi.nlm.nih.gov/27801867/)
 * [2022-06-23, 17:25:09](https://news.ycombinator.com/item?id=31852352) - [LinkedDataHub: The Knowledge Graph Notebook](https://github.com/AtomGraph/LinkedDataHub)
