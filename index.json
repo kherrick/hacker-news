@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-23, 09:00:26",
+      "https://news.ycombinator.com/item?id=31846593"
+    ],
+    [
+      "Yandex opensources 100B parameter GPT-like model",
+      "https://github.com/yandex/YaLM-100B"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 08:48:46",
       "https://news.ycombinator.com/item?id=31846543"
     ],
     [
       "Copilot just sells code other people wrote",
       "https://twitter.com/ReinH/status/1539626662274269185"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 08:46:04",
+      "https://news.ycombinator.com/item?id=31846529"
+    ],
+    [
+      "Vaccine-derived poliovirus type 2 detected in London, UK",
+      "https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-06-22, 19:19:55",
-      "https://news.ycombinator.com/item?id=31840587"
-    ],
-    [
-      "The Evolution of THC Vape Cartridges",
-      "https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 19:00:18",
       "https://news.ycombinator.com/item?id=31840331"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-06-22, 16:21:42",
-      "https://news.ycombinator.com/item?id=31838049"
-    ],
-    [
-      "Twitter Notes",
-      "https://twitter.com/TwitterWrite/status/1539640956915290112"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 15:14:32",
       "https://news.ycombinator.com/item?id=31837115"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2022-06-22, 12:18:27",
-      "https://news.ycombinator.com/item?id=31835060"
-    ],
-    [
-      "Transition from Switch Will Be 'Significant Challenge,' Ex-Nintendo Head Says",
-      "https://www.cnet.com/tech/gaming/reggie-fils-aime-on-nintendos-past-and-video-gamings-future/"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 07:20:26",
       "https://news.ycombinator.com/item?id=31832953"
     ],
     [
       "The mites in the skin of our faces",
       "https://phys.org/news/2022-06-secret-mites-skin.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 06:03:47",
+      "https://news.ycombinator.com/item?id=31832564"
+    ],
+    [
+      "GNU recutils – human readable, plain text databases",
+      "https://www.gnu.org/software/recutils/"
     ]
   ],
   [
