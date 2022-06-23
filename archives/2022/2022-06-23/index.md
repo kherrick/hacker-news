@@ -53,6 +53,7 @@
 * [2022-06-23, 07:52:51](https://news.ycombinator.com/item?id=31846237) - [The Neil story (with additional footnote)](https://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 07:00:09](https://news.ycombinator.com/item?id=31845968) - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
+* [2022-06-23, 06:47:39](https://news.ycombinator.com/item?id=31845898) - [Timeline of “foundational” advances in homotopy theory?](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory)
 * [2022-06-23, 06:43:47](https://news.ycombinator.com/item?id=31845868) - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
