@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-23, 02:22:26",
+      "https://news.ycombinator.com/item?id=31844479"
+    ],
+    [
+      "Random Ultima Online anecdote #2 – Horses inside players (2014)",
+      "https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 02:11:23",
+      "https://news.ycombinator.com/item?id=31844406"
+    ],
+    [
+      "U.S. plans trial of early detection blood tests for multiple cancers",
+      "https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 01:12:06",
       "https://news.ycombinator.com/item?id=31843996"
     ],
@@ -37,16 +57,6 @@
     [
       "Code vs. No-code",
       "https://jasonmorrissc.github.io/post/2022-02-24_no-code/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 23:41:52",
-      "https://news.ycombinator.com/item?id=31843344"
-    ],
-    [
-      "Sometimes users prefer the less straightforward UX",
-      "https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "The Grug Brained Developer",
       "https://grugbrain.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 18:31:33",
-      "https://news.ycombinator.com/item?id=31839936"
-    ],
-    [
-      "Permissive forwarding rule leads to unintentional exposure of containers (2021)",
-      "https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-06-22, 11:21:03",
-      "https://news.ycombinator.com/item?id=31834532"
+      "2022-06-22, 11:05:47",
+      "https://news.ycombinator.com/item?id=31834408"
     ],
     [
-      "10mbps over 1km on a single pair of wires",
-      "https://botblox.io/products/speblox-long"
+      "The Go netpoller (2013)",
+      "https://morsmachine.dk/netpoller"
     ]
   ],
   [
@@ -271,32 +271,32 @@
   ],
   [
     [
+      "2022-06-21, 12:06:09",
+      "https://news.ycombinator.com/item?id=31822914"
+    ],
+    [
+      "Private equity groups that buy companies they own",
+      "https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift"
+    ]
+  ],
+  [
+    [
+      "2022-06-21, 05:17:35",
+      "https://news.ycombinator.com/item?id=31820168"
+    ],
+    [
+      "“Harbinger households” consistently buy products that get discontinued (2019)",
+      "https://boingboing.net/2019/12/03/harbringer-of-doom.html"
+    ]
+  ],
+  [
+    [
       "2022-06-21, 02:53:38",
       "https://news.ycombinator.com/item?id=31819297"
     ],
     [
       "Lessons of social media from BBSs",
       "https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss"
-    ]
-  ],
-  [
-    [
-      "2022-06-20, 17:29:12",
-      "https://news.ycombinator.com/item?id=31813036"
-    ],
-    [
-      "Earth moves far under our feet: Study shows Earth’s inner core oscillates",
-      "https://news.usc.edu/200185/earth-core-oscillates/"
-    ]
-  ],
-  [
-    [
-      "2022-06-19, 06:41:09",
-      "https://news.ycombinator.com/item?id=31796780"
-    ],
-    [
-      "Virtual Correspondence",
-      "https://virtual-correspondence.github.io/"
     ]
   ]
 ]
