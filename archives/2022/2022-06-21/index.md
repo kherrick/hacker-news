@@ -96,6 +96,7 @@
 * [2022-06-21, 02:53:40](https://news.ycombinator.com/item?id=31819299) - [Artificial Intelligence in the Field of Economics](https://link.springer.com/article/10.1007/s11192-022-04294-w)
 * [2022-06-21, 02:53:38](https://news.ycombinator.com/item?id=31819297) - [Lessons of social media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
 * [2022-06-21, 02:52:45](https://news.ycombinator.com/item?id=31819286) - [Mnist Demo Compiled On-the-Fly to WebAssembly in the Browser](https://mnist-demo.glitch.me)
+* [2022-06-21, 02:23:20](https://news.ycombinator.com/item?id=31819060) - [The Economic Impact of Moore’s Law: Evidence from when it faltered (2017) [pdf]](http://www.neil-t.com/wp-content/uploads/2017/01/The_Economic_Impact_of_Moores_Law.pdf)
 * [2022-06-21, 02:10:35](https://news.ycombinator.com/item?id=31818978) - [The Internet origin story you know is wrong](https://www.wired.com/story/internet-origin-story-bbs/)
 * [2022-06-21, 02:07:00](https://news.ycombinator.com/item?id=31818960) - [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
 * [2022-06-21, 01:59:40](https://news.ycombinator.com/item?id=31818911) - [Function Dispatch Tables in C (2019)](https://blog.alicegoldfuss.com/function-dispatch-tables/)

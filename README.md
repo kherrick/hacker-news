@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 07:00:09](https://news.ycombinator.com/item?id=31845968) - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
+* [2022-06-23, 06:43:47](https://news.ycombinator.com/item?id=31845868) - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
 * [2022-06-23, 06:01:51](https://news.ycombinator.com/item?id=31845654) - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
@@ -9,7 +11,6 @@
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 * [2022-06-23, 01:12:06](https://news.ycombinator.com/item?id=31843996) - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
 * [2022-06-23, 01:03:15](https://news.ycombinator.com/item?id=31843932) - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
-* [2022-06-22, 23:46:04](https://news.ycombinator.com/item?id=31843378) - [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
 * [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
@@ -19,10 +20,8 @@
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern (2019)](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
 * [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
-* [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 12:18:27](https://news.ycombinator.com/item?id=31835060) - [Transition from Switch Will Be 'Significant Challenge,' Ex-Nintendo Head Says](https://www.cnet.com/tech/gaming/reggie-fils-aime-on-nintendos-past-and-video-gamings-future/)
-* [2022-06-22, 11:33:46](https://news.ycombinator.com/item?id=31834627) - [A lightning bolt would be worth only about a nickel](https://engineering.mit.edu/engage/ask-an-engineer/is-there-a-way-to-harness-electricity-from-lightning/)
 * [2022-06-22, 07:20:26](https://news.ycombinator.com/item?id=31832953) - [The mites in the skin of our faces](https://phys.org/news/2022-06-secret-mites-skin.html)
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 20:20:11](https://news.ycombinator.com/item?id=31828658) - [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
@@ -30,6 +29,7 @@
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
 * [2022-06-21, 05:17:35](https://news.ycombinator.com/item?id=31820168) - [“Harbinger households” consistently buy products that get discontinued (2019)](https://boingboing.net/2019/12/03/harbringer-of-doom.html)
 * [2022-06-21, 02:53:38](https://news.ycombinator.com/item?id=31819297) - [Lessons of social media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
+* [2022-06-21, 02:23:20](https://news.ycombinator.com/item?id=31819060) - [The Economic Impact of Moore’s Law: Evidence from when it faltered (2017) [pdf]](http://www.neil-t.com/wp-content/uploads/2017/01/The_Economic_Impact_of_Moores_Law.pdf)
 
 ## [Archives](archives/index.md)
 
