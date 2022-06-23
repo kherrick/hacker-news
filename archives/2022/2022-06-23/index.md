@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
 * [2022-06-23, 19:28:08](https://news.ycombinator.com/item?id=31854081) - [The Return of Industrial Warfare](https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/)
 * [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
@@ -53,6 +54,7 @@
 * [2022-06-23, 06:43:47](https://news.ycombinator.com/item?id=31845868) - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
+* [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
 * [2022-06-23, 06:01:51](https://news.ycombinator.com/item?id=31845654) - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
 * [2022-06-23, 04:34:58](https://news.ycombinator.com/item?id=31845194) - [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
