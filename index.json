@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-06-23, 18:49:20",
+      "https://news.ycombinator.com/item?id=31853546"
+    ],
+    [
+      "Six things I do every time I start a Django project",
+      "https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 18:26:33",
       "https://news.ycombinator.com/item?id=31853248"
     ],
@@ -197,16 +207,6 @@
     [
       "How we built Hydrogen, a React framework for building custom storefronts",
       "https://shopify.engineering/how-we-built-hydrogen"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 14:07:26",
-      "https://news.ycombinator.com/item?id=31849320"
-    ],
-    [
-      "Ruby 3 adds Scheduler Interface for Fibers",
-      "https://blog.kiprosh.com/ruby-fiber-schedular/"
     ]
   ],
   [
