@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 04:34:58](https://news.ycombinator.com/item?id=31845194) - [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
 * [2022-06-23, 03:07:17](https://news.ycombinator.com/item?id=31844744) - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
@@ -29,7 +30,6 @@
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
 * [2022-06-21, 05:17:35](https://news.ycombinator.com/item?id=31820168) - [“Harbinger households” consistently buy products that get discontinued (2019)](https://boingboing.net/2019/12/03/harbringer-of-doom.html)
 * [2022-06-21, 02:53:38](https://news.ycombinator.com/item?id=31819297) - [Lessons of social media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
-* [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 
 ## [Archives](archives/index.md)
 
