@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 14:45:32](https://news.ycombinator.com/item?id=31849819) - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
+* [2022-06-23, 14:44:50](https://news.ycombinator.com/item?id=31849806) - [FDA removes all Juul products from US market](https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products)
 * [2022-06-23, 14:43:33](https://news.ycombinator.com/item?id=31849787) - [Diagram as Code](https://github.com/mingrammer/diagrams)
 * [2022-06-23, 14:26:22](https://news.ycombinator.com/item?id=31849553) - [As weed gets more potent, teens are getting sick](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
 * [2022-06-23, 14:20:13](https://news.ycombinator.com/item?id=31849488) - [Target: Hardening the Registers](https://tech.target.com/blog/hardening-the-registers)
@@ -11,6 +13,7 @@
 * [2022-06-23, 14:18:13](https://news.ycombinator.com/item?id=31849468) - [How We Built Hydrogen: A React Framework for Building Custom Storefronts](https://shopify.engineering/how-we-built-hydrogen)
 * [2022-06-23, 14:17:59](https://news.ycombinator.com/item?id=31849464) - [Sleeping longer can help lose weight if you are sleeping less than 6.5h/day](https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/)
 * [2022-06-23, 14:11:20](https://news.ycombinator.com/item?id=31849375) - [SpaceX asserts 5G would ‘blow out’ satellite users in 12 GHz band](https://www.fiercewireless.com/5g/spacex-asserts-5g-would-blow-out-satellite-users-12-ghz-band)
+* [2022-06-23, 13:54:36](https://news.ycombinator.com/item?id=31849150) - [Think twice before founding that free-market utopia](https://news.cornell.edu/stories/2022/06/think-twice-founding-free-market-utopia)
 * [2022-06-23, 13:48:44](https://news.ycombinator.com/item?id=31849082) - [Detention of Mark Bernstein](https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein)
 * [2022-06-23, 13:12:30](https://news.ycombinator.com/item?id=31848594) - [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
