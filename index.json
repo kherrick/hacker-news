@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-23, 12:01:06",
+      "https://news.ycombinator.com/item?id=31847844"
+    ],
+    [
+      "MDalgorithms (YC W17) Is Hiring Chief Marketing Officer",
+      "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 11:29:03",
+      "https://news.ycombinator.com/item?id=31847594"
+    ],
+    [
+      "Incremental Builds for Haskell with Bazel",
+      "https://www.tweag.io/blog/2022-06-23-haskell-module/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 11:04:44",
       "https://news.ycombinator.com/item?id=31847416"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-06-23, 01:03:15",
-      "https://news.ycombinator.com/item?id=31843932"
-    ],
-    [
-      "Generally Intelligent (YC S17) is hiring machine learning research engineers",
-      "https://news.ycombinator.com/item?id=31843932"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 21:18:12",
       "https://news.ycombinator.com/item?id=31841982"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2022-06-22, 11:24:35",
+      "https://news.ycombinator.com/item?id=31834557"
+    ],
+    [
+      "Corpse Flower Bloom",
+      "https://www.huntington.org/corpse-flower"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 07:20:26",
       "https://news.ycombinator.com/item?id=31832953"
     ],
@@ -217,26 +237,6 @@
     [
       "GNU recutils – human readable, plain text databases",
       "https://www.gnu.org/software/recutils/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 23:11:07",
-      "https://news.ycombinator.com/item?id=31830181"
-    ],
-    [
-      "Mail Merge returns to Pages after nine years",
-      "https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 20:20:11",
-      "https://news.ycombinator.com/item?id=31828658"
-    ],
-    [
-      "An introduction to deep code-walking macros with Clojure (2013)",
-      "https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/"
     ]
   ],
   [
