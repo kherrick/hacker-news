@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
 * [2022-06-23, 09:11:27](https://news.ycombinator.com/item?id=31846662) - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
@@ -19,7 +20,6 @@
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
-* [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 07:20:26](https://news.ycombinator.com/item?id=31832953) - [The mites in the skin of our faces](https://phys.org/news/2022-06-secret-mites-skin.html)

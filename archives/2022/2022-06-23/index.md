@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
 * [2022-06-23, 09:11:27](https://news.ycombinator.com/item?id=31846662) - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
