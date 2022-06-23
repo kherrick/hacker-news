@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 07:00:09](https://news.ycombinator.com/item?id=31845968) - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
 * [2022-06-23, 06:43:47](https://news.ycombinator.com/item?id=31845868) - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
 * [2022-06-23, 06:01:51](https://news.ycombinator.com/item?id=31845654) - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
-* [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 * [2022-06-23, 01:12:06](https://news.ycombinator.com/item?id=31843996) - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
