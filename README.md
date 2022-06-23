@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 03:07:17](https://news.ycombinator.com/item?id=31844744) - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 * [2022-06-23, 01:12:06](https://news.ycombinator.com/item?id=31843996) - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
 * [2022-06-23, 01:03:15](https://news.ycombinator.com/item?id=31843932) - [Generally Intelligent (YC S17) is hiring machine learning research engineers](https://news.ycombinator.com/item?id=31843932)
-* [2022-06-23, 00:39:05](https://news.ycombinator.com/item?id=31843750) - [Brooks County TX pays off hacker with tax dollars after ransomware attack](https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack)
 * [2022-06-22, 23:46:04](https://news.ycombinator.com/item?id=31843378) - [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
 * [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
@@ -21,7 +21,6 @@
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
-* [2022-06-22, 13:38:08](https://news.ycombinator.com/item?id=31835843) - [FDA to order Juul e-cigarettes off U.S. market](https://www.wsj.com/articles/fda-to-order-juul-e-cigarettes-off-u-s-market-11655904689)
 * [2022-06-22, 13:36:09](https://news.ycombinator.com/item?id=31835818) - [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 * [2022-06-22, 11:05:47](https://news.ycombinator.com/item?id=31834408) - [The Go netpoller (2013)](https://morsmachine.dk/netpoller)
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
@@ -30,6 +29,7 @@
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
 * [2022-06-21, 05:17:35](https://news.ycombinator.com/item?id=31820168) - [“Harbinger households” consistently buy products that get discontinued (2019)](https://boingboing.net/2019/12/03/harbringer-of-doom.html)
 * [2022-06-21, 02:53:38](https://news.ycombinator.com/item?id=31819297) - [Lessons of social media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
+* [2022-06-20, 17:29:12](https://news.ycombinator.com/item?id=31813036) - [Earth moves far under our feet: Study shows Earth’s inner core oscillates](https://news.usc.edu/200185/earth-core-oscillates/)
 
 ## [Archives](archives/index.md)
 

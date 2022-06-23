@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 03:07:17](https://news.ycombinator.com/item?id=31844744) - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
 * [2022-06-23, 01:12:06](https://news.ycombinator.com/item?id=31843996) - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
