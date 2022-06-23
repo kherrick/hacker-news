@@ -26,7 +26,7 @@
 * [2022-06-22, 11:05:47](https://news.ycombinator.com/item?id=31834408) - [The Go netpoller (2013)](https://morsmachine.dk/netpoller)
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 20:20:11](https://news.ycombinator.com/item?id=31828658) - [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
-* [2022-06-21, 16:29:06](https://news.ycombinator.com/item?id=31825834) - [The Cracked Wisdom of Dril](https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril)
+* [2022-06-21, 17:01:20](https://news.ycombinator.com/item?id=31826318) - [The First Koreatown](https://daily.jstor.org/the-first-koreatown/)
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
 * [2022-06-21, 05:17:35](https://news.ycombinator.com/item?id=31820168) - [“Harbinger households” consistently buy products that get discontinued (2019)](https://boingboing.net/2019/12/03/harbringer-of-doom.html)
 * [2022-06-21, 02:53:38](https://news.ycombinator.com/item?id=31819297) - [Lessons of social media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
