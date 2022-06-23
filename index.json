@@ -1,26 +1,6 @@
 [
   [
     [
-      "2022-06-23, 22:10:24",
-      "https://news.ycombinator.com/item?id=31855732"
-    ],
-    [
-      "Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to",
-      "https://www.nerdcrawler.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 21:26:41",
-      "https://news.ycombinator.com/item?id=31855357"
-    ],
-    [
-      "Ferrari installed a 1MW fuel cell unit to expedite carbon neutrality",
-      "https://newsotg.com/2022/06/23/latest-news/ferrari-installed-a-1mw-fuel-cell-unit-to-expedite-carbon-neutrality/"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 20:28:56",
       "https://news.ycombinator.com/item?id=31854738"
     ],
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2022-06-23, 14:26:22",
+      "https://news.ycombinator.com/item?id=31849553"
+    ],
+    [
+      "As weed gets more potent, teens are getting sick",
+      "https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 14:20:13",
       "https://news.ycombinator.com/item?id=31849488"
     ],
     [
       "Hardening the registers: A cascading failure of edge induced fault tolerance",
       "https://tech.target.com/blog/hardening-the-registers"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 14:19:19",
+      "https://news.ycombinator.com/item?id=31849482"
+    ],
+    [
+      "Custom SQL functions for data analytics in PostgreSQL",
+      "https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/"
     ]
   ],
   [
