@@ -38,6 +38,7 @@
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
 * [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
+* [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 09:11:27](https://news.ycombinator.com/item?id=31846662) - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)

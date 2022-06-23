@@ -21,7 +21,7 @@
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
-* [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt is Git for Data](https://github.com/dolthub/dolt)
+* [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [YaLM-100B: Pretrained language model with 100B parameters](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
