@@ -29,6 +29,7 @@
 * [2022-06-22, 16:18:02](https://news.ycombinator.com/item?id=31837996) - [Mapping the World of Package Management](https://enigma.com/blog/post/mapping-the-world-of-package-management)
 * [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Goggles (beta) is now available in Brave Search](https://github.com/brave/goggles-quickstart)
 * [2022-06-22, 16:07:01](https://news.ycombinator.com/item?id=31837865) - [Brave Search passes 2.5B queries in its first year](https://brave.com/search-anniversary/)
+* [2022-06-22, 15:48:52](https://news.ycombinator.com/item?id=31837612) - [Greeks in Ancient Central Asia: The Ionians (2019)](https://languagelog.ldc.upenn.edu/nll/?p=44747)
 * [2022-06-22, 15:39:51](https://news.ycombinator.com/item?id=31837479) - [ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU](https://www.espressif.com/en/news/ESP32-C5)
 * [2022-06-22, 15:38:32](https://news.ycombinator.com/item?id=31837460) - [The End of the World Is Just Beginning for Shipping](https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/)
 * [2022-06-22, 15:36:25](https://news.ycombinator.com/item?id=31837418) - [Why do cats love catnip?](https://oa.mg/blog/why-do-cats-love-catnip/)
