@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-06-23, 19:28:08",
-      "https://news.ycombinator.com/item?id=31854081"
-    ],
-    [
-      "The Return of Industrial Warfare",
-      "https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 19:26:26",
       "https://news.ycombinator.com/item?id=31854051"
     ],
@@ -187,6 +177,16 @@
     [
       "Hardening the registers: A cascading failure of edge induced fault tolerance",
       "https://tech.target.com/blog/hardening-the-registers"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 14:19:19",
+      "https://news.ycombinator.com/item?id=31849482"
+    ],
+    [
+      "Custom SQL functions for data analytics in PostgreSQL",
+      "https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/"
     ]
   ],
   [
