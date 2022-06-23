@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
 * [2022-06-23, 04:34:58](https://news.ycombinator.com/item?id=31845194) - [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life [2005]](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
 * [2022-06-23, 03:07:17](https://news.ycombinator.com/item?id=31844744) - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
@@ -18,7 +19,6 @@
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
 * [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Brave Search Goggles: Alter search rankings with rules and filters](https://github.com/brave/goggles-quickstart)
-* [2022-06-22, 15:28:04](https://news.ycombinator.com/item?id=31837307) - [Show HN: Data Diff – compare tables of any size across databases](https://news.ycombinator.com/item?id=31837307)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 15:05:46](https://news.ycombinator.com/item?id=31836974) - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 * [2022-06-22, 15:02:08](https://news.ycombinator.com/item?id=31836922) - [Guide to Web Authentication](https://webauthn.guide/)
