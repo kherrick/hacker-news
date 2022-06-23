@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-23, 16:14:51",
-      "https://news.ycombinator.com/item?id=31851193"
+      "2022-06-23, 16:47:45",
+      "https://news.ycombinator.com/item?id=31851755"
     ],
     [
-      "Returning to the office is costing you untapped talent",
-      "https://blog.testdouble.com/posts/2022-06-22-return-to-office-untapped-talent/"
+      "Whatever happened to SHA-256 support in Git?",
+      "https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 16:36:59",
+      "https://news.ycombinator.com/item?id=31851572"
+    ],
+    [
+      "Unexpected solar weather is causing satellites to plummet from orbit",
+      "https://www.space.com/satellites-falling-off-sky-solar-weather"
     ]
   ],
   [
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2022-06-23, 15:40:48",
-      "https://news.ycombinator.com/item?id=31850674"
+      "2022-06-23, 16:03:53",
+      "https://news.ycombinator.com/item?id=31851031"
     ],
     [
-      "The Case for a Confederal Europe",
-      "https://ecfr.eu/article/the-case-for-a-confederal-europe/"
+      "Reverse Engineering Google Colab",
+      "https://dagshub.com/blog/reverse-engineering-google-colab/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-06-23, 13:48:44",
-      "https://news.ycombinator.com/item?id=31849082"
-    ],
-    [
-      "Detention of Mark Bernstein",
-      "https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 13:05:47",
       "https://news.ycombinator.com/item?id=31848499"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2022-06-23, 07:01:25",
+      "https://news.ycombinator.com/item?id=31845971"
+    ],
+    [
+      "Ziggurats are temple platforms of ancient Mesopotamia",
+      "https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 06:35:33",
       "https://news.ycombinator.com/item?id=31845829"
     ],
@@ -247,16 +257,6 @@
     [
       "Minikube now supports rootless podman driver for running Kubernetes",
       "https://github.com/kubernetes/minikube/pull/13829"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 15:48:52",
-      "https://news.ycombinator.com/item?id=31837612"
-    ],
-    [
-      "Greeks in Ancient Central Asia: The Ionians (2019)",
-      "https://languagelog.ldc.upenn.edu/nll/?p=44747"
     ]
   ],
   [
