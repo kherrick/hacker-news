@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 22:10:24](https://news.ycombinator.com/item?id=31855732) - [Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to](https://www.nerdcrawler.com/)
 * [2022-06-23, 21:26:41](https://news.ycombinator.com/item?id=31855357) - [Ferrari installed a 1MW fuel cell unit to expedite carbon neutrality](https://newsotg.com/2022/06/23/latest-news/ferrari-installed-a-1mw-fuel-cell-unit-to-expedite-carbon-neutrality/)
 * [2022-06-23, 20:28:56](https://news.ycombinator.com/item?id=31854738) - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
@@ -18,7 +19,6 @@
 * [2022-06-23, 14:45:32](https://news.ycombinator.com/item?id=31849819) - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
 * [2022-06-23, 14:43:33](https://news.ycombinator.com/item?id=31849787) - [Diagram as Code](https://github.com/mingrammer/diagrams)
 * [2022-06-23, 14:20:13](https://news.ycombinator.com/item?id=31849488) - [Hardening the registers: A cascading failure of edge induced fault tolerance](https://tech.target.com/blog/hardening-the-registers)
-* [2022-06-23, 14:19:19](https://news.ycombinator.com/item?id=31849482) - [Custom SQL functions for data analytics in PostgreSQL](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 * [2022-06-23, 14:18:13](https://news.ycombinator.com/item?id=31849468) - [How we built Hydrogen, a React framework for building custom storefronts](https://shopify.engineering/how-we-built-hydrogen)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)

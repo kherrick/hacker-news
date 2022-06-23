@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 22:10:24](https://news.ycombinator.com/item?id=31855732) - [Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to](https://www.nerdcrawler.com/)
 * [2022-06-23, 21:26:41](https://news.ycombinator.com/item?id=31855357) - [Ferrari installed a 1MW fuel cell unit to expedite carbon neutrality](https://newsotg.com/2022/06/23/latest-news/ferrari-installed-a-1mw-fuel-cell-unit-to-expedite-carbon-neutrality/)
 * [2022-06-23, 20:28:56](https://news.ycombinator.com/item?id=31854738) - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
