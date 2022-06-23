@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-22](index.md)
 
+* [2022-06-22, 23:46:04](https://news.ycombinator.com/item?id=31843378) - [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
+* [2022-06-22, 23:41:52](https://news.ycombinator.com/item?id=31843344) - [Sometimes users prefer the less straightforward UX](https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/)
 * [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut](https://www.exploratorium.edu/files/exhibits/ladle/)
 * [2022-06-22, 20:39:41](https://news.ycombinator.com/item?id=31841584) - [Dropbox Shop Beta](https://www.dropbox.com/shop)
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
