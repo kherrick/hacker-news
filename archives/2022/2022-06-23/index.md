@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
 * [2022-06-23, 06:01:51](https://news.ycombinator.com/item?id=31845654) - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
 * [2022-06-23, 06:01:51](https://news.ycombinator.com/item?id=31845654) - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
@@ -13,7 +14,6 @@
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
-* [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern (2019)](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
