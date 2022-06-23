@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-06-23, 01:12:06",
+      "https://news.ycombinator.com/item?id=31843996"
+    ],
+    [
+      "Introducing PyScript (summary of PyCon keynote)",
+      "https://lwn.net/SubscriberLink/898452/357b195db1ecce28/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 01:03:15",
+      "https://news.ycombinator.com/item?id=31843932"
+    ],
+    [
+      "Generally Intelligent (YC S17) is hiring machine learning research engineers",
+      "https://news.ycombinator.com/item?id=31843932"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 00:39:05",
+      "https://news.ycombinator.com/item?id=31843750"
+    ],
+    [
+      "Brooks County TX pays off hacker with tax dollars after ransomware attack",
+      "https://www.kztv10.com/news/local-news/brooks-county-pays-off-hacker-with-tax-dollars-after-ransomware-attack"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 23:46:04",
+      "https://news.ycombinator.com/item?id=31843378"
+    ],
+    [
+      "Code vs. No-code",
+      "https://jasonmorrissc.github.io/post/2022-02-24_no-code/"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 23:41:52",
+      "https://news.ycombinator.com/item?id=31843344"
+    ],
+    [
+      "Sometimes users prefer the less straightforward UX",
+      "https://blog.pwego.com/why-users-sometimes-prefer-the-less-straightforward-ux/"
+    ]
+  ],
+  [
+    [
       "2022-06-22, 21:18:12",
       "https://news.ycombinator.com/item?id=31841982"
     ],
@@ -47,16 +97,6 @@
     [
       "The Grug Brained Developer",
       "https://grugbrain.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 18:36:38",
-      "https://news.ycombinator.com/item?id=31839992"
-    ],
-    [
-      "Dendron (YC W21) is hiring a senior web dev to build a better tool for thought",
-      "https://wiki.dendron.so/notes/BtTEc9Kp7IbB1zKNh35pI"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-06-22, 17:02:37",
-      "https://news.ycombinator.com/item?id=31838690"
-    ],
-    [
-      "Designing Billions of Circuits with Code",
-      "https://asianometry.substack.com/p/designing-billions-of-circuits-with"
-    ]
-  ],
-  [
-    [
       "2022-06-22, 16:21:42",
       "https://news.ycombinator.com/item?id=31838049"
     ],
@@ -137,16 +167,6 @@
     [
       "Brave Search Goggles: Alter search rankings with rules and filters",
       "https://github.com/brave/goggles-quickstart"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 15:39:51",
-      "https://news.ycombinator.com/item?id=31837479"
-    ],
-    [
-      "ESP32-C5: Espressif’s First Dual-Band Wi-Fi 6 MCU",
-      "https://www.espressif.com/en/news/ESP32-C5"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2022-06-22, 08:03:21",
-      "https://news.ycombinator.com/item?id=31833218"
-    ],
-    [
-      "Writing a Multilingual Book in Markdown",
-      "https://www.dampfkraft.com/code/multilingual-markdown.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 02:55:27",
-      "https://news.ycombinator.com/item?id=31831532"
-    ],
-    [
-      "The Story of the Sun, Moon, and Stars (1898)",
-      "https://publicdomainreview.org/collection/story-of-sun-moon-stars/"
-    ]
-  ],
-  [
-    [
       "2022-06-21, 23:11:07",
       "https://news.ycombinator.com/item?id=31830181"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-06-21, 12:45:20",
-      "https://news.ycombinator.com/item?id=31823194"
+      "2022-06-21, 02:53:38",
+      "https://news.ycombinator.com/item?id=31819297"
     ],
     [
-      "PostScript Cartridge Plus for HP LaserJet III",
-      "https://www.pagetable.com/?p=1673"
+      "Lessons of social media from BBSs",
+      "https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss"
     ]
   ],
   [
