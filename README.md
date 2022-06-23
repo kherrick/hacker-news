@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
+* [2022-06-23, 06:01:51](https://news.ycombinator.com/item?id=31845654) - [A brief history of one line fixes (2014)](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
-* [2022-06-23, 04:34:58](https://news.ycombinator.com/item?id=31845194) - [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life [2005]](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
 * [2022-06-23, 03:07:17](https://news.ycombinator.com/item?id=31844744) - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
@@ -11,7 +12,6 @@
 * [2022-06-22, 21:18:12](https://news.ycombinator.com/item?id=31841982) - [Ladle Rat Rotten Hut (1940)](https://www.exploratorium.edu/files/exhibits/ladle/)
 * [2022-06-22, 20:07:32](https://news.ycombinator.com/item?id=31841215) - [Show HN: Crocodile - Better code review for GitHub](https://www.crocodile.dev/)
 * [2022-06-22, 19:55:50](https://news.ycombinator.com/item?id=31841051) - [Repurposing an old Android phone as a web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html)
-* [2022-06-22, 19:19:55](https://news.ycombinator.com/item?id=31840587) - [The Evolution of THC Vape Cartridges](https://gentlemantoker.com/blogs/liquid-gold-evolution-thc-vape-cartridges)
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern (2019)](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
