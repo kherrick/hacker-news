@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 09:11:27](https://news.ycombinator.com/item?id=31846662) - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 08:46:04](https://news.ycombinator.com/item?id=31846529) - [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
@@ -18,18 +19,17 @@
 * [2022-06-22, 19:00:18](https://news.ycombinator.com/item?id=31840331) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2022-06-22, 18:11:24](https://news.ycombinator.com/item?id=31839692) - [How I would sell OpenBSD as a salesperson](https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html)
 * [2022-06-22, 17:58:30](https://news.ycombinator.com/item?id=31839515) - [JVM Anatomy Quark #10: String.intern (2019)](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
-* [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 15:14:32](https://news.ycombinator.com/item?id=31837115) - [Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)
 * [2022-06-22, 07:20:26](https://news.ycombinator.com/item?id=31832953) - [The mites in the skin of our faces](https://phys.org/news/2022-06-secret-mites-skin.html)
 * [2022-06-22, 06:03:47](https://news.ycombinator.com/item?id=31832564) - [GNU recutils – human readable, plain text databases](https://www.gnu.org/software/recutils/)
 * [2022-06-21, 23:11:07](https://news.ycombinator.com/item?id=31830181) - [Mail Merge returns to Pages after nine years](https://sixcolors.com/post/2022/06/mail-merge-returns-to-pages-after-nine-years/)
 * [2022-06-21, 20:20:11](https://news.ycombinator.com/item?id=31828658) - [An introduction to deep code-walking macros with Clojure (2013)](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
-* [2022-06-21, 17:01:20](https://news.ycombinator.com/item?id=31826318) - [The First Koreatown](https://daily.jstor.org/the-first-koreatown/)
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
 * [2022-06-21, 05:17:35](https://news.ycombinator.com/item?id=31820168) - [“Harbinger households” consistently buy products that get discontinued (2019)](https://boingboing.net/2019/12/03/harbringer-of-doom.html)
 * [2022-06-21, 02:53:38](https://news.ycombinator.com/item?id=31819297) - [Lessons of social media from BBSs](https://changelog.complete.org/archives/10393-lessons-of-social-media-from-bbss)
 * [2022-06-21, 02:23:20](https://news.ycombinator.com/item?id=31819060) - [The Economic Impact of Moore’s Law: Evidence from when it faltered (2017) [pdf]](http://www.neil-t.com/wp-content/uploads/2017/01/The_Economic_Impact_of_Moores_Law.pdf)
+* [2022-06-20, 06:38:09](https://news.ycombinator.com/item?id=31807021) - [Diagram as Code 2.0 [video]](https://www.youtube.com/watch?v=Za1-v4Zkq5E)
 
 ## [Archives](archives/index.md)
 
