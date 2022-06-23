@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 14:43:33](https://news.ycombinator.com/item?id=31849787) - [Diagram as Code](https://github.com/mingrammer/diagrams)
 * [2022-06-23, 14:26:22](https://news.ycombinator.com/item?id=31849553) - [As weed gets more potent, teens are getting sick](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
 * [2022-06-23, 14:20:13](https://news.ycombinator.com/item?id=31849488) - [Target: Hardening the Registers](https://tech.target.com/blog/hardening-the-registers)
+* [2022-06-23, 14:19:19](https://news.ycombinator.com/item?id=31849482) - [Custom SQL functions for data analytics in PostgreSQL](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 * [2022-06-23, 14:18:13](https://news.ycombinator.com/item?id=31849468) - [How We Built Hydrogen: A React Framework for Building Custom Storefronts](https://shopify.engineering/how-we-built-hydrogen)
 * [2022-06-23, 14:17:59](https://news.ycombinator.com/item?id=31849464) - [Sleeping longer can help lose weight if you are sleeping less than 6.5h/day](https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/)
 * [2022-06-23, 14:11:20](https://news.ycombinator.com/item?id=31849375) - [SpaceX asserts 5G would ‘blow out’ satellite users in 12 GHz band](https://www.fiercewireless.com/5g/spacex-asserts-5g-would-blow-out-satellite-users-12-ghz-band)
