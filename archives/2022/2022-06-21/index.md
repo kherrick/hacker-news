@@ -76,6 +76,7 @@
 * [2022-06-21, 10:16:00](https://news.ycombinator.com/item?id=31822258) - [Queens of Infamy: Isabella of France](https://longreads.com/2022/06/21/queens-of-infamy-isabella-of-france/)
 * [2022-06-21, 10:15:04](https://news.ycombinator.com/item?id=31822256) - [For natural theologians, proving God was beside the point](https://aeon.co/essays/for-natural-theologians-proving-god-was-beside-the-point)
 * [2022-06-21, 09:39:48](https://news.ycombinator.com/item?id=31822075) - [Dartmouth Eliminates Student Loans for Undergraduates](https://calltolead.dartmouth.edu/stories/dartmouth-eliminates-student-loans-undergraduates)
+* [2022-06-21, 09:38:30](https://news.ycombinator.com/item?id=31822063) - [Mystery still surrounds what happened to the bodies of Waterloo militaries](https://www.gla.ac.uk/news/headline_854908_en.html)
 * [2022-06-21, 09:21:43](https://news.ycombinator.com/item?id=31821971) - [Space-Track confirms presence of 4 secret payloads on Globalstar Falcon 9 launch](https://forum.nasaspaceflight.com/index.php?topic=56471.180)
 * [2022-06-21, 09:13:40](https://news.ycombinator.com/item?id=31821914) - [One year as a solo dev building open-source data tools without funding](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 * [2022-06-21, 09:01:30](https://news.ycombinator.com/item?id=31821849) - [Are blockchains decentralized: New Trail of Bits research report examines](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)

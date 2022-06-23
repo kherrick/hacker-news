@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 13:48:44](https://news.ycombinator.com/item?id=31849082) - [Detention of Mark Bernstein](https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein)
 * [2022-06-23, 13:12:30](https://news.ycombinator.com/item?id=31848594) - [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
 * [2022-06-23, 12:12:36](https://news.ycombinator.com/item?id=31847931) - [Should GitHub Be Sued for Training Copilot on GPL Code?](https://fosspost.org/github-copilot/)
@@ -19,7 +20,6 @@
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 01:12:06](https://news.ycombinator.com/item?id=31843996) - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
 * [2022-06-22, 23:46:04](https://news.ycombinator.com/item?id=31843378) - [Code vs. No-code](https://jasonmorrissc.github.io/post/2022-02-24_no-code/)
-* [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 15:48:52](https://news.ycombinator.com/item?id=31837612) - [Greeks in Ancient Central Asia: The Ionians (2019)](https://languagelog.ldc.upenn.edu/nll/?p=44747)
 * [2022-06-22, 11:33:46](https://news.ycombinator.com/item?id=31834627) - [A lightning bolt would be worth only about a nickel (2015)](https://engineering.mit.edu/engage/ask-an-engineer/is-there-a-way-to-harness-electricity-from-lightning/)
 * [2022-06-22, 11:24:35](https://news.ycombinator.com/item?id=31834557) - [Corpse Flower Bloom](https://www.huntington.org/corpse-flower)
@@ -27,8 +27,8 @@
 * [2022-06-22, 06:03:47](https://news.ycombinator.com/item?id=31832564) - [GNU recutils – human readable, plain text databases](https://www.gnu.org/software/recutils/)
 * [2022-06-21, 13:35:05](https://news.ycombinator.com/item?id=31823752) - [Ithacus – A New Concept of Inter-Continental Ballistic Transport (1964) [pdf]](https://apps.dtic.mil/sti/pdfs/AD0605208.pdf)
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
+* [2022-06-21, 09:38:30](https://news.ycombinator.com/item?id=31822063) - [Mystery still surrounds what happened to the bodies of Waterloo militaries](https://www.gla.ac.uk/news/headline_854908_en.html)
 * [2022-06-21, 05:17:35](https://news.ycombinator.com/item?id=31820168) - [“Harbinger households” consistently buy products that get discontinued (2019)](https://boingboing.net/2019/12/03/harbringer-of-doom.html)
-* [2022-06-21, 02:23:20](https://news.ycombinator.com/item?id=31819060) - [The Economic Impact of Moore’s Law: Evidence from when it faltered (2017) [pdf]](http://www.neil-t.com/wp-content/uploads/2017/01/The_Economic_Impact_of_Moores_Law.pdf)
 * [2022-06-20, 06:38:09](https://news.ycombinator.com/item?id=31807021) - [Diagram as Code 2.0 [video]](https://www.youtube.com/watch?v=Za1-v4Zkq5E)
 
 ## [Archives](archives/index.md)

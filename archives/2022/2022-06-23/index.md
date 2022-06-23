@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 13:48:44](https://news.ycombinator.com/item?id=31849082) - [Detention of Mark Bernstein](https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein)
 * [2022-06-23, 13:12:30](https://news.ycombinator.com/item?id=31848594) - [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
