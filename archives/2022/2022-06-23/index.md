@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 16:14:51](https://news.ycombinator.com/item?id=31851193) - [Returning to the office is costing you untapped talent](https://blog.testdouble.com/posts/2022-06-22-return-to-office-untapped-talent/)
+* [2022-06-23, 16:08:08](https://news.ycombinator.com/item?id=31851110) - [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
 * [2022-06-23, 15:40:48](https://news.ycombinator.com/item?id=31850674) - [The Case for a Confederal Europe](https://ecfr.eu/article/the-case-for-a-confederal-europe/)
 * [2022-06-23, 15:34:17](https://news.ycombinator.com/item?id=31850573) - [Julia ranks in the top 5 most loved programming languages for 2022](https://logankilpatrick.medium.com/breaking-julia-ranks-in-the-top-5-most-loved-programming-languages-for-2022-6cb7740240e1)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)

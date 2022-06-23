@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 16:14:51](https://news.ycombinator.com/item?id=31851193) - [Returning to the office is costing you untapped talent](https://blog.testdouble.com/posts/2022-06-22-return-to-office-untapped-talent/)
+* [2022-06-23, 16:08:08](https://news.ycombinator.com/item?id=31851110) - [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
 * [2022-06-23, 15:40:48](https://news.ycombinator.com/item?id=31850674) - [The Case for a Confederal Europe](https://ecfr.eu/article/the-case-for-a-confederal-europe/)
-* [2022-06-23, 15:34:17](https://news.ycombinator.com/item?id=31850573) - [Julia ranks in the top 5 most loved programming languages for 2022](https://logankilpatrick.medium.com/breaking-julia-ranks-in-the-top-5-most-loved-programming-languages-for-2022-6cb7740240e1)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
 * [2022-06-23, 15:19:41](https://news.ycombinator.com/item?id=31850347) - [How Safe Is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-06-23, 14:45:32](https://news.ycombinator.com/item?id=31849819) - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
@@ -24,7 +25,6 @@
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
-* [2022-06-23, 01:12:06](https://news.ycombinator.com/item?id=31843996) - [Introducing PyScript (summary of PyCon keynote)](https://lwn.net/SubscriberLink/898452/357b195db1ecce28/)
 * [2022-06-22, 15:48:52](https://news.ycombinator.com/item?id=31837612) - [Greeks in Ancient Central Asia: The Ionians (2019)](https://languagelog.ldc.upenn.edu/nll/?p=44747)
 * [2022-06-22, 11:24:35](https://news.ycombinator.com/item?id=31834557) - [Corpse Flower Bloom](https://www.huntington.org/corpse-flower)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
