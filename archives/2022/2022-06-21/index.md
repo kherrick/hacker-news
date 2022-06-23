@@ -51,6 +51,7 @@
 * [2022-06-21, 13:59:36](https://news.ycombinator.com/item?id=31824030) - [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [2022-06-21, 13:49:20](https://news.ycombinator.com/item?id=31823926) - [The Value of an Undergraduate Degree](http://www.pearlleff.com/the-value-of-an-undergraduate-degree)
 * [2022-06-21, 13:47:15](https://news.ycombinator.com/item?id=31823898) - [Show HN: Akedo – Retro gaming and coding platform](https://akedo.app)
+* [2022-06-21, 13:35:05](https://news.ycombinator.com/item?id=31823752) - [Ithacus – A New Concept of Inter-Continental Ballistic Transport (1964) [pdf]](https://apps.dtic.mil/sti/pdfs/AD0605208.pdf)
 * [2022-06-21, 13:30:12](https://news.ycombinator.com/item?id=31823702) - [Get Paid to Contribute to Urllib3](https://sethmlarson.dev/blog/get-paid-to-contribute-to-urllib3)
 * [2022-06-21, 13:22:36](https://news.ycombinator.com/item?id=31823622) - [Safety features of the Hare programming language](https://harelang.org/blog/2022-06-21-safety-features/)
 * [2022-06-21, 13:21:59](https://news.ycombinator.com/item?id=31823617) - [Automated text/email reminders for volunteers](https://volunteerreminder.com/)
