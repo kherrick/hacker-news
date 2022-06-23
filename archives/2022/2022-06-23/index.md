@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
+* [2022-06-23, 16:36:59](https://news.ycombinator.com/item?id=31851572) - [Unexpected solar weather is causing satellites to plummet from orbit](https://www.space.com/satellites-falling-off-sky-solar-weather)
 * [2022-06-23, 16:14:51](https://news.ycombinator.com/item?id=31851193) - [Returning to the office is costing you untapped talent](https://blog.testdouble.com/posts/2022-06-22-return-to-office-untapped-talent/)
 * [2022-06-23, 16:08:08](https://news.ycombinator.com/item?id=31851110) - [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
+* [2022-06-23, 16:03:53](https://news.ycombinator.com/item?id=31851031) - [Reverse Engineering Google Colab](https://dagshub.com/blog/reverse-engineering-google-colab/)
 * [2022-06-23, 15:40:48](https://news.ycombinator.com/item?id=31850674) - [The Case for a Confederal Europe](https://ecfr.eu/article/the-case-for-a-confederal-europe/)
 * [2022-06-23, 15:34:17](https://news.ycombinator.com/item?id=31850573) - [Julia ranks in the top 5 most loved programming languages for 2022](https://logankilpatrick.medium.com/breaking-julia-ranks-in-the-top-5-most-loved-programming-languages-for-2022-6cb7740240e1)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
@@ -37,6 +40,7 @@
 * [2022-06-23, 08:46:04](https://news.ycombinator.com/item?id=31846529) - [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
 * [2022-06-23, 08:20:29](https://news.ycombinator.com/item?id=31846389) - [Street Epistemology](https://streetepistemology.com/)
 * [2022-06-23, 07:52:51](https://news.ycombinator.com/item?id=31846237) - [The Neil story (with additional footnote)](https://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html)
+* [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 07:00:09](https://news.ycombinator.com/item?id=31845968) - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
 * [2022-06-23, 06:43:47](https://news.ycombinator.com/item?id=31845868) - [Cancer cells wake up when people sleep](https://www.nature.com/articles/d41586-022-01724-w)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
