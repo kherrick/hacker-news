@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
+* [2022-06-23, 19:28:08](https://news.ycombinator.com/item?id=31854081) - [The Return of Industrial Warfare](https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/)
+* [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
 * [2022-06-23, 17:34:04](https://news.ycombinator.com/item?id=31852480) - [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
@@ -22,7 +23,6 @@
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
-* [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
 * [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [YaLM-100B: Pretrained language model with 100B parameters](https://github.com/yandex/YaLM-100B)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
