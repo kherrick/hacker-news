@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 17:25:09](https://news.ycombinator.com/item?id=31852352) - [LinkedDataHub: The Knowledge Graph Notebook](https://github.com/AtomGraph/LinkedDataHub)
 * [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
 * [2022-06-23, 16:36:59](https://news.ycombinator.com/item?id=31851572) - [Unexpected solar weather is causing satellites to plummet from orbit](https://www.space.com/satellites-falling-off-sky-solar-weather)
 * [2022-06-23, 16:08:08](https://news.ycombinator.com/item?id=31851110) - [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
@@ -17,7 +18,6 @@
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
 * [2022-06-23, 12:44:10](https://news.ycombinator.com/item?id=31848253) - [Investigating the effects of bike lanes in Minneapolis](https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
-* [2022-06-23, 12:40:25](https://news.ycombinator.com/item?id=31848201) - [Stockfish vs. ChessBase for GPLv3 violation: court hearing soon](https://stockfishchess.org/blog/2022/public-court-hearing-soon/)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
 * [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt is Git for Data](https://github.com/dolthub/dolt)
