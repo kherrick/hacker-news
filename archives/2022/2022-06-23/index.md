@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
 * [2022-06-23, 14:45:32](https://news.ycombinator.com/item?id=31849819) - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
 * [2022-06-23, 14:44:50](https://news.ycombinator.com/item?id=31849806) - [FDA removes all Juul products from US market](https://www.fda.gov/news-events/press-announcements/fda-denies-authorization-market-juul-products)
 * [2022-06-23, 14:43:33](https://news.ycombinator.com/item?id=31849787) - [Diagram as Code](https://github.com/mingrammer/diagrams)
