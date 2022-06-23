@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-23, 22:10:24](https://news.ycombinator.com/item?id=31855732) - [Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to](https://www.nerdcrawler.com/)
 * [2022-06-23, 20:28:56](https://news.ycombinator.com/item?id=31854738) - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
 * [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
@@ -16,9 +17,7 @@
 * [2022-06-23, 15:19:41](https://news.ycombinator.com/item?id=31850347) - [How safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-06-23, 14:45:32](https://news.ycombinator.com/item?id=31849819) - [How Imagen Works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
 * [2022-06-23, 14:43:33](https://news.ycombinator.com/item?id=31849787) - [Diagram as Code](https://github.com/mingrammer/diagrams)
-* [2022-06-23, 14:26:22](https://news.ycombinator.com/item?id=31849553) - [As weed gets more potent, teens are getting sick](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
 * [2022-06-23, 14:20:13](https://news.ycombinator.com/item?id=31849488) - [Hardening the registers: A cascading failure of edge induced fault tolerance](https://tech.target.com/blog/hardening-the-registers)
-* [2022-06-23, 14:19:19](https://news.ycombinator.com/item?id=31849482) - [Custom SQL functions for data analytics in PostgreSQL](https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/)
 * [2022-06-23, 14:18:13](https://news.ycombinator.com/item?id=31849468) - [How we built Hydrogen, a React framework for building custom storefronts](https://shopify.engineering/how-we-built-hydrogen)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
@@ -28,6 +27,7 @@
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 06:47:39](https://news.ycombinator.com/item?id=31845898) - [Timeline of “foundational” advances in homotopy theory?](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory)
 * [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
+* [2022-06-23, 05:55:49](https://news.ycombinator.com/item?id=31845617) - [OpenWRT based travel router on APU2D4 (2019)](https://teklager.se/en/knowledge-base/openwrt-based-travel-router-apu2d4/)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
 * [2022-06-22, 05:26:21](https://news.ycombinator.com/item?id=31832362) - [Observations on 6 Years of Journaling](https://herman.bearblog.dev/years-of-journaling/)
 
