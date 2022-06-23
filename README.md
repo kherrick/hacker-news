@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
+* [2022-06-23, 17:34:04](https://news.ycombinator.com/item?id=31852480) - [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 * [2022-06-23, 17:25:09](https://news.ycombinator.com/item?id=31852352) - [LinkedDataHub: The Knowledge Graph Notebook](https://github.com/AtomGraph/LinkedDataHub)
 * [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
@@ -23,7 +24,6 @@
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
 * [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [YaLM-100B: Pretrained language model with 100B parameters](https://github.com/yandex/YaLM-100B)
-* [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
