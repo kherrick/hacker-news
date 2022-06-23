@@ -2,6 +2,7 @@
 
 * [2022-06-23, 20:28:56](https://news.ycombinator.com/item?id=31854738) - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
+* [2022-06-23, 19:53:10](https://news.ycombinator.com/item?id=31854346) - [Show HN: In-depth photographic look at all the golf courses I play](https://www.golfscout.net)
 * [2022-06-23, 19:28:08](https://news.ycombinator.com/item?id=31854081) - [The Return of Industrial Warfare](https://rusi.org/explore-our-research/publications/commentary/return-industrial-warfare/)
 * [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
@@ -9,7 +10,7 @@
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 * [2022-06-23, 17:25:09](https://news.ycombinator.com/item?id=31852352) - [LinkedDataHub: The Knowledge Graph Notebook](https://github.com/AtomGraph/LinkedDataHub)
 * [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
-* [2022-06-23, 16:36:59](https://news.ycombinator.com/item?id=31851572) - [Unexpected solar weather is causing satellites to sink from orbit faster](https://www.space.com/satellites-falling-off-sky-solar-weather)
+* [2022-06-23, 16:36:59](https://news.ycombinator.com/item?id=31851572) - [Unexpected solar weather is accelerating satellites' orbital decay](https://www.space.com/satellites-falling-off-sky-solar-weather)
 * [2022-06-23, 16:08:08](https://news.ycombinator.com/item?id=31851110) - [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
 * [2022-06-23, 16:03:53](https://news.ycombinator.com/item?id=31851031) - [Reverse Engineering Google Colab](https://dagshub.com/blog/reverse-engineering-google-colab/)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
@@ -29,7 +30,6 @@
 * [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
 * [2022-06-22, 05:26:21](https://news.ycombinator.com/item?id=31832362) - [Observations on 6 Years of Journaling](https://herman.bearblog.dev/years-of-journaling/)
-* [2022-06-21, 09:38:30](https://news.ycombinator.com/item?id=31822063) - [Mystery still surrounds what happened to the bodies of Waterloo militaries](https://www.gla.ac.uk/news/headline_854908_en.html)
 
 ## [Archives](archives/index.md)
 
