@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
-* [2022-06-23, 17:26:03](https://news.ycombinator.com/item?id=31852369) - [Contactless Silent Speech Recognition Using IR-UWB Radar](https://pubmed.ncbi.nlm.nih.gov/27801867/)
 * [2022-06-23, 17:25:09](https://news.ycombinator.com/item?id=31852352) - [LinkedDataHub: The Knowledge Graph Notebook](https://github.com/AtomGraph/LinkedDataHub)
 * [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
 * [2022-06-23, 16:36:59](https://news.ycombinator.com/item?id=31851572) - [Unexpected solar weather is causing satellites to plummet from orbit](https://www.space.com/satellites-falling-off-sky-solar-weather)
@@ -18,7 +17,6 @@
 * [2022-06-23, 14:17:59](https://news.ycombinator.com/item?id=31849464) - [Sleeping longer than 6.5 hours/day can help you lose weight: study](https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/)
 * [2022-06-23, 14:07:26](https://news.ycombinator.com/item?id=31849320) - [Ruby 3 adds Scheduler Interface for Fibers](https://blog.kiprosh.com/ruby-fiber-schedular/)
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
-* [2022-06-23, 12:44:10](https://news.ycombinator.com/item?id=31848253) - [Investigating the effects of bike lanes in Minneapolis](https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
@@ -28,7 +26,9 @@
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 06:35:33](https://news.ycombinator.com/item?id=31845829) - [7-zip 22.00 – APFS, Posix TAR, high precision timestamps](https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/)
 * [2022-06-23, 06:20:02](https://news.ycombinator.com/item?id=31845746) - [Minikube now supports rootless podman driver for running Kubernetes](https://github.com/kubernetes/minikube/pull/13829)
+* [2022-06-22, 11:24:35](https://news.ycombinator.com/item?id=31834557) - [Corpse Flower Bloom](https://www.huntington.org/corpse-flower)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
+* [2022-06-22, 05:26:21](https://news.ycombinator.com/item?id=31832362) - [Observations on 6 Years of Journaling](https://herman.bearblog.dev/years-of-journaling/)
 * [2022-06-21, 09:38:30](https://news.ycombinator.com/item?id=31822063) - [Mystery still surrounds what happened to the bodies of Waterloo militaries](https://www.gla.ac.uk/news/headline_854908_en.html)
 
 ## [Archives](archives/index.md)
