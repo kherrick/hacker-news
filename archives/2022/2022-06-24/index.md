@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
+* [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [Digital Trails: How Bungie Identified a Mass Sender of Fake DMCA Notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
 * [2022-06-24, 21:10:09](https://news.ycombinator.com/item?id=31869352) - [Online privacy: how to protect it for normal people](https://cyb3rsecurity.tips/p/-online-privacy-how-to-protect-it)
 * [2022-06-24, 20:27:01](https://news.ycombinator.com/item?id=31868872) - [At the Bored Ape restaurant, your ApeCoin is no good now](https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars)
 * [2022-06-24, 20:19:55](https://news.ycombinator.com/item?id=31868775) - [Confidence in U.S. Supreme Court Sinks to Historic Low](https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx)

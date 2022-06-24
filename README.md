@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-24, 21:10:09](https://news.ycombinator.com/item?id=31869352) - [Online privacy: how to protect it for normal people](https://cyb3rsecurity.tips/p/-online-privacy-how-to-protect-it)
+* [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
+* [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [Digital Trails: How Bungie Identified a Mass Sender of Fake DMCA Notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
 * [2022-06-24, 20:27:01](https://news.ycombinator.com/item?id=31868872) - [At the Bored Ape restaurant, your ApeCoin is no good now](https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars)
 * [2022-06-24, 19:48:49](https://news.ycombinator.com/item?id=31868394) - [How to make a complete map of every thought you think (2003)](https://users.speakeasy.net/~lion/nb/html/)
 * [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
@@ -21,7 +22,6 @@
 * [2022-06-24, 15:02:45](https://news.ycombinator.com/item?id=31863243) - [Raindrop: All-in-One Bookmark Manager](https://raindrop.io/)
 * [2022-06-24, 14:52:11](https://news.ycombinator.com/item?id=31862994) - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 * [2022-06-24, 14:05:41](https://news.ycombinator.com/item?id=31862026) - [Five planets are lining up in the sky in June and will peak tonight](https://www.cbsnews.com/news/planets-align-2022-five-mercury-venus-mars-jupiter-saturn-2022-06-24/)
-* [2022-06-24, 10:32:30](https://news.ycombinator.com/item?id=31859850) - [Why Most Strategies Lack Clarity](https://cutlefish.substack.com/p/tbm-27b52-why-most-strategies-lack)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460k city residents’ personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
