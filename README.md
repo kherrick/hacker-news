@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
-* [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [Digital Trails: How Bungie Identified a Mass Sender of Fake DMCA Notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
-* [2022-06-24, 20:27:01](https://news.ycombinator.com/item?id=31868872) - [At the Bored Ape restaurant, your ApeCoin is no good now](https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars)
+* [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
 * [2022-06-24, 19:48:49](https://news.ycombinator.com/item?id=31868394) - [How to make a complete map of every thought you think (2003)](https://users.speakeasy.net/~lion/nb/html/)
 * [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:07:50](https://news.ycombinator.com/item?id=31867839) - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
@@ -26,6 +25,7 @@
 * [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
+* [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
 * [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
 * [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)
