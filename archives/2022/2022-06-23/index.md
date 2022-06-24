@@ -47,6 +47,7 @@
 * [2022-06-23, 12:44:10](https://news.ycombinator.com/item?id=31848253) - [Minneapolis built 76 miles of bike lanes, cycling increased 69%](https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:40:25](https://news.ycombinator.com/item?id=31848201) - [Stockfish vs. ChessBase for GPLv3 violation: court hearing soon](https://stockfishchess.org/blog/2022/public-court-hearing-soon/)
+* [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2022-06-23, 12:12:36](https://news.ycombinator.com/item?id=31847931) - [Should GitHub Be Sued for Training Copilot on GPL Code?](https://fosspost.org/github-copilot/)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
