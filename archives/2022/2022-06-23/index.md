@@ -17,6 +17,7 @@
 * [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 18:49:20](https://news.ycombinator.com/item?id=31853546) - [Six things I do every time I start a Django project](https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/)
 * [2022-06-23, 18:26:33](https://news.ycombinator.com/item?id=31853248) - [About Last Week’s Announcement](https://www.brex.com/journal/last-weeks-announcement/)
+* [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit Boards Are Weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
 * [2022-06-23, 17:34:04](https://news.ycombinator.com/item?id=31852480) - [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 * [2022-06-23, 17:26:03](https://news.ycombinator.com/item?id=31852369) - [Contactless Silent Speech Recognition Using IR-UWB Radar](https://pubmed.ncbi.nlm.nih.gov/27801867/)
