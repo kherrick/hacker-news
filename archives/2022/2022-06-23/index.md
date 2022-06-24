@@ -58,6 +58,7 @@
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 08:46:04](https://news.ycombinator.com/item?id=31846529) - [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
 * [2022-06-23, 08:20:29](https://news.ycombinator.com/item?id=31846389) - [Street Epistemology](https://streetepistemology.com/)
+* [2022-06-23, 08:01:46](https://news.ycombinator.com/item?id=31846284) - [Fighting JPEG color banding, or how to compress JPEG even more without artifacts](https://uploadcare.com/blog/fighting-jpeg-color-banding/)
 * [2022-06-23, 07:54:29](https://news.ycombinator.com/item?id=31846243) - [Answering Questions about the PetaPi](https://www.jeffgeerling.com/blog/2022/answering-questions-about-petapi)
 * [2022-06-23, 07:52:51](https://news.ycombinator.com/item?id=31846237) - [The Neil story (with additional footnote)](https://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html)
 * [2022-06-23, 07:40:30](https://news.ycombinator.com/item?id=31846174) - [Trucks, tubes and truth – event-driven systems](https://xtdb.com/blog/trucks-tubes-truth/)
