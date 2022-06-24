@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-24, 06:43:41](https://news.ycombinator.com/item?id=31858478) - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+* [2022-06-24, 06:39:52](https://news.ycombinator.com/item?id=31858460) - [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
 * [2022-06-24, 06:32:57](https://news.ycombinator.com/item?id=31858413) - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
 * [2022-06-24, 06:00:22](https://news.ycombinator.com/item?id=31858261) - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
 * [2022-06-24, 05:20:27](https://news.ycombinator.com/item?id=31858063) - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
@@ -18,7 +19,6 @@
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 * [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
 * [2022-06-23, 16:36:59](https://news.ycombinator.com/item?id=31851572) - [Unexpected solar weather is accelerating satellites' orbital decay](https://www.space.com/satellites-falling-off-sky-solar-weather)
-* [2022-06-23, 16:08:08](https://news.ycombinator.com/item?id=31851110) - [The curious tale of a fake Carrier.app](https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
 * [2022-06-23, 10:27:20](https://news.ycombinator.com/item?id=31847160) - [Small actions make great leaders](https://hbr.org/2022/06/small-actions-make-great-leaders)
 * [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)

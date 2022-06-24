@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
 * [2022-06-24, 06:43:41](https://news.ycombinator.com/item?id=31858478) - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
+* [2022-06-24, 06:39:52](https://news.ycombinator.com/item?id=31858460) - [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
 * [2022-06-24, 06:32:57](https://news.ycombinator.com/item?id=31858413) - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
 * [2022-06-24, 06:00:22](https://news.ycombinator.com/item?id=31858261) - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
 * [2022-06-24, 05:20:27](https://news.ycombinator.com/item?id=31858063) - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
