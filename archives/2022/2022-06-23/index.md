@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-23](index.md)
 
+* [2022-06-23, 23:58:09](https://news.ycombinator.com/item?id=31856512) - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
+* [2022-06-23, 23:45:09](https://news.ycombinator.com/item?id=31856444) - [Deadbolt Locks Offer False Sense of Security (2014)](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
 * [2022-06-23, 22:46:21](https://news.ycombinator.com/item?id=31856029) - [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
 * [2022-06-23, 22:10:24](https://news.ycombinator.com/item?id=31855732) - [Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to](https://www.nerdcrawler.com/)
 * [2022-06-23, 21:26:41](https://news.ycombinator.com/item?id=31855357) - [Ferrari installed a 1MW fuel cell unit to expedite carbon neutrality](https://newsotg.com/2022/06/23/latest-news/ferrari-installed-a-1mw-fuel-cell-unit-to-expedite-carbon-neutrality/)
@@ -55,6 +57,7 @@
 * [2022-06-23, 08:48:46](https://news.ycombinator.com/item?id=31846543) - [Copilot just sells code other people wrote](https://twitter.com/ReinH/status/1539626662274269185)
 * [2022-06-23, 08:46:04](https://news.ycombinator.com/item?id=31846529) - [Vaccine-derived poliovirus type 2 detected in London, UK](https://www.who.int/news/item/22-06-2022-vaccine-derived-poliovirus-type-2-(vdpv2)-detected-in-environmental-samples-in-london--uk)
 * [2022-06-23, 08:20:29](https://news.ycombinator.com/item?id=31846389) - [Street Epistemology](https://streetepistemology.com/)
+* [2022-06-23, 07:54:29](https://news.ycombinator.com/item?id=31846243) - [Answering Questions about the PetaPi](https://www.jeffgeerling.com/blog/2022/answering-questions-about-petapi)
 * [2022-06-23, 07:52:51](https://news.ycombinator.com/item?id=31846237) - [The Neil story (with additional footnote)](https://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 07:00:09](https://news.ycombinator.com/item?id=31845968) - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
