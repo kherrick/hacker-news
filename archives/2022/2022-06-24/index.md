@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 13:59:57](https://news.ycombinator.com/item?id=31861910) - [AI Sentience Is (Obviously) Not the Real Issue](https://mailchi.mp/datasociety/real-humans-on-twitter-not-so-magic-algorithms-the-datafied-state-part-three-1318441?e=03b5015f1c)
 * [2022-06-24, 13:43:36](https://news.ycombinator.com/item?id=31861672) - [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
 * [2022-06-24, 13:38:32](https://news.ycombinator.com/item?id=31861606) - [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
+* [2022-06-24, 12:52:07](https://news.ycombinator.com/item?id=31860996) - [Glasgow City Council approves 4-day week on full pay](https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-four-day-week-24308348)
 * [2022-06-24, 12:50:00](https://news.ycombinator.com/item?id=31860969) - [Ask HN: Do You Use RSS?](https://news.ycombinator.com/item?id=31860969)
 * [2022-06-24, 12:46:02](https://news.ycombinator.com/item?id=31860927) - [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
 * [2022-06-24, 12:29:23](https://news.ycombinator.com/item?id=31860765) - [Help me help my deaf team mate](https://news.ycombinator.com/item?id=31860765)
 * [2022-06-24, 12:02:54](https://news.ycombinator.com/item?id=31860499) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2022-06-24, 12:01:43](https://news.ycombinator.com/item?id=31860489) - [Ask HN: What are you using to manage in your team the projects/features?](https://news.ycombinator.com/item?id=31860489)
+* [2022-06-24, 12:00:43](https://news.ycombinator.com/item?id=31860476) - [The Modern World](https://shkspr.mobi/blog/2022/06/the-modern-world/)
 * [2022-06-24, 11:50:39](https://news.ycombinator.com/item?id=31860398) - [What’s Up with Austin?](https://perell.com/essay/whats-up-with-austin/)
 * [2022-06-24, 11:20:34](https://news.ycombinator.com/item?id=31860158) - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
