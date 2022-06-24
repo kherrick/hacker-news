@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 22:41:21](https://news.ycombinator.com/item?id=31870422) - [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
 * [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
 * [2022-06-24, 19:48:49](https://news.ycombinator.com/item?id=31868394) - [How to make a complete map of every thought you think (2003)](https://users.speakeasy.net/~lion/nb/html/)
@@ -12,7 +13,6 @@
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport (YC W14) is hiring software engineers](https://flexport.com/careers)
-* [2022-06-24, 16:38:56](https://news.ycombinator.com/item?id=31865238) - [Speeding up this site by 50x (2014)](https://danluu.com/octopress-speedup/)
 * [2022-06-24, 16:27:08](https://news.ycombinator.com/item?id=31864974) - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
