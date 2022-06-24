@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-24, 16:27:08",
+      "https://news.ycombinator.com/item?id=31864974"
+    ],
+    [
+      "Hardening macOS",
+      "https://www.bejarano.io/hardening-macos/"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 15:54:08",
+      "https://news.ycombinator.com/item?id=31864209"
+    ],
+    [
+      "BrachioGraph – the cheapest, simplest possible pen-plotter",
+      "https://www.brachiograph.art/index.html"
+    ]
+  ],
+  [
+    [
       "2022-06-24, 15:42:51",
       "https://news.ycombinator.com/item?id=31863966"
     ],
@@ -11,12 +31,42 @@
   ],
   [
     [
+      "2022-06-24, 15:39:37",
+      "https://news.ycombinator.com/item?id=31863910"
+    ],
+    [
+      "Motorola 6800",
+      "https://en.wikipedia.org/wiki/Motorola_6800"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 15:20:02",
+      "https://news.ycombinator.com/item?id=31863628"
+    ],
+    [
+      "What's New in CoreML",
+      "https://quindarius.com/articles/whats-new-in-coreml/index.html"
+    ]
+  ],
+  [
+    [
       "2022-06-24, 15:03:59",
       "https://news.ycombinator.com/item?id=31863269"
     ],
     [
       "Build a PinePhone App with Zig and Zgt",
       "https://lupyuen.github.io/articles/pinephone"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 15:02:45",
+      "https://news.ycombinator.com/item?id=31863243"
+    ],
+    [
+      "Raindrop: All-in-One Bookmark Manager",
+      "https://raindrop.io/"
     ]
   ],
   [
@@ -46,7 +96,17 @@
     ],
     [
       "Supreme Court Overturns Roe vs. Wade",
-      "https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court"
+      "https://apnews.com/article/abortion-supreme-court-decision-854f60302f21c2c35129e58cf8d8a7b0"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 14:05:41",
+      "https://news.ycombinator.com/item?id=31862026"
+    ],
+    [
+      "Five planets are lining up in the sky in June and will peak tonight",
+      "https://www.cbsnews.com/news/planets-align-2022-five-mercury-venus-mars-jupiter-saturn-2022-06-24/"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2022-06-24, 12:46:02",
-      "https://news.ycombinator.com/item?id=31860927"
-    ],
-    [
-      "Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit",
-      "https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 12:29:23",
       "https://news.ycombinator.com/item?id=31860765"
     ],
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2022-06-24, 11:17:31",
-      "https://news.ycombinator.com/item?id=31860131"
-    ],
-    [
-      "Tell HN: Brother printers now locking out non-OEM paraphernalia",
-      "https://news.ycombinator.com/item?id=31860131"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 10:25:21",
       "https://news.ycombinator.com/item?id=31859806"
     ],
@@ -121,32 +161,22 @@
   ],
   [
     [
-      "2022-06-24, 09:55:23",
-      "https://news.ycombinator.com/item?id=31859653"
-    ],
-    [
-      "A Random Distribution of Wealth (2017)",
-      "https://www.masswerk.at/misc/wealth/2.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 09:51:22",
-      "https://news.ycombinator.com/item?id=31859624"
-    ],
-    [
-      "Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure",
-      "https://opsflow.app/"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 08:20:39",
       "https://news.ycombinator.com/item?id=31859020"
     ],
     [
       "Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)",
       "https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 08:02:58",
+      "https://news.ycombinator.com/item?id=31858924"
+    ],
+    [
+      "Not future-proofing",
+      "https://kk.org/thetechnium/not-future-proofing/"
     ]
   ],
   [
@@ -167,16 +197,6 @@
     [
       "What it feels like when Rust saves your bacon",
       "https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 06:39:52",
-      "https://news.ycombinator.com/item?id=31858460"
-    ],
-    [
-      "Tell HN: Coinbase now requires physical address of recipient in crypto transfers",
-      "https://news.ycombinator.com/item?id=31858460"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-06-23, 17:27:09",
-      "https://news.ycombinator.com/item?id=31852384"
-    ],
-    [
-      "Italian watchdog bans use of Google Analytics",
-      "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 12:38:36",
       "https://news.ycombinator.com/item?id=31848178"
     ],
@@ -247,16 +257,6 @@
     [
       "A Guide to Smartphone Astrophotography [pdf]",
       "https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 08:01:46",
-      "https://news.ycombinator.com/item?id=31846284"
-    ],
-    [
-      "Fighting JPEG color banding",
-      "https://uploadcare.com/blog/fighting-jpeg-color-banding/"
     ]
   ],
   [
