@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-06-24, 15:03:59",
+      "https://news.ycombinator.com/item?id=31863269"
+    ],
+    [
+      "Build a PinePhone App with Zig and Zgt",
+      "https://lupyuen.github.io/articles/pinephone"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 14:52:11",
+      "https://news.ycombinator.com/item?id=31862994"
+    ],
+    [
+      "SMS phishing is way too easy",
+      "https://www.bejarano.io/sms-phishing/"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 14:31:16",
+      "https://news.ycombinator.com/item?id=31862498"
+    ],
+    [
+      "Liberty wins landmark Snoopers’ Charter case",
+      "https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/"
+    ]
+  ],
+  [
+    [
       "2022-06-24, 14:18:37",
       "https://news.ycombinator.com/item?id=31862258"
     ],
     [
       "Supreme Court Overturns Roe vs. Wade",
       "https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 13:59:57",
-      "https://news.ycombinator.com/item?id=31861910"
-    ],
-    [
-      "AI Sentience Is (Obviously) Not the Real Issue",
-      "https://mailchi.mp/datasociety/real-humans-on-twitter-not-so-magic-algorithms-the-datafied-state-part-three-1318441?e=03b5015f1c"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Ask HN: What are you using to manage in your team the projects/features?",
       "https://news.ycombinator.com/item?id=31860489"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 12:00:43",
-      "https://news.ycombinator.com/item?id=31860476"
-    ],
-    [
-      "The Modern World",
-      "https://shkspr.mobi/blog/2022/06/the-modern-world/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-06-24, 06:32:57",
-      "https://news.ycombinator.com/item?id=31858413"
-    ],
-    [
-      "Apple is not defending browser engine choice",
-      "https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 06:00:22",
       "https://news.ycombinator.com/item?id=31858261"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-06-23, 11:40:45",
+      "https://news.ycombinator.com/item?id=31847675"
+    ],
+    [
+      "The Rise and Fall of Neumorphism",
+      "https://webflow.com/blog/neumorphism"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 11:11:02",
       "https://news.ycombinator.com/item?id=31847457"
     ],
@@ -287,16 +297,6 @@
     [
       "LMN 3, an open source DAW in a box [video]",
       "https://www.youtube.com/watch?v=h5UmPTttN1s"
-    ]
-  ],
-  [
-    [
-      "2022-06-21, 12:02:42",
-      "https://news.ycombinator.com/item?id=31822891"
-    ],
-    [
-      "Strange Attractors: Creating Patterns in Chaos",
-      "https://sprott.physics.wisc.edu/SA.HTM"
     ]
   ]
 ]
