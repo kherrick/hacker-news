@@ -44,6 +44,7 @@
 * [2022-06-23, 13:48:44](https://news.ycombinator.com/item?id=31849082) - [Detention of Mark Bernstein](https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein)
 * [2022-06-23, 13:12:30](https://news.ycombinator.com/item?id=31848594) - [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
+* [2022-06-23, 13:00:27](https://news.ycombinator.com/item?id=31848440) - [Suzieq – Healthier Networks Through Network Observability](https://github.com/netenglabs/suzieq)
 * [2022-06-23, 12:44:10](https://news.ycombinator.com/item?id=31848253) - [Minneapolis built 76 miles of bike lanes, cycling increased 69%](https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/)
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:40:25](https://news.ycombinator.com/item?id=31848201) - [Stockfish vs. ChessBase for GPLv3 violation: court hearing soon](https://stockfishchess.org/blog/2022/public-court-hearing-soon/)
