@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-24, 06:43:41",
+      "https://news.ycombinator.com/item?id=31858478"
+    ],
+    [
+      "What it feels like when Rust saves your bacon",
+      "https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 06:32:57",
+      "https://news.ycombinator.com/item?id=31858413"
+    ],
+    [
+      "Apple Is Not Defending Browser Engine Choice",
+      "https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/"
+    ]
+  ],
+  [
+    [
       "2022-06-24, 06:00:22",
       "https://news.ycombinator.com/item?id=31858261"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31857244"
     ],
     [
-      "FTC to Crack Down on Companies That Illegally Surveil Children Learning Online",
+      "FTC to crack down on companies that illegally surveil children learning online",
       "https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process",
       "https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 22:10:24",
-      "https://news.ycombinator.com/item?id=31855732"
-    ],
-    [
-      "Show HN: Nerd Crawler – monitoring original comic art sites so you don't have to",
-      "https://www.nerdcrawler.com/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Italian watchdog bans use of Google Analytics",
       "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 17:25:09",
-      "https://news.ycombinator.com/item?id=31852352"
-    ],
-    [
-      "LinkedDataHub: The Knowledge Graph Notebook",
-      "https://github.com/AtomGraph/LinkedDataHub"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31834633"
     ],
     [
-      "Study (n=700k) finds children with myopia experience higher levels of depression",
+      "Meta-analysis finds children with myopia experience higher levels of depression",
       "https://oa.mg/blog/meta-analysis-n-700000-finds-that-children-with-myopia-experience-higher-levels-of-depression-and-anxiety/"
     ]
   ],
