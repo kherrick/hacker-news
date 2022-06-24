@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 12:02:54](https://news.ycombinator.com/item?id=31860499) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2022-06-24, 11:20:34](https://news.ycombinator.com/item?id=31860158) - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)

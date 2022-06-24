@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 12:02:54](https://news.ycombinator.com/item?id=31860499) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
 * [2022-06-24, 11:20:34](https://news.ycombinator.com/item?id=31860158) - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
@@ -18,7 +19,6 @@
 * [2022-06-23, 21:06:53](https://news.ycombinator.com/item?id=31855163) - [The dangerous playgrounds of 1900s through vintage photographs](https://rarehistoricalphotos.com/dangerous-playgrounds-1900s/)
 * [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
-* [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2022-06-23, 10:27:20](https://news.ycombinator.com/item?id=31847160) - [Small actions make great leaders](https://hbr.org/2022/06/small-actions-make-great-leaders)
