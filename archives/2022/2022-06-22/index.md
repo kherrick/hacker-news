@@ -26,6 +26,7 @@
 * [2022-06-22, 17:37:35](https://news.ycombinator.com/item?id=31839193) - [Pathways Autoregressive Text-to-Image Model (Parti)](https://parti.research.google/)
 * [2022-06-22, 17:07:15](https://news.ycombinator.com/item?id=31838764) - [Launch HN: Astro (YC W21) – Build your own dev teams in Latin America](https://news.ycombinator.com/item?id=31838764)
 * [2022-06-22, 17:02:37](https://news.ycombinator.com/item?id=31838690) - [Designing Billions of Circuits with Code](https://asianometry.substack.com/p/designing-billions-of-circuits-with)
+* [2022-06-22, 16:43:01](https://news.ycombinator.com/item?id=31838368) - [The Keys to the Kingdom](https://cacm.acm.org/magazines/2022/7/262078-the-keys-to-the-kingdom/fulltext)
 * [2022-06-22, 16:21:42](https://news.ycombinator.com/item?id=31838049) - [Twitter Notes](https://twitter.com/TwitterWrite/status/1539640956915290112)
 * [2022-06-22, 16:18:02](https://news.ycombinator.com/item?id=31837996) - [Mapping the World of Package Management](https://enigma.com/blog/post/mapping-the-world-of-package-management)
 * [2022-06-22, 16:16:57](https://news.ycombinator.com/item?id=31837986) - [Goggles (beta) is now available in Brave Search](https://github.com/brave/goggles-quickstart)
