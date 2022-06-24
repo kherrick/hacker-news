@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-06-23, 17:34:04",
-      "https://news.ycombinator.com/item?id=31852480"
-    ],
-    [
-      "Fuzzing rust-minidump for Embarrassment and Crashes – Part 2",
-      "https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 17:27:09",
       "https://news.ycombinator.com/item?id=31852384"
     ],
@@ -207,6 +197,16 @@
     [
       "Start all of your commands with a comma (2009)",
       "https://rhodesmill.org/brandon/2009/commands-with-comma/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 08:01:46",
+      "https://news.ycombinator.com/item?id=31846284"
+    ],
+    [
+      "Fighting JPEG color banding, or how to compress JPEG even more without artifacts",
+      "https://uploadcare.com/blog/fighting-jpeg-color-banding/"
     ]
   ],
   [
