@@ -34,6 +34,7 @@
 * [2022-06-24, 14:31:16](https://news.ycombinator.com/item?id=31862498) - [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
 * [2022-06-24, 14:18:37](https://news.ycombinator.com/item?id=31862258) - [Supreme Court Overturns Roe vs. Wade](https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court)
 * [2022-06-24, 14:18:37](https://news.ycombinator.com/item?id=31862258) - [Supreme Court Overturns Roe vs. Wade](https://apnews.com/article/abortion-supreme-court-decision-854f60302f21c2c35129e58cf8d8a7b0)
+* [2022-06-24, 14:11:10](https://news.ycombinator.com/item?id=31862121) - [How to avoid being a secretary for engineers](https://idratherbewriting.com/2018/11/19/avoid-being-secretary-for-engineers/)
 * [2022-06-24, 14:05:41](https://news.ycombinator.com/item?id=31862026) - [Five planets are lining up in the sky in June and will peak tonight](https://www.cbsnews.com/news/planets-align-2022-five-mercury-venus-mars-jupiter-saturn-2022-06-24/)
 * [2022-06-24, 13:59:57](https://news.ycombinator.com/item?id=31861910) - [AI Sentience Is (Obviously) Not the Real Issue](https://mailchi.mp/datasociety/real-humans-on-twitter-not-so-magic-algorithms-the-datafied-state-part-three-1318441?e=03b5015f1c)
 * [2022-06-24, 13:43:36](https://news.ycombinator.com/item?id=31861672) - [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
