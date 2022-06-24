@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-06-24, 12:00:43",
-      "https://news.ycombinator.com/item?id=31860476"
-    ],
-    [
-      "The Modern World",
-      "https://shkspr.mobi/blog/2022/06/the-modern-world/"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 11:17:31",
       "https://news.ycombinator.com/item?id=31860131"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31859806"
     ],
     [
-      "Lost USB with 460,000 city residents' personal data found",
+      "Lost USB with 460k city residents’ personal data found",
       "https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/"
     ]
   ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=31846284"
     ],
     [
-      "Fighting JPEG color banding, or how to compress JPEG even more without artifacts",
+      "Fighting JPEG color banding",
       "https://uploadcare.com/blog/fighting-jpeg-color-banding/"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 04:27:09",
+      "https://news.ycombinator.com/item?id=31845144"
+    ],
+    [
+      "Mental Model: Difficult Problems vs. Hard Work",
+      "https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/"
     ]
   ],
   [
