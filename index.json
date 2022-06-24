@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-24, 03:11:22",
+      "https://news.ycombinator.com/item?id=31857384"
+    ],
+    [
+      "Rare ‘triple’ La Niña climate event looks likely – what does the future hold?",
+      "https://www.nature.com/articles/d41586-022-01668-1"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 01:54:50",
+      "https://news.ycombinator.com/item?id=31857069"
+    ],
+    [
+      "How We built a $1M ARR open source SaaS",
+      "https://plausible.io/blog/open-source-saas"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 01:53:40",
+      "https://news.ycombinator.com/item?id=31857062"
+    ],
+    [
+      "Netflix lays off 300 more people – almost 3% of its staff",
+      "https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 23:58:09",
       "https://news.ycombinator.com/item?id=31856512"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31856444"
     ],
     [
-      "Deadbolt Locks Offer False Sense of Security (2014)",
+      "Deadbolt locks offer false sense of security (2014)",
       "http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/"
     ]
   ],
@@ -41,11 +71,21 @@
   ],
   [
     [
+      "2022-06-23, 21:06:53",
+      "https://news.ycombinator.com/item?id=31855163"
+    ],
+    [
+      "The dangerous playgrounds of 1900s through vintage photographs",
+      "https://rarehistoricalphotos.com/dangerous-playgrounds-1900s/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 20:28:56",
       "https://news.ycombinator.com/item?id=31854738"
     ],
     [
-      "Advice for Academic Refugees",
+      "Advice for academic refugees",
       "https://eigenrobot.substack.com/p/advice-for-academic-refugees"
     ]
   ],
@@ -171,51 +211,11 @@
   ],
   [
     [
-      "2022-06-23, 14:45:32",
-      "https://news.ycombinator.com/item?id=31849819"
-    ],
-    [
-      "How Imagen Works",
-      "https://www.assemblyai.com/blog/how-imagen-actually-works/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 14:20:13",
-      "https://news.ycombinator.com/item?id=31849488"
-    ],
-    [
-      "Hardening the registers: A cascading failure of edge induced fault tolerance",
-      "https://tech.target.com/blog/hardening-the-registers"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 14:18:13",
-      "https://news.ycombinator.com/item?id=31849468"
-    ],
-    [
-      "How we built Hydrogen, a React framework for building custom storefronts",
-      "https://shopify.engineering/how-we-built-hydrogen"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 12:40:54",
-      "https://news.ycombinator.com/item?id=31848210"
-    ],
-    [
-      "Ask HN: Does anybody still use bookmarking services?",
-      "https://news.ycombinator.com/item?id=31848210"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 10:27:20",
       "https://news.ycombinator.com/item?id=31847160"
     ],
     [
-      "Small Actions Make Great Leaders",
+      "Small actions make great leaders",
       "https://hbr.org/2022/06/small-actions-make-great-leaders"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-06-23, 06:45:14",
+      "https://news.ycombinator.com/item?id=31845877"
+    ],
+    [
+      "Making an Accurate Sleep() Function",
+      "https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 06:10:53",
       "https://news.ycombinator.com/item?id=31845699"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-06-23, 05:55:49",
-      "https://news.ycombinator.com/item?id=31845617"
+      "2022-06-23, 01:42:19",
+      "https://news.ycombinator.com/item?id=31844204"
     ],
     [
-      "OpenWRT based travel router on APU2D4 (2019)",
-      "https://teklager.se/en/knowledge-base/openwrt-based-travel-router-apu2d4/"
+      "Contextuality: a lesser-known but equally magical aspect of quantum mechanics",
+      "https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=31834300"
     ],
     [
-      "Mega Attack Explainer",
+      "MEGA Attack Explainer",
       "https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-22, 05:26:21",
-      "https://news.ycombinator.com/item?id=31832362"
-    ],
-    [
-      "Observations on 6 Years of Journaling",
-      "https://herman.bearblog.dev/years-of-journaling/"
     ]
   ]
 ]
