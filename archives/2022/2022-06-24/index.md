@@ -7,6 +7,7 @@
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to Find Great Practice Systems Design Questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
 * [2022-06-24, 18:25:57](https://news.ycombinator.com/item?id=31867162) - [The State of Global Learning Poverty: 2022 Update [pdf]](https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf)
+* [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)

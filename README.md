@@ -3,6 +3,7 @@
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to Find Great Practice Systems Design Questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
 * [2022-06-24, 18:25:57](https://news.ycombinator.com/item?id=31867162) - [The State of Global Learning Poverty: 2022 Update [pdf]](https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf)
+* [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport (YC W14) is hiring software engineers](https://flexport.com/careers)
@@ -28,7 +29,6 @@
 * [2022-06-23, 11:40:45](https://news.ycombinator.com/item?id=31847675) - [The Rise and Fall of Neumorphism](https://webflow.com/blog/neumorphism)
 * [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
 * [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)
-* [2022-06-22, 16:43:01](https://news.ycombinator.com/item?id=31838368) - [The Keys to the Kingdom](https://cacm.acm.org/magazines/2022/7/262078-the-keys-to-the-kingdom/fulltext)
 * [2022-06-22, 04:13:09](https://news.ycombinator.com/item?id=31831949) - [LMN 3, an open source DAW in a box [video]](https://www.youtube.com/watch?v=h5UmPTttN1s)
 
 ## [Archives](archives/index.md)
