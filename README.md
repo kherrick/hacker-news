@@ -24,10 +24,10 @@
 * [2022-06-23, 10:27:20](https://news.ycombinator.com/item?id=31847160) - [Small actions make great leaders](https://hbr.org/2022/06/small-actions-make-great-leaders)
 * [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 07:54:29](https://news.ycombinator.com/item?id=31846243) - [Answering Questions about the PetaPi](https://www.jeffgeerling.com/blog/2022/answering-questions-about-petapi)
-* [2022-06-23, 06:47:39](https://news.ycombinator.com/item?id=31845898) - [Timeline of “foundational” advances in homotopy theory?](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory)
 * [2022-06-23, 06:45:14](https://news.ycombinator.com/item?id=31845877) - [Making an Accurate Sleep() Function](https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/)
 * [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
 * [2022-06-23, 01:42:19](https://news.ycombinator.com/item?id=31844204) - [Contextuality: a lesser-known but equally magical aspect of quantum mechanics](https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/)
+* [2022-06-22, 20:39:59](https://news.ycombinator.com/item?id=31841590) - [When Antlers Tangle, Sometimes Both Animals Lose](https://www.nytimes.com/2022/06/21/science/locked-horns-antlers-deer-elk.html)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
 * [2022-06-22, 10:50:16](https://news.ycombinator.com/item?id=31834300) - [MEGA Attack Explainer](https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html)
 
