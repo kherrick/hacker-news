@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
 * [2022-06-24, 12:02:54](https://news.ycombinator.com/item?id=31860499) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
+* [2022-06-24, 12:01:43](https://news.ycombinator.com/item?id=31860489) - [Ask HN: What are you using to manage in your team the projects/features?](https://news.ycombinator.com/item?id=31860489)
+* [2022-06-24, 11:50:39](https://news.ycombinator.com/item?id=31860398) - [What’s Up with Austin?](https://perell.com/essay/whats-up-with-austin/)
 * [2022-06-24, 11:20:34](https://news.ycombinator.com/item?id=31860158) - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+* [2022-06-24, 11:03:15](https://news.ycombinator.com/item?id=31860047) - [Japanese man loses USB stick with entire city's personal details](https://www.bbc.com/news/world-asia-61921222)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)

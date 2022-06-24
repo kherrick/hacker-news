@@ -81,6 +81,7 @@
 * [2022-06-22, 06:03:47](https://news.ycombinator.com/item?id=31832564) - [GNU recutils – human readable, plain text databases](https://www.gnu.org/software/recutils/)
 * [2022-06-22, 05:26:21](https://news.ycombinator.com/item?id=31832362) - [Observations on 6 Years of Journaling](https://herman.bearblog.dev/years-of-journaling/)
 * [2022-06-22, 04:44:51](https://news.ycombinator.com/item?id=31832115) - [Ergo – modern IRC server written in Go](https://github.com/ergochat/ergo)
+* [2022-06-22, 04:13:09](https://news.ycombinator.com/item?id=31831949) - [LMN 3, an open source DAW in a box](https://www.youtube.com/watch?v=h5UmPTttN1s)
 * [2022-06-22, 03:36:12](https://news.ycombinator.com/item?id=31831762) - [Samsung expected to announce mass production of 3nm chip next week](https://en.yna.co.kr/view/AEN20220622002900320)
 * [2022-06-22, 03:12:22](https://news.ycombinator.com/item?id=31831623) - [Convex vs. Firebase](https://docs.convex.dev/understanding/convex-vs-firebase)
 * [2022-06-22, 02:55:27](https://news.ycombinator.com/item?id=31831532) - [Agnes Giberne's the Story of the Sun, Moon, and Stars (1898)](https://publicdomainreview.org/collection/story-of-sun-moon-stars/)
