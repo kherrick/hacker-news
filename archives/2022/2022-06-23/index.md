@@ -76,6 +76,7 @@
 * [2022-06-23, 05:55:49](https://news.ycombinator.com/item?id=31845617) - [OpenWRT based travel router on APU2D4 (2019)](https://teklager.se/en/knowledge-base/openwrt-based-travel-router-apu2d4/)
 * [2022-06-23, 05:20:27](https://news.ycombinator.com/item?id=31845423) - [React Native 0.69](https://reactnative.dev/blog/2022/06/21/version-069)
 * [2022-06-23, 04:34:58](https://news.ycombinator.com/item?id=31845194) - [Reiser4 FS: Ways Extra Rigor Can Consume Years of Your Life](https://web.stanford.edu/class/ee380/Abstracts/051026.html)
+* [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)
 * [2022-06-23, 03:07:17](https://news.ycombinator.com/item?id=31844744) - [Famines and Epidemics Trigger Wars](https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars)
 * [2022-06-23, 02:22:26](https://news.ycombinator.com/item?id=31844479) - [Random Ultima Online anecdote #2 – Horses inside players (2014)](https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/)
 * [2022-06-23, 02:11:23](https://news.ycombinator.com/item?id=31844406) - [U.S. plans trial of early detection blood tests for multiple cancers](https://www.science.org/content/article/complexities-are-staggering-u-s-plans-huge-trial-blood-tests-multiple-cancers)
