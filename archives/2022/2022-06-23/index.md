@@ -50,6 +50,7 @@
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2022-06-23, 12:12:36](https://news.ycombinator.com/item?id=31847931) - [Should GitHub Be Sued for Training Copilot on GPL Code?](https://fosspost.org/github-copilot/)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
+* [2022-06-23, 11:40:45](https://news.ycombinator.com/item?id=31847675) - [The Rise and Fall of Neumorphism](https://webflow.com/blog/neumorphism)
 * [2022-06-23, 11:29:03](https://news.ycombinator.com/item?id=31847594) - [Incremental Builds for Haskell with Bazel](https://www.tweag.io/blog/2022-06-23-haskell-module/)
 * [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
 * [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
