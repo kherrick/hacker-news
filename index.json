@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-23, 23:58:09",
+      "https://news.ycombinator.com/item?id=31856512"
+    ],
+    [
+      "A common trap for people entering programming jobs",
+      "https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 23:45:09",
+      "https://news.ycombinator.com/item?id=31856444"
+    ],
+    [
+      "Deadbolt Locks Offer False Sense of Security (2014)",
+      "http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/"
+    ]
+  ],
+  [
+    [
       "2022-06-23, 22:46:21",
       "https://news.ycombinator.com/item?id=31856029"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31855732"
     ],
     [
-      "Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to",
+      "Show HN: Nerd Crawler – monitoring original comic art sites so you don't have to",
       "https://www.nerdcrawler.com/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31853546"
     ],
     [
-      "Six things I do every time I start a Django project",
+      "Things I do every time I start a Django project",
       "https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-06-23, 14:43:33",
-      "https://news.ycombinator.com/item?id=31849787"
-    ],
-    [
-      "Diagram as Code",
-      "https://github.com/mingrammer/diagrams"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 14:20:13",
       "https://news.ycombinator.com/item?id=31849488"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-06-23, 12:01:06",
-      "https://news.ycombinator.com/item?id=31847844"
-    ],
-    [
-      "MDalgorithms (YC W17) Is Hiring Chief Marketing Officer",
-      "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer"
-    ]
-  ],
-  [
-    [
       "2022-06-23, 10:27:20",
       "https://news.ycombinator.com/item?id=31847160"
     ],
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2022-06-23, 09:00:26",
-      "https://news.ycombinator.com/item?id=31846593"
+      "2022-06-23, 07:54:29",
+      "https://news.ycombinator.com/item?id=31846243"
     ],
     [
-      "YaLM-100B: Pretrained language model with 100B parameters",
-      "https://github.com/yandex/YaLM-100B"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 07:01:25",
-      "https://news.ycombinator.com/item?id=31845971"
-    ],
-    [
-      "Ziggurats are temple platforms of ancient Mesopotamia",
-      "https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia"
+      "Answering Questions about the PetaPi",
+      "https://www.jeffgeerling.com/blog/2022/answering-questions-about-petapi"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "State Machines in Ruby: An Introduction",
       "https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-22, 10:50:16",
+      "https://news.ycombinator.com/item?id=31834300"
+    ],
+    [
+      "Mega Attack Explainer",
+      "https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html"
     ]
   ],
   [
