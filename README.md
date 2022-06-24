@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
 * [2022-06-24, 08:20:39](https://news.ycombinator.com/item?id=31859020) - [Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
 * [2022-06-24, 07:48:24](https://news.ycombinator.com/item?id=31858829) - [Mattermost – open-source platform for secure collaboration](https://github.com/mattermost/mattermost-server)
@@ -17,7 +18,6 @@
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
 * [2022-06-23, 19:26:26](https://news.ycombinator.com/item?id=31854051) - [FTC action against Harley-Davidson and Westinghouse for limiting right to repair](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
-* [2022-06-23, 16:47:45](https://news.ycombinator.com/item?id=31851755) - [Whatever happened to SHA-256 support in Git?](https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/)
 * [2022-06-23, 15:25:37](https://news.ycombinator.com/item?id=31850439) - [Launch HN: Foster (YC W21) – Improve your writing with on-demand editing](https://www.foster.co/)
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2022-06-23, 10:27:20](https://news.ycombinator.com/item?id=31847160) - [Small actions make great leaders](https://hbr.org/2022/06/small-actions-make-great-leaders)
