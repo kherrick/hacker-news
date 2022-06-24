@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 14:18:37](https://news.ycombinator.com/item?id=31862258) - [Supreme Court Overturns Roe vs. Wade](https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court)
 * [2022-06-24, 13:59:57](https://news.ycombinator.com/item?id=31861910) - [AI Sentience Is (Obviously) Not the Real Issue](https://mailchi.mp/datasociety/real-humans-on-twitter-not-so-magic-algorithms-the-datafied-state-part-three-1318441?e=03b5015f1c)
 * [2022-06-24, 13:43:36](https://news.ycombinator.com/item?id=31861672) - [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
 * [2022-06-24, 13:38:32](https://news.ycombinator.com/item?id=31861606) - [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
@@ -22,7 +23,6 @@
 * [2022-06-24, 06:00:22](https://news.ycombinator.com/item?id=31858261) - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
 * [2022-06-24, 05:20:27](https://news.ycombinator.com/item?id=31858063) - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
 * [2022-06-24, 01:54:50](https://news.ycombinator.com/item?id=31857069) - [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
-* [2022-06-23, 23:58:09](https://news.ycombinator.com/item?id=31856512) - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
 * [2022-06-23, 17:27:09](https://news.ycombinator.com/item?id=31852384) - [Italian watchdog bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
