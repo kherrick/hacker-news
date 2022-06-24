@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 21:10:09](https://news.ycombinator.com/item?id=31869352) - [Online privacy: how to protect it for normal people](https://cyb3rsecurity.tips/p/-online-privacy-how-to-protect-it)
 * [2022-06-24, 20:27:01](https://news.ycombinator.com/item?id=31868872) - [At the Bored Ape restaurant, your ApeCoin is no good now](https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars)
 * [2022-06-24, 20:19:55](https://news.ycombinator.com/item?id=31868775) - [Confidence in U.S. Supreme Court Sinks to Historic Low](https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx)
 * [2022-06-24, 19:48:49](https://news.ycombinator.com/item?id=31868394) - [How to Make a Complete Map of Every Thought You Think (2003)](https://users.speakeasy.net/~lion/nb/html/)
@@ -50,6 +51,7 @@
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
+* [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
 * [2022-06-24, 08:20:39](https://news.ycombinator.com/item?id=31859020) - [Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
 * [2022-06-24, 08:02:58](https://news.ycombinator.com/item?id=31858924) - [Not future-proofing](https://kk.org/thetechnium/not-future-proofing/)
 * [2022-06-24, 07:48:24](https://news.ycombinator.com/item?id=31858829) - [Mattermost – open-source platform for secure collaboration](https://github.com/mattermost/mattermost-server)
