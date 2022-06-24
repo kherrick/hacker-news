@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+* [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+* [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
 * [2022-06-24, 08:20:39](https://news.ycombinator.com/item?id=31859020) - [Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
@@ -27,7 +28,6 @@
 * [2022-06-23, 07:40:30](https://news.ycombinator.com/item?id=31846174) - [Trucks, tubes and truth – event-driven systems](https://xtdb.com/blog/trucks-tubes-truth/)
 * [2022-06-23, 06:45:14](https://news.ycombinator.com/item?id=31845877) - [Making an Accurate Sleep() Function](https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/)
 * [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
-* [2022-06-22, 11:34:32](https://news.ycombinator.com/item?id=31834633) - [Meta-analysis finds children with myopia experience higher levels of depression](https://oa.mg/blog/meta-analysis-n-700000-finds-that-children-with-myopia-experience-higher-levels-of-depression-and-anxiety/)
 * [2022-06-22, 10:50:16](https://news.ycombinator.com/item?id=31834300) - [MEGA Attack Explainer](https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html)
 * [2022-06-21, 12:02:42](https://news.ycombinator.com/item?id=31822891) - [Strange Attractors: Creating Patterns in Chaos](https://sprott.physics.wisc.edu/SA.HTM)
 
