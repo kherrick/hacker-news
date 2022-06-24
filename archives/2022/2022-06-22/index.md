@@ -52,6 +52,7 @@
 * [2022-06-22, 12:18:27](https://news.ycombinator.com/item?id=31835060) - [Transition from Switch Will Be 'Significant Challenge,' Ex-Nintendo Head Says](https://www.cnet.com/tech/gaming/reggie-fils-aime-on-nintendos-past-and-video-gamings-future/)
 * [2022-06-22, 12:00:59](https://news.ycombinator.com/item?id=31834904) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-06-22, 12:00:25](https://news.ycombinator.com/item?id=31834895) - [Ask HN: Has anyone of you made any serious money selling Android apps?](https://news.ycombinator.com/item?id=31834895)
+* [2022-06-22, 11:34:32](https://news.ycombinator.com/item?id=31834633) - [Study (n=700k) finds children with myopia experience higher levels of depression](https://oa.mg/blog/meta-analysis-n-700000-finds-that-children-with-myopia-experience-higher-levels-of-depression-and-anxiety/)
 * [2022-06-22, 11:33:46](https://news.ycombinator.com/item?id=31834627) - [A lightning bolt would be worth only about a nickel](https://engineering.mit.edu/engage/ask-an-engineer/is-there-a-way-to-harness-electricity-from-lightning/)
 * [2022-06-22, 11:24:35](https://news.ycombinator.com/item?id=31834557) - [Corpse Flower Bloom](https://www.huntington.org/corpse-flower)
 * [2022-06-22, 11:21:03](https://news.ycombinator.com/item?id=31834532) - [10mbps over 1km on a single pair of wires](https://botblox.io/products/speblox-long)

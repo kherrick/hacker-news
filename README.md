@@ -6,7 +6,6 @@
 * [2022-06-23, 23:58:09](https://news.ycombinator.com/item?id=31856512) - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
 * [2022-06-23, 23:45:09](https://news.ycombinator.com/item?id=31856444) - [Deadbolt locks offer false sense of security (2014)](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
 * [2022-06-23, 22:46:21](https://news.ycombinator.com/item?id=31856029) - [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
-* [2022-06-23, 22:10:24](https://news.ycombinator.com/item?id=31855732) - [Show HN: Nerd Crawler – monitoring original comic art sites so you don't have to](https://www.nerdcrawler.com/)
 * [2022-06-23, 21:06:53](https://news.ycombinator.com/item?id=31855163) - [The dangerous playgrounds of 1900s through vintage photographs](https://rarehistoricalphotos.com/dangerous-playgrounds-1900s/)
 * [2022-06-23, 20:28:56](https://news.ycombinator.com/item?id=31854738) - [Advice for academic refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
@@ -28,6 +27,7 @@
 * [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
 * [2022-06-23, 01:42:19](https://news.ycombinator.com/item?id=31844204) - [Contextuality: a lesser-known but equally magical aspect of quantum mechanics](https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/)
 * [2022-06-22, 20:39:59](https://news.ycombinator.com/item?id=31841590) - [When Antlers Tangle, Sometimes Both Animals Lose](https://www.nytimes.com/2022/06/21/science/locked-horns-antlers-deer-elk.html)
+* [2022-06-22, 11:34:32](https://news.ycombinator.com/item?id=31834633) - [Study (n=700k) finds children with myopia experience higher levels of depression](https://oa.mg/blog/meta-analysis-n-700000-finds-that-children-with-myopia-experience-higher-levels-of-depression-and-anxiety/)
 * [2022-06-22, 11:06:47](https://news.ycombinator.com/item?id=31834418) - [State Machines in Ruby: An Introduction](https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html)
 * [2022-06-22, 10:50:16](https://news.ycombinator.com/item?id=31834300) - [MEGA Attack Explainer](https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html)
 
