@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-24, 18:26:46",
+      "https://news.ycombinator.com/item?id=31867179"
+    ],
+    [
+      "Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB",
+      "https://github.com/maxcountryman/warc-parquet"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 18:25:57",
+      "https://news.ycombinator.com/item?id=31867162"
+    ],
+    [
+      "The State of Global Learning Poverty: 2022 Update [pdf]",
+      "https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf"
+    ]
+  ],
+  [
+    [
       "2022-06-24, 17:55:11",
       "https://news.ycombinator.com/item?id=31866601"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-06-24, 08:20:39",
-      "https://news.ycombinator.com/item?id=31859020"
-    ],
-    [
-      "Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)",
-      "https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 08:02:58",
       "https://news.ycombinator.com/item?id=31858924"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2022-06-24, 06:39:52",
-      "https://news.ycombinator.com/item?id=31858460"
-    ],
-    [
-      "Tell HN: Coinbase now requires physical address of recipient in crypto transfers",
-      "https://news.ycombinator.com/item?id=31858460"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 05:20:27",
       "https://news.ycombinator.com/item?id=31858063"
     ],
     [
       "‘Anti-hunger’ molecule forms after exercise, scientists discover",
       "https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 17:57:12",
+      "https://news.ycombinator.com/item?id=31852813"
+    ],
+    [
+      "Nonprofit Boards Are Weird",
+      "https://www.cold-takes.com/nonprofit-boards-are-weird-2/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A Guide to Smartphone Astrophotography [pdf]",
       "https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 07:05:40",
-      "https://news.ycombinator.com/item?id=31845994"
-    ],
-    [
-      "Show HN: I developed a fast general purpose sorting algorithm",
-      "https://github.com/hackware1993/ChenSort"
     ]
   ],
   [
