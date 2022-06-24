@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 19:35:24](https://news.ycombinator.com/item?id=31868251) - [Neuronlike Memristors Could Superspeed 6G Wireless](https://spectrum.ieee.org/memristor-6g-switches)
+* [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:07:50](https://news.ycombinator.com/item?id=31867839) - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to Find Great Practice Systems Design Questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
@@ -22,10 +24,8 @@
 * [2022-06-24, 10:32:30](https://news.ycombinator.com/item?id=31859850) - [Why Most Strategies Lack Clarity](https://cutlefish.substack.com/p/tbm-27b52-why-most-strategies-lack)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460k city residents’ personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 08:02:58](https://news.ycombinator.com/item?id=31858924) - [Not future-proofing](https://kk.org/thetechnium/not-future-proofing/)
-* [2022-06-24, 06:43:41](https://news.ycombinator.com/item?id=31858478) - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
 * [2022-06-24, 05:20:27](https://news.ycombinator.com/item?id=31858063) - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit Boards Are Weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
-* [2022-06-23, 13:00:27](https://news.ycombinator.com/item?id=31848440) - [Suzieq – Healthier Networks Through Network Observability](https://github.com/netenglabs/suzieq)
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
 * [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)

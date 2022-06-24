@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 19:35:24](https://news.ycombinator.com/item?id=31868251) - [Neuronlike Memristors Could Superspeed 6G Wireless](https://spectrum.ieee.org/memristor-6g-switches)
+* [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:07:50](https://news.ycombinator.com/item?id=31867839) - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to Find Great Practice Systems Design Questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
