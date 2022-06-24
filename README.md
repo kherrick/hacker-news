@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-24, 12:50:00](https://news.ycombinator.com/item?id=31860969) - [Ask HN: Do You Use RSS?](https://news.ycombinator.com/item?id=31860969)
+* [2022-06-24, 13:43:36](https://news.ycombinator.com/item?id=31861672) - [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
+* [2022-06-24, 13:38:32](https://news.ycombinator.com/item?id=31861606) - [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
 * [2022-06-24, 12:46:02](https://news.ycombinator.com/item?id=31860927) - [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
 * [2022-06-24, 12:29:23](https://news.ycombinator.com/item?id=31860765) - [Help me help my deaf team mate](https://news.ycombinator.com/item?id=31860765)
 * [2022-06-24, 12:02:54](https://news.ycombinator.com/item?id=31860499) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
@@ -27,7 +28,6 @@
 * [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 08:01:46](https://news.ycombinator.com/item?id=31846284) - [Fighting JPEG color banding, or how to compress JPEG even more without artifacts](https://uploadcare.com/blog/fighting-jpeg-color-banding/)
 * [2022-06-22, 16:43:01](https://news.ycombinator.com/item?id=31838368) - [The Keys to the Kingdom](https://cacm.acm.org/magazines/2022/7/262078-the-keys-to-the-kingdom/fulltext)
-* [2022-06-22, 10:50:16](https://news.ycombinator.com/item?id=31834300) - [MEGA Attack Explainer](https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html)
 * [2022-06-22, 04:13:09](https://news.ycombinator.com/item?id=31831949) - [LMN 3, an open source DAW in a box [video]](https://www.youtube.com/watch?v=h5UmPTttN1s)
 * [2022-06-21, 12:02:42](https://news.ycombinator.com/item?id=31822891) - [Strange Attractors: Creating Patterns in Chaos](https://sprott.physics.wisc.edu/SA.HTM)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 13:43:36](https://news.ycombinator.com/item?id=31861672) - [Wearing flashy/status clothes makes people less likely to cooperate with you](https://digest.bps.org.uk/2022/06/13/showing-off-your-status-and-wealth-makes-you-seem-less-co-operative/)
+* [2022-06-24, 13:38:32](https://news.ycombinator.com/item?id=31861606) - [On the Dangers of Cryptocurrencies and the Uselessness of Blockchain](https://www.schneier.com/blog/archives/2022/06/on-the-dangers-of-cryptocurrencies-and-the-uselessness-of-blockchain.html)
 * [2022-06-24, 12:50:00](https://news.ycombinator.com/item?id=31860969) - [Ask HN: Do You Use RSS?](https://news.ycombinator.com/item?id=31860969)
 * [2022-06-24, 12:46:02](https://news.ycombinator.com/item?id=31860927) - [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
 * [2022-06-24, 12:29:23](https://news.ycombinator.com/item?id=31860765) - [Help me help my deaf team mate](https://news.ycombinator.com/item?id=31860765)
