@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-24, 03:11:22](https://news.ycombinator.com/item?id=31857384) - [Rare ‘triple’ La Niña climate event looks likely – what does the future hold?](https://www.nature.com/articles/d41586-022-01668-1)
+* [2022-06-24, 02:37:44](https://news.ycombinator.com/item?id=31857244) - [FTC to Crack Down on Companies That Illegally Surveil Children Learning Online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
 * [2022-06-24, 01:54:50](https://news.ycombinator.com/item?id=31857069) - [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
-* [2022-06-24, 01:53:40](https://news.ycombinator.com/item?id=31857062) - [Netflix lays off 300 more people – almost 3% of its staff](https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/)
 * [2022-06-23, 23:58:09](https://news.ycombinator.com/item?id=31856512) - [A common trap for people entering programming jobs](https://www.natemeyvis.com/a-common-trap-for-people-entering-programming-jobs.html)
 * [2022-06-23, 23:45:09](https://news.ycombinator.com/item?id=31856444) - [Deadbolt locks offer false sense of security (2014)](http://www.gaterslocksmith.com/blog/2014/02/01/deadbolt-locks-offer-false-sense-of-security/)
 * [2022-06-23, 22:46:21](https://news.ycombinator.com/item?id=31856029) - [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
