@@ -50,6 +50,7 @@
 * [2022-06-23, 12:40:54](https://news.ycombinator.com/item?id=31848210) - [Ask HN: Does anybody still use bookmarking services?](https://news.ycombinator.com/item?id=31848210)
 * [2022-06-23, 12:40:25](https://news.ycombinator.com/item?id=31848201) - [Stockfish vs. ChessBase for GPLv3 violation: court hearing soon](https://stockfishchess.org/blog/2022/public-court-hearing-soon/)
 * [2022-06-23, 12:38:36](https://news.ycombinator.com/item?id=31848178) - [OCaml Programming: Correct and Efficient and Beautiful](https://cs3110.github.io/textbook/cover.html)
+* [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
 * [2022-06-23, 12:12:36](https://news.ycombinator.com/item?id=31847931) - [Should GitHub Be Sued for Training Copilot on GPL Code?](https://fosspost.org/github-copilot/)
 * [2022-06-23, 12:01:06](https://news.ycombinator.com/item?id=31847844) - [MDalgorithms (YC W17) Is Hiring Chief Marketing Officer](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/nfNrF5S-chief-marketing-officer)
 * [2022-06-23, 11:40:45](https://news.ycombinator.com/item?id=31847675) - [The Rise and Fall of Neumorphism](https://webflow.com/blog/neumorphism)
