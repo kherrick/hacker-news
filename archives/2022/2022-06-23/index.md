@@ -60,6 +60,7 @@
 * [2022-06-23, 08:20:29](https://news.ycombinator.com/item?id=31846389) - [Street Epistemology](https://streetepistemology.com/)
 * [2022-06-23, 07:54:29](https://news.ycombinator.com/item?id=31846243) - [Answering Questions about the PetaPi](https://www.jeffgeerling.com/blog/2022/answering-questions-about-petapi)
 * [2022-06-23, 07:52:51](https://news.ycombinator.com/item?id=31846237) - [The Neil story (with additional footnote)](https://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html)
+* [2022-06-23, 07:40:30](https://news.ycombinator.com/item?id=31846174) - [Trucks, tubes and truth – event-driven systems](https://xtdb.com/blog/trucks-tubes-truth/)
 * [2022-06-23, 07:01:25](https://news.ycombinator.com/item?id=31845971) - [Ziggurats are temple platforms of ancient Mesopotamia](https://www.deseret.com/2013/6/17/20521225/ziggurats-are-temple-platforms-of-ancient-mesopotamia)
 * [2022-06-23, 07:00:09](https://news.ycombinator.com/item?id=31845968) - [New Tolkien book: The Fall of Númenor to be published](https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/)
 * [2022-06-23, 06:47:39](https://news.ycombinator.com/item?id=31845898) - [Timeline of “foundational” advances in homotopy theory?](https://mathoverflow.net/questions/424853/timeline-of-foundational-advances-in-homotopy-theory)
