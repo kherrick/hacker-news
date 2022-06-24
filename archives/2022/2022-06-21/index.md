@@ -62,6 +62,7 @@
 * [2022-06-21, 12:39:30](https://news.ycombinator.com/item?id=31823132) - [Cloudflare outage on June 21, 2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
 * [2022-06-21, 12:08:53](https://news.ycombinator.com/item?id=31822932) - [Ask HN: What do you use VMs for regularly?](https://news.ycombinator.com/item?id=31822932)
 * [2022-06-21, 12:06:09](https://news.ycombinator.com/item?id=31822914) - [Private equity groups that buy companies they own](https://www.ft.com/content/11549c33-b97d-468b-8990-e6fd64294f85?shareType=nongift)
+* [2022-06-21, 12:02:42](https://news.ycombinator.com/item?id=31822891) - [Strange Attractors: Creating Patterns in Chaos](https://sprott.physics.wisc.edu/SA.HTM)
 * [2022-06-21, 12:00:18](https://news.ycombinator.com/item?id=31822879) - [Pachyderm Is Hiring React Engineers to Build Reproducible Data-Centric Pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-06-21, 11:48:14](https://news.ycombinator.com/item?id=31822803) - [Modern phoenix: The bird brought back from extinction in Japan](https://phys.org/news/2022-06-modern-phoenix-bird-brought-extinction.html)
 * [2022-06-21, 11:47:48](https://news.ycombinator.com/item?id=31822800) - [“True” Damascus steel is not a “lost art”](https://www.reddit.com/r/history/comments/vdvtrh/a_widely_believed_history_myth_no_true_damascus/)
