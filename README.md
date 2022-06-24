@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
 * [2022-06-24, 08:20:39](https://news.ycombinator.com/item?id=31859020) - [Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
@@ -9,7 +10,6 @@
 * [2022-06-24, 06:32:57](https://news.ycombinator.com/item?id=31858413) - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
 * [2022-06-24, 06:00:22](https://news.ycombinator.com/item?id=31858261) - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
 * [2022-06-24, 05:20:27](https://news.ycombinator.com/item?id=31858063) - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
-* [2022-06-24, 03:11:22](https://news.ycombinator.com/item?id=31857384) - [Rare ‘triple’ La Niña climate event looks likely](https://www.nature.com/articles/d41586-022-01668-1)
 * [2022-06-24, 02:37:44](https://news.ycombinator.com/item?id=31857244) - [FTC to crack down on companies that illegally surveil children learning online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
 * [2022-06-24, 01:54:50](https://news.ycombinator.com/item?id=31857069) - [How We built a $1M ARR open source SaaS](https://plausible.io/blog/open-source-saas)
 * [2022-06-23, 22:46:21](https://news.ycombinator.com/item?id=31856029) - [Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process](https://harvardnsj.org/2022/06/dueling-over-dual_ec_drgb-the-consequences-of-corrupting-a-cryptographic-standardization-process/)
