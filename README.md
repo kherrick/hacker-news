@@ -26,9 +26,9 @@
 * [2022-06-23, 07:40:30](https://news.ycombinator.com/item?id=31846174) - [Trucks, tubes and truth – event-driven systems](https://xtdb.com/blog/trucks-tubes-truth/)
 * [2022-06-23, 06:45:14](https://news.ycombinator.com/item?id=31845877) - [Making an Accurate Sleep() Function](https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/)
 * [2022-06-23, 06:10:53](https://news.ycombinator.com/item?id=31845699) - [Schroedinger's streaming service just died](https://pluralistic.net/2022/06/21/early-adopters/#heads-i-win)
-* [2022-06-23, 01:42:19](https://news.ycombinator.com/item?id=31844204) - [Contextuality: a lesser-known but equally magical aspect of quantum mechanics](https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/)
 * [2022-06-22, 11:34:32](https://news.ycombinator.com/item?id=31834633) - [Meta-analysis finds children with myopia experience higher levels of depression](https://oa.mg/blog/meta-analysis-n-700000-finds-that-children-with-myopia-experience-higher-levels-of-depression-and-anxiety/)
 * [2022-06-22, 10:50:16](https://news.ycombinator.com/item?id=31834300) - [MEGA Attack Explainer](https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html)
+* [2022-06-21, 16:37:37](https://news.ycombinator.com/item?id=31825944) - [“The Falls”: A View from the Inside (2021)](https://georgesaunders.substack.com/p/the-falls)
 * [2022-06-21, 12:02:42](https://news.ycombinator.com/item?id=31822891) - [Strange Attractors: Creating Patterns in Chaos](https://sprott.physics.wisc.edu/SA.HTM)
 
 ## [Archives](archives/index.md)

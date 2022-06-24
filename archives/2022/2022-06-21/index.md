@@ -28,6 +28,7 @@
 * [2022-06-21, 17:01:20](https://news.ycombinator.com/item?id=31826318) - [The First Koreatown](https://daily.jstor.org/the-first-koreatown/)
 * [2022-06-21, 17:00:50](https://news.ycombinator.com/item?id=31826309) - [Meticulous (YC S21) is hiring founding engineer #3 in London](https://news.ycombinator.com/item?id=31826309)
 * [2022-06-21, 16:53:28](https://news.ycombinator.com/item?id=31826204) - [Show HN: We made an experiment to test if Bionic Reading helps you read faster](https://blog.readwise.io/does-bionic-reading-actually-work/)
+* [2022-06-21, 16:37:37](https://news.ycombinator.com/item?id=31825944) - [“The Falls”: A View from the Inside (2021)](https://georgesaunders.substack.com/p/the-falls)
 * [2022-06-21, 16:31:05](https://news.ycombinator.com/item?id=31825858) - [Why Casanova Continues to Seduce Us](https://www.newyorker.com/magazine/2022/06/27/why-casanova-continues-to-seduce-us-leo-damrosch-adventurer)
 * [2022-06-21, 16:29:31](https://news.ycombinator.com/item?id=31825840) - [Fair Game: data scraping is an underacknowledged privacy concern](https://reallifemag.com/fair-game/)
 * [2022-06-21, 16:29:06](https://news.ycombinator.com/item?id=31825834) - [The Cracked Wisdom of Dril](https://www.newyorker.com/culture/rabbit-holes/the-cracked-wisdom-of-dril)
