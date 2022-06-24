@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
 * [2022-06-24, 15:03:59](https://news.ycombinator.com/item?id=31863269) - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
 * [2022-06-24, 14:52:11](https://news.ycombinator.com/item?id=31862994) - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 * [2022-06-24, 14:31:16](https://news.ycombinator.com/item?id=31862498) - [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
@@ -9,7 +10,6 @@
 * [2022-06-24, 12:46:02](https://news.ycombinator.com/item?id=31860927) - [Unpaid social media moderators perform labor worth at least $3.4M/year on Reddit](https://news.northwestern.edu/stories/2022/05/unpaid-social-media-moderators/)
 * [2022-06-24, 12:29:23](https://news.ycombinator.com/item?id=31860765) - [Help me help my deaf team mate](https://news.ycombinator.com/item?id=31860765)
 * [2022-06-24, 12:02:54](https://news.ycombinator.com/item?id=31860499) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/)
-* [2022-06-24, 12:01:43](https://news.ycombinator.com/item?id=31860489) - [Ask HN: What are you using to manage in your team the projects/features?](https://news.ycombinator.com/item?id=31860489)
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Tell HN: Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460k city residents’ personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth (2017)](https://www.masswerk.at/misc/wealth/2.html)

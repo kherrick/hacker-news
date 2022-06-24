@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
 * [2022-06-24, 15:03:59](https://news.ycombinator.com/item?id=31863269) - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
 * [2022-06-24, 14:52:11](https://news.ycombinator.com/item?id=31862994) - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 * [2022-06-24, 14:31:16](https://news.ycombinator.com/item?id=31862498) - [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
