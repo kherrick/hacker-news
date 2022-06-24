@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 20:27:01](https://news.ycombinator.com/item?id=31868872) - [At the Bored Ape restaurant, your ApeCoin is no good now](https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars)
+* [2022-06-24, 20:19:55](https://news.ycombinator.com/item?id=31868775) - [Confidence in U.S. Supreme Court Sinks to Historic Low](https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx)
 * [2022-06-24, 19:48:49](https://news.ycombinator.com/item?id=31868394) - [How to Make a Complete Map of Every Thought You Think (2003)](https://users.speakeasy.net/~lion/nb/html/)
 * [2022-06-24, 19:35:24](https://news.ycombinator.com/item?id=31868251) - [Neuronlike Memristors Could Superspeed 6G Wireless](https://spectrum.ieee.org/memristor-6g-switches)
 * [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
@@ -42,6 +44,7 @@
 * [2022-06-24, 11:50:39](https://news.ycombinator.com/item?id=31860398) - [What’s Up with Austin?](https://perell.com/essay/whats-up-with-austin/)
 * [2022-06-24, 11:20:34](https://news.ycombinator.com/item?id=31860158) - [Ask HN: Your admittedly Useless Side Projects?](https://news.ycombinator.com/item?id=31860158)
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
+* [2022-06-24, 11:16:26](https://news.ycombinator.com/item?id=31860123) - [Show HN: Domfetch.com - free tool to find expired domains with history](https://domfetch.com)
 * [2022-06-24, 11:03:15](https://news.ycombinator.com/item?id=31860047) - [Japanese man loses USB stick with entire city's personal details](https://www.bbc.com/news/world-asia-61921222)
 * [2022-06-24, 10:32:30](https://news.ycombinator.com/item?id=31859850) - [Why Most Strategies Lack Clarity](https://cutlefish.substack.com/p/tbm-27b52-why-most-strategies-lack)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
