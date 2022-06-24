@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-24](index.md)
 
+* [2022-06-24, 16:38:56](https://news.ycombinator.com/item?id=31865238) - [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
 * [2022-06-24, 16:27:08](https://news.ycombinator.com/item?id=31864974) - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
