@@ -51,6 +51,26 @@
   ],
   [
     [
+      "2022-06-25, 15:55:35",
+      "https://news.ycombinator.com/item?id=31876248"
+    ],
+    [
+      "Metadata is the biggest little problem plaguing the music industry (2019)",
+      "https://www.theverge.com/2019/5/29/18531476/music-industry-song-royalties-metadata-credit-problems"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 15:51:33",
+      "https://news.ycombinator.com/item?id=31876220"
+    ],
+    [
+      "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall",
+      "https://github.com/evilsocket/opensnitch"
+    ]
+  ],
+  [
+    [
       "2022-06-25, 15:20:05",
       "https://news.ycombinator.com/item?id=31875953"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2022-06-25, 02:55:08",
-      "https://news.ycombinator.com/item?id=31872070"
-    ],
-    [
-      "The Typography of Legal Opinions",
-      "https://typographyforlawyers.com/court-opinions.html"
-    ]
-  ],
-  [
-    [
       "2022-06-24, 22:34:04",
       "https://news.ycombinator.com/item?id=31870345"
     ],
     [
       "Tell HN: GitHub Copilot can now block suggestions matching public code",
       "https://news.ycombinator.com/item?id=31870345"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 18:25:57",
-      "https://news.ycombinator.com/item?id=31867162"
-    ],
-    [
-      "The State of Global Learning Poverty: 2022 Update [pdf]",
-      "https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "What's New in CoreML",
       "https://quindarius.com/articles/whats-new-in-coreml/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 09:54:04",
+      "https://news.ycombinator.com/item?id=31859643"
+    ],
+    [
+      "What is Box and how is it different from String in Rust?",
+      "https://mahdi.blog/rust-box-str-vs-string/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Fragmented Nature of Modern-Day Railways",
       "https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 18:27:49",
-      "https://news.ycombinator.com/item?id=31853272"
-    ],
-    [
-      "Katapayadi System",
-      "https://en.wikipedia.org/wiki/Katapayadi_system"
     ]
   ],
   [
