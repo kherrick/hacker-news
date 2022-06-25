@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-25, 18:18:27](https://news.ycombinator.com/item?id=31877465) - [The Biggest Disruption in the History of American Education](https://www.theatlantic.com/ideas/archive/2022/06/covid-learning-loss-remote-school/661360/)
+* [2022-06-25, 18:35:31](https://news.ycombinator.com/item?id=31877584) - [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
 * [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 * [2022-06-25, 17:00:56](https://news.ycombinator.com/item?id=31876831) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
@@ -12,6 +12,7 @@
 * [2022-06-25, 14:43:42](https://news.ycombinator.com/item?id=31875692) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2022-06-25, 14:30:19](https://news.ycombinator.com/item?id=31875580) - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
 * [2022-06-25, 13:09:50](https://news.ycombinator.com/item?id=31875002) - [Whatever happened to the bee apocalypse?](http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html)
+* [2022-06-25, 13:00:12](https://news.ycombinator.com/item?id=31874943) - [Designing Billions of Circuits with Code [video]](https://www.youtube.com/watch?v=ihz2WY-E2C8)
 * [2022-06-25, 12:45:42](https://news.ycombinator.com/item?id=31874846) - [My awakening moment about how smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables](https://github.com/x2bool/xlite)
@@ -22,7 +23,6 @@
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL upgrades are hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 * [2022-06-24, 22:34:04](https://news.ycombinator.com/item?id=31870345) - [Tell HN: GitHub Copilot can now block suggestions matching public code](https://news.ycombinator.com/item?id=31870345)
 * [2022-06-24, 19:28:31](https://news.ycombinator.com/item?id=31868166) - [The SEC's response to the 'meme stock' rally](https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/)
-* [2022-06-24, 15:20:02](https://news.ycombinator.com/item?id=31863628) - [What's New in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
 * [2022-06-24, 09:54:04](https://news.ycombinator.com/item?id=31859643) - [What is `Box&lt;str&gt;` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
 * [2022-06-24, 09:03:03](https://news.ycombinator.com/item?id=31859311) - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
 * [2022-06-24, 08:56:14](https://news.ycombinator.com/item?id=31859262) - [New Proof Shows When Structure Must Emerge in Graphs](https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 18:35:31](https://news.ycombinator.com/item?id=31877584) - [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
 * [2022-06-25, 18:18:27](https://news.ycombinator.com/item?id=31877465) - [The Biggest Disruption in the History of American Education](https://www.theatlantic.com/ideas/archive/2022/06/covid-learning-loss-remote-school/661360/)
 * [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
@@ -22,6 +23,7 @@
 * [2022-06-25, 13:45:43](https://news.ycombinator.com/item?id=31875262) - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
 * [2022-06-25, 13:10:51](https://news.ycombinator.com/item?id=31875008) - [I Just Spent $35,000 on a Domain. Here Is Why](https://testimonial.to/blog/here-is-why-i-spent-35000-dollars-on-a-domain)
 * [2022-06-25, 13:09:50](https://news.ycombinator.com/item?id=31875002) - [Whatever Happened to the Bee Apocalypse?](http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html)
+* [2022-06-25, 13:00:12](https://news.ycombinator.com/item?id=31874943) - [Designing Billions of Circuits with Code [video]](https://www.youtube.com/watch?v=ihz2WY-E2C8)
 * [2022-06-25, 12:45:42](https://news.ycombinator.com/item?id=31874846) - [My awakening moment about how smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
