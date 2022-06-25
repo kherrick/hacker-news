@@ -6,6 +6,7 @@
 
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+* [2022-06-25, 10:03:46](https://news.ycombinator.com/item?id=31873946) - [Because I couldn’t not post](https://scottaaronson.blog/?p=6518)
 * [2022-06-25, 09:54:44](https://news.ycombinator.com/item?id=31873896) - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
 * [2022-06-25, 08:30:20](https://news.ycombinator.com/item?id=31873504) - [Ask HN: Europe to East Coast, does it make sense to move at 50?](https://news.ycombinator.com/item?id=31873504)
 * [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)

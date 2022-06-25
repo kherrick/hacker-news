@@ -2,6 +2,7 @@
 
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+* [2022-06-25, 10:03:46](https://news.ycombinator.com/item?id=31873946) - [Because I couldn’t not post](https://scottaaronson.blog/?p=6518)
 * [2022-06-25, 09:54:44](https://news.ycombinator.com/item?id=31873896) - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
 * [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
 * [2022-06-25, 07:02:47](https://news.ycombinator.com/item?id=31873192) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
@@ -12,7 +13,6 @@
 * [2022-06-24, 23:48:10](https://news.ycombinator.com/item?id=31870955) - [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
 * [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
-* [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
