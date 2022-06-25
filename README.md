@@ -2,6 +2,7 @@
 
 * [2022-06-25, 20:42:24](https://news.ycombinator.com/item?id=31878567) - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
 * [2022-06-25, 20:19:33](https://news.ycombinator.com/item?id=31878396) - [The charming bloke who dominates GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
+* [2022-06-25, 19:10:04](https://news.ycombinator.com/item?id=31877840) - [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 * [2022-06-25, 18:48:33](https://news.ycombinator.com/item?id=31877672) - [AI-Guided Robots Are Ready to Sort Your Recyclables](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables)
 * [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 18:07:36](https://news.ycombinator.com/item?id=31877373) - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
@@ -21,7 +22,6 @@
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified theory of documentation systems](https://documentation.divio.com/)
 * [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
-* [2022-06-25, 08:00:40](https://news.ycombinator.com/item?id=31873404) - [The most livable cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL upgrades are hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 * [2022-06-24, 19:28:31](https://news.ycombinator.com/item?id=31868166) - [The SEC's response to the 'meme stock' rally](https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/)
 * [2022-06-24, 17:26:35](https://news.ycombinator.com/item?id=31866137) - [Bob Stanley’s pre-history of pop breathes life into a lost musical era](https://www.newstatesman.com/culture/books/book-of-the-day/2022/06/bob-stanley-lets-do-it-review-billy-bragg-birth-of-pop)
