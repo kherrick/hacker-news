@@ -16,6 +16,7 @@
 * [2022-06-24, 23:48:10](https://news.ycombinator.com/item?id=31870955) - [The Composition over Inheritance Principle (2020)](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
 * [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
+* [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
@@ -29,7 +30,6 @@
 * [2022-06-23, 18:27:49](https://news.ycombinator.com/item?id=31853272) - [Katapayadi System](https://en.wikipedia.org/wiki/Katapayadi_system)
 * [2022-06-23, 13:20:26](https://news.ycombinator.com/item?id=31848692) - [What's wrong with wanting a “human in the loop”?](https://warontherocks.com/2022/06/whats-wrong-with-wanting-a-human-in-the-loop/)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
-* [2022-06-23, 10:24:20](https://news.ycombinator.com/item?id=31847134) - [Connected-Up-Brains](https://aeon.co/essays/how-the-brains-of-social-animals-synchronise-and-expand-one-another)
 
 ## [Archives](archives/index.md)
 
