@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 15:20:14](https://news.ycombinator.com/item?id=31875954) - [I think the GNOME designers are incompetent](https://liam-on-linux.dreamwidth.org/84023.html)
 * [2022-06-25, 14:30:19](https://news.ycombinator.com/item?id=31875580) - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
 * [2022-06-25, 14:03:32](https://news.ycombinator.com/item?id=31875377) - [Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails](https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15)
+* [2022-06-25, 13:47:49](https://news.ycombinator.com/item?id=31875278) - [Abusing Promo Code Signup Flows for Reliable Discounts with Major Retailers](https://www.ipm-corporation.com/research/abusing-promo-code-signup-flows-for-reliable-discounts-with-major-retailers)
 * [2022-06-25, 13:45:43](https://news.ycombinator.com/item?id=31875262) - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
+* [2022-06-25, 13:10:51](https://news.ycombinator.com/item?id=31875008) - [I Just Spent $35,000 on a Domain. Here Is Why](https://testimonial.to/blog/here-is-why-i-spent-35000-dollars-on-a-domain)
 * [2022-06-25, 13:09:50](https://news.ycombinator.com/item?id=31875002) - [Whatever Happened to the Bee Apocalypse?](http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html)
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
