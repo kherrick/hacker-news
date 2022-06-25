@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-06-25, 18:35:31",
-      "https://news.ycombinator.com/item?id=31877584"
+      "2022-06-25, 19:40:31",
+      "https://news.ycombinator.com/item?id=31878100"
     ],
     [
-      "Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price",
-      "https://news.ycombinator.com/item?id=31877584"
+      "ARM original operating system: RISC OS still alive after 35 years",
+      "https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 19:10:04",
+      "https://news.ycombinator.com/item?id=31877840"
+    ],
+    [
+      "Ask HN: Built an app for my university. Faculty loved it. Should I charge them?",
+      "https://news.ycombinator.com/item?id=31877840"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "SQLite Release 3.39.0",
       "https://sqlite.org/releaselog/3_39_0.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 16:26:23",
-      "https://news.ycombinator.com/item?id=31876547"
-    ],
-    [
-      "DARPA study challenges assumptions about distributed ledger (Bitcoin) security",
-      "https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31874943"
     ],
     [
-      "Designing Billions of Circuits with Code [video]",
+      "Designing billions of circuits with code (2021) [video]",
       "https://www.youtube.com/watch?v=ihz2WY-E2C8"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=31874391"
     ],
     [
-      "Baby Pics, Life Lessons, and Obits: What Happened to LinkedIn?",
+      "Baby pics, life lessons, and obits: What happened to LinkedIn?",
       "https://thewalrus.ca/what-happened-to-linkedin/"
     ]
   ],
@@ -265,8 +265,18 @@
       "https://news.ycombinator.com/item?id=31859262"
     ],
     [
-      "New Proof Shows When Structure Must Emerge in Graphs",
+      "New proof shows when structure must emerge in graphs",
       "https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 08:30:43",
+      "https://news.ycombinator.com/item?id=31859072"
+    ],
+    [
+      "A picture of me",
+      "https://caspercloudwalker.bearblog.dev/a-picture-of-me/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The fragmented nature of modern-day railways",
       "https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/"
-    ]
-  ],
-  [
-    [
-      "2022-06-23, 13:20:26",
-      "https://news.ycombinator.com/item?id=31848692"
-    ],
-    [
-      "What's wrong with wanting a “human in the loop”?",
-      "https://warontherocks.com/2022/06/whats-wrong-with-wanting-a-human-in-the-loop/"
     ]
   ]
 ]
