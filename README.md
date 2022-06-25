@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 * [2022-06-25, 17:00:56](https://news.ycombinator.com/item?id=31876831) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-25, 16:26:23](https://news.ycombinator.com/item?id=31876547) - [DARPA study challenges assumptions about distributed ledger (Bitcoin) security](https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/)
 * [2022-06-25, 15:55:43](https://news.ycombinator.com/item?id=31876250) - [Fermentation and Daily Life (2018)](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
@@ -11,8 +12,7 @@
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified Theory of Documentation Systems](https://documentation.divio.com/)
-* [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git](https://ohshitgit.com/)
-* [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+* [2022-06-25, 11:36:28](https://news.ycombinator.com/item?id=31874391) - [Baby Pics, Life Lessons, and Obits: What Happened to LinkedIn?](https://thewalrus.ca/what-happened-to-linkedin/)
 * [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
 * [2022-06-25, 08:00:40](https://news.ycombinator.com/item?id=31873404) - [The most livable cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
