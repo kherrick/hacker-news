@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 17:00:56](https://news.ycombinator.com/item?id=31876831) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-25, 16:26:23](https://news.ycombinator.com/item?id=31876547) - [DARPA study challenges assumptions about distributed ledger (Bitcoin) security](https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/)
 * [2022-06-25, 15:55:43](https://news.ycombinator.com/item?id=31876250) - [Fermentation and Daily Life (2018)](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
 * [2022-06-25, 15:20:14](https://news.ycombinator.com/item?id=31875954) - [I think the GNOME designers are incompetent](https://liam-on-linux.dreamwidth.org/84023.html)
