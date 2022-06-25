@@ -59,6 +59,7 @@
 * [2022-06-24, 11:17:31](https://news.ycombinator.com/item?id=31860131) - [Brother printers now locking out non-OEM paraphernalia](https://news.ycombinator.com/item?id=31860131)
 * [2022-06-24, 11:16:26](https://news.ycombinator.com/item?id=31860123) - [Show HN: Domfetch.com - free tool to find expired domains with history](https://domfetch.com)
 * [2022-06-24, 11:03:15](https://news.ycombinator.com/item?id=31860047) - [Japanese man loses USB stick with entire city's personal details](https://www.bbc.com/news/world-asia-61921222)
+* [2022-06-24, 10:40:11](https://news.ycombinator.com/item?id=31859892) - [A little more speed from the 6502](https://imapenguin.com/a-little-more-speed-from-the-6502/)
 * [2022-06-24, 10:32:30](https://news.ycombinator.com/item?id=31859850) - [Why Most Strategies Lack Clarity](https://cutlefish.substack.com/p/tbm-27b52-why-most-strategies-lack)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
