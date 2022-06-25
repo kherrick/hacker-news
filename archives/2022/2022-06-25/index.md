@@ -9,3 +9,4 @@
 * [2022-06-25, 02:55:08](https://news.ycombinator.com/item?id=31872070) - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
 * [2022-06-25, 02:25:13](https://news.ycombinator.com/item?id=31871903) - [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
 * [2022-06-25, 01:23:37](https://news.ycombinator.com/item?id=31871581) - [Google says US employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+* [2022-06-25, 01:23:08](https://news.ycombinator.com/item?id=31871577) - [The Collapsing Quality of Dev.to](https://wagslane.dev/posts/collapsing-quality-of-devto/)
