@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 21:29:42](https://news.ycombinator.com/item?id=31878876) - [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
+* [2022-06-25, 21:00:29](https://news.ycombinator.com/item?id=31878690) - [Mutter-Rounded – A window manager for gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
 * [2022-06-25, 20:42:24](https://news.ycombinator.com/item?id=31878567) - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
 * [2022-06-25, 20:19:33](https://news.ycombinator.com/item?id=31878396) - [Tom Davies has become a beloved icon of the Google Maps guessing game](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
 * [2022-06-25, 20:13:43](https://news.ycombinator.com/item?id=31878355) - [Spiritual Bypassing (2011) [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
