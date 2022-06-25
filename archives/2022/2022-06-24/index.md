@@ -24,6 +24,7 @@
 * [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
+* [2022-06-24, 17:26:35](https://news.ycombinator.com/item?id=31866137) - [Bob Stanley’s pre-history of pop breathes life into a lost musical era](https://www.newstatesman.com/culture/books/book-of-the-day/2022/06/bob-stanley-lets-do-it-review-billy-bragg-birth-of-pop)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:17:43](https://news.ycombinator.com/item?id=31865995) - [A puzzling misinterpretation of the Asch ‘conformity’ study (1990) [pdf]](http://webpage.pace.edu/yrafferty/Yvonne/AschConformityStudy.pdf)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)
