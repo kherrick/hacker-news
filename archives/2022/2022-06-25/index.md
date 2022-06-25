@@ -6,6 +6,8 @@
 
 * [2022-06-25, 20:42:24](https://news.ycombinator.com/item?id=31878567) - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
 * [2022-06-25, 20:19:33](https://news.ycombinator.com/item?id=31878396) - [Tom Davies has become a beloved icon of the Google Maps guessing game](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
+* [2022-06-25, 20:13:43](https://news.ycombinator.com/item?id=31878355) - [Spiritual Bypassing (2011) [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
+* [2022-06-25, 20:04:46](https://news.ycombinator.com/item?id=31878290) - [This copilot is stupid and wants to kill me](https://matthewbutterick.com/chron/this-copilot-is-stupid-and-wants-to-kill-me.html)
 * [2022-06-25, 19:40:31](https://news.ycombinator.com/item?id=31878100) - [ARM original operating system: RISC OS still alive after 35 years](https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/)
 * [2022-06-25, 19:10:04](https://news.ycombinator.com/item?id=31877840) - [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 * [2022-06-25, 18:48:33](https://news.ycombinator.com/item?id=31877672) - [AI-Guided Robots Are Ready to Sort Your Recyclables](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables)
