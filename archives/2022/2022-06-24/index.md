@@ -14,6 +14,7 @@
 * [2022-06-24, 20:19:55](https://news.ycombinator.com/item?id=31868775) - [Confidence in U.S. Supreme Court Sinks to Historic Low](https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx)
 * [2022-06-24, 19:48:49](https://news.ycombinator.com/item?id=31868394) - [How to Make a Complete Map of Every Thought You Think (2003)](https://users.speakeasy.net/~lion/nb/html/)
 * [2022-06-24, 19:35:24](https://news.ycombinator.com/item?id=31868251) - [Neuronlike Memristors Could Superspeed 6G Wireless](https://spectrum.ieee.org/memristor-6g-switches)
+* [2022-06-24, 19:28:31](https://news.ycombinator.com/item?id=31868166) - [The SEC's response to the 'meme stock' rally](https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/)
 * [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:07:50](https://news.ycombinator.com/item?id=31867839) - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
 * [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
