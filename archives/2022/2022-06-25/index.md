@@ -10,6 +10,7 @@
 * [2022-06-25, 12:10:49](https://news.ycombinator.com/item?id=31874571) - [The two types of creativity that peak at different ages](https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/)
 * [2022-06-25, 12:00:35](https://news.ycombinator.com/item?id=31874506) - [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
 * [2022-06-25, 11:49:17](https://news.ycombinator.com/item?id=31874441) - [With Roe overturned, period-tracking apps raise new worries](https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/)
+* [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified Theory of Documentation Systems](https://documentation.divio.com/)
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
 * [2022-06-25, 10:04:11](https://news.ycombinator.com/item?id=31873950) - [If your website's full of assholes, it's your fault (2011)](https://anildash.com/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)
