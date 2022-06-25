@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
 * [2022-06-25, 15:20:14](https://news.ycombinator.com/item?id=31875954) - [I think the GNOME designers are incompetent](https://liam-on-linux.dreamwidth.org/84023.html)
+* [2022-06-25, 14:43:42](https://news.ycombinator.com/item?id=31875692) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2022-06-25, 14:30:19](https://news.ycombinator.com/item?id=31875580) - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
 * [2022-06-25, 14:03:32](https://news.ycombinator.com/item?id=31875377) - [Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails](https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15)
 * [2022-06-25, 13:47:49](https://news.ycombinator.com/item?id=31875278) - [Abusing Promo Code Signup Flows for Reliable Discounts with Major Retailers](https://www.ipm-corporation.com/research/abusing-promo-code-signup-flows-for-reliable-discounts-with-major-retailers)
