@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 07:02:47](https://news.ycombinator.com/item?id=31873192) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-06-25, 03:22:17](https://news.ycombinator.com/item?id=31872272) - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
 * [2022-06-25, 03:04:36](https://news.ycombinator.com/item?id=31872155) - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 * [2022-06-25, 02:55:08](https://news.ycombinator.com/item?id=31872070) - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)

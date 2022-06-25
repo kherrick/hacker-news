@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 07:02:47](https://news.ycombinator.com/item?id=31873192) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-06-25, 03:22:17](https://news.ycombinator.com/item?id=31872272) - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
 * [2022-06-25, 03:04:36](https://news.ycombinator.com/item?id=31872155) - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 * [2022-06-25, 02:55:08](https://news.ycombinator.com/item?id=31872070) - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
@@ -8,7 +9,6 @@
 * [2022-06-24, 23:48:10](https://news.ycombinator.com/item?id=31870955) - [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
 * [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
-* [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
