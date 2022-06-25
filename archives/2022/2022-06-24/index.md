@@ -23,6 +23,7 @@
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
+* [2022-06-24, 17:17:43](https://news.ycombinator.com/item?id=31865995) - [A puzzling misinterpretation of the Asch ‘conformity’ study (1990) [pdf]](http://webpage.pace.edu/yrafferty/Yvonne/AschConformityStudy.pdf)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)
 * [2022-06-24, 16:38:56](https://news.ycombinator.com/item?id=31865238) - [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
 * [2022-06-24, 16:27:08](https://news.ycombinator.com/item?id=31864974) - [Hardening macOS](https://www.bejarano.io/hardening-macos/)

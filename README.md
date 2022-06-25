@@ -15,6 +15,7 @@
 * [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
+* [2022-06-24, 17:17:43](https://news.ycombinator.com/item?id=31865995) - [A puzzling misinterpretation of the Asch ‘conformity’ study (1990) [pdf]](http://webpage.pace.edu/yrafferty/Yvonne/AschConformityStudy.pdf)
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
@@ -29,7 +30,6 @@
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
-* [2022-06-23, 10:24:20](https://news.ycombinator.com/item?id=31847134) - [Connected-Up-Brains](https://aeon.co/essays/how-the-brains-of-social-animals-synchronise-and-expand-one-another)
 
 ## [Archives](archives/index.md)
 
