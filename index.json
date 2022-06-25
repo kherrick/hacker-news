@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-25, 12:00:35",
+      "https://news.ycombinator.com/item?id=31874506"
+    ],
+    [
+      "Tara AI Is Hiring a senior back-end engineer to help build a ticketless future",
+      "https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 11:49:17",
+      "https://news.ycombinator.com/item?id=31874441"
+    ],
+    [
+      "With Roe overturned, period-tracking apps raise new worries",
+      "https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/"
+    ]
+  ],
+  [
+    [
       "2022-06-25, 11:16:26",
       "https://news.ycombinator.com/item?id=31874308"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2022-06-25, 10:03:46",
-      "https://news.ycombinator.com/item?id=31873946"
-    ],
-    [
-      "Because I couldn’t not post",
-      "https://scottaaronson.blog/?p=6518"
-    ]
-  ],
-  [
-    [
       "2022-06-25, 09:54:44",
       "https://news.ycombinator.com/item?id=31873896"
     ],
@@ -47,16 +57,6 @@
     [
       "I Finally Found a Solid Debian Tablet: The Surface Go 2",
       "https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 07:02:47",
-      "https://news.ycombinator.com/item?id=31873192"
-    ],
-    [
-      "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
-      "https://deepnote.com/join-us"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "How to find great practice systems design questions",
       "https://www.hackpack.io/blog/great-practice-systems-design-questions"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 18:26:46",
-      "https://news.ycombinator.com/item?id=31867179"
-    ],
-    [
-      "Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB",
-      "https://github.com/maxcountryman/warc-parquet"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Ask HN: How to level up your technical writing?",
       "https://news.ycombinator.com/item?id=31859040"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 05:15:13",
+      "https://news.ycombinator.com/item?id=31858041"
+    ],
+    [
+      "Gopher: Underground Technology (2004)",
+      "https://www.wired.com/2004/04/gopher-underground-technology/"
     ]
   ],
   [
