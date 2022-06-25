@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31873404"
     ],
     [
-      "The Most Livable Cities",
+      "The most livable cities",
       "https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities"
     ]
   ],
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-06-25, 03:04:36",
-      "https://news.ycombinator.com/item?id=31872155"
-    ],
-    [
-      "A mystery that took 13k years to crack",
-      "https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/"
-    ]
-  ],
-  [
-    [
       "2022-06-25, 02:55:08",
       "https://news.ycombinator.com/item?id=31872070"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31871903"
     ],
     [
-      "Frequently asked questions about your craniotomy",
+      "Frequently asked questions about your craniotomy (2020)",
       "https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/"
     ]
   ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2022-06-24, 18:26:46",
+      "https://news.ycombinator.com/item?id=31867179"
+    ],
+    [
+      "Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB",
+      "https://github.com/maxcountryman/warc-parquet"
+    ]
+  ],
+  [
+    [
       "2022-06-24, 18:23:51",
       "https://news.ycombinator.com/item?id=31867121"
     ],
@@ -157,16 +157,6 @@
     [
       "Pig heart transplant failed as its heart muscle cells died",
       "https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 17:17:43",
-      "https://news.ycombinator.com/item?id=31865995"
-    ],
-    [
-      "A puzzling misinterpretation of the Asch ‘conformity’ study (1990) [pdf]",
-      "http://webpage.pace.edu/yrafferty/Yvonne/AschConformityStudy.pdf"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ask HN: How to raise a seed round in a down market?",
       "https://news.ycombinator.com/item?id=31847941"
+    ]
+  ],
+  [
+    [
+      "2022-06-23, 10:24:20",
+      "https://news.ycombinator.com/item?id=31847134"
+    ],
+    [
+      "Connected-Up-Brains",
+      "https://aeon.co/essays/how-the-brains-of-social-animals-synchronise-and-expand-one-another"
     ]
   ]
 ]
