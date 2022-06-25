@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 23:26:38](https://news.ycombinator.com/item?id=31879588) - [Social Justice for the Bald Man](https://stakedy.com/long/social-justice-for-the-bald-man.html)
+* [2022-06-25, 21:51:42](https://news.ycombinator.com/item?id=31879015) - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 * [2022-06-25, 21:29:42](https://news.ycombinator.com/item?id=31878876) - [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 * [2022-06-25, 21:00:29](https://news.ycombinator.com/item?id=31878690) - [Mutter-Rounded – A window manager for gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
 * [2022-06-25, 20:42:24](https://news.ycombinator.com/item?id=31878567) - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
