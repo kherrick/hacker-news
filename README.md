@@ -13,6 +13,7 @@
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
 * [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
+* [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport (YC W14) is hiring software engineers](https://flexport.com/careers)
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
@@ -29,7 +30,6 @@
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
-* [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)
 
 ## [Archives](archives/index.md)
 
