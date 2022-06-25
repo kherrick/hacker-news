@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 20:42:24](https://news.ycombinator.com/item?id=31878567) - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
+* [2022-06-25, 20:19:33](https://news.ycombinator.com/item?id=31878396) - [Tom Davies has become a beloved icon of the Google Maps guessing game](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
 * [2022-06-25, 19:40:31](https://news.ycombinator.com/item?id=31878100) - [ARM original operating system: RISC OS still alive after 35 years](https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/)
 * [2022-06-25, 19:10:04](https://news.ycombinator.com/item?id=31877840) - [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 * [2022-06-25, 18:39:25](https://news.ycombinator.com/item?id=31877618) - [Show HN: Cargo Cult Psychiatry](https://www.madinamerica.com/2022/06/cargo-cult-psychiatry/)

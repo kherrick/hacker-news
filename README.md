@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 20:42:24](https://news.ycombinator.com/item?id=31878567) - [Bayesian Workflow (2020)](https://arxiv.org/abs/2011.01808)
+* [2022-06-25, 20:19:33](https://news.ycombinator.com/item?id=31878396) - [Tom Davies has become a beloved icon of the Google Maps guessing game](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
 * [2022-06-25, 19:10:04](https://news.ycombinator.com/item?id=31877840) - [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 * [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 18:07:36](https://news.ycombinator.com/item?id=31877373) - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
@@ -25,11 +27,9 @@
 * [2022-06-24, 19:28:31](https://news.ycombinator.com/item?id=31868166) - [The SEC's response to the 'meme stock' rally](https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/)
 * [2022-06-24, 09:54:04](https://news.ycombinator.com/item?id=31859643) - [What is `Box&lt;str&gt;` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
 * [2022-06-24, 09:03:03](https://news.ycombinator.com/item?id=31859311) - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
-* [2022-06-24, 08:56:14](https://news.ycombinator.com/item?id=31859262) - [New proof shows when structure must emerge in graphs](https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/)
 * [2022-06-24, 08:30:43](https://news.ycombinator.com/item?id=31859072) - [A picture of me](https://caspercloudwalker.bearblog.dev/a-picture-of-me/)
 * [2022-06-24, 05:15:13](https://news.ycombinator.com/item?id=31858041) - [Gopher: Underground Technology (2004)](https://www.wired.com/2004/04/gopher-underground-technology/)
 * [2022-06-24, 02:29:18](https://news.ycombinator.com/item?id=31857210) - [The fragmented nature of modern-day railways](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/)
-* [2022-06-23, 13:20:26](https://news.ycombinator.com/item?id=31848692) - [What's wrong with wanting a “human in the loop”?](https://warontherocks.com/2022/06/whats-wrong-with-wanting-a-human-in-the-loop/)
 
 ## [Archives](archives/index.md)
 
