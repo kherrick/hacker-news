@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-25, 18:18:27",
+      "https://news.ycombinator.com/item?id=31877465"
+    ],
+    [
+      "The Biggest Disruption in the History of American Education",
+      "https://www.theatlantic.com/ideas/archive/2022/06/covid-learning-loss-remote-school/661360/"
+    ]
+  ],
+  [
+    [
       "2022-06-25, 18:15:58",
       "https://news.ycombinator.com/item?id=31877444"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31875002"
     ],
     [
-      "Whatever Happened to the Bee Apocalypse?",
+      "Whatever happened to the bee apocalypse?",
       "http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31874767"
     ],
     [
-      "Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables",
+      "Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables",
       "https://github.com/x2bool/xlite"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=31874436"
     ],
     [
-      "Unified Theory of Documentation Systems",
+      "Unified theory of documentation systems",
       "https://documentation.divio.com/"
     ]
   ],
@@ -185,18 +195,8 @@
       "https://news.ycombinator.com/item?id=31873063"
     ],
     [
-      "PostgreSQL Upgrades Are Hard",
+      "PostgreSQL upgrades are hard",
       "https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 03:04:36",
-      "https://news.ycombinator.com/item?id=31872155"
-    ],
-    [
-      "A mystery that took 13k years to crack",
-      "https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2022-06-24, 17:52:46",
-      "https://news.ycombinator.com/item?id=31866573"
+      "2022-06-24, 19:28:31",
+      "https://news.ycombinator.com/item?id=31868166"
     ],
     [
-      "Pig heart transplant failed as its heart muscle cells died",
-      "https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/"
+      "The SEC's response to the 'meme stock' rally",
+      "https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=31859643"
     ],
     [
-      "What is Box and how is it different from String in Rust?",
+      "What is `Box&lt;str&gt;` and how is it different from `String` in Rust?",
       "https://mahdi.blog/rust-box-str-vs-string/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31857210"
     ],
     [
-      "The Fragmented Nature of Modern-Day Railways",
+      "The fragmented nature of modern-day railways",
       "https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/"
     ]
   ],
