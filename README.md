@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+* [2022-06-25, 09:54:44](https://news.ycombinator.com/item?id=31873896) - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
 * [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
 * [2022-06-25, 07:02:47](https://news.ycombinator.com/item?id=31873192) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
-* [2022-06-25, 03:22:17](https://news.ycombinator.com/item?id=31872272) - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
 * [2022-06-25, 02:55:08](https://news.ycombinator.com/item?id=31872070) - [The Typography of Legal Opinions](https://typographyforlawyers.com/court-opinions.html)
 * [2022-06-25, 02:25:13](https://news.ycombinator.com/item?id=31871903) - [Frequently asked questions about your craniotomy (2020)](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
 * [2022-06-25, 01:23:08](https://news.ycombinator.com/item?id=31871577) - [The Collapsing Quality of Dev.to](https://wagslane.dev/posts/collapsing-quality-of-devto/)
