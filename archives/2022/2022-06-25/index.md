@@ -11,6 +11,7 @@
 * [2022-06-25, 13:45:43](https://news.ycombinator.com/item?id=31875262) - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
 * [2022-06-25, 13:10:51](https://news.ycombinator.com/item?id=31875008) - [I Just Spent $35,000 on a Domain. Here Is Why](https://testimonial.to/blog/here-is-why-i-spent-35000-dollars-on-a-domain)
 * [2022-06-25, 13:09:50](https://news.ycombinator.com/item?id=31875002) - [Whatever Happened to the Bee Apocalypse?](http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html)
+* [2022-06-25, 12:45:42](https://news.ycombinator.com/item?id=31874846) - [My awakening moment about how smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 12:10:49](https://news.ycombinator.com/item?id=31874571) - [The two types of creativity that peak at different ages](https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/)
