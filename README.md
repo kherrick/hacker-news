@@ -14,7 +14,6 @@
 * [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to find great practice systems design questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
-* [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
@@ -28,6 +27,7 @@
 * [2022-06-24, 08:23:29](https://news.ycombinator.com/item?id=31859040) - [Ask HN: How to level up your technical writing?](https://news.ycombinator.com/item?id=31859040)
 * [2022-06-23, 18:27:49](https://news.ycombinator.com/item?id=31853272) - [Katapayadi System](https://en.wikipedia.org/wiki/Katapayadi_system)
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
+* [2022-06-23, 13:20:26](https://news.ycombinator.com/item?id=31848692) - [What's wrong with wanting a “human in the loop”?](https://warontherocks.com/2022/06/whats-wrong-with-wanting-a-human-in-the-loop/)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
 

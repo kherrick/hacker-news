@@ -45,6 +45,7 @@
 * [2022-06-23, 14:07:26](https://news.ycombinator.com/item?id=31849320) - [Ruby 3 adds Scheduler Interface for Fibers](https://blog.kiprosh.com/ruby-fiber-schedular/)
 * [2022-06-23, 13:54:36](https://news.ycombinator.com/item?id=31849150) - [Think twice before founding that free-market utopia](https://news.cornell.edu/stories/2022/06/think-twice-founding-free-market-utopia)
 * [2022-06-23, 13:48:44](https://news.ycombinator.com/item?id=31849082) - [Detention of Mark Bernstein](https://en.wikipedia.org/wiki/Detention_of_Mark_Bernstein)
+* [2022-06-23, 13:20:26](https://news.ycombinator.com/item?id=31848692) - [What's wrong with wanting a “human in the loop”?](https://warontherocks.com/2022/06/whats-wrong-with-wanting-a-human-in-the-loop/)
 * [2022-06-23, 13:12:30](https://news.ycombinator.com/item?id=31848594) - [Ask HN: What Happened to Big Data?](https://news.ycombinator.com/item?id=31848594)
 * [2022-06-23, 13:05:47](https://news.ycombinator.com/item?id=31848499) - [Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
 * [2022-06-23, 13:00:27](https://news.ycombinator.com/item?id=31848440) - [Suzieq – Healthier Networks Through Network Observability](https://github.com/netenglabs/suzieq)
