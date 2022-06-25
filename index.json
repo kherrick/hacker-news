@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-25, 08:00:40",
+      "https://news.ycombinator.com/item?id=31873404"
+    ],
+    [
+      "The Most Livable Cities",
+      "https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities"
+    ]
+  ],
+  [
+    [
       "2022-06-25, 07:02:47",
       "https://news.ycombinator.com/item?id=31873192"
     ],
     [
       "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
       "https://deepnote.com/join-us"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 06:32:19",
+      "https://news.ycombinator.com/item?id=31873063"
+    ],
+    [
+      "PostgreSQL Upgrades Are Hard",
+      "https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31872155"
     ],
     [
-      "A Mystery That Took 13,200 Years to Crack",
+      "A mystery that took 13k years to crack",
       "https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "How to find great practice systems design questions",
       "https://www.hackpack.io/blog/great-practice-systems-design-questions"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 18:26:46",
-      "https://news.ycombinator.com/item?id=31867179"
-    ],
-    [
-      "Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB",
-      "https://github.com/maxcountryman/warc-parquet"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Five planets are lining up in the sky in June and will peak tonight",
       "https://www.cbsnews.com/news/planets-align-2022-five-mercury-venus-mars-jupiter-saturn-2022-06-24/"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 08:32:54",
-      "https://news.ycombinator.com/item?id=31859086"
-    ],
-    [
-      "The role of genetic polymorphisms regulating Vitamin D in rheumatoid arthritis",
-      "https://sci-hub.se/http://dx.doi.org/10.1136/annrheumdis-2013-204972"
     ]
   ],
   [
