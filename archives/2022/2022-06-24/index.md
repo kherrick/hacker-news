@@ -60,6 +60,7 @@
 * [2022-06-24, 10:32:30](https://news.ycombinator.com/item?id=31859850) - [Why Most Strategies Lack Clarity](https://cutlefish.substack.com/p/tbm-27b52-why-most-strategies-lack)
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
+* [2022-06-24, 09:54:04](https://news.ycombinator.com/item?id=31859643) - [What is Box and how is it different from String in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
 * [2022-06-24, 09:03:03](https://news.ycombinator.com/item?id=31859311) - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
 * [2022-06-24, 08:56:14](https://news.ycombinator.com/item?id=31859262) - [New Proof Shows When Structure Must Emerge in Graphs](https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/)
