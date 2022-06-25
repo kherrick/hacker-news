@@ -21,6 +21,7 @@
 * [2022-06-24, 18:25:57](https://news.ycombinator.com/item?id=31867162) - [The State of Global Learning Poverty: 2022 Update [pdf]](https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf)
 * [2022-06-24, 18:23:51](https://news.ycombinator.com/item?id=31867121) - [Maccy is an open source lightweight and searchable clipboard manager for macOS](https://github.com/p0deje/Maccy)
 * [2022-06-24, 17:55:11](https://news.ycombinator.com/item?id=31866601) - [What happened to the lab-leak hypothesis?](https://unherd.com/2022/06/what-happened-to-the-lab-leak-hypothesis/)
+* [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)
 * [2022-06-24, 16:38:56](https://news.ycombinator.com/item?id=31865238) - [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
