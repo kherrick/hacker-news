@@ -60,6 +60,7 @@
 * [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460,000 city residents' personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 09:55:23](https://news.ycombinator.com/item?id=31859653) - [A Random Distribution of Wealth](https://www.masswerk.at/misc/wealth/2.html)
 * [2022-06-24, 09:51:22](https://news.ycombinator.com/item?id=31859624) - [Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure](https://opsflow.app/)
+* [2022-06-24, 09:03:03](https://news.ycombinator.com/item?id=31859311) - [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)
 * [2022-06-24, 08:56:14](https://news.ycombinator.com/item?id=31859262) - [New Proof Shows When Structure Must Emerge in Graphs](https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/)
 * [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
 * [2022-06-24, 08:32:54](https://news.ycombinator.com/item?id=31859086) - [The role of genetic polymorphisms regulating Vitamin D in rheumatoid arthritis](https://sci-hub.se/http://dx.doi.org/10.1136/annrheumdis-2013-204972)
