@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 18:39:25](https://news.ycombinator.com/item?id=31877618) - [Show HN: Cargo Cult Psychiatry](https://www.madinamerica.com/2022/06/cargo-cult-psychiatry/)
 * [2022-06-25, 18:35:31](https://news.ycombinator.com/item?id=31877584) - [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
 * [2022-06-25, 18:18:27](https://news.ycombinator.com/item?id=31877465) - [The Biggest Disruption in the History of American Education](https://www.theatlantic.com/ideas/archive/2022/06/covid-learning-loss-remote-school/661360/)
 * [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
+* [2022-06-25, 18:07:36](https://news.ycombinator.com/item?id=31877373) - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 * [2022-06-25, 17:00:56](https://news.ycombinator.com/item?id=31876831) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-25, 16:33:04](https://news.ycombinator.com/item?id=31876604) - [SQLite Release 3.39.0](https://sqlite.org/releaselog/3_39_0.html)
