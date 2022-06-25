@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 01:23:37](https://news.ycombinator.com/item?id=31871581) - [Google says US employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+* [2022-06-24, 23:48:10](https://news.ycombinator.com/item?id=31870955) - [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [2022-06-24, 22:41:21](https://news.ycombinator.com/item?id=31870422) - [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
 * [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
@@ -14,6 +16,7 @@
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport (YC W14) is hiring software engineers](https://flexport.com/careers)
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
+* [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
 * [2022-06-24, 15:39:37](https://news.ycombinator.com/item?id=31863910) - [Motorola 6800](https://en.wikipedia.org/wiki/Motorola_6800)
 * [2022-06-24, 15:03:59](https://news.ycombinator.com/item?id=31863269) - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
@@ -21,15 +24,12 @@
 * [2022-06-24, 14:52:11](https://news.ycombinator.com/item?id=31862994) - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 * [2022-06-24, 14:11:10](https://news.ycombinator.com/item?id=31862121) - [How to avoid being a secretary for engineers](https://idratherbewriting.com/2018/11/19/avoid-being-secretary-for-engineers/)
 * [2022-06-24, 14:05:41](https://news.ycombinator.com/item?id=31862026) - [Five planets are lining up in the sky in June and will peak tonight](https://www.cbsnews.com/news/planets-align-2022-five-mercury-venus-mars-jupiter-saturn-2022-06-24/)
-* [2022-06-24, 10:25:21](https://news.ycombinator.com/item?id=31859806) - [Lost USB with 460k city residents’ personal data found](https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/)
 * [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
-* [2022-06-24, 02:29:18](https://news.ycombinator.com/item?id=31857210) - [The Fragmented Nature of Modern-Day Railways](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/)
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
+* [2022-06-23, 16:36:46](https://news.ycombinator.com/item?id=31851567) - [Point in History: Explore historical boundaries around a given location](https://hanshack.com/point-in-history/#8/41.906/12.497)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
-* [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
 * [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)
-* [2022-06-22, 04:13:09](https://news.ycombinator.com/item?id=31831949) - [LMN 3, an open source DAW in a box [video]](https://www.youtube.com/watch?v=h5UmPTttN1s)
 
 ## [Archives](archives/index.md)
 
