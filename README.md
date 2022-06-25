@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 03:22:17](https://news.ycombinator.com/item?id=31872272) - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
+* [2022-06-25, 03:04:36](https://news.ycombinator.com/item?id=31872155) - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 * [2022-06-25, 02:25:13](https://news.ycombinator.com/item?id=31871903) - [Frequently asked questions about your craniotomy](https://www.thewhitereview.org/fiction/frequently-asked-questions-craniotomy/)
-* [2022-06-25, 01:23:37](https://news.ycombinator.com/item?id=31871581) - [Google says US employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
 * [2022-06-24, 23:48:10](https://news.ycombinator.com/item?id=31870955) - [The Composition over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [2022-06-24, 22:41:21](https://news.ycombinator.com/item?id=31870422) - [Goldman Raising $2B to Buy Distressed Celsius Assets](https://www.morningstar.com/news/dow-jones/202206247121/goldman-sachs-looks-to-raise-2-billion-to-buy-celsius-networks-assets-coindesk-says)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
@@ -24,12 +25,11 @@
 * [2022-06-24, 14:11:10](https://news.ycombinator.com/item?id=31862121) - [How to avoid being a secretary for engineers (2018)](https://idratherbewriting.com/2018/11/19/avoid-being-secretary-for-engineers/)
 * [2022-06-24, 14:05:41](https://news.ycombinator.com/item?id=31862026) - [Five planets are lining up in the sky in June and will peak tonight](https://www.cbsnews.com/news/planets-align-2022-five-mercury-venus-mars-jupiter-saturn-2022-06-24/)
 * [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
-* [2022-06-24, 02:29:18](https://news.ycombinator.com/item?id=31857210) - [The Fragmented Nature of Modern-Day Railways](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/)
 * [2022-06-23, 18:27:49](https://news.ycombinator.com/item?id=31853272) - [Katapayadi System](https://en.wikipedia.org/wiki/Katapayadi_system)
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
-* [2022-06-23, 16:36:46](https://news.ycombinator.com/item?id=31851567) - [Point in History: Explore historical boundaries around a given location](https://hanshack.com/point-in-history/#8/41.906/12.497)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
+* [2022-06-23, 04:27:09](https://news.ycombinator.com/item?id=31845144) - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)
 
 ## [Archives](archives/index.md)
 
