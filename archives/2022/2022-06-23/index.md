@@ -61,6 +61,7 @@
 * [2022-06-23, 11:11:02](https://news.ycombinator.com/item?id=31847457) - [A Guide to Smartphone Astrophotography [pdf]](https://spacemath.gsfc.nasa.gov/SMBooks/AstrophotographyV1.pdf)
 * [2022-06-23, 11:04:44](https://news.ycombinator.com/item?id=31847416) - [Dolt Is Git for Data](https://github.com/dolthub/dolt)
 * [2022-06-23, 10:27:20](https://news.ycombinator.com/item?id=31847160) - [Small Actions Make Great Leaders](https://hbr.org/2022/06/small-actions-make-great-leaders)
+* [2022-06-23, 10:24:20](https://news.ycombinator.com/item?id=31847134) - [Connected-Up-Brains](https://aeon.co/essays/how-the-brains-of-social-animals-synchronise-and-expand-one-another)
 * [2022-06-23, 09:50:35](https://news.ycombinator.com/item?id=31846902) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2022-06-23, 09:11:27](https://news.ycombinator.com/item?id=31846662) - [Cariad Joins the Eclipse Foundation](https://cariad.technology/de/en/news/stories/open-source-eclipse-foundation.html)
 * [2022-06-23, 09:00:26](https://news.ycombinator.com/item?id=31846593) - [Yandex opensources 100B parameter GPT-like model](https://github.com/yandex/YaLM-100B)

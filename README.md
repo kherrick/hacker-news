@@ -18,7 +18,6 @@
 * [2022-06-24, 15:54:08](https://news.ycombinator.com/item?id=31864209) - [BrachioGraph – the cheapest, simplest possible pen-plotter](https://www.brachiograph.art/index.html)
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
-* [2022-06-24, 15:39:37](https://news.ycombinator.com/item?id=31863910) - [Motorola 6800](https://en.wikipedia.org/wiki/Motorola_6800)
 * [2022-06-24, 15:03:59](https://news.ycombinator.com/item?id=31863269) - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
 * [2022-06-24, 15:02:45](https://news.ycombinator.com/item?id=31863243) - [Raindrop: All-in-One Bookmark Manager](https://raindrop.io/)
 * [2022-06-24, 14:52:11](https://news.ycombinator.com/item?id=31862994) - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
@@ -30,6 +29,7 @@
 * [2022-06-23, 17:57:12](https://news.ycombinator.com/item?id=31852813) - [Nonprofit boards are weird](https://www.cold-takes.com/nonprofit-boards-are-weird-2/)
 * [2022-06-23, 12:34:39](https://news.ycombinator.com/item?id=31848136) - [Singapore Got Its Manufacturing Mojo Back](https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002)
 * [2022-06-23, 12:13:06](https://news.ycombinator.com/item?id=31847941) - [Ask HN: How to raise a seed round in a down market?](https://news.ycombinator.com/item?id=31847941)
+* [2022-06-23, 10:24:20](https://news.ycombinator.com/item?id=31847134) - [Connected-Up-Brains](https://aeon.co/essays/how-the-brains-of-social-animals-synchronise-and-expand-one-another)
 
 ## [Archives](archives/index.md)
 
