@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-25, 21:29:42",
+      "https://news.ycombinator.com/item?id=31878876"
+    ],
+    [
+      "VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon",
+      "https://github.com/insidegui/VirtualBuddy"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 21:00:29",
+      "https://news.ycombinator.com/item?id=31878690"
+    ],
+    [
+      "Mutter-Rounded – A window manager for gnome, with rounded corners patch",
+      "https://github.com/yilozt/mutter-rounded"
+    ]
+  ],
+  [
+    [
       "2022-06-25, 20:42:24",
       "https://news.ycombinator.com/item?id=31878567"
     ],
@@ -37,16 +57,6 @@
     [
       "What Copilot means for open source",
       "https://matthewbutterick.com/chron/this-copilot-is-stupid-and-wants-to-kill-me.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 19:10:04",
-      "https://news.ycombinator.com/item?id=31877840"
-    ],
-    [
-      "Ask HN: Built an app for my university. Faculty loved it. Should I charge them?",
-      "https://news.ycombinator.com/item?id=31877840"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry",
       "https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 17:10:15",
-      "https://news.ycombinator.com/item?id=31876907"
-    ],
-    [
-      "Interactive Unix – So Powerful It Can't Be a PC",
-      "https://computeradsfromthepast.substack.com/p/interactive-unix"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Whatever happened to the bee apocalypse?",
       "http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 13:00:12",
-      "https://news.ycombinator.com/item?id=31874943"
-    ],
-    [
-      "Designing billions of circuits with code (2021) [video]",
-      "https://www.youtube.com/watch?v=ihz2WY-E2C8"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A picture of me",
       "https://caspercloudwalker.bearblog.dev/a-picture-of-me/"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 05:23:30",
+      "https://news.ycombinator.com/item?id=31858077"
+    ],
+    [
+      "Revisiting the Principles of Data-Oriented Programming",
+      "https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html"
     ]
   ],
   [
