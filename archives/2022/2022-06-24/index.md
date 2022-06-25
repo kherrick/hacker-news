@@ -34,6 +34,7 @@
 * [2022-06-24, 15:02:45](https://news.ycombinator.com/item?id=31863243) - [Raindrop: All-in-One Bookmark Manager](https://raindrop.io/)
 * [2022-06-24, 14:52:11](https://news.ycombinator.com/item?id=31862994) - [SMS phishing is way too easy](https://www.bejarano.io/sms-phishing/)
 * [2022-06-24, 14:31:16](https://news.ycombinator.com/item?id=31862498) - [Liberty wins landmark Snoopers’ Charter case](https://www.libertyhumanrights.org.uk/issue/liberty-wins-landmark-snoopers-charter-case/)
+* [2022-06-24, 14:29:40](https://news.ycombinator.com/item?id=31862464) - [Link found between immune system and hair growth](https://www.salk.edu/news-release/hair-raising-research-salk-scientists-find-surprising-link-between-immune-system-hair-growth/)
 * [2022-06-24, 14:18:37](https://news.ycombinator.com/item?id=31862258) - [Supreme Court Overturns Roe vs. Wade](https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court)
 * [2022-06-24, 14:18:37](https://news.ycombinator.com/item?id=31862258) - [Supreme Court Overturns Roe vs. Wade](https://apnews.com/article/abortion-supreme-court-decision-854f60302f21c2c35129e58cf8d8a7b0)
 * [2022-06-24, 14:11:10](https://news.ycombinator.com/item?id=31862121) - [How to avoid being a secretary for engineers](https://idratherbewriting.com/2018/11/19/avoid-being-secretary-for-engineers/)
