@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 19:40:31](https://news.ycombinator.com/item?id=31878100) - [ARM original operating system: RISC OS still alive after 35 years](https://www.cosfone.com/arm-original-operating-system-risc-os-still-alive-after-35-years/)
+* [2022-06-25, 19:10:04](https://news.ycombinator.com/item?id=31877840) - [Ask HN: Built an app for my university. Faculty loved it. Should I charge them?](https://news.ycombinator.com/item?id=31877840)
 * [2022-06-25, 18:39:25](https://news.ycombinator.com/item?id=31877618) - [Show HN: Cargo Cult Psychiatry](https://www.madinamerica.com/2022/06/cargo-cult-psychiatry/)
 * [2022-06-25, 18:35:31](https://news.ycombinator.com/item?id=31877584) - [Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price](https://news.ycombinator.com/item?id=31877584)
 * [2022-06-25, 18:18:27](https://news.ycombinator.com/item?id=31877465) - [The Biggest Disruption in the History of American Education](https://www.theatlantic.com/ideas/archive/2022/06/covid-learning-loss-remote-school/661360/)

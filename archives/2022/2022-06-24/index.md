@@ -67,6 +67,7 @@
 * [2022-06-24, 08:56:14](https://news.ycombinator.com/item?id=31859262) - [New Proof Shows When Structure Must Emerge in Graphs](https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/)
 * [2022-06-24, 08:38:26](https://news.ycombinator.com/item?id=31859125) - [Benefits of Class-G and Class-H Boost in Audio Amplifiers [pdf]](https://www.ti.com/lit/an/slaa888/slaa888.pdf)
 * [2022-06-24, 08:32:54](https://news.ycombinator.com/item?id=31859086) - [The role of genetic polymorphisms regulating Vitamin D in rheumatoid arthritis](https://sci-hub.se/http://dx.doi.org/10.1136/annrheumdis-2013-204972)
+* [2022-06-24, 08:30:43](https://news.ycombinator.com/item?id=31859072) - [A picture of me](https://caspercloudwalker.bearblog.dev/a-picture-of-me/)
 * [2022-06-24, 08:23:29](https://news.ycombinator.com/item?id=31859040) - [Ask HN: How to level up your technical writing?](https://news.ycombinator.com/item?id=31859040)
 * [2022-06-24, 08:20:39](https://news.ycombinator.com/item?id=31859020) - [Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
 * [2022-06-24, 08:02:58](https://news.ycombinator.com/item?id=31858924) - [Not future-proofing](https://kk.org/thetechnium/not-future-proofing/)
