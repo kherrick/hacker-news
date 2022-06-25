@@ -21,7 +21,7 @@
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified theory of documentation systems](https://documentation.divio.com/)
-* [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
+* [2022-06-24, 19:28:31](https://news.ycombinator.com/item?id=31868166) - [The SEC's response to the 'meme stock' rally](https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/)
 * [2022-06-24, 17:26:35](https://news.ycombinator.com/item?id=31866137) - [Bob Stanley’s pre-history of pop breathes life into a lost musical era](https://www.newstatesman.com/culture/books/book-of-the-day/2022/06/bob-stanley-lets-do-it-review-billy-bragg-birth-of-pop)
 * [2022-06-24, 10:40:11](https://news.ycombinator.com/item?id=31859892) - [A little more speed from the 6502](https://imapenguin.com/a-little-more-speed-from-the-6502/)
 * [2022-06-24, 09:54:04](https://news.ycombinator.com/item?id=31859643) - [What is `Box&lt;str&gt;` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
