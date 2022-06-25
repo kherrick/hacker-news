@@ -72,6 +72,7 @@
 * [2022-06-24, 06:32:57](https://news.ycombinator.com/item?id=31858413) - [Apple Is Not Defending Browser Engine Choice](https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/)
 * [2022-06-24, 06:00:22](https://news.ycombinator.com/item?id=31858261) - [Total Generalship: Commanding Pre-Modern Armies, Part IIIb: Officers](https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers/)
 * [2022-06-24, 05:20:27](https://news.ycombinator.com/item?id=31858063) - [‘Anti-hunger’ molecule forms after exercise, scientists discover](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html)
+* [2022-06-24, 05:15:13](https://news.ycombinator.com/item?id=31858041) - [Gopher: Underground Technology (2004)](https://www.wired.com/2004/04/gopher-underground-technology/)
 * [2022-06-24, 03:11:22](https://news.ycombinator.com/item?id=31857384) - [Rare ‘triple’ La Niña climate event looks likely – what does the future hold?](https://www.nature.com/articles/d41586-022-01668-1)
 * [2022-06-24, 02:37:44](https://news.ycombinator.com/item?id=31857244) - [FTC to Crack Down on Companies That Illegally Surveil Children Learning Online](https://www.ftc.gov/news-events/news/press-releases/2022/05/ftc-crack-down-companies-illegally-surveil-children-learning-online)
 * [2022-06-24, 02:29:18](https://news.ycombinator.com/item?id=31857210) - [The Fragmented Nature of Modern-Day Railways](https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/)

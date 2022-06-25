@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 12:00:35](https://news.ycombinator.com/item?id=31874506) - [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
+* [2022-06-25, 11:49:17](https://news.ycombinator.com/item?id=31874441) - [With Roe overturned, period-tracking apps raise new worries](https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/)
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
 * [2022-06-25, 10:03:46](https://news.ycombinator.com/item?id=31873946) - [Because I couldn’t not post](https://scottaaronson.blog/?p=6518)
