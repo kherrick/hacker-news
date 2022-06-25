@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 13:45:43](https://news.ycombinator.com/item?id=31875262) - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 12:10:49](https://news.ycombinator.com/item?id=31874571) - [The two types of creativity that peak at different ages](https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/)
@@ -15,7 +16,6 @@
 * [2022-06-24, 23:48:10](https://news.ycombinator.com/item?id=31870955) - [The Composition over Inheritance Principle (2020)](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [2022-06-24, 22:04:51](https://news.ycombinator.com/item?id=31870037) - [Computer Simulations of Proteins Help Unravel Why Chemotherapy Resistance Occurs](https://news.stonybrook.edu/university/computer-simulations-of-proteins-help-unravel-why-chemotherapy-resistance-occurs-2/)
 * [2022-06-24, 21:44:53](https://news.ycombinator.com/item?id=31869800) - [How Bungie identified a mass sender of fake DMCA notices](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
-* [2022-06-24, 19:13:25](https://news.ycombinator.com/item?id=31867921) - [Artificial Photosynthesis in the Absence of Light](https://www.nature.com/articles/s43016-022-00530-x)
 * [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)

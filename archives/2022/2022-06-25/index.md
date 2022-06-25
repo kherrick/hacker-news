@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 13:45:43](https://news.ycombinator.com/item?id=31875262) - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
 * [2022-06-25, 12:39:54](https://news.ycombinator.com/item?id=31874802) - [Ask HN: Any certification that is worth it? Legitimately helped your career?](https://news.ycombinator.com/item?id=31874802)
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 12:10:49](https://news.ycombinator.com/item?id=31874571) - [The two types of creativity that peak at different ages](https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/)
