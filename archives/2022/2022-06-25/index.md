@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
+* [2022-06-25, 16:26:23](https://news.ycombinator.com/item?id=31876547) - [DARPA study challenges assumptions about distributed ledger (Bitcoin) security](https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/)
+* [2022-06-25, 15:55:43](https://news.ycombinator.com/item?id=31876250) - [Fermentation and Daily Life (2018)](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
 * [2022-06-25, 15:20:14](https://news.ycombinator.com/item?id=31875954) - [I think the GNOME designers are incompetent](https://liam-on-linux.dreamwidth.org/84023.html)
+* [2022-06-25, 15:20:05](https://news.ycombinator.com/item?id=31875953) - [Dangit, Git?](https://dangitgit.com/en)
 * [2022-06-25, 14:43:42](https://news.ycombinator.com/item?id=31875692) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2022-06-25, 14:30:19](https://news.ycombinator.com/item?id=31875580) - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
 * [2022-06-25, 14:03:32](https://news.ycombinator.com/item?id=31875377) - [Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails](https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15)
