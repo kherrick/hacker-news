@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 * [2022-06-25, 17:00:56](https://news.ycombinator.com/item?id=31876831) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-25, 16:33:04](https://news.ycombinator.com/item?id=31876604) - [SQLite Release 3.39.0](https://sqlite.org/releaselog/3_39_0.html)
@@ -20,7 +21,6 @@
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 * [2022-06-25, 03:04:36](https://news.ycombinator.com/item?id=31872155) - [A mystery that took 13k years to crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
 * [2022-06-24, 22:34:04](https://news.ycombinator.com/item?id=31870345) - [Tell HN: GitHub Copilot can now block suggestions matching public code](https://news.ycombinator.com/item?id=31870345)
-* [2022-06-24, 18:25:57](https://news.ycombinator.com/item?id=31867162) - [The State of Global Learning Poverty: 2022 Update [pdf]](https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf)
 * [2022-06-24, 17:52:46](https://news.ycombinator.com/item?id=31866573) - [Pig heart transplant failed as its heart muscle cells died](https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/)
 * [2022-06-24, 15:20:02](https://news.ycombinator.com/item?id=31863628) - [What's New in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
 * [2022-06-24, 09:54:04](https://news.ycombinator.com/item?id=31859643) - [What is Box and how is it different from String in Rust?](https://mahdi.blog/rust-box-str-vs-string/)
