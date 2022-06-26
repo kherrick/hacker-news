@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-26, 10:35:08](https://news.ycombinator.com/item?id=31882648) - [The need for world government](https://kk.org/thetechnium/the-need-for-world-government/)
 * [2022-06-26, 10:01:07](https://news.ycombinator.com/item?id=31882512) - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
 * [2022-06-26, 09:32:27](https://news.ycombinator.com/item?id=31882388) - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
 * [2022-06-26, 09:23:59](https://news.ycombinator.com/item?id=31882355) - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
@@ -18,6 +17,7 @@
 * [2022-06-25, 19:01:11](https://news.ycombinator.com/item?id=31877772) - [Mummified baby woolly mammoth found in the Yukon](https://yukon.ca/en/news/mummified-baby-woolly-mammoth-found-gold-miner-klondike)
 * [2022-06-25, 18:07:36](https://news.ycombinator.com/item?id=31877373) - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
+* [2022-06-25, 14:18:56](https://news.ycombinator.com/item?id=31875492) - [Managerial Aesthetics, or Documenta Fifteen](https://deepsocks.substack.com/p/documenta-15-or-the-aesthetics-of)
 * [2022-06-25, 11:12:40](https://news.ycombinator.com/item?id=31874296) - [Quantum Zeno effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect)
 * [2022-06-25, 10:06:57](https://news.ycombinator.com/item?id=31873967) - [Becoming a Better Engineering Team](https://thenewstack.io/kelsey-hightower-on-how-to-become-a-better-engineering-team/)
 * [2022-06-25, 09:45:15](https://news.ycombinator.com/item?id=31873847) - [Doom on a chip from a IKEA LED smart lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)

@@ -36,6 +36,7 @@
 * [2022-06-25, 15:20:05](https://news.ycombinator.com/item?id=31875953) - [Dangit, Git?](https://dangitgit.com/en)
 * [2022-06-25, 14:43:42](https://news.ycombinator.com/item?id=31875692) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
 * [2022-06-25, 14:30:19](https://news.ycombinator.com/item?id=31875580) - [Show HN: Pathfinding Visualizer](https://honzaap.github.io/Pathfinding/)
+* [2022-06-25, 14:18:56](https://news.ycombinator.com/item?id=31875492) - [Managerial Aesthetics, or Documenta Fifteen](https://deepsocks.substack.com/p/documenta-15-or-the-aesthetics-of)
 * [2022-06-25, 14:03:32](https://news.ycombinator.com/item?id=31875377) - [Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails](https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15)
 * [2022-06-25, 13:47:49](https://news.ycombinator.com/item?id=31875278) - [Abusing Promo Code Signup Flows for Reliable Discounts with Major Retailers](https://www.ipm-corporation.com/research/abusing-promo-code-signup-flows-for-reliable-discounts-with-major-retailers)
 * [2022-06-25, 13:45:43](https://news.ycombinator.com/item?id=31875262) - [Texas raises emission standards for the Cheniere LNG project on a regular basis](https://newsotg.com/2022/06/25/world-news/texas-raises-emission-standards-for-the-cheniere-lng-project-on-a-regular-basis/)
