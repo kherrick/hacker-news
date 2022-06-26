@@ -28,6 +28,7 @@
 * [2022-06-24, 17:26:35](https://news.ycombinator.com/item?id=31866137) - [Bob Stanley’s pre-history of pop breathes life into a lost musical era](https://www.newstatesman.com/culture/books/book-of-the-day/2022/06/bob-stanley-lets-do-it-review-billy-bragg-birth-of-pop)
 * [2022-06-24, 17:20:53](https://news.ycombinator.com/item?id=31866041) - [The Key of Lisp (1987)](http://www.iment.com/maida/computer/lisp-ptrs/lp-i.1.40.htm)
 * [2022-06-24, 17:17:43](https://news.ycombinator.com/item?id=31865995) - [A puzzling misinterpretation of the Asch ‘conformity’ study (1990) [pdf]](http://webpage.pace.edu/yrafferty/Yvonne/AschConformityStudy.pdf)
+* [2022-06-24, 17:16:22](https://news.ycombinator.com/item?id=31865968) - [The Victim Cloud: Gullibility in the golden age of scams](https://harpers.org/archive/2022/07/the-victim-cloud-gullibility-in-the-golden-age-of-scams/)
 * [2022-06-24, 17:01:38](https://news.ycombinator.com/item?id=31865693) - [Flexport Is Still Hiring Software Engineers](https://flexport.com/careers)
 * [2022-06-24, 16:38:56](https://news.ycombinator.com/item?id=31865238) - [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
 * [2022-06-24, 16:27:08](https://news.ycombinator.com/item?id=31864974) - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
