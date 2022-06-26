@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-26, 05:03:04",
-      "https://news.ycombinator.com/item?id=31881238"
-    ],
-    [
-      "The fall of Reddit: Why it’s quickly declining into chaos",
-      "https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 01:59:59",
       "https://news.ycombinator.com/item?id=31880394"
     ],
@@ -67,6 +57,16 @@
     [
       "VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon",
       "https://github.com/insidegui/VirtualBuddy"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 21:00:29",
+      "https://news.ycombinator.com/item?id=31878690"
+    ],
+    [
+      "Mutter-Rounded – A window manager for Gnome, with rounded corners patch",
+      "https://github.com/yilozt/mutter-rounded"
     ]
   ],
   [
