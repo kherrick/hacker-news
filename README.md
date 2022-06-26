@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-26, 12:06:49](https://news.ycombinator.com/item?id=31883206) - [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 * [2022-06-26, 10:01:07](https://news.ycombinator.com/item?id=31882512) - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
 * [2022-06-26, 09:32:27](https://news.ycombinator.com/item?id=31882388) - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
 * [2022-06-26, 09:23:59](https://news.ycombinator.com/item?id=31882355) - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
@@ -23,7 +24,6 @@
 * [2022-06-25, 09:45:15](https://news.ycombinator.com/item?id=31873847) - [Doom on a chip from a IKEA LED smart lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
 * [2022-06-25, 02:23:31](https://news.ycombinator.com/item?id=31871887) - [Shark evolution: a 450M year timeline](https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html)
 * [2022-06-24, 22:43:26](https://news.ycombinator.com/item?id=31870439) - [‘The Socratic Method’ Review: Let Us Reason Together](https://www.wsj.com/articles/the-socratic-method-book-review-let-us-reason-together-11656085510)
-* [2022-06-24, 19:00:45](https://news.ycombinator.com/item?id=31867737) - [Clap: New MIT license audio plug-in format from Bitwig](https://cdm.link/2022/06/clap-is-a-new-open-source-plug-in-format-from-bitwig-u-he-do-we-need-it-and-who-will-use-it/)
 * [2022-06-24, 18:47:57](https://news.ycombinator.com/item?id=31867545) - [The 8bit Keyboard](https://hackaday.io/project/185991-the-8bit-keyboard)
 * [2022-06-24, 17:16:22](https://news.ycombinator.com/item?id=31865968) - [The Victim Cloud: Gullibility in the golden age of scams](https://harpers.org/archive/2022/07/the-victim-cloud-gullibility-in-the-golden-age-of-scams/)
 * [2022-06-24, 09:54:04](https://news.ycombinator.com/item?id=31859643) - [What is `Box&lt;str&gt;` and how is it different from `String` in Rust?](https://mahdi.blog/rust-box-str-vs-string/)

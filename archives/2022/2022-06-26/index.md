@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 12:06:49](https://news.ycombinator.com/item?id=31883206) - [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 * [2022-06-26, 10:35:08](https://news.ycombinator.com/item?id=31882648) - [The need for world government](https://kk.org/thetechnium/the-need-for-world-government/)
 * [2022-06-26, 10:09:24](https://news.ycombinator.com/item?id=31882545) - [Misunderstood Parts of the Scrum Guide](https://medium.com/serious-scrum/the-10-most-misunderstood-parts-of-the-scrum-guide-898b8b25f3d9)
 * [2022-06-26, 10:01:07](https://news.ycombinator.com/item?id=31882512) - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
