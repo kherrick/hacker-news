@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
 * [2022-06-26, 14:37:00](https://news.ycombinator.com/item?id=31884403) - [Researchers demystify ancient Aboriginal migration across Australia (2021)](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
 * [2022-06-26, 13:57:53](https://news.ycombinator.com/item?id=31884038) - [Show HN: A tiny (850B) and fast reactive observables library via functions](https://github.com/maverick-js/observables)
 * [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)

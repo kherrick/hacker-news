@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
 * [2022-06-26, 14:37:00](https://news.ycombinator.com/item?id=31884403) - [Researchers demystify ancient Aboriginal migration across Australia (2021)](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
 * [2022-06-26, 13:57:53](https://news.ycombinator.com/item?id=31884038) - [Show HN: A tiny (850B) and fast reactive observables library via functions](https://github.com/maverick-js/observables)
 * [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
@@ -22,7 +23,6 @@
 * [2022-06-25, 15:25:08](https://news.ycombinator.com/item?id=31875997) - [Tools: Proxxon Mini Drill Press TBM115 / TBM220 (2009)](https://hackaday.com/2009/02/27/tools-proxxon-drill-press-tbm115tbm220/)
 * [2022-06-25, 14:18:56](https://news.ycombinator.com/item?id=31875492) - [Managerial Aesthetics, or Documenta Fifteen](https://deepsocks.substack.com/p/documenta-15-or-the-aesthetics-of)
 * [2022-06-25, 13:31:47](https://news.ycombinator.com/item?id=31875173) - [The Fiscal Theory of the Price Level and Inflation Episodes](https://blogs.cfainstitute.org/investor/2022/06/22/cochrane-and-coleman-the-fiscal-theory-of-the-price-level-and-inflation-episodes/)
-* [2022-06-25, 10:06:57](https://news.ycombinator.com/item?id=31873967) - [Becoming a Better Engineering Team](https://thenewstack.io/kelsey-hightower-on-how-to-become-a-better-engineering-team/)
 * [2022-06-25, 09:45:15](https://news.ycombinator.com/item?id=31873847) - [Doom on a chip from a IKEA LED smart lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
 * [2022-06-25, 02:23:31](https://news.ycombinator.com/item?id=31871887) - [Shark evolution: a 450M year timeline](https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html)
 * [2022-06-24, 22:43:26](https://news.ycombinator.com/item?id=31870439) - [‘The Socratic Method’ Review: Let Us Reason Together](https://www.wsj.com/articles/the-socratic-method-book-review-let-us-reason-together-11656085510)
