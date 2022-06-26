@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 13:13:44](https://news.ycombinator.com/item?id=31883594) - [Crypto Is Crashing, But Companies Aren't Acting Like It](https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/)
 * [2022-06-26, 12:37:21](https://news.ycombinator.com/item?id=31883373) - [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
+* [2022-06-26, 12:20:18](https://news.ycombinator.com/item?id=31883286) - [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
 * [2022-06-26, 12:12:57](https://news.ycombinator.com/item?id=31883239) - [We need to make adulthood more desirable](https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/)
 * [2022-06-26, 12:06:49](https://news.ycombinator.com/item?id=31883206) - [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 * [2022-06-26, 11:25:49](https://news.ycombinator.com/item?id=31882960) - [They Think It's Murder](https://richarddawkins.com/articles/article/they-think-its-murder)
