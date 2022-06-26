@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-06-26, 04:55:56",
+      "https://news.ycombinator.com/item?id=31881206"
+    ],
+    [
+      "$ curl -I https://web3usecase.com",
+      "https://web3usecase.com/"
+    ]
+  ],
+  [
+    [
       "2022-06-26, 01:59:59",
       "https://news.ycombinator.com/item?id=31880394"
     ],
     [
       "Why I still recommend Julia",
       "https://huijzer.xyz/posts/recommend/"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 01:11:39",
-      "https://news.ycombinator.com/item?id=31880138"
-    ],
-    [
-      "Meta bans staff from open discussion of Roe vs. Wade",
-      "https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-06-25, 17:00:56",
-      "https://news.ycombinator.com/item?id=31876831"
-    ],
-    [
-      "OneSignal (YC S11) is hiring back end and full stack engineers",
-      "https://onesignal.com/careers"
-    ]
-  ],
-  [
-    [
       "2022-06-25, 15:51:33",
       "https://news.ycombinator.com/item?id=31876220"
     ],
@@ -207,6 +197,16 @@
     [
       "Quantum Zeno effect",
       "https://en.wikipedia.org/wiki/Quantum_Zeno_effect"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 10:06:57",
+      "https://news.ycombinator.com/item?id=31873967"
+    ],
+    [
+      "Becoming a Better Engineering Team",
+      "https://thenewstack.io/kelsey-hightower-on-how-to-become-a-better-engineering-team/"
     ]
   ],
   [
