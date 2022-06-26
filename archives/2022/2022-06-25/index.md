@@ -54,6 +54,7 @@
 * [2022-06-25, 11:52:35](https://news.ycombinator.com/item?id=31874465) - [A frog so small, It could not frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/)
 * [2022-06-25, 11:49:17](https://news.ycombinator.com/item?id=31874441) - [With Roe overturned, period-tracking apps raise new worries](https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/)
 * [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified Theory of Documentation Systems](https://documentation.divio.com/)
+* [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:36:28](https://news.ycombinator.com/item?id=31874391) - [Baby Pics, Life Lessons, and Obits: What Happened to LinkedIn?](https://thewalrus.ca/what-happened-to-linkedin/)
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 11:12:40](https://news.ycombinator.com/item?id=31874296) - [Quantum Zeno Effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect)
