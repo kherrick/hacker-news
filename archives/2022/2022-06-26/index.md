@@ -9,6 +9,7 @@
 * [2022-06-26, 12:20:18](https://news.ycombinator.com/item?id=31883286) - [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
 * [2022-06-26, 12:12:57](https://news.ycombinator.com/item?id=31883239) - [We need to make adulthood more desirable](https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/)
 * [2022-06-26, 12:06:49](https://news.ycombinator.com/item?id=31883206) - [Where Did the Long Tail Go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
+* [2022-06-26, 11:25:57](https://news.ycombinator.com/item?id=31882961) - [USS Samuel b Roberts discovered at record depth of 22,916 feet](https://apnews.com/article/science-world-war-ii-philippines-manila-us-navy-738704ff8c2ab31bbf5cadd01cfd36d3)
 * [2022-06-26, 11:25:49](https://news.ycombinator.com/item?id=31882960) - [They Think It's Murder](https://richarddawkins.com/articles/article/they-think-its-murder)
 * [2022-06-26, 10:35:08](https://news.ycombinator.com/item?id=31882648) - [The need for world government](https://kk.org/thetechnium/the-need-for-world-government/)
 * [2022-06-26, 10:09:24](https://news.ycombinator.com/item?id=31882545) - [Misunderstood Parts of the Scrum Guide](https://medium.com/serious-scrum/the-10-most-misunderstood-parts-of-the-scrum-guide-898b8b25f3d9)
