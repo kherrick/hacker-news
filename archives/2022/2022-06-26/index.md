@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 04:55:56](https://news.ycombinator.com/item?id=31881206) - [$ curl -I https://web3usecase.com](https://web3usecase.com/)
 * [2022-06-26, 01:59:59](https://news.ycombinator.com/item?id=31880394) - [“Why I still recommend Julia”](https://huijzer.xyz/posts/recommend/)
 * [2022-06-26, 01:11:39](https://news.ycombinator.com/item?id=31880138) - [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
 * [2022-06-26, 01:05:50](https://news.ycombinator.com/item?id=31880108) - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)

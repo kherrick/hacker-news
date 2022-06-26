@@ -53,6 +53,7 @@
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 11:12:40](https://news.ycombinator.com/item?id=31874296) - [Quantum Zeno Effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
+* [2022-06-25, 10:06:57](https://news.ycombinator.com/item?id=31873967) - [Becoming a Better Engineering Team](https://thenewstack.io/kelsey-hightower-on-how-to-become-a-better-engineering-team/)
 * [2022-06-25, 10:04:11](https://news.ycombinator.com/item?id=31873950) - [If your website's full of assholes, it's your fault (2011)](https://anildash.com/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)
 * [2022-06-25, 10:03:46](https://news.ycombinator.com/item?id=31873946) - [Because I couldn’t not post](https://scottaaronson.blog/?p=6518)
 * [2022-06-25, 09:54:44](https://news.ycombinator.com/item?id=31873896) - [Ask HN: Seeking Cryptography Certification](https://news.ycombinator.com/item?id=31873896)
