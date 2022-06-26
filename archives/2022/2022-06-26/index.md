@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 16:25:11](https://news.ycombinator.com/item?id=31885316) - [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
 * [2022-06-26, 16:19:08](https://news.ycombinator.com/item?id=31885272) - [Show HN: Simple games ported to Scala 3 – Try them in the browser](https://github.com/wiringbits/scala-js-games)
+* [2022-06-26, 16:06:13](https://news.ycombinator.com/item?id=31885174) - [Abolish Zoning. Entirely. For Good](https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/)
 * [2022-06-26, 16:02:32](https://news.ycombinator.com/item?id=31885142) - [Show HN: MiniMail – Disposable Email Service for Everyone](https://minimail.eu.org/hello@minimail.eu.org)
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life Is Not Short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
