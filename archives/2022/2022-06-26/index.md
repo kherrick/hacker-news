@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 10:09:24](https://news.ycombinator.com/item?id=31882545) - [Misunderstood Parts of the Scrum Guide](https://medium.com/serious-scrum/the-10-most-misunderstood-parts-of-the-scrum-guide-898b8b25f3d9)
+* [2022-06-26, 10:01:07](https://news.ycombinator.com/item?id=31882512) - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
+* [2022-06-26, 09:32:27](https://news.ycombinator.com/item?id=31882388) - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
+* [2022-06-26, 09:23:59](https://news.ycombinator.com/item?id=31882355) - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
+* [2022-06-26, 09:00:26](https://news.ycombinator.com/item?id=31882256) - [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
+* [2022-06-26, 08:51:36](https://news.ycombinator.com/item?id=31882204) - [The “Just Worrying” Labelling Technique [pdf]](https://www.mindmate.org.uk/wp-content/uploads/2018/11/labelling-worry1-1.pdf)
 * [2022-06-26, 07:54:37](https://news.ycombinator.com/item?id=31881973) - [Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It](https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/)
 * [2022-06-26, 07:16:50](https://news.ycombinator.com/item?id=31881847) - [Language Design: Stop Using Angle Brackets For Generics](https://soc.me/languages/stop-using-angle-brackets-for-generics.html)
 * [2022-06-26, 06:30:23](https://news.ycombinator.com/item?id=31881625) - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
