@@ -57,6 +57,7 @@
 * [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:36:28](https://news.ycombinator.com/item?id=31874391) - [Baby Pics, Life Lessons, and Obits: What Happened to LinkedIn?](https://thewalrus.ca/what-happened-to-linkedin/)
 * [2022-06-25, 11:35:21](https://news.ycombinator.com/item?id=31874387) - [Frozen baby woolly mammoth discovered in Yukon gold fields](https://www.cbc.ca/news/canada/north/frozen-whole-baby-woolly-mammoth-yukon-gold-fields-1.6501128)
+* [2022-06-25, 11:20:29](https://news.ycombinator.com/item?id=31874318) - [Seiko T001, a 1982 Japanese wristwatch with built-in TV](https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch)
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
 * [2022-06-25, 11:12:40](https://news.ycombinator.com/item?id=31874296) - [Quantum Zeno Effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
