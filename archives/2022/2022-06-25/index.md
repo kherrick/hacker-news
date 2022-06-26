@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-25](index.md)
 
 * [2022-06-25, 23:26:38](https://news.ycombinator.com/item?id=31879588) - [Social Justice for the Bald Man](https://stakedy.com/long/social-justice-for-the-bald-man.html)
+* [2022-06-25, 22:07:19](https://news.ycombinator.com/item?id=31879133) - [Show HN: Tone v0.0.4 – now hackable command line audio tagger, any feedback?](https://news.ycombinator.com/item?id=31879133)
 * [2022-06-25, 21:51:42](https://news.ycombinator.com/item?id=31879015) - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 * [2022-06-25, 21:29:42](https://news.ycombinator.com/item?id=31878876) - [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 * [2022-06-25, 21:11:20](https://news.ycombinator.com/item?id=31878764) - [In defense of blocks for local scopes](https://gist.github.com/getify/712d994419326b53cabe20138161908b)
@@ -50,6 +51,7 @@
 * [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified Theory of Documentation Systems](https://documentation.divio.com/)
 * [2022-06-25, 11:36:28](https://news.ycombinator.com/item?id=31874391) - [Baby Pics, Life Lessons, and Obits: What Happened to LinkedIn?](https://thewalrus.ca/what-happened-to-linkedin/)
 * [2022-06-25, 11:16:26](https://news.ycombinator.com/item?id=31874308) - [Oh Shit, Git?!?](https://ohshitgit.com/)
+* [2022-06-25, 11:12:40](https://news.ycombinator.com/item?id=31874296) - [Quantum Zeno Effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect)
 * [2022-06-25, 10:45:39](https://news.ycombinator.com/item?id=31874166) - [Papers on GitHub Copilot, copyright law, and ownership for AI-generated code](https://www.fsf.org/licensing/copilot)
 * [2022-06-25, 10:04:11](https://news.ycombinator.com/item?id=31873950) - [If your website's full of assholes, it's your fault (2011)](https://anildash.com/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)
 * [2022-06-25, 10:03:46](https://news.ycombinator.com/item?id=31873946) - [Because I couldn’t not post](https://scottaaronson.blog/?p=6518)
