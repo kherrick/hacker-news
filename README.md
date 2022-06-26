@@ -8,7 +8,6 @@
 * [2022-06-26, 16:36:13](https://news.ycombinator.com/item?id=31885419) - [LaMDA’s Sentience Is Nonsense – Here’s Why](https://lastweekin.ai/p/lamdas-sentience-is-nonsense-heres)
 * [2022-06-26, 16:25:11](https://news.ycombinator.com/item?id=31885316) - [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
 * [2022-06-26, 16:19:08](https://news.ycombinator.com/item?id=31885272) - [Show HN: Simple games ported to Scala 3 – Try them in the browser](https://github.com/wiringbits/scala-js-games)
-* [2022-06-26, 16:06:13](https://news.ycombinator.com/item?id=31885174) - [Abolish Zoning](https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/)
 * [2022-06-26, 16:02:32](https://news.ycombinator.com/item?id=31885142) - [Show HN: MiniMail – Disposable Email Service for Everyone](https://minimail.eu.org/hello@minimail.eu.org)
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life is not short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
@@ -28,6 +27,7 @@
 * [2022-06-25, 11:52:35](https://news.ycombinator.com/item?id=31874465) - [A frog so small, it could not frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/)
 * [2022-06-25, 09:45:15](https://news.ycombinator.com/item?id=31873847) - [Doom on a chip from a IKEA LED smart lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
 * [2022-06-25, 05:00:26](https://news.ycombinator.com/item?id=31872739) - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
+* [2022-06-24, 18:47:57](https://news.ycombinator.com/item?id=31867545) - [The 8bit Keyboard](https://hackaday.io/project/185991-the-8bit-keyboard)
 * [2022-06-24, 06:13:09](https://news.ycombinator.com/item?id=31858311) - [Let's stop ascribing meaning to code points (2017)](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 * [2022-06-24, 04:37:14](https://news.ycombinator.com/item?id=31857854) - [Fuzzy Joins (Minhash)](https://blog.yellowflash.in/2022/05/24/similarity-join.html)
 
