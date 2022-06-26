@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-06-26, 18:44:25",
+      "https://news.ycombinator.com/item?id=31886687"
+    ],
+    [
+      "The SQLite Code of Ethics",
+      "https://sqlite.org/codeofethics.html"
+    ]
+  ],
+  [
+    [
       "2022-06-26, 17:50:23",
       "https://news.ycombinator.com/item?id=31886130"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2022-06-26, 12:20:18",
-      "https://news.ycombinator.com/item?id=31883286"
+      "2022-06-26, 12:07:02",
+      "https://news.ycombinator.com/item?id=31883209"
     ],
     [
-      "How do poor countries get rich?",
-      "https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich"
+      "Show HN: Particles – the URL contains the whole program code",
+      "https://easylang.online/run/?code=%23%20Particles%0A%23%20%0An_part%20%3D%2040%0Athres%20%3D%2015%0A%23%20%0Asubr%20connect%0A%20%20h%20%3D%20dx%20*%20dx%20%2B%20dy%20*%20dy%0A%20%20dist%20%3D%20sqrt%20h%0A%20%20if%20dist%20%3C%20thres%0A%20%20%20%20lw%20%3D%20(thres%20-%20dist)%20%2F%2030%0A%20%20%20%20linewidth%20lw%0A%20%20%20%20move%20px%20py%0A%20%20%20%20line%20px%5Bj%5D%20py%5Bj%5D%0A%20%20.%0A.%0Aon%20animate%0A%20%20clear%0A%20%20for%20i%20range%20n_part%0A%20%20%20%20px%20%3D%20px%5Bi%5D%0A%20%20%20%20py%20%3D%20py%5Bi%5D%0A%20%20%20%20move%20px%20py%0A%20%20%20%20circle%200.3125%0A%20%20%20%20for%20j%20range%20i%0A%20%20%20%20%20%20dx%20%3D%20abs%20(px%5Bj%5D%20-%20px)%0A%20%20%20%20%20%20if%20dx%20%3C%20thres%0A%20%20%20%20%20%20%20%20dy%20%3D%20abs%20(py%5Bj%5D%20-%20py)%0A%20%20%20%20%20%20%20%20if%20dy%20%3C%20thres%0A%20%20%20%20%20%20%20%20%20%20call%20connect%0A%20%20%20%20%20%20%20%20.%0A%20%20%20%20%20%20.%0A%20%20%20%20.%0A%20%20%20%20if%20px%20%3E%20100%20or%20px%20%3C%200%0A%20%20%20%20%20%20pvx%5Bi%5D%20%3D%20-pvx%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20if%20py%20%3E%20100%20or%20py%20%3C%200%0A%20%20%20%20%20%20pvy%5Bi%5D%20%3D%20-pvy%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20px%5Bi%5D%20%2B%3D%20pvx%5Bi%5D%0A%20%20%20%20py%5Bi%5D%20%2B%3D%20pvy%5Bi%5D%0A%20%20.%0A.%0Afor%20i%20range%20n_part%0A%20%20px%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20py%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20pvx%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A%20%20pvy%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A.%0A"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Crystal's Interpreter (2021)",
       "https://crystal-lang.org/2021/12/29/crystal-i.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-24, 18:47:57",
-      "https://news.ycombinator.com/item?id=31867545"
-    ],
-    [
-      "The 8bit Keyboard",
-      "https://hackaday.io/project/185991-the-8bit-keyboard"
     ]
   ],
   [
