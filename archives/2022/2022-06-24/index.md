@@ -19,6 +19,7 @@
 * [2022-06-24, 19:07:50](https://news.ycombinator.com/item?id=31867839) - [Crypto firm Bitpanda lays off around 20% of its people](https://blog.bitpanda.com/en/way-forward)
 * [2022-06-24, 19:05:37](https://news.ycombinator.com/item?id=31867800) - [ffsend: A fully featured Firefox Send command line client](https://github.com/timvisee/ffsend)
 * [2022-06-24, 19:00:45](https://news.ycombinator.com/item?id=31867737) - [Clap: New MIT license audio plug-in format from Bitwig](https://cdm.link/2022/06/clap-is-a-new-open-source-plug-in-format-from-bitwig-u-he-do-we-need-it-and-who-will-use-it/)
+* [2022-06-24, 18:47:57](https://news.ycombinator.com/item?id=31867545) - [The 8bit Keyboard](https://hackaday.io/project/185991-the-8bit-keyboard)
 * [2022-06-24, 18:43:11](https://news.ycombinator.com/item?id=31867462) - [How to Find Great Practice Systems Design Questions](https://www.hackpack.io/blog/great-practice-systems-design-questions)
 * [2022-06-24, 18:26:46](https://news.ycombinator.com/item?id=31867179) - [Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB](https://github.com/maxcountryman/warc-parquet)
 * [2022-06-24, 18:25:57](https://news.ycombinator.com/item?id=31867162) - [The State of Global Learning Poverty: 2022 Update [pdf]](https://www.unicef.org/media/122921/file/State%20of%20Learning%20Poverty%202022.pdf)
