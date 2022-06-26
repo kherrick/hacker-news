@@ -3,7 +3,7 @@
 * [2022-06-26, 21:04:48](https://news.ycombinator.com/item?id=31887945) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [Blade Runner' at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 * [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps Is a Failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
-* [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+* [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do? (2014)](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 * [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 * [2022-06-26, 17:49:49](https://news.ycombinator.com/item?id=31886120) - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
 * [2022-06-26, 16:57:23](https://news.ycombinator.com/item?id=31885615) - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
