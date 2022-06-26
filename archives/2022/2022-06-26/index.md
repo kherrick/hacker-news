@@ -44,6 +44,7 @@
 * [2022-06-26, 09:01:00](https://news.ycombinator.com/item?id=31882258) - [Germany Ends Ban on Abortion Advertisement](https://www.nytimes.com/2022/06/24/world/europe/germany-abortion-law.html)
 * [2022-06-26, 09:00:26](https://news.ycombinator.com/item?id=31882256) - [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
 * [2022-06-26, 08:51:36](https://news.ycombinator.com/item?id=31882204) - [The “Just Worrying” Labelling Technique [pdf]](https://www.mindmate.org.uk/wp-content/uploads/2018/11/labelling-worry1-1.pdf)
+* [2022-06-26, 08:51:32](https://news.ycombinator.com/item?id=31882203) - [The giant hangar poised for an aviation revolution](https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution)
 * [2022-06-26, 07:54:37](https://news.ycombinator.com/item?id=31881973) - [Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It](https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/)
 * [2022-06-26, 07:16:50](https://news.ycombinator.com/item?id=31881847) - [Language Design: Stop Using Angle Brackets For Generics](https://soc.me/languages/stop-using-angle-brackets-for-generics.html)
 * [2022-06-26, 06:30:23](https://news.ycombinator.com/item?id=31881625) - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
