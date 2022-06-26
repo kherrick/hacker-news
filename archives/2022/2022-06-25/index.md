@@ -51,6 +51,7 @@
 * [2022-06-25, 12:34:51](https://news.ycombinator.com/item?id=31874767) - [Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables](https://github.com/x2bool/xlite)
 * [2022-06-25, 12:10:49](https://news.ycombinator.com/item?id=31874571) - [The two types of creativity that peak at different ages](https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/)
 * [2022-06-25, 12:00:35](https://news.ycombinator.com/item?id=31874506) - [Tara AI Is Hiring a senior back-end engineer to help build a ticketless future](https://jobs.gohire.io/tara-ai-wyqbsv6l/senior-back-end-engineer-92600/)
+* [2022-06-25, 11:52:35](https://news.ycombinator.com/item?id=31874465) - [A frog so small, It could not frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/)
 * [2022-06-25, 11:49:17](https://news.ycombinator.com/item?id=31874441) - [With Roe overturned, period-tracking apps raise new worries](https://www.washingtonpost.com/technology/2022/05/07/period-tracking-privacy/)
 * [2022-06-25, 11:47:34](https://news.ycombinator.com/item?id=31874436) - [Unified Theory of Documentation Systems](https://documentation.divio.com/)
 * [2022-06-25, 11:36:28](https://news.ycombinator.com/item?id=31874391) - [Baby Pics, Life Lessons, and Obits: What Happened to LinkedIn?](https://thewalrus.ca/what-happened-to-linkedin/)

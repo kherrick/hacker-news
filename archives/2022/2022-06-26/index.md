@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life Is Not Short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
+* [2022-06-26, 15:27:54](https://news.ycombinator.com/item?id=31884846) - [Who Is Going to Replace Google for Us?](https://michaeldehaan.substack.com/p/who-is-going-to-replace-google-for)
+* [2022-06-26, 14:58:05](https://news.ycombinator.com/item?id=31884585) - [Comprehensive list of modern reproductions of vintage sound cards](https://www.vogons.org/viewtopic.php?t=68265)
 * [2022-06-26, 14:37:00](https://news.ycombinator.com/item?id=31884403) - [Researchers demystify ancient Aboriginal migration across Australia (2021)](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
 * [2022-06-26, 13:57:53](https://news.ycombinator.com/item?id=31884038) - [Show HN: A tiny (850B) and fast reactive observables library via functions](https://github.com/maverick-js/observables)
 * [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
 * [2022-06-26, 13:48:47](https://news.ycombinator.com/item?id=31883944) - [Ask HN: How to protect against future cancellation and social credit systems?](https://news.ycombinator.com/item?id=31883944)
+* [2022-06-26, 13:20:11](https://news.ycombinator.com/item?id=31883659) - [Entropy: Why Life Always Seems to Get More Complicated](https://jamesclear.com/entropy)
 * [2022-06-26, 13:13:44](https://news.ycombinator.com/item?id=31883594) - [Crypto Is Crashing, But Companies Aren't Acting Like It](https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/)
 * [2022-06-26, 12:37:21](https://news.ycombinator.com/item?id=31883373) - [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
 * [2022-06-26, 12:20:18](https://news.ycombinator.com/item?id=31883286) - [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
