@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-26, 22:35:21](https://news.ycombinator.com/item?id=31888778) - [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
+* [2022-06-26, 21:18:04](https://news.ycombinator.com/item?id=31888075) - [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
 * [2022-06-26, 21:04:48](https://news.ycombinator.com/item?id=31887945) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [Blade Runner' at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 * [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps Is a Failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
@@ -22,14 +24,12 @@
 * [2022-06-26, 09:32:27](https://news.ycombinator.com/item?id=31882388) - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
 * [2022-06-26, 08:51:36](https://news.ycombinator.com/item?id=31882204) - [The “just worrying” labelling technique [pdf]](https://www.mindmate.org.uk/wp-content/uploads/2018/11/labelling-worry1-1.pdf)
 * [2022-06-26, 08:51:32](https://news.ycombinator.com/item?id=31882203) - [The giant hangar poised for an aviation revolution](https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution)
-* [2022-06-25, 16:09:01](https://news.ycombinator.com/item?id=31876379) - [Archaeologist discovers 6k year-old island settlement off Croatian coast (2021)](https://www.reuters.com/lifestyle/science/archaeologist-discovers-6000-year-old-island-settlement-off-croatian-coast-2021-06-24/)
 * [2022-06-25, 11:52:35](https://news.ycombinator.com/item?id=31874465) - [A frog so small, it could not frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/)
 * [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:35:21](https://news.ycombinator.com/item?id=31874387) - [Frozen baby woolly mammoth discovered in Yukon gold fields](https://www.cbc.ca/news/canada/north/frozen-whole-baby-woolly-mammoth-yukon-gold-fields-1.6501128)
 * [2022-06-25, 05:00:26](https://news.ycombinator.com/item?id=31872739) - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
 * [2022-06-24, 06:13:09](https://news.ycombinator.com/item?id=31858311) - [Let's stop ascribing meaning to code points (2017)](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 * [2022-06-24, 04:37:14](https://news.ycombinator.com/item?id=31857854) - [Fuzzy Joins (Minhash)](https://blog.yellowflash.in/2022/05/24/similarity-join.html)
-* [2022-06-23, 20:30:06](https://news.ycombinator.com/item?id=31854749) - [Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)](https://github.com/responsible-financial-innovation-act22/RFIA-bill)
 
 ## [Archives](archives/index.md)
 
