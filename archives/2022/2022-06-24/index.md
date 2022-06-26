@@ -34,6 +34,7 @@
 * [2022-06-24, 15:48:29](https://news.ycombinator.com/item?id=31864085) - [Computer History Museum Interview with David Cutler (2018) [video]](https://www.youtube.com/watch?v=29RkHH-psrY)
 * [2022-06-24, 15:42:51](https://news.ycombinator.com/item?id=31863966) - [Goodbye Zachtronics, Developers of Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
 * [2022-06-24, 15:39:37](https://news.ycombinator.com/item?id=31863910) - [Motorola 6800](https://en.wikipedia.org/wiki/Motorola_6800)
+* [2022-06-24, 15:28:42](https://news.ycombinator.com/item?id=31863688) - [What happened to giant hovercraft? [video]](https://www.youtube.com/watch?v=HnJLT8wFyhY)
 * [2022-06-24, 15:20:02](https://news.ycombinator.com/item?id=31863628) - [What's New in CoreML](https://quindarius.com/articles/whats-new-in-coreml/index.html)
 * [2022-06-24, 15:03:59](https://news.ycombinator.com/item?id=31863269) - [Build a PinePhone App with Zig and Zgt](https://lupyuen.github.io/articles/pinephone)
 * [2022-06-24, 15:02:45](https://news.ycombinator.com/item?id=31863243) - [Raindrop: All-in-One Bookmark Manager](https://raindrop.io/)
