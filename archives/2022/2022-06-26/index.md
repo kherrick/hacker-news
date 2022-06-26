@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 16:47:55](https://news.ycombinator.com/item?id=31885525) - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
+* [2022-06-26, 16:36:13](https://news.ycombinator.com/item?id=31885419) - [LaMDA’s Sentience Is Nonsense – Here’s Why](https://lastweekin.ai/p/lamdas-sentience-is-nonsense-heres)
 * [2022-06-26, 16:25:11](https://news.ycombinator.com/item?id=31885316) - [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
 * [2022-06-26, 16:19:08](https://news.ycombinator.com/item?id=31885272) - [Show HN: Simple games ported to Scala 3 – Try them in the browser](https://github.com/wiringbits/scala-js-games)
 * [2022-06-26, 16:06:13](https://news.ycombinator.com/item?id=31885174) - [Abolish Zoning. Entirely. For Good](https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/)
