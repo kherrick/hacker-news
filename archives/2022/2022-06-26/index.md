@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 17:49:49](https://news.ycombinator.com/item?id=31886120) - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
 * [2022-06-26, 16:47:55](https://news.ycombinator.com/item?id=31885525) - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
 * [2022-06-26, 16:36:13](https://news.ycombinator.com/item?id=31885419) - [LaMDA’s Sentience Is Nonsense – Here’s Why](https://lastweekin.ai/p/lamdas-sentience-is-nonsense-heres)
 * [2022-06-26, 16:25:11](https://news.ycombinator.com/item?id=31885316) - [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
