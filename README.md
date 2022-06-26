@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-26, 06:30:23](https://news.ycombinator.com/item?id=31881625) - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
 * [2022-06-26, 01:59:59](https://news.ycombinator.com/item?id=31880394) - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
 * [2022-06-26, 01:05:50](https://news.ycombinator.com/item?id=31880108) - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
 * [2022-06-26, 00:44:49](https://news.ycombinator.com/item?id=31879999) - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
@@ -14,7 +15,6 @@
 * [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 17:33:06](https://news.ycombinator.com/item?id=31877079) - [EverQuest’s long, strange 20-year trip still has no end in sight (2019)](https://arstechnica.com/gaming/2019/06/everquests-long-strange-20-year-trip-still-has-no-end-in-sight/)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
-* [2022-06-25, 17:00:56](https://news.ycombinator.com/item?id=31876831) - [OneSignal (YC S11) is hiring back end and full stack engineers](https://onesignal.com/careers)
 * [2022-06-25, 15:55:43](https://news.ycombinator.com/item?id=31876250) - [Fermentation and Daily Life (2018)](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
 * [2022-06-25, 15:51:33](https://news.ycombinator.com/item?id=31876220) - [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
 * [2022-06-25, 14:43:42](https://news.ycombinator.com/item?id=31875692) - [Flowers for Algernon (1965) [pdf]](https://www.sdfo.org/gj/stories/flowersforalgernon.pdf)
