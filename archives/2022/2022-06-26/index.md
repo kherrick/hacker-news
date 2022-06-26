@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+* [2022-06-26, 19:07:45](https://news.ycombinator.com/item?id=31886907) - [Ask HN: How on earth are you using your Apple computer with external displays?](https://news.ycombinator.com/item?id=31886907)
 * [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 * [2022-06-26, 17:50:23](https://news.ycombinator.com/item?id=31886130) - [Java's Cover (2001)](http://paulgraham.com/javacover.html)
 * [2022-06-26, 17:49:49](https://news.ycombinator.com/item?id=31886120) - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
