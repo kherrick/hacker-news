@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
-* [2022-06-26, 17:50:23](https://news.ycombinator.com/item?id=31886130) - [Java's Cover (2001)](http://paulgraham.com/javacover.html)
 * [2022-06-26, 17:49:49](https://news.ycombinator.com/item?id=31886120) - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
 * [2022-06-26, 16:57:23](https://news.ycombinator.com/item?id=31885615) - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
 * [2022-06-26, 16:47:55](https://news.ycombinator.com/item?id=31885525) - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers (2016)](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
@@ -30,6 +29,7 @@
 * [2022-06-24, 18:47:57](https://news.ycombinator.com/item?id=31867545) - [The 8bit Keyboard](https://hackaday.io/project/185991-the-8bit-keyboard)
 * [2022-06-24, 06:13:09](https://news.ycombinator.com/item?id=31858311) - [Let's stop ascribing meaning to code points (2017)](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 * [2022-06-24, 04:37:14](https://news.ycombinator.com/item?id=31857854) - [Fuzzy Joins (Minhash)](https://blog.yellowflash.in/2022/05/24/similarity-join.html)
+* [2022-06-23, 20:30:06](https://news.ycombinator.com/item?id=31854749) - [Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)](https://github.com/responsible-financial-innovation-act22/RFIA-bill)
 
 ## [Archives](archives/index.md)
 

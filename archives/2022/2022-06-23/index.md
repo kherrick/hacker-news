@@ -10,6 +10,7 @@
 * [2022-06-23, 22:10:24](https://news.ycombinator.com/item?id=31855732) - [Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to](https://www.nerdcrawler.com/)
 * [2022-06-23, 21:26:41](https://news.ycombinator.com/item?id=31855357) - [Ferrari installed a 1MW fuel cell unit to expedite carbon neutrality](https://newsotg.com/2022/06/23/latest-news/ferrari-installed-a-1mw-fuel-cell-unit-to-expedite-carbon-neutrality/)
 * [2022-06-23, 21:06:53](https://news.ycombinator.com/item?id=31855163) - [The dangerous playgrounds of 1900s through vintage photographs](https://rarehistoricalphotos.com/dangerous-playgrounds-1900s/)
+* [2022-06-23, 20:30:06](https://news.ycombinator.com/item?id=31854749) - [Lummis-Gillibrand Responsible Financial Innovation Act (S. 4356)](https://github.com/responsible-financial-innovation-act22/RFIA-bill)
 * [2022-06-23, 20:28:56](https://news.ycombinator.com/item?id=31854738) - [Advice for Academic Refugees](https://eigenrobot.substack.com/p/advice-for-academic-refugees)
 * [2022-06-23, 19:53:23](https://news.ycombinator.com/item?id=31854347) - [One centimeter long bacterium discovered](https://www.science.org/doi/10.1126/science.abb3634)
 * [2022-06-23, 19:53:10](https://news.ycombinator.com/item?id=31854346) - [Show HN: In-depth photographic look at all the golf courses I play](https://www.golfscout.net)
