@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 * [2022-06-26, 17:50:23](https://news.ycombinator.com/item?id=31886130) - [Java's Cover (2001)](http://paulgraham.com/javacover.html)
 * [2022-06-26, 17:49:49](https://news.ycombinator.com/item?id=31886120) - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
 * [2022-06-26, 16:57:23](https://news.ycombinator.com/item?id=31885615) - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)

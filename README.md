@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 * [2022-06-26, 17:50:23](https://news.ycombinator.com/item?id=31886130) - [Java's Cover (2001)](http://paulgraham.com/javacover.html)
 * [2022-06-26, 17:49:49](https://news.ycombinator.com/item?id=31886120) - [Show HN: CRProxy is a simple and affordable ngrok alternative](https://crproxy.com)
 * [2022-06-26, 16:57:23](https://news.ycombinator.com/item?id=31885615) - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
@@ -16,7 +17,7 @@
 * [2022-06-26, 13:57:53](https://news.ycombinator.com/item?id=31884038) - [Show HN: A tiny and fast reactive observables library via functions](https://github.com/maverick-js/observables)
 * [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
 * [2022-06-26, 12:37:21](https://news.ycombinator.com/item?id=31883373) - [Ask HN: GPT-3 reveals my full name – can I do anything?](https://news.ycombinator.com/item?id=31883373)
-* [2022-06-26, 12:20:18](https://news.ycombinator.com/item?id=31883286) - [How do poor countries get rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
+* [2022-06-26, 12:07:02](https://news.ycombinator.com/item?id=31883209) - [Show HN: Particles – the URL contains the whole program code](https://easylang.online/run/?code=%23%20Particles%0A%23%20%0An_part%20%3D%2040%0Athres%20%3D%2015%0A%23%20%0Asubr%20connect%0A%20%20h%20%3D%20dx%20*%20dx%20%2B%20dy%20*%20dy%0A%20%20dist%20%3D%20sqrt%20h%0A%20%20if%20dist%20%3C%20thres%0A%20%20%20%20lw%20%3D%20(thres%20-%20dist)%20%2F%2030%0A%20%20%20%20linewidth%20lw%0A%20%20%20%20move%20px%20py%0A%20%20%20%20line%20px%5Bj%5D%20py%5Bj%5D%0A%20%20.%0A.%0Aon%20animate%0A%20%20clear%0A%20%20for%20i%20range%20n_part%0A%20%20%20%20px%20%3D%20px%5Bi%5D%0A%20%20%20%20py%20%3D%20py%5Bi%5D%0A%20%20%20%20move%20px%20py%0A%20%20%20%20circle%200.3125%0A%20%20%20%20for%20j%20range%20i%0A%20%20%20%20%20%20dx%20%3D%20abs%20(px%5Bj%5D%20-%20px)%0A%20%20%20%20%20%20if%20dx%20%3C%20thres%0A%20%20%20%20%20%20%20%20dy%20%3D%20abs%20(py%5Bj%5D%20-%20py)%0A%20%20%20%20%20%20%20%20if%20dy%20%3C%20thres%0A%20%20%20%20%20%20%20%20%20%20call%20connect%0A%20%20%20%20%20%20%20%20.%0A%20%20%20%20%20%20.%0A%20%20%20%20.%0A%20%20%20%20if%20px%20%3E%20100%20or%20px%20%3C%200%0A%20%20%20%20%20%20pvx%5Bi%5D%20%3D%20-pvx%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20if%20py%20%3E%20100%20or%20py%20%3C%200%0A%20%20%20%20%20%20pvy%5Bi%5D%20%3D%20-pvy%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20px%5Bi%5D%20%2B%3D%20pvx%5Bi%5D%0A%20%20%20%20py%5Bi%5D%20%2B%3D%20pvy%5Bi%5D%0A%20%20.%0A.%0Afor%20i%20range%20n_part%0A%20%20px%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20py%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20pvx%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A%20%20pvy%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A.%0A)
 * [2022-06-26, 12:06:49](https://news.ycombinator.com/item?id=31883206) - [Where did the long tail go?](https://tedgioia.substack.com/p/where-did-the-long-tail-go)
 * [2022-06-26, 10:01:07](https://news.ycombinator.com/item?id=31882512) - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
 * [2022-06-26, 09:32:27](https://news.ycombinator.com/item?id=31882388) - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
@@ -27,7 +28,6 @@
 * [2022-06-25, 11:52:35](https://news.ycombinator.com/item?id=31874465) - [A frog so small, it could not frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/)
 * [2022-06-25, 09:45:15](https://news.ycombinator.com/item?id=31873847) - [Doom on a chip from a IKEA LED smart lamp](https://uk.pcmag.com/games/133930/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
 * [2022-06-25, 05:00:26](https://news.ycombinator.com/item?id=31872739) - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
-* [2022-06-24, 18:47:57](https://news.ycombinator.com/item?id=31867545) - [The 8bit Keyboard](https://hackaday.io/project/185991-the-8bit-keyboard)
 * [2022-06-24, 06:13:09](https://news.ycombinator.com/item?id=31858311) - [Let's stop ascribing meaning to code points (2017)](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/)
 * [2022-06-24, 04:37:14](https://news.ycombinator.com/item?id=31857854) - [Fuzzy Joins (Minhash)](https://blog.yellowflash.in/2022/05/24/similarity-join.html)
 
