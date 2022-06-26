@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [Blade Runner' at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 * [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps Is a Failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 * [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 * [2022-06-26, 19:07:45](https://news.ycombinator.com/item?id=31886907) - [Ask HN: How on earth are you using your Apple computer with external displays?](https://news.ycombinator.com/item?id=31886907)
@@ -13,7 +14,6 @@
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life is not short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
 * [2022-06-26, 14:58:05](https://news.ycombinator.com/item?id=31884585) - [Comprehensive list of modern reproductions of vintage sound cards](https://www.vogons.org/viewtopic.php?t=68265)
-* [2022-06-26, 14:37:00](https://news.ycombinator.com/item?id=31884403) - [Researchers demystify ancient Aboriginal migration across Australia (2021)](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
 * [2022-06-26, 13:57:53](https://news.ycombinator.com/item?id=31884038) - [Show HN: A tiny and fast reactive observables library via functions](https://github.com/maverick-js/observables)
 * [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
 * [2022-06-26, 12:37:21](https://news.ycombinator.com/item?id=31883373) - [Ask HN: GPT-3 reveals my full name – can I do anything?](https://news.ycombinator.com/item?id=31883373)
