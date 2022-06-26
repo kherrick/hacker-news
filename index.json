@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-26, 16:25:11",
+      "https://news.ycombinator.com/item?id=31885316"
+    ],
+    [
+      "Learning from Las Vegas: Sustainable vs. Susceptible",
+      "https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability"
+    ]
+  ],
+  [
+    [
       "2022-06-26, 16:19:08",
       "https://news.ycombinator.com/item?id=31885272"
     ],
     [
       "Show HN: Simple games ported to Scala 3 – Try them in the browser",
       "https://github.com/wiringbits/scala-js-games"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 16:06:13",
+      "https://news.ycombinator.com/item?id=31885174"
+    ],
+    [
+      "Abolish Zoning. Entirely. For Good",
+      "https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=31885137"
     ],
     [
-      "Life Is Not Short",
+      "Life is not short",
       "https://dkb.show/post/life-is-not-short"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31884846"
     ],
     [
-      "Who Is Going to Replace Google for Us?",
+      "Who is going to replace Google for us?",
       "https://michaeldehaan.substack.com/p/who-is-going-to-replace-google-for"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31884038"
     ],
     [
-      "Show HN: A tiny (850B) and fast reactive observables library via functions",
+      "Show HN: A tiny and fast reactive observables library via functions",
       "https://github.com/maverick-js/observables"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=31883373"
     ],
     [
-      "Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?",
+      "Ask HN: GPT-3 reveals my full name – can I do anything?",
       "https://news.ycombinator.com/item?id=31883373"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=31883206"
     ],
     [
-      "Where Did the Long Tail Go?",
+      "Where did the long tail go?",
       "https://tedgioia.substack.com/p/where-did-the-long-tail-go"
     ]
   ],
@@ -145,18 +165,8 @@
       "https://news.ycombinator.com/item?id=31882388"
     ],
     [
-      "GitHub: Thank You to Our Maintainers",
+      "Thank you to our maintainers",
       "https://github.blog/2022-06-24-thank-you-to-our-maintainers/"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 09:23:59",
-      "https://news.ycombinator.com/item?id=31882355"
-    ],
-    [
-      "On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane",
-      "https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Cycling: Why Tunnels are Better than Bridges (2014)",
       "https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 01:59:59",
-      "https://news.ycombinator.com/item?id=31880394"
-    ],
-    [
-      "Why I still recommend Julia",
-      "https://huijzer.xyz/posts/recommend/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31874465"
     ],
     [
-      "A frog so small, It could not frog",
+      "A frog so small, it could not frog",
       "https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/"
     ]
   ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-06-24, 22:43:26",
-      "https://news.ycombinator.com/item?id=31870439"
+      "2022-06-25, 05:00:26",
+      "https://news.ycombinator.com/item?id=31872739"
     ],
     [
-      "‘The Socratic Method’ Review: Let Us Reason Together",
-      "https://www.wsj.com/articles/the-socratic-method-book-review-let-us-reason-together-11656085510"
+      "Crystal's Interpreter (2021)",
+      "https://crystal-lang.org/2021/12/29/crystal-i.html"
     ]
   ],
   [
