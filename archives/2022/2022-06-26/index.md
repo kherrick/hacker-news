@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
+* [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
 * [2022-06-26, 13:48:47](https://news.ycombinator.com/item?id=31883944) - [Ask HN: How to protect against future cancellation and social credit systems?](https://news.ycombinator.com/item?id=31883944)
 * [2022-06-26, 13:13:44](https://news.ycombinator.com/item?id=31883594) - [Crypto Is Crashing, But Companies Aren't Acting Like It](https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/)
 * [2022-06-26, 12:37:21](https://news.ycombinator.com/item?id=31883373) - [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
