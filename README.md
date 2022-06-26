@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-26, 07:16:50](https://news.ycombinator.com/item?id=31881847) - [Language Design: Stop Using Angle Brackets For Generics](https://soc.me/languages/stop-using-angle-brackets-for-generics.html)
 * [2022-06-26, 06:30:23](https://news.ycombinator.com/item?id=31881625) - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
 * [2022-06-26, 06:13:35](https://news.ycombinator.com/item?id=31881553) - [Cycling: Why Tunnels are Better than Bridges (2014)](https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html)
 * [2022-06-26, 05:03:04](https://news.ycombinator.com/item?id=31881238) - [The fall of Reddit: Why it’s quickly declining into chaos](https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56)
@@ -14,6 +13,7 @@
 * [2022-06-25, 20:13:43](https://news.ycombinator.com/item?id=31878355) - [Spiritual Bypassing (2011) [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
 * [2022-06-25, 19:01:11](https://news.ycombinator.com/item?id=31877772) - [Mummified baby woolly mammoth found in the Yukon](https://yukon.ca/en/news/mummified-baby-woolly-mammoth-found-gold-miner-klondike)
 * [2022-06-25, 18:48:33](https://news.ycombinator.com/item?id=31877672) - [AI-guided robots are ready to sort recyclables](https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables)
+* [2022-06-25, 18:15:58](https://news.ycombinator.com/item?id=31877444) - [Fighting crime by checking buildings, not suspects](https://www.newsnationnow.com/solutions/police-are-fighting-crime-by-looking-at-buildings-not-criminals/)
 * [2022-06-25, 18:07:36](https://news.ycombinator.com/item?id=31877373) - [Most of the world’s grain is not eaten by humans](https://www.economist.com/graphic-detail/2022/06/23/most-of-the-worlds-grain-is-not-eaten-by-humans)
 * [2022-06-25, 17:19:19](https://news.ycombinator.com/item?id=31876981) - [AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry](https://www.tuhs.org/mailman3/hyperkitty/list/tuhs@tuhs.org/message/H2XN5ONL3XAAUFVERXNYKS7QOZAOGBFA/)
 * [2022-06-25, 15:51:33](https://news.ycombinator.com/item?id=31876220) - [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
