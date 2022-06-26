@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-26, 05:03:04](https://news.ycombinator.com/item?id=31881238) - [The fall of Reddit: Why it’s quickly declining into chaos](https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56)
 * [2022-06-26, 01:59:59](https://news.ycombinator.com/item?id=31880394) - [Why I still recommend Julia](https://huijzer.xyz/posts/recommend/)
 * [2022-06-26, 01:05:50](https://news.ycombinator.com/item?id=31880108) - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
 * [2022-06-26, 00:44:49](https://news.ycombinator.com/item?id=31879999) - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
 * [2022-06-26, 00:08:03](https://news.ycombinator.com/item?id=31879820) - [‘Reverse Engineering’ Hacker News into an API](https://lukakerr.github.io/javascript/reverse-engineering-hacker-news-into-an-api)
 * [2022-06-25, 21:51:42](https://news.ycombinator.com/item?id=31879015) - [Don't let dicts spoil your code (2020)](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
 * [2022-06-25, 21:29:42](https://news.ycombinator.com/item?id=31878876) - [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
+* [2022-06-25, 21:00:29](https://news.ycombinator.com/item?id=31878690) - [Mutter-Rounded – A window manager for Gnome, with rounded corners patch](https://github.com/yilozt/mutter-rounded)
 * [2022-06-25, 20:19:33](https://news.ycombinator.com/item?id=31878396) - [Tom Davies has become a beloved icon of GeoGuessr](https://www.newyorker.com/culture/rabbit-holes/the-charming-bloke-who-dominates-geoguessr)
 * [2022-06-25, 20:13:43](https://news.ycombinator.com/item?id=31878355) - [Spiritual Bypassing (2011) [pdf]](https://www.johnwelwood.com/articles/TRIC_interview_uncut.pdf)
 * [2022-06-25, 19:01:11](https://news.ycombinator.com/item?id=31877772) - [Mummified baby woolly mammoth found in the Yukon](https://yukon.ca/en/news/mummified-baby-woolly-mammoth-found-gold-miner-klondike)
