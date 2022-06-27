@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 14:37:01](https://news.ycombinator.com/item?id=31895160) - [Energy Crunch Concerns Lead Japan’s Government to Call for Reduced AC Use](https://www.nippon.com/en/japan-data/h01355/)
+* [2022-06-27, 14:36:09](https://news.ycombinator.com/item?id=31895148) - [Consider Disabling HTTPS Auto Redirects](https://1mb.club/blog/https-redirects/)
+* [2022-06-27, 14:30:07](https://news.ycombinator.com/item?id=31895068) - [Age, sex-specific risks of myocarditis and pericarditis, Covid-19 mRNA vaccines](https://www.nature.com/articles/s41467-022-31401-5)
 * [2022-06-27, 14:15:48](https://news.ycombinator.com/item?id=31894877) - [Tech layoffs are looming: what is new hiring impact Remote vs. in-person](https://news.ycombinator.com/item?id=31894877)
 * [2022-06-27, 14:05:09](https://news.ycombinator.com/item?id=31894749) - [LibreWolf: A privacy-focused Firefox fork](https://ubunlog.com/en/freewolf/)
 * [2022-06-27, 14:00:05](https://news.ycombinator.com/item?id=31894690) - [Apple's claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
