@@ -26,9 +26,9 @@
 * [2022-06-25, 19:50:31](https://news.ycombinator.com/item?id=31878172) - [PDP-8 Small-C Compiler (2012)](https://so-much-stuff.com/pdp8/C/Small-C.php)
 * [2022-06-25, 17:44:10](https://news.ycombinator.com/item?id=31877173) - [Nikon Z9 Disassembly and Teardown](https://kolarivision.com/nikon-z9-disassembly-and-teardown/)
 * [2022-06-25, 12:16:19](https://news.ycombinator.com/item?id=31874606) - [Hollywood doesn’t make movies like ‘The Fugitive’ anymore (2018)](https://www.theatlantic.com/entertainment/archive/2018/08/the-fugitive-harrison-ford-25-years-later/566729/)
-* [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:20:29](https://news.ycombinator.com/item?id=31874318) - [The Seiko TV watch](https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch)
 * [2022-06-25, 06:32:09](https://news.ycombinator.com/item?id=31873061) - [Whatever hit the Moon in March, it left a double crater](https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/)
+* [2022-06-25, 06:15:06](https://news.ycombinator.com/item?id=31872994) - [Pure: A static analysis file format checker](https://github.com/ronomon/pure)
 * [2022-06-22, 10:45:04](https://news.ycombinator.com/item?id=31834256) - [Going Critical (2019)](https://meltingasphalt.com/interactive/going-critical/)
 
 ## [Archives](archives/index.md)

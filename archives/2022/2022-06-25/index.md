@@ -75,6 +75,7 @@
 * [2022-06-25, 07:02:47](https://news.ycombinator.com/item?id=31873192) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 * [2022-06-25, 06:32:09](https://news.ycombinator.com/item?id=31873061) - [Whatever hit the Moon in March, it left a double crater](https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/)
+* [2022-06-25, 06:15:06](https://news.ycombinator.com/item?id=31872994) - [Pure: A static analysis file format checker](https://github.com/ronomon/pure)
 * [2022-06-25, 05:00:26](https://news.ycombinator.com/item?id=31872739) - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
 * [2022-06-25, 03:22:17](https://news.ycombinator.com/item?id=31872272) - [Ancient art and genetics reveal origin of world’s most expensive spice](https://blog.frontiersin.org/2022/03/09/frontiers-plant-science-domestication-origin-saffron-crocus-bronze-age-greece/)
 * [2022-06-25, 03:04:36](https://news.ycombinator.com/item?id=31872155) - [A Mystery That Took 13,200 Years to Crack](https://www.theatlantic.com/science/archive/2022/06/mastodon-mammoth-extinction-climate-change/661351/)
