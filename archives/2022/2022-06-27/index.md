@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
+* [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
+* [2022-06-27, 05:30:54](https://news.ycombinator.com/item?id=31890894) - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
+* [2022-06-27, 05:09:30](https://news.ycombinator.com/item?id=31890781) - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
+* [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago (CSV file)](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
 * [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
 * [2022-06-27, 03:50:12](https://news.ycombinator.com/item?id=31890402) - [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)

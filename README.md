@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-27, 03:50:12](https://news.ycombinator.com/item?id=31890402) - [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
+* [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
+* [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
+* [2022-06-27, 05:30:54](https://news.ycombinator.com/item?id=31890894) - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
+* [2022-06-27, 05:09:30](https://news.ycombinator.com/item?id=31890781) - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
+* [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago (CSV file)](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-checked keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 * [2022-06-27, 01:45:52](https://news.ycombinator.com/item?id=31889785) - [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 * [2022-06-27, 00:55:47](https://news.ycombinator.com/item?id=31889523) - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
@@ -13,11 +17,8 @@
 * [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [‘Blade Runner’ at 40](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 * [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps is a failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 * [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do? (2014)](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
-* [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
-* [2022-06-26, 17:50:23](https://news.ycombinator.com/item?id=31886130) - [Java's Cover (2001)](http://paulgraham.com/javacover.html)
 * [2022-06-26, 16:57:23](https://news.ycombinator.com/item?id=31885615) - [Reading Ourselves to Death](https://www.thenewatlantis.com/publications/reading-ourselves-to-death)
 * [2022-06-26, 16:47:55](https://news.ycombinator.com/item?id=31885525) - [Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers (2016)](https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html)
-* [2022-06-26, 16:25:11](https://news.ycombinator.com/item?id=31885316) - [Learning from Las Vegas: Sustainable vs. Susceptible](https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability)
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life is not short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 13:49:38](https://news.ycombinator.com/item?id=31883951) - [BMW F Series Gear Selector, Part One: Failures](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/)
 * [2022-06-26, 08:51:32](https://news.ycombinator.com/item?id=31882203) - [The giant hangar poised for an aviation revolution](https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution)
@@ -29,7 +30,6 @@
 * [2022-06-25, 11:52:35](https://news.ycombinator.com/item?id=31874465) - [A frog so small, it could not frog](https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/)
 * [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:20:29](https://news.ycombinator.com/item?id=31874318) - [The Seiko TV watch](https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch)
-* [2022-06-25, 05:00:26](https://news.ycombinator.com/item?id=31872739) - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
 
 ## [Archives](archives/index.md)
 
