@@ -56,6 +56,7 @@
 * [2022-06-26, 07:16:50](https://news.ycombinator.com/item?id=31881847) - [Language Design: Stop Using Angle Brackets For Generics](https://soc.me/languages/stop-using-angle-brackets-for-generics.html)
 * [2022-06-26, 06:30:23](https://news.ycombinator.com/item?id=31881625) - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
 * [2022-06-26, 06:13:35](https://news.ycombinator.com/item?id=31881553) - [Cycling: Why Tunnels are Better than Bridges (2014)](https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html)
+* [2022-06-26, 05:36:25](https://news.ycombinator.com/item?id=31881413) - [Adding Modules to C in 10 Lines of Code [pdf]](https://nwcpp.org/talks/2022/modules_in_c.pdf)
 * [2022-06-26, 05:03:04](https://news.ycombinator.com/item?id=31881238) - [The fall of Reddit: Why it’s quickly declining into chaos](https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56)
 * [2022-06-26, 04:55:56](https://news.ycombinator.com/item?id=31881206) - [$ curl -I https://web3usecase.com](https://web3usecase.com/)
 * [2022-06-26, 02:17:03](https://news.ycombinator.com/item?id=31880489) - [Book Review: Disrupting the Game](https://clever.bearblog.dev/book-review-disrupting-the-game/)
