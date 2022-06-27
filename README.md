@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 * [2022-06-27, 01:45:52](https://news.ycombinator.com/item?id=31889785) - [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 * [2022-06-27, 00:55:47](https://news.ycombinator.com/item?id=31889523) - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
@@ -9,7 +10,7 @@
 * [2022-06-26, 22:14:59](https://news.ycombinator.com/item?id=31888624) - [What's New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
 * [2022-06-26, 21:18:04](https://news.ycombinator.com/item?id=31888075) - [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
 * [2022-06-26, 21:04:48](https://news.ycombinator.com/item?id=31887945) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
-* [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - ['Blade Runner' at 40](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
+* [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [‘Blade Runner’ at 40](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 * [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps is a failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 * [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do? (2014)](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 * [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
@@ -29,7 +30,6 @@
 * [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:20:29](https://news.ycombinator.com/item?id=31874318) - [The Seiko TV watch](https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch)
 * [2022-06-25, 05:00:26](https://news.ycombinator.com/item?id=31872739) - [Crystal's Interpreter (2021)](https://crystal-lang.org/2021/12/29/crystal-i.html)
-* [2022-06-24, 04:37:14](https://news.ycombinator.com/item?id=31857854) - [Similarity join (Min-hash)](https://blog.yellowflash.in/2022/05/24/similarity-join.html)
 
 ## [Archives](archives/index.md)
 
