@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 12:48:03](https://news.ycombinator.com/item?id=31893823) - [Tech Companies Won't Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
 * [2022-06-27, 12:43:26](https://news.ycombinator.com/item?id=31893771) - [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
 * [2022-06-27, 12:10:51](https://news.ycombinator.com/item?id=31893408) - [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
 * [2022-06-27, 10:46:00](https://news.ycombinator.com/item?id=31892738) - [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
@@ -11,6 +12,7 @@
 * [2022-06-27, 09:45:05](https://news.ycombinator.com/item?id=31892421) - [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
 * [2022-06-27, 09:39:57](https://news.ycombinator.com/item?id=31892384) - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
 * [2022-06-27, 09:26:11](https://news.ycombinator.com/item?id=31892299) - [Outlook scans emails arriving in your inbox and sends all found URLs to Bing](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
+* [2022-06-27, 08:59:31](https://news.ycombinator.com/item?id=31892113) - [The Socialist Lavatory League (2019)](https://www.lrb.co.uk/the-paper/v41/n09/owen-hatherley/the-socialist-lavatory-league)
 * [2022-06-27, 08:23:09](https://news.ycombinator.com/item?id=31891907) - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
