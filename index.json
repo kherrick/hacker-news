@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-06-27, 06:03:16",
+      "https://news.ycombinator.com/item?id=31891090"
+    ],
+    [
+      "Notes on OpenSSL remote memory corruption by Guido Vranken",
+      "https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/"
+    ]
+  ],
+  [
+    [
       "2022-06-27, 05:30:54",
       "https://news.ycombinator.com/item?id=31890894"
     ],
@@ -47,16 +57,6 @@
     [
       "Top startups in Chicago (CSV file)",
       "https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007"
-    ]
-  ],
-  [
-    [
-      "2022-06-27, 03:50:12",
-      "https://news.ycombinator.com/item?id=31890402"
-    ],
-    [
-      "Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'",
-      "https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-06-26, 19:50:48",
-      "https://news.ycombinator.com/item?id=31887322"
-    ],
-    [
-      "DevOps is a failure",
-      "https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 19:36:54",
       "https://news.ycombinator.com/item?id=31887202"
     ],
@@ -197,6 +187,16 @@
     [
       "Life is not short",
       "https://dkb.show/post/life-is-not-short"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 13:49:38",
+      "https://news.ycombinator.com/item?id=31883951"
+    ],
+    [
+      "BMW F Series Gear Selector, Part One: Failures",
+      "https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-one-failures/"
     ]
   ],
   [
