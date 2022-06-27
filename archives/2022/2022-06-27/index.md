@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 17:42:59](https://news.ycombinator.com/item?id=31898001) - [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
+* [2022-06-27, 17:41:25](https://news.ycombinator.com/item?id=31897977) - [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
+* [2022-06-27, 17:36:12](https://news.ycombinator.com/item?id=31897889) - [Whist, a new cloud-hybrid browser](https://www.whist.com/)
 * [2022-06-27, 17:18:49](https://news.ycombinator.com/item?id=31897660) - [Why America Can't Build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
+* [2022-06-27, 17:17:54](https://news.ycombinator.com/item?id=31897648) - [Misrepresenting Open Source for Business Benefit](https://danb.me/blog/posts/misrepresenting-open-source/)
 * [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 — a better SQL — now ready to use](https://github.com/prql/prql)
 * [2022-06-27, 16:49:46](https://news.ycombinator.com/item?id=31897249) - [Show HN: Get rid of Git submodules and never look back (now for GitHub users)](https://gitmodules.com/)
 * [2022-06-27, 16:41:06](https://news.ycombinator.com/item?id=31897101) - [Meta has built a new language AI–and it’s giving it away for free](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/)
