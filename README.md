@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-27, 09:45:05](https://news.ycombinator.com/item?id=31892421) - [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
 * [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two types of privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
@@ -17,7 +18,6 @@
 * [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [‘Blade Runner’ at 40](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
 * [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps is a failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 * [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do? (2014)](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
-* [2022-06-26, 18:44:25](https://news.ycombinator.com/item?id=31886687) - [The SQLite Code of Ethics](https://sqlite.org/codeofethics.html)
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life is not short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 08:51:32](https://news.ycombinator.com/item?id=31882203) - [The giant hangar poised for an aviation revolution](https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution)
 * [2022-06-26, 05:36:25](https://news.ycombinator.com/item?id=31881413) - [Adding Modules to C in 10 Lines of Code [pdf]](https://nwcpp.org/talks/2022/modules_in_c.pdf)
