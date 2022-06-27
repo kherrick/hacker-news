@@ -3,6 +3,7 @@
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
 * [2022-06-27, 21:01:07](https://news.ycombinator.com/item?id=31900737) - [Finley (YC W21) is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
 * [2022-06-27, 20:39:58](https://news.ycombinator.com/item?id=31900482) - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
+* [2022-06-27, 20:26:38](https://news.ycombinator.com/item?id=31900312) - [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
 * [2022-06-27, 20:08:59](https://news.ycombinator.com/item?id=31900095) - [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
@@ -28,7 +29,6 @@
 * [2022-06-26, 13:09:40](https://news.ycombinator.com/item?id=31883565) - [The power of swag in the tech industry](https://triosdevelopers.com/jason.eckert/myblog/the-power-of-swag/)
 * [2022-06-26, 09:28:32](https://news.ycombinator.com/item?id=31882374) - [Stream thoughtful films with your public library or university card](https://www.kanopy.com/en/?frontend=kui)
 * [2022-06-26, 06:14:07](https://news.ycombinator.com/item?id=31881557) - [Wild turtles age slowly, and some basically don’t age at all](https://www.futurity.org/turtles-aging-lifespans-2758992-2/)
-* [2022-06-25, 06:32:09](https://news.ycombinator.com/item?id=31873061) - [Whatever hit the Moon in March, it left a double crater](https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/)
 * [2022-06-24, 07:09:19](https://news.ycombinator.com/item?id=31858604) - [Ask HN: What tone to use in code review suggestions?](https://news.ycombinator.com/item?id=31858604)
 
 ## [Archives](archives/index.md)
