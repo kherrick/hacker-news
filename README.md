@@ -24,7 +24,7 @@
 * [2022-06-27, 05:30:54](https://news.ycombinator.com/item?id=31890894) - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
 * [2022-06-27, 03:47:05](https://news.ycombinator.com/item?id=31890388) - [13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
-* [2022-06-26, 13:09:40](https://news.ycombinator.com/item?id=31883565) - [Swag in the Tech Industry](https://triosdevelopers.com/jason.eckert/myblog/the-power-of-swag/)
+* [2022-06-26, 23:38:00](https://news.ycombinator.com/item?id=31889139) - [The Ideal Praise-to-Criticism Ratio (2013)](https://hbr.org/2013/03/the-ideal-praise-to-criticism)
 * [2022-06-26, 09:28:32](https://news.ycombinator.com/item?id=31882374) - [Stream thoughtful films with your public library or university card](https://www.kanopy.com/en/?frontend=kui)
 * [2022-06-26, 06:14:07](https://news.ycombinator.com/item?id=31881557) - [Wild turtles age slowly, and some basically don’t age at all](https://www.futurity.org/turtles-aging-lifespans-2758992-2/)
 * [2022-06-25, 07:21:44](https://news.ycombinator.com/item?id=31873273) - [Drill small, precise holes (2009)](https://www.instructables.com/Drill-Small-Precise-Holes/)

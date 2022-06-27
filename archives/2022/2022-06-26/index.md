@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-26](index.md)
 
 * [2022-06-26, 23:38:18](https://news.ycombinator.com/item?id=31889142) - [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
+* [2022-06-26, 23:38:00](https://news.ycombinator.com/item?id=31889139) - [The Ideal Praise-to-Criticism Ratio (2013)](https://hbr.org/2013/03/the-ideal-praise-to-criticism)
 * [2022-06-26, 23:20:45](https://news.ycombinator.com/item?id=31889047) - [Ask HN: What are good genealogy/family history/immigration search engines?](https://news.ycombinator.com/item?id=31889047)
 * [2022-06-26, 22:35:21](https://news.ycombinator.com/item?id=31888778) - [Memory Safety for the World’s Largest Software Project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
 * [2022-06-26, 22:14:59](https://news.ycombinator.com/item?id=31888624) - [What's New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
