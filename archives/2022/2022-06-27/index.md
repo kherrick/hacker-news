@@ -6,6 +6,7 @@
 
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
 * [2022-06-27, 18:26:36](https://news.ycombinator.com/item?id=31898605) - [4 in 5 Americans Who Need Insulin Have Taken on Credit Card Debt to Cover Cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
+* [2022-06-27, 18:15:35](https://news.ycombinator.com/item?id=31898454) - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
 * [2022-06-27, 17:42:59](https://news.ycombinator.com/item?id=31898001) - [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
 * [2022-06-27, 17:41:25](https://news.ycombinator.com/item?id=31897977) - [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
