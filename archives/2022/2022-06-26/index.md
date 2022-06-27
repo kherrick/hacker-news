@@ -59,6 +59,7 @@
 * [2022-06-26, 04:55:56](https://news.ycombinator.com/item?id=31881206) - [$ curl -I https://web3usecase.com](https://web3usecase.com/)
 * [2022-06-26, 01:59:59](https://news.ycombinator.com/item?id=31880394) - [“Why I still recommend Julia”](https://huijzer.xyz/posts/recommend/)
 * [2022-06-26, 01:11:39](https://news.ycombinator.com/item?id=31880138) - [Meta bans staff from open discussion of Roe vs. Wade](https://www.businessinsider.com/meta-bans-staff-from-discussing-roe-v-wade-deleting-messages-2022-6)
+* [2022-06-26, 01:08:07](https://news.ycombinator.com/item?id=31880123) - [Hyperphysics: Musical Instruments](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/musinscon.html#c1)
 * [2022-06-26, 01:05:50](https://news.ycombinator.com/item?id=31880108) - [Enclave: An Unpickable Lock](https://ominoushum.com/lock/)
 * [2022-06-26, 00:44:49](https://news.ycombinator.com/item?id=31879999) - [Switzerland’s underground freight project gets start date](https://lenews.ch/2022/06/24/switzerlands-underground-freight-project-gets-start-date/)
 * [2022-06-26, 00:08:03](https://news.ycombinator.com/item?id=31879820) - [‘Reverse Engineering’ Hacker News into an API](https://lukakerr.github.io/javascript/reverse-engineering-hacker-news-into-an-api)
