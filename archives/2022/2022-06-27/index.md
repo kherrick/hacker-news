@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 10:46:00](https://news.ycombinator.com/item?id=31892738) - [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
 * [2022-06-27, 10:15:41](https://news.ycombinator.com/item?id=31892581) - [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
 * [2022-06-27, 09:45:05](https://news.ycombinator.com/item?id=31892421) - [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
 * [2022-06-27, 09:39:57](https://news.ycombinator.com/item?id=31892384) - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
+* [2022-06-27, 09:26:11](https://news.ycombinator.com/item?id=31892299) - [Outlook scans emails arriving in your inbox and sends all found URLs to Bing](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
+* [2022-06-27, 08:23:09](https://news.ycombinator.com/item?id=31891907) - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
 * [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
