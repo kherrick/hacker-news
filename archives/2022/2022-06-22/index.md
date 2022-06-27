@@ -62,6 +62,7 @@
 * [2022-06-22, 11:05:47](https://news.ycombinator.com/item?id=31834408) - [The Go netpoller (2013)](https://morsmachine.dk/netpoller)
 * [2022-06-22, 11:02:39](https://news.ycombinator.com/item?id=31834387) - [The Business Impact of Code Quality](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
 * [2022-06-22, 10:50:16](https://news.ycombinator.com/item?id=31834300) - [Mega Attack Explainer](https://flaked.sockpuppet.org/2022/06/21/because-ive-obviously.html)
+* [2022-06-22, 10:45:04](https://news.ycombinator.com/item?id=31834256) - [Going Critical (2019)](https://meltingasphalt.com/interactive/going-critical/)
 * [2022-06-22, 10:09:21](https://news.ycombinator.com/item?id=31833956) - [California Is Poised to Ban Prostitution-Related Loitering Arrests](https://www.lamag.com/citythinkblog/california-is-poised-to-ban-prostitution-related-loitering-arrests/)
 * [2022-06-22, 10:02:07](https://news.ycombinator.com/item?id=31833904) - [Latest Busy Beaver champion has too many digits to count](https://www.sligocki.com//2022/06/21/bb-6-2-t15.html)
 * [2022-06-22, 09:59:29](https://news.ycombinator.com/item?id=31833891) - [iPhone 3G frame by Grid review](https://giuliomagnifico.blog/misc/2022/06/18/iphone3g-frame-by-grid.html)
