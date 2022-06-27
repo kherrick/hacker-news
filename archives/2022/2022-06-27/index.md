@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 16:49:46](https://news.ycombinator.com/item?id=31897249) - [Show HN: Get rid of Git submodules and never look back (now for GitHub users)](https://gitmodules.com/)
 * [2022-06-27, 16:20:15](https://news.ycombinator.com/item?id=31896769) - [Spas: Theory versus Practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
 * [2022-06-27, 15:21:27](https://news.ycombinator.com/item?id=31895820) - [3AC defaults of 670MM dollar loan](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
 * [2022-06-27, 15:19:50](https://news.ycombinator.com/item?id=31895791) - [The JavaScript Specification Has a New License](https://hacks.mozilla.org/2022/06/the-specification-for-javascript-has-a-new-license/)

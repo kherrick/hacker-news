@@ -46,6 +46,7 @@
 * [2022-06-26, 10:09:24](https://news.ycombinator.com/item?id=31882545) - [Misunderstood Parts of the Scrum Guide](https://medium.com/serious-scrum/the-10-most-misunderstood-parts-of-the-scrum-guide-898b8b25f3d9)
 * [2022-06-26, 10:01:07](https://news.ycombinator.com/item?id=31882512) - [We Halved Go Monorepo CI Build Time](https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/)
 * [2022-06-26, 09:32:27](https://news.ycombinator.com/item?id=31882388) - [GitHub: Thank You to Our Maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
+* [2022-06-26, 09:28:32](https://news.ycombinator.com/item?id=31882374) - [Stream thoughtful films with your public library or university card](https://www.kanopy.com/en/?frontend=kui)
 * [2022-06-26, 09:23:59](https://news.ycombinator.com/item?id=31882355) - [On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane](https://blog.qwasar.io/blog/on-the-closing-of-42-silicon-valley-from-42-co-founder-kwame-yamgnane)
 * [2022-06-26, 09:01:00](https://news.ycombinator.com/item?id=31882258) - [Germany Ends Ban on Abortion Advertisement](https://www.nytimes.com/2022/06/24/world/europe/germany-abortion-law.html)
 * [2022-06-26, 09:00:26](https://news.ycombinator.com/item?id=31882256) - [Pgo: The Postgres operator from crunchy data](https://github.com/CrunchyData/postgres-operator)
