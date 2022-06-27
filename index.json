@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-06-27, 16:20:15",
+      "https://news.ycombinator.com/item?id=31896769"
+    ],
+    [
+      "Spas: Theory versus Practice",
+      "https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/"
+    ]
+  ],
+  [
+    [
       "2022-06-27, 15:21:27",
       "https://news.ycombinator.com/item?id=31895820"
     ],
     [
       "Three Arrows Capital has defaulted on a loan worth more than $670M",
       "https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 15:19:50",
+      "https://news.ycombinator.com/item?id=31895791"
+    ],
+    [
+      "The JavaScript Specification Has a New License",
+      "https://hacks.mozilla.org/2022/06/the-specification-for-javascript-has-a-new-license/"
     ]
   ],
   [
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2022-06-27, 14:54:32",
-      "https://news.ycombinator.com/item?id=31895410"
-    ],
-    [
-      "Electric fan car shatters the Goodwood hill climb record",
-      "https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 14:37:01",
       "https://news.ycombinator.com/item?id=31895160"
     ],
@@ -51,22 +61,22 @@
   ],
   [
     [
-      "2022-06-27, 14:32:51",
-      "https://news.ycombinator.com/item?id=31895100"
-    ],
-    [
-      "Vitalik Buterin Talks Georgism, Crypto, Voting Systems",
-      "https://narrativespodcast.com/2022/06/27/100-vitalik-buterin-governance-political-economy-and-crypto/"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 14:23:49",
       "https://news.ycombinator.com/item?id=31894986"
     ],
     [
       "Linux commands for advanced hardware and system info",
       "https://nixsanctuary.com/best-linux-hardware-system-info-commands/"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 14:15:48",
+      "https://news.ycombinator.com/item?id=31894877"
+    ],
+    [
+      "Ask HN: How is the remote vs in-person trend looking?",
+      "https://news.ycombinator.com/item?id=31894877"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-06-27, 08:59:31",
-      "https://news.ycombinator.com/item?id=31892113"
-    ],
-    [
-      "The Socialist Lavatory League (2019)",
-      "https://www.lrb.co.uk/the-paper/v41/n09/owen-hatherley/the-socialist-lavatory-league"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 07:33:11",
       "https://news.ycombinator.com/item?id=31891608"
     ],
@@ -217,16 +217,6 @@
     [
       "Lenses",
       "https://www.fpcomplete.com/haskell/tutorial/lens/"
-    ]
-  ],
-  [
-    [
-      "2022-06-27, 04:51:41",
-      "https://news.ycombinator.com/item?id=31890701"
-    ],
-    [
-      "Top startups in Chicago",
-      "https://www.employbl.com/blog/chicago-startup-companies-to-watch-2022"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Pure: A static analysis file format checker",
       "https://github.com/ronomon/pure"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 07:09:19",
+      "https://news.ycombinator.com/item?id=31858604"
+    ],
+    [
+      "Ask HN: What tone to use in code review suggestions?",
+      "https://news.ycombinator.com/item?id=31858604"
     ]
   ]
 ]
