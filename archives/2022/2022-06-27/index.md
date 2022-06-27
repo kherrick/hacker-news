@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
 * [2022-06-27, 19:34:18](https://news.ycombinator.com/item?id=31899640) - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
 * [2022-06-27, 18:26:36](https://news.ycombinator.com/item?id=31898605) - [4 in 5 Americans Who Need Insulin Have Taken on Credit Card Debt to Cover Cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
@@ -56,6 +57,7 @@
 * [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
 * [2022-06-27, 03:50:12](https://news.ycombinator.com/item?id=31890402) - [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
+* [2022-06-27, 03:47:05](https://news.ycombinator.com/item?id=31890388) - [13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
 * [2022-06-27, 01:45:52](https://news.ycombinator.com/item?id=31889785) - [USDA Ignoring the Science on Low-Carb Diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 * [2022-06-27, 00:55:47](https://news.ycombinator.com/item?id=31889523) - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
