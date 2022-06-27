@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-06-27, 00:55:47",
+      "https://news.ycombinator.com/item?id=31889523"
+    ],
+    [
+      "An AI drew my picture",
+      "https://twitter.com/wills_wire/status/1541223535481425921"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 00:13:40",
+      "https://news.ycombinator.com/item?id=31889297"
+    ],
+    [
+      "By Exploring Virtual Worlds, AI Learns in New Ways",
+      "https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 23:38:18",
+      "https://news.ycombinator.com/item?id=31889142"
+    ],
+    [
+      "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
+      "https://arxiv.org/abs/2206.11795"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 23:20:45",
+      "https://news.ycombinator.com/item?id=31889047"
+    ],
+    [
+      "Ask HN: What are good genealogy/family history/immigration search engines?",
+      "https://news.ycombinator.com/item?id=31889047"
+    ]
+  ],
+  [
+    [
       "2022-06-26, 22:35:21",
       "https://news.ycombinator.com/item?id=31888778"
     ],
     [
       "Memory Safety for the World’s Largest Software Project",
       "https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 22:14:59",
+      "https://news.ycombinator.com/item?id=31888624"
+    ],
+    [
+      "What's New in Python 3.11?",
+      "https://deepsource.io/blog/python-3-11-whats-new/"
     ]
   ],
   [
@@ -35,18 +85,8 @@
       "https://news.ycombinator.com/item?id=31887748"
     ],
     [
-      "Blade Runner' at 40: Ridley Scott Masterpiece Is Still the Greatest of All-Time",
+      "Blade Runner at forty",
       "https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 19:50:48",
-      "https://news.ycombinator.com/item?id=31887322"
-    ],
-    [
-      "DevOps Is a Failure",
-      "https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "The SQLite Code of Ethics",
       "https://sqlite.org/codeofethics.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 17:49:49",
-      "https://news.ycombinator.com/item?id=31886120"
-    ],
-    [
-      "Show HN: CRProxy is a simple and affordable ngrok alternative",
-      "https://crproxy.com"
     ]
   ],
   [
@@ -141,36 +171,6 @@
   ],
   [
     [
-      "2022-06-26, 15:37:30",
-      "https://news.ycombinator.com/item?id=31884932"
-    ],
-    [
-      "Show HN: Glossary page template with a built-in editor",
-      "https://glossary.page/template/"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 14:58:05",
-      "https://news.ycombinator.com/item?id=31884585"
-    ],
-    [
-      "Comprehensive list of modern reproductions of vintage sound cards",
-      "https://www.vogons.org/viewtopic.php?t=68265"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 13:57:53",
-      "https://news.ycombinator.com/item?id=31884038"
-    ],
-    [
-      "Show HN: A tiny and fast reactive observables library via functions",
-      "https://github.com/maverick-js/observables"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 13:49:38",
       "https://news.ycombinator.com/item?id=31883951"
     ],
@@ -201,32 +201,32 @@
   ],
   [
     [
-      "2022-06-26, 10:01:07",
-      "https://news.ycombinator.com/item?id=31882512"
-    ],
-    [
-      "We Halved Go Monorepo CI Build Time",
-      "https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 09:32:27",
-      "https://news.ycombinator.com/item?id=31882388"
-    ],
-    [
-      "Thank you to our maintainers",
-      "https://github.blog/2022-06-24-thank-you-to-our-maintainers/"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 08:51:32",
       "https://news.ycombinator.com/item?id=31882203"
     ],
     [
       "The giant hangar poised for an aviation revolution",
       "https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 19:50:31",
+      "https://news.ycombinator.com/item?id=31878172"
+    ],
+    [
+      "PDP-8 Small-C Compiler (2012)",
+      "https://so-much-stuff.com/pdp8/C/Small-C.php"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 17:44:10",
+      "https://news.ycombinator.com/item?id=31877173"
+    ],
+    [
+      "Nikon Z9 Disassembly and Teardown",
+      "https://kolarivision.com/nikon-z9-disassembly-and-teardown/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=31874318"
     ],
     [
-      "Seiko T001, a 1982 Japanese wristwatch with built-in TV",
+      "The Seiko TV watch",
       "https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch"
     ]
   ],
