@@ -9,6 +9,7 @@
 * [2022-06-27, 06:03:16](https://news.ycombinator.com/item?id=31891090) - [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
 * [2022-06-27, 05:30:54](https://news.ycombinator.com/item?id=31890894) - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
 * [2022-06-27, 05:09:30](https://news.ycombinator.com/item?id=31890781) - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
+* [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago](https://www.employbl.com/blog/chicago-startup-companies-to-watch-2022)
 * [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago (CSV file)](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
 * [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
 * [2022-06-27, 03:50:12](https://news.ycombinator.com/item?id=31890402) - [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
