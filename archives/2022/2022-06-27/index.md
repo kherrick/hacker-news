@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 14:54:58](https://news.ycombinator.com/item?id=31895418) - [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
 * [2022-06-27, 14:37:01](https://news.ycombinator.com/item?id=31895160) - [Energy Crunch Concerns Lead Japan’s Government to Call for Reduced AC Use](https://www.nippon.com/en/japan-data/h01355/)
 * [2022-06-27, 14:36:09](https://news.ycombinator.com/item?id=31895148) - [Consider Disabling HTTPS Auto Redirects](https://1mb.club/blog/https-redirects/)
+* [2022-06-27, 14:32:51](https://news.ycombinator.com/item?id=31895100) - [Vitalik Buterin Talks Georgism, Crypto, Voting Systems](https://narrativespodcast.com/2022/06/27/100-vitalik-buterin-governance-political-economy-and-crypto/)
 * [2022-06-27, 14:30:07](https://news.ycombinator.com/item?id=31895068) - [Age, sex-specific risks of myocarditis and pericarditis, Covid-19 mRNA vaccines](https://www.nature.com/articles/s41467-022-31401-5)
 * [2022-06-27, 14:15:48](https://news.ycombinator.com/item?id=31894877) - [Tech layoffs are looming: what is new hiring impact Remote vs. in-person](https://news.ycombinator.com/item?id=31894877)
 * [2022-06-27, 14:05:09](https://news.ycombinator.com/item?id=31894749) - [LibreWolf: A privacy-focused Firefox fork](https://ubunlog.com/en/freewolf/)
