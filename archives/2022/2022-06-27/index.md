@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 17:18:49](https://news.ycombinator.com/item?id=31897660) - [Why America Can't Build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
+* [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 — a better SQL — now ready to use](https://github.com/prql/prql)
 * [2022-06-27, 16:49:46](https://news.ycombinator.com/item?id=31897249) - [Show HN: Get rid of Git submodules and never look back (now for GitHub users)](https://gitmodules.com/)
+* [2022-06-27, 16:41:06](https://news.ycombinator.com/item?id=31897101) - [Meta has built a new language AI–and it’s giving it away for free](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/)
 * [2022-06-27, 16:20:15](https://news.ycombinator.com/item?id=31896769) - [Spas: Theory versus Practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
 * [2022-06-27, 15:21:27](https://news.ycombinator.com/item?id=31895820) - [3AC defaults of 670MM dollar loan](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
 * [2022-06-27, 15:19:50](https://news.ycombinator.com/item?id=31895791) - [The JavaScript Specification Has a New License](https://hacks.mozilla.org/2022/06/the-specification-for-javascript-has-a-new-license/)
