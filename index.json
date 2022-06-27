@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-06-27, 03:48:08",
+      "https://news.ycombinator.com/item?id=31890394"
+    ],
+    [
+      "Type-Checked Keypaths in Rust",
+      "http://www.cmyr.net/blog/keypaths.html"
+    ]
+  ],
+  [
+    [
       "2022-06-27, 01:45:52",
       "https://news.ycombinator.com/item?id=31889785"
     ],
     [
-      "USDA Ignoring the Science on Low-Carb Diets",
+      "USDA ignoring the science on low-carb diets",
       "https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low"
     ]
   ],
@@ -41,21 +51,11 @@
   ],
   [
     [
-      "2022-06-26, 23:20:45",
-      "https://news.ycombinator.com/item?id=31889047"
-    ],
-    [
-      "Ask HN: What are good genealogy/family history/immigration search engines?",
-      "https://news.ycombinator.com/item?id=31889047"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 22:35:21",
       "https://news.ycombinator.com/item?id=31888778"
     ],
     [
-      "Memory Safety for the World’s Largest Software Project",
+      "Memory safety for the world’s largest software project",
       "https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31887945"
     ],
     [
-      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+      "BuildZoom (YC W13) is hiring a growth associate",
       "https://jobs.lever.co/buildzoom"
     ]
   ],
@@ -95,8 +95,18 @@
       "https://news.ycombinator.com/item?id=31887748"
     ],
     [
-      "Blade Runner at forty",
+      "'Blade Runner' at 40",
       "https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 19:50:48",
+      "https://news.ycombinator.com/item?id=31887322"
+    ],
+    [
+      "DevOps is a failure",
+      "https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "The SQLite Code of Ethics",
       "https://sqlite.org/codeofethics.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 17:50:23",
+      "https://news.ycombinator.com/item?id=31886130"
+    ],
+    [
+      "Java's Cover (2001)",
+      "http://paulgraham.com/javacover.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-06-26, 16:19:08",
-      "https://news.ycombinator.com/item?id=31885272"
-    ],
-    [
-      "Show HN: Simple games ported to Scala 3 – Try them in the browser",
-      "https://github.com/wiringbits/scala-js-games"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 16:02:10",
       "https://news.ycombinator.com/item?id=31885137"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-06-26, 12:37:21",
-      "https://news.ycombinator.com/item?id=31883373"
-    ],
-    [
-      "Ask HN: GPT-3 reveals my full name – can I do anything?",
-      "https://news.ycombinator.com/item?id=31883373"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 08:51:32",
       "https://news.ycombinator.com/item?id=31882203"
     ],
@@ -207,6 +207,16 @@
     [
       "The Ghost of Internet Explorer Will Haunt the Web for Years",
       "https://www.wired.com/story/internet-explorer-dead-security-risks/"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 01:08:07",
+      "https://news.ycombinator.com/item?id=31880123"
+    ],
+    [
+      "Hyperphysics: Musical Instruments",
+      "http://hyperphysics.phy-astr.gsu.edu/hbase/Music/musinscon.html#c1"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=31874606"
     ],
     [
-      "Hollywood Doesn’t Make Movies Like the Fugitive Anymore (2018)",
+      "Hollywood doesn’t make movies like ‘The Fugitive’ anymore (2018)",
       "https://www.theatlantic.com/entertainment/archive/2018/08/the-fugitive-harrison-ford-25-years-later/566729/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "‘Wallets and eyeballs’: how eBay turned the internet into a marketplace",
       "https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 11:35:21",
-      "https://news.ycombinator.com/item?id=31874387"
-    ],
-    [
-      "Frozen baby woolly mammoth discovered in Yukon gold fields",
-      "https://www.cbc.ca/news/canada/north/frozen-whole-baby-woolly-mammoth-yukon-gold-fields-1.6501128"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=31857854"
     ],
     [
-      "Fuzzy Joins (Minhash)",
+      "Similarity join (Min-hash)",
       "https://blog.yellowflash.in/2022/05/24/similarity-join.html"
     ]
   ]
