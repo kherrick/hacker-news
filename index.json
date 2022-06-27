@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-27, 21:41:12",
-      "https://news.ycombinator.com/item?id=31901217"
-    ],
-    [
-      "My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision",
-      "https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 21:12:16",
       "https://news.ycombinator.com/item?id=31900872"
     ],
@@ -47,6 +37,16 @@
     [
       "Trolley.co.uk is shutting down – pricing data is apparently owned by a company",
       "https://www.trolley.co.uk/save-trolley/"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 20:26:30",
+      "https://news.ycombinator.com/item?id=31900308"
+    ],
+    [
+      "GitHub Advisory Database now supports Erlang and Elixir packages",
+      "https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-06-27, 14:23:49",
-      "https://news.ycombinator.com/item?id=31894986"
-    ],
-    [
-      "Linux commands for advanced hardware and system info",
-      "https://nixsanctuary.com/best-linux-hardware-system-info-commands/"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 14:00:05",
       "https://news.ycombinator.com/item?id=31894690"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=31894552"
     ],
     [
-      "NeRF: An Eventual Successor for Deepfakes?",
+      "NeRF: An eventual successor for deepfakes?",
       "https://metaphysic.ai/nerf-successor-deepfakes/"
     ]
   ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=31873273"
     ],
     [
-      "Drill Small, Precise Holes (2009)",
+      "Drill small, precise holes (2009)",
       "https://www.instructables.com/Drill-Small-Precise-Holes/"
+    ]
+  ],
+  [
+    [
+      "2022-06-25, 06:32:09",
+      "https://news.ycombinator.com/item?id=31873061"
+    ],
+    [
+      "Whatever hit the Moon in March, it left a double crater",
+      "https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/"
     ]
   ],
   [
