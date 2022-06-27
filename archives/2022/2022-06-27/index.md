@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 16:20:15](https://news.ycombinator.com/item?id=31896769) - [Spas: Theory versus Practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/)
 * [2022-06-27, 15:21:27](https://news.ycombinator.com/item?id=31895820) - [3AC defaults of 670MM dollar loan](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
+* [2022-06-27, 15:19:50](https://news.ycombinator.com/item?id=31895791) - [The JavaScript Specification Has a New License](https://hacks.mozilla.org/2022/06/the-specification-for-javascript-has-a-new-license/)
 * [2022-06-27, 15:08:58](https://news.ycombinator.com/item?id=31895623) - [Architecture Notes: Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [2022-06-27, 14:54:58](https://news.ycombinator.com/item?id=31895418) - [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
 * [2022-06-27, 14:54:32](https://news.ycombinator.com/item?id=31895410) - [Watch an Electric Fan Car Shatter the Goodwood Hill Climb Record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
