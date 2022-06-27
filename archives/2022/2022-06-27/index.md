@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 15:21:27](https://news.ycombinator.com/item?id=31895820) - [3AC defaults of 670MM dollar loan](https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html)
+* [2022-06-27, 15:08:58](https://news.ycombinator.com/item?id=31895623) - [Architecture Notes: Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [2022-06-27, 14:54:58](https://news.ycombinator.com/item?id=31895418) - [Taloflow (YC W21) Is Hiring a React Dev (2 Mo. Contract)](https://www.ycombinator.com/companies/taloflow/jobs/FlGzrvv-react-ui-developer-2-mo-contract)
+* [2022-06-27, 14:54:32](https://news.ycombinator.com/item?id=31895410) - [Watch an Electric Fan Car Shatter the Goodwood Hill Climb Record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
 * [2022-06-27, 14:37:01](https://news.ycombinator.com/item?id=31895160) - [Energy Crunch Concerns Lead Japan’s Government to Call for Reduced AC Use](https://www.nippon.com/en/japan-data/h01355/)
 * [2022-06-27, 14:36:09](https://news.ycombinator.com/item?id=31895148) - [Consider Disabling HTTPS Auto Redirects](https://1mb.club/blog/https-redirects/)
 * [2022-06-27, 14:32:51](https://news.ycombinator.com/item?id=31895100) - [Vitalik Buterin Talks Georgism, Crypto, Voting Systems](https://narrativespodcast.com/2022/06/27/100-vitalik-buterin-governance-political-economy-and-crypto/)
 * [2022-06-27, 14:30:07](https://news.ycombinator.com/item?id=31895068) - [Age, sex-specific risks of myocarditis and pericarditis, Covid-19 mRNA vaccines](https://www.nature.com/articles/s41467-022-31401-5)
+* [2022-06-27, 14:23:49](https://news.ycombinator.com/item?id=31894986) - [Best Linux Commands for Advanced Hardware and System Info](https://nixsanctuary.com/best-linux-hardware-system-info-commands/)
 * [2022-06-27, 14:15:48](https://news.ycombinator.com/item?id=31894877) - [Tech layoffs are looming: what is new hiring impact Remote vs. in-person](https://news.ycombinator.com/item?id=31894877)
 * [2022-06-27, 14:05:09](https://news.ycombinator.com/item?id=31894749) - [LibreWolf: A privacy-focused Firefox fork](https://ubunlog.com/en/freewolf/)
 * [2022-06-27, 14:00:05](https://news.ycombinator.com/item?id=31894690) - [Apple's claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
