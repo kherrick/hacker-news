@@ -11,7 +11,6 @@
 * [2022-06-27, 01:45:52](https://news.ycombinator.com/item?id=31889785) - [USDA ignoring the science on low-carb diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 * [2022-06-27, 00:13:40](https://news.ycombinator.com/item?id=31889297) - [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
 * [2022-06-26, 23:38:18](https://news.ycombinator.com/item?id=31889142) - [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
-* [2022-06-26, 22:35:21](https://news.ycombinator.com/item?id=31888778) - [Memory safety for the world’s largest software project](https://www.memorysafety.org/blog/memory-safety-in-linux-kernel/)
 * [2022-06-26, 22:14:59](https://news.ycombinator.com/item?id=31888624) - [What's New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
 * [2022-06-26, 21:18:04](https://news.ycombinator.com/item?id=31888075) - [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
 * [2022-06-26, 21:04:48](https://news.ycombinator.com/item?id=31887945) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
@@ -29,6 +28,7 @@
 * [2022-06-25, 12:16:19](https://news.ycombinator.com/item?id=31874606) - [Hollywood doesn’t make movies like ‘The Fugitive’ anymore (2018)](https://www.theatlantic.com/entertainment/archive/2018/08/the-fugitive-harrison-ford-25-years-later/566729/)
 * [2022-06-25, 11:45:14](https://news.ycombinator.com/item?id=31874424) - [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
 * [2022-06-25, 11:20:29](https://news.ycombinator.com/item?id=31874318) - [The Seiko TV watch](https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch)
+* [2022-06-25, 06:32:09](https://news.ycombinator.com/item?id=31873061) - [Whatever hit the Moon in March, it left a double crater](https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/)
 * [2022-06-22, 10:45:04](https://news.ycombinator.com/item?id=31834256) - [Going Critical (2019)](https://meltingasphalt.com/interactive/going-critical/)
 
 ## [Archives](archives/index.md)
