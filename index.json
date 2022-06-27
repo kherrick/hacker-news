@@ -1,12 +1,52 @@
 [
   [
     [
-      "2022-06-27, 03:50:12",
-      "https://news.ycombinator.com/item?id=31890402"
+      "2022-06-27, 06:24:02",
+      "https://news.ycombinator.com/item?id=31891226"
     ],
     [
-      "Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'",
-      "https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us"
+      "Explaining Code Using ASCII Art",
+      "https://blog.regehr.org/archives/1653"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 06:10:18",
+      "https://news.ycombinator.com/item?id=31891132"
+    ],
+    [
+      "Two Types of Privacy",
+      "https://seirdy.one/posts/2022/06/25/two-types-of-privacy/"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 05:30:54",
+      "https://news.ycombinator.com/item?id=31890894"
+    ],
+    [
+      "WebAssembly and C++",
+      "http://neugierig.org/software/blog/2022/06/wasm-c++.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 05:09:30",
+      "https://news.ycombinator.com/item?id=31890781"
+    ],
+    [
+      "Lenses in Haskell",
+      "https://www.fpcomplete.com/haskell/tutorial/lens/"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 04:51:41",
+      "https://news.ycombinator.com/item?id=31890701"
+    ],
+    [
+      "Top startups in Chicago (CSV file)",
+      "https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007"
     ]
   ],
   [
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2022-06-26, 18:44:25",
-      "https://news.ycombinator.com/item?id=31886687"
-    ],
-    [
-      "The SQLite Code of Ethics",
-      "https://sqlite.org/codeofethics.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 17:50:23",
-      "https://news.ycombinator.com/item?id=31886130"
-    ],
-    [
-      "Java's Cover (2001)",
-      "http://paulgraham.com/javacover.html"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 16:57:23",
       "https://news.ycombinator.com/item?id=31885615"
     ],
@@ -167,16 +187,6 @@
     [
       "Pigeon Towers: A Low-Tech Alternative to Synthetic Fertilizers (2016)",
       "https://www.notechmagazine.com/2016/10/pigeon-towers-a-low-tech-alternative-to-synthetic-fertilizers.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 16:25:11",
-      "https://news.ycombinator.com/item?id=31885316"
-    ],
-    [
-      "Learning from Las Vegas: Sustainable vs. Susceptible",
-      "https://www.granolashotgun.com/granolashotguncom/learning-from-las-vegas-straining-sustainability"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Seiko TV watch",
       "https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch"
-    ]
-  ],
-  [
-    [
-      "2022-06-25, 05:00:26",
-      "https://news.ycombinator.com/item?id=31872739"
-    ],
-    [
-      "Crystal's Interpreter (2021)",
-      "https://crystal-lang.org/2021/12/29/crystal-i.html"
     ]
   ]
 ]
