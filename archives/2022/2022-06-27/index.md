@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 22:25:26](https://news.ycombinator.com/item?id=31901681) - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
 * [2022-06-27, 21:41:12](https://news.ycombinator.com/item?id=31901217) - [My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision](https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision)
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
 * [2022-06-27, 21:01:07](https://news.ycombinator.com/item?id=31900737) - [Finley (YC W21) is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
@@ -27,6 +28,7 @@
 * [2022-06-27, 17:35:18](https://news.ycombinator.com/item?id=31897878) - [Tell HN: Google deleted my spreadsheet, review request says file can't be found](https://news.ycombinator.com/item?id=31897878)
 * [2022-06-27, 17:18:49](https://news.ycombinator.com/item?id=31897660) - [Why America Can't Build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
 * [2022-06-27, 17:17:54](https://news.ycombinator.com/item?id=31897648) - [Misrepresenting Open Source for Business Benefit](https://danb.me/blog/posts/misrepresenting-open-source/)
+* [2022-06-27, 17:10:25](https://news.ycombinator.com/item?id=31897530) - [Detecting unauthorized physical access with beans, lentils and colored rice](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
 * [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 — a better SQL — now ready to use](https://github.com/prql/prql)
 * [2022-06-27, 16:49:46](https://news.ycombinator.com/item?id=31897249) - [Show HN: Get rid of Git submodules and never look back (now for GitHub users)](https://gitmodules.com/)
 * [2022-06-27, 16:41:06](https://news.ycombinator.com/item?id=31897101) - [Meta has built a new language AI–and it’s giving it away for free](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/)
