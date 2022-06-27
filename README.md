@@ -20,7 +20,6 @@
 * [2022-06-27, 15:08:58](https://news.ycombinator.com/item?id=31895623) - [Things to know about databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [2022-06-27, 14:54:32](https://news.ycombinator.com/item?id=31895410) - [Electric fan car shatters the Goodwood hill climb record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
 * [2022-06-27, 14:23:49](https://news.ycombinator.com/item?id=31894986) - [Linux commands for advanced hardware and system info](https://nixsanctuary.com/best-linux-hardware-system-info-commands/)
-* [2022-06-27, 14:00:05](https://news.ycombinator.com/item?id=31894690) - [Apple's claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
 * [2022-06-27, 13:47:58](https://news.ycombinator.com/item?id=31894552) - [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
 * [2022-06-27, 10:46:00](https://news.ycombinator.com/item?id=31892738) - [Blood pressure e-tattoo promises continuous, mobile monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
 * [2022-06-27, 05:30:54](https://news.ycombinator.com/item?id=31890894) - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
@@ -29,6 +28,7 @@
 * [2022-06-26, 13:09:40](https://news.ycombinator.com/item?id=31883565) - [The power of swag in the tech industry](https://triosdevelopers.com/jason.eckert/myblog/the-power-of-swag/)
 * [2022-06-26, 09:28:32](https://news.ycombinator.com/item?id=31882374) - [Stream thoughtful films with your public library or university card](https://www.kanopy.com/en/?frontend=kui)
 * [2022-06-26, 06:14:07](https://news.ycombinator.com/item?id=31881557) - [Wild turtles age slowly, and some basically don’t age at all](https://www.futurity.org/turtles-aging-lifespans-2758992-2/)
+* [2022-06-25, 07:21:44](https://news.ycombinator.com/item?id=31873273) - [Drill Small, Precise Holes (2009)](https://www.instructables.com/Drill-Small-Precise-Holes/)
 * [2022-06-24, 07:09:19](https://news.ycombinator.com/item?id=31858604) - [Ask HN: What tone to use in code review suggestions?](https://news.ycombinator.com/item?id=31858604)
 
 ## [Archives](archives/index.md)

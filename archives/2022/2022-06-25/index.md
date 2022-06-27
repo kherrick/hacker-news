@@ -73,6 +73,7 @@
 * [2022-06-25, 08:30:20](https://news.ycombinator.com/item?id=31873504) - [Ask HN: Europe to East Coast, does it make sense to move at 50?](https://news.ycombinator.com/item?id=31873504)
 * [2022-06-25, 08:13:16](https://news.ycombinator.com/item?id=31873440) - [I Finally Found a Solid Debian Tablet: The Surface Go 2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
 * [2022-06-25, 08:00:40](https://news.ycombinator.com/item?id=31873404) - [The Most Livable Cities](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
+* [2022-06-25, 07:21:44](https://news.ycombinator.com/item?id=31873273) - [Drill Small, Precise Holes (2009)](https://www.instructables.com/Drill-Small-Precise-Holes/)
 * [2022-06-25, 07:02:47](https://news.ycombinator.com/item?id=31873192) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-06-25, 06:32:19](https://news.ycombinator.com/item?id=31873063) - [PostgreSQL Upgrades Are Hard](https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content)
 * [2022-06-25, 06:32:09](https://news.ycombinator.com/item?id=31873061) - [Whatever hit the Moon in March, it left a double crater](https://www.theregister.com/2022/06/25/chinese_rocket_moon_crash_pic/)
