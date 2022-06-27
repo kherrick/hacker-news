@@ -52,6 +52,7 @@
 * [2022-06-26, 08:51:32](https://news.ycombinator.com/item?id=31882203) - [The giant hangar poised for an aviation revolution](https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution)
 * [2022-06-26, 07:55:09](https://news.ycombinator.com/item?id=31881978) - [The Ghost of Internet Explorer Will Haunt the Web for Years](https://www.wired.com/story/internet-explorer-dead-security-risks/)
 * [2022-06-26, 07:54:37](https://news.ycombinator.com/item?id=31881973) - [Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It](https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/)
+* [2022-06-26, 07:26:34](https://news.ycombinator.com/item?id=31881875) - [Pre-Sliced Bread was once banned in the United States (2010)](http://www.todayifoundout.com/index.php/2010/11/pre-sliced-bread-was-once-banned-in-the-united-states/)
 * [2022-06-26, 07:16:50](https://news.ycombinator.com/item?id=31881847) - [Language Design: Stop Using Angle Brackets For Generics](https://soc.me/languages/stop-using-angle-brackets-for-generics.html)
 * [2022-06-26, 06:30:23](https://news.ycombinator.com/item?id=31881625) - [3D Diagrams of London Underground Stations](https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/)
 * [2022-06-26, 06:13:35](https://news.ycombinator.com/item?id=31881553) - [Cycling: Why Tunnels are Better than Bridges (2014)](https://www.notechmagazine.com/2014/09/cycling-why-tunnels-are-better-than-bridges.html)
