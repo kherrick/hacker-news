@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-27, 14:00:05](https://news.ycombinator.com/item?id=31894690) - [Apple's claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
 * [2022-06-27, 13:47:58](https://news.ycombinator.com/item?id=31894552) - [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
 * [2022-06-27, 12:48:03](https://news.ycombinator.com/item?id=31893823) - [Tech Companies Won't Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
 * [2022-06-27, 12:43:26](https://news.ycombinator.com/item?id=31893771) - [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
@@ -22,7 +23,6 @@
 * [2022-06-26, 06:14:07](https://news.ycombinator.com/item?id=31881557) - [Wild turtles age slowly. Some basically don’t age at all](https://www.futurity.org/turtles-aging-lifespans-2758992-2/)
 * [2022-06-26, 05:36:25](https://news.ycombinator.com/item?id=31881413) - [Adding Modules to C in 10 Lines of Code [pdf]](https://nwcpp.org/talks/2022/modules_in_c.pdf)
 * [2022-06-26, 04:36:36](https://news.ycombinator.com/item?id=31881109) - [Deter House Sparrows from your hanging feeder with a Magic Halo (2017)](https://www.magichalo.org/2017/12/deter-house-sparrows-from-feeders-with.html)
-* [2022-06-26, 02:17:03](https://news.ycombinator.com/item?id=31880489) - [Book Review: Disrupting the Game](https://clever.bearblog.dev/book-review-disrupting-the-game/)
 * [2022-06-26, 01:08:07](https://news.ycombinator.com/item?id=31880123) - [Hyperphysics: Musical Instruments](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/musinscon.html#c1)
 * [2022-06-25, 17:44:10](https://news.ycombinator.com/item?id=31877173) - [Nikon Z9 Disassembly and Teardown](https://kolarivision.com/nikon-z9-disassembly-and-teardown/)
 * [2022-06-25, 12:16:19](https://news.ycombinator.com/item?id=31874606) - [Hollywood doesn’t make movies like ‘The Fugitive’ anymore (2018)](https://www.theatlantic.com/entertainment/archive/2018/08/the-fugitive-harrison-ford-25-years-later/566729/)
