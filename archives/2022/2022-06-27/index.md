@@ -9,6 +9,7 @@
 * [2022-06-27, 21:01:07](https://news.ycombinator.com/item?id=31900737) - [Finley (YC W21) is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
 * [2022-06-27, 20:39:58](https://news.ycombinator.com/item?id=31900482) - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
 * [2022-06-27, 20:26:38](https://news.ycombinator.com/item?id=31900312) - [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
+* [2022-06-27, 20:26:30](https://news.ycombinator.com/item?id=31900308) - [GitHub Advisory Database now supports Erlang and Elixir packages](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
 * [2022-06-27, 20:08:59](https://news.ycombinator.com/item?id=31900095) - [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
 * [2022-06-27, 20:03:52](https://news.ycombinator.com/item?id=31900027) - [The Last Thing Rust Needs (2019)](https://h2co3.github.io/rust2019/)
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
