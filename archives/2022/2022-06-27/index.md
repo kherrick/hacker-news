@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 13:47:58](https://news.ycombinator.com/item?id=31894552) - [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
 * [2022-06-27, 12:48:03](https://news.ycombinator.com/item?id=31893823) - [Tech Companies Won't Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
 * [2022-06-27, 12:43:26](https://news.ycombinator.com/item?id=31893771) - [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
 * [2022-06-27, 12:10:51](https://news.ycombinator.com/item?id=31893408) - [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
