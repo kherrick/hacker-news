@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 21:41:12](https://news.ycombinator.com/item?id=31901217) - [My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision](https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision)
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
 * [2022-06-27, 21:01:07](https://news.ycombinator.com/item?id=31900737) - [Finley (YC W21) is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
 * [2022-06-27, 20:39:58](https://news.ycombinator.com/item?id=31900482) - [Wear leveling in SSDs considered harmful](https://dl.acm.org/doi/10.1145/3538643.3539750)
 * [2022-06-27, 20:26:38](https://news.ycombinator.com/item?id=31900312) - [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
 * [2022-06-27, 20:08:59](https://news.ycombinator.com/item?id=31900095) - [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
+* [2022-06-27, 20:03:52](https://news.ycombinator.com/item?id=31900027) - [The Last Thing Rust Needs (2019)](https://h2co3.github.io/rust2019/)
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 19:34:18](https://news.ycombinator.com/item?id=31899640) - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
