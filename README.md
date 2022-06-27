@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-27, 10:15:41](https://news.ycombinator.com/item?id=31892581) - [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
 * [2022-06-27, 09:45:05](https://news.ycombinator.com/item?id=31892421) - [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
+* [2022-06-27, 09:39:57](https://news.ycombinator.com/item?id=31892384) - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
 * [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two types of privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
@@ -14,9 +16,7 @@
 * [2022-06-26, 23:38:18](https://news.ycombinator.com/item?id=31889142) - [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)
 * [2022-06-26, 22:14:59](https://news.ycombinator.com/item?id=31888624) - [What's New in Python 3.11?](https://deepsource.io/blog/python-3-11-whats-new/)
 * [2022-06-26, 21:18:04](https://news.ycombinator.com/item?id=31888075) - [PyPI: Python packets steal AWS keys from users](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
-* [2022-06-26, 21:04:48](https://news.ycombinator.com/item?id=31887945) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2022-06-26, 20:42:53](https://news.ycombinator.com/item?id=31887748) - [‘Blade Runner’ at 40](https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/)
-* [2022-06-26, 19:50:48](https://news.ycombinator.com/item?id=31887322) - [DevOps is a failure](https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure)
 * [2022-06-26, 19:36:54](https://news.ycombinator.com/item?id=31887202) - [What does an idle CPU do? (2014)](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life is not short](https://dkb.show/post/life-is-not-short)
 * [2022-06-26, 08:51:32](https://news.ycombinator.com/item?id=31882203) - [The giant hangar poised for an aviation revolution](https://www.bbc.com/future/article/20220621-the-giant-hangar-poised-for-an-aviation-revolution)
