@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 21:01:07](https://news.ycombinator.com/item?id=31900737) - [Finley (YC W21) is hiring its first Sales team member](https://news.ycombinator.com/item?id=31900737)
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
+* [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 19:34:18](https://news.ycombinator.com/item?id=31899640) - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
 * [2022-06-27, 18:26:36](https://news.ycombinator.com/item?id=31898605) - [4 in 5 Americans Who Need Insulin Have Taken on Credit Card Debt to Cover Cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
 * [2022-06-27, 18:15:35](https://news.ycombinator.com/item?id=31898454) - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
+* [2022-06-27, 18:02:17](https://news.ycombinator.com/item?id=31898261) - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 * [2022-06-27, 17:59:08](https://news.ycombinator.com/item?id=31898218) - [Open Food Facts – a food products database made by everyone, for everyone](https://world.openfoodfacts.org)
 * [2022-06-27, 17:42:59](https://news.ycombinator.com/item?id=31898001) - [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
 * [2022-06-27, 17:41:25](https://news.ycombinator.com/item?id=31897977) - [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)

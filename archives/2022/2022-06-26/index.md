@@ -35,6 +35,7 @@
 * [2022-06-26, 13:20:11](https://news.ycombinator.com/item?id=31883659) - [Entropy: Why Life Always Seems to Get More Complicated](https://jamesclear.com/entropy)
 * [2022-06-26, 13:17:26](https://news.ycombinator.com/item?id=31883621) - [Super Mario Bros warp zones were intended to work slightly differently [video]](https://www.youtube.com/watch?v=61m5MiyC17s)
 * [2022-06-26, 13:13:44](https://news.ycombinator.com/item?id=31883594) - [Crypto Is Crashing, But Companies Aren't Acting Like It](https://www.theatlantic.com/technology/archive/2022/06/crypto-market-bitcoin-coinbase-crash/661398/)
+* [2022-06-26, 13:09:40](https://news.ycombinator.com/item?id=31883565) - [The power of swag in the tech industry](https://triosdevelopers.com/jason.eckert/myblog/the-power-of-swag/)
 * [2022-06-26, 12:37:21](https://news.ycombinator.com/item?id=31883373) - [Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?](https://news.ycombinator.com/item?id=31883373)
 * [2022-06-26, 12:20:18](https://news.ycombinator.com/item?id=31883286) - [How Do Poor Countries Get Rich?](https://thegoodblog.substack.com/p/how-do-poor-countries-get-rich)
 * [2022-06-26, 12:12:57](https://news.ycombinator.com/item?id=31883239) - [We need to make adulthood more desirable](https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/)
