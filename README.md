@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
-* [2022-06-27, 19:34:18](https://news.ycombinator.com/item?id=31899640) - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
 * [2022-06-27, 18:15:35](https://news.ycombinator.com/item?id=31898454) - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
@@ -25,6 +24,7 @@
 * [2022-06-27, 04:45:28](https://news.ycombinator.com/item?id=31890666) - [The intellectual mistake of once-and-for-allism](https://marginalrevolution.bulletin.com/the-intellectual-mistake-of-once-and-for-allism/)
 * [2022-06-27, 03:47:05](https://news.ycombinator.com/item?id=31890388) - [13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
+* [2022-06-26, 13:17:26](https://news.ycombinator.com/item?id=31883621) - [Super Mario Bros warp zones were intended to work slightly differently [video]](https://www.youtube.com/watch?v=61m5MiyC17s)
 * [2022-06-26, 09:28:32](https://news.ycombinator.com/item?id=31882374) - [Stream thoughtful films with your public library or university card](https://www.kanopy.com/en/?frontend=kui)
 * [2022-06-26, 06:14:07](https://news.ycombinator.com/item?id=31881557) - [Wild turtles age slowly, and some basically don’t age at all](https://www.futurity.org/turtles-aging-lifespans-2758992-2/)
 * [2022-06-25, 16:00:46](https://news.ycombinator.com/item?id=31876299) - [Hell is ourselves](https://www.thenewatlantis.com/publications/hell-is-ourselves)
