@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 14:15:48](https://news.ycombinator.com/item?id=31894877) - [Tech layoffs are looming: what is new hiring impact Remote vs. in-person](https://news.ycombinator.com/item?id=31894877)
+* [2022-06-27, 14:05:09](https://news.ycombinator.com/item?id=31894749) - [LibreWolf: A privacy-focused Firefox fork](https://ubunlog.com/en/freewolf/)
 * [2022-06-27, 14:00:05](https://news.ycombinator.com/item?id=31894690) - [Apple's claim is that it bans other browsers for security](https://twitter.com/OpenWebAdvocacy/status/1541318055636369409)
 * [2022-06-27, 13:47:58](https://news.ycombinator.com/item?id=31894552) - [NeRF: An Eventual Successor for Deepfakes?](https://metaphysic.ai/nerf-successor-deepfakes/)
+* [2022-06-27, 13:39:10](https://news.ycombinator.com/item?id=31894451) - [Ask HN: Is GitHub Copilot the death of opensource?](https://news.ycombinator.com/item?id=31894451)
 * [2022-06-27, 12:48:03](https://news.ycombinator.com/item?id=31893823) - [Tech Companies Won't Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
 * [2022-06-27, 12:43:26](https://news.ycombinator.com/item?id=31893771) - [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
 * [2022-06-27, 12:10:51](https://news.ycombinator.com/item?id=31893408) - [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
