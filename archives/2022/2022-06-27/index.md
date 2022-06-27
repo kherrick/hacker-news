@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 18:26:36](https://news.ycombinator.com/item?id=31898605) - [4 in 5 Americans Who Need Insulin Have Taken on Credit Card Debt to Cover Cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
+* [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
 * [2022-06-27, 17:42:59](https://news.ycombinator.com/item?id=31898001) - [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
 * [2022-06-27, 17:41:25](https://news.ycombinator.com/item?id=31897977) - [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
 * [2022-06-27, 17:36:12](https://news.ycombinator.com/item?id=31897889) - [Whist, a new cloud-hybrid browser](https://www.whist.com/)
+* [2022-06-27, 17:35:18](https://news.ycombinator.com/item?id=31897878) - [Tell HN: Google deleted my spreadsheet, review request says file can't be found](https://news.ycombinator.com/item?id=31897878)
 * [2022-06-27, 17:18:49](https://news.ycombinator.com/item?id=31897660) - [Why America Can't Build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
 * [2022-06-27, 17:17:54](https://news.ycombinator.com/item?id=31897648) - [Misrepresenting Open Source for Business Benefit](https://danb.me/blog/posts/misrepresenting-open-source/)
 * [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 — a better SQL — now ready to use](https://github.com/prql/prql)
