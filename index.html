@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31892581">
+          <h3>
+            <a class="item" href="https://github.com/riza/linx"
+              >Linx – Reveals invisible links within JavaScript files</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-27 @ 10:15:41</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31892581"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="31892421">
           <h3>
             <a
@@ -141,13 +160,76 @@
             <h4>
               <span>2022-06-27 @ 09:45:05</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31892421"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="31892384">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=31892384"
+              >Ask HN: What is your Kubernetes nightmare?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-27 @ 09:39:57</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31892384"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                - Is it the networking model that is simple from the consumption
+                standpoint but has too many moving parts for it to be
+                implemented?
+              </p>
+              <p>- Is it the storage model, CSI and friends?</p>
+              <p>
+                - Is it the bunch of controller loops doing their own things
+                with nothing that gives a "wholesome" picture to identify the
+                root cause?
+              </p>
+              <p>
+                For me personally, first and foremost thing on my mind is the
+                networking details. They are "automatically generated" by each
+                CNI solution in slightly different ways and constructs
+                (iptables, virtual bridges, routing daemons, eBPF etc etc) and
+                because they are generated, it is not uncommon to find hundreds
+                of iptable rules and chains on a single node and/or similar
+                configuration.
+              </p>
+              <p>
+                Being automated, these solutions generate tons of
+                components/configurations which in case of trouble, even if one
+                has mastery on them, would take some time to hoop through all
+                the components (virtual interfaces, virtual bridges, iptable
+                chains and rules, ipvs entries etc) to identify what's causing
+                the trouble. Essentially, one pretty much has to be a network
+                engineer because besides the underlying/physical (or the
+                virtual, I mean cloud VPCs) network, k8s pulls its very own
+                network (pod network, cluster network) implemented on the
+                software/configuration layer which has to be fully understood to
+                be able to maintained.
+              </p>
+              <p>
+                God forbid, if the CNI solution has some edge case or for some
+                other misconfiguration, it keeps generating inadequate or
+                misconfigured rules/routes etc resulting in a broken "software
+                defined network" that I cannot identify in time on a production
+                system is my nightmare and I don't know how to reduce that risk.
+              </p>
+              <p>What's your Kubernetes nightmare?</p>
+              <p>EDIT: formating</p>
+            </div>
           </section>
         </section>
         <section id="31891608">
@@ -161,11 +243,11 @@
             <h4>
               <span>2022-06-27 @ 07:33:11</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891608"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -200,7 +282,7 @@
             <h4>
               <span>2022-06-27 @ 06:24:02</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891226"
                   >Comments</a
@@ -225,7 +307,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891132"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -242,7 +324,7 @@
             <h4>
               <span>2022-06-27 @ 06:03:16</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891090"
                   >Comments</a
@@ -284,7 +366,7 @@
             <h4>
               <span>2022-06-27 @ 05:09:30</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31890781"
                   >Comments</a
@@ -324,7 +406,7 @@
             <h4>
               <span>2022-06-27 @ 03:48:08</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31890394"
                   >Comments</a
@@ -345,11 +427,11 @@
             <h4>
               <span>2022-06-27 @ 01:45:52</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31889785"
                   >Comments</a
-                ><span class="descendants">: 141</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -407,11 +489,11 @@
             <h4>
               <span>2022-06-26 @ 22:14:59</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31888624"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -428,26 +510,11 @@
             <h4>
               <span>2022-06-26 @ 21:18:04</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31888075"
                   >Comments</a
                 ><span class="descendants">: 60</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31887945">
-          <h3>
-            <a class="item" href="https://jobs.lever.co/buildzoom"
-              >BuildZoom (YC W13) is hiring a growth associate</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-26 @ 21:04:48</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
               >
             </h4>
           </section>
@@ -469,27 +536,6 @@
                 ><a href="https://news.ycombinator.com/item?id=31887748"
                   >Comments</a
                 ><span class="descendants">: 355</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31887322">
-          <h3>
-            <a
-              class="item"
-              href="https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure"
-              >DevOps is a failure</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-26 @ 19:50:48</span
-              ><span class="points-container"
-                >Points: <span class="points">243</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31887322"
-                  >Comments</a
-                ><span class="descendants">: 306</span></span
               >
             </h4>
           </section>
@@ -525,11 +571,11 @@
             <h4>
               <span>2022-06-26 @ 16:02:10</span
               ><span class="points-container"
-                >Points: <span class="points">660</span></span
+                >Points: <span class="points">661</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31885137"
                   >Comments</a
-                ><span class="descendants">: 391</span></span
+                ><span class="descendants">: 393</span></span
               >
             </h4>
           </section>
@@ -546,11 +592,11 @@
             <h4>
               <span>2022-06-26 @ 08:51:32</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31882203"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -565,11 +611,11 @@
             <h4>
               <span>2022-06-26 @ 05:36:25</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31881413"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -607,7 +653,7 @@
             <h4>
               <span>2022-06-26 @ 01:08:07</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31880123"
                   >Comments</a
@@ -651,7 +697,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31877173"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -669,11 +715,11 @@
             <h4>
               <span>2022-06-25 @ 12:16:19</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31874606"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -712,11 +758,11 @@
             <h4>
               <span>2022-06-25 @ 11:20:29</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31874318"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -733,11 +779,11 @@
             <h4>
               <span>2022-06-25 @ 06:32:09</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31873061"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -754,7 +800,7 @@
             <h4>
               <span>2022-06-22 @ 10:45:04</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31834256"
                   >Comments</a
