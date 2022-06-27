@@ -32,6 +32,7 @@
 * [2022-06-25, 16:33:04](https://news.ycombinator.com/item?id=31876604) - [SQLite Release 3.39.0](https://sqlite.org/releaselog/3_39_0.html)
 * [2022-06-25, 16:26:23](https://news.ycombinator.com/item?id=31876547) - [DARPA study challenges assumptions about distributed ledger (Bitcoin) security](https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/)
 * [2022-06-25, 16:09:01](https://news.ycombinator.com/item?id=31876379) - [Archaeologist discovers 6k year-old island settlement off Croatian coast (2021)](https://www.reuters.com/lifestyle/science/archaeologist-discovers-6000-year-old-island-settlement-off-croatian-coast-2021-06-24/)
+* [2022-06-25, 16:00:46](https://news.ycombinator.com/item?id=31876299) - [Hell is ourselves](https://www.thenewatlantis.com/publications/hell-is-ourselves)
 * [2022-06-25, 15:55:43](https://news.ycombinator.com/item?id=31876250) - [Fermentation and Daily Life (2018)](https://www.notechmagazine.com/2018/07/fermentation-and-daily-life.html)
 * [2022-06-25, 15:55:35](https://news.ycombinator.com/item?id=31876248) - [Metadata is the biggest little problem plaguing the music industry (2019)](https://www.theverge.com/2019/5/29/18531476/music-industry-song-royalties-metadata-credit-problems)
 * [2022-06-25, 15:51:33](https://news.ycombinator.com/item?id=31876220) - [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
