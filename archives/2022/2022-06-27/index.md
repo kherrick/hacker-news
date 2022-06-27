@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
 * [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
 * [2022-06-27, 06:03:16](https://news.ycombinator.com/item?id=31891090) - [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
@@ -16,4 +17,5 @@
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 * [2022-06-27, 01:45:52](https://news.ycombinator.com/item?id=31889785) - [USDA Ignoring the Science on Low-Carb Diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 * [2022-06-27, 00:55:47](https://news.ycombinator.com/item?id=31889523) - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
+* [2022-06-27, 00:54:52](https://news.ycombinator.com/item?id=31889519) - [‘Just stop buying lattes’: The origins of a millennial housing myth](https://thehustle.co/just-stop-buying-lattes-the-origins-of-a-millennial-housing-myth/)
 * [2022-06-27, 00:13:40](https://news.ycombinator.com/item?id=31889297) - [By Exploring Virtual Worlds, AI Learns in New Ways](https://www.quantamagazine.org/ai-makes-strides-in-virtual-worlds-more-like-our-own-20220624/)
