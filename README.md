@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-28, 05:28:25](https://news.ycombinator.com/item?id=31904426) - [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 * [2022-06-28, 02:48:24](https://news.ycombinator.com/item?id=31903549) - [Show HN: Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 * [2022-06-28, 02:36:22](https://news.ycombinator.com/item?id=31903480) - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
 * [2022-06-28, 02:19:47](https://news.ycombinator.com/item?id=31903403) - [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
@@ -11,6 +10,7 @@
 * [2022-06-27, 23:24:23](https://news.ycombinator.com/item?id=31902243) - [Solar Protocol](http://solarprotocol.net)
 * [2022-06-27, 22:25:26](https://news.ycombinator.com/item?id=31901681) - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
+* [2022-06-27, 20:26:38](https://news.ycombinator.com/item?id=31900312) - [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
 * [2022-06-27, 19:46:28](https://news.ycombinator.com/item?id=31899790) - [Labrador's robotic shelf for people with mobility issues](https://www.theverge.com/2022/1/4/22858402/home-robot-labrador-caddie-retriever-smart-self-driving-shelf)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
