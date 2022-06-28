@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 23:09:02](https://news.ycombinator.com/item?id=31914288) - [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
+* [2022-06-28, 22:47:18](https://news.ycombinator.com/item?id=31914078) - [Canarytokens](https://canarytokens.org/generate)
 * [2022-06-28, 22:38:50](https://news.ycombinator.com/item?id=31914003) - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
 * [2022-06-28, 22:09:31](https://news.ycombinator.com/item?id=31913721) - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
 * [2022-06-28, 21:54:06](https://news.ycombinator.com/item?id=31913541) - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)

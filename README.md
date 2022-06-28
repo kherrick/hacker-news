@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-28, 23:09:02](https://news.ycombinator.com/item?id=31914288) - [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
+* [2022-06-28, 22:47:18](https://news.ycombinator.com/item?id=31914078) - [Canarytokens](https://canarytokens.org/generate)
 * [2022-06-28, 22:38:50](https://news.ycombinator.com/item?id=31914003) - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
 * [2022-06-28, 22:09:31](https://news.ycombinator.com/item?id=31913721) - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
 * [2022-06-28, 21:54:06](https://news.ycombinator.com/item?id=31913541) - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
@@ -13,7 +15,6 @@
 * [2022-06-28, 19:22:00](https://news.ycombinator.com/item?id=31911893) - [Energy Dome’s approach to long-duration energy storage](https://www.canarymedia.com/articles/long-duration-energy-storage/energy-dome-is-on-the-brink-of-a-long-duration-storage-breakthrough)
 * [2022-06-28, 18:59:53](https://news.ycombinator.com/item?id=31911655) - [Multiplying and Dividing on the 6502 (2021)](https://llx.com/Neil/a2/mult.html)
 * [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
-* [2022-06-28, 17:57:08](https://news.ycombinator.com/item?id=31910853) - [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
 * [2022-06-28, 17:45:30](https://news.ycombinator.com/item?id=31910724) - [Gun owners’ private information leaked by California Attorney General](https://thereload.com/new-california-ag-website-leaks-massive-trove-of-gun-owner-private-information/)
 * [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
 * [2022-06-28, 16:15:00](https://news.ycombinator.com/item?id=31909622) - [Vercel Edge Middleware: Dynamic at the speed of static](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
@@ -28,7 +29,6 @@
 * [2022-06-27, 08:19:52](https://news.ycombinator.com/item?id=31891893) - [The Rise and Fall of 6502 Gaming (2020)](https://tedspence.com/the-rise-and-fall-of-6502-gaming-31b84e2d0cd?gi=566d1df6c491)
 * [2022-06-27, 05:58:46](https://news.ycombinator.com/item?id=31891067) - [Optical microphone can separate multiple instruments from afar](https://newatlas.com/music/optical-microphone-sound/)
 * [2022-06-27, 04:46:01](https://news.ycombinator.com/item?id=31890672) - [Small Tables with Go generics](https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables)
-* [2022-06-27, 04:01:51](https://news.ycombinator.com/item?id=31890450) - [Are you a naïve realist?](https://nautil.us/are-you-a-naive-realist-20403/)
 * [2022-06-26, 04:11:03](https://news.ycombinator.com/item?id=31880976) - [Documenting Aramaic before its native speakers vanish (2013)](https://www.smithsonianmag.com/innovation/how-to-save-a-dying-language-4143017/)
 
 ## [Archives](archives/index.md)
