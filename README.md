@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-28, 19:02:16](https://news.ycombinator.com/item?id=31911701) - [Burning Out](https://polymerist.substack.com/p/on-burning-out)
 * [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
 * [2022-06-28, 18:11:48](https://news.ycombinator.com/item?id=31911035) - [Retry XMLHttpRequest Carefully](http://lofi.limo/blog/retry-xmlhttprequest-carefully)
 * [2022-06-28, 17:57:08](https://news.ycombinator.com/item?id=31910853) - [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
 * [2022-06-28, 17:52:42](https://news.ycombinator.com/item?id=31910798) - [Tiny Mining Handbook](https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction)
 * [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
-* [2022-06-28, 17:27:51](https://news.ycombinator.com/item?id=31910519) - [Show HN: We used investor tools to find the best startups to work at](https://joinmaasive.com)
 * [2022-06-28, 17:00:14](https://news.ycombinator.com/item?id=31910211) - [PermitFlow (YC W22) is hiring a head of permit operations](https://news.ycombinator.com/item?id=31910211)
 * [2022-06-28, 16:15:00](https://news.ycombinator.com/item?id=31909622) - [Vercel Edge Middleware: Dynamic at the speed of static](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
 * [2022-06-28, 15:42:42](https://news.ycombinator.com/item?id=31909183) - [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
