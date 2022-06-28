@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 17:13:19](https://news.ycombinator.com/item?id=31910361) - [Hacker-News.news](https://hacker-news.news/TopStory)
 * [2022-06-28, 17:00:14](https://news.ycombinator.com/item?id=31910211) - [PermitFlow (YC W22) Is Hiring a Head of Permit Operations](https://news.ycombinator.com/item?id=31910211)
 * [2022-06-28, 16:15:00](https://news.ycombinator.com/item?id=31909622) - [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
 * [2022-06-28, 15:59:16](https://news.ycombinator.com/item?id=31909399) - [Police swoop on Stop Brexit Man under new anti-protest law](https://www.theguardian.com/uk-news/2022/jun/28/police-swoop-on-stop-brexit-man-under-new-anti-protest-law)
