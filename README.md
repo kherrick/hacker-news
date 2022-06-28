@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-28, 18:30:33](https://news.ycombinator.com/item?id=31911257) - [Why is life expectancy in the US lower than in other rich countries? (2020)](https://ourworldindata.org/us-life-expectancy-low)
 * [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
+* [2022-06-28, 18:11:48](https://news.ycombinator.com/item?id=31911035) - [Retry XMLHttpRequest Carefully](http://lofi.limo/blog/retry-xmlhttprequest-carefully)
 * [2022-06-28, 17:57:08](https://news.ycombinator.com/item?id=31910853) - [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
 * [2022-06-28, 17:52:42](https://news.ycombinator.com/item?id=31910798) - [Tiny Mining Handbook](https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction)
 * [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
