@@ -27,9 +27,9 @@
 * [2022-06-27, 06:21:03](https://news.ycombinator.com/item?id=31891203) - [Metastability and Distributed Systems](https://brooker.co.za/blog/2021/05/24/metastable.html)
 * [2022-06-27, 04:35:37](https://news.ycombinator.com/item?id=31890627) - [How are images compressed? An explanation of JPEG [video]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
+* [2022-06-26, 23:38:00](https://news.ycombinator.com/item?id=31889139) - [The ideal praise-to-criticism ratio (2013)](https://hbr.org/2013/03/the-ideal-praise-to-criticism)
 * [2022-06-26, 23:08:19](https://news.ycombinator.com/item?id=31888973) - [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
 * [2022-06-26, 09:28:32](https://news.ycombinator.com/item?id=31882374) - [Kanopy – Stream films with your public library or university card](https://www.kanopy.com/en/?frontend=kui)
-* [2022-06-24, 07:09:19](https://news.ycombinator.com/item?id=31858604) - [Ask HN: What tone to use in code review suggestions?](https://news.ycombinator.com/item?id=31858604)
 
 ## [Archives](archives/index.md)
 
