@@ -15,6 +15,7 @@
 * [2022-06-27, 20:26:30](https://news.ycombinator.com/item?id=31900308) - [GitHub Advisory Database now supports Erlang and Elixir packages](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
 * [2022-06-27, 20:08:59](https://news.ycombinator.com/item?id=31900095) - [Show HN:  [NSFW] Diffusion models for porn generation](http://orchid.gistnoesis.net/)
 * [2022-06-27, 20:03:52](https://news.ycombinator.com/item?id=31900027) - [The Last Thing Rust Needs (2019)](https://h2co3.github.io/rust2019/)
+* [2022-06-27, 19:46:28](https://news.ycombinator.com/item?id=31899790) - [Labrador's robotic shelf for people with mobility issues](https://www.theverge.com/2022/1/4/22858402/home-robot-labrador-caddie-retriever-smart-self-driving-shelf)
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 19:34:18](https://news.ycombinator.com/item?id=31899640) - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
