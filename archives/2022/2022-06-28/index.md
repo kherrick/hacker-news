@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 22:38:50](https://news.ycombinator.com/item?id=31914003) - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
 * [2022-06-28, 21:54:06](https://news.ycombinator.com/item?id=31913541) - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
 * [2022-06-28, 21:43:56](https://news.ycombinator.com/item?id=31913418) - [US military's mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
 * [2022-06-28, 21:11:16](https://news.ycombinator.com/item?id=31913057) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
@@ -62,6 +63,7 @@
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
+* [2022-06-28, 05:39:21](https://news.ycombinator.com/item?id=31904477) - [The Pervasive Problem–and Far-Reaching Impact–Of Tree Poaching](https://lithub.com/the-pervasive-problem-and-far-reaching-impact-of-tree-poaching/)
 * [2022-06-28, 05:28:25](https://news.ycombinator.com/item?id=31904426) - [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 * [2022-06-28, 02:48:24](https://news.ycombinator.com/item?id=31903549) - [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 * [2022-06-28, 02:39:27](https://news.ycombinator.com/item?id=31903499) - [Ask HN: I want my next startup to be in space tech. Where do I start?](https://news.ycombinator.com/item?id=31903499)
