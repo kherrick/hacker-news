@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-28, 22:38:50](https://news.ycombinator.com/item?id=31914003) - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
+* [2022-06-28, 22:09:31](https://news.ycombinator.com/item?id=31913721) - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
 * [2022-06-28, 21:54:06](https://news.ycombinator.com/item?id=31913541) - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
 * [2022-06-28, 21:43:56](https://news.ycombinator.com/item?id=31913418) - [US military's mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
 * [2022-06-28, 21:11:16](https://news.ycombinator.com/item?id=31913057) - [Pen and paper exercises in machine learning](https://arxiv.org/abs/2206.13446)
@@ -21,7 +22,6 @@
 * [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 14:32:02](https://news.ycombinator.com/item?id=31908170) - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
 * [2022-06-28, 13:53:51](https://news.ycombinator.com/item?id=31907688) - [How individual contributors get stuck (2017)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
-* [2022-06-28, 13:05:48](https://news.ycombinator.com/item?id=31907161) - [Universal Media Server. A DLNA, UPnP and HTTP(s) Media Server](https://www.universalmediaserver.com/)
 * [2022-06-28, 12:45:43](https://news.ycombinator.com/item?id=31906933) - [Job interview questions engineers should ask, but don't](https://posthog.com/blog/what-to-ask-in-interviews)
 * [2022-06-28, 10:02:17](https://news.ycombinator.com/item?id=31905948) - [Add-on support in new Firefox for Android (2021)](https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8)
 * [2022-06-28, 05:39:21](https://news.ycombinator.com/item?id=31904477) - [The Pervasive Problem–and Far-Reaching Impact–Of Tree Poaching](https://lithub.com/the-pervasive-problem-and-far-reaching-impact-of-tree-poaching/)
