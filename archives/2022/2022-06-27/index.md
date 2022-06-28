@@ -79,6 +79,7 @@
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 * [2022-06-27, 03:47:05](https://news.ycombinator.com/item?id=31890388) - [13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
+* [2022-06-27, 02:40:41](https://news.ycombinator.com/item?id=31890041) - [Shacl: A Description Logic in Disguise](https://arxiv.org/abs/2108.06096)
 * [2022-06-27, 01:45:52](https://news.ycombinator.com/item?id=31889785) - [USDA Ignoring the Science on Low-Carb Diets](https://unsettledscience.substack.com/p/usda-ignoring-the-science-on-low)
 * [2022-06-27, 00:55:47](https://news.ycombinator.com/item?id=31889523) - [An AI drew my picture](https://twitter.com/wills_wire/status/1541223535481425921)
 * [2022-06-27, 00:54:52](https://news.ycombinator.com/item?id=31889519) - [‘Just stop buying lattes’: The origins of a millennial housing myth](https://thehustle.co/just-stop-buying-lattes-the-origins-of-a-millennial-housing-myth/)
