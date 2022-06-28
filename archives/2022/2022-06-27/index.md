@@ -63,6 +63,7 @@
 * [2022-06-27, 09:25:46](https://news.ycombinator.com/item?id=31892297) - [Fuck You: A Magazine of the Arts (1962-1965)](https://www.ubu.com/vp/FuckYou.html)
 * [2022-06-27, 08:59:31](https://news.ycombinator.com/item?id=31892113) - [The Socialist Lavatory League (2019)](https://www.lrb.co.uk/the-paper/v41/n09/owen-hatherley/the-socialist-lavatory-league)
 * [2022-06-27, 08:23:09](https://news.ycombinator.com/item?id=31891907) - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
+* [2022-06-27, 08:19:52](https://news.ycombinator.com/item?id=31891893) - [The Rise and Fall of 6502 Gaming (2020)](https://tedspence.com/the-rise-and-fall-of-6502-gaming-31b84e2d0cd?gi=566d1df6c491)
 * [2022-06-27, 07:56:05](https://news.ycombinator.com/item?id=31891754) - [Math on GitHub: Following Up](https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
