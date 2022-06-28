@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
+* [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 * [2022-06-28, 05:28:25](https://news.ycombinator.com/item?id=31904426) - [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 * [2022-06-28, 02:48:24](https://news.ycombinator.com/item?id=31903549) - [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
