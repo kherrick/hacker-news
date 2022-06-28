@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-28, 16:15:00",
+      "https://news.ycombinator.com/item?id=31909622"
+    ],
+    [
+      "Vercel Edge Middleware is now GA",
+      "https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 15:59:16",
+      "https://news.ycombinator.com/item?id=31909399"
+    ],
+    [
+      "Police swoop on Stop Brexit Man under new anti-protest law",
+      "https://www.theguardian.com/uk-news/2022/jun/28/police-swoop-on-stop-brexit-man-under-new-anti-protest-law"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 15:42:42",
+      "https://news.ycombinator.com/item?id=31909183"
+    ],
+    [
+      "Teenagers’ 30 minute guide to writing in Assembly",
+      "https://github.com/hackclub/some-assembly-required"
+    ]
+  ],
+  [
+    [
       "2022-06-28, 15:18:45",
       "https://news.ycombinator.com/item?id=31908847"
     ],
@@ -37,16 +67,6 @@
     [
       "Show HN: Virtual Maker – Make 3D/VR scenes in the browser",
       "https://www.virtualmaker.net/"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 13:57:33",
-      "https://news.ycombinator.com/item?id=31907728"
-    ],
-    [
-      "EY to pay $100 mln to settle U.S. charges of staff cheating on accountant exams",
-      "https://www.reuters.com/business/finance/ey-pay-100-mln-settle-us-charges-staff-cheating-accountant-exams-2022-06-28/"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=31906490"
     ],
     [
-      "Shakespeare's Plays (Complete and Free)",
+      "Shakespeare’s Plays, Sonnets, and Poems",
       "https://shakespeare.folger.edu/shakespeares-works/"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-06-28, 05:47:28",
-      "https://news.ycombinator.com/item?id=31904524"
-    ],
-    [
-      "Sorting algorithms visualized using the Blender Python API",
-      "https://github.com/ForeignGods/Sorting-Algorithms-Blender"
-    ]
-  ],
-  [
-    [
       "2022-06-28, 02:36:22",
       "https://news.ycombinator.com/item?id=31903480"
     ],
@@ -217,16 +227,6 @@
     [
       "Why hasn't Middle Earth had an Industrial Revolution?",
       "https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 02:04:51",
-      "https://news.ycombinator.com/item?id=31903318"
-    ],
-    [
-      "What the Hell Was the Microsoft Network? (2018)",
-      "http://www.codersnotes.com/notes/the-microsoft-network/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31891061"
     ],
     [
-      "Getting Started with Red",
+      "Getting Started with Red (2016)",
       "http://redprogramming.com/Getting%20Started.html"
     ]
   ],
