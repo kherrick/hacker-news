@@ -22,7 +22,7 @@
 * [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 – a better SQL](https://github.com/prql/prql)
 * [2022-06-27, 16:41:06](https://news.ycombinator.com/item?id=31897101) - [Meta is inviting researchers to pick apart the flaws in its version of GPT-3](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/)
 * [2022-06-27, 15:18:53](https://news.ycombinator.com/item?id=31895777) - [Angular without SSR is faster than Next.js with SSR](https://alexkrupp.typepad.com/sensemaking/2022/06/angular-without-ssr-is-faster-than-nextjs-with-ssr-i-have-the-data.html)
-* [2022-06-27, 14:54:32](https://news.ycombinator.com/item?id=31895410) - [Electric fan car shatters the Goodwood hill climb record](https://www.thedrive.com/news/watch-an-electric-fan-car-shatter-the-goodwood-hill-climb-record)
+* [2022-06-27, 15:08:58](https://news.ycombinator.com/item?id=31895623) - [Things to know about databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [2022-06-27, 09:25:46](https://news.ycombinator.com/item?id=31892297) - [Fuck You: A Magazine of the Arts (1962-1965)](https://www.ubu.com/vp/FuckYou.html)
 * [2022-06-27, 04:35:37](https://news.ycombinator.com/item?id=31890627) - [How are images compressed? An explanation of JPEG [video]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
