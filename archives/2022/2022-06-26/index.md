@@ -28,6 +28,7 @@
 * [2022-06-26, 16:06:13](https://news.ycombinator.com/item?id=31885174) - [Abolish Zoning. Entirely. For Good](https://www.pasadenastarnews.com/2022/06/25/abolish-zoning-entirely-for-good/)
 * [2022-06-26, 16:02:32](https://news.ycombinator.com/item?id=31885142) - [Show HN: MiniMail – Disposable Email Service for Everyone](https://minimail.eu.org/hello@minimail.eu.org)
 * [2022-06-26, 16:02:10](https://news.ycombinator.com/item?id=31885137) - [Life Is Not Short](https://dkb.show/post/life-is-not-short)
+* [2022-06-26, 15:58:55](https://news.ycombinator.com/item?id=31885110) - [Hard Things in Computer Science](https://blog.frankel.ch/hard-things-computer-science/)
 * [2022-06-26, 15:37:30](https://news.ycombinator.com/item?id=31884932) - [Show HN: Glossary page template with a built-in editor](https://glossary.page/template/)
 * [2022-06-26, 15:27:54](https://news.ycombinator.com/item?id=31884846) - [Who Is Going to Replace Google for Us?](https://michaeldehaan.substack.com/p/who-is-going-to-replace-google-for)
 * [2022-06-26, 14:58:05](https://news.ycombinator.com/item?id=31884585) - [Comprehensive list of modern reproductions of vintage sound cards](https://www.vogons.org/viewtopic.php?t=68265)

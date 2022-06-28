@@ -9,7 +9,6 @@
 * [2022-06-28, 02:15:40](https://news.ycombinator.com/item?id=31903379) - [Why didn't Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
 * [2022-06-28, 02:04:51](https://news.ycombinator.com/item?id=31903318) - [What the Hell Was the Microsoft Network? (2018)](http://www.codersnotes.com/notes/the-microsoft-network/)
 * [2022-06-28, 01:27:52](https://news.ycombinator.com/item?id=31903076) - [Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch](https://github.com/kuprel/min-dalle)
-* [2022-06-28, 00:12:46](https://news.ycombinator.com/item?id=31902579) - [Leetcode Considered Harmful](https://www.fullcontextdevelopment.com/qb/leetcode-considered-harmful)
 * [2022-06-27, 23:24:23](https://news.ycombinator.com/item?id=31902243) - [Solar Protocol](http://solarprotocol.net)
 * [2022-06-27, 22:25:26](https://news.ycombinator.com/item?id=31901681) - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
@@ -29,6 +28,7 @@
 * [2022-06-27, 02:40:41](https://news.ycombinator.com/item?id=31890041) - [Shacl: A Description Logic in Disguise](https://arxiv.org/abs/2108.06096)
 * [2022-06-27, 02:37:12](https://news.ycombinator.com/item?id=31890024) - [Multi-gitter – CLI to update multiple Git repositories in bulk](https://github.com/lindell/multi-gitter)
 * [2022-06-26, 23:08:19](https://news.ycombinator.com/item?id=31888973) - [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
+* [2022-06-26, 15:58:55](https://news.ycombinator.com/item?id=31885110) - [Hard Things in Computer Science](https://blog.frankel.ch/hard-things-computer-science/)
 * [2022-06-24, 07:19:36](https://news.ycombinator.com/item?id=31858659) - [The Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 
 ## [Archives](archives/index.md)
