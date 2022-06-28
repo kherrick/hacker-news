@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 18:30:33](https://news.ycombinator.com/item?id=31911257) - [Why is life expectancy in the US lower than in other rich countries? (2020)](https://ourworldindata.org/us-life-expectancy-low)
+* [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
 * [2022-06-28, 17:57:08](https://news.ycombinator.com/item?id=31910853) - [Climate protection: CO2 turned into methanol](https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol)
+* [2022-06-28, 17:52:42](https://news.ycombinator.com/item?id=31910798) - [Tiny Mining Handbook](https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction)
 * [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
 * [2022-06-28, 17:27:51](https://news.ycombinator.com/item?id=31910519) - [Show HN: We used investor tools to find the best startups to work at](https://joinmaasive.com)
 * [2022-06-28, 17:13:19](https://news.ycombinator.com/item?id=31910361) - [Hacker-News.news](https://hacker-news.news/TopStory)
@@ -12,6 +15,7 @@
 * [2022-06-28, 16:15:00](https://news.ycombinator.com/item?id=31909622) - [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
 * [2022-06-28, 15:59:16](https://news.ycombinator.com/item?id=31909399) - [Police swoop on Stop Brexit Man under new anti-protest law](https://www.theguardian.com/uk-news/2022/jun/28/police-swoop-on-stop-brexit-man-under-new-anti-protest-law)
 * [2022-06-28, 15:42:42](https://news.ycombinator.com/item?id=31909183) - [Teenagers’ 30 minute guide to writing in Assembly](https://github.com/hackclub/some-assembly-required)
+* [2022-06-28, 15:21:13](https://news.ycombinator.com/item?id=31908874) - [FBI: Stolen PII and deepfakes used to apply for remote tech jobs](https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/)
 * [2022-06-28, 15:18:45](https://news.ycombinator.com/item?id=31908847) - [WHO declines to label monkeypox a global emergency](https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency)
 * [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 14:32:02](https://news.ycombinator.com/item?id=31908170) - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)

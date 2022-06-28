@@ -75,6 +75,7 @@
 * [2022-06-27, 05:09:30](https://news.ycombinator.com/item?id=31890781) - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
 * [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago](https://www.employbl.com/blog/chicago-startup-companies-to-watch-2022)
 * [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago (CSV file)](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
+* [2022-06-27, 04:46:01](https://news.ycombinator.com/item?id=31890672) - [Small Tables with Go generics](https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables)
 * [2022-06-27, 04:45:28](https://news.ycombinator.com/item?id=31890666) - [The intellectual mistake of once-and-for-allism](https://marginalrevolution.bulletin.com/the-intellectual-mistake-of-once-and-for-allism/)
 * [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
 * [2022-06-27, 04:41:33](https://news.ycombinator.com/item?id=31890649) - [Using the air as a wire – was Nikola Tesla right? [video]](https://www.youtube.com/watch?v=1gDm6X19ZLI)
