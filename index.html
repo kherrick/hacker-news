@@ -129,6 +129,121 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31907688">
+          <h3>
+            <a
+              class="item"
+              href="https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html"
+              >How Do Individual Contributors Get Stuck? A Primer (2017)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-28 @ 13:53:51</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31907688"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31907374">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=31907374"
+              >Tell HN: I DDoSed myself using AWS CloudFront and Lambda Edge and
+              got $4.5k bill</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-28 @ 13:23:44</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31907374"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I made a mistake and accidentally created a serverless function
+                that called itself. In a recursive loop, with a 30s timeout. I
+                thought I fixed it and deployed the code to the dev environment.
+              </p>
+              <p>
+                I have had an AWS Billing alert (Budgets) set up to prompt me
+                when my monthly budget goes over $300 (my usual bill is
+                $200/month).
+              </p>
+              <p>
+                Imagine the terror when I woke up the next day to see the AWS
+                Billing alert email saying I already owed $1,484! I removed a
+                function and deployed it again in 30 minutes, but it was too
+                late. It has already run for 24 hours, using over 70 million
+                Gb-Second!
+              </p>
+              <p>
+                Only after that I've learned that AWS Billing alerts do not work
+                this way for CloudFront. You get delayed information on charges
+                because they collect them from all regions.
+              </p>
+              <p>
+                On the following day, the bill settled at a shocking $4600. This
+                is more than we have ever spent on AWS all time.
+              </p>
+              <p>
+                CloudFront includes the AWS Shield Standard feature, but
+                somehow, it was not activated for this case (Lambda@Edge calling
+                itself via CloudFront).
+              </p>
+              <p>
+                Now, I understand that I should have created CloudWatch alarms,
+                which would alert me when the number of requests exceeds the
+                limit. The problem is, that they need to be set up per region,
+                and I got CloudFront charges from all points of presence.
+              </p>
+              <p>
+                I am a big proponent of the serverless approach. It makes it
+                easy to scale and develop things (e.g., you get PR review
+                version branches for free, both frontend and backend code like
+                Vercel does). But now, I am unsure because such unexpected
+                charges can ruin a side-project or emerging startup.
+              </p>
+              <p>
+                Now I am waiting on a response from AWS Support on these
+                charges; maybe they can help me waive part of that.
+              </p>
+              <p>
+                What is your experience with it? Would you recommend to use to
+                build a new product if you are bootstrapped, 3-person startup?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="31907250">
+          <h3>
+            <a class="item" href="https://perldoc.perl.org/perlpacktut"
+              >Demystifying pack and unpack, these most misunderstood
+              functions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-28 @ 13:14:31</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31907250"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="31907215">
           <h3>
             <a
@@ -142,11 +257,11 @@
             <h4>
               <span>2022-06-28 @ 13:10:47</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31907215"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -168,7 +283,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31907151"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -186,11 +301,11 @@
             <h4>
               <span>2022-06-28 @ 12:45:43</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31906933"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -205,11 +320,11 @@
             <h4>
               <span>2022-06-28 @ 12:34:50</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31906829"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -229,28 +344,6 @@
             </div>
           </section>
         </section>
-        <section id="31906718">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bloomberg.com/news/articles/2022-06-28/formica-plans-to-step-down-as-jupiter-ceo-beesley-to-take-over"
-              >Jupiter CEO Quits $68B Firm to Sit at the Beach and ‘Do
-              Nothing’</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-28 @ 12:18:46</span
-              ><span class="points-container"
-                >Points: <span class="points">85</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31906718"
-                  >Comments</a
-                ><span class="descendants">: 126</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="31906651">
           <h3>
             <a
@@ -264,7 +357,7 @@
             <h4>
               <span>2022-06-28 @ 12:09:21</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31906651"
                   >Comments</a
@@ -303,11 +396,11 @@
             <h4>
               <span>2022-06-28 @ 11:49:40</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31906510"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -324,32 +417,11 @@
             <h4>
               <span>2022-06-28 @ 11:46:29</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31906490"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31905983">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ezid.io//resource/switching-authentication-providers"
-              >The difficulty of switching authentication providers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-28 @ 10:11:08</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31905983"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -367,7 +439,7 @@
             <h4>
               <span>2022-06-28 @ 09:08:15</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31905682"
                   >Comments</a
@@ -386,32 +458,11 @@
             <h4>
               <span>2022-06-28 @ 08:44:52</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31905554"
                   >Comments</a
                 ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31904549">
-          <h3>
-            <a
-              class="item"
-              href="https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html"
-              >Big Bird: killing SQL injection with graph homomorphisms</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-28 @ 05:53:24</span
-              ><span class="points-container"
-                >Points: <span class="points">26</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31904549"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -428,11 +479,11 @@
             <h4>
               <span>2022-06-28 @ 05:47:28</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31904524"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -449,7 +500,7 @@
             <h4>
               <span>2022-06-28 @ 02:36:22</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">336</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31903480"
                   >Comments</a
@@ -470,11 +521,11 @@
             <h4>
               <span>2022-06-28 @ 02:19:47</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31903403"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -491,11 +542,11 @@
             <h4>
               <span>2022-06-28 @ 02:15:40</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31903379"
                   >Comments</a
-                ><span class="descendants">: 306</span></span
+                ><span class="descendants">: 313</span></span
               >
             </h4>
           </section>
@@ -512,11 +563,11 @@
             <h4>
               <span>2022-06-28 @ 02:04:51</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31903318"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -532,7 +583,7 @@
             <h4>
               <span>2022-06-28 @ 01:27:52</span
               ><span class="points-container"
-                >Points: <span class="points">498</span></span
+                >Points: <span class="points">509</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31903076"
                   >Comments</a
@@ -549,11 +600,11 @@
             <h4>
               <span>2022-06-27 @ 23:24:23</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31902243"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -570,11 +621,11 @@
             <h4>
               <span>2022-06-27 @ 19:46:28</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31899790"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -592,11 +643,11 @@
             <h4>
               <span>2022-06-27 @ 17:10:25</span
               ><span class="points-container"
-                >Points: <span class="points">551</span></span
+                >Points: <span class="points">554</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31897530"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -611,7 +662,7 @@
             <h4>
               <span>2022-06-27 @ 09:25:46</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31892297"
                   >Comments</a
@@ -632,11 +683,11 @@
             <h4>
               <span>2022-06-27 @ 07:56:05</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891754"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -657,7 +708,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891169"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -672,7 +723,7 @@
             <h4>
               <span>2022-06-27 @ 04:35:37</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31890627"
                   >Comments</a
@@ -691,7 +742,7 @@
             <h4>
               <span>2022-06-27 @ 02:40:41</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31890041"
                   >Comments</a
@@ -712,7 +763,7 @@
             <h4>
               <span>2022-06-26 @ 11:53:37</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31883137"
                   >Comments</a
@@ -734,11 +785,11 @@
             <h4>
               <span>2022-06-26 @ 05:27:17</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31881363"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -755,11 +806,11 @@
             <h4>
               <span>2022-06-24 @ 07:19:36</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31858659"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
