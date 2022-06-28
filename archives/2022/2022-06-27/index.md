@@ -59,6 +59,7 @@
 * [2022-06-27, 09:45:05](https://news.ycombinator.com/item?id=31892421) - [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
 * [2022-06-27, 09:39:57](https://news.ycombinator.com/item?id=31892384) - [Ask HN: What is your Kubernetes nightmare?](https://news.ycombinator.com/item?id=31892384)
 * [2022-06-27, 09:26:11](https://news.ycombinator.com/item?id=31892299) - [Outlook scans emails arriving in your inbox and sends all found URLs to Bing](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
+* [2022-06-27, 09:25:46](https://news.ycombinator.com/item?id=31892297) - [Fuck You: A Magazine of the Arts (1962-1965)](https://www.ubu.com/vp/FuckYou.html)
 * [2022-06-27, 08:59:31](https://news.ycombinator.com/item?id=31892113) - [The Socialist Lavatory League (2019)](https://www.lrb.co.uk/the-paper/v41/n09/owen-hatherley/the-socialist-lavatory-league)
 * [2022-06-27, 08:23:09](https://news.ycombinator.com/item?id=31891907) - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
