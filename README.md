@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-28, 07:30:11](https://news.ycombinator.com/item?id=31905133) - [Abortion Search Noise Generator](https://easrng.github.io/abortion-search-noise/)
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
@@ -19,8 +20,6 @@
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme explorations of TypeScript's type system](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
 * [2022-06-27, 17:59:08](https://news.ycombinator.com/item?id=31898218) - [Open Food Facts – a food products database made by everyone, for everyone](https://world.openfoodfacts.org)
 * [2022-06-27, 17:10:25](https://news.ycombinator.com/item?id=31897530) - [Detecting unauthorized physical access with beans, lentils and colored rice](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
-* [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 – a better SQL](https://github.com/prql/prql)
-* [2022-06-27, 16:41:06](https://news.ycombinator.com/item?id=31897101) - [Meta is inviting researchers to pick apart the flaws in its version of GPT-3](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/)
 * [2022-06-27, 15:18:53](https://news.ycombinator.com/item?id=31895777) - [Angular without SSR is faster than Next.js with SSR](https://alexkrupp.typepad.com/sensemaking/2022/06/angular-without-ssr-is-faster-than-nextjs-with-ssr-i-have-the-data.html)
 * [2022-06-27, 15:08:58](https://news.ycombinator.com/item?id=31895623) - [Things to know about databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [2022-06-27, 09:25:46](https://news.ycombinator.com/item?id=31892297) - [Fuck You: A Magazine of the Arts (1962-1965)](https://www.ubu.com/vp/FuckYou.html)
@@ -28,6 +27,7 @@
 * [2022-06-27, 04:35:37](https://news.ycombinator.com/item?id=31890627) - [How are images compressed? An explanation of JPEG [video]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
 * [2022-06-27, 02:40:41](https://news.ycombinator.com/item?id=31890041) - [Shacl: A Description Logic in Disguise](https://arxiv.org/abs/2108.06096)
+* [2022-06-26, 23:37:11](https://news.ycombinator.com/item?id=31889136) - [Ancient Authentication and Integrity Checking](https://www.lastweekasavciso.com/p/a-history-of-signature-integrity-verification)
 * [2022-06-26, 23:08:19](https://news.ycombinator.com/item?id=31888973) - [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
 * [2022-06-24, 07:19:36](https://news.ycombinator.com/item?id=31858659) - [The Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 
