@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-28, 19:40:51](https://news.ycombinator.com/item?id=31912089) - [FBI Says People Are Using Deepfakes, Stolen PII to Apply to Remote Jobs](https://gizmodo.com/deepfakes-remote-work-job-applications-fbi-1849118604)
+* [2022-06-28, 20:11:52](https://news.ycombinator.com/item?id=31912423) - [Interview with John Cook: mathematical consultant](https://sinews.siam.org/Details-Page/a-conversation-with-mathematical-consultant-john-d-cook)
 * [2022-06-28, 19:38:53](https://news.ycombinator.com/item?id=31912068) - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
+* [2022-06-28, 19:22:00](https://news.ycombinator.com/item?id=31911893) - [Energy Dome is on the brink of a long-duration storage breakthrough](https://www.canarymedia.com/articles/long-duration-energy-storage/energy-dome-is-on-the-brink-of-a-long-duration-storage-breakthrough)
 * [2022-06-28, 19:02:16](https://news.ycombinator.com/item?id=31911701) - [Burning Out](https://polymerist.substack.com/p/on-burning-out)
 * [2022-06-28, 18:59:53](https://news.ycombinator.com/item?id=31911655) - [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
 * [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
@@ -17,7 +18,6 @@
 * [2022-06-28, 15:21:13](https://news.ycombinator.com/item?id=31908874) - [FBI: Stolen PII and deepfakes used to apply for remote tech jobs](https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/)
 * [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 14:32:02](https://news.ycombinator.com/item?id=31908170) - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
-* [2022-06-28, 13:57:11](https://news.ycombinator.com/item?id=31907725) - [It is your responsibility to follow up (2019)](https://guzey.com/follow-up/)
 * [2022-06-28, 13:53:51](https://news.ycombinator.com/item?id=31907688) - [How individual contributors get stuck (2017)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
 * [2022-06-28, 13:23:44](https://news.ycombinator.com/item?id=31907374) - [Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill](https://news.ycombinator.com/item?id=31907374)
 * [2022-06-28, 13:14:31](https://news.ycombinator.com/item?id=31907250) - [Demystifying pack and unpack, these most misunderstood functions](https://perldoc.perl.org/perlpacktut)
