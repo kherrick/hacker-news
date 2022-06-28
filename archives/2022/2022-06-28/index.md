@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 13:10:47](https://news.ycombinator.com/item?id=31907215) - [Anti-Abortion Centers Find Pregnant Teens Online, Then Save Their Data](https://www.bloomberg.com/news/articles/2022-06-27/anti-abortion-centers-find-pregnant-teens-online-then-save-their-data)
+* [2022-06-28, 13:04:10](https://news.ycombinator.com/item?id=31907151) - [Council of Europe anti-torture Committee visits the Netherlands](https://www.coe.int/en/web/cpt/-/council-of-europe-anti-torture-committee-carries-out-16-day-visit-to-the-netherlands)
+* [2022-06-28, 12:45:43](https://news.ycombinator.com/item?id=31906933) - [Important job interview questions engineers should ask (but don't)](https://posthog.com/blog/what-to-ask-in-interviews)
 * [2022-06-28, 12:34:50](https://news.ycombinator.com/item?id=31906829) - [Ask HN: How do I learn (real life) COBOL?](https://news.ycombinator.com/item?id=31906829)
 * [2022-06-28, 12:18:46](https://news.ycombinator.com/item?id=31906718) - [Jupiter CEO Quits $68B Firm to Sit at the Beach and ‘Do Nothing’](https://www.bloomberg.com/news/articles/2022-06-28/formica-plans-to-step-down-as-jupiter-ceo-beesley-to-take-over)
+* [2022-06-28, 12:09:21](https://news.ycombinator.com/item?id=31906651) - [A human gene increases the size of primate's neocortex reflecting evolution](https://www.science.org/doi/10.1126/science.abb2401#core-collateral-purchase-access)
 * [2022-06-28, 12:01:03](https://news.ycombinator.com/item?id=31906602) - [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
 * [2022-06-28, 11:49:40](https://news.ycombinator.com/item?id=31906510) - [Haskell in Production: Channable](https://serokell.io/blog/haskell-in-production-channable)
 * [2022-06-28, 11:46:29](https://news.ycombinator.com/item?id=31906490) - [Shakespeare's Plays (Complete and Free)](https://shakespeare.folger.edu/shakespeares-works/)
