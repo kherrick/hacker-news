@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 13:57:11](https://news.ycombinator.com/item?id=31907725) - [It Is Your Responsibility to Follow Up](https://guzey.com/follow-up/)
 * [2022-06-28, 13:53:51](https://news.ycombinator.com/item?id=31907688) - [How Do Individual Contributors Get Stuck? A Primer (2017)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
 * [2022-06-28, 13:23:44](https://news.ycombinator.com/item?id=31907374) - [Tell HN: I DDoSed myself using AWS CloudFront and Lambda Edge and got $4.5k bill](https://news.ycombinator.com/item?id=31907374)
 * [2022-06-28, 13:14:31](https://news.ycombinator.com/item?id=31907250) - [Demystifying pack and unpack, these most misunderstood functions](https://perldoc.perl.org/perlpacktut)
 * [2022-06-28, 13:10:47](https://news.ycombinator.com/item?id=31907215) - [Anti-Abortion Centers Find Pregnant Teens Online, Then Save Their Data](https://www.bloomberg.com/news/articles/2022-06-27/anti-abortion-centers-find-pregnant-teens-online-then-save-their-data)
+* [2022-06-28, 13:05:48](https://news.ycombinator.com/item?id=31907161) - [Universal Media Server. A DLNA, UPnP and HTTP(s) Media Server](https://www.universalmediaserver.com/)
 * [2022-06-28, 13:04:10](https://news.ycombinator.com/item?id=31907151) - [Council of Europe anti-torture Committee visits the Netherlands](https://www.coe.int/en/web/cpt/-/council-of-europe-anti-torture-committee-carries-out-16-day-visit-to-the-netherlands)
 * [2022-06-28, 12:45:43](https://news.ycombinator.com/item?id=31906933) - [Important job interview questions engineers should ask (but don't)](https://posthog.com/blog/what-to-ask-in-interviews)
 * [2022-06-28, 12:34:50](https://news.ycombinator.com/item?id=31906829) - [Ask HN: How do I learn (real life) COBOL?](https://news.ycombinator.com/item?id=31906829)
