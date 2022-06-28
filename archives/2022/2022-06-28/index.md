@@ -14,3 +14,4 @@
 * [2022-06-28, 02:04:51](https://news.ycombinator.com/item?id=31903318) - [What the Hell Was the Microsoft Network? (2018)](http://www.codersnotes.com/notes/the-microsoft-network/)
 * [2022-06-28, 01:27:52](https://news.ycombinator.com/item?id=31903076) - [Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch](https://github.com/kuprel/min-dalle)
 * [2022-06-28, 01:01:10](https://news.ycombinator.com/item?id=31902897) - [Landeed (YC S22) is hiring Rust and React Native engineers in India](https://www.ycombinator.com/companies/landeed/jobs)
+* [2022-06-28, 00:12:46](https://news.ycombinator.com/item?id=31902579) - [Leetcode Considered Harmful](https://www.fullcontextdevelopment.com/qb/leetcode-considered-harmful)
