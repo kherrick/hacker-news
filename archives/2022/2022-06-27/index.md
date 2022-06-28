@@ -80,6 +80,7 @@
 * [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
 * [2022-06-27, 04:41:33](https://news.ycombinator.com/item?id=31890649) - [Using the air as a wire – was Nikola Tesla right? [video]](https://www.youtube.com/watch?v=1gDm6X19ZLI)
 * [2022-06-27, 04:35:37](https://news.ycombinator.com/item?id=31890627) - [How are images compressed? An explanation of JPEG [video]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
+* [2022-06-27, 04:01:51](https://news.ycombinator.com/item?id=31890450) - [Are you a naïve realist?](https://nautil.us/are-you-a-naive-realist-20403/)
 * [2022-06-27, 03:50:12](https://news.ycombinator.com/item?id=31890402) - [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 * [2022-06-27, 03:47:05](https://news.ycombinator.com/item?id=31890388) - [13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)
