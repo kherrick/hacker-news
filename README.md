@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 * [2022-06-28, 02:36:22](https://news.ycombinator.com/item?id=31903480) - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
 * [2022-06-28, 02:19:47](https://news.ycombinator.com/item?id=31903403) - [A Response](https://caspercloudwalker.bearblog.dev/a-response/)
 * [2022-06-28, 02:15:40](https://news.ycombinator.com/item?id=31903379) - [Why didn't Gandalf own a Colt .45?](https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45)
 * [2022-06-28, 02:04:51](https://news.ycombinator.com/item?id=31903318) - [What the Hell Was the Microsoft Network? (2018)](http://www.codersnotes.com/notes/the-microsoft-network/)
 * [2022-06-28, 01:27:52](https://news.ycombinator.com/item?id=31903076) - [Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch](https://github.com/kuprel/min-dalle)
-* [2022-06-28, 01:01:10](https://news.ycombinator.com/item?id=31902897) - [Landeed (YC S22) is hiring Rust and React Native engineers in India](https://www.ycombinator.com/companies/landeed/jobs)
 * [2022-06-28, 00:12:46](https://news.ycombinator.com/item?id=31902579) - [Leetcode Considered Harmful](https://www.fullcontextdevelopment.com/qb/leetcode-considered-harmful)
 * [2022-06-27, 23:24:23](https://news.ycombinator.com/item?id=31902243) - [Solar Protocol](http://solarprotocol.net)
 * [2022-06-27, 22:25:26](https://news.ycombinator.com/item?id=31901681) - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
