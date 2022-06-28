@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 15:18:45](https://news.ycombinator.com/item?id=31908847) - [WHO declines to label monkeypox a global emergency](https://www.science.org/content/article/who-declines-to-label-monkeypox-a-global-emergency)
 * [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 14:32:02](https://news.ycombinator.com/item?id=31908170) - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
 * [2022-06-28, 14:24:07](https://news.ycombinator.com/item?id=31908068) - [Taiyo No Tamago](https://www.atlasobscura.com/foods/egg-of-the-sun-mango)
