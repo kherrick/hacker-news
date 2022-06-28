@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
 * [2022-06-28, 17:13:19](https://news.ycombinator.com/item?id=31910361) - [Hacker-News.news](https://hacker-news.news/TopStory)
 * [2022-06-28, 17:00:14](https://news.ycombinator.com/item?id=31910211) - [PermitFlow (YC W22) Is Hiring a Head of Permit Operations](https://news.ycombinator.com/item?id=31910211)
 * [2022-06-28, 16:15:00](https://news.ycombinator.com/item?id=31909622) - [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)

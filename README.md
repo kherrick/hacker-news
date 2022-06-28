@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
 * [2022-06-28, 17:13:19](https://news.ycombinator.com/item?id=31910361) - [Hacker-News.news](https://hacker-news.news/TopStory)
 * [2022-06-28, 17:00:14](https://news.ycombinator.com/item?id=31910211) - [PermitFlow (YC W22) Is Hiring a Head of Permit Operations](https://news.ycombinator.com/item?id=31910211)
 * [2022-06-28, 16:15:00](https://news.ycombinator.com/item?id=31909622) - [Vercel Edge Middleware is now GA](https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static)
@@ -15,7 +16,6 @@
 * [2022-06-28, 13:14:31](https://news.ycombinator.com/item?id=31907250) - [Demystifying pack and unpack, these most misunderstood functions](https://perldoc.perl.org/perlpacktut)
 * [2022-06-28, 13:05:48](https://news.ycombinator.com/item?id=31907161) - [Universal Media Server. A DLNA, UPnP and HTTP(s) Media Server](https://www.universalmediaserver.com/)
 * [2022-06-28, 12:45:43](https://news.ycombinator.com/item?id=31906933) - [Job interview questions engineers should ask, but don't](https://posthog.com/blog/what-to-ask-in-interviews)
-* [2022-06-28, 12:34:50](https://news.ycombinator.com/item?id=31906829) - [Ask HN: How do I learn (real life) COBOL?](https://news.ycombinator.com/item?id=31906829)
 * [2022-06-28, 12:09:21](https://news.ycombinator.com/item?id=31906651) - [A human gene increases the size of primate's neocortex reflecting evolution](https://www.science.org/doi/10.1126/science.abb2401#core-collateral-purchase-access)
 * [2022-06-28, 11:49:40](https://news.ycombinator.com/item?id=31906510) - [Haskell in Production: Channable](https://serokell.io/blog/haskell-in-production-channable)
 * [2022-06-28, 11:46:29](https://news.ycombinator.com/item?id=31906490) - [Shakespeare’s Plays, Sonnets, and Poems](https://shakespeare.folger.edu/shakespeares-works/)
@@ -23,12 +23,12 @@
 * [2022-06-28, 08:44:52](https://news.ycombinator.com/item?id=31905554) - [We made a fast audio editor that is perfect for podcasting](https://teapodo.com/)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 * [2022-06-28, 02:36:22](https://news.ycombinator.com/item?id=31903480) - [The PocketReform is a made-in-Berlin Linux handheld](https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/)
-* [2022-06-28, 01:27:52](https://news.ycombinator.com/item?id=31903076) - [Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch](https://github.com/kuprel/min-dalle)
 * [2022-06-27, 07:56:05](https://news.ycombinator.com/item?id=31891754) - [Math on GitHub: Following Up](https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html)
 * [2022-06-27, 05:58:01](https://news.ycombinator.com/item?id=31891061) - [Getting Started with Red (2016)](http://redprogramming.com/Getting%20Started.html)
 * [2022-06-27, 04:41:33](https://news.ycombinator.com/item?id=31890649) - [Using the air as a wire – was Nikola Tesla right? [video]](https://www.youtube.com/watch?v=1gDm6X19ZLI)
 * [2022-06-26, 11:53:37](https://news.ycombinator.com/item?id=31883137) - [Specialist makers working hard to keep unique skills alive](https://www.theguardian.com/lifeandstyle/2022/jun/26/tricks-of-their-trade-meet-the-uks-most-unusual-master-crafters)
 * [2022-06-26, 05:27:17](https://news.ycombinator.com/item?id=31881363) - [Chestnut Tools Universal Sharpener – Popular Woodworking Magazine (2016)](https://web.archive.org/web/20170829095101/https://www.popularwoodworking.com/tools/chestnut-tools-universal-sharpener)
+* [2022-06-26, 04:11:03](https://news.ycombinator.com/item?id=31880976) - [How to Save a Dying Language (2013)](https://www.smithsonianmag.com/innovation/how-to-save-a-dying-language-4143017/)
 * [2022-06-24, 07:19:36](https://news.ycombinator.com/item?id=31858659) - [The Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 
 ## [Archives](archives/index.md)
