@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 21:54:06](https://news.ycombinator.com/item?id=31913541) - [1916: Ambassador Henry Morgenthau protests the expulsion of Armenians](https://www.laphamsquarterly.org/migration/deported)
+* [2022-06-28, 21:43:56](https://news.ycombinator.com/item?id=31913418) - [US military's mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
 * [2022-06-28, 21:11:16](https://news.ycombinator.com/item?id=31913057) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
 * [2022-06-28, 21:00:16](https://news.ycombinator.com/item?id=31912945) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2022-06-28, 20:43:29](https://news.ycombinator.com/item?id=31912763) - [Mastercard and visa are the de facto regulators of porn](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
