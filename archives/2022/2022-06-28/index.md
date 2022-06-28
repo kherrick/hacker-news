@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 12:34:50](https://news.ycombinator.com/item?id=31906829) - [Ask HN: How do I learn (real life) COBOL?](https://news.ycombinator.com/item?id=31906829)
 * [2022-06-28, 12:18:46](https://news.ycombinator.com/item?id=31906718) - [Jupiter CEO Quits $68B Firm to Sit at the Beach and ‘Do Nothing’](https://www.bloomberg.com/news/articles/2022-06-28/formica-plans-to-step-down-as-jupiter-ceo-beesley-to-take-over)
 * [2022-06-28, 12:01:03](https://news.ycombinator.com/item?id=31906602) - [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
 * [2022-06-28, 11:49:40](https://news.ycombinator.com/item?id=31906510) - [Haskell in Production: Channable](https://serokell.io/blog/haskell-in-production-channable)
