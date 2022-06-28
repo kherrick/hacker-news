@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-28, 05:47:28",
+      "https://news.ycombinator.com/item?id=31904524"
+    ],
+    [
+      "Sorting algorithms visualized using the Blender Python API",
+      "https://github.com/ForeignGods/Sorting-Algorithms-Blender"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 05:28:25",
+      "https://news.ycombinator.com/item?id=31904426"
+    ],
+    [
+      "Are big tech getting too judgemental?",
+      "https://blog.9struct.com/current-problems/who-are-you-to-decide/"
+    ]
+  ],
+  [
+    [
       "2022-06-28, 02:48:24",
       "https://news.ycombinator.com/item?id=31903549"
     ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-06-27, 15:18:53",
-      "https://news.ycombinator.com/item?id=31895777"
-    ],
-    [
-      "Angular without SSR is faster than Next.js with SSR",
-      "https://alexkrupp.typepad.com/sensemaking/2022/06/angular-without-ssr-is-faster-than-nextjs-with-ssr-i-have-the-data.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-27, 15:08:58",
-      "https://news.ycombinator.com/item?id=31895623"
-    ],
-    [
-      "Things to know about databases",
-      "https://architecturenotes.co/things-you-should-know-about-databases/"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 14:54:32",
       "https://news.ycombinator.com/item?id=31895410"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-06-27, 02:41:55",
-      "https://news.ycombinator.com/item?id=31890048"
-    ],
-    [
-      "Why America can’t build",
-      "https://palladiummag.com/2022/06/09/why-america-cant-build/"
-    ]
-  ],
-  [
-    [
       "2022-06-26, 23:37:11",
       "https://news.ycombinator.com/item?id=31889136"
     ],
@@ -297,6 +287,16 @@
     [
       "Kanopy – Stream films with your public library or university card",
       "https://www.kanopy.com/en/?frontend=kui"
+    ]
+  ],
+  [
+    [
+      "2022-06-24, 07:19:36",
+      "https://news.ycombinator.com/item?id=31858659"
+    ],
+    [
+      "The Modos Paper Monitor",
+      "https://www.modos.tech/blog/modos-paper-monitor"
     ]
   ]
 ]
