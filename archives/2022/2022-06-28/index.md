@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 21:00:16](https://news.ycombinator.com/item?id=31912945) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2022-06-28, 20:43:29](https://news.ycombinator.com/item?id=31912763) - [Mastercard and visa are the de facto regulators of porn](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
 * [2022-06-28, 20:11:52](https://news.ycombinator.com/item?id=31912423) - [Interview with John Cook: mathematical consultant](https://sinews.siam.org/Details-Page/a-conversation-with-mathematical-consultant-john-d-cook)
+* [2022-06-28, 19:49:45](https://news.ycombinator.com/item?id=31912178) - [The Wood Database](https://www.wood-database.com/wood-filter/)
 * [2022-06-28, 19:40:51](https://news.ycombinator.com/item?id=31912089) - [FBI Says People Are Using Deepfakes, Stolen PII to Apply to Remote Jobs](https://gizmodo.com/deepfakes-remote-work-job-applications-fbi-1849118604)
 * [2022-06-28, 19:38:53](https://news.ycombinator.com/item?id=31912068) - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
 * [2022-06-28, 19:22:00](https://news.ycombinator.com/item?id=31911893) - [Energy Dome is on the brink of a long-duration storage breakthrough](https://www.canarymedia.com/articles/long-duration-energy-storage/energy-dome-is-on-the-brink-of-a-long-duration-storage-breakthrough)
