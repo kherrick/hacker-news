@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-06-28, 18:30:33",
+      "https://news.ycombinator.com/item?id=31911257"
+    ],
+    [
+      "Why is life expectancy in the US lower than in other rich countries? (2020)",
+      "https://ourworldindata.org/us-life-expectancy-low"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 18:15:01",
+      "https://news.ycombinator.com/item?id=31911075"
+    ],
+    [
+      "De-anonymizing ransomware domains on the dark web",
+      "https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html"
+    ]
+  ],
+  [
+    [
       "2022-06-28, 17:57:08",
       "https://news.ycombinator.com/item?id=31910853"
     ],
     [
       "Climate protection: CO2 turned into methanol",
       "https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 17:52:42",
+      "https://news.ycombinator.com/item?id=31910798"
+    ],
+    [
+      "Tiny Mining Handbook",
+      "https://v2.nl/publishing/tiny-mining-a-handbook-for-internal-extraction"
     ]
   ],
   [
@@ -55,8 +85,18 @@
       "https://news.ycombinator.com/item?id=31909183"
     ],
     [
-      "Some-assembly-required: An approachable introduction to assembly",
+      "Some Assembly Required: An approachable introduction to assembly",
       "https://github.com/hackclub/some-assembly-required"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 15:21:13",
+      "https://news.ycombinator.com/item?id=31908874"
+    ],
+    [
+      "FBI: Stolen PII and deepfakes used to apply for remote tech jobs",
+      "https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/"
     ]
   ],
   [
@@ -191,21 +231,11 @@
   ],
   [
     [
-      "2022-06-28, 11:46:29",
-      "https://news.ycombinator.com/item?id=31906490"
-    ],
-    [
-      "Shakespeare’s plays, sonnets, and poems",
-      "https://shakespeare.folger.edu/shakespeares-works/"
-    ]
-  ],
-  [
-    [
       "2022-06-28, 10:02:17",
       "https://news.ycombinator.com/item?id=31905948"
     ],
     [
-      "Firefox addons are still unavailable on Android, two years after Fenix release",
+      "Add-on support in new Firefox for Android (2021)",
       "https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8"
     ]
   ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-06-28, 05:47:28",
-      "https://news.ycombinator.com/item?id=31904524"
-    ],
-    [
-      "Sorting algorithms visualized using the Blender Python API",
-      "https://github.com/ForeignGods/Sorting-Algorithms-Blender"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 07:56:05",
       "https://news.ycombinator.com/item?id=31891754"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2022-06-27, 05:58:01",
-      "https://news.ycombinator.com/item?id=31891061"
+      "2022-06-27, 04:46:01",
+      "https://news.ycombinator.com/item?id=31890672"
     ],
     [
-      "Getting Started with Red (2016)",
-      "http://redprogramming.com/Getting%20Started.html"
+      "Small Tables with Go generics",
+      "https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Using the air as a wire – was Nikola Tesla right? [video]",
       "https://www.youtube.com/watch?v=1gDm6X19ZLI"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 11:53:37",
-      "https://news.ycombinator.com/item?id=31883137"
-    ],
-    [
-      "Specialist makers working hard to keep unique skills alive",
-      "https://www.theguardian.com/lifeandstyle/2022/jun/26/tricks-of-their-trade-meet-the-uks-most-unusual-master-crafters"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 05:27:17",
-      "https://news.ycombinator.com/item?id=31881363"
-    ],
-    [
-      "Chestnut Tools Universal Sharpener – Popular Woodworking Magazine (2016)",
-      "https://web.archive.org/web/20170829095101/https://www.popularwoodworking.com/tools/chestnut-tools-universal-sharpener"
     ]
   ],
   [
