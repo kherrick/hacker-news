@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 14:32:02](https://news.ycombinator.com/item?id=31908170) - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
 * [2022-06-28, 13:57:11](https://news.ycombinator.com/item?id=31907725) - [It Is Your Responsibility to Follow Up](https://guzey.com/follow-up/)
 * [2022-06-28, 13:53:51](https://news.ycombinator.com/item?id=31907688) - [How Do Individual Contributors Get Stuck? A Primer (2017)](https://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
 * [2022-06-28, 13:23:44](https://news.ycombinator.com/item?id=31907374) - [Tell HN: I DDoSed myself using AWS CloudFront and Lambda Edge and got $4.5k bill](https://news.ycombinator.com/item?id=31907374)

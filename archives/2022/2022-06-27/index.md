@@ -70,6 +70,7 @@
 * [2022-06-27, 06:16:18](https://news.ycombinator.com/item?id=31891169) - [Deploying an IHP Project to Fly.io](https://nathanjaremko.com/deploying-an-ihp-project-to-flyio/)
 * [2022-06-27, 06:10:18](https://news.ycombinator.com/item?id=31891132) - [Two Types of Privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
 * [2022-06-27, 06:03:16](https://news.ycombinator.com/item?id=31891090) - [Notes on OpenSSL remote memory corruption by Guido Vranken](https://guidovranken.com/2022/06/27/notes-on-openssl-remote-memory-corruption/)
+* [2022-06-27, 05:58:01](https://news.ycombinator.com/item?id=31891061) - [Getting Started with Red](http://redprogramming.com/Getting%20Started.html)
 * [2022-06-27, 05:30:54](https://news.ycombinator.com/item?id=31890894) - [WebAssembly and C++](http://neugierig.org/software/blog/2022/06/wasm-c++.html)
 * [2022-06-27, 05:09:30](https://news.ycombinator.com/item?id=31890781) - [Lenses in Haskell](https://www.fpcomplete.com/haskell/tutorial/lens/)
 * [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago](https://www.employbl.com/blog/chicago-startup-companies-to-watch-2022)
