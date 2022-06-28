@@ -15,9 +15,7 @@
 * [2022-06-27, 19:46:28](https://news.ycombinator.com/item?id=31899790) - [Labrador's robotic shelf for people with mobility issues](https://www.theverge.com/2022/1/4/22858402/home-robot-labrador-caddie-retriever-smart-self-driving-shelf)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
-* [2022-06-27, 18:15:35](https://news.ycombinator.com/item?id=31898454) - [Wasting time in tech interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme explorations of TypeScript's type system](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
-* [2022-06-27, 17:59:08](https://news.ycombinator.com/item?id=31898218) - [Open Food Facts – a food products database made by everyone, for everyone](https://world.openfoodfacts.org)
 * [2022-06-27, 17:10:25](https://news.ycombinator.com/item?id=31897530) - [Detecting unauthorized physical access with beans, lentils and colored rice](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
 * [2022-06-27, 17:03:33](https://news.ycombinator.com/item?id=31897430) - [Show HN: PRQL 0.2 – a better SQL](https://github.com/prql/prql)
 * [2022-06-27, 16:41:06](https://news.ycombinator.com/item?id=31897101) - [Meta is inviting researchers to pick apart the flaws in its version of GPT-3](https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/)
@@ -28,6 +26,8 @@
 * [2022-06-27, 04:35:37](https://news.ycombinator.com/item?id=31890627) - [How are images compressed? An explanation of JPEG [video]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
 * [2022-06-27, 02:40:41](https://news.ycombinator.com/item?id=31890041) - [Shacl: A Description Logic in Disguise](https://arxiv.org/abs/2108.06096)
+* [2022-06-27, 02:37:12](https://news.ycombinator.com/item?id=31890024) - [Multi-gitter – CLI to update multiple Git repositories in bulk](https://github.com/lindell/multi-gitter)
+* [2022-06-26, 23:37:11](https://news.ycombinator.com/item?id=31889136) - [Ancient Authentication and Integrity Checking](https://www.lastweekasavciso.com/p/a-history-of-signature-integrity-verification)
 * [2022-06-26, 23:08:19](https://news.ycombinator.com/item?id=31888973) - [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
 * [2022-06-24, 07:19:36](https://news.ycombinator.com/item?id=31858659) - [The Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 
