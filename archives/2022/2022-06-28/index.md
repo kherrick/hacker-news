@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 05:28:25](https://news.ycombinator.com/item?id=31904426) - [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 * [2022-06-28, 02:48:24](https://news.ycombinator.com/item?id=31903549) - [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 * [2022-06-28, 02:39:27](https://news.ycombinator.com/item?id=31903499) - [Ask HN: I want my next startup to be in space tech. Where do I start?](https://news.ycombinator.com/item?id=31903499)
 * [2022-06-28, 02:37:02](https://news.ycombinator.com/item?id=31903486) - [Attorney General Bonta Releases Name, DOB, and Address of CCW Holders](https://oag.ca.gov/news/press-releases/attorney-general-bonta-releases-new-firearms-data-increase-transparency-and)
