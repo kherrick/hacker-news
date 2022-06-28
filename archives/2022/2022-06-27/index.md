@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-27](index.md)
 
+* [2022-06-27, 23:24:23](https://news.ycombinator.com/item?id=31902243) - [Solar Protocol](http://solarprotocol.net)
+* [2022-06-27, 23:00:30](https://news.ycombinator.com/item?id=31902042) - [ROS – Robot Operating System](https://www.ros.org/?mc_cid=af51b76569&mc_eid=4b7466b9c7)
 * [2022-06-27, 22:25:26](https://news.ycombinator.com/item?id=31901681) - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
 * [2022-06-27, 21:41:12](https://news.ycombinator.com/item?id=31901217) - [My Body, My Data Act Tackles Online Privacy in Wake of Roe vs. Wade Decision](https://www.itprotoday.com/data-privacy/my-body-my-data-act-tackles-online-privacy-wake-roe-v-wade-decision)
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
@@ -69,6 +71,7 @@
 * [2022-06-27, 04:51:41](https://news.ycombinator.com/item?id=31890701) - [Top startups in Chicago (CSV file)](https://gist.github.com/connor11528/69d2a2d71756fda814edc43ac5279007)
 * [2022-06-27, 04:45:28](https://news.ycombinator.com/item?id=31890666) - [The intellectual mistake of once-and-for-allism](https://marginalrevolution.bulletin.com/the-intellectual-mistake-of-once-and-for-allism/)
 * [2022-06-27, 04:41:45](https://news.ycombinator.com/item?id=31890652) - [Russia Defaults on Foreign Debt for First Time Since 1918](https://www.bnnbloomberg.ca/russia-defaults-on-foreign-debt-for-first-time-since-1918-1.1784183)
+* [2022-06-27, 04:35:37](https://news.ycombinator.com/item?id=31890627) - [How are images compressed? An explanation of JPEG [video]](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 * [2022-06-27, 03:50:12](https://news.ycombinator.com/item?id=31890402) - [Monkeypox outbreak in U.S. is bigger than the CDC reports. Testing is 'abysmal'](https://www.npr.org/sections/health-shots/2022/06/25/1107416457/monkeypox-outbreak-in-us)
 * [2022-06-27, 03:48:08](https://news.ycombinator.com/item?id=31890394) - [Type-Checked Keypaths in Rust](http://www.cmyr.net/blog/keypaths.html)
 * [2022-06-27, 03:47:05](https://news.ycombinator.com/item?id=31890388) - [13-year-old voice recorder captured my entire professional career](https://www.theverge.com/23180451/cheap-rca-digital-voice-recorder-13-years-of-interviews)
