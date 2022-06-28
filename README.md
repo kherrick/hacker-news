@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-28, 07:50:45](https://news.ycombinator.com/item?id=31905256) - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
@@ -27,7 +28,6 @@
 * [2022-06-27, 02:41:55](https://news.ycombinator.com/item?id=31890048) - [Why America can’t build](https://palladiummag.com/2022/06/09/why-america-cant-build/)
 * [2022-06-27, 02:40:41](https://news.ycombinator.com/item?id=31890041) - [Shacl: A Description Logic in Disguise](https://arxiv.org/abs/2108.06096)
 * [2022-06-27, 02:37:12](https://news.ycombinator.com/item?id=31890024) - [Multi-gitter – CLI to update multiple Git repositories in bulk](https://github.com/lindell/multi-gitter)
-* [2022-06-26, 23:37:11](https://news.ycombinator.com/item?id=31889136) - [Ancient Authentication and Integrity Checking](https://www.lastweekasavciso.com/p/a-history-of-signature-integrity-verification)
 * [2022-06-26, 23:08:19](https://news.ycombinator.com/item?id=31888973) - [Assertions should be more debugger-oriented](https://nullprogram.com/blog/2022/06/26/)
 * [2022-06-24, 07:19:36](https://news.ycombinator.com/item?id=31858659) - [The Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 
