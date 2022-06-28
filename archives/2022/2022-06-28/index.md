@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 19:38:53](https://news.ycombinator.com/item?id=31912068) - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
 * [2022-06-28, 19:02:16](https://news.ycombinator.com/item?id=31911701) - [Burning Out](https://polymerist.substack.com/p/on-burning-out)
 * [2022-06-28, 18:59:53](https://news.ycombinator.com/item?id=31911655) - [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
 * [2022-06-28, 18:30:33](https://news.ycombinator.com/item?id=31911257) - [Why is life expectancy in the US lower than in other rich countries? (2020)](https://ourworldindata.org/us-life-expectancy-low)
