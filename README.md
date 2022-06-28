@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-28, 10:11:08](https://news.ycombinator.com/item?id=31905983) - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
+* [2022-06-28, 09:44:55](https://news.ycombinator.com/item?id=31905870) - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
@@ -12,7 +13,6 @@
 * [2022-06-27, 23:24:23](https://news.ycombinator.com/item?id=31902243) - [Solar Protocol](http://solarprotocol.net)
 * [2022-06-27, 22:25:26](https://news.ycombinator.com/item?id=31901681) - [People who are isolated from others do worse on cognitive tests: new research](https://theconversation.com/socially-isolated-people-have-differently-wired-brains-and-poorer-cognition-new-research-185150)
 * [2022-06-27, 21:12:16](https://news.ycombinator.com/item?id=31900872) - [tolower() in bulk at speed](https://dotat.at/@/2022-06-27-tolower-swar.html)
-* [2022-06-27, 20:26:38](https://news.ycombinator.com/item?id=31900312) - [Trolley.co.uk is shutting down – pricing data is apparently owned by a company](https://www.trolley.co.uk/save-trolley/)
 * [2022-06-27, 19:46:28](https://news.ycombinator.com/item?id=31899790) - [Labrador's robotic shelf for people with mobility issues](https://www.theverge.com/2022/1/4/22858402/home-robot-labrador-caddie-retriever-smart-self-driving-shelf)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 17:59:08](https://news.ycombinator.com/item?id=31898218) - [Open Food Facts – a food products database made by everyone, for everyone](https://world.openfoodfacts.org)

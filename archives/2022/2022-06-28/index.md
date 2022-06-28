@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
 * [2022-06-28, 10:11:08](https://news.ycombinator.com/item?id=31905983) - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
+* [2022-06-28, 09:44:55](https://news.ycombinator.com/item?id=31905870) - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
 * [2022-06-28, 07:50:45](https://news.ycombinator.com/item?id=31905256) - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
 * [2022-06-28, 07:30:11](https://news.ycombinator.com/item?id=31905133) - [Abortion Search Noise Generator](https://easrng.github.io/abortion-search-noise/)
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
