@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 * [2022-06-28, 05:28:25](https://news.ycombinator.com/item?id=31904426) - [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 * [2022-06-28, 02:48:24](https://news.ycombinator.com/item?id=31903549) - [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 * [2022-06-28, 02:39:27](https://news.ycombinator.com/item?id=31903499) - [Ask HN: I want my next startup to be in space tech. Where do I start?](https://news.ycombinator.com/item?id=31903499)

@@ -79,6 +79,7 @@
 * [2022-06-24, 08:20:39](https://news.ycombinator.com/item?id=31859020) - [Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)](https://www.mail-archive.com/kragen-tol@canonical.org/msg00267.html)
 * [2022-06-24, 08:02:58](https://news.ycombinator.com/item?id=31858924) - [Not future-proofing](https://kk.org/thetechnium/not-future-proofing/)
 * [2022-06-24, 07:48:24](https://news.ycombinator.com/item?id=31858829) - [Mattermost – open-source platform for secure collaboration](https://github.com/mattermost/mattermost-server)
+* [2022-06-24, 07:19:36](https://news.ycombinator.com/item?id=31858659) - [The Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 * [2022-06-24, 07:09:19](https://news.ycombinator.com/item?id=31858604) - [Ask HN: What tone to use in code review suggestions?](https://news.ycombinator.com/item?id=31858604)
 * [2022-06-24, 06:43:41](https://news.ycombinator.com/item?id=31858478) - [What it feels like when Rust saves your bacon](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
 * [2022-06-24, 06:39:52](https://news.ycombinator.com/item?id=31858460) - [Tell HN: Coinbase now requires physical address of recipient in crypto transfers](https://news.ycombinator.com/item?id=31858460)
