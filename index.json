@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2022-06-27, 18:15:35",
-      "https://news.ycombinator.com/item?id=31898454"
-    ],
-    [
-      "Wasting time in tech interviews",
-      "https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html"
-    ]
-  ],
-  [
-    [
       "2022-06-27, 18:13:29",
       "https://news.ycombinator.com/item?id=31898420"
     ],
     [
       "Extreme explorations of TypeScript's type system",
       "https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system"
-    ]
-  ],
-  [
-    [
-      "2022-06-27, 17:59:08",
-      "https://news.ycombinator.com/item?id=31898218"
-    ],
-    [
-      "Open Food Facts – a food products database made by everyone, for everyone",
-      "https://world.openfoodfacts.org"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Shacl: A Description Logic in Disguise",
       "https://arxiv.org/abs/2108.06096"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 02:37:12",
+      "https://news.ycombinator.com/item?id=31890024"
+    ],
+    [
+      "Multi-gitter – CLI to update multiple Git repositories in bulk",
+      "https://github.com/lindell/multi-gitter"
+    ]
+  ],
+  [
+    [
+      "2022-06-26, 23:37:11",
+      "https://news.ycombinator.com/item?id=31889136"
+    ],
+    [
+      "Ancient Authentication and Integrity Checking",
+      "https://www.lastweekasavciso.com/p/a-history-of-signature-integrity-verification"
     ]
   ],
   [
