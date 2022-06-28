@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-28, 07:30:11",
-      "https://news.ycombinator.com/item?id=31905133"
-    ],
-    [
-      "Abortion Search Noise Generator",
-      "https://easrng.github.io/abortion-search-noise/"
-    ]
-  ],
-  [
-    [
       "2022-06-28, 07:00:35",
       "https://news.ycombinator.com/item?id=31904952"
     ],
@@ -201,6 +191,26 @@
   ],
   [
     [
+      "2022-06-27, 17:03:33",
+      "https://news.ycombinator.com/item?id=31897430"
+    ],
+    [
+      "Show HN: PRQL 0.2 – a better SQL",
+      "https://github.com/prql/prql"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 16:41:06",
+      "https://news.ycombinator.com/item?id=31897101"
+    ],
+    [
+      "Meta is inviting researchers to pick apart the flaws in its version of GPT-3",
+      "https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/"
+    ]
+  ],
+  [
+    [
       "2022-06-27, 15:18:53",
       "https://news.ycombinator.com/item?id=31895777"
     ],
@@ -267,16 +277,6 @@
     [
       "Shacl: A Description Logic in Disguise",
       "https://arxiv.org/abs/2108.06096"
-    ]
-  ],
-  [
-    [
-      "2022-06-26, 23:37:11",
-      "https://news.ycombinator.com/item?id=31889136"
-    ],
-    [
-      "Ancient Authentication and Integrity Checking",
-      "https://www.lastweekasavciso.com/p/a-history-of-signature-integrity-verification"
     ]
   ],
   [
