@@ -55,6 +55,7 @@
 * [2022-06-27, 12:48:03](https://news.ycombinator.com/item?id=31893823) - [Tech Companies Won't Say If They’ll Give Cops Abortion Data](https://www.vice.com/en/article/v7vmm4/tech-companies-wont-say-abortion-data-roe-v-wade)
 * [2022-06-27, 12:43:26](https://news.ycombinator.com/item?id=31893771) - [Windows 95 in Electron](https://github.com/felixrieseberg/windows95)
 * [2022-06-27, 12:10:51](https://news.ycombinator.com/item?id=31893408) - [Junior employees more likely to fail in remote](https://slite.com/blog/micromanagement-is-not-a-bad-word)
+* [2022-06-27, 11:13:38](https://news.ycombinator.com/item?id=31892947) - [The Path Is Set for PCI-Express 7.0 in 2025](https://www.nextplatform.com/2022/06/23/the-path-is-set-for-pci-express-7-0-in-2025/)
 * [2022-06-27, 10:46:00](https://news.ycombinator.com/item?id=31892738) - [Blood Pressure E-Tattoo Promises Continuous, Mobile Monitoring](https://news.utexas.edu/2022/06/20/blood-pressure-e-tattoo-promises-continuous-mobile-monitoring/)
 * [2022-06-27, 10:15:41](https://news.ycombinator.com/item?id=31892581) - [Linx – Reveals invisible links within JavaScript files](https://github.com/riza/linx)
 * [2022-06-27, 09:45:05](https://news.ycombinator.com/item?id=31892421) - [Condemning the Deployment of GPT-4chan](https://docs.google.com/forms/d/e/1FAIpQLSdh3Pgh0sGrYtRihBu-GPN7FSQoODBLvF7dVAFLZk2iuMgoLw/viewform?fbzx=1650213417672418119)
