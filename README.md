@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 * [2022-06-29, 13:06:43](https://news.ycombinator.com/item?id=31919563) - [I scraped 7M dev jobs for 8 months and these are the most demanded languages](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
+* [2022-06-29, 13:04:32](https://news.ycombinator.com/item?id=31919548) - [Ask HN: What do you use to build auth? A library, a provider, writing your own?](https://news.ycombinator.com/item?id=31919548)
 * [2022-06-29, 12:14:46](https://news.ycombinator.com/item?id=31919076) - [Xbox Series X|S Has Outsold PS5 in Japan Again](https://www.gamespot.com/articles/xbox-series-x-s-has-outsold-ps5-in-japan-again/1100-6504863/)
 * [2022-06-29, 12:03:21](https://news.ycombinator.com/item?id=31918988) - [As eng manager, you so frequently get request to drop what you are doing](https://twitter.com/gergelyorosz/status/1542061516912037890)
 * [2022-06-29, 12:00:34](https://news.ycombinator.com/item?id=31918956) - [Sieve (YC W22) is building the MongoDB for video, come join us](https://www.sievedata.com/)
@@ -17,9 +19,7 @@
 * [2022-06-29, 01:57:19](https://news.ycombinator.com/item?id=31915573) - [10 Years of Meteor](https://meteor10.sachagreif.com/)
 * [2022-06-29, 00:23:14](https://news.ycombinator.com/item?id=31914911) - [Analyze OpenBSD’s Kernel with Domain-Specific Knowledge](https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb)
 * [2022-06-28, 23:09:02](https://news.ycombinator.com/item?id=31914288) - [Thunderbird 102](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
-* [2022-06-28, 22:38:50](https://news.ycombinator.com/item?id=31914003) - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
 * [2022-06-28, 21:11:16](https://news.ycombinator.com/item?id=31913057) - [Pen and paper exercises in machine learning (2021)](https://arxiv.org/abs/2206.13446)
-* [2022-06-28, 15:42:42](https://news.ycombinator.com/item?id=31909183) - [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [Microsoft beat Apple to buy PowerPoint for $14M (2016)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
