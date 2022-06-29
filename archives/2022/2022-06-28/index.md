@@ -75,6 +75,7 @@
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 * [2022-06-28, 05:39:21](https://news.ycombinator.com/item?id=31904477) - [The Pervasive Problem–and Far-Reaching Impact–Of Tree Poaching](https://lithub.com/the-pervasive-problem-and-far-reaching-impact-of-tree-poaching/)
+* [2022-06-28, 05:38:59](https://news.ycombinator.com/item?id=31904474) - [New Eyes](https://www.theparisreview.org/blog/2022/06/07/new-eyes/)
 * [2022-06-28, 05:28:25](https://news.ycombinator.com/item?id=31904426) - [Are big tech getting too judgemental?](https://blog.9struct.com/current-problems/who-are-you-to-decide/)
 * [2022-06-28, 02:48:24](https://news.ycombinator.com/item?id=31903549) - [Bible Semantic Search](https://hoffa-bible-search-app-1uj1m3.streamlitapp.com)
 * [2022-06-28, 02:39:27](https://news.ycombinator.com/item?id=31903499) - [Ask HN: I want my next startup to be in space tech. Where do I start?](https://news.ycombinator.com/item?id=31903499)
