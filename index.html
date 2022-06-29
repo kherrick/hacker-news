@@ -129,6 +129,95 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="31926142">
+          <h3>
+            <a
+              class="item"
+              href="https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/"
+              >A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the
+              Air Each Year</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-29 @ 21:51:17</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31926142"
+                  >Comments</a
+                ><span class="descendants">: 36</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="31925871">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=31925871"
+              >Show HN: Calculator for US Individual Income tax, from
+              1970-present</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-29 @ 21:22:27</span
+              ><span class="points-container"
+                >Points: <span class="points">45</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31925871"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                All the calculations occur directly in the browser, and are
+                powered by a Fortran program that has been converted to WASM
+                using emscripten. This calculator was originally developed in
+                the 1970s [1] by the non-profit National Bureau of Economic
+                Research. NBER has been maintaining this F77 codebase for the
+                last 50 years, and uses it primarily for academic research on
+                tax policy. The Fortran source code itself is over 1MB of text,
+                because it codifies both federal and all 50 states' tax laws for
+                each of the last 62 years.
+              </p>
+              <p>
+                I first learned about NBER TAXSIM [2] a few months ago via an
+                interesting paper they published "Automatic Tax Filing:
+                Simulating a Pre-Populated Form 1040" [3]. The Fortran code
+                itself is not open-source, but is available on request for
+                research purposes. I reached out to NBER and proposed compiling
+                it to WASM, so it could be run directly in a browser. With
+                relatively little effort I was able to create a js/wasm version
+                [4], thanks in huge part to previous open-source work [5].
+              </p>
+              <p>
+                This WASM build now powers https://taxsim.app, which is my
+                attempt to create an interactive UI to allow for easier
+                exploration of the US tax code. Specific tax scenarios can also
+                be shared easily, by simply copying the browser URL. The code
+                for this webapp is also open-source [6].
+              </p>
+              <p>
+                This was my first time experimenting with WASM, and I am already
+                a huge fan. Not only was I able to take a 60 year old codebase
+                and get it working on every modern browser and device, this work
+                is also now benefiting the academic community. For example, the
+                js/wasm can be run directly in V8, which means it can also now
+                be run locally within R using libv8 [7]. Previously most
+                researchers were uploading their tax scenarios to NBER's servers
+                via ftp/ssh/http.
+              </p>
+              <p>[1] https://taxsim.nber.org/feenberg-coutts.pdf</p>
+              <p>[2] https://taxsim.nber.org/</p>
+              <p>[3] https://www.nber.org/papers/w30008</p>
+              <p>[4] https://github.com/tmm1/taxsim.js</p>
+              <p>[5] https://chrz.de/2020/04/21/fortran-in-the-browser/</p>
+              <p>[6] https://github.com/tmm1/taxsim.app</p>
+              <p>[7] https://github.com/shanejorr/usincometaxes/pull/11</p>
+            </div>
+          </section>
+        </section>
         <section id="31925716">
           <h3>
             <a
@@ -141,11 +230,11 @@
             <h4>
               <span>2022-06-29 @ 21:07:06</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31925716"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -179,11 +268,11 @@
             <h4>
               <span>2022-06-29 @ 20:32:34</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31925385"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -198,11 +287,11 @@
             <h4>
               <span>2022-06-29 @ 19:45:00</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31924849"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -219,11 +308,11 @@
             <h4>
               <span>2022-06-29 @ 19:20:23</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31924554"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -240,11 +329,11 @@
             <h4>
               <span>2022-06-29 @ 18:36:57</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31924052"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -262,11 +351,11 @@
             <h4>
               <span>2022-06-29 @ 17:49:51</span
               ><span class="points-container"
-                >Points: <span class="points">312</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31923483"
                   >Comments</a
-                ><span class="descendants">: 305</span></span
+                ><span class="descendants">: 312</span></span
               >
             </h4>
           </section>
@@ -281,11 +370,11 @@
             <h4>
               <span>2022-06-29 @ 17:46:27</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31923429"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -303,11 +392,11 @@
             <h4>
               <span>2022-06-29 @ 17:00:14</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31922828"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -324,11 +413,11 @@
             <h4>
               <span>2022-06-29 @ 16:55:15</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31922762"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -344,11 +433,11 @@
             <h4>
               <span>2022-06-29 @ 16:49:28</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31922682"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -367,7 +456,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31922445"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -384,7 +473,7 @@
             <h4>
               <span>2022-06-29 @ 16:29:06</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31922396"
                   >Comments</a
@@ -405,7 +494,7 @@
             <h4>
               <span>2022-06-29 @ 16:10:10</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31922138"
                   >Comments</a
@@ -429,7 +518,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31921830"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
             <div class="text">
@@ -468,7 +557,7 @@
             <h4>
               <span>2022-06-29 @ 15:45:07</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31921779"
                   >Comments</a
@@ -489,92 +578,13 @@
             <h4>
               <span>2022-06-29 @ 15:18:13</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31921403"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="31921313">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=31921313"
-              >Show HN: Infracost (YC W21): Cloud Costs for Terraform in
-              VSCode</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-29 @ 15:12:24</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31921313"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.infracost.io">https://www.infracost.io</a>)
-              here. Infracost shows engineers the cost of each Terraform change
-              in CI/CD before launching resources. When something changes, it
-              posts a comment with the cloud cost impact. e.g. you’ve added two
-              instances and volumes and have changed an instance type from
-              medium to large; this will increase your bill by 25% next month
-              from $1000 to $1250 per month.
-              <p>
-                Over the last few months, I've been working on a native
-                evaluation for Terraform. Previously we relied on the Terraform
-                CLI to fetch cloud resource information, which was a little slow
-                and cumbersome.
-              </p>
-              <p>
-                Native parsing is not only lightning-fast, but it means we have
-                contextual file information, which allows us to try a load of
-                cool new things. For example, we could provide real-time
-                suggestions to optimise your cloud costs as you write your
-                infrastructure code! This VSCode extension is the result of a
-                few weeks of hacking away whilst I should have been relaxing in
-                the sun in Italy... time better spent, I think!
-              </p>
-              <p>
-                We're excited about the possibilities of directly integrating
-                with editors. There is so much we can do to make DevOps lives
-                easier when optimising cloud spend. Right now, we're looking for
-                your feedback on this initial version of the extension. It
-                currently ships with:
-              </p>
-              <p>
-                1. Show a snapshot of the total cost of resources right above
-                their Terraform definitions. Updated on file save.
-              </p>
-              <p>
-                2. Resource and module blocks support showing cost estimates,
-                including 3rd party module blocks.
-              </p>
-              <p>
-                3. A cost overview web-view shows a detailed breakdown of what
-                components affect the price.
-              </p>
-              <p>
-                Please note this is an early release of the VSCode extension, so
-                there will likely be bugs. If you get stuck, please raise an
-                issue (<a
-                  href="https://github.com/infracost/vscode-infracost/issues"
-                  >https://github.com/infracost/vscode-infracost/issues</a
-                >), and we'll help you out asap.
-              </p>
-              <p>
-                We’d love to get your feedback on this extension, mainly what
-                you think it’s missing and would help your workflow. Head over
-                to the GitHub repo (<a
-                  href="https://github.com/infracost/vscode-infracost"
-                  >https://github.com/infracost/vscode-infracost</a
-                >) for more information and installation instructions.
-              </p>
-            </div>
           </section>
         </section>
         <section id="31921196">
@@ -589,54 +599,11 @@
             <h4>
               <span>2022-06-29 @ 15:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31921196"
                   >Comments</a
                 ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31921189">
-          <h3>
-            <a
-              class="item"
-              href="https://www.gsb.stanford.edu/insights/rethinking-hierarchy-workplace"
-              >Rethinking Hierarchy in the Workplace (2017)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-29 @ 15:04:44</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31921189"
-                  >Comments</a
-                ><span class="descendants">: 67</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31920756">
-          <h3>
-            <a
-              class="item"
-              href="https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/"
-              >TikTok updated privacy policy to collect faceprints and
-              voiceprints (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-06-29 @ 14:37:44</span
-              ><span class="points-container"
-                >Points: <span class="points">406</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31920756"
-                  >Comments</a
-                ><span class="descendants">: 269</span></span
               >
             </h4>
           </section>
@@ -653,7 +620,7 @@
             <h4>
               <span>2022-06-29 @ 13:27:09</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31919804"
                   >Comments</a
@@ -675,11 +642,11 @@
             <h4>
               <span>2022-06-29 @ 11:46:48</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31918835"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -700,7 +667,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31918593"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -715,7 +682,7 @@
             <h4>
               <span>2022-06-28 @ 09:50:46</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31905897"
                   >Comments</a
@@ -736,11 +703,11 @@
             <h4>
               <span>2022-06-28 @ 09:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31905741"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -758,7 +725,7 @@
             <h4>
               <span>2022-06-28 @ 09:05:38</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31905666"
                   >Comments</a
@@ -789,6 +756,27 @@
             </h4>
           </section>
         </section>
+        <section id="31904308">
+          <h3>
+            <a
+              class="item"
+              href="https://longreads.com/2019/09/06/the-myth-of-making-it/"
+              >The Myth of Making It (2019)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-06-28 @ 05:09:23</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=31904308"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="31892775">
           <h3>
             <a
@@ -805,7 +793,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31892775"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -826,7 +814,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31891780"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
