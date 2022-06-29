@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 09:28:36](https://news.ycombinator.com/item?id=31918019) - [Forebruary is a wall calendar that you do not need to replace every year. (2013)](https://ilyabirman.net/forebruary/)
 * [2022-06-29, 08:14:05](https://news.ycombinator.com/item?id=31917626) - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 * [2022-06-29, 07:00:06](https://news.ycombinator.com/item?id=31917279) - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
 * [2022-06-29, 05:41:32](https://news.ycombinator.com/item?id=31916864) - [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)

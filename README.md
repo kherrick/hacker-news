@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 09:28:36](https://news.ycombinator.com/item?id=31918019) - [Forebruary is a wall calendar that you do not need to replace every year. (2013)](https://ilyabirman.net/forebruary/)
 * [2022-06-29, 08:14:05](https://news.ycombinator.com/item?id=31917626) - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 * [2022-06-29, 07:00:06](https://news.ycombinator.com/item?id=31917279) - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
 * [2022-06-29, 05:41:32](https://news.ycombinator.com/item?id=31916864) - [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
@@ -19,7 +20,6 @@
 * [2022-06-28, 19:38:53](https://news.ycombinator.com/item?id=31912068) - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
 * [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
 * [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
-* [2022-06-28, 15:42:42](https://news.ycombinator.com/item?id=31909183) - [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 00:24:54](https://news.ycombinator.com/item?id=31902665) - [Lego Battle of Verdun [video]](https://www.youtube.com/watch?v=qo-58zeyETQ)
