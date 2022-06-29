@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-29, 17:49:51",
+      "https://news.ycombinator.com/item?id=31923483"
+    ],
+    [
+      "FCC asks Google, Apple to remove TikTok",
+      "https://www.cbc.ca/news/business/tiktok-fcc-1.6505269"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 17:46:27",
+      "https://news.ycombinator.com/item?id=31923429"
+    ],
+    [
+      "Things I wish everyone knew about Git (Part I)",
+      "https://blog.plover.com/2022/06/29/#tips"
+    ]
+  ],
+  [
+    [
       "2022-06-29, 17:01:16",
       "https://news.ycombinator.com/item?id=31922841"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-06-29, 06:49:15",
-      "https://news.ycombinator.com/item?id=31917229"
-    ],
-    [
-      "Why programmers are not paid in proportion to their productivity",
-      "https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/"
-    ]
-  ],
-  [
-    [
       "2022-06-28, 11:30:36",
       "https://news.ycombinator.com/item?id=31906391"
     ],
@@ -247,16 +257,6 @@
     [
       "Microsoft beat Apple to buy PowerPoint for $14M (2016)",
       "https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 09:10:22",
-      "https://news.ycombinator.com/item?id=31905695"
-    ],
-    [
-      "Working with the File System on Node.js",
-      "https://2ality.com/2022/06/nodejs-file-system.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-06-27, 11:11:07",
-      "https://news.ycombinator.com/item?id=31892933"
+      "2022-06-27, 08:00:24",
+      "https://news.ycombinator.com/item?id=31891780"
     ],
     [
-      "Wearable Muscles",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2022/06/muskeln-zum-anziehen.html"
+      "How Websites Die",
+      "https://notebook.wesleyac.com/how-websites-die/"
     ]
   ]
 ]
