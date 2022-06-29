@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 10:40:45](https://news.ycombinator.com/item?id=31918433) - [Increased Subscription Pricing for IDEs, .NET Tools, and the All Products Pack](https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/)
 * [2022-06-29, 09:54:42](https://news.ycombinator.com/item?id=31918156) - [Humans can't endure temperatures and humidities as high as previously thought](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
 * [2022-06-29, 09:28:36](https://news.ycombinator.com/item?id=31918019) - [Forebruary is a wall calendar that you do not need to replace every year. (2013)](https://ilyabirman.net/forebruary/)
 * [2022-06-29, 08:14:05](https://news.ycombinator.com/item?id=31917626) - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
