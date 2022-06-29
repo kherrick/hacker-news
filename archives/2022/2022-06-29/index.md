@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 17:01:16](https://news.ycombinator.com/item?id=31922841) - [GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+* [2022-06-29, 17:00:14](https://news.ycombinator.com/item?id=31922828) - [Battersea Power Station in London Unveils the Newly Restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
+* [2022-06-29, 16:55:15](https://news.ycombinator.com/item?id=31922762) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
+* [2022-06-29, 16:49:28](https://news.ycombinator.com/item?id=31922682) - [Scanner for decks of cards with bar codes printed on card edges](https://github.com/nettlep/magic)
 * [2022-06-29, 16:36:46](https://news.ycombinator.com/item?id=31922497) - [MIT proposes Brazil-sized fleet of “space bubbles” to cool the Earth](https://www.freethink.com/environment/solar-geoengineering-space-bubbles)
 * [2022-06-29, 16:32:41](https://news.ycombinator.com/item?id=31922445) - [NES Game Genie Technical Notes](http://tuxnes.sourceforge.net/gamegenie.html)
 * [2022-06-29, 16:29:06](https://news.ycombinator.com/item?id=31922396) - [History of Lossless Data Compression Algorithms](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
