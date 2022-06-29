@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-28](index.md)
 
+* [2022-06-28, 23:22:31](https://news.ycombinator.com/item?id=31914395) - [Turn your conference talk into a blog post](https://herbertlui.net/conference-talk-blog-post-transcribe/)
 * [2022-06-28, 23:09:02](https://news.ycombinator.com/item?id=31914288) - [Thunderbird 102 Released: A Serious Upgrade to Your Communication](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
 * [2022-06-28, 22:48:04](https://news.ycombinator.com/item?id=31914087) - [Ask HN: What tools are you a 10/10 on?](https://news.ycombinator.com/item?id=31914087)
 * [2022-06-28, 22:47:18](https://news.ycombinator.com/item?id=31914078) - [Canarytokens](https://canarytokens.org/generate)
