@@ -24,7 +24,7 @@
 * [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 * [2022-06-29, 11:06:22](https://news.ycombinator.com/item?id=31918593) - [Arm Unveils Next-Gen Flagship Core: Cortex-X3](https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/)
 * [2022-06-29, 09:28:36](https://news.ycombinator.com/item?id=31918019) - [Forebruary is a wall calendar that you do not need to replace every year (2013)](https://ilyabirman.net/forebruary/)
-* [2022-06-28, 11:30:36](https://news.ycombinator.com/item?id=31906391) - [Golden Gate Bridge construction – and indignation (2012)](https://www.sfgate.com/bayarea/place/article/Golden-Gate-Bridge-construction-and-indignation-3554707.php)
+* [2022-06-29, 06:49:15](https://news.ycombinator.com/item?id=31917229) - [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [Microsoft beat Apple to buy PowerPoint for $14M (2016)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
