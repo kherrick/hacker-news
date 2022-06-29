@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 15:45:07](https://news.ycombinator.com/item?id=31921779) - [Software upgrade for 19-year-old martian water-spotter](https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter)
+* [2022-06-29, 15:42:04](https://news.ycombinator.com/item?id=31921743) - [Cryptographic failures in RF encryption allow stealing robotic devices](https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/)
+* [2022-06-29, 15:18:13](https://news.ycombinator.com/item?id=31921403) - [Pre-Modern Battlefields Were Absolutely Terrifying (2015)](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
+* [2022-06-29, 15:12:24](https://news.ycombinator.com/item?id=31921313) - [Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode](https://news.ycombinator.com/item?id=31921313)
+* [2022-06-29, 15:12:08](https://news.ycombinator.com/item?id=31921308) - [Improving Calc support for 16384 columns](http://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html)
+* [2022-06-29, 15:05:05](https://news.ycombinator.com/item?id=31921196) - [The Dark Side of Graph Neural Networks](https://www.appliedexploration.com/p/dark-side-of-graph-neural-nets)
+* [2022-06-29, 15:04:44](https://news.ycombinator.com/item?id=31921189) - [Rethinking Hierarchy in the Workplace](https://www.gsb.stanford.edu/insights/rethinking-hierarchy-workplace)
+* [2022-06-29, 15:00:05](https://news.ycombinator.com/item?id=31921120) - [Mechanic put in prison for selling 14000 truck emission bypass devices](https://www.marketwatch.com/story/polluting-the-air-we-breathe-mechanic-sentenced-for-selling-thousands-of-devices-that-allowed-trucks-to-bypass-emission-controls-11656351518)
 * [2022-06-29, 14:54:31](https://news.ycombinator.com/item?id=31921024) - [GitHub Actions are down again](https://www.githubstatus.com/incidents/qzmhbwp7f6nn)
 * [2022-06-29, 14:49:35](https://news.ycombinator.com/item?id=31920941) - [EU Commission says it cannot find messages with Pfizer CEO](https://euobserver.com/eu-political/155377)
 * [2022-06-29, 14:37:44](https://news.ycombinator.com/item?id=31920756) - [TikTok updated privacy policy to collect faceprints and voiceprints (2021)](https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/)
