@@ -73,6 +73,7 @@
 * [2022-06-27, 08:23:09](https://news.ycombinator.com/item?id=31891907) - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 * [2022-06-27, 08:19:52](https://news.ycombinator.com/item?id=31891893) - [The Rise and Fall of 6502 Gaming (2020)](https://tedspence.com/the-rise-and-fall-of-6502-gaming-31b84e2d0cd?gi=566d1df6c491)
 * [2022-06-27, 08:01:26](https://news.ycombinator.com/item?id=31891785) - [About Serendeputy](https://serendeputy.com/about)
+* [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 * [2022-06-27, 07:56:05](https://news.ycombinator.com/item?id=31891754) - [Math on GitHub: Following Up](https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
 * [2022-06-27, 07:23:46](https://news.ycombinator.com/item?id=31891563) - [The Many Layers of Packaging](https://sedimental.org/the_packaging_gradient.html)

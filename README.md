@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 17:49:51](https://news.ycombinator.com/item?id=31923483) - [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
+* [2022-06-29, 17:46:27](https://news.ycombinator.com/item?id=31923429) - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
 * [2022-06-29, 17:01:16](https://news.ycombinator.com/item?id=31922841) - [GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
 * [2022-06-29, 17:00:14](https://news.ycombinator.com/item?id=31922828) - [Battersea Power Station in London Unveils the Newly Restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
 * [2022-06-29, 16:55:15](https://news.ycombinator.com/item?id=31922762) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
@@ -22,14 +24,12 @@
 * [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 * [2022-06-29, 11:06:22](https://news.ycombinator.com/item?id=31918593) - [Arm Unveils Next-Gen Flagship Core: Cortex-X3](https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/)
 * [2022-06-29, 09:28:36](https://news.ycombinator.com/item?id=31918019) - [Forebruary is a wall calendar that you do not need to replace every year (2013)](https://ilyabirman.net/forebruary/)
-* [2022-06-29, 06:49:15](https://news.ycombinator.com/item?id=31917229) - [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
 * [2022-06-28, 11:30:36](https://news.ycombinator.com/item?id=31906391) - [Golden Gate Bridge construction – and indignation (2012)](https://www.sfgate.com/bayarea/place/article/Golden-Gate-Bridge-construction-and-indignation-3554707.php)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [Microsoft beat Apple to buy PowerPoint for $14M (2016)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
-* [2022-06-28, 09:10:22](https://news.ycombinator.com/item?id=31905695) - [Working with the File System on Node.js](https://2ality.com/2022/06/nodejs-file-system.html)
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-27, 17:52:32](https://news.ycombinator.com/item?id=31898132) - [One man’s fight to end California’s ban on ferrets](https://www.latimes.com/california/story/2022-06-24/one-mans-fight-to-end-californias-ban-on-ferrets)
-* [2022-06-27, 11:11:07](https://news.ycombinator.com/item?id=31892933) - [Wearable Muscles](https://ethz.ch/en/news-and-events/eth-news/news/2022/06/muskeln-zum-anziehen.html)
+* [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
 ## [Archives](archives/index.md)
 

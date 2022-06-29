@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 17:49:51](https://news.ycombinator.com/item?id=31923483) - [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
+* [2022-06-29, 17:46:27](https://news.ycombinator.com/item?id=31923429) - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
 * [2022-06-29, 17:01:16](https://news.ycombinator.com/item?id=31922841) - [GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
 * [2022-06-29, 17:00:14](https://news.ycombinator.com/item?id=31922828) - [Battersea Power Station in London Unveils the Newly Restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
 * [2022-06-29, 16:55:15](https://news.ycombinator.com/item?id=31922762) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
