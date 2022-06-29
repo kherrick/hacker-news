@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 * [2022-06-29, 21:01:35](https://news.ycombinator.com/item?id=31925653) - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
 * [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [The Sun's Magnetic Arches May Just Be an Optical Illusion](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 * [2022-06-29, 19:45:00](https://news.ycombinator.com/item?id=31924849) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
@@ -17,7 +18,6 @@
 * [2022-06-29, 15:56:35](https://news.ycombinator.com/item?id=31921968) - [Bitcoin is the only coin the SEC Chair will call a commodity](https://www.axios.com/2022/06/28/bitcoin-is-the-only-coin-the-sec-chair-will-call-a-commodity)
 * [2022-06-29, 15:48:10](https://news.ycombinator.com/item?id=31921830) - [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
 * [2022-06-29, 15:45:07](https://news.ycombinator.com/item?id=31921779) - [Software upgrade for 19-year-old Martian water-spotter](https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter)
-* [2022-06-29, 15:42:04](https://news.ycombinator.com/item?id=31921743) - [Cryptographic failures in RF encryption allow stealing robotic devices](https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/)
 * [2022-06-29, 15:18:13](https://news.ycombinator.com/item?id=31921403) - [Pre-Modern Battlefields (2015)](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
 * [2022-06-29, 15:12:24](https://news.ycombinator.com/item?id=31921313) - [Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode](https://news.ycombinator.com/item?id=31921313)
 * [2022-06-29, 15:05:05](https://news.ycombinator.com/item?id=31921196) - [The dark side of Graph Neural Networks](https://www.appliedexploration.com/p/dark-side-of-graph-neural-nets)
@@ -28,7 +28,7 @@
 * [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [Microsoft beat Apple to buy PowerPoint for $14M (2016)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
-* [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
+* [2022-06-28, 08:12:40](https://news.ycombinator.com/item?id=31905376) - [Mechanical Engineering in Ancient Egypt, Part XII: Stone Cutting (2016) [pdf]](https://scholar.cu.edu.eg/?q=galal/files/me_part_xii_ijarmate.pdf)
 * [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
 ## [Archives](archives/index.md)
