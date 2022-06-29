@@ -19,6 +19,7 @@
 * [2022-06-27, 19:45:25](https://news.ycombinator.com/item?id=31899781) - [Flu vaccination linked to 40% reduced risk of Alzheimer’s disease](https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease)
 * [2022-06-27, 19:45:10](https://news.ycombinator.com/item?id=31899775) - [“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/)
 * [2022-06-27, 19:34:18](https://news.ycombinator.com/item?id=31899640) - [Anti-innovative effects of Apple's prohibition of alternative browser engines](http://www.fosspatents.com/2022/06/anti-innovative-effects-of-apples.html)
+* [2022-06-27, 18:32:12](https://news.ycombinator.com/item?id=31898684) - [Hyperstreams – Nesting in Lucid](https://billwadge.com/2022/06/27/hyperstreams-nesting-in-lucid/)
 * [2022-06-27, 18:27:57](https://news.ycombinator.com/item?id=31898626) - [Basement Fertility](https://betonit.substack.com/p/basement-fertility)
 * [2022-06-27, 18:26:36](https://news.ycombinator.com/item?id=31898605) - [4 in 5 Americans Who Need Insulin Have Taken on Credit Card Debt to Cover Cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
 * [2022-06-27, 18:15:35](https://news.ycombinator.com/item?id=31898454) - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 07:00:06](https://news.ycombinator.com/item?id=31917279) - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
 * [2022-06-29, 05:41:32](https://news.ycombinator.com/item?id=31916864) - [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
 * [2022-06-29, 05:32:32](https://news.ycombinator.com/item?id=31916812) - [Geometric exercises in paper folding (1917)](https://archive.org/details/tsundararowsgeo00rowrich)
 * [2022-06-29, 02:54:51](https://news.ycombinator.com/item?id=31915937) - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
