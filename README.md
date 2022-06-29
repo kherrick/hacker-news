@@ -22,6 +22,7 @@
 * [2022-06-28, 15:21:13](https://news.ycombinator.com/item?id=31908874) - [FBI: Stolen PII and deepfakes used to apply for remote tech jobs](https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/)
 * [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
+* [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 00:24:54](https://news.ycombinator.com/item?id=31902665) - [Lego Battle of Verdun [video]](https://www.youtube.com/watch?v=qo-58zeyETQ)
 * [2022-06-27, 18:32:12](https://news.ycombinator.com/item?id=31898684) - [Hyperstreams – Nesting in Lucid](https://billwadge.com/2022/06/27/hyperstreams-nesting-in-lucid/)
 * [2022-06-27, 11:13:38](https://news.ycombinator.com/item?id=31892947) - [The Path Is Set for PCI-Express 7.0 in 2025](https://www.nextplatform.com/2022/06/23/the-path-is-set-for-pci-express-7-0-in-2025/)
@@ -29,7 +30,6 @@
 * [2022-06-27, 10:51:46](https://news.ycombinator.com/item?id=31892775) - [Development Environments](https://phaazon.net/blog/development-environments)
 * [2022-06-27, 05:58:46](https://news.ycombinator.com/item?id=31891067) - [Optical microphone can separate multiple instruments from afar](https://newatlas.com/music/optical-microphone-sound/)
 * [2022-06-27, 04:01:51](https://news.ycombinator.com/item?id=31890450) - [Are you a naïve realist?](https://nautil.us/are-you-a-naive-realist-20403/)
-* [2022-06-26, 04:11:03](https://news.ycombinator.com/item?id=31880976) - [Documenting Aramaic before its native speakers vanish (2013)](https://www.smithsonianmag.com/innovation/how-to-save-a-dying-language-4143017/)
 
 ## [Archives](archives/index.md)
 

@@ -65,6 +65,7 @@
 * [2022-06-28, 09:08:15](https://news.ycombinator.com/item?id=31905682) - [“Blade Runner” has its own look, and a place in film history (1982)](https://www.newyorker.com/magazine/1982/07/12/baby-the-rain-must-fall)
 * [2022-06-28, 08:44:52](https://news.ycombinator.com/item?id=31905554) - [We made a fast audio editor that is perfect for podcasting](https://teapodo.com/)
 * [2022-06-28, 07:50:45](https://news.ycombinator.com/item?id=31905256) - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
+* [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 07:30:11](https://news.ycombinator.com/item?id=31905133) - [Abortion Search Noise Generator](https://easrng.github.io/abortion-search-noise/)
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
