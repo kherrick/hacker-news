@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-06-29, 01:20:23",
+      "https://news.ycombinator.com/item?id=31915334"
+    ],
+    [
+      "Generating Children’s Stories Using GPT-3 and DALL·E",
+      "https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 00:23:14",
+      "https://news.ycombinator.com/item?id=31914911"
+    ],
+    [
+      "Analyze OpenBSD’s Kernel with Domain-Specific Knowledge",
+      "https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb"
+    ]
+  ],
+  [
+    [
       "2022-06-28, 23:22:31",
       "https://news.ycombinator.com/item?id=31914395"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31914288"
     ],
     [
-      "Thunderbird 102 Released: A Serious Upgrade to Your Communication",
+      "Thunderbird 102 Released",
       "https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-06-28, 18:59:53",
-      "https://news.ycombinator.com/item?id=31911655"
-    ],
-    [
-      "Multiplying and Dividing on the 6502 (2021)",
-      "https://llx.com/Neil/a2/mult.html"
-    ]
-  ],
-  [
-    [
       "2022-06-28, 18:15:01",
       "https://news.ycombinator.com/item?id=31911075"
     ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2022-06-28, 17:45:30",
-      "https://news.ycombinator.com/item?id=31910724"
-    ],
-    [
-      "Gun owners’ private information leaked by California Attorney General",
-      "https://thereload.com/new-california-ag-website-leaks-massive-trove-of-gun-owner-private-information/"
-    ]
-  ],
-  [
-    [
       "2022-06-28, 17:35:18",
       "https://news.ycombinator.com/item?id=31910622"
     ],
     [
       "Show HN: I ranked news websites by speed",
       "https://legiblenews.com/speed"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 16:15:00",
-      "https://news.ycombinator.com/item?id=31909622"
-    ],
-    [
-      "Vercel Edge Middleware: Dynamic at the speed of static",
-      "https://vercel.com/blog/vercel-edge-middleware-dynamic-at-the-speed-of-static"
     ]
   ],
   [
@@ -221,22 +211,12 @@
   ],
   [
     [
-      "2022-06-28, 12:45:43",
-      "https://news.ycombinator.com/item?id=31906933"
+      "2022-06-28, 09:22:37",
+      "https://news.ycombinator.com/item?id=31905771"
     ],
     [
-      "Job interview questions engineers should ask, but don't",
-      "https://posthog.com/blog/what-to-ask-in-interviews"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 10:02:17",
-      "https://news.ycombinator.com/item?id=31905948"
-    ],
-    [
-      "Add-on support in new Firefox for Android (2021)",
-      "https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8"
+      "Automated PDF Reports with Python Notebooks",
+      "https://mljar.com/blog/automated-reports-python/"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "The Pervasive Problem–and Far-Reaching Impact–Of Tree Poaching",
       "https://lithub.com/the-pervasive-problem-and-far-reaching-impact-of-tree-poaching/"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 00:24:54",
+      "https://news.ycombinator.com/item?id=31902665"
+    ],
+    [
+      "Lego Battle of Verdun",
+      "https://www.youtube.com/watch?v=qo-58zeyETQ"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-06-27, 06:46:37",
+      "https://news.ycombinator.com/item?id=31891346"
+    ],
+    [
+      "Make it Simple: A Tale about Robert Dewar (2015)",
+      "https://dwheeler.com/essays/make-it-simple-dewar.html"
+    ]
+  ],
+  [
+    [
       "2022-06-27, 05:58:46",
       "https://news.ycombinator.com/item?id=31891067"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-06-27, 04:46:01",
-      "https://news.ycombinator.com/item?id=31890672"
+      "2022-06-27, 04:01:51",
+      "https://news.ycombinator.com/item?id=31890450"
     ],
     [
-      "Small Tables with Go generics",
-      "https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables"
+      "Are you a naïve realist?",
+      "https://nautil.us/are-you-a-naive-realist-20403/"
     ]
   ],
   [
