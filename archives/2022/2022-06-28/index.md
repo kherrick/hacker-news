@@ -58,6 +58,7 @@
 * [2022-06-28, 12:01:03](https://news.ycombinator.com/item?id=31906602) - [PolicyFly (YC W22) Is Hiring a Director of Engineering (Remote, US)](https://www.ycombinator.com/companies/policyfly/jobs/PpoJWAq-director-of-engineering)
 * [2022-06-28, 11:49:40](https://news.ycombinator.com/item?id=31906510) - [Haskell in Production: Channable](https://serokell.io/blog/haskell-in-production-channable)
 * [2022-06-28, 11:46:29](https://news.ycombinator.com/item?id=31906490) - [Shakespeare's Plays (Complete and Free)](https://shakespeare.folger.edu/shakespeares-works/)
+* [2022-06-28, 11:30:36](https://news.ycombinator.com/item?id=31906391) - [Golden Gate Bridge construction – and indignation](https://www.sfgate.com/bayarea/place/article/Golden-Gate-Bridge-construction-and-indignation-3554707.php)
 * [2022-06-28, 10:11:08](https://news.ycombinator.com/item?id=31905983) - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
 * [2022-06-28, 10:02:17](https://news.ycombinator.com/item?id=31905948) - [Firefox addons are still unavailable on Android, two years after Fenix release](https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8)
 * [2022-06-28, 09:44:55](https://news.ycombinator.com/item?id=31905870) - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)

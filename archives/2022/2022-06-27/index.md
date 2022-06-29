@@ -75,6 +75,7 @@
 * [2022-06-27, 08:01:26](https://news.ycombinator.com/item?id=31891785) - [About Serendeputy](https://serendeputy.com/about)
 * [2022-06-27, 07:56:05](https://news.ycombinator.com/item?id=31891754) - [Math on GitHub: Following Up](https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html)
 * [2022-06-27, 07:33:11](https://news.ycombinator.com/item?id=31891608) - [Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT](https://github.com/felipeleivav/yboard)
+* [2022-06-27, 07:23:46](https://news.ycombinator.com/item?id=31891563) - [The Many Layers of Packaging](https://sedimental.org/the_packaging_gradient.html)
 * [2022-06-27, 06:46:37](https://news.ycombinator.com/item?id=31891346) - [Make it Simple: A Tale about Robert Dewar (2015)](https://dwheeler.com/essays/make-it-simple-dewar.html)
 * [2022-06-27, 06:24:02](https://news.ycombinator.com/item?id=31891226) - [Explaining Code Using ASCII Art](https://blog.regehr.org/archives/1653)
 * [2022-06-27, 06:21:03](https://news.ycombinator.com/item?id=31891203) - [Metastability and Distributed Systems](https://brooker.co.za/blog/2021/05/24/metastable.html)

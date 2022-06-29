@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 14:54:31](https://news.ycombinator.com/item?id=31921024) - [GitHub Actions are down again](https://www.githubstatus.com/incidents/qzmhbwp7f6nn)
+* [2022-06-29, 14:49:35](https://news.ycombinator.com/item?id=31920941) - [EU Commission says it cannot find messages with Pfizer CEO](https://euobserver.com/eu-political/155377)
+* [2022-06-29, 14:37:44](https://news.ycombinator.com/item?id=31920756) - [TikTok updated privacy policy to collect faceprints and voiceprints (2021)](https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/)
+* [2022-06-29, 14:08:05](https://news.ycombinator.com/item?id=31920310) - [TSMC to customers: It's time to stop using older nodes and move to 28nm](https://www.anandtech.com/show/17470/tsmc-to-customers-time-to-stop-using-older-nodes-move-to-28nm)
+* [2022-06-29, 13:45:58](https://news.ycombinator.com/item?id=31920018) - [Technology shock, fewer shotgun marriages, and the rise in unwed births (1996)](https://www.brookings.edu/articles/new-mothers-not-married-technology-shock-the-demise-of-shotgun-marriage-and-the-increase-in-out-of-wedlock-births/)
+* [2022-06-29, 13:36:18](https://news.ycombinator.com/item?id=31919907) - [Extreme temperatures in major Latin American cities could be linked to 1M deaths](https://www.science.org/content/article/extreme-temperatures-major-latin-american-cities-could-be-linked-nearly-1-million)
+* [2022-06-29, 13:33:45](https://news.ycombinator.com/item?id=31919881) - [The gut metabolite indole-3 propionate promotes nerve regeneration and repair](https://www.nature.com/articles/s41586-022-04884-x)
 * [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 * [2022-06-29, 13:06:43](https://news.ycombinator.com/item?id=31919563) - [I scraped 7M dev jobs for 8 months and these are the most demanded languages](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
 * [2022-06-29, 13:04:32](https://news.ycombinator.com/item?id=31919548) - [Ask HN: What do you use to build auth? A library, a provider, writing your own?](https://news.ycombinator.com/item?id=31919548)
