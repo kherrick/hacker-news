@@ -10,7 +10,6 @@
 * [2022-06-29, 17:00:14](https://news.ycombinator.com/item?id=31922828) - [Battersea Power Station in London unveils the newly restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
 * [2022-06-29, 16:55:15](https://news.ycombinator.com/item?id=31922762) - [When network is faster than browser cache (2020)](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-06-29, 16:49:28](https://news.ycombinator.com/item?id=31922682) - [The Nettle Magic Project: Scanner for decks of cards with bar codes on edges](https://github.com/nettlep/magic)
-* [2022-06-29, 16:36:46](https://news.ycombinator.com/item?id=31922497) - [MIT researchers propose Brazil-sized fleet of “space bubbles” to cool the Earth](https://www.freethink.com/environment/solar-geoengineering-space-bubbles)
 * [2022-06-29, 16:32:41](https://news.ycombinator.com/item?id=31922445) - [NES Game Genie Technical Notes (2001)](http://tuxnes.sourceforge.net/gamegenie.html)
 * [2022-06-29, 16:29:06](https://news.ycombinator.com/item?id=31922396) - [History of lossless data compression algorithms (2014)](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
 * [2022-06-29, 16:10:10](https://news.ycombinator.com/item?id=31922138) - [Arm Introduces the Cortex-A715](https://fuse.wikichip.org/news/6853/arm-introduces-the-cortex-a715/)
@@ -29,6 +28,7 @@
 * [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [Microsoft beat Apple to buy PowerPoint for $14M (2016)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
+* [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
 ## [Archives](archives/index.md)
