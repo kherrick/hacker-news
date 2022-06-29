@@ -61,6 +61,7 @@
 * [2022-06-28, 10:11:08](https://news.ycombinator.com/item?id=31905983) - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
 * [2022-06-28, 10:02:17](https://news.ycombinator.com/item?id=31905948) - [Firefox addons are still unavailable on Android, two years after Fenix release](https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8)
 * [2022-06-28, 09:44:55](https://news.ycombinator.com/item?id=31905870) - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
+* [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 09:08:15](https://news.ycombinator.com/item?id=31905682) - [“Blade Runner” has its own look, and a place in film history (1982)](https://www.newyorker.com/magazine/1982/07/12/baby-the-rain-must-fall)
 * [2022-06-28, 08:44:52](https://news.ycombinator.com/item?id=31905554) - [We made a fast audio editor that is perfect for podcasting](https://teapodo.com/)
 * [2022-06-28, 07:50:45](https://news.ycombinator.com/item?id=31905256) - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
@@ -79,4 +80,5 @@
 * [2022-06-28, 02:04:51](https://news.ycombinator.com/item?id=31903318) - [What the Hell Was the Microsoft Network? (2018)](http://www.codersnotes.com/notes/the-microsoft-network/)
 * [2022-06-28, 01:27:52](https://news.ycombinator.com/item?id=31903076) - [Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch](https://github.com/kuprel/min-dalle)
 * [2022-06-28, 01:01:10](https://news.ycombinator.com/item?id=31902897) - [Landeed (YC S22) is hiring Rust and React Native engineers in India](https://www.ycombinator.com/companies/landeed/jobs)
+* [2022-06-28, 00:24:54](https://news.ycombinator.com/item?id=31902665) - [Lego Battle of Verdun](https://www.youtube.com/watch?v=qo-58zeyETQ)
 * [2022-06-28, 00:12:46](https://news.ycombinator.com/item?id=31902579) - [Leetcode Considered Harmful](https://www.fullcontextdevelopment.com/qb/leetcode-considered-harmful)
