@@ -66,6 +66,7 @@
 * [2022-06-27, 09:26:11](https://news.ycombinator.com/item?id=31892299) - [Outlook scans emails arriving in your inbox and sends all found URLs to Bing](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
 * [2022-06-27, 09:25:46](https://news.ycombinator.com/item?id=31892297) - [Fuck You: A Magazine of the Arts (1962-1965)](https://www.ubu.com/vp/FuckYou.html)
 * [2022-06-27, 08:59:31](https://news.ycombinator.com/item?id=31892113) - [The Socialist Lavatory League (2019)](https://www.lrb.co.uk/the-paper/v41/n09/owen-hatherley/the-socialist-lavatory-league)
+* [2022-06-27, 08:32:45](https://news.ycombinator.com/item?id=31891962) - [The Mathematics of Escalators on the London Underground](https://www.raeng.org.uk/publications/other/4-escalators)
 * [2022-06-27, 08:23:09](https://news.ycombinator.com/item?id=31891907) - [Amazon Is Intimidating and Harassing Organizing Workers in Montreal](https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/)
 * [2022-06-27, 08:19:52](https://news.ycombinator.com/item?id=31891893) - [The Rise and Fall of 6502 Gaming (2020)](https://tedspence.com/the-rise-and-fall-of-6502-gaming-31b84e2d0cd?gi=566d1df6c491)
 * [2022-06-27, 08:01:26](https://news.ycombinator.com/item?id=31891785) - [About Serendeputy](https://serendeputy.com/about)

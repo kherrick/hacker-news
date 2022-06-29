@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 08:14:05](https://news.ycombinator.com/item?id=31917626) - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 * [2022-06-29, 07:00:06](https://news.ycombinator.com/item?id=31917279) - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
 * [2022-06-29, 05:41:32](https://news.ycombinator.com/item?id=31916864) - [It's worse than you think](https://ckarchive.com/b/75u7h8hkk9g9e)
 * [2022-06-29, 05:32:32](https://news.ycombinator.com/item?id=31916812) - [Geometric exercises in paper folding (1917)](https://archive.org/details/tsundararowsgeo00rowrich)
@@ -18,9 +19,7 @@
 * [2022-06-28, 19:38:53](https://news.ycombinator.com/item?id=31912068) - [X-ray reverse-engineering a hybrid module from 1960s Apollo test equipment](https://www.righto.com/2022/06/x-ray-reverse-engineering-hybrid-module.html)
 * [2022-06-28, 18:15:01](https://news.ycombinator.com/item?id=31911075) - [De-anonymizing ransomware domains on the dark web](https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html)
 * [2022-06-28, 17:35:18](https://news.ycombinator.com/item?id=31910622) - [Show HN: I ranked news websites by speed](https://legiblenews.com/speed)
-* [2022-06-28, 15:42:42](https://news.ycombinator.com/item?id=31909183) - [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
 * [2022-06-28, 15:21:13](https://news.ycombinator.com/item?id=31908874) - [FBI: Stolen PII and deepfakes used to apply for remote tech jobs](https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/)
-* [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 00:24:54](https://news.ycombinator.com/item?id=31902665) - [Lego Battle of Verdun [video]](https://www.youtube.com/watch?v=qo-58zeyETQ)
@@ -28,6 +27,7 @@
 * [2022-06-27, 11:13:38](https://news.ycombinator.com/item?id=31892947) - [The Path Is Set for PCI-Express 7.0 in 2025](https://www.nextplatform.com/2022/06/23/the-path-is-set-for-pci-express-7-0-in-2025/)
 * [2022-06-27, 11:11:07](https://news.ycombinator.com/item?id=31892933) - [Wearable Muscles](https://ethz.ch/en/news-and-events/eth-news/news/2022/06/muskeln-zum-anziehen.html)
 * [2022-06-27, 10:51:46](https://news.ycombinator.com/item?id=31892775) - [Development Environments](https://phaazon.net/blog/development-environments)
+* [2022-06-27, 08:32:45](https://news.ycombinator.com/item?id=31891962) - [The Mathematics of Escalators on the London Underground](https://www.raeng.org.uk/publications/other/4-escalators)
 * [2022-06-27, 05:58:46](https://news.ycombinator.com/item?id=31891067) - [Optical microphone can separate multiple instruments from afar](https://newatlas.com/music/optical-microphone-sound/)
 * [2022-06-27, 04:01:51](https://news.ycombinator.com/item?id=31890450) - [Are you a naïve realist?](https://nautil.us/are-you-a-naive-realist-20403/)
 
