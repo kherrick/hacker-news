@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-06-29, 14:54:31",
+      "https://news.ycombinator.com/item?id=31921024"
+    ],
+    [
+      "GitHub Actions are down again",
+      "https://www.githubstatus.com/incidents/qzmhbwp7f6nn"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 14:49:35",
+      "https://news.ycombinator.com/item?id=31920941"
+    ],
+    [
+      "EU Commission says it cannot find messages with Pfizer CEO",
+      "https://euobserver.com/eu-political/155377"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 14:37:44",
+      "https://news.ycombinator.com/item?id=31920756"
+    ],
+    [
+      "TikTok updated privacy policy to collect faceprints and voiceprints (2021)",
+      "https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 14:08:05",
+      "https://news.ycombinator.com/item?id=31920310"
+    ],
+    [
+      "TSMC to customers: It's time to stop using older nodes and move to 28nm",
+      "https://www.anandtech.com/show/17470/tsmc-to-customers-time-to-stop-using-older-nodes-move-to-28nm"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 13:45:58",
+      "https://news.ycombinator.com/item?id=31920018"
+    ],
+    [
+      "Technology shock, fewer shotgun marriages, and the rise in unwed births (1996)",
+      "https://www.brookings.edu/articles/new-mothers-not-married-technology-shock-the-demise-of-shotgun-marriage-and-the-increase-in-out-of-wedlock-births/"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 13:36:18",
+      "https://news.ycombinator.com/item?id=31919907"
+    ],
+    [
+      "Extreme temperatures in major Latin American cities could be linked to 1M deaths",
+      "https://www.science.org/content/article/extreme-temperatures-major-latin-american-cities-could-be-linked-nearly-1-million"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 13:33:45",
+      "https://news.ycombinator.com/item?id=31919881"
+    ],
+    [
+      "The gut metabolite indole-3 propionate promotes nerve regeneration and repair",
+      "https://www.nature.com/articles/s41586-022-04884-x"
+    ]
+  ],
+  [
+    [
       "2022-06-29, 13:27:09",
       "https://news.ycombinator.com/item?id=31919804"
     ],
@@ -15,28 +85,8 @@
       "https://news.ycombinator.com/item?id=31919563"
     ],
     [
-      "I scraped 7M dev jobs for 8 months and these are the most demanded languages",
+      "I analyzed more than 7M developer jobs",
       "https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 13:04:32",
-      "https://news.ycombinator.com/item?id=31919548"
-    ],
-    [
-      "Ask HN: What do you use to build auth? A library, a provider, writing your own?",
-      "https://news.ycombinator.com/item?id=31919548"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 12:14:46",
-      "https://news.ycombinator.com/item?id=31919076"
-    ],
-    [
-      "Xbox Series X|S Has Outsold PS5 in Japan Again",
-      "https://www.gamespot.com/articles/xbox-series-x-s-has-outsold-ps5-in-japan-again/1100-6504863/"
     ]
   ],
   [
@@ -61,42 +111,12 @@
   ],
   [
     [
-      "2022-06-29, 11:46:48",
-      "https://news.ycombinator.com/item?id=31918835"
-    ],
-    [
-      "Does warfare make societies more complex? Controversial study says yes",
-      "https://www.science.org/content/article/does-warfare-make-societies-more-complex-controversial-study-says-yes"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 11:06:22",
       "https://news.ycombinator.com/item?id=31918593"
     ],
     [
       "Arm Unveils Next-Gen Flagship Core: Cortex-X3",
       "https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 10:40:45",
-      "https://news.ycombinator.com/item?id=31918433"
-    ],
-    [
-      "Increased Subscription Pricing for IDEs, .NET Tools, and the All Products Pack",
-      "https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 09:54:42",
-      "https://news.ycombinator.com/item?id=31918156"
-    ],
-    [
-      "Humans can't endure temperatures and humidities as high as previously thought",
-      "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/"
     ]
   ],
   [
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2022-06-29, 06:49:15",
+      "https://news.ycombinator.com/item?id=31917229"
+    ],
+    [
+      "Why programmers are not paid in proportion to their productivity",
+      "https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/"
+    ]
+  ],
+  [
+    [
       "2022-06-29, 05:41:32",
       "https://news.ycombinator.com/item?id=31916864"
     ],
@@ -141,42 +171,12 @@
   ],
   [
     [
-      "2022-06-29, 02:54:51",
-      "https://news.ycombinator.com/item?id=31915937"
-    ],
-    [
-      "A Chinese woman wrote millions of words of fake Wikipedia history",
-      "https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 02:12:52",
-      "https://news.ycombinator.com/item?id=31915677"
-    ],
-    [
-      "New concentrator could help solar panels capture more sunlight without tracking",
-      "https://cosmosmagazine.com/science/agile-concentrator-solar-panels/"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 01:57:19",
       "https://news.ycombinator.com/item?id=31915573"
     ],
     [
       "10 Years of Meteor",
       "https://meteor10.sachagreif.com/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 00:23:14",
-      "https://news.ycombinator.com/item?id=31914911"
-    ],
-    [
-      "Analyze OpenBSD’s Kernel with Domain-Specific Knowledge",
-      "https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb"
     ]
   ],
   [
@@ -191,22 +191,12 @@
   ],
   [
     [
-      "2022-06-28, 21:11:16",
-      "https://news.ycombinator.com/item?id=31913057"
+      "2022-06-28, 11:30:36",
+      "https://news.ycombinator.com/item?id=31906391"
     ],
     [
-      "Pen and paper exercises in machine learning (2021)",
-      "https://arxiv.org/abs/2206.13446"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 09:22:37",
-      "https://news.ycombinator.com/item?id=31905771"
-    ],
-    [
-      "Automated PDF Reports with Python Notebooks",
-      "https://mljar.com/blog/automated-reports-python/"
+      "Golden Gate Bridge construction – and indignation",
+      "https://www.sfgate.com/bayarea/place/article/Golden-Gate-Bridge-construction-and-indignation-3554707.php"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31895481"
     ],
     [
-      "Technology Is Not Values Neutral",
+      "Technology is not values neutral",
       "https://consilienceproject.org/technology-is-not-values-neutral/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The Mathematics of Escalators on the London Underground",
       "https://www.raeng.org.uk/publications/other/4-escalators"
+    ]
+  ],
+  [
+    [
+      "2022-06-27, 07:23:46",
+      "https://news.ycombinator.com/item?id=31891563"
+    ],
+    [
+      "The Many Layers of Packaging",
+      "https://sedimental.org/the_packaging_gradient.html"
     ]
   ]
 ]
