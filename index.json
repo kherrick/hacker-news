@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-06-29, 17:01:16",
+      "https://news.ycombinator.com/item?id=31922841"
+    ],
+    [
+      "GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE",
+      "https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 17:00:14",
+      "https://news.ycombinator.com/item?id=31922828"
+    ],
+    [
+      "Battersea Power Station in London Unveils the Newly Restored Control Room A",
+      "https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 16:55:15",
+      "https://news.ycombinator.com/item?id=31922762"
+    ],
+    [
+      "When Network is Faster than Cache",
+      "https://simonhearne.com/2020/network-faster-than-cache/"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 16:49:28",
+      "https://news.ycombinator.com/item?id=31922682"
+    ],
+    [
+      "Scanner for decks of cards with bar codes printed on card edges",
+      "https://github.com/nettlep/magic"
+    ]
+  ],
+  [
+    [
       "2022-06-29, 16:36:46",
       "https://news.ycombinator.com/item?id=31922497"
     ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31921403"
     ],
     [
-      "Pre-Modern Battlefields Were Absolutely Terrifying (2015)",
+      "Pre-modern battlefields (2015)",
       "https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/"
     ]
   ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-06-29, 14:54:31",
-      "https://news.ycombinator.com/item?id=31921024"
-    ],
-    [
-      "GitHub incident – now resolved",
-      "https://www.githubstatus.com/incidents/qzmhbwp7f6nn"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 14:49:35",
       "https://news.ycombinator.com/item?id=31920941"
     ],
@@ -157,16 +187,6 @@
     [
       "TikTok updated privacy policy to collect faceprints and voiceprints (2021)",
       "https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 14:08:05",
-      "https://news.ycombinator.com/item?id=31920310"
-    ],
-    [
-      "TSMC to customers: It's time to stop using older nodes and move to 28nm",
-      "https://www.anandtech.com/show/17470/tsmc-to-customers-time-to-stop-using-older-nodes-move-to-28nm"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-06-29, 12:00:34",
-      "https://news.ycombinator.com/item?id=31918956"
-    ],
-    [
-      "Sieve (YC W22) is building the MongoDB for video, come join us",
-      "https://www.sievedata.com/"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 11:06:22",
       "https://news.ycombinator.com/item?id=31918593"
     ],
@@ -217,16 +227,6 @@
     [
       "Forebruary is a wall calendar that you do not need to replace every year (2013)",
       "https://ilyabirman.net/forebruary/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 06:49:15",
-      "https://news.ycombinator.com/item?id=31917229"
-    ],
-    [
-      "Why programmers are not paid in proportion to their productivity",
-      "https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-06-28, 09:05:38",
+      "https://news.ycombinator.com/item?id=31905666"
+    ],
+    [
+      "Fossils in the 'Cradle of Humankind' may be more than a million years older",
+      "https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html"
+    ]
+  ],
+  [
+    [
       "2022-06-28, 07:45:29",
       "https://news.ycombinator.com/item?id=31905218"
     ],
@@ -287,16 +297,6 @@
     [
       "Wearable Muscles",
       "https://ethz.ch/en/news-and-events/eth-news/news/2022/06/muskeln-zum-anziehen.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-27, 07:23:46",
-      "https://news.ycombinator.com/item?id=31891563"
-    ],
-    [
-      "The Many Layers of Packaging",
-      "https://sedimental.org/the_packaging_gradient.html"
     ]
   ]
 ]
