@@ -61,6 +61,7 @@
 * [2022-06-28, 11:30:36](https://news.ycombinator.com/item?id=31906391) - [Golden Gate Bridge construction – and indignation](https://www.sfgate.com/bayarea/place/article/Golden-Gate-Bridge-construction-and-indignation-3554707.php)
 * [2022-06-28, 10:11:08](https://news.ycombinator.com/item?id=31905983) - [The difficulty of switching authentication providers](https://www.ezid.io//resource/switching-authentication-providers)
 * [2022-06-28, 10:02:17](https://news.ycombinator.com/item?id=31905948) - [Firefox addons are still unavailable on Android, two years after Fenix release](https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8)
+* [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 09:44:55](https://news.ycombinator.com/item?id=31905870) - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [How Microsoft beat Apple to buy PowerPoint for $14M (1987)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)

@@ -6,7 +6,9 @@
 
 * [2022-06-29, 19:45:00](https://news.ycombinator.com/item?id=31924849) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2022-06-29, 19:25:35](https://news.ycombinator.com/item?id=31924622) - [Substack is laying off 14% of its staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)
+* [2022-06-29, 19:20:23](https://news.ycombinator.com/item?id=31924554) - [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
 * [2022-06-29, 19:14:57](https://news.ycombinator.com/item?id=31924495) - [The only true answer to 'tabs vs. spaces'](https://garrit.xyz/posts/2022-06-29-the-only-true-answer-to-tabs-vs-spaces)
+* [2022-06-29, 18:36:57](https://news.ycombinator.com/item?id=31924052) - [Compound pejoratives on Reddit – from buttface to wankpuffin](http://colinmorris.github.io/blog/compound-curse-words)
 * [2022-06-29, 17:49:51](https://news.ycombinator.com/item?id=31923483) - [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
 * [2022-06-29, 17:46:27](https://news.ycombinator.com/item?id=31923429) - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
 * [2022-06-29, 17:01:16](https://news.ycombinator.com/item?id=31922841) - [GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
