@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 13:06:43](https://news.ycombinator.com/item?id=31919563) - [I scraped 7M dev jobs for 8 months and these are the most demanded languages](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
 * [2022-06-29, 12:14:46](https://news.ycombinator.com/item?id=31919076) - [Xbox Series X|S Has Outsold PS5 in Japan Again](https://www.gamespot.com/articles/xbox-series-x-s-has-outsold-ps5-in-japan-again/1100-6504863/)
 * [2022-06-29, 12:03:21](https://news.ycombinator.com/item?id=31918988) - [As eng manager, you so frequently get request to drop what you are doing](https://twitter.com/gergelyorosz/status/1542061516912037890)
 * [2022-06-29, 12:00:34](https://news.ycombinator.com/item?id=31918956) - [Sieve (YC W22) is building the MongoDB for video, come join us](https://www.sievedata.com/)
+* [2022-06-29, 11:46:48](https://news.ycombinator.com/item?id=31918835) - [Does warfare make societies more complex? Controversial study says yes](https://www.science.org/content/article/does-warfare-make-societies-more-complex-controversial-study-says-yes)
 * [2022-06-29, 11:06:22](https://news.ycombinator.com/item?id=31918593) - [Arm Unveils Next-Gen Flagship Core: Cortex-X3](https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/)
 * [2022-06-29, 10:40:45](https://news.ycombinator.com/item?id=31918433) - [Increased Subscription Pricing for IDEs, .NET Tools, and the All Products Pack](https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/)
 * [2022-06-29, 09:54:42](https://news.ycombinator.com/item?id=31918156) - [Humans can't endure temperatures and humidities as high as previously thought](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
