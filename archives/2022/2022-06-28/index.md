@@ -64,6 +64,7 @@
 * [2022-06-28, 09:44:55](https://news.ycombinator.com/item?id=31905870) - [Hetzner Cloud offers IPv6-only or no public IP at all](https://www.hetzner.com/news/06-22-flexibles-networking/?country=ot)
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [How Microsoft beat Apple to buy PowerPoint for $14M (1987)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
+* [2022-06-28, 09:10:22](https://news.ycombinator.com/item?id=31905695) - [Working with the File System on Node.js](https://2ality.com/2022/06/nodejs-file-system.html)
 * [2022-06-28, 09:08:15](https://news.ycombinator.com/item?id=31905682) - [“Blade Runner” has its own look, and a place in film history (1982)](https://www.newyorker.com/magazine/1982/07/12/baby-the-rain-must-fall)
 * [2022-06-28, 08:44:52](https://news.ycombinator.com/item?id=31905554) - [We made a fast audio editor that is perfect for podcasting](https://teapodo.com/)
 * [2022-06-28, 07:50:45](https://news.ycombinator.com/item?id=31905256) - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
