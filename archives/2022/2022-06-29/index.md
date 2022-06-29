@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 19:14:57](https://news.ycombinator.com/item?id=31924495) - [The only true answer to 'tabs vs. spaces'](https://garrit.xyz/posts/2022-06-29-the-only-true-answer-to-tabs-vs-spaces)
 * [2022-06-29, 17:49:51](https://news.ycombinator.com/item?id=31923483) - [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
 * [2022-06-29, 17:46:27](https://news.ycombinator.com/item?id=31923429) - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
 * [2022-06-29, 17:01:16](https://news.ycombinator.com/item?id=31922841) - [GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
@@ -22,6 +23,7 @@
 * [2022-06-29, 15:12:24](https://news.ycombinator.com/item?id=31921313) - [Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode](https://news.ycombinator.com/item?id=31921313)
 * [2022-06-29, 15:12:08](https://news.ycombinator.com/item?id=31921308) - [Improving Calc support for 16384 columns](http://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html)
 * [2022-06-29, 15:05:05](https://news.ycombinator.com/item?id=31921196) - [The Dark Side of Graph Neural Networks](https://www.appliedexploration.com/p/dark-side-of-graph-neural-nets)
+* [2022-06-29, 15:04:47](https://news.ycombinator.com/item?id=31921191) - [Show HN: Ploomber Cloud (YC W22) – run notebooks at scale without infrastructure](https://news.ycombinator.com/item?id=31921191)
 * [2022-06-29, 15:04:44](https://news.ycombinator.com/item?id=31921189) - [Rethinking Hierarchy in the Workplace](https://www.gsb.stanford.edu/insights/rethinking-hierarchy-workplace)
 * [2022-06-29, 15:00:05](https://news.ycombinator.com/item?id=31921120) - [Mechanic put in prison for selling 14000 truck emission bypass devices](https://www.marketwatch.com/story/polluting-the-air-we-breathe-mechanic-sentenced-for-selling-thousands-of-devices-that-allowed-trucks-to-bypass-emission-controls-11656351518)
 * [2022-06-29, 14:54:31](https://news.ycombinator.com/item?id=31921024) - [GitHub Actions are down again](https://www.githubstatus.com/incidents/qzmhbwp7f6nn)
