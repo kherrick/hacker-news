@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 09:54:42](https://news.ycombinator.com/item?id=31918156) - [Humans can't endure temperatures and humidities as high as previously thought](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
 * [2022-06-29, 09:28:36](https://news.ycombinator.com/item?id=31918019) - [Forebruary is a wall calendar that you do not need to replace every year. (2013)](https://ilyabirman.net/forebruary/)
 * [2022-06-29, 08:14:05](https://news.ycombinator.com/item?id=31917626) - [YOLOv6: Redefine state-of-the-art for object detection](https://dagshub.com/blog/yolov6/#)
 * [2022-06-29, 07:00:06](https://news.ycombinator.com/item?id=31917279) - [Supabase (YC S20) Is Hiring Elixir Engineers (Remote)](https://boards.greenhouse.io/supabase/jobs/4544288004)
@@ -11,7 +12,6 @@
 * [2022-06-29, 00:23:14](https://news.ycombinator.com/item?id=31914911) - [Analyze OpenBSD’s Kernel with Domain-Specific Knowledge](https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb)
 * [2022-06-28, 23:09:02](https://news.ycombinator.com/item?id=31914288) - [Thunderbird 102](https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/)
 * [2022-06-28, 22:38:50](https://news.ycombinator.com/item?id=31914003) - [GitJournal: Mobile first Markdown notes synchronized with Git](https://gitjournal.io/)
-* [2022-06-28, 22:09:31](https://news.ycombinator.com/item?id=31913721) - [FTC Sues Walmart for Facilitating Money Transfer Fraud](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-sues-walmart-facilitating-money-transfer-fraud-fleeced-customers-out-hundreds-millions)
 * [2022-06-28, 21:54:06](https://news.ycombinator.com/item?id=31913541) - [The Deported](https://www.laphamsquarterly.org/migration/deported)
 * [2022-06-28, 21:43:56](https://news.ycombinator.com/item?id=31913418) - [US military's mysterious X-37B space plane zooms toward orbital record](https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/)
 * [2022-06-28, 21:11:16](https://news.ycombinator.com/item?id=31913057) - [Pen and paper exercises in machine learning](https://arxiv.org/abs/2206.13446)
@@ -23,7 +23,7 @@
 * [2022-06-28, 09:22:37](https://news.ycombinator.com/item?id=31905771) - [Automated PDF Reports with Python Notebooks](https://mljar.com/blog/automated-reports-python/)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 00:24:54](https://news.ycombinator.com/item?id=31902665) - [Lego Battle of Verdun [video]](https://www.youtube.com/watch?v=qo-58zeyETQ)
-* [2022-06-27, 18:32:12](https://news.ycombinator.com/item?id=31898684) - [Hyperstreams – Nesting in Lucid](https://billwadge.com/2022/06/27/hyperstreams-nesting-in-lucid/)
+* [2022-06-27, 17:52:32](https://news.ycombinator.com/item?id=31898132) - [One man’s fight to end California’s ban on ferrets](https://www.latimes.com/california/story/2022-06-24/one-mans-fight-to-end-californias-ban-on-ferrets)
 * [2022-06-27, 11:13:38](https://news.ycombinator.com/item?id=31892947) - [The Path Is Set for PCI-Express 7.0 in 2025](https://www.nextplatform.com/2022/06/23/the-path-is-set-for-pci-express-7-0-in-2025/)
 * [2022-06-27, 11:11:07](https://news.ycombinator.com/item?id=31892933) - [Wearable Muscles](https://ethz.ch/en/news-and-events/eth-news/news/2022/06/muskeln-zum-anziehen.html)
 * [2022-06-27, 10:51:46](https://news.ycombinator.com/item?id=31892775) - [Development Environments](https://phaazon.net/blog/development-environments)

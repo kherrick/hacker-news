@@ -26,6 +26,7 @@
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
 * [2022-06-27, 18:02:17](https://news.ycombinator.com/item?id=31898261) - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 * [2022-06-27, 17:59:08](https://news.ycombinator.com/item?id=31898218) - [Open Food Facts – a food products database made by everyone, for everyone](https://world.openfoodfacts.org)
+* [2022-06-27, 17:52:32](https://news.ycombinator.com/item?id=31898132) - [One man’s fight to end California’s ban on ferrets](https://www.latimes.com/california/story/2022-06-24/one-mans-fight-to-end-californias-ban-on-ferrets)
 * [2022-06-27, 17:42:59](https://news.ycombinator.com/item?id=31898001) - [Only essential services to operate from midnight](https://www.newsfirst.lk/2022/06/27/breaking-only-essential-services-to-operate-from-midnight-27-cpc-will-only-issue-fuel-for-essential-services/)
 * [2022-06-27, 17:41:25](https://news.ycombinator.com/item?id=31897977) - [FTC Takes Action Against CafePress for Data Breach Cover Up](https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-cafepress-data-breach-cover)
 * [2022-06-27, 17:36:12](https://news.ycombinator.com/item?id=31897889) - [Whist, a new cloud-hybrid browser](https://www.whist.com/)
