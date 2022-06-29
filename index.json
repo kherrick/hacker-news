@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-06-29, 19:14:57",
-      "https://news.ycombinator.com/item?id=31924495"
-    ],
-    [
-      "The only true answer to 'tabs vs. spaces'",
-      "https://garrit.xyz/posts/2022-06-29-the-only-true-answer-to-tabs-vs-spaces"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 17:49:51",
       "https://news.ycombinator.com/item?id=31923483"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=31922396"
     ],
     [
-      "History of Lossless Data Compression Algorithms",
+      "History of lossless data compression algorithms (2014)",
       "https://ethw.org/History_of_Lossless_Data_Compression_Algorithms"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=31921779"
     ],
     [
-      "Software upgrade for 19-year-old martian water-spotter",
+      "Software upgrade for 19-year-old Martian water-spotter",
       "https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode",
       "https://news.ycombinator.com/item?id=31921313"
+    ]
+  ],
+  [
+    [
+      "2022-06-29, 15:12:08",
+      "https://news.ycombinator.com/item?id=31921308"
+    ],
+    [
+      "Improving Calc support for 16384 columns",
+      "http://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html"
     ]
   ],
   [
