@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 23:03:50](https://news.ycombinator.com/item?id=31926813) - [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 * [2022-06-29, 22:43:10](https://news.ycombinator.com/item?id=31926594) - [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
-* [2022-06-29, 21:51:17](https://news.ycombinator.com/item?id=31926142) - [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
 * [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 * [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 * [2022-06-29, 21:01:35](https://news.ycombinator.com/item?id=31925653) - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
