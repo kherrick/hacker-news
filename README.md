@@ -2,11 +2,11 @@
 
 * [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 * [2022-06-29, 21:01:35](https://news.ycombinator.com/item?id=31925653) - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
-* [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [The Sun's Magnetic Arches May Just Be an Optical Illusion](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
+* [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [Sun's magnetic arches may be just an optical illusion, research suggests](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 * [2022-06-29, 19:45:00](https://news.ycombinator.com/item?id=31924849) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2022-06-29, 19:25:35](https://news.ycombinator.com/item?id=31924622) - [Substack is laying off 14% of its staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)
 * [2022-06-29, 19:20:23](https://news.ycombinator.com/item?id=31924554) - [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
-* [2022-06-29, 18:36:57](https://news.ycombinator.com/item?id=31924052) - [Compound pejoratives on Reddit – from buttface to wankpuffin](http://colinmorris.github.io/blog/compound-curse-words)
+* [2022-06-29, 18:36:57](https://news.ycombinator.com/item?id=31924052) - [Compound pejoratives on Reddit](http://colinmorris.github.io/blog/compound-curse-words)
 * [2022-06-29, 17:49:51](https://news.ycombinator.com/item?id=31923483) - [FCC commissioner wants TikTok removed from app stores over spying concerns](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
 * [2022-06-29, 17:46:27](https://news.ycombinator.com/item?id=31923429) - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
 * [2022-06-29, 17:00:14](https://news.ycombinator.com/item?id=31922828) - [Battersea Power Station in London unveils the newly restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
