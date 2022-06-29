@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-29](index.md)
 
+* [2022-06-29, 21:51:17](https://news.ycombinator.com/item?id=31926142) - [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
+* [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 * [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 * [2022-06-29, 21:01:35](https://news.ycombinator.com/item?id=31925653) - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
 * [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [The Sun's Magnetic Arches May Just Be an Optical Illusion](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)

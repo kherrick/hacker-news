@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-29, 21:51:17](https://news.ycombinator.com/item?id=31926142) - [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
+* [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 * [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 * [2022-06-29, 21:01:35](https://news.ycombinator.com/item?id=31925653) - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
 * [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [Sun's magnetic arches may be just an optical illusion, research suggests](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
@@ -17,10 +19,7 @@
 * [2022-06-29, 15:48:10](https://news.ycombinator.com/item?id=31921830) - [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
 * [2022-06-29, 15:45:07](https://news.ycombinator.com/item?id=31921779) - [Software upgrade for 19-year-old Martian water-spotter](https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter)
 * [2022-06-29, 15:18:13](https://news.ycombinator.com/item?id=31921403) - [Pre-Modern Battlefields (2015)](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
-* [2022-06-29, 15:12:24](https://news.ycombinator.com/item?id=31921313) - [Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode](https://news.ycombinator.com/item?id=31921313)
 * [2022-06-29, 15:05:05](https://news.ycombinator.com/item?id=31921196) - [The dark side of Graph Neural Networks](https://www.appliedexploration.com/p/dark-side-of-graph-neural-nets)
-* [2022-06-29, 15:04:44](https://news.ycombinator.com/item?id=31921189) - [Rethinking Hierarchy in the Workplace (2017)](https://www.gsb.stanford.edu/insights/rethinking-hierarchy-workplace)
-* [2022-06-29, 14:37:44](https://news.ycombinator.com/item?id=31920756) - [TikTok updated privacy policy to collect faceprints and voiceprints (2021)](https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/)
 * [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 * [2022-06-29, 11:46:48](https://news.ycombinator.com/item?id=31918835) - [Archaeological analysis suggests warfare helped societies become more complex](https://www.science.org/content/article/does-warfare-make-societies-more-complex-controversial-study-says-yes)
 * [2022-06-29, 11:06:22](https://news.ycombinator.com/item?id=31918593) - [Arm Unveils Next-Gen Flagship Core: Cortex-X3](https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/)
@@ -28,6 +27,7 @@
 * [2022-06-28, 09:18:22](https://news.ycombinator.com/item?id=31905741) - [Microsoft beat Apple to buy PowerPoint for $14M (2016)](https://blog.zamzar.com/2016/06/10/deal-of-the-century-how-microsoft-beat-apple-to-buy-powerpoint-for-14-million/)
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
 * [2022-06-28, 08:12:40](https://news.ycombinator.com/item?id=31905376) - [Mechanical Engineering in Ancient Egypt, Part XII: Stone Cutting (2016) [pdf]](https://scholar.cu.edu.eg/?q=galal/files/me_part_xii_ijarmate.pdf)
+* [2022-06-28, 05:09:23](https://news.ycombinator.com/item?id=31904308) - [The Myth of Making It (2019)](https://longreads.com/2019/09/06/the-myth-of-making-it/)
 * [2022-06-27, 10:51:46](https://news.ycombinator.com/item?id=31892775) - [Development Environments](https://phaazon.net/blog/development-environments)
 * [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
