@@ -11,6 +11,7 @@
 * [2022-06-30, 17:58:03](https://news.ycombinator.com/item?id=31936110) - [Show HN: Movably – Protect your health, move more while you work](https://www.movably.com)
 * [2022-06-30, 17:38:45](https://news.ycombinator.com/item?id=31935844) - [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
 * [2022-06-30, 17:22:52](https://news.ycombinator.com/item?id=31935630) - [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
+* [2022-06-30, 17:08:13](https://news.ycombinator.com/item?id=31935459) - [We’re (mostly) living better than our parents](https://fullstackeconomics.com/24-charts-that-show-were-mostly-living-better-than-our-parents/)
 * [2022-06-30, 17:04:55](https://news.ycombinator.com/item?id=31935425) - [Farewell to HTML5Rocks](https://web.dev/farewell-html5rocks/)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:46:45](https://news.ycombinator.com/item?id=31935179) - [Links and tweets, 2022-06-29](https://rootsofprogress.org/links-and-tweets-2022-06-29)
