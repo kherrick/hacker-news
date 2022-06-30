@@ -12,6 +12,7 @@
 * [2022-06-30, 20:31:14](https://news.ycombinator.com/item?id=31938182) - [Blacklist is not a racist word](https://medium.com/@blacklist.is.not.a.racist.word/blacklist-is-not-a-racist-word-2624a45bd811)
 * [2022-06-30, 19:46:23](https://news.ycombinator.com/item?id=31937612) - [Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
 * [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
+* [2022-06-30, 18:42:21](https://news.ycombinator.com/item?id=31936725) - [Vim 9.0](https://www.vim.org/vim90.php)
 * [2022-06-30, 18:42:21](https://news.ycombinator.com/item?id=31936725) - [Vim 9.0 Was Released](https://groups.google.com/g/vim_announce/c/f_-N3hYxK20)
 * [2022-06-30, 18:36:14](https://news.ycombinator.com/item?id=31936630) - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
