@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 14:45:11](https://news.ycombinator.com/item?id=31932996) - [App School Live](https://developers.urbit.org/blog/asl-announce)
 * [2022-06-30, 14:36:00](https://news.ycombinator.com/item?id=31932861) - [Supreme Court says EPA overstepped in regulating greenhouse-gas emissions](https://www.wsj.com/articles/supreme-court-limits-environmental-protection-agencys-authority-11656598034)
 * [2022-06-30, 14:35:43](https://news.ycombinator.com/item?id=31932859) - [Supreme Court curbs EPA’s power to regulate greenhouse gas emissions [pdf]](https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf)
 * [2022-06-30, 14:31:45](https://news.ycombinator.com/item?id=31932808) - [Supreme Court limits EPA’s right to regulate greenhouse gases nationally](https://www.bbc.com/news/science-environment-62000742)
