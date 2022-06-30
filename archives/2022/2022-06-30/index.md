@@ -6,6 +6,7 @@
 
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
 * [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
+* [2022-06-30, 21:19:38](https://news.ycombinator.com/item?id=31938761) - [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
 * [2022-06-30, 20:43:40](https://news.ycombinator.com/item?id=31938350) - [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
 * [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
 * [2022-06-30, 20:36:29](https://news.ycombinator.com/item?id=31938246) - [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
@@ -20,6 +21,7 @@
 * [2022-06-30, 17:58:03](https://news.ycombinator.com/item?id=31936110) - [Show HN: Movably – Protect your health, move more while you work](https://www.movably.com)
 * [2022-06-30, 17:38:45](https://news.ycombinator.com/item?id=31935844) - [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
 * [2022-06-30, 17:22:52](https://news.ycombinator.com/item?id=31935630) - [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
+* [2022-06-30, 17:22:05](https://news.ycombinator.com/item?id=31935626) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
 * [2022-06-30, 17:08:13](https://news.ycombinator.com/item?id=31935459) - [We’re (mostly) living better than our parents](https://fullstackeconomics.com/24-charts-that-show-were-mostly-living-better-than-our-parents/)
 * [2022-06-30, 17:04:55](https://news.ycombinator.com/item?id=31935425) - [Farewell to HTML5Rocks](https://web.dev/farewell-html5rocks/)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)

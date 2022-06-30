@@ -2,6 +2,7 @@
 
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
 * [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
+* [2022-06-30, 21:19:38](https://news.ycombinator.com/item?id=31938761) - [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
 * [2022-06-30, 20:43:40](https://news.ycombinator.com/item?id=31938350) - [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
 * [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
 * [2022-06-30, 20:36:29](https://news.ycombinator.com/item?id=31938246) - [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
@@ -10,9 +11,9 @@
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
 * [2022-06-30, 18:13:39](https://news.ycombinator.com/item?id=31936300) - [A controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
 * [2022-06-30, 17:22:52](https://news.ycombinator.com/item?id=31935630) - [What do Starlink’s latest Ookla results mean for its RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
+* [2022-06-30, 17:22:05](https://news.ycombinator.com/item?id=31935626) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) is hiring back end engineers to build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:32:35](https://news.ycombinator.com/item?id=31934963) - [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
-* [2022-06-30, 15:58:06](https://news.ycombinator.com/item?id=31934400) - [Build your own GitHub Copilot with Salesforce CodeGen AI [video]](https://www.youtube.com/watch?v=8VyGlSKsYeo)
 * [2022-06-30, 15:46:45](https://news.ycombinator.com/item?id=31934181) - [Modern cloud for multiplayer games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [2022-06-30, 14:00:09](https://news.ycombinator.com/item?id=31932434) - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
 * [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts (2018)](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
@@ -29,7 +30,6 @@
 * [2022-06-29, 21:10:56](https://news.ycombinator.com/item?id=31925760) - [William of Rubruck](https://en.wikipedia.org/wiki/William_of_Rubruck)
 * [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
 * [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
-* [2022-06-28, 22:33:27](https://news.ycombinator.com/item?id=31913956) - [Precedents of the Unprecedented: Black Squares Before Malevich](https://publicdomainreview.org/essay/black-squares-before-malevich/)
 
 ## [Archives](archives/index.md)
 
