@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
+* [2022-06-30, 20:36:29](https://news.ycombinator.com/item?id=31938246) - [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
 * [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:42:21](https://news.ycombinator.com/item?id=31936725) - [Vim 9.0 Was Released](https://groups.google.com/g/vim_announce/c/f_-N3hYxK20)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
@@ -15,13 +17,12 @@
 * [2022-06-30, 13:52:54](https://news.ycombinator.com/item?id=31932349) - [Coinbase is reportedly selling geolocation data to ICE](https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/)
 * [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give up GitHub: The time has come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
-* [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
-* [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
 * [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is coming](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
+* [2022-06-30, 05:38:21](https://news.ycombinator.com/item?id=31929005) - [Signatures of early fire at Evron Quarry (1.0 to 0.8 Mya)](https://www.pnas.org/doi/full/10.1073/pnas.2123439119)
 * [2022-06-30, 04:55:33](https://news.ycombinator.com/item?id=31928826) - [Ask HN: Forensic analysis for 50 yr old tape](https://news.ycombinator.com/item?id=31928826)
 * [2022-06-30, 04:33:47](https://news.ycombinator.com/item?id=31928739) - [Build Your Own Magneto Charger](https://www.gasenginemagazine.com/equipment/magneto-charger-zmrz20amzhur/)
 * [2022-06-30, 04:18:01](https://news.ycombinator.com/item?id=31928676) - [Invest in Lines, not Dots (2010)](https://bothsidesofthetable.com/invest-in-lines-not-dots-611f36491d73?gi=45a297cbab59)
@@ -29,7 +30,6 @@
 * [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
 * [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
 * [2022-06-28, 22:33:27](https://news.ycombinator.com/item?id=31913956) - [Precedents of the Unprecedented: Black Squares Before Malevich](https://publicdomainreview.org/essay/black-squares-before-malevich/)
-* [2022-06-28, 07:58:01](https://news.ycombinator.com/item?id=31905279) - [Rare video games collection heist](https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen)
 
 ## [Archives](archives/index.md)
 
