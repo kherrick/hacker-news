@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
 * [2022-06-30, 07:00:37](https://news.ycombinator.com/item?id=31929461) - [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
+* [2022-06-30, 06:59:39](https://news.ycombinator.com/item?id=31929451) - [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 * [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)

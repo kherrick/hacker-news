@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-06-30, 07:00:37](https://news.ycombinator.com/item?id=31929461) - [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
+* [2022-06-30, 06:59:39](https://news.ycombinator.com/item?id=31929451) - [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 * [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 * [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
 * [2022-06-30, 01:54:51](https://news.ycombinator.com/item?id=31927930) - [We are unable to refund mistaken purchases, and/or if you don't like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
@@ -22,7 +23,6 @@
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 15:48:10](https://news.ycombinator.com/item?id=31921830) - [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
 * [2022-06-29, 15:18:13](https://news.ycombinator.com/item?id=31921403) - [Pre-Modern Battlefields (2015)](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
-* [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
 * [2022-06-29, 02:40:00](https://news.ycombinator.com/item?id=31915848) - [Ancient healthcare fit for a king (2021)](https://blog.britishmuseum.org/ancient-healthcare-fit-for-a-king/)
 * [2022-06-29, 01:09:25](https://news.ycombinator.com/item?id=31915257) - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
