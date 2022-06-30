@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
 * [2022-06-30, 23:19:55](https://news.ycombinator.com/item?id=31939983) - [Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
+* [2022-06-30, 23:08:51](https://news.ycombinator.com/item?id=31939871) - [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 * [2022-06-30, 22:27:37](https://news.ycombinator.com/item?id=31939498) - [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
 * [2022-06-30, 22:20:27](https://news.ycombinator.com/item?id=31939424) - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
