@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
+* [2022-06-30, 16:42:20](https://news.ycombinator.com/item?id=31935116) - [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
+* [2022-06-30, 16:32:35](https://news.ycombinator.com/item?id=31934963) - [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
 * [2022-06-30, 16:01:46](https://news.ycombinator.com/item?id=31934461) - [US Supreme Court says EPA can’t regulate carbon pollution under Clean Air Act](https://techcrunch.com/2022/06/30/us-supreme-court-says-epa-cant-regulate-carbon-pollution-under-clean-air-act/)
 * [2022-06-30, 15:46:45](https://news.ycombinator.com/item?id=31934181) - [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [2022-06-30, 14:45:11](https://news.ycombinator.com/item?id=31932996) - [App School Live](https://developers.urbit.org/blog/asl-announce)
@@ -22,6 +24,7 @@
 * [2022-06-30, 13:23:10](https://news.ycombinator.com/item?id=31932038) - [Duck Curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 12:50:13](https://news.ycombinator.com/item?id=31931727) - [Volt, Australia's first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
+* [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:48:48](https://news.ycombinator.com/item?id=31930789) - [Belief in AI sentience is becoming a problem](https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 10:10:30](https://news.ycombinator.com/item?id=31930547) - [We’ve Reached Peak Wellness. Most of It Is Nonsense. (2019)](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
