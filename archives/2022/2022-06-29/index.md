@@ -64,6 +64,7 @@
 * [2022-06-29, 05:32:32](https://news.ycombinator.com/item?id=31916812) - [Geometric exercises in paper folding (1917)](https://archive.org/details/tsundararowsgeo00rowrich)
 * [2022-06-29, 04:02:56](https://news.ycombinator.com/item?id=31916362) - [Modifying the Casiotone Instruments (1984) [pdf]](https://www.firstpr.com.au/rwi/casio/casio-mod-01.pdf)
 * [2022-06-29, 02:54:51](https://news.ycombinator.com/item?id=31915937) - [A Chinese woman wrote millions of words of fake Wikipedia history](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising)
+* [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
 * [2022-06-29, 02:40:00](https://news.ycombinator.com/item?id=31915848) - [Ancient healthcare fit for a king (2021)](https://blog.britishmuseum.org/ancient-healthcare-fit-for-a-king/)
 * [2022-06-29, 02:38:07](https://news.ycombinator.com/item?id=31915836) - [Ask HN: Has your total compensation drastically changed with the stock downturn?](https://news.ycombinator.com/item?id=31915836)
 * [2022-06-29, 02:12:52](https://news.ycombinator.com/item?id=31915677) - [New concentrator could help solar panels capture more sunlight without tracking](https://cosmosmagazine.com/science/agile-concentrator-solar-panels/)
