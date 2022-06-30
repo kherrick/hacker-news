@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
 * [2022-06-30, 18:13:39](https://news.ycombinator.com/item?id=31936300) - [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
+* [2022-06-30, 17:58:03](https://news.ycombinator.com/item?id=31936110) - [Show HN: Movably – Protect your health, move more while you work](https://www.movably.com)
 * [2022-06-30, 17:38:45](https://news.ycombinator.com/item?id=31935844) - [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
-* [2022-06-30, 17:22:52](https://news.ycombinator.com/item?id=31935630) - [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
-* [2022-06-30, 17:04:55](https://news.ycombinator.com/item?id=31935425) - [Farewell to HTML5Rocks](https://web.dev/farewell-html5rocks/)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:42:20](https://news.ycombinator.com/item?id=31935116) - [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
 * [2022-06-30, 16:32:35](https://news.ycombinator.com/item?id=31934963) - [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
