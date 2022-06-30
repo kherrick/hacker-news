@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 18:13:39](https://news.ycombinator.com/item?id=31936300) - [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
 * [2022-06-30, 17:38:45](https://news.ycombinator.com/item?id=31935844) - [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
 * [2022-06-30, 17:22:52](https://news.ycombinator.com/item?id=31935630) - [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
+* [2022-06-30, 17:04:55](https://news.ycombinator.com/item?id=31935425) - [Farewell to HTML5Rocks](https://web.dev/farewell-html5rocks/)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:42:20](https://news.ycombinator.com/item?id=31935116) - [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
 * [2022-06-30, 16:32:35](https://news.ycombinator.com/item?id=31934963) - [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
@@ -15,7 +17,6 @@
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
-* [2022-06-30, 09:53:19](https://news.ycombinator.com/item?id=31930460) - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
 * [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
@@ -23,13 +24,12 @@
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 04:33:47](https://news.ycombinator.com/item?id=31928739) - [Build Your Own Magneto Charger](https://www.gasenginemagazine.com/equipment/magneto-charger-zmrz20amzhur/)
 * [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
+* [2022-06-29, 21:10:56](https://news.ycombinator.com/item?id=31925760) - [William of Rubruck](https://en.wikipedia.org/wiki/William_of_Rubruck)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
 * [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
 * [2022-06-28, 22:33:27](https://news.ycombinator.com/item?id=31913956) - [Precedents of the Unprecedented: Black Squares Before Malevich](https://publicdomainreview.org/essay/black-squares-before-malevich/)
-* [2022-06-28, 14:24:17](https://news.ycombinator.com/item?id=31908072) - [Formula One’s sharpest car designer is also its master of loopholes](https://www.wsj.com/articles/red-bull-f1-adrian-newey-rb17-supercar-11656397080)
 * [2022-06-28, 07:58:01](https://news.ycombinator.com/item?id=31905279) - [Rare video games collection heist](https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen)
-* [2022-06-26, 11:30:08](https://news.ycombinator.com/item?id=31882992) - [Tooth-Pick (1891) [pdf]](https://patentimages.storage.googleapis.com/14/82/83/3cfbc789d96223/US448647.pdf)
 
 ## [Archives](archives/index.md)
 
