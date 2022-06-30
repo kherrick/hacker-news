@@ -41,6 +41,7 @@
 * [2022-06-28, 14:58:16](https://news.ycombinator.com/item?id=31908561) - [Brain-Machine Interfaces: Basic Science to Neuroprostheses and Neurorehab (2017)](https://pubmed.ncbi.nlm.nih.gov/28275048/)
 * [2022-06-28, 14:33:14](https://news.ycombinator.com/item?id=31908186) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2022-06-28, 14:32:02](https://news.ycombinator.com/item?id=31908170) - [Fresh is a new full stack web framework for Deno](https://deno.com/blog/fresh-is-stable)
+* [2022-06-28, 14:24:17](https://news.ycombinator.com/item?id=31908072) - [Formula One’s sharpest car designer is also its master of loopholes](https://www.wsj.com/articles/red-bull-f1-adrian-newey-rb17-supercar-11656397080)
 * [2022-06-28, 14:24:07](https://news.ycombinator.com/item?id=31908068) - [Taiyo No Tamago](https://www.atlasobscura.com/foods/egg-of-the-sun-mango)
 * [2022-06-28, 14:00:47](https://news.ycombinator.com/item?id=31907771) - [Show HN: Virtual Maker – Make 3D/VR scenes in the browser](https://www.virtualmaker.net/)
 * [2022-06-28, 13:57:33](https://news.ycombinator.com/item?id=31907728) - [EY to pay $100 mln to settle U.S. charges of staff cheating on accountant exams](https://www.reuters.com/business/finance/ey-pay-100-mln-settle-us-charges-staff-cheating-accountant-exams-2022-06-28/)

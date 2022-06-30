@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 * [2022-06-30, 07:00:37](https://news.ycombinator.com/item?id=31929461) - [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
 * [2022-06-30, 06:59:39](https://news.ycombinator.com/item?id=31929451) - [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 * [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
@@ -22,14 +23,13 @@
 * [2022-06-29, 16:29:06](https://news.ycombinator.com/item?id=31922396) - [History of lossless data compression algorithms (2014)](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 15:48:10](https://news.ycombinator.com/item?id=31921830) - [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
-* [2022-06-29, 15:18:13](https://news.ycombinator.com/item?id=31921403) - [Pre-Modern Battlefields (2015)](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
 * [2022-06-29, 02:40:00](https://news.ycombinator.com/item?id=31915848) - [Ancient healthcare fit for a king (2021)](https://blog.britishmuseum.org/ancient-healthcare-fit-for-a-king/)
 * [2022-06-29, 01:09:25](https://news.ycombinator.com/item?id=31915257) - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
+* [2022-06-28, 14:24:17](https://news.ycombinator.com/item?id=31908072) - [Formula One’s sharpest car designer is also its master of loopholes](https://www.wsj.com/articles/red-bull-f1-adrian-newey-rb17-supercar-11656397080)
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
 * [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)
 * [2022-06-27, 18:04:32](https://news.ycombinator.com/item?id=31898301) - [Imperial Science and the Company’s Museum](https://daily.jstor.org/imperial-science-and-the-companys-museum/)
-* [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
 ## [Archives](archives/index.md)
 
