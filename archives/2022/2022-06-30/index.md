@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:36:14](https://news.ycombinator.com/item?id=31936630) - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
 * [2022-06-30, 18:13:39](https://news.ycombinator.com/item?id=31936300) - [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)

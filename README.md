@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:36:14](https://news.ycombinator.com/item?id=31936630) - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
 * [2022-06-30, 18:13:39](https://news.ycombinator.com/item?id=31936300) - [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
@@ -24,7 +25,6 @@
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 04:33:47](https://news.ycombinator.com/item?id=31928739) - [Build Your Own Magneto Charger](https://www.gasenginemagazine.com/equipment/magneto-charger-zmrz20amzhur/)
 * [2022-06-30, 04:18:01](https://news.ycombinator.com/item?id=31928676) - [Invest in Lines, not Dots (2010)](https://bothsidesofthetable.com/invest-in-lines-not-dots-611f36491d73?gi=45a297cbab59)
-* [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
 * [2022-06-29, 21:10:56](https://news.ycombinator.com/item?id=31925760) - [William of Rubruck](https://en.wikipedia.org/wiki/William_of_Rubruck)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
