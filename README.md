@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 17:38:45](https://news.ycombinator.com/item?id=31935844) - [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
+* [2022-06-30, 17:22:52](https://news.ycombinator.com/item?id=31935630) - [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:42:20](https://news.ycombinator.com/item?id=31935116) - [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
 * [2022-06-30, 16:32:35](https://news.ycombinator.com/item?id=31934963) - [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
@@ -10,7 +12,6 @@
 * [2022-06-30, 13:52:54](https://news.ycombinator.com/item?id=31932349) - [Coinbase is reportedly selling geolocation data to ICE](https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/)
 * [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give Up GitHub: The Time Has Come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 * [2022-06-30, 13:39:19](https://news.ycombinator.com/item?id=31932202) - [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
-* [2022-06-30, 13:27:35](https://news.ycombinator.com/item?id=31932085) - [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
@@ -19,7 +20,6 @@
 * [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
 * [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
-* [2022-06-30, 06:59:39](https://news.ycombinator.com/item?id=31929451) - [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 04:33:47](https://news.ycombinator.com/item?id=31928739) - [Build Your Own Magneto Charger](https://www.gasenginemagazine.com/equipment/magneto-charger-zmrz20amzhur/)
 * [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
