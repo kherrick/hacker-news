@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-30, 01:54:51](https://news.ycombinator.com/item?id=31927930) - [Nintendo doesn’t allow you to return games](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
+* [2022-06-30, 01:54:51](https://news.ycombinator.com/item?id=31927930) - [We are unable to refund mistaken purchases, and/or if you don't like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
 * [2022-06-30, 01:51:24](https://news.ycombinator.com/item?id=31927902) - [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 * [2022-06-30, 01:14:27](https://news.ycombinator.com/item?id=31927669) - [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
 * [2022-06-30, 01:12:28](https://news.ycombinator.com/item?id=31927658) - [Controversy continues over whether hot water freezes faster than cold](https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/)
@@ -26,9 +26,9 @@
 * [2022-06-29, 11:46:48](https://news.ycombinator.com/item?id=31918835) - [Archaeological analysis suggests warfare helped societies become more complex](https://www.science.org/content/article/does-warfare-make-societies-more-complex-controversial-study-says-yes)
 * [2022-06-29, 02:40:00](https://news.ycombinator.com/item?id=31915848) - [Ancient healthcare fit for a king (2021)](https://blog.britishmuseum.org/ancient-healthcare-fit-for-a-king/)
 * [2022-06-29, 01:09:25](https://news.ycombinator.com/item?id=31915257) - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
+* [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
 * [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
-* [2022-06-27, 10:51:46](https://news.ycombinator.com/item?id=31892775) - [Development Environments](https://phaazon.net/blog/development-environments)
 * [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
 ## [Archives](archives/index.md)
