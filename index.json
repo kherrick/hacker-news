@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-06-30, 08:31:21",
+      "https://news.ycombinator.com/item?id=31930011"
+    ],
+    [
+      "V 0.3",
+      "https://github.com/vlang/v/discussions/14895"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 08:31:00",
+      "https://news.ycombinator.com/item?id=31930008"
+    ],
+    [
+      "Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data",
+      "https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 08:17:41",
+      "https://news.ycombinator.com/item?id=31929941"
+    ],
+    [
+      "Atlassian is 20 years old and unprofitable",
+      "https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/"
+    ]
+  ],
+  [
+    [
       "2022-06-30, 07:32:04",
       "https://news.ycombinator.com/item?id=31929662"
     ],
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2022-06-29, 21:07:06",
+      "https://news.ycombinator.com/item?id=31925716"
+    ],
+    [
+      "Mastering Nim – now available on Amazon",
+      "https://nim-lang.org/blog/2022/06/29/mastering-nim.html"
+    ]
+  ],
+  [
+    [
       "2022-06-29, 20:32:34",
       "https://news.ycombinator.com/item?id=31925385"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2022-06-29, 17:00:14",
-      "https://news.ycombinator.com/item?id=31922828"
-    ],
-    [
-      "Battersea Power Station in London unveils the newly restored Control Room A",
-      "https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 16:55:15",
       "https://news.ycombinator.com/item?id=31922762"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-06-29, 16:32:41",
-      "https://news.ycombinator.com/item?id=31922445"
-    ],
-    [
-      "NES Game Genie Technical Notes (2001)",
-      "http://tuxnes.sourceforge.net/gamegenie.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 16:29:06",
-      "https://news.ycombinator.com/item?id=31922396"
-    ],
-    [
-      "History of lossless data compression algorithms (2014)",
-      "https://ethw.org/History_of_Lossless_Data_Compression_Algorithms"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 15:58:37",
       "https://news.ycombinator.com/item?id=31921996"
     ],
     [
       "Linux Kernel Module written in Scratch (a visual programming language for kids)",
       "https://lunduke.substack.com/p/a-linux-kernel-module-written-in"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 15:48:10",
-      "https://news.ycombinator.com/item?id=31921830"
-    ],
-    [
-      "Show HN: Brevity 500 – Short games to help you become a powerful writer",
-      "https://brevity500.com"
     ]
   ],
   [
