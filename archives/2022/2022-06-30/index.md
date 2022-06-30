@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 09:53:19](https://news.ycombinator.com/item?id=31930460) - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
+* [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
 * [2022-06-30, 08:31:21](https://news.ycombinator.com/item?id=31930011) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:21:49](https://news.ycombinator.com/item?id=31929957) - [Amazon bows to UAE pressure to restrict LGBT search results](https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results)

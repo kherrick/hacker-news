@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 09:53:19](https://news.ycombinator.com/item?id=31930460) - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
+* [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
 * [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:21:49](https://news.ycombinator.com/item?id=31929957) - [Amazon bows to UAE pressure to restrict LGBT search results](https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
@@ -18,7 +20,6 @@
 * [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US individual income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 * [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [Sun's magnetic arches may be just an optical illusion, research suggests](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 * [2022-06-29, 19:45:00](https://news.ycombinator.com/item?id=31924849) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
-* [2022-06-29, 19:20:23](https://news.ycombinator.com/item?id=31924554) - [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
 * [2022-06-29, 16:49:28](https://news.ycombinator.com/item?id=31922682) - [The Nettle Magic Project: Scanner for decks of cards with bar codes on edges](https://github.com/nettlep/magic)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 04:02:56](https://news.ycombinator.com/item?id=31916362) - [Modifying the Casiotone Instruments (1984) [pdf]](https://www.firstpr.com.au/rwi/casio/casio-mod-01.pdf)
@@ -26,7 +27,6 @@
 * [2022-06-29, 01:09:25](https://news.ycombinator.com/item?id=31915257) - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
 * [2022-06-28, 14:24:17](https://news.ycombinator.com/item?id=31908072) - [Formula One’s sharpest car designer is also its master of loopholes](https://www.wsj.com/articles/red-bull-f1-adrian-newey-rb17-supercar-11656397080)
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
-* [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)
 * [2022-06-27, 18:04:32](https://news.ycombinator.com/item?id=31898301) - [Imperial Science and the Company’s Museum](https://daily.jstor.org/imperial-science-and-the-companys-museum/)
 * [2022-06-27, 06:46:46](https://news.ycombinator.com/item?id=31891349) - [MeshCentral](https://meshcentral.com/info/)
