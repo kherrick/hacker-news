@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 22:27:37](https://news.ycombinator.com/item?id=31939498) - [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
 * [2022-06-30, 22:20:27](https://news.ycombinator.com/item?id=31939424) - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
 * [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
@@ -13,7 +14,6 @@
 * [2022-06-30, 18:13:39](https://news.ycombinator.com/item?id=31936300) - [A controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
 * [2022-06-30, 17:22:05](https://news.ycombinator.com/item?id=31935626) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) is hiring back end engineers to build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-* [2022-06-30, 15:58:06](https://news.ycombinator.com/item?id=31934400) - [Build your own GitHub Copilot with Salesforce CodeGen AI [video]](https://www.youtube.com/watch?v=8VyGlSKsYeo)
 * [2022-06-30, 15:46:45](https://news.ycombinator.com/item?id=31934181) - [Modern cloud for multiplayer games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [2022-06-30, 14:00:09](https://news.ycombinator.com/item?id=31932434) - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
 * [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts (2018)](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
@@ -22,12 +22,12 @@
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
-* [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 * [2022-06-30, 05:38:21](https://news.ycombinator.com/item?id=31929005) - [Signatures of early fire at Evron Quarry (1.0 to 0.8 Mya)](https://www.pnas.org/doi/full/10.1073/pnas.2123439119)
 * [2022-06-30, 04:55:33](https://news.ycombinator.com/item?id=31928826) - [Ask HN: Forensic analysis for 50 year-old tape?](https://news.ycombinator.com/item?id=31928826)
 * [2022-06-30, 04:18:01](https://news.ycombinator.com/item?id=31928676) - [Invest in Lines, not Dots (2010)](https://bothsidesofthetable.com/invest-in-lines-not-dots-611f36491d73?gi=45a297cbab59)
 * [2022-06-29, 23:32:37](https://news.ycombinator.com/item?id=31927043) - [CEO test-drives Mojo Vision's smart augmented reality contact lens](https://newatlas.com/wearables/mojo-vision-ar-contact-lens/)
 * [2022-06-29, 21:10:56](https://news.ycombinator.com/item?id=31925760) - [William of Rubruck](https://en.wikipedia.org/wiki/William_of_Rubruck)
+* [2022-06-29, 20:37:03](https://news.ycombinator.com/item?id=31925423) - [Can a Corporation “Own” a Color?](https://thehustle.co/can-a-corporation-trademark-a-color/)
 * [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
 * [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
 

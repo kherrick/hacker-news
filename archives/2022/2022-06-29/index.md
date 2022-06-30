@@ -13,6 +13,7 @@
 * [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)
 * [2022-06-29, 21:06:48](https://news.ycombinator.com/item?id=31925712) - [Show HN: Sudopad – Private link sharing board for friends](https://sudopad.com)
 * [2022-06-29, 21:01:35](https://news.ycombinator.com/item?id=31925653) - [Reverie Labs (YC W18) is hiring software engineers to develop cancer therapies](https://www.reverielabs.com/careers)
+* [2022-06-29, 20:37:03](https://news.ycombinator.com/item?id=31925423) - [Can a Corporation “Own” a Color?](https://thehustle.co/can-a-corporation-trademark-a-color/)
 * [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [The Sun's Magnetic Arches May Just Be an Optical Illusion](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 * [2022-06-29, 19:45:00](https://news.ycombinator.com/item?id=31924849) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2022-06-29, 19:25:35](https://news.ycombinator.com/item?id=31924622) - [Substack is laying off 14% of its staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)
