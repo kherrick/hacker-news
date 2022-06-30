@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 * [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
 * [2022-06-30, 01:54:51](https://news.ycombinator.com/item?id=31927930) - [We are unable to refund mistaken purchases, and/or if you don't like the game](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
 * [2022-06-30, 01:51:24](https://news.ycombinator.com/item?id=31927902) - [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
@@ -23,7 +24,6 @@
 * [2022-06-29, 15:48:10](https://news.ycombinator.com/item?id=31921830) - [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
 * [2022-06-29, 15:18:13](https://news.ycombinator.com/item?id=31921403) - [Pre-Modern Battlefields (2015)](https://scholars-stage.org/pre-modern-battlefields-were-absolutely-terrifying/)
 * [2022-06-29, 13:27:09](https://news.ycombinator.com/item?id=31919804) - [BMW F Series Gear Selector, Part Two: Breakthrough](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
-* [2022-06-29, 11:46:48](https://news.ycombinator.com/item?id=31918835) - [Archaeological analysis suggests warfare helped societies become more complex](https://www.science.org/content/article/does-warfare-make-societies-more-complex-controversial-study-says-yes)
 * [2022-06-29, 02:40:00](https://news.ycombinator.com/item?id=31915848) - [Ancient healthcare fit for a king (2021)](https://blog.britishmuseum.org/ancient-healthcare-fit-for-a-king/)
 * [2022-06-29, 01:09:25](https://news.ycombinator.com/item?id=31915257) - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
