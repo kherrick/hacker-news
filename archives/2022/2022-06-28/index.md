@@ -74,6 +74,7 @@
 * [2022-06-28, 09:05:38](https://news.ycombinator.com/item?id=31905666) - [Fossils in the 'Cradle of Humankind' may be more than a million years older](https://phys.org/news/2022-06-fossils-cradle-humankind-million-years.html)
 * [2022-06-28, 08:44:52](https://news.ycombinator.com/item?id=31905554) - [We made a fast audio editor that is perfect for podcasting](https://teapodo.com/)
 * [2022-06-28, 08:12:40](https://news.ycombinator.com/item?id=31905376) - [Mechanical Engineering in Ancient Egypt, Part XII: Stone Cutting (2016) [pdf]](https://scholar.cu.edu.eg/?q=galal/files/me_part_xii_ijarmate.pdf)
+* [2022-06-28, 07:58:01](https://news.ycombinator.com/item?id=31905279) - [Rare video games collection heist](https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen)
 * [2022-06-28, 07:50:45](https://news.ycombinator.com/item?id=31905256) - [Ask HN: Devs who passed whiteboarding at FAANG: how do you feel about it?](https://news.ycombinator.com/item?id=31905256)
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 07:30:11](https://news.ycombinator.com/item?id=31905133) - [Abortion Search Noise Generator](https://easrng.github.io/abortion-search-noise/)
