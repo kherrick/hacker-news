@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 14:35:43](https://news.ycombinator.com/item?id=31932859) - [Supreme Court curbs EPA’s power to regulate greenhouse gas emissions [pdf]](https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf)
+* [2022-06-30, 14:31:45](https://news.ycombinator.com/item?id=31932808) - [Supreme Court limits EPA’s right to regulate greenhouse gases nationally](https://www.bbc.com/news/science-environment-62000742)
 * [2022-06-30, 14:00:09](https://news.ycombinator.com/item?id=31932434) - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
 * [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 * [2022-06-30, 13:52:54](https://news.ycombinator.com/item?id=31932349) - [Coinbase is reportedly selling geolocation data to ICE](https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/)
