@@ -19,7 +19,6 @@
 * [2022-06-29, 20:32:34](https://news.ycombinator.com/item?id=31925385) - [Sun's magnetic arches may be just an optical illusion, research suggests](https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/)
 * [2022-06-29, 19:45:00](https://news.ycombinator.com/item?id=31924849) - [Linear Address Spaces: Unsafe at any speed](https://queue.acm.org/detail.cfm?id=3534854)
 * [2022-06-29, 19:20:23](https://news.ycombinator.com/item?id=31924554) - [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
-* [2022-06-29, 18:36:57](https://news.ycombinator.com/item?id=31924052) - [Compound pejoratives on Reddit](http://colinmorris.github.io/blog/compound-curse-words)
 * [2022-06-29, 16:49:28](https://news.ycombinator.com/item?id=31922682) - [The Nettle Magic Project: Scanner for decks of cards with bar codes on edges](https://github.com/nettlep/magic)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 04:02:56](https://news.ycombinator.com/item?id=31916362) - [Modifying the Casiotone Instruments (1984) [pdf]](https://www.firstpr.com.au/rwi/casio/casio-mod-01.pdf)
@@ -30,6 +29,7 @@
 * [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
 * [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)
 * [2022-06-27, 18:04:32](https://news.ycombinator.com/item?id=31898301) - [Imperial Science and the Company’s Museum](https://daily.jstor.org/imperial-science-and-the-companys-museum/)
+* [2022-06-27, 06:46:46](https://news.ycombinator.com/item?id=31891349) - [MeshCentral](https://meshcentral.com/info/)
 
 ## [Archives](archives/index.md)
 
