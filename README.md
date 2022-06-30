@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
 * [2022-06-30, 20:43:40](https://news.ycombinator.com/item?id=31938350) - [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
 * [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
 * [2022-06-30, 20:36:29](https://news.ycombinator.com/item?id=31938246) - [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
@@ -19,7 +20,6 @@
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
-* [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
 * [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 * [2022-06-30, 05:38:21](https://news.ycombinator.com/item?id=31929005) - [Signatures of early fire at Evron Quarry (1.0 to 0.8 Mya)](https://www.pnas.org/doi/full/10.1073/pnas.2123439119)
