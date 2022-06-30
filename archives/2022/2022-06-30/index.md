@@ -13,6 +13,7 @@
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 * [2022-06-30, 04:02:05](https://news.ycombinator.com/item?id=31928608) - [Launching Version 13.1 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2022/06/launching-version-13-1-of-wolfram-language-mathematica/)
+* [2022-06-30, 02:59:07](https://news.ycombinator.com/item?id=31928307) - [The great Silicon Valley shake-out](https://www.economist.com/business/2022/06/28/the-great-silicon-valley-shake-out)
 * [2022-06-30, 01:54:51](https://news.ycombinator.com/item?id=31927930) - [Nintendo doesn’t allow you to return games](https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html)
 * [2022-06-30, 01:51:24](https://news.ycombinator.com/item?id=31927902) - [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 * [2022-06-30, 01:14:27](https://news.ycombinator.com/item?id=31927669) - [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
