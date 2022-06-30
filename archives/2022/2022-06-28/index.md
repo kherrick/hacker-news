@@ -77,6 +77,7 @@
 * [2022-06-28, 07:45:29](https://news.ycombinator.com/item?id=31905218) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell)
 * [2022-06-28, 07:30:11](https://news.ycombinator.com/item?id=31905133) - [Abortion Search Noise Generator](https://easrng.github.io/abortion-search-noise/)
 * [2022-06-28, 07:00:35](https://news.ycombinator.com/item?id=31904952) - [Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline](https://www.algolia.com/careers/engineering-manager-event-ingestion-london-england)
+* [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)
 * [2022-06-28, 05:53:24](https://news.ycombinator.com/item?id=31904549) - [Big Bird: killing SQL injection with graph homomorphisms](https://dustri.org/b/big-bird-killing-sqli-with-graph-homomorphisms.html)
 * [2022-06-28, 05:47:28](https://news.ycombinator.com/item?id=31904524) - [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 * [2022-06-28, 05:39:21](https://news.ycombinator.com/item?id=31904477) - [The Pervasive Problem–and Far-Reaching Impact–Of Tree Poaching](https://lithub.com/the-pervasive-problem-and-far-reaching-impact-of-tree-poaching/)

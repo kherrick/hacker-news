@@ -5,7 +5,6 @@
 * [2022-06-30, 01:51:24](https://news.ycombinator.com/item?id=31927902) - [Upptime/upptime: Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 * [2022-06-30, 01:14:27](https://news.ycombinator.com/item?id=31927669) - [SEC rejects Grayscale Bitcoin ETF application [pdf]](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
 * [2022-06-30, 01:12:28](https://news.ycombinator.com/item?id=31927658) - [Controversy continues over whether hot water freezes faster than cold](https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/)
-* [2022-06-30, 00:43:16](https://news.ycombinator.com/item?id=31927512) - [Interview with the author of “Buy Now”, a book about Amazon](https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/)
 * [2022-06-29, 23:03:50](https://news.ycombinator.com/item?id=31926813) - [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 * [2022-06-29, 22:43:10](https://news.ycombinator.com/item?id=31926594) - [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
 * [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US individual income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
@@ -29,6 +28,7 @@
 * [2022-06-29, 01:09:25](https://news.ycombinator.com/item?id=31915257) - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
 * [2022-06-28, 09:50:46](https://news.ycombinator.com/item?id=31905897) - [FXT: A Library of Algorithms and a Book](https://www.jjj.de/fxt/)
+* [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)
 * [2022-06-27, 08:00:24](https://news.ycombinator.com/item?id=31891780) - [How Websites Die](https://notebook.wesleyac.com/how-websites-die/)
 
 ## [Archives](archives/index.md)
