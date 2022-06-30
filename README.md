@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 20:31:14](https://news.ycombinator.com/item?id=31938182) - [Blacklist is not a racist word](https://medium.com/@blacklist.is.not.a.racist.word/blacklist-is-not-a-racist-word-2624a45bd811)
 * [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:42:21](https://news.ycombinator.com/item?id=31936725) - [Vim 9.0 Was Released](https://groups.google.com/g/vim_announce/c/f_-N3hYxK20)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
@@ -16,7 +17,6 @@
 * [2022-06-30, 13:52:54](https://news.ycombinator.com/item?id=31932349) - [Coinbase is reportedly selling geolocation data to ICE](https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/)
 * [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give up GitHub: The time has come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
-* [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
