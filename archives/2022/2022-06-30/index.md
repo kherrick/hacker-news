@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 19:46:23](https://news.ycombinator.com/item?id=31937612) - [Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
 * [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:36:14](https://news.ycombinator.com/item?id=31936630) - [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
@@ -49,6 +50,7 @@
 * [2022-06-30, 07:00:37](https://news.ycombinator.com/item?id=31929461) - [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
 * [2022-06-30, 06:59:39](https://news.ycombinator.com/item?id=31929451) - [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
+* [2022-06-30, 04:55:33](https://news.ycombinator.com/item?id=31928826) - [Ask HN: Forensic analysis for 50 yr old tape](https://news.ycombinator.com/item?id=31928826)
 * [2022-06-30, 04:33:47](https://news.ycombinator.com/item?id=31928739) - [Build Your Own Magneto Charger](https://www.gasenginemagazine.com/equipment/magneto-charger-zmrz20amzhur/)
 * [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
 * [2022-06-30, 04:18:01](https://news.ycombinator.com/item?id=31928676) - [Invest in Lines, not Dots (2010)](https://bothsidesofthetable.com/invest-in-lines-not-dots-611f36491d73?gi=45a297cbab59)
