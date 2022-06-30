@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-06-30, 00:43:16",
-      "https://news.ycombinator.com/item?id=31927512"
-    ],
-    [
-      "Interview with the author of “Buy Now”, a book about Amazon",
-      "https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 23:03:50",
       "https://news.ycombinator.com/item?id=31926813"
     ],
@@ -287,6 +277,16 @@
     [
       "FXT: A Library of Algorithms and a Book",
       "https://www.jjj.de/fxt/"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 06:09:33",
+      "https://news.ycombinator.com/item?id=31904624"
+    ],
+    [
+      "Clang IR (CIR): A New IR for Clang",
+      "https://facebookincubator.github.io/clangir/"
     ]
   ],
   [
