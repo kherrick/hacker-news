@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-06-30, 14:00:09",
+      "https://news.ycombinator.com/item?id=31932434"
+    ],
+    [
+      "Show HN: Featureform – An open-source Feature Store for ML",
+      "https://github.com/featureform/featureform"
+    ]
+  ],
+  [
+    [
       "2022-06-30, 13:59:20",
       "https://news.ycombinator.com/item?id=31932423"
     ],
     [
-      "MIT engineers fly first-ever plane with no moving parts",
+      "MIT engineers fly first-ever plane with no moving parts (2018)",
       "https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 13:52:54",
+      "https://news.ycombinator.com/item?id=31932349"
+    ],
+    [
+      "Coinbase is reportedly selling geolocation data to ICE",
+      "https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 13:44:02",
+      "https://news.ycombinator.com/item?id=31932250"
+    ],
+    [
+      "Give Up GitHub: The Time Has Come",
+      "https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31930547"
     ],
     [
-      "We’ve Reached Peak Wellness. Most of It Is Nonsense. (2019)",
+      "We’ve reached peak wellness and most of it is nonsense (2019)",
       "https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/"
     ]
   ],
@@ -97,16 +127,6 @@
     [
       "Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data",
       "https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 08:21:49",
-      "https://news.ycombinator.com/item?id=31929957"
-    ],
-    [
-      "Amazon bows to UAE pressure to restrict LGBT search results",
-      "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results"
     ]
   ],
   [
@@ -147,6 +167,16 @@
     [
       "Raspberry Pi Pico W: your $6 IoT platform",
       "https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 06:08:48",
+      "https://news.ycombinator.com/item?id=31929140"
+    ],
+    [
+      "EU Digital ID wallet is under way",
+      "https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2022-06-29, 23:03:50",
-      "https://news.ycombinator.com/item?id=31926813"
-    ],
-    [
-      "Mimic 3 by Mycroft",
-      "https://mycroft.ai/blog/introducing-mimic-3/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 21:22:27",
-      "https://news.ycombinator.com/item?id=31925871"
-    ],
-    [
-      "Show HN: Calculator for US individual income tax, from 1970-present",
-      "https://news.ycombinator.com/item?id=31925871"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 15:58:37",
       "https://news.ycombinator.com/item?id=31921996"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2022-06-29, 04:02:56",
-      "https://news.ycombinator.com/item?id=31916362"
-    ],
-    [
-      "Modifying the Casiotone Instruments (1984) [pdf]",
-      "https://www.firstpr.com.au/rwi/casio/casio-mod-01.pdf"
-    ]
-  ],
-  [
-    [
       "2022-06-29, 02:52:49",
       "https://news.ycombinator.com/item?id=31915925"
     ],
     [
       "Cell Lang: Why yet another programming language?",
       "https://www.cell-lang.net/faq.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-28, 14:24:17",
+      "https://news.ycombinator.com/item?id=31908072"
+    ],
+    [
+      "Formula One’s sharpest car designer is also its master of loopholes",
+      "https://www.wsj.com/articles/red-bull-f1-adrian-newey-rb17-supercar-11656397080"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Rare video games collection heist",
       "https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen"
-    ]
-  ],
-  [
-    [
-      "2022-06-28, 06:09:33",
-      "https://news.ycombinator.com/item?id=31904624"
-    ],
-    [
-      "Clang IR (CIR): A New IR for Clang",
-      "https://facebookincubator.github.io/clangir/"
     ]
   ],
   [
