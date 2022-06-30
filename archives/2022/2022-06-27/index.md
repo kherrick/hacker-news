@@ -24,6 +24,7 @@
 * [2022-06-27, 18:26:36](https://news.ycombinator.com/item?id=31898605) - [4 in 5 Americans Who Need Insulin Have Taken on Credit Card Debt to Cover Cost](https://neverleave.substack.com/p/4-in-5-americans-who-need-insulin)
 * [2022-06-27, 18:15:35](https://news.ycombinator.com/item?id=31898454) - [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
 * [2022-06-27, 18:13:29](https://news.ycombinator.com/item?id=31898420) - [Extreme Explorations of TypeScript's Type System](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
+* [2022-06-27, 18:04:32](https://news.ycombinator.com/item?id=31898301) - [Imperial Science and the Company’s Museum](https://daily.jstor.org/imperial-science-and-the-companys-museum/)
 * [2022-06-27, 18:02:17](https://news.ycombinator.com/item?id=31898261) - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 * [2022-06-27, 17:59:08](https://news.ycombinator.com/item?id=31898218) - [Open Food Facts – a food products database made by everyone, for everyone](https://world.openfoodfacts.org)
 * [2022-06-27, 17:52:32](https://news.ycombinator.com/item?id=31898132) - [One man’s fight to end California’s ban on ferrets](https://www.latimes.com/california/story/2022-06-24/one-mans-fight-to-end-californias-ban-on-ferrets)
