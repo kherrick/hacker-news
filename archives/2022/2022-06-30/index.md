@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give Up GitHub: The Time Has Come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
+* [2022-06-30, 13:39:19](https://news.ycombinator.com/item?id=31932202) - [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
+* [2022-06-30, 13:27:35](https://news.ycombinator.com/item?id=31932085) - [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)
 * [2022-06-30, 13:23:10](https://news.ycombinator.com/item?id=31932038) - [Duck Curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 12:50:13](https://news.ycombinator.com/item?id=31931727) - [Volt, Australia's first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
