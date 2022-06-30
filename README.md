@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 23:19:55](https://news.ycombinator.com/item?id=31939983) - [Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
 * [2022-06-30, 22:27:37](https://news.ycombinator.com/item?id=31939498) - [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
 * [2022-06-30, 22:20:27](https://news.ycombinator.com/item?id=31939424) - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
@@ -7,7 +8,6 @@
 * [2022-06-30, 21:19:38](https://news.ycombinator.com/item?id=31938761) - [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
 * [2022-06-30, 20:43:40](https://news.ycombinator.com/item?id=31938350) - [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
 * [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
-* [2022-06-30, 20:36:29](https://news.ycombinator.com/item?id=31938246) - [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
 * [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:42:21](https://news.ycombinator.com/item?id=31936725) - [Vim 9.0](https://www.vim.org/vim90.php)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
