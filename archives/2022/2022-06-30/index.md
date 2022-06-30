@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:01:46](https://news.ycombinator.com/item?id=31934461) - [US Supreme Court says EPA can’t regulate carbon pollution under Clean Air Act](https://techcrunch.com/2022/06/30/us-supreme-court-says-epa-cant-regulate-carbon-pollution-under-clean-air-act/)
 * [2022-06-30, 15:46:45](https://news.ycombinator.com/item?id=31934181) - [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [2022-06-30, 14:45:11](https://news.ycombinator.com/item?id=31932996) - [App School Live](https://developers.urbit.org/blog/asl-announce)
@@ -14,6 +15,7 @@
 * [2022-06-30, 14:00:09](https://news.ycombinator.com/item?id=31932434) - [Show HN: Featureform – An open-source Feature Store for ML](https://github.com/featureform/featureform)
 * [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 * [2022-06-30, 13:52:54](https://news.ycombinator.com/item?id=31932349) - [Coinbase is reportedly selling geolocation data to ICE](https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/)
+* [2022-06-30, 13:52:54](https://news.ycombinator.com/item?id=31932349) - [Coinbase is reportedly selling geolocation data to ICE](https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/)
 * [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give Up GitHub: The Time Has Come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 * [2022-06-30, 13:39:19](https://news.ycombinator.com/item?id=31932202) - [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
 * [2022-06-30, 13:27:35](https://news.ycombinator.com/item?id=31932085) - [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)
