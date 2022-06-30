@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-06-30, 13:23:10](https://news.ycombinator.com/item?id=31932038) - [Duck Curve](https://en.wikipedia.org/wiki/Duck_curve)
+* [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 12:50:13](https://news.ycombinator.com/item?id=31931727) - [Volt, Australia's first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 10:10:30](https://news.ycombinator.com/item?id=31930547) - [We’ve Reached Peak Wellness. Most of It Is Nonsense. (2019)](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
@@ -19,7 +21,6 @@
 * [2022-06-29, 23:03:50](https://news.ycombinator.com/item?id=31926813) - [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 * [2022-06-29, 22:43:10](https://news.ycombinator.com/item?id=31926594) - [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
 * [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US individual income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
-* [2022-06-29, 16:49:28](https://news.ycombinator.com/item?id=31922682) - [The Nettle Magic Project: Scanner for decks of cards with bar codes on edges](https://github.com/nettlep/magic)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 04:02:56](https://news.ycombinator.com/item?id=31916362) - [Modifying the Casiotone Instruments (1984) [pdf]](https://www.firstpr.com.au/rwi/casio/casio-mod-01.pdf)
 * [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
@@ -28,7 +29,6 @@
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
 * [2022-06-28, 07:58:01](https://news.ycombinator.com/item?id=31905279) - [Rare video games collection heist](https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen)
 * [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)
-* [2022-06-27, 18:04:32](https://news.ycombinator.com/item?id=31898301) - [Imperial Science and the Company’s Museum](https://daily.jstor.org/imperial-science-and-the-companys-museum/)
 * [2022-06-26, 11:30:08](https://news.ycombinator.com/item?id=31882992) - [Tooth-Pick (1891) [pdf]](https://patentimages.storage.googleapis.com/14/82/83/3cfbc789d96223/US448647.pdf)
 
 ## [Archives](archives/index.md)
