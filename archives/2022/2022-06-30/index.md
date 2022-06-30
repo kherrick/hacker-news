@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 * [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give Up GitHub: The Time Has Come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 * [2022-06-30, 13:39:19](https://news.ycombinator.com/item?id=31932202) - [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
 * [2022-06-30, 13:27:35](https://news.ycombinator.com/item?id=31932085) - [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)

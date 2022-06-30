@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-06-30, 13:44:02](https://news.ycombinator.com/item?id=31932250) - [Give Up GitHub: The Time Has Come](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
+* [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 * [2022-06-30, 13:39:19](https://news.ycombinator.com/item?id=31932202) - [Why I’m Cryptophobic](https://www.bvp.com/atlas/why-i-m-cryptophobic)
 * [2022-06-30, 13:27:35](https://news.ycombinator.com/item?id=31932085) - [Ask HN: What Happened to Ceylon Language?](https://news.ycombinator.com/item?id=31932085)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
@@ -23,9 +23,9 @@
 * [2022-06-29, 23:03:50](https://news.ycombinator.com/item?id=31926813) - [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 * [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US individual income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 * [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
+* [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
 * [2022-06-29, 04:02:56](https://news.ycombinator.com/item?id=31916362) - [Modifying the Casiotone Instruments (1984) [pdf]](https://www.firstpr.com.au/rwi/casio/casio-mod-01.pdf)
 * [2022-06-29, 02:52:49](https://news.ycombinator.com/item?id=31915925) - [Cell Lang: Why yet another programming language?](https://www.cell-lang.net/faq.html)
-* [2022-06-28, 14:24:17](https://news.ycombinator.com/item?id=31908072) - [Formula One’s sharpest car designer is also its master of loopholes](https://www.wsj.com/articles/red-bull-f1-adrian-newey-rb17-supercar-11656397080)
 * [2022-06-28, 11:18:23](https://news.ycombinator.com/item?id=31906323) - [CandyCodes: Simple unique edible identifiers for authenticating pharmaceuticals](https://www.nature.com/articles/s41598-022-11234-4)
 * [2022-06-28, 07:58:01](https://news.ycombinator.com/item?id=31905279) - [Rare video games collection heist](https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen)
 * [2022-06-28, 06:09:33](https://news.ycombinator.com/item?id=31904624) - [Clang IR (CIR): A New IR for Clang](https://facebookincubator.github.io/clangir/)

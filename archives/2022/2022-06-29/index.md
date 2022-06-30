@@ -41,6 +41,7 @@
 * [2022-06-29, 15:00:05](https://news.ycombinator.com/item?id=31921120) - [Mechanic put in prison for selling 14000 truck emission bypass devices](https://www.marketwatch.com/story/polluting-the-air-we-breathe-mechanic-sentenced-for-selling-thousands-of-devices-that-allowed-trucks-to-bypass-emission-controls-11656351518)
 * [2022-06-29, 14:54:31](https://news.ycombinator.com/item?id=31921024) - [GitHub Actions are down again](https://www.githubstatus.com/incidents/qzmhbwp7f6nn)
 * [2022-06-29, 14:49:35](https://news.ycombinator.com/item?id=31920941) - [EU Commission says it cannot find messages with Pfizer CEO](https://euobserver.com/eu-political/155377)
+* [2022-06-29, 14:45:32](https://news.ycombinator.com/item?id=31920870) - [Project Ideas](https://ftxfuturefund.org/projects/)
 * [2022-06-29, 14:37:44](https://news.ycombinator.com/item?id=31920756) - [TikTok updated privacy policy to collect faceprints and voiceprints (2021)](https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/)
 * [2022-06-29, 14:08:05](https://news.ycombinator.com/item?id=31920310) - [TSMC to customers: It's time to stop using older nodes and move to 28nm](https://www.anandtech.com/show/17470/tsmc-to-customers-time-to-stop-using-older-nodes-move-to-28nm)
 * [2022-06-29, 13:45:58](https://news.ycombinator.com/item?id=31920018) - [Technology shock, fewer shotgun marriages, and the rise in unwed births (1996)](https://www.brookings.edu/articles/new-mothers-not-married-technology-shock-the-demise-of-shotgun-marriage-and-the-increase-in-out-of-wedlock-births/)
