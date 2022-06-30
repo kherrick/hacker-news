@@ -27,6 +27,7 @@
 * [2022-06-29, 16:32:41](https://news.ycombinator.com/item?id=31922445) - [NES Game Genie Technical Notes](http://tuxnes.sourceforge.net/gamegenie.html)
 * [2022-06-29, 16:29:06](https://news.ycombinator.com/item?id=31922396) - [History of Lossless Data Compression Algorithms](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
 * [2022-06-29, 16:10:10](https://news.ycombinator.com/item?id=31922138) - [Arm Introduces the Cortex-A715](https://fuse.wikichip.org/news/6853/arm-introduces-the-cortex-a715/)
+* [2022-06-29, 15:58:37](https://news.ycombinator.com/item?id=31921996) - [Linux Kernel Module written in Scratch (a visual programming language for kids)](https://lunduke.substack.com/p/a-linux-kernel-module-written-in)
 * [2022-06-29, 15:56:35](https://news.ycombinator.com/item?id=31921968) - [Bitcoin is the only coin the SEC Chair will call a commodity](https://www.axios.com/2022/06/28/bitcoin-is-the-only-coin-the-sec-chair-will-call-a-commodity)
 * [2022-06-29, 15:48:10](https://news.ycombinator.com/item?id=31921830) - [Show HN: Brevity 500 – Short games to help you become a powerful writer](https://brevity500.com)
 * [2022-06-29, 15:45:07](https://news.ycombinator.com/item?id=31921779) - [Software upgrade for 19-year-old martian water-spotter](https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter)
