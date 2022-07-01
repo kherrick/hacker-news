@@ -2,7 +2,6 @@
 
 * [2022-07-01, 20:12:22](https://news.ycombinator.com/item?id=31952132) - [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
 * [2022-07-01, 19:41:39](https://news.ycombinator.com/item?id=31951683) - [Voyager Digital suspends trading, deposits and withdrawals](https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html)
-* [2022-07-01, 19:17:33](https://news.ycombinator.com/item?id=31951348) - [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
 * [2022-07-01, 18:55:13](https://news.ycombinator.com/item?id=31951050) - [Why the World Economy Hasn’t Collapsed Yet](https://thehonestsorcerer.medium.com/why-the-world-economy-hasnt-collapsed-yet-8205189f5a15)
@@ -26,6 +25,7 @@
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms (2014)](https://bost.ocks.org/mike/algorithms/)
 * [2022-07-01, 06:47:25](https://news.ycombinator.com/item?id=31943199) - [Early Times (Multiplication)](https://www.futilitycloset.com/2022/06/28/early-times/)
+* [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 01:42:39](https://news.ycombinator.com/item?id=31941138) - [From under to on the rocks: Invasive crabs become whiskey](https://apnews.com/article/new-hampshire-climate-and-environment-9a3b69102c84d5e1a809617b3843c48e)
 * [2022-06-30, 21:07:28](https://news.ycombinator.com/item?id=31938609) - [An Excavation in the Sea Depths Recovers Hercules from the Afterlife](https://www.nytimes.com/2022/06/30/science/shipwreck-ancient-roman-hercules.html)
 * [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
