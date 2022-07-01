@@ -8,7 +8,6 @@
 * [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
-* [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to raise fresh cash at slashed $6.5B valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 15:51:01](https://news.ycombinator.com/item?id=31948168) - [Ask HN: Why not have reverse life insurance that rewards longevity?](https://news.ycombinator.com/item?id=31948168)
 * [2022-07-01, 15:35:20](https://news.ycombinator.com/item?id=31947895) - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
@@ -29,6 +28,7 @@
 * [2022-06-30, 10:11:32](https://news.ycombinator.com/item?id=31930551) - [Big cats in urban jungle: LA mountain lions, Mumbai leopards](https://phys.org/news/2022-06-big-cats-urban-jungle-la.html)
 * [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
 * [2022-06-30, 06:46:31](https://news.ycombinator.com/item?id=31929346) - [What? More 8-Bit Microcontrollers?](https://www.eejournal.com/article/what-more-8-bit-microcontrollers/)
+* [2022-06-30, 05:37:14](https://news.ycombinator.com/item?id=31928999) - [An Art Crime for the Ages](https://www.bloomberg.com/features/2022-cambodia-met-museum-art-heist)
 * [2022-06-29, 21:32:58](https://news.ycombinator.com/item?id=31925976) - [What Drop-In API Observability Looks Like, Pre-Launch and Post-Launch](https://www.akitasoftware.com/blog-posts/drop-in-api-observability-pre-launch-and-post-launch)
 
 ## [Archives](archives/index.md)
