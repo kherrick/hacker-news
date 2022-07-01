@@ -58,6 +58,7 @@
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
 * [2022-07-01, 02:03:42](https://news.ycombinator.com/item?id=31941326) - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 * [2022-07-01, 01:56:22](https://news.ycombinator.com/item?id=31941264) - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
+* [2022-07-01, 01:42:39](https://news.ycombinator.com/item?id=31941138) - [From under to on the rocks: Invasive crabs become whiskey](https://apnews.com/article/new-hampshire-climate-and-environment-9a3b69102c84d5e1a809617b3843c48e)
 * [2022-07-01, 00:58:51](https://news.ycombinator.com/item?id=31940782) - [Software development from my Android phone at datacenter speeds](https://www.gitpod.io/blog/software-development-from-my-android-phone-at-datacenter-speeds)
 * [2022-07-01, 00:55:26](https://news.ycombinator.com/item?id=31940765) - [Wayland is not ready as a 1:1 compatible Xorg replacement just yet](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [2022-07-01, 00:23:59](https://news.ycombinator.com/item?id=31940567) - [France bans veggie ′steaks,′ ′sausages′](https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333)
