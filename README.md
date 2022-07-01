@@ -12,7 +12,6 @@
 * [2022-06-30, 23:08:51](https://news.ycombinator.com/item?id=31939871) - [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 * [2022-06-30, 22:20:27](https://news.ycombinator.com/item?id=31939424) - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
-* [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
 * [2022-06-30, 21:19:38](https://news.ycombinator.com/item?id=31938761) - [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
 * [2022-06-30, 20:43:49](https://news.ycombinator.com/item?id=31938353) - [The Perils of Audience Capture](https://gurwinder.substack.com/p/the-perils-of-audience-capture)
 * [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
@@ -30,6 +29,7 @@
 * [2022-06-29, 23:32:37](https://news.ycombinator.com/item?id=31927043) - [CEO test-drives Mojo Vision's smart augmented reality contact lens](https://newatlas.com/wearables/mojo-vision-ar-contact-lens/)
 * [2022-06-29, 21:10:56](https://news.ycombinator.com/item?id=31925760) - [William of Rubruck](https://en.wikipedia.org/wiki/William_of_Rubruck)
 * [2022-06-29, 20:37:03](https://news.ycombinator.com/item?id=31925423) - [Can a Corporation “Own” a Color?](https://thehustle.co/can-a-corporation-trademark-a-color/)
+* [2022-06-29, 17:15:47](https://news.ycombinator.com/item?id=31923010) - [Cycles of History: On Jody Rosen’s “Two Wheels Good”](https://lareviewofbooks.org/article/cycles-of-history-on-jody-rosens-two-wheels-good/)
 
 ## [Archives](archives/index.md)
 
