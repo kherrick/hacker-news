@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-01, 19:17:33](https://news.ycombinator.com/item?id=31951348) - [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
 * [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
 * [2022-07-01, 17:51:53](https://news.ycombinator.com/item?id=31950097) - [Uzi Nissan (Nissan.com) died of Covid July 2020 and the website is now down](http://www.nissan.com/)
@@ -28,7 +29,6 @@
 * [2022-06-30, 10:11:32](https://news.ycombinator.com/item?id=31930551) - [Big cats in urban jungle: LA mountain lions, Mumbai leopards](https://phys.org/news/2022-06-big-cats-urban-jungle-la.html)
 * [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
 * [2022-06-30, 06:46:31](https://news.ycombinator.com/item?id=31929346) - [What? More 8-Bit Microcontrollers?](https://www.eejournal.com/article/what-more-8-bit-microcontrollers/)
-* [2022-06-30, 05:37:14](https://news.ycombinator.com/item?id=31928999) - [An Art Crime for the Ages](https://www.bloomberg.com/features/2022-cambodia-met-museum-art-heist)
 * [2022-06-29, 21:32:58](https://news.ycombinator.com/item?id=31925976) - [What Drop-In API Observability Looks Like, Pre-Launch and Post-Launch](https://www.akitasoftware.com/blog-posts/drop-in-api-observability-pre-launch-and-post-launch)
 
 ## [Archives](archives/index.md)
