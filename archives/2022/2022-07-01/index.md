@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 17:36:54](https://news.ycombinator.com/item?id=31949893) - [Mark Zuckerberg: We’re ‘turning up the heat’ at Meta so employees will quit](https://nypost.com/2022/07/01/mark-zuckerberg-meta-wants-to-oust-workers-who-shouldnt-be-here/)
+* [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+* [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 15:35:20](https://news.ycombinator.com/item?id=31947895) - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
 * [2022-07-01, 15:32:25](https://news.ycombinator.com/item?id=31947839) - [Tell HN: I hate “pull shark” on GitHub](https://news.ycombinator.com/item?id=31947839)
@@ -48,5 +51,6 @@
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
 * [2022-07-01, 02:03:42](https://news.ycombinator.com/item?id=31941326) - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 * [2022-07-01, 01:56:22](https://news.ycombinator.com/item?id=31941264) - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
+* [2022-07-01, 00:58:51](https://news.ycombinator.com/item?id=31940782) - [Software development from my Android phone at datacenter speeds](https://www.gitpod.io/blog/software-development-from-my-android-phone-at-datacenter-speeds)
 * [2022-07-01, 00:55:26](https://news.ycombinator.com/item?id=31940765) - [Wayland is not ready as a 1:1 compatible Xorg replacement just yet](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [2022-07-01, 00:23:59](https://news.ycombinator.com/item?id=31940567) - [France bans veggie ′steaks,′ ′sausages′](https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333)
