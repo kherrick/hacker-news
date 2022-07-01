@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
+* [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+* [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to raise fresh cash at slashed $6.5B valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947296) - [Ask HN: Freelancer? Seeking freelancer? (July 2022)](https://news.ycombinator.com/item?id=31947296)
 * [2022-07-01, 14:59:53](https://news.ycombinator.com/item?id=31947291) - [Police Can Trace Cameras Thanks to Sensor Imperfection ‘Fingerprints’](https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/)
@@ -16,7 +17,6 @@
 * [2022-07-01, 12:42:49](https://news.ycombinator.com/item?id=31945607) - [US hypersonic missile fails in test- 2nd consecutive failed attempt](https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program)
 * [2022-07-01, 12:38:56](https://news.ycombinator.com/item?id=31945564) - [Logging in Python Like a Pro](https://guicommits.com/how-to-log-in-python-like-a-pro/)
 * [2022-07-01, 12:21:16](https://news.ycombinator.com/item?id=31945425) - [YouTube removes criticism of dangerous fractal wood burning, but leaves up tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
-* [2022-07-01, 12:00:36](https://news.ycombinator.com/item?id=31945201) - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
 * [2022-07-01, 11:56:30](https://news.ycombinator.com/item?id=31945161) - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
 * [2022-07-01, 11:10:21](https://news.ycombinator.com/item?id=31944777) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms (2014)](https://bost.ocks.org/mike/algorithms/)
