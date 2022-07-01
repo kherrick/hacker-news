@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947296) - [Ask HN: Freelancer? Seeking freelancer? (July 2022)](https://news.ycombinator.com/item?id=31947296)
-* [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
+* [2022-07-01, 14:59:53](https://news.ycombinator.com/item?id=31947291) - [Police Can Trace Cameras Thanks to Sensor Imperfection ‘Fingerprints’](https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/)
 * [2022-07-01, 14:50:59](https://news.ycombinator.com/item?id=31947172) - [If I cold emailed you, I apologize](https://blog.molecule.dev/sorry-for-the-cold-emails/)
 * [2022-07-01, 14:02:34](https://news.ycombinator.com/item?id=31946528) - [How Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
@@ -18,7 +19,6 @@
 * [2022-07-01, 12:00:36](https://news.ycombinator.com/item?id=31945201) - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
 * [2022-07-01, 11:56:30](https://news.ycombinator.com/item?id=31945161) - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
 * [2022-07-01, 11:10:21](https://news.ycombinator.com/item?id=31944777) - [V 0.3](https://github.com/vlang/v/discussions/14895)
-* [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms (2014)](https://bost.ocks.org/mike/algorithms/)
 * [2022-07-01, 06:47:25](https://news.ycombinator.com/item?id=31943199) - [Early Times (Multiplication)](https://www.futilitycloset.com/2022/06/28/early-times/)
 * [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)

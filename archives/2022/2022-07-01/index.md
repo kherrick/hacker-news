@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 15:35:20](https://news.ycombinator.com/item?id=31947895) - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
 * [2022-07-01, 15:32:25](https://news.ycombinator.com/item?id=31947839) - [Tell HN: I hate “pull shark” on GitHub](https://news.ycombinator.com/item?id=31947839)
 * [2022-07-01, 15:24:59](https://news.ycombinator.com/item?id=31947711) - [56% of employee won’t even consider a workplace that doesn’t share their value](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947296) - [Ask HN: Freelancer? Seeking freelancer? (July 2022)](https://news.ycombinator.com/item?id=31947296)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
+* [2022-07-01, 14:59:53](https://news.ycombinator.com/item?id=31947291) - [Police Can Trace Cameras Thanks to Sensor Imperfection ‘Fingerprints’](https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/)
 * [2022-07-01, 14:50:59](https://news.ycombinator.com/item?id=31947172) - [If I cold emailed you, I apologize](https://blog.molecule.dev/sorry-for-the-cold-emails/)
 * [2022-07-01, 14:02:34](https://news.ycombinator.com/item?id=31946528) - [An Anatomy of Erasure: How a free and open Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
