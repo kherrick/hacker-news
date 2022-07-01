@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
 * [2022-07-01, 18:09:34](https://news.ycombinator.com/item?id=31950380) - [Homeland Security sends warning letter due bad tweet language](https://twitter.com/budweiserbreath/status/1542700633068916737)
+* [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
 * [2022-07-01, 17:51:53](https://news.ycombinator.com/item?id=31950097) - [Uzi Nissan (Nissan.com) died of Covid July 2020 and the website is now down](http://www.nissan.com/)
 * [2022-07-01, 17:36:54](https://news.ycombinator.com/item?id=31949893) - [Mark Zuckerberg: We’re ‘turning up the heat’ at Meta so employees will quit](https://nypost.com/2022/07/01/mark-zuckerberg-meta-wants-to-oust-workers-who-shouldnt-be-here/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
