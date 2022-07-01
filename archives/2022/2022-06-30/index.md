@@ -59,6 +59,7 @@
 * [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:48:48](https://news.ycombinator.com/item?id=31930789) - [Belief in AI sentience is becoming a problem](https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
+* [2022-06-30, 10:11:32](https://news.ycombinator.com/item?id=31930551) - [Big cats in urban jungle: LA mountain lions, Mumbai leopards](https://phys.org/news/2022-06-big-cats-urban-jungle-la.html)
 * [2022-06-30, 10:10:30](https://news.ycombinator.com/item?id=31930547) - [We’ve Reached Peak Wellness. Most of It Is Nonsense. (2019)](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
 * [2022-06-30, 10:08:47](https://news.ycombinator.com/item?id=31930537) - [Toys, Secrets, and Cycles: Lessons from the 2000s](https://cdixon.mirror.xyz/8EKrYj3-SgTWALNdkNo3UXbPiuZbxSkROB9SUjxyJAo)
 * [2022-06-30, 09:53:19](https://news.ycombinator.com/item?id=31930460) - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
