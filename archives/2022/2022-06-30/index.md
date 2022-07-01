@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-06-30](index.md)
 
+* [2022-06-30, 23:57:41](https://news.ycombinator.com/item?id=31940321) - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
+* [2022-06-30, 23:52:48](https://news.ycombinator.com/item?id=31940277) - [Steelmanning: Discover the truth by helping your opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
+* [2022-06-30, 23:24:37](https://news.ycombinator.com/item?id=31940030) - [Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe](https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe)
 * [2022-06-30, 23:19:55](https://news.ycombinator.com/item?id=31939983) - [Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco](https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/)
 * [2022-06-30, 23:08:51](https://news.ycombinator.com/item?id=31939871) - [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 * [2022-06-30, 22:27:37](https://news.ycombinator.com/item?id=31939498) - [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
@@ -11,6 +14,7 @@
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
 * [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
 * [2022-06-30, 21:19:38](https://news.ycombinator.com/item?id=31938761) - [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
+* [2022-06-30, 20:43:49](https://news.ycombinator.com/item?id=31938353) - [The Perils of Audience Capture](https://gurwinder.substack.com/p/the-perils-of-audience-capture)
 * [2022-06-30, 20:43:40](https://news.ycombinator.com/item?id=31938350) - [Police sweep Google searches to find suspects; facing its first legal challenge](https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749)
 * [2022-06-30, 20:37:23](https://news.ycombinator.com/item?id=31938261) - [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
 * [2022-06-30, 20:36:29](https://news.ycombinator.com/item?id=31938246) - [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
@@ -50,6 +54,7 @@
 * [2022-06-30, 13:23:10](https://news.ycombinator.com/item?id=31932038) - [Duck Curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 12:50:13](https://news.ycombinator.com/item?id=31931727) - [Volt, Australia's first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
+* [2022-06-30, 11:07:13](https://news.ycombinator.com/item?id=31930935) - [Ask HN: Where and how do you find your early adoptors?](https://news.ycombinator.com/item?id=31930935)
 * [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:48:48](https://news.ycombinator.com/item?id=31930789) - [Belief in AI sentience is becoming a problem](https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
@@ -60,6 +65,7 @@
 * [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:21:49](https://news.ycombinator.com/item?id=31929957) - [Amazon bows to UAE pressure to restrict LGBT search results](https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results)
 * [2022-06-30, 08:17:41](https://news.ycombinator.com/item?id=31929941) - [Atlassian is 20 years old and unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
+* [2022-06-30, 08:10:47](https://news.ycombinator.com/item?id=31929897) - [Long Live Software Easter Eggs](https://queue.acm.org/detail.cfm?id=3534857)
 * [2022-06-30, 07:37:19](https://news.ycombinator.com/item?id=31929700) - [Navigate ASTs with x-path-like queries](https://github.com/rse/astq)
 * [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 * [2022-06-30, 07:00:37](https://news.ycombinator.com/item?id=31929461) - [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
