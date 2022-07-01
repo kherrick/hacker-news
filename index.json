@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-01, 11:10:21",
+      "https://news.ycombinator.com/item?id=31944777"
+    ],
+    [
+      "V 0.3",
+      "https://github.com/vlang/v/discussions/14895"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 10:49:08",
       "https://news.ycombinator.com/item?id=31944636"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-07-01, 07:31:13",
-      "https://news.ycombinator.com/item?id=31943478"
-    ],
-    [
-      "Open source body quits GitHub, urges you to do the same",
-      "https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 06:05:09",
       "https://news.ycombinator.com/item?id=31942933"
     ],
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2022-07-01, 03:00:14",
-      "https://news.ycombinator.com/item?id=31941777"
-    ],
-    [
-      "Meta slashes hiring plans, girds for 'fierce' headwinds",
-      "https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 02:41:24",
       "https://news.ycombinator.com/item?id=31941607"
     ],
@@ -107,6 +97,16 @@
     [
       "Use of special characters in usernames on YouTube has been limited",
       "https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 23:57:41",
+      "https://news.ycombinator.com/item?id=31940321"
+    ],
+    [
+      "Pronunciation Guide for Unix",
+      "https://ss64.com/bash/syntax-pronounce.html"
     ]
   ],
   [
