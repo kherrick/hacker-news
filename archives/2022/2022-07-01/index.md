@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
 * [2022-07-01, 13:31:25](https://news.ycombinator.com/item?id=31946088) - [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
+* [2022-07-01, 13:29:46](https://news.ycombinator.com/item?id=31946064) - [Traffic cones confused a Waymo self-driving car. Then things got worse](https://www.cnn.com/2021/05/17/tech/waymo-arizona-confused/index.html)
 * [2022-07-01, 13:16:33](https://news.ycombinator.com/item?id=31945924) - [Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months](https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine)
 * [2022-07-01, 13:09:07](https://news.ycombinator.com/item?id=31945855) - [Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
+* [2022-07-01, 13:07:59](https://news.ycombinator.com/item?id=31945841) - [Tech layoffs keep stacking up](https://twitter.com/HayekAndKeynes/status/1541760176826499073)
 * [2022-07-01, 12:42:49](https://news.ycombinator.com/item?id=31945607) - [US hypersonic missile fails in test- 2nd consecutive failed attempt](https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program)
 * [2022-07-01, 12:34:21](https://news.ycombinator.com/item?id=31945525) - [What can we learn from the secret habits of genius?](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
 * [2022-07-01, 12:21:16](https://news.ycombinator.com/item?id=31945425) - [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
