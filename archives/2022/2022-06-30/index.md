@@ -77,6 +77,7 @@
 * [2022-06-30, 06:26:19](https://news.ycombinator.com/item?id=31929248) - [The Water Babies: Professor Ptthmllnsprts versus Old Bones](https://www.historytoday.com/archive/great-debates/professor-ptthmllnsprts-versus-old-bones)
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 05:38:21](https://news.ycombinator.com/item?id=31929005) - [Signatures of early fire at Evron Quarry (1.0 to 0.8 Mya)](https://www.pnas.org/doi/full/10.1073/pnas.2123439119)
+* [2022-06-30, 05:37:14](https://news.ycombinator.com/item?id=31928999) - [An Art Crime for the Ages](https://www.bloomberg.com/features/2022-cambodia-met-museum-art-heist)
 * [2022-06-30, 04:55:33](https://news.ycombinator.com/item?id=31928826) - [Ask HN: Forensic analysis for 50 yr old tape](https://news.ycombinator.com/item?id=31928826)
 * [2022-06-30, 04:33:47](https://news.ycombinator.com/item?id=31928739) - [Build Your Own Magneto Charger](https://www.gasenginemagazine.com/equipment/magneto-charger-zmrz20amzhur/)
 * [2022-06-30, 04:32:59](https://news.ycombinator.com/item?id=31928736) - [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)

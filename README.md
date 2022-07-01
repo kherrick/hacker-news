@@ -26,9 +26,9 @@
 * [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
 * [2022-06-30, 08:10:47](https://news.ycombinator.com/item?id=31929897) - [Long Live Software Easter Eggs](https://queue.acm.org/detail.cfm?id=3534857)
 * [2022-06-30, 06:46:31](https://news.ycombinator.com/item?id=31929346) - [What? More 8-Bit Microcontrollers?](https://www.eejournal.com/article/what-more-8-bit-microcontrollers/)
+* [2022-06-30, 05:37:14](https://news.ycombinator.com/item?id=31928999) - [An Art Crime for the Ages](https://www.bloomberg.com/features/2022-cambodia-met-museum-art-heist)
 * [2022-06-29, 23:32:37](https://news.ycombinator.com/item?id=31927043) - [CEO test-drives Mojo Vision's smart augmented reality contact lens](https://newatlas.com/wearables/mojo-vision-ar-contact-lens/)
 * [2022-06-29, 20:37:03](https://news.ycombinator.com/item?id=31925423) - [Can a Corporation “Own” a Color?](https://thehustle.co/can-a-corporation-trademark-a-color/)
-* [2022-06-29, 17:38:47](https://news.ycombinator.com/item?id=31923335) - [It Was a Dark and Stormy Night](https://www.historytoday.com/archive/out-margins/it-was-dark-and-stormy-night)
 * [2022-06-29, 17:15:47](https://news.ycombinator.com/item?id=31923010) - [Cycles of History: On Jody Rosen’s “Two Wheels Good”](https://lareviewofbooks.org/article/cycles-of-history-on-jody-rosens-two-wheels-good/)
 
 ## [Archives](archives/index.md)
