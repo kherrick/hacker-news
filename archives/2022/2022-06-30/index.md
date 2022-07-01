@@ -70,6 +70,7 @@
 * [2022-06-30, 07:32:04](https://news.ycombinator.com/item?id=31929662) - [Doom RPG Ported to PC](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering/)
 * [2022-06-30, 07:00:37](https://news.ycombinator.com/item?id=31929461) - [Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education](https://padlet.jobs)
 * [2022-06-30, 06:59:39](https://news.ycombinator.com/item?id=31929451) - [Raspberry Pi Pico W: your $6 IoT platform](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/)
+* [2022-06-30, 06:26:19](https://news.ycombinator.com/item?id=31929248) - [The Water Babies: Professor Ptthmllnsprts versus Old Bones](https://www.historytoday.com/archive/great-debates/professor-ptthmllnsprts-versus-old-bones)
 * [2022-06-30, 06:08:48](https://news.ycombinator.com/item?id=31929140) - [EU Digital ID wallet is under way](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/government/magazine/eu-digital-id-wallet-coming-heres-what)
 * [2022-06-30, 05:38:21](https://news.ycombinator.com/item?id=31929005) - [Signatures of early fire at Evron Quarry (1.0 to 0.8 Mya)](https://www.pnas.org/doi/full/10.1073/pnas.2123439119)
 * [2022-06-30, 04:55:33](https://news.ycombinator.com/item?id=31928826) - [Ask HN: Forensic analysis for 50 yr old tape](https://news.ycombinator.com/item?id=31928826)
