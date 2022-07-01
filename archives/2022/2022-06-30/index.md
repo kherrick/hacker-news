@@ -62,6 +62,7 @@
 * [2022-06-30, 10:10:30](https://news.ycombinator.com/item?id=31930547) - [We’ve Reached Peak Wellness. Most of It Is Nonsense. (2019)](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
 * [2022-06-30, 09:53:19](https://news.ycombinator.com/item?id=31930460) - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
+* [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
 * [2022-06-30, 08:31:21](https://news.ycombinator.com/item?id=31930011) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-06-30, 08:31:00](https://news.ycombinator.com/item?id=31930008) - [Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data](https://sverigesradio.se/artikel/swedish-radio-created-fake-pharmacy-reveals-how-facebook-stored-sensitive-information)
 * [2022-06-30, 08:21:49](https://news.ycombinator.com/item?id=31929957) - [Amazon bows to UAE pressure to restrict LGBT search results](https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results)
