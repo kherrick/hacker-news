@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 14:02:34](https://news.ycombinator.com/item?id=31946528) - [An Anatomy of Erasure: How a free and open Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 * [2022-07-01, 13:31:25](https://news.ycombinator.com/item?id=31946088) - [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
