@@ -72,6 +72,7 @@
 * [2022-07-01, 03:00:14](https://news.ycombinator.com/item?id=31941777) - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
 * [2022-07-01, 02:46:06](https://news.ycombinator.com/item?id=31941647) - [The Supreme Court’s Latest Decision Is a Blow to Stopping Climate Change](https://www.scientificamerican.com/article/the-supreme-courts-latest-decision-is-a-blow-for-stopping-climate-change/)
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
+* [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 02:03:42](https://news.ycombinator.com/item?id=31941326) - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 * [2022-07-01, 01:56:22](https://news.ycombinator.com/item?id=31941264) - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
 * [2022-07-01, 01:42:39](https://news.ycombinator.com/item?id=31941138) - [From under to on the rocks: Invasive crabs become whiskey](https://apnews.com/article/new-hampshire-climate-and-environment-9a3b69102c84d5e1a809617b3843c48e)

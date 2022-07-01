@@ -11,7 +11,6 @@
 * [2022-07-01, 19:41:39](https://news.ycombinator.com/item?id=31951683) - [Voyager Digital suspends trading, deposits and withdrawals](https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html)
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
-* [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP: TCP/IP applications for DOS PCs](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How much health insurers pay for almost everything is about to go public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
@@ -28,6 +27,7 @@
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar](https://thewalrus.ca/garlic-in-a-jar/)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms (2014)](https://bost.ocks.org/mike/algorithms/)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
+* [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 01:42:39](https://news.ycombinator.com/item?id=31941138) - [From under to on the rocks: Invasive crabs become whiskey](https://apnews.com/article/new-hampshire-climate-and-environment-9a3b69102c84d5e1a809617b3843c48e)
 * [2022-06-30, 21:07:28](https://news.ycombinator.com/item?id=31938609) - [An excavation in the sea depths recovers Hercules from the afterlife](https://www.nytimes.com/2022/06/30/science/shipwreck-ancient-roman-hercules.html)
 
