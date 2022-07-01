@@ -60,6 +60,7 @@
 * [2022-06-30, 10:48:48](https://news.ycombinator.com/item?id=31930789) - [Belief in AI sentience is becoming a problem](https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/)
 * [2022-06-30, 10:37:59](https://news.ycombinator.com/item?id=31930718) - [OpenBSD has two new C compilers: chibicc and kefir](https://briancallahan.net/blog/20220629.html)
 * [2022-06-30, 10:10:30](https://news.ycombinator.com/item?id=31930547) - [We’ve Reached Peak Wellness. Most of It Is Nonsense. (2019)](https://www.outsideonline.com/health/wellness/wellness-industry-lies-what-really-works/)
+* [2022-06-30, 10:08:47](https://news.ycombinator.com/item?id=31930537) - [Toys, Secrets, and Cycles: Lessons from the 2000s](https://cdixon.mirror.xyz/8EKrYj3-SgTWALNdkNo3UXbPiuZbxSkROB9SUjxyJAo)
 * [2022-06-30, 09:53:19](https://news.ycombinator.com/item?id=31930460) - [Ask HN: Do you trust solo entrepreneurs?](https://news.ycombinator.com/item?id=31930460)
 * [2022-06-30, 09:39:56](https://news.ycombinator.com/item?id=31930384) - [Unity is laying off hundreds of employees](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
 * [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
