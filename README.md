@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Star Minecraft mod creator Technoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+* [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 * [2022-07-01, 03:16:10](https://news.ycombinator.com/item?id=31941887) - [Doom Builder](http://doombuilder.com/)
 * [2022-07-01, 03:00:14](https://news.ycombinator.com/item?id=31941777) - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
-* [2022-07-01, 02:46:06](https://news.ycombinator.com/item?id=31941647) - [The Supreme Court’s Latest Decision Is a Blow to Stopping Climate Change](https://www.scientificamerican.com/article/the-supreme-courts-latest-decision-is-a-blow-for-stopping-climate-change/)
 * [2022-07-01, 02:03:42](https://news.ycombinator.com/item?id=31941326) - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 * [2022-07-01, 01:56:22](https://news.ycombinator.com/item?id=31941264) - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
 * [2022-06-30, 23:57:41](https://news.ycombinator.com/item?id=31940321) - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
@@ -19,6 +18,7 @@
 * [2022-06-30, 19:11:07](https://news.ycombinator.com/item?id=31937133) - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
 * [2022-06-30, 18:42:21](https://news.ycombinator.com/item?id=31936725) - [Vim 9.0](https://www.vim.org/vim90.php)
 * [2022-06-30, 18:17:55](https://news.ycombinator.com/item?id=31936356) - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
+* [2022-06-30, 17:22:05](https://news.ycombinator.com/item?id=31935626) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) is hiring back end engineers to build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 15:46:45](https://news.ycombinator.com/item?id=31934181) - [Modern cloud for multiplayer games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [2022-06-30, 13:59:20](https://news.ycombinator.com/item?id=31932423) - [MIT engineers fly first-ever plane with no moving parts (2018)](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
