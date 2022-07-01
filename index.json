@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-01, 15:24:59",
+      "https://news.ycombinator.com/item?id=31947711"
+    ],
+    [
+      "56% of employee won’t even consider a workplace that doesn’t share their value",
+      "https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 15:00:14",
       "https://news.ycombinator.com/item?id=31947297"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2022-07-01, 15:00:13",
+      "https://news.ycombinator.com/item?id=31947295"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (July 2022)",
+      "https://news.ycombinator.com/item?id=31947295"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 14:02:34",
       "https://news.ycombinator.com/item?id=31946528"
     ],
     [
-      "An Anatomy of Erasure: How a free and open Hong Kong became a police state",
+      "How Hong Kong became a police state",
       "https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state"
     ]
   ],
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=31946088"
     ],
     [
-      "How The Pentagon Uses a Secret Program to Wage Proxy Wars",
+      "The Pentagon uses a secret program to wage proxy wars",
       "https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 13:23:08",
+      "https://news.ycombinator.com/item?id=31945994"
+    ],
+    [
+      "Bonsai Browser is now open source",
+      "https://github.com/Bonsai-Desk/bonsai-browser"
     ]
   ],
   [
@@ -71,12 +101,32 @@
   ],
   [
     [
+      "2022-07-01, 12:43:57",
+      "https://news.ycombinator.com/item?id=31945618"
+    ],
+    [
+      "Ron Gilbert: “The joy of sharing has been driven from me.”",
+      "https://grumpygamer.com/rtmi_trailer#1656548734"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 12:42:49",
       "https://news.ycombinator.com/item?id=31945607"
     ],
     [
       "US hypersonic missile fails in test- 2nd consecutive failed attempt",
       "https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 12:38:56",
+      "https://news.ycombinator.com/item?id=31945564"
+    ],
+    [
+      "Logging in Python Like a Pro",
+      "https://guicommits.com/how-to-log-in-python-like-a-pro/"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2022-07-01, 07:47:09",
-      "https://news.ycombinator.com/item?id=31943572"
-    ],
-    [
-      "Xcode 14 deprecates bitcode for watchOS and tvOS",
-      "https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 07:40:31",
       "https://news.ycombinator.com/item?id=31943531"
     ],
@@ -167,26 +207,6 @@
     [
       "The Feynman Technique 2.0: How to Take Your Learning to the Next Level",
       "https://themindcollection.com/the-feynman-technique/"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 23:57:41",
-      "https://news.ycombinator.com/item?id=31940321"
-    ],
-    [
-      "Pronunciation Guide for Unix",
-      "https://ss64.com/bash/syntax-pronounce.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 23:52:48",
-      "https://news.ycombinator.com/item?id=31940277"
-    ],
-    [
-      "Steelmanning: Discover the truth by helping your opponent",
-      "https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Mathematics and Magic: The de Bruijn Card Trick (2015)",
       "https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 08:10:47",
-      "https://news.ycombinator.com/item?id=31929897"
-    ],
-    [
-      "Long live software easter eggs",
-      "https://queue.acm.org/detail.cfm?id=3534857"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 06:46:31",
-      "https://news.ycombinator.com/item?id=31929346"
-    ],
-    [
-      "What? More 8-Bit Microcontrollers?",
-      "https://www.eejournal.com/article/what-more-8-bit-microcontrollers/"
     ]
   ],
   [
