@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-01, 11:10:21](https://news.ycombinator.com/item?id=31944777) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-07-01, 11:08:32](https://news.ycombinator.com/item?id=31944757) - [YouTube BANNED my Debunking Video but leaves DEADLY how-to vids online, 34 dead](https://www.youtube.com/watch?v=GZrynWtBDTE)
 * [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
 * [2022-07-01, 08:54:56](https://news.ycombinator.com/item?id=31943941) - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
@@ -11,6 +10,7 @@
 * [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 * [2022-07-01, 03:16:10](https://news.ycombinator.com/item?id=31941887) - [Doom Builder](http://doombuilder.com/)
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
+* [2022-07-01, 01:56:22](https://news.ycombinator.com/item?id=31941264) - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
 * [2022-06-30, 23:57:41](https://news.ycombinator.com/item?id=31940321) - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
 * [2022-06-30, 23:52:48](https://news.ycombinator.com/item?id=31940277) - [Steelmanning: Discover the truth by helping your opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
 * [2022-06-30, 23:24:37](https://news.ycombinator.com/item?id=31940030) - [Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe](https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe)
