@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 20:12:22](https://news.ycombinator.com/item?id=31952132) - [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
+* [2022-07-01, 19:41:39](https://news.ycombinator.com/item?id=31951683) - [Voyager Digital suspends trading, deposits and withdrawals](https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html)
 * [2022-07-01, 19:17:33](https://news.ycombinator.com/item?id=31951348) - [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
+* [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
+* [2022-07-01, 18:55:13](https://news.ycombinator.com/item?id=31951050) - [Why the World Economy Hasn’t Collapsed Yet](https://thehonestsorcerer.medium.com/why-the-world-economy-hasnt-collapsed-yet-8205189f5a15)
 * [2022-07-01, 18:09:34](https://news.ycombinator.com/item?id=31950380) - [Homeland Security sends warning letter due bad tweet language](https://twitter.com/budweiserbreath/status/1542700633068916737)
 * [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
 * [2022-07-01, 17:51:53](https://news.ycombinator.com/item?id=31950097) - [Uzi Nissan (Nissan.com) died of Covid July 2020 and the website is now down](http://www.nissan.com/)
