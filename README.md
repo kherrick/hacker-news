@@ -1,16 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-01, 13:31:25](https://news.ycombinator.com/item?id=31946088) - [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
+* [2022-07-01, 13:16:33](https://news.ycombinator.com/item?id=31945924) - [Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months](https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine)
+* [2022-07-01, 13:09:07](https://news.ycombinator.com/item?id=31945855) - [Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
 * [2022-07-01, 12:42:49](https://news.ycombinator.com/item?id=31945607) - [US hypersonic missile fails in test- 2nd consecutive failed attempt](https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program)
 * [2022-07-01, 12:21:16](https://news.ycombinator.com/item?id=31945425) - [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
 * [2022-07-01, 12:00:36](https://news.ycombinator.com/item?id=31945201) - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
 * [2022-07-01, 11:56:30](https://news.ycombinator.com/item?id=31945161) - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
-* [2022-07-01, 11:53:31](https://news.ycombinator.com/item?id=31945134) - [Harvard Must Fall](https://unherd.com/2022/07/harvard-must-fall/)
 * [2022-07-01, 11:10:21](https://news.ycombinator.com/item?id=31944777) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
 * [2022-07-01, 08:54:56](https://news.ycombinator.com/item?id=31943941) - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
 * [2022-07-01, 07:47:09](https://news.ycombinator.com/item?id=31943572) - [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms (2014)](https://bost.ocks.org/mike/algorithms/)
-* [2022-07-01, 06:05:09](https://news.ycombinator.com/item?id=31942933) - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
 * [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
 * [2022-06-30, 23:57:41](https://news.ycombinator.com/item?id=31940321) - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
@@ -29,7 +30,6 @@
 * [2022-06-30, 06:46:31](https://news.ycombinator.com/item?id=31929346) - [What? More 8-Bit Microcontrollers?](https://www.eejournal.com/article/what-more-8-bit-microcontrollers/)
 * [2022-06-30, 05:37:14](https://news.ycombinator.com/item?id=31928999) - [An Art Crime for the Ages](https://www.bloomberg.com/features/2022-cambodia-met-museum-art-heist)
 * [2022-06-29, 21:32:58](https://news.ycombinator.com/item?id=31925976) - [What Drop-In API Observability Looks Like, Pre-Launch and Post-Launch](https://www.akitasoftware.com/blog-posts/drop-in-api-observability-pre-launch-and-post-launch)
-* [2022-06-29, 17:15:47](https://news.ycombinator.com/item?id=31923010) - [Cycles of History: On Jody Rosen’s “Two Wheels Good”](https://lareviewofbooks.org/article/cycles-of-history-on-jody-rosens-two-wheels-good/)
 
 ## [Archives](archives/index.md)
 
