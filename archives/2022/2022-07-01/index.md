@@ -6,6 +6,7 @@
 
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 * [2022-07-01, 22:53:35](https://news.ycombinator.com/item?id=31954053) - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
+* [2022-07-01, 22:11:13](https://news.ycombinator.com/item?id=31953682) - [Tracking Advances in Neural Recording](https://stevenson.lab.uconn.edu/scaling/)
 * [2022-07-01, 22:09:36](https://news.ycombinator.com/item?id=31953662) - [The GPU Shortage Is Over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
 * [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)

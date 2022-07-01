@@ -2,6 +2,7 @@
 
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 * [2022-07-01, 22:53:35](https://news.ycombinator.com/item?id=31954053) - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
+* [2022-07-01, 22:11:13](https://news.ycombinator.com/item?id=31953682) - [Tracking Advances in Neural Recording](https://stevenson.lab.uconn.edu/scaling/)
 * [2022-07-01, 22:09:36](https://news.ycombinator.com/item?id=31953662) - [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
 * [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
@@ -21,14 +22,13 @@
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life helps make almost half of Earth’s minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
-* [2022-07-01, 13:27:12](https://news.ycombinator.com/item?id=31946039) - [Show HN: CSVFiddle – Query CSV files with DuckDB in the browser](https://csvfiddle.io/)
 * [2022-07-01, 13:23:08](https://news.ycombinator.com/item?id=31945994) - [Bonsai Browser is now open source](https://github.com/Bonsai-Desk/bonsai-browser)
 * [2022-07-01, 12:38:56](https://news.ycombinator.com/item?id=31945564) - [Logging in Python like a pro](https://guicommits.com/how-to-log-in-python-like-a-pro/)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
-* [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In defence of garlic in a jar](https://thewalrus.ca/garlic-in-a-jar/)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 01:42:39](https://news.ycombinator.com/item?id=31941138) - [From under to on the rocks: Invasive crabs become whiskey](https://apnews.com/article/new-hampshire-climate-and-environment-9a3b69102c84d5e1a809617b3843c48e)
+* [2022-06-30, 22:08:08](https://news.ycombinator.com/item?id=31939300) - [Gradual Soundness: Lessons from static Python](https://blog.brownplt.org/2022/06/28/static-python.html)
 * [2022-06-30, 21:07:28](https://news.ycombinator.com/item?id=31938609) - [An excavation in the sea depths recovers Hercules from the afterlife](https://www.nytimes.com/2022/06/30/science/shipwreck-ancient-roman-hercules.html)
 
 ## [Archives](archives/index.md)

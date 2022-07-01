@@ -11,6 +11,7 @@
 * [2022-06-30, 23:08:51](https://news.ycombinator.com/item?id=31939871) - [Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 * [2022-06-30, 22:27:37](https://news.ycombinator.com/item?id=31939498) - [Car wars: Analyst predicts GM, Ford will surpass Tesla EV sales by 2025](https://www.detroitnews.com/story/business/autos/2022/06/30/car-wars-predicts-gm-ford-surpass-tesla-ev-sales-2025/7779913001/)
 * [2022-06-30, 22:20:27](https://news.ycombinator.com/item?id=31939424) - [Logitech MX Products are incompatible with AirPods](https://support.logi.com/hc/en-001/community/posts/4419966780055-Mx-3-master-and-airpods-pro-microphone-issue)
+* [2022-06-30, 22:08:08](https://news.ycombinator.com/item?id=31939300) - [Gradual Soundness: Lessons from static Python](https://blog.brownplt.org/2022/06/28/static-python.html)
 * [2022-06-30, 21:51:39](https://news.ycombinator.com/item?id=31939114) - [Former Apple exec who enforced insider trading rules admits to insider trading](https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/)
 * [2022-06-30, 21:42:40](https://news.ycombinator.com/item?id=31939013) - [The popularity of country music in rural sub Saharan Africa](https://twitter.com/RisenChow/status/1542564697353895941)
 * [2022-06-30, 21:19:38](https://news.ycombinator.com/item?id=31938761) - [Chip of the Day: Soviet 573RF10 – A CMOS 8755A](https://www.cpushack.com/2022/06/30/chip-of-the-day-soviet-573rf10-a-cmos-8755a/)
