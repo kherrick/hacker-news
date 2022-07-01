@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-01, 14:02:34](https://news.ycombinator.com/item?id=31946528) - [An Anatomy of Erasure: How a free and open Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
+* [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 * [2022-07-01, 13:31:25](https://news.ycombinator.com/item?id=31946088) - [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
 * [2022-07-01, 13:16:33](https://news.ycombinator.com/item?id=31945924) - [Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months](https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine)
 * [2022-07-01, 13:09:07](https://news.ycombinator.com/item?id=31945855) - [Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
@@ -24,7 +25,6 @@
 * [2022-06-30, 11:23:08](https://news.ycombinator.com/item?id=31931042) - [How are the bees?](https://nautil.us/how-are-the-bees-20772/)
 * [2022-06-30, 10:11:32](https://news.ycombinator.com/item?id=31930551) - [Big cats in urban jungle: LA mountain lions, Mumbai leopards](https://phys.org/news/2022-06-big-cats-urban-jungle-la.html)
 * [2022-06-30, 10:08:47](https://news.ycombinator.com/item?id=31930537) - [Toys, Secrets, and Cycles: Lessons from the 2000s](https://cdixon.mirror.xyz/8EKrYj3-SgTWALNdkNo3UXbPiuZbxSkROB9SUjxyJAo)
-* [2022-06-30, 09:31:23](https://news.ycombinator.com/item?id=31930328) - [‘A massive betrayal’: how London’s Olympic legacy was sold out](https://www.theguardian.com/uk-news/2022/jun/30/a-massive-betrayal-how-londons-olympic-legacy-was-sold-out)
 * [2022-06-30, 08:45:23](https://news.ycombinator.com/item?id=31930086) - [Mathematics and Magic: The de Bruijn Card Trick (2015)](https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html)
 * [2022-06-30, 08:10:47](https://news.ycombinator.com/item?id=31929897) - [Long live software easter eggs](https://queue.acm.org/detail.cfm?id=3534857)
 * [2022-06-30, 06:46:31](https://news.ycombinator.com/item?id=31929346) - [What? More 8-Bit Microcontrollers?](https://www.eejournal.com/article/what-more-8-bit-microcontrollers/)
