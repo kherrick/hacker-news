@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 15:35:20](https://news.ycombinator.com/item?id=31947895) - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
+* [2022-07-01, 15:32:25](https://news.ycombinator.com/item?id=31947839) - [Tell HN: I hate “pull shark” on GitHub](https://news.ycombinator.com/item?id=31947839)
 * [2022-07-01, 15:24:59](https://news.ycombinator.com/item?id=31947711) - [56% of employee won’t even consider a workplace that doesn’t share their value](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
