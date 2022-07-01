@@ -54,6 +54,7 @@
 * [2022-06-30, 13:23:10](https://news.ycombinator.com/item?id=31932038) - [Duck Curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [2022-06-30, 13:08:03](https://news.ycombinator.com/item?id=31931887) - [Why don't more people use throat mics?](https://vadosware.io/post/why-dont-more-people-use-throat-mics/)
 * [2022-06-30, 12:50:13](https://news.ycombinator.com/item?id=31931727) - [Volt, Australia's first online-only bank, shuts down due to fund-raising woes](https://www.reuters.com/business/finance/australias-first-neobank-volt-shut-deposit-taking-business-return-licence-2022-06-29/)
+* [2022-06-30, 11:23:08](https://news.ycombinator.com/item?id=31931042) - [How Are the Bees?](https://nautil.us/how-are-the-bees-20772/)
 * [2022-06-30, 11:07:13](https://news.ycombinator.com/item?id=31930935) - [Ask HN: Where and how do you find your early adoptors?](https://news.ycombinator.com/item?id=31930935)
 * [2022-06-30, 11:03:18](https://news.ycombinator.com/item?id=31930896) - [TikTok Pedagogy: Teaching Philosophy in 60 Seconds or Less](https://blog.apaonline.org/2022/06/29/tiktok-pedagogy-teaching-philosophy-in-60-seconds-or-less/)
 * [2022-06-30, 10:48:48](https://news.ycombinator.com/item?id=31930789) - [Belief in AI sentience is becoming a problem](https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/)
