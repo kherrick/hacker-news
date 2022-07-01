@@ -8,6 +8,7 @@
 * [2022-06-29, 23:03:50](https://news.ycombinator.com/item?id=31926813) - [Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 * [2022-06-29, 22:43:10](https://news.ycombinator.com/item?id=31926594) - [Shrugs.app – A native Slack client for macOS](https://shrugs.app/)
 * [2022-06-29, 21:51:17](https://news.ycombinator.com/item?id=31926142) - [A New Carbon Capture Plant Will Pull 36,000 Tons of CO2 from the Air Each Year](https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/)
+* [2022-06-29, 21:32:58](https://news.ycombinator.com/item?id=31925976) - [What Drop-In API Observability Looks Like, Pre-Launch and Post-Launch](https://www.akitasoftware.com/blog-posts/drop-in-api-observability-pre-launch-and-post-launch)
 * [2022-06-29, 21:22:27](https://news.ycombinator.com/item?id=31925871) - [Show HN: Calculator for US Individual Income tax, from 1970-present](https://news.ycombinator.com/item?id=31925871)
 * [2022-06-29, 21:10:56](https://news.ycombinator.com/item?id=31925760) - [William of Rubruck](https://en.wikipedia.org/wiki/William_of_Rubruck)
 * [2022-06-29, 21:07:06](https://news.ycombinator.com/item?id=31925716) - [Mastering Nim – now available on Amazon](https://nim-lang.org/blog/2022/06/29/mastering-nim.html)

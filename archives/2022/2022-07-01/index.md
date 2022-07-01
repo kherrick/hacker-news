@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 12:34:21](https://news.ycombinator.com/item?id=31945525) - [What can we learn from the secret habits of genius?](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
+* [2022-07-01, 12:21:16](https://news.ycombinator.com/item?id=31945425) - [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
+* [2022-07-01, 12:00:36](https://news.ycombinator.com/item?id=31945201) - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
+* [2022-07-01, 11:56:30](https://news.ycombinator.com/item?id=31945161) - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
 * [2022-07-01, 11:10:21](https://news.ycombinator.com/item?id=31944777) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-07-01, 11:08:32](https://news.ycombinator.com/item?id=31944757) - [YouTube BANNED my Debunking Video but leaves DEADLY how-to vids online, 34 dead](https://www.youtube.com/watch?v=GZrynWtBDTE)
 * [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
