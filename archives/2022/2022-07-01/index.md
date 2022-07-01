@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 18:09:34](https://news.ycombinator.com/item?id=31950380) - [Homeland Security sends warning letter due bad tweet language](https://twitter.com/budweiserbreath/status/1542700633068916737)
 * [2022-07-01, 17:51:53](https://news.ycombinator.com/item?id=31950097) - [Uzi Nissan (Nissan.com) died of Covid July 2020 and the website is now down](http://www.nissan.com/)
 * [2022-07-01, 17:36:54](https://news.ycombinator.com/item?id=31949893) - [Mark Zuckerberg: We’re ‘turning up the heat’ at Meta so employees will quit](https://nypost.com/2022/07/01/mark-zuckerberg-meta-wants-to-oust-workers-who-shouldnt-be-here/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+* [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 15:51:01](https://news.ycombinator.com/item?id=31948168) - [Ask HN: Why not have reverse life insurance that rewards longevity?](https://news.ycombinator.com/item?id=31948168)
