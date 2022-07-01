@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
 * [2022-07-01, 07:47:09](https://news.ycombinator.com/item?id=31943572) - [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/)
