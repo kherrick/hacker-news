@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
+* [2022-07-01, 07:47:09](https://news.ycombinator.com/item?id=31943572) - [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms by Mike Bostock(2014)](https://bost.ocks.org/mike/algorithms/)
 * [2022-07-01, 07:31:13](https://news.ycombinator.com/item?id=31943478) - [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
 * [2022-07-01, 06:05:09](https://news.ycombinator.com/item?id=31942933) - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
@@ -8,7 +9,6 @@
 * [2022-07-01, 03:16:10](https://news.ycombinator.com/item?id=31941887) - [Doom Builder](http://doombuilder.com/)
 * [2022-07-01, 03:00:14](https://news.ycombinator.com/item?id=31941777) - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
-* [2022-07-01, 02:03:42](https://news.ycombinator.com/item?id=31941326) - [Severe thermal throttling discovered in Apple's M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 * [2022-07-01, 01:56:22](https://news.ycombinator.com/item?id=31941264) - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
 * [2022-06-30, 23:52:48](https://news.ycombinator.com/item?id=31940277) - [Steelmanning: Discover the truth by helping your opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
 * [2022-06-30, 23:24:37](https://news.ycombinator.com/item?id=31940030) - [Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe](https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe)
