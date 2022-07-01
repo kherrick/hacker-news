@@ -1,16 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+* [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
+* [2022-07-01, 20:31:48](https://news.ycombinator.com/item?id=31952426) - [Pokemon Go Creator Niantic Cancels Four Projects, Cuts 8% of Staff](https://www.bloomberg.com/news/articles/2022-06-29/pokemon-go-creator-niantic-cancels-four-projects-cuts-jobs)
 * [2022-07-01, 20:28:37](https://news.ycombinator.com/item?id=31952379) - [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
 * [2022-07-01, 20:12:22](https://news.ycombinator.com/item?id=31952132) - [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
 * [2022-07-01, 19:41:39](https://news.ycombinator.com/item?id=31951683) - [Voyager Digital suspends trading, deposits and withdrawals](https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html)
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
-* [2022-07-01, 18:55:13](https://news.ycombinator.com/item?id=31951050) - [Why the World Economy Hasn’t Collapsed Yet](https://thehonestsorcerer.medium.com/why-the-world-economy-hasnt-collapsed-yet-8205189f5a15)
 * [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
 * [2022-07-01, 17:51:53](https://news.ycombinator.com/item?id=31950097) - [Uzi Nissan (nissan.com) died of covid July 2020 and the website is now down](http://www.nissan.com/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available](http://www.brutman.com/mTCP/mTCP.html)
-* [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How much health insurers pay for almost everything is about to go public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 15:51:01](https://news.ycombinator.com/item?id=31948168) - [Ask HN: Why not have reverse life insurance that rewards longevity?](https://news.ycombinator.com/item?id=31948168)
@@ -29,7 +30,6 @@
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 01:42:39](https://news.ycombinator.com/item?id=31941138) - [From under to on the rocks: Invasive crabs become whiskey](https://apnews.com/article/new-hampshire-climate-and-environment-9a3b69102c84d5e1a809617b3843c48e)
 * [2022-06-30, 21:07:28](https://news.ycombinator.com/item?id=31938609) - [An Excavation in the Sea Depths Recovers Hercules from the Afterlife](https://www.nytimes.com/2022/06/30/science/shipwreck-ancient-roman-hercules.html)
-* [2022-06-30, 06:46:31](https://news.ycombinator.com/item?id=31929346) - [What? More 8-Bit Microcontrollers?](https://www.eejournal.com/article/what-more-8-bit-microcontrollers/)
 
 ## [Archives](archives/index.md)
 
