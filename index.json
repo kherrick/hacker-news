@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-07-01, 01:56:22",
+      "https://news.ycombinator.com/item?id=31941264"
+    ],
+    [
+      "Use of special characters in usernames on YouTube has been limited",
+      "https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 00:55:26",
+      "https://news.ycombinator.com/item?id=31940765"
+    ],
+    [
+      "Wayland is not ready as a 1:1 compatible Xorg replacement just yet",
+      "https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 00:23:59",
       "https://news.ycombinator.com/item?id=31940567"
     ],
     [
-      "France bans veggie ′steaks,′ ′sausages′",
+      "France bans veggie ′steaks,′ ′sausages′ to describe vegetarian products",
       "https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 23:57:41",
+      "https://news.ycombinator.com/item?id=31940321"
+    ],
+    [
+      "Pronunciation Guide for Unix",
+      "https://ss64.com/bash/syntax-pronounce.html"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 23:52:48",
+      "https://news.ycombinator.com/item?id=31940277"
+    ],
+    [
+      "Steelmanning: Discover the truth by helping your opponent",
+      "https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/"
+    ]
+  ],
+  [
+    [
+      "2022-06-30, 23:24:37",
+      "https://news.ycombinator.com/item?id=31940030"
+    ],
+    [
+      "Kaspersky: Poorly detected backdoor targeting governments and NGOs around globe",
+      "https://www.kaspersky.com/about/press-releases/2022_kaspersky-discovers-poorly-detected-backdoor-targeting-governments-and-ngos-around-the-globe"
     ]
   ],
   [
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31939983"
     ],
     [
-      "Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco",
+      "Driverless robotaxi fleet paralyzed for hours in San Francisco",
       "https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/"
     ]
   ],
@@ -71,12 +121,12 @@
   ],
   [
     [
-      "2022-06-30, 20:43:40",
-      "https://news.ycombinator.com/item?id=31938350"
+      "2022-06-30, 20:43:49",
+      "https://news.ycombinator.com/item?id=31938353"
     ],
     [
-      "Police sweep Google searches to find suspects; facing its first legal challenge",
-      "https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749"
+      "The Perils of Audience Capture",
+      "https://gurwinder.substack.com/p/the-perils-of-audience-capture"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2022-06-30, 14:00:09",
-      "https://news.ycombinator.com/item?id=31932434"
-    ],
-    [
-      "Show HN: Featureform – An open-source Feature Store for ML",
-      "https://github.com/featureform/featureform"
-    ]
-  ],
-  [
-    [
       "2022-06-30, 13:59:20",
       "https://news.ycombinator.com/item?id=31932423"
     ],
@@ -181,42 +221,22 @@
   ],
   [
     [
-      "2022-06-30, 13:44:02",
-      "https://news.ycombinator.com/item?id=31932250"
+      "2022-06-30, 11:07:13",
+      "https://news.ycombinator.com/item?id=31930935"
     ],
     [
-      "Give up GitHub: The time has come",
-      "https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/"
+      "Ask HN: Where and how do you find your early adoptors?",
+      "https://news.ycombinator.com/item?id=31930935"
     ]
   ],
   [
     [
-      "2022-06-30, 10:37:59",
-      "https://news.ycombinator.com/item?id=31930718"
+      "2022-06-30, 08:10:47",
+      "https://news.ycombinator.com/item?id=31929897"
     ],
     [
-      "OpenBSD has two new C compilers: chibicc and kefir",
-      "https://briancallahan.net/blog/20220629.html"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 09:39:56",
-      "https://news.ycombinator.com/item?id=31930384"
-    ],
-    [
-      "Unity is laying off hundreds of employees",
-      "https://www.protocol.com/bulletins/unity-layoffs-game-engine"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 07:37:19",
-      "https://news.ycombinator.com/item?id=31929700"
-    ],
-    [
-      "Navigate ASTs with x-path-like queries",
-      "https://github.com/rse/astq"
+      "Long Live Software Easter Eggs",
+      "https://queue.acm.org/detail.cfm?id=3534857"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Can a Corporation “Own” a Color?",
       "https://thehustle.co/can-a-corporation-trademark-a-color/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 14:45:32",
-      "https://news.ycombinator.com/item?id=31920870"
-    ],
-    [
-      "Project Ideas",
-      "https://ftxfuturefund.org/projects/"
-    ]
-  ],
-  [
-    [
-      "2022-06-29, 02:52:49",
-      "https://news.ycombinator.com/item?id=31915925"
-    ],
-    [
-      "Cell Lang: Why yet another programming language?",
-      "https://www.cell-lang.net/faq.html"
     ]
   ]
 ]
