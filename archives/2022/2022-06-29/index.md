@@ -22,6 +22,7 @@
 * [2022-06-29, 18:36:57](https://news.ycombinator.com/item?id=31924052) - [Compound pejoratives on Reddit – from buttface to wankpuffin](http://colinmorris.github.io/blog/compound-curse-words)
 * [2022-06-29, 17:49:51](https://news.ycombinator.com/item?id=31923483) - [FCC asks Google, Apple to remove TikTok](https://www.cbc.ca/news/business/tiktok-fcc-1.6505269)
 * [2022-06-29, 17:46:27](https://news.ycombinator.com/item?id=31923429) - [Things I wish everyone knew about Git (Part I)](https://blog.plover.com/2022/06/29/#tips)
+* [2022-06-29, 17:38:47](https://news.ycombinator.com/item?id=31923335) - [It Was a Dark and Stormy Night](https://www.historytoday.com/archive/out-margins/it-was-dark-and-stormy-night)
 * [2022-06-29, 17:15:47](https://news.ycombinator.com/item?id=31923010) - [Cycles of History: On Jody Rosen’s “Two Wheels Good”](https://lareviewofbooks.org/article/cycles-of-history-on-jody-rosens-two-wheels-good/)
 * [2022-06-29, 17:01:16](https://news.ycombinator.com/item?id=31922841) - [GiveCampus (YC S15, profitable since 2016) Is Hiring first Sr SRE](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
 * [2022-06-29, 17:00:14](https://news.ycombinator.com/item?id=31922828) - [Battersea Power Station in London Unveils the Newly Restored Control Room A](https://batterseapowerstation.co.uk/news/article/battersea-power-station-unveils-newly-restored-control-room-a)
