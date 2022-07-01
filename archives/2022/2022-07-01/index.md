@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
+* [2022-07-01, 22:53:35](https://news.ycombinator.com/item?id=31954053) - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 * [2022-07-01, 22:09:36](https://news.ycombinator.com/item?id=31953662) - [The GPU Shortage Is Over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
 * [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
@@ -24,6 +26,7 @@
 * [2022-07-01, 17:51:53](https://news.ycombinator.com/item?id=31950097) - [Uzi Nissan (Nissan.com) died of Covid July 2020 and the website is now down](http://www.nissan.com/)
 * [2022-07-01, 17:36:54](https://news.ycombinator.com/item?id=31949893) - [Mark Zuckerberg: We’re ‘turning up the heat’ at Meta so employees will quit](https://nypost.com/2022/07/01/mark-zuckerberg-meta-wants-to-oust-workers-who-shouldnt-be-here/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
+* [2022-07-01, 17:18:01](https://news.ycombinator.com/item?id=31949621) - [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
