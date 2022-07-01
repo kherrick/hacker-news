@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+* [2022-07-01, 20:58:11](https://news.ycombinator.com/item?id=31952799) - [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
+* [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
-* [2022-07-01, 20:31:48](https://news.ycombinator.com/item?id=31952426) - [Pokemon Go Creator Niantic Cancels Four Projects, Cuts 8% of Staff](https://www.bloomberg.com/news/articles/2022-06-29/pokemon-go-creator-niantic-cancels-four-projects-cuts-jobs)
 * [2022-07-01, 20:28:37](https://news.ycombinator.com/item?id=31952379) - [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
 * [2022-07-01, 20:12:22](https://news.ycombinator.com/item?id=31952132) - [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
 * [2022-07-01, 19:41:39](https://news.ycombinator.com/item?id=31951683) - [Voyager Digital suspends trading, deposits and withdrawals](https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html)
@@ -14,7 +15,6 @@
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How much health insurers pay for almost everything is about to go public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
-* [2022-07-01, 15:51:01](https://news.ycombinator.com/item?id=31948168) - [Ask HN: Why not have reverse life insurance that rewards longevity?](https://news.ycombinator.com/item?id=31948168)
 * [2022-07-01, 15:35:20](https://news.ycombinator.com/item?id=31947895) - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
