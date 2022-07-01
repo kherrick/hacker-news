@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
 * [2022-07-01, 20:58:11](https://news.ycombinator.com/item?id=31952799) - [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
 * [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
@@ -23,7 +24,6 @@
 * [2022-07-01, 13:27:12](https://news.ycombinator.com/item?id=31946039) - [Show HN: CSVFiddle – Query CSV files with DuckDB in the browser](https://csvfiddle.io/)
 * [2022-07-01, 13:23:08](https://news.ycombinator.com/item?id=31945994) - [Bonsai Browser is now open source](https://github.com/Bonsai-Desk/bonsai-browser)
 * [2022-07-01, 12:38:56](https://news.ycombinator.com/item?id=31945564) - [Logging in Python like a pro](https://guicommits.com/how-to-log-in-python-like-a-pro/)
-* [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar](https://thewalrus.ca/garlic-in-a-jar/)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms (2014)](https://bost.ocks.org/mike/algorithms/)
