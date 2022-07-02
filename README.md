@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-02, 03:38:00](https://news.ycombinator.com/item?id=31955970) - [Tailscale ate my network (and I love it)](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
+* [2022-07-02, 03:32:27](https://news.ycombinator.com/item?id=31955946) - [Atlanta Fed GDPNow](https://www.atlantafed.org/cqer/research/gdpnow)
+* [2022-07-02, 01:55:19](https://news.ycombinator.com/item?id=31955334) - [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#what-is-a-goto-statement-anyway)
 * [2022-07-02, 00:56:22](https://news.ycombinator.com/item?id=31954938) - [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
 * [2022-07-01, 23:19:01](https://news.ycombinator.com/item?id=31954294) - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
@@ -10,7 +12,6 @@
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
 * [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
-* [2022-07-01, 20:28:37](https://news.ycombinator.com/item?id=31952379) - [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:42:55](https://news.ycombinator.com/item?id=31950899) - [The prospect of an execution: The hidden objects among us](https://gbracha.blogspot.com/2022/06/the-prospect-of-execution-hidden.html)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
@@ -27,7 +28,6 @@
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat Proved the Power of Remote Sensing](https://spectrum.ieee.org/landsat)
-* [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
