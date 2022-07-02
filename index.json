@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-07-02, 18:01:54",
+      "https://news.ycombinator.com/item?id=31961038"
+    ],
+    [
+      "Google now deleting health clinic searches from location history automatically",
+      "https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 17:49:15",
       "https://news.ycombinator.com/item?id=31960962"
     ],
@@ -86,7 +96,7 @@
     ],
     [
       "Yahoo admits mangling e-mail (2002)",
-      "https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm"
+      "http://news.bbc.co.uk/2/hi/science/nature/2138014.stm"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Artificial photosynthesis can produce food without sunshine",
       "https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 20:12:12",
-      "https://news.ycombinator.com/item?id=31952128"
-    ],
-    [
-      "The Log: Real-time data's unifying abstraction (2013)",
-      "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying"
     ]
   ],
   [
