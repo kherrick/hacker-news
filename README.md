@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-02, 02:22:48](https://news.ycombinator.com/item?id=31955479) - [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/)
+* [2022-07-02, 03:38:00](https://news.ycombinator.com/item?id=31955970) - [Tailscale ate my network (and I love it)](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
 * [2022-07-02, 00:56:22](https://news.ycombinator.com/item?id=31954938) - [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
 * [2022-07-01, 23:31:02](https://news.ycombinator.com/item?id=31954401) - [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
 * [2022-07-01, 23:19:01](https://news.ycombinator.com/item?id=31954294) - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
@@ -23,13 +23,13 @@
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life helps make almost half of Earth’s minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 * [2022-07-01, 13:23:08](https://news.ycombinator.com/item?id=31945994) - [Bonsai Browser is now open source](https://github.com/Bonsai-Desk/bonsai-browser)
-* [2022-07-01, 12:38:56](https://news.ycombinator.com/item?id=31945564) - [Logging in Python like a pro](https://guicommits.com/how-to-log-in-python-like-a-pro/)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 07:21:42](https://news.ycombinator.com/item?id=31943420) - [DiscoArt: Create compelling Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
+* [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
 ## [Archives](archives/index.md)
 
