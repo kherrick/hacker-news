@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
+* [2022-07-02, 12:10:09](https://news.ycombinator.com/item?id=31958362) - [UK Goverment keen on 50-year mortgages](https://www.independent.co.uk/news/uk/politics/boris-johnson-mortgages-parents-children-b2113882.html)
 * [2022-07-02, 12:04:39](https://news.ycombinator.com/item?id=31958331) - [Choosing SOFA](https://idiomdrottning.org/sofa)
 * [2022-07-02, 12:01:11](https://news.ycombinator.com/item?id=31958323) - [Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
 * [2022-07-02, 11:41:31](https://news.ycombinator.com/item?id=31958201) - [ShotSpotter defamation lawsuit against VICE has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
