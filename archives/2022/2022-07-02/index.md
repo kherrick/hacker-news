@@ -6,6 +6,7 @@
 
 * [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
+* [2022-07-02, 18:01:54](https://news.ycombinator.com/item?id=31961038) - [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 17:05:55](https://news.ycombinator.com/item?id=31960676) - [Games Done Quick Ocarina of Time beta showcase standing ovation](https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/)
@@ -14,6 +15,7 @@
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
 * [2022-07-02, 15:43:35](https://news.ycombinator.com/item?id=31959981) - [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
 * [2022-07-02, 15:33:20](https://news.ycombinator.com/item?id=31959890) - [Yahoo admits mangling e-mail (2002)](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
+* [2022-07-02, 15:33:20](https://news.ycombinator.com/item?id=31959890) - [Yahoo admits mangling e-mail (2002)](http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
 * [2022-07-02, 15:23:48](https://news.ycombinator.com/item?id=31959800) - [Gunslinger Effect](https://en.wikipedia.org/wiki/Gunslinger_effect)
 * [2022-07-02, 15:09:26](https://news.ycombinator.com/item?id=31959666) - [What Do Lawyers Do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
 * [2022-07-02, 14:31:17](https://news.ycombinator.com/item?id=31959289) - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
