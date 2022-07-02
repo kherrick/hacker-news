@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
 * [2022-07-01, 23:31:02](https://news.ycombinator.com/item?id=31954401) - [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
+* [2022-07-01, 23:19:01](https://news.ycombinator.com/item?id=31954294) - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 * [2022-07-01, 22:53:35](https://news.ycombinator.com/item?id=31954053) - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 * [2022-07-01, 22:11:13](https://news.ycombinator.com/item?id=31953682) - [Tracking Advances in Neural Recording](https://stevenson.lab.uconn.edu/scaling/)
@@ -22,6 +23,7 @@
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
 * [2022-07-01, 18:55:13](https://news.ycombinator.com/item?id=31951050) - [Why the World Economy Hasn’t Collapsed Yet](https://thehonestsorcerer.medium.com/why-the-world-economy-hasnt-collapsed-yet-8205189f5a15)
+* [2022-07-01, 18:42:55](https://news.ycombinator.com/item?id=31950899) - [The prospect of an execution: The hidden objects among us](https://gbracha.blogspot.com/2022/06/the-prospect-of-execution-hidden.html)
 * [2022-07-01, 18:09:34](https://news.ycombinator.com/item?id=31950380) - [Homeland Security sends warning letter due bad tweet language](https://twitter.com/budweiserbreath/status/1542700633068916737)
 * [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [Google’s Android Automotive OS is coming to BMW cars next year](https://www.theverge.com/2022/6/30/23189642/bmw-android-automotive-operating-system-adoption)
 * [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
@@ -73,6 +75,7 @@
 * [2022-07-01, 06:47:25](https://news.ycombinator.com/item?id=31943199) - [Early Times (Multiplication)](https://www.futilitycloset.com/2022/06/28/early-times/)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 06:05:09](https://news.ycombinator.com/item?id=31942933) - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
+* [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Star Minecraft mod creator Technoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 * [2022-07-01, 03:16:10](https://news.ycombinator.com/item?id=31941887) - [Doom Builder](http://doombuilder.com/)
 * [2022-07-01, 03:00:14](https://news.ycombinator.com/item?id=31941777) - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
