@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
+* [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Rich Hickey – Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+* [2022-07-02, 09:21:00](https://news.ycombinator.com/item?id=31957477) - [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
 * [2022-07-02, 09:02:07](https://news.ycombinator.com/item?id=31957389) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 * [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
@@ -15,9 +17,8 @@
 * [2022-07-01, 22:53:35](https://news.ycombinator.com/item?id=31954053) - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 * [2022-07-01, 22:09:36](https://news.ycombinator.com/item?id=31953662) - [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
 * [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
-* [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+* [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
-* [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 * [2022-07-01, 17:18:01](https://news.ycombinator.com/item?id=31949621) - [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
 * [2022-07-01, 16:17:18](https://news.ycombinator.com/item?id=31948661) - [Broken Sword: The Shadow of the Templars](https://www.filfre.net/2022/07/broken-sword-the-shadow-of-the-templars/)
@@ -29,7 +30,6 @@
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat proved the power of remote sensing](https://spectrum.ieee.org/landsat)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-07-01, 01:35:34](https://news.ycombinator.com/item?id=31941089) - [Guarding Against Broken Encapsulation](https://blog.sunfishcode.online/broken-encapsulation/)
-* [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
+* [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Rich Hickey – Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+* [2022-07-02, 09:21:00](https://news.ycombinator.com/item?id=31957477) - [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
 * [2022-07-02, 09:02:07](https://news.ycombinator.com/item?id=31957389) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 * [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
