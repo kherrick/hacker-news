@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
