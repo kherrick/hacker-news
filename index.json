@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2022-07-02, 03:32:27",
-      "https://news.ycombinator.com/item?id=31955946"
-    ],
-    [
-      "Atlanta Fed GDPNow",
-      "https://www.atlantafed.org/cqer/research/gdpnow"
-    ]
-  ],
-  [
-    [
       "2022-07-02, 01:55:19",
       "https://news.ycombinator.com/item?id=31955334"
     ],
     [
-      "Notes on structured concurrency, or: Go statement considered harmful",
-      "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#what-is-a-goto-statement-anyway"
+      "Notes on structured concurrency, or: Go statement considered harmful (2018)",
+      "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2022-07-01, 18:42:55",
-      "https://news.ycombinator.com/item?id=31950899"
-    ],
-    [
-      "The prospect of an execution: The hidden objects among us",
-      "https://gbracha.blogspot.com/2022/06/the-prospect-of-execution-hidden.html"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 17:25:30",
       "https://news.ycombinator.com/item?id=31949731"
     ],
@@ -197,6 +177,16 @@
     [
       "Ask HN: Who is hiring? (July 2022)",
       "https://news.ycombinator.com/item?id=31947297"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 15:00:13",
+      "https://news.ycombinator.com/item?id=31947295"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (July 2022)",
+      "https://news.ycombinator.com/item?id=31947295"
     ]
   ],
   [
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=31941873"
     ],
     [
-      "Landsat Proved the Power of Remote Sensing",
+      "Landsat proved the power of remote sensing",
       "https://spectrum.ieee.org/landsat"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 02:24:00",
+      "https://news.ycombinator.com/item?id=31941480"
+    ],
+    [
+      "A quick history of data fetching in JavaScript",
+      "https://codeamigo.dev/lessons/232"
     ]
   ],
   [
