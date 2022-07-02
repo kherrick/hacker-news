@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
+* [2022-07-02, 13:21:09](https://news.ycombinator.com/item?id=31958757) - [Tell HN: Please stop making more DSLs](https://news.ycombinator.com/item?id=31958757)
+* [2022-07-02, 13:14:07](https://news.ycombinator.com/item?id=31958715) - [Are we too many people or too few?](http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html)
 * [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
 * [2022-07-02, 12:10:09](https://news.ycombinator.com/item?id=31958362) - [UK Goverment keen on 50-year mortgages](https://www.independent.co.uk/news/uk/politics/boris-johnson-mortgages-parents-children-b2113882.html)
@@ -24,6 +27,7 @@
 * [2022-07-02, 08:00:42](https://news.ycombinator.com/item?id=31957118) - [Goodbye, Feedly](https://erikgahner.dk/2022/goodbye-feedly/)
 * [2022-07-02, 07:50:15](https://news.ycombinator.com/item?id=31957068) - [Artificial photosynthesis can produce food without sunshine](https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine)
 * [2022-07-02, 07:47:23](https://news.ycombinator.com/item?id=31957059) - [Ask HN: What's the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
+* [2022-07-02, 07:35:48](https://news.ycombinator.com/item?id=31957004) - [Doctor Fortran in “It Takes All KINDs” (2017)](https://stevelionel.com/drfortran/2017/03/27/doctor-fortran-in-it-takes-all-kinds/)
 * [2022-07-02, 07:19:49](https://news.ycombinator.com/item?id=31956947) - ['Cryptoqueen' Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
 * [2022-07-02, 05:55:28](https://news.ycombinator.com/item?id=31956626) - [Leading vs. Participating](https://www.subbu.org/articles/2021/leading-vs-participating/)
 * [2022-07-02, 03:38:00](https://news.ycombinator.com/item?id=31955970) - [Tailscale ate my network (and I love it)](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
