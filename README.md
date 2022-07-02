@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-02, 22:00:55](https://news.ycombinator.com/item?id=31962854) - [Apple's Entry-Level M2 MacBook Pro Turns into a Celeron Under Heavy Load](https://www.extremetech.com/extreme/337646-apples-entry-level-m2-macbook-pro-turns-into-a-celeron-under-heavy-load)
+* [2022-07-02, 22:36:10](https://news.ycombinator.com/item?id=31963092) - [Delta offered $10k to passengers in Grand Rapids to be bumped from flight](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh5W4SEXuMQ4%26fbclid%3DIwAR3tCzCuKCSjOeLKhzIKw1EvDiGOcvRECtLDM03fFcM3T6yk-G8-k22w-Kg&h=AT3-VJgeLa1RwH_FC-Xvc053wip9qPOdzhqaIFn27gQzTec5qz33i2AbcwLGT6Pan1iSBD1yQiv9tH3zsTY8iRmNqxaQ6K9isCL1mEkEZevVCKylk5VcBhZ1DuogsyusO1zHfbxWPbBX4xs6sTpE5McP3vg)
 * [2022-07-02, 21:43:34](https://news.ycombinator.com/item?id=31962745) - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
 * [2022-07-02, 21:38:18](https://news.ycombinator.com/item?id=31962699) - [Ethereum Energy Consumption](https://ethereum.org/en/energy-consumption/)
 * [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
@@ -10,7 +10,6 @@
 * [2022-07-02, 18:56:00](https://news.ycombinator.com/item?id=31961402) - [Kyoto framework is moving to sr.ht from GitHub](https://github.com/kyoto-framework/kyoto)
 * [2022-07-02, 18:33:54](https://news.ycombinator.com/item?id=31961244) - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
 * [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web (2018)](https://pxlnv.com/blog/bullshit-web/)
-* [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [Darktable 4.0](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [The trimodal nature of software salaries in the Netherlands and Europe (2021)](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
@@ -23,6 +22,7 @@
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Open source is not about you (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:38:50](https://news.ycombinator.com/item?id=31957551) - [Scunthorpe Sans, A font that censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
+* [2022-07-02, 08:18:51](https://news.ycombinator.com/item?id=31957210) - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 * [2022-07-01, 13:09:46](https://news.ycombinator.com/item?id=31945863) - [An engineer’s tips for writing documentation devs love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
 * [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
