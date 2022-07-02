@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 22:00:55](https://news.ycombinator.com/item?id=31962854) - [Apple's Entry-Level M2 MacBook Pro Turns into a Celeron Under Heavy Load](https://www.extremetech.com/extreme/337646-apples-entry-level-m2-macbook-pro-turns-into-a-celeron-under-heavy-load)
 * [2022-07-02, 21:43:34](https://news.ycombinator.com/item?id=31962745) - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
 * [2022-07-02, 21:38:18](https://news.ycombinator.com/item?id=31962699) - [Ethereum Energy Consumption](https://ethereum.org/en/energy-consumption/)
 * [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
@@ -22,14 +23,13 @@
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Open source is not about you (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:38:50](https://news.ycombinator.com/item?id=31957551) - [Scunthorpe Sans, A font that censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
-* [2022-07-02, 08:18:51](https://news.ycombinator.com/item?id=31957210) - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 * [2022-07-01, 13:09:46](https://news.ycombinator.com/item?id=31945863) - [An engineer’s tips for writing documentation devs love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
 * [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
+* [2022-07-01, 07:58:21](https://news.ycombinator.com/item?id=31943639) - [Building explainability into the components of machine-learning models](https://news.mit.edu/2022/explainability-machine-learning-0630)
 * [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
-* [2022-07-01, 02:50:59](https://news.ycombinator.com/item?id=31941694) - [The Sordid Past of the Cubic Formula](https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/)
 
 ## [Archives](archives/index.md)
 
