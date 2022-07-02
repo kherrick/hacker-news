@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-02, 13:30:47",
+      "https://news.ycombinator.com/item?id=31958823"
+    ],
+    [
+      "Show HN: A Go framework for your projects",
+      "https://github.com/gocopper/copper"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 13:21:09",
+      "https://news.ycombinator.com/item?id=31958757"
+    ],
+    [
+      "Tell HN: Please stop making more DSLs",
+      "https://news.ycombinator.com/item?id=31958757"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 13:14:07",
+      "https://news.ycombinator.com/item?id=31958715"
+    ],
+    [
+      "Are we too many people or too few?",
+      "http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 12:50:53",
       "https://news.ycombinator.com/item?id=31958597"
     ],
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2022-07-02, 07:19:49",
-      "https://news.ycombinator.com/item?id=31956947"
+      "2022-07-02, 07:35:48",
+      "https://news.ycombinator.com/item?id=31957004"
     ],
     [
-      "'Cryptoqueen' Ruja Ignatova added to FBI most-wanted list over OneCoin scheme",
-      "https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9"
+      "Doctor Fortran in “It Takes All KINDs” (2017)",
+      "https://stevelionel.com/drfortran/2017/03/27/doctor-fortran-in-it-takes-all-kinds/"
     ]
   ],
   [
@@ -187,26 +217,6 @@
     [
       "Notes on structured concurrency, or: Go statement considered harmful (2018)",
       "https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 22:53:35",
-      "https://news.ycombinator.com/item?id=31954053"
-    ],
-    [
-      "Virgil: A fast and lightweight programming language that compiles to WASM",
-      "https://github.com/titzer/virgil"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 20:48:09",
-      "https://news.ycombinator.com/item?id=31952643"
-    ],
-    [
-      "Learn TLA+",
-      "https://www.hillelwayne.com/post/learntla/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Open Circuits – The Inner Beauty of Electronic Components",
       "https://nostarch.com/open-circuits"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 02:23:07",
-      "https://news.ycombinator.com/item?id=31941472"
-    ],
-    [
-      "For productivity geeks, futility is a relief and a starting point",
-      "https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/"
     ]
   ],
   [
