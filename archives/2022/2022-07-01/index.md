@@ -36,6 +36,7 @@
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
+* [2022-07-01, 16:17:18](https://news.ycombinator.com/item?id=31948661) - [Broken Sword: The Shadow of the Templars](https://www.filfre.net/2022/07/broken-sword-the-shadow-of-the-templars/)
 * [2022-07-01, 15:51:01](https://news.ycombinator.com/item?id=31948168) - [Ask HN: Why not have reverse life insurance that rewards longevity?](https://news.ycombinator.com/item?id=31948168)
 * [2022-07-01, 15:35:20](https://news.ycombinator.com/item?id=31947895) - [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
 * [2022-07-01, 15:32:25](https://news.ycombinator.com/item?id=31947839) - [Tell HN: I hate “pull shark” on GitHub](https://news.ycombinator.com/item?id=31947839)
