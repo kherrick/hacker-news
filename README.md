@@ -17,7 +17,6 @@
 * [2022-07-01, 17:18:01](https://news.ycombinator.com/item?id=31949621) - [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP: TCP/IP applications for DOS PCs](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How much health insurers pay for almost everything is about to go public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
-* [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design lessons from guitar pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life helps make almost half of Earth’s minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
@@ -29,6 +28,7 @@
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat proved the power of remote sensing](https://spectrum.ieee.org/landsat)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
+* [2022-07-01, 01:35:34](https://news.ycombinator.com/item?id=31941089) - [Guarding Against Broken Encapsulation](https://blog.sunfishcode.online/broken-encapsulation/)
 * [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
 ## [Archives](archives/index.md)
