@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 22:34:21](https://news.ycombinator.com/item?id=31963070) - [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
 * [2022-07-02, 21:43:34](https://news.ycombinator.com/item?id=31962745) - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
-* [2022-07-02, 21:38:18](https://news.ycombinator.com/item?id=31962699) - [Ethereum Energy Consumption](https://ethereum.org/en/energy-consumption/)
 * [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
 * [2022-07-02, 20:23:46](https://news.ycombinator.com/item?id=31962014) - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 * [2022-07-02, 20:08:38](https://news.ycombinator.com/item?id=31961912) - [The Windows malloc() implementation from MSVCRT is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
