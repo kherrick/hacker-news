@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
 * [2022-07-02, 13:54:46](https://news.ycombinator.com/item?id=31958998) - [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
+* [2022-07-02, 13:48:22](https://news.ycombinator.com/item?id=31958945) - [why I left Android Development after 10 years for Backend](https://levelup.gitconnected.com/why-i-left-android-development-after-10-years-and-became-a-backend-developer-86ebf3595d43?gi=879b0c1492c9)
 * [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
 * [2022-07-02, 13:21:09](https://news.ycombinator.com/item?id=31958757) - [Tell HN: Please stop making more DSLs](https://news.ycombinator.com/item?id=31958757)
 * [2022-07-02, 13:14:07](https://news.ycombinator.com/item?id=31958715) - [Are we too many people or too few?](http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html)

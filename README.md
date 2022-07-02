@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-02, 13:54:46](https://news.ycombinator.com/item?id=31958998) - [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
+* [2022-07-02, 13:48:22](https://news.ycombinator.com/item?id=31958945) - [why I left Android Development after 10 years for Backend](https://levelup.gitconnected.com/why-i-left-android-development-after-10-years-and-became-a-backend-developer-86ebf3595d43?gi=879b0c1492c9)
 * [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
 * [2022-07-02, 13:14:07](https://news.ycombinator.com/item?id=31958715) - [Are we too many people or too few?](http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html)
 * [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
@@ -13,7 +14,6 @@
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:38:50](https://news.ycombinator.com/item?id=31957551) - [Scunthorpe Sans, A font that censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
-* [2022-07-02, 09:21:00](https://news.ycombinator.com/item?id=31957477) - [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
 * [2022-07-02, 08:18:51](https://news.ycombinator.com/item?id=31957210) - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
 * [2022-07-02, 08:00:42](https://news.ycombinator.com/item?id=31957118) - [Goodbye, Feedly](https://erikgahner.dk/2022/goodbye-feedly/)
