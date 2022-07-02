@@ -79,6 +79,7 @@
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Star Minecraft mod creator Technoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 * [2022-07-01, 03:16:10](https://news.ycombinator.com/item?id=31941887) - [Doom Builder](http://doombuilder.com/)
+* [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat Proved the Power of Remote Sensing](https://spectrum.ieee.org/landsat)
 * [2022-07-01, 03:00:14](https://news.ycombinator.com/item?id=31941777) - [Meta slashes hiring plans, girds for 'fierce' headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
 * [2022-07-01, 02:46:06](https://news.ycombinator.com/item?id=31941647) - [The Supreme Court’s Latest Decision Is a Blow to Stopping Climate Change](https://www.scientificamerican.com/article/the-supreme-courts-latest-decision-is-a-blow-for-stopping-climate-change/)
 * [2022-07-01, 02:41:24](https://news.ycombinator.com/item?id=31941607) - [The Feynman Technique 2.0: How to Take Your Learning to the Next Level](https://themindcollection.com/the-feynman-technique/)
