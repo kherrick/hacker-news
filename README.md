@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-02, 22:34:21](https://news.ycombinator.com/item?id=31963070) - [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
+* [2022-07-02, 22:33:57](https://news.ycombinator.com/item?id=31963065) - [The dawning of the Age of Apple Aquarius (2019)](http://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html)
 * [2022-07-02, 21:43:34](https://news.ycombinator.com/item?id=31962745) - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
 * [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
 * [2022-07-02, 20:23:46](https://news.ycombinator.com/item?id=31962014) - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 * [2022-07-02, 20:08:38](https://news.ycombinator.com/item?id=31961912) - [The Windows malloc() implementation from MSVCRT is slow](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
-* [2022-07-02, 19:11:52](https://news.ycombinator.com/item?id=31961502) - [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
 * [2022-07-02, 18:56:00](https://news.ycombinator.com/item?id=31961402) - [Kyoto framework is moving to sr.ht from GitHub](https://github.com/kyoto-framework/kyoto)
 * [2022-07-02, 18:33:54](https://news.ycombinator.com/item?id=31961244) - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
 * [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web (2018)](https://pxlnv.com/blog/bullshit-web/)
@@ -21,7 +21,6 @@
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Open source is not about you (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:38:50](https://news.ycombinator.com/item?id=31957551) - [Scunthorpe Sans, A font that censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
-* [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
 * [2022-07-01, 13:09:46](https://news.ycombinator.com/item?id=31945863) - [An engineer’s tips for writing documentation devs love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
 * [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
@@ -30,6 +29,7 @@
 * [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
 * [2022-07-01, 07:58:21](https://news.ycombinator.com/item?id=31943639) - [Building explainability into the components of machine-learning models](https://news.mit.edu/2022/explainability-machine-learning-0630)
 * [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
+* [2022-07-01, 02:50:59](https://news.ycombinator.com/item?id=31941694) - [The Sordid Past of the Cubic Formula](https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/)
 
 ## [Archives](archives/index.md)
 

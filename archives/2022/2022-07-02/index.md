@@ -6,6 +6,7 @@
 
 * [2022-07-02, 22:36:10](https://news.ycombinator.com/item?id=31963092) - [Delta offered $10k to passengers in Grand Rapids to be bumped from flight](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh5W4SEXuMQ4%26fbclid%3DIwAR3tCzCuKCSjOeLKhzIKw1EvDiGOcvRECtLDM03fFcM3T6yk-G8-k22w-Kg&h=AT3-VJgeLa1RwH_FC-Xvc053wip9qPOdzhqaIFn27gQzTec5qz33i2AbcwLGT6Pan1iSBD1yQiv9tH3zsTY8iRmNqxaQ6K9isCL1mEkEZevVCKylk5VcBhZ1DuogsyusO1zHfbxWPbBX4xs6sTpE5McP3vg)
 * [2022-07-02, 22:34:21](https://news.ycombinator.com/item?id=31963070) - [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
+* [2022-07-02, 22:33:57](https://news.ycombinator.com/item?id=31963065) - [The dawning of the Age of Apple Aquarius (2019)](http://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html)
 * [2022-07-02, 22:00:55](https://news.ycombinator.com/item?id=31962854) - [Apple's Entry-Level M2 MacBook Pro Turns into a Celeron Under Heavy Load](https://www.extremetech.com/extreme/337646-apples-entry-level-m2-macbook-pro-turns-into-a-celeron-under-heavy-load)
 * [2022-07-02, 21:43:34](https://news.ycombinator.com/item?id=31962745) - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
 * [2022-07-02, 21:38:18](https://news.ycombinator.com/item?id=31962699) - [Ethereum Energy Consumption](https://ethereum.org/en/energy-consumption/)
