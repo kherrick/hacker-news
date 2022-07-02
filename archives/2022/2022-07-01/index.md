@@ -78,6 +78,7 @@
 * [2022-07-01, 07:21:42](https://news.ycombinator.com/item?id=31943420) - [DiscoArt: Create compelling Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
 * [2022-07-01, 06:47:25](https://news.ycombinator.com/item?id=31943199) - [Early Times (Multiplication)](https://www.futilitycloset.com/2022/06/28/early-times/)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
+* [2022-07-01, 06:35:28](https://news.ycombinator.com/item?id=31943131) - [Mponeng Gold Mine](https://en.wikipedia.org/wiki/Mponeng_Gold_Mine)
 * [2022-07-01, 06:05:09](https://news.ycombinator.com/item?id=31942933) - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
 * [2022-07-01, 05:50:18](https://news.ycombinator.com/item?id=31942835) - [Making buildings, cars and planes from materials based on plant fibres](https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
