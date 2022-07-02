@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=31959666"
     ],
     [
-      "What Do Lawyers Do?",
+      "What do lawyers do?",
       "https://nihal.bearblog.dev/what-do-lawyers-do/"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 14:31:17",
+      "https://news.ycombinator.com/item?id=31959289"
+    ],
+    [
+      "The new wave of React state management",
+      "https://frontendmastery.com/posts/the-new-wave-of-react-state-management/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31958945"
     ],
     [
-      "why I left Android Development after 10 years for Backend",
+      "I quit Android Development after 10 years and what I plan to do now",
       "https://levelup.gitconnected.com/why-i-left-android-development-after-10-years-and-became-a-backend-developer-86ebf3595d43?gi=879b0c1492c9"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=31958536"
     ],
     [
-      "rsync, article 3: How does rsync work?",
+      "How does rsync work?",
       "https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=31958201"
     ],
     [
-      "ShotSpotter defamation lawsuit against VICE has been dismissed",
+      "ShotSpotter defamation lawsuit against Vice has been dismissed",
       "https://twitter.com/mikeburesh/status/1542944407426572289"
     ]
   ],
@@ -97,6 +107,16 @@
     [
       "Python for Data Analysis, 3rd Edition – The Open Access Version Online",
       "https://wesmckinney.com/book/"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 10:45:36",
+      "https://news.ycombinator.com/item?id=31957863"
+    ],
+    [
+      "Ask HN: Am I incompotent for web development?",
+      "https://news.ycombinator.com/item?id=31957863"
     ]
   ],
   [
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=31957554"
     ],
     [
-      "Open Source is Not About You (2018)",
+      "Open source is not about you (2018)",
       "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
     ]
   ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-07-01, 20:48:09",
-      "https://news.ycombinator.com/item?id=31952643"
-    ],
-    [
-      "Learn TLA+",
-      "https://www.hillelwayne.com/post/learntla/"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 20:12:12",
       "https://news.ycombinator.com/item?id=31952128"
     ],
     [
       "The Log: Real-time data's unifying abstraction (2013)",
       "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 17:25:30",
-      "https://news.ycombinator.com/item?id=31949731"
-    ],
-    [
-      "What's the deal with all those weird wrong-number texts?",
-      "https://maxread.substack.com/p/whats-the-deal-with-all-those-weird"
     ]
   ],
   [
