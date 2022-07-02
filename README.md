@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
 * [2022-07-02, 12:10:09](https://news.ycombinator.com/item?id=31958362) - [UK Goverment keen on 50-year mortgages](https://www.independent.co.uk/news/uk/politics/boris-johnson-mortgages-parents-children-b2113882.html)
 * [2022-07-02, 12:04:39](https://news.ycombinator.com/item?id=31958331) - [Choosing SOFA](https://idiomdrottning.org/sofa)
@@ -21,7 +22,6 @@
 * [2022-07-01, 22:53:35](https://news.ycombinator.com/item?id=31954053) - [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
-* [2022-07-01, 17:18:01](https://news.ycombinator.com/item?id=31949621) - [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
 * [2022-07-01, 16:17:18](https://news.ycombinator.com/item?id=31948661) - [Broken Sword: The Shadow of the Templars](https://www.filfre.net/2022/07/broken-sword-the-shadow-of-the-templars/)
 * [2022-07-01, 12:29:06](https://news.ycombinator.com/item?id=31945489) - [Meiosis is all you need](https://denovo.substack.com/p/meiosis-is-all-you-need)
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
