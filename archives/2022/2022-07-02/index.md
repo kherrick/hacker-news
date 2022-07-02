@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 09:02:07](https://news.ycombinator.com/item?id=31957389) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 * [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
 * [2022-07-02, 08:18:51](https://news.ycombinator.com/item?id=31957210) - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)

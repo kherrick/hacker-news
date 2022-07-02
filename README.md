@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 09:02:07](https://news.ycombinator.com/item?id=31957389) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 * [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
 * [2022-07-02, 08:18:51](https://news.ycombinator.com/item?id=31957210) - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
@@ -19,17 +20,16 @@
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 * [2022-07-01, 17:18:01](https://news.ycombinator.com/item?id=31949621) - [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
-* [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life helps make almost half of Earth’s minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 12:29:06](https://news.ycombinator.com/item?id=31945489) - [Meiosis is all you need](https://denovo.substack.com/p/meiosis-is-all-you-need)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
 * [2022-07-01, 07:21:42](https://news.ycombinator.com/item?id=31943420) - [DiscoArt: Create compelling Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
+* [2022-07-01, 05:50:18](https://news.ycombinator.com/item?id=31942835) - [Making buildings, cars and planes from materials based on plant fibres](https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat proved the power of remote sensing](https://spectrum.ieee.org/landsat)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-07-01, 01:35:34](https://news.ycombinator.com/item?id=31941089) - [Guarding Against Broken Encapsulation](https://blog.sunfishcode.online/broken-encapsulation/)
-* [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
 ## [Archives](archives/index.md)
 
