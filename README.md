@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-07-02, 20:23:46](https://news.ycombinator.com/item?id=31962014) - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 * [2022-07-02, 20:08:38](https://news.ycombinator.com/item?id=31961912) - [The Windows Malloc() Implementation Is a Trash Fire](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
 * [2022-07-02, 19:11:52](https://news.ycombinator.com/item?id=31961502) - [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
@@ -10,7 +11,6 @@
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 17:05:55](https://news.ycombinator.com/item?id=31960676) - [Games Done Quick Ocarina of Time beta showcase standing ovation](https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/)
-* [2022-07-02, 17:00:33](https://news.ycombinator.com/item?id=31960639) - [Streak (YC W22) is hiring customer success specialists to delight users (remote)](https://www.streak.com/careers/customer-success-specialist-remote)
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
 * [2022-07-02, 15:33:20](https://news.ycombinator.com/item?id=31959890) - [Yahoo admits mangling e-mail (2002)](http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
 * [2022-07-02, 14:31:17](https://news.ycombinator.com/item?id=31959289) - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)

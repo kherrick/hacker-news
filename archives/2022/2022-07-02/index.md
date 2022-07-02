@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC](https://skio.com/careers/)
 * [2022-07-02, 20:23:46](https://news.ycombinator.com/item?id=31962014) - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 * [2022-07-02, 20:19:12](https://news.ycombinator.com/item?id=31961992) - [Ask HN: I’m 41 and still unmarried. What should I do?](https://news.ycombinator.com/item?id=31961992)
 * [2022-07-02, 20:08:38](https://news.ycombinator.com/item?id=31961912) - [The Windows Malloc() Implementation Is a Trash Fire](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
