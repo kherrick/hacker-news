@@ -79,6 +79,7 @@
 * [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
 * [2022-07-01, 07:47:09](https://news.ycombinator.com/item?id=31943572) - [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/)
+* [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [How Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
 * [2022-07-01, 07:31:13](https://news.ycombinator.com/item?id=31943478) - [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
 * [2022-07-01, 07:21:42](https://news.ycombinator.com/item?id=31943420) - [DiscoArt: Create compelling Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
 * [2022-07-01, 06:55:13](https://news.ycombinator.com/item?id=31943241) - [Artists Get Paid from Streaming](https://pudding.cool/2022/06/streaming/)

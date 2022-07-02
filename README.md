@@ -27,7 +27,7 @@
 * [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
-* [2022-07-01, 06:55:13](https://news.ycombinator.com/item?id=31943241) - [Artists Get Paid from Streaming](https://pudding.cool/2022/06/streaming/)
+* [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [How Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
 * [2022-07-01, 06:35:28](https://news.ycombinator.com/item?id=31943131) - [Mponeng Gold Mine](https://en.wikipedia.org/wiki/Mponeng_Gold_Mine)
 * [2022-07-01, 02:50:59](https://news.ycombinator.com/item?id=31941694) - [The Sordid Past of the Cubic Formula](https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/)
 
