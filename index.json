@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-07-02, 09:39:39",
+      "https://news.ycombinator.com/item?id=31957554"
+    ],
+    [
+      "Rich Hickey – Open Source is Not About You (2018)",
+      "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 09:21:00",
+      "https://news.ycombinator.com/item?id=31957477"
+    ],
+    [
+      "Mastodon Branding Update",
+      "https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 09:02:07",
       "https://news.ycombinator.com/item?id=31957389"
     ],
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2022-07-01, 21:00:56",
-      "https://news.ycombinator.com/item?id=31952845"
+      "2022-07-01, 20:50:22",
+      "https://news.ycombinator.com/item?id=31952678"
     ],
     [
-      "Mozart Data (YC S20) is hiring a senior front end engineer",
-      "https://www.mozartdata.com/senior-software-engineer-frontend"
+      "Show HN: Redbean 2.0 in Docker",
+      "https://github.com/kissgyorgy/redbean-docker"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Learn TLA+",
       "https://www.hillelwayne.com/post/learntla/"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 19:14:23",
-      "https://news.ycombinator.com/item?id=31951308"
-    ],
-    [
-      "Strawberry Pop-Tart Blow-Torches (1994)",
-      "https://www.pmichaud.com/toast/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Guarding Against Broken Encapsulation",
       "https://blog.sunfishcode.online/broken-encapsulation/"
-    ]
-  ],
-  [
-    [
-      "2022-06-30, 21:09:43",
-      "https://news.ycombinator.com/item?id=31938639"
-    ],
-    [
-      "The feisty fog-catchers of Chile",
-      "https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile"
     ]
   ]
 ]
