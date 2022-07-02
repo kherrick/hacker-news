@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-07-01, 23:31:02",
-      "https://news.ycombinator.com/item?id=31954401"
-    ],
-    [
-      "Google will remove user location history for abortion clinic visits",
-      "https://www.washingtonpost.com/technology/2022/07/01/google-abortion/"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 23:19:01",
       "https://news.ycombinator.com/item?id=31954294"
     ],
@@ -277,6 +267,16 @@
     [
       "Landsat Proved the Power of Remote Sensing",
       "https://spectrum.ieee.org/landsat"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 02:24:00",
+      "https://news.ycombinator.com/item?id=31941480"
+    ],
+    [
+      "A quick history of data fetching in JavaScript",
+      "https://codeamigo.dev/lessons/232"
     ]
   ],
   [
