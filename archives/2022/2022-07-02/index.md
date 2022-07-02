@@ -9,6 +9,7 @@
 * [2022-07-02, 20:19:12](https://news.ycombinator.com/item?id=31961992) - [Ask HN: I’m 41 and still unmarried. What should I do?](https://news.ycombinator.com/item?id=31961992)
 * [2022-07-02, 20:08:38](https://news.ycombinator.com/item?id=31961912) - [The Windows Malloc() Implementation Is a Trash Fire](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
 * [2022-07-02, 19:11:52](https://news.ycombinator.com/item?id=31961502) - [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
+* [2022-07-02, 18:56:00](https://news.ycombinator.com/item?id=31961402) - [Kyoto framework is moving to sr.ht from GitHub](https://github.com/kyoto-framework/kyoto)
 * [2022-07-02, 18:33:54](https://news.ycombinator.com/item?id=31961244) - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
 * [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
