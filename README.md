@@ -20,7 +20,6 @@
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How much health insurers pay for almost everything is about to go public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design lessons from guitar pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
-* [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life helps make almost half of Earth’s minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
@@ -28,6 +27,7 @@
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat Proved the Power of Remote Sensing](https://spectrum.ieee.org/landsat)
+* [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
