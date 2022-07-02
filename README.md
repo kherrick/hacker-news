@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 18:33:54](https://news.ycombinator.com/item?id=31961244) - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
 * [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web (2018)](https://pxlnv.com/blog/bullshit-web/)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 18:01:54](https://news.ycombinator.com/item?id=31961038) - [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
@@ -13,7 +14,6 @@
 * [2022-07-02, 15:23:48](https://news.ycombinator.com/item?id=31959800) - [Gunslinger Effect](https://en.wikipedia.org/wiki/Gunslinger_effect)
 * [2022-07-02, 14:31:17](https://news.ycombinator.com/item?id=31959289) - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 * [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: Copper – A Go framework for your projects](https://github.com/gocopper/copper)
-* [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why your next home computer should be an old Xeon workstation (2019)](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
 * [2022-07-02, 10:53:05](https://news.ycombinator.com/item?id=31957908) - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
