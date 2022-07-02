@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 10:45:36](https://news.ycombinator.com/item?id=31957863) - [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Rich Hickey – Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:21:00](https://news.ycombinator.com/item?id=31957477) - [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
