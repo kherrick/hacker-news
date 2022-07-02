@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 17:05:55](https://news.ycombinator.com/item?id=31960676) - [Games Done Quick Ocarina of Time beta showcase standing ovation](https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/)
@@ -20,7 +21,6 @@
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
 * [2022-07-02, 08:18:51](https://news.ycombinator.com/item?id=31957210) - [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
 * [2022-07-02, 07:50:15](https://news.ycombinator.com/item?id=31957068) - [Artificial photosynthesis can produce food without sunshine](https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine)
-* [2022-07-02, 03:38:00](https://news.ycombinator.com/item?id=31955970) - [Tailscale ate my network (and I love it)](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
 * [2022-07-01, 20:12:12](https://news.ycombinator.com/item?id=31952128) - [The Log: Real-time data's unifying abstraction (2013)](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [2022-07-01, 16:17:18](https://news.ycombinator.com/item?id=31948661) - [Broken Sword: The Shadow of the Templars](https://www.filfre.net/2022/07/broken-sword-the-shadow-of-the-templars/)
 * [2022-07-01, 13:09:46](https://news.ycombinator.com/item?id=31945863) - [An engineer’s best tips for writing documentation devs love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
