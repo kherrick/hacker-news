@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-02, 12:41:23",
+      "https://news.ycombinator.com/item?id=31958536"
+    ],
+    [
+      "rsync, article 3: How does rsync work?",
+      "https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 12:04:39",
       "https://news.ycombinator.com/item?id=31958331"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=31957554"
     ],
     [
-      "Rich Hickey – Open Source is Not About You (2018)",
+      "Open Source is Not About You (2018)",
       "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-07-01, 21:50:44",
-      "https://news.ycombinator.com/item?id=31953470"
-    ],
-    [
-      "There are no open issues or pull requests on Flask",
-      "https://twitter.com/davidism/status/1542956488355762176"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 20:48:09",
       "https://news.ycombinator.com/item?id=31952643"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-07-01, 08:07:03",
+      "https://news.ycombinator.com/item?id=31943683"
+    ],
+    [
+      "Even when you do succeed, sometimes it pays to try again",
+      "https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 06:35:28",
       "https://news.ycombinator.com/item?id=31943131"
     ],
@@ -277,16 +287,6 @@
     [
       "Open Circuits – The Inner Beauty of Electronic Components",
       "https://nostarch.com/open-circuits"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 02:23:07",
-      "https://news.ycombinator.com/item?id=31941472"
-    ],
-    [
-      "For productivity geeks, futility is a relief and a starting point",
-      "https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/"
     ]
   ],
   [
