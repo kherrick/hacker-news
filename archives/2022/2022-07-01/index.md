@@ -74,6 +74,7 @@
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
+* [2022-07-01, 09:10:51](https://news.ycombinator.com/item?id=31944043) - [Can computers be mathematicians?](https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/)
 * [2022-07-01, 08:54:56](https://news.ycombinator.com/item?id=31943941) - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
 * [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
