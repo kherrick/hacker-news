@@ -15,7 +15,6 @@
 * [2022-07-01, 22:09:36](https://news.ycombinator.com/item?id=31953662) - [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
 * [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
-* [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
@@ -30,6 +29,7 @@
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat proved the power of remote sensing](https://spectrum.ieee.org/landsat)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-07-01, 01:35:34](https://news.ycombinator.com/item?id=31941089) - [Guarding Against Broken Encapsulation](https://blog.sunfishcode.online/broken-encapsulation/)
+* [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
 ## [Archives](archives/index.md)
 
