@@ -14,7 +14,6 @@
 * [2022-07-02, 15:09:26](https://news.ycombinator.com/item?id=31959666) - [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
 * [2022-07-02, 14:31:17](https://news.ycombinator.com/item?id=31959289) - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 * [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: Copper – A Go framework for your projects](https://github.com/gocopper/copper)
-* [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why your next home computer should be an old Xeon workstation (2019)](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
 * [2022-07-02, 10:53:05](https://news.ycombinator.com/item?id=31957908) - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
@@ -28,6 +27,7 @@
 * [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
+* [2022-07-01, 06:55:13](https://news.ycombinator.com/item?id=31943241) - [Artists Get Paid from Streaming](https://pudding.cool/2022/06/streaming/)
 * [2022-07-01, 06:35:28](https://news.ycombinator.com/item?id=31943131) - [Mponeng Gold Mine](https://en.wikipedia.org/wiki/Mponeng_Gold_Mine)
 * [2022-07-01, 02:50:59](https://news.ycombinator.com/item?id=31941694) - [The Sordid Past of the Cubic Formula](https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/)
 
