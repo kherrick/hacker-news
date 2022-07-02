@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 15:43:35](https://news.ycombinator.com/item?id=31959981) - [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
 * [2022-07-02, 15:09:26](https://news.ycombinator.com/item?id=31959666) - [What do lawyers do?](https://nihal.bearblog.dev/what-do-lawyers-do/)
 * [2022-07-02, 14:31:17](https://news.ycombinator.com/item?id=31959289) - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 * [2022-07-02, 13:54:46](https://news.ycombinator.com/item?id=31958998) - [RadioShack reinvents itself as a crypto platform with wild tweets](https://www.washingtonpost.com/business/2022/07/01/radio-shack-tweets/)
-* [2022-07-02, 13:48:22](https://news.ycombinator.com/item?id=31958945) - [I quit Android Development after 10 years and what I plan to do now](https://levelup.gitconnected.com/why-i-left-android-development-after-10-years-and-became-a-backend-developer-86ebf3595d43?gi=879b0c1492c9)
 * [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
 * [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
