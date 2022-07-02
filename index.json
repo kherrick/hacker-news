@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=31961239"
     ],
     [
-      "The Bullshit Web",
+      "The Bullshit Web (2018)",
       "https://pxlnv.com/blog/bullshit-web/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Gunslinger Effect",
       "https://en.wikipedia.org/wiki/Gunslinger_effect"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 15:09:26",
-      "https://news.ycombinator.com/item?id=31959666"
-    ],
-    [
-      "What do lawyers do?",
-      "https://nihal.bearblog.dev/what-do-lawyers-do/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "How the Higgs Boson Ruined Peter Higgs’s Life",
       "https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 09:49:26",
+      "https://news.ycombinator.com/item?id=31944278"
+    ],
+    [
+      "Deprank: Use PageRank to find the most important files in your codebase",
+      "https://github.com/codemix/deprank"
     ]
   ],
   [
