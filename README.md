@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:00:33](https://news.ycombinator.com/item?id=31960639) - [Streak (YC W22) is hiring customer success specialists to delight users (remote)](https://www.streak.com/careers/customer-success-specialist-remote)
 * [2022-07-02, 16:15:08](https://news.ycombinator.com/item?id=31960250) - [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
@@ -11,7 +12,6 @@
 * [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why your next home computer should be an old Xeon workstation (2019)](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
 * [2022-07-02, 12:04:39](https://news.ycombinator.com/item?id=31958331) - [Choosing SOFA](https://idiomdrottning.org/sofa)
-* [2022-07-02, 11:41:31](https://news.ycombinator.com/item?id=31958201) - [ShotSpotter defamation lawsuit against Vice has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
 * [2022-07-02, 10:53:05](https://news.ycombinator.com/item?id=31957908) - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Open source is not about you (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)

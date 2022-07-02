@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:00:33](https://news.ycombinator.com/item?id=31960639) - [Streak (YC W22) is hiring customer success specialists to delight users (remote)](https://www.streak.com/careers/customer-success-specialist-remote)
 * [2022-07-02, 16:15:08](https://news.ycombinator.com/item?id=31960250) - [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
