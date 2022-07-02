@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 16:15:08](https://news.ycombinator.com/item?id=31960250) - [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
+* [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
 * [2022-07-02, 15:43:35](https://news.ycombinator.com/item?id=31959981) - [Pentagon UFO study led by researcher who believes in the supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural#.YsBXmQjyu2A.twitter)
 * [2022-07-02, 15:33:20](https://news.ycombinator.com/item?id=31959890) - [Yahoo admits mangling e-mail (2002)](https://web.archive.org/web/20210126143212/http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
 * [2022-07-02, 15:23:48](https://news.ycombinator.com/item?id=31959800) - [Gunslinger Effect](https://en.wikipedia.org/wiki/Gunslinger_effect)
