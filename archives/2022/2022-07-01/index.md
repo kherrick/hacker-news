@@ -72,6 +72,7 @@
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
 * [2022-07-01, 08:54:56](https://news.ycombinator.com/item?id=31943941) - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
+* [2022-07-01, 08:07:03](https://news.ycombinator.com/item?id=31943683) - [Even when you do succeed, sometimes it pays to try again](https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/)
 * [2022-07-01, 07:47:09](https://news.ycombinator.com/item?id=31943572) - [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
 * [2022-07-01, 07:40:31](https://news.ycombinator.com/item?id=31943531) - [Visualizing Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/)
 * [2022-07-01, 07:31:13](https://news.ycombinator.com/item?id=31943478) - [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
