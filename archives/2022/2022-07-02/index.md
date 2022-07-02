@@ -8,5 +8,6 @@
 * [2022-07-02, 03:32:27](https://news.ycombinator.com/item?id=31955946) - [Atlanta Fed GDPNow](https://www.atlantafed.org/cqer/research/gdpnow)
 * [2022-07-02, 02:22:48](https://news.ycombinator.com/item?id=31955479) - [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/)
 * [2022-07-02, 01:55:19](https://news.ycombinator.com/item?id=31955334) - [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#what-is-a-goto-statement-anyway)
+* [2022-07-02, 01:55:19](https://news.ycombinator.com/item?id=31955334) - [Notes on structured concurrency, or: Go statement considered harmful (2018)](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 * [2022-07-02, 00:56:22](https://news.ycombinator.com/item?id=31954938) - [Common CyberPower UPS models are catching fire](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
 * [2022-07-02, 00:17:39](https://news.ycombinator.com/item?id=31954711) - [FDIC Failed Bank List](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/)
