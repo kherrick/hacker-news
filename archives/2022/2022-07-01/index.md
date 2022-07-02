@@ -63,6 +63,7 @@
 * [2022-07-01, 12:38:56](https://news.ycombinator.com/item?id=31945564) - [Logging in Python Like a Pro](https://guicommits.com/how-to-log-in-python-like-a-pro/)
 * [2022-07-01, 12:34:21](https://news.ycombinator.com/item?id=31945525) - [What can we learn from the secret habits of genius?](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
 * [2022-07-01, 12:29:06](https://news.ycombinator.com/item?id=31945489) - [Meiosis is all you need](https://denovo.substack.com/p/meiosis-is-all-you-need)
+* [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
 * [2022-07-01, 12:21:16](https://news.ycombinator.com/item?id=31945425) - [YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips](https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html)
 * [2022-07-01, 12:00:36](https://news.ycombinator.com/item?id=31945201) - [UPchieve (Edtech Nonprofit, YC W21) is hiring our first product lead](https://upchieve.welcomekit.co/)
 * [2022-07-01, 11:56:30](https://news.ycombinator.com/item?id=31945161) - [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
