@@ -76,6 +76,7 @@
 * [2022-07-01, 06:47:25](https://news.ycombinator.com/item?id=31943199) - [Early Times (Multiplication)](https://www.futilitycloset.com/2022/06/28/early-times/)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 06:05:09](https://news.ycombinator.com/item?id=31942933) - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
+* [2022-07-01, 05:50:18](https://news.ycombinator.com/item?id=31942835) - [Making buildings, cars and planes from materials based on plant fibres](https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:18:19](https://news.ycombinator.com/item?id=31941902) - [Star Minecraft mod creator Technoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 * [2022-07-01, 03:16:10](https://news.ycombinator.com/item?id=31941887) - [Doom Builder](http://doombuilder.com/)

@@ -25,9 +25,9 @@
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 07:21:42](https://news.ycombinator.com/item?id=31943420) - [DiscoArt: Create compelling Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
 * [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
+* [2022-07-01, 05:50:18](https://news.ycombinator.com/item?id=31942835) - [Making buildings, cars and planes from materials based on plant fibres](https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat Proved the Power of Remote Sensing](https://spectrum.ieee.org/landsat)
-* [2022-07-01, 02:24:00](https://news.ycombinator.com/item?id=31941480) - [A quick history of data fetching in JavaScript](https://codeamigo.dev/lessons/232)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-06-30, 21:09:43](https://news.ycombinator.com/item?id=31938639) - [The feisty fog-catchers of Chile](https://www.economist.com/the-americas/2018/06/14/the-feisty-fog-catchers-of-chile)
 
