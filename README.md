@@ -25,11 +25,11 @@
 * [2022-07-01, 12:29:06](https://news.ycombinator.com/item?id=31945489) - [Meiosis is all you need](https://denovo.substack.com/p/meiosis-is-all-you-need)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
-* [2022-07-01, 06:47:11](https://news.ycombinator.com/item?id=31943198) - [PureDarwin](http://www.puredarwin.org/)
 * [2022-07-01, 04:22:22](https://news.ycombinator.com/item?id=31942329) - [Open Circuits – The Inner Beauty of Electronic Components](https://nostarch.com/open-circuits)
 * [2022-07-01, 03:14:31](https://news.ycombinator.com/item?id=31941873) - [Landsat proved the power of remote sensing](https://spectrum.ieee.org/landsat)
 * [2022-07-01, 02:23:07](https://news.ycombinator.com/item?id=31941472) - [For productivity geeks, futility is a relief and a starting point](https://herbertlui.net/for-productivity-geeks-futility-is-a-relief-and-a-starting-point/)
 * [2022-07-01, 01:35:34](https://news.ycombinator.com/item?id=31941089) - [Guarding Against Broken Encapsulation](https://blog.sunfishcode.online/broken-encapsulation/)
+* [2022-07-01, 00:56:34](https://news.ycombinator.com/item?id=31940771) - [Massive Egg: On Magritte: A Life](https://www.lrb.co.uk/the-paper/v44/n13/hal-foster/massive-egg)
 
 ## [Archives](archives/index.md)
 
