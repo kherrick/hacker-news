@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
+* [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 07:47:23](https://news.ycombinator.com/item?id=31957059) - [Ask HN: What's the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
 * [2022-07-02, 07:19:49](https://news.ycombinator.com/item?id=31956947) - ['Cryptoqueen' Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
 * [2022-07-02, 05:55:28](https://news.ycombinator.com/item?id=31956626) - [Leading vs. Participating](https://www.subbu.org/articles/2021/leading-vs-participating/)

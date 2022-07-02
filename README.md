@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 07:47:23](https://news.ycombinator.com/item?id=31957059) - [Ask HN: What's the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
 * [2022-07-02, 07:19:49](https://news.ycombinator.com/item?id=31956947) - ['Cryptoqueen' Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
 * [2022-07-02, 05:55:28](https://news.ycombinator.com/item?id=31956626) - [Leading vs. Participating](https://www.subbu.org/articles/2021/leading-vs-participating/)
@@ -16,7 +17,6 @@
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2022-07-01, 17:25:30](https://news.ycombinator.com/item?id=31949731) - [What's the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 * [2022-07-01, 17:18:01](https://news.ycombinator.com/item?id=31949621) - [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
-* [2022-07-01, 15:00:14](https://news.ycombinator.com/item?id=31947297) - [Ask HN: Who is hiring? (July 2022)](https://news.ycombinator.com/item?id=31947297)
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life helps make almost half of Earth’s minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 * [2022-07-01, 12:29:06](https://news.ycombinator.com/item?id=31945489) - [Meiosis is all you need](https://denovo.substack.com/p/meiosis-is-all-you-need)
