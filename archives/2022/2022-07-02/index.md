@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-02](index.md)
 
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+* [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 17:05:55](https://news.ycombinator.com/item?id=31960676) - [Games Done Quick Ocarina of Time beta showcase standing ovation](https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/)
 * [2022-07-02, 17:00:33](https://news.ycombinator.com/item?id=31960639) - [Streak (YC W22) is hiring customer success specialists to delight users (remote)](https://www.streak.com/careers/customer-success-specialist-remote)
 * [2022-07-02, 16:15:08](https://news.ycombinator.com/item?id=31960250) - [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
