@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 19:04:49](https://news.ycombinator.com/item?id=31970106) - [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
 * [2022-07-03, 18:43:58](https://news.ycombinator.com/item?id=31969958) - [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)
 * [2022-07-03, 18:38:57](https://news.ycombinator.com/item?id=31969931) - [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
 * [2022-07-03, 17:57:43](https://news.ycombinator.com/item?id=31969611) - [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
@@ -16,7 +17,6 @@
 * [2022-07-03, 12:56:27](https://news.ycombinator.com/item?id=31967356) - [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
 * [2022-07-03, 12:33:32](https://news.ycombinator.com/item?id=31967221) - [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
 * [2022-07-03, 12:18:24](https://news.ycombinator.com/item?id=31967141) - [Show HN: Generate webpage summary images with DALL-E mini](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/35_Pictures_are_worth_a_thousand_words.ipynb)
-* [2022-07-03, 11:51:10](https://news.ycombinator.com/item?id=31967011) - [The web is not poor man’s native (2015)](https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/)
 * [2022-07-03, 11:36:15](https://news.ycombinator.com/item?id=31966919) - [It's quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
 * [2022-07-03, 11:11:28](https://news.ycombinator.com/item?id=31966804) - [Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
 * [2022-07-03, 11:09:53](https://news.ycombinator.com/item?id=31966790) - [BootBASIC Interpreter in 512 Bytes](https://github.com/nanochess/bootBASIC)
