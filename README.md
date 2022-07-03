@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 17:27:44](https://news.ycombinator.com/item?id=31969345) - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
+* [2022-07-03, 17:24:49](https://news.ycombinator.com/item?id=31969326) - [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
 * [2022-07-03, 17:00:57](https://news.ycombinator.com/item?id=31969150) - [Patterns (YC S21) Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
 * [2022-07-03, 15:57:22](https://news.ycombinator.com/item?id=31968647) - [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
 * [2022-07-03, 15:31:32](https://news.ycombinator.com/item?id=31968456) - [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
@@ -24,9 +26,7 @@
 * [2022-07-03, 04:26:40](https://news.ycombinator.com/item?id=31965062) - [They're made out of meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [WeatherKit](https://developer.apple.com/weatherkit/)
 * [2022-07-03, 03:05:10](https://news.ycombinator.com/item?id=31964685) - [How to build a chess engine](https://www.chessengines.org/)
-* [2022-07-03, 02:30:08](https://news.ycombinator.com/item?id=31964517) - [GitHub Code Search (Preview)](https://cs.github.com/about)
 * [2022-07-01, 20:50:31](https://news.ycombinator.com/item?id=31952682) - [The Old Computer Challenge V2: Back to RTC](https://dataswamp.org/~solene/2022-07-01-oldcomputerchallenge-v2-rtc.html)
-* [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
 * [2022-07-01, 16:44:01](https://news.ycombinator.com/item?id=31949115) - [Our Trip to Antioch](https://aeon.co/essays/how-ancient-roman-souvenirs-made-memories-and-meanings)
 * [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
 * [2022-07-01, 10:29:26](https://news.ycombinator.com/item?id=31944541) - [Found: The 'holy grail of catalysis'– turning methane into methanol](https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html)
