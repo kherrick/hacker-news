@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-03, 01:58:04",
-      "https://news.ycombinator.com/item?id=31964368"
+      "2022-07-03, 03:23:46",
+      "https://news.ycombinator.com/item?id=31964766"
     ],
     [
-      "Curl -I HTTPS://Web3usecase.com",
-      "https://news.ycombinator.com/item?id=31964368"
+      "IPL: Intuitionistic Programming Language",
+      "http://intuitionistic.org"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 03:05:10",
+      "https://news.ycombinator.com/item?id=31964685"
+    ],
+    [
+      "How to build a Chess Engine, an interactive guide",
+      "https://www.chessengines.org/"
     ]
   ],
   [
@@ -77,26 +87,6 @@
     [
       "The Windows malloc() implementation from MSVCRT is slow",
       "https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 18:56:00",
-      "https://news.ycombinator.com/item?id=31961402"
-    ],
-    [
-      "Kyoto project is moving from GitHub to Sourcehut",
-      "https://github.com/kyoto-framework/kyoto"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 18:33:54",
-      "https://news.ycombinator.com/item?id=31961244"
-    ],
-    [
-      "Event-level prediction of urban crime reveals a enforcement bias in US cities",
-      "https://www.nature.com/articles/s41562-022-01372-0"
     ]
   ],
   [
@@ -181,22 +171,32 @@
   ],
   [
     [
-      "2022-07-02, 12:41:23",
-      "https://news.ycombinator.com/item?id=31958536"
+      "2022-07-01, 23:49:09",
+      "https://news.ycombinator.com/item?id=31954518"
     ],
     [
-      "How does rsync work?",
-      "https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/"
+      "Improving distributed caching performance and efficiency at Pinterest",
+      "https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b"
     ]
   ],
   [
     [
-      "2022-07-01, 23:09:41",
-      "https://news.ycombinator.com/item?id=31954225"
+      "2022-07-01, 20:45:39",
+      "https://news.ycombinator.com/item?id=31952610"
     ],
     [
-      "American Seating’s original and largest market was school furniture",
-      "https://twitter.com/JoshLipnik/status/1542324147027644418"
+      "Wordalle – Guess the prompt used to generate a set of images from DalleMini",
+      "https://huggingface.co/spaces/huggingface-projects/wordalle"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 18:49:56",
+      "https://news.ycombinator.com/item?id=31950974"
+    ],
+    [
+      "Artist Kenichi Kanazawa makes geometric designs using sound waves (2020)",
+      "https://www.openculture.com/2020/11/artist-kenichi-kanazawa-makes-amazing-geometric-designs-out-of-sand.html"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=31944705"
     ],
     [
-      "How Many Decimals of Pi Do We Need?(2016)",
+      "How many decimals of pi do we need? (2016)",
       "https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/"
     ]
   ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2022-07-01, 09:35:58",
+      "https://news.ycombinator.com/item?id=31944198"
+    ],
+    [
+      "Inverse Mengele – A Thought Experiment",
+      "https://nothingeverhappensto.me/inverse-mengele/"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 09:10:51",
       "https://news.ycombinator.com/item?id=31944043"
     ],
     [
       "Can computers be mathematicians?",
       "https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 08:07:03",
-      "https://news.ycombinator.com/item?id=31943683"
-    ],
-    [
-      "Even when you do succeed, sometimes it pays to try again",
-      "https://timharford.com/2022/06/even-when-you-do-succeed-sometimes-it-pays-to-try-again/"
     ]
   ],
   [
