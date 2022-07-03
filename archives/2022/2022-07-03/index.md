@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 19:32:09](https://news.ycombinator.com/item?id=31970303) - [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
 * [2022-07-03, 19:04:49](https://news.ycombinator.com/item?id=31970106) - [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
 * [2022-07-03, 18:43:58](https://news.ycombinator.com/item?id=31969958) - [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)
 * [2022-07-03, 18:38:57](https://news.ycombinator.com/item?id=31969931) - [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
