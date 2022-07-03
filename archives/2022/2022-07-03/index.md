@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 04:26:40](https://news.ycombinator.com/item?id=31965062) - [They're made out of meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2022-07-03, 03:54:58](https://news.ycombinator.com/item?id=31964915) - [Mark Zuckerberg upping performance goals to get rid of employees](https://www.businessinsider.com/mark-zuckerberg-upping-goals-thin-out-meta-staff-2022-7)
 * [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [Apple WeatherKit](https://developer.apple.com/weatherkit/)
 * [2022-07-03, 03:23:46](https://news.ycombinator.com/item?id=31964766) - [IPL: Intuitionistic Programming Language](http://intuitionistic.org)
