@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 23:20:09](https://news.ycombinator.com/item?id=31971858) - [Why nobody ever wins the car at the mall](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
 * [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum mechanics and Tomb Raider (2007)](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
 * [2022-07-03, 20:29:56](https://news.ycombinator.com/item?id=31970743) - [Transporting food generates whopping amounts of carbon dioxide](https://www.nature.com/articles/d41586-022-01766-0)
@@ -26,7 +27,6 @@
 * [2022-07-02, 06:40:09](https://news.ycombinator.com/item?id=31956787) - [Show HN: What do avoided crossings sound like?](http://hyad.es/chirp)
 * [2022-07-02, 06:02:14](https://news.ycombinator.com/item?id=31956655) - [What Is Pozidriv? How Does It Differ from a Phillips Drive?](https://www.albanycountyfasteners.com/blog/what-is-pozidriv-is-it-different-from-phillips/)
 * [2022-07-02, 05:52:57](https://news.ycombinator.com/item?id=31956617) - [Challenge and Flow](https://shimmeringvoid.substack.com/p/challenge-and-flow)
-* [2022-07-02, 00:27:30](https://news.ycombinator.com/item?id=31954782) - [Sequoia Arc: Catalyst for Seed Companies](https://arc.sequoiacap.com/)
 * [2022-07-01, 19:47:26](https://news.ycombinator.com/item?id=31951778) - [How did a woman with a missing temporal lobe become bilingual?](https://journal.medizzy.com/how-did-a-woman-with-a-missing-temporal-lobe-become-bilingual/)
 * [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
 * [2022-07-01, 06:17:58](https://news.ycombinator.com/item?id=31943016) - [Ask HN: How do you ensure everyone on the team is heard on Slack?](https://news.ycombinator.com/item?id=31943016)
