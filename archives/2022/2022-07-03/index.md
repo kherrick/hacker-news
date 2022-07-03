@@ -6,6 +6,7 @@
 
 * [2022-07-03, 05:44:18](https://news.ycombinator.com/item?id=31965395) - [StrictYAML](https://hitchdev.com/strictyaml/)
 * [2022-07-03, 05:36:48](https://news.ycombinator.com/item?id=31965367) - [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
+* [2022-07-03, 05:20:21](https://news.ycombinator.com/item?id=31965302) - [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)
 * [2022-07-03, 05:14:39](https://news.ycombinator.com/item?id=31965268) - [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 * [2022-07-03, 04:26:40](https://news.ycombinator.com/item?id=31965062) - [They're made out of meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2022-07-03, 03:54:58](https://news.ycombinator.com/item?id=31964915) - [Mark Zuckerberg upping performance goals to get rid of employees](https://www.businessinsider.com/mark-zuckerberg-upping-goals-thin-out-meta-staff-2022-7)
