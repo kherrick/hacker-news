@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 09:02:11](https://news.ycombinator.com/item?id=31966254) - [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
 * [2022-07-03, 08:01:43](https://news.ycombinator.com/item?id=31965969) - [Operation GUNMAN – how the Soviets bugged IBM typewriters](https://www.cryptomuseum.com/covert/bugs/selectric/)
 * [2022-07-03, 07:59:45](https://news.ycombinator.com/item?id=31965956) - [The Singularity has already happened](http://www.terrybisson.com/the-singularity/)
 * [2022-07-03, 07:48:07](https://news.ycombinator.com/item?id=31965907) - [What Happened When The Rich Stopped Intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
