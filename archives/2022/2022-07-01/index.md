@@ -38,6 +38,7 @@
 * [2022-07-01, 17:12:46](https://news.ycombinator.com/item?id=31949535) - [mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available](http://www.brutman.com/mTCP/mTCP.html)
 * [2022-07-01, 17:02:13](https://news.ycombinator.com/item?id=31949405) - [Smarking (YC W15) Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
 * [2022-07-01, 16:58:42](https://news.ycombinator.com/item?id=31949348) - [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
+* [2022-07-01, 16:44:01](https://news.ycombinator.com/item?id=31949115) - [Our Trip to Antioch](https://aeon.co/essays/how-ancient-roman-souvenirs-made-memories-and-meanings)
 * [2022-07-01, 16:29:30](https://news.ycombinator.com/item?id=31948881) - [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
 * [2022-07-01, 16:27:41](https://news.ycombinator.com/item?id=31948849) - [Klarna to Raise Fresh Cash at Slashed $6.5B Valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 * [2022-07-01, 16:17:18](https://news.ycombinator.com/item?id=31948661) - [Broken Sword: The Shadow of the Templars](https://www.filfre.net/2022/07/broken-sword-the-shadow-of-the-templars/)
