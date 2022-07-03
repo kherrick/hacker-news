@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 07:01:30](https://news.ycombinator.com/item?id=31965694) - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 * [2022-07-03, 05:44:18](https://news.ycombinator.com/item?id=31965395) - [StrictYAML](https://hitchdev.com/strictyaml/)
 * [2022-07-03, 05:36:48](https://news.ycombinator.com/item?id=31965367) - [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
 * [2022-07-03, 05:20:21](https://news.ycombinator.com/item?id=31965302) - [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 07:01:30](https://news.ycombinator.com/item?id=31965694) - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 * [2022-07-03, 05:44:18](https://news.ycombinator.com/item?id=31965395) - [StrictYAML](https://hitchdev.com/strictyaml/)
 * [2022-07-03, 05:36:48](https://news.ycombinator.com/item?id=31965367) - [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
-* [2022-07-03, 05:20:21](https://news.ycombinator.com/item?id=31965302) - [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)
 * [2022-07-03, 05:14:39](https://news.ycombinator.com/item?id=31965268) - [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 * [2022-07-03, 04:26:40](https://news.ycombinator.com/item?id=31965062) - [They're made out of meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [WeatherKit](https://developer.apple.com/weatherkit/)
@@ -12,7 +12,7 @@
 * [2022-07-03, 02:30:08](https://news.ycombinator.com/item?id=31964517) - [GitHub Code Search (Preview)](https://cs.github.com/about)
 * [2022-07-03, 00:23:07](https://news.ycombinator.com/item?id=31963813) - [Documents reveal McKinsey's role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
 * [2022-07-02, 23:26:55](https://news.ycombinator.com/item?id=31963460) - [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
-* [2022-07-02, 21:00:33](https://news.ycombinator.com/item?id=31962355) - [Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
+* [2022-07-02, 20:23:46](https://news.ycombinator.com/item?id=31962014) - [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [Darktable 4.0](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [The trimodal nature of software salaries in the Netherlands and Europe (2021)](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
