@@ -52,6 +52,7 @@
 * [2022-07-01, 14:50:59](https://news.ycombinator.com/item?id=31947172) - [If I cold emailed you, I apologize](https://blog.molecule.dev/sorry-for-the-cold-emails/)
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life Helps Make Almost Half of Earth’s Minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 14:02:34](https://news.ycombinator.com/item?id=31946528) - [An Anatomy of Erasure: How a free and open Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
+* [2022-07-01, 13:54:50](https://news.ycombinator.com/item?id=31946419) - [Fermyon wants to reinvent the way programmers develop microservices](https://techcrunch.com/2022/06/21/fermyon-wants-to-reinvent-the-way-programmers-develop-microservices/)
 * [2022-07-01, 13:53:14](https://news.ycombinator.com/item?id=31946390) - [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 * [2022-07-01, 13:31:25](https://news.ycombinator.com/item?id=31946088) - [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
 * [2022-07-01, 13:29:46](https://news.ycombinator.com/item?id=31946064) - [Traffic cones confused a Waymo self-driving car. Then things got worse](https://www.cnn.com/2021/05/17/tech/waymo-arizona-confused/index.html)
