@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 08:01:43](https://news.ycombinator.com/item?id=31965969) - [Operation GUNMAN – how the Soviets bugged IBM typewriters](https://www.cryptomuseum.com/covert/bugs/selectric/)
+* [2022-07-03, 07:59:45](https://news.ycombinator.com/item?id=31965956) - [The Singularity has already happened](http://www.terrybisson.com/the-singularity/)
+* [2022-07-03, 07:48:07](https://news.ycombinator.com/item?id=31965907) - [What Happened When The Rich Stopped Intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
 * [2022-07-03, 07:24:23](https://news.ycombinator.com/item?id=31965812) - [Norwegian Meteorological Institute has an excellent free weather API](https://developer.yr.no/)
 * [2022-07-03, 07:01:30](https://news.ycombinator.com/item?id=31965694) - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 * [2022-07-03, 05:44:18](https://news.ycombinator.com/item?id=31965395) - [StrictYAML](https://hitchdev.com/strictyaml/)

@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 08:01:43](https://news.ycombinator.com/item?id=31965969) - [Operation GUNMAN – how the Soviets bugged IBM typewriters](https://www.cryptomuseum.com/covert/bugs/selectric/)
+* [2022-07-03, 07:59:45](https://news.ycombinator.com/item?id=31965956) - [The Singularity has already happened](http://www.terrybisson.com/the-singularity/)
+* [2022-07-03, 07:48:07](https://news.ycombinator.com/item?id=31965907) - [What Happened When The Rich Stopped Intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
 * [2022-07-03, 07:24:23](https://news.ycombinator.com/item?id=31965812) - [Norwegian Meteorological Institute has an excellent free weather API](https://developer.yr.no/)
 * [2022-07-03, 07:01:30](https://news.ycombinator.com/item?id=31965694) - [Stacker (YC S20) Is Hiring for Product Engineer's](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 * [2022-07-03, 05:44:18](https://news.ycombinator.com/item?id=31965395) - [StrictYAML](https://hitchdev.com/strictyaml/)
@@ -14,7 +17,6 @@
 * [2022-07-03, 00:23:07](https://news.ycombinator.com/item?id=31963813) - [Documents reveal McKinsey's role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
 * [2022-07-02, 23:26:55](https://news.ycombinator.com/item?id=31963460) - [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [Darktable 4.0](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
-* [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [The trimodal nature of software salaries in the Netherlands and Europe (2021)](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
 * [2022-07-01, 23:49:09](https://news.ycombinator.com/item?id=31954518) - [Improving distributed caching performance and efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 * [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
@@ -26,8 +28,6 @@
 * [2022-07-01, 10:56:24](https://news.ycombinator.com/item?id=31944680) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://minerva-demo.github.io/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 09:10:51](https://news.ycombinator.com/item?id=31944043) - [Can computers be mathematicians?](https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/)
-* [2022-07-01, 07:58:21](https://news.ycombinator.com/item?id=31943639) - [Building explainability into the components of machine-learning models](https://news.mit.edu/2022/explainability-machine-learning-0630)
-* [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
 * [2022-06-30, 22:08:08](https://news.ycombinator.com/item?id=31939300) - [Gradual Soundness: Lessons from static Python](https://blog.brownplt.org/2022/06/28/static-python.html)
 * [2022-06-30, 16:38:40](https://news.ycombinator.com/item?id=31935058) - [A tale of two clocks – Scheduling Web Audio with precision](https://web.dev/audio-scheduling/)
 
