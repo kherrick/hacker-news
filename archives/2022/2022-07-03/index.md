@@ -13,6 +13,7 @@
 * [2022-07-03, 15:57:22](https://news.ycombinator.com/item?id=31968647) - [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
 * [2022-07-03, 15:50:46](https://news.ycombinator.com/item?id=31968595) - [Are Buy Now Pay Laters the Next Bubble?](https://www.crresearch.com/blog/buy_now_pay_later_statistics)
 * [2022-07-03, 15:31:32](https://news.ycombinator.com/item?id=31968456) - [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
+* [2022-07-03, 15:21:40](https://news.ycombinator.com/item?id=31968369) - [Psychological Safety and Learning Behavior in Work Teams (1999) [pdf]](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf)
 * [2022-07-03, 15:10:38](https://news.ycombinator.com/item?id=31968280) - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 * [2022-07-03, 15:07:51](https://news.ycombinator.com/item?id=31968258) - [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
 * [2022-07-03, 15:03:40](https://news.ycombinator.com/item?id=31968223) - [Can we have a less flamey discussion of self driving cars?](https://news.ycombinator.com/item?id=31968223)
