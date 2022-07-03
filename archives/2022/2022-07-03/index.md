@@ -6,6 +6,8 @@
 
 * [2022-07-03, 13:12:12](https://news.ycombinator.com/item?id=31967454) - [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
 * [2022-07-03, 12:33:32](https://news.ycombinator.com/item?id=31967221) - [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
+* [2022-07-03, 12:31:34](https://news.ycombinator.com/item?id=31967208) - [I don't want to subscribe to your channel](https://jibreel.bearblog.dev/i-dont-want-to-subscribe-to-your-channel/)
+* [2022-07-03, 12:18:24](https://news.ycombinator.com/item?id=31967141) - [Show HN: Generate webpage summary images with DALL-E mini](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/35_Pictures_are_worth_a_thousand_words.ipynb)
 * [2022-07-03, 12:00:35](https://news.ycombinator.com/item?id=31967057) - [The Muse (YC W12) Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 * [2022-07-03, 11:51:10](https://news.ycombinator.com/item?id=31967011) - [The Web Is Not Poor Man’s Native](https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/)
 * [2022-07-03, 11:36:15](https://news.ycombinator.com/item?id=31966919) - [It's quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
