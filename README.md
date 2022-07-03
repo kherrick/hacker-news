@@ -4,6 +4,7 @@
 * [2022-07-03, 17:24:49](https://news.ycombinator.com/item?id=31969326) - [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
 * [2022-07-03, 17:00:57](https://news.ycombinator.com/item?id=31969150) - [Patterns (YC S21) Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
 * [2022-07-03, 15:57:22](https://news.ycombinator.com/item?id=31968647) - [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
+* [2022-07-03, 15:50:46](https://news.ycombinator.com/item?id=31968595) - [Are Buy Now Pay Laters the Next Bubble?](https://www.crresearch.com/blog/buy_now_pay_later_statistics)
 * [2022-07-03, 15:31:32](https://news.ycombinator.com/item?id=31968456) - [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
 * [2022-07-03, 15:10:38](https://news.ycombinator.com/item?id=31968280) - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 * [2022-07-03, 14:50:02](https://news.ycombinator.com/item?id=31968114) - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898)
@@ -28,7 +29,6 @@
 * [2022-07-03, 03:05:10](https://news.ycombinator.com/item?id=31964685) - [How to build a chess engine](https://www.chessengines.org/)
 * [2022-07-01, 20:50:31](https://news.ycombinator.com/item?id=31952682) - [The Old Computer Challenge V2: Back to RTC](https://dataswamp.org/~solene/2022-07-01-oldcomputerchallenge-v2-rtc.html)
 * [2022-07-01, 16:44:01](https://news.ycombinator.com/item?id=31949115) - [Our Trip to Antioch](https://aeon.co/essays/how-ancient-roman-souvenirs-made-memories-and-meanings)
-* [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
 * [2022-07-01, 10:29:26](https://news.ycombinator.com/item?id=31944541) - [Found: The 'holy grail of catalysis'– turning methane into methanol](https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html)
 
 ## [Archives](archives/index.md)
