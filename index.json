@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-03, 13:12:12",
+      "https://news.ycombinator.com/item?id=31967454"
+    ],
+    [
+      "Mickey Mouse could soon leave Disney as 95-year copyright expiry nears",
+      "https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry"
+    ]
+  ],
+  [
+    [
       "2022-07-03, 12:33:32",
       "https://news.ycombinator.com/item?id=31967221"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31967011"
     ],
     [
-      "The Web Is Not Poor Man’s Native",
+      "The web is not poor man’s native",
       "https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)",
       "http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 11:09:53",
+      "https://news.ycombinator.com/item?id=31966790"
+    ],
+    [
+      "BootBASIC Interpreter in 512 Bytes",
+      "https://github.com/nanochess/bootBASIC"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "StrictYAML",
       "https://hitchdev.com/strictyaml/"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 05:36:48",
-      "https://news.ycombinator.com/item?id=31965367"
-    ],
-    [
-      "Ask HN: What exactly is a mindfulness meditation?",
-      "https://news.ycombinator.com/item?id=31965367"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How many decimals of pi do we need? (2016)",
       "https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 10:56:24",
-      "https://news.ycombinator.com/item?id=31944680"
-    ],
-    [
-      "Minerva: Solving Quantitative Reasoning Problems with Language Models",
-      "https://minerva-demo.github.io/"
     ]
   ],
   [
