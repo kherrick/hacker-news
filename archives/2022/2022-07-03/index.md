@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
 * [2022-07-03, 20:08:40](https://news.ycombinator.com/item?id=31970592) - [India plans to replace fossil fuels with hydrogen](https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532)
+* [2022-07-03, 20:01:56](https://news.ycombinator.com/item?id=31970539) - [Roblox Tried to Sue Me for $1.6M](https://www.youtube.com/watch?v=CRH41vgIBuQ)
 * [2022-07-03, 19:32:09](https://news.ycombinator.com/item?id=31970303) - [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
 * [2022-07-03, 19:04:49](https://news.ycombinator.com/item?id=31970106) - [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
 * [2022-07-03, 18:43:58](https://news.ycombinator.com/item?id=31969958) - [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)

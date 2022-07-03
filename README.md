@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-03, 20:08:40](https://news.ycombinator.com/item?id=31970592) - [India plans to replace fossil fuels with hydrogen](https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532)
+* [2022-07-03, 20:01:56](https://news.ycombinator.com/item?id=31970539) - [Roblox Tried to Sue Me for $1.6M](https://www.youtube.com/watch?v=CRH41vgIBuQ)
 * [2022-07-03, 19:32:09](https://news.ycombinator.com/item?id=31970303) - [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
 * [2022-07-03, 19:04:49](https://news.ycombinator.com/item?id=31970106) - [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
 * [2022-07-03, 18:38:57](https://news.ycombinator.com/item?id=31969931) - [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
@@ -24,7 +25,6 @@
 * [2022-07-03, 09:48:08](https://news.ycombinator.com/item?id=31966435) - [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 * [2022-07-03, 08:01:43](https://news.ycombinator.com/item?id=31965969) - [Operation Gunman – how the Soviets bugged IBM typewriters (2015)](https://www.cryptomuseum.com/covert/bugs/selectric/)
 * [2022-07-03, 07:48:07](https://news.ycombinator.com/item?id=31965907) - [What happened when the rich stopped intermarrying in Britain](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
-* [2022-07-03, 05:14:39](https://news.ycombinator.com/item?id=31965268) - [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 * [2022-07-02, 06:40:09](https://news.ycombinator.com/item?id=31956787) - [Show HN: What do avoided crossings sound like?](http://hyad.es/chirp)
 * [2022-07-02, 00:27:30](https://news.ycombinator.com/item?id=31954782) - [Sequoia Arc: Catalyst for Seed Companies](https://arc.sequoiacap.com/)
 * [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
