@@ -14,6 +14,7 @@
 * [2022-07-01, 21:50:44](https://news.ycombinator.com/item?id=31953470) - [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
 * [2022-07-01, 21:00:56](https://news.ycombinator.com/item?id=31952845) - [Mozart Data (YC S20) Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
 * [2022-07-01, 20:58:11](https://news.ycombinator.com/item?id=31952799) - [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
+* [2022-07-01, 20:50:31](https://news.ycombinator.com/item?id=31952682) - [The Old Computer Challenge V2: Back to RTC](https://dataswamp.org/~solene/2022-07-01-oldcomputerchallenge-v2-rtc.html)
 * [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
 * [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
