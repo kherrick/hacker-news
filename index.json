@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-07-03, 12:00:35",
+      "https://news.ycombinator.com/item?id=31967057"
+    ],
+    [
+      "The Muse (YC W12) Is Growing Our Platform Engineering Team",
+      "https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 11:36:15",
+      "https://news.ycombinator.com/item?id=31966919"
+    ],
+    [
+      "It's quite hard to lose a Duolingo streak",
+      "https://leejo.github.io/2022/07/03/duolingo_streak/"
+    ]
+  ],
+  [
+    [
       "2022-07-03, 11:11:28",
       "https://news.ycombinator.com/item?id=31966804"
     ],
     [
-      "Couch to 64k – a.k.a. Building a Z80 Breadboard Computer (2020)",
+      "Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)",
       "http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/"
     ]
   ],
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2022-07-03, 07:01:30",
-      "https://news.ycombinator.com/item?id=31965694"
-    ],
-    [
-      "Stacker (YC S20) is hiring product engineers",
-      "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 05:44:18",
       "https://news.ycombinator.com/item?id=31965395"
     ],
     [
       "StrictYAML",
       "https://hitchdev.com/strictyaml/"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 05:20:21",
+      "https://news.ycombinator.com/item?id=31965302"
+    ],
+    [
+      "I fart in your general direction",
+      "https://aspectsofhistory.com/i-fart-in-your-general-direction/"
     ]
   ],
   [
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2022-07-02, 21:43:34",
+      "https://news.ycombinator.com/item?id=31962745"
+    ],
+    [
+      "Dependabot alerts paused for malware advisories",
+      "https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 19:11:52",
       "https://news.ycombinator.com/item?id=31961502"
     ],
@@ -161,22 +191,12 @@
   ],
   [
     [
-      "2022-07-02, 18:31:26",
-      "https://news.ycombinator.com/item?id=31961216"
+      "2022-07-02, 15:33:20",
+      "https://news.ycombinator.com/item?id=31959890"
     ],
     [
-      "Bureaucratic processes typically involve a person new to the process",
-      "https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 17:49:15",
-      "https://news.ycombinator.com/item?id=31960962"
-    ],
-    [
-      "Darktable 4.0",
-      "https://www.darktable.org/2022/07/darktable-4.0.0-released/"
+      "Yahoo admits mangling e-mail (2002)",
+      "http://news.bbc.co.uk/2/hi/science/nature/2138014.stm"
     ]
   ],
   [
@@ -211,22 +231,22 @@
   ],
   [
     [
+      "2022-07-01, 13:09:46",
+      "https://news.ycombinator.com/item?id=31945863"
+    ],
+    [
+      "An engineer’s tips for writing documentation devs love",
+      "https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/"
+    ]
+  ],
+  [
+    [
       "2022-07-01, 12:30:38",
       "https://news.ycombinator.com/item?id=31945504"
     ],
     [
       "The Berkeley Crossword Solver",
       "https://bair.berkeley.edu/blog/2022/05/20/crosswords/"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 12:27:23",
-      "https://news.ycombinator.com/item?id=31945478"
-    ],
-    [
-      "Porting Graphing Calculator from C++ to Swift",
-      "https://www.swift.org/blog/graphing-calculator/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-07-01, 10:31:01",
-      "https://news.ycombinator.com/item?id=31944555"
-    ],
-    [
-      "How the Higgs Boson Ruined Peter Higgs’s Life",
-      "https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 10:29:26",
       "https://news.ycombinator.com/item?id=31944541"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-07-01, 07:58:21",
-      "https://news.ycombinator.com/item?id=31943639"
+      "2022-07-01, 09:10:51",
+      "https://news.ycombinator.com/item?id=31944043"
     ],
     [
-      "Building explainability into the components of machine-learning models",
-      "https://news.mit.edu/2022/explainability-machine-learning-0630"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 07:40:20",
-      "https://news.ycombinator.com/item?id=31943528"
-    ],
-    [
-      "Football shirts chart the rise and fall of tech giants",
-      "https://restofworld.org/2022/football-shirt-tech-sponsorship/"
+      "Can computers be mathematicians?",
+      "https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/"
     ]
   ],
   [
