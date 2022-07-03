@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-03, 01:58:04",
+      "https://news.ycombinator.com/item?id=31964368"
+    ],
+    [
+      "Curl -I HTTPS://Web3usecase.com",
+      "https://news.ycombinator.com/item?id=31964368"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 00:23:07",
+      "https://news.ycombinator.com/item?id=31963813"
+    ],
+    [
+      "Documents reveal McKinsey's role increasing opioid sales until 2019",
+      "https://www.axios.com/2022/07/01/mckinsey-opioid-documents"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 23:26:55",
       "https://news.ycombinator.com/item?id=31963460"
     ],
@@ -17,16 +37,6 @@
     [
       "Adventures with Verizon FiOS IPv6",
       "https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 22:33:57",
-      "https://news.ycombinator.com/item?id=31963065"
-    ],
-    [
-      "The dawning of the Age of Apple Aquarius (2019)",
-      "http://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2022-07-02, 18:31:26",
+      "https://news.ycombinator.com/item?id=31961216"
+    ],
+    [
+      "Bureaucratic processes typically involve a person new to the process",
+      "https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html"
+    ]
+  ],
+  [
+    [
       "2022-07-02, 17:49:15",
       "https://news.ycombinator.com/item?id=31960962"
     ],
@@ -171,46 +191,6 @@
   ],
   [
     [
-      "2022-07-02, 10:53:05",
-      "https://news.ycombinator.com/item?id=31957908"
-    ],
-    [
-      "Python for Data Analysis, 3rd Edition – The Open Access Version Online",
-      "https://wesmckinney.com/book/"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 09:50:11",
-      "https://news.ycombinator.com/item?id=31957603"
-    ],
-    [
-      "How does a USB keyboard work? (2021) [video]",
-      "https://www.youtube.com/watch?v=wdgULBpRoXk"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 09:39:39",
-      "https://news.ycombinator.com/item?id=31957554"
-    ],
-    [
-      "Open source is not about you (2018)",
-      "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 09:38:50",
-      "https://news.ycombinator.com/item?id=31957551"
-    ],
-    [
-      "Scunthorpe Sans, A font that censors bad language automatically",
-      "https://vole.wtf/scunthorpe-sans/"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 23:09:41",
       "https://news.ycombinator.com/item?id=31954225"
     ],
@@ -247,6 +227,26 @@
     [
       "Porting Graphing Calculator from C++ to Swift",
       "https://www.swift.org/blog/graphing-calculator/"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 11:01:06",
+      "https://news.ycombinator.com/item?id=31944705"
+    ],
+    [
+      "How Many Decimals of Pi Do We Need?(2016)",
+      "https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/"
+    ]
+  ],
+  [
+    [
+      "2022-07-01, 10:56:24",
+      "https://news.ycombinator.com/item?id=31944680"
+    ],
+    [
+      "Minerva: Solving Quantitative Reasoning Problems with Language Models",
+      "https://minerva-demo.github.io/"
     ]
   ],
   [
