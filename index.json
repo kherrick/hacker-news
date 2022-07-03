@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-03, 17:27:44",
+      "https://news.ycombinator.com/item?id=31969345"
+    ],
+    [
+      "Red Engine: modern scheduling framework for Python applications",
+      "https://red-engine.readthedocs.io/en/stable/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 17:24:49",
+      "https://news.ycombinator.com/item?id=31969326"
+    ],
+    [
+      "Texts, web searches about abortion have been used to prosecute women",
+      "https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/"
+    ]
+  ],
+  [
+    [
       "2022-07-03, 17:00:57",
       "https://news.ycombinator.com/item?id=31969150"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-07-03, 02:30:08",
-      "https://news.ycombinator.com/item?id=31964517"
-    ],
-    [
-      "GitHub Code Search (Preview)",
-      "https://cs.github.com/about"
-    ]
-  ],
-  [
-    [
       "2022-07-01, 20:50:31",
       "https://news.ycombinator.com/item?id=31952682"
     ],
     [
       "The Old Computer Challenge V2: Back to RTC",
       "https://dataswamp.org/~solene/2022-07-01-oldcomputerchallenge-v2-rtc.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 20:45:39",
-      "https://news.ycombinator.com/item?id=31952610"
-    ],
-    [
-      "Wordalle – Guess the prompt used to generate a set of images from DalleMini",
-      "https://huggingface.co/spaces/huggingface-projects/wordalle"
     ]
   ],
   [
