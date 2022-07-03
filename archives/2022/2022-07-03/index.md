@@ -8,6 +8,7 @@
 * [2022-07-03, 17:27:44](https://news.ycombinator.com/item?id=31969345) - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
 * [2022-07-03, 17:24:49](https://news.ycombinator.com/item?id=31969326) - [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
 * [2022-07-03, 17:00:57](https://news.ycombinator.com/item?id=31969150) - [Patterns (YC S21) Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
+* [2022-07-03, 16:29:08](https://news.ycombinator.com/item?id=31968902) - [Q&A on 1972](http://rachelbythebay.com/w/2022/06/25/qa/)
 * [2022-07-03, 16:00:51](https://news.ycombinator.com/item?id=31968674) - [Is Taxation Theft?](https://aeon.co/essays/if-your-pay-is-not-yours-to-keep-then-neither-is-the-tax)
 * [2022-07-03, 15:57:22](https://news.ycombinator.com/item?id=31968647) - [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
 * [2022-07-03, 15:50:46](https://news.ycombinator.com/item?id=31968595) - [Are Buy Now Pay Laters the Next Bubble?](https://www.crresearch.com/blog/buy_now_pay_later_statistics)

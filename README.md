@@ -2,9 +2,8 @@
 
 * [2022-07-03, 17:46:00](https://news.ycombinator.com/item?id=31969505) - [Satellites can now find the sources of methane leaks](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
 * [2022-07-03, 17:27:44](https://news.ycombinator.com/item?id=31969345) - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
-* [2022-07-03, 17:24:49](https://news.ycombinator.com/item?id=31969326) - [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
 * [2022-07-03, 17:00:57](https://news.ycombinator.com/item?id=31969150) - [Patterns (YC S21) Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
-* [2022-07-03, 15:50:46](https://news.ycombinator.com/item?id=31968595) - [Are Buy Now Pay Laters the Next Bubble?](https://www.crresearch.com/blog/buy_now_pay_later_statistics)
+* [2022-07-03, 16:29:08](https://news.ycombinator.com/item?id=31968902) - [Q&A on 1972](http://rachelbythebay.com/w/2022/06/25/qa/)
 * [2022-07-03, 15:31:32](https://news.ycombinator.com/item?id=31968456) - [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
 * [2022-07-03, 15:10:38](https://news.ycombinator.com/item?id=31968280) - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 * [2022-07-03, 14:50:02](https://news.ycombinator.com/item?id=31968114) - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898)
@@ -28,7 +27,8 @@
 * [2022-07-03, 04:26:40](https://news.ycombinator.com/item?id=31965062) - [They're made out of meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [WeatherKit](https://developer.apple.com/weatherkit/)
 * [2022-07-02, 00:27:30](https://news.ycombinator.com/item?id=31954782) - [Sequoia Arc: Catalyst for Seed Companies](https://arc.sequoiacap.com/)
-* [2022-07-01, 20:50:31](https://news.ycombinator.com/item?id=31952682) - [The Old Computer Challenge V2: Back to RTC](https://dataswamp.org/~solene/2022-07-01-oldcomputerchallenge-v2-rtc.html)
+* [2022-07-01, 16:44:01](https://news.ycombinator.com/item?id=31949115) - [Our Trip to Antioch](https://aeon.co/essays/how-ancient-roman-souvenirs-made-memories-and-meanings)
+* [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
 * [2022-07-01, 10:29:26](https://news.ycombinator.com/item?id=31944541) - [Found: The 'holy grail of catalysis'– turning methane into methanol](https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html)
 
 ## [Archives](archives/index.md)
