@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-01](index.md)
 
+* [2022-07-01, 23:49:09](https://news.ycombinator.com/item?id=31954518) - [Improving distributed caching performance and efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 * [2022-07-01, 23:31:02](https://news.ycombinator.com/item?id=31954401) - [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
 * [2022-07-01, 23:19:01](https://news.ycombinator.com/item?id=31954294) - [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 * [2022-07-01, 23:09:41](https://news.ycombinator.com/item?id=31954225) - [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
@@ -15,6 +16,7 @@
 * [2022-07-01, 20:58:11](https://news.ycombinator.com/item?id=31952799) - [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
 * [2022-07-01, 20:50:22](https://news.ycombinator.com/item?id=31952678) - [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
 * [2022-07-01, 20:48:09](https://news.ycombinator.com/item?id=31952643) - [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
+* [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
 * [2022-07-01, 20:31:48](https://news.ycombinator.com/item?id=31952426) - [Pokemon Go Creator Niantic Cancels Four Projects, Cuts 8% of Staff](https://www.bloomberg.com/news/articles/2022-06-29/pokemon-go-creator-niantic-cancels-four-projects-cuts-jobs)
 * [2022-07-01, 20:28:37](https://news.ycombinator.com/item?id=31952379) - [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
 * [2022-07-01, 20:12:22](https://news.ycombinator.com/item?id=31952132) - [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
@@ -24,6 +26,7 @@
 * [2022-07-01, 19:14:23](https://news.ycombinator.com/item?id=31951308) - [Strawberry Pop-Tart Blow-Torches](https://www.pmichaud.com/toast/)
 * [2022-07-01, 18:56:42](https://news.ycombinator.com/item?id=31951068) - [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
 * [2022-07-01, 18:55:13](https://news.ycombinator.com/item?id=31951050) - [Why the World Economy Hasn’t Collapsed Yet](https://thehonestsorcerer.medium.com/why-the-world-economy-hasnt-collapsed-yet-8205189f5a15)
+* [2022-07-01, 18:49:56](https://news.ycombinator.com/item?id=31950974) - [Artist Kenichi Kanazawa makes geometric designs using sound waves (2020)](https://www.openculture.com/2020/11/artist-kenichi-kanazawa-makes-amazing-geometric-designs-out-of-sand.html)
 * [2022-07-01, 18:42:55](https://news.ycombinator.com/item?id=31950899) - [The prospect of an execution: The hidden objects among us](https://gbracha.blogspot.com/2022/06/the-prospect-of-execution-hidden.html)
 * [2022-07-01, 18:09:34](https://news.ycombinator.com/item?id=31950380) - [Homeland Security sends warning letter due bad tweet language](https://twitter.com/budweiserbreath/status/1542700633068916737)
 * [2022-07-01, 18:01:47](https://news.ycombinator.com/item?id=31950264) - [Google’s Android Automotive OS is coming to BMW cars next year](https://www.theverge.com/2022/6/30/23189642/bmw-android-automotive-operating-system-adoption)
@@ -77,6 +80,7 @@
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
+* [2022-07-01, 09:35:58](https://news.ycombinator.com/item?id=31944198) - [Inverse Mengele – A Thought Experiment](https://nothingeverhappensto.me/inverse-mengele/)
 * [2022-07-01, 09:10:51](https://news.ycombinator.com/item?id=31944043) - [Can computers be mathematicians?](https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/)
 * [2022-07-01, 08:54:56](https://news.ycombinator.com/item?id=31943941) - [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
 * [2022-07-01, 08:22:07](https://news.ycombinator.com/item?id=31943770) - [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
