@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum Mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/#more-12)
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
+* [2022-07-03, 20:29:56](https://news.ycombinator.com/item?id=31970743) - [Transporting food generates whopping amounts of carbon dioxide](https://www.nature.com/articles/d41586-022-01766-0)
+* [2022-07-03, 20:28:16](https://news.ycombinator.com/item?id=31970724) - [Understanding how others relate to you](https://www.bmj.com/content/377/bmj.o1548)
+* [2022-07-03, 20:11:38](https://news.ycombinator.com/item?id=31970614) - [New Steganography Method for SVG Images Based on Improved LSB Algorithm (2019) [pdf]](http://paper.ijcsns.org/07_book/201910/20191016.pdf)
 * [2022-07-03, 20:08:40](https://news.ycombinator.com/item?id=31970592) - [India plans to replace fossil fuels with hydrogen](https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532)
 * [2022-07-03, 20:01:56](https://news.ycombinator.com/item?id=31970539) - [Roblox Tried to Sue Me for $1.6M](https://www.youtube.com/watch?v=CRH41vgIBuQ)
 * [2022-07-03, 19:32:09](https://news.ycombinator.com/item?id=31970303) - [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
