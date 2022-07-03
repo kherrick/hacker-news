@@ -38,6 +38,7 @@
 * [2022-06-30, 17:00:44](https://news.ycombinator.com/item?id=31935372) - [SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
 * [2022-06-30, 16:46:45](https://news.ycombinator.com/item?id=31935179) - [Links and tweets, 2022-06-29](https://rootsofprogress.org/links-and-tweets-2022-06-29)
 * [2022-06-30, 16:42:20](https://news.ycombinator.com/item?id=31935116) - [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
+* [2022-06-30, 16:38:40](https://news.ycombinator.com/item?id=31935058) - [A tale of two clocks – Scheduling Web Audio with precision](https://web.dev/audio-scheduling/)
 * [2022-06-30, 16:32:35](https://news.ycombinator.com/item?id=31934963) - [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
 * [2022-06-30, 16:01:46](https://news.ycombinator.com/item?id=31934461) - [US Supreme Court says EPA can’t regulate carbon pollution under Clean Air Act](https://techcrunch.com/2022/06/30/us-supreme-court-says-epa-cant-regulate-carbon-pollution-under-clean-air-act/)
 * [2022-06-30, 15:58:06](https://news.ycombinator.com/item?id=31934400) - [Build Your Own GitHub Copilot with Salesforce Codegen AI](https://www.youtube.com/watch?v=8VyGlSKsYeo)

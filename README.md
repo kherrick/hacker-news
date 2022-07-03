@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 05:14:39](https://news.ycombinator.com/item?id=31965268) - [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 * [2022-07-03, 04:26:40](https://news.ycombinator.com/item?id=31965062) - [They're made out of meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [WeatherKit](https://developer.apple.com/weatherkit/)
 * [2022-07-03, 03:34:11](https://news.ycombinator.com/item?id=31964814) - [Git from the Inside Out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
@@ -20,16 +21,15 @@
 * [2022-07-01, 23:49:09](https://news.ycombinator.com/item?id=31954518) - [Improving distributed caching performance and efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 * [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
 * [2022-07-01, 18:49:56](https://news.ycombinator.com/item?id=31950974) - [Artist Kenichi Kanazawa makes geometric designs using sound waves (2020)](https://www.openculture.com/2020/11/artist-kenichi-kanazawa-makes-amazing-geometric-designs-out-of-sand.html)
-* [2022-07-01, 13:09:46](https://news.ycombinator.com/item?id=31945863) - [An engineer’s tips for writing documentation devs love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
 * [2022-07-01, 12:30:38](https://news.ycombinator.com/item?id=31945504) - [The Berkeley Crossword Solver](https://bair.berkeley.edu/blog/2022/05/20/crosswords/)
 * [2022-07-01, 12:27:23](https://news.ycombinator.com/item?id=31945478) - [Porting Graphing Calculator from C++ to Swift](https://www.swift.org/blog/graphing-calculator/)
-* [2022-07-01, 11:55:25](https://news.ycombinator.com/item?id=31945150) - [The Value Flywheel Effect](https://itrevolution.com/exclusive-excerpt-from-the-flywheel-effect/)
 * [2022-07-01, 11:01:06](https://news.ycombinator.com/item?id=31944705) - [How many decimals of pi do we need? (2016)](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/)
 * [2022-07-01, 10:56:24](https://news.ycombinator.com/item?id=31944680) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://minerva-demo.github.io/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 09:10:51](https://news.ycombinator.com/item?id=31944043) - [Can computers be mathematicians?](https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/)
 * [2022-07-01, 07:58:21](https://news.ycombinator.com/item?id=31943639) - [Building explainability into the components of machine-learning models](https://news.mit.edu/2022/explainability-machine-learning-0630)
 * [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
+* [2022-06-30, 16:38:40](https://news.ycombinator.com/item?id=31935058) - [A tale of two clocks – Scheduling Web Audio with precision](https://web.dev/audio-scheduling/)
 
 ## [Archives](archives/index.md)
 
