@@ -50,6 +50,7 @@
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Rich Hickey – Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:38:50](https://news.ycombinator.com/item?id=31957551) - [Scunthorpe Sans, A s*** font that f***ing censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
 * [2022-07-02, 09:21:00](https://news.ycombinator.com/item?id=31957477) - [Mastodon Branding Update](https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/)
+* [2022-07-02, 09:19:45](https://news.ycombinator.com/item?id=31957471) - [The Dance Between Editor and Writer in “Turn Every Page”](https://www.newyorker.com/culture/culture-desk/the-dance-between-editor-and-writer-in-turn-every-page)
 * [2022-07-02, 09:02:07](https://news.ycombinator.com/item?id=31957389) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 * [2022-07-02, 08:41:57](https://news.ycombinator.com/item?id=31957321) - [World Population Clock: 7.96B People (2022)](https://www.worldometers.info/world-population/)
 * [2022-07-02, 08:27:33](https://news.ycombinator.com/item?id=31957255) - [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
