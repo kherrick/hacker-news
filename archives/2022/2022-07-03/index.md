@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 17:57:43](https://news.ycombinator.com/item?id=31969611) - [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
 * [2022-07-03, 17:46:00](https://news.ycombinator.com/item?id=31969505) - [Satellites can now find the sources of methane leaks](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
 * [2022-07-03, 17:27:44](https://news.ycombinator.com/item?id=31969345) - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
 * [2022-07-03, 17:24:49](https://news.ycombinator.com/item?id=31969326) - [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
