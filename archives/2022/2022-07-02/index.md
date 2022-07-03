@@ -46,6 +46,7 @@
 * [2022-07-02, 11:41:31](https://news.ycombinator.com/item?id=31958201) - [ShotSpotter defamation lawsuit against VICE has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
 * [2022-07-02, 10:53:05](https://news.ycombinator.com/item?id=31957908) - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
 * [2022-07-02, 10:45:36](https://news.ycombinator.com/item?id=31957863) - [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
+* [2022-07-02, 10:01:45](https://news.ycombinator.com/item?id=31957649) - [Making a Hydraulic Pressure-to-Force Gauge (2018)](https://www.skylighter.com/blogs/how-to-make-fireworks/arbor-press-force-gauge)
 * [2022-07-02, 09:50:11](https://news.ycombinator.com/item?id=31957603) - [How does a USB keyboard work? (2021) [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
 * [2022-07-02, 09:39:39](https://news.ycombinator.com/item?id=31957554) - [Rich Hickey – Open Source is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 * [2022-07-02, 09:38:50](https://news.ycombinator.com/item?id=31957551) - [Scunthorpe Sans, A s*** font that f***ing censors bad language automatically](https://vole.wtf/scunthorpe-sans/)
