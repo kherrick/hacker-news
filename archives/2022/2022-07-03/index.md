@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 16:00:51](https://news.ycombinator.com/item?id=31968674) - [Is Taxation Theft?](https://aeon.co/essays/if-your-pay-is-not-yours-to-keep-then-neither-is-the-tax)
+* [2022-07-03, 15:10:38](https://news.ycombinator.com/item?id=31968280) - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 * [2022-07-03, 15:07:51](https://news.ycombinator.com/item?id=31968258) - [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
 * [2022-07-03, 15:03:40](https://news.ycombinator.com/item?id=31968223) - [Can we have a less flamey discussion of self driving cars?](https://news.ycombinator.com/item?id=31968223)
+* [2022-07-03, 14:56:11](https://news.ycombinator.com/item?id=31968169) - [Ask HN: Which book would you pick to re-read for the rest of your life?](https://news.ycombinator.com/item?id=31968169)
 * [2022-07-03, 13:32:36](https://news.ycombinator.com/item?id=31967583) - [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
 * [2022-07-03, 13:12:12](https://news.ycombinator.com/item?id=31967454) - [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
 * [2022-07-03, 13:06:54](https://news.ycombinator.com/item?id=31967420) - [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
