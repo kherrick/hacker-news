@@ -18,7 +18,7 @@
 * [2022-07-02, 19:11:52](https://news.ycombinator.com/item?id=31961502) - [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [Darktable 4.0](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
-* [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
+* [2022-07-01, 23:49:09](https://news.ycombinator.com/item?id=31954518) - [Improving distributed caching performance and efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 * [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
 * [2022-07-01, 18:49:56](https://news.ycombinator.com/item?id=31950974) - [Artist Kenichi Kanazawa makes geometric designs using sound waves (2020)](https://www.openculture.com/2020/11/artist-kenichi-kanazawa-makes-amazing-geometric-designs-out-of-sand.html)
 * [2022-07-01, 12:30:38](https://news.ycombinator.com/item?id=31945504) - [The Berkeley Crossword Solver](https://bair.berkeley.edu/blog/2022/05/20/crosswords/)
