@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 23:27:55](https://news.ycombinator.com/item?id=31971901) - [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
 * [2022-07-03, 23:20:09](https://news.ycombinator.com/item?id=31971858) - [Why nobody ever wins the car at the mall](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
 * [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum mechanics and Tomb Raider (2007)](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 * [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum Mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/#more-12)
