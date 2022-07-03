@@ -71,6 +71,8 @@
 * [2022-07-01, 11:53:31](https://news.ycombinator.com/item?id=31945134) - [Harvard Must Fall](https://unherd.com/2022/07/harvard-must-fall/)
 * [2022-07-01, 11:10:21](https://news.ycombinator.com/item?id=31944777) - [V 0.3](https://github.com/vlang/v/discussions/14895)
 * [2022-07-01, 11:08:32](https://news.ycombinator.com/item?id=31944757) - [YouTube BANNED my Debunking Video but leaves DEADLY how-to vids online, 34 dead](https://www.youtube.com/watch?v=GZrynWtBDTE)
+* [2022-07-01, 11:01:06](https://news.ycombinator.com/item?id=31944705) - [How Many Decimals of Pi Do We Need?(2016)](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-%20pi-do-we-really-need/)
+* [2022-07-01, 10:56:24](https://news.ycombinator.com/item?id=31944680) - [Minerva: Solving Quantitative Reasoning Problems with Language Models](https://minerva-demo.github.io/)
 * [2022-07-01, 10:49:08](https://news.ycombinator.com/item?id=31944636) - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
