@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 17:00:57](https://news.ycombinator.com/item?id=31969150) - [Patterns (YC S21) Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
 * [2022-07-03, 15:31:32](https://news.ycombinator.com/item?id=31968456) - [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
 * [2022-07-03, 15:10:38](https://news.ycombinator.com/item?id=31968280) - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 * [2022-07-03, 15:07:51](https://news.ycombinator.com/item?id=31968258) - [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
@@ -9,7 +10,6 @@
 * [2022-07-03, 12:56:27](https://news.ycombinator.com/item?id=31967356) - [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
 * [2022-07-03, 12:33:32](https://news.ycombinator.com/item?id=31967221) - [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
 * [2022-07-03, 12:18:24](https://news.ycombinator.com/item?id=31967141) - [Show HN: Generate webpage summary images with DALL-E mini](https://colab.research.google.com/github/neuml/txtai/blob/master/examples/35_Pictures_are_worth_a_thousand_words.ipynb)
-* [2022-07-03, 12:00:35](https://news.ycombinator.com/item?id=31967057) - [The Muse (YC W12) Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
 * [2022-07-03, 11:51:10](https://news.ycombinator.com/item?id=31967011) - [The web is not poor man’s native](https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/)
 * [2022-07-03, 11:36:15](https://news.ycombinator.com/item?id=31966919) - [It's quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
 * [2022-07-03, 11:11:28](https://news.ycombinator.com/item?id=31966804) - [Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
@@ -24,11 +24,11 @@
 * [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [WeatherKit](https://developer.apple.com/weatherkit/)
 * [2022-07-03, 03:05:10](https://news.ycombinator.com/item?id=31964685) - [How to build a chess engine](https://www.chessengines.org/)
 * [2022-07-03, 02:30:08](https://news.ycombinator.com/item?id=31964517) - [GitHub Code Search (Preview)](https://cs.github.com/about)
-* [2022-07-02, 23:26:55](https://news.ycombinator.com/item?id=31963460) - [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
 * [2022-07-02, 10:01:45](https://news.ycombinator.com/item?id=31957649) - [Making a Hydraulic Pressure-to-Force Gauge (2018)](https://www.skylighter.com/blogs/how-to-make-fireworks/arbor-press-force-gauge)
 * [2022-07-01, 20:50:31](https://news.ycombinator.com/item?id=31952682) - [The Old Computer Challenge V2: Back to RTC](https://dataswamp.org/~solene/2022-07-01-oldcomputerchallenge-v2-rtc.html)
 * [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
 * [2022-07-01, 16:44:01](https://news.ycombinator.com/item?id=31949115) - [Our Trip to Antioch](https://aeon.co/essays/how-ancient-roman-souvenirs-made-memories-and-meanings)
+* [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
 * [2022-07-01, 10:29:26](https://news.ycombinator.com/item?id=31944541) - [Found: The 'holy grail of catalysis'– turning methane into methanol](https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html)
 
 ## [Archives](archives/index.md)

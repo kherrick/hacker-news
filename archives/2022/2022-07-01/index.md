@@ -51,6 +51,7 @@
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947296) - [Ask HN: Freelancer? Seeking freelancer? (July 2022)](https://news.ycombinator.com/item?id=31947296)
 * [2022-07-01, 15:00:13](https://news.ycombinator.com/item?id=31947295) - [Ask HN: Who wants to be hired? (July 2022)](https://news.ycombinator.com/item?id=31947295)
 * [2022-07-01, 14:59:53](https://news.ycombinator.com/item?id=31947291) - [Police Can Trace Cameras Thanks to Sensor Imperfection ‘Fingerprints’](https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/)
+* [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How To F#€k Up An Airport](https://www.radiospaetkauf.com/ber/)
 * [2022-07-01, 14:50:59](https://news.ycombinator.com/item?id=31947172) - [If I cold emailed you, I apologize](https://blog.molecule.dev/sorry-for-the-cold-emails/)
 * [2022-07-01, 14:43:50](https://news.ycombinator.com/item?id=31947066) - [Life Helps Make Almost Half of Earth’s Minerals](https://www.quantamagazine.org/life-helps-make-almost-half-of-all-minerals-20220701/)
 * [2022-07-01, 14:02:34](https://news.ycombinator.com/item?id=31946528) - [An Anatomy of Erasure: How a free and open Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
