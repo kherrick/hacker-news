@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-03, 15:03:40](https://news.ycombinator.com/item?id=31968223) - [Can we have a less flamey discussion of self driving cars?](https://news.ycombinator.com/item?id=31968223)
+* [2022-07-03, 15:07:51](https://news.ycombinator.com/item?id=31968258) - [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
 * [2022-07-03, 13:32:36](https://news.ycombinator.com/item?id=31967583) - [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
 * [2022-07-03, 13:06:54](https://news.ycombinator.com/item?id=31967420) - [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
 * [2022-07-03, 12:56:27](https://news.ycombinator.com/item?id=31967356) - [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
