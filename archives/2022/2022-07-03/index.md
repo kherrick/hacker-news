@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-03](index.md)
 
+* [2022-07-03, 12:00:35](https://news.ycombinator.com/item?id=31967057) - [The Muse (YC W12) Is Growing Our Platform Engineering Team](https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c)
+* [2022-07-03, 11:36:15](https://news.ycombinator.com/item?id=31966919) - [It's quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
 * [2022-07-03, 11:11:28](https://news.ycombinator.com/item?id=31966804) - [Couch to 64k – a.k.a. Building a Z80 Breadboard Computer (2020)](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
 * [2022-07-03, 09:48:08](https://news.ycombinator.com/item?id=31966435) - [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 * [2022-07-03, 09:02:11](https://news.ycombinator.com/item?id=31966254) - [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
