@@ -13,7 +13,6 @@
 * [2022-07-03, 02:30:08](https://news.ycombinator.com/item?id=31964517) - [GitHub Code Search (Preview)](https://cs.github.com/about)
 * [2022-07-03, 00:23:07](https://news.ycombinator.com/item?id=31963813) - [Documents reveal McKinsey's role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
 * [2022-07-02, 23:26:55](https://news.ycombinator.com/item?id=31963460) - [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
-* [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [Darktable 4.0](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [The trimodal nature of software salaries in the Netherlands and Europe (2021)](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [2022-07-02, 16:12:00](https://news.ycombinator.com/item?id=31960219) - [Open Logic Project](http://builds.openlogicproject.org/)
@@ -29,6 +28,7 @@
 * [2022-07-01, 09:10:51](https://news.ycombinator.com/item?id=31944043) - [Can computers be mathematicians?](https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/)
 * [2022-07-01, 07:58:21](https://news.ycombinator.com/item?id=31943639) - [Building explainability into the components of machine-learning models](https://news.mit.edu/2022/explainability-machine-learning-0630)
 * [2022-07-01, 07:40:20](https://news.ycombinator.com/item?id=31943528) - [Football shirts chart the rise and fall of tech giants](https://restofworld.org/2022/football-shirt-tech-sponsorship/)
+* [2022-06-30, 22:08:08](https://news.ycombinator.com/item?id=31939300) - [Gradual Soundness: Lessons from static Python](https://blog.brownplt.org/2022/06/28/static-python.html)
 * [2022-06-30, 16:38:40](https://news.ycombinator.com/item?id=31935058) - [A tale of two clocks – Scheduling Web Audio with precision](https://web.dev/audio-scheduling/)
 
 ## [Archives](archives/index.md)
