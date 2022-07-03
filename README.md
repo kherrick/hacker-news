@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-03, 03:45:45](https://news.ycombinator.com/item?id=31964867) - [Apple WeatherKit](https://developer.apple.com/weatherkit/)
 * [2022-07-03, 03:23:46](https://news.ycombinator.com/item?id=31964766) - [IPL: Intuitionistic Programming Language](http://intuitionistic.org)
 * [2022-07-03, 03:05:10](https://news.ycombinator.com/item?id=31964685) - [How to build a Chess Engine, an interactive guide](https://www.chessengines.org/)
 * [2022-07-03, 00:23:07](https://news.ycombinator.com/item?id=31963813) - [Documents reveal McKinsey's role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
@@ -17,7 +18,6 @@
 * [2022-07-02, 15:33:20](https://news.ycombinator.com/item?id=31959890) - [Yahoo admits mangling e-mail (2002)](http://news.bbc.co.uk/2/hi/science/nature/2138014.stm)
 * [2022-07-02, 14:31:17](https://news.ycombinator.com/item?id=31959289) - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 * [2022-07-02, 13:30:47](https://news.ycombinator.com/item?id=31958823) - [Show HN: Copper – A Go framework for your projects](https://github.com/gocopper/copper)
-* [2022-07-01, 23:49:09](https://news.ycombinator.com/item?id=31954518) - [Improving distributed caching performance and efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 * [2022-07-01, 20:45:39](https://news.ycombinator.com/item?id=31952610) - [Wordalle – Guess the prompt used to generate a set of images from DalleMini](https://huggingface.co/spaces/huggingface-projects/wordalle)
 * [2022-07-01, 18:49:56](https://news.ycombinator.com/item?id=31950974) - [Artist Kenichi Kanazawa makes geometric designs using sound waves (2020)](https://www.openculture.com/2020/11/artist-kenichi-kanazawa-makes-amazing-geometric-designs-out-of-sand.html)
 * [2022-07-01, 13:09:46](https://news.ycombinator.com/item?id=31945863) - [An engineer’s tips for writing documentation devs love](https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/)
