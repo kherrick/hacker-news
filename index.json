@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-07-04, 01:47:51",
+      "https://news.ycombinator.com/item?id=31972681"
+    ],
+    [
+      "Popcorn Time Is Back",
+      "https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 01:47:02",
+      "https://news.ycombinator.com/item?id=31972678"
+    ],
+    [
+      "Microsoft top cloud – 14.4% of the market share vs. 13.7% that of AWS",
+      "https://www.sdxcentral.com/articles/news/microsoft-bests-amazon-as-top-public-cloud-idc-reports/2022/07/"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 01:30:34",
+      "https://news.ycombinator.com/item?id=31972584"
+    ],
+    [
+      "Goodbye Medium, hello Ghost",
+      "https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 00:46:30",
+      "https://news.ycombinator.com/item?id=31972346"
+    ],
+    [
+      "Building a Sevenesque Roadster",
+      "http://sevenesque.com/"
+    ]
+  ],
+  [
+    [
       "2022-07-03, 23:27:55",
       "https://news.ycombinator.com/item?id=31971901"
     ],
@@ -11,12 +51,32 @@
   ],
   [
     [
+      "2022-07-03, 23:26:43",
+      "https://news.ycombinator.com/item?id=31971892"
+    ],
+    [
+      "The Old Reader",
+      "https://theoldreader.com/"
+    ]
+  ],
+  [
+    [
       "2022-07-03, 23:20:09",
       "https://news.ycombinator.com/item?id=31971858"
     ],
     [
       "Why nobody ever wins the car at the mall (2018)",
       "https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 22:52:09",
+      "https://news.ycombinator.com/item?id=31971684"
+    ],
+    [
+      "Gitlab Architecture Overview",
+      "https://docs.gitlab.com/ee/development/architecture.html"
     ]
   ],
   [
@@ -41,32 +101,12 @@
   ],
   [
     [
-      "2022-07-03, 20:29:56",
-      "https://news.ycombinator.com/item?id=31970743"
-    ],
-    [
-      "Transporting food generates whopping amounts of carbon dioxide",
-      "https://www.nature.com/articles/d41586-022-01766-0"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 20:28:16",
       "https://news.ycombinator.com/item?id=31970724"
     ],
     [
       "Understanding how others relate to you",
       "https://www.bmj.com/content/377/bmj.o1548"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 20:08:40",
-      "https://news.ycombinator.com/item?id=31970592"
-    ],
-    [
-      "India’s biggest businesses are tapping green hydrogen as a future fuel",
-      "https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2022-07-03, 12:33:32",
-      "https://news.ycombinator.com/item?id=31967221"
-    ],
-    [
-      "40% of Google users now connect via IPv6",
-      "https://www.google.com/intl/en/ipv6/statistics.html"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 11:36:15",
       "https://news.ycombinator.com/item?id=31966919"
     ],
@@ -211,62 +241,32 @@
   ],
   [
     [
-      "2022-07-03, 11:11:28",
-      "https://news.ycombinator.com/item?id=31966804"
+      "2022-07-02, 05:55:14",
+      "https://news.ycombinator.com/item?id=31956624"
     ],
     [
-      "Couch to 64k, a.k.a. Building a Z80 Breadboard Computer (2020)",
-      "http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/"
+      "Bell-Curve Opinions on Engineering",
+      "https://matt-rickard.com/bell-curve-ideas/"
     ]
   ],
   [
     [
-      "2022-07-03, 11:09:53",
-      "https://news.ycombinator.com/item?id=31966790"
+      "2022-07-02, 05:14:36",
+      "https://news.ycombinator.com/item?id=31956462"
     ],
     [
-      "BootBASIC Interpreter in 512 Bytes",
-      "https://github.com/nanochess/bootBASIC"
+      "Carnivorous plant traps prey underground, the first of it's kind",
+      "https://www.cnn.com/2022/07/01/world/carnivorous-plant-lives-underground-discovered-scn/index.html"
     ]
   ],
   [
     [
-      "2022-07-03, 09:48:08",
-      "https://news.ycombinator.com/item?id=31966435"
+      "2022-07-02, 04:57:41",
+      "https://news.ycombinator.com/item?id=31956392"
     ],
     [
-      "Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains",
-      "https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 06:40:09",
-      "https://news.ycombinator.com/item?id=31956787"
-    ],
-    [
-      "Show HN: What do avoided crossings sound like?",
-      "http://hyad.es/chirp"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 06:02:14",
-      "https://news.ycombinator.com/item?id=31956655"
-    ],
-    [
-      "What Is Pozidriv? How Does It Differ from a Phillips Drive?",
-      "https://www.albanycountyfasteners.com/blog/what-is-pozidriv-is-it-different-from-phillips/"
-    ]
-  ],
-  [
-    [
-      "2022-07-02, 00:27:30",
-      "https://news.ycombinator.com/item?id=31954782"
-    ],
-    [
-      "Sequoia Arc: Catalyst for Seed Companies",
-      "https://arc.sequoiacap.com/"
+      "My New Sony NW-A55 Walkman",
+      "https://rubenerd.com/my-new-sony-nw-a55-walkman/"
     ]
   ],
   [
