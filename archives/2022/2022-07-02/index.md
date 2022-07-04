@@ -40,6 +40,7 @@
 * [2022-07-02, 13:14:07](https://news.ycombinator.com/item?id=31958715) - [Are we too many people or too few?](http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html)
 * [2022-07-02, 12:50:53](https://news.ycombinator.com/item?id=31958597) - [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
 * [2022-07-02, 12:41:23](https://news.ycombinator.com/item?id=31958536) - [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
+* [2022-07-02, 12:35:56](https://news.ycombinator.com/item?id=31958512) - [Robertson vs. Torx screw drives – fight (2021)](https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/)
 * [2022-07-02, 12:10:09](https://news.ycombinator.com/item?id=31958362) - [UK Goverment keen on 50-year mortgages](https://www.independent.co.uk/news/uk/politics/boris-johnson-mortgages-parents-children-b2113882.html)
 * [2022-07-02, 12:04:39](https://news.ycombinator.com/item?id=31958331) - [Choosing SOFA](https://idiomdrottning.org/sofa)
 * [2022-07-02, 12:01:11](https://news.ycombinator.com/item?id=31958323) - [Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
