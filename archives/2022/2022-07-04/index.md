@@ -63,3 +63,4 @@
 * [2022-07-04, 01:30:34](https://news.ycombinator.com/item?id=31972584) - [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
 * [2022-07-04, 01:17:18](https://news.ycombinator.com/item?id=31972525) - [Longitudinal cohort study of the displacement of teaspoons (2005)](https://www.bmj.com/content/331/7531/1498)
 * [2022-07-04, 00:46:30](https://news.ycombinator.com/item?id=31972346) - [Building a Sevenesque Roadster](http://sevenesque.com/)
+* [2022-07-04, 00:40:01](https://news.ycombinator.com/item?id=31972318) - [All That Is Not Good](https://www.historytoday.com/archive/out-margins/all-not-good)
