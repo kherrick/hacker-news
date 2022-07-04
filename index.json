@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-07-04, 06:25:28",
-      "https://news.ycombinator.com/item?id=31974053"
-    ],
-    [
-      "If I hear one more person say “sell before you build” I'm going to puke",
-      "https://www.indiehackers.com/post/if-i-hear-one-more-person-say-sell-before-you-build-i-m-going-to-puke-f016215876"
-    ]
-  ],
-  [
-    [
       "2022-07-04, 06:03:20",
       "https://news.ycombinator.com/item?id=31973917"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=31973859"
     ],
     [
-      "Why runbooks are the key to handling any situation effectively",
+      "Keep calm and use the runbook",
       "https://www.cortex.io/post/keep-calm-and-use-the-runbook"
     ]
   ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2022-07-03, 13:19:01",
-      "https://news.ycombinator.com/item?id=31967503"
+      "2022-07-03, 11:35:14",
+      "https://news.ycombinator.com/item?id=31966914"
     ],
     [
-      "RETRO is fast",
-      "http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html"
+      "Show HN: Desklamp – convenient and collaborative notemaking on PDFs",
+      "https://desklamp.io/"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=31956871"
     ],
     [
-      "Gitlab is splitting their main and ci Postgres databases",
+      "We are splitting our database into Main and CI",
       "https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/"
     ]
   ],
@@ -255,8 +245,18 @@
       "https://news.ycombinator.com/item?id=31956870"
     ],
     [
-      "Formally Proven Binary Format Parsers",
+      "Hardening attack surfaces with formally proven binary format parsers",
       "https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 06:02:14",
+      "https://news.ycombinator.com/item?id=31956655"
+    ],
+    [
+      "What Is Pozidriv? How Does It Differ from a Phillips Drive? (2020)",
+      "https://www.albanycountyfasteners.com/blog/what-is-pozidriv-is-it-different-from-phillips/"
     ]
   ],
   [
