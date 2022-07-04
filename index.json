@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-07-04, 03:43:25",
+      "https://news.ycombinator.com/item?id=31973289"
+    ],
+    [
+      "SpotDL – Spotify Downloader",
+      "https://github.com/spotDL/spotify-downloader"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 03:32:37",
+      "https://news.ycombinator.com/item?id=31973232"
+    ],
+    [
+      "macOS: App Sandboxing via Sandbox-Exec",
+      "https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 03:21:06",
+      "https://news.ycombinator.com/item?id=31973171"
+    ],
+    [
+      "The Pixel 6 Pro has the worst connectivity and reception of any phone I've used",
+      "https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 01:47:51",
       "https://news.ycombinator.com/item?id=31972681"
     ],
     [
       "Popcorn Time Is Back",
       "https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 01:47:02",
-      "https://news.ycombinator.com/item?id=31972678"
-    ],
-    [
-      "Microsoft top cloud – 14.4% of the market share vs. 13.7% that of AWS",
-      "https://www.sdxcentral.com/articles/news/microsoft-bests-amazon-as-top-public-cloud-idc-reports/2022/07/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-07-03, 18:22:25",
-      "https://news.ycombinator.com/item?id=31969809"
-    ],
-    [
-      "Introduction to Computer Vision",
-      "https://blog.theos.ai/articles/introduction-to-computer-vision"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 17:27:44",
       "https://news.ycombinator.com/item?id=31969345"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-07-03, 11:36:15",
-      "https://news.ycombinator.com/item?id=31966919"
-    ],
-    [
-      "It's quite hard to lose a Duolingo streak",
-      "https://leejo.github.io/2022/07/03/duolingo_streak/"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 11:35:14",
       "https://news.ycombinator.com/item?id=31966914"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-07-02, 05:55:14",
-      "https://news.ycombinator.com/item?id=31956624"
+      "2022-07-02, 12:35:56",
+      "https://news.ycombinator.com/item?id=31958512"
     ],
     [
-      "Bell-Curve Opinions on Engineering",
-      "https://matt-rickard.com/bell-curve-ideas/"
+      "Robertson vs. Torx screw drives – fight (2021)",
+      "https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=31956462"
     ],
     [
-      "Carnivorous plant traps prey underground, the first of it's kind",
+      "A carnivorous plant that traps prey underground",
       "https://www.cnn.com/2022/07/01/world/carnivorous-plant-lives-underground-discovered-scn/index.html"
     ]
   ],
