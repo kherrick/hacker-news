@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 06:10:26](https://news.ycombinator.com/item?id=31973963) - [Tech Debt, Incidents and on Call](https://thenewstack.io/tech-debt-incidents-and-on-call/)
+* [2022-07-04, 06:03:20](https://news.ycombinator.com/item?id=31973917) - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
+* [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Why runbooks are the key to handling any situation effectively](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 * [2022-07-04, 03:43:25](https://news.ycombinator.com/item?id=31973289) - [SpotDL – Spotify Downloader](https://github.com/spotDL/spotify-downloader)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
 * [2022-07-04, 03:25:45](https://news.ycombinator.com/item?id=31973196) - [The problem with free (2019)](https://vanschneider.com/blog/the-problem-with-free/)
