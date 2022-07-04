@@ -6,6 +6,7 @@
 * [2022-07-04, 19:44:54](https://news.ycombinator.com/item?id=31980989) - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
 * [2022-07-04, 19:43:56](https://news.ycombinator.com/item?id=31980980) - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
 * [2022-07-04, 18:54:09](https://news.ycombinator.com/item?id=31980548) - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
+* [2022-07-04, 18:04:26](https://news.ycombinator.com/item?id=31980069) - [Show HN: Trane, an automated system for learning complex skills](https://github.com/trane-project/trane)
 * [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
 * [2022-07-04, 17:36:39](https://news.ycombinator.com/item?id=31979746) - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
 * [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker (2010)](http://www.cowclicker.com/)
@@ -29,7 +30,6 @@
 * [2022-07-04, 06:35:45](https://news.ycombinator.com/item?id=31974120) - [The Sky Thief (2021)](https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/)
 * [2022-07-04, 00:40:01](https://news.ycombinator.com/item?id=31972318) - [All That Is Not Good](https://www.historytoday.com/archive/out-margins/all-not-good)
 * [2022-07-03, 06:38:07](https://news.ycombinator.com/item?id=31965616) - [Ask HN: How to keep my daughter busy while tickling her curiosity](https://news.ycombinator.com/item?id=31965616)
-* [2022-07-01, 10:00:16](https://news.ycombinator.com/item?id=31944352) - [Functional programming jargon in plain English](https://github.com/hemanth/functional-programming-jargon)
 
 ## [Archives](archives/index.md)
 
