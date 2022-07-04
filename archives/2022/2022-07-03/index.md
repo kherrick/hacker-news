@@ -39,6 +39,7 @@
 * [2022-07-03, 14:56:11](https://news.ycombinator.com/item?id=31968169) - [Ask HN: Which book would you pick to re-read for the rest of your life?](https://news.ycombinator.com/item?id=31968169)
 * [2022-07-03, 14:50:02](https://news.ycombinator.com/item?id=31968114) - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898)
 * [2022-07-03, 14:32:18](https://news.ycombinator.com/item?id=31967965) - [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/)
+* [2022-07-03, 13:56:24](https://news.ycombinator.com/item?id=31967730) - [The Sinking of Voyager](https://www.coppolacomment.com/2022/07/the-sinking-of-voyager.html)
 * [2022-07-03, 13:32:36](https://news.ycombinator.com/item?id=31967583) - [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
 * [2022-07-03, 13:19:01](https://news.ycombinator.com/item?id=31967503) - [Retro Is Fast – Mitchell A. Gordon](http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html)
 * [2022-07-03, 13:12:12](https://news.ycombinator.com/item?id=31967454) - [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
