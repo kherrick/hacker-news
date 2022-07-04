@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:03:34](https://news.ycombinator.com/item?id=31977144) - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
 * [2022-07-04, 13:43:43](https://news.ycombinator.com/item?id=31976955) - [The local news crisis is deepening America's divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
 * [2022-07-04, 12:57:09](https://news.ycombinator.com/item?id=31976525) - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
+* [2022-07-04, 12:47:45](https://news.ycombinator.com/item?id=31976457) - [Hilarious 'Web 3 Console' Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
 * [2022-07-04, 11:31:59](https://news.ycombinator.com/item?id=31975901) - [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
@@ -15,6 +15,7 @@
 * [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 07:19:02](https://news.ycombinator.com/item?id=31974364) - [McDonald's and Optimal Pricing Strategies](http://livingstingy.blogspot.com/2022/07/mcdonalds-and-optimal-pricing-strategies.html)
+* [2022-07-04, 06:16:33](https://news.ycombinator.com/item?id=31973998) - [About the Reactor](https://reactor.reed.edu/about.html)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 * [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App sandboxing via sandbox-exec (2020)](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
@@ -27,7 +28,6 @@
 * [2022-07-02, 07:45:48](https://news.ycombinator.com/item?id=31957054) - [Ubuntu Unity desktop back from the dead after several years' hiatus](https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/)
 * [2022-07-02, 07:03:31](https://news.ycombinator.com/item?id=31956871) - [We are splitting our database into Main and CI](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)
 * [2022-07-02, 07:03:26](https://news.ycombinator.com/item?id=31956870) - [Hardening attack surfaces with formally proven binary format parsers](https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/)
-* [2022-07-02, 05:14:36](https://news.ycombinator.com/item?id=31956462) - [A carnivorous plant that traps prey underground](https://www.cnn.com/2022/07/01/world/carnivorous-plant-lives-underground-discovered-scn/index.html)
 * [2022-07-02, 04:57:41](https://news.ycombinator.com/item?id=31956392) - [My New Sony NW-A55 Walkman](https://rubenerd.com/my-new-sony-nw-a55-walkman/)
 * [2022-07-01, 10:00:16](https://news.ycombinator.com/item?id=31944352) - [Functional programming jargon in plain English](https://github.com/hemanth/functional-programming-jargon)
 
