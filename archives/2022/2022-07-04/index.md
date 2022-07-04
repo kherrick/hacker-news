@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
 * [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
@@ -27,6 +28,7 @@
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
 * [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 08:38:52](https://news.ycombinator.com/item?id=31974873) - [The Norwegian library with unreadable books](https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books)
+* [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [I tried the app that ‘makes you trip’ and it was surprisingly good](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 07:19:02](https://news.ycombinator.com/item?id=31974364) - [McDonald's and Optimal Pricing Strategies](http://livingstingy.blogspot.com/2022/07/mcdonalds-and-optimal-pricing-strategies.html)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
