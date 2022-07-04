@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-04, 22:26:15](https://news.ycombinator.com/item?id=31982369) - [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
 * [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
+* [2022-07-04, 20:44:21](https://news.ycombinator.com/item?id=31981568) - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 20:06:22](https://news.ycombinator.com/item?id=31981216) - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
 * [2022-07-04, 19:44:54](https://news.ycombinator.com/item?id=31980989) - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
-* [2022-07-04, 19:43:56](https://news.ycombinator.com/item?id=31980980) - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
 * [2022-07-04, 18:54:09](https://news.ycombinator.com/item?id=31980548) - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
 * [2022-07-04, 18:04:26](https://news.ycombinator.com/item?id=31980069) - [Show HN: Trane, an automated system for learning complex skills](https://github.com/trane-project/trane)
 * [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
@@ -27,7 +28,6 @@
 * [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [A phone app called Lumenate claims to alter the brain’s rhythms (2021)](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
 * [2022-07-04, 07:47:30](https://news.ycombinator.com/item?id=31974534) - [Number of pubs in England and Wales falls to record low](https://www.theguardian.com/business/2022/jul/04/number-of-pubs-in-england-and-wales-falls-to-record-low-covid-19-soaring-costs)
 * [2022-07-04, 06:35:45](https://news.ycombinator.com/item?id=31974120) - [The Sky Thief (2021)](https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/)
-* [2022-07-04, 00:40:01](https://news.ycombinator.com/item?id=31972318) - [All That Is Not Good](https://www.historytoday.com/archive/out-margins/all-not-good)
 * [2022-07-03, 13:56:24](https://news.ycombinator.com/item?id=31967730) - [The Sinking of Voyager](https://www.coppolacomment.com/2022/07/the-sinking-of-voyager.html)
 * [2022-07-03, 06:38:07](https://news.ycombinator.com/item?id=31965616) - [Ask HN: How to keep my daughter busy while tickling her curiosity](https://news.ycombinator.com/item?id=31965616)
 
