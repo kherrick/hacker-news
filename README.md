@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
 * [2022-07-04, 06:25:28](https://news.ycombinator.com/item?id=31974053) - [If I hear one more person say “sell before you build” I'm going to puke](https://www.indiehackers.com/post/if-i-hear-one-more-person-say-sell-before-you-build-i-m-going-to-puke-f016215876)
 * [2022-07-04, 06:03:20](https://news.ycombinator.com/item?id=31973917) - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Why runbooks are the key to handling any situation effectively](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
@@ -20,16 +21,15 @@
 * [2022-07-03, 17:27:44](https://news.ycombinator.com/item?id=31969345) - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
 * [2022-07-03, 14:50:02](https://news.ycombinator.com/item?id=31968114) - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898)
 * [2022-07-03, 13:19:01](https://news.ycombinator.com/item?id=31967503) - [RETRO is fast](http://mitchgordon.me/ml/2022/07/01/retro-is-blazing.html)
-* [2022-07-03, 13:06:54](https://news.ycombinator.com/item?id=31967420) - [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
 * [2022-07-02, 12:35:56](https://news.ycombinator.com/item?id=31958512) - [Robertson vs. Torx screw drives (2021)](https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/)
 * [2022-07-02, 07:47:46](https://news.ycombinator.com/item?id=31957061) - [Knipex Plier-Wrench Review (2018)](https://thecarpentryway.blog/2018/09/knipex-plier-wrench-review/)
 * [2022-07-02, 07:45:48](https://news.ycombinator.com/item?id=31957054) - [Ubuntu Unity desktop back from the dead after several years' hiatus](https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/)
+* [2022-07-02, 07:03:31](https://news.ycombinator.com/item?id=31956871) - [Gitlab is splitting their main and ci Postgres databases](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)
 * [2022-07-02, 07:03:26](https://news.ycombinator.com/item?id=31956870) - [Formally Proven Binary Format Parsers](https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/)
 * [2022-07-02, 05:14:36](https://news.ycombinator.com/item?id=31956462) - [A carnivorous plant that traps prey underground](https://www.cnn.com/2022/07/01/world/carnivorous-plant-lives-underground-discovered-scn/index.html)
 * [2022-07-02, 04:57:41](https://news.ycombinator.com/item?id=31956392) - [My New Sony NW-A55 Walkman](https://rubenerd.com/my-new-sony-nw-a55-walkman/)
 * [2022-07-01, 19:47:26](https://news.ycombinator.com/item?id=31951778) - [How did a woman with a missing temporal lobe become bilingual?](https://journal.medizzy.com/how-did-a-woman-with-a-missing-temporal-lobe-become-bilingual/)
 * [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
-* [2022-07-01, 06:17:58](https://news.ycombinator.com/item?id=31943016) - [Ask HN: How do you ensure everyone on the team is heard on Slack?](https://news.ycombinator.com/item?id=31943016)
 
 ## [Archives](archives/index.md)
 
