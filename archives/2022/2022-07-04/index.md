@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 18:54:09](https://news.ycombinator.com/item?id=31980548) - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
 * [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
 * [2022-07-04, 17:36:39](https://news.ycombinator.com/item?id=31979746) - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
 * [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker](http://www.cowclicker.com/)
