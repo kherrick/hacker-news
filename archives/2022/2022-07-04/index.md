@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:03:34](https://news.ycombinator.com/item?id=31977144) - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
+* [2022-07-04, 13:43:43](https://news.ycombinator.com/item?id=31976955) - [The local news crisis is deepening America's divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
 * [2022-07-04, 13:28:53](https://news.ycombinator.com/item?id=31976803) - [Ask HN: First-time dad-to-be. What do you wish you'd known back then?](https://news.ycombinator.com/item?id=31976803)
 * [2022-07-04, 12:57:09](https://news.ycombinator.com/item?id=31976525) - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
 * [2022-07-04, 12:41:08](https://news.ycombinator.com/item?id=31976407) - [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
@@ -13,6 +15,7 @@
 * [2022-07-04, 11:31:59](https://news.ycombinator.com/item?id=31975901) - [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 * [2022-07-04, 11:29:45](https://news.ycombinator.com/item?id=31975882) - [Breast cancer drug trial: Woman given months to live told she is cancer free](https://www.bbc.co.uk/news/uk-england-manchester-62033469)
 * [2022-07-04, 11:28:44](https://news.ycombinator.com/item?id=31975877) - [Is McKinsey and Co. The Root of All Evil?](https://ritholtz.com/2011/03/is-mckinsey-co-the-root-of-all-evil/)
+* [2022-07-04, 11:00:56](https://news.ycombinator.com/item?id=31975730) - [The New American Micro-SaaS Dream](https://microfounder.com/blog/american-micro-saas-dream)
 * [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 * [2022-07-04, 10:12:30](https://news.ycombinator.com/item?id=31975434) - [Medical Wordlists in EN/FR](https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt)
