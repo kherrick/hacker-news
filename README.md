@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-04, 14:03:34](https://news.ycombinator.com/item?id=31977144) - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
-* [2022-07-04, 13:28:53](https://news.ycombinator.com/item?id=31976803) - [Ask HN: First-time dad-to-be. What do you wish you'd known back then?](https://news.ycombinator.com/item?id=31976803)
 * [2022-07-04, 12:57:09](https://news.ycombinator.com/item?id=31976525) - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
@@ -14,6 +13,7 @@
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 07:19:02](https://news.ycombinator.com/item?id=31974364) - [McDonald's and Optimal Pricing Strategies](http://livingstingy.blogspot.com/2022/07/mcdonalds-and-optimal-pricing-strategies.html)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
+* [2022-07-04, 06:16:33](https://news.ycombinator.com/item?id=31973998) - [About the Reactor](https://reactor.reed.edu/about.html)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 * [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App sandboxing via sandbox-exec (2020)](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
