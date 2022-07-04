@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
+* [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
 * [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)

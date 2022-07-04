@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
+* [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
 * [2022-07-04, 14:05:50](https://news.ycombinator.com/item?id=31977164) - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
@@ -25,7 +26,6 @@
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
 * [2022-07-03, 11:27:57](https://news.ycombinator.com/item?id=31966884) - [The octopus dreams of crabs](https://slate.com/culture/2022/07/animals-dream-immense-world-book-review.html)
 * [2022-07-03, 06:38:07](https://news.ycombinator.com/item?id=31965616) - [Ask HN: How to keep my daughter busy while tickling her curiosity](https://news.ycombinator.com/item?id=31965616)
-* [2022-07-02, 12:35:56](https://news.ycombinator.com/item?id=31958512) - [Robertson vs. Torx screw drives (2021)](https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/)
 * [2022-07-02, 07:45:48](https://news.ycombinator.com/item?id=31957054) - [Ubuntu Unity desktop back from the dead after several years' hiatus](https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/)
 * [2022-07-02, 07:03:31](https://news.ycombinator.com/item?id=31956871) - [We are splitting our database into Main and CI](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)
 * [2022-07-02, 07:03:26](https://news.ycombinator.com/item?id=31956870) - [Hardening attack surfaces with formally proven binary format parsers](https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/)
