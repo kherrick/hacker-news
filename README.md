@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-04, 17:23:16](https://news.ycombinator.com/item?id=31979569) - [Bitpanda said no mass layoffs, three weeks before axing one-third of staff](https://www.theblock.co/post/155398/no-mass-layoffs-said-bitpanda-three-weeks-before-axing-third-of-staff)
+* [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
 * [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
@@ -11,7 +13,6 @@
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
 * [2022-07-04, 11:31:59](https://news.ycombinator.com/item?id=31975901) - [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
-* [2022-07-04, 11:29:45](https://news.ycombinator.com/item?id=31975882) - [Breast cancer drug trial: Woman given months to live told she is cancer free](https://www.bbc.co.uk/news/uk-england-manchester-62033469)
 * [2022-07-04, 11:00:56](https://news.ycombinator.com/item?id=31975730) - [The New American Micro-SaaS Dream](https://microfounder.com/blog/american-micro-saas-dream)
 * [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
@@ -19,7 +20,6 @@
 * [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [I tried the app that ‘makes you trip’ and it was surprisingly good](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
-* [2022-07-04, 07:19:02](https://news.ycombinator.com/item?id=31974364) - [McDonald's and Optimal Pricing Strategies](http://livingstingy.blogspot.com/2022/07/mcdonalds-and-optimal-pricing-strategies.html)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 * [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App sandboxing via sandbox-exec (2020)](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)

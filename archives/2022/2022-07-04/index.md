@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 17:23:16](https://news.ycombinator.com/item?id=31979569) - [Bitpanda said no mass layoffs, three weeks before axing one-third of staff](https://www.theblock.co/post/155398/no-mass-layoffs-said-bitpanda-three-weeks-before-axing-third-of-staff)
+* [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
 * [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
