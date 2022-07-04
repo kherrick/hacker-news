@@ -46,6 +46,7 @@
 * [2022-07-02, 12:04:39](https://news.ycombinator.com/item?id=31958331) - [Choosing SOFA](https://idiomdrottning.org/sofa)
 * [2022-07-02, 12:01:11](https://news.ycombinator.com/item?id=31958323) - [Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL)](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
 * [2022-07-02, 11:41:31](https://news.ycombinator.com/item?id=31958201) - [ShotSpotter defamation lawsuit against VICE has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
+* [2022-07-02, 11:04:12](https://news.ycombinator.com/item?id=31957976) - [Show HN: Beast – The Build System](https://github.com/GauravDawra/Beast)
 * [2022-07-02, 10:53:05](https://news.ycombinator.com/item?id=31957908) - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
 * [2022-07-02, 10:45:36](https://news.ycombinator.com/item?id=31957863) - [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
 * [2022-07-02, 10:01:45](https://news.ycombinator.com/item?id=31957649) - [Making a Hydraulic Pressure-to-Force Gauge (2018)](https://www.skylighter.com/blogs/how-to-make-fireworks/arbor-press-force-gauge)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
+* [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
+* [2022-07-04, 08:38:52](https://news.ycombinator.com/item?id=31974873) - [The Norwegian library with unreadable books](https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books)
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
 * [2022-07-04, 06:25:28](https://news.ycombinator.com/item?id=31974053) - [If I hear one more person say “sell before you build” I'm going to puke](https://www.indiehackers.com/post/if-i-hear-one-more-person-say-sell-before-you-build-i-m-going-to-puke-f016215876)
