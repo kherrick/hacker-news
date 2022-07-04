@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-04, 07:27:03",
+      "https://news.ycombinator.com/item?id=31974420"
+    ],
+    [
+      "Kubernetes is a red flag signalling premature optimisation",
+      "https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 06:42:25",
       "https://news.ycombinator.com/item?id=31974146"
     ],
@@ -117,16 +127,6 @@
     [
       "Gitlab Architecture Overview",
       "https://docs.gitlab.com/ee/development/architecture.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 20:53:37",
-      "https://news.ycombinator.com/item?id=31970926"
-    ],
-    [
-      "New study lays out hidden backstory behind deadly Pacific Northwest heat wave",
-      "https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-01, 14:59:00",
-      "https://news.ycombinator.com/item?id=31947277"
+      "2022-07-01, 10:00:16",
+      "https://news.ycombinator.com/item?id=31944352"
     ],
     [
-      "How to fuck up an airport",
-      "https://www.radiospaetkauf.com/ber/"
+      "Functional programming jargon in plain English",
+      "https://github.com/hemanth/functional-programming-jargon"
     ]
   ]
 ]
