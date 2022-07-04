@@ -52,6 +52,7 @@
 * [2022-07-03, 11:51:10](https://news.ycombinator.com/item?id=31967011) - [The Web Is Not Poor Man’s Native](https://cwilso.com/2015/05/29/the-web-is-not-poor-mans-native/)
 * [2022-07-03, 11:36:15](https://news.ycombinator.com/item?id=31966919) - [It's quite hard to lose a Duolingo streak](https://leejo.github.io/2022/07/03/duolingo_streak/)
 * [2022-07-03, 11:35:14](https://news.ycombinator.com/item?id=31966914) - [Show HN: Desklamp – convenient and collaborative notemaking on PDFs](https://desklamp.io/)
+* [2022-07-03, 11:27:57](https://news.ycombinator.com/item?id=31966884) - [What Do Animals Dream?](https://slate.com/culture/2022/07/animals-dream-immense-world-book-review.html)
 * [2022-07-03, 11:11:28](https://news.ycombinator.com/item?id=31966804) - [Couch to 64k – a.k.a. Building a Z80 Breadboard Computer (2020)](http://bread80.com/2020/07/24/couch-to-64k-a-k-a-building-a-z80-breadboard-computer-part-1-pins/)
 * [2022-07-03, 11:09:53](https://news.ycombinator.com/item?id=31966790) - [BootBASIC Interpreter in 512 Bytes](https://github.com/nanochess/bootBASIC)
 * [2022-07-03, 09:48:08](https://news.ycombinator.com/item?id=31966435) - [Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
