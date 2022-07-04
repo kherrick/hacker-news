@@ -20,6 +20,7 @@
 * [2022-07-02, 18:33:54](https://news.ycombinator.com/item?id=31961244) - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
 * [2022-07-02, 18:33:38](https://news.ycombinator.com/item?id=31961239) - [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 * [2022-07-02, 18:31:26](https://news.ycombinator.com/item?id=31961216) - [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
+* [2022-07-02, 18:24:52](https://news.ycombinator.com/item?id=31961172) - [A Man with the Golden Pun](https://literaryreview.co.uk/the-man-with-the-golden-pun)
 * [2022-07-02, 18:01:54](https://news.ycombinator.com/item?id=31961038) - [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
 * [2022-07-02, 17:49:15](https://news.ycombinator.com/item?id=31960962) - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 * [2022-07-02, 17:27:28](https://news.ycombinator.com/item?id=31960814) - [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)

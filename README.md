@@ -18,8 +18,9 @@
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
 * [2022-07-03, 19:32:09](https://news.ycombinator.com/item?id=31970303) - [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
 * [2022-07-03, 18:38:57](https://news.ycombinator.com/item?id=31969931) - [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
-* [2022-07-03, 17:27:44](https://news.ycombinator.com/item?id=31969345) - [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
+* [2022-07-03, 14:50:02](https://news.ycombinator.com/item?id=31968114) - [Why does iron deficiency cause fatigue, even in the absence of anemia?](https://twitter.com/tony_breu/status/1543311124560592898)
 * [2022-07-03, 11:35:14](https://news.ycombinator.com/item?id=31966914) - [Show HN: Desklamp – convenient and collaborative notemaking on PDFs](https://desklamp.io/)
+* [2022-07-02, 18:24:52](https://news.ycombinator.com/item?id=31961172) - [A Man with the Golden Pun](https://literaryreview.co.uk/the-man-with-the-golden-pun)
 * [2022-07-02, 12:35:56](https://news.ycombinator.com/item?id=31958512) - [Robertson vs. Torx screw drives (2021)](https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/)
 * [2022-07-02, 07:47:46](https://news.ycombinator.com/item?id=31957061) - [Knipex Plier-Wrench Review (2018)](https://thecarpentryway.blog/2018/09/knipex-plier-wrench-review/)
 * [2022-07-02, 07:45:48](https://news.ycombinator.com/item?id=31957054) - [Ubuntu Unity desktop back from the dead after several years' hiatus](https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/)
@@ -28,7 +29,6 @@
 * [2022-07-02, 06:02:14](https://news.ycombinator.com/item?id=31956655) - [What Is Pozidriv? How Does It Differ from a Phillips Drive? (2020)](https://www.albanycountyfasteners.com/blog/what-is-pozidriv-is-it-different-from-phillips/)
 * [2022-07-02, 05:14:36](https://news.ycombinator.com/item?id=31956462) - [A carnivorous plant that traps prey underground](https://www.cnn.com/2022/07/01/world/carnivorous-plant-lives-underground-discovered-scn/index.html)
 * [2022-07-02, 04:57:41](https://news.ycombinator.com/item?id=31956392) - [My New Sony NW-A55 Walkman](https://rubenerd.com/my-new-sony-nw-a55-walkman/)
-* [2022-07-01, 19:47:26](https://news.ycombinator.com/item?id=31951778) - [How did a woman with a missing temporal lobe become bilingual?](https://journal.medizzy.com/how-did-a-woman-with-a-missing-temporal-lobe-become-bilingual/)
 * [2022-07-01, 10:00:16](https://news.ycombinator.com/item?id=31944352) - [Functional programming jargon in plain English](https://github.com/hemanth/functional-programming-jargon)
 
 ## [Archives](archives/index.md)
