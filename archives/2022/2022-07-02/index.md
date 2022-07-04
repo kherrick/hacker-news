@@ -60,6 +60,7 @@
 * [2022-07-02, 08:15:47](https://news.ycombinator.com/item?id=31957194) - [Did Functional Programming Get It Wrong (Part 2) – Minecraft-Style Crafting](https://multix.substack.com/p/did-functional-programming-get-it)
 * [2022-07-02, 08:00:42](https://news.ycombinator.com/item?id=31957118) - [Goodbye, Feedly](https://erikgahner.dk/2022/goodbye-feedly/)
 * [2022-07-02, 07:50:15](https://news.ycombinator.com/item?id=31957068) - [Artificial photosynthesis can produce food without sunshine](https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine)
+* [2022-07-02, 07:47:46](https://news.ycombinator.com/item?id=31957061) - [Knipex Plier-Wrench Review (2018)](https://thecarpentryway.blog/2018/09/knipex-plier-wrench-review/)
 * [2022-07-02, 07:47:23](https://news.ycombinator.com/item?id=31957059) - [Ask HN: What's the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
 * [2022-07-02, 07:45:48](https://news.ycombinator.com/item?id=31957054) - [Ubuntu Unity desktop back from the dead after several years' hiatus](https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/)
 * [2022-07-02, 07:35:48](https://news.ycombinator.com/item?id=31957004) - [Doctor Fortran in “It Takes All KINDs” (2017)](https://stevelionel.com/drfortran/2017/03/27/doctor-fortran-in-it-takes-all-kinds/)
