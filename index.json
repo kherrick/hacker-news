@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-04, 06:10:26",
+      "https://news.ycombinator.com/item?id=31973963"
+    ],
+    [
+      "Tech Debt, Incidents and on Call",
+      "https://thenewstack.io/tech-debt-incidents-and-on-call/"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 06:03:20",
+      "https://news.ycombinator.com/item?id=31973917"
+    ],
+    [
+      "US regulators to examine Boeing 737 Max production",
+      "https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 05:52:44",
+      "https://news.ycombinator.com/item?id=31973859"
+    ],
+    [
+      "Why runbooks are the key to handling any situation effectively",
+      "https://www.cortex.io/post/keep-calm-and-use-the-runbook"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 03:32:37",
       "https://news.ycombinator.com/item?id=31973232"
     ],
@@ -151,42 +181,12 @@
   ],
   [
     [
-      "2022-07-03, 17:00:57",
-      "https://news.ycombinator.com/item?id=31969150"
-    ],
-    [
-      "Patterns (YC S21) Is hiring devs to help build low-code data modeling tools",
-      "https://www.ycombinator.com/companies/patterns"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 15:10:38",
-      "https://news.ycombinator.com/item?id=31968280"
-    ],
-    [
-      "Visualizing quantum mechanics in an interactive simulation",
-      "https://lab.quantumflytrap.com/lab"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 14:50:02",
       "https://news.ycombinator.com/item?id=31968114"
     ],
     [
       "Why does iron deficiency cause fatigue, even in the absence of anemia?",
       "https://twitter.com/tony_breu/status/1543311124560592898"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 14:32:18",
-      "https://news.ycombinator.com/item?id=31967965"
-    ],
-    [
-      "SwiftUI for Mac 2022",
-      "https://troz.net/post/2022/swiftui-mac-2022/"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2022-07-03, 11:35:14",
-      "https://news.ycombinator.com/item?id=31966914"
+      "2022-07-03, 13:06:54",
+      "https://news.ycombinator.com/item?id=31967420"
     ],
     [
-      "Show HN: Desklamp – convenient and collaborative notemaking on PDFs",
-      "https://desklamp.io/"
+      "Vite – Next Generation Front End Tooling",
+      "https://main.vitejs.dev/"
     ]
   ],
   [
