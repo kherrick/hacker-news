@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 * [2022-07-04, 10:12:30](https://news.ycombinator.com/item?id=31975434) - [Medical Wordlists in EN/FR](https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt)
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 * [2022-07-04, 10:12:30](https://news.ycombinator.com/item?id=31975434) - [Medical Wordlists in EN/FR](https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt)
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
@@ -11,7 +12,6 @@
 * [2022-07-04, 06:03:20](https://news.ycombinator.com/item?id=31973917) - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App sandboxing via sandbox-exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
-* [2022-07-04, 03:25:45](https://news.ycombinator.com/item?id=31973196) - [The problem with free (2019)](https://vanschneider.com/blog/the-problem-with-free/)
 * [2022-07-04, 01:47:51](https://news.ycombinator.com/item?id=31972681) - [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
 * [2022-07-04, 01:30:34](https://news.ycombinator.com/item?id=31972584) - [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
 * [2022-07-04, 01:17:18](https://news.ycombinator.com/item?id=31972525) - [Longitudinal cohort study of the displacement of teaspoons (2005)](https://www.bmj.com/content/331/7531/1498)
