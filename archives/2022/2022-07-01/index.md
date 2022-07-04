@@ -86,6 +86,7 @@
 * [2022-07-01, 10:34:34](https://news.ycombinator.com/item?id=31944575) - [Turns out GCC has imperative argument handling](https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/)
 * [2022-07-01, 10:31:01](https://news.ycombinator.com/item?id=31944555) - [How the Higgs Boson Ruined Peter Higgs’s Life](https://www.scientificamerican.com/article/how-the-higgs-boson-ruined-peter-higgss-life/)
 * [2022-07-01, 10:29:26](https://news.ycombinator.com/item?id=31944541) - [Found: The 'holy grail of catalysis'– turning methane into methanol](https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html)
+* [2022-07-01, 10:00:16](https://news.ycombinator.com/item?id=31944352) - [Functional programming jargon in plain English](https://github.com/hemanth/functional-programming-jargon)
 * [2022-07-01, 09:49:26](https://news.ycombinator.com/item?id=31944278) - [Deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
 * [2022-07-01, 09:35:58](https://news.ycombinator.com/item?id=31944198) - [Inverse Mengele – A Thought Experiment](https://nothingeverhappensto.me/inverse-mengele/)
 * [2022-07-01, 09:10:51](https://news.ycombinator.com/item?id=31944043) - [Can computers be mathematicians?](https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/)

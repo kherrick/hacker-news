@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
 * [2022-07-04, 06:25:28](https://news.ycombinator.com/item?id=31974053) - [If I hear one more person say “sell before you build” I'm going to puke](https://www.indiehackers.com/post/if-i-hear-one-more-person-say-sell-before-you-build-i-m-going-to-puke-f016215876)
 * [2022-07-04, 06:16:33](https://news.ycombinator.com/item?id=31973998) - [About the Reactor](https://reactor.reed.edu/about.html)

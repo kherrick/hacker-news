@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
 * [2022-07-04, 06:16:33](https://news.ycombinator.com/item?id=31973998) - [About the Reactor](https://reactor.reed.edu/about.html)
 * [2022-07-04, 06:03:20](https://news.ycombinator.com/item?id=31973917) - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
@@ -12,7 +13,6 @@
 * [2022-07-03, 23:26:43](https://news.ycombinator.com/item?id=31971892) - [The Old Reader](https://theoldreader.com/)
 * [2022-07-03, 23:20:09](https://news.ycombinator.com/item?id=31971858) - [Why nobody ever wins the car at the mall (2018)](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
 * [2022-07-03, 22:52:09](https://news.ycombinator.com/item?id=31971684) - [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
-* [2022-07-03, 20:53:37](https://news.ycombinator.com/item?id=31970926) - [New study lays out hidden backstory behind deadly Pacific Northwest heat wave](https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave)
 * [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum mechanics and Tomb Raider (2007)](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
 * [2022-07-03, 19:32:09](https://news.ycombinator.com/item?id=31970303) - [HNNotify.xyz: Subscribe to Your Hacker News Feed](https://hnnotify.xyz/)
@@ -29,7 +29,7 @@
 * [2022-07-02, 05:14:36](https://news.ycombinator.com/item?id=31956462) - [A carnivorous plant that traps prey underground](https://www.cnn.com/2022/07/01/world/carnivorous-plant-lives-underground-discovered-scn/index.html)
 * [2022-07-02, 04:57:41](https://news.ycombinator.com/item?id=31956392) - [My New Sony NW-A55 Walkman](https://rubenerd.com/my-new-sony-nw-a55-walkman/)
 * [2022-07-01, 19:47:26](https://news.ycombinator.com/item?id=31951778) - [How did a woman with a missing temporal lobe become bilingual?](https://journal.medizzy.com/how-did-a-woman-with-a-missing-temporal-lobe-become-bilingual/)
-* [2022-07-01, 14:59:00](https://news.ycombinator.com/item?id=31947277) - [How to fuck up an airport](https://www.radiospaetkauf.com/ber/)
+* [2022-07-01, 10:00:16](https://news.ycombinator.com/item?id=31944352) - [Functional programming jargon in plain English](https://github.com/hemanth/functional-programming-jargon)
 
 ## [Archives](archives/index.md)
 
