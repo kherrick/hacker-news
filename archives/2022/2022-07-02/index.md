@@ -61,6 +61,7 @@
 * [2022-07-02, 08:00:42](https://news.ycombinator.com/item?id=31957118) - [Goodbye, Feedly](https://erikgahner.dk/2022/goodbye-feedly/)
 * [2022-07-02, 07:50:15](https://news.ycombinator.com/item?id=31957068) - [Artificial photosynthesis can produce food without sunshine](https://news.ucr.edu/articles/2022/06/23/artificial-photosynthesis-can-produce-food-without-sunshine)
 * [2022-07-02, 07:47:23](https://news.ycombinator.com/item?id=31957059) - [Ask HN: What's the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
+* [2022-07-02, 07:45:48](https://news.ycombinator.com/item?id=31957054) - [Ubuntu Unity desktop back from the dead after several years' hiatus](https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/)
 * [2022-07-02, 07:35:48](https://news.ycombinator.com/item?id=31957004) - [Doctor Fortran in “It Takes All KINDs” (2017)](https://stevelionel.com/drfortran/2017/03/27/doctor-fortran-in-it-takes-all-kinds/)
 * [2022-07-02, 07:19:49](https://news.ycombinator.com/item?id=31956947) - ['Cryptoqueen' Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
 * [2022-07-02, 07:03:26](https://news.ycombinator.com/item?id=31956870) - [Formally Proven Binary Format Parsers](https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/)
