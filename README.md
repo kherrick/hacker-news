@@ -23,12 +23,12 @@
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 * [2022-07-04, 10:08:03](https://news.ycombinator.com/item?id=31975404) - [Oral History Panel on 8 Inch Floppy Disk Drives (2005) [pdf]](https://web.archive.org/web/20100707221048/http://archive.computerhistory.org/resources/access/text/Oral_History/102657926.05.01.acc.pdf)
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
+* [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [A phone app called Lumenate claims to alter the brain’s rhythms (2021)](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
 * [2022-07-04, 07:47:30](https://news.ycombinator.com/item?id=31974534) - [Number of pubs in England and Wales falls to record low](https://www.theguardian.com/business/2022/jul/04/number-of-pubs-in-england-and-wales-falls-to-record-low-covid-19-soaring-costs)
 * [2022-07-04, 06:35:45](https://news.ycombinator.com/item?id=31974120) - [The Sky Thief (2021)](https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/)
 * [2022-07-04, 00:40:01](https://news.ycombinator.com/item?id=31972318) - [All That Is Not Good](https://www.historytoday.com/archive/out-margins/all-not-good)
 * [2022-07-03, 06:38:07](https://news.ycombinator.com/item?id=31965616) - [Ask HN: How to keep my daughter busy while tickling her curiosity](https://news.ycombinator.com/item?id=31965616)
-* [2022-07-02, 07:03:31](https://news.ycombinator.com/item?id=31956871) - [We are splitting our database into Main and CI](https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/)
 * [2022-07-01, 10:00:16](https://news.ycombinator.com/item?id=31944352) - [Functional programming jargon in plain English](https://github.com/hemanth/functional-programming-jargon)
 
 ## [Archives](archives/index.md)
