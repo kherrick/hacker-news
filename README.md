@@ -22,7 +22,7 @@
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
 * [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [I tried the app that ‘makes you trip’ and it was surprisingly good](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
-* [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
+* [2022-07-04, 07:47:30](https://news.ycombinator.com/item?id=31974534) - [Number of pubs in England and Wales falls to record low](https://www.theguardian.com/business/2022/jul/04/number-of-pubs-in-england-and-wales-falls-to-record-low-covid-19-soaring-costs)
 * [2022-07-04, 06:35:45](https://news.ycombinator.com/item?id=31974120) - [The Sky Thief (2021)](https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/)
 * [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)

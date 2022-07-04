@@ -37,6 +37,7 @@
 * [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 08:38:52](https://news.ycombinator.com/item?id=31974873) - [The Norwegian library with unreadable books](https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books)
 * [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [I tried the app that ‘makes you trip’ and it was surprisingly good](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
+* [2022-07-04, 07:47:30](https://news.ycombinator.com/item?id=31974534) - [Number of pubs in England and Wales falls to record low](https://www.theguardian.com/business/2022/jul/04/number-of-pubs-in-england-and-wales-falls-to-record-low-covid-19-soaring-costs)
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 07:19:02](https://news.ycombinator.com/item?id=31974364) - [McDonald's and Optimal Pricing Strategies](http://livingstingy.blogspot.com/2022/07/mcdonalds-and-optimal-pricing-strategies.html)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
