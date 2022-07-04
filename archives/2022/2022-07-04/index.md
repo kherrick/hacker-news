@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the Use of a Life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 20:25:19](https://news.ycombinator.com/item?id=31981387) - [Happy 4th of July](https://news.ycombinator.com/item?id=31981387)
 * [2022-07-04, 20:06:22](https://news.ycombinator.com/item?id=31981216) - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)

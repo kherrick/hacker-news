@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the Use of a Life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 20:25:19](https://news.ycombinator.com/item?id=31981387) - [Happy 4th of July](https://news.ycombinator.com/item?id=31981387)
 * [2022-07-04, 20:06:22](https://news.ycombinator.com/item?id=31981216) - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
@@ -12,7 +13,6 @@
 * [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker (2010)](http://www.cowclicker.com/)
 * [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2022-07-04, 16:21:12](https://news.ycombinator.com/item?id=31978755) - [Blocked Persons and Letters of Marque](https://dynomight.net/blocked-persons/)
-* [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
 * [2022-07-04, 14:05:50](https://news.ycombinator.com/item?id=31977164) - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
 * [2022-07-04, 14:03:34](https://news.ycombinator.com/item?id=31977144) - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
