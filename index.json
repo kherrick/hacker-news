@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-04, 09:48:59",
+      "https://news.ycombinator.com/item?id=31975288"
+    ],
+    [
+      "Indie Microblogging",
+      "https://book.micro.blog/"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 09:27:11",
+      "https://news.ycombinator.com/item?id=31975148"
+    ],
+    [
+      "Project Helix by Adobe",
+      "https://www.hlx.live/home"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 08:38:52",
+      "https://news.ycombinator.com/item?id=31974873"
+    ],
+    [
+      "The Norwegian library with unreadable books",
+      "https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 07:27:03",
       "https://news.ycombinator.com/item?id=31974420"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-07-03, 20:53:37",
-      "https://news.ycombinator.com/item?id=31970926"
-    ],
-    [
-      "New study lays out hidden backstory behind deadly Pacific Northwest heat wave",
-      "https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 20:47:49",
       "https://news.ycombinator.com/item?id=31970882"
     ],
@@ -157,36 +177,6 @@
     [
       "Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)",
       "http://pilimi.org/blog-introducing.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 19:32:09",
-      "https://news.ycombinator.com/item?id=31970303"
-    ],
-    [
-      "HNNotify.xyz: Subscribe to Your Hacker News Feed",
-      "https://hnnotify.xyz/"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 18:38:57",
-      "https://news.ycombinator.com/item?id=31969931"
-    ],
-    [
-      "Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten",
-      "https://gitlab.com/andrejr/zetk"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 14:50:02",
-      "https://news.ycombinator.com/item?id=31968114"
-    ],
-    [
-      "Why does iron deficiency cause fatigue, even in the absence of anemia?",
-      "https://twitter.com/tony_breu/status/1543311124560592898"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Robertson vs. Torx screw drives (2021)",
       "https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 11:04:12",
+      "https://news.ycombinator.com/item?id=31957976"
+    ],
+    [
+      "Show HN: Beast – The Build System",
+      "https://github.com/GauravDawra/Beast"
     ]
   ],
   [
