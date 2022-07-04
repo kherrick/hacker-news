@@ -1,32 +1,22 @@
 [
   [
     [
-      "2022-07-04, 03:43:25",
-      "https://news.ycombinator.com/item?id=31973289"
-    ],
-    [
-      "SpotDL – Spotify Downloader",
-      "https://github.com/spotDL/spotify-downloader"
-    ]
-  ],
-  [
-    [
       "2022-07-04, 03:32:37",
       "https://news.ycombinator.com/item?id=31973232"
     ],
     [
-      "macOS: App Sandboxing via Sandbox-Exec",
+      "macOS: App sandboxing via sandbox-exec",
       "https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html"
     ]
   ],
   [
     [
-      "2022-07-04, 03:21:06",
-      "https://news.ycombinator.com/item?id=31973171"
+      "2022-07-04, 03:25:45",
+      "https://news.ycombinator.com/item?id=31973196"
     ],
     [
-      "The Pixel 6 Pro has the worst connectivity and reception of any phone I've used",
-      "https://www.androidauthority.com/pixel-6-pro-connectivity-issues-3181350/"
+      "The problem with free (2019)",
+      "https://vanschneider.com/blog/the-problem-with-free/"
     ]
   ],
   [
@@ -51,22 +41,22 @@
   ],
   [
     [
+      "2022-07-04, 01:17:18",
+      "https://news.ycombinator.com/item?id=31972525"
+    ],
+    [
+      "Longitudinal cohort study of the displacement of teaspoons (2005)",
+      "https://www.bmj.com/content/331/7531/1498"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 00:46:30",
       "https://news.ycombinator.com/item?id=31972346"
     ],
     [
       "Building a Sevenesque Roadster",
       "http://sevenesque.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-03, 23:27:55",
-      "https://news.ycombinator.com/item?id=31971901"
-    ],
-    [
-      "Is the Ride over for Uber?",
-      "https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Gitlab Architecture Overview",
       "https://docs.gitlab.com/ee/development/architecture.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-03, 20:53:37",
+      "https://news.ycombinator.com/item?id=31970926"
+    ],
+    [
+      "New study lays out hidden backstory behind deadly Pacific Northwest heat wave",
+      "https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-07-03, 12:56:27",
-      "https://news.ycombinator.com/item?id=31967356"
-    ],
-    [
-      "How To Know Everything",
-      "https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/"
-    ]
-  ],
-  [
-    [
       "2022-07-03, 11:35:14",
       "https://news.ycombinator.com/item?id=31966914"
     ],
@@ -245,8 +235,18 @@
       "https://news.ycombinator.com/item?id=31958512"
     ],
     [
-      "Robertson vs. Torx screw drives – fight (2021)",
+      "Robertson vs. Torx screw drives (2021)",
       "https://pedriana.wordpress.com/2021/02/03/robertson-vs-torx-screw-drives-fight/"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 07:03:26",
+      "https://news.ycombinator.com/item?id=31956870"
+    ],
+    [
+      "Formally Proven Binary Format Parsers",
+      "https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/"
     ]
   ],
   [
