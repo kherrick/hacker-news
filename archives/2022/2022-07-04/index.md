@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
 * [2022-07-04, 17:36:39](https://news.ycombinator.com/item?id=31979746) - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
 * [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker](http://www.cowclicker.com/)
 * [2022-07-04, 17:23:16](https://news.ycombinator.com/item?id=31979569) - [Bitpanda said no mass layoffs, three weeks before axing one-third of staff](https://www.theblock.co/post/155398/no-mass-layoffs-said-bitpanda-three-weeks-before-axing-third-of-staff)
@@ -12,6 +13,7 @@
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
 * [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
+* [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
 * [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
 * [2022-07-04, 14:05:50](https://news.ycombinator.com/item?id=31977164) - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
