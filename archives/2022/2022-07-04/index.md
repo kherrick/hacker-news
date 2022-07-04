@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 12:41:08](https://news.ycombinator.com/item?id=31976407) - [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
+* [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
+* [2022-07-04, 11:29:45](https://news.ycombinator.com/item?id=31975882) - [Breast cancer drug trial: Woman given months to live told she is cancer free](https://www.bbc.co.uk/news/uk-england-manchester-62033469)
 * [2022-07-04, 11:28:44](https://news.ycombinator.com/item?id=31975877) - [Is McKinsey and Co. The Root of All Evil?](https://ritholtz.com/2011/03/is-mckinsey-co-the-root-of-all-evil/)
 * [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
@@ -19,6 +22,7 @@
 * [2022-07-04, 06:10:26](https://news.ycombinator.com/item?id=31973963) - [Tech Debt, Incidents and on Call](https://thenewstack.io/tech-debt-incidents-and-on-call/)
 * [2022-07-04, 06:03:20](https://news.ycombinator.com/item?id=31973917) - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Why runbooks are the key to handling any situation effectively](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
+* [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-04, 03:43:25](https://news.ycombinator.com/item?id=31973289) - [SpotDL – Spotify Downloader](https://github.com/spotDL/spotify-downloader)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
 * [2022-07-04, 03:25:45](https://news.ycombinator.com/item?id=31973196) - [The problem with free (2019)](https://vanschneider.com/blog/the-problem-with-free/)
