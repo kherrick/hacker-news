@@ -63,6 +63,7 @@
 * [2022-07-02, 07:47:23](https://news.ycombinator.com/item?id=31957059) - [Ask HN: What's the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
 * [2022-07-02, 07:35:48](https://news.ycombinator.com/item?id=31957004) - [Doctor Fortran in “It Takes All KINDs” (2017)](https://stevelionel.com/drfortran/2017/03/27/doctor-fortran-in-it-takes-all-kinds/)
 * [2022-07-02, 07:19:49](https://news.ycombinator.com/item?id=31956947) - ['Cryptoqueen' Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
+* [2022-07-02, 07:03:26](https://news.ycombinator.com/item?id=31956870) - [Formally Proven Binary Format Parsers](https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/)
 * [2022-07-02, 06:40:09](https://news.ycombinator.com/item?id=31956787) - [Show HN: What do avoided crossings sound like?](http://hyad.es/chirp)
 * [2022-07-02, 06:02:14](https://news.ycombinator.com/item?id=31956655) - [What Is Pozidriv? How Does It Differ from a Phillips Drive?](https://www.albanycountyfasteners.com/blog/what-is-pozidriv-is-it-different-from-phillips/)
 * [2022-07-02, 05:55:28](https://news.ycombinator.com/item?id=31956626) - [Leading vs. Participating](https://www.subbu.org/articles/2021/leading-vs-participating/)

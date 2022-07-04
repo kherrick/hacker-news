@@ -8,6 +8,7 @@
 * [2022-07-03, 23:26:43](https://news.ycombinator.com/item?id=31971892) - [The Old Reader](https://theoldreader.com/)
 * [2022-07-03, 23:20:09](https://news.ycombinator.com/item?id=31971858) - [Why nobody ever wins the car at the mall](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
 * [2022-07-03, 22:52:09](https://news.ycombinator.com/item?id=31971684) - [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
+* [2022-07-03, 20:53:37](https://news.ycombinator.com/item?id=31970926) - [New study lays out hidden backstory behind deadly Pacific Northwest heat wave](https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave)
 * [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum mechanics and Tomb Raider (2007)](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 * [2022-07-03, 20:47:49](https://news.ycombinator.com/item?id=31970882) - [Quantum Mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/#more-12)
 * [2022-07-03, 20:39:29](https://news.ycombinator.com/item?id=31970805) - [Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)](http://pilimi.org/blog-introducing.html)
