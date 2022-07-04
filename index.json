@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-04, 06:42:25",
+      "https://news.ycombinator.com/item?id=31974146"
+    ],
+    [
+      "Vauld suspends all withdrawals, trading and deposits on the platform",
+      "https://www.vauld.com/blog/corporate-statement/"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 06:25:28",
       "https://news.ycombinator.com/item?id=31974053"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-07-03, 13:06:54",
-      "https://news.ycombinator.com/item?id=31967420"
-    ],
-    [
-      "Vite – Next Generation Front End Tooling",
-      "https://main.vitejs.dev/"
-    ]
-  ],
-  [
-    [
       "2022-07-02, 12:35:56",
       "https://news.ycombinator.com/item?id=31958512"
     ],
@@ -237,6 +237,16 @@
     [
       "Ubuntu Unity desktop back from the dead after several years' hiatus",
       "https://www.theregister.com/2022/07/01/ubuntu_unity_desktop_updated_after/"
+    ]
+  ],
+  [
+    [
+      "2022-07-02, 07:03:31",
+      "https://news.ycombinator.com/item?id=31956871"
+    ],
+    [
+      "Gitlab is splitting their main and ci Postgres databases",
+      "https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How to fuck up an airport",
       "https://www.radiospaetkauf.com/ber/"
-    ]
-  ],
-  [
-    [
-      "2022-07-01, 06:17:58",
-      "https://news.ycombinator.com/item?id=31943016"
-    ],
-    [
-      "Ask HN: How do you ensure everyone on the team is heard on Slack?",
-      "https://news.ycombinator.com/item?id=31943016"
     ]
   ]
 ]
