@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
-* [2022-07-04, 20:44:21](https://news.ycombinator.com/item?id=31981568) - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 20:06:22](https://news.ycombinator.com/item?id=31981216) - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
 * [2022-07-04, 19:44:54](https://news.ycombinator.com/item?id=31980989) - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
@@ -26,6 +25,7 @@
 * [2022-07-04, 10:08:03](https://news.ycombinator.com/item?id=31975404) - [Oral History Panel on 8 Inch Floppy Disk Drives (2005) [pdf]](https://web.archive.org/web/20100707221048/http://archive.computerhistory.org/resources/access/text/Oral_History/102657926.05.01.acc.pdf)
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
 * [2022-07-04, 08:01:45](https://news.ycombinator.com/item?id=31974621) - [A phone app called Lumenate claims to alter the brain’s rhythms (2021)](https://www.vice.com/en/article/g5b497/i-tried-lumenate-app-that-makes-you-trip-review)
+* [2022-07-04, 07:47:30](https://news.ycombinator.com/item?id=31974534) - [Number of pubs in England and Wales falls to record low](https://www.theguardian.com/business/2022/jul/04/number-of-pubs-in-england-and-wales-falls-to-record-low-covid-19-soaring-costs)
 * [2022-07-04, 06:35:45](https://news.ycombinator.com/item?id=31974120) - [The Sky Thief (2021)](https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/)
 * [2022-07-04, 00:40:01](https://news.ycombinator.com/item?id=31972318) - [All That Is Not Good](https://www.historytoday.com/archive/out-margins/all-not-good)
 * [2022-07-03, 13:56:24](https://news.ycombinator.com/item?id=31967730) - [The Sinking of Voyager](https://www.coppolacomment.com/2022/07/the-sinking-of-voyager.html)
