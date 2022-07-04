@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 14:03:34](https://news.ycombinator.com/item?id=31977144) - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
 * [2022-07-04, 13:28:53](https://news.ycombinator.com/item?id=31976803) - [Ask HN: First-time dad-to-be. What do you wish you'd known back then?](https://news.ycombinator.com/item?id=31976803)
 * [2022-07-04, 12:57:09](https://news.ycombinator.com/item?id=31976525) - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
 * [2022-07-04, 12:41:08](https://news.ycombinator.com/item?id=31976407) - [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
