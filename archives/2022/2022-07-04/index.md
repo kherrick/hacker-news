@@ -15,6 +15,7 @@
 * [2022-07-04, 17:21:04](https://news.ycombinator.com/item?id=31979536) - [Crypto crisis has created an advertising vacuum](https://digiday.com/marketing/advertising-has-taken-a-hit-the-crypto-crisis-has-created-an-advertising-vacuum/)
 * [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
+* [2022-07-04, 16:11:34](https://news.ycombinator.com/item?id=31978634) - [The Digital Dark Ages](https://deprogrammaticaipsum.com/the-digital-dark-ages/)
 * [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
