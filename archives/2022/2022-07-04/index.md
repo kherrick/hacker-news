@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 13:28:53](https://news.ycombinator.com/item?id=31976803) - [Ask HN: First-time dad-to-be. What do you wish you'd known back then?](https://news.ycombinator.com/item?id=31976803)
+* [2022-07-04, 12:57:09](https://news.ycombinator.com/item?id=31976525) - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
 * [2022-07-04, 12:41:08](https://news.ycombinator.com/item?id=31976407) - [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
+* [2022-07-04, 11:31:59](https://news.ycombinator.com/item?id=31975901) - [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 * [2022-07-04, 11:29:45](https://news.ycombinator.com/item?id=31975882) - [Breast cancer drug trial: Woman given months to live told she is cancer free](https://www.bbc.co.uk/news/uk-england-manchester-62033469)
 * [2022-07-04, 11:28:44](https://news.ycombinator.com/item?id=31975877) - [Is McKinsey and Co. The Root of All Evil?](https://ritholtz.com/2011/03/is-mckinsey-co-the-root-of-all-evil/)
 * [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
