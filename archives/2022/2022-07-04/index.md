@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 17:36:39](https://news.ycombinator.com/item?id=31979746) - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
+* [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker](http://www.cowclicker.com/)
 * [2022-07-04, 17:23:16](https://news.ycombinator.com/item?id=31979569) - [Bitpanda said no mass layoffs, three weeks before axing one-third of staff](https://www.theblock.co/post/155398/no-mass-layoffs-said-bitpanda-three-weeks-before-axing-third-of-staff)
 * [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
@@ -35,6 +37,7 @@
 * [2022-07-04, 07:27:03](https://news.ycombinator.com/item?id=31974420) - [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 * [2022-07-04, 07:19:02](https://news.ycombinator.com/item?id=31974364) - [McDonald's and Optimal Pricing Strategies](http://livingstingy.blogspot.com/2022/07/mcdonalds-and-optimal-pricing-strategies.html)
 * [2022-07-04, 06:42:25](https://news.ycombinator.com/item?id=31974146) - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
+* [2022-07-04, 06:35:45](https://news.ycombinator.com/item?id=31974120) - [The Sky Thief (2021)](https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/)
 * [2022-07-04, 06:25:28](https://news.ycombinator.com/item?id=31974053) - [If I hear one more person say “sell before you build” I'm going to puke](https://www.indiehackers.com/post/if-i-hear-one-more-person-say-sell-before-you-build-i-m-going-to-puke-f016215876)
 * [2022-07-04, 06:16:33](https://news.ycombinator.com/item?id=31973998) - [About the Reactor](https://reactor.reed.edu/about.html)
 * [2022-07-04, 06:10:26](https://news.ycombinator.com/item?id=31973963) - [Tech Debt, Incidents and on Call](https://thenewstack.io/tech-debt-incidents-and-on-call/)
