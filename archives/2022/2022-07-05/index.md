@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 18:02:52](https://news.ycombinator.com/item?id=31991598) - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
+* [2022-07-05, 17:41:35](https://news.ycombinator.com/item?id=31991311) - [PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat)
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [2022-07-05, 17:18:33](https://news.ycombinator.com/item?id=31990986) - [The Golden Age of the Aging Actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 * [2022-07-05, 17:08:15](https://news.ycombinator.com/item?id=31990836) - [Why Can't Database Tables Index Themselves?](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
 * [2022-07-05, 17:01:16](https://news.ycombinator.com/item?id=31990762) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer](https://news.ycombinator.com/item?id=31990762)
+* [2022-07-05, 16:56:23](https://news.ycombinator.com/item?id=31990696) - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
 * [2022-07-05, 16:30:34](https://news.ycombinator.com/item?id=31990364) - [SF couple fined $1,500 and banned from parking their car on own property](https://www.cbsnews.com/news/san-francisco-couple-banned-from-parking-car-on-own-property-judy-and-ed-craine/)
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:21:08](https://news.ycombinator.com/item?id=31990217) - [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
@@ -31,7 +35,9 @@
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
 * [2022-07-05, 10:57:24](https://news.ycombinator.com/item?id=31986688) - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
 * [2022-07-05, 10:24:20](https://news.ycombinator.com/item?id=31986455) - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
+* [2022-07-05, 10:21:00](https://news.ycombinator.com/item?id=31986441) - [Billion-record stolen Chinese database for sale on breach forum](https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/)
 * [2022-07-05, 10:04:26](https://news.ycombinator.com/item?id=31986348) - [Why Speech Language Pathologists Shouldn’t Use Zoom](https://ambiki.com/blog/why-speech-language-pathologists-shouldnt-use-zoom)
+* [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
 * [2022-07-05, 09:48:39](https://news.ycombinator.com/item?id=31986267) - [World’s Highest Website](https://worlds-highest-website.com)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 09:32:22](https://news.ycombinator.com/item?id=31986162) - [Show HN: I made Daspoll – Survey and Form Builder](https://daspoll.com)
