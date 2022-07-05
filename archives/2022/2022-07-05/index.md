@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 19:31:49](https://news.ycombinator.com/item?id=31992649) - [Turkey Discovers 694M Mt of Rare Earth Element Reserves](https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/)
 * [2022-07-05, 19:27:44](https://news.ycombinator.com/item?id=31992603) - [Compilers, Hands-Off My Hands-On Optimizations (2016) [pdf]](https://users.ece.cmu.edu/~franzf/papers/wpmvp16.pdf)
 * [2022-07-05, 18:54:11](https://news.ycombinator.com/item?id=31992218) - [Cory Doctorow: The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
 * [2022-07-05, 18:10:31](https://news.ycombinator.com/item?id=31991675) - [Ask HN: Is it a strength that HN's UI has not changed over many years?](https://news.ycombinator.com/item?id=31991675)
