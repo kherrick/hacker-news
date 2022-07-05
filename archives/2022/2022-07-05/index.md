@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 18:10:31](https://news.ycombinator.com/item?id=31991675) - [Ask HN: Is it a strength that HN's UI has not changed over many years?](https://news.ycombinator.com/item?id=31991675)
 * [2022-07-05, 18:02:52](https://news.ycombinator.com/item?id=31991598) - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 * [2022-07-05, 17:41:35](https://news.ycombinator.com/item?id=31991311) - [PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat)
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
