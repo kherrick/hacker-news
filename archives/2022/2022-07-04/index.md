@@ -60,6 +60,7 @@
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 * [2022-07-04, 10:12:30](https://news.ycombinator.com/item?id=31975434) - [Medical Wordlists in EN/FR](https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt)
 * [2022-07-04, 10:08:03](https://news.ycombinator.com/item?id=31975404) - [Oral History Panel on 8 Inch Floppy Disk Drives (2005) [pdf]](https://web.archive.org/web/20100707221048/http://archive.computerhistory.org/resources/access/text/Oral_History/102657926.05.01.acc.pdf)
+* [2022-07-04, 10:05:20](https://news.ycombinator.com/item?id=31975386) - [The first flyer in Texas–and his airplane: Slats and Old Soggy No. 1 (2013)](https://www.smithsonianmag.com/air-space-magazine/slats-and-old-soggy-no-1-248527/)
 * [2022-07-04, 09:48:59](https://news.ycombinator.com/item?id=31975288) - [Indie Microblogging](https://book.micro.blog/)
 * [2022-07-04, 09:27:11](https://news.ycombinator.com/item?id=31975148) - [Project Helix by Adobe](https://www.hlx.live/home)
 * [2022-07-04, 08:38:52](https://news.ycombinator.com/item?id=31974873) - [The Norwegian library with unreadable books](https://www.bbc.com/future/article/20220630-the-norwegian-library-with-unreadable-books)

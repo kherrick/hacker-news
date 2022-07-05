@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
+* [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
 * [2022-07-05, 10:24:20](https://news.ycombinator.com/item?id=31986455) - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
@@ -27,9 +29,7 @@
 * [2022-07-04, 14:02:30](https://news.ycombinator.com/item?id=31977136) - [Why criticism lasts longer than praise](https://www.bbc.com/future/article/20220624-why-criticism-lasts-longer-than-praise)
 * [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
-* [2022-07-04, 11:41:12](https://news.ycombinator.com/item?id=31975959) - [Open Gamma Detector](https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/)
-* [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
-* [2022-07-03, 16:17:29](https://news.ycombinator.com/item?id=31968792) - [HAL Laboratory's Three Arcade Ports](https://nicole.express/2022/one-ahead-of-ibm-three-behind-atari.html)
+* [2022-07-04, 10:05:20](https://news.ycombinator.com/item?id=31975386) - [The first flyer in Texas–and his airplane: Slats and Old Soggy No. 1 (2013)](https://www.smithsonianmag.com/air-space-magazine/slats-and-old-soggy-no-1-248527/)
 
 ## [Archives](archives/index.md)
 
