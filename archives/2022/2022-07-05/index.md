@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 17:01:16](https://news.ycombinator.com/item?id=31990762) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer](https://news.ycombinator.com/item?id=31990762)
+* [2022-07-05, 16:30:34](https://news.ycombinator.com/item?id=31990364) - [SF couple fined $1,500 and banned from parking their car on own property](https://www.cbsnews.com/news/san-francisco-couple-banned-from-parking-car-on-own-property-judy-and-ed-craine/)
+* [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:21:08](https://news.ycombinator.com/item?id=31990217) - [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
 * [2022-07-05, 16:08:36](https://news.ycombinator.com/item?id=31990009) - [Startups, this is how design works](https://startupsthisishowdesignworks.com)
 * [2022-07-05, 16:07:30](https://news.ycombinator.com/item?id=31989991) - [Robotic Surgery Turns Surgical Trainees into Spectators](https://spectrum.ieee.org/robotic-surgery)
 * [2022-07-05, 15:40:55](https://news.ycombinator.com/item?id=31989552) - [Windows' Undocumented “Emergency Restart”](https://old.reddit.com/r/sysadmin/comments/vqcf67/windows_undocumented_emergency_restart/)
 * [2022-07-05, 15:32:54](https://news.ycombinator.com/item?id=31989416) - [The Anarcho-Statists of Spain: Analysis of Spanish Anarchism](https://econfaculty.gmu.edu/bcaplan/spain.htm)
+* [2022-07-05, 15:31:29](https://news.ycombinator.com/item?id=31989399) - [Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal](https://justine.lol/memzoom/)
 * [2022-07-05, 15:22:44](https://news.ycombinator.com/item?id=31989286) - [Roe's overturn is tech's privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
 * [2022-07-05, 15:16:58](https://news.ycombinator.com/item?id=31989229) - [Car Quality Is Slipping](https://www.kbb.com/car-news/jd-power-study-initial-quality-of-new-cars-slipping/)
 * [2022-07-05, 15:07:44](https://news.ycombinator.com/item?id=31989112) - [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
