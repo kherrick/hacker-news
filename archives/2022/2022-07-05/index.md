@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 14:26:26](https://news.ycombinator.com/item?id=31988559) - [Full-office tech jobs pay 1.9x less than full-remote](https://landing.jobs/blog/global-tech-talent-trends-2022/)
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)

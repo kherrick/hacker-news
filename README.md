@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-05, 14:26:26](https://news.ycombinator.com/item?id=31988559) - [Full-office tech jobs pay 1.9x less than full-remote](https://landing.jobs/blog/global-tech-talent-trends-2022/)
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
@@ -21,14 +22,13 @@
 * [2022-07-05, 01:23:25](https://news.ycombinator.com/item?id=31983343) - [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
 * [2022-07-05, 00:05:54](https://news.ycombinator.com/item?id=31982959) - [Felt](https://felt.com/)
 * [2022-07-04, 23:31:19](https://news.ycombinator.com/item?id=31982768) - [Show HN: owo – OneNote to Plain Text](https://github.com/alopezrivera/owo)
-* [2022-07-04, 23:23:33](https://news.ycombinator.com/item?id=31982726) - [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:36:26](https://news.ycombinator.com/item?id=31977495) - [Flip-Chip Integration of a GaSb Semiconductor Optical Amplifier W Si Photonics](https://semiengineering.com/flip-chip-integration-of-a-gasb-semiconductor-optical-amplifier-with-a-silicon-photonic-circuit/)
 * [2022-07-04, 14:11:03](https://news.ycombinator.com/item?id=31977220) - [Tao: A statically-typed functional language](https://github.com/zesterer/tao)
 * [2022-07-04, 14:02:30](https://news.ycombinator.com/item?id=31977136) - [Why criticism lasts longer than praise](https://www.bbc.com/future/article/20220624-why-criticism-lasts-longer-than-praise)
-* [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
+* [2022-07-04, 11:41:12](https://news.ycombinator.com/item?id=31975959) - [Open Gamma Detector](https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/)
 * [2022-07-04, 10:05:20](https://news.ycombinator.com/item?id=31975386) - [The first flyer in Texas–and his airplane: Slats and Old Soggy No. 1 (2013)](https://www.smithsonianmag.com/air-space-magazine/slats-and-old-soggy-no-1-248527/)
 
 ## [Archives](archives/index.md)
