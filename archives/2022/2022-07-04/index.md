@@ -41,6 +41,7 @@
 * [2022-07-04, 12:57:09](https://news.ycombinator.com/item?id=31976525) - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
 * [2022-07-04, 12:47:45](https://news.ycombinator.com/item?id=31976457) - [Hilarious 'Web 3 Console' Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
 * [2022-07-04, 12:41:08](https://news.ycombinator.com/item?id=31976407) - [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
+* [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
 * [2022-07-04, 11:40:45](https://news.ycombinator.com/item?id=31975952) - [Show HN: Graphsignal – ML profiler to speed up training and inference](https://github.com/graphsignal/graphsignal)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
