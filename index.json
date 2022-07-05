@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-07-05, 15:40:55",
-      "https://news.ycombinator.com/item?id=31989552"
-    ],
-    [
-      "Windows' Undocumented “Emergency Restart”",
-      "https://old.reddit.com/r/sysadmin/comments/vqcf67/windows_undocumented_emergency_restart/"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 15:31:29",
       "https://news.ycombinator.com/item?id=31989399"
     ],
@@ -237,6 +227,16 @@
     [
       "Windows x64 handcrafted token stealing kernel-mode shellcode",
       "https://github.com/winterknife/PINKPANTHER"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 07:45:21",
+      "https://news.ycombinator.com/item?id=31985485"
+    ],
+    [
+      "Opening up our code and logic for algorithmic decision-making",
+      "https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/"
     ]
   ],
   [
