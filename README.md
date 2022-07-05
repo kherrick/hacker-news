@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-05, 08:30:15](https://news.ycombinator.com/item?id=31985782) - [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 * [2022-07-05, 08:03:13](https://news.ycombinator.com/item?id=31985605) - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
 * [2022-07-05, 07:44:44](https://news.ycombinator.com/item?id=31985478) - [Solar-powered, Self-hosted Low-tech Magazine](https://solar.lowtechmagazine.com/about.html)
@@ -29,7 +30,6 @@
 * [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
 * [2022-07-04, 04:19:21](https://news.ycombinator.com/item?id=31973447) - [High-intensity exercise, some new news](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
 * [2022-07-04, 03:55:35](https://news.ycombinator.com/item?id=31973344) - [Experience: I was in a Scientology jazz band (2021)](https://www.theguardian.com/lifeandstyle/2021/feb/26/experience-i-was-in-a-scientology-jazz-band)
-* [2022-07-03, 13:56:24](https://news.ycombinator.com/item?id=31967730) - [The Sinking of Voyager](https://www.coppolacomment.com/2022/07/the-sinking-of-voyager.html)
 
 ## [Archives](archives/index.md)
 
