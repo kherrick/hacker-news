@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-05, 08:30:15](https://news.ycombinator.com/item?id=31985782) - [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
+* [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 * [2022-07-05, 08:03:13](https://news.ycombinator.com/item?id=31985605) - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
 * [2022-07-05, 07:44:44](https://news.ycombinator.com/item?id=31985478) - [Solar-powered, Self-hosted Low-tech Magazine](https://solar.lowtechmagazine.com/about.html)
@@ -22,7 +22,6 @@
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 19:44:54](https://news.ycombinator.com/item?id=31980989) - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
 * [2022-07-04, 19:43:56](https://news.ycombinator.com/item?id=31980980) - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
-* [2022-07-04, 18:54:09](https://news.ycombinator.com/item?id=31980548) - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
@@ -30,6 +29,7 @@
 * [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
 * [2022-07-04, 04:19:21](https://news.ycombinator.com/item?id=31973447) - [High-intensity exercise, some new news](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
 * [2022-07-04, 03:55:35](https://news.ycombinator.com/item?id=31973344) - [Experience: I was in a Scientology jazz band (2021)](https://www.theguardian.com/lifeandstyle/2021/feb/26/experience-i-was-in-a-scientology-jazz-band)
+* [2022-07-03, 16:17:29](https://news.ycombinator.com/item?id=31968792) - [HAL Laboratory's Three Arcade Ports](https://nicole.express/2022/one-ahead-of-ibm-three-behind-atari.html)
 
 ## [Archives](archives/index.md)
 

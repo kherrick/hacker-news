@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 08:30:15](https://news.ycombinator.com/item?id=31985782) - [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 * [2022-07-05, 08:03:13](https://news.ycombinator.com/item?id=31985605) - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
