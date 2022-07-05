@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 23:23:33](https://news.ycombinator.com/item?id=31982726) - [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
 * [2022-07-04, 22:26:15](https://news.ycombinator.com/item?id=31982369) - [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
 * [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 * [2022-07-04, 20:44:21](https://news.ycombinator.com/item?id=31981568) - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
@@ -27,6 +28,7 @@
 * [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
+* [2022-07-04, 14:41:53](https://news.ycombinator.com/item?id=31977569) - [Moving Beyond Mimicry in Artificial Intelligence](https://nautil.us/moving-beyond-mimicry-in-artificial-intelligence-21015/)
 * [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
 * [2022-07-04, 14:05:50](https://news.ycombinator.com/item?id=31977164) - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
