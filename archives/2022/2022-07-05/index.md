@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 15:22:44](https://news.ycombinator.com/item?id=31989286) - [Roe's overturn is tech's privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
 * [2022-07-05, 15:07:44](https://news.ycombinator.com/item?id=31989112) - [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
+* [2022-07-05, 15:03:09](https://news.ycombinator.com/item?id=31989061) - [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
 * [2022-07-05, 14:44:55](https://news.ycombinator.com/item?id=31988820) - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
 * [2022-07-05, 14:26:26](https://news.ycombinator.com/item?id=31988559) - [Full-office tech jobs pay 1.9x less than full-remote](https://landing.jobs/blog/global-tech-talent-trends-2022/)
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
