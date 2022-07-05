@@ -11,6 +11,7 @@
 * [2022-07-05, 18:54:11](https://news.ycombinator.com/item?id=31992218) - [The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
 * [2022-07-05, 18:02:52](https://news.ycombinator.com/item?id=31991598) - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [2022-07-05, 17:18:33](https://news.ycombinator.com/item?id=31990986) - [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 * [2022-07-05, 16:56:23](https://news.ycombinator.com/item?id=31990696) - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
@@ -20,7 +21,7 @@
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU approves legislation to regulate Apple, Google, Meta, and other tech firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 13:04:11](https://news.ycombinator.com/item?id=31987713) - [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
-* [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
+* [2022-07-05, 11:10:47](https://news.ycombinator.com/item?id=31986768) - [Problems for Goff’s Panpsychism](http://edwardfeser.blogspot.com/2022/07/problems-for-goffs-panpsychism.html)
 * [2022-07-05, 10:21:00](https://news.ycombinator.com/item?id=31986441) - [Billion-record stolen Chinese database for sale on breach forum](https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/)
 * [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
@@ -29,7 +30,6 @@
 * [2022-07-04, 18:43:51](https://news.ycombinator.com/item?id=31980467) - [Psychology and the Instrument Panel (1953)](https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/)
 * [2022-07-04, 16:11:34](https://news.ycombinator.com/item?id=31978634) - [The Digital Dark Ages](https://deprogrammaticaipsum.com/the-digital-dark-ages/)
 * [2022-07-04, 14:11:03](https://news.ycombinator.com/item?id=31977220) - [Tao: A statically-typed functional language](https://github.com/zesterer/tao)
-* [2022-07-04, 10:20:59](https://news.ycombinator.com/item?id=31975489) - [Femicom is home to the most complete information about the Casio Loopy](http://femicom.org/loopy/)
 
 ## [Archives](archives/index.md)
 
