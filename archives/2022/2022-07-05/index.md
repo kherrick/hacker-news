@@ -6,6 +6,7 @@
 
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
 * [2022-07-05, 10:57:24](https://news.ycombinator.com/item?id=31986688) - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
+* [2022-07-05, 10:24:20](https://news.ycombinator.com/item?id=31986455) - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
 * [2022-07-05, 10:04:26](https://news.ycombinator.com/item?id=31986348) - [Why Speech Language Pathologists Shouldn’t Use Zoom](https://ambiki.com/blog/why-speech-language-pathologists-shouldnt-use-zoom)
 * [2022-07-05, 09:48:39](https://news.ycombinator.com/item?id=31986267) - [World’s Highest Website](https://worlds-highest-website.com)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)

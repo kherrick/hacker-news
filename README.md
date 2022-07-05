@@ -2,6 +2,7 @@
 
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
 * [2022-07-05, 10:57:24](https://news.ycombinator.com/item?id=31986688) - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
+* [2022-07-05, 10:24:20](https://news.ycombinator.com/item?id=31986455) - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
 * [2022-07-05, 09:48:39](https://news.ycombinator.com/item?id=31986267) - [World’s Highest Website](https://worlds-highest-website.com)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
@@ -17,7 +18,6 @@
 * [2022-07-05, 01:49:27](https://news.ycombinator.com/item?id=31983460) - [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
 * [2022-07-05, 01:23:25](https://news.ycombinator.com/item?id=31983343) - [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
 * [2022-07-05, 00:05:54](https://news.ycombinator.com/item?id=31982959) - [Felt](https://felt.com/)
-* [2022-07-04, 23:53:14](https://news.ycombinator.com/item?id=31982898) - [Reverse Engineering Dark Souls 3 Networking](https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking)
 * [2022-07-04, 23:23:33](https://news.ycombinator.com/item?id=31982726) - [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
 * [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 * [2022-07-04, 20:44:21](https://news.ycombinator.com/item?id=31981568) - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
