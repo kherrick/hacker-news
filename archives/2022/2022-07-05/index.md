@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 21:00:03](https://news.ycombinator.com/item?id=31993626) - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/)
+* [2022-07-05, 20:57:18](https://news.ycombinator.com/item?id=31993597) - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
+* [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://bun.sh/?launch)
 * [2022-07-05, 20:27:58](https://news.ycombinator.com/item?id=31993278) - [Ask HN: Does removing Google Analytics penalise a website in Google search?](https://news.ycombinator.com/item?id=31993278)
 * [2022-07-05, 20:15:42](https://news.ycombinator.com/item?id=31993131) - [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
 * [2022-07-05, 19:31:49](https://news.ycombinator.com/item?id=31992649) - [Turkey Discovers 694M Mt of Rare Earth Element Reserves](https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/)
