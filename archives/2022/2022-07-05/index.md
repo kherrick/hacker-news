@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 22:37:10](https://news.ycombinator.com/item?id=31994605) - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
 * [2022-07-05, 22:20:35](https://news.ycombinator.com/item?id=31994472) - [Crypto’s Last Man Standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
 * [2022-07-05, 21:54:18](https://news.ycombinator.com/item?id=31994223) - [I don't care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
 * [2022-07-05, 21:08:28](https://news.ycombinator.com/item?id=31993713) - [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
