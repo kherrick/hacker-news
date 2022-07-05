@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
+* [2022-07-04, 23:53:14](https://news.ycombinator.com/item?id=31982898) - [Reverse Engineering Dark Souls 3 Networking](https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking)
 * [2022-07-04, 23:23:33](https://news.ycombinator.com/item?id=31982726) - [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
 * [2022-07-04, 22:26:15](https://news.ycombinator.com/item?id=31982369) - [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
 * [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
