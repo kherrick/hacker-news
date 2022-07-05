@@ -21,7 +21,7 @@
 * [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
 * [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker (2010)](http://www.cowclicker.com/)
 * [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
-* [2022-07-04, 16:21:12](https://news.ycombinator.com/item?id=31978755) - [Blocked Persons and Letters of Marque](https://dynomight.net/blocked-persons/)
+* [2022-07-04, 16:13:59](https://news.ycombinator.com/item?id=31978656) - [Computer Museums in Switzerland](https://deprogrammaticaipsum.com/computer-museums-in-switzerland/)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons About Storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
 * [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
