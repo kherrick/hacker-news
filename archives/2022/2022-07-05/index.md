@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 22:20:35](https://news.ycombinator.com/item?id=31994472) - [Crypto’s Last Man Standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
 * [2022-07-05, 21:08:28](https://news.ycombinator.com/item?id=31993713) - [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 * [2022-07-05, 21:00:03](https://news.ycombinator.com/item?id=31993626) - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/)
 * [2022-07-05, 20:59:46](https://news.ycombinator.com/item?id=31993622) - [Bun: Fast JavaScript runtime, bundler, transpiler and package manager](https://github.com/Jarred-Sumner/bun)
