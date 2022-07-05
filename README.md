@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-05, 10:04:26](https://news.ycombinator.com/item?id=31986348) - [Why Speech Language Pathologists Shouldn’t Use Zoom](https://ambiki.com/blog/why-speech-language-pathologists-shouldnt-use-zoom)
+* [2022-07-05, 10:57:24](https://news.ycombinator.com/item?id=31986688) - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
 * [2022-07-05, 09:48:39](https://news.ycombinator.com/item?id=31986267) - [World’s Highest Website](https://worlds-highest-website.com)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
@@ -22,8 +22,8 @@
 * [2022-07-04, 21:39:38](https://news.ycombinator.com/item?id=31982026) - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 * [2022-07-04, 20:44:21](https://news.ycombinator.com/item?id=31981568) - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
-* [2022-07-04, 19:43:56](https://news.ycombinator.com/item?id=31980980) - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
+* [2022-07-04, 14:02:30](https://news.ycombinator.com/item?id=31977136) - [Why criticism lasts longer than praise](https://www.bbc.com/future/article/20220624-why-criticism-lasts-longer-than-praise)
 * [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
 * [2022-07-04, 11:41:12](https://news.ycombinator.com/item?id=31975959) - [Open Gamma Detector](https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/)

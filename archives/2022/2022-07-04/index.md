@@ -36,6 +36,7 @@
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
 * [2022-07-04, 14:05:50](https://news.ycombinator.com/item?id=31977164) - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
 * [2022-07-04, 14:03:34](https://news.ycombinator.com/item?id=31977144) - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
+* [2022-07-04, 14:02:30](https://news.ycombinator.com/item?id=31977136) - [Why criticism lasts longer than praise](https://www.bbc.com/future/article/20220624-why-criticism-lasts-longer-than-praise)
 * [2022-07-04, 13:48:19](https://news.ycombinator.com/item?id=31976991) - [New study shows highly creative people’s brains work differently from others'](https://www.uclahealth.org/news/CreativeBrain2022)
 * [2022-07-04, 13:43:43](https://news.ycombinator.com/item?id=31976955) - [The local news crisis is deepening America's divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
 * [2022-07-04, 13:28:53](https://news.ycombinator.com/item?id=31976803) - [Ask HN: First-time dad-to-be. What do you wish you'd known back then?](https://news.ycombinator.com/item?id=31976803)
