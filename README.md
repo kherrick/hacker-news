@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-05, 14:26:26](https://news.ycombinator.com/item?id=31988559) - [Full-office tech jobs pay 1.9x less than full-remote](https://landing.jobs/blog/global-tech-talent-trends-2022/)
+* [2022-07-05, 14:44:55](https://news.ycombinator.com/item?id=31988820) - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
+* [2022-07-05, 13:04:11](https://news.ycombinator.com/item?id=31987713) - [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
 * [2022-07-05, 10:24:20](https://news.ycombinator.com/item?id=31986455) - [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
@@ -15,13 +16,11 @@
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 * [2022-07-05, 05:46:34](https://news.ycombinator.com/item?id=31984760) - [How Normal Am I?](https://www.hownormalami.eu)
-* [2022-07-05, 04:54:59](https://news.ycombinator.com/item?id=31984450) - [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
 * [2022-07-05, 03:10:23](https://news.ycombinator.com/item?id=31983899) - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
 * [2022-07-05, 02:10:29](https://news.ycombinator.com/item?id=31983578) - [My quest for the perfect window manager (2004)](http://ironphoenix.org/fvwm/)
 * [2022-07-05, 01:49:27](https://news.ycombinator.com/item?id=31983460) - [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
 * [2022-07-05, 01:23:25](https://news.ycombinator.com/item?id=31983343) - [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
 * [2022-07-05, 00:05:54](https://news.ycombinator.com/item?id=31982959) - [Felt](https://felt.com/)
-* [2022-07-04, 23:31:19](https://news.ycombinator.com/item?id=31982768) - [Show HN: owo – OneNote to Plain Text](https://github.com/alopezrivera/owo)
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the use of a life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:36:26](https://news.ycombinator.com/item?id=31977495) - [Flip-Chip Integration of a GaSb Semiconductor Optical Amplifier W Si Photonics](https://semiengineering.com/flip-chip-integration-of-a-gasb-semiconductor-optical-amplifier-with-a-silicon-photonic-circuit/)
@@ -30,6 +29,7 @@
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
 * [2022-07-04, 11:41:12](https://news.ycombinator.com/item?id=31975959) - [Open Gamma Detector](https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/)
 * [2022-07-04, 10:05:20](https://news.ycombinator.com/item?id=31975386) - [The first flyer in Texas–and his airplane: Slats and Old Soggy No. 1 (2013)](https://www.smithsonianmag.com/air-space-magazine/slats-and-old-soggy-no-1-248527/)
+* [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
 
 ## [Archives](archives/index.md)
 
