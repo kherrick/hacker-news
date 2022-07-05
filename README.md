@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-05, 21:00:03](https://news.ycombinator.com/item?id=31993626) - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/)
+* [2022-07-05, 20:59:46](https://news.ycombinator.com/item?id=31993622) - [Bun: Fast JavaScript runtime, bundler, transpiler and package manager](https://github.com/Jarred-Sumner/bun)
 * [2022-07-05, 20:57:18](https://news.ycombinator.com/item?id=31993597) - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 * [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://bun.sh/?launch)
 * [2022-07-05, 20:15:42](https://news.ycombinator.com/item?id=31993131) - [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
@@ -23,7 +24,6 @@
 * [2022-07-05, 10:21:00](https://news.ycombinator.com/item?id=31986441) - [Billion-record stolen Chinese database for sale on breach forum](https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/)
 * [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
-* [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 * [2022-07-05, 07:45:21](https://news.ycombinator.com/item?id=31985485) - [Opening up our code and logic for algorithmic decision-making](https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/)
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-04, 18:43:51](https://news.ycombinator.com/item?id=31980467) - [Psychology and the Instrument Panel (1953)](https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/)
