@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-07-05, 04:54:59",
+      "https://news.ycombinator.com/item?id=31984450"
+    ],
+    [
+      "What comes after Git",
+      "https://matt-rickard.com/what-comes-after-git/"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 03:50:29",
       "https://news.ycombinator.com/item?id=31984112"
     ],
     [
-      "No really, why can't we have raw UDP in JavaScript?",
+      "Why can't we have raw UDP in JavaScript?",
       "https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp"
     ]
   ],
@@ -21,22 +31,12 @@
   ],
   [
     [
-      "2022-07-05, 02:56:28",
-      "https://news.ycombinator.com/item?id=31983831"
+      "2022-07-05, 02:10:29",
+      "https://news.ycombinator.com/item?id=31983578"
     ],
     [
-      "Zig is becoming more production-worthy",
-      "https://zigmonthly.org/letters/2022/may-june/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 02:44:59",
-      "https://news.ycombinator.com/item?id=31983769"
-    ],
-    [
-      "Browsh is a fully-modern text-based browser",
-      "https://www.brow.sh/"
+      "My quest for the perfect window manager (2004)",
+      "http://ironphoenix.org/fvwm/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2022-07-04, 19:43:56",
+      "https://news.ycombinator.com/item?id=31980980"
+    ],
+    [
+      "Show HN: A short dystopian game I build last weekend",
+      "https://dreambookgame.com/index.html"
+    ]
+  ],
+  [
+    [
       "2022-07-04, 18:54:09",
       "https://news.ycombinator.com/item?id=31980548"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=31978656"
     ],
     [
-      "(Computer) Museums in Switzerland",
+      "Computer Museums in Switzerland",
       "https://deprogrammaticaipsum.com/computer-museums-in-switzerland/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Tiny Core Linux 13.0 is a full Linux desktop in 22 MB",
       "https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 14:03:34",
-      "https://news.ycombinator.com/item?id=31977144"
-    ],
-    [
-      "Mendon, Missouri",
-      "https://seandietrich.com/mendon-missouri/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=31973447"
     ],
     [
-      "High-Intensity Exercise",
+      "High-intensity exercise, some new news",
       "https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/"
     ]
   ],
