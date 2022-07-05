@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 21:08:28](https://news.ycombinator.com/item?id=31993713) - [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 * [2022-07-05, 21:00:03](https://news.ycombinator.com/item?id=31993626) - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/)
 * [2022-07-05, 20:59:46](https://news.ycombinator.com/item?id=31993622) - [Bun: Fast JavaScript runtime, bundler, transpiler and package manager](https://github.com/Jarred-Sumner/bun)
 * [2022-07-05, 20:57:18](https://news.ycombinator.com/item?id=31993597) - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
@@ -12,6 +13,7 @@
 * [2022-07-05, 20:15:42](https://news.ycombinator.com/item?id=31993131) - [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
 * [2022-07-05, 19:31:49](https://news.ycombinator.com/item?id=31992649) - [Turkey Discovers 694M Mt of Rare Earth Element Reserves](https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/)
 * [2022-07-05, 19:27:44](https://news.ycombinator.com/item?id=31992603) - [Compilers, Hands-Off My Hands-On Optimizations (2016) [pdf]](https://users.ece.cmu.edu/~franzf/papers/wpmvp16.pdf)
+* [2022-07-05, 19:21:16](https://news.ycombinator.com/item?id=31992540) - [New EU rules on car speed limiters coming into force](https://www.breakingnews.ie/world/new-eu-rules-on-car-speed-limiters-coming-into-force-1330327.html)
 * [2022-07-05, 18:54:11](https://news.ycombinator.com/item?id=31992218) - [Cory Doctorow: The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
 * [2022-07-05, 18:10:31](https://news.ycombinator.com/item?id=31991675) - [Ask HN: Is it a strength that HN's UI has not changed over many years?](https://news.ycombinator.com/item?id=31991675)
 * [2022-07-05, 18:02:52](https://news.ycombinator.com/item?id=31991598) - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
