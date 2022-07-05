@@ -6,6 +6,7 @@
 
 * [2022-07-05, 15:32:54](https://news.ycombinator.com/item?id=31989416) - [The Anarcho-Statists of Spain: Analysis of Spanish Anarchism](https://econfaculty.gmu.edu/bcaplan/spain.htm)
 * [2022-07-05, 15:22:44](https://news.ycombinator.com/item?id=31989286) - [Roe's overturn is tech's privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
+* [2022-07-05, 15:16:58](https://news.ycombinator.com/item?id=31989229) - [Car Quality Is Slipping](https://www.kbb.com/car-news/jd-power-study-initial-quality-of-new-cars-slipping/)
 * [2022-07-05, 15:07:44](https://news.ycombinator.com/item?id=31989112) - [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
 * [2022-07-05, 15:03:09](https://news.ycombinator.com/item?id=31989061) - [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
 * [2022-07-05, 14:44:55](https://news.ycombinator.com/item?id=31988820) - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
