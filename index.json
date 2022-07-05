@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-07-05, 21:08:28",
+      "https://news.ycombinator.com/item?id=31993713"
+    ],
+    [
+      "OpenSSL Security Advisory [5 July 2022]",
+      "https://www.openssl.org/news/secadv/20220705.txt"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 21:00:03",
       "https://news.ycombinator.com/item?id=31993626"
     ],
     [
       "Compound (YC S19) is hiring to build financial products for startup employees",
       "https://withcompound.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 20:59:46",
-      "https://news.ycombinator.com/item?id=31993622"
-    ],
-    [
-      "Bun: Fast JavaScript runtime, bundler, transpiler and package manager",
-      "https://github.com/Jarred-Sumner/bun"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=31993429"
     ],
     [
-      "Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig",
+      "Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig",
       "https://bun.sh/?launch"
     ]
   ],
@@ -71,11 +71,21 @@
   ],
   [
     [
+      "2022-07-05, 19:21:16",
+      "https://news.ycombinator.com/item?id=31992540"
+    ],
+    [
+      "New EU rules on car speed limiters coming into force",
+      "https://www.breakingnews.ie/world/new-eu-rules-on-car-speed-limiters-coming-into-force-1330327.html"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 18:54:11",
       "https://news.ycombinator.com/item?id=31992218"
     ],
     [
-      "Cory Doctorow: The Swerve",
+      "The Swerve",
       "https://locusmag.com/2022/07/cory-doctorow-the-swerve/"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",
       "https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 17:08:15",
-      "https://news.ycombinator.com/item?id=31990836"
-    ],
-    [
-      "Why Can't Database Tables Index Themselves? (2006)",
-      "https://blog.codinghorror.com/why-cant-database-tables-index-themselves/"
     ]
   ],
   [
