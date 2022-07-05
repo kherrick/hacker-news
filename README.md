@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-05, 22:20:35](https://news.ycombinator.com/item?id=31994472) - [Crypto’s Last Man Standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
+* [2022-07-05, 21:54:18](https://news.ycombinator.com/item?id=31994223) - [I don't care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
 * [2022-07-05, 21:08:28](https://news.ycombinator.com/item?id=31993713) - [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 * [2022-07-05, 21:00:03](https://news.ycombinator.com/item?id=31993626) - [Compound (YC S19) is hiring to build financial products for startup employees](https://withcompound.com/)
 * [2022-07-05, 20:57:18](https://news.ycombinator.com/item?id=31993597) - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
@@ -26,7 +27,6 @@
 * [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire mainframes](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 07:45:21](https://news.ycombinator.com/item?id=31985485) - [Opening up our code and logic for algorithmic decision-making](https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/)
-* [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-04, 18:43:51](https://news.ycombinator.com/item?id=31980467) - [Psychology and the Instrument Panel (1953)](https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/)
 * [2022-07-04, 16:11:34](https://news.ycombinator.com/item?id=31978634) - [The Digital Dark Ages](https://deprogrammaticaipsum.com/the-digital-dark-ages/)
 * [2022-07-04, 14:11:03](https://news.ycombinator.com/item?id=31977220) - [Tao: A statically-typed functional language](https://github.com/zesterer/tao)
