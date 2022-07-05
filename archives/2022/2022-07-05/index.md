@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 15:32:54](https://news.ycombinator.com/item?id=31989416) - [The Anarcho-Statists of Spain: Analysis of Spanish Anarchism](https://econfaculty.gmu.edu/bcaplan/spain.htm)
 * [2022-07-05, 15:22:44](https://news.ycombinator.com/item?id=31989286) - [Roe's overturn is tech's privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
 * [2022-07-05, 15:07:44](https://news.ycombinator.com/item?id=31989112) - [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
 * [2022-07-05, 15:03:09](https://news.ycombinator.com/item?id=31989061) - [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
@@ -12,6 +13,7 @@
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 * [2022-07-05, 13:04:11](https://news.ycombinator.com/item?id=31987713) - [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
+* [2022-07-05, 12:30:55](https://news.ycombinator.com/item?id=31987408) - [The Water Wars Come to the Suburbs](https://www.newyorker.com/news/letter-from-the-southwest/the-water-wars-come-to-the-suburbs)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
