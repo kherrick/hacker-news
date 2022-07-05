@@ -28,6 +28,7 @@
 * [2022-07-04, 16:11:34](https://news.ycombinator.com/item?id=31978634) - [The Digital Dark Ages](https://deprogrammaticaipsum.com/the-digital-dark-ages/)
 * [2022-07-04, 15:57:50](https://news.ycombinator.com/item?id=31978489) - [Germany records first monthly trade deficit since 1991 as inflation soars](https://www.theguardian.com/world/2022/jul/04/germany-records-first-trade-deficit-since-1991-as-inflation-soars)
 * [2022-07-04, 15:55:46](https://news.ycombinator.com/item?id=31978465) - [Uncle Bob and Silver Bullets (2017)](https://www.hillelwayne.com/post/uncle-bob/)
+* [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons About Storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
 * [2022-07-04, 14:41:53](https://news.ycombinator.com/item?id=31977569) - [Moving Beyond Mimicry in Artificial Intelligence](https://nautil.us/moving-beyond-mimicry-in-artificial-intelligence-21015/)
 * [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)

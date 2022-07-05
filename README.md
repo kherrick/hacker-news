@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 * [2022-07-05, 04:54:59](https://news.ycombinator.com/item?id=31984450) - [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
 * [2022-07-05, 03:50:29](https://news.ycombinator.com/item?id=31984112) - [Why can't we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 * [2022-07-05, 03:10:23](https://news.ycombinator.com/item?id=31983899) - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
@@ -20,10 +21,9 @@
 * [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
 * [2022-07-04, 17:24:40](https://news.ycombinator.com/item?id=31979586) - [Cow Clicker (2010)](http://www.cowclicker.com/)
 * [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model (2018)](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
-* [2022-07-04, 16:21:12](https://news.ycombinator.com/item?id=31978755) - [Blocked Persons and Letters of Marque](https://dynomight.net/blocked-persons/)
 * [2022-07-04, 16:13:59](https://news.ycombinator.com/item?id=31978656) - [Computer Museums in Switzerland](https://deprogrammaticaipsum.com/computer-museums-in-switzerland/)
+* [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons About Storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The First Million-Transistor Chip: The Engineers’ Story](https://spectrum.ieee.org/intel-i860)
-* [2022-07-04, 14:05:50](https://news.ycombinator.com/item?id=31977164) - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
 * [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
 * [2022-07-04, 07:47:30](https://news.ycombinator.com/item?id=31974534) - [Number of pubs in England and Wales falls to record low](https://www.theguardian.com/business/2022/jul/04/number-of-pubs-in-england-and-wales-falls-to-record-low-covid-19-soaring-costs)

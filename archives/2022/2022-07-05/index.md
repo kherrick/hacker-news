@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 * [2022-07-05, 04:54:59](https://news.ycombinator.com/item?id=31984450) - [What Comes After Git](https://matt-rickard.com/what-comes-after-git/)
 * [2022-07-05, 03:50:29](https://news.ycombinator.com/item?id=31984112) - [No really, why can't we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 * [2022-07-05, 03:10:23](https://news.ycombinator.com/item?id=31983899) - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
