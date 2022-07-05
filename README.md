@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [2022-07-05, 17:08:15](https://news.ycombinator.com/item?id=31990836) - [Why Can't Database Tables Index Themselves?](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
 * [2022-07-05, 17:01:16](https://news.ycombinator.com/item?id=31990762) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31990762)
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
@@ -24,8 +26,6 @@
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 * [2022-07-05, 05:46:34](https://news.ycombinator.com/item?id=31984760) - [How Normal Am I?](https://www.hownormalami.eu)
-* [2022-07-05, 00:05:54](https://news.ycombinator.com/item?id=31982959) - [Felt](https://felt.com/)
-* [2022-07-04, 23:41:33](https://news.ycombinator.com/item?id=31982840) - [How TS Eliot Found Happiness](https://www.newstatesman.com/culture/books/book-of-the-day/2022/06/review-ts-eliot-after-the-waste-land-robert-crawford)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:11:03](https://news.ycombinator.com/item?id=31977220) - [Tao: A statically-typed functional language](https://github.com/zesterer/tao)
 * [2022-07-04, 11:30:30](https://news.ycombinator.com/item?id=31975889) - [Camera model identification based on forensic traces](https://www.sciencedirect.com/science/article/pii/S0957417422010430)

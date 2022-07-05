@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+* [2022-07-05, 17:08:15](https://news.ycombinator.com/item?id=31990836) - [Why Can't Database Tables Index Themselves?](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
 * [2022-07-05, 17:01:16](https://news.ycombinator.com/item?id=31990762) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer](https://news.ycombinator.com/item?id=31990762)
 * [2022-07-05, 16:30:34](https://news.ycombinator.com/item?id=31990364) - [SF couple fined $1,500 and banned from parking their car on own property](https://www.cbsnews.com/news/san-francisco-couple-banned-from-parking-car-on-own-property-judy-and-ed-craine/)
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
