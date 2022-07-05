@@ -44,6 +44,7 @@
 * [2022-07-04, 12:41:08](https://news.ycombinator.com/item?id=31976407) - [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
 * [2022-07-04, 12:03:54](https://news.ycombinator.com/item?id=31976119) - [Ask HN: How to sell an open-source software company?](https://news.ycombinator.com/item?id=31976119)
 * [2022-07-04, 12:02:16](https://news.ycombinator.com/item?id=31976103) - [Kable (YC W22), Billing for API Companies, Is Hiring](https://kable.io)
+* [2022-07-04, 11:41:12](https://news.ycombinator.com/item?id=31975959) - [Open Gamma Detector](https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/)
 * [2022-07-04, 11:40:45](https://news.ycombinator.com/item?id=31975952) - [Show HN: Graphsignal – ML profiler to speed up training and inference](https://github.com/graphsignal/graphsignal)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
 * [2022-07-04, 11:31:59](https://news.ycombinator.com/item?id=31975901) - [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
