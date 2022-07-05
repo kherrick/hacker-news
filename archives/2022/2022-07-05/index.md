@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 04:54:59](https://news.ycombinator.com/item?id=31984450) - [What Comes After Git](https://matt-rickard.com/what-comes-after-git/)
+* [2022-07-05, 03:50:29](https://news.ycombinator.com/item?id=31984112) - [No really, why can't we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 * [2022-07-05, 02:56:28](https://news.ycombinator.com/item?id=31983831) - [Zig is becoming more production-worthy (zigmonthly)](https://zigmonthly.org/letters/2022/may-june/)
 * [2022-07-05, 02:46:53](https://news.ycombinator.com/item?id=31983782) - [Sadly, we can't check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
 * [2022-07-05, 02:44:59](https://news.ycombinator.com/item?id=31983769) - [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
