@@ -59,6 +59,7 @@
 * [2022-07-04, 10:49:45](https://news.ycombinator.com/item?id=31975662) - [There’s a Clever Strategy Behind the Flash of Fireworks Packaging](https://eyeondesign.aiga.org/theres-a-clever-strategy-behind-the-flash-of-fireworks-packaging/)
 * [2022-07-04, 10:39:29](https://news.ycombinator.com/item?id=31975600) - [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
 * [2022-07-04, 10:24:38](https://news.ycombinator.com/item?id=31975507) - [I can’t believe that I can prove that it can sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
+* [2022-07-04, 10:20:59](https://news.ycombinator.com/item?id=31975489) - [Femicom is home to the most complete information about the Casio Loopy](http://femicom.org/loopy/)
 * [2022-07-04, 10:12:30](https://news.ycombinator.com/item?id=31975434) - [Medical Wordlists in EN/FR](https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt)
 * [2022-07-04, 10:08:03](https://news.ycombinator.com/item?id=31975404) - [Oral History Panel on 8 Inch Floppy Disk Drives (2005) [pdf]](https://web.archive.org/web/20100707221048/http://archive.computerhistory.org/resources/access/text/Oral_History/102657926.05.01.acc.pdf)
 * [2022-07-04, 10:05:20](https://news.ycombinator.com/item?id=31975386) - [The first flyer in Texas–and his airplane: Slats and Old Soggy No. 1 (2013)](https://www.smithsonianmag.com/air-space-magazine/slats-and-old-soggy-no-1-248527/)

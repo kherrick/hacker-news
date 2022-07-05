@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 16:21:08](https://news.ycombinator.com/item?id=31990217) - [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
+* [2022-07-05, 16:08:36](https://news.ycombinator.com/item?id=31990009) - [Startups, this is how design works](https://startupsthisishowdesignworks.com)
+* [2022-07-05, 16:07:30](https://news.ycombinator.com/item?id=31989991) - [Robotic Surgery Turns Surgical Trainees into Spectators](https://spectrum.ieee.org/robotic-surgery)
+* [2022-07-05, 15:40:55](https://news.ycombinator.com/item?id=31989552) - [Windows' Undocumented “Emergency Restart”](https://old.reddit.com/r/sysadmin/comments/vqcf67/windows_undocumented_emergency_restart/)
 * [2022-07-05, 15:32:54](https://news.ycombinator.com/item?id=31989416) - [The Anarcho-Statists of Spain: Analysis of Spanish Anarchism](https://econfaculty.gmu.edu/bcaplan/spain.htm)
 * [2022-07-05, 15:22:44](https://news.ycombinator.com/item?id=31989286) - [Roe's overturn is tech's privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
 * [2022-07-05, 15:16:58](https://news.ycombinator.com/item?id=31989229) - [Car Quality Is Slipping](https://www.kbb.com/car-news/jd-power-study-initial-quality-of-new-cars-slipping/)
@@ -23,6 +27,7 @@
 * [2022-07-05, 10:04:26](https://news.ycombinator.com/item?id=31986348) - [Why Speech Language Pathologists Shouldn’t Use Zoom](https://ambiki.com/blog/why-speech-language-pathologists-shouldnt-use-zoom)
 * [2022-07-05, 09:48:39](https://news.ycombinator.com/item?id=31986267) - [World’s Highest Website](https://worlds-highest-website.com)
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
+* [2022-07-05, 09:32:22](https://news.ycombinator.com/item?id=31986162) - [Show HN: I made Daspoll – Survey and Form Builder](https://daspoll.com)
 * [2022-07-05, 08:30:15](https://news.ycombinator.com/item?id=31985782) - [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 * [2022-07-05, 08:03:13](https://news.ycombinator.com/item?id=31985605) - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
