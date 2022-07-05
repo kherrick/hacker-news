@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-07-05, 20:27:58",
-      "https://news.ycombinator.com/item?id=31993278"
+      "2022-07-05, 21:00:03",
+      "https://news.ycombinator.com/item?id=31993626"
     ],
     [
-      "Ask HN: Does removing Google Analytics penalise a website in Google search?",
-      "https://news.ycombinator.com/item?id=31993278"
+      "Compound (YC S19) is hiring to build financial products for startup employees",
+      "https://withcompound.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 20:57:18",
+      "https://news.ycombinator.com/item?id=31993597"
+    ],
+    [
+      "Running the Steam Deck’s OS in a virtual machine using QEMU",
+      "https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 20:41:53",
+      "https://news.ycombinator.com/item?id=31993429"
+    ],
+    [
+      "Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig",
+      "https://bun.sh/?launch"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Show HN: Localization and translations should be code, not data",
       "https://github.com/Divine-Software/divine-companions/tree/master/localization"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 19:31:49",
+      "https://news.ycombinator.com/item?id=31992649"
+    ],
+    [
+      "Turkey Discovers 694M Mt of Rare Earth Element Reserves",
+      "https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Why Can't Database Tables Index Themselves?",
       "https://blog.codinghorror.com/why-cant-database-tables-index-themselves/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 17:01:16",
-      "https://news.ycombinator.com/item?id=31990762"
-    ],
-    [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
-      "https://news.ycombinator.com/item?id=31990762"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-07-05, 10:57:24",
-      "https://news.ycombinator.com/item?id=31986688"
-    ],
-    [
-      "Amazon spending $465M on season 1 of The Lord of the Rings series",
-      "https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 10:21:00",
       "https://news.ycombinator.com/item?id=31986441"
     ],
@@ -207,16 +217,6 @@
     [
       "A working flight simulator, no computers necessary [video]",
       "https://www.youtube.com/watch?v=RJAYZgOZS08"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 09:48:39",
-      "https://news.ycombinator.com/item?id=31986267"
-    ],
-    [
-      "World’s Highest Website",
-      "https://worlds-highest-website.com"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-07-05, 06:48:17",
-      "https://news.ycombinator.com/item?id=31985142"
+      "2022-07-04, 18:43:51",
+      "https://news.ycombinator.com/item?id=31980467"
     ],
     [
-      "Apple ][ \"Lemmings\" Proof of Concept",
-      "http://www.deater.net/weave/vmwprod/lemm/"
+      "Psychology and the Instrument Panel (1953)",
+      "https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/"
     ]
   ],
   [
