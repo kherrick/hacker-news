@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-07-05, 18:02:52",
+      "https://news.ycombinator.com/item?id=31991598"
+    ],
+    [
+      "The SQLite Index Suggester",
+      "https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 17:41:35",
+      "https://news.ycombinator.com/item?id=31991311"
+    ],
+    [
+      "PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat",
+      "https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 17:19:57",
       "https://news.ycombinator.com/item?id=31991008"
     ],
     [
       "Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",
       "https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 17:18:33",
+      "https://news.ycombinator.com/item?id=31990986"
+    ],
+    [
+      "The Golden Age of the Aging Actor",
+      "https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
       "https://news.ycombinator.com/item?id=31990762"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 16:56:23",
+      "https://news.ycombinator.com/item?id=31990696"
+    ],
+    [
+      "NIST Announces First Four Quantum-Resistant Cryptographic Algorithms",
+      "https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms"
     ]
   ],
   [
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=31989991"
     ],
     [
-      "Robotic Surgery Turns Surgical Trainees into Spectators",
+      "Robotic surgery turns surgical trainees into spectators",
       "https://spectrum.ieee.org/robotic-surgery"
     ]
   ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-07-05, 13:30:22",
-      "https://news.ycombinator.com/item?id=31987987"
-    ],
-    [
-      "The Saint of Mathematics",
-      "https://physicsforstudents.com/the-saint-of-mathematics/"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 13:04:11",
       "https://news.ycombinator.com/item?id=31987713"
     ],
@@ -171,12 +201,22 @@
   ],
   [
     [
-      "2022-07-05, 10:24:20",
-      "https://news.ycombinator.com/item?id=31986455"
+      "2022-07-05, 10:21:00",
+      "https://news.ycombinator.com/item?id=31986441"
     ],
     [
-      "Selfhosting on Localhost",
-      "https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/"
+      "Billion-record stolen Chinese database for sale on breach forum",
+      "https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 09:58:18",
+      "https://news.ycombinator.com/item?id=31986321"
+    ],
+    [
+      "A working flight simulator, no computers necessary [video]",
+      "https://www.youtube.com/watch?v=RJAYZgOZS08"
     ]
   ],
   [
@@ -197,16 +237,6 @@
     [
       "FedEx to close data centers, retire all mainframes by 2024, saving $400m",
       "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 09:32:22",
-      "https://news.ycombinator.com/item?id=31986162"
-    ],
-    [
-      "Show HN: I made Daspoll – Survey and Form Builder",
-      "https://daspoll.com"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2022-07-05, 00:05:54",
-      "https://news.ycombinator.com/item?id=31982959"
-    ],
-    [
-      "Felt",
-      "https://felt.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 15:41:43",
-      "https://news.ycombinator.com/item?id=31978277"
-    ],
-    [
-      "Lessons from Dungeons and Dragons about storytelling (2013)",
-      "https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling"
-    ]
-  ],
-  [
-    [
       "2022-07-04, 14:11:03",
       "https://news.ycombinator.com/item?id=31977220"
     ],
     [
       "Tao: A statically-typed functional language",
       "https://github.com/zesterer/tao"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 11:30:30",
-      "https://news.ycombinator.com/item?id=31975889"
-    ],
-    [
-      "Camera model identification based on forensic traces",
-      "https://www.sciencedirect.com/science/article/pii/S0957417422010430"
     ]
   ],
   [
