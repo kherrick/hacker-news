@@ -10,7 +10,7 @@
 * [2022-07-05, 18:54:11](https://news.ycombinator.com/item?id=31992218) - [Cory Doctorow: The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
 * [2022-07-05, 18:02:52](https://news.ycombinator.com/item?id=31991598) - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-* [2022-07-05, 17:08:15](https://news.ycombinator.com/item?id=31990836) - [Why Can't Database Tables Index Themselves?](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
+* [2022-07-05, 17:08:15](https://news.ycombinator.com/item?id=31990836) - [Why Can't Database Tables Index Themselves? (2006)](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
 * [2022-07-05, 16:56:23](https://news.ycombinator.com/item?id=31990696) - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
