@@ -14,6 +14,7 @@
 * [2022-07-05, 15:31:29](https://news.ycombinator.com/item?id=31989399) - [Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal](https://justine.lol/memzoom/)
 * [2022-07-05, 14:44:55](https://news.ycombinator.com/item?id=31988820) - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU approves legislation to regulate Apple, Google, Meta, and other tech firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
+* [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 * [2022-07-05, 13:04:11](https://news.ycombinator.com/item?id=31987713) - [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
@@ -27,7 +28,6 @@
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 * [2022-07-05, 05:46:34](https://news.ycombinator.com/item?id=31984760) - [How normal am I?](https://www.hownormalami.eu)
-* [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:11:03](https://news.ycombinator.com/item?id=31977220) - [Tao: A statically-typed functional language](https://github.com/zesterer/tao)
 * [2022-07-04, 10:20:59](https://news.ycombinator.com/item?id=31975489) - [Femicom is home to the most complete information about the Casio Loopy](http://femicom.org/loopy/)
 
