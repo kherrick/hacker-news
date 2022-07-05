@@ -9,6 +9,7 @@
 * [2022-07-05, 07:44:44](https://news.ycombinator.com/item?id=31985478) - [Solar-powered, Self-hosted Low-tech Magazine](https://solar.lowtechmagazine.com/about.html)
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
+* [2022-07-05, 05:46:34](https://news.ycombinator.com/item?id=31984760) - [How Normal Am I?](https://www.hownormalami.eu)
 * [2022-07-05, 04:54:59](https://news.ycombinator.com/item?id=31984450) - [What Comes After Git](https://matt-rickard.com/what-comes-after-git/)
 * [2022-07-05, 03:50:29](https://news.ycombinator.com/item?id=31984112) - [No really, why can't we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 * [2022-07-05, 03:10:23](https://news.ycombinator.com/item?id=31983899) - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
