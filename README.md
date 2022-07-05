@@ -21,7 +21,6 @@
 * [2022-07-04, 19:44:54](https://news.ycombinator.com/item?id=31980989) - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
 * [2022-07-04, 19:43:56](https://news.ycombinator.com/item?id=31980980) - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
 * [2022-07-04, 18:54:09](https://news.ycombinator.com/item?id=31980548) - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
-* [2022-07-04, 18:04:19](https://news.ycombinator.com/item?id=31980068) - [The Materials Project](https://materialsproject.org/)
 * [2022-07-04, 15:41:43](https://news.ycombinator.com/item?id=31978277) - [Lessons from Dungeons and Dragons about storytelling (2013)](https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling)
 * [2022-07-04, 14:52:58](https://news.ycombinator.com/item?id=31977675) - [The first million-transistor chip: The engineers’ story](https://spectrum.ieee.org/intel-i860)
 * [2022-07-04, 13:08:20](https://news.ycombinator.com/item?id=31976614) - [TwinBASIC: A modern BASIC aiming for 100% compatibility with VB6/VBA](https://twinbasic.com/)
@@ -29,6 +28,7 @@
 * [2022-07-04, 11:41:12](https://news.ycombinator.com/item?id=31975959) - [Open Gamma Detector](https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/)
 * [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
 * [2022-07-04, 04:19:21](https://news.ycombinator.com/item?id=31973447) - [High-intensity exercise, some new news](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
+* [2022-07-04, 03:55:35](https://news.ycombinator.com/item?id=31973344) - [Experience: I was in a Scientology jazz band (2021)](https://www.theguardian.com/lifeandstyle/2021/feb/26/experience-i-was-in-a-scientology-jazz-band)
 * [2022-07-03, 13:56:24](https://news.ycombinator.com/item?id=31967730) - [The Sinking of Voyager](https://www.coppolacomment.com/2022/07/the-sinking-of-voyager.html)
 
 ## [Archives](archives/index.md)

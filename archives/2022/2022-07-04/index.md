@@ -74,6 +74,7 @@
 * [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
 * [2022-07-04, 04:19:21](https://news.ycombinator.com/item?id=31973447) - [High-Intensity Exercise](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
+* [2022-07-04, 03:55:35](https://news.ycombinator.com/item?id=31973344) - [Experience: I was in a Scientology jazz band (2021)](https://www.theguardian.com/lifeandstyle/2021/feb/26/experience-i-was-in-a-scientology-jazz-band)
 * [2022-07-04, 03:43:25](https://news.ycombinator.com/item?id=31973289) - [SpotDL – Spotify Downloader](https://github.com/spotDL/spotify-downloader)
 * [2022-07-04, 03:32:37](https://news.ycombinator.com/item?id=31973232) - [macOS: App Sandboxing via Sandbox-Exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
 * [2022-07-04, 03:25:45](https://news.ycombinator.com/item?id=31973196) - [The problem with free (2019)](https://vanschneider.com/blog/the-problem-with-free/)
