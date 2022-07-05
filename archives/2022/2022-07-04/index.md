@@ -52,6 +52,7 @@
 * [2022-07-04, 11:40:45](https://news.ycombinator.com/item?id=31975952) - [Show HN: Graphsignal – ML profiler to speed up training and inference](https://github.com/graphsignal/graphsignal)
 * [2022-07-04, 11:34:17](https://news.ycombinator.com/item?id=31975914) - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
 * [2022-07-04, 11:31:59](https://news.ycombinator.com/item?id=31975901) - [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
+* [2022-07-04, 11:30:30](https://news.ycombinator.com/item?id=31975889) - [Camera model identification based on forensic traces](https://www.sciencedirect.com/science/article/pii/S0957417422010430)
 * [2022-07-04, 11:29:45](https://news.ycombinator.com/item?id=31975882) - [Breast cancer drug trial: Woman given months to live told she is cancer free](https://www.bbc.co.uk/news/uk-england-manchester-62033469)
 * [2022-07-04, 11:28:44](https://news.ycombinator.com/item?id=31975877) - [Is McKinsey and Co. The Root of All Evil?](https://ritholtz.com/2011/03/is-mckinsey-co-the-root-of-all-evil/)
 * [2022-07-04, 11:00:56](https://news.ycombinator.com/item?id=31975730) - [The New American Micro-SaaS Dream](https://microfounder.com/blog/american-micro-saas-dream)
