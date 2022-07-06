@@ -53,6 +53,7 @@
 * [2022-07-05, 12:30:55](https://news.ycombinator.com/item?id=31987408) - [The Water Wars Come to the Suburbs](https://www.newyorker.com/news/letter-from-the-southwest/the-water-wars-come-to-the-suburbs)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 11:54:31](https://news.ycombinator.com/item?id=31987099) - [Buffett, Jones and Hamm: An Oil Wisdom Trifecta](https://smeadcap.com/missives/buffett-jones-and-hamm-an-oil-wisdom-trifecta/)
+* [2022-07-05, 11:38:26](https://news.ycombinator.com/item?id=31986979) - [Arbitrary Code Execution in Super Mario All-Stars](https://www.youtube.com/watch?v=FlkWSqA4VFU)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
 * [2022-07-05, 11:10:47](https://news.ycombinator.com/item?id=31986768) - [Problems for Goff’s Panpsychism](http://edwardfeser.blogspot.com/2022/07/problems-for-goffs-panpsychism.html)

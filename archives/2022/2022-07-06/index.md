@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 10:01:19](https://news.ycombinator.com/item?id=31998823) - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
 * [2022-07-06, 07:41:54](https://news.ycombinator.com/item?id=31997939) - [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
 * [2022-07-06, 07:01:09](https://news.ycombinator.com/item?id=31997678) - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
