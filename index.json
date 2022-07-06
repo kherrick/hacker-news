@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-05, 23:16:45",
+      "https://news.ycombinator.com/item?id=31994926"
+    ],
+    [
+      "India's largest stock broker has 30 devs",
+      "https://zerodha.tech/blog/hello-world/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 22:58:38",
+      "https://news.ycombinator.com/item?id=31994774"
+    ],
+    [
+      "An Ubuntu kernel bug causes container crashes",
+      "https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 22:37:10",
       "https://news.ycombinator.com/item?id=31994605"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=31993713"
     ],
     [
-      "OpenSSL Security Advisory [5 July 2022]",
+      "OpenSSL Security Advisory",
       "https://www.openssl.org/news/secadv/20220705.txt"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Running the Steam Deck’s OS in a virtual machine using QEMU",
       "https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 20:54:05",
-      "https://news.ycombinator.com/item?id=31993566"
-    ],
-    [
-      "Science vs. Soyence",
-      "https://lukesmith.xyz/articles/science-vs-soyence/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2022-07-05, 09:38:41",
-      "https://news.ycombinator.com/item?id=31986205"
+      "2022-07-05, 08:19:54",
+      "https://news.ycombinator.com/item?id=31985716"
     ],
     [
-      "FedEx to close data centers, retire mainframes",
-      "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/"
+      "A Solver of the Hardest Easy Problems About Prime Numbers",
+      "https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Populorum Progressio (1967)",
       "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 16:11:34",
-      "https://news.ycombinator.com/item?id=31978634"
-    ],
-    [
-      "The Digital Dark Ages",
-      "https://deprogrammaticaipsum.com/the-digital-dark-ages/"
     ]
   ],
   [
