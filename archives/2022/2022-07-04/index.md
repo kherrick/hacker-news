@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-04](index.md)
 
 * [2022-07-04, 23:53:14](https://news.ycombinator.com/item?id=31982898) - [Reverse Engineering Dark Souls 3 Networking](https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking)
+* [2022-07-04, 23:45:43](https://news.ycombinator.com/item?id=31982866) - [The Weird, Analog Delights of Foley Sound Effects](https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects)
 * [2022-07-04, 23:41:33](https://news.ycombinator.com/item?id=31982840) - [How TS Eliot Found Happiness](https://www.newstatesman.com/culture/books/book-of-the-day/2022/06/review-ts-eliot-after-the-waste-land-robert-crawford)
 * [2022-07-04, 23:31:19](https://news.ycombinator.com/item?id=31982768) - [Show HN: owo – OneNote to Plain Text](https://github.com/alopezrivera/owo)
 * [2022-07-04, 23:23:33](https://news.ycombinator.com/item?id=31982726) - [Vets today are like doctors yesterday](https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday)
