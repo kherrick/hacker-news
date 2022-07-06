@@ -14,7 +14,6 @@
 * [2022-07-05, 20:57:18](https://news.ycombinator.com/item?id=31993597) - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 * [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
 * [2022-07-05, 18:54:11](https://news.ycombinator.com/item?id=31992218) - [The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
-* [2022-07-05, 18:02:52](https://news.ycombinator.com/item?id=31991598) - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
 * [2022-07-05, 17:18:33](https://news.ycombinator.com/item?id=31990986) - [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 * [2022-07-05, 16:56:23](https://news.ycombinator.com/item?id=31990696) - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
@@ -29,6 +28,7 @@
 * [2022-07-05, 09:25:55](https://news.ycombinator.com/item?id=31986134) - [Difference Between Exacerbation and Aggravation](https://splattlawyers.com.au/do-you-know-the-difference-between-exacerbation-and-aggravation/)
 * [2022-07-05, 08:19:54](https://news.ycombinator.com/item?id=31985716) - [A Solver of the Hardest Easy Problems About Prime Numbers](https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/)
 * [2022-07-05, 08:08:33](https://news.ycombinator.com/item?id=31985639) - [50 Shades of Beige (2018)](https://blog.sciencemuseum.org.uk/50-shades-of-beige/)
+* [2022-07-04, 14:11:56](https://news.ycombinator.com/item?id=31977233) - [F.el: Modern API for working with files and directories in Emacs](https://github.com/rejeep/f.el)
 * [2022-07-04, 05:49:56](https://news.ycombinator.com/item?id=31973841) - [Double Mystery: the nature of twins (1995)](https://www.newyorker.com/magazine/1995/08/07/double-mystery)
 
 ## [Archives](archives/index.md)
