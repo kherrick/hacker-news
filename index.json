@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-06, 03:04:04",
+      "https://news.ycombinator.com/item?id=31996235"
+    ],
+    [
+      "Absurd Trolley Problems",
+      "https://neal.fun/absurd-trolley-problems/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 02:58:34",
+      "https://news.ycombinator.com/item?id=31996214"
+    ],
+    [
+      "GTA GeoGuesser",
+      "https://gta-geoguesser.com/index.html/"
+    ]
+  ],
+  [
+    [
       "2022-07-06, 02:45:22",
       "https://news.ycombinator.com/item?id=31996148"
     ],
@@ -37,6 +57,16 @@
     [
       "Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme",
       "https://github.com/lurk-lang"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 22:00:11",
+      "https://news.ycombinator.com/item?id=31994289"
+    ],
+    [
+      "Fields Medals 2022",
+      "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2022"
     ]
   ],
   [
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2022-07-05, 20:15:42",
-      "https://news.ycombinator.com/item?id=31993131"
-    ],
-    [
-      "Show HN: Localization and translations should be code, not data",
-      "https://github.com/Divine-Software/divine-companions/tree/master/localization"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 18:54:11",
       "https://news.ycombinator.com/item?id=31992218"
     ],
     [
       "The Swerve",
       "https://locusmag.com/2022/07/cory-doctorow-the-swerve/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 18:02:52",
-      "https://news.ycombinator.com/item?id=31991598"
-    ],
-    [
-      "The SQLite Index Suggester",
-      "https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-07-05, 16:07:30",
-      "https://news.ycombinator.com/item?id=31989991"
-    ],
-    [
-      "Robotic surgery turns surgical trainees into spectators",
-      "https://spectrum.ieee.org/robotic-surgery"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 15:31:29",
       "https://news.ycombinator.com/item?id=31989399"
     ],
@@ -217,16 +217,6 @@
     [
       "EU approves legislation to regulate Apple, Google, Meta, and other tech firms",
       "https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 13:04:11",
-      "https://news.ycombinator.com/item?id=31987713"
-    ],
-    [
-      "How to Animate Multiplayer Cursors",
-      "https://liveblocks.io/blog/how-to-animate-multiplayer-cursors"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-07-05, 09:25:55",
+      "https://news.ycombinator.com/item?id=31986134"
+    ],
+    [
+      "Difference Between Exacerbation and Aggravation",
+      "https://splattlawyers.com.au/do-you-know-the-difference-between-exacerbation-and-aggravation/"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 08:19:54",
       "https://news.ycombinator.com/item?id=31985716"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-05, 07:45:21",
-      "https://news.ycombinator.com/item?id=31985485"
+      "2022-07-04, 05:49:56",
+      "https://news.ycombinator.com/item?id=31973841"
     ],
     [
-      "Opening up our code and logic for algorithmic decision-making",
-      "https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/"
+      "Double Mystery: the nature of twins (1995)",
+      "https://www.newyorker.com/magazine/1995/08/07/double-mystery"
     ]
   ]
 ]
