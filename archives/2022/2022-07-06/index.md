@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
+* [2022-07-06, 07:41:54](https://news.ycombinator.com/item?id=31997939) - [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
 * [2022-07-06, 07:01:09](https://news.ycombinator.com/item?id=31997678) - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
 * [2022-07-06, 06:38:54](https://news.ycombinator.com/item?id=31997539) - [Show HN: NeoPOP says “hello world” in open source](https://cred.club/neopop)
 * [2022-07-06, 06:16:04](https://news.ycombinator.com/item?id=31997369) - [Tesla is no longer the largest EV producer](https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett)

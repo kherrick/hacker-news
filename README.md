@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
+* [2022-07-06, 07:41:54](https://news.ycombinator.com/item?id=31997939) - [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
 * [2022-07-06, 07:01:09](https://news.ycombinator.com/item?id=31997678) - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
 * [2022-07-06, 06:38:54](https://news.ycombinator.com/item?id=31997539) - [Show HN: NeoPOP says “hello world” in open source](https://cred.club/neopop)
 * [2022-07-06, 05:49:21](https://news.ycombinator.com/item?id=31997201) - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
@@ -29,7 +30,6 @@
 * [2022-07-04, 15:14:40](https://news.ycombinator.com/item?id=31977918) - [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2022-07-04, 14:11:56](https://news.ycombinator.com/item?id=31977233) - [F.el: Modern API for working with files and directories in Emacs](https://github.com/rejeep/f.el)
 * [2022-07-04, 05:49:56](https://news.ycombinator.com/item?id=31973841) - [Double Mystery: the nature of twins (1995)](https://www.newyorker.com/magazine/1995/08/07/double-mystery)
-* [2022-07-03, 19:51:13](https://news.ycombinator.com/item?id=31970454) - [Revisiting Pegasus on iOS9](https://shadowfile.inode.link/blog/2022/07/revisiting-pegasus-on-ios9/)
 
 ## [Archives](archives/index.md)
 
