@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-05, 23:16:45",
-      "https://news.ycombinator.com/item?id=31994926"
+      "2022-07-06, 02:45:22",
+      "https://news.ycombinator.com/item?id=31996148"
     ],
     [
-      "India's largest stock broker has 30 devs",
-      "https://zerodha.tech/blog/hello-world/"
+      "New cars will stop drivers from speeding under European laws",
+      "https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 02:37:31",
+      "https://news.ycombinator.com/item?id=31996114"
+    ],
+    [
+      "Ask HN: Why do you use a VPN?",
+      "https://news.ycombinator.com/item?id=31996114"
     ]
   ],
   [
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2022-07-05, 22:20:35",
-      "https://news.ycombinator.com/item?id=31994472"
-    ],
-    [
-      "Crypto’s last man standing",
-      "https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 21:54:18",
       "https://news.ycombinator.com/item?id=31994223"
     ],
     [
       "I don't care how you web dev; I just need more better web apps",
       "https://www.baldurbjarnason.com/2022/more-better-web-apps/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 21:24:37",
+      "https://news.ycombinator.com/item?id=31993907"
+    ],
+    [
+      "The ‘E-Pimps’ of OnlyFans",
+      "https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-07-05, 11:10:47",
-      "https://news.ycombinator.com/item?id=31986768"
+      "2022-07-05, 10:32:03",
+      "https://news.ycombinator.com/item?id=31986503"
     ],
     [
-      "Problems for Goff’s Panpsychism",
-      "http://edwardfeser.blogspot.com/2022/07/problems-for-goffs-panpsychism.html"
+      "Historical weather data API for machine learning, free for non-commercial",
+      "https://openmeteo.substack.com/p/historical-weather-for-machine-learning"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-07-05, 08:08:33",
+      "https://news.ycombinator.com/item?id=31985639"
+    ],
+    [
+      "50 Shades of Beige (2018)",
+      "https://blog.sciencemuseum.org.uk/50-shades-of-beige/"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 07:45:21",
       "https://news.ycombinator.com/item?id=31985485"
     ],
     [
       "Opening up our code and logic for algorithmic decision-making",
       "https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 05:19:00",
-      "https://news.ycombinator.com/item?id=31984585"
-    ],
-    [
-      "Populorum Progressio (1967)",
-      "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 14:11:03",
-      "https://news.ycombinator.com/item?id=31977220"
-    ],
-    [
-      "Tao: A statically-typed functional language",
-      "https://github.com/zesterer/tao"
     ]
   ]
 ]
