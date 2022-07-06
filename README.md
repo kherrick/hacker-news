@@ -12,7 +12,6 @@
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple previews Lockdown Mode](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
-* [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First true exascale supercomputer?](https://www.top500.org/lists/top500/2022/06/)
 * [2022-07-06, 15:38:58](https://news.ycombinator.com/item?id=32002555) - [Show HN: PDFs that are readable by human eyes only](https://humaneyesonly.com)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
@@ -28,6 +27,7 @@
 * [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird? (2019)](https://jarredsumner.com/codeblog/)
 * [2022-07-06, 10:35:01](https://news.ycombinator.com/item?id=31999048) - [Stores weigh paying you not to bring back unwanted items](https://www.cnn.com/2022/06/26/business/retail-returns/index.html)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
+* [2022-07-05, 11:22:58](https://news.ycombinator.com/item?id=31986851) - [SpaceVim Release v2.0.0](https://spacevim.org/SpaceVim-release-v2.0.0/)
 * [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 

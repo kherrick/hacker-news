@@ -57,6 +57,7 @@
 * [2022-07-05, 11:38:26](https://news.ycombinator.com/item?id=31986979) - [Arbitrary Code Execution in Super Mario All-Stars](https://www.youtube.com/watch?v=FlkWSqA4VFU)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
+* [2022-07-05, 11:22:58](https://news.ycombinator.com/item?id=31986851) - [SpaceVim Release v2.0.0](https://spacevim.org/SpaceVim-release-v2.0.0/)
 * [2022-07-05, 11:10:47](https://news.ycombinator.com/item?id=31986768) - [Problems for Goff’s Panpsychism](http://edwardfeser.blogspot.com/2022/07/problems-for-goffs-panpsychism.html)
 * [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 10:57:24](https://news.ycombinator.com/item?id=31986688) - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
