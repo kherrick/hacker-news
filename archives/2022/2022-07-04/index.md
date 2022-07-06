@@ -26,6 +26,7 @@
 * [2022-07-04, 17:21:04](https://news.ycombinator.com/item?id=31979536) - [Crypto crisis has created an advertising vacuum](https://digiday.com/marketing/advertising-has-taken-a-hit-the-crypto-crisis-has-created-an-advertising-vacuum/)
 * [2022-07-04, 17:07:45](https://news.ycombinator.com/item?id=31979347) - [UIs are not pure functions of the model](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 * [2022-07-04, 16:49:13](https://news.ycombinator.com/item?id=31979104) - [Ask HN: I'm disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
+* [2022-07-04, 16:43:27](https://news.ycombinator.com/item?id=31979046) - [Ancient DNA yields surprising findings on earliest seafarers](https://phys.org/news/2022-06-ancient-dna-yields-world-earliest.html)
 * [2022-07-04, 16:21:12](https://news.ycombinator.com/item?id=31978755) - [Blocked Persons and Letters of Marque](https://dynomight.net/blocked-persons/)
 * [2022-07-04, 16:13:59](https://news.ycombinator.com/item?id=31978656) - [(Computer) Museums in Switzerland](https://deprogrammaticaipsum.com/computer-museums-in-switzerland/)
 * [2022-07-04, 16:11:34](https://news.ycombinator.com/item?id=31978634) - [The Digital Dark Ages](https://deprogrammaticaipsum.com/the-digital-dark-ages/)

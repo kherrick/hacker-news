@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 12:51:33](https://news.ycombinator.com/item?id=32000106) - [Triathlon first UK sport to create 'open' category for transgender athletes](https://www.bbc.co.uk/sport/triathlon/62063359)
+* [2022-07-06, 12:40:48](https://news.ycombinator.com/item?id=31999950) - [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
+* [2022-07-06, 12:40:01](https://news.ycombinator.com/item?id=31999936) - [Sourcehut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
+* [2022-07-06, 12:13:15](https://news.ycombinator.com/item?id=31999714) - [Tell HN: Razorpay a YC company shared donor data without court order](https://news.ycombinator.com/item?id=31999714)
+* [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [All-new MacBook Air with M2 available to order starting Friday, July 8](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+* [2022-07-06, 11:47:05](https://news.ycombinator.com/item?id=31999508) - [The Ten Commandments for Detective Fiction (2017)](https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/)
+* [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird?](https://jarredsumner.com/codeblog/)
 * [2022-07-06, 10:27:54](https://news.ycombinator.com/item?id=31999000) - [Ask HN: What type of lamp (or light/lumen) do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
 * [2022-07-06, 10:01:19](https://news.ycombinator.com/item?id=31998823) - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
