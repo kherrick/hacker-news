@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+* [2022-07-06, 10:27:54](https://news.ycombinator.com/item?id=31999000) - [Ask HN: What type of lamp (or light/lumen) do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
 * [2022-07-06, 10:01:19](https://news.ycombinator.com/item?id=31998823) - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)

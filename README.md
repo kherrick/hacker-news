@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+* [2022-07-06, 10:27:54](https://news.ycombinator.com/item?id=31999000) - [Ask HN: What type of lamp (or light/lumen) do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
 * [2022-07-06, 10:01:19](https://news.ycombinator.com/item?id=31998823) - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
-* [2022-07-06, 07:41:54](https://news.ycombinator.com/item?id=31997939) - [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
-* [2022-07-06, 07:01:09](https://news.ycombinator.com/item?id=31997678) - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
 * [2022-07-06, 06:38:54](https://news.ycombinator.com/item?id=31997539) - [Show HN: NeoPOP says “hello world” in open source](https://cred.club/neopop)
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 * [2022-07-06, 04:09:29](https://news.ycombinator.com/item?id=31996612) - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
@@ -19,6 +19,7 @@
 * [2022-07-05, 21:08:28](https://news.ycombinator.com/item?id=31993713) - [OpenSSL Security Advisory](https://www.openssl.org/news/secadv/20220705.txt)
 * [2022-07-05, 20:57:18](https://news.ycombinator.com/item?id=31993597) - [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 * [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+* [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 11:54:31](https://news.ycombinator.com/item?id=31987099) - [Buffett, Jones and Hamm: An Oil Wisdom Trifecta](https://smeadcap.com/missives/buffett-jones-and-hamm-an-oil-wisdom-trifecta/)
 * [2022-07-05, 11:38:26](https://news.ycombinator.com/item?id=31986979) - [Arbitrary Code Execution in Super Mario All-Stars](https://www.youtube.com/watch?v=FlkWSqA4VFU)
@@ -29,7 +30,6 @@
 * [2022-07-05, 02:49:48](https://news.ycombinator.com/item?id=31983796) - [The first motion picture production studio: Edison’s Black Maria](https://en.wikipedia.org/wiki/Edison%27s_Black_Maria)
 * [2022-07-04, 15:14:40](https://news.ycombinator.com/item?id=31977918) - [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2022-07-04, 14:11:56](https://news.ycombinator.com/item?id=31977233) - [F.el: Modern API for working with files and directories in Emacs](https://github.com/rejeep/f.el)
-* [2022-07-04, 05:49:56](https://news.ycombinator.com/item?id=31973841) - [Double Mystery: the nature of twins (1995)](https://www.newyorker.com/magazine/1995/08/07/double-mystery)
 
 ## [Archives](archives/index.md)
 
