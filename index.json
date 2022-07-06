@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-07-06, 15:05:05",
+      "https://news.ycombinator.com/item?id=32002057"
+    ],
+    [
+      "Python 3.11 is 25% faster than 3.10 on average",
+      "https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 14:56:29",
+      "https://news.ycombinator.com/item?id=32001933"
+    ],
+    [
+      "Crypto broker Voyager Digital files for bankruptcy",
+      "https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/"
+    ]
+  ],
+  [
+    [
       "2022-07-06, 14:43:30",
       "https://news.ycombinator.com/item?id=32001742"
     ],
     [
       "A fake job offer took down the world’s most popular crypto game",
       "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 14:35:07",
-      "https://news.ycombinator.com/item?id=32001627"
-    ],
-    [
-      "FDA suspends Juul ban as company appeals",
-      "https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282"
     ]
   ],
   [
@@ -235,18 +245,8 @@
       "https://news.ycombinator.com/item?id=31986979"
     ],
     [
-      "Arbitrary Code Execution in Super Mario All-Stars",
+      "Arbitrary Code Execution in Super Mario All-Stars [video]",
       "https://www.youtube.com/watch?v=FlkWSqA4VFU"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 10:32:03",
-      "https://news.ycombinator.com/item?id=31986503"
-    ],
-    [
-      "Historical weather data API for machine learning, free for non-commercial",
-      "https://openmeteo.substack.com/p/historical-weather-for-machine-learning"
     ]
   ],
   [
