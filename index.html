@@ -129,6 +129,207 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="32003266">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=32003266"
+              >Ask HN: Why do I struggle to follow corporate meetings?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-06 @ 16:27:18</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=32003266"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I find a lot of non-technical meetings go something like this:
+              </p>
+              <p>
+                "Hi guys, as you might be aware [Robert Smith] of the
+                [communications department] has recently released his [quarterly
+                review] of our ongoing [transformation strategy]. We've received
+                a lot of positive feedback so far, but I wanted to give you all
+                an opportunity to share your thoughts in this meeting. Would
+                anyone like to go first?"
+              </p>
+              <p>
+                Then about half of the team (normally the same people) will jump
+                into the discussion and somehow seem to know what the hell is
+                going on.
+              </p>
+              <p>
+                Meanwhile I'm there wondering who is this [Robert Smith] of the
+                [communications department]? What is the [transformation
+                strategy] and why does it need a [quarterly review]?
+              </p>
+              <p>
+                Occasionally someone will ask what the [transformation strategy]
+                is, but typically it won't be answered in a way that helps me
+                understand what's going on because even more names and
+                departments will be dropped and the strategy itself will be
+                described in such a vague way that it means nothing.
+              </p>
+              <p>
+                I guess a concrete example that comes to mind was from a place I
+                worked previously where they would talk about their
+                "omnichannel" strategy a lot. Whenever someone asked what
+                "omnichannel" meant it was described in a way that seemed to
+                mean nothing, "a multichannel sales strategy", etc. About 6
+                months into the job I finally figured out we were just using it
+                to refer to some extra functionality that we were working on
+                that would allow customers to collect and return online orders
+                from our regional stores. But this was never how it was referred
+                to in corporate meetings.
+              </p>
+              <p>
+                Am I the only one who experiences this? I can't work out if
+                there's a part of my brain that's missing that prevents me from
+                understanding what's being discussed in these meetings or if
+                this is a common experience. I'm very practically minded which
+                probably doesn't help, but I worry I'm not making enough of an
+                effort to understand what's happening in the business outside my
+                personal bubble.
+              </p>
+              <p>
+                Does anyone struggle with this, or do you have any
+                recommendations for people like me who do struggle to understand
+                what's happening in corporate meetings?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="32003215">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=32003215"
+              >Launch HN: Hello (YC S22) – A search engine for developers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-06 @ 16:24:30</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=32003215"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://beta.sayhello.so">https://beta.sayhello.so</a>).
+              We're building a better search engine for software developers.
+              Hello saves you time by synthesizing clear explanations to
+              technical questions along with code snippets from the web, showing
+              them right on the search page.
+              <p>
+                We’ve found that most technical searches fall into a few
+                categories: ad-hoc how-tos, understanding an API, recalling
+                forgotten details, research, or troubleshooting. Google is too
+                broad and shallow of a search tool to be good at this. Even
+                after sifting through the deluge of spammy, irrelevant sites
+                pumped full of SEO, you still have to manually find your answer
+                through discussion boards or documentation. Their “featured
+                snippet” approach works for simple factoid queries but quickly
+                falls apart if a question requires reasoning about information
+                across multiple webpages.
+              </p>
+              <p>
+                Our approach is narrow and deep — to retrieve detailed
+                information for topics relevant to developers. When you submit a
+                query, we pull raw site data from Bing, rerank them, and extract
+                understanding and code snippets with our proprietary large
+                language models. We use seq-to-seq transformer models to
+                generate a final explanation from all of this input.
+              </p>
+              <p>
+                For our honors theses at UT Austin, we researched prototypes of
+                large generative language models that can answer complex
+                questions by combining information from multiple sources. We
+                found that GPT-3, GPT-Neo/J/X, and similar autoregressive
+                language models that predict text from left to right are prone
+                to “hallucinating” and generating text inconsistent with the
+                “ground truth” document. Training a sequence-to-sequence
+                language model (T5 derivative) on our custom dataset designed
+                for factual generation yielded much better results with less
+                hallucination.
+              </p>
+              <p>
+                After creating this prototype, we started actively developing
+                Hello with the idea that searching should be just like talking
+                to a smart friend. We want to build an engine that explains
+                complex topics clearly and concisely, and lets users ask
+                follow-up questions using the context of their previous
+                searches.
+              </p>
+              <p>
+                For example, when asked “what type of semaphore can function as
+                a mutex?”, Hello pulls in the raw text from all five search
+                results linked on the search page to generate: “A binary
+                semaphore can be used as a mutex. Mutexes and semaphores are two
+                different types of synchronization mechanisms. A mutex is a lock
+                that prevents two threads from accessing the same resource at
+                the same time. A semaphore is used to signal that a resource has
+                become available.” We're biased, of course, but we think that
+                the ability to reason abstractly about information from multiple
+                web pages is a cool thing in a search engine!
+              </p>
+              <p>
+                We use BERT-based models to extract and rank code snippets if
+                relevant to the query. Our search engine currently does well at
+                answering applicable how-to questions such as “Sort a list of
+                tuples by the second element”, “Set a response cookie in
+                FastAPI”, “Get value of input in React”, “How to implement
+                Dijkstra's algorithm.” Exclusively using our own models has also
+                freed us from dependence on OpenAI.
+              </p>
+              <p>
+                Hello is and will always be free for individual devs. We haven’t
+                rolled out any paid plans yet, but we’re planning to charge
+                teams per user/month to use on internal data scattered around in
+                wikis, documentation, slack, and emails.
+              </p>
+              <p>
+                We started Hello Cognition to scratch our own itch, but now we
+                hope to improve the state of information retrieval for the
+                greater developer community. If you'd like to be part of our
+                product feedback and iteration process, we'd love to have
+                you—please contact us at founders@sayhello.so.
+              </p>
+              <p>
+                We're looking forward to hearing your ideas, feedback, comments,
+                and what would be helpful for you when navigating technical
+                problems!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="32003065">
+          <h3>
+            <a
+              class="item"
+              href="https://godotengine.org/article/fog-volumes-arrive-in-godot-4"
+              >Fog Volumes arrive in Godot 4.0</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-06 @ 16:14:28</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=32003065"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="32002830">
           <h3>
             <a class="item" href="https://www.top500.org/lists/top500/2022/06/"
@@ -139,31 +340,11 @@
             <h4>
               <span>2022-07-06 @ 15:57:28</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32002830"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="32002555">
-          <h3>
-            <a class="item" href="https://humaneyesonly.com"
-              >Show HN: PDFs That Are Readable by Human Eyes Only, OCR
-              Resistant</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-06 @ 15:38:58</span
-              ><span class="points-container"
-                >Points: <span class="points">23</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=32002555"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -180,11 +361,11 @@
             <h4>
               <span>2022-07-06 @ 15:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">262</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32002057"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -194,18 +375,18 @@
             <a
               class="item"
               href="https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/"
-              >Crypto broker Voyager Digital files for bankruptcy</a
+              >Voyager Digital files for bankruptcy</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-07-06 @ 14:56:29</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32001933"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -221,7 +402,7 @@
             <h4>
               <span>2022-07-06 @ 14:48:43</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32001817"
                   >Comments</a
@@ -243,11 +424,11 @@
             <h4>
               <span>2022-07-06 @ 14:43:30</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32001742"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -264,11 +445,11 @@
             <h4>
               <span>2022-07-06 @ 13:36:23</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32000668"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -286,11 +467,11 @@
             <h4>
               <span>2022-07-06 @ 13:31:40</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32000598"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -298,19 +479,19 @@
         <section id="32000400">
           <h3>
             <a class="item" href="https://www.causal.app/blog/scaling"
-              >Scaling our Spreadsheet Engine from Thousands to Billions of
-              Cells</a
+              >Scaling our spreadsheet engine from thousands to billions of
+              cells</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-07-06 @ 13:18:35</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32000400"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -325,11 +506,11 @@
             <h4>
               <span>2022-07-06 @ 13:06:54</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32000261"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -346,11 +527,11 @@
             <h4>
               <span>2022-07-06 @ 12:40:01</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31999936"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -367,7 +548,7 @@
             <h4>
               <span>2022-07-06 @ 12:22:10</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31999774"
                   >Comments</a
@@ -387,11 +568,11 @@
             <h4>
               <span>2022-07-06 @ 12:13:15</span
               ><span class="points-container"
-                >Points: <span class="points">343</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31999714"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
             <div class="text">
@@ -407,14 +588,25 @@
                 website from Razorpay and they complied without a court
                 order[3].
               </p>
-              <p>1: https://www.ycombinator.com/companies/razorpay</p>
+              <p>
+                1:
+                <a href="https://www.ycombinator.com/companies/razorpay"
+                  >https://www.ycombinator.com/companies/razorpay</a
+                >
+              </p>
               <p>
                 2:
-                https://www.theguardian.com/world/2022/jun/28/delhi-police-arrest-muslim-journalist-mohammed-zubair-india-bjp
+                <a
+                  href="https://www.theguardian.com/world/2022/jun/28/delhi-police-arrest-muslim-journalist-mohammed-zubair-india-bjp"
+                  >https://www.theguardian.com/world/2022/jun/28/delhi-police-a...</a
+                >
               </p>
               <p>
                 3:
-                https://inc42.com/buzz/razorpay-alt-news-controversy-spotlight-on-data-security-user-consent
+                <a
+                  href="https://inc42.com/buzz/razorpay-alt-news-controversy-spotlight-on-data-security-user-consent"
+                  >https://inc42.com/buzz/razorpay-alt-news-controversy-spotlig...</a
+                >
               </p>
             </div>
           </section>
@@ -431,11 +623,11 @@
             <h4>
               <span>2022-07-06 @ 12:00:34</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31999626"
                   >Comments</a
-                ><span class="descendants">: 446</span></span
+                ><span class="descendants">: 470</span></span
               >
             </h4>
           </section>
@@ -468,11 +660,11 @@
             <h4>
               <span>2022-07-06 @ 11:47:05</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31999508"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -487,11 +679,11 @@
             <h4>
               <span>2022-07-06 @ 11:07:13</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31999259"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -508,11 +700,11 @@
             <h4>
               <span>2022-07-06 @ 08:44:23</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31998348"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -529,32 +721,11 @@
             <h4>
               <span>2022-07-06 @ 08:29:13</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31998244"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31997201">
-          <h3>
-            <a
-              class="item"
-              href="https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/"
-              >It’s 1997 and you want to build a website</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-06 @ 05:49:21</span
-              ><span class="points-container"
-                >Points: <span class="points">89</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31997201"
-                  >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -571,11 +742,11 @@
             <h4>
               <span>2022-07-06 @ 05:37:12</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31997109"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -590,11 +761,11 @@
             <h4>
               <span>2022-07-06 @ 03:04:04</span
               ><span class="points-container"
-                >Points: <span class="points">1028</span></span
+                >Points: <span class="points">1041</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31996235"
                   >Comments</a
-                ><span class="descendants">: 803</span></span
+                ><span class="descendants">: 813</span></span
               >
             </h4>
           </section>
@@ -609,31 +780,11 @@
             <h4>
               <span>2022-07-06 @ 02:58:34</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31996214"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="31993429">
-          <h3>
-            <a class="item" href="https://bun.sh/?launch"
-              >Bun: Fast JavaScript runtime, transpiler, and NPM client written
-              in Zig</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-05 @ 20:41:53</span
-              ><span class="points-container"
-                >Points: <span class="points">1273</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31993429"
-                  >Comments</a
-                ><span class="descendants">: 273</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -669,11 +820,11 @@
             <h4>
               <span>2022-07-05 @ 11:38:26</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31986979"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -686,33 +837,32 @@
             <h4>
               <span>2022-07-05 @ 06:18:25</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31984951"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="31984757">
+        <section id="31982866">
           <h3>
             <a
               class="item"
-              href="https://www.science.org/content/article/scientists-probing-secrets-earths-inner-core-saved-life-planet"
-              >The Planet Inside: Scientists are probing the secrets of the
-              inner core</a
+              href="https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects"
+              >The Weird, Analog Delights of Foley Sound Effects</a
             >
           </h3>
           <section>
             <h4>
-              <span>2022-07-05 @ 05:46:20</span
+              <span>2022-07-04 @ 23:45:43</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=31984757"
+                ><a href="https://news.ycombinator.com/item?id=31982866"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -733,7 +883,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31979046"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -750,11 +900,11 @@
             <h4>
               <span>2022-07-04 @ 14:30:37</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=31977435"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
