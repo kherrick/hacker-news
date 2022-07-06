@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-07-05, 18:02:52",
-      "https://news.ycombinator.com/item?id=31991598"
-    ],
-    [
-      "The SQLite Index Suggester",
-      "https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 17:19:57",
       "https://news.ycombinator.com/item?id=31991008"
     ],
@@ -287,6 +277,16 @@
     [
       "50 Shades of Beige (2018)",
       "https://blog.sciencemuseum.org.uk/50-shades-of-beige/"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 14:11:56",
+      "https://news.ycombinator.com/item?id=31977233"
+    ],
+    [
+      "F.el: Modern API for working with files and directories in Emacs",
+      "https://github.com/rejeep/f.el"
     ]
   ],
   [
