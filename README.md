@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-06, 04:09:29](https://news.ycombinator.com/item?id=31996612) - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
+* [2022-07-06, 03:55:54](https://news.ycombinator.com/item?id=31996529) - [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
 * [2022-07-06, 03:04:04](https://news.ycombinator.com/item?id=31996235) - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 * [2022-07-06, 02:58:34](https://news.ycombinator.com/item?id=31996214) - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
 * [2022-07-05, 22:58:38](https://news.ycombinator.com/item?id=31994774) - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
@@ -20,7 +21,6 @@
 * [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 * [2022-07-05, 15:31:29](https://news.ycombinator.com/item?id=31989399) - [Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal](https://justine.lol/memzoom/)
 * [2022-07-05, 14:44:55](https://news.ycombinator.com/item?id=31988820) - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
-* [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU approves legislation to regulate Apple, Google, Meta, and other tech firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 10:33:36](https://news.ycombinator.com/item?id=31986515) - [Migrating from Cgit to Stagit (2018)](https://a3nm.net/blog/cgit_stagit.html)
 * [2022-07-05, 10:32:03](https://news.ycombinator.com/item?id=31986503) - [Historical weather data API for machine learning, free for non-commercial](https://openmeteo.substack.com/p/historical-weather-for-machine-learning)
