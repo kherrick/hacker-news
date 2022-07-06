@@ -1,12 +1,82 @@
 [
   [
     [
+      "2022-07-06, 12:51:33",
+      "https://news.ycombinator.com/item?id=32000106"
+    ],
+    [
+      "Triathlon first UK sport to create 'open' category for transgender athletes",
+      "https://www.bbc.co.uk/sport/triathlon/62063359"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 12:40:48",
+      "https://news.ycombinator.com/item?id=31999950"
+    ],
+    [
+      "In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math",
+      "https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 12:40:01",
+      "https://news.ycombinator.com/item?id=31999936"
+    ],
+    [
+      "Sourcehut is committed to making IRC better",
+      "https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 12:13:15",
+      "https://news.ycombinator.com/item?id=31999714"
+    ],
+    [
+      "Tell HN: Razorpay a YC company shared donor data without court order",
+      "https://news.ycombinator.com/item?id=31999714"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 12:00:34",
+      "https://news.ycombinator.com/item?id=31999626"
+    ],
+    [
+      "All-new MacBook Air with M2 available to order starting Friday, July 8",
+      "https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/"
+    ]
+  ],
+  [
+    [
       "2022-07-06, 12:00:13",
       "https://news.ycombinator.com/item?id=31999625"
     ],
     [
       "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
       "https://www.aptible.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 11:47:05",
+      "https://news.ycombinator.com/item?id=31999508"
+    ],
+    [
+      "The Ten Commandments for Detective Fiction (2017)",
+      "https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 11:07:13",
+      "https://news.ycombinator.com/item?id=31999259"
+    ],
+    [
+      "Why isn't the internet more fun and weird?",
+      "https://jarredsumner.com/codeblog/"
     ]
   ],
   [
@@ -47,16 +117,6 @@
     [
       "Emacs’s Builtin Elisp Cheat Sheet",
       "https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 06:38:54",
-      "https://news.ycombinator.com/item?id=31997539"
-    ],
-    [
-      "Show HN: NeoPOP says “hello world” in open source",
-      "https://cred.club/neopop"
     ]
   ],
   [
@@ -131,72 +191,12 @@
   ],
   [
     [
-      "2022-07-05, 22:00:11",
-      "https://news.ycombinator.com/item?id=31994289"
-    ],
-    [
-      "Fields Medals 2022",
-      "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2022"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 21:54:18",
-      "https://news.ycombinator.com/item?id=31994223"
-    ],
-    [
-      "I don't care how you web dev; I just need more better web apps",
-      "https://www.baldurbjarnason.com/2022/more-better-web-apps/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 21:24:37",
-      "https://news.ycombinator.com/item?id=31993907"
-    ],
-    [
-      "The ‘E-Pimps’ of OnlyFans",
-      "https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 21:08:28",
-      "https://news.ycombinator.com/item?id=31993713"
-    ],
-    [
-      "OpenSSL Security Advisory",
-      "https://www.openssl.org/news/secadv/20220705.txt"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 20:57:18",
-      "https://news.ycombinator.com/item?id=31993597"
-    ],
-    [
-      "Running the Steam Deck’s OS in a virtual machine using QEMU",
-      "https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 20:41:53",
       "https://news.ycombinator.com/item?id=31993429"
     ],
     [
       "Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig",
       "https://bun.sh/?launch"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 17:19:57",
-      "https://news.ycombinator.com/item?id=31991008"
-    ],
-    [
-      "Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",
-      "https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-07-05, 08:19:54",
-      "https://news.ycombinator.com/item?id=31985716"
-    ],
-    [
-      "A Solver of the Hardest Easy Problems About Prime Numbers",
-      "https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/"
-    ]
-  ],
-  [
-    [
       "2022-07-05, 08:08:33",
       "https://news.ycombinator.com/item?id=31985639"
     ],
@@ -277,6 +267,16 @@
     [
       "The first motion picture production studio: Edison’s Black Maria",
       "https://en.wikipedia.org/wiki/Edison%27s_Black_Maria"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 16:43:27",
+      "https://news.ycombinator.com/item?id=31979046"
+    ],
+    [
+      "Ancient DNA yields surprising findings on earliest seafarers",
+      "https://phys.org/news/2022-06-ancient-dna-yields-world-earliest.html"
     ]
   ],
   [
