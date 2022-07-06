@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-06, 18:06:12](https://news.ycombinator.com/item?id=32004624) - [Harvard study finds no positive impact from UBI unconditional cash transfer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 * [2022-07-06, 17:58:03](https://news.ycombinator.com/item?id=32004522) - [Ask HN: What's your favorite board game?](https://news.ycombinator.com/item?id=32004522)
 * [2022-07-06, 17:12:20](https://news.ycombinator.com/item?id=32003900) - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 * [2022-07-06, 17:07:48](https://news.ycombinator.com/item?id=32003849) - [Where to wait for an elevator (2010)](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
@@ -30,6 +29,7 @@
 * [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-04, 23:45:43](https://news.ycombinator.com/item?id=31982866) - [The Weird, Analog Delights of Foley Sound Effects](https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects)
+* [2022-07-04, 14:30:37](https://news.ycombinator.com/item?id=31977435) - [A more advanced wxErlang Hello World](https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html)
 
 ## [Archives](archives/index.md)
 
