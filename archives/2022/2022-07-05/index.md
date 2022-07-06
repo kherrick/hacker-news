@@ -83,6 +83,7 @@
 * [2022-07-05, 03:50:29](https://news.ycombinator.com/item?id=31984112) - [No really, why can't we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 * [2022-07-05, 03:10:23](https://news.ycombinator.com/item?id=31983899) - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
 * [2022-07-05, 02:56:28](https://news.ycombinator.com/item?id=31983831) - [Zig is becoming more production-worthy (zigmonthly)](https://zigmonthly.org/letters/2022/may-june/)
+* [2022-07-05, 02:49:48](https://news.ycombinator.com/item?id=31983796) - [The first motion picture production studio: Edison’s Black Maria](https://en.wikipedia.org/wiki/Edison%27s_Black_Maria)
 * [2022-07-05, 02:46:53](https://news.ycombinator.com/item?id=31983782) - [Sadly, we can't check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
 * [2022-07-05, 02:44:59](https://news.ycombinator.com/item?id=31983769) - [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
 * [2022-07-05, 02:33:41](https://news.ycombinator.com/item?id=31983719) - [Toyota’s Chief Says Electric Vehicles Are Overhyped](https://www.wsj.com/articles/toyotas-chief-says-electric-vehicles-are-overhyped-11608196665)
