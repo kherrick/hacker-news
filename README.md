@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
+* [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
+* [2022-07-06, 15:38:58](https://news.ycombinator.com/item?id=32002555) - [Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant](https://humaneyesonly.com)
+* [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:56:29](https://news.ycombinator.com/item?id=32001933) - [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
@@ -19,7 +21,6 @@
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
 * [2022-07-06, 05:49:21](https://news.ycombinator.com/item?id=31997201) - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
-* [2022-07-06, 03:55:54](https://news.ycombinator.com/item?id=31996529) - [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
 * [2022-07-06, 03:04:04](https://news.ycombinator.com/item?id=31996235) - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 * [2022-07-06, 02:58:34](https://news.ycombinator.com/item?id=31996214) - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
 * [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
@@ -28,7 +29,6 @@
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-05, 05:46:20](https://news.ycombinator.com/item?id=31984757) - [The Planet Inside: Scientists are probing the secrets of the inner core](https://www.science.org/content/article/scientists-probing-secrets-earths-inner-core-saved-life-planet)
 * [2022-07-04, 16:43:27](https://news.ycombinator.com/item?id=31979046) - [Ancient DNA yields surprising findings on earliest seafarers](https://phys.org/news/2022-06-ancient-dna-yields-world-earliest.html)
-* [2022-07-04, 15:14:40](https://news.ycombinator.com/item?id=31977918) - [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2022-07-04, 14:30:37](https://news.ycombinator.com/item?id=31977435) - [A more advanced wxErlang Hello World](https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html)
 
 ## [Archives](archives/index.md)
