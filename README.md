@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 21:03:09](https://news.ycombinator.com/item?id=32006791) - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
 * [2022-07-06, 21:00:44](https://news.ycombinator.com/item?id=32006761) - [Charge Robotics (YC S21) is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 * [2022-07-06, 20:33:38](https://news.ycombinator.com/item?id=32006452) - [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)
 * [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
@@ -17,7 +18,6 @@
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down Axie Infinity](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
-* [2022-07-06, 14:31:55](https://news.ycombinator.com/item?id=32001586) - [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
 * [2022-07-06, 13:36:23](https://news.ycombinator.com/item?id=32000668) - [Microrobots can brush and floss teeth in a proof-of-concept study](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
 * [2022-07-06, 13:31:40](https://news.ycombinator.com/item?id=32000598) - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 * [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our spreadsheet engine from thousands to billions of cells](https://www.causal.app/blog/scaling)
