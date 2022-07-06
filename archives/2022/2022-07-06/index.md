@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 18:06:12](https://news.ycombinator.com/item?id=32004624) - [Harvard study finds no positive impact from UBI unconditional cash transfer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
+* [2022-07-06, 17:58:03](https://news.ycombinator.com/item?id=32004522) - [Ask HN: What's your favorite board game?](https://news.ycombinator.com/item?id=32004522)
 * [2022-07-06, 17:12:20](https://news.ycombinator.com/item?id=32003900) - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 * [2022-07-06, 17:07:48](https://news.ycombinator.com/item?id=32003849) - [Where to wait for an elevator (2010)](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)

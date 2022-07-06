@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 18:06:12](https://news.ycombinator.com/item?id=32004624) - [Harvard study finds no positive impact from UBI unconditional cash transfer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
+* [2022-07-06, 17:58:03](https://news.ycombinator.com/item?id=32004522) - [Ask HN: What's your favorite board game?](https://news.ycombinator.com/item?id=32004522)
 * [2022-07-06, 17:12:20](https://news.ycombinator.com/item?id=32003900) - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 * [2022-07-06, 17:07:48](https://news.ycombinator.com/item?id=32003849) - [Where to wait for an elevator (2010)](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
@@ -20,16 +22,14 @@
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [New MacBook Air with M2](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 11:47:05](https://news.ycombinator.com/item?id=31999508) - [The Ten Commandments for Detective Fiction (2017)](https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/)
 * [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird? (2019)](https://jarredsumner.com/codeblog/)
-* [2022-07-06, 10:35:01](https://news.ycombinator.com/item?id=31999048) - [Stores weigh paying you not to bring back unwanted items](https://www.cnn.com/2022/06/26/business/retail-returns/index.html)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 * [2022-07-06, 03:04:04](https://news.ycombinator.com/item?id=31996235) - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
-* [2022-07-06, 02:58:34](https://news.ycombinator.com/item?id=31996214) - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
 * [2022-07-05, 11:38:26](https://news.ycombinator.com/item?id=31986979) - [Arbitrary Code Execution in Super Mario All-Stars [video]](https://www.youtube.com/watch?v=FlkWSqA4VFU)
+* [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-04, 23:45:43](https://news.ycombinator.com/item?id=31982866) - [The Weird, Analog Delights of Foley Sound Effects](https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects)
-* [2022-07-04, 14:30:37](https://news.ycombinator.com/item?id=31977435) - [A more advanced wxErlang Hello World](https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html)
 
 ## [Archives](archives/index.md)
 

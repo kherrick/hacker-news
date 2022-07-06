@@ -58,6 +58,7 @@
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
 * [2022-07-05, 11:10:47](https://news.ycombinator.com/item?id=31986768) - [Problems for Goff’s Panpsychism](http://edwardfeser.blogspot.com/2022/07/problems-for-goffs-panpsychism.html)
+* [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 10:57:24](https://news.ycombinator.com/item?id=31986688) - [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
 * [2022-07-05, 10:33:36](https://news.ycombinator.com/item?id=31986515) - [Migrating from Cgit to Stagit (2018)](https://a3nm.net/blog/cgit_stagit.html)
 * [2022-07-05, 10:32:03](https://news.ycombinator.com/item?id=31986503) - [Historical weather data API for machine learning, free for non-commercial](https://openmeteo.substack.com/p/historical-weather-for-machine-learning)
