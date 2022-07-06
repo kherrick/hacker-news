@@ -16,6 +16,7 @@
 * [2022-07-06, 12:40:48](https://news.ycombinator.com/item?id=31999950) - [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
 * [2022-07-06, 12:40:01](https://news.ycombinator.com/item?id=31999936) - [Sourcehut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
 * [2022-07-06, 12:34:50](https://news.ycombinator.com/item?id=31999880) - [DuckDuckGo, others warn Big Tech will attempt to weasel out of fair play rules](https://www.techradar.com/news/duckduckgo-others-warns-big-tech-will-attempt-to-weasel-out-of-new-fair-play-rules)
+* [2022-07-06, 12:22:10](https://news.ycombinator.com/item?id=31999774) - [Smalltalk Squeak 6.0](https://raw.githubusercontent.com/squeak-smalltalk/squeak-app/squeak-trunk/release-notes/6.0)
 * [2022-07-06, 12:13:15](https://news.ycombinator.com/item?id=31999714) - [Tell HN: Razorpay a YC company shared donor data without court order](https://news.ycombinator.com/item?id=31999714)
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [All-new MacBook Air with M2 available to order starting Friday, July 8](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
