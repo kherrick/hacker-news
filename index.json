@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-07-06, 18:06:12",
-      "https://news.ycombinator.com/item?id=32004624"
-    ],
-    [
-      "Harvard study finds no positive impact from UBI unconditional cash transfer",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000"
-    ]
-  ],
-  [
-    [
       "2022-07-06, 17:58:03",
       "https://news.ycombinator.com/item?id=32004522"
     ],
@@ -297,6 +287,16 @@
     [
       "The Weird, Analog Delights of Foley Sound Effects",
       "https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects"
+    ]
+  ],
+  [
+    [
+      "2022-07-04, 14:30:37",
+      "https://news.ycombinator.com/item?id=31977435"
+    ],
+    [
+      "A more advanced wxErlang Hello World",
+      "https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html"
     ]
   ]
 ]
