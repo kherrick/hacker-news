@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 13:38:51](https://news.ycombinator.com/item?id=32000712) - [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
+* [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
+* [2022-07-06, 13:06:54](https://news.ycombinator.com/item?id=32000261) - [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
+* [2022-07-06, 12:59:30](https://news.ycombinator.com/item?id=32000182) - [U.S. Mass Shootings on Rise No Matter How You Define Them – The Marshall Project](https://www.themarshallproject.org/2022/07/06/what-you-need-to-know-about-the-rise-in-u-s-mass-shootings)
 * [2022-07-06, 12:51:33](https://news.ycombinator.com/item?id=32000106) - [Triathlon first UK sport to create 'open' category for transgender athletes](https://www.bbc.co.uk/sport/triathlon/62063359)
 * [2022-07-06, 12:40:48](https://news.ycombinator.com/item?id=31999950) - [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
 * [2022-07-06, 12:40:01](https://news.ycombinator.com/item?id=31999936) - [Sourcehut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
+* [2022-07-06, 12:34:50](https://news.ycombinator.com/item?id=31999880) - [DuckDuckGo, others warn Big Tech will attempt to weasel out of fair play rules](https://www.techradar.com/news/duckduckgo-others-warns-big-tech-will-attempt-to-weasel-out-of-new-fair-play-rules)
 * [2022-07-06, 12:13:15](https://news.ycombinator.com/item?id=31999714) - [Tell HN: Razorpay a YC company shared donor data without court order](https://news.ycombinator.com/item?id=31999714)
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [All-new MacBook Air with M2 available to order starting Friday, July 8](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)

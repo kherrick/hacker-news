@@ -38,6 +38,7 @@
 * [2022-07-04, 14:41:53](https://news.ycombinator.com/item?id=31977569) - [Moving Beyond Mimicry in Artificial Intelligence](https://nautil.us/moving-beyond-mimicry-in-artificial-intelligence-21015/)
 * [2022-07-04, 14:40:24](https://news.ycombinator.com/item?id=31977551) - [America Is in Denial](https://www.theatlantic.com/ideas/archive/2022/07/mitt-romney-republican-denial-biden-election/661468/)
 * [2022-07-04, 14:36:26](https://news.ycombinator.com/item?id=31977495) - [Flip-Chip Integration of a GaSb Semiconductor Optical Amplifier W Si Photonics](https://semiengineering.com/flip-chip-integration-of-a-gasb-semiconductor-optical-amplifier-with-a-silicon-photonic-circuit/)
+* [2022-07-04, 14:30:37](https://news.ycombinator.com/item?id=31977435) - [A more advanced wxErlang Hello World](https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html)
 * [2022-07-04, 14:11:56](https://news.ycombinator.com/item?id=31977233) - [F.el: Modern API for working with files and directories in Emacs](https://github.com/rejeep/f.el)
 * [2022-07-04, 14:11:03](https://news.ycombinator.com/item?id=31977220) - [Tao: A statically-typed functional language](https://github.com/zesterer/tao)
 * [2022-07-04, 14:07:20](https://news.ycombinator.com/item?id=31977187) - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
