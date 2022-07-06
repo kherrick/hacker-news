@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-06, 07:01:09](https://news.ycombinator.com/item?id=31997678) - [Genei (YC S21) Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
+* [2022-07-06, 06:16:04](https://news.ycombinator.com/item?id=31997369) - [Tesla is no longer the largest EV producer](https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett)
 * [2022-07-06, 06:13:50](https://news.ycombinator.com/item?id=31997354) - [I stumbled upon Strada while forwarding an email](https://stanko.io/how-i-stumbled-upon-strada-while-forwarding-an-email-3W8mbS5KSKXs)
 * [2022-07-06, 05:49:21](https://news.ycombinator.com/item?id=31997201) - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
@@ -19,9 +20,8 @@
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
 * [2022-07-05, 17:18:33](https://news.ycombinator.com/item?id=31990986) - [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 * [2022-07-05, 16:56:23](https://news.ycombinator.com/item?id=31990696) - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
-* [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
-* [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
+* [2022-07-05, 10:33:36](https://news.ycombinator.com/item?id=31986515) - [Migrating from Cgit to Stagit (2018)](https://a3nm.net/blog/cgit_stagit.html)
 * [2022-07-05, 10:32:03](https://news.ycombinator.com/item?id=31986503) - [Historical weather data API for machine learning, free for non-commercial](https://openmeteo.substack.com/p/historical-weather-for-machine-learning)
 * [2022-07-05, 10:21:00](https://news.ycombinator.com/item?id=31986441) - [Billion-record stolen Chinese database for sale on breach forum](https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/)
 * [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
