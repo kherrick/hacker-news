@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 21:00:44](https://news.ycombinator.com/item?id=32006761) - [Charge Robotics (YC S21) is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 * [2022-07-06, 20:33:38](https://news.ycombinator.com/item?id=32006452) - [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)
 * [2022-07-06, 20:14:36](https://news.ycombinator.com/item?id=32006211) - [2022 The Benefits of World Hunger – un.org [web.archive version]](https://web.archive.org/web/20220706173519/https://www.un.org/en/chronicle/article/benefits-world-hunger)
 * [2022-07-06, 20:09:44](https://news.ycombinator.com/item?id=32006148) - [An Apple Original Podcast on Ted Kaczynski the Unabomber](https://podcasts.apple.com/us/podcast/project-unabom/id1627613321)
