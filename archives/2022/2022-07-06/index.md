@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 * [2022-07-06, 19:40:04](https://news.ycombinator.com/item?id=32005796) - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
 * [2022-07-06, 19:31:01](https://news.ycombinator.com/item?id=32005678) - [Show HN: C3 – The C alternative that looks like C (2022 update)](https://news.ycombinator.com/item?id=32005678)
 * [2022-07-06, 18:19:28](https://news.ycombinator.com/item?id=32004756) - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
