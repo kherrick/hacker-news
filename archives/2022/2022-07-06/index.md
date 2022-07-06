@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 21:30:43](https://news.ycombinator.com/item?id=32007065) - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
 * [2022-07-06, 21:03:09](https://news.ycombinator.com/item?id=32006791) - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
 * [2022-07-06, 21:00:44](https://news.ycombinator.com/item?id=32006761) - [Charge Robotics (YC S21) is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 * [2022-07-06, 20:33:38](https://news.ycombinator.com/item?id=32006452) - [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)

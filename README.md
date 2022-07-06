@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 21:30:43](https://news.ycombinator.com/item?id=32007065) - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
 * [2022-07-06, 21:03:09](https://news.ycombinator.com/item?id=32006791) - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
 * [2022-07-06, 21:00:44](https://news.ycombinator.com/item?id=32006761) - [Charge Robotics (YC S21) is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 * [2022-07-06, 20:33:38](https://news.ycombinator.com/item?id=32006452) - [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)
@@ -10,7 +11,6 @@
 * [2022-07-06, 17:12:20](https://news.ycombinator.com/item?id=32003900) - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 * [2022-07-06, 17:07:48](https://news.ycombinator.com/item?id=32003849) - [Where to wait for an elevator (2010)](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple previews Lockdown Mode](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
-* [2022-07-06, 16:27:18](https://news.ycombinator.com/item?id=32003266) - [Ask HN: Why do I struggle to follow corporate meetings?](https://news.ycombinator.com/item?id=32003266)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
 * [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First true exascale supercomputer?](https://www.top500.org/lists/top500/2022/06/)
