@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 05:49:21](https://news.ycombinator.com/item?id=31997201) - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
+* [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 * [2022-07-06, 04:09:29](https://news.ycombinator.com/item?id=31996612) - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
 * [2022-07-06, 03:55:54](https://news.ycombinator.com/item?id=31996529) - [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
 * [2022-07-06, 03:04:04](https://news.ycombinator.com/item?id=31996235) - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
