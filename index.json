@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-06, 12:00:13",
+      "https://news.ycombinator.com/item?id=31999625"
+    ],
+    [
+      "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
+      "https://www.aptible.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 10:27:54",
+      "https://news.ycombinator.com/item?id=31999000"
+    ],
+    [
+      "Ask HN: What type of lamp (or light/lumen) do you use in your home office?",
+      "https://news.ycombinator.com/item?id=31999000"
+    ]
+  ],
+  [
+    [
       "2022-07-06, 10:01:19",
       "https://news.ycombinator.com/item?id=31998823"
     ],
@@ -27,26 +47,6 @@
     [
       "Emacs’s Builtin Elisp Cheat Sheet",
       "https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 07:41:54",
-      "https://news.ycombinator.com/item?id=31997939"
-    ],
-    [
-      "Quebec Sovereignty Movement",
-      "https://en.wikipedia.org/wiki/Quebec_sovereignty_movement"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 07:01:09",
-      "https://news.ycombinator.com/item?id=31997678"
-    ],
-    [
-      "Genei (YC S21) Is Hiring NLP Research and FullStack Engineers",
-      "https://www.ycombinator.com/companies/genei/jobs"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-07-05, 17:19:57",
+      "https://news.ycombinator.com/item?id=31991008"
+    ],
+    [
+      "Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",
+      "https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 11:58:19",
       "https://news.ycombinator.com/item?id=31987128"
     ],
@@ -287,16 +297,6 @@
     [
       "F.el: Modern API for working with files and directories in Emacs",
       "https://github.com/rejeep/f.el"
-    ]
-  ],
-  [
-    [
-      "2022-07-04, 05:49:56",
-      "https://news.ycombinator.com/item?id=31973841"
-    ],
-    [
-      "Double Mystery: the nature of twins (1995)",
-      "https://www.newyorker.com/magazine/1995/08/07/double-mystery"
     ]
   ]
 ]
