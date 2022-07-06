@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 19:31:01](https://news.ycombinator.com/item?id=32005678) - [Show HN: C3 – The C alternative that looks like C (2022 update)](https://news.ycombinator.com/item?id=32005678)
 * [2022-07-06, 18:19:28](https://news.ycombinator.com/item?id=32004756) - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2022-07-06, 17:12:20](https://news.ycombinator.com/item?id=32003900) - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 * [2022-07-06, 17:07:48](https://news.ycombinator.com/item?id=32003849) - [Where to wait for an elevator (2010)](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
@@ -9,7 +10,6 @@
 * [2022-07-06, 16:26:19](https://news.ycombinator.com/item?id=32003246) - [Let's Encrypt swag is here and I love it](https://letsencrypt.org/donate/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
-* [2022-07-06, 16:12:42](https://news.ycombinator.com/item?id=32003036) - [Beyond the Four-Document Model](https://buttondown.email/hillelwayne/archive/beyond-the-four-document-model/)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down Axie Infinity](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
@@ -29,7 +29,7 @@
 * [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-04, 23:45:43](https://news.ycombinator.com/item?id=31982866) - [The Weird, Analog Delights of Foley Sound Effects](https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects)
-* [2022-07-04, 14:30:37](https://news.ycombinator.com/item?id=31977435) - [A more advanced wxErlang Hello World](https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html)
+* [2022-07-04, 19:57:39](https://news.ycombinator.com/item?id=31981127) - [Clint Eastwood Made Carmel Safe for Ice Cream](https://www.montereycountyweekly.com/people/831/the-true-story-behind-the-time-that-the-city-of-carmel-banned-ice-cream-cones/article_ec8da8e2-f7e1-11ec-9784-9bc9315ae48c.html)
 
 ## [Archives](archives/index.md)
 

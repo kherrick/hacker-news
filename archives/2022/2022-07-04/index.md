@@ -15,6 +15,7 @@
 * [2022-07-04, 20:34:39](https://news.ycombinator.com/item?id=31981486) - [On the Use of a Life (2020)](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 * [2022-07-04, 20:25:19](https://news.ycombinator.com/item?id=31981387) - [Happy 4th of July](https://news.ycombinator.com/item?id=31981387)
 * [2022-07-04, 20:06:22](https://news.ycombinator.com/item?id=31981216) - [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
+* [2022-07-04, 19:57:39](https://news.ycombinator.com/item?id=31981127) - [Clint Eastwood Made Carmel Safe for Ice Cream](https://www.montereycountyweekly.com/people/831/the-true-story-behind-the-time-that-the-city-of-carmel-banned-ice-cream-cones/article_ec8da8e2-f7e1-11ec-9784-9bc9315ae48c.html)
 * [2022-07-04, 19:44:54](https://news.ycombinator.com/item?id=31980989) - [Raspberry Pico-based 100-Msps logic analyzer](https://github.com/gusmanb/logicanalyzer)
 * [2022-07-04, 19:43:56](https://news.ycombinator.com/item?id=31980980) - [Show HN: A short dystopian game I build last weekend](https://dreambookgame.com/index.html)
 * [2022-07-04, 18:54:09](https://news.ycombinator.com/item?id=31980548) - [Delayed Messages on iOS](http://caleb.software/posts/ios-delayed-messages.html)
