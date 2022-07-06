@@ -18,7 +18,7 @@
 * [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
 * [2022-07-05, 17:19:57](https://news.ycombinator.com/item?id=31991008) - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
 * [2022-07-05, 17:18:33](https://news.ycombinator.com/item?id=31990986) - [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
-* [2022-07-05, 16:56:23](https://news.ycombinator.com/item?id=31990696) - [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)
+* [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
 * [2022-07-05, 10:33:36](https://news.ycombinator.com/item?id=31986515) - [Migrating from Cgit to Stagit (2018)](https://a3nm.net/blog/cgit_stagit.html)
 * [2022-07-05, 10:32:03](https://news.ycombinator.com/item?id=31986503) - [Historical weather data API for machine learning, free for non-commercial](https://openmeteo.substack.com/p/historical-weather-for-machine-learning)
