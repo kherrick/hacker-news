@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 04:09:29](https://news.ycombinator.com/item?id=31996612) - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
 * [2022-07-06, 03:04:04](https://news.ycombinator.com/item?id=31996235) - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 * [2022-07-06, 02:58:34](https://news.ycombinator.com/item?id=31996214) - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
-* [2022-07-06, 02:45:22](https://news.ycombinator.com/item?id=31996148) - [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
-* [2022-07-06, 02:37:31](https://news.ycombinator.com/item?id=31996114) - [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
 * [2022-07-05, 22:58:38](https://news.ycombinator.com/item?id=31994774) - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
 * [2022-07-05, 22:37:10](https://news.ycombinator.com/item?id=31994605) - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
 * [2022-07-05, 22:00:11](https://news.ycombinator.com/item?id=31994289) - [Fields Medals 2022](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2022)
@@ -23,6 +22,7 @@
 * [2022-07-05, 14:44:55](https://news.ycombinator.com/item?id=31988820) - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
 * [2022-07-05, 14:09:12](https://news.ycombinator.com/item?id=31988367) - [EU approves legislation to regulate Apple, Google, Meta, and other tech firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
+* [2022-07-05, 10:33:36](https://news.ycombinator.com/item?id=31986515) - [Migrating from Cgit to Stagit (2018)](https://a3nm.net/blog/cgit_stagit.html)
 * [2022-07-05, 10:32:03](https://news.ycombinator.com/item?id=31986503) - [Historical weather data API for machine learning, free for non-commercial](https://openmeteo.substack.com/p/historical-weather-for-machine-learning)
 * [2022-07-05, 10:21:00](https://news.ycombinator.com/item?id=31986441) - [Billion-record stolen Chinese database for sale on breach forum](https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/)
 * [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
