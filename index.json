@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2022-07-05, 18:02:52",
+      "https://news.ycombinator.com/item?id=31991598"
+    ],
+    [
+      "The SQLite Index Suggester",
+      "https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_"
+    ]
+  ],
+  [
+    [
       "2022-07-05, 17:19:57",
       "https://news.ycombinator.com/item?id=31991008"
     ],
@@ -197,16 +207,6 @@
     [
       "Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal",
       "https://justine.lol/memzoom/"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 14:44:55",
-      "https://news.ycombinator.com/item?id=31988820"
-    ],
-    [
-      "Show HN: Credentials dumper for Linux using eBPF",
-      "https://github.com/citronneur/pamspy"
     ]
   ],
   [
