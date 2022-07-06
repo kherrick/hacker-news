@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 20:14:36](https://news.ycombinator.com/item?id=32006211) - [2022 The Benefits of World Hunger – un.org [web.archive version]](https://web.archive.org/web/20220706173519/https://www.un.org/en/chronicle/article/benefits-world-hunger)
 * [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 * [2022-07-06, 19:40:04](https://news.ycombinator.com/item?id=32005796) - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
 * [2022-07-06, 19:31:01](https://news.ycombinator.com/item?id=32005678) - [Show HN: C3 – The C alternative that looks like C (2022 update)](https://news.ycombinator.com/item?id=32005678)
@@ -33,6 +34,7 @@
 * [2022-07-06, 13:31:40](https://news.ycombinator.com/item?id=32000598) - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 * [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
 * [2022-07-06, 13:06:54](https://news.ycombinator.com/item?id=32000261) - [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
+* [2022-07-06, 13:00:47](https://news.ycombinator.com/item?id=32000201) - [DIY Smartphone Lora Connection (2021)](https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258)
 * [2022-07-06, 12:59:30](https://news.ycombinator.com/item?id=32000182) - [U.S. Mass Shootings on Rise No Matter How You Define Them – The Marshall Project](https://www.themarshallproject.org/2022/07/06/what-you-need-to-know-about-the-rise-in-u-s-mass-shootings)
 * [2022-07-06, 12:51:33](https://news.ycombinator.com/item?id=32000106) - [Triathlon first UK sport to create 'open' category for transgender athletes](https://www.bbc.co.uk/sport/triathlon/62063359)
 * [2022-07-06, 12:40:48](https://news.ycombinator.com/item?id=31999950) - [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)

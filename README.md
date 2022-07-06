@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 20:14:36](https://news.ycombinator.com/item?id=32006211) - [2022 The Benefits of World Hunger – un.org [web.archive version]](https://web.archive.org/web/20220706173519/https://www.un.org/en/chronicle/article/benefits-world-hunger)
 * [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 * [2022-07-06, 19:40:04](https://news.ycombinator.com/item?id=32005796) - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
 * [2022-07-06, 19:31:01](https://news.ycombinator.com/item?id=32005678) - [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
@@ -19,17 +20,16 @@
 * [2022-07-06, 13:36:23](https://news.ycombinator.com/item?id=32000668) - [Microrobots can brush and floss teeth in a proof-of-concept study](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
 * [2022-07-06, 13:31:40](https://news.ycombinator.com/item?id=32000598) - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 * [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our spreadsheet engine from thousands to billions of cells](https://www.causal.app/blog/scaling)
+* [2022-07-06, 13:00:47](https://news.ycombinator.com/item?id=32000201) - [DIY Smartphone Lora Connection (2021)](https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258)
 * [2022-07-06, 12:40:01](https://news.ycombinator.com/item?id=31999936) - [Making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
 * [2022-07-06, 12:22:10](https://news.ycombinator.com/item?id=31999774) - [Smalltalk Squeak 6.0](https://raw.githubusercontent.com/squeak-smalltalk/squeak-app/squeak-trunk/release-notes/6.0)
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [New MacBook Air with M2](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird? (2019)](https://jarredsumner.com/codeblog/)
 * [2022-07-06, 10:35:01](https://news.ycombinator.com/item?id=31999048) - [Stores weigh paying you not to bring back unwanted items](https://www.cnn.com/2022/06/26/business/retail-returns/index.html)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
-* [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 * [2022-07-05, 11:09:57](https://news.ycombinator.com/item?id=31986765) - [Why are there different ways of measuring energy?](https://ourworldindata.org/energy-definitions)
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
-* [2022-07-04, 23:45:43](https://news.ycombinator.com/item?id=31982866) - [The Weird, Analog Delights of Foley Sound Effects](https://www.newyorker.com/magazine/2022/07/04/the-weird-analog-delights-of-foley-sound-effects)
 
 ## [Archives](archives/index.md)
 
