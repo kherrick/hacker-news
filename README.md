@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 18:19:28](https://news.ycombinator.com/item?id=32004756) - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2022-07-06, 17:12:20](https://news.ycombinator.com/item?id=32003900) - [Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler](http://rubycentral.org/ruby-shield)
 * [2022-07-06, 17:07:48](https://news.ycombinator.com/item?id=32003849) - [Where to wait for an elevator (2010)](https://www.johndcook.com/blog/2010/11/29/where-to-wait-for-an-elevator/)
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
@@ -15,7 +16,6 @@
 * [2022-07-06, 13:36:23](https://news.ycombinator.com/item?id=32000668) - [Microrobots can brush and floss teeth in a proof-of-concept study](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
 * [2022-07-06, 13:31:40](https://news.ycombinator.com/item?id=32000598) - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 * [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our spreadsheet engine from thousands to billions of cells](https://www.causal.app/blog/scaling)
-* [2022-07-06, 13:06:54](https://news.ycombinator.com/item?id=32000261) - [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
 * [2022-07-06, 12:22:10](https://news.ycombinator.com/item?id=31999774) - [Smalltalk Squeak 6.0](https://raw.githubusercontent.com/squeak-smalltalk/squeak-app/squeak-trunk/release-notes/6.0)
 * [2022-07-06, 12:13:15](https://news.ycombinator.com/item?id=31999714) - [Tell HN: Razorpay a YC company shared donor data under a Section 91 order](https://news.ycombinator.com/item?id=31999714)
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [New MacBook Air with M2](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
