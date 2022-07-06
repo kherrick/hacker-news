@@ -15,6 +15,7 @@
 * [2022-07-06, 16:26:19](https://news.ycombinator.com/item?id=32003246) - [Let's Encrypt swag is here and I love it](https://letsencrypt.org/donate/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
+* [2022-07-06, 16:12:42](https://news.ycombinator.com/item?id=32003036) - [Beyond the Four-Document Model](https://buttondown.email/hillelwayne/archive/beyond-the-four-document-model/)
 * [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
 * [2022-07-06, 15:38:58](https://news.ycombinator.com/item?id=32002555) - [Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant](https://humaneyesonly.com)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)

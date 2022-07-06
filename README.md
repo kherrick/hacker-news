@@ -9,7 +9,7 @@
 * [2022-07-06, 16:26:19](https://news.ycombinator.com/item?id=32003246) - [Let's Encrypt swag is here and I love it](https://letsencrypt.org/donate/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
-* [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
+* [2022-07-06, 16:12:42](https://news.ycombinator.com/item?id=32003036) - [Beyond the Four-Document Model](https://buttondown.email/hillelwayne/archive/beyond-the-four-document-model/)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down Axie Infinity](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
