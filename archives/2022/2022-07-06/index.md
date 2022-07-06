@@ -35,6 +35,7 @@
 * [2022-07-06, 14:35:07](https://news.ycombinator.com/item?id=32001627) - [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
 * [2022-07-06, 14:31:55](https://news.ycombinator.com/item?id=32001586) - [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
 * [2022-07-06, 14:02:14](https://news.ycombinator.com/item?id=32001052) - [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
+* [2022-07-06, 13:53:45](https://news.ycombinator.com/item?id=32000903) - [On Turing Machines](https://lawrencecpaulson.github.io//2022/07/06/Turing_Machines.html)
 * [2022-07-06, 13:38:51](https://news.ycombinator.com/item?id=32000712) - [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
 * [2022-07-06, 13:36:23](https://news.ycombinator.com/item?id=32000668) - [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
 * [2022-07-06, 13:31:44](https://news.ycombinator.com/item?id=32000599) - [Apps and advertisers are coming for your lock screen](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
