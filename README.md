@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 23:16:38](https://news.ycombinator.com/item?id=32008080) - [Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth](https://www.military.com/daily-news/2022/07/05/space-force-launches-new-intelligence-unit-congress-voices-concerns-over-growth.html)
 * [2022-07-06, 22:30:08](https://news.ycombinator.com/item?id=32007695) - [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
 * [2022-07-06, 21:30:43](https://news.ycombinator.com/item?id=32007065) - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
 * [2022-07-06, 21:03:09](https://news.ycombinator.com/item?id=32006791) - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
@@ -23,7 +24,6 @@
 * [2022-07-06, 13:00:47](https://news.ycombinator.com/item?id=32000201) - [DIY Smartphone Lora Connection (2021)](https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258)
 * [2022-07-06, 12:40:01](https://news.ycombinator.com/item?id=31999936) - [Making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
 * [2022-07-06, 12:22:10](https://news.ycombinator.com/item?id=31999774) - [Smalltalk Squeak 6.0](https://raw.githubusercontent.com/squeak-smalltalk/squeak-app/squeak-trunk/release-notes/6.0)
-* [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [New MacBook Air with M2](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird? (2019)](https://jarredsumner.com/codeblog/)
 * [2022-07-06, 10:35:01](https://news.ycombinator.com/item?id=31999048) - [Stores weigh paying you not to bring back unwanted items](https://www.cnn.com/2022/06/26/business/retail-returns/index.html)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
