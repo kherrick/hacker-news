@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
+* [2022-07-06, 17:00:43](https://news.ycombinator.com/item?id=32003744) - [ReadMe (YC W15) is hiring people who love Developer Experience](https://readme.com/careers)
 * [2022-07-06, 16:27:18](https://news.ycombinator.com/item?id=32003266) - [Ask HN: Why do I struggle to follow corporate meetings?](https://news.ycombinator.com/item?id=32003266)
+* [2022-07-06, 16:26:19](https://news.ycombinator.com/item?id=32003246) - [Let's Encrypt swag is here and I love it](https://letsencrypt.org/donate/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
 * [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
