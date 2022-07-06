@@ -79,6 +79,7 @@
 * [2022-07-05, 07:43:25](https://news.ycombinator.com/item?id=31985473) - [HackTheBox: A Hacking Playground](https://www.hackthebox.com/)
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
+* [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-05, 05:46:34](https://news.ycombinator.com/item?id=31984760) - [How Normal Am I?](https://www.hownormalami.eu)
 * [2022-07-05, 05:46:20](https://news.ycombinator.com/item?id=31984757) - [The Planet Inside: Scientists are probing the secrets of the inner core](https://www.science.org/content/article/scientists-probing-secrets-earths-inner-core-saved-life-planet)
 * [2022-07-05, 05:19:00](https://news.ycombinator.com/item?id=31984585) - [Populorum Progressio (1967)](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)

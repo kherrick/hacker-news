@@ -6,6 +6,7 @@
 
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:56:29](https://news.ycombinator.com/item?id=32001933) - [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
+* [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
 * [2022-07-06, 14:35:07](https://news.ycombinator.com/item?id=32001627) - [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
 * [2022-07-06, 14:02:14](https://news.ycombinator.com/item?id=32001052) - [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)

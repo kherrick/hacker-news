@@ -2,12 +2,12 @@
 
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:56:29](https://news.ycombinator.com/item?id=32001933) - [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
+* [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
 * [2022-07-06, 13:36:23](https://news.ycombinator.com/item?id=32000668) - [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
 * [2022-07-06, 13:31:40](https://news.ycombinator.com/item?id=32000598) - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 * [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
 * [2022-07-06, 13:06:54](https://news.ycombinator.com/item?id=32000261) - [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
-* [2022-07-06, 12:40:48](https://news.ycombinator.com/item?id=31999950) - [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
 * [2022-07-06, 12:40:01](https://news.ycombinator.com/item?id=31999936) - [Sourcehut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
 * [2022-07-06, 12:22:10](https://news.ycombinator.com/item?id=31999774) - [Smalltalk Squeak 6.0](https://raw.githubusercontent.com/squeak-smalltalk/squeak-app/squeak-trunk/release-notes/6.0)
 * [2022-07-06, 12:13:15](https://news.ycombinator.com/item?id=31999714) - [Tell HN: Razorpay a YC company shared donor data without court order](https://news.ycombinator.com/item?id=31999714)
@@ -25,11 +25,11 @@
 * [2022-07-05, 20:41:53](https://news.ycombinator.com/item?id=31993429) - [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
 * [2022-07-05, 13:20:07](https://news.ycombinator.com/item?id=31987888) - [Welcome to the Subcritical Society (2020)](https://skventures.substack.com/p/welcome-to-the-subcritical-society)
 * [2022-07-05, 11:38:26](https://news.ycombinator.com/item?id=31986979) - [Arbitrary Code Execution in Super Mario All-Stars [video]](https://www.youtube.com/watch?v=FlkWSqA4VFU)
+* [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-05, 05:46:20](https://news.ycombinator.com/item?id=31984757) - [The Planet Inside: Scientists are probing the secrets of the inner core](https://www.science.org/content/article/scientists-probing-secrets-earths-inner-core-saved-life-planet)
 * [2022-07-04, 16:43:27](https://news.ycombinator.com/item?id=31979046) - [Ancient DNA yields surprising findings on earliest seafarers](https://phys.org/news/2022-06-ancient-dna-yields-world-earliest.html)
 * [2022-07-04, 15:14:40](https://news.ycombinator.com/item?id=31977918) - [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2022-07-04, 14:30:37](https://news.ycombinator.com/item?id=31977435) - [A more advanced wxErlang Hello World](https://hidnasio.github.io//elixir/wxerlang/2022/06/29/advance-wx-erlang-hello-world.html)
-* [2022-07-04, 14:11:56](https://news.ycombinator.com/item?id=31977233) - [F.el: Modern API for working with files and directories in Emacs](https://github.com/rejeep/f.el)
 
 ## [Archives](archives/index.md)
 
