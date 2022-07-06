@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-06, 06:13:50](https://news.ycombinator.com/item?id=31997354) - [I stumbled upon Strada while forwarding an email](https://stanko.io/how-i-stumbled-upon-strada-while-forwarding-an-email-3W8mbS5KSKXs)
 * [2022-07-06, 05:49:21](https://news.ycombinator.com/item?id=31997201) - [It’s 1997 and you want to build a website](https://thehistoryoftheweb.com/postscript/its-1997-and-you-want-to-build-a-website/)
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 * [2022-07-06, 04:09:29](https://news.ycombinator.com/item?id=31996612) - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
@@ -21,13 +22,12 @@
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 * [2022-07-05, 15:31:29](https://news.ycombinator.com/item?id=31989399) - [Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal](https://justine.lol/memzoom/)
-* [2022-07-05, 10:33:36](https://news.ycombinator.com/item?id=31986515) - [Migrating from Cgit to Stagit (2018)](https://a3nm.net/blog/cgit_stagit.html)
 * [2022-07-05, 10:32:03](https://news.ycombinator.com/item?id=31986503) - [Historical weather data API for machine learning, free for non-commercial](https://openmeteo.substack.com/p/historical-weather-for-machine-learning)
 * [2022-07-05, 10:21:00](https://news.ycombinator.com/item?id=31986441) - [Billion-record stolen Chinese database for sale on breach forum](https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/)
 * [2022-07-05, 09:58:18](https://news.ycombinator.com/item?id=31986321) - [A working flight simulator, no computers necessary [video]](https://www.youtube.com/watch?v=RJAYZgOZS08)
 * [2022-07-05, 09:25:55](https://news.ycombinator.com/item?id=31986134) - [Difference Between Exacerbation and Aggravation](https://splattlawyers.com.au/do-you-know-the-difference-between-exacerbation-and-aggravation/)
-* [2022-07-05, 08:19:54](https://news.ycombinator.com/item?id=31985716) - [A Solver of the Hardest Easy Problems About Prime Numbers](https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/)
 * [2022-07-05, 08:08:33](https://news.ycombinator.com/item?id=31985639) - [50 Shades of Beige (2018)](https://blog.sciencemuseum.org.uk/50-shades-of-beige/)
+* [2022-07-04, 15:14:40](https://news.ycombinator.com/item?id=31977918) - [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2022-07-04, 14:11:56](https://news.ycombinator.com/item?id=31977233) - [F.el: Modern API for working with files and directories in Emacs](https://github.com/rejeep/f.el)
 * [2022-07-04, 05:49:56](https://news.ycombinator.com/item?id=31973841) - [Double Mystery: the nature of twins (1995)](https://www.newyorker.com/magazine/1995/08/07/double-mystery)
 
