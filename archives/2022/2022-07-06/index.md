@@ -20,6 +20,7 @@
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [All-new MacBook Air with M2 available to order starting Friday, July 8](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 * [2022-07-06, 11:47:05](https://news.ycombinator.com/item?id=31999508) - [The Ten Commandments for Detective Fiction (2017)](https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/)
+* [2022-07-06, 11:21:02](https://news.ycombinator.com/item?id=31999357) - [Show HN: StoneDB – A real-time HTAP database built on MySQL](https://github.com/stoneatom/stonedb)
 * [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird?](https://jarredsumner.com/codeblog/)
 * [2022-07-06, 10:27:54](https://news.ycombinator.com/item?id=31999000) - [Ask HN: What type of lamp (or light/lumen) do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
 * [2022-07-06, 10:01:19](https://news.ycombinator.com/item?id=31998823) - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)

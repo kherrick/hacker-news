@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-06, 14:02:14](https://news.ycombinator.com/item?id=32001052) - [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
 * [2022-07-06, 13:38:51](https://news.ycombinator.com/item?id=32000712) - [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
 * [2022-07-06, 13:36:23](https://news.ycombinator.com/item?id=32000668) - [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
 * [2022-07-06, 13:31:44](https://news.ycombinator.com/item?id=32000599) - [Apps and advertisers are coming for your lock screen](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
@@ -14,6 +13,7 @@
 * [2022-07-06, 12:00:34](https://news.ycombinator.com/item?id=31999626) - [New MacBook Air with M2](https://www.apple.com/newsroom/2022/07/all-new-macbook-air-with-m2-available-to-order-starting-friday-july-8/)
 * [2022-07-06, 12:00:13](https://news.ycombinator.com/item?id=31999625) - [Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
 * [2022-07-06, 11:47:05](https://news.ycombinator.com/item?id=31999508) - [The Ten Commandments for Detective Fiction (2017)](https://elizabethspanncraig.com/mystery-writing-tips/ten-commandments-detective-fiction-1929-brief-history/)
+* [2022-07-06, 11:21:02](https://news.ycombinator.com/item?id=31999357) - [Show HN: StoneDB – A real-time HTAP database built on MySQL](https://github.com/stoneatom/stonedb)
 * [2022-07-06, 11:07:13](https://news.ycombinator.com/item?id=31999259) - [Why isn't the internet more fun and weird? (2019)](https://jarredsumner.com/codeblog/)
 * [2022-07-06, 08:44:23](https://news.ycombinator.com/item?id=31998348) - [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
 * [2022-07-06, 08:29:13](https://news.ycombinator.com/item?id=31998244) - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
