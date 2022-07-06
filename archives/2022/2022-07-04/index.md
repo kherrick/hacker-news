@@ -79,6 +79,7 @@
 * [2022-07-04, 06:10:26](https://news.ycombinator.com/item?id=31973963) - [Tech Debt, Incidents and on Call](https://thenewstack.io/tech-debt-incidents-and-on-call/)
 * [2022-07-04, 06:03:20](https://news.ycombinator.com/item?id=31973917) - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
 * [2022-07-04, 05:52:44](https://news.ycombinator.com/item?id=31973859) - [Why runbooks are the key to handling any situation effectively](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
+* [2022-07-04, 05:49:56](https://news.ycombinator.com/item?id=31973841) - [Double Mystery: the nature of twins (1995)](https://www.newyorker.com/magazine/1995/08/07/double-mystery)
 * [2022-07-04, 05:31:40](https://news.ycombinator.com/item?id=31973770) - [From aardvark to woke: inside the Oxford English Dictionary](https://www.newstatesman.com/long-reads/2022/06/oxford-english-dictionary-aardvark-woke-oed-history)
 * [2022-07-04, 05:22:15](https://news.ycombinator.com/item?id=31973737) - [1942–1944 Musicians' Strike](https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians%27_strike)
 * [2022-07-04, 04:19:21](https://news.ycombinator.com/item?id=31973447) - [High-Intensity Exercise](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
