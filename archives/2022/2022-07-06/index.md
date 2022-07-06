@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-06](index.md)
 
+* [2022-07-06, 20:33:38](https://news.ycombinator.com/item?id=32006452) - [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)
 * [2022-07-06, 20:14:36](https://news.ycombinator.com/item?id=32006211) - [2022 The Benefits of World Hunger – un.org [web.archive version]](https://web.archive.org/web/20220706173519/https://www.un.org/en/chronicle/article/benefits-world-hunger)
+* [2022-07-06, 20:09:44](https://news.ycombinator.com/item?id=32006148) - [An Apple Original Podcast on Ted Kaczynski the Unabomber](https://podcasts.apple.com/us/podcast/project-unabom/id1627613321)
 * [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 * [2022-07-06, 19:40:04](https://news.ycombinator.com/item?id=32005796) - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
 * [2022-07-06, 19:31:01](https://news.ycombinator.com/item?id=32005678) - [Show HN: C3 – The C alternative that looks like C (2022 update)](https://news.ycombinator.com/item?id=32005678)
