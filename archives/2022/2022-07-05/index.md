@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-05](index.md)
 
+* [2022-07-05, 23:16:45](https://news.ycombinator.com/item?id=31994926) - [India's largest stock broker has 30 devs](https://zerodha.tech/blog/hello-world/)
+* [2022-07-05, 22:58:38](https://news.ycombinator.com/item?id=31994774) - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
 * [2022-07-05, 22:37:10](https://news.ycombinator.com/item?id=31994605) - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
 * [2022-07-05, 22:20:35](https://news.ycombinator.com/item?id=31994472) - [Crypto’s Last Man Standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
 * [2022-07-05, 22:11:07](https://news.ycombinator.com/item?id=31994390) - [Cash Transfers: No positive effect of cash – if anything, negative effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
@@ -60,6 +62,7 @@
 * [2022-07-05, 09:38:41](https://news.ycombinator.com/item?id=31986205) - [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
 * [2022-07-05, 09:32:22](https://news.ycombinator.com/item?id=31986162) - [Show HN: I made Daspoll – Survey and Form Builder](https://daspoll.com)
 * [2022-07-05, 08:30:15](https://news.ycombinator.com/item?id=31985782) - [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
+* [2022-07-05, 08:19:54](https://news.ycombinator.com/item?id=31985716) - [A Solver of the Hardest Easy Problems About Prime Numbers](https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 * [2022-07-05, 08:03:13](https://news.ycombinator.com/item?id=31985605) - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
 * [2022-07-05, 07:45:21](https://news.ycombinator.com/item?id=31985485) - [Opening up our code and logic for algorithmic decision-making](https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/)
