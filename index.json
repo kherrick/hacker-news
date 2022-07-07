@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-07, 13:40:43",
+      "https://news.ycombinator.com/item?id=32013949"
+    ],
+    [
+      "Ask HN: Is attitude more important than knowledge?",
+      "https://news.ycombinator.com/item?id=32013949"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 13:25:43",
+      "https://news.ycombinator.com/item?id=32013779"
+    ],
+    [
+      "Ed Is the Standard Text Editor",
+      "https://wiki.c2.com/?EdIsTheStandardTextEditor"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 13:07:37",
+      "https://news.ycombinator.com/item?id=32013591"
+    ],
+    [
+      "The Code the FBI Used to Wiretap the World",
+      "https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 12:48:18",
       "https://news.ycombinator.com/item?id=32013367"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-07-07, 10:37:11",
-      "https://news.ycombinator.com/item?id=32012263"
-    ],
-    [
-      "‘Your Map Is Wrong’",
-      "https://p2p.ai/2022/06/27/your-map-is-wrong/"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 09:37:14",
       "https://news.ycombinator.com/item?id=32011766"
     ],
@@ -107,16 +127,6 @@
     [
       "4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U",
       "https://kde.slimbook.es/"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 08:26:24",
-      "https://news.ycombinator.com/item?id=32011288"
-    ],
-    [
-      "Nuclear Turn Green as EU Parliament Approves New Taxonomy",
-      "https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-07-07, 01:37:34",
-      "https://news.ycombinator.com/item?id=32009009"
-    ],
-    [
-      "Life Stats",
-      "https://neal.fun/life-stats/"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 00:25:18",
       "https://news.ycombinator.com/item?id=32008586"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2022-07-06, 14:03:13",
-      "https://news.ycombinator.com/item?id=32001080"
-    ],
-    [
-      "What Is Machine Learning Anyway?",
-      "https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway"
-    ]
-  ],
-  [
-    [
       "2022-07-06, 13:51:05",
       "https://news.ycombinator.com/item?id=32000868"
     ],
     [
       "Upcoming RISC-V laptop promises free silicon upgrades",
       "https://arstechnica.com/gadgets/2022/07/first-risc-v-laptop-expected-to-ship-in-september/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 16:13:05",
+      "https://news.ycombinator.com/item?id=31990089"
+    ],
+    [
+      "Ejabberd scalability: single node with 2M concurrent users (2016)",
+      "https://www.process-one.net/blog/ejabberd-massive-scalability-1node-2-million-concurrent-users/"
     ]
   ],
   [
