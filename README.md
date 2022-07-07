@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-07, 20:14:12](https://news.ycombinator.com/item?id=32018751) - [Programming with union, intersection, and negation types](https://arxiv.org/abs/2111.03354)
+* [2022-07-07, 20:24:10](https://news.ycombinator.com/item?id=32018856) - [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
 * [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
 * [2022-07-07, 20:11:06](https://news.ycombinator.com/item?id=32018715) - [Former Theranos COO Sunny Balwani is guilty of federal fraud](https://www.axios.com/2022/07/07/theranos-sunny-balwani-guilty-fraud)
 * [2022-07-07, 19:51:38](https://news.ycombinator.com/item?id=32018508) - [Twitter Layoff Started Today](https://www.linkedin.com/posts/ingridjohnson_twitter-layoffs-started-today-there-are-activity-6950869057071980545-1Q4t)
