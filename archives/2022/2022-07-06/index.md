@@ -37,6 +37,7 @@
 * [2022-07-06, 14:35:07](https://news.ycombinator.com/item?id=32001627) - [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
 * [2022-07-06, 14:31:55](https://news.ycombinator.com/item?id=32001586) - [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
 * [2022-07-06, 14:04:23](https://news.ycombinator.com/item?id=32001103) - [A functional definition to distinguish ponds from lakes and wetlands](https://www.nature.com/articles/s41598-022-14569-0)
+* [2022-07-06, 14:03:13](https://news.ycombinator.com/item?id=32001080) - [What Is Machine Learning Anyway?](https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway)
 * [2022-07-06, 14:02:14](https://news.ycombinator.com/item?id=32001052) - [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
 * [2022-07-06, 13:53:45](https://news.ycombinator.com/item?id=32000903) - [On Turing Machines](https://lawrencecpaulson.github.io//2022/07/06/Turing_Machines.html)
 * [2022-07-06, 13:53:44](https://news.ycombinator.com/item?id=32000902) - [In the hunt for dark matter, are axions our best bet?](https://www.space.com/dark-matter-axions-best-bet)
