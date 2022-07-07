@@ -74,6 +74,7 @@
 * [2022-07-05, 08:30:15](https://news.ycombinator.com/item?id=31985782) - [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
 * [2022-07-05, 08:19:54](https://news.ycombinator.com/item?id=31985716) - [A Solver of the Hardest Easy Problems About Prime Numbers](https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/)
 * [2022-07-05, 08:19:50](https://news.ycombinator.com/item?id=31985714) - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
+* [2022-07-05, 08:08:47](https://news.ycombinator.com/item?id=31985642) - [Venice to Introduce Entry Tickets and Fees](https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know)
 * [2022-07-05, 08:08:33](https://news.ycombinator.com/item?id=31985639) - [50 Shades of Beige (2018)](https://blog.sciencemuseum.org.uk/50-shades-of-beige/)
 * [2022-07-05, 08:03:13](https://news.ycombinator.com/item?id=31985605) - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
 * [2022-07-05, 07:45:21](https://news.ycombinator.com/item?id=31985485) - [Opening up our code and logic for algorithmic decision-making](https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/)
