@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 20:31:16](https://news.ycombinator.com/item?id=32018938) - [Making Things Think – AI Book](https://www.holloway.com/g/making-things-think)
 * [2022-07-07, 20:14:12](https://news.ycombinator.com/item?id=32018751) - [Programming with union, intersection, and negation types](https://arxiv.org/abs/2111.03354)
 * [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
+* [2022-07-07, 20:11:06](https://news.ycombinator.com/item?id=32018715) - [Former Theranos COO Sunny Balwani is guilty of federal fraud](https://www.axios.com/2022/07/07/theranos-sunny-balwani-guilty-fraud)
+* [2022-07-07, 19:51:38](https://news.ycombinator.com/item?id=32018508) - [Twitter Layoff Started Today](https://www.linkedin.com/posts/ingridjohnson_twitter-layoffs-started-today-there-are-activity-6950869057071980545-1Q4t)
 * [2022-07-07, 19:47:35](https://news.ycombinator.com/item?id=32018459) - [Astrofox – Turn Audio into Videos](https://astrofox.io/)
 * [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
 * [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
