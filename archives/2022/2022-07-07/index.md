@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 18:37:19](https://news.ycombinator.com/item?id=32017684) - [“Why I'm Giving Up Tenure at UCLA”](https://www.commonsense.news/p/why-im-giving-up-tenure-at-ucla)
+* [2022-07-07, 17:49:55](https://news.ycombinator.com/item?id=32017113) - [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
 * [2022-07-07, 17:22:46](https://news.ycombinator.com/item?id=32016759) - [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
 * [2022-07-07, 17:01:10](https://news.ycombinator.com/item?id=32016488) - [Inversion Space (YC S21) Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
 * [2022-07-07, 17:00:47](https://news.ycombinator.com/item?id=32016484) - [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)

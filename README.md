@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-07, 18:37:19](https://news.ycombinator.com/item?id=32017684) - [“Why I'm Giving Up Tenure at UCLA”](https://www.commonsense.news/p/why-im-giving-up-tenure-at-ucla)
+* [2022-07-07, 17:49:55](https://news.ycombinator.com/item?id=32017113) - [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
 * [2022-07-07, 17:22:46](https://news.ycombinator.com/item?id=32016759) - [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
 * [2022-07-07, 17:01:10](https://news.ycombinator.com/item?id=32016488) - [Inversion Space (YC S21) Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
 * [2022-07-07, 17:00:47](https://news.ycombinator.com/item?id=32016484) - [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
@@ -17,7 +19,6 @@
 * [2022-07-07, 12:33:46](https://news.ycombinator.com/item?id=32013202) - [Taking action against scraping for hire](https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/)
 * [2022-07-07, 11:59:47](https://news.ycombinator.com/item?id=32012875) - [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
 * [2022-07-07, 10:51:04](https://news.ycombinator.com/item?id=32012352) - [Ethereum Proof-of-Stake](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
-* [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
 * [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
@@ -27,7 +28,6 @@
 * [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
 * [2022-07-06, 14:26:41](https://news.ycombinator.com/item?id=32001497) - [New constraints on dark photons using a new dielectric optical haloscope](https://phys.org/news/2022-07-constraints-dark-photons-dielectric-optical.html)
 * [2022-07-06, 13:51:05](https://news.ycombinator.com/item?id=32000868) - [Upcoming RISC-V laptop promises free silicon upgrades](https://arstechnica.com/gadgets/2022/07/first-risc-v-laptop-expected-to-ship-in-september/)
-* [2022-07-05, 16:13:05](https://news.ycombinator.com/item?id=31990089) - [Ejabberd scalability: single node with 2M concurrent users (2016)](https://www.process-one.net/blog/ejabberd-massive-scalability-1node-2-million-concurrent-users/)
 * [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
 * [2022-07-04, 11:29:54](https://news.ycombinator.com/item?id=31975883) - [The Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 
