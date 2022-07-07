@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [Zuckerberg: ‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
+* [2022-07-07, 10:51:04](https://news.ycombinator.com/item?id=32012352) - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
+* [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
 * [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
@@ -17,7 +18,6 @@
 * [2022-07-06, 22:30:08](https://news.ycombinator.com/item?id=32007695) - [Google ML Compiler Inlining Achieves 3-7% Reduction in Size](https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html)
 * [2022-07-06, 21:30:43](https://news.ycombinator.com/item?id=32007065) - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
 * [2022-07-06, 21:03:09](https://news.ycombinator.com/item?id=32006791) - [Large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
-* [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple previews Lockdown Mode](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
