@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
 * [2022-07-07, 15:22:08](https://news.ycombinator.com/item?id=32015246) - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
+* [2022-07-07, 15:17:49](https://news.ycombinator.com/item?id=32015183) - [NFTs Are Beanie Babies](https://chrome.google.com/webstore/detail/nfts-are-beanie-babies/ddcpigibjipedncebggfgjomoefigpef)
 * [2022-07-07, 15:01:34](https://news.ycombinator.com/item?id=32014969) - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
 * [2022-07-07, 14:44:40](https://news.ycombinator.com/item?id=32014754) - [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
 * [2022-07-07, 14:35:45](https://news.ycombinator.com/item?id=32014658) - [Ask HN: Resources on learning System Design (back end/data engineering)?](https://news.ycombinator.com/item?id=32014658)
