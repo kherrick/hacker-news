@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32013591"
     ],
     [
-      "The Code the FBI Used to Wiretap the World",
+      "Code from the FBI’s Anom encrypted messaging app",
       "https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32013202"
     ],
     [
-      "Meta Sues Web Scrapers",
+      "Taking action against scraping for hire",
       "https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/"
     ]
   ],
@@ -95,8 +95,18 @@
       "https://news.ycombinator.com/item?id=32012352"
     ],
     [
-      "Explaining Ethereum's consensus mechanism after The Merge",
+      "Ethereum Proof-of-Stake",
       "https://0xfoobar.substack.com/p/ethereum-proof-of-stake"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 10:37:11",
+      "https://news.ycombinator.com/item?id=32012263"
+    ],
+    [
+      "‘Your Map Is Wrong’",
+      "https://p2p.ai/2022/06/27/your-map-is-wrong/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "GitDB, a distributed embeddable database on top of Git",
       "https://github.com/gogitdb/gitdb"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 11:17:45",
-      "https://news.ycombinator.com/item?id=31986811"
-    ],
-    [
-      "Parsing with Haskell",
-      "https://serokell.io/blog/lexing-with-alex"
     ]
   ],
   [
