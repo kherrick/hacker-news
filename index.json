@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-07-06, 16:14:28",
-      "https://news.ycombinator.com/item?id=32003065"
-    ],
-    [
-      "Fog Volumes arrive in Godot 4.0",
-      "https://godotengine.org/article/fog-volumes-arrive-in-godot-4"
-    ]
-  ],
-  [
-    [
       "2022-07-06, 15:05:05",
       "https://news.ycombinator.com/item?id=32002057"
     ],
@@ -267,6 +257,16 @@
     [
       "SpaceVim 2.0",
       "https://spacevim.org/SpaceVim-release-v2.0.0/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 11:17:45",
+      "https://news.ycombinator.com/item?id=31986811"
+    ],
+    [
+      "Parsing with Haskell",
+      "https://serokell.io/blog/lexing-with-alex"
     ]
   ],
   [
