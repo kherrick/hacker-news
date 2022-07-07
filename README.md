@@ -1,15 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-07, 20:14:12](https://news.ycombinator.com/item?id=32018751) - [Programming with union, intersection, and negation types](https://arxiv.org/abs/2111.03354)
+* [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
+* [2022-07-07, 19:47:35](https://news.ycombinator.com/item?id=32018459) - [Astrofox – Turn Audio into Videos](https://astrofox.io/)
 * [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
 * [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
 * [2022-07-07, 19:09:47](https://news.ycombinator.com/item?id=32017997) - [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
 * [2022-07-07, 19:05:48](https://news.ycombinator.com/item?id=32017952) - [July 8 99% of the world’s population in sunlight simultaneously?](https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8)
 * [2022-07-07, 19:04:58](https://news.ycombinator.com/item?id=32017941) - [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
-* [2022-07-07, 19:03:12](https://news.ycombinator.com/item?id=32017919) - [Theranos Former President ‘Sunny’ Balwani Found Guilty on All 12 Fraud Counts](https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410)
 * [2022-07-07, 17:49:55](https://news.ycombinator.com/item?id=32017113) - [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
 * [2022-07-07, 17:22:46](https://news.ycombinator.com/item?id=32016759) - [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
 * [2022-07-07, 17:01:10](https://news.ycombinator.com/item?id=32016488) - [Inversion Space (YC S21) Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
-* [2022-07-07, 17:00:47](https://news.ycombinator.com/item?id=32016484) - [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
 * [2022-07-07, 16:53:09](https://news.ycombinator.com/item?id=32016391) - [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
 * [2022-07-07, 16:47:36](https://news.ycombinator.com/item?id=32016322) - [My Return to Desktop Applications](https://ashlan.com/blog/my-return-to-desktop-applications/)
 * [2022-07-07, 16:34:31](https://news.ycombinator.com/item?id=32016142) - [Meshtastic is an encrypted communications platform for the Lora RF protocol](https://meshtastic.org/docs/about)
@@ -29,7 +30,6 @@
 * [2022-07-06, 14:26:41](https://news.ycombinator.com/item?id=32001497) - [New constraints on dark photons using a new dielectric optical haloscope](https://phys.org/news/2022-07-constraints-dark-photons-dielectric-optical.html)
 * [2022-07-06, 03:05:21](https://news.ycombinator.com/item?id=31996238) - [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
 * [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
-* [2022-07-04, 11:29:54](https://news.ycombinator.com/item?id=31975883) - [The Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 
 ## [Archives](archives/index.md)
 
