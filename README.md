@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-07, 15:22:08](https://news.ycombinator.com/item?id=32015246) - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
-* [2022-07-07, 15:17:49](https://news.ycombinator.com/item?id=32015183) - [NFTs Are Beanie Babies](https://chrome.google.com/webstore/detail/nfts-are-beanie-babies/ddcpigibjipedncebggfgjomoefigpef)
 * [2022-07-07, 15:01:34](https://news.ycombinator.com/item?id=32014969) - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
 * [2022-07-07, 14:44:40](https://news.ycombinator.com/item?id=32014754) - [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
 * [2022-07-07, 14:35:45](https://news.ycombinator.com/item?id=32014658) - [Ask HN: Resources on learning System Design (back end/data engineering)?](https://news.ycombinator.com/item?id=32014658)
@@ -27,6 +26,7 @@
 * [2022-07-06, 14:06:20](https://news.ycombinator.com/item?id=32001133) - [The Future of System Memory Is Mostly CXL](https://www.nextplatform.com/2022/07/05/the-future-of-system-memory-is-mostly-cxl/)
 * [2022-07-06, 13:51:05](https://news.ycombinator.com/item?id=32000868) - [Upcoming RISC-V laptop promises free silicon upgrades](https://arstechnica.com/gadgets/2022/07/first-risc-v-laptop-expected-to-ship-in-september/)
 * [2022-07-05, 16:13:05](https://news.ycombinator.com/item?id=31990089) - [Ejabberd scalability: single node with 2M concurrent users (2016)](https://www.process-one.net/blog/ejabberd-massive-scalability-1node-2-million-concurrent-users/)
+* [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
 * [2022-07-05, 12:11:43](https://news.ycombinator.com/item?id=31987240) - [GitDB, a distributed embeddable database on top of Git](https://github.com/gogitdb/gitdb)
 * [2022-07-05, 08:08:47](https://news.ycombinator.com/item?id=31985642) - [Venice to introduce entry tickets and fees](https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know)
 * [2022-07-05, 07:42:48](https://news.ycombinator.com/item?id=31985467) - [Värtan Ropsten – The largest sea water heat pump facility worldwide (2017) [pdf]](https://www.friotherm.com/wp-content/uploads/2017/11/vaertan_e008_uk.pdf)

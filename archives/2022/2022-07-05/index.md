@@ -54,6 +54,7 @@
 * [2022-07-05, 13:30:22](https://news.ycombinator.com/item?id=31987987) - [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
 * [2022-07-05, 13:20:07](https://news.ycombinator.com/item?id=31987888) - [Welcome to the Subcritical Society (2020)](https://skventures.substack.com/p/welcome-to-the-subcritical-society)
 * [2022-07-05, 13:04:11](https://news.ycombinator.com/item?id=31987713) - [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
+* [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
 * [2022-07-05, 12:30:55](https://news.ycombinator.com/item?id=31987408) - [The Water Wars Come to the Suburbs](https://www.newyorker.com/news/letter-from-the-southwest/the-water-wars-come-to-the-suburbs)
 * [2022-07-05, 12:11:43](https://news.ycombinator.com/item?id=31987240) - [GitDB, a distributed embeddable database on top of Git](https://github.com/gogitdb/gitdb)
 * [2022-07-05, 11:58:19](https://news.ycombinator.com/item?id=31987128) - [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
