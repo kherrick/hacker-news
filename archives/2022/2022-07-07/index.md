@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
 * [2022-07-07, 17:01:10](https://news.ycombinator.com/item?id=32016488) - [Inversion Space (YC S21) Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
+* [2022-07-07, 17:00:47](https://news.ycombinator.com/item?id=32016484) - [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
+* [2022-07-07, 16:53:09](https://news.ycombinator.com/item?id=32016391) - [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
 * [2022-07-07, 16:34:31](https://news.ycombinator.com/item?id=32016142) - [Meshtastic is an encrypted communications platform for the Lora RF protocol](https://meshtastic.org/docs/about)
+* [2022-07-07, 16:33:20](https://news.ycombinator.com/item?id=32016125) - [Covid-19 Vaccine Doses, Once in High Demand, Now Thrown Away](https://www.wsj.com/articles/covid-19-vaccine-doses-once-in-high-demand-now-thrown-away-11657105202)
 * [2022-07-07, 16:14:17](https://news.ycombinator.com/item?id=32015870) - [Solving Out of Memory Issues in Linux at Redpanda](https://redpanda.com/blog/solve-out-of-memory-killer-events)
 * [2022-07-07, 15:55:25](https://news.ycombinator.com/item?id=32015644) - [You won't be able to run Windows 11 without a webcam](https://windowsreport.com/windows-11-webcam-mandatory/)
 * [2022-07-07, 15:22:08](https://news.ycombinator.com/item?id=32015246) - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
