@@ -30,6 +30,7 @@
 * [2022-07-06, 16:12:42](https://news.ycombinator.com/item?id=32003036) - [Beyond the Four-Document Model](https://buttondown.email/hillelwayne/archive/beyond-the-four-document-model/)
 * [2022-07-06, 15:57:28](https://news.ycombinator.com/item?id=32002830) - [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
 * [2022-07-06, 15:38:58](https://news.ycombinator.com/item?id=32002555) - [Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant](https://humaneyesonly.com)
+* [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:56:29](https://news.ycombinator.com/item?id=32001933) - [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
