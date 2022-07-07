@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-07-07, 12:48:18",
+      "https://news.ycombinator.com/item?id=32013367"
+    ],
+    [
+      "Tesorio (YC S15) Raised a Series B and Is Hiring a VP of Engineering",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 12:42:08",
+      "https://news.ycombinator.com/item?id=32013295"
+    ],
+    [
+      "Private equity may be heading for a fall",
+      "https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 12:16:19",
+      "https://news.ycombinator.com/item?id=32013028"
+    ],
+    [
+      "Sending reply and forward emails with EmailEngine",
+      "https://docs.emailengine.app/sending-reply-and-forward-emails/"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 12:10:01",
+      "https://news.ycombinator.com/item?id=32012971"
+    ],
+    [
+      "No-Token apps: an alternate vision for the blockchain",
+      "https://firasd.substack.com/p/no-token-apps-an-alternate-vision"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 11:59:47",
+      "https://news.ycombinator.com/item?id=32012875"
+    ],
+    [
+      "Why do people not notice our enormous, prominent, clear and contrasting banner?",
+      "https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 10:51:04",
       "https://news.ycombinator.com/item?id=32012352"
     ],
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-07-07, 01:03:19",
-      "https://news.ycombinator.com/item?id=32008825"
-    ],
-    [
-      "Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers",
-      "https://news.ycombinator.com/item?id=32008825"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 00:25:18",
       "https://news.ycombinator.com/item?id=32008586"
     ],
@@ -147,26 +187,6 @@
     [
       "Google ML Compiler Inlining Achieves 3-7% Reduction in Size",
       "https://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 21:30:43",
-      "https://news.ycombinator.com/item?id=32007065"
-    ],
-    [
-      "Alain de Botton on existential maturity and what emotional intelligence means",
-      "https://www.themarginalian.org/2019/11/25/the-school-of-life-book/"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 21:03:09",
-      "https://news.ycombinator.com/item?id=32006791"
-    ],
-    [
-      "Large-scale ‘sand battery’ goes online in Finland",
-      "https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/"
     ]
   ],
   [
@@ -201,22 +221,12 @@
   ],
   [
     [
-      "2022-07-06, 14:43:30",
-      "https://news.ycombinator.com/item?id=32001742"
+      "2022-07-06, 14:06:20",
+      "https://news.ycombinator.com/item?id=32001133"
     ],
     [
-      "A fake job offer took down Axie Infinity",
-      "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 14:03:13",
-      "https://news.ycombinator.com/item?id=32001080"
-    ],
-    [
-      "What Is Machine Learning Anyway?",
-      "https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway"
+      "The Future of System Memory Is Mostly CXL",
+      "https://www.nextplatform.com/2022/07/05/the-future-of-system-memory-is-mostly-cxl/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "GitDB, a distributed embeddable database on top of Git",
       "https://github.com/gogitdb/gitdb"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 11:22:58",
-      "https://news.ycombinator.com/item?id=31986851"
-    ],
-    [
-      "SpaceVim 2.0",
-      "https://spacevim.org/SpaceVim-release-v2.0.0/"
     ]
   ],
   [
