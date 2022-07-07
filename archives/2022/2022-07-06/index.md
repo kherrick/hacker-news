@@ -78,6 +78,7 @@
 * [2022-07-06, 05:37:12](https://news.ycombinator.com/item?id=31997109) - [Did the early medieval era ever take place?](https://jonn.substack.com/p/did-the-early-medieval-era-ever-really)
 * [2022-07-06, 04:09:29](https://news.ycombinator.com/item?id=31996612) - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
 * [2022-07-06, 03:55:54](https://news.ycombinator.com/item?id=31996529) - [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
+* [2022-07-06, 03:05:21](https://news.ycombinator.com/item?id=31996238) - [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
 * [2022-07-06, 03:04:04](https://news.ycombinator.com/item?id=31996235) - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 * [2022-07-06, 02:58:34](https://news.ycombinator.com/item?id=31996214) - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
 * [2022-07-06, 02:45:22](https://news.ycombinator.com/item?id=31996148) - [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)

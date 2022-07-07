@@ -24,10 +24,10 @@
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
 * [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear turn green as EU parliament approves new taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 * [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [DRY is an over-rated programming principle?](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
-* [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple previews Lockdown Mode](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 * [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
 * [2022-07-06, 14:26:41](https://news.ycombinator.com/item?id=32001497) - [New constraints on dark photons using a new dielectric optical haloscope](https://phys.org/news/2022-07-constraints-dark-photons-dielectric-optical.html)
 * [2022-07-06, 13:51:05](https://news.ycombinator.com/item?id=32000868) - [Upcoming RISC-V laptop promises free silicon upgrades](https://arstechnica.com/gadgets/2022/07/first-risc-v-laptop-expected-to-ship-in-september/)
+* [2022-07-06, 03:05:21](https://news.ycombinator.com/item?id=31996238) - [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
 * [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
 * [2022-07-04, 11:29:54](https://news.ycombinator.com/item?id=31975883) - [The Checklist (2007)](https://www.newyorker.com/magazine/2007/12/10/the-checklist)
 
