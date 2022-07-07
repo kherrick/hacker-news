@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-07, 05:57:59](https://news.ycombinator.com/item?id=32010411) - [Ask HN: Looking for feedback on our website (freelance platform))](https://news.ycombinator.com/item?id=32010411)
+* [2022-07-07, 05:41:42](https://news.ycombinator.com/item?id=32010317) - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
+* [2022-07-07, 05:34:13](https://news.ycombinator.com/item?id=32010272) - [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
 * [2022-07-07, 02:49:38](https://news.ycombinator.com/item?id=32009440) - [Music for Programming](https://musicforprogramming.net/)
 * [2022-07-07, 02:36:59](https://news.ycombinator.com/item?id=32009378) - [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
 * [2022-07-07, 01:37:34](https://news.ycombinator.com/item?id=32009009) - [Life Stats](https://neal.fun/life-stats/)
@@ -21,7 +22,6 @@
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down Axie Infinity](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
 * [2022-07-06, 14:04:23](https://news.ycombinator.com/item?id=32001103) - [A functional definition to distinguish ponds from lakes and wetlands](https://www.nature.com/articles/s41598-022-14569-0)
 * [2022-07-06, 14:03:13](https://news.ycombinator.com/item?id=32001080) - [What Is Machine Learning Anyway?](https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway)
-* [2022-07-06, 13:53:44](https://news.ycombinator.com/item?id=32000902) - [In the hunt for dark matter, are axions our best bet?](https://www.space.com/dark-matter-axions-best-bet)
 * [2022-07-06, 13:00:47](https://news.ycombinator.com/item?id=32000201) - [DIY Smartphone Lora Connection (2021)](https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258)
 * [2022-07-06, 10:35:01](https://news.ycombinator.com/item?id=31999048) - [Stores weigh paying you not to bring back unwanted items](https://www.cnn.com/2022/06/26/business/retail-returns/index.html)
 * [2022-07-05, 16:21:08](https://news.ycombinator.com/item?id=31990217) - [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
