@@ -15,6 +15,7 @@
 * [2022-07-06, 20:09:44](https://news.ycombinator.com/item?id=32006148) - [An Apple Original Podcast on Ted Kaczynski the Unabomber](https://podcasts.apple.com/us/podcast/project-unabom/id1627613321)
 * [2022-07-06, 19:52:26](https://news.ycombinator.com/item?id=32005942) - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
 * [2022-07-06, 19:40:04](https://news.ycombinator.com/item?id=32005796) - [GTK 5 might drop X11 support](https://www.theregister.com/2022/07/05/gtk_5_might_drop_x11/)
+* [2022-07-06, 19:32:44](https://news.ycombinator.com/item?id=32005700) - [Don't Read History for Lessons](https://commoncog.com/blog/dont-read-history-for-lessons/)
 * [2022-07-06, 19:31:01](https://news.ycombinator.com/item?id=32005678) - [Show HN: C3 – The C alternative that looks like C (2022 update)](https://news.ycombinator.com/item?id=32005678)
 * [2022-07-06, 18:19:28](https://news.ycombinator.com/item?id=32004756) - [Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2022-07-06, 18:06:12](https://news.ycombinator.com/item?id=32004624) - [Harvard study finds no positive impact from UBI unconditional cash transfer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
