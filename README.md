@@ -25,10 +25,10 @@
 * [2022-07-06, 14:03:13](https://news.ycombinator.com/item?id=32001080) - [What Is Machine Learning Anyway?](https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway)
 * [2022-07-06, 13:00:47](https://news.ycombinator.com/item?id=32000201) - [DIY Smartphone Lora Connection (2021)](https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258)
 * [2022-07-06, 10:35:01](https://news.ycombinator.com/item?id=31999048) - [Stores weigh paying you not to bring back unwanted items](https://www.cnn.com/2022/06/26/business/retail-returns/index.html)
-* [2022-07-05, 16:21:08](https://news.ycombinator.com/item?id=31990217) - [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
 * [2022-07-05, 15:02:23](https://news.ycombinator.com/item?id=31989044) - [Decoding the qualities of a great VC (2017)](https://hackernoon.com/decoding-the-qualities-of-a-great-vc-d02f2d4da4ae)
 * [2022-07-05, 11:22:58](https://news.ycombinator.com/item?id=31986851) - [SpaceVim 2.0](https://spacevim.org/SpaceVim-release-v2.0.0/)
 * [2022-07-05, 08:08:47](https://news.ycombinator.com/item?id=31985642) - [Venice to Introduce Entry Tickets and Fees](https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know)
+* [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-05, 04:31:04](https://news.ycombinator.com/item?id=31984323) - [Beigels, software, and why you should control queues instead of cycle times](https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html)
 
 ## [Archives](archives/index.md)
