@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 16:14:17](https://news.ycombinator.com/item?id=32015870) - [Solving Out of Memory Issues in Linux at Redpanda](https://redpanda.com/blog/solve-out-of-memory-killer-events)
+* [2022-07-07, 15:55:25](https://news.ycombinator.com/item?id=32015644) - [You won't be able to run Windows 11 without a webcam](https://windowsreport.com/windows-11-webcam-mandatory/)
 * [2022-07-07, 15:22:08](https://news.ycombinator.com/item?id=32015246) - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
 * [2022-07-07, 15:17:49](https://news.ycombinator.com/item?id=32015183) - [NFTs Are Beanie Babies](https://chrome.google.com/webstore/detail/nfts-are-beanie-babies/ddcpigibjipedncebggfgjomoefigpef)
 * [2022-07-07, 15:01:34](https://news.ycombinator.com/item?id=32014969) - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
