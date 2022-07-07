@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
 * [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)

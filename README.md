@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
 * [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
@@ -28,7 +29,6 @@
 * [2022-07-05, 11:22:58](https://news.ycombinator.com/item?id=31986851) - [SpaceVim 2.0](https://spacevim.org/SpaceVim-release-v2.0.0/)
 * [2022-07-05, 11:17:45](https://news.ycombinator.com/item?id=31986811) - [Parsing with Haskell](https://serokell.io/blog/lexing-with-alex)
 * [2022-07-05, 08:08:47](https://news.ycombinator.com/item?id=31985642) - [Venice to Introduce Entry Tickets and Fees](https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know)
-* [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
 * [2022-07-05, 04:31:04](https://news.ycombinator.com/item?id=31984323) - [Beigels, software, and why you should control queues instead of cycle times](https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html)
 
 ## [Archives](archives/index.md)
