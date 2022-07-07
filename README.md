@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-07, 22:22:14](https://news.ycombinator.com/item?id=32020326) - [Are We Wayland Yet?](https://arewewaylandyet.com/)
 * [2022-07-07, 21:57:42](https://news.ycombinator.com/item?id=32020055) - [Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
 * [2022-07-07, 21:37:30](https://news.ycombinator.com/item?id=32019801) - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 * [2022-07-07, 21:37:21](https://news.ycombinator.com/item?id=32019799) - [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
@@ -10,7 +11,6 @@
 * [2022-07-07, 19:47:35](https://news.ycombinator.com/item?id=32018459) - [Astrofox – Turn Audio into Videos](https://astrofox.io/)
 * [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
 * [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The screenshots will continue until security improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
-* [2022-07-07, 19:09:47](https://news.ycombinator.com/item?id=32017997) - [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
 * [2022-07-07, 19:05:48](https://news.ycombinator.com/item?id=32017952) - [July 8 99% of the world’s population in sunlight simultaneously?](https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8)
 * [2022-07-07, 19:04:58](https://news.ycombinator.com/item?id=32017941) - [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
 * [2022-07-07, 19:03:12](https://news.ycombinator.com/item?id=32017919) - [Theranos former president found guilty on all fraud counts](https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410)
@@ -29,7 +29,7 @@
 * [2022-07-06, 19:32:44](https://news.ycombinator.com/item?id=32005700) - [Don't Read History for Lessons](https://commoncog.com/blog/dont-read-history-for-lessons/)
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
 * [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
-* [2022-07-06, 03:05:21](https://news.ycombinator.com/item?id=31996238) - [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
+* [2022-07-06, 00:44:37](https://news.ycombinator.com/item?id=31995510) - [Automatic Astro Compass Type MD-1](http://www.prc68.com/I/MD1.shtml)
 
 ## [Archives](archives/index.md)
 

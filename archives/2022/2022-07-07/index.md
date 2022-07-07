@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 22:22:14](https://news.ycombinator.com/item?id=32020326) - [Are We Wayland Yet?](https://arewewaylandyet.com/)
 * [2022-07-07, 21:57:42](https://news.ycombinator.com/item?id=32020055) - [Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
 * [2022-07-07, 21:37:30](https://news.ycombinator.com/item?id=32019801) - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 * [2022-07-07, 21:37:21](https://news.ycombinator.com/item?id=32019799) - [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)

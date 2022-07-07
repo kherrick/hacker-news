@@ -85,3 +85,4 @@
 * [2022-07-06, 02:58:34](https://news.ycombinator.com/item?id=31996214) - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
 * [2022-07-06, 02:45:22](https://news.ycombinator.com/item?id=31996148) - [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
 * [2022-07-06, 02:37:31](https://news.ycombinator.com/item?id=31996114) - [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
+* [2022-07-06, 00:44:37](https://news.ycombinator.com/item?id=31995510) - [Automatic Astro Compass Type MD-1](http://www.prc68.com/I/MD1.shtml)
