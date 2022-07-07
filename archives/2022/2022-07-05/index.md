@@ -88,6 +88,7 @@
 * [2022-07-05, 05:46:20](https://news.ycombinator.com/item?id=31984757) - [The Planet Inside: Scientists are probing the secrets of the inner core](https://www.science.org/content/article/scientists-probing-secrets-earths-inner-core-saved-life-planet)
 * [2022-07-05, 05:19:00](https://news.ycombinator.com/item?id=31984585) - [Populorum Progressio (1967)](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)
 * [2022-07-05, 04:54:59](https://news.ycombinator.com/item?id=31984450) - [What Comes After Git](https://matt-rickard.com/what-comes-after-git/)
+* [2022-07-05, 04:31:04](https://news.ycombinator.com/item?id=31984323) - [Beigels, software, and why you should control queues instead of cycle times](https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html)
 * [2022-07-05, 03:50:29](https://news.ycombinator.com/item?id=31984112) - [No really, why can't we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 * [2022-07-05, 03:10:23](https://news.ycombinator.com/item?id=31983899) - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
 * [2022-07-05, 02:56:28](https://news.ycombinator.com/item?id=31983831) - [Zig is becoming more production-worthy (zigmonthly)](https://zigmonthly.org/letters/2022/may-june/)
