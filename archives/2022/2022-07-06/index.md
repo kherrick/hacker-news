@@ -36,6 +36,7 @@
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
 * [2022-07-06, 14:35:07](https://news.ycombinator.com/item?id=32001627) - [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
 * [2022-07-06, 14:31:55](https://news.ycombinator.com/item?id=32001586) - [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
+* [2022-07-06, 14:04:23](https://news.ycombinator.com/item?id=32001103) - [A functional definition to distinguish ponds from lakes and wetlands](https://www.nature.com/articles/s41598-022-14569-0)
 * [2022-07-06, 14:02:14](https://news.ycombinator.com/item?id=32001052) - [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
 * [2022-07-06, 13:53:45](https://news.ycombinator.com/item?id=32000903) - [On Turing Machines](https://lawrencecpaulson.github.io//2022/07/06/Turing_Machines.html)
 * [2022-07-06, 13:38:51](https://news.ycombinator.com/item?id=32000712) - [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
