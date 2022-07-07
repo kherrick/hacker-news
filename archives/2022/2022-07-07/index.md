@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
 * [2022-07-07, 21:57:42](https://news.ycombinator.com/item?id=32020055) - [Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
+* [2022-07-07, 21:37:30](https://news.ycombinator.com/item?id=32019801) - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 * [2022-07-07, 21:37:21](https://news.ycombinator.com/item?id=32019799) - [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
 * [2022-07-07, 21:20:02](https://news.ycombinator.com/item?id=32019598) - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 * [2022-07-07, 20:31:16](https://news.ycombinator.com/item?id=32018938) - [Making Things Think – AI Book](https://www.holloway.com/g/making-things-think)

@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-07, 21:57:42](https://news.ycombinator.com/item?id=32020055) - [Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
+* [2022-07-07, 21:37:30](https://news.ycombinator.com/item?id=32019801) - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 * [2022-07-07, 21:37:21](https://news.ycombinator.com/item?id=32019799) - [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
 * [2022-07-07, 21:20:02](https://news.ycombinator.com/item?id=32019598) - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 * [2022-07-07, 20:24:10](https://news.ycombinator.com/item?id=32018856) - [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
-* [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9K-lb Hummer EV produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
+* [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9,000-pound electric Hummer shows we can’t ignore efficiency of EVs](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
 * [2022-07-07, 19:51:38](https://news.ycombinator.com/item?id=32018508) - [Twitter Layoff Started Today](https://www.linkedin.com/posts/ingridjohnson_twitter-layoffs-started-today-there-are-activity-6950869057071980545-1Q4t)
 * [2022-07-07, 19:47:35](https://news.ycombinator.com/item?id=32018459) - [Astrofox – Turn Audio into Videos](https://astrofox.io/)
 * [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
@@ -29,7 +30,6 @@
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
 * [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
 * [2022-07-06, 03:05:21](https://news.ycombinator.com/item?id=31996238) - [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
-* [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
 
 ## [Archives](archives/index.md)
 
