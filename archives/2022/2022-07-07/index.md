@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 21:20:02](https://news.ycombinator.com/item?id=32019598) - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 * [2022-07-07, 20:31:16](https://news.ycombinator.com/item?id=32018938) - [Making Things Think – AI Book](https://www.holloway.com/g/making-things-think)
 * [2022-07-07, 20:24:10](https://news.ycombinator.com/item?id=32018856) - [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
 * [2022-07-07, 20:14:12](https://news.ycombinator.com/item?id=32018751) - [Programming with union, intersection, and negation types](https://arxiv.org/abs/2111.03354)

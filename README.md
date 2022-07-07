@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-07, 21:20:02](https://news.ycombinator.com/item?id=32019598) - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 * [2022-07-07, 20:24:10](https://news.ycombinator.com/item?id=32018856) - [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
 * [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
 * [2022-07-07, 20:11:06](https://news.ycombinator.com/item?id=32018715) - [Former Theranos COO Sunny Balwani is guilty of federal fraud](https://www.axios.com/2022/07/07/theranos-sunny-balwani-guilty-fraud)
@@ -21,7 +22,6 @@
 * [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed is the standard text editor (2014)](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 * [2022-07-07, 13:07:37](https://news.ycombinator.com/item?id=32013591) - [Code from the FBI’s Anom encrypted messaging app](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
 * [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – Open Source realtime backend in one file](https://github.com/pocketbase/pocketbase)
-* [2022-07-07, 12:42:08](https://news.ycombinator.com/item?id=32013295) - [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
 * [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear turn green as EU parliament approves new taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 * [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [DRY is an over-rated programming principle?](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
