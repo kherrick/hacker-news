@@ -23,13 +23,13 @@
 * [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed is the standard text editor (2014)](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 * [2022-07-07, 13:07:37](https://news.ycombinator.com/item?id=32013591) - [Code from the FBI’s Anom encrypted messaging app](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
 * [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – Open Source realtime backend in one file](https://github.com/pocketbase/pocketbase)
-* [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
-* [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear turn green as EU parliament approves new taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 * [2022-07-07, 06:10:09](https://news.ycombinator.com/item?id=32010490) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2022-07-06, 19:32:44](https://news.ycombinator.com/item?id=32005700) - [Don't Read History for Lessons](https://commoncog.com/blog/dont-read-history-for-lessons/)
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
 * [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
+* [2022-07-06, 03:05:21](https://news.ycombinator.com/item?id=31996238) - [Two Books Plumb the Hidden Depths of the Fairy Tale](https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043)
 * [2022-07-06, 00:44:37](https://news.ycombinator.com/item?id=31995510) - [Automatic Astro Compass Type MD-1](http://www.prc68.com/I/MD1.shtml)
+* [2022-07-05, 12:54:55](https://news.ycombinator.com/item?id=31987617) - [How to Build a Real Igloo](https://www.youtube.com/watch?v=7jfWm2jTFf4)
 
 ## [Archives](archives/index.md)
 
