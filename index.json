@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-07, 05:57:59",
+      "https://news.ycombinator.com/item?id=32010411"
+    ],
+    [
+      "Ask HN: Looking for feedback on our website (freelance platform))",
+      "https://news.ycombinator.com/item?id=32010411"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 02:49:38",
       "https://news.ycombinator.com/item?id=32009440"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-07-06, 15:38:58",
-      "https://news.ycombinator.com/item?id=32002555"
-    ],
-    [
-      "Show HN: PDFs that are readable by human eyes only",
-      "https://humaneyesonly.com"
-    ]
-  ],
-  [
-    [
       "2022-07-06, 15:05:05",
       "https://news.ycombinator.com/item?id=32002057"
     ],
@@ -211,32 +211,22 @@
   ],
   [
     [
-      "2022-07-06, 13:36:23",
-      "https://news.ycombinator.com/item?id=32000668"
+      "2022-07-06, 13:53:44",
+      "https://news.ycombinator.com/item?id=32000902"
     ],
     [
-      "Microrobots can brush and floss teeth in a proof-of-concept study",
-      "https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth"
+      "In the hunt for dark matter, are axions our best bet?",
+      "https://www.space.com/dark-matter-axions-best-bet"
     ]
   ],
   [
     [
-      "2022-07-06, 13:31:40",
-      "https://news.ycombinator.com/item?id=32000598"
+      "2022-07-06, 13:00:47",
+      "https://news.ycombinator.com/item?id=32000201"
     ],
     [
-      "How to Improve Your Monolith Before Transitioning to Microservices",
-      "https://semaphoreci.com/blog/monolith-microservices"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 13:18:35",
-      "https://news.ycombinator.com/item?id=32000400"
-    ],
-    [
-      "Scaling our spreadsheet engine from thousands to billions of cells",
-      "https://www.causal.app/blog/scaling"
+      "DIY Smartphone Lora Connection (2021)",
+      "https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Defensive CSS",
       "https://defensivecss.dev"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 04:31:04",
+      "https://news.ycombinator.com/item?id=31984323"
+    ],
+    [
+      "Beigels, software, and why you should control queues instead of cycle times",
+      "https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html"
     ]
   ]
 ]
