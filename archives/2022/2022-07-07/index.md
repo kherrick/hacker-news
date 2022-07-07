@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
+* [2022-07-07, 19:09:47](https://news.ycombinator.com/item?id=32017997) - [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
+* [2022-07-07, 19:04:58](https://news.ycombinator.com/item?id=32017941) - [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
+* [2022-07-07, 19:03:12](https://news.ycombinator.com/item?id=32017919) - [Theranos Former President ‘Sunny’ Balwani Found Guilty on All 12 Fraud Counts](https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410)
 * [2022-07-07, 18:37:19](https://news.ycombinator.com/item?id=32017684) - [“Why I'm Giving Up Tenure at UCLA”](https://www.commonsense.news/p/why-im-giving-up-tenure-at-ucla)
 * [2022-07-07, 17:49:55](https://news.ycombinator.com/item?id=32017113) - [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
 * [2022-07-07, 17:22:46](https://news.ycombinator.com/item?id=32016759) - [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
