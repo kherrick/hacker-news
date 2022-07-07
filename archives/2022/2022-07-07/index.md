@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 13:40:43](https://news.ycombinator.com/item?id=32013949) - [Ask HN: Is attitude more important than knowledge?](https://news.ycombinator.com/item?id=32013949)
+* [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed Is the Standard Text Editor](https://wiki.c2.com/?EdIsTheStandardTextEditor)
+* [2022-07-07, 13:07:37](https://news.ycombinator.com/item?id=32013591) - [The Code the FBI Used to Wiretap the World](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
 * [2022-07-07, 12:48:18](https://news.ycombinator.com/item?id=32013367) - [Tesorio (YC S15) Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
 * [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – open-source realtime back end in 1 file](https://github.com/pocketbase/pocketbase)
 * [2022-07-07, 12:42:08](https://news.ycombinator.com/item?id=32013295) - [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)

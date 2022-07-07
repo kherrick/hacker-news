@@ -35,6 +35,7 @@
 * [2022-07-05, 16:30:34](https://news.ycombinator.com/item?id=31990364) - [SF couple fined $1,500 and banned from parking their car on own property](https://www.cbsnews.com/news/san-francisco-couple-banned-from-parking-car-on-own-property-judy-and-ed-craine/)
 * [2022-07-05, 16:25:21](https://news.ycombinator.com/item?id=31990276) - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
 * [2022-07-05, 16:21:08](https://news.ycombinator.com/item?id=31990217) - [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
+* [2022-07-05, 16:13:05](https://news.ycombinator.com/item?id=31990089) - [Ejabberd scalability: single node with 2M concurrent users (2016)](https://www.process-one.net/blog/ejabberd-massive-scalability-1node-2-million-concurrent-users/)
 * [2022-07-05, 16:10:38](https://news.ycombinator.com/item?id=31990043) - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 * [2022-07-05, 16:08:46](https://news.ycombinator.com/item?id=31990015) - [Biomimicry: How Designers Are Learning from the Natural World (2017)](https://99percentinvisible.org/article/biomimicry-designers-learning-natural-world/)
 * [2022-07-05, 16:08:36](https://news.ycombinator.com/item?id=31990009) - [Startups, this is how design works](https://startupsthisishowdesignworks.com)
