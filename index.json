@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=32013779"
     ],
     [
-      "Ed Is the Standard Text Editor",
+      "Ed is the standard text editor (2014)",
       "https://wiki.c2.com/?EdIsTheStandardTextEditor"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32013330"
     ],
     [
-      "Show HN: PocketBase – open-source realtime back end in 1 file",
+      "Show HN: PocketBase – Open Source realtime backend in one file",
       "https://github.com/pocketbase/pocketbase"
     ]
   ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2022-07-07, 08:26:24",
+      "https://news.ycombinator.com/item?id=32011288"
+    ],
+    [
+      "Nuclear Turn Green as EU Parliament Approves New Taxonomy",
+      "https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 07:28:45",
       "https://news.ycombinator.com/item?id=32010914"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32010699"
     ],
     [
-      "Why DRY is the most over-rated programming principle",
+      "DRY is the an over-rated programming principle?",
       "https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Värtan Ropsten – The largest sea water heat pump facility worldwide (2017) [pdf]",
       "https://www.friotherm.com/wp-content/uploads/2017/11/vaertan_e008_uk.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 04:31:04",
-      "https://news.ycombinator.com/item?id=31984323"
-    ],
-    [
-      "Beigels, software, and why you should control queues instead of cycle times",
-      "https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html"
     ]
   ]
 ]
