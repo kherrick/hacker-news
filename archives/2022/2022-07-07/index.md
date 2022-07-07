@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
 * [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
 * [2022-07-07, 19:09:47](https://news.ycombinator.com/item?id=32017997) - [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
+* [2022-07-07, 19:05:48](https://news.ycombinator.com/item?id=32017952) - [July 8 99% of the world’s population in sunlight simultaneously?](https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8)
 * [2022-07-07, 19:04:58](https://news.ycombinator.com/item?id=32017941) - [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
 * [2022-07-07, 19:03:12](https://news.ycombinator.com/item?id=32017919) - [Theranos Former President ‘Sunny’ Balwani Found Guilty on All 12 Fraud Counts](https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410)
 * [2022-07-07, 18:37:19](https://news.ycombinator.com/item?id=32017684) - [“Why I'm Giving Up Tenure at UCLA”](https://www.commonsense.news/p/why-im-giving-up-tenure-at-ucla)
