@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
+* [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 * [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 * [2022-07-07, 05:57:59](https://news.ycombinator.com/item?id=32010411) - [Ask HN: Looking for feedback on our website (freelance platform))](https://news.ycombinator.com/item?id=32010411)
 * [2022-07-07, 05:41:42](https://news.ycombinator.com/item?id=32010317) - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
