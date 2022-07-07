@@ -83,6 +83,7 @@
 * [2022-07-05, 07:45:21](https://news.ycombinator.com/item?id=31985485) - [Opening up our code and logic for algorithmic decision-making](https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/)
 * [2022-07-05, 07:44:44](https://news.ycombinator.com/item?id=31985478) - [Solar-powered, Self-hosted Low-tech Magazine](https://solar.lowtechmagazine.com/about.html)
 * [2022-07-05, 07:43:25](https://news.ycombinator.com/item?id=31985473) - [HackTheBox: A Hacking Playground](https://www.hackthebox.com/)
+* [2022-07-05, 07:42:48](https://news.ycombinator.com/item?id=31985467) - [Värtan Ropsten – The largest sea water heat pump facility worldwide (2017) [pdf]](https://www.friotherm.com/wp-content/uploads/2017/11/vaertan_e008_uk.pdf)
 * [2022-07-05, 07:31:34](https://news.ycombinator.com/item?id=31985400) - [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 * [2022-07-05, 06:48:17](https://news.ycombinator.com/item?id=31985142) - [Apple ][ \"Lemmings\" Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 * [2022-07-05, 06:18:25](https://news.ycombinator.com/item?id=31984951) - [Defensive CSS](https://defensivecss.dev)
