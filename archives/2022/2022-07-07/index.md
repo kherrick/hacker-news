@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 12:48:18](https://news.ycombinator.com/item?id=32013367) - [Tesorio (YC S15) Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+* [2022-07-07, 12:42:08](https://news.ycombinator.com/item?id=32013295) - [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)
+* [2022-07-07, 12:16:19](https://news.ycombinator.com/item?id=32013028) - [Sending reply and forward emails with EmailEngine](https://docs.emailengine.app/sending-reply-and-forward-emails/)
+* [2022-07-07, 12:10:01](https://news.ycombinator.com/item?id=32012971) - [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
+* [2022-07-07, 11:59:47](https://news.ycombinator.com/item?id=32012875) - [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
 * [2022-07-07, 10:51:04](https://news.ycombinator.com/item?id=32012352) - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
 * [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [Zuckerberg: ‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
 * [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
