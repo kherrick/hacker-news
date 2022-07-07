@@ -9,9 +9,8 @@
 * [2022-07-07, 07:28:45](https://news.ycombinator.com/item?id=32010914) - [LeCun's 2022 paper on autonomous machine intelligence does not cite prior work](https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html)
 * [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 * [2022-07-07, 05:41:42](https://news.ycombinator.com/item?id=32010317) - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
-* [2022-07-07, 05:34:13](https://news.ycombinator.com/item?id=32010272) - [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
+* [2022-07-07, 05:34:13](https://news.ycombinator.com/item?id=32010272) - [WxWidgets 3.2](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
 * [2022-07-07, 02:49:38](https://news.ycombinator.com/item?id=32009440) - [Music for Programming](https://musicforprogramming.net/)
-* [2022-07-07, 02:36:59](https://news.ycombinator.com/item?id=32009378) - [Nanoparticle vaccine protects against a spectrum of Covid-19-causing variants](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
 * [2022-07-07, 01:37:34](https://news.ycombinator.com/item?id=32009009) - [Life Stats](https://neal.fun/life-stats/)
 * [2022-07-07, 01:03:19](https://news.ycombinator.com/item?id=32008825) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
 * [2022-07-07, 00:25:18](https://news.ycombinator.com/item?id=32008586) - [I analyzed hospital price lists so you didn't have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
@@ -28,6 +27,7 @@
 * [2022-07-05, 16:08:46](https://news.ycombinator.com/item?id=31990015) - [Biomimicry: How Designers Are Learning from the Natural World (2017)](https://99percentinvisible.org/article/biomimicry-designers-learning-natural-world/)
 * [2022-07-05, 11:22:58](https://news.ycombinator.com/item?id=31986851) - [SpaceVim 2.0](https://spacevim.org/SpaceVim-release-v2.0.0/)
 * [2022-07-05, 11:17:45](https://news.ycombinator.com/item?id=31986811) - [Parsing with Haskell](https://serokell.io/blog/lexing-with-alex)
+* [2022-07-05, 08:08:47](https://news.ycombinator.com/item?id=31985642) - [Venice to introduce entry tickets and fees](https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know)
 * [2022-07-05, 07:42:48](https://news.ycombinator.com/item?id=31985467) - [Värtan Ropsten – The largest sea water heat pump facility worldwide (2017) [pdf]](https://www.friotherm.com/wp-content/uploads/2017/11/vaertan_e008_uk.pdf)
 * [2022-07-05, 04:31:04](https://news.ycombinator.com/item?id=31984323) - [Beigels, software, and why you should control queues instead of cycle times](https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html)
 
