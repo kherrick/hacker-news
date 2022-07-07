@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-07-06, 14:04:23",
-      "https://news.ycombinator.com/item?id=32001103"
-    ],
-    [
-      "A functional definition to distinguish ponds from lakes and wetlands",
-      "https://www.nature.com/articles/s41598-022-14569-0"
-    ]
-  ],
-  [
-    [
       "2022-07-06, 14:03:13",
       "https://news.ycombinator.com/item?id=32001080"
     ],
@@ -247,6 +237,16 @@
     [
       "Biomimicry: How Designers Are Learning from the Natural World (2017)",
       "https://99percentinvisible.org/article/biomimicry-designers-learning-natural-world/"
+    ]
+  ],
+  [
+    [
+      "2022-07-05, 12:11:43",
+      "https://news.ycombinator.com/item?id=31987240"
+    ],
+    [
+      "GitDB, a distributed embeddable database on top of Git",
+      "https://github.com/gogitdb/gitdb"
     ]
   ],
   [
