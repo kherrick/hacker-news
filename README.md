@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-07, 13:40:43](https://news.ycombinator.com/item?id=32013949) - [Ask HN: Is attitude more important than knowledge?](https://news.ycombinator.com/item?id=32013949)
-* [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed Is the Standard Text Editor](https://wiki.c2.com/?EdIsTheStandardTextEditor)
+* [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed is the standard text editor (2014)](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 * [2022-07-07, 13:07:37](https://news.ycombinator.com/item?id=32013591) - [Code from the FBI’s Anom encrypted messaging app](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
 * [2022-07-07, 12:48:18](https://news.ycombinator.com/item?id=32013367) - [Tesorio (YC S15) Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
-* [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – open-source realtime back end in 1 file](https://github.com/pocketbase/pocketbase)
+* [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – Open Source realtime backend in one file](https://github.com/pocketbase/pocketbase)
 * [2022-07-07, 12:42:08](https://news.ycombinator.com/item?id=32013295) - [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)
 * [2022-07-07, 12:33:46](https://news.ycombinator.com/item?id=32013202) - [Taking action against scraping for hire](https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/)
 * [2022-07-07, 12:10:01](https://news.ycombinator.com/item?id=32012971) - [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
@@ -14,8 +14,9 @@
 * [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
+* [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 * [2022-07-07, 07:28:45](https://news.ycombinator.com/item?id=32010914) - [LeCun's 2022 paper on autonomous machine intelligence does not cite prior work](https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html)
-* [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+* [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [DRY is the an over-rated programming principle?](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 * [2022-07-07, 05:41:42](https://news.ycombinator.com/item?id=32010317) - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
 * [2022-07-07, 05:34:13](https://news.ycombinator.com/item?id=32010272) - [WxWidgets 3.2](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
 * [2022-07-07, 02:49:38](https://news.ycombinator.com/item?id=32009440) - [Music for Programming](https://musicforprogramming.net/)
@@ -29,7 +30,6 @@
 * [2022-07-05, 12:11:43](https://news.ycombinator.com/item?id=31987240) - [GitDB, a distributed embeddable database on top of Git](https://github.com/gogitdb/gitdb)
 * [2022-07-05, 08:08:47](https://news.ycombinator.com/item?id=31985642) - [Venice to introduce entry tickets and fees](https://www.euronews.com/travel/2022/07/01/venice-sets-date-for-introduction-of-ticketing-and-entry-fees-heres-what-you-need-to-know)
 * [2022-07-05, 07:42:48](https://news.ycombinator.com/item?id=31985467) - [Värtan Ropsten – The largest sea water heat pump facility worldwide (2017) [pdf]](https://www.friotherm.com/wp-content/uploads/2017/11/vaertan_e008_uk.pdf)
-* [2022-07-05, 04:31:04](https://news.ycombinator.com/item?id=31984323) - [Beigels, software, and why you should control queues instead of cycle times](https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html)
 
 ## [Archives](archives/index.md)
 
