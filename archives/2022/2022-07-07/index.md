@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
+* [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 * [2022-07-07, 05:57:59](https://news.ycombinator.com/item?id=32010411) - [Ask HN: Looking for feedback on our website (freelance platform))](https://news.ycombinator.com/item?id=32010411)
 * [2022-07-07, 05:41:42](https://news.ycombinator.com/item?id=32010317) - [Playstation Store removes Studiocanal movies, no refunds offered](https://www.gameshub.com/news/news/playstation-store-studio-canal-movies-germany-austria-23400/)
 * [2022-07-07, 05:34:13](https://news.ycombinator.com/item?id=32010272) - [WxWidgets 3.2.0 Released](https://wxwidgets.org/news/2022/07/wxwidgets-3.2.0-final-release/)
