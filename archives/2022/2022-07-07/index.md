@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2022-07-07](index.md)
 
 * [2022-07-07, 12:48:18](https://news.ycombinator.com/item?id=32013367) - [Tesorio (YC S15) Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+* [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – open-source realtime back end in 1 file](https://github.com/pocketbase/pocketbase)
 * [2022-07-07, 12:42:08](https://news.ycombinator.com/item?id=32013295) - [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)
+* [2022-07-07, 12:33:46](https://news.ycombinator.com/item?id=32013202) - [Meta Sues Web Scrapers](https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/)
 * [2022-07-07, 12:16:19](https://news.ycombinator.com/item?id=32013028) - [Sending reply and forward emails with EmailEngine](https://docs.emailengine.app/sending-reply-and-forward-emails/)
 * [2022-07-07, 12:10:01](https://news.ycombinator.com/item?id=32012971) - [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
 * [2022-07-07, 11:59:47](https://news.ycombinator.com/item?id=32012875) - [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
