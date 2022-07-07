@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-07, 16:14:17",
+      "https://news.ycombinator.com/item?id=32015870"
+    ],
+    [
+      "Solving Out of Memory Issues in Linux at Redpanda",
+      "https://redpanda.com/blog/solve-out-of-memory-killer-events"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 15:55:25",
+      "https://news.ycombinator.com/item?id=32015644"
+    ],
+    [
+      "You won't be able to run Windows 11 without a webcam",
+      "https://windowsreport.com/windows-11-webcam-mandatory/"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 15:22:08",
       "https://news.ycombinator.com/item?id=32015246"
     ],
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32010699"
     ],
     [
-      "DRY is the an over-rated programming principle?",
+      "DRY is an over-rated programming principle?",
       "https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/"
     ]
   ],
@@ -197,16 +217,6 @@
     [
       "Music for Programming",
       "https://musicforprogramming.net/"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 00:25:18",
-      "https://news.ycombinator.com/item?id=32008586"
-    ],
-    [
-      "I analyzed hospital price lists so you didn't have to",
-      "https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Flânerie: The Art of Aimless Strolling",
       "https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 14:06:20",
-      "https://news.ycombinator.com/item?id=32001133"
-    ],
-    [
-      "The Future of System Memory Is Mostly CXL",
-      "https://www.nextplatform.com/2022/07/05/the-future-of-system-memory-is-mostly-cxl/"
     ]
   ],
   [
