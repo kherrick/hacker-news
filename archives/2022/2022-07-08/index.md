@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 12:03:57](https://news.ycombinator.com/item?id=32026041) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+* [2022-07-08, 11:47:20](https://news.ycombinator.com/item?id=32025882) - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
+* [2022-07-08, 11:44:23](https://news.ycombinator.com/item?id=32025858) - [Arizona passes law criminalizing recording of police (within 8 ft)](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
 * [2022-07-08, 10:49:28](https://news.ycombinator.com/item?id=32025402) - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
 * [2022-07-08, 09:51:17](https://news.ycombinator.com/item?id=32024955) - [Heads Up: Microsoft to Ban Commercial Open Source from App Store](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/)
