@@ -6,6 +6,7 @@
 
 * [2022-07-08, 09:17:49](https://news.ycombinator.com/item?id=32024716) - [Former PM Abe Shinzo dies after being shot](https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/)
 * [2022-07-08, 09:06:28](https://news.ycombinator.com/item?id=32024647) - [Former Japan Prime Minister Shinzo Abe Dies After Being Shot](https://www.japantimes.co.jp/news/2022/07/08/national/shinzo-abe-dead-nara-shooting/)
+* [2022-07-08, 08:57:02](https://news.ycombinator.com/item?id=32024585) - [Japanese former prime minister Abe has died](https://www.reuters.com/world/asia-pacific/japanese-former-prime-minister-abe-has-died-nhk-2022-07-08/)
 * [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:25:12](https://news.ycombinator.com/item?id=32023863) - [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News Was Down](https://hackernews.onlineornot.com)
