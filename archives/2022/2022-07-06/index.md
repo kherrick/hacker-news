@@ -39,6 +39,7 @@
 * [2022-07-06, 14:43:30](https://news.ycombinator.com/item?id=32001742) - [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
 * [2022-07-06, 14:35:07](https://news.ycombinator.com/item?id=32001627) - [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
 * [2022-07-06, 14:31:55](https://news.ycombinator.com/item?id=32001586) - [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
+* [2022-07-06, 14:28:12](https://news.ycombinator.com/item?id=32001523) - [Managers need to stop giving people feedback on their personality](https://fortune.com/2022/06/15/performance-reviews-bias-gender-race-language-textio-kieran-snyder-aileen-lee/)
 * [2022-07-06, 14:26:41](https://news.ycombinator.com/item?id=32001497) - [New constraints on dark photons using a new dielectric optical haloscope](https://phys.org/news/2022-07-constraints-dark-photons-dielectric-optical.html)
 * [2022-07-06, 14:06:20](https://news.ycombinator.com/item?id=32001133) - [The Future of System Memory Is Mostly CXL](https://www.nextplatform.com/2022/07/05/the-future-of-system-memory-is-mostly-cxl/)
 * [2022-07-06, 14:04:23](https://news.ycombinator.com/item?id=32001103) - [A functional definition to distinguish ponds from lakes and wetlands](https://www.nature.com/articles/s41598-022-14569-0)
