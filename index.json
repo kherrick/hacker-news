@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-07-07, 22:22:14",
-      "https://news.ycombinator.com/item?id=32020326"
+      "2022-07-08, 01:55:41",
+      "https://news.ycombinator.com/item?id=32022138"
     ],
     [
-      "Are We Wayland Yet?",
-      "https://arewewaylandyet.com/"
+      "bun: fast JavaScript runtime and package manager",
+      "https://github.com/Jarred-Sumner/bun"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 01:19:16",
+      "https://news.ycombinator.com/item?id=32021868"
+    ],
+    [
+      "Governor Newsom announces California will make its own insulin",
+      "https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 01:16:53",
+      "https://news.ycombinator.com/item?id=32021852"
+    ],
+    [
+      "PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser",
+      "http://pyalgoviz.appspot.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 01:00:12",
+      "https://news.ycombinator.com/item?id=32021736"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring Software Engineer – London",
+      "https://etleap.com/jobs/#software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 00:38:51",
+      "https://news.ycombinator.com/item?id=32021584"
+    ],
+    [
+      "Walking Venice",
+      "https://craigmod.com/ridgeline/144/"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 23:55:58",
+      "https://news.ycombinator.com/item?id=32021269"
+    ],
+    [
+      "Markov Chat Bot Disaster Story",
+      "https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "Met Police UK Live Facial Recognition",
       "https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 21:37:21",
-      "https://news.ycombinator.com/item?id=32019799"
-    ],
-    [
-      "EU moving closer to Facebook ban",
-      "https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-07-07, 19:09:47",
-      "https://news.ycombinator.com/item?id=32017997"
-    ],
-    [
-      "OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow",
-      "https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 19:05:48",
       "https://news.ycombinator.com/item?id=32017952"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-07-07, 17:01:10",
-      "https://news.ycombinator.com/item?id=32016488"
-    ],
-    [
-      "Inversion Space (YC S21) Is Hiring for Embedded Software",
-      "https://boards.greenhouse.io/inversionspace/jobs/4022300005"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 16:53:09",
       "https://news.ycombinator.com/item?id=32016391"
     ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=32016322"
     ],
     [
-      "My Return to Desktop Applications",
+      "My return to desktop applications",
       "https://ashlan.com/blog/my-return-to-desktop-applications/"
     ]
   ],
@@ -187,16 +207,6 @@
     [
       "Brain.js: GPU Accelerated Neural Networks in JavaScript",
       "https://brain.js.org/#/"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 14:44:40",
-      "https://news.ycombinator.com/item?id=32014754"
-    ],
-    [
-      "Problems at Roblox",
-      "https://thebearcave.substack.com/p/problems-at-roblox-rblx"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2022-07-07, 10:27:16",
+      "https://news.ycombinator.com/item?id=32012171"
+    ],
+    [
+      "Body Margin 8px",
+      "https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 06:10:09",
       "https://news.ycombinator.com/item?id=32010490"
     ],
     [
       "A Scheme Primer",
       "https://spritely.institute/static/papers/scheme-primer.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-06, 19:32:44",
-      "https://news.ycombinator.com/item?id=32005700"
-    ],
-    [
-      "Don't Read History for Lessons",
-      "https://commoncog.com/blog/dont-read-history-for-lessons/"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2022-07-06, 03:05:21",
-      "https://news.ycombinator.com/item?id=31996238"
+      "2022-07-05, 21:12:22",
+      "https://news.ycombinator.com/item?id=31993756"
     ],
     [
-      "Two Books Plumb the Hidden Depths of the Fairy Tale",
-      "https://www.wsj.com/articles/two-books-plumb-the-hidden-depths-of-the-fairy-tale-review-11656686043"
+      "The Game Monopologs (1960)",
+      "https://www.rand.org/pubs/research_memoranda/RM1917-1.html"
     ]
   ],
   [
     [
-      "2022-07-06, 00:44:37",
-      "https://news.ycombinator.com/item?id=31995510"
+      "2022-07-05, 12:36:15",
+      "https://news.ycombinator.com/item?id=31987466"
     ],
     [
-      "Automatic Astro Compass Type MD-1",
-      "http://www.prc68.com/I/MD1.shtml"
-    ]
-  ],
-  [
-    [
-      "2022-07-05, 12:54:55",
-      "https://news.ycombinator.com/item?id=31987617"
-    ],
-    [
-      "How to Build a Real Igloo",
-      "https://www.youtube.com/watch?v=7jfWm2jTFf4"
+      "AI Forecasting: One Year In",
+      "https://bounded-regret.ghost.io/ai-forecasting-one-year-in/"
     ]
   ]
 ]
