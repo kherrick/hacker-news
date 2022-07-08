@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 21:37:55](https://news.ycombinator.com/item?id=32027542) - [Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
+* [2022-07-08, 21:25:52](https://news.ycombinator.com/item?id=32027364) - [Elon Musk terminating Twitter deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08/)
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
+* [2022-07-08, 21:02:05](https://news.ycombinator.com/item?id=32027051) - [Boeing CEO says planemaker could be forced to cancel 737 Max 10](https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-plane-maker-could-be-forced-cancel-737-max-10-aviation-week-2022-07-07/)
 * [2022-07-08, 20:57:59](https://news.ycombinator.com/item?id=32026975) - [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 * [2022-07-08, 20:53:19](https://news.ycombinator.com/item?id=32026908) - [Cruise’s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
 * [2022-07-08, 20:49:12](https://news.ycombinator.com/item?id=32026841) - [Is the United States Exceptional?](https://acoup.blog/2022/07/08/collections-is-the-united-states-exceptional/)
