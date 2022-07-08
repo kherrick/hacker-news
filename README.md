@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-08, 20:44:05](https://news.ycombinator.com/item?id=32026745) - [The U.S. May Be Losing the Fight Against Monkeypox, Scientists Say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
 * [2022-07-08, 20:39:16](https://news.ycombinator.com/item?id=32026680) - [Google proposes moving ad business to Alphabet to keep regulators at bay](https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/)
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
@@ -8,8 +9,6 @@
 * [2022-07-08, 17:55:59](https://news.ycombinator.com/item?id=32026566) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-07-08, 11:47:20](https://news.ycombinator.com/item?id=32025882) - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
-* [2022-07-08, 09:41:32](https://news.ycombinator.com/item?id=32024882) - [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
-* [2022-07-08, 09:31:55](https://news.ycombinator.com/item?id=32024804) - [ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams](https://github.com/asciitosvg/asciitosvg)
 * [2022-07-08, 09:17:49](https://news.ycombinator.com/item?id=32024716) - [Former PM Abe Shinzo dies after being shot](https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/)
 * [2022-07-08, 09:05:07](https://news.ycombinator.com/item?id=32024638) - [Histography- timeline Using Wikipedia Data](https://histography.io/)
 * [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
@@ -25,6 +24,7 @@
 * [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – Open Source realtime backend in one file](https://github.com/pocketbase/pocketbase)
 * [2022-07-07, 11:06:00](https://news.ycombinator.com/item?id=32012478) - [A Surprising Side of Carl Sagan](https://nautil.us/a-surprising-side-of-carl-sagan-21446/)
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
+* [2022-07-07, 09:07:55](https://news.ycombinator.com/item?id=32011583) - [On the Disassembly Line](https://www.lrb.co.uk/the-paper/v44/n13/katrina-forrester/on-the-disassembly-line)
 * [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple previews Lockdown Mode](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 * [2022-07-06, 16:13:13](https://news.ycombinator.com/item?id=32003044) - [Hippocampal place cells have goal-oriented vector fields during navigation](https://www.nature.com/articles/s41586-022-04913-9)
 * [2022-07-06, 13:04:32](https://news.ycombinator.com/item?id=32000233) - [MacintoshPi](https://github.com/jaromaz/MacintoshPi)
