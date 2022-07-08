@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 21:55:56](https://news.ycombinator.com/item?id=32027855) - [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
 * [2022-07-08, 21:55:09](https://news.ycombinator.com/item?id=32027841) - [Lion's mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
 * [2022-07-08, 21:37:55](https://news.ycombinator.com/item?id=32027542) - [Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
 * [2022-07-08, 21:33:16](https://news.ycombinator.com/item?id=32027470) - [It Looks Like HighlandPark Shooter Tried Repeatedly to Create Own Wikipedia Page](https://slate.com/technology/2022/07/bobby-crimo-highland-park-wikipedia.html)
@@ -21,6 +22,7 @@
 * [2022-07-08, 20:44:05](https://news.ycombinator.com/item?id=32026745) - [The U.S. May Be Losing the Fight Against Monkeypox, Scientists Say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
 * [2022-07-08, 20:39:16](https://news.ycombinator.com/item?id=32026680) - [Google proposes moving ad business to Alphabet to keep regulators at bay](https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/)
 * [2022-07-08, 20:38:32](https://news.ycombinator.com/item?id=32026663) - [Amazon has a book piracy problem](https://twitter.com/fchollet/status/1545477267932864512)
+* [2022-07-08, 20:37:11](https://news.ycombinator.com/item?id=32026647) - [APL and Array Programming](https://forums.fast.ai/t/apl-array-programming/97188)
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-08, 20:35:27](https://news.ycombinator.com/item?id=32026624) - [Atomicwrites' old versions have been purged from PyPI](https://github.com/untitaker/python-atomicwrites/issues/61)
