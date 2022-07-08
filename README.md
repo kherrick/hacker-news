@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News Was Down](https://hackernews.onlineornot.com)
+* [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News was down](https://hackernews.onlineornot.com)
 * [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
 * [2022-07-08, 02:23:07](https://news.ycombinator.com/item?id=32022312) - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 * [2022-07-08, 01:16:53](https://news.ycombinator.com/item?id=32021852) - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
