@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 20:30:55](https://news.ycombinator.com/item?id=32026571) - [HN Is Up Again](https://news.ycombinator.com/item?id=32026571)
+* [2022-07-08, 17:55:59](https://news.ycombinator.com/item?id=32026566) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-07-08, 12:03:57](https://news.ycombinator.com/item?id=32026041) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
 * [2022-07-08, 11:47:20](https://news.ycombinator.com/item?id=32025882) - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
 * [2022-07-08, 11:44:23](https://news.ycombinator.com/item?id=32025858) - [Arizona passes law criminalizing recording of police (within 8 ft)](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)

@@ -49,6 +49,7 @@
 * [2022-07-07, 12:33:46](https://news.ycombinator.com/item?id=32013202) - [Meta Sues Web Scrapers](https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/)
 * [2022-07-07, 12:16:19](https://news.ycombinator.com/item?id=32013028) - [Sending reply and forward emails with EmailEngine](https://docs.emailengine.app/sending-reply-and-forward-emails/)
 * [2022-07-07, 12:10:01](https://news.ycombinator.com/item?id=32012971) - [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
+* [2022-07-07, 12:01:44](https://news.ycombinator.com/item?id=32012901) - [International Slide Rule Museum (ISRM)](https://sliderulemuseum.com/)
 * [2022-07-07, 11:59:47](https://news.ycombinator.com/item?id=32012875) - [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
 * [2022-07-07, 10:51:04](https://news.ycombinator.com/item?id=32012352) - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
 * [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [Zuckerberg: ‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
