@@ -54,6 +54,7 @@
 * [2022-07-06, 13:31:40](https://news.ycombinator.com/item?id=32000598) - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 * [2022-07-06, 13:18:35](https://news.ycombinator.com/item?id=32000400) - [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
 * [2022-07-06, 13:06:54](https://news.ycombinator.com/item?id=32000261) - [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
+* [2022-07-06, 13:04:32](https://news.ycombinator.com/item?id=32000233) - [MacintoshPi](https://github.com/jaromaz/MacintoshPi)
 * [2022-07-06, 13:00:47](https://news.ycombinator.com/item?id=32000201) - [DIY Smartphone Lora Connection (2021)](https://www.hackster.io/pulsartronic/diy-smartphone-lora-connection-bde258)
 * [2022-07-06, 12:59:30](https://news.ycombinator.com/item?id=32000182) - [U.S. Mass Shootings on Rise No Matter How You Define Them – The Marshall Project](https://www.themarshallproject.org/2022/07/06/what-you-need-to-know-about-the-rise-in-u-s-mass-shootings)
 * [2022-07-06, 12:51:33](https://news.ycombinator.com/item?id=32000106) - [Triathlon first UK sport to create 'open' category for transgender athletes](https://www.bbc.co.uk/sport/triathlon/62063359)
