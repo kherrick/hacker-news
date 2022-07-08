@@ -28,6 +28,7 @@
 * [2022-07-06, 16:27:18](https://news.ycombinator.com/item?id=32003266) - [Ask HN: Why do I struggle to follow corporate meetings?](https://news.ycombinator.com/item?id=32003266)
 * [2022-07-06, 16:26:19](https://news.ycombinator.com/item?id=32003246) - [Let's Encrypt swag is here and I love it](https://letsencrypt.org/donate/)
 * [2022-07-06, 16:24:30](https://news.ycombinator.com/item?id=32003215) - [Launch HN: Hello (YC S22) – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
+* [2022-07-06, 16:23:25](https://news.ycombinator.com/item?id=32003198) - [Picbreeder](https://nbenko1.github.io/)
 * [2022-07-06, 16:14:28](https://news.ycombinator.com/item?id=32003065) - [Fog Volumes arrive in Godot 4.0](https://godotengine.org/article/fog-volumes-arrive-in-godot-4)
 * [2022-07-06, 16:13:13](https://news.ycombinator.com/item?id=32003044) - [Hippocampal place cells have goal-oriented vector fields during navigation](https://www.nature.com/articles/s41586-022-04913-9)
 * [2022-07-06, 16:12:42](https://news.ycombinator.com/item?id=32003036) - [Beyond the Four-Document Model](https://buttondown.email/hillelwayne/archive/beyond-the-four-document-model/)
