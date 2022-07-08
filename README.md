@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News was down](https://hackernews.onlineornot.com)
+* [2022-07-08, 04:49:16](https://news.ycombinator.com/item?id=32023337) - [Two people in Tesla killed after crashing into parked semi at Florida rest stop](https://cdllife.com/2022/two-people-in-tesla-killed-after-crashing-into-parked-semi-at-florida-rest-stop/)
 * [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
 * [2022-07-08, 02:23:07](https://news.ycombinator.com/item?id=32022312) - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 * [2022-07-08, 01:16:53](https://news.ycombinator.com/item?id=32021852) - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
@@ -12,7 +14,6 @@
 * [2022-07-07, 21:37:30](https://news.ycombinator.com/item?id=32019801) - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 * [2022-07-07, 21:20:02](https://news.ycombinator.com/item?id=32019598) - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 * [2022-07-07, 20:24:10](https://news.ycombinator.com/item?id=32018856) - [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
-* [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9,000-pound electric Hummer shows we can’t ignore efficiency of EVs](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
 * [2022-07-07, 19:47:35](https://news.ycombinator.com/item?id=32018459) - [Astrofox – Turn Audio into Videos](https://astrofox.io/)
 * [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
 * [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The screenshots will continue until security improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
@@ -27,7 +28,6 @@
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
 * [2022-07-07, 06:10:09](https://news.ycombinator.com/item?id=32010490) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
-* [2022-07-06, 14:28:12](https://news.ycombinator.com/item?id=32001523) - [Managers need to stop giving people feedback on their personality](https://fortune.com/2022/06/15/performance-reviews-bias-gender-race-language-textio-kieran-snyder-aileen-lee/)
 * [2022-07-06, 13:53:58](https://news.ycombinator.com/item?id=32000907) - [Detecting Deepfake Video Calls Through Monitor Illumination](https://www.unite.ai/detecting-deepfake-video-calls-through-monitor-illumination/)
 * [2022-07-06, 13:04:32](https://news.ycombinator.com/item?id=32000233) - [MacintoshPi](https://github.com/jaromaz/MacintoshPi)
 

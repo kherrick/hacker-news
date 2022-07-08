@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News Was Down](https://hackernews.onlineornot.com)
 * [2022-07-08, 04:49:16](https://news.ycombinator.com/item?id=32023337) - [Two people in Tesla killed after crashing into parked semi at Florida rest stop](https://cdllife.com/2022/two-people-in-tesla-killed-after-crashing-into-parked-semi-at-florida-rest-stop/)
 * [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
