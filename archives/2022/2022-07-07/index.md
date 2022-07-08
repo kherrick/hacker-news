@@ -61,6 +61,7 @@
 * [2022-07-07, 08:44:47](https://news.ycombinator.com/item?id=32011432) - [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
 * [2022-07-07, 08:26:24](https://news.ycombinator.com/item?id=32011288) - [Nuclear Turn Green as EU Parliament Approves New Taxonomy](https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/)
 * [2022-07-07, 07:28:45](https://news.ycombinator.com/item?id=32010914) - [LeCun's 2022 paper on autonomous machine intelligence does not cite prior work](https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html)
+* [2022-07-07, 07:00:54](https://news.ycombinator.com/item?id=32010750) - [Scaling Causal's Spreadsheet Engine: From Maps to Arrays](https://sirupsen.com/causal)
 * [2022-07-07, 06:51:42](https://news.ycombinator.com/item?id=32010699) - [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 * [2022-07-07, 06:10:09](https://news.ycombinator.com/item?id=32010490) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2022-07-07, 05:57:59](https://news.ycombinator.com/item?id=32010411) - [Ask HN: Looking for feedback on our website (freelance platform))](https://news.ycombinator.com/item?id=32010411)
