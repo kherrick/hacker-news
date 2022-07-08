@@ -15,28 +15,18 @@
       "https://news.ycombinator.com/item?id=32022506"
     ],
     [
-      "Japan’s Ex-PM Abe shot during speech",
+      "Japan’s Ex-PM Abe assassinated during speech",
       "https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says"
     ]
   ],
   [
     [
-      "2022-07-08, 01:55:41",
-      "https://news.ycombinator.com/item?id=32022138"
+      "2022-07-08, 02:23:07",
+      "https://news.ycombinator.com/item?id=32022312"
     ],
     [
-      "bun: fast JavaScript runtime and package manager",
-      "https://github.com/Jarred-Sumner/bun"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 01:39:22",
-      "https://news.ycombinator.com/item?id=32022023"
-    ],
-    [
-      "School’s Out for Summer and Many Teachers Are Calling It Quits",
-      "https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689"
+      "Show HN: I made an app to help insomniacs learn how to sleep again",
+      "https://slumber.one"
     ]
   ],
   [
@@ -121,12 +111,32 @@
   ],
   [
     [
+      "2022-07-07, 21:20:02",
+      "https://news.ycombinator.com/item?id=32019598"
+    ],
+    [
+      "Show HN: RemoteFriendly – A remote job board inspired by HN",
+      "https://remotefriendly.com/"
+    ]
+  ],
+  [
+    [
       "2022-07-07, 20:24:10",
       "https://news.ycombinator.com/item?id=32018856"
     ],
     [
       "TensorFlow Lite for Commodore 64",
       "https://github.com/nickbild/tflite_c64"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 20:13:53",
+      "https://news.ycombinator.com/item?id=32018748"
+    ],
+    [
+      "9,000-pound electric Hummer shows we can’t ignore efficiency of EVs",
+      "https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2022-07-07, 13:07:37",
-      "https://news.ycombinator.com/item?id=32013591"
-    ],
-    [
-      "Code from the FBI’s Anom encrypted messaging app",
-      "https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 12:45:11",
-      "https://news.ycombinator.com/item?id=32013330"
-    ],
-    [
-      "Show HN: PocketBase – Open Source realtime backend in one file",
-      "https://github.com/pocketbase/pocketbase"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 10:27:16",
       "https://news.ycombinator.com/item?id=32012171"
     ],
@@ -287,6 +277,16 @@
     [
       "Detecting Deepfake Video Calls Through Monitor Illumination",
       "https://www.unite.ai/detecting-deepfake-video-calls-through-monitor-illumination/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 13:04:32",
+      "https://news.ycombinator.com/item?id=32000233"
+    ],
+    [
+      "MacintoshPi",
+      "https://github.com/jaromaz/MacintoshPi"
     ]
   ],
   [
