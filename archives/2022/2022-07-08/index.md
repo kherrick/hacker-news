@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
 * [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
+* [2022-07-08, 03:01:00](https://news.ycombinator.com/item?id=32022543) - [US life insurance company paid out 163% more for deaths of workers 18-64 in 2021](https://crossroadsreport.substack.com/p/breaking-fifth-largest-life-insurance)
 * [2022-07-08, 02:56:26](https://news.ycombinator.com/item?id=32022506) - [Japan’s Ex-PM Abe shot during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)
 * [2022-07-08, 02:23:07](https://news.ycombinator.com/item?id=32022312) - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 * [2022-07-08, 01:55:41](https://news.ycombinator.com/item?id=32022138) - [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
