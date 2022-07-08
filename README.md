@@ -2,6 +2,7 @@
 
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
 * [2022-07-08, 10:49:28](https://news.ycombinator.com/item?id=32025402) - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
+* [2022-07-08, 09:51:17](https://news.ycombinator.com/item?id=32024955) - [Heads Up: Microsoft to Ban Commercial Open Source from App Store](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/)
 * [2022-07-08, 09:49:10](https://news.ycombinator.com/item?id=32024935) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 * [2022-07-08, 09:41:32](https://news.ycombinator.com/item?id=32024882) - [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
 * [2022-07-08, 09:31:55](https://news.ycombinator.com/item?id=32024804) - [ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams](https://github.com/asciitosvg/asciitosvg)
@@ -26,7 +27,6 @@
 * [2022-07-07, 05:32:46](https://news.ycombinator.com/item?id=32010266) - [Constantines from 1812 to Present](https://www.constantines.com/constantineshistory.aspx)
 * [2022-07-06, 16:35:05](https://news.ycombinator.com/item?id=32003374) - [Decoding swing lyrics (2021)](https://soulaciousdj.medium.com/decoding-5-swing-lyrics-1e7a755e1cd0)
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
-* [2022-07-06, 13:53:58](https://news.ycombinator.com/item?id=32000907) - [Detecting Deepfake Video Calls Through Monitor Illumination](https://www.unite.ai/detecting-deepfake-video-calls-through-monitor-illumination/)
 * [2022-07-06, 13:04:32](https://news.ycombinator.com/item?id=32000233) - [MacintoshPi](https://github.com/jaromaz/MacintoshPi)
 * [2022-07-06, 10:09:54](https://news.ycombinator.com/item?id=31998877) - [Is your phone ruining your memory? A report on the rise of ‘digital amnesia’](https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia)
 * [2022-07-06, 04:57:12](https://news.ycombinator.com/item?id=31996885) - [The Lost Art of Looking at Nature](https://www.dissentmagazine.org/article/the-lost-art-of-looking-at-nature)
