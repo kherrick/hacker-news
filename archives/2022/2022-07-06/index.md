@@ -44,6 +44,7 @@
 * [2022-07-06, 14:04:23](https://news.ycombinator.com/item?id=32001103) - [A functional definition to distinguish ponds from lakes and wetlands](https://www.nature.com/articles/s41598-022-14569-0)
 * [2022-07-06, 14:03:13](https://news.ycombinator.com/item?id=32001080) - [What Is Machine Learning Anyway?](https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway)
 * [2022-07-06, 14:02:14](https://news.ycombinator.com/item?id=32001052) - [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
+* [2022-07-06, 13:53:58](https://news.ycombinator.com/item?id=32000907) - [Detecting Deepfake Video Calls Through Monitor Illumination](https://www.unite.ai/detecting-deepfake-video-calls-through-monitor-illumination/)
 * [2022-07-06, 13:53:45](https://news.ycombinator.com/item?id=32000903) - [On Turing Machines](https://lawrencecpaulson.github.io//2022/07/06/Turing_Machines.html)
 * [2022-07-06, 13:53:44](https://news.ycombinator.com/item?id=32000902) - [In the hunt for dark matter, are axions our best bet?](https://www.space.com/dark-matter-axions-best-bet)
 * [2022-07-06, 13:51:05](https://news.ycombinator.com/item?id=32000868) - [Upcoming RISC-V laptop promises free silicon upgrades](https://arstechnica.com/gadgets/2022/07/first-risc-v-laptop-expected-to-ship-in-september/)

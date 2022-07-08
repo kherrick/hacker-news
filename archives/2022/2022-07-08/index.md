@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
+* [2022-07-08, 02:56:26](https://news.ycombinator.com/item?id=32022506) - [Japan’s Ex-PM Abe shot during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)
 * [2022-07-08, 01:55:41](https://news.ycombinator.com/item?id=32022138) - [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
+* [2022-07-08, 01:39:22](https://news.ycombinator.com/item?id=32022023) - [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
 * [2022-07-08, 01:19:16](https://news.ycombinator.com/item?id=32021868) - [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
 * [2022-07-08, 01:16:53](https://news.ycombinator.com/item?id=32021852) - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [2022-07-08, 01:00:12](https://news.ycombinator.com/item?id=32021736) - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
 * [2022-07-08, 00:38:51](https://news.ycombinator.com/item?id=32021584) - [Walking Venice](https://craigmod.com/ridgeline/144/)
+* [2022-07-08, 00:00:13](https://news.ycombinator.com/item?id=32021299) - [NimSkull: A Hard Fork of Nim](https://github.com/nim-works/nimskull)
