@@ -63,6 +63,7 @@
 * [2022-07-05, 11:54:31](https://news.ycombinator.com/item?id=31987099) - [Buffett, Jones and Hamm: An Oil Wisdom Trifecta](https://smeadcap.com/missives/buffett-jones-and-hamm-an-oil-wisdom-trifecta/)
 * [2022-07-05, 11:38:26](https://news.ycombinator.com/item?id=31986979) - [Arbitrary Code Execution in Super Mario All-Stars](https://www.youtube.com/watch?v=FlkWSqA4VFU)
 * [2022-07-05, 11:36:28](https://news.ycombinator.com/item?id=31986964) - [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
+* [2022-07-05, 11:34:43](https://news.ycombinator.com/item?id=31986941) - [UK officials still blocking Peter Wright’s Spycatcher files (2021)](https://www.theguardian.com/world/2021/nov/27/inside-story-of-peter-wrights-spycatcher-blocked-by-cabinet-office-delay-and-deception)
 * [2022-07-05, 11:30:11](https://news.ycombinator.com/item?id=31986907) - [SHGA Shanghai Gov National Police Database for sale (1B entries)](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
 * [2022-07-05, 11:22:58](https://news.ycombinator.com/item?id=31986851) - [SpaceVim Release v2.0.0](https://spacevim.org/SpaceVim-release-v2.0.0/)
 * [2022-07-05, 11:17:45](https://news.ycombinator.com/item?id=31986811) - [Parsing with Haskell](https://serokell.io/blog/lexing-with-alex)
