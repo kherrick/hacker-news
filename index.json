@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-07-08, 23:04:02",
+      "https://news.ycombinator.com/item?id=32028945"
+    ],
+    [
+      "Ask HN: What's your experience with working M1 and M2 Macs?",
+      "https://news.ycombinator.com/item?id=32028945"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 22:51:27",
+      "https://news.ycombinator.com/item?id=32028760"
+    ],
+    [
+      "Architecture Decisions in Neon",
+      "https://neon.tech/blog/architecture-decisions-in-neon/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 22:50:59",
+      "https://news.ycombinator.com/item?id=32028752"
+    ],
+    [
+      "OCRmyPDF: Add an OCR text layer to scanned PDF file",
+      "https://ocrmypdf.readthedocs.io/en/latest/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 22:47:10",
+      "https://news.ycombinator.com/item?id=32028700"
+    ],
+    [
+      "The danger of license plate readers in post-Roe America",
+      "https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/"
+    ]
+  ],
+  [
+    [
       "2022-07-08, 22:20:38",
       "https://news.ycombinator.com/item?id=32028298"
     ],
@@ -115,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32026801"
     ],
     [
-      "How Do Dolphins Choose Their Name?",
+      "How do dolphins choose their name?",
       "https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name"
     ]
   ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2022-07-08, 20:35:27",
-      "https://news.ycombinator.com/item?id=32026624"
-    ],
-    [
-      "Atomicwrites' old versions have been purged from PyPI",
-      "https://github.com/untitaker/python-atomicwrites/issues/61"
-    ]
-  ],
-  [
-    [
       "2022-07-08, 20:30:55",
       "https://news.ycombinator.com/item?id=32026571"
     ],
@@ -221,46 +251,6 @@
   ],
   [
     [
-      "2022-07-08, 11:07:07",
-      "https://news.ycombinator.com/item?id=32025562"
-    ],
-    [
-      "Notepad++ v8.4.3: Unhappy Users' Edition",
-      "https://notepad-plus-plus.org/news/v843-unhappy-users-edition/"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 09:05:07",
-      "https://news.ycombinator.com/item?id=32024638"
-    ],
-    [
-      "Histography- timeline Using Wikipedia Data",
-      "https://histography.io/"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 19:26:04",
-      "https://news.ycombinator.com/item?id=32018218"
-    ],
-    [
-      "Starlink Maritime",
-      "https://www.starlink.com/maritime"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 19:05:48",
-      "https://news.ycombinator.com/item?id=32017952"
-    ],
-    [
-      "July 8 99% of the world’s population in sunlight simultaneously?",
-      "https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 11:06:00",
       "https://news.ycombinator.com/item?id=32012478"
     ],
@@ -287,6 +277,16 @@
     [
       "Picbreeder",
       "https://nbenko1.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-07-06, 15:05:52",
+      "https://news.ycombinator.com/item?id=32002069"
+    ],
+    [
+      "Mission Pharo Kernel (2016) [pdf]",
+      "http://www.esug.org/data/ESUG2016/04-Thursday/1000-1030%20Mission%20Pharo%20Kernel/2016-08-25-Mission-Pharo-Bootstrap-ESUG-2016.pdf"
     ]
   ],
   [
