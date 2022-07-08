@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 04:49:16](https://news.ycombinator.com/item?id=32023337) - [Two people in Tesla killed after crashing into parked semi at Florida rest stop](https://cdllife.com/2022/two-people-in-tesla-killed-after-crashing-into-parked-semi-at-florida-rest-stop/)
+* [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
 * [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
 * [2022-07-08, 03:01:00](https://news.ycombinator.com/item?id=32022543) - [US life insurance company paid out 163% more for deaths of workers 18-64 in 2021](https://crossroadsreport.substack.com/p/breaking-fifth-largest-life-insurance)
 * [2022-07-08, 02:56:26](https://news.ycombinator.com/item?id=32022506) - [Japan’s Ex-PM Abe shot during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)

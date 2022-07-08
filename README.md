@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
+* [2022-07-08, 04:49:16](https://news.ycombinator.com/item?id=32023337) - [Two people in Tesla killed after crashing into parked semi at Florida rest stop](https://cdllife.com/2022/two-people-in-tesla-killed-after-crashing-into-parked-semi-at-florida-rest-stop/)
+* [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
 * [2022-07-08, 02:23:07](https://news.ycombinator.com/item?id=32022312) - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 * [2022-07-08, 01:16:53](https://news.ycombinator.com/item?id=32021852) - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [2022-07-08, 01:00:12](https://news.ycombinator.com/item?id=32021736) - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
@@ -11,7 +12,6 @@
 * [2022-07-07, 21:37:30](https://news.ycombinator.com/item?id=32019801) - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 * [2022-07-07, 21:20:02](https://news.ycombinator.com/item?id=32019598) - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 * [2022-07-07, 20:24:10](https://news.ycombinator.com/item?id=32018856) - [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
-* [2022-07-07, 20:13:53](https://news.ycombinator.com/item?id=32018748) - [9,000-pound electric Hummer shows we can’t ignore efficiency of EVs](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
 * [2022-07-07, 19:47:35](https://news.ycombinator.com/item?id=32018459) - [Astrofox – Turn Audio into Videos](https://astrofox.io/)
 * [2022-07-07, 19:26:04](https://news.ycombinator.com/item?id=32018218) - [Starlink Maritime](https://www.starlink.com/maritime)
 * [2022-07-07, 19:14:19](https://news.ycombinator.com/item?id=32018066) - [SOC2: The screenshots will continue until security improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
