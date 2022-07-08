@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 23:36:19](https://news.ycombinator.com/item?id=32029405) - [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
+* [2022-07-08, 23:10:40](https://news.ycombinator.com/item?id=32029033) - [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
 * [2022-07-08, 23:04:02](https://news.ycombinator.com/item?id=32028945) - [Ask HN: What's your experience with working M1 and M2 Macs?](https://news.ycombinator.com/item?id=32028945)
+* [2022-07-08, 23:00:05](https://news.ycombinator.com/item?id=32028885) - [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
 * [2022-07-08, 22:51:27](https://news.ycombinator.com/item?id=32028760) - [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
 * [2022-07-08, 22:50:59](https://news.ycombinator.com/item?id=32028752) - [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 * [2022-07-08, 22:47:10](https://news.ycombinator.com/item?id=32028700) - [The danger of license plate readers in post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)

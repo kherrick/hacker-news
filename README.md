@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-08, 23:36:19](https://news.ycombinator.com/item?id=32029405) - [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
+* [2022-07-08, 23:10:40](https://news.ycombinator.com/item?id=32029033) - [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
 * [2022-07-08, 23:04:02](https://news.ycombinator.com/item?id=32028945) - [Ask HN: What's your experience with working M1 and M2 Macs?](https://news.ycombinator.com/item?id=32028945)
+* [2022-07-08, 23:00:05](https://news.ycombinator.com/item?id=32028885) - [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
 * [2022-07-08, 22:51:27](https://news.ycombinator.com/item?id=32028760) - [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
 * [2022-07-08, 22:50:59](https://news.ycombinator.com/item?id=32028752) - [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 * [2022-07-08, 22:47:10](https://news.ycombinator.com/item?id=32028700) - [The danger of license plate readers in post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)
-* [2022-07-08, 22:20:38](https://news.ycombinator.com/item?id=32028298) - [America Faces a Housing Bust](https://www.wsj.com/articles/america-faces-a-housing-bust-11655826309)
 * [2022-07-08, 21:55:56](https://news.ycombinator.com/item?id=32027855) - [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
-* [2022-07-08, 21:55:09](https://news.ycombinator.com/item?id=32027841) - [Lion's mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
 * [2022-07-08, 21:37:55](https://news.ycombinator.com/item?id=32027542) - [Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
 * [2022-07-08, 21:13:02](https://news.ycombinator.com/item?id=32027177) - [Show HN: Wiby is now free software](https://github.com/wibyweb/wiby)
@@ -27,7 +28,6 @@
 * [2022-07-08, 11:47:20](https://news.ycombinator.com/item?id=32025882) - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
 * [2022-07-07, 11:06:00](https://news.ycombinator.com/item?id=32012478) - [A Surprising Side of Carl Sagan](https://nautil.us/a-surprising-side-of-carl-sagan-21446/)
 * [2022-07-07, 07:00:54](https://news.ycombinator.com/item?id=32010750) - [Scaling Causal's Spreadsheet Engine: From Maps to Arrays](https://sirupsen.com/causal)
-* [2022-07-06, 16:23:25](https://news.ycombinator.com/item?id=32003198) - [Picbreeder](https://nbenko1.github.io/)
 * [2022-07-06, 15:05:52](https://news.ycombinator.com/item?id=32002069) - [Mission Pharo Kernel (2016) [pdf]](http://www.esug.org/data/ESUG2016/04-Thursday/1000-1030%20Mission%20Pharo%20Kernel/2016-08-25-Mission-Pharo-Bootstrap-ESUG-2016.pdf)
 * [2022-07-06, 10:09:54](https://news.ycombinator.com/item?id=31998877) - [Is your phone ruining your memory? A report on the rise of ‘digital amnesia’](https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia)
 
