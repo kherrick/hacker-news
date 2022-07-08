@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
 * [2022-07-08, 20:57:59](https://news.ycombinator.com/item?id=32026975) - [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 * [2022-07-08, 20:53:19](https://news.ycombinator.com/item?id=32026908) - [Cruise’s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
+* [2022-07-08, 20:49:12](https://news.ycombinator.com/item?id=32026841) - [Is the United States Exceptional?](https://acoup.blog/2022/07/08/collections-is-the-united-states-exceptional/)
 * [2022-07-08, 20:48:02](https://news.ycombinator.com/item?id=32026829) - [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
+* [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How Do Dolphins Choose Their Name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
 * [2022-07-08, 20:45:57](https://news.ycombinator.com/item?id=32026782) - [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
 * [2022-07-08, 20:44:05](https://news.ycombinator.com/item?id=32026745) - [The U.S. May Be Losing the Fight Against Monkeypox, Scientists Say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
 * [2022-07-08, 20:39:16](https://news.ycombinator.com/item?id=32026680) - [Google proposes moving ad business to Alphabet to keep regulators at bay](https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/)

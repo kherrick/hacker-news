@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
 * [2022-07-08, 20:57:59](https://news.ycombinator.com/item?id=32026975) - [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 * [2022-07-08, 20:53:19](https://news.ycombinator.com/item?id=32026908) - [Cruise’s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
+* [2022-07-08, 20:49:12](https://news.ycombinator.com/item?id=32026841) - [Is the United States Exceptional?](https://acoup.blog/2022/07/08/collections-is-the-united-states-exceptional/)
 * [2022-07-08, 20:48:02](https://news.ycombinator.com/item?id=32026829) - [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
+* [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How Do Dolphins Choose Their Name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
 * [2022-07-08, 20:45:57](https://news.ycombinator.com/item?id=32026782) - [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
 * [2022-07-08, 20:44:05](https://news.ycombinator.com/item?id=32026745) - [The U.S. may be losing the fight against monkeypox, scientists say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
 * [2022-07-08, 20:39:16](https://news.ycombinator.com/item?id=32026680) - [Google proposes moving ad business to Alphabet to keep regulators at bay](https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/)
@@ -14,7 +17,6 @@
 * [2022-07-08, 17:55:59](https://news.ycombinator.com/item?id=32026566) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-07-08, 11:47:20](https://news.ycombinator.com/item?id=32025882) - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
-* [2022-07-08, 09:31:55](https://news.ycombinator.com/item?id=32024804) - [ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams](https://github.com/asciitosvg/asciitosvg)
 * [2022-07-08, 09:05:07](https://news.ycombinator.com/item?id=32024638) - [Histography- timeline Using Wikipedia Data](https://histography.io/)
 * [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:25:12](https://news.ycombinator.com/item?id=32023863) - [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
@@ -26,10 +28,8 @@
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
 * [2022-07-07, 09:07:55](https://news.ycombinator.com/item?id=32011583) - [On the Disassembly Line](https://www.lrb.co.uk/the-paper/v44/n13/katrina-forrester/on-the-disassembly-line)
 * [2022-07-06, 16:23:25](https://news.ycombinator.com/item?id=32003198) - [Picbreeder](https://nbenko1.github.io/)
-* [2022-07-06, 16:13:13](https://news.ycombinator.com/item?id=32003044) - [Hippocampal place cells have goal-oriented vector fields during navigation](https://www.nature.com/articles/s41586-022-04913-9)
 * [2022-07-06, 13:04:32](https://news.ycombinator.com/item?id=32000233) - [MacintoshPi](https://github.com/jaromaz/MacintoshPi)
 * [2022-07-06, 10:09:54](https://news.ycombinator.com/item?id=31998877) - [Is your phone ruining your memory? A report on the rise of ‘digital amnesia’](https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia)
-* [2022-07-06, 04:57:12](https://news.ycombinator.com/item?id=31996885) - [The Lost Art of Looking at Nature](https://www.dissentmagazine.org/article/the-lost-art-of-looking-at-nature)
 
 ## [Archives](archives/index.md)
 
