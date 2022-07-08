@@ -51,6 +51,7 @@
 * [2022-07-07, 12:10:01](https://news.ycombinator.com/item?id=32012971) - [No-Token apps: an alternate vision for the blockchain](https://firasd.substack.com/p/no-token-apps-an-alternate-vision)
 * [2022-07-07, 12:01:44](https://news.ycombinator.com/item?id=32012901) - [International Slide Rule Museum (ISRM)](https://sliderulemuseum.com/)
 * [2022-07-07, 11:59:47](https://news.ycombinator.com/item?id=32012875) - [Why do people not notice our enormous, prominent, clear and contrasting banner?](https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b)
+* [2022-07-07, 11:06:00](https://news.ycombinator.com/item?id=32012478) - [A Surprising Side of Carl Sagan](https://nautil.us/a-surprising-side-of-carl-sagan-21446/)
 * [2022-07-07, 10:51:04](https://news.ycombinator.com/item?id=32012352) - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
 * [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [Zuckerberg: ‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
