@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
 * [2022-07-08, 10:49:28](https://news.ycombinator.com/item?id=32025402) - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
 * [2022-07-08, 09:49:10](https://news.ycombinator.com/item?id=32024935) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 * [2022-07-08, 09:41:32](https://news.ycombinator.com/item?id=32024882) - [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
@@ -11,7 +12,6 @@
 * [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:25:12](https://news.ycombinator.com/item?id=32023863) - [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News was down](https://hackernews.onlineornot.com)
-* [2022-07-08, 03:33:58](https://news.ycombinator.com/item?id=32022773) - [Apple, Google, Facebook's AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
 * [2022-07-08, 02:23:07](https://news.ycombinator.com/item?id=32022312) - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 * [2022-07-08, 00:38:51](https://news.ycombinator.com/item?id=32021584) - [Walking Venice](https://craigmod.com/ridgeline/144/)
 * [2022-07-08, 00:00:13](https://news.ycombinator.com/item?id=32021299) - [NimSkull: A Hard Fork of Nim](https://github.com/nim-works/nimskull)
@@ -24,11 +24,11 @@
 * [2022-07-07, 16:53:09](https://news.ycombinator.com/item?id=32016391) - [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
 * [2022-07-07, 05:32:46](https://news.ycombinator.com/item?id=32010266) - [Constantines from 1812 to Present](https://www.constantines.com/constantineshistory.aspx)
-* [2022-07-06, 17:01:32](https://news.ycombinator.com/item?id=32003756) - [Apple previews Lockdown Mode](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 * [2022-07-06, 16:35:05](https://news.ycombinator.com/item?id=32003374) - [Decoding swing lyrics (2021)](https://soulaciousdj.medium.com/decoding-5-swing-lyrics-1e7a755e1cd0)
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
 * [2022-07-06, 13:53:58](https://news.ycombinator.com/item?id=32000907) - [Detecting Deepfake Video Calls Through Monitor Illumination](https://www.unite.ai/detecting-deepfake-video-calls-through-monitor-illumination/)
 * [2022-07-06, 13:04:32](https://news.ycombinator.com/item?id=32000233) - [MacintoshPi](https://github.com/jaromaz/MacintoshPi)
+* [2022-07-06, 10:09:54](https://news.ycombinator.com/item?id=31998877) - [Is your phone ruining your memory? A report on the rise of ‘digital amnesia’](https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia)
 * [2022-07-06, 04:57:12](https://news.ycombinator.com/item?id=31996885) - [The Lost Art of Looking at Nature](https://www.dissentmagazine.org/article/the-lost-art-of-looking-at-nature)
 
 ## [Archives](archives/index.md)
