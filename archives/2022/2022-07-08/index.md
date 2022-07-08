@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 23:04:02](https://news.ycombinator.com/item?id=32028945) - [Ask HN: What's your experience with working M1 and M2 Macs?](https://news.ycombinator.com/item?id=32028945)
+* [2022-07-08, 22:51:27](https://news.ycombinator.com/item?id=32028760) - [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
+* [2022-07-08, 22:50:59](https://news.ycombinator.com/item?id=32028752) - [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
+* [2022-07-08, 22:47:10](https://news.ycombinator.com/item?id=32028700) - [The danger of license plate readers in post-Roe America](https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/)
 * [2022-07-08, 22:20:38](https://news.ycombinator.com/item?id=32028298) - [America Faces a Housing Bust](https://www.wsj.com/articles/america-faces-a-housing-bust-11655826309)
 * [2022-07-08, 21:55:56](https://news.ycombinator.com/item?id=32027855) - [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
 * [2022-07-08, 21:55:09](https://news.ycombinator.com/item?id=32027841) - [Lion's mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)

@@ -36,6 +36,7 @@
 * [2022-07-06, 15:38:58](https://news.ycombinator.com/item?id=32002555) - [Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant](https://humaneyesonly.com)
 * [2022-07-06, 15:35:44](https://news.ycombinator.com/item?id=32002501) - [Why walking on Legos hurts more than walking on fire or ice (2018)](https://www.smithsonianmag.com/science-nature/why-walking-legos-hurts-more-walking-fire-or-ice-180970784/)
 * [2022-07-06, 15:34:17](https://news.ycombinator.com/item?id=32002486) - [Flânerie: The Art of Aimless Strolling](https://www.samwoolfe.com/2022/06/flanerie-the-art-of-aimless-strolling.html)
+* [2022-07-06, 15:05:52](https://news.ycombinator.com/item?id=32002069) - [Mission Pharo Kernel (2016) [pdf]](http://www.esug.org/data/ESUG2016/04-Thursday/1000-1030%20Mission%20Pharo%20Kernel/2016-08-25-Mission-Pharo-Bootstrap-ESUG-2016.pdf)
 * [2022-07-06, 15:05:05](https://news.ycombinator.com/item?id=32002057) - [Python 3.11 is 25% faster than 3.10 on average](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
 * [2022-07-06, 14:56:29](https://news.ycombinator.com/item?id=32001933) - [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
 * [2022-07-06, 14:48:43](https://news.ycombinator.com/item?id=32001817) - [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
