@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 22:20:38](https://news.ycombinator.com/item?id=32028298) - [America Faces a Housing Bust](https://www.wsj.com/articles/america-faces-a-housing-bust-11655826309)
 * [2022-07-08, 21:55:56](https://news.ycombinator.com/item?id=32027855) - [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
 * [2022-07-08, 21:55:09](https://news.ycombinator.com/item?id=32027841) - [Lion's mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
 * [2022-07-08, 21:37:55](https://news.ycombinator.com/item?id=32027542) - [Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
