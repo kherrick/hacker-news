@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-08, 09:17:49](https://news.ycombinator.com/item?id=32024716) - [Former PM Abe Shinzo dies after being shot](https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/)
-* [2022-07-08, 09:06:28](https://news.ycombinator.com/item?id=32024647) - [Former Japan Prime Minister Shinzo Abe Dies After Being Shot](https://www.japantimes.co.jp/news/2022/07/08/national/shinzo-abe-dead-nara-shooting/)
 * [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:25:12](https://news.ycombinator.com/item?id=32023863) - [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News was down](https://hackernews.onlineornot.com)
@@ -22,6 +21,7 @@
 * [2022-07-07, 19:04:58](https://news.ycombinator.com/item?id=32017941) - [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
 * [2022-07-07, 19:03:12](https://news.ycombinator.com/item?id=32017919) - [Theranos former president found guilty on all fraud counts](https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410)
 * [2022-07-07, 16:53:09](https://news.ycombinator.com/item?id=32016391) - [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
+* [2022-07-07, 16:34:31](https://news.ycombinator.com/item?id=32016142) - [Meshtastic is an encrypted communications platform for the Lora RF protocol](https://meshtastic.org/docs/about)
 * [2022-07-07, 12:45:11](https://news.ycombinator.com/item?id=32013330) - [Show HN: PocketBase – Open Source realtime backend in one file](https://github.com/pocketbase/pocketbase)
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
 * [2022-07-07, 06:10:09](https://news.ycombinator.com/item?id=32010490) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
