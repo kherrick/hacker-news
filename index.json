@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-07-08, 20:57:59",
+      "https://news.ycombinator.com/item?id=32026975"
+    ],
+    [
+      "Plutonium isotopes in the North Western Pacific sediments found",
+      "https://www.nature.com/articles/s41598-022-14179-w"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 20:53:19",
+      "https://news.ycombinator.com/item?id=32026908"
+    ],
+    [
+      "Cruise’s Robot Car Outages Are Jamming Up San Francisco",
+      "https://www.wired.com/story/cruises-robot-car-outages/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 20:48:02",
+      "https://news.ycombinator.com/item?id=32026829"
+    ],
+    [
+      "Vangelis’ film score for Blade Runner",
+      "http://www.nemostudios.co.uk/bladerunner/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 20:45:57",
+      "https://news.ycombinator.com/item?id=32026782"
+    ],
+    [
+      "Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment",
+      "https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and"
+    ]
+  ],
+  [
+    [
       "2022-07-08, 20:44:05",
       "https://news.ycombinator.com/item?id=32026745"
     ],
     [
-      "The U.S. May Be Losing the Fight Against Monkeypox, Scientists Say",
+      "The U.S. may be losing the fight against monkeypox, scientists say",
       "https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html"
     ]
   ],
@@ -17,6 +57,16 @@
     [
       "Google proposes moving ad business to Alphabet to keep regulators at bay",
       "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 20:38:32",
+      "https://news.ycombinator.com/item?id=32026663"
+    ],
+    [
+      "Amazon has a book piracy problem",
+      "https://twitter.com/fchollet/status/1545477267932864512"
     ]
   ],
   [
@@ -91,12 +141,12 @@
   ],
   [
     [
-      "2022-07-08, 09:17:49",
-      "https://news.ycombinator.com/item?id=32024716"
+      "2022-07-08, 09:31:55",
+      "https://news.ycombinator.com/item?id=32024804"
     ],
     [
-      "Former PM Abe Shinzo dies after being shot",
-      "https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/"
+      "ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams",
+      "https://github.com/asciitosvg/asciitosvg"
     ]
   ],
   [
@@ -131,42 +181,12 @@
   ],
   [
     [
-      "2022-07-08, 00:38:51",
-      "https://news.ycombinator.com/item?id=32021584"
-    ],
-    [
-      "Walking Venice",
-      "https://craigmod.com/ridgeline/144/"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 00:00:13",
-      "https://news.ycombinator.com/item?id=32021299"
-    ],
-    [
-      "NimSkull: A Hard Fork of Nim",
-      "https://github.com/nim-works/nimskull"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 23:55:58",
       "https://news.ycombinator.com/item?id=32021269"
     ],
     [
       "Markov Chat Bot Disaster Story",
       "https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 21:57:42",
-      "https://news.ycombinator.com/item?id=32020055"
-    ],
-    [
-      "Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat",
-      "https://element.io/blog/element-launches-chatterbox/"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2022-07-07, 16:53:09",
-      "https://news.ycombinator.com/item?id=32016391"
-    ],
-    [
-      "Shader-like holographic effects with CSS",
-      "https://robbowen.digital/wrote-about/css-blend-mode-shaders/"
-    ]
-  ],
-  [
-    [
-      "2022-07-07, 12:45:11",
-      "https://news.ycombinator.com/item?id=32013330"
-    ],
-    [
-      "Show HN: PocketBase – Open Source realtime backend in one file",
-      "https://github.com/pocketbase/pocketbase"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 11:06:00",
       "https://news.ycombinator.com/item?id=32012478"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-07-06, 17:01:32",
-      "https://news.ycombinator.com/item?id=32003756"
+      "2022-07-06, 16:23:25",
+      "https://news.ycombinator.com/item?id=32003198"
     ],
     [
-      "Apple previews Lockdown Mode",
-      "https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"
+      "Picbreeder",
+      "https://nbenko1.github.io/"
     ]
   ],
   [
