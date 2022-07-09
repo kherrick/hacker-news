@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-08](index.md)
 
+* [2022-07-08, 23:54:38](https://news.ycombinator.com/item?id=32029625) - [Show HN: Find out where your supplements are made & sourced](https://shop.nootritious.com/)
 * [2022-07-08, 23:54:26](https://news.ycombinator.com/item?id=32029621) - [Perovskite-silicon solar cells break 30% efficiency barrier](https://newatlas.com/energy/perovskite-silicon-solar-cells-30-percent-efficiency-record/)
 * [2022-07-08, 23:36:19](https://news.ycombinator.com/item?id=32029405) - [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
 * [2022-07-08, 23:10:40](https://news.ycombinator.com/item?id=32029033) - [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
