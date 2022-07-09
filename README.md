@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) Is Hiring a Research Engineer to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+* [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
@@ -13,7 +14,6 @@
 * [2022-07-09, 16:47:52](https://news.ycombinator.com/item?id=32036899) - [What Is Qubes OS?](https://www.qubes-os.org/intro/)
 * [2022-07-09, 16:41:31](https://news.ycombinator.com/item?id=32036825) - [No antibiotics worked, so this woman turned to phage scientists](https://edition.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html)
 * [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
-* [2022-07-09, 16:14:51](https://news.ycombinator.com/item?id=32036496) - [Permaculture Magazine: Seeds (2014) [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
 * [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great read I've come across, compiled into a knowledge graph](https://prashantbarahi.com.np/knowledge-graph)
 * [2022-07-09, 15:53:35](https://news.ycombinator.com/item?id=32036224) - [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 * [2022-07-09, 15:39:51](https://news.ycombinator.com/item?id=32036054) - [Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
@@ -27,8 +27,8 @@
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Show HN: Maze Generation Visualization](https://github.com/pakastin/maze)
 * [2022-07-09, 08:04:10](https://news.ycombinator.com/item?id=32032961) - [A simple mess](https://idiomdrottning.org/a-simple-mess)
 * [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis (1997)](http://www.mackido.com/Interface/hysteresis.html)
+* [2022-07-08, 10:24:54](https://news.ycombinator.com/item?id=32025211) - [Agiler: An Adaptive Heterogeneous Tile-Based Many-Core Arch for RISC-V](https://ieeexplore.ieee.org/document/9759395)
 * [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
-* [2022-07-07, 12:01:44](https://news.ycombinator.com/item?id=32012901) - [International Slide Rule Museum](https://sliderulemuseum.com/)
 * [2022-07-07, 09:01:55](https://news.ycombinator.com/item?id=32011548) - [Electret](https://en.wikipedia.org/wiki/Electret)
 
 ## [Archives](archives/index.md)
