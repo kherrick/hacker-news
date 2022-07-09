@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-08, 23:54:26",
+      "https://news.ycombinator.com/item?id=32029621"
+    ],
+    [
+      "Perovskite-silicon solar cells break 30% efficiency barrier",
+      "https://newatlas.com/energy/perovskite-silicon-solar-cells-30-percent-efficiency-record/"
+    ]
+  ],
+  [
+    [
       "2022-07-08, 23:36:19",
       "https://news.ycombinator.com/item?id=32029405"
     ],
@@ -17,16 +27,6 @@
     [
       "Switzerland Moves Ahead with Underground Autonomous Cargo Delivery",
       "https://spectrum.ieee.org/cargo-sous-terrain"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 23:04:02",
-      "https://news.ycombinator.com/item?id=32028945"
-    ],
-    [
-      "Ask HN: What's your experience with working M1 and M2 Macs?",
-      "https://news.ycombinator.com/item?id=32028945"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "OCRmyPDF: Add an OCR text layer to scanned PDF file",
       "https://ocrmypdf.readthedocs.io/en/latest/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 22:47:10",
-      "https://news.ycombinator.com/item?id=32028700"
-    ],
-    [
-      "The danger of license plate readers in post-Roe America",
-      "https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A Surprising Side of Carl Sagan",
       "https://nautil.us/a-surprising-side-of-carl-sagan-21446/"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 09:49:34",
+      "https://news.ycombinator.com/item?id=32011842"
+    ],
+    [
+      "Ruffle: WebAssembly Flash Player Emulator",
+      "https://ruffle.rs/demo/"
     ]
   ],
   [
