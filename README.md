@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
+* [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
@@ -12,7 +14,6 @@
 * [2022-07-09, 05:25:07](https://news.ycombinator.com/item?id=32032029) - [Programming Fonts](https://www.programmingfonts.org/)
 * [2022-07-09, 04:24:06](https://news.ycombinator.com/item?id=32031649) - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
-* [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard (2007)](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-09, 01:09:05](https://news.ycombinator.com/item?id=32030227) - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
 * [2022-07-08, 23:54:38](https://news.ycombinator.com/item?id=32029625) - [Show HN: Find out where your supplements are made & sourced](https://shop.nootritious.com/)
@@ -20,7 +21,6 @@
 * [2022-07-08, 22:50:59](https://news.ycombinator.com/item?id=32028752) - [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 * [2022-07-08, 21:55:56](https://news.ycombinator.com/item?id=32027855) - [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
-* [2022-07-08, 21:13:02](https://news.ycombinator.com/item?id=32027177) - [Show HN: Wiby is now free software](https://github.com/wibyweb/wiby)
 * [2022-07-08, 20:55:57](https://news.ycombinator.com/item?id=32026951) - [Bad UI is causing people to get scammed](https://ashlan.com/blog/bad-ui-is-causing-people-to-get-scammed/)
 * [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How do dolphins choose their name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
