@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 22:04:34](https://news.ycombinator.com/item?id=32039705) - [Apple, Google’s Mobile Browser Dominance to Be Investigated](https://24leak.com/2022/07/06/apple-googles-mobile-browser-dominance-to-be-investigated-says-uk-watchdog-cma/)
 * [2022-07-09, 21:51:58](https://news.ycombinator.com/item?id=32039626) - [Dead after Tesla drives into back of parked semi at FL rest stop](https://www.orlandosentinel.com/news/florida/os-ne-tesla-crash-into-parked-semi-florida-i75-rest-stop-2-dead-20220707-mdr35dzr6bgczm5y6ylb5dusj4-story.html)
 * [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) Is Hiring a Research Engineer to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
