@@ -36,6 +36,7 @@
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-08, 20:35:27](https://news.ycombinator.com/item?id=32026624) - [Atomicwrites' old versions have been purged from PyPI](https://github.com/untitaker/python-atomicwrites/issues/61)
+* [2022-07-08, 20:31:58](https://news.ycombinator.com/item?id=32026576) - [Shadows of Rushmore: South Dakota’s Campaign to Host the United Nations (2020)](https://99percentinvisible.org/article/shadows-of-rushmore-south-dakotas-bold-campaign-to-host-the-united-nations/)
 * [2022-07-08, 20:30:55](https://news.ycombinator.com/item?id=32026571) - [HN Is Up Again](https://news.ycombinator.com/item?id=32026571)
 * [2022-07-08, 17:55:59](https://news.ycombinator.com/item?id=32026566) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-07-08, 12:03:57](https://news.ycombinator.com/item?id=32026041) - [Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
