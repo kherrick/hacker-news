@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) Is Hiring a Research Engineer to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 * [2022-07-09, 19:31:48](https://news.ycombinator.com/item?id=32038475) - [Spearphishing: It can happen to you too](https://xeiaso.net/blog/spearphishing)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
