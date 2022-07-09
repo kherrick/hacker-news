@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
+* [2022-07-09, 04:24:06](https://news.ycombinator.com/item?id=32031649) - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
 * [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:11:18](https://news.ycombinator.com/item?id=32031174) - [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)

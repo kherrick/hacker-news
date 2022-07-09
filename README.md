@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
+* [2022-07-09, 04:24:06](https://news.ycombinator.com/item?id=32031649) - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
 * [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard (2007)](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:11:18](https://news.ycombinator.com/item?id=32031174) - [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)
@@ -7,7 +9,6 @@
 * [2022-07-09, 01:33:16](https://news.ycombinator.com/item?id=32030400) - [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
 * [2022-07-09, 01:09:14](https://news.ycombinator.com/item?id=32030229) - [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
 * [2022-07-09, 01:09:05](https://news.ycombinator.com/item?id=32030227) - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
-* [2022-07-09, 00:45:32](https://news.ycombinator.com/item?id=32030108) - [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
 * [2022-07-09, 00:21:48](https://news.ycombinator.com/item?id=32029901) - [Show HN: I made a MIDI tool to teach me piano](https://github.com/ZaneH/piano-trainer)
 * [2022-07-08, 23:54:38](https://news.ycombinator.com/item?id=32029625) - [Show HN: Find out where your supplements are made & sourced](https://shop.nootritious.com/)
 * [2022-07-08, 23:10:40](https://news.ycombinator.com/item?id=32029033) - [Switzerland moves ahead with underground autonomous cargo delivery](https://spectrum.ieee.org/cargo-sous-terrain)
@@ -23,7 +24,6 @@
 * [2022-07-08, 20:37:11](https://news.ycombinator.com/item?id=32026647) - [APL and Array Programming](https://forums.fast.ai/t/apl-array-programming/97188)
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
-* [2022-07-08, 20:30:55](https://news.ycombinator.com/item?id=32026571) - [HN is up again](https://news.ycombinator.com/item?id=32026571)
 * [2022-07-08, 17:55:59](https://news.ycombinator.com/item?id=32026566) - [Flexport Is Still Hiring](https://flexport.com/careers)
 * [2022-07-07, 14:14:57](https://news.ycombinator.com/item?id=32014382) - [Clinically clean lenses are destroying what makes cameras special](https://www.thephoblographer.com/2022/07/06/clinically-clean-lenses-are-destroying-what-makes-cameras-special/)
 * [2022-07-07, 13:27:16](https://news.ycombinator.com/item?id=32013796) - [How we searched before search (2017)](https://thehistoryoftheweb.com/how-we-searched-before-search/)
