@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
+* [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
@@ -26,7 +27,6 @@
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
 * [2022-07-08, 20:52:51](https://news.ycombinator.com/item?id=32026898) - [Forget the Hype, “Thinking Machines” Can’t Replace Humans](https://mindmatters.ai/2022/07/marks-forget-the-hype-thinking-machines-cant-replace-humans/)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
-* [2022-07-08, 01:38:20](https://news.ycombinator.com/item?id=32022015) - [Americans still think they can make money flipping houses](https://www.cbsnews.com/news/homeownership-not-the-wealth-builder-many-americans-think-it-is/)
 * [2022-07-08, 00:10:18](https://news.ycombinator.com/item?id=32021374) - [Historical language records show surge of cognitive distortion in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118)
 * [2022-07-07, 10:27:50](https://news.ycombinator.com/item?id=32012175) - [Designing a Better Pricing Page](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/)
 * [2022-07-06, 19:11:12](https://news.ycombinator.com/item?id=32005421) - [Why roller coaster loops aren’t circular anymore](https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force)
