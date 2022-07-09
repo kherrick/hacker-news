@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 03:11:18](https://news.ycombinator.com/item?id=32031174) - [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-09, 01:33:16](https://news.ycombinator.com/item?id=32030400) - [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
 * [2022-07-09, 01:09:14](https://news.ycombinator.com/item?id=32030229) - [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
@@ -29,7 +30,6 @@
 * [2022-07-07, 13:27:16](https://news.ycombinator.com/item?id=32013796) - [How we searched before search (2017)](https://thehistoryoftheweb.com/how-we-searched-before-search/)
 * [2022-07-07, 09:49:34](https://news.ycombinator.com/item?id=32011842) - [Ruffle: WebAssembly Flash Player Emulator](https://ruffle.rs/demo/)
 * [2022-07-06, 19:11:12](https://news.ycombinator.com/item?id=32005421) - [Why roller coaster loops aren’t circular anymore](https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force)
-* [2022-07-06, 03:03:26](https://news.ycombinator.com/item?id=31996231) - [A Madman’s Guide to Wagner](https://thecritic.co.uk/a-madmans-guide-to-wagner/)
 
 ## [Archives](archives/index.md)
 
