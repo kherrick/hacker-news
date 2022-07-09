@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-09, 15:44:11](https://news.ycombinator.com/item?id=32036104) - [Texas Freedom Caucus Warns of Illegality for Companies Funding Employee Abortion](https://texasscorecard.com/state/texas-house-freedom-caucus-warns-of-illegality-for-companies-funding-employee-abortions/)
+* [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
+* [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great reads I've ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
+* [2022-07-09, 16:11:21](https://news.ycombinator.com/item?id=32036464) - [Microsoft begins “Extinguish” phase of dealing with Open Source](https://lunduke.substack.com/p/microsoft-begins-extinguish-phase)
 * [2022-07-09, 15:39:51](https://news.ycombinator.com/item?id=32036054) - [Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
 * [2022-07-09, 15:22:34](https://news.ycombinator.com/item?id=32035875) - [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
 * [2022-07-09, 14:55:21](https://news.ycombinator.com/item?id=32035633) - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
@@ -8,9 +10,9 @@
 * [2022-07-09, 14:27:53](https://news.ycombinator.com/item?id=32035413) - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:43:06](https://news.ycombinator.com/item?id=32035003) - [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
-* [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 * [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
+* [2022-07-09, 12:26:45](https://news.ycombinator.com/item?id=32034403) - [Negatypes in Python: A type that is not some type](https://www.hillelwayne.com/negatypes/)
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
@@ -27,9 +29,7 @@
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
-* [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-08, 00:10:18](https://news.ycombinator.com/item?id=32021374) - [Historical language records show surge of cognitive distortion in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118)
-* [2022-07-06, 19:11:12](https://news.ycombinator.com/item?id=32005421) - [Why roller coaster loops aren’t circular anymore](https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force)
 
 ## [Archives](archives/index.md)
 

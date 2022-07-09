@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
+* [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great reads I've ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
+* [2022-07-09, 16:11:21](https://news.ycombinator.com/item?id=32036464) - [Microsoft begins “Extinguish” phase of dealing with Open Source](https://lunduke.substack.com/p/microsoft-begins-extinguish-phase)
 * [2022-07-09, 15:44:11](https://news.ycombinator.com/item?id=32036104) - [Texas Freedom Caucus Warns of Illegality for Companies Funding Employee Abortion](https://texasscorecard.com/state/texas-house-freedom-caucus-warns-of-illegality-for-companies-funding-employee-abortions/)
 * [2022-07-09, 15:39:51](https://news.ycombinator.com/item?id=32036054) - [Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
 * [2022-07-09, 15:22:34](https://news.ycombinator.com/item?id=32035875) - [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
@@ -16,6 +19,7 @@
 * [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 * [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
+* [2022-07-09, 12:26:45](https://news.ycombinator.com/item?id=32034403) - [Negatypes in Python: A type that is not some type](https://www.hillelwayne.com/negatypes/)
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
