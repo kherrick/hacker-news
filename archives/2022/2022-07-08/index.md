@@ -46,6 +46,7 @@
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
 * [2022-07-08, 10:49:28](https://news.ycombinator.com/item?id=32025402) - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
 * [2022-07-08, 10:24:54](https://news.ycombinator.com/item?id=32025211) - [Agiler: An Adaptive Heterogeneous Tile-Based Many-Core Arch for RISC-V](https://ieeexplore.ieee.org/document/9759395)
+* [2022-07-08, 10:19:57](https://news.ycombinator.com/item?id=32025172) - [Work on what matters](https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29)
 * [2022-07-08, 09:51:17](https://news.ycombinator.com/item?id=32024955) - [Heads Up: Microsoft to Ban Commercial Open Source from App Store](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/)
 * [2022-07-08, 09:49:10](https://news.ycombinator.com/item?id=32024935) - [PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
 * [2022-07-08, 09:41:32](https://news.ycombinator.com/item?id=32024882) - [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
