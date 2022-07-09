@@ -40,6 +40,7 @@
 * [2022-07-07, 15:01:34](https://news.ycombinator.com/item?id=32014969) - [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
 * [2022-07-07, 14:44:40](https://news.ycombinator.com/item?id=32014754) - [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
 * [2022-07-07, 14:35:45](https://news.ycombinator.com/item?id=32014658) - [Ask HN: Resources on learning System Design (back end/data engineering)?](https://news.ycombinator.com/item?id=32014658)
+* [2022-07-07, 14:14:57](https://news.ycombinator.com/item?id=32014382) - [Clinically clean lenses are destroying what makes cameras special](https://www.thephoblographer.com/2022/07/06/clinically-clean-lenses-are-destroying-what-makes-cameras-special/)
 * [2022-07-07, 13:40:43](https://news.ycombinator.com/item?id=32013949) - [Ask HN: Is attitude more important than knowledge?](https://news.ycombinator.com/item?id=32013949)
 * [2022-07-07, 13:27:16](https://news.ycombinator.com/item?id=32013796) - [How we searched before search (2017)](https://thehistoryoftheweb.com/how-we-searched-before-search/)
 * [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed Is the Standard Text Editor](https://wiki.c2.com/?EdIsTheStandardTextEditor)
