@@ -62,6 +62,7 @@
 * [2022-07-09, 07:53:28](https://news.ycombinator.com/item?id=32032913) - [Markdeep](https://casual-effects.com/markdeep/)
 * [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis in UI Elements](http://www.mackido.com/Interface/hysteresis.html)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2022-07-09, 06:45:30](https://news.ycombinator.com/item?id=32032517) - [Cissbury Ring: Neolithic flint-mines in the digital age](https://the-past.com/feature/cissbury-ring-neolithic-flint-mines-in-the-digital-age/)
 * [2022-07-09, 05:59:24](https://news.ycombinator.com/item?id=32032257) - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
 * [2022-07-09, 05:25:07](https://news.ycombinator.com/item?id=32032029) - [Programming Fonts](https://www.programmingfonts.org/)

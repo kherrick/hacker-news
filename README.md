@@ -25,7 +25,7 @@
 * [2022-07-09, 12:57:06](https://news.ycombinator.com/item?id=32034643) - [The dark side of Shopify](https://twitter.com/mattzollerseitz/status/1541994356521013248)
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 * [2022-07-09, 10:24:20](https://news.ycombinator.com/item?id=32033632) - [Fun with lifetime-extended results of assignment](https://quuxplusone.github.io/blog/2022/07/09/lifetime-extended-assignments/)
-* [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis (1997)](http://www.mackido.com/Interface/hysteresis.html)
+* [2022-07-09, 06:45:30](https://news.ycombinator.com/item?id=32032517) - [Cissbury Ring: Neolithic flint-mines in the digital age](https://the-past.com/feature/cissbury-ring-neolithic-flint-mines-in-the-digital-age/)
 * [2022-07-08, 10:24:54](https://news.ycombinator.com/item?id=32025211) - [Agiler: An adaptive heterogeneous tile-based many-core arch for RISC-V](https://ieeexplore.ieee.org/document/9759395)
 * [2022-07-08, 10:19:57](https://news.ycombinator.com/item?id=32025172) - [Work on what matters](https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29)
 * [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
