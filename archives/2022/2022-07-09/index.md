@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
@@ -11,6 +12,7 @@
 * [2022-07-09, 17:42:08](https://news.ycombinator.com/item?id=32037489) - [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
 * [2022-07-09, 17:29:28](https://news.ycombinator.com/item?id=32037363) - [The ‘70s toy that faked A.I. with an 8-Track](https://www.youtube.com/watch?v=amuRIydCoJk)
 * [2022-07-09, 17:29:02](https://news.ycombinator.com/item?id=32037356) - [Monitoring Tiny Web Services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
+* [2022-07-09, 17:20:19](https://news.ycombinator.com/item?id=32037254) - [Neko: A History of a Software Pet](https://eliotakira.com/neko/)
 * [2022-07-09, 17:15:58](https://news.ycombinator.com/item?id=32037207) - [Oxide Builds Servers](https://changelog.com/podcast/496)
 * [2022-07-09, 17:07:41](https://news.ycombinator.com/item?id=32037120) - [Crypto-Assets and Decentralized Finance Through a Financial Stability Lens](https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm)
 * [2022-07-09, 17:05:38](https://news.ycombinator.com/item?id=32037105) - [Childhood antibiotics as a risk factor for Crohn's disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9218523/)
