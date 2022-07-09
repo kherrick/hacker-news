@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 17:15:58](https://news.ycombinator.com/item?id=32037207) - [Oxide Builds Servers](https://changelog.com/podcast/496)
+* [2022-07-09, 17:05:38](https://news.ycombinator.com/item?id=32037105) - [Childhood antibiotics as a risk factor for Crohn's disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9218523/)
 * [2022-07-09, 17:01:08](https://news.ycombinator.com/item?id=32037058) - [OneSignal (YC S11) Is Hiring Product Engineers](https://onesignal.com/careers)
+* [2022-07-09, 16:47:52](https://news.ycombinator.com/item?id=32036899) - [What Is Qubes OS?](https://www.qubes-os.org/intro/)
 * [2022-07-09, 16:41:31](https://news.ycombinator.com/item?id=32036825) - [No antibiotics worked, so this woman turned to a natural enemy of bacteria](https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e)
+* [2022-07-09, 16:32:36](https://news.ycombinator.com/item?id=32036712) - [NumPy `__contains__` Is Absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
 * [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
 * [2022-07-09, 16:14:51](https://news.ycombinator.com/item?id=32036496) - [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
 * [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great reads I've ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
