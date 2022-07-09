@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 17:01:08](https://news.ycombinator.com/item?id=32037058) - [OneSignal (YC S11) Is Hiring Product Engineers](https://onesignal.com/careers)
+* [2022-07-09, 16:41:31](https://news.ycombinator.com/item?id=32036825) - [No antibiotics worked, so this woman turned to a natural enemy of bacteria](https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e)
 * [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
+* [2022-07-09, 16:14:51](https://news.ycombinator.com/item?id=32036496) - [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
 * [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great reads I've ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
 * [2022-07-09, 16:11:21](https://news.ycombinator.com/item?id=32036464) - [Microsoft begins “Extinguish” phase of dealing with Open Source](https://lunduke.substack.com/p/microsoft-begins-extinguish-phase)
 * [2022-07-09, 15:44:11](https://news.ycombinator.com/item?id=32036104) - [Texas Freedom Caucus Warns of Illegality for Companies Funding Employee Abortion](https://texasscorecard.com/state/texas-house-freedom-caucus-warns-of-illegality-for-companies-funding-employee-abortions/)
@@ -12,6 +15,7 @@
 * [2022-07-09, 15:22:34](https://news.ycombinator.com/item?id=32035875) - [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
 * [2022-07-09, 14:55:21](https://news.ycombinator.com/item?id=32035633) - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
 * [2022-07-09, 14:51:50](https://news.ycombinator.com/item?id=32035603) - [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
+* [2022-07-09, 14:46:09](https://news.ycombinator.com/item?id=32035569) - [Money Stuff – Elon's Out](https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out)
 * [2022-07-09, 14:43:31](https://news.ycombinator.com/item?id=32035538) - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 * [2022-07-09, 14:27:53](https://news.ycombinator.com/item?id=32035413) - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
