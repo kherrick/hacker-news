@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
+* [2022-07-09, 05:25:07](https://news.ycombinator.com/item?id=32032029) - [Programming Fonts](https://www.programmingfonts.org/)
 * [2022-07-09, 04:24:06](https://news.ycombinator.com/item?id=32031649) - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
 * [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard (2007)](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
@@ -25,7 +26,6 @@
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-07, 14:16:33](https://news.ycombinator.com/item?id=32014406) - [Axial name highlighting](https://amitp.blogspot.com/2022/07/axial-name-highlighting.html)
-* [2022-07-07, 14:14:57](https://news.ycombinator.com/item?id=32014382) - [Clinically clean lenses are destroying what makes cameras special](https://www.thephoblographer.com/2022/07/06/clinically-clean-lenses-are-destroying-what-makes-cameras-special/)
 * [2022-07-07, 13:27:16](https://news.ycombinator.com/item?id=32013796) - [How we searched before search (2017)](https://thehistoryoftheweb.com/how-we-searched-before-search/)
 * [2022-07-07, 10:27:50](https://news.ycombinator.com/item?id=32012175) - [Designing a Better Pricing Page](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/)
 * [2022-07-07, 09:49:34](https://news.ycombinator.com/item?id=32011842) - [Ruffle: WebAssembly Flash Player Emulator](https://ruffle.rs/demo/)
