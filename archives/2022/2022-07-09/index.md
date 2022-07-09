@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
 * [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
+* [2022-07-09, 19:31:48](https://news.ycombinator.com/item?id=32038475) - [Spearphishing: It can happen to you too](https://xeiaso.net/blog/spearphishing)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
@@ -43,6 +44,7 @@
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
 * [2022-07-09, 10:41:31](https://news.ycombinator.com/item?id=32033724) - [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
+* [2022-07-09, 10:24:20](https://news.ycombinator.com/item?id=32033632) - [Fun with lifetime-extended results of assignment](https://quuxplusone.github.io/blog/2022/07/09/lifetime-extended-assignments/)
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
 * [2022-07-09, 09:14:52](https://news.ycombinator.com/item?id=32033299) - [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
 * [2022-07-09, 08:55:43](https://news.ycombinator.com/item?id=32033208) - [Understanding and optimizing persistent memory allocation (2020) [pdf]](https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf)
