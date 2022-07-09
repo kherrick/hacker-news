@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
+* [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis in UI Elements](http://www.mackido.com/Interface/hysteresis.html)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-07-09, 05:59:24](https://news.ycombinator.com/item?id=32032257) - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
@@ -19,10 +21,8 @@
 * [2022-07-08, 21:55:56](https://news.ycombinator.com/item?id=32027855) - [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
 * [2022-07-08, 21:13:02](https://news.ycombinator.com/item?id=32027177) - [Show HN: Wiby is now free software](https://github.com/wibyweb/wiby)
-* [2022-07-08, 20:57:59](https://news.ycombinator.com/item?id=32026975) - [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 * [2022-07-08, 20:55:57](https://news.ycombinator.com/item?id=32026951) - [Bad UI is causing people to get scammed](https://ashlan.com/blog/bad-ui-is-causing-people-to-get-scammed/)
 * [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How do dolphins choose their name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
-* [2022-07-08, 20:37:11](https://news.ycombinator.com/item?id=32026647) - [APL and Array Programming](https://forums.fast.ai/t/apl-array-programming/97188)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-08, 00:10:18](https://news.ycombinator.com/item?id=32021374) - [Historical language records show surge of cognitive distortion in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118)
 * [2022-07-07, 17:35:45](https://news.ycombinator.com/item?id=32016940) - [In Search of Us by Lucy Moore review – the first anthropologists, warts and all](https://www.theguardian.com/books/2022/jul/01/in-search-of-us-adventures-in-anthropology-lucy-moore-review)
