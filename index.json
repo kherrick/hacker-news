@@ -1,22 +1,72 @@
 [
   [
     [
-      "2022-07-08, 23:54:26",
-      "https://news.ycombinator.com/item?id=32029621"
+      "2022-07-09, 01:33:16",
+      "https://news.ycombinator.com/item?id=32030400"
     ],
     [
-      "Perovskite-silicon solar cells break 30% efficiency barrier",
-      "https://newatlas.com/energy/perovskite-silicon-solar-cells-30-percent-efficiency-record/"
+      "HN Moved from M5 to AWS",
+      "https://news.ycombinator.com/item?id=32030400"
     ]
   ],
   [
     [
-      "2022-07-08, 23:36:19",
-      "https://news.ycombinator.com/item?id=32029405"
+      "2022-07-09, 01:09:14",
+      "https://news.ycombinator.com/item?id=32030229"
     ],
     [
-      "Ask HN: HN is gone, now what?",
-      "https://news.ycombinator.com/item?id=32029405"
+      "Arizona makes it illegal for bystanders to record cops at close range",
+      "https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 01:09:05",
+      "https://news.ycombinator.com/item?id=32030227"
+    ],
+    [
+      "Einstein-Bohr debate settled once and for all",
+      "https://scottaaronson.blog/?p=6541"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 00:45:32",
+      "https://news.ycombinator.com/item?id=32030108"
+    ],
+    [
+      "FCC orders carriers to stop delivering auto warranty robocalls",
+      "https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 00:27:09",
+      "https://news.ycombinator.com/item?id=32029952"
+    ],
+    [
+      "Trust in news collapses to historic low",
+      "https://www.axios.com/2022/07/08/news-republicans-democrats-trust-partisanship"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 00:21:48",
+      "https://news.ycombinator.com/item?id=32029901"
+    ],
+    [
+      "Show HN: I made a MIDI tool to teach me piano",
+      "https://github.com/ZaneH/piano-trainer"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 23:54:38",
+      "https://news.ycombinator.com/item?id=32029625"
+    ],
+    [
+      "Show HN: Find out where your supplements are made & sourced",
+      "https://shop.nootritious.com/"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2022-07-08, 21:37:55",
-      "https://news.ycombinator.com/item?id=32027542"
-    ],
-    [
-      "Linux Sucks 2022",
-      "https://lunduke.substack.com/p/linux-sucks-2022"
-    ]
-  ],
-  [
-    [
       "2022-07-08, 21:24:56",
       "https://news.ycombinator.com/item?id=32027341"
     ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-07-08, 21:02:05",
-      "https://news.ycombinator.com/item?id=32027051"
-    ],
-    [
-      "Boeing CEO says planemaker could be forced to cancel 737 Max 10",
-      "https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-plane-maker-could-be-forced-cancel-737-max-10-aviation-week-2022-07-07/"
-    ]
-  ],
-  [
-    [
       "2022-07-08, 20:57:59",
       "https://news.ycombinator.com/item?id=32026975"
     ],
@@ -127,16 +157,6 @@
     [
       "Bad UI is causing people to get scammed",
       "https://ashlan.com/blog/bad-ui-is-causing-people-to-get-scammed/"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 20:53:19",
-      "https://news.ycombinator.com/item?id=32026908"
-    ],
-    [
-      "Cruise’s Robot Car Outages Are Jamming Up San Francisco",
-      "https://www.wired.com/story/cruises-robot-car-outages/"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment",
       "https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 20:39:16",
-      "https://news.ycombinator.com/item?id=32026680"
-    ],
-    [
-      "Google proposes moving ad business to Alphabet to keep regulators at bay",
-      "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-07-07, 11:06:00",
-      "https://news.ycombinator.com/item?id=32012478"
-    ],
-    [
-      "A Surprising Side of Carl Sagan",
-      "https://nautil.us/a-surprising-side-of-carl-sagan-21446/"
-    ]
-  ],
-  [
-    [
       "2022-07-07, 09:49:34",
       "https://news.ycombinator.com/item?id=32011842"
     ],
@@ -271,32 +271,32 @@
   ],
   [
     [
-      "2022-07-07, 07:00:54",
-      "https://news.ycombinator.com/item?id=32010750"
+      "2022-07-07, 05:28:18",
+      "https://news.ycombinator.com/item?id=32010238"
     ],
     [
-      "Scaling Causal's Spreadsheet Engine: From Maps to Arrays",
-      "https://sirupsen.com/causal"
+      "The Great Venusian Bug Hunt",
+      "https://www.centauri-dreams.org/2022/07/05/the-great-venusian-bug-hunt/"
     ]
   ],
   [
     [
-      "2022-07-06, 15:05:52",
-      "https://news.ycombinator.com/item?id=32002069"
+      "2022-07-06, 19:11:12",
+      "https://news.ycombinator.com/item?id=32005421"
     ],
     [
-      "Mission Pharo Kernel (2016) [pdf]",
-      "http://www.esug.org/data/ESUG2016/04-Thursday/1000-1030%20Mission%20Pharo%20Kernel/2016-08-25-Mission-Pharo-Bootstrap-ESUG-2016.pdf"
+      "Why roller coaster loops aren’t circular anymore",
+      "https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force"
     ]
   ],
   [
     [
-      "2022-07-06, 10:09:54",
-      "https://news.ycombinator.com/item?id=31998877"
+      "2022-07-06, 03:03:26",
+      "https://news.ycombinator.com/item?id=31996231"
     ],
     [
-      "Is your phone ruining your memory? A report on the rise of ‘digital amnesia’",
-      "https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia"
+      "A Madman’s Guide to Wagner",
+      "https://thecritic.co.uk/a-madmans-guide-to-wagner/"
     ]
   ]
 ]
