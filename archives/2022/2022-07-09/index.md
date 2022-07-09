@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 23:21:26](https://news.ycombinator.com/item?id=32040251) - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
 * [2022-07-09, 22:52:28](https://news.ycombinator.com/item?id=32040087) - [Long term high-fat diet expands waistline and shrinks brain](https://unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/)
 * [2022-07-09, 22:04:34](https://news.ycombinator.com/item?id=32039705) - [Apple, Google’s Mobile Browser Dominance to Be Investigated](https://24leak.com/2022/07/06/apple-googles-mobile-browser-dominance-to-be-investigated-says-uk-watchdog-cma/)
 * [2022-07-09, 21:51:58](https://news.ycombinator.com/item?id=32039626) - [Dead after Tesla drives into back of parked semi at FL rest stop](https://www.orlandosentinel.com/news/florida/os-ne-tesla-crash-into-parked-semi-florida-i75-rest-stop-2-dead-20220707-mdr35dzr6bgczm5y6ylb5dusj4-story.html)
