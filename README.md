@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 * [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
@@ -19,7 +20,6 @@
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
 * [2022-07-09, 05:25:07](https://news.ycombinator.com/item?id=32032029) - [Programming Fonts](https://www.programmingfonts.org/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
-* [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard (2007)](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-09, 01:09:05](https://news.ycombinator.com/item?id=32030227) - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
 * [2022-07-08, 23:54:38](https://news.ycombinator.com/item?id=32029625) - [Show HN: Find out where your supplements are made & sourced](https://shop.nootritious.com/)
