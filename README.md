@@ -10,7 +10,7 @@
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best radios to use in an emergency (2021)](https://plannedemergency.com/best-radios-for-emergency-use/)
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
 * [2022-07-09, 07:53:28](https://news.ycombinator.com/item?id=32032913) - [Markdeep](https://casual-effects.com/markdeep/)
-* [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis in UI Elements (1999)](http://www.mackido.com/Interface/hysteresis.html)
+* [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis (1997)](http://www.mackido.com/Interface/hysteresis.html)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-07-09, 05:59:24](https://news.ycombinator.com/item?id=32032257) - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
@@ -27,8 +27,8 @@
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-08, 01:38:20](https://news.ycombinator.com/item?id=32022015) - [Americans still think they can make money flipping houses](https://www.cbsnews.com/news/homeownership-not-the-wealth-builder-many-americans-think-it-is/)
 * [2022-07-08, 00:10:18](https://news.ycombinator.com/item?id=32021374) - [Historical language records show surge of cognitive distortion in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118)
+* [2022-07-07, 22:00:24](https://news.ycombinator.com/item?id=32020093) - [Behind Closed Doors: The Lives and Relationships of William and Jane Morris](https://www.historytoday.com/archive/review/behind-closed-doors)
 * [2022-07-07, 10:27:50](https://news.ycombinator.com/item?id=32012175) - [Designing a Better Pricing Page](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/)
-* [2022-07-07, 09:49:34](https://news.ycombinator.com/item?id=32011842) - [Ruffle: WebAssembly Flash Player Emulator](https://ruffle.rs/demo/)
 * [2022-07-06, 19:11:12](https://news.ycombinator.com/item?id=32005421) - [Why roller coaster loops aren’t circular anymore](https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force)
 
 ## [Archives](archives/index.md)
