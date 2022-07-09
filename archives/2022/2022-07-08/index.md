@@ -68,4 +68,5 @@
 * [2022-07-08, 01:16:53](https://news.ycombinator.com/item?id=32021852) - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [2022-07-08, 01:00:12](https://news.ycombinator.com/item?id=32021736) - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
 * [2022-07-08, 00:38:51](https://news.ycombinator.com/item?id=32021584) - [Walking Venice](https://craigmod.com/ridgeline/144/)
+* [2022-07-08, 00:10:18](https://news.ycombinator.com/item?id=32021374) - [Historical language records show surge of cognitive distortion in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118)
 * [2022-07-08, 00:00:13](https://news.ycombinator.com/item?id=32021299) - [NimSkull: A Hard Fork of Nim](https://github.com/nim-works/nimskull)
