@@ -25,6 +25,7 @@
 * [2022-07-08, 20:57:59](https://news.ycombinator.com/item?id=32026975) - [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 * [2022-07-08, 20:55:57](https://news.ycombinator.com/item?id=32026951) - [Bad UI is causing people to get scammed](https://ashlan.com/blog/bad-ui-is-causing-people-to-get-scammed/)
 * [2022-07-08, 20:53:19](https://news.ycombinator.com/item?id=32026908) - [Cruise’s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
+* [2022-07-08, 20:52:51](https://news.ycombinator.com/item?id=32026898) - [Forget the Hype, “Thinking Machines” Can’t Replace Humans](https://mindmatters.ai/2022/07/marks-forget-the-hype-thinking-machines-cant-replace-humans/)
 * [2022-07-08, 20:49:12](https://news.ycombinator.com/item?id=32026841) - [Is the United States Exceptional?](https://acoup.blog/2022/07/08/collections-is-the-united-states-exceptional/)
 * [2022-07-08, 20:48:02](https://news.ycombinator.com/item?id=32026829) - [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
 * [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How Do Dolphins Choose Their Name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
