@@ -55,6 +55,7 @@
 * [2022-07-07, 10:51:04](https://news.ycombinator.com/item?id=32012352) - [Explaining Ethereum's consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
 * [2022-07-07, 10:37:11](https://news.ycombinator.com/item?id=32012263) - [Zuckerberg: ‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
 * [2022-07-07, 10:27:16](https://news.ycombinator.com/item?id=32012171) - [Body Margin 8px](https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner)
+* [2022-07-07, 09:49:34](https://news.ycombinator.com/item?id=32011842) - [Ruffle: WebAssembly Flash Player Emulator](https://ruffle.rs/demo/)
 * [2022-07-07, 09:37:14](https://news.ycombinator.com/item?id=32011766) - [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
 * [2022-07-07, 09:07:55](https://news.ycombinator.com/item?id=32011583) - [On the Disassembly Line](https://www.lrb.co.uk/the-paper/v44/n13/katrina-forrester/on-the-disassembly-line)
 * [2022-07-07, 08:45:39](https://news.ycombinator.com/item?id=32011439) - [Ask HN: What's is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
