@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) Is Hiring a Research Engineer to Help Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-* [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
@@ -29,6 +28,7 @@
 * [2022-07-09, 08:04:10](https://news.ycombinator.com/item?id=32032961) - [A simple mess](https://idiomdrottning.org/a-simple-mess)
 * [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis (1997)](http://www.mackido.com/Interface/hysteresis.html)
 * [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
+* [2022-07-07, 12:01:44](https://news.ycombinator.com/item?id=32012901) - [International Slide Rule Museum](https://sliderulemuseum.com/)
 * [2022-07-07, 09:01:55](https://news.ycombinator.com/item?id=32011548) - [Electret](https://en.wikipedia.org/wiki/Electret)
 
 ## [Archives](archives/index.md)
