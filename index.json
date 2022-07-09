@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-07-09, 17:42:08",
+      "https://news.ycombinator.com/item?id=32037489"
+    ],
+    [
+      "Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions",
+      "https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 17:29:28",
       "https://news.ycombinator.com/item?id=32037363"
     ],
@@ -107,16 +117,6 @@
     [
       "No antibiotics worked, so this woman turned to a natural enemy of bacteria",
       "https://edition.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 16:32:36",
-      "https://news.ycombinator.com/item?id=32036712"
-    ],
-    [
-      "Numpy is absurd",
-      "https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2022-07-09, 05:41:04",
-      "https://news.ycombinator.com/item?id=32032134"
-    ],
-    [
-      "AutoRegex",
-      "https://www.autoregex.xyz"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 05:25:07",
       "https://news.ycombinator.com/item?id=32032029"
     ],
     [
       "Programming Fonts",
       "https://www.programmingfonts.org/"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 07:27:04",
+      "https://news.ycombinator.com/item?id=32023881"
+    ],
+    [
+      "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
+      "https://github.com/ZaneH/piano-trainer"
     ]
   ],
   [
