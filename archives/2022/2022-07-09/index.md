@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
+* [2022-07-09, 17:47:27](https://news.ycombinator.com/item?id=32037543) - [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
 * [2022-07-09, 17:29:02](https://news.ycombinator.com/item?id=32037356) - [Monitoring Tiny Web Services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
 * [2022-07-09, 17:15:58](https://news.ycombinator.com/item?id=32037207) - [Oxide Builds Servers](https://changelog.com/podcast/496)
 * [2022-07-09, 17:07:41](https://news.ycombinator.com/item?id=32037120) - [Crypto-Assets and Decentralized Finance Through a Financial Stability Lens](https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm)
