@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 14:55:21](https://news.ycombinator.com/item?id=32035633) - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
+* [2022-07-09, 14:51:50](https://news.ycombinator.com/item?id=32035603) - [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
+* [2022-07-09, 14:43:31](https://news.ycombinator.com/item?id=32035538) - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:43:06](https://news.ycombinator.com/item?id=32035003) - [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
 * [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)

@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 14:55:21](https://news.ycombinator.com/item?id=32035633) - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
+* [2022-07-09, 14:51:50](https://news.ycombinator.com/item?id=32035603) - [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
+* [2022-07-09, 14:43:31](https://news.ycombinator.com/item?id=32035538) - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:43:06](https://news.ycombinator.com/item?id=32035003) - [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
 * [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
@@ -14,7 +17,6 @@
 * [2022-07-09, 08:55:43](https://news.ycombinator.com/item?id=32033208) - [Understanding and optimizing persistent memory allocation (2020) [pdf]](https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf)
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best radios to use in an emergency (2021)](https://plannedemergency.com/best-radios-for-emergency-use/)
-* [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
 * [2022-07-09, 07:53:28](https://news.ycombinator.com/item?id=32032913) - [Markdeep](https://casual-effects.com/markdeep/)
 * [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis (1997)](http://www.mackido.com/Interface/hysteresis.html)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
@@ -26,8 +28,6 @@
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-09, 01:09:05](https://news.ycombinator.com/item?id=32030227) - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
 * [2022-07-08, 21:24:56](https://news.ycombinator.com/item?id=32027341) - [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
-* [2022-07-08, 20:52:51](https://news.ycombinator.com/item?id=32026898) - [Forget the Hype, “Thinking Machines” Can’t Replace Humans](https://mindmatters.ai/2022/07/marks-forget-the-hype-thinking-machines-cant-replace-humans/)
-* [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
 * [2022-07-08, 00:10:18](https://news.ycombinator.com/item?id=32021374) - [Historical language records show surge of cognitive distortion in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118)
 * [2022-07-06, 19:11:12](https://news.ycombinator.com/item?id=32005421) - [Why roller coaster loops aren’t circular anymore](https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force)
 
