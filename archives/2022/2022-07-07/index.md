@@ -25,6 +25,7 @@
 * [2022-07-07, 19:03:12](https://news.ycombinator.com/item?id=32017919) - [Theranos Former President ‘Sunny’ Balwani Found Guilty on All 12 Fraud Counts](https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410)
 * [2022-07-07, 18:37:19](https://news.ycombinator.com/item?id=32017684) - [“Why I'm Giving Up Tenure at UCLA”](https://www.commonsense.news/p/why-im-giving-up-tenure-at-ucla)
 * [2022-07-07, 17:49:55](https://news.ycombinator.com/item?id=32017113) - [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
+* [2022-07-07, 17:35:45](https://news.ycombinator.com/item?id=32016940) - [In Search of Us by Lucy Moore review – the first anthropologists, warts and all](https://www.theguardian.com/books/2022/jul/01/in-search-of-us-adventures-in-anthropology-lucy-moore-review)
 * [2022-07-07, 17:22:46](https://news.ycombinator.com/item?id=32016759) - [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
 * [2022-07-07, 17:01:10](https://news.ycombinator.com/item?id=32016488) - [Inversion Space (YC S21) Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
 * [2022-07-07, 17:00:47](https://news.ycombinator.com/item?id=32016484) - [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
