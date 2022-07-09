@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
-* [2022-07-09, 09:14:52](https://news.ycombinator.com/item?id=32033299) - [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
@@ -13,6 +12,7 @@
 * [2022-07-09, 05:25:07](https://news.ycombinator.com/item?id=32032029) - [Programming Fonts](https://www.programmingfonts.org/)
 * [2022-07-09, 04:24:06](https://news.ycombinator.com/item?id=32031649) - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
+* [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard (2007)](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-09, 01:09:05](https://news.ycombinator.com/item?id=32030227) - [Einstein-Bohr debate settled once and for all](https://scottaaronson.blog/?p=6541)
 * [2022-07-08, 23:54:38](https://news.ycombinator.com/item?id=32029625) - [Show HN: Find out where your supplements are made & sourced](https://shop.nootritious.com/)
