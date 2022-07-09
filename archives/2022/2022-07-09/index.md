@@ -47,6 +47,7 @@
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
+* [2022-07-09, 08:04:10](https://news.ycombinator.com/item?id=32032961) - [A Simple Mess](https://idiomdrottning.org/a-simple-mess)
 * [2022-07-09, 07:53:28](https://news.ycombinator.com/item?id=32032913) - [Markdeep](https://casual-effects.com/markdeep/)
 * [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis in UI Elements](http://www.mackido.com/Interface/hysteresis.html)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
