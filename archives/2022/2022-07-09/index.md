@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 15:22:34](https://news.ycombinator.com/item?id=32035875) - [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
 * [2022-07-09, 14:55:21](https://news.ycombinator.com/item?id=32035633) - [Ask HN: How would you bootstrap a telco? (re: Rogers outage)](https://news.ycombinator.com/item?id=32035633)
 * [2022-07-09, 14:51:50](https://news.ycombinator.com/item?id=32035603) - [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
 * [2022-07-09, 14:43:31](https://news.ycombinator.com/item?id=32035538) - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
