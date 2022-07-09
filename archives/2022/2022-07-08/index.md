@@ -65,6 +65,7 @@
 * [2022-07-08, 02:23:07](https://news.ycombinator.com/item?id=32022312) - [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 * [2022-07-08, 01:55:41](https://news.ycombinator.com/item?id=32022138) - [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
 * [2022-07-08, 01:39:22](https://news.ycombinator.com/item?id=32022023) - [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
+* [2022-07-08, 01:38:20](https://news.ycombinator.com/item?id=32022015) - [Americans still think they can make money flipping houses](https://www.cbsnews.com/news/homeownership-not-the-wealth-builder-many-americans-think-it-is/)
 * [2022-07-08, 01:19:16](https://news.ycombinator.com/item?id=32021868) - [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
 * [2022-07-08, 01:16:53](https://news.ycombinator.com/item?id=32021852) - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [2022-07-08, 01:00:12](https://news.ycombinator.com/item?id=32021736) - [Etleap (YC W13) Is Hiring Software Engineer – London](https://etleap.com/jobs/#software-engineer)
