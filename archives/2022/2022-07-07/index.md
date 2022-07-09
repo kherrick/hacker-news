@@ -41,6 +41,7 @@
 * [2022-07-07, 14:44:40](https://news.ycombinator.com/item?id=32014754) - [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
 * [2022-07-07, 14:35:45](https://news.ycombinator.com/item?id=32014658) - [Ask HN: Resources on learning System Design (back end/data engineering)?](https://news.ycombinator.com/item?id=32014658)
 * [2022-07-07, 13:40:43](https://news.ycombinator.com/item?id=32013949) - [Ask HN: Is attitude more important than knowledge?](https://news.ycombinator.com/item?id=32013949)
+* [2022-07-07, 13:27:16](https://news.ycombinator.com/item?id=32013796) - [How we searched before search (2017)](https://thehistoryoftheweb.com/how-we-searched-before-search/)
 * [2022-07-07, 13:25:43](https://news.ycombinator.com/item?id=32013779) - [Ed Is the Standard Text Editor](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 * [2022-07-07, 13:07:37](https://news.ycombinator.com/item?id=32013591) - [The Code the FBI Used to Wiretap the World](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
 * [2022-07-07, 12:48:18](https://news.ycombinator.com/item?id=32013367) - [Tesorio (YC S15) Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
