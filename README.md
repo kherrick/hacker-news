@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
 * [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:11:18](https://news.ycombinator.com/item?id=32031174) - [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
@@ -17,7 +18,6 @@
 * [2022-07-08, 21:13:02](https://news.ycombinator.com/item?id=32027177) - [Show HN: Wiby is now free software](https://github.com/wibyweb/wiby)
 * [2022-07-08, 20:57:59](https://news.ycombinator.com/item?id=32026975) - [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 * [2022-07-08, 20:55:57](https://news.ycombinator.com/item?id=32026951) - [Bad UI is causing people to get scammed](https://ashlan.com/blog/bad-ui-is-causing-people-to-get-scammed/)
-* [2022-07-08, 20:48:02](https://news.ycombinator.com/item?id=32026829) - [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
 * [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How do dolphins choose their name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
 * [2022-07-08, 20:45:57](https://news.ycombinator.com/item?id=32026782) - [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
 * [2022-07-08, 20:37:11](https://news.ycombinator.com/item?id=32026647) - [APL and Array Programming](https://forums.fast.ai/t/apl-array-programming/97188)
