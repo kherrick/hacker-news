@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-09, 17:15:58",
+      "https://news.ycombinator.com/item?id=32037207"
+    ],
+    [
+      "Oxide Builds Servers",
+      "https://changelog.com/podcast/496"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 17:05:38",
+      "https://news.ycombinator.com/item?id=32037105"
+    ],
+    [
+      "Childhood antibiotics as a risk factor for Crohn's disease",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9218523/"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 17:01:08",
       "https://news.ycombinator.com/item?id=32037058"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2022-07-09, 16:47:52",
+      "https://news.ycombinator.com/item?id=32036899"
+    ],
+    [
+      "What Is Qubes OS?",
+      "https://www.qubes-os.org/intro/"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 16:41:31",
       "https://news.ycombinator.com/item?id=32036825"
     ],
     [
       "No antibiotics worked, so this woman turned to a natural enemy of bacteria",
       "https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 16:32:36",
+      "https://news.ycombinator.com/item?id=32036712"
+    ],
+    [
+      "NumPy `__contains__` Is Absurd",
+      "https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282"
     ]
   ],
   [
@@ -151,26 +191,6 @@
   ],
   [
     [
-      "2022-07-09, 12:26:45",
-      "https://news.ycombinator.com/item?id=32034403"
-    ],
-    [
-      "Negatypes in Python: A type that is not some type",
-      "https://www.hillelwayne.com/negatypes/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 11:44:26",
-      "https://news.ycombinator.com/item?id=32034114"
-    ],
-    [
-      "Few people grasp the amount of effort Daniel Gackle expends running HN (2020)",
-      "https://twitter.com/paulg/status/1282055086433284103"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 11:39:21",
       "https://news.ycombinator.com/item?id=32034076"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-07-09, 08:55:43",
-      "https://news.ycombinator.com/item?id=32033208"
-    ],
-    [
-      "Understanding and optimizing persistent memory allocation (2020) [pdf]",
-      "https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 08:16:43",
       "https://news.ycombinator.com/item?id=32033037"
     ],
@@ -237,16 +247,6 @@
     [
       "Markdeep",
       "https://casual-effects.com/markdeep/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 05:59:24",
-      "https://news.ycombinator.com/item?id=32032257"
-    ],
-    [
-      "Barbie Typewriter (2018)",
-      "https://www.cryptomuseum.com/crypto/mehano/barbie/"
     ]
   ],
   [
