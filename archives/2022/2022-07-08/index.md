@@ -55,6 +55,7 @@
 * [2022-07-08, 09:05:07](https://news.ycombinator.com/item?id=32024638) - [Histography- timeline Using Wikipedia Data](https://histography.io/)
 * [2022-07-08, 08:57:02](https://news.ycombinator.com/item?id=32024585) - [Japanese former prime minister Abe has died](https://www.reuters.com/world/asia-pacific/japanese-former-prime-minister-abe-has-died-nhk-2022-07-08/)
 * [2022-07-08, 07:39:44](https://news.ycombinator.com/item?id=32023980) - [SSH Implementation Comparison](https://ssh-comparison.quendi.de/comparison/cipher.html)
+* [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 * [2022-07-08, 07:25:45](https://news.ycombinator.com/item?id=32023868) - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 * [2022-07-08, 07:25:12](https://news.ycombinator.com/item?id=32023863) - [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [2022-07-08, 07:21:50](https://news.ycombinator.com/item?id=32023848) - [Hacker News Was Down](https://hackernews.onlineornot.com)
