@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 03:30:02](https://news.ycombinator.com/item?id=32031310) - [CompileIt: A Hypercard compiler written in Hypercard](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 * [2022-07-09, 03:11:18](https://news.ycombinator.com/item?id=32031174) - [Datto founder shares thoughts on kaseya acquisition](https://gist.github.com/amcchord/36539ae9af323ed97755e35895dda6ed)
 * [2022-07-09, 03:03:38](https://news.ycombinator.com/item?id=32031131) - [Why BART uses a nonstandard broad gauge](https://www.bart.gov/news/articles/2022/news20220708-2)
 * [2022-07-09, 01:33:16](https://news.ycombinator.com/item?id=32030400) - [Tell HN: HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
@@ -20,7 +21,6 @@
 * [2022-07-08, 20:48:02](https://news.ycombinator.com/item?id=32026829) - [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
 * [2022-07-08, 20:46:49](https://news.ycombinator.com/item?id=32026801) - [How do dolphins choose their name?](https://www.discovermagazine.com/planet-earth/how-do-dolphins-choose-their-name)
 * [2022-07-08, 20:45:57](https://news.ycombinator.com/item?id=32026782) - [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
-* [2022-07-08, 20:38:32](https://news.ycombinator.com/item?id=32026663) - [Amazon has a book piracy problem](https://twitter.com/fchollet/status/1545477267932864512)
 * [2022-07-08, 20:37:11](https://news.ycombinator.com/item?id=32026647) - [APL and Array Programming](https://forums.fast.ai/t/apl-array-programming/97188)
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
