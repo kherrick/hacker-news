@@ -24,7 +24,7 @@
 * [2022-07-08, 20:37:11](https://news.ycombinator.com/item?id=32026647) - [APL and Array Programming](https://forums.fast.ai/t/apl-array-programming/97188)
 * [2022-07-08, 20:36:22](https://news.ycombinator.com/item?id=32026639) - [Ask HN: What'd you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 * [2022-07-08, 20:36:13](https://news.ycombinator.com/item?id=32026637) - [Rogers network outage across Canada hits banks, businesses and consumers](https://www.reuters.com/business/media-telecom/rogers-communications-services-down-thousands-users-downdetector-2022-07-08/)
-* [2022-07-08, 17:55:59](https://news.ycombinator.com/item?id=32026566) - [Flexport Is Still Hiring](https://flexport.com/careers)
+* [2022-07-07, 14:16:33](https://news.ycombinator.com/item?id=32014406) - [Axial name highlighting](https://amitp.blogspot.com/2022/07/axial-name-highlighting.html)
 * [2022-07-07, 14:14:57](https://news.ycombinator.com/item?id=32014382) - [Clinically clean lenses are destroying what makes cameras special](https://www.thephoblographer.com/2022/07/06/clinically-clean-lenses-are-destroying-what-makes-cameras-special/)
 * [2022-07-07, 13:27:16](https://news.ycombinator.com/item?id=32013796) - [How we searched before search (2017)](https://thehistoryoftheweb.com/how-we-searched-before-search/)
 * [2022-07-07, 10:27:50](https://news.ycombinator.com/item?id=32012175) - [Designing a Better Pricing Page](https://www.smashingmagazine.com/2022/07/designing-better-pricing-page/)
