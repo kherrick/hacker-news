@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-07-09, 17:29:02",
+      "https://news.ycombinator.com/item?id=32037356"
+    ],
+    [
+      "Monitoring Tiny Web Services",
+      "https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 17:15:58",
       "https://news.ycombinator.com/item?id=32037207"
     ],
     [
       "Oxide Builds Servers",
       "https://changelog.com/podcast/496"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 17:07:41",
+      "https://news.ycombinator.com/item?id=32037120"
+    ],
+    [
+      "Crypto-Assets and Decentralized Finance Through a Financial Stability Lens",
+      "https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm"
     ]
   ],
   [
@@ -46,7 +66,7 @@
     ],
     [
       "No antibiotics worked, so this woman turned to a natural enemy of bacteria",
-      "https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e"
+      "https://edition.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32036712"
     ],
     [
-      "NumPy `__contains__` Is Absurd",
+      "Numpy is absurd",
       "https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32036496"
     ],
     [
-      "Permaculture Magazine: Seeds [pdf]",
+      "Permaculture Magazine: Seeds (2014) [pdf]",
       "https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf"
     ]
   ],
@@ -111,26 +131,6 @@
   ],
   [
     [
-      "2022-07-09, 14:55:21",
-      "https://news.ycombinator.com/item?id=32035633"
-    ],
-    [
-      "Ask HN: How would you bootstrap a telco? (re: Rogers outage)",
-      "https://news.ycombinator.com/item?id=32035633"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 14:46:09",
-      "https://news.ycombinator.com/item?id=32035569"
-    ],
-    [
-      "Elon’s Out",
-      "https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 14:43:31",
       "https://news.ycombinator.com/item?id=32035538"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32035413"
     ],
     [
-      "Awesome-Selfhosted",
+      "A list of free network services and web applications that can be self-hosted",
       "https://github.com/awesome-selfhosted/awesome-selfhosted"
     ]
   ],
@@ -191,42 +191,12 @@
   ],
   [
     [
-      "2022-07-09, 12:26:45",
-      "https://news.ycombinator.com/item?id=32034403"
-    ],
-    [
-      "Negatypes in Python: A type that is not some type",
-      "https://www.hillelwayne.com/negatypes/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 11:39:21",
-      "https://news.ycombinator.com/item?id=32034076"
-    ],
-    [
-      "The genetic diversity underlying the mating system of shelf fungi",
-      "https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 11:09:19",
       "https://news.ycombinator.com/item?id=32033887"
     ],
     [
       "Amplify UI – Don't just prototype. Connect your UI to the cloud",
       "https://ui.docs.amplify.aws"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 10:41:31",
-      "https://news.ycombinator.com/item?id=32033724"
-    ],
-    [
-      "Reverse-engineering the Apollo spacecraft's FM radio",
-      "http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html"
     ]
   ],
   [
@@ -297,6 +267,36 @@
     [
       "Historical language records show surge of cognitive distortion in recent decades",
       "https://www.pnas.org/doi/10.1073/pnas.2102061118"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 12:01:44",
+      "https://news.ycombinator.com/item?id=32012901"
+    ],
+    [
+      "International Slide Rule Museum (ISRM)",
+      "https://sliderulemuseum.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 09:01:55",
+      "https://news.ycombinator.com/item?id=32011548"
+    ],
+    [
+      "Electret",
+      "https://en.wikipedia.org/wiki/Electret"
+    ]
+  ],
+  [
+    [
+      "2022-07-07, 05:28:18",
+      "https://news.ycombinator.com/item?id=32010238"
+    ],
+    [
+      "The Great Venusian Bug Hunt",
+      "https://www.centauri-dreams.org/2022/07/05/the-great-venusian-bug-hunt/"
     ]
   ]
 ]
