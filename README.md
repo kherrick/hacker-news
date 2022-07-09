@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-09, 22:52:28](https://news.ycombinator.com/item?id=32040087) - [Long term high-fat diet expands waistline and shrinks brain](https://unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/)
 * [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
-* [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
