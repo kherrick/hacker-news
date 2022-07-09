@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
 * [2022-07-09, 10:41:31](https://news.ycombinator.com/item?id=32033724) - [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
 * [2022-07-09, 09:14:52](https://news.ycombinator.com/item?id=32033299) - [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
+* [2022-07-09, 08:55:43](https://news.ycombinator.com/item?id=32033208) - [Understanding and optimizing persistent memory allocation (2020) [pdf]](https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf)
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
