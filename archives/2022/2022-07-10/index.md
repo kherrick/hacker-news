@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 16:07:05](https://news.ycombinator.com/item?id=32045935) - [Data leak reveals how European politicians helped Uber](https://www.bbc.co.uk/news/business-62057321)
 * [2022-07-10, 16:02:56](https://news.ycombinator.com/item?id=32045906) - [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
+* [2022-07-10, 15:48:20](https://news.ycombinator.com/item?id=32045779) - [Triangle Grids in Games](https://kvachev.com/blog/posts/triangular-grid/)
+* [2022-07-10, 15:46:18](https://news.ycombinator.com/item?id=32045763) - [Lichess: The free and open source chess server](https://github.com/lichess-org/)
+* [2022-07-10, 15:43:12](https://news.ycombinator.com/item?id=32045735) - [New Arizona law makes it illegal to film within 8 feet of police](https://www.axios.com/2022/07/08/arizona-law-illegal-film-police-8-feet)
+* [2022-07-10, 15:39:16](https://news.ycombinator.com/item?id=32045704) - [Beginner's Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 * [2022-07-10, 15:03:52](https://news.ycombinator.com/item?id=32045400) - [Spotify doesn't use the Spotify model (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [2022-07-10, 14:59:37](https://news.ycombinator.com/item?id=32045363) - [MIT scientists think they’ve discovered how to fully reverse climate change](https://bgr.com/science/mit-scientists-think-theyve-discovered-how-to-fully-reverse-climate-change/)
 * [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
