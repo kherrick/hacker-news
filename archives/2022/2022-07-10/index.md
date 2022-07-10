@@ -12,6 +12,7 @@
 * [2022-07-10, 18:23:17](https://news.ycombinator.com/item?id=32047380) - [Why Firefox Deserves Its Sad Decline](https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
+* [2022-07-10, 17:14:08](https://news.ycombinator.com/item?id=32046600) - [The first dating app made for developers](https://meetwith.dev)
 * [2022-07-10, 17:08:34](https://news.ycombinator.com/item?id=32046543) - [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
 * [2022-07-10, 16:52:09](https://news.ycombinator.com/item?id=32046381) - [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
 * [2022-07-10, 16:18:09](https://news.ycombinator.com/item?id=32046036) - [Ultra-flat timepiece, the RM UP-01 Ferrari, is 1.75 millimetres thick watch](https://www.richardmille.com/collections/rm-up-01-manual-winding-ultraflat-ferrari)
