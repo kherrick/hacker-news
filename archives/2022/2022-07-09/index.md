@@ -81,6 +81,7 @@
 * [2022-07-09, 07:53:28](https://news.ycombinator.com/item?id=32032913) - [Markdeep](https://casual-effects.com/markdeep/)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan Sued Apple Twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-09, 07:38:35](https://news.ycombinator.com/item?id=32032809) - [Hysteresis in UI Elements](http://www.mackido.com/Interface/hysteresis.html)
+* [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
 * [2022-07-09, 07:04:54](https://news.ycombinator.com/item?id=32032606) - [Today I Deleted Notion](https://twitter.com/tadaspetra/status/1545149403270356992)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)

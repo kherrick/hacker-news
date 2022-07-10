@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 23:20:06](https://news.ycombinator.com/item?id=32050231) - [Educators no longer need a college degree to begin teaching in AZ public schools](https://www.azfamily.com/2022/07/09/educators-no-longer-need-college-degree-begin-teaching-arizona-public-schools/)
 * [2022-07-10, 22:54:39](https://news.ycombinator.com/item?id=32050019) - [Study: Association Between Mask Mandates and Covid Infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
 * [2022-07-10, 22:27:09](https://news.ycombinator.com/item?id=32049780) - [Typewaiter–the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
 * [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
@@ -23,12 +24,11 @@
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
-* [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-09, 13:51:08](https://news.ycombinator.com/item?id=32035074) - [The secret stretch of coastal France that's nicer than Nice](https://edition.cnn.com/travel/article/occitanie-narbonne-france/index.html)
 * [2022-07-09, 11:16:43](https://news.ycombinator.com/item?id=32033925) - [Can the 64 and 128 survive? (1988) [pdf]](https://annarchive.com/files/Compute_Gazette_Issue_59_1988_May.pdf)
-* [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
 * [2022-07-09, 09:33:39](https://news.ycombinator.com/item?id=32033394) - [Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts](https://www.evryca.com/)
 * [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
+* [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
 
 ## [Archives](archives/index.md)
