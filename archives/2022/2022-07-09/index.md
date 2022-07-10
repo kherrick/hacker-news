@@ -50,6 +50,7 @@
 * [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
 * [2022-07-09, 12:57:06](https://news.ycombinator.com/item?id=32034643) - [The dark side of Shopify](https://twitter.com/mattzollerseitz/status/1541994356521013248)
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
+* [2022-07-09, 12:36:35](https://news.ycombinator.com/item?id=32034471) - [A fast accurate code counter with complexity calculations and COCOMO estimates](https://github.com/boyter/scc)
 * [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2022-07-09, 12:26:45](https://news.ycombinator.com/item?id=32034403) - [Negatypes in Python: A type that is not some type](https://www.hillelwayne.com/negatypes/)
 * [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [Ddwfttw (dead downwind faster than the wind) Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
