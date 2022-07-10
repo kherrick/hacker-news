@@ -23,13 +23,13 @@
 * [2022-07-09, 15:53:35](https://news.ycombinator.com/item?id=32036224) - [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 * [2022-07-09, 15:39:51](https://news.ycombinator.com/item?id=32036054) - [Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
 * [2022-07-09, 14:46:09](https://news.ycombinator.com/item?id=32035569) - [Elon’s Out](https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out)
+* [2022-07-09, 14:01:24](https://news.ycombinator.com/item?id=32035160) - [Record-setting quantum entanglement connects two atoms across 20 miles](https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 12:57:06](https://news.ycombinator.com/item?id=32034643) - [The dark side of Shopify](https://twitter.com/mattzollerseitz/status/1541994356521013248)
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-08, 10:28:12](https://news.ycombinator.com/item?id=32025236) - [Memristive, Spintronic, and 2D‐Materials‐Based Devices](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200068)
-* [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 
 ## [Archives](archives/index.md)
 
