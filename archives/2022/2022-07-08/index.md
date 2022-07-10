@@ -45,6 +45,7 @@
 * [2022-07-08, 11:44:23](https://news.ycombinator.com/item?id=32025858) - [Arizona passes law criminalizing recording of police (within 8 ft)](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
 * [2022-07-08, 10:49:28](https://news.ycombinator.com/item?id=32025402) - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
+* [2022-07-08, 10:28:12](https://news.ycombinator.com/item?id=32025236) - [Memristive, Spintronic, and 2D‐Materials‐Based Devices](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200068)
 * [2022-07-08, 10:24:54](https://news.ycombinator.com/item?id=32025211) - [Agiler: An Adaptive Heterogeneous Tile-Based Many-Core Arch for RISC-V](https://ieeexplore.ieee.org/document/9759395)
 * [2022-07-08, 10:19:57](https://news.ycombinator.com/item?id=32025172) - [Work on what matters](https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29)
 * [2022-07-08, 09:51:17](https://news.ycombinator.com/item?id=32024955) - [Heads Up: Microsoft to Ban Commercial Open Source from App Store](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/)

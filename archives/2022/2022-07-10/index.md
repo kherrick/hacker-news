@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 05:28:53](https://news.ycombinator.com/item?id=32042108) - [Skyrim together: mod to play online](https://github.com/tiltedphoques/TiltedEvolution)
+* [2022-07-10, 05:15:24](https://news.ycombinator.com/item?id=32042054) - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 * [2022-07-10, 04:56:13](https://news.ycombinator.com/item?id=32041979) - [Canada’s Federal Police Have Been Using Malware to Snoop on Communication](https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/)
 * [2022-07-10, 03:50:08](https://news.ycombinator.com/item?id=32041676) - [Every Complex Idea Has a Million Stupid Cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
 * [2022-07-10, 03:45:44](https://news.ycombinator.com/item?id=32041656) - [I Don't Want to Shard (MySQL)](https://hackmysql.com/post/book-5/)
