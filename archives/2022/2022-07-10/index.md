@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
 * [2022-07-10, 13:55:56](https://news.ycombinator.com/item?id=32044819) - [The (Fairly Serious) Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
+* [2022-07-10, 13:48:43](https://news.ycombinator.com/item?id=32044754) - [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
 * [2022-07-10, 13:16:29](https://news.ycombinator.com/item?id=32044431) - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
 * [2022-07-10, 12:58:22](https://news.ycombinator.com/item?id=32044296) - [Ask HN: Are you hiking? How old are you and how many kilometers can you Hike?](https://news.ycombinator.com/item?id=32044296)
 * [2022-07-10, 12:10:31](https://news.ycombinator.com/item?id=32043969) - [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)

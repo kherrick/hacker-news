@@ -57,6 +57,7 @@
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
 * [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:41:31](https://news.ycombinator.com/item?id=32033724) - [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
+* [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
 * [2022-07-09, 10:24:20](https://news.ycombinator.com/item?id=32033632) - [Fun with lifetime-extended results of assignment](https://quuxplusone.github.io/blog/2022/07/09/lifetime-extended-assignments/)
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
