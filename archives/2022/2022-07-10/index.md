@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 16:02:56](https://news.ycombinator.com/item?id=32045906) - [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
+* [2022-07-10, 15:03:52](https://news.ycombinator.com/item?id=32045400) - [Spotify doesn't use the Spotify model (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+* [2022-07-10, 14:59:37](https://news.ycombinator.com/item?id=32045363) - [MIT scientists think they’ve discovered how to fully reverse climate change](https://bgr.com/science/mit-scientists-think-theyve-discovered-how-to-fully-reverse-climate-change/)
 * [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
 * [2022-07-10, 13:55:56](https://news.ycombinator.com/item?id=32044819) - [The (Fairly Serious) Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
 * [2022-07-10, 13:48:43](https://news.ycombinator.com/item?id=32044754) - [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
