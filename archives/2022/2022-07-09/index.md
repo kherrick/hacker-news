@@ -62,6 +62,7 @@
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
 * [2022-07-09, 09:14:52](https://news.ycombinator.com/item?id=32033299) - [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
 * [2022-07-09, 08:55:43](https://news.ycombinator.com/item?id=32033208) - [Understanding and optimizing persistent memory allocation (2020) [pdf]](https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf)
+* [2022-07-09, 08:49:29](https://news.ycombinator.com/item?id=32033178) - [How the Chili Pepper Conquered China](https://www.sixthtone.com/news/1007963/how-the-chili-pepper-conquered-china)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic Squash Syndrome](https://en.wikipedia.org/wiki/Cucurbitacin)
 * [2022-07-09, 08:21:12](https://news.ycombinator.com/item?id=32033063) - [When Your Logic Analyzer Can’t Tell Good and Bad Signals Apart](https://hackaday.com/2022/07/09/when-your-logic-analyzer-cant-tell-good-and-bad-signals-apart/)
