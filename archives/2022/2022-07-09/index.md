@@ -60,6 +60,7 @@
 * [2022-07-09, 08:55:43](https://news.ycombinator.com/item?id=32033208) - [Understanding and optimizing persistent memory allocation (2020) [pdf]](https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic Squash Syndrome](https://en.wikipedia.org/wiki/Cucurbitacin)
+* [2022-07-09, 08:21:12](https://news.ycombinator.com/item?id=32033063) - [When Your Logic Analyzer Can’t Tell Good and Bad Signals Apart](https://hackaday.com/2022/07/09/when-your-logic-analyzer-cant-tell-good-and-bad-signals-apart/)
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
