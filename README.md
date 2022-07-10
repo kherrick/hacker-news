@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-10, 13:16:29](https://news.ycombinator.com/item?id=32044431) - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
 * [2022-07-10, 12:58:22](https://news.ycombinator.com/item?id=32044296) - [Ask HN: Are you hiking? How old are you and how many kilometers can you Hike?](https://news.ycombinator.com/item?id=32044296)
 * [2022-07-10, 12:10:31](https://news.ycombinator.com/item?id=32043969) - [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
@@ -19,6 +18,7 @@
 * [2022-07-10, 03:25:12](https://news.ycombinator.com/item?id=32041579) - [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
 * [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 * [2022-07-09, 23:21:26](https://news.ycombinator.com/item?id=32040251) - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
+* [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
 * [2022-07-09, 14:01:24](https://news.ycombinator.com/item?id=32035160) - [Record-setting quantum entanglement connects two atoms across 20 miles](https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
