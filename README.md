@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 22:54:39](https://news.ycombinator.com/item?id=32050019) - [Study: Association Between Mask Mandates and Covid Infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
+* [2022-07-10, 22:27:09](https://news.ycombinator.com/item?id=32049780) - [Typewaiter–the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
 * [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
 * [2022-07-10, 21:53:13](https://news.ycombinator.com/item?id=32049469) - [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
 * [2022-07-10, 21:28:45](https://news.ycombinator.com/item?id=32049237) - [Death, Nothingness, and Subjectivity (1994)](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
@@ -21,10 +23,8 @@
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
-* [2022-07-10, 09:10:32](https://news.ycombinator.com/item?id=32043043) - [FastECC – Reed-Solomon coder computing one million parity blocks at 1 GB/s](https://github.com/Bulat-Ziganshin/FastECC)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-09, 13:51:08](https://news.ycombinator.com/item?id=32035074) - [The secret stretch of coastal France that's nicer than Nice](https://edition.cnn.com/travel/article/occitanie-narbonne-france/index.html)
-* [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 11:16:43](https://news.ycombinator.com/item?id=32033925) - [Can the 64 and 128 survive? (1988) [pdf]](https://annarchive.com/files/Compute_Gazette_Issue_59_1988_May.pdf)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
 * [2022-07-09, 09:33:39](https://news.ycombinator.com/item?id=32033394) - [Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts](https://www.evryca.com/)
