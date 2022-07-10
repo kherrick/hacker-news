@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-10, 03:50:08](https://news.ycombinator.com/item?id=32041676) - [Every Complex Idea Has a Million Stupid Cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
+* [2022-07-10, 03:50:08](https://news.ycombinator.com/item?id=32041676) - [Every complex idea has a million stupid cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
+* [2022-07-10, 03:45:44](https://news.ycombinator.com/item?id=32041656) - [I Don't Want to Shard (MySQL)](https://hackmysql.com/post/book-5/)
 * [2022-07-10, 02:13:30](https://news.ycombinator.com/item?id=32041238) - [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
 * [2022-07-10, 00:16:36](https://news.ycombinator.com/item?id=32040614) - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
 * [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
@@ -26,9 +27,8 @@
 * [2022-07-09, 12:57:06](https://news.ycombinator.com/item?id=32034643) - [The dark side of Shopify](https://twitter.com/mattzollerseitz/status/1541994356521013248)
 * [2022-07-09, 12:54:23](https://news.ycombinator.com/item?id=32034625) - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
-* [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic Squash Syndrome](https://en.wikipedia.org/wiki/Cucurbitacin)
+* [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
-* [2022-07-08, 10:19:57](https://news.ycombinator.com/item?id=32025172) - [Work on what matters](https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29)
 * [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 
 ## [Archives](archives/index.md)
