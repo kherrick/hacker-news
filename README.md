@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-10, 18:23:17](https://news.ycombinator.com/item?id=32047380) - [Why Firefox Deserves Its Sad Decline](https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9)
+* [2022-07-10, 18:47:38](https://news.ycombinator.com/item?id=32047615) - [Green Dogma Behind Fall of Sri Lanka](https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka)
+* [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 * [2022-07-10, 17:08:34](https://news.ycombinator.com/item?id=32046543) - [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
@@ -29,7 +30,6 @@
 * [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
-* [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
 
 ## [Archives](archives/index.md)
 
