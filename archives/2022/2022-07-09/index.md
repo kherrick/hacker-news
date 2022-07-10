@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
+* [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 * [2022-07-09, 23:21:26](https://news.ycombinator.com/item?id=32040251) - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
 * [2022-07-09, 22:52:28](https://news.ycombinator.com/item?id=32040087) - [Long term high-fat diet expands waistline and shrinks brain](https://unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/)
 * [2022-07-09, 22:04:34](https://news.ycombinator.com/item?id=32039705) - [Apple, Google’s Mobile Browser Dominance to Be Investigated](https://24leak.com/2022/07/06/apple-googles-mobile-browser-dominance-to-be-investigated-says-uk-watchdog-cma/)
@@ -52,6 +53,7 @@
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
 * [2022-07-09, 10:41:31](https://news.ycombinator.com/item?id=32033724) - [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
 * [2022-07-09, 10:24:20](https://news.ycombinator.com/item?id=32033632) - [Fun with lifetime-extended results of assignment](https://quuxplusone.github.io/blog/2022/07/09/lifetime-extended-assignments/)
+* [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
 * [2022-07-09, 09:14:52](https://news.ycombinator.com/item?id=32033299) - [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
 * [2022-07-09, 08:55:43](https://news.ycombinator.com/item?id=32033208) - [Understanding and optimizing persistent memory allocation (2020) [pdf]](https://www.cs.rochester.edu/u/scott/papers/2020_ISMM_Ralloc.pdf)
@@ -65,6 +67,7 @@
 * [2022-07-09, 06:45:30](https://news.ycombinator.com/item?id=32032517) - [Cissbury Ring: Neolithic flint-mines in the digital age](https://the-past.com/feature/cissbury-ring-neolithic-flint-mines-in-the-digital-age/)
 * [2022-07-09, 05:59:24](https://news.ycombinator.com/item?id=32032257) - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
+* [2022-07-09, 05:25:12](https://news.ycombinator.com/item?id=32032030) - [How do you respond to a one-character email from your boss's boss's boss? (2018)](https://www.inc.com/bill-murphy-jr/5-years-later-jeff-bezos-just-confirmed-jeff-bezos-question-mark-method-that-scares-heck-out-of-everyone-at-amazon-heres-how-it-works.html)
 * [2022-07-09, 05:25:07](https://news.ycombinator.com/item?id=32032029) - [Programming Fonts](https://www.programmingfonts.org/)
 * [2022-07-09, 04:24:06](https://news.ycombinator.com/item?id=32031649) - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
 * [2022-07-09, 04:15:06](https://news.ycombinator.com/item?id=32031591) - [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
