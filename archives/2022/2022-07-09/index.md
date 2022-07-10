@@ -33,6 +33,7 @@
 * [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
 * [2022-07-09, 16:14:51](https://news.ycombinator.com/item?id=32036496) - [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
 * [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great reads I've ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
+* [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
 * [2022-07-09, 16:11:21](https://news.ycombinator.com/item?id=32036464) - [Microsoft begins “Extinguish” phase of dealing with Open Source](https://lunduke.substack.com/p/microsoft-begins-extinguish-phase)
 * [2022-07-09, 15:53:35](https://news.ycombinator.com/item?id=32036224) - [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 * [2022-07-09, 15:44:11](https://news.ycombinator.com/item?id=32036104) - [Texas Freedom Caucus Warns of Illegality for Companies Funding Employee Abortion](https://texasscorecard.com/state/texas-house-freedom-caucus-warns-of-illegality-for-companies-funding-employee-abortions/)
