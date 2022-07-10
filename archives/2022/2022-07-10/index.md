@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation Delisted, Unplayable Even to Owners Starting Sep. 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
 * [2022-07-10, 21:28:45](https://news.ycombinator.com/item?id=32049237) - [Death, Nothingness, and Subjectivity (1994)](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
+* [2022-07-10, 21:23:51](https://news.ycombinator.com/item?id=32049194) - [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
 * [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
 * [2022-07-10, 20:36:23](https://news.ycombinator.com/item?id=32048734) - [Why Perl is still relevant in 2022](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
 * [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [Field Notice: FN – 70545 – SSD Will Fail at 40k Power-On Hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)

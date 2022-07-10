@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation Delisted, Unplayable Even to Owners Starting Sep. 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
 * [2022-07-10, 21:28:45](https://news.ycombinator.com/item?id=32049237) - [Death, Nothingness, and Subjectivity (1994)](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
+* [2022-07-10, 21:23:51](https://news.ycombinator.com/item?id=32049194) - [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
 * [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
-* [2022-07-10, 20:36:23](https://news.ycombinator.com/item?id=32048734) - [Perl is still relevant](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
 * [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [SSD will fail at 40k power-on hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 * [2022-07-10, 19:01:46](https://news.ycombinator.com/item?id=32047778) - [Microsoft researched what made employees happy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
-* [2022-07-10, 18:57:56](https://news.ycombinator.com/item?id=32047747) - [Show HN: Whatcha – social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 * [2022-07-10, 16:52:09](https://news.ycombinator.com/item?id=32046381) - [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
