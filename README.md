@@ -25,11 +25,11 @@
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [An overview of Kandria's development with Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 05:15:24](https://news.ycombinator.com/item?id=32042054) - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 * [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
-* [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [DDWFTTW Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
 * [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
+* [2022-07-09, 07:04:54](https://news.ycombinator.com/item?id=32032606) - [Today I Deleted Notion](https://twitter.com/tadaspetra/status/1545149403270356992)
 
 ## [Archives](archives/index.md)
 
