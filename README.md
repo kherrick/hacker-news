@@ -2,6 +2,7 @@
 
 * [2022-07-10, 10:59:52](https://news.ycombinator.com/item?id=32043571) - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+* [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
 * [2022-07-10, 09:39:46](https://news.ycombinator.com/item?id=32043191) - [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
 * [2022-07-10, 09:24:33](https://news.ycombinator.com/item?id=32043112) - [Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3](https://github.com/uktrade/mbtiles-s3-server)
 * [2022-07-10, 09:10:32](https://news.ycombinator.com/item?id=32043043) - [FastECC – Reed-Solomon coder computing one million parity blocks at 1 GB/s](https://github.com/Bulat-Ziganshin/FastECC)
@@ -28,7 +29,6 @@
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
-* [2022-07-08, 10:28:12](https://news.ycombinator.com/item?id=32025236) - [Memristive, Spintronic, and 2D‐Materials‐Based Devices](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200068)
 * [2022-07-08, 10:19:57](https://news.ycombinator.com/item?id=32025172) - [Work on what matters](https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29)
 
 ## [Archives](archives/index.md)
