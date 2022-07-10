@@ -10,6 +10,7 @@
 * [2022-07-10, 00:16:36](https://news.ycombinator.com/item?id=32040614) - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
 * [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 * [2022-07-09, 23:21:26](https://news.ycombinator.com/item?id=32040251) - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
+* [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:42:08](https://news.ycombinator.com/item?id=32037489) - [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
@@ -28,7 +29,6 @@
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-08, 11:16:51](https://news.ycombinator.com/item?id=32025638) - [Automakers Are Starting to Drop Am Radio in New Cars](https://www.thedrive.com/news/heres-why-some-automakers-tune-out-am-radios-in-new-cars)
 * [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
-* [2022-07-08, 10:28:12](https://news.ycombinator.com/item?id=32025236) - [Memristive, Spintronic, and 2D‐Materials‐Based Devices](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200068)
 * [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 
 ## [Archives](archives/index.md)
