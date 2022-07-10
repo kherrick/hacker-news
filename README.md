@@ -2,6 +2,7 @@
 
 * [2022-07-10, 04:56:13](https://news.ycombinator.com/item?id=32041979) - [Canada’s Federal Police Have Been Using Malware to Snoop on Communication](https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/)
 * [2022-07-10, 03:50:08](https://news.ycombinator.com/item?id=32041676) - [Every complex idea has a million stupid cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
+* [2022-07-10, 03:25:12](https://news.ycombinator.com/item?id=32041579) - [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
 * [2022-07-10, 02:13:30](https://news.ycombinator.com/item?id=32041238) - [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
 * [2022-07-10, 00:16:36](https://news.ycombinator.com/item?id=32040614) - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
 * [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
@@ -9,7 +10,6 @@
 * [2022-07-09, 21:01:11](https://news.ycombinator.com/item?id=32039262) - [Ivy (YC W23) is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
-* [2022-07-09, 17:48:55](https://news.ycombinator.com/item?id=32037562) - [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
 * [2022-07-09, 17:42:08](https://news.ycombinator.com/item?id=32037489) - [Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions](https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/)
 * [2022-07-09, 17:29:28](https://news.ycombinator.com/item?id=32037363) - [2XL – ‘70s toy that faked AI with an 8-track [video]](https://www.youtube.com/watch?v=amuRIydCoJk)
 * [2022-07-09, 17:29:02](https://news.ycombinator.com/item?id=32037356) - [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
