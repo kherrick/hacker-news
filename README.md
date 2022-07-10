@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 18:23:17](https://news.ycombinator.com/item?id=32047380) - [Why Firefox Deserves Its Sad Decline](https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 * [2022-07-10, 17:08:34](https://news.ycombinator.com/item?id=32046543) - [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
@@ -21,7 +22,6 @@
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
 * [2022-07-10, 09:10:32](https://news.ycombinator.com/item?id=32043043) - [FastECC – Reed-Solomon coder computing one million parity blocks at 1 GB/s](https://github.com/Bulat-Ziganshin/FastECC)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [An overview of Kandria's development with Lisp](https://reader.tymoon.eu/article/413)
-* [2022-07-10, 05:28:53](https://news.ycombinator.com/item?id=32042108) - [Skyrim together: mod to play online](https://github.com/tiltedphoques/TiltedEvolution)
 * [2022-07-10, 05:15:24](https://news.ycombinator.com/item?id=32042054) - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 * [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)

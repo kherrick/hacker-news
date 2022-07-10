@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 18:23:17](https://news.ycombinator.com/item?id=32047380) - [Why Firefox Deserves Its Sad Decline](https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 * [2022-07-10, 17:08:34](https://news.ycombinator.com/item?id=32046543) - [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
