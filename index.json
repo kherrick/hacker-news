@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-10, 09:24:33",
+      "https://news.ycombinator.com/item?id=32043112"
+    ],
+    [
+      "Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3",
+      "https://github.com/uktrade/mbtiles-s3-server"
+    ]
+  ],
+  [
+    [
       "2022-07-10, 06:04:48",
       "https://news.ycombinator.com/item?id=32042254"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2022-07-10, 04:56:13",
+      "https://news.ycombinator.com/item?id=32041979"
+    ],
+    [
+      "Canada’s Federal Police Have Been Using Malware to Snoop on Communication",
+      "https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/"
+    ]
+  ],
+  [
+    [
       "2022-07-10, 03:50:08",
       "https://news.ycombinator.com/item?id=32041676"
     ],
@@ -87,6 +107,16 @@
     [
       "Why do so many brands change their logos and look like everyone else?",
       "https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 23:51:53",
+      "https://news.ycombinator.com/item?id=32040466"
+    ],
+    [
+      "Reading a Profit and Loss Statement",
+      "https://lethain.com/profit-and-loss-statement/"
     ]
   ],
   [
@@ -131,82 +161,22 @@
   ],
   [
     [
-      "2022-07-09, 17:42:08",
-      "https://news.ycombinator.com/item?id=32037489"
-    ],
-    [
-      "Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions",
-      "https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 17:29:28",
-      "https://news.ycombinator.com/item?id=32037363"
-    ],
-    [
-      "2XL – ‘70s toy that faked AI with an 8-track [video]",
-      "https://www.youtube.com/watch?v=amuRIydCoJk"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 17:29:02",
-      "https://news.ycombinator.com/item?id=32037356"
-    ],
-    [
-      "Monitoring tiny web services",
-      "https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 17:15:58",
-      "https://news.ycombinator.com/item?id=32037207"
-    ],
-    [
-      "Oxide builds servers as they should be [audio]",
-      "https://changelog.com/podcast/496"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 17:05:38",
-      "https://news.ycombinator.com/item?id=32037105"
-    ],
-    [
-      "Childhood antibiotics as a risk factor for Crohn's disease: Cohort study",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9218523/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 16:47:52",
-      "https://news.ycombinator.com/item?id=32036899"
-    ],
-    [
-      "What Is Qubes OS?",
-      "https://www.qubes-os.org/intro/"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 16:41:31",
-      "https://news.ycombinator.com/item?id=32036825"
-    ],
-    [
-      "No antibiotics worked, so this woman turned to phage scientists",
-      "https://edition.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 15:53:35",
       "https://news.ycombinator.com/item?id=32036224"
     ],
     [
       "Using GPT-3 to explain how code works",
       "https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 14:46:09",
+      "https://news.ycombinator.com/item?id=32035569"
+    ],
+    [
+      "Elon’s Out",
+      "https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out"
     ]
   ],
   [
@@ -261,12 +231,32 @@
   ],
   [
     [
+      "2022-07-09, 08:21:12",
+      "https://news.ycombinator.com/item?id=32033063"
+    ],
+    [
+      "When Your Logic Analyzer Can’t Tell Good and Bad Signals Apart",
+      "https://hackaday.com/2022/07/09/when-your-logic-analyzer-cant-tell-good-and-bad-signals-apart/"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 07:46:39",
       "https://news.ycombinator.com/item?id=32032867"
     ],
     [
       "When Carl Sagan sued Apple twice (2014)",
       "https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 21:24:56",
+      "https://news.ycombinator.com/item?id=32027341"
+    ],
+    [
+      "Notice of termination of Twitter merger agreement",
+      "https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-07-08, 07:27:04",
-      "https://news.ycombinator.com/item?id=32023881"
+      "2022-07-08, 10:28:12",
+      "https://news.ycombinator.com/item?id=32025236"
     ],
     [
-      "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
-      "https://github.com/ZaneH/piano-trainer"
+      "Memristive, Spintronic, and 2D‐Materials‐Based Devices",
+      "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200068"
+    ]
+  ],
+  [
+    [
+      "2022-07-08, 10:19:57",
+      "https://news.ycombinator.com/item?id=32025172"
+    ],
+    [
+      "Work on what matters",
+      "https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29"
     ]
   ]
 ]
