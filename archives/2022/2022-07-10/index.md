@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
 * [2022-07-10, 18:47:38](https://news.ycombinator.com/item?id=32047615) - [Green Dogma Behind Fall of Sri Lanka](https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka)
+* [2022-07-10, 18:45:42](https://news.ycombinator.com/item?id=32047587) - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:23:17](https://news.ycombinator.com/item?id=32047380) - [Why Firefox Deserves Its Sad Decline](https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
