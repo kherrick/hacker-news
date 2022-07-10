@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 18:57:56](https://news.ycombinator.com/item?id=32047747) - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
 * [2022-07-10, 18:45:42](https://news.ycombinator.com/item?id=32047587) - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
@@ -25,7 +26,6 @@
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [An overview of Kandria's development with Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 05:15:24](https://news.ycombinator.com/item?id=32042054) - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 * [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
-* [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [DDWFTTW Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
 * [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
