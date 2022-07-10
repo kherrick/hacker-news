@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 19:01:46](https://news.ycombinator.com/item?id=32047778) - [Microsoft researched what made employees happy, collaborate less, more autonomy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 * [2022-07-10, 18:57:56](https://news.ycombinator.com/item?id=32047747) - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
 * [2022-07-10, 18:47:38](https://news.ycombinator.com/item?id=32047615) - [Green Dogma Behind Fall of Sri Lanka](https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka)
 * [2022-07-10, 18:45:42](https://news.ycombinator.com/item?id=32047587) - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)

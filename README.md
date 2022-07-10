@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 19:01:46](https://news.ycombinator.com/item?id=32047778) - [Microsoft researched what made employees happy, collaborate less, more autonomy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 * [2022-07-10, 18:57:56](https://news.ycombinator.com/item?id=32047747) - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
 * [2022-07-10, 18:45:42](https://news.ycombinator.com/item?id=32047587) - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
@@ -16,6 +17,7 @@
 * [2022-07-10, 15:43:12](https://news.ycombinator.com/item?id=32045735) - [New Arizona law makes it illegal to film within 8 feet of police](https://www.axios.com/2022/07/08/arizona-law-illegal-film-police-8-feet)
 * [2022-07-10, 15:39:16](https://news.ycombinator.com/item?id=32045704) - [Beginner's Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 * [2022-07-10, 15:37:10](https://news.ycombinator.com/item?id=32045691) - [The Curse of Konzo](https://www.damninteresting.com/the-curse-of-konzo/)
+* [2022-07-10, 14:56:39](https://news.ycombinator.com/item?id=32045339) - [As TikTok grows, so does suspicion](https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver)
 * [2022-07-10, 14:41:10](https://news.ycombinator.com/item?id=32045192) - [Can a Biologist Fix a Radio?](https://www.cell.com/fulltext/S1535-6108(02)00133-2)
 * [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why is there no semantic ontology of sentiment in academic citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
@@ -25,11 +27,9 @@
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [An overview of Kandria's development with Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 05:15:24](https://news.ycombinator.com/item?id=32042054) - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 * [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
-* [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
-* [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [DDWFTTW Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
+* [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
-* [2022-07-09, 07:04:54](https://news.ycombinator.com/item?id=32032606) - [Today I Deleted Notion](https://twitter.com/tadaspetra/status/1545149403270356992)
 
 ## [Archives](archives/index.md)
 
