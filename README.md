@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-10, 11:29:53](https://news.ycombinator.com/item?id=32043728) - [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
 * [2022-07-10, 10:59:52](https://news.ycombinator.com/item?id=32043571) - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
@@ -7,7 +8,6 @@
 * [2022-07-10, 09:24:33](https://news.ycombinator.com/item?id=32043112) - [Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3](https://github.com/uktrade/mbtiles-s3-server)
 * [2022-07-10, 09:10:32](https://news.ycombinator.com/item?id=32043043) - [FastECC – Reed-Solomon coder computing one million parity blocks at 1 GB/s](https://github.com/Bulat-Ziganshin/FastECC)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [An Overview of Kandria's Development with Lisp](https://reader.tymoon.eu/article/413)
-* [2022-07-10, 08:17:47](https://news.ycombinator.com/item?id=32042780) - [Ask HN: Is there a Calibre equivalent for Audio books?](https://news.ycombinator.com/item?id=32042780)
 * [2022-07-10, 06:04:48](https://news.ycombinator.com/item?id=32042254) - [Quantum scientists deliver world’s first integrated circuit at the atomic scale](https://newsroom.unsw.edu.au/news/science-tech/unsw-quantum-scientists-deliver-world%E2%80%99s-first-integrated-circuit-atomic-scale)
 * [2022-07-10, 06:02:55](https://news.ycombinator.com/item?id=32042249) - [Why the world needs a non-profit search engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
 * [2022-07-10, 05:51:52](https://news.ycombinator.com/item?id=32042187) - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
@@ -28,8 +28,8 @@
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
+* [2022-07-08, 11:15:45](https://news.ycombinator.com/item?id=32025628) - [Plaintext HTTP in a Modern World](https://jcs.org/2021/01/06/plaintext)
 * [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
-* [2022-07-08, 10:19:57](https://news.ycombinator.com/item?id=32025172) - [Work on what matters](https://lethain.com/work-on-what-matters/?ref=theslice&utm_source=emailoctopus&utm_medium=email&utm_campaign=Issue%20104%20%28for%207-jul%202022%29)
 
 ## [Archives](archives/index.md)
 

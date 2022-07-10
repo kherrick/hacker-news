@@ -44,6 +44,7 @@
 * [2022-07-08, 11:47:20](https://news.ycombinator.com/item?id=32025882) - [Why we're sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
 * [2022-07-08, 11:44:23](https://news.ycombinator.com/item?id=32025858) - [Arizona passes law criminalizing recording of police (within 8 ft)](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
 * [2022-07-08, 11:16:51](https://news.ycombinator.com/item?id=32025638) - [Automakers Are Starting to Drop Am Radio in New Cars](https://www.thedrive.com/news/heres-why-some-automakers-tune-out-am-radios-in-new-cars)
+* [2022-07-08, 11:15:45](https://news.ycombinator.com/item?id=32025628) - [Plaintext HTTP in a Modern World](https://jcs.org/2021/01/06/plaintext)
 * [2022-07-08, 11:07:07](https://news.ycombinator.com/item?id=32025562) - [Notepad++ v8.4.3: Unhappy Users' Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
 * [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
 * [2022-07-08, 10:49:28](https://news.ycombinator.com/item?id=32025402) - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
