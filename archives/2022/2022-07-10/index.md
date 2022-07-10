@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
 * [2022-07-10, 13:55:56](https://news.ycombinator.com/item?id=32044819) - [The (Fairly Serious) Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
 * [2022-07-10, 13:48:43](https://news.ycombinator.com/item?id=32044754) - [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
 * [2022-07-10, 13:44:58](https://news.ycombinator.com/item?id=32044711) - [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)

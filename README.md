@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-10, 13:48:43](https://news.ycombinator.com/item?id=32044754) - [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
+* [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
 * [2022-07-10, 13:44:58](https://news.ycombinator.com/item?id=32044711) - [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
-* [2022-07-10, 13:16:29](https://news.ycombinator.com/item?id=32044431) - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
@@ -27,6 +26,7 @@
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
 * [2022-07-09, 08:49:29](https://news.ycombinator.com/item?id=32033178) - [How the Chili Pepper Conquered China](https://www.sixthtone.com/news/1007963/how-the-chili-pepper-conquered-china)
+* [2022-07-09, 08:44:00](https://news.ycombinator.com/item?id=32033157) - [When U.S. Air Force discovered the flaw of averages](https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html)
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
