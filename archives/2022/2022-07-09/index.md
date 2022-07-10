@@ -45,6 +45,7 @@
 * [2022-07-09, 14:43:31](https://news.ycombinator.com/item?id=32035538) - [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 * [2022-07-09, 14:27:53](https://news.ycombinator.com/item?id=32035413) - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [2022-07-09, 14:01:24](https://news.ycombinator.com/item?id=32035160) - [Record-setting quantum entanglement connects two atoms across 20 miles](https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/)
+* [2022-07-09, 13:51:08](https://news.ycombinator.com/item?id=32035074) - [The secret stretch of coastal France that's nicer than Nice](https://edition.cnn.com/travel/article/occitanie-narbonne-france/index.html)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:43:06](https://news.ycombinator.com/item?id=32035003) - [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
 * [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)

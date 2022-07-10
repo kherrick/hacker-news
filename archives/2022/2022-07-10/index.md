@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
 * [2022-07-10, 20:36:23](https://news.ycombinator.com/item?id=32048734) - [Why Perl is still relevant in 2022](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
+* [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [Field Notice: FN – 70545 – SSD Will Fail at 40k Power-On Hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 * [2022-07-10, 19:01:46](https://news.ycombinator.com/item?id=32047778) - [Microsoft researched what made employees happy, collaborate less, more autonomy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 * [2022-07-10, 18:57:56](https://news.ycombinator.com/item?id=32047747) - [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
 * [2022-07-10, 18:47:38](https://news.ycombinator.com/item?id=32047615) - [Green Dogma Behind Fall of Sri Lanka](https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka)
 * [2022-07-10, 18:45:42](https://news.ycombinator.com/item?id=32047587) - [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
+* [2022-07-10, 18:44:29](https://news.ycombinator.com/item?id=32047574) - [Oral vancomcyin for primary sclerosing cholangitis](https://thecomicalcolon.com/2022/07/06/aasld-guidance/)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:23:17](https://news.ycombinator.com/item?id=32047380) - [Why Firefox Deserves Its Sad Decline](https://fadingeek.medium.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9)
 * [2022-07-10, 18:10:36](https://news.ycombinator.com/item?id=32047245) - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
