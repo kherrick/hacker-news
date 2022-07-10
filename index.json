@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-07-10, 21:05:55",
+      "https://news.ycombinator.com/item?id=32049036"
+    ],
+    [
+      "BuildZoom (YC W13) is hiring a product manager",
+      "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
       "2022-07-10, 20:36:23",
       "https://news.ycombinator.com/item?id=32048734"
     ],
     [
-      "Why Perl is still relevant in 2022",
+      "Perl is still relevant",
       "https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/"
+    ]
+  ],
+  [
+    [
+      "2022-07-10, 19:36:58",
+      "https://news.ycombinator.com/item?id=32048148"
+    ],
+    [
+      "Field Notice: FN – 70545 – SSD Will Fail at 40k Power-On Hours (2021)",
+      "https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32047778"
     ],
     [
-      "Microsoft researched what made employees happy, collaborate less, more autonomy",
+      "Microsoft researched what made employees happy",
       "https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/"
     ]
   ],
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=32047587"
     ],
     [
-      "Russian Gas Flows to Europe",
+      "Russian gas flows to Europe",
       "https://berthub.eu/gazmon/"
+    ]
+  ],
+  [
+    [
+      "2022-07-10, 18:44:29",
+      "https://news.ycombinator.com/item?id=32047574"
+    ],
+    [
+      "Oral vancomcyin for primary sclerosing cholangitis",
+      "https://thecomicalcolon.com/2022/07/06/aasld-guidance/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Replibyte – Seed your database with real data",
       "https://github.com/Qovery/Replibyte"
-    ]
-  ],
-  [
-    [
-      "2022-07-10, 18:10:36",
-      "https://news.ycombinator.com/item?id=32047245"
-    ],
-    [
-      "Amazon Aurora Supports PostgreSQL 14",
-      "https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-07-10, 16:18:09",
-      "https://news.ycombinator.com/item?id=32046036"
-    ],
-    [
-      "Ultra-flat timepiece, the RM UP-01 Ferrari, is 1.75 millimetres thick watch",
-      "https://www.richardmille.com/collections/rm-up-01-manual-winding-ultraflat-ferrari"
-    ]
-  ],
-  [
-    [
       "2022-07-10, 16:07:02",
       "https://news.ycombinator.com/item?id=32045934"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32045906"
     ],
     [
-      "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
+      "Uber broke laws, duped police and built lobbying operation, leak reveals",
       "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign"
     ]
   ],
@@ -135,18 +145,8 @@
       "https://news.ycombinator.com/item?id=32045779"
     ],
     [
-      "Triangle Grids in Games",
+      "Triangle Grids",
       "https://kvachev.com/blog/posts/triangular-grid/"
-    ]
-  ],
-  [
-    [
-      "2022-07-10, 15:46:18",
-      "https://news.ycombinator.com/item?id=32045763"
-    ],
-    [
-      "Lichess: The free and open source chess server",
-      "https://github.com/lichess-org/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32045704"
     ],
     [
-      "Beginner's Guide to Error Handling in Rust",
+      "Beginner's guide to error handling in Rust",
       "https://www.sheshbabu.com/posts/rust-error-handling/"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-07-09, 13:51:08",
+      "https://news.ycombinator.com/item?id=32035074"
+    ],
+    [
+      "The secret stretch of coastal France that's nicer than Nice",
+      "https://edition.cnn.com/travel/article/occitanie-narbonne-france/index.html"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 13:48:45",
       "https://news.ycombinator.com/item?id=32035054"
     ],
@@ -287,16 +297,6 @@
     [
       "Joseph Weizenbaum's Original Eliza",
       "https://sites.google.com/view/elizagen-org/the-original-eliza"
-    ]
-  ],
-  [
-    [
-      "2022-07-08, 11:02:22",
-      "https://news.ycombinator.com/item?id=32025521"
-    ],
-    [
-      "Books That Changed How I Hear Music",
-      "https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard"
     ]
   ]
 ]
