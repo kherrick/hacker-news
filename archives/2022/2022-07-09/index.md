@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-09](index.md)
 
 * [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+* [2022-07-09, 23:51:53](https://news.ycombinator.com/item?id=32040466) - [Reading a Profit and Loss Statement](https://lethain.com/profit-and-loss-statement/)
 * [2022-07-09, 23:21:26](https://news.ycombinator.com/item?id=32040251) - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
 * [2022-07-09, 22:52:28](https://news.ycombinator.com/item?id=32040087) - [Long term high-fat diet expands waistline and shrinks brain](https://unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/)
 * [2022-07-09, 22:20:23](https://news.ycombinator.com/item?id=32039828) - [Tell HN: Information security audit / consulting is largely a scam industry](https://news.ycombinator.com/item?id=32039828)

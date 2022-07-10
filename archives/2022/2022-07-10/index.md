@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 09:24:33](https://news.ycombinator.com/item?id=32043112) - [Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3](https://github.com/uktrade/mbtiles-s3-server)
 * [2022-07-10, 07:57:34](https://news.ycombinator.com/item?id=32042706) - [“EVs aren't the only answer”: Toyota scientist on the future of cars](https://www.autocar.co.uk/car-news/features/evs-arent-only-answer-toyota-scientist-future-cars)
 * [2022-07-10, 06:04:48](https://news.ycombinator.com/item?id=32042254) - [Quantum scientists deliver world’s first integrated circuit at the atomic scale](https://newsroom.unsw.edu.au/news/science-tech/unsw-quantum-scientists-deliver-world%E2%80%99s-first-integrated-circuit-atomic-scale)
 * [2022-07-10, 06:02:55](https://news.ycombinator.com/item?id=32042249) - [Why the world needs a non-profit search engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
