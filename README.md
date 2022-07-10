@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-10, 16:07:05](https://news.ycombinator.com/item?id=32045935) - [Data leak reveals how European politicians helped Uber](https://www.bbc.co.uk/news/business-62057321)
 * [2022-07-10, 16:02:56](https://news.ycombinator.com/item?id=32045906) - [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
 * [2022-07-10, 15:48:20](https://news.ycombinator.com/item?id=32045779) - [Triangle Grids in Games](https://kvachev.com/blog/posts/triangular-grid/)
 * [2022-07-10, 15:46:18](https://news.ycombinator.com/item?id=32045763) - [Lichess: The free and open source chess server](https://github.com/lichess-org/)
@@ -8,8 +7,8 @@
 * [2022-07-10, 15:39:16](https://news.ycombinator.com/item?id=32045704) - [Beginner's Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 * [2022-07-10, 15:03:52](https://news.ycombinator.com/item?id=32045400) - [Spotify doesn't use the Spotify model (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [2022-07-10, 14:59:37](https://news.ycombinator.com/item?id=32045363) - [MIT scientists think they’ve discovered how to fully reverse climate change](https://bgr.com/science/mit-scientists-think-theyve-discovered-how-to-fully-reverse-climate-change/)
+* [2022-07-10, 14:56:39](https://news.ycombinator.com/item?id=32045339) - [As TikTok grows, so does suspicion](https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver)
 * [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why is there no semantic ontology of sentiment in academic citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
-* [2022-07-10, 13:16:29](https://news.ycombinator.com/item?id=32044431) - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
@@ -26,9 +25,10 @@
 * [2022-07-09, 16:12:48](https://news.ycombinator.com/item?id=32036474) - [Is the Smart Grid All Hot Air?](https://austinvernon.site/blog/smartgrid.html)
 * [2022-07-09, 14:01:24](https://news.ycombinator.com/item?id=32035160) - [Record-setting quantum entanglement connects two atoms across 20 miles](https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
-* [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [Ddwfttw (dead downwind faster than the wind) Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
+* [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [DDWFTTW Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
 * [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)
+* [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-08, 11:02:22](https://news.ycombinator.com/item?id=32025521) - [Books That Changed How I Hear Music](https://tedgioia.substack.com/p/12-books-that-changed-how-i-heard)
 
 ## [Archives](archives/index.md)

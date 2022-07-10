@@ -12,6 +12,7 @@
 * [2022-07-10, 15:39:16](https://news.ycombinator.com/item?id=32045704) - [Beginner's Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 * [2022-07-10, 15:03:52](https://news.ycombinator.com/item?id=32045400) - [Spotify doesn't use the Spotify model (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [2022-07-10, 14:59:37](https://news.ycombinator.com/item?id=32045363) - [MIT scientists think they’ve discovered how to fully reverse climate change](https://bgr.com/science/mit-scientists-think-theyve-discovered-how-to-fully-reverse-climate-change/)
+* [2022-07-10, 14:56:39](https://news.ycombinator.com/item?id=32045339) - [As TikTok grows, so does suspicion](https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver)
 * [2022-07-10, 14:14:29](https://news.ycombinator.com/item?id=32044963) - [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
 * [2022-07-10, 13:55:56](https://news.ycombinator.com/item?id=32044819) - [The (Fairly Serious) Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
 * [2022-07-10, 13:48:43](https://news.ycombinator.com/item?id=32044754) - [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
