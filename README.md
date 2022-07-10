@@ -6,7 +6,6 @@
 * [2022-07-10, 05:28:53](https://news.ycombinator.com/item?id=32042108) - [Skyrim together: mod to play online](https://github.com/tiltedphoques/TiltedEvolution)
 * [2022-07-10, 05:15:24](https://news.ycombinator.com/item?id=32042054) - [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 * [2022-07-10, 04:56:13](https://news.ycombinator.com/item?id=32041979) - [Canada’s Federal Police Have Been Using Malware to Snoop on Communication](https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/)
-* [2022-07-10, 03:50:08](https://news.ycombinator.com/item?id=32041676) - [Every complex idea has a million stupid cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
 * [2022-07-10, 03:25:12](https://news.ycombinator.com/item?id=32041579) - [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
 * [2022-07-09, 23:58:43](https://news.ycombinator.com/item?id=32040506) - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 * [2022-07-09, 23:21:26](https://news.ycombinator.com/item?id=32040251) - [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
@@ -30,6 +29,7 @@
 * [2022-07-09, 08:37:43](https://news.ycombinator.com/item?id=32033136) - [Toxic squash syndrome](https://en.wikipedia.org/wiki/Cucurbitacin#Research_and_toxicity)
 * [2022-07-09, 07:46:39](https://news.ycombinator.com/item?id=32032867) - [When Carl Sagan sued Apple twice (2014)](https://www.engadget.com/2014-02-26-when-carl-sagan-sued-apple-twice.html)
 * [2022-07-08, 10:28:12](https://news.ycombinator.com/item?id=32025236) - [Memristive, Spintronic, and 2D‐Materials‐Based Devices](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200068)
+* [2022-07-08, 07:27:04](https://news.ycombinator.com/item?id=32023881) - [Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI](https://github.com/ZaneH/piano-trainer)
 
 ## [Archives](archives/index.md)
 
