@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
 * [2022-07-10, 23:20:06](https://news.ycombinator.com/item?id=32050231) - [Educators no longer need a college degree to begin teaching in AZ public schools](https://www.azfamily.com/2022/07/09/educators-no-longer-need-college-degree-begin-teaching-arizona-public-schools/)
+* [2022-07-10, 23:10:47](https://news.ycombinator.com/item?id=32050168) - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
 * [2022-07-10, 22:54:39](https://news.ycombinator.com/item?id=32050019) - [Study: Association Between Mask Mandates and Covid Infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
 * [2022-07-10, 22:27:09](https://news.ycombinator.com/item?id=32049780) - [Typewaiter–the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
 * [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation Delisted, Unplayable Even to Owners Starting Sep. 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
