@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-10, 13:55:56](https://news.ycombinator.com/item?id=32044819) - [The (Fairly Serious) Case for Jon Stewart in 2024](https://www.politico.com/news/magazine/2022/07/08/jon-stewart-2024-democrats-00044146)
 * [2022-07-10, 13:48:43](https://news.ycombinator.com/item?id=32044754) - [Liberalism According to The Economist](https://www.newyorker.com/magazine/2019/11/11/liberalism-according-to-the-economist)
+* [2022-07-10, 13:44:58](https://news.ycombinator.com/item?id=32044711) - [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
 * [2022-07-10, 13:16:29](https://news.ycombinator.com/item?id=32044431) - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
 * [2022-07-10, 12:10:31](https://news.ycombinator.com/item?id=32043969) - [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
