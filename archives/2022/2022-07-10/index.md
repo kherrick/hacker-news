@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-10](index.md)
 
+* [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 * [2022-07-10, 17:08:34](https://news.ycombinator.com/item?id=32046543) - [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
 * [2022-07-10, 16:52:09](https://news.ycombinator.com/item?id=32046381) - [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
+* [2022-07-10, 16:11:20](https://news.ycombinator.com/item?id=32045963) - [Plan Composition Using Higher-Order Functions](https://blog.brownplt.org/2022/07/09/plan-comp-hof.html)
 * [2022-07-10, 16:07:05](https://news.ycombinator.com/item?id=32045935) - [Data leak reveals how European politicians helped Uber](https://www.bbc.co.uk/news/business-62057321)
 * [2022-07-10, 16:07:02](https://news.ycombinator.com/item?id=32045934) - [A new trade and liberal arts school: “College of St. Joseph the Worker”](https://www.collegeofstjoseph.com)
 * [2022-07-10, 16:06:19](https://news.ycombinator.com/item?id=32045928) - [Breaking the warp barrier: hyper-fast solitons in Einstein–Maxwell-plasma theory](https://iopscience.iop.org/article/10.1088/1361-6382/abe692)
