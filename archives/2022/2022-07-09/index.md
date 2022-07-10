@@ -54,6 +54,7 @@
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
+* [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:41:31](https://news.ycombinator.com/item?id=32033724) - [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
 * [2022-07-09, 10:24:20](https://news.ycombinator.com/item?id=32033632) - [Fun with lifetime-extended results of assignment](https://quuxplusone.github.io/blog/2022/07/09/lifetime-extended-assignments/)
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
