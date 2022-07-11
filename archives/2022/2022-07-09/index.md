@@ -80,6 +80,7 @@
 * [2022-07-09, 08:21:12](https://news.ycombinator.com/item?id=32033063) - [When Your Logic Analyzer Can’t Tell Good and Bad Signals Apart](https://hackaday.com/2022/07/09/when-your-logic-analyzer-cant-tell-good-and-bad-signals-apart/)
 * [2022-07-09, 08:16:43](https://news.ycombinator.com/item?id=32033037) - [System76 Lemur Pro Linux laptop with 14 hours of battery life](https://system76.com/laptops/lemur)
 * [2022-07-09, 08:11:30](https://news.ycombinator.com/item?id=32033009) - [There are 2¹⁰²⁴ things you can do with a kilobyte](https://twitter.com/johncarlosbaez/status/1545649606440402944)
+* [2022-07-09, 08:11:30](https://news.ycombinator.com/item?id=32033009) - [There are 2¹⁰²⁴ things you can do with a kilobit](https://twitter.com/johncarlosbaez/status/1545818823340613633)
 * [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 08:04:39](https://news.ycombinator.com/item?id=32032964) - [Best Radios to Use in an Emergency](https://plannedemergency.com/best-radios-for-emergency-use/)
 * [2022-07-09, 08:04:17](https://news.ycombinator.com/item?id=32032962) - [Maze Generation Visualization](https://github.com/pakastin/maze)
