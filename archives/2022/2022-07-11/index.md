@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 23:08:13](https://news.ycombinator.com/item?id=32063341) - [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
 * [2022-07-11, 22:47:30](https://news.ycombinator.com/item?id=32063137) - [MedMe Health (YC W21) is hiring a Senior Engineer, in this economy? (Remote)](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
+* [2022-07-11, 22:26:02](https://news.ycombinator.com/item?id=32062863) - [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
 * [2022-07-11, 22:24:04](https://news.ycombinator.com/item?id=32062849) - [Deepest Infrared Image of Universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
 * [2022-07-11, 22:15:57](https://news.ycombinator.com/item?id=32062759) - [Florida police department diverting calls to mental health staff](https://www.newsnationnow.com/solutions/florida-police-dept-diverting-calls-to-mental-health-staff/)
 * [2022-07-11, 21:53:08](https://news.ycombinator.com/item?id=32062482) - [If the News Is Fake, Imagine History](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
