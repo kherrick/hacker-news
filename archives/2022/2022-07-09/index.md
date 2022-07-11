@@ -57,6 +57,7 @@
 * [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2022-07-09, 12:26:45](https://news.ycombinator.com/item?id=32034403) - [Negatypes in Python: A type that is not some type](https://www.hillelwayne.com/negatypes/)
 * [2022-07-09, 12:07:20](https://news.ycombinator.com/item?id=32034269) - [Put That There [video] (1983)](https://www.youtube.com/watch?v=yorT-mGkRi0)
+* [2022-07-09, 12:06:26](https://news.ycombinator.com/item?id=32034259) - [A Virtual Brainfuck Machine in Go (2017)](https://thorstenball.com/blog/2017/01/04/a-virtual-brainfuck-machine-in-go/)
 * [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [Ddwfttw (dead downwind faster than the wind) Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)
 * [2022-07-09, 11:44:26](https://news.ycombinator.com/item?id=32034114) - [Few people grasp the amount of effort Daniel Gackle expends running HN (2020)](https://twitter.com/paulg/status/1282055086433284103)
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
