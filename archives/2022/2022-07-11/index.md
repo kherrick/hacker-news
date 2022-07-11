@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
+* [2022-07-11, 13:35:29](https://news.ycombinator.com/item?id=32055924) - [The first smart mushroom growing device for beginners](https://shrooly.com/)
 * [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
 * [2022-07-11, 13:01:26](https://news.ycombinator.com/item?id=32055600) - [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
 * [2022-07-11, 12:52:13](https://news.ycombinator.com/item?id=32055512) - [Playstation store will remove customer’s purchased movies](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591)
