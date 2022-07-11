@@ -55,6 +55,7 @@
 * [2022-07-10, 11:29:53](https://news.ycombinator.com/item?id=32043728) - [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
 * [2022-07-10, 10:59:52](https://news.ycombinator.com/item?id=32043571) - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+* [2022-07-10, 10:23:41](https://news.ycombinator.com/item?id=32043405) - [Physicists see electron whirlpools for the first time](https://news.mit.edu/2022/electron-whirlpools-physics-0706)
 * [2022-07-10, 09:49:06](https://news.ycombinator.com/item?id=32043235) - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/)
 * [2022-07-10, 09:48:30](https://news.ycombinator.com/item?id=32043229) - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
 * [2022-07-10, 09:39:46](https://news.ycombinator.com/item?id=32043191) - [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
