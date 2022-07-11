@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 15:52:51](https://news.ycombinator.com/item?id=32057776) - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 * [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
 * [2022-07-11, 15:16:52](https://news.ycombinator.com/item?id=32057277) - [The euro and the dollar are a penny away from parity for first time in 20 years](https://lite.cnn.com/en/article/h_f4b589d97a7f20e0df80b08171c82be2)
+* [2022-07-11, 15:08:50](https://news.ycombinator.com/item?id=32057162) - [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
 * [2022-07-11, 15:05:20](https://news.ycombinator.com/item?id=32057116) - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
 * [2022-07-11, 15:04:28](https://news.ycombinator.com/item?id=32057105) - [ProtonMail Is Down](https://protonstatus.com/)
+* [2022-07-11, 14:55:08](https://news.ycombinator.com/item?id=32056969) - [Ask HN: How do you deal with managers/customers questioning your estimates?](https://news.ycombinator.com/item?id=32056969)
 * [2022-07-11, 13:57:21](https://news.ycombinator.com/item?id=32056195) - [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
 * [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)

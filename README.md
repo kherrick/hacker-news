@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 15:52:51](https://news.ycombinator.com/item?id=32057776) - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 * [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
-* [2022-07-11, 15:16:52](https://news.ycombinator.com/item?id=32057277) - [The euro and the dollar are a penny away from parity for first time in 20 years](https://lite.cnn.com/en/article/h_f4b589d97a7f20e0df80b08171c82be2)
+* [2022-07-11, 15:08:50](https://news.ycombinator.com/item?id=32057162) - [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
 * [2022-07-11, 15:05:20](https://news.ycombinator.com/item?id=32057116) - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
 * [2022-07-11, 15:04:28](https://news.ycombinator.com/item?id=32057105) - [ProtonMail Is Down](https://protonstatus.com/)
+* [2022-07-11, 14:55:08](https://news.ycombinator.com/item?id=32056969) - [Ask HN: How do you deal with managers/customers questioning your estimates?](https://news.ycombinator.com/item?id=32056969)
 * [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
 * [2022-07-11, 13:53:37](https://news.ycombinator.com/item?id=32056140) - [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
@@ -26,10 +28,8 @@
 * [2022-07-11, 05:49:22](https://news.ycombinator.com/item?id=32052669) - [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
 * [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Meet the man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
-* [2022-07-10, 00:23:23](https://news.ycombinator.com/item?id=32040654) - [Converting HDR to SDR with FFmpeg (2018)](https://web.archive.org/web/20180817195640/https://stevens.li/guides/video/converting-hdr-to-sdr-with-ffmpeg/)
 * [2022-07-09, 12:07:20](https://news.ycombinator.com/item?id=32034269) - [Put That There [video] (1983)](https://www.youtube.com/watch?v=yorT-mGkRi0)
 * [2022-07-09, 10:22:00](https://news.ycombinator.com/item?id=32033622) - [Tron changed cinema, predicted the future of tech](https://www.theguardian.com/film/2022/jul/05/tron-steven-lisberger-interview)
-* [2022-07-09, 09:40:56](https://news.ycombinator.com/item?id=32033420) - [Transport System Bögl: a new magnetic rail system](https://transportsystemboegl.com/en/)
 
 ## [Archives](archives/index.md)
 
