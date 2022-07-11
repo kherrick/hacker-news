@@ -48,6 +48,7 @@
 * [2022-07-09, 13:51:08](https://news.ycombinator.com/item?id=32035074) - [The secret stretch of coastal France that's nicer than Nice](https://edition.cnn.com/travel/article/occitanie-narbonne-france/index.html)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:43:06](https://news.ycombinator.com/item?id=32035003) - [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
+* [2022-07-09, 13:32:12](https://news.ycombinator.com/item?id=32034919) - [An intellectual starter kit](https://www.nationalreview.com/2022/07/an-intellectual-starter-kit/)
 * [2022-07-09, 13:29:41](https://news.ycombinator.com/item?id=32034893) - [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
 * [2022-07-09, 13:18:37](https://news.ycombinator.com/item?id=32034798) - [External ballistics of Pleistocene hand-thrown spears (2019)](https://www.nature.com/articles/s41598-018-37904-w)
 * [2022-07-09, 12:57:06](https://news.ycombinator.com/item?id=32034643) - [The dark side of Shopify](https://twitter.com/mattzollerseitz/status/1541994356521013248)

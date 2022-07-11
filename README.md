@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 10:27:36](https://news.ycombinator.com/item?id=32054335) - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
+* [2022-07-11, 10:02:45](https://news.ycombinator.com/item?id=32054181) - [Working in the software industry, circa 1989 – Jim Grey](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
 * [2022-07-11, 09:05:44](https://news.ycombinator.com/item?id=32053816) - [Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity](https://www.colorvote.io)
 * [2022-07-11, 08:24:29](https://news.ycombinator.com/item?id=32053592) - [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
 * [2022-07-11, 08:13:46](https://news.ycombinator.com/item?id=32053537) - [Renewables remain cheapest, but cost reductions on hold](https://www.csiro.au/en/news/news-releases/2022/gencost-2022)
@@ -11,7 +13,6 @@
 * [2022-07-11, 04:18:24](https://news.ycombinator.com/item?id=32052140) - [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
 * [2022-07-11, 03:00:26](https://news.ycombinator.com/item?id=32051703) - [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
-* [2022-07-11, 01:09:08](https://news.ycombinator.com/item?id=32051057) - [University Profs' Criticism Led to Retraction of Math Paper on Gender (2018)](https://www.chicagomaroon.com/article/2018/10/29/university-professors-involved-retraction-controve/)
 * [2022-07-10, 23:10:47](https://news.ycombinator.com/item?id=32050168) - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
 * [2022-07-10, 22:27:09](https://news.ycombinator.com/item?id=32049780) - [Show HN: Typewaiter, the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
 * [2022-07-10, 22:16:59](https://news.ycombinator.com/item?id=32049672) - [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
@@ -19,6 +20,7 @@
 * [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
 * [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [SSD will fail at 40k power-on hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+* [2022-07-09, 13:32:12](https://news.ycombinator.com/item?id=32034919) - [An intellectual starter kit](https://www.nationalreview.com/2022/07/an-intellectual-starter-kit/)
 * [2022-07-09, 13:18:37](https://news.ycombinator.com/item?id=32034798) - [External ballistics of Pleistocene hand-thrown spears (2019)](https://www.nature.com/articles/s41598-018-37904-w)
 * [2022-07-09, 12:51:01](https://news.ycombinator.com/item?id=32034603) - [Once seen as fleeting, a new solar tech proves its lasting power](https://www.princeton.edu/news/2022/06/29/once-seen-fleeting-new-solar-tech-proves-its-lasting-power)
 * [2022-07-09, 12:07:20](https://news.ycombinator.com/item?id=32034269) - [Put That There [video] (1983)](https://www.youtube.com/watch?v=yorT-mGkRi0)
@@ -26,10 +28,8 @@
 * [2022-07-09, 10:22:00](https://news.ycombinator.com/item?id=32033622) - [Tron changed cinema, predicted the future of tech](https://www.theguardian.com/film/2022/jul/05/tron-steven-lisberger-interview)
 * [2022-07-09, 09:40:56](https://news.ycombinator.com/item?id=32033420) - [Transport System Bögl: a new magnetic rail system](https://transportsystemboegl.com/en/)
 * [2022-07-09, 09:33:39](https://news.ycombinator.com/item?id=32033394) - [Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts](https://www.evryca.com/)
-* [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
 * [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix (2018)](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
-* [2022-07-09, 06:04:50](https://news.ycombinator.com/item?id=32032297) - [Darwin Among the Machines (1863)](https://en.wikisource.org/wiki/Darwin_among_the_Machines)
 
 ## [Archives](archives/index.md)
 
