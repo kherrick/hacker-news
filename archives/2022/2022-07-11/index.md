@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 21:29:54](https://news.ycombinator.com/item?id=32062139) - [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
 * [2022-07-11, 20:46:19](https://news.ycombinator.com/item?id=32061587) - [1.0 Euro is now worth $1.0 USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD)
 * [2022-07-11, 20:33:26](https://news.ycombinator.com/item?id=32061428) - [Yes, I have opinions on your open source contributions](https://www.b-list.org/weblog/2022/jul/11/pypi/)
 * [2022-07-11, 20:14:11](https://news.ycombinator.com/item?id=32061187) - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)

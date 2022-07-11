@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 21:29:54](https://news.ycombinator.com/item?id=32062139) - [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
 * [2022-07-11, 20:46:19](https://news.ycombinator.com/item?id=32061587) - [1.0 Euro is now worth $1.0 USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD)
 * [2022-07-11, 20:33:26](https://news.ycombinator.com/item?id=32061428) - [Yes, I have opinions on your open source contributions](https://www.b-list.org/weblog/2022/jul/11/pypi/)
 * [2022-07-11, 20:14:11](https://news.ycombinator.com/item?id=32061187) - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 * [2022-07-11, 19:26:30](https://news.ycombinator.com/item?id=32060597) - [Avoiding image layout shifts (CLS): aspect-ratio vs. width and height](https://jakearchibald.com/2022/img-aspect-ratio/)
 * [2022-07-11, 18:57:33](https://news.ycombinator.com/item?id=32060226) - [Universal influenza B vaccine induces broad, sustained protection in mice](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
 * [2022-07-11, 18:57:14](https://news.ycombinator.com/item?id=32060216) - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
-* [2022-07-11, 18:15:08](https://news.ycombinator.com/item?id=32059666) - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 * [2022-07-11, 18:07:46](https://news.ycombinator.com/item?id=32059566) - [Postgres full-text search: A search engine in a database (2021)](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
 * [2022-07-11, 17:34:42](https://news.ycombinator.com/item?id=32059109) - [The euro has tumbled near parity to the US dollar](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the potato diet](https://dynomight.net/potato-diet/)
