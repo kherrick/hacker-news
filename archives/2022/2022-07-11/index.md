@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 15:05:20](https://news.ycombinator.com/item?id=32057116) - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
 * [2022-07-11, 13:57:21](https://news.ycombinator.com/item?id=32056195) - [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
 * [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
