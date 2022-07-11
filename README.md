@@ -13,7 +13,7 @@
 * [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
 * [2022-07-11, 13:35:29](https://news.ycombinator.com/item?id=32055924) - [Smart mushroom growing device for beginners](https://shrooly.com/)
-* [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Welcome to hell; or UK online safety bill compliance obligations](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
+* [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Your compliance obligations under the UK’s Online Safety Bill](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
 * [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
 * [2022-07-11, 11:08:10](https://news.ycombinator.com/item?id=32054565) - [8-Part Film Adaptation of Tolstoy's Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
 * [2022-07-11, 10:27:36](https://news.ycombinator.com/item?id=32054335) - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
@@ -28,7 +28,7 @@
 * [2022-07-10, 10:23:41](https://news.ycombinator.com/item?id=32043405) - [Physicists see electron whirlpools for the first time](https://news.mit.edu/2022/electron-whirlpools-physics-0706)
 * [2022-07-10, 09:49:06](https://news.ycombinator.com/item?id=32043235) - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
-* [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Meet the man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
+* [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Plano man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
 * [2022-07-09, 16:17:02](https://news.ycombinator.com/item?id=32036524) - [Physicists discover a 'family' of robust, superconducting graphene structures](https://phys.org/news/2022-07-physicists-family-robust-superconducting-graphene.html)
 
 ## [Archives](archives/index.md)
