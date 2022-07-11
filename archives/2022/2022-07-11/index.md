@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 18:15:08](https://news.ycombinator.com/item?id=32059666) - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
 * [2022-07-11, 16:36:38](https://news.ycombinator.com/item?id=32058408) - [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
 * [2022-07-11, 16:16:13](https://news.ycombinator.com/item?id=32058107) - [The Uber whistleblower: I’m exposing a system that sold people a lie](https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann)
