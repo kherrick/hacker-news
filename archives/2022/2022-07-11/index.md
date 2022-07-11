@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 13:57:21](https://news.ycombinator.com/item?id=32056195) - [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
+* [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
+* [2022-07-11, 13:53:37](https://news.ycombinator.com/item?id=32056140) - [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
 * [2022-07-11, 13:35:29](https://news.ycombinator.com/item?id=32055924) - [The first smart mushroom growing device for beginners](https://shrooly.com/)
 * [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
 * [2022-07-11, 13:01:26](https://news.ycombinator.com/item?id=32055600) - [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
