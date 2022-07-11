@@ -8,6 +8,7 @@
 * [2022-07-10, 23:10:47](https://news.ycombinator.com/item?id=32050168) - [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
 * [2022-07-10, 22:54:39](https://news.ycombinator.com/item?id=32050019) - [Study: Association Between Mask Mandates and Covid Infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
 * [2022-07-10, 22:27:09](https://news.ycombinator.com/item?id=32049780) - [Typewaiter–the typewriter that doesn't wait](https://oisinmoran.com/typewaiter)
+* [2022-07-10, 22:16:59](https://news.ycombinator.com/item?id=32049672) - [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
 * [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation Delisted, Unplayable Even to Owners Starting Sep. 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
 * [2022-07-10, 21:53:13](https://news.ycombinator.com/item?id=32049469) - [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
 * [2022-07-10, 21:28:45](https://news.ycombinator.com/item?id=32049237) - [Death, Nothingness, and Subjectivity (1994)](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
