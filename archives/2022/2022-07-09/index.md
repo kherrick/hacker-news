@@ -70,6 +70,7 @@
 * [2022-07-09, 10:22:00](https://news.ycombinator.com/item?id=32033622) - [Tron changed cinema, predicted the future of tech](https://www.theguardian.com/film/2022/jul/05/tron-steven-lisberger-interview)
 * [2022-07-09, 10:12:46](https://news.ycombinator.com/item?id=32033567) - [Hangry in the field: On the impact of hunger on anger, irritability, and affect](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269629)
 * [2022-07-09, 09:55:03](https://news.ycombinator.com/item?id=32033482) - [Emacs Lisp Functions for Easy BibTeX Recording](https://www.erichgrunewald.com/posts/emacs-lisp-functions-for-easy-bib-te-x-insertions/)
+* [2022-07-09, 09:40:56](https://news.ycombinator.com/item?id=32033420) - [Transport System Bögl: a new magnetic rail system](https://transportsystemboegl.com/en/)
 * [2022-07-09, 09:33:39](https://news.ycombinator.com/item?id=32033394) - [Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts](https://www.evryca.com/)
 * [2022-07-09, 09:30:25](https://news.ycombinator.com/item?id=32033379) - [Tiny Huts by MUJI (2017)](https://www.ignant.com/2017/12/12/tiny-huts-by-muji/)
 * [2022-07-09, 09:14:52](https://news.ycombinator.com/item?id=32033299) - [World Container Index](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)
