@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 04:18:24](https://news.ycombinator.com/item?id=32052140) - [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
 * [2022-07-11, 03:00:26](https://news.ycombinator.com/item?id=32051703) - [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
 * [2022-07-11, 02:43:17](https://news.ycombinator.com/item?id=32051594) - [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
@@ -19,7 +20,6 @@
 * [2022-07-10, 16:02:56](https://news.ycombinator.com/item?id=32045906) - [Uber broke laws, duped police and built lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
 * [2022-07-10, 15:48:20](https://news.ycombinator.com/item?id=32045779) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2022-07-10, 14:56:39](https://news.ycombinator.com/item?id=32045339) - [As TikTok grows, so does suspicion](https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver)
-* [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:18:37](https://news.ycombinator.com/item?id=32034798) - [External ballistics of Pleistocene hand-thrown spears (2019)](https://www.nature.com/articles/s41598-018-37904-w)
 * [2022-07-09, 12:51:01](https://news.ycombinator.com/item?id=32034603) - [Once seen as fleeting, a new solar tech proves its lasting power](https://www.princeton.edu/news/2022/06/29/once-seen-fleeting-new-solar-tech-proves-its-lasting-power)
 * [2022-07-09, 11:16:43](https://news.ycombinator.com/item?id=32033925) - [Can the 64 and 128 survive? (1988) [pdf]](https://annarchive.com/files/Compute_Gazette_Issue_59_1988_May.pdf)
@@ -29,7 +29,7 @@
 * [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
-* [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
+* [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix (2018)](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
 
 ## [Archives](archives/index.md)
 
