@@ -6,8 +6,10 @@
 
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
 * [2022-07-11, 16:36:38](https://news.ycombinator.com/item?id=32058408) - [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
+* [2022-07-11, 16:16:13](https://news.ycombinator.com/item?id=32058107) - [The Uber whistleblower: I’m exposing a system that sold people a lie](https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann)
 * [2022-07-11, 15:52:51](https://news.ycombinator.com/item?id=32057776) - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 * [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
+* [2022-07-11, 15:18:47](https://news.ycombinator.com/item?id=32057297) - [Ask HN: Moving from Corporate to Solo Dev?](https://news.ycombinator.com/item?id=32057297)
 * [2022-07-11, 15:16:52](https://news.ycombinator.com/item?id=32057277) - [The euro and the dollar are a penny away from parity for first time in 20 years](https://lite.cnn.com/en/article/h_f4b589d97a7f20e0df80b08171c82be2)
 * [2022-07-11, 15:08:50](https://news.ycombinator.com/item?id=32057162) - [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
 * [2022-07-11, 15:05:20](https://news.ycombinator.com/item?id=32057116) - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
