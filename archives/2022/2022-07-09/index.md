@@ -59,6 +59,7 @@
 * [2022-07-09, 12:36:35](https://news.ycombinator.com/item?id=32034471) - [A fast accurate code counter with complexity calculations and COCOMO estimates](https://github.com/boyter/scc)
 * [2022-07-09, 12:28:05](https://news.ycombinator.com/item?id=32034409) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2022-07-09, 12:26:45](https://news.ycombinator.com/item?id=32034403) - [Negatypes in Python: A type that is not some type](https://www.hillelwayne.com/negatypes/)
+* [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 * [2022-07-09, 12:07:20](https://news.ycombinator.com/item?id=32034269) - [Put That There [video] (1983)](https://www.youtube.com/watch?v=yorT-mGkRi0)
 * [2022-07-09, 12:06:26](https://news.ycombinator.com/item?id=32034259) - [A Virtual Brainfuck Machine in Go (2017)](https://thorstenball.com/blog/2017/01/04/a-virtual-brainfuck-machine-in-go/)
 * [2022-07-09, 12:04:45](https://news.ycombinator.com/item?id=32034245) - [Ddwfttw (dead downwind faster than the wind) Vehicle Analysis (2013)](http://web.archive.org/web/20220114192355/https://lockhaven.edu/~dsimanek/museum/ddwfttw.htm)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-11, 18:57:33](https://news.ycombinator.com/item?id=32060226) - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
+* [2022-07-11, 18:57:14](https://news.ycombinator.com/item?id=32060216) - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
 * [2022-07-11, 18:15:08](https://news.ycombinator.com/item?id=32059666) - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 * [2022-07-11, 18:07:46](https://news.ycombinator.com/item?id=32059566) - [Postgres Full-Text Search: A Search Engine in a Database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
-* [2022-07-11, 17:52:16](https://news.ycombinator.com/item?id=32059362) - [What Is a Woman, Anyway? Fuzzy Sets, Family Resemblances, and Conceptual Truths](https://michaelshermer.substack.com/p/what-is-a-woman-anyway)
 * [2022-07-11, 17:34:42](https://news.ycombinator.com/item?id=32059109) - [€1.00 = $1.00, The Euro sinks to lowest since 2002](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
 * [2022-07-11, 15:52:51](https://news.ycombinator.com/item?id=32057776) - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
@@ -24,12 +24,12 @@
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
 * [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
-* [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
 * [2022-07-10, 10:23:41](https://news.ycombinator.com/item?id=32043405) - [Physicists see electron whirlpools for the first time](https://news.mit.edu/2022/electron-whirlpools-physics-0706)
 * [2022-07-10, 09:49:06](https://news.ycombinator.com/item?id=32043235) - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Plano man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
 * [2022-07-09, 16:17:02](https://news.ycombinator.com/item?id=32036524) - [Physicists discover a 'family' of robust, superconducting graphene structures](https://phys.org/news/2022-07-physicists-family-robust-superconducting-graphene.html)
+* [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 
 ## [Archives](archives/index.md)
 
