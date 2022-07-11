@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-07-11, 19:26:30",
+      "https://news.ycombinator.com/item?id=32060597"
+    ],
+    [
+      "Avoiding image layout shifts (CLS): aspect-ratio vs. width and height",
+      "https://jakearchibald.com/2022/img-aspect-ratio/"
+    ]
+  ],
+  [
+    [
       "2022-07-11, 18:57:33",
       "https://news.ycombinator.com/item?id=32060226"
     ],
     [
-      "Universal Influenza B Vaccine Induces Broad, Sustained Protection",
+      "Universal influenza B vaccine induces broad, sustained protection in mice",
       "https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32059566"
     ],
     [
-      "Postgres Full-Text Search: A Search Engine in a Database",
+      "Postgres full-text search: A search engine in a database (2021)",
       "https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32059109"
     ],
     [
-      "€1.00 = $1.00, The Euro sinks to lowest since 2002",
+      "The euro has tumbled near parity to the US dollar",
       "https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32058674"
     ],
     [
-      "Thoughts on the Potato Diet",
+      "Thoughts on the potato diet",
       "https://dynomight.net/potato-diet/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32057776"
     ],
     [
-      "Quantum Algorithms Conquer a New Kind of Problem",
+      "Quantum algorithms conquer a new kind of problem",
       "https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Lockheed Martin Prepar 3D",
       "https://www.prepar3d.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 13:35:29",
-      "https://news.ycombinator.com/item?id=32055924"
-    ],
-    [
-      "Smart mushroom growing device for beginners",
-      "https://shrooly.com/"
     ]
   ],
   [
