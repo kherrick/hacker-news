@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-11, 10:27:36",
+      "https://news.ycombinator.com/item?id=32054335"
+    ],
+    [
+      "Fluxus – 3D game engine for livecoding worlds into existence",
+      "https://www.pawfal.org/fluxus/"
+    ]
+  ],
+  [
+    [
+      "2022-07-11, 10:02:45",
+      "https://news.ycombinator.com/item?id=32054181"
+    ],
+    [
+      "Working in the software industry, circa 1989 – Jim Grey",
+      "https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/"
+    ]
+  ],
+  [
+    [
       "2022-07-11, 09:05:44",
       "https://news.ycombinator.com/item?id=32053816"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-07-11, 01:09:08",
-      "https://news.ycombinator.com/item?id=32051057"
-    ],
-    [
-      "University Profs' Criticism Led to Retraction of Math Paper on Gender (2018)",
-      "https://www.chicagomaroon.com/article/2018/10/29/university-professors-involved-retraction-controve/"
-    ]
-  ],
-  [
-    [
       "2022-07-10, 23:10:47",
       "https://news.ycombinator.com/item?id=32050168"
     ],
@@ -187,6 +197,16 @@
     [
       "I should have loved biology",
       "https://jsomers.net/i-should-have-loved-biology/"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 13:32:12",
+      "https://news.ycombinator.com/item?id=32034919"
+    ],
+    [
+      "An intellectual starter kit",
+      "https://www.nationalreview.com/2022/07/an-intellectual-starter-kit/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-07-09, 08:04:54",
-      "https://news.ycombinator.com/item?id=32032968"
-    ],
-    [
-      "A mysterious cult that predates Stonehenge",
-      "https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge"
-    ]
-  ],
-  [
-    [
       "2022-07-09, 07:24:19",
       "https://news.ycombinator.com/item?id=32032712"
     ],
@@ -287,16 +297,6 @@
     [
       "The Unix API is more than just system calls or Posix (2018)",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls"
-    ]
-  ],
-  [
-    [
-      "2022-07-09, 06:04:50",
-      "https://news.ycombinator.com/item?id=32032297"
-    ],
-    [
-      "Darwin Among the Machines (1863)",
-      "https://en.wikisource.org/wiki/Darwin_among_the_Machines"
     ]
   ]
 ]
