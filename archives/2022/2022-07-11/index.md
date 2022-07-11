@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
+* [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
 * [2022-07-11, 06:19:45](https://news.ycombinator.com/item?id=32052825) - [Surging supply and softening demand weigh on chipmakers](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersized-bust)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
+* [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
 * [2022-07-11, 06:19:45](https://news.ycombinator.com/item?id=32052825) - [Surging supply and softening demand weigh on chipmakers](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersized-bust)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
@@ -24,7 +25,6 @@
 * [2022-07-09, 12:06:26](https://news.ycombinator.com/item?id=32034259) - [A Virtual Brainfuck Machine in Go (2017)](https://thorstenball.com/blog/2017/01/04/a-virtual-brainfuck-machine-in-go/)
 * [2022-07-09, 11:16:43](https://news.ycombinator.com/item?id=32033925) - [Can the 64 and 128 survive? (1988) [pdf]](https://annarchive.com/files/Compute_Gazette_Issue_59_1988_May.pdf)
 * [2022-07-09, 10:22:00](https://news.ycombinator.com/item?id=32033622) - [Tron changed cinema, predicted the future of tech](https://www.theguardian.com/film/2022/jul/05/tron-steven-lisberger-interview)
-* [2022-07-09, 09:55:03](https://news.ycombinator.com/item?id=32033482) - [Emacs Lisp Functions for Easy BibTeX Recording](https://www.erichgrunewald.com/posts/emacs-lisp-functions-for-easy-bib-te-x-insertions/)
 * [2022-07-09, 09:33:39](https://news.ycombinator.com/item?id=32033394) - [Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts](https://www.evryca.com/)
 * [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
