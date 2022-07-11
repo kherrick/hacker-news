@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 15:16:52](https://news.ycombinator.com/item?id=32057277) - [The euro and the dollar are a penny away from parity for first time in 20 years](https://lite.cnn.com/en/article/h_f4b589d97a7f20e0df80b08171c82be2)
 * [2022-07-11, 15:05:20](https://news.ycombinator.com/item?id=32057116) - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
+* [2022-07-11, 15:04:28](https://news.ycombinator.com/item?id=32057105) - [ProtonMail Is Down](https://protonstatus.com/)
 * [2022-07-11, 13:57:21](https://news.ycombinator.com/item?id=32056195) - [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
 * [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
 * [2022-07-11, 13:53:37](https://news.ycombinator.com/item?id=32056140) - [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
+* [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 13:35:29](https://news.ycombinator.com/item?id=32055924) - [The first smart mushroom growing device for beginners](https://shrooly.com/)
+* [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Welcome to hell; or UK online safety bill compliance obligations](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
 * [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
 * [2022-07-11, 13:01:26](https://news.ycombinator.com/item?id=32055600) - [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
 * [2022-07-11, 12:52:13](https://news.ycombinator.com/item?id=32055512) - [Playstation store will remove customer’s purchased movies](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591)
