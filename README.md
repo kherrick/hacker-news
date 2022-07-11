@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 04:45:59](https://news.ycombinator.com/item?id=32052302) - [Exit, Pursued by a Bear: Europes Coming Gas Shortages Analyzed](https://viscosityredux.substack.com/p/exit-pursued-by-a-bear)
 * [2022-07-11, 04:38:28](https://news.ycombinator.com/item?id=32052267) - [NHTSA launches 37th investigation into Tesla after couple killed in crash](https://meaww.com/nhtsa-investigation-starts-tesla-california-crash-elderly-couple)
 * [2022-07-11, 04:18:24](https://news.ycombinator.com/item?id=32052140) - [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
@@ -10,7 +11,6 @@
 * [2022-07-10, 22:16:59](https://news.ycombinator.com/item?id=32049672) - [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
 * [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
 * [2022-07-10, 21:53:13](https://news.ycombinator.com/item?id=32049469) - [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
-* [2022-07-10, 21:23:51](https://news.ycombinator.com/item?id=32049194) - [Hyper-fast solitons in Einstein-Maxwell-Plasma Theory (2020)](https://arxiv.org/abs/2006.07125)
 * [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
 * [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [SSD will fail at 40k power-on hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 04:45:59](https://news.ycombinator.com/item?id=32052302) - [Exit, Pursued by a Bear: Europes Coming Gas Shortages Analyzed](https://viscosityredux.substack.com/p/exit-pursued-by-a-bear)
 * [2022-07-11, 04:38:28](https://news.ycombinator.com/item?id=32052267) - [NHTSA launches 37th investigation into Tesla after couple killed in crash](https://meaww.com/nhtsa-investigation-starts-tesla-california-crash-elderly-couple)
 * [2022-07-11, 04:18:24](https://news.ycombinator.com/item?id=32052140) - [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
