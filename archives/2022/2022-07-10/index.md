@@ -73,4 +73,5 @@
 * [2022-07-10, 03:45:44](https://news.ycombinator.com/item?id=32041656) - [I Don't Want to Shard (MySQL)](https://hackmysql.com/post/book-5/)
 * [2022-07-10, 03:25:12](https://news.ycombinator.com/item?id=32041579) - [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
 * [2022-07-10, 02:13:30](https://news.ycombinator.com/item?id=32041238) - [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
+* [2022-07-10, 00:23:23](https://news.ycombinator.com/item?id=32040654) - [Converting HDR to SDR with FFmpeg (2018)](https://web.archive.org/web/20180817195640/https://stevens.li/guides/video/converting-hdr-to-sdr-with-ffmpeg/)
 * [2022-07-10, 00:16:36](https://news.ycombinator.com/item?id=32040614) - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 11:33:06](https://news.ycombinator.com/item?id=32054727) - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
 * [2022-07-11, 11:03:02](https://news.ycombinator.com/item?id=32054539) - [Hybrid Work Is Doomed](https://www.theatlantic.com/technology/archive/2022/07/work-from-home-rto-flexibility/661495/)
 * [2022-07-11, 10:35:50](https://news.ycombinator.com/item?id=32054380) - [Emmanuel Macron aided Uber lobbying drive in France, leak reveals](https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals)
 * [2022-07-11, 10:27:36](https://news.ycombinator.com/item?id=32054335) - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
@@ -14,6 +15,7 @@
 * [2022-07-11, 08:13:46](https://news.ycombinator.com/item?id=32053537) - [Renewables remain cheapest, but cost reductions on hold](https://www.csiro.au/en/news/news-releases/2022/gencost-2022)
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
 * [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
+* [2022-07-11, 07:28:44](https://news.ycombinator.com/item?id=32053287) - [Whose breath are you breathing?](https://www.rnz.co.nz/news/in-depth/470690/whose-breath-are-you-breathing)
 * [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
 * [2022-07-11, 06:19:45](https://news.ycombinator.com/item?id=32052825) - [Surging supply and softening demand weigh on chipmakers](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersized-bust)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
