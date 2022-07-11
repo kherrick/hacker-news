@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-11, 11:33:06](https://news.ycombinator.com/item?id=32054727) - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
+* [2022-07-11, 11:24:08](https://news.ycombinator.com/item?id=32054667) - [US Crosses the Electric-Car Tipping Point for Mass Adoption](https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone)
 * [2022-07-11, 11:03:02](https://news.ycombinator.com/item?id=32054539) - [Hybrid Work Is Doomed](https://www.theatlantic.com/technology/archive/2022/07/work-from-home-rto-flexibility/661495/)
 * [2022-07-11, 10:35:50](https://news.ycombinator.com/item?id=32054380) - [Emmanuel Macron aided Uber lobbying drive in France, leak reveals](https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals)
 * [2022-07-11, 10:27:36](https://news.ycombinator.com/item?id=32054335) - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
@@ -10,7 +11,6 @@
 * [2022-07-11, 08:24:29](https://news.ycombinator.com/item?id=32053592) - [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
 * [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
-* [2022-07-11, 07:28:44](https://news.ycombinator.com/item?id=32053287) - [Whose breath are you breathing?](https://www.rnz.co.nz/news/in-depth/470690/whose-breath-are-you-breathing)
 * [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
 * [2022-07-11, 05:49:22](https://news.ycombinator.com/item?id=32052669) - [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
