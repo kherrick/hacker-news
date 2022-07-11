@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
+* [2022-07-11, 13:01:26](https://news.ycombinator.com/item?id=32055600) - [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
+* [2022-07-11, 12:52:13](https://news.ycombinator.com/item?id=32055512) - [Playstation store will remove customer’s purchased movies](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591)
 * [2022-07-11, 11:33:06](https://news.ycombinator.com/item?id=32054727) - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
 * [2022-07-11, 11:24:08](https://news.ycombinator.com/item?id=32054667) - [US Crosses the Electric-Car Tipping Point for Mass Adoption](https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone)
 * [2022-07-11, 11:08:10](https://news.ycombinator.com/item?id=32054565) - [8-Part Film Adaptation of Tolstoy's Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
@@ -15,6 +18,7 @@
 * [2022-07-11, 09:05:44](https://news.ycombinator.com/item?id=32053816) - [Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity](https://www.colorvote.io)
 * [2022-07-11, 08:24:29](https://news.ycombinator.com/item?id=32053592) - [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
 * [2022-07-11, 08:13:46](https://news.ycombinator.com/item?id=32053537) - [Renewables remain cheapest, but cost reductions on hold](https://www.csiro.au/en/news/news-releases/2022/gencost-2022)
+* [2022-07-11, 08:10:30](https://news.ycombinator.com/item?id=32053512) - [Monads are a class of hard drugs](http://ix.io/443i/html)
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
 * [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * [2022-07-11, 07:28:44](https://news.ycombinator.com/item?id=32053287) - [Whose breath are you breathing?](https://www.rnz.co.nz/news/in-depth/470690/whose-breath-are-you-breathing)
