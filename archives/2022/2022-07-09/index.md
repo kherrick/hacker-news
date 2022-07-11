@@ -94,6 +94,7 @@
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
 * [2022-07-09, 06:45:30](https://news.ycombinator.com/item?id=32032517) - [Cissbury Ring: Neolithic flint-mines in the digital age](https://the-past.com/feature/cissbury-ring-neolithic-flint-mines-in-the-digital-age/)
+* [2022-07-09, 06:04:50](https://news.ycombinator.com/item?id=32032297) - [Darwin Among the Machines (1863)](https://en.wikisource.org/wiki/Darwin_among_the_Machines)
 * [2022-07-09, 05:59:24](https://news.ycombinator.com/item?id=32032257) - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)
 * [2022-07-09, 05:25:12](https://news.ycombinator.com/item?id=32032030) - [How do you respond to a one-character email from your boss's boss's boss? (2018)](https://www.inc.com/bill-murphy-jr/5-years-later-jeff-bezos-just-confirmed-jeff-bezos-question-mark-method-that-scares-heck-out-of-everyone-at-amazon-heres-how-it-works.html)

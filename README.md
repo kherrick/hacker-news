@@ -25,11 +25,11 @@
 * [2022-07-09, 10:22:00](https://news.ycombinator.com/item?id=32033622) - [Tron changed cinema, predicted the future of tech](https://www.theguardian.com/film/2022/jul/05/tron-steven-lisberger-interview)
 * [2022-07-09, 09:55:03](https://news.ycombinator.com/item?id=32033482) - [Emacs Lisp Functions for Easy BibTeX Recording](https://www.erichgrunewald.com/posts/emacs-lisp-functions-for-easy-bib-te-x-insertions/)
 * [2022-07-09, 09:33:39](https://news.ycombinator.com/item?id=32033394) - [Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts](https://www.evryca.com/)
-* [2022-07-09, 08:11:30](https://news.ycombinator.com/item?id=32033009) - [There are 2¹⁰²⁴ things you can do with a kilobit](https://twitter.com/johncarlosbaez/status/1545818823340613633)
 * [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
 * [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix (2018)](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
+* [2022-07-09, 06:04:50](https://news.ycombinator.com/item?id=32032297) - [Darwin Among the Machines (1863)](https://en.wikisource.org/wiki/Darwin_among_the_Machines)
 
 ## [Archives](archives/index.md)
 
