@@ -52,6 +52,7 @@
 * [2022-07-10, 12:58:22](https://news.ycombinator.com/item?id=32044296) - [Ask HN: Are you hiking? How old are you and how many kilometers can you Hike?](https://news.ycombinator.com/item?id=32044296)
 * [2022-07-10, 12:10:31](https://news.ycombinator.com/item?id=32043969) - [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
+* [2022-07-10, 11:30:38](https://news.ycombinator.com/item?id=32043738) - [Build, gather, brawl, repeat: The history of real-time strategy games (2017)](https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/)
 * [2022-07-10, 11:29:53](https://news.ycombinator.com/item?id=32043728) - [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
 * [2022-07-10, 10:59:52](https://news.ycombinator.com/item?id=32043571) - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)

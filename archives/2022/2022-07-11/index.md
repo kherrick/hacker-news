@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 20:46:19](https://news.ycombinator.com/item?id=32061587) - [1.0 Euro is now worth $1.0 USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD)
 * [2022-07-11, 20:14:11](https://news.ycombinator.com/item?id=32061187) - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 * [2022-07-11, 19:26:30](https://news.ycombinator.com/item?id=32060597) - [Avoiding image layout shifts (CLS): aspect-ratio vs. width and height](https://jakearchibald.com/2022/img-aspect-ratio/)
 * [2022-07-11, 18:57:33](https://news.ycombinator.com/item?id=32060226) - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
