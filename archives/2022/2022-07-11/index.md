@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 21:53:08](https://news.ycombinator.com/item?id=32062482) - [If the News Is Fake, Imagine History](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
 * [2022-07-11, 21:41:18](https://news.ycombinator.com/item?id=32062303) - [Climate change is not just about Carbon Dioxide](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4151891)
 * [2022-07-11, 21:29:54](https://news.ycombinator.com/item?id=32062139) - [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
 * [2022-07-11, 20:46:19](https://news.ycombinator.com/item?id=32061587) - [1.0 Euro is now worth $1.0 USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD)
