@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 22:24:04](https://news.ycombinator.com/item?id=32062849) - [Deepest Infrared Image of Universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
+* [2022-07-11, 22:15:57](https://news.ycombinator.com/item?id=32062759) - [Florida police department diverting calls to mental health staff](https://www.newsnationnow.com/solutions/florida-police-dept-diverting-calls-to-mental-health-staff/)
 * [2022-07-11, 21:53:08](https://news.ycombinator.com/item?id=32062482) - [If the News Is Fake, Imagine History](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
 * [2022-07-11, 21:29:54](https://news.ycombinator.com/item?id=32062139) - [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
 * [2022-07-11, 20:14:11](https://news.ycombinator.com/item?id=32061187) - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
@@ -17,7 +19,6 @@
 * [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Your compliance obligations under the UK’s Online Safety Bill](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
 * [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
 * [2022-07-11, 11:08:10](https://news.ycombinator.com/item?id=32054565) - [8-Part Film Adaptation of Tolstoy's Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
-* [2022-07-11, 10:27:36](https://news.ycombinator.com/item?id=32054335) - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
 * [2022-07-11, 10:02:45](https://news.ycombinator.com/item?id=32054181) - [Working in the software industry, circa 1989](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
 * [2022-07-11, 09:29:18](https://news.ycombinator.com/item?id=32053961) - [Show HN: Lldap, a Simplified LDAP Server](https://github.com/nitnelave/lldap)
 * [2022-07-11, 09:05:44](https://news.ycombinator.com/item?id=32053816) - [Show HN: Colorvote.io – ranking all sRGB web colors by popularity](https://www.colorvote.io)
@@ -28,7 +29,6 @@
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Plano man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
 * [2022-07-09, 17:55:30](https://news.ycombinator.com/item?id=32037622) - [Getting the Most from Your Logs](https://www.thebalancesmb.com/how-to-buck-a-tree-2218134)
-* [2022-07-09, 16:17:02](https://news.ycombinator.com/item?id=32036524) - [Physicists discover a 'family' of robust, superconducting graphene structures](https://phys.org/news/2022-07-physicists-family-robust-superconducting-graphene.html)
 * [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 
 ## [Archives](archives/index.md)
