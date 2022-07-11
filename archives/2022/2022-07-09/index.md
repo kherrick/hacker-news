@@ -89,6 +89,7 @@
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
 * [2022-07-09, 07:04:54](https://news.ycombinator.com/item?id=32032606) - [Today I Deleted Notion](https://twitter.com/tadaspetra/status/1545149403270356992)
 * [2022-07-09, 07:03:15](https://news.ycombinator.com/item?id=32032593) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
 * [2022-07-09, 06:45:30](https://news.ycombinator.com/item?id=32032517) - [Cissbury Ring: Neolithic flint-mines in the digital age](https://the-past.com/feature/cissbury-ring-neolithic-flint-mines-in-the-digital-age/)
 * [2022-07-09, 05:59:24](https://news.ycombinator.com/item?id=32032257) - [Barbie Typewriter (2018)](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 * [2022-07-09, 05:41:04](https://news.ycombinator.com/item?id=32032134) - [AutoRegex](https://www.autoregex.xyz)

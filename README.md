@@ -12,7 +12,6 @@
 * [2022-07-10, 21:23:51](https://news.ycombinator.com/item?id=32049194) - [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
 * [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
 * [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [SSD will fail at 40k power-on hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
-* [2022-07-10, 19:01:46](https://news.ycombinator.com/item?id=32047778) - [Microsoft researched what made employees happy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 * [2022-07-10, 16:18:09](https://news.ycombinator.com/item?id=32046036) - [Ultra-flat timepiece, the RM UP-01 Ferrari, is 1.75 millimetres thick watch](https://www.richardmille.com/collections/rm-up-01-manual-winding-ultraflat-ferrari)
@@ -30,6 +29,7 @@
 * [2022-07-09, 08:04:54](https://news.ycombinator.com/item?id=32032968) - [A mysterious cult that predates Stonehenge](https://www.bbc.com/travel/article/20220704-a-mysterious-cult-that-predates-stonehenge)
 * [2022-07-09, 07:24:19](https://news.ycombinator.com/item?id=32032712) - [Logging Performance Comparison](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
 * [2022-07-09, 07:11:52](https://news.ycombinator.com/item?id=32032650) - [Joseph Weizenbaum's Original Eliza](https://sites.google.com/view/elizagen-org/the-original-eliza)
+* [2022-07-09, 07:02:56](https://news.ycombinator.com/item?id=32032588) - [The Unix API is more than just system calls or Posix](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixAPIMoreThanSyscalls)
 
 ## [Archives](archives/index.md)
 
