@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
+* [2022-07-11, 16:36:38](https://news.ycombinator.com/item?id=32058408) - [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
 * [2022-07-11, 15:52:51](https://news.ycombinator.com/item?id=32057776) - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 * [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
 * [2022-07-11, 15:08:50](https://news.ycombinator.com/item?id=32057162) - [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
@@ -9,7 +11,6 @@
 * [2022-07-11, 13:57:01](https://news.ycombinator.com/item?id=32056189) - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 * [2022-07-11, 13:54:27](https://news.ycombinator.com/item?id=32056151) - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
 * [2022-07-11, 13:53:37](https://news.ycombinator.com/item?id=32056140) - [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
-* [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 13:35:29](https://news.ycombinator.com/item?id=32055924) - [Smart mushroom growing device for beginners](https://shrooly.com/)
 * [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Welcome to hell; or UK online safety bill compliance obligations](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
 * [2022-07-11, 13:05:38](https://news.ycombinator.com/item?id=32055633) - [Day 2 Operations with the James Webb Space Telescope is about to begin](https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382)
@@ -29,7 +30,6 @@
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
 * [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Meet the man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
 * [2022-07-09, 16:17:02](https://news.ycombinator.com/item?id=32036524) - [Physicists discover a 'family' of robust, superconducting graphene structures](https://phys.org/news/2022-07-physicists-family-robust-superconducting-graphene.html)
-* [2022-07-09, 12:07:20](https://news.ycombinator.com/item?id=32034269) - [Put That There [video] (1983)](https://www.youtube.com/watch?v=yorT-mGkRi0)
 
 ## [Archives](archives/index.md)
 
