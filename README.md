@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
+* [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
 * [2022-07-11, 06:19:45](https://news.ycombinator.com/item?id=32052825) - [Surging supply and softening demand weigh on chipmakers](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersized-bust)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
 * [2022-07-11, 05:49:22](https://news.ycombinator.com/item?id=32052669) - [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
@@ -17,7 +18,6 @@
 * [2022-07-10, 19:36:58](https://news.ycombinator.com/item?id=32048148) - [SSD will fail at 40k power-on hours (2021)](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
 * [2022-07-10, 18:39:08](https://news.ycombinator.com/item?id=32047535) - [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 * [2022-07-10, 18:09:23](https://news.ycombinator.com/item?id=32047230) - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
-* [2022-07-10, 16:18:09](https://news.ycombinator.com/item?id=32046036) - [Ultra-flat timepiece, the RM UP-01 Ferrari, is 1.75 millimetres thick watch](https://www.richardmille.com/collections/rm-up-01-manual-winding-ultraflat-ferrari)
 * [2022-07-09, 13:48:45](https://news.ycombinator.com/item?id=32035054) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2022-07-09, 13:18:37](https://news.ycombinator.com/item?id=32034798) - [External ballistics of Pleistocene hand-thrown spears (2019)](https://www.nature.com/articles/s41598-018-37904-w)
 * [2022-07-09, 12:51:01](https://news.ycombinator.com/item?id=32034603) - [Once seen as fleeting, a new solar tech proves its lasting power](https://www.princeton.edu/news/2022/06/29/once-seen-fleeting-new-solar-tech-proves-its-lasting-power)
