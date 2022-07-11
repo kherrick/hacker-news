@@ -7,6 +7,7 @@
 * [2022-07-11, 18:57:33](https://news.ycombinator.com/item?id=32060226) - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
 * [2022-07-11, 18:15:08](https://news.ycombinator.com/item?id=32059666) - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 * [2022-07-11, 18:07:46](https://news.ycombinator.com/item?id=32059566) - [Postgres Full-Text Search: A Search Engine in a Database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
+* [2022-07-11, 17:52:16](https://news.ycombinator.com/item?id=32059362) - [What Is a Woman, Anyway? Fuzzy Sets, Family Resemblances, and Conceptual Truths](https://michaelshermer.substack.com/p/what-is-a-woman-anyway)
 * [2022-07-11, 17:34:42](https://news.ycombinator.com/item?id=32059109) - [€1.00 = $1.00, The Euro sinks to lowest since 2002](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
 * [2022-07-11, 16:36:38](https://news.ycombinator.com/item?id=32058408) - [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
