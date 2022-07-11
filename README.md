@@ -28,8 +28,8 @@
 * [2022-07-11, 05:49:22](https://news.ycombinator.com/item?id=32052669) - [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
 * [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Meet the man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
+* [2022-07-09, 16:17:02](https://news.ycombinator.com/item?id=32036524) - [Physicists discover a 'family' of robust, superconducting graphene structures](https://phys.org/news/2022-07-physicists-family-robust-superconducting-graphene.html)
 * [2022-07-09, 12:07:20](https://news.ycombinator.com/item?id=32034269) - [Put That There [video] (1983)](https://www.youtube.com/watch?v=yorT-mGkRi0)
-* [2022-07-09, 10:22:00](https://news.ycombinator.com/item?id=32033622) - [Tron changed cinema, predicted the future of tech](https://www.theguardian.com/film/2022/jul/05/tron-steven-lisberger-interview)
 
 ## [Archives](archives/index.md)
 

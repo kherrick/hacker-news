@@ -31,6 +31,7 @@
 * [2022-07-09, 16:41:31](https://news.ycombinator.com/item?id=32036825) - [No antibiotics worked, so this woman turned to a natural enemy of bacteria](https://lite.cnn.com/en/article/h_c90de1a5f839ebb6157643282b7f3c7e)
 * [2022-07-09, 16:41:31](https://news.ycombinator.com/item?id=32036825) - [No antibiotics worked, so this woman turned to a natural enemy of bacteria](https://edition.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html)
 * [2022-07-09, 16:32:36](https://news.ycombinator.com/item?id=32036712) - [NumPy `__contains__` Is Absurd](https://gist.github.com/Moelf/59d6312c51c250ba251125e54bea7282)
+* [2022-07-09, 16:17:02](https://news.ycombinator.com/item?id=32036524) - [Physicists discover a 'family' of robust, superconducting graphene structures](https://phys.org/news/2022-07-physicists-family-robust-superconducting-graphene.html)
 * [2022-07-09, 16:17:00](https://news.ycombinator.com/item?id=32036523) - [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
 * [2022-07-09, 16:14:51](https://news.ycombinator.com/item?id=32036496) - [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
 * [2022-07-09, 16:13:16](https://news.ycombinator.com/item?id=32036478) - [Show HN: Every great reads I've ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
