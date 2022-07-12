@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 22:40:10](https://news.ycombinator.com/item?id=32076677) - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
@@ -11,8 +12,6 @@
 * [2022-07-12, 15:28:10](https://news.ycombinator.com/item?id=32071349) - [Giving a shit as a service](https://allenpike.com/2022/giving-a-shit)
 * [2022-07-12, 15:12:41](https://news.ycombinator.com/item?id=32071137) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
-* [2022-07-12, 14:48:37](https://news.ycombinator.com/item?id=32070805) - [You wouldn't download a back end](https://cjohanaja.com/musings/wouldnt-download-backend/)
-* [2022-07-12, 14:15:33](https://news.ycombinator.com/item?id=32070292) - [Spotify to acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
 * [2022-07-12, 13:52:44](https://news.ycombinator.com/item?id=32069926) - [Guest WiFi using a QR code](https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Tell HN: We are trying to get tail calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [A/B testing gets misused to juice metrics in the short term](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
@@ -25,6 +24,7 @@
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 07:33:58](https://news.ycombinator.com/item?id=32066714) - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye](https://www.iso.org/obp/ui/#iso:code:3166:TR)
+* [2022-07-11, 20:14:36](https://news.ycombinator.com/item?id=32061193) - [Cloud Streets (2006)](https://rammb.cira.colostate.edu/wmovl/vrl/tutorials/satmanu-eumetsat/satmanu/cms/clstr/index.htm)
 * [2022-07-11, 15:12:45](https://news.ycombinator.com/item?id=32057211) - [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
 * [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
 * [2022-07-11, 08:08:57](https://news.ycombinator.com/item?id=32053502) - [How GPU Computing Works [video]](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/)
