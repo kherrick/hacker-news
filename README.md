@@ -14,6 +14,7 @@
 * [2022-07-11, 18:57:14](https://news.ycombinator.com/item?id=32060216) - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
 * [2022-07-11, 18:07:46](https://news.ycombinator.com/item?id=32059566) - [Postgres full-text search: A search engine in a database (2021)](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the potato diet](https://dynomight.net/potato-diet/)
+* [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
 * [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Your compliance obligations under the UK’s Online Safety Bill](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
 * [2022-07-10, 12:04:38](https://news.ycombinator.com/item?id=32043923) - [Writing: A misunderstood activity](https://www.solimanwrites.com/writing-the-most-misunderstood-activity/)
@@ -27,7 +28,6 @@
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 08:14:11](https://news.ycombinator.com/item?id=32042767) - [Ask HN: How do you search for products / apps given a list of requirements?](https://news.ycombinator.com/item?id=32042767)
 * [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Plano man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
-* [2022-07-09, 18:35:58](https://news.ycombinator.com/item?id=32038005) - [A First Year of Discovery](https://inference-review.com/article/a-first-year-of-discovery)
 * [2022-07-09, 17:55:30](https://news.ycombinator.com/item?id=32037622) - [How to buck a tree: Cutting logs for maximum yield (2018)](https://www.thebalancesmb.com/how-to-buck-a-tree-2218134)
 * [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 
