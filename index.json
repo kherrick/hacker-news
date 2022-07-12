@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32073410"
     ],
     [
-      "New Decade, New Ideas. (Ev Williams to Step Down from Medium)",
+      "Ev Williams to step down from Medium",
       "https://ev.medium.com/new-decade-new-ideas-faee8e712589"
     ]
   ],
@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2022-07-12, 17:07:07",
-      "https://news.ycombinator.com/item?id=32072870"
-    ],
-    [
-      "Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat",
-      "https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 17:00:00",
       "https://news.ycombinator.com/item?id=32072772"
     ],
     [
-      "Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines",
+      "Pachyderm (YC W15) is hiring for DevRel to evangelize data-centric pipelines",
       "https://www.pachyderm.com/careers/#positions"
     ]
   ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2022-07-12, 16:05:26",
-      "https://news.ycombinator.com/item?id=32071913"
+      "2022-07-12, 16:07:05",
+      "https://news.ycombinator.com/item?id=32071949"
     ],
     [
-      "Return Stack Buffer Underflow – Retbleed (Intel)",
-      "https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/return-stack-buffer-underflow.html"
+      "Retbleed: New speculative execution attack sends Intel and AMD scrambling",
+      "https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/"
     ]
   ],
   [
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2022-07-12, 14:44:56",
+      "https://news.ycombinator.com/item?id=32070747"
+    ],
+    [
+      "Ask HN: Examples of large acquisitions that did not ruin the acquired company?",
+      "https://news.ycombinator.com/item?id=32070747"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 14:40:01",
       "https://news.ycombinator.com/item?id=32070661"
     ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32070292"
     ],
     [
-      "Spotify to Acquire Heardle",
+      "Spotify to acquire Heardle",
       "https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32068647"
     ],
     [
-      "Unchecked AB testing destroys everything it touches",
+      "A/B testing gets misused to juice metrics in the short term",
       "https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "The Webb Space Telescope’s profound data challenges",
       "https://spectrum.ieee.org/james-webb-telescope-communications"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 10:28:48",
-      "https://news.ycombinator.com/item?id=32067879"
-    ],
-    [
-      "Why we’ve decided to decommission Gov.uk PaaS",
-      "https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Food-seeking behavior is triggered by skin ultraviolet exposure in males",
       "https://www.nature.com/articles/s42255-022-00587-9"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 06:04:32",
+      "https://news.ycombinator.com/item?id=32066201"
+    ],
+    [
+      "Rolling-PWN vulnerability affects all Honda vehicles",
+      "https://rollingpwn.github.io/rolling-pwn/"
     ]
   ],
   [
