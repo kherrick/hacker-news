@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
@@ -28,7 +29,6 @@
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 08:14:11](https://news.ycombinator.com/item?id=32042767) - [Ask HN: How do you search for products / apps given a list of requirements?](https://news.ycombinator.com/item?id=32042767)
 * [2022-07-10, 00:00:10](https://news.ycombinator.com/item?id=32040518) - [Teensy Gurdy: a DIY hurdy gurdy synthesizer](https://github.com/banjomasterpete/Teensy-Gurdy)
-* [2022-07-09, 17:55:30](https://news.ycombinator.com/item?id=32037622) - [How to buck a tree: Cutting logs for maximum yield (2018)](https://www.thebalancesmb.com/how-to-buck-a-tree-2218134)
 * [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 
 ## [Archives](archives/index.md)
