@@ -15,6 +15,7 @@
 * [2022-07-12, 16:05:26](https://news.ycombinator.com/item?id=32071913) - [Return Stack Buffer Underflow – Retbleed (Intel)](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/return-stack-buffer-underflow.html)
 * [2022-07-12, 15:29:51](https://news.ycombinator.com/item?id=32071372) - [Carina Nebula (James Webb's first pictures)](https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg)
 * [2022-07-12, 15:28:10](https://news.ycombinator.com/item?id=32071349) - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
+* [2022-07-12, 15:12:41](https://news.ycombinator.com/item?id=32071137) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2022-07-12, 15:11:57](https://news.ycombinator.com/item?id=32071124) - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
 * [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
