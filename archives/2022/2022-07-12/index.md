@@ -6,8 +6,11 @@
 
 * [2022-07-12, 13:27:23](https://news.ycombinator.com/item?id=32069578) - [Photos Always Pointing the Pointer](https://pointerpointer.com/)
 * [2022-07-12, 13:17:57](https://news.ycombinator.com/item?id=32069468) - [Ask HN: Why isn't GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
+* [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
+* [2022-07-12, 13:12:16](https://news.ycombinator.com/item?id=32069374) - [Slay the Spire – a roguelike deck-building video game](https://www.megacrit.com/)
 * [2022-07-12, 13:02:05](https://news.ycombinator.com/item?id=32069251) - [Developer Workstation Backups](https://news.ycombinator.com/item?id=32069251)
 * [2022-07-12, 12:49:07](https://news.ycombinator.com/item?id=32069090) - [Uber used Greyball fake app to evade police across Europe](https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals)
+* [2022-07-12, 12:39:25](https://news.ycombinator.com/item?id=32068975) - [Ask HN: Good Private Email Host with IMAP](https://news.ycombinator.com/item?id=32068975)
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
 * [2022-07-12, 11:59:26](https://news.ycombinator.com/item?id=32068579) - [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
 * [2022-07-12, 11:46:48](https://news.ycombinator.com/item?id=32068479) - [The Uber Leak Exposes the Global War on Workers](https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy)
