@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
 * [2022-07-12, 14:48:37](https://news.ycombinator.com/item?id=32070805) - [You Wouldn't Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
 * [2022-07-12, 14:44:56](https://news.ycombinator.com/item?id=32070747) - [Ask HN: Examples of large acquisitions that did not ruin the acquired company](https://news.ycombinator.com/item?id=32070747)
 * [2022-07-12, 14:40:01](https://news.ycombinator.com/item?id=32070661) - [Nikon to Stop Making SLR Cameras and Focus on Mirrorless Models](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
@@ -8,7 +9,6 @@
 * [2022-07-12, 13:52:44](https://news.ycombinator.com/item?id=32069926) - [Guest WiFi using a QR code](https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html)
 * [2022-07-12, 13:27:23](https://news.ycombinator.com/item?id=32069578) - [Photos Always Pointing at the Pointer](https://pointerpointer.com/)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
-* [2022-07-12, 13:02:05](https://news.ycombinator.com/item?id=32069251) - [Developer Workstation Backups](https://news.ycombinator.com/item?id=32069251)
 * [2022-07-12, 12:49:07](https://news.ycombinator.com/item?id=32069090) - [Uber used Greyball fake app to evade police across Europe](https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals)
 * [2022-07-12, 12:39:25](https://news.ycombinator.com/item?id=32068975) - [Ask HN: Good Private Email Host with IMAP](https://news.ycombinator.com/item?id=32068975)
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
