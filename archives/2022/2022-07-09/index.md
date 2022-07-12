@@ -15,6 +15,7 @@
 * [2022-07-09, 19:57:21](https://news.ycombinator.com/item?id=32038713) - [Insulator or superconductor? Physicists find graphene is both (2018)](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 * [2022-07-09, 19:31:48](https://news.ycombinator.com/item?id=32038475) - [Spearphishing: It can happen to you too](https://xeiaso.net/blog/spearphishing)
 * [2022-07-09, 18:43:53](https://news.ycombinator.com/item?id=32038081) - [Kate Bush’s Running Up That Hill Synth Sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
+* [2022-07-09, 18:35:58](https://news.ycombinator.com/item?id=32038005) - [A First Year of Discovery](https://inference-review.com/article/a-first-year-of-discovery)
 * [2022-07-09, 18:29:43](https://news.ycombinator.com/item?id=32037955) - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
 * [2022-07-09, 18:06:56](https://news.ycombinator.com/item?id=32037740) - [Show HN: Copy React code from any site](https://sample-code.aspect.app)
 * [2022-07-09, 17:55:30](https://news.ycombinator.com/item?id=32037622) - [Getting the Most from Your Logs](https://www.thebalancesmb.com/how-to-buck-a-tree-2218134)

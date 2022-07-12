@@ -57,6 +57,7 @@
 * [2022-07-10, 11:29:53](https://news.ycombinator.com/item?id=32043728) - [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
 * [2022-07-10, 10:59:52](https://news.ycombinator.com/item?id=32043571) - [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
 * [2022-07-10, 10:51:29](https://news.ycombinator.com/item?id=32043539) - [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
+* [2022-07-10, 10:47:47](https://news.ycombinator.com/item?id=32043518) - [Photographer documents all items that she owns](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
 * [2022-07-10, 10:34:53](https://news.ycombinator.com/item?id=32043460) - [My Favorite Erlang Container](https://ferd.ca/my-favorite-erlang-container.html)
 * [2022-07-10, 10:29:57](https://news.ycombinator.com/item?id=32043433) - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [2022-07-10, 10:23:41](https://news.ycombinator.com/item?id=32043405) - [Physicists see electron whirlpools for the first time](https://news.mit.edu/2022/electron-whirlpools-physics-0706)
