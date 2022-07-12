@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 16:30:22](https://news.ycombinator.com/item?id=32072321) - [Heathrow tells all airlines to stop selling ANY flights until 11th September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
 * [2022-07-12, 16:12:37](https://news.ycombinator.com/item?id=32072035) - [Founders of bankrupt crypto hedge fund 3AC go missing](https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html)
+* [2022-07-12, 16:05:26](https://news.ycombinator.com/item?id=32071913) - [Return Stack Buffer Underflow – Retbleed (Intel)](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/return-stack-buffer-underflow.html)
+* [2022-07-12, 15:28:10](https://news.ycombinator.com/item?id=32071349) - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
 * [2022-07-12, 15:11:57](https://news.ycombinator.com/item?id=32071124) - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
 * [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
@@ -16,7 +19,6 @@
 * [2022-07-12, 11:50:58](https://news.ycombinator.com/item?id=32068507) - [Nikon is reportedly dropping out of the market for SLR cameras](https://www.theverge.com/2022/7/12/23204975/nikon-dslr-slr-cameras-stop-report-mirrorless)
 * [2022-07-12, 11:46:48](https://news.ycombinator.com/item?id=32068479) - [The Uber leak exposes the global war on workers](https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy)
 * [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
-* [2022-07-12, 10:53:52](https://news.ycombinator.com/item?id=32068062) - [Amazon issued 13,000 disciplinary notices at single U.S. warehouse](https://www.reuters.com/technology/amazon-issued-13000-disciplinary-notices-single-us-warehouse-2022-07-12/)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
@@ -28,8 +30,6 @@
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
 * [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
-* [2022-07-11, 11:01:55](https://news.ycombinator.com/item?id=32054532) - [Building a Cache in Elixir](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
-* [2022-07-10, 10:47:47](https://news.ycombinator.com/item?id=32043518) - [Photographer documents all items that she owns](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
 
 ## [Archives](archives/index.md)
 
