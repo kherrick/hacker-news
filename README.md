@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 17:46:11](https://news.ycombinator.com/item?id=32073410) - [New Decade, New Ideas. (Ev Williams to Step Down from Medium)](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
 * [2022-07-12, 17:08:11](https://news.ycombinator.com/item?id=32072884) - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
 * [2022-07-12, 17:07:07](https://news.ycombinator.com/item?id=32072870) - [Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat](https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l)
 * [2022-07-12, 17:00:00](https://news.ycombinator.com/item?id=32072772) - [Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines](https://www.pachyderm.com/careers/#positions)
@@ -28,8 +29,7 @@
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
-* [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
-* [2022-07-11, 04:35:32](https://news.ycombinator.com/item?id=32052247) - [The Magic of Bits “Bitwise”](https://antonio-cooler.gitbook.io/coolervoid-tavern/the-magic-of-bits-bitwise)
+* [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
 
 ## [Archives](archives/index.md)
 

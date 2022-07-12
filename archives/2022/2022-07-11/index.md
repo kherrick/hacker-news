@@ -56,6 +56,7 @@
 * [2022-07-11, 09:05:44](https://news.ycombinator.com/item?id=32053816) - [Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity](https://www.colorvote.io)
 * [2022-07-11, 08:24:29](https://news.ycombinator.com/item?id=32053592) - [The Problem with RISC-V V Mask Bits](https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits)
 * [2022-07-11, 08:13:46](https://news.ycombinator.com/item?id=32053537) - [Renewables remain cheapest, but cost reductions on hold](https://www.csiro.au/en/news/news-releases/2022/gencost-2022)
+* [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
 * [2022-07-11, 08:10:30](https://news.ycombinator.com/item?id=32053512) - [Monads are a class of hard drugs](http://ix.io/443i/html)
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
 * [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)

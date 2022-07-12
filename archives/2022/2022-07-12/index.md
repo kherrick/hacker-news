@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 17:46:11](https://news.ycombinator.com/item?id=32073410) - [New Decade, New Ideas. (Ev Williams to Step Down from Medium)](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
 * [2022-07-12, 17:09:09](https://news.ycombinator.com/item?id=32072901) - [$5 WiFi6 Router? Um, Thank You, D-Link](https://shop.us.dlink.com/products/5-port-gigabit-ethernet-wifi-6-ax1500-mesh-router)
 * [2022-07-12, 17:08:11](https://news.ycombinator.com/item?id=32072884) - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
 * [2022-07-12, 17:07:07](https://news.ycombinator.com/item?id=32072870) - [Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat](https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l)
