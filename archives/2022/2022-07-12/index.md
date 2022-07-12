@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
+* [2022-07-12, 17:50:02](https://news.ycombinator.com/item?id=32073450) - [40 Years Ago, Disney's Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
 * [2022-07-12, 17:46:11](https://news.ycombinator.com/item?id=32073410) - [New Decade, New Ideas. (Ev Williams to Step Down from Medium)](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
 * [2022-07-12, 17:09:09](https://news.ycombinator.com/item?id=32072901) - [$5 WiFi6 Router? Um, Thank You, D-Link](https://shop.us.dlink.com/products/5-port-gigabit-ethernet-wifi-6-ax1500-mesh-router)
 * [2022-07-12, 17:08:11](https://news.ycombinator.com/item?id=32072884) - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
