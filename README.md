@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-12, 21:50:49](https://news.ycombinator.com/item?id=32076143) - [News engagement plummets as Americans tune out](https://www.axios.com/2022/07/12/news-media-readership-ratings-2022)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
@@ -19,6 +18,7 @@
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [A/B testing gets misused to juice metrics in the short term](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The Webb Space Telescope’s profound data challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
+* [2022-07-12, 09:58:41](https://news.ycombinator.com/item?id=32067705) - [BLOOM: The largest open multilingual language model](https://bigscience.huggingface.co/blog/bloom)
 * [2022-07-12, 09:37:45](https://news.ycombinator.com/item?id=32067559) - [Memory Management Reference](https://www.memorymanagement.org/)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Roguelike Tutorial in Rust (2019)](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
