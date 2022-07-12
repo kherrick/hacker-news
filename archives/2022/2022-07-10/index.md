@@ -86,3 +86,4 @@
 * [2022-07-10, 02:13:30](https://news.ycombinator.com/item?id=32041238) - [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
 * [2022-07-10, 00:23:23](https://news.ycombinator.com/item?id=32040654) - [Converting HDR to SDR with FFmpeg (2018)](https://web.archive.org/web/20180817195640/https://stevens.li/guides/video/converting-hdr-to-sdr-with-ffmpeg/)
 * [2022-07-10, 00:16:36](https://news.ycombinator.com/item?id=32040614) - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
+* [2022-07-10, 00:00:10](https://news.ycombinator.com/item?id=32040518) - [Teensy Gurdy: a DIY hurdy gurdy synthesizer](https://github.com/banjomasterpete/Teensy-Gurdy)

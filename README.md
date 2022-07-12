@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
-* [2022-07-12, 03:12:55](https://news.ycombinator.com/item?id=32065125) - [Meta managers are urged to identify, push out low performers](https://www.wsj.com/articles/meta-managers-are-urged-to-identify-push-out-low-performers-11657576630)
 * [2022-07-12, 02:52:38](https://news.ycombinator.com/item?id=32065021) - [Talking about layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
 * [2022-07-12, 02:33:00](https://news.ycombinator.com/item?id=32064895) - [Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
 * [2022-07-12, 02:31:40](https://news.ycombinator.com/item?id=32064882) - [State lotteries transfer wealth out of needy communities, investigation finds](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
@@ -28,6 +27,7 @@
 * [2022-07-10, 09:49:06](https://news.ycombinator.com/item?id=32043235) - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 08:14:11](https://news.ycombinator.com/item?id=32042767) - [Ask HN: How do you search for products / apps given a list of requirements?](https://news.ycombinator.com/item?id=32042767)
+* [2022-07-10, 00:00:10](https://news.ycombinator.com/item?id=32040518) - [Teensy Gurdy: a DIY hurdy gurdy synthesizer](https://github.com/banjomasterpete/Teensy-Gurdy)
 * [2022-07-09, 17:55:30](https://news.ycombinator.com/item?id=32037622) - [How to buck a tree: Cutting logs for maximum yield (2018)](https://www.thebalancesmb.com/how-to-buck-a-tree-2218134)
 * [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 
