@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 13:27:23](https://news.ycombinator.com/item?id=32069578) - [Photos Always Pointing the Pointer](https://pointerpointer.com/)
+* [2022-07-12, 13:17:57](https://news.ycombinator.com/item?id=32069468) - [Ask HN: Why isn't GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
+* [2022-07-12, 13:02:05](https://news.ycombinator.com/item?id=32069251) - [Developer Workstation Backups](https://news.ycombinator.com/item?id=32069251)
+* [2022-07-12, 12:49:07](https://news.ycombinator.com/item?id=32069090) - [Uber used Greyball fake app to evade police across Europe](https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals)
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
 * [2022-07-12, 11:59:26](https://news.ycombinator.com/item?id=32068579) - [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
 * [2022-07-12, 11:46:48](https://news.ycombinator.com/item?id=32068479) - [The Uber Leak Exposes the Global War on Workers](https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy)
 * [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
+* [2022-07-12, 10:53:52](https://news.ycombinator.com/item?id=32068062) - [Amazon issued 13,000 disciplinary notices at single U.S. warehouse](https://www.reuters.com/technology/amazon-issued-13000-disciplinary-notices-single-us-warehouse-2022-07-12/)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
