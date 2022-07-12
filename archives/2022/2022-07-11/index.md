@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-11](index.md)
 
+* [2022-07-11, 23:09:14](https://news.ycombinator.com/item?id=32063347) - [DoD Open Source Software FAQ](https://dodcio.defense.gov/open-source-software-faq/)
 * [2022-07-11, 23:08:13](https://news.ycombinator.com/item?id=32063341) - [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
 * [2022-07-11, 22:47:30](https://news.ycombinator.com/item?id=32063137) - [MedMe Health (YC W21) is hiring a Senior Engineer, in this economy? (Remote)](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
 * [2022-07-11, 22:26:02](https://news.ycombinator.com/item?id=32062863) - [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
