@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 16:12:37](https://news.ycombinator.com/item?id=32072035) - [Founders of bankrupt crypto hedge fund 3AC go missing](https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html)
 * [2022-07-12, 15:29:51](https://news.ycombinator.com/item?id=32071372) - [Carina Nebula (James Webb's first pictures)](https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg)
 * [2022-07-12, 15:11:57](https://news.ycombinator.com/item?id=32071124) - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
@@ -24,12 +25,14 @@
 * [2022-07-12, 12:39:25](https://news.ycombinator.com/item?id=32068975) - [Ask HN: Good Private Email Host with IMAP](https://news.ycombinator.com/item?id=32068975)
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
 * [2022-07-12, 11:59:26](https://news.ycombinator.com/item?id=32068579) - [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
+* [2022-07-12, 11:50:58](https://news.ycombinator.com/item?id=32068507) - [Nikon is reportedly dropping out of the market for SLR cameras](https://www.theverge.com/2022/7/12/23204975/nikon-dslr-slr-cameras-stop-report-mirrorless)
 * [2022-07-12, 11:46:48](https://news.ycombinator.com/item?id=32068479) - [The Uber Leak Exposes the Global War on Workers](https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy)
 * [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
 * [2022-07-12, 10:53:52](https://news.ycombinator.com/item?id=32068062) - [Amazon issued 13,000 disciplinary notices at single U.S. warehouse](https://www.reuters.com/technology/amazon-issued-13000-disciplinary-notices-single-us-warehouse-2022-07-12/)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
+* [2022-07-12, 09:37:45](https://news.ycombinator.com/item?id=32067559) - [Memory Management Reference](https://www.memorymanagement.org/)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
 * [2022-07-12, 08:57:51](https://news.ycombinator.com/item?id=32067268) - [Bun (can become) the ideal JavaScript runtime](https://alexhultman.medium.com/bun-can-become-the-ideal-javascript-runtime-3b2610792433)
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
