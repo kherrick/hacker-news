@@ -24,7 +24,7 @@
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The Webb Space Telescope’s profound data challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 09:37:45](https://news.ycombinator.com/item?id=32067559) - [Memory Management Reference](https://www.memorymanagement.org/)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
-* [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
+* [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Roguelike Tutorial in Rust (2019)](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 * [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
