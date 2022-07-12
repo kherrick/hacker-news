@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
 * [2022-07-12, 08:57:51](https://news.ycombinator.com/item?id=32067268) - [Bun (can become) the ideal JavaScript runtime](https://alexhultman.medium.com/bun-can-become-the-ideal-javascript-runtime-3b2610792433)
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
@@ -14,6 +15,7 @@
 * [2022-07-12, 07:05:02](https://news.ycombinator.com/item?id=32066565) - [BMW Makes Heated Seats an $18/Month Subscription Service – Again](https://www.thedrive.com/news/bmw-is-charging-a-subscription-fee-for-heated-seats-again)
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye. You mught have to update your ISO data](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
+* [2022-07-12, 06:19:11](https://news.ycombinator.com/item?id=32066283) - [Japan Proposes a Wild Concept for Making Artificial Gravity on the Moon](https://singularityhub.com/2022/07/11/japan-proposes-a-wild-concept-for-making-artificial-gravity-on-the-moon/)
 * [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
 * [2022-07-12, 03:12:55](https://news.ycombinator.com/item?id=32065125) - [Meta managers are urged to identify, push out low performers](https://www.wsj.com/articles/meta-managers-are-urged-to-identify-push-out-low-performers-11657576630)
