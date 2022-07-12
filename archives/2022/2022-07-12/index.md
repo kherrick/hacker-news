@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring and Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [How to write and sell a sci-fi story (and how much you'll make)](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)

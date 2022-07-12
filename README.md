@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring and Hiring](https://www.easypost.com/careers)
-* [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [How to write and sell a sci-fi story (and how much you'll make)](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
+* [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
 * [2022-07-12, 17:50:02](https://news.ycombinator.com/item?id=32073450) - [40 years ago, Tron changed sci-fi movies](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
 * [2022-07-12, 17:46:11](https://news.ycombinator.com/item?id=32073410) - [Ev Williams to step down from Medium](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
@@ -13,7 +14,6 @@
 * [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
 * [2022-07-12, 14:48:37](https://news.ycombinator.com/item?id=32070805) - [You wouldn't download a back end](https://cjohanaja.com/musings/wouldnt-download-backend/)
 * [2022-07-12, 14:44:56](https://news.ycombinator.com/item?id=32070747) - [Ask HN: Examples of large acquisitions that did not ruin the acquired company?](https://news.ycombinator.com/item?id=32070747)
-* [2022-07-12, 14:40:01](https://news.ycombinator.com/item?id=32070661) - [Nikon to stop making SLR cameras and focus on mirrorless models?](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
 * [2022-07-12, 14:15:33](https://news.ycombinator.com/item?id=32070292) - [Spotify to acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
 * [2022-07-12, 13:52:44](https://news.ycombinator.com/item?id=32069926) - [Guest WiFi using a QR code](https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html)
 * [2022-07-12, 13:27:23](https://news.ycombinator.com/item?id=32069578) - [Photos Always Pointing at the Pointer (2012)](https://pointerpointer.com/)
