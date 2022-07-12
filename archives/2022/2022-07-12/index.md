@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 14:21:38](https://news.ycombinator.com/item?id=32070377) - [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
+* [2022-07-12, 14:00:18](https://news.ycombinator.com/item?id=32070067) - [Domino's spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
 * [2022-07-12, 13:27:23](https://news.ycombinator.com/item?id=32069578) - [Photos Always Pointing the Pointer](https://pointerpointer.com/)
 * [2022-07-12, 13:17:57](https://news.ycombinator.com/item?id=32069468) - [Ask HN: Why isn't GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
