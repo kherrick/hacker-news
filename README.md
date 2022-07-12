@@ -21,7 +21,7 @@
 * [2022-07-11, 11:08:10](https://news.ycombinator.com/item?id=32054565) - [8-Part Film Adaptation of Tolstoy's Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
 * [2022-07-11, 10:02:45](https://news.ycombinator.com/item?id=32054181) - [Working in the software industry, circa 1989](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
 * [2022-07-11, 09:29:18](https://news.ycombinator.com/item?id=32053961) - [Show HN: Lldap, a Simplified LDAP Server](https://github.com/nitnelave/lldap)
-* [2022-07-11, 09:05:44](https://news.ycombinator.com/item?id=32053816) - [Show HN: Colorvote.io – ranking all sRGB web colors by popularity](https://www.colorvote.io)
+* [2022-07-10, 12:04:38](https://news.ycombinator.com/item?id=32043923) - [Writing: The Most Misunderstood Activity](https://www.solimanwrites.com/writing-the-most-misunderstood-activity/)
 * [2022-07-10, 11:30:38](https://news.ycombinator.com/item?id=32043738) - [Build, gather, brawl, repeat: The history of real-time strategy games (2017)](https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/)
 * [2022-07-10, 10:51:29](https://news.ycombinator.com/item?id=32043539) - [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
 * [2022-07-10, 10:23:41](https://news.ycombinator.com/item?id=32043405) - [Physicists see electron whirlpools for the first time](https://news.mit.edu/2022/electron-whirlpools-physics-0706)

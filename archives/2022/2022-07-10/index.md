@@ -51,6 +51,7 @@
 * [2022-07-10, 13:16:29](https://news.ycombinator.com/item?id=32044431) - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
 * [2022-07-10, 12:58:22](https://news.ycombinator.com/item?id=32044296) - [Ask HN: Are you hiking? How old are you and how many kilometers can you Hike?](https://news.ycombinator.com/item?id=32044296)
 * [2022-07-10, 12:10:31](https://news.ycombinator.com/item?id=32043969) - [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
+* [2022-07-10, 12:04:38](https://news.ycombinator.com/item?id=32043923) - [Writing: The Most Misunderstood Activity](https://www.solimanwrites.com/writing-the-most-misunderstood-activity/)
 * [2022-07-10, 11:56:26](https://news.ycombinator.com/item?id=32043872) - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
 * [2022-07-10, 11:30:38](https://news.ycombinator.com/item?id=32043738) - [Build, gather, brawl, repeat: The history of real-time strategy games (2017)](https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/)
 * [2022-07-10, 11:29:53](https://news.ycombinator.com/item?id=32043728) - [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
