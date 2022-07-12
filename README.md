@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-12, 14:21:38](https://news.ycombinator.com/item?id=32070377) - [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
+* [2022-07-12, 14:15:33](https://news.ycombinator.com/item?id=32070292) - [Spotify to Acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
 * [2022-07-12, 14:00:18](https://news.ycombinator.com/item?id=32070067) - [Domino's spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
+* [2022-07-12, 13:52:44](https://news.ycombinator.com/item?id=32069926) - [Guest WiFi using a QR code](https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html)
 * [2022-07-12, 13:27:23](https://news.ycombinator.com/item?id=32069578) - [Photos Always Pointing at the Pointer](https://pointerpointer.com/)
 * [2022-07-12, 13:17:57](https://news.ycombinator.com/item?id=32069468) - [Ask HN: Why isn't GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
@@ -25,10 +27,8 @@
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
 * [2022-07-12, 02:54:04](https://news.ycombinator.com/item?id=32065026) - [BMW heated seats subscription costs $18 per month in South Korea](https://www.motor1.com/news/597376/bmw-heated-seats-subscription/)
 * [2022-07-12, 01:08:16](https://news.ycombinator.com/item?id=32064324) - [Pepsi: Breathtaking Design Strategy (2008) [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
-* [2022-07-11, 22:47:30](https://news.ycombinator.com/item?id=32063137) - [MedMe Health (YC W21) is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
 * [2022-07-11, 11:01:55](https://news.ycombinator.com/item?id=32054532) - [Building a Cache in Elixir](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
 * [2022-07-10, 10:47:47](https://news.ycombinator.com/item?id=32043518) - [Photographer documents all items that she owns](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
-* [2022-07-10, 10:34:53](https://news.ycombinator.com/item?id=32043460) - [My favorite Erlang container](https://ferd.ca/my-favorite-erlang-container.html)
 * [2022-07-10, 00:00:10](https://news.ycombinator.com/item?id=32040518) - [Teensy Gurdy: a DIY hurdy gurdy synthesizer](https://github.com/banjomasterpete/Teensy-Gurdy)
 
 ## [Archives](archives/index.md)
