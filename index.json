@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-07-12, 15:28:03",
+      "https://news.ycombinator.com/item?id=32071346"
+    ],
+    [
+      "Functional programming is finally going mainstream",
+      "https://github.com/readme/featured/functional-programming"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 15:12:41",
       "https://news.ycombinator.com/item?id=32071137"
     ],
@@ -197,16 +207,6 @@
     [
       "Column order in PostgreSQL does matter",
       "https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 08:29:20",
-      "https://news.ycombinator.com/item?id=32067019"
-    ],
-    [
-      "Roguelike Tutorial in Rust (2019)",
-      "https://bfnightly.bracketproductions.com/rustbook/chapter_0.html"
     ]
   ],
   [
