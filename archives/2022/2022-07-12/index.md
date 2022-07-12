@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 15:29:51](https://news.ycombinator.com/item?id=32071372) - [Carina Nebula (James Webb's first pictures)](https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg)
 * [2022-07-12, 15:11:57](https://news.ycombinator.com/item?id=32071124) - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
 * [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
