@@ -12,6 +12,7 @@
 * [2022-07-12, 07:05:02](https://news.ycombinator.com/item?id=32066565) - [BMW Makes Heated Seats an $18/Month Subscription Service – Again](https://www.thedrive.com/news/bmw-is-charging-a-subscription-fee-for-heated-seats-again)
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye. You mught have to update your ISO data](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
+* [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
 * [2022-07-12, 03:12:55](https://news.ycombinator.com/item?id=32065125) - [Meta managers are urged to identify, push out low performers](https://www.wsj.com/articles/meta-managers-are-urged-to-identify-push-out-low-performers-11657576630)
 * [2022-07-12, 02:52:38](https://news.ycombinator.com/item?id=32065021) - [Talking about Layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
