@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
+* [2022-07-12, 08:57:51](https://news.ycombinator.com/item?id=32067268) - [Bun (can become) the ideal JavaScript runtime](https://alexhultman.medium.com/bun-can-become-the-ideal-javascript-runtime-3b2610792433)
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 07:33:58](https://news.ycombinator.com/item?id=32066714) - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
