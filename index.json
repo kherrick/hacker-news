@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-12, 02:52:38",
+      "https://news.ycombinator.com/item?id=32065021"
+    ],
+    [
+      "Talking about Layoffs",
+      "https://angelariggs.github.io/articles/talking-about-layoffs"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 02:33:00",
+      "https://news.ycombinator.com/item?id=32064895"
+    ],
+    [
+      "Police Officer Exam Tutorial [pdf]",
+      "https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 02:31:40",
+      "https://news.ycombinator.com/item?id=32064882"
+    ],
+    [
+      "State lotteries transfer wealth out of needy communities, investigation finds",
+      "https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 01:08:16",
       "https://news.ycombinator.com/item?id=32064324"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32063347"
     ],
     [
-      "DoD Open Source Software FAQ",
+      "DoD Open Source Software FAQ (2021)",
       "https://dodcio.defense.gov/open-source-software-faq/"
     ]
   ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-07-11, 19:26:30",
-      "https://news.ycombinator.com/item?id=32060597"
-    ],
-    [
-      "Avoiding image layout shifts (CLS): aspect-ratio vs. width and height",
-      "https://jakearchibald.com/2022/img-aspect-ratio/"
-    ]
-  ],
-  [
-    [
       "2022-07-11, 18:57:14",
       "https://news.ycombinator.com/item?id=32060216"
     ],
@@ -101,42 +121,12 @@
   ],
   [
     [
-      "2022-07-11, 17:34:42",
-      "https://news.ycombinator.com/item?id=32059109"
-    ],
-    [
-      "The euro has tumbled near parity to the US dollar",
-      "https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake"
-    ]
-  ],
-  [
-    [
       "2022-07-11, 16:58:39",
       "https://news.ycombinator.com/item?id=32058674"
     ],
     [
       "Thoughts on the potato diet",
       "https://dynomight.net/potato-diet/"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 15:32:04",
-      "https://news.ycombinator.com/item?id=32057459"
-    ],
-    [
-      "Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning",
-      "https://arxiv.org/abs/2206.15378"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 15:05:20",
-      "https://news.ycombinator.com/item?id=32057116"
-    ],
-    [
-      "GCC Rust Approved by GCC Steering Committee",
-      "https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2022-07-11, 13:45:57",
+      "https://news.ycombinator.com/item?id=32056049"
+    ],
+    [
+      "Blackmail attempt left a Houston restaurant bombarded with 1-star reviews",
+      "https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php"
+    ]
+  ],
+  [
+    [
       "2022-07-11, 13:35:29",
       "https://news.ycombinator.com/item?id=32055924"
     ],
@@ -181,21 +181,11 @@
   ],
   [
     [
-      "2022-07-11, 13:05:38",
-      "https://news.ycombinator.com/item?id=32055633"
-    ],
-    [
-      "Day 2 Operations with the James Webb Space Telescope is about to begin",
-      "https://flyingbarron.medium.com/day-2-operations-with-the-james-webb-space-telescope-is-about-to-begin-44049577d382"
-    ]
-  ],
-  [
-    [
       "2022-07-10, 12:04:38",
       "https://news.ycombinator.com/item?id=32043923"
     ],
     [
-      "Writing: The Most Misunderstood Activity",
+      "Writing: A misunderstood activity",
       "https://www.solimanwrites.com/writing-the-most-misunderstood-activity/"
     ]
   ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2022-07-10, 10:34:53",
-      "https://news.ycombinator.com/item?id=32043460"
+      "2022-07-10, 10:47:47",
+      "https://news.ycombinator.com/item?id=32043518"
     ],
     [
-      "My Favorite Erlang Container",
-      "https://ferd.ca/my-favorite-erlang-container.html"
+      "Photographer documents all items that she owns",
+      "https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/"
     ]
   ],
   [
     [
-      "2022-07-10, 10:23:41",
-      "https://news.ycombinator.com/item?id=32043405"
+      "2022-07-10, 10:34:53",
+      "https://news.ycombinator.com/item?id=32043460"
     ],
     [
-      "Physicists see electron whirlpools for the first time",
-      "https://news.mit.edu/2022/electron-whirlpools-physics-0706"
+      "My favorite Erlang container",
+      "https://ferd.ca/my-favorite-erlang-container.html"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2022-07-09, 18:35:58",
+      "https://news.ycombinator.com/item?id=32038005"
+    ],
+    [
+      "A First Year of Discovery",
+      "https://inference-review.com/article/a-first-year-of-discovery"
+    ]
+  ],
+  [
+    [
       "2022-07-09, 17:55:30",
       "https://news.ycombinator.com/item?id=32037622"
     ],
     [
-      "Getting the Most from Your Logs",
+      "How to buck a tree: Cutting logs for maximum yield (2018)",
       "https://www.thebalancesmb.com/how-to-buck-a-tree-2218134"
     ]
   ],
