@@ -48,6 +48,7 @@
 * [2022-07-11, 11:24:08](https://news.ycombinator.com/item?id=32054667) - [US Crosses the Electric-Car Tipping Point for Mass Adoption](https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone)
 * [2022-07-11, 11:08:10](https://news.ycombinator.com/item?id=32054565) - [8-Part Film Adaptation of Tolstoy's Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
 * [2022-07-11, 11:03:02](https://news.ycombinator.com/item?id=32054539) - [Hybrid Work Is Doomed](https://www.theatlantic.com/technology/archive/2022/07/work-from-home-rto-flexibility/661495/)
+* [2022-07-11, 11:01:55](https://news.ycombinator.com/item?id=32054532) - [Building a Cache in Elixir](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
 * [2022-07-11, 10:35:50](https://news.ycombinator.com/item?id=32054380) - [Emmanuel Macron aided Uber lobbying drive in France, leak reveals](https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals)
 * [2022-07-11, 10:27:36](https://news.ycombinator.com/item?id=32054335) - [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
 * [2022-07-11, 10:02:45](https://news.ycombinator.com/item?id=32054181) - [Working in the software industry, circa 1989 – Jim Grey](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
