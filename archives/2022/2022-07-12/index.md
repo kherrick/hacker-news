@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 15:11:57](https://news.ycombinator.com/item?id=32071124) - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
+* [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
 * [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
 * [2022-07-12, 14:48:37](https://news.ycombinator.com/item?id=32070805) - [You Wouldn't Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
 * [2022-07-12, 14:44:56](https://news.ycombinator.com/item?id=32070747) - [Ask HN: Examples of large acquisitions that did not ruin the acquired company](https://news.ycombinator.com/item?id=32070747)
