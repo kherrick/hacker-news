@@ -5,7 +5,6 @@
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
-* [2022-07-12, 17:50:02](https://news.ycombinator.com/item?id=32073450) - [40 years ago, Tron changed sci-fi movies](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
 * [2022-07-12, 17:46:11](https://news.ycombinator.com/item?id=32073410) - [Ev Williams to step down from Medium](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
 * [2022-07-12, 17:08:11](https://news.ycombinator.com/item?id=32072884) - [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
 * [2022-07-12, 16:07:05](https://news.ycombinator.com/item?id=32071949) - [Retbleed: New speculative execution attack sends Intel and AMD scrambling](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/)
@@ -29,6 +28,7 @@
 * [2022-07-11, 15:12:45](https://news.ycombinator.com/item?id=32057211) - [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
 * [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
 * [2022-07-11, 08:08:57](https://news.ycombinator.com/item?id=32053502) - [How GPU Computing Works [video]](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/)
+* [2022-07-11, 07:54:54](https://news.ycombinator.com/item?id=32053422) - [SL (Steam Locomotive)](https://github.com/mtoyoda/sl)
 * [2022-07-11, 03:52:30](https://news.ycombinator.com/item?id=32051986) - [The World War II Frogmen Who Trained in Secret Off the California Coast](https://www.atlasobscura.com/articles/world-war-2-frogmen-catalina)
 
 ## [Archives](archives/index.md)
