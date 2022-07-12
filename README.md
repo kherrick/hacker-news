@@ -17,6 +17,7 @@
 * [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
 * [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Your compliance obligations under the UK’s Online Safety Bill](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
+* [2022-07-10, 21:39:09](https://news.ycombinator.com/item?id=32049341) - [Adaptability needs to be the rediscovered strength of market economies](https://www.wsj.com/articles/energy-panic-only-serves-putin-prices-gas-costs-russia-economy-adjustment-supply-demand-11655844315)
 * [2022-07-10, 12:04:38](https://news.ycombinator.com/item?id=32043923) - [Writing: A misunderstood activity](https://www.solimanwrites.com/writing-the-most-misunderstood-activity/)
 * [2022-07-10, 11:30:38](https://news.ycombinator.com/item?id=32043738) - [Build, gather, brawl, repeat: The history of real-time strategy games (2017)](https://arstechnica.com/gaming/2017/09/build-gather-brawl-repeat-the-history-of-real-time-strategy-games/)
 * [2022-07-10, 11:19:32](https://news.ycombinator.com/item?id=32043677) - [The Internet from Rocks – A High Level Explanation of Computers and the Internet](https://julian.bearblog.dev/the-internet-from-rocks-a-high-level-explanation-of-computers-and-the-internet/)
@@ -27,7 +28,6 @@
 * [2022-07-10, 09:49:06](https://news.ycombinator.com/item?id=32043235) - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/)
 * [2022-07-10, 09:08:47](https://news.ycombinator.com/item?id=32043026) - [Technical overview of Kandria, a game and game engine developed in Common Lisp](https://reader.tymoon.eu/article/413)
 * [2022-07-10, 08:14:11](https://news.ycombinator.com/item?id=32042767) - [Ask HN: How do you search for products / apps given a list of requirements?](https://news.ycombinator.com/item?id=32042767)
-* [2022-07-10, 04:40:53](https://news.ycombinator.com/item?id=32041917) - [Plano man keeping Blockbuster alive](https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/)
 * [2022-07-09, 17:55:30](https://news.ycombinator.com/item?id=32037622) - [How to buck a tree: Cutting logs for maximum yield (2018)](https://www.thebalancesmb.com/how-to-buck-a-tree-2218134)
 * [2022-07-09, 12:12:57](https://news.ycombinator.com/item?id=32034320) - [U.S. News pulls Columbia University from its 2022 rankings](https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/)
 

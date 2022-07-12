@@ -11,6 +11,7 @@
 * [2022-07-10, 22:16:59](https://news.ycombinator.com/item?id=32049672) - [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
 * [2022-07-10, 21:58:14](https://news.ycombinator.com/item?id=32049508) - [Assassin’s Creed Liberation Delisted, Unplayable Even to Owners Starting Sep. 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
 * [2022-07-10, 21:53:13](https://news.ycombinator.com/item?id=32049469) - [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
+* [2022-07-10, 21:39:09](https://news.ycombinator.com/item?id=32049341) - [Adaptability needs to be the rediscovered strength of market economies](https://www.wsj.com/articles/energy-panic-only-serves-putin-prices-gas-costs-russia-economy-adjustment-supply-demand-11655844315)
 * [2022-07-10, 21:28:45](https://news.ycombinator.com/item?id=32049237) - [Death, Nothingness, and Subjectivity (1994)](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
 * [2022-07-10, 21:23:51](https://news.ycombinator.com/item?id=32049194) - [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
 * [2022-07-10, 21:05:55](https://news.ycombinator.com/item?id=32049036) - [BuildZoom (YC W13) is hiring a product manager](https://jobs.lever.co/buildzoom)
