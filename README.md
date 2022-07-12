@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 14:40:01](https://news.ycombinator.com/item?id=32070661) - [Nikon to Stop Making SLR Cameras and Focus on Mirrorless Models](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
 * [2022-07-12, 14:21:38](https://news.ycombinator.com/item?id=32070377) - [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
 * [2022-07-12, 14:15:33](https://news.ycombinator.com/item?id=32070292) - [Spotify to Acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
 * [2022-07-12, 14:00:18](https://news.ycombinator.com/item?id=32070067) - [Domino's spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
@@ -29,7 +30,6 @@
 * [2022-07-12, 01:08:16](https://news.ycombinator.com/item?id=32064324) - [Pepsi: Breathtaking Design Strategy (2008) [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
 * [2022-07-11, 11:01:55](https://news.ycombinator.com/item?id=32054532) - [Building a Cache in Elixir](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
 * [2022-07-10, 10:47:47](https://news.ycombinator.com/item?id=32043518) - [Photographer documents all items that she owns](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
-* [2022-07-10, 00:00:10](https://news.ycombinator.com/item?id=32040518) - [Teensy Gurdy: a DIY hurdy gurdy synthesizer](https://github.com/banjomasterpete/Teensy-Gurdy)
 
 ## [Archives](archives/index.md)
 

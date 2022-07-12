@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 14:40:01](https://news.ycombinator.com/item?id=32070661) - [Nikon to Stop Making SLR Cameras and Focus on Mirrorless Models](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
 * [2022-07-12, 14:21:38](https://news.ycombinator.com/item?id=32070377) - [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
 * [2022-07-12, 14:15:33](https://news.ycombinator.com/item?id=32070292) - [Spotify to Acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
 * [2022-07-12, 14:00:18](https://news.ycombinator.com/item?id=32070067) - [Domino's spent $50.4M on TV ads to brag about $100k donation](https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/)
