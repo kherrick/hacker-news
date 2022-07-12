@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 17:09:09](https://news.ycombinator.com/item?id=32072901) - [$5 WiFi6 Router? Um, Thank You, D-Link](https://shop.us.dlink.com/products/5-port-gigabit-ethernet-wifi-6-ax1500-mesh-router)
+* [2022-07-12, 17:07:07](https://news.ycombinator.com/item?id=32072870) - [Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat](https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l)
+* [2022-07-12, 17:00:00](https://news.ycombinator.com/item?id=32072772) - [Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines](https://www.pachyderm.com/careers/#positions)
 * [2022-07-12, 16:30:22](https://news.ycombinator.com/item?id=32072321) - [Heathrow tells all airlines to stop selling ANY flights until 11th September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
 * [2022-07-12, 16:12:37](https://news.ycombinator.com/item?id=32072035) - [Founders of bankrupt crypto hedge fund 3AC go missing](https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html)
 * [2022-07-12, 16:05:26](https://news.ycombinator.com/item?id=32071913) - [Return Stack Buffer Underflow – Retbleed (Intel)](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/return-stack-buffer-underflow.html)
