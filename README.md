@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
@@ -20,7 +21,6 @@
 * [2022-07-11, 20:14:11](https://news.ycombinator.com/item?id=32061187) - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 * [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 11:01:55](https://news.ycombinator.com/item?id=32054532) - [Building a Cache in Elixir](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
-* [2022-07-10, 21:39:09](https://news.ycombinator.com/item?id=32049341) - [Adaptability needs to be the rediscovered strength of market economies](https://www.wsj.com/articles/energy-panic-only-serves-putin-prices-gas-costs-russia-economy-adjustment-supply-demand-11655844315)
 * [2022-07-10, 12:04:38](https://news.ycombinator.com/item?id=32043923) - [Writing: A misunderstood activity](https://www.solimanwrites.com/writing-the-most-misunderstood-activity/)
 * [2022-07-10, 10:51:29](https://news.ycombinator.com/item?id=32043539) - [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
 * [2022-07-10, 10:47:47](https://news.ycombinator.com/item?id=32043518) - [Photographer documents all items that she owns](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
