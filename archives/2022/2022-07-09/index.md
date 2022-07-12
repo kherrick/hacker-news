@@ -69,6 +69,7 @@
 * [2022-07-09, 11:39:21](https://news.ycombinator.com/item?id=32034076) - [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
 * [2022-07-09, 11:16:43](https://news.ycombinator.com/item?id=32033925) - [Can the 64 and 128 survive? (1988) [pdf]](https://annarchive.com/files/Compute_Gazette_Issue_59_1988_May.pdf)
 * [2022-07-09, 11:09:19](https://news.ycombinator.com/item?id=32033887) - [Amplify UI – Don't just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
+* [2022-07-09, 11:05:00](https://news.ycombinator.com/item?id=32033859) - [Admit It, Squirrels Are Just Tree Rats](https://www.theatlantic.com/science/archive/2022/07/squirrel-vs-rat-rodent-differences/661526/)
 * [2022-07-09, 11:00:35](https://news.ycombinator.com/item?id=32033833) - [Home Brew Computers Web Ring](https://www.homebrewcpuring.org/ringhome.html)
 * [2022-07-09, 10:41:31](https://news.ycombinator.com/item?id=32033724) - [Reverse-engineering the Apollo spacecraft's FM radio](http://www.righto.com/2022/07/reverse-engineering-apollo-spacecrafts.html)
 * [2022-07-09, 10:31:36](https://news.ycombinator.com/item?id=32033673) - [The Continuous Delivery Test](https://sourceless.org/posts/the-continuous-delivery-test.html)

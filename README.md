@@ -9,7 +9,6 @@
 * [2022-07-12, 16:07:05](https://news.ycombinator.com/item?id=32071949) - [Retbleed: New speculative execution attack sends Intel and AMD scrambling](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/)
 * [2022-07-12, 15:28:10](https://news.ycombinator.com/item?id=32071349) - [Giving a shit as a service](https://allenpike.com/2022/giving-a-shit)
 * [2022-07-12, 15:12:41](https://news.ycombinator.com/item?id=32071137) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
-* [2022-07-12, 15:11:57](https://news.ycombinator.com/item?id=32071124) - [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
 * [2022-07-12, 14:57:55](https://news.ycombinator.com/item?id=32070937) - [The future of innovation has patent-free standards](https://blog.opensource.org/the-future-of-innovation-has-patent-free-standards/)
 * [2022-07-12, 14:48:37](https://news.ycombinator.com/item?id=32070805) - [You wouldn't download a back end](https://cjohanaja.com/musings/wouldnt-download-backend/)
@@ -30,6 +29,7 @@
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 * [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
 * [2022-07-11, 08:08:57](https://news.ycombinator.com/item?id=32053502) - [How GPU Computing Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/)
+* [2022-07-09, 11:05:00](https://news.ycombinator.com/item?id=32033859) - [Admit It, Squirrels Are Just Tree Rats](https://www.theatlantic.com/science/archive/2022/07/squirrel-vs-rat-rodent-differences/661526/)
 
 ## [Archives](archives/index.md)
 
