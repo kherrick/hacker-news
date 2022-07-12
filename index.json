@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-07-12, 17:09:09",
+      "https://news.ycombinator.com/item?id=32072901"
+    ],
+    [
+      "$5 WiFi6 Router? Um, Thank You, D-Link",
+      "https://shop.us.dlink.com/products/5-port-gigabit-ethernet-wifi-6-ax1500-mesh-router"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 17:07:07",
+      "https://news.ycombinator.com/item?id=32072870"
+    ],
+    [
+      "Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat",
+      "https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 17:00:00",
+      "https://news.ycombinator.com/item?id=32072772"
+    ],
+    [
+      "Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines",
+      "https://www.pachyderm.com/careers/#positions"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 16:30:22",
       "https://news.ycombinator.com/item?id=32072321"
     ],
     [
-      "Heathrow tells all airlines to stop selling ANY flights until 11th September",
+      "Heathrow tells airlines to stop selling additional flights until September",
       "https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/"
     ]
   ],
@@ -125,18 +155,8 @@
       "https://news.ycombinator.com/item?id=32069418"
     ],
     [
-      "Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard",
+      "Tell HN: We are trying to get tail calls into the WebAssembly standard",
       "https://news.ycombinator.com/item?id=32069418"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 12:49:07",
-      "https://news.ycombinator.com/item?id=32069090"
-    ],
-    [
-      "Uber used Greyball fake app to evade police across Europe",
-      "https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Nikon is reportedly dropping out of the market for SLR cameras",
       "https://www.theverge.com/2022/7/12/23204975/nikon-dslr-slr-cameras-stop-report-mirrorless"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 11:46:48",
-      "https://news.ycombinator.com/item?id=32068479"
-    ],
-    [
-      "The Uber leak exposes the global war on workers",
-      "https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-07-12, 06:04:32",
-      "https://news.ycombinator.com/item?id=32066201"
+      "2022-07-11, 04:35:32",
+      "https://news.ycombinator.com/item?id=32052247"
     ],
     [
-      "Rolling-PWN vulnerability affects all Honda vehicles",
-      "https://rollingpwn.github.io/rolling-pwn/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 04:03:32",
-      "https://news.ycombinator.com/item?id=32065472"
-    ],
-    [
-      "Commander Keen in Keen Dreams",
-      "https://github.com/keendreams/keen"
+      "The Magic of Bits “Bitwise”",
+      "https://antonio-cooler.gitbook.io/coolervoid-tavern/the-magic-of-bits-bitwise"
     ]
   ]
 ]
