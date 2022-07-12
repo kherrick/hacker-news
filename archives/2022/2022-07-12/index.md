@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 07:17:20](https://news.ycombinator.com/item?id=32066644) - [Sound of Colleagues](https://soundofcolleagues.com/)
+* [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
 * [2022-07-12, 03:12:55](https://news.ycombinator.com/item?id=32065125) - [Meta managers are urged to identify, push out low performers](https://www.wsj.com/articles/meta-managers-are-urged-to-identify-push-out-low-performers-11657576630)
 * [2022-07-12, 02:52:38](https://news.ycombinator.com/item?id=32065021) - [Talking about Layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
