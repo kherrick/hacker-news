@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
+* [2022-07-12, 03:12:55](https://news.ycombinator.com/item?id=32065125) - [Meta managers are urged to identify, push out low performers](https://www.wsj.com/articles/meta-managers-are-urged-to-identify-push-out-low-performers-11657576630)
 * [2022-07-12, 02:52:38](https://news.ycombinator.com/item?id=32065021) - [Talking about layoffs](https://angelariggs.github.io/articles/talking-about-layoffs)
 * [2022-07-12, 02:33:00](https://news.ycombinator.com/item?id=32064895) - [Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
 * [2022-07-12, 02:31:40](https://news.ycombinator.com/item?id=32064882) - [State lotteries transfer wealth out of needy communities, investigation finds](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
@@ -14,7 +15,6 @@
 * [2022-07-11, 18:57:14](https://news.ycombinator.com/item?id=32060216) - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
 * [2022-07-11, 18:07:46](https://news.ycombinator.com/item?id=32059566) - [Postgres full-text search: A search engine in a database (2021)](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the potato diet](https://dynomight.net/potato-diet/)
-* [2022-07-11, 15:32:04](https://news.ycombinator.com/item?id=32057459) - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
 * [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 13:19:06](https://news.ycombinator.com/item?id=32055756) - [Your compliance obligations under the UK’s Online Safety Bill](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
 * [2022-07-10, 21:39:09](https://news.ycombinator.com/item?id=32049341) - [Adaptability needs to be the rediscovered strength of market economies](https://www.wsj.com/articles/energy-panic-only-serves-putin-prices-gas-costs-russia-economy-adjustment-supply-demand-11655844315)
