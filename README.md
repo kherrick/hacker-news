@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 07:33:58](https://news.ycombinator.com/item?id=32066714) - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
 * [2022-07-12, 07:17:20](https://news.ycombinator.com/item?id=32066644) - [Sound of Colleagues](https://soundofcolleagues.com/)
@@ -21,7 +22,6 @@
 * [2022-07-11, 13:45:57](https://news.ycombinator.com/item?id=32056049) - [Blackmail attempt left a Houston restaurant bombarded with 1-star reviews](https://www.houstonchronicle.com/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php)
 * [2022-07-11, 11:01:55](https://news.ycombinator.com/item?id=32054532) - [Building a Cache in Elixir](https://www.openmymind.net/Building-A-Cache-In-Elixir/)
 * [2022-07-10, 12:04:38](https://news.ycombinator.com/item?id=32043923) - [Writing: A misunderstood activity](https://www.solimanwrites.com/writing-the-most-misunderstood-activity/)
-* [2022-07-10, 11:19:32](https://news.ycombinator.com/item?id=32043677) - [The Internet from Rocks – A High Level Explanation of Computers and the Internet](https://julian.bearblog.dev/the-internet-from-rocks-a-high-level-explanation-of-computers-and-the-internet/)
 * [2022-07-10, 10:51:29](https://news.ycombinator.com/item?id=32043539) - [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
 * [2022-07-10, 10:47:47](https://news.ycombinator.com/item?id=32043518) - [Photographer documents all items that she owns](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
 * [2022-07-10, 10:34:53](https://news.ycombinator.com/item?id=32043460) - [My favorite Erlang container](https://ferd.ca/my-favorite-erlang-container.html)
