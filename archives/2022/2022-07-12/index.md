@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
+* [2022-07-12, 11:59:26](https://news.ycombinator.com/item?id=32068579) - [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
+* [2022-07-12, 11:46:48](https://news.ycombinator.com/item?id=32068479) - [The Uber Leak Exposes the Global War on Workers](https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy)
 * [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
