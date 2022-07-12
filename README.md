@@ -20,7 +20,6 @@
 * [2022-07-12, 12:05:46](https://news.ycombinator.com/item?id=32068647) - [A/B testing gets misused to juice metrics in the short term](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
 * [2022-07-12, 11:59:26](https://news.ycombinator.com/item?id=32068579) - [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
 * [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
-* [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The Webb Space Telescope’s profound data challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
 * [2022-07-12, 09:37:45](https://news.ycombinator.com/item?id=32067559) - [Memory Management Reference](https://www.memorymanagement.org/)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
@@ -30,6 +29,7 @@
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
 * [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
 * [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
+* [2022-07-11, 08:08:57](https://news.ycombinator.com/item?id=32053502) - [How GPU Computing Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/)
 
 ## [Archives](archives/index.md)
 

@@ -58,6 +58,7 @@
 * [2022-07-11, 08:13:46](https://news.ycombinator.com/item?id=32053537) - [Renewables remain cheapest, but cost reductions on hold](https://www.csiro.au/en/news/news-releases/2022/gencost-2022)
 * [2022-07-11, 08:11:57](https://news.ycombinator.com/item?id=32053525) - [Our search for the best OCR tool (2019)](https://source.opennews.org/articles/so-many-ocr-options/)
 * [2022-07-11, 08:10:30](https://news.ycombinator.com/item?id=32053512) - [Monads are a class of hard drugs](http://ix.io/443i/html)
+* [2022-07-11, 08:08:57](https://news.ycombinator.com/item?id=32053502) - [How GPU Computing Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/)
 * [2022-07-11, 07:31:45](https://news.ycombinator.com/item?id=32053304) - [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/)
 * [2022-07-11, 07:29:47](https://news.ycombinator.com/item?id=32053293) - [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * [2022-07-11, 07:28:44](https://news.ycombinator.com/item?id=32053287) - [Whose breath are you breathing?](https://www.rnz.co.nz/news/in-depth/470690/whose-breath-are-you-breathing)
