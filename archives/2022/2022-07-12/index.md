@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 14:48:37](https://news.ycombinator.com/item?id=32070805) - [You Wouldn't Download a Back End](https://cjohanaja.com/musings/wouldnt-download-backend/)
+* [2022-07-12, 14:44:56](https://news.ycombinator.com/item?id=32070747) - [Ask HN: Examples of large acquisitions that did not ruin the acquired company](https://news.ycombinator.com/item?id=32070747)
 * [2022-07-12, 14:40:01](https://news.ycombinator.com/item?id=32070661) - [Nikon to Stop Making SLR Cameras and Focus on Mirrorless Models](https://asia.nikkei.com/Business/Business-trends/Nikon-to-stop-making-SLR-cameras-and-focus-on-mirrorless-models)
 * [2022-07-12, 14:21:38](https://news.ycombinator.com/item?id=32070377) - [Ask HN: Is there anything wrong with splurging on tech?](https://news.ycombinator.com/item?id=32070377)
 * [2022-07-12, 14:15:33](https://news.ycombinator.com/item?id=32070292) - [Spotify to Acquire Heardle](https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/)
