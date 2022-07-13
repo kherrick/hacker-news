@@ -1,6 +1,86 @@
 [
   [
     [
+      "2022-07-13, 02:31:22",
+      "https://news.ycombinator.com/item?id=32078407"
+    ],
+    [
+      "FTC committed to enforcing law against illegal use, sharing of sensitive data",
+      "https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 01:10:16",
+      "https://news.ycombinator.com/item?id=32077853"
+    ],
+    [
+      "RISC-V Linux on ESP32",
+      "https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 01:06:56",
+      "https://news.ycombinator.com/item?id=32077834"
+    ],
+    [
+      "Sri Lanka is having a textbook currency crisis, triggered by policy mistakes",
+      "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 01:03:51",
+      "https://news.ycombinator.com/item?id=32077823"
+    ],
+    [
+      "My business card runs Linux",
+      "https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 00:44:10",
+      "https://news.ycombinator.com/item?id=32077685"
+    ],
+    [
+      "Role of Lactobacillus Reuteri in Human Health and Diseases",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917019/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 00:15:14",
+      "https://news.ycombinator.com/item?id=32077495"
+    ],
+    [
+      "Calibre 6.0",
+      "https://calibre-ebook.com/whats-new"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 23:45:12",
+      "https://news.ycombinator.com/item?id=32077281"
+    ],
+    [
+      "Waymo car swarmed by skaters in San Francisco 'hill bomb'",
+      "https://www.sfgate.com/local/article/Waymo-car-swarmed-San-Francisco-skaters-17300261.php"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 23:43:23",
+      "https://news.ycombinator.com/item?id=32077265"
+    ],
+    [
+      "Embryo Cells Set Patterns for Growth by Pushing and Pulling",
+      "https://www.quantamagazine.org/embryo-cells-set-patterns-for-growth-by-pushing-and-pulling-20220712/"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 23:20:31",
       "https://news.ycombinator.com/item?id=32077068"
     ],
@@ -81,36 +161,6 @@
   ],
   [
     [
-      "2022-07-12, 17:50:02",
-      "https://news.ycombinator.com/item?id=32073450"
-    ],
-    [
-      "40 years ago, Tron changed sci-fi movies",
-      "https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 17:46:11",
-      "https://news.ycombinator.com/item?id=32073410"
-    ],
-    [
-      "Ev Williams to step down from Medium",
-      "https://ev.medium.com/new-decade-new-ideas-faee8e712589"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 17:08:11",
-      "https://news.ycombinator.com/item?id=32072884"
-    ],
-    [
-      "Implementing Microsoft REST API Filter",
-      "https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 16:07:05",
       "https://news.ycombinator.com/item?id=32071949"
     ],
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2022-07-12, 14:15:33",
-      "https://news.ycombinator.com/item?id=32070292"
-    ],
-    [
-      "Spotify to acquire Heardle",
-      "https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 13:52:44",
       "https://news.ycombinator.com/item?id=32069926"
     ],
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2022-07-12, 10:41:05",
-      "https://news.ycombinator.com/item?id=32067962"
-    ],
-    [
-      "Sufficient Decentralization for Social Networks",
-      "https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 10:38:03",
-      "https://news.ycombinator.com/item?id=32067945"
-    ],
-    [
-      "The Webb Space Telescope’s profound data challenges",
-      "https://spectrum.ieee.org/james-webb-telescope-communications"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 09:58:41",
       "https://news.ycombinator.com/item?id=32067705"
     ],
     [
       "BLOOM: The largest open multilingual language model",
       "https://bigscience.huggingface.co/blog/bloom"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 09:37:45",
-      "https://news.ycombinator.com/item?id=32067559"
-    ],
-    [
-      "Memory Management Reference",
-      "https://www.memorymanagement.org/"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 17:41:48",
-      "https://news.ycombinator.com/item?id=32059216"
-    ],
-    [
-      "Reckless Software Construction",
-      "https://blog.sidstamm.com/2021/12/reckless-software-construction.html"
     ]
   ],
   [
@@ -261,26 +261,6 @@
   ],
   [
     [
-      "2022-07-11, 08:11:57",
-      "https://news.ycombinator.com/item?id=32053525"
-    ],
-    [
-      "Our search for the best OCR tool (2019)",
-      "https://source.opennews.org/articles/so-many-ocr-options/"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 08:08:57",
-      "https://news.ycombinator.com/item?id=32053502"
-    ],
-    [
-      "How GPU Computing Works [video]",
-      "https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/"
-    ]
-  ],
-  [
-    [
       "2022-07-11, 07:54:54",
       "https://news.ycombinator.com/item?id=32053422"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-07-11, 05:07:46",
+      "https://news.ycombinator.com/item?id=32052442"
+    ],
+    [
+      "Bay Area Vintage Base Ball",
+      "https://www.bavbb.com"
+    ]
+  ],
+  [
+    [
       "2022-07-11, 03:52:30",
       "https://news.ycombinator.com/item?id=32051986"
     ],
     [
       "World War II frogmen who trained in secret off the California coast",
       "https://www.atlasobscura.com/articles/world-war-2-frogmen-catalina"
+    ]
+  ],
+  [
+    [
+      "2022-07-09, 11:12:06",
+      "https://news.ycombinator.com/item?id=32033905"
+    ],
+    [
+      "It's normal to play the same song over and over again",
+      "https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again"
     ]
   ]
 ]
