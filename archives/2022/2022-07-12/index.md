@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 23:20:31](https://news.ycombinator.com/item?id=32077068) - [FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]](https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf)
+* [2022-07-12, 23:16:04](https://news.ycombinator.com/item?id=32077029) - [Google slowing hiring to “technical and critical roles” only](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
 * [2022-07-12, 22:40:10](https://news.ycombinator.com/item?id=32076677) - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
 * [2022-07-12, 21:50:49](https://news.ycombinator.com/item?id=32076143) - [News Engagement crashing 50% on Social](https://www.axios.com/2022/07/12/news-media-readership-ratings-2022)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring and Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [How to write and sell a sci-fi story (and how much you'll make)](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
+* [2022-07-12, 19:13:19](https://news.ycombinator.com/item?id=32074414) - [How Google got to rolling Linux releases for Desktops](https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
 * [2022-07-12, 17:50:02](https://news.ycombinator.com/item?id=32073450) - [40 Years Ago, Disney's Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
 * [2022-07-12, 17:46:11](https://news.ycombinator.com/item?id=32073410) - [New Decade, New Ideas. (Ev Williams to Step Down from Medium)](https://ev.medium.com/new-decade-new-ideas-faee8e712589)
