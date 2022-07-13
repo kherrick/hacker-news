@@ -14,6 +14,7 @@
 * [2022-07-11, 21:41:18](https://news.ycombinator.com/item?id=32062303) - [Climate change is not just about Carbon Dioxide](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4151891)
 * [2022-07-11, 21:39:41](https://news.ycombinator.com/item?id=32062275) - [Where are our video phones?](https://hackaday.com/2022/07/11/where-are-our-video-phones/)
 * [2022-07-11, 21:29:54](https://news.ycombinator.com/item?id=32062139) - [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
+* [2022-07-11, 20:55:20](https://news.ycombinator.com/item?id=32061706) - [A Mirror of Nature](https://inference-review.com/article/a-mirror-of-nature)
 * [2022-07-11, 20:46:19](https://news.ycombinator.com/item?id=32061587) - [1.0 Euro is now worth $1.0 USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD)
 * [2022-07-11, 20:33:26](https://news.ycombinator.com/item?id=32061428) - [Yes, I have opinions on your open source contributions](https://www.b-list.org/weblog/2022/jul/11/pypi/)
 * [2022-07-11, 20:14:36](https://news.ycombinator.com/item?id=32061193) - [Cloud Streets (2006)](https://rammb.cira.colostate.edu/wmovl/vrl/tutorials/satmanu-eumetsat/satmanu/cms/clstr/index.htm)
