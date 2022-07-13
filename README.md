@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is Impersonating us In a Recruiting Scam. What do we do?](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
+* [2022-07-13, 15:27:37](https://news.ycombinator.com/item?id=32084023) - [Teams Is Killing My Mac Every Day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
 * [2022-07-13, 15:08:23](https://news.ycombinator.com/item?id=32083753) - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
 * [2022-07-13, 14:18:39](https://news.ycombinator.com/item?id=32083090) - [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
@@ -10,7 +12,6 @@
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:15:20](https://news.ycombinator.com/item?id=32081583) - [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
 * [2022-07-13, 12:01:48](https://news.ycombinator.com/item?id=32081478) - [Sieve (YC W22) is building AI infra for video data, come join us](https://www.sievedata.com/)
-* [2022-07-13, 12:00:18](https://news.ycombinator.com/item?id=32081470) - [I've been abusing HTTP Status Codes in my APIs for years](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:33:39](https://news.ycombinator.com/item?id=32080540) - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
@@ -20,7 +21,6 @@
 * [2022-07-13, 05:57:06](https://news.ycombinator.com/item?id=32079434) - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
 * [2022-07-13, 03:30:52](https://news.ycombinator.com/item?id=32078749) - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
-* [2022-07-13, 01:03:51](https://news.ycombinator.com/item?id=32077823) - [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
 * [2022-07-12, 16:45:17](https://news.ycombinator.com/item?id=32072530) - [Ten Percent of the Brain Myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Tell HN: We are trying to get tail calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
