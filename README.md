@@ -25,9 +25,9 @@
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is really open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
-* [2022-07-13, 08:16:28](https://news.ycombinator.com/item?id=32080174) - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
 * [2022-07-12, 08:48:59](https://news.ycombinator.com/item?id=32067193) - [A scientist who developed a new way to understand communication](https://www.quantamagazine.org/mark-braverman-wins-the-imu-abacus-medal-20220705/)
+* [2022-07-12, 06:28:15](https://news.ycombinator.com/item?id=32066339) - [Ancient Nautilus, Uncertain Future](https://hakaimagazine.com/features/ancient-nautilus-uncertain-future/)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
 * [2022-07-11, 08:21:28](https://news.ycombinator.com/item?id=32053575) - [Beating the Averages (2001)](http://www.paulgraham.com/avg.html)
 
