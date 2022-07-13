@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 14:18:39](https://news.ycombinator.com/item?id=32083090) - [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
 * [2022-07-13, 13:20:38](https://news.ycombinator.com/item?id=32082284) - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
 * [2022-07-13, 13:06:27](https://news.ycombinator.com/item?id=32082084) - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)

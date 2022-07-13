@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 14:18:39](https://news.ycombinator.com/item?id=32083090) - [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
 * [2022-07-13, 13:20:38](https://news.ycombinator.com/item?id=32082284) - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
 * [2022-07-13, 13:06:27](https://news.ycombinator.com/item?id=32082084) - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
@@ -28,7 +29,6 @@
 * [2022-07-12, 10:31:44](https://news.ycombinator.com/item?id=32067906) - [Filecoin Virtual Machine – Polyglot, WASM-based execution environment](https://filecoin.io/blog/posts/filecoin-v16-network-upgrade-skyr/)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
 * [2022-07-11, 06:48:32](https://news.ycombinator.com/item?id=32053044) - [I Sell Onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
-* [2022-07-10, 05:53:30](https://news.ycombinator.com/item?id=32042197) - [The Hajj Trail: historical simulation of the hajj journey](https://www.hajjtrail.com/)
 * [2022-07-09, 11:12:06](https://news.ycombinator.com/item?id=32033905) - [It's normal to play the same song over and over again (2016)](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
 
 ## [Archives](archives/index.md)
