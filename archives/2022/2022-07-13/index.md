@@ -16,6 +16,7 @@
 * [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
 * [2022-07-13, 16:32:16](https://news.ycombinator.com/item?id=32085001) - [Reddits pretzel-knot of moderation and anti-selfpromotion getting in way of IPO](https://laulpogan.substack.com/p/reddits-pretzel-knot-of-moderation)
 * [2022-07-13, 16:31:05](https://news.ycombinator.com/item?id=32084980) - [I made a Google sheet of local elections and it's been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
+* [2022-07-13, 16:25:39](https://news.ycombinator.com/item?id=32084887) - [Expanding the Tau VM family with Arm-based processors](https://cloud.google.com/blog/products/compute/tau-t2a-is-first-compute-engine-vm-on-an-arm-chip)
 * [2022-07-13, 16:23:37](https://news.ycombinator.com/item?id=32084850) - [You can‘t take the Bar exam if your laptop is too modern](https://twitter.com/mermaidsailor/status/1547236346632216576)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is Impersonating us In a Recruiting Scam. What do we do?](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
