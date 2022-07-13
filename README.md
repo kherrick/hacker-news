@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 * [2022-07-13, 18:14:32](https://news.ycombinator.com/item?id=32086641) - [Nothing Phone (1)](https://nothing.tech/pages/phone-1)
 * [2022-07-13, 17:44:14](https://news.ycombinator.com/item?id=32086170) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2022-07-13, 17:33:54](https://news.ycombinator.com/item?id=32086019) - [Ask HN: Is it possible to get an 18-year-old to spend less time on the computer?](https://news.ycombinator.com/item?id=32086019)
@@ -14,7 +15,6 @@
 * [2022-07-13, 15:27:37](https://news.ycombinator.com/item?id=32084023) - [Teams is killing my Mac every day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
 * [2022-07-13, 15:08:23](https://news.ycombinator.com/item?id=32083753) - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
-* [2022-07-13, 13:06:27](https://news.ycombinator.com/item?id=32082084) - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
 * [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon Admits Giving Police Ring Footage Without Consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
@@ -27,8 +27,8 @@
 * [2022-07-13, 08:16:28](https://news.ycombinator.com/item?id=32080174) - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 * [2022-07-13, 05:57:06](https://news.ycombinator.com/item?id=32079434) - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
-* [2022-07-12, 11:14:11](https://news.ycombinator.com/item?id=32068226) - [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
+* [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
 * [2022-07-11, 08:21:28](https://news.ycombinator.com/item?id=32053575) - [Beating the Averages (2001)](http://www.paulgraham.com/avg.html)
 
 ## [Archives](archives/index.md)
