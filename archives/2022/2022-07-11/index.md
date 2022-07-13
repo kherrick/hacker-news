@@ -72,6 +72,7 @@
 * [2022-07-11, 06:19:45](https://news.ycombinator.com/item?id=32052825) - [Surging supply and softening demand weigh on chipmakers](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersized-bust)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
 * [2022-07-11, 05:49:22](https://news.ycombinator.com/item?id=32052669) - [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
+* [2022-07-11, 05:12:38](https://news.ycombinator.com/item?id=32052475) - [What Is Becovi Search?](https://thenewleafjournal.com/leaf/what-is-becovi-search/)
 * [2022-07-11, 05:07:46](https://news.ycombinator.com/item?id=32052442) - [Bay Area Vintage Base Ball](https://www.bavbb.com)
 * [2022-07-11, 04:45:59](https://news.ycombinator.com/item?id=32052302) - [Exit, Pursued by a Bear: Europes Coming Gas Shortages Analyzed](https://viscosityredux.substack.com/p/exit-pursued-by-a-bear)
 * [2022-07-11, 04:38:28](https://news.ycombinator.com/item?id=32052267) - [NHTSA launches 37th investigation into Tesla after couple killed in crash](https://meaww.com/nhtsa-investigation-starts-tesla-california-crash-elderly-couple)
