@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 21:32:30](https://news.ycombinator.com/item?id=32089013) - [Andrej Karpathy (Director of AI) Leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 21:01:04](https://news.ycombinator.com/item?id=32088701) - [Open Source Database QuestDB Is Hiring a Cloud Engineer (K8s, AWS, Argocd)](https://questdb.io/careers/senior-cloud-engineer/)
 * [2022-07-13, 20:52:00](https://news.ycombinator.com/item?id=32088599) - [NYC Releases Video Outlining Steps to Take During Nuclear Attack](https://eastsidefeed.com/odds-and-ends/nyc-releases-video-steps-to-take-during-nuclear-attack/)

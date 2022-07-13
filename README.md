@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 21:32:30](https://news.ycombinator.com/item?id=32089013) - [Andrej Karpathy (Director of AI) Leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 21:01:04](https://news.ycombinator.com/item?id=32088701) - [Open Source Database QuestDB Is Hiring a Cloud Engineer (K8s, AWS, Argocd)](https://questdb.io/careers/senior-cloud-engineer/)
 * [2022-07-13, 20:52:00](https://news.ycombinator.com/item?id=32088599) - [NYC Releases Video Outlining Steps to Take During Nuclear Attack](https://eastsidefeed.com/odds-and-ends/nyc-releases-video-steps-to-take-during-nuclear-attack/)
@@ -21,7 +22,6 @@
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
 * [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon admits giving police Ring footage without consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
-* [2022-07-13, 12:15:20](https://news.ycombinator.com/item?id=32081583) - [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is really open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
