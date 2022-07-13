@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2022-07-13, 18:14:32",
+      "https://news.ycombinator.com/item?id=32086641"
+    ],
+    [
+      "Nothing Phone (1)",
+      "https://nothing.tech/pages/phone-1"
+    ]
+  ],
+  [
+    [
       "2022-07-13, 17:44:14",
       "https://news.ycombinator.com/item?id=32086170"
     ],
     [
-      "DoorDash and Pizza Arbitrage (2020)",
+      "DoorDash and pizza arbitrage (2020)",
       "https://www.readmargins.com/p/doordash-and-pizza-arbitrage"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32085453"
     ],
     [
-      "Google Kubernetes Engine (GKE) adds support for Arm nodes",
+      "Google Kubernetes Engine adds support for Arm nodes",
       "https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32080741"
     ],
     [
-      "CP/M is open-source now",
+      "CP/M is really open-source now",
       "https://retronic.us/cp-m-is-now-really-open-source/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Are Magic Links Outdated?",
       "https://zitadel.com/blog/magic-links"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 09:22:06",
-      "https://news.ycombinator.com/item?id=32080486"
-    ],
-    [
-      "Gambling and Adult content DNS blocking using Mullvad VPN",
-      "https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/"
     ]
   ],
   [
