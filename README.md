@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-13, 18:45:30](https://news.ycombinator.com/item?id=32087057) - [A 74xx-Defined Radio (2021)](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
+* [2022-07-13, 18:39:32](https://news.ycombinator.com/item?id=32086973) - [When Rustc Explodes](https://fasterthanli.me/articles/when-rustc-explodes)
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 * [2022-07-13, 17:44:14](https://news.ycombinator.com/item?id=32086170) - [DoorDash and pizza arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2022-07-13, 17:16:54](https://news.ycombinator.com/item?id=32085734) - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
@@ -8,7 +9,6 @@
 * [2022-07-13, 16:59:04](https://news.ycombinator.com/item?id=32085453) - [Google Kubernetes Engine adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
 * [2022-07-13, 16:43:50](https://news.ycombinator.com/item?id=32085215) - [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
 * [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
-* [2022-07-13, 16:31:05](https://news.ycombinator.com/item?id=32084980) - [I made a Google sheet of local elections and it's been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
 * [2022-07-13, 16:25:39](https://news.ycombinator.com/item?id=32084887) - [Expanding the Tau VM family with Arm-based processors](https://cloud.google.com/blog/products/compute/tau-t2a-is-first-compute-engine-vm-on-an-arm-chip)
 * [2022-07-13, 16:23:37](https://news.ycombinator.com/item?id=32084850) - [You can‘t take the Bar exam if your laptop is too modern](https://twitter.com/mermaidsailor/status/1547236346632216576)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
