@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20bn investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
 * [2022-07-13, 21:32:30](https://news.ycombinator.com/item?id=32089013) - [Andrej Karpathy (Director of AI) Leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 21:01:04](https://news.ycombinator.com/item?id=32088701) - [Open Source Database QuestDB Is Hiring a Cloud Engineer (K8s, AWS, Argocd)](https://questdb.io/careers/senior-cloud-engineer/)

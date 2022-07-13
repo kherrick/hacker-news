@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20bn investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
 * [2022-07-13, 21:32:30](https://news.ycombinator.com/item?id=32089013) - [Andrej Karpathy leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 21:01:04](https://news.ycombinator.com/item?id=32088701) - [Open Source Database QuestDB Is Hiring a Cloud Engineer (K8s, AWS, Argocd)](https://questdb.io/careers/senior-cloud-engineer/)
@@ -15,7 +16,6 @@
 * [2022-07-13, 16:43:50](https://news.ycombinator.com/item?id=32085215) - [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
 * [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
 * [2022-07-13, 16:25:39](https://news.ycombinator.com/item?id=32084887) - [Expanding the Tau VM family with Arm-based processors](https://cloud.google.com/blog/products/compute/tau-t2a-is-first-compute-engine-vm-on-an-arm-chip)
-* [2022-07-13, 16:23:37](https://news.ycombinator.com/item?id=32084850) - [You can‘t take the Bar exam if your laptop is too modern](https://twitter.com/mermaidsailor/status/1547236346632216576)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
 * [2022-07-13, 15:27:37](https://news.ycombinator.com/item?id=32084023) - [Teams is killing my Mac every day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
