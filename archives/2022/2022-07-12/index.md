@@ -51,6 +51,7 @@
 * [2022-07-12, 11:59:26](https://news.ycombinator.com/item?id=32068579) - [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
 * [2022-07-12, 11:50:58](https://news.ycombinator.com/item?id=32068507) - [Nikon is reportedly dropping out of the market for SLR cameras](https://www.theverge.com/2022/7/12/23204975/nikon-dslr-slr-cameras-stop-report-mirrorless)
 * [2022-07-12, 11:46:48](https://news.ycombinator.com/item?id=32068479) - [The Uber Leak Exposes the Global War on Workers](https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy)
+* [2022-07-12, 11:43:35](https://news.ycombinator.com/item?id=32068447) - [Show HN: A design-by-contract Python package in ~100 lines](https://github.com/StefanUlbrich/design-by-contract)
 * [2022-07-12, 11:06:46](https://news.ycombinator.com/item?id=32068164) - [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
 * [2022-07-12, 10:53:52](https://news.ycombinator.com/item?id=32068062) - [Amazon issued 13,000 disciplinary notices at single U.S. warehouse](https://www.reuters.com/technology/amazon-issued-13000-disciplinary-notices-single-us-warehouse-2022-07-12/)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
