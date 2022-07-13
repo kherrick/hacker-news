@@ -15,7 +15,7 @@
 * [2022-07-13, 15:08:23](https://news.ycombinator.com/item?id=32083753) - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
-* [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon Admits Giving Police Ring Footage Without Consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
+* [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon admits giving police Ring footage without consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:15:20](https://news.ycombinator.com/item?id=32081583) - [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
