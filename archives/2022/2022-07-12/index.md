@@ -54,6 +54,7 @@
 * [2022-07-12, 10:53:52](https://news.ycombinator.com/item?id=32068062) - [Amazon issued 13,000 disciplinary notices at single U.S. warehouse](https://www.reuters.com/technology/amazon-issued-13000-disciplinary-notices-single-us-warehouse-2022-07-12/)
 * [2022-07-12, 10:41:05](https://news.ycombinator.com/item?id=32067962) - [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
 * [2022-07-12, 10:38:03](https://news.ycombinator.com/item?id=32067945) - [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
+* [2022-07-12, 10:31:44](https://news.ycombinator.com/item?id=32067906) - [Filecoin Virtual Machine – Polyglot, WASM-based execution environment](https://filecoin.io/blog/posts/filecoin-v16-network-upgrade-skyr/)
 * [2022-07-12, 10:28:48](https://news.ycombinator.com/item?id=32067879) - [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
 * [2022-07-12, 09:58:41](https://news.ycombinator.com/item?id=32067705) - [BLOOM: The largest open multilingual language model](https://bigscience.huggingface.co/blog/bloom)
 * [2022-07-12, 09:37:45](https://news.ycombinator.com/item?id=32067559) - [Memory Management Reference](https://www.memorymanagement.org/)
