@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 18:14:32](https://news.ycombinator.com/item?id=32086641) - [Nothing Phone (1)](https://nothing.tech/pages/phone-1)
 * [2022-07-13, 17:44:14](https://news.ycombinator.com/item?id=32086170) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+* [2022-07-13, 17:33:54](https://news.ycombinator.com/item?id=32086019) - [Ask HN: Is it possible to get an 18-year-old to spend less time on the computer?](https://news.ycombinator.com/item?id=32086019)
 * [2022-07-13, 17:16:54](https://news.ycombinator.com/item?id=32085734) - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
 * [2022-07-13, 17:00:58](https://news.ycombinator.com/item?id=32085475) - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
 * [2022-07-13, 16:59:04](https://news.ycombinator.com/item?id=32085453) - [Google Kubernetes Engine (GKE) adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
 * [2022-07-13, 16:43:50](https://news.ycombinator.com/item?id=32085215) - [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
 * [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
 * [2022-07-13, 16:31:05](https://news.ycombinator.com/item?id=32084980) - [I made a Google sheet of local elections and it's been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
-* [2022-07-13, 16:23:37](https://news.ycombinator.com/item?id=32084850) - [You can‘t take the Bar exam if your laptop is too modern](https://twitter.com/mermaidsailor/status/1547236346632216576)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
 * [2022-07-13, 15:27:37](https://news.ycombinator.com/item?id=32084023) - [Teams is killing my Mac every day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
@@ -28,7 +29,6 @@
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
 * [2022-07-12, 11:14:11](https://news.ycombinator.com/item?id=32068226) - [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
-* [2022-07-11, 21:39:41](https://news.ycombinator.com/item?id=32062275) - [Where are our video phones?](https://hackaday.com/2022/07/11/where-are-our-video-phones/)
 * [2022-07-11, 08:21:28](https://news.ycombinator.com/item?id=32053575) - [Beating the Averages (2001)](http://www.paulgraham.com/avg.html)
 
 ## [Archives](archives/index.md)

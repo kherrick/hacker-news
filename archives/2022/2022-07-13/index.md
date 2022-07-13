@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 18:14:32](https://news.ycombinator.com/item?id=32086641) - [Nothing Phone (1)](https://nothing.tech/pages/phone-1)
 * [2022-07-13, 17:44:14](https://news.ycombinator.com/item?id=32086170) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+* [2022-07-13, 17:33:54](https://news.ycombinator.com/item?id=32086019) - [Ask HN: Is it possible to get an 18-year-old to spend less time on the computer?](https://news.ycombinator.com/item?id=32086019)
 * [2022-07-13, 17:16:54](https://news.ycombinator.com/item?id=32085734) - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
 * [2022-07-13, 17:00:58](https://news.ycombinator.com/item?id=32085475) - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
 * [2022-07-13, 16:59:04](https://news.ycombinator.com/item?id=32085453) - [Google Kubernetes Engine (GKE) adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
