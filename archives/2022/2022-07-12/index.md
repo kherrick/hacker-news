@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-12](index.md)
 
+* [2022-07-12, 23:45:12](https://news.ycombinator.com/item?id=32077281) - [Waymo car swarmed by skaters in San Francisco 'hill bomb'](https://www.sfgate.com/local/article/Waymo-car-swarmed-San-Francisco-skaters-17300261.php)
+* [2022-07-12, 23:43:23](https://news.ycombinator.com/item?id=32077265) - [Embryo Cells Set Patterns for Growth by Pushing and Pulling](https://www.quantamagazine.org/embryo-cells-set-patterns-for-growth-by-pushing-and-pulling-20220712/)
 * [2022-07-12, 23:20:31](https://news.ycombinator.com/item?id=32077068) - [FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]](https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf)
 * [2022-07-12, 23:16:04](https://news.ycombinator.com/item?id=32077029) - [Google slowing hiring to “technical and critical roles” only](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
 * [2022-07-12, 22:40:10](https://news.ycombinator.com/item?id=32076677) - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
