@@ -8,6 +8,7 @@
 * [2022-07-13, 13:20:38](https://news.ycombinator.com/item?id=32082284) - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
 * [2022-07-13, 13:06:27](https://news.ycombinator.com/item?id=32082084) - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
+* [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon Admits Giving Police Ring Footage Without Consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:38:03](https://news.ycombinator.com/item?id=32081779) - [Inflation rose 9.1% in June, even more than expected](https://www.cnbc.com/2022/07/13/inflation-rose-9point1percent-in-june-even-more-than-expected-as-price-pressures-intensify.html)
 * [2022-07-13, 12:15:20](https://news.ycombinator.com/item?id=32081583) - [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
