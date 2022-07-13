@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 17:16:54](https://news.ycombinator.com/item?id=32085734) - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
 * [2022-07-13, 17:00:58](https://news.ycombinator.com/item?id=32085475) - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
+* [2022-07-13, 16:59:04](https://news.ycombinator.com/item?id=32085453) - [Google Kubernetes Engine (GKE) adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
 * [2022-07-13, 16:43:50](https://news.ycombinator.com/item?id=32085215) - [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
 * [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
+* [2022-07-13, 16:32:16](https://news.ycombinator.com/item?id=32085001) - [Reddits pretzel-knot of moderation and anti-selfpromotion getting in way of IPO](https://laulpogan.substack.com/p/reddits-pretzel-knot-of-moderation)
 * [2022-07-13, 16:31:05](https://news.ycombinator.com/item?id=32084980) - [I made a Google sheet of local elections and it's been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
@@ -23,13 +26,10 @@
 * [2022-07-13, 08:16:28](https://news.ycombinator.com/item?id=32080174) - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 * [2022-07-13, 05:57:06](https://news.ycombinator.com/item?id=32079434) - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
-* [2022-07-13, 03:30:52](https://news.ycombinator.com/item?id=32078749) - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
-* [2022-07-12, 11:43:35](https://news.ycombinator.com/item?id=32068447) - [Show HN: A design-by-contract Python package in ~100 lines](https://github.com/StefanUlbrich/design-by-contract)
 * [2022-07-12, 11:14:11](https://news.ycombinator.com/item?id=32068226) - [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
 * [2022-07-11, 21:39:41](https://news.ycombinator.com/item?id=32062275) - [Where are our video phones?](https://hackaday.com/2022/07/11/where-are-our-video-phones/)
 * [2022-07-11, 08:21:28](https://news.ycombinator.com/item?id=32053575) - [Beating the Averages (2001)](http://www.paulgraham.com/avg.html)
-* [2022-07-11, 06:48:32](https://news.ycombinator.com/item?id=32053044) - [I Sell Onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 
 ## [Archives](archives/index.md)
 
