@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 15:08:23](https://news.ycombinator.com/item?id=32083753) - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
 * [2022-07-13, 14:18:39](https://news.ycombinator.com/item?id=32083090) - [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
 * [2022-07-13, 13:20:38](https://news.ycombinator.com/item?id=32082284) - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
@@ -26,7 +27,6 @@
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Tell HN: We are trying to get tail calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
 * [2022-07-12, 11:43:35](https://news.ycombinator.com/item?id=32068447) - [Show HN: A design-by-contract Python package in ~100 lines](https://github.com/StefanUlbrich/design-by-contract)
 * [2022-07-12, 11:14:11](https://news.ycombinator.com/item?id=32068226) - [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
-* [2022-07-12, 10:31:44](https://news.ycombinator.com/item?id=32067906) - [Filecoin Virtual Machine – Polyglot, WASM-based execution environment](https://filecoin.io/blog/posts/filecoin-v16-network-upgrade-skyr/)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
 * [2022-07-11, 06:48:32](https://news.ycombinator.com/item?id=32053044) - [I Sell Onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2022-07-09, 11:12:06](https://news.ycombinator.com/item?id=32033905) - [It's normal to play the same song over and over again (2016)](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
