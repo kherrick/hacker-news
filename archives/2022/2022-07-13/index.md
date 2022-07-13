@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 03:27:34](https://news.ycombinator.com/item?id=32078731) - [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)
 * [2022-07-13, 02:31:22](https://news.ycombinator.com/item?id=32078407) - [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
 * [2022-07-13, 01:10:16](https://news.ycombinator.com/item?id=32077853) - [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
 * [2022-07-13, 01:06:56](https://news.ycombinator.com/item?id=32077834) - [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)

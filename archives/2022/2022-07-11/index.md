@@ -68,6 +68,7 @@
 * [2022-07-11, 07:28:44](https://news.ycombinator.com/item?id=32053287) - [Whose breath are you breathing?](https://www.rnz.co.nz/news/in-depth/470690/whose-breath-are-you-breathing)
 * [2022-07-11, 07:09:13](https://news.ycombinator.com/item?id=32053175) - [How to Do Nothing with Nobody All Alone by Yourself (2014)](https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/)
 * [2022-07-11, 06:54:51](https://news.ycombinator.com/item?id=32053083) - [Guile Steel: a proposal for a systems Lisp](https://dustycloud.org/blog/guile-steel-proposal/)
+* [2022-07-11, 06:48:32](https://news.ycombinator.com/item?id=32053044) - [I Sell Onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2022-07-11, 06:19:45](https://news.ycombinator.com/item?id=32052825) - [Surging supply and softening demand weigh on chipmakers](https://www.economist.com/business/2022/07/10/after-a-turbocharged-boom-are-chipmakers-in-for-a-supersized-bust)
 * [2022-07-11, 05:52:08](https://news.ycombinator.com/item?id=32052684) - [IETF Draft: Centralization, Decentralization, and Internet Standards](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
 * [2022-07-11, 05:49:22](https://news.ycombinator.com/item?id=32052669) - [New in Calibre 6.0](https://calibre-ebook.com/new-in/fifteen)
