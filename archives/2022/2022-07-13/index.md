@@ -6,6 +6,7 @@
 
 * [2022-07-13, 17:00:58](https://news.ycombinator.com/item?id=32085475) - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
 * [2022-07-13, 16:43:50](https://news.ycombinator.com/item?id=32085215) - [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
+* [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
 * [2022-07-13, 16:31:05](https://news.ycombinator.com/item?id=32084980) - [I made a Google sheet of local elections and it's been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is Impersonating us In a Recruiting Scam. What do we do?](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
