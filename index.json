@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-13, 17:00:58",
+      "https://news.ycombinator.com/item?id=32085475"
+    ],
+    [
+      "Founding engineer roles at W22 YC startups",
+      "https://news.ycombinator.com/item?id=32085475"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 16:43:50",
+      "https://news.ycombinator.com/item?id=32085215"
+    ],
+    [
+      "Helion Needs You",
+      "https://blog.samaltman.com/helion-needs-you"
+    ]
+  ],
+  [
+    [
       "2022-07-13, 16:31:05",
       "https://news.ycombinator.com/item?id=32084980"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2022-07-13, 16:03:09",
+      "https://news.ycombinator.com/item?id=32084571"
+    ],
+    [
+      "Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)",
+      "https://benchmark.clickhouse.com/"
+    ]
+  ],
+  [
+    [
       "2022-07-13, 15:27:37",
       "https://news.ycombinator.com/item?id=32084023"
     ],
@@ -37,16 +67,6 @@
     [
       "How I clean my glasses",
       "https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 15:00:18",
-      "https://news.ycombinator.com/item?id=32083653"
-    ],
-    [
-      "Ask HN: What is the most complex topic you understand?",
-      "https://news.ycombinator.com/item?id=32083653"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-07-13, 12:01:48",
-      "https://news.ycombinator.com/item?id=32081478"
-    ],
-    [
-      "Sieve (YC W22) is building AI infra for video data, come join us",
-      "https://www.sievedata.com/"
-    ]
-  ],
-  [
-    [
       "2022-07-13, 11:03:30",
       "https://news.ycombinator.com/item?id=32081051"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2022-07-13, 03:30:52",
-      "https://news.ycombinator.com/item?id=32078749"
+      "2022-07-12, 16:45:17",
+      "https://news.ycombinator.com/item?id=32072530"
     ],
     [
-      "Rolling your own crypto: Everything you need to build AES from scratch",
-      "https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 18:41:32",
-      "https://news.ycombinator.com/item?id=32074068"
-    ],
-    [
-      "Compare Webb's Images to Hubble",
-      "https://johnedchristensen.github.io/WebbCompare/"
+      "Ten Percent of the Brain Myth",
+      "https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth"
     ]
   ],
   [
