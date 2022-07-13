@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
-* [2022-07-13, 09:49:53](https://news.ycombinator.com/item?id=32080617) - [Calculus Homework Help Online](https://www.studyhab.com/t/calculus)
 * [2022-07-13, 09:33:39](https://news.ycombinator.com/item?id=32080540) - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
 * [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 * [2022-07-13, 08:31:34](https://news.ycombinator.com/item?id=32080245) - [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
@@ -11,14 +10,15 @@
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
 * [2022-07-13, 03:30:52](https://news.ycombinator.com/item?id=32078749) - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
 * [2022-07-13, 02:31:22](https://news.ycombinator.com/item?id=32078407) - [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
+* [2022-07-13, 01:45:57](https://news.ycombinator.com/item?id=32078095) - [Truckers plan LA/Long Beach work stoppage Wednesday to protest AB5](https://www.freightwaves.com/news/truckers-plan-lalong-beach-work-stoppage-wednesday-to-protest-ab5)
 * [2022-07-13, 01:10:16](https://news.ycombinator.com/item?id=32077853) - [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
 * [2022-07-13, 01:06:56](https://news.ycombinator.com/item?id=32077834) - [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
 * [2022-07-13, 01:03:51](https://news.ycombinator.com/item?id=32077823) - [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 * [2022-07-13, 00:44:10](https://news.ycombinator.com/item?id=32077685) - [Role of Lactobacillus Reuteri in Human Health and Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917019/)
+* [2022-07-12, 23:20:31](https://news.ycombinator.com/item?id=32077068) - [FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]](https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf)
 * [2022-07-12, 22:40:10](https://news.ycombinator.com/item?id=32076677) - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
-* [2022-07-12, 19:13:19](https://news.ycombinator.com/item?id=32074414) - [How Google got to rolling Linux releases for Desktops](https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
 * [2022-07-12, 16:45:17](https://news.ycombinator.com/item?id=32072530) - [Ten Percent of the Brain Myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Tell HN: We are trying to get tail calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
@@ -29,7 +29,7 @@
 * [2022-07-11, 05:07:46](https://news.ycombinator.com/item?id=32052442) - [Bay Area Vintage Base Ball](https://www.bavbb.com)
 * [2022-07-11, 03:14:25](https://news.ycombinator.com/item?id=32051789) - [The War for Talent (1998)](https://www.fastcompany.com/34512/war-talent)
 * [2022-07-10, 05:53:30](https://news.ycombinator.com/item?id=32042197) - [The Hajj Trail: historical simulation of the hajj journey](https://www.hajjtrail.com/)
-* [2022-07-09, 11:12:06](https://news.ycombinator.com/item?id=32033905) - [It's normal to play the same song over and over again](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
+* [2022-07-09, 11:12:06](https://news.ycombinator.com/item?id=32033905) - [It's normal to play the same song over and over again (2016)](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
 
 ## [Archives](archives/index.md)
 
