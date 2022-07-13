@@ -79,6 +79,7 @@
 * [2022-07-11, 04:35:32](https://news.ycombinator.com/item?id=32052247) - [The Magic of Bits “Bitwise”](https://antonio-cooler.gitbook.io/coolervoid-tavern/the-magic-of-bits-bitwise)
 * [2022-07-11, 04:18:24](https://news.ycombinator.com/item?id=32052140) - [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 * [2022-07-11, 03:52:30](https://news.ycombinator.com/item?id=32051986) - [The World War II Frogmen Who Trained in Secret Off the California Coast](https://www.atlasobscura.com/articles/world-war-2-frogmen-catalina)
+* [2022-07-11, 03:14:25](https://news.ycombinator.com/item?id=32051789) - [The War for Talent (1998)](https://www.fastcompany.com/34512/war-talent)
 * [2022-07-11, 03:06:29](https://news.ycombinator.com/item?id=32051736) - [Project Naptha](https://projectnaptha.com/)
 * [2022-07-11, 03:00:26](https://news.ycombinator.com/item?id=32051703) - [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
 * [2022-07-11, 02:43:17](https://news.ycombinator.com/item?id=32051594) - [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)

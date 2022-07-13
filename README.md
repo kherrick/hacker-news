@@ -21,7 +21,6 @@
 * [2022-07-12, 15:28:10](https://news.ycombinator.com/item?id=32071349) - [Giving a shit as a service](https://allenpike.com/2022/giving-a-shit)
 * [2022-07-12, 15:12:41](https://news.ycombinator.com/item?id=32071137) - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 * [2022-07-12, 15:03:49](https://news.ycombinator.com/item?id=32071020) - [James Webb first images – complete set of high resolution shots now live](https://webbtelescope.org/news/news-releases?Collection=First%20Images)
-* [2022-07-12, 13:52:44](https://news.ycombinator.com/item?id=32069926) - [Guest WiFi using a QR code](https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html)
 * [2022-07-12, 13:14:23](https://news.ycombinator.com/item?id=32069418) - [Tell HN: We are trying to get tail calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
 * [2022-07-12, 09:58:41](https://news.ycombinator.com/item?id=32067705) - [BLOOM: The largest open multilingual language model](https://bigscience.huggingface.co/blog/bloom)
 * [2022-07-11, 15:12:45](https://news.ycombinator.com/item?id=32057211) - [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
@@ -29,6 +28,7 @@
 * [2022-07-11, 06:48:32](https://news.ycombinator.com/item?id=32053044) - [I Sell Onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2022-07-11, 05:12:38](https://news.ycombinator.com/item?id=32052475) - [What Is Becovi Search?](https://thenewleafjournal.com/leaf/what-is-becovi-search/)
 * [2022-07-11, 05:07:46](https://news.ycombinator.com/item?id=32052442) - [Bay Area Vintage Base Ball](https://www.bavbb.com)
+* [2022-07-11, 03:14:25](https://news.ycombinator.com/item?id=32051789) - [The War for Talent (1998)](https://www.fastcompany.com/34512/war-talent)
 * [2022-07-09, 11:12:06](https://news.ycombinator.com/item?id=32033905) - [It's normal to play the same song over and over again](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
 
 ## [Archives](archives/index.md)
