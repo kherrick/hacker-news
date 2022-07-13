@@ -7,6 +7,7 @@
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 21:01:04](https://news.ycombinator.com/item?id=32088701) - [Open Source Database QuestDB Is Hiring a Cloud Engineer (K8s, AWS, Argocd)](https://questdb.io/careers/senior-cloud-engineer/)
 * [2022-07-13, 20:52:00](https://news.ycombinator.com/item?id=32088599) - [NYC Releases Video Outlining Steps to Take During Nuclear Attack](https://eastsidefeed.com/odds-and-ends/nyc-releases-video-steps-to-take-during-nuclear-attack/)
+* [2022-07-13, 20:42:06](https://news.ycombinator.com/item?id=32088487) - [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
 * [2022-07-13, 20:26:44](https://news.ycombinator.com/item?id=32088316) - [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals)
 * [2022-07-13, 20:16:12](https://news.ycombinator.com/item?id=32088219) - [RabbitMQ 3.11 Feature Preview: Super Streams](https://blog.rabbitmq.com/posts/2022/07/rabbitmq-3-11-feature-preview-super-streams/)
 * [2022-07-13, 18:45:30](https://news.ycombinator.com/item?id=32087057) - [A 74xx-Defined Radio (2021)](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
