@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:49:53](https://news.ycombinator.com/item?id=32080617) - [Calculus Homework Help Online](https://www.studyhab.com/t/calculus)
 * [2022-07-13, 09:33:39](https://news.ycombinator.com/item?id=32080540) - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
+* [2022-07-13, 09:22:06](https://news.ycombinator.com/item?id=32080486) - [Gambling and Adult content DNS blocking using Mullvad VPN](https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/)
 * [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 * [2022-07-13, 08:59:34](https://news.ycombinator.com/item?id=32080370) - [Ask HN: Which VPS provider will survive the coming winter?](https://news.ycombinator.com/item?id=32080370)
 * [2022-07-13, 08:31:34](https://news.ycombinator.com/item?id=32080245) - [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
