@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-13, 23:01:55](https://news.ycombinator.com/item?id=32089814) - [Ex-CIA coder behind WikiLeaks ‘Vault 7’ cache found guilty of espionage](https://www.courthousenews.com/ex-cia-coder-behind-wikileaks-vault-7-cache-found-guilty-of-espionage/)
+* [2022-07-13, 22:42:44](https://news.ycombinator.com/item?id=32089650) - [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
 * [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
 * [2022-07-13, 21:32:30](https://news.ycombinator.com/item?id=32089013) - [Andrej Karpathy leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
@@ -27,7 +28,6 @@
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is really open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
-* [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
 * [2022-07-12, 08:48:59](https://news.ycombinator.com/item?id=32067193) - [A scientist who developed a new way to understand communication](https://www.quantamagazine.org/mark-braverman-wins-the-imu-abacus-medal-20220705/)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
 
