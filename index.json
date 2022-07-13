@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-07-13, 17:16:54",
+      "https://news.ycombinator.com/item?id=32085734"
+    ],
+    [
+      "Language Models (Mostly) Know What They Know",
+      "https://arxiv.org/abs/2207.05221"
+    ]
+  ],
+  [
+    [
       "2022-07-13, 17:00:58",
       "https://news.ycombinator.com/item?id=32085475"
     ],
     [
       "Founding engineer roles at W22 YC startups",
       "https://news.ycombinator.com/item?id=32085475"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 16:59:04",
+      "https://news.ycombinator.com/item?id=32085453"
+    ],
+    [
+      "Google Kubernetes Engine (GKE) adds support for Arm nodes",
+      "https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Maybe powers of π don't have unexpectedly good approximations?",
       "https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 16:32:16",
+      "https://news.ycombinator.com/item?id=32085001"
+    ],
+    [
+      "Reddits pretzel-knot of moderation and anti-selfpromotion getting in way of IPO",
+      "https://laulpogan.substack.com/p/reddits-pretzel-knot-of-moderation"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2022-07-13, 03:30:52",
-      "https://news.ycombinator.com/item?id=32078749"
-    ],
-    [
-      "Rolling your own crypto: Everything you need to build AES from scratch",
-      "https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 11:43:35",
-      "https://news.ycombinator.com/item?id=32068447"
-    ],
-    [
-      "Show HN: A design-by-contract Python package in ~100 lines",
-      "https://github.com/StefanUlbrich/design-by-contract"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 11:14:11",
       "https://news.ycombinator.com/item?id=32068226"
     ],
@@ -287,16 +297,6 @@
     [
       "Beating the Averages (2001)",
       "http://www.paulgraham.com/avg.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 06:48:32",
-      "https://news.ycombinator.com/item?id=32053044"
-    ],
-    [
-      "I Sell Onions on the Internet (2019)",
-      "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/"
     ]
   ]
 ]
