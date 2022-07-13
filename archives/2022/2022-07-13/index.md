@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
+* [2022-07-13, 09:49:53](https://news.ycombinator.com/item?id=32080617) - [Calculus Homework Help Online](https://www.studyhab.com/t/calculus)
+* [2022-07-13, 09:33:39](https://news.ycombinator.com/item?id=32080540) - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
+* [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 * [2022-07-13, 08:59:34](https://news.ycombinator.com/item?id=32080370) - [Ask HN: Which VPS provider will survive the coming winter?](https://news.ycombinator.com/item?id=32080370)
 * [2022-07-13, 08:31:34](https://news.ycombinator.com/item?id=32080245) - [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
 * [2022-07-13, 08:16:28](https://news.ycombinator.com/item?id=32080174) - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
