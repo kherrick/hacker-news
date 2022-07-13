@@ -39,6 +39,7 @@
 * [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon Admits Giving Police Ring Footage Without Consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:38:03](https://news.ycombinator.com/item?id=32081779) - [Inflation rose 9.1% in June, even more than expected](https://www.cnbc.com/2022/07/13/inflation-rose-9point1percent-in-june-even-more-than-expected-as-price-pressures-intensify.html)
+* [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
 * [2022-07-13, 12:15:20](https://news.ycombinator.com/item?id=32081583) - [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
 * [2022-07-13, 12:01:48](https://news.ycombinator.com/item?id=32081478) - [Sieve (YC W22) is building AI infra for video data, come join us](https://www.sievedata.com/)
 * [2022-07-13, 12:00:18](https://news.ycombinator.com/item?id=32081470) - [I've been abusing HTTP Status Codes in my APIs for years](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
