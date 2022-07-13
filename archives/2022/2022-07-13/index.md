@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 13:06:27](https://news.ycombinator.com/item?id=32082084) - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:38:03](https://news.ycombinator.com/item?id=32081779) - [Inflation rose 9.1% in June, even more than expected](https://www.cnbc.com/2022/07/13/inflation-rose-9point1percent-in-june-even-more-than-expected-as-price-pressures-intensify.html)
+* [2022-07-13, 12:15:20](https://news.ycombinator.com/item?id=32081583) - [_hyperscript – a small scripting language for the web](https://github.com/bigskysoftware/_hyperscript)
 * [2022-07-13, 12:01:48](https://news.ycombinator.com/item?id=32081478) - [Sieve (YC W22) is building AI infra for video data, come join us](https://www.sievedata.com/)
 * [2022-07-13, 12:00:18](https://news.ycombinator.com/item?id=32081470) - [I've been abusing HTTP Status Codes in my APIs for years](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
