@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 18:45:30](https://news.ycombinator.com/item?id=32087057) - [A 74xx-Defined Radio (2021)](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
-* [2022-07-13, 18:14:32](https://news.ycombinator.com/item?id=32086641) - [Nothing Phone (1)](https://nothing.tech/pages/phone-1)
 * [2022-07-13, 17:44:14](https://news.ycombinator.com/item?id=32086170) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2022-07-13, 17:16:54](https://news.ycombinator.com/item?id=32085734) - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
 * [2022-07-13, 17:00:58](https://news.ycombinator.com/item?id=32085475) - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
