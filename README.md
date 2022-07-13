@@ -20,7 +20,6 @@
 * [2022-07-13, 05:57:06](https://news.ycombinator.com/item?id=32079434) - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
 * [2022-07-13, 03:30:52](https://news.ycombinator.com/item?id=32078749) - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
-* [2022-07-13, 02:31:22](https://news.ycombinator.com/item?id=32078407) - [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
 * [2022-07-13, 01:03:51](https://news.ycombinator.com/item?id=32077823) - [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
 * [2022-07-12, 16:45:17](https://news.ycombinator.com/item?id=32072530) - [Ten Percent of the Brain Myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth)
@@ -28,6 +27,7 @@
 * [2022-07-12, 11:43:35](https://news.ycombinator.com/item?id=32068447) - [Show HN: A design-by-contract Python package in ~100 lines](https://github.com/StefanUlbrich/design-by-contract)
 * [2022-07-12, 11:14:11](https://news.ycombinator.com/item?id=32068226) - [Slower Memory Zeroing Through Parallelism](https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/)
 * [2022-07-12, 09:43:05](https://news.ycombinator.com/item?id=32067595) - [Getting Started with DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing/)
+* [2022-07-11, 08:21:28](https://news.ycombinator.com/item?id=32053575) - [Beating the Averages (2001)](http://www.paulgraham.com/avg.html)
 * [2022-07-11, 06:48:32](https://news.ycombinator.com/item?id=32053044) - [I Sell Onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 * [2022-07-09, 11:12:06](https://news.ycombinator.com/item?id=32033905) - [It's normal to play the same song over and over again (2016)](https://www.kqed.org/arts/11523994/repeat-after-me-its-normal-to-play-the-same-song-over-and-over-again)
 
