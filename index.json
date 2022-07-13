@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-12, 23:20:31",
+      "https://news.ycombinator.com/item?id=32077068"
+    ],
+    [
+      "FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]",
+      "https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 23:16:04",
+      "https://news.ycombinator.com/item?id=32077029"
+    ],
+    [
+      "Google slowing hiring to “technical and critical roles” only",
+      "https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 22:40:10",
       "https://news.ycombinator.com/item?id=32076677"
     ],
@@ -37,6 +57,16 @@
     [
       "My experience writing and selling a short story",
       "https://superamit.substack.com/p/short-stories-how-much-do-you-make"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 19:13:19",
+      "https://news.ycombinator.com/item?id=32074414"
+    ],
+    [
+      "How Google got to rolling Linux releases for Desktops",
+      "https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops"
     ]
   ],
   [
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2022-07-12, 14:15:33",
+      "https://news.ycombinator.com/item?id=32070292"
+    ],
+    [
+      "Spotify to acquire Heardle",
+      "https://pr-newsroom-wp.appspot.com/2022-07-12/spotify-to-acquire-music-trivia-sensation-heardle/"
+    ]
+  ],
+  [
+    [
       "2022-07-12, 13:52:44",
       "https://news.ycombinator.com/item?id=32069926"
     ],
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2022-07-12, 09:24:18",
-      "https://news.ycombinator.com/item?id=32067473"
+      "2022-07-11, 17:41:48",
+      "https://news.ycombinator.com/item?id=32059216"
     ],
     [
-      "Column order in PostgreSQL does matter",
-      "https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 08:12:54",
-      "https://news.ycombinator.com/item?id=32066919"
-    ],
-    [
-      "Responsible stewardship of the UEFI Secure Boot ecosystem",
-      "https://mjg59.dreamwidth.org/60248.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 07:33:58",
-      "https://news.ycombinator.com/item?id=32066714"
-    ],
-    [
-      "Buddhism has found a new institutional home in the West: the corporation",
-      "https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 06:47:16",
-      "https://news.ycombinator.com/item?id=32066453"
-    ],
-    [
-      "ISO name change for Türkiye",
-      "https://www.iso.org/obp/ui/#iso:code:3166:TR"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 20:14:36",
-      "https://news.ycombinator.com/item?id=32061193"
-    ],
-    [
-      "Cloud Streets (2006)",
-      "https://rammb.cira.colostate.edu/wmovl/vrl/tutorials/satmanu-eumetsat/satmanu/cms/clstr/index.htm"
+      "Reckless Software Construction",
+      "https://blog.sidstamm.com/2021/12/reckless-software-construction.html"
     ]
   ],
   [
