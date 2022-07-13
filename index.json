@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-07-13, 14:05:58",
+      "https://news.ycombinator.com/item?id=32082896"
+    ],
+    [
+      "Similarity Learning lacks a framework. So we built one",
+      "https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 13:20:38",
+      "https://news.ycombinator.com/item?id=32082284"
+    ],
+    [
+      "Vite 3.0",
+      "https://vitejs.dev/blog/announcing-vite3.html"
+    ]
+  ],
+  [
+    [
       "2022-07-13, 13:06:27",
       "https://news.ycombinator.com/item?id=32082084"
     ],
     [
       "Nearly a third of new subscribers to news publications cancel in the first 24H",
       "https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 12:55:22",
+      "https://news.ycombinator.com/item?id=32081943"
+    ],
+    [
+      "Show HN: Inflation-adjusted stock charts – Total Real Returns",
+      "https://totalrealreturns.com/"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2022-07-13, 01:10:16",
-      "https://news.ycombinator.com/item?id=32077853"
-    ],
-    [
-      "RISC-V Linux on ESP32",
-      "https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 01:06:56",
-      "https://news.ycombinator.com/item?id=32077834"
-    ],
-    [
-      "Sri Lanka is having a textbook currency crisis, triggered by policy mistakes",
-      "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic"
-    ]
-  ],
-  [
-    [
       "2022-07-13, 01:03:51",
       "https://news.ycombinator.com/item?id=32077823"
     ],
@@ -247,16 +257,6 @@
     [
       "Filecoin Virtual Machine – Polyglot, WASM-based execution environment",
       "https://filecoin.io/blog/posts/filecoin-v16-network-upgrade-skyr/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 09:31:25",
-      "https://news.ycombinator.com/item?id=32067523"
-    ],
-    [
-      "A World Tour of Abandoned Amusement Parks",
-      "https://www.atlasobscura.com/lists/abandoned-amusement-parks"
     ]
   ],
   [
