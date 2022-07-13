@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-13, 15:08:23",
+      "https://news.ycombinator.com/item?id=32083753"
+    ],
+    [
+      "How I clean my glasses",
+      "https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html"
+    ]
+  ],
+  [
+    [
       "2022-07-13, 14:18:39",
       "https://news.ycombinator.com/item?id=32083090"
     ],
@@ -257,16 +267,6 @@
     [
       "Slower Memory Zeroing Through Parallelism",
       "https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 10:31:44",
-      "https://news.ycombinator.com/item?id=32067906"
-    ],
-    [
-      "Filecoin Virtual Machine – Polyglot, WASM-based execution environment",
-      "https://filecoin.io/blog/posts/filecoin-v16-network-upgrade-skyr/"
     ]
   ],
   [
