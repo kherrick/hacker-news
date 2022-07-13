@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-07-12, 20:13:19",
-      "https://news.ycombinator.com/item?id=32075032"
-    ],
-    [
-      "My experience writing and selling a short story",
-      "https://superamit.substack.com/p/short-stories-how-much-do-you-make"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 18:41:32",
       "https://news.ycombinator.com/item?id=32074068"
     ],
@@ -227,6 +217,16 @@
     [
       "Tell HN: We are trying to get tail calls into the WebAssembly standard",
       "https://news.ycombinator.com/item?id=32069418"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 11:43:35",
+      "https://news.ycombinator.com/item?id=32068447"
+    ],
+    [
+      "Show HN: A design-by-contract Python package in ~100 lines",
+      "https://github.com/StefanUlbrich/design-by-contract"
     ]
   ],
   [
