@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
+* [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
 * [2022-07-14, 07:01:13](https://news.ycombinator.com/item?id=32092875) - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
@@ -20,7 +21,6 @@
 * [2022-07-13, 20:42:06](https://news.ycombinator.com/item?id=32088487) - [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
 * [2022-07-13, 20:26:44](https://news.ycombinator.com/item?id=32088316) - [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals)
 * [2022-07-13, 18:45:30](https://news.ycombinator.com/item?id=32087057) - [A 74xx-Defined Radio (2021)](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
-* [2022-07-13, 18:39:32](https://news.ycombinator.com/item?id=32086973) - [When rustc explodes](https://fasterthanli.me/articles/when-rustc-explodes)
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 * [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
