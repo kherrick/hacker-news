@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 * [2022-07-14, 19:31:57](https://news.ycombinator.com/item?id=32100524) - [Ask HN: What makes you optimistic about the future?](https://news.ycombinator.com/item?id=32100524)
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
@@ -21,7 +22,6 @@
 * [2022-07-14, 13:09:10](https://news.ycombinator.com/item?id=32095592) - [Show HN: I built an app for when I talk too much in online meetings](http://unblah.me/)
 * [2022-07-14, 13:00:12](https://news.ycombinator.com/item?id=32095502) - [A Spectre Is Haunting Unicode (2018)](https://www.dampfkraft.com/ghost-characters.html)
 * [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy Chips](https://spectrum.ieee.org/risc-v-raspberry-pi)
-* [2022-07-14, 12:03:14](https://news.ycombinator.com/item?id=32094798) - [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
 * [2022-07-14, 11:53:00](https://news.ycombinator.com/item?id=32094693) - [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
 * [2022-07-14, 11:45:33](https://news.ycombinator.com/item?id=32094645) - [DNS Esoterica – Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why don’t we have a strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
