@@ -7,6 +7,7 @@
 * [2022-07-14, 05:50:18](https://news.ycombinator.com/item?id=32092484) - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 * [2022-07-14, 04:53:13](https://news.ycombinator.com/item?id=32092167) - [US emissions cost the world $1.9T in economic damages](https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/)
 * [2022-07-14, 04:42:49](https://news.ycombinator.com/item?id=32092104) - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
+* [2022-07-14, 03:32:53](https://news.ycombinator.com/item?id=32091679) - [Element (Matrix) adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 * [2022-07-14, 03:19:37](https://news.ycombinator.com/item?id=32091592) - [US Doesn't Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
 * [2022-07-14, 03:10:20](https://news.ycombinator.com/item?id=32091550) - [What I Wish Someone Would Have Told Me About Using Rabbitmq](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
 * [2022-07-14, 02:58:22](https://news.ycombinator.com/item?id=32091488) - [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)

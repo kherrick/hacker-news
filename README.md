@@ -2,6 +2,7 @@
 
 * [2022-07-14, 05:50:18](https://news.ycombinator.com/item?id=32092484) - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 * [2022-07-14, 04:42:49](https://news.ycombinator.com/item?id=32092104) - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
+* [2022-07-14, 03:32:53](https://news.ycombinator.com/item?id=32091679) - [Element (Matrix) adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 * [2022-07-14, 03:10:20](https://news.ycombinator.com/item?id=32091550) - [What I wish someone would have told me about using RabbitMQ (2020)](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
 * [2022-07-14, 02:58:22](https://news.ycombinator.com/item?id=32091488) - [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
 * [2022-07-14, 02:24:17](https://news.ycombinator.com/item?id=32091288) - [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
@@ -22,7 +23,6 @@
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
-* [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
 * [2022-07-12, 21:42:43](https://news.ycombinator.com/item?id=32076058) - [The Sanaa Palimpsest](https://english.alaraby.co.uk/features/sanaa-palimpsest-truly-fascinating-quranic-manuscript)
