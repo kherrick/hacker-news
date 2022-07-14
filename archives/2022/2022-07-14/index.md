@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 19:31:57](https://news.ycombinator.com/item?id=32100524) - [Ask HN: What makes you optimistic about the future?](https://news.ycombinator.com/item?id=32100524)
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)

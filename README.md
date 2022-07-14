@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 19:31:57](https://news.ycombinator.com/item?id=32100524) - [Ask HN: What makes you optimistic about the future?](https://news.ycombinator.com/item?id=32100524)
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
@@ -14,7 +15,6 @@
 * [2022-07-14, 14:39:45](https://news.ycombinator.com/item?id=32096627) - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
 * [2022-07-14, 14:38:14](https://news.ycombinator.com/item?id=32096610) - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
 * [2022-07-14, 14:35:28](https://news.ycombinator.com/item?id=32096575) - [It’s time to make that indie C# game in Godot](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
-* [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 * [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is acquiring a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
 * [2022-07-14, 14:10:09](https://news.ycombinator.com/item?id=32096301) - [Picasso's Great Anti-War Mural Flopped](https://www.theatlantic.com/books/archive/2022/07/picasso-guernica-political-art-history-myth/670496/)
 * [2022-07-14, 13:21:54](https://news.ycombinator.com/item?id=32095747) - [Smart thermostats inadvertently strain electric power grids](https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids)
