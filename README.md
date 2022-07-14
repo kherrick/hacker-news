@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-13, 23:57:46](https://news.ycombinator.com/item?id=32090255) - [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
+* [2022-07-13, 23:21:22](https://news.ycombinator.com/item?id=32089964) - [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 * [2022-07-13, 23:01:55](https://news.ycombinator.com/item?id=32089814) - [Ex-CIA coder behind WikiLeaks ‘Vault 7’ cache found guilty of espionage](https://www.courthousenews.com/ex-cia-coder-behind-wikileaks-vault-7-cache-found-guilty-of-espionage/)
 * [2022-07-13, 22:42:44](https://news.ycombinator.com/item?id=32089650) - [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
 * [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
@@ -13,13 +15,10 @@
 * [2022-07-13, 18:39:32](https://news.ycombinator.com/item?id=32086973) - [When rustc explodes](https://fasterthanli.me/articles/when-rustc-explodes)
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 * [2022-07-13, 17:44:14](https://news.ycombinator.com/item?id=32086170) - [DoorDash and pizza arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
-* [2022-07-13, 16:59:04](https://news.ycombinator.com/item?id=32085453) - [Google Kubernetes Engine adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
-* [2022-07-13, 16:43:50](https://news.ycombinator.com/item?id=32085215) - [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
 * [2022-07-13, 16:42:22](https://news.ycombinator.com/item?id=32085180) - [Maybe powers of π don't have unexpectedly good approximations?](https://11011110.github.io/blog/2022/06/04/maybe-powers-pi.html)
 * [2022-07-13, 16:25:39](https://news.ycombinator.com/item?id=32084887) - [Expanding the Tau VM family with Arm-based processors](https://cloud.google.com/blog/products/compute/tau-t2a-is-first-compute-engine-vm-on-an-arm-chip)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
 * [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
-* [2022-07-13, 15:27:37](https://news.ycombinator.com/item?id=32084023) - [Teams is killing my Mac every day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
 * [2022-07-13, 15:08:23](https://news.ycombinator.com/item?id=32083753) - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
 * [2022-07-13, 12:52:06](https://news.ycombinator.com/item?id=32081900) - [Amazon admits giving police Ring footage without consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
@@ -27,9 +26,10 @@
 * [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is really open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
-* [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 * [2022-07-12, 08:48:59](https://news.ycombinator.com/item?id=32067193) - [A scientist who developed a new way to understand communication](https://www.quantamagazine.org/mark-braverman-wins-the-imu-abacus-medal-20220705/)
+* [2022-07-12, 06:14:01](https://news.ycombinator.com/item?id=32066255) - [A Hookup App for the Emotionally Mature](https://www.newyorker.com/culture/annals-of-inquiry/feeld-dating-app-sex)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
+* [2022-07-11, 19:24:52](https://news.ycombinator.com/item?id=32060577) - [Peter Fabris’ Illustrations for William Hamilton’s Campi Phlegraei (1776–79)](https://publicdomainreview.org/collection/campi-phlegraei/)
 
 ## [Archives](archives/index.md)
 

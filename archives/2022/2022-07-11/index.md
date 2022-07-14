@@ -20,6 +20,7 @@
 * [2022-07-11, 20:14:36](https://news.ycombinator.com/item?id=32061193) - [Cloud Streets (2006)](https://rammb.cira.colostate.edu/wmovl/vrl/tutorials/satmanu-eumetsat/satmanu/cms/clstr/index.htm)
 * [2022-07-11, 20:14:11](https://news.ycombinator.com/item?id=32061187) - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 * [2022-07-11, 19:26:30](https://news.ycombinator.com/item?id=32060597) - [Avoiding image layout shifts (CLS): aspect-ratio vs. width and height](https://jakearchibald.com/2022/img-aspect-ratio/)
+* [2022-07-11, 19:24:52](https://news.ycombinator.com/item?id=32060577) - [Peter Fabris’ Illustrations for William Hamilton’s Campi Phlegraei (1776–79)](https://publicdomainreview.org/collection/campi-phlegraei/)
 * [2022-07-11, 18:57:33](https://news.ycombinator.com/item?id=32060226) - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
 * [2022-07-11, 18:57:14](https://news.ycombinator.com/item?id=32060216) - [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
 * [2022-07-11, 18:15:08](https://news.ycombinator.com/item?id=32059666) - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)

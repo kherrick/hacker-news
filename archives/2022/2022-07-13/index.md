@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 23:57:46](https://news.ycombinator.com/item?id=32090255) - [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
+* [2022-07-13, 23:21:22](https://news.ycombinator.com/item?id=32089964) - [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 * [2022-07-13, 23:01:55](https://news.ycombinator.com/item?id=32089814) - [Ex-CIA coder behind WikiLeaks ‘Vault 7’ cache found guilty of espionage](https://www.courthousenews.com/ex-cia-coder-behind-wikileaks-vault-7-cache-found-guilty-of-espionage/)
 * [2022-07-13, 22:42:44](https://news.ycombinator.com/item?id=32089650) - [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
 * [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20bn investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
