@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
+* [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
@@ -22,6 +23,7 @@
 * [2022-07-14, 14:35:28](https://news.ycombinator.com/item?id=32096575) - [Godot: making C# games in 2022](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
 * [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 * [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
+* [2022-07-14, 14:10:09](https://news.ycombinator.com/item?id=32096301) - [Picasso's Great Anti-War Mural Flopped](https://www.theatlantic.com/books/archive/2022/07/picasso-guernica-political-art-history-myth/670496/)
 * [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
 * [2022-07-14, 13:51:44](https://news.ycombinator.com/item?id=32096093) - [Building multi-architecture Docker images](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
 * [2022-07-14, 13:21:54](https://news.ycombinator.com/item?id=32095747) - [Smart thermostats inadvertently strain electric power grids](https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids)
