@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
+* [2022-07-14, 16:18:40](https://news.ycombinator.com/item?id=32098016) - [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
 * [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/)
 * [2022-07-14, 15:52:46](https://news.ycombinator.com/item?id=32097663) - [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
 * [2022-07-14, 15:37:04](https://news.ycombinator.com/item?id=32097424) - [Nyxt 3 Pre-release 1 (a Lisp powered web browser)](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
