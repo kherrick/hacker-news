@@ -71,6 +71,7 @@
 * [2022-07-12, 08:57:51](https://news.ycombinator.com/item?id=32067268) - [Bun (can become) the ideal JavaScript runtime](https://alexhultman.medium.com/bun-can-become-the-ideal-javascript-runtime-3b2610792433)
 * [2022-07-12, 08:48:59](https://news.ycombinator.com/item?id=32067193) - [A scientist who developed a new way to understand communication](https://www.quantamagazine.org/mark-braverman-wins-the-imu-abacus-medal-20220705/)
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
+* [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 07:33:58](https://news.ycombinator.com/item?id=32066714) - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
 * [2022-07-12, 07:27:59](https://news.ycombinator.com/item?id=32066689) - [Pegs and the Structure of Languages (2021)](https://blog.bruce-hill.com/pegs-and-the-structure-of-languages)

@@ -3,8 +3,7 @@
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
-* [2022-07-14, 16:18:40](https://news.ycombinator.com/item?id=32098016) - [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
-* [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://www.pocketgamer.biz/interview/79190/unity-ironsource-john-riccitiello-marc-whitten-merger/)
+* [2022-07-14, 16:18:40](https://news.ycombinator.com/item?id=32098016) - [Is WebAssembly magic performance pixie dust? (2021)](https://surma.dev/things/js-to-asc/)
 * [2022-07-14, 15:52:46](https://news.ycombinator.com/item?id=32097663) - [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
 * [2022-07-14, 15:37:04](https://news.ycombinator.com/item?id=32097424) - [Nyxt 3 Pre-release 1 (a Lisp powered web browser)](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
 * [2022-07-14, 14:52:42](https://news.ycombinator.com/item?id=32096801) - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
@@ -17,7 +16,7 @@
 * [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
 * [2022-07-14, 13:09:10](https://news.ycombinator.com/item?id=32095592) - [Show HN: I built an app for when I talk too much in online meetings](http://unblah.me/)
 * [2022-07-14, 13:00:12](https://news.ycombinator.com/item?id=32095502) - [A Spectre Is Haunting Unicode (2018)](https://www.dampfkraft.com/ghost-characters.html)
-* [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
+* [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy Chips](https://spectrum.ieee.org/risc-v-raspberry-pi)
 * [2022-07-14, 12:15:32](https://news.ycombinator.com/item?id=32094937) - [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
 * [2022-07-14, 12:03:14](https://news.ycombinator.com/item?id=32094798) - [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
 * [2022-07-14, 11:53:00](https://news.ycombinator.com/item?id=32094693) - [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
@@ -30,6 +29,7 @@
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [World's oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-13, 09:36:25](https://news.ycombinator.com/item?id=32080556) - [Computerized Cooking (1985)](https://diyhpl.us/~bryan/papers2/CompCook.html)
 * [2022-07-12, 22:29:14](https://news.ycombinator.com/item?id=32076546) - [Revising the History of DDT’s Long-Tailed Legacy](https://lareviewofbooks.org/article/reprising-ddts-long-tailed-legacy/)
+* [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
 
 ## [Archives](archives/index.md)
 
