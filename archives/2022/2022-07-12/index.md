@@ -14,6 +14,7 @@
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring and Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [How to write and sell a sci-fi story (and how much you'll make)](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
+* [2022-07-12, 19:41:13](https://news.ycombinator.com/item?id=32074705) - [Modern Art and the Esteem Machine: How Picasso finally took off in America](https://www.newyorker.com/magazine/2022/07/04/modern-art-and-the-esteem-machine-hugh-eakin-picassos-war)
 * [2022-07-12, 19:13:19](https://news.ycombinator.com/item?id=32074414) - [How Google got to rolling Linux releases for Desktops](https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops)
 * [2022-07-12, 18:41:32](https://news.ycombinator.com/item?id=32074068) - [Compare Webb's Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
 * [2022-07-12, 17:50:02](https://news.ycombinator.com/item?id=32073450) - [40 Years Ago, Disney's Weirdest Failure Changed Sci-Fi Movies Forever](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
