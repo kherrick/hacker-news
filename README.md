@@ -25,9 +25,9 @@
 * [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
-* [2022-07-12, 21:42:43](https://news.ycombinator.com/item?id=32076058) - [The Sanaa Palimpsest](https://english.alaraby.co.uk/features/sanaa-palimpsest-truly-fascinating-quranic-manuscript)
 * [2022-07-12, 19:41:13](https://news.ycombinator.com/item?id=32074705) - [Modern Art and the Esteem Machine: How Picasso finally took off in America](https://www.newyorker.com/magazine/2022/07/04/modern-art-and-the-esteem-machine-hugh-eakin-picassos-war)
 * [2022-07-12, 06:56:29](https://news.ycombinator.com/item?id=32066513) - [Denote – Simple Emacs Zettelkasten (by Prot)](https://protesilaos.com/emacs/denote)
+* [2022-07-12, 06:15:24](https://news.ycombinator.com/item?id=32066263) - [Tropy: An Open-Source App to Organize Your Research Photos](https://github.com/tropy/tropy)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
 * [2022-07-11, 04:44:21](https://news.ycombinator.com/item?id=32052292) - [Dictionary for Computer Languages](https://archive.org/details/breuer-dictionary-for-computer-languages)
 
