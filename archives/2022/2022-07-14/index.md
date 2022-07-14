@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 14:39:45](https://news.ycombinator.com/item?id=32096627) - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
+* [2022-07-14, 14:38:14](https://news.ycombinator.com/item?id=32096610) - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
 * [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 * [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
 * [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
