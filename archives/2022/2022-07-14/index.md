@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/)
+* [2022-07-14, 15:52:46](https://news.ycombinator.com/item?id=32097663) - [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
 * [2022-07-14, 15:37:04](https://news.ycombinator.com/item?id=32097424) - [Nyxt 3 Pre-release 1 (a Lisp powered web browser)](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
 * [2022-07-14, 15:07:11](https://news.ycombinator.com/item?id=32096965) - [How to keep your Terraform code DRY by using Terramate](https://blog.mineiros.io/how-to-keep-your-terraform-code-dry-by-using-terramate-be5807fef8f6)
 * [2022-07-14, 14:52:42](https://news.ycombinator.com/item?id=32096801) - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
+* [2022-07-14, 14:42:00](https://news.ycombinator.com/item?id=32096656) - [Tell HN: Upwork Has an Impersonation Problem](https://news.ycombinator.com/item?id=32096656)
 * [2022-07-14, 14:39:45](https://news.ycombinator.com/item?id=32096627) - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
 * [2022-07-14, 14:38:14](https://news.ycombinator.com/item?id=32096610) - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
 * [2022-07-14, 14:35:28](https://news.ycombinator.com/item?id=32096575) - [Godot: making C# games in 2022](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
