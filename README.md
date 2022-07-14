@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
 * [2022-07-14, 07:01:13](https://news.ycombinator.com/item?id=32092875) - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
@@ -13,6 +14,7 @@
 * [2022-07-13, 23:58:24](https://news.ycombinator.com/item?id=32090261) - [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
 * [2022-07-13, 23:57:46](https://news.ycombinator.com/item?id=32090255) - [Niantic undergoes layoffs, cancels four games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
 * [2022-07-13, 23:21:22](https://news.ycombinator.com/item?id=32089964) - [The effects of sleep debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
+* [2022-07-13, 22:42:44](https://news.ycombinator.com/item?id=32089650) - [You can’t eat just any leaf (2018)](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
 * [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 20:42:06](https://news.ycombinator.com/item?id=32088487) - [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
@@ -28,8 +30,6 @@
 * [2022-07-12, 07:23:51](https://news.ycombinator.com/item?id=32066670) - [Statements vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 * [2022-07-12, 06:56:29](https://news.ycombinator.com/item?id=32066513) - [Denote – Simple Emacs Zettelkasten (by Prot)](https://protesilaos.com/emacs/denote)
 * [2022-07-12, 06:15:24](https://news.ycombinator.com/item?id=32066263) - [Tropy: An Open-Source App to Organize Your Research Photos](https://github.com/tropy/tropy)
-* [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
-* [2022-07-11, 04:44:21](https://news.ycombinator.com/item?id=32052292) - [Dictionary for Computer Languages](https://archive.org/details/breuer-dictionary-for-computer-languages)
 
 ## [Archives](archives/index.md)
 
