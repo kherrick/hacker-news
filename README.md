@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:59:23](https://news.ycombinator.com/item?id=32094339) - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
+* [2022-07-14, 09:45:40](https://news.ycombinator.com/item?id=32093929) - [Node-Red 3.0 Released](https://nodered.org/blog/2022/07/14/version-3-0-released)
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
@@ -11,7 +13,6 @@
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-14, 03:32:53](https://news.ycombinator.com/item?id=32091679) - [Element (Matrix) adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 * [2022-07-14, 03:10:20](https://news.ycombinator.com/item?id=32091550) - [What I wish someone would have told me about using RabbitMQ (2020)](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
-* [2022-07-14, 02:58:22](https://news.ycombinator.com/item?id=32091488) - [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
 * [2022-07-14, 02:24:17](https://news.ycombinator.com/item?id=32091288) - [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
 * [2022-07-14, 01:50:48](https://news.ycombinator.com/item?id=32091054) - [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
 * [2022-07-14, 00:17:16](https://news.ycombinator.com/item?id=32090389) - [30% of Google's Emotions Dataset Is Mislabeled](https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled)
@@ -27,7 +28,6 @@
 * [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
 * [2022-07-13, 12:08:44](https://news.ycombinator.com/item?id=32081528) - [When animation is an accessibility problem](https://www.theverge.com/23191768/animation-accessibility-neurodivergence)
 * [2022-07-12, 20:41:01](https://news.ycombinator.com/item?id=32075388) - [Bill Ackman to wind down SPAC, return $4B to investors](https://seekingalpha.com/news/3856007-bill-ackman-to-wind-down-spac-return-4-billion-to-investors)
-* [2022-07-12, 07:27:59](https://news.ycombinator.com/item?id=32066689) - [Pegs and the Structure of Languages (2021)](https://blog.bruce-hill.com/pegs-and-the-structure-of-languages)
 * [2022-07-12, 07:23:51](https://news.ycombinator.com/item?id=32066670) - [Statements vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 * [2022-07-12, 06:56:29](https://news.ycombinator.com/item?id=32066513) - [Denote – Simple Emacs Zettelkasten (by Prot)](https://protesilaos.com/emacs/denote)
 

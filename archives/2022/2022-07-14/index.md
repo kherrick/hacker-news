@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:59:23](https://news.ycombinator.com/item?id=32094339) - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
+* [2022-07-14, 09:45:40](https://news.ycombinator.com/item?id=32093929) - [Node-Red 3.0 Released](https://nodered.org/blog/2022/07/14/version-3-0-released)
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
