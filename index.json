@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32099194"
     ],
     [
-      "Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs",
+      "ChromeOS Flex is now ready to scale to PCs and Macs",
       "https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs"
     ]
   ],
@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2022-07-14, 16:14:26",
+      "https://news.ycombinator.com/item?id=32097950"
+    ],
+    [
+      "Rocky Linux 9.0",
+      "https://rockylinux.org/news/rocky-linux-9-0-ga-release/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 15:52:46",
       "https://news.ycombinator.com/item?id=32097663"
     ],
     [
-      "PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB",
+      "PostgreSQL views and materialized views and how they influenced TimescaleDB",
       "https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32096656"
     ],
     [
-      "Tell HN: Upwork Has an Impersonation Problem",
+      "Tell HN: Upwork has an impersonation problem",
       "https://news.ycombinator.com/item?id=32096656"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32096575"
     ],
     [
-      "Godot: making C# games in 2022",
+      "It’s time to make that indie C# game in Godot",
       "https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32096371"
     ],
     [
-      "Unity is merging with a company who made a malware installer",
+      "Unity is acquiring a company who made a malware installer",
       "https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/"
     ]
   ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32094469"
     ],
     [
-      "Why Don’t We Have a Strategy?",
+      "Why don’t we have a strategy?",
       "https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "The DynamoDB Paper",
       "https://brooker.co.za/blog/2022/07/12/dynamodb.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 08:48:16",
-      "https://news.ycombinator.com/item?id=32093619"
-    ],
-    [
-      "A graphical OS for the Atari 8-bit",
-      "https://atari8.co.uk/gui/"
     ]
   ],
   [
