@@ -8,6 +8,7 @@
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
 * [2022-07-14, 16:18:40](https://news.ycombinator.com/item?id=32098016) - [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
+* [2022-07-14, 16:14:26](https://news.ycombinator.com/item?id=32097950) - [Rocky Linux 9.0](https://rockylinux.org/news/rocky-linux-9-0-ga-release/)
 * [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://www.pocketgamer.biz/interview/79190/unity-ironsource-john-riccitiello-marc-whitten-merger/)
 * [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/)
 * [2022-07-14, 15:52:46](https://news.ycombinator.com/item?id=32097663) - [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
