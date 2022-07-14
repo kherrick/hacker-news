@@ -10,6 +10,7 @@
 * [2022-07-12, 23:16:04](https://news.ycombinator.com/item?id=32077029) - [Google slowing hiring to “technical and critical roles” only](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
 * [2022-07-12, 22:40:10](https://news.ycombinator.com/item?id=32076677) - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
 * [2022-07-12, 21:50:49](https://news.ycombinator.com/item?id=32076143) - [News Engagement crashing 50% on Social](https://www.axios.com/2022/07/12/news-media-readership-ratings-2022)
+* [2022-07-12, 21:42:43](https://news.ycombinator.com/item?id=32076058) - [The Sanaa Palimpsest](https://english.alaraby.co.uk/features/sanaa-palimpsest-truly-fascinating-quranic-manuscript)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring and Hiring](https://www.easypost.com/careers)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [How to write and sell a sci-fi story (and how much you'll make)](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
