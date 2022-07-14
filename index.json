@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-14, 21:34:30",
+      "https://news.ycombinator.com/item?id=32101729"
+    ],
+    [
+      "Microsoft Windows Network File System v4 Remote Code Execution",
+      "https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 21:00:28",
       "https://news.ycombinator.com/item?id=32101389"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2022-07-14, 16:25:29",
+      "https://news.ycombinator.com/item?id=32098112"
+    ],
+    [
+      "Stripe cuts internal valuation by 28%",
+      "https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 16:18:40",
       "https://news.ycombinator.com/item?id=32098016"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-07-14, 14:42:00",
-      "https://news.ycombinator.com/item?id=32096656"
-    ],
-    [
-      "Tell HN: Upwork has an impersonation problem",
-      "https://news.ycombinator.com/item?id=32096656"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 14:39:45",
       "https://news.ycombinator.com/item?id=32096627"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32096610"
     ],
     [
-      "Show HN: Open-source authorization service based on Google-Zanzibar",
+      "Show HN: Permify – Open-source authorization service based on Google Zanzibar",
       "https://github.com/Permify/permify"
     ]
   ],
@@ -201,21 +211,11 @@
   ],
   [
     [
-      "2022-07-14, 12:03:14",
-      "https://news.ycombinator.com/item?id=32094798"
-    ],
-    [
-      "Woman ‘dehumanised’ by viral TikTok filmed without her consent",
-      "https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 11:53:00",
       "https://news.ycombinator.com/item?id=32094693"
     ],
     [
-      "The C/C++ preprocessor iceberg with explanations",
+      "The Preprocessor Iceberg Meme",
       "https://jadlevesque.github.io/PPMP-Iceberg/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32065871"
     ],
     [
-      "History of Unix [video] (2018)",
+      "The History of Unix, Rob Pike [video] (2018)",
       "https://www.youtube.com/watch?v=_2NI6t2r_Hs"
     ]
   ]
