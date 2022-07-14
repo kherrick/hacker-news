@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-13](index.md)
 
+* [2022-07-13, 23:58:24](https://news.ycombinator.com/item?id=32090261) - [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
 * [2022-07-13, 23:57:46](https://news.ycombinator.com/item?id=32090255) - [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
 * [2022-07-13, 23:21:22](https://news.ycombinator.com/item?id=32089964) - [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 * [2022-07-13, 23:01:55](https://news.ycombinator.com/item?id=32089814) - [Ex-CIA coder behind WikiLeaks ‘Vault 7’ cache found guilty of espionage](https://www.courthousenews.com/ex-cia-coder-behind-wikileaks-vault-7-cache-found-guilty-of-espionage/)
@@ -38,6 +39,7 @@
 * [2022-07-13, 15:00:18](https://news.ycombinator.com/item?id=32083653) - [Ask HN: What is the most complex topic you understand?](https://news.ycombinator.com/item?id=32083653)
 * [2022-07-13, 14:18:39](https://news.ycombinator.com/item?id=32083090) - [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
 * [2022-07-13, 14:05:58](https://news.ycombinator.com/item?id=32082896) - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
+* [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
 * [2022-07-13, 13:20:38](https://news.ycombinator.com/item?id=32082284) - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
 * [2022-07-13, 13:06:27](https://news.ycombinator.com/item?id=32082084) - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)

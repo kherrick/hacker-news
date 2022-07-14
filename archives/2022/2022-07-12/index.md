@@ -76,6 +76,7 @@
 * [2022-07-12, 06:28:15](https://news.ycombinator.com/item?id=32066339) - [Ancient Nautilus, Uncertain Future](https://hakaimagazine.com/features/ancient-nautilus-uncertain-future/)
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
 * [2022-07-12, 06:19:11](https://news.ycombinator.com/item?id=32066283) - [Japan Proposes a Wild Concept for Making Artificial Gravity on the Moon](https://singularityhub.com/2022/07/11/japan-proposes-a-wild-concept-for-making-artificial-gravity-on-the-moon/)
+* [2022-07-12, 06:15:24](https://news.ycombinator.com/item?id=32066263) - [Tropy: An Open-Source App to Organize Your Research Photos](https://github.com/tropy/tropy)
 * [2022-07-12, 06:14:01](https://news.ycombinator.com/item?id=32066255) - [A Hookup App for the Emotionally Mature](https://www.newyorker.com/culture/annals-of-inquiry/feeld-dating-app-sex)
 * [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
