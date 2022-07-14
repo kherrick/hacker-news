@@ -72,6 +72,7 @@
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 07:33:58](https://news.ycombinator.com/item?id=32066714) - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
+* [2022-07-12, 07:23:51](https://news.ycombinator.com/item?id=32066670) - [Statements vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 * [2022-07-12, 07:17:20](https://news.ycombinator.com/item?id=32066644) - [Sound of Colleagues](https://soundofcolleagues.com/)
 * [2022-07-12, 07:05:27](https://news.ycombinator.com/item?id=32066569) - [Show HN: Kreya, a Postman Alternative](https://kreya.app/)
 * [2022-07-12, 07:05:02](https://news.ycombinator.com/item?id=32066565) - [BMW Makes Heated Seats an $18/Month Subscription Service – Again](https://www.thedrive.com/news/bmw-is-charging-a-subscription-fee-for-heated-seats-again)

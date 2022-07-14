@@ -9,7 +9,6 @@
 * [2022-07-14, 02:58:22](https://news.ycombinator.com/item?id=32091488) - [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
 * [2022-07-14, 02:24:17](https://news.ycombinator.com/item?id=32091288) - [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
 * [2022-07-14, 01:50:48](https://news.ycombinator.com/item?id=32091054) - [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
-* [2022-07-14, 01:14:58](https://news.ycombinator.com/item?id=32090804) - [We must protect our ability to transact privately online (2019)](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
 * [2022-07-14, 00:17:16](https://news.ycombinator.com/item?id=32090389) - [30% of Google's Emotions Dataset Is Mislabeled](https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled)
 * [2022-07-13, 23:58:24](https://news.ycombinator.com/item?id=32090261) - [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
 * [2022-07-13, 23:57:46](https://news.ycombinator.com/item?id=32090255) - [Niantic undergoes layoffs, cancels four games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
@@ -24,12 +23,13 @@
 * [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
-* [2022-07-12, 21:42:43](https://news.ycombinator.com/item?id=32076058) - [The Sanaa Palimpsest](https://english.alaraby.co.uk/features/sanaa-palimpsest-truly-fascinating-quranic-manuscript)
 * [2022-07-12, 20:41:01](https://news.ycombinator.com/item?id=32075388) - [Bill Ackman to wind down SPAC, return $4B to investors](https://seekingalpha.com/news/3856007-bill-ackman-to-wind-down-spac-return-4-billion-to-investors)
 * [2022-07-12, 19:41:13](https://news.ycombinator.com/item?id=32074705) - [Modern Art and the Esteem Machine: How Picasso finally took off in America](https://www.newyorker.com/magazine/2022/07/04/modern-art-and-the-esteem-machine-hugh-eakin-picassos-war)
+* [2022-07-12, 07:23:51](https://news.ycombinator.com/item?id=32066670) - [Statements vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 * [2022-07-12, 06:56:29](https://news.ycombinator.com/item?id=32066513) - [Denote – Simple Emacs Zettelkasten (by Prot)](https://protesilaos.com/emacs/denote)
 * [2022-07-12, 06:15:24](https://news.ycombinator.com/item?id=32066263) - [Tropy: An Open-Source App to Organize Your Research Photos](https://github.com/tropy/tropy)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
+* [2022-07-11, 04:44:21](https://news.ycombinator.com/item?id=32052292) - [Dictionary for Computer Languages](https://archive.org/details/breuer-dictionary-for-computer-languages)
 
 ## [Archives](archives/index.md)
 
