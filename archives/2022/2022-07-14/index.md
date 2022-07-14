@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
 * [2022-07-14, 13:51:44](https://news.ycombinator.com/item?id=32096093) - [Building multi-architecture Docker images](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
 * [2022-07-14, 13:21:54](https://news.ycombinator.com/item?id=32095747) - [Smart thermostats inadvertently strain electric power grids](https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids)
 * [2022-07-14, 13:21:19](https://news.ycombinator.com/item?id=32095743) - [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
