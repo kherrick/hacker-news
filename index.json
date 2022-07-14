@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-14, 13:51:44",
+      "https://news.ycombinator.com/item?id=32096093"
+    ],
+    [
+      "Building multi-architecture Docker images",
+      "https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 13:21:54",
+      "https://news.ycombinator.com/item?id=32095747"
+    ],
+    [
+      "Smart thermostats inadvertently strain electric power grids",
+      "https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 13:21:19",
       "https://news.ycombinator.com/item?id=32095743"
     ],
@@ -47,16 +67,6 @@
     [
       "Comdb2",
       "https://bloomberg.github.io/comdb2/overview_home.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 12:08:08",
-      "https://news.ycombinator.com/item?id=32094849"
-    ],
-    [
-      "Twitter Is Down",
-      "https://twitter.com/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "30% of Google's Emotions Dataset Is Mislabeled",
       "https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 23:58:24",
-      "https://news.ycombinator.com/item?id=32090261"
-    ],
-    [
-      "Cryptomator – Encrypt files on your cloud storage",
-      "https://cryptomator.org/"
     ]
   ],
   [
