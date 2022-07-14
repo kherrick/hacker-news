@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-14, 15:59:35",
+      "https://news.ycombinator.com/item?id=32097752"
+    ],
+    [
+      "Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO",
+      "https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 15:52:46",
+      "https://news.ycombinator.com/item?id=32097663"
+    ],
+    [
+      "PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB",
+      "https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 15:37:04",
       "https://news.ycombinator.com/item?id=32097424"
     ],
@@ -17,6 +37,16 @@
     [
       "Show HN: Porting OpenBSD Pledge() to Linux",
       "https://justine.lol/pledge/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 14:42:00",
+      "https://news.ycombinator.com/item?id=32096656"
+    ],
+    [
+      "Tell HN: Upwork Has an Impersonation Problem",
+      "https://news.ycombinator.com/item?id=32096656"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "Hypergraphs Reveal Solution to 50-Year-Old Problem",
       "https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 13:51:44",
-      "https://news.ycombinator.com/item?id=32096093"
-    ],
-    [
-      "Building multi-architecture Docker images",
-      "https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 13:21:19",
-      "https://news.ycombinator.com/item?id=32095743"
-    ],
-    [
-      "Frank Gehry has a few things to get off his chest",
-      "https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-07-14, 09:56:15",
-      "https://news.ycombinator.com/item?id=32093987"
-    ],
-    [
-      "GoDaddy locks out derivatives of Chrome",
-      "https://news.ycombinator.com/item?id=32093987"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 08:48:16",
       "https://news.ycombinator.com/item?id=32093619"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-07-14, 02:24:17",
-      "https://news.ycombinator.com/item?id=32091288"
-    ],
-    [
-      "Books to read to understand financial crime",
-      "https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 01:50:48",
       "https://news.ycombinator.com/item?id=32091054"
     ],
@@ -297,6 +287,16 @@
     [
       "Learn Something Old Every Day, Part VI: Backward Buffer Overwrite",
       "https://www.os2museum.com/wp/learn-something-old-every-day-part-vi-backward-buffer-overwrite/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 09:36:25",
+      "https://news.ycombinator.com/item?id=32080556"
+    ],
+    [
+      "Computerized Cooking (1985)",
+      "https://diyhpl.us/~bryan/papers2/CompCook.html"
     ]
   ]
 ]
