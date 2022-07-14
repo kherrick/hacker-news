@@ -14,7 +14,7 @@
 * [2022-07-14, 14:35:28](https://news.ycombinator.com/item?id=32096575) - [It’s time to make that indie C# game in Godot](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
 * [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 * [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is acquiring a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
-* [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
+* [2022-07-14, 13:21:54](https://news.ycombinator.com/item?id=32095747) - [Smart thermostats inadvertently strain electric power grids](https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids)
 * [2022-07-14, 13:09:10](https://news.ycombinator.com/item?id=32095592) - [Show HN: I built an app for when I talk too much in online meetings](http://unblah.me/)
 * [2022-07-14, 13:00:12](https://news.ycombinator.com/item?id=32095502) - [A Spectre Is Haunting Unicode (2018)](https://www.dampfkraft.com/ghost-characters.html)
 * [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy Chips](https://spectrum.ieee.org/risc-v-raspberry-pi)
@@ -25,11 +25,11 @@
 * [2022-07-14, 11:45:06](https://news.ycombinator.com/item?id=32094640) - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why don’t we have a strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
-* [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [World's oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-12, 22:29:14](https://news.ycombinator.com/item?id=32076546) - [Revising the History of DDT’s Long-Tailed Legacy](https://lareviewofbooks.org/article/reprising-ddts-long-tailed-legacy/)
 * [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
+* [2022-07-12, 05:09:31](https://news.ycombinator.com/item?id=32065871) - [History of Unix [video] (2018)](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
 
 ## [Archives](archives/index.md)
 
