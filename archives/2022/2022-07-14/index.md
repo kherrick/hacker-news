@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 12:15:32](https://news.ycombinator.com/item?id=32094937) - [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
+* [2022-07-14, 12:08:08](https://news.ycombinator.com/item?id=32094849) - [Twitter Is Down](https://twitter.com/)
+* [2022-07-14, 12:03:14](https://news.ycombinator.com/item?id=32094798) - [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
 * [2022-07-14, 12:00:48](https://news.ycombinator.com/item?id=32094769) - [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+* [2022-07-14, 11:53:00](https://news.ycombinator.com/item?id=32094693) - [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
 * [2022-07-14, 11:45:33](https://news.ycombinator.com/item?id=32094645) - [DNS Esoterica – Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 * [2022-07-14, 11:45:06](https://news.ycombinator.com/item?id=32094640) - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:59:23](https://news.ycombinator.com/item?id=32094339) - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
+* [2022-07-14, 10:25:50](https://news.ycombinator.com/item?id=32094142) - [Crypto Winter, or Crypto Ice Age?](https://www.technollama.co.uk/crypto-winter-or-crypto-ice-age)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
 * [2022-07-14, 09:45:40](https://news.ycombinator.com/item?id=32093929) - [Node-Red 3.0 Released](https://nodered.org/blog/2022/07/14/version-3-0-released)
