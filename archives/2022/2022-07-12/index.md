@@ -81,6 +81,7 @@
 * [2022-07-12, 07:05:02](https://news.ycombinator.com/item?id=32066565) - [BMW Makes Heated Seats an $18/Month Subscription Service – Again](https://www.thedrive.com/news/bmw-is-charging-a-subscription-fee-for-heated-seats-again)
 * [2022-07-12, 06:56:29](https://news.ycombinator.com/item?id=32066513) - [Denote – Simple Emacs Zettelkasten (by Prot)](https://protesilaos.com/emacs/denote)
 * [2022-07-12, 06:47:16](https://news.ycombinator.com/item?id=32066453) - [ISO name change for Türkiye. You mught have to update your ISO data](https://www.iso.org/obp/ui/#iso:code:3166:TR)
+* [2022-07-12, 06:34:16](https://news.ycombinator.com/item?id=32066370) - [Formally Verifying Industry Cryptography](https://www.computer.org/csdl/magazine/sp/2022/03/09733177/1BENJJewLKw)
 * [2022-07-12, 06:28:15](https://news.ycombinator.com/item?id=32066339) - [Ancient Nautilus, Uncertain Future](https://hakaimagazine.com/features/ancient-nautilus-uncertain-future/)
 * [2022-07-12, 06:24:11](https://news.ycombinator.com/item?id=32066311) - [Food-seeking behavior is triggered by skin ultraviolet exposure in males](https://www.nature.com/articles/s42255-022-00587-9)
 * [2022-07-12, 06:19:11](https://news.ycombinator.com/item?id=32066283) - [Japan Proposes a Wild Concept for Making Artificial Gravity on the Moon](https://singularityhub.com/2022/07/11/japan-proposes-a-wild-concept-for-making-artificial-gravity-on-the-moon/)
