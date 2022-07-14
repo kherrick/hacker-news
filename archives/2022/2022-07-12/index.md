@@ -9,6 +9,7 @@
 * [2022-07-12, 23:20:31](https://news.ycombinator.com/item?id=32077068) - [FEMA Planning Guidance for Response to a Nuclear Detonation [pdf]](https://www.fema.gov/sites/default/files/documents/fema_nuc-detonation-planning-guide.pdf)
 * [2022-07-12, 23:16:04](https://news.ycombinator.com/item?id=32077029) - [Google slowing hiring to “technical and critical roles” only](https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022)
 * [2022-07-12, 22:40:10](https://news.ycombinator.com/item?id=32076677) - [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
+* [2022-07-12, 22:29:14](https://news.ycombinator.com/item?id=32076546) - [Revising the History of DDT’s Long-Tailed Legacy](https://lareviewofbooks.org/article/reprising-ddts-long-tailed-legacy/)
 * [2022-07-12, 21:50:49](https://news.ycombinator.com/item?id=32076143) - [News Engagement crashing 50% on Social](https://www.axios.com/2022/07/12/news-media-readership-ratings-2022)
 * [2022-07-12, 21:42:43](https://news.ycombinator.com/item?id=32076058) - [The Sanaa Palimpsest](https://english.alaraby.co.uk/features/sanaa-palimpsest-truly-fascinating-quranic-manuscript)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)

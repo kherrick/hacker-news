@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
+* [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
 * [2022-07-14, 16:18:40](https://news.ycombinator.com/item?id=32098016) - [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
 * [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/)
 * [2022-07-14, 15:52:46](https://news.ycombinator.com/item?id=32097663) - [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
@@ -27,9 +28,8 @@
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
 * [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [World's oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
-* [2022-07-14, 01:50:48](https://news.ycombinator.com/item?id=32091054) - [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
-* [2022-07-13, 16:17:01](https://news.ycombinator.com/item?id=32084757) - [Learn Something Old Every Day, Part VI: Backward Buffer Overwrite](https://www.os2museum.com/wp/learn-something-old-every-day-part-vi-backward-buffer-overwrite/)
 * [2022-07-13, 09:36:25](https://news.ycombinator.com/item?id=32080556) - [Computerized Cooking (1985)](https://diyhpl.us/~bryan/papers2/CompCook.html)
+* [2022-07-12, 22:29:14](https://news.ycombinator.com/item?id=32076546) - [Revising the History of DDT’s Long-Tailed Legacy](https://lareviewofbooks.org/article/reprising-ddts-long-tailed-legacy/)
 
 ## [Archives](archives/index.md)
 
