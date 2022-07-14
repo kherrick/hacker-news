@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-07-14, 04:53:13",
-      "https://news.ycombinator.com/item?id=32092167"
-    ],
-    [
-      "US emissions cost the world $1.9T in economic damages",
-      "https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 04:42:49",
       "https://news.ycombinator.com/item?id=32092104"
     ],
@@ -217,6 +207,16 @@
     [
       "Someone is impersonating us in a recruiting scam",
       "https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 16:03:09",
+      "https://news.ycombinator.com/item?id=32084571"
+    ],
+    [
+      "Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)",
+      "https://benchmark.clickhouse.com/"
     ]
   ],
   [
