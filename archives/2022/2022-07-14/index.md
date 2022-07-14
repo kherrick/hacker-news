@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
 * [2022-07-14, 21:00:28](https://news.ycombinator.com/item?id=32101389) - [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
 * [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 * [2022-07-14, 20:09:36](https://news.ycombinator.com/item?id=32100880) - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
@@ -14,6 +15,7 @@
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
+* [2022-07-14, 16:25:29](https://news.ycombinator.com/item?id=32098112) - [Stripe cuts internal valuation by 28%](https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625)
 * [2022-07-14, 16:18:40](https://news.ycombinator.com/item?id=32098016) - [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
 * [2022-07-14, 16:14:26](https://news.ycombinator.com/item?id=32097950) - [Rocky Linux 9.0](https://rockylinux.org/news/rocky-linux-9-0-ga-release/)
 * [2022-07-14, 15:59:35](https://news.ycombinator.com/item?id=32097752) - [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://www.pocketgamer.biz/interview/79190/unity-ironsource-john-riccitiello-marc-whitten-merger/)
