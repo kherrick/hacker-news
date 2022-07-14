@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)

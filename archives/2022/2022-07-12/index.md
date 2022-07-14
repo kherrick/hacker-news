@@ -72,6 +72,7 @@
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 * [2022-07-12, 08:12:54](https://news.ycombinator.com/item?id=32066919) - [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 * [2022-07-12, 07:33:58](https://news.ycombinator.com/item?id=32066714) - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
+* [2022-07-12, 07:27:59](https://news.ycombinator.com/item?id=32066689) - [Pegs and the Structure of Languages (2021)](https://blog.bruce-hill.com/pegs-and-the-structure-of-languages)
 * [2022-07-12, 07:23:51](https://news.ycombinator.com/item?id=32066670) - [Statements vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 * [2022-07-12, 07:17:20](https://news.ycombinator.com/item?id=32066644) - [Sound of Colleagues](https://soundofcolleagues.com/)
 * [2022-07-12, 07:05:27](https://news.ycombinator.com/item?id=32066569) - [Show HN: Kreya, a Postman Alternative](https://kreya.app/)
