@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 15:07:11](https://news.ycombinator.com/item?id=32096965) - [How to keep your Terraform code DRY by using Terramate](https://blog.mineiros.io/how-to-keep-your-terraform-code-dry-by-using-terramate-be5807fef8f6)
 * [2022-07-14, 14:52:42](https://news.ycombinator.com/item?id=32096801) - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
 * [2022-07-14, 14:39:45](https://news.ycombinator.com/item?id=32096627) - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
 * [2022-07-14, 14:38:14](https://news.ycombinator.com/item?id=32096610) - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
@@ -14,6 +15,7 @@
 * [2022-07-14, 13:51:44](https://news.ycombinator.com/item?id=32096093) - [Building multi-architecture Docker images](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
 * [2022-07-14, 13:21:54](https://news.ycombinator.com/item?id=32095747) - [Smart thermostats inadvertently strain electric power grids](https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids)
 * [2022-07-14, 13:21:19](https://news.ycombinator.com/item?id=32095743) - [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
+* [2022-07-14, 13:09:10](https://news.ycombinator.com/item?id=32095592) - [Show HN: I built an app for when I talk too much in online meetings](http://unblah.me/)
 * [2022-07-14, 13:00:12](https://news.ycombinator.com/item?id=32095502) - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 * [2022-07-14, 12:53:30](https://news.ycombinator.com/item?id=32095433) - [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
 * [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
