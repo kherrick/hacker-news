@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 14:52:42](https://news.ycombinator.com/item?id=32096801) - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
 * [2022-07-14, 14:39:45](https://news.ycombinator.com/item?id=32096627) - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
 * [2022-07-14, 14:38:14](https://news.ycombinator.com/item?id=32096610) - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
+* [2022-07-14, 14:35:28](https://news.ycombinator.com/item?id=32096575) - [Godot: making C# games in 2022](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
 * [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 * [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
 * [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
@@ -17,11 +19,10 @@
 * [2022-07-14, 11:45:33](https://news.ycombinator.com/item?id=32094645) - [DNS Esoterica – Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 * [2022-07-14, 11:45:06](https://news.ycombinator.com/item?id=32094640) - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
-* [2022-07-14, 10:25:50](https://news.ycombinator.com/item?id=32094142) - [Crypto Winter, or Crypto Ice Age?](https://www.technollama.co.uk/crypto-winter-or-crypto-ice-age)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
-* [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
+* [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [World's oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-14, 03:32:53](https://news.ycombinator.com/item?id=32091679) - [Element (Matrix) adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 * [2022-07-14, 02:24:17](https://news.ycombinator.com/item?id=32091288) - [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
@@ -29,7 +30,6 @@
 * [2022-07-14, 00:17:16](https://news.ycombinator.com/item?id=32090389) - [30% of Google's Emotions Dataset Is Mislabeled](https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled)
 * [2022-07-13, 23:21:22](https://news.ycombinator.com/item?id=32089964) - [The effects of sleep debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 * [2022-07-13, 16:17:01](https://news.ycombinator.com/item?id=32084757) - [Learn Something Old Every Day, Part VI: Backward Buffer Overwrite](https://www.os2museum.com/wp/learn-something-old-every-day-part-vi-backward-buffer-overwrite/)
-* [2022-07-11, 16:47:24](https://news.ycombinator.com/item?id=32058548) - [Bouvier Affair](https://en.wikipedia.org/wiki/Bouvier_Affair)
 
 ## [Archives](archives/index.md)
 

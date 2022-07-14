@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 14:52:42](https://news.ycombinator.com/item?id=32096801) - [Show HN: Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
 * [2022-07-14, 14:39:45](https://news.ycombinator.com/item?id=32096627) - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
 * [2022-07-14, 14:38:14](https://news.ycombinator.com/item?id=32096610) - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
+* [2022-07-14, 14:35:28](https://news.ycombinator.com/item?id=32096575) - [Godot: making C# games in 2022](https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470)
 * [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
 * [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
 * [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
@@ -34,6 +36,7 @@
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
 * [2022-07-14, 07:01:13](https://news.ycombinator.com/item?id=32092875) - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
+* [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-14, 05:50:18](https://news.ycombinator.com/item?id=32092484) - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 * [2022-07-14, 04:53:13](https://news.ycombinator.com/item?id=32092167) - [US emissions cost the world $1.9T in economic damages](https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/)
