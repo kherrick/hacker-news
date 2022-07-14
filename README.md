@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
+* [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
 * [2022-07-14, 07:01:13](https://news.ycombinator.com/item?id=32092875) - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
@@ -15,7 +16,6 @@
 * [2022-07-13, 23:58:24](https://news.ycombinator.com/item?id=32090261) - [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
 * [2022-07-13, 23:57:46](https://news.ycombinator.com/item?id=32090255) - [Niantic undergoes layoffs, cancels four games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
 * [2022-07-13, 23:21:22](https://news.ycombinator.com/item?id=32089964) - [The effects of sleep debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
-* [2022-07-13, 22:42:44](https://news.ycombinator.com/item?id=32089650) - [You can’t eat just any leaf (2018)](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
 * [2022-07-13, 22:28:31](https://news.ycombinator.com/item?id=32089522) - [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
 * [2022-07-13, 21:02:40](https://news.ycombinator.com/item?id=32088718) - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 * [2022-07-13, 20:42:06](https://news.ycombinator.com/item?id=32088487) - [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
