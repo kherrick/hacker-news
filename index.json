@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-07-14, 13:21:19",
+      "https://news.ycombinator.com/item?id=32095743"
+    ],
+    [
+      "Frank Gehry has a few things to get off his chest",
+      "https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 13:00:12",
+      "https://news.ycombinator.com/item?id=32095502"
+    ],
+    [
+      "A Spectre Is Haunting Unicode",
+      "https://www.dampfkraft.com/ghost-characters.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 12:53:30",
+      "https://news.ycombinator.com/item?id=32095433"
+    ],
+    [
+      "Twitter experiences longest global outage in years",
+      "https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 12:51:06",
+      "https://news.ycombinator.com/item?id=32095398"
+    ],
+    [
+      "RISC-V Guns for Raspberry Pi, Legacy ChipsC",
+      "https://spectrum.ieee.org/risc-v-raspberry-pi"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 12:15:32",
       "https://news.ycombinator.com/item?id=32094937"
     ],
@@ -47,6 +87,16 @@
     [
       "The C/C++ preprocessor iceberg with explanations",
       "https://jadlevesque.github.io/PPMP-Iceberg/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 11:48:44",
+      "https://news.ycombinator.com/item?id=32094662"
+    ],
+    [
+      "“A Mild Recession”",
+      "https://thereformedbroker.com/2022/07/13/a-mild-recession/"
     ]
   ],
   [
@@ -107,16 +157,6 @@
     [
       "Node-Red 3.0 Released",
       "https://nodered.org/blog/2022/07/14/version-3-0-released"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 08:54:27",
-      "https://news.ycombinator.com/item?id=32093649"
-    ],
-    [
-      "EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites",
-      "https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/"
     ]
   ],
   [
@@ -201,26 +241,6 @@
   ],
   [
     [
-      "2022-07-13, 23:58:24",
-      "https://news.ycombinator.com/item?id=32090261"
-    ],
-    [
-      "Cryptomator – Encrypt files on your cloud storage",
-      "https://cryptomator.org/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 23:57:46",
-      "https://news.ycombinator.com/item?id=32090255"
-    ],
-    [
-      "Niantic undergoes layoffs, cancels four games",
-      "https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go"
-    ]
-  ],
-  [
-    [
       "2022-07-13, 23:21:22",
       "https://news.ycombinator.com/item?id=32089964"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2022-07-13, 22:28:31",
-      "https://news.ycombinator.com/item?id=32089522"
-    ],
-    [
-      "Volkswagen enters battery business with $20B investment",
-      "https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php"
-    ]
-  ],
-  [
-    [
       "2022-07-13, 16:17:01",
       "https://news.ycombinator.com/item?id=32084757"
     ],
     [
       "Learn Something Old Every Day, Part VI: Backward Buffer Overwrite",
       "https://www.os2museum.com/wp/learn-something-old-every-day-part-vi-backward-buffer-overwrite/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 12:41:13",
-      "https://news.ycombinator.com/item?id=32081808"
-    ],
-    [
-      "Six programming languages I’d like to see",
-      "https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-07-12, 07:23:51",
-      "https://news.ycombinator.com/item?id=32066670"
-    ],
-    [
-      "Statements vs. Expressions",
-      "https://www.joshwcomeau.com/javascript/statements-vs-expressions/"
-    ]
-  ],
-  [
-    [
       "2022-07-12, 06:56:29",
       "https://news.ycombinator.com/item?id=32066513"
     ],
     [
       "Denote – Simple Emacs Zettelkasten (by Prot)",
       "https://protesilaos.com/emacs/denote"
+    ]
+  ],
+  [
+    [
+      "2022-07-11, 16:47:24",
+      "https://news.ycombinator.com/item?id=32058548"
+    ],
+    [
+      "Bouvier Affair",
+      "https://en.wikipedia.org/wiki/Bouvier_Affair"
     ]
   ]
 ]
