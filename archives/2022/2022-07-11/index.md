@@ -79,6 +79,7 @@
 * [2022-07-11, 05:12:38](https://news.ycombinator.com/item?id=32052475) - [What Is Becovi Search?](https://thenewleafjournal.com/leaf/what-is-becovi-search/)
 * [2022-07-11, 05:07:46](https://news.ycombinator.com/item?id=32052442) - [Bay Area Vintage Base Ball](https://www.bavbb.com)
 * [2022-07-11, 04:45:59](https://news.ycombinator.com/item?id=32052302) - [Exit, Pursued by a Bear: Europes Coming Gas Shortages Analyzed](https://viscosityredux.substack.com/p/exit-pursued-by-a-bear)
+* [2022-07-11, 04:44:21](https://news.ycombinator.com/item?id=32052292) - [Dictionary for Computer Languages](https://archive.org/details/breuer-dictionary-for-computer-languages)
 * [2022-07-11, 04:38:28](https://news.ycombinator.com/item?id=32052267) - [NHTSA launches 37th investigation into Tesla after couple killed in crash](https://meaww.com/nhtsa-investigation-starts-tesla-california-crash-elderly-couple)
 * [2022-07-11, 04:35:32](https://news.ycombinator.com/item?id=32052247) - [The Magic of Bits “Bitwise”](https://antonio-cooler.gitbook.io/coolervoid-tavern/the-magic-of-bits-bitwise)
 * [2022-07-11, 04:27:42](https://news.ycombinator.com/item?id=32052204) - [Wielding Wheat](https://www.nybooks.com/articles/2022/07/21/wielding-wheat-oceans-of-grain-nelson/)
