@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-07-14, 12:15:32",
+      "https://news.ycombinator.com/item?id=32094937"
+    ],
+    [
+      "Comdb2",
+      "https://bloomberg.github.io/comdb2/overview_home.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 12:08:08",
+      "https://news.ycombinator.com/item?id=32094849"
+    ],
+    [
+      "Twitter Is Down",
+      "https://twitter.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 12:03:14",
+      "https://news.ycombinator.com/item?id=32094798"
+    ],
+    [
+      "Woman ‘dehumanised’ by viral TikTok filmed without her consent",
+      "https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 12:00:48",
       "https://news.ycombinator.com/item?id=32094769"
     ],
     [
       "GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer",
       "https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 11:53:00",
+      "https://news.ycombinator.com/item?id=32094693"
+    ],
+    [
+      "The C/C++ preprocessor iceberg with explanations",
+      "https://jadlevesque.github.io/PPMP-Iceberg/"
     ]
   ],
   [
@@ -21,16 +61,6 @@
   ],
   [
     [
-      "2022-07-14, 11:45:06",
-      "https://news.ycombinator.com/item?id=32094640"
-    ],
-    [
-      "Manhattan rents cross $5k threshold for first time",
-      "https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 11:20:51",
       "https://news.ycombinator.com/item?id=32094469"
     ],
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2022-07-14, 10:59:23",
-      "https://news.ycombinator.com/item?id=32094339"
+      "2022-07-14, 10:25:50",
+      "https://news.ycombinator.com/item?id=32094142"
     ],
     [
-      "Ask HN: Should I sell my vintage computer collection?",
-      "https://news.ycombinator.com/item?id=32094339"
+      "Crypto Winter, or Crypto Ice Age?",
+      "https://www.technollama.co.uk/crypto-winter-or-crypto-ice-age"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-07-14, 03:10:20",
-      "https://news.ycombinator.com/item?id=32091550"
-    ],
-    [
-      "What I wish someone would have told me about using RabbitMQ (2020)",
-      "https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 02:24:17",
       "https://news.ycombinator.com/item?id=32091288"
     ],
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2022-07-13, 21:02:40",
-      "https://news.ycombinator.com/item?id=32088718"
+      "2022-07-13, 16:17:01",
+      "https://news.ycombinator.com/item?id=32084757"
     ],
     [
-      "A prompt engineering guide for DALLE-2",
-      "https://dallery.gallery/the-dalle-2-prompt-book/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 20:42:06",
-      "https://news.ycombinator.com/item?id=32088487"
-    ],
-    [
-      "A Windows 95-like shell for Windows 3.1x",
-      "http://www.calmira.net/"
+      "Learn Something Old Every Day, Part VI: Backward Buffer Overwrite",
+      "https://www.os2museum.com/wp/learn-something-old-every-day-part-vi-backward-buffer-overwrite/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Six programming languages I’d like to see",
       "https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 12:15:43",
-      "https://news.ycombinator.com/item?id=32081589"
-    ],
-    [
-      "Image revealed in reflection of centuries-old artifact",
-      "https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html"
     ]
   ],
   [
