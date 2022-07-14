@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-14, 05:50:18",
+      "https://news.ycombinator.com/item?id=32092484"
+    ],
+    [
+      "BMW introduces new heated seat subscription in UK",
+      "https://www.bbc.com/news/technology-62142208"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 04:42:49",
       "https://news.ycombinator.com/item?id=32092104"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2022-07-14, 03:19:37",
-      "https://news.ycombinator.com/item?id=32091592"
-    ],
-    [
-      "US Doesn't Care About Financial Crimes",
-      "https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 03:10:20",
       "https://news.ycombinator.com/item?id=32091550"
     ],
     [
-      "What I Wish Someone Would Have Told Me About Using Rabbitmq (2020)",
+      "What I wish someone would have told me about using RabbitMQ (2020)",
       "https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/"
     ]
   ],
@@ -67,6 +67,16 @@
     [
       "We must protect our ability to transact privately online (2019)",
       "https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 00:17:16",
+      "https://news.ycombinator.com/item?id=32090389"
+    ],
+    [
+      "30% of Google's Emotions Dataset Is Mislabeled",
+      "https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "PostgreSQL 14 Internals Book",
       "https://postgrespro.com/community/books/internals"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 20:16:12",
-      "https://news.ycombinator.com/item?id=32088219"
-    ],
-    [
-      "RabbitMQ 3.11 Feature Preview: Super Streams",
-      "https://blog.rabbitmq.com/posts/2022/07/rabbitmq-3-11-feature-preview-super-streams/"
     ]
   ],
   [
