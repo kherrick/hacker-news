@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-14, 04:53:13",
+      "https://news.ycombinator.com/item?id=32092167"
+    ],
+    [
+      "US emissions cost the world $1.9T in economic damages",
+      "https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 04:42:49",
+      "https://news.ycombinator.com/item?id=32092104"
+    ],
+    [
+      "Captive Portals",
+      "https://textslashplain.com/2022/06/24/captive-portals/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 03:19:37",
       "https://news.ycombinator.com/item?id=32091592"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32091550"
     ],
     [
-      "What I Wish Someone Would Have Told Me About Using Rabbitmq",
+      "What I Wish Someone Would Have Told Me About Using Rabbitmq (2020)",
       "https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/"
     ]
   ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2022-07-13, 17:44:14",
-      "https://news.ycombinator.com/item?id=32086170"
-    ],
-    [
-      "DoorDash and pizza arbitrage (2020)",
-      "https://www.readmargins.com/p/doordash-and-pizza-arbitrage"
-    ]
-  ],
-  [
-    [
       "2022-07-13, 16:06:01",
       "https://news.ycombinator.com/item?id=32084617"
     ],
     [
       "Someone is impersonating us in a recruiting scam",
       "https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 16:03:09",
-      "https://news.ycombinator.com/item?id=32084571"
-    ],
-    [
-      "Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)",
-      "https://benchmark.clickhouse.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 15:08:23",
-      "https://news.ycombinator.com/item?id=32083753"
-    ],
-    [
-      "How I clean my glasses",
-      "https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: Inflation-adjusted stock charts – Total Real Returns",
       "https://totalrealreturns.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 12:41:13",
+      "https://news.ycombinator.com/item?id=32081808"
+    ],
+    [
+      "Six programming languages I’d like to see",
+      "https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-11, 19:24:52",
-      "https://news.ycombinator.com/item?id=32060577"
+      "2022-07-11, 04:44:21",
+      "https://news.ycombinator.com/item?id=32052292"
     ],
     [
-      "Peter Fabris’ Illustrations for William Hamilton’s Campi Phlegraei (1776–79)",
-      "https://publicdomainreview.org/collection/campi-phlegraei/"
+      "Dictionary for Computer Languages",
+      "https://archive.org/details/breuer-dictionary-for-computer-languages"
     ]
   ]
 ]
