@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 21:00:28](https://news.ycombinator.com/item?id=32101389) - [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
 * [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 * [2022-07-14, 19:31:57](https://news.ycombinator.com/item?id=32100524) - [Ask HN: What makes you optimistic about the future?](https://news.ycombinator.com/item?id=32100524)
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
+* [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
@@ -58,6 +60,7 @@
 * [2022-07-14, 05:50:18](https://news.ycombinator.com/item?id=32092484) - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 * [2022-07-14, 04:53:13](https://news.ycombinator.com/item?id=32092167) - [US emissions cost the world $1.9T in economic damages](https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/)
 * [2022-07-14, 04:42:49](https://news.ycombinator.com/item?id=32092104) - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
+* [2022-07-14, 04:33:04](https://news.ycombinator.com/item?id=32092046) - [Torus-Earth](http://www.aleph.se/andart/archives/2014/02/torusearth.html)
 * [2022-07-14, 03:32:53](https://news.ycombinator.com/item?id=32091679) - [Element (Matrix) adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 * [2022-07-14, 03:19:37](https://news.ycombinator.com/item?id=32091592) - [US Doesn't Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
 * [2022-07-14, 03:10:20](https://news.ycombinator.com/item?id=32091550) - [What I Wish Someone Would Have Told Me About Using Rabbitmq](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
