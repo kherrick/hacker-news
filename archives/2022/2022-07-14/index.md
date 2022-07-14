@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 13:21:19](https://news.ycombinator.com/item?id=32095743) - [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
+* [2022-07-14, 13:00:12](https://news.ycombinator.com/item?id=32095502) - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
+* [2022-07-14, 12:53:30](https://news.ycombinator.com/item?id=32095433) - [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
+* [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
 * [2022-07-14, 12:15:32](https://news.ycombinator.com/item?id=32094937) - [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
 * [2022-07-14, 12:08:08](https://news.ycombinator.com/item?id=32094849) - [Twitter Is Down](https://twitter.com/)
 * [2022-07-14, 12:03:14](https://news.ycombinator.com/item?id=32094798) - [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
 * [2022-07-14, 12:00:48](https://news.ycombinator.com/item?id=32094769) - [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
 * [2022-07-14, 11:53:00](https://news.ycombinator.com/item?id=32094693) - [The C/C++ preprocessor iceberg with explanations](https://jadlevesque.github.io/PPMP-Iceberg/)
+* [2022-07-14, 11:48:44](https://news.ycombinator.com/item?id=32094662) - [“A Mild Recession”](https://thereformedbroker.com/2022/07/13/a-mild-recession/)
 * [2022-07-14, 11:45:33](https://news.ycombinator.com/item?id=32094645) - [DNS Esoterica – Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 * [2022-07-14, 11:45:06](https://news.ycombinator.com/item?id=32094640) - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)

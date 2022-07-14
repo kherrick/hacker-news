@@ -29,6 +29,7 @@
 * [2022-07-11, 17:41:48](https://news.ycombinator.com/item?id=32059216) - [Reckless Software Construction](https://blog.sidstamm.com/2021/12/reckless-software-construction.html)
 * [2022-07-11, 17:34:42](https://news.ycombinator.com/item?id=32059109) - [€1.00 = $1.00, The Euro sinks to lowest since 2002](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
 * [2022-07-11, 16:58:39](https://news.ycombinator.com/item?id=32058674) - [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
+* [2022-07-11, 16:47:24](https://news.ycombinator.com/item?id=32058548) - [Bouvier Affair](https://en.wikipedia.org/wiki/Bouvier_Affair)
 * [2022-07-11, 16:36:38](https://news.ycombinator.com/item?id=32058408) - [Black Venture Capitalists Confront Silicon Valley’s Quiet Racism](https://www.bloomberg.com/news/features/2020-08-24/black-venture-capitalists-confront-silicon-valley-s-quiet-racism)
 * [2022-07-11, 16:16:13](https://news.ycombinator.com/item?id=32058107) - [The Uber whistleblower: I’m exposing a system that sold people a lie](https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann)
 * [2022-07-11, 15:52:51](https://news.ycombinator.com/item?id=32057776) - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
