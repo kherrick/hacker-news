@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-14, 14:52:42",
+      "https://news.ycombinator.com/item?id=32096801"
+    ],
+    [
+      "Show HN: Porting OpenBSD Pledge() to Linux",
+      "https://justine.lol/pledge/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 14:39:45",
       "https://news.ycombinator.com/item?id=32096627"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Open-source authorization service based on Google-Zanzibar",
       "https://github.com/Permify/permify"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 14:35:28",
+      "https://news.ycombinator.com/item?id=32096575"
+    ],
+    [
+      "Godot: making C# games in 2022",
+      "https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2022-07-14, 10:25:50",
-      "https://news.ycombinator.com/item?id=32094142"
-    ],
-    [
-      "Crypto Winter, or Crypto Ice Age?",
-      "https://www.technollama.co.uk/crypto-winter-or-crypto-ice-age"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 10:09:06",
       "https://news.ycombinator.com/item?id=32094046"
     ],
     [
       "The DynamoDB Paper",
       "https://brooker.co.za/blog/2022/07/12/dynamodb.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 09:56:15",
-      "https://news.ycombinator.com/item?id=32093987"
-    ],
-    [
-      "GoDaddy locks out derivatives of Chrome",
-      "https://news.ycombinator.com/item?id=32093987"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "The History of User Interfaces",
       "https://history.user-interface.io"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 06:42:59",
+      "https://news.ycombinator.com/item?id=32092775"
+    ],
+    [
+      "Vincent Van Gogh: Hidden self-portrait discovered by X-ray",
+      "https://www.bbc.co.uk/news/uk-scotland-62135891"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Learn Something Old Every Day, Part VI: Backward Buffer Overwrite",
       "https://www.os2museum.com/wp/learn-something-old-every-day-part-vi-backward-buffer-overwrite/"
-    ]
-  ],
-  [
-    [
-      "2022-07-11, 16:47:24",
-      "https://news.ycombinator.com/item?id=32058548"
-    ],
-    [
-      "Bouvier Affair",
-      "https://en.wikipedia.org/wiki/Bouvier_Affair"
     ]
   ]
 ]
