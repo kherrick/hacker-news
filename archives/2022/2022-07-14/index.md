@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)

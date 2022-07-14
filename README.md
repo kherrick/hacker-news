@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
@@ -26,7 +27,6 @@
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why don’t we have a strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
-* [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [World's oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-12, 22:29:14](https://news.ycombinator.com/item?id=32076546) - [Revising the History of DDT’s Long-Tailed Legacy](https://lareviewofbooks.org/article/reprising-ddts-long-tailed-legacy/)
 * [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
 * [2022-07-12, 05:09:31](https://news.ycombinator.com/item?id=32065871) - [History of Unix [video] (2018)](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
