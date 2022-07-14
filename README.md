@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-14, 10:59:23](https://news.ycombinator.com/item?id=32094339) - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
@@ -24,12 +25,11 @@
 * [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 * [2022-07-13, 12:15:43](https://news.ycombinator.com/item?id=32081589) - [Image revealed in reflection of centuries-old artifact](https://www.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
+* [2022-07-13, 12:08:44](https://news.ycombinator.com/item?id=32081528) - [When animation is an accessibility problem](https://www.theverge.com/23191768/animation-accessibility-neurodivergence)
 * [2022-07-12, 20:41:01](https://news.ycombinator.com/item?id=32075388) - [Bill Ackman to wind down SPAC, return $4B to investors](https://seekingalpha.com/news/3856007-bill-ackman-to-wind-down-spac-return-4-billion-to-investors)
-* [2022-07-12, 19:41:13](https://news.ycombinator.com/item?id=32074705) - [Modern Art and the Esteem Machine: How Picasso finally took off in America](https://www.newyorker.com/magazine/2022/07/04/modern-art-and-the-esteem-machine-hugh-eakin-picassos-war)
 * [2022-07-12, 07:27:59](https://news.ycombinator.com/item?id=32066689) - [Pegs and the Structure of Languages (2021)](https://blog.bruce-hill.com/pegs-and-the-structure-of-languages)
 * [2022-07-12, 07:23:51](https://news.ycombinator.com/item?id=32066670) - [Statements vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 * [2022-07-12, 06:56:29](https://news.ycombinator.com/item?id=32066513) - [Denote – Simple Emacs Zettelkasten (by Prot)](https://protesilaos.com/emacs/denote)
-* [2022-07-12, 06:15:24](https://news.ycombinator.com/item?id=32066263) - [Tropy: An Open-Source App to Organize Your Research Photos](https://github.com/tropy/tropy)
 
 ## [Archives](archives/index.md)
 
