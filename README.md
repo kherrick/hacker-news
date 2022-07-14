@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-14, 04:53:13](https://news.ycombinator.com/item?id=32092167) - [US emissions cost the world $1.9T in economic damages](https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/)
 * [2022-07-14, 04:42:49](https://news.ycombinator.com/item?id=32092104) - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
 * [2022-07-14, 03:19:37](https://news.ycombinator.com/item?id=32091592) - [US Doesn't Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
 * [2022-07-14, 03:10:20](https://news.ycombinator.com/item?id=32091550) - [What I Wish Someone Would Have Told Me About Using Rabbitmq (2020)](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
@@ -22,6 +21,7 @@
 * [2022-07-13, 18:39:32](https://news.ycombinator.com/item?id=32086973) - [When rustc explodes](https://fasterthanli.me/articles/when-rustc-explodes)
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
 * [2022-07-13, 16:06:01](https://news.ycombinator.com/item?id=32084617) - [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
+* [2022-07-13, 16:03:09](https://news.ycombinator.com/item?id=32084571) - [Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)](https://benchmark.clickhouse.com/)
 * [2022-07-13, 13:59:28](https://news.ycombinator.com/item?id=32082809) - [Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface](https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/)
 * [2022-07-13, 12:55:22](https://news.ycombinator.com/item?id=32081943) - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
 * [2022-07-13, 12:41:13](https://news.ycombinator.com/item?id=32081808) - [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
