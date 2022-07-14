@@ -13,6 +13,7 @@
 * [2022-07-12, 21:42:43](https://news.ycombinator.com/item?id=32076058) - [The Sanaa Palimpsest](https://english.alaraby.co.uk/features/sanaa-palimpsest-truly-fascinating-quranic-manuscript)
 * [2022-07-12, 21:32:13](https://news.ycombinator.com/item?id=32075952) - [James Webb SSD Storage](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 * [2022-07-12, 21:01:27](https://news.ycombinator.com/item?id=32075631) - [EasyPost (YC S13) Is Hiring and Hiring](https://www.easypost.com/careers)
+* [2022-07-12, 20:41:01](https://news.ycombinator.com/item?id=32075388) - [Bill Ackman to wind down SPAC, return $4B to investors](https://seekingalpha.com/news/3856007-bill-ackman-to-wind-down-spac-return-4-billion-to-investors)
 * [2022-07-12, 20:13:19](https://news.ycombinator.com/item?id=32075032) - [How to write and sell a sci-fi story (and how much you'll make)](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
 * [2022-07-12, 19:41:13](https://news.ycombinator.com/item?id=32074705) - [Modern Art and the Esteem Machine: How Picasso finally took off in America](https://www.newyorker.com/magazine/2022/07/04/modern-art-and-the-esteem-machine-hugh-eakin-picassos-war)
 * [2022-07-12, 19:13:19](https://news.ycombinator.com/item?id=32074414) - [How Google got to rolling Linux releases for Desktops](https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops)
