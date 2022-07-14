@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 14:19:21](https://news.ycombinator.com/item?id=32096392) - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
+* [2022-07-14, 14:17:50](https://news.ycombinator.com/item?id=32096371) - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
 * [2022-07-14, 13:54:56](https://news.ycombinator.com/item?id=32096131) - [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
 * [2022-07-14, 13:51:44](https://news.ycombinator.com/item?id=32096093) - [Building multi-architecture Docker images](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
 * [2022-07-14, 13:21:54](https://news.ycombinator.com/item?id=32095747) - [Smart thermostats inadvertently strain electric power grids](https://news.cornell.edu/stories/2022/07/smart-thermostats-inadvertently-strain-electric-power-grids)
