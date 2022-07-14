@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 12:00:48](https://news.ycombinator.com/item?id=32094769) - [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+* [2022-07-14, 11:45:33](https://news.ycombinator.com/item?id=32094645) - [DNS Esoterica – Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
+* [2022-07-14, 11:45:06](https://news.ycombinator.com/item?id=32094640) - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:59:23](https://news.ycombinator.com/item?id=32094339) - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
