@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 17:29:28](https://news.ycombinator.com/item?id=32110662) - [I'm hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
 * [2022-07-15, 17:22:40](https://news.ycombinator.com/item?id=32110573) - [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
 * [2022-07-15, 17:12:12](https://news.ycombinator.com/item?id=32110420) - [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
 * [2022-07-15, 17:08:56](https://news.ycombinator.com/item?id=32110366) - [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
@@ -27,7 +28,6 @@
 * [2022-07-14, 10:28:12](https://news.ycombinator.com/item?id=32094153) - [It's All Just an Old Videogame](https://www.ioann.xyz/p/its-all-just-an-old-videogame)
 * [2022-07-14, 05:41:02](https://news.ycombinator.com/item?id=32092422) - [To-do waves](https://sysiak.substack.com/p/to-do-waves)
 * [2022-07-14, 04:35:29](https://news.ycombinator.com/item?id=32092060) - [Scorched Earth: The Mother of All Games](http://www.whicken.com/scorch/)
-* [2022-07-14, 04:23:46](https://news.ycombinator.com/item?id=32091985) - [Klemperer rosette](https://en.wikipedia.org/wiki/Klemperer_rosette)
 * [2022-07-13, 19:20:37](https://news.ycombinator.com/item?id=32087557) - [Kurt Vonnegut on the 8 “shapes” of stories](https://bigthink.com/high-culture/vonnegut-shapes/)
 * [2022-07-13, 08:18:50](https://news.ycombinator.com/item?id=32080184) - [Microsoft Validation OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11)
 
