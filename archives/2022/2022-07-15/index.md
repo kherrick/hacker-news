@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 12:00:32](https://news.ycombinator.com/item?id=32107199) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+* [2022-07-15, 11:23:28](https://news.ycombinator.com/item?id=32106993) - [Ask HN: How have you deGoogled your life?](https://news.ycombinator.com/item?id=32106993)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 09:41:15](https://news.ycombinator.com/item?id=32106380) - [Ask HN: Experiences with low-code systems (Budibase,Appsmith etc.)?](https://news.ycombinator.com/item?id=32106380)
 * [2022-07-15, 08:46:58](https://news.ycombinator.com/item?id=32106136) - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
