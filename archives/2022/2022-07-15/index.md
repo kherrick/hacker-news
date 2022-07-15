@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
+* [2022-07-15, 14:06:27](https://news.ycombinator.com/item?id=32108365) - [People with low BMI aren't more active, they are just less hungry, 'run hotter'](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
 * [2022-07-15, 13:49:14](https://news.ycombinator.com/item?id=32108164) - [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
 * [2022-07-15, 12:52:50](https://news.ycombinator.com/item?id=32107600) - [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
 * [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and Unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
