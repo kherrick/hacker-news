@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring Staff ML Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
 * [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Success stories are just propaganda (2017)](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 * [2022-07-15, 20:05:50](https://news.ycombinator.com/item?id=32112183) - [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
@@ -24,7 +25,6 @@
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why wasn't the steam engine invented earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's answer to the Sichuan pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
-* [2022-07-14, 21:05:00](https://news.ycombinator.com/item?id=32101443) - [Living with Models](https://www.tbray.org/ongoing/When/202x/2022/07/13/Weird-ML)
 * [2022-07-14, 17:27:55](https://news.ycombinator.com/item?id=32099019) - [Wittgenstein at War](https://www.newstatesman.com/ideas/2022/07/wittgenstein-at-war)
 * [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
 * [2022-07-14, 07:10:13](https://news.ycombinator.com/item?id=32092930) - [The digital typewriter and the unnecessarily costly pursuit of focus](https://www.emergencycreative.com/blog/the-digital-typewriter-and-the-unnecessarily-costly-pursuit-of-focus)
