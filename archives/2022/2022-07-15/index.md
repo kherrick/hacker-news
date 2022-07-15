@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
+* [2022-07-15, 19:50:33](https://news.ycombinator.com/item?id=32112058) - [Why 8kun Went Offline During the January 6 Hearings](https://krebsonsecurity.com/2022/07/why-8kun-went-offline-during-the-january-6-hearings/)
+* [2022-07-15, 19:41:37](https://news.ycombinator.com/item?id=32111967) - [Google Chromebook outlawed in Danish public schools](https://politiken.dk/viden/art8882501/L%C3%A6rere-st%C3%A5r-med-%C2%BBk%C3%A6mpestort-problem%C2%AB-Chromebooks-bliver-forbudt-p%C3%A5-danske-skoler)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 * [2022-07-15, 19:07:05](https://news.ycombinator.com/item?id=32111697) - [Leakage and the Reproducibility Crisis in ML-Based Science](https://reproducible.cs.princeton.edu/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
@@ -32,6 +35,7 @@
 * [2022-07-15, 12:00:32](https://news.ycombinator.com/item?id=32107199) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 * [2022-07-15, 11:23:28](https://news.ycombinator.com/item?id=32106993) - [Ask HN: How have you deGoogled your life?](https://news.ycombinator.com/item?id=32106993)
 * [2022-07-15, 11:15:54](https://news.ycombinator.com/item?id=32106953) - [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
+* [2022-07-15, 10:51:07](https://news.ycombinator.com/item?id=32106808) - [Being declared dead is automated, so why is resurrection such a nightmare?](https://www.theregister.com/2022/07/15/something_for_the_weekend/)
 * [2022-07-15, 10:43:47](https://news.ycombinator.com/item?id=32106762) - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 * [2022-07-15, 10:18:40](https://news.ycombinator.com/item?id=32106591) - [Integrating a Rust module into an Android app](https://blog.logrocket.com/integrating-rust-module-android-app/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
