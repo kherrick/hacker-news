@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 08:46:58](https://news.ycombinator.com/item?id=32106136) - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
+* [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
@@ -9,7 +11,6 @@
 * [2022-07-15, 02:26:31](https://news.ycombinator.com/item?id=32103959) - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
 * [2022-07-14, 22:33:18](https://news.ycombinator.com/item?id=32102203) - [The Dhall Configuration Language](https://dhall-lang.org/)
 * [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
-* [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 * [2022-07-14, 20:09:36](https://news.ycombinator.com/item?id=32100880) - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I disagree with Turing and Kahneman regarding statistical evidence (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
@@ -25,7 +26,6 @@
 * [2022-07-13, 11:37:14](https://news.ycombinator.com/item?id=32081288) - [Lessons I wish I had been taught (1996)](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
 * [2022-07-13, 11:28:19](https://news.ycombinator.com/item?id=32081217) - [A doctor who treated Bach and Handel with disastrous results](https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era)
 * [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise](https://100r.co/site/internet_in_paradise.html)
-* [2022-07-13, 04:50:58](https://news.ycombinator.com/item?id=32079148) - [Beneath the glitter: Kinzan emaki, inside the gold mines of Sado](https://blogs.bl.uk/asian-and-african/2022/07/beneath-the-glitter-kinzan-emaki-inside-the-gold-mines-of-sado.html)
 * [2022-07-12, 08:53:31](https://news.ycombinator.com/item?id=32067236) - [Inexpensive Kaizen toolbox foam alternative (2018)](https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250)
 * [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
 * [2022-07-12, 06:54:47](https://news.ycombinator.com/item?id=32066503) - [DIY Tool Storage Ideas (2017)](https://www.familyhandyman.com/project/clever-tool-storage-ideas/)
