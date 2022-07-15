@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:26:34](https://news.ycombinator.com/item?id=32112990) - [Show HN: Owlkettle – A Declarative user interface framework based on GTK 4](https://github.com/can-lehmann/owlkettle)
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 * [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
