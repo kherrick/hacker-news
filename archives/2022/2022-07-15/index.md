@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 * [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring Staff ML Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
 * [2022-07-15, 20:50:24](https://news.ycombinator.com/item?id=32112672) - [Focusing sound precisely can knock over one Lego minifig among many (2021)](https://arstechnica.com/science/2021/12/focusing-sound-vibrations-precisely-can-knock-over-one-lego-minifig-among-many/)
