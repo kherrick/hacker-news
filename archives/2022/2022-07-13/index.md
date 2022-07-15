@@ -68,6 +68,7 @@
 * [2022-07-13, 07:00:02](https://news.ycombinator.com/item?id=32079747) - [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
 * [2022-07-13, 05:57:06](https://news.ycombinator.com/item?id=32079434) - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
 * [2022-07-13, 05:14:04](https://news.ycombinator.com/item?id=32079227) - [Decompiler Explorer](https://dogbolt.org/)
+* [2022-07-13, 04:50:58](https://news.ycombinator.com/item?id=32079148) - [Beneath the glitter: Kinzan emaki, inside the gold mines of Sado](https://blogs.bl.uk/asian-and-african/2022/07/beneath-the-glitter-kinzan-emaki-inside-the-gold-mines-of-sado.html)
 * [2022-07-13, 04:07:32](https://news.ycombinator.com/item?id=32078949) - [Choosing a New Comment Policy](https://scottaaronson.blog/?p=6552)
 * [2022-07-13, 03:30:52](https://news.ycombinator.com/item?id=32078749) - [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
 * [2022-07-13, 03:27:34](https://news.ycombinator.com/item?id=32078731) - [Airbus A380 Completes Flight Powered by Cooking Oil](https://hackaday.com/2022/07/12/airbus-a380-completes-flight-powered-by-cooking-oil/)

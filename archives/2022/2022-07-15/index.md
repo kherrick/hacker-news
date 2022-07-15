@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 07:50:24](https://news.ycombinator.com/item?id=32105782) - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
