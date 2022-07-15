@@ -2,6 +2,7 @@
 
 * [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring Staff ML Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
+* [2022-07-15, 20:50:24](https://news.ycombinator.com/item?id=32112672) - [Focusing sound precisely can knock over one Lego minifig among many (2021)](https://arstechnica.com/science/2021/12/focusing-sound-vibrations-precisely-can-knock-over-one-lego-minifig-among-many/)
 * [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Success stories are just propaganda (2017)](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 * [2022-07-15, 20:05:50](https://news.ycombinator.com/item?id=32112183) - [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 * [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
@@ -21,15 +22,14 @@
 * [2022-07-15, 14:54:16](https://news.ycombinator.com/item?id=32108793) - [Writing and running a BBS on a Macintosh Plus](https://jcs.org/2022/07/15/kludge)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
 * [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
+* [2022-07-15, 12:14:55](https://news.ycombinator.com/item?id=32107287) - [Show HN: Eesel – Federated search without API integrations](https://www.eesel.app/)
 * [2022-07-15, 10:51:07](https://news.ycombinator.com/item?id=32106808) - [Being declared dead is automated, so why is resurrection such a nightmare?](https://www.theregister.com/2022/07/15/something_for_the_weekend/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why wasn't the steam engine invented earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's answer to the Sichuan pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
-* [2022-07-14, 17:27:55](https://news.ycombinator.com/item?id=32099019) - [Wittgenstein at War](https://www.newstatesman.com/ideas/2022/07/wittgenstein-at-war)
 * [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
 * [2022-07-14, 07:10:13](https://news.ycombinator.com/item?id=32092930) - [The digital typewriter and the unnecessarily costly pursuit of focus](https://www.emergencycreative.com/blog/the-digital-typewriter-and-the-unnecessarily-costly-pursuit-of-focus)
 * [2022-07-13, 19:20:37](https://news.ycombinator.com/item?id=32087557) - [Kurt Vonnegut on the “shapes” of stories](https://bigthink.com/high-culture/vonnegut-shapes/)
-* [2022-07-13, 08:18:50](https://news.ycombinator.com/item?id=32080184) - [Microsoft Validation OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11)
 
 ## [Archives](archives/index.md)
 

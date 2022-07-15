@@ -6,6 +6,7 @@
 
 * [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring Staff ML Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
+* [2022-07-15, 20:50:24](https://news.ycombinator.com/item?id=32112672) - [Focusing sound precisely can knock over one Lego minifig among many (2021)](https://arstechnica.com/science/2021/12/focusing-sound-vibrations-precisely-can-knock-over-one-lego-minifig-among-many/)
 * [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Why Success Stories Are Just Propaganda](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 * [2022-07-15, 20:05:50](https://news.ycombinator.com/item?id=32112183) - [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 * [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
@@ -37,6 +38,7 @@
 * [2022-07-15, 13:49:14](https://news.ycombinator.com/item?id=32108164) - [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
 * [2022-07-15, 12:52:50](https://news.ycombinator.com/item?id=32107600) - [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
 * [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and Unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
+* [2022-07-15, 12:14:55](https://news.ycombinator.com/item?id=32107287) - [Show HN: Eesel – Federated search without API integrations](https://www.eesel.app/)
 * [2022-07-15, 12:00:32](https://news.ycombinator.com/item?id=32107199) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 * [2022-07-15, 11:23:28](https://news.ycombinator.com/item?id=32106993) - [Ask HN: How have you deGoogled your life?](https://news.ycombinator.com/item?id=32106993)
 * [2022-07-15, 11:15:54](https://news.ycombinator.com/item?id=32106953) - [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
