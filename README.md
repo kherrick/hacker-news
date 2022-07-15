@@ -9,7 +9,6 @@
 * [2022-07-15, 10:43:47](https://news.ycombinator.com/item?id=32106762) - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 * [2022-07-15, 10:18:40](https://news.ycombinator.com/item?id=32106591) - [Integrating a Rust module into an Android app](https://blog.logrocket.com/integrating-rust-module-android-app/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier?](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
-* [2022-07-15, 09:41:15](https://news.ycombinator.com/item?id=32106380) - [Ask HN: Experiences with low-code systems?](https://news.ycombinator.com/item?id=32106380)
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 08:34:45](https://news.ycombinator.com/item?id=32106063) - [Jury Finds Former CIA Programmer Guilty of Leaking CIA Hacking Materials](https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/)
 * [2022-07-15, 06:12:15](https://news.ycombinator.com/item?id=32105129) - [Freezing Requirements with Pip-Tools](https://til.simonwillison.net/python/pip-tools)
@@ -29,6 +28,7 @@
 * [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise (2006)](https://100r.co/site/internet_in_paradise.html)
 * [2022-07-13, 08:18:50](https://news.ycombinator.com/item?id=32080184) - [Microsoft Validation OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11)
 * [2022-07-13, 07:57:23](https://news.ycombinator.com/item?id=32080060) - [What is NGG and shader culling on AMD RDNA GPUs?](https://timur.hu/blog/2022/what-is-ngg)
+* [2022-07-12, 08:53:31](https://news.ycombinator.com/item?id=32067236) - [Inexpensive Kaizen toolbox foam alternative (2018)](https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250)
 * [2022-07-12, 06:54:47](https://news.ycombinator.com/item?id=32066503) - [DIY Tool Storage Ideas (2017)](https://www.familyhandyman.com/project/clever-tool-storage-ideas/)
 
 ## [Archives](archives/index.md)
