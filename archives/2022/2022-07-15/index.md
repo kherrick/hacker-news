@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
+* [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
 * [2022-07-15, 14:06:27](https://news.ycombinator.com/item?id=32108365) - [People with low BMI aren't more active, they are just less hungry, 'run hotter'](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
 * [2022-07-15, 13:49:14](https://news.ycombinator.com/item?id=32108164) - [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
@@ -22,6 +24,7 @@
 * [2022-07-15, 07:50:24](https://news.ycombinator.com/item?id=32105782) - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
 * [2022-07-15, 07:07:22](https://news.ycombinator.com/item?id=32105494) - [The Democrats need to wake up and stop pandering to their extremes](https://www.economist.com/leaders/2022/07/14/the-democrats-need-to-wake-up-and-stop-pandering-to-their-extremes)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
+* [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's Answer to the Sichuan Pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
 * [2022-07-15, 06:12:15](https://news.ycombinator.com/item?id=32105129) - [Freezing Requirements with Pip-Tools](https://til.simonwillison.net/python/pip-tools)
 * [2022-07-15, 05:56:39](https://news.ycombinator.com/item?id=32105037) - [What does Vitalik think about network states?](https://vitalik.ca/general/2022/07/13/networkstates.html)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
