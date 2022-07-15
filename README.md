@@ -17,7 +17,7 @@
 * [2022-07-15, 14:54:16](https://news.ycombinator.com/item?id=32108793) - [Writing and running a BBS on a Macintosh Plus](https://jcs.org/2022/07/15/kludge)
 * [2022-07-15, 14:34:39](https://news.ycombinator.com/item?id=32108603) - [SaaS tools that get things done for tech startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
-* [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and Unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
+* [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
 * [2022-07-15, 10:43:47](https://news.ycombinator.com/item?id=32106762) - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why wasn't the steam engine invented earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
