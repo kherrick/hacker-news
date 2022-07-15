@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 08:46:58](https://news.ycombinator.com/item?id=32106136) - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 08:34:45](https://news.ycombinator.com/item?id=32106063) - [Jury Finds Former CIA Programmer Guilty of Leaking CIA Hacking Materials](https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/)
@@ -11,6 +12,7 @@
 * [2022-07-15, 07:07:22](https://news.ycombinator.com/item?id=32105494) - [The Democrats need to wake up and stop pandering to their extremes](https://www.economist.com/leaders/2022/07/14/the-democrats-need-to-wake-up-and-stop-pandering-to-their-extremes)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 06:12:15](https://news.ycombinator.com/item?id=32105129) - [Freezing Requirements with Pip-Tools](https://til.simonwillison.net/python/pip-tools)
+* [2022-07-15, 05:56:39](https://news.ycombinator.com/item?id=32105037) - [What does Vitalik think about network states?](https://vitalik.ca/general/2022/07/13/networkstates.html)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)

@@ -65,6 +65,7 @@
 * [2022-07-14, 07:01:13](https://news.ycombinator.com/item?id=32092875) - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
 * [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
+* [2022-07-14, 06:17:29](https://news.ycombinator.com/item?id=32092643) - [Rety – Live coding without the stress](https://rety.verou.me/)
 * [2022-07-14, 06:16:37](https://news.ycombinator.com/item?id=32092637) - [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 * [2022-07-14, 05:50:18](https://news.ycombinator.com/item?id=32092484) - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 * [2022-07-14, 04:53:13](https://news.ycombinator.com/item?id=32092167) - [US emissions cost the world $1.9T in economic damages](https://grist.org/climate/us-emissions-cost-other-countries-1-9-trillion-in-economic-damages/)
