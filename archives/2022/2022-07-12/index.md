@@ -69,6 +69,7 @@
 * [2022-07-12, 09:31:25](https://news.ycombinator.com/item?id=32067523) - [A World Tour of Abandoned Amusement Parks](https://www.atlasobscura.com/lists/abandoned-amusement-parks)
 * [2022-07-12, 09:24:18](https://news.ycombinator.com/item?id=32067473) - [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
 * [2022-07-12, 08:57:51](https://news.ycombinator.com/item?id=32067268) - [Bun (can become) the ideal JavaScript runtime](https://alexhultman.medium.com/bun-can-become-the-ideal-javascript-runtime-3b2610792433)
+* [2022-07-12, 08:53:31](https://news.ycombinator.com/item?id=32067236) - [Inexpensive Kaizen toolbox foam alternative (2018)](https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250)
 * [2022-07-12, 08:48:59](https://news.ycombinator.com/item?id=32067193) - [A scientist who developed a new way to understand communication](https://www.quantamagazine.org/mark-braverman-wins-the-imu-abacus-medal-20220705/)
 * [2022-07-12, 08:29:20](https://news.ycombinator.com/item?id=32067019) - [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
 * [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)

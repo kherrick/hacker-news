@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-14](index.md)
 
+* [2022-07-14, 23:04:58](https://news.ycombinator.com/item?id=32102430) - [We discovered a 7-year old performance issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
 * [2022-07-14, 22:33:18](https://news.ycombinator.com/item?id=32102203) - [The Dhall Configuration Language](https://dhall-lang.org/)
 * [2022-07-14, 21:41:44](https://news.ycombinator.com/item?id=32101794) - [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
 * [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
