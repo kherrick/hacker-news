@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 13:49:14](https://news.ycombinator.com/item?id=32108164) - [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
 * [2022-07-15, 12:52:50](https://news.ycombinator.com/item?id=32107600) - [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
 * [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and Unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
 * [2022-07-15, 12:00:32](https://news.ycombinator.com/item?id=32107199) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
@@ -14,7 +15,7 @@
 * [2022-07-15, 06:12:15](https://news.ycombinator.com/item?id=32105129) - [Freezing Requirements with Pip-Tools](https://til.simonwillison.net/python/pip-tools)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [How I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
-* [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
+* [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to paying customer](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 * [2022-07-15, 04:27:30](https://news.ycombinator.com/item?id=32104609) - [SearchHut](https://searchhut.org/)
 * [2022-07-15, 02:26:31](https://news.ycombinator.com/item?id=32103959) - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
@@ -28,7 +29,6 @@
 * [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise](https://100r.co/site/internet_in_paradise.html)
 * [2022-07-13, 08:18:50](https://news.ycombinator.com/item?id=32080184) - [Microsoft Validation OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11)
 * [2022-07-13, 07:57:23](https://news.ycombinator.com/item?id=32080060) - [What is NGG and shader culling on AMD RDNA GPUs?](https://timur.hu/blog/2022/what-is-ngg)
-* [2022-07-12, 08:53:31](https://news.ycombinator.com/item?id=32067236) - [Inexpensive Kaizen toolbox foam alternative (2018)](https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250)
 * [2022-07-12, 06:54:47](https://news.ycombinator.com/item?id=32066503) - [DIY Tool Storage Ideas (2017)](https://www.familyhandyman.com/project/clever-tool-storage-ideas/)
 
 ## [Archives](archives/index.md)
