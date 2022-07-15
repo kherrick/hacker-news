@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
+* [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+* [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 * [2022-07-15, 04:27:30](https://news.ycombinator.com/item?id=32104609) - [SearchHut](https://searchhut.org/)
 * [2022-07-15, 03:07:51](https://news.ycombinator.com/item?id=32104194) - [We discovered a 7-year old performance Issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)

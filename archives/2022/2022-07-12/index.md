@@ -90,6 +90,7 @@
 * [2022-07-12, 06:14:01](https://news.ycombinator.com/item?id=32066255) - [A Hookup App for the Emotionally Mature](https://www.newyorker.com/culture/annals-of-inquiry/feeld-dating-app-sex)
 * [2022-07-12, 06:04:32](https://news.ycombinator.com/item?id=32066201) - [Rolling-PWN vulnerability affects all Honda vehicles](https://rollingpwn.github.io/rolling-pwn/)
 * [2022-07-12, 05:52:50](https://news.ycombinator.com/item?id=32066141) - [Windows 3.1 Flash Edition](https://sdomi.pl/weblog/07-windows-3-flash-edition/)
+* [2022-07-12, 05:26:13](https://news.ycombinator.com/item?id=32065988) - [Further adventures in creating a custom math-themed jigsaw puzzle](https://nibblestew.blogspot.com/2022/07/further-adventures-in-creating-custom.html)
 * [2022-07-12, 05:09:31](https://news.ycombinator.com/item?id=32065871) - [History of Unix [video] (2018)](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
 * [2022-07-12, 04:03:32](https://news.ycombinator.com/item?id=32065472) - [Commander Keen in Keen Dreams](https://github.com/keendreams/keen)
 * [2022-07-12, 03:12:55](https://news.ycombinator.com/item?id=32065125) - [Meta managers are urged to identify, push out low performers](https://www.wsj.com/articles/meta-managers-are-urged-to-identify-push-out-low-performers-11657576630)
