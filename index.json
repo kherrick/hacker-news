@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-07-15, 03:07:51",
+      "https://news.ycombinator.com/item?id=32104194"
+    ],
+    [
+      "We discovered a 7-year old performance Issue in Elixir (2020)",
+      "https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 01:00:38",
       "https://news.ycombinator.com/item?id=32103342"
     ],
     [
-      "Sirum (YC W15 Nonprofit) Is Hiring Engineers and Pharmacy Technicians",
+      "Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians",
       "https://news.ycombinator.com/item?id=32103342"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 00:02:55",
+      "https://news.ycombinator.com/item?id=32102874"
+    ],
+    [
+      "Solar Car Will Soon Hit Production–and It Only Costs $25,900",
+      "https://singularityhub.com/2022/07/14/this-solar-car-will-soon-hit-production-and-it-only-costs-25900/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 23:04:58",
+      "https://news.ycombinator.com/item?id=32102430"
+    ],
+    [
+      "We discovered a 7-year old performance issue in Elixir (2020)",
+      "https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Lessons from Writing a Compiler",
       "https://borretti.me/article/lessons-writing-compiler"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 19:16:15",
-      "https://news.ycombinator.com/item?id=32100352"
-    ],
-    [
-      "Show HN: Payload – Cross-platform desktop app for LAN file transfers",
-      "https://payload.app/"
     ]
   ],
   [
@@ -221,36 +241,6 @@
   ],
   [
     [
-      "2022-07-14, 11:53:00",
-      "https://news.ycombinator.com/item?id=32094693"
-    ],
-    [
-      "The Preprocessor Iceberg Meme",
-      "https://jadlevesque.github.io/PPMP-Iceberg/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 11:45:33",
-      "https://news.ycombinator.com/item?id=32094645"
-    ],
-    [
-      "DNS Esoterica – Why you can't dig Switzerland",
-      "https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 07:12:48",
-      "https://news.ycombinator.com/item?id=32092943"
-    ],
-    [
-      "Ask HN: What do you code when learning a new language/framework?",
-      "https://news.ycombinator.com/item?id=32092943"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 06:42:59",
       "https://news.ycombinator.com/item?id=32092775"
     ],
@@ -275,8 +265,28 @@
       "https://news.ycombinator.com/item?id=32081288"
     ],
     [
-      "Ten Lessons I wish I had been Taught (1996)",
+      "Lessons I wish I had been taught (1996)",
       "https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 11:28:19",
+      "https://news.ycombinator.com/item?id=32081217"
+    ],
+    [
+      "A doctor who treated Bach and Handel with disastrous results",
+      "https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era"
+    ]
+  ],
+  [
+    [
+      "2022-07-12, 08:53:31",
+      "https://news.ycombinator.com/item?id=32067236"
+    ],
+    [
+      "Inexpensive Kaizen toolbox foam alternative (2018)",
+      "https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Pentester's Promiscuous Notebook",
       "https://ppn.snovvcrash.rocks/"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 06:34:16",
-      "https://news.ycombinator.com/item?id=32066370"
-    ],
-    [
-      "Formally Verifying Industry Cryptography",
-      "https://www.computer.org/csdl/magazine/sp/2022/03/09733177/1BENJJewLKw"
     ]
   ]
 ]
