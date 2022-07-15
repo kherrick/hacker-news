@@ -6,6 +6,8 @@
 
 * [2022-07-15, 12:00:32](https://news.ycombinator.com/item?id=32107199) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
 * [2022-07-15, 11:23:28](https://news.ycombinator.com/item?id=32106993) - [Ask HN: How have you deGoogled your life?](https://news.ycombinator.com/item?id=32106993)
+* [2022-07-15, 11:15:54](https://news.ycombinator.com/item?id=32106953) - [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
+* [2022-07-15, 10:43:47](https://news.ycombinator.com/item?id=32106762) - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 09:41:15](https://news.ycombinator.com/item?id=32106380) - [Ask HN: Experiences with low-code systems (Budibase,Appsmith etc.)?](https://news.ycombinator.com/item?id=32106380)
 * [2022-07-15, 08:46:58](https://news.ycombinator.com/item?id=32106136) - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
