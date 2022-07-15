@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-15, 07:50:24](https://news.ycombinator.com/item?id=32105782) - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
@@ -8,6 +7,7 @@
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 * [2022-07-15, 04:27:30](https://news.ycombinator.com/item?id=32104609) - [SearchHut](https://searchhut.org/)
 * [2022-07-15, 02:26:31](https://news.ycombinator.com/item?id=32103959) - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
+* [2022-07-15, 01:35:15](https://news.ycombinator.com/item?id=32103620) - [‘Our entire industry is dying’: In esports media, layoff season is in full swing](https://digiday.com/marketing/our-entire-industry-is-dying-in-esports-media-layoff-season-is-in-full-swing/)
 * [2022-07-14, 22:33:18](https://news.ycombinator.com/item?id=32102203) - [The Dhall Configuration Language](https://dhall-lang.org/)
 * [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
 * [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
