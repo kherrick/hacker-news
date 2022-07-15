@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-15, 17:12:12",
+      "https://news.ycombinator.com/item?id=32110420"
+    ],
+    [
+      "Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals",
+      "https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 17:01:06",
+      "https://news.ycombinator.com/item?id=32110267"
+    ],
+    [
+      "Firezone (YC W22) is building an open-source network security platform",
+      "https://www.workatastartup.com/companies/firezone"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 16:42:30",
       "https://news.ycombinator.com/item?id=32110040"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2022-07-15, 15:43:33",
-      "https://news.ycombinator.com/item?id=32109293"
-    ],
-    [
-      "Looming Natural Gas Shortages Has the EU Scrambling for Solutions",
-      "https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 15:06:41",
       "https://news.ycombinator.com/item?id=32108926"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32108852"
     ],
     [
-      "EA: The Human Story",
+      "EA: The Human Story (2004)",
       "https://ea-spouse.livejournal.com/274.html"
     ]
   ],
@@ -121,32 +131,12 @@
   ],
   [
     [
-      "2022-07-15, 12:52:50",
-      "https://news.ycombinator.com/item?id=32107600"
-    ],
-    [
-      "Dmitry Rogozin has been dismissed as director general of Roscosmos",
-      "https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 12:34:52",
       "https://news.ycombinator.com/item?id=32107434"
     ],
     [
       "Pledge() and Unveil() in SerenityOS (2020)",
       "https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 12:00:32",
-      "https://news.ycombinator.com/item?id=32107199"
-    ],
-    [
-      "Padlet Is Hiring in SF to Build Software for a Good Education",
-      "https://padlet.jobs"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32106063"
     ],
     [
-      "Jury Finds Former CIA Programmer Guilty of Leaking CIA Hacking Materials",
+      "Jury finds former CIA programmer guilty of leaking CIA hacking materials",
       "https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/"
     ]
   ],
@@ -195,8 +185,18 @@
       "https://news.ycombinator.com/item?id=32105391"
     ],
     [
-      "Brazil's Answer to the Sichuan Pepper",
+      "Brazil's answer to the Sichuan pepper",
       "https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 05:56:39",
+      "https://news.ycombinator.com/item?id=32105037"
+    ],
+    [
+      "What I think about network states",
+      "https://vitalik.ca/general/2022/07/13/networkstates.html"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Wittgenstein at War",
       "https://www.newstatesman.com/ideas/2022/07/wittgenstein-at-war"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 10:28:12",
+      "https://news.ycombinator.com/item?id=32094153"
+    ],
+    [
+      "It's All Just an Old Videogame",
+      "https://www.ioann.xyz/p/its-all-just-an-old-videogame"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Microsoft Validation OS",
       "https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 07:57:23",
-      "https://news.ycombinator.com/item?id=32080060"
-    ],
-    [
-      "What is NGG and shader culling on AMD RDNA GPUs?",
-      "https://timur.hu/blog/2022/what-is-ngg"
     ]
   ]
 ]
