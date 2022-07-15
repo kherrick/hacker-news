@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 * [2022-07-15, 17:29:28](https://news.ycombinator.com/item?id=32110662) - [I'm hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
 * [2022-07-15, 17:22:40](https://news.ycombinator.com/item?id=32110573) - [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
@@ -20,6 +21,7 @@
 * [2022-07-15, 15:43:33](https://news.ycombinator.com/item?id=32109293) - [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
 * [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
+* [2022-07-15, 14:54:16](https://news.ycombinator.com/item?id=32108793) - [Writing and running a BBS on a Macintosh Plus](https://jcs.org/2022/07/15/kludge)
 * [2022-07-15, 14:34:39](https://news.ycombinator.com/item?id=32108603) - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
 * [2022-07-15, 14:06:27](https://news.ycombinator.com/item?id=32108365) - [People with low BMI aren't more active, they are just less hungry, 'run hotter'](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
