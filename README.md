@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 23:21:43](https://news.ycombinator.com/item?id=32113782) - [“Shit Academics Say” Twitter account hacked, Twitter Support refusing help](https://twitter.com/prof_nch/status/1548083301180526592)
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 * [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
-* [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Success stories are just propaganda (2017)](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
+* [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Success stories are propaganda (2017)](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 * [2022-07-15, 20:05:50](https://news.ycombinator.com/item?id=32112183) - [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
@@ -29,7 +30,6 @@
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's answer to the Sichuan pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
 * [2022-07-15, 02:17:48](https://news.ycombinator.com/item?id=32103900) - [The Logic of Envy](https://robkhenderson.substack.com/p/the-logic-of-envy)
 * [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
-* [2022-07-13, 11:37:06](https://news.ycombinator.com/item?id=32081287) - [Leather Grades: The Definitive Guide (2020)](https://joojoobs.com/leather-grades/)
 
 ## [Archives](archives/index.md)
 
