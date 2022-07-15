@@ -4,7 +4,7 @@
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
-* [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+* [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [How I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
 * [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 * [2022-07-15, 04:27:30](https://news.ycombinator.com/item?id=32104609) - [SearchHut](https://searchhut.org/)
