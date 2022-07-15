@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2022-07-15, 11:23:28",
-      "https://news.ycombinator.com/item?id=32106993"
+      "2022-07-15, 11:15:54",
+      "https://news.ycombinator.com/item?id=32106953"
     ],
     [
-      "Ask HN: How have you deGoogled your life?",
-      "https://news.ycombinator.com/item?id=32106993"
+      "Comparing Rust and JavaScript",
+      "https://chaotic.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 10:43:47",
+      "https://news.ycombinator.com/item?id=32106762"
+    ],
+    [
+      "Rust on Espressif chips – 15-07-2022",
+      "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32106467"
     ],
     [
-      "Why Wasn't the Steam Engine Invented Earlier? Part II",
+      "Why Wasn't the Steam Engine Invented Earlier?",
       "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8"
     ]
   ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2022-07-14, 20:09:36",
-      "https://news.ycombinator.com/item?id=32100880"
-    ],
-    [
-      "Lessons from Writing a Compiler",
-      "https://borretti.me/article/lessons-writing-compiler"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 14:52:42",
-      "https://news.ycombinator.com/item?id=32096801"
-    ],
-    [
-      "Show HN: Porting OpenBSD Pledge() to Linux",
-      "https://justine.lol/pledge/"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 07:12:48",
       "https://news.ycombinator.com/item?id=32092943"
     ],
@@ -207,6 +197,16 @@
     [
       "Rety – Live coding without the stress",
       "https://rety.verou.me/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 05:41:02",
+      "https://news.ycombinator.com/item?id=32092422"
+    ],
+    [
+      "To-do waves",
+      "https://sysiak.substack.com/p/to-do-waves"
     ]
   ],
   [
