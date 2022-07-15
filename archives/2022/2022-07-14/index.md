@@ -73,6 +73,7 @@
 * [2022-07-14, 04:42:49](https://news.ycombinator.com/item?id=32092104) - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
 * [2022-07-14, 04:35:29](https://news.ycombinator.com/item?id=32092060) - [Scorched Earth: The Mother of All Games](http://www.whicken.com/scorch/)
 * [2022-07-14, 04:33:04](https://news.ycombinator.com/item?id=32092046) - [Torus-Earth](http://www.aleph.se/andart/archives/2014/02/torusearth.html)
+* [2022-07-14, 04:23:46](https://news.ycombinator.com/item?id=32091985) - [Klemperer rosette](https://en.wikipedia.org/wiki/Klemperer_rosette)
 * [2022-07-14, 03:32:53](https://news.ycombinator.com/item?id=32091679) - [Element (Matrix) adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
 * [2022-07-14, 03:19:37](https://news.ycombinator.com/item?id=32091592) - [US Doesn't Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
 * [2022-07-14, 03:10:20](https://news.ycombinator.com/item?id=32091550) - [What I Wish Someone Would Have Told Me About Using Rabbitmq](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
