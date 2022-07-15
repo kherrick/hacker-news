@@ -17,6 +17,7 @@
 * [2022-07-13, 20:42:06](https://news.ycombinator.com/item?id=32088487) - [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
 * [2022-07-13, 20:26:44](https://news.ycombinator.com/item?id=32088316) - [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals)
 * [2022-07-13, 20:16:12](https://news.ycombinator.com/item?id=32088219) - [RabbitMQ 3.11 Feature Preview: Super Streams](https://blog.rabbitmq.com/posts/2022/07/rabbitmq-3-11-feature-preview-super-streams/)
+* [2022-07-13, 19:20:37](https://news.ycombinator.com/item?id=32087557) - [Kurt Vonnegut on the 8 “shapes” of stories](https://bigthink.com/high-culture/vonnegut-shapes/)
 * [2022-07-13, 18:45:30](https://news.ycombinator.com/item?id=32087057) - [A 74xx-Defined Radio (2021)](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
 * [2022-07-13, 18:39:32](https://news.ycombinator.com/item?id=32086973) - [When Rustc Explodes](https://fasterthanli.me/articles/when-rustc-explodes)
 * [2022-07-13, 18:21:23](https://news.ycombinator.com/item?id=32086740) - [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
