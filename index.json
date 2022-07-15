@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-15, 09:57:20",
+      "https://news.ycombinator.com/item?id=32106467"
+    ],
+    [
+      "Why Wasn't the Steam Engine Invented Earlier? Part II",
+      "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 08:46:58",
       "https://news.ycombinator.com/item?id=32106136"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2022-07-15, 07:07:22",
-      "https://news.ycombinator.com/item?id=32105494"
-    ],
-    [
-      "The Democrats need to wake up and stop pandering to their extremes",
-      "https://www.economist.com/leaders/2022/07/14/the-democrats-need-to-wake-up-and-stop-pandering-to-their-extremes"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 07:00:08",
       "https://news.ycombinator.com/item?id=32105443"
     ],
@@ -57,6 +57,16 @@
     [
       "Freezing Requirements with Pip-Tools",
       "https://til.simonwillison.net/python/pip-tools"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 05:56:39",
+      "https://news.ycombinator.com/item?id=32105037"
+    ],
+    [
+      "What does Vitalik think about network states?",
+      "https://vitalik.ca/general/2022/07/13/networkstates.html"
     ]
   ],
   [
@@ -151,42 +161,12 @@
   ],
   [
     [
-      "2022-07-14, 18:52:56",
-      "https://news.ycombinator.com/item?id=32100035"
+      "2022-07-14, 18:59:52",
+      "https://news.ycombinator.com/item?id=32100114"
     ],
     [
-      "Lisp in 99 lines of C and how to write one yourself [pdf]",
-      "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 16:25:29",
-      "https://news.ycombinator.com/item?id=32098112"
-    ],
-    [
-      "Stripe cuts internal valuation by 28%",
-      "https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 16:14:26",
-      "https://news.ycombinator.com/item?id=32097950"
-    ],
-    [
-      "Rocky Linux 9.0",
-      "https://rockylinux.org/news/rocky-linux-9-0-ga-release/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 15:37:04",
-      "https://news.ycombinator.com/item?id=32097424"
-    ],
-    [
-      "Nyxt 3 Pre-release 1 (a Lisp powered web browser)",
-      "https://nyxt.atlas.engineer/article/release-3-pre-release-1.org"
+      "I disagree with Turing and Kahneman regarding statistical evidence (2014)",
+      "https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2022-07-14, 11:45:33",
+      "https://news.ycombinator.com/item?id=32094645"
+    ],
+    [
+      "DNS Esoterica – Why you can't dig Switzerland",
+      "https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 07:12:48",
       "https://news.ycombinator.com/item?id=32092943"
     ],
@@ -211,12 +201,32 @@
   ],
   [
     [
+      "2022-07-14, 06:17:29",
+      "https://news.ycombinator.com/item?id=32092643"
+    ],
+    [
+      "Rety – Live coding without the stress",
+      "https://rety.verou.me/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 04:35:29",
       "https://news.ycombinator.com/item?id=32092060"
     ],
     [
       "Scorched Earth: The Mother of All Games",
       "http://www.whicken.com/scorch/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 04:33:04",
+      "https://news.ycombinator.com/item?id=32092046"
+    ],
+    [
+      "Torus-Earth (2014)",
+      "http://www.aleph.se/andart/archives/2014/02/torusearth.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Inexpensive Kaizen toolbox foam alternative (2018)",
       "https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 08:17:00",
-      "https://news.ycombinator.com/item?id=32066938"
-    ],
-    [
-      "Pentester's Promiscuous Notebook",
-      "https://ppn.snovvcrash.rocks/"
     ]
   ],
   [
