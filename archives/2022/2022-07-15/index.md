@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 16:42:30](https://news.ycombinator.com/item?id=32110040) - [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
+* [2022-07-15, 16:17:51](https://news.ycombinator.com/item?id=32109694) - [BBC Basic Editor](https://bbcmic.ro/)
+* [2022-07-15, 15:58:49](https://news.ycombinator.com/item?id=32109461) - [Why I created Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
+* [2022-07-15, 15:54:18](https://news.ycombinator.com/item?id=32109406) - [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
 * [2022-07-15, 15:52:43](https://news.ycombinator.com/item?id=32109385) - [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
+* [2022-07-15, 15:44:11](https://news.ycombinator.com/item?id=32109301) - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
 * [2022-07-15, 15:43:33](https://news.ycombinator.com/item?id=32109293) - [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
 * [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
