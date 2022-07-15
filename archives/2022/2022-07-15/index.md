@@ -6,6 +6,7 @@
 
 * [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
+* [2022-07-15, 14:34:39](https://news.ycombinator.com/item?id=32108603) - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
 * [2022-07-15, 14:06:27](https://news.ycombinator.com/item?id=32108365) - [People with low BMI aren't more active, they are just less hungry, 'run hotter'](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
 * [2022-07-15, 13:49:14](https://news.ycombinator.com/item?id=32108164) - [Danish Data Protection Agency bans Google Workspace for Municipalities](https://blog.simpleanalytics.com/denmark-bans-google-workspace-for-municipalities)
