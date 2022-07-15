@@ -15,6 +15,7 @@
 * [2022-07-14, 18:59:52](https://news.ycombinator.com/item?id=32100114) - [I Disagree with Alan Turing and Daniel Kahneman (2014)](https://statmodeling.stat.columbia.edu/2014/09/03/disagree-alan-turing-daniel-kahneman-regarding-strength-statistical-evidence/)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://raw.githubusercontent.com/Robert-van-Engelen/tinylisp/main/tinylisp.pdf)
 * [2022-07-14, 18:52:56](https://news.ycombinator.com/item?id=32100035) - [Lisp in 99 lines of C and how to write one yourself [pdf]](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
+* [2022-07-14, 18:14:47](https://news.ycombinator.com/item?id=32099576) - [U.S. public health agencies aren't ‘following the science,’ officials say](https://www.commonsense.news/p/us-public-health-agencies-arent-following)
 * [2022-07-14, 17:42:37](https://news.ycombinator.com/item?id=32099194) - [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 * [2022-07-14, 17:00:15](https://news.ycombinator.com/item?id=32098613) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
 * [2022-07-14, 16:27:38](https://news.ycombinator.com/item?id=32098144) - [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)

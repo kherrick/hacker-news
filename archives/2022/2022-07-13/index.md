@@ -52,6 +52,7 @@
 * [2022-07-13, 12:08:44](https://news.ycombinator.com/item?id=32081528) - [When animation is an accessibility problem](https://www.theverge.com/23191768/animation-accessibility-neurodivergence)
 * [2022-07-13, 12:01:48](https://news.ycombinator.com/item?id=32081478) - [Sieve (YC W22) is building AI infra for video data, come join us](https://www.sievedata.com/)
 * [2022-07-13, 12:00:18](https://news.ycombinator.com/item?id=32081470) - [I've been abusing HTTP Status Codes in my APIs for years](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
+* [2022-07-13, 11:37:14](https://news.ycombinator.com/item?id=32081288) - [Ten Lessons I wish I had been Taught (1996)](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:49:53](https://news.ycombinator.com/item?id=32080617) - [Calculus Homework Help Online](https://www.studyhab.com/t/calculus)
