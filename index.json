@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-15, 05:00:51",
+      "https://news.ycombinator.com/item?id=32104764"
+    ],
+    [
+      "I went about learning Rust",
+      "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 04:37:29",
       "https://news.ycombinator.com/item?id=32104656"
     ],
@@ -151,22 +161,22 @@
   ],
   [
     [
-      "2022-07-14, 16:18:40",
-      "https://news.ycombinator.com/item?id=32098016"
-    ],
-    [
-      "Is WebAssembly magic performance pixie dust? (2021)",
-      "https://surma.dev/things/js-to-asc/"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 16:14:26",
       "https://news.ycombinator.com/item?id=32097950"
     ],
     [
       "Rocky Linux 9.0",
       "https://rockylinux.org/news/rocky-linux-9-0-ga-release/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 15:52:46",
+      "https://news.ycombinator.com/item?id=32097663"
+    ],
+    [
+      "PostgreSQL views and materialized views and how they influenced TimescaleDB",
+      "https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2022-07-14, 14:35:28",
-      "https://news.ycombinator.com/item?id=32096575"
+      "2022-07-14, 14:38:14",
+      "https://news.ycombinator.com/item?id=32096610"
     ],
     [
-      "It’s time to make that indie C# game in Godot",
-      "https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470"
+      "Show HN: Permify – Open-source authorization service based on Google Zanzibar",
+      "https://github.com/Permify/permify"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2022-07-14, 13:09:10",
-      "https://news.ycombinator.com/item?id=32095592"
+      "2022-07-14, 11:45:33",
+      "https://news.ycombinator.com/item?id=32094645"
     ],
     [
-      "Show HN: I built an app for when I talk too much in online meetings",
-      "http://unblah.me/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 13:00:12",
-      "https://news.ycombinator.com/item?id=32095502"
-    ],
-    [
-      "A Spectre Is Haunting Unicode (2018)",
-      "https://www.dampfkraft.com/ghost-characters.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 06:42:59",
-      "https://news.ycombinator.com/item?id=32092775"
-    ],
-    [
-      "Vincent Van Gogh: Hidden self-portrait discovered by X-ray",
-      "https://www.bbc.co.uk/news/uk-scotland-62135891"
+      "DNS Esoterica – Why you can't dig Switzerland",
+      "https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A doctor who treated Bach and Handel with disastrous results",
       "https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 08:45:50",
+      "https://news.ycombinator.com/item?id=32080305"
+    ],
+    [
+      "Internet in Paradise",
+      "https://100r.co/site/internet_in_paradise.html"
     ]
   ],
   [
