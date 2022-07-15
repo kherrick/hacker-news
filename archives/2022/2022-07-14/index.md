@@ -8,6 +8,7 @@
 * [2022-07-14, 22:33:18](https://news.ycombinator.com/item?id=32102203) - [The Dhall Configuration Language](https://dhall-lang.org/)
 * [2022-07-14, 21:41:44](https://news.ycombinator.com/item?id=32101794) - [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
 * [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
+* [2022-07-14, 21:05:00](https://news.ycombinator.com/item?id=32101443) - [Living with Models](https://www.tbray.org/ongoing/When/202x/2022/07/13/Weird-ML)
 * [2022-07-14, 21:00:28](https://news.ycombinator.com/item?id=32101389) - [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
 * [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 * [2022-07-14, 20:09:36](https://news.ycombinator.com/item?id=32100880) - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 * [2022-07-15, 17:29:28](https://news.ycombinator.com/item?id=32110662) - [I'm hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
 * [2022-07-15, 17:22:40](https://news.ycombinator.com/item?id=32110573) - [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
 * [2022-07-15, 17:12:12](https://news.ycombinator.com/item?id=32110420) - [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
