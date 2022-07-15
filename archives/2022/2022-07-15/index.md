@@ -11,6 +11,7 @@
 * [2022-07-15, 17:08:56](https://news.ycombinator.com/item?id=32110366) - [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 * [2022-07-15, 17:01:06](https://news.ycombinator.com/item?id=32110267) - [Firezone (YC W22) is building an open-source network security platform](https://www.workatastartup.com/companies/firezone)
 * [2022-07-15, 16:42:30](https://news.ycombinator.com/item?id=32110040) - [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
+* [2022-07-15, 16:22:44](https://news.ycombinator.com/item?id=32109760) - [Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly](https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html)
 * [2022-07-15, 16:17:51](https://news.ycombinator.com/item?id=32109694) - [BBC Basic Editor](https://bbcmic.ro/)
 * [2022-07-15, 15:58:49](https://news.ycombinator.com/item?id=32109461) - [Why I created Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
 * [2022-07-15, 15:54:18](https://news.ycombinator.com/item?id=32109406) - [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)

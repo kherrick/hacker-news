@@ -65,6 +65,7 @@
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
 * [2022-07-14, 07:12:48](https://news.ycombinator.com/item?id=32092943) - [Ask HN: What do you code when learning a new language/framework](https://news.ycombinator.com/item?id=32092943)
+* [2022-07-14, 07:10:13](https://news.ycombinator.com/item?id=32092930) - [The Digital Typewriter and the Unnecessarily Costly Pursuit of Focus](https://www.emergencycreative.com/blog/the-digital-typewriter-and-the-unnecessarily-costly-pursuit-of-focus)
 * [2022-07-14, 07:01:13](https://news.ycombinator.com/item?id=32092875) - [Supabase (YC S20) Is Hiring a Lead Node.js Engineer (Edge Functions)](https://boards.greenhouse.io/supabase/jobs/4568813004)
 * [2022-07-14, 06:48:41](https://news.ycombinator.com/item?id=32092804) - [The History of User Interfaces](https://history.user-interface.io)
 * [2022-07-14, 06:42:59](https://news.ycombinator.com/item?id=32092775) - [Vincent Van Gogh: Hidden self-portrait discovered by X-ray](https://www.bbc.co.uk/news/uk-scotland-62135891)
