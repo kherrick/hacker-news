@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
-* [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
 * [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 * [2022-07-15, 04:27:30](https://news.ycombinator.com/item?id=32104609) - [SearchHut](https://searchhut.org/)
 * [2022-07-15, 03:07:51](https://news.ycombinator.com/item?id=32104194) - [We discovered a 7-year old performance Issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
 * [2022-07-15, 02:26:31](https://news.ycombinator.com/item?id=32103959) - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
-* [2022-07-15, 01:00:38](https://news.ycombinator.com/item?id=32103342) - [Sirum (YC W15 nonprofit) is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
 * [2022-07-14, 23:04:58](https://news.ycombinator.com/item?id=32102430) - [We discovered a 7-year old performance issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
 * [2022-07-14, 22:33:18](https://news.ycombinator.com/item?id=32102203) - [The Dhall Configuration Language](https://dhall-lang.org/)
 * [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
@@ -29,6 +28,7 @@
 * [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise](https://100r.co/site/internet_in_paradise.html)
 * [2022-07-12, 08:53:31](https://news.ycombinator.com/item?id=32067236) - [Inexpensive Kaizen toolbox foam alternative (2018)](https://www.tacomaworld.com/threads/inexpensive-kaizen-tool-box-foam-alternative.531789/#post-17039250)
 * [2022-07-12, 08:17:00](https://news.ycombinator.com/item?id=32066938) - [Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/)
+* [2022-07-12, 06:54:47](https://news.ycombinator.com/item?id=32066503) - [DIY Tool Storage Ideas (2017)](https://www.familyhandyman.com/project/clever-tool-storage-ideas/)
 * [2022-07-12, 05:26:13](https://news.ycombinator.com/item?id=32065988) - [Further adventures in creating a custom math-themed jigsaw puzzle](https://nibblestew.blogspot.com/2022/07/further-adventures-in-creating-custom.html)
 
 ## [Archives](archives/index.md)
