@@ -62,6 +62,7 @@
 * [2022-07-13, 09:22:06](https://news.ycombinator.com/item?id=32080486) - [Gambling and Adult content DNS blocking using Mullvad VPN](https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/)
 * [2022-07-13, 09:19:31](https://news.ycombinator.com/item?id=32080469) - [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 * [2022-07-13, 08:59:34](https://news.ycombinator.com/item?id=32080370) - [Ask HN: Which VPS provider will survive the coming winter?](https://news.ycombinator.com/item?id=32080370)
+* [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise](https://100r.co/site/internet_in_paradise.html)
 * [2022-07-13, 08:31:34](https://news.ycombinator.com/item?id=32080245) - [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
 * [2022-07-13, 08:16:28](https://news.ycombinator.com/item?id=32080174) - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 * [2022-07-13, 07:00:02](https://news.ycombinator.com/item?id=32079747) - [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
