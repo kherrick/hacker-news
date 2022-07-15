@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-15, 19:11:52",
+      "https://news.ycombinator.com/item?id=32111738"
+    ],
+    [
+      "“Critical” projects and volunteer maintainers",
+      "https://lwn.net/SubscriberLink/900953/44823d451920e233/"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 17:31:13",
       "https://news.ycombinator.com/item?id=32110690"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32109406"
     ],
     [
-      "I made JCOF, an object notation which encodes data more efficiently than JSON",
+      "JCOF, an object notation which encodes data more efficiently than JSON",
       "https://github.com/mortie/jcof"
     ]
   ],
@@ -131,11 +141,21 @@
   ],
   [
     [
+      "2022-07-15, 14:54:16",
+      "https://news.ycombinator.com/item?id=32108793"
+    ],
+    [
+      "Writing and running a BBS on a Macintosh Plus",
+      "https://jcs.org/2022/07/15/kludge"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 14:34:39",
       "https://news.ycombinator.com/item?id=32108603"
     ],
     [
-      "SaaS Tools That Get Things Done for Tech Startups",
+      "SaaS tools that get things done for tech startups",
       "https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-07-15, 08:34:45",
-      "https://news.ycombinator.com/item?id=32106063"
-    ],
-    [
-      "Jury finds former CIA programmer guilty of leaking CIA hacking materials",
-      "https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 06:51:43",
       "https://news.ycombinator.com/item?id=32105391"
     ],
@@ -217,16 +227,6 @@
     [
       "What I think about network states",
       "https://vitalik.ca/general/2022/07/13/networkstates.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 04:40:42",
-      "https://news.ycombinator.com/item?id=32104669"
-    ],
-    [
-      "From idea to paying customer",
-      "https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32092930"
     ],
     [
-      "The Digital Typewriter and the Unnecessarily Costly Pursuit of Focus",
+      "The digital typewriter and the unnecessarily costly pursuit of focus",
       "https://www.emergencycreative.com/blog/the-digital-typewriter-and-the-unnecessarily-costly-pursuit-of-focus"
     ]
   ],
