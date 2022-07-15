@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-15, 17:31:13",
+      "https://news.ycombinator.com/item?id=32110690"
+    ],
+    [
+      "Technical Writing for Developers",
+      "https://css-tricks.com/technical-writing-for-developers/"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 17:29:28",
       "https://news.ycombinator.com/item?id=32110662"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2022-07-15, 16:42:30",
-      "https://news.ycombinator.com/item?id=32110040"
-    ],
-    [
-      "Rust should not have provided `unwrap`",
-      "https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 16:17:51",
       "https://news.ycombinator.com/item?id=32109694"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32109461"
     ],
     [
-      "Why I created Scrumdog – a program to download Jira Issues to a local database",
+      "Scrumdog – a program to download Jira Issues to a local database",
       "https://whoek.com/b/jira-to-sqlite-with-scrumdog.html"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "I made JCOF, an object notation which encodes data more efficiently than JSON",
       "https://github.com/mortie/jcof"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 15:52:43",
-      "https://news.ycombinator.com/item?id=32109385"
-    ],
-    [
-      "Inkscape 1.2.1 Released",
-      "https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2022-07-14, 21:05:00",
+      "https://news.ycombinator.com/item?id=32101443"
+    ],
+    [
+      "Living with Models",
+      "https://www.tbray.org/ongoing/When/202x/2022/07/13/Weird-ML"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 17:27:55",
       "https://news.ycombinator.com/item?id=32099019"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-07-14, 04:35:29",
-      "https://news.ycombinator.com/item?id=32092060"
+      "2022-07-14, 04:23:46",
+      "https://news.ycombinator.com/item?id=32091985"
     ],
     [
-      "Scorched Earth: The Mother of All Games",
-      "http://www.whicken.com/scorch/"
+      "Klemperer rosette",
+      "https://en.wikipedia.org/wiki/Klemperer_rosette"
     ]
   ],
   [
