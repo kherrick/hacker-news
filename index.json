@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-07-15, 16:42:30",
+      "https://news.ycombinator.com/item?id=32110040"
+    ],
+    [
+      "Rust should not have provided `unwrap`",
+      "https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 16:17:51",
+      "https://news.ycombinator.com/item?id=32109694"
+    ],
+    [
+      "BBC Basic Editor",
+      "https://bbcmic.ro/"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 15:58:49",
+      "https://news.ycombinator.com/item?id=32109461"
+    ],
+    [
+      "Why I created Scrumdog – a program to download Jira Issues to a local database",
+      "https://whoek.com/b/jira-to-sqlite-with-scrumdog.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 15:54:18",
+      "https://news.ycombinator.com/item?id=32109406"
+    ],
+    [
+      "I made JCOF, an object notation which encodes data more efficiently than JSON",
+      "https://github.com/mortie/jcof"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 15:52:43",
       "https://news.ycombinator.com/item?id=32109385"
     ],
     [
       "Inkscape 1.2.1 Released",
       "https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 15:44:11",
+      "https://news.ycombinator.com/item?id=32109301"
+    ],
+    [
+      "A Guide to the Go Garbage Collector",
+      "https://tip.golang.org/doc/gc-guide"
     ]
   ],
   [
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2022-07-15, 10:18:40",
-      "https://news.ycombinator.com/item?id=32106591"
-    ],
-    [
-      "Integrating a Rust module into an Android app",
-      "https://blog.logrocket.com/integrating-rust-module-android-app/"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 09:57:20",
-      "https://news.ycombinator.com/item?id=32106467"
-    ],
-    [
-      "Why Wasn't the Steam Engine Invented Earlier?",
-      "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 08:45:42",
       "https://news.ycombinator.com/item?id=32106126"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-07-14, 06:17:29",
-      "https://news.ycombinator.com/item?id=32092643"
-    ],
-    [
-      "Rety – Live coding without the stress",
-      "https://rety.verou.me/"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 05:41:02",
       "https://news.ycombinator.com/item?id=32092422"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-07-13, 11:28:19",
-      "https://news.ycombinator.com/item?id=32081217"
-    ],
-    [
-      "A doctor who treated Bach and Handel with disastrous results",
-      "https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era"
-    ]
-  ],
-  [
-    [
       "2022-07-13, 08:18:50",
       "https://news.ycombinator.com/item?id=32080184"
     ],
@@ -287,16 +297,6 @@
     [
       "What is NGG and shader culling on AMD RDNA GPUs?",
       "https://timur.hu/blog/2022/what-is-ngg"
-    ]
-  ],
-  [
-    [
-      "2022-07-12, 06:54:47",
-      "https://news.ycombinator.com/item?id=32066503"
-    ],
-    [
-      "DIY Tool Storage Ideas (2017)",
-      "https://www.familyhandyman.com/project/clever-tool-storage-ideas/"
     ]
   ]
 ]
