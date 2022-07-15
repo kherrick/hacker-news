@@ -65,6 +65,7 @@
 * [2022-07-13, 08:59:34](https://news.ycombinator.com/item?id=32080370) - [Ask HN: Which VPS provider will survive the coming winter?](https://news.ycombinator.com/item?id=32080370)
 * [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise](https://100r.co/site/internet_in_paradise.html)
 * [2022-07-13, 08:31:34](https://news.ycombinator.com/item?id=32080245) - [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
+* [2022-07-13, 08:18:50](https://news.ycombinator.com/item?id=32080184) - [Microsoft Validation OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11)
 * [2022-07-13, 08:16:28](https://news.ycombinator.com/item?id=32080174) - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 * [2022-07-13, 07:57:23](https://news.ycombinator.com/item?id=32080060) - [What is NGG and shader culling on AMD RDNA GPUs?](https://timur.hu/blog/2022/what-is-ngg)
 * [2022-07-13, 07:00:02](https://news.ycombinator.com/item?id=32079747) - [Ashby (YC W19, B) hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
