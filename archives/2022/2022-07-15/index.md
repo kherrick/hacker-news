@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 17:22:40](https://news.ycombinator.com/item?id=32110573) - [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
 * [2022-07-15, 17:12:12](https://news.ycombinator.com/item?id=32110420) - [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
+* [2022-07-15, 17:08:56](https://news.ycombinator.com/item?id=32110366) - [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 * [2022-07-15, 17:01:06](https://news.ycombinator.com/item?id=32110267) - [Firezone (YC W22) is building an open-source network security platform](https://www.workatastartup.com/companies/firezone)
 * [2022-07-15, 16:42:30](https://news.ycombinator.com/item?id=32110040) - [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
 * [2022-07-15, 16:17:51](https://news.ycombinator.com/item?id=32109694) - [BBC Basic Editor](https://bbcmic.ro/)
