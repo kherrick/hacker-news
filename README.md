@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 15:43:33](https://news.ycombinator.com/item?id=32109293) - [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
 * [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
 * [2022-07-15, 14:34:39](https://news.ycombinator.com/item?id=32108603) - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
@@ -26,7 +27,6 @@
 * [2022-07-14, 04:23:46](https://news.ycombinator.com/item?id=32091985) - [Klemperer rosette](https://en.wikipedia.org/wiki/Klemperer_rosette)
 * [2022-07-13, 19:20:37](https://news.ycombinator.com/item?id=32087557) - [Kurt Vonnegut on the 8 “shapes” of stories](https://bigthink.com/high-culture/vonnegut-shapes/)
 * [2022-07-13, 11:28:19](https://news.ycombinator.com/item?id=32081217) - [A doctor who treated Bach and Handel with disastrous results](https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era)
-* [2022-07-13, 08:45:50](https://news.ycombinator.com/item?id=32080305) - [Internet in Paradise (2006)](https://100r.co/site/internet_in_paradise.html)
 * [2022-07-13, 08:18:50](https://news.ycombinator.com/item?id=32080184) - [Microsoft Validation OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11)
 * [2022-07-13, 07:57:23](https://news.ycombinator.com/item?id=32080060) - [What is NGG and shader culling on AMD RDNA GPUs?](https://timur.hu/blog/2022/what-is-ngg)
 * [2022-07-12, 06:54:47](https://news.ycombinator.com/item?id=32066503) - [DIY Tool Storage Ideas (2017)](https://www.familyhandyman.com/project/clever-tool-storage-ideas/)

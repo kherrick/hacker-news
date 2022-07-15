@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 15:43:33](https://news.ycombinator.com/item?id=32109293) - [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
 * [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
 * [2022-07-15, 14:34:39](https://news.ycombinator.com/item?id=32108603) - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
