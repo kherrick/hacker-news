@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Why Success Stories Are Just Propaganda](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 * [2022-07-15, 20:05:50](https://news.ycombinator.com/item?id=32112183) - [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 * [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)

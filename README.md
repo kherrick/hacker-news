@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-15, 20:43:50](https://news.ycombinator.com/item?id=32112595) - [Why Success Stories Are Just Propaganda](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 * [2022-07-15, 20:05:50](https://news.ycombinator.com/item?id=32112183) - [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 * [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
-* [2022-07-15, 19:50:33](https://news.ycombinator.com/item?id=32112058) - [Why 8kun Went Offline During the January 6 Hearings](https://krebsonsecurity.com/2022/07/why-8kun-went-offline-during-the-january-6-hearings/)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 * [2022-07-15, 19:07:05](https://news.ycombinator.com/item?id=32111697) - [Leakage and the reproducibility crisis in ML-based science](https://reproducible.cs.princeton.edu/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
