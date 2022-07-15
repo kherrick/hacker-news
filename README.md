@@ -10,7 +10,7 @@
 * [2022-07-15, 15:58:49](https://news.ycombinator.com/item?id=32109461) - [Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
 * [2022-07-15, 15:54:18](https://news.ycombinator.com/item?id=32109406) - [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
 * [2022-07-15, 15:44:11](https://news.ycombinator.com/item?id=32109301) - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
-* [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
+* [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and angular momentum, left ambiguous by Einstein, get defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story (2004)](https://ea-spouse.livejournal.com/274.html)
 * [2022-07-15, 14:34:39](https://news.ycombinator.com/item?id=32108603) - [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
