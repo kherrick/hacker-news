@@ -29,7 +29,7 @@
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's answer to the Sichuan pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
 * [2022-07-15, 02:17:48](https://news.ycombinator.com/item?id=32103900) - [The Logic of Envy](https://robkhenderson.substack.com/p/the-logic-of-envy)
 * [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
-* [2022-07-14, 07:10:13](https://news.ycombinator.com/item?id=32092930) - [The digital typewriter and the unnecessarily costly pursuit of focus](https://www.emergencycreative.com/blog/the-digital-typewriter-and-the-unnecessarily-costly-pursuit-of-focus)
+* [2022-07-13, 11:37:06](https://news.ycombinator.com/item?id=32081287) - [Leather Grades: The Definitive Guide (2020)](https://joojoobs.com/leather-grades/)
 
 ## [Archives](archives/index.md)
 
