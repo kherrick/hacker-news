@@ -3,9 +3,7 @@
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)
 * [2022-07-16, 20:51:48](https://news.ycombinator.com/item?id=32121846) - [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 * [2022-07-16, 20:35:29](https://news.ycombinator.com/item?id=32121715) - [Bloomberg B-Unit iOS App](https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873)
-* [2022-07-16, 19:54:07](https://news.ycombinator.com/item?id=32121362) - [The Politics of Bitcoin: Software as Right-Wing Extremism](https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin)
 * [2022-07-16, 19:27:19](https://news.ycombinator.com/item?id=32121125) - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
-* [2022-07-16, 18:36:36](https://news.ycombinator.com/item?id=32120663) - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
 * [2022-07-16, 18:13:33](https://news.ycombinator.com/item?id=32120478) - [U.S. transition to 988 suicide and crisis lifeline begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [2022-07-16, 17:44:15](https://news.ycombinator.com/item?id=32120246) - [When coal first arrived, Americans said 'no thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
@@ -22,6 +20,7 @@
 * [2022-07-16, 12:50:55](https://news.ycombinator.com/item?id=32117519) - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
 * [2022-07-16, 12:47:27](https://news.ycombinator.com/item?id=32117489) - [Ask HN: What is with the new URLs on facebook.com?](https://news.ycombinator.com/item?id=32117489)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+* [2022-07-16, 06:51:04](https://news.ycombinator.com/item?id=32115809) - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 * [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson (2019)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
@@ -30,6 +29,7 @@
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 10:04:25](https://news.ycombinator.com/item?id=32094021) - [The Curse of the Hasselblad XPan](https://casualphotophile.com/2022/07/08/hasselblad-xpan-review/)
 * [2022-07-13, 10:38:29](https://news.ycombinator.com/item?id=32080899) - [Wails: Build beautiful cross-platform applications using Go](https://wails.io/)
+* [2022-07-13, 10:16:11](https://news.ycombinator.com/item?id=32080766) - [Show HN: PyCircTools – Build digital circuits using Python](https://github.com/LovetheFrogs/PyCircTools)
 
 ## [Archives](archives/index.md)
 

@@ -58,6 +58,7 @@
 * [2022-07-13, 11:28:19](https://news.ycombinator.com/item?id=32081217) - [A doctor who treated Bach and Handel with disastrous results](https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 * [2022-07-13, 10:38:29](https://news.ycombinator.com/item?id=32080899) - [Wails: Build beautiful cross-platform applications using Go](https://wails.io/)
+* [2022-07-13, 10:16:11](https://news.ycombinator.com/item?id=32080766) - [Show HN: PyCircTools – Build digital circuits using Python](https://github.com/LovetheFrogs/PyCircTools)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:49:53](https://news.ycombinator.com/item?id=32080617) - [Calculus Homework Help Online](https://www.studyhab.com/t/calculus)
 * [2022-07-13, 09:36:25](https://news.ycombinator.com/item?id=32080556) - [Computerized Cooking (1985)](https://diyhpl.us/~bryan/papers2/CompCook.html)
