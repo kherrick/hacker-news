@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 21:17:45](https://news.ycombinator.com/item?id=32122065) - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)
 * [2022-07-16, 20:51:48](https://news.ycombinator.com/item?id=32121846) - [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 * [2022-07-16, 20:35:29](https://news.ycombinator.com/item?id=32121715) - [Bloomberg B-Unit iOS App](https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873)
