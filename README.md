@@ -21,6 +21,7 @@
 * [2022-07-15, 15:44:11](https://news.ycombinator.com/item?id=32109301) - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide)
 * [2022-07-15, 15:06:41](https://news.ycombinator.com/item?id=32108926) - [Mass and angular momentum, left ambiguous by Einstein, get defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
 * [2022-07-15, 14:59:04](https://news.ycombinator.com/item?id=32108852) - [EA: The Human Story (2004)](https://ea-spouse.livejournal.com/274.html)
+* [2022-07-15, 14:54:16](https://news.ycombinator.com/item?id=32108793) - [Writing and running a BBS on a Macintosh Plus](https://jcs.org/2022/07/15/kludge)
 * [2022-07-15, 14:23:53](https://news.ycombinator.com/item?id=32108503) - [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's answer to the Sichuan pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
 * [2022-07-15, 05:13:59](https://news.ycombinator.com/item?id=32104834) - [The 970-Ha-Jokes Payphone Project](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all)
@@ -29,7 +30,6 @@
 * [2022-07-14, 20:59:47](https://news.ycombinator.com/item?id=32101383) - [Unix didn't used to support shebang, a brief history](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
 * [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
-* [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
 
 ## [Archives](archives/index.md)
 
