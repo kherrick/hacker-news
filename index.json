@@ -61,6 +61,26 @@
   ],
   [
     [
+      "2022-07-16, 18:36:36",
+      "https://news.ycombinator.com/item?id=32120663"
+    ],
+    [
+      "Detroit’s new personalized flight information board is straight out of sci-fi",
+      "https://thepointsguy.com/news/personal-flight-information-display-dtw/"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 18:15:15",
+      "https://news.ycombinator.com/item?id=32120495"
+    ],
+    [
+      "Will AI steal submarines’ stealth?",
+      "https://spectrum.ieee.org/nuclear-submarine"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 18:13:33",
       "https://news.ycombinator.com/item?id=32120478"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-07-16, 17:29:27",
-      "https://news.ycombinator.com/item?id=32120090"
-    ],
-    [
-      "Bun gets “bun:FFI” – call native libraries from JavaScript",
-      "https://twitter.com/jarredsumner/status/1521527222514774017"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 16:56:55",
       "https://news.ycombinator.com/item?id=32119828"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32119636"
     ],
     [
-      "China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source",
+      "China mortgage boycott data erased by censors as crisis spreads",
       "https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32119002"
     ],
     [
-      "Async Rust: What is a runtime? Here is how tokio works under the hood",
+      "Async Rust: What is a runtime? how Tokio works under the hood",
       "https://kerkour.com/rust-async-await-what-is-a-runtime"
     ]
   ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32117771"
     ],
     [
-      "'Zero Trust’ security is a poor choice of words",
+      "'Zero trust’ security is a poor choice of words",
       "https://code.mendhak.com/zero-trust-poor-choice-of-words/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "The Book of Shaders (2015)",
       "https://thebookofshaders.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 12:50:55",
-      "https://news.ycombinator.com/item?id=32117519"
-    ],
-    [
-      "Show HN: I made a simple platform to buy/sell side projects",
-      "https://news.ycombinator.com/item?id=32117519"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Bill Watterson’s refusal to license Calvin and Hobbes (2016)",
       "https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 05:00:54",
-      "https://news.ycombinator.com/item?id=32115354"
-    ],
-    [
-      "The Book of Experiments (1958) [pdf]",
-      "https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32105616"
     ],
     [
-      "Life Cycle of a Hornet Colony",
+      "Life cycles of a hornet colony (2003)",
       "http://www.vespa-crabro.com/hornets2.htm"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "The Curse of the Hasselblad XPan",
       "https://casualphotophile.com/2022/07/08/hasselblad-xpan-review/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 10:39:23",
+      "https://news.ycombinator.com/item?id=32080903"
+    ],
+    [
+      "How “let it fail” leads to simpler code",
+      "https://yiming.dev/blog/2022/07/10/how-let-it-fail-leads-to-simpler-code/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32080526"
     ],
     [
-      "Tool for euclidean geometry aware of logic",
+      "Tool for Euclidean geometry aware of logic",
       "https://github.com/mirefek/geo_logic"
     ]
   ]
