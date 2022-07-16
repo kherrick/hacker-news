@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
+* [2022-07-15, 23:34:03](https://news.ycombinator.com/item?id=32113864) - [Designing the Characters of 'Cowboy Bebop'](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
 * [2022-07-15, 23:21:43](https://news.ycombinator.com/item?id=32113782) - [“Shit Academics Say” Twitter account hacked, Twitter Support refusing help](https://twitter.com/prof_nch/status/1548083301180526592)
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:26:34](https://news.ycombinator.com/item?id=32112990) - [Show HN: Owlkettle – A Declarative user interface framework based on GTK 4](https://github.com/can-lehmann/owlkettle)

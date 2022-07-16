@@ -63,6 +63,7 @@
 * [2022-07-14, 09:45:40](https://news.ycombinator.com/item?id=32093929) - [Node-Red 3.0 Released](https://nodered.org/blog/2022/07/14/version-3-0-released)
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
+* [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
 * [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
 * [2022-07-14, 07:12:48](https://news.ycombinator.com/item?id=32092943) - [Ask HN: What do you code when learning a new language/framework](https://news.ycombinator.com/item?id=32092943)
