@@ -3,6 +3,7 @@
 * [2022-07-16, 21:17:45](https://news.ycombinator.com/item?id=32122065) - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)
 * [2022-07-16, 20:51:48](https://news.ycombinator.com/item?id=32121846) - [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
+* [2022-07-16, 19:42:35](https://news.ycombinator.com/item?id=32121266) - [Systemd Creator Lands at Microsoft](https://linuxiac.com/lennart-poettering-goes-to-work-at-microsoft/)
 * [2022-07-16, 19:27:19](https://news.ycombinator.com/item?id=32121125) - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
 * [2022-07-16, 18:13:33](https://news.ycombinator.com/item?id=32120478) - [U.S. transition to 988 suicide and crisis lifeline begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
@@ -29,7 +30,6 @@
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 10:04:25](https://news.ycombinator.com/item?id=32094021) - [The Curse of the Hasselblad XPan](https://casualphotophile.com/2022/07/08/hasselblad-xpan-review/)
 * [2022-07-13, 10:38:29](https://news.ycombinator.com/item?id=32080899) - [Wails: Build beautiful cross-platform applications using Go](https://wails.io/)
-* [2022-07-13, 10:16:11](https://news.ycombinator.com/item?id=32080766) - [Show HN: PyCircTools – Build digital circuits using Python](https://github.com/LovetheFrogs/PyCircTools)
 
 ## [Archives](archives/index.md)
 

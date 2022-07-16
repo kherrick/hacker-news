@@ -9,6 +9,7 @@
 * [2022-07-16, 20:51:48](https://news.ycombinator.com/item?id=32121846) - [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 * [2022-07-16, 20:35:29](https://news.ycombinator.com/item?id=32121715) - [Bloomberg B-Unit iOS App](https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873)
 * [2022-07-16, 19:54:07](https://news.ycombinator.com/item?id=32121362) - [The Politics of Bitcoin: Software as Right-Wing Extremism](https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin)
+* [2022-07-16, 19:42:35](https://news.ycombinator.com/item?id=32121266) - [Systemd Creator Lands at Microsoft](https://linuxiac.com/lennart-poettering-goes-to-work-at-microsoft/)
 * [2022-07-16, 19:27:19](https://news.ycombinator.com/item?id=32121125) - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
 * [2022-07-16, 18:36:36](https://news.ycombinator.com/item?id=32120663) - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
 * [2022-07-16, 18:13:33](https://news.ycombinator.com/item?id=32120478) - [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
