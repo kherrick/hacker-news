@@ -21,7 +21,6 @@
 * [2022-07-15, 17:22:40](https://news.ycombinator.com/item?id=32110573) - [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
 * [2022-07-15, 17:08:56](https://news.ycombinator.com/item?id=32110366) - [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 * [2022-07-15, 16:22:44](https://news.ycombinator.com/item?id=32109760) - [Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly](https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html)
-* [2022-07-15, 16:17:51](https://news.ycombinator.com/item?id=32109694) - [BBC Basic Editor](https://bbcmic.ro/)
 * [2022-07-15, 09:51:31](https://news.ycombinator.com/item?id=32106441) - [Project Fear](https://paperstack.com/project_fear/)
 * [2022-07-15, 05:13:59](https://news.ycombinator.com/item?id=32104834) - [The 970-HA-JOKES Payphone Project](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all)
 * [2022-07-15, 05:03:27](https://news.ycombinator.com/item?id=32104776) - [Kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
@@ -29,6 +28,7 @@
 * [2022-07-14, 20:59:47](https://news.ycombinator.com/item?id=32101383) - [Unix didn't used to support '#!', a brief history](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
+* [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
 * [2022-07-14, 07:21:36](https://news.ycombinator.com/item?id=32093002) - [OctoSQL allows you to join data from different sources using SQL](https://github.com/cube2222/octosql)
 
 ## [Archives](archives/index.md)
