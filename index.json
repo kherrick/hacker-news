@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-07-16, 02:50:59",
+      "https://news.ycombinator.com/item?id=32114847"
+    ],
+    [
+      "Study: Alcohol is never good for people under 40",
+      "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#%20"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 02:13:19",
+      "https://news.ycombinator.com/item?id=32114699"
+    ],
+    [
+      "CotEditor – Lightweight Plain-Text Editor for macOS",
+      "https://github.com/coteditor/CotEditor"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 01:50:21",
       "https://news.ycombinator.com/item?id=32114619"
     ],
     [
-      "Everything you need to know about breastfeeding and intelligence",
+      "Do breastfed children have higher IQs? The answer is annoyingly hard to uncover",
       "https://stuartritchie.substack.com/p/breastfeeding-iq"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2022-07-15, 20:05:50",
-      "https://news.ycombinator.com/item?id=32112183"
-    ],
-    [
-      "Satellites give clues about the coming global harvest",
-      "https://www.bbc.com/news/world-62149522"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 19:53:17",
       "https://news.ycombinator.com/item?id=32112077"
     ],
@@ -97,16 +107,6 @@
     [
       "“Critical” projects and volunteer maintainers",
       "https://lwn.net/SubscriberLink/900953/44823d451920e233/"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 19:07:05",
-      "https://news.ycombinator.com/item?id=32111697"
-    ],
-    [
-      "Leakage and the reproducibility crisis in ML-based science",
-      "https://reproducible.cs.princeton.edu/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-07-15, 14:54:16",
-      "https://news.ycombinator.com/item?id=32108793"
-    ],
-    [
-      "Writing and running a BBS on a Macintosh Plus",
-      "https://jcs.org/2022/07/15/kludge"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 14:23:53",
       "https://news.ycombinator.com/item?id=32108503"
     ],
@@ -277,6 +267,16 @@
     [
       "Unix didn't used to support shebang, a brief history",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 09:39:22",
+      "https://news.ycombinator.com/item?id=32093879"
+    ],
+    [
+      "Ask HN: What is best way to do hands-on practice for system design?",
+      "https://news.ycombinator.com/item?id=32093879"
     ]
   ],
   [
