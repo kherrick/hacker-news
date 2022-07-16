@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 * [2022-07-16, 07:27:17](https://news.ycombinator.com/item?id=32115960) - [iPieta](https://www.ipieta.com/overview-main.html)
+* [2022-07-16, 06:51:04](https://news.ycombinator.com/item?id=32115809) - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
+* [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * [2022-07-16, 06:20:25](https://news.ycombinator.com/item?id=32115693) - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 04:14:22](https://news.ycombinator.com/item?id=32115169) - [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)

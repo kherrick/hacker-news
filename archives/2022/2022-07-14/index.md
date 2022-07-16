@@ -55,6 +55,7 @@
 * [2022-07-14, 11:48:44](https://news.ycombinator.com/item?id=32094662) - [“A Mild Recession”](https://thereformedbroker.com/2022/07/13/a-mild-recession/)
 * [2022-07-14, 11:45:33](https://news.ycombinator.com/item?id=32094645) - [DNS Esoterica – Why you can't dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
 * [2022-07-14, 11:45:06](https://news.ycombinator.com/item?id=32094640) - [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
+* [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 11:20:51](https://news.ycombinator.com/item?id=32094469) - [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
 * [2022-07-14, 10:59:23](https://news.ycombinator.com/item?id=32094339) - [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
 * [2022-07-14, 10:28:12](https://news.ycombinator.com/item?id=32094153) - [It's All Just an Old Videogame](https://www.ioann.xyz/p/its-all-just-an-old-videogame)
