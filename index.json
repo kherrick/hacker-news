@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-07-16, 00:29:30",
-      "https://news.ycombinator.com/item?id=32114194"
-    ],
-    [
-      "Android removes much of Fuchsia-related code as Starnix project progresses",
-      "https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 10:43:44",
       "https://news.ycombinator.com/item?id=32106761"
     ],
@@ -297,6 +287,16 @@
     [
       "Ask HN: What is best way to do hands-on practice for system design?",
       "https://news.ycombinator.com/item?id=32093879"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 07:21:36",
+      "https://news.ycombinator.com/item?id=32093002"
+    ],
+    [
+      "OctoSQL allows you to join data from different sources using SQL",
+      "https://github.com/cube2222/octosql"
     ]
   ]
 ]
