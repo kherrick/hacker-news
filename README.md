@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
+* [2022-07-16, 10:28:54](https://news.ycombinator.com/item?id=32116711) - [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
 * [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
@@ -18,8 +20,6 @@
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 * [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
-* [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
-* [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 * [2022-07-15, 16:22:44](https://news.ycombinator.com/item?id=32109760) - [Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly](https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html)
 * [2022-07-15, 09:51:31](https://news.ycombinator.com/item?id=32106441) - [Project Fear](https://paperstack.com/project_fear/)
 * [2022-07-15, 05:28:39](https://news.ycombinator.com/item?id=32104899) - [Exported Authenticators: The long road to RFC](https://blog.cloudflare.com/exported-authenticators-the-long-road-to-rfc/)
