@@ -6,6 +6,7 @@
 
 * [2022-07-16, 21:47:35](https://news.ycombinator.com/item?id=32122278) - [Byte Magazine: The FORTH programming language](https://archive.org/details/byte-magazine-1980-08)
 * [2022-07-16, 21:44:50](https://news.ycombinator.com/item?id=32122258) - [Company sends remote worker photo of herself, fires her for going to kitchen](https://www.dailydot.com/irl/remote-worker-klarna-webcam-photo-tiktok/)
+* [2022-07-16, 21:29:32](https://news.ycombinator.com/item?id=32122150) - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
 * [2022-07-16, 21:17:45](https://news.ycombinator.com/item?id=32122065) - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 * [2022-07-16, 21:12:04](https://news.ycombinator.com/item?id=32122028) - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)

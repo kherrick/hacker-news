@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-16, 21:47:35](https://news.ycombinator.com/item?id=32122278) - [Byte Magazine: The Forth Language (1980)](https://archive.org/details/byte-magazine-1980-08)
+* [2022-07-16, 21:29:32](https://news.ycombinator.com/item?id=32122150) - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
 * [2022-07-16, 21:17:45](https://news.ycombinator.com/item?id=32122065) - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 * [2022-07-16, 21:12:04](https://news.ycombinator.com/item?id=32122028) - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)
@@ -19,8 +20,7 @@
 * [2022-07-16, 15:01:06](https://news.ycombinator.com/item?id=32118796) - [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
 * [2022-07-16, 13:22:16](https://news.ycombinator.com/item?id=32117771) - ['Zero trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
 * [2022-07-16, 12:52:39](https://news.ycombinator.com/item?id=32117536) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
-* [2022-07-16, 12:47:27](https://news.ycombinator.com/item?id=32117489) - [Ask HN: What is with the new URLs on facebook.com?](https://news.ycombinator.com/item?id=32117489)
-* [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+* [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson (2019)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
 * [2022-07-15, 07:24:55](https://news.ycombinator.com/item?id=32105616) - [Life cycles of a hornet colony (2003)](http://www.vespa-crabro.com/hornets2.htm)
