@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 07:27:17](https://news.ycombinator.com/item?id=32115960) - [iPieta](https://www.ipieta.com/overview-main.html)
 * [2022-07-16, 06:20:25](https://news.ycombinator.com/item?id=32115693) - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 04:14:22](https://news.ycombinator.com/item?id=32115169) - [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
@@ -28,7 +29,6 @@
 * [2022-07-14, 20:59:47](https://news.ycombinator.com/item?id=32101383) - [Unix didn't used to support '#!', a brief history](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
 * [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
-* [2022-07-14, 07:33:49](https://news.ycombinator.com/item?id=32093094) - [200 Years of Frankenstein (2018)](https://www.themarginalian.org/2018/06/14/frankenstein-science-mit-massive/)
 * [2022-07-14, 07:21:36](https://news.ycombinator.com/item?id=32093002) - [OctoSQL allows you to join data from different sources using SQL](https://github.com/cube2222/octosql)
 
 ## [Archives](archives/index.md)
