@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 17:29:27](https://news.ycombinator.com/item?id=32120090) - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
 * [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
 * [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
 * [2022-07-16, 15:22:06](https://news.ycombinator.com/item?id=32119002) - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
@@ -15,7 +16,6 @@
 * [2022-07-16, 12:01:05](https://news.ycombinator.com/item?id=32117221) - [Mozart Data (YC S20) Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
 * [2022-07-16, 11:34:04](https://news.ycombinator.com/item?id=32117067) - [Six Queries to Break into Mega](https://eprint.iacr.org/2022/914)
 * [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
-* [2022-07-16, 10:28:54](https://news.ycombinator.com/item?id=32116711) - [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
 * [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Eating horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
