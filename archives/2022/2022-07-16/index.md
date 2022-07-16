@@ -15,6 +15,7 @@
 * [2022-07-16, 19:42:35](https://news.ycombinator.com/item?id=32121266) - [Systemd Creator Lands at Microsoft](https://linuxiac.com/lennart-poettering-goes-to-work-at-microsoft/)
 * [2022-07-16, 19:27:19](https://news.ycombinator.com/item?id=32121125) - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
 * [2022-07-16, 18:36:36](https://news.ycombinator.com/item?id=32120663) - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
+* [2022-07-16, 18:15:15](https://news.ycombinator.com/item?id=32120495) - [Will AI steal submarines’ stealth?](https://spectrum.ieee.org/nuclear-submarine)
 * [2022-07-16, 18:13:33](https://news.ycombinator.com/item?id=32120478) - [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [2022-07-16, 17:44:15](https://news.ycombinator.com/item?id=32120246) - [When Coal First Arrived, Americans Said 'No Thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)

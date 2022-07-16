@@ -57,6 +57,7 @@
 * [2022-07-13, 11:37:06](https://news.ycombinator.com/item?id=32081287) - [Leather Grades: The Definitive Guide (2020)](https://joojoobs.com/leather-grades/)
 * [2022-07-13, 11:28:19](https://news.ycombinator.com/item?id=32081217) - [A doctor who treated Bach and Handel with disastrous results](https://tedgioia.substack.com/p/how-a-doctor-killed-the-baroque-era)
 * [2022-07-13, 11:03:30](https://news.ycombinator.com/item?id=32081051) - [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
+* [2022-07-13, 10:39:23](https://news.ycombinator.com/item?id=32080903) - [How “let it fail” leads to simpler code](https://yiming.dev/blog/2022/07/10/how-let-it-fail-leads-to-simpler-code/)
 * [2022-07-13, 10:38:29](https://news.ycombinator.com/item?id=32080899) - [Wails: Build beautiful cross-platform applications using Go](https://wails.io/)
 * [2022-07-13, 10:16:11](https://news.ycombinator.com/item?id=32080766) - [Show HN: PyCircTools – Build digital circuits using Python](https://github.com/LovetheFrogs/PyCircTools)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
