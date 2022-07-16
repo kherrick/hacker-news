@@ -51,6 +51,7 @@
 * [2022-07-15, 10:51:07](https://news.ycombinator.com/item?id=32106808) - [Being declared dead is automated, so why is resurrection such a nightmare?](https://www.theregister.com/2022/07/15/something_for_the_weekend/)
 * [2022-07-15, 10:43:47](https://news.ycombinator.com/item?id=32106762) - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/?)
+* [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson (2019)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2022-07-15, 10:18:40](https://news.ycombinator.com/item?id=32106591) - [Integrating a Rust module into an Android app](https://blog.logrocket.com/integrating-rust-module-android-app/)
 * [2022-07-15, 10:13:02](https://news.ycombinator.com/item?id=32106556) - [Severely deficient autobiographical memory (SDAM) in healthy adults (2015)](https://www.sciencedirect.com/science/article/pii/S002839321500158X)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
