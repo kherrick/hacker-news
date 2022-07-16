@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 15:22:06](https://news.ycombinator.com/item?id=32119002) - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
+* [2022-07-16, 15:17:05](https://news.ycombinator.com/item?id=32118950) - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
 * [2022-07-16, 15:04:39](https://news.ycombinator.com/item?id=32118818) - [Why Rails Buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
 * [2022-07-16, 14:32:55](https://news.ycombinator.com/item?id=32118530) - [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
 * [2022-07-16, 13:22:16](https://news.ycombinator.com/item?id=32117771) - ['Zero Trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
