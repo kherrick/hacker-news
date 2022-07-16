@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32122278"
     ],
     [
-      "Byte Magazine: The FORTH programming language",
+      "Byte Magazine: The Forth Language (1980)",
       "https://archive.org/details/byte-magazine-1980-08"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32121846"
     ],
     [
-      "A complete compiler and VM in 150 lines of code",
+      "Show HN: A compiler and VM for a simple language, in 150 lines of code",
       "https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46"
     ]
   ],
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-07-16, 17:29:27",
+      "https://news.ycombinator.com/item?id=32120090"
+    ],
+    [
+      "Bun gets “bun:FFI” – call native libraries from JavaScript",
+      "https://twitter.com/jarredsumner/status/1521527222514774017"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 16:56:55",
       "https://news.ycombinator.com/item?id=32119828"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-07-16, 14:32:55",
-      "https://news.ycombinator.com/item?id=32118530"
-    ],
-    [
-      "Show HN: Interactive course about “everyday” data science",
-      "https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 13:22:16",
       "https://news.ycombinator.com/item?id=32117771"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32117536"
     ],
     [
-      "The Book of Shaders",
+      "The Book of Shaders (2015)",
       "https://thebookofshaders.com/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32080899"
     ],
     [
-      "Wails: Build beautiful cross-platform applications using Go",
+      "Wails: Build cross-platform applications using Go",
       "https://wails.io/"
     ]
   ],
