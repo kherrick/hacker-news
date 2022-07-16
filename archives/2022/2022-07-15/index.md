@@ -64,6 +64,7 @@
 * [2022-07-15, 05:56:39](https://news.ycombinator.com/item?id=32105037) - [What does Vitalik think about network states?](https://vitalik.ca/general/2022/07/13/networkstates.html)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
+* [2022-07-15, 05:13:59](https://news.ycombinator.com/item?id=32104834) - [The 970-Ha-Jokes Payphone Project](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all)
 * [2022-07-15, 05:03:27](https://news.ycombinator.com/item?id=32104776) - [Kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
 * [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
