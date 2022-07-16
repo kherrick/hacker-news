@@ -10,6 +10,7 @@
 * [2022-07-14, 21:34:30](https://news.ycombinator.com/item?id=32101729) - [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
 * [2022-07-14, 21:05:00](https://news.ycombinator.com/item?id=32101443) - [Living with Models](https://www.tbray.org/ongoing/When/202x/2022/07/13/Weird-ML)
 * [2022-07-14, 21:00:28](https://news.ycombinator.com/item?id=32101389) - [TrueBiz (YC S22) Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
+* [2022-07-14, 20:59:47](https://news.ycombinator.com/item?id=32101383) - [Unix didn't used to support shebang, a brief history](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
 * [2022-07-14, 20:25:31](https://news.ycombinator.com/item?id=32101009) - [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 * [2022-07-14, 20:09:36](https://news.ycombinator.com/item?id=32100880) - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
 * [2022-07-14, 19:31:57](https://news.ycombinator.com/item?id=32100524) - [Ask HN: What makes you optimistic about the future?](https://news.ycombinator.com/item?id=32100524)

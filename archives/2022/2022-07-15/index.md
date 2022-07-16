@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-15](index.md)
 
 * [2022-07-15, 23:34:03](https://news.ycombinator.com/item?id=32113864) - [Designing the Characters of 'Cowboy Bebop'](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
+* [2022-07-15, 23:28:46](https://news.ycombinator.com/item?id=32113825) - [Vala Programming Language](https://vala.dev/)
 * [2022-07-15, 23:21:43](https://news.ycombinator.com/item?id=32113782) - [“Shit Academics Say” Twitter account hacked, Twitter Support refusing help](https://twitter.com/prof_nch/status/1548083301180526592)
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:26:34](https://news.ycombinator.com/item?id=32112990) - [Show HN: Owlkettle – A Declarative user interface framework based on GTK 4](https://github.com/can-lehmann/owlkettle)
@@ -63,6 +64,7 @@
 * [2022-07-15, 05:56:39](https://news.ycombinator.com/item?id=32105037) - [What does Vitalik think about network states?](https://vitalik.ca/general/2022/07/13/networkstates.html)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
+* [2022-07-15, 05:03:27](https://news.ycombinator.com/item?id=32104776) - [Kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
 * [2022-07-15, 05:00:51](https://news.ycombinator.com/item?id=32104764) - [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
 * [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
