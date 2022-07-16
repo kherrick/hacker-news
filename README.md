@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 * [2022-07-16, 08:07:26](https://news.ycombinator.com/item?id=32116109) - [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
 * [2022-07-16, 07:57:09](https://news.ycombinator.com/item?id=32116070) - [I deleted 78% of my Redis container and it still works](https://medium.com/@codervinod/i-deleted-78-of-my-redis-container-and-it-still-works-df8310a3a007)
@@ -11,6 +12,7 @@
 * [2022-07-16, 03:45:13](https://news.ycombinator.com/item?id=32115059) - [“Learning The Elite Class: My experience at fancy parties”](https://aella.substack.com/p/learning-the-elite-class)
 * [2022-07-16, 02:13:19](https://news.ycombinator.com/item?id=32114699) - [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
 * [2022-07-16, 00:29:30](https://news.ycombinator.com/item?id=32114194) - [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
+* [2022-07-15, 23:34:03](https://news.ycombinator.com/item?id=32113864) - [Designing the Characters of 'Cowboy Bebop'](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
 * [2022-07-15, 23:28:46](https://news.ycombinator.com/item?id=32113825) - [Vala Programming Language](https://vala.dev/)
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
@@ -18,8 +20,6 @@
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
-* [2022-07-15, 17:29:28](https://news.ycombinator.com/item?id=32110662) - [I'm hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
-* [2022-07-15, 17:08:56](https://news.ycombinator.com/item?id=32110366) - [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 * [2022-07-15, 16:22:44](https://news.ycombinator.com/item?id=32109760) - [Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly](https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html)
 * [2022-07-15, 09:51:31](https://news.ycombinator.com/item?id=32106441) - [Project Fear](https://paperstack.com/project_fear/)
 * [2022-07-15, 05:28:39](https://news.ycombinator.com/item?id=32104899) - [Exported Authenticators: The long road to RFC](https://blog.cloudflare.com/exported-authenticators-the-long-road-to-rfc/)
