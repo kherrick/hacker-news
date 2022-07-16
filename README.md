@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 02:50:59](https://news.ycombinator.com/item?id=32114847) - [Study: Alcohol is never good for people under 40](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#%20)
 * [2022-07-16, 02:13:19](https://news.ycombinator.com/item?id=32114699) - [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
 * [2022-07-16, 01:50:21](https://news.ycombinator.com/item?id=32114619) - [Do breastfed children have higher IQs? The answer is annoyingly hard to uncover](https://stuartritchie.substack.com/p/breastfeeding-iq)
@@ -11,7 +12,6 @@
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
-* [2022-07-15, 19:07:05](https://news.ycombinator.com/item?id=32111697) - [Leakage and the reproducibility crisis in ML-based science](https://reproducible.cs.princeton.edu/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 * [2022-07-15, 17:29:28](https://news.ycombinator.com/item?id=32110662) - [I'm hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
 * [2022-07-15, 17:22:40](https://news.ycombinator.com/item?id=32110573) - [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
@@ -26,10 +26,10 @@
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's answer to the Sichuan pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
 * [2022-07-15, 05:13:59](https://news.ycombinator.com/item?id=32104834) - [The 970-Ha-Jokes Payphone Project](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all)
 * [2022-07-15, 05:03:27](https://news.ycombinator.com/item?id=32104776) - [Kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
-* [2022-07-15, 02:17:48](https://news.ycombinator.com/item?id=32103900) - [The Logic of Envy](https://robkhenderson.substack.com/p/the-logic-of-envy)
 * [2022-07-14, 20:59:47](https://news.ycombinator.com/item?id=32101383) - [Unix didn't used to support shebang, a brief history](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
 * [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
+* [2022-07-14, 07:21:36](https://news.ycombinator.com/item?id=32093002) - [OctoSQL allows you to join data from different sources using SQL](https://github.com/cube2222/octosql)
 
 ## [Archives](archives/index.md)
 
