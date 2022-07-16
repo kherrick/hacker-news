@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-07-16, 19:42:35",
+      "https://news.ycombinator.com/item?id=32121266"
+    ],
+    [
+      "Systemd Creator Lands at Microsoft",
+      "https://linuxiac.com/lennart-poettering-goes-to-work-at-microsoft/"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 19:27:19",
       "https://news.ycombinator.com/item?id=32121125"
     ],
@@ -287,16 +297,6 @@
     [
       "Wails: Build beautiful cross-platform applications using Go",
       "https://wails.io/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 10:16:11",
-      "https://news.ycombinator.com/item?id=32080766"
-    ],
-    [
-      "Show HN: PyCircTools – Build digital circuits using Python",
-      "https://github.com/LovetheFrogs/PyCircTools"
     ]
   ]
 ]
