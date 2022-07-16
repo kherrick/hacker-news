@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-15, 23:21:43",
-      "https://news.ycombinator.com/item?id=32113782"
+      "2022-07-15, 23:34:03",
+      "https://news.ycombinator.com/item?id=32113864"
     ],
     [
-      "“Shit Academics Say” Twitter account hacked, Twitter Support refusing help",
-      "https://twitter.com/prof_nch/status/1548083301180526592"
+      "Designing the Characters of 'Cowboy Bebop'",
+      "https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Advice for the next dozen Rust GUIs",
       "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 21:03:23",
-      "https://news.ycombinator.com/item?id=32112793"
-    ],
-    [
-      "The case against CS master’s degrees",
-      "https://ozwrites.com/masters/"
     ]
   ],
   [
@@ -241,32 +231,12 @@
   ],
   [
     [
-      "2022-07-15, 10:51:07",
-      "https://news.ycombinator.com/item?id=32106808"
-    ],
-    [
-      "Being declared dead is automated, so why is resurrection such a nightmare?",
-      "https://www.theregister.com/2022/07/15/something_for_the_weekend/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 09:57:20",
       "https://news.ycombinator.com/item?id=32106467"
     ],
     [
       "Why wasn't the steam engine invented earlier? Part II",
       "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 08:45:42",
-      "https://news.ycombinator.com/item?id=32106126"
-    ],
-    [
-      "Show HN: tere – A Faster Alternative to cd+ls",
-      "https://github.com/mgunyho/tere"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2022-07-14, 08:27:58",
+      "https://news.ycombinator.com/item?id=32093486"
+    ],
+    [
+      "Uncovering a macOS App Sandbox escape vulnerability",
+      "https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/"
+    ]
+  ],
+  [
+    [
       "2022-07-14, 07:27:56",
       "https://news.ycombinator.com/item?id=32093039"
     ],
     [
       "What I learned from trying to hang Socrates",
       "https://1517.substack.com/p/what-i-learned-from-trying-to-hang"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 11:37:06",
+      "https://news.ycombinator.com/item?id=32081287"
+    ],
+    [
+      "Leather Grades: The Definitive Guide (2020)",
+      "https://joojoobs.com/leather-grades/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 08:18:50",
+      "https://news.ycombinator.com/item?id=32080184"
+    ],
+    [
+      "Microsoft Validation OS",
+      "https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/validation-os-overview?view=windows-11"
     ]
   ]
 ]
