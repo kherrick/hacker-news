@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-07-15, 20:05:50",
+      "https://news.ycombinator.com/item?id=32112183"
+    ],
+    [
+      "Satellites give clues about the coming global harvest",
+      "https://www.bbc.com/news/world-62149522"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 19:53:17",
       "https://news.ycombinator.com/item?id=32112077"
     ],
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-07-15, 15:58:49",
-      "https://news.ycombinator.com/item?id=32109461"
-    ],
-    [
-      "Scrumdog – a program to download Jira Issues to a local database",
-      "https://whoek.com/b/jira-to-sqlite-with-scrumdog.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 15:44:11",
-      "https://news.ycombinator.com/item?id=32109301"
-    ],
-    [
-      "A Guide to the Go Garbage Collector",
-      "https://tip.golang.org/doc/gc-guide"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 14:54:16",
       "https://news.ycombinator.com/item?id=32108793"
     ],
@@ -287,6 +277,16 @@
     [
       "Uncovering a macOS App Sandbox escape vulnerability",
       "https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/"
+    ]
+  ],
+  [
+    [
+      "2022-07-14, 07:27:56",
+      "https://news.ycombinator.com/item?id=32093039"
+    ],
+    [
+      "What I learned from trying to hang Socrates",
+      "https://1517.substack.com/p/what-i-learned-from-trying-to-hang"
     ]
   ],
   [
