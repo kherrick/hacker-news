@@ -62,6 +62,7 @@
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
 * [2022-07-14, 09:45:40](https://news.ycombinator.com/item?id=32093929) - [Node-Red 3.0 Released](https://nodered.org/blog/2022/07/14/version-3-0-released)
+* [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
 * [2022-07-14, 08:54:27](https://news.ycombinator.com/item?id=32093649) - [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
