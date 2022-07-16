@@ -48,6 +48,7 @@
 * [2022-07-14, 12:53:30](https://news.ycombinator.com/item?id=32095433) - [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
 * [2022-07-14, 12:51:06](https://news.ycombinator.com/item?id=32095398) - [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
 * [2022-07-14, 12:15:32](https://news.ycombinator.com/item?id=32094937) - [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
+* [2022-07-14, 12:08:33](https://news.ycombinator.com/item?id=32094854) - [If You’re Scared You’re Winning (2019)](https://pam-moore.com/2019/01/16/if-youre-scared-youre-winning/)
 * [2022-07-14, 12:08:08](https://news.ycombinator.com/item?id=32094849) - [Twitter Is Down](https://twitter.com/)
 * [2022-07-14, 12:03:14](https://news.ycombinator.com/item?id=32094798) - [Woman ‘dehumanised’ by viral TikTok filmed without her consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
 * [2022-07-14, 12:00:48](https://news.ycombinator.com/item?id=32094769) - [GiveCampus (YC S15) Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
