@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-07-16, 21:00:43",
+      "https://news.ycombinator.com/item?id=32121923"
+    ],
+    [
+      "Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 20:51:48",
+      "https://news.ycombinator.com/item?id=32121846"
+    ],
+    [
+      "A complete compiler and VM in 150 lines of code",
+      "https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 20:35:29",
+      "https://news.ycombinator.com/item?id=32121715"
+    ],
+    [
+      "Bloomberg B-Unit iOS App",
+      "https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 19:54:07",
+      "https://news.ycombinator.com/item?id=32121362"
+    ],
+    [
+      "The Politics of Bitcoin: Software as Right-Wing Extremism",
+      "https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 19:27:19",
       "https://news.ycombinator.com/item?id=32121125"
     ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32120478"
     ],
     [
-      "U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday",
+      "U.S. transition to 988 suicide and crisis lifeline begins Saturday",
       "https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html"
     ]
   ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32120246"
     ],
     [
-      "When Coal First Arrived, Americans Said 'No Thanks'",
+      "When coal first arrived, Americans said 'no thanks'",
       "https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/"
     ]
   ],
@@ -97,16 +137,6 @@
     [
       "Async Rust: What is a runtime? Here is how tokio works under the hood",
       "https://kerkour.com/rust-async-await-what-is-a-runtime"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 15:17:05",
-      "https://news.ycombinator.com/item?id=32118950"
-    ],
-    [
-      "Show HN: Logto beta – build universal sign-in, auth, and identity with ease",
-      "https://github.com/logto-io/logto"
     ]
   ],
   [
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2022-07-16, 12:01:05",
-      "https://news.ycombinator.com/item?id=32117221"
+      "2022-07-16, 12:47:27",
+      "https://news.ycombinator.com/item?id=32117489"
     ],
     [
-      "Mozart Data (YC S20) Is Hiring a Data Analyst",
-      "https://www.mozartdata.com/data-analyst"
+      "Ask HN: What is with the new URLs on facebook.com?",
+      "https://news.ycombinator.com/item?id=32117489"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2022-07-16, 06:51:04",
-      "https://news.ycombinator.com/item?id=32115809"
-    ],
-    [
-      "To Ruby from Python",
-      "https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 06:47:46",
       "https://news.ycombinator.com/item?id=32115791"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-07-16, 05:00:54",
-      "https://news.ycombinator.com/item?id=32115354"
-    ],
-    [
-      "The Book of Experiments (1958) [pdf]",
-      "https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 10:43:44",
       "https://news.ycombinator.com/item?id=32106761"
     ],
     [
       "Algorithms by Jeff Erickson (2019)",
-      "http://jeffe.cs.illinois.edu/teaching/algorithms/?"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 10:13:02",
-      "https://news.ycombinator.com/item?id=32106556"
-    ],
-    [
-      "Severely deficient autobiographical memory (SDAM) in healthy adults (2015)",
-      "https://www.sciencedirect.com/science/article/pii/S002839321500158X"
+      "https://jeffe.cs.illinois.edu/teaching/algorithms/"
     ]
   ],
   [
