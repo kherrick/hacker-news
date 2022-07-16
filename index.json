@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-16, 12:01:05",
+      "https://news.ycombinator.com/item?id=32117221"
+    ],
+    [
+      "Mozart Data (YC S20) Is Hiring a Data Analyst",
+      "https://www.mozartdata.com/data-analyst"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 11:25:56",
+      "https://news.ycombinator.com/item?id=32117021"
+    ],
+    [
+      "Ever Wished That Calvin and Hobbes Creator Bill Watterson Would Return? (2014)",
+      "https://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 11:02:57",
       "https://news.ycombinator.com/item?id=32116894"
     ],
@@ -27,6 +47,16 @@
     [
       "Gazette – Build platforms that flexibly mix SQL, batch, and stream processing",
       "https://github.com/gazette/core"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 10:03:10",
+      "https://news.ycombinator.com/item?id=32116594"
+    ],
+    [
+      "How Not to Fight Inflation",
+      "https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation"
     ]
   ],
   [
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2022-07-16, 08:21:58",
-      "https://news.ycombinator.com/item?id=32116176"
-    ],
-    [
-      "The 13-Inch MacBook Air",
-      "https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 08:07:26",
       "https://news.ycombinator.com/item?id=32116109"
     ],
     [
       "Deno’s July 13th incident update",
       "https://deno.com/blog/2022-07-13-outage-post-mortem"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 07:51:32",
-      "https://news.ycombinator.com/item?id=32116048"
-    ],
-    [
-      "Can I build my SaaS in no-code tools",
-      "https://www.unione.digital/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-07-15, 21:09:54",
-      "https://news.ycombinator.com/item?id=32112846"
-    ],
-    [
-      "Advice for the next dozen Rust GUIs",
-      "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 19:53:31",
       "https://news.ycombinator.com/item?id=32112081"
     ],
@@ -207,6 +207,16 @@
     [
       "State of the SqueakPhone",
       "https://syndicate-lang.org/journal/2022/06/03/phone-progress"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 10:13:02",
+      "https://news.ycombinator.com/item?id=32106556"
+    ],
+    [
+      "Severely deficient autobiographical memory (SDAM) in healthy adults (2015)",
+      "https://www.sciencedirect.com/science/article/pii/S002839321500158X"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The 970-HA-JOKES Payphone Project",
       "https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 05:03:27",
-      "https://news.ycombinator.com/item?id=32104776"
-    ],
-    [
-      "Kernel support for hardware-based control-flow integrity",
-      "https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/"
     ]
   ],
   [
