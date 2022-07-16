@@ -2,7 +2,6 @@
 
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)
 * [2022-07-16, 20:51:48](https://news.ycombinator.com/item?id=32121846) - [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
-* [2022-07-16, 20:35:29](https://news.ycombinator.com/item?id=32121715) - [Bloomberg B-Unit iOS App](https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873)
 * [2022-07-16, 19:27:19](https://news.ycombinator.com/item?id=32121125) - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
 * [2022-07-16, 18:13:33](https://news.ycombinator.com/item?id=32120478) - [U.S. transition to 988 suicide and crisis lifeline begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
@@ -12,6 +11,7 @@
 * [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
 * [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
 * [2022-07-16, 15:22:06](https://news.ycombinator.com/item?id=32119002) - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
+* [2022-07-16, 15:17:05](https://news.ycombinator.com/item?id=32118950) - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
 * [2022-07-16, 15:04:39](https://news.ycombinator.com/item?id=32118818) - [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
 * [2022-07-16, 15:01:06](https://news.ycombinator.com/item?id=32118796) - [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
 * [2022-07-16, 14:32:55](https://news.ycombinator.com/item?id=32118530) - [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
