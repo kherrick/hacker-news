@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-16, 18:09:00",
+      "https://news.ycombinator.com/item?id=32120445"
+    ],
+    [
+      "Scratch Is a Big Deal",
+      "https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 17:44:15",
+      "https://news.ycombinator.com/item?id=32120246"
+    ],
+    [
+      "When Coal First Arrived, Americans Said 'No Thanks'",
+      "https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 17:42:19",
+      "https://news.ycombinator.com/item?id=32120230"
+    ],
+    [
+      "Invisible XML is a language for describing the implicit structure of data",
+      "https://invisiblexml.org/"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 17:29:27",
       "https://news.ycombinator.com/item?id=32120090"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-07-16, 12:28:49",
-      "https://news.ycombinator.com/item?id=32117381"
-    ],
-    [
-      "Amazon instructs New York workers “don't sign” union cards",
-      "https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 12:01:05",
       "https://news.ycombinator.com/item?id=32117221"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2022-07-16, 11:34:04",
-      "https://news.ycombinator.com/item?id=32117067"
-    ],
-    [
-      "Six Queries to Break into Mega",
-      "https://eprint.iacr.org/2022/914"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 10:59:29",
       "https://news.ycombinator.com/item?id=32116877"
     ],
     [
       "XML-RPC Specification (1999)",
       "http://xmlrpc.com/spec.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 09:23:05",
-      "https://news.ycombinator.com/item?id=32116413"
-    ],
-    [
-      "Eating horsemeat in France",
-      "https://lamelonne.substack.com/p/horses-for-main-courses"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-14, 09:39:22",
-      "https://news.ycombinator.com/item?id=32093879"
+      "2022-07-13, 10:38:29",
+      "https://news.ycombinator.com/item?id=32080899"
     ],
     [
-      "Ask HN: What is best way to do hands-on practice for system design?",
-      "https://news.ycombinator.com/item?id=32093879"
+      "Wails: Build beautiful cross-platform applications using Go",
+      "https://wails.io/"
     ]
   ]
 ]
