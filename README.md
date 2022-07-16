@@ -2,7 +2,6 @@
 
 * [2022-07-16, 12:50:55](https://news.ycombinator.com/item?id=32117519) - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
 * [2022-07-16, 12:47:27](https://news.ycombinator.com/item?id=32117489) - [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
-* [2022-07-16, 12:39:48](https://news.ycombinator.com/item?id=32117432) - [Why women leave tech – and how we can fix it](https://emhub.io/articles/why-women-leave-tech-and-how-we-can-fix-it)
 * [2022-07-16, 12:28:49](https://news.ycombinator.com/item?id=32117381) - [Amazon instructs New York workers “don't sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 * [2022-07-16, 12:01:05](https://news.ycombinator.com/item?id=32117221) - [Mozart Data (YC S20) Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
 * [2022-07-16, 11:34:04](https://news.ycombinator.com/item?id=32117067) - [Six Queries to Break into Mega](https://eprint.iacr.org/2022/914)
@@ -14,6 +13,7 @@
 * [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+* [2022-07-16, 08:21:58](https://news.ycombinator.com/item?id=32116176) - [The 13-Inch MacBook Air](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air)
 * [2022-07-16, 08:07:26](https://news.ycombinator.com/item?id=32116109) - [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
 * [2022-07-16, 06:51:04](https://news.ycombinator.com/item?id=32115809) - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 * [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
