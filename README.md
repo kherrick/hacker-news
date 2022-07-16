@@ -2,6 +2,7 @@
 
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+* [2022-07-16, 08:21:58](https://news.ycombinator.com/item?id=32116176) - [The 13-Inch MacBook Air](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air)
 * [2022-07-16, 08:07:26](https://news.ycombinator.com/item?id=32116109) - [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
 * [2022-07-16, 07:57:09](https://news.ycombinator.com/item?id=32116070) - [I deleted 78% of my Redis container and it still works](https://medium.com/@codervinod/i-deleted-78-of-my-redis-container-and-it-still-works-df8310a3a007)
 * [2022-07-16, 06:51:04](https://news.ycombinator.com/item?id=32115809) - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
@@ -16,7 +17,6 @@
 * [2022-07-15, 23:28:46](https://news.ycombinator.com/item?id=32113825) - [Vala Programming Language](https://vala.dev/)
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
-* [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
