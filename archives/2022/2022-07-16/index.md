@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
+* [2022-07-16, 08:50:47](https://news.ycombinator.com/item?id=32116281) - [Pipenv: Promises a Lot, Delivers Little](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 * [2022-07-16, 08:21:58](https://news.ycombinator.com/item?id=32116176) - [The 13-Inch MacBook Air](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air)
 * [2022-07-16, 08:07:26](https://news.ycombinator.com/item?id=32116109) - [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
