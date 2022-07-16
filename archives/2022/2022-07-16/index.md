@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+* [2022-07-16, 07:57:09](https://news.ycombinator.com/item?id=32116070) - [I deleted 78% of my Redis container and it still works](https://medium.com/@codervinod/i-deleted-78-of-my-redis-container-and-it-still-works-df8310a3a007)
 * [2022-07-16, 07:27:17](https://news.ycombinator.com/item?id=32115960) - [iPieta](https://www.ipieta.com/overview-main.html)
 * [2022-07-16, 06:51:04](https://news.ycombinator.com/item?id=32115809) - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 * [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
