@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-07-16, 03:45:13",
+      "https://news.ycombinator.com/item?id=32115059"
+    ],
+    [
+      "“Learning The Elite Class: My experience at fancy parties”",
+      "https://aella.substack.com/p/learning-the-elite-class"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 02:13:19",
       "https://news.ycombinator.com/item?id=32114699"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-07-15, 19:07:05",
-      "https://news.ycombinator.com/item?id=32111697"
-    ],
-    [
-      "Leakage and the reproducibility crisis in ML-based science",
-      "https://reproducible.cs.princeton.edu/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 17:31:13",
       "https://news.ycombinator.com/item?id=32110690"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32104834"
     ],
     [
-      "The 970-Ha-Jokes Payphone Project",
+      "The 970-HA-JOKES Payphone Project",
       "https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32101383"
     ],
     [
-      "Unix didn't used to support shebang, a brief history",
+      "Unix didn't used to support '#!', a brief history",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory"
     ]
   ],
