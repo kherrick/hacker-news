@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:50:47](https://news.ycombinator.com/item?id=32116281) - [Pipenv: Promises a Lot, Delivers Little](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:50:47](https://news.ycombinator.com/item?id=32116281) - [Pipenv: Promises a Lot, Delivers Little](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
@@ -16,7 +17,7 @@
 * [2022-07-15, 23:28:46](https://news.ycombinator.com/item?id=32113825) - [Vala Programming Language](https://vala.dev/)
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC proposes to increase minimum broadband speeds to 100 Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
-* [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
+* [2022-07-15, 19:53:31](https://news.ycombinator.com/item?id=32112081) - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
 * [2022-07-15, 19:53:17](https://news.ycombinator.com/item?id=32112077) - [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 * [2022-07-15, 19:11:52](https://news.ycombinator.com/item?id=32111738) - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
 * [2022-07-15, 17:31:13](https://news.ycombinator.com/item?id=32110690) - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
@@ -25,7 +26,6 @@
 * [2022-07-15, 05:28:39](https://news.ycombinator.com/item?id=32104899) - [Exported Authenticators: The long road to RFC](https://blog.cloudflare.com/exported-authenticators-the-long-road-to-rfc/)
 * [2022-07-15, 05:13:59](https://news.ycombinator.com/item?id=32104834) - [The 970-HA-JOKES Payphone Project](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all)
 * [2022-07-15, 05:03:27](https://news.ycombinator.com/item?id=32104776) - [Kernel support for hardware-based control-flow integrity](https://lwn.net/SubscriberLink/900099/278cbf4e1b2add3d/)
-* [2022-07-15, 02:17:48](https://news.ycombinator.com/item?id=32103900) - [The Logic of Envy](https://robkhenderson.substack.com/p/the-logic-of-envy)
 * [2022-07-14, 20:59:47](https://news.ycombinator.com/item?id=32101383) - [Unix didn't used to support '#!', a brief history](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
