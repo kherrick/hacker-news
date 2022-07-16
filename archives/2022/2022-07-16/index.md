@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+* [2022-07-16, 17:44:15](https://news.ycombinator.com/item?id=32120246) - [When Coal First Arrived, Americans Said 'No Thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
+* [2022-07-16, 17:42:19](https://news.ycombinator.com/item?id=32120230) - [Invisible XML is a language for describing the implicit structure of data](https://invisiblexml.org/)
 * [2022-07-16, 17:29:27](https://news.ycombinator.com/item?id=32120090) - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
 * [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
 * [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)

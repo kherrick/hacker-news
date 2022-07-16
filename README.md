@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+* [2022-07-16, 17:44:15](https://news.ycombinator.com/item?id=32120246) - [When Coal First Arrived, Americans Said 'No Thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
+* [2022-07-16, 17:42:19](https://news.ycombinator.com/item?id=32120230) - [Invisible XML is a language for describing the implicit structure of data](https://invisiblexml.org/)
 * [2022-07-16, 17:29:27](https://news.ycombinator.com/item?id=32120090) - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
 * [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
 * [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
@@ -12,11 +15,8 @@
 * [2022-07-16, 12:52:39](https://news.ycombinator.com/item?id=32117536) - [The Book of Shaders](https://thebookofshaders.com/)
 * [2022-07-16, 12:50:55](https://news.ycombinator.com/item?id=32117519) - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
 * [2022-07-16, 12:47:27](https://news.ycombinator.com/item?id=32117489) - [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
-* [2022-07-16, 12:28:49](https://news.ycombinator.com/item?id=32117381) - [Amazon instructs New York workers “don't sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 * [2022-07-16, 12:01:05](https://news.ycombinator.com/item?id=32117221) - [Mozart Data (YC S20) Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
-* [2022-07-16, 11:34:04](https://news.ycombinator.com/item?id=32117067) - [Six Queries to Break into Mega](https://eprint.iacr.org/2022/914)
 * [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
-* [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Eating horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 * [2022-07-16, 08:07:26](https://news.ycombinator.com/item?id=32116109) - [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
@@ -29,7 +29,7 @@
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 10:04:25](https://news.ycombinator.com/item?id=32094021) - [The Curse of the Hasselblad XPan](https://casualphotophile.com/2022/07/08/hasselblad-xpan-review/)
-* [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
+* [2022-07-13, 10:38:29](https://news.ycombinator.com/item?id=32080899) - [Wails: Build beautiful cross-platform applications using Go](https://wails.io/)
 
 ## [Archives](archives/index.md)
 
