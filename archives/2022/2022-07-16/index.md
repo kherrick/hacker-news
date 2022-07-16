@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 13:22:16](https://news.ycombinator.com/item?id=32117771) - ['Zero Trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
+* [2022-07-16, 12:52:39](https://news.ycombinator.com/item?id=32117536) - [The Book of Shaders](https://thebookofshaders.com/)
 * [2022-07-16, 12:50:55](https://news.ycombinator.com/item?id=32117519) - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
 * [2022-07-16, 12:47:27](https://news.ycombinator.com/item?id=32117489) - [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
+* [2022-07-16, 12:46:18](https://news.ycombinator.com/item?id=32117479) - [survey.apple.com showing Microsoft IIS default page](https://survey.apple.com/iisstart.htm)
 * [2022-07-16, 12:39:48](https://news.ycombinator.com/item?id=32117432) - [Why women leave tech – and how we can fix it](https://emhub.io/articles/why-women-leave-tech-and-how-we-can-fix-it)
 * [2022-07-16, 12:28:49](https://news.ycombinator.com/item?id=32117381) - [Amazon instructs New York workers “don't sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 * [2022-07-16, 12:01:05](https://news.ycombinator.com/item?id=32117221) - [Mozart Data (YC S20) Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
