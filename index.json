@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-16, 10:59:29",
+      "https://news.ycombinator.com/item?id=32116877"
+    ],
+    [
+      "XML-RPC Specification (1999)",
+      "http://xmlrpc.com/spec.md"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 10:28:54",
+      "https://news.ycombinator.com/item?id=32116711"
+    ],
+    [
+      "Gazette – Build platforms that flexibly mix SQL, batch, and stream processing",
+      "https://github.com/gazette/core"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 09:23:05",
       "https://news.ycombinator.com/item?id=32116413"
     ],
@@ -177,26 +197,6 @@
     [
       "State of the SqueakPhone",
       "https://syndicate-lang.org/journal/2022/06/03/phone-progress"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 19:11:52",
-      "https://news.ycombinator.com/item?id=32111738"
-    ],
-    [
-      "“Critical” projects and volunteer maintainers",
-      "https://lwn.net/SubscriberLink/900953/44823d451920e233/"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 17:31:13",
-      "https://news.ycombinator.com/item?id=32110690"
-    ],
-    [
-      "Technical Writing for Developers",
-      "https://css-tricks.com/technical-writing-for-developers/"
     ]
   ],
   [
