@@ -63,6 +63,7 @@
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's Answer to the Sichuan Pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)
 * [2022-07-15, 06:12:15](https://news.ycombinator.com/item?id=32105129) - [Freezing Requirements with Pip-Tools](https://til.simonwillison.net/python/pip-tools)
 * [2022-07-15, 05:56:39](https://news.ycombinator.com/item?id=32105037) - [What does Vitalik think about network states?](https://vitalik.ca/general/2022/07/13/networkstates.html)
+* [2022-07-15, 05:28:39](https://news.ycombinator.com/item?id=32104899) - [Exported Authenticators: The long road to RFC](https://blog.cloudflare.com/exported-authenticators-the-long-road-to-rfc/)
 * [2022-07-15, 05:24:45](https://news.ycombinator.com/item?id=32104877) - [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
 * [2022-07-15, 05:24:17](https://news.ycombinator.com/item?id=32104875) - [Germany's Energy Catastrophe](https://quillette.com/2022/07/14/germanys-energy-catastrophe/)
 * [2022-07-15, 05:13:59](https://news.ycombinator.com/item?id=32104834) - [The 970-Ha-Jokes Payphone Project](https://learn.sparkfun.com/tutorials/the-970-ha-jokes-payphone-project/all)
