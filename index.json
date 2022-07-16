@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2022-07-15, 14:54:16",
+      "https://news.ycombinator.com/item?id=32108793"
+    ],
+    [
+      "Writing and running a BBS on a Macintosh Plus",
+      "https://jcs.org/2022/07/15/kludge"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 14:23:53",
       "https://news.ycombinator.com/item?id=32108503"
     ],
@@ -287,16 +297,6 @@
     [
       "Uncovering a macOS App Sandbox escape vulnerability",
       "https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 07:27:56",
-      "https://news.ycombinator.com/item?id=32093039"
-    ],
-    [
-      "What I learned from trying to hang Socrates",
-      "https://1517.substack.com/p/what-i-learned-from-trying-to-hang"
     ]
   ]
 ]
