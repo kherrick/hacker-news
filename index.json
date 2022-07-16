@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-07-16, 08:07:26",
+      "https://news.ycombinator.com/item?id=32116109"
+    ],
+    [
+      "Deno’s July 13th incident update",
+      "https://deno.com/blog/2022-07-13-outage-post-mortem"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 07:57:09",
       "https://news.ycombinator.com/item?id=32116070"
     ],
@@ -97,16 +107,6 @@
     [
       "Android removes much of Fuchsia-related code as Starnix project progresses",
       "https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 23:34:03",
-      "https://news.ycombinator.com/item?id=32113864"
-    ],
-    [
-      "Designing the Characters of 'Cowboy Bebop'",
-      "https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-07-15, 05:28:39",
+      "https://news.ycombinator.com/item?id=32104899"
+    ],
+    [
+      "Exported Authenticators: The long road to RFC",
+      "https://blog.cloudflare.com/exported-authenticators-the-long-road-to-rfc/"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 05:13:59",
       "https://news.ycombinator.com/item?id=32104834"
     ],
@@ -277,16 +287,6 @@
     [
       "Ask HN: What is best way to do hands-on practice for system design?",
       "https://news.ycombinator.com/item?id=32093879"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 08:27:58",
-      "https://news.ycombinator.com/item?id=32093486"
-    ],
-    [
-      "Uncovering a macOS App Sandbox escape vulnerability",
-      "https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/"
     ]
   ],
   [
