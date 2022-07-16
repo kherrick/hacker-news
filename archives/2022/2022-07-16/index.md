@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 12:01:05](https://news.ycombinator.com/item?id=32117221) - [Mozart Data (YC S20) Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
+* [2022-07-16, 11:25:56](https://news.ycombinator.com/item?id=32117021) - [Ever Wished That Calvin and Hobbes Creator Bill Watterson Would Return? (2014)](https://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/)
 * [2022-07-16, 11:02:57](https://news.ycombinator.com/item?id=32116894) - [The rise of air conditioning, and the eco-harm of the boom it enabled](https://www.historytoday.com/history-matters/rise-air-conditioning)
 * [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
 * [2022-07-16, 10:28:54](https://news.ycombinator.com/item?id=32116711) - [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
+* [2022-07-16, 10:03:10](https://news.ycombinator.com/item?id=32116594) - [How Not to Fight Inflation](https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation)
 * [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
 * [2022-07-16, 08:50:47](https://news.ycombinator.com/item?id=32116281) - [Pipenv: Promises a Lot, Delivers Little](https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/)

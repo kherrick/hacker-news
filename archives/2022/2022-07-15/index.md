@@ -51,6 +51,7 @@
 * [2022-07-15, 10:51:07](https://news.ycombinator.com/item?id=32106808) - [Being declared dead is automated, so why is resurrection such a nightmare?](https://www.theregister.com/2022/07/15/something_for_the_weekend/)
 * [2022-07-15, 10:43:47](https://news.ycombinator.com/item?id=32106762) - [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 * [2022-07-15, 10:18:40](https://news.ycombinator.com/item?id=32106591) - [Integrating a Rust module into an Android app](https://blog.logrocket.com/integrating-rust-module-android-app/)
+* [2022-07-15, 10:13:02](https://news.ycombinator.com/item?id=32106556) - [Severely deficient autobiographical memory (SDAM) in healthy adults (2015)](https://www.sciencedirect.com/science/article/pii/S002839321500158X)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 09:51:31](https://news.ycombinator.com/item?id=32106441) - [Project Fear](https://paperstack.com/project_fear/)
 * [2022-07-15, 09:41:15](https://news.ycombinator.com/item?id=32106380) - [Ask HN: Experiences with low-code systems (Budibase,Appsmith etc.)?](https://news.ycombinator.com/item?id=32106380)
