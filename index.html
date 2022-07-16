@@ -142,11 +142,11 @@
             <h4>
               <span>2022-07-16 @ 15:22:06</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32119002"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -162,11 +162,11 @@
             <h4>
               <span>2022-07-16 @ 15:17:05</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32118950"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -176,20 +176,90 @@
             <a
               class="item"
               href="https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/"
-              >Why Rails Buckle in Britain</a
+              >Why rails buckle in Britain</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-07-16 @ 15:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32118818"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="32118796">
+          <h3>
+            <a class="item" href="https://www.cashgraphs.com/"
+              >Show HN: CashGraphs – A securities portfolio optimizer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-16 @ 15:01:06</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=32118796"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This is a portfolio optimizer I made to help select portfolios
+                for my clients. I'm a personal financial adviser. I generally
+                put my clients in a mix of low-fee index funds and ETFs and I
+                use this to set an appropriate allocation based on the client's
+                risk tolerance.
+              </p>
+              <p>
+                I have been working on this as a side project to 1) improve the
+                theoretical underpinnings of my investment recommendations and
+                2) improve my coding skills with frameworks like Vue and Torch.
+                Here's the repository for the frontend:
+                <a href="https://github.com/justinluther502/cashgraphfront"
+                  >https://github.com/justinluther502/cashgraphfront</a
+                >.
+              </p>
+              <p>
+                The frontend site is Vue 2 + Vuetify, and the backend is an AWS
+                lambda function running the Torch optimizer. I am still working
+                out kinks in the backend, particularly cold-start issues because
+                the Lambda function has to load the entire Torch library (~2GB).
+                This occasionally causes the AWS API Gateway to reach max
+                timeout before the Lambda function finishes. Any tips on
+                addressing this would be much appreciated. My first thought is
+                maybe to pare down the Torch library used in the Lambda function
+                because I am only using a small subset of the full library.
+              </p>
+              <p>
+                The optimizer function itself is designed to overcome several
+                classic shortcomings in Modern Portfolio Theory (MPT) (<a
+                  href="https://en.wikipedia.org/wiki/Modern_portfolio_theory"
+                  >https://en.wikipedia.org/wiki/Modern_portfolio_theory</a
+                >). Unlike textbook implementations of MPT, this optimizer can
+                utilize non-normal returns distributions, risk metrics besides
+                variance, and can allow the user to specify tail behavior, such
+                as asset correlations behaving normally most of the time but
+                converging to 1.0 in severe downturns. Most of these "fixes"
+                happen during the generation of custom "flavors", or asset
+                selection universes. I have 3 flavors pre-built and there is
+                some information on how they are constructed in the flavor
+                selection page.
+              </p>
+              <p>Any feedback greatly appreciated!</p>
+              <p>
+                Justin Luther justinluther@lutherwealth.com
+                <a href="https://www.lutherwealth.com"
+                  >https://www.lutherwealth.com</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="32118530">
@@ -204,11 +274,11 @@
             <h4>
               <span>2022-07-16 @ 14:32:55</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32118530"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -259,11 +329,11 @@
             <h4>
               <span>2022-07-16 @ 13:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32117771"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -278,7 +348,7 @@
             <h4>
               <span>2022-07-16 @ 12:52:39</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32117536"
                   >Comments</a
@@ -297,11 +367,11 @@
             <h4>
               <span>2022-07-16 @ 12:50:55</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32117519"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
             <div class="text">
@@ -311,55 +381,6 @@
                 simpler. Let me know your what you think about this.
               </p>
               <p>https://secondfounder.com</p>
-            </div>
-          </section>
-        </section>
-        <section id="32117489">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=32117489"
-              >Ask HN: What is with the new URLs on Facebook.com?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-16 @ 12:47:27</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=32117489"
-                  >Comments</a
-                ><span class="descendants">: 119</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I've noticed recently Facebook has started using URLs which seem
-                to include encoded information.
-              </p>
-              <p>
-                For example, this URL to Vice:
-                <a
-                  href="https://www.facebook.com/VICE/posts/pfbid02XdVziPTwhmPU9XzBqkRvU5o7NPXUicAJgVy8kf1a1W51hU7EmgMmCigo9rZWxCjDl"
-                  >https://www.facebook.com/VICE/posts/pfbid02XdVziPTwhmPU9XzBq...</a
-                >
-              </p>
-              <p>
-                It's a pretty URL with some kind of hash at the end beginning
-                with "pfbid."
-              </p>
-              <p>
-                Whereas they used to look like basic sharded URLs:
-                <a
-                  href="https://www.facebook.com/random.username/posts/10208327509806082"
-                  >https://www.facebook.com/random.username/posts/1020832750980...</a
-                >
-              </p>
-              <p>
-                Is this for more targeted tracking on posts and links being
-                shared, a new sharding scheme, a combination of both, or
-                something else entirely?
-              </p>
-              <p>Appreciate any insights the community can provide.</p>
             </div>
           </section>
         </section>
@@ -375,11 +396,11 @@
             <h4>
               <span>2022-07-16 @ 12:28:49</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32117381"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 242</span></span
               >
             </h4>
           </section>
@@ -409,33 +430,11 @@
             <h4>
               <span>2022-07-16 @ 11:34:04</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32117067"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="32117021">
-          <h3>
-            <a
-              class="item"
-              href="https://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/"
-              >Ever Wished That Calvin and Hobbes Creator Bill Watterson Would
-              Return? (2014)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-16 @ 11:25:56</span
-              ><span class="points-container"
-                >Points: <span class="points">93</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=32117021"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -454,7 +453,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32116877"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -470,7 +469,7 @@
             <h4>
               <span>2022-07-16 @ 10:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32116711"
                   >Comments</a
@@ -484,18 +483,18 @@
             <a
               class="item"
               href="https://lamelonne.substack.com/p/horses-for-main-courses"
-              >Horses for Main Courses: Eating Horsemeat in France</a
+              >Eating horsemeat in France</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-07-16 @ 09:23:05</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32116413"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -513,11 +512,32 @@
             <h4>
               <span>2022-07-16 @ 08:55:24</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32116305"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="32116281">
+          <h3>
+            <a
+              class="item"
+              href="https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/"
+              >Pipenv: Promises a Lot, Delivers Little (2020)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-16 @ 08:50:47</span
+              ><span class="points-container"
+                >Points: <span class="points">45</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=32116281"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -527,19 +547,18 @@
             <a
               class="item"
               href="https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes"
-              >On Bill Watterson’s Refusal to License Calvin and Hobbes
-              (2016)</a
+              >Bill Watterson’s refusal to license Calvin and Hobbes (2016)</a
             >
           </h3>
           <section>
             <h4>
               <span>2022-07-16 @ 08:23:58</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32116184"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 199</span></span
               >
             </h4>
           </section>
@@ -560,7 +579,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32116109"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -577,11 +596,11 @@
             <h4>
               <span>2022-07-16 @ 06:51:04</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32115809"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
@@ -597,11 +616,11 @@
             <h4>
               <span>2022-07-16 @ 06:47:46</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32115791"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -618,11 +637,11 @@
             <h4>
               <span>2022-07-16 @ 05:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32115354"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -639,11 +658,11 @@
             <h4>
               <span>2022-07-16 @ 03:45:13</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32115059"
                   >Comments</a
-                ><span class="descendants">: 137</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -660,11 +679,11 @@
             <h4>
               <span>2022-07-15 @ 10:43:44</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32106761"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -682,11 +701,11 @@
             <h4>
               <span>2022-07-15 @ 10:13:02</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32106556"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -703,11 +722,11 @@
             <h4>
               <span>2022-07-15 @ 08:17:55</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32105953"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -722,32 +741,11 @@
             <h4>
               <span>2022-07-15 @ 07:51:27</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32105792"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="32094854">
-          <h3>
-            <a
-              class="item"
-              href="https://pam-moore.com/2019/01/16/if-youre-scared-youre-winning/"
-              >If You’re Scared You’re Winning (2019)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2022-07-14 @ 12:08:33</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=32094854"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -762,11 +760,32 @@
             <h4>
               <span>2022-07-14 @ 11:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32094603"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="32094566">
+          <h3>
+            <a
+              class="item"
+              href="https://www.jonstokes.com/p/the-blockchain-in-historical-perspective"
+              >The Blockchain in a Historical Perspective</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2022-07-14 @ 11:33:58</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=32094566"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -782,11 +801,11 @@
             <h4>
               <span>2022-07-14 @ 09:39:22</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32093879"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
             <div class="text">
@@ -813,11 +832,11 @@
             <h4>
               <span>2022-07-14 @ 07:21:36</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=32093002"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
