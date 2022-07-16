@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-07-16, 21:47:35",
+      "https://news.ycombinator.com/item?id=32122278"
+    ],
+    [
+      "Byte Magazine: The FORTH programming language",
+      "https://archive.org/details/byte-magazine-1980-08"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 21:44:50",
+      "https://news.ycombinator.com/item?id=32122258"
+    ],
+    [
+      "Company sends remote worker photo of herself, fires her for going to kitchen",
+      "https://www.dailydot.com/irl/remote-worker-klarna-webcam-photo-tiktok/"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 21:17:45",
       "https://news.ycombinator.com/item?id=32122065"
     ],
     [
       "Training my sense of CO2 ppm",
       "https://interconnected.org/home/2022/07/14/co2"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 21:12:04",
+      "https://news.ycombinator.com/item?id=32122028"
+    ],
+    [
+      "Git log is not a changelog",
+      "https://agateau.com/2022/your-git-log-is-not-a-changelog/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "A complete compiler and VM in 150 lines of code",
       "https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 19:42:35",
-      "https://news.ycombinator.com/item?id=32121266"
-    ],
-    [
-      "Systemd Creator Lands at Microsoft",
-      "https://linuxiac.com/lennart-poettering-goes-to-work-at-microsoft/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-07-16, 15:01:06",
-      "https://news.ycombinator.com/item?id=32118796"
-    ],
-    [
-      "Show HN: CashGraphs – A securities portfolio optimizer",
-      "https://www.cashgraphs.com/"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 14:32:55",
       "https://news.ycombinator.com/item?id=32118530"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2022-07-16, 06:51:04",
-      "https://news.ycombinator.com/item?id=32115809"
-    ],
-    [
-      "To Ruby from Python",
-      "https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 06:47:46",
-      "https://news.ycombinator.com/item?id=32115791"
-    ],
-    [
-      "Comcast: Simulating shitty network connections so you can build better systems",
-      "https://github.com/tylertreat/comcast"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 10:43:44",
       "https://news.ycombinator.com/item?id=32106761"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2022-07-14, 11:39:10",
-      "https://news.ycombinator.com/item?id=32094603"
-    ],
-    [
-      "OpenDroneMap",
-      "https://www.opendronemap.org/"
-    ]
-  ],
-  [
-    [
       "2022-07-14, 10:04:25",
       "https://news.ycombinator.com/item?id=32094021"
     ],
@@ -297,6 +277,26 @@
     [
       "Wails: Build beautiful cross-platform applications using Go",
       "https://wails.io/"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 10:16:11",
+      "https://news.ycombinator.com/item?id=32080766"
+    ],
+    [
+      "Show HN: PyCircTools – Build digital circuits using Python",
+      "https://github.com/LovetheFrogs/PyCircTools"
+    ]
+  ],
+  [
+    [
+      "2022-07-13, 09:30:16",
+      "https://news.ycombinator.com/item?id=32080526"
+    ],
+    [
+      "Tool for euclidean geometry aware of logic",
+      "https://github.com/mirefek/geo_logic"
     ]
   ]
 ]
