@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-07-16, 20:35:29",
-      "https://news.ycombinator.com/item?id=32121715"
-    ],
-    [
-      "Bloomberg B-Unit iOS App",
-      "https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 19:27:19",
       "https://news.ycombinator.com/item?id=32121125"
     ],
@@ -117,6 +107,16 @@
     [
       "Async Rust: What is a runtime? Here is how tokio works under the hood",
       "https://kerkour.com/rust-async-await-what-is-a-runtime"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 15:17:05",
+      "https://news.ycombinator.com/item?id=32118950"
+    ],
+    [
+      "Show HN: Logto beta – build universal sign-in, auth, and identity with ease",
+      "https://github.com/logto-io/logto"
     ]
   ],
   [
