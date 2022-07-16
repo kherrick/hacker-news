@@ -7,6 +7,7 @@
 * [2022-07-16, 06:20:25](https://news.ycombinator.com/item?id=32115693) - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 04:14:22](https://news.ycombinator.com/item?id=32115169) - [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
+* [2022-07-16, 03:45:13](https://news.ycombinator.com/item?id=32115059) - [“Learning The Elite Class: My experience at fancy parties”](https://aella.substack.com/p/learning-the-elite-class)
 * [2022-07-16, 02:50:59](https://news.ycombinator.com/item?id=32114847) - [Study: Alcohol is never good for people under 40](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#%20)
 * [2022-07-16, 02:13:19](https://news.ycombinator.com/item?id=32114699) - [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
 * [2022-07-16, 01:50:21](https://news.ycombinator.com/item?id=32114619) - [Everything you need to know about breastfeeding and intelligence](https://stuartritchie.substack.com/p/breastfeeding-iq)
