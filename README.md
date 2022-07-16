@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-16, 21:47:35](https://news.ycombinator.com/item?id=32122278) - [Byte Magazine: The FORTH programming language](https://archive.org/details/byte-magazine-1980-08)
-* [2022-07-16, 21:44:50](https://news.ycombinator.com/item?id=32122258) - [Company sends remote worker photo of herself, fires her for going to kitchen](https://www.dailydot.com/irl/remote-worker-klarna-webcam-photo-tiktok/)
 * [2022-07-16, 21:17:45](https://news.ycombinator.com/item?id=32122065) - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 * [2022-07-16, 21:12:04](https://news.ycombinator.com/item?id=32122028) - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 * [2022-07-16, 21:00:43](https://news.ycombinator.com/item?id=32121923) - [Skio is hiring (NYC/remote) – Subscriptions for Shopify (ReCharge migrations)](https://skio.com/careers/)
@@ -22,6 +21,7 @@
 * [2022-07-16, 12:50:55](https://news.ycombinator.com/item?id=32117519) - [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
 * [2022-07-16, 12:47:27](https://news.ycombinator.com/item?id=32117489) - [Ask HN: What is with the new URLs on facebook.com?](https://news.ycombinator.com/item?id=32117489)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+* [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson (2019)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
 * [2022-07-15, 07:24:55](https://news.ycombinator.com/item?id=32105616) - [Life Cycle of a Hornet Colony](http://www.vespa-crabro.com/hornets2.htm)
