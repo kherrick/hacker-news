@@ -62,6 +62,7 @@
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
 * [2022-07-15, 07:51:27](https://news.ycombinator.com/item?id=32105792) - [Applause – Web archive with astronomical photographic plates](https://www.plate-archive.org/cms/)
 * [2022-07-15, 07:50:24](https://news.ycombinator.com/item?id=32105782) - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
+* [2022-07-15, 07:24:55](https://news.ycombinator.com/item?id=32105616) - [Life Cycle of a Hornet Colony](http://www.vespa-crabro.com/hornets2.htm)
 * [2022-07-15, 07:07:22](https://news.ycombinator.com/item?id=32105494) - [The Democrats need to wake up and stop pandering to their extremes](https://www.economist.com/leaders/2022/07/14/the-democrats-need-to-wake-up-and-stop-pandering-to-their-extremes)
 * [2022-07-15, 07:00:08](https://news.ycombinator.com/item?id=32105443) - [Terra (YC W21) Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
 * [2022-07-15, 06:51:43](https://news.ycombinator.com/item?id=32105391) - [Brazil's Answer to the Sichuan Pepper](https://www.bbc.com/travel/article/20220707-brazils-answer-to-the-sichuan-pepper)

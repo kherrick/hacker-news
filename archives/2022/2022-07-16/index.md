@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 18:36:36](https://news.ycombinator.com/item?id=32120663) - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
 * [2022-07-16, 18:13:33](https://news.ycombinator.com/item?id=32120478) - [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [2022-07-16, 17:44:15](https://news.ycombinator.com/item?id=32120246) - [When Coal First Arrived, Americans Said 'No Thanks'](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
