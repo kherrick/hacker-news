@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-07-16, 10:59:29",
-      "https://news.ycombinator.com/item?id=32116877"
-    ],
-    [
-      "XML-RPC Specification (1999)",
-      "http://xmlrpc.com/spec.md"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 08:23:58",
       "https://news.ycombinator.com/item?id=32116184"
     ],
@@ -267,6 +257,16 @@
     [
       "Life Cycle of a Hornet Colony",
       "http://www.vespa-crabro.com/hornets2.htm"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 05:07:18",
+      "https://news.ycombinator.com/item?id=32104805"
+    ],
+    [
+      "Microsoft open sources Salus software bill of materials (SBOM) generation tool",
+      "https://devblogs.microsoft.com/engineering-at-microsoft/microsoft-open-sources-salus-software-bill-of-materials-sbom-generation-tool/"
     ]
   ],
   [
