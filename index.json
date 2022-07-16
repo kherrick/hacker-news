@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-07-16, 08:50:47",
+      "https://news.ycombinator.com/item?id=32116281"
+    ],
+    [
+      "Pipenv: Promises a Lot, Delivers Little",
+      "https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 08:23:58",
       "https://news.ycombinator.com/item?id=32116184"
     ],
@@ -37,16 +47,6 @@
     [
       "Deno’s July 13th incident update",
       "https://deno.com/blog/2022-07-13-outage-post-mortem"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 07:57:09",
-      "https://news.ycombinator.com/item?id=32116070"
-    ],
-    [
-      "I deleted 78% of my Redis container and it still works",
-      "https://medium.com/@codervinod/i-deleted-78-of-my-redis-container-and-it-still-works-df8310a3a007"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-07-15, 23:34:03",
-      "https://news.ycombinator.com/item?id=32113864"
-    ],
-    [
-      "Designing the Characters of 'Cowboy Bebop'",
-      "https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 23:28:46",
       "https://news.ycombinator.com/item?id=32113825"
     ],
@@ -167,6 +157,16 @@
     [
       "Advice for the next dozen Rust GUIs",
       "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 21:00:06",
+      "https://news.ycombinator.com/item?id=32112763"
+    ],
+    [
+      "Smarking (YC W15) Is Hiring a Staff ML Engineer",
+      "https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60"
     ]
   ],
   [
