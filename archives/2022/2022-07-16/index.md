@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
+* [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
 * [2022-07-16, 15:22:06](https://news.ycombinator.com/item?id=32119002) - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 * [2022-07-16, 15:17:05](https://news.ycombinator.com/item?id=32118950) - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
 * [2022-07-16, 15:04:39](https://news.ycombinator.com/item?id=32118818) - [Why Rails Buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)

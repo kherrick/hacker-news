@@ -63,6 +63,7 @@
 * [2022-07-14, 10:28:12](https://news.ycombinator.com/item?id=32094153) - [It's All Just an Old Videogame](https://www.ioann.xyz/p/its-all-just-an-old-videogame)
 * [2022-07-14, 10:25:50](https://news.ycombinator.com/item?id=32094142) - [Crypto Winter, or Crypto Ice Age?](https://www.technollama.co.uk/crypto-winter-or-crypto-ice-age)
 * [2022-07-14, 10:09:06](https://news.ycombinator.com/item?id=32094046) - [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
+* [2022-07-14, 10:04:25](https://news.ycombinator.com/item?id=32094021) - [The Curse of the Hasselblad XPan](https://casualphotophile.com/2022/07/08/hasselblad-xpan-review/)
 * [2022-07-14, 09:56:15](https://news.ycombinator.com/item?id=32093987) - [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
 * [2022-07-14, 09:45:40](https://news.ycombinator.com/item?id=32093929) - [Node-Red 3.0 Released](https://nodered.org/blog/2022/07/14/version-3-0-released)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)

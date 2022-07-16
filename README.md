@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
+* [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
 * [2022-07-16, 15:22:06](https://news.ycombinator.com/item?id=32119002) - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 * [2022-07-16, 15:17:05](https://news.ycombinator.com/item?id=32118950) - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
 * [2022-07-16, 15:04:39](https://news.ycombinator.com/item?id=32118818) - [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
@@ -25,11 +27,9 @@
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/?)
 * [2022-07-15, 10:13:02](https://news.ycombinator.com/item?id=32106556) - [Severely deficient autobiographical memory (SDAM) in healthy adults (2015)](https://www.sciencedirect.com/science/article/pii/S002839321500158X)
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
-* [2022-07-15, 07:51:27](https://news.ycombinator.com/item?id=32105792) - [Applause – Web archive with astronomical photographic plates](https://www.plate-archive.org/cms/)
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
-* [2022-07-14, 11:33:58](https://news.ycombinator.com/item?id=32094566) - [The Blockchain in a Historical Perspective](https://www.jonstokes.com/p/the-blockchain-in-historical-perspective)
+* [2022-07-14, 10:04:25](https://news.ycombinator.com/item?id=32094021) - [The Curse of the Hasselblad XPan](https://casualphotophile.com/2022/07/08/hasselblad-xpan-review/)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
-* [2022-07-14, 07:21:36](https://news.ycombinator.com/item?id=32093002) - [OctoSQL allows you to join data from different sources using SQL](https://github.com/cube2222/octosql)
 
 ## [Archives](archives/index.md)
 
