@@ -22,7 +22,6 @@
 * [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 03:45:13](https://news.ycombinator.com/item?id=32115059) - [Learning The Elite Class](https://aella.substack.com/p/learning-the-elite-class)
-* [2022-07-16, 00:29:30](https://news.ycombinator.com/item?id=32114194) - [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/?)
 * [2022-07-15, 10:13:02](https://news.ycombinator.com/item?id=32106556) - [Severely deficient autobiographical memory (SDAM) in healthy adults (2015)](https://www.sciencedirect.com/science/article/pii/S002839321500158X)
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
@@ -30,6 +29,7 @@
 * [2022-07-14, 12:08:33](https://news.ycombinator.com/item?id=32094854) - [If You’re Scared You’re Winning (2019)](https://pam-moore.com/2019/01/16/if-youre-scared-youre-winning/)
 * [2022-07-14, 11:39:10](https://news.ycombinator.com/item?id=32094603) - [OpenDroneMap](https://www.opendronemap.org/)
 * [2022-07-14, 09:39:22](https://news.ycombinator.com/item?id=32093879) - [Ask HN: What is best way to do hands-on practice for system design?](https://news.ycombinator.com/item?id=32093879)
+* [2022-07-14, 07:21:36](https://news.ycombinator.com/item?id=32093002) - [OctoSQL allows you to join data from different sources using SQL](https://github.com/cube2222/octosql)
 
 ## [Archives](archives/index.md)
 
