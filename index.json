@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=32124964"
     ],
     [
-      "Bill Watterson, Picasso, and HN on self promotion",
+      "Bill Watterson, Picasso, and self promotion",
       "https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "I just finished reading a book and took lots of notes. Now what?",
       "https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 01:43:21",
+      "https://news.ycombinator.com/item?id=32123655"
+    ],
+    [
+      "Tehran’s Red-Light District",
+      "https://failedarchitecture.com/the-hidden-history-of-tehrans-red-light-district/"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2022-07-16, 17:42:19",
-      "https://news.ycombinator.com/item?id=32120230"
-    ],
-    [
-      "Invisible XML is a language for describing the implicit structure of data",
-      "https://invisiblexml.org/"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 16:56:55",
-      "https://news.ycombinator.com/item?id=32119828"
-    ],
-    [
-      "The Rise and Fall of the Manufactured Home – Part I",
-      "https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 16:37:05",
       "https://news.ycombinator.com/item?id=32119636"
     ],
@@ -181,12 +171,42 @@
   ],
   [
     [
+      "2022-07-16, 15:04:39",
+      "https://news.ycombinator.com/item?id=32118818"
+    ],
+    [
+      "Why rails buckle in Britain",
+      "https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 08:23:58",
+      "https://news.ycombinator.com/item?id=32116184"
+    ],
+    [
+      "Bill Watterson’s refusal to license Calvin and Hobbes (2016)",
+      "https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes"
+    ]
+  ],
+  [
+    [
       "2022-07-16, 05:00:54",
       "https://news.ycombinator.com/item?id=32115354"
     ],
     [
       "The Book of Experiments (1958) [pdf]",
       "https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 02:27:05",
+      "https://news.ycombinator.com/item?id=32114760"
+    ],
+    [
+      "Visual cryptography for physical keyrings",
+      "https://hackaday.com/2022/07/14/visual-cryptography-for-physical-keyrings/"
     ]
   ],
   [
@@ -207,6 +227,16 @@
     [
       "The Literary Games of Fernando Pessoa",
       "https://www.thenation.com/article/culture/fernando-pessoa-biography/"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 10:43:44",
+      "https://news.ycombinator.com/item?id=32106761"
+    ],
+    [
+      "Algorithms by Jeff Erickson (2019)",
+      "https://jeffe.cs.illinois.edu/teaching/algorithms/"
     ]
   ],
   [
@@ -255,48 +285,18 @@
       "https://news.ycombinator.com/item?id=32104592"
     ],
     [
-      "The Only Algorithm for Hard Problems: Shake and Pull Gently",
+      "The Algorithm for Hard Problems: Shake and Pull Gently",
       "https://kazimuth.github.io/blog/post/shake-and-pull-gently/"
     ]
   ],
   [
     [
-      "2022-07-13, 10:39:23",
-      "https://news.ycombinator.com/item?id=32080903"
+      "2022-07-14, 08:23:05",
+      "https://news.ycombinator.com/item?id=32093452"
     ],
     [
-      "How “let it fail” leads to simpler code",
-      "https://yiming.dev/blog/2022/07/10/how-let-it-fail-leads-to-simpler-code/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 10:38:29",
-      "https://news.ycombinator.com/item?id=32080899"
-    ],
-    [
-      "Wails: Build cross-platform applications using Go",
-      "https://wails.io/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 09:36:41",
-      "https://news.ycombinator.com/item?id=32080559"
-    ],
-    [
-      "The pistol shrimp is immune to its own powerful shock waves",
-      "https://arstechnica.com/science/2022/07/pistol-shrimp-sport-tiny-helmets-to-protect-selves-from-their-own-shock-waves/"
-    ]
-  ],
-  [
-    [
-      "2022-07-13, 09:30:16",
-      "https://news.ycombinator.com/item?id=32080526"
-    ],
-    [
-      "Tool for Euclidean geometry aware of logic",
-      "https://github.com/mirefek/geo_logic"
+      "Schönhage–Strassen Algorithm",
+      "https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm"
     ]
   ]
 ]
