@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
 * [2022-07-17, 17:53:16](https://news.ycombinator.com/item?id=32129209) - [OpenVMS v9.2 for x86 is Available](https://vmssoftware.com/about/news/2022-07-14-openvms-v92-for-x86-announced/)
+* [2022-07-17, 17:51:05](https://news.ycombinator.com/item?id=32129186) - [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
+* [2022-07-17, 17:42:12](https://news.ycombinator.com/item?id=32129089) - [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
+* [2022-07-17, 17:38:54](https://news.ycombinator.com/item?id=32129059) - [35 years of 'RoboCop': An unforgettable vision of techno-fascist America](https://faroutmagazine.co.uk/35-years-robocop-techno-fascist-america/)
 * [2022-07-17, 17:34:23](https://news.ycombinator.com/item?id=32129010) - [Does this idea make any sense?](https://www.rebaseapps.com)
 * [2022-07-17, 17:28:14](https://news.ycombinator.com/item?id=32128931) - [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
 * [2022-07-17, 17:23:56](https://news.ycombinator.com/item?id=32128891) - [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)

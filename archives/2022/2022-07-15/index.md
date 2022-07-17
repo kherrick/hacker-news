@@ -10,6 +10,7 @@
 * [2022-07-15, 22:02:54](https://news.ycombinator.com/item?id=32113263) - [FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 * [2022-07-15, 21:56:38](https://news.ycombinator.com/item?id=32113221) - [African kings on medieval and Renaissance maps](https://blogs.bl.uk/digitisedmanuscripts/2022/07/african-kings.html)
 * [2022-07-15, 21:26:34](https://news.ycombinator.com/item?id=32112990) - [Show HN: Owlkettle – A Declarative user interface framework based on GTK 4](https://github.com/can-lehmann/owlkettle)
+* [2022-07-15, 21:17:54](https://news.ycombinator.com/item?id=32112908) - [Why does ancient Egypt's distinctive art style make everything look flat?](https://www.livescience.com/why-ancient-egyptian-art-2d)
 * [2022-07-15, 21:09:54](https://news.ycombinator.com/item?id=32112846) - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 * [2022-07-15, 21:03:23](https://news.ycombinator.com/item?id=32112793) - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022-07-15, 21:00:06](https://news.ycombinator.com/item?id=32112763) - [Smarking (YC W15) Is Hiring Staff ML Eng to Digitize $655B Parking Industry](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
