@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-17, 19:59:13",
+      "https://news.ycombinator.com/item?id=32130626"
+    ],
+    [
+      "Sitting and Standing at Work",
+      "http://ergo.human.cornell.edu/CUESitStand.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 19:41:54",
+      "https://news.ycombinator.com/item?id=32130444"
+    ],
+    [
+      "How I made advanced BI queries child's play with Scratch puzzle pieces",
+      "https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 19:30:26",
+      "https://news.ycombinator.com/item?id=32130313"
+    ],
+    [
+      "JavaScript Obfuscation Techniques by Example",
+      "https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/"
+    ]
+  ],
+  [
+    [
       "2022-07-17, 18:28:50",
       "https://news.ycombinator.com/item?id=32129574"
     ],
@@ -21,42 +51,12 @@
   ],
   [
     [
-      "2022-07-17, 17:51:05",
-      "https://news.ycombinator.com/item?id=32129186"
-    ],
-    [
-      "Tor – Onion Browser for iPhone and iPad",
-      "https://onionbrowser.com/about"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 17:43:31",
       "https://news.ycombinator.com/item?id=32129100"
     ],
     [
       "Facebook has started to encrypt links to counter privacy-improving URL Stripping",
       "https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 17:42:12",
-      "https://news.ycombinator.com/item?id=32129089"
-    ],
-    [
-      "Show HN: Uber for Coding — Build product with bounties",
-      "https://algora.io"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 17:34:23",
-      "https://news.ycombinator.com/item?id=32129010"
-    ],
-    [
-      "Ask HN: Does this idea make any sense?",
-      "https://news.ycombinator.com/item?id=32129010"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-07-17, 13:22:42",
-      "https://news.ycombinator.com/item?id=32126537"
-    ],
-    [
-      "New numbers on music consumption",
-      "https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 11:32:59",
       "https://news.ycombinator.com/item?id=32125933"
     ],
@@ -277,6 +267,16 @@
     [
       "Excel: Getting Rid of Everything Except Numbers",
       "https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 07:20:30",
+      "https://news.ycombinator.com/item?id=32115918"
+    ],
+    [
+      "Can you hear the shape of a graph?",
+      "https://mathweb.ucsd.edu/~fan/hear/index.html"
     ]
   ],
   [
