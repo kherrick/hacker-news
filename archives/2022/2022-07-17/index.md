@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 13:37:33](https://news.ycombinator.com/item?id=32126637) - [I've started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
+* [2022-07-17, 13:22:42](https://news.ycombinator.com/item?id=32126537) - [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
+* [2022-07-17, 13:09:45](https://news.ycombinator.com/item?id=32126438) - [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
 * [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 * [2022-07-17, 11:42:35](https://news.ycombinator.com/item?id=32125972) - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
 * [2022-07-17, 11:38:06](https://news.ycombinator.com/item?id=32125951) - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
+* [2022-07-17, 11:17:01](https://news.ycombinator.com/item?id=32125868) - [Pleasant Debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
 * [2022-07-17, 11:14:13](https://news.ycombinator.com/item?id=32125859) - [FPGA Mel-Frequency Cepstrum](http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/)
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
