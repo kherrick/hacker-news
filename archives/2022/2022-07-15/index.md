@@ -83,6 +83,7 @@
 * [2022-07-15, 04:40:42](https://news.ycombinator.com/item?id=32104669) - [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 * [2022-07-15, 04:37:29](https://news.ycombinator.com/item?id=32104656) - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 * [2022-07-15, 04:27:30](https://news.ycombinator.com/item?id=32104609) - [SearchHut](https://searchhut.org/)
+* [2022-07-15, 04:24:20](https://news.ycombinator.com/item?id=32104592) - [The Only Algorithm for Hard Problems: Shake and Pull Gently](https://kazimuth.github.io/blog/post/shake-and-pull-gently/)
 * [2022-07-15, 03:07:51](https://news.ycombinator.com/item?id=32104194) - [We discovered a 7-year old performance Issue in Elixir (2020)](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
 * [2022-07-15, 02:26:31](https://news.ycombinator.com/item?id=32103959) - [Lin Zexu's Letter to Queen Victoria (1839)](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
 * [2022-07-15, 02:17:48](https://news.ycombinator.com/item?id=32103900) - [The Logic of Envy](https://robkhenderson.substack.com/p/the-logic-of-envy)
