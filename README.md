@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-17, 13:37:33](https://news.ycombinator.com/item?id=32126637) - [I've started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
+* [2022-07-17, 13:25:22](https://news.ycombinator.com/item?id=32126563) - [Ask HN: One team lead always builds a monoethnic team. What to do?](https://news.ycombinator.com/item?id=32126563)
 * [2022-07-17, 13:22:42](https://news.ycombinator.com/item?id=32126537) - [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
 * [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 * [2022-07-17, 11:38:06](https://news.ycombinator.com/item?id=32125951) - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
@@ -22,7 +23,6 @@
 * [2022-07-17, 01:43:21](https://news.ycombinator.com/item?id=32123655) - [Tehran’s Red-Light District](https://failedarchitecture.com/the-hidden-history-of-tehrans-red-light-district/)
 * [2022-07-17, 00:42:33](https://news.ycombinator.com/item?id=32123309) - [Dr. DOS Betamax's DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
-* [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 02:27:05](https://news.ycombinator.com/item?id=32114760) - [Visual cryptography for physical keyrings](https://hackaday.com/2022/07/14/visual-cryptography-for-physical-keyrings/)
 * [2022-07-15, 21:56:38](https://news.ycombinator.com/item?id=32113221) - [African kings on medieval and Renaissance maps](https://blogs.bl.uk/digitisedmanuscripts/2022/07/african-kings.html)
 * [2022-07-15, 19:34:41](https://news.ycombinator.com/item?id=32111909) - [The Literary Games of Fernando Pessoa](https://www.thenation.com/article/culture/fernando-pessoa-biography/)

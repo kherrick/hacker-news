@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
 * [2022-07-17, 13:37:33](https://news.ycombinator.com/item?id=32126637) - [I've started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
+* [2022-07-17, 13:25:22](https://news.ycombinator.com/item?id=32126563) - [Ask HN: One team lead always builds a monoethnic team. What to do?](https://news.ycombinator.com/item?id=32126563)
 * [2022-07-17, 13:22:42](https://news.ycombinator.com/item?id=32126537) - [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
 * [2022-07-17, 13:09:45](https://news.ycombinator.com/item?id=32126438) - [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
 * [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
