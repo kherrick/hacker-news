@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 07:02:03](https://news.ycombinator.com/item?id=32125019) - [Stacker (YC S20) Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
 * [2022-07-17, 06:43:05](https://news.ycombinator.com/item?id=32124964) - [Bill Watterson, Picasso, and self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
 * [2022-07-17, 05:57:49](https://news.ycombinator.com/item?id=32124809) - [Ask HN: How to deal with children's online habits?](https://news.ycombinator.com/item?id=32124809)
@@ -19,7 +20,6 @@
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [2022-07-16, 15:04:39](https://news.ycombinator.com/item?id=32118818) - [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
-* [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 02:27:05](https://news.ycombinator.com/item?id=32114760) - [Visual cryptography for physical keyrings](https://hackaday.com/2022/07/14/visual-cryptography-for-physical-keyrings/)
 * [2022-07-15, 21:56:38](https://news.ycombinator.com/item?id=32113221) - [African kings on medieval and Renaissance maps](https://blogs.bl.uk/digitisedmanuscripts/2022/07/african-kings.html)
