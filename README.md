@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 11:38:06](https://news.ycombinator.com/item?id=32125951) - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
@@ -20,7 +21,6 @@
 * [2022-07-16, 20:51:48](https://news.ycombinator.com/item?id=32121846) - [Show HN: A compiler and VM for a simple language, in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 * [2022-07-16, 18:15:15](https://news.ycombinator.com/item?id=32120495) - [Will AI steal submarines’ stealth?](https://spectrum.ieee.org/nuclear-submarine)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
-* [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [Bill Watterson’s refusal to license Calvin and Hobbes (2016)](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 02:27:05](https://news.ycombinator.com/item?id=32114760) - [Visual cryptography for physical keyrings](https://hackaday.com/2022/07/14/visual-cryptography-for-physical-keyrings/)
 * [2022-07-15, 21:56:38](https://news.ycombinator.com/item?id=32113221) - [African kings on medieval and Renaissance maps](https://blogs.bl.uk/digitisedmanuscripts/2022/07/african-kings.html)
