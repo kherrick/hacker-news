@@ -71,6 +71,7 @@
 * [2022-07-14, 08:48:16](https://news.ycombinator.com/item?id=32093619) - [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
 * [2022-07-14, 08:27:58](https://news.ycombinator.com/item?id=32093486) - [Uncovering a macOS App Sandbox escape vulnerability](https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/)
 * [2022-07-14, 08:25:49](https://news.ycombinator.com/item?id=32093469) - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
+* [2022-07-14, 08:23:05](https://news.ycombinator.com/item?id=32093452) - [Schönhage–Strassen Algorithm](https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm)
 * [2022-07-14, 07:33:49](https://news.ycombinator.com/item?id=32093094) - [200 Years of Frankenstein (2018)](https://www.themarginalian.org/2018/06/14/frankenstein-science-mit-massive/)
 * [2022-07-14, 07:27:56](https://news.ycombinator.com/item?id=32093039) - [What I learned from trying to hang Socrates](https://1517.substack.com/p/what-i-learned-from-trying-to-hang)
 * [2022-07-14, 07:21:36](https://news.ycombinator.com/item?id=32093002) - [OctoSQL allows you to join data from different sources using SQL](https://github.com/cube2222/octosql)
