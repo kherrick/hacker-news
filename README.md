@@ -14,6 +14,7 @@
 * [2022-07-17, 17:28:14](https://news.ycombinator.com/item?id=32128931) - [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
 * [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The slow march of progress in programming language tooling](https://earthly.dev/blog/programming-language-improvements/)
+* [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why am I excited about WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Show HN: Netflix Calculator](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A blog platform for hackers](https://prose.sh/)
 * [2022-07-17, 15:25:42](https://news.ycombinator.com/item?id=32127622) - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
@@ -28,7 +29,6 @@
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 08:01:34](https://news.ycombinator.com/item?id=32116088) - [Excel: Getting rid of everything except numbers](https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html)
 * [2022-07-16, 07:20:30](https://news.ycombinator.com/item?id=32115918) - [Can you hear the shape of a graph?](https://mathweb.ucsd.edu/~fan/hear/index.html)
-* [2022-07-15, 21:17:54](https://news.ycombinator.com/item?id=32112908) - [Why does ancient Egypt's distinctive art style make everything look flat?](https://www.livescience.com/why-ancient-egyptian-art-2d)
 * [2022-07-15, 10:12:34](https://news.ycombinator.com/item?id=32106555) - [Fizzy Change: The Sounds of Fermentation (2021)](https://hii-mag.com/article/fizzy-change-the-sounds-of-fermentation?src=longreads)
 
 ## [Archives](archives/index.md)
