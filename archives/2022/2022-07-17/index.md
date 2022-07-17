@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 15:37:43](https://news.ycombinator.com/item?id=32127736) - [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
 * [2022-07-17, 15:25:42](https://news.ycombinator.com/item?id=32127622) - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
 * [2022-07-17, 14:57:32](https://news.ycombinator.com/item?id=32127363) - [ʕ•ᴥ•ʔ Bear. A privacy-first, no-nonsense, super-fast blogging platform](https://bearblog.dev)
 * [2022-07-17, 14:56:25](https://news.ycombinator.com/item?id=32127355) - [Against Food](https://jayriverlong.substack.com/p/42-against-food)
