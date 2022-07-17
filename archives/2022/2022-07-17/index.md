@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 17:53:16](https://news.ycombinator.com/item?id=32129209) - [OpenVMS v9.2 for x86 is Available](https://vmssoftware.com/about/news/2022-07-14-openvms-v92-for-x86-announced/)
+* [2022-07-17, 17:34:23](https://news.ycombinator.com/item?id=32129010) - [Does this idea make any sense?](https://www.rebaseapps.com)
+* [2022-07-17, 17:28:14](https://news.ycombinator.com/item?id=32128931) - [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
 * [2022-07-17, 17:23:56](https://news.ycombinator.com/item?id=32128891) - [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
 * [2022-07-17, 17:23:36](https://news.ycombinator.com/item?id=32128886) - [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 * [2022-07-17, 17:07:18](https://news.ycombinator.com/item?id=32128678) - [How to Tax Cloud Computing?](https://interconnected.blog/how-do-we-tax-cloud-computing/)

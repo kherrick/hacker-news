@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 17:53:16](https://news.ycombinator.com/item?id=32129209) - [OpenVMS v9.2 for x86 is Available](https://vmssoftware.com/about/news/2022-07-14-openvms-v92-for-x86-announced/)
+* [2022-07-17, 17:34:23](https://news.ycombinator.com/item?id=32129010) - [Does this idea make any sense?](https://www.rebaseapps.com)
+* [2022-07-17, 17:28:14](https://news.ycombinator.com/item?id=32128931) - [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
 * [2022-07-17, 17:23:56](https://news.ycombinator.com/item?id=32128891) - [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
 * [2022-07-17, 17:23:36](https://news.ycombinator.com/item?id=32128886) - [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
@@ -23,13 +26,10 @@
 * [2022-07-17, 11:17:01](https://news.ycombinator.com/item?id=32125868) - [Pleasant debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
-* [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Dye-sensitized solar cell material will charge in any environment](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
 * [2022-07-16, 08:01:34](https://news.ycombinator.com/item?id=32116088) - [Excel: Getting Rid of Everything Except Numbers](https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html)
-* [2022-07-15, 11:58:32](https://news.ycombinator.com/item?id=32107187) - [A Deep Dive on a Thin Watch](https://www.hodinkee.com/articles/the-richard-mille-rm-up-01-a-very-deep-dive-on-a-very-thin-watch)
 * [2022-07-15, 10:10:59](https://news.ycombinator.com/item?id=32106546) - [Can Analog Make a Comeback?](https://semiengineering.com/can-analog-make-a-comeback/)
 * [2022-07-15, 09:54:15](https://news.ycombinator.com/item?id=32106455) - [Mini Hollywood: The fake town in Spain used to create Western movies](https://faroutmagazine.co.uk/fake-town-spain-create-western-movies/)
 * [2022-07-15, 09:51:49](https://news.ycombinator.com/item?id=32106442) - [Integer math in JavaScript](https://james.darpinian.com/blog/integer-math-in-javascript)
-* [2022-07-15, 05:05:48](https://news.ycombinator.com/item?id=32104791) - [Designing the Characters of 'Cowboy Bebop'](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
 
 ## [Archives](archives/index.md)
 
