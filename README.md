@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 17:07:18](https://news.ycombinator.com/item?id=32128678) - [How to Tax Cloud Computing?](https://interconnected.blog/how-do-we-tax-cloud-computing/)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
+* [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
@@ -19,8 +21,6 @@
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Dye-sensitized solar cell material will charge in any environment](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
-* [2022-07-17, 02:10:48](https://news.ycombinator.com/item?id=32123804) - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
-* [2022-07-17, 02:05:13](https://news.ycombinator.com/item?id=32123781) - [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [2022-07-16, 08:01:34](https://news.ycombinator.com/item?id=32116088) - [Excel: Getting Rid of Everything Except Numbers](https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html)
 * [2022-07-15, 21:56:38](https://news.ycombinator.com/item?id=32113221) - [African kings on medieval and Renaissance maps](https://blogs.bl.uk/digitisedmanuscripts/2022/07/african-kings.html)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 17:07:18](https://news.ycombinator.com/item?id=32128678) - [How to Tax Cloud Computing?](https://interconnected.blog/how-do-we-tax-cloud-computing/)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
 * [2022-07-17, 16:44:13](https://news.ycombinator.com/item?id=32128405) - [German Government Lied About Nuclear](https://michaelshellenberger.substack.com/p/anti-nuke-greens-menace-europe)
+* [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
