@@ -48,6 +48,7 @@
 * [2022-07-15, 12:34:52](https://news.ycombinator.com/item?id=32107434) - [Pledge() and Unveil() in SerenityOS (2020)](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
 * [2022-07-15, 12:14:55](https://news.ycombinator.com/item?id=32107287) - [Show HN: Eesel – Federated search without API integrations](https://www.eesel.app/)
 * [2022-07-15, 12:00:32](https://news.ycombinator.com/item?id=32107199) - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+* [2022-07-15, 11:58:32](https://news.ycombinator.com/item?id=32107187) - [A Deep Dive on a Thin Watch](https://www.hodinkee.com/articles/the-richard-mille-rm-up-01-a-very-deep-dive-on-a-very-thin-watch)
 * [2022-07-15, 11:23:28](https://news.ycombinator.com/item?id=32106993) - [Ask HN: How have you deGoogled your life?](https://news.ycombinator.com/item?id=32106993)
 * [2022-07-15, 11:15:54](https://news.ycombinator.com/item?id=32106953) - [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
 * [2022-07-15, 10:51:07](https://news.ycombinator.com/item?id=32106808) - [Being declared dead is automated, so why is resurrection such a nightmare?](https://www.theregister.com/2022/07/15/something_for_the_weekend/)

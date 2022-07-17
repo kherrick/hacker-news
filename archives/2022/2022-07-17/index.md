@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 14:57:32](https://news.ycombinator.com/item?id=32127363) - [ʕ•ᴥ•ʔ Bear. A privacy-first, no-nonsense, super-fast blogging platform](https://bearblog.dev)
+* [2022-07-17, 14:56:25](https://news.ycombinator.com/item?id=32127355) - [Against Food](https://jayriverlong.substack.com/p/42-against-food)
+* [2022-07-17, 14:12:25](https://news.ycombinator.com/item?id=32126919) - [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
+* [2022-07-17, 13:38:01](https://news.ycombinator.com/item?id=32126642) - [Where is there more livestock than people?](https://erdavis.com/2022/06/21/where-is-there-more-livestock-than-people/)
 * [2022-07-17, 13:37:33](https://news.ycombinator.com/item?id=32126637) - [I've started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
 * [2022-07-17, 13:25:22](https://news.ycombinator.com/item?id=32126563) - [Ask HN: One team lead always builds a monoethnic team. What to do?](https://news.ycombinator.com/item?id=32126563)
 * [2022-07-17, 13:22:42](https://news.ycombinator.com/item?id=32126537) - [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
