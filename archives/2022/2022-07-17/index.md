@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 23:43:55](https://news.ycombinator.com/item?id=32132746) - ['I want your Instagram account': a deadly campaign over coveted handles](https://www.businessinsider.com/handles-instagram-twitter-social-media-deadly-harassment-campaign-2022-7)
+* [2022-07-17, 23:26:30](https://news.ycombinator.com/item?id=32132591) - [90% of Plankton in Atlantic gone, new study suggests](https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/)
 * [2022-07-17, 23:10:09](https://news.ycombinator.com/item?id=32132469) - [Effect of fruit rich diet on liver biomarkers, insulin resistance, lipid profile](https://pubmed.ncbi.nlm.nih.gov/35710164/)
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)

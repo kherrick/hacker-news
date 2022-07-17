@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 23:43:55](https://news.ycombinator.com/item?id=32132746) - ['I want your Instagram account': a deadly campaign over coveted handles](https://www.businessinsider.com/handles-instagram-twitter-social-media-deadly-harassment-campaign-2022-7)
+* [2022-07-17, 23:26:30](https://news.ycombinator.com/item?id=32132591) - [90% of Plankton in Atlantic gone, new study suggests](https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/)
 * [2022-07-17, 23:10:09](https://news.ycombinator.com/item?id=32132469) - [Effect of fruit rich diet on liver biomarkers, insulin resistance, lipid profile](https://pubmed.ncbi.nlm.nih.gov/35710164/)
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
@@ -21,7 +23,6 @@
 * [2022-07-17, 14:32:41](https://news.ycombinator.com/item?id=32127135) - [We demand data – The story of Lucid and eduction](https://billwadge.com/2022/07/17/we-demand-data-the-story-of-lucid-and-eduction/)
 * [2022-07-17, 13:38:01](https://news.ycombinator.com/item?id=32126642) - [Where is there more livestock than people?](https://erdavis.com/2022/06/21/where-is-there-more-livestock-than-people/)
 * [2022-07-17, 13:37:33](https://news.ycombinator.com/item?id=32126637) - [I've started using Firefox and can never go back to Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
-* [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
 * [2022-07-17, 05:57:49](https://news.ycombinator.com/item?id=32124809) - [Ask HN: How to deal with children's online habits?](https://news.ycombinator.com/item?id=32124809)
@@ -29,7 +30,6 @@
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 08:15:14](https://news.ycombinator.com/item?id=32116145) - [Is JPEG 2000 a preservation risk? (2013)](https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/)
 * [2022-07-16, 07:20:30](https://news.ycombinator.com/item?id=32115918) - [Can you hear the shape of a graph?](https://mathweb.ucsd.edu/~fan/hear/index.html)
-* [2022-07-15, 10:12:34](https://news.ycombinator.com/item?id=32106555) - [Fizzy Change: The Sounds of Fermentation (2021)](https://hii-mag.com/article/fizzy-change-the-sounds-of-fermentation?src=longreads)
 
 ## [Archives](archives/index.md)
 
