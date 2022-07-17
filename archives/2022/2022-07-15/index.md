@@ -59,6 +59,7 @@
 * [2022-07-15, 10:13:02](https://news.ycombinator.com/item?id=32106556) - [Severely deficient autobiographical memory (SDAM) in healthy adults (2015)](https://www.sciencedirect.com/science/article/pii/S002839321500158X)
 * [2022-07-15, 10:10:59](https://news.ycombinator.com/item?id=32106546) - [Can Analog Make a Comeback?](https://semiengineering.com/can-analog-make-a-comeback/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
+* [2022-07-15, 09:54:15](https://news.ycombinator.com/item?id=32106455) - [Mini Hollywood: The fake town in Spain used to create Western movies](https://faroutmagazine.co.uk/fake-town-spain-create-western-movies/)
 * [2022-07-15, 09:51:49](https://news.ycombinator.com/item?id=32106442) - [Integer Math in JavaScript](https://james.darpinian.com/blog/integer-math-in-javascript)
 * [2022-07-15, 09:51:31](https://news.ycombinator.com/item?id=32106441) - [Project Fear](https://paperstack.com/project_fear/)
 * [2022-07-15, 09:41:15](https://news.ycombinator.com/item?id=32106380) - [Ask HN: Experiences with low-code systems (Budibase,Appsmith etc.)?](https://news.ycombinator.com/item?id=32106380)
