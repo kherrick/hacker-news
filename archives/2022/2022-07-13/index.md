@@ -62,6 +62,7 @@
 * [2022-07-13, 10:16:11](https://news.ycombinator.com/item?id=32080766) - [Show HN: PyCircTools – Build digital circuits using Python](https://github.com/LovetheFrogs/PyCircTools)
 * [2022-07-13, 10:12:15](https://news.ycombinator.com/item?id=32080741) - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 * [2022-07-13, 09:49:53](https://news.ycombinator.com/item?id=32080617) - [Calculus Homework Help Online](https://www.studyhab.com/t/calculus)
+* [2022-07-13, 09:36:41](https://news.ycombinator.com/item?id=32080559) - [The pistol shrimp is immune to its own powerful shock waves](https://arstechnica.com/science/2022/07/pistol-shrimp-sport-tiny-helmets-to-protect-selves-from-their-own-shock-waves/)
 * [2022-07-13, 09:36:25](https://news.ycombinator.com/item?id=32080556) - [Computerized Cooking (1985)](https://diyhpl.us/~bryan/papers2/CompCook.html)
 * [2022-07-13, 09:33:39](https://news.ycombinator.com/item?id=32080540) - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
 * [2022-07-13, 09:30:16](https://news.ycombinator.com/item?id=32080526) - [Tool for euclidean geometry aware of logic](https://github.com/mirefek/geo_logic)

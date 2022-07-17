@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-16](index.md)
 
+* [2022-07-16, 23:14:44](https://news.ycombinator.com/item?id=32122818) - [We could have universal Covid vaccines soon](https://www.slowboring.com/p/we-could-have-universal-covid-vaccines)
 * [2022-07-16, 21:47:35](https://news.ycombinator.com/item?id=32122278) - [Byte Magazine: The FORTH programming language](https://archive.org/details/byte-magazine-1980-08)
 * [2022-07-16, 21:44:50](https://news.ycombinator.com/item?id=32122258) - [Company sends remote worker photo of herself, fires her for going to kitchen](https://www.dailydot.com/irl/remote-worker-klarna-webcam-photo-tiktok/)
 * [2022-07-16, 21:29:32](https://news.ycombinator.com/item?id=32122150) - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
