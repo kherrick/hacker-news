@@ -2,7 +2,6 @@
 
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
-* [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The case for bad coffee (2015)](https://www.seriouseats.com/the-case-for-bad-coffee)
 * [2022-07-17, 19:59:13](https://news.ycombinator.com/item?id=32130626) - [Sitting and standing at work (2015)](http://ergo.human.cornell.edu/CUESitStand.html)
 * [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [I made advanced BI queries with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
 * [2022-07-17, 19:37:33](https://news.ycombinator.com/item?id=32130401) - [Trilium Notes: note taking application for large personal knowledge bases](https://github.com/zadam/trilium)
@@ -24,6 +23,7 @@
 * [2022-07-17, 11:32:59](https://news.ycombinator.com/item?id=32125933) - [Building a radio-controlled submarine with automatic depth control](https://brickexperimentchannel.wordpress.com/rc-submarine-4-0-blog-post-series/)
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
+* [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
 * [2022-07-17, 04:23:06](https://news.ycombinator.com/item?id=32124451) - [Making holes without an electric drill](https://theplywood.com/holes-without-electric-drill/)
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 08:01:34](https://news.ycombinator.com/item?id=32116088) - [Excel: Getting rid of everything except numbers](https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html)
