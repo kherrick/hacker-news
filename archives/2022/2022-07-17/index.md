@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 17:23:36](https://news.ycombinator.com/item?id=32128886) - [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 * [2022-07-17, 17:07:18](https://news.ycombinator.com/item?id=32128678) - [How to Tax Cloud Computing?](https://interconnected.blog/how-do-we-tax-cloud-computing/)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
 * [2022-07-17, 16:44:13](https://news.ycombinator.com/item?id=32128405) - [German Government Lied About Nuclear](https://michaelshellenberger.substack.com/p/anti-nuke-greens-menace-europe)
@@ -11,6 +12,7 @@
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
+* [2022-07-17, 16:07:18](https://news.ycombinator.com/item?id=32128004) - [Commune – threaded communications built on Matrix](https://github.com/commune-org/commune)
 * [2022-07-17, 16:03:42](https://news.ycombinator.com/item?id=32127974) - [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
 * [2022-07-17, 15:37:43](https://news.ycombinator.com/item?id=32127736) - [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
 * [2022-07-17, 15:35:00](https://news.ycombinator.com/item?id=32127710) - [Understanding the make-buy question in a growing Mars city](https://caseyhandmer.wordpress.com/2022/03/29/understanding-the-make-buy-question-in-a-growing-mars-city/)
