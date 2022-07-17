@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 03:59:03](https://news.ycombinator.com/item?id=32124369) - [“Eureka moment” as Australian researchers make hydrogen storage breakthrough](https://reneweconomy.com.au/eureka-moment-as-australian-researchers-make-hydrogen-storage-breakthrough/)
 * [2022-07-17, 02:44:02](https://news.ycombinator.com/item?id=32123988) - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
 * [2022-07-17, 02:10:48](https://news.ycombinator.com/item?id=32123804) - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
 * [2022-07-17, 02:05:13](https://news.ycombinator.com/item?id=32123781) - [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
@@ -18,7 +19,6 @@
 * [2022-07-16, 16:56:55](https://news.ycombinator.com/item?id=32119828) - [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
 * [2022-07-16, 16:37:05](https://news.ycombinator.com/item?id=32119636) - [China mortgage boycott data erased by censors as crisis spreads](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
 * [2022-07-16, 15:04:39](https://news.ycombinator.com/item?id=32118818) - [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
-* [2022-07-16, 13:22:16](https://news.ycombinator.com/item?id=32117771) - ['Zero trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
 * [2022-07-16, 12:52:39](https://news.ycombinator.com/item?id=32117536) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
 * [2022-07-15, 19:34:41](https://news.ycombinator.com/item?id=32111909) - [The Literary Games of Fernando Pessoa](https://www.thenation.com/article/culture/fernando-pessoa-biography/)
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson (2019)](https://jeffe.cs.illinois.edu/teaching/algorithms/)

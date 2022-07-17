@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 03:59:03](https://news.ycombinator.com/item?id=32124369) - [“Eureka moment” as Australian researchers make hydrogen storage breakthrough](https://reneweconomy.com.au/eureka-moment-as-australian-researchers-make-hydrogen-storage-breakthrough/)
 * [2022-07-17, 02:44:02](https://news.ycombinator.com/item?id=32123988) - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
 * [2022-07-17, 02:10:48](https://news.ycombinator.com/item?id=32123804) - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
 * [2022-07-17, 02:05:13](https://news.ycombinator.com/item?id=32123781) - [I just finished reading a book and took lots of notes. Now what?](https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/)
