@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32127363"
     ],
     [
-      "ʕ•ᴥ•ʔ Bear. A privacy-first, no-nonsense, super-fast blogging platform",
+      "Bear Blog – A privacy-first, fast blogging platform",
       "https://bearblog.dev"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32126537"
     ],
     [
-      "The New Numbers on Music Consumption Are Ugly",
+      "The new numbers on music consumption are ugly",
       "https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32125868"
     ],
     [
-      "Pleasant Debugging with GDB and DDD",
+      "Pleasant debugging with GDB and DDD",
       "https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32125859"
     ],
     [
-      "FPGA Mel-Frequency Cepstrum",
+      "FPGA Mel-frequency cepstrum (2021)",
       "http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/"
     ]
   ],
@@ -141,21 +141,11 @@
   ],
   [
     [
-      "2022-07-17, 10:45:04",
-      "https://news.ycombinator.com/item?id=32125731"
-    ],
-    [
-      "Okay, Google: To protect women, collect less data about everyone",
-      "https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 10:14:43",
       "https://news.ycombinator.com/item?id=32125637"
     ],
     [
-      "Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge",
+      "Dye-sensitized solar cell material will charge in any environment",
       "https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge"
     ]
   ],
@@ -181,11 +171,21 @@
   ],
   [
     [
+      "2022-07-17, 05:50:46",
+      "https://news.ycombinator.com/item?id=32124784"
+    ],
+    [
+      "Does “Autostart” Mean “Autostart”?",
+      "http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html"
+    ]
+  ],
+  [
+    [
       "2022-07-17, 05:06:14",
       "https://news.ycombinator.com/item?id=32124621"
     ],
     [
-      "Why Concatenative Programming Matters",
+      "Why concatenative programming matters (2012)",
       "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32106442"
     ],
     [
-      "Integer Math in JavaScript",
+      "Integer math in JavaScript",
       "https://james.darpinian.com/blog/integer-math-in-javascript"
     ]
   ],
