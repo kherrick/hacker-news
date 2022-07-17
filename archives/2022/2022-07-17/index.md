@@ -30,6 +30,7 @@
 * [2022-07-17, 15:16:52](https://news.ycombinator.com/item?id=32127527) - [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
 * [2022-07-17, 14:57:32](https://news.ycombinator.com/item?id=32127363) - [ʕ•ᴥ•ʔ Bear. A privacy-first, no-nonsense, super-fast blogging platform](https://bearblog.dev)
 * [2022-07-17, 14:56:25](https://news.ycombinator.com/item?id=32127355) - [Against Food](https://jayriverlong.substack.com/p/42-against-food)
+* [2022-07-17, 14:32:41](https://news.ycombinator.com/item?id=32127135) - [We Demand Data – The Story of Lucid and Eduction](https://billwadge.com/2022/07/17/we-demand-data-the-story-of-lucid-and-eduction/)
 * [2022-07-17, 14:12:25](https://news.ycombinator.com/item?id=32126919) - [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
 * [2022-07-17, 14:10:01](https://news.ycombinator.com/item?id=32126904) - [What is PVTM? Or why your Rockchip RK3588 CPU may not reach 2.4 GHz](https://www.cnx-software.com/2022/07/17/what-is-pvtm-or-why-your-rockchip-rk3588-cpu-may-not-reach-2-4-ghz/)
 * [2022-07-17, 13:38:01](https://news.ycombinator.com/item?id=32126642) - [Where is there more livestock than people?](https://erdavis.com/2022/06/21/where-is-there-more-livestock-than-people/)

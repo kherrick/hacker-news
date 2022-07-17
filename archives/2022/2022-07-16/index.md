@@ -42,6 +42,7 @@
 * [2022-07-16, 11:25:56](https://news.ycombinator.com/item?id=32117021) - [Ever Wished That Calvin and Hobbes Creator Bill Watterson Would Return? (2014)](https://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/)
 * [2022-07-16, 11:02:57](https://news.ycombinator.com/item?id=32116894) - [The rise of air conditioning, and the eco-harm of the boom it enabled](https://www.historytoday.com/history-matters/rise-air-conditioning)
 * [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
+* [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 10:28:54](https://news.ycombinator.com/item?id=32116711) - [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
 * [2022-07-16, 10:03:10](https://news.ycombinator.com/item?id=32116594) - [How Not to Fight Inflation](https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation)
 * [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
