@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-07-16, 19:27:19",
-      "https://news.ycombinator.com/item?id=32121125"
-    ],
-    [
-      "YOLOv7: Trainable Bag-of-Freebies",
-      "https://arxiv.org/abs/2207.02696"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 18:15:15",
       "https://news.ycombinator.com/item?id=32120495"
     ],
@@ -197,6 +187,16 @@
     [
       "Bill Watterson’s refusal to license Calvin and Hobbes (2016)",
       "https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 06:47:46",
+      "https://news.ycombinator.com/item?id=32115791"
+    ],
+    [
+      "Comcast: Simulating shitty network connections so you can build better systems",
+      "https://github.com/tylertreat/comcast"
     ]
   ],
   [
