@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 18:28:50](https://news.ycombinator.com/item?id=32129574) - [$9.99/Month](https://basicappleguy.com/basicappleblog/999month)
 * [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
 * [2022-07-17, 17:51:05](https://news.ycombinator.com/item?id=32129186) - [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
 * [2022-07-17, 17:42:12](https://news.ycombinator.com/item?id=32129089) - [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
@@ -14,7 +15,6 @@
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
-* [2022-07-17, 16:07:18](https://news.ycombinator.com/item?id=32128004) - [Commune – threaded communications built on Matrix](https://github.com/commune-org/commune)
 * [2022-07-17, 16:03:42](https://news.ycombinator.com/item?id=32127974) - [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
 * [2022-07-17, 15:35:00](https://news.ycombinator.com/item?id=32127710) - [Understanding the make-buy question in a growing Mars city](https://caseyhandmer.wordpress.com/2022/03/29/understanding-the-make-buy-question-in-a-growing-mars-city/)
 * [2022-07-17, 15:25:42](https://news.ycombinator.com/item?id=32127622) - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)

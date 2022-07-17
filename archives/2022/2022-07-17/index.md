@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 18:28:50](https://news.ycombinator.com/item?id=32129574) - [$9.99/Month](https://basicappleguy.com/basicappleblog/999month)
 * [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
 * [2022-07-17, 17:53:16](https://news.ycombinator.com/item?id=32129209) - [OpenVMS v9.2 for x86 is Available](https://vmssoftware.com/about/news/2022-07-14-openvms-v92-for-x86-announced/)
 * [2022-07-17, 17:51:05](https://news.ycombinator.com/item?id=32129186) - [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
