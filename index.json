@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-07-17, 11:59:17",
+      "https://news.ycombinator.com/item?id=32126053"
+    ],
+    [
+      "Woodpeckers don't have built-in shock absorbers to protect their brain",
+      "https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 11:42:35",
+      "https://news.ycombinator.com/item?id=32125972"
+    ],
+    [
+      "NASA’s James Webb Space Telescope damaged after being smashed by space rock",
+      "https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html"
+    ]
+  ],
+  [
+    [
       "2022-07-17, 11:38:06",
       "https://news.ycombinator.com/item?id=32125951"
     ],
     [
       "Killbutmakeitlooklikeanaccident.sh",
       "https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 11:14:13",
+      "https://news.ycombinator.com/item?id=32125859"
+    ],
+    [
+      "FPGA Mel-Frequency Cepstrum",
+      "http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-07-16, 20:51:48",
-      "https://news.ycombinator.com/item?id=32121846"
-    ],
-    [
-      "Show HN: A compiler and VM for a simple language, in 150 lines of code",
-      "https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 18:15:15",
       "https://news.ycombinator.com/item?id=32120495"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-07-15, 10:43:44",
-      "https://news.ycombinator.com/item?id=32106761"
-    ],
-    [
-      "Algorithms by Jeff Erickson (2019)",
-      "https://jeffe.cs.illinois.edu/teaching/algorithms/"
-    ]
-  ],
-  [
-    [
       "2022-07-15, 10:10:59",
       "https://news.ycombinator.com/item?id=32106546"
     ],
@@ -287,16 +297,6 @@
     [
       "The Algorithm for Hard Problems: Shake and Pull Gently",
       "https://kazimuth.github.io/blog/post/shake-and-pull-gently/"
-    ]
-  ],
-  [
-    [
-      "2022-07-14, 08:23:05",
-      "https://news.ycombinator.com/item?id=32093452"
-    ],
-    [
-      "Schönhage–Strassen Algorithm",
-      "https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm"
     ]
   ]
 ]
