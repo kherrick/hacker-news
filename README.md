@@ -2,6 +2,7 @@
 
 * [2022-07-17, 19:59:13](https://news.ycombinator.com/item?id=32130626) - [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
 * [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [How I made advanced BI queries child's play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
+* [2022-07-17, 19:37:33](https://news.ycombinator.com/item?id=32130401) - [Trilium Notes: note taking application for large personal knowledge bases](https://github.com/zadam/trilium)
 * [2022-07-17, 19:30:26](https://news.ycombinator.com/item?id=32130313) - [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
 * [2022-07-17, 18:28:50](https://news.ycombinator.com/item?id=32129574) - [$9.99/month](https://basicappleguy.com/basicappleblog/999month)
 * [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
@@ -14,7 +15,6 @@
 * [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:14:33](https://news.ycombinator.com/item?id=32128081) - [YOLOv7 – A breakdown of how it works](https://blog.roboflow.com/yolov7-breakdown/)
-* [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A blog platform for hackers](https://prose.sh/)
 * [2022-07-17, 15:35:00](https://news.ycombinator.com/item?id=32127710) - [Understanding the make-buy question in a growing Mars city](https://caseyhandmer.wordpress.com/2022/03/29/understanding-the-make-buy-question-in-a-growing-mars-city/)
 * [2022-07-17, 15:25:42](https://news.ycombinator.com/item?id=32127622) - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
