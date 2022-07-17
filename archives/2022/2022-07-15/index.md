@@ -58,6 +58,7 @@
 * [2022-07-15, 10:43:44](https://news.ycombinator.com/item?id=32106761) - [Algorithms by Jeff Erickson (2019)](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2022-07-15, 10:18:40](https://news.ycombinator.com/item?id=32106591) - [Integrating a Rust module into an Android app](https://blog.logrocket.com/integrating-rust-module-android-app/)
 * [2022-07-15, 10:13:02](https://news.ycombinator.com/item?id=32106556) - [Severely deficient autobiographical memory (SDAM) in healthy adults (2015)](https://www.sciencedirect.com/science/article/pii/S002839321500158X)
+* [2022-07-15, 10:12:34](https://news.ycombinator.com/item?id=32106555) - [Fizzy Change: The Sounds of Fermentation (2021)](https://hii-mag.com/article/fizzy-change-the-sounds-of-fermentation?src=longreads)
 * [2022-07-15, 10:10:59](https://news.ycombinator.com/item?id=32106546) - [Can Analog Make a Comeback?](https://semiengineering.com/can-analog-make-a-comeback/)
 * [2022-07-15, 09:57:20](https://news.ycombinator.com/item?id=32106467) - [Why Wasn't the Steam Engine Invented Earlier? Part II](https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8)
 * [2022-07-15, 09:54:15](https://news.ycombinator.com/item?id=32106455) - [Mini Hollywood: The fake town in Spain used to create Western movies](https://faroutmagazine.co.uk/fake-town-spain-create-western-movies/)
