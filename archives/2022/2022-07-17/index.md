@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 19:59:13](https://news.ycombinator.com/item?id=32130626) - [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
+* [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [How I made advanced BI queries child's play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
+* [2022-07-17, 19:30:26](https://news.ycombinator.com/item?id=32130313) - [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
 * [2022-07-17, 18:28:50](https://news.ycombinator.com/item?id=32129574) - [$9.99/Month](https://basicappleguy.com/basicappleblog/999month)
 * [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
 * [2022-07-17, 17:53:16](https://news.ycombinator.com/item?id=32129209) - [OpenVMS v9.2 for x86 is Available](https://vmssoftware.com/about/news/2022-07-14-openvms-v92-for-x86-announced/)
