@@ -50,6 +50,7 @@
 * [2022-07-16, 08:23:58](https://news.ycombinator.com/item?id=32116184) - [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
 * [2022-07-16, 08:21:58](https://news.ycombinator.com/item?id=32116176) - [The 13-Inch MacBook Air](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air)
 * [2022-07-16, 08:07:26](https://news.ycombinator.com/item?id=32116109) - [Deno’s July 13th incident update](https://deno.com/blog/2022-07-13-outage-post-mortem)
+* [2022-07-16, 08:01:34](https://news.ycombinator.com/item?id=32116088) - [Excel: Getting Rid of Everything Except Numbers](https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html)
 * [2022-07-16, 07:57:09](https://news.ycombinator.com/item?id=32116070) - [I deleted 78% of my Redis container and it still works](https://medium.com/@codervinod/i-deleted-78-of-my-redis-container-and-it-still-works-df8310a3a007)
 * [2022-07-16, 07:51:32](https://news.ycombinator.com/item?id=32116048) - [Can I build my SaaS in no-code tools](https://www.unione.digital/)
 * [2022-07-16, 07:27:17](https://news.ycombinator.com/item?id=32115960) - [iPieta](https://www.ipieta.com/overview-main.html)

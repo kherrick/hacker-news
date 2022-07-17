@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
 * [2022-07-17, 16:44:13](https://news.ycombinator.com/item?id=32128405) - [German Government Lied About Nuclear](https://michaelshellenberger.substack.com/p/anti-nuke-greens-menace-europe)
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
