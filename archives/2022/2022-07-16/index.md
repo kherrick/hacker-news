@@ -60,6 +60,7 @@
 * [2022-07-16, 04:14:22](https://news.ycombinator.com/item?id=32115169) - [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
 * [2022-07-16, 03:45:13](https://news.ycombinator.com/item?id=32115059) - [“Learning The Elite Class: My experience at fancy parties”](https://aella.substack.com/p/learning-the-elite-class)
 * [2022-07-16, 02:50:59](https://news.ycombinator.com/item?id=32114847) - [Study: Alcohol is never good for people under 40](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#%20)
+* [2022-07-16, 02:27:05](https://news.ycombinator.com/item?id=32114760) - [Visual cryptography for physical keyrings](https://hackaday.com/2022/07/14/visual-cryptography-for-physical-keyrings/)
 * [2022-07-16, 02:13:19](https://news.ycombinator.com/item?id=32114699) - [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
 * [2022-07-16, 01:50:21](https://news.ycombinator.com/item?id=32114619) - [Everything you need to know about breastfeeding and intelligence](https://stuartritchie.substack.com/p/breastfeeding-iq)
 * [2022-07-16, 00:29:30](https://news.ycombinator.com/item?id=32114194) - [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
