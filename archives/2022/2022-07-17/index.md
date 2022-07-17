@@ -12,6 +12,7 @@
 * [2022-07-17, 17:42:12](https://news.ycombinator.com/item?id=32129089) - [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
 * [2022-07-17, 17:38:54](https://news.ycombinator.com/item?id=32129059) - [35 years of 'RoboCop': An unforgettable vision of techno-fascist America](https://faroutmagazine.co.uk/35-years-robocop-techno-fascist-america/)
 * [2022-07-17, 17:34:23](https://news.ycombinator.com/item?id=32129010) - [Does this idea make any sense?](https://www.rebaseapps.com)
+* [2022-07-17, 17:34:23](https://news.ycombinator.com/item?id=32129010) - [Ask HN: Does this idea make any sense?](https://news.ycombinator.com/item?id=32129010)
 * [2022-07-17, 17:28:14](https://news.ycombinator.com/item?id=32128931) - [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
 * [2022-07-17, 17:23:56](https://news.ycombinator.com/item?id=32128891) - [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
 * [2022-07-17, 17:23:36](https://news.ycombinator.com/item?id=32128886) - [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
