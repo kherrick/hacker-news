@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 17:23:56](https://news.ycombinator.com/item?id=32128891) - [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
 * [2022-07-17, 17:23:36](https://news.ycombinator.com/item?id=32128886) - [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
+* [2022-07-17, 17:01:11](https://news.ycombinator.com/item?id=32128599) - [Research Suggests That Software Piracy Lowers Poverty](https://torrentfreak.com/research-suggests-that-software-piracy-lowers-poverty-220717/)
 * [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 * [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
@@ -22,14 +24,12 @@
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Dye-sensitized solar cell material will charge in any environment](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
-* [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [2022-07-16, 08:01:34](https://news.ycombinator.com/item?id=32116088) - [Excel: Getting Rid of Everything Except Numbers](https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html)
 * [2022-07-15, 11:58:32](https://news.ycombinator.com/item?id=32107187) - [A Deep Dive on a Thin Watch](https://www.hodinkee.com/articles/the-richard-mille-rm-up-01-a-very-deep-dive-on-a-very-thin-watch)
 * [2022-07-15, 10:10:59](https://news.ycombinator.com/item?id=32106546) - [Can Analog Make a Comeback?](https://semiengineering.com/can-analog-make-a-comeback/)
 * [2022-07-15, 09:54:15](https://news.ycombinator.com/item?id=32106455) - [Mini Hollywood: The fake town in Spain used to create Western movies](https://faroutmagazine.co.uk/fake-town-spain-create-western-movies/)
 * [2022-07-15, 09:51:49](https://news.ycombinator.com/item?id=32106442) - [Integer math in JavaScript](https://james.darpinian.com/blog/integer-math-in-javascript)
 * [2022-07-15, 05:05:48](https://news.ycombinator.com/item?id=32104791) - [Designing the Characters of 'Cowboy Bebop'](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
-* [2022-07-15, 04:24:20](https://news.ycombinator.com/item?id=32104592) - [The Algorithm for Hard Problems: Shake and Pull Gently](https://kazimuth.github.io/blog/post/shake-and-pull-gently/)
 
 ## [Archives](archives/index.md)
 

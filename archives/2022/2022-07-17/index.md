@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 17:23:56](https://news.ycombinator.com/item?id=32128891) - [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
 * [2022-07-17, 17:23:36](https://news.ycombinator.com/item?id=32128886) - [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 * [2022-07-17, 17:07:18](https://news.ycombinator.com/item?id=32128678) - [How to Tax Cloud Computing?](https://interconnected.blog/how-do-we-tax-cloud-computing/)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
+* [2022-07-17, 17:01:11](https://news.ycombinator.com/item?id=32128599) - [Research Suggests That Software Piracy Lowers Poverty](https://torrentfreak.com/research-suggests-that-software-piracy-lowers-poverty-220717/)
 * [2022-07-17, 16:44:13](https://news.ycombinator.com/item?id=32128405) - [German Government Lied About Nuclear](https://michaelshellenberger.substack.com/p/anti-nuke-greens-menace-europe)
 * [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The Slow March of Progress in Programming Language Tooling](https://earthly.dev/blog/programming-language-improvements/)
 * [2022-07-17, 16:25:53](https://news.ycombinator.com/item?id=32128209) - [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
