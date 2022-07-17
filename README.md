@@ -3,7 +3,7 @@
 * [2022-07-17, 02:44:02](https://news.ycombinator.com/item?id=32123988) - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
 * [2022-07-17, 02:10:48](https://news.ycombinator.com/item?id=32123804) - [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
 * [2022-07-17, 00:42:33](https://news.ycombinator.com/item?id=32123309) - [Dr. DOS Betamax's DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
-* [2022-07-16, 23:14:44](https://news.ycombinator.com/item?id=32122818) - [We could have universal Covid vaccines soon](https://www.slowboring.com/p/we-could-have-universal-covid-vaccines)
+* [2022-07-17, 00:13:52](https://news.ycombinator.com/item?id=32123143) - [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
 * [2022-07-16, 21:47:35](https://news.ycombinator.com/item?id=32122278) - [Byte Magazine: The Forth Language (1980)](https://archive.org/details/byte-magazine-1980-08)
 * [2022-07-16, 21:29:32](https://news.ycombinator.com/item?id=32122150) - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
 * [2022-07-16, 21:17:45](https://news.ycombinator.com/item?id=32122065) - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
