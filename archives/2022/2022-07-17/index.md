@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
+* [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
 * [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The Case for Bad Coffee](https://www.seriouseats.com/the-case-for-bad-coffee)
 * [2022-07-17, 19:59:13](https://news.ycombinator.com/item?id=32130626) - [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
 * [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [How I made advanced BI queries child's play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
