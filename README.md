@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-17, 23:10:09](https://news.ycombinator.com/item?id=32132469) - [Effect of fruit rich diet on liver biomarkers, insulin resistance, lipid profile](https://pubmed.ncbi.nlm.nih.gov/35710164/)
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
 * [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The case for bad coffee (2015)](https://www.seriouseats.com/the-case-for-bad-coffee)
@@ -28,7 +29,6 @@
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 08:15:14](https://news.ycombinator.com/item?id=32116145) - [Is JPEG 2000 a preservation risk? (2013)](https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/)
 * [2022-07-16, 07:20:30](https://news.ycombinator.com/item?id=32115918) - [Can you hear the shape of a graph?](https://mathweb.ucsd.edu/~fan/hear/index.html)
-* [2022-07-15, 21:17:54](https://news.ycombinator.com/item?id=32112908) - [Why does ancient Egypt's distinctive art style make everything look flat?](https://www.livescience.com/why-ancient-egyptian-art-2d)
 * [2022-07-15, 10:12:34](https://news.ycombinator.com/item?id=32106555) - [Fizzy Change: The Sounds of Fermentation (2021)](https://hii-mag.com/article/fizzy-change-the-sounds-of-fermentation?src=longreads)
 
 ## [Archives](archives/index.md)

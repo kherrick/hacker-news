@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 23:10:09](https://news.ycombinator.com/item?id=32132469) - [Effect of fruit rich diet on liver biomarkers, insulin resistance, lipid profile](https://pubmed.ncbi.nlm.nih.gov/35710164/)
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
 * [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The Case for Bad Coffee](https://www.seriouseats.com/the-case-for-bad-coffee)
