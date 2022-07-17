@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
+* [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
+* [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
 * [2022-07-17, 07:02:03](https://news.ycombinator.com/item?id=32125019) - [Stacker (YC S20) Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
 * [2022-07-17, 06:43:05](https://news.ycombinator.com/item?id=32124964) - [Bill Watterson, Picasso, and HN on self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
 * [2022-07-17, 05:57:49](https://news.ycombinator.com/item?id=32124809) - [Ask HN: How to deal with children's online habits?](https://news.ycombinator.com/item?id=32124809)
