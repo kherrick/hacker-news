@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
 * [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
