@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The Case for Bad Coffee](https://www.seriouseats.com/the-case-for-bad-coffee)
 * [2022-07-17, 19:59:13](https://news.ycombinator.com/item?id=32130626) - [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
 * [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [How I made advanced BI queries child's play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
@@ -64,6 +65,7 @@
 * [2022-07-17, 05:57:49](https://news.ycombinator.com/item?id=32124809) - [Ask HN: How to deal with children's online habits?](https://news.ycombinator.com/item?id=32124809)
 * [2022-07-17, 05:50:46](https://news.ycombinator.com/item?id=32124784) - [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
 * [2022-07-17, 05:06:14](https://news.ycombinator.com/item?id=32124621) - [Why Concatenative Programming Matters](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
+* [2022-07-17, 04:23:06](https://news.ycombinator.com/item?id=32124451) - [Making Holes Without an Electric Drill](https://theplywood.com/holes-without-electric-drill/)
 * [2022-07-17, 04:22:56](https://news.ycombinator.com/item?id=32124450) - [The stock market is a machine for creating cults](https://interconnected.org/home/2021/07/21/meme_stocks)
 * [2022-07-17, 03:59:03](https://news.ycombinator.com/item?id=32124369) - [“Eureka moment” as Australian researchers make hydrogen storage breakthrough](https://reneweconomy.com.au/eureka-moment-as-australian-researchers-make-hydrogen-storage-breakthrough/)
 * [2022-07-17, 02:44:02](https://news.ycombinator.com/item?id=32123988) - [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
