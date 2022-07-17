@@ -23,11 +23,11 @@
 * [2022-07-17, 01:43:21](https://news.ycombinator.com/item?id=32123655) - [Tehran’s Red-Light District](https://failedarchitecture.com/the-hidden-history-of-tehrans-red-light-district/)
 * [2022-07-17, 00:42:33](https://news.ycombinator.com/item?id=32123309) - [Dr. DOS Betamax's DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
 * [2022-07-16, 18:09:00](https://news.ycombinator.com/item?id=32120445) - [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
-* [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 02:27:05](https://news.ycombinator.com/item?id=32114760) - [Visual cryptography for physical keyrings](https://hackaday.com/2022/07/14/visual-cryptography-for-physical-keyrings/)
 * [2022-07-15, 21:56:38](https://news.ycombinator.com/item?id=32113221) - [African kings on medieval and Renaissance maps](https://blogs.bl.uk/digitisedmanuscripts/2022/07/african-kings.html)
 * [2022-07-15, 19:34:41](https://news.ycombinator.com/item?id=32111909) - [The Literary Games of Fernando Pessoa](https://www.thenation.com/article/culture/fernando-pessoa-biography/)
 * [2022-07-15, 10:10:59](https://news.ycombinator.com/item?id=32106546) - [Can Analog Make a Comeback?](https://semiengineering.com/can-analog-make-a-comeback/)
+* [2022-07-15, 09:51:49](https://news.ycombinator.com/item?id=32106442) - [Integer Math in JavaScript](https://james.darpinian.com/blog/integer-math-in-javascript)
 * [2022-07-15, 05:05:48](https://news.ycombinator.com/item?id=32104791) - [Designing the Characters of 'Cowboy Bebop'](https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy)
 * [2022-07-15, 04:24:20](https://news.ycombinator.com/item?id=32104592) - [The Algorithm for Hard Problems: Shake and Pull Gently](https://kazimuth.github.io/blog/post/shake-and-pull-gently/)
 
