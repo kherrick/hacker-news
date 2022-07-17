@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-17, 17:53:16",
+      "https://news.ycombinator.com/item?id=32129209"
+    ],
+    [
+      "OpenVMS v9.2 for x86 is Available",
+      "https://vmssoftware.com/about/news/2022-07-14-openvms-v92-for-x86-announced/"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 17:34:23",
+      "https://news.ycombinator.com/item?id=32129010"
+    ],
+    [
+      "Does this idea make any sense?",
+      "https://www.rebaseapps.com"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 17:28:14",
+      "https://news.ycombinator.com/item?id=32128931"
+    ],
+    [
+      "Over-engineering an RGB LED strip: let’s make a custom programming language",
+      "https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set"
+    ]
+  ],
+  [
+    [
       "2022-07-17, 17:23:56",
       "https://news.ycombinator.com/item?id=32128891"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2022-07-17, 10:14:43",
-      "https://news.ycombinator.com/item?id=32125637"
-    ],
-    [
-      "Dye-sensitized solar cell material will charge in any environment",
-      "https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge"
-    ]
-  ],
-  [
-    [
       "2022-07-16, 08:01:34",
       "https://news.ycombinator.com/item?id=32116088"
     ],
     [
       "Excel: Getting Rid of Everything Except Numbers",
       "https://excel.tips.net/T003840_Getting_Rid_of_Everything_Except_Numbers.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 11:58:32",
-      "https://news.ycombinator.com/item?id=32107187"
-    ],
-    [
-      "A Deep Dive on a Thin Watch",
-      "https://www.hodinkee.com/articles/the-richard-mille-rm-up-01-a-very-deep-dive-on-a-very-thin-watch"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Integer math in JavaScript",
       "https://james.darpinian.com/blog/integer-math-in-javascript"
-    ]
-  ],
-  [
-    [
-      "2022-07-15, 05:05:48",
-      "https://news.ycombinator.com/item?id=32104791"
-    ],
-    [
-      "Designing the Characters of 'Cowboy Bebop'",
-      "https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy"
     ]
   ]
 ]
