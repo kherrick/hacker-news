@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-17](index.md)
 
+* [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
+* [2022-07-17, 11:42:35](https://news.ycombinator.com/item?id=32125972) - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
 * [2022-07-17, 11:38:06](https://news.ycombinator.com/item?id=32125951) - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
+* [2022-07-17, 11:14:13](https://news.ycombinator.com/item?id=32125859) - [FPGA Mel-Frequency Cepstrum](http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/)
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
 * [2022-07-17, 10:45:32](https://news.ycombinator.com/item?id=32125734) - [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
 * [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
