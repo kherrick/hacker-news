@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+* [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
+* [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
+* [2022-07-18, 03:07:30](https://news.ycombinator.com/item?id=32134153) - [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
 * [2022-07-18, 02:50:46](https://news.ycombinator.com/item?id=32134038) - [An ex-Googler's guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius'](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
 * [2022-07-18, 02:21:04](https://news.ycombinator.com/item?id=32133839) - [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
