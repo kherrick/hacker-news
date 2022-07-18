@@ -22,7 +22,7 @@
 * [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 * [2022-07-18, 00:51:46](https://news.ycombinator.com/item?id=32133261) - [Building a secure software supply chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
-* [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The case for bad coffee (2015)](https://www.seriouseats.com/the-case-for-bad-coffee)
+* [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
 * [2022-07-17, 14:32:41](https://news.ycombinator.com/item?id=32127135) - [We demand data – The story of Lucid and eduction](https://billwadge.com/2022/07/17/we-demand-data-the-story-of-lucid-and-eduction/)
 * [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-17, 05:23:37](https://news.ycombinator.com/item?id=32124690) - [Why Read Fichte Today?](https://aeon.co/essays/on-freedom-and-the-limits-of-agency-the-philosophy-of-fichte)
