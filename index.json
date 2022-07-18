@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-07-18, 17:50:32",
-      "https://news.ycombinator.com/item?id=32141104"
+      "2022-07-18, 18:05:15",
+      "https://news.ycombinator.com/item?id=32141358"
     ],
     [
-      "40% of Americans believe the Earth was created within the last 10k years",
-      "https://news.gallup.com/poll/261680/americans-believe-creationism.aspx"
+      "Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit",
+      "https://news.ycombinator.com/item?id=32141358"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 17:44:05",
+      "https://news.ycombinator.com/item?id=32141024"
+    ],
+    [
+      "Fart Stack",
+      "https://fart-stack.io/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 17:21:43",
+      "https://news.ycombinator.com/item?id=32140774"
+    ],
+    [
+      "Thoughts on RSS",
+      "https://matt-rickard.com/thoughts-on-rss/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 17:17:10",
+      "https://news.ycombinator.com/item?id=32140727"
+    ],
+    [
+      "What I learned trying to classify abortion access across the rich world",
+      "https://dynomight.net/abortion/"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction",
       "https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 16:44:27",
+      "https://news.ycombinator.com/item?id=32140329"
+    ],
+    [
+      "Show HN: Ec2instances.info now has Detail Pages for 500 Instances",
+      "https://instances.vantage.sh:443/aws/ec2/m5a.2xlarge"
     ]
   ],
   [
@@ -61,21 +101,11 @@
   ],
   [
     [
-      "2022-07-18, 15:45:50",
-      "https://news.ycombinator.com/item?id=32139672"
-    ],
-    [
-      "My Poor Experience With Azure (or why I'm sticking with AWS)",
-      "https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 15:40:28",
       "https://news.ycombinator.com/item?id=32139612"
     ],
     [
-      "RSS is on fire again, and it's all down to SlackOps",
+      "RSS is back as an underpinning to SlackOps",
       "https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/"
     ]
   ],
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2022-07-18, 14:47:38",
-      "https://news.ycombinator.com/item?id=32139026"
-    ],
-    [
-      "Crimes against Transhumanity",
-      "http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 14:27:43",
       "https://news.ycombinator.com/item?id=32138790"
     ],
     [
       "Implementing \"seen by\" functionality with Postgres",
       "https://supabase.com/blog/2022/07/18/seen-by-in-postgresql"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 14:21:34",
-      "https://news.ycombinator.com/item?id=32138719"
-    ],
-    [
-      "There's 200 form builders, but none do what a programmer can, so I built my own",
-      "https://blog.keenforms.com/there-are-200-form-builders-but-none-of-them-can-do-what-i-as-a-programmer-can-do-so-i-built-my-own/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-07-18, 11:58:16",
-      "https://news.ycombinator.com/item?id=32137221"
-    ],
-    [
-      "Show HN: I fixed journaling for myself",
-      "https://dailyprompt.org/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 11:07:05",
       "https://news.ycombinator.com/item?id=32136804"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-07-18, 09:23:41",
-      "https://news.ycombinator.com/item?id=32136202"
-    ],
-    [
-      "Show HN: PubKey – Communicate Privately in Anonymous Public Spaces",
-      "https://www.pubkey.pm"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 06:50:54",
       "https://news.ycombinator.com/item?id=32135462"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2022-07-18, 05:47:17",
-      "https://news.ycombinator.com/item?id=32135115"
-    ],
-    [
-      "The Design of Everyday Things – Book Summary and Notes",
-      "https://elvischidera.com/2022-06-24-design-everyday-things/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 04:32:47",
       "https://news.ycombinator.com/item?id=32134691"
     ],
     [
       "Paper Airplane Designs (2013)",
       "https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 03:47:26",
+      "https://news.ycombinator.com/item?id=32134423"
+    ],
+    [
+      "A public school in Florida built America’s greatest math team",
+      "https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000"
+    ]
+  ],
+  [
+    [
+      "2022-07-17, 11:38:21",
+      "https://news.ycombinator.com/item?id=32125954"
+    ],
+    [
+      "Perceived Affordances and the Functionality Mismatch",
+      "https://tink.uk/perceived-affordances-and-the-functionality-mismatch/"
     ]
   ],
   [
