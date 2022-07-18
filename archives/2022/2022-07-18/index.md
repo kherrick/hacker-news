@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 * [2022-07-18, 04:40:14](https://news.ycombinator.com/item?id=32134734) - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+* [2022-07-18, 03:55:10](https://news.ycombinator.com/item?id=32134469) - [Monodraw – a non-subscription, powerful ASCII art editor](https://blog.helftone.com/monodraw-v1.6/)
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
 * [2022-07-18, 03:07:30](https://news.ycombinator.com/item?id=32134153) - [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
