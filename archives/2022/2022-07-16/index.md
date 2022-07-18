@@ -57,6 +57,7 @@
 * [2022-07-16, 07:51:32](https://news.ycombinator.com/item?id=32116048) - [Can I build my SaaS in no-code tools](https://www.unione.digital/)
 * [2022-07-16, 07:27:17](https://news.ycombinator.com/item?id=32115960) - [iPieta](https://www.ipieta.com/overview-main.html)
 * [2022-07-16, 07:20:30](https://news.ycombinator.com/item?id=32115918) - [Can you hear the shape of a graph?](https://mathweb.ucsd.edu/~fan/hear/index.html)
+* [2022-07-16, 07:11:51](https://news.ycombinator.com/item?id=32115878) - [Writing the Perfect Question (2010)](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
 * [2022-07-16, 06:51:04](https://news.ycombinator.com/item?id=32115809) - [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 * [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * [2022-07-16, 06:20:25](https://news.ycombinator.com/item?id=32115693) - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
