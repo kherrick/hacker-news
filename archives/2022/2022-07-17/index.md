@@ -57,6 +57,7 @@
 * [2022-07-17, 11:38:21](https://news.ycombinator.com/item?id=32125954) - [Perceived Affordances and the Functionality Mismatch](https://tink.uk/perceived-affordances-and-the-functionality-mismatch/)
 * [2022-07-17, 11:38:06](https://news.ycombinator.com/item?id=32125951) - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
 * [2022-07-17, 11:32:59](https://news.ycombinator.com/item?id=32125933) - [Building a radio-controlled submarine with automatic depth control](https://brickexperimentchannel.wordpress.com/rc-submarine-4-0-blog-post-series/)
+* [2022-07-17, 11:21:04](https://news.ycombinator.com/item?id=32125894) - [Microsoft Creative Writer (1993)](https://en.wikipedia.org/wiki/Creative_Writer)
 * [2022-07-17, 11:17:01](https://news.ycombinator.com/item?id=32125868) - [Pleasant Debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
 * [2022-07-17, 11:14:13](https://news.ycombinator.com/item?id=32125859) - [FPGA Mel-Frequency Cepstrum](http://blog.lambdaconcept.com/post/2021-05/fpga-mel-frequency-cepstrum/)
 * [2022-07-17, 11:09:14](https://news.ycombinator.com/item?id=32125834) - [Bayes Rules: An Introduction to Applied Bayesian Modeling (2021)](https://www.bayesrulesbook.com/)
