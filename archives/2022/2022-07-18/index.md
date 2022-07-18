@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
+* [2022-07-18, 12:03:03](https://news.ycombinator.com/item?id=32137268) - [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US)](https://kable.io)
+* [2022-07-18, 11:07:05](https://news.ycombinator.com/item?id=32136804) - [TV, or not TV: the story of our bike box (2019)](https://www.vanmoof.com/blog/en/tv-bike-box)
 * [2022-07-18, 10:57:24](https://news.ycombinator.com/item?id=32136733) - [I LOVE programming but HATE the industry. Can anyone relate?](https://news.ycombinator.com/item?id=32136733)
 * [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
