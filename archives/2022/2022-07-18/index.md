@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 09:23:41](https://news.ycombinator.com/item?id=32136202) - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
+* [2022-07-18, 09:09:05](https://news.ycombinator.com/item?id=32136121) - [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
+* [2022-07-18, 08:58:11](https://news.ycombinator.com/item?id=32136067) - [Layoffs Create a Vacuum for Fraud](https://www.thewiretap.io/the-fraud-vacuum/)
 * [2022-07-18, 08:46:12](https://news.ycombinator.com/item?id=32135992) - [Ask HN: Has YouTube Peaked?](https://news.ycombinator.com/item?id=32135992)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
