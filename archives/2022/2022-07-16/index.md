@@ -62,6 +62,7 @@
 * [2022-07-16, 06:47:46](https://news.ycombinator.com/item?id=32115791) - [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * [2022-07-16, 06:21:47](https://news.ycombinator.com/item?id=32115698) - [Guessing, reconstructing and recovering data from a partially wiped disk](https://nyllep.wordpress.com/2022/02/04/recovering-encrypted-hfs/)
 * [2022-07-16, 06:20:25](https://news.ycombinator.com/item?id=32115693) - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
+* [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation Is Composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
 * [2022-07-16, 05:00:54](https://news.ycombinator.com/item?id=32115354) - [The Book of Experiments (1958) [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 * [2022-07-16, 04:14:22](https://news.ycombinator.com/item?id=32115169) - [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things (except BeOS)](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
 * [2022-07-16, 03:45:13](https://news.ycombinator.com/item?id=32115059) - [“Learning The Elite Class: My experience at fancy parties”](https://aella.substack.com/p/learning-the-elite-class)

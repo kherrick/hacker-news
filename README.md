@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-* [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
 * [2022-07-18, 03:07:30](https://news.ycombinator.com/item?id=32134153) - [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
 * [2022-07-18, 02:50:46](https://news.ycombinator.com/item?id=32134038) - [An ex-Googler's guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
@@ -28,6 +27,7 @@
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 08:15:14](https://news.ycombinator.com/item?id=32116145) - [Is JPEG 2000 a preservation risk? (2013)](https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/)
 * [2022-07-16, 07:11:51](https://news.ycombinator.com/item?id=32115878) - [Writing the perfect question (2010)](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
+* [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation Is Composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
 * [2022-07-15, 09:38:16](https://news.ycombinator.com/item?id=32106367) - [The Art of the Family Photo](https://www.newyorker.com/culture/annals-of-inquiry/family-photos)
 * [2022-07-15, 07:30:52](https://news.ycombinator.com/item?id=32105661) - [Does a compiler use all x86 instructions? (2016)](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
 
