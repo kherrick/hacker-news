@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 12:46:03](https://news.ycombinator.com/item?id=32137679) - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
 * [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 * [2022-07-18, 12:03:03](https://news.ycombinator.com/item?id=32137268) - [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US)](https://kable.io)
 * [2022-07-18, 11:07:05](https://news.ycombinator.com/item?id=32136804) - [TV, or not TV: the story of our bike box (2019)](https://www.vanmoof.com/blog/en/tv-bike-box)
@@ -25,11 +26,10 @@
 * [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 * [2022-07-18, 00:51:46](https://news.ycombinator.com/item?id=32133261) - [Building a secure software supply chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 * [2022-07-17, 14:32:41](https://news.ycombinator.com/item?id=32127135) - [We demand data – The story of Lucid and eduction](https://billwadge.com/2022/07/17/we-demand-data-the-story-of-lucid-and-eduction/)
+* [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The speedy downfall of rapid delivery startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-17, 05:23:37](https://news.ycombinator.com/item?id=32124690) - [Why Read Fichte Today?](https://aeon.co/essays/on-freedom-and-the-limits-of-agency-the-philosophy-of-fichte)
 * [2022-07-17, 00:24:37](https://news.ycombinator.com/item?id=32123209) - [A Look Back at the USSR Computer Industry](https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/)
-* [2022-07-17, 00:18:46](https://news.ycombinator.com/item?id=32123170) - [Taking the Sting Out of Wasps](https://www.wsj.com/articles/taking-the-sting-out-of-wasps-11657816150)
 * [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation is composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
-* [2022-07-15, 07:30:52](https://news.ycombinator.com/item?id=32105661) - [Does a compiler use all x86 instructions? (2016)](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
 
 ## [Archives](archives/index.md)
 

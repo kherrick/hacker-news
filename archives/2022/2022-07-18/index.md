@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 12:46:03](https://news.ycombinator.com/item?id=32137679) - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
 * [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 * [2022-07-18, 12:03:03](https://news.ycombinator.com/item?id=32137268) - [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US)](https://kable.io)
 * [2022-07-18, 11:07:05](https://news.ycombinator.com/item?id=32136804) - [TV, or not TV: the story of our bike box (2019)](https://www.vanmoof.com/blog/en/tv-bike-box)
