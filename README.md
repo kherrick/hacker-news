@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 17:21:38](https://news.ycombinator.com/item?id=32140773) - [The Great Dumbening](https://imightbewrong.substack.com/p/the-great-dumbening)
 * [2022-07-18, 17:00:49](https://news.ycombinator.com/item?id=32140527) - [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for Unix (1992) used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
 * [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
@@ -28,7 +29,6 @@
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs (2013)](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-* [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The speedy downfall of rapid delivery startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-16, 10:19:00](https://news.ycombinator.com/item?id=32116664) - [The short, mysterious career of Deux Filles](https://www.ltmrecordings.com/deux_filles.html)
 
 ## [Archives](archives/index.md)
