@@ -17,6 +17,7 @@
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for Unix (1992) used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
 * [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
 * [2022-07-18, 16:00:34](https://news.ycombinator.com/item?id=32139827) - [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
+* [2022-07-18, 15:56:47](https://news.ycombinator.com/item?id=32139791) - [Computer Science Proof Unveils Unexpected Form of Entanglement](https://www.quantamagazine.org/computer-science-proof-lifts-limits-on-quantum-entanglement-20220718/)
 * [2022-07-18, 15:53:50](https://news.ycombinator.com/item?id=32139762) - [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
 * [2022-07-18, 15:45:50](https://news.ycombinator.com/item?id=32139672) - [My Poor Experience With Azure (or why I'm sticking with AWS)](https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/)
 * [2022-07-18, 15:40:28](https://news.ycombinator.com/item?id=32139612) - [RSS is on fire again, and it's all down to SlackOps](https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/)
