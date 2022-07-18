@@ -1,12 +1,82 @@
 [
   [
     [
+      "2022-07-18, 21:08:48",
+      "https://news.ycombinator.com/item?id=32143747"
+    ],
+    [
+      "Film grain synthesis in AV1 (2019)",
+      "https://norkin.org/research/film_grain/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 21:00:51",
+      "https://news.ycombinator.com/item?id=32143637"
+    ],
+    [
+      "Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra",
+      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 21:00:23",
+      "https://news.ycombinator.com/item?id=32143631"
+    ],
+    [
+      "Entire telecomm infrastructure of Iceland sold to private equity",
+      "https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 20:45:53",
+      "https://news.ycombinator.com/item?id=32143432"
+    ],
+    [
+      "The Night I Met Einstein (2021)",
+      "https://www.rd.com/article/the-night-i-met-einstein/"
+    ]
+  ],
+  [
+    [
       "2022-07-18, 20:38:59",
       "https://news.ycombinator.com/item?id=32143344"
     ],
     [
       "Blue Zones, where people reach age 100 at 10 times greater rates",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 20:30:38",
+      "https://news.ycombinator.com/item?id=32143256"
+    ],
+    [
+      "Documents reveal scale of US Government’s cell phone location data tracking",
+      "https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 20:23:52",
+      "https://news.ycombinator.com/item?id=32143176"
+    ],
+    [
+      "Slack Price Increase beginning Sep 2022",
+      "https://slack.com/blog/news/pricing-and-plan-updates"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 19:35:16",
+      "https://news.ycombinator.com/item?id=32142529"
+    ],
+    [
+      "Pioneering Economist Says Our Obsession with Growth Must End",
+      "https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html"
     ]
   ],
   [
@@ -51,42 +121,12 @@
   ],
   [
     [
-      "2022-07-18, 18:05:15",
-      "https://news.ycombinator.com/item?id=32141358"
-    ],
-    [
-      "Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit",
-      "https://news.ycombinator.com/item?id=32141358"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 17:44:31",
       "https://news.ycombinator.com/item?id=32141027"
     ],
     [
       "How Did REST Come to Mean the Opposite of REST?",
       "https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 17:21:43",
-      "https://news.ycombinator.com/item?id=32140774"
-    ],
-    [
-      "Thoughts on RSS",
-      "https://matt-rickard.com/thoughts-on-rss/"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 17:00:49",
-      "https://news.ycombinator.com/item?id=32140527"
-    ],
-    [
-      "Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction",
-      "https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "WordPerfect for UNIX (1992)",
       "https://lock.cmpxchg8b.com/wordperfect.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 16:15:26",
-      "https://news.ycombinator.com/item?id=32139986"
-    ],
-    [
-      "A Deep Dive into the Residential Proxy Service ‘911’",
-      "https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-07-18, 15:28:58",
-      "https://news.ycombinator.com/item?id=32139482"
-    ],
-    [
-      "London's Victorian Hyperloop: a pneumatic railway beneath the capital (2013)",
-      "https://www.newstatesman.com/politics/2013/12/londons-victorian-hyperloop-forgotten-pneumatic-railway-beneath-capitals-street"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 14:27:43",
       "https://news.ycombinator.com/item?id=32138790"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-07-18, 12:46:03",
-      "https://news.ycombinator.com/item?id=32137679"
-    ],
-    [
-      "The Pneumatic Clocks of Paris",
-      "https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 12:17:24",
       "https://news.ycombinator.com/item?id=32137397"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2022-07-18, 10:34:36",
-      "https://news.ycombinator.com/item?id=32136581"
-    ],
-    [
-      "Typical implementations of payment processing and related security issues",
-      "https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 10:23:44",
       "https://news.ycombinator.com/item?id=32136526"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-07-18, 06:50:54",
-      "https://news.ycombinator.com/item?id=32135462"
+      "2022-07-18, 01:33:13",
+      "https://news.ycombinator.com/item?id=32133516"
     ],
     [
-      "Why long-term plans don't work and how to fix them",
-      "https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html"
+      "‘How to Tell a Story’ Review: Aristotle in the Writers’ Room",
+      "https://www.wsj.com/articles/how-to-tell-a-story-book-review-aristotle-in-the-writers-room-11657900138"
     ]
   ],
   [
