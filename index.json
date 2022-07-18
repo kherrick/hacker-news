@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-07-18, 16:15:26",
+      "https://news.ycombinator.com/item?id=32139986"
+    ],
+    [
+      "A Deep Dive into the Residential Proxy Service ‘911’",
+      "https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 16:00:34",
+      "https://news.ycombinator.com/item?id=32139827"
+    ],
+    [
+      "SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables",
+      "https://arxiv.org/abs/2207.07413"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 15:53:50",
+      "https://news.ycombinator.com/item?id=32139762"
+    ],
+    [
+      "Practical Real-Time Hex Tiling",
+      "https://github.com/mmikk/hextile-demo"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 15:45:50",
+      "https://news.ycombinator.com/item?id=32139672"
+    ],
+    [
+      "My Poor Experience With Azure (or why I'm sticking with AWS)",
+      "https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 15:40:28",
+      "https://news.ycombinator.com/item?id=32139612"
+    ],
+    [
+      "RSS is on fire again, and it's all down to SlackOps",
+      "https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/"
+    ]
+  ],
+  [
+    [
       "2022-07-18, 15:28:58",
       "https://news.ycombinator.com/item?id=32139482"
     ],
@@ -27,6 +77,16 @@
     [
       "Implementing \"seen by\" functionality with Postgres",
       "https://supabase.com/blog/2022/07/18/seen-by-in-postgresql"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 14:21:34",
+      "https://news.ycombinator.com/item?id=32138719"
+    ],
+    [
+      "There's 200 form builders, but none do what a programmer can, so I built my own",
+      "https://blog.keenforms.com/there-are-200-form-builders-but-none-of-them-can-do-what-i-as-a-programmer-can-do-so-i-built-my-own/"
     ]
   ],
   [
@@ -95,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32137275"
     ],
     [
-      "Mpv – a free, open-source, and cross-platform media player",
+      "Mpv – A free, open source, and cross-platform media player",
       "https://mpv.io/"
     ]
   ],
@@ -145,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32136526"
     ],
     [
-      "Iceland’s forest cover has increased sixfold since 1990",
+      "Iceland’s forest and bush cover has increased sixfold since 1990",
       "https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/"
     ]
   ],
@@ -161,12 +221,12 @@
   ],
   [
     [
-      "2022-07-18, 09:55:13",
-      "https://news.ycombinator.com/item?id=32136384"
+      "2022-07-18, 09:25:01",
+      "https://news.ycombinator.com/item?id=32136207"
     ],
     [
-      "Gnucash – open-source accounting software for personal and small businesses",
-      "https://www.gnucash.org/?hn"
+      "Keeping it Analog: A framework for opting out of connectivity",
+      "https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/"
     ]
   ],
   [
@@ -201,26 +261,6 @@
   ],
   [
     [
-      "2022-07-18, 06:42:21",
-      "https://news.ycombinator.com/item?id=32135432"
-    ],
-    [
-      "How efficient can cat(1) be?",
-      "https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 05:55:50",
-      "https://news.ycombinator.com/item?id=32135157"
-    ],
-    [
-      "CLI tool for converting txn statements from Singaporean banks into a sane format",
-      "https://github.com/ajensenwaud/dbs-tools"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 05:47:17",
       "https://news.ycombinator.com/item?id=32135115"
     ],
@@ -241,16 +281,6 @@
   ],
   [
     [
-      "2022-07-18, 03:55:10",
-      "https://news.ycombinator.com/item?id=32134469"
-    ],
-    [
-      "Monodraw – a non-subscription, powerful ASCII art editor",
-      "https://blog.helftone.com/monodraw-v1.6/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 03:47:26",
       "https://news.ycombinator.com/item?id=32134423"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-07-18, 02:36:33",
-      "https://news.ycombinator.com/item?id=32133942"
-    ],
-    [
-      "Fields Medal was never meant for ‘the greatest mathematical genius' (2018)",
-      "https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 01:12:29",
-      "https://news.ycombinator.com/item?id=32133394"
-    ],
-    [
-      "Lensm: Go Assembly and Source Viewer",
-      "https://github.com/loov/lensm"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 06:17:00",
       "https://news.ycombinator.com/item?id=32124878"
     ],
     [
       "The speedy downfall of rapid delivery startups",
       "https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 00:24:37",
-      "https://news.ycombinator.com/item?id=32123209"
-    ],
-    [
-      "A Look Back at the USSR Computer Industry",
-      "https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/"
     ]
   ]
 ]
