@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-18, 17:21:38](https://news.ycombinator.com/item?id=32140773) - [The Great Dumbening](https://imightbewrong.substack.com/p/the-great-dumbening)
+* [2022-07-18, 17:50:32](https://news.ycombinator.com/item?id=32141104) - [40% of Americans believe the Earth was created within the last 10k years](https://news.gallup.com/poll/261680/americans-believe-creationism.aspx)
 * [2022-07-18, 17:00:49](https://news.ycombinator.com/item?id=32140527) - [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for Unix (1992) used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
 * [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
