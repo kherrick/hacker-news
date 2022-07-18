@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-18, 20:38:59](https://news.ycombinator.com/item?id=32143344) - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
-* [2022-07-18, 19:02:02](https://news.ycombinator.com/item?id=32142111) - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+* [2022-07-18, 19:29:27](https://news.ycombinator.com/item?id=32142450) - [Snapchat for Web](https://newsroom.snap.com/snapchat-for-web/)
 * [2022-07-18, 18:52:13](https://news.ycombinator.com/item?id=32141962) - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
 * [2022-07-18, 18:22:09](https://news.ycombinator.com/item?id=32141573) - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 * [2022-07-18, 18:16:33](https://news.ycombinator.com/item?id=32141502) - [Spf13 is leaving Google](https://spf13.com/p/spf13-google/)
