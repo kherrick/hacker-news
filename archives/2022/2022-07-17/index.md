@@ -66,6 +66,7 @@
 * [2022-07-17, 08:54:56](https://news.ycombinator.com/item?id=32125417) - [The high price we pay for social media](https://timharford.com/2022/07/the-high-price-we-pay-for-social-media/)
 * [2022-07-17, 07:02:03](https://news.ycombinator.com/item?id=32125019) - [Stacker (YC S20) Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
 * [2022-07-17, 06:43:05](https://news.ycombinator.com/item?id=32124964) - [Bill Watterson, Picasso, and HN on self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
+* [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-17, 05:57:49](https://news.ycombinator.com/item?id=32124809) - [Ask HN: How to deal with children's online habits?](https://news.ycombinator.com/item?id=32124809)
 * [2022-07-17, 05:50:46](https://news.ycombinator.com/item?id=32124784) - [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
 * [2022-07-17, 05:23:37](https://news.ycombinator.com/item?id=32124690) - [Why Read Fichte Today?](https://aeon.co/essays/on-freedom-and-the-limits-of-agency-the-philosophy-of-fichte)
