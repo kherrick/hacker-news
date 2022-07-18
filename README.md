@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 15:28:58](https://news.ycombinator.com/item?id=32139482) - [The Victorian Hyperloop: the forgotten pneumatic railway beneath London](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
+* [2022-07-18, 14:47:38](https://news.ycombinator.com/item?id=32139026) - [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
 * [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing “Seen by” Functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 * [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 * [2022-07-18, 13:30:14](https://news.ycombinator.com/item?id=32138129) - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
-* [2022-07-18, 13:08:32](https://news.ycombinator.com/item?id=32137888) - [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 * [2022-07-18, 12:46:03](https://news.ycombinator.com/item?id=32137679) - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
 * [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 * [2022-07-18, 12:04:33](https://news.ycombinator.com/item?id=32137275) - [Mpv – a free, open-source, and cross-platform media player](https://mpv.io/)
@@ -15,7 +16,6 @@
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Iceland’s forest cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 10:14:59](https://news.ycombinator.com/item?id=32136483) - [Asahi Linux: July 2022 Release and Progress Report](https://asahilinux.org/2022/07/july-2022-release/)
 * [2022-07-18, 09:55:13](https://news.ycombinator.com/item?id=32136384) - [Gnucash – open-source accounting software for personal and small businesses](https://www.gnucash.org/?hn)
-* [2022-07-18, 09:28:40](https://news.ycombinator.com/item?id=32136231) - [Wealth as a predictor of whether an person pursues a creative profession (2019)](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
 * [2022-07-18, 09:23:41](https://news.ycombinator.com/item?id=32136202) - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
 * [2022-07-18, 09:09:05](https://news.ycombinator.com/item?id=32136121) - [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
@@ -27,9 +27,9 @@
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A public school in Florida built America’s greatest math team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius' (2018)](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
 * [2022-07-18, 01:12:29](https://news.ycombinator.com/item?id=32133394) - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
+* [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 * [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The speedy downfall of rapid delivery startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-17, 00:24:37](https://news.ycombinator.com/item?id=32123209) - [A Look Back at the USSR Computer Industry](https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/)
-* [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation is composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
 
 ## [Archives](archives/index.md)
 

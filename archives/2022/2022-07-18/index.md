@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 15:28:58](https://news.ycombinator.com/item?id=32139482) - [The Victorian Hyperloop: the forgotten pneumatic railway beneath London](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
 * [2022-07-18, 14:47:38](https://news.ycombinator.com/item?id=32139026) - [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
 * [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing “Seen by” Functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
