@@ -10,6 +10,7 @@
 * [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
 * [2022-07-18, 16:00:34](https://news.ycombinator.com/item?id=32139827) - [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
 * [2022-07-18, 15:53:50](https://news.ycombinator.com/item?id=32139762) - [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
+* [2022-07-18, 15:45:50](https://news.ycombinator.com/item?id=32139672) - [My Poor Experience With Azure (or why I'm sticking with AWS)](https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/)
 * [2022-07-18, 15:40:28](https://news.ycombinator.com/item?id=32139612) - [RSS is back as an underpinning to SlackOps](https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/)
 * [2022-07-18, 15:28:58](https://news.ycombinator.com/item?id=32139482) - [The Victorian Hyperloop: The forgotten pneumatic railway beneath London (2016)](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
 * [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing \"seen by\" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
@@ -18,7 +19,6 @@
 * [2022-07-18, 13:30:14](https://news.ycombinator.com/item?id=32138129) - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
 * [2022-07-18, 13:08:32](https://news.ycombinator.com/item?id=32137888) - [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 * [2022-07-18, 12:46:03](https://news.ycombinator.com/item?id=32137679) - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
-* [2022-07-18, 12:17:24](https://news.ycombinator.com/item?id=32137397) - [The AI Battle Rages On](https://aifuture.substack.com/p/the-ai-battle-rages-on)
 * [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 * [2022-07-18, 12:04:33](https://news.ycombinator.com/item?id=32137275) - [Mpv – A free, open source, and cross-platform media player](https://mpv.io/)
 * [2022-07-18, 11:07:05](https://news.ycombinator.com/item?id=32136804) - [TV, or not TV: the story of our bike box (2019)](https://www.vanmoof.com/blog/en/tv-bike-box)
@@ -26,10 +26,10 @@
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Iceland’s forest and bush cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 09:25:01](https://news.ycombinator.com/item?id=32136207) - [Keeping it Analog: A framework for opting out of connectivity](https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+* [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs (2013)](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A public school in Florida built America’s greatest math team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-17, 11:38:21](https://news.ycombinator.com/item?id=32125954) - [Perceived Affordances and the Functionality Mismatch](https://tink.uk/perceived-affordances-and-the-functionality-mismatch/)
-* [2022-07-16, 10:19:00](https://news.ycombinator.com/item?id=32116664) - [The short, mysterious career of Deux Filles](https://www.ltmrecordings.com/deux_filles.html)
 
 ## [Archives](archives/index.md)
 
