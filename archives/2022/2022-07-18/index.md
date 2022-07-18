@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 17:00:49](https://news.ycombinator.com/item?id=32140527) - [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
 * [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
 * [2022-07-18, 16:00:34](https://news.ycombinator.com/item?id=32139827) - [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
 * [2022-07-18, 15:53:50](https://news.ycombinator.com/item?id=32139762) - [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
@@ -19,6 +20,7 @@
 * [2022-07-18, 13:30:14](https://news.ycombinator.com/item?id=32138129) - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
 * [2022-07-18, 13:08:32](https://news.ycombinator.com/item?id=32137888) - [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 * [2022-07-18, 12:46:03](https://news.ycombinator.com/item?id=32137679) - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
+* [2022-07-18, 12:17:24](https://news.ycombinator.com/item?id=32137397) - [The AI Battle Rages On](https://aifuture.substack.com/p/the-ai-battle-rages-on)
 * [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 * [2022-07-18, 12:04:33](https://news.ycombinator.com/item?id=32137275) - [Mpv – a free, open-source, and cross-platform media player](https://mpv.io/)
 * [2022-07-18, 12:03:03](https://news.ycombinator.com/item?id=32137268) - [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US)](https://kable.io)
