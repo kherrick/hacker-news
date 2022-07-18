@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-07-17, 18:28:50",
-      "https://news.ycombinator.com/item?id=32129574"
-    ],
-    [
-      "$9.99/month",
-      "https://basicappleguy.com/basicappleblog/999month"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 18:19:08",
       "https://news.ycombinator.com/item?id=32129478"
     ],
@@ -187,16 +177,6 @@
     [
       "The slow march of progress in programming language tooling",
       "https://earthly.dev/blog/programming-language-improvements/"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 16:09:55",
-      "https://news.ycombinator.com/item?id=32128030"
-    ],
-    [
-      "Show HN: Netflix Calculator",
-      "https://www.netflixcalculator.com/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-07-16, 06:21:47",
+      "https://news.ycombinator.com/item?id=32115698"
+    ],
+    [
+      "Guessing, reconstructing and recovering data from a partially wiped disk",
+      "https://nyllep.wordpress.com/2022/02/04/recovering-encrypted-hfs/"
+    ]
+  ],
+  [
+    [
       "2022-07-15, 09:38:16",
       "https://news.ycombinator.com/item?id=32106367"
     ],
     [
       "The Art of the Family Photo",
       "https://www.newyorker.com/culture/annals-of-inquiry/family-photos"
+    ]
+  ],
+  [
+    [
+      "2022-07-15, 07:30:52",
+      "https://news.ycombinator.com/item?id=32105661"
+    ],
+    [
+      "Does a compiler use all x86 instructions? (2016)",
+      "http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html"
     ]
   ]
 ]
