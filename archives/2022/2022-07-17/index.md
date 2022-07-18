@@ -54,6 +54,7 @@
 * [2022-07-17, 13:09:45](https://news.ycombinator.com/item?id=32126438) - [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
 * [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 * [2022-07-17, 11:42:35](https://news.ycombinator.com/item?id=32125972) - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
+* [2022-07-17, 11:38:21](https://news.ycombinator.com/item?id=32125954) - [Perceived Affordances and the Functionality Mismatch](https://tink.uk/perceived-affordances-and-the-functionality-mismatch/)
 * [2022-07-17, 11:38:06](https://news.ycombinator.com/item?id=32125951) - [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
 * [2022-07-17, 11:32:59](https://news.ycombinator.com/item?id=32125933) - [Building a radio-controlled submarine with automatic depth control](https://brickexperimentchannel.wordpress.com/rc-submarine-4-0-blog-post-series/)
 * [2022-07-17, 11:17:01](https://news.ycombinator.com/item?id=32125868) - [Pleasant Debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
