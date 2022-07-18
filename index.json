@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-18, 05:55:50",
+      "https://news.ycombinator.com/item?id=32135157"
+    ],
+    [
+      "CLI tool for converting txn statements from Singaporean banks into a sane format",
+      "https://github.com/ajensenwaud/dbs-tools"
+    ]
+  ],
+  [
+    [
       "2022-07-18, 04:40:14",
       "https://news.ycombinator.com/item?id=32134734"
     ],
@@ -15,8 +25,28 @@
       "https://news.ycombinator.com/item?id=32134691"
     ],
     [
-      "Paper Airplane Designs",
+      "Paper Airplane Designs (2013)",
       "https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 03:55:10",
+      "https://news.ycombinator.com/item?id=32134469"
+    ],
+    [
+      "Monodraw – a non-subscription, powerful ASCII art editor",
+      "https://blog.helftone.com/monodraw-v1.6/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 03:47:26",
+      "https://news.ycombinator.com/item?id=32134423"
+    ],
+    [
+      "A public school in Florida built America’s greatest math team",
+      "https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32134153"
     ],
     [
-      "After Weight-Loss Surgery, a Year of Joys and Disappointments",
+      "After weight-loss surgery, a year of joys and disappointments (2016)",
       "https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html"
     ]
   ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2022-07-17, 17:01:16",
-      "https://news.ycombinator.com/item?id=32128601"
-    ],
-    [
-      "Patterns (YC S21) is hiring to build an app store for data warehouses",
-      "https://www.patterns.app/"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 16:32:12",
       "https://news.ycombinator.com/item?id=32128271"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2022-07-17, 15:25:42",
-      "https://news.ycombinator.com/item?id=32127622"
-    ],
-    [
-      "George Orwell’s 1940 Review of Mein Kampf",
-      "https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/"
-    ]
-  ],
-  [
-    [
       "2022-07-17, 14:57:32",
       "https://news.ycombinator.com/item?id=32127363"
     ],
     [
       "Bear Blog – A privacy-first, fast blogging platform",
       "https://bearblog.dev"
-    ]
-  ],
-  [
-    [
-      "2022-07-16, 10:33:28",
-      "https://news.ycombinator.com/item?id=32116735"
-    ],
-    [
-      "Arcan Display Server 0.6.2 – It’s all connected",
-      "https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32115672"
     ],
     [
-      "Concatenation Is Composition",
+      "Concatenation is composition",
       "https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition"
     ]
   ],
