@@ -71,6 +71,7 @@
 * [2022-07-15, 08:45:42](https://news.ycombinator.com/item?id=32106126) - [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
 * [2022-07-15, 08:34:45](https://news.ycombinator.com/item?id=32106063) - [Jury Finds Former CIA Programmer Guilty of Leaking CIA Hacking Materials](https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/)
 * [2022-07-15, 08:17:55](https://news.ycombinator.com/item?id=32105953) - [The Great Green Wall](https://www.greatgreenwall.org/about-great-green-wall)
+* [2022-07-15, 08:13:58](https://news.ycombinator.com/item?id=32105925) - [On Language Models for Creoles [pdf]](https://aclanthology.org/2021.conll-1.5.pdf)
 * [2022-07-15, 07:51:27](https://news.ycombinator.com/item?id=32105792) - [Applause – Web archive with astronomical photographic plates](https://www.plate-archive.org/cms/)
 * [2022-07-15, 07:50:24](https://news.ycombinator.com/item?id=32105782) - [Ask HN: How do I lead a team whom I have no confidence?](https://news.ycombinator.com/item?id=32105782)
 * [2022-07-15, 07:30:52](https://news.ycombinator.com/item?id=32105661) - [Does a compiler use all x86 instructions? (2016)](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
