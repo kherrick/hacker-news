@@ -23,13 +23,13 @@
 * [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing \"seen by\" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 * [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM thermal issues reach crisis point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
+* [2022-07-18, 13:30:14](https://news.ycombinator.com/item?id=32138129) - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
 * [2022-07-18, 12:17:24](https://news.ycombinator.com/item?id=32137397) - [The AI Battle](https://aifuture.substack.com/p/the-ai-battle-rages-on)
 * [2022-07-18, 12:04:33](https://news.ycombinator.com/item?id=32137275) - [Mpv – A free, open source, and cross-platform media player](https://mpv.io/)
 * [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [Typical implementations of payment processing and related security issues](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Iceland’s forest and bush cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 01:33:13](https://news.ycombinator.com/item?id=32133516) - [‘How to Tell a Story’ Review: Aristotle in the Writers’ Room](https://www.wsj.com/articles/how-to-tell-a-story-book-review-aristotle-in-the-writers-room-11657900138)
 * [2022-07-17, 11:21:04](https://news.ycombinator.com/item?id=32125894) - [Microsoft Creative Writer (1993)](https://en.wikipedia.org/wiki/Creative_Writer)
-* [2022-07-17, 08:46:53](https://news.ycombinator.com/item?id=32125386) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 
 ## [Archives](archives/index.md)
 
