@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 08:46:12](https://news.ycombinator.com/item?id=32135992) - [Ask HN: Has YouTube Peaked?](https://news.ycombinator.com/item?id=32135992)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
@@ -15,7 +16,6 @@
 * [2022-07-18, 01:12:29](https://news.ycombinator.com/item?id=32133394) - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
 * [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 * [2022-07-18, 00:51:46](https://news.ycombinator.com/item?id=32133261) - [Building a secure software supply chain with GNU Guix](https://programming-journal.org/2023/7/1/)
-* [2022-07-17, 23:43:55](https://news.ycombinator.com/item?id=32132746) - ['I want your Instagram account': a deadly campaign over coveted handles](https://www.businessinsider.com/handles-instagram-twitter-social-media-deadly-harassment-campaign-2022-7)
 * [2022-07-17, 21:18:02](https://news.ycombinator.com/item?id=32131396) - [Rowan Atkinson: Visual Comedy (1992) [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
 * [2022-07-17, 20:55:34](https://news.ycombinator.com/item?id=32131153) - [Neural Network Loss Landscapes: What do we know? (2021)](https://damueller.com/#/blog-post/NNLLs)
 * [2022-07-17, 20:29:28](https://news.ycombinator.com/item?id=32130906) - [The case for bad coffee (2015)](https://www.seriouseats.com/the-case-for-bad-coffee)
