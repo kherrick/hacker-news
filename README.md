@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 18:22:09](https://news.ycombinator.com/item?id=32141573) - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 * [2022-07-18, 18:05:15](https://news.ycombinator.com/item?id=32141358) - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
 * [2022-07-18, 17:44:05](https://news.ycombinator.com/item?id=32141024) - [Fart Stack](https://fart-stack.io/)
 * [2022-07-18, 17:21:43](https://news.ycombinator.com/item?id=32140774) - [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
@@ -26,7 +27,6 @@
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Iceland’s forest and bush cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 09:25:01](https://news.ycombinator.com/item?id=32136207) - [Keeping it Analog: A framework for opting out of connectivity](https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
-* [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs (2013)](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A public school in Florida built America’s greatest math team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-17, 11:38:21](https://news.ycombinator.com/item?id=32125954) - [Perceived Affordances and the Functionality Mismatch](https://tink.uk/perceived-affordances-and-the-functionality-mismatch/)

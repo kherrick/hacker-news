@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 18:22:09](https://news.ycombinator.com/item?id=32141573) - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 * [2022-07-18, 18:05:15](https://news.ycombinator.com/item?id=32141358) - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
 * [2022-07-18, 17:50:32](https://news.ycombinator.com/item?id=32141104) - [40% of Americans believe the Earth was created within the last 10k years](https://news.gallup.com/poll/261680/americans-believe-creationism.aspx)
 * [2022-07-18, 17:44:05](https://news.ycombinator.com/item?id=32141024) - [Fart Stack](https://fart-stack.io/)
