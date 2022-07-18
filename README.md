@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-18, 14:47:38](https://news.ycombinator.com/item?id=32139026) - [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
+* [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing “Seen by” Functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 * [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 * [2022-07-18, 13:30:14](https://news.ycombinator.com/item?id=32138129) - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
@@ -18,7 +18,6 @@
 * [2022-07-18, 09:28:40](https://news.ycombinator.com/item?id=32136231) - [Wealth as a predictor of whether an person pursues a creative profession (2019)](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
 * [2022-07-18, 09:23:41](https://news.ycombinator.com/item?id=32136202) - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
 * [2022-07-18, 09:09:05](https://news.ycombinator.com/item?id=32136121) - [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
-* [2022-07-18, 08:58:11](https://news.ycombinator.com/item?id=32136067) - [Layoffs Create a Vacuum for Fraud](https://www.thewiretap.io/the-fraud-vacuum/)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
@@ -30,6 +29,7 @@
 * [2022-07-18, 01:12:29](https://news.ycombinator.com/item?id=32133394) - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
 * [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The speedy downfall of rapid delivery startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-17, 00:24:37](https://news.ycombinator.com/item?id=32123209) - [A Look Back at the USSR Computer Industry](https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/)
+* [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation is composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
 
 ## [Archives](archives/index.md)
 
