@@ -12,7 +12,7 @@
 * [2022-07-18, 15:53:50](https://news.ycombinator.com/item?id=32139762) - [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
 * [2022-07-18, 15:45:50](https://news.ycombinator.com/item?id=32139672) - [My Poor Experience With Azure (or why I'm sticking with AWS)](https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/)
 * [2022-07-18, 15:40:28](https://news.ycombinator.com/item?id=32139612) - [RSS is back as an underpinning to SlackOps](https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/)
-* [2022-07-18, 15:28:58](https://news.ycombinator.com/item?id=32139482) - [The Victorian Hyperloop: A pneumatic railway beneath London (2013)](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
+* [2022-07-18, 15:28:58](https://news.ycombinator.com/item?id=32139482) - [London's Victorian Hyperloop: a pneumatic railway beneath the capital (2013)](https://www.newstatesman.com/politics/2013/12/londons-victorian-hyperloop-forgotten-pneumatic-railway-beneath-capitals-street)
 * [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing \"seen by\" functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 * [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
