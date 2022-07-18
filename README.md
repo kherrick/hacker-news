@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 * [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
@@ -9,7 +10,7 @@
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A public school in Florida built America’s greatest math team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
 * [2022-07-18, 02:50:46](https://news.ycombinator.com/item?id=32134038) - [An ex-Googler's guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
-* [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius'](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
+* [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius' (2018)](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
 * [2022-07-18, 02:21:04](https://news.ycombinator.com/item?id=32133839) - [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
 * [2022-07-18, 01:12:29](https://news.ycombinator.com/item?id=32133394) - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
 * [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
@@ -22,7 +23,6 @@
 * [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [I made advanced BI queries with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
 * [2022-07-17, 19:30:26](https://news.ycombinator.com/item?id=32130313) - [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
 * [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
-* [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The slow march of progress in programming language tooling](https://earthly.dev/blog/programming-language-improvements/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A blog platform for hackers](https://prose.sh/)
 * [2022-07-17, 14:57:32](https://news.ycombinator.com/item?id=32127363) - [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
 * [2022-07-17, 05:23:37](https://news.ycombinator.com/item?id=32124690) - [Why Read Fichte Today?](https://aeon.co/essays/on-freedom-and-the-limits-of-agency-the-philosophy-of-fichte)
