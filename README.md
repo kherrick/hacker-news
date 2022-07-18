@@ -13,7 +13,6 @@
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 * [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
-* [2022-07-18, 04:40:14](https://news.ycombinator.com/item?id=32134734) - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs (2013)](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2022-07-18, 03:55:10](https://news.ycombinator.com/item?id=32134469) - [Monodraw – a non-subscription, powerful ASCII art editor](https://blog.helftone.com/monodraw-v1.6/)
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A public school in Florida built America’s greatest math team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
@@ -28,6 +27,7 @@
 * [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)
 * [2022-07-17, 05:23:37](https://news.ycombinator.com/item?id=32124690) - [Why Read Fichte Today?](https://aeon.co/essays/on-freedom-and-the-limits-of-agency-the-philosophy-of-fichte)
 * [2022-07-17, 00:24:37](https://news.ycombinator.com/item?id=32123209) - [A Look Back at the USSR Computer Industry](https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/)
+* [2022-07-17, 00:18:46](https://news.ycombinator.com/item?id=32123170) - [Taking the Sting Out of Wasps](https://www.wsj.com/articles/taking-the-sting-out-of-wasps-11657816150)
 * [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation is composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
 * [2022-07-15, 07:30:52](https://news.ycombinator.com/item?id=32105661) - [Does a compiler use all x86 instructions? (2016)](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
 
