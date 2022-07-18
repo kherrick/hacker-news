@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
+* [2022-07-18, 16:00:34](https://news.ycombinator.com/item?id=32139827) - [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
+* [2022-07-18, 15:53:50](https://news.ycombinator.com/item?id=32139762) - [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
+* [2022-07-18, 15:45:50](https://news.ycombinator.com/item?id=32139672) - [My Poor Experience With Azure (or why I'm sticking with AWS)](https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/)
+* [2022-07-18, 15:40:28](https://news.ycombinator.com/item?id=32139612) - [RSS is on fire again, and it's all down to SlackOps](https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/)
 * [2022-07-18, 15:28:58](https://news.ycombinator.com/item?id=32139482) - [The Victorian Hyperloop: the forgotten pneumatic railway beneath London](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
 * [2022-07-18, 14:47:38](https://news.ycombinator.com/item?id=32139026) - [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
 * [2022-07-18, 14:27:43](https://news.ycombinator.com/item?id=32138790) - [Implementing “Seen by” Functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
+* [2022-07-18, 14:21:34](https://news.ycombinator.com/item?id=32138719) - [There's 200 form builders, but none do what a programmer can, so I built my own](https://blog.keenforms.com/there-are-200-form-builders-but-none-of-them-can-do-what-i-as-a-programmer-can-do-so-i-built-my-own/)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 * [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 * [2022-07-18, 13:33:15](https://news.ycombinator.com/item?id=32138169) - [Unraveling the Deep Learning Reproducibility Crisis](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
@@ -25,6 +31,7 @@
 * [2022-07-18, 10:14:59](https://news.ycombinator.com/item?id=32136483) - [Asahi Linux: July 2022 Release and Progress Report](https://asahilinux.org/2022/07/july-2022-release/)
 * [2022-07-18, 09:55:13](https://news.ycombinator.com/item?id=32136384) - [Gnucash – open-source accounting software for personal and small businesses](https://www.gnucash.org/?hn)
 * [2022-07-18, 09:28:40](https://news.ycombinator.com/item?id=32136231) - [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
+* [2022-07-18, 09:25:01](https://news.ycombinator.com/item?id=32136207) - [Keeping it Analog: A framework for opting out of connectivity](https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/)
 * [2022-07-18, 09:23:41](https://news.ycombinator.com/item?id=32136202) - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
 * [2022-07-18, 09:09:05](https://news.ycombinator.com/item?id=32136121) - [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
 * [2022-07-18, 08:58:11](https://news.ycombinator.com/item?id=32136067) - [Layoffs Create a Vacuum for Fraud](https://www.thewiretap.io/the-fraud-vacuum/)
