@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-18, 14:47:38",
-      "https://news.ycombinator.com/item?id=32139026"
+      "2022-07-18, 14:27:43",
+      "https://news.ycombinator.com/item?id=32138790"
     ],
     [
-      "Crimes Against Transhumanity",
-      "http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html"
+      "Implementing “Seen by” Functionality with Postgres",
+      "https://supabase.com/blog/2022/07/18/seen-by-in-postgresql"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-07-18, 08:58:11",
-      "https://news.ycombinator.com/item?id=32136067"
-    ],
-    [
-      "Layoffs Create a Vacuum for Fraud",
-      "https://www.thewiretap.io/the-fraud-vacuum/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 06:50:54",
       "https://news.ycombinator.com/item?id=32135462"
     ],
@@ -297,6 +287,16 @@
     [
       "A Look Back at the USSR Computer Industry",
       "https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/"
+    ]
+  ],
+  [
+    [
+      "2022-07-16, 06:16:59",
+      "https://news.ycombinator.com/item?id=32115672"
+    ],
+    [
+      "Concatenation is composition",
+      "https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition"
     ]
   ]
 ]
