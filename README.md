@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 * [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 * [2022-07-18, 04:40:14](https://news.ycombinator.com/item?id=32134734) - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
@@ -26,7 +27,6 @@
 * [2022-07-17, 14:57:32](https://news.ycombinator.com/item?id=32127363) - [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
 * [2022-07-17, 05:23:37](https://news.ycombinator.com/item?id=32124690) - [Why Read Fichte Today?](https://aeon.co/essays/on-freedom-and-the-limits-of-agency-the-philosophy-of-fichte)
 * [2022-07-16, 08:15:14](https://news.ycombinator.com/item?id=32116145) - [Is JPEG 2000 a preservation risk? (2013)](https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/)
-* [2022-07-16, 07:11:51](https://news.ycombinator.com/item?id=32115878) - [Writing the perfect question (2010)](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
 * [2022-07-16, 06:16:59](https://news.ycombinator.com/item?id=32115672) - [Concatenation is composition](https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition)
 * [2022-07-15, 08:13:58](https://news.ycombinator.com/item?id=32105925) - [On Language Models for Creoles [pdf]](https://aclanthology.org/2021.conll-1.5.pdf)
 * [2022-07-15, 07:30:52](https://news.ycombinator.com/item?id=32105661) - [Does a compiler use all x86 instructions? (2016)](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
