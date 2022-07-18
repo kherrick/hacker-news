@@ -44,6 +44,7 @@
 * [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 10:28:54](https://news.ycombinator.com/item?id=32116711) - [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
+* [2022-07-16, 10:19:00](https://news.ycombinator.com/item?id=32116664) - [The short, mysterious career of Deux Filles](https://www.ltmrecordings.com/deux_filles.html)
 * [2022-07-16, 10:03:10](https://news.ycombinator.com/item?id=32116594) - [How Not to Fight Inflation](https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation)
 * [2022-07-16, 09:23:05](https://news.ycombinator.com/item?id=32116413) - [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
 * [2022-07-16, 08:55:24](https://news.ycombinator.com/item?id=32116305) - [How the Colosseum Was Built and Why It Was an Architectural Marvel](https://www.history.com/news/how-roman-colosseum-built)
