@@ -66,6 +66,7 @@
 * [2022-07-17, 10:43:13](https://news.ycombinator.com/item?id=32125722) - [This is How Civilisations Collapse](https://unherd.com/2021/11/this-is-how-civilisations-collapse/)
 * [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
 * [2022-07-17, 08:54:56](https://news.ycombinator.com/item?id=32125417) - [The high price we pay for social media](https://timharford.com/2022/07/the-high-price-we-pay-for-social-media/)
+* [2022-07-17, 08:46:53](https://news.ycombinator.com/item?id=32125386) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 * [2022-07-17, 07:02:03](https://news.ycombinator.com/item?id=32125019) - [Stacker (YC S20) Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
 * [2022-07-17, 06:43:05](https://news.ycombinator.com/item?id=32124964) - [Bill Watterson, Picasso, and HN on self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
 * [2022-07-17, 06:17:00](https://news.ycombinator.com/item?id=32124878) - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/)

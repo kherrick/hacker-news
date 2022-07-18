@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 19:02:02](https://news.ycombinator.com/item?id=32142111) - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [2022-07-18, 18:52:13](https://news.ycombinator.com/item?id=32141962) - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
 * [2022-07-18, 18:22:09](https://news.ycombinator.com/item?id=32141573) - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 * [2022-07-18, 18:05:15](https://news.ycombinator.com/item?id=32141358) - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
 * [2022-07-18, 17:50:32](https://news.ycombinator.com/item?id=32141104) - [40% of Americans believe the Earth was created within the last 10k years](https://news.gallup.com/poll/261680/americans-believe-creationism.aspx)
+* [2022-07-18, 17:44:31](https://news.ycombinator.com/item?id=32141027) - [How Did REST Come to Mean the Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2022-07-18, 17:44:05](https://news.ycombinator.com/item?id=32141024) - [Fart Stack](https://fart-stack.io/)
 * [2022-07-18, 17:21:43](https://news.ycombinator.com/item?id=32140774) - [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
 * [2022-07-18, 17:21:38](https://news.ycombinator.com/item?id=32140773) - [The Great Dumbening](https://imightbewrong.substack.com/p/the-great-dumbening)

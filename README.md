@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 19:02:02](https://news.ycombinator.com/item?id=32142111) - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [2022-07-18, 18:52:13](https://news.ycombinator.com/item?id=32141962) - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
 * [2022-07-18, 18:22:09](https://news.ycombinator.com/item?id=32141573) - [Learning Go as a Python Developer: The Good and the Bad](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
 * [2022-07-18, 18:05:15](https://news.ycombinator.com/item?id=32141358) - [Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit](https://news.ycombinator.com/item?id=32141358)
+* [2022-07-18, 17:44:31](https://news.ycombinator.com/item?id=32141027) - [How Did REST Come to Mean the Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2022-07-18, 17:21:43](https://news.ycombinator.com/item?id=32140774) - [Thoughts on RSS](https://matt-rickard.com/thoughts-on-rss/)
-* [2022-07-18, 17:17:10](https://news.ycombinator.com/item?id=32140727) - [What I learned trying to classify abortion access across the rich world](https://dynomight.net/abortion/)
 * [2022-07-18, 17:00:49](https://news.ycombinator.com/item?id=32140527) - [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
 * [2022-07-18, 16:57:05](https://news.ycombinator.com/item?id=32140487) - [Show HN: Babble – Communicate privately on state-sponsored social media](https://babble.landrop.app/)
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for Unix (1992) used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
@@ -26,10 +27,9 @@
 * [2022-07-18, 11:07:05](https://news.ycombinator.com/item?id=32136804) - [TV, or not TV: the story of our bike box (2019)](https://www.vanmoof.com/blog/en/tv-bike-box)
 * [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [Typical implementations of payment processing and related security issues](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Iceland’s forest and bush cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
-* [2022-07-18, 09:25:01](https://news.ycombinator.com/item?id=32136207) - [Keeping it Analog: A framework for opting out of connectivity](https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
-* [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 * [2022-07-17, 11:21:04](https://news.ycombinator.com/item?id=32125894) - [Microsoft Creative Writer (1993)](https://en.wikipedia.org/wiki/Creative_Writer)
+* [2022-07-17, 08:46:53](https://news.ycombinator.com/item?id=32125386) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 
 ## [Archives](archives/index.md)
 
