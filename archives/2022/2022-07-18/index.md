@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
+* [2022-07-18, 10:15:33](https://news.ycombinator.com/item?id=32136487) - [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
+* [2022-07-18, 09:28:40](https://news.ycombinator.com/item?id=32136231) - [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
 * [2022-07-18, 09:23:41](https://news.ycombinator.com/item?id=32136202) - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
 * [2022-07-18, 09:09:05](https://news.ycombinator.com/item?id=32136121) - [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
 * [2022-07-18, 08:58:11](https://news.ycombinator.com/item?id=32136067) - [Layoffs Create a Vacuum for Fraud](https://www.thewiretap.io/the-fraud-vacuum/)
