@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
+* [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 * [2022-07-18, 13:33:15](https://news.ycombinator.com/item?id=32138169) - [Unraveling the Deep Learning Reproducibility Crisis](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
 * [2022-07-18, 13:30:14](https://news.ycombinator.com/item?id=32138129) - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
 * [2022-07-18, 13:08:32](https://news.ycombinator.com/item?id=32137888) - [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
