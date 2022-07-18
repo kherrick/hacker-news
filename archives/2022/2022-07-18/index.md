@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 14:47:38](https://news.ycombinator.com/item?id=32139026) - [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
 * [2022-07-18, 14:14:26](https://news.ycombinator.com/item?id=32138631) - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 * [2022-07-18, 13:37:00](https://news.ycombinator.com/item?id=32138205) - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 * [2022-07-18, 13:33:15](https://news.ycombinator.com/item?id=32138169) - [Unraveling the Deep Learning Reproducibility Crisis](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
@@ -11,7 +12,9 @@
 * [2022-07-18, 13:08:32](https://news.ycombinator.com/item?id=32137888) - [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 * [2022-07-18, 12:46:03](https://news.ycombinator.com/item?id=32137679) - [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
 * [2022-07-18, 12:11:17](https://news.ycombinator.com/item?id=32137336) - [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
+* [2022-07-18, 12:04:33](https://news.ycombinator.com/item?id=32137275) - [Mpv – a free, open-source, and cross-platform media player](https://mpv.io/)
 * [2022-07-18, 12:03:03](https://news.ycombinator.com/item?id=32137268) - [Kable (YC W22) Is Hiring a Founding Engineer (Remote, US)](https://kable.io)
+* [2022-07-18, 11:58:16](https://news.ycombinator.com/item?id=32137221) - [Show HN: I Fixed Journaling for Myself](https://dailyprompt.org/)
 * [2022-07-18, 11:07:05](https://news.ycombinator.com/item?id=32136804) - [TV, or not TV: the story of our bike box (2019)](https://www.vanmoof.com/blog/en/tv-bike-box)
 * [2022-07-18, 10:57:24](https://news.ycombinator.com/item?id=32136733) - [I LOVE programming but HATE the industry. Can anyone relate?](https://news.ycombinator.com/item?id=32136733)
 * [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
