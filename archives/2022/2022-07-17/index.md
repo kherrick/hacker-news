@@ -79,4 +79,5 @@
 * [2022-07-17, 01:43:21](https://news.ycombinator.com/item?id=32123655) - [Tehran’s Red-Light District](https://failedarchitecture.com/the-hidden-history-of-tehrans-red-light-district/)
 * [2022-07-17, 00:42:33](https://news.ycombinator.com/item?id=32123309) - [Dr. DOS Betamax's DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
 * [2022-07-17, 00:32:48](https://news.ycombinator.com/item?id=32123258) - [How about a Genius Basic Income?](https://ideassleepfuriously.substack.com/p/how-about-a-genius-basic-income)
+* [2022-07-17, 00:24:37](https://news.ycombinator.com/item?id=32123209) - [A Look Back at the USSR Computer Industry](https://hackaday.com/2022/07/16/a-look-back-at-the-ussr-computer-industry/)
 * [2022-07-17, 00:13:52](https://news.ycombinator.com/item?id=32123143) - [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
