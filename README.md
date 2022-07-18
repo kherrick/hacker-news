@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 23:06:18](https://news.ycombinator.com/item?id=32145268) - [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
+* [2022-07-18, 22:32:01](https://news.ycombinator.com/item?id=32144912) - [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
 * [2022-07-18, 21:22:41](https://news.ycombinator.com/item?id=32143953) - [Shannon's Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
 * [2022-07-18, 21:08:48](https://news.ycombinator.com/item?id=32143747) - [Film grain synthesis in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
 * [2022-07-18, 21:00:51](https://news.ycombinator.com/item?id=32143637) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
@@ -27,8 +29,6 @@
 * [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [Typical implementations of payment processing and related security issues](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Iceland’s forest and bush cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 06:04:59](https://news.ycombinator.com/item?id=32135219) - [Free-standing liquid membranes as unusual particle separators (2018)](http://advances.sciencemag.org/content/4/8/eaat3276)
-* [2022-07-18, 04:56:22](https://news.ycombinator.com/item?id=32134831) - [Beethoven's Legacy](https://blogs.bl.uk/music/2022/04/beethovens-legacy.html)
-* [2022-07-18, 01:33:13](https://news.ycombinator.com/item?id=32133516) - [‘How to Tell a Story’ Review: Aristotle in the Writers’ Room](https://www.wsj.com/articles/how-to-tell-a-story-book-review-aristotle-in-the-writers-room-11657900138)
 * [2022-07-17, 11:21:04](https://news.ycombinator.com/item?id=32125894) - [Microsoft Creative Writer (1993)](https://en.wikipedia.org/wiki/Creative_Writer)
 
 ## [Archives](archives/index.md)

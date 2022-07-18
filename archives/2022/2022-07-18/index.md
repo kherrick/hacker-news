@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 23:06:18](https://news.ycombinator.com/item?id=32145268) - [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
+* [2022-07-18, 22:32:01](https://news.ycombinator.com/item?id=32144912) - [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
 * [2022-07-18, 21:22:41](https://news.ycombinator.com/item?id=32143953) - [Shannon's Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
 * [2022-07-18, 21:08:48](https://news.ycombinator.com/item?id=32143747) - [Film grain synthesis in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
 * [2022-07-18, 21:00:51](https://news.ycombinator.com/item?id=32143637) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
