@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 10:15:33](https://news.ycombinator.com/item?id=32136487) - [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
 * [2022-07-18, 09:28:40](https://news.ycombinator.com/item?id=32136231) - [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
@@ -16,7 +17,6 @@
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A public school in Florida built America’s greatest math team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
 * [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius' (2018)](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
-* [2022-07-18, 02:21:04](https://news.ycombinator.com/item?id=32133839) - [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
 * [2022-07-18, 01:12:29](https://news.ycombinator.com/item?id=32133394) - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
 * [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 * [2022-07-18, 00:51:46](https://news.ycombinator.com/item?id=32133261) - [Building a secure software supply chain with GNU Guix](https://programming-journal.org/2023/7/1/)

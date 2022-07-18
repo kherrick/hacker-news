@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 10:34:36](https://news.ycombinator.com/item?id=32136581) - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
 * [2022-07-18, 10:23:44](https://news.ycombinator.com/item?id=32136526) - [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
 * [2022-07-18, 10:15:33](https://news.ycombinator.com/item?id=32136487) - [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
 * [2022-07-18, 09:28:40](https://news.ycombinator.com/item?id=32136231) - [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
