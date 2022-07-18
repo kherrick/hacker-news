@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 04:40:14](https://news.ycombinator.com/item?id=32134734) - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
 * [2022-07-18, 04:32:47](https://news.ycombinator.com/item?id=32134691) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
