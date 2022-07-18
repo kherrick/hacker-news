@@ -13,13 +13,11 @@
 * [2022-07-17, 19:41:54](https://news.ycombinator.com/item?id=32130444) - [I made advanced BI queries with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
 * [2022-07-17, 19:37:33](https://news.ycombinator.com/item?id=32130401) - [Trilium Notes: note taking application for large personal knowledge bases](https://github.com/zadam/trilium)
 * [2022-07-17, 19:30:26](https://news.ycombinator.com/item?id=32130313) - [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
-* [2022-07-17, 18:28:50](https://news.ycombinator.com/item?id=32129574) - [$9.99/month](https://basicappleguy.com/basicappleblog/999month)
 * [2022-07-17, 18:19:08](https://news.ycombinator.com/item?id=32129478) - [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
 * [2022-07-17, 17:43:31](https://news.ycombinator.com/item?id=32129100) - [Facebook has started to encrypt links to counter privacy-improving URL Stripping](https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/)
 * [2022-07-17, 17:28:14](https://news.ycombinator.com/item?id=32128931) - [Over-engineering an RGB LED strip: let’s make a custom programming language](https://pixelspark.nl/2021/over-engineering-an-rgb-led-strip-controller-lets-write-a-custom-programming-language-and-instruction-set)
 * [2022-07-17, 17:01:16](https://news.ycombinator.com/item?id=32128601) - [Patterns (YC S21) is hiring to build an app store for data warehouses](https://www.patterns.app/)
 * [2022-07-17, 16:32:12](https://news.ycombinator.com/item?id=32128271) - [The slow march of progress in programming language tooling](https://earthly.dev/blog/programming-language-improvements/)
-* [2022-07-17, 16:09:55](https://news.ycombinator.com/item?id=32128030) - [Show HN: Netflix Calculator](https://www.netflixcalculator.com/)
 * [2022-07-17, 16:08:18](https://news.ycombinator.com/item?id=32128013) - [Prose.sh – A blog platform for hackers](https://prose.sh/)
 * [2022-07-17, 15:25:42](https://news.ycombinator.com/item?id=32127622) - [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
 * [2022-07-17, 14:57:32](https://news.ycombinator.com/item?id=32127363) - [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
@@ -29,7 +27,9 @@
 * [2022-07-16, 10:33:28](https://news.ycombinator.com/item?id=32116735) - [Arcan Display Server 0.6.2 – It’s all connected](https://arcan-fe.com/2022/07/15/arcan-0-6-2-its-all-connected/)
 * [2022-07-16, 08:15:14](https://news.ycombinator.com/item?id=32116145) - [Is JPEG 2000 a preservation risk? (2013)](https://blogs.loc.gov/thesignal/2013/01/is-jpeg-2000-a-preservation-risk/)
 * [2022-07-16, 07:11:51](https://news.ycombinator.com/item?id=32115878) - [Writing the Perfect Question (2010)](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
+* [2022-07-16, 06:21:47](https://news.ycombinator.com/item?id=32115698) - [Guessing, reconstructing and recovering data from a partially wiped disk](https://nyllep.wordpress.com/2022/02/04/recovering-encrypted-hfs/)
 * [2022-07-15, 09:38:16](https://news.ycombinator.com/item?id=32106367) - [The Art of the Family Photo](https://www.newyorker.com/culture/annals-of-inquiry/family-photos)
+* [2022-07-15, 07:30:52](https://news.ycombinator.com/item?id=32105661) - [Does a compiler use all x86 instructions? (2016)](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
 
 ## [Archives](archives/index.md)
 
