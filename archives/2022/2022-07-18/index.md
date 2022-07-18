@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 21:08:48](https://news.ycombinator.com/item?id=32143747) - [Film grain synthesis in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
+* [2022-07-18, 21:00:51](https://news.ycombinator.com/item?id=32143637) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2022-07-18, 21:00:23](https://news.ycombinator.com/item?id=32143631) - [Entire telecomm infrastructure of Iceland sold to private equity](https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network)
+* [2022-07-18, 20:45:53](https://news.ycombinator.com/item?id=32143432) - [The Night I Met Einstein (2021)](https://www.rd.com/article/the-night-i-met-einstein/)
 * [2022-07-18, 20:38:59](https://news.ycombinator.com/item?id=32143344) - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
+* [2022-07-18, 20:30:38](https://news.ycombinator.com/item?id=32143256) - [Documents reveal scale of US Government’s cell phone location data tracking](https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/)
+* [2022-07-18, 20:23:52](https://news.ycombinator.com/item?id=32143176) - [Slack Price Increase beginning Sep 2022](https://slack.com/blog/news/pricing-and-plan-updates)
+* [2022-07-18, 19:35:16](https://news.ycombinator.com/item?id=32142529) - [Pioneering Economist Says Our Obsession with Growth Must End](https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html)
 * [2022-07-18, 19:29:27](https://news.ycombinator.com/item?id=32142450) - [Snapchat for Web](https://newsroom.snap.com/snapchat-for-web/)
 * [2022-07-18, 19:02:02](https://news.ycombinator.com/item?id=32142111) - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [2022-07-18, 18:52:13](https://news.ycombinator.com/item?id=32141962) - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
@@ -69,6 +76,7 @@
 * [2022-07-18, 02:50:46](https://news.ycombinator.com/item?id=32134038) - [An ex-Googler's guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius'](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
 * [2022-07-18, 02:21:04](https://news.ycombinator.com/item?id=32133839) - [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
+* [2022-07-18, 01:33:13](https://news.ycombinator.com/item?id=32133516) - [‘How to Tell a Story’ Review: Aristotle in the Writers’ Room](https://www.wsj.com/articles/how-to-tell-a-story-book-review-aristotle-in-the-writers-room-11657900138)
 * [2022-07-18, 01:12:29](https://news.ycombinator.com/item?id=32133394) - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
 * [2022-07-18, 01:05:37](https://news.ycombinator.com/item?id=32133345) - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 * [2022-07-18, 00:52:47](https://news.ycombinator.com/item?id=32133269) - [‘Things are going to break’: Texas power plants are running nonstop](https://www.bloomberg.com/news/articles/2022-07-15/texas-power-plants-are-skipping-maintenance-to-run-nonstop)
