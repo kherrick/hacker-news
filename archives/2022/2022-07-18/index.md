@@ -78,6 +78,7 @@
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 * [2022-07-18, 05:55:18](https://news.ycombinator.com/item?id=32135153) - [Running WordPerfect for Unix on Modern Linux](https://github.com/taviso/wpunix)
 * [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
+* [2022-07-18, 05:29:51](https://news.ycombinator.com/item?id=32135023) - [Crash – A real-time creative coding environment for robot arms](https://hackaday.io/project/164468-crash)
 * [2022-07-18, 05:05:18](https://news.ycombinator.com/item?id=32134878) - [Down the memory lane with OS/2 (2020)](https://jmmv.dev/2020/08/os2-memory-lane.html)
 * [2022-07-18, 04:56:22](https://news.ycombinator.com/item?id=32134831) - [Beethoven's Legacy](https://blogs.bl.uk/music/2022/04/beethovens-legacy.html)
 * [2022-07-18, 04:40:14](https://news.ycombinator.com/item?id=32134734) - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
