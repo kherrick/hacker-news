@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 19:16:19](https://news.ycombinator.com/item?id=32156565) - [SEC Issues More Than $17M Award to a Whistleblower](https://www.sec.gov/news/press-release/2022-125)
+* [2022-07-19, 19:10:48](https://news.ycombinator.com/item?id=32156487) - [What Happens When a Reservoir Goes Dry?](https://practical.engineering/blog/2022/7/18/what-happens-when-a-reservoir-goes-dry)
 * [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
 * [2022-07-19, 18:25:23](https://news.ycombinator.com/item?id=32155906) - [Explosion and Fire at Hoover Dam](https://twitter.com/kristynashville/status/1549441916000825344)
 * [2022-07-19, 17:39:29](https://news.ycombinator.com/item?id=32155247) - [Judge sets October trial for Musk-Twitter takeover dispute](https://www.latimes.com/business/story/2022-07-19/judge-sets-october-trial-for-musk-twitter-takeover-dispute)
@@ -50,6 +52,7 @@
 * [2022-07-19, 06:02:17](https://news.ycombinator.com/item?id=32148044) - [Bosch eBike Systems presents its new eBike ABS](https://www.bosch-presse.de/pressportal/de/en/bosch-ebike-systems-presents-its-new-ebike-abs-243264.html)
 * [2022-07-19, 05:55:33](https://news.ycombinator.com/item?id=32148007) - [Nutanix Objects Violates MinIO’s Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
+* [2022-07-19, 04:21:09](https://news.ycombinator.com/item?id=32147492) - [The Home Computer Generation](https://www.datagubbe.se/hcg/)
 * [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/tags/d-audio2/)
 * [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 * [2022-07-19, 03:36:23](https://news.ycombinator.com/item?id=32147263) - [Parsing XML at the Speed of Light (2012)](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
