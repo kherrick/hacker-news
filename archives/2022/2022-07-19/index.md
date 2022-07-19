@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 12:00:51](https://news.ycombinator.com/item?id=32150311) - [Cotera (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
+* [2022-07-19, 11:59:23](https://news.ycombinator.com/item?id=32150308) - [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
+* [2022-07-19, 11:37:54](https://news.ycombinator.com/item?id=32150138) - [Oracle is the #1 contributor to the core of Linux in 5.18](https://blogs.oracle.com/linux/post/contributing-to-the-core-of-linux)
 * [2022-07-19, 11:17:11](https://news.ycombinator.com/item?id=32149989) - [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
+* [2022-07-19, 10:38:43](https://news.ycombinator.com/item?id=32149723) - [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
 * [2022-07-19, 10:31:25](https://news.ycombinator.com/item?id=32149678) - [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
 * [2022-07-19, 09:31:40](https://news.ycombinator.com/item?id=32149341) - [Nearly half of Gen Z is using TikTok and Instagram for search instead of Google](https://www.businessinsider.com/nearly-half-genz-use-tiktok-instagram-over-google-search-2022-7)
 * [2022-07-19, 07:19:30](https://news.ycombinator.com/item?id=32148463) - [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)

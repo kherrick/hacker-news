@@ -52,6 +52,7 @@
 * [2022-07-17, 13:25:22](https://news.ycombinator.com/item?id=32126563) - [Ask HN: One team lead always builds a monoethnic team. What to do?](https://news.ycombinator.com/item?id=32126563)
 * [2022-07-17, 13:22:42](https://news.ycombinator.com/item?id=32126537) - [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
 * [2022-07-17, 13:09:45](https://news.ycombinator.com/item?id=32126438) - [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
+* [2022-07-17, 12:10:07](https://news.ycombinator.com/item?id=32126104) - [Logo and Learning](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_and_learning.html)
 * [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 * [2022-07-17, 11:42:35](https://news.ycombinator.com/item?id=32125972) - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
 * [2022-07-17, 11:40:04](https://news.ycombinator.com/item?id=32125966) - [Concatenative K](https://nsl.com/papers/ck.htm)
