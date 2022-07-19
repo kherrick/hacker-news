@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-19, 11:17:11](https://news.ycombinator.com/item?id=32149989) - [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
-* [2022-07-19, 10:31:25](https://news.ycombinator.com/item?id=32149678) - [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
 * [2022-07-19, 07:19:30](https://news.ycombinator.com/item?id=32148463) - [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
 * [2022-07-19, 07:00:32](https://news.ycombinator.com/item?id=32148365) - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2022-07-19, 06:52:10](https://news.ycombinator.com/item?id=32148318) - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
@@ -27,6 +26,7 @@
 * [2022-07-18, 05:05:18](https://news.ycombinator.com/item?id=32134878) - [Down the memory lane with OS/2 (2020)](https://jmmv.dev/2020/08/os2-memory-lane.html)
 * [2022-07-18, 03:40:50](https://news.ycombinator.com/item?id=32134374) - [We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
 * [2022-07-17, 11:40:04](https://news.ycombinator.com/item?id=32125966) - [Concatenative K](https://nsl.com/papers/ck.htm)
+* [2022-07-17, 09:15:18](https://news.ycombinator.com/item?id=32125466) - [Ask HN: How to get developers and UI designers to work well together](https://news.ycombinator.com/item?id=32125466)
 * [2022-07-17, 07:14:15](https://news.ycombinator.com/item?id=32125069) - [Aerial Photography (c. 2006)](http://www.steves-workshop.co.uk/rcflying/photography/photography.htm)
 * [2022-07-16, 11:33:33](https://news.ycombinator.com/item?id=32117063) - [Surface Normals and Linear Transformations](https://diego.assencio.com/?index=a2386030d8d82e457a8c7dc124d00564)
 * [2022-07-16, 07:55:05](https://news.ycombinator.com/item?id=32116058) - [First and Third Almost Forth (1992)](https://ftp.funet.fi/pub/doc/IOCCC/1992/buzzard.2.design)
