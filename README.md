@@ -21,7 +21,6 @@
 * [2022-07-18, 18:16:33](https://news.ycombinator.com/item?id=32141502) - [Spf13 is leaving Google](https://spf13.com/p/spf13-google/)
 * [2022-07-18, 17:44:31](https://news.ycombinator.com/item?id=32141027) - [How did REST come to mean the opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for UNIX (1992)](https://lock.cmpxchg8b.com/wordperfect.html)
-* [2022-07-18, 15:53:50](https://news.ycombinator.com/item?id=32139762) - [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
 * [2022-07-18, 15:45:50](https://news.ycombinator.com/item?id=32139672) - [My Poor Experience With Azure (or why I'm sticking with AWS)](https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/)
 * [2022-07-18, 08:27:51](https://news.ycombinator.com/item?id=32135890) - [Introduction to Classical and Quantum Computing [pdf]](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
@@ -29,6 +28,7 @@
 * [2022-07-18, 03:40:50](https://news.ycombinator.com/item?id=32134374) - [We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
 * [2022-07-17, 11:40:04](https://news.ycombinator.com/item?id=32125966) - [Concatenative K](https://nsl.com/papers/ck.htm)
 * [2022-07-17, 07:14:15](https://news.ycombinator.com/item?id=32125069) - [Aerial Photography (c. 2006)](http://www.steves-workshop.co.uk/rcflying/photography/photography.htm)
+* [2022-07-16, 11:33:33](https://news.ycombinator.com/item?id=32117063) - [Surface Normals and Linear Transformations](https://diego.assencio.com/?index=a2386030d8d82e457a8c7dc124d00564)
 * [2022-07-16, 07:55:05](https://news.ycombinator.com/item?id=32116058) - [First and Third Almost Forth (1992)](https://ftp.funet.fi/pub/doc/IOCCC/1992/buzzard.2.design)
 
 ## [Archives](archives/index.md)

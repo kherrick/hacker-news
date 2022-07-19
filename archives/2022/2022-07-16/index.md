@@ -39,6 +39,7 @@
 * [2022-07-16, 12:28:49](https://news.ycombinator.com/item?id=32117381) - [Amazon instructs New York workers “don't sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 * [2022-07-16, 12:01:05](https://news.ycombinator.com/item?id=32117221) - [Mozart Data (YC S20) Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
 * [2022-07-16, 11:34:04](https://news.ycombinator.com/item?id=32117067) - [Six Queries to Break into Mega](https://eprint.iacr.org/2022/914)
+* [2022-07-16, 11:33:33](https://news.ycombinator.com/item?id=32117063) - [Surface Normals and Linear Transformations](https://diego.assencio.com/?index=a2386030d8d82e457a8c7dc124d00564)
 * [2022-07-16, 11:25:56](https://news.ycombinator.com/item?id=32117021) - [Ever Wished That Calvin and Hobbes Creator Bill Watterson Would Return? (2014)](https://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/)
 * [2022-07-16, 11:02:57](https://news.ycombinator.com/item?id=32116894) - [The rise of air conditioning, and the eco-harm of the boom it enabled](https://www.historytoday.com/history-matters/rise-air-conditioning)
 * [2022-07-16, 10:59:29](https://news.ycombinator.com/item?id=32116877) - [XML-RPC Specification (1999)](http://xmlrpc.com/spec.md)
