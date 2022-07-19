@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-19, 07:00:32](https://news.ycombinator.com/item?id=32148365) - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2022-07-19, 06:31:12](https://news.ycombinator.com/item?id=32148218) - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
 * [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
@@ -11,7 +12,6 @@
 * [2022-07-19, 00:52:13](https://news.ycombinator.com/item?id=32146082) - [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
 * [2022-07-18, 23:09:59](https://news.ycombinator.com/item?id=32145297) - [See Thru Jet Engine [video]](https://www.youtube.com/watch?v=MgL0GW248mE)
 * [2022-07-18, 21:08:48](https://news.ycombinator.com/item?id=32143747) - [Film grain synthesis in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
-* [2022-07-18, 21:00:51](https://news.ycombinator.com/item?id=32143637) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2022-07-18, 20:45:53](https://news.ycombinator.com/item?id=32143432) - [The night I met Einstein (1955)](https://www.rd.com/article/the-night-i-met-einstein/)
 * [2022-07-18, 20:38:59](https://news.ycombinator.com/item?id=32143344) - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
 * [2022-07-18, 20:30:38](https://news.ycombinator.com/item?id=32143256) - [New documents reveal scale of US Government’s cell phone location data tracking](https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data)
