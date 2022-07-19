@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 23:11:52](https://news.ycombinator.com/item?id=32145324) - [Intel Microcode Decryptor](https://github.com/chip-red-pill/MicrocodeDecryptor)
 * [2022-07-18, 23:09:59](https://news.ycombinator.com/item?id=32145297) - [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
 * [2022-07-18, 23:06:18](https://news.ycombinator.com/item?id=32145268) - [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
 * [2022-07-18, 22:32:01](https://news.ycombinator.com/item?id=32144912) - [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)

@@ -7,6 +7,7 @@
 * [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
 * [2022-07-19, 18:25:23](https://news.ycombinator.com/item?id=32155906) - [Explosion and Fire at Hoover Dam](https://twitter.com/kristynashville/status/1549441916000825344)
 * [2022-07-19, 17:39:29](https://news.ycombinator.com/item?id=32155247) - [Judge sets October trial for Musk-Twitter takeover dispute](https://www.latimes.com/business/story/2022-07-19/judge-sets-october-trial-for-musk-twitter-takeover-dispute)
+* [2022-07-19, 17:28:15](https://news.ycombinator.com/item?id=32155067) - [Tom Lord has died](https://berkeleydailyplanet.com/issue/2022-06-26/article/49837)
 * [2022-07-19, 17:28:15](https://news.ycombinator.com/item?id=32155067) - [Tom Lord RIP](https://lwn.net/Articles/901807/)
 * [2022-07-19, 17:01:15](https://news.ycombinator.com/item?id=32154700) - [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
 * [2022-07-19, 16:53:04](https://news.ycombinator.com/item?id=32154541) - [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
