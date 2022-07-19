@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 16:07:22](https://news.ycombinator.com/item?id=32153743) - [Beware of bad science reporting: No, we haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
 * [2022-07-19, 15:28:35](https://news.ycombinator.com/item?id=32152935) - [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
 * [2022-07-19, 15:10:09](https://news.ycombinator.com/item?id=32152600) - [Show HN: I built a self hosted recommendation feed to escape Google's algorithm](https://github.com/jawerty/myAlgorithm)
 * [2022-07-19, 15:07:22](https://news.ycombinator.com/item?id=32152552) - [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
