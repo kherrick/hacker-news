@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-19, 22:49:37",
+      "https://news.ycombinator.com/item?id=32159000"
+    ],
+    [
+      "MongoDB 6 Released",
+      "https://www.mongodb.com/blog/post/mongodb-6-0-now-available"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 22:26:19",
+      "https://news.ycombinator.com/item?id=32158800"
+    ],
+    [
+      "Why Ruby Is More Readable Than Python",
+      "https://confuzeus.com/posts/python-ruby-readability/"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 21:42:55",
       "https://news.ycombinator.com/item?id=32158364"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-07-19, 16:16:53",
-      "https://news.ycombinator.com/item?id=32153910"
-    ],
-    [
-      "A 100x Investment (2019)",
-      "https://blog.comma.ai/a-100x-investment-part-1/"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 15:06:31",
       "https://news.ycombinator.com/item?id=32152542"
     ],
@@ -207,16 +217,6 @@
     [
       "Get started with GPU Compute on the web",
       "https://web.dev/gpu-compute/"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 11:59:23",
-      "https://news.ycombinator.com/item?id=32150308"
-    ],
-    [
-      "Show HN: I made CSS Scan 3.0, a fast way to check and copy CSS",
-      "https://getcssscan.com"
     ]
   ],
   [
