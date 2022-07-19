@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
-* [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/tags/d-audio2/)
+* [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 * [2022-07-19, 03:36:23](https://news.ycombinator.com/item?id=32147263) - [Parsing XML at the Speed of Light (2012)](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
 * [2022-07-19, 03:30:10](https://news.ycombinator.com/item?id=32147219) - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
 * [2022-07-19, 02:52:43](https://news.ycombinator.com/item?id=32146992) - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
 * [2022-07-19, 02:16:46](https://news.ycombinator.com/item?id=32146764) - [The simple usefulness of the Secchi disk](https://www.sciencehistory.org/distillations/the-simple-usefulness-of-the-secchi-disk)
 * [2022-07-19, 01:12:04](https://news.ycombinator.com/item?id=32146245) - [How to Design Programs](https://htdp.org/)
 * [2022-07-19, 00:52:13](https://news.ycombinator.com/item?id=32146082) - [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
-* [2022-07-19, 00:26:35](https://news.ycombinator.com/item?id=32145905) - [To hook diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
 * [2022-07-18, 23:09:59](https://news.ycombinator.com/item?id=32145297) - [See Thru Jet Engine [video]](https://www.youtube.com/watch?v=MgL0GW248mE)
 * [2022-07-18, 21:08:48](https://news.ycombinator.com/item?id=32143747) - [Film grain synthesis in AV1 (2019)](https://norkin.org/research/film_grain/index.html)
 * [2022-07-18, 21:00:51](https://news.ycombinator.com/item?id=32143637) - [Freshpaint (YC S19) is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
@@ -29,6 +28,7 @@
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 * [2022-07-18, 05:05:18](https://news.ycombinator.com/item?id=32134878) - [Down the memory lane with OS/2 (2020)](https://jmmv.dev/2020/08/os2-memory-lane.html)
 * [2022-07-18, 03:40:50](https://news.ycombinator.com/item?id=32134374) - [We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
+* [2022-07-17, 07:14:15](https://news.ycombinator.com/item?id=32125069) - [Aerial Photography (c. 2006)](http://www.steves-workshop.co.uk/rcflying/photography/photography.htm)
 * [2022-07-16, 07:55:05](https://news.ycombinator.com/item?id=32116058) - [First and Third Almost Forth (1992)](https://ftp.funet.fi/pub/doc/IOCCC/1992/buzzard.2.design)
 
 ## [Archives](archives/index.md)
