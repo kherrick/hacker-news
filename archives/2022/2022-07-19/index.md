@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 17:01:15](https://news.ycombinator.com/item?id=32154700) - [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
+* [2022-07-19, 16:53:04](https://news.ycombinator.com/item?id=32154541) - [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
+* [2022-07-19, 16:39:47](https://news.ycombinator.com/item?id=32154306) - [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 * [2022-07-19, 16:07:22](https://news.ycombinator.com/item?id=32153743) - [Beware of bad science reporting: No, we haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
+* [2022-07-19, 15:43:25](https://news.ycombinator.com/item?id=32153222) - [Volkswagen bringing back Scout brand truck as electric vehicle made in America](https://www.axios.com/2022/07/19/volkswagen-scout-vw-electric-vehicles-truck)
 * [2022-07-19, 15:28:35](https://news.ycombinator.com/item?id=32152935) - [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
 * [2022-07-19, 15:10:09](https://news.ycombinator.com/item?id=32152600) - [Show HN: I built a self hosted recommendation feed to escape Google's algorithm](https://github.com/jawerty/myAlgorithm)
 * [2022-07-19, 15:07:22](https://news.ycombinator.com/item?id=32152552) - [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
