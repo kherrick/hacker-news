@@ -6,6 +6,8 @@
 
 * [2022-07-19, 17:01:15](https://news.ycombinator.com/item?id=32154700) - [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
 * [2022-07-19, 16:53:04](https://news.ycombinator.com/item?id=32154541) - [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
+* [2022-07-19, 16:48:42](https://news.ycombinator.com/item?id=32154457) - [Google Cloud (Europe-west2) is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
+* [2022-07-19, 16:41:22](https://news.ycombinator.com/item?id=32154343) - [The Entertainment Value Curve: Why TikTok Is on Fire and Quibi Isn’t (2020)](https://www.reforge.com/blog/entertainment-value-curve)
 * [2022-07-19, 16:39:47](https://news.ycombinator.com/item?id=32154306) - [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 * [2022-07-19, 16:07:22](https://news.ycombinator.com/item?id=32153743) - [Beware of bad science reporting: No, we haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
 * [2022-07-19, 15:43:25](https://news.ycombinator.com/item?id=32153222) - [Volkswagen bringing back Scout brand truck as electric vehicle made in America](https://www.axios.com/2022/07/19/volkswagen-scout-vw-electric-vehicles-truck)

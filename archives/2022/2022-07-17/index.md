@@ -68,6 +68,7 @@
 * [2022-07-17, 10:45:04](https://news.ycombinator.com/item?id=32125731) - [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
 * [2022-07-17, 10:43:13](https://news.ycombinator.com/item?id=32125722) - [This is How Civilisations Collapse](https://unherd.com/2021/11/this-is-how-civilisations-collapse/)
 * [2022-07-17, 10:14:43](https://news.ycombinator.com/item?id=32125637) - [Power On: A Flexible Dye-Sensitized Solar Cell Takes Charge](https://www.machinedesign.com/materials/article/21237685/power-on-a-flexible-dyesensitized-solar-cell-takes-charge)
+* [2022-07-17, 09:48:33](https://news.ycombinator.com/item?id=32125554) - [Pigeons of War](https://pigeonsofwar.wordpress.com/)
 * [2022-07-17, 09:15:18](https://news.ycombinator.com/item?id=32125466) - [Ask HN: How to get developers and UI designers to work well together](https://news.ycombinator.com/item?id=32125466)
 * [2022-07-17, 08:54:56](https://news.ycombinator.com/item?id=32125417) - [The high price we pay for social media](https://timharford.com/2022/07/the-high-price-we-pay-for-social-media/)
 * [2022-07-17, 08:46:53](https://news.ycombinator.com/item?id=32125386) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
