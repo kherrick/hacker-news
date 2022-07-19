@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-19, 14:36:45](https://news.ycombinator.com/item?id=32152143) - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
 * [2022-07-19, 14:30:16](https://news.ycombinator.com/item?id=32152051) - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
 * [2022-07-19, 14:05:02](https://news.ycombinator.com/item?id=32151609) - [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
 * [2022-07-19, 13:37:31](https://news.ycombinator.com/item?id=32151216) - [Free Tiers and Resources for Developers](https://free-for.dev/)
@@ -9,7 +10,6 @@
 * [2022-07-19, 12:58:32](https://news.ycombinator.com/item?id=32150822) - [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
 * [2022-07-19, 12:45:28](https://news.ycombinator.com/item?id=32150683) - [JSON Creator Douglas Crockford Interview](https://evrone.com/douglas-crockford-interview)
 * [2022-07-19, 12:44:48](https://news.ycombinator.com/item?id=32150678) - [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
-* [2022-07-19, 12:28:47](https://news.ycombinator.com/item?id=32150537) - [U.S. successfully flight-tests Raytheon hypersonic weapon](https://www.reuters.com/world/us/us-successfully-flight-tests-raytheon-hypersonic-weapon-pentagon-2022-07-18/)
 * [2022-07-19, 12:00:51](https://news.ycombinator.com/item?id=32150311) - [Cotera (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
 * [2022-07-19, 11:59:23](https://news.ycombinator.com/item?id=32150308) - [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
 * [2022-07-19, 11:37:54](https://news.ycombinator.com/item?id=32150138) - [Oracle is the #1 contributor to the core of Linux in 5.18](https://blogs.oracle.com/linux/post/contributing-to-the-core-of-linux)

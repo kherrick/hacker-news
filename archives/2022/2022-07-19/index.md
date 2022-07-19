@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 14:36:45](https://news.ycombinator.com/item?id=32152143) - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
 * [2022-07-19, 14:30:16](https://news.ycombinator.com/item?id=32152051) - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
 * [2022-07-19, 14:05:02](https://news.ycombinator.com/item?id=32151609) - [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
 * [2022-07-19, 13:37:31](https://news.ycombinator.com/item?id=32151216) - [Free Tiers and Resources for Developers](https://free-for.dev/)
