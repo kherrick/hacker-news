@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-18](index.md)
 
+* [2022-07-18, 23:09:59](https://news.ycombinator.com/item?id=32145297) - [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
 * [2022-07-18, 23:06:18](https://news.ycombinator.com/item?id=32145268) - [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
 * [2022-07-18, 22:32:01](https://news.ycombinator.com/item?id=32144912) - [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
 * [2022-07-18, 21:22:41](https://news.ycombinator.com/item?id=32143953) - [Shannon's Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
@@ -12,8 +13,10 @@
 * [2022-07-18, 21:00:23](https://news.ycombinator.com/item?id=32143631) - [Entire telecomm infrastructure of Iceland sold to private equity](https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network)
 * [2022-07-18, 20:45:53](https://news.ycombinator.com/item?id=32143432) - [The Night I Met Einstein (2021)](https://www.rd.com/article/the-night-i-met-einstein/)
 * [2022-07-18, 20:38:59](https://news.ycombinator.com/item?id=32143344) - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
+* [2022-07-18, 20:30:38](https://news.ycombinator.com/item?id=32143256) - [New documents reveal scale of US Government’s cell phone location data tracking](https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data)
 * [2022-07-18, 20:30:38](https://news.ycombinator.com/item?id=32143256) - [Documents reveal scale of US Government’s cell phone location data tracking](https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/)
 * [2022-07-18, 20:23:52](https://news.ycombinator.com/item?id=32143176) - [Slack Price Increase beginning Sep 2022](https://slack.com/blog/news/pricing-and-plan-updates)
+* [2022-07-18, 19:47:35](https://news.ycombinator.com/item?id=32142711) - [Electrical engineers on the brink of extinction threaten entire tech ecosystems](https://www.theregister.com/2022/07/18/electrical_engineers_extinction/)
 * [2022-07-18, 19:35:16](https://news.ycombinator.com/item?id=32142529) - [Pioneering Economist Says Our Obsession with Growth Must End](https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html)
 * [2022-07-18, 19:29:27](https://news.ycombinator.com/item?id=32142450) - [Snapchat for Web](https://newsroom.snap.com/snapchat-for-web/)
 * [2022-07-18, 19:02:02](https://news.ycombinator.com/item?id=32142111) - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
@@ -70,6 +73,7 @@
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 * [2022-07-18, 06:04:59](https://news.ycombinator.com/item?id=32135219) - [Free-standing liquid membranes as unusual particle separators (2018)](http://advances.sciencemag.org/content/4/8/eaat3276)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
+* [2022-07-18, 05:55:18](https://news.ycombinator.com/item?id=32135153) - [Running WordPerfect for Unix on Modern Linux](https://github.com/taviso/wpunix)
 * [2022-07-18, 05:47:17](https://news.ycombinator.com/item?id=32135115) - [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
 * [2022-07-18, 04:56:22](https://news.ycombinator.com/item?id=32134831) - [Beethoven's Legacy](https://blogs.bl.uk/music/2022/04/beethovens-legacy.html)
 * [2022-07-18, 04:40:14](https://news.ycombinator.com/item?id=32134734) - [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
