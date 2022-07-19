@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 20:27:27](https://news.ycombinator.com/item?id=32157506) - [The Minitel system in France (1988)](https://fermatslibrary.com/s/the-teletel-minitel-system-in-france)
+* [2022-07-19, 20:27:16](https://news.ycombinator.com/item?id=32157500) - [An installation-art company called META (or Meta.is) is suing Meta (or meta.com)](https://meta.is/)
 * [2022-07-19, 19:39:33](https://news.ycombinator.com/item?id=32156881) - [Understanding the X64 Code Models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
 * [2022-07-19, 19:36:16](https://news.ycombinator.com/item?id=32156834) - [Google Quantum Virtual Machine will accelerate research and learning](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/)
 * [2022-07-19, 19:16:19](https://news.ycombinator.com/item?id=32156565) - [SEC Issues More Than $17M Award to a Whistleblower](https://www.sec.gov/news/press-release/2022-125)
@@ -25,6 +27,7 @@
 * [2022-07-19, 15:10:09](https://news.ycombinator.com/item?id=32152600) - [Show HN: I built a self hosted recommendation feed to escape Google's algorithm](https://github.com/jawerty/myAlgorithm)
 * [2022-07-19, 15:07:22](https://news.ycombinator.com/item?id=32152552) - [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
 * [2022-07-19, 15:07:05](https://news.ycombinator.com/item?id=32152549) - [Why can't the government put a limit on car sizes?](https://ashlan.com/blog/why-can-t-the-government-put-a-limit-on-car-sizes/)
+* [2022-07-19, 15:06:28](https://news.ycombinator.com/item?id=32152541) - [VanMoof’s team of ‘bike hunters’ appears to succeed where the city doesn’t](https://sfstandard.com/criminal-justice/vigilante-justice-vanmoofs-team-of-bike-hunters-appears-to-succeed-where-the-city-doesnt/)
 * [2022-07-19, 14:39:15](https://news.ycombinator.com/item?id=32152182) - [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
 * [2022-07-19, 14:36:45](https://news.ycombinator.com/item?id=32152143) - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
 * [2022-07-19, 14:30:16](https://news.ycombinator.com/item?id=32152051) - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)

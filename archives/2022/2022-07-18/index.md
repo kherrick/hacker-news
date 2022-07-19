@@ -77,6 +77,7 @@
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
+* [2022-07-18, 06:21:03](https://news.ycombinator.com/item?id=32135326) - [Chasing Ghosts: Unlocking the mysteries of human hibernation](https://www.cnet.com/science/biology/features/chasing-ghosts-unlocking-the-mysteries-of-human-hibernation/)
 * [2022-07-18, 06:04:59](https://news.ycombinator.com/item?id=32135219) - [Free-standing liquid membranes as unusual particle separators (2018)](http://advances.sciencemag.org/content/4/8/eaat3276)
 * [2022-07-18, 05:55:50](https://news.ycombinator.com/item?id=32135157) - [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
 * [2022-07-18, 05:55:18](https://news.ycombinator.com/item?id=32135153) - [Running WordPerfect for Unix on Modern Linux](https://github.com/taviso/wpunix)
