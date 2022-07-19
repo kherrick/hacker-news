@@ -33,6 +33,7 @@
 * [2022-07-18, 17:00:49](https://news.ycombinator.com/item?id=32140527) - [Agave (YC W22) is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
 * [2022-07-18, 16:57:05](https://news.ycombinator.com/item?id=32140487) - [Show HN: Babble – Communicate privately on state-sponsored social media](https://babble.landrop.app/)
 * [2022-07-18, 16:44:27](https://news.ycombinator.com/item?id=32140329) - [Show HN: Ec2instances.info now has Detail Pages for 500 Instances](https://instances.vantage.sh:443/aws/ec2/m5a.2xlarge)
+* [2022-07-18, 16:29:57](https://news.ycombinator.com/item?id=32140154) - [DC Loading (2008)](http://www.sigcon.com/Pubs/news/11_04.htm)
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for Unix (1992) used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
 * [2022-07-18, 16:15:26](https://news.ycombinator.com/item?id=32139986) - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
 * [2022-07-18, 16:00:34](https://news.ycombinator.com/item?id=32139827) - [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
