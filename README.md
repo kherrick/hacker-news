@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-19, 09:31:40](https://news.ycombinator.com/item?id=32149341) - [Nearly half of Gen Z is using TikTok and Instagram for search instead of Google](https://www.businessinsider.com/nearly-half-genz-use-tiktok-instagram-over-google-search-2022-7)
 * [2022-07-19, 07:19:30](https://news.ycombinator.com/item?id=32148463) - [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
 * [2022-07-19, 07:00:32](https://news.ycombinator.com/item?id=32148365) - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2022-07-19, 06:52:10](https://news.ycombinator.com/item?id=32148318) - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
@@ -19,6 +18,7 @@
 * [2022-07-18, 20:38:59](https://news.ycombinator.com/item?id=32143344) - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
 * [2022-07-18, 20:30:38](https://news.ycombinator.com/item?id=32143256) - [New documents reveal scale of US Government’s cell phone location data tracking](https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data)
 * [2022-07-18, 19:47:35](https://news.ycombinator.com/item?id=32142711) - [Electrical engineers on the brink of extinction threaten entire tech ecosystems](https://www.theregister.com/2022/07/18/electrical_engineers_extinction/)
+* [2022-07-18, 19:29:27](https://news.ycombinator.com/item?id=32142450) - [Snapchat for Web](https://newsroom.snap.com/snapchat-for-web/)
 * [2022-07-18, 18:52:13](https://news.ycombinator.com/item?id=32141962) - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
 * [2022-07-18, 15:56:47](https://news.ycombinator.com/item?id=32139791) - [Computer science proof unveils unexpected form of entanglement](https://www.quantamagazine.org/computer-science-proof-lifts-limits-on-quantum-entanglement-20220718/)
 * [2022-07-18, 08:54:33](https://news.ycombinator.com/item?id=32136045) - [UK set to have automated drone superhighway](https://www.bbc.co.uk/news/technology-62177614)
