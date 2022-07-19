@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
+* [2022-07-19, 18:25:23](https://news.ycombinator.com/item?id=32155906) - [Explosion and Fire at Hoover Dam](https://twitter.com/kristynashville/status/1549441916000825344)
 * [2022-07-19, 17:01:15](https://news.ycombinator.com/item?id=32154700) - [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
 * [2022-07-19, 16:48:42](https://news.ycombinator.com/item?id=32154457) - [Google Cloud (Europe-west2) is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
 * [2022-07-19, 16:41:22](https://news.ycombinator.com/item?id=32154343) - [The Entertainment Value Curve: Why TikTok Is on Fire and Quibi Isn’t (2020)](https://www.reforge.com/blog/entertainment-value-curve)
@@ -16,7 +17,6 @@
 * [2022-07-19, 13:37:31](https://news.ycombinator.com/item?id=32151216) - [Free Tiers and Resources for Developers](https://free-for.dev/)
 * [2022-07-19, 13:33:16](https://news.ycombinator.com/item?id=32151172) - [Analyzing Indie Hacker Products with Verified Revenue](https://scrapingfish.com/blog/indie-hackers-revenue)
 * [2022-07-19, 13:20:49](https://news.ycombinator.com/item?id=32151044) - [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
-* [2022-07-19, 13:16:55](https://news.ycombinator.com/item?id=32151007) - [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)
 * [2022-07-19, 12:11:36](https://news.ycombinator.com/item?id=32150387) - [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
 * [2022-07-19, 11:59:23](https://news.ycombinator.com/item?id=32150308) - [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
 * [2022-07-19, 11:17:11](https://news.ycombinator.com/item?id=32149989) - [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
