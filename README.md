@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-19, 12:58:32](https://news.ycombinator.com/item?id=32150822) - [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+* [2022-07-19, 12:44:48](https://news.ycombinator.com/item?id=32150678) - [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
+* [2022-07-19, 12:28:47](https://news.ycombinator.com/item?id=32150537) - [U.S. successfully flight-tests Raytheon hypersonic weapon](https://www.reuters.com/world/us/us-successfully-flight-tests-raytheon-hypersonic-weapon-pentagon-2022-07-18/)
 * [2022-07-19, 12:00:51](https://news.ycombinator.com/item?id=32150311) - [Cotera (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
 * [2022-07-19, 11:59:23](https://news.ycombinator.com/item?id=32150308) - [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
 * [2022-07-19, 11:37:54](https://news.ycombinator.com/item?id=32150138) - [Oracle is the #1 contributor to the core of Linux in 5.18](https://blogs.oracle.com/linux/post/contributing-to-the-core-of-linux)
 * [2022-07-19, 11:17:11](https://news.ycombinator.com/item?id=32149989) - [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
 * [2022-07-19, 10:38:43](https://news.ycombinator.com/item?id=32149723) - [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
-* [2022-07-19, 10:31:25](https://news.ycombinator.com/item?id=32149678) - [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
 * [2022-07-19, 07:19:30](https://news.ycombinator.com/item?id=32148463) - [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
 * [2022-07-19, 06:52:10](https://news.ycombinator.com/item?id=32148318) - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
 * [2022-07-19, 06:31:12](https://news.ycombinator.com/item?id=32148218) - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
@@ -26,8 +28,6 @@
 * [2022-07-18, 05:29:51](https://news.ycombinator.com/item?id=32135023) - [Crash – A real-time creative coding environment for robot arms](https://hackaday.io/project/164468-crash)
 * [2022-07-17, 12:10:07](https://news.ycombinator.com/item?id=32126104) - [Logo and Learning](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_and_learning.html)
 * [2022-07-17, 11:40:04](https://news.ycombinator.com/item?id=32125966) - [Concatenative K](https://nsl.com/papers/ck.htm)
-* [2022-07-17, 09:15:18](https://news.ycombinator.com/item?id=32125466) - [Ask HN: How to get developers and UI designers to work well together](https://news.ycombinator.com/item?id=32125466)
-* [2022-07-17, 07:14:15](https://news.ycombinator.com/item?id=32125069) - [Aerial Photography (c. 2006)](http://www.steves-workshop.co.uk/rcflying/photography/photography.htm)
 * [2022-07-16, 11:33:33](https://news.ycombinator.com/item?id=32117063) - [Surface Normals and Linear Transformations](https://diego.assencio.com/?index=a2386030d8d82e457a8c7dc124d00564)
 * [2022-07-16, 07:55:05](https://news.ycombinator.com/item?id=32116058) - [First and Third Almost Forth (1992)](https://ftp.funet.fi/pub/doc/IOCCC/1992/buzzard.2.design)
 
