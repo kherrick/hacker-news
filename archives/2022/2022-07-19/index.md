@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 19:39:33](https://news.ycombinator.com/item?id=32156881) - [Understanding the X64 Code Models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
+* [2022-07-19, 19:36:16](https://news.ycombinator.com/item?id=32156834) - [Google Quantum Virtual Machine will accelerate research and learning](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/)
 * [2022-07-19, 19:16:19](https://news.ycombinator.com/item?id=32156565) - [SEC Issues More Than $17M Award to a Whistleblower](https://www.sec.gov/news/press-release/2022-125)
 * [2022-07-19, 19:10:48](https://news.ycombinator.com/item?id=32156487) - [What Happens When a Reservoir Goes Dry?](https://practical.engineering/blog/2022/7/18/what-happens-when-a-reservoir-goes-dry)
 * [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
