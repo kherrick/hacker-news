@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-19, 21:31:23",
+      "https://news.ycombinator.com/item?id=32158251"
+    ],
+    [
+      "Back from the Future: Global Tables in CockroachDB",
+      "https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 21:16:15",
+      "https://news.ycombinator.com/item?id=32158090"
+    ],
+    [
+      "Amazon memo: Here’s why we should acquire Ring",
+      "https://twitter.com/TechEmails/status/1549489359459454976"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 20:27:27",
       "https://news.ycombinator.com/item?id=32157506"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-07-19, 15:10:09",
-      "https://news.ycombinator.com/item?id=32152600"
-    ],
-    [
-      "Show HN: I built a self hosted recommendation feed to escape Google's algorithm",
-      "https://github.com/jawerty/myAlgorithm"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 15:06:28",
       "https://news.ycombinator.com/item?id=32152541"
     ],
@@ -177,16 +187,6 @@
     [
       "Carbon Language: An experimental successor to C++",
       "https://github.com/carbon-language/carbon-lang"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 12:45:28",
-      "https://news.ycombinator.com/item?id=32150683"
-    ],
-    [
-      "Interview with Douglas Crockford",
-      "https://evrone.com/douglas-crockford-interview"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-07-19, 05:38:03",
+      "https://news.ycombinator.com/item?id=32147915"
+    ],
+    [
+      "An Overview of Distributed Caching",
+      "https://www.learncsdesign.com/an-overview-of-distributed-caching/"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 04:21:09",
       "https://news.ycombinator.com/item?id=32147492"
     ],
@@ -287,16 +297,6 @@
     [
       "The MiniDisc deck you hoped to never see [video]",
       "https://www.youtube.com/watch?v=9pe157yBa00"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 09:48:33",
-      "https://news.ycombinator.com/item?id=32125554"
-    ],
-    [
-      "Pigeons of War",
-      "https://pigeonsofwar.wordpress.com/"
     ]
   ]
 ]
