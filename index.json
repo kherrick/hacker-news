@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-07-19, 14:20:04",
-      "https://news.ycombinator.com/item?id=32151868"
-    ],
-    [
-      "Runway melts at London Luton airport as temperatures in UK near 40°C",
-      "https://www.dailytelegraph.com.au/news/world/runway-melts-at-london-luton-airport-has-temperatures-in-uk-near-40c/news-story/d7266194145cda7949f2af1c243e9065"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 14:05:02",
       "https://news.ycombinator.com/item?id=32151609"
     ],
@@ -225,8 +215,18 @@
       "https://news.ycombinator.com/item?id=32148463"
     ],
     [
-      "To download from Google Drive, you must enable 3rd party cookies",
+      "To download from Google Drive, you must enable third party cookies?",
       "https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 06:38:10",
+      "https://news.ycombinator.com/item?id=32148253"
+    ],
+    [
+      "An SPA Alternative",
+      "https://htmx.org/essays/spa-alternative/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32148007"
     ],
     [
-      "Nutanix Objects Violates MinIO’s Open Source License",
+      "Nutanix Objects violates MinIO’s open source license",
       "https://blog.min.io/nutanix-objects-violates-minios-open-source-license/"
     ]
   ],
