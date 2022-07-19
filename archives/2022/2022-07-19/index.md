@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 14:05:02](https://news.ycombinator.com/item?id=32151609) - [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
 * [2022-07-19, 13:33:16](https://news.ycombinator.com/item?id=32151172) - [Only 5% Indie Hackers products make $100k/year](https://scrapingfish.com/blog/indie-hackers-revenue)
 * [2022-07-19, 13:20:49](https://news.ycombinator.com/item?id=32151044) - [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
 * [2022-07-19, 13:16:55](https://news.ycombinator.com/item?id=32151007) - [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)
 * [2022-07-19, 12:58:32](https://news.ycombinator.com/item?id=32150822) - [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+* [2022-07-19, 12:45:28](https://news.ycombinator.com/item?id=32150683) - [JSON Creator Douglas Crockford Interview](https://evrone.com/douglas-crockford-interview)
 * [2022-07-19, 12:44:48](https://news.ycombinator.com/item?id=32150678) - [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
 * [2022-07-19, 12:28:47](https://news.ycombinator.com/item?id=32150537) - [U.S. successfully flight-tests Raytheon hypersonic weapon](https://www.reuters.com/world/us/us-successfully-flight-tests-raytheon-hypersonic-weapon-pentagon-2022-07-18/)
 * [2022-07-19, 12:00:51](https://news.ycombinator.com/item?id=32150311) - [Cotera (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
