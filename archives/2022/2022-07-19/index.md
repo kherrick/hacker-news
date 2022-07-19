@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 14:30:16](https://news.ycombinator.com/item?id=32152051) - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
 * [2022-07-19, 14:05:02](https://news.ycombinator.com/item?id=32151609) - [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
+* [2022-07-19, 13:37:31](https://news.ycombinator.com/item?id=32151216) - [Free Tiers and Resources for Developers](https://free-for.dev/)
 * [2022-07-19, 13:33:16](https://news.ycombinator.com/item?id=32151172) - [Only 5% Indie Hackers products make $100k/year](https://scrapingfish.com/blog/indie-hackers-revenue)
 * [2022-07-19, 13:20:49](https://news.ycombinator.com/item?id=32151044) - [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
 * [2022-07-19, 13:16:55](https://news.ycombinator.com/item?id=32151007) - [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)

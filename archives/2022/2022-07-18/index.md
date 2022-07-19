@@ -72,6 +72,7 @@
 * [2022-07-18, 08:54:33](https://news.ycombinator.com/item?id=32136045) - [UK set to have automated drone superhighway](https://www.bbc.co.uk/news/technology-62177614)
 * [2022-07-18, 08:46:12](https://news.ycombinator.com/item?id=32135992) - [Ask HN: Has YouTube Peaked?](https://news.ycombinator.com/item?id=32135992)
 * [2022-07-18, 08:27:51](https://news.ycombinator.com/item?id=32135890) - [Introduction to Classical and Quantum Computing [pdf]](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
+* [2022-07-18, 07:58:58](https://news.ycombinator.com/item?id=32135759) - [I stopped cosmonauts from carrying guns (2014)](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 * [2022-07-18, 06:50:54](https://news.ycombinator.com/item?id=32135462) - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [2022-07-18, 06:42:21](https://news.ycombinator.com/item?id=32135432) - [How efficient can cat(1) be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
