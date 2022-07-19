@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 15:28:35](https://news.ycombinator.com/item?id=32152935) - [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
+* [2022-07-19, 15:10:09](https://news.ycombinator.com/item?id=32152600) - [Show HN: I built a self hosted recommendation feed to escape Google's algorithm](https://github.com/jawerty/myAlgorithm)
+* [2022-07-19, 15:07:22](https://news.ycombinator.com/item?id=32152552) - [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
+* [2022-07-19, 15:07:05](https://news.ycombinator.com/item?id=32152549) - [Why can't the government put a limit on car sizes?](https://ashlan.com/blog/why-can-t-the-government-put-a-limit-on-car-sizes/)
 * [2022-07-19, 14:39:15](https://news.ycombinator.com/item?id=32152182) - [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
 * [2022-07-19, 14:36:45](https://news.ycombinator.com/item?id=32152143) - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
 * [2022-07-19, 14:30:16](https://news.ycombinator.com/item?id=32152051) - [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
+* [2022-07-19, 14:20:04](https://news.ycombinator.com/item?id=32151868) - [Runway melts at London Luton airport has temperatures in UK near 40C](https://www.dailytelegraph.com.au/news/world/runway-melts-at-london-luton-airport-has-temperatures-in-uk-near-40c/news-story/d7266194145cda7949f2af1c243e9065)
 * [2022-07-19, 14:05:02](https://news.ycombinator.com/item?id=32151609) - [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
+* [2022-07-19, 14:02:00](https://news.ycombinator.com/item?id=32151559) - [The Gullible Software Altruist](https://www.rfleury.com/p/the-gullible-software-altruist)
 * [2022-07-19, 13:37:31](https://news.ycombinator.com/item?id=32151216) - [Free Tiers and Resources for Developers](https://free-for.dev/)
 * [2022-07-19, 13:33:16](https://news.ycombinator.com/item?id=32151172) - [Only 5% Indie Hackers products make $100k/year](https://scrapingfish.com/blog/indie-hackers-revenue)
 * [2022-07-19, 13:20:49](https://news.ycombinator.com/item?id=32151044) - [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)

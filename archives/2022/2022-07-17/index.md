@@ -54,6 +54,7 @@
 * [2022-07-17, 13:09:45](https://news.ycombinator.com/item?id=32126438) - [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
 * [2022-07-17, 12:10:07](https://news.ycombinator.com/item?id=32126104) - [Logo and Learning](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_and_learning.html)
 * [2022-07-17, 11:59:17](https://news.ycombinator.com/item?id=32126053) - [Woodpeckers don't have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
+* [2022-07-17, 11:52:33](https://news.ycombinator.com/item?id=32126021) - [The MiniDisc deck you hoped to never see [video]](https://www.youtube.com/watch?v=9pe157yBa00)
 * [2022-07-17, 11:42:35](https://news.ycombinator.com/item?id=32125972) - [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
 * [2022-07-17, 11:40:04](https://news.ycombinator.com/item?id=32125966) - [Concatenative K](https://nsl.com/papers/ck.htm)
 * [2022-07-17, 11:38:21](https://news.ycombinator.com/item?id=32125954) - [Perceived Affordances and the Functionality Mismatch](https://tink.uk/perceived-affordances-and-the-functionality-mismatch/)
