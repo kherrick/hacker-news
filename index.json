@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-07-19, 19:17:47",
+      "https://news.ycombinator.com/item?id=32156581"
+    ],
+    [
+      "Use `Python -m Pip`",
+      "https://snarky.ca/why-you-should-use-python-m-pip/"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 19:16:19",
       "https://news.ycombinator.com/item?id=32156565"
     ],
@@ -227,16 +237,6 @@
     [
       "An SPA Alternative",
       "https://htmx.org/essays/spa-alternative/"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 05:55:33",
-      "https://news.ycombinator.com/item?id=32148007"
-    ],
-    [
-      "Nutanix Objects violates MinIO’s open source license",
-      "https://blog.min.io/nutanix-objects-violates-minios-open-source-license/"
     ]
   ],
   [
