@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
 * [2022-07-19, 07:00:32](https://news.ycombinator.com/item?id=32148365) - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+* [2022-07-19, 06:52:10](https://news.ycombinator.com/item?id=32148318) - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
 * [2022-07-19, 06:31:12](https://news.ycombinator.com/item?id=32148218) - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
 * [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/tags/d-audio2/)

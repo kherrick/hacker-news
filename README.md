@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-19, 07:00:32](https://news.ycombinator.com/item?id=32148365) - [Verdn (YC W22) is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+* [2022-07-19, 06:52:10](https://news.ycombinator.com/item?id=32148318) - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
 * [2022-07-19, 06:31:12](https://news.ycombinator.com/item?id=32148218) - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
 * [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 * [2022-07-19, 03:36:23](https://news.ycombinator.com/item?id=32147263) - [Parsing XML at the Speed of Light (2012)](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
 * [2022-07-19, 03:30:10](https://news.ycombinator.com/item?id=32147219) - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
-* [2022-07-19, 02:52:43](https://news.ycombinator.com/item?id=32146992) - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
 * [2022-07-19, 02:16:46](https://news.ycombinator.com/item?id=32146764) - [The simple usefulness of the Secchi disk](https://www.sciencehistory.org/distillations/the-simple-usefulness-of-the-secchi-disk)
 * [2022-07-19, 01:12:04](https://news.ycombinator.com/item?id=32146245) - [How to Design Programs](https://htdp.org/)
 * [2022-07-19, 00:52:13](https://news.ycombinator.com/item?id=32146082) - [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
