@@ -83,6 +83,7 @@
 * [2022-07-18, 03:55:10](https://news.ycombinator.com/item?id=32134469) - [Monodraw – a non-subscription, powerful ASCII art editor](https://blog.helftone.com/monodraw-v1.6/)
 * [2022-07-18, 03:47:26](https://news.ycombinator.com/item?id=32134423) - [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 * [2022-07-18, 03:42:00](https://news.ycombinator.com/item?id=32134388) - [Harris’s List of Covent-Garden Ladies (1757–1795)](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
+* [2022-07-18, 03:40:50](https://news.ycombinator.com/item?id=32134374) - [We all scream for ice cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
 * [2022-07-18, 03:07:30](https://news.ycombinator.com/item?id=32134153) - [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
 * [2022-07-18, 02:50:46](https://news.ycombinator.com/item?id=32134038) - [An ex-Googler's guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2022-07-18, 02:36:33](https://news.ycombinator.com/item?id=32133942) - [Fields Medal was never meant for ‘the greatest mathematical genius'](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
