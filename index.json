@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-07-19, 02:52:43",
+      "https://news.ycombinator.com/item?id=32146992"
+    ],
+    [
+      "Good managers write good",
+      "https://staysaasy.com/management/2022/07/10/Writing-Management.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 01:41:22",
+      "https://news.ycombinator.com/item?id=32146492"
+    ],
+    [
+      "An update to paid sharing",
+      "https://about.netflix.com/en/news/update-to-paid-sharing"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 01:12:04",
+      "https://news.ycombinator.com/item?id=32146245"
+    ],
+    [
+      "How to Design Programs",
+      "https://htdp.org/"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 00:52:13",
       "https://news.ycombinator.com/item?id=32146082"
     ],
     [
-      "A Corporation Is De-Anonymizing Users of Glassdoor with the Intention to Sue",
+      "Glassdoor not so anonymous",
       "https://www.webworm.co/p/glassdoor"
     ]
   ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32145905"
     ],
     [
-      "To hook American diners, an invasive species of carp gets a new name",
+      "To hook diners, an invasive species of carp gets a new name",
       "https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name"
     ]
   ],
@@ -25,38 +55,8 @@
       "https://news.ycombinator.com/item?id=32145297"
     ],
     [
-      "See Thru Jet Engine",
+      "See Thru Jet Engine [video]",
       "https://www.youtube.com/watch?v=MgL0GW248mE"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 23:06:18",
-      "https://news.ycombinator.com/item?id=32145268"
-    ],
-    [
-      "Zombie fly fungus lures healthy male flies to mate with female corpses",
-      "https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 22:32:01",
-      "https://news.ycombinator.com/item?id=32144912"
-    ],
-    [
-      "Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR",
-      "https://shouldibuytwitter.com"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 21:22:41",
-      "https://news.ycombinator.com/item?id=32143953"
-    ],
-    [
-      "Shannon's Demon and How Returns Can Be Created Out of Thin Air",
-      "https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-07-18, 19:35:16",
-      "https://news.ycombinator.com/item?id=32142529"
-    ],
-    [
-      "Pioneering economist says our obsession with growth must end",
-      "https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 19:29:27",
       "https://news.ycombinator.com/item?id=32142450"
     ],
@@ -177,6 +167,16 @@
     [
       "How Did REST Come to Mean the Opposite of REST?",
       "https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 16:57:05",
+      "https://news.ycombinator.com/item?id=32140487"
+    ],
+    [
+      "Show HN: Babble – Communicate privately on state-sponsored social media",
+      "https://babble.landrop.app/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-07-18, 14:14:26",
+      "https://news.ycombinator.com/item?id=32138631"
+    ],
+    [
+      "Two Years and over 700 Websites Later",
+      "https://1mb.club/blog/reflection/"
+    ]
+  ],
+  [
+    [
       "2022-07-18, 13:37:00",
       "https://news.ycombinator.com/item?id=32138205"
     ],
@@ -261,42 +271,32 @@
   ],
   [
     [
-      "2022-07-18, 12:04:33",
-      "https://news.ycombinator.com/item?id=32137275"
+      "2022-07-18, 08:27:51",
+      "https://news.ycombinator.com/item?id=32135890"
     ],
     [
-      "Mpv – A free, open source, and cross-platform media player",
-      "https://mpv.io/"
+      "Introduction to Classical and Quantum Computing [pdf]",
+      "https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf"
     ]
   ],
   [
     [
-      "2022-07-18, 10:23:44",
-      "https://news.ycombinator.com/item?id=32136526"
+      "2022-07-18, 05:05:18",
+      "https://news.ycombinator.com/item?id=32134878"
     ],
     [
-      "Iceland’s forest and bush cover has increased sixfold since 1990",
-      "https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/"
+      "Down the memory lane with OS/2 (2020)",
+      "https://jmmv.dev/2020/08/os2-memory-lane.html"
     ]
   ],
   [
     [
-      "2022-07-18, 05:55:18",
-      "https://news.ycombinator.com/item?id=32135153"
+      "2022-07-18, 04:56:22",
+      "https://news.ycombinator.com/item?id=32134831"
     ],
     [
-      "Running WordPerfect for Unix on Modern Linux",
-      "https://github.com/taviso/wpunix"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 11:21:04",
-      "https://news.ycombinator.com/item?id=32125894"
-    ],
-    [
-      "Microsoft Creative Writer (1993)",
-      "https://en.wikipedia.org/wiki/Creative_Writer"
+      "Beethoven's Legacy",
+      "https://blogs.bl.uk/music/2022/04/beethovens-legacy.html"
     ]
   ]
 ]
