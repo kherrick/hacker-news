@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
-* [2022-07-19, 18:25:23](https://news.ycombinator.com/item?id=32155906) - [Explosion and Fire at Hoover Dam](https://twitter.com/kristynashville/status/1549441916000825344)
+* [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft deletion probably isn't worth it](https://brandur.org/soft-deletion)
+* [2022-07-19, 17:39:29](https://news.ycombinator.com/item?id=32155247) - [Judge sets October trial for Musk-Twitter takeover dispute](https://www.latimes.com/business/story/2022-07-19/judge-sets-october-trial-for-musk-twitter-takeover-dispute)
+* [2022-07-19, 17:28:15](https://news.ycombinator.com/item?id=32155067) - [Tom Lord RIP](https://lwn.net/Articles/901807/)
 * [2022-07-19, 17:01:15](https://news.ycombinator.com/item?id=32154700) - [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
 * [2022-07-19, 16:48:42](https://news.ycombinator.com/item?id=32154457) - [Google Cloud (Europe-west2) is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
 * [2022-07-19, 16:41:22](https://news.ycombinator.com/item?id=32154343) - [The Entertainment Value Curve: Why TikTok Is on Fire and Quibi Isn’t (2020)](https://www.reforge.com/blog/entertainment-value-curve)
@@ -24,7 +25,6 @@
 * [2022-07-19, 06:52:10](https://news.ycombinator.com/item?id=32148318) - [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
 * [2022-07-19, 05:55:33](https://news.ycombinator.com/item?id=32148007) - [Nutanix Objects Violates MinIO’s Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)
 * [2022-07-19, 02:34:48](https://news.ycombinator.com/item?id=32146883) - [Taking things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading)
-* [2022-07-18, 07:58:58](https://news.ycombinator.com/item?id=32135759) - [I stopped cosmonauts from carrying guns (2014)](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 * [2022-07-17, 12:10:07](https://news.ycombinator.com/item?id=32126104) - [Logo and Learning](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_and_learning.html)
 * [2022-07-17, 11:52:33](https://news.ycombinator.com/item?id=32126021) - [The MiniDisc deck you hoped to never see [video]](https://www.youtube.com/watch?v=9pe157yBa00)
