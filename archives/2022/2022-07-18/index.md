@@ -68,6 +68,7 @@
 * [2022-07-18, 09:23:41](https://news.ycombinator.com/item?id=32136202) - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
 * [2022-07-18, 09:09:05](https://news.ycombinator.com/item?id=32136121) - [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
 * [2022-07-18, 08:58:11](https://news.ycombinator.com/item?id=32136067) - [Layoffs Create a Vacuum for Fraud](https://www.thewiretap.io/the-fraud-vacuum/)
+* [2022-07-18, 08:54:33](https://news.ycombinator.com/item?id=32136045) - [UK set to have automated drone superhighway](https://www.bbc.co.uk/news/technology-62177614)
 * [2022-07-18, 08:46:12](https://news.ycombinator.com/item?id=32135992) - [Ask HN: Has YouTube Peaked?](https://news.ycombinator.com/item?id=32135992)
 * [2022-07-18, 08:27:51](https://news.ycombinator.com/item?id=32135890) - [Introduction to Classical and Quantum Computing [pdf]](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
