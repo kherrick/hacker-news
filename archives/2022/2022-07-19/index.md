@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
+* [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/tags/d-audio2/)
 * [2022-07-19, 03:36:23](https://news.ycombinator.com/item?id=32147263) - [Parsing XML at the Speed of Light (2012)](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
 * [2022-07-19, 03:30:10](https://news.ycombinator.com/item?id=32147219) - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
 * [2022-07-19, 03:29:43](https://news.ycombinator.com/item?id=32147215) - [63% of University of North Carolina Class of 2025 is female](https://alumni.unc.edu/news-publications/review-extras/admissions-article-archive-admissions-to-unc/charts/)

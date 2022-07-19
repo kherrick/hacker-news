@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
+* [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/tags/d-audio2/)
 * [2022-07-19, 03:36:23](https://news.ycombinator.com/item?id=32147263) - [Parsing XML at the Speed of Light (2012)](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
 * [2022-07-19, 03:30:10](https://news.ycombinator.com/item?id=32147219) - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
 * [2022-07-19, 02:52:43](https://news.ycombinator.com/item?id=32146992) - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
@@ -27,7 +28,6 @@
 * [2022-07-18, 08:27:51](https://news.ycombinator.com/item?id=32135890) - [Introduction to Classical and Quantum Computing [pdf]](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 * [2022-07-18, 07:21:54](https://news.ycombinator.com/item?id=32135604) - [Building friend catchers](https://ferrucc.io/posts/friendcatchers/)
 * [2022-07-18, 05:05:18](https://news.ycombinator.com/item?id=32134878) - [Down the memory lane with OS/2 (2020)](https://jmmv.dev/2020/08/os2-memory-lane.html)
-* [2022-07-18, 04:56:22](https://news.ycombinator.com/item?id=32134831) - [Beethoven's Legacy](https://blogs.bl.uk/music/2022/04/beethovens-legacy.html)
 * [2022-07-18, 03:40:50](https://news.ycombinator.com/item?id=32134374) - [We All Scream for Ice Cream (2018)](https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream)
 * [2022-07-16, 07:55:05](https://news.ycombinator.com/item?id=32116058) - [First and Third Almost Forth (1992)](https://ftp.funet.fi/pub/doc/IOCCC/1992/buzzard.2.design)
 
