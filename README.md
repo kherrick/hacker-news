@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2022-07-19, 06:31:12](https://news.ycombinator.com/item?id=32148218) - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
 * [2022-07-19, 04:24:53](https://news.ycombinator.com/item?id=32147510) - [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
 * [2022-07-19, 04:11:40](https://news.ycombinator.com/item?id=32147445) - [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
 * [2022-07-19, 03:36:23](https://news.ycombinator.com/item?id=32147263) - [Parsing XML at the Speed of Light (2012)](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
@@ -15,7 +16,6 @@
 * [2022-07-18, 20:38:59](https://news.ycombinator.com/item?id=32143344) - [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
 * [2022-07-18, 20:30:38](https://news.ycombinator.com/item?id=32143256) - [New documents reveal scale of US Government’s cell phone location data tracking](https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data)
 * [2022-07-18, 19:47:35](https://news.ycombinator.com/item?id=32142711) - [Electrical engineers on the brink of extinction threaten entire tech ecosystems](https://www.theregister.com/2022/07/18/electrical_engineers_extinction/)
-* [2022-07-18, 18:52:13](https://news.ycombinator.com/item?id=32141962) - [Ask HN: What can you realistically manufacture in your garage?](https://news.ycombinator.com/item?id=32141962)
 * [2022-07-18, 18:16:33](https://news.ycombinator.com/item?id=32141502) - [Spf13 is leaving Google](https://spf13.com/p/spf13-google/)
 * [2022-07-18, 17:44:31](https://news.ycombinator.com/item?id=32141027) - [How did REST come to mean the opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [2022-07-18, 16:26:31](https://news.ycombinator.com/item?id=32140122) - [WordPerfect for UNIX (1992)](https://lock.cmpxchg8b.com/wordperfect.html)
