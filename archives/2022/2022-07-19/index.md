@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-07-19](index.md)
 
+* [2022-07-19, 18:35:39](https://news.ycombinator.com/item?id=32156009) - [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
 * [2022-07-19, 17:01:15](https://news.ycombinator.com/item?id=32154700) - [DevCycle (YC W14) is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
 * [2022-07-19, 16:53:04](https://news.ycombinator.com/item?id=32154541) - [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
 * [2022-07-19, 16:48:42](https://news.ycombinator.com/item?id=32154457) - [Google Cloud (Europe-west2) is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
@@ -51,6 +52,7 @@
 * [2022-07-19, 03:30:10](https://news.ycombinator.com/item?id=32147219) - [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
 * [2022-07-19, 03:29:43](https://news.ycombinator.com/item?id=32147215) - [63% of University of North Carolina Class of 2025 is female](https://alumni.unc.edu/news-publications/review-extras/admissions-article-archive-admissions-to-unc/charts/)
 * [2022-07-19, 02:52:43](https://news.ycombinator.com/item?id=32146992) - [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
+* [2022-07-19, 02:34:48](https://news.ycombinator.com/item?id=32146883) - [Taking things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading)
 * [2022-07-19, 02:16:46](https://news.ycombinator.com/item?id=32146764) - [The simple usefulness of the Secchi disk](https://www.sciencehistory.org/distillations/the-simple-usefulness-of-the-secchi-disk)
 * [2022-07-19, 01:41:22](https://news.ycombinator.com/item?id=32146492) - [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
 * [2022-07-19, 01:12:04](https://news.ycombinator.com/item?id=32146245) - [How to Design Programs](https://htdp.org/)
