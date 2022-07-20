@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-20, 12:18:51",
+      "https://news.ycombinator.com/item?id=32164667"
+    ],
+    [
+      "Show HN: A CLI to avoid remembering HTTP status codes",
+      "https://github.com/sterchelen/hssp"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 12:00:24",
       "https://news.ycombinator.com/item?id=32164481"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2022-07-20, 11:32:19",
-      "https://news.ycombinator.com/item?id=32164212"
-    ],
-    [
-      "TikTok owner ByteDance explores self-designed chips",
-      "https://www.cnbc.com/2022/07/19/tiktok-owner-bytedance-explores-self-designed-chips.html"
-    ]
-  ],
-  [
-    [
       "2022-07-20, 11:18:10",
       "https://news.ycombinator.com/item?id=32164118"
     ],
@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2022-07-20, 11:17:02",
+      "https://news.ycombinator.com/item?id=32164102"
+    ],
+    [
+      "Lisp.py",
+      "https://khamidou.com/compilers/lisp.py/"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 11:03:45",
       "https://news.ycombinator.com/item?id=32163993"
     ],
     [
-      "World chess champion Magnus Carlsen abdicates title",
+      "Magnus Carlsen to give up World Championship title",
       "https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title"
     ]
   ],
@@ -61,12 +71,42 @@
   ],
   [
     [
+      "2022-07-20, 10:40:45",
+      "https://news.ycombinator.com/item?id=32163798"
+    ],
+    [
+      "In microtransit, passengers order a shuttle van instead of having to take a bus",
+      "https://www.npr.org/2022/07/19/1111765630/on-demand-shuttles-have-replaced-buses-in-a-small-north-carolina-town"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 10:36:03",
       "https://news.ycombinator.com/item?id=32163757"
     ],
     [
       "DNS-over-HTTP/3 in Android",
       "https://security.googleblog.com/2022/07/dns-over-http3-in-android.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 10:26:22",
+      "https://news.ycombinator.com/item?id=32163704"
+    ],
+    [
+      "EU Digital Markets Act, aimed at Google, Apple, Amazon, approved",
+      "https://www.consilium.europa.eu/en/press/press-releases/2022/07/18/dma-council-gives-final-approval-to-new-rules-for-fair-competition-online/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 09:41:44",
+      "https://news.ycombinator.com/item?id=32163405"
+    ],
+    [
+      "Show HN: I built an app that helps JavaScript developers optimize their websites",
+      "https://buhalbu.com"
     ]
   ],
   [
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32162748"
     ],
     [
-      "Fleeting Memories of Youth and the Increasing Impermanence of Culture (2021)",
+      "Fleeting memories of youth and the increasing impermanence of culture (2021)",
       "https://www.datagubbe.se/fleeting/"
     ]
   ],
@@ -105,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32162038"
     ],
     [
-      "Being On-Call Sucks",
+      "Being on call sucks",
       "https://bobbiechen.com/blog/2022/7/20/being-on-call-sucks"
     ]
   ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-07-20, 01:51:10",
-      "https://news.ycombinator.com/item?id=32160386"
-    ],
-    [
-      "Accomplish more by doing less (2007)",
-      "https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/"
-    ]
-  ],
-  [
-    [
       "2022-07-20, 01:45:15",
       "https://news.ycombinator.com/item?id=32160339"
     ],
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2022-07-20, 00:37:28",
-      "https://news.ycombinator.com/item?id=32159830"
-    ],
-    [
-      "Fran Blanche: This Is Not Legal",
-      "https://www.youtube.com/watch?v=1qCM9L_FaFU"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 23:23:13",
       "https://news.ycombinator.com/item?id=32159272"
     ],
     [
       "PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040",
       "https://github.com/kbeckmann/PicoCart64"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 21:42:55",
-      "https://news.ycombinator.com/item?id=32158364"
-    ],
-    [
-      "Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems",
-      "https://github.com/kurtjd/CHIPnGo"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 21:16:15",
-      "https://news.ycombinator.com/item?id=32158090"
-    ],
-    [
-      "Amazon memo: Here’s why we should acquire Ring (2017)",
-      "https://twitter.com/TechEmails/status/1549489359459454976"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-07-19, 11:41:07",
-      "https://news.ycombinator.com/item?id=32150169"
-    ],
-    [
-      "A complete MIDI-based framework for automatic backing tracks generation",
-      "https://github.com/jjazzboss/JJazzLab-X"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 08:51:03",
       "https://news.ycombinator.com/item?id=32149080"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32148657"
     ],
     [
-      "Electric Seagliders Could Enable Short-Haul Emissions-Free Air Travel",
+      "Electric seagliders could enable short-haul emissions-free air travel",
       "https://singularityhub.com/2022/07/18/electric-seagliders-could-enable-short-haul-emissions-free-air-travel-this-decade/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Intel Microcode Decryptor",
       "https://github.com/chip-red-pill/MicrocodeDecryptor"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 21:53:48",
+      "https://news.ycombinator.com/item?id=32144430"
+    ],
+    [
+      "Faxlore",
+      "https://en.wikipedia.org/wiki/Faxlore"
     ]
   ],
   [
