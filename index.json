@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32160339"
     ],
     [
-      "Introduction to TCP and Sockets",
+      "Introduction to TCP and Sockets (2001)",
       "https://www.scottklement.com/rpg/socktut/introduction.html"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-07-19, 18:35:39",
-      "https://news.ycombinator.com/item?id=32156009"
-    ],
-    [
-      "Soft deletion probably isn't worth it",
-      "https://brandur.org/soft-deletion"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 14:16:06",
       "https://news.ycombinator.com/item?id=32151800"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2022-07-19, 04:21:09",
-      "https://news.ycombinator.com/item?id=32147492"
-    ],
-    [
-      "The Home Computer Generation",
-      "https://www.datagubbe.se/hcg/"
-    ]
-  ],
-  [
-    [
       "2022-07-18, 23:11:52",
       "https://news.ycombinator.com/item?id=32145324"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-07-18, 22:28:38",
+      "https://news.ycombinator.com/item?id=32144872"
+    ],
+    [
+      "Reckoning with the history of racial marketing of menthol cigarettes",
+      "https://nursingclio.org/2022/06/29/reckoning-with-the-history-of-racial-marketing-of-menthol-cigarettes/"
+    ]
+  ],
+  [
+    [
       "2022-07-18, 09:29:00",
       "https://news.ycombinator.com/item?id=32136235"
     ],
     [
       "Vergilius Project",
       "https://www.vergiliusproject.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 08:34:16",
+      "https://news.ycombinator.com/item?id=32135918"
+    ],
+    [
+      "Programming language in the sky (2016)",
+      "http://christophermeiklejohn.com/pl/2016/07/31/plits.html"
     ]
   ]
 ]
