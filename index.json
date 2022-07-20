@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-20, 19:04:14",
+      "https://news.ycombinator.com/item?id=32170624"
+    ],
+    [
+      "Pretty Maps in Python",
+      "https://tech.marksblogg.com/pretty-maps-in-python.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 18:35:54",
+      "https://news.ycombinator.com/item?id=32170244"
+    ],
+    [
+      "VCs Are Scared When They Should Be Greedy",
+      "https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 18:22:32",
       "https://news.ycombinator.com/item?id=32170028"
     ],
@@ -17,16 +37,6 @@
     [
       "About using Nix in my development workflow",
       "https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 17:22:32",
-      "https://news.ycombinator.com/item?id=32169082"
-    ],
-    [
-      "Rent in NYC without paying broker fees",
-      "https://reny-webapp.herokuapp.com/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Naming microservices needs to be trivial, not cryptic (2018)",
       "https://theiconic.tech/naming-your-microservices-needs-to-be-trivial-not-cryptic-288902e800e1?gi=94e2c65eaa27"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 16:39:35",
-      "https://news.ycombinator.com/item?id=32168342"
-    ],
-    [
-      "Highly differentiated startups raise 117% more funding",
-      "https://tips.ariyh.com/p/startup-differentiation"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-07-20, 06:06:27",
-      "https://news.ycombinator.com/item?id=32162038"
-    ],
-    [
-      "Being on call sucks",
-      "https://bobbiechen.com/blog/2022/7/20/being-on-call-sucks"
-    ]
-  ],
-  [
-    [
       "2022-07-20, 05:44:56",
       "https://news.ycombinator.com/item?id=32161895"
     ],
@@ -277,6 +267,16 @@
     [
       "Log4j: The pain just keeps going",
       "https://thenewstack.io/log4j-the-pain-just-keeps-going-and-going/"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 12:05:28",
+      "https://news.ycombinator.com/item?id=32150345"
+    ],
+    [
+      "Baby talk has common features across languages and societies",
+      "https://www.theregister.com/2022/07/19/universal_baby_talk/"
     ]
   ],
   [
