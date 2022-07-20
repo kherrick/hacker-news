@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-07-20, 18:22:32",
+      "https://news.ycombinator.com/item?id=32170028"
+    ],
+    [
+      "Gitlab – A world leader in remote work",
+      "https://about.gitlab.com/company/culture/all-remote/"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 17:42:35",
       "https://news.ycombinator.com/item?id=32169454"
     ],
     [
       "About using Nix in my development workflow",
       "https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 17:22:32",
+      "https://news.ycombinator.com/item?id=32169082"
+    ],
+    [
+      "Rent in NYC without paying broker fees",
+      "https://reny-webapp.herokuapp.com/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
       "https://www.aptible.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 16:50:23",
+      "https://news.ycombinator.com/item?id=32168521"
+    ],
+    [
+      "High property taxes are good",
+      "http://brooock.com/a/property-taxes-are-good"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-07-20, 14:02:52",
-      "https://news.ycombinator.com/item?id=32165944"
-    ],
-    [
-      "Bridesmaids go professional",
-      "https://www.sixthtone.com/news/1010792/bridesmaids-go-professional"
-    ]
-  ],
-  [
-    [
       "2022-07-20, 13:55:16",
       "https://news.ycombinator.com/item?id=32165835"
     ],
@@ -177,26 +197,6 @@
     [
       "Beej updated the classic Linux network programming guide",
       "https://beej.us/guide/"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 11:37:04",
-      "https://news.ycombinator.com/item?id=32164247"
-    ],
-    [
-      "Hetzner to Offer First Arm-Based Dedicated Servers in Europe",
-      "https://www.hetzner.com/news/07-22-rx-line/"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 11:18:10",
-      "https://news.ycombinator.com/item?id=32164118"
-    ],
-    [
-      "Electric Cars – fuel duty and road tax: how to replace £35B annual revenue",
-      "https://www.carwow.co.uk/blog/how-to-replace-fuel-duty-and-road-tax"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-07-19, 07:11:49",
-      "https://news.ycombinator.com/item?id=32148422"
+      "2022-07-19, 11:08:58",
+      "https://news.ycombinator.com/item?id=32149937"
     ],
     [
-      "What I learned in the first year of starting a podcast",
-      "https://www.chris-kipp.io/blog/what-i-learned-in-a-year-of-podcasting"
+      "Be careful how you pay the bills",
+      "https://blog.nateliason.com/p/money-too-good"
     ]
   ],
   [
