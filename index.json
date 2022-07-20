@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-07-20, 05:22:21",
+      "https://news.ycombinator.com/item?id=32161755"
+    ],
+    [
+      "Cooling related failure (in Google London DC)",
+      "https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 04:29:10",
       "https://news.ycombinator.com/item?id=32161426"
     ],
     [
       "Nobody Wants to Work Anymore",
       "https://twitter.com/paulisci/status/1549527748950892544"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 03:57:01",
+      "https://news.ycombinator.com/item?id=32161247"
+    ],
+    [
+      "Things I wish everyone knew about Git (Part II)",
+      "https://blog.plover.com/prog/git/tips-2.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-07-19, 17:01:15",
-      "https://news.ycombinator.com/item?id=32154700"
-    ],
-    [
-      "DevCycle (YC W14) is hiring feature flag developers to fix software development",
-      "https://devcycle.com/company/careers"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 15:06:28",
       "https://news.ycombinator.com/item?id=32152541"
     ],
@@ -207,16 +217,6 @@
     [
       "We found no evidence that Bionic Reading has a positive effect on reading speed",
       "https://blog.readwise.io/bionic-reading-results/"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 12:11:36",
-      "https://news.ycombinator.com/item?id=32150387"
-    ],
-    [
-      "Get started with GPU Compute on the web",
-      "https://web.dev/gpu-compute/"
     ]
   ],
   [
