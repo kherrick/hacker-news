@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-07-19, 21:31:23",
-      "https://news.ycombinator.com/item?id=32158251"
-    ],
-    [
-      "Back from the Future: Global Tables in CockroachDB",
-      "https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 21:16:15",
       "https://news.ycombinator.com/item?id=32158090"
     ],
@@ -247,6 +237,16 @@
     [
       "The Rust Performance Book (2020)",
       "https://nnethercote.github.io/perf-book/introduction.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 05:38:03",
+      "https://news.ycombinator.com/item?id=32147915"
+    ],
+    [
+      "An Overview of Distributed Caching",
+      "https://www.learncsdesign.com/an-overview-of-distributed-caching/"
     ]
   ],
   [
