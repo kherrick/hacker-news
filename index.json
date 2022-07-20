@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-07-20, 00:45:23",
-      "https://news.ycombinator.com/item?id=32159891"
+      "2022-07-20, 02:39:11",
+      "https://news.ycombinator.com/item?id=32160703"
     ],
     [
-      "Battery cost declines raise prospects of all-electric container shipping",
-      "https://www.nature.com/articles/s41560-022-01065-y"
+      "“No convincing evidence” that depression is caused by low serotonin levels",
+      "https://www.bmj.com/content/378/bmj.o1808"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 02:07:03",
+      "https://news.ycombinator.com/item?id=32160500"
+    ],
+    [
+      "Show HN: bashttp - a very (very) simple web server in Bash",
+      "https://github.com/EddySchauHai/bashttp"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 01:51:10",
+      "https://news.ycombinator.com/item?id=32160386"
+    ],
+    [
+      "The Einstein Principle: Accomplish More by Doing Less",
+      "https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 01:45:15",
+      "https://news.ycombinator.com/item?id=32160339"
+    ],
+    [
+      "Introduction to TCP and Sockets",
+      "https://www.scottklement.com/rpg/socktut/introduction.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 01:29:38",
+      "https://news.ycombinator.com/item?id=32160212"
+    ],
+    [
+      "Burnout",
+      "https://commoncog.com/g/burnout/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 00:56:17",
+      "https://news.ycombinator.com/item?id=32159966"
+    ],
+    [
+      "Small, Sharp Tools",
+      "https://brandur.org/small-sharp-tools"
     ]
   ],
   [
@@ -21,32 +71,22 @@
   ],
   [
     [
+      "2022-07-20, 00:23:44",
+      "https://news.ycombinator.com/item?id=32159752"
+    ],
+    [
+      "What I Miss About Working at Stripe",
+      "https://every.to/p/what-i-miss-about-working-at-stripe"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 23:23:13",
       "https://news.ycombinator.com/item?id=32159272"
     ],
     [
       "PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040",
       "https://github.com/kbeckmann/PicoCart64"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 22:49:37",
-      "https://news.ycombinator.com/item?id=32159000"
-    ],
-    [
-      "MongoDB 6 Released",
-      "https://www.mongodb.com/blog/post/mongodb-6-0-now-available"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 22:26:19",
-      "https://news.ycombinator.com/item?id=32158800"
-    ],
-    [
-      "Why Ruby Is More Readable Than Python",
-      "https://confuzeus.com/posts/python-ruby-readability/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-07-19, 19:39:33",
-      "https://news.ycombinator.com/item?id=32156881"
-    ],
-    [
-      "Understanding the x64 code models (2012)",
-      "https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models"
-    ]
-  ],
-  [
-    [
       "2022-07-19, 19:36:16",
       "https://news.ycombinator.com/item?id=32156834"
     ],
@@ -127,16 +157,6 @@
     [
       "Use `Python -m Pip`",
       "https://snarky.ca/why-you-should-use-python-m-pip/"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 19:16:19",
-      "https://news.ycombinator.com/item?id=32156565"
-    ],
-    [
-      "SEC issues more than $17M award to a whistleblower",
-      "https://www.sec.gov/news/press-release/2022-125"
     ]
   ],
   [
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2022-07-19, 14:30:16",
+      "https://news.ycombinator.com/item?id=32152051"
+    ],
+    [
+      "We found no evidence that Bionic Reading has a positive effect on reading speed",
+      "https://blog.readwise.io/bionic-reading-results/"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 14:05:02",
       "https://news.ycombinator.com/item?id=32151609"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2022-07-19, 11:17:11",
-      "https://news.ycombinator.com/item?id=32149989"
+      "2022-07-19, 11:41:07",
+      "https://news.ycombinator.com/item?id=32150169"
     ],
     [
-      "Show HN: I made some ambient music generators that run in your browser",
-      "https://www.flowful.app"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 09:05:17",
-      "https://news.ycombinator.com/item?id=32149170"
-    ],
-    [
-      "A Special Issue on Formal Proof (2008)",
-      "https://www.ams.org/journals/notices/200811/200811-full-issue.pdf?cat=fullissue&trk=fullissue200811"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 06:38:10",
-      "https://news.ycombinator.com/item?id=32148253"
-    ],
-    [
-      "An SPA Alternative",
-      "https://htmx.org/essays/spa-alternative/"
+      "A complete MIDI-based framework for automatic backing tracks generation",
+      "https://github.com/jjazzboss/JJazzLab-X"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-07-18, 21:53:48",
+      "https://news.ycombinator.com/item?id=32144430"
+    ],
+    [
+      "Faxlore",
+      "https://en.wikipedia.org/wiki/Faxlore"
+    ]
+  ],
+  [
+    [
       "2022-07-18, 18:48:16",
       "https://news.ycombinator.com/item?id=32141907"
     ],
     [
       "Sharing Stories, and a View, Aboard the California Zephyr",
       "https://www.nytimes.com/2022/07/18/travel/amtrak-california-zephyr-train.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-18, 18:38:34",
-      "https://news.ycombinator.com/item?id=32141753"
-    ],
-    [
-      "A Whale of a Story",
-      "https://theamericanscholar.org/a-whale-of-a-story/"
-    ]
-  ],
-  [
-    [
-      "2022-07-17, 11:52:33",
-      "https://news.ycombinator.com/item?id=32126021"
-    ],
-    [
-      "The MiniDisc deck you hoped to never see [video]",
-      "https://www.youtube.com/watch?v=9pe157yBa00"
     ]
   ]
 ]
