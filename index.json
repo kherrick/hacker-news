@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-20, 20:15:02",
+      "https://news.ycombinator.com/item?id=32171619"
+    ],
+    [
+      "User settings, Lamport clocks and lightweight formal methods",
+      "https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 19:54:59",
+      "https://news.ycombinator.com/item?id=32171283"
+    ],
+    [
+      "Are Forum Platforms Dead?",
+      "https://rosie.land/posts/are-forum-platforms-dead/"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 19:38:10",
       "https://news.ycombinator.com/item?id=32171062"
     ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-07-20, 10:58:34",
-      "https://news.ycombinator.com/item?id=32163940"
-    ],
-    [
-      "TeamViewer installs suspicious font only useful for web fingerprinting",
-      "https://www.ctrl.blog/entry/teamviewer-font-privacy.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 10:36:03",
-      "https://news.ycombinator.com/item?id=32163757"
-    ],
-    [
-      "DNS-over-HTTP/3 in Android",
-      "https://security.googleblog.com/2022/07/dns-over-http3-in-android.html"
-    ]
-  ],
-  [
-    [
       "2022-07-20, 10:26:22",
       "https://news.ycombinator.com/item?id=32163704"
     ],
@@ -247,16 +247,6 @@
     [
       "Bluetooth remains an 'unusually painful' technology after two decades",
       "https://www.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 05:44:56",
-      "https://news.ycombinator.com/item?id=32161895"
-    ],
-    [
-      "What’s the Biggest Bird in the World?",
-      "https://www.atlasobscura.com/articles/what-is-the-biggest-bird"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Be careful how you pay the bills",
       "https://blog.nateliason.com/p/money-too-good"
+    ]
+  ],
+  [
+    [
+      "2022-07-19, 09:01:58",
+      "https://news.ycombinator.com/item?id=32149149"
+    ],
+    [
+      "A brief history of microprogramming (2005)",
+      "https://people.cs.clemson.edu/~mark/uprog.html"
     ]
   ],
   [
