@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2022-07-19, 21:31:23",
+      "https://news.ycombinator.com/item?id=32158251"
+    ],
+    [
+      "Back from the Future: Global Tables in CockroachDB",
+      "https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/"
+    ]
+  ],
+  [
+    [
       "2022-07-19, 21:16:15",
       "https://news.ycombinator.com/item?id=32158090"
     ],
@@ -187,16 +197,6 @@
     [
       "Quantum Virtual Machine to accelerate research and learning",
       "https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 19:17:47",
-      "https://news.ycombinator.com/item?id=32156581"
-    ],
-    [
-      "Use `Python -m Pip`",
-      "https://snarky.ca/why-you-should-use-python-m-pip/"
     ]
   ],
   [
