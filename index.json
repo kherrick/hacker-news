@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=32171283"
     ],
     [
-      "Are Forum Platforms Dead?",
+      "Are forum platforms dead?",
       "https://rosie.land/posts/are-forum-platforms-dead/"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 19:14:02",
-      "https://news.ycombinator.com/item?id=32170758"
-    ],
-    [
-      "Media Confidence Ratings at Record Lows",
-      "https://news.gallup.com/poll/394817/media-confidence-ratings-record-lows.aspx"
     ]
   ],
   [
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32170624"
     ],
     [
-      "Pretty Maps in Python",
+      "Pretty maps in Python",
       "https://tech.marksblogg.com/pretty-maps-in-python.html"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32170244"
     ],
     [
-      "VCs Are Scared When They Should Be Greedy",
+      "VCs are scared when they should be greedy",
       "https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "TeamViewer installs suspicious font only useful for web fingerprinting",
       "https://www.ctrl.blog/entry/teamviewer-font-privacy.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 10:36:03",
+      "https://news.ycombinator.com/item?id=32163757"
+    ],
+    [
+      "DNS-over-HTTP/3 in Android",
+      "https://security.googleblog.com/2022/07/dns-over-http3-in-android.html"
     ]
   ],
   [
