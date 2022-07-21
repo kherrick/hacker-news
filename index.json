@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-07-20, 20:15:02",
+      "https://news.ycombinator.com/item?id=32171619"
+    ],
+    [
+      "User settings, Lamport clocks and lightweight formal methods",
+      "https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 19:04:14",
       "https://news.ycombinator.com/item?id=32170624"
     ],
@@ -141,22 +151,12 @@
   ],
   [
     [
-      "2022-07-20, 16:37:06",
-      "https://news.ycombinator.com/item?id=32168299"
+      "2022-07-20, 17:42:35",
+      "https://news.ycombinator.com/item?id=32169454"
     ],
     [
-      "MegaPortraits: One-Shot Megapixel Neural Head Avatars",
-      "https://samsunglabs.github.io/MegaPortraits/"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 16:33:03",
-      "https://news.ycombinator.com/item?id=32168236"
-    ],
-    [
-      "Stereokit – Open-source mixed reality library by Microsoft",
-      "https://github.com/StereoKit/StereoKit"
+      "About using Nix in my development workflow",
+      "https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/"
     ]
   ],
   [
