@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-21, 09:58:58",
+      "https://news.ycombinator.com/item?id=32177465"
+    ],
+    [
+      "Analyzing iOS 16 Lockdown Mode: Browser Features and Performance",
+      "https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/"
+    ]
+  ],
+  [
+    [
       "2022-07-21, 09:55:38",
       "https://news.ycombinator.com/item?id=32177442"
     ],
@@ -17,26 +27,6 @@
     [
       "Tell HN: Today I made my first “bucks” on the web",
       "https://news.ycombinator.com/item?id=32177053"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 08:05:09",
-      "https://news.ycombinator.com/item?id=32176893"
-    ],
-    [
-      "New UK data laws could be incompatible with GDPR in the EU",
-      "https://techmonitor.ai/policy/privacy-and-data-protection/uk-data-protection-digital-information-bill"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 06:27:16",
-      "https://news.ycombinator.com/item?id=32176407"
-    ],
-    [
-      "Long Live Software Easter Eggs",
-      "https://queue.acm.org/detail.cfm?id=3534857&doi=10.1145%2F3534857"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "A framework for audio software development",
       "https://cabbageaudio.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 20:15:02",
+      "https://news.ycombinator.com/item?id=32171619"
+    ],
+    [
+      "User settings, Lamport clocks and lightweight formal methods",
+      "https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html"
     ]
   ],
   [
