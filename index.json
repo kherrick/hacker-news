@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-21, 04:12:17",
-      "https://news.ycombinator.com/item?id=32175706"
+      "2022-07-21, 04:35:49",
+      "https://news.ycombinator.com/item?id=32175820"
     ],
     [
-      "Why does nobody seem to know what imperative and declarative actually mean?",
-      "https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is"
+      "New Lisp-Stat Release",
+      "https://lisp-stat.dev/blog/releases/"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-07-21, 01:32:08",
-      "https://news.ycombinator.com/item?id=32174723"
-    ],
-    [
-      "A 165-Mile Drone Superhighway Will Soon Be Built in the UK",
-      "https://singularityhub.com/2022/07/20/a-165-mile-drone-superhighway-will-soon-be-built-in-the-uk/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 01:12:41",
       "https://news.ycombinator.com/item?id=32174604"
     ],
@@ -67,16 +57,6 @@
     [
       "Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers",
       "https://news.ycombinator.com/item?id=32174543"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 00:17:58",
-      "https://news.ycombinator.com/item?id=32174210"
-    ],
-    [
-      "Continued cyber activity in Eastern Europe observed by TAG",
-      "https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/"
     ]
   ],
   [
@@ -145,8 +125,18 @@
       "https://news.ycombinator.com/item?id=32170028"
     ],
     [
-      "Gitlab – A world leader in remote work",
+      "Gitlab and remote work",
       "https://about.gitlab.com/company/culture/all-remote/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 17:42:35",
+      "https://news.ycombinator.com/item?id=32169454"
+    ],
+    [
+      "About using Nix in my development workflow",
+      "https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "MegaPortraits: One-Shot Megapixel Neural Head Avatars",
       "https://samsunglabs.github.io/MegaPortraits/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 16:33:03",
+      "https://news.ycombinator.com/item?id=32168236"
+    ],
+    [
+      "Stereokit – open-source mixed reality library by Microsoft",
+      "https://github.com/StereoKit/StereoKit"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2022-07-20, 14:23:21",
-      "https://news.ycombinator.com/item?id=32166175"
+      "2022-07-20, 14:20:37",
+      "https://news.ycombinator.com/item?id=32166140"
     ],
     [
-      "General Motors Streetcar Conspiracy",
-      "https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy"
+      "Launch HN: Bend (YC S22) – Automatically measure your company's carbon footprint",
+      "https://news.ycombinator.com/item?id=32166140"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Flipper Zero – Portable Multi-Tool Device for Geeks",
       "https://flipperzero.one"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 11:03:45",
+      "https://news.ycombinator.com/item?id=32163993"
+    ],
+    [
+      "Magnus Carlsen to give up World Championship title",
+      "https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Edbrowse – A Command Line Editor Browser",
       "https://edbrowse.org/"
-    ]
-  ],
-  [
-    [
-      "2022-07-19, 05:48:24",
-      "https://news.ycombinator.com/item?id=32147968"
-    ],
-    [
-      "Ask HN: How did you increase your UX skills?",
-      "https://news.ycombinator.com/item?id=32147968"
     ]
   ]
 ]
