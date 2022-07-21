@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-07-21, 20:11:56",
-      "https://news.ycombinator.com/item?id=32184354"
+      "2022-07-21, 21:00:38",
+      "https://news.ycombinator.com/item?id=32184988"
     ],
     [
-      "SQLite 3.39.2",
-      "https://sqlite.org/releaselog/3_39_2.html"
+      "PropelAuth (YC W22) Is Hiring Rust Developers (US Remote)",
+      "https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 20:49:54",
+      "https://news.ycombinator.com/item?id=32184849"
+    ],
+    [
+      "Equals Raises $6.6M from David Sacks at Craft Ventures to Replace Excel",
+      "https://wraptext.equals.app/equals-seed/"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 20:13:46",
+      "https://news.ycombinator.com/item?id=32184381"
+    ],
+    [
+      "Reserved Words in C [pdf]",
+      "https://www.bezem.de/pdf/ReservedWordsInC.pdf"
     ]
   ],
   [
@@ -25,8 +45,18 @@
       "https://news.ycombinator.com/item?id=32184183"
     ],
     [
-      "Hertz Paid Accenture $32M for a Website That Never Went Live",
+      "Hertz paid Accenture $32M for a website that never went live",
       "https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 19:48:02",
+      "https://news.ycombinator.com/item?id=32184007"
+    ],
+    [
+      "Dutch schools must stop using Google's email and cloud due to privacy concerns",
+      "https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32183302"
     ],
     [
-      "Potentials signs of fabrication threaten reigning theory of Alzheimer's disease",
+      "Potential fabrication in research threatens the amyloid theory of Alzheimer’s",
       "https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease"
     ]
   ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-07-21, 17:00:38",
-      "https://news.ycombinator.com/item?id=32181826"
-    ],
-    [
-      "ReadMe (YC W15) is hiring people who love Developer Experience",
-      "https://readme.com/careers"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 16:58:50",
       "https://news.ycombinator.com/item?id=32181805"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-07-21, 16:46:57",
-      "https://news.ycombinator.com/item?id=32181619"
-    ],
-    [
-      "Tell HN: You can't hire because you don't post salary ranges",
-      "https://news.ycombinator.com/item?id=32181619"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 16:13:28",
       "https://news.ycombinator.com/item?id=32181153"
     ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2022-07-21, 15:29:10",
-      "https://news.ycombinator.com/item?id=32180555"
-    ],
-    [
-      "Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme",
-      "https://stacker.news/items/47796"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 15:19:41",
       "https://news.ycombinator.com/item?id=32180428"
     ],
     [
-      "Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme",
+      "Former Coinbase PM charged in cryptocurrency insider trading tipping scheme",
       "https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 15:00:13",
-      "https://news.ycombinator.com/item?id=32180196"
-    ],
-    [
-      "Most Americans think NASA’s $10B space telescope is a good investment",
-      "https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Show HN: Pg_jsonschema – A Postgres extension for JSON validation",
       "https://github.com/supabase/pg_jsonschema"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 14:30:26",
+      "https://news.ycombinator.com/item?id=32179842"
+    ],
+    [
+      "Framework Laptop (2022) review: the repairability dream",
+      "https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32176603"
     ],
     [
-      "Pegor / F91_Kepler",
+      "Casio F91 smart watch reboot",
       "https://gitlab.com/_Pegor/kepler_fw"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-07-20, 12:11:12",
-      "https://news.ycombinator.com/item?id=32164593"
+      "2022-07-20, 18:44:37",
+      "https://news.ycombinator.com/item?id=32170361"
     ],
     [
-      "Love the smell of old books? This bookseller would like you to leave",
-      "https://www.nytimes.com/2022/07/18/books/review-factotum-book-trade-memoir-marius-kociejowski.html"
+      "The Art of Meticulous Disassembly (2011)",
+      "https://mymodernmet.com/the-art-of-meticulous-disassembly/"
     ]
   ],
   [
