@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-21, 20:11:56",
+      "https://news.ycombinator.com/item?id=32184354"
+    ],
+    [
+      "SQLite 3.39.2",
+      "https://sqlite.org/releaselog/3_39_2.html"
+    ]
+  ],
+  [
+    [
       "2022-07-21, 19:16:04",
       "https://news.ycombinator.com/item?id=32183604"
     ],
@@ -17,16 +27,6 @@
     [
       "Potentials signs of fabrication threaten reigning theory of Alzheimer's disease",
       "https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 18:43:24",
-      "https://news.ycombinator.com/item?id=32183169"
-    ],
-    [
-      "Commenting on Hacker News",
-      "https://superbowl.substack.com/p/commenting-on-hacker-news"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-07-21, 13:52:57",
-      "https://news.ycombinator.com/item?id=32179396"
-    ],
-    [
-      "Glassdoor ordered to unmask former toy company employees who posted criticism",
-      "https://fortune.com/2022/07/19/glassdoor-court-order-reveal-employees-behind-anonymous-reviews/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 13:32:33",
       "https://news.ycombinator.com/item?id=32179145"
     ],
@@ -257,6 +247,16 @@
     [
       "Analyzing iOS 16 Lockdown Mode: Browser Features and Performance",
       "https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 07:04:13",
+      "https://news.ycombinator.com/item?id=32176603"
+    ],
+    [
+      "Pegor / F91_Kepler",
+      "https://gitlab.com/_Pegor/kepler_fw"
     ]
   ],
   [
