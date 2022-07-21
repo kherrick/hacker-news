@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-21, 08:39:08",
+      "https://news.ycombinator.com/item?id=32177053"
+    ],
+    [
+      "Tell HN: Today I made my first “bucks” on the web",
+      "https://news.ycombinator.com/item?id=32177053"
+    ]
+  ],
+  [
+    [
       "2022-07-21, 08:05:09",
       "https://news.ycombinator.com/item?id=32176893"
     ],
@@ -127,26 +137,6 @@
     [
       "Simon Tatham's Portable Puzzle Collection",
       "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 18:35:54",
-      "https://news.ycombinator.com/item?id=32170244"
-    ],
-    [
-      "VCs are scared when they should be greedy",
-      "https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 18:22:32",
-      "https://news.ycombinator.com/item?id=32170028"
-    ],
-    [
-      "Gitlab and remote work",
-      "https://about.gitlab.com/company/culture/all-remote/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Computing: A Human Activity (1992)",
       "http://www.naur.com/comp/"
+    ]
+  ],
+  [
+    [
+      "2022-07-18, 23:11:52",
+      "https://news.ycombinator.com/item?id=32145324"
+    ],
+    [
+      "Intel Microcode Decryptor",
+      "https://github.com/chip-red-pill/MicrocodeDecryptor"
     ]
   ]
 ]
