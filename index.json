@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-22, 04:52:35",
-      "https://news.ycombinator.com/item?id=32188652"
+      "2022-07-22, 05:25:47",
+      "https://news.ycombinator.com/item?id=32188816"
     ],
     [
-      "Coinbase does not list securities. End of story",
-      "https://blog.coinbase.com/coinbase-does-not-list-securities-end-of-story-e58dc873be79"
+      "CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)",
+      "https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-07-21, 14:30:26",
-      "https://news.ycombinator.com/item?id=32179842"
-    ],
-    [
-      "Framework Laptop (2022) review: the repairability dream",
-      "https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 14:06:31",
       "https://news.ycombinator.com/item?id=32179563"
     ],
@@ -287,6 +277,16 @@
     [
       "Jurassic Cloud",
       "https://www.usenix.org/publications/loginonline/jurassic-cloud"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 10:23:22",
+      "https://news.ycombinator.com/item?id=32163690"
+    ],
+    [
+      "Can the Knees Go over the Toes? (2016)",
+      "https://squatuniversity.com/2016/01/29/can-the-knees-go-over-the-toes-debunking-squat-myths/"
     ]
   ],
   [
