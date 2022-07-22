@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-22, 18:34:05",
+      "https://news.ycombinator.com/item?id=32195541"
+    ],
+    [
+      "SpatiaLite: Extends SQLite core to support Spatial SQL capabilities",
+      "https://www.gaia-gis.it/fossil/libspatialite/index"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 17:06:00",
       "https://news.ycombinator.com/item?id=32194373"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2022-07-22, 16:56:07",
-      "https://news.ycombinator.com/item?id=32194252"
-    ],
-    [
-      "You're not the only one whos confused about the economy. Experts are baffled too",
-      "https://lite.cnn.com/en/article/h_009fe391f054031ef1471bc139a96cf5"
-    ]
-  ],
-  [
-    [
       "2022-07-22, 16:30:58",
       "https://news.ycombinator.com/item?id=32193896"
     ],
     [
       "Show HN: Formie – an open source (WIP) form website made with pure HTML/JS/CSS",
       "https://github.com/div72/formie"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 15:37:47",
+      "https://news.ycombinator.com/item?id=32193132"
+    ],
+    [
+      "LocalStack 1.0 General Availability",
+      "https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Sharpened Cosine Distance as an Alternative for Convolutions",
       "https://www.rpisoni.dev/posts/cossim-convolution/"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 14:03:56",
-      "https://news.ycombinator.com/item?id=32191953"
-    ],
-    [
-      "MPC-HC v1.9.22",
-      "https://github.com/clsid2/mpc-hc/releases/tag/1.9.22"
     ]
   ],
   [
