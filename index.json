@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-22, 19:24:25",
+      "https://news.ycombinator.com/item?id=32196088"
+    ],
+    [
+      "SpaceX just broke its annual launch record – and it’s only July",
+      "https://www.theverge.com/2022/7/22/23273077/spacex-falcon-9-launch-record-2022-32-high-cadence"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 18:39:30",
       "https://news.ycombinator.com/item?id=32195597"
     ],
@@ -17,16 +27,6 @@
     [
       "SpatiaLite: Extends SQLite core to support Spatial SQL capabilities",
       "https://www.gaia-gis.it/fossil/libspatialite/index"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 17:09:45",
-      "https://news.ycombinator.com/item?id=32194428"
-    ],
-    [
-      "Border Wallets – a new way to quickly and reliably memorize Bitcoin seed phrases",
-      "https://www.borderwallets.com/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Show HN: Formie – an open source (WIP) form website made with pure HTML/JS/CSS",
       "https://github.com/div72/formie"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 15:37:47",
+      "https://news.ycombinator.com/item?id=32193132"
+    ],
+    [
+      "LocalStack 1.0 General Availability",
+      "https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Turn spreadsheets into website designs",
       "https://www.ohsheethq.com"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 20:05:51",
-      "https://news.ycombinator.com/item?id=32171471"
-    ],
-    [
-      "F91 Kepler",
-      "https://gitlab.com/_Pegor/kepler_fw"
     ]
   ],
   [
