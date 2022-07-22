@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-22, 13:42:54",
-      "https://news.ycombinator.com/item?id=32191787"
+      "2022-07-22, 14:03:56",
+      "https://news.ycombinator.com/item?id=32191953"
     ],
     [
-      "Europe’s heatwave is forcing nuclear power plants to shut down",
-      "https://qz.com/1348969/europes-heatwave-is-forcing-nuclear-power-plants-to-shut-down/"
+      "MPC-HC v1.9.22",
+      "https://github.com/clsid2/mpc-hc/releases/tag/1.9.22"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 13:54:07",
+      "https://news.ycombinator.com/item?id=32191873"
+    ],
+    [
+      "South Carolina bill outlaws websites that tell how to get an abortion",
+      "https://www.washingtonpost.com/technology/2022/07/22/south-carolina-bill-abortion-websites/"
     ]
   ],
   [
@@ -37,6 +47,26 @@
     [
       "How to advertise to developers: deep dive into paid developer marketing",
       "https://www.developermarkepear.com/blog/paid-advertising-developer-marketing"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 13:18:28",
+      "https://news.ycombinator.com/item?id=32191585"
+    ],
+    [
+      "French Nuclear Outages Risk Making Europe’s Gas Crisis Worse",
+      "https://www.bloomberg.com/news/articles/2022-06-17/french-nuclear-outages-risk-making-europe-s-gas-crisis-worse"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 12:52:11",
+      "https://news.ycombinator.com/item?id=32191372"
+    ],
+    [
+      "The Lazy Way to Solve Differential Equations",
+      "https://iagoleal.com/posts/calculus-symbolic-ode/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-07-21, 15:19:41",
-      "https://news.ycombinator.com/item?id=32180428"
-    ],
-    [
-      "Former Coinbase PM charged in cryptocurrency insider trading tipping scheme",
-      "https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 14:04:07",
       "https://news.ycombinator.com/item?id=32179530"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-07-20, 10:23:22",
-      "https://news.ycombinator.com/item?id=32163690"
-    ],
-    [
-      "Can the knees go over the toes? (2016)",
-      "https://squatuniversity.com/2016/01/29/can-the-knees-go-over-the-toes-debunking-squat-myths/"
-    ]
-  ],
-  [
-    [
       "2022-07-20, 05:34:31",
       "https://news.ycombinator.com/item?id=32161820"
     ],
     [
       "Did Einstein say that? (2018)",
       "https://www.nature.com/articles/d41586-018-05004-4"
-    ]
-  ],
-  [
-    [
-      "2022-07-20, 04:59:26",
-      "https://news.ycombinator.com/item?id=32161592"
-    ],
-    [
-      "NiteFury – An Artix-7 FPGA with its own DDR3 RAM right in your laptop",
-      "https://www.crowdsupply.com/rhs-research/nitefury"
     ]
   ]
 ]
