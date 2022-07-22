@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-07-22, 02:48:33",
-      "https://news.ycombinator.com/item?id=32187898"
+      "2022-07-22, 03:23:27",
+      "https://news.ycombinator.com/item?id=32188126"
     ],
     [
-      "Bacterial and fungal isolation from face masks under the Covid-19 pandemic",
-      "https://www.nature.com/articles/s41598-022-15409-x"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 02:24:13",
-      "https://news.ycombinator.com/item?id=32187745"
-    ],
-    [
-      "Ask HN: What Are You Learning?",
-      "https://news.ycombinator.com/item?id=32187745"
+      "Transformer Models: An Introduction and Catalog",
+      "https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/"
     ]
   ],
   [
@@ -35,18 +25,8 @@
       "https://news.ycombinator.com/item?id=32186911"
     ],
     [
-      "The True Costs of Inflation in Small-Town Texas",
+      "The true costs of inflation in small-town Texas",
       "https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 00:00:23",
-      "https://news.ycombinator.com/item?id=32186817"
-    ],
-    [
-      "Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’",
-      "https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/"
     ]
   ],
   [
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32186647"
     ],
     [
-      "Practical Deep Learning for Coders 2022 (new edition of fast.ai course)",
+      "Practical Deep Learning for Coders 2022",
       "https://www.fast.ai/2022/07/21/dl-coders-22/"
     ]
   ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32186203"
     ],
     [
-      "Ask HN: What are some 'cool' but obscure data structures you know about?",
+      "Ask HN: What are some cool but obscure data structures you know about?",
       "https://news.ycombinator.com/item?id=32186203"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32184183"
     ],
     [
-      "Hertz paid Accenture $32M for a website that never went live",
+      "Hertz paid Accenture $32M for a website that never went live (2019)",
       "https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html"
     ]
   ],
@@ -117,6 +97,16 @@
     [
       "Why we ignore thousands of daily car crashes",
       "https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 18:06:41",
+      "https://news.ycombinator.com/item?id=32182684"
+    ],
+    [
+      "The birth of random-access memory",
+      "https://spectrum.ieee.org/the-birth-of-ram"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=32179563"
     ],
     [
-      "I Regret my Website Redesign",
+      "I regret my website redesign",
       "https://mtlynch.io/tinypilot-redesign/"
     ]
   ],
@@ -211,31 +201,11 @@
   ],
   [
     [
-      "2022-07-21, 13:32:33",
-      "https://news.ycombinator.com/item?id=32179145"
-    ],
-    [
-      "Can we protect land for nature and carbon by simply buying it up?",
-      "https://whoownsengland.org/2022/07/20/can-we-protect-land-for-nature-and-carbon-by-simply-buying-it-up/"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 11:56:51",
-      "https://news.ycombinator.com/item?id=32178291"
-    ],
-    [
-      "Notation as a Tool of Thought (1979)",
-      "https://www.jsoftware.com/papers/tot.htm"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 08:48:44",
       "https://news.ycombinator.com/item?id=32177091"
     ],
     [
-      "Swallowing the Elephant into Blender",
+      "Swallowing the elephant into Blender",
       "https://aras-p.info/blog/2022/07/20/Swallowing-the-elephant-into-Blender/"
     ]
   ],
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2022-07-20, 19:01:07",
+      "https://news.ycombinator.com/item?id=32170574"
+    ],
+    [
+      "Behind Closed Doors review – entertaining study of London private members’ clubs",
+      "https://www.theguardian.com/books/2022/jul/10/behind-closed-doors-secret-life-london-private-members-clubs-by-seth-alexander-thevoz-review"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 18:44:37",
       "https://news.ycombinator.com/item?id=32170361"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2022-07-20, 11:19:23",
+      "https://news.ycombinator.com/item?id=32164130"
+    ],
+    [
+      "Jurassic Cloud",
+      "https://www.usenix.org/publications/loginonline/jurassic-cloud"
+    ]
+  ],
+  [
+    [
       "2022-07-20, 04:59:26",
       "https://news.ycombinator.com/item?id=32161592"
     ],
     [
       "NiteFury – An Artix-7 FPGA with its own DDR3 RAM right in your laptop",
       "https://www.crowdsupply.com/rhs-research/nitefury"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 04:19:11",
+      "https://news.ycombinator.com/item?id=32161367"
+    ],
+    [
+      "Who preserved Greek literature? (2020)",
+      "http://kiwihellenist.blogspot.com/2020/06/who-preserved-greek-literature-2.html"
     ]
   ]
 ]
