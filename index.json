@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-22, 15:26:50",
+      "https://news.ycombinator.com/item?id=32192996"
+    ],
+    [
+      "Prostitution and Spam Killed Craigslist",
+      "https://ashlan.com/blog/prostitution-and-spam-killed-craigslist/"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 15:02:29",
+      "https://news.ycombinator.com/item?id=32192645"
+    ],
+    [
+      "Migratory monarch butterfly now Endangered",
+      "https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 14:56:32",
       "https://news.ycombinator.com/item?id=32192549"
     ],
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2022-07-22, 07:33:51",
+      "https://news.ycombinator.com/item?id=32189507"
+    ],
+    [
+      "UK intelligence recycles “think of the children” argument for borking encryption",
+      "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 07:05:41",
       "https://news.ycombinator.com/item?id=32189359"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2022-07-21, 23:41:09",
-      "https://news.ycombinator.com/item?id=32186647"
-    ],
-    [
-      "Practical Deep Learning for Coders 2022",
-      "https://www.fast.ai/2022/07/21/dl-coders-22/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 22:50:29",
       "https://news.ycombinator.com/item?id=32186203"
     ],
     [
       "Ask HN: What are some cool but obscure data structures you know about?",
       "https://news.ycombinator.com/item?id=32186203"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 18:54:37",
-      "https://news.ycombinator.com/item?id=32183302"
-    ],
-    [
-      "Potential fabrication in research threatens the amyloid theory of Alzheimer’s",
-      "https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-07-21, 08:48:44",
-      "https://news.ycombinator.com/item?id=32177091"
-    ],
-    [
-      "Swallowing the elephant into Blender",
-      "https://aras-p.info/blog/2022/07/20/Swallowing-the-elephant-into-Blender/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 07:48:38",
       "https://news.ycombinator.com/item?id=32176825"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-07-21, 06:59:38",
-      "https://news.ycombinator.com/item?id=32176579"
-    ],
-    [
-      "Raspberry Pi Pico Hack Unlocks Two Extra “Hidden” GPIO Pins",
-      "https://www.hackster.io/news/this-raspberry-pi-pico-hack-unlocks-two-extra-hidden-gpio-pins-and-potentially-a-couple-more-aee23753281b"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 06:55:58",
       "https://news.ycombinator.com/item?id=32176554"
     ],
     [
       "Hg Init: A Mercurial Tutorial",
       "https://hginit.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 20:05:51",
+      "https://news.ycombinator.com/item?id=32171471"
+    ],
+    [
+      "F91 Kepler",
+      "https://gitlab.com/_Pegor/kepler_fw"
     ]
   ],
   [
