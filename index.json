@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-07-22, 12:00:52",
+      "https://news.ycombinator.com/item?id=32191015"
+    ],
+    [
+      "Charityvest (YC S20) Is Hiring Lead UX and Brand Designer",
+      "https://apply.workable.com/charityvest/j/37123CA4DC/"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 10:36:59",
       "https://news.ycombinator.com/item?id=32190515"
     ],
     [
-      "Ask HN: How to keep water-obsessed autistic child from wasting water",
+      "Ask HN: How to keep water-obsessed autistic child from wasting water?",
       "https://news.ycombinator.com/item?id=32190515"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32190032"
     ],
     [
-      "The Trouble with Symbolic Links",
+      "The trouble with symbolic links",
       "https://lwn.net/Articles/899543/"
     ]
   ],
@@ -31,11 +41,21 @@
   ],
   [
     [
+      "2022-07-22, 06:44:09",
+      "https://news.ycombinator.com/item?id=32189238"
+    ],
+    [
+      "Building a Rust Mentality",
+      "https://slightknack.dev/blog/shift/"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 05:25:47",
       "https://news.ycombinator.com/item?id=32188816"
     ],
     [
-      "CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)",
+      "Arbitrary file execution in TZinfo (Ruby)",
       "https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx"
     ]
   ],
@@ -47,6 +67,36 @@
     [
       "A weird epic ramble about Etsy homepages from the middle 2000’s",
       "https://twitter.com/mcfunley/status/1550219636464967680"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 04:39:24",
+      "https://news.ycombinator.com/item?id=32188584"
+    ],
+    [
+      "ArchiveTeam File Format Wiki",
+      "http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 03:23:27",
+      "https://news.ycombinator.com/item?id=32188126"
+    ],
+    [
+      "Transformer Models: An Introduction and Catalog",
+      "https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 00:12:08",
+      "https://news.ycombinator.com/item?id=32186911"
+    ],
+    [
+      "The true costs of inflation in small-town Texas",
+      "https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2022-07-21, 19:48:02",
-      "https://news.ycombinator.com/item?id=32184007"
-    ],
-    [
-      "Dutch schools must stop using Google's email and cloud due to privacy concerns",
-      "https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 18:54:37",
       "https://news.ycombinator.com/item?id=32183302"
     ],
@@ -101,12 +141,12 @@
   ],
   [
     [
-      "2022-07-21, 17:14:11",
-      "https://news.ycombinator.com/item?id=32181987"
+      "2022-07-21, 18:06:41",
+      "https://news.ycombinator.com/item?id=32182684"
     ],
     [
-      "We don't have a hundred biases, we have the wrong model",
-      "https://www.worksinprogress.co/issue/biases-the-wrong-model/"
+      "The birth of random-access memory",
+      "https://spectrum.ieee.org/the-birth-of-ram"
     ]
   ],
   [
@@ -121,42 +161,12 @@
   ],
   [
     [
-      "2022-07-21, 16:58:50",
-      "https://news.ycombinator.com/item?id=32181805"
-    ],
-    [
-      "Real peer review has never been tried",
-      "https://www.worksinprogress.co/issue/real-peer-review/"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 16:13:28",
-      "https://news.ycombinator.com/item?id=32181153"
-    ],
-    [
-      "Negative incentives in academic research",
-      "https://lemire.me/blog/2022/07/21/negative-incentives-in-academic-research/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 15:19:41",
       "https://news.ycombinator.com/item?id=32180428"
     ],
     [
       "Former Coinbase PM charged in cryptocurrency insider trading tipping scheme",
       "https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme"
-    ]
-  ],
-  [
-    [
-      "2022-07-21, 14:31:20",
-      "https://news.ycombinator.com/item?id=32179856"
-    ],
-    [
-      "Show HN: Pg_jsonschema – A Postgres extension for JSON validation",
-      "https://github.com/supabase/pg_jsonschema"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=32177405"
     ],
     [
-      "The “Spreadsheet Mentality” sucks, and kills the efficacy of jobs",
+      "The “spreadsheet mentality” sucks, and kills the efficacy of jobs",
       "https://tedbauer2003.medium.com/the-spreadsheet-mentality-sucks-and-kills-the-efficacy-of-jobs-697b9f2e83b8"
     ]
   ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2022-07-21, 06:50:33",
-      "https://news.ycombinator.com/item?id=32176527"
-    ],
-    [
-      "The Perl Journal",
-      "https://www.foo.be/docs/tpj/"
-    ]
-  ],
-  [
-    [
       "2022-07-21, 06:39:44",
       "https://news.ycombinator.com/item?id=32176461"
     ],
     [
-      "E-ZPass reduced infant mortality in surrounding areas when introduced [pdf]",
+      "Traffic Congestion and Infant Health: Evidence from E-ZPass [pdf]",
       "https://economics.yale.edu/sites/default/files/files/Workshops-Seminars/Labor-Public/currie-101008.pdf"
     ]
   ],
   [
     [
-      "2022-07-21, 05:50:44",
-      "https://news.ycombinator.com/item?id=32176193"
+      "2022-07-20, 22:10:40",
+      "https://news.ycombinator.com/item?id=32173087"
     ],
     [
-      "A personal trainer is the best investment I've made",
-      "https://herman.bearblog.dev/the-best-investment/"
+      "LTT showcases A770 with some performance data, price estimate [video]",
+      "https://www.youtube.com/watch?v=45n5pnEyw9o"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32163690"
     ],
     [
-      "Can the Knees Go over the Toes? (2016)",
+      "Can the knees go over the toes? (2016)",
       "https://squatuniversity.com/2016/01/29/can-the-knees-go-over-the-toes-debunking-squat-myths/"
     ]
   ],
