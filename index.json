@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-23, 15:33:16",
+      "https://news.ycombinator.com/item?id=32204256"
+    ],
+    [
+      "Spain Will Introduce Free Train Travel to Help Ease the Cost of Living",
+      "https://www.bloomberg.com/news/articles/2022-07-15/spain-will-introduce-free-train-travel-to-help-ease-the-cost-of-living"
+    ]
+  ],
+  [
+    [
       "2022-07-23, 14:40:31",
       "https://news.ycombinator.com/item?id=32203734"
     ],
@@ -27,16 +37,6 @@
     [
       "Ask HN: What is the job market like, for niche languages (Nim, crystal)?",
       "https://news.ycombinator.com/item?id=32202798"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 12:03:29",
-      "https://news.ycombinator.com/item?id=32202549"
-    ],
-    [
-      "Windows' market share declined 17 percent in the past 10 years",
-      "https://stockapps.com/blog/microsofts-windows-os-loses-17-of-its-market-share-in-the-last-10-years/"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32200218"
     ],
     [
-      "Show HN: RawInputViewer – examine how games receive inputs from Windows",
+      "Show HN: RawInputViewer – Examine how games receive inputs from Windows",
       "https://github.com/EsportToys/RawInputViewer"
     ]
   ],
