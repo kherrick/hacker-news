@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-23, 04:35:27",
-      "https://news.ycombinator.com/item?id=32200411"
+      "2022-07-23, 07:00:44",
+      "https://news.ycombinator.com/item?id=32201067"
     ],
     [
-      "I've now used Linux nftables for firewall rules and it went okay",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/NFTablesInoffensive"
+      "Flexport Is Hiring Software Engineers",
+      "https://flexport.com/careers"
     ]
   ],
   [
@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=32199164"
     ],
     [
-      "Interactive exploration of Boston's subway system",
+      "An interactive exploration of Boston's subway system (2014)",
       "http://mbtaviz.github.io/"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 01:00:03",
-      "https://news.ycombinator.com/item?id=32199091"
-    ],
-    [
-      "Svix (YC W21) Is Hiring (Remote) – Enterprise-ready webhook service",
-      "https://www.svix.com/careers/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2022-07-22, 15:37:47",
-      "https://news.ycombinator.com/item?id=32193132"
-    ],
-    [
-      "LocalStack 1.0",
-      "https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/"
-    ]
-  ],
-  [
-    [
       "2022-07-22, 14:47:04",
       "https://news.ycombinator.com/item?id=32192417"
     ],
@@ -207,6 +187,16 @@
     [
       "How to advertise to developers: deep dive into paid developer marketing",
       "https://www.developermarkepear.com/blog/paid-advertising-developer-marketing"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 12:46:03",
+      "https://news.ycombinator.com/item?id=32191324"
+    ],
+    [
+      "Turn-by-turntables: How drivers got from A to B in the early 1900s (2020)",
+      "https://arstechnica.com/cars/2020/01/turn-by-turntables-how-drivers-got-from-point-a-to-point-b-in-the-early-1900s/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Strange new phase of matter acts like it has two time dimensions",
       "https://phys.org/news/2022-07-strange-phase-quantum-dimensions.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-20, 12:18:15",
+      "https://news.ycombinator.com/item?id=32164657"
+    ],
+    [
+      "The elusive truth of Farm Hall",
+      "https://physicstoday.scitation.org/do/10.1063/PT.6.4.20220519a/full/"
     ]
   ]
 ]
