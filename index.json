@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-23, 17:00:25",
+      "https://news.ycombinator.com/item?id=32205165"
+    ],
+    [
+      "Keeper Tax (YC W19) is hiring a data engineer to save freelancers $ on taxes",
+      "https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-07-23, 16:49:46",
+      "https://news.ycombinator.com/item?id=32205036"
+    ],
+    [
+      "Ask HN: Why are self-taught developers deprived of “free for education” tools?",
+      "https://news.ycombinator.com/item?id=32205036"
+    ]
+  ],
+  [
+    [
       "2022-07-23, 16:20:09",
       "https://news.ycombinator.com/item?id=32204724"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2022-07-23, 15:35:45",
+      "https://news.ycombinator.com/item?id=32204280"
+    ],
+    [
+      "How to Use Sshfs on OpenBSD",
+      "https://dataswamp.org/~solene/2022-07-23-openbsd-sshfs.html"
+    ]
+  ],
+  [
+    [
       "2022-07-23, 15:33:16",
       "https://news.ycombinator.com/item?id=32204256"
     ],
@@ -57,16 +87,6 @@
     [
       "WHO declares monkeypox a public health emergency",
       "https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 13:38:57",
-      "https://news.ycombinator.com/item?id=32203234"
-    ],
-    [
-      "Are language models deprived of electric sleep?",
-      "https://blog.cbs.dk/inframethodology/?p=5386"
     ]
   ],
   [
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2022-07-23, 07:00:44",
-      "https://news.ycombinator.com/item?id=32201067"
+      "2022-07-23, 07:13:51",
+      "https://news.ycombinator.com/item?id=32201137"
     ],
     [
-      "Flexport Is Hiring Software Engineers",
-      "https://flexport.com/careers"
+      "Comité Liquidant Ou Détournant Les Ordinateurs (C.L.O.D.O.) (1983)",
+      "https://theanarchistlibrary.org/library/le-clodo-clodo-speaks?v=1642397481"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Gnome Turns 25",
       "https://hpjansson.org/blag/2022/07/23/gnome-at-25-a-health-checkup/"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 03:42:21",
-      "https://news.ycombinator.com/item?id=32200121"
-    ],
-    [
-      "Game engines are more than libraries glued together",
-      "https://www.leafwing-studios.com/blog/game-engine-glue/"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-07-22, 14:47:04",
-      "https://news.ycombinator.com/item?id=32192417"
-    ],
-    [
-      "You can be both dull and innovative",
-      "https://www.nytimes.com/2022/07/21/technology/boring-innovation.html"
-    ]
-  ],
-  [
-    [
       "2022-07-22, 13:22:07",
       "https://news.ycombinator.com/item?id=32191626"
     ],
     [
       "Mutt’s secret sauce (2017)",
       "https://nosubstance.me/post/mutt-secret-sauce/"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 12:46:03",
-      "https://news.ycombinator.com/item?id=32191324"
-    ],
-    [
-      "Turn-by-turntables: How drivers got from A to B in the early 1900s (2020)",
-      "https://arstechnica.com/cars/2020/01/turn-by-turntables-how-drivers-got-from-point-a-to-point-b-in-the-early-1900s/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Importance of Elders",
       "https://www.news.ucsb.edu/2022/020677/importance-elders"
+    ]
+  ],
+  [
+    [
+      "2022-07-22, 10:32:56",
+      "https://news.ycombinator.com/item?id=32190493"
+    ],
+    [
+      "Software Is Eating the World (2011)",
+      "https://a16z.com/2011/08/20/why-software-is-eating-the-world/"
     ]
   ],
   [
