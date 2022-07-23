@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-07-23, 17:37:39",
+      "https://news.ycombinator.com/item?id=32205575"
+    ],
+    [
+      "An informal review of CTF abuse",
+      "https://gynvael.coldwind.pl/?id=750"
+    ]
+  ],
+  [
+    [
       "2022-07-23, 17:34:02",
       "https://news.ycombinator.com/item?id=32205535"
     ],
     [
       "Why Writing Your Own Search Engine Is Hard (2004)",
       "https://queue.acm.org/detail.cfm?id=988407"
+    ]
+  ],
+  [
+    [
+      "2022-07-23, 17:22:41",
+      "https://news.ycombinator.com/item?id=32205399"
+    ],
+    [
+      "Imaginary Numbers Are Real",
+      "https://aeon.co/essays/how-imaginary-numbers-describe-the-fundamental-shape-of-nature"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Keeper Tax (YC W19) is hiring a data engineer to save freelancers $ on taxes",
       "https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 16:56:47",
-      "https://news.ycombinator.com/item?id=32205120"
-    ],
-    [
-      "Lab-grown woolly mammoths could walk the Earth in six years",
-      "https://www.cnbc.com/2021/09/13/geneticist-george-church-gets-funding-for-lab-grown-woolly-mammoths.html"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Spain will introduce free train travel",
       "https://www.bloomberg.com/news/articles/2022-07-15/spain-will-introduce-free-train-travel-to-help-ease-the-cost-of-living"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 14:40:31",
-      "https://news.ycombinator.com/item?id=32203734"
-    ],
-    [
-      "WHO declares monkeypox a public health emergency",
-      "https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-07-22, 10:57:36",
-      "https://news.ycombinator.com/item?id=32190626"
-    ],
-    [
-      "The Importance of Elders",
-      "https://www.news.ucsb.edu/2022/020677/importance-elders"
-    ]
-  ],
-  [
-    [
       "2022-07-22, 10:15:46",
       "https://news.ycombinator.com/item?id=32190405"
     ],
@@ -297,6 +287,16 @@
     [
       "Kerf Time Series Lang and Columnar DB Open Sourced",
       "https://github.com/kevinlawler/kerf1"
+    ]
+  ],
+  [
+    [
+      "2022-07-21, 11:46:07",
+      "https://news.ycombinator.com/item?id=32178217"
+    ],
+    [
+      "Behind the pretty frames: Resident evil",
+      "https://mamoniem.com/behind-the-pretty-frames-resident-evil/"
     ]
   ]
 ]
