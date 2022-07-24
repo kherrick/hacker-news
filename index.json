@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-24, 04:10:14",
+      "https://news.ycombinator.com/item?id=32210258"
+    ],
+    [
+      "Wikenigma is an encyclopedia for topics with unknown answers",
+      "https://wikenigma.org.uk/"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 04:10:04",
+      "https://news.ycombinator.com/item?id=32210256"
+    ],
+    [
+      "François Chollet: Amazon sales of Deep Learning with Python are 100% counterfeit",
+      "https://twitter.com/fchollet/status/1550930876183166976"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 03:47:55",
+      "https://news.ycombinator.com/item?id=32210140"
+    ],
+    [
+      "Burning Ship Fractal",
+      "http://www.paulbourke.net/fractals/burnship/"
+    ]
+  ],
+  [
+    [
       "2022-07-24, 03:17:17",
       "https://news.ycombinator.com/item?id=32210004"
     ],
@@ -27,6 +57,16 @@
     [
       "How to Fold a Julia Fractal – A tale of numbers that like to turn (2013)",
       "https://acko.net/blog/how-to-fold-a-julia-fractal/"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 01:04:39",
+      "https://news.ycombinator.com/item?id=32209168"
+    ],
+    [
+      "Does the Past Still Exist?",
+      "http://backreaction.blogspot.com/2022/07/does-past-still-exist.html"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2022-07-23, 17:37:39",
-      "https://news.ycombinator.com/item?id=32205575"
-    ],
-    [
-      "An informal review of CTF abuse",
-      "https://gynvael.coldwind.pl/?id=750"
-    ]
-  ],
-  [
-    [
       "2022-07-23, 17:34:02",
       "https://news.ycombinator.com/item?id=32205535"
     ],
     [
       "Why Writing Your Own Search Engine Is Hard (2004)",
       "https://queue.acm.org/detail.cfm?id=988407"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 17:22:41",
-      "https://news.ycombinator.com/item?id=32205399"
-    ],
-    [
-      "Imaginary numbers are real",
-      "https://aeon.co/essays/how-imaginary-numbers-describe-the-fundamental-shape-of-nature"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Publii: Open-source local WYSIWYG static site CMS",
       "https://github.com/GetPublii/Publii"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 15:35:45",
-      "https://news.ycombinator.com/item?id=32204280"
-    ],
-    [
-      "How to Use Sshfs on OpenBSD",
-      "https://dataswamp.org/~solene/2022-07-23-openbsd-sshfs.html"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2022-07-23, 08:02:46",
+      "https://news.ycombinator.com/item?id=32201349"
+    ],
+    [
+      "The Future of Corporate Governance Part I: The Problem of Twelve (2019) [pdf]",
+      "https://web.archive.org/web/20220408185159/https://corpgov.law.harvard.edu/wp-content/uploads/2019/11/John-Coates.pdf"
+    ]
+  ],
+  [
+    [
       "2022-07-22, 18:20:32",
       "https://news.ycombinator.com/item?id=32195352"
     ],
@@ -257,26 +277,6 @@
     [
       "The UOR-Universal Object Reference Framework",
       "https://next.redhat.com/2022/07/13/the-uor-framework/"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 14:53:43",
-      "https://news.ycombinator.com/item?id=32192503"
-    ],
-    [
-      "Preventing Loss Dot JPEG",
-      "https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-22, 14:32:55",
-      "https://news.ycombinator.com/item?id=32192246"
-    ],
-    [
-      "Spawned Shelter",
-      "https://spawnedshelter.com/"
     ]
   ],
   [
