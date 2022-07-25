@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2022-07-24, 19:21:39",
+      "https://news.ycombinator.com/item?id=32216700"
+    ],
+    [
+      "Kubernetes for Developers Who Know How to Develop",
+      "https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/"
+    ]
+  ],
+  [
+    [
       "2022-07-24, 18:33:28",
       "https://news.ycombinator.com/item?id=32216275"
     ],
@@ -217,16 +227,6 @@
     [
       "Performance comparison: counting words in Python, C/C++, Awk, Rust, and more",
       "https://benhoyt.com/writings/count-words/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 14:44:10",
-      "https://news.ycombinator.com/item?id=32213950"
-    ],
-    [
-      "Non-Obvious Docker Uses",
-      "https://matt-rickard.com/non-obvious-docker-uses/"
     ]
   ],
   [
