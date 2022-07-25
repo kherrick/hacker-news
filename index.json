@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-07-25, 03:18:40",
+      "https://news.ycombinator.com/item?id=32220187"
+    ],
+    [
+      "Laser fusion facility heads back to drawing board",
+      "https://www.nature.com/articles/d41586-022-02022-1"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 02:05:33",
+      "https://news.ycombinator.com/item?id=32219836"
+    ],
+    [
+      "The Case for C# and .NET",
+      "https://chrlschn.medium.com/the-case-for-c-and-net-72ee933da304"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 01:56:25",
       "https://news.ycombinator.com/item?id=32219776"
     ],
     [
-      "The Identity of Kim Il Sung (1949) (declassified 2011) [pdf]",
+      "The Identity of Kim Il Sung (1949) [pdf]",
       "https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf"
     ]
   ],
@@ -77,26 +97,6 @@
     [
       "Oblique Strategies on GameBoy",
       "https://nickyflowers.itch.io/osgb"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 19:21:39",
-      "https://news.ycombinator.com/item?id=32216700"
-    ],
-    [
-      "Kubernetes for Developers Who Know How to Develop",
-      "https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 18:43:07",
-      "https://news.ycombinator.com/item?id=32216363"
-    ],
-    [
-      "Samsung asks for planning permission for 11 fabs in Texas",
-      "https://www.electronicsweekly.com/uncategorised/802190-2022-07/"
     ]
   ],
   [
@@ -211,26 +211,6 @@
   ],
   [
     [
-      "2022-07-24, 13:04:43",
-      "https://news.ycombinator.com/item?id=32213101"
-    ],
-    [
-      "At 88, Poker Legend Doyle Brunson Is Still Bluffing. Or Is He?",
-      "https://www.texasmonthly.com/arts-entertainment/doyle-brunson-poker-legend/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 12:03:07",
-      "https://news.ycombinator.com/item?id=32212605"
-    ],
-    [
-      "Facial hair tracking for high fidelity performance capture",
-      "https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/"
-    ]
-  ],
-  [
-    [
       "2022-07-23, 20:14:28",
       "https://news.ycombinator.com/item?id=32207171"
     ],
@@ -257,6 +237,26 @@
     [
       "Inside the Irish Republican Army (1994)",
       "https://www.spin.com/2015/08/inside-the-ira-spins-1994-feature/"
+    ]
+  ],
+  [
+    [
+      "2022-07-23, 15:14:32",
+      "https://news.ycombinator.com/item?id=32204050"
+    ],
+    [
+      "Earthgrid aims to rewire the USA using super-cheap tunnel tech",
+      "https://newatlas.com/energy/earthgrid-tunnel-boring-robot/"
+    ]
+  ],
+  [
+    [
+      "2022-07-23, 14:43:36",
+      "https://news.ycombinator.com/item?id=32203767"
+    ],
+    [
+      "Non-Obvious Docker Uses",
+      "https://matt-rickard.com/non-obvious-docker-uses/"
     ]
   ],
   [
