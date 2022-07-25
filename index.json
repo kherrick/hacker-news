@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-07-25, 20:57:52",
+      "https://news.ycombinator.com/item?id=32230819"
+    ],
+    [
+      "Whole Genome Sequencing",
+      "https://sequencing.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 20:25:04",
+      "https://news.ycombinator.com/item?id=32230433"
+    ],
+    [
+      "I Raised My Kids on the Command Line and They Love It",
+      "https://lifehacker.com/i-raised-my-kids-on-the-command-line-and-they-love-it-5974087"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 20:16:02",
       "https://news.ycombinator.com/item?id=32230329"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-07-25, 13:11:42",
-      "https://news.ycombinator.com/item?id=32223768"
-    ],
-    [
-      "Round a direction vector to an 8-way compass",
-      "https://lemire.me/blog/2022/07/24/round-a-direction-vector-to-the-nearest-8-way-compass/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 13:07:15",
       "https://news.ycombinator.com/item?id=32223721"
     ],
@@ -237,16 +247,6 @@
     [
       "Google Kubernetes clusters config checker tool",
       "https://github.com/google/gke-policy-automation"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 09:49:17",
-      "https://news.ycombinator.com/item?id=32222360"
-    ],
-    [
-      "The GNU Name System",
-      "https://www.gnunet.org/en/gns.html"
     ]
   ],
   [
