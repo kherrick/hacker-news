@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-07-25, 13:26:50",
+      "https://news.ycombinator.com/item?id=32223919"
+    ],
+    [
+      "Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?",
+      "https://news.ycombinator.com/item?id=32223919"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 13:18:47",
+      "https://news.ycombinator.com/item?id=32223834"
+    ],
+    [
+      "Ask HN: What are the best programming tricks you know?",
+      "https://news.ycombinator.com/item?id=32223834"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 13:11:42",
+      "https://news.ycombinator.com/item?id=32223768"
+    ],
+    [
+      "Round a direction vector to an 8-way compass",
+      "https://lemire.me/blog/2022/07/24/round-a-direction-vector-to-the-nearest-8-way-compass/"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 13:07:15",
+      "https://news.ycombinator.com/item?id=32223721"
+    ],
+    [
+      "Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’",
+      "https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 12:53:05",
+      "https://news.ycombinator.com/item?id=32223605"
+    ],
+    [
+      "Intel Foundry Services Lands MediaTek, a Leading TSMC Customer",
+      "https://www.tomshardware.com/news/intels-foundry-services-lands-mediatek-as-a-16nm-customer"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 12:48:04",
+      "https://news.ycombinator.com/item?id=32223568"
+    ],
+    [
+      "How the Path to Home Ownership Runs Through Mexico",
+      "https://www.nytimes.com/2022/07/25/realestate/homeownership-san-diego-tijuana-mexico.html"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 12:32:02",
       "https://news.ycombinator.com/item?id=32223421"
     ],
@@ -21,12 +81,22 @@
   ],
   [
     [
-      "2022-07-25, 11:46:44",
-      "https://news.ycombinator.com/item?id=32223081"
+      "2022-07-25, 12:13:12",
+      "https://news.ycombinator.com/item?id=32223270"
     ],
     [
-      "The country where having a pet could soon land you in jail",
-      "https://www.bbc.com/news/world-middle-east-62205744"
+      "Google Launches Carbon, an Experimental Replacement for C++",
+      "https://thenewstack.io/google-launches-carbon-an-experimental-replacement-for-c/"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 11:04:22",
+      "https://news.ycombinator.com/item?id=32222846"
+    ],
+    [
+      "Keet by Holepunch – P2P Video and Text",
+      "https://keet.io/"
     ]
   ],
   [
@@ -61,12 +131,12 @@
   ],
   [
     [
-      "2022-07-25, 09:07:22",
-      "https://news.ycombinator.com/item?id=32222118"
+      "2022-07-25, 09:22:15",
+      "https://news.ycombinator.com/item?id=32222195"
     ],
     [
-      "The New B-21 Stealth Bomber to Be Revealed Later This Year, Senator Says",
-      "https://www.military.com/daily-news/2022/07/22/new-b-21-stealth-bomber-be-revealed-later-year-senator-says.html"
+      "What Happens When Texans Protest Their “Mind-Boggling” Property Taxes?",
+      "https://www.texasmonthly.com/news-politics/texas-property-tax-hearings/"
     ]
   ],
   [
@@ -141,16 +211,6 @@
   ],
   [
     [
-      "2022-07-25, 03:19:43",
-      "https://news.ycombinator.com/item?id=32220192"
-    ],
-    [
-      "Ask HN: YouTube Channels for the Intellectually Curious",
-      "https://news.ycombinator.com/item?id=32220192"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 03:18:40",
       "https://news.ycombinator.com/item?id=32220187"
     ],
@@ -177,46 +237,6 @@
     [
       "The Identity of Kim Il Sung (1949) [pdf]",
       "https://www.cia.gov/readingroom/docs/CIA-RDP80-00809A000600270269-4.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 01:07:29",
-      "https://news.ycombinator.com/item?id=32219491"
-    ],
-    [
-      "The State of Fortran Generics",
-      "https://everythingfunctional.wordpress.com/2022/07/24/the-state-of-fortran-generics/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 22:03:39",
-      "https://news.ycombinator.com/item?id=32218232"
-    ],
-    [
-      "Why are McDonald’s Self Service Kiosks so hackable?",
-      "https://ghuntley.com/mcdonalds/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 21:32:48",
-      "https://news.ycombinator.com/item?id=32217968"
-    ],
-    [
-      "Datadog dashboard for the Texas power grid",
-      "https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 21:06:45",
-      "https://news.ycombinator.com/item?id=32217732"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Product Manager",
-      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-07-23, 18:19:40",
-      "https://news.ycombinator.com/item?id=32206006"
-    ],
-    [
-      "Ted Gioia: The history of music innovation [video]",
-      "https://www.youtube.com/watch?v=dKr-nBrbl_g"
-    ]
-  ],
-  [
-    [
       "2022-07-23, 18:15:47",
       "https://news.ycombinator.com/item?id=32205957"
     ],
     [
       "The Race to Reclaim the Dark",
       "https://www.bbc.com/future/article/20220614-the-crusade-for-darker-night-skies"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 16:55:14",
-      "https://news.ycombinator.com/item?id=32205105"
-    ],
-    [
-      "Inside the Irish Republican Army (1994)",
-      "https://www.spin.com/2015/08/inside-the-ira-spins-1994-feature/"
     ]
   ],
   [
