@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-25, 14:15:32",
-      "https://news.ycombinator.com/item?id=32224597"
+      "2022-07-25, 14:31:37",
+      "https://news.ycombinator.com/item?id=32224823"
     ],
     [
-      "‘Effective Altruism’ Is Neither",
-      "https://www.wsj.com/articles/effective-altruism-is-neither-bankman-fried-givewell-philanthropy-taxes-capitalism-artificial-intelligence-pandemic-pet-projects-11658658039"
+      "Faked Beta-Amyloid Data. What Does It Mean?",
+      "https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 14:26:15",
+      "https://news.ycombinator.com/item?id=32224751"
+    ],
+    [
+      "Lockdown: The coming war on general-purpose computing",
+      "https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Show HN: Search PDFs with Transformers and Python Notebook",
       "https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 14:08:00",
+      "https://news.ycombinator.com/item?id=32224508"
+    ],
+    [
+      "Your Code Doesn't Have to Be a Mess",
+      "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "An STM32 emulator written in Rust for 3D printers",
       "https://github.com/nviennot/stm32-emulator"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 06:12:51",
-      "https://news.ycombinator.com/item?id=32221072"
-    ],
-    [
-      "Towards robot accelerators, democratizing hardware acceleration in robotics",
-      "https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 04:56:21",
-      "https://news.ycombinator.com/item?id=32220610"
-    ],
-    [
-      "Perseus-9 homemade mobile dual 6502 computer",
-      "https://hackaday.io/project/186479-perseus-9-homemade-mobile-6502-computer"
     ]
   ],
   [
