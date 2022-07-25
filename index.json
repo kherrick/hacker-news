@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-25, 17:23:43",
-      "https://news.ycombinator.com/item?id=32227737"
+      "2022-07-25, 18:18:20",
+      "https://news.ycombinator.com/item?id=32228627"
     ],
     [
-      "Ask HN: Why do you make class members private?",
-      "https://news.ycombinator.com/item?id=32227737"
+      "Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing",
+      "https://www.tomshardware.com/news/intel-gpu-100x-performance-ray-tracing"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 18:14:08",
+      "https://news.ycombinator.com/item?id=32228569"
+    ],
+    [
+      "Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems",
+      "https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "It’s time to leave the leap second in the past",
       "https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 16:03:26",
-      "https://news.ycombinator.com/item?id=32226338"
-    ],
-    [
-      "The Global Housing Market Is Broken, and It’s Dividing Entire Countries",
-      "https://www.bloomberglinea.com/2021/09/20/the-global-housing-market-is-broken-and-its-dividing-entire-countries/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-07-24, 16:59:30",
-      "https://news.ycombinator.com/item?id=32215324"
+      "2022-07-24, 12:27:12",
+      "https://news.ycombinator.com/item?id=32212778"
     ],
     [
-      "Standard Ebooks",
-      "https://standardebooks.org/"
+      "Computer Based Spellchecking Techniques",
+      "https://web.archive.org/web/20100706052342/http://www.spellingsociety.org/journals/j20/spellchecking.php"
     ]
   ],
   [
