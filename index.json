@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-07-25, 08:41:46",
-      "https://news.ycombinator.com/item?id=32221942"
+      "2022-07-25, 09:49:17",
+      "https://news.ycombinator.com/item?id=32222360"
     ],
     [
-      "The audacious PR plot that seeded doubt about climate change",
-      "https://www.bbc.co.uk/news/science-environment-62225696"
+      "The GNU Name System",
+      "https://www.gnunet.org/en/gns.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 09:38:32",
+      "https://news.ycombinator.com/item?id=32222304"
+    ],
+    [
+      "The EU has quietly provided Morocco with powerful phone hacking systems [French]",
+      "https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 09:22:15",
+      "https://news.ycombinator.com/item?id=32222195"
+    ],
+    [
+      "What Happens When Texans Protest Their “Mind-Boggling” Property Taxes?",
+      "https://www.texasmonthly.com/news-politics/texas-property-tax-hearings/"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32221740"
     ],
     [
-      "Handshake",
+      "Handshake – Decentralized naming and certificate authority",
       "https://handshake.org/"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Towards robot accelerators, democratizing hardware acceleration in robotics",
       "https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 05:38:32",
-      "https://news.ycombinator.com/item?id=32220867"
-    ],
-    [
-      "Deutsche Bahn’s Meltdown and High-Speed Rail",
-      "https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-07-24, 18:33:28",
-      "https://news.ycombinator.com/item?id=32216275"
-    ],
-    [
-      "DwarFS: A fast high compression read-only file system",
-      "https://github.com/mhx/dwarfs"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 17:18:18",
-      "https://news.ycombinator.com/item?id=32215551"
-    ],
-    [
-      "OpenXanadu",
-      "https://xanadu.com/xanademos/MoeJusteOrigins.html"
-    ]
-  ],
-  [
-    [
       "2022-07-24, 16:59:30",
       "https://news.ycombinator.com/item?id=32215324"
     ],
@@ -227,6 +217,16 @@
     [
       "Take more screenshots",
       "https://alexwlchan.net/2022/07/screenshots/"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 15:31:23",
+      "https://news.ycombinator.com/item?id=32214419"
+    ],
+    [
+      "Performance comparison: counting words in Python, C/C++, Awk, Rust, and more",
+      "https://benhoyt.com/writings/count-words/"
     ]
   ],
   [
