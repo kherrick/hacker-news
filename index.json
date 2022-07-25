@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-07-25, 12:32:02",
+      "https://news.ycombinator.com/item?id=32223421"
+    ],
+    [
+      "Likely cause of mystery child hepatitis outbreak found",
+      "https://www.bbc.co.uk/news/health-61269586"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 12:13:20",
+      "https://news.ycombinator.com/item?id=32223271"
+    ],
+    [
+      "Google Kubernetes clusters config checker tool",
+      "https://github.com/google/gke-policy-automation"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 11:46:44",
+      "https://news.ycombinator.com/item?id=32223081"
+    ],
+    [
+      "The country where having a pet could soon land you in jail",
+      "https://www.bbc.com/news/world-middle-east-62205744"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 11:03:14",
+      "https://news.ycombinator.com/item?id=32222840"
+    ],
+    [
+      "Intel NUC P14E Laptop Element with Swappable NUC 11 Compute Element (2021)",
+      "https://www.zdnet.com/article/intel-unveils-nuc-p14e-laptop-element-with-swappable-nuc-11-compute-element/"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 10:41:51",
       "https://news.ycombinator.com/item?id=32222683"
     ],
     [
-      "Strawman? Steelman? How to Starman: Arguing from Compassion",
+      "Arguing from compassion (2021)",
       "https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/"
     ]
   ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2022-07-25, 09:38:32",
-      "https://news.ycombinator.com/item?id=32222304"
+      "2022-07-25, 09:07:22",
+      "https://news.ycombinator.com/item?id=32222118"
     ],
     [
-      "The EU has quietly provided Morocco with powerful phone hacking systems [French]",
-      "https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones"
+      "The New B-21 Stealth Bomber to Be Revealed Later This Year, Senator Says",
+      "https://www.military.com/daily-news/2022/07/22/new-b-21-stealth-bomber-be-revealed-later-year-senator-says.html"
     ]
   ],
   [
@@ -37,6 +77,16 @@
     [
       "Handshake – Decentralized naming and certificate authority",
       "https://handshake.org/"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 07:20:33",
+      "https://news.ycombinator.com/item?id=32221449"
+    ],
+    [
+      "Diet and its effects on the gut biome in the pathophysiology of mental disorders",
+      "https://www.nature.com/articles/s41398-022-01922-0"
     ]
   ],
   [
@@ -87,16 +137,6 @@
     [
       "Finishing what you start makes teams more productive and predictable",
       "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 03:59:28",
-      "https://news.ycombinator.com/item?id=32220349"
-    ],
-    [
-      "Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?",
-      "https://news.ycombinator.com/item?id=32220349"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2022-07-24, 20:43:07",
-      "https://news.ycombinator.com/item?id=32217511"
+      "2022-07-24, 21:06:45",
+      "https://news.ycombinator.com/item?id=32217732"
     ],
     [
-      "Library Writing Realizations (2015)",
-      "http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 20:31:42",
-      "https://news.ycombinator.com/item?id=32217396"
-    ],
-    [
-      "Amazon's Book Piracy Problem",
-      "https://hairysun.com/amazons-book-piracy-problem.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 20:16:36",
-      "https://news.ycombinator.com/item?id=32217257"
-    ],
-    [
-      "Foundations of Databases",
-      "http://webdam.inria.fr/Alice/"
+      "BuildZoom (better way to build custom homes) Is hiring a Product Manager",
+      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "Take more screenshots",
       "https://alexwlchan.net/2022/07/screenshots/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 15:31:23",
-      "https://news.ycombinator.com/item?id=32214419"
-    ],
-    [
-      "Performance comparison: counting words in Python, C/C++, Awk, Rust, and more",
-      "https://benhoyt.com/writings/count-words/"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2022-07-23, 16:55:14",
+      "https://news.ycombinator.com/item?id=32205105"
+    ],
+    [
+      "Inside the Irish Republican Army (1994)",
+      "https://www.spin.com/2015/08/inside-the-ira-spins-1994-feature/"
+    ]
+  ],
+  [
+    [
       "2022-07-23, 14:27:31",
       "https://news.ycombinator.com/item?id=32203642"
     ],
     [
       "Developing Godot Projects with Neovim",
       "https://devpoga.org/blog/2022-07-23_neovim_godot/"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 14:03:52",
-      "https://news.ycombinator.com/item?id=32203442"
-    ],
-    [
-      "Children's Railways of the Former USSR",
-      "http://www.dzd-ussr.ru/english/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-23, 12:38:33",
-      "https://news.ycombinator.com/item?id=32202751"
-    ],
-    [
-      "Bison Roundup at Tallgrass Prairie Preserve (2021)",
-      "https://www.nature.org/en-us/about-us/where-we-work/united-states/oklahoma/stories-in-oklahoma/bison-round-up-at-tallgrass-prairie-preserve/"
     ]
   ]
 ]
