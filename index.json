@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-07-25, 06:14:23",
+      "https://news.ycombinator.com/item?id=32221078"
+    ],
+    [
+      "An STM32 emulator written in Rust for 3D printers",
+      "https://github.com/nviennot/stm32-emulator"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 06:12:51",
       "https://news.ycombinator.com/item?id=32221072"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-07-24, 21:06:45",
-      "https://news.ycombinator.com/item?id=32217732"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Product Manager",
-      "https://jobs.lever.co/buildzoom"
-    ]
-  ],
-  [
-    [
       "2022-07-24, 20:43:07",
       "https://news.ycombinator.com/item?id=32217511"
     ],
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2022-07-24, 20:31:42",
+      "https://news.ycombinator.com/item?id=32217396"
+    ],
+    [
+      "Amazon's Book Piracy Problem",
+      "https://hairysun.com/amazons-book-piracy-problem.html"
+    ]
+  ],
+  [
+    [
       "2022-07-24, 20:16:36",
       "https://news.ycombinator.com/item?id=32217257"
     ],
     [
       "Foundations of Databases",
       "http://webdam.inria.fr/Alice/"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 19:45:33",
-      "https://news.ycombinator.com/item?id=32216948"
-    ],
-    [
-      "Oblique Strategies on GameBoy",
-      "https://nickyflowers.itch.io/osgb"
     ]
   ],
   [
