@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-07-26, 18:23:37",
+      "https://news.ycombinator.com/item?id=32241923"
+    ],
+    [
+      "Retrofitting GDPR Compliance onto Legacy Databases [pdf]",
+      "https://vldb.org/pvldb/vol15/p958-george.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 18:16:22",
+      "https://news.ycombinator.com/item?id=32241820"
+    ],
+    [
+      "Shipping Multi-Tenant SaaS Using Postgres Row-Level Security",
+      "https://www.thenile.dev/blog/multi-tenant-rls"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 17:57:31",
       "https://news.ycombinator.com/item?id=32241531"
     ],
@@ -77,16 +97,6 @@
     [
       "Propagation of mistakes in papers",
       "http://databasearchitects.blogspot.com/2018/06/propagation-of-mistakes-in-papers.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 15:59:20",
-      "https://news.ycombinator.com/item?id=32240037"
-    ],
-    [
-      "Tor Project – Metrics",
-      "https://metrics.torproject.org"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Apple Interview – 1995",
       "https://www.engineersneedart.com/blog/interview/interview.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 03:46:19",
-      "https://news.ycombinator.com/item?id=32234022"
-    ],
-    [
-      "The Dangers of Microsoft Pluton",
-      "https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/"
     ]
   ],
   [
