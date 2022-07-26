@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-26, 09:32:01",
+      "https://news.ycombinator.com/item?id=32236109"
+    ],
+    [
+      "miniexpect: Tiny “expect” library in 500 LoC",
+      "https://github.com/rwmjones/miniexpect"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 09:22:18",
       "https://news.ycombinator.com/item?id=32236056"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32233451"
     ],
     [
-      "Shamelessness as a Strategy (2019)",
+      "Shamelessness as a strategy (2019)",
       "https://nadia.xyz/shameless"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-07-25, 21:00:01",
-      "https://news.ycombinator.com/item?id=32230842"
-    ],
-    [
-      "Clerky (YC S11) is hiring senior software engineers (Rails, remote)",
-      "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 20:16:02",
       "https://news.ycombinator.com/item?id=32230329"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-07-25, 16:08:55",
-      "https://news.ycombinator.com/item?id=32226414"
-    ],
-    [
-      "It’s time to leave the leap second in the past",
-      "https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 14:24:53",
       "https://news.ycombinator.com/item?id=32224725"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2022-07-25, 13:07:15",
-      "https://news.ycombinator.com/item?id=32223721"
-    ],
-    [
-      "Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)",
-      "https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 12:04:07",
       "https://news.ycombinator.com/item?id=32223198"
     ],
     [
       "Emmaüs: Thrift Store Shopping in France",
       "https://lamelonne.substack.com/p/a-visit-to-emmaus"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 11:37:27",
+      "https://news.ycombinator.com/item?id=32223026"
+    ],
+    [
+      "How the Brain Allows the Deaf to Experience Music",
+      "https://nautil.us/how-the-brain-allows-the-deaf-to-feel-music-22197/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Searches during twilight toward the Sun find several asteroids near Venus’ orbit",
       "https://www.science.org/doi/10.1126/science.abj9820"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 06:19:07",
+      "https://news.ycombinator.com/item?id=32210884"
+    ],
+    [
+      "Schematics: A Love Story",
+      "https://julianhibbard.com/schematics.html"
     ]
   ]
 ]
