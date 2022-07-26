@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-26, 14:16:28",
+      "https://news.ycombinator.com/item?id=32238566"
+    ],
+    [
+      "Am I an Idiot for Wanting a Dumber Phone?",
+      "https://www.wired.com/story/am-i-an-idiot-for-wanting-a-dumber-phone/"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 14:07:00",
+      "https://news.ycombinator.com/item?id=32238446"
+    ],
+    [
+      "After bus fire, CT pulls electric fleet from service",
+      "https://www.ctinsider.com/news/article/After-massive-bus-fire-CT-pulls-electric-fleet-17329085.php"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 14:03:57",
       "https://news.ycombinator.com/item?id=32238408"
     ],
@@ -17,6 +37,16 @@
     [
       "Mullvad is now available on Amazon",
       "https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 13:11:24",
+      "https://news.ycombinator.com/item?id=32237780"
+    ],
+    [
+      "Ferrocene: Rust toolchain to safety-critical environments",
+      "https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32236608"
     ],
     [
-      "Language Tool – open-source Grammarly Alternative",
+      "Language Tool – Open-source Grammarly alternative",
       "https://languagetool.org/dev"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32236109"
     ],
     [
-      "miniexpect: Tiny “expect” library in 500 LoC",
+      "Miniexpect – A very simple expect-like library",
       "https://github.com/rwmjones/miniexpect"
     ]
   ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-07-26, 04:04:15",
-      "https://news.ycombinator.com/item?id=32234117"
-    ],
-    [
-      "Job Switchers Are Earning a Lot More Than Those Who Stay",
-      "https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 03:46:19",
       "https://news.ycombinator.com/item?id=32234022"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-07-25, 14:24:53",
-      "https://news.ycombinator.com/item?id=32224725"
-    ],
-    [
-      "Two weeks in, the Webb Space Telescope is reshaping astronomy",
-      "https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 12:04:07",
       "https://news.ycombinator.com/item?id=32223198"
     ],
@@ -267,16 +277,6 @@
     [
       "In Remote Alaska, Meal Planning Is Everything",
       "https://www.eater.com/23199328/alaska-remote-delivery-food-plane-bettles"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 18:50:58",
-      "https://news.ycombinator.com/item?id=32216436"
-    ],
-    [
-      "Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid",
-      "https://hexapipes.vercel.app/hexagonal/5/1"
     ]
   ],
   [
