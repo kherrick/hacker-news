@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-26, 20:05:22",
+      "https://news.ycombinator.com/item?id=32243265"
+    ],
+    [
+      "Alphabet Q2 FY2022 Earnings [pdf]",
+      "https://abc.xyz/investor/static/pdf/2022Q2_alphabet_earnings_release.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 19:44:42",
+      "https://news.ycombinator.com/item?id=32242987"
+    ],
+    [
+      "Hetzner appears to impose unlisted “fair use” on traffic",
+      "https://lowendtalk.com/discussion/180504/hetzner-traffic-use-notice-unlimited-unlimited/p1"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 19:11:11",
       "https://news.ycombinator.com/item?id=32242581"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2022-07-26, 18:23:37",
-      "https://news.ycombinator.com/item?id=32241923"
-    ],
-    [
-      "Retrofitting GDPR Compliance onto Legacy Databases [pdf]",
-      "https://vldb.org/pvldb/vol15/p958-george.pdf"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 18:16:22",
       "https://news.ycombinator.com/item?id=32241820"
     ],
@@ -57,16 +67,6 @@
     [
       "Understanding modern Linux routing (and wg-quick)",
       "https://ro-che.info/articles/2021-02-27-linux-routing"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 17:12:16",
-      "https://news.ycombinator.com/item?id=32241003"
-    ],
-    [
-      "Meta is raising the price of the Quest 2 to 400 USD",
-      "https://www.oculus.com/blog/meta-quest-2-pricing-changes/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-25, 08:42:32",
-      "https://news.ycombinator.com/item?id=32221947"
+      "2022-07-25, 09:15:26",
+      "https://news.ycombinator.com/item?id=32222161"
     ],
     [
-      "Not So Common Desktop Environment (NsCDE)",
-      "https://github.com/NsCDE/NsCDE"
+      "What's the Most Portable Way to Include Binary Blobs in an Executable?",
+      "https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html"
     ]
   ]
 ]
