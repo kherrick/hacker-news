@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-26, 00:52:33",
+      "https://news.ycombinator.com/item?id=32232974"
+    ],
+    [
+      "VRchat bans mods, embraces EAC",
+      "https://hello.vrchat.com/blog/vrchat-security-update"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 23:56:19",
+      "https://news.ycombinator.com/item?id=32232546"
+    ],
+    [
+      "Emoji Kitchen",
+      "https://emoji.supply/kitchen/"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 23:13:07",
+      "https://news.ycombinator.com/item?id=32232180"
+    ],
+    [
+      "How to Hire Good Engineers",
+      "https://siliconvict.com/articles/6-how-to-hire-actually-good-engineers"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 22:48:32",
       "https://news.ycombinator.com/item?id=32231983"
     ],
@@ -21,11 +51,21 @@
   ],
   [
     [
+      "2022-07-25, 21:52:27",
+      "https://news.ycombinator.com/item?id=32231417"
+    ],
+    [
+      "New embedded programming language with C as a host language",
+      "https://vely.dev/"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 21:46:44",
       "https://news.ycombinator.com/item?id=32231353"
     ],
     [
-      "‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight",
+      "‘Solar tower’ system produces jet fuel from CO2, water, and sunlight",
       "https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/"
     ]
   ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32231209"
     ],
     [
-      "I bought a cheap electric pickup truck from Alibaba. Here’s what showed up",
+      "I bought a cheap electric pickup truck from Alibaba (2021)",
       "https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32230842"
     ],
     [
-      "Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote",
+      "Clerky (YC S11) is hiring senior software engineers (Rails, remote)",
       "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64"
     ]
   ],
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2022-07-25, 16:42:54",
-      "https://news.ycombinator.com/item?id=32226959"
-    ],
-    [
-      "[Fedora-legal-list] Change in classification of CC0",
-      "https://lwn.net/ml/fedora-legal/CAC1cPGw1xScGAXo-0NRs92zFB7ptRxTt=oCYi0BxfZDfAgUtYQ@mail.gmail.com/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 16:08:55",
       "https://news.ycombinator.com/item?id=32226414"
     ],
     [
       "It’s time to leave the leap second in the past",
       "https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 15:58:57",
-      "https://news.ycombinator.com/item?id=32226268"
-    ],
-    [
-      "Lessons from a Startup Pivot",
-      "https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "I remember feeling derisive about marketing as a young techie",
       "https://twitter.com/id_aa_carmack/status/1551587190395789312"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 14:31:37",
-      "https://news.ycombinator.com/item?id=32224823"
-    ],
-    [
-      "Faked Beta-Amyloid Data. What Does It Mean?",
-      "https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-07-25, 12:13:20",
-      "https://news.ycombinator.com/item?id=32223271"
-    ],
-    [
-      "Google Kubernetes clusters config checker tool",
-      "https://github.com/google/gke-policy-automation"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 11:02:14",
       "https://news.ycombinator.com/item?id=32222831"
     ],
@@ -241,12 +241,32 @@
   ],
   [
     [
+      "2022-07-25, 08:56:38",
+      "https://news.ycombinator.com/item?id=32222036"
+    ],
+    [
+      "Information that won’t fit inside your head: Journals with and without bullets",
+      "https://howaboutthis.substack.com/p/the-information-that-wont-fit-inside"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 03:27:09",
       "https://news.ycombinator.com/item?id=32220220"
     ],
     [
       "Marilyn the Poet",
       "https://www.theparisreview.org/blog/2022/06/28/marilyn-monroes-poetry/"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 21:13:30",
+      "https://news.ycombinator.com/item?id=32217795"
+    ],
+    [
+      "ACME Laboratories",
+      "https://acme.com/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "The 15-minute city (2020)",
       "https://www.bloomberg.com/news/features/2020-11-12/paris-s-15-minute-city-could-be-coming-to-an-urban-area-near-you"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 11:02:26",
-      "https://news.ycombinator.com/item?id=32212214"
-    ],
-    [
-      "The First Car Ad Shows What Changed, What Hasn’t",
-      "https://www.thedrive.com/news/the-first-car-ad-shows-what-changed-what-hasnt"
-    ]
-  ],
-  [
-    [
-      "2022-07-24, 09:11:54",
-      "https://news.ycombinator.com/item?id=32211688"
-    ],
-    [
-      "Puzzle of prized white truffle finally yields to science",
-      "https://www.theguardian.com/food/2022/jul/24/puzzle-of-prized-white-truffles-finally-yields-science-fungi"
     ]
   ],
   [
