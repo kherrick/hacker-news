@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2022-07-25, 21:00:01",
+      "https://news.ycombinator.com/item?id=32230842"
+    ],
+    [
+      "Clerky (YC S11) is hiring senior software engineers (Rails, remote)",
+      "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64"
+    ]
+  ],
+  [
+    [
       "2022-07-25, 20:16:02",
       "https://news.ycombinator.com/item?id=32230329"
     ],
@@ -177,16 +187,6 @@
     [
       "Yes, the 8086 wanted to be mechanically translatable from the 8080, but",
       "https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 18:14:08",
-      "https://news.ycombinator.com/item?id=32228569"
-    ],
-    [
-      "Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems",
-      "https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html"
     ]
   ],
   [
