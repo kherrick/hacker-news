@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-07-25, 21:00:01",
-      "https://news.ycombinator.com/item?id=32230842"
-    ],
-    [
-      "Clerky (YC S11) is hiring senior software engineers (Rails, remote)",
-      "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 20:16:02",
       "https://news.ycombinator.com/item?id=32230329"
     ],
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2022-07-25, 17:02:51",
-      "https://news.ycombinator.com/item?id=32227351"
+      "2022-07-25, 18:14:08",
+      "https://news.ycombinator.com/item?id=32228569"
     ],
     [
-      "FCC fines Charter, LTD Broadband more than $3M for RDOF defaults",
-      "https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults"
+      "Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems",
+      "https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Getting Started with Ephemeral Containers",
       "https://metalbear.co/blog/getting-started-with-ephemeral-containers/"
+    ]
+  ],
+  [
+    [
+      "2022-07-24, 21:13:30",
+      "https://news.ycombinator.com/item?id=32217795"
+    ],
+    [
+      "ACME Laboratories",
+      "https://acme.com/"
     ]
   ],
   [
