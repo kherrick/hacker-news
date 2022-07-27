@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-27, 02:24:43",
+      "https://news.ycombinator.com/item?id=32246284"
+    ],
+    [
+      "A Tale of Two Mice: Sustainable Electronics Design and Prototyping [pdf]",
+      "https://homes.cs.washington.edu/~vsiyer/Papers/biomouse-chi22.pdf"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 00:03:04",
       "https://news.ycombinator.com/item?id=32245545"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32245430"
     ],
     [
-      "Python Is Portable",
+      "Python is Actually Portable",
       "https://ahgamut.github.io/2021/07/13/ape-python/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32245136"
     ],
     [
-      "Twenty Years of Valgrind",
+      "Twenty years of Valgrind",
       "https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32245086"
     ],
     [
-      "Please Save Hacker Lab",
+      "Please save Hacker Lab",
       "https://tombetthauser.github.io/save-hackerlab/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32244352"
     ],
     [
-      "For Centuries, English Bakers’ Biggest Customers Were Horses",
+      "For centuries, English bakers’ biggest customers were horses",
       "https://www.atlasobscura.com/articles/what-is-horse-bread"
     ]
   ],
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2022-07-26, 19:35:27",
-      "https://news.ycombinator.com/item?id=32242879"
-    ],
-    [
-      "Google's Switch to Android Is on the App Store",
-      "https://apps.apple.com/us/app/switch-to-android/id1581816143"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 19:11:11",
       "https://news.ycombinator.com/item?id=32242581"
     ],
     [
-      "A little trick to spam the spammers",
+      "A little trick to spam the spammers (2021)",
       "https://misc.l3m.in/txt/spam.txt"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-07-26, 13:44:28",
+      "https://news.ycombinator.com/item?id=32238167"
+    ],
+    [
+      "Mullvad is now available on Amazon",
+      "https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 13:11:24",
       "https://news.ycombinator.com/item?id=32237780"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2022-07-26, 10:53:08",
-      "https://news.ycombinator.com/item?id=32236608"
+      "2022-07-26, 12:26:56",
+      "https://news.ycombinator.com/item?id=32237356"
     ],
     [
-      "Language Tool – Open-source Grammarly alternative",
-      "https://languagetool.org/dev"
+      "Hacking Perl in Nightclubs (2004)",
+      "https://www.perl.com/pub/2004/08/31/livecode.html/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2022-07-26, 04:51:06",
-      "https://news.ycombinator.com/item?id=32234366"
+      "2022-07-26, 06:35:03",
+      "https://news.ycombinator.com/item?id=32235093"
     ],
     [
-      "Recording of the week: What does the UK sound like?",
-      "https://blogs.bl.uk/sound-and-vision/2022/07/recording-of-the-week-what-does-the-uk-sound-like.html"
+      "The Elements of Style: Unix as Literature (1998)",
+      "http://theody.net/elements.html"
     ]
   ],
   [
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2022-07-25, 09:23:38",
-      "https://news.ycombinator.com/item?id=32222201"
-    ],
-    [
-      "Duct Tape Book Binding – Cheepo Delux",
-      "https://www.instructables.com/Duck-Tape-Book-Binding-Cheepo-Delux/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 09:15:26",
       "https://news.ycombinator.com/item?id=32222161"
     ],
     [
-      "What's the Most Portable Way to Include Binary Blobs in an Executable?",
+      "What's the most portable way to include binary blobs in an executable?",
       "https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html"
     ]
   ]
