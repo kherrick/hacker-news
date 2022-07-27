@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-27, 02:36:45",
-      "https://news.ycombinator.com/item?id=32246340"
+      "2022-07-27, 02:41:44",
+      "https://news.ycombinator.com/item?id=32246361"
     ],
     [
-      "New York City Is a Lot Safer Than Small-Town America",
-      "https://www.bloomberg.com/opinion/articles/2022-06-07/is-new-york-city-more-dangerous-than-rural-america"
+      "Translating a Visual Lego Manual to a Machine-Executable Plan",
+      "https://cs.stanford.edu/~rcwang/projects/lego_manual/"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-07-26, 23:28:38",
+      "https://news.ycombinator.com/item?id=32245346"
+    ],
+    [
+      "GPSJam: Daily Maps of GPS Interference",
+      "https://gpsjam.org"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 23:00:03",
       "https://news.ycombinator.com/item?id=32245146"
     ],
@@ -77,6 +87,16 @@
     [
       "Please save Hacker Lab",
       "https://tombetthauser.github.io/save-hackerlab/"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 22:16:55",
+      "https://news.ycombinator.com/item?id=32244795"
+    ],
+    [
+      "Signal: You Were the Chosen One",
+      "https://media.ccc.de/v/mch2022-196-signal-you-were-the-chosen-one-"
     ]
   ],
   [
@@ -127,6 +147,16 @@
     [
       "A little trick to spam the spammers (2021)",
       "https://misc.l3m.in/txt/spam.txt"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 19:02:30",
+      "https://news.ycombinator.com/item?id=32242473"
+    ],
+    [
+      "Security policy audits: Why and How",
+      "https://arxiv.org/abs/2207.11306"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2022-07-26, 14:03:57",
-      "https://news.ycombinator.com/item?id=32238408"
-    ],
-    [
-      "Build Pong in Your Terminal with Go for Some Reason",
-      "https://earthly.dev/blog/pongo/"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 12:26:56",
       "https://news.ycombinator.com/item?id=32237356"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-07-26, 04:39:43",
-      "https://news.ycombinator.com/item?id=32234302"
-    ],
-    [
-      "Why Archaeologists Think They’ve Found the Lost City of Natounia",
-      "https://www.smithsonianmag.com/smart-news/why-archaeologists-think-theyve-found-the-lost-city-of-natounia-180980453/"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 04:18:57",
       "https://news.ycombinator.com/item?id=32234196"
     ],
     [
       "Jumbo’s Ghost: Elephants and Machines in Motion",
       "https://publicdomainreview.org/essay/jumbos-ghost/"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 02:03:17",
-      "https://news.ycombinator.com/item?id=32233412"
-    ],
-    [
-      "Specifying Spring '83",
-      "https://www.robinsloan.com/lab/specifying-spring-83/"
     ]
   ],
   [
