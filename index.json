@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-27, 12:14:17",
-      "https://news.ycombinator.com/item?id=32249520"
+      "2022-07-27, 13:41:01",
+      "https://news.ycombinator.com/item?id=32250276"
     ],
     [
-      "‘Zoe’ becomes the world’s first named heat wave",
-      "https://subscriber.politicopro.com/article/eenews/2022/07/26/zoe-becomes-the-worlds-first-named-heat-wave-00047792"
+      "Want to Start Hacking?",
+      "https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 13:35:11",
+      "https://news.ycombinator.com/item?id=32250203"
+    ],
+    [
+      "No Soap, Radio",
+      "https://en.wikipedia.org/wiki/No_soap_radio"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32249465"
     ],
     [
-      "How the '&' got its name",
+      "The History of ‘Ampersand’",
       "https://www.merriam-webster.com/words-at-play/the-history-of-ampersand"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32248732"
     ],
     [
-      "Nikon Releases Bug Fix Firmware Update for the 10 Years Old D7100 DSLR Camera",
+      "Nikon releases bug fix firmware update for the 10 years old D7100 DSLR camera",
       "https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/"
     ]
   ],
@@ -81,12 +91,32 @@
   ],
   [
     [
+      "2022-07-27, 08:07:04",
+      "https://news.ycombinator.com/item?id=32248016"
+    ],
+    [
+      "Ask HN: Have you ever had a changed-your-life moment?",
+      "https://news.ycombinator.com/item?id=32248016"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 06:17:03",
       "https://news.ycombinator.com/item?id=32247399"
     ],
     [
-      "An Architecture for Mostly Functional Languages (1986) [pdf]",
+      "An architecture for mostly functional languages (1986) [pdf]",
       "https://web.archive.org/web/20131101085557/http://web.mit.edu/mmt/Public/Knight86.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 04:57:15",
+      "https://news.ycombinator.com/item?id=32246987"
+    ],
+    [
+      "Under Anesthesia, Where Do Our Minds Go?",
+      "https://nautil.us/under-anesthesia-where-do-our-minds-go-20845/"
     ]
   ],
   [
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=32244795"
     ],
     [
-      "Signal: You Were the Chosen One",
+      "Signal: You were the chosen one [video]",
       "https://media.ccc.de/v/mch2022-196-signal-you-were-the-chosen-one-"
     ]
   ],
@@ -177,16 +207,6 @@
     [
       "For centuries, English bakers’ biggest customers were horses",
       "https://www.atlasobscura.com/articles/what-is-horse-bread"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 21:23:55",
-      "https://news.ycombinator.com/item?id=32244244"
-    ],
-    [
-      "We don't know how to fix science (2021)",
-      "https://www.worksinprogress.co/issue/we-dont-know-how-to-fix-science/"
     ]
   ],
   [
@@ -211,36 +231,6 @@
   ],
   [
     [
-      "2022-07-26, 17:33:02",
-      "https://news.ycombinator.com/item?id=32241242"
-    ],
-    [
-      "Visualising Bubbles (1500–1906)",
-      "https://publicdomainreview.org/collection/visualising-bubbles/"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 15:56:35",
-      "https://news.ycombinator.com/item?id=32240000"
-    ],
-    [
-      "Matt King: Forever Our Wizard",
-      "https://meowwolf.com/articles/remembering-matt-king-co-founder-meow-wolf"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 13:05:33",
-      "https://news.ycombinator.com/item?id=32237710"
-    ],
-    [
-      "How to Make Fossils Productive Again (2016)",
-      "http://www.bailis.org/blog/how-to-make-fossils-productive-again/"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 12:14:02",
       "https://news.ycombinator.com/item?id=32237226"
     ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=32236953"
     ],
     [
-      "The Mattel Spinwelder Was the Coolest Christmas Gift of the 1970s",
+      "The Mattel Spinwelder was the coolest Christmas gift of the 1970s",
       "https://bestride.com/news/video-the-mattel-spinwelder-was-the-coolest-christmas-gift-of-the-1970s"
     ]
   ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2022-07-24, 12:39:26",
+      "https://news.ycombinator.com/item?id=32212862"
+    ],
+    [
+      "Squashfs binary format",
+      "https://dr-emann.github.io/squashfs/squashfs.html"
+    ]
+  ],
+  [
+    [
       "2022-07-24, 12:31:10",
       "https://news.ycombinator.com/item?id=32212810"
     ],
     [
-      "Making podcasts from Project Gutenberg e-books",
+      "Making podcasts from Project Gutenberg e-books (2021)",
       "https://www.charlieharrington.com/flow-and-creative-computing/"
     ]
   ]
