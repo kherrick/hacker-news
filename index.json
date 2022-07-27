@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-27, 02:36:45",
+      "https://news.ycombinator.com/item?id=32246340"
+    ],
+    [
+      "New York City Is a Lot Safer Than Small-Town America",
+      "https://www.bloomberg.com/opinion/articles/2022-06-07/is-new-york-city-more-dangerous-than-rural-america"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 02:24:43",
       "https://news.ycombinator.com/item?id=32246284"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32244244"
     ],
     [
-      "We don't know how to fix science",
+      "We don't know how to fix science (2021)",
       "https://www.worksinprogress.co/issue/we-dont-know-how-to-fix-science/"
     ]
   ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2022-07-26, 13:11:24",
-      "https://news.ycombinator.com/item?id=32237780"
-    ],
-    [
-      "Ferrocene: Rust toolchain to safety-critical environments",
-      "https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 12:37:08",
-      "https://news.ycombinator.com/item?id=32237445"
-    ],
-    [
-      "Why is it so hard to give Google money?",
-      "https://paulbutler.org/2022/why-is-it-so-hard-to-give-google-money/"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 12:26:56",
       "https://news.ycombinator.com/item?id=32237356"
     ],
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2022-07-26, 04:39:43",
+      "https://news.ycombinator.com/item?id=32234302"
+    ],
+    [
+      "Why Archaeologists Think They’ve Found the Lost City of Natounia",
+      "https://www.smithsonianmag.com/smart-news/why-archaeologists-think-theyve-found-the-lost-city-of-natounia-180980453/"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 04:18:57",
+      "https://news.ycombinator.com/item?id=32234196"
+    ],
+    [
+      "Jumbo’s Ghost: Elephants and Machines in Motion",
+      "https://publicdomainreview.org/essay/jumbos-ghost/"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 02:03:17",
       "https://news.ycombinator.com/item?id=32233412"
     ],
@@ -287,16 +297,6 @@
     [
       "What they don't teach you about sockets",
       "https://macoy.me/blog/programming/Sockets"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 09:15:26",
-      "https://news.ycombinator.com/item?id=32222161"
-    ],
-    [
-      "What's the most portable way to include binary blobs in an executable?",
-      "https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html"
     ]
   ]
 ]
