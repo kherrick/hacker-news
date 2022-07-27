@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-07-27, 06:17:03",
+      "https://news.ycombinator.com/item?id=32247399"
+    ],
+    [
+      "An Architecture for Mostly Functional Languages (1986) [pdf]",
+      "https://web.archive.org/web/20131101085557/http://web.mit.edu/mmt/Public/Knight86.pdf"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 04:57:15",
       "https://news.ycombinator.com/item?id=32246987"
     ],
     [
       "Under Anesthesia, Where Do Our Minds Go?",
       "https://nautil.us/under-anesthesia-where-do-our-minds-go-20845/"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 04:21:51",
-      "https://news.ycombinator.com/item?id=32246817"
-    ],
-    [
-      "Shopify cuts 10% of workforce as tech industry layoffs continue",
-      "https://www.smartcompany.com.au/people-human-resources/shopify-layoffs-cuts-workforce-tech-industry/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "A Retrospective on the 2015 Ashley Madison Breach",
       "https://krebsonsecurity.com/2022/07/a-retrospective-on-the-2015-ashley-madison-breach/"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 00:03:04",
+      "https://news.ycombinator.com/item?id=32245545"
+    ],
+    [
+      "How to Stop Procrastinating on Your Goals by Using the “Seinfeld Strategy”",
+      "https://jamesclear.com/stop-procrastinating-seinfeld-strategy"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2022-07-26, 10:24:43",
+      "https://news.ycombinator.com/item?id=32236447"
+    ],
+    [
+      "Show HN: The Ultimate C++14 (and later) Enum Library",
+      "https://github.com/mehrdadn/libvital/blob/master/doc/cpp/vital/core/enum.md"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 08:58:24",
       "https://news.ycombinator.com/item?id=32235908"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-07-26, 04:18:57",
-      "https://news.ycombinator.com/item?id=32234196"
-    ],
-    [
-      "Jumbo’s Ghost: Elephants and Machines in Motion",
-      "https://publicdomainreview.org/essay/jumbos-ghost/"
-    ]
-  ],
-  [
-    [
       "2022-07-25, 20:40:37",
       "https://news.ycombinator.com/item?id=32230612"
     ],
     [
       "Having no experience can be better than having the wrong experience",
       "https://twitter.com/danluu/status/1551662427606986752"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 15:15:29",
-      "https://news.ycombinator.com/item?id=32225532"
-    ],
-    [
-      "What they don't teach you about sockets",
-      "https://macoy.me/blog/programming/Sockets"
     ]
   ]
 ]
