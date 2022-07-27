@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-07-27, 18:28:10",
+      "https://news.ycombinator.com/item?id=32254485"
+    ],
+    [
+      "Dreamhost Shared Hosting Has Been Down for 3 Days",
+      "https://www.dreamhoststatus.com"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 18:24:12",
+      "https://news.ycombinator.com/item?id=32254434"
+    ],
+    [
+      "What’s the maximum size of a DNS response?",
+      "https://www.netmeister.org/blog/dns-size.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 18:09:32",
+      "https://news.ycombinator.com/item?id=32254186"
+    ],
+    [
+      "Unique Name Generator",
+      "https://unique-name-generator.web.app/"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 18:00:48",
       "https://news.ycombinator.com/item?id=32254046"
     ],
     [
-      "Federal Reserve to increase interest rates by 75 basis points (0.75%)",
+      "Federal Reserve to increase interest rates by 75 basis points",
       "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm"
     ]
   ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32253729"
     ],
     [
-      "Netflix retroactively editing Stranger Things starts a dangerous trend",
+      "Stranger Things is being edited retroactively by Netflix?",
       "https://www.gq-magazine.co.uk/culture/article/stranger-things-netflix-retroactively-editing"
     ]
   ],
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2022-07-27, 16:55:25",
-      "https://news.ycombinator.com/item?id=32252957"
+      "2022-07-27, 16:58:13",
+      "https://news.ycombinator.com/item?id=32252998"
     ],
     [
-      "Ask HN: What's your note-taking methodology?",
-      "https://news.ycombinator.com/item?id=32252957"
+      "A prominent composer lost his Wikipedia page",
+      "https://tedgioia.substack.com/p/how-a-prominent-composer-lost-his"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-07-27, 15:31:25",
-      "https://news.ycombinator.com/item?id=32251686"
-    ],
-    [
-      "Fourth patient seemingly cured of HIV",
-      "https://www.bbc.co.uk/news/health-62312249"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 15:02:17",
       "https://news.ycombinator.com/item?id=32251305"
     ],
@@ -135,8 +155,18 @@
       "https://news.ycombinator.com/item?id=32251187"
     ],
     [
-      "Accident Tolerant Fuels Could Boost the Performance of Today’s Reactors",
+      "Accident-tolerant fuels could boost the performance of today’s reactors",
       "https://www.energy.gov/ne/articles/these-accident-tolerant-fuels-could-boost-performance-todays-reactors"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 14:30:09",
+      "https://news.ycombinator.com/item?id=32250813"
+    ],
+    [
+      "Starlink's current problem is capacity",
+      "https://www.jeffgeerling.com/blog/2022/starlinks-current-problem-capacity"
     ]
   ],
   [
@@ -185,18 +215,18 @@
       "https://news.ycombinator.com/item?id=32250276"
     ],
     [
-      "Want to Start Hacking?",
+      "Want to start hacking?",
       "https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/"
     ]
   ],
   [
     [
-      "2022-07-27, 13:35:42",
-      "https://news.ycombinator.com/item?id=32250207"
+      "2022-07-27, 12:22:43",
+      "https://news.ycombinator.com/item?id=32249586"
     ],
     [
-      "H. R. 4346: The CHIPS and Science Act of 2022",
-      "https://www.commerce.senate.gov/2022/7/view-the-chips-legislation"
+      "Show HN: Peerdiem — Discover and discuss one painting a day",
+      "https://peerdiem.com/"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2022-07-27, 11:38:45",
-      "https://news.ycombinator.com/item?id=32249264"
-    ],
-    [
-      "Recycle CDs into Bluetooth flexible biosensors in 20-30 mins at $1.50/device",
-      "https://www.binghamton.edu/news/story/3755/cds-to-flexible-biosensors-researchers-discover-easy-inexpensive-recycling-method"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 10:22:18",
       "https://news.ycombinator.com/item?id=32248732"
     ],
     [
-      "Nikon releases bug fix firmware update for the 10 years old D7100 DSLR camera",
+      "Nikon releases bug fix firmware update for the 10 year-old D7100 DSLR camera",
       "https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 09:47:11",
-      "https://news.ycombinator.com/item?id=32248543"
-    ],
-    [
-      "After Obsidian and Logseq, I give Dendron a try",
-      "https://nsirap.com/posts/067-after-obsidian-and-logseq-i-try-dendron/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Electronic Music: Allen Strange's Classic Book Reissued",
       "https://www.perfectcircuit.com/signal/allen-strange-electronic-music-kickstarter"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 08:50:36",
-      "https://news.ycombinator.com/item?id=32235863"
-    ],
-    [
-      "Interview with David Zilber",
-      "https://www.mothertonguetv.com/interviews/david-zilber"
     ]
   ],
   [
