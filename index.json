@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-07-28, 18:36:19",
-      "https://news.ycombinator.com/item?id=32268456"
+      "2022-07-28, 19:17:24",
+      "https://news.ycombinator.com/item?id=32268941"
     ],
     [
-      "The British Library Has a Vulgar Dictionary – You Can Learn a Lot from Slang",
-      "https://www.atlasobscura.com/articles/grose-dicitionary-vulgar-tongue-british-library"
+      "FOMO Is Disastrous for Company Strategies",
+      "https://rubenugarte.com/fomo-is-disastrous-for-company-strategies/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 19:16:41",
+      "https://news.ycombinator.com/item?id=32268934"
+    ],
+    [
+      "WebContainers are now supported in Firefox on desktop and Android",
+      "https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-07-28, 14:42:59",
-      "https://news.ycombinator.com/item?id=32265000"
-    ],
-    [
-      "Yes, social media is undermining democracy",
-      "https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 14:39:16",
       "https://news.ycombinator.com/item?id=32264942"
     ],
@@ -227,16 +227,6 @@
     [
       "That time when I accidentally social engineered myself to a film set",
       "https://nibblestew.blogspot.com/2022/07/that-time-when-i-accidentally-social.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 12:54:15",
-      "https://news.ycombinator.com/item?id=32263630"
-    ],
-    [
-      "Swift Proposal: Move Function",
-      "https://github.com/apple/swift-evolution/blob/main/proposals/0366-move-function.md"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Aztec Diamond",
       "https://en.wikipedia.org/wiki/Aztec_diamond"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 12:55:51",
+      "https://news.ycombinator.com/item?id=32249845"
+    ],
+    [
+      "Embedding an EXE inside a .REG file with automatic execution",
+      "https://www.x86matthew.com/view_post?id=embed_exe_reg"
     ]
   ]
 ]
