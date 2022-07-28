@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-28, 02:42:33",
+      "https://news.ycombinator.com/item?id=32259934"
+    ],
+    [
+      "HypeScript: Simplified TypeScript's type system in TypeScript's own type system",
+      "https://github.com/ronami/HypeScript"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 01:57:58",
+      "https://news.ycombinator.com/item?id=32259587"
+    ],
+    [
+      "Druid: A Real-Time Analytical Data Store",
+      "https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 00:14:56",
       "https://news.ycombinator.com/item?id=32258854"
     ],
@@ -17,26 +37,6 @@
     [
       "Flipping until you are lost",
       "https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 23:26:32",
-      "https://news.ycombinator.com/item?id=32258418"
-    ],
-    [
-      "How I write React after 8 years",
-      "https://nesbtesh.medium.com/how-i-write-react-after-8-years-12cbf82c351"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 23:11:46",
-      "https://news.ycombinator.com/item?id=32258297"
-    ],
-    [
-      "Inferior Is Better",
-      "https://parentheticallyspeaking.org/articles/inferior-is-better/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2022-07-27, 17:10:21",
+      "https://news.ycombinator.com/item?id=32253185"
+    ],
+    [
+      "Listerine Royalties",
+      "https://invariant.substack.com/p/listerine-royalties-the-origin-story"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 17:01:52",
       "https://news.ycombinator.com/item?id=32253053"
     ],
@@ -167,6 +177,16 @@
     [
       "Nimble (YC S17) is hiring a part-time React/Django SWE (AI to recruit teachers)",
       "https://news.ycombinator.com/item?id=32253034"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 16:39:34",
+      "https://news.ycombinator.com/item?id=32252732"
+    ],
+    [
+      "For blind internet users, the fix can be worse than the flaws",
+      "https://www.nytimes.com/2022/07/13/technology/ai-web-accessibility.html"
     ]
   ],
   [
@@ -221,6 +241,16 @@
   ],
   [
     [
+      "2022-07-27, 14:41:15",
+      "https://news.ycombinator.com/item?id=32250958"
+    ],
+    [
+      "Blind-writes and an LSM",
+      "http://smalldatum.blogspot.com/2020/11/blind-writes-and-lsm.html"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 14:19:15",
       "https://news.ycombinator.com/item?id=32250694"
     ],
@@ -257,36 +287,6 @@
     [
       "The History of ‘Ampersand’ (2020)",
       "https://www.merriam-webster.com/words-at-play/the-history-of-ampersand"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 10:22:18",
-      "https://news.ycombinator.com/item?id=32248732"
-    ],
-    [
-      "Nikon releases bug fix firmware update for the 10 year-old D7100 DSLR camera",
-      "https://nikonrumors.com/2022/07/26/nikon-released-new-firmware-update-for-the-almost-10-years-old-d7100-dslr-camera.aspx/"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 11:49:49",
-      "https://news.ycombinator.com/item?id=32237012"
-    ],
-    [
-      "Grace's Guide to British Industrial History",
-      "https://gracesguide.co.uk/Main_Page"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 06:46:30",
-      "https://news.ycombinator.com/item?id=32235158"
-    ],
-    [
-      "Building a fast all-SSD NAS on a budget",
-      "https://www.jeffgeerling.com/blog/2022/building-fast-all-ssd-nas-on-budget"
     ]
   ],
   [
