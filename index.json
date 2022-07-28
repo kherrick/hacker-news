@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-28, 18:36:19",
+      "https://news.ycombinator.com/item?id=32268456"
+    ],
+    [
+      "The British Library Has a Vulgar Dictionary – You Can Learn a Lot from Slang",
+      "https://www.atlasobscura.com/articles/grose-dicitionary-vulgar-tongue-british-library"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 17:54:41",
       "https://news.ycombinator.com/item?id=32267914"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2022-07-28, 16:56:50",
+      "https://news.ycombinator.com/item?id=32267008"
+    ],
+    [
+      "Struct Endianness in Python",
+      "https://til.simonwillison.net/python/struct-endianness"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 16:51:28",
       "https://news.ycombinator.com/item?id=32266926"
     ],
@@ -117,16 +137,6 @@
     [
       "Visualization of Amazon, Apple, Alphabet, and Microsoft’s Consumer Product Lines",
       "https://www.papercutslibrary.com/process-notes/a-non-exhaustive-yet-fairly-thorough-view-of-big-tech-via-amazon-apple-alphabet-and-microsofts-consumer-product-lines/"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 16:02:08",
-      "https://news.ycombinator.com/item?id=32266177"
-    ],
-    [
-      "Open-source API to generate PDF invoices",
-      "https://www.getlago.com/blog/generating-pdf-invoices-using-lago"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Mission to reach and operate at the focal region of the solar gravitational lens",
       "https://arxiv.org/abs/2207.03005"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 08:50:39",
-      "https://news.ycombinator.com/item?id=32261868"
-    ],
-    [
-      "TIFU by using Stripe as a payment processor for my small business",
-      "https://old.reddit.com/r/tifu/comments/wa230m/tifu_by_using_stripe_as_a_payment_processor_for/"
     ]
   ],
   [
