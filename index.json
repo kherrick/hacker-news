@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-07-28, 17:12:36",
+      "https://news.ycombinator.com/item?id=32267287"
+    ],
+    [
+      "EdgeDB 2.0",
+      "https://www.edgedb.com/blog/edgedb-2-0"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 17:11:23",
+      "https://news.ycombinator.com/item?id=32267266"
+    ],
+    [
+      "FBI is hiding details about a raid on Americans’ safe deposit boxes",
+      "https://reason.com/2022/07/26/what-is-the-fbi-hiding-about-its-raid-on-innocent-americans-safe-deposit-boxes/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 17:09:05",
+      "https://news.ycombinator.com/item?id=32267222"
+    ],
+    [
+      "AWS us-east-2 outage",
+      "https://news.ycombinator.com/item?id=32267222"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 17:05:05",
+      "https://news.ycombinator.com/item?id=32267154"
+    ],
+    [
+      "AWS us-east-2 outage",
+      "https://status.zoom.us"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 17:00:40",
       "https://news.ycombinator.com/item?id=32267068"
     ],
     [
       "UPchieve (EdTech Nonprofit, YC W21) is hiring senior engineers",
       "https://upchieve.welcomekit.co/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 16:57:40",
+      "https://news.ycombinator.com/item?id=32267024"
+    ],
+    [
+      "AI Coding with CodeRL: Toward Mastering Program Synthesis with Deep RL",
+      "https://blog.salesforceairesearch.com/coderl/"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "Show HN: Parsnip – “Duolingo for Cooking”",
       "https://www.parsnip.ai/"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 15:56:40",
-      "https://news.ycombinator.com/item?id=32266075"
-    ],
-    [
-      "Developers are burned out, quitting jobs and creating a crisis for recruiters",
-      "https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/"
     ]
   ],
   [
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2022-07-28, 09:26:12",
-      "https://news.ycombinator.com/item?id=32262153"
-    ],
-    [
-      "I've been targeted with a vicious corporate counterattack (2021)",
-      "https://www.esquire.com/news-politics/a35812573/steven-donziger-chevron-house-arrest/"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 08:50:39",
       "https://news.ycombinator.com/item?id=32261868"
     ],
@@ -267,36 +297,6 @@
     [
       "A Framework for Engineering Managers",
       "https://github.com/jorgef/engineeringladders"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 04:02:45",
-      "https://news.ycombinator.com/item?id=32260354"
-    ],
-    [
-      "The Harry Potter fallacy",
-      "https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 02:42:33",
-      "https://news.ycombinator.com/item?id=32259934"
-    ],
-    [
-      "HypeScript: Simplified TypeScript type system in TypeScript's own type system",
-      "https://github.com/ronami/HypeScript"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 04:49:16",
-      "https://news.ycombinator.com/item?id=32246946"
-    ],
-    [
-      "The Poor ROI of Autonomy (2020)",
-      "https://medium.com/starsky-robotics-blog/the-poor-roi-of-autonomy-f5d6f4f2dd14"
     ]
   ]
 ]
