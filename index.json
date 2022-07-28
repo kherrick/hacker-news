@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-28, 05:12:45",
+      "https://news.ycombinator.com/item?id=32260705"
+    ],
+    [
+      "Ultra-minimal JSON schemas with TypeScript inference",
+      "https://github.com/ar-nelson/spartan-schema"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 04:54:32",
       "https://news.ycombinator.com/item?id=32260619"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2022-07-27, 22:28:29",
+      "https://news.ycombinator.com/item?id=32257852"
+    ],
+    [
+      "ICMP, Ping, and Traceroute – What I wish I was taught (2020)",
+      "https://xkln.net/blog/icmp-ping-and-traceroute--what-i-wish-i-was-taught/"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 22:17:25",
       "https://news.ycombinator.com/item?id=32257742"
     ],
@@ -127,16 +147,6 @@
     [
       "Upgrading from Debian Jessie to Bullseye after nearly 30 years",
       "https://diziet.dreamwidth.org/11840.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 18:24:12",
-      "https://news.ycombinator.com/item?id=32254434"
-    ],
-    [
-      "What’s the maximum size of a DNS response?",
-      "https://www.netmeister.org/blog/dns-size.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Upgrading what might be the oldest running Linux install",
       "https://www.theregister.com/2022/07/25/upgrading_probably_the_worlds_oldest/"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 12:13:28",
-      "https://news.ycombinator.com/item?id=32237222"
-    ],
-    [
-      "Fleur – A bloom filter implementation in C",
-      "https://github.com/hashlookup/fleur"
     ]
   ],
   [
