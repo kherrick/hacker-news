@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-07-28, 16:15:38",
+      "https://news.ycombinator.com/item?id=32266384"
+    ],
+    [
+      "The molecular epidemiology of multiple zoonotic origins of SARS-CoV-2",
+      "https://www.science.org/doi/10.1126/science.abp8337"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 16:13:10",
+      "https://news.ycombinator.com/item?id=32266351"
+    ],
+    [
+      "Visualization of Amazon, Apple, Alphabet, and Microsoft’s Consumer Product Lines",
+      "https://www.papercutslibrary.com/process-notes/a-non-exhaustive-yet-fairly-thorough-view-of-big-tech-via-amazon-apple-alphabet-and-microsofts-consumer-product-lines/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 16:02:08",
+      "https://news.ycombinator.com/item?id=32266177"
+    ],
+    [
+      "Open-source API to generate PDF invoices",
+      "https://www.getlago.com/blog/generating-pdf-invoices-using-lago"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 15:57:12",
+      "https://news.ycombinator.com/item?id=32266086"
+    ],
+    [
+      "Show HN: Parsnip – “Duolingo for Cooking”",
+      "https://www.parsnip.ai/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 15:56:40",
+      "https://news.ycombinator.com/item?id=32266075"
+    ],
+    [
+      "Developers are burned out, quitting jobs and creating a crisis for recruiters",
+      "https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 15:13:32",
       "https://news.ycombinator.com/item?id=32265429"
     ],
@@ -25,18 +75,8 @@
       "https://news.ycombinator.com/item?id=32265184"
     ],
     [
-      "House Democrats to propose in August ban on lawmaker stock trading – report",
+      "House Democrats to propose ban on lawmaker stock trading – report",
       "https://seekingalpha.com/news/3862127-house-democrats-to-propose-stock-trading-ban-in-august-report"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 14:51:18",
-      "https://news.ycombinator.com/item?id=32265126"
-    ],
-    [
-      "Eating meat is good, says the philosopher",
-      "https://erikhoel.substack.com/p/eating-meat-is-good-says-the-philosopher"
     ]
   ],
   [
@@ -47,6 +87,16 @@
     [
       "Yes, social media is undermining democracy",
       "https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 14:39:16",
+      "https://news.ycombinator.com/item?id=32264942"
+    ],
+    [
+      "Five Laws of Human Stupidity",
+      "http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2022-07-28, 11:41:41",
-      "https://news.ycombinator.com/item?id=32263022"
-    ],
-    [
-      "Man wakes up after night on sleeper train to find it never left Glasgow",
-      "https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 11:18:14",
       "https://news.ycombinator.com/item?id=32262856"
     ],
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2022-07-28, 07:55:24",
-      "https://news.ycombinator.com/item?id=32261571"
-    ],
-    [
-      "Has the world become less colourful?",
-      "https://twitter.com/culturaltutor/status/1551976051860963333"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 07:15:32",
       "https://news.ycombinator.com/item?id=32261363"
     ],
@@ -231,31 +261,11 @@
   ],
   [
     [
-      "2022-07-28, 06:07:33",
-      "https://news.ycombinator.com/item?id=32260951"
-    ],
-    [
-      "Evidence for behavioural interventions looks increasingly shaky",
-      "https://www.economist.com/science-and-technology/2022/07/27/evidence-for-behavioural-interventions-looks-increasingly-shaky"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 05:12:45",
-      "https://news.ycombinator.com/item?id=32260705"
-    ],
-    [
-      "Ultra-minimal JSON schemas with TypeScript inference",
-      "https://github.com/ar-nelson/spartan-schema"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 04:54:32",
       "https://news.ycombinator.com/item?id=32260619"
     ],
     [
-      "Rust Is Actually Portable",
+      "Rust is actually portable",
       "https://ahgamut.github.io/2022/07/27/ape-rust-example/"
     ]
   ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32260354"
     ],
     [
-      "The Harry Potter Fallacy",
+      "The Harry Potter fallacy",
       "https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/"
     ]
   ],
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2022-07-27, 22:28:29",
-      "https://news.ycombinator.com/item?id=32257852"
-    ],
-    [
-      "ICMP, Ping, and Traceroute – What I wish I was taught (2020)",
-      "https://xkln.net/blog/icmp-ping-and-traceroute--what-i-wish-i-was-taught/"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 04:49:16",
       "https://news.ycombinator.com/item?id=32246946"
     ],
     [
-      "The Poor ROI of Autonomous Trucks (2020)",
+      "The Poor ROI of Autonomy (2020)",
       "https://medium.com/starsky-robotics-blog/the-poor-roi-of-autonomy-f5d6f4f2dd14"
     ]
   ]
