@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-28, 11:18:14",
+      "https://news.ycombinator.com/item?id=32262856"
+    ],
+    [
+      "AlphaFold reveals the structure of the protein universe",
+      "https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 10:22:06",
       "https://news.ycombinator.com/item?id=32262545"
     ],
@@ -257,16 +267,6 @@
     [
       "Mystery of Somerton man’s identity solved after 73 years, researchers say",
       "https://www.theguardian.com/australia-news/2022/jul/27/somerton-man-mystery-identity-solved-identified-australia"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 13:55:54",
-      "https://news.ycombinator.com/item?id=32250426"
-    ],
-    [
-      "SQLite Internals: Pages and B-trees",
-      "https://fly.io/blog/sqlite-internals-btree/"
     ]
   ],
   [
