@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-07-28, 15:13:32",
+      "https://news.ycombinator.com/item?id=32265429"
+    ],
+    [
+      "Godot 4.0 development enters feature freeze ahead of the first beta",
+      "https://godotengine.org/article/godot-4-0-development-enters-feature-freeze"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 14:57:27",
+      "https://news.ycombinator.com/item?id=32265223"
+    ],
+    [
+      "My newsletter is making $2k per month with 7k subscribers – AMA",
+      "https://news.ycombinator.com/item?id=32265223"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 14:54:29",
+      "https://news.ycombinator.com/item?id=32265184"
+    ],
+    [
+      "House Democrats to propose in August ban on lawmaker stock trading – report",
+      "https://seekingalpha.com/news/3862127-house-democrats-to-propose-stock-trading-ban-in-august-report"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 14:51:18",
+      "https://news.ycombinator.com/item?id=32265126"
+    ],
+    [
+      "Eating meat is good, says the philosopher",
+      "https://erikhoel.substack.com/p/eating-meat-is-good-says-the-philosopher"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 14:42:59",
+      "https://news.ycombinator.com/item?id=32265000"
+    ],
+    [
+      "Yes, social media is undermining democracy",
+      "https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 14:39:09",
       "https://news.ycombinator.com/item?id=32264938"
     ],
@@ -41,26 +91,6 @@
   ],
   [
     [
-      "2022-07-28, 13:41:11",
-      "https://news.ycombinator.com/item?id=32264145"
-    ],
-    [
-      "Ask HN: At which moment did you realise that you are built for computer science?",
-      "https://news.ycombinator.com/item?id=32264145"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 13:31:23",
-      "https://news.ycombinator.com/item?id=32264033"
-    ],
-    [
-      "StackOverflow Is Having Issues",
-      "https://www.stackstatus.net/"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 13:22:14",
       "https://news.ycombinator.com/item?id=32263914"
     ],
@@ -97,6 +127,16 @@
     [
       "Oldest and Fatherless: The Terrible Secret of Tom Bombadil (2011)",
       "https://km-515.livejournal.com/1042.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 12:35:37",
+      "https://news.ycombinator.com/item?id=32263444"
+    ],
+    [
+      "US Gross Domestic Product, Second Quarter 2022 (Advance Estimate)",
+      "https://www.bea.gov/news/2022/gross-domestic-product-second-quarter-2022-advance-estimate"
     ]
   ],
   [
@@ -157,6 +197,16 @@
     [
       "TIFU by using Stripe as a payment processor for my small business",
       "https://old.reddit.com/r/tifu/comments/wa230m/tifu_by_using_stripe_as_a_payment_processor_for/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 08:41:58",
+      "https://news.ycombinator.com/item?id=32261802"
+    ],
+    [
+      "About communication safety in Messages",
+      "https://support.apple.com/en-euro/HT212850"
     ]
   ],
   [
@@ -231,36 +281,6 @@
   ],
   [
     [
-      "2022-07-28, 01:57:58",
-      "https://news.ycombinator.com/item?id=32259587"
-    ],
-    [
-      "Druid: A Real-Time Analytical Data Store",
-      "https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 00:13:20",
-      "https://news.ycombinator.com/item?id=32258836"
-    ],
-    [
-      "Flipping until you are lost",
-      "https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 00:06:31",
-      "https://news.ycombinator.com/item?id=32258783"
-    ],
-    [
-      "How to create a Python package in 2022",
-      "https://mathspp.com/blog/how-to-create-a-python-package-in-2022"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 22:28:29",
       "https://news.ycombinator.com/item?id=32257852"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-07-27, 22:17:25",
-      "https://news.ycombinator.com/item?id=32257742"
-    ],
-    [
-      "Google delays phasing out ad cookies on Chrome until 2024",
-      "https://www.bloomberg.com/news/articles/2022-07-27/google-delays-phasing-out-ad-cookies-on-chrome-until-2024"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 04:49:16",
       "https://news.ycombinator.com/item?id=32246946"
     ],
     [
       "The Poor ROI of Autonomous Trucks (2020)",
       "https://medium.com/starsky-robotics-blog/the-poor-roi-of-autonomy-f5d6f4f2dd14"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 12:59:58",
-      "https://news.ycombinator.com/item?id=32237650"
-    ],
-    [
-      "Upgrading what might be the oldest running Linux install",
-      "https://www.theregister.com/2022/07/25/upgrading_probably_the_worlds_oldest/"
     ]
   ]
 ]
