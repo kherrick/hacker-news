@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-28, 04:54:32",
+      "https://news.ycombinator.com/item?id=32260619"
+    ],
+    [
+      "Rust Is Actually Portable",
+      "https://ahgamut.github.io/2022/07/27/ape-rust-example/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 04:02:45",
+      "https://news.ycombinator.com/item?id=32260354"
+    ],
+    [
+      "The Harry Potter Fallacy",
+      "https://www.the-tls.co.uk/articles/straw-man-arguments-scott-aikin-john-casey-book-review-mary-leng/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 02:42:33",
       "https://news.ycombinator.com/item?id=32259934"
     ],
@@ -17,16 +37,6 @@
     [
       "Druid: A Real-Time Analytical Data Store",
       "https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 00:14:56",
-      "https://news.ycombinator.com/item?id=32258854"
-    ],
-    [
-      "ShotSpotter requests to be held in contempt rather than disclose its methodology",
-      "https://chicagoreader.com/news-politics/shotspotter-held-in-contempt-of-court/"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "Upgrading from Debian Jessie to Bullseye after nearly 30 years",
       "https://diziet.dreamwidth.org/11840.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 18:24:12",
+      "https://news.ycombinator.com/item?id=32254434"
+    ],
+    [
+      "What’s the maximum size of a DNS response?",
+      "https://www.netmeister.org/blog/dns-size.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Blind-writes and an LSM",
       "http://smalldatum.blogspot.com/2020/11/blind-writes-and-lsm.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 14:19:15",
-      "https://news.ycombinator.com/item?id=32250694"
-    ],
-    [
-      "James Lovelock has died",
-      "https://www.nytimes.com/2022/07/27/climate/james-lovelock-dead.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 14:01:24",
-      "https://news.ycombinator.com/item?id=32250487"
-    ],
-    [
-      "Fake Dog for Home Security",
-      "https://t0.vc/7/"
     ]
   ],
   [
