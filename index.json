@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-07-28, 00:14:56",
+      "https://news.ycombinator.com/item?id=32258854"
+    ],
+    [
+      "ShotSpotter requests to be held in contempt rather than disclose its methodology",
+      "https://chicagoreader.com/news-politics/shotspotter-held-in-contempt-of-court/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 00:13:20",
+      "https://news.ycombinator.com/item?id=32258836"
+    ],
+    [
+      "Flipping until you are lost",
+      "https://11011110.github.io/blog/2022/07/21/flipping-until-lost.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 23:26:32",
+      "https://news.ycombinator.com/item?id=32258418"
+    ],
+    [
+      "How I write React after 8 years",
+      "https://nesbtesh.medium.com/how-i-write-react-after-8-years-12cbf82c351"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 23:11:46",
+      "https://news.ycombinator.com/item?id=32258297"
+    ],
+    [
+      "Inferior Is Better",
+      "https://parentheticallyspeaking.org/articles/inferior-is-better/"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 22:40:12",
       "https://news.ycombinator.com/item?id=32257975"
     ],
     [
       "Mitsuba 3 Physically Based Renderer",
       "http://www.mitsuba-renderer.org"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 22:33:34",
+      "https://news.ycombinator.com/item?id=32257901"
+    ],
+    [
+      "How Graphviz thinks the USA is laid out (2021)",
+      "https://shitpost.plover.com/g/graphviz-usa.html"
     ]
   ],
   [
@@ -41,6 +91,16 @@
   ],
   [
     [
+      "2022-07-27, 22:02:33",
+      "https://news.ycombinator.com/item?id=32257612"
+    ],
+    [
+      "The man who made the “worst” video game in history (2019)",
+      "https://thehustle.co/worst-video-game-in-history-et/"
+    ]
+  ],
+  [
+    [
       "2022-07-27, 21:43:35",
       "https://news.ycombinator.com/item?id=32257412"
     ],
@@ -51,42 +111,12 @@
   ],
   [
     [
-      "2022-07-27, 20:10:01",
-      "https://news.ycombinator.com/item?id=32256168"
-    ],
-    [
-      "Meta Reports Second Quarter 2022 Results",
-      "https://investor.fb.com/investor-news/press-release-details/2022/Meta-Reports-Second-Quarter-2022-Results/default.aspx"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 20:01:04",
       "https://news.ycombinator.com/item?id=32256026"
     ],
     [
       "Upgrading from Debian Jessie to Bullseye after nearly 30 years",
       "https://diziet.dreamwidth.org/11840.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 18:55:30",
-      "https://news.ycombinator.com/item?id=32254954"
-    ],
-    [
-      "ESG should be boiled down to one simple measure: emissions",
-      "https://www.economist.com/leaders/2022/07/21/esg-should-be-boiled-down-to-one-simple-measure-emissions"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 18:40:19",
-      "https://news.ycombinator.com/item?id=32254681"
-    ],
-    [
-      "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
-      "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/"
     ]
   ],
   [
@@ -117,26 +147,6 @@
     [
       "Alpha: A translation of Genesis 1",
       "http://llamasandmystegosaurus.blogspot.com/2017/05/alpha.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 17:13:53",
-      "https://news.ycombinator.com/item?id=32253243"
-    ],
-    [
-      "Amending Our Process: Crafting Apologies that Heal",
-      "https://ruthcohnmft.com/relationship-couples/amending-our-process-crafting-apologies-that-heal/"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 17:10:21",
-      "https://news.ycombinator.com/item?id=32253185"
-    ],
-    [
-      "Listerine Royalties",
-      "https://invariant.substack.com/p/listerine-royalties-the-origin-story"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-07-27, 13:41:01",
-      "https://news.ycombinator.com/item?id=32250276"
-    ],
-    [
-      "Want to start hacking?",
-      "https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 12:06:46",
       "https://news.ycombinator.com/item?id=32249465"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-07-26, 12:13:28",
-      "https://news.ycombinator.com/item?id=32237222"
-    ],
-    [
-      "Fleur – A bloom filter implementation in C",
-      "https://github.com/hashlookup/fleur"
-    ]
-  ],
-  [
-    [
       "2022-07-26, 11:49:49",
       "https://news.ycombinator.com/item?id=32237012"
     ],
@@ -297,6 +287,16 @@
     [
       "Building a fast all-SSD NAS on a budget",
       "https://www.jeffgeerling.com/blog/2022/building-fast-all-ssd-nas-on-budget"
+    ]
+  ],
+  [
+    [
+      "2022-07-25, 22:03:43",
+      "https://news.ycombinator.com/item?id=32231525"
+    ],
+    [
+      "Lagâri Hasan Çelebi",
+      "https://en.wikipedia.org/wiki/Lag%C3%A2ri_Hasan_%C3%87elebi"
     ]
   ]
 ]
