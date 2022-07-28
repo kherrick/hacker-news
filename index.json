@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-07-27, 18:24:12",
-      "https://news.ycombinator.com/item?id=32254434"
-    ],
-    [
-      "What’s the maximum size of a DNS response?",
-      "https://www.netmeister.org/blog/dns-size.html"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 18:16:47",
       "https://news.ycombinator.com/item?id=32254318"
     ],
@@ -177,16 +167,6 @@
     [
       "Nimble (YC S17) is hiring a part-time React/Django SWE (AI to recruit teachers)",
       "https://news.ycombinator.com/item?id=32253034"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 16:39:34",
-      "https://news.ycombinator.com/item?id=32252732"
-    ],
-    [
-      "For blind internet users, the fix can be worse than the flaws",
-      "https://www.nytimes.com/2022/07/13/technology/ai-web-accessibility.html"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2022-07-27, 04:49:16",
+      "https://news.ycombinator.com/item?id=32246946"
+    ],
+    [
+      "The Poor ROI of Autonomous Trucks (2020)",
+      "https://medium.com/starsky-robotics-blog/the-poor-roi-of-autonomy-f5d6f4f2dd14"
+    ]
+  ],
+  [
+    [
       "2022-07-26, 12:59:58",
       "https://news.ycombinator.com/item?id=32237650"
     ],
     [
       "Upgrading what might be the oldest running Linux install",
       "https://www.theregister.com/2022/07/25/upgrading_probably_the_worlds_oldest/"
+    ]
+  ],
+  [
+    [
+      "2022-07-26, 12:13:28",
+      "https://news.ycombinator.com/item?id=32237222"
+    ],
+    [
+      "Fleur – A bloom filter implementation in C",
+      "https://github.com/hashlookup/fleur"
     ]
   ],
   [
