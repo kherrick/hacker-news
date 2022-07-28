@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-28, 14:05:27",
+      "https://news.ycombinator.com/item?id=32264454"
+    ],
+    [
+      "Retool raises $45M at a $3.2B valuation",
+      "https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 13:58:41",
+      "https://news.ycombinator.com/item?id=32264372"
+    ],
+    [
+      "Unplugged Phone Mysteries",
+      "https://pxlnv.com/blog/unplugged-mysteries/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 13:41:11",
+      "https://news.ycombinator.com/item?id=32264145"
+    ],
+    [
+      "Ask HN: At which moment did you realise that you are built for computer science?",
+      "https://news.ycombinator.com/item?id=32264145"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 13:31:23",
       "https://news.ycombinator.com/item?id=32264033"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2022-07-28, 12:57:54",
-      "https://news.ycombinator.com/item?id=32263662"
+      "2022-07-28, 13:09:29",
+      "https://news.ycombinator.com/item?id=32263777"
     ],
     [
-      "U.S. economy just had a 2nd quarter of negative growth. Is it in a recession?",
-      "https://www.npr.org/2022/07/28/1113649843/gdp-2q-economy-2022-recession-two-quarters"
+      "That time when I accidentally social engineered myself to a film set",
+      "https://nibblestew.blogspot.com/2022/07/that-time-when-i-accidentally-social.html"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Swift Proposal: Move Function",
       "https://github.com/apple/swift-evolution/blob/main/proposals/0366-move-function.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 12:45:31",
-      "https://news.ycombinator.com/item?id=32263540"
-    ],
-    [
-      "Mark Zuckerberg ‘visibly frustrated’ over worker’s vacation question",
-      "https://nypost.com/2022/07/26/mark-zuckerberg-visibly-frustrated-over-vacation-question-report/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "For blind internet users, the fix can be worse than the flaws",
       "https://www.nytimes.com/2022/07/13/technology/ai-web-accessibility.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 15:02:17",
-      "https://news.ycombinator.com/item?id=32251305"
-    ],
-    [
-      "Launch HN: Warrant (YC S21) – Authorization and access control as a service",
-      "https://news.ycombinator.com/item?id=32251305"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 13:55:54",
-      "https://news.ycombinator.com/item?id=32250426"
-    ],
-    [
-      "SQLite Internals: Pages and B-trees",
-      "https://fly.io/blog/sqlite-internals-btree/"
     ]
   ],
   [
