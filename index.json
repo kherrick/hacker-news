@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-28, 13:31:23",
+      "https://news.ycombinator.com/item?id=32264033"
+    ],
+    [
+      "StackOverflow Is Having Issues",
+      "https://www.stackstatus.net/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 13:22:14",
+      "https://news.ycombinator.com/item?id=32263914"
+    ],
+    [
+      "Martin Kersten, creator of MonetDB, has died",
+      "https://www.cwi.nl/news/2022/in-memoriam-martin-kersten"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 12:57:54",
       "https://news.ycombinator.com/item?id=32263662"
     ],
@@ -17,6 +37,16 @@
     [
       "Swift Proposal: Move Function",
       "https://github.com/apple/swift-evolution/blob/main/proposals/0366-move-function.md"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 12:45:31",
+      "https://news.ycombinator.com/item?id=32263540"
+    ],
+    [
+      "Mark Zuckerberg ‘visibly frustrated’ over worker’s vacation question",
+      "https://nypost.com/2022/07/26/mark-zuckerberg-visibly-frustrated-over-vacation-question-report/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2022-07-27, 22:40:12",
-      "https://news.ycombinator.com/item?id=32257975"
-    ],
-    [
-      "Mitsuba 3 Physically Based Renderer",
-      "http://www.mitsuba-renderer.org"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 22:33:34",
-      "https://news.ycombinator.com/item?id=32257901"
-    ],
-    [
-      "How Graphviz thinks the USA is laid out (2021)",
-      "https://shitpost.plover.com/g/graphviz-usa.html"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 22:28:29",
       "https://news.ycombinator.com/item?id=32257852"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-07-27, 20:01:04",
-      "https://news.ycombinator.com/item?id=32256026"
-    ],
-    [
-      "Upgrading from Debian Jessie to Bullseye after nearly 30 years",
-      "https://diziet.dreamwidth.org/11840.html"
-    ]
-  ],
-  [
-    [
       "2022-07-27, 16:39:34",
       "https://news.ycombinator.com/item?id=32252732"
     ],
@@ -261,12 +261,22 @@
   ],
   [
     [
-      "2022-07-27, 15:33:18",
-      "https://news.ycombinator.com/item?id=32251717"
+      "2022-07-27, 15:02:17",
+      "https://news.ycombinator.com/item?id=32251305"
     ],
     [
-      "Mystery of Somerton man’s identity solved after 73 years, researchers say",
-      "https://www.theguardian.com/australia-news/2022/jul/27/somerton-man-mystery-identity-solved-identified-australia"
+      "Launch HN: Warrant (YC S21) – Authorization and access control as a service",
+      "https://news.ycombinator.com/item?id=32251305"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 13:55:54",
+      "https://news.ycombinator.com/item?id=32250426"
+    ],
+    [
+      "SQLite Internals: Pages and B-trees",
+      "https://fly.io/blog/sqlite-internals-btree/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Upgrading what might be the oldest running Linux install",
       "https://www.theregister.com/2022/07/25/upgrading_probably_the_worlds_oldest/"
-    ]
-  ],
-  [
-    [
-      "2022-07-25, 22:03:43",
-      "https://news.ycombinator.com/item?id=32231525"
-    ],
-    [
-      "Lagâri Hasan Çelebi",
-      "https://en.wikipedia.org/wiki/Lag%C3%A2ri_Hasan_%C3%87elebi"
     ]
   ]
 ]
