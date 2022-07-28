@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-07-28, 21:19:24",
-      "https://news.ycombinator.com/item?id=32270253"
+      "2022-07-28, 21:15:52",
+      "https://news.ycombinator.com/item?id=32270211"
     ],
     [
-      "SSD drives’ 40k-hour “death bug” continues to catch enterprises unawares",
-      "https://thestack.technology/ssd-death-bug-40000-hours-sandisk/"
+      "GL_EXT_fragment_shader_barycentric: Wireframe",
+      "https://wunkolo.github.io/post/2022/07/gl_ext_fragment_shader_barycentric-wireframe/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Folklore of ClarisWorks",
       "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 17:42:20",
-      "https://news.ycombinator.com/item?id=32267769"
-    ],
-    [
-      "Execline – an interpreter-less scripting language",
-      "http://skarnet.org/software/execline/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-07-28, 14:05:27",
+      "https://news.ycombinator.com/item?id=32264454"
+    ],
+    [
+      "Retool raises $45M at a $3.2B valuation",
+      "https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 13:58:41",
       "https://news.ycombinator.com/item?id=32264372"
     ],
@@ -237,16 +237,6 @@
     [
       "That time when I accidentally social engineered myself to a film set",
       "https://nibblestew.blogspot.com/2022/07/that-time-when-i-accidentally-social.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 12:45:16",
-      "https://news.ycombinator.com/item?id=32263535"
-    ],
-    [
-      "Oldest and Fatherless: The Terrible Secret of Tom Bombadil (2011)",
-      "https://km-515.livejournal.com/1042.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Embedding an EXE inside a .REG file with automatic execution",
       "https://www.x86matthew.com/view_post?id=embed_exe_reg"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 12:54:36",
+      "https://news.ycombinator.com/item?id=32249832"
+    ],
+    [
+      "article vs. section: How To Choose The Right One",
+      "https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/"
     ]
   ]
 ]
