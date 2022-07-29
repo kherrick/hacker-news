@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32279024"
     ],
     [
-      "Random: Implement Getrandom() in VDSO",
+      "Linux RNG RFC Patch: implement getrandom() in vDSO",
       "https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-07-29, 12:48:54",
-      "https://news.ycombinator.com/item?id=32276188"
-    ],
-    [
-      "Rumor: Google Stadia May Be Getting Shut Down",
-      "https://gamerant.com/rumor-google-stadia-shut-down/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 12:39:36",
       "https://news.ycombinator.com/item?id=32276120"
     ],
@@ -207,6 +197,16 @@
     [
       "Map with the most famous people from every city",
       "https://tjukanovt.github.io/notable-people"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 07:05:40",
+      "https://news.ycombinator.com/item?id=32273933"
+    ],
+    [
+      "Phrases in computing that might need retiring",
+      "https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/"
     ]
   ],
   [
