@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32280379"
     ],
     [
-      "Ambition as an Anxiety Disorder",
+      "Ambition as an anxiety disorder",
       "https://moontower.substack.com/p/moontower-154"
     ]
   ],
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-07-29, 18:06:24",
+      "https://news.ycombinator.com/item?id=32280057"
+    ],
+    [
+      "PHP Is the Right Choice in 2022 and Beyond",
+      "https://www.longhornphp.com/php-is-the-right-choice-in-2022-and-beyond"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 17:00:21",
       "https://news.ycombinator.com/item?id=32279335"
     ],
@@ -67,16 +77,6 @@
     [
       "Linux RNG RFC Patch: implement getrandom() in vDSO",
       "https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 16:21:14",
-      "https://news.ycombinator.com/item?id=32278871"
-    ],
-    [
-      "Show HN: Doxx Me – See how doxxable your phone number is",
-      "https://app.efani.com/doxx/hackernews/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32278288"
     ],
     [
-      "Build Your Own Web Framework",
+      "Build your own web framework",
       "https://vercel.com/blog/build-your-own-web-framework"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Semantic Diff for SQL",
       "https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 15:06:35",
-      "https://news.ycombinator.com/item?id=32277894"
-    ],
-    [
-      "Show HN: Truss – Serve any ML model without boilerplate code",
-      "https://github.com/basetenlabs/truss"
     ]
   ],
   [
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32277083"
     ],
     [
-      "The Rise and Fall of Micron Computers",
+      "The Rise and Fall of Micron Computers (2020)",
       "https://dfarq.homeip.net/micron-computers-rise-and-fall/"
     ]
   ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32274077"
     ],
     [
-      "Map with the most famous people from every city",
+      "Map showing birthplaces of \"notable people\" around the world",
       "https://tjukanovt.github.io/notable-people"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Aforementioned",
       "https://paperstack.com/aforementioned/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 17:49:59",
+      "https://news.ycombinator.com/item?id=32267862"
+    ],
+    [
+      "Show HN: Chunk – Code sandbox for back-end devs",
+      "https://chunk.run"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32258277"
     ],
     [
-      "A creature that gave up parasitism",
+      "Nephromyces: A mystery wrapped in a riddle wrapped in a kidney",
       "https://www.theatlantic.com/science/archive/2022/07/nephromyces-parasite-bacteria/670925/"
     ]
   ]
