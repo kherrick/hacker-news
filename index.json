@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-29, 02:02:24",
+      "https://news.ycombinator.com/item?id=32272358"
+    ],
+    [
+      "Buttery Smooth “10fps”",
+      "https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 01:01:44",
+      "https://news.ycombinator.com/item?id=32271917"
+    ],
+    [
+      "IPv6 Only Cloud Server",
+      "https://v6node.com"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 00:22:59",
       "https://news.ycombinator.com/item?id=32271660"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2022-07-29, 00:09:28",
-      "https://news.ycombinator.com/item?id=32271588"
+      "2022-07-29, 00:06:33",
+      "https://news.ycombinator.com/item?id=32271578"
     ],
     [
-      "Is Prague's F-35 Move Checkmate for Europe's 4th Gen Fighters?",
-      "https://www.airforce-technology.com/analysis/is-pragues-f-35-move-checkmate-for-europes-fourth-gen-fighters/"
+      "Nbdev: Create delightful software with Jupyter Notebooks",
+      "https://nbdev.fast.ai/"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2022-07-28, 21:19:29",
+      "https://news.ycombinator.com/item?id=32270255"
+    ],
+    [
+      "Omyyyy/pycom: A Python compiler, down to native code, using C++",
+      "https://github.com/Omyyyy/pycom"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 21:15:52",
       "https://news.ycombinator.com/item?id=32270211"
     ],
@@ -61,22 +91,22 @@
   ],
   [
     [
+      "2022-07-28, 21:09:43",
+      "https://news.ycombinator.com/item?id=32270149"
+    ],
+    [
+      "Logisim – A Graphical Tool for Designing and Simulating Digital Logic Circuits",
+      "http://www.cburch.com/logisim/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 21:01:50",
       "https://news.ycombinator.com/item?id=32270058"
     ],
     [
       "I Designed My Own 16-Bit CPU [video]",
       "https://www.youtube.com/watch?v=Zt0JfmV7CyI"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 20:35:23",
-      "https://news.ycombinator.com/item?id=32269792"
-    ],
-    [
-      "Apple Reports Third Quarter Results",
-      "https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "On “A Canticle for Leibowitz”",
       "http://www.loukidelis.com/canticle-for-leibowitz.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 19:16:41",
-      "https://news.ycombinator.com/item?id=32268934"
-    ],
-    [
-      "WebContainers are now supported in Firefox on desktop and Android",
-      "https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-07-28, 17:09:05",
-      "https://news.ycombinator.com/item?id=32267222"
-    ],
-    [
-      "AWS us-east-2 outage",
-      "https://news.ycombinator.com/item?id=32267222"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 17:00:40",
       "https://news.ycombinator.com/item?id=32267068"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2022-07-28, 16:56:50",
-      "https://news.ycombinator.com/item?id=32267008"
+      "2022-07-28, 16:57:40",
+      "https://news.ycombinator.com/item?id=32267024"
     ],
     [
-      "Struct Endianness in Python",
-      "https://til.simonwillison.net/python/struct-endianness"
+      "AI Coding with CodeRL: Toward Mastering Program Synthesis with Deep RL",
+      "https://blog.salesforceairesearch.com/coderl/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2022-07-28, 13:09:29",
-      "https://news.ycombinator.com/item?id=32263777"
-    ],
-    [
-      "That time when I accidentally social engineered myself to a film set",
-      "https://nibblestew.blogspot.com/2022/07/that-time-when-i-accidentally-social.html"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 11:18:14",
       "https://news.ycombinator.com/item?id=32262856"
     ],
     [
       "AlphaFold reveals the structure of the protein universe",
       "https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 10:22:06",
-      "https://news.ycombinator.com/item?id=32262545"
-    ],
-    [
-      "Mission to reach and operate at the focal region of the solar gravitational lens",
-      "https://arxiv.org/abs/2207.03005"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Aztec Diamond",
       "https://en.wikipedia.org/wiki/Aztec_diamond"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 18:52:21",
+      "https://news.ycombinator.com/item?id=32254890"
+    ],
+    [
+      "Hard Eggs and Radishes: On Percy Bysshe Shelley",
+      "https://www.lrb.co.uk/the-paper/v44/n14/thomas-jones/hard-eggs-and-radishes"
     ]
   ],
   [
