@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-29, 07:05:40",
+      "https://news.ycombinator.com/item?id=32273933"
+    ],
+    [
+      "Phrases in computing that might need retiring",
+      "https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 06:47:56",
+      "https://news.ycombinator.com/item?id=32273831"
+    ],
+    [
+      "Data Center Heatmap",
+      "https://barry.blog/2022/07/28/data-center-heatmap/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 06:12:06",
       "https://news.ycombinator.com/item?id=32273711"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-07-28, 21:19:29",
-      "https://news.ycombinator.com/item?id=32270255"
-    ],
-    [
-      "Omyyyy/pycom: A Python compiler, down to native code, using C++",
-      "https://github.com/Omyyyy/pycom"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 21:15:52",
       "https://news.ycombinator.com/item?id=32270211"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2022-07-28, 11:18:14",
-      "https://news.ycombinator.com/item?id=32262856"
-    ],
-    [
-      "AlphaFold reveals the structure of the protein universe",
-      "https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 09:37:49",
-      "https://news.ycombinator.com/item?id=32262238"
-    ],
-    [
-      "The Plausibly Deniable DataBase (PDDB): It’s Real Now",
-      "https://www.bunniestudios.com/blog/?p=6449"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 09:10:19",
       "https://news.ycombinator.com/item?id=32262003"
     ],
@@ -267,6 +257,16 @@
     [
       "Manticore Search: Elasticsearch Alternative",
       "https://github.com/manticoresoftware/manticoresearch"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 06:28:10",
+      "https://news.ycombinator.com/item?id=32261077"
+    ],
+    [
+      "Typeguard",
+      "https://typeguard.readthedocs.io/en/latest/index.html"
     ]
   ],
   [
