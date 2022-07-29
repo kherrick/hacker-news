@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-29, 08:18:52",
+      "https://news.ycombinator.com/item?id=32274344"
+    ],
+    [
+      "I don't have notifications enabled, nowhere and never",
+      "https://news.ycombinator.com/item?id=32274344"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 07:32:02",
+      "https://news.ycombinator.com/item?id=32274077"
+    ],
+    [
+      "Map with the most famous people from every city",
+      "https://tjukanovt.github.io/notable-people"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 07:05:40",
       "https://news.ycombinator.com/item?id=32273933"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-07-28, 21:15:52",
-      "https://news.ycombinator.com/item?id=32270211"
-    ],
-    [
-      "GL_EXT_fragment_shader_barycentric: Wireframe",
-      "https://wunkolo.github.io/post/2022/07/gl_ext_fragment_shader_barycentric-wireframe/"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 21:01:50",
       "https://news.ycombinator.com/item?id=32270058"
     ],
@@ -177,16 +187,6 @@
     [
       "Rebellion at DataRobot over insider stock sales",
       "https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 17:45:54",
-      "https://news.ycombinator.com/item?id=32267817"
-    ],
-    [
-      "A Brief History of ClarisWorks (2003)",
-      "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-07-28, 08:26:01",
+      "https://news.ycombinator.com/item?id=32261713"
+    ],
+    [
+      "Superman 64",
+      "https://en.wikipedia.org/wiki/Superman_64"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 08:06:08",
       "https://news.ycombinator.com/item?id=32261618"
     ],
@@ -287,16 +297,6 @@
     [
       "Embedding an EXE inside a .REG file with automatic execution",
       "https://www.x86matthew.com/view_post?id=embed_exe_reg"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 12:54:36",
-      "https://news.ycombinator.com/item?id=32249832"
-    ],
-    [
-      "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
-      "https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/"
     ]
   ]
 ]
