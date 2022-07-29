@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-29, 21:59:03",
+      "https://news.ycombinator.com/item?id=32282244"
+    ],
+    [
+      "Clojure Web Development Evolved [video]",
+      "https://www.youtube.com/watch?v=DFzukK5-rpU"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 21:45:25",
+      "https://news.ycombinator.com/item?id=32282128"
+    ],
+    [
+      "IR Decoding with BPF",
+      "https://lwn.net/Articles/759188/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 21:00:22",
       "https://news.ycombinator.com/item?id=32281713"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-07-29, 14:07:11",
-      "https://news.ycombinator.com/item?id=32277083"
-    ],
-    [
-      "The Rise and Fall of Micron Computers (2020)",
-      "https://dfarq.homeip.net/micron-computers-rise-and-fall/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 14:01:12",
       "https://news.ycombinator.com/item?id=32276987"
     ],
@@ -287,16 +297,6 @@
     [
       "MIT, Autodesk develop AI that can figure out Lego instructions",
       "https://www.theregister.com/2022/07/27/lego_machine_learning_ai_framework/"
-    ]
-  ],
-  [
-    [
-      "2022-07-27, 15:53:16",
-      "https://news.ycombinator.com/item?id=32252016"
-    ],
-    [
-      "SeismiQuery is disabled",
-      "http://ds.iris.edu/ds/nodes/dmc/notices/sq-disabled/"
     ]
   ]
 ]
