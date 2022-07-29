@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-07-29, 13:29:18",
-      "https://news.ycombinator.com/item?id=32276580"
+      "2022-07-29, 14:16:45",
+      "https://news.ycombinator.com/item?id=32277223"
     ],
     [
-      "Reference Count, Don't Garbage Collect",
-      "https://kevinlawler.com/refcount"
+      "Filesystem Hierarchy Standard",
+      "https://www.pathname.com/fhs/"
     ]
   ],
   [
     [
-      "2022-07-29, 13:24:07",
-      "https://news.ycombinator.com/item?id=32276513"
+      "2022-07-29, 14:07:11",
+      "https://news.ycombinator.com/item?id=32277083"
     ],
     [
-      "How I successfully became a software engineer in 3 months",
-      "https://www.blog.edmondhui.com/software-engineer-in-3-months"
+      "The Rise and Fall of Micron Computers",
+      "https://dfarq.homeip.net/micron-computers-rise-and-fall/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "How we renamed our Design Converter to Magical Ass",
       "https://news.ycombinator.com/item?id=32276120"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 12:32:59",
+      "https://news.ycombinator.com/item?id=32276071"
+    ],
+    [
+      "Scientists have finally found the potential “cure” for baldness",
+      "https://www.independent.co.uk/life-style/health-and-families/male-pattern-baldness-treatment-cure-scientists-b2133793.html"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2022-07-29, 07:05:40",
+      "https://news.ycombinator.com/item?id=32273933"
+    ],
+    [
+      "Phrases in computing that might need retiring",
+      "https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 06:47:56",
       "https://news.ycombinator.com/item?id=32273831"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2022-07-29, 01:01:44",
-      "https://news.ycombinator.com/item?id=32271917"
-    ],
-    [
-      "IPv6 Only Cloud Server",
-      "https://v6node.com"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 00:22:59",
       "https://news.ycombinator.com/item?id=32271660"
     ],
     [
       "Asus Zenfone 9",
       "https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 00:06:33",
-      "https://news.ycombinator.com/item?id=32271578"
-    ],
-    [
-      "Nbdev: Create delightful software with Jupyter Notebooks",
-      "https://nbdev.fast.ai/"
     ]
   ],
   [
