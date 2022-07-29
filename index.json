@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-07-29, 17:00:21",
+      "https://news.ycombinator.com/item?id=32279335"
+    ],
+    [
+      "Pachyderm is hiring React and Go devs to build Reproducible Data Pipelines",
+      "https://www.pachyderm.com/careers/#positions"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 16:32:30",
+      "https://news.ycombinator.com/item?id=32279024"
+    ],
+    [
+      "Random: Implement Getrandom() in VDSO",
+      "https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 16:21:14",
+      "https://news.ycombinator.com/item?id=32278871"
+    ],
+    [
+      "Show HN: Doxx Me – See how doxxable your phone number is",
+      "https://app.efani.com/doxx/hackernews/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 16:08:39",
       "https://news.ycombinator.com/item?id=32278701"
     ],
     [
-      "David Foster Wallace’s Final Attempt to Make Art Moral",
+      "David Foster Wallace’s final attempt to make art moral",
       "https://www.newyorker.com/books/under-review/david-foster-wallaces-final-attempt-to-make-art-moral"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 16:00:25",
+      "https://news.ycombinator.com/item?id=32278608"
+    ],
+    [
+      "Timsort – the fastest sorting algorithm you’ve never heard of",
+      "https://skerritt.blog/timsort/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-07-29, 12:00:02",
-      "https://news.ycombinator.com/item?id=32275834"
-    ],
-    [
-      "PermitFlow (YC W22) Is Hiring a Founding Software Engineer",
-      "https://www.ycombinator.com/companies/permitflow/jobs/axcfyjc-founding-software-engineer"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 10:28:48",
       "https://news.ycombinator.com/item?id=32275229"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-07-29, 07:05:40",
-      "https://news.ycombinator.com/item?id=32273933"
-    ],
-    [
-      "Phrases in computing that might need retiring",
-      "https://www.sicpers.info/2022/07/phrases-in-computing-that-might-need-retiring/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 04:16:59",
       "https://news.ycombinator.com/item?id=32273083"
     ],
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2022-07-29, 02:02:24",
-      "https://news.ycombinator.com/item?id=32272358"
+      "2022-07-29, 03:38:30",
+      "https://news.ycombinator.com/item?id=32272897"
     ],
     [
-      "Buttery Smooth “10fps” (2020)",
-      "https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/"
+      "‘Weird, wonderful’: dig at Arthur’s Stone writes new story of Neolithic site",
+      "https://www.theguardian.com/science/2022/jul/22/weird-wonderful-rare-dig-at-arthurs-stone-writes-new-story-of-neolithic-site"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2022-07-28, 08:38:33",
-      "https://news.ycombinator.com/item?id=32261781"
-    ],
-    [
-      "The untold story of Yugoslavia’s naturist paradise",
-      "https://www.calvertjournal.com/articles/show/11998/yugoslavia-nudism-naturism-fkk-koversada-camping-holiday-croatia"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 06:46:38",
       "https://news.ycombinator.com/item?id=32261189"
     ],
@@ -287,16 +297,6 @@
     [
       "The Creature That Gave Up Parasitism",
       "https://www.theatlantic.com/science/archive/2022/07/nephromyces-parasite-bacteria/670925/"
-    ]
-  ],
-  [
-    [
-      "2022-07-26, 22:34:12",
-      "https://news.ycombinator.com/item?id=32244945"
-    ],
-    [
-      "Of Astronauts and Algae: NASA and the Dream of Multispecies Spaceflight (2017)",
-      "https://read.dukeupress.edu/environmental-humanities/article/9/2/359/133023/Of-Astronauts-and-AlgaeNASA-and-the-Dream-of"
     ]
   ]
 ]
