@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2022-07-28, 21:15:52",
+      "https://news.ycombinator.com/item?id=32270211"
+    ],
+    [
+      "GL_EXT_fragment_shader_barycentric: Wireframe",
+      "https://wunkolo.github.io/post/2022/07/gl_ext_fragment_shader_barycentric-wireframe/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 21:01:50",
       "https://news.ycombinator.com/item?id=32270058"
     ],
@@ -181,22 +191,12 @@
   ],
   [
     [
-      "2022-07-28, 17:54:41",
-      "https://news.ycombinator.com/item?id=32267914"
+      "2022-07-28, 14:34:59",
+      "https://news.ycombinator.com/item?id=32264878"
     ],
     [
-      "Rebellion at DataRobot over insider stock sales",
-      "https://newsletter.pragmaticengineer.com/p/the-scoop-rebellion-at-datarobot"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 17:12:36",
-      "https://news.ycombinator.com/item?id=32267287"
-    ],
-    [
-      "EdgeDB 2.0",
-      "https://www.edgedb.com/blog/edgedb-2-0"
+      "AMD’s Athlon 64: Getting the Basics Right",
+      "https://chipsandcheese.com/2022/07/28/amds-athlon-64-getting-the-basics-right/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-27, 12:55:51",
-      "https://news.ycombinator.com/item?id=32249845"
+      "2022-07-27, 12:54:36",
+      "https://news.ycombinator.com/item?id=32249832"
     ],
     [
-      "Embedding an EXE inside a .REG file with automatic execution",
-      "https://www.x86matthew.com/view_post?id=embed_exe_reg"
+      "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
+      "https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/"
     ]
   ]
 ]
