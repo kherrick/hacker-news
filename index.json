@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-07-28, 14:34:59",
-      "https://news.ycombinator.com/item?id=32264878"
-    ],
-    [
-      "AMD’s Athlon 64: Getting the Basics Right",
-      "https://chipsandcheese.com/2022/07/28/amds-athlon-64-getting-the-basics-right/"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 09:15:12",
       "https://news.ycombinator.com/item?id=32262057"
     ],
@@ -297,6 +287,16 @@
     [
       "Embedding an EXE inside a .REG file with automatic execution",
       "https://www.x86matthew.com/view_post?id=embed_exe_reg"
+    ]
+  ],
+  [
+    [
+      "2022-07-27, 12:54:36",
+      "https://news.ycombinator.com/item?id=32249832"
+    ],
+    [
+      "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
+      "https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/"
     ]
   ]
 ]
