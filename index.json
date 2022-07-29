@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-07-29, 14:51:36",
-      "https://news.ycombinator.com/item?id=32277691"
+      "2022-07-29, 15:42:23",
+      "https://news.ycombinator.com/item?id=32278397"
     ],
     [
-      "“Tactical” Infiltrated Everyday Life",
-      "https://www.gearpatrol.com/style/a39125064/tactical-clothing/"
+      "Tabler: Free and open source dashboard HTML/CSS framework",
+      "https://github.com/tabler/tabler"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 15:15:41",
+      "https://news.ycombinator.com/item?id=32278011"
+    ],
+    [
+      "Booting Linux in five seconds (2008)",
+      "https://lwn.net/Articles/299483/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 15:14:48",
+      "https://news.ycombinator.com/item?id=32277998"
+    ],
+    [
+      "Semantic Diff for SQL",
+      "https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 15:06:35",
+      "https://news.ycombinator.com/item?id=32277894"
+    ],
+    [
+      "Show HN: Truss – serve any ML model, anywhere, without boilerplate code",
+      "https://github.com/basetenlabs/truss"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2022-07-29, 03:54:41",
-      "https://news.ycombinator.com/item?id=32272974"
-    ],
-    [
-      "A complete guide to creating actually useful courses",
-      "https://schoolmaker.com/course-creation-guide"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 02:02:24",
       "https://news.ycombinator.com/item?id=32272358"
     ],
     [
       "Buttery Smooth “10fps” (2020)",
       "https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 00:22:59",
-      "https://news.ycombinator.com/item?id=32271660"
-    ],
-    [
-      "Asus Zenfone 9",
-      "https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The untold story of Yugoslavia’s naturist paradise",
       "https://www.calvertjournal.com/articles/show/11998/yugoslavia-nudism-naturism-fkk-koversada-camping-holiday-croatia"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 08:06:08",
-      "https://news.ycombinator.com/item?id=32261618"
-    ],
-    [
-      "Manticore Search: Elasticsearch Alternative",
-      "https://github.com/manticoresoftware/manticoresearch"
     ]
   ],
   [
