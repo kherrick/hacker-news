@@ -5,8 +5,28 @@
       "https://news.ycombinator.com/item?id=32281713"
     ],
     [
-      "Padlet Is Hiring in SF to Build Software for a Good Education",
+      "Padlet (YC W13) is hiring in SF to build software for a good education",
       "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 20:43:13",
+      "https://news.ycombinator.com/item?id=32281536"
+    ],
+    [
+      "Knuth changes his mind on Bernoulli number B_1",
+      "https://www-cs-faculty.stanford.edu/~knuth/news22.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 20:32:37",
+      "https://news.ycombinator.com/item?id=32281446"
+    ],
+    [
+      "Build Unix, Not Uber",
+      "https://thesephist.com/posts/legacy/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32280325"
     ],
     [
-      "Apple Pay works in non-Safari browsers in iOS 16 Beta 3",
+      "Tell HN: Apple Pay works in non-Safari browsers in iOS 16 Beta 3",
       "https://news.ycombinator.com/item?id=32280325"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Cfplot – Generate waterfall graphs of CloudFormation",
       "https://github.com/jaredtrog/cfplot"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 17:14:53",
-      "https://news.ycombinator.com/item?id=32279512"
-    ],
-    [
-      "Winamp 5.9",
-      "http://forums.winamp.com/showthread.php?t=458120&utm_source=socialmedia&utm_medium=fb&utm_campaign=winamp5.9&utm_term=july2022"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2022-07-29, 15:15:41",
+      "https://news.ycombinator.com/item?id=32278011"
+    ],
+    [
+      "Booting Linux in five seconds (2008)",
+      "https://lwn.net/Articles/299483/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 15:14:48",
       "https://news.ycombinator.com/item?id=32277998"
     ],
@@ -161,32 +181,22 @@
   ],
   [
     [
-      "2022-07-29, 14:09:02",
-      "https://news.ycombinator.com/item?id=32277109"
-    ],
-    [
-      "Scientists discover new “origins of life” chemical reactions",
-      "https://www.scripps.edu/news-and-events/press-room/2022/20220728-krishnamurthy-origins-of-life-chemical-reactions.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 14:07:11",
-      "https://news.ycombinator.com/item?id=32277083"
-    ],
-    [
-      "The Rise and Fall of Micron Computers (2020)",
-      "https://dfarq.homeip.net/micron-computers-rise-and-fall/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 14:01:12",
       "https://news.ycombinator.com/item?id=32276987"
     ],
     [
       "Color.js Released",
       "https://svgees.us/blog/colorjs-release.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 13:29:18",
+      "https://news.ycombinator.com/item?id=32276580"
+    ],
+    [
+      "Reference count, don't garbage collect",
+      "https://kevinlawler.com/refcount"
     ]
   ],
   [
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2022-07-28, 15:38:33",
-      "https://news.ycombinator.com/item?id=32265805"
-    ],
-    [
-      "Why do so many bikes end up underwater?",
-      "https://www.theguardian.com/lifeandstyle/2022/jul/28/bicycle-graveyards-why-do-so-many-bikes-end-up-underwater"
-    ]
-  ],
-  [
-    [
       "2022-07-28, 11:28:23",
       "https://news.ycombinator.com/item?id=32262921"
     ],
     [
-      "Smalltalk – Slang (direct mapping to C or JavaScript)",
+      "Slang: The subset of Smalltalk that can translate to C or other languages (2019)",
       "http://wiki.squeak.org/squeak/slang"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-07-27, 23:08:51",
-      "https://news.ycombinator.com/item?id=32258277"
+      "2022-07-27, 15:53:16",
+      "https://news.ycombinator.com/item?id=32252016"
     ],
     [
-      "Nephromyces: A mystery wrapped in a riddle wrapped in a kidney",
-      "https://www.theatlantic.com/science/archive/2022/07/nephromyces-parasite-bacteria/670925/"
+      "SeismiQuery is disabled",
+      "http://ds.iris.edu/ds/nodes/dmc/notices/sq-disabled/"
     ]
   ]
 ]
