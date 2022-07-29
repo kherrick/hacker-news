@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-29, 22:28:22",
+      "https://news.ycombinator.com/item?id=32282467"
+    ],
+    [
+      "Jitter a Git-based binary manager for Linux written in Nim",
+      "https://github.com/sharpcdf/jitter"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 21:59:03",
       "https://news.ycombinator.com/item?id=32282244"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-07-29, 19:24:56",
-      "https://news.ycombinator.com/item?id=32280818"
-    ],
-    [
-      "Notebook Dataflow Debugger (Ndd)",
-      "https://observablehq.com/@tomlarkworthy/ndd"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 18:42:03",
       "https://news.ycombinator.com/item?id=32280379"
     ],
@@ -137,6 +137,16 @@
     [
       "Project Euler on a Microcontroller",
       "https://shawnnapora.github.io/blog/2022/07/29/euler-on-micro/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 18:18:17",
+      "https://news.ycombinator.com/item?id=32280162"
+    ],
+    [
+      "Cfplot – Generate waterfall graphs of CloudFormation",
+      "https://github.com/jaredtrog/cfplot"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Semantic Diff for SQL",
       "https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 14:07:11",
-      "https://news.ycombinator.com/item?id=32277083"
-    ],
-    [
-      "The Rise and Fall of Micron Computers (2020)",
-      "https://dfarq.homeip.net/micron-computers-rise-and-fall/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-07-28, 09:27:59",
-      "https://news.ycombinator.com/item?id=32262170"
+      "2022-07-28, 16:49:05",
+      "https://news.ycombinator.com/item?id=32266897"
     ],
     [
-      "Anemometer: Types, advantages, disadvantages",
-      "https://www.renkeer.com/anemometer-types/"
+      "Nobody Optimizes Happiness",
+      "https://dynomight.net/happiness/"
     ]
   ],
   [
