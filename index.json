@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-30, 13:14:43",
+      "https://news.ycombinator.com/item?id=32286531"
+    ],
+    [
+      "An accentuated Emacs experiment (à la macOS)",
+      "https://xenodium.com/an-accentuated-emacs-experiment/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 13:12:22",
+      "https://news.ycombinator.com/item?id=32286515"
+    ],
+    [
+      "Allocating resources where they solve the most important problems",
+      "https://terraformindustries.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 13:01:50",
+      "https://news.ycombinator.com/item?id=32286449"
+    ],
+    [
+      "Plaid but for Healthcare",
+      "https://www.healthcompiler.com/LP-API"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 12:54:22",
       "https://news.ycombinator.com/item?id=32286408"
     ],
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2022-07-30, 12:29:27",
-      "https://news.ycombinator.com/item?id=32286265"
-    ],
-    [
-      "Ask HN: When do you think Wayland will be broadly supported?",
-      "https://news.ycombinator.com/item?id=32286265"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 12:03:10",
       "https://news.ycombinator.com/item?id=32286142"
     ],
@@ -47,6 +67,16 @@
     [
       "Sieve (YC W22) is building plug-and-play APIs for video AI",
       "https://www.sievedata.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 11:35:03",
+      "https://news.ycombinator.com/item?id=32286011"
+    ],
+    [
+      "Finding the biological roots for pathological social withdrawal, Hikikomori",
+      "https://www.kyushu-u.ac.jp/en/researches/view/230/"
     ]
   ],
   [
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2022-07-29, 23:57:49",
-      "https://news.ycombinator.com/item?id=32283022"
-    ],
-    [
-      "Why Hypergraphs? (2013)",
-      "https://blog.opencog.org/2013/03/24/why-hypergraphs/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 23:44:22",
       "https://news.ycombinator.com/item?id=32282942"
     ],
     [
       "C++ Asynchronous Framework",
       "https://userver.tech/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 21:59:03",
-      "https://news.ycombinator.com/item?id=32282244"
-    ],
-    [
-      "Clojure Web Development Evolved [video]",
-      "https://www.youtube.com/watch?v=DFzukK5-rpU"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 21:38:03",
-      "https://news.ycombinator.com/item?id=32282061"
-    ],
-    [
-      "Getting started with decentralized identity",
-      "https://www.nathangould.com/posts/how-to-get-started-learning-web5/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-07-29, 20:04:12",
-      "https://news.ycombinator.com/item?id=32281218"
+      "2022-07-29, 20:39:18",
+      "https://news.ycombinator.com/item?id=32281497"
     ],
     [
-      "Photovoltaic Solar Panels (1905)",
-      "https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html"
+      "A Hazard Analysis Framework for Code Synthesis Large Language Models",
+      "https://arxiv.org/abs/2207.14157"
     ]
   ],
   [
