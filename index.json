@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-30, 10:25:01",
+      "https://news.ycombinator.com/item?id=32285638"
+    ],
+    [
+      "Recommended settings for Wi-Fi routers and access points",
+      "https://support.apple.com/en-us/HT202068"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 10:05:58",
+      "https://news.ycombinator.com/item?id=32285573"
+    ],
+    [
+      "Tell HN: Banned site-wide from Reddit for helping a fellow mod fight hate speech",
+      "https://news.ycombinator.com/item?id=32285573"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 08:33:50",
       "https://news.ycombinator.com/item?id=32285242"
     ],
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2022-07-29, 21:00:22",
+      "https://news.ycombinator.com/item?id=32281713"
+    ],
+    [
+      "Padlet (YC W13) is hiring in SF to build software for a good education",
+      "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 20:43:13",
       "https://news.ycombinator.com/item?id=32281536"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-07-29, 15:35:22",
-      "https://news.ycombinator.com/item?id=32278288"
-    ],
-    [
-      "Build your own web framework",
-      "https://vercel.com/blog/build-your-own-web-framework"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 15:14:48",
-      "https://news.ycombinator.com/item?id=32277998"
-    ],
-    [
-      "Semantic Diff for SQL",
-      "https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 13:43:14",
       "https://news.ycombinator.com/item?id=32276763"
     ],
     [
       "Black Widow Pulsar Sets Mass Record",
       "https://skyandtelescope.org/astronomy-news/black-widow-pulsar-sets-mass-record/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 13:29:18",
-      "https://news.ycombinator.com/item?id=32276580"
-    ],
-    [
-      "Reference count, don't garbage collect",
-      "https://kevinlawler.com/refcount"
     ]
   ],
   [
