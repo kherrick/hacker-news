@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-07-30, 12:00:27",
+      "https://news.ycombinator.com/item?id=32286123"
+    ],
+    [
+      "Sieve (YC W22) is building plug-and-play APIs for video AI",
+      "https://www.sievedata.com/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 10:30:32",
+      "https://news.ycombinator.com/item?id=32285663"
+    ],
+    [
+      "No-logging of user activity policy",
+      "https://mullvad.net/en/help/no-logging-data-policy/"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 10:25:01",
       "https://news.ycombinator.com/item?id=32285638"
     ],
     [
       "Recommended settings for Wi-Fi routers and access points",
       "https://support.apple.com/en-us/HT202068"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 10:22:36",
+      "https://news.ycombinator.com/item?id=32285632"
+    ],
+    [
+      "Lisp in Vim (2019)",
+      "https://susam.net/blog/lisp-in-vim.html"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Dear startups: I hate subscription services",
       "https://fangdaddy.medium.com/dear-startups-i-hate-subscription-services-aecefeb0f089"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 07:57:25",
-      "https://news.ycombinator.com/item?id=32285122"
-    ],
-    [
-      "Safety: A comparaison between Rust, C++ and Go",
-      "https://nested.substack.com/p/safety"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-07-29, 12:25:39",
-      "https://news.ycombinator.com/item?id=32276017"
-    ],
-    [
-      "How far can you go by train in 5h?",
-      "https://chronotrains-eu.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 08:11:49",
       "https://news.ycombinator.com/item?id=32274307"
     ],
@@ -287,16 +297,6 @@
     [
       "Creating an Intranet Like the Internet",
       "https://www.maatt.fr/blog/intranet-like-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 16:21:21",
-      "https://news.ycombinator.com/item?id=32266462"
-    ],
-    [
-      "Cmacro: Lisp Macros for C",
-      "https://github.com/eudoxia0/cmacro"
     ]
   ]
 ]
