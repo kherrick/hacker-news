@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-07-30, 02:14:44",
-      "https://news.ycombinator.com/item?id=32283712"
+      "2022-07-30, 03:58:45",
+      "https://news.ycombinator.com/item?id=32284163"
     ],
     [
-      "Aldous Huxley’s Version of the Disney “Alice” (2020)",
-      "https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/"
+      "You’re Missing Out on the Best Terminal Experience",
+      "https://sebastiancarlos.medium.com/youre-missing-out-on-the-best-terminal-experience-36a7aeecc6de"
     ]
   ],
   [
     [
-      "2022-07-30, 01:40:13",
-      "https://news.ycombinator.com/item?id=32283582"
+      "2022-07-30, 02:14:44",
+      "https://news.ycombinator.com/item?id=32283712"
     ],
     [
-      "PayPal and Steam are banned in Indonesia",
-      "https://kominfo.go.id/content/detail/43385/siaran-pers-no-308hmkominfo072022-tentang-pendaftaran-penyelenggara-sistem-elektronik-pse-lingkup-privat/0/siaran_pers"
+      "Aldous Huxley’s version of the Disney “Alice” (2020)",
+      "https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32282942"
     ],
     [
-      "Yandex open sources C++ asynchronous framework",
+      "C++ Asynchronous Framework",
       "https://userver.tech/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Clojure Web Development Evolved [video]",
       "https://www.youtube.com/watch?v=DFzukK5-rpU"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 21:45:25",
-      "https://news.ycombinator.com/item?id=32282128"
-    ],
-    [
-      "IR Decoding with BPF",
-      "https://lwn.net/Articles/759188/"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2022-07-29, 09:19:45",
-      "https://news.ycombinator.com/item?id=32274714"
-    ],
-    [
-      "Settling in for the Long Haul",
-      "https://crookedtimber.org/2022/07/05/settling-in-for-the-long-haul/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 07:37:43",
       "https://news.ycombinator.com/item?id=32274106"
     ],
@@ -271,11 +251,31 @@
   ],
   [
     [
+      "2022-07-29, 03:37:46",
+      "https://news.ycombinator.com/item?id=32272893"
+    ],
+    [
+      "Larkin is a love poet who doesn’t trust love",
+      "https://www.newstatesman.com/culture/books/larkin-at-100/2022/07/rowan-williams-philip-larkin-centenary"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 20:34:20",
+      "https://news.ycombinator.com/item?id=32269781"
+    ],
+    [
+      "How to build an open-source business (2021)",
+      "https://www.lunasec.io/docs/blog/how-to-build-an-open-source-business-in-2021-part-1/"
+    ]
+  ],
+  [
+    [
       "2022-07-28, 16:49:05",
       "https://news.ycombinator.com/item?id=32266897"
     ],
     [
-      "Nobody Optimizes Happiness",
+      "Nobody optimizes happiness",
       "https://dynomight.net/happiness/"
     ]
   ],
