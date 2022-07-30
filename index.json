@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-07-30, 16:47:39",
+      "https://news.ycombinator.com/item?id=32288195"
+    ],
+    [
+      "Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes",
+      "https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:47:22",
+      "https://news.ycombinator.com/item?id=32288193"
+    ],
+    [
+      "paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions",
+      "https://github.com/kovisoft/paredit"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:45:02",
+      "https://news.ycombinator.com/item?id=32288165"
+    ],
+    [
+      "A SQLite extension for reading large files line-by-line",
+      "https://github.com/asg017/sqlite-lines"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:26:52",
+      "https://news.ycombinator.com/item?id=32288020"
+    ],
+    [
+      "Arris / Arris-variant DSL/Fiber router critical vulnerability exposure",
+      "https://derekabdine.com/blog/2022-arris-advisory.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:13:20",
+      "https://news.ycombinator.com/item?id=32287902"
+    ],
+    [
+      "ImHex – A Hex Editor",
+      "https://github.com/WerWolv/ImHex"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 16:04:12",
       "https://news.ycombinator.com/item?id=32287828"
     ],
@@ -21,42 +71,12 @@
   ],
   [
     [
-      "2022-07-30, 15:46:05",
-      "https://news.ycombinator.com/item?id=32287691"
-    ],
-    [
-      "Digital nomads take over Mexico City: “You're a fucking plague, locals hate you”",
-      "https://www.elmundo.es/papel/historias/2022/07/30/62e3d30cfdddff5d9c8b460f.html"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 15:35:15",
       "https://news.ycombinator.com/item?id=32287596"
     ],
     [
       "Archive of Visualized Concepts",
       "https://archivve.visualizevalue.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 15:24:02",
-      "https://news.ycombinator.com/item?id=32287512"
-    ],
-    [
-      "Ask HN: How do you critically evaluate scientific papers?",
-      "https://news.ycombinator.com/item?id=32287512"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 15:22:17",
-      "https://news.ycombinator.com/item?id=32287490"
-    ],
-    [
-      "US court system suffered 'incredibly significant attack' – sealed files at risk",
-      "https://www.theregister.com/2022/07/29/us_judiciary_attack/"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32286408"
     ],
     [
-      "Serverless DNS: Self-Hosted DNS Resolver at the Edge",
+      "Serverless DNS: Self-hosted DNS resolver at the edge",
       "https://github.com/serverless-dns/serverless-dns"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "CZ5B (Chinese rocket) Reentry Prediction",
       "https://aerospace.org/reentries/cz-5b-rb-id-53240"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 12:06:33",
-      "https://news.ycombinator.com/item?id=32286157"
-    ],
-    [
-      "A Coder’s Guide to Coffee (2002)",
-      "https://blog.moertel.com/posts/2002-04-25-coders-guide-to-coffee.html"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-07-30, 10:15:44",
-      "https://news.ycombinator.com/item?id=32285609"
-    ],
-    [
-      "Router Security",
-      "https://routersecurity.org/"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 07:57:25",
       "https://news.ycombinator.com/item?id=32285122"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32285113"
     ],
     [
-      "My customized Wim Hof breathing exercise for maximum high",
+      "My customized Wim Hof breathing method",
       "https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32284375"
     ],
     [
-      "I Miss the Programmable Web (2021)",
+      "I miss the programmable web (2021)",
       "https://matt-rickard.com/the-programmable-web/"
     ]
   ],
@@ -247,6 +247,16 @@
     [
       "Antique Display Driving",
       "https://www.os2museum.com/wp/antique-display-driving/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 22:36:22",
+      "https://news.ycombinator.com/item?id=32282522"
+    ],
+    [
+      "The Logical Writings of Karl Popper",
+      "https://link.springer.com/book/10.1007/978-3-030-94926-6"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Larkin is a love poet who doesn’t trust love",
       "https://www.newstatesman.com/culture/books/larkin-at-100/2022/07/rowan-williams-philip-larkin-centenary"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 16:27:33",
-      "https://news.ycombinator.com/item?id=32266554"
-    ],
-    [
-      "Creating an Intranet Like the Internet",
-      "https://www.maatt.fr/blog/intranet-like-the-internet/"
     ]
   ]
 ]
