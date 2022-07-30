@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-07-30, 16:04:12",
+      "https://news.ycombinator.com/item?id=32287828"
+    ],
+    [
+      "Bevy 0.8: data oriented game engine built in Rust",
+      "https://bevyengine.org/news/bevy-0-8/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 15:51:46",
+      "https://news.ycombinator.com/item?id=32287736"
+    ],
+    [
+      "A Master Perfumer's Reflections on Patchouli and Vetiver",
+      "https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 15:46:05",
+      "https://news.ycombinator.com/item?id=32287691"
+    ],
+    [
+      "Digital nomads take over Mexico City: “You're a fucking plague, locals hate you”",
+      "https://www.elmundo.es/papel/historias/2022/07/30/62e3d30cfdddff5d9c8b460f.html"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 15:35:15",
       "https://news.ycombinator.com/item?id=32287596"
     ],
@@ -51,12 +81,22 @@
   ],
   [
     [
-      "2022-07-30, 13:58:48",
-      "https://news.ycombinator.com/item?id=32286871"
+      "2022-07-30, 14:01:52",
+      "https://news.ycombinator.com/item?id=32286885"
     ],
     [
-      "Who Is Collecting Data from Your Car?",
-      "https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car"
+      "World’s Most Powerful Wave Energy Converter",
+      "https://energyindustryreview.com/renewables/bombora-mwave-solution-worlds-most-powerful-wave-energy-converter/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 13:39:19",
+      "https://news.ycombinator.com/item?id=32286730"
+    ],
+    [
+      "ExifLooter – finds geolocation info on all URLs and directories",
+      "https://github.com/aydinnyunus/exifLooter"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Allocating resources where they solve the most important problems",
       "https://terraformindustries.com/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 13:01:50",
-      "https://news.ycombinator.com/item?id=32286449"
-    ],
-    [
-      "Plaid but for Healthcare",
-      "https://www.healthcompiler.com/LP-API"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-07-30, 10:22:36",
-      "https://news.ycombinator.com/item?id=32285632"
-    ],
-    [
-      "Lisp in Vim (2019)",
-      "https://susam.net/blog/lisp-in-vim.html"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 10:15:44",
       "https://news.ycombinator.com/item?id=32285609"
     ],
     [
       "Router Security",
       "https://routersecurity.org/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 09:04:59",
-      "https://news.ycombinator.com/item?id=32285365"
-    ],
-    [
-      "Show HN: BMList - A list of big pre-trained models (GPT-3, DALL-E2...)",
-      "https://github.com/OpenBMB/BMList"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Photogrammetry Guide",
       "https://github.com/mikeroyal/Photogrammetry-Guide"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 02:13:16",
-      "https://news.ycombinator.com/item?id=32283702"
-    ],
-    [
-      "The Fourth Operation: What Comes After Exponentiation",
-      "http://ariwatch.com/VS/Algorithms/TheFourthOperation.htm"
     ]
   ],
   [
