@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-07-30, 10:22:36",
+      "https://news.ycombinator.com/item?id=32285632"
+    ],
+    [
+      "Lisp in Vim (2019)",
+      "https://susam.net/blog/lisp-in-vim.html"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 10:15:44",
       "https://news.ycombinator.com/item?id=32285609"
     ],
@@ -97,6 +107,16 @@
     [
       "Dear startups: I hate subscription services",
       "https://fangdaddy.medium.com/dear-startups-i-hate-subscription-services-aecefeb0f089"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 07:57:25",
+      "https://news.ycombinator.com/item?id=32285122"
+    ],
+    [
+      "Safety: A comparaison between Rust, C++ and Go",
+      "https://nested.substack.com/p/safety"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Why Hypergraphs? (2013)",
       "https://blog.opencog.org/2013/03/24/why-hypergraphs/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 23:45:47",
-      "https://news.ycombinator.com/item?id=32282954"
-    ],
-    [
-      "Show HN: P2PCF – Low cost, low effort WebRTC signalling using Cloudflare workers",
-      "https://github.com/gfodor/p2pcf"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Importance of (Exponentially More) Computing Power",
       "https://arxiv.org/abs/2206.14007"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 12:25:39",
-      "https://news.ycombinator.com/item?id=32276017"
-    ],
-    [
-      "How far can you go by train in 5h?",
-      "https://chronotrains-eu.vercel.app/"
     ]
   ],
   [
