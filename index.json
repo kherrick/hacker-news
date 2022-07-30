@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-07-30, 19:51:41",
+      "https://news.ycombinator.com/item?id=32289705"
+    ],
+    [
+      "A billion-dollar industry helping students at Australian universities cheat",
+      "https://www.abc.net.au/news/2022-07-30/cheating-rife-australian-unis-online-assessments-covid/101277426"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 19:49:32",
       "https://news.ycombinator.com/item?id=32289695"
     ],
@@ -37,16 +47,6 @@
     [
       "Carbon’s most exciting feature is its calling convention",
       "https://www.foonathan.net/2022/07/carbon-calling-convention/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 17:44:39",
-      "https://news.ycombinator.com/item?id=32288732"
-    ],
-    [
-      "Libredirect – Redirect social media and websites to privacy friendly front ends",
-      "https://libredirect.github.io"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes",
       "https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 16:47:22",
-      "https://news.ycombinator.com/item?id=32288193"
-    ],
-    [
-      "Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions",
-      "https://github.com/kovisoft/paredit"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2022-07-30, 13:39:19",
+      "https://news.ycombinator.com/item?id=32286730"
+    ],
+    [
+      "ExifLooter – finds geolocation info on all URLs and directories",
+      "https://github.com/aydinnyunus/exifLooter"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 13:14:43",
       "https://news.ycombinator.com/item?id=32286531"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-07-29, 22:24:58",
-      "https://news.ycombinator.com/item?id=32282446"
-    ],
-    [
-      "Brazil’s cars have run on ‘green fuel’ for a century, but not without costs",
-      "https://www.historytoday.com/archive/history-matters/its-not-easy-being-green"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 16:58:37",
       "https://news.ycombinator.com/item?id=32279320"
     ],
     [
       "Do hair transplants debunk the scalp tension-hair loss hypothesis? (2021)",
       "https://perfecthairhealth.com/hair-transplants-debunk-scalp-tension-hair-loss/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 16:36:46",
+      "https://news.ycombinator.com/item?id=32279070"
+    ],
+    [
+      "Building a Recursive DNS Resolver",
+      "https://timothya.com/blog/dns/"
     ]
   ],
   [
