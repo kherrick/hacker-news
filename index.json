@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-30, 12:54:22",
+      "https://news.ycombinator.com/item?id=32286408"
+    ],
+    [
+      "Serverless DNS: Self-Hosted DNS Resolver at the Edge",
+      "https://github.com/serverless-dns/serverless-dns"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 12:29:27",
+      "https://news.ycombinator.com/item?id=32286265"
+    ],
+    [
+      "When do you guys think Wayland will be broadly supported?",
+      "https://news.ycombinator.com/item?id=32286265"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 12:00:27",
       "https://news.ycombinator.com/item?id=32286123"
     ],
@@ -27,16 +47,6 @@
     [
       "Recommended settings for Wi-Fi routers and access points",
       "https://support.apple.com/en-us/HT202068"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 10:22:36",
-      "https://news.ycombinator.com/item?id=32285632"
-    ],
-    [
-      "Lisp in Vim (2019)",
-      "https://susam.net/blog/lisp-in-vim.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-07-29, 19:44:38",
-      "https://news.ycombinator.com/item?id=32281016"
-    ],
-    [
-      "Wordris",
-      "https://mwenge.github.io/wordris/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 19:32:50",
       "https://news.ycombinator.com/item?id=32280903"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-07-29, 08:11:49",
-      "https://news.ycombinator.com/item?id=32274307"
+      "2022-07-29, 12:25:39",
+      "https://news.ycombinator.com/item?id=32276017"
     ],
     [
-      "Study outlines privacy risks in metaverse virtual worlds",
-      "https://www.theregister.com/2022/07/29/metaverse_privacy_study/"
+      "How far can you go by train in 5h?",
+      "https://chronotrains-eu.vercel.app/"
     ]
   ],
   [
