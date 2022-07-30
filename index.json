@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-30, 02:14:44",
+      "https://news.ycombinator.com/item?id=32283712"
+    ],
+    [
+      "Aldous Huxley’s Version of the Disney “Alice” (2020)",
+      "https://cartoonresearch.com/index.php/aldous-huxleys-version-of-the-disney-alice/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 01:40:13",
+      "https://news.ycombinator.com/item?id=32283582"
+    ],
+    [
+      "PayPal and Steam are banned in Indonesia",
+      "https://kominfo.go.id/content/detail/43385/siaran-pers-no-308hmkominfo072022-tentang-pendaftaran-penyelenggara-sistem-elektronik-pse-lingkup-privat/0/siaran_pers"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 23:57:49",
       "https://news.ycombinator.com/item?id=32283022"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2022-07-29, 22:28:22",
-      "https://news.ycombinator.com/item?id=32282467"
+      "2022-07-29, 23:03:42",
+      "https://news.ycombinator.com/item?id=32282686"
     ],
     [
-      "Jitter a Git-based binary manager for Linux written in Nim",
-      "https://github.com/sharpcdf/jitter"
+      "Why does nobody seem to know what imperative and declarative mean?",
+      "https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32282305"
     ],
     [
-      "Remote Attestation is coming back. How much freedom will it take?",
+      "Remote Attestation is coming back",
       "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/"
     ]
   ],
@@ -57,6 +77,16 @@
     [
       "IR Decoding with BPF",
       "https://lwn.net/Articles/759188/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 21:38:03",
+      "https://news.ycombinator.com/item?id=32282061"
+    ],
+    [
+      "Getting started with decentralized identity",
+      "https://www.nathangould.com/posts/how-to-get-started-learning-web5/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "The Kubrick Times",
       "https://vole.wtf/kubrick-times/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 19:39:33",
-      "https://news.ycombinator.com/item?id=32280975"
-    ],
-    [
-      "911 Proxy Service Implodes After Disclosing Breach",
-      "https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/"
     ]
   ],
   [
@@ -231,42 +251,22 @@
   ],
   [
     [
-      "2022-07-29, 12:14:26",
-      "https://news.ycombinator.com/item?id=32275940"
-    ],
-    [
-      "Joni Mitchell learned to play guitar again after a 2015 brain aneurysm",
-      "https://www.openculture.com/2022/07/how-joni-mitchell-relearned-to-play-guitar-after-a-2015-brain-aneurysm.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 10:28:48",
-      "https://news.ycombinator.com/item?id=32275229"
-    ],
-    [
-      "‘Voyager on steroids.’ Mission would probe region beyond our Solar System",
-      "https://www.science.org/content/article/voyager-steroids-mission-probe-mysterious-region-beyond-solar-system"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 10:08:11",
-      "https://news.ycombinator.com/item?id=32275078"
-    ],
-    [
-      "Why the Windows Registry sucks technically (2010)",
-      "https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 09:19:45",
       "https://news.ycombinator.com/item?id=32274714"
     ],
     [
       "Settling in for the Long Haul",
       "https://crookedtimber.org/2022/07/05/settling-in-for-the-long-haul/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 07:37:43",
+      "https://news.ycombinator.com/item?id=32274106"
+    ],
+    [
+      "The secret life of Unicode (2001)",
+      "https://web.archive.org/web/20131216023226/http://www.ibm.com/developerworks/library/u-secret.html"
     ]
   ],
   [
