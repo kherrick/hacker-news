@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-07-29, 23:57:49",
+      "https://news.ycombinator.com/item?id=32283022"
+    ],
+    [
+      "Why Hypergraphs? (2013)",
+      "https://blog.opencog.org/2013/03/24/why-hypergraphs/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 23:44:22",
+      "https://news.ycombinator.com/item?id=32282942"
+    ],
+    [
+      "Yandex open sources C++ asynchronous framework",
+      "https://userver.tech/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 22:28:22",
       "https://news.ycombinator.com/item?id=32282467"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2022-07-29, 21:38:03",
-      "https://news.ycombinator.com/item?id=32282061"
-    ],
-    [
-      "Getting started with decentralized identity",
-      "https://www.nathangould.com/posts/how-to-get-started-learning-web5/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 21:00:22",
       "https://news.ycombinator.com/item?id=32281713"
     ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2022-07-29, 20:32:37",
-      "https://news.ycombinator.com/item?id=32281446"
-    ],
-    [
-      "Build Unix, Not Uber",
-      "https://thesephist.com/posts/legacy/"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 20:04:12",
       "https://news.ycombinator.com/item?id=32281218"
     ],
     [
       "Photovoltaic Solar Panels (1905)",
       "https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 19:44:38",
-      "https://news.ycombinator.com/item?id=32281016"
-    ],
-    [
-      "Wordris",
-      "https://mwenge.github.io/wordris/"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2022-07-28, 17:20:09",
-      "https://news.ycombinator.com/item?id=32267436"
+      "2022-07-29, 09:19:45",
+      "https://news.ycombinator.com/item?id=32274714"
     ],
     [
-      "Corrupting memory without memory corruption",
-      "https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/"
+      "Settling in for the Long Haul",
+      "https://crookedtimber.org/2022/07/05/settling-in-for-the-long-haul/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Nobody Optimizes Happiness",
       "https://dynomight.net/happiness/"
+    ]
+  ],
+  [
+    [
+      "2022-07-28, 16:21:21",
+      "https://news.ycombinator.com/item?id=32266462"
+    ],
+    [
+      "Cmacro: Lisp Macros for C",
+      "https://github.com/eudoxia0/cmacro"
     ]
   ],
   [
