@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-07-30, 17:00:49",
+      "https://news.ycombinator.com/item?id=32288316"
+    ],
+    [
+      "Firezone (YC W22) is hiring a founding engineer – Elixir and networking",
+      "https://www.ycombinator.com/companies/firezone/jobs/y97q8A0-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:57:10",
+      "https://news.ycombinator.com/item?id=32288293"
+    ],
+    [
+      "The richer they get, the more meat they eat",
+      "https://spectrum.ieee.org/meat-eater"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:57:03",
+      "https://news.ycombinator.com/item?id=32288291"
+    ],
+    [
+      "Clojure needs a Rails, but not for the reason you think",
+      "https://blog.janetacarr.com/clojure-needs-a-rails/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 16:52:14",
+      "https://news.ycombinator.com/item?id=32288247"
+    ],
+    [
+      "Why Punish?",
+      "https://thereader.mitpress.mit.edu/why-punish/"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 16:47:39",
       "https://news.ycombinator.com/item?id=32288195"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32288193"
     ],
     [
-      "paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions",
+      "Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions",
       "https://github.com/kovisoft/paredit"
     ]
   ],
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2022-07-30, 16:04:12",
-      "https://news.ycombinator.com/item?id=32287828"
-    ],
-    [
-      "Bevy 0.8: data oriented game engine built in Rust",
-      "https://bevyengine.org/news/bevy-0-8/"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 15:51:46",
       "https://news.ycombinator.com/item?id=32287736"
     ],
@@ -91,22 +121,22 @@
   ],
   [
     [
-      "2022-07-30, 14:41:21",
-      "https://news.ycombinator.com/item?id=32287150"
-    ],
-    [
-      "What happens when society collapses (2021)",
-      "https://readysquirrel.com/what-happens-when-society-collapses/"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 14:01:52",
       "https://news.ycombinator.com/item?id=32286885"
     ],
     [
-      "World’s Most Powerful Wave Energy Converter",
+      "Bombora mWave Solution: Wave Energy Converter",
       "https://energyindustryreview.com/renewables/bombora-mwave-solution-worlds-most-powerful-wave-energy-converter/"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 13:58:48",
+      "https://news.ycombinator.com/item?id=32286871"
+    ],
+    [
+      "Who is collecting data from your car?",
+      "https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car"
     ]
   ],
   [
@@ -157,26 +187,6 @@
     [
       "CZ5B (Chinese rocket) Reentry Prediction",
       "https://aerospace.org/reentries/cz-5b-rb-id-53240"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 12:03:10",
-      "https://news.ycombinator.com/item?id=32286142"
-    ],
-    [
-      "Review of 17α-ethynylestradiol in water across 32 countries: Estrogenic effects",
-      "https://pubmed.ncbi.nlm.nih.gov/34023789/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 12:00:27",
-      "https://news.ycombinator.com/item?id=32286123"
-    ],
-    [
-      "Sieve (YC W22) is building plug-and-play APIs for video AI",
-      "https://www.sievedata.com/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2022-07-29, 22:56:00",
+      "https://news.ycombinator.com/item?id=32282632"
+    ],
+    [
+      "US regulators will certify first small nuclear reactor design",
+      "https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 22:37:55",
       "https://news.ycombinator.com/item?id=32282535"
     ],
@@ -267,26 +287,6 @@
     [
       "Brazil’s cars have run on ‘green fuel’ for a century, but not without costs",
       "https://www.historytoday.com/archive/history-matters/its-not-easy-being-green"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 20:39:18",
-      "https://news.ycombinator.com/item?id=32281497"
-    ],
-    [
-      "A Hazard Analysis Framework for Code Synthesis Large Language Models",
-      "https://arxiv.org/abs/2207.14157"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 12:52:31",
-      "https://news.ycombinator.com/item?id=32276219"
-    ],
-    [
-      "The Importance of (Exponentially More) Computing Power",
-      "https://arxiv.org/abs/2206.14007"
     ]
   ],
   [
