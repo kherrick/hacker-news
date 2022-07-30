@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-30, 07:57:25",
+      "https://news.ycombinator.com/item?id=32285122"
+    ],
+    [
+      "Safety: A comparaison between Rust, C++ and Go",
+      "https://nested.substack.com/p/safety"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 04:51:53",
       "https://news.ycombinator.com/item?id=32284375"
     ],
@@ -147,16 +157,6 @@
     [
       "Notebook Dataflow Debugger (Ndd)",
       "https://observablehq.com/@tomlarkworthy/ndd"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 18:31:54",
-      "https://news.ycombinator.com/item?id=32280306"
-    ],
-    [
-      "Project Euler on a Microcontroller",
-      "https://shawnnapora.github.io/blog/2022/07/29/euler-on-micro/"
     ]
   ],
   [
