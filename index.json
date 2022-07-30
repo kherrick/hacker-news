@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-30, 18:43:08",
+      "https://news.ycombinator.com/item?id=32289225"
+    ],
+    [
+      "Carbon’s most exciting feature is its calling convention",
+      "https://www.foonathan.net/2022/07/carbon-calling-convention/"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 17:44:39",
       "https://news.ycombinator.com/item?id=32288732"
     ],
@@ -77,16 +87,6 @@
     [
       "Clojure needs a Rails",
       "https://blog.janetacarr.com/clojure-needs-a-rails/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 16:52:14",
-      "https://news.ycombinator.com/item?id=32288247"
-    ],
-    [
-      "Why Punish?",
-      "https://thereader.mitpress.mit.edu/why-punish/"
     ]
   ],
   [
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=32279320"
     ],
     [
-      "Do Hair Transplants Debunk the Scalp Tension-Hair Loss Hypothesis? (2021)",
+      "Do hair transplants debunk the scalp tension-hair loss hypothesis? (2021)",
       "https://perfecthairhealth.com/hair-transplants-debunk-scalp-tension-hair-loss/"
     ]
   ],
   [
     [
-      "2022-07-29, 03:37:46",
-      "https://news.ycombinator.com/item?id=32272893"
+      "2022-07-28, 19:49:05",
+      "https://news.ycombinator.com/item?id=32269287"
     ],
     [
-      "Larkin is a love poet who doesn’t trust love",
-      "https://www.newstatesman.com/culture/books/larkin-at-100/2022/07/rowan-williams-philip-larkin-centenary"
+      "Show HN: Distributed SQLite on FoundationDB",
+      "https://github.com/losfair/mvsqlite"
     ]
   ]
 ]
