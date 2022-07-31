@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32295674"
     ],
     [
-      "Google Timer Is Gone",
+      "Google Timer is gone",
       "https://www.google.com/search?q=6+minute+timer"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2022-07-31, 13:17:00",
+      "https://news.ycombinator.com/item?id=32295291"
+    ],
+    [
+      "Codebot.Tiny – A tiny library for rendering animated 2D/3D graphics",
+      "https://github.com/sysrpl/Tiny.Sim"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 13:07:44",
       "https://news.ycombinator.com/item?id=32295251"
     ],
@@ -125,8 +135,8 @@
       "https://news.ycombinator.com/item?id=32295243"
     ],
     [
-      "Harvard CS109A, fully open and free",
-      "https://harvard-iacs.github.io/2019-CS109A/pages/materials.html"
+      "CS109a: Introduction to Data Science – Resources",
+      "https://harvard-iacs.github.io/2021-CS109A/pages/materials.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Hitachi Wood Plug Cutter Works Perfectly in Hand Held Drills (2013)",
       "https://paulsellers.com/2013/06/hitachi-plug-cutter-works-perfeclty-in-hand-held-drills/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 10:26:14",
-      "https://news.ycombinator.com/item?id=32294605"
-    ],
-    [
-      "List of changes announced for AWS that may break existing code",
-      "https://github.com/SummitRoute/aws_breaking_changes"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32293178"
     ],
     [
-      "I've been making JavaScript sandbox alone for 6 years",
+      "Show HN: I've been making JavaScript sandbox alone for 6 years",
       "https://playcode.io/"
     ]
   ],
