@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-07-31, 06:21:08",
+      "https://news.ycombinator.com/item?id=32293649"
+    ],
+    [
+      "Atari 2600 Service Manual [pdf]",
+      "https://console5.com/techwiki/images/e/ec/2600_Field_Service_Manual.pdf"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 06:09:03",
       "https://news.ycombinator.com/item?id=32293592"
     ],
@@ -47,6 +57,16 @@
     [
       "Seeking mathematical truth in counterfeit coin puzzles",
       "https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 03:45:43",
+      "https://news.ycombinator.com/item?id=32292973"
+    ],
+    [
+      "Speedbump: TCP proxy for simulating variable, yet predictable network latency",
+      "https://github.com/kffl/speedbump"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-07-30, 20:17:04",
-      "https://news.ycombinator.com/item?id=32289898"
-    ],
-    [
-      "The Node ecosystem still has tooling problems",
-      "https://maxleiter.com/blog/node-has-tooling-problems"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 18:43:08",
       "https://news.ycombinator.com/item?id=32289225"
     ],
@@ -147,16 +157,6 @@
     [
       "Small pleasures of programming (2020)",
       "https://terrycrowley.medium.com/small-pleasures-of-programming-ae4f50dde67a"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 16:45:02",
-      "https://news.ycombinator.com/item?id=32288165"
-    ],
-    [
-      "A SQLite extension for reading large files line-by-line",
-      "https://github.com/asg017/sqlite-lines"
     ]
   ],
   [
