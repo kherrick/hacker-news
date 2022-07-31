@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-07-31, 07:03:01",
+      "https://news.ycombinator.com/item?id=32293825"
+    ],
+    [
+      "Stacker (YC S20) Is Hiring for Product Engineer's",
+      "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 06:09:03",
       "https://news.ycombinator.com/item?id=32293592"
     ],
@@ -37,6 +47,16 @@
     [
       "Seeking mathematical truth in counterfeit coin puzzles",
       "https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 03:45:43",
+      "https://news.ycombinator.com/item?id=32292973"
+    ],
+    [
+      "Speedbump: TCP proxy for simulating variable, yet predictable network latency",
+      "https://github.com/kffl/speedbump"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-07-30, 21:00:51",
-      "https://news.ycombinator.com/item?id=32290275"
-    ],
-    [
-      "Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations",
-      "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 20:17:04",
       "https://news.ycombinator.com/item?id=32289898"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-07-30, 16:45:02",
-      "https://news.ycombinator.com/item?id=32288165"
-    ],
-    [
-      "A SQLite extension for reading large files line-by-line",
-      "https://github.com/asg017/sqlite-lines"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 16:32:46",
       "https://news.ycombinator.com/item?id=32288058"
     ],
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2022-07-30, 15:51:46",
-      "https://news.ycombinator.com/item?id=32287736"
-    ],
-    [
-      "A Master Perfumer's Reflections on Patchouli and Vetiver",
-      "https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver/"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 13:58:48",
       "https://news.ycombinator.com/item?id=32286871"
     ],
     [
       "Who is collecting data from your car?",
       "https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 11:06:49",
+      "https://news.ycombinator.com/item?id=32285853"
+    ],
+    [
+      "Locking Engineering Principles",
+      "https://blog.ffwll.ch/2022/07/locking-engineering.html"
     ]
   ],
   [
