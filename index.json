@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-07-31, 00:31:21",
-      "https://news.ycombinator.com/item?id=32291822"
+      "2022-07-31, 01:58:54",
+      "https://news.ycombinator.com/item?id=32292446"
     ],
     [
-      "Million: less than 1kb virtual DOM that is really fast",
-      "https://millionjs.org/"
+      "Is Selling Shares in Yourself the Way of the Future?",
+      "https://www.newyorker.com/magazine/2022/08/01/is-selling-shares-in-yourself-the-way-of-the-future"
     ]
   ],
   [
     [
-      "2022-07-30, 22:56:39",
-      "https://news.ycombinator.com/item?id=32291213"
+      "2022-07-31, 00:57:43",
+      "https://news.ycombinator.com/item?id=32292012"
     ],
     [
-      "I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To",
-      "https://weh.wtf/34-blockchain-projects.html"
+      "Professor Maynard Burned Down",
+      "https://nymag.com/intelligencer/article/gary-maynard-professor-arson-trial.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 00:55:40",
+      "https://news.ycombinator.com/item?id=32291993"
+    ],
+    [
+      "Famous HNers and Their Sites",
+      "https://jessimekirk.com/blog/hn_users_links/"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 00:31:21",
+      "https://news.ycombinator.com/item?id=32291822"
+    ],
+    [
+      "Million: less than 1kb virtual DOM that is fast",
+      "https://millionjs.org/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32290716"
     ],
     [
-      "Challenges of building a peer-to-peer replacement for the web",
+      "Challenges in building a decentralized web",
       "https://educatedguesswork.org/posts/challenges-web-decentralization/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32289898"
     ],
     [
-      "The Node ecosystem (still) has tooling problems",
+      "The Node ecosystem still has tooling problems",
       "https://maxleiter.com/blog/node-has-tooling-problems"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Carbon’s most exciting feature is its calling convention",
       "https://www.foonathan.net/2022/07/carbon-calling-convention/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 16:58:56",
-      "https://news.ycombinator.com/item?id=32288309"
-    ],
-    [
-      "Mr. Rogers sued the KKK",
-      "https://allthatsinteresting.com/mr-rogers-sues-the-kkk"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2022-07-30, 13:14:43",
-      "https://news.ycombinator.com/item?id=32286531"
-    ],
-    [
-      "An accentuated Emacs experiment (à la macOS)",
-      "https://xenodium.com/an-accentuated-emacs-experiment/"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 12:54:22",
       "https://news.ycombinator.com/item?id=32286408"
     ],
     [
       "Serverless DNS: Self-hosted DNS resolver at the edge",
       "https://github.com/serverless-dns/serverless-dns"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 10:25:01",
-      "https://news.ycombinator.com/item?id=32285638"
-    ],
-    [
-      "Recommended settings for Wi-Fi routers and access points",
-      "https://support.apple.com/en-us/HT202068"
     ]
   ],
   [
@@ -251,22 +241,12 @@
   ],
   [
     [
-      "2022-07-29, 17:39:39",
-      "https://news.ycombinator.com/item?id=32279794"
-    ],
-    [
-      "WordTeX – A WYSIPCTWOTCG Typesetting Tool (2018) [video]",
-      "https://www.youtube.com/watch?v=jlX_pThh7z8"
-    ]
-  ],
-  [
-    [
       "2022-07-29, 17:00:49",
       "https://news.ycombinator.com/item?id=32279344"
     ],
     [
       "Fibre-optic cables could be used to spy on people a kilometre away",
-      "https://www.newscientist.com/article/2330763-fibre-optic-cables-could-be-used-to-spy-on-people-a-kilometre-away/"
+      "https://arxiv.org/abs/2207.05267"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Repurposing the cadaver of a spider to create a pneumatically actuated gripper",
       "https://spectrum.ieee.org/robot-bugs"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 15:39:36",
+      "https://news.ycombinator.com/item?id=32278345"
+    ],
+    [
+      "Critical SIP Bypass Vulnerabilities in macOS PackageKit.framework",
+      "https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 15:35:46",
+      "https://news.ycombinator.com/item?id=32278299"
+    ],
+    [
+      "The Engineering Profession’s Role In Accelerating Technological Innovation",
+      "https://www.hoover.org/research/engineering-professions-role-accelerating-technological-innovation"
     ]
   ],
   [
