@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2022-07-30, 22:25:43",
+      "https://news.ycombinator.com/item?id=32290978"
+    ],
+    [
+      "Show HN: DALL-E Chess in Jungle and Dunes",
+      "https://imgur.com/a/1yBPuRA"
+    ]
+  ],
+  [
+    [
       "2022-07-30, 22:11:43",
       "https://news.ycombinator.com/item?id=32290869"
     ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2022-07-29, 17:01:43",
+      "https://news.ycombinator.com/item?id=32279359"
+    ],
+    [
+      "Dogelog player is a Prolog system for the JavaScript and the Python platform",
+      "http://www.xlog.ch/izytab/doclet/en/docs/23_products/05_dogelog/package.html"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 17:00:49",
       "https://news.ycombinator.com/item?id=32279344"
     ],
@@ -277,26 +297,6 @@
     [
       "Critical SIP Bypass Vulnerabilities in macOS PackageKit.framework",
       "https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 15:35:46",
-      "https://news.ycombinator.com/item?id=32278299"
-    ],
-    [
-      "The engineering profession’s role in accelerating technological innovation",
-      "https://www.hoover.org/research/engineering-professions-role-accelerating-technological-innovation"
-    ]
-  ],
-  [
-    [
-      "2022-07-28, 19:49:05",
-      "https://news.ycombinator.com/item?id=32269287"
-    ],
-    [
-      "Show HN: Distributed SQLite on FoundationDB",
-      "https://github.com/losfair/mvsqlite"
     ]
   ]
 ]
