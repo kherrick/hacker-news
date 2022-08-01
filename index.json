@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-01, 21:49:07",
+      "https://news.ycombinator.com/item?id=32312479"
+    ],
+    [
+      "Cardpunch: Punch a Punched Card",
+      "http://www.kloth.net/services/cardpunch.php"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 21:45:25",
+      "https://news.ycombinator.com/item?id=32312441"
+    ],
+    [
+      "I have 218 browser tabs open",
+      "https://michaelsalim.co.uk/blog/i-have-218-browser-tabs-open/"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 21:42:53",
       "https://news.ycombinator.com/item?id=32312413"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-08-01, 11:42:22",
-      "https://news.ycombinator.com/item?id=32304618"
-    ],
-    [
-      "Formally Verifying Rust's Opaque Types",
-      "https://dylanj.xyz/posts/rust-coq-opaque-types/"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 11:22:18",
       "https://news.ycombinator.com/item?id=32304456"
     ],
@@ -247,16 +257,6 @@
     [
       "Annotated Version of Boole's Algebra of Logic from 1847 [pdf]",
       "http://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 09:14:20",
-      "https://news.ycombinator.com/item?id=32294378"
-    ],
-    [
-      "The Mathematics Behind Monitoring",
-      "https://dejanualexandru.medium.com/the-mathematics-behind-monitoring-ddbd9403c32c"
     ]
   ],
   [
