@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-01, 12:08:23",
+      "https://news.ycombinator.com/item?id=32304834"
+    ],
+    [
+      "Ask HN: Have You Left Kubernetes?",
+      "https://news.ycombinator.com/item?id=32304834"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 11:42:22",
+      "https://news.ycombinator.com/item?id=32304618"
+    ],
+    [
+      "Formally Verifying Rust's Opaque Types",
+      "https://dylanj.xyz/posts/rust-coq-opaque-types/"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 11:05:23",
       "https://news.ycombinator.com/item?id=32304320"
     ],
@@ -17,6 +37,16 @@
     [
       "Nichelle Nichols Has Died",
       "https://twitter.com/shanselman/status/1553830587122601984"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 10:40:37",
+      "https://news.ycombinator.com/item?id=32304150"
+    ],
+    [
+      "Show HN: RandomGeo.City – Browse Random Geocities Websites",
+      "https://randomgeo.city/?seed=Ivs6PH"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32303592"
     ],
     [
-      "Linus releases the 5.19 kernel from an M1 MacBook",
+      "Linux 5.19",
       "https://lwn.net/Articles/903033/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Show HN: White Label Any Webpage",
       "https://ablyhost.com/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 08:02:11",
-      "https://news.ycombinator.com/item?id=32303279"
-    ],
-    [
-      "Wikipedia has blocked editing ‘recession’ as people change definition",
-      "https://fortune.com/2022/07/29/wikipedia-recession-definition-debate-partial-blocking-new-users/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Gitea 1.17.0 is released – includes package registry support",
       "https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 03:58:27",
-      "https://news.ycombinator.com/item?id=32301890"
-    ],
-    [
-      "What ever happened to xmms.org? (2010)",
-      "https://web.archive.org/web/20200813165218/https://thieta.wordpress.com/2010/04/28/what-ever-happened-to-xmms-org/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Australian activist can't use encrypted apps, must let police access phone",
       "https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 21:01:03",
-      "https://news.ycombinator.com/item?id=32298801"
-    ],
-    [
-      "Patterns (YC S21) is hiring devs to build the Figma for data",
-      "https://www.patterns.app/"
     ]
   ],
   [
