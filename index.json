@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-08-01, 13:57:25",
+      "https://news.ycombinator.com/item?id=32305997"
+    ],
+    [
+      "Books that have helped me the most as a software engineer",
+      "https://software-engineering-books.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 13:48:49",
+      "https://news.ycombinator.com/item?id=32305900"
+    ],
+    [
+      "Faster CRC32-C on x86",
+      "https://www.corsix.org/content/fast-crc32c-4k"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 13:18:47",
+      "https://news.ycombinator.com/item?id=32305536"
+    ],
+    [
+      "I shaved 80 MB from my TypeScript build by removing googleapis",
+      "https://effectivetypescript.com/2022/07/30/treemap-for-source-files/"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 12:08:23",
       "https://news.ycombinator.com/item?id=32304834"
     ],
     [
       "Ask HN: Have You Left Kubernetes?",
       "https://news.ycombinator.com/item?id=32304834"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 12:07:18",
+      "https://news.ycombinator.com/item?id=32304824"
+    ],
+    [
+      "Show HN: Tech Compensation in Europe",
+      "https://techpays.eu/"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2022-08-01, 10:32:34",
-      "https://news.ycombinator.com/item?id=32304103"
-    ],
-    [
-      "Intel let the chips fall where they might",
-      "https://www.nextplatform.com/2022/07/29/intel-let-the-chips-fall-where-they-might/"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 10:20:32",
       "https://news.ycombinator.com/item?id=32304011"
     ],
@@ -127,16 +157,6 @@
     [
       "Linux 5.19",
       "https://lwn.net/Articles/903033/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 08:02:11",
-      "https://news.ycombinator.com/item?id=32303279"
-    ],
-    [
-      "Wikipedia has blocked editing ‘recession’ as people change definition",
-      "https://fortune.com/2022/07/29/wikipedia-recession-definition-debate-partial-blocking-new-users/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-08-01, 02:59:58",
-      "https://news.ycombinator.com/item?id=32301460"
-    ],
-    [
-      "Apple Rhapsody revisited, to go (2014)",
-      "http://tenfourfox.blogspot.com/2014/08/and-now-for-something-completely.html"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 01:57:04",
       "https://news.ycombinator.com/item?id=32301008"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-08-01, 00:32:27",
-      "https://news.ycombinator.com/item?id=32300356"
-    ],
-    [
-      "Public domain POSIX make",
-      "https://frippery.org/make/"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 00:32:03",
       "https://news.ycombinator.com/item?id=32300351"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-07-31, 18:52:44",
-      "https://news.ycombinator.com/item?id=32297760"
+      "2022-07-31, 07:17:11",
+      "https://news.ycombinator.com/item?id=32293880"
     ],
     [
-      "EasyRPG",
-      "https://easyrpg.org/"
+      "Show HN: BDC – Ergonomic, sub 1KiB virtual DOM library",
+      "https://github.com/bwhmather/bdc-js"
     ]
   ],
   [
