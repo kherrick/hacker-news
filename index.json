@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-01, 04:36:30",
+      "https://news.ycombinator.com/item?id=32302120"
+    ],
+    [
+      "Karmem: A fast binary serialization format faster than Google Flatbuffers",
+      "https://github.com/inkeliz/karmem"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 04:04:40",
       "https://news.ycombinator.com/item?id=32301936"
     ],
@@ -27,6 +37,16 @@
     [
       "Max Headroom is getting rebooted",
       "https://www.vanityfair.com/hollywood/2022/07/max-headroom-the-strange-pre-internet-ai-phenomenon-is-getting-rebooted"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 02:40:48",
+      "https://news.ycombinator.com/item?id=32301332"
+    ],
+    [
+      "Time for Army Corps of Engineers to investigate moving water West?",
+      "https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/07/30/army-corps-engineers-must-study-feasibility-moving-water-west/10160750002/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2022-08-01, 01:13:22",
-      "https://news.ycombinator.com/item?id=32300688"
-    ],
-    [
-      "Application Architecture: A Quick Guide for Startups",
-      "https://www.cockroachlabs.com/blog/startup-reference-architecture/"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 00:46:19",
       "https://news.ycombinator.com/item?id=32300466"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32300351"
     ],
     [
-      "Differentiable Programming from Scratch",
+      "Differentiable programming from scratch",
       "https://thenumb.at/Autodiff/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Australian activist can't use encrypted apps, must let police access phone",
       "https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 21:53:26",
-      "https://news.ycombinator.com/item?id=32299219"
-    ],
-    [
-      "The disintegrating cube",
-      "https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-07-30, 15:31:47",
-      "https://news.ycombinator.com/item?id=32287571"
+      "2022-07-30, 21:42:11",
+      "https://news.ycombinator.com/item?id=32290634"
     ],
     [
-      "How a cable modem works (c. 2002)",
-      "https://support.usr.com/support/6000/6000-ug/two.html"
+      "Pagefind: Static Low-Bandwidth Search at Scale",
+      "https://cloudcannon.com/blog/introducing-pagefind/"
     ]
   ],
   [
