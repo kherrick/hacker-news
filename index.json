@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-08-01, 18:41:57",
+      "https://news.ycombinator.com/item?id=32310392"
+    ],
+    [
+      "Discord Switching to React Native for Android App",
+      "https://discord.com/blog/android-react-native-framework-update"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 18:09:36",
       "https://news.ycombinator.com/item?id=32309953"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
       "https://github.com/phiresky/sqlite-zstd"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 07:43:01",
-      "https://news.ycombinator.com/item?id=32303193"
-    ],
-    [
-      "A Tutorial on Portable Makefiles (2017)",
-      "https://nullprogram.com/blog/2017/08/20/"
     ]
   ],
   [
