@@ -1,12 +1,82 @@
 [
   [
     [
-      "2022-08-01, 00:14:49",
-      "https://news.ycombinator.com/item?id=32300224"
+      "2022-08-01, 02:40:48",
+      "https://news.ycombinator.com/item?id=32301332"
     ],
     [
-      "Illegally placed concrete blocks have taken over public parking in Seattle",
-      "https://www.seattletimes.com/seattle-news/homeless/illegally-placed-concrete-blocks-have-taken-over-public-parking-in-seattle-why-are-they-there/"
+      "It's time for Army Corps of Engineers to investigate moving water West",
+      "https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/07/30/army-corps-engineers-must-study-feasibility-moving-water-west/10160750002/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 02:03:26",
+      "https://news.ycombinator.com/item?id=32301066"
+    ],
+    [
+      "Ten Things to Do After Installing FreeBSD",
+      "https://bastillebsd.org/blog/2022/07/14/ten-things-to-do-after-installing-freebsd/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 01:57:04",
+      "https://news.ycombinator.com/item?id=32301008"
+    ],
+    [
+      "Meshtastic: A Review",
+      "https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 01:37:43",
+      "https://news.ycombinator.com/item?id=32300864"
+    ],
+    [
+      "A Mormon housewife turned a fake diary into an enormous best-seller",
+      "https://www.newyorker.com/magazine/2022/08/01/how-a-mormon-housewife-turned-a-fake-diary-into-an-enormous-best-seller"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 01:27:15",
+      "https://news.ycombinator.com/item?id=32300785"
+    ],
+    [
+      "End of the Machinery Game Engine",
+      "https://news.ycombinator.com/item?id=32300785"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 00:46:19",
+      "https://news.ycombinator.com/item?id=32300466"
+    ],
+    [
+      "Why I built a dictionary app",
+      "https://www.wordnote.app/blog/why-i-built-dictionary-app"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 00:32:27",
+      "https://news.ycombinator.com/item?id=32300356"
+    ],
+    [
+      "Public domain POSIX make",
+      "https://frippery.org/make/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 00:32:03",
+      "https://news.ycombinator.com/item?id=32300351"
+    ],
+    [
+      "Differentiable Programming from Scratch",
+      "https://thenumb.at/Autodiff/"
     ]
   ],
   [
@@ -41,21 +111,11 @@
   ],
   [
     [
-      "2022-07-31, 22:00:19",
-      "https://news.ycombinator.com/item?id=32299271"
-    ],
-    [
-      "Linux 5.19",
-      "https://lore.kernel.org/lkml/CAHk-=wgrz5BBk=rCz7W28Fj_o02s0Xi0OEQ3H1uQgOdFvHgx0w@mail.gmail.com/T/#u"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 21:56:13",
       "https://news.ycombinator.com/item?id=32299244"
     ],
     [
-      "Greg can't use encrypted apps and must open his phone for police at any time",
+      "Australian activist can't use encrypted apps, must let police access phone",
       "https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038"
     ]
   ],
@@ -65,18 +125,8 @@
       "https://news.ycombinator.com/item?id=32299219"
     ],
     [
-      "The Disintegrating Cube",
+      "The disintegrating cube",
       "https://nevalalee.wordpress.com/2015/11/30/the-disintegrating-cube/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 21:39:00",
-      "https://news.ycombinator.com/item?id=32299114"
-    ],
-    [
-      "The New Era of Nicotine",
-      "https://invariant.substack.com/p/the-new-era-of-nicotine"
     ]
   ],
   [
@@ -97,16 +147,6 @@
     [
       "Patterns (YC S21) is hiring devs to build the Figma for data",
       "https://www.patterns.app/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 19:45:54",
-      "https://news.ycombinator.com/item?id=32298183"
-    ],
-    [
-      "Amazon’s plan to “neutralize” unions with ex-inmates and “vulnerable students”",
-      "https://www.vox.com/recode/23282640/leaked-internal-memo-reveals-amazons-anti-union-strategies-teamsters"
     ]
   ],
   [
@@ -145,18 +185,8 @@
       "https://news.ycombinator.com/item?id=32298058"
     ],
     [
-      "Kubernetes Reinvented Virtual Machines (in a good sense)",
+      "Kubernetes reinvented virtual machines in a good sense",
       "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 19:14:40",
-      "https://news.ycombinator.com/item?id=32297936"
-    ],
-    [
-      "Simple game programming through a comic",
-      "https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen"
     ]
   ],
   [
@@ -221,36 +251,6 @@
   ],
   [
     [
-      "2022-07-31, 11:50:22",
-      "https://news.ycombinator.com/item?id=32294928"
-    ],
-    [
-      "Hitachi Wood Plug Cutter Works Perfectly in Hand Held Drills (2013)",
-      "https://paulsellers.com/2013/06/hitachi-plug-cutter-works-perfeclty-in-hand-held-drills/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 10:06:55",
-      "https://news.ycombinator.com/item?id=32294528"
-    ],
-    [
-      "Study finds Wikipedia influences judicial behavior",
-      "https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 09:38:08",
-      "https://news.ycombinator.com/item?id=32294430"
-    ],
-    [
-      "Shor, I’ll do it (2007)",
-      "https://scottaaronson.blog/?p=208"
-    ]
-  ],
-  [
-    [
       "2022-07-30, 15:31:47",
       "https://news.ycombinator.com/item?id=32287571"
     ],
@@ -271,32 +271,32 @@
   ],
   [
     [
+      "2022-07-30, 02:29:34",
+      "https://news.ycombinator.com/item?id=32283783"
+    ],
+    [
+      "Fresnel Integral",
+      "https://en.wikipedia.org/wiki/Fresnel_integral"
+    ]
+  ],
+  [
+    [
+      "2022-07-30, 02:02:11",
+      "https://news.ycombinator.com/item?id=32283663"
+    ],
+    [
+      "Lyra: Fast, in-memory, typo-tolerant, full-text search engine in TypeScript",
+      "https://github.com/nearform/lyra"
+    ]
+  ],
+  [
+    [
       "2022-07-29, 20:34:23",
       "https://news.ycombinator.com/item?id=32281459"
     ],
     [
       "The many flavors of hashing",
       "https://notes.volution.ro/v1/2022/07/notes/1290a79c/"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 19:19:19",
-      "https://news.ycombinator.com/item?id=32280756"
-    ],
-    [
-      "Faked Crystallography",
-      "https://www.science.org/content/blog-post/faked-crystallography"
-    ]
-  ],
-  [
-    [
-      "2022-07-29, 16:14:03",
-      "https://news.ycombinator.com/item?id=32278773"
-    ],
-    [
-      "Modula-2 and Oberon (2007) [pdf]",
-      "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.105.9288&rep=rep1&type=pdf"
     ]
   ]
 ]
