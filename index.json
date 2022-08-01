@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-01, 14:18:48",
+      "https://news.ycombinator.com/item?id=32306281"
+    ],
+    [
+      "Running Zig with WASI on Cloudflare Workers",
+      "https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 13:57:25",
       "https://news.ycombinator.com/item?id=32305997"
     ],
     [
       "Books that have helped me the most as a software engineer",
       "https://software-engineering-books.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 13:51:42",
+      "https://news.ycombinator.com/item?id=32305934"
+    ],
+    [
+      "Net-zero commitments could limit warming to below 2 °C",
+      "https://www.nature.com/articles/d41586-022-00874-1"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-08-01, 07:18:54",
-      "https://news.ycombinator.com/item?id=32303052"
-    ],
-    [
-      "Docusaurus 2.0",
-      "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 04:36:30",
       "https://news.ycombinator.com/item?id=32302120"
     ],
@@ -267,16 +277,6 @@
     [
       "Pagefind: Static Low-Bandwidth Search at Scale",
       "https://cloudcannon.com/blog/introducing-pagefind/"
-    ]
-  ],
-  [
-    [
-      "2022-07-30, 02:29:34",
-      "https://news.ycombinator.com/item?id=32283783"
-    ],
-    [
-      "Fresnel Integral",
-      "https://en.wikipedia.org/wiki/Fresnel_integral"
     ]
   ],
   [
