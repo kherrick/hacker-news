@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-01, 09:36:16",
+      "https://news.ycombinator.com/item?id=32303762"
+    ],
+    [
+      "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
+      "https://github.com/phiresky/sqlite-zstd"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 09:05:57",
       "https://news.ycombinator.com/item?id=32303592"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2022-08-01, 08:02:11",
+      "https://news.ycombinator.com/item?id=32303279"
+    ],
+    [
+      "Wikipedia has blocked editing ‘recession’ as people change definition",
+      "https://fortune.com/2022/07/29/wikipedia-recession-definition-debate-partial-blocking-new-users/"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 07:43:01",
       "https://news.ycombinator.com/item?id=32303193"
     ],
     [
       "A Tutorial on Portable Makefiles (2017)",
       "https://nullprogram.com/blog/2017/08/20/"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 07:18:54",
+      "https://news.ycombinator.com/item?id=32303052"
+    ],
+    [
+      "Announcing Docusaurus 2.0 – Meta's static site generator to build docs sites",
+      "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-07-31, 22:40:06",
-      "https://news.ycombinator.com/item?id=32299544"
-    ],
-    [
-      "Tang Nano 9K – FPGA SBC with HDMI",
-      "https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 21:56:13",
       "https://news.ycombinator.com/item?id=32299244"
     ],
@@ -227,26 +247,6 @@
     [
       "EasyRPG",
       "https://easyrpg.org/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 18:50:16",
-      "https://news.ycombinator.com/item?id=32297739"
-    ],
-    [
-      "Citroen 2cv pages",
-      "http://www.citrobe.org/br70s.htm"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 15:37:27",
-      "https://news.ycombinator.com/item?id=32296272"
-    ],
-    [
-      "Put down devices, let your mind wander, study suggests",
-      "https://www.apa.org/news/press/releases/2022/07/thoughts-mind-wander"
     ]
   ],
   [
