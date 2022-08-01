@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-08-01, 18:56:11",
+      "https://news.ycombinator.com/item?id=32310568"
+    ],
+    [
+      "MBS: A volatile millennial wields absolute power in Saudi Arabia",
+      "https://www.economist.com/1843/2022/07/28/mbs-despot-in-the-desert"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 18:09:36",
       "https://news.ycombinator.com/item?id=32309953"
     ],
@@ -57,16 +67,6 @@
     [
       "The problem with big innovations",
       "https://www.indiehackers.com/post/the-problem-with-big-innovations-178e025ba8"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 16:45:33",
-      "https://news.ycombinator.com/item?id=32308759"
-    ],
-    [
-      "The Unofficial Simpsons Cookbook",
-      "https://www.itsnicethat.com/features/the-unofficial-simpsons-cookbook-culinary-culture-and-community-animation-publication-221121"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32305536"
     ],
     [
-      "I shaved 80 MB from my TypeScript build by removing googleapis",
+      "What's TypeScript compiling? Use a treemap to find out",
       "https://effectivetypescript.com/2022/07/30/treemap-for-source-files/"
     ]
   ],
