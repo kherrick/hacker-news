@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-01, 18:57:17",
+      "https://news.ycombinator.com/item?id=32310586"
+    ],
+    [
+      "Japan, U.S. to launch R&D for 2-nm chip mass production",
+      "https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 18:09:36",
       "https://news.ycombinator.com/item?id=32309953"
     ],
@@ -37,6 +47,16 @@
     [
       "PicnicHealth (YC S14) is hiring product engineers to improve patient care",
       "https://picnichealth.com/careers"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 16:47:35",
+      "https://news.ycombinator.com/item?id=32308787"
+    ],
+    [
+      "The problem with big innovations",
+      "https://www.indiehackers.com/post/the-problem-with-big-innovations-178e025ba8"
     ]
   ],
   [
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2022-08-01, 14:21:49",
-      "https://news.ycombinator.com/item?id=32306328"
+      "2022-08-01, 15:01:32",
+      "https://news.ycombinator.com/item?id=32306917"
     ],
     [
-      "Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]",
-      "https://www.mattblaze.org/papers/mk.pdf"
+      "Ask HN: Who wants to be hired? (August 2022)",
+      "https://news.ycombinator.com/item?id=32306917"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-08-01, 12:08:23",
-      "https://news.ycombinator.com/item?id=32304834"
-    ],
-    [
-      "Ask HN: Have You Left Kubernetes?",
-      "https://news.ycombinator.com/item?id=32304834"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 11:42:22",
       "https://news.ycombinator.com/item?id=32304618"
     ],
@@ -227,16 +237,6 @@
     [
       "A Tutorial on Portable Makefiles (2017)",
       "https://nullprogram.com/blog/2017/08/20/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 04:36:30",
-      "https://news.ycombinator.com/item?id=32302120"
-    ],
-    [
-      "Karmem: A fast binary serialization format faster than Google Flatbuffers",
-      "https://github.com/inkeliz/karmem"
     ]
   ],
   [
