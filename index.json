@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-01, 18:09:36",
+      "https://news.ycombinator.com/item?id=32309953"
+    ],
+    [
+      "Dye-Sensitized Solar Cells: Fundamentals and Current Status",
+      "https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 17:25:16",
       "https://news.ycombinator.com/item?id=32309304"
     ],
@@ -11,32 +21,22 @@
   ],
   [
     [
+      "2022-08-01, 17:14:21",
+      "https://news.ycombinator.com/item?id=32309164"
+    ],
+    [
+      "Disneyland with Death Penalty",
+      "https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 17:05:35",
       "https://news.ycombinator.com/item?id=32309049"
     ],
     [
       "PicnicHealth (YC S14) is hiring product engineers to improve patient care",
       "https://picnichealth.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 17:02:57",
-      "https://news.ycombinator.com/item?id=32309015"
-    ],
-    [
-      "Cognitive decline linked to ultraprocessed food, study finds",
-      "https://www.cnn.com/2022/08/01/health/ultraprocessed-food-dementia-study-wellness/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 16:51:43",
-      "https://news.ycombinator.com/item?id=32308839"
-    ],
-    [
-      "Political Email to Bypass Spam Filters and Go Directly to Your Inbox?",
-      "https://www.isipp.com/blog/do-you-want-political-email-to-bypass-spam-filters-and-go-directly-to-your-inbox-congress-does-heres-what-to-do/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Ask HN: Who is hiring? (August 2022)",
       "https://news.ycombinator.com/item?id=32306920"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 14:21:49",
+      "https://news.ycombinator.com/item?id=32306328"
+    ],
+    [
+      "Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]",
+      "https://www.mattblaze.org/papers/mk.pdf"
     ]
   ],
   [
@@ -161,36 +171,6 @@
   ],
   [
     [
-      "2022-08-01, 12:08:23",
-      "https://news.ycombinator.com/item?id=32304834"
-    ],
-    [
-      "Ask HN: Have You Left Kubernetes?",
-      "https://news.ycombinator.com/item?id=32304834"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 12:07:18",
-      "https://news.ycombinator.com/item?id=32304824"
-    ],
-    [
-      "Show HN: Tech Compensation in Europe",
-      "https://techpays.eu/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 11:56:15",
-      "https://news.ycombinator.com/item?id=32304735"
-    ],
-    [
-      "TikTok videos leave teens thinking they have rare mental disorders (2021)",
-      "https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 11:42:22",
       "https://news.ycombinator.com/item?id=32304618"
     ],
@@ -207,16 +187,6 @@
     [
       "How I Regained Concentration and Focus",
       "https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 11:05:23",
-      "https://news.ycombinator.com/item?id=32304320"
-    ],
-    [
-      "Librarian's Letter to Google Security",
-      "https://docs.google.com/document/d/1f6HPQbUjslcbjVHkJkAgYmQmBV3PRRHEcx4WL5rxuE8/preview"
     ]
   ],
   [
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2022-08-01, 04:36:30",
+      "https://news.ycombinator.com/item?id=32302120"
+    ],
+    [
+      "Karmem: A fast binary serialization format faster than Google Flatbuffers",
+      "https://github.com/inkeliz/karmem"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 20:59:19",
       "https://news.ycombinator.com/item?id=32298787"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2022-07-31, 09:45:42",
+      "https://news.ycombinator.com/item?id=32294459"
+    ],
+    [
+      "Annotated Version of Boole's Algebra of Logic from 1847 [pdf]",
+      "http://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 08:46:12",
       "https://news.ycombinator.com/item?id=32294272"
     ],
@@ -297,6 +287,16 @@
     [
       "Google’s in-house desktop Linux",
       "https://www.computerworld.com/article/3668548/the-story-behind-google-s-in-house-desktop-linux.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-29, 21:40:32",
+      "https://news.ycombinator.com/item?id=32282081"
+    ],
+    [
+      "Raw footage inside Sears with Atari 800 and 2600 (1982) [video]",
+      "https://www.youtube.com/watch?v=edTzDPwPTt4"
     ]
   ]
 ]
