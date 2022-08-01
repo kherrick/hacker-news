@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32310842"
     ],
     [
-      "Game engines could help construction",
+      "ArcGIS Maps SDK brings geospatial data to Unity and Unreal Engine",
       "https://spectrum.ieee.org/unreal-engine"
     ]
   ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-08-01, 16:31:24",
-      "https://news.ycombinator.com/item?id=32308553"
-    ],
-    [
-      "AMD passes Intel in market cap",
-      "https://www.cnbc.com/2022/07/29/amd-passes-intel-in-market-cap.html"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 15:58:04",
       "https://news.ycombinator.com/item?id=32307947"
     ],
@@ -161,21 +151,11 @@
   ],
   [
     [
-      "2022-08-01, 14:18:48",
-      "https://news.ycombinator.com/item?id=32306281"
-    ],
-    [
-      "Running Zig with WASI on Cloudflare Workers",
-      "https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 13:58:14",
       "https://news.ycombinator.com/item?id=32306012"
     ],
     [
-      "Particle Physicists Puzzle over a New Duality",
+      "Particle physicists puzzle over a new duality",
       "https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/"
     ]
   ],
@@ -187,6 +167,16 @@
     [
       "U.S. Army Camouflage Improvement Explained (2013)",
       "https://www.hyperstealth.com/camo-improvement/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 13:57:25",
+      "https://news.ycombinator.com/item?id=32305997"
+    ],
+    [
+      "Software engineering books",
+      "https://software-engineering-books.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Google’s in-house desktop Linux",
       "https://www.computerworld.com/article/3668548/the-story-behind-google-s-in-house-desktop-linux.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 05:14:19",
+      "https://news.ycombinator.com/item?id=32293359"
+    ],
+    [
+      "Open Soil Spectral Library",
+      "https://soilspectroscopy.github.io/ossl-manual/"
     ]
   ]
 ]
