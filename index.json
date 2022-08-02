@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-08-02, 03:35:12",
+      "https://news.ycombinator.com/item?id=32314835"
+    ],
+    [
+      "Equivalence of Unicode strings is strange",
+      "http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 03:29:56",
+      "https://news.ycombinator.com/item?id=32314814"
+    ],
+    [
+      "The biggest new idea in computing for half a century was just scrapped",
+      "https://www.theregister.com/2022/08/01/optane_intel_cancellation/"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 03:17:11",
+      "https://news.ycombinator.com/item?id=32314757"
+    ],
+    [
+      "Capy – Cross-platform library for making true native GUIs in Zig",
+      "https://github.com/capy-ui/capy"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 03:03:36",
+      "https://news.ycombinator.com/item?id=32314700"
+    ],
+    [
+      "Parallel Programming for FPGAs",
+      "https://github.com/KastnerRG/pp4fpgas"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 02:46:50",
+      "https://news.ycombinator.com/item?id=32314631"
+    ],
+    [
+      "Aussieplusplus: Programming Language from Down Under",
+      "https://github.com/zackradisic/aussieplusplus"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 02:45:40",
+      "https://news.ycombinator.com/item?id=32314623"
+    ],
+    [
+      "Understanding Jane Street",
+      "https://www.thediff.co/p/jane-street"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 01:56:01",
+      "https://news.ycombinator.com/item?id=32314368"
+    ],
+    [
+      "Crimes with Python's pattern matching",
+      "https://www.hillelwayne.com/post/python-abc/"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 01:17:12",
       "https://news.ycombinator.com/item?id=32314153"
     ],
@@ -11,12 +81,22 @@
   ],
   [
     [
-      "2022-08-02, 00:01:24",
-      "https://news.ycombinator.com/item?id=32313710"
+      "2022-08-02, 00:30:20",
+      "https://news.ycombinator.com/item?id=32313879"
     ],
     [
-      "awesome-static-generators - A curated list of static web site generators",
-      "https://github.com/myles/awesome-static-generators"
+      "When Engineers Think Cooking/Recipes Could Be More Enjoyable",
+      "https://www.eattsy.com"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 23:44:07",
+      "https://news.ycombinator.com/item?id=32313574"
+    ],
+    [
+      "A Love Letter to Geocities Sites",
+      "https://www.cameronsworld.net"
     ]
   ],
   [
@@ -25,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32313242"
     ],
     [
-      "Show HN: PiBox: a tiny personal server for self-hosting",
+      "PiBox: a tiny personal server for self-hosting",
       "https://pibox.io/order"
     ]
   ],
@@ -35,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32313043"
     ],
     [
-      "AlphaFold's Database Grows over 200x to Cover Nearly All Known Proteins",
+      "AlphaFold's database grows over 200x to cover nearly all known proteins",
       "https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5"
     ]
   ],
@@ -47,16 +127,6 @@
     [
       "Disney's mosquito control program",
       "https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 21:49:07",
-      "https://news.ycombinator.com/item?id=32312479"
-    ],
-    [
-      "Cardpunch: Punch a punched card",
-      "http://www.kloth.net/services/cardpunch.php"
     ]
   ],
   [
@@ -81,16 +151,6 @@
   ],
   [
     [
-      "2022-08-01, 20:45:04",
-      "https://news.ycombinator.com/item?id=32311805"
-    ],
-    [
-      "Tiny Proteins, Getting Sorted Out",
-      "https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 19:53:41",
       "https://news.ycombinator.com/item?id=32311245"
     ],
@@ -101,32 +161,12 @@
   ],
   [
     [
-      "2022-08-01, 19:40:16",
-      "https://news.ycombinator.com/item?id=32311088"
-    ],
-    [
-      "FTC takes action to stop Opendoor from cheating potential sellers",
-      "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-takes-action-stop-online-home-buying-firm-opendoor-labs-inc-cheating-potential-sellers"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 19:19:38",
       "https://news.ycombinator.com/item?id=32310842"
     ],
     [
       "ArcGIS Maps SDK brings geospatial data to Unity and Unreal Engine",
       "https://spectrum.ieee.org/unreal-engine"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 19:03:15",
-      "https://news.ycombinator.com/item?id=32310665"
-    ],
-    [
-      "Markov Chains for Queueing Systems",
-      "https://two-wrongs.com/markov-chains-for-queueing-systems"
     ]
   ],
   [
@@ -151,26 +191,6 @@
   ],
   [
     [
-      "2022-08-01, 16:47:35",
-      "https://news.ycombinator.com/item?id=32308787"
-    ],
-    [
-      "The problem with big innovations",
-      "https://www.indiehackers.com/post/the-problem-with-big-innovations-178e025ba8"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 16:07:54",
-      "https://news.ycombinator.com/item?id=32308124"
-    ],
-    [
-      "SEC Charges Eleven Individuals in $300M Crypto Pyramid Scheme",
-      "https://www.sec.gov/news/press-release/2022-134"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 15:49:01",
       "https://news.ycombinator.com/item?id=32307773"
     ],
@@ -187,16 +207,6 @@
     [
       "Ask HN: Who is hiring? (August 2022)",
       "https://news.ycombinator.com/item?id=32306920"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 15:01:32",
-      "https://news.ycombinator.com/item?id=32306917"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (August 2022)",
-      "https://news.ycombinator.com/item?id=32306917"
     ]
   ],
   [
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2022-08-01, 13:18:47",
-      "https://news.ycombinator.com/item?id=32305536"
+      "2022-07-31, 18:56:52",
+      "https://news.ycombinator.com/item?id=32297792"
     ],
     [
-      "What's TypeScript compiling? Use a treemap to find out",
-      "https://effectivetypescript.com/2022/07/30/treemap-for-source-files/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 11:22:18",
-      "https://news.ycombinator.com/item?id=32304456"
-    ],
-    [
-      "How I regained concentration and focus",
-      "https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/"
+      "Dolphin Intelligence: 3 Early Dolphin Experiments Funded by the U.S. Navy (2006)",
+      "https://www.whales.org.au/published/levasseur/levass2a.html"
     ]
   ],
   [
@@ -251,11 +251,21 @@
   ],
   [
     [
+      "2022-07-31, 12:42:13",
+      "https://news.ycombinator.com/item?id=32295130"
+    ],
+    [
+      "The Cat Gap",
+      "https://en.wikipedia.org/wiki/Cat_gap"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 12:35:42",
       "https://news.ycombinator.com/item?id=32295095"
     ],
     [
-      "People Spend Too Much Time on Decisions with Equally Satisfying Outcomes",
+      "People spend too much time on decisions with equally satisfying outcomes",
       "https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions"
     ]
   ],
@@ -266,7 +276,7 @@
     ],
     [
       "Light through the ages: Ancient Greece to Maxwell (2002)",
-      "http://web.archive.org/web/20020907183212/http://www-groups.dcs.st-and.ac.uk/history/HistTopics/Light_1.html"
+      "https://mathshistory.st-andrews.ac.uk/HistTopics/Light_1/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Annotated version of Boole's 1847 “Algebra of Logic” (2019) [pdf]",
       "http://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 05:14:50",
-      "https://news.ycombinator.com/item?id=32293363"
-    ],
-    [
-      "New third-generation Formula E car is fastest ever electric racer",
-      "https://www.autocar.co.uk/car-news/motorsport-formula-e/new-third-generation-formula-e-car-fastest-ever-electric-racer"
     ]
   ],
   [
