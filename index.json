@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-02, 17:13:06",
+      "https://news.ycombinator.com/item?id=32321499"
+    ],
+    [
+      "Go 1.19 Released",
+      "https://go.dev/doc/go1.19"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 17:00:16",
+      "https://news.ycombinator.com/item?id=32321295"
+    ],
+    [
+      "Why Study Functional Programming?",
+      "https://acm.wustl.edu/functional/whyfp.php"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 17:00:11",
       "https://news.ycombinator.com/item?id=32321294"
     ],
@@ -45,8 +65,8 @@
       "https://news.ycombinator.com/item?id=32320495"
     ],
     [
-      "The Hero's Journey of Getting Laid (Off)",
-      "https://backtohumanity.substack.com/p/getting-laid-off"
+      "The hero's journey of getting laid off",
+      "https://backtohumanity.substack.com/p/getting-laid-off39"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32320491"
     ],
     [
-      "How I Used DALL·E 2 to Generate the Logo for OctoSQL",
+      "I used DALL·E 2 to generate a logo",
       "https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32319995"
     ],
     [
-      "Carbon Capture on Trains",
+      "Future trains could provide carbon capture",
       "https://spectrum.ieee.org/carbon-capture-2657738131"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32319147"
     ],
     [
-      "Use One Big Server",
+      "Use one big server",
       "https://specbranch.com/posts/one-big-server/"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-08-02, 13:19:06",
-      "https://news.ycombinator.com/item?id=32318108"
-    ],
-    [
-      "JuliaEpi: Collaborative Computational Epidemiology in Julia",
-      "https://forem.julialang.org/inphyt/ann-juliaepi-collaborative-computational-epidemiology-in-julia-19ng"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 12:10:45",
       "https://news.ycombinator.com/item?id=32317558"
     ],
@@ -217,16 +227,6 @@
     [
       "Understanding Jane Street",
       "https://www.thediff.co/p/jane-street"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 01:56:01",
-      "https://news.ycombinator.com/item?id=32314368"
-    ],
-    [
-      "Crimes with Python's pattern matching",
-      "https://www.hillelwayne.com/post/python-abc/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32294598"
     ],
     [
-      "The High-Stakes Race to Engineer New Psychedelic Drugs",
+      "The high-stakes race to engineer new psychedelic drugs",
       "https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/"
     ]
   ],
