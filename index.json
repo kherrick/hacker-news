@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-08-02, 04:26:22",
+      "https://news.ycombinator.com/item?id=32315074"
+    ],
+    [
+      "TikTok is manipulative, addictive, and harmful to privacy",
+      "https://uxdesign.cc/i-was-on-tiktok-for-30-days-it-is-manipulative-addictive-and-harmful-to-privacy-9e25445a9122"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 04:18:26",
+      "https://news.ycombinator.com/item?id=32315035"
+    ],
+    [
+      "Ask HN: Is there a tool / product that enables commenting on HTML elements?",
+      "https://news.ycombinator.com/item?id=32315035"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 03:50:54",
+      "https://news.ycombinator.com/item?id=32314905"
+    ],
+    [
+      "Making a PR to Nixpkgs",
+      "https://johns.codes/blog/updating-a-package-in-nixpkgs"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 03:35:12",
       "https://news.ycombinator.com/item?id=32314835"
     ],
     [
-      "Equivalence of Unicode strings is strange",
+      "Equivalence of Unicode strings is strange (2016)",
       "http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html"
     ]
   ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32314814"
     ],
     [
-      "The biggest new idea in computing for half a century was just scrapped",
+      "The end of Optane is bad news",
       "https://www.theregister.com/2022/08/01/optane_intel_cancellation/"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32314757"
     ],
     [
-      "Capy – Cross-platform library for making true native GUIs in Zig",
+      "Capy – Cross-platform library for making native GUIs in Zig",
       "https://github.com/capy-ui/capy"
     ]
   ],
@@ -37,16 +67,6 @@
     [
       "Parallel Programming for FPGAs",
       "https://github.com/KastnerRG/pp4fpgas"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 02:46:50",
-      "https://news.ycombinator.com/item?id=32314631"
-    ],
-    [
-      "Aussieplusplus: Programming Language from Down Under",
-      "https://github.com/zackradisic/aussieplusplus"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-08-01, 17:05:35",
-      "https://news.ycombinator.com/item?id=32309049"
-    ],
-    [
-      "PicnicHealth (YC S14) is hiring product engineers to improve patient care",
-      "https://picnichealth.com/careers"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 15:49:01",
       "https://news.ycombinator.com/item?id=32307773"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2022-08-01, 13:58:14",
-      "https://news.ycombinator.com/item?id=32306012"
+      "2022-08-01, 15:01:32",
+      "https://news.ycombinator.com/item?id=32306917"
     ],
     [
-      "Particle physicists puzzle over a new duality",
-      "https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 13:57:49",
-      "https://news.ycombinator.com/item?id=32306005"
-    ],
-    [
-      "U.S. Army Camouflage Improvement Explained (2013)",
-      "https://www.hyperstealth.com/camo-improvement/index.html"
+      "Ask HN: Who wants to be hired? (August 2022)",
+      "https://news.ycombinator.com/item?id=32306917"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32295130"
     ],
     [
-      "The Cat Gap",
+      "Cat gap",
       "https://en.wikipedia.org/wiki/Cat_gap"
     ]
   ],
