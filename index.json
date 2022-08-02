@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-08-02, 13:55:48",
+      "https://news.ycombinator.com/item?id=32318498"
+    ],
+    [
+      "Oracle Suspended My Account (Without Notice)",
+      "https://batin.sh/blog/oracle-suspended-my-account/"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 13:38:09",
+      "https://news.ycombinator.com/item?id=32318309"
+    ],
+    [
+      "Flutter’s Modern Slavery Statement",
+      "https://www.flutter.com/modern-slavery-statement/"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 13:23:08",
+      "https://news.ycombinator.com/item?id=32318155"
+    ],
+    [
+      "CVE-2022-29154: Rsync client-side arbitrary file write vulnerability",
+      "https://www.openwall.com/lists/oss-security/2022/08/02/1"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 13:07:26",
+      "https://news.ycombinator.com/item?id=32317993"
+    ],
+    [
+      "What the Hell Is Up with Dilbert?",
+      "https://meghanboilard.substack.com/p/what-the-hell-is-up-with-dilbert"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 12:53:33",
       "https://news.ycombinator.com/item?id=32317865"
     ],
     [
       "Post-quantum encryption contender is taken out by single-core PC and 1 hour",
       "https://arstechnica.com/information-technology/2022/08/sike-once-a-post-quantum-encryption-contender-is-koed-in-nist-smackdown/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 12:41:31",
-      "https://news.ycombinator.com/item?id=32317762"
-    ],
-    [
-      "Pornhub: Judge rules Visa can be sued in abuse claim",
-      "https://www.bbc.co.uk/news/technology-62372964"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-08-02, 03:29:56",
-      "https://news.ycombinator.com/item?id=32314814"
-    ],
-    [
-      "The end of Optane is bad news",
-      "https://www.theregister.com/2022/08/01/optane_intel_cancellation/"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 03:17:11",
       "https://news.ycombinator.com/item?id=32314757"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-08-01, 22:40:38",
-      "https://news.ycombinator.com/item?id=32313043"
-    ],
-    [
-      "AlphaFold's database grows over 200x to cover nearly all known proteins",
-      "https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 21:32:14",
       "https://news.ycombinator.com/item?id=32312303"
     ],
@@ -247,16 +257,6 @@
     [
       "The disproportionate influence of early tech decisions",
       "https://brandur.org/fragments/early-tech-decisions"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 16:43:26",
-      "https://news.ycombinator.com/item?id=32296760"
-    ],
-    [
-      "The Elusive Origin of Zero",
-      "https://www.scientificamerican.com/article/the-elusive-origin-of-zero/"
     ]
   ],
   [
