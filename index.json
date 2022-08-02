@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-02, 15:01:29",
+      "https://news.ycombinator.com/item?id=32319404"
+    ],
+    [
+      "Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake",
+      "https://news.ycombinator.com/item?id=32319404"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 14:43:38",
+      "https://news.ycombinator.com/item?id=32319147"
+    ],
+    [
+      "Use One Big Server",
+      "https://specbranch.com/posts/one-big-server/"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 14:25:53",
       "https://news.ycombinator.com/item?id=32318873"
     ],
@@ -37,6 +57,16 @@
     [
       "Oracle Suspended My Account (Without Notice)",
       "https://batin.sh/blog/oracle-suspended-my-account/"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 13:37:08",
+      "https://news.ycombinator.com/item?id=32318296"
+    ],
+    [
+      "Arena Raises Money from Peter Thiel and David Petraeus",
+      "https://techcrunch.com/2022/08/02/arena-raises-money-from-peter-thiel-and-david-petraeus-for-its-decision-making-ai/"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2022-08-02, 05:56:51",
-      "https://news.ycombinator.com/item?id=32315579"
-    ],
-    [
-      "Wi-Fine",
-      "https://wifine.gitlab.io/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 05:38:21",
-      "https://news.ycombinator.com/item?id=32315480"
-    ],
-    [
-      "eXpOS – An Educational Operating System",
-      "https://exposnitc.github.io/expos-docs/about/"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 03:17:11",
       "https://news.ycombinator.com/item?id=32314757"
     ],
@@ -207,16 +217,6 @@
     [
       "Xv6, a simple Unix-like teaching operating system",
       "https://pdos.csail.mit.edu/6.828/2021/xv6.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 23:44:07",
-      "https://news.ycombinator.com/item?id=32313574"
-    ],
-    [
-      "A Love Letter to Geocities Sites",
-      "https://www.cameronsworld.net"
     ]
   ],
   [
