@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-08-02, 01:17:12",
+      "https://news.ycombinator.com/item?id=32314153"
+    ],
+    [
+      "Xv6, a simple Unix-like teaching operating system",
+      "https://pdos.csail.mit.edu/6.828/2021/xv6.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 00:01:24",
+      "https://news.ycombinator.com/item?id=32313710"
+    ],
+    [
+      "awesome-static-generators - A curated list of static web site generators",
+      "https://github.com/myles/awesome-static-generators"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 23:04:20",
+      "https://news.ycombinator.com/item?id=32313242"
+    ],
+    [
+      "Show HN: PiBox: a tiny personal server for self-hosting",
+      "https://pibox.io/order"
+    ]
+  ],
+  [
+    [
+      "2022-08-01, 22:40:38",
+      "https://news.ycombinator.com/item?id=32313043"
+    ],
+    [
+      "AlphaFold's Database Grows over 200x to Cover Nearly All Known Proteins",
+      "https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5"
+    ]
+  ],
+  [
+    [
       "2022-08-01, 22:19:12",
       "https://news.ycombinator.com/item?id=32312813"
     ],
     [
-      "Mosquitoes at Disney World: why do you (almost) never see them?",
+      "Disney's mosquito control program",
       "https://mousetrack.co.uk/blog/mosquitoes-at-disney-why-do-you-almost-never-see-them/"
     ]
   ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2022-08-01, 18:57:17",
-      "https://news.ycombinator.com/item?id=32310586"
-    ],
-    [
-      "Japan, U.S. to launch R&D for 2-nm chip mass production",
-      "https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 17:25:16",
       "https://news.ycombinator.com/item?id=32309304"
     ],
@@ -137,16 +167,6 @@
     [
       "SEC Charges Eleven Individuals in $300M Crypto Pyramid Scheme",
       "https://www.sec.gov/news/press-release/2022-134"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 15:58:04",
-      "https://news.ycombinator.com/item?id=32307947"
-    ],
-    [
-      "The Slotted Counter Pattern",
-      "https://planetscale.com/blog/the-slotted-counter-pattern"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-08-01, 13:48:49",
-      "https://news.ycombinator.com/item?id=32305900"
-    ],
-    [
-      "Faster CRC32-C on x86",
-      "https://www.corsix.org/content/fast-crc32c-4k"
-    ]
-  ],
-  [
-    [
       "2022-08-01, 13:18:47",
       "https://news.ycombinator.com/item?id=32305536"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-08-01, 09:36:16",
-      "https://news.ycombinator.com/item?id=32303762"
+      "2022-07-31, 16:43:26",
+      "https://news.ycombinator.com/item?id=32296760"
     ],
     [
-      "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
-      "https://github.com/phiresky/sqlite-zstd"
+      "The Elusive Origin of Zero",
+      "https://www.scientificamerican.com/article/the-elusive-origin-of-zero/"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2022-07-31, 10:53:28",
+      "https://news.ycombinator.com/item?id=32294725"
+    ],
+    [
+      "Light through the ages: Ancient Greece to Maxwell (2002)",
+      "http://web.archive.org/web/20020907183212/http://www-groups.dcs.st-and.ac.uk/history/HistTopics/Light_1.html"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 09:45:42",
       "https://news.ycombinator.com/item?id=32294459"
     ],
     [
       "Annotated version of Boole's 1847 “Algebra of Logic” (2019) [pdf]",
       "http://www.math.uwaterloo.ca/~snburris/htdocs/MAL.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 08:46:12",
-      "https://news.ycombinator.com/item?id=32294272"
-    ],
-    [
-      "Peng Cheng on how ancient crafts inspire her masterful typographic posters",
-      "https://www.itsnicethat.com/articles/cheng-peng-graphic-design-270722"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 05:57:22",
-      "https://news.ycombinator.com/item?id=32293541"
-    ],
-    [
-      "Google’s in-house desktop Linux",
-      "https://www.computerworld.com/article/3668548/the-story-behind-google-s-in-house-desktop-linux.html"
     ]
   ],
   [
