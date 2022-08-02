@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-02, 19:49:13",
+      "https://news.ycombinator.com/item?id=32323415"
+    ],
+    [
+      "Your Data Fits in RAM",
+      "https://yourdatafitsinram.net/"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 18:55:53",
       "https://news.ycombinator.com/item?id=32322825"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2022-08-02, 18:45:42",
-      "https://news.ycombinator.com/item?id=32322714"
-    ],
-    [
-      "Salivary microbiome reveals a dysbiotic schizophrenia-associated microbiota",
-      "https://www.nature.com/articles/s41537-021-00180-1"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 18:39:59",
       "https://news.ycombinator.com/item?id=32322662"
     ],
     [
-      "North Korean Tactics [pdf]",
+      "North Korean Tactics (2020) [pdf]",
       "https://irp.fas.org/doddir/army/atp7-100-2.pdf"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32322329"
     ],
     [
-      "The DALL·E 2 prompt book [pdf]",
+      "DALL·E 2 prompt book [pdf]",
       "http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Go 1.19 Released",
       "https://go.dev/doc/go1.19"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 17:12:11",
+      "https://news.ycombinator.com/item?id=32321480"
+    ],
+    [
+      "Earlier wheat planting will boost yields in eastern India",
+      "https://news.cornell.edu/stories/2022/08/earlier-wheat-planting-will-boost-yields-eastern-india"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "I used DALL·E 2 to generate a logo",
       "https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 16:04:20",
-      "https://news.ycombinator.com/item?id=32320466"
-    ],
-    [
-      "I increased my traffic 13,000% by changing a title",
-      "https://ccampbell.io/posts/13000-percent-traffic-gain-with-a-title-change/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32318155"
     ],
     [
-      "CVE-2022-29154: Rsync client-side arbitrary file write vulnerability",
+      "Rsync client-side arbitrary file write vulnerability",
       "https://www.openwall.com/lists/oss-security/2022/08/02/1"
     ]
   ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2022-07-31, 20:54:10",
-      "https://news.ycombinator.com/item?id=32298751"
+      "2022-07-31, 21:45:10",
+      "https://news.ycombinator.com/item?id=32299160"
     ],
     [
-      "Decoupling IP from services and sockets for addressing agility",
-      "https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html"
+      "Exploring the Basic Concepts of HDR (2019)",
+      "https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1060"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32295763"
     ],
     [
-      "Alternative Wonders of the World",
+      "Alternative wonders of the world",
       "https://twitter.com/culturaltutor/status/1553472360434515973"
     ]
   ],
