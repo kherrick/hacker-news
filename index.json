@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-08-02, 14:25:24",
-      "https://news.ycombinator.com/item?id=32318866"
-    ],
-    [
-      "Heat waves and flooding: Why U.S. infrastructure can't withstand extreme weather",
-      "https://www.axios.com/2022/08/02/heat-wave-climate-change-us-infrastructure"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 14:10:49",
       "https://news.ycombinator.com/item?id=32318666"
     ],
@@ -177,6 +167,16 @@
     [
       "CVE-2022-29154: Rsync client-side arbitrary file write vulnerability",
       "https://www.openwall.com/lists/oss-security/2022/08/02/1"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 13:19:06",
+      "https://news.ycombinator.com/item?id=32318108"
+    ],
+    [
+      "JuliaEpi: Collaborative Computational Epidemiology in Julia",
+      "https://forem.julialang.org/inphyt/ann-juliaepi-collaborative-computational-epidemiology-in-julia-19ng"
     ]
   ],
   [
