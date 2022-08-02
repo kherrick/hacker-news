@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-08-02, 20:11:47",
+      "https://news.ycombinator.com/item?id=32323699"
+    ],
+    [
+      "Robinhood lays off 23% of staff",
+      "https://www.wsj.com/articles/robinhood-lays-off-23-of-staff-11659471011"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 19:49:13",
       "https://news.ycombinator.com/item?id=32323415"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2022-08-02, 18:02:21",
-      "https://news.ycombinator.com/item?id=32322191"
-    ],
-    [
-      "Show HN: Celody – A Music Network State",
-      "https://celody.com/"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 17:14:23",
       "https://news.ycombinator.com/item?id=32321522"
     ],
@@ -111,21 +111,11 @@
   ],
   [
     [
-      "2022-08-02, 17:13:06",
-      "https://news.ycombinator.com/item?id=32321499"
-    ],
-    [
-      "Go 1.19 Released",
-      "https://go.dev/doc/go1.19"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 17:00:16",
       "https://news.ycombinator.com/item?id=32321295"
     ],
     [
-      "Why study functional programming?",
+      "Why study functional programming? (2012)",
       "https://acm.wustl.edu/functional/whyfp.php"
     ]
   ],
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2022-08-02, 15:01:29",
-      "https://news.ycombinator.com/item?id=32319404"
+      "2022-08-02, 15:37:44",
+      "https://news.ycombinator.com/item?id=32319995"
     ],
     [
-      "Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake",
-      "https://news.ycombinator.com/item?id=32319404"
+      "Future trains could provide carbon capture",
+      "https://spectrum.ieee.org/carbon-capture-2657738131"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Rsync client-side arbitrary file write vulnerability",
       "https://www.openwall.com/lists/oss-security/2022/08/02/1"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 13:18:09",
+      "https://news.ycombinator.com/item?id=32318103"
+    ],
+    [
+      "Physicists come close to resolving the black hole information paradox",
+      "https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2022-07-31, 16:32:18",
-      "https://news.ycombinator.com/item?id=32296677"
-    ],
-    [
-      "My HCI toolbox: Methods for designing and evaluating UIs",
-      "https://austinhenley.com/blog/myhcitoolbox.html"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 15:50:39",
       "https://news.ycombinator.com/item?id=32296369"
     ],
     [
       "Pretty Printing (1979) [pdf]",
       "http://i.stanford.edu/pub/cstr/reports/cs/tr/79/770/CS-TR-79-770.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 15:05:06",
+      "https://news.ycombinator.com/item?id=32295994"
+    ],
+    [
+      "Paper batteries on the cards to power IoT and smart labels",
+      "https://www.theregister.com/2022/07/29/paper_batteries_on_the_cards/"
     ]
   ],
   [
