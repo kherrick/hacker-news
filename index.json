@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-08-02, 12:10:45",
+      "https://news.ycombinator.com/item?id=32317558"
+    ],
+    [
+      "Airflow's Problem",
+      "https://stkbailey.substack.com/p/airflows-problem"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 12:01:53",
+      "https://news.ycombinator.com/item?id=32317520"
+    ],
+    [
+      "Using Firecracker and Go to run short, untrusted code execution jobs (2021)",
+      "https://stanislas.blog/2021/08/firecracker/"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 11:59:46",
+      "https://news.ycombinator.com/item?id=32317514"
+    ],
+    [
+      "Ask HN: What does Full-Stack Developer even mean?",
+      "https://news.ycombinator.com/item?id=32317514"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 11:47:01",
+      "https://news.ycombinator.com/item?id=32317441"
+    ],
+    [
+      "Coding as a greybeard",
+      "https://news.ycombinator.com/item?id=32317441"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 09:16:38",
       "https://news.ycombinator.com/item?id=32316604"
     ],
@@ -31,6 +71,16 @@
   ],
   [
     [
+      "2022-08-02, 05:56:51",
+      "https://news.ycombinator.com/item?id=32315579"
+    ],
+    [
+      "Wi-Fine",
+      "https://wifine.gitlab.io/"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 05:38:21",
       "https://news.ycombinator.com/item?id=32315480"
     ],
@@ -57,16 +107,6 @@
     [
       "Hacker Typer",
       "https://hackertyper.net/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 03:35:12",
-      "https://news.ycombinator.com/item?id=32314835"
-    ],
-    [
-      "Equivalence of Unicode strings is strange (2016)",
-      "http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html"
     ]
   ],
   [
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2022-08-01, 15:01:33",
-      "https://news.ycombinator.com/item?id=32306920"
+      "2022-08-01, 05:56:10",
+      "https://news.ycombinator.com/item?id=32302561"
     ],
     [
-      "Ask HN: Who is hiring? (August 2022)",
-      "https://news.ycombinator.com/item?id=32306920"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 14:21:49",
-      "https://news.ycombinator.com/item?id=32306328"
-    ],
-    [
-      "Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]",
-      "https://www.mattblaze.org/papers/mk.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-01, 11:22:18",
-      "https://news.ycombinator.com/item?id=32304456"
-    ],
-    [
-      "How I regained concentration and focus",
-      "https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/"
+      "A Brief History of Peanut Butter (2021)",
+      "https://www.smithsonianmag.com/innovation/brief-history-peanut-butter-180976525/"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Homebrew USB DMX Interface with Sparkfun FT232RL",
       "https://openschemes.com/homebrew-usb-dmx-interface-with-sparkfun/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 18:56:52",
-      "https://news.ycombinator.com/item?id=32297792"
-    ],
-    [
-      "Dolphin Intelligence: 3 Early Dolphin Experiments Funded by the U.S. Navy (2006)",
-      "https://www.whales.org.au/published/levasseur/levass2a.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Cat gap",
       "https://en.wikipedia.org/wiki/Cat_gap"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 12:35:42",
-      "https://news.ycombinator.com/item?id=32295095"
-    ],
-    [
-      "People spend too much time on decisions with equally satisfying outcomes",
-      "https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions"
     ]
   ],
   [
