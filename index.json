@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-03, 14:05:24",
+      "https://news.ycombinator.com/item?id=32331825"
+    ],
+    [
+      "Ask HN: Who do you talk to about system architecture and design?",
+      "https://news.ycombinator.com/item?id=32331825"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 13:54:41",
+      "https://news.ycombinator.com/item?id=32331682"
+    ],
+    [
+      "Ask HN: Which coordinate system is better for a beginners programming language?",
+      "https://news.ycombinator.com/item?id=32331682"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 13:47:27",
       "https://news.ycombinator.com/item?id=32331606"
     ],
@@ -27,6 +47,46 @@
     [
       "Yes, the U.S. economy is likely in recession",
       "https://www.japantimes.co.jp/opinion/2022/08/02/commentary/world-commentary/u-s-economy-recession-forecast/"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 13:25:53",
+      "https://news.ycombinator.com/item?id=32331383"
+    ],
+    [
+      "Pearson Says Blockchain Could Make It Money Every Time E-Books Change Hands",
+      "https://www.bloomberg.com/news/articles/2022-08-01/pearson-hopes-blockchain-will-make-it-money-every-time-its-e-books-change-hands"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 13:24:45",
+      "https://news.ycombinator.com/item?id=32331367"
+    ],
+    [
+      "Things I've learned building a modern TUI framework",
+      "https://www.textualize.io/blog/posts/7-things-about-terminals"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 13:22:00",
+      "https://news.ycombinator.com/item?id=32331348"
+    ],
+    [
+      "Where Did Architecture Go?",
+      "https://www.agile-meets-architecture.com/essays/where-did-architecture-go"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 13:04:13",
+      "https://news.ycombinator.com/item?id=32331151"
+    ],
+    [
+      "Diagnosing Mental Health Disorders Through AI Facial Expression Evaluation",
+      "https://www.unite.ai/diagnosing-mental-disorders-through-ai-facial-expression-evaluation/"
     ]
   ],
   [
@@ -151,32 +211,12 @@
   ],
   [
     [
-      "2022-08-03, 03:15:56",
-      "https://news.ycombinator.com/item?id=32327233"
-    ],
-    [
-      "Klipper – open-source 3D Printer firmware",
-      "https://www.klipper3d.org/"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 02:13:51",
       "https://news.ycombinator.com/item?id=32326846"
     ],
     [
       "Nonprofit markups.org is exposing the most egregious new car prices",
       "https://www.themanual.com/auto/markup-exposes-car-dealership-greed/"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 01:36:45",
-      "https://news.ycombinator.com/item?id=32326634"
-    ],
-    [
-      "The Pickleball Troll",
-      "https://thepickler.com/blogs/pickleball-blog/pickleball-troll"
     ]
   ],
   [
@@ -191,36 +231,6 @@
   ],
   [
     [
-      "2022-08-02, 23:03:37",
-      "https://news.ycombinator.com/item?id=32325428"
-    ],
-    [
-      "Show HN: Property Trends Scraped from Zillow",
-      "https://trends.pillr.io"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 16:06:13",
-      "https://news.ycombinator.com/item?id=32320491"
-    ],
-    [
-      "I used DALL·E 2 to generate a logo",
-      "https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 15:01:29",
-      "https://news.ycombinator.com/item?id=32319404"
-    ],
-    [
-      "Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake",
-      "https://news.ycombinator.com/item?id=32319404"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 14:43:38",
       "https://news.ycombinator.com/item?id=32319147"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-07-31, 22:15:49",
-      "https://news.ycombinator.com/item?id=32299370"
+      "2022-08-01, 08:34:24",
+      "https://news.ycombinator.com/item?id=32303442"
     ],
     [
-      "The shadowy world of umbral calculus [video]",
-      "https://www.youtube.com/watch?v=D0EUFP7-P1M"
+      "The Ugly War over Bob Ross’ Ghost (2021)",
+      "https://www.thedailybeast.com/sex-deceit-and-scandal-the-ugly-war-over-bob-ross-ghost"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Roboticists discover alternative physics",
       "https://phys.org/news/2022-07-roboticists-alternative-physics.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 09:12:50",
-      "https://news.ycombinator.com/item?id=32294371"
-    ],
-    [
-      "Why intuitive troubleshooting has stopped working",
-      "https://www.honeycomb.io/blog/why-intuitive-troubleshooting-stopped-working/"
     ]
   ]
 ]
