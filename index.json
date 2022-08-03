@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-03, 14:16:45",
+      "https://news.ycombinator.com/item?id=32331989"
+    ],
+    [
+      "Modus: A language for building Docker/OCI container images",
+      "https://github.com/modus-continens/modus"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 14:05:24",
       "https://news.ycombinator.com/item?id=32331825"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2022-08-03, 13:54:41",
-      "https://news.ycombinator.com/item?id=32331682"
+      "2022-08-03, 13:57:01",
+      "https://news.ycombinator.com/item?id=32331716"
     ],
     [
-      "Ask HN: Which coordinate system is better for a beginners programming language?",
-      "https://news.ycombinator.com/item?id=32331682"
+      "Double Commander",
+      "https://doublecmd.github.io/doc/en/about.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 13:52:31",
+      "https://news.ycombinator.com/item?id=32331656"
+    ],
+    [
+      "The End of Snow Threatens to Upend 76M American Lives",
+      "https://www.bloomberg.com/graphics/2022-western-us-snowpack-drought/"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2022-08-03, 11:47:19",
+      "https://news.ycombinator.com/item?id=32330412"
+    ],
+    [
+      "Sheryl Sandberg has left Meta definitively",
+      "https://sec.report/Document/0001326801-22-000090/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 11:30:52",
       "https://news.ycombinator.com/item?id=32330284"
     ],
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2022-08-03, 08:23:57",
-      "https://news.ycombinator.com/item?id=32329052"
-    ],
-    [
-      "OpenVPN & WireGuard server at GitHub Actions: representative NAT traversal case",
-      "https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 07:55:35",
       "https://news.ycombinator.com/item?id=32328846"
     ],
     [
       "Hikaru Nakamura's Forbidden Platform",
       "https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 06:12:53",
-      "https://news.ycombinator.com/item?id=32328207"
-    ],
-    [
-      "Ask HN: Why has quality of YouTube reduced drastically?",
-      "https://news.ycombinator.com/item?id=32328207"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Y Combinator narrows current cohort size by 40%, citing downturn and funding",
       "https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 14:43:38",
-      "https://news.ycombinator.com/item?id=32319147"
-    ],
-    [
-      "Use one big server",
-      "https://specbranch.com/posts/one-big-server/"
     ]
   ],
   [
