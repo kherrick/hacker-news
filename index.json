@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-03, 07:54:29",
+      "https://news.ycombinator.com/item?id=32328837"
+    ],
+    [
+      "GDPR for Developers by Example",
+      "https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 06:08:52",
       "https://news.ycombinator.com/item?id=32328185"
     ],
@@ -17,16 +27,6 @@
     [
       "Vulkan update: version 1.2 conformance for Raspberry Pi 4",
       "https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 05:16:31",
-      "https://news.ycombinator.com/item?id=32327903"
-    ],
-    [
-      "Malicious code added to 35k GitHub repos, leaking user environments",
-      "https://twitter.com/stephenlacy/status/1554697077430505473"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2022-07-31, 15:59:06",
-      "https://news.ycombinator.com/item?id=32296437"
-    ],
-    [
-      "Swallowing Our Bitterness (2021)",
-      "https://www.thecut.com/2021/02/swallowing-the-bitterness-of-asian-american-racism.html"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 15:44:17",
       "https://news.ycombinator.com/item?id=32296326"
     ],
     [
       "What's wrong with how we train, hire, and motivate programmers [video]",
       "https://danielbmarkham.com/the-rant/"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 15:01:36",
+      "https://news.ycombinator.com/item?id=32295964"
+    ],
+    [
+      "Firefly: A browser-based interactive 3D data visualization tool for large data",
+      "https://arxiv.org/abs/2207.13706"
     ]
   ],
   [
