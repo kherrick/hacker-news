@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32329399"
     ],
     [
-      "Django 4.1 Released",
+      "Django 4.1",
       "https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"
     ]
   ],
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2022-08-03, 06:12:53",
+      "https://news.ycombinator.com/item?id=32328207"
+    ],
+    [
+      "Ask HN: Why has quality of YouTube reduced drastically?",
+      "https://news.ycombinator.com/item?id=32328207"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 06:08:52",
       "https://news.ycombinator.com/item?id=32328185"
     ],
@@ -57,6 +67,16 @@
     [
       "Vulkan update: version 1.2 conformance for Raspberry Pi 4",
       "https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 04:52:02",
+      "https://news.ycombinator.com/item?id=32327791"
+    ],
+    [
+      "TikTok’s Poison Pill",
+      "https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/"
     ]
   ],
   [
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2022-08-02, 18:52:30",
-      "https://news.ycombinator.com/item?id=32322783"
+      "2022-08-02, 20:11:47",
+      "https://news.ycombinator.com/item?id=32323699"
     ],
     [
-      "20B-parameter Alexa model sets new marks in few-shot learning",
-      "https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning"
+      "Robinhood lays off 23% of staff",
+      "https://www.wsj.com/articles/robinhood-lays-off-23-of-staff-11659471011"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "DALL·E 2 prompt book [pdf]",
       "http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 16:22:49",
-      "https://news.ycombinator.com/item?id=32320727"
-    ],
-    [
-      "Introducing multitasking to Arduino",
-      "https://blog.arduino.cc/2022/08/02/introducing-multitasking-to-arduino/"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2022-07-31, 17:57:17",
-      "https://news.ycombinator.com/item?id=32297254"
-    ],
-    [
-      "The dark side of the Internet (1996)",
-      "https://web.archive.org/web/19961220155354/http://www.aol.com/rants/pilgrim/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 15:44:17",
-      "https://news.ycombinator.com/item?id=32296326"
-    ],
-    [
-      "What's wrong with how we train, hire, and motivate programmers [video]",
-      "https://danielbmarkham.com/the-rant/"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 15:01:36",
       "https://news.ycombinator.com/item?id=32295964"
     ],
     [
       "Firefly: A browser-based interactive 3D data visualization tool for large data",
       "https://arxiv.org/abs/2207.13706"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 14:20:59",
+      "https://news.ycombinator.com/item?id=32295654"
+    ],
+    [
+      "Efficiently Computing SSA Form and the Control Dependence Graph (1991) [pdf]",
+      "https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf"
     ]
   ],
   [
