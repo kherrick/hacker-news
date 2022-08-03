@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-08-03, 11:30:52",
+      "https://news.ycombinator.com/item?id=32330284"
+    ],
+    [
+      "Eqwalizer: A Type-Checker for Erlang",
+      "https://github.com/WhatsApp/eqwalizer"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 10:56:11",
       "https://news.ycombinator.com/item?id=32330043"
     ],
@@ -27,6 +37,16 @@
     [
       "Django 4.1",
       "https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 08:23:57",
+      "https://news.ycombinator.com/item?id=32329052"
+    ],
+    [
+      "OpenVPN & WireGuard server at GitHub Actions: representative NAT traversal case",
+      "https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "I still love PHP and JavaScript",
       "https://the.scapegoat.dev/why-i-love-php-and-javascript/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 21:39:03",
-      "https://news.ycombinator.com/item?id=32324592"
-    ],
-    [
-      "Ask HN: Working in tech for climate?",
-      "https://news.ycombinator.com/item?id=32324592"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 18:14:03",
-      "https://news.ycombinator.com/item?id=32322329"
-    ],
-    [
-      "DALL·E 2 prompt book [pdf]",
-      "http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf"
     ]
   ],
   [
