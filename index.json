@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-03, 19:51:03",
+      "https://news.ycombinator.com/item?id=32336010"
+    ],
+    [
+      "How to support open-source software and stay sane",
+      "https://www.nature.com/articles/d41586-019-02046-0"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 19:28:31",
       "https://news.ycombinator.com/item?id=32335818"
     ],
@@ -71,22 +81,22 @@
   ],
   [
     [
+      "2022-08-03, 16:48:06",
+      "https://news.ycombinator.com/item?id=32334052"
+    ],
+    [
+      "Show HN: MutableAI (YC W22) – Copilot Alternative for VS Code",
+      "https://marketplace.visualstudio.com/items?itemName=mutable-ai.mutable-ai"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 16:38:39",
       "https://news.ycombinator.com/item?id=32333942"
     ],
     [
       "Free Online Textbooks Work",
       "https://www.gatesnotes.com/Education/Supporting-educators"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 16:17:08",
-      "https://news.ycombinator.com/item?id=32333661"
-    ],
-    [
-      "You Can't Guarantee Webhook Ordering",
-      "https://www.svix.com/blog/guaranteeing-webhook-ordering/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-08-03, 14:05:24",
-      "https://news.ycombinator.com/item?id=32331825"
-    ],
-    [
-      "Ask HN: Who do you talk to about system architecture and design?",
-      "https://news.ycombinator.com/item?id=32331825"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 14:02:19",
       "https://news.ycombinator.com/item?id=32331781"
     ],
@@ -207,16 +207,6 @@
     [
       "P5.play",
       "https://molleindustria.github.io/p5.play/"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 11:30:52",
-      "https://news.ycombinator.com/item?id=32330284"
-    ],
-    [
-      "Eqwalizer: A Type-Checker for Erlang",
-      "https://github.com/WhatsApp/eqwalizer"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32298837"
     ],
     [
-      "Mary Schmich's “Wear Sunscreen” column, which turned into an unlikely 90s hit",
+      "Mary Schmich's “Wear Sunscreen”, which turned into an unlikely 90s hit (2019)",
       "https://news.medill.northwestern.edu/chicago/mary-schmich-is-world-famous-but-you-may-not-know-her/"
     ]
   ],
@@ -281,12 +271,22 @@
   ],
   [
     [
+      "2022-07-31, 12:02:18",
+      "https://news.ycombinator.com/item?id=32294977"
+    ],
+    [
+      "Lava Tubes on the Moon Maintain Comfortable Room Temperatures Inside",
+      "https://www.universetoday.com/156932/lava-tubes-on-the-moon-maintain-comfortable-room-temperatures-inside/"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 10:56:40",
       "https://news.ycombinator.com/item?id=32294737"
     ],
     [
       "Emacs Timeline",
-      "https://depp.brause.cc/brause.cc/emacs/timeline.html"
+      "https://emacs.brause.cc/timeline.html"
     ]
   ],
   [
