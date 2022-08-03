@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-08-03, 01:36:45",
+      "https://news.ycombinator.com/item?id=32326634"
+    ],
+    [
+      "The Pickleball Troll",
+      "https://thepickler.com/blogs/pickleball-blog/pickleball-troll"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 01:27:09",
+      "https://news.ycombinator.com/item?id=32326573"
+    ],
+    [
+      "GitHub is adding web cookies for enterprise users",
+      "https://github.com/github/site-policy/pull/582"
+    ]
+  ],
+  [
+    [
       "2022-08-02, 23:18:34",
       "https://news.ycombinator.com/item?id=32325547"
     ],
     [
-      "Capital One Launches Capital One Software",
+      "Capital One enters enterprise B2B software, new data management SaaS",
       "https://www.capitalone.com/about/newsroom/capital-one-launches-capital-one-software/"
     ]
   ],
@@ -35,18 +55,8 @@
       "https://news.ycombinator.com/item?id=32325055"
     ],
     [
-      "23 years into my career, I still love PHP and JavaScript",
+      "I still love PHP and JavaScript",
       "https://the.scapegoat.dev/why-i-love-php-and-javascript/"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 21:52:03",
-      "https://news.ycombinator.com/item?id=32324734"
-    ],
-    [
-      "Linode EU-West (London) is out again",
-      "https://status.linode.com/incidents/8qnvzrfz7hg2"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-08-02, 17:00:16",
-      "https://news.ycombinator.com/item?id=32321295"
-    ],
-    [
-      "Why study functional programming? (2012)",
-      "https://acm.wustl.edu/functional/whyfp.php"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 16:22:49",
       "https://news.ycombinator.com/item?id=32320727"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2022-08-02, 15:37:44",
-      "https://news.ycombinator.com/item?id=32319995"
+      "2022-08-02, 15:01:29",
+      "https://news.ycombinator.com/item?id=32319404"
     ],
     [
-      "Future trains could provide carbon capture",
-      "https://spectrum.ieee.org/carbon-capture-2657738131"
+      "Launch HN: DeploySentinel (YC S22) – End-to-end tests that don't flake",
+      "https://news.ycombinator.com/item?id=32319404"
     ]
   ],
   [
@@ -211,21 +211,11 @@
   ],
   [
     [
-      "2022-08-02, 13:23:41",
-      "https://news.ycombinator.com/item?id=32318160"
-    ],
-    [
-      "Bumblebees kept in isolation make up for it by being more social later",
-      "https://www.princeton.edu/news/2022/07/12/bumblebees-kept-isolation-make-it-being-more-social-later"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 13:18:09",
       "https://news.ycombinator.com/item?id=32318103"
     ],
     [
-      "Physicists come close to resolving the black hole information paradox",
+      "Physicists come close to resolving the black hole information paradox (2020)",
       "https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/"
     ]
   ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2022-08-02, 12:01:53",
-      "https://news.ycombinator.com/item?id=32317520"
+      "2022-07-31, 22:15:49",
+      "https://news.ycombinator.com/item?id=32299370"
     ],
     [
-      "Using Firecracker and Go to run short, untrusted code execution jobs (2021)",
-      "https://stanislas.blog/2021/08/firecracker/"
+      "The shadowy world of umbral calculus [video]",
+      "https://www.youtube.com/watch?v=D0EUFP7-P1M"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 17:57:17",
+      "https://news.ycombinator.com/item?id=32297254"
+    ],
+    [
+      "Venture into uncharted territory (1996)",
+      "https://web.archive.org/web/19961220155354/http://www.aol.com/rants/pilgrim/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-07-31, 14:35:41",
-      "https://news.ycombinator.com/item?id=32295763"
-    ],
-    [
-      "Alternative wonders of the world",
-      "https://twitter.com/culturaltutor/status/1553472360434515973"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 14:21:43",
       "https://news.ycombinator.com/item?id=32295663"
     ],
@@ -297,6 +287,16 @@
     [
       "The high-stakes race to engineer new psychedelic drugs",
       "https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 10:09:53",
+      "https://news.ycombinator.com/item?id=32294546"
+    ],
+    [
+      "PEP 505 – None-aware operators (2015)",
+      "https://peps.python.org/pep-0505/"
     ]
   ]
 ]
