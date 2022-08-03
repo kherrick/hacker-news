@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-03, 04:38:11",
+      "https://news.ycombinator.com/item?id=32327711"
+    ],
+    [
+      "FauxPilot – an open-source GitHub Copilot server",
+      "https://github.com/moyix/fauxpilot"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 04:00:33",
+      "https://news.ycombinator.com/item?id=32327518"
+    ],
+    [
+      "RTEMS Real Time Operating System",
+      "https://www.rtems.org/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 03:15:56",
       "https://news.ycombinator.com/item?id=32327233"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2022-08-03, 01:55:38",
-      "https://news.ycombinator.com/item?id=32326735"
-    ],
-    [
-      "Former Owner of T-Mobile Store Guilty of $25M Scheme to Unlock Cellphones",
-      "https://www.justice.gov/usao-cdca/pr/former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 01:36:45",
       "https://news.ycombinator.com/item?id=32326634"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2022-08-03, 01:27:09",
-      "https://news.ycombinator.com/item?id=32326573"
+      "2022-08-03, 00:34:07",
+      "https://news.ycombinator.com/item?id=32326208"
     ],
     [
-      "GitHub is adding web cookies for enterprise users",
-      "https://github.com/github/site-policy/pull/582"
+      "Y Combinator narrows current cohort size by 40%, citing downturn and funding",
+      "https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2022-08-02, 23:01:05",
-      "https://news.ycombinator.com/item?id=32325400"
-    ],
-    [
-      "Simplicity of IRC",
-      "https://susam.net/maze/wall/simplicity-of-irc.html"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 22:27:29",
       "https://news.ycombinator.com/item?id=32325055"
     ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32324592"
     ],
     [
-      "Ask HN: Working in Tech for Climate",
+      "Ask HN: Working in tech for climate?",
       "https://news.ycombinator.com/item?id=32324592"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-08-02, 16:06:29",
-      "https://news.ycombinator.com/item?id=32320495"
-    ],
-    [
-      "The hero's journey of getting laid off",
-      "https://backtohumanity.substack.com/p/getting-laid-off"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 16:06:13",
       "https://news.ycombinator.com/item?id=32320491"
     ],
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2022-08-02, 13:18:09",
-      "https://news.ycombinator.com/item?id=32318103"
-    ],
-    [
-      "Physicists come close to resolving the black hole information paradox (2020)",
-      "https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 22:15:49",
       "https://news.ycombinator.com/item?id=32299370"
     ],
     [
       "The shadowy world of umbral calculus [video]",
       "https://www.youtube.com/watch?v=D0EUFP7-P1M"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 17:57:17",
+      "https://news.ycombinator.com/item?id=32297254"
+    ],
+    [
+      "The dark side of the Internet (1996)",
+      "https://web.archive.org/web/19961220155354/http://www.aol.com/rants/pilgrim/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-07-31, 15:28:51",
+      "https://news.ycombinator.com/item?id=32296202"
+    ],
+    [
+      "Android 16 was programmed in BASIC (2011)",
+      "https://ubuntuincident.wordpress.com/2011/03/24/android-16-was-programmed-in-basic/"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 14:21:43",
       "https://news.ycombinator.com/item?id=32295663"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-07-31, 10:24:26",
-      "https://news.ycombinator.com/item?id=32294598"
+      "2022-07-31, 14:13:30",
+      "https://news.ycombinator.com/item?id=32295607"
     ],
     [
-      "The high-stakes race to engineer new psychedelic drugs",
-      "https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/"
+      "What is an isogeny? (2019)",
+      "https://www.johndcook.com/blog/2019/04/21/what-is-an-isogeny/"
     ]
   ],
   [
