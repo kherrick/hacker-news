@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-08-03, 14:16:45",
-      "https://news.ycombinator.com/item?id=32331989"
-    ],
-    [
-      "Modus: A language for building Docker/OCI container images",
-      "https://github.com/modus-continens/modus"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 14:07:40",
       "https://news.ycombinator.com/item?id=32331856"
     ],
@@ -287,6 +277,16 @@
     [
       "New Clojure Project Quickstart",
       "https://blog.michielborkent.nl/new-clojure-project-quickstart.html"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 10:56:40",
+      "https://news.ycombinator.com/item?id=32294737"
+    ],
+    [
+      "Emacs Timeline",
+      "https://depp.brause.cc/brause.cc/emacs/timeline.html"
     ]
   ],
   [
