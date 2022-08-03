@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-03, 06:08:52",
+      "https://news.ycombinator.com/item?id=32328185"
+    ],
+    [
+      "MIT invents $4 solar desalination device",
+      "https://www.freethink.com/technology/solar-desalination"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 05:32:28",
+      "https://news.ycombinator.com/item?id=32327986"
+    ],
+    [
+      "Vulkan update: version 1.2 conformance for Raspberry Pi 4",
+      "https://www.raspberrypi.com/news/vulkan-update-version-1-2-conformance-for-raspberry-pi-4/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 05:16:31",
       "https://news.ycombinator.com/item?id=32327903"
     ],
@@ -11,11 +31,21 @@
   ],
   [
     [
+      "2022-08-03, 04:52:02",
+      "https://news.ycombinator.com/item?id=32327791"
+    ],
+    [
+      "TikTok’s Poison Pill",
+      "https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 04:38:11",
       "https://news.ycombinator.com/item?id=32327711"
     ],
     [
-      "FauxPilot – an open-source GitHub Copilot server",
+      "FauxPilot – an attempt to build a locally hosted version of GitHub Copilot",
       "https://github.com/moyix/fauxpilot"
     ]
   ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-08-02, 17:14:23",
-      "https://news.ycombinator.com/item?id=32321522"
-    ],
-    [
-      "Chinchilla's Wild Implications",
-      "https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications"
-    ]
-  ],
-  [
-    [
       "2022-08-02, 16:22:49",
       "https://news.ycombinator.com/item?id=32320727"
     ],
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2022-07-31, 15:28:51",
-      "https://news.ycombinator.com/item?id=32296202"
-    ],
-    [
-      "Android 16 was programmed in BASIC (2011)",
-      "https://ubuntuincident.wordpress.com/2011/03/24/android-16-was-programmed-in-basic/"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 14:21:43",
-      "https://news.ycombinator.com/item?id=32295663"
-    ],
-    [
-      "PRR – a terminal tool for managing Pull Requests on GitHub",
-      "https://dxuuu.xyz/prr.html"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 14:13:30",
       "https://news.ycombinator.com/item?id=32295607"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-07-31, 10:24:26",
-      "https://news.ycombinator.com/item?id=32294598"
-    ],
-    [
-      "The high-stakes race to engineer new psychedelic drugs",
-      "https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/"
-    ]
-  ],
-  [
-    [
       "2022-07-31, 10:09:53",
       "https://news.ycombinator.com/item?id=32294546"
     ],
     [
       "PEP 505 – None-aware operators (2015)",
       "https://peps.python.org/pep-0505/"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 09:12:50",
+      "https://news.ycombinator.com/item?id=32294371"
+    ],
+    [
+      "Why intuitive troubleshooting has stopped working",
+      "https://www.honeycomb.io/blog/why-intuitive-troubleshooting-stopped-working/"
     ]
   ]
 ]
