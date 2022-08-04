@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-08-04, 05:37:57",
-      "https://news.ycombinator.com/item?id=32339693"
-    ],
-    [
-      "Spain bans setting the AC below 27 degrees Celsius",
-      "https://www.theverge.com/2022/8/3/23291066/spain-bans-setting-air-conditioning-below-27-degrees-celsius"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 05:06:29",
       "https://news.ycombinator.com/item?id=32339556"
     ],
@@ -187,6 +177,16 @@
     [
       "Run FreeBSD 13.1 for ARM64 in QEMU on Apple Silicon Mac with HVF Acceleration",
       "https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 21:25:05",
+      "https://news.ycombinator.com/item?id=32336818"
+    ],
+    [
+      "A Microsoft team racing to catch bugs before they happen",
+      "https://www.wired.com/story/microsoft-morse-team/"
     ]
   ],
   [
