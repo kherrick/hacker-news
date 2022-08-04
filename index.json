@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-08-04, 02:09:39",
-      "https://news.ycombinator.com/item?id=32338563"
-    ],
-    [
-      "Climate Endgame: Exploring catastrophic climatechange scenarios",
-      "https://www.pnas.org/doi/epdf/10.1073/pnas.2108146119"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 01:51:40",
       "https://news.ycombinator.com/item?id=32338478"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=32338469"
     ],
     [
-      "Copilot crash because the word “gender”",
+      "Part of my code makes Copilot crash",
       "https://github.com/orgs/community/discussions/20273"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32338186"
     ],
     [
-      "Sending Spammers to Password Purgatory with MS Power Automate and CF Workers KV",
+      "Sending spammers to password purgatory",
       "https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"
     ]
   ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2022-08-03, 19:51:03",
-      "https://news.ycombinator.com/item?id=32336010"
-    ],
-    [
-      "How to support open-source software and stay sane",
-      "https://www.nature.com/articles/d41586-019-02046-0"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 19:28:31",
       "https://news.ycombinator.com/item?id=32335818"
     ],
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2022-08-03, 17:42:44",
+      "https://news.ycombinator.com/item?id=32334741"
+    ],
+    [
+      "Minify your container",
+      "https://github.com/docker-slim"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 17:26:30",
       "https://news.ycombinator.com/item?id=32334552"
     ],
@@ -157,16 +147,6 @@
     [
       "GlobalFoundries joins Google’s open source silicon initiative",
       "https://opensource.googleblog.com/2022/08/GlobalFoundries-joins-Googles-open-source-silicon-initiative.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 16:38:39",
-      "https://news.ycombinator.com/item?id=32333942"
-    ],
-    [
-      "Free online textbooks work",
-      "https://www.gatesnotes.com/Education/Supporting-educators"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2022-08-03, 13:57:01",
+      "https://news.ycombinator.com/item?id=32331716"
+    ],
+    [
+      "Double Commander",
+      "https://doublecmd.github.io/doc/en/about.html"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 13:24:45",
       "https://news.ycombinator.com/item?id=32331367"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2022-07-31, 17:41:37",
+      "https://news.ycombinator.com/item?id=32297156"
+    ],
+    [
+      "A 'nano-robot' built from DNA to explore cell processes",
+      "https://www.sciencedaily.com/releases/2022/07/220728075911.htm"
+    ]
+  ],
+  [
+    [
       "2022-07-31, 16:49:17",
       "https://news.ycombinator.com/item?id=32296802"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32296330"
     ],
     [
-      "Michael J. Mauboussin: Good Losses, Bad Losses [pdf]",
+      "Good Losses, Bad Losses [pdf]",
       "https://www.morganstanley.com/im/publication/insights/articles/article_goodlossesbadlosses.pdf"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-07-31, 12:02:18",
-      "https://news.ycombinator.com/item?id=32294977"
+      "2022-07-31, 14:16:18",
+      "https://news.ycombinator.com/item?id=32295624"
     ],
     [
-      "Lava Tubes on the Moon Maintain Comfortable Room Temperatures Inside",
-      "https://www.universetoday.com/156932/lava-tubes-on-the-moon-maintain-comfortable-room-temperatures-inside/"
+      "Apple’s Hot iPhone Quarter Masks a Behind-the-Scenes Slowdown",
+      "https://www.bloomberg.com/news/newsletters/2022-07-31/apple-q3-2022-results-recap-strong-iphone-sales-wearables-mac-services-miss-l69dkkci"
     ]
   ],
   [
