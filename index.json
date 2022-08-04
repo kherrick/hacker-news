@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-08-04, 14:47:33",
+      "https://news.ycombinator.com/item?id=32343610"
+    ],
+    [
+      "OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol",
+      "https://omniedge.io/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 14:47:26",
+      "https://news.ycombinator.com/item?id=32343608"
+    ],
+    [
+      "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
+      "https://lemon.rip/w/c99-vla-tricks/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 14:43:06",
+      "https://news.ycombinator.com/item?id=32343548"
+    ],
+    [
+      "LocalStack and AWS Parity Explained",
+      "https://localstack.cloud/blog/2022-08-04-parity-explained/"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 14:33:50",
       "https://news.ycombinator.com/item?id=32343443"
     ],
     [
       "Art of README",
       "https://github.com/hackergrrl/art-of-readme"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 14:28:33",
+      "https://news.ycombinator.com/item?id=32343370"
+    ],
+    [
+      "Black holes finally proven mathematically stable",
+      "https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Ask HN: Any solo game developers here?",
       "https://news.ycombinator.com/item?id=32343096"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 13:56:47",
-      "https://news.ycombinator.com/item?id=32342960"
-    ],
-    [
-      "How Forza's Drivatar Works (2021)",
-      "https://www.gamedeveloper.com/design/how-forza-s-drivatar-actually-works"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-08-04, 12:38:26",
-      "https://news.ycombinator.com/item?id=32342021"
-    ],
-    [
-      "One Man’s Lonely Fight To Ban Private Jets",
-      "https://www.vice.com/en/article/dy7pw7/one-mans-lonely-lonely-fight-to-ban-private-jets"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 12:26:33",
       "https://news.ycombinator.com/item?id=32341922"
     ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32341770"
     ],
     [
-      "It Is Time to Stop Teaching Frequentism to Non-Statisticians (2012)",
+      "It is time to stop teaching frequentism to non-statisticians (2012)",
       "https://arxiv.org/abs/1201.2590"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-08-04, 09:20:31",
-      "https://news.ycombinator.com/item?id=32340844"
-    ],
-    [
-      "Interview with the scientist who’s writing the Webb photos alt text",
-      "https://www.niemanlab.org/2022/08/space-is-for-everyone-meet-the-scientists-trying-to-put-otherworldly-images-into-words/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 08:06:22",
       "https://news.ycombinator.com/item?id=32340430"
     ],
@@ -267,16 +277,6 @@
     [
       "Botspam apocalypse",
       "https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 01:51:40",
-      "https://news.ycombinator.com/item?id=32338478"
-    ],
-    [
-      "My lab went from 4000 kg to 130 kg of waste a year",
-      "https://www.nature.com/articles/d41586-022-02092-1"
     ]
   ],
   [
