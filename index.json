@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-08-04, 16:18:18",
+      "https://news.ycombinator.com/item?id=32344882"
+    ],
+    [
+      "Infrastructure as Code(IaC) with Examples",
+      "https://awstip.com/getting-started-infrastructure-as-code-iac-bfd186de93a5"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 16:03:51",
+      "https://news.ycombinator.com/item?id=32344671"
+    ],
+    [
+      "Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs",
+      "https://www.superblocks.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 16:03:25",
+      "https://news.ycombinator.com/item?id=32344666"
+    ],
+    [
+      "Redis Source Walkthrough: How the ECHO command is implemented",
+      "https://app.codecrafters.io/walkthroughs/redis-echo-command"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 15:44:01",
+      "https://news.ycombinator.com/item?id=32344407"
+    ],
+    [
+      "Near Real-Time Ingestion for Trino",
+      "https://www.starburst.io/blog/near-real-time-ingestion-for-trino/"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 15:42:42",
       "https://news.ycombinator.com/item?id=32344382"
     ],
     [
       "Scammers Sent Uber to Take Elderly Lady to the Bank",
       "https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 15:25:44",
+      "https://news.ycombinator.com/item?id=32344154"
+    ],
+    [
+      "The MGR Window System",
+      "https://hack.org/mc/mgr/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 15:15:04",
+      "https://news.ycombinator.com/item?id=32344010"
+    ],
+    [
+      "Tell HN: Amazon shopping is racing to the bottom of quality",
+      "https://news.ycombinator.com/item?id=32344010"
     ]
   ],
   [
@@ -57,16 +117,6 @@
     [
       "Black holes finally proven mathematically stable",
       "https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 14:26:41",
-      "https://news.ycombinator.com/item?id=32343344"
-    ],
-    [
-      "Psychological Benefits of Believing in Conspiracy Theories",
-      "https://oa.mg/blog/what-are-the-psychological-benefits-of-believing-in-conspiracy-theories/"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2022-08-04, 12:49:38",
-      "https://news.ycombinator.com/item?id=32342139"
-    ],
-    [
-      "Geometric Analysis Reveals How Birds Mastered Flight",
-      "https://www.quantamagazine.org/geometric-analysis-reveals-how-birds-mastered-flight-20220803/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 12:42:23",
       "https://news.ycombinator.com/item?id=32342058"
     ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2022-08-04, 12:04:51",
-      "https://news.ycombinator.com/item?id=32341770"
-    ],
-    [
-      "It is time to stop teaching frequentism to non-statisticians (2012)",
-      "https://arxiv.org/abs/1201.2590"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 11:54:01",
       "https://news.ycombinator.com/item?id=32341698"
     ],
     [
       "Hyundai rolls out 27 heavy-duty hydrogen trucks in Germany",
       "https://thedriven.io/2022/08/04/hyundai-rolls-out-27-heavy-duty-hydrogen-trucks-in-germany/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 11:44:03",
-      "https://news.ycombinator.com/item?id=32341637"
-    ],
-    [
-      "We Need to Study Nothing",
-      "https://nautil.us/why-we-need-to-study-nothing-22553/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-08-04, 04:37:22",
-      "https://news.ycombinator.com/item?id=32339424"
-    ],
-    [
-      "Who do we spend time with across our lifetime? (2020)",
-      "https://ourworldindata.org/time-with-others-lifetime"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 04:17:52",
       "https://news.ycombinator.com/item?id=32339314"
     ],
     [
       "Botspam apocalypse",
       "https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 00:57:31",
-      "https://news.ycombinator.com/item?id=32338186"
-    ],
-    [
-      "Sending spammers to password purgatory",
-      "https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"
     ]
   ],
   [
