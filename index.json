@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-04, 07:06:21",
+      "https://news.ycombinator.com/item?id=32340061"
+    ],
+    [
+      "How prestige outlets like The Guardian get away with copypasta",
+      "https://erikhoel.substack.com/p/how-prestige-outlets-like-the-guardian"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 07:01:01",
       "https://news.ycombinator.com/item?id=32340023"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32339788"
     ],
     [
-      "Why scientists are turning to Rust",
+      "Why scientists are turning to Rust (2020)",
       "https://www.nature.com/articles/d41586-020-03382-2"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Things I've learned building a modern TUI framework",
       "https://www.textualize.io/blog/posts/7-things-about-terminals"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 07:21:24",
-      "https://news.ycombinator.com/item?id=32328617"
-    ],
-    [
-      "Show HN: Tiny PS1-like Renderer in 500 lines",
-      "https://github.com/nkanaev/tipsy"
     ]
   ]
 ]
