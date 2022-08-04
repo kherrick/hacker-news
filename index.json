@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-08-04, 06:23:24",
-      "https://news.ycombinator.com/item?id=32339788"
-    ],
-    [
-      "Why scientists are turning to Rust (2020)",
-      "https://www.nature.com/articles/d41586-020-03382-2"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 05:06:29",
       "https://news.ycombinator.com/item?id=32339556"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32339424"
     ],
     [
-      "Who do we spend time with across our lifetime?",
+      "Who do we spend time with across our lifetime? (2020)",
       "https://ourworldindata.org/time-with-others-lifetime"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32339314"
     ],
     [
-      "Botspam Apocalypse",
+      "Botspam apocalypse",
       "https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi"
     ]
   ],
@@ -127,6 +117,16 @@
     [
       "Sending spammers to password purgatory",
       "https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 23:39:26",
+      "https://news.ycombinator.com/item?id=32337705"
+    ],
+    [
+      "A simple guide to quadratic voting",
+      "https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1"
     ]
   ],
   [
