@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-08-04, 16:18:18",
-      "https://news.ycombinator.com/item?id=32344882"
+      "2022-08-04, 17:00:33",
+      "https://news.ycombinator.com/item?id=32345444"
     ],
     [
-      "Infrastructure as Code(IaC) with Examples",
-      "https://awstip.com/getting-started-infrastructure-as-code-iac-bfd186de93a5"
+      "TaxProper (YC S19) Is Hiring",
+      "https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 16:54:37",
+      "https://news.ycombinator.com/item?id=32345357"
+    ],
+    [
+      "The SQL query engine Trino (formerly PrestoSQL) recaps a decade of innovation",
+      "https://trino.io/blog/2022/08/04/decade-innovation.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 16:32:24",
+      "https://news.ycombinator.com/item?id=32345087"
+    ],
+    [
+      "The OG Social Network: Other People’s Websites",
+      "https://blog.jim-nielsen.com/2022/other-peoples-websites/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 16:30:01",
+      "https://news.ycombinator.com/item?id=32345051"
+    ],
+    [
+      "Solein – Protein out of thin air",
+      "https://www.solein.com"
     ]
   ],
   [
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2022-08-04, 16:03:25",
-      "https://news.ycombinator.com/item?id=32344666"
+      "2022-08-04, 15:54:54",
+      "https://news.ycombinator.com/item?id=32344549"
     ],
     [
-      "Redis Source Walkthrough: How the ECHO command is implemented",
-      "https://app.codecrafters.io/walkthroughs/redis-echo-command"
+      "NAFNet: Nonlinear Activation Free Network for Image Restoration",
+      "https://github.com/megvii-research/NAFNet"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2022-08-04, 15:42:42",
-      "https://news.ycombinator.com/item?id=32344382"
-    ],
-    [
-      "Scammers Sent Uber to Take Elderly Lady to the Bank",
-      "https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 15:25:44",
       "https://news.ycombinator.com/item?id=32344154"
     ],
     [
       "The MGR Window System",
       "https://hack.org/mc/mgr/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 15:15:04",
-      "https://news.ycombinator.com/item?id=32344010"
-    ],
-    [
-      "Tell HN: Amazon shopping is racing to the bottom of quality",
-      "https://news.ycombinator.com/item?id=32344010"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32343443"
     ],
     [
-      "Art of README",
+      "Art of README (2020)",
       "https://github.com/hackergrrl/art-of-readme"
     ]
   ],
@@ -121,32 +131,12 @@
   ],
   [
     [
-      "2022-08-04, 14:20:06",
-      "https://news.ycombinator.com/item?id=32343259"
-    ],
-    [
-      "Zentail (YC S12) Is Hiring a CTO",
-      "https://jobs.lever.co/zentail/a550916c-fc9e-4bd3-b837-b5108286ff4b"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 14:07:34",
       "https://news.ycombinator.com/item?id=32343096"
     ],
     [
       "Ask HN: Any solo game developers here?",
       "https://news.ycombinator.com/item?id=32343096"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 13:54:48",
-      "https://news.ycombinator.com/item?id=32342925"
-    ],
-    [
-      "How do you break into a career in machine learning? (2020)",
-      "http://www.theexclusive.org/2020/02/how-to-begin-in-machine-learning.html"
     ]
   ],
   [
@@ -197,16 +187,6 @@
     [
       "Launch HN: CodeCrafters (YC S22) – Practice writing complex software",
       "https://codecrafters.io"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 12:42:23",
-      "https://news.ycombinator.com/item?id=32342058"
-    ],
-    [
-      "Ask HN: How to be independent as a developer?",
-      "https://news.ycombinator.com/item?id=32342058"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2022-08-04, 07:51:23",
+      "https://news.ycombinator.com/item?id=32340305"
+    ],
+    [
+      "mCaptcha – Proof of work based, privacy respecting CAPTCHA system",
+      "https://github.com/mCaptcha/mCaptcha"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 05:06:29",
       "https://news.ycombinator.com/item?id=32339556"
     ],
     [
       "Infineon chip flaws to disrupt IONIQ 5 EV production",
       "https://www.kedglobal.com/automobiles/newsView/ked202208030010"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 04:37:22",
+      "https://news.ycombinator.com/item?id=32339424"
+    ],
+    [
+      "Who do we spend time with across our lifetime? (2020)",
+      "https://ourworldindata.org/time-with-others-lifetime"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-08-03, 17:26:30",
-      "https://news.ycombinator.com/item?id=32334552"
+      "2022-08-04, 01:51:40",
+      "https://news.ycombinator.com/item?id=32338478"
     ],
     [
-      "What’s the strangest thing you ever found in a book?",
-      "https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/"
+      "My lab went from 4000 kg to 130 kg of waste a year",
+      "https://www.nature.com/articles/d41586-022-02092-1"
     ]
   ]
 ]
