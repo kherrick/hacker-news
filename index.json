@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-04, 04:01:25",
+      "https://news.ycombinator.com/item?id=32339222"
+    ],
+    [
+      "Let's Encrypt has updated their Subscriber Agreement (v1.2 – v1.3)",
+      "https://letsencrypt.org/repository/"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 01:51:40",
       "https://news.ycombinator.com/item?id=32338478"
     ],
@@ -37,16 +47,6 @@
     [
       "Sending spammers to password purgatory",
       "https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 23:39:26",
-      "https://news.ycombinator.com/item?id=32337705"
-    ],
-    [
-      "A Simple Guide to Quadratic Voting",
-      "https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2022-08-03, 13:24:45",
-      "https://news.ycombinator.com/item?id=32331367"
-    ],
-    [
-      "Things I've learned building a modern TUI framework",
-      "https://www.textualize.io/blog/posts/7-things-about-terminals"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 07:21:24",
       "https://news.ycombinator.com/item?id=32328617"
     ],
     [
       "Show HN: Tiny PS1-like Renderer in 500 lines",
       "https://github.com/nkanaev/tipsy"
+    ]
+  ],
+  [
+    [
+      "2022-07-31, 22:25:47",
+      "https://news.ycombinator.com/item?id=32299440"
+    ],
+    [
+      "The rise of South Korea's virtual influencers",
+      "https://www.cnn.com/style/article/south-korea-virtual-influencers-beauty-social-media-intl-hnk-dst/index.html"
     ]
   ],
   [
