@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2022-08-03, 21:25:05",
+      "https://news.ycombinator.com/item?id=32336818"
+    ],
+    [
+      "A Microsoft team racing to catch bugs before they happen",
+      "https://www.wired.com/story/microsoft-morse-team/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 20:11:57",
       "https://news.ycombinator.com/item?id=32336190"
     ],
     [
       "Alpine Linux is reducing dependencies on Busybox",
       "https://gitlab.alpinelinux.org/alpine/tsc/-/issues/52"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 19:51:03",
-      "https://news.ycombinator.com/item?id=32336010"
-    ],
-    [
-      "How to support open-source software and stay sane (2019)",
-      "https://www.nature.com/articles/d41586-019-02046-0"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-08-03, 16:48:06",
-      "https://news.ycombinator.com/item?id=32334052"
-    ],
-    [
-      "Show HN: MutableAI (YC W22) – Copilot Alternative for VS Code",
-      "https://marketplace.visualstudio.com/items?itemName=mutable-ai.mutable-ai"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 16:08:02",
       "https://news.ycombinator.com/item?id=32333565"
     ],
@@ -297,6 +287,16 @@
     [
       "Things I've learned building a modern TUI framework",
       "https://www.textualize.io/blog/posts/7-things-about-terminals"
+    ]
+  ],
+  [
+    [
+      "2022-08-02, 14:43:38",
+      "https://news.ycombinator.com/item?id=32319147"
+    ],
+    [
+      "Use one big server",
+      "https://specbranch.com/posts/one-big-server/"
     ]
   ]
 ]
