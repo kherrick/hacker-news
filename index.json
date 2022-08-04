@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-08-04, 09:20:31",
+      "https://news.ycombinator.com/item?id=32340844"
+    ],
+    [
+      "Interview with the scientist who’s writing the Webb photos alt text",
+      "https://www.niemanlab.org/2022/08/space-is-for-everyone-meet-the-scientists-trying-to-put-otherworldly-images-into-words/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 08:43:11",
+      "https://news.ycombinator.com/item?id=32340635"
+    ],
+    [
+      "Super Dimension Fortress",
+      "https://sdf.org/?welcome"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 08:06:42",
       "https://news.ycombinator.com/item?id=32340433"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-08-03, 21:25:05",
-      "https://news.ycombinator.com/item?id=32336818"
-    ],
-    [
-      "A Microsoft team racing to catch bugs before they happen",
-      "https://www.wired.com/story/microsoft-morse-team/"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 20:11:57",
       "https://news.ycombinator.com/item?id=32336190"
     ],
@@ -287,16 +297,6 @@
     [
       "Things I've learned building a modern TUI framework",
       "https://www.textualize.io/blog/posts/7-things-about-terminals"
-    ]
-  ],
-  [
-    [
-      "2022-08-02, 14:43:38",
-      "https://news.ycombinator.com/item?id=32319147"
-    ],
-    [
-      "Use one big server",
-      "https://specbranch.com/posts/one-big-server/"
     ]
   ]
 ]
