@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-08-03, 18:36:42",
-      "https://news.ycombinator.com/item?id=32335295"
-    ],
-    [
-      "SQLite-HTML: A SQLite extension for querying, manipulating, and creating HTML",
-      "https://github.com/asg017/sqlite-html"
-    ]
-  ],
-  [
-    [
       "2022-08-03, 18:21:36",
       "https://news.ycombinator.com/item?id=32335165"
     ],
@@ -287,6 +277,16 @@
     [
       "Launch HN: Iollo (YC S22) – At-home metabolomics test to extend healthy lifespan",
       "https://news.ycombinator.com/item?id=32333417"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 14:02:19",
+      "https://news.ycombinator.com/item?id=32331781"
+    ],
+    [
+      "Hijacking Email with Cloudflare Email Routing",
+      "https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/"
     ]
   ],
   [
