@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-08-04, 02:48:48",
+      "https://news.ycombinator.com/item?id=32338779"
+    ],
+    [
+      "Ask HN: What's up with these DoorDash dark patterns?",
+      "https://news.ycombinator.com/item?id=32338779"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 01:51:40",
       "https://news.ycombinator.com/item?id=32338478"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2022-08-04, 01:45:24",
+      "https://news.ycombinator.com/item?id=32338447"
+    ],
+    [
+      "Netlify no longer supporting private repos on their starter plan",
+      "https://www.netlify.com/pricing/private-org-repo-faq/"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 01:00:06",
       "https://news.ycombinator.com/item?id=32338204"
     ],
@@ -67,6 +87,16 @@
     [
       "Sending spammers to password purgatory",
       "https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 23:39:26",
+      "https://news.ycombinator.com/item?id=32337705"
+    ],
+    [
+      "A Simple Guide to Quadratic Voting",
+      "https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1"
     ]
   ],
   [
@@ -107,6 +137,16 @@
     [
       "Alpine Linux is reducing dependencies on Busybox",
       "https://gitlab.alpinelinux.org/alpine/tsc/-/issues/52"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 19:51:03",
+      "https://news.ycombinator.com/item?id=32336010"
+    ],
+    [
+      "How to support open-source software and stay sane",
+      "https://www.nature.com/articles/d41586-019-02046-0"
     ]
   ],
   [
@@ -171,6 +211,26 @@
   ],
   [
     [
+      "2022-08-03, 16:48:06",
+      "https://news.ycombinator.com/item?id=32334052"
+    ],
+    [
+      "Show HN: MutableAI (YC W22) – Copilot Alternative for VS Code",
+      "https://marketplace.visualstudio.com/items?itemName=mutable-ai.mutable-ai"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 16:38:39",
+      "https://news.ycombinator.com/item?id=32333942"
+    ],
+    [
+      "Free online textbooks work",
+      "https://www.gatesnotes.com/Education/Supporting-educators"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 16:08:02",
       "https://news.ycombinator.com/item?id=32333565"
     ],
@@ -201,6 +261,16 @@
   ],
   [
     [
+      "2022-08-03, 14:40:33",
+      "https://news.ycombinator.com/item?id=32332385"
+    ],
+    [
+      "Political Chips",
+      "https://stratechery.com/2022/political-chips/"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 13:57:01",
       "https://news.ycombinator.com/item?id=32331716"
     ],
@@ -211,92 +281,22 @@
   ],
   [
     [
+      "2022-08-03, 13:24:45",
+      "https://news.ycombinator.com/item?id=32331367"
+    ],
+    [
+      "Things I've learned building a modern TUI framework",
+      "https://www.textualize.io/blog/posts/7-things-about-terminals"
+    ]
+  ],
+  [
+    [
       "2022-08-03, 07:21:24",
       "https://news.ycombinator.com/item?id=32328617"
     ],
     [
       "Show HN: Tiny PS1-like Renderer in 500 lines",
       "https://github.com/nkanaev/tipsy"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 22:25:47",
-      "https://news.ycombinator.com/item?id=32299440"
-    ],
-    [
-      "The rise of South Korea's virtual influencers",
-      "https://www.cnn.com/style/article/south-korea-virtual-influencers-beauty-social-media-intl-hnk-dst/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 17:42:23",
-      "https://news.ycombinator.com/item?id=32297164"
-    ],
-    [
-      "The Joy of Programming",
-      "https://donraab.medium.com/the-joy-of-programming-64cd5949bc78"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 17:41:37",
-      "https://news.ycombinator.com/item?id=32297156"
-    ],
-    [
-      "A 'nano-robot' built from DNA to explore cell processes",
-      "https://www.sciencedaily.com/releases/2022/07/220728075911.htm"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 16:49:17",
-      "https://news.ycombinator.com/item?id=32296802"
-    ],
-    [
-      "I talked to Leonardo da Vinci",
-      "https://dkb.show/post/leonardo-da-vinci"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 15:44:31",
-      "https://news.ycombinator.com/item?id=32296330"
-    ],
-    [
-      "Good Losses, Bad Losses [pdf]",
-      "https://www.morganstanley.com/im/publication/insights/articles/article_goodlossesbadlosses.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 14:22:51",
-      "https://news.ycombinator.com/item?id=32295666"
-    ],
-    [
-      "New Clojure Project Quickstart",
-      "https://blog.michielborkent.nl/new-clojure-project-quickstart.html"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 14:16:18",
-      "https://news.ycombinator.com/item?id=32295624"
-    ],
-    [
-      "Apple’s Hot iPhone Quarter Masks a Behind-the-Scenes Slowdown",
-      "https://www.bloomberg.com/news/newsletters/2022-07-31/apple-q3-2022-results-recap-strong-iphone-sales-wearables-mac-services-miss-l69dkkci"
-    ]
-  ],
-  [
-    [
-      "2022-07-31, 10:56:40",
-      "https://news.ycombinator.com/item?id=32294737"
-    ],
-    [
-      "Emacs Timeline",
-      "https://emacs.brause.cc/timeline.html"
     ]
   ]
 ]
