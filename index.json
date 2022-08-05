@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-05, 21:00:54",
+      "https://news.ycombinator.com/item?id=32361930"
+    ],
+    [
+      "Kable (YC W22) Is Hiring Founding Engineers in the US",
+      "https://kable.io"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 20:24:48",
       "https://news.ycombinator.com/item?id=32361558"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2022-08-05, 17:59:25",
-      "https://news.ycombinator.com/item?id=32359596"
-    ],
-    [
-      "What ever happened to the transhumanists?",
-      "https://gizmodo.com/what-happened-to-transhumanism-in-2022-life-extension-1849199492"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 17:38:53",
       "https://news.ycombinator.com/item?id=32359325"
     ],
@@ -117,16 +117,6 @@
     [
       "Twitter says Musk’s spam analysis used tool that called his own account a bot",
       "https://arstechnica.com/tech-policy/2022/08/twitter-says-musks-spam-analysis-used-tool-that-called-his-own-account-a-bot/"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 17:00:53",
-      "https://news.ycombinator.com/item?id=32358827"
-    ],
-    [
-      "DevCycle (YC W14) is hiring feature flag developers to fix software innovation",
-      "https://devcycle.com/company/careers"
     ]
   ],
   [
@@ -165,8 +155,18 @@
       "https://news.ycombinator.com/item?id=32358038"
     ],
     [
-      "Launch HN: Taro (YC S22) – Private engineer community focused on career growth",
+      "Launch HN: Taro (YC S22): Private career growth community for software engineers",
       "https://news.ycombinator.com/item?id=32358038"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 15:56:47",
+      "https://news.ycombinator.com/item?id=32357954"
+    ],
+    [
+      "Helium",
+      "https://blog.dshr.org/2022/08/helium.html"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Nix: Taming Unix with Functional Programming",
       "https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 12:12:29",
+      "https://news.ycombinator.com/item?id=32354969"
+    ],
+    [
+      "Amazon to acquire maker of Roomba vacuum for roughly $1.7B",
+      "https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: I created a browser automation tool",
       "https://www.rocketride.io"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 05:43:13",
-      "https://news.ycombinator.com/item?id=32352186"
-    ],
-    [
-      "My favorite iPhone feature was removed, long live its subpar replacement",
-      "https://technicallychallenged.substack.com/p/my-favorite-iphone-feature-was-removed"
     ]
   ],
   [
