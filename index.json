@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-08-05, 17:34:36",
-      "https://news.ycombinator.com/item?id=32359267"
+      "2022-08-05, 18:13:55",
+      "https://news.ycombinator.com/item?id=32359790"
     ],
     [
-      "Lightyear One",
-      "https://lightyear.one/"
+      "Aug 5 – 100000 robotic lawn mowers can sing Happy Birthday to Curiosity",
+      "https://www.husqvarna.com/us/discover/news-and-media/happybirthday/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 18:13:17",
+      "https://news.ycombinator.com/item?id=32359780"
+    ],
+    [
+      "Analysis of energy consumption of Bluetooth Low Energy versus Bluetooth Classic",
+      "http://hj.diva-portal.org/smash/record.jsf?pid=diva2%3A1683816&dswid=1160"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 18:03:18",
+      "https://news.ycombinator.com/item?id=32359655"
+    ],
+    [
+      "Byte Magazine: LISP (1979)",
+      "https://archive.org/details/byte-magazine-1979-08"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 18:01:11",
+      "https://news.ycombinator.com/item?id=32359618"
+    ],
+    [
+      "Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans",
+      "http://www.righto.com/2022/08/lumafield-flip-flop.html"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Twitter says Musk’s spam analysis used tool that called his own account a bot",
       "https://arstechnica.com/tech-policy/2022/08/twitter-says-musks-spam-analysis-used-tool-that-called-his-own-account-a-bot/"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 17:04:32",
-      "https://news.ycombinator.com/item?id=32358874"
-    ],
-    [
-      "Online Applesoft Basic Editor",
-      "https://paleotronic.com/applesoft/"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Show HN: Convert English to Cron Expressions",
       "https://cronprompt.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 16:18:49",
+      "https://news.ycombinator.com/item?id=32358268"
+    ],
+    [
+      "An ARM Server That Is Banned in the US",
+      "https://www.servethehome.com/the-forbidden-arm-server-that-is-banned-in-the-us/"
     ]
   ],
   [
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2022-08-05, 15:21:45",
-      "https://news.ycombinator.com/item?id=32357433"
-    ],
-    [
-      "I was at Woodstock ’99 and it destroyed my innocence",
-      "https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 15:10:09",
-      "https://news.ycombinator.com/item?id=32357248"
-    ],
-    [
-      "Godot 3.5",
-      "https://godotengine.org/article/godot-3-5-cant-stop-wont-stop"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 14:00:55",
       "https://news.ycombinator.com/item?id=32356208"
     ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2022-08-05, 12:16:27",
+      "https://news.ycombinator.com/item?id=32355012"
+    ],
+    [
+      "Show HN: Genie Builder, no-code UI plugin for building data apps",
+      "https://genieframework.com/blog/announcing-genie-builder.html"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 12:12:29",
       "https://news.ycombinator.com/item?id=32354969"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2022-08-05, 11:52:09",
-      "https://news.ycombinator.com/item?id=32354797"
-    ],
-    [
-      "ANSIArt",
-      "https://mrogalski.eu/ansi-art/"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 11:35:48",
       "https://news.ycombinator.com/item?id=32354669"
     ],
     [
       "Decentralized Identifiers (DIDs) v1.0 Becomes a W3C Recommendation",
       "https://www.w3.org/2022/07/pressrelease-did-rec.html.en"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 10:28:00",
-      "https://news.ycombinator.com/item?id=32354097"
-    ],
-    [
-      "Vantem builds modular homes out of energy-efficient panels",
-      "https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2022-08-05, 09:47:36",
+      "https://news.ycombinator.com/item?id=32353795"
+    ],
+    [
+      "Political betting site PredictIt to shut down after CFTC withdraws approval",
+      "https://www.predictit.org/platform-announcements"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 09:01:57",
       "https://news.ycombinator.com/item?id=32353500"
     ],
     [
       "Documenting software architecture with arc42",
       "https://www.innoq.com/en/blog/brief-introduction-to-arc42/"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 06:44:18",
-      "https://news.ycombinator.com/item?id=32352584"
-    ],
-    [
-      "Bringing back the golden days of Bell Labs",
-      "https://www.nature.com/articles/s42254-022-00426-6"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-08-05, 01:40:34",
-      "https://news.ycombinator.com/item?id=32350462"
+      "2022-08-04, 11:36:27",
+      "https://news.ycombinator.com/item?id=32341607"
     ],
     [
-      "We're improving search results when you use quotes",
-      "https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/"
+      "Thinking with pen and paper",
+      "https://ljvmiranda921.github.io/life/2022/08/04/pen-and-paper/"
     ]
   ],
   [
