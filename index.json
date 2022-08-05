@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-05, 13:20:41",
+      "https://news.ycombinator.com/item?id=32355710"
+    ],
+    [
+      "Enough with the Notifications",
+      "https://www.theregister.com/2022/08/05/something_for_the_weekend/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 13:02:06",
+      "https://news.ycombinator.com/item?id=32355480"
+    ],
+    [
+      "French Scientist's Photo of ‘Distant Star’ Was Chorizo",
+      "https://www.vice.com/en/article/akeemk/chorizo-james-webb-space-telescope"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 12:49:29",
       "https://news.ycombinator.com/item?id=32355331"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2022-08-05, 12:34:30",
-      "https://news.ycombinator.com/item?id=32355178"
+      "2022-08-05, 12:49:20",
+      "https://news.ycombinator.com/item?id=32355327"
     ],
     [
-      "Recession Added 528,000 Jobs in July",
-      "https://www.cnbc.com/2022/08/05/jobs-report-july-2022-528000.html"
+      "Nix: Taming Unix with Functional Programming",
+      "https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2022-08-05, 11:52:09",
+      "https://news.ycombinator.com/item?id=32354797"
+    ],
+    [
+      "ANSIArt",
+      "https://mrogalski.eu/ansi-art/"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 11:35:48",
       "https://news.ycombinator.com/item?id=32354669"
     ],
@@ -67,16 +97,6 @@
     [
       "Stateless Kubernetes overlay networks with IPv6",
       "https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 10:28:00",
-      "https://news.ycombinator.com/item?id=32354097"
-    ],
-    [
-      "Gates-Backed Startup Builds Modular Homes Out of Energy-Efficient Panels",
-      "https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/"
     ]
   ],
   [
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2022-08-05, 07:31:15",
-      "https://news.ycombinator.com/item?id=32352875"
+      "2022-08-05, 08:50:56",
+      "https://news.ycombinator.com/item?id=32353413"
     ],
     [
-      "Parts of Great Barrier Reef show highest coral cover seen in 36 years",
-      "https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2021-22"
+      "Abusing container mount points on MikroTik's RouterOS to gain code execution",
+      "https://nns.ee/blog/2022/08/05/routeros-container-rce.html"
     ]
   ],
   [
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32352186"
     ],
     [
-      "My favorite iPhone feature was removed long live its subpar replacement",
+      "My favorite iPhone feature was removed, long live its subpar replacement",
       "https://technicallychallenged.substack.com/p/my-favorite-iphone-feature-was-removed"
     ]
   ],
@@ -221,42 +241,22 @@
   ],
   [
     [
-      "2022-08-04, 21:23:07",
-      "https://news.ycombinator.com/item?id=32348461"
-    ],
-    [
-      "Show HN: Penumbra, a perceptually optimized color palette based on natural light",
-      "https://github.com/nealmckee/penumbra"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 19:38:31",
-      "https://news.ycombinator.com/item?id=32347337"
-    ],
-    [
-      "Using grape harvest dates to estimate summer temperature over 650 years",
-      "https://tamino.wordpress.com/2022/08/02/french-heat/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 16:57:50",
-      "https://news.ycombinator.com/item?id=32345404"
-    ],
-    [
-      "Old jokes",
-      "https://dynomight.net/old-jokes/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 13:05:32",
       "https://news.ycombinator.com/item?id=32342334"
     ],
     [
       "Launch HN: CodeCrafters (YC S22) – Practice writing complex software",
       "https://codecrafters.io"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 10:36:26",
+      "https://news.ycombinator.com/item?id=32341274"
+    ],
+    [
+      "Hocus focus: how magicians made a fortune on Facebook",
+      "https://www.economist.com/1843/2022/07/28/hocus-focus-how-magicians-made-a-fortune-on-facebook"
     ]
   ],
   [
