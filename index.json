@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-05, 17:34:36",
+      "https://news.ycombinator.com/item?id=32359267"
+    ],
+    [
+      "Lightyear One",
+      "https://lightyear.one/"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 17:18:16",
       "https://news.ycombinator.com/item?id=32359059"
     ],
     [
       "Solving a bad ARP behavior on a Linux router",
       "https://dataswamp.org/~solene/2022-08-05-linux-arp-filter.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 17:04:32",
+      "https://news.ycombinator.com/item?id=32358874"
+    ],
+    [
+      "Online Applesoft Basic Editor",
+      "https://paleotronic.com/applesoft/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32358745"
     ],
     [
-      "You Shouldn’t Use Modals",
+      "Forms in modals: UX case",
       "https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/"
     ]
   ],
@@ -85,18 +105,8 @@
       "https://news.ycombinator.com/item?id=32357470"
     ],
     [
-      "DreamWorks Animation to Release MoonRay as Open Source",
+      "DreamWorks Animation to release MoonRay as open source",
       "https://www.awn.com/news/dreamworks-animation-release-moonray-open-source"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 15:21:45",
-      "https://news.ycombinator.com/item?id=32357433"
-    ],
-    [
-      "I was at Woodstock ’99 and it destroyed my innocence",
-      "https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "We're improving search results when you use quotes",
       "https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 10:44:12",
-      "https://news.ycombinator.com/item?id=32341326"
-    ],
-    [
-      "Use embed from C23 today with the Cedro pre-processor",
-      "https://sentido-labs.com/en/library/cedro/202106171400/use-embed-c23-today.html"
     ]
   ],
   [
