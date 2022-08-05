@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-05, 10:28:00",
+      "https://news.ycombinator.com/item?id=32354097"
+    ],
+    [
+      "Gates-Backed Startup Builds Modular Homes Out of Energy-Efficient Panels",
+      "https://singularityhub.com/2022/08/03/this-gates-backed-startup-builds-modular-homes-out-of-energy-efficient-panels/"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 10:17:01",
       "https://news.ycombinator.com/item?id=32354035"
     ],
     [
       "Asus Zenbook 17 Fold OLED",
       "https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 10:04:07",
+      "https://news.ycombinator.com/item?id=32353941"
+    ],
+    [
+      "Blender 3.2.2 Released",
+      "https://www.blender.org/download/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-08-04, 17:20:04",
-      "https://news.ycombinator.com/item?id=32345670"
-    ],
-    [
-      "Connect-Web: TypeScript library for calling RPC servers from web browsers",
-      "https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 16:57:50",
       "https://news.ycombinator.com/item?id=32345404"
     ],
@@ -287,16 +297,6 @@
     [
       "Clojure Scripting on Node.js",
       "https://github.com/babashka/nbb"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 04:59:21",
-      "https://news.ycombinator.com/item?id=32327822"
-    ],
-    [
-      "A complex of Native American rock mounds bears witness to ancient traditions",
-      "https://www.archaeology.org/issues/476-2207/letter-from/10625-georgia-stone-mounds"
     ]
   ]
 ]
