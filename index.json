@@ -1,6 +1,96 @@
 [
   [
     [
+      "2022-08-05, 02:40:42",
+      "https://news.ycombinator.com/item?id=32350906"
+    ],
+    [
+      "Is Marc Andreessen a NIMBY?",
+      "https://twitter.com/JerusalemDemsas/status/1555360241931485186"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 02:05:32",
+      "https://news.ycombinator.com/item?id=32350657"
+    ],
+    [
+      "The Billionaire’s Dilemma – On Marc Andreessen's NIMBYism",
+      "https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 01:40:34",
+      "https://news.ycombinator.com/item?id=32350462"
+    ],
+    [
+      "We're improving search results when you use quotes",
+      "https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 01:22:57",
+      "https://news.ycombinator.com/item?id=32350367"
+    ],
+    [
+      "Every U.S. Crypto Exchange (and Binance) Is Being Investigated by the SEC",
+      "https://www.forbes.com/sites/michaeldelcastillo/2022/08/04/every-us-crypto-exchange-and-binance-is-being-investigated-by-the-sec-says-senator-lummis-staffer/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 01:15:05",
+      "https://news.ycombinator.com/item?id=32350326"
+    ],
+    [
+      "Lowbar – The simplest no-nonsense loading bar for Python",
+      "https://github.com/AnnikaV9/lowbar"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 00:47:43",
+      "https://news.ycombinator.com/item?id=32350180"
+    ],
+    [
+      "Gitlab U-turns on deleting dormant projects after backlash",
+      "https://www.theregister.com/2022/08/05/gitlab_reverses_deletion_policy/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 00:39:03",
+      "https://news.ycombinator.com/item?id=32350137"
+    ],
+    [
+      "Apple retaliated against women who complained about misconduct",
+      "https://www.engadget.com/report-apple-retaliated-against-misconduct-victims-094505393.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 00:35:37",
+      "https://news.ycombinator.com/item?id=32350109"
+    ],
+    [
+      "Firefox will no longer be a supported browser – service.mbna.ca",
+      "https://github.com/webcompat/web-bugs/issues/107661"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 00:27:37",
+      "https://news.ycombinator.com/item?id=32350067"
+    ],
+    [
+      "I’m so over customer experience surveys",
+      "https://techcrunch.com/2022/08/02/im-so-over-customer-experience-surveys/"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 23:17:51",
       "https://news.ycombinator.com/item?id=32349516"
     ],
@@ -61,22 +151,22 @@
   ],
   [
     [
+      "2022-08-04, 19:23:10",
+      "https://news.ycombinator.com/item?id=32347172"
+    ],
+    [
+      "Lex Fridman Podcast #309 – John Carmack",
+      "https://lexfridman.com/john-carmack/"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 19:02:19",
       "https://news.ycombinator.com/item?id=32346949"
     ],
     [
       "How to Use an iPad as a Secure Calling and Messaging Device (Updated 2022)",
       "https://yawnbox.com/blog/how-to-use-an-ipad-as-a-secure-calling-and-messaging-device/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 18:08:21",
-      "https://news.ycombinator.com/item?id=32346296"
-    ],
-    [
-      "Implementing a “mini-LaTeX” in ~2000 lines of code",
-      "https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html"
     ]
   ],
   [
@@ -91,52 +181,12 @@
   ],
   [
     [
-      "2022-08-04, 17:53:55",
-      "https://news.ycombinator.com/item?id=32346087"
-    ],
-    [
-      "Google’s video chat merger begins: Now there are two “Google Meet” apps",
-      "https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 17:50:53",
-      "https://news.ycombinator.com/item?id=32346038"
-    ],
-    [
-      "Strict-serializability, but at what cost, for what purpose?",
-      "http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 17:33:40",
-      "https://news.ycombinator.com/item?id=32345840"
-    ],
-    [
-      "Anime retailer Right Stuf has been acquired by Sony/Aniplex",
-      "https://www.rightstufanime.com/post/right-stuf-has-joined-the-crunchyroll-family"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 17:20:04",
       "https://news.ycombinator.com/item?id=32345670"
     ],
     [
-      "Connect-Web: It's time for Protobuf/gRPC to be your first choice in the browser",
+      "Connect-Web: TypeScript library for calling RPC servers from web browsers",
       "https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 17:00:33",
-      "https://news.ycombinator.com/item?id=32345444"
-    ],
-    [
-      "TaxProper (YC S19) Is Hiring",
-      "https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2022-08-04, 15:15:11",
-      "https://news.ycombinator.com/item?id=32344014"
-    ],
-    [
-      "Gaudi: A Neural Architect for Immersive 3D Scene Generation",
-      "https://github.com/apple/ml-gaudi"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 14:47:26",
       "https://news.ycombinator.com/item?id=32343608"
     ],
     [
       "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
       "https://lemon.rip/w/c99-vla-tricks/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 14:43:06",
-      "https://news.ycombinator.com/item?id=32343548"
-    ],
-    [
-      "LocalStack and AWS Parity Explained",
-      "https://localstack.cloud/blog/2022-08-04-parity-explained/"
     ]
   ],
   [
@@ -231,22 +261,22 @@
   ],
   [
     [
-      "2022-08-04, 13:20:37",
-      "https://news.ycombinator.com/item?id=32342501"
-    ],
-    [
-      "Quaise Energy is working to create geothermal wells",
-      "https://news.mit.edu/2022/quaise-energy-geothermal-0628"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 13:05:32",
       "https://news.ycombinator.com/item?id=32342334"
     ],
     [
       "Launch HN: CodeCrafters (YC S22) – Practice writing complex software",
       "https://codecrafters.io"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 12:26:33",
+      "https://news.ycombinator.com/item?id=32341922"
+    ],
+    [
+      "Ask HN: What HN post made you money?",
+      "https://news.ycombinator.com/item?id=32341922"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2022-08-04, 11:54:01",
-      "https://news.ycombinator.com/item?id=32341698"
-    ],
-    [
-      "Hyundai rolls out 27 heavy-duty hydrogen trucks in Germany",
-      "https://thedriven.io/2022/08/04/hyundai-rolls-out-27-heavy-duty-hydrogen-trucks-in-germany/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 08:56:08",
       "https://news.ycombinator.com/item?id=32340703"
     ],
     [
-      "Against Discipline (and for Play)",
+      "Against Discipline",
       "https://irinadumitrescu.substack.com/p/against-discipline"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 04:59:21",
-      "https://news.ycombinator.com/item?id=32327822"
-    ],
-    [
-      "A complex of Native American rock mounds bears witness to ancient traditions",
-      "https://www.archaeology.org/issues/476-2207/letter-from/10625-georgia-stone-mounds"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 04:47:24",
-      "https://news.ycombinator.com/item?id=32327762"
-    ],
-    [
-      "Allegorical maps of love, courtship, and matrimony",
-      "https://publicdomainreview.org/collection/allegorical-maps-of-love-courtship-and-matrimony/"
     ]
   ]
 ]
