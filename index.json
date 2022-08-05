@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-05, 09:01:57",
+      "https://news.ycombinator.com/item?id=32353500"
+    ],
+    [
+      "Documenting Software Architectures with arc42",
+      "https://www.innoq.com/en/blog/brief-introduction-to-arc42/"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 08:37:12",
       "https://news.ycombinator.com/item?id=32353318"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-08-05, 08:34:45",
-      "https://news.ycombinator.com/item?id=32353306"
+      "2022-08-05, 07:31:15",
+      "https://news.ycombinator.com/item?id=32352875"
     ],
     [
-      "$55 board turns a Raspberry Pi CM4 into a router",
-      "https://liliputing.com/this-55-board-turns-a-raspberry-pi-cm4-into-a-router/"
+      "Parts of Great Barrier Reef show highest coral cover seen in 36 years",
+      "https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2021-22"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
       "https://lemon.rip/w/c99-vla-tricks/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 13:24:22",
-      "https://news.ycombinator.com/item?id=32342550"
-    ],
-    [
-      "Is DALL-E 2 ‘gluing things together’ without understanding their relationships?",
-      "https://www.unite.ai/is-dall-e-2-just-gluing-things-together-without-understanding-their-relationships/"
     ]
   ],
   [
