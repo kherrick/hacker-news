@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-05, 15:21:45",
+      "https://news.ycombinator.com/item?id=32357433"
+    ],
+    [
+      "I was at Woodstock ’99 and it destroyed my innocence",
+      "https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 15:10:09",
+      "https://news.ycombinator.com/item?id=32357248"
+    ],
+    [
+      "Godot 3.5: Can't stop won't stop",
+      "https://godotengine.org/article/godot-3-5-cant-stop-wont-stop"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 14:18:20",
       "https://news.ycombinator.com/item?id=32356428"
     ],
@@ -87,16 +107,6 @@
     [
       "Nix: Taming Unix with Functional Programming",
       "https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 12:16:26",
-      "https://news.ycombinator.com/item?id=32355010"
-    ],
-    [
-      "Amazon to Acquire iRobot",
-      "https://www.aboutamazon.com/news/company-news/amazon-and-irobot-sign-an-agreement-for-amazon-to-acquire-irobot"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-08-05, 03:47:18",
-      "https://news.ycombinator.com/item?id=32351340"
-    ],
-    [
-      "Keeping a project bisectable",
-      "https://andrealmeid.com/post/2022-07-31-keep-bisect/"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 01:40:34",
       "https://news.ycombinator.com/item?id=32350462"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-08-04, 10:44:12",
+      "https://news.ycombinator.com/item?id=32341326"
+    ],
+    [
+      "Use embed from C23 today with the Cedro pre-processor",
+      "https://sentido-labs.com/en/library/cedro/202106171400/use-embed-c23-today.html"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 10:36:26",
       "https://news.ycombinator.com/item?id=32341274"
     ],
@@ -277,16 +287,6 @@
     [
       "Clojure Scripting on Node.js",
       "https://github.com/babashka/nbb"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 08:14:58",
-      "https://news.ycombinator.com/item?id=32328991"
-    ],
-    [
-      "ISO Warning Signs",
-      "https://en.wikipedia.org/wiki/ISO_7010"
     ]
   ],
   [
