@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-08-05, 03:08:30",
-      "https://news.ycombinator.com/item?id=32351086"
-    ],
-    [
-      "TikTok Is Reportedly an 'Essential' App for Some Samsung Installs",
-      "https://screenrant.com/tiktok-essential-app-samsung-install/"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 02:40:42",
       "https://news.ycombinator.com/item?id=32350906"
     ],
@@ -57,16 +47,6 @@
     [
       "The Nightmare of Targeted Individuals in the Age of Paranoia",
       "https://roundtable.io/failed-state-update/features/the-nightmare-of-targeted-individuals-in-the-age-of-paranoia"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 01:52:49",
-      "https://news.ycombinator.com/item?id=32350559"
-    ],
-    [
-      "Traffic Fatalities Reach 16 Year High",
-      "https://www.nhtsa.gov/press-releases/early-estimate-2021-traffic-fatalities"
     ]
   ],
   [
@@ -107,16 +87,6 @@
     [
       "All about QBasic and QuickBasic",
       "https://www.qbasic.net/"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 22:15:59",
-      "https://news.ycombinator.com/item?id=32349006"
-    ],
-    [
-      "Tell HN: I interviewed my dad before he died",
-      "https://news.ycombinator.com/item?id=32349006"
     ]
   ],
   [
@@ -171,22 +141,22 @@
   ],
   [
     [
+      "2022-08-04, 18:08:21",
+      "https://news.ycombinator.com/item?id=32346296"
+    ],
+    [
+      "Implementing a “mini-LaTeX” in ~2000 lines of code",
+      "https://nibblestew.blogspot.com/2022/07/implementing-mini-latex-in-2000-lines.html"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 18:08:05",
       "https://news.ycombinator.com/item?id=32346288"
     ],
     [
       "Excel never dies (2021)",
       "https://www.notboring.co/p/excel-never-dies"
-    ]
-  ],
-  [
-    [
-      "2022-08-04, 17:53:55",
-      "https://news.ycombinator.com/item?id=32346087"
-    ],
-    [
-      "Google’s video chat merger begins: Now there are two “Google Meet” apps",
-      "https://arstechnica.com/gadgets/2022/08/googles-video-chat-merger-begins-now-there-are-two-google-meet-apps/"
     ]
   ],
   [
@@ -207,6 +177,16 @@
     [
       "Connect-Web: TypeScript library for calling RPC servers from web browsers",
       "https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 17:00:33",
+      "https://news.ycombinator.com/item?id=32345444"
+    ],
+    [
+      "TaxProper (YC S19) Is Hiring",
+      "https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2022-08-04, 15:15:11",
+      "https://news.ycombinator.com/item?id=32344014"
+    ],
+    [
+      "Gaudi: A Neural Architect for Immersive 3D Scene Generation",
+      "https://github.com/apple/ml-gaudi"
+    ]
+  ],
+  [
+    [
       "2022-08-04, 14:47:26",
       "https://news.ycombinator.com/item?id=32343608"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2022-08-04, 13:20:37",
-      "https://news.ycombinator.com/item?id=32342501"
+      "2022-08-04, 14:28:33",
+      "https://news.ycombinator.com/item?id=32343370"
     ],
     [
-      "Quaise Energy is working to create geothermal wells",
-      "https://news.mit.edu/2022/quaise-energy-geothermal-0628"
+      "Black holes finally proven mathematically stable",
+      "https://www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Against Discipline",
       "https://irinadumitrescu.substack.com/p/against-discipline"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 06:54:30",
+      "https://news.ycombinator.com/item?id=32339979"
+    ],
+    [
+      "Clojure Scripting on Node.js",
+      "https://github.com/babashka/nbb"
     ]
   ],
   [
