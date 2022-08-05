@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-05, 12:12:29",
+      "https://news.ycombinator.com/item?id=32354969"
+    ],
+    [
+      "Amazon to acquire maker of Roomba vacuum for roughly $1.7B",
+      "https://www.cnbc.com/2022/08/05/amazon-to-acquire-maker-of-roomba-vacuum-for-roughly-1point7-billion.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 11:35:48",
+      "https://news.ycombinator.com/item?id=32354669"
+    ],
+    [
+      "Decentralized Identifiers (DIDs) v1.0 Becomes a W3C Recommendation",
+      "https://www.w3.org/2022/07/pressrelease-did-rec.html.en"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 10:28:00",
       "https://news.ycombinator.com/item?id=32354097"
     ],
@@ -37,16 +57,6 @@
     [
       "What are the best books or resources on SRE automation that are also practical?",
       "https://news.ycombinator.com/item?id=32353824"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 09:33:40",
-      "https://news.ycombinator.com/item?id=32353696"
-    ],
-    [
-      "Did we all believe a myth about depression?",
-      "https://www.bbc.co.uk/news/health-62286093"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-08-04, 21:32:26",
-      "https://news.ycombinator.com/item?id=32348567"
-    ],
-    [
-      "Coral makes comeback on Great Barrier Reef",
-      "https://www.hawkesburygazette.com.au/story/7846819/coral-makes-comeback-on-great-barrier-reef/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 21:23:07",
       "https://news.ycombinator.com/item?id=32348461"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-08-04, 14:47:26",
-      "https://news.ycombinator.com/item?id=32343608"
-    ],
-    [
-      "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
-      "https://lemon.rip/w/c99-vla-tricks/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 13:05:32",
       "https://news.ycombinator.com/item?id=32342334"
     ],
@@ -287,6 +277,16 @@
     [
       "Clojure Scripting on Node.js",
       "https://github.com/babashka/nbb"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 08:14:58",
+      "https://news.ycombinator.com/item?id=32328991"
+    ],
+    [
+      "ISO Warning Signs",
+      "https://en.wikipedia.org/wiki/ISO_7010"
     ]
   ],
   [
