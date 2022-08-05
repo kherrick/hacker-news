@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-08-04, 14:47:26",
-      "https://news.ycombinator.com/item?id=32343608"
-    ],
-    [
-      "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
-      "https://lemon.rip/w/c99-vla-tricks/"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 13:05:32",
       "https://news.ycombinator.com/item?id=32342334"
     ],
@@ -297,6 +287,16 @@
     [
       "Clojure Scripting on Node.js",
       "https://github.com/babashka/nbb"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 06:55:07",
+      "https://news.ycombinator.com/item?id=32328474"
+    ],
+    [
+      "Software from the Pits of Hell: Remembering Flashstuffer",
+      "https://www.thewiretap.io/remembering-flashstuffer/"
     ]
   ]
 ]
