@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-05, 17:18:16",
+      "https://news.ycombinator.com/item?id=32359059"
+    ],
+    [
+      "Solving a bad ARP behavior on a Linux router",
+      "https://dataswamp.org/~solene/2022-08-05-linux-arp-filter.html"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 17:00:53",
       "https://news.ycombinator.com/item?id=32358827"
     ],
@@ -27,6 +37,16 @@
     [
       "Show HN: Convert English to Cron Expressions",
       "https://cronprompt.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 16:07:30",
+      "https://news.ycombinator.com/item?id=32358078"
+    ],
+    [
+      "BlenderBot 3: A 175B parameter, publicly available chatbot",
+      "https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-08-05, 13:57:21",
-      "https://news.ycombinator.com/item?id=32356171"
-    ],
-    [
-      "Italy, Intel close to $5B deal for chip factory",
-      "https://www.reuters.com/technology/exclusive-italy-intel-close-5-bln-deal-chip-factory-sources-2022-08-04/"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 13:23:29",
       "https://news.ycombinator.com/item?id=32355750"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-08-05, 12:03:46",
-      "https://news.ycombinator.com/item?id=32354896"
-    ],
-    [
-      "Israeli researchers discovered the first consensus-level attack on Ethereum",
-      "https://twitter.com/yaish_aviv/status/1555445499041300481"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 11:52:09",
       "https://news.ycombinator.com/item?id=32354797"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2022-08-05, 09:56:27",
+      "https://news.ycombinator.com/item?id=32353865"
+    ],
+    [
+      "Tips for Better Burgers (2010)",
+      "https://www.seriouseats.com/the-burger-labs-top-ten-tips-for-better-burgers"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 09:01:57",
       "https://news.ycombinator.com/item?id=32353500"
     ],
     [
       "Documenting software architecture with arc42",
       "https://www.innoq.com/en/blog/brief-introduction-to-arc42/"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 08:50:56",
-      "https://news.ycombinator.com/item?id=32353413"
-    ],
-    [
-      "Abusing container mount points on MikroTik's RouterOS to gain code execution",
-      "https://nns.ee/blog/2022/08/05/routeros-container-rce.html"
     ]
   ],
   [
