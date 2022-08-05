@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-08-04, 17:00:33",
-      "https://news.ycombinator.com/item?id=32345444"
-    ],
-    [
-      "TaxProper (YC S19) Is Hiring",
-      "https://taxproper.notion.site/TaxProper-is-Hiring-c38437f2d0404380a6c5c9dd790c7624"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 16:57:50",
       "https://news.ycombinator.com/item?id=32345404"
     ],
@@ -237,6 +227,16 @@
     [
       "C99 doesn't need function bodies, or 'VLAs are Turing complete'",
       "https://lemon.rip/w/c99-vla-tricks/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 14:43:06",
+      "https://news.ycombinator.com/item?id=32343548"
+    ],
+    [
+      "LocalStack and AWS Parity Explained",
+      "https://localstack.cloud/blog/2022-08-04-parity-explained/"
     ]
   ],
   [
