@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2022-08-06, 13:37:55",
+      "https://news.ycombinator.com/item?id=32367979"
+    ],
+    [
+      "Simulating an Entire Car Engine (yes, it makes noise) [video]",
+      "https://www.youtube.com/watch?v=RKT-sKtR970"
+    ]
+  ],
+  [
+    [
+      "2022-08-06, 13:31:00",
+      "https://news.ycombinator.com/item?id=32367923"
+    ],
+    [
+      "Show HN: Open-source serverless security lake powered by Rust + Apache Iceberg",
+      "https://github.com/matanolabs/matano"
+    ]
+  ],
+  [
+    [
+      "2022-08-06, 13:16:29",
+      "https://news.ycombinator.com/item?id=32367805"
+    ],
+    [
+      "The Song of the Summer: A Heian-era epistolary romance",
+      "https://www.laphamsquarterly.org/roundtable/song-summer"
+    ]
+  ],
+  [
+    [
       "2022-08-06, 12:21:04",
       "https://news.ycombinator.com/item?id=32367460"
     ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32367085"
     ],
     [
-      "A summary of modern physics in one table",
+      "From maximum force to physics in 9 lines – and implications for quantum gravity",
       "https://arxiv.org/abs/2208.01038"
     ]
   ],
@@ -67,6 +97,16 @@
     [
       "Unpopular opinoin GraphQL kinda sucks",
       "https://news.ycombinator.com/item?id=32366759"
+    ]
+  ],
+  [
+    [
+      "2022-08-06, 10:03:17",
+      "https://news.ycombinator.com/item?id=32366642"
+    ],
+    [
+      "Show HN: I Created a personal radio platform that delivers news, podcasts, music",
+      "https://www.audioone.fyi"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-08-06, 02:58:46",
-      "https://news.ycombinator.com/item?id=32364398"
-    ],
-    [
-      "Twitter confirms zero-day used to expose data of 5.4M accounts",
-      "https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/"
-    ]
-  ],
-  [
-    [
       "2022-08-06, 01:35:26",
       "https://news.ycombinator.com/item?id=32363959"
     ],
@@ -147,16 +177,6 @@
     [
       "Having, a less understood SQL clause",
       "https://smallthingssql.com/having-a-less-understood-sql-clause/"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 01:14:59",
-      "https://news.ycombinator.com/item?id=32363854"
-    ],
-    [
-      "How Did Elevators Lose Their Music?",
-      "https://tedgioia.substack.com/p/how-did-elevators-lose-their-music"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-08-05, 23:49:06",
-      "https://news.ycombinator.com/item?id=32363295"
-    ],
-    [
-      "CACM special issue on Lisp (1991)",
-      "https://cacm.acm.org/magazines/1991/9"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 21:49:10",
       "https://news.ycombinator.com/item?id=32362363"
     ],
@@ -207,16 +217,6 @@
     [
       "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
       "http://blog.cr.yp.to/20220805-nsa.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 17:38:53",
-      "https://news.ycombinator.com/item?id=32359325"
-    ],
-    [
-      "StemRoller – Isolate vocals, drums, bass, and other stems from any song",
-      "https://github.com/stemrollerapp/stemroller"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-08-04, 09:54:38",
-      "https://news.ycombinator.com/item?id=32341041"
-    ],
-    [
-      "Implementing Condition Variables with Semaphores (2003) [pdf]",
-      "http://birrell.org/andrew/papers/ImplementingCVs.pdf"
-    ]
-  ],
-  [
-    [
       "2022-08-04, 08:34:16",
       "https://news.ycombinator.com/item?id=32340587"
     ],
     [
       "OpenStax: Free and Flexible Textbooks and Resources",
       "https://openstax.org/"
+    ]
+  ],
+  [
+    [
+      "2022-08-03, 10:29:54",
+      "https://news.ycombinator.com/item?id=32329868"
+    ],
+    [
+      "“Cookies are small text files” – what? (2009)",
+      "https://shallowsky.com/blog/tech/web/cookies-are-text-files.html"
     ]
   ],
   [
