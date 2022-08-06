@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-06, 12:00:37",
+      "https://news.ycombinator.com/item?id=32367317"
+    ],
+    [
+      "Tesorio (YC S15) is hiring a senior front end engineer and support engineer",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
       "2022-08-06, 09:45:46",
       "https://news.ycombinator.com/item?id=32366557"
     ],
@@ -47,16 +57,6 @@
     [
       "Microdosing with psilocybin mushrooms: a double-blind placebo-controlled study",
       "https://www.nature.com/articles/s41398-022-02039-0"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 07:01:35",
-      "https://news.ycombinator.com/item?id=32365686"
-    ],
-    [
-      "Flexport is hiring software engineers to streamline global trade",
-      "https://flexport.com/careers"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2022-08-05, 23:49:06",
+      "https://news.ycombinator.com/item?id=32363295"
+    ],
+    [
+      "CACM special issue on Lisp (1991)",
+      "https://cacm.acm.org/magazines/1991/9"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 21:49:10",
       "https://news.ycombinator.com/item?id=32362363"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2022-08-05, 18:13:17",
-      "https://news.ycombinator.com/item?id=32359780"
-    ],
-    [
-      "Analysis of energy consumption of Bluetooth Low Energy versus Bluetooth Classic",
-      "http://hj.diva-portal.org/smash/record.jsf?pid=diva2%3A1683816&dswid=1160"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 18:01:11",
-      "https://news.ycombinator.com/item?id=32359618"
-    ],
-    [
-      "Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans",
-      "http://www.righto.com/2022/08/lumafield-flip-flop.html"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 17:59:25",
       "https://news.ycombinator.com/item?id=32359596"
     ],
@@ -217,6 +207,16 @@
     [
       "StemRoller – Isolate vocals, drums, bass, and other stems from any song",
       "https://github.com/stemrollerapp/stemroller"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 16:04:23",
+      "https://news.ycombinator.com/item?id=32358038"
+    ],
+    [
+      "Launch HN: Taro (YC S22): Private career growth community for software engineers",
+      "https://news.ycombinator.com/item?id=32358038"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-08-05, 05:58:03",
-      "https://news.ycombinator.com/item?id=32352291"
+      "2022-08-05, 08:59:11",
+      "https://news.ycombinator.com/item?id=32353479"
     ],
     [
-      "Show HN: I created a browser automation tool",
-      "https://www.rocketride.io"
+      "Show HN: PDF-Diff - Visualize any differences between two PDFs",
+      "https://github.com/serhack/pdf-diff"
     ]
   ],
   [
