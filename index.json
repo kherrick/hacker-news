@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-08-06, 15:09:31",
+      "https://news.ycombinator.com/item?id=32368771"
+    ],
+    [
+      "NetBSD 9.3 Released",
+      "https://www.netbsd.org/releases/formal-9/NetBSD-9.3.html"
+    ]
+  ],
+  [
+    [
       "2022-08-06, 14:07:28",
       "https://news.ycombinator.com/item?id=32368210"
     ],
     [
-      "Original source of `(seed * 9301 and 49297) % 233280` random algorithm?",
+      "Original source of `(seed * 9301 and 49297) % 233280` random algorithm? (2014)",
       "https://softwareengineering.stackexchange.com/questions/260969/original-source-of-seed-9301-49297-233280-random-algorithm"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "“Cookies are small text files” – what? (2009)",
       "https://shallowsky.com/blog/tech/web/cookies-are-text-files.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-03, 04:45:40",
-      "https://news.ycombinator.com/item?id=32327752"
-    ],
-    [
-      "Ancient herpes simplex 1 genomes reveal recent viral structure in Eurasia",
-      "https://www.science.org/doi/10.1126/sciadv.abo4435"
     ]
   ]
 ]
