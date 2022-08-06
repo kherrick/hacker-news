@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-08-06, 20:16:33",
-      "https://news.ycombinator.com/item?id=32371216"
-    ],
-    [
-      "Foods That Fight Inflammation",
-      "https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation"
-    ]
-  ],
-  [
-    [
       "2022-08-06, 19:35:27",
       "https://news.ycombinator.com/item?id=32370893"
     ],
@@ -97,6 +87,16 @@
     [
       "Technical reasons to choose FreeBSD over GNU/Linux (2020)",
       "https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-06, 14:29:01",
+      "https://news.ycombinator.com/item?id=32368400"
+    ],
+    [
+      "NetBSD 9.3",
+      "https://blog.netbsd.org/tnf/entry/netbsd_9_3_released"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2022-08-05, 12:35:29",
+      "https://news.ycombinator.com/item?id=32355186"
+    ],
+    [
+      "The Failure Mode of Clever (2010)",
+      "https://whatever.scalzi.com/2010/06/16/the-failure-state-of-clever/"
+    ]
+  ],
+  [
+    [
       "2022-08-05, 11:33:17",
       "https://news.ycombinator.com/item?id=32354647"
     ],
@@ -257,16 +267,6 @@
     [
       "How to integrate a trackpoint in a mechanical keyboard",
       "https://github.com/alonswartz/trackpoint"
-    ]
-  ],
-  [
-    [
-      "2022-08-05, 08:59:11",
-      "https://news.ycombinator.com/item?id=32353479"
-    ],
-    [
-      "Show HN: PDF-Diff - Visualize any differences between two PDFs",
-      "https://github.com/serhack/pdf-diff"
     ]
   ],
   [
