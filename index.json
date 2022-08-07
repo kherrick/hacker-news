@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-07, 02:38:11",
+      "https://news.ycombinator.com/item?id=32373392"
+    ],
+    [
+      "Ask HN: Is living in NYC worth it?",
+      "https://news.ycombinator.com/item?id=32373392"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 02:18:03",
+      "https://news.ycombinator.com/item?id=32373316"
+    ],
+    [
+      "Why Putting Solar Canopies on Parking Lots Is a Smart Green Move",
+      "https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 01:52:00",
+      "https://news.ycombinator.com/item?id=32373175"
+    ],
+    [
+      "Prison Money Diaries: What People Make (and Spend) Behind Bars",
+      "https://www.themarshallproject.org/2022/08/04/prison-money-diaries-what-people-really-make-and-spend-behind-bars"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 01:17:21",
       "https://news.ycombinator.com/item?id=32373010"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
+      "2022-08-07, 01:14:49",
+      "https://news.ycombinator.com/item?id=32372988"
+    ],
+    [
+      "Home built with marble tombstones from the graves of 2,200 Union soldiers",
+      "https://www.atlasobscura.com/places/the-tombstone-house-petersburg-virginia"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 01:01:00",
       "https://news.ycombinator.com/item?id=32372929"
     ],
     [
       "Ivy (YC W23) is hiring engineers to help unify ML",
       "https://www.ycombinator.com/companies/ivy/jobs"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 00:17:45",
-      "https://news.ycombinator.com/item?id=32372754"
-    ],
-    [
-      "A Web That Reflects People and Their Values",
-      "https://jacky.wtf/2022/6/Cpq0"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32372689"
     ],
     [
-      "Genesis: God’s Actual Programming Language",
+      "Genesis: an interpreted, Turing-complete Paleo-Hebrew programming language",
       "https://github.com/elonlit/Genesis"
     ]
   ],
@@ -56,7 +86,7 @@
     ],
     [
       "Electronics are built with death dates. Let’s not keep them a secret",
-      "https://web.archive.org/web/20220803004243/https://www.washingtonpost.com/technology/2022/08/02/why-gadgets-die/"
+      "https://www.washingtonpost.com/technology/2022/08/02/why-gadgets-die/"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32372351"
     ],
     [
-      "Ask HN: More “experimental“ UIs for editing/writing code?",
+      "Ask HN: More “experimental” UIs for editing/writing code?",
       "https://news.ycombinator.com/item?id=32372351"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-08-06, 17:54:50",
-      "https://news.ycombinator.com/item?id=32370180"
-    ],
-    [
-      "XUiDesigner: Wysiwyg LV2 X11UI GUI/plugin creator tool",
-      "https://github.com/brummer10/XUiDesigner"
-    ]
-  ],
-  [
-    [
       "2022-08-06, 15:59:32",
       "https://news.ycombinator.com/item?id=32369189"
     ],
@@ -181,42 +201,22 @@
   ],
   [
     [
-      "2022-08-06, 13:14:14",
-      "https://news.ycombinator.com/item?id=32367791"
-    ],
-    [
-      "The First Small Modular Nuclear Reactor Was Just Approved by US Regulators",
-      "https://singularityhub.com/2022/08/05/the-first-small-modular-nuclear-reactor-design-was-just-approved-by-us-regulators/"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 12:21:04",
-      "https://news.ycombinator.com/item?id=32367460"
-    ],
-    [
-      "ESA – Climate from Space",
-      "https://cfs.climate.esa.int/index.html#/"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 11:56:06",
-      "https://news.ycombinator.com/item?id=32367297"
-    ],
-    [
-      "What We Gain from a Good Bookstore",
-      "https://www.newyorker.com/culture/cultural-comment/what-we-gain-from-a-good-bookstore"
-    ]
-  ],
-  [
-    [
       "2022-08-06, 06:21:08",
       "https://news.ycombinator.com/item?id=32365449"
     ],
     [
       "Mobile Electronics Workbench (2017)",
       "http://www.nisker.net/projects/mobile-electronics-workbench/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 12:27:02",
+      "https://news.ycombinator.com/item?id=32355113"
+    ],
+    [
+      "Confucian Hylemorphism",
+      "http://edwardfeser.blogspot.com/2022/07/confucian-hylemorphism.html"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-08-05, 10:50:58",
-      "https://news.ycombinator.com/item?id=32354273"
-    ],
-    [
-      "E Pluribus, Network – Arista Networks, That Is",
-      "https://www.nextplatform.com/2022/08/04/e-pluribus-network-arista-networks-that-is/"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 10:00:07",
       "https://news.ycombinator.com/item?id=32353903"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32353067"
     ],
     [
-      "Companies do not understand open spaces and what we can learn from libraries",
+      "Libraries – how companies do not understand open spaces",
       "https://www.mtajchert.com/libraries-and-open-spaces/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Toward a Better Music Theory (2013)",
       "http://www.ethanhein.com/wp/2013/toward-a-better-music-theory/"
+    ]
+  ],
+  [
+    [
+      "2022-08-04, 13:07:10",
+      "https://news.ycombinator.com/item?id=32342355"
+    ],
+    [
+      "Scaling False Peaks",
+      "https://www.oreilly.com/radar/scaling-false-peaks/"
     ]
   ]
 ]
