@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-08-07, 13:01:29",
+      "https://news.ycombinator.com/item?id=32376154"
+    ],
+    [
+      "Show HN: Figure is a daily logic puzzle game",
+      "https://figure.game"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 11:43:26",
       "https://news.ycombinator.com/item?id=32375737"
     ],
     [
-      "Can We Even Solve Public Problems Anymore?",
+      "Harnessing public entrepreneurship",
       "https://elgl.org/podcast-harnessing-public-entrepreneurship-with-mitchell-weiss/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Another court case fails to unlock the mystery of Bitcoin’s Satoshi Nakamoto",
       "https://www.theguardian.com/technology/2022/aug/06/another-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 11:20:06",
-      "https://news.ycombinator.com/item?id=32375609"
-    ],
-    [
-      "Ask HN: Expert Advices for New Learners in Android Kotlin Development?",
-      "https://news.ycombinator.com/item?id=32375609"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32374345"
     ],
     [
-      "A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 (2019)",
+      "A Soviet test pilot ejected two seconds before the crash of his MiG-29 (2019)",
       "https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32374317"
     ],
     [
-      "Ivy: Rob Pike's APL-Like Language / Desk Calculator",
+      "Ivy – An interpreter for an APL-like language",
       "https://pkg.go.dev/robpike.io/ivy"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32352277"
     ],
     [
-      "The Fine Art of Italian Hand Gestures: A Vintage Visual Dictionary",
+      "The fine art of Italian hand gestures: A vintage visual dictionary (2012)",
       "https://www.themarginalian.org/2012/12/13/bruno-munari-speak-italian-gestures/"
     ]
   ]
