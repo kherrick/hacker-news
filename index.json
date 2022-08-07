@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-08-07, 21:09:37",
+      "https://news.ycombinator.com/item?id=32379927"
+    ],
+    [
+      "From throwaway side project to Switch in 2 years: my indie gamedev story",
+      "https://kellsgame.com/how-kells-came-to-be/"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 21:07:59",
       "https://news.ycombinator.com/item?id=32379904"
     ],
@@ -177,16 +187,6 @@
     [
       "The case of fake IMDB credits",
       "https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 14:59:30",
-      "https://news.ycombinator.com/item?id=32376984"
-    ],
-    [
-      "Trealla Prolog embedded in Go using WASM",
-      "https://github.com/guregu/trealla-go"
     ]
   ],
   [
