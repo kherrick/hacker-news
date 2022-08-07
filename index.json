@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-07, 06:25:38",
+      "https://news.ycombinator.com/item?id=32374345"
+    ],
+    [
+      "A Soviet Test Pilot Ejected Two Seconds Before the Crash of His MiG-29 (2019)",
+      "https://theaviationgeekclub.com/that-time-a-soviet-test-pilot-ejected-two-seconds-before-the-crash-of-his-mig-29/"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 05:23:20",
       "https://news.ycombinator.com/item?id=32374113"
     ],
     [
       "Our Roadmap for Nix",
       "https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 04:55:39",
+      "https://news.ycombinator.com/item?id=32374009"
+    ],
+    [
+      "Intel expands Oregon Fab building; 18A Node now 2024",
+      "https://chipsandcheese.com/2022/04/12/intel-renames-oregon-fab-gordon-moore-park-adds-270k-sq-ft-18a-node-now-2024/"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32371009"
     ],
     [
-      "Steve Jobs negotiates Apple's deal with Microsoft",
+      "Steve Jobs negotiates Apple's deal with Microsoft (1997)",
       "https://www.techemails.com/p/apples-deal-with-microsoft"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "Ask HN: Resources to learn generative art programming?",
       "https://news.ycombinator.com/item?id=32370671"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 18:24:12",
-      "https://news.ycombinator.com/item?id=32370395"
-    ],
-    [
-      "Please Use ZFS with ECC Memory (2014)",
-      "https://louwrentius.com/please-use-zfs-with-ecc-memory.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-08-05, 12:27:02",
-      "https://news.ycombinator.com/item?id=32355113"
-    ],
-    [
-      "Confucian Hylemorphism",
-      "http://edwardfeser.blogspot.com/2022/07/confucian-hylemorphism.html"
-    ]
-  ],
-  [
-    [
       "2022-08-05, 12:17:05",
       "https://news.ycombinator.com/item?id=32355020"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-08-05, 06:23:09",
-      "https://news.ycombinator.com/item?id=32352454"
+      "2022-08-05, 05:45:02",
+      "https://news.ycombinator.com/item?id=32352203"
     ],
     [
-      "A captured American spy plane that crashed during a Hungarian pleasure flight",
-      "https://telex.hu/english/2022/08/05/the-captured-american-spy-plane-which-crashed-during-a-hungarian-pleasure-flight"
+      "Create your own JavaScript Engine",
+      "https://deno.com/blog/roll-your-own-javascript-runtime?ck_subscriber_id=1344382008"
     ]
   ],
   [
