@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-08-07, 15:10:49",
+      "https://news.ycombinator.com/item?id=32377084"
+    ],
+    [
+      "Ask HN: Where should I move to meet interesting tech people?",
+      "https://news.ycombinator.com/item?id=32377084"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 15:08:30",
+      "https://news.ycombinator.com/item?id=32377063"
+    ],
+    [
+      "The case of fake IMDB credits",
+      "https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 14:54:46",
+      "https://news.ycombinator.com/item?id=32376943"
+    ],
+    [
+      "Earbirding – How to Visualize Sounds",
+      "http://earbirding.com/blog/specs"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 14:03:19",
+      "https://news.ycombinator.com/item?id=32376542"
+    ],
+    [
+      "The pervasive effects of C's malloc() and free() on C APIs",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/CAPIsEffectsOfMalloc"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 13:43:34",
       "https://news.ycombinator.com/item?id=32376414"
     ],
     [
-      "Hacker's Delight",
+      "Hacker’s Delight (2012)",
       "https://books.google.com/books/about/Hacker_s_Delight.html?id=VicPJYM0I5QC"
     ]
   ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32376170"
     ],
     [
-      "The Thousand Brains Theory of Intelligence",
+      "The Thousand Brains Theory of Intelligence (2019)",
       "https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/"
     ]
   ],
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2022-08-07, 12:58:41",
+      "https://news.ycombinator.com/item?id=32376133"
+    ],
+    [
+      "A Possible Fix for Scientific Publishing",
+      "https://blog.peer-review.io/we-might-have-a-way-to-fix-scientific-publishing"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 11:43:26",
       "https://news.ycombinator.com/item?id=32375737"
     ],
@@ -51,32 +101,12 @@
   ],
   [
     [
-      "2022-08-07, 11:31:14",
-      "https://news.ycombinator.com/item?id=32375677"
-    ],
-    [
-      "Ask HN: Anyone tried development using an Oculus?",
-      "https://news.ycombinator.com/item?id=32375677"
-    ]
-  ],
-  [
-    [
       "2022-08-07, 11:28:40",
       "https://news.ycombinator.com/item?id=32375662"
     ],
     [
       "Syncthing Anywhere with Tailscale",
       "https://init8.lol/synthing-anywhere-with-tailscale/"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 11:28:12",
-      "https://news.ycombinator.com/item?id=32375659"
-    ],
-    [
-      "Another court case fails to unlock the mystery of Bitcoin’s Satoshi Nakamoto",
-      "https://www.theguardian.com/technology/2022/aug/06/another-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-08-07, 05:02:11",
-      "https://news.ycombinator.com/item?id=32374030"
-    ],
-    [
-      "Apple: Using a camera cover might damage your MacBook's display",
-      "https://support.apple.com/en-us/HT211148"
-    ]
-  ],
-  [
-    [
       "2022-08-07, 04:55:39",
       "https://news.ycombinator.com/item?id=32374009"
     ],
@@ -217,26 +237,6 @@
     [
       "A Bibliographical Mystery Solved",
       "https://blogs.bl.uk/european/2022/08/a-bibliographical-mystery-solved.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 06:11:38",
-      "https://news.ycombinator.com/item?id=32365402"
-    ],
-    [
-      "How Dolt Stores Table Data (2020)",
-      "https://www.dolthub.com/blog/2020-04-01-how-dolt-stores-table-data/"
-    ]
-  ],
-  [
-    [
-      "2022-08-06, 06:04:00",
-      "https://news.ycombinator.com/item?id=32365343"
-    ],
-    [
-      "Measuring dust with a Dylos air quality monitor (2012)",
-      "https://woodgears.ca/dust/dylos.html"
     ]
   ],
   [
