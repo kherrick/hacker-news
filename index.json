@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-08-08, 12:30:09",
+      "https://news.ycombinator.com/item?id=32384687"
+    ],
+    [
+      "Tricks to start working despite not feeling like it",
+      "https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 12:21:17",
+      "https://news.ycombinator.com/item?id=32384613"
+    ],
+    [
+      "No More “Insight Porn”",
+      "https://jakobgreenfeld.com/insight-porn"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 12:19:56",
+      "https://news.ycombinator.com/item?id=32384604"
+    ],
+    [
+      "A Guide to Decentralized Biotech",
+      "https://future.com/a-guide-to-decentralized-biotech/"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 12:10:39",
       "https://news.ycombinator.com/item?id=32384550"
     ],
     [
-      "Announcing: MiniRust",
+      "MiniRust",
       "https://www.ralfj.de/blog/2022/08/08/minirust.html"
     ]
   ],
@@ -31,12 +61,32 @@
   ],
   [
     [
+      "2022-08-08, 11:33:26",
+      "https://news.ycombinator.com/item?id=32384320"
+    ],
+    [
+      "Lively Linear Lisp – 'Look Ma, No Garbage!' (1992)",
+      "https://dl.acm.org/doi/pdf/10.1145/142137.142162"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 11:31:28",
       "https://news.ycombinator.com/item?id=32384307"
     ],
     [
       "Official Firefox add-on bringing offline translation support to Firefox",
       "https://alternativeto.net/news/2022/6/official-firefox-translation-add-on-now-available-bringing-offline-translation-support-to-firefox/"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 10:49:11",
+      "https://news.ycombinator.com/item?id=32384074"
+    ],
+    [
+      "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation",
+      "http://dongchaoyang.top/text-to-sound-synthesis-demo/"
     ]
   ],
   [
@@ -55,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32383448"
     ],
     [
-      "Tom Blomfield: Monzo Growth",
+      "How we got customers to sign up to Monzo in the early years",
       "https://tomblomfield.com/post/691384431502557184/monzo-growth"
     ]
   ],
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-08-08, 04:21:38",
-      "https://news.ycombinator.com/item?id=32382365"
-    ],
-    [
-      "Why your daily stand-ups don't work and how to fix them",
-      "https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 02:07:21",
       "https://news.ycombinator.com/item?id=32381790"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2022-08-07, 22:59:33",
-      "https://news.ycombinator.com/item?id=32380772"
-    ],
-    [
-      "The mitochondrial NAD+ transporter SLC25A51 is a fasting-induced gene",
-      "https://www.metabolismjournal.com/article/S0026-0495(22)00153-6/fulltext"
-    ]
-  ],
-  [
-    [
       "2022-08-07, 22:59:19",
       "https://news.ycombinator.com/item?id=32380769"
     ],
@@ -191,42 +221,22 @@
   ],
   [
     [
-      "2022-08-07, 22:16:45",
-      "https://news.ycombinator.com/item?id=32380471"
+      "2022-08-07, 18:45:49",
+      "https://news.ycombinator.com/item?id=32378695"
     ],
     [
-      "The Last Naval Battle of World War 2 (2018)",
-      "https://www.navygeneralboard.com/the-last-naval-battle-of-world-war-2/"
+      "Ask HN: What's the next big thing that few people are talking about?",
+      "https://news.ycombinator.com/item?id=32378695"
     ]
   ],
   [
     [
-      "2022-08-07, 21:26:28",
-      "https://news.ycombinator.com/item?id=32380079"
+      "2022-08-07, 13:18:09",
+      "https://news.ycombinator.com/item?id=32376256"
     ],
     [
-      "Look at median, and not mean GDP per capita",
-      "https://medianism.org/"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 19:26:35",
-      "https://news.ycombinator.com/item?id=32379066"
-    ],
-    [
-      "Mysterious holes on the seafloor",
-      "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 15:08:30",
-      "https://news.ycombinator.com/item?id=32377063"
-    ],
-    [
-      "Fake IMDB credits",
-      "https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits"
+      "A Parachute Accident in 1992 jump-started the birth of Augmented Reality",
+      "https://spectrum.ieee.org/history-of-augmented-reality"
     ]
   ],
   [
@@ -245,18 +255,8 @@
       "https://news.ycombinator.com/item?id=32375955"
     ],
     [
-      "Could learning algebra in my 60s make me smarter?",
+      "Learning algebra in my 60s",
       "https://www.theguardian.com/books/2022/aug/07/could-learning-algebra-in-my-60s-make-me-smarter-alec-wilkinson-a-divine-language-extract"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 11:48:35",
-      "https://news.ycombinator.com/item?id=32375756"
-    ],
-    [
-      "The day the music died? Denmark Street’s new ‘digitally enabled streetscape’",
-      "https://www.theguardian.com/artanddesign/2022/aug/07/outernet-london-now-building-review-denmark-street-tottenham-court-road-redevelopment-soho"
     ]
   ],
   [
