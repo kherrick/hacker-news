@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-08, 16:34:30",
+      "https://news.ycombinator.com/item?id=32387708"
+    ],
+    [
+      "By 1995, it'll be evident that the Internet means as little as fax (1998)",
+      "http://web.archive.org/web/19980610100009/www.redherring.com/mag/issue55/economics.html"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 15:35:38",
       "https://news.ycombinator.com/item?id=32386778"
     ],
     [
-      "Amazon’s Roomba Deal Is About Mapping Your Home",
+      "Amazon’s Roomba deal is about mapping your home",
       "https://www.bloomberg.com/news/articles/2022-08-05/amazon-s-irobot-deal-is-about-roomba-s-data-collection"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 15:34:51",
+      "https://news.ycombinator.com/item?id=32386762"
+    ],
+    [
+      "Achieving an open-source implementation of Apple Code Signing and notarization",
+      "https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"
     ]
   ],
   [
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2022-08-08, 15:02:40",
+      "https://news.ycombinator.com/item?id=32386290"
+    ],
+    [
+      "IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp",
+      "https://www.thetylergibson.com/ikea-symfonisk-gen2-amp-modification-guide-a-much-cheaper-sonos-amp/"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 14:56:20",
       "https://news.ycombinator.com/item?id=32386189"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2022-08-08, 14:33:50",
-      "https://news.ycombinator.com/item?id=32385873"
-    ],
-    [
-      "Nvidia Announces Preliminary Financial Results for Second Quarter Fiscal 2023",
-      "https://nvidianews.nvidia.com/news/nvidia-announces-preliminary-financial-resultsfor-second-quarter-fiscal-2023"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 14:32:20",
       "https://news.ycombinator.com/item?id=32385856"
     ],
     [
       "Show HN: SaveSlack – create searchable knowledgebase from your Slack community",
       "https://saveslack.com"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 14:05:39",
+      "https://news.ycombinator.com/item?id=32385530"
+    ],
+    [
+      "Axios Sells for $525M",
+      "https://www.nytimes.com/2022/08/08/business/media/axios-cox-enterprises.html"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-08-08, 10:49:11",
-      "https://news.ycombinator.com/item?id=32384074"
-    ],
-    [
-      "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation",
-      "http://dongchaoyang.top/text-to-sound-synthesis-demo/"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 09:55:51",
       "https://news.ycombinator.com/item?id=32383820"
     ],
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2022-08-08, 07:55:34",
-      "https://news.ycombinator.com/item?id=32383265"
+      "2022-08-08, 08:36:03",
+      "https://news.ycombinator.com/item?id=32383448"
     ],
     [
-      "Learn Effective C++ for Embedded Code",
-      "https://luckyresistor.me/knowledge/learn-cpp/"
+      "How we got customers to sign up to Monzo in the early years",
+      "https://tomblomfield.com/post/691384431502557184/monzo-growth"
     ]
   ],
   [
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2022-08-08, 05:02:48",
-      "https://news.ycombinator.com/item?id=32382514"
-    ],
-    [
-      "Trealla – A compact, efficient Prolog interpreter written in plain-old C",
-      "https://github.com/trealla-prolog/trealla"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 02:07:21",
       "https://news.ycombinator.com/item?id=32381790"
     ],
     [
       "A physical wiring diagram for the human immune system",
       "https://www.nature.com/articles/s41586-022-05028-x"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 01:20:41",
-      "https://news.ycombinator.com/item?id=32381550"
-    ],
-    [
-      "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
-      "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 18:45:49",
-      "https://news.ycombinator.com/item?id=32378695"
-    ],
-    [
-      "Ask HN: What's the next big thing that few people are talking about?",
-      "https://news.ycombinator.com/item?id=32378695"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Wizard with a Time Machine",
       "https://microship.com/wizard-with-a-time-machine/"
+    ]
+  ],
+  [
+    [
+      "2022-08-05, 19:39:23",
+      "https://news.ycombinator.com/item?id=32360952"
+    ],
+    [
+      "Wonkey: A cross-platform programming language by the creator of BlitzBasic",
+      "https://wonkey-coders.github.io/"
     ]
   ]
 ]
