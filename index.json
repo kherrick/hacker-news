@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-08, 19:41:33",
+      "https://news.ycombinator.com/item?id=32390083"
+    ],
+    [
+      "Automated Reasoning at Amazon: A Conversation",
+      "https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 19:21:55",
       "https://news.ycombinator.com/item?id=32389813"
     ],
@@ -87,16 +97,6 @@
     [
       "Achieving an open-source implementation of Apple Code Signing and notarization",
       "https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 15:06:20",
-      "https://news.ycombinator.com/item?id=32386323"
-    ],
-    [
-      "Starting October 19, storage limit will be enforced on all Gitlab Free accounts",
-      "https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit-enforcement-schedule"
     ]
   ],
   [
