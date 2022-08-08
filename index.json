@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-08, 15:09:35",
+      "https://news.ycombinator.com/item?id=32386357"
+    ],
+    [
+      "OFAC Sanctions on Tornado Cash",
+      "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 14:56:20",
+      "https://news.ycombinator.com/item?id=32386189"
+    ],
+    [
+      "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash",
+      "https://home.treasury.gov/news/press-releases/jy0916"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 14:32:20",
       "https://news.ycombinator.com/item?id=32385856"
     ],
@@ -27,6 +47,26 @@
     [
       "Incident Report: Employee and Customer Account Compromise",
       "https://www.twilio.com/blog/august-2022-social-engineering-attack"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 13:33:35",
+      "https://news.ycombinator.com/item?id=32385170"
+    ],
+    [
+      "The rise of ‘ARPA-everything’ and what it means for science (2021)",
+      "https://www.nature.com/articles/d41586-021-01878-z"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 13:23:48",
+      "https://news.ycombinator.com/item?id=32385073"
+    ],
+    [
+      "Plant-based ‘beef’ reduces CO2 but threatens ag jobs",
+      "https://news.cornell.edu/stories/2022/08/plant-based-beef-reduces-co2-threatens-ag-jobs"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-08-08, 12:02:42",
-      "https://news.ycombinator.com/item?id=32384495"
-    ],
-    [
-      "Adtech giant Criteo faces $65M fine in France for GDPR consent breaches",
-      "https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 11:33:26",
       "https://news.ycombinator.com/item?id=32384320"
     ],
@@ -157,6 +187,16 @@
     [
       "Diffsound: Discrete Diffusion Model for Text-to-Sound Generation",
       "http://dongchaoyang.top/text-to-sound-synthesis-demo/"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 09:55:51",
+      "https://news.ycombinator.com/item?id=32383820"
+    ],
+    [
+      "Open AirPlay 2 Receiver",
+      "https://github.com/openairplay/airplay2-receiver"
     ]
   ],
   [
@@ -231,26 +271,6 @@
   ],
   [
     [
-      "2022-08-08, 01:01:39",
-      "https://news.ycombinator.com/item?id=32381448"
-    ],
-    [
-      "Debugging bare-metal STM32 from the seventh level of hell",
-      "https://jpieper.com/2022/08/05/debugging-bare-metal-stm32-from-the-seventh-level-of-hell/"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 18:45:49",
-      "https://news.ycombinator.com/item?id=32378695"
-    ],
-    [
-      "Ask HN: What's the next big thing that few people are talking about?",
-      "https://news.ycombinator.com/item?id=32378695"
-    ]
-  ],
-  [
-    [
       "2022-08-07, 13:18:09",
       "https://news.ycombinator.com/item?id=32376256"
     ],
@@ -267,26 +287,6 @@
     [
       "Learning algebra in my 60s",
       "https://www.theguardian.com/books/2022/aug/07/could-learning-algebra-in-my-60s-make-me-smarter-alec-wilkinson-a-divine-language-extract"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 09:24:04",
-      "https://news.ycombinator.com/item?id=32375095"
-    ],
-    [
-      "The Definition of Obsession? 10 Years with a Citroën C6 (2021)",
-      "https://driventowrite.com/2021/01/04/citroen-c6-long-term-test/"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 06:20:34",
-      "https://news.ycombinator.com/item?id=32374322"
-    ],
-    [
-      "Adventures Inside the Atom (1948)",
-      "https://archive.org/details/GeneralElectricCompanyAdventuresInsideTheAtom1948"
     ]
   ],
   [
