@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-08, 01:20:41",
+      "https://news.ycombinator.com/item?id=32381550"
+    ],
+    [
+      "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
+      "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 22:59:33",
       "https://news.ycombinator.com/item?id=32380772"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32380731"
     ],
     [
-      "The “bicameral mind” 30 years on: a critical reappraisal of Jaynes' hypothesis]",
+      "The “bicameral mind” 30 years on (2007)",
       "https://pubmed.ncbi.nlm.nih.gov/17509238/"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2022-08-07, 18:52:43",
-      "https://news.ycombinator.com/item?id=32378752"
-    ],
-    [
-      "Oncall Compensation for Software Engineers",
-      "https://blog.pragmaticengineer.com/oncall-compensation/"
-    ]
-  ],
-  [
-    [
       "2022-08-07, 17:30:27",
       "https://news.ycombinator.com/item?id=32378085"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-08-07, 13:51:41",
-      "https://news.ycombinator.com/item?id=32376464"
-    ],
-    [
-      "Commit comments no longer appear in the pull request timeline",
-      "https://github.blog/changelog/2022-08-04-commit-comments-no-longer-appear-in-the-pull-request-timeline/"
-    ]
-  ],
-  [
-    [
       "2022-08-07, 13:43:34",
       "https://news.ycombinator.com/item?id=32376414"
     ],
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2022-08-07, 10:44:18",
+      "https://news.ycombinator.com/item?id=32375448"
+    ],
+    [
+      "The Apollo On-Board Computers",
+      "https://web.archive.org/web/20120827000829/http://history.nasa.gov/afj/compessay.htm"
+    ]
+  ],
+  [
+    [
       "2022-08-07, 08:54:04",
       "https://news.ycombinator.com/item?id=32374981"
     ],
     [
       "Emacs Manual for ITS Users (1981)",
       "https://dspace.mit.edu/handle/1721.1/6329"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 06:37:27",
-      "https://news.ycombinator.com/item?id=32374390"
-    ],
-    [
-      "Kikkuli, 1345 BCE: Training the Chariot Horse",
-      "https://web.archive.org/web/20121102233704/http://imh.org/history-of-the-horse/legacy-of-the-horse/harnessing-the-horse/kikkuli-1345.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The First Three Discworld Games",
       "https://www.filfre.net/2022/08/discworld-on-page-and-screen-part-2-the-first-three-discworld-games/"
+    ]
+  ],
+  [
+    [
+      "2022-08-06, 09:13:46",
+      "https://news.ycombinator.com/item?id=32366379"
+    ],
+    [
+      "How Your Dust Collector Works (2012)",
+      "https://www.finewoodworking.com/2012/12/17/all-about-dust-collection"
     ]
   ]
 ]
