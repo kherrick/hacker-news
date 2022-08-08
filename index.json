@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-08, 23:06:09",
+      "https://news.ycombinator.com/item?id=32392224"
+    ],
+    [
+      "Malcolm Gladwell opposes WFH while he works from his couch for the last 20 years",
+      "https://fortune.com/2022/08/08/malcolm-gladwell-slammed-after-criticizing-wfh-policies-despite-having-worked-remotely-for-decades/"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 23:03:09",
       "https://news.ycombinator.com/item?id=32392202"
     ],
     [
-      "A Content Model Is Not a Design System",
+      "A content model is not a design system (2021)",
       "https://alistapart.com/article/a-content-model-is-not-a-design-system/"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 22:56:18",
+      "https://news.ycombinator.com/item?id=32392161"
+    ],
+    [
+      "The case against an alternative to C",
+      "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32391424"
     ],
     [
-      "A History of Storage Media",
+      "A history of storage media (2017)",
       "https://codewords.recurse.com/issues/seven/a-history-of-storage-media"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Some Epson printers are programmed to stop working after a certain amount of use",
       "https://gizmodo.com/epson-printer-end-of-service-life-error-not-working-dea-1849384045"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 20:59:45",
-      "https://news.ycombinator.com/item?id=32390947"
-    ],
-    [
-      "Working Out Only on Weekends Is Equal as Daily Exercise",
-      "https://www.prevention.com/fitness/workouts/a40542944/working-out-only-on-weekends-as-effective-as-daily-exercise-study-finds/"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32390605"
     ],
     [
-      "Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s [pdf]",
+      "Doomed to repeat history? Lessons from the crypto wars of the 1990s (2015) [pdf]",
       "https://static.newamerica.org/attachments/3407-doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/Crypto%20Wars_ReDo.7cb491837ac541709797bdf868d37f52.pdf"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32390526"
     ],
     [
-      "I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned",
+      "I replaced all our blog thumbnails using DALL·E 2",
       "https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"
     ]
   ],
@@ -91,22 +101,12 @@
   ],
   [
     [
-      "2022-08-08, 19:05:48",
-      "https://news.ycombinator.com/item?id=32389588"
-    ],
-    [
-      "Technical Writing Courses from Google",
-      "https://developers.google.com/tech-writing"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 17:25:49",
       "https://news.ycombinator.com/item?id=32388410"
     ],
     [
       "Launch HN: Wolfia (YC S22) – A mobile app emulator you can share with a link",
-      "https://www.wolfia.com"
+      "https://news.ycombinator.com/item?id=32388410"
     ]
   ],
   [
@@ -127,6 +127,26 @@
     [
       "A secret language of cells? New cell computations uncovered",
       "https://actu.epfl.ch/news/a-secret-language-of-cells-new-cell-computations-u/"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 16:10:34",
+      "https://news.ycombinator.com/item?id=32387345"
+    ],
+    [
+      "The AK-47",
+      "https://coolmilitarystuff.com/the-ak-47/"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 15:47:45",
+      "https://news.ycombinator.com/item?id=32386984"
+    ],
+    [
+      "The Reluctant Prophet of Effective Altruism",
+      "https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-08-08, 13:19:09",
-      "https://news.ycombinator.com/item?id=32385026"
-    ],
-    [
-      "Bridge Loans",
-      "https://avc.com/2022/08/bridge-loans/"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 12:26:05",
       "https://news.ycombinator.com/item?id=32384653"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2022-08-08, 12:21:17",
-      "https://news.ycombinator.com/item?id=32384613"
-    ],
-    [
-      "No More “Insight Porn”",
-      "https://jakobgreenfeld.com/insight-porn"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 12:10:39",
       "https://news.ycombinator.com/item?id=32384550"
     ],
     [
       "MiniRust",
       "https://www.ralfj.de/blog/2022/08/08/minirust.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 10:24:45",
-      "https://news.ycombinator.com/item?id=32383953"
-    ],
-    [
-      "Crew: A Weeding Manual for Modern Libraries (2012) [pdf]",
-      "https://www.tsl.texas.gov/sites/default/files/public/tslac/ld/ld/pubs/crew/crewmethod12.pdf"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=32382868"
     ],
     [
-      "USB Knob Box Doubles as a Blackmagic Designs Camera Remote",
+      "USB knob box doubles as a Blackmagic Designs camera remote",
       "https://bikerglen.com/blog/usb-knobs-that-double-as-a-blackmagic-remote/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Replayability in game design",
       "https://medium.com/super-jump/replayability-in-game-design-798fbb91a726"
+    ]
+  ],
+  [
+    [
+      "2022-08-07, 12:08:14",
+      "https://news.ycombinator.com/item?id=32375842"
+    ],
+    [
+      "We Perceive Nature Through Our Sense of Smell",
+      "https://worldsensorium.com/how-we-perceive-nature-through-our-sense-of-smell/"
     ]
   ],
   [
