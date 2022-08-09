@@ -1,12 +1,92 @@
 [
   [
     [
-      "2022-08-08, 23:06:09",
-      "https://news.ycombinator.com/item?id=32392224"
+      "2022-08-09, 01:52:43",
+      "https://news.ycombinator.com/item?id=32393387"
     ],
     [
-      "Malcolm Gladwell opposes WFH while he works from his couch for the last 20 years",
-      "https://fortune.com/2022/08/08/malcolm-gladwell-slammed-after-criticizing-wfh-policies-despite-having-worked-remotely-for-decades/"
+      "The Illustrated QUIC Connection",
+      "https://quic.xargs.org/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 01:36:25",
+      "https://news.ycombinator.com/item?id=32393231"
+    ],
+    [
+      "Is Google.com Down?",
+      "https://www.google.com"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 01:30:31",
+      "https://news.ycombinator.com/item?id=32393197"
+    ],
+    [
+      "Google Is Partially Down",
+      "https://news.ycombinator.com/item?id=32393197"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 01:08:13",
+      "https://news.ycombinator.com/item?id=32393051"
+    ],
+    [
+      "Ask HN: Google Search Down?",
+      "https://news.ycombinator.com/item?id=32393051"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 00:59:51",
+      "https://news.ycombinator.com/item?id=32392997"
+    ],
+    [
+      "Man Arrested for Promoting Jury Nullification Wins Federal Case",
+      "https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 00:51:38",
+      "https://news.ycombinator.com/item?id=32392937"
+    ],
+    [
+      "A Biochemist’s View of Life’s Origin Reframes Cancer and Aging",
+      "https://www.quantamagazine.org/a-biochemists-view-of-lifes-origin-reframes-cancer-and-aging-20220808/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 00:30:50",
+      "https://news.ycombinator.com/item?id=32392793"
+    ],
+    [
+      "Software Architecture Is Overrated, Clear and Simple Design Is Underrated",
+      "https://blog.pragmaticengineer.com/software-architecture-is-overrated/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 00:02:58",
+      "https://news.ycombinator.com/item?id=32392599"
+    ],
+    [
+      "MantaRay: Open-Source Ray Tracer",
+      "https://github.com/ange-yaghi/manta-ray"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 23:53:55",
+      "https://news.ycombinator.com/item?id=32392541"
+    ],
+    [
+      "Rejected.us",
+      "https://rejected.us/"
     ]
   ],
   [
@@ -21,32 +101,12 @@
   ],
   [
     [
-      "2022-08-08, 22:56:18",
-      "https://news.ycombinator.com/item?id=32392161"
-    ],
-    [
-      "The case against an alternative to C",
-      "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 21:41:38",
       "https://news.ycombinator.com/item?id=32391424"
     ],
     [
       "A history of storage media (2017)",
       "https://codewords.recurse.com/issues/seven/a-history-of-storage-media"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 21:13:12",
-      "https://news.ycombinator.com/item?id=32391081"
-    ],
-    [
-      "Some Epson printers are programmed to stop working after a certain amount of use",
-      "https://gizmodo.com/epson-printer-end-of-service-life-error-not-working-dea-1849384045"
     ]
   ],
   [
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2022-08-08, 19:41:33",
-      "https://news.ycombinator.com/item?id=32390083"
-    ],
-    [
-      "Automated Reasoning at Amazon: A Conversation",
-      "https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 17:25:49",
       "https://news.ycombinator.com/item?id=32388410"
     ],
@@ -117,26 +167,6 @@
     [
       "Keeper Tax (YC W19) Is Hiring a PM to Distrupt TurboTax",
       "https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=9be1bbe16311433d85102a822ea4b511&pm=s"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 16:42:23",
-      "https://news.ycombinator.com/item?id=32387815"
-    ],
-    [
-      "A secret language of cells? New cell computations uncovered",
-      "https://actu.epfl.ch/news/a-secret-language-of-cells-new-cell-computations-u/"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 16:10:34",
-      "https://news.ycombinator.com/item?id=32387345"
-    ],
-    [
-      "The AK-47",
-      "https://coolmilitarystuff.com/the-ak-47/"
     ]
   ],
   [
@@ -181,32 +211,22 @@
   ],
   [
     [
+      "2022-08-08, 12:58:54",
+      "https://news.ycombinator.com/item?id=32384868"
+    ],
+    [
+      "Chip Backdoors: Assessing the Threat",
+      "https://semiengineering.com/chip-backdoors-assessing-the-threat/"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 12:26:05",
       "https://news.ycombinator.com/item?id=32384653"
     ],
     [
       "To uncover a deepfake video call, ask the caller to turn sideways",
       "https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 12:24:54",
-      "https://news.ycombinator.com/item?id=32384646"
-    ],
-    [
-      "Run your own DALL-E-like image generator",
-      "https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 12:21:17",
-      "https://news.ycombinator.com/item?id=32384613"
-    ],
-    [
-      "No More “Insight Porn”",
-      "https://jakobgreenfeld.com/insight-porn"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2022-08-08, 09:29:29",
-      "https://news.ycombinator.com/item?id=32383686"
-    ],
-    [
-      "Post-Apocalyptic Programming",
-      "https://zserge.com/posts/post-apocalyptic-programming/"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 06:51:49",
-      "https://news.ycombinator.com/item?id=32382977"
-    ],
-    [
-      "Wisp: Whitespace to Lisp",
-      "https://www.draketo.de/software/wisp"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 06:28:58",
       "https://news.ycombinator.com/item?id=32382868"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2022-08-08, 06:27:34",
+      "https://news.ycombinator.com/item?id=32382860"
+    ],
+    [
+      "Our BMCs are not great at keeping accurate time",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsNotGreatAtKeepingTime"
+    ]
+  ],
+  [
+    [
       "2022-08-08, 00:12:31",
       "https://news.ycombinator.com/item?id=32381206"
     ],
     [
       "Spaced repetition can allow for infinite recall",
       "https://www.efavdb.com/memory%20recall"
-    ]
-  ],
-  [
-    [
-      "2022-08-07, 12:14:04",
-      "https://news.ycombinator.com/item?id=32375868"
-    ],
-    [
-      "Replayability in game design",
-      "https://medium.com/super-jump/replayability-in-game-design-798fbb91a726"
     ]
   ],
   [
