@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2022-08-09, 16:00:15",
-      "https://news.ycombinator.com/item?id=32399700"
-    ],
-    [
-      "Why Heroku-like pricing models are hard to build",
-      "https://www.getlago.com/blog/why-heroku-like-pricing-models-are-hard-to-build"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 15:58:50",
       "https://news.ycombinator.com/item?id=32399672"
     ],
@@ -297,6 +287,16 @@
     [
       "How fast is 12th Gen Intel Core?",
       "https://frame.work/blog/how-fast-is-12th-gen-intel-core"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 11:02:10",
+      "https://news.ycombinator.com/item?id=32384147"
+    ],
+    [
+      "De-anonymizing programmers from binaries (2017)",
+      "https://arxiv.org/abs/1512.08546"
     ]
   ]
 ]
