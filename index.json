@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-09, 21:00:16",
+      "https://news.ycombinator.com/item?id=32404225"
+    ],
+    [
+      "Relationship Hero (YC S17) Is Hiring Coaches",
+      "https://relationshiphero.com/careers?role=coach"
+    ]
+  ],
+  [
+    [
       "2022-08-09, 20:25:04",
       "https://news.ycombinator.com/item?id=32403768"
     ],
@@ -51,22 +61,22 @@
   ],
   [
     [
+      "2022-08-09, 19:13:24",
+      "https://news.ycombinator.com/item?id=32402631"
+    ],
+    [
+      "Sol: Open-source Alfred/Raycast alternative for macOS",
+      "https://github.com/ospfranco/sol"
+    ]
+  ],
+  [
+    [
       "2022-08-09, 19:13:15",
       "https://news.ycombinator.com/item?id=32402630"
     ],
     [
       "Implementing a Zero Trust Architecture",
       "https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 18:17:07",
-      "https://news.ycombinator.com/item?id=32401691"
-    ],
-    [
-      "How and why to host a blog at home",
-      "https://kubesail.com/blog/2022-08-08-how-and-why"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2022-08-09, 18:03:25",
+      "https://news.ycombinator.com/item?id=32401480"
+    ],
+    [
+      "Federation vs. Clustering: Self-determination vs. distributed computing?",
+      "https://sequentialread.com/federation-vs-clustering-self-hosting/"
+    ]
+  ],
+  [
+    [
       "2022-08-09, 18:02:23",
       "https://news.ycombinator.com/item?id=32401468"
     ],
@@ -127,16 +147,6 @@
     [
       "Launch HN: Windmill (YC S22) – Turn scripts into internal apps and workflows",
       "https://news.ycombinator.com/item?id=32400849"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 17:00:16",
-      "https://news.ycombinator.com/item?id=32400572"
-    ],
-    [
-      "Release (YC W20) Is Hiring – Senior FullStack Engineer",
-      "https://www.ycombinator.com/companies/release/jobs/Co0LgYqSQ-senior-fullstack-engineer-backend-focus-rails-react-aws-k8s"
     ]
   ],
   [
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2022-08-09, 15:54:20",
-      "https://news.ycombinator.com/item?id=32399612"
-    ],
-    [
-      "Dusting “Attack” via Tornado Cash to Public Wallets",
-      "https://etherscan.io/txsInternal?a=0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc&p=1"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 15:33:47",
       "https://news.ycombinator.com/item?id=32399368"
     ],
     [
       "Noether's Theorem in a Nutshell (2020)",
       "https://math.ucr.edu/home/baez/noether.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 15:24:34",
-      "https://news.ycombinator.com/item?id=32399266"
-    ],
-    [
-      "Don’t call it a comeback: Java is still champ",
-      "https://github.com/readme/featured/java-programming-language"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Thank You, Firebug (2017)",
       "https://getfirebug.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 22:45:19",
+      "https://news.ycombinator.com/item?id=32392070"
+    ],
+    [
+      "To speak meaningfully about art",
+      "https://medium.com/luminasticity/to-speak-meaningfully-about-art-329093dbce7f"
     ]
   ]
 ]
