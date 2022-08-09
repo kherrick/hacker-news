@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-08-08, 15:02:40",
-      "https://news.ycombinator.com/item?id=32386290"
-    ],
-    [
-      "IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp",
-      "https://www.thetylergibson.com/ikea-symfonisk-gen2-amp-modification-guide-a-much-cheaper-sonos-amp/"
-    ]
-  ],
-  [
-    [
       "2022-08-08, 14:00:48",
       "https://news.ycombinator.com/item?id=32385470"
     ],
@@ -237,6 +227,16 @@
     [
       "Teardown of a quartz crystal oscillator and the tiny IC inside",
       "https://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 09:55:51",
+      "https://news.ycombinator.com/item?id=32383820"
+    ],
+    [
+      "Open AirPlay 2 Receiver",
+      "https://github.com/openairplay/airplay2-receiver"
     ]
   ],
   [
