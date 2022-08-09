@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-08-09, 18:22:46",
+      "https://news.ycombinator.com/item?id=32401783"
+    ],
+    [
+      "Slack Status – Trouble with DMs and Threads",
+      "https://status.slack.com/2022-08/1a58d5714b3ef784"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 18:15:08",
+      "https://news.ycombinator.com/item?id=32401665"
+    ],
+    [
+      "Ask HN: Anyone else having trouble with Twitter?",
+      "https://news.ycombinator.com/item?id=32401665"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 18:05:22",
+      "https://news.ycombinator.com/item?id=32401510"
+    ],
+    [
+      "Will Intel's AXG division survive Pat Gelsinger’s axe?",
+      "https://www.jonpeddie.com/editorials/will-axg-survive-gelsingers-axe/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 18:02:23",
+      "https://news.ycombinator.com/item?id=32401468"
+    ],
+    [
+      "ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture [pdf]",
+      "https://aepicleak.com/aepicleak.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 17:56:09",
+      "https://news.ycombinator.com/item?id=32401381"
+    ],
+    [
+      "Facebook Gave Police Teenager's DMs in Abortion Prosecution",
+      "https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/"
+    ]
+  ],
+  [
+    [
       "2022-08-09, 17:41:42",
       "https://news.ycombinator.com/item?id=32401159"
     ],
     [
-      "Astro 1.0",
+      "Astro 1.0 – a web framework for building fast, content-focused websites",
       "https://astro.build/blog/astro-1/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 17:35:57",
+      "https://news.ycombinator.com/item?id=32401078"
+    ],
+    [
+      "Tesla’s self-driving technology fails to detect children in the road, tests find",
+      "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
     ]
   ],
   [
@@ -17,16 +77,6 @@
     [
       "Unrepresentative big surveys significantly overestimated US vaccine uptake",
       "https://www.nature.com/articles/s41586-021-04198-4"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 17:25:26",
-      "https://news.ycombinator.com/item?id=32400928"
-    ],
-    [
-      "Ask HN: Is no one hiring junior devs?",
-      "https://news.ycombinator.com/item?id=32400928"
     ]
   ],
   [
@@ -51,21 +101,11 @@
   ],
   [
     [
-      "2022-08-09, 16:19:39",
-      "https://news.ycombinator.com/item?id=32400002"
-    ],
-    [
-      "New Tuberculosis vaccine candidate safe in HIV- and non-HIV-exposed newborns",
-      "https://www.mpg.de/19040549/0801-bich-tuberculosis-vaccine-candidate-vpm1002-safe-in-hiv-and-non-hiv-exposed-newborns-as-study-shows-17216463-x"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 16:16:22",
       "https://news.ycombinator.com/item?id=32399949"
     ],
     [
-      "An incident impacting some accounts (5.4mm) and private information on Twitter",
+      "An incident impacting 5M accounts and private information on Twitter",
       "https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts"
     ]
   ],
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32399663"
     ],
     [
-      "Implementing Parts of the Swift Compiler in Swift",
+      "Implementing parts of the Swift compiler in Swift",
       "https://forums.swift.org/t/implementing-parts-of-the-swift-compiler-in-swift/59524"
     ]
   ],
@@ -131,32 +171,22 @@
   ],
   [
     [
-      "2022-08-09, 15:24:34",
-      "https://news.ycombinator.com/item?id=32399266"
-    ],
-    [
-      "Don’t call it a comeback: Why Java is still champ",
-      "https://github.com/readme/featured/java-programming-language"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 15:16:15",
-      "https://news.ycombinator.com/item?id=32399148"
-    ],
-    [
-      "Wildfires are destroying California's forest carbon credit reserves, study says",
-      "https://www.reuters.com/world/us/wildfires-are-destroying-californias-forest-carbon-credit-reserves-study-2022-08-05/"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 15:01:20",
       "https://news.ycombinator.com/item?id=32398969"
     ],
     [
-      "I Don’t Like Go’s Default HTTP Handlers",
+      "The problem with Go’s default HTTP handlers",
       "https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 15:00:41",
+      "https://news.ycombinator.com/item?id=32398963"
+    ],
+    [
+      "W4 Games formed to strengthen Godot ecosystem",
+      "https://w4games.com/2022/08/09/hello-world-w4-games/"
     ]
   ],
   [
@@ -175,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32398391"
     ],
     [
-      "From Novice to Master, and Back Again",
+      "From novice to master, and back again (2014)",
       "https://blog.djmnet.org/2013/01/14/from-novice-to-master-and-back-again/"
     ]
   ],
@@ -207,16 +237,6 @@
     [
       "2022 NSA Codebreaker Challenge",
       "https://nsa-codebreaker.org/home"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 13:26:00",
-      "https://news.ycombinator.com/item?id=32397510"
-    ],
-    [
-      "AppLovin offers to buy Unity Software in $17.5 bln deal",
-      "https://www.reuters.com/markets/deals/applovin-offers-buy-unity-software-2022-08-09/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-08-09, 06:40:20",
-      "https://news.ycombinator.com/item?id=32394902"
-    ],
-    [
-      "Show HN: Yare 2 – Programmable RTS game",
-      "https://www.yare.io"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 05:51:23",
       "https://news.ycombinator.com/item?id=32394607"
     ],
     [
       "The tooling ecosystem that adds joy to KiCad",
       "https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 11:02:10",
-      "https://news.ycombinator.com/item?id=32384147"
-    ],
-    [
-      "De-anonymizing programmers from binaries (2017)",
-      "https://arxiv.org/abs/1512.08546"
     ]
   ]
 ]
