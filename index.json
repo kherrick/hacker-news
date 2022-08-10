@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-08-10, 02:58:34",
+      "https://news.ycombinator.com/item?id=32407430"
+    ],
+    [
+      "A History of Lua",
+      "https://www.lua.org/history.html"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 02:45:23",
       "https://news.ycombinator.com/item?id=32407361"
     ],
@@ -117,6 +127,16 @@
     [
       "Falling for Kubernetes",
       "https://freeman.vc/notes/falling-for-kubernetes"
+    ]
+  ],
+  [
+    [
+      "2022-08-09, 20:06:02",
+      "https://news.ycombinator.com/item?id=32403504"
+    ],
+    [
+      "Tornado cash takedown and its repercussions",
+      "https://rnikhil.com/2022/08/09/tornado-cash-block.html"
     ]
   ],
   [
@@ -221,22 +241,12 @@
   ],
   [
     [
-      "2022-08-09, 15:01:20",
-      "https://news.ycombinator.com/item?id=32398969"
+      "2022-08-09, 13:28:45",
+      "https://news.ycombinator.com/item?id=32397547"
     ],
     [
-      "The problem with Go’s default HTTP handlers",
-      "https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 15:00:41",
-      "https://news.ycombinator.com/item?id=32398963"
-    ],
-    [
-      "W4 Games formed to strengthen Godot ecosystem",
-      "https://w4games.com/2022/08/09/hello-world-w4-games/"
+      "Who Built the First Electric Rock 'N' Roll Guitar? (2019)",
+      "https://www.collectorsweekly.com/articles/who-really-built-the-first-electric-rock-n-roll-guitar/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Godfather of Complexity",
       "http://blog.computationalcomplexity.org/2022/08/the-godfather-of-complexity.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 20:29:14",
-      "https://news.ycombinator.com/item?id=32390600"
-    ],
-    [
-      "The Locus of Entertainment",
-      "https://blog.nateliason.com/p/the-locus-of-entertainment"
     ]
   ]
 ]
