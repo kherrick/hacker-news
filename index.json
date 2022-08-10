@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-08-10, 15:14:40",
+      "https://news.ycombinator.com/item?id=32413348"
+    ],
+    [
+      "Show HN: Lumina Desk – digital desk for health and productivity",
+      "https://getlumina.com/desk"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 15:05:08",
+      "https://news.ycombinator.com/item?id=32413220"
+    ],
+    [
+      "Celsius Network Files Chapter 11 Bankruptcy",
+      "https://dfr.vermont.gov/consumer-alert/celsius-network-files-chapter-11-bankruptcy"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 14:56:50",
       "https://news.ycombinator.com/item?id=32413070"
     ],
     [
       "Launch HN: Sematic (YC S22) – Open-source framework to build ML pipelines faster",
       "https://news.ycombinator.com/item?id=32413070"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 14:47:39",
+      "https://news.ycombinator.com/item?id=32412905"
+    ],
+    [
+      "How SQLite Helps You Do ACID",
+      "https://fly.io/blog/sqlite-internals-rollback-journal/"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 14:42:05",
+      "https://news.ycombinator.com/item?id=32412803"
+    ],
+    [
+      "The Semantic Web Is Dead – Long Live the Semantic Web",
+      "https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 14:39:11",
+      "https://news.ycombinator.com/item?id=32412745"
+    ],
+    [
+      "RaspberryPi for measure bio signals (open-source)",
+      "https://github.com/HackerBCI"
     ]
   ],
   [
@@ -107,16 +157,6 @@
     [
       "Toko (YC W22) is hiring a Founding Engineer to make language fluency accessible",
       "https://www.ycombinator.com/companies/toko/jobs/Oiatspl-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 11:42:37",
-      "https://news.ycombinator.com/item?id=32410333"
-    ],
-    [
-      "Ask HN: List of titles and specifications for tech jobs?",
-      "https://news.ycombinator.com/item?id=32410333"
     ]
   ],
   [
@@ -241,16 +281,6 @@
   ],
   [
     [
-      "2022-08-10, 01:25:45",
-      "https://news.ycombinator.com/item?id=32406883"
-    ],
-    [
-      "Baby’s First Garbage Collector (2013)",
-      "https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 18:58:49",
       "https://news.ycombinator.com/item?id=32402373"
     ],
@@ -267,36 +297,6 @@
     [
       "Hydroponics: Growing an Appreciation for Plants",
       "https://www.bunniestudios.com/blog/?p=6481"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 08:49:03",
-      "https://news.ycombinator.com/item?id=32395589"
-    ],
-    [
-      "The Story of Mel (1983)",
-      "https://www.cs.utah.edu/~elb/folklore/mel.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 04:36:17",
-      "https://news.ycombinator.com/item?id=32394195"
-    ],
-    [
-      "Area 5150: 8088 MPH gets a successor",
-      "https://scalibq.wordpress.com/2022/08/08/area-5150-8088-mph-gets-a-successor/"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 04:32:51",
-      "https://news.ycombinator.com/item?id=32394176"
-    ],
-    [
-      "The Godfather of Complexity",
-      "http://blog.computationalcomplexity.org/2022/08/the-godfather-of-complexity.html"
     ]
   ]
 ]
