@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2022-08-10, 16:53:23",
-      "https://news.ycombinator.com/item?id=32415055"
-    ],
-    [
-      "Show HN: Directory of canned responses. If you lack inspiration",
-      "https://cannedtxt.com/"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 16:41:53",
-      "https://news.ycombinator.com/item?id=32414870"
-    ],
-    [
-      "Dark Matter Doesn't Exist",
-      "https://iai.tv/articles/dark-matter-doesnt-exist-auid-2180"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 16:38:41",
       "https://news.ycombinator.com/item?id=32414811"
     ],
@@ -107,6 +87,16 @@
     [
       "The semantic web is dead – Long live the semantic web",
       "https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 14:06:03",
+      "https://news.ycombinator.com/item?id=32412170"
+    ],
+    [
+      "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
+      "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2022-08-10, 11:36:15",
+      "https://news.ycombinator.com/item?id=32410283"
+    ],
+    [
+      "Stringbike: Benefits",
+      "https://www.stringbike.com/stringbike_benefits.html"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 10:45:41",
       "https://news.ycombinator.com/item?id=32409966"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32408577"
     ],
     [
-      "How to Choose the Right Python Concurrency API",
+      "How to choose the right Python concurrency API",
       "https://superfastpython.com/python-concurrency-choose-api/"
     ]
   ],
