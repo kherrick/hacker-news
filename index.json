@@ -1,32 +1,52 @@
 [
   [
     [
+      "2022-08-10, 16:41:53",
+      "https://news.ycombinator.com/item?id=32414870"
+    ],
+    [
+      "Dark Matter Doesn't Exist",
+      "https://iai.tv/articles/dark-matter-doesnt-exist-auid-2180"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 16:38:41",
+      "https://news.ycombinator.com/item?id=32414811"
+    ],
+    [
+      "Stable Diffusion Announcement",
+      "https://stability.ai/blog/stable-diffusion-announcement"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 16:32:13",
+      "https://news.ycombinator.com/item?id=32414698"
+    ],
+    [
+      "Nip2: “a strange combination of a spreadsheet and a photo editor”",
+      "https://github.com/libvips/nip2"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 16:01:53",
+      "https://news.ycombinator.com/item?id=32414215"
+    ],
+    [
+      "/e/OS Review – “forked from Android and completely ‘ungoogled.’”",
+      "https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 15:50:37",
       "https://news.ycombinator.com/item?id=32414037"
     ],
     [
       "MakerDAO May Execute Emergency Shutdown If Sanctions Hit DAI",
       "https://thedefiant.io/tornado-impact-makerdao-dai"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 15:14:40",
-      "https://news.ycombinator.com/item?id=32413348"
-    ],
-    [
-      "Show HN: Lumina Desk – digital desk for health and productivity",
-      "https://getlumina.com/desk"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 15:05:08",
-      "https://news.ycombinator.com/item?id=32413220"
-    ],
-    [
-      "Celsius Network Files Chapter 11 Bankruptcy",
-      "https://dfr.vermont.gov/consumer-alert/celsius-network-files-chapter-11-bankruptcy"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2022-08-10, 14:06:03",
-      "https://news.ycombinator.com/item?id=32412170"
+      "2022-08-10, 14:39:11",
+      "https://news.ycombinator.com/item?id=32412745"
     ],
     [
-      "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
-      "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html"
+      "RaspberryPi for measure bio signals (open-source)",
+      "https://github.com/HackerBCI"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "U.S. annual inflation rate drops to 8.5%",
       "https://www.bls.gov/news.release/archives/cpi_08102022.htm"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 12:12:18",
-      "https://news.ycombinator.com/item?id=32410610"
-    ],
-    [
-      "Google Fiber plans 5-state growth spurt, biggest since 2015",
-      "https://www.reuters.com/business/media-telecom/exclusive-google-fiber-plans-5-state-growth-spurt-biggest-since-2015-2022-08-10/"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2022-08-10, 03:03:32",
-      "https://news.ycombinator.com/item?id=32407451"
-    ],
-    [
-      "JNumPy: Writing high-performance C extensions for Python in minutes",
-      "https://github.com/Suzhou-Tongyuan/jnumpy"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 02:58:34",
-      "https://news.ycombinator.com/item?id=32407430"
-    ],
-    [
-      "A History of Lua (2001)",
-      "https://www.lua.org/history.html"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 18:58:49",
       "https://news.ycombinator.com/item?id=32402373"
     ],
@@ -297,6 +287,16 @@
     [
       "Sea creatures pollinate marine plants and algae",
       "https://www.nationalgeographic.co.uk/science-and-technology/2022/08/sea-creatures-pollinate-marine-plants-and-algae-surprising-scientists"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 12:44:13",
+      "https://news.ycombinator.com/item?id=32384765"
+    ],
+    [
+      "The Radical Scope of Tesla’s Data Hoard",
+      "https://spectrum.ieee.org/tesla-autopilot-data-scope"
     ]
   ]
 ]
