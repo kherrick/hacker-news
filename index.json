@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-10, 12:41:34",
+      "https://news.ycombinator.com/item?id=32410948"
+    ],
+    [
+      "Inflation drops to 8.5% annual rate",
+      "https://www.bls.gov/news.release/archives/cpi_08102022.htm"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 12:11:21",
+      "https://news.ycombinator.com/item?id=32410602"
+    ],
+    [
+      "U.K.'S Online Censorship Bill Causes Far More Harm Than It Attempts to Prevent",
+      "https://reason.com/2022/08/10/u-k-s-online-censorship-bill-causes-far-more-harm-than-it-attempts-to-prevent/"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 12:00:16",
       "https://news.ycombinator.com/item?id=32410480"
     ],
@@ -31,12 +51,52 @@
   ],
   [
     [
+      "2022-08-10, 11:39:14",
+      "https://news.ycombinator.com/item?id=32410307"
+    ],
+    [
+      "Francis Fukuyama: Paths to Depolarization",
+      "https://www.persuasion.community/p/fukuyama-paths-to-depolarization"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 11:08:11",
+      "https://news.ycombinator.com/item?id=32410107"
+    ],
+    [
+      "Most Americans support using the popular vote to decide U.S. presidents, data",
+      "https://www.npr.org/2022/08/10/1116688726/most-americans-support-using-the-popular-vote-to-decide-u-s-presidents-data-show"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 10:45:41",
+      "https://news.ycombinator.com/item?id=32409966"
+    ],
+    [
+      "Show HN: State-of-the-Art German Speech Recognition in 284 lines of C++",
+      "https://github.com/DeutscheKI/tevr-asr-tool"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 10:18:40",
       "https://news.ycombinator.com/item?id=32409811"
     ],
     [
       "Why aren't smart people happier?",
       "https://experimentalhistory.substack.com/p/why-arent-smart-people-happier"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 09:46:10",
+      "https://news.ycombinator.com/item?id=32409632"
+    ],
+    [
+      "Ask HN: What are the best tools for web scraping in 2022?",
+      "https://news.ycombinator.com/item?id=32409632"
     ]
   ],
   [
@@ -111,6 +171,16 @@
   ],
   [
     [
+      "2022-08-10, 02:05:15",
+      "https://news.ycombinator.com/item?id=32407114"
+    ],
+    [
+      "Gmail Dynamic Email (a.k.a. AMP for Email)",
+      "https://support.google.com/a/answer/9709409?hl=en"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 01:25:45",
       "https://news.ycombinator.com/item?id=32406883"
     ],
@@ -161,62 +231,12 @@
   ],
   [
     [
-      "2022-08-09, 20:23:26",
-      "https://news.ycombinator.com/item?id=32403746"
+      "2022-08-09, 18:58:49",
+      "https://news.ycombinator.com/item?id=32402373"
     ],
     [
-      "Falling for Kubernetes",
-      "https://freeman.vc/notes/falling-for-kubernetes"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 20:03:36",
-      "https://news.ycombinator.com/item?id=32403471"
-    ],
-    [
-      "Fishing gear accounts for an alarming amount of plastic in oceans (2021)",
-      "https://www.nature.org/en-us/newsroom/ca-ocean-plastic/"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 19:13:24",
-      "https://news.ycombinator.com/item?id=32402631"
-    ],
-    [
-      "Sol: Open-source Alfred/Raycast alternative for macOS",
-      "https://github.com/ospfranco/sol"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 19:13:15",
-      "https://news.ycombinator.com/item?id=32402630"
-    ],
-    [
-      "Implementing a Zero Trust Architecture",
-      "https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 18:07:36",
-      "https://news.ycombinator.com/item?id=32401548"
-    ],
-    [
-      "Lz_xor",
-      "http://richg42.blogspot.com/2022/01/lzxor.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 17:41:42",
-      "https://news.ycombinator.com/item?id=32401159"
-    ],
-    [
-      "Astro 1.0 – a web framework for building fast, content-focused websites",
-      "https://astro.build/blog/astro-1/"
+      "Archaeologists Rebury ‘First-of-Its-Kind’ Roman Villa",
+      "https://www.smithsonianmag.com/smart-news/archaeologists-rebury-first-of-its-kind-roman-villa-180980535/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-08-09, 15:22:23",
-      "https://news.ycombinator.com/item?id=32399238"
-    ],
-    [
-      "“It’s time for Apple to fix texting”",
-      "https://www.android.com/get-the-message/"
-    ]
-  ],
-  [
-    [
       "2022-08-09, 14:20:25",
       "https://news.ycombinator.com/item?id=32398353"
     ],
     [
       "Hydroponics: Growing an Appreciation for Plants",
       "https://www.bunniestudios.com/blog/?p=6481"
-    ]
-  ],
-  [
-    [
-      "2022-08-09, 11:56:16",
-      "https://news.ycombinator.com/item?id=32396638"
-    ],
-    [
-      "Nvidia publishes 73k lines of 3D header files for Fermi through Ampere GPUs",
-      "https://www.phoronix.com/news/NVIDIA-3D-Headers-Fermi-Ampere"
     ]
   ],
   [
