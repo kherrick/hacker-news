@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-10, 17:18:24",
+      "https://news.ycombinator.com/item?id=32415470"
+    ],
+    [
+      "Instagram can track anything you do on any website in their in-app browser",
+      "https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 17:00:37",
+      "https://news.ycombinator.com/item?id=32415181"
+    ],
+    [
+      "CareRev (YC S16) is hiring Ruby/Rails devs to transform healthcare (Remote US)",
+      "https://grnh.se/ad639bdc3us"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 16:53:23",
+      "https://news.ycombinator.com/item?id=32415055"
+    ],
+    [
+      "Show HN: Directory of canned responses. If you lack inspiration",
+      "https://cannedtxt.com/"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 16:41:53",
       "https://news.ycombinator.com/item?id=32414870"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32414811"
     ],
     [
-      "Stable Diffusion Announcement",
+      "Stable Diffusion launch announcement",
       "https://stability.ai/blog/stable-diffusion-announcement"
     ]
   ],
@@ -25,8 +55,18 @@
       "https://news.ycombinator.com/item?id=32414698"
     ],
     [
-      "Nip2: “a strange combination of a spreadsheet and a photo editor”",
+      "Nip2: A spreadsheet-like GUI for the libvips image processing library",
       "https://github.com/libvips/nip2"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 16:31:44",
+      "https://news.ycombinator.com/item?id=32414684"
+    ],
+    [
+      "Mathematicians crack a simple but stubborn class of equations",
+      "https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/"
     ]
   ],
   [
@@ -35,18 +75,8 @@
       "https://news.ycombinator.com/item?id=32414215"
     ],
     [
-      "/e/OS Review – “forked from Android and completely ‘ungoogled.’”",
+      "Review of /e/ – Android alternative for mobile phones",
       "https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 15:50:37",
-      "https://news.ycombinator.com/item?id=32414037"
-    ],
-    [
-      "MakerDAO May Execute Emergency Shutdown If Sanctions Hit DAI",
-      "https://thedefiant.io/tornado-impact-makerdao-dai"
     ]
   ],
   [
@@ -75,18 +105,8 @@
       "https://news.ycombinator.com/item?id=32412803"
     ],
     [
-      "The Semantic Web Is Dead – Long Live the Semantic Web",
+      "The semantic web is dead – Long live the semantic web",
       "https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 14:39:11",
-      "https://news.ycombinator.com/item?id=32412745"
-    ],
-    [
-      "RaspberryPi for measure bio signals (open-source)",
-      "https://github.com/HackerBCI"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32411586"
     ],
     [
-      "Ask HN: Exercises to think, then speak, more clearly",
+      "Ask HN: Exercises to think, then speak, more clearly?",
       "https://news.ycombinator.com/item?id=32411586"
     ]
   ],
@@ -135,18 +155,8 @@
       "https://news.ycombinator.com/item?id=32411153"
     ],
     [
-      "The many derivatives of CP/M – and which of them are now FOSS?",
+      "The many derivatives of CP/M",
       "https://www.theregister.com/2022/08/04/the_many_derivatives_of_cpm/"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 12:41:34",
-      "https://news.ycombinator.com/item?id=32410948"
-    ],
-    [
-      "U.S. annual inflation rate drops to 8.5%",
-      "https://www.bls.gov/news.release/archives/cpi_08102022.htm"
     ]
   ],
   [
@@ -155,18 +165,8 @@
       "https://news.ycombinator.com/item?id=32410602"
     ],
     [
-      "U.K.'S Online Censorship Bill Causes Far More Harm Than It Attempts to Prevent",
+      "U.K.'s online censorship bill causes more harm than it attempts to prevent",
       "https://reason.com/2022/08/10/u-k-s-online-censorship-bill-causes-far-more-harm-than-it-attempts-to-prevent/"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 12:00:16",
-      "https://news.ycombinator.com/item?id=32410480"
-    ],
-    [
-      "Toko (YC W22) is hiring a Founding Engineer to make language fluency accessible",
-      "https://www.ycombinator.com/companies/toko/jobs/Oiatspl-founding-engineer"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32410286"
     ],
     [
-      "The Artist Who Hooked British Rock Royalty on Her Revolutionary Crochet (2021)",
+      "An artist who hooked British rock royalty on her revolutionary crochet (2021)",
       "https://www.collectorsweekly.com/articles/the-swedish-artist-who-hooked-british-rock-royalty-on-crochet/"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=32409966"
     ],
     [
-      "Show HN: State-of-the-Art German Speech Recognition in 284 lines of C++",
+      "Show HN: State-of-the-art German speech recognition in 284 lines of C++",
       "https://github.com/DeutscheKI/tevr-asr-tool"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32408716"
     ],
     [
-      "Faster Ruby: Thoughts from the Outside",
+      "Faster Ruby: Thoughts from the outside",
       "https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside"
     ]
   ],
@@ -261,11 +261,21 @@
   ],
   [
     [
+      "2022-08-10, 02:58:34",
+      "https://news.ycombinator.com/item?id=32407430"
+    ],
+    [
+      "A History of Lua (2001)",
+      "https://www.lua.org/history.html"
+    ]
+  ],
+  [
+    [
       "2022-08-09, 18:58:49",
       "https://news.ycombinator.com/item?id=32402373"
     ],
     [
-      "Archaeologists Rebury ‘First-of-Its-Kind’ Roman Villa",
+      "Archaeologists rebury ‘first-of-its-kind’ Roman villa",
       "https://www.smithsonianmag.com/smart-news/archaeologists-rebury-first-of-its-kind-roman-villa-180980535/"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32398353"
     ],
     [
-      "Hydroponics: Growing an Appreciation for Plants",
+      "Hydroponics: Growing an appreciation for plants",
       "https://www.bunniestudios.com/blog/?p=6481"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Sea creatures pollinate marine plants and algae",
       "https://www.nationalgeographic.co.uk/science-and-technology/2022/08/sea-creatures-pollinate-marine-plants-and-algae-surprising-scientists"
-    ]
-  ],
-  [
-    [
-      "2022-08-08, 12:44:13",
-      "https://news.ycombinator.com/item?id=32384765"
-    ],
-    [
-      "The Radical Scope of Tesla’s Data Hoard",
-      "https://spectrum.ieee.org/tesla-autopilot-data-scope"
     ]
   ]
 ]
