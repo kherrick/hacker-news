@@ -111,12 +111,12 @@
   ],
   [
     [
-      "2022-08-10, 13:31:05",
-      "https://news.ycombinator.com/item?id=32411586"
+      "2022-08-10, 13:42:44",
+      "https://news.ycombinator.com/item?id=32411769"
     ],
     [
-      "Ask HN: Exercises to think, then speak, more clearly?",
-      "https://news.ycombinator.com/item?id=32411586"
+      "We thank Miss Mary Tsingou (2020)",
+      "https://www.lanl.gov/discover/publications/national-security-science/2020-winter/mary-tsingou.shtml"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2022-08-10, 11:02:15",
+      "https://news.ycombinator.com/item?id=32410075"
+    ],
+    [
+      "The mechanics of a sophisticated phishing scam and how we stopped it",
+      "https://blog.cloudflare.com/2022-07-sms-phishing-attacks"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 10:45:41",
       "https://news.ycombinator.com/item?id=32409966"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-08-10, 06:57:59",
-      "https://news.ycombinator.com/item?id=32408577"
-    ],
-    [
-      "How to choose the right Python concurrency API",
-      "https://superfastpython.com/python-concurrency-choose-api/"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 06:26:29",
       "https://news.ycombinator.com/item?id=32408393"
     ],
@@ -257,16 +257,6 @@
     [
       "Reddit’s database has two tables (2012)",
       "https://kevin.burke.dev/kevin/reddits-database-has-two-tables/"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 02:58:34",
-      "https://news.ycombinator.com/item?id=32407430"
-    ],
-    [
-      "A History of Lua (2001)",
-      "https://www.lua.org/history.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Sea creatures pollinate marine plants and algae",
       "https://www.nationalgeographic.co.uk/science-and-technology/2022/08/sea-creatures-pollinate-marine-plants-and-algae-surprising-scientists"
+    ]
+  ],
+  [
+    [
+      "2022-08-08, 10:37:02",
+      "https://news.ycombinator.com/item?id=32384016"
+    ],
+    [
+      "Vector Graphics on GPU",
+      "https://gasiulis.name/vector-graphics-on-gpu/"
     ]
   ]
 ]
