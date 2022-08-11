@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-08-11, 15:06:24",
+      "https://news.ycombinator.com/item?id=32426879"
+    ],
+    [
+      "Redis Explained",
+      "https://architecturenotes.co/redis/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 15:03:13",
+      "https://news.ycombinator.com/item?id=32426835"
+    ],
+    [
+      "Rust 1.63.0",
+      "https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 15:00:23",
+      "https://news.ycombinator.com/item?id=32426777"
+    ],
+    [
+      "17-Year-Old Designed a Motor That Could Transform the Electric Car Industry",
+      "https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 14:33:24",
+      "https://news.ycombinator.com/item?id=32426281"
+    ],
+    [
+      "Starlink Maritime coverage map [pdf]",
+      "https://api.starlink.com/public-files/maritime-coverage-map.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 14:29:21",
+      "https://news.ycombinator.com/item?id=32426204"
+    ],
+    [
+      "Nearby star’s midlife crisis illuminates the future of our own Sun",
+      "https://www.science.org/content/article/nearby-star-midlife-crisis-suggests-our-own-sun-may-lose-its-spots-again-decades"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 14:19:56",
+      "https://news.ycombinator.com/item?id=32426027"
+    ],
+    [
+      "NetBSD now supports the Commodore Amiga",
+      "https://thenewstrace.com/netbsd-an-operating-system-that-is-serious-about-being-cross-platform-now-improves-its-support-for-the-commodore-amiga-1985/243892/"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 14:03:17",
       "https://news.ycombinator.com/item?id=32425737"
     ],
     [
       "Python F-Strings Number Formatting Cheat Sheet",
       "https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 14:00:44",
-      "https://news.ycombinator.com/item?id=32425691"
-    ],
-    [
-      "Disney Plus to Raise Prices by $3 a Month as It Launches Tier with Ads",
-      "https://www.cnet.com/tech/services-and-software/disney-plus-to-hike-prices-3-a-month-as-it-launches-tier-with-advertising/"
     ]
   ],
   [
@@ -31,32 +81,22 @@
   ],
   [
     [
+      "2022-08-11, 13:34:17",
+      "https://news.ycombinator.com/item?id=32425319"
+    ],
+    [
+      "What does my 80 year old father do to stay healthy?",
+      "https://lifespanbook.com/workouts/"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 13:33:15",
       "https://news.ycombinator.com/item?id=32425308"
     ],
     [
       "Google’s Caste-Bias Problem",
       "https://www.newyorker.com/news/q-and-a/googles-caste-bias-problem"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 13:23:25",
-      "https://news.ycombinator.com/item?id=32425208"
-    ],
-    [
-      "GM gives customers no choice to opt out of $1500 onstar subscription",
-      "https://www.theautopian.com/gm-gives-buick-gmc-and-cadillac-escalade-customers-no-choice-to-opt-out-of-1500-onstar-subscription/"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 13:21:16",
-      "https://news.ycombinator.com/item?id=32425178"
-    ],
-    [
-      "GM Makes $1,500 OnStar Subscription Mandatory on GMC, Buick, Cadillac Models",
-      "https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "A Tale of Running Modern Linux on Hardware from 1997",
       "https://sahajsarup.com/a-tale-of-running-modern-linux-on-hardware-from-1997/"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 12:17:02",
-      "https://news.ycombinator.com/item?id=32424559"
-    ],
-    [
-      "Satellite images of damage done to Saki airfield in Crimea",
-      "https://twitter.com/IntelArrow/status/1557449807345733635"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-08-11, 07:16:27",
-      "https://news.ycombinator.com/item?id=32422505"
-    ],
-    [
-      "Give nothing, expect nothing: Gitlab latest punching bag for entitled users",
-      "https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 05:06:34",
       "https://news.ycombinator.com/item?id=32421793"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-08-10, 23:43:19",
-      "https://news.ycombinator.com/item?id=32419873"
-    ],
-    [
-      "New study overturns 100-year-old understanding of color perception",
-      "https://discover.lanl.gov/news/0810-color-perception"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 19:54:50",
       "https://news.ycombinator.com/item?id=32417534"
     ],
     [
       "The World Excel Championship is being broadcast on ESPN",
       "https://www.ladbible.com/sport/world-excel-championship-that-is-getting-national-tv-coverage-20220809"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 12:57:58",
-      "https://news.ycombinator.com/item?id=32411141"
-    ],
-    [
-      "Descriptors Are Hard",
-      "https://www.jlekstrand.net/jason/blog/2022/08/descriptors-are-hard/"
     ]
   ],
   [
