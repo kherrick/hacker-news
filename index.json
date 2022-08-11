@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-11, 10:42:10",
+      "https://news.ycombinator.com/item?id=32423813"
+    ],
+    [
+      "Fully Dockerized Linux kernel debugging environment",
+      "https://github.com/0xricksanchez/like-dbg"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 09:58:17",
       "https://news.ycombinator.com/item?id=32423556"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2022-08-10, 21:00:37",
+      "https://news.ycombinator.com/item?id=32418400"
+    ],
+    [
+      "Smarking (YC W15) Is Hiring a Senior ML Engineer",
+      "https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 19:54:50",
       "https://news.ycombinator.com/item?id=32417534"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-08-10, 17:18:24",
-      "https://news.ycombinator.com/item?id=32415470"
-    ],
-    [
-      "Instagram can track anything you do on any website in their in-app browser",
-      "https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 14:56:50",
       "https://news.ycombinator.com/item?id=32413070"
     ],
@@ -207,16 +217,6 @@
     [
       "Descriptors Are Hard",
       "https://www.jlekstrand.net/jason/blog/2022/08/descriptors-are-hard/"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 11:27:45",
-      "https://news.ycombinator.com/item?id=32410223"
-    ],
-    [
-      "Adding Auditing to Pip",
-      "https://lwn.net/SubscriberLink/904197/9f5cc13b3c352127/"
     ]
   ],
   [
