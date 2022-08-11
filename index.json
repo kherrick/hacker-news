@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2022-08-11, 00:15:20",
+      "https://news.ycombinator.com/item?id=32420081"
+    ],
+    [
+      "Join Data from PostgreSQL Declaratively in GraphQL Without Writing SQL",
+      "https://stepzen.com/blog/join-data-postgresql-declarative-graphql-without-sql"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 23:43:19",
       "https://news.ycombinator.com/item?id=32419873"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2022-08-10, 18:56:09",
-      "https://news.ycombinator.com/item?id=32416815"
-    ],
-    [
-      "The Case for Degrowth",
-      "https://www.lrb.co.uk/the-paper/v44/n16/geoff-mann/reversing-the-freight-train"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 17:18:24",
       "https://news.ycombinator.com/item?id=32415470"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2022-08-10, 13:42:44",
-      "https://news.ycombinator.com/item?id=32411769"
-    ],
-    [
-      "We thank Miss Mary Tsingou (2020)",
-      "https://www.lanl.gov/discover/publications/national-security-science/2020-winter/mary-tsingou.shtml"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 12:57:58",
       "https://news.ycombinator.com/item?id=32411141"
     ],
     [
       "Descriptors Are Hard",
       "https://www.jlekstrand.net/jason/blog/2022/08/descriptors-are-hard/"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 11:27:45",
+      "https://news.ycombinator.com/item?id=32410223"
+    ],
+    [
+      "Adding Auditing to Pip",
+      "https://lwn.net/SubscriberLink/904197/9f5cc13b3c352127/"
     ]
   ],
   [
