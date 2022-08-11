@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-11, 21:22:25",
+      "https://news.ycombinator.com/item?id=32431881"
+    ],
+    [
+      "Build your own EV charging solution",
+      "https://www.chargelab.co/developer-program"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 21:17:17",
       "https://news.ycombinator.com/item?id=32431819"
     ],
@@ -37,16 +47,6 @@
     [
       "Why thinking hard makes us feel tired",
       "https://www.nature.com/articles/d41586-022-02161-5"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 19:01:24",
-      "https://news.ycombinator.com/item?id=32430223"
-    ],
-    [
-      "Do spiders dream? A new study suggests they do",
-      "https://www.nationalgeographic.com/animals/article/jumping-spiders-dream-rem-sleep-study-suggests"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Spent $15 in DALL·E 2 credits creating this AI image",
       "https://pub.towardsai.net/i-spent-15-in-dall-e-2-credits-creating-this-ai-image-and-heres-what-i-learned-52f352912025"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 16:43:25",
-      "https://news.ycombinator.com/item?id=32428394"
-    ],
-    [
-      "Qt signal is ten times slower than a virtual function",
-      "https://developernote.com/2022/08/qt-signal-is-ten-times-slower-than-a-virtual-function/"
     ]
   ],
   [
@@ -225,8 +215,18 @@
       "https://news.ycombinator.com/item?id=32424228"
     ],
     [
-      "Seven Things I Learnt Doing Stand-Up Comedy",
+      "Things I learnt doing stand-up comedy",
       "https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 10:42:10",
+      "https://news.ycombinator.com/item?id=32423813"
+    ],
+    [
+      "Fully Dockerized Linux kernel debugging environment",
+      "https://github.com/0xricksanchez/like-dbg"
     ]
   ],
   [
