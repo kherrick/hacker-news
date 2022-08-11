@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-11, 16:21:12",
+      "https://news.ycombinator.com/item?id=32428032"
+    ],
+    [
+      "From Oscilloscope to Wireshark: A UDP Story",
+      "https://www.mattkeeter.com/blog/2022-08-11-udp/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 16:20:52",
+      "https://news.ycombinator.com/item?id=32428026"
+    ],
+    [
+      "Ask HN: Has anyone else had work emails spammed by Meta?",
+      "https://news.ycombinator.com/item?id=32428026"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 16:08:50",
+      "https://news.ycombinator.com/item?id=32427834"
+    ],
+    [
+      "Rob Pike: “Dotfiles” being hidden is a UNIXv2 mistake (2012)",
+      "https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 15:52:07",
       "https://news.ycombinator.com/item?id=32427588"
     ],
@@ -21,6 +51,16 @@
   ],
   [
     [
+      "2022-08-11, 15:23:36",
+      "https://news.ycombinator.com/item?id=32427137"
+    ],
+    [
+      "Advanced Metaprogramming in C: A select statement",
+      "https://250bpm.com/blog:56/index.html"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 15:06:24",
       "https://news.ycombinator.com/item?id=32426879"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32426835"
     ],
     [
-      "Rust 1.63.0",
+      "Rust 1.63",
       "https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html"
     ]
   ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32426777"
     ],
     [
-      "A 17-year-old designed a motor that could transform the electric car industry",
+      "A 17-year-old designed a novel synchronous reluctance motor",
       "https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/"
     ]
   ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-08-11, 14:03:17",
-      "https://news.ycombinator.com/item?id=32425737"
-    ],
-    [
-      "Python F-Strings Number Formatting Cheat Sheet",
-      "https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 13:50:29",
       "https://news.ycombinator.com/item?id=32425529"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-08-11, 11:19:35",
-      "https://news.ycombinator.com/item?id=32424055"
-    ],
-    [
-      "IPFS and Their Gateways",
-      "https://daniel.haxx.se/blog/2022/08/10/ipfs-and-their-gateways/"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 10:42:10",
       "https://news.ycombinator.com/item?id=32423813"
     ],
@@ -187,16 +207,6 @@
     [
       "No Silver Bullet (1986) [pdf]",
       "http://worrydream.com/refs/Brooks-NoSilverBullet.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 09:15:51",
-      "https://news.ycombinator.com/item?id=32423291"
-    ],
-    [
-      "Open Cybersecurity Schema Framework",
-      "https://github.com/ocsf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Mindustry – Open-Source Game",
       "https://mindustrygame.github.io/"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 05:06:34",
-      "https://news.ycombinator.com/item?id=32421793"
-    ],
-    [
-      "Podman 4.2.0",
-      "https://github.com/containers/podman/releases/tag/v4.2.0"
     ]
   ],
   [
