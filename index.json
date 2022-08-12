@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-12, 16:17:53",
+      "https://news.ycombinator.com/item?id=32440688"
+    ],
+    [
+      "Cancer in the Cold",
+      "https://www.science.org/content/blog-post/cancer-cold"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 16:05:07",
+      "https://news.ycombinator.com/item?id=32440531"
+    ],
+    [
+      "Salman Rushdie attacked onstage at New York event",
+      "https://www.theguardian.com/books/2022/aug/12/salman-rushdie-attacked-onstage-new-york"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 16:00:17",
       "https://news.ycombinator.com/item?id=32440479"
     ],
@@ -17,6 +37,16 @@
     [
       "Excel is pretty dang cool",
       "https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 14:58:15",
+      "https://news.ycombinator.com/item?id=32439601"
+    ],
+    [
+      "Ask HN: Why are Distributed Systems so Polarizing?",
+      "https://news.ycombinator.com/item?id=32439601"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32439255"
     ],
     [
-      "Kubernetes Statefulsets Are Broken",
+      "Kubernetes StatefulSets are Broken",
       "https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/"
     ]
   ],
@@ -55,18 +85,8 @@
       "https://news.ycombinator.com/item?id=32438942"
     ],
     [
-      "Starlink Successfully Hacked Using $25 Modchip",
+      "Starlink successfully hacked using $25 modchip",
       "https://threatpost.com/starlink-hack/180389/"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 14:10:59",
-      "https://news.ycombinator.com/item?id=32438923"
-    ],
-    [
-      "BlackRock bitcoin private trust",
-      "https://www.blackrock.com/institutions/en-us/insights/bitcoin-private-trust"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-08-12, 11:34:59",
-      "https://news.ycombinator.com/item?id=32436949"
-    ],
-    [
-      "Open-source tool to enforce privacy/security best-practices on Windows, macOS",
-      "https://github.com/undergroundwires/privacy.sexy"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 10:53:14",
       "https://news.ycombinator.com/item?id=32436687"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-08-12, 09:25:14",
-      "https://news.ycombinator.com/item?id=32436213"
-    ],
-    [
-      "There is a shortage of Dijon mustard in France",
-      "https://www.economist.com/the-economist-explains/2022/08/09/why-there-is-a-shortage-of-dijon-mustard-in-france"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 08:53:31",
       "https://news.ycombinator.com/item?id=32436028"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=32435615"
     ],
     [
-      "The first dynamic analysis framework for CPU microcode",
+      "Custom Processing Unit: Hook, patch, and trace microcode at the software level",
       "https://github.com/pietroborrello/CustomProcessingUnit"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32435211"
     ],
     [
-      "Reverse-Engineering Insect Brains to Make Robots",
+      "Reverse-engineering insect brains to make robots",
       "https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "Locking down your GitHub-hosted Domains",
       "https://www.aaron-gustafson.com/notebook/locking-down-your-github-hosted-domains/"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 04:51:10",
-      "https://news.ycombinator.com/item?id=32434813"
-    ],
-    [
-      "Snakisms",
-      "https://pippinbarr.com/SNAKISMS/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Goat Rental – Hire Goats",
       "https://hiregoats.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 02:41:28",
+      "https://news.ycombinator.com/item?id=32420935"
+    ],
+    [
+      "The unclear future for gifted-and-talented education",
+      "https://www.wsj.com/articles/the-unclear-future-for-gifted-and-talented-education-11660144014"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32413330"
     ],
     [
-      "The language that doesn't use 'no'",
+      "Nepal's Kusunda language has no words for \"yes\" or \"no\"",
       "https://www.bbc.com/future/article/20220804-kusunda-the-language-isolate-with-no-word-for-no"
     ]
   ]
