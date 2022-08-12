@@ -1,21 +1,11 @@
 [
   [
     [
-      "2022-08-12, 15:24:17",
-      "https://news.ycombinator.com/item?id=32439956"
-    ],
-    [
-      "Author Salman Rushdie attacked on lecture stage in New York",
-      "https://apnews.com/article/salman-rushdie-attacked-9eae99aea82cb0d39628851ecd42227a"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 15:23:17",
       "https://news.ycombinator.com/item?id=32439934"
     ],
     [
-      "Excel Is Pretty Dang Cool",
+      "Excel is pretty dang cool",
       "https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/"
     ]
   ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2022-08-12, 11:34:59",
+      "https://news.ycombinator.com/item?id=32436949"
+    ],
+    [
+      "Open-source tool to enforce privacy/security best-practices on Windows, macOS",
+      "https://github.com/undergroundwires/privacy.sexy"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 10:53:14",
       "https://news.ycombinator.com/item?id=32436687"
     ],
@@ -177,6 +177,16 @@
     [
       "The first dynamic analysis framework for CPU microcode",
       "https://github.com/pietroborrello/CustomProcessingUnit"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 07:40:24",
+      "https://news.ycombinator.com/item?id=32435601"
+    ],
+    [
+      "SQLite: Wal2 Mode Notes",
+      "https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Hacking the Hedonic Treadmill",
       "https://experimentalhistory.substack.com/p/the-five-tools-of-hedonic-design"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 16:18:12",
-      "https://news.ycombinator.com/item?id=32414461"
-    ],
-    [
-      "NetBSD 9.3: A 2022 OS that can run on late-1980s hardware",
-      "https://www.theregister.com/2022/08/10/netbsd_93/"
     ]
   ],
   [
