@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-08-12, 16:31:15",
+      "https://news.ycombinator.com/item?id=32440850"
+    ],
+    [
+      "The Supreme Korean court says that scraping publicly available data is legal",
+      "https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 16:17:53",
       "https://news.ycombinator.com/item?id=32440688"
     ],
     [
       "Cancer in the Cold",
       "https://www.science.org/content/blog-post/cancer-cold"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 16:05:07",
-      "https://news.ycombinator.com/item?id=32440531"
-    ],
-    [
-      "Salman Rushdie attacked onstage at New York event",
-      "https://www.theguardian.com/books/2022/aug/12/salman-rushdie-attacked-onstage-new-york"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32439601"
     ],
     [
-      "Ask HN: Why are Distributed Systems so Polarizing?",
+      "Ask HN: Why are distributed systems so polarizing?",
       "https://news.ycombinator.com/item?id=32439601"
     ]
   ],
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2022-08-12, 14:11:46",
-      "https://news.ycombinator.com/item?id=32438942"
+      "2022-08-12, 13:49:35",
+      "https://news.ycombinator.com/item?id=32438616"
     ],
     [
-      "Starlink successfully hacked using $25 modchip",
-      "https://threatpost.com/starlink-hack/180389/"
+      "The Unreasonable Effectiveness of Makefiles",
+      "https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Asdf Performance",
       "http://stratus3d.com/blog/2022/08/11/asdf-performance/"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 13:32:17",
+      "https://news.ycombinator.com/item?id=32438368"
+    ],
+    [
+      "Study finds link between 'forever chemicals' in cookware and liver cancer",
+      "https://www.insider.com/study-confirms-link-between-forever-chemicals-and-liver-cancer-risk-2022-8"
     ]
   ],
   [
@@ -201,22 +211,32 @@
   ],
   [
     [
-      "2022-08-12, 06:22:22",
-      "https://news.ycombinator.com/item?id=32435211"
+      "2022-08-12, 05:37:55",
+      "https://news.ycombinator.com/item?id=32435027"
     ],
     [
-      "Reverse-engineering insect brains to make robots",
-      "https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/"
+      "Overrun by influencers, historic sites are banning TikTok creators in Nepal",
+      "https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/"
     ]
   ],
   [
     [
-      "2022-08-12, 06:04:04",
-      "https://news.ycombinator.com/item?id=32435134"
+      "2022-08-12, 04:51:10",
+      "https://news.ycombinator.com/item?id=32434813"
     ],
     [
-      "Locking down your GitHub-hosted Domains",
-      "https://www.aaron-gustafson.com/notebook/locking-down-your-github-hosted-domains/"
+      "Snakisms",
+      "https://pippinbarr.com/SNAKISMS/"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 04:05:44",
+      "https://news.ycombinator.com/item?id=32434606"
+    ],
+    [
+      "The hacking of Starlink terminals has begun",
+      "https://www.wired.com/story/starlink-internet-dish-hack/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-08-11, 02:41:28",
-      "https://news.ycombinator.com/item?id=32420935"
-    ],
-    [
-      "The unclear future for gifted-and-talented education",
-      "https://www.wsj.com/articles/the-unclear-future-for-gifted-and-talented-education-11660144014"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 00:06:15",
       "https://news.ycombinator.com/item?id=32420029"
     ],
     [
       "MySQL Raytracer",
       "https://www.pouet.net/prod.php?which=83222"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 19:16:28",
-      "https://news.ycombinator.com/item?id=32417064"
-    ],
-    [
-      "TSMC: N2 to Start with Just GAAFETs, Add Backside Power Delivery Later",
-      "https://www.anandtech.com/show/17469/tsmc-first-n2-node-to-use-gaafets-skip-backside-power"
     ]
   ],
   [
