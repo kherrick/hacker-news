@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-12, 23:37:18",
+      "https://news.ycombinator.com/item?id=32445253"
+    ],
+    [
+      "Santa Susana Field Lab suffered a partial nuclear meltdown (July 1959)",
+      "https://www.kcrw.com/news/shows/greater-la/santa-susana"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 23:29:19",
+      "https://news.ycombinator.com/item?id=32445192"
+    ],
+    [
+      "Gitlab CEO Shadow Program",
+      "https://about.gitlab.com/handbook/ceo/shadow/"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 23:28:33",
+      "https://news.ycombinator.com/item?id=32445185"
+    ],
+    [
+      "Suckless.org – software that sucks less",
+      "https://suckless.org/"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 22:11:23",
       "https://news.ycombinator.com/item?id=32444564"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-08-12, 13:34:36",
-      "https://news.ycombinator.com/item?id=32438399"
-    ],
-    [
-      "One more clue to the Moon’s origin",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2022/08/one-more-clue-to-the-moons-origin.html"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 13:32:39",
       "https://news.ycombinator.com/item?id=32438375"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-08-11, 06:03:15",
-      "https://news.ycombinator.com/item?id=32422106"
-    ],
-    [
-      "The copy and swap idiom in C++",
-      "https://www.sandordargo.com/blog/2022/08/10/copy-and-swap-idiom-in-cpp"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 00:06:15",
       "https://news.ycombinator.com/item?id=32420029"
     ],
     [
       "MySQL Raytracer",
       "https://www.pouet.net/prod.php?which=83222"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 17:11:48",
-      "https://news.ycombinator.com/item?id=32415374"
-    ],
-    [
-      "Twingate Architecture Overview",
-      "https://docs.twingate.com/docs/architecture-overview"
     ]
   ],
   [
