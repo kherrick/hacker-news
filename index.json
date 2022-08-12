@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-12, 17:57:32",
+      "https://news.ycombinator.com/item?id=32441911"
+    ],
+    [
+      "VLC media player banned in India",
+      "https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 17:51:54",
+      "https://news.ycombinator.com/item?id=32441849"
+    ],
+    [
+      "Focus Time Saved Me from Burnout",
+      "https://frankgrecojr.medium.com/focus-time-saved-me-from-burnout-88cff1829276"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 16:31:15",
       "https://news.ycombinator.com/item?id=32440850"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-08-12, 10:53:14",
-      "https://news.ycombinator.com/item?id=32436687"
-    ],
-    [
-      "GHC 9.4.1 is now available",
-      "https://discourse.haskell.org/t/ghc-9-4-1-is-now-available/4901"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 10:42:20",
       "https://news.ycombinator.com/item?id=32436624"
     ],
@@ -157,16 +167,6 @@
     [
       "Arrest of suspected developer of Tornado Cash",
       "https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 08:53:31",
-      "https://news.ycombinator.com/item?id=32436028"
-    ],
-    [
-      "Google to pay $60M for misleading representations",
-      "https://www.accc.gov.au/media-release/google-llc-to-pay-60-million-for-misleading-representations"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-08-10, 19:16:28",
-      "https://news.ycombinator.com/item?id=32417064"
+      "2022-08-10, 18:18:03",
+      "https://news.ycombinator.com/item?id=32416295"
     ],
     [
-      "TSMC: N2 to Start with Just GAAFETs, Add Backside Power Delivery Later",
-      "https://www.anandtech.com/show/17469/tsmc-first-n2-node-to-use-gaafets-skip-backside-power"
+      "Fast Font Loading Techniques (2015)",
+      "https://davidwalsh.name/font-loading"
     ]
   ],
   [
