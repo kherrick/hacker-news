@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-08-12, 20:48:36",
-      "https://news.ycombinator.com/item?id=32443706"
+      "2022-08-12, 21:21:09",
+      "https://news.ycombinator.com/item?id=32444074"
     ],
     [
-      "Anonymous poop gifting site hacked, customers exposed",
-      "https://www.bleepingcomputer.com/news/security/anonymous-poop-gifting-site-hacked-customers-exposed/"
+      "Ask HN: Which Linux terminal emulator do you prefer and why?",
+      "https://news.ycombinator.com/item?id=32444074"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 21:09:55",
+      "https://news.ycombinator.com/item?id=32443943"
+    ],
+    [
+      "Loose Lips Sink Ships",
+      "https://www.stonekettle.com/2022/08/loose-lips-sink-ships.html"
     ]
   ],
   [
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2022-08-12, 07:43:16",
-      "https://news.ycombinator.com/item?id=32435615"
-    ],
-    [
-      "Custom Processing Unit: Hook, patch, and trace microcode at the software level",
-      "https://github.com/pietroborrello/CustomProcessingUnit"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 06:33:43",
-      "https://news.ycombinator.com/item?id=32435259"
-    ],
-    [
-      "JiraCLI",
-      "https://github.com/ankitpokhrel/jira-cli"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 04:05:44",
       "https://news.ycombinator.com/item?id=32434606"
     ],
     [
       "The hacking of Starlink terminals has begun",
       "https://www.wired.com/story/starlink-internet-dish-hack/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 15:45:21",
+      "https://news.ycombinator.com/item?id=32427475"
+    ],
+    [
+      "The trouble with 64-bit DMA in Linux",
+      "https://lwn.net/Articles/904210/"
     ]
   ],
   [
