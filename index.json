@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-12, 06:27:41",
+      "https://news.ycombinator.com/item?id=32435235"
+    ],
+    [
+      "TruffleC: A C implementation on top of JVM",
+      "https://dl.acm.org/doi/10.1145/2647508.2647528"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 06:22:22",
       "https://news.ycombinator.com/item?id=32435211"
     ],
@@ -107,16 +117,6 @@
     [
       "My take on how DuckDuckGo can outperform Google",
       "https://daniloedu.medium.com/my-take-on-how-duckduckgo-can-outperform-google-e52191e49558"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 22:40:46",
-      "https://news.ycombinator.com/item?id=32432724"
-    ],
-    [
-      "Curio – Notebook application for note-taking and research",
-      "https://www.zengobi.com/curio/"
     ]
   ],
   [
