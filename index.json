@@ -1,11 +1,31 @@
 [
   [
     [
+      "2022-08-12, 02:13:52",
+      "https://news.ycombinator.com/item?id=32434076"
+    ],
+    [
+      "Nanostructured Fibers Can Impersonate Human Muscles",
+      "https://www.ae.utexas.edu/news/nanostructured-fibers-can-impersonate-human-muscles"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 01:01:09",
+      "https://news.ycombinator.com/item?id=32433696"
+    ],
+    [
+      "My take on how DuckDuckGo can outperform Google",
+      "https://daniloedu.medium.com/my-take-on-how-duckduckgo-can-outperform-google-e52191e49558"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 22:40:46",
       "https://news.ycombinator.com/item?id=32432724"
     ],
     [
-      "Curio – The most advanced notebook application for note-taking and research",
+      "Curio – Notebook application for note-taking and research",
       "https://www.zengobi.com/curio/"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32429067"
     ],
     [
-      "A Model for Journalistic Copypasta",
+      "A model for journalistic copypasta",
       "https://dynomight.net/copypasta/"
     ]
   ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2022-08-11, 11:43:05",
-      "https://news.ycombinator.com/item?id=32424228"
+      "2022-08-11, 13:21:16",
+      "https://news.ycombinator.com/item?id=32425178"
     ],
     [
-      "Things I learnt doing stand-up comedy",
-      "https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 10:42:10",
-      "https://news.ycombinator.com/item?id=32423813"
-    ],
-    [
-      "Fully Dockerized Linux kernel debugging environment",
-      "https://github.com/0xricksanchez/like-dbg"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 09:29:29",
-      "https://news.ycombinator.com/item?id=32423356"
-    ],
-    [
-      "No Silver Bullet (1986) [pdf]",
-      "http://worrydream.com/refs/Brooks-NoSilverBullet.pdf"
+      "GM makes $1,500 subscription mandatory on GMC, Buick, Cadillac Models",
+      "https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32423074"
     ],
     [
-      "So you have decided to start a Free Software Consultancy",
+      "So you have decided to start a free software consultancy",
       "https://ariadne.space/2022/08/11/so-youve-decided-to-start-a-free-software-consultancy.../"
     ]
   ],
@@ -247,16 +247,6 @@
     [
       "Launch HN: AccessOwl (YC S22) – Automating SaaS Provisioning and Permissioning",
       "https://news.ycombinator.com/item?id=32422871"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 22:24:26",
-      "https://news.ycombinator.com/item?id=32419184"
-    ],
-    [
-      "Project write-up: Display Spotify lyrics on external display",
-      "https://yasoob.me/posts/spotify-synced-and-translated-lyrics-display/"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2022-08-10, 19:35:50",
+      "https://news.ycombinator.com/item?id=32417320"
+    ],
+    [
+      "Scott Meyers: Advice to Prospective Book Authors (2003)",
+      "https://www.aristeia.com/authorAdvice.html"
+    ]
+  ],
+  [
+    [
       "2022-08-10, 17:57:53",
       "https://news.ycombinator.com/item?id=32416008"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32414661"
     ],
     [
-      "Switcher",
+      "Switcher (2004)",
       "https://www.folklore.org/StoryView.py?project=Macintosh&story=Switcher.txt"
     ]
   ]
