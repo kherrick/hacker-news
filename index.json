@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-08-12, 23:37:18",
-      "https://news.ycombinator.com/item?id=32445253"
-    ],
-    [
-      "1959 Santa Susana meltdown",
-      "https://www.kcrw.com/news/shows/greater-la/santa-susana"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 23:31:22",
       "https://news.ycombinator.com/item?id=32445203"
     ],
@@ -297,6 +287,16 @@
     [
       "Levitator 1: copter flys from the tips",
       "https://www.youtube.com/watch?v=JfP7955XipY"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 18:10:51",
+      "https://news.ycombinator.com/item?id=32416193"
+    ],
+    [
+      "Can Applications Recover from Fsync Failures?",
+      "https://www.usenix.org/conference/atc20/presentation/rebello"
     ]
   ]
 ]
