@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-13, 13:49:21",
+      "https://news.ycombinator.com/item?id=32449857"
+    ],
+    [
+      "Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text",
+      "https://zmarshall.nl/static/eink-vnc.html"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 13:28:02",
       "https://news.ycombinator.com/item?id=32449670"
     ],
     [
       "Heap Overflows on iOS ARM64",
       "https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 13:16:33",
+      "https://news.ycombinator.com/item?id=32449589"
+    ],
+    [
+      "Yonatan Zunger – People seem to think “Nazi” is meant as a slur or term of abuse",
+      "http://angg.twu.net/nazism-zunger.html"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-08-13, 06:08:11",
-      "https://news.ycombinator.com/item?id=32447351"
-    ],
-    [
-      "Stop using DICT dictionary apps (such as GNOME/MATE Dictionary)",
-      "https://www.ctrl.blog/entry/dict-protocol-privacy.html"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 06:05:47",
       "https://news.ycombinator.com/item?id=32447339"
     ],
@@ -177,16 +187,6 @@
     [
       "Improving Postgres text search speed",
       "https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 00:05:25",
-      "https://news.ycombinator.com/item?id=32445450"
-    ],
-    [
-      "Subreply",
-      "https://subreply.com/discover"
     ]
   ],
   [
