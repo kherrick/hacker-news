@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-13, 14:58:36",
+      "https://news.ycombinator.com/item?id=32450509"
+    ],
+    [
+      "How to Stay Focused While Working on Your Startup and Having a 9 to 5",
+      "https://fernandopessagno.medium.com/6-ways-to-stay-focused-while-working-on-your-startup-and-having-a-9-to-5-fb0b2d2c8db3"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 14:46:10",
+      "https://news.ycombinator.com/item?id=32450402"
+    ],
+    [
+      "Ask HN: Do we need another build system?",
+      "https://news.ycombinator.com/item?id=32450402"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 14:08:14",
+      "https://news.ycombinator.com/item?id=32450020"
+    ],
+    [
+      "2022 Oder Environmental Disaster",
+      "https://en.wikipedia.org/wiki/2022_Oder_environmental_disaster"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 13:50:43",
       "https://news.ycombinator.com/item?id=32449865"
     ],
@@ -31,32 +61,22 @@
   ],
   [
     [
+      "2022-08-13, 13:39:40",
+      "https://news.ycombinator.com/item?id=32449772"
+    ],
+    [
+      "What Is TTY?",
+      "https://www.sobyte.net/post/2022-05/tty/"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 13:28:02",
       "https://news.ycombinator.com/item?id=32449670"
     ],
     [
       "Heap Overflows on iOS ARM64",
       "https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 13:16:33",
-      "https://news.ycombinator.com/item?id=32449589"
-    ],
-    [
-      "Yonatan Zunger – People seem to think “Nazi” is meant as a slur or term of abuse",
-      "http://angg.twu.net/nazism-zunger.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 13:00:12",
-      "https://news.ycombinator.com/item?id=32449471"
-    ],
-    [
-      "Who Judges the Judges?",
-      "https://popehat.substack.com/p/who-judges-the-judges"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "How I Hacked my Car",
       "https://programmingwithstyle.com/posts/howihackedmycar/"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 07:04:31",
-      "https://news.ycombinator.com/item?id=32447569"
-    ],
-    [
-      "John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips",
-      "https://www.youtube.com/watch?v=tzr7hRXcwkw"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Improving Postgres text search speed",
       "https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 23:57:27",
-      "https://news.ycombinator.com/item?id=32445394"
-    ],
-    [
-      "Why should I have written ZeroMQ in C, not C++ (2012)",
-      "https://250bpm.com/blog:4/"
     ]
   ],
   [
