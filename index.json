@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-08-13, 00:05:25",
+      "https://news.ycombinator.com/item?id=32445450"
+    ],
+    [
+      "Subreply",
+      "https://subreply.com/discover"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 23:38:33",
+      "https://news.ycombinator.com/item?id=32445260"
+    ],
+    [
+      "US Navy Radio Communications – 1950s and 1960s",
+      "https://www.navy-radio.com/"
+    ]
+  ],
+  [
+    [
       "2022-08-12, 23:37:18",
       "https://news.ycombinator.com/item?id=32445253"
     ],
     [
-      "Santa Susana Field Lab suffered a partial nuclear meltdown (July 1959)",
+      "Santa Susana Field Lab (California) suffered a partial nuclear meltdown (1959)",
       "https://www.kcrw.com/news/shows/greater-la/santa-susana"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 23:32:43",
+      "https://news.ycombinator.com/item?id=32445220"
+    ],
+    [
+      "An open letter to the Tesla fan who wants to run over a kid",
+      "https://www.theverge.com/2022/8/12/23302850/tesla-full-self-driving-child-crash-open-letter"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 23:31:22",
+      "https://news.ycombinator.com/item?id=32445203"
+    ],
+    [
+      "Local simulation feature to be removed from all autodesk fusion 360 versions",
+      "https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32445192"
     ],
     [
-      "Gitlab CEO Shadow Program",
+      "CEO Shadow Program",
       "https://about.gitlab.com/handbook/ceo/shadow/"
     ]
   ],
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32443544"
     ],
     [
-      "Harvard Professor on Quest for Possible Alien Tech Crashed in the Pacific Ocean",
+      "A meteor or alien tech: Harvard professor plans UFO expedition",
       "https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/"
     ]
   ],
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2022-08-12, 20:04:03",
-      "https://news.ycombinator.com/item?id=32443251"
-    ],
-    [
-      "Code Free or Die(): Why Hackers Are So Often Libertarians (2008)",
-      "https://web.archive.org/web/20080724145906/http://dfranke.us/cfod.html"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 19:25:21",
       "https://news.ycombinator.com/item?id=32442894"
     ],
     [
       "New Intel chips won't play Blu-ray disks due to SGX deprecation",
       "https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 19:21:08",
-      "https://news.ycombinator.com/item?id=32442849"
-    ],
-    [
-      "The Calvine UFO photograph",
-      "https://drdavidclarke.co.uk/2022/08/12/the-calvine-ufo-revealed/"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2022-08-12, 10:42:20",
-      "https://news.ycombinator.com/item?id=32436624"
-    ],
-    [
-      "Man overcharged 20 rupees for India train ticket wins 22-year legal battle",
-      "https://www.theguardian.com/world/2022/aug/12/man-overcharged-20-rupees-for-india-train-ticket-wins-22-year-legal-battle"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 10:05:40",
-      "https://news.ycombinator.com/item?id=32436413"
-    ],
-    [
-      "Arrest of suspected developer of Tornado Cash",
-      "https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 04:05:44",
       "https://news.ycombinator.com/item?id=32434606"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-08-11, 14:25:21",
-      "https://news.ycombinator.com/item?id=32426122"
-    ],
-    [
-      "Immune cells acquire genomic scars in a lifetime defending against infection",
-      "https://medicalxpress.com/news/2022-08-immune-cells-genomic-scars-lifetime.html"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 06:33:16",
       "https://news.ycombinator.com/item?id=32422260"
     ],
@@ -287,6 +277,16 @@
     [
       "MySQL Raytracer",
       "https://www.pouet.net/prod.php?which=83222"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 18:20:14",
+      "https://news.ycombinator.com/item?id=32416331"
+    ],
+    [
+      "Danielle Steel's Production Function",
+      "https://dev.lareviewofbooks.org/article/the-sublime-danielle-steel/"
     ]
   ],
   [
