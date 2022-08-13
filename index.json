@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32452673"
     ],
     [
-      "Quirky Computing Books",
+      "Quirky computing books",
       "https://github.com/fogus/thunks/blob/main/reading/quirkeys.org"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32452080"
     ],
     [
-      "A Python-compatible statically typed language erg-lang/erg",
+      "Erg: a statically typed language that is Python compatible",
       "https://github.com/erg-lang/erg"
     ]
   ],
@@ -71,22 +71,22 @@
   ],
   [
     [
+      "2022-08-13, 16:01:16",
+      "https://news.ycombinator.com/item?id=32451077"
+    ],
+    [
+      "Uber Rewards is ending on November 1, 2022",
+      "https://help.uber.com/riders/article/uber-rewards-update?nodeId=0f8a4b77-6e68-4c7c-a6f5-62cf549fbad4"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 15:54:30",
       "https://news.ycombinator.com/item?id=32451024"
     ],
     [
       "It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet",
       "https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 15:44:28",
-      "https://news.ycombinator.com/item?id=32450926"
-    ],
-    [
-      "AI Guidance for Mental Resilience",
-      "https://futurself.ai"
     ]
   ],
   [
@@ -181,21 +181,11 @@
   ],
   [
     [
-      "2022-08-13, 11:03:27",
-      "https://news.ycombinator.com/item?id=32448687"
-    ],
-    [
-      "Japanese vegetable cutting techniques (2021)",
-      "https://thechefdojo.com/japanese-vegetable-cutting-techniques/"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 10:55:54",
       "https://news.ycombinator.com/item?id=32448621"
     ],
     [
-      "Cast Iron Leet",
+      "Cast iron leet",
       "https://erock.prose.sh/cast-iron-leet"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Native-GUI distributed system in a tweet",
       "https://blog.metaobject.com/2022/08/native-gui-distributed-system-in-tweet.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 17:59:49",
+      "https://news.ycombinator.com/item?id=32416043"
+    ],
+    [
+      "IPv4 Address Auctions",
+      "https://auctions.ipv4.global/"
     ]
   ]
 ]
