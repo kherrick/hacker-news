@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-13, 13:28:02",
+      "https://news.ycombinator.com/item?id=32449670"
+    ],
+    [
+      "Heap Overflows on iOS ARM64",
+      "https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 11:48:24",
       "https://news.ycombinator.com/item?id=32448999"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-08-12, 23:37:18",
-      "https://news.ycombinator.com/item?id=32445253"
-    ],
-    [
-      "1959 Santa Susana meltdown",
-      "https://www.kcrw.com/news/shows/greater-la/santa-susana"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 23:31:22",
       "https://news.ycombinator.com/item?id=32445203"
     ],
@@ -217,16 +217,6 @@
     [
       "CEO Shadow Program",
       "https://about.gitlab.com/handbook/ceo/shadow/"
-    ]
-  ],
-  [
-    [
-      "2022-08-11, 15:40:31",
-      "https://news.ycombinator.com/item?id=32427410"
-    ],
-    [
-      "Real World Schema Exploring with Azimutt",
-      "https://www.i-programmer.info/news/90-tools/15641-real-world-schema-exploring-with-azimutt.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Can Applications Recover from Fsync Failures?",
       "https://www.usenix.org/conference/atc20/presentation/rebello"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 17:59:49",
+      "https://news.ycombinator.com/item?id=32416043"
+    ],
+    [
+      "IPv4 Address Auctions",
+      "https://auctions.ipv4.global/"
     ]
   ],
   [
