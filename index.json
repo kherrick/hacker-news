@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-13, 11:48:24",
+      "https://news.ycombinator.com/item?id=32448999"
+    ],
+    [
+      "Rufus: Microsoft is blocking Windows ISO downloads",
+      "https://www.ghacks.net/2022/08/13/rufus-microsoft-is-blocking-windows-iso-downloads/"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 11:24:52",
+      "https://news.ycombinator.com/item?id=32448825"
+    ],
+    [
+      "Ask HN: Anyone else feels the commoditization of real estate is unethical?",
+      "https://news.ycombinator.com/item?id=32448825"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 10:55:54",
       "https://news.ycombinator.com/item?id=32448621"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2022-08-13, 10:52:46",
-      "https://news.ycombinator.com/item?id=32448605"
-    ],
-    [
-      "US data transfer unlawful according to German procurement authority",
-      "https://www.simpleanalytics.com/blog/us-data-transfer-unlawful-according-to-german-procurement-authority"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 10:16:09",
       "https://news.ycombinator.com/item?id=32448435"
     ],
     [
       "Researchers agree: World can reach 100% renewable energy system by/before 2050",
       "https://www.helsinkitimes.fi/themes/themes/science-and-technology/22012-researchers-agree-the-world-can-reach-a-100-renewable-energy-system-by-or-before-2050.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 09:06:06",
+      "https://news.ycombinator.com/item?id=32448104"
+    ],
+    [
+      "Dillo web browser homepage is for sale",
+      "http://dillo.org/contact.txt"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-08-13, 00:05:25",
-      "https://news.ycombinator.com/item?id=32445450"
-    ],
-    [
-      "Subreply",
-      "https://subreply.com/discover"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 23:57:27",
       "https://news.ycombinator.com/item?id=32445394"
     ],
     [
       "Why should I have written ZeroMQ in C, not C++ (2012)",
       "https://250bpm.com/blog:4/"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 23:37:18",
-      "https://news.ycombinator.com/item?id=32445253"
-    ],
-    [
-      "1959 Santa Susana meltdown",
-      "https://www.kcrw.com/news/shows/greater-la/santa-susana"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-08-11, 13:22:10",
-      "https://news.ycombinator.com/item?id=32425196"
-    ],
-    [
-      "A RedMonk Conversation: API Authentication",
-      "https://redmonk.com/videos/a-redmonk-conversation-api-authentication/"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 06:22:24",
       "https://news.ycombinator.com/item?id=32422197"
     ],
@@ -297,6 +287,16 @@
     [
       "Can Applications Recover from Fsync Failures?",
       "https://www.usenix.org/conference/atc20/presentation/rebello"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 17:08:40",
+      "https://news.ycombinator.com/item?id=32415331"
+    ],
+    [
+      "The Contingency of Listening: The MoFi Kerfuffle",
+      "https://dadadrummer.substack.com/p/all-listening-is-analog"
     ]
   ]
 ]
