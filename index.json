@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-08-13, 15:54:30",
+      "https://news.ycombinator.com/item?id=32451024"
+    ],
+    [
+      "It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet",
+      "https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 15:44:28",
+      "https://news.ycombinator.com/item?id=32450926"
+    ],
+    [
+      "AI Guidance for Mental Resilience",
+      "https://futurself.ai"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 15:36:27",
+      "https://news.ycombinator.com/item?id=32450845"
+    ],
+    [
+      "A Pig and a Locust Get into Trouble with the Law: On Justice in Medieval Europe",
+      "https://lithub.com/a-pig-and-a-locust-get-into-serious-trouble-with-the-law-on-justice-in-medieval-europe/"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 15:17:40",
+      "https://news.ycombinator.com/item?id=32450659"
+    ],
+    [
+      "Split Brain Psychology",
+      "https://superbowl.substack.com/p/split-brain-psychology"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 15:14:10",
+      "https://news.ycombinator.com/item?id=32450629"
+    ],
+    [
+      "Germany Sees Tidal Shift in Sentiment Toward Atomic Energy",
+      "https://www.spiegel.de/international/germany/germany-sees-tidal-shift-in-sentiment-toward-atomic-energy-a-05f47c3c-d20e-44dc-bd6d-1e1dbfb7f0cd"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 15:10:33",
+      "https://news.ycombinator.com/item?id=32450592"
+    ],
+    [
+      "On Being Tired",
+      "https://jukkaniiranen.com/2022/02/on-being-tired/"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 14:58:36",
       "https://news.ycombinator.com/item?id=32450509"
     ],
@@ -77,16 +137,6 @@
     [
       "Heap Overflows on iOS ARM64",
       "https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 13:00:12",
-      "https://news.ycombinator.com/item?id=32449471"
-    ],
-    [
-      "Who Judges the Judges?",
-      "https://popehat.substack.com/p/who-judges-the-judges"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2022-08-13, 05:06:52",
-      "https://news.ycombinator.com/item?id=32447098"
-    ],
-    [
-      "The Bay Area's Lost Streetcars",
-      "https://sfstreetcars.co/"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 04:30:00",
       "https://news.ycombinator.com/item?id=32446907"
     ],
     [
       "Autodesk criticised by 35 named architects (2020)",
       "http://extranetevolution.com/2020/07/autodesk-criticism-extends/"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 03:58:50",
-      "https://news.ycombinator.com/item?id=32446771"
-    ],
-    [
-      "Self-taught AI shows similarities to how the brain works",
-      "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/"
     ]
   ],
   [
@@ -221,22 +251,12 @@
   ],
   [
     [
-      "2022-08-13, 00:51:33",
-      "https://news.ycombinator.com/item?id=32445780"
+      "2022-08-11, 11:33:49",
+      "https://news.ycombinator.com/item?id=32424161"
     ],
     [
-      "Improving Postgres text search speed",
-      "https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 23:29:19",
-      "https://news.ycombinator.com/item?id=32445192"
-    ],
-    [
-      "CEO Shadow Program",
-      "https://about.gitlab.com/handbook/ceo/shadow/"
+      "Use Postfix Dereferencing",
+      "https://www.effectiveperlprogramming.com/2014/09/use-postfix-dereferencing/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-08-10, 18:16:08",
-      "https://news.ycombinator.com/item?id=32416267"
-    ],
-    [
-      "Levitator 1: copter flys from the tips",
-      "https://www.youtube.com/watch?v=JfP7955XipY"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 18:10:51",
       "https://news.ycombinator.com/item?id=32416193"
     ],
     [
       "Can Applications Recover from Fsync Failures?",
       "https://www.usenix.org/conference/atc20/presentation/rebello"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 17:08:40",
-      "https://news.ycombinator.com/item?id=32415331"
-    ],
-    [
-      "The Contingency of Listening: The MoFi Kerfuffle",
-      "https://dadadrummer.substack.com/p/all-listening-is-analog"
     ]
   ]
 ]
