@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-13, 04:24:02",
+      "https://news.ycombinator.com/item?id=32446882"
+    ],
+    [
+      "Show HN: I will now send this to beginner programmers",
+      "https://headlinedev.xyz/2022/08/12/how-to-learn-to-program.html"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 04:01:35",
       "https://news.ycombinator.com/item?id=32446779"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2022-08-12, 20:33:30",
-      "https://news.ycombinator.com/item?id=32443544"
-    ],
-    [
-      "A meteor or alien tech: Harvard professor plans UFO expedition",
-      "https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 20:31:16",
       "https://news.ycombinator.com/item?id=32443521"
     ],
@@ -177,16 +177,6 @@
     [
       "Intel 286 secrets: ICE mode and F1 0F 04",
       "https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 16:31:15",
-      "https://news.ycombinator.com/item?id=32440850"
-    ],
-    [
-      "The Supreme Korean court says that scraping publicly available data is legal",
-      "https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Levitator 1: copter flys from the tips",
       "https://www.youtube.com/watch?v=JfP7955XipY"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 17:10:01",
+      "https://news.ycombinator.com/item?id=32415345"
+    ],
+    [
+      "Finding performance problems: profiling or logging?",
+      "https://pythonspeed.com/articles/logging-vs-profiling/"
     ]
   ]
 ]
