@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-13, 07:04:31",
+      "https://news.ycombinator.com/item?id=32447569"
+    ],
+    [
+      "John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips",
+      "https://www.youtube.com/watch?v=tzr7hRXcwkw"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 07:00:28",
       "https://news.ycombinator.com/item?id=32447546"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32446653"
     ],
     [
-      "Why StarCraft crashed frequently during development",
+      "Why StarCraft crashed frequently during development (2012)",
       "https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Levitator 1: copter flys from the tips",
       "https://www.youtube.com/watch?v=JfP7955XipY"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 17:10:01",
-      "https://news.ycombinator.com/item?id=32415345"
-    ],
-    [
-      "Finding performance problems: profiling or logging?",
-      "https://pythonspeed.com/articles/logging-vs-profiling/"
     ]
   ]
 ]
