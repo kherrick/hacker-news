@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-08-14, 15:05:49",
+      "https://news.ycombinator.com/item?id=32459857"
+    ],
+    [
+      "Cloud.gov",
+      "https://cloud.gov/"
+    ]
+  ],
+  [
+    [
       "2022-08-14, 14:18:58",
       "https://news.ycombinator.com/item?id=32459443"
     ],
     [
-      "Elements of Programming",
+      "Elements of Programming (2019)",
       "http://elementsofprogramming.com/"
     ]
   ],
@@ -65,18 +75,8 @@
       "https://news.ycombinator.com/item?id=32459061"
     ],
     [
-      "Is sending Mississippi water to West feasible? Experts weigh in",
+      "Is sending Mississippi water to West feasible?",
       "https://www.desertsun.com/story/news/environment/2022/08/14/sending-mississippi-water-west-feasible-experts-weigh/10282030002/"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 12:58:41",
-      "https://news.ycombinator.com/item?id=32458878"
-    ],
-    [
-      "Zoom macOS app quietly added back cs.disable-library-validation entitlement",
-      "https://news.ycombinator.com/item?id=32458878"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32458294"
     ],
     [
-      "List of over 500 Swedish tech startups and scaleups",
+      "Swedish tech startups and scaleups",
       "https://www.swedishtechnews.com/ultimate-swedish-startups-list/"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32458048"
     ],
     [
-      "Paradigms of Artificial Intelligence Programming",
+      "Paradigms of Artificial Intelligence Programming (1992)",
       "https://github.com/norvig/paip-lisp"
     ]
   ],
