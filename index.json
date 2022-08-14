@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2022-08-14, 18:39:28",
+      "https://news.ycombinator.com/item?id=32461711"
+    ],
+    [
+      "Page was served from Nginx on ReactOS",
+      "https://reactos.aaron.cc/"
+    ]
+  ],
+  [
+    [
       "2022-08-14, 17:49:49",
       "https://news.ycombinator.com/item?id=32461293"
     ],
     [
       "Status Traps: Learning from Web2 Social Networks",
       "https://a16zcrypto.com/social-network-status-traps-web2-learnings/"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 17:33:15",
-      "https://news.ycombinator.com/item?id=32461138"
-    ],
-    [
-      "As an artist I am concerned about AI image generation",
-      "https://twitter.com/arvalis/status/1558623545374023680"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-08-14, 07:04:06",
-      "https://news.ycombinator.com/item?id=32457119"
-    ],
-    [
-      "Stacker (YC S20) Is Hiring a Product Engineer",
-      "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 06:24:19",
       "https://news.ycombinator.com/item?id=32456905"
     ],
@@ -257,6 +247,16 @@
     [
       "Puppertino: A CSS framework based on Human Guidelines from Apple",
       "https://github.com/codedgar/Puppertino"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 07:25:45",
+      "https://news.ycombinator.com/item?id=32435528"
+    ],
+    [
+      "Faster Protocol Buffers",
+      "https://blog.najaryan.net/posts/partial-protobuf-encoding/"
     ]
   ],
   [
