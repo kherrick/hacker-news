@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-08-14, 06:44:22",
+      "https://news.ycombinator.com/item?id=32456998"
+    ],
+    [
+      "Faster Protocol Buffers",
+      "https://blog.najaryan.net/posts/partial-protobuf-encoding/"
+    ]
+  ],
+  [
+    [
       "2022-08-14, 06:24:19",
       "https://news.ycombinator.com/item?id=32456905"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32456151"
     ],
     [
-      "dogelang – it's a Python! No, it's a Haskell!",
+      "Dogelang – A Python with Haskell Syntax (2020)",
       "http://pyos.github.io/dg/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Quirky computing books",
       "https://github.com/fogus/thunks/blob/main/reading/quirkeys.org"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 07:22:39",
-      "https://news.ycombinator.com/item?id=32447650"
-    ],
-    [
-      "I hacked my car",
-      "https://programmingwithstyle.com/posts/howihackedmycar/"
     ]
   ],
   [
