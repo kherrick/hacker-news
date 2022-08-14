@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-08-14, 08:32:08",
-      "https://news.ycombinator.com/item?id=32457551"
+      "2022-08-14, 08:40:31",
+      "https://news.ycombinator.com/item?id=32457587"
     ],
     [
-      "Meatless meat is nothing new",
-      "https://www.economist.com/christmas-specials/2021/12/18/meatless-meat-is-nothing-new"
+      "Will Bun JavaScript Take Node's Crown",
+      "https://semaphoreci.com/blog/javascript-bun"
     ]
   ],
   [
@@ -131,12 +131,32 @@
   ],
   [
     [
+      "2022-08-13, 21:32:39",
+      "https://news.ycombinator.com/item?id=32453990"
+    ],
+    [
+      "Man who robbed bank to get his own money back hailed as national hero",
+      "https://www.aljazeera.com/news/2022/8/11/armed-man-holds-beirut-bank-staff-hostage-demands-savings"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 19:44:07",
       "https://news.ycombinator.com/item?id=32453091"
     ],
     [
       "First Eco-Friendly Filter Removing 'Microplastics in Water,'",
       "https://www.asiaresearchnews.com/content/worlds-first-eco-friendly-filter-removing-microplastics-water-threat-humans-sea-without"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 19:37:17",
+      "https://news.ycombinator.com/item?id=32453050"
+    ],
+    [
+      "WinterCG: Web-Interoperable Runtimes Community Group",
+      "https://wintercg.org/"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2022-08-13, 18:11:36",
-      "https://news.ycombinator.com/item?id=32452290"
+      "2022-08-13, 07:19:07",
+      "https://news.ycombinator.com/item?id=32447636"
     ],
     [
-      "Modern Malaise",
-      "https://ava.substack.com/p/modern-malaise"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 17:45:50",
-      "https://news.ycombinator.com/item?id=32452080"
-    ],
-    [
-      "Erg: a statically typed language that is Python compatible",
-      "https://github.com/erg-lang/erg"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 15:38:12",
-      "https://news.ycombinator.com/item?id=32450860"
-    ],
-    [
-      "Electric vehicles are way more energy-efficient than internal combustion",
-      "https://www.motortrend.com/news/evs-more-efficient-than-internal-combustion-engines/"
+      "Ideas for DataScript 2",
+      "https://tonsky.me/blog/datascript-2/"
     ]
   ],
   [
