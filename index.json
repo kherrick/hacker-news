@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-08-14, 13:47:45",
-      "https://news.ycombinator.com/item?id=32459210"
-    ],
-    [
-      "Sick Codes has jailbroken a John Deere, and this is just the beginning",
-      "https://twitter.com/kwiens/status/1558688970799648769/photo/1"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 13:45:18",
       "https://news.ycombinator.com/item?id=32459189"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2022-08-14, 13:26:03",
-      "https://news.ycombinator.com/item?id=32459061"
-    ],
-    [
-      "Is sending Mississippi water to West feasible?",
-      "https://www.desertsun.com/story/news/environment/2022/08/14/sending-mississippi-water-west-feasible-experts-weigh/10282030002/"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 12:35:14",
       "https://news.ycombinator.com/item?id=32458744"
     ],
@@ -97,16 +77,6 @@
     [
       "ID This SciFi Short Story",
       "https://news.ycombinator.com/item?id=32458729"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 11:41:03",
-      "https://news.ycombinator.com/item?id=32458440"
-    ],
-    [
-      "Windows 11 x64 security hardening guide",
-      "https://github.com/beerisgood/Windows11_Hardening"
     ]
   ],
   [
@@ -155,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32457903"
     ],
     [
-      "Human Capital, Innovation, and Growth",
+      "Human capital, innovation, and growth",
       "https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346"
     ]
   ],
@@ -195,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32456998"
     ],
     [
-      "Faster Protocol Buffers",
+      "Faster Protocol Buffers (2019)",
       "https://blog.najaryan.net/posts/partial-protobuf-encoding/"
     ]
   ],
@@ -207,6 +177,16 @@
     [
       "Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD",
       "https://sdadams.org/blog/introducing-muxfs/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 03:48:37",
+      "https://news.ycombinator.com/item?id=32456151"
+    ],
+    [
+      "Dogelang – A Python with Haskell Syntax (2020)",
+      "http://pyos.github.io/dg/"
     ]
   ],
   [
@@ -225,8 +205,18 @@
       "https://news.ycombinator.com/item?id=32455968"
     ],
     [
-      "The Open Source Paradox",
+      "The open source paradox (2020)",
       "http://antirez.com/news/134"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 02:52:17",
+      "https://news.ycombinator.com/item?id=32455918"
+    ],
+    [
+      "Samurai: Ninja-compatible build tool written in C",
+      "https://github.com/michaelforney/samurai"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Outage Stories: The copy and paste outage",
       "https://wdkwwdk.com/posts/the-copy-paste-outage/"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 16:28:04",
+      "https://news.ycombinator.com/item?id=32451350"
+    ],
+    [
+      "Efficient simulation through linear algebra",
+      "https://mht.wtf/post/sparse-solves/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-08-11, 04:18:25",
-      "https://news.ycombinator.com/item?id=32421538"
+      "2022-08-10, 18:04:09",
+      "https://news.ycombinator.com/item?id=32416099"
     ],
     [
-      "Hollywood’s visual effects crisis",
-      "https://defector.com/inside-hollywoods-visual-effects-crisis/"
+      "Mozart Effect",
+      "https://en.wikipedia.org/wiki/Mozart_effect"
     ]
   ]
 ]
