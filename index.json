@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-08-14, 14:07:01",
-      "https://news.ycombinator.com/item?id=32459354"
-    ],
-    [
-      "Activities for Boring Meetings (2012)",
-      "https://wiki.c2.com/?ActivitiesForBoringMeetings"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 13:49:06",
       "https://news.ycombinator.com/item?id=32459222"
     ],
@@ -167,6 +157,16 @@
     [
       "Oasis: Small statically-linked Linux system",
       "https://github.com/oasislinux/oasis"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 11:03:38",
+      "https://news.ycombinator.com/item?id=32458271"
+    ],
+    [
+      "Lisp-Stat: An Environment for Statistical Computing",
+      "https://lisp-stat.dev/"
     ]
   ],
   [
