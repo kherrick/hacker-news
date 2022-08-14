@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-08-14, 12:47:00",
-      "https://news.ycombinator.com/item?id=32458814"
-    ],
-    [
-      "You have $100K. What business would you get into?",
-      "https://news.ycombinator.com/item?id=32458814"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 12:35:14",
       "https://news.ycombinator.com/item?id=32458744"
     ],
@@ -297,6 +287,16 @@
     [
       "Mozart Effect",
       "https://en.wikipedia.org/wiki/Mozart_effect"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 17:58:18",
+      "https://news.ycombinator.com/item?id=32416016"
+    ],
+    [
+      "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
+      "https://www.cppstories.com/2020/07/lambdas5ex.html/"
     ]
   ]
 ]
