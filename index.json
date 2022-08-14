@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-08-14, 14:18:58",
+      "https://news.ycombinator.com/item?id=32459443"
+    ],
+    [
+      "Elements of Programming",
+      "http://elementsofprogramming.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 13:49:06",
+      "https://news.ycombinator.com/item?id=32459222"
+    ],
+    [
+      "Mexican Loan Apps, Extortion, and the Google Play Store",
+      "https://techpolicy.press/mexican-loan-apps-extortion-and-the-google-play-store/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 13:02:06",
+      "https://news.ycombinator.com/item?id=32458897"
+    ],
+    [
+      "Ask HN: What is something you built but never marketed?",
+      "https://news.ycombinator.com/item?id=32458897"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 12:58:41",
+      "https://news.ycombinator.com/item?id=32458878"
+    ],
+    [
+      "Zoom macOS app quietly added back cs.disable-library-validation entitlement",
+      "https://news.ycombinator.com/item?id=32458878"
+    ]
+  ],
+  [
+    [
       "2022-08-14, 12:35:14",
       "https://news.ycombinator.com/item?id=32458744"
     ],
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2022-08-13, 22:47:53",
-      "https://news.ycombinator.com/item?id=32454543"
-    ],
-    [
-      "Slab City reaches its boiling point",
-      "https://bluedotliving.com/slab-city-reaches-its-boiling-point/"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 07:19:07",
       "https://news.ycombinator.com/item?id=32447636"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2022-08-11, 14:02:30",
-      "https://news.ycombinator.com/item?id=32425722"
-    ],
-    [
-      "Cryogenic CMOS Becomes Cool",
-      "https://semiengineering.com/cryogenic-cmos-becomes-cool/"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 12:38:33",
       "https://news.ycombinator.com/item?id=32424755"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-08-11, 00:38:45",
-      "https://news.ycombinator.com/item?id=32420228"
-    ],
-    [
-      "Tectonically-driven oxidant production in the hot biosphere",
-      "https://www.nature.com/articles/s41467-022-32129-y"
-    ]
-  ],
-  [
-    [
       "2022-08-10, 18:04:09",
       "https://news.ycombinator.com/item?id=32416099"
     ],
     [
       "Mozart Effect",
       "https://en.wikipedia.org/wiki/Mozart_effect"
-    ]
-  ],
-  [
-    [
-      "2022-08-10, 17:58:18",
-      "https://news.ycombinator.com/item?id=32416016"
-    ],
-    [
-      "Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included",
-      "https://www.cppstories.com/2020/07/lambdas5ex.html/"
     ]
   ]
 ]
