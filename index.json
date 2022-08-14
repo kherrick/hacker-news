@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-08-14, 14:26:38",
-      "https://news.ycombinator.com/item?id=32459509"
-    ],
-    [
-      "Are We Blub Programmers?",
-      "http://weblog.raganwald.com/2006/10/are-we-blub-programmers.html"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 14:18:58",
       "https://news.ycombinator.com/item?id=32459443"
     ],
@@ -167,6 +157,16 @@
     [
       "Oasis: Small statically-linked Linux system",
       "https://github.com/oasislinux/oasis"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 11:03:38",
+      "https://news.ycombinator.com/item?id=32458271"
+    ],
+    [
+      "Lisp-Stat: An Environment for Statistical Computing",
+      "https://lisp-stat.dev/"
     ]
   ],
   [
