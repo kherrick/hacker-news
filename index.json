@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-08-14, 16:04:41",
+      "https://news.ycombinator.com/item?id=32460342"
+    ],
+    [
+      "The Layoffs at Klarna",
+      "https://blog.pragmaticengineer.com/layoffs-at-klarna/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 16:00:25",
+      "https://news.ycombinator.com/item?id=32460304"
+    ],
+    [
+      "How do you decide which language/tech stack you invest learning?",
+      "https://news.ycombinator.com/item?id=32460304"
+    ]
+  ],
+  [
+    [
       "2022-08-14, 15:05:49",
       "https://news.ycombinator.com/item?id=32459857"
     ],
     [
       "Cloud.gov",
       "https://cloud.gov/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 14:32:21",
+      "https://news.ycombinator.com/item?id=32459557"
+    ],
+    [
+      "Metastable Failures in the Wild",
+      "https://www.micahlerner.com/2022/07/11/metastable-failures-in-the-wild.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 14:26:38",
+      "https://news.ycombinator.com/item?id=32459509"
+    ],
+    [
+      "Are We Blub Programmers?",
+      "http://weblog.raganwald.com/2006/10/are-we-blub-programmers.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-08-14, 09:44:40",
-      "https://news.ycombinator.com/item?id=32457903"
-    ],
-    [
-      "Human capital, innovation, and growth",
-      "https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12346"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 08:40:36",
       "https://news.ycombinator.com/item?id=32457590"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-08-14, 03:48:37",
-      "https://news.ycombinator.com/item?id=32456151"
-    ],
-    [
-      "Dogelang – A Python with Haskell Syntax (2020)",
-      "http://pyos.github.io/dg/"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 03:38:58",
-      "https://news.ycombinator.com/item?id=32456107"
-    ],
-    [
-      "The Remote Pop-In (2021)",
-      "https://twos.dev/thepopin.html"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 03:02:48",
       "https://news.ycombinator.com/item?id=32455968"
     ],
     [
       "The open source paradox (2020)",
       "http://antirez.com/news/134"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 02:52:17",
-      "https://news.ycombinator.com/item?id=32455918"
-    ],
-    [
-      "Samurai: Ninja-compatible build tool written in C",
-      "https://github.com/michaelforney/samurai"
     ]
   ],
   [
