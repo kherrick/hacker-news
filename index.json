@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-14, 23:11:24",
+      "https://news.ycombinator.com/item?id=32464034"
+    ],
+    [
+      "Breaking all macOS security layers with a single vulnerability",
+      "https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2022-08-14, 21:09:45",
       "https://news.ycombinator.com/item?id=32462954"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-08-14, 15:05:49",
-      "https://news.ycombinator.com/item?id=32459857"
-    ],
-    [
-      "Cloud.gov",
-      "https://cloud.gov/"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 14:18:58",
       "https://news.ycombinator.com/item?id=32459443"
     ],
@@ -207,16 +207,6 @@
     [
       "Paradigms of Artificial Intelligence Programming (1992)",
       "https://github.com/norvig/paip-lisp"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 08:40:31",
-      "https://news.ycombinator.com/item?id=32457587"
-    ],
-    [
-      "Will Bun JavaScript Take Node's Crown",
-      "https://semaphoreci.com/blog/javascript-bun"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Dymaxion car: Buckminster Fuller’s failed automobile",
       "https://slate.com/technology/2022/08/the-dymaxion-car-the-true-history-of-buckminster-fullers-failed-automobile.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-10, 10:16:35",
+      "https://news.ycombinator.com/item?id=32409800"
+    ],
+    [
+      "Clark Stanley: The First Snake Oil Salesman",
+      "https://www.amusingplanet.com/2022/08/clark-stanley-first-snake-oil-salesman.html"
     ]
   ]
 ]
