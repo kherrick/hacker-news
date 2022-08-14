@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32456905"
     ],
     [
-      "Muxfs – a mirroring, checksumming, self-healing filesystem layer",
+      "Muxfs – a mirroring, checksumming, and self-healing filesystem layer for OpenBSD",
       "https://sdadams.org/blog/introducing-muxfs/"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Forecasting of energy consumption by G20 countries",
       "https://www.nature.com/articles/s41598-022-17505-4"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 03:48:37",
+      "https://news.ycombinator.com/item?id=32456151"
+    ],
+    [
+      "dogelang – it's a Python! No, it's a Haskell!",
+      "http://pyos.github.io/dg/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2022-08-13, 19:37:17",
-      "https://news.ycombinator.com/item?id=32453050"
-    ],
-    [
-      "WinterCG: Web-Interoperable Runtimes Community Group",
-      "https://wintercg.org/"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 18:59:36",
       "https://news.ycombinator.com/item?id=32452717"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-08-11, 14:01:48",
-      "https://news.ycombinator.com/item?id=32425713"
-    ],
-    [
-      "International partnership aims to improve sorghum breeding",
-      "https://news.cornell.edu/stories/2022/08/international-partnership-aims-improve-sorghum-breeding"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 10:56:00",
       "https://news.ycombinator.com/item?id=32423913"
     ],
@@ -251,11 +241,21 @@
   ],
   [
     [
+      "2022-08-11, 10:05:53",
+      "https://news.ycombinator.com/item?id=32423604"
+    ],
+    [
+      "Programmable large-scale simulation of bosonic transport in optical",
+      "https://arxiv.org/abs/2208.05088"
+    ]
+  ],
+  [
+    [
       "2022-08-11, 04:18:25",
       "https://news.ycombinator.com/item?id=32421538"
     ],
     [
-      "Hollywood’s Visual Effects Crisis",
+      "Hollywood’s visual effects crisis",
       "https://defector.com/inside-hollywoods-visual-effects-crisis/"
     ]
   ],
