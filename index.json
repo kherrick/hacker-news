@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-08-14, 12:47:00",
-      "https://news.ycombinator.com/item?id=32458814"
-    ],
-    [
-      "You have $100K. What business would you get into?",
-      "https://news.ycombinator.com/item?id=32458814"
-    ]
-  ],
-  [
-    [
       "2022-08-14, 12:35:14",
       "https://news.ycombinator.com/item?id=32458744"
     ],
@@ -57,6 +47,16 @@
     [
       "Lisp-Stat: An Environment for Statistical Computing",
       "https://lisp-stat.dev/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 10:45:50",
+      "https://news.ycombinator.com/item?id=32458180"
+    ],
+    [
+      "Auto Traffic Control – A gRPC Programming Air Traffic Control Game",
+      "https://auto-traffic-control.com/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-08-11, 16:34:27",
-      "https://news.ycombinator.com/item?id=32428238"
-    ],
-    [
-      "A software engineer's circuitous journey to calculate eigenvalues",
-      "https://www.stylewarning.com/posts/eigenvalues/"
-    ]
-  ],
-  [
-    [
       "2022-08-11, 14:27:18",
       "https://news.ycombinator.com/item?id=32426163"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2022-08-11, 10:56:00",
-      "https://news.ycombinator.com/item?id=32423913"
+      "2022-08-11, 12:38:33",
+      "https://news.ycombinator.com/item?id=32424755"
     ],
     [
-      "Programming and Writing",
-      "http://antirez.com/news/135"
+      "The four pillars of data observability: metrics, metadata, lineage, and logs",
+      "https://www.metaplane.dev/blog/the-four-pillars-of-data-observability"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Hollywood’s visual effects crisis",
       "https://defector.com/inside-hollywoods-visual-effects-crisis/"
+    ]
+  ],
+  [
+    [
+      "2022-08-11, 00:38:45",
+      "https://news.ycombinator.com/item?id=32420228"
+    ],
+    [
+      "Tectonically-driven oxidant production in the hot biosphere",
+      "https://www.nature.com/articles/s41467-022-32129-y"
     ]
   ],
   [
