@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-08-15, 12:06:13",
+      "https://news.ycombinator.com/item?id=32468613"
+    ],
+    [
+      "Big Changes Ahead for Deno",
+      "https://deno.com/blog/changes"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:52:24",
+      "https://news.ycombinator.com/item?id=32468499"
+    ],
+    [
+      "More Energy on Less Land: The Drive to Shrink Solar’s Footprint",
+      "https://e360.yale.edu/features/small-solar-agriculture-technology"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:49:07",
+      "https://news.ycombinator.com/item?id=32468468"
+    ],
+    [
+      "$100M ARR in 18 months: Wiz becomes the fastest-growing software company ever",
+      "https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:46:07",
+      "https://news.ycombinator.com/item?id=32468435"
+    ],
+    [
+      "A Review of the Art of the Metaobject Protocol (2010) [pdf]",
+      "https://www.dreamsongs.com/Files/amop-review.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:45:07",
+      "https://news.ycombinator.com/item?id=32468430"
+    ],
+    [
+      "Tailscale changes its Android app to support the open source Headscale server",
+      "https://github.com/tailscale/tailscale-android/pull/45"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:41:15",
+      "https://news.ycombinator.com/item?id=32468400"
+    ],
+    [
+      "Email Is Async",
+      "https://www.patkua.com/blog/email-is-async/"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 11:35:51",
       "https://news.ycombinator.com/item?id=32468360"
     ],
@@ -21,6 +81,16 @@
   ],
   [
     [
+      "2022-08-15, 11:00:18",
+      "https://news.ycombinator.com/item?id=32468126"
+    ],
+    [
+      "Desktop Apps with Deno",
+      "https://github.com/astrodon/astrodon"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 10:32:05",
       "https://news.ycombinator.com/item?id=32467957"
     ],
@@ -31,32 +101,22 @@
   ],
   [
     [
+      "2022-08-15, 10:06:44",
+      "https://news.ycombinator.com/item?id=32467813"
+    ],
+    [
+      "My network home setup v3.0",
+      "https://giuliomagnifico.blog/networking/2022/08/14/home-network_v3.html"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 09:38:17",
       "https://news.ycombinator.com/item?id=32467610"
     ],
     [
       "There are many ways to fail to read a file in a C program",
       "https://colinpaice.blog/2022/08/06/there-are-many-ways-to-fail-to-read-a-file-in-a-c-program/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 09:27:54",
-      "https://news.ycombinator.com/item?id=32467553"
-    ],
-    [
-      "Using your SIM card for MFA when logging in to an SSH server",
-      "https://developer.tru.id/tutorials/ssh-mfa-with-phonecheck"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 08:47:05",
-      "https://news.ycombinator.com/item?id=32467288"
-    ],
-    [
-      "Ask HN: Depressed, need to leave web development, what can I do?",
-      "https://news.ycombinator.com/item?id=32467288"
     ]
   ],
   [
@@ -111,32 +171,12 @@
   ],
   [
     [
-      "2022-08-15, 04:54:23",
-      "https://news.ycombinator.com/item?id=32466032"
-    ],
-    [
-      "The World of Egyptian Demons",
-      "https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 04:48:37",
       "https://news.ycombinator.com/item?id=32466003"
     ],
     [
       "Stitching – A Python package for fast and robust Image Stitching (Panoramas)",
       "https://github.com/lukasalexanderweber/stitching"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 04:04:37",
-      "https://news.ycombinator.com/item?id=32465773"
-    ],
-    [
-      "What happens if you point two CNAMEs at each other? Not much, really",
-      "https://alexanderell.is/posts/cnames/"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2022-08-15, 02:08:45",
-      "https://news.ycombinator.com/item?id=32465108"
-    ],
-    [
-      "Website to Sign Up for the Lyme Disease Vaccine Phase 3 Trial",
-      "https://fightlyme.careaccess.com/"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 01:39:43",
       "https://news.ycombinator.com/item?id=32464955"
     ],
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2022-08-14, 20:58:51",
-      "https://news.ycombinator.com/item?id=32462878"
+      "2022-08-13, 09:11:42",
+      "https://news.ycombinator.com/item?id=32448135"
     ],
     [
-      "How to Delete Gmail Attachments Without Deleting the Emails",
-      "https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 20:38:14",
-      "https://news.ycombinator.com/item?id=32462721"
-    ],
-    [
-      "Habitual GPS use negatively impacts spatial memory during self-guided navigation",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156656/"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 14:19:21",
-      "https://news.ycombinator.com/item?id=32450132"
-    ],
-    [
-      "Mare Nostrum? Exploring the Adriatic as a single historical space",
-      "https://www.historytoday.com/archive/review/mare-nostrum"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 03:37:41",
-      "https://news.ycombinator.com/item?id=32446673"
-    ],
-    [
-      "Stupid SMP Tricks: A Review of Locking Engineering Principles and Hierarchy",
-      "https://paulmck.livejournal.com/67832.html"
+      "A New Kind of Chess",
+      "https://erinbern.com/dice-chess/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32436841"
     ],
     [
-      "To Reinvent the Processor (2019)",
+      "To reinvent the processor (2019)",
       "https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034"
     ]
   ],
