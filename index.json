@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-08-15, 17:13:34",
+      "https://news.ycombinator.com/item?id=32472423"
+    ],
+    [
+      "An “Extreme Heat Belt” will soon emerge in the U.S.",
+      "https://www.axios.com/2022/08/15/extreme-heat-belt-global-warming"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 17:12:04",
+      "https://news.ycombinator.com/item?id=32472412"
+    ],
+    [
+      "Twilio Incident: What Signal Users Need to Know",
+      "https://support.signal.org/hc/en-us/articles/4850133017242"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 16:19:43",
+      "https://news.ycombinator.com/item?id=32471624"
+    ],
+    [
+      "Win32 Is the Only Stable ABI on Linux",
+      "https://blog.hiler.eu/win32-the-only-stable-abi/"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 16:11:18",
+      "https://news.ycombinator.com/item?id=32471508"
+    ],
+    [
+      "Scaling Kubernetes to Thousands of CRDs",
+      "https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 15:49:51",
       "https://news.ycombinator.com/item?id=32471208"
     ],
     [
-      "How to Create a Blog Post Title Optimizer with GPT-3 and Hacker News Data",
+      "How to create a blog post title optimizer with GPT-3 and Hacker News data",
       "https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/"
     ]
   ],
@@ -77,16 +117,6 @@
     [
       "Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150",
       "https://news.ycombinator.com/item?id=32470017"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 14:18:08",
-      "https://news.ycombinator.com/item?id=32469976"
-    ],
-    [
-      "Ask HN: Bluetooth kinda sucks. Why don't we have something better?",
-      "https://news.ycombinator.com/item?id=32469976"
     ]
   ],
   [
@@ -185,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32468430"
     ],
     [
-      "Tailscale changes its Android app to support the open source Headscale server",
+      "Add ability to choose a custom coordination server",
       "https://github.com/tailscale/tailscale-android/pull/45"
     ]
   ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2022-08-15, 10:06:44",
-      "https://news.ycombinator.com/item?id=32467813"
-    ],
-    [
-      "My network home setup v3.0",
-      "https://giuliomagnifico.blog/networking/2022/08/14/home-network_v3.html"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 08:37:35",
       "https://news.ycombinator.com/item?id=32467204"
     ],
@@ -235,18 +255,8 @@
       "https://news.ycombinator.com/item?id=32466823"
     ],
     [
-      "Second-Order Thinking: What Smart People Use to Outperform",
+      "Second-Order Thinking",
       "https://fs.blog/second-order-thinking/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 01:39:43",
-      "https://news.ycombinator.com/item?id=32464955"
-    ],
-    [
-      "Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch",
-      "https://github.com/kentjhall/horizon-linux"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2022-08-12, 10:25:09",
-      "https://news.ycombinator.com/item?id=32436527"
+      "2022-08-13, 06:13:45",
+      "https://news.ycombinator.com/item?id=32447374"
     ],
     [
-      "Best Practices for Form Design (2008) [pdf]",
-      "http://static.lukew.com/webforms_lukew.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 08:56:53",
-      "https://news.ycombinator.com/item?id=32436043"
-    ],
-    [
-      "The value of owning more books than you can read (2018)",
-      "https://bigthink.com/neuropsych/do-i-own-too-many-books/"
+      "The Intel 80376 – a Legacy-Free i386 (with a Twist) (2010)",
+      "https://www.pagetable.com/?p=460"
     ]
   ]
 ]
