@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-08-15, 13:17:08",
+      "https://news.ycombinator.com/item?id=32469271"
+    ],
+    [
+      "The Mensa Fallacy",
+      "https://kirkegaard.substack.com/p/the-mensa-fallacy"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 12:51:14",
+      "https://news.ycombinator.com/item?id=32469019"
+    ],
+    [
+      "Attacking Titan M with Only One Byte",
+      "https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 12:23:15",
+      "https://news.ycombinator.com/item?id=32468758"
+    ],
+    [
+      "Microsoft finally admits Xbox One sales were less than half of the PS4",
+      "https://www.theverge.com/2022/8/15/23306068/microsoft-xbox-one-sales-lifetime-versus-ps4-sales"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 12:23:13",
+      "https://news.ycombinator.com/item?id=32468757"
+    ],
+    [
+      "Investing in Flow",
+      "https://a16z.com/2022/08/15/investing-in-flow/"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 12:18:21",
+      "https://news.ycombinator.com/item?id=32468701"
+    ],
+    [
+      "Commercial Surveillance and Data Security Rulemaking",
+      "https://www.ftc.gov/legal-library/browse/federal-register-notices/commercial-surveillance-data-security-rulemaking"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 12:06:13",
       "https://news.ycombinator.com/item?id=32468613"
     ],
@@ -17,16 +67,6 @@
     [
       "More Energy on Less Land: The Drive to Shrink Solar’s Footprint",
       "https://e360.yale.edu/features/small-solar-agriculture-technology"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 11:49:07",
-      "https://news.ycombinator.com/item?id=32468468"
-    ],
-    [
-      "$100M ARR in 18 months: Wiz becomes the fastest-growing software company ever",
-      "https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2022-08-15, 11:35:51",
-      "https://news.ycombinator.com/item?id=32468360"
-    ],
-    [
-      "Feedback on Snouters",
-      "https://snouters.com/"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 11:23:42",
       "https://news.ycombinator.com/item?id=32468281"
     ],
@@ -87,6 +117,16 @@
     [
       "Desktop Apps with Deno",
       "https://github.com/astrodon/astrodon"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 10:32:17",
+      "https://news.ycombinator.com/item?id=32467962"
+    ],
+    [
+      "Why does Neon use Paxos instead of Raft, and what's the difference?",
+      "https://neon.tech/blog/paxos/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-08-15, 06:38:50",
-      "https://news.ycombinator.com/item?id=32466535"
-    ],
-    [
-      "Show HN: Teapodo (Lightweight Audio Editor) Now Supports VST/AU Plugins",
-      "https://teapodo.com/releases"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 05:58:57",
       "https://news.ycombinator.com/item?id=32466326"
     ],
@@ -185,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32465615"
     ],
     [
-      "300-yr Pacific Northwest megathrust earthquake",
+      "An earthquake could destroy a sizable portion of the coastal Northwest (2015)",
       "https://www.newyorker.com/magazine/2015/07/20/the-really-big-one"
     ]
   ],
@@ -197,26 +227,6 @@
     [
       "AWS GuardDuty – the Good, the Bad, and the Ugly",
       "https://badshah.io/guardduty-good-bad-ugly/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 03:08:25",
-      "https://news.ycombinator.com/item?id=32465435"
-    ],
-    [
-      "Download the full collection of Paul Graham essays in ePub for easy reading",
-      "https://github.com/ofou/graham-essays"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 02:57:34",
-      "https://news.ycombinator.com/item?id=32465372"
-    ],
-    [
-      "Ask HN: How to find a small town to relocate for remote work?",
-      "https://news.ycombinator.com/item?id=32465372"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-08-14, 21:09:45",
-      "https://news.ycombinator.com/item?id=32462954"
-    ],
-    [
-      "Declining quality of consumer-grade products – 2009 fridge compressor autopsy",
-      "https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2"
-    ]
-  ],
-  [
-    [
       "2022-08-13, 09:11:42",
       "https://news.ycombinator.com/item?id=32448135"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-08-12, 09:24:20",
-      "https://news.ycombinator.com/item?id=32436203"
+      "2022-08-12, 10:25:09",
+      "https://news.ycombinator.com/item?id=32436527"
     ],
     [
-      "Copyright infringement in artificial intelligence art",
-      "https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art"
+      "Best Practices for Form Design [pdf]",
+      "http://static.lukew.com/webforms_lukew.pdf"
     ]
   ],
   [
