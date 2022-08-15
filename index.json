@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-15, 15:07:34",
+      "https://news.ycombinator.com/item?id=32470645"
+    ],
+    [
+      "Tell HN: After 10 years of experiments, custom username emails receive no spam",
+      "https://news.ycombinator.com/item?id=32470645"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 14:56:35",
+      "https://news.ycombinator.com/item?id=32470479"
+    ],
+    [
+      "Best Papers – Usenix Security 2022",
+      "https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=2022&title_1=sec"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 14:49:57",
+      "https://news.ycombinator.com/item?id=32470394"
+    ],
+    [
+      "Why is solar more expensive in the U.S. than in other countries?",
+      "https://news.energysage.com/why-is-solar-more-expensive-in-the-us/"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 14:40:38",
       "https://news.ycombinator.com/item?id=32470275"
     ],
@@ -17,6 +47,26 @@
     [
       "Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150",
       "https://news.ycombinator.com/item?id=32470017"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 14:18:08",
+      "https://news.ycombinator.com/item?id=32469976"
+    ],
+    [
+      "Ask HN: Bluetooth kinda sucks. Why don't we have something better?",
+      "https://news.ycombinator.com/item?id=32469976"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 13:52:00",
+      "https://news.ycombinator.com/item?id=32469678"
+    ],
+    [
+      "New Evidence Suggests Giant Asteroid Impacts Created Earth’s Continents",
+      "https://singularityhub.com/2022/08/14/new-evidence-suggests-giant-asteroid-impacts-created-earths-continents/"
     ]
   ],
   [
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2022-08-15, 13:17:08",
-      "https://news.ycombinator.com/item?id=32469271"
+      "2022-08-15, 13:25:09",
+      "https://news.ycombinator.com/item?id=32469349"
     ],
     [
-      "The Mensa Fallacy",
-      "https://kirkegaard.substack.com/p/the-mensa-fallacy"
+      "The Last Oyster Tongers of Apalachicola",
+      "https://bittersoutherner.com/feature/2022/the-last-oyster-tongers-of-apalachicola"
     ]
   ],
   [
@@ -111,52 +161,12 @@
   ],
   [
     [
-      "2022-08-15, 11:23:42",
-      "https://news.ycombinator.com/item?id=32468281"
-    ],
-    [
-      "The Epsilon Method",
-      "https://jakobgreenfeld.com/epsilon-method"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 11:00:18",
-      "https://news.ycombinator.com/item?id=32468126"
-    ],
-    [
-      "Desktop Apps with Deno",
-      "https://github.com/astrodon/astrodon"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 10:32:17",
       "https://news.ycombinator.com/item?id=32467962"
     ],
     [
       "Why does Neon use Paxos instead of Raft, and what's the difference?",
       "https://neon.tech/blog/paxos/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 10:32:05",
-      "https://news.ycombinator.com/item?id=32467957"
-    ],
-    [
-      "Ask HN: Can I see your scripts?",
-      "https://news.ycombinator.com/item?id=32467957"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 10:23:07",
-      "https://news.ycombinator.com/item?id=32467892"
-    ],
-    [
-      "Google Titan M: Hey, Google! It's time to redeem your promise.",
-      "https://issuetracker.google.com/issues/242438606"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-08-15, 03:25:59",
-      "https://news.ycombinator.com/item?id=32465516"
-    ],
-    [
-      "AWS GuardDuty – the Good, the Bad, and the Ugly",
-      "https://badshah.io/guardduty-good-bad-ugly/"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 01:39:43",
       "https://news.ycombinator.com/item?id=32464955"
     ],
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2022-08-14, 23:11:24",
-      "https://news.ycombinator.com/item?id=32464034"
+      "2022-08-14, 06:41:39",
+      "https://news.ycombinator.com/item?id=32456981"
     ],
     [
-      "Breaking all macOS security layers with a single vulnerability",
-      "https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/"
+      "Stack Computers: the new wave (1989)",
+      "https://users.ece.cmu.edu/~koopman/stack_computers/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-13, 09:11:42",
+      "https://news.ycombinator.com/item?id=32448135"
+    ],
+    [
+      "A New Kind of Chess",
+      "https://erinbern.com/dice-chess/"
     ]
   ],
   [
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2022-08-12, 11:20:06",
-      "https://news.ycombinator.com/item?id=32436841"
-    ],
-    [
-      "To reinvent the processor (2019)",
-      "https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034"
-    ]
-  ],
-  [
-    [
       "2022-08-12, 10:25:09",
       "https://news.ycombinator.com/item?id=32436527"
     ],
     [
-      "Best Practices for Form Design [pdf]",
+      "Best Practices for Form Design (2008) [pdf]",
       "http://static.lukew.com/webforms_lukew.pdf"
     ]
   ],
