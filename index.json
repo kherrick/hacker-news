@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-08-15, 21:55:37",
-      "https://news.ycombinator.com/item?id=32475958"
+      "2022-08-15, 22:24:20",
+      "https://news.ycombinator.com/item?id=32476262"
     ],
     [
-      "The Big Bang didn't happen: What do the James Webb images show?",
-      "https://iai.tv/articles/the-big-bang-didnt-happen-auid-2215"
+      "A robots.txt Problem",
+      "http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2022-08-15, 11:45:07",
+      "https://news.ycombinator.com/item?id=32468430"
+    ],
+    [
+      "Add ability to choose a custom coordination server",
+      "https://github.com/tailscale/tailscale-android/pull/45"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 06:02:12",
       "https://news.ycombinator.com/item?id=32466346"
     ],
@@ -287,16 +297,6 @@
     [
       "Copyright infringement in AI art",
       "https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art"
-    ]
-  ],
-  [
-    [
-      "2022-08-12, 09:05:28",
-      "https://news.ycombinator.com/item?id=32436101"
-    ],
-    [
-      "NAT still exists for IPv6",
-      "https://blogs.infoblox.com/ipv6-coe/you-thought-there-was-no-nat-for-ipv6-but-nat-still-exists/"
     ]
   ]
 ]
