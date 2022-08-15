@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-15, 18:02:50",
+      "https://news.ycombinator.com/item?id=32473112"
+    ],
+    [
+      "Learnings of a CEO: Wade Foster, Zapier",
+      "https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 17:41:58",
       "https://news.ycombinator.com/item?id=32472815"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2022-08-15, 16:18:21",
+      "https://news.ycombinator.com/item?id=32471605"
+    ],
+    [
+      "How to design a referral program",
+      "https://andrewchen.com/how-to-design-a-referral-program/"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 16:11:18",
       "https://news.ycombinator.com/item?id=32471508"
     ],
     [
       "Scaling Kubernetes to Thousands of CRDs",
       "https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 16:02:30",
+      "https://news.ycombinator.com/item?id=32471400"
+    ],
+    [
+      "Process behaviour anomaly detection using eBPF and unsupervised learning",
+      "https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Open-source rival for OpenAI’s DALL-E runs on your graphics card",
       "https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 15:24:47",
-      "https://news.ycombinator.com/item?id=32470881"
-    ],
-    [
-      "Earth had its 6th-hottest July and year to date on record",
-      "https://www.noaa.gov/news/earth-had-its-6th-hottest-july-and-year-to-date-on-record"
     ]
   ],
   [
@@ -95,18 +115,8 @@
       "https://news.ycombinator.com/item?id=32470275"
     ],
     [
-      "Foreign Affairs at 100: A Look Back at the First Issue",
+      "Foreign Affairs at 100: A look back at the first issue",
       "https://bcmullins.github.io/foreign-affairs-100/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 14:21:15",
-      "https://news.ycombinator.com/item?id=32470017"
-    ],
-    [
-      "Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150",
-      "https://news.ycombinator.com/item?id=32470017"
     ]
   ],
   [
@@ -115,18 +125,8 @@
       "https://news.ycombinator.com/item?id=32469678"
     ],
     [
-      "New Evidence Suggests Giant Asteroid Impacts Created Earth’s Continents",
+      "New evidence suggests giant asteroid impacts created Earth’s continents",
       "https://singularityhub.com/2022/08/14/new-evidence-suggests-giant-asteroid-impacts-created-earths-continents/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 13:41:21",
-      "https://news.ycombinator.com/item?id=32469538"
-    ],
-    [
-      "Show HN: Japanese Complete Book 1 Released",
-      "https://news.ycombinator.com/item?id=32469538"
     ]
   ],
   [
@@ -171,21 +171,11 @@
   ],
   [
     [
-      "2022-08-15, 12:06:13",
-      "https://news.ycombinator.com/item?id=32468613"
-    ],
-    [
-      "Big changes ahead for Deno",
-      "https://deno.com/blog/changes"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 11:52:24",
       "https://news.ycombinator.com/item?id=32468499"
     ],
     [
-      "More Energy on Less Land: The Drive to Shrink Solar’s Footprint",
+      "More energy on less land: The drive to shrink solar’s footprint",
       "https://e360.yale.edu/features/small-solar-agriculture-technology"
     ]
   ],
@@ -225,18 +215,8 @@
       "https://news.ycombinator.com/item?id=32467962"
     ],
     [
-      "Why does Neon use Paxos instead of Raft, and what's the difference?",
+      "Why use Paxos instead of Raft?",
       "https://neon.tech/blog/paxos/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 10:06:44",
-      "https://news.ycombinator.com/item?id=32467813"
-    ],
-    [
-      "My network home setup v3.0",
-      "https://giuliomagnifico.blog/networking/2022/08/14/home-network_v3.html"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "Second-Order Thinking",
       "https://fs.blog/second-order-thinking/"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 06:02:12",
+      "https://news.ycombinator.com/item?id=32466346"
+    ],
+    [
+      "Preparedness Paradox",
+      "https://en.wikipedia.org/wiki/Preparedness_paradox"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-08-13, 09:11:42",
+      "https://news.ycombinator.com/item?id=32448135"
+    ],
+    [
+      "4-Die Chess",
+      "https://erinbern.com/dice-chess/"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 07:46:00",
       "https://news.ycombinator.com/item?id=32447764"
     ],
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=32447374"
     ],
     [
-      "The Intel 80376 – a Legacy-Free i386 (with a Twist) (2010)",
+      "The Intel 80376 – A legacy-free i386 with a twist (2010)",
       "https://www.pagetable.com/?p=460"
     ]
   ],
   [
     [
-      "2022-08-12, 08:56:53",
-      "https://news.ycombinator.com/item?id=32436043"
+      "2022-08-12, 10:25:09",
+      "https://news.ycombinator.com/item?id=32436527"
     ],
     [
-      "The value of owning more books than you can read (2018)",
-      "https://bigthink.com/neuropsych/do-i-own-too-many-books/"
+      "Best Practices for Form Design (2008) [pdf]",
+      "http://static.lukew.com/webforms_lukew.pdf"
     ]
   ]
 ]
