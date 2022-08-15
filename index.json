@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-15, 22:40:37",
+      "https://news.ycombinator.com/item?id=32476445"
+    ],
+    [
+      "Impact to DigitalOcean customers resulting from Mailchimp security incident",
+      "https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 22:32:15",
+      "https://news.ycombinator.com/item?id=32476348"
+    ],
+    [
+      "Gen Z have 86% less purchasing power compared to baby boomers in their twenties",
+      "https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 22:24:20",
       "https://news.ycombinator.com/item?id=32476262"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-08-15, 15:49:51",
-      "https://news.ycombinator.com/item?id=32471208"
-    ],
-    [
-      "How to create a blog post title optimizer with GPT-3 and Hacker News data",
-      "https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 15:49:22",
       "https://news.ycombinator.com/item?id=32471199"
     ],
@@ -207,16 +217,6 @@
     [
       "Attacking Titan M with Only One Byte",
       "https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 11:45:07",
-      "https://news.ycombinator.com/item?id=32468430"
-    ],
-    [
-      "Add ability to choose a custom coordination server",
-      "https://github.com/tailscale/tailscale-android/pull/45"
     ]
   ],
   [
