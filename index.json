@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-08-15, 17:58:58",
-      "https://news.ycombinator.com/item?id=32473051"
-    ],
-    [
-      "How much gold has been found in the world?",
-      "https://www.usgs.gov/faqs/how-much-gold-has-been-found-world"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 17:41:58",
       "https://news.ycombinator.com/item?id=32472815"
     ],
@@ -57,16 +47,6 @@
     [
       "Twilio incident: What Signal users need to know",
       "https://support.signal.org/hc/en-us/articles/4850133017242"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 17:11:08",
-      "https://news.ycombinator.com/item?id=32472399"
-    ],
-    [
-      "Android 13",
-      "https://blog.google/products/android/android-13"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2022-08-15, 11:52:24",
+      "https://news.ycombinator.com/item?id=32468499"
+    ],
+    [
+      "More energy on less land: The drive to shrink solar’s footprint",
+      "https://e360.yale.edu/features/small-solar-agriculture-technology"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 11:46:07",
       "https://news.ycombinator.com/item?id=32468435"
     ],
@@ -197,6 +187,16 @@
     [
       "Add ability to choose a custom coordination server",
       "https://github.com/tailscale/tailscale-android/pull/45"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:41:15",
+      "https://news.ycombinator.com/item?id=32468400"
+    ],
+    [
+      "Email Is Async",
+      "https://www.patkua.com/blog/email-is-async/"
     ]
   ],
   [
