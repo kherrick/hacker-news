@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-16, 21:19:58",
+      "https://news.ycombinator.com/item?id=32489099"
+    ],
+    [
+      "The Future of Interactive Theorem Proving?",
+      "https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 20:51:42",
       "https://news.ycombinator.com/item?id=32488739"
     ],
     [
       "Wokwi – Simulate IoT Projects in the Browser",
       "https://wokwi.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 20:45:39",
+      "https://news.ycombinator.com/item?id=32488674"
+    ],
+    [
+      "A one-bit processor explained: reverse-engineering the vintage MC14500B",
+      "http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-08-15, 17:55:07",
-      "https://news.ycombinator.com/item?id=32473008"
-    ],
-    [
-      "The Elocution Cage",
-      "https://www.historians.org/publications-and-directories/perspectives-on-history/may-2022/the-elocution-cage"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 12:59:59",
       "https://news.ycombinator.com/item?id=32469117"
     ],
@@ -287,16 +297,6 @@
     [
       "BRL-CAD",
       "https://en.wikipedia.org/wiki/BRL-CAD"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 11:18:46",
-      "https://news.ycombinator.com/item?id=32448772"
-    ],
-    [
-      "Functional Reactive Programming",
-      "https://wiki.haskell.org/Functional_Reactive_Programming"
     ]
   ]
 ]
