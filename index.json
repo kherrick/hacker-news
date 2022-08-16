@@ -5,8 +5,28 @@
       "https://news.ycombinator.com/item?id=32484008"
     ],
     [
-      "Using Docker – Compose in Development and Production",
+      "Docker Compose best practices for dev and prod",
       "https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 15:20:12",
+      "https://news.ycombinator.com/item?id=32483979"
+    ],
+    [
+      "Using the Same Arch Linux Installation for a Decade",
+      "https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 15:19:49",
+      "https://news.ycombinator.com/item?id=32483967"
+    ],
+    [
+      "Ask HN: Is RSS dying? Or coming back?",
+      "https://news.ycombinator.com/item?id=32483967"
     ]
   ],
   [
@@ -17,26 +37,6 @@
     [
       "Show HN: I made a local development, debugging and hotreload tool for AWS Lambda",
       "https://github.com/thundra-io/merloc-java"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 15:03:44",
-      "https://news.ycombinator.com/item?id=32483726"
-    ],
-    [
-      "Poly-time algorithm for deciding Hilbert Nullstellensatz. A proof of P=NP",
-      "https://arxiv.org/abs/2208.07327"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 15:00:14",
-      "https://news.ycombinator.com/item?id=32483670"
-    ],
-    [
-      "Dodge will discontinue its Challenger and Charger muscle cars next year",
-      "https://www.cnbc.com/2022/08/15/dodge-challenger-charger-to-be-discontinued-in-2023.html"
     ]
   ],
   [
@@ -137,6 +137,26 @@
     [
       "GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers",
       "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 11:40:43",
+      "https://news.ycombinator.com/item?id=32481555"
+    ],
+    [
+      "Ask HN: Are we building a tech dystopia?",
+      "https://news.ycombinator.com/item?id=32481555"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 11:04:26",
+      "https://news.ycombinator.com/item?id=32481340"
+    ],
+    [
+      "What does it take to test a sorting routine? (2010)",
+      "https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/"
     ]
   ],
   [
@@ -245,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32457001"
     ],
     [
-      "The Trouble with the Segway",
+      "The Trouble with the Segway (2009)",
       "http://www.paulgraham.com/segway.html"
     ]
   ],
@@ -277,26 +297,6 @@
     [
       "Functional Reactive Programming",
       "https://wiki.haskell.org/Functional_Reactive_Programming"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 09:47:51",
-      "https://news.ycombinator.com/item?id=32448309"
-    ],
-    [
-      "DragonFlydb: Cache Design",
-      "https://dragonflydb.io/blog/2022/06/23/cache_design/"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 08:40:14",
-      "https://news.ycombinator.com/item?id=32447995"
-    ],
-    [
-      "Krunvm – Create MicroVMs from OCI Images",
-      "https://github.com/containers/krunvm"
     ]
   ]
 ]
