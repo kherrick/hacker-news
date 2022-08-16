@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-08-16, 20:45:39",
-      "https://news.ycombinator.com/item?id=32488674"
-    ],
-    [
-      "A one-bit processor explained: reverse-engineering the vintage MC14500B",
-      "http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 20:20:03",
       "https://news.ycombinator.com/item?id=32488308"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2022-08-16, 16:35:22",
+      "https://news.ycombinator.com/item?id=32485178"
+    ],
+    [
+      "Why did Airbnb dump React Native? (2021)",
+      "https://www.theimmigrantprogrammers.com/p/why-airbnb-dumped-react-native"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 16:10:29",
       "https://news.ycombinator.com/item?id=32484807"
     ],
@@ -195,18 +195,8 @@
       "https://news.ycombinator.com/item?id=32483979"
     ],
     [
-      "Using the Same Arch Linux Installation for a Decade",
+      "Using the same Arch Linux installation for a decade",
       "https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 15:13:19",
-      "https://news.ycombinator.com/item?id=32483870"
-    ],
-    [
-      "Show HN: I made a local development, debugging and hotreload tool for AWS Lambda",
-      "https://github.com/thundra-io/merloc-java"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Revirt – Virtualization on Redox OS",
       "https://www.redox-os.org/news/revirt-1/"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 06:44:47",
+      "https://news.ycombinator.com/item?id=32457001"
+    ],
+    [
+      "The Trouble with the Segway (2009)",
+      "http://www.paulgraham.com/segway.html"
     ]
   ],
   [
