@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-08-16, 03:32:57",
+      "https://news.ycombinator.com/item?id=32478907"
+    ],
+    [
+      "SQLite is not a toy database",
+      "https://antonz.org/sqlite-is-not-a-toy-database/"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 03:12:27",
+      "https://news.ycombinator.com/item?id=32478797"
+    ],
+    [
+      "World Building and Alternate Reality Common Lisp",
+      "https://kaveh808.medium.com/41-world-building-and-alternate-reality-common-lisp-ca9fbc619a8c"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 02:38:04",
+      "https://news.ycombinator.com/item?id=32478642"
+    ],
+    [
+      "Ask HN: Where to meet people who are interested in building a company together?",
+      "https://news.ycombinator.com/item?id=32478642"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 02:16:47",
+      "https://news.ycombinator.com/item?id=32478492"
+    ],
+    [
+      "Colour evolution of Betelgeuse over two millennia, derived from records",
+      "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 23:44:41",
       "https://news.ycombinator.com/item?id=32477212"
     ],
@@ -47,16 +87,6 @@
     [
       "Timelock Encryption made possible and easy to use",
       "https://github.com/drand/tlock"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 19:26:39",
-      "https://news.ycombinator.com/item?id=32474133"
-    ],
-    [
-      "discordo: Lightweight, secure, and feature-rich Discord terminal client",
-      "https://github.com/ayntgl/discordo"
     ]
   ],
   [
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32471624"
     ],
     [
-      "Win32 Is the Only Stable ABI on Linux",
+      "Win32 Is the Only Stable ABI on Linux?",
       "https://blog.hiler.eu/win32-the-only-stable-abi/"
     ]
   ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-08-15, 15:49:51",
-      "https://news.ycombinator.com/item?id=32471208"
-    ],
-    [
-      "How to create a blog post title optimizer with GPT-3 and Hacker News data",
-      "https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 15:49:22",
       "https://news.ycombinator.com/item?id=32471199"
     ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2022-08-15, 12:18:21",
-      "https://news.ycombinator.com/item?id=32468701"
-    ],
-    [
-      "Commercial Surveillance and Data Security Rulemaking",
-      "https://www.ftc.gov/legal-library/browse/federal-register-notices/commercial-surveillance-data-security-rulemaking"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 11:45:07",
-      "https://news.ycombinator.com/item?id=32468430"
-    ],
-    [
-      "Add ability to choose a custom coordination server",
-      "https://github.com/tailscale/tailscale-android/pull/45"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 06:02:12",
       "https://news.ycombinator.com/item?id=32466346"
     ],
     [
       "Preparedness Paradox",
       "https://en.wikipedia.org/wiki/Preparedness_paradox"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 06:41:39",
-      "https://news.ycombinator.com/item?id=32456981"
-    ],
-    [
-      "Stack Computers: the new wave (1989)",
-      "https://users.ece.cmu.edu/~koopman/stack_computers/index.html"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=32450427"
     ],
     [
-      "A Farmer’s Hunch Led to a Lost Monastery and a Neolithic Surprise",
+      "A farmer’s hunch led to a lost monastery and a Neolithic surprise",
       "https://www.atlasobscura.com/articles/beaubec-monastery-ireland"
     ]
   ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=32447292"
     ],
     [
-      "A catalogue of optimizing transformations [pdf]",
+      "A catalogue of optimizing transformations (1971) [pdf]",
       "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-12, 09:28:31",
+      "https://news.ycombinator.com/item?id=32436234"
+    ],
+    [
+      "Tom Mitchell's Machine Learning book now is free",
+      "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32435802"
     ],
     [
-      "Correcting a Widespread Error in Unification Algorithms (1991) [pdf]",
+      "Correcting a widespread error in unification algorithms (1991) [pdf]",
       "https://norvig.com/unify-bug.pdf"
     ]
   ]
