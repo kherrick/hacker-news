@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-16, 19:45:50",
+      "https://news.ycombinator.com/item?id=32487856"
+    ],
+    [
+      "Vector search just got up to 10x faster and vertically scalable",
+      "https://www.pinecone.io/learn/faster-easier-scalable/"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 19:37:21",
       "https://news.ycombinator.com/item?id=32487738"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-08-16, 18:34:58",
-      "https://news.ycombinator.com/item?id=32486863"
-    ],
-    [
-      "We need young programmers; we need old programmers",
-      "https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 18:22:48",
       "https://news.ycombinator.com/item?id=32486703"
     ],
@@ -61,22 +61,22 @@
   ],
   [
     [
-      "2022-08-16, 18:17:53",
-      "https://news.ycombinator.com/item?id=32486642"
-    ],
-    [
-      "Is El Salvador Up?",
-      "https://www.iselsalvadorup.com/"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 18:06:20",
       "https://news.ycombinator.com/item?id=32486504"
     ],
     [
       "Make Fermented Hot Sauce",
       "https://www.seriouseats.com/fermented-hot-sauce-how-to"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 17:38:54",
+      "https://news.ycombinator.com/item?id=32486133"
+    ],
+    [
+      "The AI Art Apocalypse",
+      "https://alexanderwales.com/the-ai-art-apocalypse/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32484206"
     ],
     [
-      "Show HN: Redbean web server debugging with ZeroBrane Studio",
+      "Redbean web server debugging with ZeroBrane Studio",
       "https://notebook.kulchenko.com/redbean/redbean-debugging-with-zerobrane-studio"
     ]
   ],
