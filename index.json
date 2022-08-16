@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-16, 15:22:02",
+      "https://news.ycombinator.com/item?id=32484008"
+    ],
+    [
+      "Using Docker – Compose in Development and Production",
+      "https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 15:13:19",
       "https://news.ycombinator.com/item?id=32483870"
     ],
@@ -127,16 +137,6 @@
     [
       "GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers",
       "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 11:04:26",
-      "https://news.ycombinator.com/item?id=32481340"
-    ],
-    [
-      "What does it take to test a sorting routine? (2010)",
-      "https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/"
     ]
   ],
   [
