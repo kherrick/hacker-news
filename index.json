@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-16, 15:13:19",
+      "https://news.ycombinator.com/item?id=32483870"
+    ],
+    [
+      "Show HN: I made a local development, debugging and hotreload tool for AWS Lambda",
+      "https://github.com/thundra-io/merloc-java"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 15:03:44",
+      "https://news.ycombinator.com/item?id=32483726"
+    ],
+    [
+      "Poly-time algorithm for deciding Hilbert Nullstellensatz. A proof of P=NP",
+      "https://arxiv.org/abs/2208.07327"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 15:00:14",
       "https://news.ycombinator.com/item?id=32483670"
     ],
@@ -107,16 +127,6 @@
     [
       "GiveCampus (YC S15) Is US-Remote Hiring Senior Software Engineers",
       "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 11:33:11",
-      "https://news.ycombinator.com/item?id=32481498"
-    ],
-    [
-      "A Geologic map of the Entire Moon has Been Released at 1:2,500,000-Scale",
-      "https://www.universetoday.com/156265/a-geologic-map-of-the-entire-moon-has-been-released-at-12500000-scale/"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2022-08-16, 02:16:47",
-      "https://news.ycombinator.com/item?id=32478492"
+      "2022-08-14, 06:44:47",
+      "https://news.ycombinator.com/item?id=32457001"
     ],
     [
-      "Colour evolution of Betelgeuse over two millennia, derived from records",
-      "https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 11:09:12",
-      "https://news.ycombinator.com/item?id=32458293"
-    ],
-    [
-      "Local First Tuple Database",
-      "https://github.com/ccorcos/tuple-database"
+      "The Trouble with the Segway",
+      "http://www.paulgraham.com/segway.html"
     ]
   ],
   [
