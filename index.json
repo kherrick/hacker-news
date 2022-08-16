@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-08-15, 23:44:41",
+      "https://news.ycombinator.com/item?id=32477212"
+    ],
+    [
+      "Tup – an instrumenting file-based build system",
+      "https://gittup.org/tup/"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 23:26:13",
+      "https://news.ycombinator.com/item?id=32476943"
+    ],
+    [
+      "Freeshow: A Free and Open-source ProPresenter alternative",
+      "https://github.com/vassbo/freeshow"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 22:40:37",
       "https://news.ycombinator.com/item?id=32476445"
     ],
     [
       "Impact to DigitalOcean customers resulting from Mailchimp security incident",
       "https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 22:32:15",
-      "https://news.ycombinator.com/item?id=32476348"
-    ],
-    [
-      "Gen Z have 86% less purchasing power compared to baby boomers in their twenties",
-      "https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html"
     ]
   ],
   [
@@ -31,62 +41,12 @@
   ],
   [
     [
-      "2022-08-15, 22:02:44",
-      "https://news.ycombinator.com/item?id=32476036"
-    ],
-    [
-      "Thinking Rate Is Fixed – Farnam Street",
-      "https://fs.blog/thinking-rate-fixed/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 21:23:53",
-      "https://news.ycombinator.com/item?id=32475570"
-    ],
-    [
-      "Steve Teixeira, Mozilla’s New Chief Product Officer",
-      "https://blog.mozilla.org/en/mozilla/steve-teixeira-mozilla-new-chief-product-officer/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 20:59:01",
-      "https://news.ycombinator.com/item?id=32475298"
-    ],
-    [
-      "Google IoT Core will be discontinued on Aug. 16, 2023",
-      "https://news.ycombinator.com/item?id=32475298"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 20:54:55",
       "https://news.ycombinator.com/item?id=32475237"
     ],
     [
       "Timelock Encryption made possible and easy to use",
       "https://github.com/drand/tlock"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 20:16:20",
-      "https://news.ycombinator.com/item?id=32474827"
-    ],
-    [
-      "MacBook Air M1 screen crack for no apparent reason",
-      "https://origin-discussions2-us-dr-prz.apple.com/en/thread/252794122?page=49"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 19:37:10",
-      "https://news.ycombinator.com/item?id=32474281"
-    ],
-    [
-      "Rules for Weird Ideas",
-      "https://dynomight.net/weird-ideas/"
     ]
   ],
   [
@@ -191,6 +151,16 @@
   ],
   [
     [
+      "2022-08-15, 15:49:51",
+      "https://news.ycombinator.com/item?id=32471208"
+    ],
+    [
+      "How to create a blog post title optimizer with GPT-3 and Hacker News data",
+      "https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 15:49:22",
       "https://news.ycombinator.com/item?id=32471199"
     ],
@@ -221,12 +191,42 @@
   ],
   [
     [
+      "2022-08-15, 12:18:21",
+      "https://news.ycombinator.com/item?id=32468701"
+    ],
+    [
+      "Commercial Surveillance and Data Security Rulemaking",
+      "https://www.ftc.gov/legal-library/browse/federal-register-notices/commercial-surveillance-data-security-rulemaking"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 11:45:07",
+      "https://news.ycombinator.com/item?id=32468430"
+    ],
+    [
+      "Add ability to choose a custom coordination server",
+      "https://github.com/tailscale/tailscale-android/pull/45"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 06:02:12",
       "https://news.ycombinator.com/item?id=32466346"
     ],
     [
       "Preparedness Paradox",
       "https://en.wikipedia.org/wiki/Preparedness_paradox"
+    ]
+  ],
+  [
+    [
+      "2022-08-14, 06:41:39",
+      "https://news.ycombinator.com/item?id=32456981"
+    ],
+    [
+      "Stack Computers: the new wave (1989)",
+      "https://users.ece.cmu.edu/~koopman/stack_computers/index.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-08-12, 09:24:20",
-      "https://news.ycombinator.com/item?id=32436203"
+      "2022-08-12, 08:18:39",
+      "https://news.ycombinator.com/item?id=32435802"
     ],
     [
-      "Copyright infringement in AI art",
-      "https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art"
+      "Correcting a Widespread Error in Unification Algorithms (1991) [pdf]",
+      "https://norvig.com/unify-bug.pdf"
     ]
   ]
 ]
