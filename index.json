@@ -1,6 +1,76 @@
 [
   [
     [
+      "2022-08-16, 16:40:16",
+      "https://news.ycombinator.com/item?id=32485276"
+    ],
+    [
+      "Ask HN: Does anyone here not own a phone?",
+      "https://news.ycombinator.com/item?id=32485276"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 16:36:20",
+      "https://news.ycombinator.com/item?id=32485200"
+    ],
+    [
+      "Ask HN: Which website do you use for freelancing?",
+      "https://news.ycombinator.com/item?id=32485200"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 16:35:22",
+      "https://news.ycombinator.com/item?id=32485178"
+    ],
+    [
+      "Why Airbnb Dumped React Native? (2021)",
+      "https://www.theimmigrantprogrammers.com/p/why-airbnb-dumped-react-native"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 16:19:01",
+      "https://news.ycombinator.com/item?id=32484920"
+    ],
+    [
+      "Ask HN: How do you stop time wasting on the internet?",
+      "https://news.ycombinator.com/item?id=32484920"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 16:17:44",
+      "https://news.ycombinator.com/item?id=32484901"
+    ],
+    [
+      "Learning to Spell in Linear B: Scribal Training in Mycenaean Pylos",
+      "https://www.cambridge.org/core/journals/cambridge-classical-journal/article/learning-to-spell-in-linear-b-orthography-and-scribal-training-in-mycenaean-pylos/50556D5B86414A3958575FB2C24B6FD1"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 16:10:07",
+      "https://news.ycombinator.com/item?id=32484800"
+    ],
+    [
+      "Show HN: A developper friendly (web) comic format",
+      "https://drdru.github.io/twc/twc_save_aryn/02_on_the_way_to_kilm_1.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 15:40:46",
+      "https://news.ycombinator.com/item?id=32484286"
+    ],
+    [
+      "Supabase-JS v2",
+      "https://supabase.com/blog/supabase-js-v2"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 15:22:02",
       "https://news.ycombinator.com/item?id=32484008"
     ],
@@ -21,32 +91,12 @@
   ],
   [
     [
-      "2022-08-16, 15:19:49",
-      "https://news.ycombinator.com/item?id=32483967"
-    ],
-    [
-      "Ask HN: Is RSS dying? Or coming back?",
-      "https://news.ycombinator.com/item?id=32483967"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 15:13:19",
       "https://news.ycombinator.com/item?id=32483870"
     ],
     [
       "Show HN: I made a local development, debugging and hotreload tool for AWS Lambda",
       "https://github.com/thundra-io/merloc-java"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 14:49:40",
-      "https://news.ycombinator.com/item?id=32483501"
-    ],
-    [
-      "The West's historic drought is threatening hydropower at Hoover Dam",
-      "https://keyt.com/news/2022/08/16/the-wests-historic-drought-is-threatening-hydropower-at-hoover-dam/"
     ]
   ],
   [
@@ -95,7 +145,7 @@
       "https://news.ycombinator.com/item?id=32482049"
     ],
     [
-      "Great-houk/mouse-project: DIY Gaming Mouse",
+      "Custom Mouse",
       "https://github.com/great-houk/mouse-project"
     ]
   ],
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-08-16, 12:28:56",
-      "https://news.ycombinator.com/item?id=32481931"
-    ],
-    [
-      "Philippines orders fraud probe after paying MacBook prices for Celeron laptops",
-      "https://www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 12:01:08",
       "https://news.ycombinator.com/item?id=32481680"
     ],
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2022-08-16, 11:04:26",
-      "https://news.ycombinator.com/item?id=32481340"
-    ],
-    [
-      "What does it take to test a sorting routine? (2010)",
-      "https://reprog.wordpress.com/2010/05/20/what-does-it-take-to-test-a-sorting-routine/"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 10:53:59",
       "https://news.ycombinator.com/item?id=32481270"
     ],
     [
       "Scanning for AWS Security Issues with Trivy",
       "https://lia.mg/posts/trivy-aws/"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 10:24:56",
-      "https://news.ycombinator.com/item?id=32481111"
-    ],
-    [
-      "DigitalOcean Region Information",
-      "https://snapshooter.com/learn/datacenter-regions-digitalocean-located"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Fabimycin and Its Activity against Drug-Resistant Gram-Negative Pathogens",
       "https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00598"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 08:47:31",
-      "https://news.ycombinator.com/item?id=32480603"
-    ],
-    [
-      "Evolution of the OSM Data Model [pdf]",
-      "https://media.jochentopf.com/media/2022-08-15-study-evolution-of-the-osm-data-model.pdf"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32479731"
     ],
     [
-      "Story of Japan Dev from $0 to $62k a month",
+      "How and why I built Japan Dev",
       "https://japan-dev.com/blog/how-and-why-i-built-japan-dev"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "The Trouble with the Segway (2009)",
       "http://www.paulgraham.com/segway.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 02:38:03",
-      "https://news.ycombinator.com/item?id=32455832"
-    ],
-    [
-      "Voyage Through Time",
-      "https://twitter.com/xsteenbrugge/status/1558508866463219712"
     ]
   ],
   [
