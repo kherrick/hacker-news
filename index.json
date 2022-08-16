@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32483077"
     ],
     [
-      "American Airlines Agrees to Purchase Boom Supersonic Overture Aircraft",
+      "American Airlines agrees to purchase Boom Supersonic Overture aircraft",
       "https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32482034"
     ],
     [
-      "RubyGems now requires MFA for owners of top gems",
+      "Requiring MFA on popular gem maintainers",
       "https://blog.rubygems.org/2022/08/15/requiring-mfa-on-popular-gems.html"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "Philippines orders fraud probe after paying MacBook prices for Celeron laptops",
       "https://www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 12:16:37",
-      "https://news.ycombinator.com/item?id=32481798"
-    ],
-    [
-      "Debian Turns 29",
-      "https://bits.debian.org/2022/08/debian-turns-29.html"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32481111"
     ],
     [
-      "Where are Digital Ocean servers located?",
+      "DigitalOcean Region Information",
       "https://snapshooter.com/learn/datacenter-regions-digitalocean-located"
     ]
   ],
@@ -217,6 +207,16 @@
     [
       "A little exercise each day improves muscles more than one big weekly workout",
       "https://www.studyfinds.org/exercise-each-day-builds-muscle/"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 03:14:07",
+      "https://news.ycombinator.com/item?id=32478808"
+    ],
+    [
+      "Certifying Interpreters in Racket",
+      "https://kmicinski.com/certifying-interpreters"
     ]
   ],
   [
