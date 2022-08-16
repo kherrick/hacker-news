@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-08-16, 03:14:07",
+      "https://news.ycombinator.com/item?id=32478808"
+    ],
+    [
+      "Certifying Interpreters in Racket",
+      "https://kmicinski.com/certifying-interpreters"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 03:12:27",
       "https://news.ycombinator.com/item?id=32478797"
     ],
@@ -67,16 +77,6 @@
     [
       "Freeshow: A Free and Open-source ProPresenter alternative",
       "https://github.com/vassbo/freeshow"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 22:40:37",
-      "https://news.ycombinator.com/item?id=32476445"
-    ],
-    [
-      "Impact to DigitalOcean customers resulting from Mailchimp security incident",
-      "https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2022-08-13, 11:02:07",
-      "https://news.ycombinator.com/item?id=32448673"
+      "2022-08-13, 08:40:14",
+      "https://news.ycombinator.com/item?id=32447995"
     ],
     [
-      "How the Brain Links Gestures, Perception and Meaning",
-      "https://www.quantamagazine.org/how-the-brain-links-gestures-perception-and-meaning-20190325/"
+      "Krunvm – Create MicroVMs from OCI Images",
+      "https://github.com/containers/krunvm"
     ]
   ],
   [
