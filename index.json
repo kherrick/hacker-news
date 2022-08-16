@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-16, 10:53:59",
+      "https://news.ycombinator.com/item?id=32481270"
+    ],
+    [
+      "Scanning for AWS Security Issues with Trivy",
+      "https://lia.mg/posts/trivy-aws/"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 10:36:42",
       "https://news.ycombinator.com/item?id=32481181"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-08-15, 23:26:13",
-      "https://news.ycombinator.com/item?id=32476943"
-    ],
-    [
-      "Freeshow: A Free and Open-source ProPresenter alternative",
-      "https://github.com/vassbo/freeshow"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 22:24:20",
       "https://news.ycombinator.com/item?id=32476262"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2022-08-13, 11:18:46",
+      "https://news.ycombinator.com/item?id=32448772"
+    ],
+    [
+      "Functional Reactive Programming",
+      "https://wiki.haskell.org/Functional_Reactive_Programming"
+    ]
+  ],
+  [
+    [
       "2022-08-13, 09:47:51",
       "https://news.ycombinator.com/item?id=32448309"
     ],
@@ -247,16 +257,6 @@
     [
       "Krunvm – Create MicroVMs from OCI Images",
       "https://github.com/containers/krunvm"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 05:54:26",
-      "https://news.ycombinator.com/item?id=32447292"
-    ],
-    [
-      "A catalogue of optimizing transformations (1971) [pdf]",
-      "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
     ]
   ],
   [
