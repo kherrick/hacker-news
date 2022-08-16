@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-16, 07:07:28",
+      "https://news.ycombinator.com/item?id=32480009"
+    ],
+    [
+      "Ask HN: In 2022, what is the proper way to get into machine/deep learning?",
+      "https://news.ycombinator.com/item?id=32480009"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 06:52:14",
+      "https://news.ycombinator.com/item?id=32479919"
+    ],
+    [
+      "This is it",
+      "https://gitlab.com/bartokio/bartok/-/blob/main/ThisIsIt.md"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 06:05:21",
       "https://news.ycombinator.com/item?id=32479659"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2022-08-16, 03:14:07",
+      "https://news.ycombinator.com/item?id=32478808"
+    ],
+    [
+      "Certifying Interpreters in Racket",
+      "https://kmicinski.com/certifying-interpreters"
+    ]
+  ],
+  [
+    [
       "2022-08-16, 02:16:47",
       "https://news.ycombinator.com/item?id=32478492"
     ],
@@ -67,6 +97,16 @@
     [
       "Freeshow: A Free and Open-source ProPresenter alternative",
       "https://github.com/vassbo/freeshow"
+    ]
+  ],
+  [
+    [
+      "2022-08-15, 22:40:37",
+      "https://news.ycombinator.com/item?id=32476445"
+    ],
+    [
+      "Impact to DigitalOcean customers resulting from Mailchimp security incident",
+      "https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident"
     ]
   ],
   [
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2022-08-15, 16:11:18",
-      "https://news.ycombinator.com/item?id=32471508"
-    ],
-    [
-      "Scaling Kubernetes to Thousands of CRDs",
-      "https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/"
-    ]
-  ],
-  [
-    [
       "2022-08-15, 16:02:30",
       "https://news.ycombinator.com/item?id=32471400"
     ],
     [
       "Process behaviour anomaly detection using eBPF and unsupervised learning",
       "https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 15:49:22",
-      "https://news.ycombinator.com/item?id=32471199"
-    ],
-    [
-      "Open-source rival for OpenAI’s DALL-E runs on your graphics card",
-      "https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 15:07:34",
-      "https://news.ycombinator.com/item?id=32470645"
-    ],
-    [
-      "Tell HN: After 10 years of experiments, custom username emails receive no spam",
-      "https://news.ycombinator.com/item?id=32470645"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2022-08-14, 06:14:41",
-      "https://news.ycombinator.com/item?id=32456848"
+      "2022-08-14, 06:41:39",
+      "https://news.ycombinator.com/item?id=32456981"
     ],
     [
-      "Quaternions: A Practical Guide",
-      "https://www.anyleaf.org/blog/quaternions:-a-practical-guide"
+      "Stack Computers: the new wave (1989)",
+      "https://users.ece.cmu.edu/~koopman/stack_computers/index.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Krunvm – Create MicroVMs from OCI Images",
       "https://github.com/containers/krunvm"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 06:13:45",
-      "https://news.ycombinator.com/item?id=32447374"
-    ],
-    [
-      "The Intel 80376 – A legacy-free i386 with a twist (2010)",
-      "https://www.pagetable.com/?p=460"
     ]
   ],
   [
