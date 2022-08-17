@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-17, 15:22:03",
+      "https://news.ycombinator.com/item?id=32497564"
+    ],
+    [
+      "Build Your Own Imagen Text-to-Image Model (DALL-E 2 Competitor)",
+      "https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 14:45:00",
       "https://news.ycombinator.com/item?id=32497116"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32495133"
     ],
     [
-      "Programming Breakthroughs We Need",
+      "Programming breakthroughs we need",
       "https://yoyo-code.com/programming-breakthroughs-we-need/"
     ]
   ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32492977"
     ],
     [
-      "Uno platform: build single-codebase applications across all platforms",
+      "Uno platform: Build single-codebase applications across all platforms",
       "https://github.com/unoplatform/uno"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "A spelled-out intro to neural networks and backpropagation [video]",
       "https://www.youtube.com/watch?v=VMj-3S1tku0"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 00:10:42",
-      "https://news.ycombinator.com/item?id=32490736"
-    ],
-    [
-      "Putting Tailscale on the Steam Deck",
-      "https://tailscale.com/blog/steam-deck/"
     ]
   ],
   [
