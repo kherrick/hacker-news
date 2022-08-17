@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-08-17, 09:45:19",
-      "https://news.ycombinator.com/item?id=32494182"
+      "2022-08-17, 09:48:11",
+      "https://news.ycombinator.com/item?id=32494200"
     ],
     [
-      "10 years of Ecce Homo, the worst artistic restoration that changed a city",
-      "https://www.archyde.com/10-years-of-ecce-homo-the-worst-artistic-restoration-that-changed-a-city-in-spain-society/"
+      "Aparté – Simple XMPP console client written in Rust",
+      "https://github.com/paulfariello/aparte"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Show HN: I made a web-based notepad with a built in unit calculator",
       "https://numpad.io/"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 08:44:55",
+      "https://news.ycombinator.com/item?id=32493870"
+    ],
+    [
+      "Remove my password from lists so hackers won't be able to hack me",
+      "https://github.com/danielmiessler/SecLists/pull/155"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32492514"
     ],
     [
-      "RavynOS – Finesse of macOS. Freedom of FreeBSD",
+      "RavynOS – Finesse of macOS, freedom of FreeBSD",
       "https://ravynos.com/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "An Instinct for Dragons",
       "https://en.wikipedia.org/wiki/An_Instinct_for_Dragons"
-    ]
-  ],
-  [
-    [
-      "2022-08-13, 12:40:01",
-      "https://news.ycombinator.com/item?id=32449336"
-    ],
-    [
-      "BRL-CAD",
-      "https://en.wikipedia.org/wiki/BRL-CAD"
     ]
   ]
 ]
