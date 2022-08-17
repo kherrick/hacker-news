@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-17, 16:28:45",
+      "https://news.ycombinator.com/item?id=32498435"
+    ],
+    [
+      "Learn Postgres at the Playground (Postgres compiled to WASM running in browser)",
+      "https://www.crunchydata.com/blog/learn-postgres-at-the-playground"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 16:14:45",
+      "https://news.ycombinator.com/item?id=32498251"
+    ],
+    [
+      "No, You Can’t Buy One Square Foot of Land in Scotland and Become a Scottish Lord",
+      "https://talesoftimesforgotten.com/2022/06/15/no-you-cant-buy-one-square-foot-of-land-in-scotland-and-become-a-scottish-lord/"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 16:11:13",
+      "https://news.ycombinator.com/item?id=32498217"
+    ],
+    [
+      "The man who bought Pine Bluff, Arkansas",
+      "https://maxread.substack.com/p/the-man-who-bought-pine-bluff-arkansas"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 16:04:28",
       "https://news.ycombinator.com/item?id=32498134"
     ],
@@ -11,11 +41,21 @@
   ],
   [
     [
+      "2022-08-17, 15:30:26",
+      "https://news.ycombinator.com/item?id=32497657"
+    ],
+    [
+      "NMN: A Stable, Reliable NAD+Activator and Anti-Aging Molecule (2020)",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238909/"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 15:22:03",
       "https://news.ycombinator.com/item?id=32497564"
     ],
     [
-      "Build Your Own Imagen Text-to-Image Model (DALL-E 2 Competitor)",
+      "Build Your Own Imagen Text-to-Image Model",
       "https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/"
     ]
   ],
@@ -31,22 +71,22 @@
   ],
   [
     [
+      "2022-08-17, 14:45:54",
+      "https://news.ycombinator.com/item?id=32497130"
+    ],
+    [
+      "Petnames: A humane approach to secure, decentralized naming (2018)",
+      "https://github.com/cwebber/rebooting-the-web-of-trust-spring2018/blob/petnames/draft-documents/petnames.md"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 14:45:00",
       "https://news.ycombinator.com/item?id=32497116"
     ],
     [
       "6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard",
       "https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 14:43:12",
-      "https://news.ycombinator.com/item?id=32497095"
-    ],
-    [
-      "The United States Is Still Under-Policed and Over-Imprisoned",
-      "https://marginalrevolution.com/marginalrevolution/2022/08/still-under-policed-and-over-imprisoned.html"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2022-08-17, 09:48:11",
-      "https://news.ycombinator.com/item?id=32494200"
-    ],
-    [
-      "Aparté – Simple XMPP console client written in Rust",
-      "https://github.com/paulfariello/aparte"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 09:01:42",
       "https://news.ycombinator.com/item?id=32493946"
     ],
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2022-08-17, 06:29:17",
-      "https://news.ycombinator.com/item?id=32492977"
-    ],
-    [
-      "Uno platform: Build single-codebase applications across all platforms",
-      "https://github.com/unoplatform/uno"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 04:55:34",
       "https://news.ycombinator.com/item?id=32492514"
     ],
     [
       "RavynOS – Finesse of macOS, freedom of FreeBSD",
       "https://ravynos.com/"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 02:24:56",
-      "https://news.ycombinator.com/item?id=32491587"
-    ],
-    [
-      "Physics duo finds magic in two dimensions",
-      "https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 02:02:05",
-      "https://news.ycombinator.com/item?id=32491440"
-    ],
-    [
-      "A spelled-out intro to neural networks and backpropagation [video]",
-      "https://www.youtube.com/watch?v=VMj-3S1tku0"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-08-15, 23:43:48",
+      "https://news.ycombinator.com/item?id=32477195"
+    ],
+    [
+      "The Inner Osborne Effect",
+      "https://raganwald.com/2021/10/28/the-inner-osborne-effect.html"
+    ]
+  ],
+  [
+    [
       "2022-08-15, 17:29:58",
       "https://news.ycombinator.com/item?id=32472636"
     ],
     [
       "Machine learning, concluded: Did no-code tools beat manual analysis?",
       "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/"
-    ]
-  ],
-  [
-    [
-      "2022-08-14, 17:07:21",
-      "https://news.ycombinator.com/item?id=32460903"
-    ],
-    [
-      "The Art of Seahenge",
-      "https://blog.britishmuseum.org/the-art-of-seahenge/"
     ]
   ]
 ]
