@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-17, 16:04:28",
+      "https://news.ycombinator.com/item?id=32498134"
+    ],
+    [
+      "Show HN: GraphJSON – Easily log and analyze events using ClickHouse",
+      "https://www.graphjson.com/"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 15:22:03",
       "https://news.ycombinator.com/item?id=32497564"
     ],
@@ -21,22 +31,32 @@
   ],
   [
     [
-      "2022-08-17, 14:45:54",
-      "https://news.ycombinator.com/item?id=32497130"
-    ],
-    [
-      "Petnames: A humane approach to secure, decentralized naming (2018)",
-      "https://github.com/cwebber/rebooting-the-web-of-trust-spring2018/blob/petnames/draft-documents/petnames.md"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 14:45:00",
       "https://news.ycombinator.com/item?id=32497116"
     ],
     [
       "6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard",
       "https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 14:43:12",
+      "https://news.ycombinator.com/item?id=32497095"
+    ],
+    [
+      "The United States Is Still Under-Policed and Over-Imprisoned",
+      "https://marginalrevolution.com/marginalrevolution/2022/08/still-under-policed-and-over-imprisoned.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 14:30:12",
+      "https://news.ycombinator.com/item?id=32496915"
+    ],
+    [
+      "Build Your Own Mobile Proxy for Web Scraping",
+      "https://scrapingfish.com/blog/byo-mobile-proxy-for-web-scraping"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-08-17, 12:13:14",
-      "https://news.ycombinator.com/item?id=32495227"
-    ],
-    [
-      "These are not photos: landscapes created by new AI",
-      "https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 12:03:25",
       "https://news.ycombinator.com/item?id=32495133"
     ],
@@ -167,16 +177,6 @@
     [
       "Aparté – Simple XMPP console client written in Rust",
       "https://github.com/paulfariello/aparte"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 09:33:49",
-      "https://news.ycombinator.com/item?id=32494111"
-    ],
-    [
-      "Running Large-Scale Graph Analytics with Memgraph and Nvidia CuGraph Algorithms",
-      "https://developer.nvidia.com/blog/running-large-scale-graph-analytics-with-memgraph-and-nvidia-cugraph-algorithms/"
     ]
   ],
   [
