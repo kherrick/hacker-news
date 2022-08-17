@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-17, 14:04:14",
+      "https://news.ycombinator.com/item?id=32496540"
+    ],
+    [
+      "PolyScale and ClickHouse Materialized Views",
+      "https://www.polyscale.ai/blog/polyscale-metrics-materialized-views/"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 13:58:04",
       "https://news.ycombinator.com/item?id=32496462"
     ],
     [
       "Launch HN: Nimbus (YC W22) – Cloud dev environments for teams",
       "https://news.ycombinator.com/item?id=32496462"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 13:36:08",
+      "https://news.ycombinator.com/item?id=32496168"
+    ],
+    [
+      "Show HN: Match(it): A C++17 pattern-matching library with lots of good stuffs",
+      "https://github.com/BowenFu/matchit.cpp"
     ]
   ],
   [
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2022-08-17, 12:54:24",
-      "https://news.ycombinator.com/item?id=32495647"
-    ],
-    [
-      "Why American cities are broke (2021) [video]",
-      "https://www.youtube.com/watch?v=7IsMeKl-Sv0"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 12:19:54",
       "https://news.ycombinator.com/item?id=32495274"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32495227"
     ],
     [
-      "These Are Not Photos: Beautiful Landscapes Created by New AI",
+      "These are not photos: landscapes created by new AI",
       "https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32494497"
     ],
     [
-      "Physical buttons clearly outperform touchscreens in new cars, test finds",
+      "Physical buttons outperform touchscreens in new cars, test finds",
       "https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Machine learning, concluded: Did no-code tools beat manual analysis?",
       "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 17:19:31",
-      "https://news.ycombinator.com/item?id=32472500"
-    ],
-    [
-      "The changing iconography of Byzantine gold coinage",
-      "https://numismatics.org/pocketchange/byzantine-iconography/"
     ]
   ],
   [
