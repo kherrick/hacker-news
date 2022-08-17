@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-08-17, 14:04:14",
-      "https://news.ycombinator.com/item?id=32496540"
-    ],
-    [
-      "PolyScale and ClickHouse Materialized Views",
-      "https://www.polyscale.ai/blog/polyscale-metrics-materialized-views/"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 13:58:04",
       "https://news.ycombinator.com/item?id=32496462"
     ],
@@ -257,6 +247,16 @@
     [
       "Why are border smugglers trafficking bologna?",
       "https://www.texasmonthly.com/being-texan/bologna-seized-at-texas-mexico-border/"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 15:12:05",
+      "https://news.ycombinator.com/item?id=32483846"
+    ],
+    [
+      "Traps for the Unwary in Python’s Import System",
+      "http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html"
     ]
   ],
   [
