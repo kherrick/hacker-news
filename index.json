@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-18, 18:12:31",
+      "https://news.ycombinator.com/item?id=32513020"
+    ],
+    [
+      "Whytheluckystiff's original domain back as an archive",
+      "https://whytheluckystiff.net/"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 17:45:48",
       "https://news.ycombinator.com/item?id=32512715"
     ],
@@ -17,16 +27,6 @@
     [
       "Mozart Data (YC S20) is Hiring a Data Analyst to productize common data problems",
       "https://www.mozartdata.com/data-analyst"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 16:55:53",
-      "https://news.ycombinator.com/item?id=32512143"
-    ],
-    [
-      "Impact of Extension Privileges",
-      "https://palant.info/2022/08/17/impact-of-extension-privileges/"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32510759"
     ],
     [
-      "Show HN: I built a vector map from scratch",
+      "I built a vector map from scratch",
       "https://ckochis.com/building-a-vector-map-from-scratch"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "FedNow FAQ",
       "https://www.federalreserve.gov/paymentsystems/fednow_faq.htm"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 14:51:15",
+      "https://news.ycombinator.com/item?id=32510475"
+    ],
+    [
+      "A sane SSH(1) key management example",
+      "https://try.popho.be/ssh-keys.html"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=32506027"
     ],
     [
-      "Philosophy can solve your midlife crisis",
+      "Midlife: A Philosophical Guide",
       "https://news.mit.edu/2017/how-philosophy-can-solve-your-midlife-crisis-1003"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Show HN: I made a writing tool that asks questions like Socrates",
       "https://www.scraft.ai/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 05:13:59",
-      "https://news.ycombinator.com/item?id=32505560"
-    ],
-    [
-      "Emergent Features in 6.7B+ Param Transformers",
-      "https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/"
     ]
   ],
   [
