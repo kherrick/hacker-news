@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-18, 13:04:13",
+      "https://news.ycombinator.com/item?id=32509037"
+    ],
+    [
+      "Japan wants young people to drink more alcohol",
+      "https://www.cnn.com/2022/08/18/asia/japan-tax-alcohol-competition-intl-hnk/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 12:44:12",
+      "https://news.ycombinator.com/item?id=32508818"
+    ],
+    [
+      "Zimbu programming language by Vim author Bram Moolenaar",
+      "http://www.zimbu.org/Home"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 12:29:23",
+      "https://news.ycombinator.com/item?id=32508659"
+    ],
+    [
+      "An io_uring-based user-space block driver",
+      "https://lwn.net/Articles/903855/"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 11:57:47",
       "https://news.ycombinator.com/item?id=32508302"
     ],
@@ -17,16 +47,6 @@
     [
       "Julia 1.8 has been released",
       "https://julialang.org/blog/2022/08/julia-1.8-highlights/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 11:16:01",
-      "https://news.ycombinator.com/item?id=32507912"
-    ],
-    [
-      "Pine64’s response to “Why I left Pine64”",
-      "https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Ask HN: Where do you find the interesting jobs?",
       "https://news.ycombinator.com/item?id=32507789"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 10:28:46",
-      "https://news.ycombinator.com/item?id=32507576"
-    ],
-    [
-      "Embracer enters into agreement to acquire The Lord of the Rings, The Hobbit IP",
-      "https://embracer.com/release/embracer-group-enters-into-agreement-to-acquire-ip-rights-to-the-lord-of-the-rings-and-the-hobbit-literary-works-by-j-r-r-tolkien/"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=32505314"
     ],
     [
-      "Why are bookmarks second class citizens in browsers?",
+      "Ask HN: Why are bookmarks second class citizens in browsers?",
       "https://news.ycombinator.com/item?id=32505314"
     ]
   ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2022-08-17, 21:40:56",
+      "https://news.ycombinator.com/item?id=32502072"
+    ],
+    [
+      "Can the Visa-Mastercard duopoly be broken?",
+      "https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 14:39:37",
       "https://news.ycombinator.com/item?id=32497043"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-08-16, 16:27:42",
-      "https://news.ycombinator.com/item?id=32485072"
+      "2022-08-16, 20:56:35",
+      "https://news.ycombinator.com/item?id=32488802"
     ],
     [
-      "Göring’s Man",
-      "https://drb.ie/articles/gorings-man/"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 16:09:01",
-      "https://news.ycombinator.com/item?id=32484782"
-    ],
-    [
-      "Simple IPv6 Subnet Auto-Configuration",
-      "https://doc.riot-os.org/group__net__gnrc__ipv6__auto__subnets.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-16, 15:32:07",
-      "https://news.ycombinator.com/item?id=32484156"
-    ],
-    [
-      "X(ray) marks the spot in elemental analysis of 15th century printing press",
-      "https://news.wisc.edu/xray-marks-the-spot-in-elemental-analysis-of-15th-century-printing-press-methods/"
+      "What Beirut Was Like Before the War",
+      "https://www.the961.com/this-is-what-beirut-was-like-before-the-war/"
     ]
   ],
   [
