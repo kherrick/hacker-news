@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-18, 05:13:59",
+      "https://news.ycombinator.com/item?id=32505560"
+    ],
+    [
+      "Emergent Features in 6.7B+ Param Transformers",
+      "https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 04:55:08",
       "https://news.ycombinator.com/item?id=32505466"
     ],
@@ -187,16 +197,6 @@
     [
       "Learn Postgres at the Playground – Postgres compiled to WASM running in browser",
       "https://www.crunchydata.com/blog/learn-postgres-at-the-playground"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 14:45:00",
-      "https://news.ycombinator.com/item?id=32497116"
-    ],
-    [
-      "6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard",
-      "https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard"
     ]
   ],
   [
