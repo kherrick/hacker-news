@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-18, 11:42:39",
+      "https://news.ycombinator.com/item?id=32508158"
+    ],
+    [
+      "Julia 1.8 has been released",
+      "https://julialang.org/blog/2022/08/julia-1.8-highlights/"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 11:16:01",
       "https://news.ycombinator.com/item?id=32507912"
     ],
@@ -217,16 +227,6 @@
     [
       "New antibody neutralizes all known SARS-CoV-2 variants in lab tests",
       "https://hms.harvard.edu/news/one-all"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 16:28:45",
-      "https://news.ycombinator.com/item?id=32498435"
-    ],
-    [
-      "Learn Postgres at the Playground – Postgres compiled to WASM running in browser",
-      "https://www.crunchydata.com/blog/learn-postgres-at-the-playground"
     ]
   ],
   [
