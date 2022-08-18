@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-08-18, 17:00:23",
+      "https://news.ycombinator.com/item?id=32512211"
+    ],
+    [
+      "Mozart Data (YC S20) is Hiring a Data Analyst to productize common data problems",
+      "https://www.mozartdata.com/data-analyst"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 16:55:53",
+      "https://news.ycombinator.com/item?id=32512143"
+    ],
+    [
+      "Impact of Extension Privileges",
+      "https://palant.info/2022/08/17/impact-of-extension-privileges/"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 16:13:03",
+      "https://news.ycombinator.com/item?id=32511577"
+    ],
+    [
+      "The PlanetScale serverless driver for JavaScript",
+      "https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 16:01:46",
+      "https://news.ycombinator.com/item?id=32511420"
+    ],
+    [
+      "Just-in-time code generation within WebAssembly",
+      "https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 15:35:06",
+      "https://news.ycombinator.com/item?id=32511086"
+    ],
+    [
+      "PayPal phishing scam uses invoices sent via PayPal",
+      "https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 15:10:28",
+      "https://news.ycombinator.com/item?id=32510759"
+    ],
+    [
+      "Show HN: I built a vector map from scratch",
+      "https://ckochis.com/building-a-vector-map-from-scratch"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 14:58:43",
       "https://news.ycombinator.com/item?id=32510581"
     ],
     [
       "FedNow FAQ",
       "https://www.federalreserve.gov/paymentsystems/fednow_faq.htm"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 14:51:15",
-      "https://news.ycombinator.com/item?id=32510475"
-    ],
-    [
-      "A sane SSH(1) key management example",
-      "https://try.popho.be/ssh-keys.html"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2022-08-18, 12:29:56",
-      "https://news.ycombinator.com/item?id=32508668"
-    ],
-    [
-      "Delphi still exists and is actively developed",
-      "https://www.embarcadero.com/products/delphi"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 12:29:23",
       "https://news.ycombinator.com/item?id=32508659"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-08-18, 11:16:01",
-      "https://news.ycombinator.com/item?id=32507912"
-    ],
-    [
-      "Pine64’s response to “Why I left Pine64”",
-      "https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 11:06:17",
       "https://news.ycombinator.com/item?id=32507849"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-08-18, 09:53:46",
-      "https://news.ycombinator.com/item?id=32507345"
-    ],
-    [
-      "Benefits of the Danish transfat ban for coronary heart disease mortality",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272744"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 09:24:13",
       "https://news.ycombinator.com/item?id=32507172"
     ],
     [
-      "Show HN: I spent a year designing a low profile, minimal mechanical keyboard",
+      "I spent a year designing a low profile, minimal mechanical keyboard",
       "https://electronicmaterialsoffice.com/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 09:20:13",
-      "https://news.ycombinator.com/item?id=32507147"
-    ],
-    [
-      "A laptop hard drive model could crash when exposed to a certain audio frequency",
-      "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994"
     ]
   ],
   [
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2022-08-18, 07:01:20",
-      "https://news.ycombinator.com/item?id=32506240"
+      "2022-08-18, 06:29:02",
+      "https://news.ycombinator.com/item?id=32506027"
     ],
     [
-      "Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers",
-      "https://news.ycombinator.com/item?id=32506240"
+      "Philosophy can solve your midlife crisis",
+      "https://news.mit.edu/2017/how-philosophy-can-solve-your-midlife-crisis-1003"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 05:56:29",
+      "https://news.ycombinator.com/item?id=32505813"
+    ],
+    [
+      "Show HN: I made a writing tool that asks questions like Socrates",
+      "https://www.scraft.ai/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2022-08-18, 04:55:08",
-      "https://news.ycombinator.com/item?id=32505466"
-    ],
-    [
-      "Running Rust on Logic Gates",
-      "https://zdimension.fr/crabs-all-the-way-down/"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 03:58:37",
       "https://news.ycombinator.com/item?id=32505092"
     ],
     [
       "Edible insects role in transmission of parasitic diseases to humans (2019)",
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219303"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 21:40:56",
-      "https://news.ycombinator.com/item?id=32502072"
-    ],
-    [
-      "Can the Visa-Mastercard duopoly be broken?",
-      "https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-08-17, 03:01:53",
-      "https://news.ycombinator.com/item?id=32491811"
-    ],
-    [
-      "It wasn't for nothing",
-      "https://gexp.no/it-wasnt-for-nothing.html"
-    ]
-  ],
-  [
-    [
       "2022-08-16, 20:56:35",
       "https://news.ycombinator.com/item?id=32488802"
     ],
     [
       "What Beirut was like before the war (2019)",
       "https://www.the961.com/this-is-what-beirut-was-like-before-the-war/"
+    ]
+  ],
+  [
+    [
+      "2022-08-16, 08:26:27",
+      "https://news.ycombinator.com/item?id=32480508"
+    ],
+    [
+      "The double-arm barn door tracker",
+      "https://education.jlab.org/tracker/"
     ]
   ]
 ]
