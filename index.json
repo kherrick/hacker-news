@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-18, 14:36:48",
+      "https://news.ycombinator.com/item?id=32510262"
+    ],
+    [
+      "Metal Archives 20th Anniversary",
+      "https://www.metal-archives.com/news/view/id/284"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 13:45:29",
       "https://news.ycombinator.com/item?id=32509485"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2022-08-18, 13:28:11",
-      "https://news.ycombinator.com/item?id=32509267"
+      "2022-08-18, 13:28:16",
+      "https://news.ycombinator.com/item?id=32509268"
     ],
     [
-      "TSMC to Begin 3nm Chip Production Next Month, Apple gets first dib",
-      "https://www.tomshardware.com/news/tsmc-initiates-3nm-chips-production-next-month"
+      "I have complicated feelings about TDD",
+      "https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/"
     ]
   ],
   [
     [
-      "2022-08-18, 13:25:16",
-      "https://news.ycombinator.com/item?id=32509239"
+      "2022-08-18, 13:28:11",
+      "https://news.ycombinator.com/item?id=32509267"
     ],
     [
-      "PINE64 has let its community down",
-      "https://drewdevault.com/2022/08/18/PINE64-let-us-down.html"
+      "TSMC to begin 3nm chip production next month",
+      "https://www.tomshardware.com/news/tsmc-initiates-3nm-chips-production-next-month"
     ]
   ],
   [
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=32509189"
     ],
     [
-      "The only thing needed is Seinfeld making a career change and getting into tech",
+      "Engineering Festivus",
       "https://festivus.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 13:04:13",
-      "https://news.ycombinator.com/item?id=32509037"
-    ],
-    [
-      "Japan wants young people to drink more alcohol",
-      "https://www.cnn.com/2022/08/18/asia/japan-tax-alcohol-competition-intl-hnk/index.html"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32508818"
     ],
     [
-      "Zimbu programming language by Vim author Bram Moolenaar",
+      "The Zimbu programming language",
       "http://www.zimbu.org/Home"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32508668"
     ],
     [
-      "Delphi Still Exists and Is Actively Developed",
+      "Delphi still exists and is actively developed",
       "https://www.embarcadero.com/products/delphi"
     ]
   ],
@@ -101,11 +101,21 @@
   ],
   [
     [
+      "2022-08-18, 11:16:01",
+      "https://news.ycombinator.com/item?id=32507912"
+    ],
+    [
+      "Pine64’s response to “Why I left Pine64”",
+      "https://www.pine64.org/2022/08/18/a-response-to-martijns-blog/"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 11:06:17",
       "https://news.ycombinator.com/item?id=32507849"
     ],
     [
-      "Tempest LCD: Playing Songs from Your LCD Monitor with a Radio",
+      "Tempest LCD: Playing songs from your LCD monitor with a radio",
       "https://github.com/luamfb/tempest-lcd"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32507843"
     ],
     [
-      "Learn MYOG – learn to make (sew) your own outdoor gear",
+      "Learn to sew your own outdoor gear",
       "https://learnmyog.com/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Benefits of the Danish transfat ban for coronary heart disease mortality",
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272744"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 09:45:17",
-      "https://news.ycombinator.com/item?id=32507298"
-    ],
-    [
-      "Tesla in-house supercomputer now has 28% more A100 GPU (7,360)",
-      "https://www.hpcwire.com/2022/08/16/tesla-gooses-its-gpu-powered-ai-super-is-dojo-next/"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2022-08-18, 09:02:50",
+      "https://news.ycombinator.com/item?id=32507041"
+    ],
+    [
+      "Show HN: I created a library to create product tours / walkthroughs",
+      "https://lusift.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2022-08-18, 08:01:44",
       "https://news.ycombinator.com/item?id=32506675"
     ],
     [
       "FreeBSD – A Lesson in Poor Defaults",
       "https://vez.mrsk.me/freebsd-defaults.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 07:56:46",
-      "https://news.ycombinator.com/item?id=32506627"
-    ],
-    [
-      "$8600 MRR business on Airtable",
-      "https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-08-17, 06:47:28",
+      "https://news.ycombinator.com/item?id=32493089"
+    ],
+    [
+      "Show HN: Allsearch – Making it easier to use different search engines seamlessly",
+      "https://allsear.ch/"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 03:01:53",
       "https://news.ycombinator.com/item?id=32491811"
     ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=32488802"
     ],
     [
-      "What Beirut Was Like Before the War (2019)",
+      "What Beirut was like before the war (2019)",
       "https://www.the961.com/this-is-what-beirut-was-like-before-the-war/"
-    ]
-  ],
-  [
-    [
-      "2022-08-15, 12:26:02",
-      "https://news.ycombinator.com/item?id=32468782"
-    ],
-    [
-      "How the light moves",
-      "https://mirror.xyz/credistick.eth/unU65dgJecmAoi1oPDi4rHYoScOU6K7rn8SCU1WrsmU"
     ]
   ]
 ]
