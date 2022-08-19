@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-08-19, 16:28:03",
+      "https://news.ycombinator.com/item?id=32523067"
+    ],
+    [
+      "Advanced Bash-Scripting Guide",
+      "https://tldp.org/LDP/abs/html/"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 16:24:15",
       "https://news.ycombinator.com/item?id=32523014"
     ],
@@ -257,16 +267,6 @@
     [
       "RFC 9293: Transmission Control Protocol (TCP)",
       "https://www.rfc-editor.org/rfc/rfc9293"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 04:49:33",
-      "https://news.ycombinator.com/item?id=32517645"
-    ],
-    [
-      "Collection of best practices for providing and consuming webhooks",
-      "https://webhooks.fyi/"
     ]
   ],
   [
