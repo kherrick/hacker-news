@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-19, 17:07:02",
+      "https://news.ycombinator.com/item?id=32523584"
+    ],
+    [
+      "“Quantum-Safe” Crypto Hacked by 10-Year-Old PC",
+      "https://spectrum.ieee.org/quantum-safe-encryption-hacked"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 17:02:07",
+      "https://news.ycombinator.com/item?id=32523531"
+    ],
+    [
+      "DevCycle (YC W14) is hiring feature flag developers to fix software innovation",
+      "https://devcycle.com/company/careers"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 16:24:15",
       "https://news.ycombinator.com/item?id=32523014"
     ],
@@ -17,6 +37,16 @@
     [
       "Removing HTTP/2 Server Push from Chrome",
       "https://developer.chrome.com/blog/removing-push/"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 16:16:40",
+      "https://news.ycombinator.com/item?id=32522911"
+    ],
+    [
+      "The ABI status of ELF hash tables",
+      "https://lwn.net/SubscriberLink/904892/dba951441b61cbdc/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "W4 plans to monetize the Godot engine using Red Hat’s open-source playbook",
       "https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 14:49:51",
-      "https://news.ycombinator.com/item?id=32521703"
-    ],
-    [
-      "FBI agent pleads guilty to wiping hard-drive containing exculpatory evidence",
-      "https://katv.com/news/local/a-former-agent-of-fbi-pleads-guilty-to-charges-connected-to-jon-woods-trial-ex-arkansas-lawmaker-now-in-prison-says-he-and-other-inmates-wants-to-build-trumps-wall-ecclesia-college-springdale-robert-cessario"
     ]
   ],
   [
@@ -211,6 +231,16 @@
   ],
   [
     [
+      "2022-08-19, 10:32:39",
+      "https://news.ycombinator.com/item?id=32519346"
+    ],
+    [
+      "Richat Structure",
+      "https://en.wikipedia.org/wiki/Richat_Structure"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 10:27:27",
       "https://news.ycombinator.com/item?id=32519322"
     ],
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2022-08-19, 07:01:16",
-      "https://news.ycombinator.com/item?id=32518210"
-    ],
-    [
-      "PhotoRoom Is Hiring a Senior Backend Engineer (Django, 200GB+ PSQL DB) in Paris",
-      "https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 04:49:33",
-      "https://news.ycombinator.com/item?id=32517645"
-    ],
-    [
-      "Collection of best practices for providing and consuming webhooks",
-      "https://webhooks.fyi/"
-    ]
-  ],
-  [
-    [
       "2022-08-19, 03:42:18",
       "https://news.ycombinator.com/item?id=32517402"
     ],
     [
       "Fiction Is History: A journey through Joseph Conrad’s life at sea",
       "https://www.laphamsquarterly.org/roundtable/fiction-history"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 13:00:12",
-      "https://news.ycombinator.com/item?id=32508998"
-    ],
-    [
-      "The Secretary Problem",
-      "https://en.wikipedia.org/wiki/Secretary_problem"
     ]
   ],
   [
