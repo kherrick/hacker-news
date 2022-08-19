@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-08-19, 18:32:55",
-      "https://news.ycombinator.com/item?id=32524527"
-    ],
-    [
-      "FDIC issues cease and desist letter to FTX US [pdf]",
-      "https://www.fdic.gov/news/press-releases/2022/ftx-harrison-letter.pdf"
-    ]
-  ],
-  [
-    [
       "2022-08-19, 18:25:01",
       "https://news.ycombinator.com/item?id=32524462"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2022-08-19, 12:40:38",
+      "https://news.ycombinator.com/item?id=32520253"
+    ],
+    [
+      "Ted Nelson on What Modern Programmers Can Learn from the Past (2018)",
+      "https://spectrum.ieee.org/extended-directors-cut-ted-nelson-on-what-modern-programmers-can-learn-from-the-past"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 11:53:43",
       "https://news.ycombinator.com/item?id=32519881"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-08-17, 19:21:33",
+      "https://news.ycombinator.com/item?id=32500572"
+    ],
+    [
+      "Show HN: Modifying Clang for a Safer, More Explicit C++",
+      "https://github.com/compiler-devel/llvm-project/commit/cfd497fadb8bae4c5428f40ea50cfc760649afa4"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 15:43:10",
       "https://news.ycombinator.com/item?id=32497840"
     ],
@@ -287,16 +297,6 @@
     [
       "Imgator: Compress, convert, edit and resize your images",
       "https://imagator.co/"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 15:15:56",
-      "https://news.ycombinator.com/item?id=32497493"
-    ],
-    [
-      "Triggering a Phoenix controller action from a form in a LiveView",
-      "https://fly.io/phoenix-files/phx-trigger-action/"
     ]
   ]
 ]
