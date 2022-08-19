@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-08-19, 12:32:44",
+      "https://news.ycombinator.com/item?id=32520182"
+    ],
+    [
+      "API security: Broken access controls, injection attacks plague the enterprise",
+      "https://portswigger.net/daily-swig/api-security-broken-access-controls-injection-attacks-plague-the-enterprise-security-landscape-in-2022"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 12:05:35",
+      "https://news.ycombinator.com/item?id=32519972"
+    ],
+    [
+      "Apple M2 vs. AMD Ryzen 7 Pro 6850U Performance in Nearly 200 Benchmarks",
+      "https://www.phoronix.com/review/apple-m2-amd-ryzen"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 11:53:43",
+      "https://news.ycombinator.com/item?id=32519881"
+    ],
+    [
+      "Serving Netflix Video Traffic at 800Gb/s and Beyond [pdf]",
+      "http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 11:51:03",
+      "https://news.ycombinator.com/item?id=32519861"
+    ],
+    [
+      "For 110 years, climate change has been in the news",
+      "https://theconversation.com/for-110-years-climate-change-has-been-in-the-news-are-we-finally-ready-to-listen-188646"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 11:01:55",
       "https://news.ycombinator.com/item?id=32519547"
     ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2022-08-18, 19:10:13",
-      "https://news.ycombinator.com/item?id=32513651"
-    ],
-    [
-      "Third-polarizing-filter experiment demystified (2004)",
-      "http://alienryderflex.com/polarizer/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 19:06:38",
-      "https://news.ycombinator.com/item?id=32513599"
-    ],
-    [
-      "But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)",
-      "https://www.thezdi.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 19:00:00",
       "https://news.ycombinator.com/item?id=32513532"
     ],
@@ -191,52 +211,22 @@
   ],
   [
     [
-      "2022-08-18, 18:32:13",
-      "https://news.ycombinator.com/item?id=32513240"
-    ],
-    [
-      "Shouting in the Datacenter (2008) [video]",
-      "https://www.youtube.com/watch?v=tDacjrSCeq4"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 18:12:31",
-      "https://news.ycombinator.com/item?id=32513020"
-    ],
-    [
-      "Whytheluckystiff's original domain back as an archive",
-      "https://whytheluckystiff.net/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 18:03:51",
-      "https://news.ycombinator.com/item?id=32512918"
-    ],
-    [
-      "Tornado Cash and collateral damage",
-      "https://lwn.net/SubscriberLink/904960/21b6c0e8aea8f235/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 17:45:48",
-      "https://news.ycombinator.com/item?id=32512715"
-    ],
-    [
-      "Millet, a Language Server for SML",
-      "https://azdavis.net/posts/millet/"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 16:19:38",
       "https://news.ycombinator.com/item?id=32511635"
     ],
     [
       "The Affair Rekindled: Dreyfus and the effect it had on a young Marcel Proust",
       "https://theamericanscholar.org/the-affair-rekindled/"
+    ]
+  ],
+  [
+    [
+      "2022-08-18, 15:35:06",
+      "https://news.ycombinator.com/item?id=32511086"
+    ],
+    [
+      "PayPal phishing scam uses invoices sent via PayPal",
+      "https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Happiness Is Two Scales",
       "https://www.atvbt.com/happiness-is-two-scales/"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 21:40:56",
+      "https://news.ycombinator.com/item?id=32502072"
+    ],
+    [
+      "Can the Visa-Mastercard duopoly be broken?",
+      "https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken"
     ]
   ],
   [
