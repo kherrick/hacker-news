@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-08-19, 13:02:01",
+      "https://news.ycombinator.com/item?id=32520450"
+    ],
+    [
+      "TikTok’s in-app browser could be keylogging, privacy analysis warns",
+      "https://techcrunch.com/2022/08/19/tiktok-fb-in-app-browser-tracking-analysis/"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 12:32:44",
       "https://news.ycombinator.com/item?id=32520182"
     ],
     [
       "API security: Broken access controls, injection attacks plague the enterprise",
       "https://portswigger.net/daily-swig/api-security-broken-access-controls-injection-attacks-plague-the-enterprise-security-landscape-in-2022"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 12:32:33",
+      "https://news.ycombinator.com/item?id=32520180"
+    ],
+    [
+      "Integrating variants in 42k autism cases identifies mutations in new genes",
+      "https://www.nature.com/articles/s41588-022-01148-2"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 12:14:06",
+      "https://news.ycombinator.com/item?id=32520042"
+    ],
+    [
+      "Berry Paradox",
+      "https://en.wikipedia.org/wiki/Berry_paradox"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2022-08-19, 11:59:38",
+      "https://news.ycombinator.com/item?id=32519918"
+    ],
+    [
+      "The James Webb Space Telescope Runs JavaScript, Apparently",
+      "https://www.theverge.com/2022/8/18/23206110/james-webb-space-telescope-javascript-jwst-instrument-control"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 11:53:43",
       "https://news.ycombinator.com/item?id=32519881"
     ],
     [
       "Serving Netflix Video Traffic at 800Gb/s and Beyond [pdf]",
       "http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 11:51:03",
-      "https://news.ycombinator.com/item?id=32519861"
-    ],
-    [
-      "For 110 years, climate change has been in the news",
-      "https://theconversation.com/for-110-years-climate-change-has-been-in-the-news-are-we-finally-ready-to-listen-188646"
     ]
   ],
   [
@@ -101,6 +131,16 @@
   ],
   [
     [
+      "2022-08-19, 04:28:13",
+      "https://news.ycombinator.com/item?id=32517549"
+    ],
+    [
+      "The Histories Hidden in the Periodic Table",
+      "https://www.newyorker.com/science/elements/the-histories-hidden-in-the-periodic-table"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 04:26:04",
       "https://news.ycombinator.com/item?id=32517539"
     ],
@@ -131,6 +171,16 @@
   ],
   [
     [
+      "2022-08-19, 03:03:37",
+      "https://news.ycombinator.com/item?id=32517231"
+    ],
+    [
+      "The World Has Passed ‘Peak Agricultural Land’",
+      "https://singularityhub.com/2022/08/18/after-millennia-of-agricultural-expansion-the-world-has-passed-peak-agricultural-land/"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 01:40:01",
       "https://news.ycombinator.com/item?id=32516826"
     ],
@@ -147,16 +197,6 @@
     [
       "Why is the OpenBSD documentation so good?",
       "https://dataswamp.org/~solene/2022-08-18-why-openbsd-documentation-is-good.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 22:13:51",
-      "https://news.ycombinator.com/item?id=32515511"
-    ],
-    [
-      "Simple mix of soap and solvent could help destroy ‘forever chemicals’",
-      "https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals"
     ]
   ],
   [
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2022-08-18, 20:57:57",
-      "https://news.ycombinator.com/item?id=32514793"
-    ],
-    [
-      "See what JavaScript commands get injected through an in-app browser",
-      "https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser"
-    ]
-  ],
-  [
-    [
       "2022-08-18, 19:36:47",
       "https://news.ycombinator.com/item?id=32513927"
     ],
     [
       "I love my GPD Micro PC",
       "https://blog.danieljanus.pl/2022/08/18/i-love-my-gpd-micro-pc/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 19:00:00",
-      "https://news.ycombinator.com/item?id=32513532"
-    ],
-    [
-      "Unofficial Spotify Client for the Nintendo Switch (PoC)",
-      "https://gbatemp.net/threads/90spot-spotify-for-nintendo-switch-proof-of-concept.617533/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Learn to sew your own outdoor gear",
       "https://learnmyog.com/"
-    ]
-  ],
-  [
-    [
-      "2022-08-18, 10:39:10",
-      "https://news.ycombinator.com/item?id=32507643"
-    ],
-    [
-      "Happiness Is Two Scales",
-      "https://www.atvbt.com/happiness-is-two-scales/"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 21:40:56",
-      "https://news.ycombinator.com/item?id=32502072"
-    ],
-    [
-      "Can the Visa-Mastercard duopoly be broken?",
-      "https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken"
     ]
   ],
   [
