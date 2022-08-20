@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-08-19, 23:24:31",
-      "https://news.ycombinator.com/item?id=32527318"
+      "2022-08-20, 01:01:09",
+      "https://news.ycombinator.com/item?id=32527975"
     ],
     [
-      "Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin",
-      "https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/"
+      "Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service",
+      "https://www.svix.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 23:25:15",
+      "https://news.ycombinator.com/item?id=32527321"
+    ],
+    [
+      "High-Speed Rail Board Completes Environmental Clearance in Northern California",
+      "https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2022-08-19, 17:02:07",
-      "https://news.ycombinator.com/item?id=32523531"
-    ],
-    [
-      "DevCycle (YC W14) is hiring feature flag developers to fix software innovation",
-      "https://devcycle.com/company/careers"
-    ]
-  ],
-  [
-    [
       "2022-08-19, 16:28:03",
       "https://news.ycombinator.com/item?id=32523067"
     ],
@@ -187,6 +187,16 @@
     [
       "Show HN: SineRider - A game about love, math, and graphing built by teenagers",
       "https://sinerider.com/"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 13:47:09",
+      "https://news.ycombinator.com/item?id=32520882"
+    ],
+    [
+      "LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)",
+      "https://wiki.eth0.nl/index.php/LackRack"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-08-19, 10:03:45",
-      "https://news.ycombinator.com/item?id=32519206"
+      "2022-08-19, 09:55:49",
+      "https://news.ycombinator.com/item?id=32519156"
     ],
     [
-      "RFC 9293: Transmission Control Protocol (TCP)",
-      "https://www.rfc-editor.org/rfc/rfc9293"
+      "For many neurodiverse people, 'The Sims' has been a lifelong comfort",
+      "https://www.cnn.com/2022/08/18/us/sims-autism-adhd-video-games-community-wellness-cec/index.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Show HN: Modifying Clang for a Safer, More Explicit C++",
       "https://github.com/compiler-devel/llvm-project/commit/cfd497fadb8bae4c5428f40ea50cfc760649afa4"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 15:43:10",
-      "https://news.ycombinator.com/item?id=32497840"
-    ],
-    [
-      "NeatChart – Beautiful Data Visualization Powered by Unreal Engine 5",
-      "https://neatchart.io/"
     ]
   ],
   [
