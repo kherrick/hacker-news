@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-20, 03:55:20",
+      "https://news.ycombinator.com/item?id=32528919"
+    ],
+    [
+      "Uncommon Uses of Python in Commonly Used Libraries",
+      "https://eugeneyan.com/writing/uncommon-python/"
+    ]
+  ],
+  [
+    [
       "2022-08-20, 03:28:12",
       "https://news.ycombinator.com/item?id=32528769"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2022-08-20, 02:32:31",
-      "https://news.ycombinator.com/item?id=32528459"
+      "2022-08-20, 03:05:33",
+      "https://news.ycombinator.com/item?id=32528647"
     ],
     [
-      "Don’t plug in that free Microsoft Office USB drive you got in the mail",
-      "https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html"
+      "Experts troubled by Canada’s euthanasia laws",
+      "https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32528270"
     ],
     [
-      "Is Haskell the language of geniuses and academia?",
+      "Is Haskell really the language of geniuses and academia? (2019)",
       "https://habr.com/en/post/441350/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32527321"
     ],
     [
-      "High-Speed Rail Board Completes Environmental Clearance in Northern California",
+      "High-speed rail board completes environmental clearance in northern California",
       "https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32526122"
     ],
     [
-      "Seeing Like a State, Progress and Poverty, and Owning Land",
+      "Seeing like a state, progress and poverty, and owning land",
       "http://www.loukidelis.com/on-land-ownership.html"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32524702"
     ],
     [
-      "Resolving an Unusual WiFi Issue",
+      "Resolving an unusual WiFi issue",
       "https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/"
     ]
   ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2022-08-19, 15:39:43",
-      "https://news.ycombinator.com/item?id=32522376"
-    ],
-    [
-      "A lab pursuing de-extinction of the thylacine partners with a genetics company",
-      "https://www.unimelb.edu.au/newsroom/news/2022/august/lab-takes-giant-leap-toward-thylacine-de-extinction-with-colossal-genetic-engineering-technology-partnership2"
-    ]
-  ],
-  [
-    [
       "2022-08-19, 14:29:02",
       "https://news.ycombinator.com/item?id=32521395"
     ],
     [
       "Show HN: SineRider - A game about love, math, and graphing built by teenagers",
       "https://sinerider.com/"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 13:17:29",
-      "https://news.ycombinator.com/item?id=32520593"
-    ],
-    [
-      "Shazam Turns 20",
-      "https://www.apple.com/newsroom/2022/08/shazam-turns-20/"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=32507659"
     ],
     [
-      "How I Learned to Stop Worrying and Love Macros",
+      "How I learned to stop worrying and love macros",
       "https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=32497193"
     ],
     [
-      "Pent-up angst in the community about the erosion of the Mac experience",
+      "The erosion of the Mac experience",
       "https://twitter.com/stroughtonsmith/status/1559680018996944898"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 14:05:21",
+      "https://news.ycombinator.com/item?id=32496550"
+    ],
+    [
+      "Beyond Linear Perspective: Art, Human Vision, and Computer Graphics",
+      "https://www.dgp.toronto.edu/~hertzman/sig22-perspective/"
     ]
   ]
 ]
