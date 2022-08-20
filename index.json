@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-08-20, 14:31:33",
+      "https://news.ycombinator.com/item?id=32532313"
+    ],
+    [
+      "Supabase Vault",
+      "https://supabase.com/blog/supabase-vault"
+    ]
+  ],
+  [
+    [
       "2022-08-20, 13:53:30",
       "https://news.ycombinator.com/item?id=32532072"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2022-08-20, 06:12:54",
-      "https://news.ycombinator.com/item?id=32529604"
-    ],
-    [
-      "Show HN: Euporie Console – a terminal console for Jupyter kernels",
-      "https://euporie.readthedocs.io/en/latest/apps/console.html"
-    ]
-  ],
-  [
-    [
       "2022-08-20, 05:55:55",
       "https://news.ycombinator.com/item?id=32529526"
     ],
     [
       "Cosmopolitan Libc v2.0",
       "https://github.com/jart/cosmopolitan/releases/tag/2.0"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 05:43:43",
-      "https://news.ycombinator.com/item?id=32529457"
-    ],
-    [
-      "Freedom and Privacy: Two Sides of the Same Coin",
-      "https://dergigi.com/2022/06/19/freedom-and-privacy/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "OpenGEM: Non-multitasking 16-bit graphical user interface (GUI) for DOS",
       "https://www.opendawn.com/opengem/"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 16:09:01",
+      "https://news.ycombinator.com/item?id=32498189"
+    ],
+    [
+      "Federated Credential Management API",
+      "https://fedidcg.github.io/FedCM/"
     ]
   ]
 ]
