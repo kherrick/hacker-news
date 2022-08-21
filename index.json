@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-21, 06:19:04",
+      "https://news.ycombinator.com/item?id=32537844"
+    ],
+    [
+      "Why I'm Publishing My Next Book on Substack",
+      "https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next"
+    ]
+  ],
+  [
+    [
       "2022-08-21, 05:08:56",
       "https://news.ycombinator.com/item?id=32537565"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2022-08-21, 04:17:21",
+      "https://news.ycombinator.com/item?id=32537374"
+    ],
+    [
+      "Color Journey",
+      "https://boltkey.github.io/color-journey/"
+    ]
+  ],
+  [
+    [
       "2022-08-21, 03:09:56",
       "https://news.ycombinator.com/item?id=32537073"
     ],
     [
       "JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time",
       "https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-21, 02:10:55",
+      "https://news.ycombinator.com/item?id=32536808"
+    ],
+    [
+      "Hacking around with the ScotRail audio announcements",
+      "https://simonwillison.net/2022/Aug/21/scotrail/"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2022-08-20, 16:09:36",
-      "https://news.ycombinator.com/item?id=32533061"
-    ],
-    [
-      "Faster zlib/DEFLATE decompression on the Apple M1 (and x86)",
-      "https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 15:45:52",
-      "https://news.ycombinator.com/item?id=32532875"
-    ],
-    [
-      "Tell HN: A new way to use GPT-3 to generate code (and everything else)",
-      "https://news.ycombinator.com/item?id=32532875"
-    ]
-  ],
-  [
-    [
       "2022-08-20, 14:49:41",
       "https://news.ycombinator.com/item?id=32532438"
     ],
@@ -227,16 +237,6 @@
     [
       "Fan-Out Packaging Gets Competitive",
       "https://semiengineering.com/fan-out-packaging-gets-competitive/"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 08:52:04",
-      "https://news.ycombinator.com/item?id=32518791"
-    ],
-    [
-      "Float Toy",
-      "https://evanw.github.io/float-toy/"
     ]
   ],
   [
