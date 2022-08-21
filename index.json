@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-08-20, 23:50:50",
-      "https://news.ycombinator.com/item?id=32536155"
+      "2022-08-21, 01:23:04",
+      "https://news.ycombinator.com/item?id=32536590"
     ],
     [
-      "Gauss's Day of Reckoning",
-      "https://www.americanscientist.org/article/gausss-day-of-reckoning"
+      "Beyond Hyperanthropomorphism. Or, why fears of AI are not even wrong",
+      "https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism"
+    ]
+  ],
+  [
+    [
+      "2022-08-21, 01:01:31",
+      "https://news.ycombinator.com/item?id=32536494"
+    ],
+    [
+      "Ivy (YC W23) is hiring developers to help unify ML",
+      "https://www.ycombinator.com/companies/ivy/jobs"
+    ]
+  ],
+  [
+    [
+      "2022-08-21, 00:40:19",
+      "https://news.ycombinator.com/item?id=32536384"
+    ],
+    [
+      "Show HN: As your priorities change, your Google calendar gets rearranged by AI",
+      "https://www.atomiclife.app/"
     ]
   ],
   [
@@ -47,26 +67,6 @@
     [
       "Let's Try Gnome Boxes",
       "https://glovesoff.substack.com/p/lets-try-gnome-boxes"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 21:01:28",
-      "https://news.ycombinator.com/item?id=32535113"
-    ],
-    [
-      "OneSignal (YC S11) is hiring back end and full stack engineers",
-      "https://onesignal.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 20:51:08",
-      "https://news.ycombinator.com/item?id=32535059"
-    ],
-    [
-      "The Merge is approaching, and comes with changes to Ethereum",
-      "https://ethereum.org/en/upgrades/merge/"
     ]
   ],
   [
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2022-08-20, 17:34:31",
-      "https://news.ycombinator.com/item?id=32533750"
-    ],
-    [
-      "The Transputer Handbook (1990) [pdf]",
-      "http://www.transputer.net/iset/isbn-013929134-2/tthb.pdf"
-    ]
-  ],
-  [
-    [
       "2022-08-20, 17:14:19",
       "https://news.ycombinator.com/item?id=32533616"
     ],
     [
       "Put it on the crazy pile: Ideas and creativity",
       "https://bastian.rieck.me/blog/posts/2022/crazy_pile/"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 16:38:49",
-      "https://news.ycombinator.com/item?id=32533304"
-    ],
-    [
-      "Book Review: 1587, a Year of No Significance",
-      "https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no"
     ]
   ],
   [
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32532505"
     ],
     [
-      "So you want to be a consultant?",
+      "So you want to be a consultant? (2005)",
       "http://unixwiz.net/techtips/be-consultant.html"
     ]
   ],
@@ -211,16 +191,6 @@
   ],
   [
     [
-      "2022-08-20, 13:46:46",
-      "https://news.ycombinator.com/item?id=32532029"
-    ],
-    [
-      "The Silence of Risk Management Victory",
-      "https://riskmusings.substack.com/p/the-silence-of-risk-management-victory"
-    ]
-  ],
-  [
-    [
       "2022-08-20, 12:20:47",
       "https://news.ycombinator.com/item?id=32531484"
     ],
@@ -237,6 +207,16 @@
     [
       "C++ Concurrency Model on x86 for Dummies (2020)",
       "http://databasearchitects.blogspot.com/2020/10/c-concurrency-model-on-x86-for-dummies.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 11:01:01",
+      "https://news.ycombinator.com/item?id=32519532"
+    ],
+    [
+      "Complex of 500 standing stones found in Spain",
+      "https://phys.org/news/2022-08-huge-complex-stones-spain.html"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2022-08-19, 07:27:03",
+      "https://news.ycombinator.com/item?id=32518360"
+    ],
+    [
+      "On Being Busy",
+      "https://blog.aadilali.com/posts/busy.html"
+    ]
+  ],
+  [
+    [
       "2022-08-19, 06:07:39",
       "https://news.ycombinator.com/item?id=32517948"
     ],
     [
       "Scientists discover how mosquitoes can ‘sniff out’ humans",
       "https://www.theguardian.com/science/2022/aug/18/scientists-discover-how-mosquitoes-can-sniff-out-humans"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 15:39:34",
+      "https://news.ycombinator.com/item?id=32497780"
+    ],
+    [
+      "There’s No Speed Limit",
+      "https://sive.rs/kimo"
     ]
   ],
   [
