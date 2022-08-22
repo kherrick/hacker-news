@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-22, 19:27:14",
+      "https://news.ycombinator.com/item?id=32556048"
+    ],
+    [
+      "A General Overview of What Happens Before main() (2019)",
+      "https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 19:17:31",
+      "https://news.ycombinator.com/item?id=32555895"
+    ],
+    [
+      "Google Timer is back",
+      "https://www.google.com/search?q=timer+6+minutes"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 18:51:03",
       "https://news.ycombinator.com/item?id=32555561"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-08-22, 12:21:35",
-      "https://news.ycombinator.com/item?id=32550328"
-    ],
-    [
-      "TMTP a Internet protocol combining elements of email and the web",
-      "https://mnmnotmail.org/"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 12:14:32",
       "https://news.ycombinator.com/item?id=32550267"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2022-08-22, 08:39:32",
-      "https://news.ycombinator.com/item?id=32548853"
-    ],
-    [
-      "QEMU Internals (2021)",
-      "https://airbus-seclab.github.io/qemu_blog/"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 08:12:28",
       "https://news.ycombinator.com/item?id=32548671"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-08-21, 11:02:40",
+      "https://news.ycombinator.com/item?id=32538995"
+    ],
+    [
+      "Stress distribution and surface shock wave of drop impact",
+      "https://www.nature.com/articles/s41467-022-29345-x"
+    ]
+  ],
+  [
+    [
       "2022-08-21, 07:45:30",
       "https://news.ycombinator.com/item?id=32538178"
     ],
     [
       "I Implemented Nyströmformer",
       "https://github.com/Rishit-dagli/Nystromformer"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 21:37:26",
-      "https://news.ycombinator.com/item?id=32535332"
-    ],
-    [
-      "Techniques and strategies for prototyping electronics circuits (2020)",
-      "https://www.youtube.com/watch?v=vq968AFgPhg"
     ]
   ]
 ]
