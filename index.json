@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-22, 07:25:56",
+      "https://news.ycombinator.com/item?id=32548359"
+    ],
+    [
+      "Increased CVE Activity in Curl?",
+      "https://daniel.haxx.se/blog/2022/08/22/increased-cve-activity-in-curl/"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 06:39:36",
       "https://news.ycombinator.com/item?id=32548085"
     ],
@@ -287,16 +297,6 @@
     [
       "A DAW made in Excel (2020) [video]",
       "https://www.youtube.com/watch?v=RFdCM2kHL64"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 11:57:13",
-      "https://news.ycombinator.com/item?id=32495070"
-    ],
-    [
-      "PicoLisp is an open source Lisp dialect",
-      "https://github.com/picolisp/pil21"
     ]
   ]
 ]
