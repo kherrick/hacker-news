@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-22, 12:28:43",
+      "https://news.ycombinator.com/item?id=32550391"
+    ],
+    [
+      "Euro falls below parity with the dollar",
+      "https://www.reuters.com/markets/us/dollar-hits-5-week-high-hawkish-fed-before-jackson-hole-2022-08-22/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 12:21:35",
+      "https://news.ycombinator.com/item?id=32550328"
+    ],
+    [
+      "TMTP a Internet protocol combining elements of email and the web",
+      "https://mnmnotmail.org/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 12:05:48",
+      "https://news.ycombinator.com/item?id=32550211"
+    ],
+    [
+      "The downfall of smart TVs: From promises of seamless viewing to ad tool",
+      "https://adguard.com/en/blog/smart-tv-ad-blocking.html"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 10:43:53",
       "https://news.ycombinator.com/item?id=32549653"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2022-08-22, 10:38:00",
-      "https://news.ycombinator.com/item?id=32549619"
+      "2022-08-22, 10:35:38",
+      "https://news.ycombinator.com/item?id=32549604"
     ],
     [
-      "Ask HN: Should I Log Errors, Throw Errors or Both?",
-      "https://news.ycombinator.com/item?id=32549619"
+      "Audible feedback on just how much your browsing feeds into Google",
+      "https://github.com/berthubert/googerteller"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Ridiculous vulnerability disclosure process with CrowdStrike Falcon Sensor",
       "https://www.modzero.com/modlog/archives/2022/08/22/ridiculous_vulnerability_disclosure_process_with_crowdstrike_falcon_sensor/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 07:25:56",
-      "https://news.ycombinator.com/item?id=32548359"
-    ],
-    [
-      "Increased CVE Activity in Curl?",
-      "https://daniel.haxx.se/blog/2022/08/22/increased-cve-activity-in-curl/"
     ]
   ],
   [
@@ -191,22 +211,12 @@
   ],
   [
     [
-      "2022-08-21, 22:15:47",
-      "https://news.ycombinator.com/item?id=32545023"
+      "2022-08-21, 21:08:30",
+      "https://news.ycombinator.com/item?id=32544458"
     ],
     [
-      "The Church of Interruption (2018)",
-      "https://sambleckley.com/writing/church-of-interruption.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-21, 21:00:45",
-      "https://news.ycombinator.com/item?id=32544395"
-    ],
-    [
-      "New evidence shows water separates into two different liquids at low temperature",
-      "https://www.birmingham.ac.uk/news/2022/new-evidence-shows-water-separates-into-two-different-liquids-at-low-temperatures"
+      "BuildZoom (YC W13) is hiring a principal engineer",
+      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Integers, Decibels, and Graphs",
       "https://leancrew.com/all-this/2022/08/integers-decibels-and-graphs/"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 00:08:54",
-      "https://news.ycombinator.com/item?id=32527613"
-    ],
-    [
-      "The U.S. Army’s “Camel Corps” Experiment (2021)",
-      "https://armyhistory.org/the-u-s-armys-camel-corps-experiment/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32495070"
     ],
     [
-      "PicoLisp is an open source Lisp dialect",
+      "PicoLisp",
       "https://github.com/picolisp/pil21"
     ]
   ]
