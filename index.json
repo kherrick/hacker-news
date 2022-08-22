@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=32548853"
     ],
     [
-      "QEMU Internals",
+      "QEMU Internals (2021)",
       "https://airbus-seclab.github.io/qemu_blog/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 08:12:28",
+      "https://news.ycombinator.com/item?id=32548671"
+    ],
+    [
+      "Ridiculous vulnerability disclosure process with CrowdStrike Falcon Sensor",
+      "https://www.modzero.com/modlog/archives/2022/08/22/ridiculous_vulnerability_disclosure_process_with_crowdstrike_falcon_sensor/index.html"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32546810"
     ],
     [
-      "NYC Fire Department forcible entry reference guide [pdf]",
+      "NYC Fire Department forcible entry reference guide [pdf] (2006)",
       "https://ia800207.us.archive.org/15/items/FDNYforcibleEntryReferenceGuide/FDNY_Forcible_entry_reference_guide.pdf"
     ]
   ],
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2022-08-21, 18:05:37",
-      "https://news.ycombinator.com/item?id=32542752"
+      "2022-08-21, 18:26:00",
+      "https://news.ycombinator.com/item?id=32542968"
     ],
     [
-      "Gojq: Pure Go Implementation of Jq",
-      "https://github.com/itchyny/gojq"
-    ]
-  ],
-  [
-    [
-      "2022-08-21, 17:53:49",
-      "https://news.ycombinator.com/item?id=32542633"
-    ],
-    [
-      "Outdoor Sound Propagation in the U.S. Civil War (1999)",
-      "http://wesclark.com/jw/sound_propagation.html"
+      "uBlock Origin works best on Firefox",
+      "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox"
     ]
   ],
   [
