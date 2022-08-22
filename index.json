@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32556523"
     ],
     [
-      "Using the power of the sun to roast green chiles",
+      "Using the power of the sun to roast green chile",
       "https://www.sandia.gov/labnews/2022/06/30/using-the-power-of-the-sun-to-roast-green-chile/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32556048"
     ],
     [
-      "A General Overview of What Happens Before main() (2019)",
+      "A general overview of what happens before main() (2019)",
       "https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "OpenAI API pricing update FAQ",
       "https://help.openai.com/en/articles/6485334-openai-api-pricing-update-faq"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 17:18:18",
-      "https://news.ycombinator.com/item?id=32554401"
-    ],
-    [
-      "Pigeon – Send Messages by Carrier Pigeon",
-      "https://flypigeon.co/"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2022-08-22, 12:44:26",
-      "https://news.ycombinator.com/item?id=32550543"
-    ],
-    [
-      "SurrealDB – Document-graph database, for the realtime web",
-      "https://surrealdb.com/"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 12:14:32",
       "https://news.ycombinator.com/item?id=32550267"
     ],
@@ -237,6 +217,16 @@
     [
       "Shooting at midday (2019)",
       "https://scottkelby.com/shooting-at-midday/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 10:43:53",
+      "https://news.ycombinator.com/item?id=32549653"
+    ],
+    [
+      "Visualizing Toxic Air",
+      "https://www.propublica.org/nerds/visualizing-toxic-air"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Stress distribution and surface shock wave of drop impact",
       "https://www.nature.com/articles/s41467-022-29345-x"
+    ]
+  ],
+  [
+    [
+      "2022-08-21, 07:45:30",
+      "https://news.ycombinator.com/item?id=32538178"
+    ],
+    [
+      "I Implemented Nyströmformer",
+      "https://github.com/Rishit-dagli/Nystromformer"
     ]
   ]
 ]
