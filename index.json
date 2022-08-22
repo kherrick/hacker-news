@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-08-22, 13:00:32",
+      "https://news.ycombinator.com/item?id=32550717"
+    ],
+    [
+      "Apple Expands Self Service Repair to Mac Notebooks",
+      "https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 12:44:26",
+      "https://news.ycombinator.com/item?id=32550543"
+    ],
+    [
+      "Cloud database for tomorrow's applications (written in Rust)",
+      "https://surrealdb.com/"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 12:28:43",
       "https://news.ycombinator.com/item?id=32550391"
     ],
     [
       "Euro falls below parity with the dollar",
       "https://www.reuters.com/markets/us/dollar-hits-5-week-high-hawkish-fed-before-jackson-hole-2022-08-22/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 12:22:52",
+      "https://news.ycombinator.com/item?id=32550336"
+    ],
+    [
+      "Cory Doctorow: The Shitty Technology Adoption Curve Reaches Apogee",
+      "https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 12:21:47",
+      "https://news.ycombinator.com/item?id=32550330"
+    ],
+    [
+      "UK inflation forecast to hit 18.6% next year, energy bills may rise to £6000",
+      "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567"
     ]
   ],
   [
@@ -37,6 +77,16 @@
     [
       "Visualizing Toxic Air",
       "https://www.propublica.org/nerds/visualizing-toxic-air"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 10:41:30",
+      "https://news.ycombinator.com/item?id=32549642"
+    ],
+    [
+      "The hitchhiker’s guide to iPhone Lightning and JTAG hacking [slides] [pdf]",
+      "https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2022-08-22, 05:21:50",
-      "https://news.ycombinator.com/item?id=32547649"
-    ],
-    [
-      "React PDF Viewer",
-      "https://github.com/react-pdf-viewer/react-pdf-viewer"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 04:10:52",
       "https://news.ycombinator.com/item?id=32547253"
     ],
@@ -167,16 +207,6 @@
     [
       "Applying a rule from Pixar with a camera from 1961",
       "https://news.gregjeanneau.com/pixar-camera-1961/"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 02:24:16",
-      "https://news.ycombinator.com/item?id=32546616"
-    ],
-    [
-      "The life and sketchy business practices of Crazy Eddie",
-      "https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html"
     ]
   ],
   [
@@ -211,12 +241,12 @@
   ],
   [
     [
-      "2022-08-21, 21:08:30",
-      "https://news.ycombinator.com/item?id=32544458"
+      "2022-08-20, 21:37:26",
+      "https://news.ycombinator.com/item?id=32535332"
     ],
     [
-      "BuildZoom (YC W13) is hiring a principal engineer",
-      "https://jobs.lever.co/buildzoom"
+      "Techniques and strategies for prototyping electronics circuits (2020)",
+      "https://www.youtube.com/watch?v=vq968AFgPhg"
     ]
   ],
   [
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2022-08-17, 17:28:05",
-      "https://news.ycombinator.com/item?id=32499254"
-    ],
-    [
-      "I Choose Optimism",
-      "https://secularhumanism.org/2022/08/i-choose-optimism/"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 16:31:00",
-      "https://news.ycombinator.com/item?id=32498463"
-    ],
-    [
-      "A group of con artists rigged promotional sweepstakes throughout the 1980s",
-      "https://www.newyorker.com/news/american-chronicles/donald-trump-and-the-sweepstakes-scammers"
-    ]
-  ],
-  [
-    [
       "2022-08-17, 13:47:50",
       "https://news.ycombinator.com/item?id=32496314"
     ],
     [
       "The Product Culture Shift",
       "https://www.elidedbranches.com/2022/08/the-product-culture-shift.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-17, 13:45:35",
-      "https://news.ycombinator.com/item?id=32496285"
-    ],
-    [
-      "Mercedes and Ferrari’s edge in the electric car age: high-end axial motors",
-      "https://www.bloomberg.com/news/articles/2022-08-17/mercedes-and-ferrari-s-edge-in-the-electric-age-high-end-motors"
     ]
   ],
   [
