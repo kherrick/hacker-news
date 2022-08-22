@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-22, 14:04:15",
+      "https://news.ycombinator.com/item?id=32551512"
+    ],
+    [
+      "Clip Control on the Apple GPU",
+      "https://rosenzweig.io/blog/asahi-gpu-part-6.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 14:01:20",
+      "https://news.ycombinator.com/item?id=32551475"
+    ],
+    [
+      "59% of Americans worry student loan forgiveness will make inflation worse",
+      "https://www.cnbc.com/2022/08/22/americans-are-concerned-student-loan-forgiveness-will-worsen-inflation.html"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 13:27:30",
       "https://news.ycombinator.com/item?id=32551033"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32550543"
     ],
     [
-      "Cloud database for tomorrow's applications (written in Rust)",
+      "SurrealDB – Document-graph database, for the realtime web",
       "https://surrealdb.com/"
     ]
   ],
@@ -65,18 +85,8 @@
       "https://news.ycombinator.com/item?id=32550336"
     ],
     [
-      "Cory Doctorow: The Shitty Technology Adoption Curve Reaches Apogee",
+      "Workplace surveillance is coming for you",
       "https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 12:21:47",
-      "https://news.ycombinator.com/item?id=32550330"
-    ],
-    [
-      "UK inflation forecast to hit 18.6% next year, energy bills may rise to £6000",
-      "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Using Multiband Embedded Antennas to Save Space, Complexity, and Cost in IoT",
       "https://www.digikey.it/en/articles/how-to-use-multiband-embedded-antennas-to-save-iot-designs"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 10:02:00",
-      "https://news.ycombinator.com/item?id=32549401"
-    ],
-    [
-      "Global Code Time Report",
-      "https://www.software.com/reports/code-time-report"
     ]
   ],
   [
