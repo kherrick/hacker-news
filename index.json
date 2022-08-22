@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-22, 18:08:23",
+      "https://news.ycombinator.com/item?id=32555028"
+    ],
+    [
+      "Stable Diffusion Public Release – Stability.ai",
+      "https://stability.ai/blog/stable-diffusion-public-release"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 17:32:02",
       "https://news.ycombinator.com/item?id=32554594"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2022-08-22, 16:32:27",
-      "https://news.ycombinator.com/item?id=32553758"
-    ],
-    [
-      "Show HN: Largest collection of pitch deck, videos and memos to fund my education",
-      "https://fundingfyre.com/"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 16:19:59",
       "https://news.ycombinator.com/item?id=32553597"
     ],
@@ -87,6 +87,16 @@
     [
       "Show HN: Turn spare cash into sustainable investments that directly change lives",
       "https://news.ycombinator.com/item?id=32553267"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 15:24:28",
+      "https://news.ycombinator.com/item?id=32552782"
+    ],
+    [
+      "A plain-text file format for todos and check lists",
+      "https://github.com/jotaen/xit"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-08-22, 10:41:30",
-      "https://news.ycombinator.com/item?id=32549642"
-    ],
-    [
-      "The hitchhiker’s guide to iPhone Lightning and JTAG hacking [slides] [pdf]",
-      "https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 10:35:38",
       "https://news.ycombinator.com/item?id=32549604"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-08-22, 02:44:53",
-      "https://news.ycombinator.com/item?id=32546731"
+      "2022-08-21, 07:45:30",
+      "https://news.ycombinator.com/item?id=32538178"
     ],
     [
-      "Applying a rule from Pixar with a camera from 1961",
-      "https://news.gregjeanneau.com/pixar-camera-1961/"
+      "I Implemented Nyströmformer",
+      "https://github.com/Rishit-dagli/Nystromformer"
     ]
   ],
   [
