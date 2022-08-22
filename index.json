@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-08-22, 05:12:29",
-      "https://news.ycombinator.com/item?id=32547605"
-    ],
-    [
-      "Tell HN: Google Cloud suspended our production projects at 1am on Saturday",
-      "https://news.ycombinator.com/item?id=32547605"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 04:10:52",
       "https://news.ycombinator.com/item?id=32547253"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=32547236"
     ],
     [
-      "A Deceptive Curing Practice in Hunter–Gatherer Societies",
+      "A deceptive curing practice in hunter–Gatherer societies",
       "https://www.mdpi.com/2673-9461/2/3/7/htm"
     ]
   ],
@@ -181,32 +171,22 @@
   ],
   [
     [
+      "2022-08-21, 17:47:27",
+      "https://news.ycombinator.com/item?id=32542552"
+    ],
+    [
+      "All Algorithms Implemented in Rust",
+      "https://github.com/TheAlgorithms/Rust"
+    ]
+  ],
+  [
+    [
       "2022-08-21, 17:18:05",
       "https://news.ycombinator.com/item?id=32542260"
     ],
     [
       "Good conversations have lots of doorknobs",
       "https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs"
-    ]
-  ],
-  [
-    [
-      "2022-08-21, 14:20:24",
-      "https://news.ycombinator.com/item?id=32540457"
-    ],
-    [
-      "Uacme: ACMEv2 client written in plain C with minimal dependencies",
-      "https://github.com/ndilieto/uacme"
-    ]
-  ],
-  [
-    [
-      "2022-08-21, 09:12:10",
-      "https://news.ycombinator.com/item?id=32538532"
-    ],
-    [
-      "Can We Throw Satellites to Space? [video]",
-      "https://www.youtube.com/watch?v=yrc632oilWo"
     ]
   ],
   [
@@ -281,6 +261,26 @@
   ],
   [
     [
+      "2022-08-17, 13:47:50",
+      "https://news.ycombinator.com/item?id=32496314"
+    ],
+    [
+      "The Product Culture Shift",
+      "https://www.elidedbranches.com/2022/08/the-product-culture-shift.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-17, 13:45:35",
+      "https://news.ycombinator.com/item?id=32496285"
+    ],
+    [
+      "Mercedes and Ferrari’s edge in the electric car age: high-end axial motors",
+      "https://www.bloomberg.com/news/articles/2022-08-17/mercedes-and-ferrari-s-edge-in-the-electric-age-high-end-motors"
+    ]
+  ],
+  [
+    [
       "2022-08-17, 13:09:56",
       "https://news.ycombinator.com/item?id=32495846"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32495725"
     ],
     [
-      "A DAW made in Excel (2020)",
+      "A DAW made in Excel (2020) [video]",
       "https://www.youtube.com/watch?v=RFdCM2kHL64"
     ]
   ]
