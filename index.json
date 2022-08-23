@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2022-08-23, 14:12:23",
-      "https://news.ycombinator.com/item?id=32565199"
-    ],
-    [
-      "Grow It Like a Tree",
-      "https://rohit.blog/grow/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 14:02:32",
       "https://news.ycombinator.com/item?id=32565059"
     ],
     [
-      "Ask HN: How do you organize or rename pdf files (books, papers, etc.)?",
+      "Ask HN: How do you organize or rename PDF files (books, papers, etc)?",
       "https://news.ycombinator.com/item?id=32565059"
     ]
   ],
@@ -55,8 +45,18 @@
       "https://news.ycombinator.com/item?id=32565019"
     ],
     [
-      "Twitter CEO paraga weighs in on whistleblower story sending this message",
+      "Twitter CEO Parag Agrawal on whistleblower story",
       "https://twitter.com/donie/status/1562069281545900033"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 13:35:11",
+      "https://news.ycombinator.com/item?id=32564715"
+    ],
+    [
+      "Non-Machine Learning Image Matching with a Vector DB",
+      "https://github.com/alt-text-org/image-algo-testing"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32562143"
     ],
     [
-      "Should Your Notes Be End-to-End Encrypted?",
+      "Should notes be end-to-end encrypted?",
       "https://supernotes.app/blog/posts/notes-end-to-end-encryption/"
     ]
   ],
