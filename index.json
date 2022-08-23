@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-08-23, 17:53:05",
-      "https://news.ycombinator.com/item?id=32568553"
-    ],
-    [
-      "Is there hope for Linux on smartphones?",
-      "https://media.ccc.de/v/froscon2022-2797-is_there_hope_for_linux_on_smartphones"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 17:44:36",
       "https://news.ycombinator.com/item?id=32568423"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32566851"
     ],
     [
-      "What's the big deal about embedded key-value databases like RocksDB?",
+      "What's the big deal about embedded key-value databases?",
       "https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "H1B rejected – builds unicorn back home",
       "https://twitter.com/1kunalbahl/status/1561640374900125696"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 12:31:35",
+      "https://news.ycombinator.com/item?id=32563897"
+    ],
+    [
+      "VS Code – What's the deal with the telemetry?",
+      "https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html"
     ]
   ],
   [
