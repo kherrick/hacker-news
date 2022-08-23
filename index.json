@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-23, 17:00:53",
+      "https://news.ycombinator.com/item?id=32567794"
+    ],
+    [
+      "UPchieve (EdTech Nonprofit, YC W21) is hiring senior engineers",
+      "https://upchieve.welcomekit.co/"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 16:50:21",
+      "https://news.ycombinator.com/item?id=32567637"
+    ],
+    [
+      "Every action you take is a vote for the type of person you wish to become",
+      "https://jeremyeder.com/2022/08/16/every-action-you-take-is-a-vote-for-the-type-of-person-you-wish-to-become/"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 16:38:25",
+      "https://news.ycombinator.com/item?id=32567467"
+    ],
+    [
+      "Data Partitioning and Consistent Hashing",
+      "https://www.thedigitalcatonline.com/blog/2022/08/23/data-partitioning-and-consistent-hashing/"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 16:18:56",
       "https://news.ycombinator.com/item?id=32567180"
     ],
@@ -47,6 +77,16 @@
     [
       "We used Elixir's Observer to hunt down bottlenecks",
       "https://blog.sequin.io/how-we-used-elixirs-observer-to-hunt-down-bottlenecks/"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 15:59:19",
+      "https://news.ycombinator.com/item?id=32566874"
+    ],
+    [
+      "Using signed or unsigned int by default in C",
+      "https://blog.robertelder.org/signed-or-unsigned/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-08-23, 14:53:57",
-      "https://news.ycombinator.com/item?id=32565784"
-    ],
-    [
-      "Remote startups will win the war for top talent",
-      "https://future.com/remote-startups-hire-top-talent/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 14:49:55",
       "https://news.ycombinator.com/item?id=32565722"
     ],
@@ -141,42 +171,12 @@
   ],
   [
     [
-      "2022-08-23, 14:27:48",
-      "https://news.ycombinator.com/item?id=32565417"
-    ],
-    [
-      "Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku",
-      "https://www.aptible.com/careers/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 14:24:17",
       "https://news.ycombinator.com/item?id=32565365"
     ],
     [
       "Show HN: Glue – Pandas as a DAG (Now a web app)",
       "https://gluedata.io/"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 14:19:08",
-      "https://news.ycombinator.com/item?id=32565295"
-    ],
-    [
-      "M2 MacBook Air scores higher on Windows 11 GeekBench than pricier Dell laptop",
-      "https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 14:02:32",
-      "https://news.ycombinator.com/item?id=32565059"
-    ],
-    [
-      "Ask HN: How do you organize or rename PDF files (books, papers, etc)?",
-      "https://news.ycombinator.com/item?id=32565059"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-08-22, 05:42:24",
+      "https://news.ycombinator.com/item?id=32547764"
+    ],
+    [
+      "Pure Data: an open source visual language for multimedia",
+      "https://puredata.info/"
+    ]
+  ],
+  [
+    [
       "2022-08-21, 07:08:54",
       "https://news.ycombinator.com/item?id=32538026"
     ],
     [
       "The Making of Prince of Persia [pdf]",
       "https://www.jordanmechner.com/downloads/MOPOP-sample.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 06:39:41",
-      "https://news.ycombinator.com/item?id=32518108"
-    ],
-    [
-      "Bacteriophages the Modern Way",
-      "https://www.science.org/content/blog-post/bacteriophages-modern-way"
     ]
   ]
 ]
