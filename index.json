@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-23, 17:24:51",
+      "https://news.ycombinator.com/item?id=32568138"
+    ],
+    [
+      "The Gathering Crisis",
+      "https://www.antipope.org/charlie/blog-static/2022/08/the-gathering-crisis.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 17:07:11",
+      "https://news.ycombinator.com/item?id=32567874"
+    ],
+    [
+      "SSH commit verification now supported",
+      "https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 17:00:53",
       "https://news.ycombinator.com/item?id=32567794"
     ],
@@ -17,16 +37,6 @@
     [
       "Every action you take is a vote for the type of person you wish to become",
       "https://jeremyeder.com/2022/08/16/every-action-you-take-is-a-vote-for-the-type-of-person-you-wish-to-become/"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 16:18:56",
-      "https://news.ycombinator.com/item?id=32567180"
-    ],
-    [
-      "Top Programming Languages 2022",
-      "https://spectrum.ieee.org/top-programming-languages-2022"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32566874"
     ],
     [
-      "Using signed or unsigned int by default in C",
+      "Using signed or unsigned int by default in C (2015)",
       "https://blog.robertelder.org/signed-or-unsigned/"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-08-23, 14:02:32",
-      "https://news.ycombinator.com/item?id=32565059"
-    ],
-    [
-      "Ask HN: How do you organize or rename PDF files (books, papers, etc)?",
-      "https://news.ycombinator.com/item?id=32565059"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 14:02:01",
       "https://news.ycombinator.com/item?id=32565052"
     ],
@@ -201,6 +201,36 @@
   ],
   [
     [
+      "2022-08-23, 12:35:23",
+      "https://news.ycombinator.com/item?id=32563949"
+    ],
+    [
+      "H1B rejected – builds unicorn back home",
+      "https://twitter.com/1kunalbahl/status/1561640374900125696"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 12:31:35",
+      "https://news.ycombinator.com/item?id=32563897"
+    ],
+    [
+      "VS Code – What's the deal with the telemetry?",
+      "https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 11:12:43",
+      "https://news.ycombinator.com/item?id=32563095"
+    ],
+    [
+      "Java in the Browser",
+      "https://www.jpro.one/"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 10:36:53",
       "https://news.ycombinator.com/item?id=32562815"
     ],
@@ -227,26 +257,6 @@
     [
       "Show HN: Crawlee – The web scraping and browser automation library for Node.js",
       "https://crawlee.dev/"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 04:27:13",
-      "https://news.ycombinator.com/item?id=32560466"
-    ],
-    [
-      "Risk Everything (2007)",
-      "http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 00:30:52",
-      "https://news.ycombinator.com/item?id=32559119"
-    ],
-    [
-      "An odd discovery on Spotify",
-      "https://www.robinsloan.com/newsletters/visions/#spotify"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Making of Prince of Persia [pdf]",
       "https://www.jordanmechner.com/downloads/MOPOP-sample.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-19, 06:39:41",
-      "https://news.ycombinator.com/item?id=32518108"
-    ],
-    [
-      "Bacteriophages the Modern Way",
-      "https://www.science.org/content/blog-post/bacteriophages-modern-way"
     ]
   ]
 ]
