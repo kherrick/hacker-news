@@ -1,12 +1,62 @@
 [
   [
     [
-      "2022-08-22, 22:59:18",
-      "https://news.ycombinator.com/item?id=32558389"
+      "2022-08-23, 01:08:29",
+      "https://news.ycombinator.com/item?id=32559363"
     ],
     [
-      "The False Prophecy of “AGI”: A Quick TL;DR",
-      "https://nathanieltravis.com/2022/08/22/the-false-prophecy-of-agi-a-quick-tldr/"
+      "The Best and Worst of 1994 and Predictions for '95",
+      "http://www.panix.com/~kgreenb/iw/bwv6n1.htm"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 01:08:00",
+      "https://news.ycombinator.com/item?id=32559361"
+    ],
+    [
+      "Twitter Tells Employees They Might Get Only Half Their Annual Bonus",
+      "https://www.nytimes.com/2022/08/19/technology/twitter-annual-bonus.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 01:03:52",
+      "https://news.ycombinator.com/item?id=32559328"
+    ],
+    [
+      "Why Apple Will Switch to ARM-Based Macs (2014)",
+      "https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 00:53:35",
+      "https://news.ycombinator.com/item?id=32559269"
+    ],
+    [
+      "My black body story (it's physics)",
+      "https://commandcenter.blogspot.com/2022/08/my-black-body-story-its-physics.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 00:30:52",
+      "https://news.ycombinator.com/item?id=32559119"
+    ],
+    [
+      "An odd discovery on Spotify",
+      "https://www.robinsloan.com/newsletters/visions/#spotify"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 00:14:39",
+      "https://news.ycombinator.com/item?id=32558992"
+    ],
+    [
+      "Young firms, old capital",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0304405X21004098"
     ]
   ],
   [
@@ -25,18 +75,8 @@
       "https://news.ycombinator.com/item?id=32558012"
     ],
     [
-      "A republished fork of the banned-on-sanction-order Tornado Cash repositories",
+      "Republishing a fork of the sanctioned Tornado Cash repositories",
       "https://twitter.com/matthew_d_green/status/1561813046338748417"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 21:42:21",
-      "https://news.ycombinator.com/item?id=32557672"
-    ],
-    [
-      "SQLite has pretty limited builtin functions",
-      "https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html"
     ]
   ],
   [
@@ -55,28 +95,8 @@
       "https://news.ycombinator.com/item?id=32557196"
     ],
     [
-      "Replit (YC W18) Is Hiring ML engineers to invent the future of software",
+      "Replit (YC W18) Is Hiring ML engineers",
       "https://replit.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 20:31:52",
-      "https://news.ycombinator.com/item?id=32556816"
-    ],
-    [
-      "Using Mypy in Production",
-      "https://notes.crmarsh.com/using-mypy-in-production-at-spring"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 20:09:46",
-      "https://news.ycombinator.com/item?id=32556546"
-    ],
-    [
-      "U-M researchers untangle the physics of high-temperature superconductors",
-      "https://www.nanotechnologyworld.org/post/u-m-researchers-untangle-the-physics-of-high-temperature-superconductors"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "A general overview of what happens before main() (2019)",
       "https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 19:17:31",
-      "https://news.ycombinator.com/item?id=32555895"
-    ],
-    [
-      "Google Timer is back",
-      "https://www.google.com/search?q=timer+6+minutes"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2022-08-22, 12:55:44",
+      "https://news.ycombinator.com/item?id=32550670"
+    ],
+    [
+      "A few ops lessons we all learn the hard way (2020)",
+      "https://www.netmeister.org/blog/ops-lessons.html"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 12:14:32",
       "https://news.ycombinator.com/item?id=32550267"
     ],
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2022-08-22, 10:51:01",
-      "https://news.ycombinator.com/item?id=32549713"
-    ],
-    [
-      "Shooting at midday (2019)",
-      "https://scottkelby.com/shooting-at-midday/"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 10:35:38",
-      "https://news.ycombinator.com/item?id=32549604"
-    ],
-    [
-      "Audible feedback on just how much your browsing feeds into Google",
-      "https://github.com/berthubert/googerteller"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 08:47:21",
-      "https://news.ycombinator.com/item?id=32548905"
-    ],
-    [
-      "10BASE-T using Raspberry Pi Pico with 2 GPIO pins",
-      "https://github.com/kingyoPiyo/Pico-10BASE-T"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 06:39:36",
       "https://news.ycombinator.com/item?id=32548085"
     ],
     [
       "Falsehoods programmers believe about time",
-      "https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca"
+      "https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=32547663"
     ],
     [
-      "Kings Park Psychiatric Center – one last masterpiece",
+      "Percy Crosby's Last Masterpiece: Kings Park Psychiatric Center",
       "https://www.abandonedamerica.us/one-last-masterpiece"
+    ]
+  ],
+  [
+    [
+      "2022-08-21, 16:27:17",
+      "https://news.ycombinator.com/item?id=32541708"
+    ],
+    [
+      "Music Meets the Computer: Max Mathews and John Chowning(2004)",
+      "https://www.youtube.com/watch?v=Hloic1oBfug"
     ]
   ],
   [
