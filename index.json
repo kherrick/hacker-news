@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-23, 22:22:10",
+      "https://news.ycombinator.com/item?id=32572372"
+    ],
+    [
+      "Ethereum Development Documentation",
+      "https://ethereum.org/en/developers/docs/"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 22:16:57",
+      "https://news.ycombinator.com/item?id=32572328"
+    ],
+    [
+      "Does syntax highlighting help programming novices? (2018)",
+      "https://dl.acm.org/doi/10.1007/s10664-017-9579-0"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 22:00:45",
+      "https://news.ycombinator.com/item?id=32572153"
+    ],
+    [
+      "The Future of Nginx: Getting Back to Our Open Source Roots",
+      "https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 21:53:21",
       "https://news.ycombinator.com/item?id=32572064"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-08-23, 14:42:29",
-      "https://news.ycombinator.com/item?id=32565614"
-    ],
-    [
-      "Class action against Oracle’s worldwide surveillance machine",
-      "https://www.iccl.ie/news/class-action-against-oracle/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 14:02:01",
       "https://news.ycombinator.com/item?id=32565052"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-08-22, 07:57:26",
-      "https://news.ycombinator.com/item?id=32548571"
-    ],
-    [
-      "The Ecology of a Corporate IT Workplace",
-      "http://fogus.me/static/it-ecology/"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 05:42:24",
       "https://news.ycombinator.com/item?id=32547764"
     ],
@@ -287,16 +297,6 @@
     [
       "The Making of Prince of Persia [pdf]",
       "https://www.jordanmechner.com/downloads/MOPOP-sample.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 11:57:06",
-      "https://news.ycombinator.com/item?id=32531343"
-    ],
-    [
-      "The Modular Debugger Guide",
-      "https://illumos.org/books/mdb"
     ]
   ]
 ]
