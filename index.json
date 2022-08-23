@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-08-23, 18:07:13",
-      "https://news.ycombinator.com/item?id=32568758"
-    ],
-    [
-      "Let’s Not Have a Beer",
-      "https://www.dewanahmed.com/alcohol-obsession-in-tech/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 17:44:36",
       "https://news.ycombinator.com/item?id=32568423"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2022-08-23, 15:59:19",
-      "https://news.ycombinator.com/item?id=32566874"
-    ],
-    [
-      "Using signed or unsigned int by default in C (2015)",
-      "https://blog.robertelder.org/signed-or-unsigned/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 15:58:09",
       "https://news.ycombinator.com/item?id=32566851"
     ],
@@ -137,16 +117,6 @@
     [
       "Perfluorocubane is (as you would expect) weird",
       "https://www.science.org/content/blog-post/perfluorocubane-you-would-expect-weird"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 15:38:38",
-      "https://news.ycombinator.com/item?id=32566507"
-    ],
-    [
-      "India forced Twitter to put agent on payroll, whistleblower says",
-      "https://www.reuters.com/world/india/india-forced-twitter-put-agent-payroll-whistleblower-says-2022-08-23/"
     ]
   ],
   [
@@ -191,12 +161,32 @@
   ],
   [
     [
+      "2022-08-23, 13:00:44",
+      "https://news.ycombinator.com/item?id=32564275"
+    ],
+    [
+      "Study first to link weed killer Roundup to convulsions in animals",
+      "https://phys.org/news/2022-08-link-weed-killer-roundup-convulsions.html"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 12:35:23",
       "https://news.ycombinator.com/item?id=32563949"
     ],
     [
       "H1B rejected – builds unicorn back home",
       "https://twitter.com/1kunalbahl/status/1561640374900125696"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 12:31:35",
+      "https://news.ycombinator.com/item?id=32563897"
+    ],
+    [
+      "VS Code – What's the deal with the telemetry?",
+      "https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=32561127"
     ],
     [
-      "Show HN: Crawlee – The web scraping and browser automation library for Node.js",
+      "Show HN: Crawlee – Web scraping and browser automation library for Node.js",
       "https://crawlee.dev/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The Making of Prince of Persia [pdf]",
       "https://www.jordanmechner.com/downloads/MOPOP-sample.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-20, 11:57:06",
+      "https://news.ycombinator.com/item?id=32531343"
+    ],
+    [
+      "The Modular Debugger Guide",
+      "https://illumos.org/books/mdb"
     ]
   ]
 ]
