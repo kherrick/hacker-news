@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2022-08-23, 15:15:59",
-      "https://news.ycombinator.com/item?id=32566123"
-    ],
-    [
-      "How to communicate why your startup is worth joining",
-      "https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining"
-    ]
-  ],
-  [
-    [
       "2022-08-22, 12:17:14",
       "https://news.ycombinator.com/item?id=32550291"
     ],
     [
       "Outcomes, Mistakes, and the Nuance of Error Handling",
       "https://izzys.casa/2022/01/outcomes-mistakes-and-nuance/"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 11:50:45",
+      "https://news.ycombinator.com/item?id=32550122"
+    ],
+    [
+      "A Song of Shapes and Words",
+      "https://roonscape.substack.com/p/a-song-of-shapes-and-words"
     ]
   ],
   [
@@ -295,8 +295,8 @@
       "https://news.ycombinator.com/item?id=32530056"
     ],
     [
-      "How Does Shazam Work? Music Recognition Algorithms, Fingerprinting (2015)",
-      "https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition"
+      "Creating Shazam in Java (2010)",
+      "https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/"
     ]
   ]
 ]
