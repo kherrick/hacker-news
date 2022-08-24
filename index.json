@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-24, 15:30:52",
+      "https://news.ycombinator.com/item?id=32580727"
+    ],
+    [
+      "California to Ban the Sale of New Gasoline Cars",
+      "https://www.nytimes.com/2022/08/24/climate/california-gas-cars-emissions.html"
+    ]
+  ],
+  [
+    [
       "2022-08-24, 15:25:23",
       "https://news.ycombinator.com/item?id=32580646"
     ],
@@ -67,6 +77,16 @@
     [
       "AI-designed camera only records objects of interest while being blind to others",
       "https://cnsi.ucla.edu/project/august-15-2022-ai-designed-camera-only-records-objects-of-interest-while-being-blind-to-others/"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 14:24:54",
+      "https://news.ycombinator.com/item?id=32579866"
+    ],
+    [
+      "How SQLite Scales Read Concurrency",
+      "https://fly.io/blog/sqlite-internals-wal/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-08-24, 06:38:56",
-      "https://news.ycombinator.com/item?id=32575639"
-    ],
-    [
-      "Capacity Plan",
-      "https://fev.al/posts/capacity-plan/"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 05:46:25",
       "https://news.ycombinator.com/item?id=32575350"
     ],
@@ -217,16 +227,6 @@
     [
       "Rustle: Svelte compiler rewritten in Rust",
       "https://github.com/pintariching/rustle"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 00:31:53",
-      "https://news.ycombinator.com/item?id=32573523"
-    ],
-    [
-      "Ask HN: DALL-E was trained on watermarked stock images?",
-      "https://news.ycombinator.com/item?id=32573523"
     ]
   ],
   [
