@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32579866"
     ],
     [
-      "How SQLite Scales Read Concurrency",
+      "How SQLite scales read concurrency",
       "https://fly.io/blog/sqlite-internals-wal/"
     ]
   ],
@@ -217,6 +217,16 @@
     [
       "The container orchestrator landscape",
       "https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 10:52:14",
+      "https://news.ycombinator.com/item?id=32577624"
+    ],
+    [
+      "Building a back end from scratch using only OpenAI Codex",
+      "https://codeball.ai/blog/codex-todo-mvc"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Two astrophotographers teamed up to capture a stellar image of the moon",
       "https://www.npr.org/2022/08/22/1118713393/astrophotographers-moon-reddit-image"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 09:44:59",
-      "https://news.ycombinator.com/item?id=32549316"
-    ],
-    [
-      "Are we going back to the cable days?",
-      "https://thehustle.co/08222022-streaming-vs-cable/"
     ]
   ]
 ]
