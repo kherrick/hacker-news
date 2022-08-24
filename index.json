@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-08-23, 23:25:39",
-      "https://news.ycombinator.com/item?id=32572922"
+      "2022-08-24, 00:31:53",
+      "https://news.ycombinator.com/item?id=32573523"
     ],
     [
-      "Ask HN: Is Heroku DNS screwy for you?",
-      "https://news.ycombinator.com/item?id=32572922"
+      "Ask HN: DALL-E was trained on watermarked stock images?",
+      "https://news.ycombinator.com/item?id=32573523"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=32572906"
     ],
     [
-      "Heroku Status: Issues with upstream DNS provider",
+      "Issues with upstream DNS provider",
       "https://status.heroku.com/incidents/2453"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Show HN: Pornpen.ai, AI-Generated Porn",
       "https://pornpen.ai/"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 23:04:28",
+      "https://news.ycombinator.com/item?id=32572753"
+    ],
+    [
+      "Effects of large vehicles on pedestrian and pedal-cyclist injury severity",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Common tech jobs described as cabals of Mesoamerican wizards",
       "https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 21:37:23",
+      "https://news.ycombinator.com/item?id=32571893"
+    ],
+    [
+      "Godot 4.0 will discontinue visual scripting",
+      "https://godotengine.org/article/godot-4-will-discontinue-visual-scripting"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32568423"
     ],
     [
-      "Open Source Canva Clone",
+      "Show HN: Open Source Canva Clone",
       "https://github.com/layerhub-io/react-design-editor"
     ]
   ],
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2022-08-23, 15:15:59",
-      "https://news.ycombinator.com/item?id=32566123"
-    ],
-    [
-      "How to communicate why your startup is worth joining",
-      "https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 14:02:01",
-      "https://news.ycombinator.com/item?id=32565052"
-    ],
-    [
-      "The Evolution of Marginalia's Crawling",
-      "https://memex.marginalia.nu/log/63-marginalia-crawler.gmi"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 12:35:23",
       "https://news.ycombinator.com/item?id=32563949"
     ],
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2022-08-23, 10:36:53",
-      "https://news.ycombinator.com/item?id=32562815"
+      "2022-08-22, 09:43:39",
+      "https://news.ycombinator.com/item?id=32549306"
     ],
     [
-      "Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies",
-      "https://www.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 09:48:53",
-      "https://news.ycombinator.com/item?id=32562497"
-    ],
-    [
-      "Collapse of emergency healthcare in England may be costing 500 lives every week",
-      "https://twitter.com/jburnmurdoch/status/1562004612172873728"
+      "Catching Sanitizer Errors Programmatically",
+      "https://lemire.me/blog/2022/08/20/catching-sanitizer-errors-programmatically/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Making of Prince of Persia [pdf]",
       "https://www.jordanmechner.com/downloads/MOPOP-sample.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-20, 07:35:26",
+      "https://news.ycombinator.com/item?id=32530056"
+    ],
+    [
+      "How Does Shazam Work? Music Recognition Algorithms, Fingerprinting (2015)",
+      "https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition"
     ]
   ]
 ]
