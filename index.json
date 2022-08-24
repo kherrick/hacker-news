@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-24, 15:25:23",
+      "https://news.ycombinator.com/item?id=32580646"
+    ],
+    [
+      "Denuvo Launches Nintendo Switch Emulator Protection",
+      "https://irdeto.com/news/denuvo-by-irdeto-launches-the-industrys-first-nintendo-switch-emulator-protection/"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 15:00:55",
+      "https://news.ycombinator.com/item?id=32580336"
+    ],
+    [
+      "Fixing my PC's persistent graphics and audio stutters",
+      "https://www.ctrl.blog/entry/troubleshoot-stuttering.html"
+    ]
+  ],
+  [
+    [
       "2022-08-24, 14:37:08",
       "https://news.ycombinator.com/item?id=32580027"
     ],
@@ -17,6 +37,26 @@
     [
       "Accounting for Developers, Part II",
       "https://www.moderntreasury.com/journal/accounting-for-developers-part-ii"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 14:30:47",
+      "https://news.ycombinator.com/item?id=32579942"
+    ],
+    [
+      "Free Will: Who’s in Control?",
+      "https://deepfix.substack.com/p/free-will-whos-in-control"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 14:28:19",
+      "https://news.ycombinator.com/item?id=32579914"
+    ],
+    [
+      "IPv6 support for cloning Git repositories from GitHub",
+      "https://github.com/orgs/community/discussions/10539"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Sieve (YC W22) Is Building AI Infrastructure for Video",
       "https://news.ycombinator.com/item?id=32578206"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 11:58:31",
-      "https://news.ycombinator.com/item?id=32578178"
-    ],
-    [
-      "Ask HN: Are you using .NET to write cross-platform desktop or mobile apps?",
-      "https://news.ycombinator.com/item?id=32578178"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2022-08-24, 03:10:28",
-      "https://news.ycombinator.com/item?id=32574548"
-    ],
-    [
-      "Tesla Dojo Custom AI Supercomputer at HC34",
-      "https://www.servethehome.com/tesla-dojo-custom-ai-supercomputer-at-hc34/"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 00:31:53",
       "https://news.ycombinator.com/item?id=32573523"
     ],
     [
       "Ask HN: DALL-E was trained on watermarked stock images?",
       "https://news.ycombinator.com/item?id=32573523"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 22:00:45",
-      "https://news.ycombinator.com/item?id=32572153"
-    ],
-    [
-      "The future of Nginx: Getting back to our open source roots",
-      "https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 21:43:35",
-      "https://news.ycombinator.com/item?id=32571970"
-    ],
-    [
-      "Common tech jobs described as cabals of Mesoamerican wizards",
-      "https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-08-22, 11:45:54",
+      "https://news.ycombinator.com/item?id=32550092"
+    ],
+    [
+      "The Secret Language of Signs (2010)",
+      "http://www.slate.com/articles/life/signs/2010/03/the_secret_language_of_signs.html"
+    ]
+  ],
+  [
+    [
       "2022-08-22, 09:44:59",
       "https://news.ycombinator.com/item?id=32549316"
     ],
@@ -287,16 +297,6 @@
     [
       "Medieval medicine under the spotlight in major new project",
       "https://www.cam.ac.uk/stories/curious-medieval-medicine"
-    ]
-  ],
-  [
-    [
-      "2022-08-20, 07:35:26",
-      "https://news.ycombinator.com/item?id=32530056"
-    ],
-    [
-      "Creating Shazam in Java (2010)",
-      "https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/"
     ]
   ]
 ]
