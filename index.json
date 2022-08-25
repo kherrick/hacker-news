@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-08-25, 04:30:15",
+      "https://news.ycombinator.com/item?id=32589490"
+    ],
+    [
+      "Computers and Intractability: A Guide to Algorithmic Lower Bounds",
+      "https://hardness.mit.edu/"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 03:57:42",
       "https://news.ycombinator.com/item?id=32589311"
     ],
     [
-      "A Regular Expression in 30 Lines of C",
+      "A Regular Expression in 30 Lines of C (2007)",
       "https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "The Four Dirty C-Words of the Internet",
       "https://pauljun.me/the-four-dirty-c-words-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 02:29:35",
-      "https://news.ycombinator.com/item?id=32588703"
-    ],
-    [
-      "Starlink is reducing your monthly service fee",
-      "https://news.ycombinator.com/item?id=32588703"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-08-24, 15:00:55",
-      "https://news.ycombinator.com/item?id=32580336"
-    ],
-    [
-      "Finally fixed my PC’s persistent graphics and audio stutters",
-      "https://www.ctrl.blog/entry/troubleshoot-stuttering.html"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 13:13:23",
       "https://news.ycombinator.com/item?id=32579005"
     ],
@@ -267,6 +257,16 @@
     [
       "Things people blamed on bicycles",
       "https://twitter.com/paulisci/status/1561848479470694403"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 05:41:29",
+      "https://news.ycombinator.com/item?id=32575328"
+    ],
+    [
+      "Designing for Long-Form Articles",
+      "https://css-tricks.com/designing-for-long-form-articles/"
     ]
   ],
   [
