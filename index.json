@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-25, 02:54:56",
+      "https://news.ycombinator.com/item?id=32588881"
+    ],
+    [
+      "5G Networks Are Worryingly Hackable",
+      "https://spectrum.ieee.org/5g-virtualization-increased-hackability"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 02:45:05",
+      "https://news.ycombinator.com/item?id=32588810"
+    ],
+    [
+      "The Four Dirty C-Words of the Internet",
+      "https://pauljun.me/the-four-dirty-c-words-of-the-internet"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 02:29:35",
+      "https://news.ycombinator.com/item?id=32588703"
+    ],
+    [
+      "Starlink is reducing your monthly service fee",
+      "https://news.ycombinator.com/item?id=32588703"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 00:24:46",
       "https://news.ycombinator.com/item?id=32587740"
     ],
@@ -47,16 +77,6 @@
     [
       "A Theoretical Justification (2021)",
       "https://memex.marginalia.nu/projects/edge/about.gmi#1.2"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 21:41:30",
-      "https://news.ycombinator.com/item?id=32586144"
-    ],
-    [
-      "Find Sensitive Information",
-      "https://github.com/rusty-ferris-club/shellclear"
     ]
   ],
   [
@@ -117,6 +137,16 @@
     [
       "Notes on Theory of Distributed Systems [pdf]",
       "http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 17:59:22",
+      "https://news.ycombinator.com/item?id=32583257"
+    ],
+    [
+      "John Carmack on avoiding distractions",
+      "https://twitter.com/ID_AA_Carmack/status/1562104562219196416"
     ]
   ],
   [
@@ -221,36 +251,6 @@
   ],
   [
     [
-      "2022-08-24, 12:48:57",
-      "https://news.ycombinator.com/item?id=32578725"
-    ],
-    [
-      "A Critique of SQL, 40 Years Later",
-      "https://carlineng.com/?postid=sql-critique#blog"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 12:36:32",
-      "https://news.ycombinator.com/item?id=32578569"
-    ],
-    [
-      "Mainnet Merge Announcement",
-      "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 12:11:42",
-      "https://news.ycombinator.com/item?id=32578311"
-    ],
-    [
-      "Show HN: Fuzz Map – a GUI fuzzer, interactive demo",
-      "https://www.fuzzmap.io/?welcome=1"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 11:38:36",
       "https://news.ycombinator.com/item?id=32577993"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-08-24, 06:43:06",
+      "https://news.ycombinator.com/item?id=32575668"
+    ],
+    [
+      "Things people blamed on bicycles",
+      "https://twitter.com/paulisci/status/1561848479470694403"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 10:25:56",
       "https://news.ycombinator.com/item?id=32562741"
     ],
@@ -287,16 +297,6 @@
     [
       "The end of the manual transmission is near?",
       "https://www.popularmechanics.com/cars/a40900795/the-end-of-the-manual-transmission/"
-    ]
-  ],
-  [
-    [
-      "2022-08-22, 10:26:10",
-      "https://news.ycombinator.com/item?id=32549545"
-    ],
-    [
-      "Can Types Replace Validation?",
-      "https://blog.ploeh.dk/2022/08/22/can-types-replace-validation/"
     ]
   ]
 ]
