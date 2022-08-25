@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-25, 03:57:42",
+      "https://news.ycombinator.com/item?id=32589311"
+    ],
+    [
+      "A Regular Expression in 30 Lines of C",
+      "https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 03:37:25",
       "https://news.ycombinator.com/item?id=32589185"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32588881"
     ],
     [
-      "5G Networks Are Worryingly Hackable",
+      "Poorly configured cloud technology makes 5G networks worryingly hackable",
       "https://spectrum.ieee.org/5g-virtualization-increased-hackability"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32587740"
     ],
     [
-      "Why your website should be under 14kb in size",
+      "A 14kb page can load much faster than a 15kb page",
       "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Patent Trolls Inbound: Our First Lawsuit",
       "https://blog.comma.ai/ourfirstlawsuit/"
+    ]
+  ],
+  [
+    [
+      "2022-08-24, 22:12:03",
+      "https://news.ycombinator.com/item?id=32586477"
+    ],
+    [
+      "V-memo a new directive to improve your Vue 3 app performance",
+      "https://zelig880.com/introducing-v-memo-a-new-directive-to-improve-your-vue-3-app-performance"
     ]
   ],
   [
@@ -221,42 +241,12 @@
   ],
   [
     [
-      "2022-08-24, 14:27:52",
-      "https://news.ycombinator.com/item?id=32579905"
-    ],
-    [
-      "AI-designed camera only records objects of interest while being blind to others",
-      "https://cnsi.ucla.edu/project/august-15-2022-ai-designed-camera-only-records-objects-of-interest-while-being-blind-to-others/"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 14:24:54",
-      "https://news.ycombinator.com/item?id=32579866"
-    ],
-    [
-      "How SQLite scales read concurrency",
-      "https://fly.io/blog/sqlite-internals-wal/"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 13:13:23",
       "https://news.ycombinator.com/item?id=32579005"
     ],
     [
-      "You Can 3D Print and Build This 164mm f/2.5 Lens for Less Than $15",
+      "You can 3D print and build a 164mm f/2.5 lens for less than $15",
       "https://petapixel.com/2022/08/22/you-can-3d-print-and-build-this-164mm-f-2-5-lens-for-less-than-15/"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 11:38:36",
-      "https://news.ycombinator.com/item?id=32577993"
-    ],
-    [
-      "Email doesn't suck – it's email clients that need improving",
-      "https://www.wired.com/story/email-clients-are-bad-so-use-vivaldi-mail/"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2022-08-24, 08:09:01",
-      "https://news.ycombinator.com/item?id=32576231"
+      "2022-08-24, 06:43:06",
+      "https://news.ycombinator.com/item?id=32575668"
     ],
     [
-      "An Industrial-Strength Audio Search Algorithm [pdf]",
-      "https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf"
+      "Things people blamed on bicycles",
+      "https://twitter.com/paulisci/status/1561848479470694403"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 10:25:56",
+      "https://news.ycombinator.com/item?id=32562741"
+    ],
+    [
+      "New NASA Black Hole Sonifications with a Remix",
+      "https://www.nasa.gov/mission_pages/chandra/news/new-nasa-black-hole-sonifications-with-a-remix.html"
     ]
   ],
   [
