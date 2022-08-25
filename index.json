@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2022-08-24, 05:58:10",
-      "https://news.ycombinator.com/item?id=32575423"
-    ],
-    [
-      "Living closer together",
-      "https://aeon.co/essays/how-urban-density-can-make-our-neighbourhoods-better"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 04:56:53",
       "https://news.ycombinator.com/item?id=32575159"
     ],
@@ -297,6 +287,16 @@
     [
       "The great Miyazaki watch of 2022",
       "https://www.robinsloan.com/newsletters/visions/#miyazaki"
+    ]
+  ],
+  [
+    [
+      "2022-08-22, 16:17:33",
+      "https://news.ycombinator.com/item?id=32553566"
+    ],
+    [
+      "The top layer: a solution to z-index:10000",
+      "https://developer.chrome.com/blog/what-is-the-top-layer/"
     ]
   ]
 ]
