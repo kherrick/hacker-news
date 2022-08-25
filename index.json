@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-25, 18:20:24",
+      "https://news.ycombinator.com/item?id=32597811"
+    ],
+    [
+      "Move Fast or Die: Key Startup Lessons",
+      "https://blog.southparkcommons.com/move-fast-or-die/"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 18:00:14",
+      "https://news.ycombinator.com/item?id=32597502"
+    ],
+    [
+      "We compiled a library of realistic engineering take-home tests and ranked them",
+      "https://www.trytapioca.com/library-of-assessments"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 17:53:37",
+      "https://news.ycombinator.com/item?id=32597400"
+    ],
+    [
+      "AI and the Limits of Language",
+      "https://www.noemamag.com/ai-and-the-limits-of-language/"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 17:52:06",
       "https://news.ycombinator.com/item?id=32597384"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32597326"
     ],
     [
-      "When Private Equity Takes over a Nursing Home",
+      "When private equity takes over a nursing home",
       "https://www.newyorker.com/news/dispatch/when-private-equity-takes-over-a-nursing-home"
     ]
   ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=32596903"
     ],
     [
-      "Larry Elllison's Oracle started as a CIA project",
+      "Oracle started as a CIA project (2014)",
       "https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 17:15:31",
-      "https://news.ycombinator.com/item?id=32596816"
-    ],
-    [
-      "Kubernetes Failure Stories",
-      "https://k8s.af/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32596182"
     ],
     [
-      "White House banning journal paywalls for federally funded research",
+      "Guidance to make federally funded research freely available without delay",
       "https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/"
     ]
   ],
@@ -85,18 +105,8 @@
       "https://news.ycombinator.com/item?id=32595681"
     ],
     [
-      "Creativity Requires Solitude",
+      "Creativity requires solitude",
       "https://dkb.show/post/creativity-requires-solitude"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 15:58:59",
-      "https://news.ycombinator.com/item?id=32595589"
-    ],
-    [
-      "Removal of Heroku Free Product Plans FAQ",
-      "https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32595310"
     ],
     [
-      "Dropping latency 90% by porting SpiceDB to WASM",
+      "Dropping playground latency by porting SpiceDB to WASM",
       "https://authzed.com/blog/some-assembly-required/"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32594915"
     ],
     [
-      "Best Practices for TypeScript Monorepo",
+      "Best practices for TypeScript monorepo",
       "https://blog.flycode.com/best-practices-for-typescript-monorepo"
     ]
   ],
@@ -135,8 +145,8 @@
       "https://news.ycombinator.com/item?id=32594533"
     ],
     [
-      "Heroku's Next Chapter",
-      "https://blog.heroku.com/next-chapter"
+      "Removal of Heroku free product plans",
+      "https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32594010"
     ],
     [
-      "How the dead internet theory is fast becoming reality",
+      "The coming tsunami of fakery",
       "https://grandy.substack.com/p/the-new-normal-the-coming-tsunami"
     ]
   ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32593799"
     ],
     [
-      "Orcas Are Breaking Rudders Off Boats in Europe",
+      "Orcas are breaking rudders off boats in Europe",
       "https://www.smithsonianmag.com/smart-news/orcas-are-breaking-rudders-off-boats-in-europe-180980627/"
     ]
   ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32592492"
     ],
     [
-      "Lisp can be Hard Real Time [pdf] (2000)",
+      "Lisp can be “hard” real time [pdf] (2000)",
       "https://franz.com/services/conferences_seminars/jlugm00/conference/Talk14_takeuchi.pdf"
     ]
   ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2022-08-25, 09:10:50",
-      "https://news.ycombinator.com/item?id=32591356"
+      "2022-08-25, 07:04:01",
+      "https://news.ycombinator.com/item?id=32590523"
     ],
     [
-      "Type of Barcodes and Their Usage",
-      "https://scanbot.io/blog/types-of-barcodes/"
+      "GitHub “allows” unauthorized users “merging” PRs, bypass write permission check",
+      "https://github.com/v6d-io/v6d/pull/948"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Imagen: An AI system that creates photorealistic images from input text",
       "https://imagen.research.google"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 22:51:13",
-      "https://news.ycombinator.com/item?id=32586898"
-    ],
-    [
-      "Patent Trolls Inbound: Our First Lawsuit",
-      "https://blog.comma.ai/ourfirstlawsuit/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32560278"
     ],
     [
-      "The Great Miyazaki Watch of 2022",
+      "The great Miyazaki watch of 2022",
       "https://www.robinsloan.com/newsletters/visions/#miyazaki"
     ]
   ]
