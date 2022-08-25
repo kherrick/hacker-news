@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-08-25, 20:05:35",
-      "https://news.ycombinator.com/item?id=32599293"
-    ],
-    [
-      "Kuymak – Cross-platform shellcode runner",
-      "https://github.com/blue-devil/kuymak"
-    ]
-  ],
-  [
-    [
       "2022-08-25, 19:55:27",
       "https://news.ycombinator.com/item?id=32599167"
     ],
@@ -297,6 +287,16 @@
     [
       "The top layer: a solution to z-index:10000",
       "https://developer.chrome.com/blog/what-is-the-top-layer/"
+    ]
+  ],
+  [
+    [
+      "2022-08-21, 17:52:44",
+      "https://news.ycombinator.com/item?id=32542620"
+    ],
+    [
+      "Cybersecurity in 1989: Looking Back at Cliff Stoll's Classic the Cuckoo's Egg",
+      "https://www.lawfareblog.com/cybersecurity-1989-looking-back-cliff-stolls-classic-cuckoos-egg"
     ]
   ]
 ]
