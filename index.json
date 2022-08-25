@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-25, 10:46:29",
+      "https://news.ycombinator.com/item?id=32591962"
+    ],
+    [
+      "The Fall of Datacenter Software",
+      "https://www.sigarch.org/the-fall-of-datacenter-software/"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 09:45:19",
       "https://news.ycombinator.com/item?id=32591550"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2022-08-24, 17:40:34",
-      "https://news.ycombinator.com/item?id=32582949"
-    ],
-    [
-      "LibVF.IO: Add support for GPU Virtual Machine (GVM)",
-      "https://arccompute.com/blog/libvfio-add-gvm-support/"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 16:55:30",
       "https://news.ycombinator.com/item?id=32582260"
     ],
     [
       "Debian's Chromium changes default search engine to DDG",
       "https://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg760508.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 16:25:22",
-      "https://news.ycombinator.com/item?id=32581721"
-    ],
-    [
-      "Why do arrays start at 0?",
-      "https://buttondown.email/hillelwayne/archive/why-do-arrays-start-at-0/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Over 90% of Medieval Manuscripts Have Been Lost, Study Says",
       "https://hyperallergic.com/742789/over-90-of-medieval-manuscripts-have-been-lost-study-says/"
+    ]
+  ],
+  [
+    [
+      "2022-08-19, 06:02:08",
+      "https://news.ycombinator.com/item?id=32517930"
+    ],
+    [
+      "Desiderata by Max Ehrmann",
+      "https://en.wikipedia.org/wiki/Desiderata"
     ]
   ]
 ]
