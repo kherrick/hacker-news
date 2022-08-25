@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-08-25, 15:50:32",
+      "https://news.ycombinator.com/item?id=32595425"
+    ],
+    [
+      "Heroku is phasing out free product plans",
+      "https://twitter.com/heroku/status/1562817050565054469"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 15:44:14",
+      "https://news.ycombinator.com/item?id=32595310"
+    ],
+    [
+      "Dropping latency 90% by porting SpiceDB to WASM",
+      "https://authzed.com/blog/some-assembly-required/"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 15:31:35",
       "https://news.ycombinator.com/item?id=32595083"
     ],
     [
       "Science must respect the dignity and rights of all humans",
       "https://www.nature.com/articles/s41562-022-01443-2"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 15:24:01",
+      "https://news.ycombinator.com/item?id=32594941"
+    ],
+    [
+      "Ask HN: CEO wants us to fill out NOT ANONYMOUS survey that only he can read",
+      "https://news.ycombinator.com/item?id=32594941"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-08-25, 10:10:49",
-      "https://news.ycombinator.com/item?id=32591709"
-    ],
-    [
-      "Startup is selling tech to make call center workers sound like white Americans",
-      "https://www.vice.com/en/article/akek7g/this-startup-is-selling-tech-to-make-call-center-workers-sound-like-white-americans"
-    ]
-  ],
-  [
-    [
       "2022-08-25, 09:10:50",
       "https://news.ycombinator.com/item?id=32591356"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2022-08-24, 09:50:48",
-      "https://news.ycombinator.com/item?id=32577142"
-    ],
-    [
-      "The largest model airport and railway",
-      "https://www.cnn.com/travel/article/miniatur-wunderland-worlds-largest-model-railway-airport/index.html"
-    ]
-  ],
-  [
-    [
       "2022-08-24, 08:08:29",
       "https://news.ycombinator.com/item?id=32576224"
     ],
@@ -267,16 +277,6 @@
     [
       "The Lemon Parser Generator",
       "https://sqlite.org/src/doc/trunk/doc/lemon.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 09:19:43",
-      "https://news.ycombinator.com/item?id=32562327"
-    ],
-    [
-      "From a WebAssembly Perspective",
-      "https://www.assemblyscript.org/introduction.html#from-a-webassembly-perspective"
     ]
   ],
   [
