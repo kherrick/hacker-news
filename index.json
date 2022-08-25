@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-08-25, 17:15:31",
+      "https://news.ycombinator.com/item?id=32596816"
+    ],
+    [
+      "Kubernetes Failure Stories",
+      "https://k8s.af/"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 17:01:06",
+      "https://news.ycombinator.com/item?id=32596602"
+    ],
+    [
+      "Contentedge (YC W17) is hiring engineers to build AI copywriting software",
+      "https://www.contentedge.com/?pg=jobs"
+    ]
+  ],
+  [
+    [
       "2022-08-25, 16:41:38",
       "https://news.ycombinator.com/item?id=32596306"
     ],
     [
       "DuckDuckGo Email",
       "https://duckduckgo.com/email/"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 16:16:49",
+      "https://news.ycombinator.com/item?id=32595895"
+    ],
+    [
+      "A Graph-Based Firebase",
+      "https://stopa.io/post/296"
     ]
   ],
   [
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32593996"
     ],
     [
-      "PostgreSQL 14 Internals book – Part II released",
+      "PostgreSQL 14 Internals book – Part II",
       "https://postgrespro.com/blog/pgsql/5969682"
     ]
   ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-08-25, 12:00:41",
-      "https://news.ycombinator.com/item?id=32592526"
-    ],
-    [
-      "Zentail (YC S12) Is Hiring a Head of Sales",
-      "https://jobs.lever.co/zentail/31ca2286-2579-48ef-bccb-2653f9721bda"
-    ]
-  ],
-  [
-    [
       "2022-08-25, 11:56:31",
       "https://news.ycombinator.com/item?id=32592492"
     ],
     [
       "Lisp can be Hard Real Time [pdf] (2000)",
       "https://franz.com/services/conferences_seminars/jlugm00/conference/Talk14_takeuchi.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 11:43:40",
-      "https://news.ycombinator.com/item?id=32592378"
-    ],
-    [
-      "Why Does the U.S. Have the Best Research Universities? (2020)",
-      "https://www.nber.org/papers/w28279"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Patent Trolls Inbound: Our First Lawsuit",
       "https://blog.comma.ai/ourfirstlawsuit/"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 08:08:29",
-      "https://news.ycombinator.com/item?id=32576224"
-    ],
-    [
-      "Effective altruism as a tower of assumptions",
-      "https://astralcodexten.substack.com/p/effective-altruism-as-a-tower-of"
     ]
   ],
   [
