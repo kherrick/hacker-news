@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-08-26, 02:30:14",
-      "https://news.ycombinator.com/item?id=32602702"
+      "2022-08-26, 04:30:56",
+      "https://news.ycombinator.com/item?id=32603382"
     ],
     [
-      "White House Orders Journals to Drop Paywalls on Publicly Funded Research",
-      "https://www.nytimes.com/2022/08/25/us/white-house-federally-funded-research-access.html"
+      "Unstripping Stripped Binaries",
+      "http://lock.cmpxchg8b.com/symbols.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-26, 04:23:16",
+      "https://news.ycombinator.com/item?id=32603337"
+    ],
+    [
+      "Why Is a British Baroness Drafting California Censorship Laws?",
+      "https://www.techdirt.com/2022/08/25/why-is-a-british-baroness-drafting-california-censorship-laws/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32602583"
     ],
     [
-      "Mudge's full Twitter whistleblower disclosure to SEC, FTC, & DOJ [pdf]",
+      "Mudge's redacted Twitter whistleblower disclosure [pdf]",
       "https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "SpaceX, T-Mobile to connect satellites to cellphones in remote areas",
       "https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520"
+    ]
+  ],
+  [
+    [
+      "2022-08-26, 00:09:04",
+      "https://news.ycombinator.com/item?id=32601703"
+    ],
+    [
+      "The Jupyter+Git problem is now solved",
+      "https://www.fast.ai/2022/08/25/jupyter-git/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32600698"
     ],
     [
-      "Soketi: Simple, Fast and Resilient open-source WebSockets server",
+      "Soketi: Simple, fast and resilient open-source WebSockets server",
       "https://soketi.app/"
     ]
   ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2022-08-25, 19:55:27",
-      "https://news.ycombinator.com/item?id=32599167"
-    ],
-    [
-      "MQZiti – Zero Trust MQTT server and client",
-      "https://github.com/ekoby/mqziti"
-    ]
-  ],
-  [
-    [
       "2022-08-25, 19:16:26",
       "https://news.ycombinator.com/item?id=32598603"
     ],
     [
       "Launch HN: Artemis (YC S22) – Use comments to give code an interactive interface",
       "https://news.ycombinator.com/item?id=32598603"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 19:15:21",
-      "https://news.ycombinator.com/item?id=32598587"
-    ],
-    [
-      "LastPass: Notice of Security Incident",
-      "https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32597811"
     ],
     [
-      "Move Fast or Die: Key Startup Lessons",
+      "Move fast or die: Key startup lessons",
       "https://blog.southparkcommons.com/move-fast-or-die/"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "What have we lost? – Demo of exotic OSes (2021) [video]",
       "https://www.youtube.com/watch?v=7RNbIEJvjUA"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 17:01:06",
-      "https://news.ycombinator.com/item?id=32596602"
-    ],
-    [
-      "Contentedge (YC W17) is hiring engineers to build AI copywriting software",
-      "https://www.contentedge.com/?pg=jobs"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2022-08-25, 13:58:13",
-      "https://news.ycombinator.com/item?id=32593799"
-    ],
-    [
-      "Orcas are breaking rudders off boats in Europe",
-      "https://www.smithsonianmag.com/smart-news/orcas-are-breaking-rudders-off-boats-in-europe-180980627/"
-    ]
-  ],
-  [
-    [
       "2022-08-25, 12:16:16",
       "https://news.ycombinator.com/item?id=32592671"
     ],
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32577174"
     ],
     [
-      "How to Play Continuous Blackjack",
+      "How to play continuous blackjack",
       "https://www.amolas.dev/blog/continuous-blackjack-i/"
     ]
   ],
@@ -261,6 +241,26 @@
   ],
   [
     [
+      "2022-08-23, 12:18:49",
+      "https://news.ycombinator.com/item?id=32563735"
+    ],
+    [
+      "Your online identity is owned by your email provider (2019)",
+      "https://www.ctrl.blog/entry/email-identity-provider.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 11:14:01",
+      "https://news.ycombinator.com/item?id=32563107"
+    ],
+    [
+      "The History of Scott/Tiger",
+      "https://wmarkito.wordpress.com/2008/11/07/the-history-of-scotttiger/"
+    ]
+  ],
+  [
+    [
       "2022-08-23, 08:08:42",
       "https://news.ycombinator.com/item?id=32561868"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2022-08-23, 04:41:19",
-      "https://news.ycombinator.com/item?id=32560540"
+      "2022-08-23, 06:07:52",
+      "https://news.ycombinator.com/item?id=32560983"
     ],
     [
-      "Superefficient solar desalination (2020)",
-      "https://cen.acs.org/environment/water/Superefficient-solar-desalination/98/web/2020/02"
+      "Why there's no 'Dijon' in Dijon mustard",
+      "https://www.bbc.com/travel/article/20220816-why-theres-no-dijon-in-dijon-mustard"
     ]
   ],
   [
