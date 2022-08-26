@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-26, 07:56:51",
+      "https://news.ycombinator.com/item?id=32604428"
+    ],
+    [
+      "Holochain: End-to-end open source P2P app framework",
+      "https://www.holochain.org/"
+    ]
+  ],
+  [
+    [
+      "2022-08-26, 07:50:19",
+      "https://news.ycombinator.com/item?id=32604384"
+    ],
+    [
+      "Unsigned comparisons in AVX2/SSE: a quick note",
+      "https://outerproduct.net/trivial/2022-08-25_unsigned.html"
+    ]
+  ],
+  [
+    [
       "2022-08-26, 07:12:08",
       "https://news.ycombinator.com/item?id=32604166"
     ],
@@ -27,16 +47,6 @@
     [
       "Remote scan of student’s room before test violated his privacy, judge rules",
       "https://www.nytimes.com/2022/08/25/us/remote-testing-student-home-scan-privacy.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-26, 06:39:03",
-      "https://news.ycombinator.com/item?id=32604021"
-    ],
-    [
-      "Search over 5M+ Stable Diffusion images and prompts",
-      "https://lexica.art"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2022-08-25, 12:16:16",
-      "https://news.ycombinator.com/item?id=32592671"
-    ],
-    [
-      "DuckDuckGo email protection beta now open",
-      "https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 05:53:54",
-      "https://news.ycombinator.com/item?id=32575393"
-    ],
-    [
-      "Why Do (Some) Humans Love Chili Peppers?",
-      "https://www.sapiens.org/culture/chili-pepper-anthropology/"
-    ]
-  ],
-  [
-    [
       "2022-08-23, 23:08:18",
       "https://news.ycombinator.com/item?id=32572786"
     ],
@@ -267,6 +257,16 @@
     [
       "Why there's no 'Dijon' in Dijon mustard",
       "https://www.bbc.com/travel/article/20220816-why-theres-no-dijon-in-dijon-mustard"
+    ]
+  ],
+  [
+    [
+      "2022-08-23, 05:01:40",
+      "https://news.ycombinator.com/item?id=32560636"
+    ],
+    [
+      "Against Generality",
+      "https://novalis.org/blog/2016-09-27-against-generality.html"
     ]
   ],
   [
