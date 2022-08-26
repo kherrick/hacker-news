@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-08-26, 10:06:00",
+      "https://news.ycombinator.com/item?id=32605361"
+    ],
+    [
+      "Why Xen Wasn't Hit by RETBleed on Intel CPUs",
+      "https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/"
+    ]
+  ],
+  [
+    [
       "2022-08-26, 09:55:44",
       "https://news.ycombinator.com/item?id=32605287"
     ],
@@ -287,16 +297,6 @@
     [
       "Timothy Leary's Mind Mirror (1985)",
       "https://scalar.usc.edu/works/timothy-leary-software/index"
-    ]
-  ],
-  [
-    [
-      "2022-08-24, 10:01:37",
-      "https://news.ycombinator.com/item?id=32577234"
-    ],
-    [
-      "HP Reverb G2",
-      "https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html"
     ]
   ]
 ]
