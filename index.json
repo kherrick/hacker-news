@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-26, 10:06:00",
+      "https://news.ycombinator.com/item?id=32605361"
+    ],
+    [
+      "Why Xen Wasn't Hit by RETBleed on Intel CPUs",
+      "https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/"
+    ]
+  ],
+  [
+    [
       "2022-08-26, 09:55:44",
       "https://news.ycombinator.com/item?id=32605287"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-08-25, 17:04:37",
-      "https://news.ycombinator.com/item?id=32596662"
+      "2022-08-24, 17:45:35",
+      "https://news.ycombinator.com/item?id=32583038"
     ],
     [
-      "What have we lost? – Demo of exotic OSes (2021) [video]",
-      "https://www.youtube.com/watch?v=7RNbIEJvjUA"
+      "Should You Buy an EV? A calculator to figure it out",
+      "https://www.davidexmachina.com/2022/08/should-you-buy-ev.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Sanyo Triple Five",
       "https://www.leadedsolder.com/2022/08/23/sanyo-mbc555-power-supply-swap-pickup.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-23, 19:32:44",
-      "https://news.ycombinator.com/item?id=32570176"
-    ],
-    [
-      "Thinking as Computation (2011) [pdf]",
-      "https://www.cs.toronto.edu/~hector/PublicTCSlides.pdf"
     ]
   ],
   [
