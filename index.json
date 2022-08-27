@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-27, 14:58:34",
+      "https://news.ycombinator.com/item?id=32619740"
+    ],
+    [
+      "A new Linux handheld game console based on powerful ODROID-N2",
+      "https://forum.odroid.com/viewtopic.php?t=45143"
+    ]
+  ],
+  [
+    [
       "2022-08-27, 14:23:33",
       "https://news.ycombinator.com/item?id=32619343"
     ],
@@ -161,32 +171,22 @@
   ],
   [
     [
-      "2022-08-26, 23:57:03",
-      "https://news.ycombinator.com/item?id=32614135"
-    ],
-    [
-      "OpenCore Legacy Patcher",
-      "https://dortania.github.io/OpenCore-Legacy-Patcher/START.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-26, 23:40:58",
-      "https://news.ycombinator.com/item?id=32614037"
-    ],
-    [
-      "Chrome allows websites to write to the clipboard without the user’s permission",
-      "https://news.ycombinator.com/item?id=32614037"
-    ]
-  ],
-  [
-    [
       "2022-08-26, 22:23:42",
       "https://news.ycombinator.com/item?id=32613428"
     ],
     [
       "Slack’s free plan change is causing an exodus",
       "https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/"
+    ]
+  ],
+  [
+    [
+      "2022-08-26, 16:33:44",
+      "https://news.ycombinator.com/item?id=32609588"
+    ],
+    [
+      "Engineer distributes resume via IPv6 traceroute",
+      "https://cv6.poinsignon.org/"
     ]
   ],
   [
