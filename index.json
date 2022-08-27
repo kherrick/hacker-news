@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-27, 22:09:16",
+      "https://news.ycombinator.com/item?id=32623733"
+    ],
+    [
+      "Tachyum: 128 Cores at 5.7GHZ with two 1024 bit vector units each",
+      "https://www.youtube.com/watch?v=siN1eQ0SfxU"
+    ]
+  ],
+  [
+    [
+      "2022-08-27, 22:06:35",
+      "https://news.ycombinator.com/item?id=32623713"
+    ],
+    [
+      "Heroku to discontinue free product plans and delete inactive accounts",
+      "https://blog.heroku.com/next-chapter"
+    ]
+  ],
+  [
+    [
       "2022-08-27, 21:55:05",
       "https://news.ycombinator.com/item?id=32623622"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32622739"
     ],
     [
-      "Chrome's Manifest v3 is lacking features",
+      "Cannot read clipboard from service worker in a MV3 chrome extension (2020)",
       "https://bugs.chromium.org/p/chromium/issues/detail?id=1160302"
     ]
   ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-08-27, 12:57:05",
-      "https://news.ycombinator.com/item?id=32618445"
-    ],
-    [
-      "What to read to understand how economists think",
-      "https://www.economist.com/the-economist-reads/2022/08/09/what-to-read-to-understand-how-economists-think"
-    ]
-  ],
-  [
-    [
       "2022-08-27, 12:14:56",
       "https://news.ycombinator.com/item?id=32618122"
     ],
     [
       "Robert's Rules of Order (1876)",
       "https://www.gutenberg.org/files/9097/9097.txt"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 11:12:53",
-      "https://news.ycombinator.com/item?id=32617787"
-    ],
-    [
-      "Tool beeps every time data is sent to Google",
-      "https://twitter.com/bert_hu_bert/status/1561466204602220544"
     ]
   ],
   [
