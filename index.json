@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-27, 21:02:26",
+      "https://news.ycombinator.com/item?id=32623166"
+    ],
+    [
+      "Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
       "2022-08-27, 20:39:55",
       "https://news.ycombinator.com/item?id=32622962"
     ],
@@ -17,6 +27,26 @@
     [
       "Ask HN: How can I start a business to generate electricity?",
       "https://news.ycombinator.com/item?id=32622949"
+    ]
+  ],
+  [
+    [
+      "2022-08-27, 20:35:04",
+      "https://news.ycombinator.com/item?id=32622923"
+    ],
+    [
+      "Some Authy 2FA accounts were compromised in Twilio data breach",
+      "https://www.engadget.com/twilio-authy-data-breach-202314313.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-27, 20:14:33",
+      "https://news.ycombinator.com/item?id=32622739"
+    ],
+    [
+      "Chrome's Manifest v3 is lacking features",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=1160302"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Interlisp Online",
       "https://online.interlisp.org/user/login"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 17:02:24",
-      "https://news.ycombinator.com/item?id=32620936"
-    ],
-    [
-      "Firezone (YC W22) is building a open-source corporate VPN (remote, US)",
-      "https://www.ycombinator.com/companies/firezone/jobs"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Day ahead electricity prices for EU",
       "https://euenergy.live/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 12:49:41",
-      "https://news.ycombinator.com/item?id=32618388"
-    ],
-    [
-      "DIY out of band management: remote console server",
-      "https://michael.stapelberg.ch/posts/2022-08-27-out-of-band-remote-console/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Copilot: Realtime programming language and runtime verification framework",
       "https://copilot-language.github.io/"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 12:14:48",
-      "https://news.ycombinator.com/item?id=32592652"
-    ],
-    [
-      "An Introduction to Ractors in Ruby",
-      "https://blog.appsignal.com/2022/08/24/an-introduction-to-ractors-in-ruby.html"
     ]
   ],
   [
