@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-28, 20:17:57",
+      "https://news.ycombinator.com/item?id=32631673"
+    ],
+    [
+      "Stable Diffusion Is the Most Important AI Art Model Ever",
+      "https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"
+    ]
+  ],
+  [
+    [
       "2022-08-28, 20:02:16",
       "https://news.ycombinator.com/item?id=32631553"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: Versioning Filesystem for SQLite",
       "https://github.com/sudeep9/mojo"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 12:38:31",
-      "https://news.ycombinator.com/item?id=32627934"
-    ],
-    [
-      "Dr. Chaos – A structured fuzzing framework in Nim",
-      "https://github.com/status-im/nim-drchaos"
     ]
   ],
   [
