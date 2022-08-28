@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-08-28, 13:35:58",
+      "https://news.ycombinator.com/item?id=32628289"
+    ],
+    [
+      "Email Is Not SMS",
+      "https://email.is-not-s.ms/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 13:24:32",
+      "https://news.ycombinator.com/item?id=32628214"
+    ],
+    [
+      "The Missing Chinese Machine Revolution",
+      "https://erikexamines.substack.com/p/the-missing-chinese-machine-revolution"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 13:19:04",
+      "https://news.ycombinator.com/item?id=32628184"
+    ],
+    [
+      "Six unpopular opinions about software standard development",
+      "https://timdaub.github.io/2022/08/28/six-unpopular-opinions-about-software-standard-development/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 13:18:52",
+      "https://news.ycombinator.com/item?id=32628182"
+    ],
+    [
+      "GoDaddy Statement on Eth.link Domain Registration",
+      "https://aboutus.godaddy.net/newsroom/company-news/news-details/2022/GoDaddy-Statement-on-eth.link-Domain-Registration/default.aspx"
+    ]
+  ],
+  [
+    [
       "2022-08-28, 13:08:25",
       "https://news.ycombinator.com/item?id=32628121"
     ],
     [
       "Breakthroughs for All: Delivering Equitable Access to America’s Research",
       "https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 12:14:56",
+      "https://news.ycombinator.com/item?id=32627794"
+    ],
+    [
+      "Handshake Domains Are a Scam",
+      "https://akshat.sh/posts/handshake-scam/"
     ]
   ],
   [
@@ -211,26 +261,6 @@
   ],
   [
     [
-      "2022-08-27, 14:23:59",
-      "https://news.ycombinator.com/item?id=32619346"
-    ],
-    [
-      "A Sample of Fair Use (2021)",
-      "https://campuspress.yale.edu/copyrightconversations/fairuseblog2021/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 13:23:29",
-      "https://news.ycombinator.com/item?id=32618668"
-    ],
-    [
-      "The Computational Universe Pseudocode Reference [pdf]",
-      "https://www.cs.princeton.edu/courses/archive/spr11/cos116/handouts/Pseudocode_Reference.pdf"
-    ]
-  ],
-  [
-    [
       "2022-08-27, 06:19:36",
       "https://news.ycombinator.com/item?id=32616286"
     ],
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2022-08-27, 04:58:12",
-      "https://news.ycombinator.com/item?id=32615871"
-    ],
-    [
-      "Why is this colorful little wheel suddenly everywhere in Japan?",
-      "https://www.nytimes.com/2022/08/25/business/japan-sdg.html"
-    ]
-  ],
-  [
-    [
       "2022-08-26, 09:49:08",
       "https://news.ycombinator.com/item?id=32605229"
     ],
@@ -277,26 +297,6 @@
     [
       "Corman Lisp development environment for MS Windows",
       "https://github.com/sharplispers/cormanlisp"
-    ]
-  ],
-  [
-    [
-      "2022-08-26, 07:42:07",
-      "https://news.ycombinator.com/item?id=32604322"
-    ],
-    [
-      "The UNIX Programming Environment (1984)",
-      "https://archive.org/details/UnixProgrammingEnviornment"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 18:35:29",
-      "https://news.ycombinator.com/item?id=32598062"
-    ],
-    [
-      "Show HN: Browse HN Together in Three.js",
-      "https://threejs-example.hyperbeam.com"
     ]
   ]
 ]
