@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-28, 01:48:42",
+      "https://news.ycombinator.com/item?id=32624998"
+    ],
+    [
+      "Washington D.C.-Area Startup Wants to Solve the Public Bathroom Problem",
+      "https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 00:07:22",
+      "https://news.ycombinator.com/item?id=32624486"
+    ],
+    [
+      "Samba on Linux the Easy Way",
+      "https://glovesoff.substack.com/p/samba-on-linux-the-easy-way"
+    ]
+  ],
+  [
+    [
       "2022-08-28, 00:03:23",
       "https://news.ycombinator.com/item?id=32624461"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2022-08-27, 22:53:52",
+      "https://news.ycombinator.com/item?id=32624055"
+    ],
+    [
+      "Gimp development release 2.99.12 includes initial CMYK support",
+      "https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/"
+    ]
+  ],
+  [
+    [
       "2022-08-27, 22:30:31",
       "https://news.ycombinator.com/item?id=32623908"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32623766"
     ],
     [
-      "Tyler Cowen on reading fast, reading well, and reading widely",
+      "Reading fast, reading well, and reading widely",
       "https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/"
     ]
   ],
@@ -51,22 +81,22 @@
   ],
   [
     [
+      "2022-08-27, 21:24:06",
+      "https://news.ycombinator.com/item?id=32623356"
+    ],
+    [
+      "Namecheap vulnerability they refuse to fix: no 2FA on support portal login",
+      "https://crimew.gay/notice/AMxFUTYtsMNtzbDzQu"
+    ]
+  ],
+  [
+    [
       "2022-08-27, 21:02:26",
       "https://news.ycombinator.com/item?id=32623166"
     ],
     [
       "Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring",
       "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 20:53:15",
-      "https://news.ycombinator.com/item?id=32623081"
-    ],
-    [
-      "Built-in container support for the .NET SDK",
-      "https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/"
     ]
   ],
   [
@@ -171,22 +201,12 @@
   ],
   [
     [
-      "2022-08-27, 12:14:56",
-      "https://news.ycombinator.com/item?id=32618122"
+      "2022-08-27, 05:43:54",
+      "https://news.ycombinator.com/item?id=32616105"
     ],
     [
-      "Robert's Rules of Order (1876)",
-      "https://www.gutenberg.org/files/9097/9097.txt"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 10:40:39",
-      "https://news.ycombinator.com/item?id=32617620"
-    ],
-    [
-      "TinyTapeout: Get your design on an actual ASIC",
-      "https://mailchi.mp/574276e3c9d7/tinytapeout"
+      "Why a 224-Year-Old Human Heart Is Touring Brazil",
+      "https://www.atlasobscura.com/articles/dom-pedro-heart-portugal-brazil"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-08-27, 02:42:34",
-      "https://news.ycombinator.com/item?id=32615110"
-    ],
-    [
-      "One kitchen, hundreds of internet restaurants",
-      "https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet"
-    ]
-  ],
-  [
-    [
       "2022-08-26, 13:02:28",
       "https://news.ycombinator.com/item?id=32606883"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2022-08-26, 08:03:43",
+      "https://news.ycombinator.com/item?id=32604484"
+    ],
+    [
+      "Corman Lisp development environment for MS Windows",
+      "https://github.com/sharplispers/cormanlisp"
+    ]
+  ],
+  [
+    [
       "2022-08-26, 07:42:07",
       "https://news.ycombinator.com/item?id=32604322"
     ],
@@ -267,26 +287,6 @@
     [
       "The Penguin Random House trial",
       "https://shush.substack.com/p/the-biggest-story-in-books"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 18:35:29",
-      "https://news.ycombinator.com/item?id=32598062"
-    ],
-    [
-      "Show HN: Browse HN Together in Three.js",
-      "https://threejs-example.hyperbeam.com"
-    ]
-  ],
-  [
-    [
-      "2022-08-25, 16:38:13",
-      "https://news.ycombinator.com/item?id=32596256"
-    ],
-    [
-      "Copilot: Realtime programming language and runtime verification framework",
-      "https://copilot-language.github.io/"
     ]
   ],
   [
