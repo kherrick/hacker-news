@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-28, 16:31:40",
+      "https://news.ycombinator.com/item?id=32629669"
+    ],
+    [
+      "Weird monitor bugs people sent me in the last 5 years",
+      "https://notes.alinpanaitiu.com/Weird%20monitor%20bugs"
+    ]
+  ],
+  [
+    [
       "2022-08-28, 15:37:52",
       "https://news.ycombinator.com/item?id=32629219"
     ],
@@ -37,6 +47,16 @@
     [
       "Fissure: The RF and Reverse Engineering Framework for Everyone",
       "https://github.com/ainfosec/FISSURE"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 14:42:25",
+      "https://news.ycombinator.com/item?id=32628761"
+    ],
+    [
+      "Upscayl – Free and Open Source AI Image Upscaler for Linux, macOS and Windows",
+      "https://github.com/upscayl/upscayl"
     ]
   ],
   [
@@ -97,26 +117,6 @@
     [
       "Show HN: Versioning Filesystem for SQLite",
       "https://github.com/sudeep9/mojo"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 13:24:32",
-      "https://news.ycombinator.com/item?id=32628214"
-    ],
-    [
-      "The Missing Chinese Machine Revolution",
-      "https://erikexamines.substack.com/p/the-missing-chinese-machine-revolution"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 13:08:25",
-      "https://news.ycombinator.com/item?id=32628121"
-    ],
-    [
-      "Delivering Equitable Access to America’s Research",
-      "https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-08-28, 06:24:26",
-      "https://news.ycombinator.com/item?id=32626240"
-    ],
-    [
-      "A year of RISC-V adventures: embracing chaos in your software journey [video]",
-      "https://fosdem.org/2022/schedule/event/riscvadventures/"
-    ]
-  ],
-  [
-    [
       "2022-08-28, 06:19:12",
       "https://news.ycombinator.com/item?id=32626218"
     ],
@@ -287,6 +277,16 @@
     [
       "PanWriter: Cross-platform writing tool runs on anything and outputs to anything",
       "https://www.theregister.com/2022/08/24/panwriter/"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 08:55:01",
+      "https://news.ycombinator.com/item?id=32591262"
+    ],
+    [
+      "Short story about my Steam Deck",
+      "https://0ut3r.space/2022/08/25/steam-deck/"
     ]
   ],
   [
