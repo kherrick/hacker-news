@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=32625253"
     ],
     [
-      "Relax for the Same Result",
+      "Relax for the same result (2015)",
       "https://sive.rs/relax"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 01:48:42",
+      "https://news.ycombinator.com/item?id=32624998"
+    ],
+    [
+      "D.C.-area startup wants to solve the public bathroom problem",
+      "https://www.washingtonian.com/2022/08/24/this-dc-area-high-tech-toilet-startup-wants-to-solve-the-public-bathroom-problem/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32624138"
     ],
     [
-      "Acorn: A lightweight PaaS for Kubernertes, from Rancher founders",
+      "Acorn: A simple application deployment framework for Kubernetes",
       "https://acorn.io/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32623908"
     ],
     [
-      "The Obsessive Pleasures of Mechanical-Keyboard Tinkerers",
+      "The obsessive pleasures of mechanical-keyboard tinkerers",
       "https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Reading fast, reading well, and reading widely",
       "https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 22:06:35",
-      "https://news.ycombinator.com/item?id=32623713"
-    ],
-    [
-      "Heroku to discontinue free product plans and delete inactive accounts",
-      "https://blog.heroku.com/next-chapter"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-08-25, 11:26:56",
-      "https://news.ycombinator.com/item?id=32592248"
+      "2022-08-25, 18:35:29",
+      "https://news.ycombinator.com/item?id=32598062"
     ],
     [
-      "The art of sharpening pencils (2007)",
-      "https://matthewjamestaylor.com/sharpening-pencils"
+      "Show HN: Browse HN Together in Three.js",
+      "https://threejs-example.hyperbeam.com"
     ]
   ]
 ]
