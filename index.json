@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-28, 14:04:20",
+      "https://news.ycombinator.com/item?id=32628468"
+    ],
+    [
+      "Computer Networks from Scratch Ch.4",
+      "https://www.networksfromscratch.com/4.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 13:51:02",
+      "https://news.ycombinator.com/item?id=32628381"
+    ],
+    [
+      "30TB Portable SSD Hits Walmart for $39 but Stay Away from It",
+      "https://www.tomshardware.com/news/30tb-portable-ssd-hits-walmart-for-dollar39-but-stay-away-from-it"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 13:49:23",
+      "https://news.ycombinator.com/item?id=32628367"
+    ],
+    [
+      "Show HN: Versioning Filesystem for SQLite",
+      "https://github.com/sudeep9/mojo"
+    ]
+  ],
+  [
+    [
       "2022-08-28, 13:35:58",
       "https://news.ycombinator.com/item?id=32628289"
     ],
@@ -51,12 +81,22 @@
   ],
   [
     [
-      "2022-08-28, 12:14:56",
-      "https://news.ycombinator.com/item?id=32627794"
+      "2022-08-28, 13:06:11",
+      "https://news.ycombinator.com/item?id=32628105"
     ],
     [
-      "Handshake Domains Are a Scam",
-      "https://akshat.sh/posts/handshake-scam/"
+      "Canonical joins the OpenSearch community (AWS-led fork of Elasticsearch)",
+      "https://twitter.com/ubuntu/status/1563164514299682819"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 12:38:31",
+      "https://news.ycombinator.com/item?id=32627934"
+    ],
+    [
+      "Dr. Chaos A powerful and easy-to-use structured fuzzing framework in Nim",
+      "https://github.com/status-im/nim-drchaos"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "GitHub for English Teachers",
       "https://blog.jonudell.net/2022/08/27/github-for-english-teachers/"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 10:09:32",
-      "https://news.ycombinator.com/item?id=32627144"
-    ],
-    [
-      "Jack Dorsey says his biggest regret is Twitter became a company",
-      "https://www.reuters.com/business/media-telecom/jack-dorsey-says-he-believes-twitter-should-not-be-owned-by-state-company-2022-08-25/"
     ]
   ],
   [
@@ -145,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32626404"
     ],
     [
-      "Stacker (YC S20) Is Hiring Product Engineer's",
+      "Stacker (YC S20) Is Hiring Product Engineers",
       "https://apply.workable.com/stackerhq/j/32E1D43CF5/"
     ]
   ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2022-08-27, 22:53:52",
-      "https://news.ycombinator.com/item?id=32624055"
-    ],
-    [
-      "Gimp development release 2.99.12 includes initial CMYK support",
-      "https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 22:30:31",
-      "https://news.ycombinator.com/item?id=32623908"
-    ],
-    [
-      "The obsessive pleasures of mechanical-keyboard tinkerers",
-      "https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers"
-    ]
-  ],
-  [
-    [
       "2022-08-27, 22:13:45",
       "https://news.ycombinator.com/item?id=32623766"
     ],
     [
       "Reading fast, reading well, and reading widely",
       "https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 21:47:03",
-      "https://news.ycombinator.com/item?id=32623543"
-    ],
-    [
-      "Five Ways to Write Like The Economist [pdf] (2010)",
-      "https://www.legalwritingpro.com/pdf/the-economist.pdf"
     ]
   ],
   [
