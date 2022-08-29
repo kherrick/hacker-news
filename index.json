@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-08-29, 20:09:41",
-      "https://news.ycombinator.com/item?id=32642918"
+      "2022-08-29, 20:51:35",
+      "https://news.ycombinator.com/item?id=32643396"
     ],
     [
-      "Association of body mass index with mortality",
-      "https://oa.mg/work/10.1038/s41366-022-01211-2"
+      "Associations of body mass index, fasting insulin and inflammation with mortality",
+      "https://www.nature.com/articles/s41366-022-01211-2"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "C++ Coroutines: Understanding the Compiler Transform",
       "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 19:56:40",
+      "https://news.ycombinator.com/item?id=32642768"
+    ],
+    [
+      "Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more",
+      "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon"
     ]
   ],
   [
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2022-08-29, 17:53:18",
+      "https://news.ycombinator.com/item?id=32641259"
+    ],
+    [
+      "Ask HN: Why hasn't the ACH system been more abused?",
+      "https://news.ycombinator.com/item?id=32641259"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 17:34:36",
       "https://news.ycombinator.com/item?id=32641028"
     ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2022-08-29, 15:30:38",
-      "https://news.ycombinator.com/item?id=32639453"
+      "2022-08-29, 16:16:27",
+      "https://news.ycombinator.com/item?id=32639970"
     ],
     [
-      "Decoding AWS Reserved Instances",
-      "https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/"
+      "DevOps: An idea so good, no one admits they don’t do it",
+      "https://wagslane.dev/posts/no-one-does-devops/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2022-08-29, 04:04:28",
-      "https://news.ycombinator.com/item?id=32634700"
-    ],
-    [
-      "Teenager invented a low-cost tool to spot elephant poachers",
-      "https://www.smithsonianmag.com/innovation/this-teenager-invented-a-low-cost-tool-to-spot-elephant-poachers-in-real-time-180980522/"
-    ]
-  ],
-  [
-    [
       "2022-08-28, 23:56:31",
       "https://news.ycombinator.com/item?id=32633382"
     ],
     [
       "Derinkuyu, the extraordinary underground city of Turkey",
       "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 15:32:27",
-      "https://news.ycombinator.com/item?id=32629172"
-    ],
-    [
-      "Your doppelgänger is out there and you probably share DNA with them",
-      "https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html"
     ]
   ],
   [
