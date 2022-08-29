@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-29, 09:26:52",
+      "https://news.ycombinator.com/item?id=32636221"
+    ],
+    [
+      "Ferret: A functional, lazy language for realtime embedded control systems",
+      "https://ferret-lang.org/"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 08:55:31",
       "https://news.ycombinator.com/item?id=32636068"
     ],
     [
       "NASA Artemis I Launch",
       "https://www.youtube.com/watch?v=k5KfrDAM2Bo"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 08:51:02",
+      "https://news.ycombinator.com/item?id=32636051"
+    ],
+    [
+      "Chezmoi – Manage your dotfiles across multiple diverse machines, securely",
+      "https://www.chezmoi.io/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-08-28, 17:53:54",
-      "https://news.ycombinator.com/item?id=32630389"
-    ],
-    [
-      "Why I quit using SwiftUI",
-      "https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html"
-    ]
-  ],
-  [
-    [
       "2022-08-28, 16:52:01",
       "https://news.ycombinator.com/item?id=32629857"
     ],
@@ -197,16 +207,6 @@
     [
       "An Introduction to PipeWire",
       "https://bootlin.com/blog/an-introduction-to-pipewire/"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 14:42:25",
-      "https://news.ycombinator.com/item?id=32628761"
-    ],
-    [
-      "Upscayl – Free and Open Source AI Image Upscaler for Linux, macOS and Windows",
-      "https://github.com/upscayl/upscayl"
     ]
   ],
   [
