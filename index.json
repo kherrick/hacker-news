@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-08-29, 19:13:23",
+      "https://news.ycombinator.com/item?id=32642255"
+    ],
+    [
+      "Run Stable Diffusion on Intel CPUs",
+      "https://github.com/bes-dev/stable_diffusion.openvino"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 18:34:08",
       "https://news.ycombinator.com/item?id=32641769"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2022-08-29, 18:19:12",
-      "https://news.ycombinator.com/item?id=32641573"
-    ],
-    [
-      "The Toothpaste Argument for Universal Basic Income",
-      "https://www.scottsantens.com/the-toothpaste-argument-for-universal-basic-income-ubi-gotz-werner/"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 17:34:36",
       "https://news.ycombinator.com/item?id=32641028"
     ],
     [
       "The Big [Censored] Theory",
       "https://pudding.cool/2022/08/censorship/"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 17:26:22",
+      "https://news.ycombinator.com/item?id=32640918"
+    ],
+    [
+      "The OK? Programming Language",
+      "https://github.com/jesseduffield/OK"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Ferret: A functional, lazy language for realtime embedded control systems",
       "https://ferret-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 09:12:55",
-      "https://news.ycombinator.com/item?id=32636162"
-    ],
-    [
-      "A handy guide to financial support for open source",
-      "https://github.com/nayafia/lemonade-stand"
     ]
   ],
   [
