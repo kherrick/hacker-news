@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-08-29, 21:08:00",
+      "https://news.ycombinator.com/item?id=32643564"
+    ],
+    [
+      "Stable Diffusion Textual Inversion",
+      "https://github.com/hlky/sd-enable-textual-inversion"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 21:01:15",
+      "https://news.ycombinator.com/item?id=32643498"
+    ],
+    [
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 20:51:35",
       "https://news.ycombinator.com/item?id=32643396"
     ],
     [
       "Associations of body mass index, fasting insulin and inflammation with mortality",
       "https://www.nature.com/articles/s41366-022-01211-2"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 20:30:55",
+      "https://news.ycombinator.com/item?id=32643152"
+    ],
+    [
+      "Microformats Wiki",
+      "http://microformats.org/wiki/Main_Page"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more",
       "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 19:44:31",
-      "https://news.ycombinator.com/item?id=32642627"
-    ],
-    [
-      "New Acquisitions: On the Wisdom of Noah Smith",
-      "https://acoup.blog/2022/08/29/new-acquisitions-on-the-wisdom-of-noah-smith/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "90s Cursor Effects",
       "https://tholman.com/cursor-effects/"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 17:01:11",
-      "https://news.ycombinator.com/item?id=32640598"
-    ],
-    [
-      "Suiteness (YC S16) is hiring a customer support concierge",
-      "https://www.ycombinator.com/companies/suiteness/jobs/kblNhHC-concierge"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-08-29, 11:43:13",
-      "https://news.ycombinator.com/item?id=32637008"
-    ],
-    [
-      "Auditory brainstem response distinguishes occasional and constant tinnitus",
-      "https://www.jci.org/articles/view/155094"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 11:00:13",
       "https://news.ycombinator.com/item?id=32636682"
     ],
@@ -247,16 +247,6 @@
     [
       "Google cracks down on VPN based adblockers",
       "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 23:56:31",
-      "https://news.ycombinator.com/item?id=32633382"
-    ],
-    [
-      "Derinkuyu, the extraordinary underground city of Turkey",
-      "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "What does it take to be a good programmer?",
       "https://qristin.wordpress.com/2022/08/28/what-does-it-take-to-be-a-good-programmer/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 11:06:32",
+      "https://news.ycombinator.com/item?id=32627402"
+    ],
+    [
+      "The ‘liveaboards’ sailing away to a new life",
+      "https://www.theguardian.com/travel/2022/aug/28/we-feel-truly-alive-meet-the-liveaboards-sailing-away-to-a-new-life"
     ]
   ]
 ]
