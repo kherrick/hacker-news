@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2022-08-29, 19:56:40",
-      "https://news.ycombinator.com/item?id=32642768"
+      "2022-08-29, 20:01:30",
+      "https://news.ycombinator.com/item?id=32642832"
     ],
     [
-      "Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more",
-      "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon"
+      "C++ Coroutines: Understanding the Compiler Transform",
+      "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform"
     ]
   ],
   [
