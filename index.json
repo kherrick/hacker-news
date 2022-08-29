@@ -1,22 +1,72 @@
 [
   [
     [
+      "2022-08-29, 13:05:06",
+      "https://news.ycombinator.com/item?id=32637689"
+    ],
+    [
+      "A CSS-Inspired Syntax for Flowcharts",
+      "https://tone-row.com/blog/graph-syntax-css-selectors"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 13:04:44",
+      "https://news.ycombinator.com/item?id=32637686"
+    ],
+    [
+      "Welcome Home, Garry Tan",
+      "https://www.ycombinator.com/blog/welcome-home-garry-tan/"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 12:57:07",
+      "https://news.ycombinator.com/item?id=32637598"
+    ],
+    [
+      "NASA Artemis I Launch Attempt Scrubbed",
+      "https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 12:52:16",
+      "https://news.ycombinator.com/item?id=32637553"
+    ],
+    [
+      "CSS Classes Considered Harmful",
+      "https://www.keithcirkel.co.uk/css-classes-considered-harmful/"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 12:45:58",
+      "https://news.ycombinator.com/item?id=32637493"
+    ],
+    [
+      "Artemis Launch Scrubbed",
+      "https://twitter.com/NASA/status/1564232429279272962"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 12:14:14",
+      "https://news.ycombinator.com/item?id=32637239"
+    ],
+    [
+      "Tracker Beeper",
+      "https://berthub.eu/articles/posts/tracker-beeper/"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 11:43:13",
       "https://news.ycombinator.com/item?id=32637008"
     ],
     [
       "Auditory brainstem response distinguishes occasional and constant tinnitus",
       "https://www.jci.org/articles/view/155094"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 11:36:30",
-      "https://news.ycombinator.com/item?id=32636949"
-    ],
-    [
-      "Hacker News is a masterpiece",
-      "https://thesumup.substack.com/p/hacker-news-is-a-masterpiece"
     ]
   ],
   [
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2022-08-29, 08:27:02",
-      "https://news.ycombinator.com/item?id=32635910"
-    ],
-    [
-      "The Latency/Throughput Tradeoff: Why Fast Services Are Slow and Vice Versa",
-      "https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 07:57:03",
       "https://news.ycombinator.com/item?id=32635725"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-08-29, 02:22:05",
-      "https://news.ycombinator.com/item?id=32634171"
-    ],
-    [
-      "A sharp and shrewd look at Lawrence",
-      "https://thecritic.co.uk/issues/august-september-2022/a-sharp-and-shrewd-look-at-lawrence/"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 00:38:49",
       "https://news.ycombinator.com/item?id=32633651"
     ],
@@ -177,6 +207,16 @@
     [
       "How Can We Create a Manual for Civilization? (2017)",
       "https://longnow.org/ideas/02017/06/07/how-can-we-create-a-manual-for-civilization/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 23:56:31",
+      "https://news.ycombinator.com/item?id=32633382"
+    ],
+    [
+      "Derinkuyu, the extraordinary underground city of Turkey",
+      "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey"
     ]
   ],
   [
@@ -221,26 +261,6 @@
   ],
   [
     [
-      "2022-08-28, 20:02:16",
-      "https://news.ycombinator.com/item?id=32631553"
-    ],
-    [
-      "Wren is a small, fast, class-based concurrent scripting language",
-      "https://wren.io"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 16:31:40",
-      "https://news.ycombinator.com/item?id=32629669"
-    ],
-    [
-      "Weird monitor bugs people sent me in the last 5 years",
-      "https://notes.alinpanaitiu.com/Weird%20monitor%20bugs"
-    ]
-  ],
-  [
-    [
       "2022-08-28, 02:48:33",
       "https://news.ycombinator.com/item?id=32625324"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-08-26, 11:58:26",
-      "https://news.ycombinator.com/item?id=32606193"
-    ],
-    [
-      "ValueObject (2016)",
-      "https://martinfowler.com/bliki/ValueObject.html"
-    ]
-  ],
-  [
-    [
       "2022-08-26, 10:34:06",
       "https://news.ycombinator.com/item?id=32605559"
     ],
     [
       "Hear the World’s Oldest Known Song, “Hurrian Hymn No. 6” Written 3400 Years Ago",
       "https://www.openculture.com/2022/08/hear-the-worlds-oldest-known-song-hurrian-hymn-no-6-written-3400-years-ago.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-26, 09:38:40",
-      "https://news.ycombinator.com/item?id=32605142"
-    ],
-    [
-      "The Up-Goer Five Text Editor",
-      "https://splasho.com/upgoer5/"
     ]
   ]
 ]
