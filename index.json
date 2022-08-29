@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2022-08-28, 13:49:23",
-      "https://news.ycombinator.com/item?id=32628367"
+      "2022-08-27, 20:28:14",
+      "https://news.ycombinator.com/item?id=32622862"
     ],
     [
-      "Show HN: Versioning Filesystem for SQLite",
-      "https://github.com/sudeep9/mojo"
+      "My Lack of Attention",
+      "https://www.champonthis.de/dev/rand/lack-of-attention"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "Vertex Meadow",
       "https://www.vertexmeadow.xyz/"
-    ]
-  ],
-  [
-    [
-      "2022-08-27, 07:51:34",
-      "https://news.ycombinator.com/item?id=32616802"
-    ],
-    [
-      "State Machines II",
-      "https://blog.yoshuawuyts.com/state-machines-2/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Up-Goer Five Text Editor",
       "https://splasho.com/upgoer5/"
+    ]
+  ],
+  [
+    [
+      "2022-08-25, 08:24:11",
+      "https://news.ycombinator.com/item?id=32591067"
+    ],
+    [
+      "Gairoscope: Injecting Data from Air-Gapped Computers to Nearby Gyroscopes",
+      "https://techcrunch.com/2022/08/24/gairoscope-air-gap-attack/"
     ]
   ]
 ]
