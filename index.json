@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-08-30, 03:42:04",
-      "https://news.ycombinator.com/item?id=32646384"
+      "2022-08-30, 05:59:31",
+      "https://news.ycombinator.com/item?id=32647091"
     ],
     [
-      "New Zealand's plan to prepare for inevitable climate change impacts",
-      "https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now"
+      "Tips for Developers Who Want to Build a SaaS Startup",
+      "https://news.ycombinator.com/item?id=32647091"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 05:12:16",
+      "https://news.ycombinator.com/item?id=32646836"
+    ],
+    [
+      "How to Nationalize the Internet in Canada",
+      "https://anarc.at/blog/2022-08-26-nationalize-internet/"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 04:39:29",
+      "https://news.ycombinator.com/item?id=32646690"
+    ],
+    [
+      "Packed structs in Zig make bit/flag sets trivial",
+      "https://devlog.hexops.com/2022/packed-structs-in-zig/"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 04:09:33",
+      "https://news.ycombinator.com/item?id=32646536"
+    ],
+    [
+      "Host your own OpenStreetMap Map Tiles",
+      "https://altilunium.my.id/blog/osm_selfhost/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "PowerUp: IDE Decompilation and Disassembly Tools",
       "https://github.com/badamczewski/PowerUp"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 01:57:40",
+      "https://news.ycombinator.com/item?id=32645822"
+    ],
+    [
+      "Play MSDOS Oregon Trail 1990 on archive.org",
+      "https://archive.org/details/msdos_Oregon_Trail_The_1990"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-08-29, 20:01:30",
-      "https://news.ycombinator.com/item?id=32642832"
-    ],
-    [
-      "C++ coroutines: Understanding the compiler transform",
-      "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 19:56:40",
       "https://news.ycombinator.com/item?id=32642768"
     ],
@@ -127,16 +157,6 @@
     [
       "Run Stable Diffusion on Intel CPUs",
       "https://github.com/bes-dev/stable_diffusion.openvino"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 18:34:08",
-      "https://news.ycombinator.com/item?id=32641769"
-    ],
-    [
-      "Are GPUs Worth It for ML?",
-      "https://exafunction.com/blog/are-gpus-worth-it"
     ]
   ],
   [
@@ -181,36 +201,6 @@
   ],
   [
     [
-      "2022-08-29, 14:51:22",
-      "https://news.ycombinator.com/item?id=32639000"
-    ],
-    [
-      "Why 12 notes in Western music?",
-      "https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 14:24:19",
-      "https://news.ycombinator.com/item?id=32638667"
-    ],
-    [
-      "Rewriting my blog in Rust for fun and profit",
-      "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 14:09:28",
-      "https://news.ycombinator.com/item?id=32638456"
-    ],
-    [
-      "Rights, Laws, and Google",
-      "https://stratechery.com/2022/rights-laws-and-google/"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 13:04:44",
       "https://news.ycombinator.com/item?id=32637686"
     ],
@@ -237,6 +227,16 @@
     [
       "London’s History, Washed Up on the Shores of the Thames",
       "https://hyperallergic.com/731564/londons-history-washed-up-on-the-shores-of-the-thames/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 15:44:42",
+      "https://news.ycombinator.com/item?id=32629286"
+    ],
+    [
+      "SDN in the stratosphere: Loon's aerospace mesh network",
+      "https://dl.acm.org/doi/10.1145/3544216.3544231"
     ]
   ],
   [
