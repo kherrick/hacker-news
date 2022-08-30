@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-30, 14:51:00",
+      "https://news.ycombinator.com/item?id=32651186"
+    ],
+    [
+      "ARM Pointer Authentication",
+      "https://lwn.net/Articles/718888/"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 14:24:54",
       "https://news.ycombinator.com/item?id=32650878"
     ],
@@ -257,16 +267,6 @@
     [
       "AmiBlitz3 – a BASIC-compiler for 68k-Amiga",
       "https://github.com/AmiBlitz/AmiBlitz3"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 15:39:56",
-      "https://news.ycombinator.com/item?id=32629237"
-    ],
-    [
-      "PostScript Control Structures (2003)",
-      "https://nedbatchelder.com/blog/200312/postscript_control_structures.html"
     ]
   ],
   [
