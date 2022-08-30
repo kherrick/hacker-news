@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-08-30, 17:02:57",
+      "https://news.ycombinator.com/item?id=32652627"
+    ],
+    [
+      "Understanding UseMemo and UseCallback",
+      "https://www.joshwcomeau.com/react/usememo-and-usecallback/"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 17:00:42",
       "https://news.ycombinator.com/item?id=32652605"
     ],
@@ -257,16 +267,6 @@
     [
       "Mimetic Traps",
       "https://www.briantimar.com/notes/mimetic/mimetic/"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 04:06:42",
-      "https://news.ycombinator.com/item?id=32634711"
-    ],
-    [
-      "AmiBlitz3 – a BASIC-compiler for 68k-Amiga",
-      "https://github.com/AmiBlitz/AmiBlitz3"
     ]
   ],
   [
