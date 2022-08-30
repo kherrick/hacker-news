@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-30, 09:42:10",
+      "https://news.ycombinator.com/item?id=32648438"
+    ],
+    [
+      "50 years Smalltalk anniversary celebration at Computer History Museum",
+      "https://computerhistory.org/events/making-smalltalk/"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 08:55:09",
       "https://news.ycombinator.com/item?id=32648131"
     ],
@@ -167,16 +177,6 @@
     [
       "Supporting four operating systems in a 400 byte ELF executable",
       "https://justine.lol/sizetricks/#elf"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 19:13:23",
-      "https://news.ycombinator.com/item?id=32642255"
-    ],
-    [
-      "Run Stable Diffusion on Intel CPUs",
-      "https://github.com/bes-dev/stable_diffusion.openvino"
     ]
   ],
   [
