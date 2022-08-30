@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-08-30, 03:42:04",
+      "https://news.ycombinator.com/item?id=32646384"
+    ],
+    [
+      "New Zealand's plan to prepare for inevitable climate change impacts",
+      "https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 02:38:52",
       "https://news.ycombinator.com/item?id=32646043"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2022-08-29, 23:35:17",
-      "https://news.ycombinator.com/item?id=32644878"
-    ],
-    [
-      "AMD Details Ryzen 7000 Launch: Ryzen 7950X and More, Coming Sept. 27th",
-      "https://www.anandtech.com/show/17552/amd-details-ryzen-7000-launch-up-ryzen-7900x-coming-sept-30"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 22:17:34",
       "https://news.ycombinator.com/item?id=32644277"
     ],
     [
       "Why are you so busy?",
       "https://tomlingham.com/articles/why-are-you-so-busy/"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 22:07:43",
-      "https://news.ycombinator.com/item?id=32644176"
-    ],
-    [
-      "Why DALL-E will not steal my job as an illustrator",
-      "https://emmanuel6.medium.com/why-dall-e-will-not-steal-my-job-6a1e2943cb82"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2022-08-29, 15:19:59",
+      "https://news.ycombinator.com/item?id=32639325"
+    ],
+    [
+      "Large scale Internet SSH brute force attacks seem to have stopped here",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 14:51:22",
       "https://news.ycombinator.com/item?id=32639000"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-08-29, 13:31:55",
-      "https://news.ycombinator.com/item?id=32637996"
-    ],
-    [
-      "Show HN: I built a tool to help you read Hacker News on Kindle",
-      "https://ktool.io/hacker-news-to-kindle"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 13:04:44",
       "https://news.ycombinator.com/item?id=32637686"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2022-08-29, 13:01:03",
-      "https://news.ycombinator.com/item?id=32637643"
+      "2022-08-29, 04:10:11",
+      "https://news.ycombinator.com/item?id=32634729"
     ],
     [
-      "Git’s database internals I: packed object store",
-      "https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/"
+      "Project Highwater",
+      "https://en.wikipedia.org/wiki/Project_Highwater"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Psychological Problems of Interplanetary Travel (1975)",
       "https://archive.org/details/leonov-lebedev-psychological-problems-of-interplanetary-travel-1975"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 07:50:04",
+      "https://news.ycombinator.com/item?id=32626576"
+    ],
+    [
+      "Giant Keyboard Is Just Our Type",
+      "https://hackaday.com/2022/08/27/giant-keyboard-is-just-our-type/"
     ]
   ]
 ]
