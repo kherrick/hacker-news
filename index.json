@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-08-30, 22:11:53",
+      "https://news.ycombinator.com/item?id=32655830"
+    ],
+    [
+      "C++ compiler can dynamically inline functions at runtime",
+      "https://github.com/drti"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 21:39:50",
       "https://news.ycombinator.com/item?id=32655497"
     ],
     [
-      "Exploring 12M of the 2.3B Images Used to Train Stable Diffusion",
+      "Exploring 12M of the 2.3B images used to train Stable Diffusion",
       "https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32652855"
     ],
     [
-      "Want to build hardware for agriculture? Get supply chain resilient",
+      "Supply chain resilience is a requirement for agritech hardware",
       "https://www.hardwarethings.org/features/supply-chain-resilience-agritech-hardware"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-08-30, 09:42:10",
-      "https://news.ycombinator.com/item?id=32648438"
-    ],
-    [
-      "50 years Smalltalk anniversary celebration at Computer History Museum",
-      "https://computerhistory.org/events/making-smalltalk/"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 09:31:03",
       "https://news.ycombinator.com/item?id=32648359"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-08-29, 04:34:24",
-      "https://news.ycombinator.com/item?id=32634831"
-    ],
-    [
-      "Mimetic Traps",
-      "https://www.briantimar.com/notes/mimetic/mimetic/"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 01:57:04",
       "https://news.ycombinator.com/item?id=32634038"
     ],
@@ -297,6 +287,16 @@
     [
       "Holier Than Thou: Precision Holes by Drilling, Boring, and Reaming (2021)",
       "https://tarkka.co/2021/02/07/holier-than-thou/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 12:02:47",
+      "https://news.ycombinator.com/item?id=32627723"
+    ],
+    [
+      "My Road to Lisp (2007)",
+      "http://peter.michaux.ca/articles/my-road-to-lisp"
     ]
   ]
 ]
