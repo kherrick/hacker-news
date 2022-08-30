@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-08-30, 16:49:45",
-      "https://news.ycombinator.com/item?id=32652484"
-    ],
-    [
-      "$250k for your AI-first product startup",
-      "https://aigrant.org/"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 16:33:34",
       "https://news.ycombinator.com/item?id=32652291"
     ],
@@ -137,16 +127,6 @@
     [
       "REPL Driven Minecraft",
       "https://www.juxt.pro/blog/repl-driven-minecraft"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 13:53:12",
-      "https://news.ycombinator.com/item?id=32650432"
-    ],
-    [
-      "1 week of Stable Diffusion",
-      "https://multimodal.art/news/1-week-of-stable-diffusion"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2022-08-29, 01:57:04",
+      "https://news.ycombinator.com/item?id=32634038"
+    ],
+    [
+      "Writing a toy WebSocket server from scratch",
+      "https://alexanderell.is/posts/websockets-from-scratch/"
+    ]
+  ],
+  [
+    [
       "2022-08-28, 14:40:58",
       "https://news.ycombinator.com/item?id=32628750"
     ],
@@ -297,6 +287,16 @@
     [
       "The Three Pillars of Functional Autonomy of Hackers",
       "https://link.springer.com/article/10.1007/s11569-021-00389-5"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 11:45:01",
+      "https://news.ycombinator.com/item?id=32627597"
+    ],
+    [
+      "How Many Equations of Motion Describe a Moving Human?",
+      "https://arxiv.org/abs/2207.14331"
     ]
   ]
 ]
