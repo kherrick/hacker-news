@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-30, 17:07:12",
+      "https://news.ycombinator.com/item?id=32652673"
+    ],
+    [
+      "Show HN: A short sci-fi story written with GPT-3 and illustrated with DALL-E 2",
+      "https://news.ycombinator.com/item?id=32652673"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 17:00:42",
+      "https://news.ycombinator.com/item?id=32652605"
+    ],
+    [
+      "Patterns (YC S21) Is hiring to build the OS for your data warehouse",
+      "https://www.patterns.app/"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 16:49:45",
+      "https://news.ycombinator.com/item?id=32652484"
+    ],
+    [
+      "$250k for your AI-first product startup",
+      "https://aigrant.org/"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 16:33:34",
       "https://news.ycombinator.com/item?id=32652291"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-08-30, 12:00:19",
-      "https://news.ycombinator.com/item?id=32649252"
-    ],
-    [
-      "Pachyderm Is Hiring Go Distributed Systems and Testing Engineers",
-      "https://www.pachyderm.com/careers/#positions"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 11:37:43",
       "https://news.ycombinator.com/item?id=32649091"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-08-30, 09:13:31",
-      "https://news.ycombinator.com/item?id=32648245"
-    ],
-    [
-      "Programming on 34 Keys",
-      "https://peppe.rs/posts/programming_on_34_keys/"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 08:55:09",
       "https://news.ycombinator.com/item?id=32648131"
     ],
@@ -237,16 +247,6 @@
     [
       "Packed structs in Zig make bit/flag sets trivial",
       "https://devlog.hexops.com/2022/packed-structs-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 04:09:33",
-      "https://news.ycombinator.com/item?id=32646536"
-    ],
-    [
-      "Host your own OpenStreetMap Map Tiles",
-      "https://altilunium.my.id/blog/osm_selfhost/"
     ]
   ],
   [
