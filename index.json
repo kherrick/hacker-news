@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-08-31, 00:48:51",
+      "https://news.ycombinator.com/item?id=32657046"
+    ],
+    [
+      "Fed expects to launch long-awaited Faster Payments System by 2023",
+      "https://forkast.news/headlines/fed-faster-payments-system-by-2023/"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 00:00:05",
+      "https://news.ycombinator.com/item?id=32656721"
+    ],
+    [
+      "Play 1978 Oregon Trail in the browser",
+      "https://paleotronic.com/applesoft/?load=/applesoft/examples/adventure/oregon.apl"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 22:53:09",
       "https://news.ycombinator.com/item?id=32656200"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32655830"
     ],
     [
-      "C++ compiler can dynamically inline functions at runtime",
+      "The Dynamic Runtime Inlining project",
       "https://github.com/drti"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32655347"
     ],
     [
-      "XCode Cloud Subscriptions Now Available",
+      "Xcode Cloud overview",
       "https://developer.apple.com/xcode-cloud/"
     ]
   ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-08-30, 18:13:04",
-      "https://news.ycombinator.com/item?id=32653318"
-    ],
-    [
-      "The PC and Internet Revolution in Rural America",
-      "https://changelog.complete.org/archives/10417-the-pc-internet-revolution-in-rural-america"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 17:54:36",
       "https://news.ycombinator.com/item?id=32653133"
     ],
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2022-08-30, 17:26:07",
-      "https://news.ycombinator.com/item?id=32652855"
+      "2022-08-30, 17:02:57",
+      "https://news.ycombinator.com/item?id=32652627"
     ],
     [
-      "Supply chain resilience is a requirement for agritech hardware",
-      "https://www.hardwarethings.org/features/supply-chain-resilience-agritech-hardware"
+      "Understanding UseMemo and UseCallback",
+      "https://www.joshwcomeau.com/react/usememo-and-usecallback/"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2022-08-30, 09:31:03",
-      "https://news.ycombinator.com/item?id=32648359"
-    ],
-    [
-      "How fat does a fat binary need to be? (2021)",
-      "https://justine.lol/cosmopolitan/howfat.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 08:55:09",
-      "https://news.ycombinator.com/item?id=32648131"
-    ],
-    [
-      "AdGuard publishes the first ad blocker built on Manifest V3",
-      "https://adguard.com/en/blog/adguard-mv3.html"
-    ]
-  ],
-  [
-    [
       "2022-08-29, 09:03:07",
       "https://news.ycombinator.com/item?id=32636101"
     ],
@@ -277,6 +267,16 @@
     [
       "Writing a toy WebSocket server from scratch",
       "https://alexanderell.is/posts/websockets-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2022-08-28, 15:01:03",
+      "https://news.ycombinator.com/item?id=32628913"
+    ],
+    [
+      "In the Battle over the Right to Repair, Open-Source Tractors Offer Alternatives",
+      "https://civileats.com/2022/04/27/right-to-repair-open-source-tractors-john-deere-oggun-farms-profitability-technology/"
     ]
   ],
   [
