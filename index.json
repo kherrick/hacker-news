@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-08-31, 04:33:37",
+      "https://news.ycombinator.com/item?id=32658408"
+    ],
+    [
+      "Stable Diffusion Animation",
+      "https://replicate.com/andreasjansson/stable-diffusion-animation"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 03:36:11",
+      "https://news.ycombinator.com/item?id=32658091"
+    ],
+    [
+      "Software Engineering Research Questions",
+      "https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 03:33:24",
+      "https://news.ycombinator.com/item?id=32658068"
+    ],
+    [
+      "Historical patterns and sustainability implications of worldwide bicycle use",
+      "https://www.nature.com/articles/s43247-022-00497-4"
+    ]
+  ],
+  [
+    [
       "2022-08-31, 01:06:20",
       "https://news.ycombinator.com/item?id=32657155"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-08-30, 17:00:42",
-      "https://news.ycombinator.com/item?id=32652605"
-    ],
-    [
-      "Patterns (YC S21) Is hiring to build the OS for your data warehouse",
-      "https://www.patterns.app/"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 16:33:34",
       "https://news.ycombinator.com/item?id=32652291"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2022-08-30, 14:05:42",
-      "https://news.ycombinator.com/item?id=32650626"
-    ],
-    [
-      "REPL Driven Minecraft",
-      "https://www.juxt.pro/blog/repl-driven-minecraft"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 13:28:14",
       "https://news.ycombinator.com/item?id=32650142"
     ],
     [
       "Launch HN: Be Golden (YC S22) – Measure and manage your inflammation levels",
       "https://news.ycombinator.com/item?id=32650142"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 13:03:04",
-      "https://news.ycombinator.com/item?id=32649864"
-    ],
-    [
-      "What would a “good” WebMD look like?",
-      "https://blog.tjcx.me/p/why-is-webmd-so-awful"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-08-29, 03:30:06",
+      "https://news.ycombinator.com/item?id=32634511"
+    ],
+    [
+      "Programming on 34 Keys",
+      "https://peppe.rs/posts/programming_on_34_keys/"
+    ]
+  ],
+  [
+    [
       "2022-08-29, 02:03:19",
       "https://news.ycombinator.com/item?id=32634074"
     ],
@@ -287,16 +297,6 @@
     [
       "In the battle over the right to repair, open-source tractors offer alternatives",
       "https://civileats.com/2022/04/27/right-to-repair-open-source-tractors-john-deere-oggun-farms-profitability-technology/"
-    ]
-  ],
-  [
-    [
-      "2022-08-28, 12:02:47",
-      "https://news.ycombinator.com/item?id=32627723"
-    ],
-    [
-      "My Road to Lisp (2007)",
-      "http://peter.michaux.ca/articles/my-road-to-lisp"
     ]
   ]
 ]
