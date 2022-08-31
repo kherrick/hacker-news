@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-08-31, 07:00:50",
+      "https://news.ycombinator.com/item?id=32659241"
+    ],
+    [
+      "Tab (YC W15) Is Hiring a Lead Developer in London",
+      "https://tab.recruitee.com/o/lead-developer"
+    ]
+  ],
+  [
+    [
       "2022-08-31, 06:03:58",
       "https://news.ycombinator.com/item?id=32658926"
     ],
     [
       "How to offer effective free trials",
       "https://upollo.ai/blog/effective-trials"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 05:41:58",
+      "https://news.ycombinator.com/item?id=32658791"
+    ],
+    [
+      "Washington state county removes an election security device",
+      "https://www.npr.org/2022/08/28/1119692541/washington-state-albert-sensor-cybersecurity-election-security"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-08-30, 17:02:57",
-      "https://news.ycombinator.com/item?id=32652627"
-    ],
-    [
-      "Understanding UseMemo and UseCallback",
-      "https://www.joshwcomeau.com/react/usememo-and-usecallback/"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 16:33:34",
       "https://news.ycombinator.com/item?id=32652291"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2022-08-30, 16:01:18",
-      "https://news.ycombinator.com/item?id=32651934"
-    ],
-    [
-      "Git’s database internals II: commit history queries",
-      "https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 15:26:18",
       "https://news.ycombinator.com/item?id=32651556"
     ],
     [
       "4.2 Gigabytes, Or: How to Draw Anything",
       "https://andys.page/posts/how-to-draw/"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 15:21:48",
-      "https://news.ycombinator.com/item?id=32651517"
-    ],
-    [
-      "Converting a fisheye image into a panoramic, spherical or perspective projection",
-      "http://paulbourke.net/dome/fish2/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "List of Creepypastas",
       "https://en.wikipedia.org/wiki/List_of_creepypastas"
+    ]
+  ],
+  [
+    [
+      "2022-08-29, 06:32:03",
+      "https://news.ycombinator.com/item?id=32635323"
+    ],
+    [
+      "Advantages of CRT over LCD",
+      "https://dfarq.homeip.net/advantages-of-crt-over-lcd/"
     ]
   ],
   [
