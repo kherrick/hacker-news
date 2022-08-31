@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-08-31, 20:42:47",
+      "https://news.ycombinator.com/item?id=32668092"
+    ],
+    [
+      "Dealing with the Perfectionism Trap as a Developer",
+      "https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 20:42:04",
+      "https://news.ycombinator.com/item?id=32668081"
+    ],
+    [
+      "Saying Goodbye to My Parents’ Library",
+      "https://www.wsj.com/articles/saying-goodbye-to-my-parents-library-11661572861"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 20:10:02",
+      "https://news.ycombinator.com/item?id=32667692"
+    ],
+    [
+      "FDA Authorizes Moderna, Pfizer-BioNTech Bivalent Covid-19 Vaccines Booster Dose",
+      "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-moderna-pfizer-biontech-bivalent-covid-19-vaccines-use"
+    ]
+  ],
+  [
+    [
       "2022-08-31, 20:03:44",
       "https://news.ycombinator.com/item?id=32667619"
     ],
     [
       "WebKit Migrates from Subversion to GitHub",
       "https://webkit.org/blog/13140/webkit-on-github/"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 19:15:54",
-      "https://news.ycombinator.com/item?id=32666995"
-    ],
-    [
-      "Will California Eliminate Anonymous Web Browsing? (Comments on CA AB 2273)",
-      "https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Launch HN: Payload (YC S22) – Headless CMS for Developers",
       "https://news.ycombinator.com/item?id=32665325"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 16:47:36",
-      "https://news.ycombinator.com/item?id=32664877"
-    ],
-    [
-      "Show HN: An opinionated and statically-typed TypeScript SDK generator",
-      "https://easysdk.xyz/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-08-31, 11:07:36",
-      "https://news.ycombinator.com/item?id=32660633"
-    ],
-    [
-      "Seaweed could be the future of plastic [video]",
-      "https://www.youtube.com/watch?v=901aQFR6Ft0"
-    ]
-  ],
-  [
-    [
       "2022-08-31, 10:35:15",
       "https://news.ycombinator.com/item?id=32660443"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-08-31, 03:10:33",
-      "https://news.ycombinator.com/item?id=32657941"
+      "2022-08-30, 15:15:32",
+      "https://news.ycombinator.com/item?id=32651454"
     ],
     [
-      "The Many Lives of Elizabeth von Arnim",
-      "https://sydneyreviewofbooks.com/review/elizabeth-von-arnim-the-countess-from-kirribilli/"
+      "Some ways to get better at debugging",
+      "https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/"
     ]
   ],
   [
