@@ -1,22 +1,32 @@
 [
   [
     [
-      "2022-09-01, 19:24:49",
-      "https://news.ycombinator.com/item?id=32681698"
+      "2022-09-01, 19:49:01",
+      "https://news.ycombinator.com/item?id=32682064"
     ],
     [
-      "TIL Hacker News.com redirects here",
-      "https://web.archive.org/web/20211215000000*/hackernews.com"
+      "How military operations get their code names (2011)",
+      "https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names"
     ]
   ],
   [
     [
-      "2022-09-01, 19:16:38",
-      "https://news.ycombinator.com/item?id=32681584"
+      "2022-09-01, 19:43:28",
+      "https://news.ycombinator.com/item?id=32681976"
     ],
     [
-      "American policy is splitting state by state into two blocs",
-      "https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"
+      "macOS now scans for malware whenever it gets a chance",
+      "https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 19:28:42",
+      "https://news.ycombinator.com/item?id=32681769"
+    ],
+    [
+      "Forms should be apps: Why I'm building Component",
+      "https://blog.usecomponent.com/forms-should-be-apps-why-component-exists/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32681495"
     ],
     [
-      "B.C. man's negative reviews on Google, Yelp cost him $90k in defamation case",
+      "Customer who defamed BC company on Google, Yelp ordered to pay $90k",
       "https://vancouversun.com/news/local-news/customer-who-defamed-company-on-google-and-yelp-ordered-to-pay-90000"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm",
       "https://arxiv.org/abs/2208.14990"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 18:53:32",
-      "https://news.ycombinator.com/item?id=32681229"
-    ],
-    [
-      "My Blog Is Hilariously Overengineered to the Point Ppl Think Its a Static Site",
-      "https://www.conf42.com/Rustlang_2022_Xe_Iaso_blog_hilariously_overengineered"
     ]
   ],
   [
@@ -67,26 +67,6 @@
     [
       "One million queries per second with MySQL",
       "https://planetscale.com/blog/one-million-queries-per-second-with-mysql"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 17:57:17",
-      "https://news.ycombinator.com/item?id=32680382"
-    ],
-    [
-      "Ask HN: Why don't we have 3 day weekends yet?",
-      "https://news.ycombinator.com/item?id=32680382"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 17:29:28",
-      "https://news.ycombinator.com/item?id=32679905"
-    ],
-    [
-      "California lawmakers vote to keep Diablo Canyon online",
-      "https://www.world-nuclear-news.org/Articles/California-lawmakers-vote-to-keep-Diablo-Canyon-on"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2022-09-01, 13:00:03",
+      "https://news.ycombinator.com/item?id=32675658"
+    ],
+    [
+      "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
+      "https://news.ycombinator.com/item?id=32675658"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 09:58:57",
       "https://news.ycombinator.com/item?id=32674243"
     ],
@@ -241,32 +231,22 @@
   ],
   [
     [
-      "2022-09-01, 04:24:02",
-      "https://news.ycombinator.com/item?id=32671959"
-    ],
-    [
-      "Falsehoods programmers believe about email",
-      "https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 15:58:49",
-      "https://news.ycombinator.com/item?id=32664040"
-    ],
-    [
-      "NPR Dives into the Rise of the 'Stealership'",
-      "https://jalopnik.com/npr-dives-into-the-rise-of-the-stealership-1849473117"
-    ]
-  ],
-  [
-    [
       "2022-08-30, 15:45:51",
       "https://news.ycombinator.com/item?id=32651763"
     ],
     [
       "Be good-argument-driven, not data-driven",
       "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 15:31:58",
+      "https://news.ycombinator.com/item?id=32651611"
+    ],
+    [
+      "Understanding Google’s File System (2020)",
+      "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Newly discovered exoplanet may be first covered in liquid water",
       "https://www.freethink.com/space/ocean-planet"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 14:34:36",
+      "https://news.ycombinator.com/item?id=32650996"
+    ],
+    [
+      "JavaScript Hydration Is a Workaround, Not a Solution",
+      "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 13:19:58",
+      "https://news.ycombinator.com/item?id=32650045"
+    ],
+    [
+      "The rise of 'stealerships' and the shady economics of car buying",
+      "https://www.npr.org/sections/money/2022/08/30/1119715886/inside-the-rise-of-stealerships-and-the-shady-economics-of-car-buying"
     ]
   ],
   [
