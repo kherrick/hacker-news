@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-01, 13:33:25",
+      "https://news.ycombinator.com/item?id=32675996"
+    ],
+    [
+      "Stable Diffusion: Is Video Coming Soon?",
+      "https://metaphysic.ai/stable-diffusion-is-video-coming-soon/"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 13:27:33",
+      "https://news.ycombinator.com/item?id=32675939"
+    ],
+    [
+      "To Save the Deep Ocean, We Should Mine the Moon",
+      "https://nautil.us/to-save-the-deep-ocean-we-should-mine-the-moon-26579/"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 13:21:05",
+      "https://news.ycombinator.com/item?id=32675863"
+    ],
+    [
+      "California Declares Grid Emergency",
+      "https://www.rigzone.com/news/wire/california_declares_grid_emergency-01-sep-2022-170187-article/"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 13:20:55",
+      "https://news.ycombinator.com/item?id=32675861"
+    ],
+    [
+      "SQLite: Past, Present, and Future",
+      "https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 13:14:10",
       "https://news.ycombinator.com/item?id=32675791"
     ],
@@ -17,16 +57,6 @@
     [
       "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
       "https://news.ycombinator.com/item?id=32675658"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 12:28:30",
-      "https://news.ycombinator.com/item?id=32675389"
-    ],
-    [
-      "Armies are re-learning how to fight in cities",
-      "https://www.economist.com/international/2022/08/17/armies-are-re-learning-how-to-fight-in-cities"
     ]
   ],
   [
@@ -101,6 +131,16 @@
   ],
   [
     [
+      "2022-09-01, 07:54:30",
+      "https://news.ycombinator.com/item?id=32673340"
+    ],
+    [
+      "Our screwdriver took three years [video]",
+      "https://www.youtube.com/watch?v=2K5Gqp1cEcM"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 07:24:11",
       "https://news.ycombinator.com/item?id=32673119"
     ],
@@ -157,46 +197,6 @@
     [
       "The dictatorship of the articulate",
       "https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 01:09:30",
-      "https://news.ycombinator.com/item?id=32670503"
-    ],
-    [
-      "Scientific grant applications are getting heavier on hype",
-      "https://www.statnews.com/2022/08/30/science-grant-nih-hype-application/"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 23:42:07",
-      "https://news.ycombinator.com/item?id=32669800"
-    ],
-    [
-      "Show HN: Encrypted Git hosting should be easy",
-      "https://github.com/nathants/git-remote-aws"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 22:34:08",
-      "https://news.ycombinator.com/item?id=32669215"
-    ],
-    [
-      "US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia",
-      "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 20:03:44",
-      "https://news.ycombinator.com/item?id=32667619"
-    ],
-    [
-      "WebKit on GitHub",
-      "https://webkit.org/blog/13140/webkit-on-github/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32651611"
     ],
     [
-      "Understanding Google's File System (2020)",
+      "Understanding Google’s File System (2020)",
       "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html"
     ]
   ],
