@@ -1,12 +1,42 @@
 [
   [
     [
-      "2022-09-01, 18:53:32",
-      "https://news.ycombinator.com/item?id=32681229"
+      "2022-09-01, 19:24:49",
+      "https://news.ycombinator.com/item?id=32681698"
     ],
     [
-      "My Blog Is Hilariously Overengineered to the Point Ppl Think Its a Static Site",
-      "https://www.conf42.com/Rustlang_2022_Xe_Iaso_blog_hilariously_overengineered"
+      "TIL Hacker News.com redirects here",
+      "https://web.archive.org/web/20211215000000*/hackernews.com"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 19:16:38",
+      "https://news.ycombinator.com/item?id=32681584"
+    ],
+    [
+      "American policy is splitting state by state into two blocs",
+      "https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 19:10:42",
+      "https://news.ycombinator.com/item?id=32681495"
+    ],
+    [
+      "B.C. man's negative reviews on Google, Yelp cost him $90k in defamation case",
+      "https://vancouversun.com/news/local-news/customer-who-defamed-company-on-google-and-yelp-ordered-to-pay-90000"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 19:02:06",
+      "https://news.ycombinator.com/item?id=32681366"
+    ],
+    [
+      "High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm",
+      "https://arxiv.org/abs/2208.14990"
     ]
   ],
   [
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2022-09-01, 17:02:41",
-      "https://news.ycombinator.com/item?id=32679455"
-    ],
-    [
-      "Categorizing design decisions in enterprise product development",
-      "https://djpardis.medium.com/interfaces-and-bundle-boundaries-8e0bde2b19da"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 17:01:07",
       "https://news.ycombinator.com/item?id=32679416"
     ],
     [
       "Substack Is Hiring Android Engineers to build the future for writing",
       "https://boards.greenhouse.io/substack/jobs/4006027005"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 16:57:31",
-      "https://news.ycombinator.com/item?id=32679334"
-    ],
-    [
-      "Show HN: Open-source infra for building embedded data pipelines",
-      "https://github.com/pipebird/pipebird"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-09-01, 13:00:03",
-      "https://news.ycombinator.com/item?id=32675658"
-    ],
-    [
-      "Launch HN: Boostly (YC S22) – SMS marketing for restaurants",
-      "https://news.ycombinator.com/item?id=32675658"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 09:58:57",
       "https://news.ycombinator.com/item?id=32674243"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-09-01, 09:07:01",
-      "https://news.ycombinator.com/item?id=32673873"
-    ],
-    [
-      "Velox: An open-source unified execution engine",
-      "https://engineering.fb.com/2022/08/31/open-source/velox/"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 07:54:30",
       "https://news.ycombinator.com/item?id=32673340"
     ],
@@ -247,6 +237,16 @@
     [
       "Falsehoods programmers believe about email",
       "https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 15:58:49",
+      "https://news.ycombinator.com/item?id=32664040"
+    ],
+    [
+      "NPR Dives into the Rise of the 'Stealership'",
+      "https://jalopnik.com/npr-dives-into-the-rise-of-the-stealership-1849473117"
     ]
   ],
   [
