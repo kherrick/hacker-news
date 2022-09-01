@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32674698"
     ],
     [
-      "Arm sues Qualcomm, aiming to unwind Qualcomm's $1.4 bln Nuvia purchase",
+      "Arm sues Qualcomm, aiming to unwind Qualcomm's $1.4B Nuvia purchase",
       "https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/"
     ]
   ],
@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2022-09-01, 09:36:11",
+      "https://news.ycombinator.com/item?id=32674082"
+    ],
+    [
+      "Everything is an input device (fun with barcodes)",
+      "https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 09:07:01",
       "https://news.ycombinator.com/item?id=32673873"
     ],
     [
-      "Velox: An open source unified execution engine",
+      "Velox: An open-source unified execution engine",
       "https://engineering.fb.com/2022/08/31/open-source/velox/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32673119"
     ],
     [
-      "Our Collective Synesthesia, in Graphs",
+      "Our collective synesthesia, in graphs",
       "https://aella.substack.com/p/our-collective-synesthesia-in-graphs"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32673000"
     ],
     [
-      "Crypto Dev Enters Wrong Command, Destroys Entire Company",
+      "OptiFi Program Incident Report",
       "https://medium.com/@OptiFi/optifi-program-incident-report-08-29-22-d8fe6d229bad"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32672970"
     ],
     [
-      "Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers",
+      "Generally Intelligent (YC S17) is hiring remote machine learning engineers",
       "https://news.ycombinator.com/item?id=32672970"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-08-31, 18:40:29",
-      "https://news.ycombinator.com/item?id=32666506"
-    ],
-    [
-      "Cognitive loads in programming",
-      "https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html"
-    ]
-  ],
-  [
-    [
       "2022-08-31, 17:14:58",
       "https://news.ycombinator.com/item?id=32665325"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32651611"
     ],
     [
-      "Understanding Google's File System",
+      "Understanding Google's File System (2020)",
       "https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32638598"
     ],
     [
-      "A Self-Trained Italian Blacksmith Built Himself an Amusement Park",
+      "A self-trained Italian blacksmith built himself an amusement park",
       "https://www.atlasobscura.com/articles/handmade-italian-amusement-park"
     ]
   ]
