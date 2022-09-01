@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-09-01, 19:28:42",
-      "https://news.ycombinator.com/item?id=32681769"
-    ],
-    [
-      "Forms should be apps: Why I'm building Component",
-      "https://blog.usecomponent.com/forms-should-be-apps-why-component-exists/"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 19:10:42",
       "https://news.ycombinator.com/item?id=32681495"
     ],
@@ -87,16 +77,6 @@
     [
       "Substack (YC W18) is hiring Android engineers",
       "https://boards.greenhouse.io/substack/jobs/4006027005"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 16:29:41",
-      "https://news.ycombinator.com/item?id=32678839"
-    ],
-    [
-      "MS Teams Linux client is being retired. To be replaced by a progressive web app",
-      "https://news.ycombinator.com/item?id=32678839"
     ]
   ],
   [
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2022-09-01, 09:58:57",
+      "https://news.ycombinator.com/item?id=32674243"
+    ],
+    [
+      "AI-Generated Bible Art",
+      "https://www.openbible.info/labs/ai-bible-art/"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 09:31:10",
       "https://news.ycombinator.com/item?id=32674040"
     ],
     [
       "Filtering a vector with SIMD instructions (AVX-2 and AVX-512)",
       "https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 07:54:30",
+      "https://news.ycombinator.com/item?id=32673340"
+    ],
+    [
+      "Our screwdriver took three years [video]",
+      "https://www.youtube.com/watch?v=2K5Gqp1cEcM"
     ]
   ],
   [
