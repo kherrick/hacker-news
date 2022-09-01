@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-01, 09:44:00",
+      "https://news.ycombinator.com/item?id=32674141"
+    ],
+    [
+      "Avoiding [Haskell] space leaks at all costs",
+      "https://kodimensional.dev/space-leak"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 09:07:01",
       "https://news.ycombinator.com/item?id=32673873"
     ],
@@ -197,16 +207,6 @@
     [
       "WebKit on GitHub",
       "https://webkit.org/blog/13140/webkit-on-github/"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 18:40:29",
-      "https://news.ycombinator.com/item?id=32666506"
-    ],
-    [
-      "Cognitive loads in programming",
-      "https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html"
     ]
   ],
   [
