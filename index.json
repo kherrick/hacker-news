@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-09-01, 21:55:36",
+      "https://news.ycombinator.com/item?id=32683834"
+    ],
+    [
+      "We clone a running VM in 2 seconds",
+      "https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds"
+    ]
+  ],
+  [
+    [
+      "2022-09-01, 21:49:34",
+      "https://news.ycombinator.com/item?id=32683761"
+    ],
+    [
+      "USB 4 version 2 promises 80 Gbps speeds over existing cables",
+      "https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 21:47:04",
       "https://news.ycombinator.com/item?id=32683722"
     ],
@@ -47,26 +67,6 @@
     [
       "High-dose Vitamin B6 reduces anxiety and strengthens visual surround suppression",
       "https://onlinelibrary.wiley.com/doi/10.1002/hup.2852"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 20:10:42",
-      "https://news.ycombinator.com/item?id=32682395"
-    ],
-    [
-      "The Twitter whistleblower story is worse than you think",
-      "https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 19:49:01",
-      "https://news.ycombinator.com/item?id=32682064"
-    ],
-    [
-      "How military operations get their code names (2011)",
-      "https://www.mentalfloss.com/article/28711/how-military-operations-get-their-code-names"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-08-31, 22:35:18",
+      "https://news.ycombinator.com/item?id=32669224"
+    ],
+    [
+      "SmartDry’s useful laundry sensor to be cloud-bricked next month",
+      "https://arstechnica.com/gadgets/2022/08/smartdrys-useful-laundry-sensor-to-be-cloud-bricked-next-month/"
+    ]
+  ],
+  [
+    [
       "2022-08-30, 15:45:51",
       "https://news.ycombinator.com/item?id=32651763"
     ],
@@ -287,16 +297,6 @@
     [
       "JavaScript hydration is a workaround, not a solution",
       "https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/"
-    ]
-  ],
-  [
-    [
-      "2022-08-29, 17:25:54",
-      "https://news.ycombinator.com/item?id=32640910"
-    ],
-    [
-      "The several deaths of François Vatel",
-      "https://www.laphamsquarterly.org/roundtable/good-servants-and-bad-masters"
     ]
   ]
 ]
