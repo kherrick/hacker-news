@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-09-01, 00:16:53",
+      "https://news.ycombinator.com/item?id=32670083"
+    ],
+    [
+      "Former world champion reveals that she was ordered to lose Olympic semi-final",
+      "https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 23:46:28",
+      "https://news.ycombinator.com/item?id=32669838"
+    ],
+    [
+      "Dear Linux, Privileged Ports Must Die",
+      "https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 23:42:07",
+      "https://news.ycombinator.com/item?id=32669800"
+    ],
+    [
+      "Show HN: Encrypted Git hosting should be easy",
+      "https://github.com/nathants/git-remote-aws"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 23:31:08",
+      "https://news.ycombinator.com/item?id=32669696"
+    ],
+    [
+      "Another ship stuck in Suez Canal – Affinity V",
+      "https://www.marinetraffic.com/en/ais/home/centerx:32.570/centery:30.084/zoom:17"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 23:10:46",
+      "https://news.ycombinator.com/item?id=32669531"
+    ],
+    [
+      "U.S. life expectancy drops sharply, the second consecutive decline",
+      "https://www.statnews.com/2022/08/31/u-s-life-expectancy-drops-sharply-the-second-consecutive-decline/"
+    ]
+  ],
+  [
+    [
       "2022-08-31, 22:48:16",
       "https://news.ycombinator.com/item?id=32669344"
     ],
@@ -17,36 +67,6 @@
     [
       "US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia",
       "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 22:14:32",
-      "https://news.ycombinator.com/item?id=32669028"
-    ],
-    [
-      "Why Did Garry Tan Block You on Twitter?",
-      "https://www.sfexaminer.com/news/why-did-garry-tan-the-new-ceo-of-y-combinator-block-you-on-twitter/article_3fdd1c1c-28b1-11ed-afa8-b3ba9ebc92cb.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 21:38:15",
-      "https://news.ycombinator.com/item?id=32668694"
-    ],
-    [
-      "Ask HN: Anyone having issues with job applicant fraud?",
-      "https://news.ycombinator.com/item?id=32668694"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 20:42:47",
-      "https://news.ycombinator.com/item?id=32668092"
-    ],
-    [
-      "Dealing with the perfectionism trap as a developer",
-      "https://jebraat.com/blog/dealing-with-the-perfectionism-trap-as-a-developer"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-08-31, 16:11:19",
-      "https://news.ycombinator.com/item?id=32664270"
-    ],
-    [
-      "Fuzzing Go APIs for SQL Injection",
-      "https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/"
-    ]
-  ],
-  [
-    [
       "2022-08-31, 16:10:25",
       "https://news.ycombinator.com/item?id=32664261"
     ],
     [
       "Launch HN: Lion Pose (YC W21) – Safe and effective skin care for people of color",
       "https://news.ycombinator.com/item?id=32664261"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 15:22:48",
-      "https://news.ycombinator.com/item?id=32663319"
-    ],
-    [
-      "The Original “Universal” Port by Atari",
-      "https://tedium.co/2022/08/24/atari-2600-joystick-port-history/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-08-31, 05:11:45",
-      "https://news.ycombinator.com/item?id=32658599"
-    ],
-    [
-      "A Long-Lost Vorticist Landscape Found Beneath a 1921 Wyndham Lewis Painting",
-      "https://news.artnet.com/art-world/beneath-a-1921-wyndham-lewis-painting-researchers-found-a-long-lost-vorticist-landscape-did-he-ruin-it-on-purpose-2163912"
-    ]
-  ],
-  [
-    [
       "2022-08-31, 04:25:38",
       "https://news.ycombinator.com/item?id=32658358"
     ],
@@ -297,6 +287,16 @@
     [
       "Athletics at the 1904 Summer Olympics: Men's Marathon",
       "https://en.wikipedia.org/wiki/Athletics_at_the_1904_Summer_Olympics_%E2%80%93_men%27s_marathon"
+    ]
+  ],
+  [
+    [
+      "2022-08-30, 14:34:16",
+      "https://news.ycombinator.com/item?id=32650990"
+    ],
+    [
+      "You may not need a bundler for your NPM library",
+      "https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler"
     ]
   ]
 ]
