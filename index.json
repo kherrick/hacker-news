@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-02, 10:39:53",
+      "https://news.ycombinator.com/item?id=32689057"
+    ],
+    [
+      "Help Improve Gnome",
+      "https://blogs.gnome.org/aday/2022/08/25/help-improve-gnome/"
+    ]
+  ],
+  [
+    [
       "2022-09-02, 09:57:26",
       "https://news.ycombinator.com/item?id=32688802"
     ],
@@ -17,6 +27,16 @@
     [
       "Folk Interfaces",
       "https://maggieappleton.com/folk-interfaces"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 09:31:07",
+      "https://news.ycombinator.com/item?id=32688646"
+    ],
+    [
+      "Show HN: Wavvy – web-based audio editor (Audacity port)",
+      "https://wavvy.app/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Notes on the SQLite DuckDB Paper",
       "https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 22:28:01",
-      "https://news.ycombinator.com/item?id=32684198"
-    ],
-    [
-      "Framework is now available in Australia",
-      "https://frame.work/au/en"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Accumulibrary (2014)",
       "https://slate.com/technology/2014/07/the-accumulibrary-modern-libraries-should-be-as-big-and-chaotic-as-amazons-warehouses.html"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 15:45:51",
-      "https://news.ycombinator.com/item?id=32651763"
-    ],
-    [
-      "Be good-argument-driven, not data-driven",
-      "http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html"
     ]
   ]
 ]
