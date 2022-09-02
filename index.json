@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-02, 18:14:35",
+      "https://news.ycombinator.com/item?id=32694031"
+    ],
+    [
+      "Show HN: Hacker Stations – tech workspace setups to get inspiration from",
+      "https://hackerstations.com"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 17:54:09",
+      "https://news.ycombinator.com/item?id=32693724"
+    ],
+    [
+      "Tell HN: Citus is 100% open source now",
+      "https://news.ycombinator.com/item?id=32693724"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 17:43:32",
+      "https://news.ycombinator.com/item?id=32693593"
+    ],
+    [
+      "Ask HN: Should a German founder with a Greencard set up a holding company?",
+      "https://news.ycombinator.com/item?id=32693593"
+    ]
+  ],
+  [
+    [
       "2022-09-02, 17:28:51",
       "https://news.ycombinator.com/item?id=32693416"
     ],
@@ -37,16 +67,6 @@
     [
       "Frank Drake, astronomer famed for contributions to SETI, has died",
       "https://arstechnica.com/science/2022/09/frank-drake-astronomer-famed-for-contributions-to-seti-has-died/"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 16:39:29",
-      "https://news.ycombinator.com/item?id=32692828"
-    ],
-    [
-      "Show HN: Create a freelance business in a few minutes",
-      "https://clienty.app/"
     ]
   ],
   [
@@ -116,7 +136,7 @@
     ],
     [
       "OpenBSD may soon gain further memory protections: immutable userland mappings",
-      "https://undeadly.org/cgi?action=article;sid=20220902100648"
+      "https://marc.info/?l=openbsd-tech&m=166203784715942&w=2"
     ]
   ],
   [
@@ -151,21 +171,11 @@
   ],
   [
     [
-      "2022-09-02, 13:58:21",
-      "https://news.ycombinator.com/item?id=32690937"
-    ],
-    [
-      "Amazon fails to overturn New York City union election",
-      "https://www.theregister.com/2022/09/02/alu_victory_amazon_union/"
-    ]
-  ],
-  [
-    [
       "2022-09-02, 13:22:53",
       "https://news.ycombinator.com/item?id=32690454"
     ],
     [
-      "What to do if you find a nuclear-powered cardiac pacemaker",
+      "Nuclear-Powered Cardiac Pacemakers",
       "https://osrp.lanl.gov/pacemakers.shtml"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32690205"
     ],
     [
-      "Compile the Minecraft Server (Java Edition) to Native with GraalVM Native Image",
+      "Native Minecraft servers with GraalVM Native Image",
       "https://github.com/hpi-swa/native-minecraft-server"
     ]
   ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2022-09-01, 18:49:00",
+      "https://news.ycombinator.com/item?id=32681163"
+    ],
+    [
+      "The growing image-processor unpleasantness",
+      "https://lwn.net/Articles/904776/"
+    ]
+  ],
+  [
+    [
       "2022-09-01, 11:27:14",
       "https://news.ycombinator.com/item?id=32674876"
     ],
     [
       "Couples therapy for startup co-founders",
       "https://www.protocol.com/workplace/tech-founders-couples-therapy-startups"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 07:22:07",
-      "https://news.ycombinator.com/item?id=32673100"
-    ],
-    [
-      "Improper Nouns",
-      "https://siderea.dreamwidth.org/1773806.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Beyond the keyboard: Fountain pen collectors find beauty in ink",
       "https://www.washingtonpost.com/magazine/2022/08/30/fountain-pen-collectors-convene/"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 06:42:55",
-      "https://news.ycombinator.com/item?id=32659141"
-    ],
-    [
-      "Making Wrong Code Look Wrong (2005)",
-      "https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/"
     ]
   ]
 ]
