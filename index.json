@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-02, 10:51:09",
-      "https://news.ycombinator.com/item?id=32689122"
+      "2022-09-02, 12:00:04",
+      "https://news.ycombinator.com/item?id=32689563"
     ],
     [
-      "White House Bans Paywalls on Taxpayer-Funded Research",
-      "https://www.extremetech.com/extreme/339162-white-house-bans-paywalls-on-taxpayer-funded-research"
+      "Ribbon Health (YC S17) is hiring engineers to help patients find care",
+      "https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-09-02, 00:32:27",
-      "https://news.ycombinator.com/item?id=32685214"
-    ],
-    [
-      "Responding to recruiter emails with GPT-3",
-      "https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 22:52:55",
       "https://news.ycombinator.com/item?id=32684424"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2022-09-01, 16:19:25",
-      "https://news.ycombinator.com/item?id=32678664"
-    ],
-    [
-      "Run Stable Diffusion on Your M1 Mac’s GPU",
-      "https://replicate.com/blog/run-stable-diffusion-on-m1-mac"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 16:12:14",
       "https://news.ycombinator.com/item?id=32678553"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2022-08-31, 15:49:49",
+      "https://news.ycombinator.com/item?id=32663836"
+    ],
+    [
+      "ArrayQL Integration into Code-Generating Database Systems [pdf]",
+      "https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf"
+    ]
+  ],
+  [
+    [
       "2022-08-31, 15:28:24",
       "https://news.ycombinator.com/item?id=32663433"
     ],
     [
-      "Crash Bandicoot Hacked the Original Playstation (2020) [video]",
+      "How Crash Bandicoot hacked the original Playstation (2020) [video]",
       "https://www.youtube.com/watch?v=izxXGuVL21o"
+    ]
+  ],
+  [
+    [
+      "2022-08-31, 06:42:55",
+      "https://news.ycombinator.com/item?id=32659141"
+    ],
+    [
+      "Making Wrong Code Look Wrong (2005)",
+      "https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/"
     ]
   ],
   [
