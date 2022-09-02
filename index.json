@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-02, 12:52:14",
+      "https://news.ycombinator.com/item?id=32690053"
+    ],
+    [
+      "Flicking the kill switch: governments embrace internet shutdowns",
+      "https://www.theguardian.com/technology/2022/aug/29/flicking-the-kill-switch-governments-embrace-internet-shutdowns-as-a-form-of-control"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 12:47:40",
+      "https://news.ycombinator.com/item?id=32689997"
+    ],
+    [
+      "Extinction Rebellion: Climate activists stage protest in Commons chamber",
+      "https://www.bbc.co.uk/news/uk-politics-62767480"
+    ]
+  ],
+  [
+    [
       "2022-09-02, 12:00:04",
       "https://news.ycombinator.com/item?id=32689563"
     ],
     [
       "Ribbon Health (YC S17) is hiring engineers to help patients find care",
       "https://www.ribbonhealth.com/blog/how-ribbons-value-driven-tech-philosophy-helps-patients-find-care/"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 11:59:25",
+      "https://news.ycombinator.com/item?id=32689556"
+    ],
+    [
+      "Apple overtakes Android to pass 50% share of smartphones used in US",
+      "https://www.ft.com/content/75891d95-4432-4571-83df-b4cdf82d5da5"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 11:29:27",
+      "https://news.ycombinator.com/item?id=32689368"
+    ],
+    [
+      "Breaking down how USB4 goes where no USB standard has gone before",
+      "https://arstechnica.com/gadgets/2022/09/breaking-down-how-usb4-goes-where-no-usb-standard-has-gone-before/"
     ]
   ],
   [
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2022-09-02, 10:09:13",
-      "https://news.ycombinator.com/item?id=32688868"
+      "2022-09-02, 10:08:03",
+      "https://news.ycombinator.com/item?id=32688863"
     ],
     [
-      "California asks people not to charge EVs during heatwave",
-      "https://www.theregister.com/2022/09/01/california_ev_heatwave/"
+      "In Praise of QEMU",
+      "https://drewdevault.com/2022/09/02/2022-09-02-In-praise-of-qemu.html"
     ]
   ],
   [
@@ -171,36 +211,6 @@
   ],
   [
     [
-      "2022-09-01, 21:49:34",
-      "https://news.ycombinator.com/item?id=32683761"
-    ],
-    [
-      "USB 4 version 2 promises 80 Gbps speeds over existing cables",
-      "https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 21:47:04",
-      "https://news.ycombinator.com/item?id=32683722"
-    ],
-    [
-      "Bibliogram, Open-source front-end for Instagram, is being discontinued",
-      "https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 21:26:39",
-      "https://news.ycombinator.com/item?id=32683473"
-    ],
-    [
-      "Crystal Programming Language",
-      "https://crystal-lang.org/"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 20:50:37",
       "https://news.ycombinator.com/item?id=32682990"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2022-09-01, 08:32:01",
-      "https://news.ycombinator.com/item?id=32673621"
-    ],
-    [
-      "The Scientific Straightjacket (1981)",
-      "https://documents.uow.edu.au/~bmartin/pubs/81ecol.html"
-    ]
-  ],
-  [
-    [
       "2022-09-01, 07:22:07",
       "https://news.ycombinator.com/item?id=32673100"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2022-08-31, 21:11:26",
+      "https://news.ycombinator.com/item?id=32668410"
+    ],
+    [
+      "Newly published Charles Dickens letters reveal he was ‘a bit of a diva’",
+      "https://www.washingtonpost.com/world/2022/08/30/charles-dickens-letters-london-museum/"
+    ]
+  ],
+  [
+    [
       "2022-08-31, 18:15:30",
       "https://news.ycombinator.com/item?id=32666171"
     ],
     [
       "How the Physics of Nothing Underlies Everything",
       "https://nautil.us/how-the-physics-of-nothing-underlies-everything-22894/"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 15:49:49",
-      "https://news.ycombinator.com/item?id=32663836"
-    ],
-    [
-      "ArrayQL Integration into Code-Generating Database Systems [pdf]",
-      "https://openproceedings.org/2022/conf/edbt/sample-edbt2022.pdf"
     ]
   ],
   [
