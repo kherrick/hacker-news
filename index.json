@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-03, 12:22:30",
+      "https://news.ycombinator.com/item?id=32701142"
+    ],
+    [
+      "Why all personal websites die",
+      "https://theyellowarchitect.com/blog/why-personal-websites-die#title"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 12:04:13",
+      "https://news.ycombinator.com/item?id=32701007"
+    ],
+    [
+      "Behind the fall of renowned cancer researcher David Sabatini",
+      "https://www.commonsense.news/p/he-was-a-world-renowned-cancer-researcher"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 12:03:46",
+      "https://news.ycombinator.com/item?id=32701003"
+    ],
+    [
+      "From Prison to Programming",
+      "https://corecursive.com/prison-programming-with-rick-wolter/"
+    ]
+  ],
+  [
+    [
       "2022-09-03, 12:02:08",
       "https://news.ycombinator.com/item?id=32700995"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2022-09-03, 10:25:42",
-      "https://news.ycombinator.com/item?id=32700454"
+      "2022-09-03, 10:58:51",
+      "https://news.ycombinator.com/item?id=32700615"
     ],
     [
-      "Israeli rules say West Bank visitors must declare love interest",
-      "https://www.bbc.com/news/world-middle-east-62730164"
+      "Jetbrains Space",
+      "https://www.jetbrains.com/space/"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32699983"
     ],
     [
-      "SBCL: New in Version 2.2.8",
+      "SBCL 2.2.8",
       "http://sbcl.org/all-news.html?2.2.8#2.2.8"
     ]
   ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32699442"
     ],
     [
-      "Countering the Achievement Society",
+      "Countering the achievement society (2018)",
       "https://iai.tv/articles/should-we-rediscover-education-as-leisure-auid-1109"
     ]
   ],
@@ -101,11 +131,21 @@
   ],
   [
     [
+      "2022-09-03, 04:51:24",
+      "https://news.ycombinator.com/item?id=32698851"
+    ],
+    [
+      "OpenTTD Game Mechanics",
+      "https://wiki.openttd.org/en/Manual/Game%20Mechanics/"
+    ]
+  ],
+  [
+    [
       "2022-09-03, 04:38:38",
       "https://news.ycombinator.com/item?id=32698784"
     ],
     [
-      "Ask HN: Working as Software Engr for 5 years but forgotten all CS stuff. Normal?",
+      "Ask HN: Working as a software engineer for 5 years, I've forgotten all CS stuff",
       "https://news.ycombinator.com/item?id=32698784"
     ]
   ],
@@ -161,46 +201,6 @@
   ],
   [
     [
-      "2022-09-02, 19:19:53",
-      "https://news.ycombinator.com/item?id=32694753"
-    ],
-    [
-      "USB4 v2 is also 120 Gbps",
-      "https://www.angstronomics.com/p/usb4-v2"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 19:11:40",
-      "https://news.ycombinator.com/item?id=32694668"
-    ],
-    [
-      "Elixir – Phoenix LiveView Native",
-      "https://native.live"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 19:09:08",
-      "https://news.ycombinator.com/item?id=32694644"
-    ],
-    [
-      "Why have I never heard of the Ene-Farm? (2017)",
-      "https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 16:52:03",
-      "https://news.ycombinator.com/item?id=32692972"
-    ],
-    [
-      "We’ll Miss You, MetroCard Machine",
-      "https://www.curbed.com/2022/08/goodbye-metrocard-machine-friendly-interface.html"
-    ]
-  ],
-  [
-    [
       "2022-09-02, 15:16:23",
       "https://news.ycombinator.com/item?id=32691800"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=32690610"
     ],
     [
-      "The First Tiling Window Manager",
+      "The First Tiling Window Manager [video]",
       "https://www.youtube.com/watch?v=IOxIUeroIVQ"
     ]
   ],
