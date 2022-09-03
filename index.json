@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-03, 09:03:00",
+      "https://news.ycombinator.com/item?id=32700066"
+    ],
+    [
+      "Peter Eckersley, may his memory be a blessing",
+      "https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 08:45:30",
+      "https://news.ycombinator.com/item?id=32699983"
+    ],
+    [
+      "SBCL: New in Version 2.2.8",
+      "http://sbcl.org/all-news.html?2.2.8#2.2.8"
+    ]
+  ],
+  [
+    [
       "2022-09-03, 07:02:59",
       "https://news.ycombinator.com/item?id=32699471"
     ],
@@ -67,16 +87,6 @@
     [
       "Nokia’s Burning Platform Memo (2011)",
       "https://aaplinvestors.net/stats/iphone/nokiamemo/"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 23:17:13",
-      "https://news.ycombinator.com/item?id=32696821"
-    ],
-    [
-      "Mastodon still can’t replace Twitter",
-      "https://www.fastcompanyme.com/technology/sorry-elon-haters-mastodon-still-cant-replace-twitter/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2022-09-02, 14:07:44",
-      "https://news.ycombinator.com/item?id=32691051"
+      "2022-09-02, 13:34:41",
+      "https://news.ycombinator.com/item?id=32690610"
     ],
     [
-      "Doug Engelbart’s design for knowledge-based organizations (1992) [pdf]",
-      "https://www.dougengelbart.org/pubs/seminars/sembinder1992nov/T.pdf"
+      "The First Tiling Window Manager",
+      "https://www.youtube.com/watch?v=IOxIUeroIVQ"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Advice Gap",
       "https://seths.blog/2022/08/the-advice-gap/"
-    ]
-  ],
-  [
-    [
-      "2022-08-31, 15:56:56",
-      "https://news.ycombinator.com/item?id=32663995"
-    ],
-    [
-      "Japan declares war on floppy disks for government use",
-      "https://arstechnica.com/information-technology/2022/08/japan-declares-war-on-floppy-disks-for-government-use/"
     ]
   ]
 ]
