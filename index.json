@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-09-03, 12:38:37",
-      "https://news.ycombinator.com/item?id=32701275"
-    ],
-    [
-      "Windows Kernel Introspection",
-      "https://amonsec.net/posts/2022/09/0000000d/"
-    ]
-  ],
-  [
-    [
       "2022-09-03, 12:03:46",
       "https://news.ycombinator.com/item?id=32701003"
     ],
@@ -247,6 +237,16 @@
     [
       "Roaring bitmaps: what they are and how they work",
       "https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 15:22:41",
+      "https://news.ycombinator.com/item?id=32691870"
+    ],
+    [
+      "Cursorless: Don't let the cursor slow you down",
+      "https://github.com/cursorless-dev/cursorless"
     ]
   ],
   [
