@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-09-03, 01:04:52",
+      "https://news.ycombinator.com/item?id=32697528"
+    ],
+    [
+      "If You Want This Job, We Must Interview You Forever",
+      "https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 01:02:08",
+      "https://news.ycombinator.com/item?id=32697509"
+    ],
+    [
+      "Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)",
+      "https://www.svix.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 00:28:40",
+      "https://news.ycombinator.com/item?id=32697319"
+    ],
+    [
+      "Non Fungible Tickets",
+      "https://dx.tips/non-fungible-tickets"
+    ]
+  ],
+  [
+    [
       "2022-09-02, 23:28:22",
       "https://news.ycombinator.com/item?id=32696904"
     ],
     [
-      "Fog Revealed: A Guided Tour of How Cops Can Browse Your Location Data",
+      "Fog Revealed: A guided tour of how cops can browse your location data",
       "https://www.eff.org/deeplinks/2022/08/fog-revealed-guided-tour-how-cops-can-browse-your-location-data"
     ]
   ],
   [
     [
-      "2022-09-02, 23:22:20",
-      "https://news.ycombinator.com/item?id=32696866"
+      "2022-09-02, 23:17:13",
+      "https://news.ycombinator.com/item?id=32696821"
     ],
     [
-      "Show HN: SMS Interface for Stable Diffusion",
-      "https://news.ycombinator.com/item?id=32696866"
+      "Mastodon still can’t replace Twitter",
+      "https://www.fastcompanyme.com/technology/sorry-elon-haters-mastodon-still-cant-replace-twitter/"
     ]
   ],
   [
@@ -31,22 +61,32 @@
   ],
   [
     [
-      "2022-09-02, 23:01:06",
-      "https://news.ycombinator.com/item?id=32696699"
-    ],
-    [
-      "What would make AWS even better",
-      "https://yehudacohen.substack.com/p/what-would-make-aws-even-better"
-    ]
-  ],
-  [
-    [
       "2022-09-02, 22:04:52",
       "https://news.ycombinator.com/item?id=32696241"
     ],
     [
       "Tor – Arti 1.0.0 is released: Rust Tor implementation ready for production use",
       "https://blog.torproject.org/arti_100_released/"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 21:26:16",
+      "https://news.ycombinator.com/item?id=32695891"
+    ],
+    [
+      "UBS, Wealthfront Cancel $1.4B Deal",
+      "https://www.thinkadvisor.com/2022/09/02/ubs-wealthfront-cancel-1-4b-deal/"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 20:58:23",
+      "https://news.ycombinator.com/item?id=32695645"
+    ],
+    [
+      "Stable Diffusion forming images from text: image snapshots at each step",
+      "https://postimg.cc/gallery/SjcKgRt"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Elixir – Phoenix LiveView Native",
       "https://native.live"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 19:10:19",
-      "https://news.ycombinator.com/item?id=32694658"
-    ],
-    [
-      "Birds Changed Their Tune During the Pandemic",
-      "https://www.atlasobscura.com/articles/bird-songs-changed-pandemic"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-09-02, 17:02:58",
-      "https://news.ycombinator.com/item?id=32693100"
-    ],
-    [
-      "Devcycle (YC W14) – feature flags and remote config automation – is hiring",
-      "https://devcycle.com/company/careers"
-    ]
-  ],
-  [
-    [
       "2022-09-02, 16:52:03",
       "https://news.ycombinator.com/item?id=32692972"
     ],
@@ -157,16 +177,6 @@
     [
       "My Contribution to Markdown",
       "https://leancrew.com/all-this/2022/09/my-contribution-to-markdown/"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 16:04:40",
-      "https://news.ycombinator.com/item?id=32692404"
-    ],
-    [
-      "Transformers Are Sample Efficient World Models",
-      "https://arxiv.org/abs/2209.00588"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2022-09-02, 09:34:02",
-      "https://news.ycombinator.com/item?id=32688665"
+      "2022-09-02, 05:35:49",
+      "https://news.ycombinator.com/item?id=32686987"
     ],
     [
-      "Folk Interfaces",
-      "https://maggieappleton.com/folk-interfaces"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 09:31:07",
-      "https://news.ycombinator.com/item?id=32688646"
-    ],
-    [
-      "Show HN: Wavvy – web-based audio editor (Audacity port)",
-      "https://wavvy.app/"
+      "Dreamachine",
+      "https://en.wikipedia.org/wiki/Dreamachine"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2022-09-01, 05:09:49",
-      "https://news.ycombinator.com/item?id=32672251"
+      "2022-09-01, 14:00:16",
+      "https://news.ycombinator.com/item?id=32676303"
     ],
     [
-      "The Case of Tut's Missing Collar",
-      "https://www.archaeology.org/issues/482-2209/digs/10771-digs-egypt-tut-collar-mystery"
+      "Q (Number Format)",
+      "https://en.wikipedia.org/wiki/Q_(number_format)"
     ]
   ],
   [
