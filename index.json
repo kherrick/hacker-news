@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-09-04, 11:45:03",
+      "https://news.ycombinator.com/item?id=32712015"
+    ],
+    [
+      "New performance materials are coming",
+      "https://www.tsungxu.com/performance-biomaterials/"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 10:53:29",
       "https://news.ycombinator.com/item?id=32711726"
     ],
@@ -157,16 +167,6 @@
     [
       "I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped",
       "https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 02:35:09",
-      "https://news.ycombinator.com/item?id=32709201"
-    ],
-    [
-      "Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM",
-      "https://github.com/basujindal/stable-diffusion/pull/103"
     ]
   ],
   [
