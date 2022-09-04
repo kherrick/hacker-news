@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-04, 15:39:51",
+      "https://news.ycombinator.com/item?id=32714191"
+    ],
+    [
+      "Lapce Editor, Release v0.2.0",
+      "https://github.com/lapce/lapce/releases/tag/v0.2.0"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 15:35:37",
       "https://news.ycombinator.com/item?id=32714138"
     ],
     [
       "W2UI is a JavaScript UI library for building rich web applications",
       "https://github.com/vitmalina/w2ui"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 15:19:10",
+      "https://news.ycombinator.com/item?id=32713978"
+    ],
+    [
+      "Poll of Wikipedians concludes: Wikimedia fundraising emails are misleading",
+      "https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/thread/YKYDOBBH2RHJO2DHNP4YEPH37J3L5PBH/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 15:12:58",
+      "https://news.ycombinator.com/item?id=32713915"
+    ],
+    [
+      "On Device Learning",
+      "https://geohot.github.io/blog/jekyll/update/2022/09/03/on-device-learning.html"
     ]
   ],
   [
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2022-09-04, 14:23:15",
-      "https://news.ycombinator.com/item?id=32713361"
-    ],
-    [
-      "Ask HN: Is anyone using GCP CloudRun in prod?",
-      "https://news.ycombinator.com/item?id=32713361"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 14:07:42",
       "https://news.ycombinator.com/item?id=32713193"
     ],
@@ -57,6 +77,16 @@
     [
       "The Kodak Disc Camera",
       "https://clickamericana.com/media/photography/what-happened-to-kodak-disc-camera-debuted-in-1982"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 13:37:18",
+      "https://news.ycombinator.com/item?id=32712909"
+    ],
+    [
+      "Seriously, how do you TDD?",
+      "https://news.ycombinator.com/item?id=32712909"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2022-09-04, 01:02:45",
-      "https://news.ycombinator.com/item?id=32708513"
-    ],
-    [
-      "Ivy (YC W23) is hiring software engineers to help unify ML",
-      "https://www.ycombinator.com/companies/ivy/jobs"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 08:55:11",
-      "https://news.ycombinator.com/item?id=32700027"
-    ],
-    [
-      "An opinionated guide to scheme implementations (2013)",
-      "https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations"
-    ]
-  ],
-  [
-    [
       "2022-09-03, 07:41:11",
       "https://news.ycombinator.com/item?id=32699657"
     ],
@@ -267,16 +277,6 @@
     [
       "The Summer Is over Alas Alas",
       "https://www.laphamsquarterly.org/roundtable/summer-over-alas-alas"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 22:14:56",
-      "https://news.ycombinator.com/item?id=32696317"
-    ],
-    [
-      "In Search of the Golden Brain",
-      "https://www.dirtyfeed.org/2022/08/in-search-of-the-golden-brain/"
     ]
   ],
   [
