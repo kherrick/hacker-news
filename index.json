@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-04, 08:57:56",
+      "https://news.ycombinator.com/item?id=32711194"
+    ],
+    [
+      "Oberon, Plan 9 and Inferno",
+      "https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 07:36:39",
       "https://news.ycombinator.com/item?id=32710761"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32710738"
     ],
     [
-      "Was Vincent van Gogh Color Blind? It Sure Looks Like It",
+      "Was Vincent van Gogh Color Blind? It Sure Looks Like It (2012)",
       "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/"
     ]
   ],
@@ -181,21 +191,11 @@
   ],
   [
     [
-      "2022-09-03, 15:34:08",
-      "https://news.ycombinator.com/item?id=32702833"
-    ],
-    [
-      "Breaking the silence around academic bullying",
-      "https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14473"
-    ]
-  ],
-  [
-    [
       "2022-09-03, 08:55:11",
       "https://news.ycombinator.com/item?id=32700027"
     ],
     [
-      "An opinionated guide to scheme implementations",
+      "An opinionated guide to scheme implementations (2013)",
       "https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32691553"
     ],
     [
-      "Master Foo and the Recruiter",
+      "Master Foo and the Recruiter (2016)",
       "http://www.catb.org/~esr/writings/unix-koans/recruiter.html"
     ]
   ],
