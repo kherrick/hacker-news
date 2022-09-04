@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-04, 16:12:48",
+      "https://news.ycombinator.com/item?id=32714527"
+    ],
+    [
+      "Almost Half of Cancer Deaths Are Preventable",
+      "https://www.nature.com/articles/d41586-022-02355-x"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 15:39:51",
       "https://news.ycombinator.com/item?id=32714191"
     ],
     [
       "Lapce Editor, Release v0.2.0",
       "https://github.com/lapce/lapce/releases/tag/v0.2.0"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 15:38:35",
+      "https://news.ycombinator.com/item?id=32714178"
+    ],
+    [
+      "Capsaicin in Peppers",
+      "https://luciditysystems.com/2020/10/23/capsaicin-in-peppers/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2022-09-04, 14:00:25",
+      "https://news.ycombinator.com/item?id=32713133"
+    ],
+    [
+      "Show HN: I made a pictionary game with Stable Diffusion",
+      "https://share.streamlit.io/knhash/diffaki/main/script.py"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 13:37:18",
       "https://news.ycombinator.com/item?id=32712909"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2022-09-04, 09:57:00",
-      "https://news.ycombinator.com/item?id=32711475"
-    ],
-    [
-      "Kiwi Farms response to CloudFlare",
-      "https://kiwifarms.ru/threads/matthew-prince-lied.128900/"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 08:57:56",
       "https://news.ycombinator.com/item?id=32711194"
     ],
     [
       "Oberon, Plan 9 and Inferno (2021)",
       "https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 08:19:57",
-      "https://news.ycombinator.com/item?id=32711002"
-    ],
-    [
-      "Apple can terminate developer account without a reason by mistake",
-      "https://twitter.com/svbelmeha/status/1566063915515133952"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2022-09-03, 06:05:33",
-      "https://news.ycombinator.com/item?id=32699202"
+      "2022-09-03, 05:42:18",
+      "https://news.ycombinator.com/item?id=32699078"
     ],
     [
-      "The Sick Society",
-      "https://www.nplusonemag.com/online-only/online-only/the-sick-society/"
+      "Histogram vs. ECDF",
+      "https://brooker.co.za/blog/2022/09/02/ecdf.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Using machine learning to identify undiagnosable cancers",
       "https://medicalxpress.com/news/2022-09-machine-undiagnosable-cancers.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 14:54:13",
-      "https://news.ycombinator.com/item?id=32691553"
-    ],
-    [
-      "Master Foo and the Recruiter (2016)",
-      "http://www.catb.org/~esr/writings/unix-koans/recruiter.html"
     ]
   ]
 ]
