@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-04, 19:12:03",
-      "https://news.ycombinator.com/item?id=32716621"
+      "2022-09-04, 20:02:33",
+      "https://news.ycombinator.com/item?id=32717133"
     ],
     [
-      "Insane ways Google has been invading our privacy – Salon.com",
-      "https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner/"
+      "Show HN: Zelda BOTW Street View",
+      "https://nassimsoftware.github.io/zeldabotwstreetview/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 19:26:55",
+      "https://news.ycombinator.com/item?id=32716770"
+    ],
+    [
+      "Ask HN: Location based pay is killing my motivation, how do others handle it?",
+      "https://news.ycombinator.com/item?id=32716770"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32715118"
     ],
     [
-      "Genomics of mortal andimmortal cnidarians unveils novel keys behind rejuvenation",
+      "Genomics of mortal and immortal cnidarians unveils keys behind rejuvenation",
       "https://www.pnas.org/doi/full/10.1073/pnas.2118763119"
     ]
   ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2022-09-04, 15:39:51",
-      "https://news.ycombinator.com/item?id=32714191"
-    ],
-    [
-      "Lapce Editor, Release v0.2.0",
-      "https://github.com/lapce/lapce/releases/tag/v0.2.0"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 15:35:37",
       "https://news.ycombinator.com/item?id=32714138"
     ],
     [
       "W2UI is a JavaScript UI library for building rich web applications",
       "https://github.com/vitmalina/w2ui"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 15:19:10",
-      "https://news.ycombinator.com/item?id=32713978"
-    ],
-    [
-      "Poll of Wikipedians concludes: Wikimedia fundraising emails are misleading",
-      "https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/thread/YKYDOBBH2RHJO2DHNP4YEPH37J3L5PBH/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Running Stable Diffusion on Your GPU with Less Than 10Gb of VRAM",
       "https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 19:52:26",
+      "https://news.ycombinator.com/item?id=32705465"
+    ],
+    [
+      "Optimizing Clang: A Practical Example of Applying Bolt",
+      "https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingClang.md"
     ]
   ],
   [
