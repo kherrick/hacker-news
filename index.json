@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-04, 14:48:41",
+      "https://news.ycombinator.com/item?id=32713649"
+    ],
+    [
+      "Show HN: Illustrating Gutenberg library using Stable Diffusion",
+      "https://storybooks.ai/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 14:24:35",
+      "https://news.ycombinator.com/item?id=32713375"
+    ],
+    [
+      "Google Pixel 6 still freezes when calling Emergency Services",
+      "https://old.reddit.com/r/GooglePixel/comments/x5ea32/life_and_death_down_to_a_software_glitch/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 14:23:15",
+      "https://news.ycombinator.com/item?id=32713361"
+    ],
+    [
+      "Ask HN: Is anyone using GCP CloudRun in prod?",
+      "https://news.ycombinator.com/item?id=32713361"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 14:07:42",
+      "https://news.ycombinator.com/item?id=32713193"
+    ],
+    [
+      "Meta’s Metaverse Is Such a Misfire",
+      "https://spectrum.ieee.org/metaverse-meta-misfire"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 14:01:46",
       "https://news.ycombinator.com/item?id=32713143"
     ],
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2022-09-04, 10:53:29",
-      "https://news.ycombinator.com/item?id=32711726"
-    ],
-    [
-      "Why Haskell Is Interesting? (2005)",
-      "https://web.archive.org/web/20130823122503/http://www.freesoftwaremagazine.com/articles/haskell"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 10:27:19",
       "https://news.ycombinator.com/item?id=32711599"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-09-04, 07:35:33",
-      "https://news.ycombinator.com/item?id=32710756"
-    ],
-    [
-      "Instagram removes Pornhub's account",
-      "https://variety.com/2022/digital/news/instagram-bans-pornhub-account-removed-1235359364/"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 06:48:17",
       "https://news.ycombinator.com/item?id=32710515"
     ],
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2022-09-04, 04:36:00",
-      "https://news.ycombinator.com/item?id=32709870"
-    ],
-    [
-      "Dear Oracle, Please Release the JavaScript Trademark",
-      "https://tinyclouds.org"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 02:58:08",
-      "https://news.ycombinator.com/item?id=32709329"
-    ],
-    [
-      "I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped",
-      "https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 02:12:19",
       "https://news.ycombinator.com/item?id=32709045"
     ],
@@ -207,6 +207,16 @@
     [
       "An opinionated guide to scheme implementations (2013)",
       "https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 07:41:11",
+      "https://news.ycombinator.com/item?id=32699657"
+    ],
+    [
+      "Simplicity and Survival",
+      "https://borretti.me/article/simplicity-and-survival"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Master Foo and the Recruiter (2016)",
       "http://www.catb.org/~esr/writings/unix-koans/recruiter.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-02, 14:51:27",
-      "https://news.ycombinator.com/item?id=32691526"
-    ],
-    [
-      "Python multi-level break and continue",
-      "https://lwn.net/SubscriberLink/906512/27b609f844d04f68/"
     ]
   ],
   [
