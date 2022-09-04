@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-04, 01:02:45",
+      "https://news.ycombinator.com/item?id=32708513"
+    ],
+    [
+      "Ivy (YC W23) is hiring software engineers to help unify ML",
+      "https://www.ycombinator.com/companies/ivy/jobs"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 01:02:13",
+      "https://news.ycombinator.com/item?id=32708508"
+    ],
+    [
+      "Samsung Loses a Ton of User Data – Offers Nothing to Victims",
+      "https://www.makeuseof.com/samsung-data-breach-should-you-worry/"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 23:44:48",
+      "https://news.ycombinator.com/item?id=32707737"
+    ],
+    [
+      "Ask HN: If I enter account or order in a phone tree, why am I asked again?",
+      "https://news.ycombinator.com/item?id=32707737"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 22:50:28",
+      "https://news.ycombinator.com/item?id=32707051"
+    ],
+    [
+      "Space Weather Prediction Center",
+      "https://www.spaceweather.gov/homepage"
+    ]
+  ],
+  [
+    [
       "2022-09-03, 22:17:41",
       "https://news.ycombinator.com/item?id=32706673"
     ],
@@ -15,18 +55,8 @@
       "https://news.ycombinator.com/item?id=32706548"
     ],
     [
-      "Less Is More Agile",
+      "Less is more agile",
       "https://beny23.github.io/posts/my_take_on_engineering_room_9/"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 21:02:39",
-      "https://news.ycombinator.com/item?id=32706045"
-    ],
-    [
-      "OneSignal (YC S11) just announced a $50M Series C and is hiring engineers",
-      "https://onesignal.com/careers"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32705991"
     ],
     [
-      "The History of FoxPro: Interview with Wayne Ratliff",
+      "The History of FoxPro: Interview with Wayne Ratliff (1986)",
       "http://www.foxprohistory.org/interview_wayne_ratliff.htm"
     ]
   ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32705725"
     ],
     [
-      "Porsche Boss Faces Software Woes Keeping VW a Step Behind Tesla",
+      "Porsche boss faces software woes keeping VW a step behind Tesla",
       "https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla"
     ]
   ],
@@ -65,18 +95,8 @@
       "https://news.ycombinator.com/item?id=32705025"
     ],
     [
-      "DBOS: A Database-Oriented Operating System",
+      "DBOS: A database-oriented operating system",
       "https://dbos-project.github.io/blog/intro-blog.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 18:21:18",
-      "https://news.ycombinator.com/item?id=32704598"
-    ],
-    [
-      "Tavis Ormandy: Cloudflare lobbied FTC to stifle security researchers",
-      "https://twitter.com/taviso/status/1566077115992133634"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-03, 14:20:24",
-      "https://news.ycombinator.com/item?id=32702094"
-    ],
-    [
-      "Lenovo’s Glasses T1 let you bring a private big screen display with you",
-      "https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa"
-    ]
-  ],
-  [
-    [
       "2022-09-03, 13:56:55",
       "https://news.ycombinator.com/item?id=32701913"
     ],
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2022-09-03, 09:28:59",
-      "https://news.ycombinator.com/item?id=32700184"
+      "2022-09-03, 11:55:56",
+      "https://news.ycombinator.com/item?id=32700961"
     ],
     [
-      "Tell HN: The 10-bit timers are about to overflow on September 17th",
-      "https://news.ycombinator.com/item?id=32700184"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 09:03:00",
-      "https://news.ycombinator.com/item?id=32700066"
-    ],
-    [
-      "Peter Eckersley has died",
-      "https://community.letsencrypt.org/t/peter-eckersley-may-his-memory-be-a-blessing/183854"
+      "Things to know about lists on the internet",
+      "https://lithub.com/10-things-you-should-know-about-lists-on-the-internet/"
     ]
   ],
   [
@@ -225,8 +225,18 @@
       "https://news.ycombinator.com/item?id=32693220"
     ],
     [
-      "A Hormone May Boost Cognition in Down Syndrome",
+      "A hormone may boost cognition in Down syndrome",
       "https://www.scientificamerican.com/article/a-hormone-may-boost-cognition-in-down-syndrome/"
+    ]
+  ],
+  [
+    [
+      "2022-09-02, 16:18:46",
+      "https://news.ycombinator.com/item?id=32692563"
+    ],
+    [
+      "Solving the Australian Signals Directorate cryptography challenge coin",
+      "http://senwerks.com/hacktheplanet/Solving-the-Australian-Signals-Directorate-cryptography-challenge-coin.html"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=32690892"
     ],
     [
-      "The Forty-Year Programmer",
+      "The forty-year programmer",
       "https://codefol.io/posts/the-forty-year-programmer/"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32690073"
     ],
     [
-      "One Serverless Principle to Rule Them All: Idempotency",
+      "One Serverless Principle to Rule Them All: Idempotency [video]",
       "https://www.youtube.com/watch?v=X24mIe0LrgM"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The carbon capture crux: Lessons learned",
       "https://ieefa.org/resources/carbon-capture-crux-lessons-learned"
-    ]
-  ],
-  [
-    [
-      "2022-08-30, 14:45:42",
-      "https://news.ycombinator.com/item?id=32651109"
-    ],
-    [
-      "Remembering the best shareware-era DOS games that time forgot (2019)",
-      "https://arstechnica.com/gaming/2019/08/remembering-the-best-shareware-era-dos-games-that-time-forgot/"
     ]
   ]
 ]
