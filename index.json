@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-09-03, 08:55:11",
+      "https://news.ycombinator.com/item?id=32700027"
+    ],
+    [
+      "An opinionated guide to scheme implementations",
+      "https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations"
+    ]
+  ],
+  [
+    [
       "2022-09-03, 06:05:33",
       "https://news.ycombinator.com/item?id=32699202"
     ],
@@ -287,16 +297,6 @@
     [
       "One Serverless Principle to Rule Them All: Idempotency [video]",
       "https://www.youtube.com/watch?v=X24mIe0LrgM"
-    ]
-  ],
-  [
-    [
-      "2022-09-01, 15:17:15",
-      "https://news.ycombinator.com/item?id=32677594"
-    ],
-    [
-      "The carbon capture crux: Lessons learned",
-      "https://ieefa.org/resources/carbon-capture-crux-lessons-learned"
     ]
   ]
 ]
