@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-09-04, 15:39:51",
-      "https://news.ycombinator.com/item?id=32714191"
-    ],
-    [
-      "Lapce Editor, Release v0.2.0",
-      "https://github.com/lapce/lapce/releases/tag/v0.2.0"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 15:35:37",
       "https://news.ycombinator.com/item?id=32714138"
     ],
@@ -297,6 +287,16 @@
     [
       "Histogram vs. ECDF",
       "https://brooker.co.za/blog/2022/09/02/ecdf.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 02:26:12",
+      "https://news.ycombinator.com/item?id=32698023"
+    ],
+    [
+      "The quantum state of Linux kernel garbage collection",
+      "https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html"
     ]
   ]
 ]
