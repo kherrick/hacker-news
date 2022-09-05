@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-09-05, 18:56:36",
-      "https://news.ycombinator.com/item?id=32727864"
-    ],
-    [
-      "Place-Based Productivity and Costs in Science",
-      "https://www.nber.org/papers/w30416"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 18:53:59",
       "https://news.ycombinator.com/item?id=32727829"
     ],
@@ -297,6 +287,16 @@
     [
       "Color – Bauhaus",
       "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 09:55:35",
+      "https://news.ycombinator.com/item?id=32700315"
+    ],
+    [
+      "High speed Unicode routines using SIMD",
+      "https://github.com/simdutf/simdutf"
     ]
   ]
 ]
