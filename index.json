@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-05, 22:04:42",
+      "https://news.ycombinator.com/item?id=32730048"
+    ],
+    [
+      "Meta Fined $400M for Treatment of Children’s Data on Instagram",
+      "https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 22:03:39",
+      "https://news.ycombinator.com/item?id=32730038"
+    ],
+    [
+      "Show HN: WakaQ - a Python distributed task queue",
+      "https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 22:01:35",
       "https://news.ycombinator.com/item?id=32730020"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32729784"
     ],
     [
-      "How to Present Backend Demos",
+      "How To Present Backend Demos",
       "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59"
     ]
   ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2022-09-05, 19:54:10",
-      "https://news.ycombinator.com/item?id=32728636"
-    ],
-    [
-      "Compared to traditional activities, programming did not benefit math learning",
-      "https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 19:47:13",
       "https://news.ycombinator.com/item?id=32728543"
     ],
@@ -67,16 +77,6 @@
     [
       "Apple II Desktop Updated",
       "https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 18:56:36",
-      "https://news.ycombinator.com/item?id=32727864"
-    ],
-    [
-      "Place-Based Productivity and Costs in Science",
-      "https://www.nber.org/papers/w30416"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2022-09-05, 07:47:56",
-      "https://news.ycombinator.com/item?id=32721602"
+      "2022-09-05, 10:06:45",
+      "https://news.ycombinator.com/item?id=32722510"
     ],
     [
-      "Why A4? – The Mathematical Beauty of Paper Size",
-      "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"
+      "Apple AMX instruction set (M1/M2 matrix coprocessor)",
+      "https://github.com/corsix/amx"
     ]
   ],
   [
