@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-05, 17:08:01",
-      "https://news.ycombinator.com/item?id=32726569"
+      "2022-09-05, 17:16:31",
+      "https://news.ycombinator.com/item?id=32726679"
     ],
     [
-      "DDoS-Guard also drops Kiwi Farms",
-      "https://ddos-guard.net/en/info/blog-detail/ddos-guard-terminating-services-for-kiwi-farms"
+      "Show HN: Draw Anything – A Simple Stable Diffusion Playground",
+      "https://www.drawanything.app/"
     ]
   ],
   [
@@ -21,12 +21,42 @@
   ],
   [
     [
-      "2022-09-05, 16:11:07",
-      "https://news.ycombinator.com/item?id=32725925"
+      "2022-09-05, 16:23:08",
+      "https://news.ycombinator.com/item?id=32726081"
     ],
     [
-      "Alan D. Sokal – Transgressing the Boundaries (1995)",
-      "https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html"
+      "Mille Bornes",
+      "http://www.codex99.com/design/28.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 16:19:55",
+      "https://news.ycombinator.com/item?id=32726036"
+    ],
+    [
+      "Mangroves on a Landfill",
+      "https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 16:18:17",
+      "https://news.ycombinator.com/item?id=32726011"
+    ],
+    [
+      "Extending SQLite with Rust",
+      "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 16:03:08",
+      "https://news.ycombinator.com/item?id=32725834"
+    ],
+    [
+      "A simple way to significantly increase lifetimes of fuel cells and other devices",
+      "https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32725492"
     ],
     [
-      "Spotify have finally killed 3rd party streaming apps",
+      "Please continue supporting iOS/Android streaming SDKs",
       "https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-09-05, 12:06:21",
-      "https://news.ycombinator.com/item?id=32723347"
-    ],
-    [
-      "Nobel Prize winner Gregg Semenza retracts four papers",
-      "https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 12:01:03",
       "https://news.ycombinator.com/item?id=32723316"
     ],
@@ -161,22 +181,12 @@
   ],
   [
     [
-      "2022-09-05, 11:38:45",
-      "https://news.ycombinator.com/item?id=32723192"
+      "2022-09-05, 11:01:31",
+      "https://news.ycombinator.com/item?id=32722950"
     ],
     [
-      "“Writing an app is like coding for LaserDisc”",
-      "https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 10:29:07",
-      "https://news.ycombinator.com/item?id=32722691"
-    ],
-    [
-      "Optimizing Polygon Intersections with Subdivide",
-      "https://findenergy.com/optimizing-polygon-intersections-with-subdivide/"
+      "Kiwi Farms is down across all domains as DDoS-Guard terminates service",
+      "https://twitter.com/GossiTheDog/status/1566728231893573634"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-09-05, 09:48:26",
-      "https://news.ycombinator.com/item?id=32722374"
-    ],
-    [
-      "The quantum computing bubble",
-      "https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 09:37:21",
       "https://news.ycombinator.com/item?id=32722281"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-09-05, 08:15:10",
-      "https://news.ycombinator.com/item?id=32721754"
-    ],
-    [
-      "Show HN: AutoML Python Package for Tabular Data with Automatic Documentation",
-      "https://github.com/mljar/mljar-supervised"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 07:47:56",
       "https://news.ycombinator.com/item?id=32721602"
     ],
     [
       "Why A4? – The Mathematical Beauty of Paper Size",
       "https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 13:59:00",
+      "https://news.ycombinator.com/item?id=32713118"
+    ],
+    [
+      "Computing VIN Checksums",
+      "https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/"
     ]
   ],
   [
