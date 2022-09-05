@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-05, 15:01:46",
-      "https://news.ycombinator.com/item?id=32725079"
+      "2022-09-05, 15:44:58",
+      "https://news.ycombinator.com/item?id=32725614"
     ],
     [
-      "Thomas Piketty’s Radical Plan to Redistribute Wealth",
-      "https://www.nytimes.com/2022/04/19/books/review/a-brief-history-of-equality-thomas-piketty.html"
+      "PHP 8.2.0 RC1 available for testing",
+      "https://www.php.net/archive/2022.php"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 15:24:13",
+      "https://news.ycombinator.com/item?id=32725322"
+    ],
+    [
+      "Solr’s Dense Vector Search for indexing and searching dense numerical vectors",
+      "https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html"
     ]
   ],
   [
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2022-09-05, 14:15:36",
+      "https://news.ycombinator.com/item?id=32724543"
+    ],
+    [
+      "Ubisoft delays server shutdowns, prevents purchased DLC from going away",
+      "https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 13:57:49",
       "https://news.ycombinator.com/item?id=32724337"
     ],
@@ -57,16 +77,6 @@
     [
       "All poverty is energy poverty",
       "https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 13:18:40",
-      "https://news.ycombinator.com/item?id=32723961"
-    ],
-    [
-      "Nano-nonsense: 25 years of charlatanry (2010)",
-      "https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Visualize active fires around the world with Javascript",
       "https://blog.znote.io/2022/znote-climate-post/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 09:29:26",
-      "https://news.ycombinator.com/item?id=32722240"
-    ],
-    [
-      "Outlook.com is silently discarding email messages (2015)",
-      "https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/"
     ]
   ],
   [
