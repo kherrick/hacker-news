@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-09-05, 13:10:49",
+      "https://news.ycombinator.com/item?id=32723909"
+    ],
+    [
+      "Toyota Patents Plans for EV with Manual Transmission and Clutch",
+      "https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 12:56:48",
+      "https://news.ycombinator.com/item?id=32723784"
+    ],
+    [
+      "Common Lisp vs Racket",
+      "https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 12:54:59",
+      "https://news.ycombinator.com/item?id=32723766"
+    ],
+    [
+      "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
+      "https://news.ycombinator.com/item?id=32723766"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 12:06:21",
       "https://news.ycombinator.com/item?id=32723347"
     ],
     [
-      "Nobel Prize winner Gregg Semenza retracts four papers – Retraction Watch",
+      "Nobel Prize winner Gregg Semenza retracts four papers",
       "https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/"
     ]
   ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32723316"
     ],
     [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
+      "Meticulous (YC S21) is hiring #3 founding engineer in London",
       "https://news.ycombinator.com/item?id=32723316"
     ]
   ],
@@ -31,32 +61,32 @@
   ],
   [
     [
+      "2022-09-05, 11:38:45",
+      "https://news.ycombinator.com/item?id=32723192"
+    ],
+    [
+      "“Writing an app is like coding for LaserDisc”",
+      "https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 11:05:51",
       "https://news.ycombinator.com/item?id=32722979"
     ],
     [
-      "I didn’t want it anywhere near me: how the Apple AirTag became a stalker's gift",
+      "How the Apple AirTag became a stalker’s gift",
       "https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers"
     ]
   ],
   [
     [
-      "2022-09-05, 11:05:28",
-      "https://news.ycombinator.com/item?id=32722975"
+      "2022-09-05, 10:29:07",
+      "https://news.ycombinator.com/item?id=32722691"
     ],
     [
-      "Finland’s education system is failing. Should we look to Asia?",
-      "https://bigthink.com/the-present/finland-education-system-criticisms/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 11:01:31",
-      "https://news.ycombinator.com/item?id=32722950"
-    ],
-    [
-      "Kiwifarms no longer available anywhere on internet as DDoS-Guard ends service",
-      "https://twitter.com/GossiTheDog/status/1566728231893573634"
+      "Optimizing Polygon Intersections with Subdivide",
+      "https://findenergy.com/optimizing-polygon-intersections-with-subdivide/"
     ]
   ],
   [
@@ -121,6 +151,16 @@
   ],
   [
     [
+      "2022-09-05, 08:15:10",
+      "https://news.ycombinator.com/item?id=32721754"
+    ],
+    [
+      "Show HN: AutoML Python Package for Tabular Data with Automatic Documentation",
+      "https://github.com/mljar/mljar-supervised"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 07:47:56",
       "https://news.ycombinator.com/item?id=32721602"
     ],
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2022-09-05, 07:32:17",
-      "https://news.ycombinator.com/item?id=32721523"
-    ],
-    [
-      "The Air Force Just Survived a Reply-All Apocalypse",
-      "https://gizmodo.com/air-force-reply-all-email-storm-snafu-1849490442"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 02:31:56",
       "https://news.ycombinator.com/item?id=32719866"
     ],
     [
       "Credit Karma fined $3M by FTC for misleading consumers with credit card offers",
       "https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 01:30:31",
-      "https://news.ycombinator.com/item?id=32719546"
-    ],
-    [
-      "Can't believe Stable Diffusion is out for public use and that's considered “OK”",
-      "https://old.reddit.com/r/MachineLearning/comments/x3lahr/d_senior_research_scientist_at_googleai_negar/"
     ]
   ],
   [
@@ -181,12 +201,22 @@
   ],
   [
     [
-      "2022-09-04, 20:02:33",
-      "https://news.ycombinator.com/item?id=32717133"
+      "2022-09-04, 17:28:40",
+      "https://news.ycombinator.com/item?id=32715437"
     ],
     [
-      "Show HN: Zelda Breath of The Wild Street View",
-      "https://nassimsoftware.github.io/zeldabotwstreetview/"
+      "After self-hosting my email for twenty-three years I have thrown in the towel",
+      "https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 15:59:12",
+      "https://news.ycombinator.com/item?id=32714381"
+    ],
+    [
+      "Leon: Open-source, self-hosted personal assistant",
+      "https://github.com/leon-ai/leon"
     ]
   ],
   [
@@ -207,16 +237,6 @@
     [
       "Johnny Mnemonic in Black-and-White",
       "https://www.screenslate.com/articles/johnny-mnemonic-black-and-white-robert-longo-interview"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 11:26:18",
-      "https://news.ycombinator.com/item?id=32711904"
-    ],
-    [
-      "The IKEA Effect – Why managers fall in love with their own ideas",
-      "https://mannhowie.com/ikea-effect"
     ]
   ],
   [
@@ -245,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32710918"
     ],
     [
-      "Judy Arrays",
+      "Judy Arrays (2004)",
       "http://judy.sourceforge.net/index.html"
     ]
   ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-09-03, 18:23:34",
-      "https://news.ycombinator.com/item?id=32704620"
-    ],
-    [
-      "Saving Face: Portraiture in the Age of Artificial Intelligence",
-      "https://www.artforum.com/print/202207/graham-bader-on-portraiture-in-the-age-of-artificial-intelligence-88916"
-    ]
-  ],
-  [
-    [
       "2022-09-03, 18:14:43",
       "https://news.ycombinator.com/item?id=32704526"
     ],
     [
       "Tesla’s Dojo Microarchitecture",
       "https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 12:57:04",
-      "https://news.ycombinator.com/item?id=32701434"
-    ],
-    [
-      "How MetroCard works (2005) [pdf]",
-      "https://events.ccc.de/congress/2005/fahrplan/attachments/594-paper_MagneticStripeTechnology2.pdf"
     ]
   ],
   [
