@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-09-05, 15:04:00",
-      "https://news.ycombinator.com/item?id=32725105"
-    ],
-    [
-      "Ask HN: How much does private health insurance cost you?",
-      "https://news.ycombinator.com/item?id=32725105"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 15:01:46",
       "https://news.ycombinator.com/item?id=32725079"
     ],
@@ -47,16 +37,6 @@
     [
       "Ask HN: YC misses that went on to do well (like veed.io)",
       "https://news.ycombinator.com/item?id=32724564"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 14:14:39",
-      "https://news.ycombinator.com/item?id=32724528"
-    ],
-    [
-      "Node.js.dev is applying text-transform: capitalize to all its code examples",
-      "https://nodejs.dev/en/learn/writing-files-with-nodejs/"
     ]
   ],
   [
@@ -207,6 +187,26 @@
     [
       "Visualize active fires around the world with Javascript",
       "https://blog.znote.io/2022/znote-climate-post/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 09:29:26",
+      "https://news.ycombinator.com/item?id=32722240"
+    ],
+    [
+      "Outlook.com is silently discarding email messages (2015)",
+      "https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 08:15:10",
+      "https://news.ycombinator.com/item?id=32721754"
+    ],
+    [
+      "Show HN: AutoML Python Package for Tabular Data with Automatic Documentation",
+      "https://github.com/mljar/mljar-supervised"
     ]
   ],
   [
