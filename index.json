@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-05, 20:49:24",
-      "https://news.ycombinator.com/item?id=32729263"
+      "2022-09-05, 20:54:06",
+      "https://news.ycombinator.com/item?id=32729320"
     ],
     [
-      "House Does Not Exist",
-      "https://thishousedoesnotexist.org/"
+      "OBS Studio 28.0 with Native Apple Silicon Support Is Here",
+      "https://projectobs.com/en/news/obs-studio-28-0/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Contrasting Intel AMX and Apple AMX",
       "https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 20:08:55",
-      "https://news.ycombinator.com/item?id=32728849"
-    ],
-    [
-      "A solution to current high power prices (Europe)",
-      "https://jeromeaparis.substack.com/p/a-solution-to-current-high-power"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32728515"
     ],
     [
-      "Apple II Desktop Updated – Version 1.2 Alpha 48",
+      "Apple II Desktop Updated",
       "https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32727242"
     ],
     [
-      "The Sheer Terror of Pam",
+      "The Sheer Terror of PAM",
       "https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam"
     ]
   ],
@@ -187,16 +177,6 @@
     [
       "Mangroves on a Landfill",
       "https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 16:18:17",
-      "https://news.ycombinator.com/item?id=32726011"
-    ],
-    [
-      "Extending SQLite with Rust",
-      "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Create an Inexpensive Flying Wing / Drone",
       "https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 04:50:35",
+      "https://news.ycombinator.com/item?id=32709947"
+    ],
+    [
+      "Color – Bauhaus",
+      "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 16:13:46",
+      "https://news.ycombinator.com/item?id=32703279"
+    ],
+    [
+      "A small Stripe fraud story",
+      "https://falkus.co/2022/09/a-stripe-fraud-story"
     ]
   ]
 ]
