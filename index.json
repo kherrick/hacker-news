@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-05, 17:08:01",
+      "https://news.ycombinator.com/item?id=32726569"
+    ],
+    [
+      "DDoS-Guard also drops Kiwi Farms",
+      "https://ddos-guard.net/en/info/blog-detail/ddos-guard-terminating-services-for-kiwi-farms"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 16:30:09",
+      "https://news.ycombinator.com/item?id=32726166"
+    ],
+    [
+      "Kext-less FUSE library for macOS",
+      "https://www.fuse-t.org/"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 16:11:07",
       "https://news.ycombinator.com/item?id=32725925"
     ],
@@ -117,16 +137,6 @@
     [
       "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
       "https://news.ycombinator.com/item?id=32723766"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 12:12:41",
-      "https://news.ycombinator.com/item?id=32723393"
-    ],
-    [
-      "Library of Database Schemas",
-      "https://www.dbschemalibrary.com/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Timeless Way of Programming",
       "http://tomasp.net/blog/2022/timeless-way/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 08:06:04",
-      "https://news.ycombinator.com/item?id=32710918"
-    ],
-    [
-      "Judy Arrays (2004)",
-      "http://judy.sourceforge.net/index.html"
     ]
   ],
   [
