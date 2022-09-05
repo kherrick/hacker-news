@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-05, 18:59:19",
+      "https://news.ycombinator.com/item?id=32727903"
+    ],
+    [
+      "Kiwifarms: Where the Sidewalk Ends",
+      "https://web.archive.org/web/20200321104021/https://kiwifarms.net/threads/where-the-sidewalk-ends-an-internet-story.58353/"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 18:58:25",
       "https://news.ycombinator.com/item?id=32727889"
     ],
     [
       "Show HN: Watchlimits – Chrome extension to solve excessive video watching",
       "https://watchlimits.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 18:56:36",
+      "https://news.ycombinator.com/item?id=32727864"
+    ],
+    [
+      "Place-Based Productivity and Costs in Science",
+      "https://www.nber.org/papers/w30416"
     ]
   ],
   [
@@ -21,12 +41,42 @@
   ],
   [
     [
+      "2022-09-05, 18:43:25",
+      "https://news.ycombinator.com/item?id=32727712"
+    ],
+    [
+      "Premature Optimization is the Root of all Evil",
+      "https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 18:42:57",
+      "https://news.ycombinator.com/item?id=32727703"
+    ],
+    [
+      "What if cryptocurrencies ranked by number of nodes instead of marketcap?",
+      "https://chainparrot.com/blockchains-by-number-of-nodes.html"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 18:14:30",
       "https://news.ycombinator.com/item?id=32727357"
     ],
     [
       "In wake of data breach – Samsung forcing users to accept T&CS or risk their data",
       "https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 18:06:21",
+      "https://news.ycombinator.com/item?id=32727242"
+    ],
+    [
+      "The Sheer Terror of Pam",
+      "https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam"
     ]
   ],
   [
@@ -91,26 +141,6 @@
   ],
   [
     [
-      "2022-09-05, 16:03:08",
-      "https://news.ycombinator.com/item?id=32725834"
-    ],
-    [
-      "A simple way to significantly increase lifetimes of fuel cells and other devices",
-      "https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 15:38:04",
-      "https://news.ycombinator.com/item?id=32725492"
-    ],
-    [
-      "Please continue supporting iOS/Android streaming SDKs",
-      "https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 15:24:13",
       "https://news.ycombinator.com/item?id=32725322"
     ],
@@ -137,16 +167,6 @@
     [
       "'Serious errors' in research linking deaths to red meat",
       "https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 13:57:49",
-      "https://news.ycombinator.com/item?id=32724337"
-    ],
-    [
-      "SQLite 3.39.3",
-      "https://sqlite.org/releaselog/3_39_3.html"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-09-05, 09:59:17",
-      "https://news.ycombinator.com/item?id=32722451"
-    ],
-    [
-      "Virtual Ants",
-      "https://healeycodes.com/virtual-ants"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 07:47:56",
       "https://news.ycombinator.com/item?id=32721602"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2022-09-04, 17:21:48",
+      "https://news.ycombinator.com/item?id=32715358"
+    ],
+    [
+      "History by Numbers",
+      "https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 13:59:00",
       "https://news.ycombinator.com/item?id=32713118"
     ],
     [
       "Computing VIN Checksums",
       "https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 11:01:53",
-      "https://news.ycombinator.com/item?id=32711772"
-    ],
-    [
-      "Cowgod's Chip-8 Technical Reference",
-      "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Color – Bauhaus",
       "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 09:55:35",
-      "https://news.ycombinator.com/item?id=32700315"
-    ],
-    [
-      "High speed Unicode routines using SIMD",
-      "https://github.com/simdutf/simdutf"
     ]
   ]
 ]
