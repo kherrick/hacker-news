@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-05, 01:35:39",
+      "https://news.ycombinator.com/item?id=32719580"
+    ],
+    [
+      "We need to move water from Midwest west. Let's get on with it.",
+      "https://www.desertsun.com/story/opinion/contributors/valley-voice/2022/09/04/we-need-move-water-midwest-west-lets-get/7884511001/"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 23:05:30",
       "https://news.ycombinator.com/item?id=32718615"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2022-09-04, 22:26:23",
-      "https://news.ycombinator.com/item?id=32718327"
+      "2022-09-04, 23:04:08",
+      "https://news.ycombinator.com/item?id=32718600"
     ],
     [
-      "TikTok Hacked?",
-      "https://twitter.com/AggressiveCurl/status/1566161198248509440"
+      "EV adoption in US is happening faster than predicted",
+      "https://www.recurrentauto.com/research/ev-adoption-us"
     ]
   ],
   [
     [
-      "2022-09-04, 22:11:31",
-      "https://news.ycombinator.com/item?id=32718212"
+      "2022-09-04, 22:26:23",
+      "https://news.ycombinator.com/item?id=32718327"
     ],
     [
-      "Ask HN: As a dev, what made (or almost) you quit from a job?",
-      "https://news.ycombinator.com/item?id=32718212"
+      "Has  tiktok_us  been breached?",
+      "https://twitter.com/troyhunt/status/1566565409939427328"
     ]
   ],
   [
@@ -81,22 +91,12 @@
   ],
   [
     [
-      "2022-09-04, 19:26:55",
-      "https://news.ycombinator.com/item?id=32716770"
-    ],
-    [
-      "Ask HN: Location based pay is killing my motivation, how do others handle it?",
-      "https://news.ycombinator.com/item?id=32716770"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 18:16:36",
       "https://news.ycombinator.com/item?id=32715980"
     ],
     [
-      "Create epic music together with friends and strangers",
-      "https://test.plink.in"
+      "Plink: Create epic music together with friends and strangers",
+      "https://plink.in/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32714806"
     ],
     [
-      "Reviving the coolest scanner you've never heard of",
+      "Reviving the Pakon film scanner",
       "https://ktkaufman03.github.io/blog/2022/09/04/pakon-reverse-engineering/"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32712017"
     ],
     [
-      "C Integer Quiz",
+      "Integers in C quiz",
       "https://www.acepace.net/integerQuiz/"
     ]
   ],
@@ -235,28 +235,18 @@
       "https://news.ycombinator.com/item?id=32712015"
     ],
     [
-      "New performance materials are coming",
+      "Biomanufactured materials are coming",
       "https://www.tsungxu.com/performance-biomaterials/"
     ]
   ],
   [
     [
-      "2022-09-04, 07:31:57",
-      "https://news.ycombinator.com/item?id=32710738"
+      "2022-09-04, 08:37:08",
+      "https://news.ycombinator.com/item?id=32711082"
     ],
     [
-      "Was Vincent van Gogh color blind? (2012)",
-      "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 07:11:38",
-      "https://news.ycombinator.com/item?id=32710644"
-    ],
-    [
-      "Spreadsheet Gaming",
-      "https://spreadsheetgaming.com/"
+      "A Short Chronology of Deep Learning for Tabular Data",
+      "https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html"
     ]
   ],
   [
@@ -265,18 +255,8 @@
       "https://news.ycombinator.com/item?id=32709337"
     ],
     [
-      "Bones: Why Utah’s desert is a paleontologist’s playground",
+      "Utah’s desert is a paleontologist’s playground",
       "https://www.deseret.com/2022/8/21/23313199/dinosaurs-palentology-utah-desert-grand-staircase-university-of-utah-t-rex-tyrannosaur"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 19:52:26",
-      "https://news.ycombinator.com/item?id=32705465"
-    ],
-    [
-      "Optimizing Clang: A Practical Example of Applying Bolt",
-      "https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingClang.md"
     ]
   ],
   [
@@ -285,8 +265,28 @@
       "https://news.ycombinator.com/item?id=32704526"
     ],
     [
-      "Hot Chips 34 – Tesla’s Dojo Microarchitecture",
+      "Tesla’s Dojo Microarchitecture",
       "https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 13:02:07",
+      "https://news.ycombinator.com/item?id=32701484"
+    ],
+    [
+      "What is multi-objective optimization?",
+      "https://medium.com/@dreamferus/what-is-multi-objective-optimization-d86497abca86"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 12:57:04",
+      "https://news.ycombinator.com/item?id=32701434"
+    ],
+    [
+      "How MetroCard works (2005) [pdf]",
+      "https://events.ccc.de/congress/2005/fahrplan/attachments/594-paper_MagneticStripeTechnology2.pdf"
     ]
   ],
   [
