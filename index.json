@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-09-05, 18:59:19",
-      "https://news.ycombinator.com/item?id=32727903"
-    ],
-    [
-      "Kiwifarms: Where the Sidewalk Ends",
-      "https://web.archive.org/web/20200321104021/https://kiwifarms.net/threads/where-the-sidewalk-ends-an-internet-story.58353/"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 18:58:25",
       "https://news.ycombinator.com/item?id=32727889"
     ],
@@ -267,6 +257,16 @@
     [
       "Computing VIN Checksums",
       "https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 11:01:53",
+      "https://news.ycombinator.com/item?id=32711772"
+    ],
+    [
+      "Cowgod's Chip-8 Technical Reference",
+      "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM"
     ]
   ],
   [
