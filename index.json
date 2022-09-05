@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-05, 20:08:55",
+      "https://news.ycombinator.com/item?id=32728849"
+    ],
+    [
+      "A solution to current high power prices (Europe)",
+      "https://jeromeaparis.substack.com/p/a-solution-to-current-high-power"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 19:47:13",
+      "https://news.ycombinator.com/item?id=32728543"
+    ],
+    [
+      "Accidental complexity, essential complexity, and Kubernetes",
+      "https://driftingin.space/posts/complexity-kubernetes"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 18:58:25",
       "https://news.ycombinator.com/item?id=32727889"
     ],
     [
       "Show HN: Watchlimits – Chrome extension to solve excessive video watching",
       "https://watchlimits.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 18:56:36",
+      "https://news.ycombinator.com/item?id=32727864"
+    ],
+    [
+      "Place-Based Productivity and Costs in Science",
+      "https://www.nber.org/papers/w30416"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Violence-as-a-Service: Brickings, Firebombings and Shootings for Hire",
       "https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 17:24:55",
+      "https://news.ycombinator.com/item?id=32726774"
+    ],
+    [
+      "Using Stable Diffusion's img2img on some old Sierra titles",
+      "https://sciprogramming.com/community/index.php?topic=2081.0"
     ]
   ],
   [
@@ -137,16 +177,6 @@
     [
       "Heatwaves kill more Americans than hurricanes, tornadoes and floods",
       "https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 14:17:17",
-      "https://news.ycombinator.com/item?id=32724569"
-    ],
-    [
-      "'Serious errors' in research linking deaths to red meat",
-      "https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2022-09-04, 17:21:48",
-      "https://news.ycombinator.com/item?id=32715358"
-    ],
-    [
-      "History by Numbers",
-      "https://aeon.co/essays/historical-data-is-not-a-kitten-its-a-sabre-toothed-tiger"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 13:59:00",
       "https://news.ycombinator.com/item?id=32713118"
     ],
     [
       "Computing VIN Checksums",
       "https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 11:01:53",
-      "https://news.ycombinator.com/item?id=32711772"
-    ],
-    [
-      "Cowgod's Chip-8 Technical Reference",
-      "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Color – Bauhaus",
       "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 09:55:35",
-      "https://news.ycombinator.com/item?id=32700315"
-    ],
-    [
-      "High speed Unicode routines using SIMD",
-      "https://github.com/simdutf/simdutf"
     ]
   ]
 ]
