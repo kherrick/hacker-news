@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-06, 16:03:43",
+      "https://news.ycombinator.com/item?id=32739022"
+    ],
+    [
+      "Sierra Club, environmental groups petition EPA to ban natural gas for heating",
+      "https://denvergazette.com/news/environment/sierra-club-environmental-groups-petition-epa-to-ban-natural-gas-for-home-heating/article_256ea4ca-28bd-11ed-a31c-fb00aa7f1db2.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:55:51",
+      "https://news.ycombinator.com/item?id=32738885"
+    ],
+    [
+      "Richard Stallman Announces GNU C Language Reference Manual",
+      "https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:55:27",
+      "https://news.ycombinator.com/item?id=32738874"
+    ],
+    [
+      "A sequel to SQL? An intro to Malloy",
+      "https://carlineng.com/?postid=malloy-intro#blog"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 15:41:27",
       "https://news.ycombinator.com/item?id=32738654"
     ],
@@ -57,16 +87,6 @@
     [
       "From Wound Healing to Regeneration",
       "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 15:04:18",
-      "https://news.ycombinator.com/item?id=32738050"
-    ],
-    [
-      "KeePass is the free, open source, light-weight and easy-to-use password manager",
-      "https://keepass.info"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-06, 10:42:03",
-      "https://news.ycombinator.com/item?id=32735272"
-    ],
-    [
-      "Show HN: Nitric – Node.js framework for building portable cloud apps",
-      "https://github.com/nitrictech/node-sdk"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 06:57:21",
       "https://news.ycombinator.com/item?id=32733844"
     ],
     [
       "The history of sending signals to Unix process groups",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 06:24:13",
-      "https://news.ycombinator.com/item?id=32733620"
-    ],
-    [
-      "Show HN: Open-source APM with support for tracing, metrics, and logs",
-      "https://app.uptrace.dev/play"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2022-09-06, 02:48:29",
-      "https://news.ycombinator.com/item?id=32732158"
+      "2022-09-05, 16:47:57",
+      "https://news.ycombinator.com/item?id=32726347"
     ],
     [
-      "Show HN: Chitchatter – P2P chat app that is serverless, decentralized, ephemeral",
-      "https://chitchatter.im/"
+      "Systems and Cost Analysis for Nuclear Subterrene Tunneling Machine (1973) [pdf]",
+      "https://www.osti.gov/biblio/4444905"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-09-05, 06:54:26",
-      "https://news.ycombinator.com/item?id=32721317"
+      "2022-09-04, 18:14:33",
+      "https://news.ycombinator.com/item?id=32715954"
     ],
     [
-      "Visualizing Large Trees Using the Hyperbolic Browser (1996) [video]",
-      "https://www.youtube.com/watch?v=J0yFd2Pq_rg"
+      "Paris’s Missing Palace and the Making of the Louvre",
+      "https://www.messynessychic.com/2022/09/02/pariss-missing-palace-and-the-making-of-the-louvre/"
     ]
   ]
 ]
