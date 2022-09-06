@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-09-06, 15:41:27",
+      "https://news.ycombinator.com/item?id=32738654"
+    ],
+    [
+      "Show HN: Make 3D art in your browser using Lisp and math",
+      "https://bauble.studio"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:31:14",
+      "https://news.ycombinator.com/item?id=32738501"
+    ],
+    [
+      "TIL: You can access a user’s camera with just HTML",
+      "https://austingil.com/html-capture-attribute/"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:21:26",
+      "https://news.ycombinator.com/item?id=32738332"
+    ],
+    [
+      "AppleScript: Graphic User Interface (GUI) Scripting",
+      "http://www.macosxautomation.com/applescript/uiscripting/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:14:10",
+      "https://news.ycombinator.com/item?id=32738206"
+    ],
+    [
+      "Someone’s Been Messing with My Subnormals",
+      "http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:11:50",
+      "https://news.ycombinator.com/item?id=32738165"
+    ],
+    [
+      "From Wound Healing to Regeneration",
+      "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 15:04:18",
+      "https://news.ycombinator.com/item?id=32738050"
+    ],
+    [
+      "KeePass is the free, open source, light-weight and easy-to-use password manager",
+      "https://keepass.info"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 14:53:25",
       "https://news.ycombinator.com/item?id=32737886"
     ],
@@ -47,16 +107,6 @@
     [
       "The Death of the PCIe Expansion Card",
       "https://kerricklong.com/articles/pci-express-slots.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 14:06:57",
-      "https://news.ycombinator.com/item?id=32737297"
-    ],
-    [
-      "How sustainable are fake meats?",
-      "https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2022-09-06, 11:58:34",
-      "https://news.ycombinator.com/item?id=32735905"
-    ],
-    [
-      "Ask HN: How do you get better at debugging/finding a solution?",
-      "https://news.ycombinator.com/item?id=32735905"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 11:48:58",
       "https://news.ycombinator.com/item?id=32735791"
     ],
@@ -177,16 +217,6 @@
     [
       "Show HN: Nitric – Node.js framework for building portable cloud apps",
       "https://github.com/nitrictech/node-sdk"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 08:51:06",
-      "https://news.ycombinator.com/item?id=32734587"
-    ],
-    [
-      "Revisiting the design approach to Zig",
-      "https://about.sourcegraph.com/blog/zig-programming-language-revisiting-design-approach"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2022-09-05, 07:08:34",
-      "https://news.ycombinator.com/item?id=32721396"
-    ],
-    [
-      "Szeged in 1934 (1993) [pdf]",
-      "https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lorch219-230.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 06:54:26",
       "https://news.ycombinator.com/item?id=32721317"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-09-05, 05:33:01",
-      "https://news.ycombinator.com/item?id=32720893"
-    ],
-    [
-      "Physically-Based Shading at Disney (2012) [pdf]",
-      "https://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/t/593a3afa46c3c4a376d779f6/1496988449807/s2012_pbs_disney_brdf_notes_v2.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 14:57:15",
       "https://news.ycombinator.com/item?id=32713750"
     ],
     [
       "Slidge – XMPP bridges",
       "https://nicoco.fr/blog/2022/09/04/slidge-first-beta/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 13:37:49",
-      "https://news.ycombinator.com/item?id=32712913"
-    ],
-    [
-      "The tyranny of the rocket equaton (2012)",
-      "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html"
     ]
   ]
 ]
