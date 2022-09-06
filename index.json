@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-06, 17:00:33",
+      "https://news.ycombinator.com/item?id=32739891"
+    ],
+    [
+      "Jiga (YC W21) Is Hiring",
+      "https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 16:44:36",
+      "https://news.ycombinator.com/item?id=32739672"
+    ],
+    [
+      "Gated Deployments: addressing the complexity of schema deployments at scale",
+      "https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 16:03:43",
       "https://news.ycombinator.com/item?id=32739022"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2022-09-06, 15:49:32",
+      "https://news.ycombinator.com/item?id=32738783"
+    ],
+    [
+      "A Trillion Prices",
+      "https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 15:41:27",
       "https://news.ycombinator.com/item?id=32738654"
     ],
     [
       "Show HN: Make 3D art in your browser using Lisp and math",
       "https://bauble.studio"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 15:37:01",
-      "https://news.ycombinator.com/item?id=32738591"
-    ],
-    [
-      "The most-regretted (and lowest-paying) college majors",
-      "https://www.washingtonpost.com/business/2022/09/02/college-major-regrets/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-09-06, 11:48:58",
-      "https://news.ycombinator.com/item?id=32735791"
-    ],
-    [
-      "The invention of the first wearable computer (1998) [pdf]",
-      "https://www.cs.virginia.edu/~evans/thorp.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 11:37:42",
       "https://news.ycombinator.com/item?id=32735688"
     ],
@@ -247,16 +257,6 @@
     [
       "The history of sending signals to Unix process groups",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessGroupsAndSignals"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 05:02:48",
-      "https://news.ycombinator.com/item?id=32733069"
-    ],
-    [
-      "Lunatic: Erlang-Inspired Runtime for WebAssembly",
-      "https://github.com/lunatic-solutions/lunatic"
     ]
   ],
   [
