@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-09-06, 03:11:45",
+      "https://news.ycombinator.com/item?id=32732325"
+    ],
+    [
+      "Long-term cardiac pathology in individuals with mild initial Covid-19 illness",
+      "https://www.nature.com/articles/s41591-022-02000-0"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 02:55:34",
+      "https://news.ycombinator.com/item?id=32732209"
+    ],
+    [
+      "How sustainable are fake meats?",
+      "https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 02:48:29",
+      "https://news.ycombinator.com/item?id=32732158"
+    ],
+    [
+      "Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral",
+      "https://chitchatter.im/"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 02:45:46",
+      "https://news.ycombinator.com/item?id=32732133"
+    ],
+    [
+      "Keith Davis: He was protecting the oceans – then he disappeared",
+      "https://www.bbc.com/news/world-us-canada-62603911"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 01:16:38",
       "https://news.ycombinator.com/item?id=32731474"
     ],
     [
-      "Killing Invasive Species Is Now a Competitive Sport",
+      "Killing invasive species is now a competitive sport",
       "https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport"
     ]
   ],
@@ -21,32 +61,12 @@
   ],
   [
     [
-      "2022-09-05, 23:51:09",
-      "https://news.ycombinator.com/item?id=32730856"
-    ],
-    [
-      "CA grid: real-time status",
-      "https://www.caiso.com/TodaysOutlook/Pages/index.html"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 23:14:27",
       "https://news.ycombinator.com/item?id=32730600"
     ],
     [
-      "I patched my Slack client to keep “Oops” messages others delete",
+      "I patched my Slack client to keep “oops” messages others delete",
       "https://github.com/SharonBrizinov/slack-anti-delete"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 22:04:42",
-      "https://news.ycombinator.com/item?id=32730048"
-    ],
-    [
-      "Meta Fined $400M for Treatment of Children’s Data on Instagram",
-      "https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html"
     ]
   ],
   [
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2022-09-05, 19:47:13",
-      "https://news.ycombinator.com/item?id=32728543"
+      "2022-09-05, 19:54:10",
+      "https://news.ycombinator.com/item?id=32728636"
     ],
     [
-      "Accidental complexity, essential complexity, and Kubernetes",
-      "https://driftingin.space/posts/complexity-kubernetes"
+      "Impact of programming on primary mathematics learning",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883"
     ]
   ],
   [
@@ -121,6 +141,16 @@
   ],
   [
     [
+      "2022-09-05, 19:17:26",
+      "https://news.ycombinator.com/item?id=32728143"
+    ],
+    [
+      "Amazon putting a three-day pause on reviews for Rings of Power",
+      "https://variety.com/2022/tv/news/rings-of-power-reviews-delayed-amazon-prime-video-1235358724/"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 18:53:59",
       "https://news.ycombinator.com/item?id=32727829"
     ],
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2022-09-05, 18:43:25",
-      "https://news.ycombinator.com/item?id=32727712"
-    ],
-    [
-      "Premature Optimization is the Root of all Evil",
-      "https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 18:42:57",
       "https://news.ycombinator.com/item?id=32727703"
     ],
     [
       "What if cryptocurrencies ranked by number of nodes instead of marketcap?",
       "https://chainparrot.com/blockchains-by-number-of-nodes.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 18:14:30",
-      "https://news.ycombinator.com/item?id=32727357"
-    ],
-    [
-      "In wake of data breach – Samsung forcing users to accept T&CS or risk their data",
-      "https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-09-05, 15:24:13",
-      "https://news.ycombinator.com/item?id=32725322"
-    ],
-    [
-      "Solr’s Dense Vector Search for indexing and searching dense numerical vectors",
-      "https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 12:56:48",
       "https://news.ycombinator.com/item?id=32723784"
     ],
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2022-09-05, 10:06:45",
-      "https://news.ycombinator.com/item?id=32722510"
+      "2022-09-05, 11:38:45",
+      "https://news.ycombinator.com/item?id=32723192"
     ],
     [
-      "Apple AMX instruction set (M1/M2 matrix coprocessor)",
-      "https://github.com/corsix/amx"
+      "Writing an app is like coding for LaserDisc",
+      "https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 06:30:26",
+      "https://news.ycombinator.com/item?id=32721180"
+    ],
+    [
+      "Don't Ignore the Janitor",
+      "https://happychasing.substack.com/p/see-people"
     ]
   ],
   [
@@ -241,22 +251,32 @@
   ],
   [
     [
+      "2022-09-05, 03:46:16",
+      "https://news.ycombinator.com/item?id=32720305"
+    ],
+    [
+      "With Old Traditions and New Tech, Young Inuit Chart Their Changing Landscape",
+      "https://hakaimagazine.com/features/with-old-traditions-and-new-tech-young-inuit-chart-their-changing-landscape/"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 13:37:49",
+      "https://news.ycombinator.com/item?id=32712913"
+    ],
+    [
+      "The Tyranny of the Rocket Equaton (2012)",
+      "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 12:30:27",
       "https://news.ycombinator.com/item?id=32712324"
     ],
     [
       "NIST Digital Library of Mathematical Functions",
       "https://dlmf.nist.gov/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 08:11:49",
-      "https://news.ycombinator.com/item?id=32710950"
-    ],
-    [
-      "Designing a coherent set of keyboard shortcuts",
-      "https://www.commandbar.com/blog/selecting-keyboard-shortcuts-for-your-app"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-09-03, 22:45:41",
-      "https://news.ycombinator.com/item?id=32706984"
-    ],
-    [
-      "Black Hours, Morgan MS 493",
-      "https://en.wikipedia.org/wiki/Black_Hours,_Morgan_MS_493"
-    ]
-  ],
-  [
-    [
       "2022-09-03, 16:13:46",
       "https://news.ycombinator.com/item?id=32703279"
     ],
     [
       "A small Stripe fraud story",
       "https://falkus.co/2022/09/a-stripe-fraud-story"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 12:55:51",
-      "https://news.ycombinator.com/item?id=32701421"
-    ],
-    [
-      "Fit: Framework for Integrated Test",
-      "http://fit.c2.com/"
     ]
   ]
 ]
