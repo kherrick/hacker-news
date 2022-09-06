@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-09-06, 14:26:51",
+      "https://news.ycombinator.com/item?id=32737534"
+    ],
+    [
+      "The Death of the PCIe Expansion Card",
+      "https://kerricklong.com/articles/pci-express-slots.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 14:19:48",
+      "https://news.ycombinator.com/item?id=32737441"
+    ],
+    [
+      "Serialize Django Data for JavaScript",
+      "https://epicserve.com/django/2022/08/27/serialize-django-data-for-js.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 14:08:14",
+      "https://news.ycombinator.com/item?id=32737313"
+    ],
+    [
+      "Ask HN: 2FA for Credit Cards?",
+      "https://news.ycombinator.com/item?id=32737313"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 14:06:57",
+      "https://news.ycombinator.com/item?id=32737297"
+    ],
+    [
+      "How sustainable are fake meats?",
+      "https://knowablemagazine.org/article/food-environment/2022/how-sustainable-are-fake-meats"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 13:41:31",
+      "https://news.ycombinator.com/item?id=32736987"
+    ],
+    [
+      "Douglas Crockford: The best thing we can do today to JavaScript is to retire it",
+      "https://www.crockford.com/qa2.html"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 13:28:53",
       "https://news.ycombinator.com/item?id=32736817"
     ],
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2022-09-06, 12:35:04",
-      "https://news.ycombinator.com/item?id=32736258"
-    ],
-    [
-      "Ask HN: Static site generator that can cope with octopus juggling geysers?",
-      "https://news.ycombinator.com/item?id=32736258"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 12:32:42",
       "https://news.ycombinator.com/item?id=32736239"
     ],
@@ -101,22 +141,22 @@
   ],
   [
     [
+      "2022-09-06, 11:37:42",
+      "https://news.ycombinator.com/item?id=32735688"
+    ],
+    [
+      "The Tyranny of the Wagon Equation",
+      "https://maximumeffort.substack.com/p/the-tyranny-of-the-wagon-equation"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 11:12:22",
       "https://news.ycombinator.com/item?id=32735479"
     ],
     [
       "Bitwarden raises $100M",
       "https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 10:54:07",
-      "https://news.ycombinator.com/item?id=32735346"
-    ],
-    [
-      "Optical Illusions of the Year",
-      "https://kottke.org/22/02/the-best-optical-illusions-of-the-year"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2022-09-05, 23:14:27",
-      "https://news.ycombinator.com/item?id=32730600"
-    ],
-    [
-      "I patched my Slack client to keep “oops” messages others delete",
-      "https://github.com/SharonBrizinov/slack-anti-delete"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 20:34:15",
-      "https://news.ycombinator.com/item?id=32729105"
-    ],
-    [
-      "Cheating at chess with a computer for my shoes",
-      "https://incoherency.co.uk/blog/stories/sockfish.html"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 18:56:14",
       "https://news.ycombinator.com/item?id=32727859"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2022-09-05, 09:54:20",
-      "https://news.ycombinator.com/item?id=32722411"
+      "2022-09-05, 09:53:47",
+      "https://news.ycombinator.com/item?id=32722409"
     ],
     [
-      "DIY mechanical keyboard switch lets you set its actuation point",
-      "https://arstechnica.com/gadgets/2022/02/diy-mechanical-keyboard-switch-lets-you-set-its-actuation-point/"
+      "Rethinking Indoor Air Chemistry",
+      "https://www.mpg.de/19157061/0902-chem-oxidation-field-152990-x"
     ]
   ],
   [
@@ -245,18 +265,8 @@
       "https://news.ycombinator.com/item?id=32721317"
     ],
     [
-      "Visualizing Large Trees Using the Hyperbolic Browser (1996)",
+      "Visualizing Large Trees Using the Hyperbolic Browser (1996) [video]",
       "https://www.youtube.com/watch?v=J0yFd2Pq_rg"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 06:30:26",
-      "https://news.ycombinator.com/item?id=32721180"
-    ],
-    [
-      "Don't ignore the janitor",
-      "https://happychasing.substack.com/p/see-people"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The tyranny of the rocket equaton (2012)",
       "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 07:31:57",
-      "https://news.ycombinator.com/item?id=32710738"
-    ],
-    [
-      "Was Vincent van Gogh color blind? (2012)",
-      "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/"
     ]
   ]
 ]
