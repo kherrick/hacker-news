@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-06, 05:57:09",
+      "https://news.ycombinator.com/item?id=32733425"
+    ],
+    [
+      "OpenWrt 22.03",
+      "https://openwrt.org/releases/22.03/notes-22.03.0"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 05:26:18",
+      "https://news.ycombinator.com/item?id=32733213"
+    ],
+    [
+      "Synthetic embryos complete gastrulation to neurulation and organogenesis",
+      "https://www.nature.com/articles/s41586-022-05246-3"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 05:02:48",
+      "https://news.ycombinator.com/item?id=32733069"
+    ],
+    [
+      "Lunatic: Erlang-Inspired Runtime for WebAssembly",
+      "https://github.com/lunatic-solutions/lunatic"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 03:11:45",
       "https://news.ycombinator.com/item?id=32732325"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32732133"
     ],
     [
-      "Keith Davis: He was protecting the oceans – then he disappeared",
+      "Keith Davis was protecting the oceans, then he disappeared",
       "https://www.bbc.com/news/world-us-canada-62603911"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Show HN: WakaQ - a Python distributed task queue",
       "https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 22:01:35",
-      "https://news.ycombinator.com/item?id=32730020"
-    ],
-    [
-      "Static site hosting hurdles",
-      "https://notes.volution.ro/v1/2022/09/notes/b08118d8/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-09-05, 15:24:13",
-      "https://news.ycombinator.com/item?id=32725322"
-    ],
-    [
-      "Solr’s Dense Vector Search for indexing and searching dense numerical vectors",
-      "https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 12:54:59",
       "https://news.ycombinator.com/item?id=32723766"
     ],
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2022-09-05, 11:38:45",
-      "https://news.ycombinator.com/item?id=32723192"
-    ],
-    [
-      "Writing an app is like coding for LaserDisc",
-      "https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 06:30:26",
       "https://news.ycombinator.com/item?id=32721180"
     ],
     [
-      "Don't Ignore the Janitor",
+      "Don't ignore the janitor",
       "https://happychasing.substack.com/p/see-people"
     ]
   ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-09-04, 07:31:57",
+      "https://news.ycombinator.com/item?id=32710738"
+    ],
+    [
+      "Was Vincent van Gogh color blind? (2012)",
+      "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/"
+    ]
+  ],
+  [
+    [
       "2022-09-04, 06:00:17",
       "https://news.ycombinator.com/item?id=32710275"
     ],
     [
       "Create an Inexpensive Flying Wing / Drone",
       "https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 22:45:41",
-      "https://news.ycombinator.com/item?id=32706984"
-    ],
-    [
-      "Black Hours, Morgan MS 493",
-      "https://en.wikipedia.org/wiki/Black_Hours,_Morgan_MS_493"
     ]
   ],
   [
