@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-06, 19:55:18",
+      "https://news.ycombinator.com/item?id=32742399"
+    ],
+    [
+      "New Text and Array Functions for Excel",
+      "https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 18:43:40",
       "https://news.ycombinator.com/item?id=32741349"
     ],
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=32740653"
     ],
     [
-      "NASA Selects SiFive and Makes RISC-V the Go-To Ecosystem for Future Missions",
+      "NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions",
       "https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 17:46:20",
+      "https://news.ycombinator.com/item?id=32740486"
+    ],
+    [
+      "Ask HN: Which startups have the most interesting pivot stories?",
+      "https://news.ycombinator.com/item?id=32740486"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32740396"
     ],
     [
-      "Brave's deviations from Chromium (features we disable or remove)",
+      "Deviations from Chromium (features we disable or remove)",
       "https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/"
     ]
   ],
@@ -57,26 +77,6 @@
     [
       "Jiga (YC W21) Is Hiring",
       "https://www.ycombinator.com/companies/jiga/jobs/JQsmxDp-manufacturing-success-manager-us"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 16:44:36",
-      "https://news.ycombinator.com/item?id=32739672"
-    ],
-    [
-      "Gated Deployments: addressing the complexity of schema deployments at scale",
-      "https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 15:55:51",
-      "https://news.ycombinator.com/item?id=32738885"
-    ],
-    [
-      "Richard Stallman Announces GNU C Language Reference Manual",
-      "https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2022-09-06, 15:11:50",
-      "https://news.ycombinator.com/item?id=32738165"
-    ],
-    [
-      "From Wound Healing to Regeneration",
-      "https://www.uni-heidelberg.de/en/newsroom/from-wound-healing-to-regeneration"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 14:53:25",
       "https://news.ycombinator.com/item?id=32737886"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32737596"
     ],
     [
-      "NASA Can Now Reliably Produce a Tree’s Worth of Oxygen on Mars",
+      "NASA can now reliably produce a tree’s worth of oxygen on Mars",
       "https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/"
     ]
   ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=32737534"
     ],
     [
-      "The Death of the PCIe Expansion Card",
+      "The death of the PCIe expansion card",
       "https://kerricklong.com/articles/pci-express-slots.html"
     ]
   ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2022-09-05, 09:53:47",
-      "https://news.ycombinator.com/item?id=32722409"
+      "2022-09-05, 18:56:14",
+      "https://news.ycombinator.com/item?id=32727859"
     ],
     [
-      "Rethinking Indoor Air Chemistry",
-      "https://www.mpg.de/19157061/0902-chem-oxidation-field-152990-x"
+      "Covid: Summary of lab-origin hypothesis",
+      "https://twitter.com/R_H_Ebright/status/1566826229931524096"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 14:57:15",
+      "https://news.ycombinator.com/item?id=32713750"
+    ],
+    [
+      "Slidge – XMPP bridges",
+      "https://nicoco.fr/blog/2022/09/04/slidge-first-beta/"
     ]
   ]
 ]
