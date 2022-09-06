@@ -1,12 +1,102 @@
 [
   [
     [
-      "2022-09-06, 11:42:35",
-      "https://news.ycombinator.com/item?id=32735734"
+      "2022-09-06, 13:28:53",
+      "https://news.ycombinator.com/item?id=32736817"
     ],
     [
-      "GitHub Outage",
-      "https://news.ycombinator.com/item?id=32735734"
+      "Launch HN: FlyCode (YC S22) – Let product teams edit web apps without coding",
+      "https://news.ycombinator.com/item?id=32736817"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 13:17:48",
+      "https://news.ycombinator.com/item?id=32736700"
+    ],
+    [
+      "Maintaining Files on Plan 9 with Mk",
+      "https://9p.io/sys/doc/mk.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 13:05:49",
+      "https://news.ycombinator.com/item?id=32736563"
+    ],
+    [
+      "CERN drafts plans to idle accelerators due to Europe’s energy crunch",
+      "https://www.swissinfo.ch/eng/sci-tech/cern-drafts-plans-to-idle-accelerators-due-to-europe-s-energy-crunch/47875950"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 13:02:49",
+      "https://news.ycombinator.com/item?id=32736523"
+    ],
+    [
+      "PGPP – a new type of service that gives you private mobile connectivity",
+      "https://invisv.com/pgpp/"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 13:00:36",
+      "https://news.ycombinator.com/item?id=32736497"
+    ],
+    [
+      "Show HN: Simulate dollar-cost averaging in any mix of stocks",
+      "https://simulator.tryshare.app/"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 12:35:04",
+      "https://news.ycombinator.com/item?id=32736258"
+    ],
+    [
+      "Ask HN: Static site generator that can cope with octopus juggling geysers?",
+      "https://news.ycombinator.com/item?id=32736258"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 12:32:42",
+      "https://news.ycombinator.com/item?id=32736239"
+    ],
+    [
+      "Design and evaluation of IPFS: a storage layer for the decentralized web",
+      "https://dl.acm.org/doi/abs/10.1145/3544216.3544232"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 12:14:19",
+      "https://news.ycombinator.com/item?id=32736044"
+    ],
+    [
+      "Minimal PyTorch re-implementation of GPT",
+      "https://github.com/karpathy/minGPT"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 11:58:34",
+      "https://news.ycombinator.com/item?id=32735905"
+    ],
+    [
+      "Ask HN: How do you get better at debugging/finding a solution?",
+      "https://news.ycombinator.com/item?id=32735905"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 11:48:58",
+      "https://news.ycombinator.com/item?id=32735791"
+    ],
+    [
+      "The invention of the first wearable computer (1998) [pdf]",
+      "https://www.cs.virginia.edu/~evans/thorp.pdf"
     ]
   ],
   [
@@ -15,7 +105,7 @@
       "https://news.ycombinator.com/item?id=32735479"
     ],
     [
-      "Bitwarden Raises $100M",
+      "Bitwarden raises $100M",
       "https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/"
     ]
   ],
@@ -51,16 +141,6 @@
   ],
   [
     [
-      "2022-09-06, 08:02:30",
-      "https://news.ycombinator.com/item?id=32734288"
-    ],
-    [
-      "A Message from Signal's New President",
-      "https://signal.org/blog/announcing-signal-president/"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 06:57:21",
       "https://news.ycombinator.com/item?id=32733844"
     ],
@@ -77,26 +157,6 @@
     [
       "Show HN: Open-source APM with support for tracing, metrics, and logs",
       "https://app.uptrace.dev/play"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 05:57:09",
-      "https://news.ycombinator.com/item?id=32733425"
-    ],
-    [
-      "OpenWrt 22.03",
-      "https://openwrt.org/releases/22.03/notes-22.03.0"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 05:26:18",
-      "https://news.ycombinator.com/item?id=32733213"
-    ],
-    [
-      "Synthetic embryos complete gastrulation to neurulation and organogenesis",
-      "https://www.nature.com/articles/s41586-022-05246-3"
     ]
   ],
   [
@@ -121,16 +181,6 @@
   ],
   [
     [
-      "2022-09-06, 02:15:57",
-      "https://news.ycombinator.com/item?id=32731916"
-    ],
-    [
-      "Ask HN: Do you use foreign keys in relational databases?",
-      "https://news.ycombinator.com/item?id=32731916"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 23:52:59",
       "https://news.ycombinator.com/item?id=32730865"
     ],
@@ -151,36 +201,6 @@
   ],
   [
     [
-      "2022-09-05, 22:03:39",
-      "https://news.ycombinator.com/item?id=32730038"
-    ],
-    [
-      "Show HN: WakaQ - a Python distributed task queue",
-      "https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 22:01:35",
-      "https://news.ycombinator.com/item?id=32730020"
-    ],
-    [
-      "Static site hosting hurdles",
-      "https://notes.volution.ro/v1/2022/09/notes/b08118d8/"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 21:36:35",
-      "https://news.ycombinator.com/item?id=32729784"
-    ],
-    [
-      "How to present backend demos",
-      "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 20:34:15",
       "https://news.ycombinator.com/item?id=32729105"
     ],
@@ -197,16 +217,6 @@
     [
       "Covid: Summary of lab-origin hypothesis",
       "https://twitter.com/R_H_Ebright/status/1566826229931524096"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 12:54:59",
-      "https://news.ycombinator.com/item?id=32723766"
-    ],
-    [
-      "Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python",
-      "https://news.ycombinator.com/item?id=32723766"
     ]
   ],
   [
@@ -261,22 +271,22 @@
   ],
   [
     [
-      "2022-09-04, 13:37:49",
-      "https://news.ycombinator.com/item?id=32712913"
+      "2022-09-04, 14:57:15",
+      "https://news.ycombinator.com/item?id=32713750"
     ],
     [
-      "The Tyranny of the Rocket Equaton (2012)",
-      "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html"
+      "Slidge – XMPP bridges",
+      "https://nicoco.fr/blog/2022/09/04/slidge-first-beta/"
     ]
   ],
   [
     [
-      "2022-09-04, 12:30:27",
-      "https://news.ycombinator.com/item?id=32712324"
+      "2022-09-04, 13:37:49",
+      "https://news.ycombinator.com/item?id=32712913"
     ],
     [
-      "NIST Digital Library of Mathematical Functions",
-      "https://dlmf.nist.gov/"
+      "The tyranny of the rocket equaton (2012)",
+      "https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Was Vincent van Gogh color blind? (2012)",
       "https://www.smithsonianmag.com/smart-news/was-vincent-van-gogh-color-blind-it-sure-looks-like-it-27576085/"
-    ]
-  ],
-  [
-    [
-      "2022-09-03, 16:13:46",
-      "https://news.ycombinator.com/item?id=32703279"
-    ],
-    [
-      "A small Stripe fraud story",
-      "https://falkus.co/2022/09/a-stripe-fraud-story"
     ]
   ]
 ]
