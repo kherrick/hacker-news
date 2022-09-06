@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-06, 01:16:38",
+      "https://news.ycombinator.com/item?id=32731474"
+    ],
+    [
+      "Killing Invasive Species Is Now a Competitive Sport",
+      "https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 23:52:59",
+      "https://news.ycombinator.com/item?id=32730865"
+    ],
+    [
+      "Dreamy Blur",
+      "https://yuanchuan.dev/dreamy-blur"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 23:51:09",
+      "https://news.ycombinator.com/item?id=32730856"
+    ],
+    [
+      "CA grid: real-time status",
+      "https://www.caiso.com/TodaysOutlook/Pages/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 23:14:27",
+      "https://news.ycombinator.com/item?id=32730600"
+    ],
+    [
+      "I patched my Slack client to keep “Oops” messages others delete",
+      "https://github.com/SharonBrizinov/slack-anti-delete"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 22:04:42",
       "https://news.ycombinator.com/item?id=32730048"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32729784"
     ],
     [
-      "How To Present Backend Demos",
+      "How to present backend demos",
       "https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59"
     ]
   ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-09-05, 17:24:55",
-      "https://news.ycombinator.com/item?id=32726774"
-    ],
-    [
-      "Using Stable Diffusion's img2img on some old Sierra titles",
-      "https://sciprogramming.com/community/index.php?topic=2081.0"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 16:30:09",
       "https://news.ycombinator.com/item?id=32726166"
     ],
@@ -157,16 +187,6 @@
     [
       "Mille Bornes",
       "http://www.codex99.com/design/28.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-05, 16:19:55",
-      "https://news.ycombinator.com/item?id=32726036"
-    ],
-    [
-      "Mangroves on a Landfill",
-      "https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-09-05, 12:01:03",
-      "https://news.ycombinator.com/item?id=32723316"
-    ],
-    [
-      "Meticulous (YC S21) is hiring #3 founding engineer in London",
-      "https://news.ycombinator.com/item?id=32723316"
-    ]
-  ],
-  [
-    [
       "2022-09-05, 10:06:45",
       "https://news.ycombinator.com/item?id=32722510"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2022-09-04, 18:14:33",
-      "https://news.ycombinator.com/item?id=32715954"
-    ],
-    [
-      "Paris’s Missing Palace and the Making of the Louvre",
-      "https://www.messynessychic.com/2022/09/02/pariss-missing-palace-and-the-making-of-the-louvre/"
-    ]
-  ],
-  [
-    [
       "2022-09-04, 12:30:27",
       "https://news.ycombinator.com/item?id=32712324"
     ],
     [
       "NIST Digital Library of Mathematical Functions",
       "https://dlmf.nist.gov/"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 09:29:56",
-      "https://news.ycombinator.com/item?id=32711349"
-    ],
-    [
-      "The Timeless Way of Programming",
-      "http://tomasp.net/blog/2022/timeless-way/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A small Stripe fraud story",
       "https://falkus.co/2022/09/a-stripe-fraud-story"
+    ]
+  ],
+  [
+    [
+      "2022-09-03, 12:55:51",
+      "https://news.ycombinator.com/item?id=32701421"
+    ],
+    [
+      "Fit: Framework for Integrated Test",
+      "http://fit.c2.com/"
     ]
   ]
 ]
