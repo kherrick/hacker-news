@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-09-07, 00:11:32",
-      "https://news.ycombinator.com/item?id=32744795"
+      "2022-09-07, 01:23:18",
+      "https://news.ycombinator.com/item?id=32745318"
     ],
     [
-      "Building Future Cities Out Timber Could Save 100B Tons of CO2 Emissions",
-      "https://singularityhub.com/2022/09/05/building-future-cities-out-of-timber-could-save-100-billion-tons-of-co2-emissions/"
+      "From Common Lisp to Julia",
+      "https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 01:00:42",
+      "https://news.ycombinator.com/item?id=32745157"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring Software Engineer – London",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 00:36:21",
+      "https://news.ycombinator.com/item?id=32744976"
+    ],
+    [
+      "On the Efficacy of Online Proctoring using Proctorio (2021) [pdf]",
+      "https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf"
     ]
   ],
   [
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2022-09-06, 22:07:37",
-      "https://news.ycombinator.com/item?id=32743857"
-    ],
-    [
-      "The future of cryptocurrency is at stake in Ethereum’s switch",
-      "https://www.economist.com/finance-and-economics/2022/09/06/the-future-of-crypto-is-at-stake-in-ethereums-switch"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 21:58:21",
       "https://news.ycombinator.com/item?id=32743739"
     ],
     [
       "Github.com Down Again?",
       "https://GitHub.com"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 21:08:21",
-      "https://news.ycombinator.com/item?id=32743225"
-    ],
-    [
-      "GiveCampus (YC S15) hiring senior engineers who care about affordable education",
-      "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
     ]
   ],
   [
@@ -91,22 +91,22 @@
   ],
   [
     [
+      "2022-09-06, 19:45:39",
+      "https://news.ycombinator.com/item?id=32742274"
+    ],
+    [
+      "Let's Make Amazon into a Dumb Pipe",
+      "https://scribe.rip/view-a-sku-32721d623aee"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 17:57:50",
       "https://news.ycombinator.com/item?id=32740653"
     ],
     [
       "NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions",
       "https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 17:46:20",
-      "https://news.ycombinator.com/item?id=32740486"
-    ],
-    [
-      "Ask HN: Which startups have the most interesting pivot stories?",
-      "https://news.ycombinator.com/item?id=32740486"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-09-06, 14:34:34",
+      "https://news.ycombinator.com/item?id=32737634"
+    ],
+    [
+      "Clasp: A Common Lisp implementation using LLVM for compilation to native code",
+      "https://github.com/clasp-developers/clasp"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 14:31:41",
       "https://news.ycombinator.com/item?id=32737596"
     ],
@@ -231,42 +241,12 @@
   ],
   [
     [
-      "2022-09-06, 11:37:42",
-      "https://news.ycombinator.com/item?id=32735688"
-    ],
-    [
-      "The tyranny of the wagon equation",
-      "https://maximumeffort.substack.com/p/the-tyranny-of-the-wagon-equation"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 10:11:28",
-      "https://news.ycombinator.com/item?id=32735066"
-    ],
-    [
-      "Conference Presentation Judo",
-      "https://perl.plover.com/yak/presentation/"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 09:59:25",
       "https://news.ycombinator.com/item?id=32735001"
     ],
     [
       "You can never have too many backups",
       "https://www.theregister.com/2022/08/29/who_me/"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 09:34:28",
-      "https://news.ycombinator.com/item?id=32734840"
-    ],
-    [
-      "Weird Al had 100 gigs of RAM",
-      "https://rubenerd.com/weird-al-had-100-gb-of-ram/"
     ]
   ],
   [
@@ -281,12 +261,22 @@
   ],
   [
     [
-      "2022-09-05, 06:54:26",
-      "https://news.ycombinator.com/item?id=32721317"
+      "2022-09-06, 06:22:48",
+      "https://news.ycombinator.com/item?id=32733613"
     ],
     [
-      "Visualizing Large Trees Using the Hyperbolic Browser (2021) [video]",
-      "https://www.youtube.com/watch?v=J0yFd2Pq_rg"
+      "Cellular Automata with Sound – Clap loud to produce cool patterns",
+      "https://automata-sound.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 05:47:08",
+      "https://news.ycombinator.com/item?id=32720964"
+    ],
+    [
+      "Recycling Clothes: What Is 'Circulose' and Is It Sustainable?",
+      "https://thecircularlaboratory.com/how-sustainable-is-hms-circulose-fabric"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Infinite Stable Diffusion Videos",
       "https://orbdog.com"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 14:57:15",
+      "https://news.ycombinator.com/item?id=32713750"
+    ],
+    [
+      "Slidge – XMPP bridges",
+      "https://nicoco.fr/blog/2022/09/04/slidge-first-beta/"
     ]
   ]
 ]
