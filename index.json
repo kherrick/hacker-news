@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-09-07, 05:45:25",
+      "https://news.ycombinator.com/item?id=32746807"
+    ],
+    [
+      "We Are Changing the License for Akka",
+      "https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 05:34:04",
+      "https://news.ycombinator.com/item?id=32746741"
+    ],
+    [
+      "Ask HN: Is it okay to just bootstrap it, even when VCs are knocking?",
+      "https://news.ycombinator.com/item?id=32746741"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 05:19:37",
+      "https://news.ycombinator.com/item?id=32746643"
+    ],
+    [
+      "Why has software supply chain security exploded?",
+      "https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 05:09:41",
+      "https://news.ycombinator.com/item?id=32746563"
+    ],
+    [
+      "Yak Shaving: A Short Lesson on Staying Focused",
+      "https://americanexpress.io/yak-shaving/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 04:32:00",
+      "https://news.ycombinator.com/item?id=32746334"
+    ],
+    [
+      "Citibank will lock you out of your accounts and bar you from access for 45 days",
+      "https://twitter.com/saletan/status/1567315945143603204"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 04:20:00",
       "https://news.ycombinator.com/item?id=32746258"
     ],
@@ -11,22 +61,32 @@
   ],
   [
     [
+      "2022-09-07, 04:06:31",
+      "https://news.ycombinator.com/item?id=32746192"
+    ],
+    [
+      "Open Knowledge Movement: Personal Reflections",
+      "https://rtnf.my.id/wiki-osm"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 03:49:38",
+      "https://news.ycombinator.com/item?id=32746119"
+    ],
+    [
+      "UC Berkeley to limit high-demand majors, like Computer Science",
+      "https://www.dailycal.org/2022/08/24/campus-college-of-letters-and-science-plans-to-limit-high-demand-majors/"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 02:56:24",
       "https://news.ycombinator.com/item?id=32745873"
     ],
     [
       "My family’s unlikely homeschooling journey",
       "https://www.fast.ai/2022/09/06/homeschooling/"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 01:55:48",
-      "https://news.ycombinator.com/item?id=32745521"
-    ],
-    [
-      "City-based soda pop taxes don’t effectively reduce sugar consumption",
-      "https://news.uga.edu/soda-pop-taxes-dont-reduce-sugar-consumption/"
     ]
   ],
   [
@@ -47,16 +107,6 @@
     [
       "Etleap (YC W13) Is Hiring Software Engineer – London",
       "https://etleap.com/careers/software-engineer/"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 00:36:21",
-      "https://news.ycombinator.com/item?id=32744976"
-    ],
-    [
-      "On the efficacy of online proctoring using Proctorio (2021) [pdf]",
-      "https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf"
     ]
   ],
   [
@@ -97,16 +147,6 @@
     [
       "Preact Signals",
       "https://github.com/preactjs/signals"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 20:34:10",
-      "https://news.ycombinator.com/item?id=32742841"
-    ],
-    [
-      "Magnetic Cooling Cycle",
-      "https://www.magnotherm.com/technology/"
     ]
   ],
   [
@@ -181,52 +221,12 @@
   ],
   [
     [
-      "2022-09-06, 15:14:10",
-      "https://news.ycombinator.com/item?id=32738206"
+      "2022-09-06, 13:45:17",
+      "https://news.ycombinator.com/item?id=32737031"
     ],
     [
-      "Someone’s Been Messing with My Subnormals",
-      "http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 14:53:25",
-      "https://news.ycombinator.com/item?id=32737886"
-    ],
-    [
-      "Vulnerability Management for Go",
-      "https://go.dev/blog/vuln"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 14:31:41",
-      "https://news.ycombinator.com/item?id=32737596"
-    ],
-    [
-      "NASA can now reliably produce a tree’s worth of oxygen on Mars",
-      "https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 14:26:51",
-      "https://news.ycombinator.com/item?id=32737534"
-    ],
-    [
-      "The death of the PCIe expansion card",
-      "https://kerricklong.com/articles/pci-express-slots.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 14:24:28",
-      "https://news.ycombinator.com/item?id=32737513"
-    ],
-    [
-      "Show HN: VoxelChain – An Experimental Voxel Engine",
-      "https://voxelchain.app/"
+      "How Radical Was Rachmaninoff?",
+      "https://www.newyorker.com/magazine/2022/09/05/how-radical-was-rachmaninoff"
     ]
   ],
   [
