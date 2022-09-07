@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-07, 00:11:32",
+      "https://news.ycombinator.com/item?id=32744795"
+    ],
+    [
+      "Building Future Cities Out Timber Could Save 100B Tons of CO2 Emissions",
+      "https://singularityhub.com/2022/09/05/building-future-cities-out-of-timber-could-save-100-billion-tons-of-co2-emissions/"
+    ]
+  ],
+  [
+    [
+      "2022-09-06, 23:36:28",
+      "https://news.ycombinator.com/item?id=32744554"
+    ],
+    [
+      "Create videos with Stable Diffusion by exploring the latent space",
+      "https://github.com/nateraw/stable-diffusion-videos"
+    ]
+  ],
+  [
+    [
       "2022-09-06, 22:08:22",
       "https://news.ycombinator.com/item?id=32743864"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-09-06, 17:03:48",
-      "https://news.ycombinator.com/item?id=32739941"
-    ],
-    [
-      "Wasmtime 1.0: A Look at Performance",
-      "https://bytecodealliance.org/articles/wasmtime-10-performance"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 15:55:27",
       "https://news.ycombinator.com/item?id=32738874"
     ],
@@ -157,16 +167,6 @@
     [
       "Vulnerability Management for Go",
       "https://go.dev/blog/vuln"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 14:34:34",
-      "https://news.ycombinator.com/item?id=32737634"
-    ],
-    [
-      "Clasp: A Common Lisp implementation using LLVM for compilation to native code",
-      "https://github.com/clasp-developers/clasp"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-09-06, 08:58:16",
+      "https://news.ycombinator.com/item?id=32734632"
+    ],
+    [
+      "Who is the author “JC Shakespeare”?",
+      "https://shkspr.mobi/blog/2022/08/who-is-the-author-jc-shakespeare/"
+    ]
+  ],
+  [
+    [
       "2022-09-05, 06:54:26",
       "https://news.ycombinator.com/item?id=32721317"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Infinite Stable Diffusion Videos",
       "https://orbdog.com"
-    ]
-  ],
-  [
-    [
-      "2022-09-04, 14:57:15",
-      "https://news.ycombinator.com/item?id=32713750"
-    ],
-    [
-      "Slidge – XMPP bridges",
-      "https://nicoco.fr/blog/2022/09/04/slidge-first-beta/"
     ]
   ]
 ]
