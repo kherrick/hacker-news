@@ -1,22 +1,42 @@
 [
   [
     [
-      "2022-09-07, 13:09:02",
-      "https://news.ycombinator.com/item?id=32750059"
+      "2022-09-07, 13:30:53",
+      "https://news.ycombinator.com/item?id=32750322"
     ],
     [
-      "Facebook Engineers: We Have No Idea Where We Keep All Your Personal Data",
-      "https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/"
+      "Ask HN: Is There a Hacker News for Writers Out There?",
+      "https://news.ycombinator.com/item?id=32750322"
     ]
   ],
   [
     [
-      "2022-09-07, 12:44:30",
-      "https://news.ycombinator.com/item?id=32749820"
+      "2022-09-07, 13:22:55",
+      "https://news.ycombinator.com/item?id=32750210"
     ],
     [
-      "GitHub Down Again?",
-      "https://news.ycombinator.com/item?id=32749820"
+      "Improved Galileo Time to First Fix",
+      "https://berthub.eu/articles/posts/improved-galileo-fix-time/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 13:11:37",
+      "https://news.ycombinator.com/item?id=32750080"
+    ],
+    [
+      "Is Engineering Management Bullshit?",
+      "https://www.makeartwithpython.com/blog/is-engineering-management-bullshit/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 13:09:02",
+      "https://news.ycombinator.com/item?id=32750059"
+    ],
+    [
+      "Facebook engineers: we have no idea where we keep all your personal data",
+      "https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Handwritten thank you notes increase sales",
       "https://tips.ariyh.com/p/handwritten-notes"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 11:31:41",
+      "https://news.ycombinator.com/item?id=32749219"
+    ],
+    [
+      "What the interns have wrought, 2022 edition",
+      "https://blog.janestreet.com/what-the-interns-have-wrought-2022/"
     ]
   ],
   [
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32745157"
     ],
     [
-      "Etleap (YC W13) Is Hiring Software Engineer – London",
+      "Etleap (YC W13) is hiring a software engineer in London",
       "https://etleap.com/careers/software-engineer/"
     ]
   ],
@@ -161,36 +191,6 @@
   ],
   [
     [
-      "2022-09-06, 22:08:22",
-      "https://news.ycombinator.com/item?id=32743864"
-    ],
-    [
-      "Monocraft: A programming font based on the typeface used in Minecraft",
-      "https://github.com/IdreesInc/Monocraft"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 20:54:33",
-      "https://news.ycombinator.com/item?id=32743078"
-    ],
-    [
-      "Preact Signals",
-      "https://github.com/preactjs/signals"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 19:45:39",
-      "https://news.ycombinator.com/item?id=32742274"
-    ],
-    [
-      "Let's Make Amazon into a Dumb Pipe",
-      "https://scribe.rip/view-a-sku-32721d623aee"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 18:09:59",
       "https://news.ycombinator.com/item?id=32740824"
     ],
@@ -207,16 +207,6 @@
     [
       "NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions",
       "https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 17:46:20",
-      "https://news.ycombinator.com/item?id=32740486"
-    ],
-    [
-      "Ask HN: Which startups have the most interesting pivot stories?",
-      "https://news.ycombinator.com/item?id=32740486"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
-      "2022-09-06, 09:34:28",
-      "https://news.ycombinator.com/item?id=32734840"
-    ],
-    [
-      "Weird Al had 100 gigs of RAM",
-      "https://rubenerd.com/weird-al-had-100-gb-of-ram/"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 08:58:16",
       "https://news.ycombinator.com/item?id=32734632"
     ],
     [
       "Who is the author “JC Shakespeare”?",
       "https://shkspr.mobi/blog/2022/08/who-is-the-author-jc-shakespeare/"
+    ]
+  ],
+  [
+    [
+      "2022-09-05, 19:26:29",
+      "https://news.ycombinator.com/item?id=32728258"
+    ],
+    [
+      "Two philosophers found purpose in the world of work",
+      "https://www.wsj.com/articles/two-philosophers-found-purpose-in-the-world-of-work-11662177661"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A “Critical” Tracking Task for Man-Machine Research (1966) [pdf]",
       "https://ntrs.nasa.gov/api/citations/19660030603/downloads/19660030603.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-04, 23:01:23",
+      "https://news.ycombinator.com/item?id=32718579"
+    ],
+    [
+      "The Itch (2008)",
+      "https://www.newyorker.com/magazine/2008/06/30/the-itch"
     ]
   ]
 ]
