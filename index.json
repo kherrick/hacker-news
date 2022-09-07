@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-07, 20:06:07",
+      "https://news.ycombinator.com/item?id=32756013"
+    ],
+    [
+      "Deconstructing the Bakery to Build a Distributed State Machine",
+      "https://cacm.acm.org/magazines/2022/9/263810-deconstructing-the-bakery-to-build-a-distributed-state-machine/fulltext"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 19:58:27",
+      "https://news.ycombinator.com/item?id=32755893"
+    ],
+    [
+      "Korean nuclear fusion reactor achieves 100M°C for 30 seconds",
+      "https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 19:08:29",
       "https://news.ycombinator.com/item?id=32755042"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32754281"
     ],
     [
-      "A few months ago, a complete stranger gave me $10k. Here’s what I did with it",
+      "A few months ago, a complete stranger gave me $10k (2021)",
       "https://sarahdrinkwater.medium.com/a-few-months-ago-a-complete-stranger-gave-me-10-000-heres-what-i-did-with-it-d5bc65f59d17"
     ]
   ],
@@ -81,31 +101,11 @@
   ],
   [
     [
-      "2022-09-07, 18:24:20",
-      "https://news.ycombinator.com/item?id=32754257"
-    ],
-    [
-      "Bank of Canada increases policy interest rate by 75 basis points, continues QT",
-      "https://www.bankofcanada.ca/2022/09/fad-press-release-2022-09-07/"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 18:09:47",
-      "https://news.ycombinator.com/item?id=32754048"
-    ],
-    [
-      "Akka is moving away from Open Source – Alexandru Nedelcu",
-      "https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/"
-    ]
-  ],
-  [
-    [
       "2022-09-07, 18:07:34",
       "https://news.ycombinator.com/item?id=32754016"
     ],
     [
-      "A New Life for Certificate Revocation Lists – Let's Encrypt",
+      "A New Life for Certificate Revocation Lists",
       "https://letsencrypt.org/2022/09/07/new-life-for-crls.html"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "TinyClock – a tiny true 5-arch universal Mac OS X single-binary GUI application",
       "http://tycho.sytes.net/TinyClock/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 17:03:55",
+      "https://news.ycombinator.com/item?id=32753235"
+    ],
+    [
+      "`int('1' * 4301)` will raise ValueError starting with Python 3.10.7",
+      "https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2022-09-07, 16:00:44",
+      "https://news.ycombinator.com/item?id=32752383"
+    ],
+    [
+      "Zig, the Small Language",
+      "https://zserge.com/posts/zig-the-small-language/"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 15:05:52",
       "https://news.ycombinator.com/item?id=32751603"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2022-09-07, 10:47:19",
-      "https://news.ycombinator.com/item?id=32748914"
-    ],
-    [
-      "Speculoos-2c: A new potentially habitable earth",
-      "https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth"
-    ]
-  ],
-  [
-    [
       "2022-09-07, 09:50:24",
       "https://news.ycombinator.com/item?id=32748592"
     ],
@@ -287,16 +297,6 @@
     [
       "Analyzing Every Clojure Project on GitHub",
       "https://blog.phronemophobic.com/dewey-analysis.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 02:45:08",
-      "https://news.ycombinator.com/item?id=32732128"
-    ],
-    [
-      "From the Dry Goods Economist 1909: Selling and Store Displays",
-      "https://blogs.loc.gov/inside_adams/2022/08/from-dry-goods-economist-1909-selling-store-displays/"
     ]
   ]
 ]
