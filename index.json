@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-07, 18:25:10",
+      "https://news.ycombinator.com/item?id=32754281"
+    ],
+    [
+      "A few months ago, a complete stranger gave me $10k. Here’s what I did with it",
+      "https://sarahdrinkwater.medium.com/a-few-months-ago-a-complete-stranger-gave-me-10-000-heres-what-i-did-with-it-d5bc65f59d17"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 18:25:03",
+      "https://news.ycombinator.com/item?id=32754274"
+    ],
+    [
+      "“UBO Minus (MV3)” – An Experimental uBlock Origin Build for Manifest V3",
+      "https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 18:09:47",
+      "https://news.ycombinator.com/item?id=32754048"
+    ],
+    [
+      "Akka is moving away from Open Source – Alexandru Nedelcu",
+      "https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 18:07:34",
+      "https://news.ycombinator.com/item?id=32754016"
+    ],
+    [
+      "A New Life for Certificate Revocation Lists – Let's Encrypt",
+      "https://letsencrypt.org/2022/09/07/new-life-for-crls.html"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 17:25:22",
       "https://news.ycombinator.com/item?id=32753471"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-09-07, 15:20:00",
-      "https://news.ycombinator.com/item?id=32751812"
-    ],
-    [
-      "Albania expelled Iran’s embassy staff over July cyberattack",
-      "https://apnews.com/article/nato-technology-iran-middle-east-6be153b291f42bd549d5ecce5941c32a"
-    ]
-  ],
-  [
-    [
       "2022-09-07, 15:05:52",
       "https://news.ycombinator.com/item?id=32751603"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2022-09-07, 13:22:55",
-      "https://news.ycombinator.com/item?id=32750210"
-    ],
-    [
-      "Improved Galileo Time to First Fix",
-      "https://berthub.eu/articles/posts/improved-galileo-fix-time/"
-    ]
-  ],
-  [
-    [
       "2022-09-07, 13:08:30",
       "https://news.ycombinator.com/item?id=32750052"
     ],
     [
       "Why Not: From Common Lisp to Julia",
       "https://gist.github.com/digikar99/24decb414ddfa15a220b27f6748165d7"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 11:31:41",
-      "https://news.ycombinator.com/item?id=32749219"
-    ],
-    [
-      "What the interns have wrought, 2022 edition",
-      "https://blog.janestreet.com/what-the-interns-have-wrought-2022/"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2022-09-06, 10:12:37",
-      "https://news.ycombinator.com/item?id=32735080"
+      "2022-09-06, 02:45:08",
+      "https://news.ycombinator.com/item?id=32732128"
     ],
     [
-      "How Isaac Newton discovered the binomial power series",
-      "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 05:01:16",
-      "https://news.ycombinator.com/item?id=32733054"
-    ],
-    [
-      "A Long-Lost Branch of the Nile Helped in Building Egypt’s Pyramids",
-      "https://www.nytimes.com/2022/08/30/science/pyramids-nile-river-construction-egypt.html"
+      "From the Dry Goods Economist 1909: Selling and Store Displays",
+      "https://blogs.loc.gov/inside_adams/2022/08/from-dry-goods-economist-1909-selling-store-displays/"
     ]
   ],
   [
