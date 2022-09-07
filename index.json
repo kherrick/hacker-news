@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-07, 18:58:35",
-      "https://news.ycombinator.com/item?id=32754854"
+      "2022-09-07, 19:06:24",
+      "https://news.ycombinator.com/item?id=32755009"
     ],
     [
-      "Ask HN: Why are all submissions about the Apple event getting flagkilled?",
-      "https://news.ycombinator.com/item?id=32754854"
+      "New technical analysis confirms the evidence against Billy Mitchell",
+      "https://perfectpacman.com/2022/09/06/new-technical-analysis/"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 19:04:15",
+      "https://news.ycombinator.com/item?id=32754963"
+    ],
+    [
+      "Globalstar SEC filing, Apple to use 85% of its satellite network capacity",
+      "https://sec.report/Document/0001366868-22-000059/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "A New Life for Certificate Revocation Lists – Let's Encrypt",
       "https://letsencrypt.org/2022/09/07/new-life-for-crls.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 17:55:29",
-      "https://news.ycombinator.com/item?id=32753860"
-    ],
-    [
-      "Apple Announces iPhone 14 and iPhone 14 Plus",
-      "https://www.macrumors.com/2022/09/07/apple-announces-iphone-14-iphone-14-plus/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2022-09-07, 10:47:19",
+      "https://news.ycombinator.com/item?id=32748914"
+    ],
+    [
+      "Speculoos-2c: A new potentially habitable earth",
+      "https://www.news.uliege.be/cms/c_16795199/en/speculoos-discovers-a-potentially-habitable-super-earth"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 09:50:24",
       "https://news.ycombinator.com/item?id=32748592"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Quake 1 ported to the Apple Watch",
       "https://github.com/MyOwnClone/quake_watch"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 04:20:00",
-      "https://news.ycombinator.com/item?id=32746258"
-    ],
-    [
-      "Difftastic, the fantastic diff",
-      "https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/"
     ]
   ],
   [
