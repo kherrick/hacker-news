@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2022-09-07, 17:03:55",
+      "https://news.ycombinator.com/item?id=32753235"
+    ],
+    [
+      "`int('1' * 4301)` will raise ValueError starting with Python 3.10.7",
+      "https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 17:01:46",
+      "https://news.ycombinator.com/item?id=32753213"
+    ],
+    [
+      "Quantifying GitHub Copilot’s impact on developer productivity and happiness",
+      "https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 17:01:16",
       "https://news.ycombinator.com/item?id=32753205"
     ],
@@ -47,6 +67,16 @@
     [
       "Where do economies of scale come from? Part II",
       "https://constructionphysics.substack.com/p/where-do-economies-of-scale-come"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 16:34:22",
+      "https://news.ycombinator.com/item?id=32752853"
+    ],
+    [
+      "Brave Integration Deepens Support for Unstoppable Domains",
+      "https://brave.com/decentralized-websites/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-09-07, 14:31:54",
-      "https://news.ycombinator.com/item?id=32751132"
-    ],
-    [
-      "Hydrogen battery startup says it has $700M order backlog",
-      "https://www.rechargenews.com/energy-transition/hydrogen-battery-start-up-says-it-has-700m-order-backlog-for-utility-scale-renewables-projects/2-1-1266148?zephr_sso_ott=PTwqbU"
-    ]
-  ],
-  [
-    [
       "2022-09-07, 14:27:37",
       "https://news.ycombinator.com/item?id=32751071"
     ],
@@ -157,16 +177,6 @@
     [
       "Improved Galileo Time to First Fix",
       "https://berthub.eu/articles/posts/improved-galileo-fix-time/"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 13:11:37",
-      "https://news.ycombinator.com/item?id=32750080"
-    ],
-    [
-      "Is engineering management bullshit?",
-      "https://www.makeartwithpython.com/blog/is-engineering-management-bullshit/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Show HN: Quake 1 ported to the Apple Watch",
       "https://github.com/MyOwnClone/quake_watch"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 05:45:25",
-      "https://news.ycombinator.com/item?id=32746807"
-    ],
-    [
-      "We Are Changing the License for Akka",
-      "https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"
     ]
   ],
   [
