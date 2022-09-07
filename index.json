@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-07, 16:11:46",
+      "https://news.ycombinator.com/item?id=32752505"
+    ],
+    [
+      "Generate Synthetic Data in 3 Lines of Code",
+      "https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code"
+    ]
+  ],
+  [
+    [
+      "2022-09-07, 16:00:44",
+      "https://news.ycombinator.com/item?id=32752383"
+    ],
+    [
+      "Zig, the Small Language",
+      "https://zserge.com/posts/zig-the-small-language/"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 15:20:00",
       "https://news.ycombinator.com/item?id=32751812"
     ],
@@ -47,16 +67,6 @@
     [
       "Tell HN: Otter.ai bot recording meetings without consent",
       "https://news.ycombinator.com/item?id=32751071"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 14:09:07",
-      "https://news.ycombinator.com/item?id=32750863"
-    ],
-    [
-      "Sundar Pichai hopes to make Google more efficient, hints at potential cuts",
-      "https://www.cnbc.com/2022/09/07/google-ceo-says-he-hopes-to-make-company-20percent-more-efficient-hints-at-potential-cuts.html"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2022-09-07, 11:22:10",
+      "https://news.ycombinator.com/item?id=32749149"
+    ],
+    [
+      "Digital Museum of Plugs and Sockets",
+      "https://www.plugsocketmuseum.nl/index.html"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 11:17:45",
       "https://news.ycombinator.com/item?id=32749107"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-07, 01:23:18",
-      "https://news.ycombinator.com/item?id=32745318"
-    ],
-    [
-      "From Common Lisp to Julia",
-      "https://mfiano.net/posts/2022-09-04-from-common-lisp-to-julia/"
-    ]
-  ],
-  [
-    [
       "2022-09-06, 19:11:57",
       "https://news.ycombinator.com/item?id=32741810"
     ],
     [
       "Understanding gambling addiction (2012)",
       "https://news.mit.edu/2012/understanding-gambling-addiction-0904"
-    ]
-  ],
-  [
-    [
-      "2022-09-06, 18:09:59",
-      "https://news.ycombinator.com/item?id=32740824"
-    ],
-    [
-      "Winding numbers using a Cauchy integral, with WebGL",
-      "https://benoit.paris/posts/winding-cauchy-integral/"
     ]
   ],
   [
