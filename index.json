@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-08, 16:20:36",
+      "https://news.ycombinator.com/item?id=32767784"
+    ],
+    [
+      "Attacking Firecracker: AWS' MicroVM Monitor Written in Rust",
+      "https://www.graplsecurity.com/post/attacking-firecracker"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 15:48:55",
+      "https://news.ycombinator.com/item?id=32767338"
+    ],
+    [
+      "Accelerate Python code 100x by import taichi as ti",
+      "https://docs.taichi-lang.org/blog/accelerate-python-code-100x"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 15:45:30",
       "https://news.ycombinator.com/item?id=32767287"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2022-09-08, 15:44:35",
-      "https://news.ycombinator.com/item?id=32767277"
+      "2022-09-08, 15:40:32",
+      "https://news.ycombinator.com/item?id=32767218"
     ],
     [
-      "Ask HN: Why doesn’t Apple allow torrent clients on the app store?",
-      "https://news.ycombinator.com/item?id=32767277"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 15:26:57",
-      "https://news.ycombinator.com/item?id=32766992"
-    ],
-    [
-      "“Download More RAM” joke, but for cryto era",
-      "https://www.downloadmorecrypto.com/"
+      "Not Your Grandfather’s Perl",
+      "https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Mesh Shading for Vulkan",
       "https://www.khronos.org/blog/mesh-shading-for-vulkan"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 14:30:45",
+      "https://news.ycombinator.com/item?id=32766093"
+    ],
+    [
+      "‘Why Am I Not Rich and Famous?’ The Delusion of Our Times",
+      "https://dariusforoux.com/rich-and-famous/"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32765002"
     ],
     [
-      "Stop Measuring Community Engagement",
+      "Stop measuring community engagement",
       "https://rosie.land/posts/stop-measuring-community-engagement/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "Who controls the Internet? And should they? (2021)",
       "https://berthub.eu/articles/posts/who-controls-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 10:08:21",
-      "https://news.ycombinator.com/item?id=32763509"
-    ],
-    [
-      "Introducing Svelte, and Comparing Svelte with React and Vue (2021)",
-      "https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Now Be Still: Dispatching Shakespeare’s Bodies",
       "https://www.laphamsquarterly.org/roundtable/now-be-still"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 13:07:20",
-      "https://news.ycombinator.com/item?id=32750037"
-    ],
-    [
-      "Data Invariants",
-      "https://buttondown.email/hillelwayne/archive/data-invariants/"
     ]
   ],
   [
