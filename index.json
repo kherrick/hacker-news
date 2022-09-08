@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-08, 17:33:02",
+      "https://news.ycombinator.com/item?id=32768834"
+    ],
+    [
+      "Queen Elizabeth II has died",
+      "https://www.bbc.co.uk/news/uk-61585886"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 17:18:08",
+      "https://news.ycombinator.com/item?id=32768590"
+    ],
+    [
+      "Show HN: I made a modern web UI for Hacker News",
+      "https://www.modernhn.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 17:09:11",
+      "https://news.ycombinator.com/item?id=32768454"
+    ],
+    [
+      "Caddyhttp: Enable HTTP/3 by Default",
+      "https://github.com/caddyserver/caddy/pull/4707"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 17:00:38",
       "https://news.ycombinator.com/item?id=32768366"
     ],
@@ -47,6 +77,16 @@
     [
       "Show HN: Learn time series with a story illustrated by Stable Diffusion",
       "https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 16:33:07",
+      "https://news.ycombinator.com/item?id=32767979"
+    ],
+    [
+      "San Francisco Decriminalizes Psychedelics",
+      "https://doubleblindmag.com/san-francisco-decriminalizes-psychedelics/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-09-08, 14:19:44",
-      "https://news.ycombinator.com/item?id=32765885"
-    ],
-    [
-      "Pure recursively defined sets without looping in Haskell",
-      "https://www.joachim-breitner.de/blog/792-More_recursive_definitions"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 14:04:59",
       "https://news.ycombinator.com/item?id=32765664"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2022-09-08, 07:31:03",
-      "https://news.ycombinator.com/item?id=32762443"
-    ],
-    [
-      "Pwned, the book",
-      "https://www.troyhunt.com/pwned-the-book-is-finally-here/"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 07:18:49",
       "https://news.ycombinator.com/item?id=32762345"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-09-08, 01:13:05",
-      "https://news.ycombinator.com/item?id=32759741"
-    ],
-    [
-      "Now Be Still: Dispatching Shakespeare’s Bodies",
-      "https://www.laphamsquarterly.org/roundtable/now-be-still"
-    ]
-  ],
-  [
-    [
       "2022-09-07, 12:21:28",
       "https://news.ycombinator.com/item?id=32749633"
     ],
     [
       "IKEA’s knowledge graph and why it has three layers",
       "https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 07:24:09",
-      "https://news.ycombinator.com/item?id=32747551"
-    ],
-    [
-      "The Journal of Physical Security, Vol 15 [pdf]",
-      "https://rbsekurity.com/JPS%20Archives/JPS_15(1).pdf"
     ]
   ],
   [
