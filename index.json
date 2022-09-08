@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-08, 14:19:44",
+      "https://news.ycombinator.com/item?id=32765885"
+    ],
+    [
+      "Pure recursively defined sets without looping in Haskell",
+      "https://www.joachim-breitner.de/blog/792-More_recursive_definitions"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 14:04:59",
       "https://news.ycombinator.com/item?id=32765664"
     ],
@@ -47,16 +57,6 @@
     [
       "Stop Measuring Community Engagement",
       "https://rosie.land/posts/stop-measuring-community-engagement/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 12:56:59",
-      "https://news.ycombinator.com/item?id=32764803"
-    ],
-    [
-      "You Can't Do That: Abstracting over Ownership in Rust with Type Inference",
-      "https://lucumr.pocoo.org/2022/9/8/abstracting-over-ownership/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-09-08, 08:41:26",
-      "https://news.ycombinator.com/item?id=32762954"
-    ],
-    [
-      "Show HN: Our project got 4 connectors and 4 l10ns from community in 2 months",
-      "https://github.com/logto-io/logto/releases/tag/v1.0.0-beta.9"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 07:31:35",
       "https://news.ycombinator.com/item?id=32762444"
     ],
@@ -197,6 +187,16 @@
     [
       "Economists are flocking to Silicon Valley",
       "https://www.economist.com/business/2022/09/07/why-economists-are-flocking-to-silicon-valley"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 05:27:09",
+      "https://news.ycombinator.com/item?id=32761529"
+    ],
+    [
+      "How A Bedouin Tracker Sees the Desert",
+      "https://www.atlasobscura.com/articles/bedouin-desert-tracking-negev"
     ]
   ],
   [
