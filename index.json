@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-08, 15:45:30",
+      "https://news.ycombinator.com/item?id=32767287"
+    ],
+    [
+      "Go Developer Survey 2022 Q2 Results",
+      "https://go.dev/blog/survey2022-q2-results"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 15:44:35",
+      "https://news.ycombinator.com/item?id=32767277"
+    ],
+    [
+      "Ask HN: Why doesn’t Apple allow torrent clients on the app store?",
+      "https://news.ycombinator.com/item?id=32767277"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 15:26:57",
       "https://news.ycombinator.com/item?id=32766992"
     ],
@@ -57,16 +77,6 @@
     [
       "Half of Japan's LDP lawmakers had ties with Unification Church",
       "https://asia.nikkei.com/Politics/Unification-Church-and-politics/Half-of-Japan-s-LDP-lawmakers-had-ties-with-Unification-Church"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 13:37:02",
-      "https://news.ycombinator.com/item?id=32765311"
-    ],
-    [
-      "Germany's €9 transit ticket cuts 1.8 million tonnes of CO2",
-      "https://www.weforum.org/agenda/2022/08/germanys-9-euro-transport-ticket-cut-1-8-million-tons-of-co2/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Who controls the Internet? And should they? (2021)",
       "https://berthub.eu/articles/posts/who-controls-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 10:10:36",
-      "https://news.ycombinator.com/item?id=32763518"
-    ],
-    [
-      "Best Practices of Civil-Military Relations",
-      "https://warontherocks.com/2022/09/to-support-and-defend-principles-of-civilian-control-and-best-practices-of-civil-military-relations/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2022-09-08, 01:13:05",
+      "https://news.ycombinator.com/item?id=32759741"
+    ],
+    [
+      "Now Be Still: Dispatching Shakespeare’s Bodies",
+      "https://www.laphamsquarterly.org/roundtable/now-be-still"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 13:07:20",
       "https://news.ycombinator.com/item?id=32750037"
     ],
     [
       "Data Invariants",
       "https://buttondown.email/hillelwayne/archive/data-invariants/"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 12:53:21",
-      "https://news.ycombinator.com/item?id=32749906"
-    ],
-    [
-      "Blech: A language for developing reactive, real-time critical embedded software",
-      "https://www.blech-lang.org/"
     ]
   ],
   [
