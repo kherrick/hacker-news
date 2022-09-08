@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-09-08, 17:00:38",
+      "https://news.ycombinator.com/item?id=32768366"
+    ],
+    [
+      "Motion (YC W20) Is Hiring QA and Back End Engineers",
+      "https://www.usemotion.com/jobs"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 16:46:09",
+      "https://news.ycombinator.com/item?id=32768166"
+    ],
+    [
+      "Rolls Royce Ends Boom Supersonic Partnership",
+      "https://airwaysmag.com/rolls-royce-boom-supersonic/"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 16:44:32",
+      "https://news.ycombinator.com/item?id=32768143"
+    ],
+    [
+      "Defeating eBPF Uprobe Monitoring",
+      "https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 16:39:07",
+      "https://news.ycombinator.com/item?id=32768064"
+    ],
+    [
+      "Show HN: Make better decisions with fewer online meetings",
+      "https://topagree.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 16:34:56",
+      "https://news.ycombinator.com/item?id=32768005"
+    ],
+    [
+      "Show HN: Learn time series with a story illustrated by Stable Diffusion",
+      "https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 16:20:36",
       "https://news.ycombinator.com/item?id=32767784"
     ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32767338"
     ],
     [
-      "Accelerate Python code 100x by import taichi as ti",
+      "Accelerate Python code by importing Taichi",
       "https://docs.taichi-lang.org/blog/accelerate-python-code-100x"
     ]
   ],
@@ -57,16 +107,6 @@
     [
       "Mesh Shading for Vulkan",
       "https://www.khronos.org/blog/mesh-shading-for-vulkan"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 14:30:45",
-      "https://news.ycombinator.com/item?id=32766093"
-    ],
-    [
-      "‘Why Am I Not Rich and Famous?’ The Delusion of Our Times",
-      "https://dariusforoux.com/rich-and-famous/"
     ]
   ],
   [
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2022-09-08, 12:00:41",
-      "https://news.ycombinator.com/item?id=32764275"
-    ],
-    [
-      "QuestDB (YC S20) Is Hiring a Technical Writer",
-      "https://questdb.io/careers/technical-content-writer/"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 10:24:35",
       "https://news.ycombinator.com/item?id=32763595"
     ],
     [
       "Who controls the Internet? And should they? (2021)",
       "https://berthub.eu/articles/posts/who-controls-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 07:31:35",
-      "https://news.ycombinator.com/item?id=32762444"
-    ],
-    [
-      "The Changes for the 2nd Edition of “Code”",
-      "http://www.charlespetzold.com/blog/2022/09/The-Changes-for-the-2nd-Edition-of-Code.html"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2022-09-08, 04:14:05",
-      "https://news.ycombinator.com/item?id=32761113"
-    ],
-    [
-      "Kamby – A programming language based on Lisp that doesn't seems like Lisp",
-      "https://kamby.org/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 01:20:32",
-      "https://news.ycombinator.com/item?id=32759786"
-    ],
-    [
-      "I tracked everything I read on the internet for a year",
-      "https://www.tdpain.net/blog/a-year-of-reading"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 01:13:05",
       "https://news.ycombinator.com/item?id=32759741"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2022-09-07, 07:24:09",
+      "https://news.ycombinator.com/item?id=32747551"
+    ],
+    [
+      "The Journal of Physical Security, Vol 15 [pdf]",
+      "https://rbsekurity.com/JPS%20Archives/JPS_15(1).pdf"
+    ]
+  ],
+  [
+    [
       "2022-09-07, 07:23:54",
       "https://news.ycombinator.com/item?id=32747548"
     ],
@@ -277,16 +287,6 @@
     [
       "Excuse me but why are you eating so many frogs",
       "https://experimentalhistory.substack.com/p/excuse-me-but-why-are-you-eating"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 05:17:45",
-      "https://news.ycombinator.com/item?id=32746629"
-    ],
-    [
-      "Cells Form into ‘Xenobots’ on Their Own",
-      "https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/"
     ]
   ],
   [
