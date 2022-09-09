@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-09, 09:38:43",
+      "https://news.ycombinator.com/item?id=32777260"
+    ],
+    [
+      "The Touhou PC-98 Restoration Project",
+      "https://github.com/nmlgc/ReC98"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 09:12:46",
+      "https://news.ycombinator.com/item?id=32777109"
+    ],
+    [
+      "Making a Website Under 1kB",
+      "https://tdarb.org/blog/under-1kb.html"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 08:31:52",
       "https://news.ycombinator.com/item?id=32776803"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-09-08, 20:02:52",
-      "https://news.ycombinator.com/item?id=32771261"
-    ],
-    [
-      "Eight Secret Societies (2016)",
-      "https://www.smithsonianmag.com/history/secret-societies-you-might-not-know-180958294/"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 20:00:54",
       "https://news.ycombinator.com/item?id=32771235"
     ],
@@ -197,16 +207,6 @@
     [
       "Not Your Grandfather’s Perl",
       "https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 12:26:46",
-      "https://news.ycombinator.com/item?id=32764501"
-    ],
-    [
-      "My VM is lighter (and safer) than your container (2017)",
-      "https://dl.acm.org/doi/10.1145/3132747.3132763"
     ]
   ],
   [
