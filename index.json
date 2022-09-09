@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-09, 11:16:55",
+      "https://news.ycombinator.com/item?id=32777823"
+    ],
+    [
+      "AirPods Pro (First Gen) Service Program for Sound Issues",
+      "https://support.apple.com/airpods-pro-service-program-sound-issues"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 10:43:08",
       "https://news.ycombinator.com/item?id=32777636"
     ],
@@ -27,6 +37,16 @@
     [
       "Making a Website Under 1kB",
       "https://tdarb.org/blog/under-1kb.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 08:31:52",
+      "https://news.ycombinator.com/item?id=32776803"
+    ],
+    [
+      "ADSL Router as Effects Pedal",
+      "https://hackaday.com/2022/09/08/adsl-router-as-effects-pedal/"
     ]
   ],
   [
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2022-09-08, 17:33:02",
-      "https://news.ycombinator.com/item?id=32768834"
+      "2022-09-08, 16:20:36",
+      "https://news.ycombinator.com/item?id=32767784"
     ],
     [
-      "Queen Elizabeth II has died",
-      "https://www.bbc.com/news/uk-61585886"
+      "Attacking Firecracker: AWS' MicroVM Monitor Written in Rust",
+      "https://www.graplsecurity.com/post/attacking-firecracker"
     ]
   ],
   [
     [
-      "2022-09-08, 16:33:07",
-      "https://news.ycombinator.com/item?id=32767979"
+      "2022-09-08, 15:48:55",
+      "https://news.ycombinator.com/item?id=32767338"
     ],
     [
-      "San Francisco decriminalizes psychedelics",
-      "https://doubleblindmag.com/san-francisco-decriminalizes-psychedelics/"
+      "Accelerate Python code by importing Taichi",
+      "https://docs.taichi-lang.org/blog/accelerate-python-code-100x"
     ]
   ],
   [
@@ -221,22 +241,32 @@
   ],
   [
     [
+      "2022-09-08, 15:40:32",
+      "https://news.ycombinator.com/item?id=32767218"
+    ],
+    [
+      "Not Your Grandfather’s Perl",
+      "https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 12:26:46",
+      "https://news.ycombinator.com/item?id=32764501"
+    ],
+    [
+      "My VM is lighter (and safer) than your container (2017)",
+      "https://dl.acm.org/doi/10.1145/3132747.3132763"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 11:46:43",
       "https://news.ycombinator.com/item?id=32764181"
     ],
     [
       "Penguin of the Year",
       "https://www.nationalaquarium.co.nz/visit/penguin-of-the-year/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 11:39:18",
-      "https://news.ycombinator.com/item?id=32764109"
-    ],
-    [
-      "ErgodoxE EZ – an ergonomic keyboard with open source firmware",
-      "https://ergodox-ez.com/"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2022-09-08, 10:03:07",
-      "https://news.ycombinator.com/item?id=32763476"
-    ],
-    [
-      "The self-fulfilling prophecy of React",
-      "https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 05:24:04",
       "https://news.ycombinator.com/item?id=32761514"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2022-09-08, 03:32:35",
-      "https://news.ycombinator.com/item?id=32760839"
+      "2022-09-07, 06:02:53",
+      "https://news.ycombinator.com/item?id=32746922"
     ],
     [
-      "Ramanujan Factorial Approximation (2012)",
-      "https://www.johndcook.com/blog/2012/09/25/ramanujans-factorial-approximation/"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 22:48:21",
-      "https://news.ycombinator.com/item?id=32758185"
-    ],
-    [
-      "Minutes That Will Make You Love Alice Coltrane",
-      "https://www.nytimes.com/2022/09/07/arts/music/alice-coltrane-jazz-music.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 22:43:22",
-      "https://news.ycombinator.com/item?id=32758126"
-    ],
-    [
-      "The Ffast and the Furious",
-      "https://gist.github.com/moyix/46b7d7fdb9e100dad866821793b08058"
+      "Excuse me but why are you eating so many frogs",
+      "https://experimentalhistory.substack.com/p/excuse-me-but-why-are-you-eating"
     ]
   ]
 ]
