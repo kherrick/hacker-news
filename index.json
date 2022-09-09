@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-09-09, 01:57:05",
+      "https://news.ycombinator.com/item?id=32774412"
+    ],
+    [
+      "After a Legal Fight, Oberlin Says It Will Pay $36.59M to a Local Bakery",
+      "https://www.nytimes.com/2022/09/08/us/oberlin-bakery-lawsuit.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 00:52:51",
+      "https://news.ycombinator.com/item?id=32774029"
+    ],
+    [
+      "Crash recovery for user-space block drivers",
+      "https://lwn.net/Articles/906097/"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 23:40:25",
+      "https://news.ycombinator.com/item?id=32773517"
+    ],
+    [
+      "Nvidia Hopper Sweeps AI Inference Benchmarks in MLPerf Debut",
+      "https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 22:20:52",
+      "https://news.ycombinator.com/item?id=32772810"
+    ],
+    [
+      "It seems that the good times for online Minecraft play are over",
+      "https://bae.st/notice/AL3OGtBIWr6Bz2Y4um"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 21:56:55",
       "https://news.ycombinator.com/item?id=32772597"
     ],
     [
       "Patreon laid off their security team",
       "https://twitter.com/wbm312/status/1567974063578185728"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 20:56:08",
-      "https://news.ycombinator.com/item?id=32771973"
-    ],
-    [
-      "Building a house in California is not a housing development project [pdf]",
-      "https://www.courts.ca.gov/opinions/documents/A161813.PDF"
     ]
   ],
   [
@@ -61,42 +91,12 @@
   ],
   [
     [
-      "2022-09-08, 17:09:11",
-      "https://news.ycombinator.com/item?id=32768454"
-    ],
-    [
-      "Caddyhttp: Enable HTTP/3 by Default",
-      "https://github.com/caddyserver/caddy/pull/4707"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 17:00:38",
       "https://news.ycombinator.com/item?id=32768366"
     ],
     [
       "Motion (YC W20) is hiring QA and back end engineers",
       "https://www.usemotion.com/jobs"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 16:39:07",
-      "https://news.ycombinator.com/item?id=32768064"
-    ],
-    [
-      "Show HN: Make better decisions with fewer online meetings",
-      "https://topagree.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 16:34:56",
-      "https://news.ycombinator.com/item?id=32768005"
-    ],
-    [
-      "Show HN: Learn time series with a story illustrated by Stable Diffusion",
-      "https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2022-09-08, 12:45:25",
+      "https://news.ycombinator.com/item?id=32764701"
+    ],
+    [
+      "Show HN: Ringer – Get and provide expert help on Open Source Software",
+      "https://www.ringerhq.com/"
+    ]
+  ],
+  [
+    [
       "2022-09-08, 12:26:46",
       "https://news.ycombinator.com/item?id=32764501"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32761514"
     ],
     [
-      "The Projectionist: On the Best Job That No Longer Exists",
+      "The Projectionist: On the best job that no longer exists",
       "https://pipewrenchmag.com/the-film-projectionist/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "The Ffast and the Furious",
       "https://gist.github.com/moyix/46b7d7fdb9e100dad866821793b08058"
-    ]
-  ],
-  [
-    [
-      "2022-09-07, 12:21:28",
-      "https://news.ycombinator.com/item?id=32749633"
-    ],
-    [
-      "IKEA’s knowledge graph and why it has three layers",
-      "https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349"
     ]
   ],
   [
