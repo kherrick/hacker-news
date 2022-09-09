@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-09, 20:27:53",
+      "https://news.ycombinator.com/item?id=32784491"
+    ],
+    [
+      "Parallel Curves of Cubic Béziers",
+      "https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 20:26:24",
+      "https://news.ycombinator.com/item?id=32784470"
+    ],
+    [
+      "Evolving my note-taking processes",
+      "https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 20:02:45",
+      "https://news.ycombinator.com/item?id=32784181"
+    ],
+    [
+      "A Web UI for Stable Diffusion",
+      "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 19:50:14",
       "https://news.ycombinator.com/item?id=32784047"
     ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2022-09-09, 15:12:27",
-      "https://news.ycombinator.com/item?id=32780191"
-    ],
-    [
-      "Ask HN: What happened to vanilla HTML/CSS/JS development?",
-      "https://news.ycombinator.com/item?id=32780191"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 14:44:47",
       "https://news.ycombinator.com/item?id=32779870"
     ],
     [
       "How a new hard hat technology can protect workers better from concussion",
       "https://text.npr.org/1121903266"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 14:27:02",
-      "https://news.ycombinator.com/item?id=32779662"
-    ],
-    [
-      "Grafana Mimir and VictoriaMetrics: performance tests",
-      "https://victoriametrics.com/blog/mimir-benchmark/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Is early-onset cancer an emerging global epidemic?",
       "https://www.nature.com/articles/s41571-022-00672-8"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 09:38:43",
-      "https://news.ycombinator.com/item?id=32777260"
-    ],
-    [
-      "The Touhou PC-98 Restoration Project",
-      "https://github.com/nmlgc/ReC98"
     ]
   ],
   [
