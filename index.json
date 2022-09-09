@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-09, 10:43:08",
+      "https://news.ycombinator.com/item?id=32777636"
+    ],
+    [
+      "WASM-4 Game Jam 2 Results – Zig most used",
+      "https://wasm4.org/blog/jam-2-results/"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 09:38:43",
       "https://news.ycombinator.com/item?id=32777260"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2022-09-09, 06:36:04",
+      "https://news.ycombinator.com/item?id=32776013"
+    ],
+    [
+      "This URL is also malicious(?!) shell script",
+      "https://github.com/jwilk/url.sh"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 05:03:48",
       "https://news.ycombinator.com/item?id=32775505"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-08, 22:20:52",
-      "https://news.ycombinator.com/item?id=32772810"
-    ],
-    [
-      "It seems that the good times for online Minecraft play are over",
-      "https://bae.st/notice/AL3OGtBIWr6Bz2Y4um"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 20:00:54",
       "https://news.ycombinator.com/item?id=32771235"
     ],
@@ -197,16 +207,6 @@
     [
       "San Francisco decriminalizes psychedelics",
       "https://doubleblindmag.com/san-francisco-decriminalizes-psychedelics/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 16:20:36",
-      "https://news.ycombinator.com/item?id=32767784"
-    ],
-    [
-      "Attacking Firecracker: AWS' MicroVM Monitor Written in Rust",
-      "https://www.graplsecurity.com/post/attacking-firecracker"
     ]
   ],
   [
