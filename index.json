@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32776013"
     ],
     [
-      "This URL is also malicious(?!) shell script",
+      "URL is also a shell script that executes some malicious(?) code",
       "https://github.com/jwilk/url.sh"
     ]
   ],
