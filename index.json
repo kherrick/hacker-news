@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-09, 05:13:12",
+      "https://news.ycombinator.com/item?id=32775557"
+    ],
+    [
+      "Defending Privacy in Crypto",
+      "https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 05:03:48",
       "https://news.ycombinator.com/item?id=32775505"
     ],
     [
       "CernVM File System",
       "https://cernvm.cern.ch/fs/"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 03:43:38",
+      "https://news.ycombinator.com/item?id=32775063"
+    ],
+    [
+      "Apple’s Killing the Password. Here’s Everything You Need to Know",
+      "https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-09-08, 17:00:38",
-      "https://news.ycombinator.com/item?id=32768366"
-    ],
-    [
-      "Motion (YC W20) is hiring QA and back end engineers",
-      "https://www.usemotion.com/jobs"
-    ]
-  ],
-  [
-    [
       "2022-09-08, 16:44:32",
       "https://news.ycombinator.com/item?id=32768143"
     ],
@@ -207,16 +217,6 @@
     [
       "Not Your Grandfather’s Perl",
       "https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/"
-    ]
-  ],
-  [
-    [
-      "2022-09-08, 12:26:46",
-      "https://news.ycombinator.com/item?id=32764501"
-    ],
-    [
-      "My VM is lighter (and safer) than your container (2017)",
-      "https://dl.acm.org/doi/10.1145/3132747.3132763"
     ]
   ],
   [
