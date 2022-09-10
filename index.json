@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-10, 08:02:05",
-      "https://news.ycombinator.com/item?id=32788790"
+      "2022-09-10, 08:17:01",
+      "https://news.ycombinator.com/item?id=32788836"
     ],
     [
-      "Ask HN: Autistic employees think they’re better than everyone",
-      "https://news.ycombinator.com/item?id=32788790"
+      "Container + SSH = a good development environment",
+      "https://github.com/ContainerSSH/ContainerSSH"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 07:44:42",
+      "https://news.ycombinator.com/item?id=32788706"
+    ],
+    [
+      "Air pollution cancer breakthrough will rewrite the rules",
+      "https://www.bbc.com/news/health-62797777"
     ]
   ],
   [
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2022-09-10, 06:06:54",
-      "https://news.ycombinator.com/item?id=32788244"
-    ],
-    [
-      "Apps have become too good at their jobs",
-      "https://meteamedia.org/22723/opinions/apps-have-become-too-good-at-their-jobs/"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 03:35:52",
       "https://news.ycombinator.com/item?id=32787547"
     ],
@@ -97,6 +97,16 @@
     [
       "Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock",
       "https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 23:36:19",
+      "https://news.ycombinator.com/item?id=32786158"
+    ],
+    [
+      "Open Source Bait and Switch: Licensing and Beyond",
+      "https://www.percona.com/blog/open-source-bait-and-switch-licensing-and-beyond/"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2022-09-09, 17:06:14",
-      "https://news.ycombinator.com/item?id=32781948"
-    ],
-    [
-      "How Transistors Work [video]",
-      "https://www.youtube.com/watch?v=CQtSS6g00h0"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 16:00:03",
       "https://news.ycombinator.com/item?id=32780866"
     ],
     [
       "Byte Magazine: The C Programming Language (1983)",
       "https://archive.org/details/byte-magazine-1983-08"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 15:33:57",
-      "https://news.ycombinator.com/item?id=32780472"
-    ],
-    [
-      "Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes",
-      "http://lambda-the-ultimate.org/node/5648"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2022-09-09, 10:42:26",
-      "https://news.ycombinator.com/item?id=32777630"
-    ],
-    [
-      "Some things I realized about AI while contemplating slide rule prices on eBay",
-      "http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 10:05:33",
       "https://news.ycombinator.com/item?id=32777409"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2022-09-09, 05:04:40",
+      "https://news.ycombinator.com/item?id=32775515"
+    ],
+    [
+      "The Middle of the Square",
+      "http://bit-player.org/2022/the-middle-of-the-square"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 02:35:43",
       "https://news.ycombinator.com/item?id=32774646"
     ],
     [
       "The Lost Art of System Administration",
       "https://matt-rickard.com/the-lost-art-of-systems-administration"
+    ]
+  ],
+  [
+    [
+      "2022-09-08, 22:47:44",
+      "https://news.ycombinator.com/item?id=32773058"
+    ],
+    [
+      "The Collectors Who Save Video-Game History from Oblivion",
+      "https://www.newyorker.com/tech/annals-of-technology/the-collectors-who-save-video-game-history-from-oblivion"
     ]
   ],
   [
