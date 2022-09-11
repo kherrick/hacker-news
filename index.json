@@ -1,22 +1,32 @@
 [
   [
     [
+      "2022-09-11, 15:25:26",
+      "https://news.ycombinator.com/item?id=32800421"
+    ],
+    [
+      "Show HN: Compass and Ruler construction problems as puzzle game",
+      "https://sdkgames.itch.io/ecocoru"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 14:31:10",
+      "https://news.ycombinator.com/item?id=32799920"
+    ],
+    [
+      "Ask HN: Does anyone else think SQL needs help?",
+      "https://news.ycombinator.com/item?id=32799920"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 14:24:58",
       "https://news.ycombinator.com/item?id=32799872"
     ],
     [
       "Atkinson Hyperlegible Font",
       "https://brailleinstitute.org/freefont"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 14:15:27",
-      "https://news.ycombinator.com/item?id=32799789"
-    ],
-    [
-      "Ask HN: What are some of the best documentaries you've seen?",
-      "https://news.ycombinator.com/item?id=32799789"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Cirrus Vision Jet Pilot Pulls Chute in Florida",
       "https://www.flyingmag.com/cirrus-vision-jet-pilot-pulls-chute-in-florida/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 12:50:56",
+      "https://news.ycombinator.com/item?id=32799209"
+    ],
+    [
+      "We need a fossil-free internet by 2030",
+      "https://branch.climateaction.tech/issues/issue-3/we-need-a-fossil-free-internet-by-2030/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-09-09, 15:27:24",
-      "https://news.ycombinator.com/item?id=32780379"
-    ],
-    [
-      "SK Hynix Starts Prepping for Next Semiconductor Boom with $11B Memory Fab",
-      "https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 15:26:50",
       "https://news.ycombinator.com/item?id=32780368"
     ],
     [
       "Optimising Docker Layers for Better Caching with Nix (2018)",
       "https://grahamc.com/blog/nix-and-layered-docker-images"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 10:29:12",
-      "https://news.ycombinator.com/item?id=32777549"
-    ],
-    [
-      "NeuralPi: Raspberry Pi guitar pedal using neural networks",
-      "https://github.com/GuitarML/NeuralPi"
     ]
   ],
   [
