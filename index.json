@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-11, 14:24:58",
+      "https://news.ycombinator.com/item?id=32799872"
+    ],
+    [
+      "Atkinson Hyperlegible Font",
+      "https://brailleinstitute.org/freefont"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 14:15:27",
+      "https://news.ycombinator.com/item?id=32799789"
+    ],
+    [
+      "Ask HN: What are some of the best documentaries you've seen?",
+      "https://news.ycombinator.com/item?id=32799789"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 13:43:36",
+      "https://news.ycombinator.com/item?id=32799569"
+    ],
+    [
+      "Osint: Recommended reading before the end of 2022",
+      "https://www.osintme.com/index.php/2022/09/10/recommended-reading-before-the-end-of-2022/"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 13:34:05",
       "https://news.ycombinator.com/item?id=32799499"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2022-09-09, 15:28:37",
-      "https://news.ycombinator.com/item?id=32780397"
-    ],
-    [
-      "Sister Mary Kenneth Keller: First US PhD in Computer Science",
-      "https://arxiv.org/abs/2208.01765"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 15:27:24",
-      "https://news.ycombinator.com/item?id=32780379"
-    ],
-    [
-      "SK Hynix Starts Prepping for Next Semiconductor Boom with $11B Memory Fab",
-      "https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 15:26:50",
       "https://news.ycombinator.com/item?id=32780368"
     ],
     [
       "Optimising Docker Layers for Better Caching with Nix (2018)",
       "https://grahamc.com/blog/nix-and-layered-docker-images"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 10:29:12",
-      "https://news.ycombinator.com/item?id=32777549"
-    ],
-    [
-      "NeuralPi: Raspberry Pi guitar pedal using neural networks",
-      "https://github.com/GuitarML/NeuralPi"
     ]
   ],
   [
