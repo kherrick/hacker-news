@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-09-09, 15:35:30",
-      "https://news.ycombinator.com/item?id=32780490"
-    ],
-    [
-      "Mathematics Genealogy Project",
-      "https://www.genealogy.math.ndsu.nodak.edu/"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 15:27:24",
       "https://news.ycombinator.com/item?id=32780379"
     ],
@@ -297,6 +287,16 @@
     [
       "NeuralPi: Raspberry Pi guitar pedal using neural networks",
       "https://github.com/GuitarML/NeuralPi"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 04:35:37",
+      "https://news.ycombinator.com/item?id=32775339"
+    ],
+    [
+      "Tipi – A personal homeserver for everyone",
+      "https://github.com/meienberger/runtipi"
     ]
   ]
 ]
