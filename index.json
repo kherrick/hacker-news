@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-11, 10:08:40",
+      "https://news.ycombinator.com/item?id=32798368"
+    ],
+    [
+      "Google suspended our domain out of the blue – lyearn[.]com",
+      "https://twitter.com/shuchit_gandhi/status/1568829269488603139"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 08:58:23",
       "https://news.ycombinator.com/item?id=32798003"
     ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=32797830"
     ],
     [
-      "How random can you be?",
+      "How random can you be? (2019)",
       "https://www.expunctis.com/2019/03/07/Not-so-random.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 08:02:16",
-      "https://news.ycombinator.com/item?id=32797711"
-    ],
-    [
-      "Ask HN: Is there any beautiful Markdown editor?",
-      "https://news.ycombinator.com/item?id=32797711"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32795169"
     ],
     [
-      "Rethinking GPS: Engineering Next-Gen Location at Uber",
+      "Rethinking GPS: Engineering next-gen location at Uber (2018)",
       "https://www.uber.com/en-SE/blog/rethinking-gps/"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-09-10, 20:55:09",
+      "https://news.ycombinator.com/item?id=32794510"
+    ],
+    [
+      "How Outschool won the pandemic",
+      "https://www.fastcompany.com/90729413/how-outschool-won-the-pandemic"
+    ]
+  ],
+  [
+    [
       "2022-09-10, 20:41:51",
       "https://news.ycombinator.com/item?id=32794424"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2022-09-10, 20:08:55",
-      "https://news.ycombinator.com/item?id=32794197"
-    ],
-    [
-      "What went down on Wikipedia after Queen Elizabeth II's death was announced",
-      "https://twitter.com/depthsofwiki/status/1568101529273643008"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 18:57:22",
       "https://news.ycombinator.com/item?id=32793534"
     ],
     [
       "Ask HN: What's the best source code you've read?",
       "https://news.ycombinator.com/item?id=32793534"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 13:30:06",
-      "https://news.ycombinator.com/item?id=32790429"
-    ],
-    [
-      "IPv4 Turf War",
-      "http://ipv4.games/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Count-Min Sketch",
       "https://florian.github.io//count-min-sketch/"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 05:55:50",
+      "https://news.ycombinator.com/item?id=32788197"
+    ],
+    [
+      "Monte Carlo Geometry Processing",
+      "https://www.youtube.com/watch?v=bZbuKOxH71o"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-09-09, 04:35:37",
-      "https://news.ycombinator.com/item?id=32775339"
+      "2022-09-08, 15:41:43",
+      "https://news.ycombinator.com/item?id=32767242"
     ],
     [
-      "Tipi – A personal homeserver for everyone",
-      "https://github.com/meienberger/runtipi"
+      "Old School Linux Administration (My Next Homelab Generation)",
+      "https://scholz.ruhr/blog/old-school-unix-administration/"
     ]
   ]
 ]
