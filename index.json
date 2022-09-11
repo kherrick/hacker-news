@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2022-09-11, 05:26:09",
-      "https://news.ycombinator.com/item?id=32797057"
-    ],
-    [
-      "Rendering my (billiard) balls in a fragment shader",
-      "https://www.getlazarus.org/pool/balls/"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 02:26:48",
       "https://news.ycombinator.com/item?id=32796324"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2022-09-10, 06:24:28",
-      "https://news.ycombinator.com/item?id=32788339"
-    ],
-    [
-      "A flight simulator that runs in the browser",
-      "https://fpvsim.com"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 05:55:50",
       "https://news.ycombinator.com/item?id=32788197"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2022-09-09, 15:27:24",
+      "https://news.ycombinator.com/item?id=32780379"
+    ],
+    [
+      "SK Hynix Starts Prepping for Next Semiconductor Boom with $11B Memory Fab",
+      "https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 15:26:50",
       "https://news.ycombinator.com/item?id=32780368"
     ],
     [
       "Optimising Docker Layers for Better Caching with Nix (2018)",
       "https://grahamc.com/blog/nix-and-layered-docker-images"
+    ]
+  ],
+  [
+    [
+      "2022-09-09, 10:29:12",
+      "https://news.ycombinator.com/item?id=32777549"
+    ],
+    [
+      "NeuralPi: Raspberry Pi guitar pedal using neural networks",
+      "https://github.com/GuitarML/NeuralPi"
     ]
   ],
   [
