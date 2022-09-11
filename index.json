@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-11, 07:11:40",
+      "https://news.ycombinator.com/item?id=32797488"
+    ],
+    [
+      "Lazarus IDE – write once, compile anywhere",
+      "https://www.getlazarus.org/"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 07:05:37",
       "https://news.ycombinator.com/item?id=32797466"
     ],
@@ -107,16 +117,6 @@
     [
       "Empty Offices Are Becoming Apartments in Texas’s Big Cities",
       "https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 22:52:23",
-      "https://news.ycombinator.com/item?id=32795205"
-    ],
-    [
-      "Jackson’s water crisis: latest updates",
-      "https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2022-09-09, 15:28:37",
+      "https://news.ycombinator.com/item?id=32780397"
+    ],
+    [
+      "Sister Mary Kenneth Keller: First US PhD in Computer Science",
+      "https://arxiv.org/abs/2208.01765"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 15:27:24",
       "https://news.ycombinator.com/item?id=32780379"
     ],
@@ -287,16 +297,6 @@
     [
       "NeuralPi: Raspberry Pi guitar pedal using neural networks",
       "https://github.com/GuitarML/NeuralPi"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 04:35:37",
-      "https://news.ycombinator.com/item?id=32775339"
-    ],
-    [
-      "Tipi – A personal homeserver for everyone",
-      "https://github.com/meienberger/runtipi"
     ]
   ]
 ]
