@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-11, 21:57:02",
+      "https://news.ycombinator.com/item?id=32803667"
+    ],
+    [
+      "SpaceX fire burns 68 acres of protected refuge",
+      "https://www.krgv.com/news/spacex-fire-burns-68-acres-of-protected-refuge/"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 21:55:13",
       "https://news.ycombinator.com/item?id=32803649"
     ],
     [
-      "Show HN: Hacker News Bot That Automated Archive Finding and Commenting",
+      "Show HN: Hacker News bot that automated archive finding and commenting",
       "https://github.com/ShlomoStept/hn_bot"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 21:18:07",
+      "https://news.ycombinator.com/item?id=32803354"
+    ],
+    [
+      "DIY Dial Caliper Repair Guide (Mitutoyo, Starrett, Browne & Sharpe)",
+      "http://www.longislandindicator.com/p44.html"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32802308"
     ],
     [
-      "Common Lisp Names All Sixteen Possible Binary Logic Gates",
+      "Common Lisp names all sixteen binary logic gates",
       "https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Living Worlds in HTML5 (2012)",
       "http://effectgames.com/demos/worlds/"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 18:01:45",
-      "https://news.ycombinator.com/item?id=32801767"
-    ],
-    [
-      "Show HN: A script to allow installing unsigned extensions on Firefox",
-      "https://gist.github.com/TheBrokenRail/c43bf0f07f4860adac2631a1bd9e4136"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2022-09-11, 14:15:27",
-      "https://news.ycombinator.com/item?id=32799789"
-    ],
-    [
-      "Ask HN: What are some of the best documentaries you've seen?",
-      "https://news.ycombinator.com/item?id=32799789"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 13:34:05",
       "https://news.ycombinator.com/item?id=32799499"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32798385"
     ],
     [
-      "We Secretly Love Meetings (2010)",
+      "We secretly love meetings (2010)",
       "https://hbr.org/2010/10/why-we-secretly-love-meetings"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32791986"
     ],
     [
-      "What You Need to Build a Greek Temple",
+      "What you need to build a Greek temple",
       "https://antigonejournal.com/2022/09/how-build-greek-temple/"
     ]
   ],
