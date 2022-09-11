@@ -1,22 +1,22 @@
 [
   [
     [
-      "2022-09-11, 19:25:10",
-      "https://news.ycombinator.com/item?id=32802474"
-    ],
-    [
-      "Ask HN: What did you learn last week?",
-      "https://news.ycombinator.com/item?id=32802474"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 19:15:02",
       "https://news.ycombinator.com/item?id=32802402"
     ],
     [
       "I learned to love testing game code",
       "https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 19:03:27",
+      "https://news.ycombinator.com/item?id=32802308"
+    ],
+    [
+      "Common Lisp Names All Sixteen Possible Binary Logic Gates",
+      "https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000"
     ]
   ],
   [
@@ -41,6 +41,26 @@
   ],
   [
     [
+      "2022-09-11, 18:27:47",
+      "https://news.ycombinator.com/item?id=32802026"
+    ],
+    [
+      "Living Worlds in HTML5 (2012)",
+      "http://effectgames.com/demos/worlds/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 18:07:57",
+      "https://news.ycombinator.com/item?id=32801833"
+    ],
+    [
+      "Show HN: Twofer Goofer, rhyming word game built with Midjourney/Stable Diffusion",
+      "https://twofergoofer.com"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 18:01:45",
       "https://news.ycombinator.com/item?id=32801767"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32801359"
     ],
     [
-      "What’s the shortest URL for which content is served on the internet?",
+      "Shortest URLs on the Internet",
       "https://jameswillia.ms/posts/shortest-urls.html"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32800869"
     ],
     [
-      "Build Your Career on Dirty Work",
+      "Build your career on dirty work",
       "https://staysaasy.com/career/2022/09/11/Dirty-Work.html"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32800598"
     ],
     [
-      "Go standard library: structured, leveled logging",
+      "Discussion: structured, leveled logging",
       "https://github.com/golang/go/discussions/54763"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-09-11, 12:35:40",
-      "https://news.ycombinator.com/item?id=32799128"
-    ],
-    [
-      "Abstracting over ownership in rust with higher-rank type bounds?",
-      "https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 11:59:04",
       "https://news.ycombinator.com/item?id=32798891"
     ],
@@ -277,16 +287,6 @@
     [
       "The Twisted Life of Clippy",
       "https://www.seattlemet.com/news-and-city-life/2022/08/origin-story-of-clippy-the-microsoft-office-assistant"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 14:09:01",
-      "https://news.ycombinator.com/item?id=32790787"
-    ],
-    [
-      "Forensic analysts accuse Billy Mitchell of cheating for Donkey Kong record",
-      "https://www.vice.com/en/article/wxngbn/forensic-analysts-accuse-billy-mitchell-of-cheating-for-donkey-kong-record"
     ]
   ],
   [
