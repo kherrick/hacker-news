@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-11, 13:34:05",
+      "https://news.ycombinator.com/item?id=32799499"
+    ],
+    [
+      "A Review of the Odin Programming Language",
+      "https://graphitemaster.github.io/odin_review/"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 13:24:22",
       "https://news.ycombinator.com/item?id=32799428"
     ],
@@ -55,18 +65,18 @@
       "https://news.ycombinator.com/item?id=32799128"
     ],
     [
-      "You Can't Do That: Abstracting over Ownership in Rust with HRTBs. Or Can You?",
+      "Abstracting over ownership in rust with higher-rank type bounds?",
       "https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/"
     ]
   ],
   [
     [
-      "2022-09-11, 12:30:23",
-      "https://news.ycombinator.com/item?id=32799085"
+      "2022-09-11, 12:17:56",
+      "https://news.ycombinator.com/item?id=32799003"
     ],
     [
-      "Positive thinking: Stop negative self-talk to reduce stress",
-      "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/positive-thinking/art-20043950"
+      "Ask HN: Help me pick a front-end framework",
+      "https://news.ycombinator.com/item?id=32799003"
     ]
   ],
   [
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2022-09-11, 08:58:23",
-      "https://news.ycombinator.com/item?id=32798003"
+      "2022-09-11, 10:04:38",
+      "https://news.ycombinator.com/item?id=32798349"
     ],
     [
-      "India is almost 80% IPv6",
-      "https://www.apnic.net/community/ipv6/ipv6-in-your-region/"
+      "Fark.com's live thread during the Sept. 11 attacks",
+      "https://www.fark.com/comments/45086/NEWS-FLASH-PLANES-CRASH-INTO-WORLD-TRADE-CENTER-PENTAGON-Our-link-to-CNN-works-thanks-Metafilter-We-have-news-pics-in-comments-section-if-you-have-any-post-it-there"
     ]
   ],
   [
@@ -147,6 +157,16 @@
     [
       "Stacker (YC S20) Is Hiring Enterprise Sales AE and Product Engineers",
       "https://www.stackerhq.com/careers#job-listing"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 06:23:27",
+      "https://news.ycombinator.com/item?id=32797286"
+    ],
+    [
+      "What's the cheapest domain you can register for 10 years?",
+      "https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2022-09-11, 01:54:50",
+      "https://news.ycombinator.com/item?id=32796177"
+    ],
+    [
+      "How does the land use of different electricity sources compare?",
+      "https://ourworldindata.org/land-use-per-energy-source"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 00:48:45",
       "https://news.ycombinator.com/item?id=32795857"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2022-09-10, 13:30:05",
-      "https://news.ycombinator.com/item?id=32790428"
-    ],
-    [
-      "Visual effects for the Indian blockbuster “RRR”",
-      "https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 06:24:28",
       "https://news.ycombinator.com/item?id=32788339"
     ],
@@ -227,26 +247,6 @@
     [
       "Monte Carlo Geometry Processing",
       "https://www.youtube.com/watch?v=bZbuKOxH71o"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 05:54:43",
-      "https://news.ycombinator.com/item?id=32788186"
-    ],
-    [
-      "Real Life Magazine: 2016-2022",
-      "https://reallifemag.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 00:19:00",
-      "https://news.ycombinator.com/item?id=32786426"
-    ],
-    [
-      "A Retro Nethack Interface",
-      "https://nethack.glitch.me/?retro=true"
     ]
   ],
   [
