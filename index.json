@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-11, 01:09:56",
+      "https://news.ycombinator.com/item?id=32795970"
+    ],
+    [
+      "Ask HN: Solopreneurs, how do you maintain a professional/social network?",
+      "https://news.ycombinator.com/item?id=32795970"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 00:48:45",
+      "https://news.ycombinator.com/item?id=32795857"
+    ],
+    [
+      "Why Empty Offices Are Becoming Apartments in Texas’s Big Cities",
+      "https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 23:58:59",
+      "https://news.ycombinator.com/item?id=32795571"
+    ],
+    [
+      "(Changes to grep) Time To Stop Using egrep and fgrep Commands, Per GNU grep 3.8",
+      "https://www.phoronix.com/news/GNU-Grep-3.8-Stop-egrep-fgrep"
+    ]
+  ],
+  [
+    [
       "2022-09-10, 22:52:23",
       "https://news.ycombinator.com/item?id=32795205"
     ],
@@ -31,6 +61,16 @@
   ],
   [
     [
+      "2022-09-10, 21:56:20",
+      "https://news.ycombinator.com/item?id=32794878"
+    ],
+    [
+      "Speeding up Prettier locally using the new –cache CLI option",
+      "https://prettier.io/blog/2022/06/14/2.7.0.html"
+    ]
+  ],
+  [
+    [
       "2022-09-10, 21:35:58",
       "https://news.ycombinator.com/item?id=32794757"
     ],
@@ -47,16 +87,6 @@
     [
       "No, Most Books Don't Sell Only a Dozen Copies",
       "https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 21:08:40",
-      "https://news.ycombinator.com/item?id=32794597"
-    ],
-    [
-      "Argentina's currency exchange black markets",
-      "https://devonzuegel.com/post/inside-argentina-s-currency-exchange-black-markets"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "How to Bury Carbon? Let Plants Do the Dirty Work",
       "https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 20:32:58",
-      "https://news.ycombinator.com/item?id=32794360"
-    ],
-    [
-      "Zig VP of community comments on Rust",
-      "https://twitter.com/croloris/status/1568573729940164608"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-10, 12:48:47",
-      "https://news.ycombinator.com/item?id=32790141"
-    ],
-    [
-      "Bouncer – Private SMS Blocker",
-      "https://apps.apple.com/us/app/bouncer-private-sms-blocker/id1457476313"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 11:19:02",
       "https://news.ycombinator.com/item?id=32789617"
     ],
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2022-09-10, 10:35:07",
-      "https://news.ycombinator.com/item?id=32789384"
+      "2022-09-10, 05:14:20",
+      "https://news.ycombinator.com/item?id=32787985"
     ],
     [
-      "Show HN: 1paragraph – a browser-based, offline-first ePub reader",
-      "https://1paragraph.app/"
+      "Loose Talk (2021)",
+      "https://www.lrb.co.uk/the-paper/v43/n21/steven-shapin/loose-talk"
     ]
   ],
   [
     [
-      "2022-09-10, 09:44:00",
-      "https://news.ycombinator.com/item?id=32789171"
+      "2022-09-09, 15:35:30",
+      "https://news.ycombinator.com/item?id=32780490"
     ],
     [
-      "Transcending Posix: The End of an Era?",
-      "https://www.usenix.org/publications/loginonline/transcending-posix-end-era"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 05:50:21",
-      "https://news.ycombinator.com/item?id=32788165"
-    ],
-    [
-      "An enthusiast’s deep dive into mechanical keyboard switches",
-      "https://switchandclick.com/mechanical-keyboard-switch-guide/"
+      "Mathematics Genealogy Project",
+      "https://www.genealogy.math.ndsu.nodak.edu/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-09-09, 10:29:12",
+      "https://news.ycombinator.com/item?id=32777549"
+    ],
+    [
+      "NeuralPi: Raspberry Pi guitar pedal using neural networks",
+      "https://github.com/GuitarML/NeuralPi"
+    ]
+  ],
+  [
+    [
       "2022-09-09, 10:05:50",
       "https://news.ycombinator.com/item?id=32777411"
     ],
@@ -287,16 +297,6 @@
     [
       "Tipi – A personal homeserver for everyone",
       "https://github.com/meienberger/runtipi"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 03:54:20",
-      "https://news.ycombinator.com/item?id=32775119"
-    ],
-    [
-      "Flanderization",
-      "https://en.wikipedia.org/wiki/Flanderization"
     ]
   ]
 ]
