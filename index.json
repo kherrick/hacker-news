@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-09-11, 03:33:52",
+      "https://news.ycombinator.com/item?id=32796594"
+    ],
+    [
+      "'We don’t have enough' lithium globally to meet EV targets, mining CEO says",
+      "https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 02:39:18",
+      "https://news.ycombinator.com/item?id=32796382"
+    ],
+    [
+      "Google's 'Rest and Vest' Days for Senior Employees Are Over, Says CEO",
+      "https://www.inc.com/nick-hobson/googles-rest-vest-days-for-sr-employees-are-over-says-ceo-its-a-brilliant-idea.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 02:26:48",
+      "https://news.ycombinator.com/item?id=32796324"
+    ],
+    [
+      "Brickit scans your pile of bricks and gives you ideas, with instructions",
+      "https://brickit.app/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 02:05:43",
+      "https://news.ycombinator.com/item?id=32796225"
+    ],
+    [
+      "The case for building something wonderful alone",
+      "https://derw.substack.com/p/the-case-for-building-something-wonderful"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 01:58:52",
+      "https://news.ycombinator.com/item?id=32796191"
+    ],
+    [
+      "Modulating Brain Function with Microbiota",
+      "https://www.science.org/doi/10.1126/science.abo4220"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 01:54:50",
+      "https://news.ycombinator.com/item?id=32796177"
+    ],
+    [
+      "How does the land use of different electricity sources compare?",
+      "https://ourworldindata.org/land-use-per-energy-source"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 01:09:56",
       "https://news.ycombinator.com/item?id=32795970"
     ],
@@ -17,16 +77,6 @@
     [
       "Why Empty Offices Are Becoming Apartments in Texas’s Big Cities",
       "https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 23:58:59",
-      "https://news.ycombinator.com/item?id=32795571"
-    ],
-    [
-      "(Changes to grep) Time To Stop Using egrep and fgrep Commands, Per GNU grep 3.8",
-      "https://www.phoronix.com/news/GNU-Grep-3.8-Stop-egrep-fgrep"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2022-09-10, 21:56:20",
-      "https://news.ycombinator.com/item?id=32794878"
-    ],
-    [
-      "Speeding up Prettier locally using the new –cache CLI option",
-      "https://prettier.io/blog/2022/06/14/2.7.0.html"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 21:35:58",
       "https://news.ycombinator.com/item?id=32794757"
     ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32794673"
     ],
     [
-      "No, Most Books Don't Sell Only a Dozen Copies",
+      "Most books don't sell only a dozen copies",
       "https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen"
     ]
   ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2022-09-10, 14:22:05",
-      "https://news.ycombinator.com/item?id=32790912"
-    ],
-    [
-      "Profession (1957)",
-      "https://www.abelard.org/asimov.php"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 13:34:41",
-      "https://news.ycombinator.com/item?id=32790478"
-    ],
-    [
-      "iPhone 14 Pro comes with dual-frequency GPS",
-      "https://www.apple.com/iphone-14-pro/specs/"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 13:30:06",
       "https://news.ycombinator.com/item?id=32790429"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
-      "2022-09-10, 11:19:02",
-      "https://news.ycombinator.com/item?id=32789617"
+      "2022-09-10, 05:24:51",
+      "https://news.ycombinator.com/item?id=32788047"
     ],
     [
-      "Infinite Scrolling: When to Use It, When to Avoid It",
-      "https://www.nngroup.com/articles/infinite-scrolling-tips/"
+      "Beneath Every Poet, a Criminal Lurks (2019)",
+      "https://lithub.com/beneath-every-poet-a-criminal-lurks/"
     ]
   ],
   [
     [
-      "2022-09-10, 05:14:20",
-      "https://news.ycombinator.com/item?id=32787985"
+      "2022-09-10, 01:01:22",
+      "https://news.ycombinator.com/item?id=32786656"
     ],
     [
-      "Loose Talk (2021)",
-      "https://www.lrb.co.uk/the-paper/v43/n21/steven-shapin/loose-talk"
+      "Cannon Smash (2003)",
+      "http://cannonsmash.sourceforge.net/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2022-09-09, 14:45:15",
-      "https://news.ycombinator.com/item?id=32779876"
-    ],
-    [
-      "Carousel of Happiness",
-      "https://www.carouselofhappiness.org/"
-    ]
-  ],
-  [
-    [
       "2022-09-09, 11:56:30",
       "https://news.ycombinator.com/item?id=32778048"
     ],
@@ -277,16 +287,6 @@
     [
       "NeuralPi: Raspberry Pi guitar pedal using neural networks",
       "https://github.com/GuitarML/NeuralPi"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 10:05:50",
-      "https://news.ycombinator.com/item?id=32777411"
-    ],
-    [
-      "The Death of Personality (2017)",
-      "https://tdarb.org/blog/death-of-personality.html"
     ]
   ],
   [
