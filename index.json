@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-11, 13:16:01",
+      "https://news.ycombinator.com/item?id=32799358"
+    ],
+    [
+      "Show HN: Chard – simple async/await background tasks for Django",
+      "https://github.com/drpancake/chard"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 12:52:51",
+      "https://news.ycombinator.com/item?id=32799221"
+    ],
+    [
+      "Duck Spam: Start Using Your Duck Address",
+      "https://news.ycombinator.com/item?id=32799221"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 12:50:19",
+      "https://news.ycombinator.com/item?id=32799205"
+    ],
+    [
+      "Declarative GUI with constraints-based layout engine for Python",
+      "https://github.com/nucleic/enaml"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 12:35:52",
       "https://news.ycombinator.com/item?id=32799131"
     ],
     [
       "Revamped German stellarator should run longer, hotter and compete with tokamaks",
       "https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 12:35:40",
+      "https://news.ycombinator.com/item?id=32799128"
+    ],
+    [
+      "You Can't Do That: Abstracting over Ownership in Rust with HRTBs. Or Can You?",
+      "https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2022-09-11, 06:23:27",
-      "https://news.ycombinator.com/item?id=32797286"
-    ],
-    [
-      "Cheapest domain you can register for 10 years",
-      "https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 05:26:09",
       "https://news.ycombinator.com/item?id=32797057"
     ],
@@ -157,16 +187,6 @@
     [
       "The case for building something wonderful alone",
       "https://derw.substack.com/p/the-case-for-building-something-wonderful"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 01:58:52",
-      "https://news.ycombinator.com/item?id=32796191"
-    ],
-    [
-      "Modulating Brain Function with Microbiota",
-      "https://www.science.org/doi/10.1126/science.abo4220"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-09-10, 13:30:05",
-      "https://news.ycombinator.com/item?id=32790428"
-    ],
-    [
-      "Visual effects for the Indian blockbuster “RRR”",
-      "https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 06:24:28",
       "https://news.ycombinator.com/item?id=32788339"
     ],
@@ -237,16 +247,6 @@
     [
       "Real Life Magazine: 2016-2022",
       "https://reallifemag.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 00:19:00",
-      "https://news.ycombinator.com/item?id=32786426"
-    ],
-    [
-      "A Retro Nethack Interface",
-      "https://nethack.glitch.me/?retro=true"
     ]
   ],
   [
