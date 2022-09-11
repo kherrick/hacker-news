@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-11, 06:59:35",
+      "https://news.ycombinator.com/item?id=32797430"
+    ],
+    [
+      "Finland will be self-sufficient in electricity within a year or two",
+      "https://yle.fi/news/3-12618297"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 06:23:27",
       "https://news.ycombinator.com/item?id=32797286"
     ],
@@ -287,16 +297,6 @@
     [
       "NeuralPi: Raspberry Pi guitar pedal using neural networks",
       "https://github.com/GuitarML/NeuralPi"
-    ]
-  ],
-  [
-    [
-      "2022-09-09, 04:35:37",
-      "https://news.ycombinator.com/item?id=32775339"
-    ],
-    [
-      "Tipi – A personal homeserver for everyone",
-      "https://github.com/meienberger/runtipi"
     ]
   ]
 ]
