@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-12, 17:01:09",
+      "https://news.ycombinator.com/item?id=32813171"
+    ],
+    [
+      "ReadMe (YC W15) is hiring a product manager who loves APIs",
+      "https://readme.com/careers#product-lead"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 16:40:38",
+      "https://news.ycombinator.com/item?id=32812884"
+    ],
+    [
+      "Who Cares About Diversity?",
+      "https://fakenous.substack.com/p/who-cares-about-diversity"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 16:21:56",
       "https://news.ycombinator.com/item?id=32812609"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2022-09-12, 16:02:12",
+      "https://news.ycombinator.com/item?id=32812328"
+    ],
+    [
+      "Bikes, Not Self Driving Cars, Are the Technological Gateway to Urban Progress",
+      "https://nextcity.org/urbanist-news/bikes-not-self-driving-cars-are-the-technological-gateway-to-progress"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 15:22:27",
       "https://news.ycombinator.com/item?id=32811723"
     ],
     [
       "Online art communities begin banning AI-generated images",
       "https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 15:05:40",
-      "https://news.ycombinator.com/item?id=32811434"
-    ],
-    [
-      "Ask HN: Who is building credit card size tracker using U1 spec?",
-      "https://news.ycombinator.com/item?id=32811434"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2022-09-12, 14:30:02",
-      "https://news.ycombinator.com/item?id=32810866"
-    ],
-    [
-      "Maps from The End of the World Is Just the Beginning",
-      "https://zeihan.com/end-of-the-world-maps/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 14:26:48",
       "https://news.ycombinator.com/item?id=32810807"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32810678"
     ],
     [
-      "A Syntactic Theory of Software Architecture (1995) [pdf]",
+      "A syntactic theory of software architecture (1995) [pdf]",
       "https://www.panda.sys.t.u-tokyo.ac.jp/kushiro/ReferencePaper/Pattern&Framework/00385969.pdf"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32810515"
     ],
     [
-      "Use Plain-Text Email",
+      "Use plain-text email",
       "https://useplaintext.email/"
     ]
   ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2022-09-12, 13:25:12",
+      "https://news.ycombinator.com/item?id=32809833"
+    ],
+    [
+      "Should we let cars use the road as a projection screen?",
+      "https://www.autocar.co.uk/car-news/technology/should-we-let-cars-use-road-projection-screen"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 13:24:25",
       "https://news.ycombinator.com/item?id=32809817"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2022-09-12, 13:01:24",
-      "https://news.ycombinator.com/item?id=32809498"
-    ],
-    [
-      "Libre Office has 10k followers on Mastodon",
-      "https://blog.documentfoundation.org/blog/2022/09/12/10000-followers-on-mastodon/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 12:57:31",
       "https://news.ycombinator.com/item?id=32809457"
     ],
     [
       "Cancer breakthrough is a ‘wake-up’ call on danger of air pollution",
       "https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 12:55:40",
-      "https://news.ycombinator.com/item?id=32809428"
-    ],
-    [
-      "Bauble: A playground for making art with Lisp and math",
-      "https://github.com/ianthehenry/bauble"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Handbook for Writers (2015)",
       "https://saylordotorg.github.io/text_handbook-for-writers/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:18:06",
+      "https://news.ycombinator.com/item?id=32809042"
+    ],
+    [
+      "Intel says one of its 13th Gen CPUs will hit 6GHz out of the box",
+      "https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=32799058"
     ],
     [
-      "Write Your Own Task Queue",
+      "Write your own task queue",
       "https://danpalmer.me/2022-09-10-write-your-own-task-queue/"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32796051"
     ],
     [
-      "Companies Are Hacking Their Way Around the Chip Shortage",
+      "Companies are hacking their way around the chip shortage",
       "https://www.wired.com/story/chip-shortage-hacks/"
     ]
   ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=32792959"
     ],
     [
-      "Legendary Film Critic Serge Daney on Coppola’s ‘Apocalypse Now’",
+      "Serge Daney on Coppola’s Apocalypse Now (1979)",
       "https://thereader.mitpress.mit.edu/legendary-film-critic-serge-daney-on-apocalypse-now/"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 17:00:00",
-      "https://news.ycombinator.com/item?id=32792399"
-    ],
-    [
-      "How Mathematics Changed Me",
-      "https://www.newyorker.com/culture/culture-desk/how-mathematics-changed-me"
     ]
   ],
   [
