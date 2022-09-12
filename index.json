@@ -1,22 +1,52 @@
 [
   [
     [
+      "2022-09-12, 03:00:16",
+      "https://news.ycombinator.com/item?id=32805589"
+    ],
+    [
+      "~7% speedup from switch to +=",
+      "https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 02:27:07",
+      "https://news.ycombinator.com/item?id=32805361"
+    ],
+    [
+      "It Works!",
+      "http://pn./"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 02:21:12",
+      "https://news.ycombinator.com/item?id=32805334"
+    ],
+    [
+      "MVP.css – Minimalist stylesheet for HTML elements",
+      "https://andybrewer.github.io/mvp/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 01:31:49",
+      "https://news.ycombinator.com/item?id=32804936"
+    ],
+    [
+      "Sham investigations silence professors at Central Florida and Princeton",
+      "https://www.thefire.org/a-tale-of-two-pretexts-sham-investigations-silence-professors-at-central-florida-and-princeton/"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 01:02:11",
       "https://news.ycombinator.com/item?id=32804695"
     ],
     [
       "One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed",
       "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 00:52:35",
-      "https://news.ycombinator.com/item?id=32804648"
-    ],
-    [
-      "Grocery bag comparisons of environmental impact",
-      "https://ourworldindata.org/grapher/grocery-bag-environmental-impact"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       ".ai",
       "http://www.ai?"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 21:55:13",
-      "https://news.ycombinator.com/item?id=32803649"
-    ],
-    [
-      "Show HN: Hacker News bot that automated archive finding and commenting",
-      "https://github.com/ShlomoStept/hn_bot"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2022-09-11, 14:21:57",
-      "https://news.ycombinator.com/item?id=32799847"
+      "2022-09-11, 13:35:31",
+      "https://news.ycombinator.com/item?id=32799511"
     ],
     [
-      "Slovenian OS/2 Warp 4",
-      "http://www.os2museum.com/wp/slovenian-os-2-warp-4/"
+      "The dumbest way to solve a maze [video]",
+      "https://www.youtube.com/watch?v=BvwgdrC8vlE"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-11, 12:35:52",
-      "https://news.ycombinator.com/item?id=32799131"
+      "2022-09-11, 07:57:05",
+      "https://news.ycombinator.com/item?id=32797679"
     ],
     [
-      "Revamped German stellarator should run longer, hotter and compete with tokamaks",
-      "https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 11:59:04",
-      "https://news.ycombinator.com/item?id=32798891"
-    ],
-    [
-      "Show HN: HiFiScan, a Python app to optimize your loudspeakers",
-      "https://github.com/erdewit/HiFiScan"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 11:47:07",
-      "https://news.ycombinator.com/item?id=32798826"
-    ],
-    [
-      "Teaching C (2016)",
-      "https://blog.regehr.org/archives/1393"
+      "Evolution and Revolution as Organizations Grow (1972)",
+      "https://hbr.org/1998/05/evolution-and-revolution-as-organizations-grow"
     ]
   ],
   [
