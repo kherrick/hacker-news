@@ -1,32 +1,12 @@
 [
   [
     [
-      "2022-09-12, 04:44:46",
-      "https://news.ycombinator.com/item?id=32806179"
-    ],
-    [
-      "Ask HN: Why hasn't the Deep Learning community embraced Julia yet?",
-      "https://news.ycombinator.com/item?id=32806179"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 03:56:52",
       "https://news.ycombinator.com/item?id=32805922"
     ],
     [
       "Federal Judge Halts Arizona Ban on Filming Police Within 8 Feet",
       "https://petapixel.com/2022/09/10/federal-judge-halts-arizona-ban-on-filming-police-within-8-feet/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 03:00:16",
-      "https://news.ycombinator.com/item?id=32805589"
-    ],
-    [
-      "Speedup from switch to +=",
-      "https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2022-09-11, 14:21:57",
+      "https://news.ycombinator.com/item?id=32799847"
+    ],
+    [
+      "Slovenian OS/2 Warp 4",
+      "http://www.os2museum.com/wp/slovenian-os-2-warp-4/"
+    ]
+  ],
+  [
+    [
       "2022-09-11, 13:35:31",
       "https://news.ycombinator.com/item?id=32799511"
     ],
@@ -247,6 +237,16 @@
     [
       "Connectix QuickCam: The First Webcam",
       "https://computeradsfromthepast.substack.com/p/connectix-quickcam"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 23:04:15",
+      "https://news.ycombinator.com/item?id=32795269"
+    ],
+    [
+      "Macro-Embedding Compiler Intermediate Languages in Racket [pdf]",
+      "https://williamjbowman.com/resources/wjb2022-hashlang-x64.pdf"
     ]
   ],
   [
