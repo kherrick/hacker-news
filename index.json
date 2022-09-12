@@ -1,22 +1,22 @@
 [
   [
     [
+      "2022-09-12, 17:12:44",
+      "https://news.ycombinator.com/item?id=32813358"
+    ],
+    [
+      "How to Learn Modern Rust",
+      "https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 17:01:09",
       "https://news.ycombinator.com/item?id=32813171"
     ],
     [
       "ReadMe (YC W15) is hiring a product manager who loves APIs",
       "https://readme.com/careers#product-lead"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 16:40:38",
-      "https://news.ycombinator.com/item?id=32812884"
-    ],
-    [
-      "Who Cares About Diversity?",
-      "https://fakenous.substack.com/p/who-cares-about-diversity"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32812328"
     ],
     [
-      "Bikes, Not Self Driving Cars, Are the Technological Gateway to Urban Progress",
+      "Bikes, not self driving cars, are the technological gateway to urban progress",
       "https://nextcity.org/urbanist-news/bikes-not-self-driving-cars-are-the-technological-gateway-to-progress"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Online art communities begin banning AI-generated images",
       "https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 15:13:03",
+      "https://news.ycombinator.com/item?id=32811568"
+    ],
+    [
+      "The PyTorch Foundation",
+      "https://ai.facebook.com/blog/pytorch-foundation/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2022-09-12, 12:57:31",
-      "https://news.ycombinator.com/item?id=32809457"
-    ],
-    [
-      "Cancer breakthrough is a ‘wake-up’ call on danger of air pollution",
-      "https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 12:40:41",
       "https://news.ycombinator.com/item?id=32809239"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2022-09-10, 16:19:59",
-      "https://news.ycombinator.com/item?id=32791978"
-    ],
-    [
-      "A look inside Feynman’s calculus notebook",
-      "https://physicstoday.scitation.org/do/10.1063/PT.5.9099/full/"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 10:35:03",
       "https://news.ycombinator.com/item?id=32789382"
     ],
     [
       "Questions about the hard limits of human intelligence",
       "https://aeon.co/essays/ten-questions-about-the-hard-limits-of-human-intelligence"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 08:45:11",
+      "https://news.ycombinator.com/item?id=32788965"
+    ],
+    [
+      "Twine is an open-source tool for telling interactive, nonlinear stories",
+      "https://twinery.org/"
     ]
   ]
 ]
