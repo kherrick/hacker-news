@@ -1,11 +1,41 @@
 [
   [
     [
+      "2022-09-12, 04:44:46",
+      "https://news.ycombinator.com/item?id=32806179"
+    ],
+    [
+      "Ask HN: Why hasn't the Deep Learning community embraced Julia yet?",
+      "https://news.ycombinator.com/item?id=32806179"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 04:33:44",
+      "https://news.ycombinator.com/item?id=32806127"
+    ],
+    [
+      "Why Boys and Men?",
+      "https://ofboysandmen.substack.com/p/why-boys-and-men"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 04:22:47",
+      "https://news.ycombinator.com/item?id=32806068"
+    ],
+    [
+      "Ask HN: Those making $500/month on side projects in 2022 – Show and tell",
+      "https://news.ycombinator.com/item?id=32806068"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 03:00:16",
       "https://news.ycombinator.com/item?id=32805589"
     ],
     [
-      "~7% speedup from switch to +=",
+      "Speedup from switch to +=",
       "https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500"
     ]
   ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32805361"
     ],
     [
-      "It Works!",
+      "http://pn./",
       "http://pn./"
     ]
   ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2022-09-12, 01:31:49",
-      "https://news.ycombinator.com/item?id=32804936"
+      "2022-09-12, 01:18:38",
+      "https://news.ycombinator.com/item?id=32804832"
     ],
     [
-      "Sham investigations silence professors at Central Florida and Princeton",
-      "https://www.thefire.org/a-tale-of-two-pretexts-sham-investigations-silence-professors-at-central-florida-and-princeton/"
+      "Ask HN: How do you find the weird parts of the web?",
+      "https://news.ycombinator.com/item?id=32804832"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32804695"
     ],
     [
-      "One-Click Install Stable Diffusion GUI App for M1 Mac. No Dependencies Needed",
+      "Diffusion Bee: Stable Diffusion GUI App for M1 Mac",
       "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32804468"
     ],
     [
-      "There are two kinds of happiness. Choose wisely",
+      "Choosing happiness",
       "https://humbledollar.com/2022/09/choosing-happiness/"
     ]
   ],
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2022-09-11, 15:42:58",
-      "https://news.ycombinator.com/item?id=32800571"
-    ],
-    [
-      "Open source, cross-platform, low latency, user-mode tablet driver",
-      "https://github.com/OpenTabletDriver/OpenTabletDriver"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 15:32:38",
-      "https://news.ycombinator.com/item?id=32800484"
-    ],
-    [
-      "Tell HN: Sudden Chile daylight savings time rules change causes chaos",
-      "https://news.ycombinator.com/item?id=32800484"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 15:25:26",
       "https://news.ycombinator.com/item?id=32800421"
     ],
@@ -221,42 +231,22 @@
   ],
   [
     [
-      "2022-09-11, 13:04:06",
-      "https://news.ycombinator.com/item?id=32799285"
-    ],
-    [
-      "Cirrus Vision Jet Pilot Pulls Chute in Florida",
-      "https://www.flyingmag.com/cirrus-vision-jet-pilot-pulls-chute-in-florida/"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 12:50:19",
-      "https://news.ycombinator.com/item?id=32799205"
-    ],
-    [
-      "Declarative GUI with constraints-based layout engine for Python",
-      "https://github.com/nucleic/enaml"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 07:57:05",
-      "https://news.ycombinator.com/item?id=32797679"
-    ],
-    [
-      "Evolution and Revolution as Organizations Grow (1972)",
-      "https://hbr.org/1998/05/evolution-and-revolution-as-organizations-grow"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 02:51:45",
       "https://news.ycombinator.com/item?id=32796442"
     ],
     [
       "Connectix QuickCam: The First Webcam",
       "https://computeradsfromthepast.substack.com/p/connectix-quickcam"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 17:50:00",
+      "https://news.ycombinator.com/item?id=32792862"
+    ],
+    [
+      "My slightly mad quest for the perfect spoon",
+      "https://www.ft.com/content/22379db2-13da-4f76-8035-d2074bdacd61"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "What you need to build a Greek temple",
       "https://antigonejournal.com/2022/09/how-build-greek-temple/"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 16:19:59",
+      "https://news.ycombinator.com/item?id=32791978"
+    ],
+    [
+      "A look inside Feynman’s calculus notebook",
+      "https://physicstoday.scitation.org/do/10.1063/PT.5.9099/full/"
     ]
   ],
   [
