@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-09-12, 09:36:54",
-      "https://news.ycombinator.com/item?id=32807800"
+      "2022-09-12, 09:55:56",
+      "https://news.ycombinator.com/item?id=32807903"
     ],
     [
-      "Ask HN: Why is pay so much higher in the US? (or is it?)",
-      "https://news.ycombinator.com/item?id=32807800"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 09:21:33",
-      "https://news.ycombinator.com/item?id=32807730"
-    ],
-    [
-      "What would be your “perfect” programming language?",
-      "https://news.ycombinator.com/item?id=32807730"
+      "Exploring FPGA Graphics",
+      "https://projectf.io/posts/fpga-graphics/"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=32807615"
     ],
     [
-      "Hans Niemann Says He Is Being Unfairly Attacked in Chess Scandal",
+      "Hans Niemann says he is being unfairly attacked in chess scandal",
       "https://www.vice.com/en/article/v7v38y/the-silence-of-my-critics-speaks-for-itself-hans-niemann-says-he-is-being-unfairly-attacked-in-chess-scandal"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=32807601"
     ],
     [
-      "Proposal: support SQLite in WordPress",
+      "Let’s make WordPress officially support SQLite",
       "https://make.wordpress.org/core/2022/09/12/lets-make-wordpress-officially-support-sqlite/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32807444"
     ],
     [
-      "Making your own e-paper dashboard for home from scratch",
+      "Making your own e-paper dashboard for home from scratch (2021) (2021)",
       "https://lengrand.fr/complete-setup-epaper/"
     ]
   ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32807180"
     ],
     [
-      "The link between personality and success – Combining introverts and extroverts",
+      "The link between personality and success (2021)",
       "https://www.economist.com/business/2021/03/18/the-link-between-personality-and-success"
     ]
   ],
@@ -115,8 +105,18 @@
       "https://news.ycombinator.com/item?id=32803354"
     ],
     [
-      "DIY Dial Caliper Repair Guide (Mitutoyo, Starrett, Browne & Sharpe)",
+      "Dial Caliper Repair",
       "http://www.longislandindicator.com/p44.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 19:20:01",
+      "https://news.ycombinator.com/item?id=32802432"
+    ],
+    [
+      "What's Salesforce? (2021)",
+      "https://retool.com/blog/salesforce-for-engineers/"
     ]
   ],
   [
