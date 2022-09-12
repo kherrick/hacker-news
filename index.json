@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-12, 20:40:09",
+      "https://news.ycombinator.com/item?id=32816609"
+    ],
+    [
+      "Intel Hyperscan is a high-performance multiple regex matching library",
+      "http://intel.github.io/hyperscan/dev-reference/"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 18:54:12",
       "https://news.ycombinator.com/item?id=32815066"
     ],
     [
       "The relationship between plant-based diet and risk of digestive system cancers",
       "https://pubmed.ncbi.nlm.nih.gov/35719615/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 18:50:48",
+      "https://news.ycombinator.com/item?id=32814999"
+    ],
+    [
+      "The many problems with implementing Single Sign-On",
+      "https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-12, 12:19:21",
-      "https://news.ycombinator.com/item?id=32809058"
-    ],
-    [
-      "Handbook for Writers (2015)",
-      "https://saylordotorg.github.io/text_handbook-for-writers/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 12:18:06",
       "https://news.ycombinator.com/item?id=32809042"
     ],
@@ -257,16 +267,6 @@
     [
       "Coffee with Brian Kernighan [video]",
       "https://www.youtube.com/watch?v=GNyQxXw_oMQ"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 12:26:18",
-      "https://news.ycombinator.com/item?id=32799058"
-    ],
-    [
-      "Write your own task queue",
-      "https://danpalmer.me/2022-09-10-write-your-own-task-queue/"
     ]
   ],
   [
