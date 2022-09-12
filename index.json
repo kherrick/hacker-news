@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-09-12, 16:21:56",
+      "https://news.ycombinator.com/item?id=32812609"
+    ],
+    [
+      "EDI vs. API",
+      "https://support.edifabric.com/hc/en-us/articles/6738567109277-EDI-vs-API"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 15:22:27",
       "https://news.ycombinator.com/item?id=32811723"
     ],
     [
-      "Online Art Communities Begin Banning AI-Generated Images",
+      "Online art communities begin banning AI-generated images",
       "https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32811182"
     ],
     [
-      "Apple’s Next Big Thing: A Business Model Change",
+      "Apple’s next big thing: A business model change",
       "https://mondaynote.com/apples-next-big-thing-a-business-model-change-e9b0145500c9?gi=176846fdbc6d"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32811088"
     ],
     [
-      "Intel’s Meteor Lake Chiplets, Compared to AMD’s – Chips and Cheese",
+      "Intel’s Meteor Lake Chiplets, Compared to AMD’s",
       "https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32810866"
     ],
     [
-      "Maps from “The End of the World Is Just the Beginning”",
+      "Maps from The End of the World Is Just the Beginning",
       "https://zeihan.com/end-of-the-world-maps/"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32810433"
     ],
     [
-      "Tunis: A Unix Lookalike OS Written in a Pascal Derivative, Concurrent Euclid",
+      "An Overview of TUNIS: A UNIX Look-Alike Written in Concurrent Euclid (1982)",
       "https://archive.org/details/technicalreportc140univ"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=32809790"
     ],
     [
-      "Why Julia 2.0 isn’t coming anytime soon (and why that is a good thing)",
+      "Julia 2.0 isn’t coming anytime soon, and why that is a good thing",
       "https://logankilpatrick.medium.com/why-julia-2-0-isnt-coming-anytime-soon-and-why-that-is-a-good-thing-641ae3d2a177"
     ]
   ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2022-09-12, 12:05:55",
-      "https://news.ycombinator.com/item?id=32808893"
-    ],
-    [
-      "FTC Investigating Amazon’s Acquisition of iRobot",
-      "https://www.therobotreport.com/ftc-investigating-amazon-acquisition-of-irobot/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 11:56:10",
       "https://news.ycombinator.com/item?id=32808808"
     ],
     [
       "The Follower: Using open cameras and AI to find how an Instagram photo is taken",
       "https://driesdepoorter.be/thefollower/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 10:44:21",
-      "https://news.ycombinator.com/item?id=32808229"
-    ],
-    [
-      "SQLite Doesn't Use Git",
-      "https://matt-rickard.com/sqlite-doesnt-use-git"
     ]
   ],
   [
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2022-09-12, 01:02:11",
-      "https://news.ycombinator.com/item?id=32804695"
+      "2022-09-11, 14:46:36",
+      "https://news.ycombinator.com/item?id=32800027"
     ],
     [
-      "Diffusion Bee: Stable Diffusion GUI App for M1 Mac",
-      "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"
+      "Can the American mall survive?",
+      "https://newrepublic.com/article/167260/can-american-mall-survive"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 12:26:18",
+      "https://news.ycombinator.com/item?id=32799058"
+    ],
+    [
+      "Write Your Own Task Queue",
+      "https://danpalmer.me/2022-09-10-write-your-own-task-queue/"
     ]
   ],
   [
