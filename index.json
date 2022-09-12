@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-12, 12:26:56",
+      "https://news.ycombinator.com/item?id=32809126"
+    ],
+    [
+      "Ladybird: A new cross-platform browser project",
+      "https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:05:55",
+      "https://news.ycombinator.com/item?id=32808893"
+    ],
+    [
+      "FTC Investigating Amazon’s Acquisition of iRobot",
+      "https://www.therobotreport.com/ftc-investigating-amazon-acquisition-of-irobot/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 11:44:34",
+      "https://news.ycombinator.com/item?id=32808690"
+    ],
+    [
+      "Emacs 28.2 Released",
+      "https://lists.gnu.org/archive/html/emacs-devel/2022-09/msg00730.html"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 11:25:27",
       "https://news.ycombinator.com/item?id=32808515"
     ],
     [
       "Tinder turns 10: what have we learned from a decade of dating apps?",
       "https://www.theguardian.com/news/audio/2022/aug/12/tinder-10-years-dating-apps-podcast"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 10:55:28",
+      "https://news.ycombinator.com/item?id=32808302"
+    ],
+    [
+      "Europe's Newest Nuclear Reactor Eases Finland's Power Problems",
+      "https://oilprice.com/Latest-Energy-News/World-News/Europes-Newest-Nuclear-Reactor-Eases-Finlands-Power-Problems.html"
     ]
   ],
   [
@@ -35,18 +75,8 @@
       "https://news.ycombinator.com/item?id=32808126"
     ],
     [
-      "Ask HN: Anyone hosting their own video's?",
+      "Ask HN: Anyone hosting their own videos?",
       "https://news.ycombinator.com/item?id=32808126"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 10:16:17",
-      "https://news.ycombinator.com/item?id=32808014"
-    ],
-    [
-      "Estonia’s inflation hit 25% year-on-year in August, energy prices to blame",
-      "https://estonianworld.com/business/estonias-inflation-hit-25-year-on-year-in-august-energy-prices-to-blame/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Let’s make WordPress officially support SQLite",
       "https://make.wordpress.org/core/2022/09/12/lets-make-wordpress-officially-support-sqlite/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 08:50:51",
+      "https://news.ycombinator.com/item?id=32807587"
+    ],
+    [
+      "Java Is Fast, If You Don’t Create Many Objects",
+      "http://blog.vanillajava.blog/2022/09/java-is-very-fast-if-you-dont-create.html"
     ]
   ],
   [
@@ -131,52 +171,12 @@
   ],
   [
     [
-      "2022-09-11, 21:18:07",
-      "https://news.ycombinator.com/item?id=32803354"
-    ],
-    [
-      "Dial Caliper Repair (2019)",
-      "http://www.longislandindicator.com/p44.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 19:15:02",
-      "https://news.ycombinator.com/item?id=32802402"
-    ],
-    [
-      "I learned to love testing game code",
-      "https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 19:03:27",
       "https://news.ycombinator.com/item?id=32802308"
     ],
     [
       "Common Lisp names all sixteen binary logic gates",
       "https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 19:02:49",
-      "https://news.ycombinator.com/item?id=32802302"
-    ],
-    [
-      "Perfecting WebGPU/Dawn native graphics for Zig",
-      "https://devlog.hexops.com/2022/perfecting-webgpu-native/"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 18:27:47",
-      "https://news.ycombinator.com/item?id=32802026"
-    ],
-    [
-      "Living Worlds in HTML5 (2012)",
-      "http://effectgames.com/demos/worlds/"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "The mystery of blue honey (2010)",
       "https://www.ourstate.com/blue-honey/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 14:24:58",
+      "https://news.ycombinator.com/item?id=32799872"
+    ],
+    [
+      "Atkinson Hyperlegible Font",
+      "https://brailleinstitute.org/freefont"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2022-09-11, 02:26:48",
+      "https://news.ycombinator.com/item?id=32796324"
+    ],
+    [
+      "Brickit scans your pile of bricks and gives you ideas, with instructions",
+      "https://brickit.app/"
+    ]
+  ],
+  [
+    [
       "2022-09-10, 23:04:15",
       "https://news.ycombinator.com/item?id=32795269"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2022-09-10, 17:35:01",
-      "https://news.ycombinator.com/item?id=32792732"
-    ],
-    [
-      "The Twisted Life of Clippy",
-      "https://www.seattlemet.com/news-and-city-life/2022/08/origin-story-of-clippy-the-microsoft-office-assistant"
-    ]
-  ],
-  [
-    [
       "2022-09-10, 17:00:00",
       "https://news.ycombinator.com/item?id=32792399"
     ],
     [
       "How Mathematics Changed Me",
       "https://www.newyorker.com/culture/culture-desk/how-mathematics-changed-me"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 16:20:37",
-      "https://news.ycombinator.com/item?id=32791986"
-    ],
-    [
-      "What you need to build a Greek temple",
-      "https://antigonejournal.com/2022/09/how-build-greek-temple/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-09-10, 11:34:21",
-      "https://news.ycombinator.com/item?id=32789698"
+      "2022-09-10, 10:35:03",
+      "https://news.ycombinator.com/item?id=32789382"
     ],
     [
-      "What exascale computing could mean for chemistry",
-      "https://cen.acs.org/physical-chemistry/computational-chemistry/exascale-computing-mean-chemistry/100/i31"
+      "Questions about the hard limits of human intelligence",
+      "https://aeon.co/essays/ten-questions-about-the-hard-limits-of-human-intelligence"
     ]
   ]
 ]
