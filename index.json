@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-13, 09:12:21",
+      "https://news.ycombinator.com/item?id=32822082"
+    ],
+    [
+      "A pair of Linux kernel modules using Rust",
+      "https://lwn.net/SubscriberLink/907685/0290fbfe1ba855ea/"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 08:30:28",
       "https://news.ycombinator.com/item?id=32821888"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2022-09-13, 08:09:55",
+      "https://news.ycombinator.com/item?id=32821761"
+    ],
+    [
+      "Jean-Luc Godard has died",
+      "https://www.lemonde.fr/en/obituaries/article/2022/09/13/jean-luc-godard-legendary-french-film-director-dies-aged-91_5996746_15.html"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 08:03:19",
       "https://news.ycombinator.com/item?id=32821724"
     ],
     [
       "HAProxy: How to temporary disable a back end server using the command line",
       "https://www.claudiokuenzler.com/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 07:57:52",
-      "https://news.ycombinator.com/item?id=32821699"
-    ],
-    [
-      "macOS leaves users vulnerable, and unaware of their vulnerability",
-      "https://eclecticlight.co/2022/09/13/how-macos-leaves-users-vulnerable-and-unaware-of-their-vulnerability/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Climate change: Six tipping points ‘likely’ to be crossed",
       "https://www.bbc.co.uk/news/science-environment-62838627"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 06:36:10",
+      "https://news.ycombinator.com/item?id=32821258"
+    ],
+    [
+      "The World’s First Hydrogen Trains Started Passenger Service in Germany",
+      "https://singularityhub.com/2022/09/12/the-worlds-first-hydrogen-trains-started-passenger-service-in-germany/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-12, 21:48:03",
-      "https://news.ycombinator.com/item?id=32817466"
-    ],
-    [
-      "Prenatal cannabis exposure associated with mental disorders in children",
-      "https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 21:15:41",
       "https://news.ycombinator.com/item?id=32817097"
     ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=32816990"
     ],
     [
-      "A development process startup founders should use to ship features weirdly fast",
+      "A development process to ship features fast",
       "https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Adobe Photoshop: Counterfeit deterrence system",
       "https://helpx.adobe.com/photoshop/cds.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 13:52:49",
-      "https://news.ycombinator.com/item?id=32799644"
-    ],
-    [
-      "Accurate prediction of (protein-)nucleic acid complexes using RoseTTAFoldNA",
-      "https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1"
     ]
   ],
   [
