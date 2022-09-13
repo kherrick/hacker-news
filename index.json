@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-13, 19:10:26",
+      "https://news.ycombinator.com/item?id=32828902"
+    ],
+    [
+      "Twitter Trackers Jeopardize Military Aircraft",
+      "https://www.usni.org/magazines/proceedings/2022/september/twitter-trackers-jeopardize-military-aircraft-0"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 19:03:08",
+      "https://news.ycombinator.com/item?id=32828799"
+    ],
+    [
+      "Show HN: Query SQLite files stored in S3",
+      "https://github.com/litements/s3sqlite"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 18:53:26",
       "https://news.ycombinator.com/item?id=32828669"
     ],
     [
-      "Increase: Become Your Own Bank",
+      "Increase: Banking API",
       "https://increase.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 18:46:21",
+      "https://news.ycombinator.com/item?id=32828584"
+    ],
+    [
+      "When to Use Bazel?",
+      "https://earthly.dev/blog/bazel-build/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32828309"
     ],
     [
-      "Mini Metroidvania in 13KB of JavaScript",
+      "Show HN: Mini Metroidvania in 13KB of JavaScript",
       "https://arineonshark.itch.io/infernal-throne"
     ]
   ],
@@ -75,18 +105,8 @@
       "https://news.ycombinator.com/item?id=32826437"
     ],
     [
-      "FB feed is 98% suggested pages and barely any friend's posts",
+      "FB feed is 98% suggested pages and barely any friends' posts",
       "https://old.reddit.com/r/facebook/comments/tvqddc/fb_feed_is_98_suggested_pages_and_barely_any/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 15:39:24",
-      "https://news.ycombinator.com/item?id=32825732"
-    ],
-    [
-      "X-Plane 12 Early Access",
-      "https://www.x-plane.com/desktop/buy-it/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-13, 09:56:49",
-      "https://news.ycombinator.com/item?id=32822313"
-    ],
-    [
-      "Don't compare yourself to other entrepreneurs",
-      "https://www.petecodes.io/dont-compare-yourself-to-others/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 08:09:55",
       "https://news.ycombinator.com/item?id=32821761"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2022-09-13, 05:15:17",
-      "https://news.ycombinator.com/item?id=32820894"
+      "2022-09-12, 19:57:28",
+      "https://news.ycombinator.com/item?id=32815994"
     ],
     [
-      "Is bin-opening in cockatoos leading to an innovation arms race with humans?",
-      "https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4"
+      "Show HN: IPDetective – An API for IP bot detection",
+      "https://ipdetective.io"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Enduring Allure of Choose Your Own Adventure Books",
       "https://www.newyorker.com/magazine/2022/09/19/the-enduring-allure-of-choose-your-own-adventure-books"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 11:38:10",
-      "https://news.ycombinator.com/item?id=32808637"
-    ],
-    [
-      "An enormous project attempted to map the sky without computers",
-      "https://arstechnica.com/science/2022/09/how-an-enormous-project-attempted-to-map-the-sky-without-computers/"
     ]
   ],
   [
