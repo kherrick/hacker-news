@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-13, 18:25:05",
+      "https://news.ycombinator.com/item?id=32828309"
+    ],
+    [
+      "Mini Metroidvania in 13KB of JavaScript",
+      "https://arineonshark.itch.io/infernal-throne"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 17:46:29",
       "https://news.ycombinator.com/item?id=32827762"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2022-09-13, 14:00:31",
-      "https://news.ycombinator.com/item?id=32824384"
+      "2022-09-13, 14:11:18",
+      "https://news.ycombinator.com/item?id=32824504"
     ],
     [
-      "Software fees to make up 10% of John Deere's revenues by 2030",
-      "https://www.theregister.com/2022/09/12/deere_software_revenues/"
+      "Mudge Twitter whistleblower testimony [video]",
+      "https://www.judiciary.senate.gov/meetings/data-security-at-risk-testimony-from-a-twitter-whistleblower"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "Show HN: pg_netstat, a Postgres extension to monitor database network traffic",
       "https://github.com/supabase/pg_netstat"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 12:46:14",
+      "https://news.ycombinator.com/item?id=32823548"
+    ],
+    [
+      "The search for dirt on Mudge",
+      "https://www.newyorker.com/news/news-desk/the-search-for-dirt-on-the-twitter-whistle-blower"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Jean-Luc Godard has died",
       "https://www.lemonde.fr/en/obituaries/article/2022/09/13/jean-luc-godard-legendary-french-film-director-dies-aged-91_5996746_15.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 08:03:19",
-      "https://news.ycombinator.com/item?id=32821724"
-    ],
-    [
-      "HAProxy: How to temporary disable a back end server using the command line",
-      "https://www.claudiokuenzler.com/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "An app can be a home-cooked meal (2020)",
       "https://www.robinsloan.com/notes/home-cooked-app/"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 07:57:36",
-      "https://news.ycombinator.com/item?id=32797681"
-    ],
-    [
-      "Chafa: Terminal Graphics for the 21st Century",
-      "https://github.com/hpjansson/chafa"
     ]
   ],
   [
