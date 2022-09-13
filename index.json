@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-13, 03:15:54",
+      "https://news.ycombinator.com/item?id=32820299"
+    ],
+    [
+      "The mysterious balancing stones on frozen lakes",
+      "https://physicstoday.scitation.org/doi/10.1063/PT.3.5088"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 01:32:26",
       "https://news.ycombinator.com/item?id=32819733"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2022-09-12, 12:40:41",
-      "https://news.ycombinator.com/item?id=32809239"
-    ],
-    [
-      "Serving a high-performance blog solely from memory, using Rust",
-      "https://xeiaso.net/talks/how-my-website-works"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 12:26:56",
       "https://news.ycombinator.com/item?id=32809126"
     ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2022-09-12, 12:18:06",
-      "https://news.ycombinator.com/item?id=32809042"
+      "2022-09-12, 07:21:46",
+      "https://news.ycombinator.com/item?id=32807077"
     ],
     [
-      "Intel says one of its 13th Gen CPUs will hit 6GHz out of the box",
-      "https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 11:56:10",
-      "https://news.ycombinator.com/item?id=32808808"
-    ],
-    [
-      "The Follower: Using open cameras and AI to find how an Instagram photo is taken",
-      "https://driesdepoorter.be/thefollower/"
+      "Try to Get Confused",
+      "https://shimmeringvoid.substack.com/p/try-to-get-confused"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "What is an LSM Tree (2021)",
       "https://creativcoder.dev/what-is-lsm-tree/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 11:16:00",
+      "https://news.ycombinator.com/item?id=32798668"
+    ],
+    [
+      "Mtime comparison considered harmful (2018)",
+      "https://apenwarr.ca/log/20181113"
     ]
   ],
   [
