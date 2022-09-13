@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-13, 18:45:13",
+      "https://news.ycombinator.com/item?id=32828569"
+    ],
+    [
+      "Byte Magazine: Declarative Languages (1985)",
+      "https://archive.org/details/byte-magazine-1985-08"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 18:25:05",
       "https://news.ycombinator.com/item?id=32828309"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2022-09-13, 14:27:23",
-      "https://news.ycombinator.com/item?id=32824698"
-    ],
-    [
-      "What Is Kubernetes HPA and How Can It Help You Save on the Cloud?",
-      "https://cast.ai/blog/what-is-kubernetes-hpa-and-how-can-it-help-you-save-on-the-cloud/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 14:11:18",
       "https://news.ycombinator.com/item?id=32824504"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-09-13, 09:12:21",
-      "https://news.ycombinator.com/item?id=32822082"
-    ],
-    [
-      "A pair of Linux kernel modules using Rust",
-      "https://lwn.net/SubscriberLink/907685/0290fbfe1ba855ea/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 08:09:55",
       "https://news.ycombinator.com/item?id=32821761"
     ],
@@ -227,6 +217,16 @@
     [
       "Is bin-opening in cockatoos leading to an innovation arms race with humans?",
       "https://www.cell.com/current-biology/fulltext/S0960-9822(22)01285-4"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 16:36:09",
+      "https://news.ycombinator.com/item?id=32812811"
+    ],
+    [
+      "MemLab: An open source framework for finding JavaScript memory leaks",
+      "https://engineering.fb.com/2022/09/12/open-source/memlab/"
     ]
   ],
   [
