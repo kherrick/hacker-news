@@ -1,12 +1,32 @@
 [
   [
     [
-      "2022-09-13, 14:06:04",
-      "https://news.ycombinator.com/item?id=32824451"
+      "2022-09-13, 14:40:27",
+      "https://news.ycombinator.com/item?id=32824872"
     ],
     [
-      "The SSD Edition: 2022 Drive Stats Mid-Year Review",
-      "https://www.backblaze.com/blog/ssd-drive-stats-mid-2022-review/"
+      "Senior Engineers Are Living in the Future",
+      "https://www.zerobanana.com/essays/living-in-the-future/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 14:27:23",
+      "https://news.ycombinator.com/item?id=32824698"
+    ],
+    [
+      "What Is Kubernetes HPA and How Can It Help You Save on the Cloud?",
+      "https://cast.ai/blog/what-is-kubernetes-hpa-and-how-can-it-help-you-save-on-the-cloud/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 14:11:18",
+      "https://news.ycombinator.com/item?id=32824504"
+    ],
+    [
+      "Mudge Twitter Whistleblower Testimony",
+      "https://www.judiciary.senate.gov/meetings/data-security-at-risk-testimony-from-a-twitter-whistleblower"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-09-13, 08:51:34",
-      "https://news.ycombinator.com/item?id=32821990"
-    ],
-    [
-      "Modula-2 Compilers on CP/M",
-      "https://techtinkering.com/articles/modula-2-compilers-on-cpm/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 08:43:29",
       "https://news.ycombinator.com/item?id=32821955"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2022-09-12, 23:31:15",
-      "https://news.ycombinator.com/item?id=32818746"
-    ],
-    [
-      "AI Content Generation, Part 1: Machine Learning Basics",
-      "https://www.jonstokes.com/p/ai-content-generation-part-1-machine"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 12:26:56",
-      "https://news.ycombinator.com/item?id=32809126"
-    ],
-    [
-      "Ladybird: A new cross-platform browser project",
-      "https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 11:47:45",
       "https://news.ycombinator.com/item?id=32808728"
     ],
@@ -257,6 +247,16 @@
     [
       "Software component names should be whimsical and cryptic",
       "https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 09:51:56",
+      "https://news.ycombinator.com/item?id=32807881"
+    ],
+    [
+      "Integer Conversions and Safe Comparisons in C++20",
+      "https://www.cppstories.com/2022/safe-int-cmp-cpp20/"
     ]
   ],
   [
