@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-09-13, 20:30:16",
-      "https://news.ycombinator.com/item?id=32829806"
-    ],
-    [
-      "Rust stabilizes generic associated types",
-      "https://github.com/rust-lang/rust/pull/96709"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 20:05:32",
       "https://news.ycombinator.com/item?id=32829553"
     ],
@@ -267,6 +257,16 @@
     [
       "MemLab: An open source framework for finding JavaScript memory leaks",
       "https://engineering.fb.com/2022/09/12/open-source/memlab/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 16:04:55",
+      "https://news.ycombinator.com/item?id=32812369"
+    ],
+    [
+      "Explaining modern server monitoring stacks for self-hosting",
+      "https://dataswamp.org/~solene/2022-09-11-exploring-monitoring-stacks.html"
     ]
   ],
   [
