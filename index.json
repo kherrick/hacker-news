@@ -1,12 +1,72 @@
 [
   [
     [
+      "2022-09-13, 01:32:26",
+      "https://news.ycombinator.com/item?id=32819733"
+    ],
+    [
+      "The strange behavior of sound through solids",
+      "https://www.ias.edu/news/2022/sound-through-solids"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 00:55:50",
+      "https://news.ycombinator.com/item?id=32819444"
+    ],
+    [
+      "A personal list of Rust grievances",
+      "https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 00:10:06",
+      "https://news.ycombinator.com/item?id=32819096"
+    ],
+    [
+      "Planning Go 1.20 Cryptography Work",
+      "https://words.filippo.io/dispatches/go1-20/"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 23:32:08",
       "https://news.ycombinator.com/item?id=32818755"
     ],
     [
-      "Li-Ion Battery Warehouse Fire Put Out with Portland Cement",
+      "Li-Ion Battery Warehouse Fire Put Out with Portland Cement (2021)",
       "https://abc7chicago.com/morris-fire-update-evacuation/10849672/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 23:31:15",
+      "https://news.ycombinator.com/item?id=32818746"
+    ],
+    [
+      "AI Content Generation, Part 1: Machine Learning Basics",
+      "https://www.jonstokes.com/p/ai-content-generation-part-1-machine"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 22:59:09",
+      "https://news.ycombinator.com/item?id=32818402"
+    ],
+    [
+      "SEC Charges VMware with Misleading Investors by Obscuring Financial Performance",
+      "https://www.sec.gov/news/press-release/2022-160"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 22:25:06",
+      "https://news.ycombinator.com/item?id=32817941"
+    ],
+    [
+      "Prompt injection attacks against GPT-3",
+      "https://simonwillison.net/2022/Sep/12/prompt-injection/"
     ]
   ],
   [
@@ -27,16 +87,6 @@
     [
       "Prenatal cannabis exposure associated with mental disorders in children",
       "https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 21:16:23",
-      "https://news.ycombinator.com/item?id=32817103"
-    ],
-    [
-      "Anti-royal protesters are being arrested in the U.K. as 'Not My King' tag grows",
-      "https://text.npr.org/1122379162"
     ]
   ],
   [
@@ -101,36 +151,6 @@
   ],
   [
     [
-      "2022-09-12, 20:40:09",
-      "https://news.ycombinator.com/item?id=32816609"
-    ],
-    [
-      "Intel Hyperscan is a high-performance multiple regex matching library",
-      "http://intel.github.io/hyperscan/dev-reference/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 20:37:31",
-      "https://news.ycombinator.com/item?id=32816568"
-    ],
-    [
-      "The world has more trees than it did 35 years ago (2021)",
-      "https://www.goodgoodgood.co/articles/the-world-has-more-trees-than-it-did-35-years-ago"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 18:09:49",
-      "https://news.ycombinator.com/item?id=32814409"
-    ],
-    [
-      "Benefits of ‘looping’ kids with teachers for multiple years",
-      "https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 16:40:01",
       "https://news.ycombinator.com/item?id=32812873"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2022-09-12, 16:21:56",
-      "https://news.ycombinator.com/item?id=32812609"
-    ],
-    [
-      "EDI vs. API",
-      "https://support.edifabric.com/hc/en-us/articles/6738567109277-EDI-vs-API"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 15:22:27",
       "https://news.ycombinator.com/item?id=32811723"
     ],
     [
       "Online art communities begin banning AI-generated images",
       "https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 14:43:58",
-      "https://news.ycombinator.com/item?id=32811088"
-    ],
-    [
-      "Intel’s Meteor Lake Chiplets, Compared to AMD’s",
-      "https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/"
     ]
   ],
   [
@@ -241,26 +241,6 @@
   ],
   [
     [
-      "2022-09-12, 11:37:20",
-      "https://news.ycombinator.com/item?id=32808629"
-    ],
-    [
-      "The Hardest Natural Languages (1979) [pdf]",
-      "https://people.cs.umass.edu/~rsnbrg/hardest.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 09:55:56",
-      "https://news.ycombinator.com/item?id=32807903"
-    ],
-    [
-      "Exploring FPGA Graphics",
-      "https://projectf.io/posts/fpga-graphics/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 07:05:28",
       "https://news.ycombinator.com/item?id=32806968"
     ],
@@ -271,22 +251,42 @@
   ],
   [
     [
-      "2022-09-12, 06:31:58",
-      "https://news.ycombinator.com/item?id=32806738"
-    ],
-    [
-      "Digital Caliper Pinouts (2010)",
-      "http://www.robotroom.com/Caliper-Digital-Data-Port.html"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 12:39:06",
       "https://news.ycombinator.com/item?id=32799147"
     ],
     [
       "Coffee with Brian Kernighan [video]",
       "https://www.youtube.com/watch?v=GNyQxXw_oMQ"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 11:27:26",
+      "https://news.ycombinator.com/item?id=32798732"
+    ],
+    [
+      "What is an LSM Tree (2021)",
+      "https://creativcoder.dev/what-is-lsm-tree/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 10:28:32",
+      "https://news.ycombinator.com/item?id=32798459"
+    ],
+    [
+      "The Inflated Promise of Science Education",
+      "https://bostonreview.net/articles/the-inflated-promise-of-science-education/"
+    ]
+  ],
+  [
+    [
+      "2022-09-10, 18:28:01",
+      "https://news.ycombinator.com/item?id=32793236"
+    ],
+    [
+      "Mitigating Orbital Debris by Shortening Time for Satellite Disposal",
+      "https://www.fcc.gov/document/mitigating-orbital-debris-shortening-time-satellite-disposal"
     ]
   ],
   [
