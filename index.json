@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-09-13, 13:39:03",
+      "https://news.ycombinator.com/item?id=32824130"
+    ],
+    [
+      "AiSupervision (YC W22) is hiring a back-end software engineer (Remote)",
+      "https://www.aisupervision.com/careers/back-end-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 13:33:44",
+      "https://news.ycombinator.com/item?id=32824054"
+    ],
+    [
+      "mRNA-LNP inhibits adaptive immune response, alters immune fitness inheritably",
+      "https://pubmed.ncbi.nlm.nih.gov/36054264/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 13:32:36",
+      "https://news.ycombinator.com/item?id=32824038"
+    ],
+    [
+      "The Last Person Standing in the Floppy Disk Business",
+      "https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 12:51:18",
       "https://news.ycombinator.com/item?id=32823589"
     ],
     [
       "Show HN: pg_netstat, a Postgres extension to monitor database network traffic",
       "https://github.com/supabase/pg_netstat"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 12:03:04",
-      "https://news.ycombinator.com/item?id=32823201"
-    ],
-    [
-      "Some New HTTP Verbs",
-      "https://shkspr.mobi/blog/2022/09/some-new-http-verbs/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32823118"
     ],
     [
-      "Cake: C23 Front End and Transpiler C23 – C99",
+      "Cake – A C23 compiler frond end written from scratch in C",
       "https://github.com/thradams/cake"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32822609"
     ],
     [
-      "Scala Isn't Fun Anymore",
+      "Scala isn't fun anymore",
       "https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/"
     ]
   ],
@@ -201,32 +221,22 @@
   ],
   [
     [
-      "2022-09-12, 23:31:15",
-      "https://news.ycombinator.com/item?id=32818746"
-    ],
-    [
-      "AI Content Generation, Part 1: Machine Learning Basics",
-      "https://www.jonstokes.com/p/ai-content-generation-part-1-machine"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 22:25:06",
-      "https://news.ycombinator.com/item?id=32817941"
-    ],
-    [
-      "Prompt injection attacks against GPT-3",
-      "https://simonwillison.net/2022/Sep/12/prompt-injection/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 12:26:56",
       "https://news.ycombinator.com/item?id=32809126"
     ],
     [
       "Ladybird: A new cross-platform browser project",
       "https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 11:47:45",
+      "https://news.ycombinator.com/item?id=32808728"
+    ],
+    [
+      "The Enduring Allure of Choose Your Own Adventure Books",
+      "https://www.newyorker.com/magazine/2022/09/19/the-enduring-allure-of-choose-your-own-adventure-books"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Software component names should be whimsical and cryptic",
       "https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 07:05:28",
-      "https://news.ycombinator.com/item?id=32806968"
-    ],
-    [
-      "Adobe Photoshop: Counterfeit deterrence system",
-      "https://helpx.adobe.com/photoshop/cds.html"
     ]
   ],
   [
