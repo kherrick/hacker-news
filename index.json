@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-13, 08:03:19",
+      "https://news.ycombinator.com/item?id=32821724"
+    ],
+    [
+      "HAProxy: How to temporary disable a back end server using the command line",
+      "https://gby.kakoku.online/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 07:23:04",
       "https://news.ycombinator.com/item?id=32821528"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2022-09-12, 22:59:09",
+      "https://news.ycombinator.com/item?id=32818402"
+    ],
+    [
+      "SEC charges VMware with misleading investors by obscuring financial performance",
+      "https://www.sec.gov/news/press-release/2022-160"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 22:25:06",
       "https://news.ycombinator.com/item?id=32817941"
     ],
@@ -177,16 +197,6 @@
     [
       "Benefits of ‘looping’ kids with teachers for multiple years",
       "https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 16:40:01",
-      "https://news.ycombinator.com/item?id=32812873"
-    ],
-    [
-      "The Protobuf Language Specification",
-      "https://buf.build/blog/protobuf-language-specification"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "COBOL’s youth culture",
       "https://techbeacon.com/app-dev-testing/cobols-youth-culture"
-    ]
-  ],
-  [
-    [
-      "2022-09-10, 08:45:11",
-      "https://news.ycombinator.com/item?id=32788965"
-    ],
-    [
-      "Twine is an open-source tool for telling interactive, nonlinear stories",
-      "https://twinery.org/"
     ]
   ]
 ]
