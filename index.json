@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-13, 08:30:28",
+      "https://news.ycombinator.com/item?id=32821888"
+    ],
+    [
+      "Entity Resolution: Reflections on the most common data science challenge",
+      "https://tilores.io/content/Entity-Resolution-Reflections-on-the-most-common-data-science-challenge"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 08:03:19",
       "https://news.ycombinator.com/item?id=32821724"
     ],
     [
       "HAProxy: How to temporary disable a back end server using the command line",
-      "https://gby.kakoku.online/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket"
+      "https://www.claudiokuenzler.com/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 07:57:52",
+      "https://news.ycombinator.com/item?id=32821699"
+    ],
+    [
+      "macOS leaves users vulnerable, and unaware of their vulnerability",
+      "https://eclecticlight.co/2022/09/13/how-macos-leaves-users-vulnerable-and-unaware-of-their-vulnerability/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 07:55:56",
+      "https://news.ycombinator.com/item?id=32821682"
+    ],
+    [
+      "Details on new free tier limits on gitlab.com",
+      "https://about.gitlab.com/pricing/faq-efficient-free-tier/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-09-12, 22:59:09",
-      "https://news.ycombinator.com/item?id=32818402"
-    ],
-    [
-      "SEC charges VMware with misleading investors by obscuring financial performance",
-      "https://www.sec.gov/news/press-release/2022-160"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 22:25:06",
       "https://news.ycombinator.com/item?id=32817941"
     ],
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2022-09-12, 18:09:49",
-      "https://news.ycombinator.com/item?id=32814409"
-    ],
-    [
-      "Benefits of ‘looping’ kids with teachers for multiple years",
-      "https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 12:26:56",
       "https://news.ycombinator.com/item?id=32809126"
     ],
     [
       "Ladybird: A new cross-platform browser project",
       "https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 10:11:47",
+      "https://news.ycombinator.com/item?id=32807979"
+    ],
+    [
+      "Algorithms in PHP: Deques",
+      "https://withinboredom.info/blog/2022/09/12/algorithms-in-php-deques-circular-buffers-linked-lists/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-09-11, 11:27:26",
-      "https://news.ycombinator.com/item?id=32798732"
-    ],
-    [
-      "What is an LSM Tree (2021)",
-      "https://creativcoder.dev/what-is-lsm-tree/"
-    ]
-  ],
-  [
-    [
       "2022-09-11, 11:16:00",
       "https://news.ycombinator.com/item?id=32798668"
     ],
     [
       "Mtime comparison considered harmful (2018)",
       "https://apenwarr.ca/log/20181113"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 10:28:32",
-      "https://news.ycombinator.com/item?id=32798459"
-    ],
-    [
-      "The inflated promise of science education",
-      "https://bostonreview.net/articles/the-inflated-promise-of-science-education/"
     ]
   ],
   [
