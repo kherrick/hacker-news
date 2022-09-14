@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-09-14, 17:00:03",
+      "https://news.ycombinator.com/item?id=32839972"
+    ],
+    [
+      "Patterns (YC S21) Is hiring devs to help us build the Figma for data",
+      "https://patterns.app/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 16:48:34",
+      "https://news.ycombinator.com/item?id=32839796"
+    ],
+    [
+      "Saturated fat: villain and bogeyman in development of cardiovascular disease?",
+      "https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwac194/6691821"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 16:36:24",
+      "https://news.ycombinator.com/item?id=32839626"
+    ],
+    [
+      "Discord adds new “Forum” channels",
+      "https://discord.com/blog/forum-channels-space-for-organized-conversation"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 16:30:03",
+      "https://news.ycombinator.com/item?id=32839542"
+    ],
+    [
+      "Why Racket? Why Lisp?",
+      "https://beautifulracket.com/appendix/why-racket-why-lisp.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 16:28:16",
+      "https://news.ycombinator.com/item?id=32839519"
+    ],
+    [
+      "Microsoft Teams stores auth tokens as cleartext in Windows, Linux, Macs",
+      "https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 16:26:50",
+      "https://news.ycombinator.com/item?id=32839493"
+    ],
+    [
+      "Carbon Footprint of Unwanted Data-Use by Smartphones",
+      "https://branch.climateaction.tech/issues/issue-3/carbon-footprint-of-unwanted-data-use-by-smartphones/"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 16:09:46",
       "https://news.ycombinator.com/item?id=32839193"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2022-09-14, 14:33:27",
-      "https://news.ycombinator.com/item?id=32837802"
-    ],
-    [
-      "Twilio to lay off 11% of workforce",
-      "https://www.cnbc.com/2022/09/14/twilio-to-lay-of-11percent-of-workforce.html"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 14:33:22",
       "https://news.ycombinator.com/item?id=32837800"
     ],
@@ -91,12 +141,12 @@
   ],
   [
     [
-      "2022-09-14, 14:03:32",
-      "https://news.ycombinator.com/item?id=32837345"
+      "2022-09-14, 14:17:43",
+      "https://news.ycombinator.com/item?id=32837565"
     ],
     [
-      "A message from Twilio CEO Jeff Lawson: 11% workforce cut",
-      "https://www.twilio.com/blog/a-message-from-twilio-ceo-jeff-lawson"
+      "Ever wondered how a QR code works?",
+      "https://typefully.com/DanHollick/qr-codes-T7tLlNi"
     ]
   ],
   [
@@ -151,52 +201,12 @@
   ],
   [
     [
-      "2022-09-14, 12:52:03",
-      "https://news.ycombinator.com/item?id=32836446"
-    ],
-    [
-      "io_uring_spawn: Launching New Processes with io_uring",
-      "https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 12:00:54",
-      "https://news.ycombinator.com/item?id=32835956"
-    ],
-    [
-      "Pachyderm Is Hiring Sales Engineers and Solutions Architects",
-      "https://www.pachyderm.com/careers/#positions"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 11:43:45",
       "https://news.ycombinator.com/item?id=32835806"
     ],
     [
       "Color fonts on Google Fonts",
       "https://material.io/blog/color-fonts-are-here"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 11:33:59",
-      "https://news.ycombinator.com/item?id=32835722"
-    ],
-    [
-      "Apache NetBeans 15",
-      "https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-15-released"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 10:15:37",
-      "https://news.ycombinator.com/item?id=32835190"
-    ],
-    [
-      "It's been a little over 3 weeks since Google randomly sent me $249,999",
-      "https://twitter.com/samwcyo/status/1569897392560050178"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Why car wheels are so flat these days",
       "https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 01:19:19",
-      "https://news.ycombinator.com/item?id=32832177"
-    ],
-    [
-      "Death by hockey sticks",
-      "https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/"
     ]
   ],
   [
