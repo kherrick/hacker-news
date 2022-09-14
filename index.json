@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-09-14, 16:09:46",
+      "https://news.ycombinator.com/item?id=32839193"
+    ],
+    [
+      "Starlink is now on all seven continents, enabled by its space laser network",
+      "https://twitter.com/SpaceX/status/1570073223005622274"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 16:06:13",
+      "https://news.ycombinator.com/item?id=32839147"
+    ],
+    [
+      "Dabbling with Dagster vs. Airflow",
+      "https://davidsj.substack.com/p/dabbling-with-dagster-part-1"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 15:34:40",
+      "https://news.ycombinator.com/item?id=32838673"
+    ],
+    [
+      "Show HN: Rentaflop – Render your Blender projects without sacrificing quality",
+      "https://news.ycombinator.com/item?id=32838673"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 15:21:44",
       "https://news.ycombinator.com/item?id=32838475"
     ],
     [
       "H-m-m (hackers mind map)",
       "https://github.com/nadrad/h-m-m"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 15:19:55",
-      "https://news.ycombinator.com/item?id=32838454"
-    ],
-    [
-      "Child Porn Allegations at Patreon After Security Team Fired",
-      "https://www.secjuice.com/patreon-fired-security-team-amid-child-porn-allegations/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-09-14, 11:13:45",
-      "https://news.ycombinator.com/item?id=32835576"
-    ],
-    [
-      "Selecting Meaningful Metrics with Goals and Signals",
-      "https://abseil.io/resources/swe-book/html/ch07.html#selecting_meaningful_metrics_with_goals"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 10:15:37",
       "https://news.ycombinator.com/item?id=32835190"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2022-09-14, 08:04:08",
-      "https://news.ycombinator.com/item?id=32834433"
-    ],
-    [
-      "Countersteering",
-      "https://en.wikipedia.org/wiki/Countersteering"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 03:40:31",
       "https://news.ycombinator.com/item?id=32833097"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2022-09-13, 11:57:05",
+      "https://news.ycombinator.com/item?id=32823145"
+    ],
+    [
+      "How Steve Sasson Invented the Digital Camera",
+      "https://petapixel.com/how-steve-sasson-invented-the-digital-camera/"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 04:58:25",
       "https://news.ycombinator.com/item?id=32820806"
     ],
     [
       "Writing A Lisp Interpreter In Haskell (2006)",
       "https://www.defmacro.org/ramblings/lisp-in-haskell.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 04:53:07",
-      "https://news.ycombinator.com/item?id=32820768"
-    ],
-    [
-      "Beyond the Liquid Tensor Experiment",
-      "https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/"
     ]
   ],
   [
