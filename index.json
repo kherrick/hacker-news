@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-14, 15:21:44",
+      "https://news.ycombinator.com/item?id=32838475"
+    ],
+    [
+      "H-m-m (hackers mind map)",
+      "https://github.com/nadrad/h-m-m"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 15:19:55",
+      "https://news.ycombinator.com/item?id=32838454"
+    ],
+    [
+      "Child Porn Allegations at Patreon After Security Team Fired",
+      "https://www.secjuice.com/patreon-fired-security-team-amid-child-porn-allegations/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 15:08:49",
+      "https://news.ycombinator.com/item?id=32838321"
+    ],
+    [
+      "What's New in Jakarta EE 10?",
+      "https://blog.payara.fish/whats-new-in-jakarta-ee-10"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 15:01:10",
       "https://news.ycombinator.com/item?id=32838225"
     ],
     [
       "Ask HN: How do I write a Linux driver for my 15 year old photo printer?",
       "https://news.ycombinator.com/item?id=32838225"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 14:35:11",
+      "https://news.ycombinator.com/item?id=32837829"
+    ],
+    [
+      "Show HN: StackAid – fund 100s of open source dependencies with one subscription",
+      "https://www.stackaid.us"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "Ask HN: Where are the good platforms for contract work?",
       "https://news.ycombinator.com/item?id=32837800"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 14:03:32",
+      "https://news.ycombinator.com/item?id=32837345"
+    ],
+    [
+      "A message from Twilio CEO Jeff Lawson: 11% workforce cut",
+      "https://www.twilio.com/blog/a-message-from-twilio-ceo-jeff-lawson"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2022-09-14, 09:43:49",
-      "https://news.ycombinator.com/item?id=32835000"
-    ],
-    [
-      "Google loses challenge against EU antitrust decision, wins 5% fine cut",
-      "https://www.reuters.com/technology/eu-courts-wed-ruling-record-44-bln-google-fine-may-set-precedent-2022-09-14/"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 08:12:09",
       "https://news.ycombinator.com/item?id=32834484"
     ],
@@ -221,52 +261,22 @@
   ],
   [
     [
-      "2022-09-14, 00:10:15",
-      "https://news.ycombinator.com/item?id=32831731"
-    ],
-    [
-      "Signing Git commits with your SSH key (2021)",
-      "https://calebhearth.com/sign-git-with-ssh"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 00:02:13",
-      "https://news.ycombinator.com/item?id=32831679"
-    ],
-    [
-      "W3.css – A minimal alternative to Bootstrap",
-      "https://www.w3schools.com/w3css/default.asp"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 22:21:22",
-      "https://news.ycombinator.com/item?id=32830916"
-    ],
-    [
-      "“Secrets” about the consumer audio business you may find interesting",
-      "https://www.audiosciencereview.com/forum/index.php?threads%2Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%2F"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 20:04:58",
-      "https://news.ycombinator.com/item?id=32829550"
-    ],
-    [
-      "The Lost Library of John Milton",
-      "https://www.english.cam.ac.uk/cmt/?p=6105"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 15:14:31",
       "https://news.ycombinator.com/item?id=32825377"
     ],
     [
       "Security and Correctness in Wasmtime",
       "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 04:58:25",
+      "https://news.ycombinator.com/item?id=32820806"
+    ],
+    [
+      "Writing A Lisp Interpreter In Haskell (2006)",
+      "https://www.defmacro.org/ramblings/lisp-in-haskell.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What’s the difference between Derek Jeter and preregistration?",
       "https://statmodeling.stat.columbia.edu/2022/09/12/whats-the-difference-between-derek-jeter-and-preregistration/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 12:19:00",
-      "https://news.ycombinator.com/item?id=32809056"
-    ],
-    [
-      "Oscar Niemeyer’s French communist party headquarters",
-      "https://interiordesign.net/projects/oscar-niemeyer-s-french-communist-party-headquarters-brings-a-sensual-brazilian-lilt-to-paris/"
     ]
   ]
 ]
