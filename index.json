@@ -1,6 +1,66 @@
 [
   [
     [
+      "2022-09-14, 01:19:19",
+      "https://news.ycombinator.com/item?id=32832177"
+    ],
+    [
+      "Death by Hockey Sticks",
+      "https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 00:14:12",
+      "https://news.ycombinator.com/item?id=32831757"
+    ],
+    [
+      "The transistor – or 25 miles on a hunk of Germanium (1953)",
+      "https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 00:10:15",
+      "https://news.ycombinator.com/item?id=32831731"
+    ],
+    [
+      "Signing Git Commits with Your SSH Key",
+      "https://calebhearth.com/sign-git-with-ssh"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 00:05:12",
+      "https://news.ycombinator.com/item?id=32831701"
+    ],
+    [
+      "Ask HN: What are examples of companies dying due to many people quitting?",
+      "https://news.ycombinator.com/item?id=32831701"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 00:02:13",
+      "https://news.ycombinator.com/item?id=32831679"
+    ],
+    [
+      "W3.css – A Minimal Alternative to Bootstrap",
+      "https://www.w3schools.com/w3css/default.asp"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 00:01:31",
+      "https://news.ycombinator.com/item?id=32831673"
+    ],
+    [
+      "What Gödel Discovered (in Lisp)",
+      "https://stopa.io/post/269"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 23:20:38",
       "https://news.ycombinator.com/item?id=32831386"
     ],
@@ -21,42 +81,12 @@
   ],
   [
     [
-      "2022-09-13, 21:18:10",
-      "https://news.ycombinator.com/item?id=32830294"
-    ],
-    [
-      "Show HN: BoldContacts – Mobile App for Alzheimer's, Parkinson's, ALS, MS, MD",
-      "https://github.com/SixArm/BoldContacts"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 21:00:39",
       "https://news.ycombinator.com/item?id=32830123"
     ],
     [
       "Contentedge (YC W17) is hiring to build AI content writing software for SEO",
       "https://www.contentedge.com/?pg=jobs"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 20:58:13",
-      "https://news.ycombinator.com/item?id=32830102"
-    ],
-    [
-      "Diablo 2, Diablo 4, and Single Player: An open letter to Blizzard",
-      "https://www.purediablo.com/diablo-2-diablo-4-and-single-player/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 20:57:09",
-      "https://news.ycombinator.com/item?id=32830085"
-    ],
-    [
-      "US Treasury FAQ on Cyber-Related Sanctions",
-      "https://home.treasury.gov/policy-issues/financial-sanctions/faqs/1076"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-09-13, 14:40:27",
-      "https://news.ycombinator.com/item?id=32824872"
-    ],
-    [
-      "Senior engineers are living in the future",
-      "https://www.zerobanana.com/essays/living-in-the-future/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 13:32:36",
       "https://news.ycombinator.com/item?id=32824038"
     ],
     [
       "The last person standing in the floppy disk business",
       "https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 12:51:18",
-      "https://news.ycombinator.com/item?id=32823589"
-    ],
-    [
-      "Show HN: pg_netstat, a Postgres extension to monitor database network traffic",
-      "https://github.com/supabase/pg_netstat"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2022-09-12, 16:53:58",
-      "https://news.ycombinator.com/item?id=32813059"
+      "2022-09-12, 16:17:55",
+      "https://news.ycombinator.com/item?id=32812549"
     ],
     [
-      "Is there any meaningful way to compare two Time Travel Debugging positions?",
-      "https://devblogs.microsoft.com/oldnewthing/20220905-00/?p=107107"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 16:36:09",
-      "https://news.ycombinator.com/item?id=32812811"
-    ],
-    [
-      "MemLab: An open source framework for finding JavaScript memory leaks",
-      "https://engineering.fb.com/2022/09/12/open-source/memlab/"
+      "Telephone Pictures (2017)",
+      "https://www.youtube.com/watch?v=fF8z14SiIKk"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2022-09-12, 12:03:03",
+      "https://news.ycombinator.com/item?id=32808875"
+    ],
+    [
+      "The Nevada national security site pt 1",
+      "https://computer.rip/2022-09-11-the-nevada-national-security-site-pt-1.html"
+    ]
+  ],
+  [
+    [
       "2022-09-12, 11:47:45",
       "https://news.ycombinator.com/item?id=32808728"
     ],
     [
       "The enduring allure of Choose Your Own Adventure books",
       "https://www.newyorker.com/magazine/2022/09/19/the-enduring-allure-of-choose-your-own-adventure-books"
-    ]
-  ],
-  [
-    [
-      "2022-09-11, 15:35:39",
-      "https://news.ycombinator.com/item?id=32800518"
-    ],
-    [
-      "An app can be a home-cooked meal (2020)",
-      "https://www.robinsloan.com/notes/home-cooked-app/"
     ]
   ]
 ]
