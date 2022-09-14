@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-14, 16:57:18",
+      "https://news.ycombinator.com/item?id=32839943"
+    ],
+    [
+      "DVD Bouncing Logo",
+      "https://www.google.com/search?q=dvd+bouncing+logo"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 16:48:34",
       "https://news.ycombinator.com/item?id=32839796"
     ],
@@ -37,16 +47,6 @@
     [
       "Why Racket? Why Lisp?",
       "https://beautifulracket.com/appendix/why-racket-why-lisp.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 16:28:16",
-      "https://news.ycombinator.com/item?id=32839519"
-    ],
-    [
-      "Microsoft Teams stores auth tokens as cleartext in Windows, Linux, Macs",
-      "https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32838475"
     ],
     [
-      "H-m-m (hackers mind map)",
+      "Hackers Mind Map",
       "https://github.com/nadrad/h-m-m"
     ]
   ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2022-09-14, 13:54:04",
-      "https://news.ycombinator.com/item?id=32837222"
-    ],
-    [
-      "Think Prometheus, but for logs (not metrics). Simple, efficient, fast log store",
-      "https://www.parseable.io/docs/introduction"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 13:11:50",
       "https://news.ycombinator.com/item?id=32836661"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2022-09-14, 12:02:00",
+      "https://news.ycombinator.com/item?id=32835966"
+    ],
+    [
+      "Privacy vs. “I have nothing to hide” (2019)",
+      "https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 11:43:45",
       "https://news.ycombinator.com/item?id=32835806"
     ],
     [
       "Color fonts on Google Fonts",
       "https://material.io/blog/color-fonts-are-here"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 09:51:43",
-      "https://news.ycombinator.com/item?id=32835052"
-    ],
-    [
-      "Demystifying tables (cells inside; borders outside)",
-      "https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "How Steve Sasson Invented the Digital Camera",
       "https://petapixel.com/how-steve-sasson-invented-the-digital-camera/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 11:28:20",
+      "https://news.ycombinator.com/item?id=32822923"
+    ],
+    [
+      "Linux's Modern NTFS Driver Preparing a “Hidedotfiles” Option",
+      "https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles"
     ]
   ],
   [
