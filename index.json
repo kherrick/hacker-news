@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-14, 09:55:17",
+      "https://news.ycombinator.com/item?id=32835071"
+    ],
+    [
+      "YouTube currently testing 5 to 10 UNSKIPPABLE ADS before video starts",
+      "https://twitter.com/sondesix/status/1569856456811495424"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 09:51:43",
       "https://news.ycombinator.com/item?id=32835052"
     ],
     [
       "Demystifying tables (cells inside; borders outside)",
       "https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 09:40:57",
+      "https://news.ycombinator.com/item?id=32834988"
+    ],
+    [
+      "The SEC revealed today that it charged VMware with fraud",
+      "https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2022-09-14, 05:19:41",
+      "https://news.ycombinator.com/item?id=32833581"
+    ],
+    [
+      "Ask HN: Is there any “PBS Kids” alternatives these days?",
+      "https://news.ycombinator.com/item?id=32833581"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 03:40:31",
       "https://news.ycombinator.com/item?id=32833097"
     ],
@@ -97,6 +127,16 @@
     [
       "Death by hockey sticks",
       "https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 00:14:12",
+      "https://news.ycombinator.com/item?id=32831757"
+    ],
+    [
+      "The transistor – or 25 miles on a hunk of Germanium (1953)",
+      "https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2022-09-13, 19:03:08",
-      "https://news.ycombinator.com/item?id=32828799"
-    ],
-    [
-      "Show HN: Query SQLite files stored in S3",
-      "https://github.com/litements/s3sqlite"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 18:53:26",
       "https://news.ycombinator.com/item?id=32828669"
     ],
@@ -171,52 +201,22 @@
   ],
   [
     [
-      "2022-09-13, 18:46:21",
-      "https://news.ycombinator.com/item?id=32828584"
-    ],
-    [
-      "When to use Bazel?",
-      "https://earthly.dev/blog/bazel-build/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 18:45:13",
-      "https://news.ycombinator.com/item?id=32828569"
-    ],
-    [
-      "Byte Magazine: Declarative Languages (1985)",
-      "https://archive.org/details/byte-magazine-1985-08"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 18:25:05",
-      "https://news.ycombinator.com/item?id=32828309"
-    ],
-    [
-      "Show HN: Mini Metroidvania in 13KB of JavaScript",
-      "https://arineonshark.itch.io/infernal-throne"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 17:46:29",
-      "https://news.ycombinator.com/item?id=32827762"
-    ],
-    [
-      "W4 Games raises $8.5M to support Godot Engine growth",
-      "https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 17:12:43",
       "https://news.ycombinator.com/item?id=32827209"
     ],
     [
       "Gödel, Escher, Bach: an in-depth explainer",
       "https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 13:32:36",
+      "https://news.ycombinator.com/item?id=32824038"
+    ],
+    [
+      "The last person standing in the floppy disk business",
+      "https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/"
     ]
   ],
   [
