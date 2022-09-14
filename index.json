@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-09-14, 13:01:42",
+      "https://news.ycombinator.com/item?id=32836552"
+    ],
+    [
+      "The B-52 was designed in a hotel room over one weekend",
+      "https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 12:57:00",
+      "https://news.ycombinator.com/item?id=32836500"
+    ],
+    [
+      "Hacktoberfest 2022",
+      "https://hacktoberfest.com"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 12:52:03",
+      "https://news.ycombinator.com/item?id=32836446"
+    ],
+    [
+      "io_uring_spawn: Launching New Processes with io_uring",
+      "https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 12:19:49",
+      "https://news.ycombinator.com/item?id=32836113"
+    ],
+    [
+      "Ask HN: What is the coding exercise you use to explore a new language?",
+      "https://news.ycombinator.com/item?id=32836113"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 12:02:00",
       "https://news.ycombinator.com/item?id=32835966"
     ],
     [
-      "Privacy vs. “I have nothing to hide”",
+      "Privacy vs. “I have nothing to hide” (2019)",
       "https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/"
     ]
   ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32835806"
     ],
     [
-      "First Batch of Color Fonts Arrives on Google Fonts",
+      "Color Fonts",
       "https://material.io/blog/color-fonts-are-here"
     ]
   ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=32835794"
     ],
     [
-      "Woman holds up Lebanese bank for $13,000 of her own money",
+      "Woman holds up Lebanese bank for $13k of her own money",
       "https://www.reuters.com/world/middle-east/woman-holds-up-lebanese-bank-13000-her-own-money-advocacy-group-says-2022-09-14/"
     ]
   ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32835722"
     ],
     [
-      "Apache NetBeans 15 Released",
+      "Apache NetBeans 15",
       "https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-15-released"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=32835711"
     ],
     [
-      "JavaFX 19 Released",
+      "JavaFX 19",
       "https://openjfx.io/#ZgotmplZ"
     ]
   ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-09-14, 09:40:57",
-      "https://news.ycombinator.com/item?id=32834988"
-    ],
-    [
-      "The SEC revealed today that it charged VMware with fraud",
-      "https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 08:12:09",
       "https://news.ycombinator.com/item?id=32834484"
     ],
@@ -131,22 +161,22 @@
   ],
   [
     [
+      "2022-09-14, 08:04:08",
+      "https://news.ycombinator.com/item?id=32834433"
+    ],
+    [
+      "Countersteering",
+      "https://en.wikipedia.org/wiki/Countersteering"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 03:40:31",
       "https://news.ycombinator.com/item?id=32833097"
     ],
     [
       "Why car wheels are so flat these days",
       "https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 03:24:36",
-      "https://news.ycombinator.com/item?id=32832999"
-    ],
-    [
-      "Sudden disturbing moves for IT in large companies, mandated by CEOs",
-      "https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/"
     ]
   ],
   [
@@ -201,6 +231,16 @@
   ],
   [
     [
+      "2022-09-13, 20:04:58",
+      "https://news.ycombinator.com/item?id=32829550"
+    ],
+    [
+      "The Lost Library of John Milton",
+      "https://www.english.cam.ac.uk/cmt/?p=6105"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 18:53:26",
       "https://news.ycombinator.com/item?id=32828669"
     ],
@@ -221,32 +261,12 @@
   ],
   [
     [
-      "2022-09-13, 13:32:36",
-      "https://news.ycombinator.com/item?id=32824038"
-    ],
-    [
-      "The last person standing in the floppy disk business",
-      "https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 04:53:07",
       "https://news.ycombinator.com/item?id=32820768"
     ],
     [
       "Beyond the Liquid Tensor Experiment",
       "https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 02:17:46",
-      "https://news.ycombinator.com/item?id=32820033"
-    ],
-    [
-      "Imagining utopia–and condemning excess–during the Enlightenment",
-      "https://www.laphamsquarterly.org/roundtable/making-enemy-luxury"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-09-12, 16:04:55",
-      "https://news.ycombinator.com/item?id=32812369"
-    ],
-    [
-      "Explaining modern server monitoring stacks for self-hosting",
-      "https://dataswamp.org/~solene/2022-09-11-exploring-monitoring-stacks.html"
-    ]
-  ],
-  [
-    [
       "2022-09-12, 13:11:18",
       "https://news.ycombinator.com/item?id=32809593"
     ],
     [
-      "Show HN: ReadToMyShoe – an offline-first web app for listening to your articles",
+      "Show HN: ReadToMyShoe – An offline-first web app for listening to your articles",
       "https://beta.readtomyshoe.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 12:56:18",
-      "https://news.ycombinator.com/item?id=32809438"
-    ],
-    [
-      "Vendor by Default (2021)",
-      "https://macwright.com/2021/03/11/vendor-by-default.html"
     ]
   ],
   [
