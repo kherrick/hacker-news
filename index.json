@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-14, 20:30:33",
-      "https://news.ycombinator.com/item?id=32842941"
+      "2022-09-14, 21:05:31",
+      "https://news.ycombinator.com/item?id=32843348"
     ],
     [
-      "Show HN: Kotse – a mobile app to rent out your driveway",
-      "https://testflight.apple.com/join/1BsZKeIO"
+      "Denmark no longer offering Covid vaccinations to healthy adults under 50",
+      "https://www.sst.dk/en/english/corona-eng/vaccination-against-covid-19"
     ]
   ],
   [
@@ -37,6 +37,36 @@
     [
       "About Lockdown Mode",
       "https://support.apple.com/en-us/HT212650"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 20:14:22",
+      "https://news.ycombinator.com/item?id=32842740"
+    ],
+    [
+      "Aurora Store: An Open Source alternative for Google Play Store",
+      "https://gitlab.com/AuroraOSS/AuroraStore"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 19:45:08",
+      "https://news.ycombinator.com/item?id=32842357"
+    ],
+    [
+      "Billionaire No More: Patagonia Founder Gives Away the Company",
+      "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 19:35:13",
+      "https://news.ycombinator.com/item?id=32842207"
+    ],
+    [
+      "Unicode 15 Released",
+      "https://lwn.net/Articles/908032/"
     ]
   ],
   [
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=32840060"
     ],
     [
-      "The spam on Twitter is appalling",
+      "The spam on Twitter",
       "https://twitter.com/paulg/status/1570094327338274823"
     ]
   ],
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=32839493"
     ],
     [
-      "Carbon Footprint of Unwanted Data-Use by Smartphones",
+      "Carbon footprint of unwanted data use by smartphones",
       "https://branch.climateaction.tech/issues/issue-3/carbon-footprint-of-unwanted-data-use-by-smartphones/"
     ]
   ],
@@ -185,18 +215,8 @@
       "https://news.ycombinator.com/item?id=32837829"
     ],
     [
-      "Show HN: StackAid – fund 100s of open source dependencies with one subscription",
+      "Show HN: StackAid – Fund all your open-source dependencies",
       "https://www.stackaid.us"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 14:33:27",
-      "https://news.ycombinator.com/item?id=32837802"
-    ],
-    [
-      "Twilio to lay off 11% of workforce",
-      "https://www.cnbc.com/2022/09/14/twilio-to-lay-of-11percent-of-workforce.html"
     ]
   ],
   [
@@ -205,7 +225,7 @@
       "https://news.ycombinator.com/item?id=32837565"
     ],
     [
-      "Ever wondered how a QR code works?",
+      "How a QR code works",
       "https://typefully.com/DanHollick/qr-codes-T7tLlNi"
     ]
   ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2022-09-13, 11:28:20",
-      "https://news.ycombinator.com/item?id=32822923"
-    ],
-    [
-      "Linux's Modern NTFS Driver Preparing a “Hidedotfiles” Option",
-      "https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 10:02:51",
       "https://news.ycombinator.com/item?id=32822352"
     ],
     [
       "The Little Prover",
       "https://the-little-prover.github.io/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 04:58:25",
-      "https://news.ycombinator.com/item?id=32820806"
-    ],
-    [
-      "Writing A Lisp Interpreter In Haskell (2006)",
-      "https://www.defmacro.org/ramblings/lisp-in-haskell.html"
     ]
   ],
   [
