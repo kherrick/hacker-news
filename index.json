@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-09-14, 21:05:31",
-      "https://news.ycombinator.com/item?id=32843348"
-    ],
-    [
-      "Denmark no longer offering Covid vaccinations to healthy adults under 50",
-      "https://www.sst.dk/en/english/corona-eng/vaccination-against-covid-19"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 20:24:53",
       "https://news.ycombinator.com/item?id=32842860"
     ],
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2022-09-14, 20:14:22",
-      "https://news.ycombinator.com/item?id=32842740"
+      "2022-09-14, 20:06:58",
+      "https://news.ycombinator.com/item?id=32842651"
     ],
     [
-      "Aurora Store: An Open Source alternative for Google Play Store",
-      "https://gitlab.com/AuroraOSS/AuroraStore"
+      "Escaping strings faster with AVX-512",
+      "https://lemire.me/blog/2022/09/14/escaping-strings-faster-with-avx-512/"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2022-09-14, 15:08:49",
-      "https://news.ycombinator.com/item?id=32838321"
-    ],
-    [
-      "What's New in Jakarta EE 10?",
-      "https://blog.payara.fish/whats-new-in-jakarta-ee-10"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 15:01:10",
       "https://news.ycombinator.com/item?id=32838225"
     ],
@@ -287,6 +267,26 @@
     [
       "The Little Prover",
       "https://the-little-prover.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 08:44:06",
+      "https://news.ycombinator.com/item?id=32821960"
+    ],
+    [
+      "The Quality of Quantitative Analysis",
+      "https://elevanth.org/blog/2022/09/13/the-quality-of-quantitative-analysis/"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 04:58:25",
+      "https://news.ycombinator.com/item?id=32820806"
+    ],
+    [
+      "Writing A Lisp Interpreter In Haskell (2006)",
+      "https://www.defmacro.org/ramblings/lisp-in-haskell.html"
     ]
   ],
   [
