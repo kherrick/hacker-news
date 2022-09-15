@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2022-09-14, 16:30:03",
-      "https://news.ycombinator.com/item?id=32839542"
-    ],
-    [
-      "Why Racket? Why Lisp? (2014)",
-      "https://beautifulracket.com/appendix/why-racket-why-lisp.html"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 07:13:38",
       "https://news.ycombinator.com/item?id=32834182"
     ],
@@ -297,6 +287,16 @@
     [
       "SB116 Programmers Calculator",
       "https://unimplementedtrap.com/sb116-programmers-calculator"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:05:24",
+      "https://news.ycombinator.com/item?id=32808890"
+    ],
+    [
+      "AudioLM: A Language Modeling Approach to Audio Generation",
+      "https://google-research.github.io/seanet/audiolm/examples/"
     ]
   ]
 ]
