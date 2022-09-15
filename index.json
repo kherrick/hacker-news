@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2022-09-14, 23:04:21",
+      "https://news.ycombinator.com/item?id=32844663"
+    ],
+    [
+      "Dick the Birthday Boy: The Legacy Continues [video]",
+      "https://www.youtube.com/watch?v=hwu1427MUIE"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 22:45:18",
       "https://news.ycombinator.com/item?id=32844485"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2022-09-14, 20:06:58",
-      "https://news.ycombinator.com/item?id=32842651"
-    ],
-    [
-      "Escaping strings faster with AVX-512",
-      "https://lemire.me/blog/2022/09/14/escaping-strings-faster-with-avx-512/"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 19:45:08",
       "https://news.ycombinator.com/item?id=32842357"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2022-09-13, 12:31:06",
-      "https://news.ycombinator.com/item?id=32823436"
-    ],
-    [
-      "Show HN: Cachegrand – a fast OSS Key-Value store built for modern hardware",
-      "https://github.com/danielealbano/cachegrand"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 10:10:07",
       "https://news.ycombinator.com/item?id=32822398"
     ],
@@ -297,6 +287,16 @@
     [
       "SB116 Programmers Calculator",
       "https://unimplementedtrap.com/sb116-programmers-calculator"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:05:24",
+      "https://news.ycombinator.com/item?id=32808890"
+    ],
+    [
+      "AudioLM: A Language Modeling Approach to Audio Generation",
+      "https://google-research.github.io/seanet/audiolm/examples/"
     ]
   ]
 ]
