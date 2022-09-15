@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2022-09-15, 07:47:45",
+      "https://news.ycombinator.com/item?id=32848575"
+    ],
+    [
+      "That Annoying Shade of Blue",
+      "https://bsago.me/posts/that-annoying-shade-of-blue"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 07:02:48",
       "https://news.ycombinator.com/item?id=32848118"
     ],
@@ -107,16 +117,6 @@
     [
       "A method to promote sleep in crying infants using the transport response [pdf]",
       "https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 23:04:21",
-      "https://news.ycombinator.com/item?id=32844663"
-    ],
-    [
-      "Dick the Birthday Boy: The Legacy Continues [video]",
-      "https://www.youtube.com/watch?v=hwu1427MUIE"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-09-13, 11:05:34",
+      "https://news.ycombinator.com/item?id=32822754"
+    ],
+    [
+      "Tricks with Elasticsearch Completions Suggesters",
+      "https://www.jocas.lt/blog/post/tricks-with-elasticsearch-completion-suggesters/"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 10:10:07",
       "https://news.ycombinator.com/item?id=32822398"
     ],
@@ -287,16 +297,6 @@
     [
       "SB116 Programmers Calculator",
       "https://unimplementedtrap.com/sb116-programmers-calculator"
-    ]
-  ],
-  [
-    [
-      "2022-09-12, 12:05:24",
-      "https://news.ycombinator.com/item?id=32808890"
-    ],
-    [
-      "AudioLM: A Language Modeling Approach to Audio Generation",
-      "https://google-research.github.io/seanet/audiolm/examples/"
     ]
   ]
 ]
