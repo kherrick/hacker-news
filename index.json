@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-15, 03:39:06",
+      "https://news.ycombinator.com/item?id=32846691"
+    ],
+    [
+      "I figured out how to get GitHub Copilot to run in the terminal",
+      "https://github.com/maxwell-bland/copilot-in-the-terminal"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 02:51:50",
+      "https://news.ycombinator.com/item?id=32846396"
+    ],
+    [
+      "Apple.com Is Down",
+      "https://www.apple.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 02:05:41",
+      "https://news.ycombinator.com/item?id=32846143"
+    ],
+    [
+      "Long Covid is now the third leading neurological disorder in the US",
+      "https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 00:40:57",
+      "https://news.ycombinator.com/item?id=32845512"
+    ],
+    [
+      "The Importance of Stupidity in Scientific Research (2008) [pdf]",
+      "https://web.stanford.edu/~fukamit/schwartz-2008.pdf"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 00:06:53",
       "https://news.ycombinator.com/item?id=32845229"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2022-09-14, 19:34:03",
-      "https://news.ycombinator.com/item?id=32842192"
-    ],
-    [
-      "Just What Is It That Makes Today’s Homes So Different, So Appealing?",
-      "https://smarthistory.org/richard-hamilton-just-what-is-it/"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 18:17:55",
       "https://news.ycombinator.com/item?id=32841069"
     ],
     [
       "Worldwide Rail Network Map",
       "https://www.openrailwaymap.org/?style=standard&lat=51.58248&lon=15.6501&zoom=3"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 17:05:57",
-      "https://news.ycombinator.com/item?id=32840060"
-    ],
-    [
-      "The spam on Twitter",
-      "https://twitter.com/paulg/status/1570094327338274823"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Why Racket? Why Lisp? (2014)",
       "https://beautifulracket.com/appendix/why-racket-why-lisp.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 16:26:50",
-      "https://news.ycombinator.com/item?id=32839493"
-    ],
-    [
-      "Carbon footprint of unwanted data use by smartphones",
-      "https://branch.climateaction.tech/issues/issue-3/carbon-footprint-of-unwanted-data-use-by-smartphones/"
     ]
   ],
   [
@@ -241,42 +251,22 @@
   ],
   [
     [
-      "2022-09-14, 13:11:50",
-      "https://news.ycombinator.com/item?id=32836661"
-    ],
-    [
-      "Pingora, the proxy that connects Cloudflare to the Internet",
-      "https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 12:02:00",
-      "https://news.ycombinator.com/item?id=32835966"
-    ],
-    [
-      "Privacy vs. “I have nothing to hide” (2019)",
-      "https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/"
-    ]
-  ],
-  [
-    [
-      "2022-09-13, 20:05:47",
-      "https://news.ycombinator.com/item?id=32829558"
-    ],
-    [
-      "The History of Barbed Wire (2016)",
-      "https://thecorrespondent.com/3924/never-before-was-so-much-of-the-world-fenced-off-by-barbed-wire/261487512-67a88489"
-    ]
-  ],
-  [
-    [
       "2022-09-13, 12:31:06",
       "https://news.ycombinator.com/item?id=32823436"
     ],
     [
       "Show HN: Cachegrand – a fast OSS Key-Value store built for modern hardware",
       "https://github.com/danielealbano/cachegrand"
+    ]
+  ],
+  [
+    [
+      "2022-09-13, 10:10:07",
+      "https://news.ycombinator.com/item?id=32822398"
+    ],
+    [
+      "The Wizards of Mind Control",
+      "https://nautil.us/the-wizards-of-mind-control-238543/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "SB116 Programmers Calculator",
       "https://unimplementedtrap.com/sb116-programmers-calculator"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:05:24",
+      "https://news.ycombinator.com/item?id=32808890"
+    ],
+    [
+      "AudioLM: A Language Modeling Approach to Audio Generation",
+      "https://google-research.github.io/seanet/audiolm/examples/"
     ]
   ]
 ]
