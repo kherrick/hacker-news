@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-15, 13:28:06",
+      "https://news.ycombinator.com/item?id=32851591"
+    ],
+    [
+      "Walking is good for health but walking faster is even better, study finds",
+      "https://www.theguardian.com/australia-news/2022/sep/13/step-on-it-walking-is-good-for-health-but-walking-faster-is-even-better-study-finds"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 13:26:06",
+      "https://news.ycombinator.com/item?id=32851572"
+    ],
+    [
+      "Some WFH Employees Have a Secret: They Now Live in Another Country",
+      "https://www.vice.com/en/article/4ax4gw/some-wfh-employees-have-a-secret-they-now-live-in-another-country"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 13:15:44",
+      "https://news.ycombinator.com/item?id=32851422"
+    ],
+    [
+      "Should Traffic Lights Be Abolished?",
+      "https://freakonomics.com/podcast/should-traffic-lights-be-abolished-ep-454/"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 13:03:37",
       "https://news.ycombinator.com/item?id=32851262"
     ],
     [
       "Penpot, Open Source Figma",
       "https://penpot.app/"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 12:51:25",
+      "https://news.ycombinator.com/item?id=32851059"
+    ],
+    [
+      "The End of /R/GPUMining",
+      "https://old.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/"
     ]
   ],
   [
@@ -41,12 +81,42 @@
   ],
   [
     [
+      "2022-09-15, 11:03:20",
+      "https://news.ycombinator.com/item?id=32849962"
+    ],
+    [
+      "The Elusive Future of San Francisco’s Fog",
+      "https://www.nytimes.com/interactive/2022/09/14/climate/san-francisco-fog.html"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 10:57:34",
       "https://news.ycombinator.com/item?id=32849922"
     ],
     [
       "Ask HN: Discord banned me with no recourse",
       "https://news.ycombinator.com/item?id=32849922"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 10:35:06",
+      "https://news.ycombinator.com/item?id=32849769"
+    ],
+    [
+      "Show HN: Outpainting with Stable Diffusion on an infinite canvas",
+      "https://github.com/lkwq007/stablediffusion-infinity"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 10:10:30",
+      "https://news.ycombinator.com/item?id=32849592"
+    ],
+    [
+      "TIL–Python has a built-in persistent key-value store (2018)",
+      "https://remusao.github.io/posts/python-dbm-module.html"
     ]
   ],
   [
@@ -151,92 +221,12 @@
   ],
   [
     [
-      "2022-09-14, 22:45:18",
-      "https://news.ycombinator.com/item?id=32844485"
-    ],
-    [
-      "Suspected counterfeit components found in ejection seat after fatal F-16 crash",
-      "https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 22:35:10",
-      "https://news.ycombinator.com/item?id=32844368"
-    ],
-    [
-      "Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air (2009)",
-      "https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 22:13:12",
-      "https://news.ycombinator.com/item?id=32844130"
-    ],
-    [
-      "GraphBLAS",
-      "https://people.engr.tamu.edu/davis/GraphBLAS.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 21:56:00",
-      "https://news.ycombinator.com/item?id=32843961"
-    ],
-    [
-      "Crazy Thin ‘Deep Insert’ ATM Skimmers",
-      "https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 21:46:40",
-      "https://news.ycombinator.com/item?id=32843841"
-    ],
-    [
-      "Dolphin Progress July and August 2022",
-      "https://dolphin-emu.org/blog/2022/09/13/dolphin-progress-report-july-and-august-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 21:17:50",
-      "https://news.ycombinator.com/item?id=32843477"
-    ],
-    [
-      "Search 5.8B images used to train popular AI art models",
-      "https://haveibeentrained.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 20:15:13",
-      "https://news.ycombinator.com/item?id=32842749"
-    ],
-    [
-      "About Lockdown Mode",
-      "https://support.apple.com/en-us/HT212650"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 07:20:46",
       "https://news.ycombinator.com/item?id=32834220"
     ],
     [
       "Algolia Acquires Search.io",
       "https://www.algolia.com/about/news/algolia-disrupts-market-with-search-io-acquisition-ushering-in-a-new-era-of-search-and-discovery/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 07:16:07",
-      "https://news.ycombinator.com/item?id=32834192"
-    ],
-    [
-      "Performative language (2020)",
-      "https://medium.com/humanist-voices/performative-language-a466e9aee860"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "BlueJ – A Lightweight Java IDE",
       "https://www.bluej.org/about.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 06:27:49",
+      "https://news.ycombinator.com/item?id=32833907"
+    ],
+    [
+      "Show HN: A search engine based on RSS feed",
+      "https://github.com/dato-ai/dato.rss"
     ]
   ],
   [
