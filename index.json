@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-15, 07:02:48",
+      "https://news.ycombinator.com/item?id=32848118"
+    ],
+    [
+      "Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers",
+      "https://news.ycombinator.com/item?id=32848118"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 06:53:29",
+      "https://news.ycombinator.com/item?id=32848056"
+    ],
+    [
+      "Ethereum activates The Merge as it shifts to proof of stake",
+      "https://www.theblock.co/post/169299/ethereum-activates-the-merge-as-it-shifts-to-proof-of-stake"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 06:47:17",
+      "https://news.ycombinator.com/item?id=32848010"
+    ],
+    [
+      "The Ethereum Merge Is Done. Did It Work?",
+      "https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 04:52:13",
       "https://news.ycombinator.com/item?id=32847192"
     ],
@@ -21,32 +51,22 @@
   ],
   [
     [
+      "2022-09-15, 04:28:12",
+      "https://news.ycombinator.com/item?id=32847052"
+    ],
+    [
+      "Victorian Hacker News",
+      "https://victorianhackernews.com/"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 03:39:06",
       "https://news.ycombinator.com/item?id=32846691"
     ],
     [
       "I figured out how to get GitHub Copilot to run in the terminal",
       "https://github.com/maxwell-bland/copilot-in-the-terminal"
-    ]
-  ],
-  [
-    [
-      "2022-09-15, 02:05:41",
-      "https://news.ycombinator.com/item?id=32846143"
-    ],
-    [
-      "A neurologist’s quest to solve Covid-related neurological disorders",
-      "https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/"
-    ]
-  ],
-  [
-    [
-      "2022-09-15, 00:40:57",
-      "https://news.ycombinator.com/item?id=32845512"
-    ],
-    [
-      "The importance of stupidity in scientific research (2008) [pdf]",
-      "https://web.stanford.edu/~fukamit/schwartz-2008.pdf"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Crazy Thin ‘Deep Insert’ ATM Skimmers",
       "https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 21:50:25",
-      "https://news.ycombinator.com/item?id=32843892"
-    ],
-    [
-      "iPhone 14 Pro Camera Review: Scotland",
-      "https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2022-09-14, 17:05:57",
-      "https://news.ycombinator.com/item?id=32840060"
-    ],
-    [
-      "The spam on Twitter",
-      "https://twitter.com/paulg/status/1570094327338274823"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 16:30:03",
       "https://news.ycombinator.com/item?id=32839542"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-09-14, 15:21:44",
-      "https://news.ycombinator.com/item?id=32838475"
+      "2022-09-14, 07:13:38",
+      "https://news.ycombinator.com/item?id=32834182"
     ],
     [
-      "H-m-m: Hackers mind map",
-      "https://github.com/nadrad/h-m-m"
+      "Debugging the Postgres query planner (2018)",
+      "https://gocardless.com/blog/debugging-the-postgres-query-planner/"
     ]
   ],
   [
