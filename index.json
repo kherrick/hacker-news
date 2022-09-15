@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-15, 11:32:25",
+      "https://news.ycombinator.com/item?id=32850178"
+    ],
+    [
+      "Adobe Is Said to Near Deal to Buy Online Design Startup Figma",
+      "https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 09:59:40",
       "https://news.ycombinator.com/item?id=32849506"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2022-09-14, 20:24:53",
-      "https://news.ycombinator.com/item?id=32842860"
-    ],
-    [
-      "Act-1: Transformer for Actions",
-      "https://www.adept.ai/act"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 20:15:13",
-      "https://news.ycombinator.com/item?id=32842749"
-    ],
-    [
-      "About Lockdown Mode",
-      "https://support.apple.com/en-us/HT212650"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 19:45:08",
       "https://news.ycombinator.com/item?id=32842357"
     ],
@@ -297,6 +287,16 @@
     [
       "SB116 Programmers Calculator",
       "https://unimplementedtrap.com/sb116-programmers-calculator"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:05:24",
+      "https://news.ycombinator.com/item?id=32808890"
+    ],
+    [
+      "AudioLM: A Language Modeling Approach to Audio Generation",
+      "https://google-research.github.io/seanet/audiolm/examples/"
     ]
   ]
 ]
