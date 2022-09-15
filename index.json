@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-14, 23:12:57",
-      "https://news.ycombinator.com/item?id=32844740"
+      "2022-09-15, 00:06:53",
+      "https://news.ycombinator.com/item?id=32845229"
     ],
     [
-      "Google employees alarmed that the company suddenly expects them to do work",
-      "https://futurism.com/the-byte/google-employees-work-mandate"
+      "How to help crying infants sleep. Study suggests a two-part path: “walk-to-sit” [pdf]",
+      "https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-09-14, 22:34:00",
-      "https://news.ycombinator.com/item?id=32844350"
-    ],
-    [
-      "Ethereum Classic hashrate doubled this month ahead of ETH merge",
-      "https://2miners.com/etc-network-hashrate"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 22:13:12",
       "https://news.ycombinator.com/item?id=32844130"
     ],
@@ -81,12 +71,32 @@
   ],
   [
     [
+      "2022-09-14, 21:46:40",
+      "https://news.ycombinator.com/item?id=32843841"
+    ],
+    [
+      "Dolphin Progress July and August 2022",
+      "https://dolphin-emu.org/blog/2022/09/13/dolphin-progress-report-july-and-august-2022/"
+    ]
+  ],
+  [
+    [
       "2022-09-14, 21:17:50",
       "https://news.ycombinator.com/item?id=32843477"
     ],
     [
       "Search 5.8B images used to train popular AI art models",
       "https://haveibeentrained.com/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 20:48:39",
+      "https://news.ycombinator.com/item?id=32843145"
+    ],
+    [
+      "Mandelbrot Generation in Rust",
+      "https://blocr.github.io/posts/fractal_generation.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Just What Is It That Makes Today’s Homes So Different, So Appealing?",
       "https://smarthistory.org/richard-hamilton-just-what-is-it/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 19:02:48",
-      "https://news.ycombinator.com/item?id=32841737"
-    ],
-    [
-      "FLAC 1.4.0 released – added support for 32-bit audio",
-      "https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2022-09-14, 15:01:10",
-      "https://news.ycombinator.com/item?id=32838225"
-    ],
-    [
-      "Ask HN: How do I write a Linux driver for my 15 year old photo printer?",
-      "https://news.ycombinator.com/item?id=32838225"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 14:35:11",
       "https://news.ycombinator.com/item?id=32837829"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2022-09-13, 20:05:47",
+      "https://news.ycombinator.com/item?id=32829558"
+    ],
+    [
+      "The History of Barbed Wire (2016)",
+      "https://thecorrespondent.com/3924/never-before-was-so-much-of-the-world-fenced-off-by-barbed-wire/261487512-67a88489"
+    ]
+  ],
+  [
+    [
       "2022-09-13, 12:31:06",
       "https://news.ycombinator.com/item?id=32823436"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-09-13, 08:25:46",
-      "https://news.ycombinator.com/item?id=32821866"
+      "2022-09-12, 20:09:32",
+      "https://news.ycombinator.com/item?id=32816177"
     ],
     [
-      "Growth, innovation, scaling, and the pace of life in cities (2007)",
-      "https://www.pnas.org/doi/abs/10.1073/pnas.0610172104"
+      "SB116 Programmers Calculator",
+      "https://unimplementedtrap.com/sb116-programmers-calculator"
     ]
   ]
 ]
