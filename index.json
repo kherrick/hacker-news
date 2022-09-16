@@ -1,11 +1,51 @@
 [
   [
     [
+      "2022-09-16, 13:27:14",
+      "https://news.ycombinator.com/item?id=32865786"
+    ],
+    [
+      "Figma Alternatives",
+      "https://stackdiary.com/figma-alternatives/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 13:26:28",
+      "https://news.ycombinator.com/item?id=32865780"
+    ],
+    [
+      "Vaccine development against methamphetamine drug addiction [pdf]",
+      "https://dynomight.net/hossain2020.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 12:58:57",
+      "https://news.ycombinator.com/item?id=32865497"
+    ],
+    [
+      "35M Hot Dogs: Benchmarking Caddy vs. Nginx",
+      "https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 12:51:38",
+      "https://news.ycombinator.com/item?id=32865428"
+    ],
+    [
+      "Ask HN: What interesting problems are you working on? ( 2022 Edition )",
+      "https://news.ycombinator.com/item?id=32865428"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 12:42:02",
       "https://news.ycombinator.com/item?id=32865340"
     ],
     [
-      "Arm Fills in Some Gaps – and Details – In Server Chip Roadmaps",
+      "Arm fills in some gaps and details in server chip roadmaps",
       "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/"
     ]
   ],
@@ -25,8 +65,18 @@
       "https://news.ycombinator.com/item?id=32865229"
     ],
     [
-      "The Lost Ways of Programming: Commodore 64 Basic",
+      "The Lost Ways of Programming: Commodore 64 Basic (2020)",
       "https://tomasp.net/commodore64/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 12:26:50",
+      "https://news.ycombinator.com/item?id=32865194"
+    ],
+    [
+      "New Linux OS Scheduler Reduces Lag by Keeping Light Work on Fewer CPU Cores",
+      "https://www.tomshardware.com/news/nest-linux-os-scheduler"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2022-09-16, 11:31:10",
-      "https://news.ycombinator.com/item?id=32864721"
-    ],
-    [
-      "Ask HN: Have you taken action regarding the Uber hack?",
-      "https://news.ycombinator.com/item?id=32864721"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 11:30:59",
       "https://news.ycombinator.com/item?id=32864719"
     ],
@@ -91,11 +131,21 @@
   ],
   [
     [
+      "2022-09-16, 11:22:17",
+      "https://news.ycombinator.com/item?id=32864656"
+    ],
+    [
+      "Ron Turner Cover Collection",
+      "https://www.flickr.com/photos/gems_from_the_collection/albums/72157600000117243/"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 10:47:57",
       "https://news.ycombinator.com/item?id=32864431"
     ],
     [
-      "America's stealth aircraft you've never heard of",
+      "America’s stealth aircraft you've never heard of",
       "https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/"
     ]
   ],
@@ -127,16 +177,6 @@
     [
       "Cloudflare has replaced Nginx with in-house, Rust-written Pingora",
       "https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 09:33:53",
-      "https://news.ycombinator.com/item?id=32864052"
-    ],
-    [
-      "Show HN: Low-cost backup to S3 Glacier Deep Archive",
-      "https://github.com/mrichtarsky/glacier_deep_archive_backup"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2022-09-15, 22:44:45",
-      "https://news.ycombinator.com/item?id=32859415"
-    ],
-    [
-      "Why do domain names sometimes end with a dot?",
-      "https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/"
-    ]
-  ],
-  [
-    [
       "2022-09-15, 22:29:27",
       "https://news.ycombinator.com/item?id=32859256"
     ],
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2022-09-15, 22:20:52",
-      "https://news.ycombinator.com/item?id=32859188"
-    ],
-    [
-      "Scientists are using AI to dream up revolutionary new proteins",
-      "https://www.nature.com/articles/d41586-022-02947-7"
-    ]
-  ],
-  [
-    [
       "2022-09-15, 19:32:13",
       "https://news.ycombinator.com/item?id=32857349"
     ],
     [
       "Did GoogleAI just snooker one of Silicon Valley’s sharpest minds?",
       "https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of"
-    ]
-  ],
-  [
-    [
-      "2022-09-15, 16:47:06",
-      "https://news.ycombinator.com/item?id=32854746"
-    ],
-    [
-      "Launch HN: Signadot (YC W20) – Lightweight Test Environments for Microservices",
-      "https://news.ycombinator.com/item?id=32854746"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Art Garfunkel's Library",
       "https://www.artgarfunkel.com/library.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 05:23:40",
-      "https://news.ycombinator.com/item?id=32833600"
-    ],
-    [
-      "Godard Taught Me How to Watch Cinema, Even as He Kept Reinventing It",
-      "https://www.nytimes.com/2022/09/13/movies/jean-luc-godard-appreciation.html"
     ]
   ]
 ]
