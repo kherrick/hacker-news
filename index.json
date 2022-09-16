@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-16, 18:51:50",
+      "https://news.ycombinator.com/item?id=32870463"
+    ],
+    [
+      "Nan Boxing",
+      "https://piotrduperas.com/posts/nan-boxing/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 18:20:52",
+      "https://news.ycombinator.com/item?id=32870050"
+    ],
+    [
+      "Sergey Brin, David Baszucki, Kent Dauten commit $150M to fight Bipolar disorder",
+      "https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 17:02:04",
       "https://news.ycombinator.com/item?id=32868979"
     ],
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2022-09-16, 12:26:50",
-      "https://news.ycombinator.com/item?id=32865194"
-    ],
-    [
-      "New Linux OS Scheduler Reduces Lag by Keeping Light Work on Fewer CPU Cores",
-      "https://www.tomshardware.com/news/nest-linux-os-scheduler"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 12:15:49",
-      "https://news.ycombinator.com/item?id=32865082"
-    ],
-    [
-      "Stanley Druckenmiller warns the stock market will be ‘flat’ for an entire decade",
-      "https://fortune.com/2022/09/15/stanley-druckenmiller-investor-warns-stock-market-flat-decade-central-bank/"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 12:07:05",
       "https://news.ycombinator.com/item?id=32864997"
     ],
     [
       "US border forces are seizing Americans' phone data and storing it for 15 years",
       "https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 11:59:33",
-      "https://news.ycombinator.com/item?id=32864909"
-    ],
-    [
-      "Good CI/CD and SRE Blogs",
-      "https://news.ycombinator.com/item?id=32864909"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Why Craigslist Still Looks the Same After 25 Years",
       "https://www.pcmag.com/news/heres-why-craigslist-still-looks-the-same-after-25-plus-years"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 00:04:35",
+      "https://news.ycombinator.com/item?id=32860185"
+    ],
+    [
+      "How Quickly Do CPUs Change Clock Speeds?",
+      "https://chipsandcheese.com/2022/09/15/how-quickly-do-cpus-change-clock-speeds/"
     ]
   ],
   [
