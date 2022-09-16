@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-16, 12:42:02",
+      "https://news.ycombinator.com/item?id=32865340"
+    ],
+    [
+      "Arm Fills in Some Gaps – and Details – In Server Chip Roadmaps",
+      "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 12:38:41",
+      "https://news.ycombinator.com/item?id=32865304"
+    ],
+    [
+      "Webamp · Winamp 2 in the Browser",
+      "https://webamp.org/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 12:30:30",
+      "https://news.ycombinator.com/item?id=32865229"
+    ],
+    [
+      "The Lost Ways of Programming: Commodore 64 Basic",
+      "https://tomasp.net/commodore64/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 12:07:05",
+      "https://news.ycombinator.com/item?id=32864997"
+    ],
+    [
+      "US border forces are seizing Americans' phone data and storing it for 15 years",
+      "https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 12:00:52",
       "https://news.ycombinator.com/item?id=32864920"
     ],
@@ -11,12 +51,42 @@
   ],
   [
     [
+      "2022-09-16, 11:59:33",
+      "https://news.ycombinator.com/item?id=32864909"
+    ],
+    [
+      "Good CI/CD and SRE Blogs",
+      "https://news.ycombinator.com/item?id=32864909"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 11:42:18",
+      "https://news.ycombinator.com/item?id=32864783"
+    ],
+    [
+      "From Deep Learning Foundations to Stable Diffusion",
+      "https://www.fast.ai/posts/part2-2022.html"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 11:31:10",
       "https://news.ycombinator.com/item?id=32864721"
     ],
     [
       "Ask HN: Have you taken action regarding the Uber hack?",
       "https://news.ycombinator.com/item?id=32864721"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 11:30:59",
+      "https://news.ycombinator.com/item?id=32864719"
+    ],
+    [
+      "UHaul Data Breach",
+      "https://news.ycombinator.com/item?id=32864719"
     ]
   ],
   [
@@ -41,16 +111,6 @@
   ],
   [
     [
-      "2022-09-16, 10:29:18",
-      "https://news.ycombinator.com/item?id=32864341"
-    ],
-    [
-      "How German are the British royals?",
-      "https://www.dw.com/en/how-german-are-the-british-royals/a-63128994"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 10:13:26",
       "https://news.ycombinator.com/item?id=32864267"
     ],
@@ -65,18 +125,8 @@
       "https://news.ycombinator.com/item?id=32864119"
     ],
     [
-      "Cloudflare Ditches Nginx for In-House, Rust-Written Pingora",
+      "Cloudflare has replaced Nginx with in-house, Rust-written Pingora",
       "https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 09:40:29",
-      "https://news.ycombinator.com/item?id=32864094"
-    ],
-    [
-      "Timing of daily calorie loading affects appetite and hunger responses",
-      "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00344-8"
     ]
   ],
   [
@@ -97,16 +147,6 @@
     [
       "Observability is becoming mission critical, but who watches the watchmen?",
       "https://simme.dev/posts/who-watches-the-watchmen/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 06:09:43",
-      "https://news.ycombinator.com/item?id=32862672"
-    ],
-    [
-      "Ask HN: Anyone joined a company after contributing to their OSS projects?",
-      "https://news.ycombinator.com/item?id=32862672"
     ]
   ],
   [
@@ -155,7 +195,7 @@
       "https://news.ycombinator.com/item?id=32860728"
     ],
     [
-      "Uber Investigating Breach of Its Computer Systems",
+      "Uber investigating breach",
       "https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html"
     ]
   ],
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2022-09-15, 18:27:18",
-      "https://news.ycombinator.com/item?id=32856333"
-    ],
-    [
-      "The collapse of cryptokitties, the first big blockchain game",
-      "https://spectrum.ieee.org/cryptokitties"
-    ]
-  ],
-  [
-    [
       "2022-09-15, 16:47:06",
       "https://news.ycombinator.com/item?id=32854746"
     ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2022-09-15, 06:47:17",
-      "https://news.ycombinator.com/item?id=32848010"
-    ],
-    [
-      "The Ethereum merge is done",
-      "https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/"
-    ]
-  ],
-  [
-    [
       "2022-09-14, 23:11:42",
       "https://news.ycombinator.com/item?id=32844724"
     ],
     [
       "Mythology could help demystify dog domestication",
       "https://www.sciencenews.org/article/dog-domestication-origin-mythology-history"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 19:19:36",
-      "https://news.ycombinator.com/item?id=32841975"
-    ],
-    [
-      "Radv: Reduce CPU overhead of draw command recording Code",
-      "https://www.supergoodcode.com/spaghetti-recipes/"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 16:46:05",
-      "https://news.ycombinator.com/item?id=32839754"
-    ],
-    [
-      "Why Data Breaches Don’t Hurt Stock Prices (2015)",
-      "https://hbr.org/2015/03/why-data-breaches-dont-hurt-stock-prices"
     ]
   ],
   [
