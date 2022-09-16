@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2022-09-16, 03:36:41",
-      "https://news.ycombinator.com/item?id=32861765"
+      "2022-09-16, 03:40:39",
+      "https://news.ycombinator.com/item?id=32861788"
     ],
     [
-      "Patagonia Billionaire Who Gave Up Company Skirts $700M Tax Hit",
-      "https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit"
+      "Food delivery robot rolls through LA crime scene as confused cops look on",
+      "https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Death of a Project (1965)",
       "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 01:51:49",
+      "https://news.ycombinator.com/item?id=32861075"
+    ],
+    [
+      "F4PGA: Open FPGA Tooling: Xilinx 7-Series, Lattice iCE40/ECP5, QuickLogic EOS S3",
+      "https://f4pga.org/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "I Had a Dream",
       "https://scottaaronson.blog/?p=6718"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 01:12:45",
-      "https://news.ycombinator.com/item?id=32860742"
-    ],
-    [
-      "Macwright.com redirects HN readers away",
-      "https://macwright.com/2022/09/15/hacker-news.html"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32856333"
     ],
     [
-      "The Collapse of CryptoKitties, the First Big Blockchain Game",
+      "The collapse of cryptokitties, the first big blockchain game",
       "https://spectrum.ieee.org/cryptokitties"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2022-09-15, 16:33:38",
+      "https://news.ycombinator.com/item?id=32854528"
+    ],
+    [
+      "Stripe has decided to nuke my entire business",
+      "https://news.ycombinator.com/item?id=32854528"
+    ]
+  ],
+  [
+    [
       "2022-09-15, 16:23:26",
       "https://news.ycombinator.com/item?id=32854334"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2022-09-15, 14:22:09",
-      "https://news.ycombinator.com/item?id=32852478"
-    ],
-    [
-      "Show HN: WunderBase – Serverless OSS database on top of SQLite, Firecracker",
-      "https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma"
-    ]
-  ],
-  [
-    [
-      "2022-09-15, 14:19:00",
-      "https://news.ycombinator.com/item?id=32852425"
-    ],
-    [
-      "Chaos researchers can now predict perilous points of no return",
-      "https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/"
-    ]
-  ],
-  [
-    [
       "2022-09-15, 11:32:25",
       "https://news.ycombinator.com/item?id=32850178"
     ],
@@ -237,6 +227,16 @@
     [
       "The Ethereum merge is done",
       "https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 19:19:36",
+      "https://news.ycombinator.com/item?id=32841975"
+    ],
+    [
+      "Radv: Reduce CPU overhead of draw command recording Code",
+      "https://www.supergoodcode.com/spaghetti-recipes/"
     ]
   ],
   [
