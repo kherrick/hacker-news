@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-09-16, 10:47:57",
+      "https://news.ycombinator.com/item?id=32864431"
+    ],
+    [
+      "America's stealth aircraft you've never heard of – Sandboxx",
+      "https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 10:42:55",
+      "https://news.ycombinator.com/item?id=32864413"
+    ],
+    [
+      "Foldscope: The Paper Microscope",
+      "https://foldscope.com/"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 10:13:26",
       "https://news.ycombinator.com/item?id=32864267"
     ],
     [
-      "Microsoft Edge's News Feed pushes tech support scams",
+      "Microsoft Edge's news feed pushes tech support scams",
       "https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 09:46:24",
+      "https://news.ycombinator.com/item?id=32864130"
+    ],
+    [
+      "Email deliverability: Everything you need to know",
+      "https://mailtrap.io/blog/email-deliverability/"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2022-09-16, 09:33:53",
-      "https://news.ycombinator.com/item?id=32864052"
+      "2022-09-16, 09:40:29",
+      "https://news.ycombinator.com/item?id=32864094"
     ],
     [
-      "Show HN: Off-site, encrypted backups for $1/TB/month at 99.999999999% durability",
-      "https://github.com/mrichtarsky/glacier_deep_archive_backup"
+      "Timing of daily calorie loading affects appetite and hunger responses",
+      "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00344-8"
     ]
   ],
   [
     [
-      "2022-09-16, 07:27:21",
-      "https://news.ycombinator.com/item?id=32863175"
+      "2022-09-16, 09:33:53",
+      "https://news.ycombinator.com/item?id=32864052"
     ],
     [
-      "Please don't be spooky",
-      "https://tiramisu.bearblog.dev/dont-be-spooky/"
+      "Show HN: Extremely low cost backup to S3 Glacier Deep Archive",
+      "https://github.com/mrichtarsky/glacier_deep_archive_backup"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "Facebook Bans Holocaust Film for Violating Race Policy",
       "https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 03:40:39",
-      "https://news.ycombinator.com/item?id=32861788"
-    ],
-    [
-      "Food delivery robot rolls through LA crime scene as confused cops look on",
-      "https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 02:42:38",
-      "https://news.ycombinator.com/item?id=32861450"
-    ],
-    [
-      "Death of a Project (1965)",
-      "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Scientists are using AI to dream up revolutionary new proteins",
       "https://www.nature.com/articles/d41586-022-02947-7"
-    ]
-  ],
-  [
-    [
-      "2022-09-15, 19:47:38",
-      "https://news.ycombinator.com/item?id=32857555"
-    ],
-    [
-      "Senators introduce bill to thin out the 900k pieces of orbiting junk",
-      "https://www.commerce.senate.gov/2022/9/cantwell-hickenlooper-lummis-wicker-introduce-bill-to-thin-out-the-900-000-pieces-of-orbiting-junk-that-endanger-the-future-of-space-exploration"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32835402"
     ],
     [
-      "Building in Community is better than Building in Public",
+      "Building in community",
       "https://rosie.land/posts/building-in-community/"
     ]
   ],
