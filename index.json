@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-16, 19:28:29",
-      "https://news.ycombinator.com/item?id=32870892"
+      "2022-09-16, 20:08:39",
+      "https://news.ycombinator.com/item?id=32871392"
     ],
     [
-      "EVGA will not carry new Nvidia GPUs",
-      "https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx"
+      "TinyBase v2.0: “the reactive data store for local-first apps”",
+      "https://tinybase.org/guides/releases/#v2-0"
     ]
   ],
   [
@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=32870849"
     ],
     [
-      "The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun",
+      "The enduring mystery of ‘Jawn,’ Philadelphia’s all-purpose noun (2016)",
       "https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 19:14:25",
+      "https://news.ycombinator.com/item?id=32870714"
+    ],
+    [
+      "Peltier vs. Compressor-Based Cooling",
+      "https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=32870677"
     ],
     [
-      "EVGA Terminates Nvidia Partnership, Cites Disrespectful Treatment",
+      "EVGA terminates Nvidia partnership [video]",
       "https://www.youtube.com/watch?v=cV9QES-FUAM"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32870463"
     ],
     [
-      "NaN Boxing",
+      "NaN Boxing (2020)",
       "https://piotrduperas.com/posts/nan-boxing/"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Sergey Brin, David Baszucki, Kent Dauten commit $150M to fight Bipolar disorder",
       "https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 17:02:04",
-      "https://news.ycombinator.com/item?id=32868979"
-    ],
-    [
-      "Reasons to be cheerful: 'GPU mining is dead less than 24 hours after the merge'",
-      "https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Retrospection and Learnings from Dgraph Labs",
       "https://manishrjain.com/dgraph-labs-learnings"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 15:38:11",
+      "https://news.ycombinator.com/item?id=32867584"
+    ],
+    [
+      "GPU mining no longer profitable after Ethereum merge",
+      "https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2022-09-16, 11:42:18",
-      "https://news.ycombinator.com/item?id=32864783"
-    ],
-    [
-      "From Deep Learning Foundations to Stable Diffusion",
-      "https://www.fast.ai/posts/part2-2022.html"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 10:42:55",
       "https://news.ycombinator.com/item?id=32864413"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=32862803"
     ],
     [
-      "Why Craigslist Still Looks the Same After 25 Years",
+      "Why Craigslist still looks the same after 25 years",
       "https://www.pcmag.com/news/heres-why-craigslist-still-looks-the-same-after-25-plus-years"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32860185"
     ],
     [
-      "How Quickly Do CPUs Change Clock Speeds?",
+      "How quickly do CPUs change clock speeds?",
       "https://chipsandcheese.com/2022/09/15/how-quickly-do-cpus-change-clock-speeds/"
     ]
   ],
