@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-17, 17:37:31",
-      "https://news.ycombinator.com/item?id=32879430"
+      "2022-09-17, 17:48:40",
+      "https://news.ycombinator.com/item?id=32879551"
     ],
     [
-      "Being a victim of rape costs an average of $3,500 in medical bills",
-      "https://arstechnica.com/science/2022/09/being-a-victim-of-rape-costs-an-average-of-3500-in-medical-bills-study-finds/"
+      "p0f: TCP Packet Fingerprinting",
+      "https://lcamtuf.coredump.cx/p0f3/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Rapid Green Energy Transition Will Likely Result in Trillions of Net Savings",
       "https://www.cell.com/joule/fulltext/S2542-4351(22)00410-X"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 16:08:50",
+      "https://news.ycombinator.com/item?id=32878641"
+    ],
+    [
+      "TermVideo: View Video Files in a Terminal",
+      "https://pypi.org/project/termvideo/"
     ]
   ],
   [
@@ -201,22 +211,12 @@
   ],
   [
     [
-      "2022-09-17, 09:10:34",
-      "https://news.ycombinator.com/item?id=32876015"
+      "2022-09-17, 08:29:27",
+      "https://news.ycombinator.com/item?id=32875795"
     ],
     [
-      "Show HN: Lota – An online ePub reader with VS Code style",
-      "https://www.lotareader.com"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 09:05:39",
-      "https://news.ycombinator.com/item?id=32875995"
-    ],
-    [
-      "A subpolar-focused stratospheric aerosol injection deployment scenario",
-      "https://iopscience.iop.org/article/10.1088/2515-7620/ac8cd3"
+      "Self-hostable maps stack, powered by OpenStreetMap",
+      "https://github.com/headwaymaps/headway"
     ]
   ],
   [
