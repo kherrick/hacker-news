@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-09-17, 19:57:11",
-      "https://news.ycombinator.com/item?id=32880961"
-    ],
-    [
-      "$ rm Important.txt (uh oh)",
-      "https://xenodium.com/rm-important-txt-oh-sht/"
-    ]
-  ],
-  [
-    [
       "2022-09-17, 19:54:27",
       "https://news.ycombinator.com/item?id=32880927"
     ],
@@ -157,6 +147,16 @@
     [
       "FTC to crack down on companies taking advantage of gig workers",
       "https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-crack-down-companies-taking-advantage-gig-workers"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 15:43:41",
+      "https://news.ycombinator.com/item?id=32878412"
+    ],
+    [
+      "IHP, a batteries-included web framework built on Haskell and Nix",
+      "https://github.com/digitallyinduced/ihp"
     ]
   ],
   [
