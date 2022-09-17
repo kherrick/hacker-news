@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-17, 12:29:29",
+      "https://news.ycombinator.com/item?id=32876988"
+    ],
+    [
+      "“Titanic” Disaster: Report of the Committee on Commerce, US Senate (1918) [pdf]",
+      "https://www.senate.gov/artandhistory/history/resources/pdf/TitanicReport.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 12:28:42",
+      "https://news.ycombinator.com/item?id=32876982"
+    ],
+    [
+      "U.S. appeals court rejects big tech's right to regulate online speech",
+      "https://www.reuters.com/legal/us-appeals-court-rules-against-big-techs-ability-regulate-online-speech-2022-09-16/"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 12:24:29",
+      "https://news.ycombinator.com/item?id=32876954"
+    ],
+    [
+      "Google (Feedburner) just voided RSS URLs for CNN, Marketwatch, etc.",
+      "https://news.ycombinator.com/item?id=32876954"
+    ]
+  ],
+  [
+    [
       "2022-09-17, 12:02:22",
       "https://news.ycombinator.com/item?id=32876819"
     ],
     [
       "Tesorio raised a Series B and is hiring a Sr Front end Engineer and Support Engineer",
       "https://jobs.lever.co/tesorio"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 11:49:44",
+      "https://news.ycombinator.com/item?id=32876748"
+    ],
+    [
+      "The Sounds of CDMX",
+      "https://pudding.cool/2022/09/cdmx/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=32876302"
     ],
     [
-      "How Eventual Is Eventual Consistency?",
+      "How Eventual Is Eventual Consistency? - PBS in action under Dynamo-style quorums",
       "http://pbs.cs.berkeley.edu/#demo"
     ]
   ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2022-09-17, 07:18:22",
-      "https://news.ycombinator.com/item?id=32875465"
-    ],
-    [
-      "Figma vs. Adobe XD",
-      "https://www.figma.com/figma-vs-adobe-xd/"
-    ]
-  ],
-  [
-    [
       "2022-09-17, 07:00:34",
       "https://news.ycombinator.com/item?id=32875396"
     ],
@@ -127,16 +157,6 @@
     [
       "CppCon 2022",
       "https://cppcon.org/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 03:48:09",
-      "https://news.ycombinator.com/item?id=32874597"
-    ],
-    [
-      "SurrealDB: Distributed document-graph database for the realtime web",
-      "https://github.com/surrealdb/surrealdb"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Mouse embryo with brain and beating heart created from stem cells",
       "https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 20:08:39",
-      "https://news.ycombinator.com/item?id=32871392"
-    ],
-    [
-      "TinyBase v2.0: reactive data store for local-first apps",
-      "https://tinybase.org/guides/releases/#v2-0"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ace Attorney's forgotten game shows strange place of fan localisations",
       "https://www.eurogamer.net/ace-attorneys-forgotten-game-shows-the-strange-place-of-fan-localisations-within-fandom"
-    ]
-  ],
-  [
-    [
-      "2022-09-14, 13:47:36",
-      "https://news.ycombinator.com/item?id=32837121"
-    ],
-    [
-      "Game Programming Patterns (2014)",
-      "https://gameprogrammingpatterns.com/"
     ]
   ]
 ]
