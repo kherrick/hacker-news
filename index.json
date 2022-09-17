@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-17, 03:48:09",
+      "https://news.ycombinator.com/item?id=32874597"
+    ],
+    [
+      "Surrealdb – FOSS document-graph database, for the realtime web in Rust",
+      "https://github.com/surrealdb/surrealdb"
+    ]
+  ],
+  [
+    [
       "2022-09-17, 02:15:53",
       "https://news.ycombinator.com/item?id=32874189"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2022-09-16, 12:58:57",
-      "https://news.ycombinator.com/item?id=32865497"
+      "2022-09-16, 08:13:00",
+      "https://news.ycombinator.com/item?id=32863489"
     ],
     [
-      "35M Hot Dogs: Benchmarking Caddy vs. Nginx",
-      "https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 12:30:30",
-      "https://news.ycombinator.com/item?id=32865229"
-    ],
-    [
-      "The lost ways of programming: Commodore 64 BASIC (2020)",
-      "https://tomasp.net/commodore64/"
+      "Reasons you aren't updating your personal site (2020)",
+      "https://brianlovin.com/writing/reasons-you-arent-updating-your-personal-site"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-09-16, 02:27:48",
-      "https://news.ycombinator.com/item?id=32861348"
-    ],
-    [
-      "Spring Reverb Tanks Explained and Compared",
-      "https://www.amplifiedparts.com/tech-articles/spring-reverb-tanks-explained-and-compared"
-    ]
-  ],
-  [
-    [
       "2022-09-15, 12:59:28",
       "https://news.ycombinator.com/item?id=32851196"
     ],
@@ -287,6 +277,16 @@
     [
       "Ace Attorney's forgotten game shows strange place of fan localisations",
       "https://www.eurogamer.net/ace-attorneys-forgotten-game-shows-the-strange-place-of-fan-localisations-within-fandom"
+    ]
+  ],
+  [
+    [
+      "2022-09-15, 11:11:42",
+      "https://news.ycombinator.com/item?id=32850016"
+    ],
+    [
+      "Joy of Elixir (2020)",
+      "https://joyofelixir.com/toc.html"
     ]
   ],
   [
