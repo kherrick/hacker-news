@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2022-09-17, 19:57:11",
+      "https://news.ycombinator.com/item?id=32880961"
+    ],
+    [
+      "$ rm Important.txt (uh oh)",
+      "https://xenodium.com/rm-important-txt-oh-sht/"
+    ]
+  ],
+  [
+    [
       "2022-09-17, 19:54:27",
       "https://news.ycombinator.com/item?id=32880927"
     ],
     [
       "Phorge: Going Public",
       "https://we.phorge.it/phame/post/view/1/going_public/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 18:19:22",
-      "https://news.ycombinator.com/item?id=32879868"
-    ],
-    [
-      "Triple-dip La Niña confirmed as BoM makes declaration",
-      "https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Number theory explained from first principles",
       "https://explained-from-first-principles.com/number-theory/"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 18:06:04",
+      "https://news.ycombinator.com/item?id=32879737"
+    ],
+    [
+      "Why do all these 20-somethings have closed captions turned on?",
+      "https://www.wsj.com/articles/why-do-all-these-20-somethings-have-closed-captions-turned-on-11663386473"
     ]
   ],
   [
@@ -105,18 +115,8 @@
       "https://news.ycombinator.com/item?id=32879201"
     ],
     [
-      "To study ancient seafarers, researcher built a replica ship – and sailed it",
+      "To study ancient seafarers, researcher built a replica ship and sailed it",
       "https://www.washingtonpost.com/history/2022/09/17/seafarers-mediterranean-wind-david-gal/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 16:53:12",
-      "https://news.ycombinator.com/item?id=32878995"
-    ],
-    [
-      "Rapid Green Energy Transition Will Likely Result in Trillions of Net Savings",
-      "https://www.cell.com/joule/fulltext/S2542-4351(22)00410-X"
     ]
   ],
   [
@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2022-09-17, 15:43:41",
-      "https://news.ycombinator.com/item?id=32878412"
-    ],
-    [
-      "IHP, a batteries-included web framework built on Haskell and Nix",
-      "https://github.com/digitallyinduced/ihp"
-    ]
-  ],
-  [
-    [
       "2022-09-17, 15:07:20",
       "https://news.ycombinator.com/item?id=32878112"
     ],
     [
       "ZX81plus38 – A ULA-less ZX81 clone",
       "https://github.com/mahjongg2/ZX81plus38"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 14:47:33",
+      "https://news.ycombinator.com/item?id=32877942"
+    ],
+    [
+      "How to disagree with someone more powerful than you (2016)",
+      "https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Super apps are proliferating across emerging markets",
       "https://afridigest.com/super-apps-in-emerging-markets/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 12:29:29",
-      "https://news.ycombinator.com/item?id=32876988"
-    ],
-    [
-      "“Titanic” Disaster: Report of the Committee on Commerce, US Senate (1918) [pdf]",
-      "https://www.senate.gov/artandhistory/history/resources/pdf/TitanicReport.pdf"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2022-09-16, 22:47:30",
+      "https://news.ycombinator.com/item?id=32873005"
+    ],
+    [
+      "The case for ending calculus requirements for science majors",
+      "https://quillette.com/2022/09/15/math-for-future-darwins/"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 20:41:58",
       "https://news.ycombinator.com/item?id=32871773"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32864036"
     ],
     [
-      "Gitui: Terminal UI for Git",
+      "GitUI: Terminal UI for Git",
       "https://github.com/extrawurst/gitui"
     ]
   ]
