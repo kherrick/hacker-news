@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-17, 02:15:53",
+      "https://news.ycombinator.com/item?id=32874189"
+    ],
+    [
+      "Apple to Move a Part of Its Embedded Cores to RISC-V",
+      "https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 01:50:51",
+      "https://news.ycombinator.com/item?id=32874086"
+    ],
+    [
+      "Blocking Web Fonts for Speed and Privacy",
+      "https://collinmbarrett.com/block-web-fonts/"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 01:10:00",
+      "https://news.ycombinator.com/item?id=32873904"
+    ],
+    [
+      "Galileo Project now fully funded for expedition to study an interstellar meteor",
+      "https://avi-loeb.medium.com/message-in-an-interstellar-bottle-c393ea526e9f"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 01:09:12",
+      "https://news.ycombinator.com/item?id=32873899"
+    ],
+    [
+      "Bankman-Fried survived the slump and still expanded",
+      "https://www.cnbc.com/2022/09/16/how-billionaire-bankman-fried-survived-the-slump-and-still-expanded.html"
+    ]
+  ],
+  [
+    [
       "2022-09-17, 00:05:21",
       "https://news.ycombinator.com/item?id=32873563"
     ],
@@ -21,11 +61,21 @@
   ],
   [
     [
+      "2022-09-16, 23:57:03",
+      "https://news.ycombinator.com/item?id=32873517"
+    ],
+    [
+      "Retrobot: A Discord bot that plays emulated games with friends over chat",
+      "https://github.com/rossimo/retrobot"
+    ]
+  ],
+  [
+    [
       "2022-09-16, 22:48:47",
       "https://news.ycombinator.com/item?id=32873017"
     ],
     [
-      "In Ethereum, as of 2022, over 90% of miners are connected to one single server",
+      "Flashbots",
       "https://blog.bitmex.com/flashbots/"
     ]
   ],
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2022-09-16, 16:30:14",
-      "https://news.ycombinator.com/item?id=32868512"
-    ],
-    [
-      "Iranian Citizens Charged in Broad Hacking Campaign in US",
-      "https://www.insurancejournal.com/news/national/2022/09/16/685303.htm"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 16:21:46",
       "https://news.ycombinator.com/item?id=32868377"
     ],
@@ -117,16 +157,6 @@
     [
       "Datastream for BigQuery Preview",
       "https://cloud.google.com/datastream-for-bigquery"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 16:04:32",
-      "https://news.ycombinator.com/item?id=32868091"
-    ],
-    [
-      "How to build a graph visualization engine",
-      "https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2022-09-16, 15:21:17",
-      "https://news.ycombinator.com/item?id=32867299"
-    ],
-    [
-      "The Etherkiller and Friends (2002)",
-      "http://www.fiftythree.org/etherkiller/"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 14:56:13",
       "https://news.ycombinator.com/item?id=32866892"
     ],
     [
       "World’s longest journey by pumpkin boat",
       "https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 14:17:03",
-      "https://news.ycombinator.com/item?id=32866319"
-    ],
-    [
-      "Show HN: A framework for building Slack bots in Python",
-      "https://github.com/DonDebonair/slack-machine"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2022-09-16, 12:51:38",
-      "https://news.ycombinator.com/item?id=32865428"
-    ],
-    [
-      "Ask HN: What interesting problems are you working on?",
-      "https://news.ycombinator.com/item?id=32865428"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 12:30:30",
       "https://news.ycombinator.com/item?id=32865229"
     ],
     [
       "The lost ways of programming: Commodore 64 BASIC (2020)",
       "https://tomasp.net/commodore64/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 12:07:05",
-      "https://news.ycombinator.com/item?id=32864997"
-    ],
-    [
-      "US border forces are seizing Americans' phone data and storing it for 15 years",
-      "https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
-      "2022-09-16, 05:24:37",
-      "https://news.ycombinator.com/item?id=32862421"
-    ],
-    [
-      "Search, Discovery and Marketing (2015)",
-      "https://www.ben-evans.com/benedictevans/2015/6/24/search-discovery-and-marketing"
-    ]
-  ],
-  [
-    [
       "2022-09-16, 05:07:27",
       "https://news.ycombinator.com/item?id=32862333"
     ],
     [
       "Best command-line-only video games (2019)",
       "https://www.linuxjournal.com/content/best-command-line-only-video-games"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 04:59:20",
+      "https://news.ycombinator.com/item?id=32862285"
+    ],
+    [
+      "Researchers piece together the story of a Roman city, one artifact at a time",
+      "https://phys.org/news/2022-09-piece-story-ancient-roman-city.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ace Attorney's forgotten game shows strange place of fan localisations",
       "https://www.eurogamer.net/ace-attorneys-forgotten-game-shows-the-strange-place-of-fan-localisations-within-fandom"
+    ]
+  ],
+  [
+    [
+      "2022-09-14, 13:47:36",
+      "https://news.ycombinator.com/item?id=32837121"
+    ],
+    [
+      "Game Programming Patterns",
+      "https://gameprogrammingpatterns.com/"
     ]
   ]
 ]
