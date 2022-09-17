@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-09-17, 17:37:31",
-      "https://news.ycombinator.com/item?id=32879430"
-    ],
-    [
-      "Being a victim of rape costs an average of $3,500 in medical bills",
-      "https://arstechnica.com/science/2022/09/being-a-victim-of-rape-costs-an-average-of-3500-in-medical-bills-study-finds/"
-    ]
-  ],
-  [
-    [
       "2022-09-17, 17:14:51",
       "https://news.ycombinator.com/item?id=32879201"
     ],
@@ -287,6 +277,16 @@
     [
       "The Lost Art of Conversation (1899)",
       "https://www.saturdayeveningpost.com/flipbooks/reprints/The_Lost_Art_of_Conversation/"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 13:00:43",
+      "https://news.ycombinator.com/item?id=32865510"
+    ],
+    [
+      "Show HN: Goroutine-analyzer: A visual goroutine stack dump debugging tool",
+      "https://github.com/openziti/goroutine-analyzer"
     ]
   ],
   [
