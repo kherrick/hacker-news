@@ -1,12 +1,62 @@
 [
   [
     [
+      "2022-09-17, 18:19:22",
+      "https://news.ycombinator.com/item?id=32879868"
+    ],
+    [
+      "Triple-dip La Niña confirmed as BoM makes declaration",
+      "https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 18:17:57",
+      "https://news.ycombinator.com/item?id=32879848"
+    ],
+    [
+      "Show HN: LambdaLisp – A Lisp Interpreter That Runs on Lambda Calculus",
+      "https://woodrush.github.io/blog/lambdalisp.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 18:12:30",
+      "https://news.ycombinator.com/item?id=32879801"
+    ],
+    [
+      "Number Theory – Explained from First Principles",
+      "https://explained-from-first-principles.com/number-theory/"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 17:55:36",
+      "https://news.ycombinator.com/item?id=32879636"
+    ],
+    [
+      "S6: A standalone JIT compiler library for CPython",
+      "https://github.com/deepmind/s6"
+    ]
+  ],
+  [
+    [
       "2022-09-17, 17:48:40",
       "https://news.ycombinator.com/item?id=32879551"
     ],
     [
       "p0f: TCP Packet Fingerprinting",
       "https://lcamtuf.coredump.cx/p0f3/"
+    ]
+  ],
+  [
+    [
+      "2022-09-17, 17:37:31",
+      "https://news.ycombinator.com/item?id=32879430"
+    ],
+    [
+      "Being a victim of rape costs an average of $3,500 in medical bills",
+      "https://arstechnica.com/science/2022/09/being-a-victim-of-rape-costs-an-average-of-3500-in-medical-bills-study-finds/"
     ]
   ],
   [
@@ -37,16 +87,6 @@
     [
       "Rapid Green Energy Transition Will Likely Result in Trillions of Net Savings",
       "https://www.cell.com/joule/fulltext/S2542-4351(22)00410-X"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 16:08:50",
-      "https://news.ycombinator.com/item?id=32878641"
-    ],
-    [
-      "TermVideo: View Video Files in a Terminal",
-      "https://pypi.org/project/termvideo/"
     ]
   ],
   [
@@ -91,12 +131,12 @@
   ],
   [
     [
-      "2022-09-17, 15:37:43",
-      "https://news.ycombinator.com/item?id=32878366"
+      "2022-09-17, 15:43:41",
+      "https://news.ycombinator.com/item?id=32878412"
     ],
     [
-      "Ubuntu 22.10 Aiming to Support the $16 Sipeed LicheeRV RISC-V Board",
-      "https://www.phoronix.com/news/Ubuntu-22.10-Sipeed-LicheeRV"
+      "IHP, a batteries-included web framework built on Haskell and Nix",
+      "https://github.com/digitallyinduced/ihp"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "ZX81plus38 – A ULA-less ZX81 clone",
       "https://github.com/mahjongg2/ZX81plus38"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 14:45:22",
-      "https://news.ycombinator.com/item?id=32877928"
-    ],
-    [
-      "Why does a librarian own MetaFilter?",
-      "https://publicinfrastructure.org/podcast/jessamyn-west-part-1/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2022-09-17, 06:28:43",
-      "https://news.ycombinator.com/item?id=32875246"
-    ],
-    [
-      "CppCon 2022",
-      "https://cppcon.org/"
-    ]
-  ],
-  [
-    [
       "2022-09-17, 05:19:06",
       "https://news.ycombinator.com/item?id=32874970"
     ],
@@ -277,26 +297,6 @@
     [
       "Scribble: The Racket Documentation Tool",
       "https://docs.racket-lang.org/scribble/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 10:30:30",
-      "https://news.ycombinator.com/item?id=32864347"
-    ],
-    [
-      "Metaprogramming in Python",
-      "https://developer.ibm.com/tutorials/ba-metaprogramming-python/"
-    ]
-  ],
-  [
-    [
-      "2022-09-16, 06:13:57",
-      "https://news.ycombinator.com/item?id=32862697"
-    ],
-    [
-      "The Architecture of Musical Instruments",
-      "https://www.archiobjects.org/the-architecture-of-musical-instruments-in-the-photographs-of-charles-brooks/"
     ]
   ]
 ]
