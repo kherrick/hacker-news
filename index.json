@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-18, 19:03:28",
+      "https://news.ycombinator.com/item?id=32890423"
+    ],
+    [
+      "The Hyperinflation Gallery",
+      "https://lcamtuf.coredump.cx/hyper/"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 18:32:53",
+      "https://news.ycombinator.com/item?id=32890100"
+    ],
+    [
+      "Ada Programming Language",
+      "https://ada-lang.io/"
+    ]
+  ],
+  [
+    [
       "2022-09-18, 18:17:04",
       "https://news.ycombinator.com/item?id=32889929"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32889337"
     ],
     [
-      "Measuring core-to-core latency (in Rust)",
+      "Measuring CPU core-to-core latency",
       "https://github.com/nviennot/core-to-core-latency"
     ]
   ],
@@ -157,26 +177,6 @@
     [
       "Finding the “Second Bug” in Glibc’s Condition Variable",
       "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 12:54:33",
-      "https://news.ycombinator.com/item?id=32887140"
-    ],
-    [
-      "How James Clear is writing his next book",
-      "https://every.to/superorganizers/how-james-clear-is-writing-his-next-book"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 12:48:40",
-      "https://news.ycombinator.com/item?id=32887092"
-    ],
-    [
-      "The future of documentation at Canonical (2021)",
-      "https://ubuntu.com/blog/the-future-of-documentation-at-canonical"
     ]
   ],
   [
