@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-18, 13:03:46",
+      "https://news.ycombinator.com/item?id=32887199"
+    ],
+    [
+      "EmuTOS: A Modern FOSS Replacement OS for the Atari ST – and the Amiga Too",
+      "https://emutos.sourceforge.io/"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 12:55:10",
+      "https://news.ycombinator.com/item?id=32887143"
+    ],
+    [
+      "Finding the “Second Bug” in Glibc’s Condition Variable",
+      "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 12:53:20",
+      "https://news.ycombinator.com/item?id=32887128"
+    ],
+    [
+      "Merriam-Webster and Unstructured Data Processing",
+      "https://www.georgeho.org/webster-unstructured-data/"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 12:43:55",
+      "https://news.ycombinator.com/item?id=32887061"
+    ],
+    [
+      "How to blow $85M in 11 months: The inside story of Airlift’s crash",
+      "https://restofworld.org/2022/inside-story-of-airlift-crash/"
+    ]
+  ],
+  [
+    [
       "2022-09-18, 11:15:20",
       "https://news.ycombinator.com/item?id=32886533"
     ],
@@ -201,36 +241,6 @@
   ],
   [
     [
-      "2022-09-17, 14:47:33",
-      "https://news.ycombinator.com/item?id=32877942"
-    ],
-    [
-      "How to disagree with someone more powerful than you (2016)",
-      "https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 14:31:36",
-      "https://news.ycombinator.com/item?id=32877814"
-    ],
-    [
-      "Cppfront, Herb Sutter's proposal for a new C++ syntax",
-      "https://github.com/hsutter/cppfront"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 13:35:56",
-      "https://news.ycombinator.com/item?id=32877435"
-    ],
-    [
-      "Super apps are proliferating across emerging markets",
-      "https://afridigest.com/super-apps-in-emerging-markets/"
-    ]
-  ],
-  [
-    [
       "2022-09-17, 13:33:13",
       "https://news.ycombinator.com/item?id=32877412"
     ],
@@ -267,16 +277,6 @@
     [
       "The family that built a ballpark nachos monopoly",
       "https://thehustle.co/the-family-that-built-a-ballpark-nachos-monopoly/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 08:29:27",
-      "https://news.ycombinator.com/item?id=32875795"
-    ],
-    [
-      "Self-hostable maps stack, powered by OpenStreetMap",
-      "https://github.com/headwaymaps/headway"
     ]
   ],
   [
