@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-18, 19:56:14",
+      "https://news.ycombinator.com/item?id=32890906"
+    ],
+    [
+      "America’s most remarkable kid died in Newcastle, Utah",
+      "https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 19:22:16",
+      "https://news.ycombinator.com/item?id=32890604"
+    ],
+    [
+      "Hot Chips 34: AMD’s Instinct MI200 Architecture",
+      "https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/"
+    ]
+  ],
+  [
+    [
       "2022-09-18, 19:03:28",
       "https://news.ycombinator.com/item?id=32890423"
     ],
@@ -107,16 +127,6 @@
     [
       "YouTubePluginReplacement.cpp: YouTube-specific code in WebKit",
       "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 14:34:53",
-      "https://news.ycombinator.com/item?id=32887897"
-    ],
-    [
-      "Refurb weekend: New batteries for the Palm Pilots",
-      "http://oldvcr.blogspot.com/2022/09/refurb-weekend-new-batteries-for-palm.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Note-taking isn't rocket science",
       "https://tsk.bearblog.dev/note-taking-isnt-rocket-science/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 07:09:06",
-      "https://news.ycombinator.com/item?id=32885203"
-    ],
-    [
-      "J40: Independent, self-contained JPEG XL decoder",
-      "https://github.com/lifthrasiir/j40"
     ]
   ],
   [
