@@ -1,11 +1,21 @@
 [
   [
     [
+      "2022-09-19, 05:41:11",
+      "https://news.ycombinator.com/item?id=32894663"
+    ],
+    [
+      "Putin’s Energy War with Europe Seems to Falter",
+      "https://www.wsj.com/articles/vladimir-putins-energy-war-with-europe-seems-to-falter-11663523925"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 04:40:50",
       "https://news.ycombinator.com/item?id=32894344"
     ],
     [
-      "macOS 10.15: Slow by Design (2020)",
+      "MacOS 10.15: Slow by Design (2020)",
       "https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=32893292"
     ],
     [
-      "Ask HN: What do you think when companies ask for Gritty people?",
+      "Ask HN: What do you think when companies ask for gritty people?",
       "https://news.ycombinator.com/item?id=32893292"
     ]
   ],
@@ -65,8 +75,18 @@
       "https://news.ycombinator.com/item?id=32892327"
     ],
     [
-      "Bitcoin is not a Store of Value",
+      "Bitcoin is not a store of value",
       "https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 22:50:52",
+      "https://news.ycombinator.com/item?id=32892234"
+    ],
+    [
+      "Subprime loans for college hiding in plain sight",
+      "https://www.nytimes.com/2022/09/17/your-money/parent-plus-loans.html"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=32891313"
     ],
     [
-      "An X11 Apologist Tries Wayland",
+      "An X11 apologist tries Wayland",
       "https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "America’s most remarkable kid died in Newcastle, Utah",
       "https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 19:49:20",
-      "https://news.ycombinator.com/item?id=32890840"
-    ],
-    [
-      "Not Perfect, Just Better",
-      "https://satfax.substack.com/p/not-perfect-just-better"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=32890423"
     ],
     [
-      "The Hyperinflation Gallery",
+      "The hyperinflation gallery",
       "https://lcamtuf.coredump.cx/hyper/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "YouTubePluginReplacement.cpp: YouTube-specific code in WebKit",
       "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 12:55:10",
-      "https://news.ycombinator.com/item?id=32887143"
-    ],
-    [
-      "Finding the “second bug” in glibc’s condition variable",
-      "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
     ]
   ],
   [
