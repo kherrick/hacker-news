@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 10:54:36",
+      "https://news.ycombinator.com/item?id=32896658"
+    ],
+    [
+      "Mullvad Creates a Hardware Company",
+      "https://mullvad.net/en/blog/2022/9/19/mullvad-creates-a-hardware-company/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 09:59:49",
       "https://news.ycombinator.com/item?id=32896299"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2022-09-19, 09:26:28",
-      "https://news.ycombinator.com/item?id=32896113"
+      "2022-09-19, 08:35:54",
+      "https://news.ycombinator.com/item?id=32895783"
     ],
     [
-      "How to get started with Rust for Web Dev",
-      "https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust"
+      "Bring Your Own Disaster",
+      "https://mjg59.dreamwidth.org/61089.html"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Matrix was worth the effort to self host",
       "https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 07:12:21",
-      "https://news.ycombinator.com/item?id=32895251"
-    ],
-    [
-      "Google removed our website from search because it uses YouTube-dl",
-      "https://www.kapwing.com/blog/google-erased-our-website/"
     ]
   ],
   [
@@ -121,12 +121,12 @@
   ],
   [
     [
-      "2022-09-19, 01:34:01",
-      "https://news.ycombinator.com/item?id=32893292"
+      "2022-09-19, 02:54:18",
+      "https://news.ycombinator.com/item?id=32893762"
     ],
     [
-      "Ask HN: What do you think when companies ask for gritty people?",
-      "https://news.ycombinator.com/item?id=32893292"
+      "Haskell's Operator Glossary",
+      "https://www.fpcomplete.com/haskell/tutorial/operators/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Figma: A Random Walk in Palo Alto",
       "https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 21:00:43",
-      "https://news.ycombinator.com/item?id=32891461"
-    ],
-    [
-      "Flexport (YC W14) is hiring",
-      "https://Flexport.com/careers"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Hg64: A 64-bit histogram data structure",
       "https://dotat.at/@/2022-07-15-histogram.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 10:08:29",
+      "https://news.ycombinator.com/item?id=32886122"
+    ],
+    [
+      "Steps to designing an embedded software architecture, Step 1",
+      "https://www.embedded.com/5-steps-to-designing-an-embedded-software-architecture-step-1/"
     ]
   ],
   [
