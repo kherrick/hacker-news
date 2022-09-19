@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-19, 20:03:24",
+      "https://news.ycombinator.com/item?id=32903172"
+    ],
+    [
+      "Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion",
+      "https://github.com/amrrs/stable-diffusion-prompt-inpainting"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 19:53:30",
+      "https://news.ycombinator.com/item?id=32903064"
+    ],
+    [
+      "Apple is top funder of lobby group that says it represents small developers",
+      "https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 19:42:21",
+      "https://news.ycombinator.com/item?id=32902945"
+    ],
+    [
+      "I accidentally started a movement – Policing the Police by scraping court data",
+      "https://news.ycombinator.com/item?id=32902945"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 19:41:17",
       "https://news.ycombinator.com/item?id=32902938"
     ],
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2022-09-19, 16:00:08",
-      "https://news.ycombinator.com/item?id=32900108"
-    ],
-    [
-      "I Resurrected “Ugly Sonic” with Stable Diffusion Textual Inversion",
-      "https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 15:52:37",
-      "https://news.ycombinator.com/item?id=32900007"
-    ],
-    [
-      "Raster Master Sprite Editor and Utilities for Dos",
-      "https://github.com/RetroNick2020/raster-master-dos"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 15:40:59",
       "https://news.ycombinator.com/item?id=32899846"
     ],
@@ -167,26 +177,6 @@
     [
       "Apple’s iPhone 14 Redesign for Repair",
       "https://www.ifixit.com/News/64865/iphone-14-teardown"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 14:18:21",
-      "https://news.ycombinator.com/item?id=32898679"
-    ],
-    [
-      "Show HN: DevTools-X – a cross platform alternative of devutils and devtoys",
-      "https://github.com/fosslife/devtools-x"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 13:45:58",
-      "https://news.ycombinator.com/item?id=32898210"
-    ],
-    [
-      "Ask HN: Why Adobe still can’t figure out Flash on WASM?",
-      "https://news.ycombinator.com/item?id=32898210"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
+      "2022-09-19, 13:08:02",
+      "https://news.ycombinator.com/item?id=32897784"
+    ],
+    [
+      "Pentagon opens sweeping review of clandestine psychological operations",
+      "https://www.washingtonpost.com/national-security/2022/09/19/pentagon-psychological-operations-facebook-twitter/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 12:47:08",
       "https://news.ycombinator.com/item?id=32897608"
     ],
     [
       "AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist",
       "https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 11:59:06",
-      "https://news.ycombinator.com/item?id=32897140"
-    ],
-    [
-      "The tyranny of the supertweeter",
-      "https://omnibudsman.substack.com/p/the-tyranny-of-the-supertweeter"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Faraday and Babbage: Semiconductors and Computing in 1833",
       "https://thechipletter.substack.com/p/faraday-and-babbage-semiconductors"
+    ]
+  ],
+  [
+    [
+      "2022-09-16, 19:10:41",
+      "https://news.ycombinator.com/item?id=32870662"
+    ],
+    [
+      "Colonizing the Cosmos: Astor’s Electrical Future",
+      "https://publicdomainreview.org/essay/colonizing-the-cosmos/"
     ]
   ]
 ]
