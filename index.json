@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-19, 05:41:11",
-      "https://news.ycombinator.com/item?id=32894663"
+      "2022-09-19, 06:16:49",
+      "https://news.ycombinator.com/item?id=32894870"
     ],
     [
-      "Putin’s Energy War with Europe Seems to Falter",
-      "https://www.wsj.com/articles/vladimir-putins-energy-war-with-europe-seems-to-falter-11663523925"
+      "Sim NIMBY, the Game Where You Can’t Build Anything",
+      "https://www.vice.com/en/article/qjkzdv/good-luck-playing-sim-nimby-the-game-where-you-cant-build-anything"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 04:57:16",
+      "https://news.ycombinator.com/item?id=32894429"
+    ],
+    [
+      "Show HN: Distributed JMAP and IMAP Servers in Rust",
+      "https://github.com/stalwartlabs/jmap-server"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "GCC's new fortification level: The gains and costs",
       "https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 15:05:30",
-      "https://news.ycombinator.com/item?id=32888125"
-    ],
-    [
-      "YouTubePluginReplacement.cpp: YouTube-specific code in WebKit",
-      "https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp"
     ]
   ],
   [
