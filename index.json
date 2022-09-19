@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-09-19, 16:01:48",
+      "https://news.ycombinator.com/item?id=32900123"
+    ],
+    [
+      "How Data Flows in Postgres",
+      "https://www.crunchydata.com/blog/postgres-data-flow"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 16:00:08",
+      "https://news.ycombinator.com/item?id=32900108"
+    ],
+    [
+      "I Resurrected “Ugly Sonic” with Stable Diffusion Textual Inversion",
+      "https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 15:52:37",
+      "https://news.ycombinator.com/item?id=32900007"
+    ],
+    [
+      "Raster Master Sprite Editor and Utilities for Dos",
+      "https://github.com/RetroNick2020/raster-master-dos"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 15:40:59",
+      "https://news.ycombinator.com/item?id=32899846"
+    ],
+    [
+      "Proxy chrome extensions are not going to be usable in MV3",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=1135492"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 15:15:18",
       "https://news.ycombinator.com/item?id=32899494"
     ],
@@ -11,32 +51,12 @@
   ],
   [
     [
-      "2022-09-19, 14:32:40",
-      "https://news.ycombinator.com/item?id=32898856"
-    ],
-    [
-      "Taxing Mechanical Engineers and Subsidizing Drama Majors",
-      "https://marginalrevolution.com/marginalrevolution/2022/09/taxing-mechanical-engineers-and-subsidizing-drama-majors.html"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 14:18:21",
       "https://news.ycombinator.com/item?id=32898679"
     ],
     [
       "Show HN: DevTools-X – a cross platform alternative of devutils and devtoys",
       "https://github.com/fosslife/devtools-x"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 14:02:16",
-      "https://news.ycombinator.com/item?id=32898445"
-    ],
-    [
-      "The Pentagon has ordered a review of US psyops on social media",
-      "https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media"
     ]
   ],
   [
@@ -61,22 +81,22 @@
   ],
   [
     [
-      "2022-09-19, 13:41:44",
-      "https://news.ycombinator.com/item?id=32898167"
-    ],
-    [
-      "Pentagon orders review of psyops after takedown of fake social accounts",
-      "https://www.washingtonpost.com/politics/2022/09/19/pentagon-orders-review-psyops-after-takedown-fake-social-accounts/"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 13:41:32",
       "https://news.ycombinator.com/item?id=32898165"
     ],
     [
-      "Aleksandr Sorokin smashes 24H world record with 198.6 mile/319.6 kilometer run",
+      "Aleksandr Sorokin smashes 24-hour world record with 198.6 mile run",
       "https://www.irunfar.com/aleksandr-sorokin-smashes-24-hour-world-record-with-198-6-mile-319-6-kilometer-run"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 13:34:26",
+      "https://news.ycombinator.com/item?id=32898085"
+    ],
+    [
+      "Why Figma Is Worth $20B and Other Observations from the Adobe Acquisition",
+      "https://hunterwalk.com/2022/09/19/why-figma-is-worth-20b-and-other-observations-from-the-adobe-acquisition/"
     ]
   ],
   [
@@ -195,7 +215,7 @@
       "https://news.ycombinator.com/item?id=32896966"
     ],
     [
-      "Chess Is Just Poker Now",
+      "Chess is just poker now",
       "https://www.theatlantic.com/technology/archive/2022/09/carlsen-niemann-chess-cheating-poker/671472/"
     ]
   ],
@@ -261,21 +281,11 @@
   ],
   [
     [
-      "2022-09-19, 01:25:15",
-      "https://news.ycombinator.com/item?id=32893237"
-    ],
-    [
-      "macOS Subsystem for Linux",
-      "https://github.com/macbian-linux/macos-subsystem-for-linux"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 00:44:12",
       "https://news.ycombinator.com/item?id=32892960"
     ],
     [
-      "The Mysterious, Vexing, and Utterly Engrossing Search for the Origin of Eels",
+      "The Search for the Origin of Eels",
       "https://hakaimagazine.com/features/the-mysterious-vexing-and-utterly-engrossing-search-for-the-origin-of-eels/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "A Microfluidic D-subminiature Connector (2013)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 01:07:58",
-      "https://news.ycombinator.com/item?id=32883355"
-    ],
-    [
-      "Trimalchio in Newburyport: Timothy Dexter’s a Pickle for the Knowing Ones (1848)",
-      "https://publicdomainreview.org/collection/dexter-pickle/"
     ]
   ]
 ]
