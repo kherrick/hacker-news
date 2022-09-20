@@ -1,12 +1,32 @@
 [
   [
     [
+      "2022-09-20, 12:21:46",
+      "https://news.ycombinator.com/item?id=32910692"
+    ],
+    [
+      "US Wealth dropped $6 Trillion in Q2",
+      "https://money.usnews.com/investing/news/articles/2022-09-09/u-s-household-wealth-falls-again-in-second-quarter-fed-says"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 11:34:50",
       "https://news.ycombinator.com/item?id=32910348"
     ],
     [
-      "Java 19 Is Out",
+      "JDK 19 Release Notes",
       "https://jdk.java.net/19/release-notes"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 11:07:02",
+      "https://news.ycombinator.com/item?id=32910168"
+    ],
+    [
+      "Hash collisions and exploitations – Instant MD5 collision",
+      "https://github.com/corkami/collisions"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=32909604"
     ],
     [
-      "The Aerodynamics of Gravel Bikes",
+      "Aerodynamics of Gravel Bikes",
       "https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/"
     ]
   ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2022-09-20, 05:22:50",
-      "https://news.ycombinator.com/item?id=32907963"
-    ],
-    [
-      "Upcoming price and tax changes for apps and in-app purchases",
-      "https://developer.apple.com/news/?id=e1b1hcmv"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 04:41:05",
       "https://news.ycombinator.com/item?id=32907726"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2022-09-20, 03:53:08",
-      "https://news.ycombinator.com/item?id=32907473"
-    ],
-    [
-      "The Internet Is Already Over",
-      "https://samkriss.substack.com/p/the-internet-is-already-over"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 03:13:59",
       "https://news.ycombinator.com/item?id=32907234"
     ],
     [
       "Cache your CORS",
       "https://httptoolkit.tech/blog/cache-your-cors/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 01:29:53",
-      "https://news.ycombinator.com/item?id=32906538"
-    ],
-    [
-      "Public buses across country adding microphones to record conversations (2012)",
-      "https://www.wired.com/2012/12/public-bus-audio-surveillance/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2022-09-19, 15:26:59",
+      "https://news.ycombinator.com/item?id=32899656"
+    ],
+    [
+      "2000-Watt Society",
+      "https://en.wikipedia.org/wiki/2000-watt_society"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 12:38:28",
       "https://news.ycombinator.com/item?id=32897524"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2022-09-19, 08:40:43",
+      "https://news.ycombinator.com/item?id=32895810"
+    ],
+    [
+      "'Extremely rare' Rameses II-era burial cave found in Israel",
+      "https://phys.org/news/2022-09-extremely-rare-rameses-ii-era-burial.html"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 04:52:23",
       "https://news.ycombinator.com/item?id=32894405"
     ],
     [
       "Dwyer Pressure Engineering and Applications Handbook [pdf]",
       "https://dwyer-inst.com/pub/media/pdf/K20Catalog_low_1sa53i3mb7qdd.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 16:42:09",
-      "https://news.ycombinator.com/item?id=32888990"
-    ],
-    [
-      "Have scholars finally deciphered Linear Elamite?",
-      "https://www.smithsonianmag.com/history/have-scholars-finally-deciphered-a-mysterious-ancient-script-180980497/"
     ]
   ],
   [
