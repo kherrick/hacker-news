@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-20, 19:16:44",
+      "https://news.ycombinator.com/item?id=32916496"
+    ],
+    [
+      "Star Citizen has passed half a billion in funding",
+      "https://robertsspaceindustries.com/funding-goals"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 19:01:39",
+      "https://news.ycombinator.com/item?id=32916318"
+    ],
+    [
+      "LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services",
+      "https://github.com/libredirect/libredirect"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 18:33:01",
+      "https://news.ycombinator.com/item?id=32915940"
+    ],
+    [
+      "List of most expensive video games to develop",
+      "https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 17:59:48",
       "https://news.ycombinator.com/item?id=32915455"
     ],
@@ -37,16 +67,6 @@
     [
       "The Texas Instruments TMX 1795: the (almost) first, forgotten microprocessor",
       "https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 17:12:15",
-      "https://news.ycombinator.com/item?id=32914750"
-    ],
-    [
-      "Intelligence and Radical Economic Attitudes",
-      "https://www.sciencedirect.com/science/article/pii/S0160289622000800"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2022-09-20, 12:51:30",
-      "https://news.ycombinator.com/item?id=32910954"
-    ],
-    [
-      "Introductory-level educational COBOL materials with modern tooling",
-      "https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 12:24:24",
       "https://news.ycombinator.com/item?id=32910719"
     ],
     [
       "Structured concurrency and Lua",
       "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 11:07:02",
-      "https://news.ycombinator.com/item?id=32910168"
-    ],
-    [
-      "Hash collisions and exploitations – Instant MD5 collision",
-      "https://github.com/corkami/collisions"
     ]
   ],
   [
