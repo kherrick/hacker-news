@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-20, 20:00:40",
+      "https://news.ycombinator.com/item?id=32916994"
+    ],
+    [
+      "Philosophy of Mathematics – A Reading List",
+      "https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 19:01:39",
       "https://news.ycombinator.com/item?id=32916318"
     ],
@@ -51,21 +61,11 @@
   ],
   [
     [
-      "2022-09-20, 17:47:27",
-      "https://news.ycombinator.com/item?id=32915227"
-    ],
-    [
-      "Show HN: Tigris – the open source developer data platform for your next app",
-      "https://docs.tigrisdata.com/quickstart"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 17:33:47",
       "https://news.ycombinator.com/item?id=32915049"
     ],
     [
-      "The Texas Instruments TMX 1795: the (almost) first, forgotten microprocessor",
+      "Texas Instruments TMX 1795: the almost first, forgotten microprocessor (2015)",
       "https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html"
     ]
   ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2022-09-20, 12:55:42",
-      "https://news.ycombinator.com/item?id=32910993"
-    ],
-    [
-      "In 2019 RX470 were $70, RX580 $100",
-      "https://postadio.com/PC_Master_Race/116620996134"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 12:24:24",
       "https://news.ycombinator.com/item?id=32910719"
     ],
     [
       "Structured concurrency and Lua",
       "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 11:07:02",
+      "https://news.ycombinator.com/item?id=32910168"
+    ],
+    [
+      "Hash collisions and exploitations – Instant MD5 collision",
+      "https://github.com/corkami/collisions"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=32896784"
     ],
     [
-      "Why Geofencing Will Enable L5",
+      "Geofencing Will Enable L5",
       "https://semiengineering.com/why-geofencing-will-enable-l5/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32895938"
     ],
     [
-      "The spelled-out intro to language modeling: building makemore. Part 2: MLP",
+      "The spelled-out intro to language modeling: building makemore. Part 2 [video]",
       "https://www.youtube.com/watch?v=TCH_1BHY58I"
     ]
   ]
