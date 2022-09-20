@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-20, 20:27:43",
+      "https://news.ycombinator.com/item?id=32917340"
+    ],
+    [
+      "Fork of the popular “I don't care about cookies” extension",
+      "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 20:00:40",
       "https://news.ycombinator.com/item?id=32916994"
     ],
@@ -37,16 +47,6 @@
     [
       "EU Open Web Search project kicked off",
       "https://openwebsearch.eu/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 17:47:27",
-      "https://news.ycombinator.com/item?id=32915227"
-    ],
-    [
-      "Show HN: Tigris – open-source developer data platform for your next app",
-      "https://docs.tigrisdata.com/quickstart"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2022-09-20, 12:24:24",
-      "https://news.ycombinator.com/item?id=32910719"
-    ],
-    [
-      "Structured concurrency and Lua",
-      "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 11:07:02",
       "https://news.ycombinator.com/item?id=32910168"
     ],
@@ -267,6 +257,16 @@
     [
       "Bidders of the Din",
       "https://www.vqronline.org/essays-articles/2022/09/bidders-din"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 16:05:09",
+      "https://news.ycombinator.com/item?id=32900173"
+    ],
+    [
+      "Disentangling the Facts from the Hype of Quantum Computing",
+      "https://spectrum.ieee.org/ieee-quantum-week"
     ]
   ],
   [
