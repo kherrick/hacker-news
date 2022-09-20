@@ -1,12 +1,92 @@
 [
   [
     [
-      "2022-09-20, 12:21:46",
-      "https://news.ycombinator.com/item?id=32910692"
+      "2022-09-20, 13:23:06",
+      "https://news.ycombinator.com/item?id=32911306"
     ],
     [
-      "US Wealth dropped $6 Trillion in Q2",
-      "https://money.usnews.com/investing/news/articles/2022-09-09/u-s-household-wealth-falls-again-in-second-quarter-fed-says"
+      "UX Testing for Public Infrastructure",
+      "https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:22:48",
+      "https://news.ycombinator.com/item?id=32911299"
+    ],
+    [
+      "Tell HN: Somebody implemented something I wrote a blog about",
+      "https://news.ycombinator.com/item?id=32911299"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:16:23",
+      "https://news.ycombinator.com/item?id=32911232"
+    ],
+    [
+      "Launch HN: Spinach.io (YC W22) – Better daily standups",
+      "https://news.ycombinator.com/item?id=32911232"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:13:50",
+      "https://news.ycombinator.com/item?id=32911195"
+    ],
+    [
+      "What I’ve learned from users",
+      "http://paulgraham.com/users.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:05:57",
+      "https://news.ycombinator.com/item?id=32911109"
+    ],
+    [
+      "America’s Open Wound",
+      "https://edwardsnowden.substack.com/p/americas-open-wound"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:03:46",
+      "https://news.ycombinator.com/item?id=32911083"
+    ],
+    [
+      "Ask HN: How does your company handle late running projects?",
+      "https://news.ycombinator.com/item?id=32911083"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 12:55:42",
+      "https://news.ycombinator.com/item?id=32910993"
+    ],
+    [
+      "Just a reminder: In 2019 RX470 were $70, RX580 $100",
+      "https://postadio.com/PC_Master_Race/116620996134"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 12:51:30",
+      "https://news.ycombinator.com/item?id=32910954"
+    ],
+    [
+      "Introductory-level educational COBOL materials with modern tooling",
+      "https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 12:24:24",
+      "https://news.ycombinator.com/item?id=32910719"
+    ],
+    [
+      "Structured concurrency and Lua",
+      "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22"
     ]
   ],
   [
@@ -31,52 +111,12 @@
   ],
   [
     [
-      "2022-09-20, 10:24:21",
-      "https://news.ycombinator.com/item?id=32909908"
-    ],
-    [
-      "CSS calc(100% – 0) is invalid, but calc(100% - 0px) is valid",
-      "https://webplatform.news/#1663639656000"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 09:36:00",
       "https://news.ycombinator.com/item?id=32909604"
     ],
     [
       "Aerodynamics of Gravel Bikes",
       "https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 08:38:50",
-      "https://news.ycombinator.com/item?id=32909167"
-    ],
-    [
-      "SQLite: Past, Present, and Future",
-      "http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 08:30:09",
-      "https://news.ycombinator.com/item?id=32909106"
-    ],
-    [
-      "Magnus Carlsen resigns against Hans Niemann after one move",
-      "https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 07:23:04",
-      "https://news.ycombinator.com/item?id=32908712"
-    ],
-    [
-      "Document Foundation starts charging €8.99 for 'free' LibreOffice",
-      "https://www.theregister.com/2022/09/20/libre_office_macos_fees/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2022-09-19, 23:49:12",
-      "https://news.ycombinator.com/item?id=32905728"
-    ],
-    [
-      "More US Employers Are Trapping Workers in a New Form of Indentured Servitude",
-      "https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 23:22:37",
       "https://news.ycombinator.com/item?id=32905506"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-09-19, 16:04:47",
-      "https://news.ycombinator.com/item?id=32900164"
-    ],
-    [
-      "I’m a productive programmer with a memory of a fruit fly",
-      "https://hynek.me/articles/productive-fruit-fly-programmer/"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 15:26:59",
       "https://news.ycombinator.com/item?id=32899656"
     ],
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2022-09-19, 12:38:28",
-      "https://news.ycombinator.com/item?id=32897524"
+      "2022-09-19, 15:13:23",
+      "https://news.ycombinator.com/item?id=32899463"
     ],
     [
-      "Sony's Nextorage Demos PCIe 5.0 SSD as It Enters SSD Market",
-      "https://www.tomshardware.com/news/sony-nextorage-pcie5-ssd-demoed"
+      "Diving deeper into custom PDF and ePub generation",
+      "https://nibblestew.blogspot.com/2022/09/diving-deeper-into-custom-pdf-and-epub.html"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Switzerland’s Museum of Consumer Electronics",
       "https://spectrum.ieee.org/switzerlands-museum-of-consumer-electronics"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 10:32:51",
-      "https://news.ycombinator.com/item?id=32896519"
-    ],
-    [
-      "Automatic Differentiation in OCaml",
-      "https://codeberg.org/bit-fu/OCaml-AutomaticDifferentiation"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Caring for the only known full kākāpō feather cloak in the world",
       "https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 03:24:16",
-      "https://news.ycombinator.com/item?id=32884130"
-    ],
-    [
-      "Nagorno-Karabakh’s Myth of Ancient Hatreds (2020)",
-      "https://www.historytoday.com/miscellanies/nagorno-karabakhs-myth-ancient-hatreds"
     ]
   ],
   [
