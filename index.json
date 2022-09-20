@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-20, 15:47:54",
-      "https://news.ycombinator.com/item?id=32913377"
+      "2022-09-20, 15:57:56",
+      "https://news.ycombinator.com/item?id=32913533"
     ],
     [
-      "Ask HN: About to have a child, completely burnt out at my job, what do I do?",
-      "https://news.ycombinator.com/item?id=32913377"
+      "Wasmtime 1.0",
+      "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 15:52:11",
+      "https://news.ycombinator.com/item?id=32913443"
+    ],
+    [
+      "JITX (YC S18) launches and announces $12M Series A from Sequoia",
+      "https://www.jitx.com/blog/series-a-announcement"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "GTK4 Bindings for Common Lisp",
       "https://github.com/bohonghuang/cl-gtk4"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 15:31:50",
+      "https://news.ycombinator.com/item?id=32913125"
+    ],
+    [
+      "Learn how to unleash the full potential of the type system of TypeScript",
+      "https://type-level-typescript.com/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-20, 13:05:57",
-      "https://news.ycombinator.com/item?id=32911109"
-    ],
-    [
-      "America’s Open Wound",
-      "https://edwardsnowden.substack.com/p/americas-open-wound"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 13:03:46",
       "https://news.ycombinator.com/item?id=32911083"
     ],
@@ -197,16 +207,6 @@
     [
       "Structured concurrency and Lua",
       "https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 11:34:50",
-      "https://news.ycombinator.com/item?id=32910348"
-    ],
-    [
-      "JDK 19 Release Notes",
-      "https://jdk.java.net/19/release-notes"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2022-09-19, 12:13:17",
-      "https://news.ycombinator.com/item?id=32897255"
-    ],
-    [
-      "Using the Silver Reed SK840 Knitting Machine",
-      "https://wiki.cci.arts.ac.uk/books/facilities/page/using-the-silver-reed-sk840-knitting-machine"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 11:17:01",
       "https://news.ycombinator.com/item?id=32896825"
     ],
@@ -297,6 +287,16 @@
     [
       "'Extremely rare' Rameses II-era burial cave found in Israel",
       "https://phys.org/news/2022-09-extremely-rare-rameses-ii-era-burial.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 18:40:15",
+      "https://news.ycombinator.com/item?id=32890188"
+    ],
+    [
+      "Filling the Gaps: Notes in the margins of early modern books",
+      "https://www.historytoday.com/archive/history-matters/filling-gaps"
     ]
   ]
 ]
