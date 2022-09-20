@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-20, 15:47:54",
+      "https://news.ycombinator.com/item?id=32913377"
+    ],
+    [
+      "Ask HN: About to have a child, completely burnt out at my job, what do I do?",
+      "https://news.ycombinator.com/item?id=32913377"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 15:42:50",
+      "https://news.ycombinator.com/item?id=32913301"
+    ],
+    [
+      "GTK4 Bindings for Common Lisp",
+      "https://github.com/bohonghuang/cl-gtk4"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 15:21:25",
       "https://news.ycombinator.com/item?id=32912953"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2022-09-20, 00:33:57",
-      "https://news.ycombinator.com/item?id=32906085"
-    ],
-    [
-      "Faster CPython 3.12 Plan",
-      "https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 15:26:59",
       "https://news.ycombinator.com/item?id=32899656"
     ],
@@ -277,16 +287,6 @@
     [
       "How to write sports commentary (2009)",
       "https://www.gamedeveloper.com/audio/the-designer-s-notebook-how-to-write-sports-commentary"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 09:15:35",
-      "https://news.ycombinator.com/item?id=32896051"
-    ],
-    [
-      "Content based change detection with Make",
-      "https://andydote.co.uk/2022/09/19/make-content-hash/"
     ]
   ],
   [
