@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-09-20, 00:33:57",
+      "https://news.ycombinator.com/item?id=32906085"
+    ],
+    [
+      "Faster CPython 3.12 Plan",
+      "https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 00:07:24",
+      "https://news.ycombinator.com/item?id=32905885"
+    ],
+    [
+      "Azure CTO: “It's time to halt starting any new projects in C/C++”",
+      "https://twitter.com/markrussinovich/status/1571995117233504257"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 23:57:18",
+      "https://news.ycombinator.com/item?id=32905802"
+    ],
+    [
+      "Show HN: Figr.app – a multi-user, notepad style calculator (desktop app)",
+      "https://www.figr.app/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 23:22:37",
       "https://news.ycombinator.com/item?id=32905506"
     ],
     [
       "Jqp: A TUI playground for exploring jq",
       "https://github.com/noahgorstein/jqp"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 20:37:26",
-      "https://news.ycombinator.com/item?id=32903606"
-    ],
-    [
-      "An opinionated guide to making friends",
-      "https://blog.aadilali.com/posts/friends.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-09-19, 15:40:59",
-      "https://news.ycombinator.com/item?id=32899846"
-    ],
-    [
-      "Proxy Chrome extensions are not going to be usable in MV3",
-      "https://bugs.chromium.org/p/chromium/issues/detail?id=1135492"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 15:25:50",
       "https://news.ycombinator.com/item?id=32899644"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2022-09-19, 13:23:21",
-      "https://news.ycombinator.com/item?id=32897962"
-    ],
-    [
-      "Fgtrace – The Full Go Tracer",
-      "https://github.com/felixge/fgtrace"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 13:08:02",
       "https://news.ycombinator.com/item?id=32897784"
     ],
     [
       "Pentagon opens sweeping review of clandestine psychological operations",
       "https://www.washingtonpost.com/national-security/2022/09/19/pentagon-psychological-operations-facebook-twitter/"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 12:38:28",
+      "https://news.ycombinator.com/item?id=32897524"
+    ],
+    [
+      "Sony's Nextorage Demos PCIe 5.0 SSD as It Enters SSD Market",
+      "https://www.tomshardware.com/news/sony-nextorage-pcie5-ssd-demoed"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2022-09-19, 04:12:45",
-      "https://news.ycombinator.com/item?id=32894200"
-    ],
-    [
-      "‘When Eero Met His Match’ Review: Making Saarinen Soar",
-      "https://www.wsj.com/articles/when-eero-met-his-match-book-review-making-saarinen-soar-11663339420"
-    ]
-  ],
-  [
-    [
       "2022-09-18, 16:42:09",
       "https://news.ycombinator.com/item?id=32888990"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2022-09-18, 15:15:07",
-      "https://news.ycombinator.com/item?id=32888210"
+      "2022-09-18, 03:38:14",
+      "https://news.ycombinator.com/item?id=32884191"
     ],
     [
-      "Faraday and Babbage: Semiconductors and Computing in 1833",
-      "https://thechipletter.substack.com/p/faraday-and-babbage-semiconductors"
+      "Caring for the only known full kākāpō feather cloak in the world",
+      "https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/"
     ]
   ]
 ]
