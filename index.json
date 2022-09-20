@@ -1,12 +1,52 @@
 [
   [
     [
+      "2022-09-20, 05:22:50",
+      "https://news.ycombinator.com/item?id=32907963"
+    ],
+    [
+      "Upcoming price and tax changes for apps and in-app purchases",
+      "https://developer.apple.com/news/?id=e1b1hcmv"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 04:41:05",
+      "https://news.ycombinator.com/item?id=32907726"
+    ],
+    [
+      "Why deadlines are pointless and what to do instead",
+      "https://lucasfcosta.com/2022/09/15/deadlines.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 03:58:48",
+      "https://news.ycombinator.com/item?id=32907494"
+    ],
+    [
+      "Stable Diffusion Based Image Compression",
+      "https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 03:13:59",
       "https://news.ycombinator.com/item?id=32907234"
     ],
     [
       "Cache Your CORS",
       "https://httptoolkit.tech/blog/cache-your-cors/"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 02:06:43",
+      "https://news.ycombinator.com/item?id=32906789"
+    ],
+    [
+      "Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers (2019)",
+      "https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2022-09-19, 20:26:26",
-      "https://news.ycombinator.com/item?id=32903456"
-    ],
-    [
-      "‘Serial’ case: Adnan Syed released, conviction tossed",
-      "https://apnews.com/article/baltimore-adnan-syed-hae-min-lee-024f739b28b33cf50e76c50d640c0882"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 20:19:27",
       "https://news.ycombinator.com/item?id=32903367"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2022-09-19, 17:00:01",
-      "https://news.ycombinator.com/item?id=32900942"
-    ],
-    [
-      "Meticulous (YC S21) Is Hiring #3 Founding Engineer in London",
-      "https://news.ycombinator.com/item?id=32900942"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 16:50:41",
       "https://news.ycombinator.com/item?id=32900797"
     ],
     [
       "AI Seamless Texture Generator Built-In to Blender",
       "https://github.com/carson-katri/dream-textures"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 16:50:06",
-      "https://news.ycombinator.com/item?id=32900787"
-    ],
-    [
-      "I'm Building a Self-Destructing USB Drive Part 2",
-      "https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2022-09-19, 13:33:13",
-      "https://news.ycombinator.com/item?id=32898075"
-    ],
-    [
-      "Amazon’s $23M book about flies  (2011)",
-      "https://www.michaeleisen.org/blog/?p=358"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 13:08:02",
-      "https://news.ycombinator.com/item?id=32897784"
-    ],
-    [
-      "Pentagon opens sweeping review of clandestine psychological operations",
-      "https://www.washingtonpost.com/national-security/2022/09/19/pentagon-psychological-operations-facebook-twitter/"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 12:38:28",
       "https://news.ycombinator.com/item?id=32897524"
     ],
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2022-09-19, 12:13:27",
-      "https://news.ycombinator.com/item?id=32897259"
-    ],
-    [
-      "Typeclassopedia (2009)",
-      "https://wiki.haskell.org/Typeclassopedia"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 10:32:51",
       "https://news.ycombinator.com/item?id=32896519"
     ],
     [
       "Automatic Differentiation in OCaml",
       "https://codeberg.org/bit-fu/OCaml-AutomaticDifferentiation"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 07:11:49",
+      "https://news.ycombinator.com/item?id=32895246"
+    ],
+    [
+      "The Talent Vortex: Mafias and Magnets",
+      "https://investing1012dot0.substack.com/p/talent-vortex"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Caring for the only known full kākāpō feather cloak in the world",
       "https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 03:24:16",
+      "https://news.ycombinator.com/item?id=32884130"
+    ],
+    [
+      "Nagorno-Karabakh’s Myth of Ancient Hatreds",
+      "https://www.historytoday.com/miscellanies/nagorno-karabakhs-myth-ancient-hatreds"
     ]
   ]
 ]
