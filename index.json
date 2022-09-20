@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-20, 15:21:25",
+      "https://news.ycombinator.com/item?id=32912953"
+    ],
+    [
+      "GeForce RTX 40 Series",
+      "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 14:59:24",
+      "https://news.ycombinator.com/item?id=32912584"
+    ],
+    [
+      "Cloudflare Beta (2009)",
+      "https://www.projecthoneypot.org/cloudflare_beta.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 14:30:11",
+      "https://news.ycombinator.com/item?id=32912125"
+    ],
+    [
+      "FCC asked to probe US carriers locking handsets to networks",
+      "https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 14:26:03",
       "https://news.ycombinator.com/item?id=32912075"
     ],
@@ -11,22 +41,12 @@
   ],
   [
     [
-      "2022-09-20, 14:24:00",
-      "https://news.ycombinator.com/item?id=32912050"
+      "2022-09-20, 14:16:27",
+      "https://news.ycombinator.com/item?id=32911953"
     ],
     [
-      "Java 19 / JDK 19: General Availability",
-      "https://mail.openjdk.org/pipermail/jdk-dev/2022-September/006933.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 13:53:31",
-      "https://news.ycombinator.com/item?id=32911676"
-    ],
-    [
-      "YouTube May Force You to Watch 10 (Or More) Unskippable Ads in a Row",
-      "https://tedgioia.substack.com/p/youtube-may-force-you-to-watch-10"
+      "Gray386Linux – Linux for 386 Machines",
+      "https://github.com/marmolak/gray386linux"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32911492"
     ],
     [
-      "React I Love You, but You're Bringing Me Down",
+      "React I love you, but you're bringing me down",
       "https://marmelab.com/blog/2022/09/20/react-i-love-you.html"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-20, 03:58:48",
-      "https://news.ycombinator.com/item?id=32907494"
-    ],
-    [
-      "Stable Diffusion Based Image Compression",
-      "https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 03:13:59",
       "https://news.ycombinator.com/item?id=32907234"
     ],
@@ -207,16 +217,6 @@
     [
       "Faster CPython 3.12 Plan",
       "https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 23:57:18",
-      "https://news.ycombinator.com/item?id=32905802"
-    ],
-    [
-      "Show HN: Figr.app – a multi-user, notepad style calculator (desktop app)",
-      "https://www.figr.app/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2022-09-19, 10:54:24",
+      "https://news.ycombinator.com/item?id=32896656"
+    ],
+    [
+      "How to write sports commentary (2009)",
+      "https://www.gamedeveloper.com/audio/the-designer-s-notebook-how-to-write-sports-commentary"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 09:15:35",
       "https://news.ycombinator.com/item?id=32896051"
     ],
@@ -287,16 +297,6 @@
     [
       "'Extremely rare' Rameses II-era burial cave found in Israel",
       "https://phys.org/news/2022-09-extremely-rare-rameses-ii-era-burial.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 03:38:14",
-      "https://news.ycombinator.com/item?id=32884191"
-    ],
-    [
-      "Caring for the only known full kākāpō feather cloak in the world",
-      "https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/"
     ]
   ]
 ]
