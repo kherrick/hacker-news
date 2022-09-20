@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-20, 03:13:59",
+      "https://news.ycombinator.com/item?id=32907234"
+    ],
+    [
+      "Cache Your CORS",
+      "https://httptoolkit.tech/blog/cache-your-cors/"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 01:29:53",
+      "https://news.ycombinator.com/item?id=32906538"
+    ],
+    [
+      "Public buses across country quietly adding microphones to record conversations",
+      "https://www.wired.com/2012/12/public-bus-audio-surveillance/"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 00:33:57",
       "https://news.ycombinator.com/item?id=32906085"
     ],
@@ -31,12 +51,32 @@
   ],
   [
     [
+      "2022-09-19, 23:49:12",
+      "https://news.ycombinator.com/item?id=32905728"
+    ],
+    [
+      "More US Employers Are Trapping Workers in a New Form of Indentured Servitude",
+      "https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 23:22:37",
       "https://news.ycombinator.com/item?id=32905506"
     ],
     [
       "Jqp: A TUI playground for exploring jq",
       "https://github.com/noahgorstein/jqp"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 20:37:26",
+      "https://news.ycombinator.com/item?id=32903606"
+    ],
+    [
+      "An opinionated guide to making friends",
+      "https://blog.aadilali.com/posts/friends.html"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2022-09-19, 19:41:17",
-      "https://news.ycombinator.com/item?id=32902938"
-    ],
-    [
-      "There is no “software supply chain”",
-      "https://iliana.fyi/blog/software-supply-chain/"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 19:07:40",
       "https://news.ycombinator.com/item?id=32902520"
     ],
@@ -117,16 +147,6 @@
     [
       "R. Crumb Means Some Offense",
       "https://www.nytimes.com/2022/09/15/t-magazine/r-crumb.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 18:49:50",
-      "https://news.ycombinator.com/item?id=32902293"
-    ],
-    [
-      "Ask HN: Does Hacker News still do in person meet ups?",
-      "https://news.ycombinator.com/item?id=32902293"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2022-09-19, 11:39:04",
-      "https://news.ycombinator.com/item?id=32896989"
+      "2022-09-19, 10:32:51",
+      "https://news.ycombinator.com/item?id=32896519"
     ],
     [
-      "Unicode character “ꙮ” (U+A66E) is being updated",
-      "https://twitter.com/jonty/status/1571615998335123457"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 11:36:10",
-      "https://news.ycombinator.com/item?id=32896966"
-    ],
-    [
-      "Chess is just poker now",
-      "https://www.theatlantic.com/technology/archive/2022/09/carlsen-niemann-chess-cheating-poker/671472/"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 10:42:08",
-      "https://news.ycombinator.com/item?id=32896580"
-    ],
-    [
-      "Tillitis Key – Mullvad spin-off inspired by measured boot and DICE",
-      "https://www.tillitis.se/"
+      "Automatic Differentiation in OCaml",
+      "https://codeberg.org/bit-fu/OCaml-AutomaticDifferentiation"
     ]
   ],
   [
