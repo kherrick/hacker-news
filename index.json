@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=32909908"
     ],
     [
-      "CSS calc(100% – 0) is invalid, but calc(100% -0px) is valid",
+      "CSS calc(100% – 0) is invalid, but calc(100% - 0px) is valid",
       "https://webplatform.news/#1663639656000"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "The Aerodynamics of Gravel Bikes",
       "https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 09:11:24",
-      "https://news.ycombinator.com/item?id=32909410"
-    ],
-    [
-      "Ask HN: It's always the people isn't it?",
-      "https://news.ycombinator.com/item?id=32909410"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Upcoming price and tax changes for apps and in-app purchases",
       "https://developer.apple.com/news/?id=e1b1hcmv"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 04:41:05",
+      "https://news.ycombinator.com/item?id=32907726"
+    ],
+    [
+      "Deadlines are pointless – what to do instead",
+      "https://lucasfcosta.com/2022/09/15/deadlines.html"
     ]
   ],
   [
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2022-09-19, 20:19:27",
-      "https://news.ycombinator.com/item?id=32903367"
-    ],
-    [
-      "What we learned after I deleted the main production database by mistake",
-      "https://medium.com/@hugo.oliveira.rocha/what-we-learned-after-i-deleted-the-main-production-database-by-mistake-13c0a5815de5"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 19:53:30",
       "https://news.ycombinator.com/item?id=32903064"
     ],
     [
       "Apple is top funder of lobby group that says it represents small developers",
       "https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 19:07:40",
+      "https://news.ycombinator.com/item?id=32902520"
+    ],
+    [
+      "2-in-1 calculator app adds up to surprise hit for retired engineer",
+      "https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c"
     ]
   ],
   [
