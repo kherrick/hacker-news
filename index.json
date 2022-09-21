@@ -1,32 +1,62 @@
 [
   [
     [
+      "2022-09-21, 16:20:37",
+      "https://news.ycombinator.com/item?id=32927416"
+    ],
+    [
+      "SIM Swapper Abducted, Beaten, Held for $200k Ransom",
+      "https://krebsonsecurity.com/2022/09/sim-swapper-abducted-beaten-held-for-200k-ransom/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 16:16:16",
+      "https://news.ycombinator.com/item?id=32927360"
+    ],
+    [
+      "Whisper – open source speech recognition by OpenAI",
+      "https://openai.com/blog/whisper/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 16:12:58",
+      "https://news.ycombinator.com/item?id=32927302"
+    ],
+    [
+      "Danish Data Authory: Usage of Google Analytics Illegal in Some Cases",
+      "https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2022/sep/brug-af-google-analytics-til-webstatistik"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 16:04:28",
+      "https://news.ycombinator.com/item?id=32927156"
+    ],
+    [
+      "New Webb image captures clearest view of Neptune’s rings in decades",
+      "https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 15:57:02",
+      "https://news.ycombinator.com/item?id=32927033"
+    ],
+    [
+      "Your work matters – Build your schedule accordingly",
+      "https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 15:47:21",
       "https://news.ycombinator.com/item?id=32926823"
     ],
     [
       "Hacking anything with GNU Guix",
       "https://gexp.no/blog/hacking-anything-with-gnu-guix.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 15:41:19",
-      "https://news.ycombinator.com/item?id=32926706"
-    ],
-    [
-      "Getty Images will cease to accept art created using AI generative models",
-      "https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 15:31:54",
-      "https://news.ycombinator.com/item?id=32926557"
-    ],
-    [
-      "Ca Hwy 1 closed, shelter-in-place issued for Moss Landing (Tesla Megapack fire)",
-      "https://www.sfgate.com/bayarea/article/Highway-1-closed-shelter-in-place-17455025.php"
     ]
   ],
   [
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2022-09-21, 15:26:06",
+      "https://news.ycombinator.com/item?id=32926469"
+    ],
+    [
+      "The Wage Gap 2",
+      "https://elsajohansson.wordpress.com/2022/09/16/the-wage-gap-2/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 15:19:36",
       "https://news.ycombinator.com/item?id=32926369"
     ],
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2022-09-21, 15:12:53",
-      "https://news.ycombinator.com/item?id=32926281"
+      "2022-09-21, 15:13:01",
+      "https://news.ycombinator.com/item?id=32926283"
     ],
     [
-      "Next-gen stealth bomber the B-21 Raider unveils December 2022",
-      "https://www.northropgrumman.com/what-we-do/air/b-21-raider/"
+      "New JWST image reveals full glory of Neptune, its moons, and rings",
+      "https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/"
     ]
   ],
   [
@@ -85,18 +125,8 @@
       "https://news.ycombinator.com/item?id=32926073"
     ],
     [
-      "Getty Images bans AI-generated content over fears of legal challenges",
+      "Getty Images bans AI-generated content over fears of copyright claims",
       "https://www.theverge.com/2022/9/21/23364696/getty-images-ai-ban-generated-artwork-illustration-copyright"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 14:50:08",
-      "https://news.ycombinator.com/item?id=32925976"
-    ],
-    [
-      "Study finds high levels of PFAS in school uniforms",
-      "https://phys.org/news/2022-09-high-pfas-school-uniforms.html"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2022-09-21, 12:54:38",
-      "https://news.ycombinator.com/item?id=32924403"
-    ],
-    [
-      "Nvidia Reveals RTX 6000 with 48GB GDDR6 ECC Memory",
-      "https://www.tomshardware.com/news/nvidia-reveals-rtx-6000-with-48gb-gddr6-ecc-memory"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 12:43:15",
       "https://news.ycombinator.com/item?id=32924212"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2022-09-21, 12:08:05",
-      "https://news.ycombinator.com/item?id=32923851"
-    ],
-    [
-      "Show HN: OpenZiti Python SDK",
-      "https://openziti.io/openziti-python-sdk-introduction"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 10:58:13",
-      "https://news.ycombinator.com/item?id=32923275"
-    ],
-    [
-      "Entitlement in Open Source",
-      "https://mikemcquaid.com/entitlement-in-open-source/"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 10:50:03",
       "https://news.ycombinator.com/item?id=32923226"
     ],
@@ -235,18 +235,8 @@
       "https://news.ycombinator.com/item?id=32921650"
     ],
     [
-      "Demodesk GmbH Is Hiring a Full-Stack Product Engineer",
+      "Demodesk GmbH (YC W19) Is Hiring a Full-Stack Product Engineer",
       "https://demodesk.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 02:28:09",
-      "https://news.ycombinator.com/item?id=32920235"
-    ],
-    [
-      "Betterbird: a fine-tuned version of Mozilla Thunderbird",
-      "https://www.betterbird.eu/##"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Can I use a system call?",
       "https://justine.lol/cosmopolitan/functions.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 00:49:18",
+      "https://news.ycombinator.com/item?id=32919704"
+    ],
+    [
+      "The Search for the Most Useless Office Perk in the World",
+      "https://www.adsoftheworld.com/campaigns/the-search-for-the-most-useless-office-perk-in-the-world"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=32907722"
     ],
     [
-      "Of Dharma and Doom: A translation revives the ending of an ancient Indian epic",
+      "Of Dharma and Doom: A translation revives the ending of the Mahabharata",
       "https://theamericanscholar.org/of-dharma-and-doom/"
     ]
   ]
