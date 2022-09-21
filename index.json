@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-09-21, 15:27:59",
-      "https://news.ycombinator.com/item?id=32926500"
+      "2022-09-21, 15:31:54",
+      "https://news.ycombinator.com/item?id=32926557"
     ],
     [
-      "The Framework Laptop Chromebook Edition",
-      "https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition"
+      "Ca Hwy 1 closed, shelter-in-place issued for Moss Landing (Tesla Megapack fire)",
+      "https://www.sfgate.com/bayarea/article/Highway-1-closed-shelter-in-place-17455025.php"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 15:26:54",
+      "https://news.ycombinator.com/item?id=32926484"
+    ],
+    [
+      "No, YouTube, I will not subscribe to Premium",
+      "https://www.androidauthority.com/youtube-premium-popups-ads-3209067/"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2022-09-21, 14:52:11",
-      "https://news.ycombinator.com/item?id=32926015"
-    ],
-    [
-      "Address by the President of the Russian Federation",
-      "http://en.kremlin.ru/events/president/news/69390"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 14:50:08",
       "https://news.ycombinator.com/item?id=32925976"
     ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=32925957"
     ],
     [
-      "Scientists calculated global population of ants: 20 quadrillion",
+      "The abundance, biomass, and distribution of ants on Earth",
       "https://www.pnas.org/doi/10.1073/pnas.2201550119"
     ]
   ],
@@ -75,8 +75,18 @@
       "https://news.ycombinator.com/item?id=32925760"
     ],
     [
-      "Decipad – It's like Notion with problem-solving capabilities",
+      "Decipad – Like Notion with problem-solving capabilities",
       "https://www.decipad.com"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 14:33:47",
+      "https://news.ycombinator.com/item?id=32925734"
+    ],
+    [
+      "Introducing LiteFS",
+      "https://fly.io/blog/introducing-litefs/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "How Julia ODE Solve Compile Time Was Reduced from 30 Seconds to 0.1",
       "https://sciml.ai/news/2022/09/21/compile_time/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 12:19:09",
-      "https://news.ycombinator.com/item?id=32923948"
-    ],
-    [
-      "Amazon Built a New Unit to Fix Its Crumbling Engineering Culture",
-      "https://www.businessinsider.com/amazon-created-a-new-builder-experience-team-to-fix-developer-culture-2022-9"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2022-09-21, 04:37:47",
-      "https://news.ycombinator.com/item?id=32920846"
-    ],
-    [
-      "What's new for RISC-V in LLVM 15",
-      "https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 02:28:09",
       "https://news.ycombinator.com/item?id=32920235"
     ],
@@ -267,6 +257,16 @@
     [
       "Can I use a system call?",
       "https://justine.lol/cosmopolitan/functions.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 05:48:50",
+      "https://news.ycombinator.com/item?id=32908106"
+    ],
+    [
+      "What the Queen's English revealed about a changing world",
+      "https://www.bbc.com/future/article/20220915-what-the-queens-english-told-us-about-a-changing-world"
     ]
   ],
   [
