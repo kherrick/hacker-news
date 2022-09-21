@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-21, 18:41:53",
+      "https://news.ycombinator.com/item?id=32929467"
+    ],
+    [
+      "MinIO passes 1B cumulative Docker Pulls",
+      "https://blog.min.io/one-billion-docker-pulls/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 18:41:28",
       "https://news.ycombinator.com/item?id=32929454"
     ],
@@ -61,32 +71,12 @@
   ],
   [
     [
-      "2022-09-21, 17:07:08",
-      "https://news.ycombinator.com/item?id=32928096"
-    ],
-    [
-      "Checkmate: Cheating Detection",
-      "https://joeposnanski.substack.com/p/checkmate"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 16:50:16",
       "https://news.ycombinator.com/item?id=32927848"
     ],
     [
       "Meta and Google are cutting staff",
       "https://www.wsj.com/articles/meta-and-google-are-cutting-staff-just-dont-mention-layoffs-11663778729"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 16:20:37",
-      "https://news.ycombinator.com/item?id=32927416"
-    ],
-    [
-      "SIM swapper abducted, beaten, held for ransom",
-      "https://krebsonsecurity.com/2022/09/sim-swapper-abducted-beaten-held-for-200k-ransom/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Pliant language and FullPliant operating system",
       "http://www.fullpliant.org/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:28:47",
+      "https://news.ycombinator.com/item?id=32924042"
+    ],
+    [
+      "How Julia ODE Solve Compile Time Was Reduced from 30 Seconds to 0.1",
+      "https://sciml.ai/news/2022/09/21/compile_time/"
     ]
   ],
   [
