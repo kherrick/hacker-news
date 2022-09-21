@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-21, 15:47:21",
+      "https://news.ycombinator.com/item?id=32926823"
+    ],
+    [
+      "Hacking anything with GNU Guix",
+      "https://gexp.no/blog/hacking-anything-with-gnu-guix.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 15:41:19",
+      "https://news.ycombinator.com/item?id=32926706"
+    ],
+    [
+      "Getty Images will cease to accept art created using AI generative models",
+      "https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 15:31:54",
       "https://news.ycombinator.com/item?id=32926557"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2022-09-21, 15:26:54",
-      "https://news.ycombinator.com/item?id=32926484"
+      "2022-09-21, 15:31:11",
+      "https://news.ycombinator.com/item?id=32926546"
     ],
     [
-      "No, YouTube, I will not subscribe to Premium",
-      "https://www.androidauthority.com/youtube-premium-popups-ads-3209067/"
+      "Q – Run SQL Directly on CSV or TSV Files",
+      "http://harelba.github.io/q/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 15:26:20",
+      "https://news.ycombinator.com/item?id=32926477"
+    ],
+    [
+      "I’ve been building a database of successful companies",
+      "https://www.starterstory.com/explore"
     ]
   ],
   [
@@ -31,12 +61,22 @@
   ],
   [
     [
+      "2022-09-21, 15:12:53",
+      "https://news.ycombinator.com/item?id=32926281"
+    ],
+    [
+      "Next-gen stealth bomber the B-21 Raider unveils December 2022",
+      "https://www.northropgrumman.com/what-we-do/air/b-21-raider/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 15:06:29",
       "https://news.ycombinator.com/item?id=32926201"
     ],
     [
-      "Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT",
-      "https://finance.yahoo.com/news/stablecoin-issuer-tether-ordered-produce-041706661.html"
+      "Tether ordered to produce documents showing backing of USDT [pdf]",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.524076/gov.uscourts.nysd.524076.247.0.pdf"
     ]
   ],
   [
@@ -85,18 +125,8 @@
       "https://news.ycombinator.com/item?id=32925734"
     ],
     [
-      "Introducing LiteFS",
+      "LiteFS",
       "https://fly.io/blog/introducing-litefs/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 14:24:58",
-      "https://news.ycombinator.com/item?id=32925580"
-    ],
-    [
-      "Parallel Economy: Censor-Resistant Payment Processing",
-      "https://www.paralleleconomy.com/payments/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-09-21, 12:10:59",
-      "https://news.ycombinator.com/item?id=32923882"
-    ],
-    [
-      "“I Was Tortured in the Pasadena Jailhouse” by Bobby Fischer (1982)",
-      "https://timkr.home.xs4all.nl/chess2/pasad.htm"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 12:08:05",
       "https://news.ycombinator.com/item?id=32923851"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-09-21, 10:12:56",
-      "https://news.ycombinator.com/item?id=32922951"
-    ],
-    [
-      "Building a Replicable EMFI Setup for Desktop and Server Hardware",
-      "https://arxiv.org/abs/2209.09835"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 09:31:38",
       "https://news.ycombinator.com/item?id=32922609"
     ],
@@ -227,16 +237,6 @@
     [
       "Demodesk GmbH Is Hiring a Full-Stack Product Engineer",
       "https://demodesk.com/careers"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 06:14:30",
-      "https://news.ycombinator.com/item?id=32921376"
-    ],
-    [
-      "20×10%",
-      "https://lars.ingebrigtsen.no/2022/09/20/20x10/"
     ]
   ],
   [
