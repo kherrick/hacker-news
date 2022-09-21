@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-21, 07:30:32",
+      "https://news.ycombinator.com/item?id=32921819"
+    ],
+    [
+      "Liz Truss urges world leaders to follow UK with trickle down economics",
+      "https://www.theguardian.com/politics/2022/sep/20/liz-truss-urges-world-leaders-to-follow-uk-with-trickle-down-economics"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 07:01:07",
       "https://news.ycombinator.com/item?id=32921650"
     ],
@@ -27,16 +37,6 @@
     [
       "The Right to Read (1997)",
       "https://www.gnu.org/philosophy/right-to-read.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 05:35:43",
-      "https://news.ycombinator.com/item?id=32921157"
-    ],
-    [
-      "Hotel Safety Tips from a Former Intelligence Officer",
-      "https://www.securitymagazine.com/blogs/14-security-blog/post/89106-hotel-safety-tips-from-a-former-intelligence-officer"
     ]
   ],
   [
@@ -191,36 +191,6 @@
   ],
   [
     [
-      "2022-09-20, 15:57:56",
-      "https://news.ycombinator.com/item?id=32913533"
-    ],
-    [
-      "Wasmtime 1.0",
-      "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 15:52:11",
-      "https://news.ycombinator.com/item?id=32913443"
-    ],
-    [
-      "JITX (YC S18) launches general availability and announces Series A from Sequoia",
-      "https://www.jitx.com/blog/series-a-announcement"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 15:42:50",
-      "https://news.ycombinator.com/item?id=32913301"
-    ],
-    [
-      "GTK4 Bindings for Common Lisp",
-      "https://github.com/bohonghuang/cl-gtk4"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 15:31:50",
       "https://news.ycombinator.com/item?id=32913125"
     ],
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2022-09-20, 13:50:09",
+      "https://news.ycombinator.com/item?id=32911640"
+    ],
+    [
+      "uBlock Origin Lite: Description",
+      "https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 13:22:48",
       "https://news.ycombinator.com/item?id=32911299"
     ],
@@ -277,6 +257,26 @@
     [
       "What I’ve learned from users",
       "http://paulgraham.com/users.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 03:58:48",
+      "https://news.ycombinator.com/item?id=32907494"
+    ],
+    [
+      "Stable Diffusion based image compression",
+      "https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 20:20:10",
+      "https://news.ycombinator.com/item?id=32903376"
+    ],
+    [
+      "Mrs. Bundy (2015)",
+      "https://themorningnews.org/article/mrs.-bundy"
     ]
   ],
   [
