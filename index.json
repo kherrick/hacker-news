@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-21, 13:22:57",
+      "https://news.ycombinator.com/item?id=32924798"
+    ],
+    [
+      "Twitch Finally Takes Action Against Gambling",
+      "https://www.jacobwolf.report/p/twitch-finally-takes-action-against"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:54:38",
+      "https://news.ycombinator.com/item?id=32924403"
+    ],
+    [
+      "Nvidia Reveals RTX 6000 with 48GB GDDR6 ECC Memory",
+      "https://www.tomshardware.com/news/nvidia-reveals-rtx-6000-with-48gb-gddr6-ecc-memory"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 12:43:15",
       "https://news.ycombinator.com/item?id=32924212"
     ],
@@ -17,6 +37,36 @@
     [
       "Pliant language and FullPliant operating system",
       "http://www.fullpliant.org/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:39:04",
+      "https://news.ycombinator.com/item?id=32924159"
+    ],
+    [
+      "Show HN: I made a site that easily lets you generate AI images using templates",
+      "https://phantasmagoria.stavros.io/templates/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:28:47",
+      "https://news.ycombinator.com/item?id=32924042"
+    ],
+    [
+      "How Julia ODE Solve Compile Time Was Reduced from 30 Seconds to 0.1",
+      "https://sciml.ai/news/2022/09/21/compile_time/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 12:19:09",
+      "https://news.ycombinator.com/item?id=32923948"
+    ],
+    [
+      "Amazon Built a New Unit to Fix Its Crumbling Engineering Culture",
+      "https://www.businessinsider.com/amazon-created-a-new-builder-experience-team-to-fix-developer-culture-2022-9"
     ]
   ],
   [
@@ -41,32 +91,12 @@
   ],
   [
     [
-      "2022-09-21, 11:59:28",
-      "https://news.ycombinator.com/item?id=32923775"
-    ],
-    [
-      "Karelian Question",
-      "https://en.wikipedia.org/wiki/Karelian_question"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 11:49:46",
       "https://news.ycombinator.com/item?id=32923693"
     ],
     [
       "An anonymous donor just sent 299 Ether (equivalent to 393k USD) to redox_OS",
       "https://twitter.com/jeremy_soller/status/1572350419594268673"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 11:12:25",
-      "https://news.ycombinator.com/item?id=32923398"
-    ],
-    [
-      "The De-Population Bomb",
-      "https://www.hoover.org/research/de-population-bomb"
     ]
   ],
   [
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2022-09-21, 09:31:38",
+      "https://news.ycombinator.com/item?id=32922609"
+    ],
+    [
+      "Tonarino/innernet: A private network system that uses WireGuard under the hood",
+      "https://github.com/tonarino/innernet"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 08:34:10",
       "https://news.ycombinator.com/item?id=32922231"
     ],
@@ -167,16 +207,6 @@
     [
       "Solving Entry-Level Edge AI Challenges with Nvidia Jetson Orin Nano",
       "https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 05:03:39",
-      "https://news.ycombinator.com/item?id=32920990"
-    ],
-    [
-      "Energy Efficiency across Programming Languages (2017) [pdf]",
-      "https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf"
     ]
   ],
   [
@@ -221,36 +251,6 @@
   ],
   [
     [
-      "2022-09-20, 17:50:27",
-      "https://news.ycombinator.com/item?id=32915263"
-    ],
-    [
-      "EU Open Web Search project kicked off",
-      "https://openwebsearch.eu/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 15:31:50",
-      "https://news.ycombinator.com/item?id=32913125"
-    ],
-    [
-      "Learn how to unleash the full potential of the type system of TypeScript",
-      "https://type-level-typescript.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 14:43:48",
-      "https://news.ycombinator.com/item?id=32912323"
-    ],
-    [
-      "Can software simplify the supply chain?",
-      "https://www.theverge.com/2022/9/20/23362021/flexport-supply-chain-crisis-logistics-software-tech"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 13:22:48",
       "https://news.ycombinator.com/item?id=32911299"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2022-09-20, 13:13:50",
-      "https://news.ycombinator.com/item?id=32911195"
-    ],
-    [
-      "What I’ve learned from users",
-      "http://paulgraham.com/users.html"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 04:48:29",
       "https://news.ycombinator.com/item?id=32907768"
     ],
     [
       "Vietnam’s Ancient Whale Temples Are Helping Science",
       "https://www.atlasobscura.com/articles/whale-temples-vietnam"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 04:40:29",
+      "https://news.ycombinator.com/item?id=32907722"
+    ],
+    [
+      "Of Dharma and Doom: A translation revives the ending of an ancient Indian epic",
+      "https://theamericanscholar.org/of-dharma-and-doom/"
     ]
   ],
   [
